@@ -2,7 +2,7 @@
 "use strict";
 
 /* =========================================================
-CAT Translation Memory V49 Mobile Hidden HTML TM Import + Same-Format DOCX Export
+CAT Translation Memory V51 Mobile Hidden HTML TM Fixed + Same-Format DOCX Export
 - Collapse / show source input area
 - Top counters: Average, Segments, Confirmed, Needs Translation, Needs Review
 - Word A3 with visual Track Changes
@@ -16,7 +16,7 @@ CAT Translation Memory V49 Mobile Hidden HTML TM Import + Same-Format DOCX Expor
 
 var APP = {
 id: "cat-v45-pro-stable-enhanced-confirmed",
-version: "V49 Mobile Hidden HTML TM Import",
+version: "V51 Mobile Hidden HTML TM Fixed",
 hostId: "cat-v45-pro-stable-enhanced-confirmed-host",
 built: false,
 building: false,
@@ -805,7 +805,7 @@ return { text: line, lang: forcedLang || lang(line), paraIndex: i };
 
 async function createTargetDocxSameFormat(results) {
 if (!APP.sourceDocxArrayBuffer) {
-throw new Error("ÙÙ ÙØªÙ Ø§Ø³ØªÙØ±Ø§Ø¯ ÙÙÙ DOCX ÙØµØ¯Ø±. Ø§Ø³ØªÙØ±Ø¯ ÙÙÙ Word Ø£ÙÙÙØ§.");
+throw new Error("\u0644\u0645 \u064A\u062A\u0645 \u0627\u0633\u062A\u064A\u0631\u0627\u062F \u0645\u0644\u0641 DOCX \u0645\u0635\u062F\u0631. \u0627\u0633\u062A\u0648\u0631\u062F \u0645\u0644\u0641 Word \u0623\u0648\u0644\u064B\u0627.");
 }
 
 var pkg = await parseDocxPackage(APP.sourceDocxArrayBuffer);
@@ -816,15 +816,15 @@ return flat(r.target || r.best || "");
 });
 
 if (!targets.length) {
-throw new Error("ÙØ§ ØªÙØ¬Ø¯ ÙØªØ§Ø¦Ø¬ ÙØ¯Ù ÙÙØªØµØ¯ÙØ±. Ø­ÙÙÙ Ø§ÙÙØµ ÙØ§Ø¹ØªÙØ¯ Ø§ÙØªØ±Ø¬ÙØ§Øª Ø£ÙÙÙØ§.");
+throw new Error("\u0644\u0627 \u062A\u0648\u062C\u062F \u0646\u062A\u0627\u0626\u062C \u0647\u062F\u0641 \u0644\u0644\u062A\u0635\u062F\u064A\u0631. \u062D\u0644\u0651\u0644 \u0627\u0644\u0646\u0635 \u0648\u0627\u0639\u062A\u0645\u062F \u0627\u0644\u062A\u0631\u062C\u0645\u0627\u062A \u0623\u0648\u0644\u064B\u0627.");
 }
 
 if (targets.length !== pkg.paragraphs.length) {
 throw new Error(
-"Ø¹Ø¯Ø¯ ÙÙØ±Ø§Øª Ø§ÙÙØ§ÙØ¨ ÙØ§ ÙØ³Ø§ÙÙ Ø¹Ø¯Ø¯ ÙØªØ§Ø¦Ø¬ Ø§ÙØªØ±Ø¬ÙØ©. " +
-"ÙØ£ÙØ¶Ù ÙØªÙØ¬Ø©Ø Ø§Ø³ØªÙØ±Ø¯ DOCX Ø«Ù Ø§Ø¶ØºØ· ØªØ­ÙÙÙ ÙØ¨Ø§Ø´Ø±Ø© Ø¯ÙÙ ØªÙØ³ÙÙ ÙØ¯ÙÙ. " +
-"ÙÙØ±Ø§Øª Ø§ÙÙØ§ÙØ¨: " + asc(pkg.paragraphs.length) +
-" / ÙØªØ§Ø¦Ø¬ Ø§ÙÙØ¯Ù: " + asc(targets.length)
+"\u0639\u062F\u062F \u0641\u0642\u0631\u0627\u062A \u0627\u0644\u0642\u0627\u0644\u0628 \u0644\u0627 \u064A\u0633\u0627\u0648\u064A \u0639\u062F\u062F \u0646\u062A\u0627\u0626\u062C \u0627\u0644\u062A\u0631\u062C\u0645\u0629. " +
+"\u0644\u0623\u0641\u0636\u0644 \u0646\u062A\u064A\u062C\u0629\u060C \u0627\u0633\u062A\u0648\u0631\u062F DOCX \u062B\u0645 \u0627\u0636\u063A\u0637 \u062A\u062D\u0644\u064A\u0644 \u0645\u0628\u0627\u0634\u0631\u0629 \u062F\u0648\u0646 \u062A\u0642\u0633\u064A\u0645 \u064A\u062F\u0648\u064A. " +
+"\u0641\u0642\u0631\u0627\u062A \u0627\u0644\u0642\u0627\u0644\u0628: " + asc(pkg.paragraphs.length) +
+" / \u0646\u062A\u0627\u0626\u062C \u0627\u0644\u0647\u062F\u0641: " + asc(targets.length)
 );
 }
 
@@ -1177,7 +1177,7 @@ var zipEntries = await readZipAllEntries(await file.arrayBuffer());
 var docxEntries = zipEntries.filter(function (e) {
 return /\.docx$/i.test(e.name) && !/(^|\/)~\$/i.test(e.name) && e.bytes && e.bytes.length;
 });
-if (!docxEntries.length) throw new Error("ÙÙ ÙØªÙ Ø§ÙØ¹Ø«ÙØ± Ø¹ÙÙ ÙÙÙØ§Øª DOCX Ø¯Ø§Ø®Ù ÙÙÙ ZIP.");
+if (!docxEntries.length) throw new Error("\u0644\u0645 \u064A\u062A\u0645 \u0627\u0644\u0639\u062B\u0648\u0631 \u0639\u0644\u0649 \u0645\u0644\u0641\u0627\u062A DOCX \u062F\u0627\u062E\u0644 \u0645\u0644\u0641 ZIP.");
 
 var totalPairs = 0;
 var added = 0;
@@ -1190,7 +1190,7 @@ if (APP.stop) break;
 var entry = docxEntries[i];
 try {
 ui.progress(i, docxEntries.length);
-ui.status("Ø§Ø³ØªÙØ±Ø§Ø¯ Word ZIP: " + asc(i + 1) + " / " + asc(docxEntries.length) + " â " + entry.name);
+ui.status("\u0627\u0633\u062A\u064A\u0631\u0627\u062F Word ZIP: " + asc(i + 1) + " / " + asc(docxEntries.length) + " \u2014 " + entry.name);
 var pairs = await extractBilingualPairsFromDocxBytes(entry.bytes, entry.name);
 totalPairs += pairs.length;
 pairs.forEach(function (p) {
@@ -1224,18 +1224,6 @@ m.setAttribute("name", "viewport");
 m.setAttribute("content", "width=device-width, initial-scale=1, viewport-fit=cover");
 (document.head || document.documentElement).appendChild(m);
 } catch (e) {}
-}
-
-function readLocalFileText(file) {
-if (file && typeof file.text === "function") return file.text();
-return new Promise(function (resolve, reject) {
-try {
-var reader = new FileReader();
-reader.onload = function () { resolve(String(reader.result || "")); };
-reader.onerror = function () { reject(reader.error || new Error("FileReader failed.")); };
-reader.readAsText(file, "UTF-8");
-} catch (e) { reject(e); }
-});
 }
 
 function buildHiddenHTMLMemoryFromText(htmlText, fileName, ui) {
@@ -1311,7 +1299,7 @@ addTU(arTexts[a], enTexts[e], i, "hidden-html-cell-pair:" + (fileName || ""));
 }
 
 ui.progress(i, total || 1);
-ui.status("Hidden HTML TM: " + asc(i) + " / " + asc(total) + " â TM: " + asc(APP.tus.length));
+ui.status("Hidden HTML TM: " + asc(i) + " / " + asc(total) + " - TM: " + asc(APP.tus.length));
 
 if (i < total) setTimeout(step, 1);
 else finish();
@@ -1331,7 +1319,6 @@ reject(e);
 }
 });
 }
-
 
 function createHost() {
 var old = document.getElementById(APP.hostId);
@@ -1407,147 +1394,43 @@ shadow.innerHTML = [
 ".hiddenFile{display:none}",
 ".targetDraft.ar{font-family:'GE SS Two Light','GE SS Light Text',Tahoma,Arial;font-size:15px;text-align:justify;text-justify:kashida}",
 ".targetDraft.en{font-family:'Segoe UI',Segoe,Arial;font-size:15px;text-align:justify}",
-"",
-"/* ===== Mobile responsive + hidden HTML TM button fix ===== */",
-"@media (max-width: 820px), (hover:none) and (pointer:coarse){",
-".panel{",
-" inset:0!important;",
-" width:100dvw!important;",
-" height:100dvh!important;",
-" max-width:100dvw!important;",
-" max-height:100dvh!important;",
-" border-radius:0!important;",
-" border:0!important;",
-"}",
-".panel.open{display:flex!important;flex-direction:column!important}",
-".top{",
-" height:auto!important;",
-" min-height:54px!important;",
-" padding:8px 10px!important;",
-" gap:8px!important;",
-" flex-wrap:wrap!important;",
-" position:sticky!important;",
-" top:0!important;",
-" z-index:10!important;",
-"}",
-".title{",
-" font-size:12px!important;",
-" line-height:1.35!important;",
-" white-space:normal!important;",
-" max-width:calc(100% - 145px)!important;",
-"}",
-".close{width:38px!important;height:38px!important}",
-".iconBtn{height:38px!important;min-width:64px!important;font-size:13px!important}",
-".dash{",
-" display:flex!important;",
-" grid-template-columns:none!important;",
-" overflow-x:auto!important;",
-" gap:8px!important;",
-" padding:8px!important;",
-" -webkit-overflow-scrolling:touch!important;",
-"}",
-".statCard{",
-" min-width:145px!important;",
-" flex:0 0 145px!important;",
-" padding:8px!important;",
-" border-radius:12px!important;",
-"}",
-".statCard .lab{font-size:11px!important;line-height:1.35!important}",
-".statCard .val{font-size:19px!important}",
-".body{",
-" display:flex!important;",
-" flex-direction:column!important;",
-" padding:8px!important;",
-" gap:8px!important;",
-" min-height:0!important;",
-" overflow:auto!important;",
-" -webkit-overflow-scrolling:touch!important;",
-"}",
-".side{",
-" width:100%!important;",
-" max-height:none!important;",
-" display:grid!important;",
-" grid-template-columns:1fr 1fr!important;",
-" gap:7px!important;",
-" padding:8px!important;",
-" overflow:visible!important;",
-"}",
-".side button,.side select,.side input{",
-" width:100%!important;",
-" min-width:0!important;",
-" height:40px!important;",
-" font-size:12px!important;",
-" padding:0 8px!important;",
-" border-radius:999px!important;",
-" white-space:nowrap!important;",
-" overflow:hidden!important;",
-" text-overflow:ellipsis!important;",
-"}",
-".statusBox,.bar,.mini{grid-column:1 / -1!important}",
-".mainbox{",
-" width:100%!important;",
-" min-height:52vh!important;",
-" overflow:hidden!important;",
-"}",
-".inputArea{padding:8px!important}",
-"textarea#source{",
-" min-height:96px!important;",
-" max-height:28vh!important;",
-" font-size:16px!important;",
-"}",
-".tablewrap{",
-" overflow:auto!important;",
-" -webkit-overflow-scrolling:touch!important;",
-"}",
-".tablewrap table,",
-".tablewrap thead,",
-".tablewrap tbody,",
-".tablewrap tr,",
-".tablewrap th,",
-".tablewrap td{",
-" display:block!important;",
-" width:100%!important;",
-"}",
-".tablewrap thead{display:none!important}",
-".tablewrap tr{",
-" border:1px solid #dbe2ea!important;",
-" border-radius:14px!important;",
-" margin:10px 0!important;",
-" overflow:hidden!important;",
-" background:#fff!important;",
-"}",
-".tablewrap td{",
-" border-right:0!important;",
-" border-bottom:1px solid #eef2f7!important;",
-" padding:10px!important;",
-" background:#fff!important;",
-"}",
-".tablewrap td::before{",
-" display:block!important;",
-" margin-bottom:5px!important;",
-" color:#64748b!important;",
-" font:900 11px 'Segoe UI',Tahoma,Arial!important;",
-" direction:ltr!important;",
-" text-align:left!important;",
-"}",
-".tablewrap td.num::before{content:\"#\"}",
-".tablewrap td.src::before{content:\"Source Segment\"}",
-".tablewrap td.best::before{content:\"Best Match\"}",
-".tablewrap td.match::before{content:\"Match\"}",
-".tablewrap td.target::before{content:\"Target Draft\"}",
-".tablewrap td.stat::before{content:\"Status\"}",
-".targetDraft{min-height:78px!important;font-size:15px!important}",
-".fab{",
-" right:12px!important;",
-" bottom:12px!important;",
-" padding:12px 14px!important;",
-"}",
-"}",
-"@media (max-width:420px){",
-".side{grid-template-columns:1fr!important}",
-".statCard{min-width:132px!important;flex-basis:132px!important}",
-"}",
-"","</style>",
+
+".filePick{position:relative;display:flex;align-items:center;justify-content:center;height:34px;border:1px solid #2563eb;border-radius:9px;background:#2563eb;color:#fff;font:800 12px 'GE SS Two Light','Segoe UI',Tahoma,Arial;cursor:pointer;overflow:hidden;text-align:center;direction:ltr}",
+".filePick input{position:absolute;inset:0;width:100%;height:100%;opacity:0;cursor:pointer;font-size:0}",
+".panel.catMobile{inset:0!important;width:100dvw!important;height:100dvh!important;max-width:100dvw!important;max-height:100dvh!important;border-radius:0!important;border:0!important}",
+".panel.catMobile.open{display:flex!important;flex-direction:column!important}",
+".panel.catMobile .top{height:auto!important;min-height:54px!important;padding:8px 10px!important;gap:8px!important;flex-wrap:wrap!important;position:sticky!important;top:0!important;z-index:10!important}",
+".panel.catMobile .title{font-size:12px!important;line-height:1.35!important;white-space:nowrap!important;overflow:hidden!important;text-overflow:ellipsis!important;max-width:calc(100% - 170px)!important}",
+".panel.catMobile .close{width:38px!important;height:38px!important}",
+".panel.catMobile .iconBtn{height:38px!important;min-width:64px!important;font-size:13px!important}",
+".panel.catMobile .dash{display:flex!important;grid-template-columns:none!important;overflow-x:auto!important;gap:8px!important;padding:8px!important;-webkit-overflow-scrolling:touch!important}",
+".panel.catMobile .statCard{min-width:145px!important;flex:0 0 145px!important;padding:8px!important;border-radius:12px!important}",
+".panel.catMobile .statCard .lab{font-size:11px!important;line-height:1.35!important}",
+".panel.catMobile .statCard .val{font-size:19px!important}",
+".panel.catMobile .body{display:flex!important;flex-direction:column!important;padding:8px!important;gap:8px!important;min-height:0!important;overflow:auto!important;-webkit-overflow-scrolling:touch!important}",
+".panel.catMobile .side{width:100%!important;max-height:40vh!important;display:grid!important;grid-template-columns:1fr 1fr!important;gap:7px!important;padding:8px!important;overflow:auto!important;-webkit-overflow-scrolling:touch!important}",
+".panel.catMobile .side button,.panel.catMobile .side select,.panel.catMobile .side input,.panel.catMobile .side .filePick{width:100%!important;min-width:0!important;height:40px!important;font-size:12px!important;padding:0 8px!important;border-radius:999px!important;white-space:nowrap!important;overflow:hidden!important;text-overflow:ellipsis!important}",
+".panel.catMobile .filePick input{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;opacity:0!important;padding:0!important;border:0!important}",
+".panel.catMobile .statusBox,.panel.catMobile .bar,.panel.catMobile .mini{grid-column:1 / -1!important}",
+".panel.catMobile .mainbox{width:100%!important;min-height:52vh!important;overflow:hidden!important}",
+".panel.catMobile .inputArea{padding:8px!important}",
+".panel.catMobile textarea#source{min-height:96px!important;max-height:28vh!important;font-size:16px!important}",
+".panel.catMobile .tablewrap{overflow:auto!important;-webkit-overflow-scrolling:touch!important}",
+".panel.catMobile .tablewrap table,.panel.catMobile .tablewrap thead,.panel.catMobile .tablewrap tbody,.panel.catMobile .tablewrap tr,.panel.catMobile .tablewrap th,.panel.catMobile .tablewrap td{display:block!important;width:100%!important}",
+".panel.catMobile .tablewrap thead{display:none!important}",
+".panel.catMobile .tablewrap tr{border:1px solid #dbe2ea!important;border-radius:14px!important;margin:10px 0!important;overflow:hidden!important;background:#fff!important}",
+".panel.catMobile .tablewrap td{border-right:0!important;border-bottom:1px solid #eef2f7!important;padding:10px!important;background:#fff!important}",
+".panel.catMobile .tablewrap td::before{display:block!important;margin-bottom:5px!important;color:#64748b!important;font:900 11px 'Segoe UI',Tahoma,Arial!important;direction:ltr!important;text-align:left!important}",
+".panel.catMobile .tablewrap td.num::before{content:'#'}",
+".panel.catMobile .tablewrap td.src::before{content:'Source Segment'}",
+".panel.catMobile .tablewrap td.best::before{content:'Best Match'}",
+".panel.catMobile .tablewrap td.match::before{content:'Match'}",
+".panel.catMobile .tablewrap td.target::before{content:'Target Draft'}",
+".panel.catMobile .tablewrap td.stat::before{content:'Status'}",
+".panel.catMobile .targetDraft{min-height:78px!important;font-size:15px!important}",
+".panel.catMobile .fab{right:12px!important;bottom:12px!important;padding:12px 14px!important}",
+"@media (max-width:420px){.panel.catMobile .side{grid-template-columns:1fr!important}.panel.catMobile .statCard{min-width:132px!important;flex-basis:132px!important}}",
+"</style>",
 
 "<button class='fab' id='fab'>CAT V45 Pro</button>",
 "<section class='panel' id='panel'>",
@@ -1564,14 +1447,14 @@ shadow.innerHTML = [
 "<div class='body'>",
 "<aside class='side'>",
 "<button class='green' id='build'>\u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629</button>",
-"<button class='primary' id='importHTMLMemory' title='Hidden HTML Translation Memory'>Import HTML TM</button>",
+"<label class='filePick primary' id='importHTMLMemoryLabel' title='Hidden HTML Translation Memory'>Import HTML TM<input id='fileHTMLMemory' type='file' accept='.html,.htm,text/html'></label>",
 "<button class='primary' id='analyze'>\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0646\u0635</button>",
 "<button class='gold' id='acceptAll'>\u0627\u0639\u062a\u0645\u0627\u062f \u0627\u0644\u0623\u0641\u0636\u0644</button>",
 "<button id='copy'>\u0646\u0633\u062e Target Draft</button>",
 "<button id='concordance'>\u0628\u062d\u062b Concordance</button>",
 "<input id='concordQ' placeholder='\u0628\u062d\u062b \u0641\u064a \u0627\u0644\u0630\u0627\u0643\u0631\u0629...' style='padding:0 8px'>",
 "<button id='importDOCX'>Import Word DOCX</button>",
-"<button id='importDOCXZip'>Ø§Ø³ØªÙØ±Ø§Ø¯ ZIP Word ÙØ°Ø§ÙØ±Ø©</button>",
+"<button id='importDOCXZip'>\u0627\u0633\u062A\u064A\u0631\u0627\u062F ZIP Word \u0643\u0630\u0627\u0643\u0631\u0629</button>",
 "<button id='importTerms'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f \u0645\u0635\u0637\u0644\u062d\u0627\u062a CSV</button>",
 "<button id='importTMX'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f TMX</button>",
 "<button id='exportTMX'>\u062a\u0635\u062f\u064a\u0631 TMX</button>",
@@ -1580,7 +1463,7 @@ shadow.innerHTML = [
 "<button id='loadProject'>\u0641\u062a\u062d \u0645\u0634\u0631\u0648\u0639 JSON</button>",
 "<button id='report'>\u062a\u0642\u0631\u064a\u0631 HTML</button>",
 "<button id='word'>Word A3 + Track Changes</button>",
-"<button id='wordSameFormat'>ØªØµØ¯ÙØ± DOCX Ø¨ÙÙØ³ ØªÙØ³ÙÙ Ø§ÙÙØµØ¯Ø±</button>",
+"<button id='wordSameFormat'>Export Same DOCX</button>",
 "<button id='clear'>\u0645\u0633\u062d \u0627\u0644\u0646\u062a\u0627\u0626\u062c</button>",
 "<button class='red' id='stop'>\u0625\u064a\u0642\u0627\u0641</button>",
 "<select id='slang'><option value='auto'>\u062a\u0644\u0642\u0627\u0626\u064a</option><option value='ar'>\u0639\u0631\u0628\u064a \u2190 \u0625\u0646\u062c\u0644\u064a\u0632\u064a</option><option value='en'>English \u2192 Arabic</option></select>",
@@ -1601,7 +1484,6 @@ shadow.innerHTML = [
 "</div>",
 
 "<input class='hiddenFile' id='fileDOCX' type='file' accept='.docx,application/vnd.openxmlformats-officedocument.wordprocessingml.document'>",
-"<input class='hiddenFile' id='fileHTMLMemory' type='file' accept='.html,.htm,text/html'>",
 "<input class='hiddenFile' id='fileDOCXZip' type='file' accept='.zip,application/zip,application/x-zip-compressed'>",
 "<input class='hiddenFile' id='fileTerms' type='file' accept='.csv,.txt'>",
 "<input class='hiddenFile' id='fileTMX' type='file' accept='.tmx,.xml,.txt'>",
@@ -1624,7 +1506,12 @@ fill.style.width = p + "%";
 }
 };
 
-function open() { panel.classList.add("open"); }
+function isMobileCAT() {
+try { return (window.innerWidth || document.documentElement.clientWidth || 0) <= 900 || /Android|iPhone|iPad|iPod|Mobile/i.test(navigator.userAgent || ""); }
+catch (e) { return false; }
+}
+function applyMobileMode() { panel.classList.toggle("catMobile", isMobileCAT()); }
+function open() { applyMobileMode(); panel.classList.add("open"); }
 function close() { panel.classList.remove("open"); }
 
 function setSourceCollapsed(collapsed) {
@@ -1808,6 +1695,8 @@ step();
 $("#fab").onclick = open;
 $("#close").onclick = close;
 window.addEventListener("CAT_V45_PRO_OPEN", open);
+window.addEventListener("resize", applyMobileMode);
+window.addEventListener("orientationchange", applyMobileMode);
 
 $("#toggleSourceIcon").onclick = function () { setSourceCollapsed(!panel.classList.contains("sourceCollapsed")); };
 $("#toggleHtmlIcon").onclick = function () { setHtmlHidden(!document.getElementById(APP.hostId + "-page-hide-style")); };
@@ -1865,27 +1754,6 @@ ui.status("\u0646\u062a\u0627\u0626\u062c Concordance: " + asc(APP.results.lengt
 };
 
 
-
-$("#importHTMLMemory").onclick = function () { $("#fileHTMLMemory").click(); };
-$("#fileHTMLMemory").onchange = async function () {
-var f = $("#fileHTMLMemory").files && $("#fileHTMLMemory").files[0];
-if (!f) return;
-try {
-ui.status("Importing hidden HTML Translation Memory...");
-var txt = await readLocalFileText(f);
-var summary = await buildHiddenHTMLMemoryFromText(txt, f.name || "memory.html", ui);
-ui.status(
-"ØªÙ Ø§Ø³ØªÙØ±Ø§Ø¯ HTML ÙØ°Ø§ÙØ±Ø© ÙØ®ÙÙØ©. Ø§ÙØµÙÙÙ: " + asc(summary.rows) +
-" â Ø§ÙÙØ­Ø¯Ø§Øª Ø§ÙÙØ¶Ø§ÙØ©: " + asc(summary.added) +
-" â Ø¥Ø¬ÙØ§ÙÙ TM: " + asc(summary.totalTM) +
-". Ø§ÙØµÙ Ø§ÙÙØµ ÙÙ Source Ø«Ù Ø§Ø¶ØºØ· ØªØ­ÙÙÙ Ø§ÙÙØµ."
-);
-} catch (e) {
-ui.status("ÙØ´Ù Ø§Ø³ØªÙØ±Ø§Ø¯ HTML ÙØ°Ø§ÙØ±Ø© ÙØ®ÙÙØ©: " + (e && e.message ? e.message : e));
-}
-$("#fileHTMLMemory").value = "";
-};
-
 $("#importDOCX").onclick = function () { $("#fileDOCX").click(); };
 $("#fileDOCX").onchange = async function () {
 var f = $("#fileDOCX").files && $("#fileDOCX").files[0];
@@ -1902,7 +1770,7 @@ var pkg = await parseDocxPackage(ab);
 source.value = pkg.text;
 setSourceCollapsed(false);
 
-ui.status("ØªÙ Ø§Ø³ØªÙØ±Ø§Ø¯ DOCX ÙÙØ§ÙØ¨ ÙØµØ¯Ø±. Ø§ÙÙÙØ±Ø§Øª: " + asc(pkg.paragraphs.length) + ". Ø§ÙØ¢Ù Ø§Ø¶ØºØ· ØªØ­ÙÙÙØ Ø«Ù ØµØ¯ÙØ± Ø¨ÙÙØ³ ØªÙØ³ÙÙ Ø§ÙÙØµØ¯Ø±.");
+ui.status("\u062A\u0645 \u0627\u0633\u062A\u064A\u0631\u0627\u062F DOCX \u0643\u0642\u0627\u0644\u0628 \u0645\u0635\u062F\u0631. \u0627\u0644\u0641\u0642\u0631\u0627\u062A: " + asc(pkg.paragraphs.length) + ". \u0627\u0644\u0622\u0646 \u0627\u0636\u063A\u0637 \u062A\u062D\u0644\u064A\u0644\u060C \u062B\u0645 \u0635\u062F\u0651\u0631 \u0628\u0646\u0641\u0633 \u062A\u0646\u0633\u064A\u0642 \u0627\u0644\u0645\u0635\u062F\u0631.");
 } catch (e) {
 APP.sourceDocxArrayBuffer = null;
 APP.sourceDocxName = "";
@@ -1913,22 +1781,40 @@ ui.status("DOCX import failed: " + (e && e.message ? e.message : e));
 $("#fileDOCX").value = "";
 };
 
+
+var htmlMemoryInput = $("#fileHTMLMemory");
+if (htmlMemoryInput) {
+htmlMemoryInput.onchange = async function () {
+var f = htmlMemoryInput.files && htmlMemoryInput.files[0];
+if (!f) return;
+try {
+ui.status("Importing hidden HTML TM...");
+var txt = await f.text();
+var summary = await buildHiddenHTMLMemoryFromText(txt, f.name || "memory.html", ui);
+ui.status("Hidden HTML TM imported. Rows: " + asc(summary.rows) + " - Added: " + asc(summary.added) + " - Total TM: " + asc(summary.totalTM));
+} catch (e) {
+ui.status("Hidden HTML TM import failed: " + (e && e.message ? e.message : e));
+}
+htmlMemoryInput.value = "";
+};
+}
+
 $("#importDOCXZip").onclick = function () { $("#fileDOCXZip").click(); };
 $("#fileDOCXZip").onchange = async function () {
 var f = $("#fileDOCXZip").files && $("#fileDOCXZip").files[0];
 if (!f) return;
 try {
-ui.status("Ø¬Ø§Ø±Ù Ø§Ø³ØªÙØ±Ø§Ø¯ ZIP Word ÙØ°Ø§ÙØ±Ø© ØªØ±Ø¬ÙØ©...");
+ui.status("\u062C\u0627\u0631\u064A \u0627\u0633\u062A\u064A\u0631\u0627\u062F ZIP Word \u0643\u0630\u0627\u0643\u0631\u0629 \u062A\u0631\u062C\u0645\u0629...");
 var summary = await importDocxZipAsTM(f, ui);
 ui.status(
-"ØªÙ Ø§Ø³ØªÙØ±Ø§Ø¯ ZIP Word. Ø§ÙÙÙÙØ§Øª: " + asc(summary.files) +
-" â Ø§ÙØ£Ø²ÙØ§Ø¬ Ø§ÙÙØ³ØªØ®Ø±Ø¬Ø©: " + asc(summary.totalPairs) +
-" â Ø§ÙÙØ¶Ø§ÙØ© Ø¨Ø¹Ø¯ Ø­Ø°Ù Ø§ÙØªÙØ±Ø§Ø±: " + asc(summary.added) +
-" â Ø¥Ø¬ÙØ§ÙÙ TM: " + asc(summary.totalTM) +
-(summary.failed ? " â ÙÙÙØ§Øª ØªØ¹Ø°Ø± ÙØ±Ø§Ø¡ØªÙØ§: " + asc(summary.failed) : "")
+"\u062A\u0645 \u0627\u0633\u062A\u064A\u0631\u0627\u062F ZIP Word. \u0627\u0644\u0645\u0644\u0641\u0627\u062A: " + asc(summary.files) +
+" \u2014 \u0627\u0644\u0623\u0632\u0648\u0627\u062C \u0627\u0644\u0645\u0633\u062A\u062E\u0631\u062C\u0629: " + asc(summary.totalPairs) +
+" \u2014 \u0627\u0644\u0645\u0636\u0627\u0641\u0629 \u0628\u0639\u062F \u062D\u0630\u0641 \u0627\u0644\u062A\u0643\u0631\u0627\u0631: " + asc(summary.added) +
+" \u2014 \u0625\u062C\u0645\u0627\u0644\u064A TM: " + asc(summary.totalTM) +
+(summary.failed ? " \u2014 \u0645\u0644\u0641\u0627\u062A \u062A\u0639\u0630\u0631 \u0642\u0631\u0627\u0621\u062A\u0647\u0627: " + asc(summary.failed) : "")
 );
 } catch (e) {
-ui.status("ÙØ´Ù Ø§Ø³ØªÙØ±Ø§Ø¯ ZIP Word: " + (e && e.message ? e.message : e));
+ui.status("\u0641\u0634\u0644 \u0627\u0633\u062A\u064A\u0631\u0627\u062F ZIP Word: " + (e && e.message ? e.message : e));
 }
 $("#fileDOCXZip").value = "";
 };
@@ -1982,11 +1868,11 @@ try {
 updateStoredTargets();
 
 if (!APP.sourceDocxArrayBuffer) {
-ui.status("Ø§Ø³ØªÙØ±Ø¯ ÙÙÙ DOCX ÙØµØ¯Ø± Ø£ÙÙÙØ§ Ø­ØªÙ ÙÙÙÙ Ø§ÙØªØµØ¯ÙØ± Ø¨ÙÙØ³ Ø§ÙØªÙØ³ÙÙ.");
+ui.status("\u0627\u0633\u062A\u0648\u0631\u062F \u0645\u0644\u0641 DOCX \u0645\u0635\u062F\u0631 \u0623\u0648\u0644\u064B\u0627 \u062D\u062A\u0649 \u064A\u0645\u0643\u0646 \u0627\u0644\u062A\u0635\u062F\u064A\u0631 \u0628\u0646\u0641\u0633 \u0627\u0644\u062A\u0646\u0633\u064A\u0642.");
 return;
 }
 
-ui.status("Ø¬Ø§Ø±Ù Ø¥ÙØ´Ø§Ø¡ ÙÙÙ Ø§ÙÙØ¯Ù Ø¨ÙÙØ³ ØªÙØ³ÙÙ Ø§ÙÙØµØ¯Ø±...");
+ui.status("\u062C\u0627\u0631\u064A \u0625\u0646\u0634\u0627\u0621 \u0645\u0644\u0641 \u0627\u0644\u0647\u062F\u0641 \u0628\u0646\u0641\u0633 \u062A\u0646\u0633\u064A\u0642 \u0627\u0644\u0645\u0635\u062F\u0631...");
 var out = await createTargetDocxSameFormat(APP.results);
 var base = (APP.sourceDocxName || "source.docx").replace(/\.docx$/i, "");
 
@@ -1996,9 +1882,9 @@ out,
 "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
 );
 
-ui.status("ØªÙ ØªØµØ¯ÙØ± ÙÙÙ DOCX Ø§ÙÙØ¯Ù Ø¨ÙÙØ³ ÙØ§ÙØ¨ ÙØªÙØ³ÙÙ Ø§ÙÙØµØ¯Ø± ÙØ¯Ø± Ø§ÙØ¥ÙÙØ§Ù.");
+ui.status("\u062A\u0645 \u062A\u0635\u062F\u064A\u0631 \u0645\u0644\u0641 DOCX \u0627\u0644\u0647\u062F\u0641 \u0628\u0646\u0641\u0633 \u0642\u0627\u0644\u0628 \u0648\u062A\u0646\u0633\u064A\u0642 \u0627\u0644\u0645\u0635\u062F\u0631 \u0642\u062F\u0631 \u0627\u0644\u0625\u0645\u0643\u0627\u0646.");
 } catch (e) {
-ui.status("ÙØ´Ù ØªØµØ¯ÙØ± DOCX Ø¨ÙÙØ³ Ø§ÙØªÙØ³ÙÙ: " + (e && e.message ? e.message : e));
+ui.status("\u0641\u0634\u0644 \u062A\u0635\u062F\u064A\u0631 DOCX \u0628\u0646\u0641\u0633 \u0627\u0644\u062A\u0646\u0633\u064A\u0642: " + (e && e.message ? e.message : e));
 }
 };
 
