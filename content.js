@@ -1835,6 +1835,10 @@ shadow.innerHTML = [
 ".panel.catMobile.focusMode .tablewrap tr{display:table-row!important}",
 ".panel.catMobile.focusMode .tablewrap th,.panel.catMobile.focusMode .tablewrap td{display:table-cell!important}",
 ".panel.catMobile.focusMode .tablewrap td::before{content:none!important;display:none!important}",
+
+".panel .filePick.green{background:#16a34a;color:#fff;border-color:#16a34a}",
+".panel.catMobile .filePick{display:inline-flex!important;align-items:center!important;justify-content:center!important;position:relative!important;min-height:44px!important;font-size:14px!important;border-radius:12px!important;padding:0 12px!important;white-space:nowrap!important;overflow:hidden!important}",
+".panel.catMobile .filePick input{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;opacity:0!important}",
 "</style>",
 
 "<button class='fab' id='fab'>CAT V45 Pro</button>",
@@ -1853,6 +1857,7 @@ shadow.innerHTML = [
 "<aside class='side'>",
 "<button class='green' id='build'>\u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629</button>",
 "<label class='filePick primary' id='importHTMLMemoryLabel' title='Hidden HTML Translation Memory'>Import HTML TM<input id='fileHTMLMemory' type='file' accept='.html,.htm,text/html'></label>",
+"<label class='filePick green' id='importHTMLDirectLabel' title='Import and save HTML Translation Memory'>Import HTML<input id='fileHTMLDirect2' type='file' accept='.html,.htm,text/html'></label>",
 "<button class='primary' id='importHTMLDirect'>Import HTML</button>",
 "<input class='hiddenFile' id='fileHTMLDirect' type='file' accept='.html,.htm,text/html'>",
 "<select class='tmSelect' id='tmSelect' title='Saved Translation Memories'><option value=''>TM Library</option></select>",
@@ -1929,7 +1934,9 @@ panel.classList.add("open");
 try {
 document.documentElement.style.overflow = "hidden";
 document.body.style.overflow = "hidden";
+window.scrollTo(0, 0);
 } catch (e) {}
+syncGlobalOpenButton();
 }
 function close() {
 panel.classList.remove("open");
@@ -1937,6 +1944,7 @@ try {
 document.documentElement.style.overflow = "";
 document.body.style.overflow = "";
 } catch (e) {}
+syncGlobalOpenButton();
 }
 function setFocusMode(on) {
 on = !!on;
@@ -1950,6 +1958,54 @@ btn.setAttribute("aria-pressed", on ? "true" : "false");
 if (on) ui.status("Focus mode: results only.");
 else ui.status("Tools mode: controls are visible.");
 }
+
+
+function ensureGlobalOpenButton() {
+try {
+var oldBtn = document.getElementById(APP.hostId + "-global-open");
+if (oldBtn) return oldBtn;
+var b = document.createElement("button");
+b.id = APP.hostId + "-global-open";
+b.type = "button";
+b.textContent = "OPEN CAT";
+b.setAttribute("aria-label", "Open CAT Translation Tool");
+b.style.cssText = [
+"position:fixed",
+"right:18px",
+"bottom:18px",
+"z-index:2147483647",
+"height:46px",
+"min-width:128px",
+"padding:0 18px",
+"border:0",
+"border-radius:999px",
+"background:#2563eb",
+"color:#fff",
+"font:800 14px Segoe UI,Tahoma,Arial",
+"box-shadow:0 14px 36px rgba(37,99,235,.35)",
+"cursor:pointer",
+"direction:ltr",
+"-webkit-tap-highlight-color:transparent"
+].join(";");
+b.onclick = function (ev) {
+try { ev.preventDefault(); ev.stopPropagation(); } catch (e) {}
+open();
+};
+document.body.appendChild(b);
+return b;
+} catch (e) {
+return null;
+}
+}
+
+function syncGlobalOpenButton() {
+try {
+var b = document.getElementById(APP.hostId + "-global-open");
+if (!b) return;
+b.style.display = panel && panel.classList.contains("open") ? "none" : "block";
+} catch (e) {}
+}
+
 
 function setSourceCollapsed(collapsed) {
 collapsed = !!collapsed;
@@ -2135,6 +2191,24 @@ window.addEventListener("CAT_V45_PRO_OPEN", open);
 window.addEventListener("resize", applyMobileMode);
 window.addEventListener("orientationchange", applyMobileMode);
 
+try {
+ensureGlobalOpenButton();
+syncGlobalOpenButton();
+window.openCATTool = open;
+document.addEventListener("click", function (ev) {
+var t = ev.target;
+if (!t) return;
+var tx = String(t.textContent || t.value || "").trim();
+var id = String(t.id || "");
+var cls = String(t.className || "");
+if (/CAT|OPEN CAT|فتح|الأداة|الاداة/i.test(tx + " " + id + " " + cls)) {
+ev.preventDefault();
+open();
+}
+}, true);
+} catch (e) {}
+
+
 $("#focusMode").onclick = function () { setFocusMode(!panel.classList.contains("focusMode")); };
 $("#toggleSourceIcon").onclick = function () { setSourceCollapsed(!panel.classList.contains("sourceCollapsed")); };
 $("#toggleHtmlIcon").onclick = function () { setHtmlHidden(!document.getElementById(APP.hostId + "-page-hide-style")); };
@@ -2248,6 +2322,16 @@ htmlMemoryInput.value = "";
 };
 }
 
+
+var htmlDirectInput2 = $("#fileHTMLDirect2");
+if (htmlDirectInput2) {
+htmlDirectInput2.onchange = async function () {
+var f = htmlDirectInput2.files && htmlDirectInput2.files[0];
+await importHTMLFileAsPersistentTM(f);
+htmlDirectInput2.value = "";
+};
+}
+
 var htmlDirectInput = $("#fileHTMLDirect");
 if (htmlDirectInput) {
 htmlDirectInput.onchange = async function () {
@@ -2260,7 +2344,7 @@ htmlDirectInput.value = "";
 var importHTMLDirectBtn = $("#importHTMLDirect");
 if (importHTMLDirectBtn) {
 importHTMLDirectBtn.onclick = function () {
-var input = $("#fileHTMLDirect") || $("#fileHTMLMemory");
+var input = $("#fileHTMLDirect2") || $("#fileHTMLDirect") || $("#fileHTMLMemory");
 if (input) input.click();
 };
 }
@@ -2268,15 +2352,28 @@ if (input) input.click();
 async function loadSelectedTMNow() {
 var sel = $("#tmSelect");
 var id = sel ? sel.value : "";
-if (!id) {
+try {
 await tmRefreshSelect(ui);
 sel = $("#tmSelect");
-id = sel ? sel.value : "";
+if (!id && sel) id = sel.value || "";
+if (!id) {
+var last = await tmGetSetting("lastMemoryId");
+if (last) id = last;
 }
-if (!id) { ui.status("Choose a saved TM from TM Library first."); return; }
-try {
+if (!id) {
+var metas = await tmGetAllMemoriesMeta();
+if (metas.length === 1) id = metas[0].id;
+else if (metas.length > 1) {
+if (sel) sel.focus();
+ui.status("Choose a saved TM from TM Library first, or choose All saved TMs.");
+return;
+}
+}
+if (!id) { ui.status("No saved TM found. Import HTML first."); return; }
+
 if (id === "__all__") await tmLoadAllMemories(ui);
 else await tmLoadOneMemory(id, ui, false);
+
 await tmRefreshSelect(ui);
 var s2 = $("#tmSelect");
 if (s2) s2.value = id;
@@ -2353,7 +2450,7 @@ loadSelectedTMNow();
 }
 if (btn.id === "importHTMLDirect") {
 ev.preventDefault();
-var input = $("#fileHTMLDirect") || $("#fileHTMLMemory");
+var input = $("#fileHTMLDirect2") || $("#fileHTMLDirect") || $("#fileHTMLMemory");
 if (input) input.click();
 }
 if (btn.id === "focusMode") {
