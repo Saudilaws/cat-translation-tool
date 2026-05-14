@@ -1324,10 +1324,12 @@ reject(e);
 
 
 /* =========================================================
-V57 Persistent Multi-TM Library
-Uses IndexedDB to keep Translation Memories after reload.
+V58 Persistent Multi Translation Memory Library
+- Saves multiple TMs locally in IndexedDB.
+- Import HTML is a direct file picker label, not a hidden-button trick.
+- Load Selected TM works from dropdown, button, click/touch, and auto-load.
 ========================================================= */
-var CAT_TM_DB = "CAT_TOOL_TM_LIBRARY_V57";
+var CAT_TM_DB = "CAT_TOOL_TM_LIBRARY_V58";
 var CAT_TM_DB_VERSION = 1;
 var CAT_TM_META = "memories";
 var CAT_TM_CHUNKS = "chunks";
@@ -1642,9 +1644,10 @@ return metas;
 
 async function tmLoadSelected(ui) {
 var sel = ui && ui.tmSelect ? ui.tmSelect() : null;
-await tmRefreshLibrary(ui, sel ? sel.value : "");
+var chosen = sel ? sel.value : "";
+await tmRefreshLibrary(ui, chosen);
 sel = ui && ui.tmSelect ? ui.tmSelect() : null;
-var id = sel ? sel.value : "";
+var id = chosen || (sel ? sel.value : "");
 
 if (!id) {
 var last = await tmGetSetting("lastMemoryId");
@@ -1654,10 +1657,7 @@ if (last) id = last;
 if (!id) {
 var metas = await tmListMetas();
 if (metas.length === 1) id = metas[0].id;
-else if (metas.length > 1) {
-if (sel) sel.focus();
-throw new Error("Choose a TM from TM Library first.");
-}
+else if (metas.length > 1) id = "__all__";
 }
 
 if (!id) throw new Error("No saved TM found. Import HTML first.");
@@ -1804,6 +1804,7 @@ shadow.innerHTML = [
 ".panel.catMobile .fab{right:12px!important;bottom:12px!important;padding:12px 14px!important}",
 "@media (max-width:420px){.panel.catMobile .side{grid-template-columns:1fr!important}.panel.catMobile .statCard{min-width:132px!important;flex-basis:132px!important}}",
 
+".toolSection{height:auto!important;min-height:0!important;border:0;background:transparent;color:#64748b;font:900 11px Segoe UI,Tahoma,Arial;text-align:left;direction:ltr;padding:8px 2px 2px;letter-spacing:.2px}",
 ".tmSelect{height:34px;min-width:100%;border:1px solid #d9e0ea;border-radius:9px;background:#fff;font:800 12px Segoe UI,Tahoma,Arial;color:#111827;padding:0 8px;direction:ltr}",
 ".saveTM{background:#0f766e;color:#fff;border-color:#0f766e}",
 ".deleteTM{background:#991b1b;color:#fff;border-color:#991b1b}",
@@ -1813,11 +1814,13 @@ shadow.innerHTML = [
 ".panel.focusMode .body{display:block!important;padding:6px!important;overflow:hidden!important;flex:1!important;min-height:0!important}",
 ".panel.focusMode .mainbox{width:100%!important;height:calc(100dvh - 58px)!important;min-height:0!important}",
 ".panel.focusMode .tablewrap{height:100%!important;max-height:none!important;overflow:auto!important}",
+".panel.catMobile .toolSection{display:none!important}",
+".panel.catMobile .tmSelect{min-height:44px!important;font-size:14px!important}",
 "</style>",
 
 "<button class='fab' id='fab'>OPEN CAT</button>",
 "<section class='panel' id='panel'>",
-"<div class='top'><button class='close' id='close'>x</button><div class='topTools'><button class='iconBtn' id='focusMode' title='Show results only'>FOCUS</button><button class='iconBtn' id='toggleSourceIcon' title='Hide or show source'>SRC</button><button class='iconBtn' id='toggleHtmlIcon' title='Hide or show HTML page'>HTML</button></div><div class='title'>CAT Translation Memory V57</div></div>",
+"<div class='top'><button class='close' id='close'>x</button><div class='topTools'><button class='iconBtn' id='focusMode' title='Show results only'>FOCUS</button><button class='iconBtn' id='toggleSourceIcon' title='Hide or show source'>SRC</button><button class='iconBtn' id='toggleHtmlIcon' title='Hide or show HTML page'>HTML</button></div><div class='title'>CAT Translation Memory V58</div></div>",
 
 "<div class='dash'>",
 "<div class='statCard'><div class='lab'>\u0645\u0639\u062f\u0644 \u0627\u0644\u062a\u0637\u0627\u0628\u0642 \u0645\u0646 100</div><div class='val' id='avgStat'>0%</div></div>",
@@ -1829,34 +1832,37 @@ shadow.innerHTML = [
 
 "<div class='body'>",
 "<aside class='side'>",
-"<button class='green' id='build'>Build TM from Page</button>",
+"<div class='toolSection'>1. TM Library</div>",
 "<label class='filePick' id='importHTMLLabel' title='Import HTML and save it as TM'>Import HTML<input id='fileHTMLMemory' type='file' accept='.html,.htm,text/html'></label>",
-"<select class='tmSelect' id='tmSelect' title='Saved Translation Memories'><option value=''>TM Library</option></select>",
-"<button class='saveTM' id='saveTM'>Save TM</button>",
-"<button id='loadSelectedTM'>Load Selected TM</button>",
-"<button class='deleteTM' id='deleteTM'>Delete TM</button>",
-"<button class='primary' id='analyze'>Analyze</button>",
-"<button class='gold' id='acceptAll'>\u0627\u0639\u062a\u0645\u0627\u062f \u0627\u0644\u0623\u0641\u0636\u0644</button>",
-"<button id='copy'>\u0646\u0633\u062e Target Draft</button>",
-"<button id='concordance'>\u0628\u062d\u062b Concordance</button>",
-"<input id='concordQ' placeholder='\u0628\u062d\u062b \u0641\u064a \u0627\u0644\u0630\u0627\u0643\u0631\u0629...' style='padding:0 8px'>",
 "<button id='importDOCX'>Import Word DOCX</button>",
-"<button id='importDOCXZip'>\u0627\u0633\u062A\u064A\u0631\u0627\u062F ZIP Word \u0643\u0630\u0627\u0643\u0631\u0629</button>",
-"<button id='importTerms'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f \u0645\u0635\u0637\u0644\u062d\u0627\u062a CSV</button>",
-"<button id='importTMX'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f TMX</button>",
-"<button id='exportTMX'>\u062a\u0635\u062f\u064a\u0631 TMX</button>",
-"<button id='exportXLIFF'>\u062a\u0635\u062f\u064a\u0631 XLIFF</button>",
-"<button id='saveProject'>\u062d\u0641\u0638 \u0645\u0634\u0631\u0648\u0639 JSON</button>",
-"<button id='loadProject'>\u0641\u062a\u062d \u0645\u0634\u0631\u0648\u0639 JSON</button>",
-"<button id='report'>\u062a\u0642\u0631\u064a\u0631 HTML</button>",
+"<button id='importDOCXZip'>Import ZIP Word TM</button>",
+"<button id='importTMX'>Import TMX</button>",
+"<select class='tmSelect' id='tmSelect' title='Saved Translation Memories'><option value=''>TM Library</option></select>",
+"<button id='loadSelectedTM'>Load Selected TM</button>",
+"<button class='saveTM' id='saveTM'>Save Current TM</button>",
+"<button class='deleteTM' id='deleteTM'>Delete Selected TM</button>",
+"<button id='exportTMX'>Export TMX</button>",
+"<div class='toolSection'>2. Search & Work</div>",
+"<button class='green' id='build'>Build TM from Page</button>",
+"<button class='primary' id='analyze'>Analyze Text</button>",
+"<button class='gold' id='acceptAll'>Accept Best</button>",
+"<button id='copy'>Copy Target Draft</button>",
+"<button id='concordance'>Concordance Search</button>",
+"<input id='concordQ' placeholder='Search in TM...' style='padding:0 8px'>",
+"<button id='clear'>Clear Results</button>",
+"<button class='red' id='stop'>Stop</button>",
+"<select id='slang'><option value='auto'>Auto</option><option value='ar'>Arabic to English</option><option value='en'>English to Arabic</option></select>",
+"<div class='toolSection'>3. Terms / Export / Project</div>",
+"<button id='importTerms'>Import Terms CSV</button>",
+"<button id='exportXLIFF'>Export XLIFF</button>",
+"<button id='saveProject'>Save Project JSON</button>",
+"<button id='loadProject'>Open Project JSON</button>",
+"<button id='report'>HTML Report</button>",
 "<button id='word'>Word A3 + Track Changes</button>",
-"<button id='wordSameFormat'>Export Same DOCX</button>",
-"<button id='clear'>\u0645\u0633\u062d \u0627\u0644\u0646\u062a\u0627\u0626\u062c</button>",
-"<button class='red' id='stop'>\u0625\u064a\u0642\u0627\u0641</button>",
-"<select id='slang'><option value='auto'>\u062a\u0644\u0642\u0627\u0626\u064a</option><option value='ar'>\u0639\u0631\u0628\u064a \u2190 \u0625\u0646\u062c\u0644\u064a\u0632\u064a</option><option value='en'>English \u2192 Arabic</option></select>",
+"<button id='wordSameFormat'>Same-format DOCX</button>",
 "<div class='bar'><div class='fill' id='fill'></div></div>",
-"<div class='statusBox' id='status'>\u062c\u0627\u0647\u0632. \u0627\u0636\u063a\u0637 \xab\u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629\xbb \u0623\u0648\u0644\u064b\u0627.</div>",
-"<div class='mini'>Local only \xb7 No network \xb7 No CDN \xb7 No external API</div>",
+"<div class='statusBox' id='status'>Ready. Import HTML or choose a saved TM.</div>",
+"<div class='mini'>Local only · Persistent TM Library · No network</div>",
 "</aside>",
 
 "<main class='mainbox'>",
@@ -2237,16 +2243,16 @@ ui.status("Import HTML failed: " + (e && e.message ? e.message : e));
 
 var htmlMemoryInput = $("#fileHTMLMemory");
 if (htmlMemoryInput) {
-htmlMemoryInput.addEventListener("change", async function () {
+htmlMemoryInput.onchange = async function () {
 var f = htmlMemoryInput.files && htmlMemoryInput.files[0];
 await importHTMLAsTMFile(f);
 htmlMemoryInput.value = "";
-});
+};
 }
 
 var tmSelectEl = $("#tmSelect");
 if (tmSelectEl) {
-tmSelectEl.addEventListener("change", async function () {
+tmSelectEl.onchange = async function () {
 var id = tmSelectEl.value;
 if (!id) return;
 try {
@@ -2256,21 +2262,34 @@ await tmRefreshLibrary(ui, id);
 } catch (e) {
 ui.status("Load TM failed: " + (e && e.message ? e.message : e));
 }
-});
+};
+}
+
+var loadLock = false;
+async function runLoadSelectedTM(ev) {
+try { if (ev) { ev.preventDefault(); ev.stopPropagation(); } } catch (e) {}
+if (loadLock) return;
+loadLock = true;
+try {
+await tmLoadSelected(ui);
+} catch (e) {
+ui.status("Load Selected TM failed: " + (e && e.message ? e.message : e));
+} finally {
+setTimeout(function () { loadLock = false; }, 350);
+}
 }
 
 var loadSelectedBtn = $("#loadSelectedTM");
 if (loadSelectedBtn) {
-loadSelectedBtn.addEventListener("click", async function (ev) {
-try { ev.preventDefault(); ev.stopPropagation(); } catch (e) {}
-try { await tmLoadSelected(ui); }
-catch (e) { ui.status("Load Selected TM failed: " + (e && e.message ? e.message : e)); }
-});
+loadSelectedBtn.onclick = runLoadSelectedTM;
+loadSelectedBtn.addEventListener("click", runLoadSelectedTM, true);
+loadSelectedBtn.addEventListener("pointerup", runLoadSelectedTM, true);
+loadSelectedBtn.addEventListener("touchend", runLoadSelectedTM, { capture: true, passive: false });
 }
 
 var saveTMBtn = $("#saveTM");
 if (saveTMBtn) {
-saveTMBtn.addEventListener("click", async function () {
+saveTMBtn.onclick = async function () {
 try {
 var name = tmAskName(APP.activeMemoryName || ("TM " + new Date().toLocaleDateString()));
 var meta = await tmSaveActive(name, ui, false);
@@ -2278,12 +2297,12 @@ await tmRefreshLibrary(ui, meta.id);
 } catch (e) {
 ui.status("Save TM failed: " + (e && e.message ? e.message : e));
 }
-});
+};
 }
 
 var deleteTMBtn = $("#deleteTM");
 if (deleteTMBtn) {
-deleteTMBtn.addEventListener("click", async function () {
+deleteTMBtn.onclick = async function () {
 try {
 var sel = $("#tmSelect");
 var id = sel ? sel.value : "";
@@ -2295,19 +2314,15 @@ await tmRefreshLibrary(ui, "");
 } catch (e) {
 ui.status("Delete TM failed: " + (e && e.message ? e.message : e));
 }
-});
+};
 }
 
 try {
 shadow.addEventListener("click", function (ev) {
 var t = ev.target;
-if (!t) return;
-var loadBtn = t.closest ? t.closest("#loadSelectedTM") : null;
-if (loadBtn) {
-ev.preventDefault();
-ev.stopPropagation();
-tmLoadSelected(ui).catch(function (e) { ui.status("Load Selected TM failed: " + (e && e.message ? e.message : e)); });
-}
+if (!t || !t.closest) return;
+var loadBtn = t.closest("#loadSelectedTM");
+if (loadBtn) runLoadSelectedTM(ev);
 }, true);
 } catch (e) {}
 
