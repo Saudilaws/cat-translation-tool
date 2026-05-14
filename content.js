@@ -1,4 +1,4 @@
-function () {
+(function () {
 "use strict";
 
 /* =========================================================
@@ -2461,4 +2461,7 @@ setTimeout(open, 300);
 }
 
 ready(function () {
-try {
+try { initUI(); }
+catch (e) { alert("CAT V45 Professional error: " + (e && e.message ? e.message : e)); }
+});
+})();
