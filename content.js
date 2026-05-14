@@ -32,9 +32,7 @@ terms: [],
 results: [],
 sourceDocxArrayBuffer: null,
 sourceDocxName: "",
-keepDocxParagraphs: false,
-hiddenHtmlDoc: null,
-hiddenHtmlName: ""
+keepDocxParagraphs: false
 };
 
 if (window.__CAT_V45_PRO_STABLE_ENHANCED_CONFIRMED__) {
@@ -239,14 +237,7 @@ arP.t.slice(0, 20).forEach(function (t) { addToken("ar", t, id); });
 enP.t.slice(0, 20).forEach(function (t) { addToken("en", t, id); });
 }
 
-function getMemoryRoot() {
-return APP.hiddenHtmlDoc || document;
-}
-
-function getPageRows() {
-var root = getMemoryRoot();
-return Array.prototype.slice.call(root.querySelectorAll("tr"));
-}
+function getPageRows() { return Array.prototype.slice.call(document.querySelectorAll("tr")); }
 
 function buildMemory(ui) {
 if (APP.building) return;
@@ -255,8 +246,7 @@ APP.building = true;
 var rows = getPageRows();
 var total = rows.length;
 var i = 0;
-var memoryName = APP.hiddenHtmlDoc ? ("ÙÙÙ HTML ÙØ®ÙÙ: " + (APP.hiddenHtmlName || "Ø¨Ø¯ÙÙ Ø§Ø³Ù")) : "ØµÙØ­Ø© HTML Ø§ÙØ­Ø§ÙÙØ©";
-ui.status("Ø¬Ø§Ø±Ù Ø¨ÙØ§Ø¡ Ø°Ø§ÙØ±Ø© Ø§ÙØªØ±Ø¬ÙØ© ÙÙ " + memoryName + "...");
+ui.status("\u062c\u0627\u0631\u064a \u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0645\u0646 \u0635\u0641\u062d\u0629 HTML...");
 ui.progress(0, total);
 
 function step() {
@@ -1219,30 +1209,129 @@ ui.progress(docxEntries.length, docxEntries.length);
 return { files: docxEntries.length, totalPairs: totalPairs, added: added, failed: failed, totalTM: APP.tus.length, before: beforeAll };
 }
 
-function ensureMobileViewport() {
+
+function ensureCATViewport() {
 try {
-var m = document.querySelector('meta[name="viewport"]');
-if (!m) {
-m = document.createElement("meta");
-m.setAttribute("name", "viewport");
-(document.head || document.documentElement).appendChild(m);
+var metas = document.getElementsByTagName("meta");
+for (var i = 0; i < metas.length; i++) {
+if ((metas[i].getAttribute("name") || "").toLowerCase() === "viewport") {
+metas[i].setAttribute("content", "width=device-width, initial-scale=1, viewport-fit=cover");
+return;
 }
-m.setAttribute("content", "width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover");
+}
+var m = document.createElement("meta");
+m.setAttribute("name", "viewport");
+m.setAttribute("content", "width=device-width, initial-scale=1, viewport-fit=cover");
+(document.head || document.documentElement).appendChild(m);
 } catch (e) {}
 }
 
-function parseHtmlFileToHiddenDocument(htmlText, fileName) {
-var txt = String(htmlText || "");
-var doc = new DOMParser().parseFromString(txt, "text/html");
+function readLocalFileText(file) {
+if (file && typeof file.text === "function") return file.text();
+return new Promise(function (resolve, reject) {
+try {
+var reader = new FileReader();
+reader.onload = function () { resolve(String(reader.result || "")); };
+reader.onerror = function () { reject(reader.error || new Error("FileReader failed.")); };
+reader.readAsText(file, "UTF-8");
+} catch (e) { reject(e); }
+});
+}
+
+function buildHiddenHTMLMemoryFromText(htmlText, fileName, ui) {
+if (APP.building) return Promise.resolve({ rows: 0, added: 0, totalTM: APP.tus.length, busy: true });
+resetMemory();
+APP.building = true;
+APP.stop = false;
+
+return new Promise(function (resolve, reject) {
+try {
+var doc = new DOMParser().parseFromString(String(htmlText || ""), "text/html");
 var rows = Array.prototype.slice.call(doc.querySelectorAll("tr"));
-if (!rows.length) {
-throw new Error("ÙÙ ÙØªÙ Ø§ÙØ¹Ø«ÙØ± Ø¹ÙÙ Ø¬Ø¯Ø§ÙÙ/ØµÙÙÙ Ø¯Ø§Ø®Ù ÙÙÙ HTML. ÙØ¬Ø¨ Ø£Ù ÙØ­ØªÙÙ Ø§ÙÙÙÙ Ø¹ÙÙ tr / td Ø­ØªÙ ÙÙØ¨ÙÙ ÙØ°Ø§ÙØ±Ø© ØªØ±Ø¬ÙØ©.");
+var total = rows.length;
+var i = 0;
+var before = APP.tus.length;
+
+ui.status("Reading hidden HTML TM: " + (fileName || "memory.html"));
+ui.progress(0, total || 1);
+
+function finish() {
+APP.built = APP.tus.length > 0;
+APP.building = false;
+ui.progress(total || 1, total || 1);
+resolve({ rows: total, added: APP.tus.length - before, totalTM: APP.tus.length });
 }
-APP.hiddenHtmlDoc = doc;
-APP.hiddenHtmlName = fileName || "hidden-memory.html";
-APP.keepDocxParagraphs = false;
-return rows.length;
+
+function step() {
+if (APP.stop) {
+APP.building = false;
+ui.status("Hidden HTML TM import stopped.");
+resolve({ rows: total, added: APP.tus.length - before, totalTM: APP.tus.length, stopped: true });
+return;
 }
+
+var end = Math.min(i + 120, total);
+for (; i < end; i++) {
+var r = rows[i];
+var cells = Array.prototype.slice.call(r.querySelectorAll("td,th"));
+if (!cells.length) continue;
+
+var arTexts = [];
+var enTexts = [];
+
+cells.forEach(function (cell, ci) {
+var tx = textOf(cell);
+if (!tx || tx.length < 2) return;
+var ac = arCount(tx);
+var ec = enCount(tx);
+
+if (ac >= 2) {
+arTexts.push(tx);
+APP.cells.push({ text: tx, lang: "ar", row: i, cell: ci, p: profile(tx, "ar") });
+}
+
+if (ec >= 2) {
+enTexts.push(tx);
+APP.cells.push({ text: tx, lang: "en", row: i, cell: ci, p: profile(tx, "en") });
+}
+});
+
+APP.rows[i] = { ar: arTexts, en: enTexts };
+
+if (arTexts.length && enTexts.length) {
+addTU(arTexts.join("\n"), enTexts.join("\n"), i, "hidden-html-combined-row:" + (fileName || ""));
+var arLimit = Math.min(arTexts.length, 4);
+var enLimit = Math.min(enTexts.length, 4);
+for (var a = 0; a < arLimit; a++) {
+for (var e = 0; e < enLimit; e++) {
+addTU(arTexts[a], enTexts[e], i, "hidden-html-cell-pair:" + (fileName || ""));
+}
+}
+}
+}
+
+ui.progress(i, total || 1);
+ui.status("Hidden HTML TM: " + asc(i) + " / " + asc(total) + " â TM: " + asc(APP.tus.length));
+
+if (i < total) setTimeout(step, 1);
+else finish();
+}
+
+if (!total) {
+APP.built = false;
+APP.building = false;
+reject(new Error("No table rows <tr> found in the HTML file."));
+return;
+}
+
+step();
+} catch (e) {
+APP.building = false;
+reject(e);
+}
+});
+}
+
 
 function createHost() {
 var old = document.getElementById(APP.hostId);
@@ -1255,7 +1344,7 @@ return host;
 }
 
 function initUI() {
-ensureMobileViewport();
+ensureCATViewport();
 var host = createHost();
 var shadow = host.shadowRoot || host.attachShadow({ mode: "open" });
 
@@ -1318,48 +1407,151 @@ shadow.innerHTML = [
 ".hiddenFile{display:none}",
 ".targetDraft.ar{font-family:'GE SS Two Light','GE SS Light Text',Tahoma,Arial;font-size:15px;text-align:justify;text-justify:kashida}",
 ".targetDraft.en{font-family:'Segoe UI',Segoe,Arial;font-size:15px;text-align:justify}",
-"@media (max-width:780px){",
-".fab{right:12px!important;bottom:12px!important;padding:12px 14px!important;font-size:12px!important}",
-".panel{inset:0!important;width:100dvw!important;height:100dvh!important;max-width:100dvw!important;max-height:100dvh!important;border:0!important;border-radius:0!important;box-shadow:none!important}",
-".top{height:auto!important;min-height:48px!important;flex-wrap:wrap!important;padding:8px 10px!important;gap:7px!important}",
-".title{font-size:13px!important;line-height:1.25!important;white-space:normal!important;max-width:calc(100% - 118px)!important}",
-".topTools{gap:5px!important}",
-".iconBtn{height:34px!important;min-width:58px!important;font-size:13px!important}",
-".close{width:34px!important;height:34px!important}",
-".dash{display:flex!important;grid-template-columns:none!important;overflow-x:auto!important;gap:8px!important;padding:8px!important;-webkit-overflow-scrolling:touch!important}",
-".statCard{min-width:142px!important;flex:0 0 142px!important;padding:8px 8px!important;border-radius:12px!important}",
-".statCard .lab{font-size:11px!important;line-height:1.25!important}",
-".statCard .val{font-size:20px!important}",
-".body{display:flex!important;flex-direction:column!important;grid-template-columns:none!important;padding:8px!important;gap:8px!important;overflow:auto!important;-webkit-overflow-scrolling:touch!important}",
-".side{width:100%!important;max-height:36vh!important;display:grid!important;grid-template-columns:1fr 1fr!important;gap:7px!important;padding:8px!important;overflow:auto!important;border-radius:12px!important}",
-".side .bar,.side .statusBox,.side .mini{grid-column:1 / -1!important}",
-"button,select,input{height:40px!important;min-height:40px!important;font-size:12px!important;border-radius:10px!important}",
-"#concordQ{grid-column:1 / -1!important;width:100%!important}",
-".mainbox{width:100%!important;min-height:52vh!important;overflow:hidden!important;border-radius:12px!important}",
-".inputArea{padding:8px!important}",
-"textarea{min-height:88px!important;font-size:16px!important;line-height:1.7!important}",
-".tablewrap{overflow:auto!important;padding:8px!important;background:#f8fafc!important}",
-"table{display:block!important;width:100%!important;table-layout:auto!important;border-spacing:0!important;background:transparent!important}",
-"thead{display:none!important}",
-"tbody{display:block!important;width:100%!important}",
-"tr{display:block!important;width:100%!important;margin:0 0 10px!important;border:1px solid #dbe2ea!important;border-radius:14px!important;overflow:hidden!important;background:#fff!important;box-shadow:0 2px 10px rgba(15,23,42,.05)!important}",
-"td{display:block!important;width:100%!important;border-right:0!important;border-bottom:1px solid #eef2f7!important;background:#fff!important;padding:8px 10px!important;font-size:14px!important;line-height:1.7!important}",
-"td.num{width:100%!important;text-align:start!important;background:#eef4ff!important;font-weight:900!important}",
-"td.src::before{content:'Source Segment';display:block;font:900 11px 'Segoe UI',Tahoma,Arial;color:#64748b;margin-bottom:4px;direction:ltr;text-align:left}",
-"td.best::before{content:'Best Match';display:block;font:900 11px 'Segoe UI',Tahoma,Arial;color:#64748b;margin-bottom:4px;direction:ltr;text-align:left}",
-"td.match::before{content:'Match';display:block;font:900 11px 'Segoe UI',Tahoma,Arial;color:#64748b;margin-bottom:4px;direction:ltr;text-align:left}",
-"td.target::before{content:'Target Draft';display:block;font:900 11px 'Segoe UI',Tahoma,Arial;color:#64748b;margin-bottom:4px;direction:ltr;text-align:left}",
-"td.stat::before{content:'Status';display:block;font:900 11px 'Segoe UI',Tahoma,Arial;color:#64748b;margin-bottom:4px;direction:ltr;text-align:left}",
-".src,.best,.target,.match,.stat{width:100%!important;text-align:inherit!important}",
-".match,.stat{text-align:start!important}",
-".targetDraft{min-height:74px!important;width:100%!important}",
+"",
+"/* ===== Mobile responsive + hidden HTML TM button fix ===== */",
+"@media (max-width: 820px), (hover:none) and (pointer:coarse){",
+".panel{",
+" inset:0!important;",
+" width:100dvw!important;",
+" height:100dvh!important;",
+" max-width:100dvw!important;",
+" max-height:100dvh!important;",
+" border-radius:0!important;",
+" border:0!important;",
 "}",
-"@media (max-width:480px){.side{grid-template-columns:1fr!important;max-height:40vh!important}.statCard{min-width:130px!important;flex-basis:130px!important}.title{max-width:100%!important;order:3;width:100%!important}}",
-"</style>",
+".panel.open{display:flex!important;flex-direction:column!important}",
+".top{",
+" height:auto!important;",
+" min-height:54px!important;",
+" padding:8px 10px!important;",
+" gap:8px!important;",
+" flex-wrap:wrap!important;",
+" position:sticky!important;",
+" top:0!important;",
+" z-index:10!important;",
+"}",
+".title{",
+" font-size:12px!important;",
+" line-height:1.35!important;",
+" white-space:normal!important;",
+" max-width:calc(100% - 145px)!important;",
+"}",
+".close{width:38px!important;height:38px!important}",
+".iconBtn{height:38px!important;min-width:64px!important;font-size:13px!important}",
+".dash{",
+" display:flex!important;",
+" grid-template-columns:none!important;",
+" overflow-x:auto!important;",
+" gap:8px!important;",
+" padding:8px!important;",
+" -webkit-overflow-scrolling:touch!important;",
+"}",
+".statCard{",
+" min-width:145px!important;",
+" flex:0 0 145px!important;",
+" padding:8px!important;",
+" border-radius:12px!important;",
+"}",
+".statCard .lab{font-size:11px!important;line-height:1.35!important}",
+".statCard .val{font-size:19px!important}",
+".body{",
+" display:flex!important;",
+" flex-direction:column!important;",
+" padding:8px!important;",
+" gap:8px!important;",
+" min-height:0!important;",
+" overflow:auto!important;",
+" -webkit-overflow-scrolling:touch!important;",
+"}",
+".side{",
+" width:100%!important;",
+" max-height:none!important;",
+" display:grid!important;",
+" grid-template-columns:1fr 1fr!important;",
+" gap:7px!important;",
+" padding:8px!important;",
+" overflow:visible!important;",
+"}",
+".side button,.side select,.side input{",
+" width:100%!important;",
+" min-width:0!important;",
+" height:40px!important;",
+" font-size:12px!important;",
+" padding:0 8px!important;",
+" border-radius:999px!important;",
+" white-space:nowrap!important;",
+" overflow:hidden!important;",
+" text-overflow:ellipsis!important;",
+"}",
+".statusBox,.bar,.mini{grid-column:1 / -1!important}",
+".mainbox{",
+" width:100%!important;",
+" min-height:52vh!important;",
+" overflow:hidden!important;",
+"}",
+".inputArea{padding:8px!important}",
+"textarea#source{",
+" min-height:96px!important;",
+" max-height:28vh!important;",
+" font-size:16px!important;",
+"}",
+".tablewrap{",
+" overflow:auto!important;",
+" -webkit-overflow-scrolling:touch!important;",
+"}",
+".tablewrap table,",
+".tablewrap thead,",
+".tablewrap tbody,",
+".tablewrap tr,",
+".tablewrap th,",
+".tablewrap td{",
+" display:block!important;",
+" width:100%!important;",
+"}",
+".tablewrap thead{display:none!important}",
+".tablewrap tr{",
+" border:1px solid #dbe2ea!important;",
+" border-radius:14px!important;",
+" margin:10px 0!important;",
+" overflow:hidden!important;",
+" background:#fff!important;",
+"}",
+".tablewrap td{",
+" border-right:0!important;",
+" border-bottom:1px solid #eef2f7!important;",
+" padding:10px!important;",
+" background:#fff!important;",
+"}",
+".tablewrap td::before{",
+" display:block!important;",
+" margin-bottom:5px!important;",
+" color:#64748b!important;",
+" font:900 11px 'Segoe UI',Tahoma,Arial!important;",
+" direction:ltr!important;",
+" text-align:left!important;",
+"}",
+".tablewrap td.num::before{content:\"#\"}",
+".tablewrap td.src::before{content:\"Source Segment\"}",
+".tablewrap td.best::before{content:\"Best Match\"}",
+".tablewrap td.match::before{content:\"Match\"}",
+".tablewrap td.target::before{content:\"Target Draft\"}",
+".tablewrap td.stat::before{content:\"Status\"}",
+".targetDraft{min-height:78px!important;font-size:15px!important}",
+".fab{",
+" right:12px!important;",
+" bottom:12px!important;",
+" padding:12px 14px!important;",
+"}",
+"}",
+"@media (max-width:420px){",
+".side{grid-template-columns:1fr!important}",
+".statCard{min-width:132px!important;flex-basis:132px!important}",
+"}",
+"","</style>",
 
-"<button class='fab' id='fab'>CAT V49</button>",
+"<button class='fab' id='fab'>CAT V45 Pro</button>",
 "<section class='panel' id='panel'>",
-"<div class='top'><button class='close' id='close'>\xd7</button><div class='topTools'><button class='iconBtn' id='toggleSourceIcon' title='\u0637\u064a/\u0625\u0638\u0647\u0627\u0631 \u0644\u0648\u062d\u0629 \u0627\u0644\u0645\u0635\u062f\u0631'>SRC</button><button class='iconBtn' id='toggleHtmlIcon' title='\u0625\u062e\u0641\u0627\u0621/\u0625\u0638\u0647\u0627\u0631 \u0645\u062d\u062a\u0648\u0649 HTML'>HTML</button></div><div class='title'>CAT Translation Memory V49 Mobile Hidden HTML TM</div></div>",
+"<div class='top'><button class='close' id='close'>\xd7</button><div class='topTools'><button class='iconBtn' id='toggleSourceIcon' title='\u0637\u064a/\u0625\u0638\u0647\u0627\u0631 \u0644\u0648\u062d\u0629 \u0627\u0644\u0645\u0635\u062f\u0631'>SRC</button><button class='iconBtn' id='toggleHtmlIcon' title='\u0625\u062e\u0641\u0627\u0621/\u0625\u0638\u0647\u0627\u0631 \u0645\u062d\u062a\u0648\u0649 HTML'>HTML</button></div><div class='title'>CAT Translation Memory V45 Professional Stable Enhanced</div></div>",
 
 "<div class='dash'>",
 "<div class='statCard'><div class='lab'>\u0645\u0639\u062f\u0644 \u0627\u0644\u062a\u0637\u0627\u0628\u0642 \u0645\u0646 100</div><div class='val' id='avgStat'>0%</div></div>",
@@ -1372,13 +1564,13 @@ shadow.innerHTML = [
 "<div class='body'>",
 "<aside class='side'>",
 "<button class='green' id='build'>\u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629</button>",
+"<button class='primary' id='importHTMLMemory' title='Hidden HTML Translation Memory'>Import HTML TM</button>",
 "<button class='primary' id='analyze'>\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0646\u0635</button>",
 "<button class='gold' id='acceptAll'>\u0627\u0639\u062a\u0645\u0627\u062f \u0627\u0644\u0623\u0641\u0636\u0644</button>",
 "<button id='copy'>\u0646\u0633\u062e Target Draft</button>",
 "<button id='concordance'>\u0628\u062d\u062b Concordance</button>",
 "<input id='concordQ' placeholder='\u0628\u062d\u062b \u0641\u064a \u0627\u0644\u0630\u0627\u0643\u0631\u0629...' style='padding:0 8px'>",
 "<button id='importDOCX'>Import Word DOCX</button>",
-"<button id='importHTMLMemory'>Ø§Ø³ØªÙØ±Ø§Ø¯ HTML ÙØ°Ø§ÙØ±Ø© ÙØ®ÙÙØ©</button>",
 "<button id='importDOCXZip'>Ø§Ø³ØªÙØ±Ø§Ø¯ ZIP Word ÙØ°Ø§ÙØ±Ø©</button>",
 "<button id='importTerms'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f \u0645\u0635\u0637\u0644\u062d\u0627\u062a CSV</button>",
 "<button id='importTMX'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f TMX</button>",
@@ -1673,20 +1865,22 @@ ui.status("\u0646\u062a\u0627\u0626\u062c Concordance: " + asc(APP.results.lengt
 };
 
 
+
 $("#importHTMLMemory").onclick = function () { $("#fileHTMLMemory").click(); };
 $("#fileHTMLMemory").onchange = async function () {
 var f = $("#fileHTMLMemory").files && $("#fileHTMLMemory").files[0];
 if (!f) return;
 try {
-ui.status("Ø¬Ø§Ø±Ù ÙØ±Ø§Ø¡Ø© ÙÙÙ HTML ÙØ°Ø§ÙØ±Ø© ØªØ±Ø¬ÙØ© ÙØ®ÙÙØ©...");
-var txt = await f.text();
-var rowsCount = parseHtmlFileToHiddenDocument(txt, f.name || "hidden-memory.html");
-ui.status("ØªÙ ØªØ­ÙÙÙ HTML ÙØ®ÙÙÙØ§ Ø¨Ø¯ÙÙ ÙØ¶Ø¹Ù ÙÙ Source. Ø§ÙØµÙÙÙ Ø§ÙÙÙØªØ´ÙØ©: " + asc(rowsCount) + ". Ø¬Ø§Ø±Ù Ø¨ÙØ§Ø¡ Ø§ÙØ°Ø§ÙØ±Ø©...");
-APP.stop = false;
-buildMemory(ui);
+ui.status("Importing hidden HTML Translation Memory...");
+var txt = await readLocalFileText(f);
+var summary = await buildHiddenHTMLMemoryFromText(txt, f.name || "memory.html", ui);
+ui.status(
+"ØªÙ Ø§Ø³ØªÙØ±Ø§Ø¯ HTML ÙØ°Ø§ÙØ±Ø© ÙØ®ÙÙØ©. Ø§ÙØµÙÙÙ: " + asc(summary.rows) +
+" â Ø§ÙÙØ­Ø¯Ø§Øª Ø§ÙÙØ¶Ø§ÙØ©: " + asc(summary.added) +
+" â Ø¥Ø¬ÙØ§ÙÙ TM: " + asc(summary.totalTM) +
+". Ø§ÙØµÙ Ø§ÙÙØµ ÙÙ Source Ø«Ù Ø§Ø¶ØºØ· ØªØ­ÙÙÙ Ø§ÙÙØµ."
+);
 } catch (e) {
-APP.hiddenHtmlDoc = null;
-APP.hiddenHtmlName = "";
 ui.status("ÙØ´Ù Ø§Ø³ØªÙØ±Ø§Ø¯ HTML ÙØ°Ø§ÙØ±Ø© ÙØ®ÙÙØ©: " + (e && e.message ? e.message : e));
 }
 $("#fileHTMLMemory").value = "";
