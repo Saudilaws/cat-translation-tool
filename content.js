@@ -34,8 +34,7 @@ sourceDocxArrayBuffer: null,
 sourceDocxName: "",
 keepDocxParagraphs: false,
 activeMemoryId: "",
-activeMemoryName: "",
-lastMemoryAutoLoaded: false
+activeMemoryName: ""
 };
 
 if (window.__CAT_V45_PRO_STABLE_ENHANCED_CONFIRMED__) {
@@ -1325,62 +1324,54 @@ reject(e);
 
 
 /* =========================================================
-Persistent Multi Translation Memory Library
-- Stores several Translation Memories locally in IndexedDB.
-- Imported HTML TM is hidden and saved automatically.
-- User can choose one saved TM or all saved TMs before searching.
+V57 Persistent Multi-TM Library
+Uses IndexedDB to keep Translation Memories after reload.
 ========================================================= */
+var CAT_TM_DB = "CAT_TOOL_TM_LIBRARY_V57";
+var CAT_TM_DB_VERSION = 1;
+var CAT_TM_META = "memories";
+var CAT_TM_CHUNKS = "chunks";
+var CAT_TM_SETTINGS = "settings";
+var CAT_TM_CHUNK_SIZE = 700;
 
-var TM_DB_NAME = "CAT_PERSISTENT_TM_LIBRARY_V54";
-var TM_DB_VERSION = 1;
-var TM_META_STORE = "memories";
-var TM_CHUNK_STORE = "chunks";
-var TM_SETTINGS_STORE = "settings";
-var TM_CHUNK_SIZE = 800;
-
-function tmUid() {
-return "tm_" + Date.now().toString(36) + "_" + Math.random().toString(36).slice(2, 9);
+function tmNewId() {
+return "tm_" + Date.now().toString(36) + "_" + Math.random().toString(36).slice(2, 10);
 }
 
-function safeMemoryName(name, fallback) {
-name = flat(String(name || ""));
-name = name.replace(/[\\\/:*?"<>|]+/g, " ").replace(/\s+/g, " ").trim();
+function tmSafeName(name, fallback) {
+name = flat(String(name || "")).replace(/[\\\/:*?"<>|]+/g, " ").replace(/\s+/g, " ").trim();
 return name || fallback || ("TM " + new Date().toLocaleString());
 }
 
 function tmOpenDB() {
 return new Promise(function (resolve, reject) {
 if (!window.indexedDB) {
-reject(new Error("IndexedDB is not available in this browser."));
+reject(new Error("IndexedDB is not available. Use Chrome, Edge, or Safari with site data enabled."));
 return;
 }
-var req = indexedDB.open(TM_DB_NAME, TM_DB_VERSION);
+var req = indexedDB.open(CAT_TM_DB, CAT_TM_DB_VERSION);
 req.onupgradeneeded = function () {
 var db = req.result;
-if (!db.objectStoreNames.contains(TM_META_STORE)) {
-db.createObjectStore(TM_META_STORE, { keyPath: "id" });
-}
-if (!db.objectStoreNames.contains(TM_CHUNK_STORE)) {
-var chunks = db.createObjectStore(TM_CHUNK_STORE, { keyPath: "key" });
+if (!db.objectStoreNames.contains(CAT_TM_META)) db.createObjectStore(CAT_TM_META, { keyPath: "id" });
+if (!db.objectStoreNames.contains(CAT_TM_CHUNKS)) {
+var chunks = db.createObjectStore(CAT_TM_CHUNKS, { keyPath: "key" });
 chunks.createIndex("memoryId", "memoryId", { unique: false });
 }
-if (!db.objectStoreNames.contains(TM_SETTINGS_STORE)) {
-db.createObjectStore(TM_SETTINGS_STORE, { keyPath: "key" });
-}
+if (!db.objectStoreNames.contains(CAT_TM_SETTINGS)) db.createObjectStore(CAT_TM_SETTINGS, { keyPath: "key" });
 };
 req.onsuccess = function () { resolve(req.result); };
 req.onerror = function () { reject(req.error || new Error("Cannot open TM database.")); };
 });
 }
 
-function tmReq(req) {
+function tmRequest(req) {
 return new Promise(function (resolve, reject) {
 req.onsuccess = function () { resolve(req.result); };
 req.onerror = function () { reject(req.error || new Error("IndexedDB request failed.")); };
 });
 }
 
-function tmTxDone(tx) {
+function tmDone(tx) {
 return new Promise(function (resolve, reject) {
 tx.oncomplete = function () { resolve(); };
 tx.onerror = function () { reject(tx.error || new Error("IndexedDB transaction failed.")); };
@@ -1388,76 +1379,57 @@ tx.onabort = function () { reject(tx.error || new Error("IndexedDB transaction a
 });
 }
 
-async function tmGetAllMemoriesMeta() {
-var db = await tmOpenDB();
-try {
-var tx = db.transaction(TM_META_STORE, "readonly");
-var items = await tmReq(tx.objectStore(TM_META_STORE).getAll());
-items = (items || []).sort(function (a, b) { return String(a.name || "").localeCompare(String(b.name || "")); });
-return items;
-} finally {
-db.close();
-}
-}
-
 async function tmGetSetting(key) {
 var db = await tmOpenDB();
 try {
-var tx = db.transaction(TM_SETTINGS_STORE, "readonly");
-var rec = await tmReq(tx.objectStore(TM_SETTINGS_STORE).get(key));
+var tx = db.transaction(CAT_TM_SETTINGS, "readonly");
+var rec = await tmRequest(tx.objectStore(CAT_TM_SETTINGS).get(key));
 return rec ? rec.value : "";
-} finally {
-db.close();
-}
+} finally { db.close(); }
 }
 
 async function tmSetSetting(key, value) {
 var db = await tmOpenDB();
 try {
-var tx = db.transaction(TM_SETTINGS_STORE, "readwrite");
-tx.objectStore(TM_SETTINGS_STORE).put({ key: key, value: value });
-await tmTxDone(tx);
-} finally {
-db.close();
-}
+var tx = db.transaction(CAT_TM_SETTINGS, "readwrite");
+tx.objectStore(CAT_TM_SETTINGS).put({ key: key, value: value });
+await tmDone(tx);
+} finally { db.close(); }
 }
 
-async function tmFindMetaByName(name) {
-var metas = await tmGetAllMemoriesMeta();
-name = safeMemoryName(name, "");
-for (var i = 0; i < metas.length; i++) {
-if (String(metas[i].name || "") === name) return metas[i];
-}
-return null;
+async function tmListMetas() {
+var db = await tmOpenDB();
+try {
+var tx = db.transaction(CAT_TM_META, "readonly");
+var out = await tmRequest(tx.objectStore(CAT_TM_META).getAll());
+out = out || [];
+out.sort(function (a, b) { return String(a.name || "").localeCompare(String(b.name || "")); });
+return out;
+} finally { db.close(); }
 }
 
 async function tmDeleteChunks(memoryId) {
 var db = await tmOpenDB();
 try {
-var tx = db.transaction(TM_CHUNK_STORE, "readwrite");
-var store = tx.objectStore(TM_CHUNK_STORE);
-var index = store.index("memoryId");
+var tx = db.transaction(CAT_TM_CHUNKS, "readwrite");
+var idx = tx.objectStore(CAT_TM_CHUNKS).index("memoryId");
 await new Promise(function (resolve, reject) {
-var req = index.openCursor(IDBKeyRange.only(memoryId));
+var req = idx.openCursor(IDBKeyRange.only(memoryId));
 req.onsuccess = function () {
-var cursor = req.result;
-if (cursor) {
-cursor.delete();
-cursor.continue();
-} else {
-resolve();
-}
+var cur = req.result;
+if (cur) {
+cur.delete();
+cur.continue();
+} else resolve();
 };
 req.onerror = function () { reject(req.error || new Error("Cannot delete TM chunks.")); };
 });
-await tmTxDone(tx);
-} finally {
-db.close();
-}
+await tmDone(tx);
+} finally { db.close(); }
 }
 
-function tmSerializeTus() {
-return APP.tus.map(function (tu) {
+function tmCurrentUnits() {
+return (APP.tus || []).map(function (tu) {
 return {
 ar: tu.ar || "",
 en: tu.en || "",
@@ -1467,137 +1439,133 @@ mode: tu.mode || "saved-tm"
 }).filter(function (x) { return x.ar && x.en; });
 }
 
-async function tmSaveCurrentMemory(name, ui, preferredId) {
-if (!APP.tus || !APP.tus.length) throw new Error("No Translation Memory is loaded to save.");
-name = safeMemoryName(name, "Saved TM");
-var existing = preferredId ? null : await tmFindMetaByName(name);
-var id = preferredId || (existing && existing.id) || APP.activeMemoryId || tmUid();
-if (APP.activeMemoryId === "__all__" && !preferredId && !(existing && existing.id)) id = tmUid();
+async function tmFindByName(name) {
+name = tmSafeName(name, "");
+var metas = await tmListMetas();
+for (var i = 0; i < metas.length; i++) if ((metas[i].name || "") === name) return metas[i];
+return null;
+}
 
-var allTus = tmSerializeTus();
+async function tmSaveActive(name, ui, forceNew) {
+if (!APP.tus || !APP.tus.length) throw new Error("No active TM to save.");
+name = tmSafeName(name, "Saved TM");
+var existing = forceNew ? null : await tmFindByName(name);
+var id = existing ? existing.id : tmNewId();
+var units = tmCurrentUnits();
 var now = new Date().toISOString();
 var meta = {
 id: id,
 name: name,
-count: allTus.length,
+count: units.length,
 createdAt: existing && existing.createdAt ? existing.createdAt : now,
 updatedAt: now,
-source: "browser-indexeddb",
-appVersion: APP.version || ""
+version: APP.version || ""
 };
 
 if (ui) {
-ui.status("Saving TM locally: " + name + " - " + asc(allTus.length) + " units");
-ui.progress(0, allTus.length || 1);
+ui.status("Saving TM: " + name + " / " + asc(units.length));
+ui.progress(0, units.length || 1);
 }
 
 await tmDeleteChunks(id);
 
 var db = await tmOpenDB();
 try {
-var tx = db.transaction([TM_META_STORE, TM_CHUNK_STORE, TM_SETTINGS_STORE], "readwrite");
-tx.objectStore(TM_META_STORE).put(meta);
-var chunkStore = tx.objectStore(TM_CHUNK_STORE);
-var chunkCount = Math.ceil(allTus.length / TM_CHUNK_SIZE);
+var tx = db.transaction([CAT_TM_META, CAT_TM_CHUNKS, CAT_TM_SETTINGS], "readwrite");
+tx.objectStore(CAT_TM_META).put(meta);
+var store = tx.objectStore(CAT_TM_CHUNKS);
+var chunkCount = Math.ceil(units.length / CAT_TM_CHUNK_SIZE);
 for (var i = 0; i < chunkCount; i++) {
-var part = allTus.slice(i * TM_CHUNK_SIZE, (i + 1) * TM_CHUNK_SIZE);
-chunkStore.put({
+store.put({
 key: id + "::" + i,
 memoryId: id,
 index: i,
-items: part
+items: units.slice(i * CAT_TM_CHUNK_SIZE, (i + 1) * CAT_TM_CHUNK_SIZE)
 });
-if (ui) ui.progress(Math.min((i + 1) * TM_CHUNK_SIZE, allTus.length), allTus.length || 1);
+if (ui) ui.progress(Math.min((i + 1) * CAT_TM_CHUNK_SIZE, units.length), units.length || 1);
 }
-tx.objectStore(TM_SETTINGS_STORE).put({ key: "lastMemoryId", value: id });
-await tmTxDone(tx);
-} finally {
-db.close();
-}
+tx.objectStore(CAT_TM_SETTINGS).put({ key: "lastMemoryId", value: id });
+await tmDone(tx);
+} finally { db.close(); }
 
 APP.activeMemoryId = id;
 APP.activeMemoryName = name;
-if (ui) ui.status("TM saved locally: " + name + " - " + asc(allTus.length) + " units");
+if (ui) ui.status("Saved TM: " + name + " / " + asc(units.length));
 return meta;
 }
 
-async function tmReadChunks(memoryId) {
+async function tmReadUnits(memoryId) {
 var db = await tmOpenDB();
 try {
-var tx = db.transaction(TM_CHUNK_STORE, "readonly");
-var store = tx.objectStore(TM_CHUNK_STORE);
-var index = store.index("memoryId");
+var tx = db.transaction(CAT_TM_CHUNKS, "readonly");
+var idx = tx.objectStore(CAT_TM_CHUNKS).index("memoryId");
 var chunks = await new Promise(function (resolve, reject) {
 var out = [];
-var req = index.openCursor(IDBKeyRange.only(memoryId));
+var req = idx.openCursor(IDBKeyRange.only(memoryId));
 req.onsuccess = function () {
-var cursor = req.result;
-if (cursor) {
-out.push(cursor.value);
-cursor.continue();
-} else {
-resolve(out);
-}
+var cur = req.result;
+if (cur) {
+out.push(cur.value);
+cur.continue();
+} else resolve(out);
 };
 req.onerror = function () { reject(req.error || new Error("Cannot read TM chunks.")); };
 });
 chunks.sort(function (a, b) { return (a.index || 0) - (b.index || 0); });
-var all = [];
-chunks.forEach(function (ch) {
-(ch.items || []).forEach(function (item) { all.push(item); });
-});
-return all;
-} finally {
-db.close();
-}
+var units = [];
+chunks.forEach(function (ch) { (ch.items || []).forEach(function (it) { units.push(it); }); });
+return units;
+} finally { db.close(); }
 }
 
-async function tmLoadOneMemory(memoryId, ui, merge) {
-var metas = await tmGetAllMemoriesMeta();
+async function tmLoadMemory(memoryId, ui, merge) {
+var metas = await tmListMetas();
 var meta = null;
 for (var i = 0; i < metas.length; i++) if (metas[i].id === memoryId) meta = metas[i];
-if (!meta) throw new Error("Saved TM was not found.");
+if (!meta) throw new Error("Saved TM not found.");
 
 if (!merge) resetMemory();
-var items = await tmReadChunks(memoryId);
+var units = await tmReadUnits(memoryId);
 if (ui) {
-ui.status("Loading TM: " + meta.name + " - " + asc(items.length) + " units");
-ui.progress(0, items.length || 1);
+ui.status("Loading TM: " + meta.name + " / " + asc(units.length));
+ui.progress(0, units.length || 1);
 }
-for (var k = 0; k < items.length; k++) {
-var it = items[k] || {};
+
+for (var k = 0; k < units.length; k++) {
+var it = units[k] || {};
 addTU(it.ar || "", it.en || "", typeof it.row === "number" ? it.row : -1, it.mode || ("saved-tm:" + meta.name));
-if (ui && k % 500 === 0) ui.progress(k, items.length || 1);
+if (ui && k % 500 === 0) ui.progress(k, units.length || 1);
 }
+
 APP.built = APP.tus.length > 0;
 APP.activeMemoryId = meta.id;
 APP.activeMemoryName = meta.name;
 await tmSetSetting("lastMemoryId", meta.id);
+
 if (ui) {
-ui.progress(items.length || 1, items.length || 1);
-ui.status("TM loaded: " + meta.name + " - Total active units: " + asc(APP.tus.length));
+ui.progress(units.length || 1, units.length || 1);
+ui.status("Loaded TM: " + meta.name + " / active units: " + asc(APP.tus.length));
 }
 return meta;
 }
 
-async function tmLoadAllMemories(ui) {
-var metas = await tmGetAllMemoriesMeta();
-if (!metas.length) throw new Error("No saved Translation Memories found.");
+async function tmLoadAll(ui) {
+var metas = await tmListMetas();
+if (!metas.length) throw new Error("No saved TMs.");
 resetMemory();
-var total = 0;
-for (var i = 0; i < metas.length; i++) total += +metas[i].count || 0;
+var total = metas.reduce(function (s, m) { return s + (+m.count || 0); }, 0);
+var done = 0;
 if (ui) {
 ui.status("Loading all saved TMs...");
 ui.progress(0, total || 1);
 }
-var loaded = 0;
-for (var m = 0; m < metas.length; m++) {
-var items = await tmReadChunks(metas[m].id);
-for (var k = 0; k < items.length; k++) {
-var it = items[k] || {};
-addTU(it.ar || "", it.en || "", typeof it.row === "number" ? it.row : -1, it.mode || ("saved-tm:" + metas[m].name));
-loaded++;
-if (ui && loaded % 500 === 0) ui.progress(loaded, total || 1);
+for (var i = 0; i < metas.length; i++) {
+var units = await tmReadUnits(metas[i].id);
+for (var k = 0; k < units.length; k++) {
+var it = units[k] || {};
+addTU(it.ar || "", it.en || "", typeof it.row === "number" ? it.row : -1, it.mode || ("saved-tm:" + metas[i].name));
+done++;
+if (ui && done % 500 === 0) ui.progress(done, total || 1);
 }
 }
 APP.built = APP.tus.length > 0;
@@ -1606,52 +1574,46 @@ APP.activeMemoryName = "All saved TMs";
 await tmSetSetting("lastMemoryId", "__all__");
 if (ui) {
 ui.progress(total || 1, total || 1);
-ui.status("All saved TMs loaded. Active units: " + asc(APP.tus.length));
+ui.status("Loaded all saved TMs / active units: " + asc(APP.tus.length));
 }
 return metas;
 }
 
 async function tmDeleteMemory(memoryId, ui) {
 if (!memoryId || memoryId === "__all__") throw new Error("Choose one saved TM to delete.");
-var metas = await tmGetAllMemoriesMeta();
+var metas = await tmListMetas();
 var meta = null;
 for (var i = 0; i < metas.length; i++) if (metas[i].id === memoryId) meta = metas[i];
-if (!meta) throw new Error("Saved TM was not found.");
-
+if (!meta) throw new Error("Saved TM not found.");
 await tmDeleteChunks(memoryId);
 var db = await tmOpenDB();
 try {
-var tx = db.transaction(TM_META_STORE, "readwrite");
-tx.objectStore(TM_META_STORE).delete(memoryId);
-await tmTxDone(tx);
-} finally {
-db.close();
-}
-try {
+var tx = db.transaction(CAT_TM_META, "readwrite");
+tx.objectStore(CAT_TM_META).delete(memoryId);
+await tmDone(tx);
+} finally { db.close(); }
 var last = await tmGetSetting("lastMemoryId");
 if (last === memoryId) await tmSetSetting("lastMemoryId", "");
-} catch (e) {}
-
 if (APP.activeMemoryId === memoryId) {
 resetMemory();
 APP.activeMemoryId = "";
 APP.activeMemoryName = "";
 }
-if (ui) ui.status("Deleted saved TM: " + meta.name);
+if (ui) ui.status("Deleted TM: " + meta.name);
 return meta;
 }
 
-async function tmRefreshSelect(ui) {
+async function tmRefreshLibrary(ui, selectedId) {
 var sel = ui && ui.tmSelect ? ui.tmSelect() : null;
 if (!sel) return [];
-var metas = [];
-try { metas = await tmGetAllMemoriesMeta(); } catch (e) { metas = []; }
-var current = sel.value || APP.activeMemoryId || "";
+var metas = await tmListMetas();
+var keep = selectedId || sel.value || APP.activeMemoryId || "";
 sel.innerHTML = "";
-var opt0 = document.createElement("option");
-opt0.value = "";
-opt0.textContent = "TM Library";
-sel.appendChild(opt0);
+
+var empty = document.createElement("option");
+empty.value = "";
+empty.textContent = "TM Library";
+sel.appendChild(empty);
 
 if (metas.length) {
 var all = document.createElement("option");
@@ -1667,10 +1629,10 @@ opt.textContent = (m.name || "Saved TM") + " - " + asc(m.count || 0);
 sel.appendChild(opt);
 });
 
-if (current) {
+if (keep) {
 for (var i = 0; i < sel.options.length; i++) {
-if (sel.options[i].value === current) {
-sel.value = current;
+if (sel.options[i].value === keep) {
+sel.value = keep;
 break;
 }
 }
@@ -1678,30 +1640,56 @@ break;
 return metas;
 }
 
-async function tmAutoLoadLast(ui) {
-try {
-await tmRefreshSelect(ui);
+async function tmLoadSelected(ui) {
+var sel = ui && ui.tmSelect ? ui.tmSelect() : null;
+await tmRefreshLibrary(ui, sel ? sel.value : "");
+sel = ui && ui.tmSelect ? ui.tmSelect() : null;
+var id = sel ? sel.value : "";
+
+if (!id) {
 var last = await tmGetSetting("lastMemoryId");
-if (!last) {
-if (ui) ui.status("Ready. Import or choose a saved Translation Memory.");
-return;
+if (last) id = last;
 }
-if (last === "__all__") await tmLoadAllMemories(ui);
-else await tmLoadOneMemory(last, ui, false);
-await tmRefreshSelect(ui);
-} catch (e) {
-if (ui) ui.status("Saved TM auto-load skipped: " + (e && e.message ? e.message : e));
+
+if (!id) {
+var metas = await tmListMetas();
+if (metas.length === 1) id = metas[0].id;
+else if (metas.length > 1) {
+if (sel) sel.focus();
+throw new Error("Choose a TM from TM Library first.");
 }
 }
 
-function tmMemoryPrompt(defaultName) {
-var name = "";
-try {
-name = window.prompt("Name this Translation Memory:", safeMemoryName(defaultName, "Saved TM")) || "";
-} catch (e) {
-name = defaultName || "Saved TM";
+if (!id) throw new Error("No saved TM found. Import HTML first.");
+
+if (id === "__all__") await tmLoadAll(ui);
+else await tmLoadMemory(id, ui, false);
+
+await tmRefreshLibrary(ui, id);
+return id;
 }
-return safeMemoryName(name, defaultName || "Saved TM");
+
+function tmAskName(defaultName) {
+var name = "";
+try { name = window.prompt("Name this Translation Memory:", tmSafeName(defaultName, "Saved TM")) || ""; }
+catch (e) { name = defaultName || "Saved TM"; }
+return tmSafeName(name, defaultName || "Saved TM");
+}
+
+async function tmAutoLoadLast(ui) {
+try {
+await tmRefreshLibrary(ui, "");
+var last = await tmGetSetting("lastMemoryId");
+if (last) {
+if (last === "__all__") await tmLoadAll(ui);
+else await tmLoadMemory(last, ui, false);
+await tmRefreshLibrary(ui, last);
+} else {
+ui.status("Ready. Import HTML or choose a saved TM.");
+}
+} catch (e) {
+ui.status("TM auto-load skipped: " + (e && e.message ? e.message : e));
+}
 }
 
 
@@ -1815,35 +1803,21 @@ shadow.innerHTML = [
 ".panel.catMobile .targetDraft{min-height:78px!important;font-size:15px!important}",
 ".panel.catMobile .fab{right:12px!important;bottom:12px!important;padding:12px 14px!important}",
 "@media (max-width:420px){.panel.catMobile .side{grid-template-columns:1fr!important}.panel.catMobile .statCard{min-width:132px!important;flex-basis:132px!important}}",
+
 ".tmSelect{height:34px;min-width:100%;border:1px solid #d9e0ea;border-radius:9px;background:#fff;font:800 12px Segoe UI,Tahoma,Arial;color:#111827;padding:0 8px;direction:ltr}",
 ".saveTM{background:#0f766e;color:#fff;border-color:#0f766e}",
 ".deleteTM{background:#991b1b;color:#fff;border-color:#991b1b}",
-
-".panel.focusMode .dash{display:none!important}",
-".panel.focusMode .side{display:none!important}",
-".panel.focusMode .inputArea{display:none!important}",
-".panel.focusMode .body{display:block!important;padding:6px!important;gap:0!important;overflow:hidden!important;flex:1!important;min-height:0!important}",
-".panel.focusMode .mainbox{height:calc(100dvh - 58px)!important;min-height:0!important;width:100%!important;border-radius:12px!important}",
+".filePick{position:relative;display:flex;align-items:center;justify-content:center;height:34px;border:1px solid #16a34a;border-radius:9px;background:#16a34a;color:#fff;font:800 12px Segoe UI,Tahoma,Arial;cursor:pointer;overflow:hidden;text-align:center;direction:ltr}",
+".filePick input{position:absolute;inset:0;width:100%;height:100%;opacity:0;cursor:pointer;font-size:0}",
+".panel.focusMode .dash,.panel.focusMode .side,.panel.focusMode .inputArea{display:none!important}",
+".panel.focusMode .body{display:block!important;padding:6px!important;overflow:hidden!important;flex:1!important;min-height:0!important}",
+".panel.focusMode .mainbox{width:100%!important;height:calc(100dvh - 58px)!important;min-height:0!important}",
 ".panel.focusMode .tablewrap{height:100%!important;max-height:none!important;overflow:auto!important}",
-".panel.focusMode .top{position:sticky!important;top:0!important;z-index:50!important}",
-".panel.focusMode .title{white-space:nowrap!important;overflow:hidden!important;text-overflow:ellipsis!important}",
-".panel.catMobile.focusMode .mainbox{height:calc(100dvh - 58px)!important}",
-".panel.catMobile.focusMode .body{padding:4px!important}",
-".panel.catMobile.focusMode .tablewrap table{display:table!important;width:980px!important;min-width:980px!important;table-layout:fixed!important}",
-".panel.catMobile.focusMode .tablewrap thead{display:table-header-group!important}",
-".panel.catMobile.focusMode .tablewrap tbody{display:table-row-group!important}",
-".panel.catMobile.focusMode .tablewrap tr{display:table-row!important}",
-".panel.catMobile.focusMode .tablewrap th,.panel.catMobile.focusMode .tablewrap td{display:table-cell!important}",
-".panel.catMobile.focusMode .tablewrap td::before{content:none!important;display:none!important}",
-
-".panel .filePick.green{background:#16a34a;color:#fff;border-color:#16a34a}",
-".panel.catMobile .filePick{display:inline-flex!important;align-items:center!important;justify-content:center!important;position:relative!important;min-height:44px!important;font-size:14px!important;border-radius:12px!important;padding:0 12px!important;white-space:nowrap!important;overflow:hidden!important}",
-".panel.catMobile .filePick input{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;opacity:0!important}",
 "</style>",
 
-"<button class='fab' id='fab'>CAT V45 Pro</button>",
+"<button class='fab' id='fab'>OPEN CAT</button>",
 "<section class='panel' id='panel'>",
-"<div class='top'><button class='close' id='close'>x</button><div class='topTools'><button class='iconBtn' id='focusMode' title='Show results only'>FOCUS</button><button class='iconBtn' id='toggleSourceIcon' title='Hide or show source'>SRC</button><button class='iconBtn' id='toggleHtmlIcon' title='Hide or show HTML page'>HTML</button></div><div class='title'>CAT Translation Memory V55</div></div>",
+"<div class='top'><button class='close' id='close'>x</button><div class='topTools'><button class='iconBtn' id='focusMode' title='Show results only'>FOCUS</button><button class='iconBtn' id='toggleSourceIcon' title='Hide or show source'>SRC</button><button class='iconBtn' id='toggleHtmlIcon' title='Hide or show HTML page'>HTML</button></div><div class='title'>CAT Translation Memory V57</div></div>",
 
 "<div class='dash'>",
 "<div class='statCard'><div class='lab'>\u0645\u0639\u062f\u0644 \u0627\u0644\u062a\u0637\u0627\u0628\u0642 \u0645\u0646 100</div><div class='val' id='avgStat'>0%</div></div>",
@@ -1855,16 +1829,13 @@ shadow.innerHTML = [
 
 "<div class='body'>",
 "<aside class='side'>",
-"<button class='green' id='build'>\u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629</button>",
-"<label class='filePick primary' id='importHTMLMemoryLabel' title='Hidden HTML Translation Memory'>Import HTML TM<input id='fileHTMLMemory' type='file' accept='.html,.htm,text/html'></label>",
-"<label class='filePick green' id='importHTMLDirectLabel' title='Import and save HTML Translation Memory'>Import HTML<input id='fileHTMLDirect2' type='file' accept='.html,.htm,text/html'></label>",
-"<button class='primary' id='importHTMLDirect'>Import HTML</button>",
-"<input class='hiddenFile' id='fileHTMLDirect' type='file' accept='.html,.htm,text/html'>",
+"<button class='green' id='build'>Build TM from Page</button>",
+"<label class='filePick' id='importHTMLLabel' title='Import HTML and save it as TM'>Import HTML<input id='fileHTMLMemory' type='file' accept='.html,.htm,text/html'></label>",
 "<select class='tmSelect' id='tmSelect' title='Saved Translation Memories'><option value=''>TM Library</option></select>",
 "<button class='saveTM' id='saveTM'>Save TM</button>",
 "<button id='loadSelectedTM'>Load Selected TM</button>",
 "<button class='deleteTM' id='deleteTM'>Delete TM</button>",
-"<button class='primary' id='analyze'>\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0646\u0635</button>",
+"<button class='primary' id='analyze'>Analyze</button>",
 "<button class='gold' id='acceptAll'>\u0627\u0639\u062a\u0645\u0627\u062f \u0627\u0644\u0623\u0641\u0636\u0644</button>",
 "<button id='copy'>\u0646\u0633\u062e Target Draft</button>",
 "<button id='concordance'>\u0628\u062d\u062b Concordance</button>",
@@ -1928,6 +1899,26 @@ try { return (window.innerWidth || document.documentElement.clientWidth || 0) <=
 catch (e) { return false; }
 }
 function applyMobileMode() { panel.classList.toggle("catMobile", isMobileCAT()); }
+function syncOpenButton() {
+try {
+var b = document.getElementById(APP.hostId + "-open-btn");
+if (b) b.style.display = panel.classList.contains("open") ? "none" : "block";
+} catch (e) {}
+}
+function ensureOpenButton() {
+try {
+var old = document.getElementById(APP.hostId + "-open-btn");
+if (old) return old;
+var b = document.createElement("button");
+b.id = APP.hostId + "-open-btn";
+b.type = "button";
+b.textContent = "OPEN CAT";
+b.style.cssText = "position:fixed;right:18px;bottom:18px;z-index:2147483647;height:46px;min-width:128px;padding:0 18px;border:0;border-radius:999px;background:#2563eb;color:#fff;font:800 14px Segoe UI,Tahoma,Arial;box-shadow:0 14px 36px rgba(37,99,235,.35);cursor:pointer;direction:ltr";
+b.onclick = function (ev) { try { ev.preventDefault(); ev.stopPropagation(); } catch (e) {} open(); };
+document.body.appendChild(b);
+return b;
+} catch (e) { return null; }
+}
 function open() {
 applyMobileMode();
 panel.classList.add("open");
@@ -1936,7 +1927,7 @@ document.documentElement.style.overflow = "hidden";
 document.body.style.overflow = "hidden";
 window.scrollTo(0, 0);
 } catch (e) {}
-syncGlobalOpenButton();
+syncOpenButton();
 }
 function close() {
 panel.classList.remove("open");
@@ -1944,7 +1935,7 @@ try {
 document.documentElement.style.overflow = "";
 document.body.style.overflow = "";
 } catch (e) {}
-syncGlobalOpenButton();
+syncOpenButton();
 }
 function setFocusMode(on) {
 on = !!on;
@@ -1953,59 +1944,9 @@ var btn = $("#focusMode");
 if (btn) {
 btn.textContent = on ? "TOOLS" : "FOCUS";
 btn.classList.toggle("on", on);
-btn.setAttribute("aria-pressed", on ? "true" : "false");
 }
-if (on) ui.status("Focus mode: results only.");
-else ui.status("Tools mode: controls are visible.");
+ui.status(on ? "Focus mode: results only." : "Tools mode: controls are visible.");
 }
-
-
-function ensureGlobalOpenButton() {
-try {
-var oldBtn = document.getElementById(APP.hostId + "-global-open");
-if (oldBtn) return oldBtn;
-var b = document.createElement("button");
-b.id = APP.hostId + "-global-open";
-b.type = "button";
-b.textContent = "OPEN CAT";
-b.setAttribute("aria-label", "Open CAT Translation Tool");
-b.style.cssText = [
-"position:fixed",
-"right:18px",
-"bottom:18px",
-"z-index:2147483647",
-"height:46px",
-"min-width:128px",
-"padding:0 18px",
-"border:0",
-"border-radius:999px",
-"background:#2563eb",
-"color:#fff",
-"font:800 14px Segoe UI,Tahoma,Arial",
-"box-shadow:0 14px 36px rgba(37,99,235,.35)",
-"cursor:pointer",
-"direction:ltr",
-"-webkit-tap-highlight-color:transparent"
-].join(";");
-b.onclick = function (ev) {
-try { ev.preventDefault(); ev.stopPropagation(); } catch (e) {}
-open();
-};
-document.body.appendChild(b);
-return b;
-} catch (e) {
-return null;
-}
-}
-
-function syncGlobalOpenButton() {
-try {
-var b = document.getElementById(APP.hostId + "-global-open");
-if (!b) return;
-b.style.display = panel && panel.classList.contains("open") ? "none" : "block";
-} catch (e) {}
-}
-
 
 function setSourceCollapsed(collapsed) {
 collapsed = !!collapsed;
@@ -2187,27 +2128,10 @@ step();
 
 $("#fab").onclick = open;
 $("#close").onclick = close;
+try { ensureOpenButton(); syncOpenButton(); window.openCATTool = open; } catch (e) {}
 window.addEventListener("CAT_V45_PRO_OPEN", open);
 window.addEventListener("resize", applyMobileMode);
 window.addEventListener("orientationchange", applyMobileMode);
-
-try {
-ensureGlobalOpenButton();
-syncGlobalOpenButton();
-window.openCATTool = open;
-document.addEventListener("click", function (ev) {
-var t = ev.target;
-if (!t) return;
-var tx = String(t.textContent || t.value || "").trim();
-var id = String(t.id || "");
-var cls = String(t.className || "");
-if (/CAT|OPEN CAT|فتح|الأداة|الاداة/i.test(tx + " " + id + " " + cls)) {
-ev.preventDefault();
-open();
-}
-}, true);
-} catch (e) {}
-
 
 $("#focusMode").onclick = function () { setFocusMode(!panel.classList.contains("focusMode")); };
 $("#toggleSourceIcon").onclick = function () { setSourceCollapsed(!panel.classList.contains("sourceCollapsed")); };
@@ -2295,173 +2219,99 @@ $("#fileDOCX").value = "";
 
 
 
-async function importHTMLFileAsPersistentTM(f) {
-if (!f) return;
+async function importHTMLAsTMFile(file) {
+if (!file) return;
 try {
-var defaultName = String(f.name || "HTML TM").replace(/\.[^.]+$/, "");
-var tmName = tmMemoryPrompt(defaultName);
-ui.status("Importing hidden HTML TM...");
-var txt = await f.text();
-var summary = await buildHiddenHTMLMemoryFromText(txt, f.name || "memory.html", ui);
-await tmSaveCurrentMemory(tmName, ui);
-await tmRefreshSelect(ui);
-var sel = $("#tmSelect");
-if (sel && APP.activeMemoryId) sel.value = APP.activeMemoryId;
-ui.status("HTML TM imported and saved locally: " + tmName + " - Added: " + asc(summary.added) + " - Total TM: " + asc(summary.totalTM));
+var defaultName = String(file.name || "HTML TM").replace(/\.[^.]+$/, "");
+var name = tmAskName(defaultName);
+ui.status("Importing HTML as TM...");
+var txt = await file.text();
+var summary = await buildHiddenHTMLMemoryFromText(txt, file.name || "memory.html", ui);
+var meta = await tmSaveActive(name, ui, true);
+await tmRefreshLibrary(ui, meta.id);
+ui.status("Imported and saved HTML TM: " + name + " / added: " + asc(summary.added));
 } catch (e) {
-ui.status("HTML TM import failed: " + (e && e.message ? e.message : e));
+ui.status("Import HTML failed: " + (e && e.message ? e.message : e));
 }
 }
 
 var htmlMemoryInput = $("#fileHTMLMemory");
 if (htmlMemoryInput) {
-htmlMemoryInput.onchange = async function () {
+htmlMemoryInput.addEventListener("change", async function () {
 var f = htmlMemoryInput.files && htmlMemoryInput.files[0];
-await importHTMLFileAsPersistentTM(f);
+await importHTMLAsTMFile(f);
 htmlMemoryInput.value = "";
-};
+});
 }
 
-
-var htmlDirectInput2 = $("#fileHTMLDirect2");
-if (htmlDirectInput2) {
-htmlDirectInput2.onchange = async function () {
-var f = htmlDirectInput2.files && htmlDirectInput2.files[0];
-await importHTMLFileAsPersistentTM(f);
-htmlDirectInput2.value = "";
-};
-}
-
-var htmlDirectInput = $("#fileHTMLDirect");
-if (htmlDirectInput) {
-htmlDirectInput.onchange = async function () {
-var f = htmlDirectInput.files && htmlDirectInput.files[0];
-await importHTMLFileAsPersistentTM(f);
-htmlDirectInput.value = "";
-};
-}
-
-var importHTMLDirectBtn = $("#importHTMLDirect");
-if (importHTMLDirectBtn) {
-importHTMLDirectBtn.onclick = function () {
-var input = $("#fileHTMLDirect2") || $("#fileHTMLDirect") || $("#fileHTMLMemory");
-if (input) input.click();
-};
-}
-
-async function loadSelectedTMNow() {
-var sel = $("#tmSelect");
-var id = sel ? sel.value : "";
-try {
-await tmRefreshSelect(ui);
-sel = $("#tmSelect");
-if (!id && sel) id = sel.value || "";
-if (!id) {
-var last = await tmGetSetting("lastMemoryId");
-if (last) id = last;
-}
-if (!id) {
-var metas = await tmGetAllMemoriesMeta();
-if (metas.length === 1) id = metas[0].id;
-else if (metas.length > 1) {
-if (sel) sel.focus();
-ui.status("Choose a saved TM from TM Library first, or choose All saved TMs.");
-return;
-}
-}
-if (!id) { ui.status("No saved TM found. Import HTML first."); return; }
-
-if (id === "__all__") await tmLoadAllMemories(ui);
-else await tmLoadOneMemory(id, ui, false);
-
-await tmRefreshSelect(ui);
-var s2 = $("#tmSelect");
-if (s2) s2.value = id;
-} catch (e) {
-ui.status("TM load failed: " + (e && e.message ? e.message : e));
-}
-}
-
-var tmSelector = $("#tmSelect");
-if (tmSelector) {
-tmSelector.onchange = async function () {
-var id = tmSelector.value;
+var tmSelectEl = $("#tmSelect");
+if (tmSelectEl) {
+tmSelectEl.addEventListener("change", async function () {
+var id = tmSelectEl.value;
 if (!id) return;
 try {
-if (id === "__all__") await tmLoadAllMemories(ui);
-else await tmLoadOneMemory(id, ui, false);
-await tmRefreshSelect(ui);
-var s2 = $("#tmSelect");
-if (s2) s2.value = id;
+if (id === "__all__") await tmLoadAll(ui);
+else await tmLoadMemory(id, ui, false);
+await tmRefreshLibrary(ui, id);
 } catch (e) {
-ui.status("TM load failed: " + (e && e.message ? e.message : e));
+ui.status("Load TM failed: " + (e && e.message ? e.message : e));
 }
-};
+});
 }
 
 var loadSelectedBtn = $("#loadSelectedTM");
-if (loadSelectedBtn) loadSelectedBtn.onclick = loadSelectedTMNow;
+if (loadSelectedBtn) {
+loadSelectedBtn.addEventListener("click", async function (ev) {
+try { ev.preventDefault(); ev.stopPropagation(); } catch (e) {}
+try { await tmLoadSelected(ui); }
+catch (e) { ui.status("Load Selected TM failed: " + (e && e.message ? e.message : e)); }
+});
+}
 
 var saveTMBtn = $("#saveTM");
 if (saveTMBtn) {
-saveTMBtn.onclick = async function () {
+saveTMBtn.addEventListener("click", async function () {
 try {
-var currentName = APP.activeMemoryName || "";
-var name = tmMemoryPrompt(currentName || ("TM " + new Date().toLocaleDateString()));
-await tmSaveCurrentMemory(name, ui);
-await tmRefreshSelect(ui);
-var sel = $("#tmSelect");
-if (sel && APP.activeMemoryId) sel.value = APP.activeMemoryId;
+var name = tmAskName(APP.activeMemoryName || ("TM " + new Date().toLocaleDateString()));
+var meta = await tmSaveActive(name, ui, false);
+await tmRefreshLibrary(ui, meta.id);
 } catch (e) {
-ui.status("TM save failed: " + (e && e.message ? e.message : e));
+ui.status("Save TM failed: " + (e && e.message ? e.message : e));
 }
-};
+});
 }
 
 var deleteTMBtn = $("#deleteTM");
 if (deleteTMBtn) {
-deleteTMBtn.onclick = async function () {
+deleteTMBtn.addEventListener("click", async function () {
+try {
 var sel = $("#tmSelect");
 var id = sel ? sel.value : "";
-if (!id || id === "__all__") { ui.status("Choose one saved TM to delete."); return; }
-var label = sel.options[sel.selectedIndex] ? sel.options[sel.selectedIndex].textContent : "selected TM";
-var ok = true;
-try { ok = window.confirm("Delete this saved Translation Memory?\n" + label); } catch (e) { ok = false; }
+if (!id || id === "__all__") throw new Error("Choose one saved TM to delete.");
+var ok = window.confirm("Delete selected TM?");
 if (!ok) return;
-try {
 await tmDeleteMemory(id, ui);
-await tmRefreshSelect(ui);
+await tmRefreshLibrary(ui, "");
 } catch (e) {
-ui.status("TM delete failed: " + (e && e.message ? e.message : e));
+ui.status("Delete TM failed: " + (e && e.message ? e.message : e));
 }
-};
+});
 }
 
-/* Robust shadow click delegation: useful when mobile/desktop taps miss the direct handler. */
 try {
 shadow.addEventListener("click", function (ev) {
 var t = ev.target;
 if (!t) return;
-var btn = t.closest ? t.closest("#loadSelectedTM,#importHTMLDirect,#focusMode") : null;
-if (!btn) return;
-if (btn.id === "loadSelectedTM") {
+var loadBtn = t.closest ? t.closest("#loadSelectedTM") : null;
+if (loadBtn) {
 ev.preventDefault();
-loadSelectedTMNow();
-}
-if (btn.id === "importHTMLDirect") {
-ev.preventDefault();
-var input = $("#fileHTMLDirect2") || $("#fileHTMLDirect") || $("#fileHTMLMemory");
-if (input) input.click();
-}
-if (btn.id === "focusMode") {
-ev.preventDefault();
-setFocusMode(!panel.classList.contains("focusMode"));
 ev.stopPropagation();
+tmLoadSelected(ui).catch(function (e) { ui.status("Load Selected TM failed: " + (e && e.message ? e.message : e)); });
 }
 }, true);
 } catch (e) {}
 
-setTimeout(function () { tmAutoLoadLast(ui); }, 150);
+setTimeout(function () { tmAutoLoadLast(ui); }, 200);
 
 
 $("#importDOCXZip").onclick = function () { $("#fileDOCXZip").click(); };
