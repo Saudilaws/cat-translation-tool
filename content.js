@@ -2,7 +2,7 @@
 "use strict";
 
 /* =========================================================
-CAT Translation Memory V48 ZIP Word TM Import + Same-Format DOCX Export
+CAT Translation Memory V48 Responsive Mobile + ZIP Word TM Import + Same-Format DOCX Export
 - Collapse / show source input area
 - Top counters: Average, Segments, Confirmed, Needs Translation, Needs Review
 - Word A3 with visual Track Changes
@@ -16,7 +16,7 @@ CAT Translation Memory V48 ZIP Word TM Import + Same-Format DOCX Export
 
 var APP = {
 id: "cat-v45-pro-stable-enhanced-confirmed",
-version: "V48 ZIP Word TM Import",
+version: "V48 Responsive Mobile",
 hostId: "cat-v45-pro-stable-enhanced-confirmed-host",
 built: false,
 building: false,
@@ -805,7 +805,7 @@ return { text: line, lang: forcedLang || lang(line), paraIndex: i };
 
 async function createTargetDocxSameFormat(results) {
 if (!APP.sourceDocxArrayBuffer) {
-throw new Error("لم يتم استيراد ملف DOCX مصدر. استورد ملف Word أولًا.");
+throw new Error("ÙÙ ÙØªÙ Ø§Ø³ØªÙØ±Ø§Ø¯ ÙÙÙ DOCX ÙØµØ¯Ø±. Ø§Ø³ØªÙØ±Ø¯ ÙÙÙ Word Ø£ÙÙÙØ§.");
 }
 
 var pkg = await parseDocxPackage(APP.sourceDocxArrayBuffer);
@@ -816,15 +816,15 @@ return flat(r.target || r.best || "");
 });
 
 if (!targets.length) {
-throw new Error("لا توجد نتائج هدف للتصدير. حلّل النص واعتمد الترجمات أولًا.");
+throw new Error("ÙØ§ ØªÙØ¬Ø¯ ÙØªØ§Ø¦Ø¬ ÙØ¯Ù ÙÙØªØµØ¯ÙØ±. Ø­ÙÙÙ Ø§ÙÙØµ ÙØ§Ø¹ØªÙØ¯ Ø§ÙØªØ±Ø¬ÙØ§Øª Ø£ÙÙÙØ§.");
 }
 
 if (targets.length !== pkg.paragraphs.length) {
 throw new Error(
-"عدد فقرات القالب لا يساوي عدد نتائج الترجمة. " +
-"لأفضل نتيجة، استورد DOCX ثم اضغط تحليل مباشرة دون تقسيم يدوي. " +
-"فقرات القالب: " + asc(pkg.paragraphs.length) +
-" / نتائج الهدف: " + asc(targets.length)
+"Ø¹Ø¯Ø¯ ÙÙØ±Ø§Øª Ø§ÙÙØ§ÙØ¨ ÙØ§ ÙØ³Ø§ÙÙ Ø¹Ø¯Ø¯ ÙØªØ§Ø¦Ø¬ Ø§ÙØªØ±Ø¬ÙØ©. " +
+"ÙØ£ÙØ¶Ù ÙØªÙØ¬Ø©Ø Ø§Ø³ØªÙØ±Ø¯ DOCX Ø«Ù Ø§Ø¶ØºØ· ØªØ­ÙÙÙ ÙØ¨Ø§Ø´Ø±Ø© Ø¯ÙÙ ØªÙØ³ÙÙ ÙØ¯ÙÙ. " +
+"ÙÙØ±Ø§Øª Ø§ÙÙØ§ÙØ¨: " + asc(pkg.paragraphs.length) +
+" / ÙØªØ§Ø¦Ø¬ Ø§ÙÙØ¯Ù: " + asc(targets.length)
 );
 }
 
@@ -1177,7 +1177,7 @@ var zipEntries = await readZipAllEntries(await file.arrayBuffer());
 var docxEntries = zipEntries.filter(function (e) {
 return /\.docx$/i.test(e.name) && !/(^|\/)~\$/i.test(e.name) && e.bytes && e.bytes.length;
 });
-if (!docxEntries.length) throw new Error("لم يتم العثور على ملفات DOCX داخل ملف ZIP.");
+if (!docxEntries.length) throw new Error("ÙÙ ÙØªÙ Ø§ÙØ¹Ø«ÙØ± Ø¹ÙÙ ÙÙÙØ§Øª DOCX Ø¯Ø§Ø®Ù ÙÙÙ ZIP.");
 
 var totalPairs = 0;
 var added = 0;
@@ -1190,7 +1190,7 @@ if (APP.stop) break;
 var entry = docxEntries[i];
 try {
 ui.progress(i, docxEntries.length);
-ui.status("استيراد Word ZIP: " + asc(i + 1) + " / " + asc(docxEntries.length) + " — " + entry.name);
+ui.status("Ø§Ø³ØªÙØ±Ø§Ø¯ Word ZIP: " + asc(i + 1) + " / " + asc(docxEntries.length) + " â " + entry.name);
 var pairs = await extractBilingualPairsFromDocxBytes(entry.bytes, entry.name);
 totalPairs += pairs.length;
 pairs.forEach(function (p) {
@@ -1282,6 +1282,59 @@ shadow.innerHTML = [
 ".hiddenFile{display:none}",
 ".targetDraft.ar{font-family:'GE SS Two Light','GE SS Light Text',Tahoma,Arial;font-size:15px;text-align:justify;text-justify:kashida}",
 ".targetDraft.en{font-family:'Segoe UI',Segoe,Arial;font-size:15px;text-align:justify}",
+
+"@media (max-width: 900px){",
+".fab{right:14px;bottom:14px;padding:11px 14px;font-size:12px}",
+".panel{inset:0;width:100vw;height:100dvh;max-width:100vw;max-height:100dvh;border-radius:0;border:0;overflow:hidden}",
+".top{height:auto;min-height:48px;padding:8px 10px;gap:8px;flex-wrap:wrap;align-items:center}",
+".title{font-size:12px;line-height:1.35;white-space:normal;overflow:hidden;text-overflow:ellipsis;max-width:calc(100vw - 120px)}",
+".topTools{gap:5px;order:3;width:100%;justify-content:flex-start;overflow-x:auto;padding-bottom:2px}",
+".iconBtn{height:34px;min-width:54px;font-size:12px;flex:0 0 auto}",
+".close{width:34px;height:34px;flex:0 0 auto}",
+".dash{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;padding:8px;max-height:132px;overflow:auto}",
+".statCard{padding:7px 6px;border-radius:10px}",
+".statCard .lab{font-size:10px;line-height:1.25}",
+".statCard .val{font-size:18px;margin-top:1px}",
+".body{display:flex;flex-direction:column;gap:8px;padding:8px;overflow:hidden;min-height:0}",
+".side{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:7px;padding:8px;max-height:206px;min-height:0;overflow:auto;flex:0 0 auto}",
+".side .bar,.side .statusBox,.side .mini{grid-column:1/-1}",
+"button,select,input{height:38px;font-size:11px;min-width:0;white-space:normal;line-height:1.2;padding:0 7px}",
+"#concordQ,#slang{grid-column:1/-1;width:100%}",
+".mainbox{flex:1 1 auto;min-height:0;border-radius:10px}",
+".inputArea{padding:8px}",
+"textarea{min-height:88px;max-height:32dvh;font-size:14px;line-height:1.7}",
+".tablewrap{overflow:auto;-webkit-overflow-scrolling:touch;padding:8px;background:#f8fafc}",
+"table,thead,tbody,tr,th,td{display:block}",
+"table{table-layout:auto;background:transparent;direction:rtl}",
+"thead{display:none}",
+"tr{margin:0 0 10px 0;border:1px solid #dbe2ea;border-radius:12px;overflow:hidden;background:#fff;box-shadow:0 4px 14px rgba(15,23,42,.06)}",
+"tr:nth-child(even) td{background:#fff}",
+"td{width:100%!important;border-right:0;border-bottom:1px solid #eef2f7;padding:8px 9px;font-size:14px;line-height:1.65;background:#fff}",
+"td:last-child{border-bottom:0}",
+"td::before{display:block;margin-bottom:4px;color:#64748b;font:900 11px 'Segoe UI',Tahoma,Arial;direction:ltr;text-align:left}",
+"td:nth-child(1)::before{content:'#'}",
+"td:nth-child(2)::before{content:'Source Segment'}",
+"td:nth-child(3)::before{content:'Best Match'}",
+"td:nth-child(4)::before{content:'Match'}",
+"td:nth-child(5)::before{content:'Target Draft'}",
+"td:nth-child(6)::before{content:'Status'}",
+".num,.match,.stat{text-align:start!important;direction:ltr!important}",
+".src,.best,.target,.stat{width:100%!important}",
+".targetDraft{min-height:92px;width:100%;font-size:14px;line-height:1.65}",
+".suggest{gap:5px;overflow-x:auto;flex-wrap:nowrap;padding-bottom:2px}",
+".sug{height:28px;flex:0 0 auto;font-size:10px;max-width:180px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}",
+".panel.sourceCollapsed .side{max-height:180px}",
+"}",
+"@media (max-width: 480px){",
+".dash{grid-template-columns:repeat(2,minmax(0,1fr));max-height:118px}",
+".side{grid-template-columns:1fr;max-height:232px}",
+".side .bar,.side .statusBox,.side .mini,#concordQ,#slang{grid-column:1}",
+".title{max-width:calc(100vw - 80px);font-size:11px}",
+".statCard .val{font-size:17px}",
+"button,select,input{height:39px;font-size:11px}",
+"textarea{min-height:78px}",
+"td{font-size:13.5px}",
+"}",
 "</style>",
 
 "<button class='fab' id='fab'>CAT V45 Pro</button>",
@@ -1305,7 +1358,7 @@ shadow.innerHTML = [
 "<button id='concordance'>\u0628\u062d\u062b Concordance</button>",
 "<input id='concordQ' placeholder='\u0628\u062d\u062b \u0641\u064a \u0627\u0644\u0630\u0627\u0643\u0631\u0629...' style='padding:0 8px'>",
 "<button id='importDOCX'>Import Word DOCX</button>",
-"<button id='importDOCXZip'>استيراد ZIP Word كذاكرة</button>",
+"<button id='importDOCXZip'>Ø§Ø³ØªÙØ±Ø§Ø¯ ZIP Word ÙØ°Ø§ÙØ±Ø©</button>",
 "<button id='importTerms'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f \u0645\u0635\u0637\u0644\u062d\u0627\u062a CSV</button>",
 "<button id='importTMX'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f TMX</button>",
 "<button id='exportTMX'>\u062a\u0635\u062f\u064a\u0631 TMX</button>",
@@ -1314,7 +1367,7 @@ shadow.innerHTML = [
 "<button id='loadProject'>\u0641\u062a\u062d \u0645\u0634\u0631\u0648\u0639 JSON</button>",
 "<button id='report'>\u062a\u0642\u0631\u064a\u0631 HTML</button>",
 "<button id='word'>Word A3 + Track Changes</button>",
-"<button id='wordSameFormat'>تصدير DOCX بنفس تنسيق المصدر</button>",
+"<button id='wordSameFormat'>ØªØµØ¯ÙØ± DOCX Ø¨ÙÙØ³ ØªÙØ³ÙÙ Ø§ÙÙØµØ¯Ø±</button>",
 "<button id='clear'>\u0645\u0633\u062d \u0627\u0644\u0646\u062a\u0627\u0626\u062c</button>",
 "<button class='red' id='stop'>\u0625\u064a\u0642\u0627\u0641</button>",
 "<select id='slang'><option value='auto'>\u062a\u0644\u0642\u0627\u0626\u064a</option><option value='ar'>\u0639\u0631\u0628\u064a \u2190 \u0625\u0646\u062c\u0644\u064a\u0632\u064a</option><option value='en'>English \u2192 Arabic</option></select>",
@@ -1614,7 +1667,7 @@ var pkg = await parseDocxPackage(ab);
 source.value = pkg.text;
 setSourceCollapsed(false);
 
-ui.status("تم استيراد DOCX كقالب مصدر. الفقرات: " + asc(pkg.paragraphs.length) + ". الآن اضغط تحليل، ثم صدّر بنفس تنسيق المصدر.");
+ui.status("ØªÙ Ø§Ø³ØªÙØ±Ø§Ø¯ DOCX ÙÙØ§ÙØ¨ ÙØµØ¯Ø±. Ø§ÙÙÙØ±Ø§Øª: " + asc(pkg.paragraphs.length) + ". Ø§ÙØ¢Ù Ø§Ø¶ØºØ· ØªØ­ÙÙÙØ Ø«Ù ØµØ¯ÙØ± Ø¨ÙÙØ³ ØªÙØ³ÙÙ Ø§ÙÙØµØ¯Ø±.");
 } catch (e) {
 APP.sourceDocxArrayBuffer = null;
 APP.sourceDocxName = "";
@@ -1630,17 +1683,17 @@ $("#fileDOCXZip").onchange = async function () {
 var f = $("#fileDOCXZip").files && $("#fileDOCXZip").files[0];
 if (!f) return;
 try {
-ui.status("جاري استيراد ZIP Word كذاكرة ترجمة...");
+ui.status("Ø¬Ø§Ø±Ù Ø§Ø³ØªÙØ±Ø§Ø¯ ZIP Word ÙØ°Ø§ÙØ±Ø© ØªØ±Ø¬ÙØ©...");
 var summary = await importDocxZipAsTM(f, ui);
 ui.status(
-"تم استيراد ZIP Word. الملفات: " + asc(summary.files) +
-" — الأزواج المستخرجة: " + asc(summary.totalPairs) +
-" — المضافة بعد حذف التكرار: " + asc(summary.added) +
-" — إجمالي TM: " + asc(summary.totalTM) +
-(summary.failed ? " — ملفات تعذر قراءتها: " + asc(summary.failed) : "")
+"ØªÙ Ø§Ø³ØªÙØ±Ø§Ø¯ ZIP Word. Ø§ÙÙÙÙØ§Øª: " + asc(summary.files) +
+" â Ø§ÙØ£Ø²ÙØ§Ø¬ Ø§ÙÙØ³ØªØ®Ø±Ø¬Ø©: " + asc(summary.totalPairs) +
+" â Ø§ÙÙØ¶Ø§ÙØ© Ø¨Ø¹Ø¯ Ø­Ø°Ù Ø§ÙØªÙØ±Ø§Ø±: " + asc(summary.added) +
+" â Ø¥Ø¬ÙØ§ÙÙ TM: " + asc(summary.totalTM) +
+(summary.failed ? " â ÙÙÙØ§Øª ØªØ¹Ø°Ø± ÙØ±Ø§Ø¡ØªÙØ§: " + asc(summary.failed) : "")
 );
 } catch (e) {
-ui.status("فشل استيراد ZIP Word: " + (e && e.message ? e.message : e));
+ui.status("ÙØ´Ù Ø§Ø³ØªÙØ±Ø§Ø¯ ZIP Word: " + (e && e.message ? e.message : e));
 }
 $("#fileDOCXZip").value = "";
 };
@@ -1694,11 +1747,11 @@ try {
 updateStoredTargets();
 
 if (!APP.sourceDocxArrayBuffer) {
-ui.status("استورد ملف DOCX مصدر أولًا حتى يمكن التصدير بنفس التنسيق.");
+ui.status("Ø§Ø³ØªÙØ±Ø¯ ÙÙÙ DOCX ÙØµØ¯Ø± Ø£ÙÙÙØ§ Ø­ØªÙ ÙÙÙÙ Ø§ÙØªØµØ¯ÙØ± Ø¨ÙÙØ³ Ø§ÙØªÙØ³ÙÙ.");
 return;
 }
 
-ui.status("جاري إنشاء ملف الهدف بنفس تنسيق المصدر...");
+ui.status("Ø¬Ø§Ø±Ù Ø¥ÙØ´Ø§Ø¡ ÙÙÙ Ø§ÙÙØ¯Ù Ø¨ÙÙØ³ ØªÙØ³ÙÙ Ø§ÙÙØµØ¯Ø±...");
 var out = await createTargetDocxSameFormat(APP.results);
 var base = (APP.sourceDocxName || "source.docx").replace(/\.docx$/i, "");
 
@@ -1708,9 +1761,9 @@ out,
 "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
 );
 
-ui.status("تم تصدير ملف DOCX الهدف بنفس قالب وتنسيق المصدر قدر الإمكان.");
+ui.status("ØªÙ ØªØµØ¯ÙØ± ÙÙÙ DOCX Ø§ÙÙØ¯Ù Ø¨ÙÙØ³ ÙØ§ÙØ¨ ÙØªÙØ³ÙÙ Ø§ÙÙØµØ¯Ø± ÙØ¯Ø± Ø§ÙØ¥ÙÙØ§Ù.");
 } catch (e) {
-ui.status("فشل تصدير DOCX بنفس التنسيق: " + (e && e.message ? e.message : e));
+ui.status("ÙØ´Ù ØªØµØ¯ÙØ± DOCX Ø¨ÙÙØ³ Ø§ÙØªÙØ³ÙÙ: " + (e && e.message ? e.message : e));
 }
 };
 
