@@ -32,7 +32,10 @@ terms: [],
 results: [],
 sourceDocxArrayBuffer: null,
 sourceDocxName: "",
-keepDocxParagraphs: false
+keepDocxParagraphs: false,
+activeMemoryId: "",
+activeMemoryName: "",
+lastMemoryAutoLoaded: false
 };
 
 if (window.__CAT_V45_PRO_STABLE_ENHANCED_CONFIRMED__) {
@@ -1320,6 +1323,388 @@ reject(e);
 });
 }
 
+
+/* =========================================================
+Persistent Multi Translation Memory Library
+- Stores several Translation Memories locally in IndexedDB.
+- Imported HTML TM is hidden and saved automatically.
+- User can choose one saved TM or all saved TMs before searching.
+========================================================= */
+
+var TM_DB_NAME = "CAT_PERSISTENT_TM_LIBRARY_V54";
+var TM_DB_VERSION = 1;
+var TM_META_STORE = "memories";
+var TM_CHUNK_STORE = "chunks";
+var TM_SETTINGS_STORE = "settings";
+var TM_CHUNK_SIZE = 800;
+
+function tmUid() {
+return "tm_" + Date.now().toString(36) + "_" + Math.random().toString(36).slice(2, 9);
+}
+
+function safeMemoryName(name, fallback) {
+name = flat(String(name || ""));
+name = name.replace(/[\\\/:*?"<>|]+/g, " ").replace(/\s+/g, " ").trim();
+return name || fallback || ("TM " + new Date().toLocaleString());
+}
+
+function tmOpenDB() {
+return new Promise(function (resolve, reject) {
+if (!window.indexedDB) {
+reject(new Error("IndexedDB is not available in this browser."));
+return;
+}
+var req = indexedDB.open(TM_DB_NAME, TM_DB_VERSION);
+req.onupgradeneeded = function () {
+var db = req.result;
+if (!db.objectStoreNames.contains(TM_META_STORE)) {
+db.createObjectStore(TM_META_STORE, { keyPath: "id" });
+}
+if (!db.objectStoreNames.contains(TM_CHUNK_STORE)) {
+var chunks = db.createObjectStore(TM_CHUNK_STORE, { keyPath: "key" });
+chunks.createIndex("memoryId", "memoryId", { unique: false });
+}
+if (!db.objectStoreNames.contains(TM_SETTINGS_STORE)) {
+db.createObjectStore(TM_SETTINGS_STORE, { keyPath: "key" });
+}
+};
+req.onsuccess = function () { resolve(req.result); };
+req.onerror = function () { reject(req.error || new Error("Cannot open TM database.")); };
+});
+}
+
+function tmReq(req) {
+return new Promise(function (resolve, reject) {
+req.onsuccess = function () { resolve(req.result); };
+req.onerror = function () { reject(req.error || new Error("IndexedDB request failed.")); };
+});
+}
+
+function tmTxDone(tx) {
+return new Promise(function (resolve, reject) {
+tx.oncomplete = function () { resolve(); };
+tx.onerror = function () { reject(tx.error || new Error("IndexedDB transaction failed.")); };
+tx.onabort = function () { reject(tx.error || new Error("IndexedDB transaction aborted.")); };
+});
+}
+
+async function tmGetAllMemoriesMeta() {
+var db = await tmOpenDB();
+try {
+var tx = db.transaction(TM_META_STORE, "readonly");
+var items = await tmReq(tx.objectStore(TM_META_STORE).getAll());
+items = (items || []).sort(function (a, b) { return String(a.name || "").localeCompare(String(b.name || "")); });
+return items;
+} finally {
+db.close();
+}
+}
+
+async function tmGetSetting(key) {
+var db = await tmOpenDB();
+try {
+var tx = db.transaction(TM_SETTINGS_STORE, "readonly");
+var rec = await tmReq(tx.objectStore(TM_SETTINGS_STORE).get(key));
+return rec ? rec.value : "";
+} finally {
+db.close();
+}
+}
+
+async function tmSetSetting(key, value) {
+var db = await tmOpenDB();
+try {
+var tx = db.transaction(TM_SETTINGS_STORE, "readwrite");
+tx.objectStore(TM_SETTINGS_STORE).put({ key: key, value: value });
+await tmTxDone(tx);
+} finally {
+db.close();
+}
+}
+
+async function tmFindMetaByName(name) {
+var metas = await tmGetAllMemoriesMeta();
+name = safeMemoryName(name, "");
+for (var i = 0; i < metas.length; i++) {
+if (String(metas[i].name || "") === name) return metas[i];
+}
+return null;
+}
+
+async function tmDeleteChunks(memoryId) {
+var db = await tmOpenDB();
+try {
+var tx = db.transaction(TM_CHUNK_STORE, "readwrite");
+var store = tx.objectStore(TM_CHUNK_STORE);
+var index = store.index("memoryId");
+await new Promise(function (resolve, reject) {
+var req = index.openCursor(IDBKeyRange.only(memoryId));
+req.onsuccess = function () {
+var cursor = req.result;
+if (cursor) {
+cursor.delete();
+cursor.continue();
+} else {
+resolve();
+}
+};
+req.onerror = function () { reject(req.error || new Error("Cannot delete TM chunks.")); };
+});
+await tmTxDone(tx);
+} finally {
+db.close();
+}
+}
+
+function tmSerializeTus() {
+return APP.tus.map(function (tu) {
+return {
+ar: tu.ar || "",
+en: tu.en || "",
+row: typeof tu.row === "number" ? tu.row : -1,
+mode: tu.mode || "saved-tm"
+};
+}).filter(function (x) { return x.ar && x.en; });
+}
+
+async function tmSaveCurrentMemory(name, ui, preferredId) {
+if (!APP.tus || !APP.tus.length) throw new Error("No Translation Memory is loaded to save.");
+name = safeMemoryName(name, "Saved TM");
+var existing = preferredId ? null : await tmFindMetaByName(name);
+var id = preferredId || (existing && existing.id) || APP.activeMemoryId || tmUid();
+if (APP.activeMemoryId === "__all__" && !preferredId && !(existing && existing.id)) id = tmUid();
+
+var allTus = tmSerializeTus();
+var now = new Date().toISOString();
+var meta = {
+id: id,
+name: name,
+count: allTus.length,
+createdAt: existing && existing.createdAt ? existing.createdAt : now,
+updatedAt: now,
+source: "browser-indexeddb",
+appVersion: APP.version || ""
+};
+
+if (ui) {
+ui.status("Saving TM locally: " + name + " - " + asc(allTus.length) + " units");
+ui.progress(0, allTus.length || 1);
+}
+
+await tmDeleteChunks(id);
+
+var db = await tmOpenDB();
+try {
+var tx = db.transaction([TM_META_STORE, TM_CHUNK_STORE, TM_SETTINGS_STORE], "readwrite");
+tx.objectStore(TM_META_STORE).put(meta);
+var chunkStore = tx.objectStore(TM_CHUNK_STORE);
+var chunkCount = Math.ceil(allTus.length / TM_CHUNK_SIZE);
+for (var i = 0; i < chunkCount; i++) {
+var part = allTus.slice(i * TM_CHUNK_SIZE, (i + 1) * TM_CHUNK_SIZE);
+chunkStore.put({
+key: id + "::" + i,
+memoryId: id,
+index: i,
+items: part
+});
+if (ui) ui.progress(Math.min((i + 1) * TM_CHUNK_SIZE, allTus.length), allTus.length || 1);
+}
+tx.objectStore(TM_SETTINGS_STORE).put({ key: "lastMemoryId", value: id });
+await tmTxDone(tx);
+} finally {
+db.close();
+}
+
+APP.activeMemoryId = id;
+APP.activeMemoryName = name;
+if (ui) ui.status("TM saved locally: " + name + " - " + asc(allTus.length) + " units");
+return meta;
+}
+
+async function tmReadChunks(memoryId) {
+var db = await tmOpenDB();
+try {
+var tx = db.transaction(TM_CHUNK_STORE, "readonly");
+var store = tx.objectStore(TM_CHUNK_STORE);
+var index = store.index("memoryId");
+var chunks = await new Promise(function (resolve, reject) {
+var out = [];
+var req = index.openCursor(IDBKeyRange.only(memoryId));
+req.onsuccess = function () {
+var cursor = req.result;
+if (cursor) {
+out.push(cursor.value);
+cursor.continue();
+} else {
+resolve(out);
+}
+};
+req.onerror = function () { reject(req.error || new Error("Cannot read TM chunks.")); };
+});
+chunks.sort(function (a, b) { return (a.index || 0) - (b.index || 0); });
+var all = [];
+chunks.forEach(function (ch) {
+(ch.items || []).forEach(function (item) { all.push(item); });
+});
+return all;
+} finally {
+db.close();
+}
+}
+
+async function tmLoadOneMemory(memoryId, ui, merge) {
+var metas = await tmGetAllMemoriesMeta();
+var meta = null;
+for (var i = 0; i < metas.length; i++) if (metas[i].id === memoryId) meta = metas[i];
+if (!meta) throw new Error("Saved TM was not found.");
+
+if (!merge) resetMemory();
+var items = await tmReadChunks(memoryId);
+if (ui) {
+ui.status("Loading TM: " + meta.name + " - " + asc(items.length) + " units");
+ui.progress(0, items.length || 1);
+}
+for (var k = 0; k < items.length; k++) {
+var it = items[k] || {};
+addTU(it.ar || "", it.en || "", typeof it.row === "number" ? it.row : -1, it.mode || ("saved-tm:" + meta.name));
+if (ui && k % 500 === 0) ui.progress(k, items.length || 1);
+}
+APP.built = APP.tus.length > 0;
+APP.activeMemoryId = meta.id;
+APP.activeMemoryName = meta.name;
+await tmSetSetting("lastMemoryId", meta.id);
+if (ui) {
+ui.progress(items.length || 1, items.length || 1);
+ui.status("TM loaded: " + meta.name + " - Total active units: " + asc(APP.tus.length));
+}
+return meta;
+}
+
+async function tmLoadAllMemories(ui) {
+var metas = await tmGetAllMemoriesMeta();
+if (!metas.length) throw new Error("No saved Translation Memories found.");
+resetMemory();
+var total = 0;
+for (var i = 0; i < metas.length; i++) total += +metas[i].count || 0;
+if (ui) {
+ui.status("Loading all saved TMs...");
+ui.progress(0, total || 1);
+}
+var loaded = 0;
+for (var m = 0; m < metas.length; m++) {
+var items = await tmReadChunks(metas[m].id);
+for (var k = 0; k < items.length; k++) {
+var it = items[k] || {};
+addTU(it.ar || "", it.en || "", typeof it.row === "number" ? it.row : -1, it.mode || ("saved-tm:" + metas[m].name));
+loaded++;
+if (ui && loaded % 500 === 0) ui.progress(loaded, total || 1);
+}
+}
+APP.built = APP.tus.length > 0;
+APP.activeMemoryId = "__all__";
+APP.activeMemoryName = "All saved TMs";
+await tmSetSetting("lastMemoryId", "__all__");
+if (ui) {
+ui.progress(total || 1, total || 1);
+ui.status("All saved TMs loaded. Active units: " + asc(APP.tus.length));
+}
+return metas;
+}
+
+async function tmDeleteMemory(memoryId, ui) {
+if (!memoryId || memoryId === "__all__") throw new Error("Choose one saved TM to delete.");
+var metas = await tmGetAllMemoriesMeta();
+var meta = null;
+for (var i = 0; i < metas.length; i++) if (metas[i].id === memoryId) meta = metas[i];
+if (!meta) throw new Error("Saved TM was not found.");
+
+await tmDeleteChunks(memoryId);
+var db = await tmOpenDB();
+try {
+var tx = db.transaction(TM_META_STORE, "readwrite");
+tx.objectStore(TM_META_STORE).delete(memoryId);
+await tmTxDone(tx);
+} finally {
+db.close();
+}
+try {
+var last = await tmGetSetting("lastMemoryId");
+if (last === memoryId) await tmSetSetting("lastMemoryId", "");
+} catch (e) {}
+
+if (APP.activeMemoryId === memoryId) {
+resetMemory();
+APP.activeMemoryId = "";
+APP.activeMemoryName = "";
+}
+if (ui) ui.status("Deleted saved TM: " + meta.name);
+return meta;
+}
+
+async function tmRefreshSelect(ui) {
+var sel = ui && ui.tmSelect ? ui.tmSelect() : null;
+if (!sel) return [];
+var metas = [];
+try { metas = await tmGetAllMemoriesMeta(); } catch (e) { metas = []; }
+var current = sel.value || APP.activeMemoryId || "";
+sel.innerHTML = "";
+var opt0 = document.createElement("option");
+opt0.value = "";
+opt0.textContent = "TM Library";
+sel.appendChild(opt0);
+
+if (metas.length) {
+var all = document.createElement("option");
+all.value = "__all__";
+all.textContent = "All saved TMs (" + asc(metas.length) + ")";
+sel.appendChild(all);
+}
+
+metas.forEach(function (m) {
+var opt = document.createElement("option");
+opt.value = m.id;
+opt.textContent = (m.name || "Saved TM") + " - " + asc(m.count || 0);
+sel.appendChild(opt);
+});
+
+if (current) {
+for (var i = 0; i < sel.options.length; i++) {
+if (sel.options[i].value === current) {
+sel.value = current;
+break;
+}
+}
+}
+return metas;
+}
+
+async function tmAutoLoadLast(ui) {
+try {
+await tmRefreshSelect(ui);
+var last = await tmGetSetting("lastMemoryId");
+if (!last) {
+if (ui) ui.status("Ready. Import or choose a saved Translation Memory.");
+return;
+}
+if (last === "__all__") await tmLoadAllMemories(ui);
+else await tmLoadOneMemory(last, ui, false);
+await tmRefreshSelect(ui);
+} catch (e) {
+if (ui) ui.status("Saved TM auto-load skipped: " + (e && e.message ? e.message : e));
+}
+}
+
+function tmMemoryPrompt(defaultName) {
+var name = "";
+try {
+name = window.prompt("Name this Translation Memory:", safeMemoryName(defaultName, "Saved TM")) || "";
+} catch (e) {
+name = defaultName || "Saved TM";
+}
+return safeMemoryName(name, defaultName || "Saved TM");
+}
+
+
 function createHost() {
 var old = document.getElementById(APP.hostId);
 if (old) return old;
@@ -1397,61 +1782,50 @@ shadow.innerHTML = [
 
 ".filePick{position:relative;display:flex;align-items:center;justify-content:center;height:34px;border:1px solid #2563eb;border-radius:9px;background:#2563eb;color:#fff;font:800 12px 'GE SS Two Light','Segoe UI',Tahoma,Arial;cursor:pointer;overflow:hidden;text-align:center;direction:ltr}",
 ".filePick input{position:absolute;inset:0;width:100%;height:100%;opacity:0;cursor:pointer;font-size:0}",
-"@media (max-width:900px){.fab{left:50%!important;right:auto!important;bottom:calc(env(safe-area-inset-bottom,0px) + 86px)!important;transform:translateX(-50%)!important;min-width:176px!important;height:48px!important;border-radius:999px!important;font-size:14px!important;box-shadow:0 14px 36px rgba(37,99,235,.34)!important}}",
-".panel.catMobile{inset:0!important;width:100dvw!important;height:100dvh!important;max-width:100dvw!important;max-height:100dvh!important;border-radius:0!important;border:0!important;background:#f6f8fb!important}",
+".panel.catMobile{inset:0!important;width:100dvw!important;height:100dvh!important;max-width:100dvw!important;max-height:100dvh!important;border-radius:0!important;border:0!important}",
 ".panel.catMobile.open{display:flex!important;flex-direction:column!important}",
-".panel.catMobile .top{height:auto!important;min-height:52px!important;padding:8px 10px!important;gap:8px!important;flex-wrap:nowrap!important;position:sticky!important;top:0!important;z-index:20!important;background:rgba(255,255,255,.96)!important;backdrop-filter:blur(10px)!important}",
-".panel.catMobile .title{font-size:12px!important;line-height:1.35!important;white-space:nowrap!important;overflow:hidden!important;text-overflow:ellipsis!important;max-width:calc(100% - 225px)!important}",
-".panel.catMobile .close{width:38px!important;height:38px!important;border-radius:14px!important;font-size:17px!important}",
-".panel.catMobile .topTools{gap:6px!important;flex:0 0 auto!important}",
-".panel.catMobile .iconBtn{height:38px!important;min-width:58px!important;font-size:12px!important;border-radius:13px!important;background:#fff!important}",
-".panel.catMobile .dash{display:flex!important;grid-template-columns:none!important;overflow-x:auto!important;gap:8px!important;padding:8px!important;-webkit-overflow-scrolling:touch!important;scrollbar-width:none!important}",
-".panel.catMobile .dash::-webkit-scrollbar{display:none!important}",
-".panel.catMobile .statCard{min-width:132px!important;flex:0 0 132px!important;padding:8px!important;border-radius:14px!important;background:#fff!important}",
-".panel.catMobile .statCard .lab{font-size:10px!important;line-height:1.3!important;white-space:nowrap!important;overflow:hidden!important;text-overflow:ellipsis!important}",
-".panel.catMobile .statCard .val{font-size:18px!important;margin-top:2px!important}",
-".panel.catMobile .body{display:flex!important;flex-direction:column!important;padding:8px!important;gap:8px!important;min-height:0!important;flex:1!important;overflow:hidden!important}",
-".panel.catMobile .side{width:100%!important;min-height:50px!important;max-height:110px!important;display:flex!important;flex-direction:row!important;gap:7px!important;padding:8px!important;overflow-x:auto!important;overflow-y:hidden!important;-webkit-overflow-scrolling:touch!important;scrollbar-width:none!important;background:#fff!important;border-radius:16px!important}",
-".panel.catMobile .side::-webkit-scrollbar{display:none!important}",
-".panel.catMobile .side button,.panel.catMobile .side select,.panel.catMobile .side input,.panel.catMobile .side .filePick{flex:0 0 auto!important;width:auto!important;min-width:112px!important;max-width:180px!important;height:38px!important;font-size:11px!important;padding:0 12px!important;border-radius:999px!important;white-space:nowrap!important;overflow:hidden!important;text-overflow:ellipsis!important}",
-".panel.catMobile .side #concordQ{min-width:150px!important}",
+".panel.catMobile .top{height:auto!important;min-height:54px!important;padding:8px 10px!important;gap:8px!important;flex-wrap:wrap!important;position:sticky!important;top:0!important;z-index:10!important}",
+".panel.catMobile .title{font-size:12px!important;line-height:1.35!important;white-space:nowrap!important;overflow:hidden!important;text-overflow:ellipsis!important;max-width:calc(100% - 170px)!important}",
+".panel.catMobile .close{width:38px!important;height:38px!important}",
+".panel.catMobile .iconBtn{height:38px!important;min-width:64px!important;font-size:13px!important}",
+".panel.catMobile .dash{display:flex!important;grid-template-columns:none!important;overflow-x:auto!important;gap:8px!important;padding:8px!important;-webkit-overflow-scrolling:touch!important}",
+".panel.catMobile .statCard{min-width:145px!important;flex:0 0 145px!important;padding:8px!important;border-radius:12px!important}",
+".panel.catMobile .statCard .lab{font-size:11px!important;line-height:1.35!important}",
+".panel.catMobile .statCard .val{font-size:19px!important}",
+".panel.catMobile .body{display:flex!important;flex-direction:column!important;padding:8px!important;gap:8px!important;min-height:0!important;overflow:auto!important;-webkit-overflow-scrolling:touch!important}",
+".panel.catMobile .side{width:100%!important;max-height:40vh!important;display:grid!important;grid-template-columns:1fr 1fr!important;gap:7px!important;padding:8px!important;overflow:auto!important;-webkit-overflow-scrolling:touch!important}",
+".panel.catMobile .side button,.panel.catMobile .side select,.panel.catMobile .side input,.panel.catMobile .side .filePick{width:100%!important;min-width:0!important;height:40px!important;font-size:12px!important;padding:0 8px!important;border-radius:999px!important;white-space:nowrap!important;overflow:hidden!important;text-overflow:ellipsis!important}",
 ".panel.catMobile .filePick input{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;opacity:0!important;padding:0!important;border:0!important}",
-".panel.catMobile .statusBox{flex:0 0 210px!important;height:38px!important;min-height:38px!important;overflow:hidden!important;white-space:nowrap!important;text-overflow:ellipsis!important;display:flex!important;align-items:center!important}",
-".panel.catMobile .bar{flex:0 0 120px!important;align-self:center!important}",
-".panel.catMobile .mini{display:none!important}",
-".panel.catMobile .mainbox{width:100%!important;min-height:0!important;flex:1!important;overflow:hidden!important;border-radius:16px!important;background:#fff!important}",
-".panel.catMobile .inputArea{padding:8px!important;flex:0 0 auto!important;background:#fff!important}",
-".panel.catMobile textarea#source{min-height:86px!important;max-height:22vh!important;font-size:16px!important;line-height:1.7!important;border-radius:16px!important}",
-".panel.catMobile .tablewrap{overflow:auto!important;-webkit-overflow-scrolling:touch!important;flex:1!important;min-height:0!important;background:#fff!important}",
-".panel.catMobile .tablewrap table{display:table!important;width:980px!important;min-width:980px!important;max-width:none!important;table-layout:fixed!important;border-collapse:separate!important;border-spacing:0!important}",
-".panel.catMobile .tablewrap thead{display:table-header-group!important}",
-".panel.catMobile .tablewrap tbody{display:table-row-group!important}",
-".panel.catMobile .tablewrap tr{display:table-row!important}",
-".panel.catMobile .tablewrap th{display:table-cell!important;position:sticky!important;top:0!important;z-index:5!important;height:34px!important;font-size:12px!important;background:#eef4ff!important}",
-".panel.catMobile .tablewrap td{display:table-cell!important;width:auto!important;border-bottom:1px solid #eef2f7!important;border-right:1px solid #eef2f7!important;padding:8px!important;background:#fff!important;font-size:13px!important;line-height:1.55!important;vertical-align:top!important}",
-".panel.catMobile .tablewrap td::before{content:none!important;display:none!important}",
-".panel.catMobile .num{width:44px!important}",
-".panel.catMobile .src{width:250px!important}",
-".panel.catMobile .best{width:270px!important}",
-".panel.catMobile .match{width:70px!important}",
-".panel.catMobile .target{width:290px!important}",
-".panel.catMobile .stat{width:95px!important}",
-".panel.catMobile .targetDraft{min-height:70px!important;max-height:160px!important;font-size:13px!important;line-height:1.55!important;border-radius:12px!important}",
-".panel.catMobile .small,.panel.catMobile .qa{font-size:10px!important}",
-".panel.focusMode .dash,.panel.focusMode .side,.panel.focusMode .inputArea{display:none!important}",
-".panel.focusMode .body{padding:4px!important;gap:0!important;overflow:hidden!important}",
-".panel.focusMode .mainbox{height:calc(100dvh - 58px)!important;min-height:0!important;flex:1!important;border-radius:12px!important}",
-".panel.focusMode .tablewrap{height:100%!important;max-height:none!important}",
-".panel.focusMode .title{max-width:calc(100% - 225px)!important}",
-"@media (max-width:420px){.panel.catMobile .title{max-width:calc(100% - 215px)!important}.panel.catMobile .iconBtn{min-width:54px!important;font-size:11px!important}.panel.catMobile .statCard{min-width:124px!important;flex-basis:124px!important}.panel.catMobile .tablewrap table{width:930px!important;min-width:930px!important}.panel.catMobile .src{width:230px!important}.panel.catMobile .best{width:250px!important}.panel.catMobile .target{width:270px!important}}",
+".panel.catMobile .statusBox,.panel.catMobile .bar,.panel.catMobile .mini{grid-column:1 / -1!important}",
+".panel.catMobile .mainbox{width:100%!important;min-height:52vh!important;overflow:hidden!important}",
+".panel.catMobile .inputArea{padding:8px!important}",
+".panel.catMobile textarea#source{min-height:96px!important;max-height:28vh!important;font-size:16px!important}",
+".panel.catMobile .tablewrap{overflow:auto!important;-webkit-overflow-scrolling:touch!important}",
+".panel.catMobile .tablewrap table,.panel.catMobile .tablewrap thead,.panel.catMobile .tablewrap tbody,.panel.catMobile .tablewrap tr,.panel.catMobile .tablewrap th,.panel.catMobile .tablewrap td{display:block!important;width:100%!important}",
+".panel.catMobile .tablewrap thead{display:none!important}",
+".panel.catMobile .tablewrap tr{border:1px solid #dbe2ea!important;border-radius:14px!important;margin:10px 0!important;overflow:hidden!important;background:#fff!important}",
+".panel.catMobile .tablewrap td{border-right:0!important;border-bottom:1px solid #eef2f7!important;padding:10px!important;background:#fff!important}",
+".panel.catMobile .tablewrap td::before{display:block!important;margin-bottom:5px!important;color:#64748b!important;font:900 11px 'Segoe UI',Tahoma,Arial!important;direction:ltr!important;text-align:left!important}",
+".panel.catMobile .tablewrap td.num::before{content:'#'}",
+".panel.catMobile .tablewrap td.src::before{content:'Source Segment'}",
+".panel.catMobile .tablewrap td.best::before{content:'Best Match'}",
+".panel.catMobile .tablewrap td.match::before{content:'Match'}",
+".panel.catMobile .tablewrap td.target::before{content:'Target Draft'}",
+".panel.catMobile .tablewrap td.stat::before{content:'Status'}",
+".panel.catMobile .targetDraft{min-height:78px!important;font-size:15px!important}",
+".panel.catMobile .fab{right:12px!important;bottom:12px!important;padding:12px 14px!important}",
+"@media (max-width:420px){.panel.catMobile .side{grid-template-columns:1fr!important}.panel.catMobile .statCard{min-width:132px!important;flex-basis:132px!important}}",
+".tmSelect{height:34px;min-width:100%;border:1px solid #d9e0ea;border-radius:9px;background:#fff;font:800 12px Segoe UI,Tahoma,Arial;color:#111827;padding:0 8px;direction:ltr}",
+".saveTM{background:#0f766e;color:#fff;border-color:#0f766e}",
+".deleteTM{background:#991b1b;color:#fff;border-color:#991b1b}",
 "</style>",
 
-"<button class='fab' id='fab'>OPEN CAT</button>",
+"<button class='fab' id='fab'>CAT V45 Pro</button>",
 "<section class='panel' id='panel'>",
-"<div class='top'><button class='close' id='close'>x</button><div class='topTools'><button class='iconBtn' id='focusMode' title='Focus results'>FOCUS</button><button class='iconBtn' id='toggleSourceIcon' title='Hide or show source'>SRC</button><button class='iconBtn' id='toggleHtmlIcon' title='Hide or show HTML page'>HTML</button></div><div class='title'>CAT Translation Memory V53 Mobile</div></div>",
+"<div class='top'><button class='close' id='close'>\xd7</button><div class='topTools'><button class='iconBtn' id='toggleSourceIcon' title='\u0637\u064a/\u0625\u0638\u0647\u0627\u0631 \u0644\u0648\u062d\u0629 \u0627\u0644\u0645\u0635\u062f\u0631'>SRC</button><button class='iconBtn' id='toggleHtmlIcon' title='\u0625\u062e\u0641\u0627\u0621/\u0625\u0638\u0647\u0627\u0631 \u0645\u062d\u062a\u0648\u0649 HTML'>HTML</button></div><div class='title'>CAT Translation Memory V45 Professional Stable Enhanced</div></div>",
 
 "<div class='dash'>",
-"<div class='statCard'><div class='lab'>Average Match /100</div><div class='val' id='avgStat'>0%</div></div>",
+"<div class='statCard'><div class='lab'>\u0645\u0639\u062f\u0644 \u0627\u0644\u062a\u0637\u0627\u0628\u0642 \u0645\u0646 100</div><div class='val' id='avgStat'>0%</div></div>",
 "<div class='statCard'><div class='lab'>Segments</div><div class='val' id='segStat'>0</div></div>",
 "<div class='statCard'><div class='lab'>Confirmed</div><div class='val' id='confirmedStat'>0</div></div>",
 "<div class='statCard'><div class='lab'>Needs Translation</div><div class='val' id='needsStat'>0</div></div>",
@@ -1460,34 +1834,38 @@ shadow.innerHTML = [
 
 "<div class='body'>",
 "<aside class='side'>",
-"<button class='green' id='build'>Build TM</button>",
+"<button class='green' id='build'>\u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629</button>",
 "<label class='filePick primary' id='importHTMLMemoryLabel' title='Hidden HTML Translation Memory'>Import HTML TM<input id='fileHTMLMemory' type='file' accept='.html,.htm,text/html'></label>",
-"<button class='primary' id='analyze'>Analyze</button>",
-"<button class='gold' id='acceptAll'>Accept Best</button>",
-"<button id='copy'>Copy Draft</button>",
-"<button id='concordance'>Concordance</button>",
-"<input id='concordQ' placeholder='Search TM...' style='padding:0 8px'>",
+"<select class='tmSelect' id='tmSelect' title='Saved Translation Memories'><option value=''>TM Library</option></select>",
+"<button class='saveTM' id='saveTM'>Save TM</button>",
+"<button id='loadSelectedTM'>Load Selected TM</button>",
+"<button class='deleteTM' id='deleteTM'>Delete TM</button>",
+"<button class='primary' id='analyze'>\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0646\u0635</button>",
+"<button class='gold' id='acceptAll'>\u0627\u0639\u062a\u0645\u0627\u062f \u0627\u0644\u0623\u0641\u0636\u0644</button>",
+"<button id='copy'>\u0646\u0633\u062e Target Draft</button>",
+"<button id='concordance'>\u0628\u062d\u062b Concordance</button>",
+"<input id='concordQ' placeholder='\u0628\u062d\u062b \u0641\u064a \u0627\u0644\u0630\u0627\u0643\u0631\u0629...' style='padding:0 8px'>",
 "<button id='importDOCX'>Import Word DOCX</button>",
-"<button id='importDOCXZip'>Import ZIP DOCX TM</button>",
-"<button id='importTerms'>Import Terms CSV</button>",
-"<button id='importTMX'>Import TMX</button>",
-"<button id='exportTMX'>Export TMX</button>",
-"<button id='exportXLIFF'>Export XLIFF</button>",
-"<button id='saveProject'>Save JSON</button>",
-"<button id='loadProject'>Open JSON</button>",
-"<button id='report'>HTML Report</button>",
+"<button id='importDOCXZip'>\u0627\u0633\u062A\u064A\u0631\u0627\u062F ZIP Word \u0643\u0630\u0627\u0643\u0631\u0629</button>",
+"<button id='importTerms'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f \u0645\u0635\u0637\u0644\u062d\u0627\u062a CSV</button>",
+"<button id='importTMX'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f TMX</button>",
+"<button id='exportTMX'>\u062a\u0635\u062f\u064a\u0631 TMX</button>",
+"<button id='exportXLIFF'>\u062a\u0635\u062f\u064a\u0631 XLIFF</button>",
+"<button id='saveProject'>\u062d\u0641\u0638 \u0645\u0634\u0631\u0648\u0639 JSON</button>",
+"<button id='loadProject'>\u0641\u062a\u062d \u0645\u0634\u0631\u0648\u0639 JSON</button>",
+"<button id='report'>\u062a\u0642\u0631\u064a\u0631 HTML</button>",
 "<button id='word'>Word A3 + Track Changes</button>",
-"<button id='wordSameFormat'>Same DOCX</button>",
-"<button id='clear'>Clear Results</button>",
-"<button class='red' id='stop'>Stop</button>",
-"<select id='slang'><option value='auto'>Auto</option><option value='ar'>Arabic to English</option><option value='en'>English to Arabic</option></select>",
+"<button id='wordSameFormat'>Export Same DOCX</button>",
+"<button id='clear'>\u0645\u0633\u062d \u0627\u0644\u0646\u062a\u0627\u0626\u062c</button>",
+"<button class='red' id='stop'>\u0625\u064a\u0642\u0627\u0641</button>",
+"<select id='slang'><option value='auto'>\u062a\u0644\u0642\u0627\u0626\u064a</option><option value='ar'>\u0639\u0631\u0628\u064a \u2190 \u0625\u0646\u062c\u0644\u064a\u0632\u064a</option><option value='en'>English \u2192 Arabic</option></select>",
 "<div class='bar'><div class='fill' id='fill'></div></div>",
-"<div class='statusBox' id='status'>Ready. Build or import a Translation Memory first.</div>",
+"<div class='statusBox' id='status'>\u062c\u0627\u0647\u0632. \u0627\u0636\u063a\u0637 \xab\u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629\xbb \u0623\u0648\u0644\u064b\u0627.</div>",
 "<div class='mini'>Local only \xb7 No network \xb7 No CDN \xb7 No external API</div>",
 "</aside>",
 
 "<main class='mainbox'>",
-"<div class='inputArea'><textarea id='source' placeholder='Paste the Arabic or English source text here...'></textarea></div>",
+"<div class='inputArea'><textarea id='source' placeholder='\u0623\u0644\u0635\u0642 \u0647\u0646\u0627 \u0627\u0644\u0646\u0635 \u0627\u0644\u0639\u0631\u0628\u064a \u0623\u0648 \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a \u0627\u0644\u0645\u0631\u0627\u062f \u062a\u062d\u0644\u064a\u0644\u0647...'></textarea></div>",
 "<div class='tablewrap'>",
 "<table>",
 "<thead><tr><th class='num'>#</th><th class='src'>Source Segment</th><th class='best'>Best Match</th><th class='match'>Match</th><th class='target'>Target Draft</th><th class='stat'>Status</th></tr></thead>",
@@ -1517,7 +1895,8 @@ status: function (m) { status.textContent = m; },
 progress: function (done, total) {
 var p = total ? Math.round(done / total * 100) : 0;
 fill.style.width = p + "%";
-}
+},
+tmSelect: function () { return $("#tmSelect"); }
 };
 
 function isMobileCAT() {
@@ -1525,38 +1904,8 @@ try { return (window.innerWidth || document.documentElement.clientWidth || 0) <=
 catch (e) { return false; }
 }
 function applyMobileMode() { panel.classList.toggle("catMobile", isMobileCAT()); }
-function open() {
-applyMobileMode();
-panel.classList.add("open");
-try {
-document.documentElement.style.overflow = "hidden";
-document.body.style.overflow = "hidden";
-window.scrollTo(0, 0);
-} catch (e) {}
-}
-function close() {
-panel.classList.remove("open");
-try {
-document.documentElement.style.overflow = "";
-document.body.style.overflow = "";
-} catch (e) {}
-}
-function setFocusMode(on) {
-on = !!on;
-panel.classList.toggle("focusMode", on);
-var btn = $("#focusMode");
-if (btn) {
-btn.textContent = on ? "TOOLS" : "FOCUS";
-btn.classList.toggle("on", on);
-btn.setAttribute("aria-pressed", on ? "true" : "false");
-}
-if (on) {
-setSourceCollapsed(true);
-ui.status("Focus mode: results table is now expanded.");
-} else {
-ui.status("Tools mode: controls are visible.");
-}
-}
+function open() { applyMobileMode(); panel.classList.add("open"); }
+function close() { panel.classList.remove("open"); }
 
 function setSourceCollapsed(collapsed) {
 collapsed = !!collapsed;
@@ -1571,7 +1920,7 @@ inputArea.style.padding = collapsed ? "0" : "10px";
 inputArea.style.overflow = "hidden";
 }
 if (btn) {
-btn.textContent = collapsed ? "SRC" : "SRC";
+btn.textContent = collapsed ? "SRC+" : "SRC\u2212";
 btn.classList.toggle("on", collapsed);
 btn.setAttribute("aria-pressed", collapsed ? "true" : "false");
 }
@@ -1594,7 +1943,7 @@ st.remove();
 }
 var btn = $("#toggleHtmlIcon");
 if (btn) {
-btn.textContent = hidden ? "HTML" : "HTML";
+btn.textContent = hidden ? "HTML+" : "HTML\u2212";
 btn.classList.toggle("on", hidden);
 btn.setAttribute("aria-pressed", hidden ? "true" : "false");
 }
@@ -1738,24 +2087,10 @@ step();
 
 $("#fab").onclick = open;
 $("#close").onclick = close;
-try { window.openCATTool = open; } catch (e) {}
 window.addEventListener("CAT_V45_PRO_OPEN", open);
 window.addEventListener("resize", applyMobileMode);
 window.addEventListener("orientationchange", applyMobileMode);
 
-try {
-document.addEventListener("click", function (ev) {
-var t = ev.target;
-if (!t || (host && host.contains && host.contains(t))) return;
-var tx = String(t.textContent || t.value || "").trim();
-if (/CAT|Translation Tool|open cat|ÙØªØ­|Ø§ÙØ£Ø¯Ø§Ø©|Ø§ÙØ§Ø¯Ø§Ø©/i.test(tx)) {
-ev.preventDefault();
-open();
-}
-}, true);
-} catch (e) {}
-
-$("#focusMode").onclick = function () { setFocusMode(!panel.classList.contains("focusMode")); };
 $("#toggleSourceIcon").onclick = function () { setSourceCollapsed(!panel.classList.contains("sourceCollapsed")); };
 $("#toggleHtmlIcon").onclick = function () { setHtmlHidden(!document.getElementById(APP.hostId + "-page-hide-style")); };
 setSourceCollapsed(false);
@@ -1846,16 +2181,79 @@ htmlMemoryInput.onchange = async function () {
 var f = htmlMemoryInput.files && htmlMemoryInput.files[0];
 if (!f) return;
 try {
+var defaultName = String(f.name || "HTML TM").replace(/\.[^.]+$/, "");
+var tmName = tmMemoryPrompt(defaultName);
 ui.status("Importing hidden HTML TM...");
 var txt = await f.text();
 var summary = await buildHiddenHTMLMemoryFromText(txt, f.name || "memory.html", ui);
-ui.status("Hidden HTML TM imported. Rows: " + asc(summary.rows) + " - Added: " + asc(summary.added) + " - Total TM: " + asc(summary.totalTM));
+await tmSaveCurrentMemory(tmName, ui);
+await tmRefreshSelect(ui);
+ui.status("Hidden HTML TM imported and saved locally: " + tmName + " - Added: " + asc(summary.added) + " - Total TM: " + asc(summary.totalTM));
 } catch (e) {
 ui.status("Hidden HTML TM import failed: " + (e && e.message ? e.message : e));
 }
 htmlMemoryInput.value = "";
 };
 }
+
+
+var tmSelector = $("#tmSelect");
+if (tmSelector) {
+tmSelector.onchange = async function () {
+var id = tmSelector.value;
+if (!id) return;
+try {
+if (id === "__all__") await tmLoadAllMemories(ui);
+else await tmLoadOneMemory(id, ui, false);
+await tmRefreshSelect(ui);
+} catch (e) {
+ui.status("TM load failed: " + (e && e.message ? e.message : e));
+}
+};
+}
+
+$("#loadSelectedTM").onclick = async function () {
+var sel = $("#tmSelect");
+var id = sel ? sel.value : "";
+if (!id) { ui.status("Choose a saved TM first."); return; }
+try {
+if (id === "__all__") await tmLoadAllMemories(ui);
+else await tmLoadOneMemory(id, ui, false);
+await tmRefreshSelect(ui);
+} catch (e) {
+ui.status("TM load failed: " + (e && e.message ? e.message : e));
+}
+};
+
+$("#saveTM").onclick = async function () {
+try {
+var currentName = APP.activeMemoryName || "";
+var name = tmMemoryPrompt(currentName || ("TM " + new Date().toLocaleDateString()));
+await tmSaveCurrentMemory(name, ui);
+await tmRefreshSelect(ui);
+} catch (e) {
+ui.status("TM save failed: " + (e && e.message ? e.message : e));
+}
+};
+
+$("#deleteTM").onclick = async function () {
+var sel = $("#tmSelect");
+var id = sel ? sel.value : "";
+if (!id || id === "__all__") { ui.status("Choose one saved TM to delete."); return; }
+var label = sel.options[sel.selectedIndex] ? sel.options[sel.selectedIndex].textContent : "selected TM";
+var ok = true;
+try { ok = window.confirm("Delete this saved Translation Memory?\\n" + label); } catch (e) { ok = false; }
+if (!ok) return;
+try {
+await tmDeleteMemory(id, ui);
+await tmRefreshSelect(ui);
+} catch (e) {
+ui.status("TM delete failed: " + (e && e.message ? e.message : e));
+}
+};
+
+setTimeout(function () { tmAutoLoadLast(ui); }, 150);
+
 
 $("#importDOCXZip").onclick = function () { $("#fileDOCXZip").click(); };
 $("#fileDOCXZip").onchange = async function () {
