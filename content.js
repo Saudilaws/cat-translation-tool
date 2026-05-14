@@ -1430,6 +1430,7 @@ shadow.innerHTML = [
 ".panel.catMobile .targetDraft{min-height:78px!important;font-size:15px!important}",
 ".panel.catMobile .fab{right:12px!important;bottom:12px!important;padding:12px 14px!important}",
 "@media (max-width:420px){.panel.catMobile .side{grid-template-columns:1fr!important}.panel.catMobile .statCard{min-width:132px!important;flex-basis:132px!important}}",
+"\n/* === V52 Mobile Desktop-Table Polish === */\n.panel.catMobile{background:#f4f7fb!important;}\n.panel.catMobile .top{box-shadow:0 1px 0 rgba(15,23,42,.08)!important;background:rgba(255,255,255,.98)!important;}\n.panel.catMobile .topTools{margin-left:auto!important;}\n.panel.catMobile .dash{scrollbar-width:none!important;}\n.panel.catMobile .dash::-webkit-scrollbar{display:none!important;}\n.panel.catMobile .body{flex:1 1 auto!important;height:auto!important;overflow:hidden!important;display:flex!important;flex-direction:column!important;}\n.panel.catMobile .side{display:flex!important;flex-direction:row!important;flex-wrap:nowrap!important;align-items:center!important;width:100%!important;max-height:64px!important;min-height:58px!important;overflow-x:auto!important;overflow-y:hidden!important;gap:8px!important;padding:8px!important;background:rgba(255,255,255,.96)!important;scrollbar-width:none!important;}\n.panel.catMobile .side::-webkit-scrollbar{display:none!important;}\n.panel.catMobile .side button,.panel.catMobile .side select,.panel.catMobile .side input,.panel.catMobile .side .filePick{flex:0 0 auto!important;width:auto!important;min-width:126px!important;max-width:190px!important;height:40px!important;font-size:12px!important;border-radius:999px!important;padding:0 14px!important;white-space:nowrap!important;overflow:hidden!important;text-overflow:ellipsis!important;}\n.panel.catMobile .filePick input{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;min-width:0!important;max-width:none!important;opacity:0!important;padding:0!important;border:0!important;}\n.panel.catMobile #concordQ{min-width:180px!important;}\n.panel.catMobile .statusBox,.panel.catMobile .bar,.panel.catMobile .mini{display:none!important;}\n.panel.catMobile .mainbox{flex:1 1 auto!important;min-height:0!important;height:auto!important;border-radius:18px!important;background:#fff!important;box-shadow:0 8px 26px rgba(15,23,42,.06)!important;}\n.panel.catMobile .inputArea{padding:8px!important;background:#fff!important;}\n.panel.catMobile textarea#source{min-height:76px!important;max-height:120px!important;border-radius:16px!important;}\n.panel.catMobile .tablewrap{flex:1 1 auto!important;min-height:0!important;overflow:auto!important;-webkit-overflow-scrolling:touch!important;background:#fff!important;}\n.panel.catMobile .tablewrap table{display:table!important;width:1120px!important;min-width:1120px!important;max-width:none!important;table-layout:fixed!important;border-collapse:separate!important;border-spacing:0!important;direction:ltr!important;}\n.panel.catMobile .tablewrap thead{display:table-header-group!important;width:auto!important;}\n.panel.catMobile .tablewrap tbody{display:table-row-group!important;width:auto!important;}\n.panel.catMobile .tablewrap tr{display:table-row!important;width:auto!important;border:0!important;border-radius:0!important;margin:0!important;overflow:visible!important;background:transparent!important;}\n.panel.catMobile .tablewrap th,.panel.catMobile .tablewrap td{display:table-cell!important;width:auto!important;border-right:1px solid #e5e7eb!important;border-bottom:1px solid #eef2f7!important;padding:8px!important;vertical-align:top!important;background:#fff!important;}\n.panel.catMobile .tablewrap th{position:sticky!important;top:0!important;z-index:3!important;background:#eef4ff!important;text-align:center!important;font-size:12px!important;}\n.panel.catMobile .tablewrap tr:nth-child(even) td{background:#f8fbff!important;}\n.panel.catMobile .tablewrap td::before{content:none!important;display:none!important;}\n.panel.catMobile .num{width:46px!important;min-width:46px!important;max-width:46px!important;}\n.panel.catMobile .src{width:270px!important;min-width:270px!important;max-width:270px!important;}\n.panel.catMobile .best{width:320px!important;min-width:320px!important;max-width:320px!important;}\n.panel.catMobile .match{width:82px!important;min-width:82px!important;max-width:82px!important;}\n.panel.catMobile .target{width:320px!important;min-width:320px!important;max-width:320px!important;}\n.panel.catMobile .stat{width:110px!important;min-width:110px!important;max-width:110px!important;}\n.panel.catMobile .targetDraft{min-height:92px!important;width:100%!important;border-radius:12px!important;font-size:14px!important;resize:vertical!important;}\n.panel.catMobile .suggest{max-height:34px!important;overflow:auto!important;}\n.panel.catMobile .sug{height:24px!important;min-width:auto!important;font-size:10px!important;}\n.panel.catMobile .focusBtn{background:#111827!important;color:#fff!important;border-color:#111827!important;}\n.panel.toolsCollapsed .dash,.panel.toolsCollapsed .side,.panel.toolsCollapsed .inputArea{display:none!important;}\n.panel.toolsCollapsed .body{display:block!important;flex:1 1 auto!important;padding:6px!important;overflow:hidden!important;min-height:0!important;}\n.panel.toolsCollapsed .mainbox{height:100%!important;min-height:0!important;max-height:none!important;}\n.panel.toolsCollapsed .tablewrap{height:100%!important;}\n.panel.catMobile.toolsCollapsed .top{min-height:46px!important;padding:6px 8px!important;}\n.panel.catMobile.toolsCollapsed .title{font-size:11px!important;max-width:calc(100% - 220px)!important;}\n.panel.catMobile.toolsCollapsed .mainbox{height:calc(100dvh - 58px)!important;}\n.panel.catMobile.toolsCollapsed .tablewrap table{width:1180px!important;min-width:1180px!important;}\n@media (orientation:landscape) and (max-height:520px){\n  .panel.catMobile .dash{display:none!important;}\n  .panel.catMobile .side{max-height:52px!important;min-height:48px!important;padding:6px!important;}\n  .panel.catMobile .inputArea{display:none!important;}\n}\n",
 "</style>",
 
 "<button class='fab' id='fab'>CAT V45 Pro</button>",
@@ -1506,6 +1507,77 @@ fill.style.width = p + "%";
 }
 };
 
+
+
+function setCleanButtonLabels() {
+var labels = {
+build: "Build TM",
+analyze: "Analyze Text",
+acceptAll: "Accept Best",
+copy: "Copy Target",
+concordance: "Concordance",
+importDOCX: "Import DOCX",
+importDOCXZip: "Import ZIP DOCX",
+importTerms: "Import Terms CSV",
+importTMX: "Import TMX",
+exportTMX: "Export TMX",
+exportXLIFF: "Export XLIFF",
+saveProject: "Save JSON",
+loadProject: "Open JSON",
+report: "HTML Report",
+word: "Word Review",
+wordSameFormat: "Export Same DOCX",
+clear: "Clear Results",
+stop: "Stop"
+};
+Object.keys(labels).forEach(function (id) {
+var el = $("#" + id);
+if (el) el.textContent = labels[id];
+});
+var lab = $("#importHTMLMemoryLabel");
+if (lab) {
+var inp = lab.querySelector("input");
+lab.textContent = "Import HTML TM";
+if (inp) lab.appendChild(inp);
+}
+var q = $("#concordQ");
+if (q) q.setAttribute("placeholder", "Search TM...");
+var slang = $("#slang");
+if (slang && slang.options && slang.options.length >= 3) {
+slang.options[0].textContent = "Auto";
+slang.options[1].textContent = "Arabic to English";
+slang.options[2].textContent = "English to Arabic";
+}
+}
+
+function installFocusResultsButton() {
+var tools = $(".topTools");
+if (!tools || $("#toggleFocusResults")) return;
+var btn = document.createElement("button");
+btn.id = "toggleFocusResults";
+btn.className = "iconBtn focusBtn";
+btn.type = "button";
+btn.textContent = "FOCUS";
+btn.title = "Hide tools and focus on results";
+tools.appendChild(btn);
+btn.onclick = function () { setToolsCollapsed(!panel.classList.contains("toolsCollapsed")); };
+}
+
+function setToolsCollapsed(collapsed) {
+collapsed = !!collapsed;
+panel.classList.toggle("toolsCollapsed", collapsed);
+var btn = $("#toggleFocusResults");
+if (btn) {
+btn.textContent = collapsed ? "TOOLS" : "FOCUS";
+btn.classList.toggle("on", collapsed);
+btn.setAttribute("aria-pressed", collapsed ? "true" : "false");
+}
+ui.status(collapsed ? "Results focus mode is on." : "Tools are visible.");
+}
+
+setCleanButtonLabels();
+installFocusResultsButton();
+
 function isMobileCAT() {
 try { return (window.innerWidth || document.documentElement.clientWidth || 0) <= 900 || /Android|iPhone|iPad|iPod|Mobile/i.test(navigator.userAgent || ""); }
 catch (e) { return false; }
@@ -1527,7 +1599,7 @@ inputArea.style.padding = collapsed ? "0" : "10px";
 inputArea.style.overflow = "hidden";
 }
 if (btn) {
-btn.textContent = collapsed ? "SRC+" : "SRC\u2212";
+btn.textContent = collapsed ? "SRC+" : "SRC-";
 btn.classList.toggle("on", collapsed);
 btn.setAttribute("aria-pressed", collapsed ? "true" : "false");
 }
@@ -1550,7 +1622,7 @@ st.remove();
 }
 var btn = $("#toggleHtmlIcon");
 if (btn) {
-btn.textContent = hidden ? "HTML+" : "HTML\u2212";
+btn.textContent = hidden ? "HTML+" : "HTML-";
 btn.classList.toggle("on", hidden);
 btn.setAttribute("aria-pressed", hidden ? "true" : "false");
 }
@@ -1893,7 +1965,4 @@ setTimeout(open, 300);
 }
 
 ready(function () {
-try { initUI(); }
-catch (e) { alert("CAT V45 Professional error: " + (e && e.message ? e.message : e)); }
-});
-})();
+try {
