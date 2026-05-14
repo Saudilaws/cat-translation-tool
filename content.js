@@ -1,4 +1,4 @@
-(function () {
+function () {
 "use strict";
 
 /* =========================================================
@@ -1818,11 +1818,28 @@ shadow.innerHTML = [
 ".tmSelect{height:34px;min-width:100%;border:1px solid #d9e0ea;border-radius:9px;background:#fff;font:800 12px Segoe UI,Tahoma,Arial;color:#111827;padding:0 8px;direction:ltr}",
 ".saveTM{background:#0f766e;color:#fff;border-color:#0f766e}",
 ".deleteTM{background:#991b1b;color:#fff;border-color:#991b1b}",
+
+".panel.focusMode .dash{display:none!important}",
+".panel.focusMode .side{display:none!important}",
+".panel.focusMode .inputArea{display:none!important}",
+".panel.focusMode .body{display:block!important;padding:6px!important;gap:0!important;overflow:hidden!important;flex:1!important;min-height:0!important}",
+".panel.focusMode .mainbox{height:calc(100dvh - 58px)!important;min-height:0!important;width:100%!important;border-radius:12px!important}",
+".panel.focusMode .tablewrap{height:100%!important;max-height:none!important;overflow:auto!important}",
+".panel.focusMode .top{position:sticky!important;top:0!important;z-index:50!important}",
+".panel.focusMode .title{white-space:nowrap!important;overflow:hidden!important;text-overflow:ellipsis!important}",
+".panel.catMobile.focusMode .mainbox{height:calc(100dvh - 58px)!important}",
+".panel.catMobile.focusMode .body{padding:4px!important}",
+".panel.catMobile.focusMode .tablewrap table{display:table!important;width:980px!important;min-width:980px!important;table-layout:fixed!important}",
+".panel.catMobile.focusMode .tablewrap thead{display:table-header-group!important}",
+".panel.catMobile.focusMode .tablewrap tbody{display:table-row-group!important}",
+".panel.catMobile.focusMode .tablewrap tr{display:table-row!important}",
+".panel.catMobile.focusMode .tablewrap th,.panel.catMobile.focusMode .tablewrap td{display:table-cell!important}",
+".panel.catMobile.focusMode .tablewrap td::before{content:none!important;display:none!important}",
 "</style>",
 
 "<button class='fab' id='fab'>CAT V45 Pro</button>",
 "<section class='panel' id='panel'>",
-"<div class='top'><button class='close' id='close'>\xd7</button><div class='topTools'><button class='iconBtn' id='toggleSourceIcon' title='\u0637\u064a/\u0625\u0638\u0647\u0627\u0631 \u0644\u0648\u062d\u0629 \u0627\u0644\u0645\u0635\u062f\u0631'>SRC</button><button class='iconBtn' id='toggleHtmlIcon' title='\u0625\u062e\u0641\u0627\u0621/\u0625\u0638\u0647\u0627\u0631 \u0645\u062d\u062a\u0648\u0649 HTML'>HTML</button></div><div class='title'>CAT Translation Memory V45 Professional Stable Enhanced</div></div>",
+"<div class='top'><button class='close' id='close'>x</button><div class='topTools'><button class='iconBtn' id='focusMode' title='Show results only'>FOCUS</button><button class='iconBtn' id='toggleSourceIcon' title='Hide or show source'>SRC</button><button class='iconBtn' id='toggleHtmlIcon' title='Hide or show HTML page'>HTML</button></div><div class='title'>CAT Translation Memory V55</div></div>",
 
 "<div class='dash'>",
 "<div class='statCard'><div class='lab'>\u0645\u0639\u062f\u0644 \u0627\u0644\u062a\u0637\u0627\u0628\u0642 \u0645\u0646 100</div><div class='val' id='avgStat'>0%</div></div>",
@@ -1836,6 +1853,8 @@ shadow.innerHTML = [
 "<aside class='side'>",
 "<button class='green' id='build'>\u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629</button>",
 "<label class='filePick primary' id='importHTMLMemoryLabel' title='Hidden HTML Translation Memory'>Import HTML TM<input id='fileHTMLMemory' type='file' accept='.html,.htm,text/html'></label>",
+"<button class='primary' id='importHTMLDirect'>Import HTML</button>",
+"<input class='hiddenFile' id='fileHTMLDirect' type='file' accept='.html,.htm,text/html'>",
 "<select class='tmSelect' id='tmSelect' title='Saved Translation Memories'><option value=''>TM Library</option></select>",
 "<button class='saveTM' id='saveTM'>Save TM</button>",
 "<button id='loadSelectedTM'>Load Selected TM</button>",
@@ -1904,8 +1923,33 @@ try { return (window.innerWidth || document.documentElement.clientWidth || 0) <=
 catch (e) { return false; }
 }
 function applyMobileMode() { panel.classList.toggle("catMobile", isMobileCAT()); }
-function open() { applyMobileMode(); panel.classList.add("open"); }
-function close() { panel.classList.remove("open"); }
+function open() {
+applyMobileMode();
+panel.classList.add("open");
+try {
+document.documentElement.style.overflow = "hidden";
+document.body.style.overflow = "hidden";
+} catch (e) {}
+}
+function close() {
+panel.classList.remove("open");
+try {
+document.documentElement.style.overflow = "";
+document.body.style.overflow = "";
+} catch (e) {}
+}
+function setFocusMode(on) {
+on = !!on;
+panel.classList.toggle("focusMode", on);
+var btn = $("#focusMode");
+if (btn) {
+btn.textContent = on ? "TOOLS" : "FOCUS";
+btn.classList.toggle("on", on);
+btn.setAttribute("aria-pressed", on ? "true" : "false");
+}
+if (on) ui.status("Focus mode: results only.");
+else ui.status("Tools mode: controls are visible.");
+}
 
 function setSourceCollapsed(collapsed) {
 collapsed = !!collapsed;
@@ -2091,6 +2135,7 @@ window.addEventListener("CAT_V45_PRO_OPEN", open);
 window.addEventListener("resize", applyMobileMode);
 window.addEventListener("orientationchange", applyMobileMode);
 
+$("#focusMode").onclick = function () { setFocusMode(!panel.classList.contains("focusMode")); };
 $("#toggleSourceIcon").onclick = function () { setSourceCollapsed(!panel.classList.contains("sourceCollapsed")); };
 $("#toggleHtmlIcon").onclick = function () { setHtmlHidden(!document.getElementById(APP.hostId + "-page-hide-style")); };
 setSourceCollapsed(false);
@@ -2175,10 +2220,8 @@ $("#fileDOCX").value = "";
 };
 
 
-var htmlMemoryInput = $("#fileHTMLMemory");
-if (htmlMemoryInput) {
-htmlMemoryInput.onchange = async function () {
-var f = htmlMemoryInput.files && htmlMemoryInput.files[0];
+
+async function importHTMLFileAsPersistentTM(f) {
 if (!f) return;
 try {
 var defaultName = String(f.name || "HTML TM").replace(/\.[^.]+$/, "");
@@ -2188,14 +2231,59 @@ var txt = await f.text();
 var summary = await buildHiddenHTMLMemoryFromText(txt, f.name || "memory.html", ui);
 await tmSaveCurrentMemory(tmName, ui);
 await tmRefreshSelect(ui);
-ui.status("Hidden HTML TM imported and saved locally: " + tmName + " - Added: " + asc(summary.added) + " - Total TM: " + asc(summary.totalTM));
+var sel = $("#tmSelect");
+if (sel && APP.activeMemoryId) sel.value = APP.activeMemoryId;
+ui.status("HTML TM imported and saved locally: " + tmName + " - Added: " + asc(summary.added) + " - Total TM: " + asc(summary.totalTM));
 } catch (e) {
-ui.status("Hidden HTML TM import failed: " + (e && e.message ? e.message : e));
+ui.status("HTML TM import failed: " + (e && e.message ? e.message : e));
 }
+}
+
+var htmlMemoryInput = $("#fileHTMLMemory");
+if (htmlMemoryInput) {
+htmlMemoryInput.onchange = async function () {
+var f = htmlMemoryInput.files && htmlMemoryInput.files[0];
+await importHTMLFileAsPersistentTM(f);
 htmlMemoryInput.value = "";
 };
 }
 
+var htmlDirectInput = $("#fileHTMLDirect");
+if (htmlDirectInput) {
+htmlDirectInput.onchange = async function () {
+var f = htmlDirectInput.files && htmlDirectInput.files[0];
+await importHTMLFileAsPersistentTM(f);
+htmlDirectInput.value = "";
+};
+}
+
+var importHTMLDirectBtn = $("#importHTMLDirect");
+if (importHTMLDirectBtn) {
+importHTMLDirectBtn.onclick = function () {
+var input = $("#fileHTMLDirect") || $("#fileHTMLMemory");
+if (input) input.click();
+};
+}
+
+async function loadSelectedTMNow() {
+var sel = $("#tmSelect");
+var id = sel ? sel.value : "";
+if (!id) {
+await tmRefreshSelect(ui);
+sel = $("#tmSelect");
+id = sel ? sel.value : "";
+}
+if (!id) { ui.status("Choose a saved TM from TM Library first."); return; }
+try {
+if (id === "__all__") await tmLoadAllMemories(ui);
+else await tmLoadOneMemory(id, ui, false);
+await tmRefreshSelect(ui);
+var s2 = $("#tmSelect");
+if (s2) s2.value = id;
+} catch (e) {
+ui.status("TM load failed: " + (e && e.message ? e.message : e));
+}
+}
 
 var tmSelector = $("#tmSelect");
 if (tmSelector) {
@@ -2206,43 +2294,42 @@ try {
 if (id === "__all__") await tmLoadAllMemories(ui);
 else await tmLoadOneMemory(id, ui, false);
 await tmRefreshSelect(ui);
+var s2 = $("#tmSelect");
+if (s2) s2.value = id;
 } catch (e) {
 ui.status("TM load failed: " + (e && e.message ? e.message : e));
 }
 };
 }
 
-$("#loadSelectedTM").onclick = async function () {
-var sel = $("#tmSelect");
-var id = sel ? sel.value : "";
-if (!id) { ui.status("Choose a saved TM first."); return; }
-try {
-if (id === "__all__") await tmLoadAllMemories(ui);
-else await tmLoadOneMemory(id, ui, false);
-await tmRefreshSelect(ui);
-} catch (e) {
-ui.status("TM load failed: " + (e && e.message ? e.message : e));
-}
-};
+var loadSelectedBtn = $("#loadSelectedTM");
+if (loadSelectedBtn) loadSelectedBtn.onclick = loadSelectedTMNow;
 
-$("#saveTM").onclick = async function () {
+var saveTMBtn = $("#saveTM");
+if (saveTMBtn) {
+saveTMBtn.onclick = async function () {
 try {
 var currentName = APP.activeMemoryName || "";
 var name = tmMemoryPrompt(currentName || ("TM " + new Date().toLocaleDateString()));
 await tmSaveCurrentMemory(name, ui);
 await tmRefreshSelect(ui);
+var sel = $("#tmSelect");
+if (sel && APP.activeMemoryId) sel.value = APP.activeMemoryId;
 } catch (e) {
 ui.status("TM save failed: " + (e && e.message ? e.message : e));
 }
 };
+}
 
-$("#deleteTM").onclick = async function () {
+var deleteTMBtn = $("#deleteTM");
+if (deleteTMBtn) {
+deleteTMBtn.onclick = async function () {
 var sel = $("#tmSelect");
 var id = sel ? sel.value : "";
 if (!id || id === "__all__") { ui.status("Choose one saved TM to delete."); return; }
 var label = sel.options[sel.selectedIndex] ? sel.options[sel.selectedIndex].textContent : "selected TM";
 var ok = true;
-try { ok = window.confirm("Delete this saved Translation Memory?\\n" + label); } catch (e) { ok = false; }
+try { ok = window.confirm("Delete this saved Translation Memory?\n" + label); } catch (e) { ok = false; }
 if (!ok) return;
 try {
 await tmDeleteMemory(id, ui);
@@ -2251,6 +2338,31 @@ await tmRefreshSelect(ui);
 ui.status("TM delete failed: " + (e && e.message ? e.message : e));
 }
 };
+}
+
+/* Robust shadow click delegation: useful when mobile/desktop taps miss the direct handler. */
+try {
+shadow.addEventListener("click", function (ev) {
+var t = ev.target;
+if (!t) return;
+var btn = t.closest ? t.closest("#loadSelectedTM,#importHTMLDirect,#focusMode") : null;
+if (!btn) return;
+if (btn.id === "loadSelectedTM") {
+ev.preventDefault();
+loadSelectedTMNow();
+}
+if (btn.id === "importHTMLDirect") {
+ev.preventDefault();
+var input = $("#fileHTMLDirect") || $("#fileHTMLMemory");
+if (input) input.click();
+}
+if (btn.id === "focusMode") {
+ev.preventDefault();
+setFocusMode(!panel.classList.contains("focusMode"));
+ev.stopPropagation();
+}
+}, true);
+} catch (e) {}
 
 setTimeout(function () { tmAutoLoadLast(ui); }, 150);
 
@@ -2349,7 +2461,4 @@ setTimeout(open, 300);
 }
 
 ready(function () {
-try { initUI(); }
-catch (e) { alert("CAT V45 Professional error: " + (e && e.message ? e.message : e)); }
-});
-})();
+try {
