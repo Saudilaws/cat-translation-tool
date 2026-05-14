@@ -1,8 +1,8 @@
 (function () {
 "use strict";
+
 /* =========================================================
-CAT Translation Memory V47 Cell-Segment Professional Enhanced
-- Cell-as-segment TM matching: each HTML cell is one segment; no internal sentence splitting
+CAT Translation Memory V48 ZIP Word TM Import + Same-Format DOCX Export
 - Collapse / show source input area
 - Top counters: Average, Segments, Confirmed, Needs Translation, Needs Review
 - Word A3 with visual Track Changes
@@ -11,11 +11,13 @@ CAT Translation Memory V47 Cell-Segment Professional Enhanced
 - Match colors
 - Local only: no network, no CDN, no external API
 - Import Word DOCX locally using browser ZIP reader
+- Export target DOCX using the original source DOCX template and formatting
 ========================================================= */
+
 var APP = {
-id: "cat-v47-cell-segment-pro-enhanced",
-version: "V47 Cell-Segment Professional Enhanced",
-hostId: "cat-v47-cell-segment-pro-enhanced-host",
+id: "cat-v45-pro-stable-enhanced-confirmed",
+version: "V48 ZIP Word TM Import",
+hostId: "cat-v45-pro-stable-enhanced-confirmed-host",
 built: false,
 building: false,
 stop: false,
@@ -26,25 +28,30 @@ exact: { ar: Object.create(null), en: Object.create(null) },
 compact: { ar: Object.create(null), en: Object.create(null) },
 tokenIndex: { ar: Object.create(null), en: Object.create(null) },
 seen: Object.create(null),
-cellSeen: Object.create(null),
-config: { maxWindows: 3, maxUnitsPerSide: 90, maxIndexTokens: 90 },
 terms: [],
-results: []
+results: [],
+sourceDocxArrayBuffer: null,
+sourceDocxName: "",
+keepDocxParagraphs: false
 };
-if (window.__CAT_V47_CELL_SEGMENT_PRO_ENHANCED__) {
-try { window.dispatchEvent(new CustomEvent("CAT_V47_PRO_OPEN")); } catch (e) {}
+
+if (window.__CAT_V45_PRO_STABLE_ENHANCED_CONFIRMED__) {
+try { window.dispatchEvent(new CustomEvent("CAT_V45_PRO_OPEN")); } catch (e) {}
 return;
 }
-window.__CAT_V47_CELL_SEGMENT_PRO_ENHANCED__ = true;
+window.__CAT_V45_PRO_STABLE_ENHANCED_CONFIRMED__ = true;
+
 function ready(fn) {
 if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", fn);
 else fn();
 }
+
 function asc(s) {
 return String(s || "")
 .replace(/[\u0660-\u0669]/g, function (d) { return String(d.charCodeAt(0) - 1632); })
 .replace(/[\u06F0-\u06F9]/g, function (d) { return String(d.charCodeAt(0) - 1776); });
 }
+
 function clean(s) {
 return asc(String(s || ""))
 .replace(/[\u200E\u200F\u202A-\u202E\u2066-\u2069]/g, "")
@@ -55,7 +62,9 @@ return asc(String(s || ""))
 .replace(/[ \t]+\n/g, "\n")
 .trim();
 }
+
 function flat(s) { return clean(String(s || "").replace(/\s+/g, " ")); }
+
 function norm(s) {
 return asc(String(s || ""))
 .normalize("NFKC")
@@ -70,20 +79,25 @@ return asc(String(s || ""))
 .trim()
 .toLowerCase();
 }
+
 function loose(s) {
 return norm(s).replace(/[^\u0600-\u06FFA-Za-z0-9]+/g, " ").replace(/\s+/g, " ").trim();
 }
+
 function compactText(s) { return loose(s).replace(/\s+/g, ""); }
+
 function esc(s) {
 return asc(String(s || "")).replace(/[&<>"']/g, function (c) {
 return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
 });
 }
+
 function hasAr(s) { return /[\u0600-\u06FF]/.test(String(s || "")); }
 function hasEn(s) { return /[A-Za-z]/.test(String(s || "")); }
 function arCount(s) { var m = String(s || "").match(/[\u0600-\u06FF]/g); return m ? m.length : 0; }
 function enCount(s) { var m = String(s || "").match(/[A-Za-z]/g); return m ? m.length : 0; }
 function lang(s) { return arCount(s) >= enCount(s) ? "ar" : "en"; }
+
 function matchColor(score) {
 score = +score || 0;
 if (score >= 95) return "#168A45";
@@ -93,15 +107,18 @@ if (score >= 65) return "#F59E0B";
 return "#DC2626";
 }
 function matchLabel(score) { return asc(Math.max(0, Math.min(100, Math.round(+score || 0))) + "%"); }
+
 var STOP_AR = Object.create(null);
 var STOP_EN = Object.create(null);
 "\u0645\u0646 \u0641\u064a \u0639\u0644\u0649 \u0639\u0646 \u0627\u0644\u0649 \u0625\u0644\u0649 \u0627\u0648 \u0623\u0648 \u0648 \u0641 \u062b\u0645 \u0630\u0644\u0643 \u0647\u0630\u0647 \u0647\u0630\u0627 \u062a\u0644\u0643 \u0627\u0644\u062a\u064a \u0627\u0644\u0630\u064a \u0627\u0646 \u0623\u0646 \u064a\u062a\u0645 \u064a\u062c\u0628 \u0643\u0644 \u0627\u064a \u0623\u064a \u0628\u0645\u0627 \u0643\u0645\u0627 \u0642\u062f \u0644\u0627 \u0645\u0627 \u0644\u0645 \u0644\u0646 \u0644\u0647 \u0644\u0647\u0627 \u0628\u0647 \u0628\u0647\u0627 \u0641\u064a\u0647 \u0641\u064a\u0647\u0627 \u0639\u0644\u064a\u0647 \u0639\u0644\u064a\u0647\u0627 \u064a\u0643\u0648\u0646 \u062a\u0643\u0648\u0646 \u0643\u0627\u0646 \u0643\u0627\u0646\u062a \u0627\u0630\u0627 \u0625\u0630\u0627 \u062d\u0633\u0628 \u0648\u0641\u0642 \u0648\u0641\u0642\u0627 \u062f\u0648\u0646 \u063a\u064a\u0631 \u0630\u0627\u062a \u0639\u0646\u062f \u0628\u0639\u062f \u0642\u0628\u0644 \u0628\u064a\u0646 \u0645\u0639 \u062d\u064a\u062b \u062e\u0644\u0627\u0644".split(/\s+/).forEach(function (w) { STOP_AR[loose(w)] = 1; });
 "the a an and or of in on to for from by with without shall must may be is are was were as at that this these those it its not no any all each such".split(/\s+/).forEach(function (w) { STOP_EN[w] = 1; });
+
 function stripToken(w, l) {
 w = loose(w);
 if (l === "ar") w = w.replace(/^(?:\u0648|\u0641|\u0628|\u0643|\u0644)+/g, "").replace(/^\u0627\u0644/g, "");
 return w;
 }
+
 function toks(s, l) {
 var n = loose(s);
 if (!n) return [];
@@ -116,6 +133,7 @@ out.push(w);
 });
 return out;
 }
+
 function profile(s, l) {
 var nl = loose(s);
 var cp = compactText(s);
@@ -124,16 +142,19 @@ var set = Object.create(null);
 t.forEach(function (x) { set[x] = 1; });
 return { raw: flat(s), nl: nl, compact: cp, t: t, set: set, len: nl.length };
 }
+
 function dice(a, b, bset) {
 if (!a.length || !b.length) return 0;
 var c = 0;
 a.forEach(function (x) { if (bset[x]) c++; });
 return (2 * c) / (a.length + b.length);
 }
+
 function numbersOf(s) {
 var m = asc(String(s || "")).match(/\d+(?:[.,]\d+)?/g);
 return m ? m.map(function (x) { return x.replace(",", "."); }) : [];
 }
+
 function sameNumbers(src, trg) {
 var a = numbersOf(src);
 var b = numbersOf(trg);
@@ -143,173 +164,39 @@ b.forEach(function (x) { set[x] = 1; });
 for (var i = 0; i < a.length; i++) if (!set[a[i]]) return false;
 return true;
 }
-function isStrongContained(q, t) {
-if (!q || !t || !q.nl || !t.nl) return false;
-if (q.nl.length >= 18 && t.nl.indexOf(q.nl) >= 0) return true;
-if (q.compact && q.compact.length >= 22 && t.compact.indexOf(q.compact) >= 0) return true;
-return false;
-}
+
 function scoreProfiles(q, t) {
 if (!q.nl || !t.nl) return 0;
 if (q.raw === t.raw) return 100;
-if (q.nl === t.nl) return 100;
-if (q.compact && q.compact === t.compact) return 100;
+if (q.nl === t.nl) return 99;
+if (q.compact && q.compact === t.compact) return 98;
+
 var d = dice(q.t, t.t, t.set);
 var lenScore = 1 - Math.min(Math.abs(q.len - t.len) / Math.max(q.len, t.len, 1), 1);
 var contain = 0;
-if (q.nl.length > 12 && t.nl.indexOf(q.nl) >= 0) contain = 0.36;
-else if (t.nl.length > 12 && q.nl.indexOf(t.nl) >= 0) contain = 0.18;
-else if (q.compact.length > 16 && t.compact.indexOf(q.compact) >= 0) contain = 0.32;
-var sc = d * 68 + lenScore * 18 + contain * 100;
-/* V47: non-exact matches are capped below Confirmed.
-   Confirmed is reserved for full-cell exact/normalized/compact equality. */
-return Math.max(0, Math.min(94, Math.round(sc)));
+if (q.nl.length > 8 && t.nl.indexOf(q.nl) >= 0) contain = 0.20;
+else if (t.nl.length > 8 && q.nl.indexOf(t.nl) >= 0) contain = 0.15;
+else if (q.compact.length > 12 && t.compact.indexOf(q.compact) >= 0) contain = 0.18;
+var sc = d * 68 + lenScore * 22 + contain * 100;
+return Math.max(0, Math.min(100, Math.round(sc)));
 }
-function exactKind(q, t) {
-if (!q || !t || !q.nl || !t.nl) return "";
-if (q.raw === t.raw) return "exact-raw-cell";
-if (q.nl === t.nl) return "exact-normalized-cell";
-if (q.compact && q.compact === t.compact) return "exact-compact-cell";
-return "";
-}
-function isConfirmedStatus(status) { return /confirmed/i.test(String(status || "")); }
-function statusFrom(score, target, mode) {
-score = +score || 0;
-if (!flat(target || "")) return score >= 95 ? "Source Found" : "Needs";
-if (score >= 98) return "Confirmed";
-if (score >= 95) return "Confirmed";
-if (score >= 65) return "Review";
-return "Needs";
-}
+
 function textOf(el) { return flat(el ? el.textContent || "" : ""); }
-function isDecimalDot(s, i) {
-return s[i] === "." && /[0-9]/.test(s[i - 1] || "") && /[0-9]/.test(s[i + 1] || "");
-}
-function isKnownAbbrevDot(s, i) {
-if (s[i] !== ".") return false;
-var left = s.slice(Math.max(0, i - 12), i + 1);
-return /\b(?:No|Nos|Art|Mr|Mrs|Ms|Dr|Prof|Inc|Ltd|Co|e\.g|i\.e|etc)\.$/i.test(left);
-}
-function splitByHardPunctuation(line, l) {
-line = flat(line);
-var parts = [];
-var st = 0;
-for (var i = 0; i < line.length; i++) {
-var ch = line[i];
-var isEnd = ch === "." || ch === "!" || ch === "?" || ch === "\u061f" || ch === "؛" || ch === ";";
-if (!isEnd) continue;
-if (isDecimalDot(line, i) || isKnownAbbrevDot(line, i)) continue;
-var p = flat(line.slice(st, i + 1));
-if (p) parts.push(p);
-st = i + 1;
-}
-var tail = flat(line.slice(st));
-if (tail) parts.push(tail);
-return parts.length ? parts : (line ? [line] : []);
-}
-function splitLongClause(part, l) {
-part = flat(part);
-if (!part) return [];
-if (part.length <= 240) return [part];
-var out = [];
-var st = 0;
-for (var i = 0; i < part.length; i++) {
-var ch = part[i];
-var soft = ch === ":" || ch === "\u060c" || ch === ",";
-if (!soft) continue;
-if (ch === "," && /[0-9]/.test(part[i - 1] || "") && /[0-9]/.test(part[i + 1] || "")) continue;
-var currentLen = i + 1 - st;
-var remainLen = part.length - i - 1;
-if (currentLen < 80 || remainLen < 35) continue;
-var p = flat(part.slice(st, i + 1));
-if (p) out.push(p);
-st = i + 1;
-}
-var tail = flat(part.slice(st));
-if (tail) out.push(tail);
-if (!out.length) out = [part];
-return out;
-}
-function uniqText(arr, max) {
-var seen = Object.create(null);
-var out = [];
-(arr || []).forEach(function (x) {
-x = flat(x);
-if (!x || x.length < 2) return;
-var k = loose(x).slice(0, 700);
-if (!k || seen[k]) return;
-seen[k] = 1;
-out.push(x);
-});
-return typeof max === "number" ? out.slice(0, max) : out;
-}
-function splitSmartUnits(text, forcedLang) {
-/* V47 compatibility wrapper: no internal segmentation. */
-text = flat(text);
-return text ? [text] : [];
-}
-function windowsOfUnits(units, maxWin) {
-/* V47: disabled. HTML cell remains one segment. */
-return [];
-}
-function unitVariants(text, l) {
-/* V47: disabled. Only the full cell is indexed. */
-text = flat(text);
-return text ? [text] : [];
-}
-function addAlignedWindows(arUnits, enUnits, rowNo, mode) {
-/* V47: disabled. No sentence/window alignment. */
-return;
-}
-function addCellUnit(text, l, row, cell, mode) {
-text = flat(text);
-if (!text || text.length < 2) return;
-if (l === "ar" && !hasAr(text)) return;
-if (l === "en" && !hasEn(text)) return;
-var key = row + "|" + cell + "|" + l + "|" + loose(text).slice(0, 700);
-if (APP.cellSeen[key]) return;
-APP.cellSeen[key] = 1;
-APP.cells.push({ text: text, lang: l, row: row, cell: cell, mode: mode || "cell", p: profile(text, l) });
-}
-function indexCellVariants(text, l, row, cell, mode) {
-/* V47: the full HTML cell is the only searchable unit.
-   No sentence/window/substring units are created here. */
-addCellUnit(text, l, row, cell, mode || "html-cell");
-}
-function addTMUnits(arText, enText, rowNo, mode) {
-arText = flat(arText);
-enText = flat(enText);
-if (!arText || !enText) return;
-/* V47: each bilingual HTML cell pair is one TM unit.
-   Do not split long cells into sentences, clauses, or windows. */
-addTU(arText, enText, rowNo, (mode || "cell-pair") + "-html-cell");
-}
-function mergeSegmentsText(segs, start, end, l) {
-if (start < 0 || end >= segs.length || start > end) return "";
-var arr = [];
-for (var i = start; i <= end; i++) {
-if (!segs[i] || segs[i].lang !== l) return "";
-arr.push(segs[i].text);
-}
-return flat(arr.join(" "));
-}
-function searchWithContext(segs, idx) {
-/* V47: context merging is disabled because each source line/HTML cell is one segment. */
-var seg = segs[idx];
-return searchOne(seg.text, seg.lang);
-}
+
 function addMap(map, key, id) {
 if (!key) return;
 var a = map[key];
 if (!a) a = map[key] = [];
 a.push(id);
 }
+
 function addToken(l, token, id) {
 if (!token) return;
 var a = APP.tokenIndex[l][token];
 if (!a) a = APP.tokenIndex[l][token] = [];
 a.push(id);
 }
+
 function resetMemory() {
 APP.built = false;
 APP.building = false;
@@ -322,8 +209,8 @@ APP.exact = { ar: Object.create(null), en: Object.create(null) };
 APP.compact = { ar: Object.create(null), en: Object.create(null) };
 APP.tokenIndex = { ar: Object.create(null), en: Object.create(null) };
 APP.seen = Object.create(null);
-APP.cellSeen = Object.create(null);
 }
+
 function addTU(arText, enText, rowNo, mode) {
 arText = flat(arText);
 enText = flat(enText);
@@ -331,54 +218,27 @@ if (!arText || !enText) return;
 if (!hasAr(arText) || !hasEn(enText)) return;
 if (arText.length < 3 || enText.length < 3) return;
 if (arText.length > 15000 || enText.length > 15000) return;
-var arLoose = loose(arText);
-var enLoose = loose(enText);
-var key = arLoose.slice(0, 900) + "|" + enLoose.slice(0, 900);
+
+var key = loose(arText).slice(0, 500) + "|" + loose(enText).slice(0, 500);
 if (APP.seen[key]) return;
 APP.seen[key] = 1;
+
 var id = APP.tus.length;
 var arP = profile(arText, "ar");
 var enP = profile(enText, "en");
 var tu = { id: id, ar: arText, en: enText, arP: arP, enP: enP, row: rowNo, mode: mode || "row" };
 APP.tus.push(tu);
+
 addMap(APP.exact.ar, arP.nl, id);
 addMap(APP.exact.en, enP.nl, id);
 addMap(APP.compact.ar, arP.compact, id);
 addMap(APP.compact.en, enP.compact, id);
-arP.t.slice(0, APP.config.maxIndexTokens).forEach(function (t) { addToken("ar", t, id); });
-enP.t.slice(0, APP.config.maxIndexTokens).forEach(function (t) { addToken("en", t, id); });
+arP.t.slice(0, 20).forEach(function (t) { addToken("ar", t, id); });
+enP.t.slice(0, 20).forEach(function (t) { addToken("en", t, id); });
 }
+
 function getPageRows() { return Array.prototype.slice.call(document.querySelectorAll("tr")); }
-function pairCellsByOrder(arCells, enCells) {
-var out = [];
-if (!arCells.length || !enCells.length) return out;
-var ar = arCells.slice().sort(function (a, b) { return a.cell - b.cell; });
-var en = enCells.slice().sort(function (a, b) { return a.cell - b.cell; });
-if (ar.length === en.length) {
-for (var i = 0; i < ar.length; i++) out.push({ ar: ar[i], en: en[i] });
-return out;
-}
-if (ar.length === 1) {
-en.forEach(function (e) { out.push({ ar: ar[0], en: e }); });
-return out;
-}
-if (en.length === 1) {
-ar.forEach(function (a) { out.push({ ar: a, en: en[0] }); });
-return out;
-}
-var used = Object.create(null);
-ar.forEach(function (a) {
-var best = -1;
-var bestDist = Infinity;
-for (var j = 0; j < en.length; j++) {
-if (used[j]) continue;
-var d = Math.abs(a.cell - en[j].cell);
-if (d < bestDist) { bestDist = d; best = j; }
-}
-if (best >= 0) { used[best] = 1; out.push({ ar: a, en: en[best] }); }
-});
-return out;
-}
+
 function buildMemory(ui) {
 if (APP.building) return;
 resetMemory();
@@ -386,58 +246,64 @@ APP.building = true;
 var rows = getPageRows();
 var total = rows.length;
 var i = 0;
-ui.status("جاري بناء ذاكرة الترجمة من صفحة HTML بنظام الخلية = Segment واحد...");
+ui.status("\u062c\u0627\u0631\u064a \u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0645\u0646 \u0635\u0641\u062d\u0629 HTML...");
 ui.progress(0, total);
+
 function step() {
 if (APP.stop) {
 APP.building = false;
-ui.status("تم إيقاف بناء الذاكرة.");
+ui.status("\u062a\u0645 \u0625\u064a\u0642\u0627\u0641 \u0628\u0646\u0627\u0621 \u0627\u0644\u0630\u0627\u0643\u0631\u0629.");
 return;
 }
+
 var end = Math.min(i + 80, total);
 for (; i < end; i++) {
 var r = rows[i];
 var cells = Array.prototype.slice.call(r.querySelectorAll("td,th"));
 if (!cells.length) continue;
-var arCells = [];
-var enCells = [];
+var arTexts = [];
+var enTexts = [];
+
 cells.forEach(function (cell, ci) {
 var tx = textOf(cell);
 if (!tx || tx.length < 2) return;
 var ac = arCount(tx);
 var ec = enCount(tx);
 if (ac >= 2) {
-var arObj = { text: tx, row: i, cell: ci };
-arCells.push(arObj);
-indexCellVariants(tx, "ar", i, ci, "html-cell");
+arTexts.push(tx);
+APP.cells.push({ text: tx, lang: "ar", row: i, cell: ci, p: profile(tx, "ar") });
 }
 if (ec >= 2) {
-var enObj = { text: tx, row: i, cell: ci };
-enCells.push(enObj);
-indexCellVariants(tx, "en", i, ci, "html-cell");
+enTexts.push(tx);
+APP.cells.push({ text: tx, lang: "en", row: i, cell: ci, p: profile(tx, "en") });
 }
 });
-APP.rows[i] = {
-ar: arCells.map(function (x) { return x.text; }),
-en: enCells.map(function (x) { return x.text; })
-};
-var pairs = pairCellsByOrder(arCells, enCells);
-pairs.forEach(function (p) {
-addTMUnits(p.ar.text, p.en.text, i, "cell-pair r" + (i + 1) + " c" + p.ar.cell + "-" + p.en.cell);
-});
+
+APP.rows[i] = { ar: arTexts, en: enTexts };
+if (arTexts.length && enTexts.length) {
+addTU(arTexts.join("\n"), enTexts.join("\n"), i, "combined-row");
+var arLimit = Math.min(arTexts.length, 4);
+var enLimit = Math.min(enTexts.length, 4);
+for (var a = 0; a < arLimit; a++) {
+for (var e = 0; e < enLimit; e++) addTU(arTexts[a], enTexts[e], i, "cell-pair");
 }
+}
+}
+
 ui.progress(i, total);
-ui.status("بناء الذاكرة: " + asc(i) + " / " + asc(total) + " — خلايا TM: " + asc(APP.tus.length) + " — خلايا مفهرسة: " + asc(APP.cells.length));
+ui.status("\u0628\u0646\u0627\u0621 \u0627\u0644\u0630\u0627\u0643\u0631\u0629: " + asc(i) + " / " + asc(total) + " \u2014 \u0648\u062d\u062f\u0627\u062a TM: " + asc(APP.tus.length));
 if (i < total) setTimeout(step, 1);
 else {
 APP.built = true;
 APP.building = false;
 ui.progress(total, total);
-ui.status("اكتمل بناء الذاكرة بنظام الخلية = Segment واحد. خلايا TM: " + asc(APP.tus.length) + " — خلايا مفهرسة: " + asc(APP.cells.length));
+ui.status("\u0627\u0643\u062a\u0645\u0644 \u0628\u0646\u0627\u0621 \u0627\u0644\u0630\u0627\u0643\u0631\u0629. \u0639\u062f\u062f \u0648\u062d\u062f\u0627\u062a \u0627\u0644\u062a\u0631\u062c\u0645\u0629: " + asc(APP.tus.length));
 }
 }
+
 step();
 }
+
 function candidates(q, l) {
 var out = [];
 var seen = Object.create(null);
@@ -452,42 +318,48 @@ if (out.length > 3500) return;
 }
 }
 }
+
 addIds(APP.exact[l][q.nl]);
 addIds(APP.compact[l][q.compact]);
 if (out.length >= 20) return out;
+
 var tokens = q.t.slice(0, 16)
 .map(function (t) { var arr = APP.tokenIndex[l][t] || []; return { t: t, c: arr.length }; })
 .filter(function (x) { return x.c; })
 .sort(function (a, b) { return a.c - b.c; })
 .slice(0, 12);
 tokens.forEach(function (x) { addIds(APP.tokenIndex[l][x.t]); });
+
 if (!out.length && APP.tus.length <= 2500) {
 for (var k = 0; k < APP.tus.length; k++) out.push(k);
 }
 return out;
 }
+
 function rescue(seg, l) {
 var q = profile(seg, l);
 var best = null;
 var bestScore = 0;
-var bestKind = "";
 for (var i = 0; i < APP.cells.length; i++) {
 var c = APP.cells[i];
 if (c.lang !== l) continue;
-var kind = exactKind(q, c.p);
-var sc = kind ? 100 : scoreProfiles(q, c.p);
-if (sc > bestScore) { bestScore = sc; best = c; bestKind = kind; }
-if (bestScore >= 100 && bestKind) break;
+var sc = 0;
+if (q.nl && c.p.nl === q.nl) sc = 99;
+else if (q.compact && c.p.compact === q.compact) sc = 98;
+else if (q.nl.length > 10 && c.p.nl.indexOf(q.nl) >= 0) sc = 88;
+else if (q.compact.length > 14 && c.p.compact.indexOf(q.compact) >= 0) sc = 84;
+else sc = scoreProfiles(q, c.p);
+if (sc > bestScore) { bestScore = sc; best = c; }
 }
-if (!best || bestScore < 65) return null;
+if (!best || bestScore < 68) return null;
 var row = APP.rows[best.row];
 if (!row) return null;
 var targetLang = l === "ar" ? "en" : "ar";
 var targets = row[targetLang] || [];
-var targetText = targets.join("\n");
-var mode = "cell-rescue" + (best.mode ? " | " + best.mode : "") + (bestKind ? " | " + bestKind : "");
-return { score: bestScore, source: best.text, target: targetText, targetLang: targetLang, status: statusFrom(bestScore, targetText, mode), mode: mode, row: best.row };
+if (!targets.length) return { score: bestScore, source: best.text, target: "", targetLang: targetLang, status: "Source Found", mode: "source-found" };
+return { score: Math.min(95, Math.max(bestScore, 75)), source: best.text, target: targets.join("\n"), targetLang: targetLang, status: "Rescued", mode: "cell-rescue" };
 }
+
 function searchOne(seg, l) {
 var q = profile(seg, l);
 var ids = candidates(q, l);
@@ -496,40 +368,51 @@ for (var i = 0; i < ids.length; i++) {
 var tu = APP.tus[ids[i]];
 if (!tu) continue;
 var tp = l === "ar" ? tu.arP : tu.enP;
-var kind = exactKind(q, tp);
-var sc = kind ? 100 : scoreProfiles(q, tp);
-var mode = (tu.mode || "") + (kind ? " | " + kind : "");
-var target = l === "ar" ? tu.en : tu.ar;
+var sc = scoreProfiles(q, tp);
 if (!best || sc > best.score) {
 best = {
 score: sc,
 source: l === "ar" ? tu.ar : tu.en,
-target: target,
+target: l === "ar" ? tu.en : tu.ar,
 targetLang: l === "ar" ? "en" : "ar",
-status: statusFrom(sc, target, mode),
-mode: mode,
+status: sc >= 95 ? "Confirmed" : "Review",
+mode: tu.mode,
 row: tu.row
 };
 }
-if (best && best.score >= 100 && kind) break;
 }
 if (best && best.score >= 65) return best;
 var r = rescue(seg, l);
 if (r) return r;
 return { score: 0, source: "", target: "", targetLang: l === "ar" ? "en" : "ar", status: "Needs", mode: "none", row: -1 };
 }
+
 function splitSegments(text, forcedLang) {
 var raw = String(text || "").replace(/\r/g, "\n");
 var lines = raw.split(/\n+/).map(flat).filter(Boolean);
 var out = [];
 lines.forEach(function (line) {
 var l = forcedLang || lang(line);
-var units = splitSmartUnits(line, l);
-if (!units.length) units = [line];
-units.forEach(function (p) { if (p) out.push({ text: p, lang: forcedLang || lang(p) }); });
+if (line.length < 280) { out.push({ text: line, lang: l }); return; }
+var parts = [];
+var st = 0;
+for (var i = 0; i < line.length; i++) {
+var ch = line[i];
+var isEnd = ch === "." || ch === "!" || ch === "\u061f" || ch === "?";
+if (!isEnd) continue;
+if (ch === "." && /[0-9]/.test(line[i - 1] || "") && /[0-9]/.test(line[i + 1] || "")) continue;
+var p = flat(line.slice(st, i + 1));
+if (p) parts.push(p);
+st = i + 1;
+}
+var tail = flat(line.slice(st));
+if (tail) parts.push(tail);
+if (!parts.length) parts = [line];
+parts.forEach(function (p) { if (p) out.push({ text: p, lang: forcedLang || lang(p) }); });
 });
 return out;
 }
+
 function qaIssues(src, trg) {
 var issues = [];
 if (!flat(trg)) issues.push("Target empty");
@@ -539,6 +422,7 @@ var srcClose = (src.match(/[\)\]\}]/g) || []).length;
 var trgOpen = (trg.match(/[\(\[\{]/g) || []).length;
 var trgClose = (trg.match(/[\)\]\}]/g) || []).length;
 if (srcOpen !== srcClose || trgOpen !== trgClose) issues.push("Bracket issue");
+
 APP.terms.forEach(function (term) {
 var arTerm = term.ar || "";
 var enTerm = term.en || "";
@@ -552,8 +436,10 @@ if (status === "forbidden") {
 if (loose(trg).indexOf(loose(enTerm)) >= 0 || loose(trg).indexOf(loose(arTerm)) >= 0) issues.push("Forbidden term used");
 }
 });
+
 return issues;
 }
+
 function parseCSV(text) {
 var lines = String(text || "").split(/\r?\n/).map(function (x) { return x.trim(); }).filter(Boolean);
 var out = [];
@@ -566,6 +452,7 @@ out.push({ ar: parts[0] || "", en: parts[1] || "", status: parts[2] || "preferre
 });
 return out.filter(function (t) { return t.ar && t.en; });
 }
+
 function parseTMX(text) {
 var out = [];
 var xml;
@@ -587,17 +474,19 @@ if (arText && enText) out.push({ ar: arText, en: enText });
 });
 return out;
 }
+
 function importTMXText(text) {
 var arr = parseTMX(text);
 var count = 0;
 arr.forEach(function (x) {
 var before = APP.tus.length;
-addTU(x.ar, x.en, -1, "tmx-import-html-cell");
+addTU(x.ar, x.en, -1, "tmx-import");
 if (APP.tus.length > before) count++;
 });
 APP.built = APP.tus.length > 0;
 return count;
 }
+
 function exportTMX() {
 var body = APP.tus.map(function (tu) {
 return ["<tu>", "<tuv xml:lang=\"ar\"><seg>" + esc(tu.ar) + "</seg></tuv>", "<tuv xml:lang=\"en\"><seg>" + esc(tu.en) + "</seg></tuv>", "</tu>"].join("");
@@ -605,10 +494,11 @@ return ["<tu>", "<tuv xml:lang=\"ar\"><seg>" + esc(tu.ar) + "</seg></tuv>", "<tu
 return [
 "<?xml version=\"1.0\" encoding=\"UTF-8\"?>",
 "<tmx version=\"1.4\">",
-"<header creationtool=\"CAT V47 Cell-Segment Stable Enhanced\" segtype=\"paragraph\" adminlang=\"en\" srclang=\"ar\" datatype=\"PlainText\"/>",
+"<header creationtool=\"CAT V45 Professional Stable Enhanced\" segtype=\"sentence\" adminlang=\"en\" srclang=\"ar\" datatype=\"PlainText\"/>",
 "<body>", body, "</body>", "</tmx>"
 ].join("\n");
 }
+
 function exportXLIFF(results) {
 var units = results.map(function (r, i) {
 return [
@@ -626,6 +516,7 @@ return [
 "<body>", units, "</body>", "</file>", "</xliff>"
 ].join("\n");
 }
+
 function download(name, text, type) {
 var blob = new Blob(["\ufeff", text], { type: type || "text/plain;charset=utf-8" });
 var a = document.createElement("a");
@@ -635,10 +526,329 @@ document.body.appendChild(a);
 a.click();
 setTimeout(function () { URL.revokeObjectURL(a.href); a.remove(); }, 1000);
 }
+
+
+function downloadBytes(name, bytes, type) {
+var blob = new Blob([bytes], { type: type || "application/octet-stream" });
+var a = document.createElement("a");
+a.href = URL.createObjectURL(blob);
+a.download = name;
+document.body.appendChild(a);
+a.click();
+setTimeout(function () { URL.revokeObjectURL(a.href); a.remove(); }, 1000);
+}
+
+function encodeUtf8(s) {
+return new TextEncoder().encode(String(s || ""));
+}
+
+function makeCrcTable() {
+var c;
+var table = [];
+for (var n = 0; n < 256; n++) {
+c = n;
+for (var k = 0; k < 8; k++) {
+c = ((c & 1) ? (0xEDB88320 ^ (c >>> 1)) : (c >>> 1));
+}
+table[n] = c >>> 0;
+}
+return table;
+}
+
+var ZIP_CRC_TABLE = null;
+
+function crc32(bytes) {
+if (!ZIP_CRC_TABLE) ZIP_CRC_TABLE = makeCrcTable();
+var crc = 0 ^ -1;
+for (var i = 0; i < bytes.length; i++) {
+crc = (crc >>> 8) ^ ZIP_CRC_TABLE[(crc ^ bytes[i]) & 0xFF];
+}
+return (crc ^ -1) >>> 0;
+}
+
+function pushU16(arr, v) {
+arr.push(v & 255, (v >>> 8) & 255);
+}
+
+function pushU32(arr, v) {
+arr.push(v & 255, (v >>> 8) & 255, (v >>> 16) & 255, (v >>> 24) & 255);
+}
+
+function concatByteParts(parts) {
+var total = 0;
+parts.forEach(function (p) { total += p.length; });
+var out = new Uint8Array(total);
+var off = 0;
+parts.forEach(function (p) {
+out.set(p, off);
+off += p.length;
+});
+return out;
+}
+
+function dosStamp() {
+var d = new Date();
+var year = Math.max(1980, d.getFullYear());
+return {
+time: (d.getHours() << 11) | (d.getMinutes() << 5) | Math.floor(d.getSeconds() / 2),
+date: ((year - 1980) << 9) | ((d.getMonth() + 1) << 5) | d.getDate()
+};
+}
+
+function bytesFromNumberArray(arr) {
+return new Uint8Array(arr);
+}
+
+async function readZipAllEntries(arrayBuffer) {
+var bytes = new Uint8Array(arrayBuffer);
+var view = new DataView(arrayBuffer);
+var min = Math.max(0, bytes.length - 66000);
+var eocd = -1;
+
+for (var p = bytes.length - 22; p >= min; p--) {
+if (u32(view, p) === 0x06054b50) { eocd = p; break; }
+}
+if (eocd < 0) throw new Error("Invalid DOCX/ZIP file.");
+
+var entriesCount = u16(view, eocd + 10);
+var cdOff = u32(view, eocd + 16);
+var out = [];
+var off = cdOff;
+
+for (var i = 0; i < entriesCount; i++) {
+if (u32(view, off) !== 0x02014b50) break;
+
+var method = u16(view, off + 10);
+var compSize = u32(view, off + 20);
+var nameLen = u16(view, off + 28);
+var extraLen = u16(view, off + 30);
+var commentLen = u16(view, off + 32);
+var localOff = u32(view, off + 42);
+var name = decodeUtf8(bytes.slice(off + 46, off + 46 + nameLen));
+
+if (u32(view, localOff) !== 0x04034b50) throw new Error("Invalid local ZIP header.");
+
+var ln = u16(view, localOff + 26);
+var lx = u16(view, localOff + 28);
+var dataStart = localOff + 30 + ln + lx;
+var comp = bytes.slice(dataStart, dataStart + compSize);
+var raw;
+
+if (method === 0) raw = comp;
+else if (method === 8) raw = await inflateZipData(comp);
+else throw new Error("Unsupported ZIP compression method: " + method);
+
+out.push({ name: name, bytes: raw });
+
+off += 46 + nameLen + extraLen + commentLen;
+}
+
+return out;
+}
+
+function buildZipStored(entries) {
+var localParts = [];
+var centralParts = [];
+var offset = 0;
+var stamp = dosStamp();
+
+entries.forEach(function (entry) {
+var nameBytes = encodeUtf8(entry.name);
+var data = entry.bytes instanceof Uint8Array ? entry.bytes : encodeUtf8(entry.bytes);
+var crc = crc32(data);
+
+var local = [];
+pushU32(local, 0x04034b50);
+pushU16(local, 20);
+pushU16(local, 0x0800);
+pushU16(local, 0);
+pushU16(local, stamp.time);
+pushU16(local, stamp.date);
+pushU32(local, crc);
+pushU32(local, data.length);
+pushU32(local, data.length);
+pushU16(local, nameBytes.length);
+pushU16(local, 0);
+
+var localHeader = concatByteParts([bytesFromNumberArray(local), nameBytes]);
+localParts.push(localHeader);
+localParts.push(data);
+
+var central = [];
+pushU32(central, 0x02014b50);
+pushU16(central, 20);
+pushU16(central, 20);
+pushU16(central, 0x0800);
+pushU16(central, 0);
+pushU16(central, stamp.time);
+pushU16(central, stamp.date);
+pushU32(central, crc);
+pushU32(central, data.length);
+pushU32(central, data.length);
+pushU16(central, nameBytes.length);
+pushU16(central, 0);
+pushU16(central, 0);
+pushU16(central, 0);
+pushU16(central, 0);
+pushU32(central, 0);
+pushU32(central, offset);
+
+centralParts.push(concatByteParts([bytesFromNumberArray(central), nameBytes]));
+
+offset += localHeader.length + data.length;
+});
+
+var centralOffset = offset;
+var centralBytes = concatByteParts(centralParts);
+var centralSize = centralBytes.length;
+
+var end = [];
+pushU32(end, 0x06054b50);
+pushU16(end, 0);
+pushU16(end, 0);
+pushU16(end, entries.length);
+pushU16(end, entries.length);
+pushU32(end, centralSize);
+pushU32(end, centralOffset);
+pushU16(end, 0);
+
+return concatByteParts(localParts.concat([centralBytes, bytesFromNumberArray(end)]));
+}
+
+function docxTextXmlPaths(entries) {
+var order = [
+"word/document.xml",
+"word/footnotes.xml",
+"word/endnotes.xml",
+"word/comments.xml"
+];
+entries.forEach(function (e) {
+if (/^word\/header\d+\.xml$/i.test(e.name)) order.push(e.name);
+if (/^word\/footer\d+\.xml$/i.test(e.name)) order.push(e.name);
+});
+var available = Object.create(null);
+entries.forEach(function (e) { available[e.name] = true; });
+var seen = Object.create(null);
+return order.filter(function (p) {
+if (!available[p] || seen[p]) return false;
+seen[p] = true;
+return true;
+});
+}
+
+function parseDocxPackage(arrayBuffer) {
+return readZipAllEntries(arrayBuffer).then(function (entries) {
+var xmlDocs = Object.create(null);
+var paragraphs = [];
+var paths = docxTextXmlPaths(entries);
+
+paths.forEach(function (path) {
+var entry = entries.find(function (x) { return x.name === path; });
+if (!entry) return;
+
+var xmlText = decodeUtf8(entry.bytes);
+var xml = new DOMParser().parseFromString(xmlText, "application/xml");
+
+var ps = Array.prototype.slice.call(xml.getElementsByTagNameNS("*", "p"));
+ps.forEach(function (p) {
+var nodes = Array.prototype.slice.call(p.getElementsByTagNameNS("*", "t"));
+if (!nodes.length) return;
+
+var tx = flat(nodes.map(function (n) { return n.textContent || ""; }).join(""));
+if (!tx) return;
+
+paragraphs.push({
+path: path,
+p: p,
+nodes: nodes,
+text: tx
+});
+});
+
+xmlDocs[path] = xml;
+});
+
+return {
+entries: entries,
+xmlDocs: xmlDocs,
+paragraphs: paragraphs,
+text: paragraphs.map(function (p) { return p.text; }).join("\n")
+};
+});
+}
+
+function setParagraphTargetText(paragraph, targetText) {
+var nodes = paragraph.nodes || [];
+if (!nodes.length) return;
+
+targetText = asc(String(targetText || "")).replace(/\r?\n+/g, " ").trim();
+
+nodes[0].textContent = targetText;
+try { nodes[0].setAttribute("xml:space", "preserve"); } catch (e) {}
+
+for (var i = 1; i < nodes.length; i++) {
+nodes[i].textContent = "";
+}
+}
+
+function splitParagraphSegments(text, forcedLang) {
+var lines = String(text || "")
+.replace(/\r/g, "\n")
+.split(/\n+/)
+.map(flat)
+.filter(Boolean);
+
+return lines.map(function (line, i) {
+return { text: line, lang: forcedLang || lang(line), paraIndex: i };
+});
+}
+
+async function createTargetDocxSameFormat(results) {
+if (!APP.sourceDocxArrayBuffer) {
+throw new Error("لم يتم استيراد ملف DOCX مصدر. استورد ملف Word أولًا.");
+}
+
+var pkg = await parseDocxPackage(APP.sourceDocxArrayBuffer);
+var serializer = new XMLSerializer();
+
+var targets = results.map(function (r) {
+return flat(r.target || r.best || "");
+});
+
+if (!targets.length) {
+throw new Error("لا توجد نتائج هدف للتصدير. حلّل النص واعتمد الترجمات أولًا.");
+}
+
+if (targets.length !== pkg.paragraphs.length) {
+throw new Error(
+"عدد فقرات القالب لا يساوي عدد نتائج الترجمة. " +
+"لأفضل نتيجة، استورد DOCX ثم اضغط تحليل مباشرة دون تقسيم يدوي. " +
+"فقرات القالب: " + asc(pkg.paragraphs.length) +
+" / نتائج الهدف: " + asc(targets.length)
+);
+}
+
+pkg.paragraphs.forEach(function (p, i) {
+setParagraphTargetText(p, targets[i] || "");
+});
+
+var finalEntries = pkg.entries.map(function (entry) {
+var xml = pkg.xmlDocs[entry.name];
+if (xml) {
+return { name: entry.name, bytes: encodeUtf8(serializer.serializeToString(xml)) };
+}
+return entry;
+});
+
+return buildZipStored(finalEntries);
+}
+
 function dtok(s) {
 return String(s || "").match(/[\u0600-\u06FFA-Za-z0-9]+|[%\u066a\/\.\-]+|[^\s\u0600-\u06FFA-Za-z0-9]+/g) || [];
 }
+
 function tokenKey(s, l) { return stripToken(s, l); }
+
 function diffParts(oldText, newText, l) {
 var a = dtok(oldText).slice(0, 260);
 var b = dtok(newText).slice(0, 260);
@@ -665,6 +875,7 @@ while (i < n) { out.push({ t: "del", x: a[i] }); i++; }
 while (j < m) { out.push({ t: "ins", x: b[j] }); j++; }
 return out;
 }
+
 function diffHtml(oldText, newText, l) {
 if (!oldText) return "<span class='muted'>\u0644\u0627 \u064a\u0648\u062c\u062f \u0646\u0635 \u0645\u0634\u0627\u0628\u0647 \u0644\u0644\u0645\u0642\u0627\u0631\u0646\u0629.</span>";
 return diffParts(oldText, newText, l).map(function (p) {
@@ -673,6 +884,7 @@ if (p.t === "ins") return "<ins>" + esc(p.x) + "</ins>";
 return "<span>" + esc(p.x) + "</span>";
 }).join(" ");
 }
+
 function createReport(results) {
 var rows = results.map(function (r, i) {
 var issues = qaIssues(r.segment.text, r.target || "");
@@ -689,14 +901,15 @@ return [
 }).join("\n");
 return [
 "<!doctype html><html><head><meta charset='utf-8'>",
-"<title>CAT V47 QA Report</title>",
+"<title>CAT V45 QA Report</title>",
 "<style>body{font-family:Segoe UI,Tahoma,Arial;margin:24px;background:#f8fafc;color:#111827}table{border-collapse:collapse;width:100%;background:#fff}th,td{border:1px solid #dbe2ea;padding:8px;vertical-align:top}th{background:#eaf1ff}</style>",
-"</head><body><h2>CAT V47 Cell-Segment \u2014 QA Report</h2><table>",
+"</head><body><h2>CAT V45 Professional \u2014 QA Report</h2><table>",
 "<tr><th>#</th><th>Source</th><th>Target</th><th>Match</th><th>Status</th><th>QA</th></tr>",
 rows,
 "</table></body></html>"
 ].join("");
 }
+
 function createWord(results) {
 var rows = results.map(function (r, i) {
 var needs = r.status === "Needs" || !r.target;
@@ -717,6 +930,7 @@ return [
 "</tr>"
 ].join("");
 }).join("\n");
+
 return [
 "<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word'>",
 "<head><meta charset='utf-8'>",
@@ -739,13 +953,14 @@ return [
 ".muted{color:#6B7280}",
 "</style></head>",
 "<body><div class='Section1'>",
-"<h2 style='text-align:center;color:#1D4ED8;font-family:Segoe UI,Arial'>CAT V47 Cell-Segment \u2014 Word A3 with Visual Track Changes</h2>",
+"<h2 style='text-align:center;color:#1D4ED8;font-family:Segoe UI,Arial'>CAT V45 Professional \u2014 Word A3 with Visual Track Changes</h2>",
 "<table>",
 "<tr><th>#</th><th>Source Segment</th><th>Best Match</th><th>Match</th><th>Target Draft</th><th>Track Changes</th><th>Status</th></tr>",
 rows,
 "</table></div></body></html>"
 ].join("");
 }
+
 function getSuggestions(src, targetLang) {
 var out = [];
 var srcLoose = loose(src);
@@ -756,11 +971,15 @@ if (targetLang === "ar" && srcLoose.indexOf(loose(t.en)) >= 0) out.push(t.ar);
 });
 return out.slice(0, 8);
 }
+
+
 function u16(view, off) { return view.getUint16(off, true); }
 function u32(view, off) { return view.getUint32(off, true); }
+
 function decodeUtf8(bytes) {
 return new TextDecoder("utf-8").decode(bytes);
 }
+
 async function inflateZipData(bytes) {
 if (typeof DecompressionStream === "undefined") {
 throw new Error("This Chrome version cannot unzip DOCX locally. Update Chrome, then try again.");
@@ -779,6 +998,7 @@ throw new Error("Unable to unzip DOCX content in this browser.");
 }
 }
 }
+
 async function readZipEntry(arrayBuffer, wantedNames) {
 var bytes = new Uint8Array(arrayBuffer);
 var view = new DataView(arrayBuffer);
@@ -788,12 +1008,14 @@ for (var p = bytes.length - 22; p >= min; p--) {
 if (u32(view, p) === 0x06054b50) { eocd = p; break; }
 }
 if (eocd < 0) throw new Error("Invalid DOCX/ZIP file.");
+
 var entries = u16(view, eocd + 10);
 var cdOff = u32(view, eocd + 16);
 var wanted = Object.create(null);
 wantedNames.forEach(function (n) { wanted[n] = true; });
 var found = Object.create(null);
 var off = cdOff;
+
 for (var i = 0; i < entries; i++) {
 if (u32(view, off) !== 0x02014b50) break;
 var method = u16(view, off + 10);
@@ -803,6 +1025,7 @@ var extraLen = u16(view, off + 30);
 var commentLen = u16(view, off + 32);
 var localOff = u32(view, off + 42);
 var name = decodeUtf8(bytes.slice(off + 46, off + 46 + nameLen));
+
 if (wanted[name]) {
 if (u32(view, localOff) !== 0x04034b50) throw new Error("Invalid local ZIP header.");
 var ln = u16(view, localOff + 26);
@@ -815,14 +1038,17 @@ else if (method === 8) raw = await inflateZipData(comp);
 else throw new Error("Unsupported ZIP compression method: " + method);
 found[name] = decodeUtf8(raw);
 }
+
 off += 46 + nameLen + extraLen + commentLen;
 }
 return found;
 }
+
 function extractTextFromWordXml(xmlText) {
 var xml = new DOMParser().parseFromString(xmlText, "application/xml");
 var paras = Array.prototype.slice.call(xml.getElementsByTagNameNS("*", "p"));
 var lines = [];
+
 paras.forEach(function (p) {
 var parts = [];
 var nodes = p.getElementsByTagNameNS("*", "t");
@@ -830,6 +1056,7 @@ for (var i = 0; i < nodes.length; i++) parts.push(nodes[i].textContent || "");
 var line = flat(parts.join(""));
 if (line) lines.push(line);
 });
+
 if (!lines.length) {
 var allT = Array.prototype.slice.call(xml.getElementsByTagNameNS("*", "t"));
 allT.forEach(function (t) {
@@ -839,6 +1066,7 @@ if (x) lines.push(x);
 }
 return lines.join("\n");
 }
+
 async function extractDocxText(file) {
 var names = [
 "word/document.xml",
@@ -864,6 +1092,123 @@ var out = sections.join("\n");
 if (!flat(out)) throw new Error("No readable text found in the DOCX file.");
 return out;
 }
+
+
+function uint8ToExactArrayBuffer(u8) {
+var copy = new Uint8Array(u8.length);
+copy.set(u8);
+return copy.buffer;
+}
+
+function cellTextFromTc(tc) {
+var parts = [];
+var ps = Array.prototype.slice.call(tc.getElementsByTagNameNS("*", "p"));
+if (ps.length) {
+ps.forEach(function (p) {
+var ts = Array.prototype.slice.call(p.getElementsByTagNameNS("*", "t"));
+var line = flat(ts.map(function (t) { return t.textContent || ""; }).join(""));
+if (line) parts.push(line);
+});
+} else {
+var allT = Array.prototype.slice.call(tc.getElementsByTagNameNS("*", "t"));
+var tx = flat(allT.map(function (t) { return t.textContent || ""; }).join(""));
+if (tx) parts.push(tx);
+}
+return flat(parts.join("\n"));
+}
+
+function bestArabicCell(cells) {
+var best = null;
+var score = 0;
+cells.forEach(function (c, idx) {
+var sc = arCount(c.text) * 3 - enCount(c.text);
+if (hasAr(c.text) && sc > score) { score = sc; best = { index: idx, text: c.text }; }
+});
+return best;
+}
+
+function bestEnglishCell(cells, excludeIndex) {
+var best = null;
+var score = 0;
+cells.forEach(function (c, idx) {
+if (idx === excludeIndex) return;
+var sc = enCount(c.text) * 3 - arCount(c.text);
+if (hasEn(c.text) && sc > score) { score = sc; best = { index: idx, text: c.text }; }
+});
+return best;
+}
+
+async function extractBilingualPairsFromDocxBytes(bytes, fileName) {
+var ab = bytes instanceof Uint8Array ? uint8ToExactArrayBuffer(bytes) : bytes;
+var pkg = await parseDocxPackage(ab);
+var entry = pkg.entries.find(function (x) { return /^word\/document\.xml$/i.test(x.name); });
+if (!entry) return [];
+
+var xml = new DOMParser().parseFromString(decodeUtf8(entry.bytes), "application/xml");
+var tables = Array.prototype.slice.call(xml.getElementsByTagNameNS("*", "tbl"));
+var pairs = [];
+
+function addPair(arText, enText, mode) {
+arText = flat(arText);
+enText = flat(enText);
+if (!arText || !enText) return;
+if (!hasAr(arText) || !hasEn(enText)) return;
+if (arText.length < 2 || enText.length < 2) return;
+pairs.push({ ar: arText, en: enText, file: fileName || "", mode: mode || "docx-table" });
+}
+
+tables.forEach(function (tbl) {
+var rows = Array.prototype.slice.call(tbl.getElementsByTagNameNS("*", "tr"));
+rows.forEach(function (tr) {
+var tcs = Array.prototype.slice.call(tr.getElementsByTagNameNS("*", "tc"));
+var cells = tcs.map(function (tc) { return { text: cellTextFromTc(tc) }; }).filter(function (c) { return !!c.text; });
+if (cells.length < 2) return;
+var arCell = bestArabicCell(cells);
+var enCell = bestEnglishCell(cells, arCell ? arCell.index : -1);
+if (arCell && enCell) addPair(arCell.text, enCell.text, "docx-table-row");
+});
+});
+
+return pairs;
+}
+
+async function importDocxZipAsTM(file, ui) {
+var zipEntries = await readZipAllEntries(await file.arrayBuffer());
+var docxEntries = zipEntries.filter(function (e) {
+return /\.docx$/i.test(e.name) && !/(^|\/)~\$/i.test(e.name) && e.bytes && e.bytes.length;
+});
+if (!docxEntries.length) throw new Error("لم يتم العثور على ملفات DOCX داخل ملف ZIP.");
+
+var totalPairs = 0;
+var added = 0;
+var failed = 0;
+var beforeAll = APP.tus.length;
+APP.stop = false;
+
+for (var i = 0; i < docxEntries.length; i++) {
+if (APP.stop) break;
+var entry = docxEntries[i];
+try {
+ui.progress(i, docxEntries.length);
+ui.status("استيراد Word ZIP: " + asc(i + 1) + " / " + asc(docxEntries.length) + " — " + entry.name);
+var pairs = await extractBilingualPairsFromDocxBytes(entry.bytes, entry.name);
+totalPairs += pairs.length;
+pairs.forEach(function (p) {
+var before = APP.tus.length;
+addTU(p.ar, p.en, -1, "zip-word:" + entry.name);
+if (APP.tus.length > before) added++;
+});
+} catch (e) {
+failed++;
+}
+if (i % 5 === 0) await new Promise(function (resolve) { setTimeout(resolve, 1); });
+}
+
+APP.built = APP.tus.length > 0;
+ui.progress(docxEntries.length, docxEntries.length);
+return { files: docxEntries.length, totalPairs: totalPairs, added: added, failed: failed, totalTM: APP.tus.length, before: beforeAll };
+}
+
 function createHost() {
 var old = document.getElementById(APP.hostId);
 if (old) return old;
@@ -873,9 +1218,11 @@ host.style.all = "initial";
 document.documentElement.appendChild(host);
 return host;
 }
+
 function initUI() {
 var host = createHost();
 var shadow = host.shadowRoot || host.attachShadow({ mode: "open" });
+
 shadow.innerHTML = [
 "<style>",
 ":host{all:initial}",
@@ -936,9 +1283,11 @@ shadow.innerHTML = [
 ".targetDraft.ar{font-family:'GE SS Two Light','GE SS Light Text',Tahoma,Arial;font-size:15px;text-align:justify;text-justify:kashida}",
 ".targetDraft.en{font-family:'Segoe UI',Segoe,Arial;font-size:15px;text-align:justify}",
 "</style>",
-"<button class='fab' id='fab'>CAT V47 Cell</button>",
+
+"<button class='fab' id='fab'>CAT V45 Pro</button>",
 "<section class='panel' id='panel'>",
-"<div class='top'><button class='close' id='close'>\xd7</button><div class='topTools'><button class='iconBtn' id='toggleSourceIcon' title='\u0637\u064a/\u0625\u0638\u0647\u0627\u0631 \u0644\u0648\u062d\u0629 \u0627\u0644\u0645\u0635\u062f\u0631'>SRC</button><button class='iconBtn' id='toggleHtmlIcon' title='\u0625\u062e\u0641\u0627\u0621/\u0625\u0638\u0647\u0627\u0631 \u0645\u062d\u062a\u0648\u0649 HTML'>HTML</button></div><div class='title'>CAT Translation Memory V47 Cell-Segment Professional</div></div>",
+"<div class='top'><button class='close' id='close'>\xd7</button><div class='topTools'><button class='iconBtn' id='toggleSourceIcon' title='\u0637\u064a/\u0625\u0638\u0647\u0627\u0631 \u0644\u0648\u062d\u0629 \u0627\u0644\u0645\u0635\u062f\u0631'>SRC</button><button class='iconBtn' id='toggleHtmlIcon' title='\u0625\u062e\u0641\u0627\u0621/\u0625\u0638\u0647\u0627\u0631 \u0645\u062d\u062a\u0648\u0649 HTML'>HTML</button></div><div class='title'>CAT Translation Memory V45 Professional Stable Enhanced</div></div>",
+
 "<div class='dash'>",
 "<div class='statCard'><div class='lab'>\u0645\u0639\u062f\u0644 \u0627\u0644\u062a\u0637\u0627\u0628\u0642 \u0645\u0646 100</div><div class='val' id='avgStat'>0%</div></div>",
 "<div class='statCard'><div class='lab'>Segments</div><div class='val' id='segStat'>0</div></div>",
@@ -946,6 +1295,7 @@ shadow.innerHTML = [
 "<div class='statCard'><div class='lab'>Needs Translation</div><div class='val' id='needsStat'>0</div></div>",
 "<div class='statCard'><div class='lab'>Needs Review</div><div class='val' id='reviewStat'>0</div></div>",
 "</div>",
+
 "<div class='body'>",
 "<aside class='side'>",
 "<button class='green' id='build'>\u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629</button>",
@@ -955,6 +1305,7 @@ shadow.innerHTML = [
 "<button id='concordance'>\u0628\u062d\u062b Concordance</button>",
 "<input id='concordQ' placeholder='\u0628\u062d\u062b \u0641\u064a \u0627\u0644\u0630\u0627\u0643\u0631\u0629...' style='padding:0 8px'>",
 "<button id='importDOCX'>Import Word DOCX</button>",
+"<button id='importDOCXZip'>استيراد ZIP Word كذاكرة</button>",
 "<button id='importTerms'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f \u0645\u0635\u0637\u0644\u062d\u0627\u062a CSV</button>",
 "<button id='importTMX'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f TMX</button>",
 "<button id='exportTMX'>\u062a\u0635\u062f\u064a\u0631 TMX</button>",
@@ -963,6 +1314,7 @@ shadow.innerHTML = [
 "<button id='loadProject'>\u0641\u062a\u062d \u0645\u0634\u0631\u0648\u0639 JSON</button>",
 "<button id='report'>\u062a\u0642\u0631\u064a\u0631 HTML</button>",
 "<button id='word'>Word A3 + Track Changes</button>",
+"<button id='wordSameFormat'>تصدير DOCX بنفس تنسيق المصدر</button>",
 "<button id='clear'>\u0645\u0633\u062d \u0627\u0644\u0646\u062a\u0627\u0626\u062c</button>",
 "<button class='red' id='stop'>\u0625\u064a\u0642\u0627\u0641</button>",
 "<select id='slang'><option value='auto'>\u062a\u0644\u0642\u0627\u0626\u064a</option><option value='ar'>\u0639\u0631\u0628\u064a \u2190 \u0625\u0646\u062c\u0644\u064a\u0632\u064a</option><option value='en'>English \u2192 Arabic</option></select>",
@@ -970,6 +1322,7 @@ shadow.innerHTML = [
 "<div class='statusBox' id='status'>\u062c\u0627\u0647\u0632. \u0627\u0636\u063a\u0637 \xab\u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629\xbb \u0623\u0648\u0644\u064b\u0627.</div>",
 "<div class='mini'>Local only \xb7 No network \xb7 No CDN \xb7 No external API</div>",
 "</aside>",
+
 "<main class='mainbox'>",
 "<div class='inputArea'><textarea id='source' placeholder='\u0623\u0644\u0635\u0642 \u0647\u0646\u0627 \u0627\u0644\u0646\u0635 \u0627\u0644\u0639\u0631\u0628\u064a \u0623\u0648 \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a \u0627\u0644\u0645\u0631\u0627\u062f \u062a\u062d\u0644\u064a\u0644\u0647...'></textarea></div>",
 "<div class='tablewrap'>",
@@ -980,18 +1333,22 @@ shadow.innerHTML = [
 "</div>",
 "</main>",
 "</div>",
+
 "<input class='hiddenFile' id='fileDOCX' type='file' accept='.docx,application/vnd.openxmlformats-officedocument.wordprocessingml.document'>",
+"<input class='hiddenFile' id='fileDOCXZip' type='file' accept='.zip,application/zip,application/x-zip-compressed'>",
 "<input class='hiddenFile' id='fileTerms' type='file' accept='.csv,.txt'>",
 "<input class='hiddenFile' id='fileTMX' type='file' accept='.tmx,.xml,.txt'>",
 "<input class='hiddenFile' id='fileProject' type='file' accept='.json'>",
 "</section>"
 ].join("");
+
 var $ = function (s) { return shadow.querySelector(s); };
 var panel = $("#panel");
 var status = $("#status");
 var fill = $("#fill");
 var res = $("#res");
 var source = $("#source");
+
 var ui = {
 status: function (m) { status.textContent = m; },
 progress: function (done, total) {
@@ -999,8 +1356,10 @@ var p = total ? Math.round(done / total * 100) : 0;
 fill.style.width = p + "%";
 }
 };
+
 function open() { panel.classList.add("open"); }
 function close() { panel.classList.remove("open"); }
+
 function setSourceCollapsed(collapsed) {
 collapsed = !!collapsed;
 panel.classList.toggle("sourceCollapsed", collapsed);
@@ -1020,6 +1379,7 @@ btn.setAttribute("aria-pressed", collapsed ? "true" : "false");
 }
 ui.status(collapsed ? "\u062a\u0645 \u0625\u062e\u0641\u0627\u0621 \u0644\u0648\u062d\u0629 \u0627\u0644\u0645\u0635\u062f\u0631." : "\u062a\u0645 \u0625\u0638\u0647\u0627\u0631 \u0644\u0648\u062d\u0629 \u0627\u0644\u0645\u0635\u062f\u0631.");
 }
+
 function setHtmlHidden(hidden) {
 hidden = !!hidden;
 var sid = APP.hostId + "-page-hide-style";
@@ -1042,6 +1402,7 @@ btn.setAttribute("aria-pressed", hidden ? "true" : "false");
 }
 ui.status(hidden ? "\u062a\u0645 \u0625\u062e\u0641\u0627\u0621 \u0645\u062d\u062a\u0648\u0649 \u0635\u0641\u062d\u0629 HTML." : "\u062a\u0645 \u0625\u0638\u0647\u0627\u0631 \u0645\u062d\u062a\u0648\u0649 \u0635\u0641\u062d\u0629 HTML.");
 }
+
 function updateStats() {
 var total = APP.results.length;
 var sum = 0;
@@ -1053,7 +1414,7 @@ var sc = +r.score || 0;
 var issues = qaIssues(r.segment.text, r.target || "");
 sum += sc;
 if (r.status === "Needs" || !flat(r.target || "")) needs++;
-else if (isConfirmedStatus(r.status) && sc >= 95 && !issues.length) confirmed++;
+else if (r.status === "Confirmed" && sc >= 95 && !issues.length) confirmed++;
 else review++;
 });
 var avg = total ? Math.round(sum / total) : 0;
@@ -1067,6 +1428,7 @@ $("#needsStat").style.color = needs ? "#DC2626" : "#168A45";
 $("#reviewStat").textContent = asc(review);
 $("#reviewStat").style.color = review ? "#F59E0B" : "#168A45";
 }
+
 function updateStoredTargets() {
 var boxes = Array.prototype.slice.call(res.querySelectorAll(".targetDraft"));
 boxes.forEach(function (b) {
@@ -1074,12 +1436,13 @@ var i = +b.getAttribute("data-i");
 if (APP.results[i]) {
 APP.results[i].target = b.value || "";
 if (!APP.results[i].target) APP.results[i].status = "Needs";
-else if ((+APP.results[i].score || 0) >= 95 && !qaIssues(APP.results[i].segment.text, APP.results[i].target).length) APP.results[i].status = isConfirmedStatus(APP.results[i].status) ? APP.results[i].status : "Confirmed";
+else if ((+APP.results[i].score || 0) >= 95 && !qaIssues(APP.results[i].segment.text, APP.results[i].target).length) APP.results[i].status = "Confirmed";
 else APP.results[i].status = "Review";
 }
 });
 updateStats();
 }
+
 function renderResults(results) {
 res.innerHTML = "";
 if (!results.length) {
@@ -1087,6 +1450,7 @@ res.innerHTML = "<tr><td colspan='6' style='text-align:center;padding:30px;color
 updateStats();
 return;
 }
+
 var frag = document.createDocumentFragment();
 results.forEach(function (r, i) {
 var tr = document.createElement("tr");
@@ -1097,7 +1461,8 @@ var tgtClass = r.targetLang === "ar" ? "ar" : "en";
 var qa = qaIssues(r.segment.text, r.target || "");
 var suggestions = getSuggestions(r.segment.text, r.targetLang);
 var mColor = matchColor(r.score);
-var pillClass = isConfirmedStatus(r.status) ? "pill confirmed" : "pill";
+var pillClass = r.status === "Confirmed" ? "pill confirmed" : "pill";
+
 tr.innerHTML =
 "<td class='num'>" + esc(i + 1) + "</td>" +
 "<td class='src " + srcClass + "'>" + esc(r.segment.text) + "</td>" +
@@ -1115,6 +1480,7 @@ tr.innerHTML =
 frag.appendChild(tr);
 });
 res.appendChild(frag);
+
 Array.prototype.slice.call(res.querySelectorAll(".sug")).forEach(function (btn) {
 btn.onclick = function () {
 var area = btn.closest("td").querySelector("textarea");
@@ -1129,6 +1495,7 @@ area.oninput = function () { updateStoredTargets(); };
 });
 updateStats();
 }
+
 function analyze() {
 if (!APP.built || !APP.tus.length) { ui.status("\u0627\u0628\u0646\u0650 \u0627\u0644\u0630\u0627\u0643\u0631\u0629 \u0623\u0648\u0644\u064b\u0627 \u0628\u0627\u0644\u0636\u063a\u0637 \u0639\u0644\u0649 \xab\u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629\xbb."); return; }
 APP.stop = false;
@@ -1136,7 +1503,7 @@ var v = source.value.trim();
 if (!v) { ui.status("\u0623\u0644\u0635\u0642 \u0627\u0644\u0646\u0635 \u0623\u0648\u0644\u064b\u0627."); return; }
 var forced = $("#slang").value;
 var L = forced === "auto" ? null : forced;
-var segs = splitSegments(v, L);
+var segs = APP.keepDocxParagraphs ? splitParagraphSegments(v, L) : splitSegments(v, L);
 if (!segs.length) { ui.status("\u0644\u0645 \u0623\u062c\u062f Segments \u0642\u0627\u0628\u0644\u0629 \u0644\u0644\u062a\u062d\u0644\u064a\u0644."); return; }
 APP.results = [];
 res.innerHTML = "";
@@ -1144,6 +1511,7 @@ ui.status("\u062c\u0627\u0631\u064a \u0627\u0644\u062a\u062d\u0644\u064a\u0644..
 ui.progress(0, segs.length);
 updateStats();
 var i = 0;
+
 function step() {
 if (APP.stop) { ui.status("\u062a\u0645 \u0625\u064a\u0642\u0627\u0641 \u0627\u0644\u062a\u062d\u0644\u064a\u0644."); return; }
 var end = Math.min(i + 15, segs.length);
@@ -1169,9 +1537,11 @@ else { ui.status("\u0627\u0643\u062a\u0645\u0644 \u0627\u0644\u062a\u062d\u0644\
 }
 step();
 }
+
 $("#fab").onclick = open;
 $("#close").onclick = close;
-window.addEventListener("CAT_V47_PRO_OPEN", open);
+window.addEventListener("CAT_V45_PRO_OPEN", open);
+
 $("#toggleSourceIcon").onclick = function () { setSourceCollapsed(!panel.classList.contains("sourceCollapsed")); };
 $("#toggleHtmlIcon").onclick = function () { setHtmlHidden(!document.getElementById(APP.hostId + "-page-hide-style")); };
 setSourceCollapsed(false);
@@ -1179,22 +1549,25 @@ setHtmlHidden(false);
 $("#build").onclick = function () { APP.stop = false; buildMemory(ui); };
 $("#analyze").onclick = analyze;
 $("#stop").onclick = function () { APP.stop = true; ui.status("\u062c\u0627\u0631\u064a \u0627\u0644\u0625\u064a\u0642\u0627\u0641..."); };
+
 $("#acceptAll").onclick = function () {
 APP.results.forEach(function (r) {
 if (r.best) {
 r.target = r.best;
-r.status = r.score >= 95 && !qaIssues(r.segment.text, r.target).length ? (isConfirmedStatus(r.status) ? r.status : "Confirmed") : "Review";
+r.status = r.score >= 95 && !qaIssues(r.segment.text, r.target).length ? "Confirmed" : "Review";
 }
 });
 renderResults(APP.results);
 ui.status("\u062a\u0645 \u0627\u0639\u062a\u0645\u0627\u062f \u0623\u0641\u0636\u0644 \u0627\u0644\u0645\u0637\u0627\u0628\u0642\u0627\u062a.");
 };
+
 $("#copy").onclick = function () {
 updateStoredTargets();
 var text = APP.results.map(function (r) { return r.target || ""; }).filter(Boolean).join("\n\n");
 if (navigator.clipboard) navigator.clipboard.writeText(text);
 ui.status("\u062a\u0645 \u0646\u0633\u062e Target Draft.");
 };
+
 $("#clear").onclick = function () {
 APP.results = [];
 res.innerHTML = "<tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>\u062a\u0645 \u0627\u0644\u0645\u0633\u062d.</td></tr>";
@@ -1202,6 +1575,7 @@ ui.progress(0, 0);
 ui.status("\u062a\u0645 \u0645\u0633\u062d \u0627\u0644\u0646\u062a\u0627\u0626\u062c.");
 updateStats();
 };
+
 $("#concordance").onclick = function () {
 var q = flat($("#concordQ").value || "");
 if (!q) { ui.status("\u0627\u0643\u062a\u0628 \u0643\u0644\u0645\u0629 \u0623\u0648 \u0639\u0628\u0627\u0631\u0629 \u0644\u0644\u0628\u062d\u062b \u0641\u064a Concordance."); return; }
@@ -1222,28 +1596,62 @@ APP.results = matches.slice(0, 80);
 renderResults(APP.results);
 ui.status("\u0646\u062a\u0627\u0626\u062c Concordance: " + asc(APP.results.length));
 };
+
+
 $("#importDOCX").onclick = function () { $("#fileDOCX").click(); };
 $("#fileDOCX").onchange = async function () {
 var f = $("#fileDOCX").files && $("#fileDOCX").files[0];
 if (!f) return;
 try {
-ui.status("Reading Word DOCX locally...");
-var txt = await extractDocxText(f);
-source.value = txt;
+ui.status("Reading Word DOCX locally as source template...");
+
+var ab = await f.arrayBuffer();
+APP.sourceDocxArrayBuffer = ab;
+APP.sourceDocxName = f.name || "source.docx";
+APP.keepDocxParagraphs = true;
+
+var pkg = await parseDocxPackage(ab);
+source.value = pkg.text;
 setSourceCollapsed(false);
-var count = txt.split(/\n+/).filter(function (x) { return flat(x); }).length;
-ui.status("DOCX imported: " + asc(count) + " segments. Now press Analyze.");
+
+ui.status("تم استيراد DOCX كقالب مصدر. الفقرات: " + asc(pkg.paragraphs.length) + ". الآن اضغط تحليل، ثم صدّر بنفس تنسيق المصدر.");
 } catch (e) {
+APP.sourceDocxArrayBuffer = null;
+APP.sourceDocxName = "";
+APP.keepDocxParagraphs = false;
 ui.status("DOCX import failed: " + (e && e.message ? e.message : e));
 }
+
 $("#fileDOCX").value = "";
 };
+
+$("#importDOCXZip").onclick = function () { $("#fileDOCXZip").click(); };
+$("#fileDOCXZip").onchange = async function () {
+var f = $("#fileDOCXZip").files && $("#fileDOCXZip").files[0];
+if (!f) return;
+try {
+ui.status("جاري استيراد ZIP Word كذاكرة ترجمة...");
+var summary = await importDocxZipAsTM(f, ui);
+ui.status(
+"تم استيراد ZIP Word. الملفات: " + asc(summary.files) +
+" — الأزواج المستخرجة: " + asc(summary.totalPairs) +
+" — المضافة بعد حذف التكرار: " + asc(summary.added) +
+" — إجمالي TM: " + asc(summary.totalTM) +
+(summary.failed ? " — ملفات تعذر قراءتها: " + asc(summary.failed) : "")
+);
+} catch (e) {
+ui.status("فشل استيراد ZIP Word: " + (e && e.message ? e.message : e));
+}
+$("#fileDOCXZip").value = "";
+};
+
 $("#importTerms").onclick = function () { $("#fileTerms").click(); };
 $("#fileTerms").onchange = function () {
 var f = $("#fileTerms").files && $("#fileTerms").files[0];
 if (!f) return;
 f.text().then(function (txt) { APP.terms = parseCSV(txt); ui.status("\u062a\u0645 \u0627\u0633\u062a\u064a\u0631\u0627\u062f \u0627\u0644\u0645\u0635\u0637\u0644\u062d\u0627\u062a: " + asc(APP.terms.length)); });
 };
+
 $("#importTMX").onclick = function () { $("#fileTMX").click(); };
 $("#fileTMX").onchange = function () {
 var f = $("#fileTMX").files && $("#fileTMX").files[0];
@@ -1253,14 +1661,17 @@ var count = importTMXText(txt);
 ui.status("\u062a\u0645 \u0627\u0633\u062a\u064a\u0631\u0627\u062f TMX. \u0627\u0644\u0648\u062d\u062f\u0627\u062a \u0627\u0644\u0645\u0636\u0627\u0641\u0629: " + asc(count) + " \u2014 \u0625\u062c\u0645\u0627\u0644\u064a TM: " + asc(APP.tus.length));
 });
 };
-$("#exportTMX").onclick = function () { download("cat_v46_memory.tmx", exportTMX(), "application/xml;charset=utf-8"); ui.status("\u062a\u0645 \u062a\u0635\u062f\u064a\u0631 TMX."); };
-$("#exportXLIFF").onclick = function () { updateStoredTargets(); download("cat_v46_project.xlf", exportXLIFF(APP.results), "application/xml;charset=utf-8"); ui.status("\u062a\u0645 \u062a\u0635\u062f\u064a\u0631 XLIFF."); };
+
+$("#exportTMX").onclick = function () { download("cat_v45_memory.tmx", exportTMX(), "application/xml;charset=utf-8"); ui.status("\u062a\u0645 \u062a\u0635\u062f\u064a\u0631 TMX."); };
+$("#exportXLIFF").onclick = function () { updateStoredTargets(); download("cat_v45_project.xlf", exportXLIFF(APP.results), "application/xml;charset=utf-8"); ui.status("\u062a\u0645 \u062a\u0635\u062f\u064a\u0631 XLIFF."); };
+
 $("#saveProject").onclick = function () {
 updateStoredTargets();
-var project = { app: "CAT V47 Cell-Segment Stable Enhanced", version: APP.version, date: new Date().toISOString(), terms: APP.terms, results: APP.results };
-download("cat_v46_project.json", JSON.stringify(project, null, 2), "application/json;charset=utf-8");
+var project = { app: "CAT V45 Professional Stable Enhanced", version: APP.version, date: new Date().toISOString(), terms: APP.terms, results: APP.results };
+download("cat_v45_project.json", JSON.stringify(project, null, 2), "application/json;charset=utf-8");
 ui.status("\u062a\u0645 \u062d\u0641\u0638 \u0627\u0644\u0645\u0634\u0631\u0648\u0639.");
 };
+
 $("#loadProject").onclick = function () { $("#fileProject").click(); };
 $("#fileProject").onchange = function () {
 var f = $("#fileProject").files && $("#fileProject").files[0];
@@ -1275,13 +1686,40 @@ ui.status("\u062a\u0645 \u0641\u062a\u062d \u0627\u0644\u0645\u0634\u0631\u0648\
 } catch (e) { ui.status("\u062a\u0639\u0630\u0631 \u0641\u062a\u062d \u0627\u0644\u0645\u0634\u0631\u0648\u0639: " + e.message); }
 });
 };
-$("#report").onclick = function () { updateStoredTargets(); download("cat_v46_qa_report.html", createReport(APP.results), "text/html;charset=utf-8"); ui.status("\u062a\u0645 \u062a\u0635\u062f\u064a\u0631 \u062a\u0642\u0631\u064a\u0631 HTML."); };
-$("#word").onclick = function () { updateStoredTargets(); download("cat_v46_word_a3_track_changes.doc", createWord(APP.results), "application/msword;charset=utf-8"); ui.status("\u062a\u0645 \u062a\u0635\u062f\u064a\u0631 Word A3 \u0645\u0639 Track Changes \u0628\u0635\u0631\u064a."); };
+
+$("#report").onclick = function () { updateStoredTargets(); download("cat_v45_qa_report.html", createReport(APP.results), "text/html;charset=utf-8"); ui.status("\u062a\u0645 \u062a\u0635\u062f\u064a\u0631 \u062a\u0642\u0631\u064a\u0631 HTML."); };
+$("#word").onclick = function () { updateStoredTargets(); download("cat_v45_word_a3_track_changes.doc", createWord(APP.results), "application/msword;charset=utf-8"); ui.status("\u062a\u0645 \u062a\u0635\u062f\u064a\u0631 Word A3 \u0645\u0639 Track Changes \u0628\u0635\u0631\u064a."); };
+$("#wordSameFormat").onclick = async function () {
+try {
+updateStoredTargets();
+
+if (!APP.sourceDocxArrayBuffer) {
+ui.status("استورد ملف DOCX مصدر أولًا حتى يمكن التصدير بنفس التنسيق.");
+return;
+}
+
+ui.status("جاري إنشاء ملف الهدف بنفس تنسيق المصدر...");
+var out = await createTargetDocxSameFormat(APP.results);
+var base = (APP.sourceDocxName || "source.docx").replace(/\.docx$/i, "");
+
+downloadBytes(
+base + "_TARGET_SAME_FORMAT.docx",
+out,
+"application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+);
+
+ui.status("تم تصدير ملف DOCX الهدف بنفس قالب وتنسيق المصدر قدر الإمكان.");
+} catch (e) {
+ui.status("فشل تصدير DOCX بنفس التنسيق: " + (e && e.message ? e.message : e));
+}
+};
+
 updateStats();
 setTimeout(open, 300);
 }
+
 ready(function () {
 try { initUI(); }
-catch (e) { alert("CAT V47 Cell-Segment error: " + (e && e.message ? e.message : e)); }
+catch (e) { alert("CAT V45 Professional error: " + (e && e.message ? e.message : e)); }
 });
 })();
