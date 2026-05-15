@@ -1,0 +1,802 @@
+[
+  {
+    "id": 44501,
+    "source_ar": "إذا اتفق الطرفان على إنهائه، بشرط أن تكون موافقة العامل كتابية.",
+    "target_en": "If both parties agree to terminate it, provided that the worker’s consent is in writing.",
+    "source_ar_norm": "اذا اتفق الطرفان علي انهائه، بشرط ان تكون موافقة العامل كتابية.",
+    "target_en_norm": "if both parties agree to terminate it, provided that the worker’s consent is in writing.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44502,
+    "source_ar": "إذا انتهت المدة المحددة في العقد، ما لم يكن العقد قد تجدد صراحة وفق أحكام هذا النظام؛ فيستمر إلى أجله.",
+    "target_en": "If the term specified in the contract expires, unless the contract has been explicitly renewed in accordance with the provisions of this Law. In such case, it shall remain in force until the expiry of its term.",
+    "source_ar_norm": "اذا انتهت المدة المحددة في العقد، ما لم يكن العقد قد تجدد صراحة وفق احكام هذا النظام؛ فيستمر الي اجله.",
+    "target_en_norm": "if the term specified in the contract expires, unless the contract has been explicitly renewed in accordance with the provisions of this law. in such case, it shall remain in force until the expiry of its term.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44503,
+    "source_ar": "بناءً على إرادة أحد الطرفين في العقود غير المحددة المدة، وفقاً لما ورد في المادة (الخامسة والسبعين) من هذا النظام.",
+    "target_en": "At the discretion of either party in indefinite term contracts, as stated in Article 75 of this Law.",
+    "source_ar_norm": "بناء علي ارادة احد الطرفين في العقود غير المحددة المدة، وفقا لما ورد في المادة (الخامسة والسبعين) من هذا النظام.",
+    "target_en_norm": "at the discretion of either party in indefinite term contracts, as stated in article 75 of this law.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44504,
+    "source_ar": "بلوغ العامل سن التقاعد - وهي ستون سنة للعمال وخمس وخمسون سنة للعاملات - ما لم يتفق الطرفان على الاستمرار في العمل بعد هذه السن.",
+    "target_en": "When the worker reaches the age of retirement in accordance with the provisions of the Social Insurance Law unless the parties agree on continuing work after this age.",
+    "source_ar_norm": "بلوغ العامل سن التقاعد - وهي ستون سنة للعمال وخمس وخمسون سنة للعاملات - ما لم يتفق الطرفان علي الاستمرار في العمل بعد هذه السن.",
+    "target_en_norm": "when the worker reaches the age of retirement in accordance with the provisions of the social insurance law unless the parties agree on continuing work after this age.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44505,
+    "source_ar": "القوة القاهرة.",
+    "target_en": "Force majeure.",
+    "source_ar_norm": "القوة القاهرة.",
+    "target_en_norm": "force majeure.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44506,
+    "source_ar": "إغلاق المنشأة نهائياً.",
+    "target_en": "Permanent closure of the firm.",
+    "source_ar_norm": "اغلاق المنشاة نهائيا.",
+    "target_en_norm": "permanent closure of the firm.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44507,
+    "source_ar": "إنهاء النشاط الذي يعمل فيه العامل، ما لم يُتفق على غير ذلك.",
+    "target_en": "Termination of the line of business for which the worker is employed, unless agreed otherwise.",
+    "source_ar_norm": "انهاء النشاط الذي يعمل فيه العامل، ما لم يتفق علي غير ذلك.",
+    "target_en_norm": "termination of the line of business for which the worker is employed, unless agreed otherwise.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44508,
+    "source_ar": "أي حالة أخرى ينص عليها نظام آخر.",
+    "target_en": "Any other case provided for by any other law.",
+    "source_ar_norm": "اي حالة اخري ينص عليها نظام اخر.",
+    "target_en_norm": "any other case provided for by any other law.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44509,
+    "source_ar": "المادة الخامسة والسبعون:",
+    "target_en": "Article 75",
+    "source_ar_norm": "المادة الخامسة والسبعون:",
+    "target_en_norm": "article 75",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44510,
+    "source_ar": "إذا كان العقد غير محدد المدة، جاز لأي من طرفيه إنهاؤه بناءً على سبب مشروع يجب بيانه بموجب إشعار يوجه إلى الطرف الآخر كتابةً قبل الإنهاء بمدة تحدد في العقد، على ألا تقل عن ستين يوماً إذا كان أجر العامل يدفع شهريًّا، ولا تقل عن ثلاثين يوماً بالنسبة إلى غيره.",
+    "target_en": "If the contract is of an indefinite term, either party may terminate it for a valid reason to be specified in a written notice served to the other party prior to the termination date as specified in the contract, provided that such period is not less than 60 days if the worker’s wage is paid monthly, and not less than 30 days for non-monthly wages.",
+    "source_ar_norm": "اذا كان العقد غير محدد المدة، جاز لاي من طرفيه انهاؤه بناء علي سبب مشروع يجب بيانه بموجب اشعار يوجه الي الطرف الاخر كتابة قبل الانهاء بمدة تحدد في العقد، علي الا تقل عن ستين يوما اذا كان اجر العامل يدفع شهريا، ولا تقل عن ثلاثين يوما بالنسبة الي غيره.",
+    "target_en_norm": "if the contract is of an indefinite term, either party may terminate it for a valid reason to be specified in a written notice served to the other party prior to the termination date as specified in the contract, provided that such period is not less than 60 days if the worker’s wage is paid monthly, and not less than 30 days for non-monthly wages.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44511,
+    "source_ar": "المادة السادسة والسبعون:",
+    "target_en": "Article 76",
+    "source_ar_norm": "المادة السادسة والسبعون:",
+    "target_en_norm": "article 76",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44512,
+    "source_ar": "إذا لم يراع الطرف الذي أنهى العقد غير المحدد المدة المهلة المحدد للإشعار وفقاً للمادة (الخامسة والسبعين) من هذا النظام، فإنه يلتزم بأن يدفع للطرف الآخر عن مهلة الإشعار مبلغاً مساوياً لأجر العامل عن المهلة نفسها، ما لم يتفق الطرفان على أكثر من ذلك.",
+    "target_en": "If the party terminating an indefinite term contract fails to observe the notice period specified in accordance with Article 75 of this Law, such party shall be required to pay the other party a compensation equal to the worker’s pay for the duration of the notice period, unless the two parties agree on a greater compensation.",
+    "source_ar_norm": "اذا لم يراع الطرف الذي انهي العقد غير المحدد المدة المهلة المحدد للاشعار وفقا للمادة (الخامسة والسبعين) من هذا النظام، فانه يلتزم بان يدفع للطرف الاخر عن مهلة الاشعار مبلغا مساويا لاجر العامل عن المهلة نفسها، ما لم يتفق الطرفان علي اكثر من ذلك.",
+    "target_en_norm": "if the party terminating an indefinite term contract fails to observe the notice period specified in accordance with article 75 of this law, such party shall be required to pay the other party a compensation equal to the worker’s pay for the duration of the notice period, unless the two parties agree on a greater compensation.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44513,
+    "source_ar": "المادة السابعة والسبعون:",
+    "target_en": "Article 77",
+    "source_ar_norm": "المادة السابعة والسبعون:",
+    "target_en_norm": "article 77",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44514,
+    "source_ar": "ما لم يتضمن العقد تعويضاً محدداً مقابل إنهائه من أحد الطرفين لسبب غير مشروع، يستحق الطرف المتضرر من إنهاء العقد تعويضاً على النحو الآتي :",
+    "target_en": "Unless the contract includes specific compensation for the termination by either party for an invalid reason, the party affected by termination shall be entitled to compensation as follows:",
+    "source_ar_norm": "ما لم يتضمن العقد تعويضا محددا مقابل انهائه من احد الطرفين لسبب غير مشروع، يستحق الطرف المتضرر من انهاء العقد تعويضا علي النحو الاتي :",
+    "target_en_norm": "unless the contract includes specific compensation for the termination by either party for an invalid reason, the party affected by termination shall be entitled to compensation as follows:",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44515,
+    "source_ar": "أجر خمسة عشر يوماً عن كل سنة من سنوات خدمة العامل، إذا كان العقد غير محدد المدة.",
+    "target_en": "For indefinite term contracts: an amount equivalent to fifteen-day wage for each year of the worker’s employment.",
+    "source_ar_norm": "اجر خمسة عشر يوما عن كل سنة من سنوات خدمة العامل، اذا كان العقد غير محدد المدة.",
+    "target_en_norm": "for indefinite term contracts: an amount equivalent to fifteen-day wage for each year of the worker’s employment.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44516,
+    "source_ar": "أجر المدة الباقية من العقد إذا كان العقد محدد المدة.",
+    "target_en": "For fixed-term contracts: the wage for the remainder of the contract term.",
+    "source_ar_norm": "اجر المدة الباقية من العقد اذا كان العقد محدد المدة.",
+    "target_en_norm": "for fixed-term contracts: the wage for the remainder of the contract term.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44517,
+    "source_ar": "يجب ألا يقل التعويض المشار إليه في الفقرتين (1) و(2) من هذه المادة عن أجر العامل لمدة شهرين.",
+    "target_en": "The compensation referred to in paragraphs (1) and (2) of this Article shall not be less than the worker’s wage for two months.",
+    "source_ar_norm": "يجب الا يقل التعويض المشار اليه في الفقرتين (1) و(2) من هذه المادة عن اجر العامل لمدة شهرين.",
+    "target_en_norm": "the compensation referred to in paragraphs (1) and (2) of this article shall not be less than the worker’s wage for two months.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44518,
+    "source_ar": "المادة الثامنة والسبعون:",
+    "target_en": "Article 78",
+    "source_ar_norm": "المادة الثامنة والسبعون:",
+    "target_en_norm": "article 78",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44519,
+    "source_ar": "إذا كان الإشعار من جانب صاحب العمل، فيحق للعامل أن يتغيب خلال مهلة الإشعار يوماً كاملاً في الأسبوع أو ثماني ساعات أثناء الأسبوع، وذلك للبحث عن عمل آخر مع استحقاقه لأجر هذا اليوم أو ساعات الغياب. ويكون للعامل تحديد يوم الغياب وساعاته بشرط أن يُشعر صاحب العمل بذلك في اليوم السابق للغياب على الأقل. ولصاحب العمل أن يعفي العامل من العمل أثناء مهلة الإشعار مع احتساب مدة خدمته مستمرة إلى حين انتهاء تلك المهلة، والتزام صاحب العمل بما يترتب على ذلك من آثار وبخاصة استحقاق العامل أجره عن مهلة الإشعار.",
+    "target_en": "If notice is made by the employer, the worker shall be entitled to a paid leave of absence of a full day or eight hours per week, to seek other employment. The worker shall be entitled to determine the time of the leave of absence, provided that the employer is notified at least one day in advance. The employer may relieve the worker from attending work during the notice period without affecting the worker’s term of service or entitlements for such period.",
+    "source_ar_norm": "اذا كان الاشعار من جانب صاحب العمل، فيحق للعامل ان يتغيب خلال مهلة الاشعار يوما كاملا في الاسبوع او ثماني ساعات اثناء الاسبوع، وذلك للبحث عن عمل اخر مع استحقاقه لاجر هذا اليوم او ساعات الغياب. ويكون للعامل تحديد يوم الغياب وساعاته بشرط ان يشعر صاحب العمل بذلك في اليوم السابق للغياب علي الاقل. ولصاحب العمل ان يعفي العامل من العمل اثناء مهلة الاشعار مع احتساب مدة خدمته مستمرة الي حين انتهاء تلك المهلة، والتزام صاحب العمل بما يترتب علي ذلك من اثار وبخاصة استحقاق العامل اجره عن مهلة الاشعار.",
+    "target_en_norm": "if notice is made by the employer, the worker shall be entitled to a paid leave of absence of a full day or eight hours per week, to seek other employment. the worker shall be entitled to determine the time of the leave of absence, provided that the employer is notified at least one day in advance. the employer may relieve the worker from attending work during the notice period without affecting the worker’s term of service or entitlements for such period.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44520,
+    "source_ar": "المادة التاسعة والسبعون :",
+    "target_en": "Article 79",
+    "source_ar_norm": "المادة التاسعة والسبعون :",
+    "target_en_norm": "article 79",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44521,
+    "source_ar": "لا ينقضي عقد العمل بوفاة صاحب العمل، ما لم تكن شخصيته قد روعيت في إبرام العقد، ولكنه ينتهي بوفاة العامل أو بعجزه عن أداء عمله، وذلك بموجب شهادة طبية معتمدة من الجهات الصحية المخولة، أو من الطبيب المخول الذي يعينه صاحب العمل.",
+    "target_en": "An employment contract shall not expire by the death of the employer unless his person has been taken into consideration in concluding the contract, but shall expire with the death or incapacity of the worker pursuant to a medical report approved by the competent health authority or the authorized physician designated by the employer.",
+    "source_ar_norm": "لا ينقضي عقد العمل بوفاة صاحب العمل، ما لم تكن شخصيته قد روعيت في ابرام العقد، ولكنه ينتهي بوفاة العامل او بعجزه عن اداء عمله، وذلك بموجب شهادة طبية معتمدة من الجهات الصحية المخولة، او من الطبيب المخول الذي يعينه صاحب العمل.",
+    "target_en_norm": "an employment contract shall not expire by the death of the employer unless his person has been taken into consideration in concluding the contract, but shall expire with the death or incapacity of the worker pursuant to a medical report approved by the competent health authority or the authorized physician designated by the employer.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44522,
+    "source_ar": "المادة الثمانون:",
+    "target_en": "Article 80",
+    "source_ar_norm": "المادة الثمانون:",
+    "target_en_norm": "article 80",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44523,
+    "source_ar": "لا يجوز لصاحب العمل فسخ العقد دون مكافأة العامل، أو إشعاره، أو تعويضه؛ إلا في الحالات الآتية، وبشرط أن يتيح له الفرصة لكي يبدي أسباب معارضته للفسخ :",
+    "target_en": "An employer may not terminate the contract without giving the worker an award, advance notice, or indemnity except in the following cases, and provided that he gives the worker a chance to state his reasons for objecting to the termination:",
+    "source_ar_norm": "لا يجوز لصاحب العمل فسخ العقد دون مكافاة العامل، او اشعاره، او تعويضه؛ الا في الحالات الاتية، وبشرط ان يتيح له الفرصة لكي يبدي اسباب معارضته للفسخ :",
+    "target_en_norm": "an employer may not terminate the contract without giving the worker an award, advance notice, or indemnity except in the following cases, and provided that he gives the worker a chance to state his reasons for objecting to the termination:",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44524,
+    "source_ar": "إذا وقع من العامل اعتداء على صاحب العمل أو المدير المسؤول أو أحد رؤسائه أو مرؤوسيه أثناء العمل أو بسببه.",
+    "target_en": "If, during or by reason of the work, the worker assaults the employer, the manager in-charge, or any of his superiors.",
+    "source_ar_norm": "اذا وقع من العامل اعتداء علي صاحب العمل او المدير المسؤول او احد رؤسائه او مرؤوسيه اثناء العمل او بسببه.",
+    "target_en_norm": "if, during or by reason of the work, the worker assaults the employer, the manager in-charge, or any of his superiors.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44525,
+    "source_ar": "إذا لم يؤدِّ العامل التزاماته الجوهرية المترتبة على عقد العمل أو لم يطع الأوامر المشروعة أو لم يراعِ عمداً التعليمات – التي أعلن عنها صاحب العمل في مكان ظاهر – الخاصة بسلامة العمل والعمال رغم إنذاره كتابة.",
+    "target_en": "If the worker fails to perform his main obligations arising from the employment contract, or fails to obey legitimate orders, or if, in spite of written warnings, he deliberately fails to observe instructions related to the safety of work and workers which have been posted by the employer in a visible place.",
+    "source_ar_norm": "اذا لم يؤد العامل التزاماته الجوهرية المترتبة علي عقد العمل او لم يطع الاوامر المشروعة او لم يراع عمدا التعليمات – التي اعلن عنها صاحب العمل في مكان ظاهر – الخاصة بسلامة العمل والعمال رغم انذاره كتابة.",
+    "target_en_norm": "if the worker fails to perform his main obligations arising from the employment contract, or fails to obey legitimate orders, or if, in spite of written warnings, he deliberately fails to observe instructions related to the safety of work and workers which have been posted by the employer in a visible place.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44526,
+    "source_ar": "إذا ثبت اتباع العامل سلوكاً سيئاً، أو ارتكابه عملاً مخلاً بالشرف أو الأمانة.",
+    "target_en": "If it is established that the worker has committed a misconduct or an act infringing on honesty or integrity.",
+    "source_ar_norm": "اذا ثبت اتباع العامل سلوكا سيئا، او ارتكابه عملا مخلا بالشرف او الامانة.",
+    "target_en_norm": "if it is established that the worker has committed a misconduct or an act infringing on honesty or integrity.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44527,
+    "source_ar": "إذا وقع من العامل - عمداً - أيُّ فعلٍ أو تقصيرٍ يقصد به إلحاق خسارة مادية بصاحب العمل، بشرط أن يبلغ صاحب العمل الجهات المختصة بالحادث خلال أربع وعشرين ساعة من وقت علمه بوقوعه.",
+    "target_en": "If the worker deliberately commits or omits any act with the intent to cause material loss to the employer, provided that the employer reports the incident to the competent authorities within 24 hours after becoming aware of its occurrence.",
+    "source_ar_norm": "اذا وقع من العامل - عمدا - اي فعل او تقصير يقصد به الحاق خسارة مادية بصاحب العمل، بشرط ان يبلغ صاحب العمل الجهات المختصة بالحادث خلال اربع وعشرين ساعة من وقت علمه بوقوعه.",
+    "target_en_norm": "if the worker deliberately commits or omits any act with the intent to cause material loss to the employer, provided that the employer reports the incident to the competent authorities within 24 hours after becoming aware of its occurrence.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44528,
+    "source_ar": "إذا ثبت أن العامل لجأ إلى التزوير ليحصل على العمل.",
+    "target_en": "If it is established that the worker has committed forgery to obtain the job.",
+    "source_ar_norm": "اذا ثبت ان العامل لجا الي التزوير ليحصل علي العمل.",
+    "target_en_norm": "if it is established that the worker has committed forgery to obtain the job.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44529,
+    "source_ar": "إذا كان العامل مُعيَّناً تحت الاختبار.",
+    "target_en": "During the probation period.",
+    "source_ar_norm": "اذا كان العامل معينا تحت الاختبار.",
+    "target_en_norm": "during the probation period.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44530,
+    "source_ar": "إذا تغيب العامل دون سبب مشروع أكثر من ثلاثين يوماً خلال السنة العقدية الواحدة أو أكثر من خمسة عشر يوماً متتالية، على أن يسبق الفصل إنذار كتابي من صاحب العمل للعامل بعد غيابه عشرين يوماً في الحالة الأولى وانقطاعه عشرة أيام في الحالة الثانية.",
+    "target_en": "If the worker is absent without a valid reason for more than 30 days in one contractual year or for more than 15 consecutive days, provided that the dismissal is preceded by a written warning from the employer to the worker if the latter is absent for 20 days in the first case and for 10 days in the second.",
+    "source_ar_norm": "اذا تغيب العامل دون سبب مشروع اكثر من ثلاثين يوما خلال السنة العقدية الواحدة او اكثر من خمسة عشر يوما متتالية، علي ان يسبق الفصل انذار كتابي من صاحب العمل للعامل بعد غيابه عشرين يوما في الحالة الاولي وانقطاعه عشرة ايام في الحالة الثانية.",
+    "target_en_norm": "if the worker is absent without a valid reason for more than 30 days in one contractual year or for more than 15 consecutive days, provided that the dismissal is preceded by a written warning from the employer to the worker if the latter is absent for 20 days in the first case and for 10 days in the second.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44531,
+    "source_ar": "إذا ثبت أن العامل استغل مركزه الوظيفي بطريقة غير مشروعة للحصول على نتائج ومكاسب شخصية.",
+    "target_en": "If it is established that the worker has unlawfully taken advantage of his position for personal gain.",
+    "source_ar_norm": "اذا ثبت ان العامل استغل مركزه الوظيفي بطريقة غير مشروعة للحصول علي نتائج ومكاسب شخصية.",
+    "target_en_norm": "if it is established that the worker has unlawfully taken advantage of his position for personal gain.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44532,
+    "source_ar": "إذا ثبت أن العامل أفشى الأسرار الصناعية أو التجارية الخاصة بالعمل الذي يعمل فيه.",
+    "target_en": "If it is established that the worker has disclosed trade secrets.",
+    "source_ar_norm": "اذا ثبت ان العامل افشي الاسرار الصناعية او التجارية الخاصة بالعمل الذي يعمل فيه.",
+    "target_en_norm": "if it is established that the worker has disclosed trade secrets.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44533,
+    "source_ar": "المادة الحادية والثمانون:",
+    "target_en": "Article 81",
+    "source_ar_norm": "المادة الحادية والثمانون:",
+    "target_en_norm": "article 81",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44534,
+    "source_ar": "يحق للعامل أن يترك العمل دون إشعار مع احتفاظه بحقوقه النظامية كلها، وذلك في أي من الحالات الآتية:",
+    "target_en": "Without prejudice to all of his statutory rights, a worker may leave his job without notice in any of the following cases:",
+    "source_ar_norm": "يحق للعامل ان يترك العمل دون اشعار مع احتفاظه بحقوقه النظامية كلها، وذلك في اي من الحالات الاتية:",
+    "target_en_norm": "without prejudice to all of his statutory rights, a worker may leave his job without notice in any of the following cases:",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44535,
+    "source_ar": "1 - إذا لم يقم صاحب العمل بالوفاء بالتزاماته العقدية أو النظامية الجوهرية إزاء العامل.",
+    "target_en": "If the employer fails to fulfill his essential contractual or statutory obligations towards the worker.",
+    "source_ar_norm": "1 - اذا لم يقم صاحب العمل بالوفاء بالتزاماته العقدية او النظامية الجوهرية ازاء العامل.",
+    "target_en_norm": "if the employer fails to fulfill his essential contractual or statutory obligations towards the worker.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44536,
+    "source_ar": "2 - إذا ثبت أن صاحب العمل أو من يمثله قد أدخل عليه الغش وقت التعاقد فيما يتعلق بشروط العمل وظروفه.",
+    "target_en": "If the employer or his representative resorts to fraud at the time of contracting with respect to work conditions and circumstances.",
+    "source_ar_norm": "2 - اذا ثبت ان صاحب العمل او من يمثله قد ادخل عليه الغش وقت التعاقد فيما يتعلق بشروط العمل وظروفه.",
+    "target_en_norm": "if the employer or his representative resorts to fraud at the time of contracting with respect to work conditions and circumstances.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44537,
+    "source_ar": "3 - إذا كلفه صاحب العمل دون رضاه بعمل يختلف جوهريًّا عن العمل المتفق عليه، وخلافًا لما تقرره المادة الستون من هذا النظام.",
+    "target_en": "If the employer assigns the worker, without his consent, to perform work which is essentially different from the agreed upon work and in violation of the provisions of Article 60 of this Law.",
+    "source_ar_norm": "3 - اذا كلفه صاحب العمل دون رضاه بعمل يختلف جوهريا عن العمل المتفق عليه، وخلافا لما تقرره المادة الستون من هذا النظام.",
+    "target_en_norm": "if the employer assigns the worker, without his consent, to perform work which is essentially different from the agreed upon work and in violation of the provisions of article 60 of this law.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44538,
+    "source_ar": "4 - إذا وقع من صاحب العمل أو من أحد أفراد أسرته أو من المدير المسؤول اعتداء يتسم بالعنف، أو سلوك مخل بالآداب نحو العامل أو أحد أفراد أسرته.",
+    "target_en": "If the employer, a family member thereof, or the manager in-charge commits a violent assault or an immoral act against the worker or any of his family members.",
+    "source_ar_norm": "4 - اذا وقع من صاحب العمل او من احد افراد اسرته او من المدير المسؤول اعتداء يتسم بالعنف، او سلوك مخل بالاداب نحو العامل او احد افراد اسرته.",
+    "target_en_norm": "if the employer, a family member thereof, or the manager in-charge commits a violent assault or an immoral act against the worker or any of his family members.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44539,
+    "source_ar": "5 - إذا اتسمت معاملة صاحب العمل أو المدير المسؤول بمظاهر من القسوة والجور أو الإهانة.",
+    "target_en": "If the treatment of the employer or the manager in-charge is characterized by cruelty, injustice, or insult.",
+    "source_ar_norm": "5 - اذا اتسمت معاملة صاحب العمل او المدير المسؤول بمظاهر من القسوة والجور او الاهانة.",
+    "target_en_norm": "if the treatment of the employer or the manager in-charge is characterized by cruelty, injustice, or insult.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44540,
+    "source_ar": "6 - إذا كان في مقر العمل خطر جسيم يهدد سلامة العامل أو صحته، بشرط أن يكون صاحب العمل قد علم بوجوده، ولم يتخذ من الإجراءات ما يدل على إزالته.",
+    "target_en": "If there exists in the workplace a serious hazard threatening the safety or health of the worker, provided that the employer is aware thereof but fails to take measures indicating its removal.",
+    "source_ar_norm": "6 - اذا كان في مقر العمل خطر جسيم يهدد سلامة العامل او صحته، بشرط ان يكون صاحب العمل قد علم بوجوده، ولم يتخذ من الاجراءات ما يدل علي ازالته.",
+    "target_en_norm": "if there exists in the workplace a serious hazard threatening the safety or health of the worker, provided that the employer is aware thereof but fails to take measures indicating its removal.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44541,
+    "source_ar": "7 - إذا كان صاحب العمل أو من يمثله قد دفع العامل بتصرفاته وعلى الأخص بمعاملته الجائرة أو بمخالفته شروط العقد إلى أن يكون العامل في الظاهر هو الذي أنهى العقد.",
+    "target_en": "If the employer or his representative, through his actions and particularly his unjust treatment or violation of the terms of the contract, causes the worker to appear as the party terminating the contract.",
+    "source_ar_norm": "7 - اذا كان صاحب العمل او من يمثله قد دفع العامل بتصرفاته وعلي الاخص بمعاملته الجائرة او بمخالفته شروط العقد الي ان يكون العامل في الظاهر هو الذي انهي العقد.",
+    "target_en_norm": "if the employer or his representative, through his actions and particularly his unjust treatment or violation of the terms of the contract, causes the worker to appear as the party terminating the contract.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44542,
+    "source_ar": "المادة الثانية والثمانون :",
+    "target_en": "Article 82",
+    "source_ar_norm": "المادة الثانية والثمانون :",
+    "target_en_norm": "article 82",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44543,
+    "source_ar": "لا يجوز لصاحب العمل إنهاء خدمة العامل بسبب المرض، قبل استنفاذه المدد المحددة للإجازة المنصوص عليها في هذا النظام، وللعامل الحق في أن يطلب وصل إجازته السنوية بالمرضية.",
+    "target_en": "An employer may not terminate the worker’s services on account of illness prior to availing him of the period designated for sick leave as provided for in this Law. The worker shall have the right to request that his sick leave be combined with his annual leave.",
+    "source_ar_norm": "لا يجوز لصاحب العمل انهاء خدمة العامل بسبب المرض، قبل استنفاذه المدد المحددة للاجازة المنصوص عليها في هذا النظام، وللعامل الحق في ان يطلب وصل اجازته السنوية بالمرضية.",
+    "target_en_norm": "an employer may not terminate the worker’s services on account of illness prior to availing him of the period designated for sick leave as provided for in this law. the worker shall have the right to request that his sick leave be combined with his annual leave.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44544,
+    "source_ar": "المادة الثالثة والثمانون:",
+    "target_en": "Article 83",
+    "source_ar_norm": "المادة الثالثة والثمانون:",
+    "target_en_norm": "article 83",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44545,
+    "source_ar": "إذا كان العمل المنوط بالعامل يسمح له بمعرفة عملاء صاحب العمل، جاز لصاحب العمل – حمايةً لمصالحه المشروعة – أن يشترط على العامل ألا يقوم بعد انتهاء العقد بمنافسته، ويجب لصحة هذا الشرط أن يكون مُحرراً ومُحدداً، من حيث الزمان والمكان ونوع العمل، ويجب ألا تزيد مدته على سنتين من تاريخ انتهاء العلاقة بين الطرفين.",
+    "target_en": "If the work assigned to the worker allows him to get acquainted with the employer’s clients, the employer may, for the protection of his legitimate interests, require the worker not to compete with him upon termination of the contract. For this condition to be valid, it shall be in writing and specific, in terms of time, place, and type of work. The validity of such condition shall not exceed two years from the date of termination of the relationship between the two parties.",
+    "source_ar_norm": "اذا كان العمل المنوط بالعامل يسمح له بمعرفة عملاء صاحب العمل، جاز لصاحب العمل – حماية لمصالحه المشروعة – ان يشترط علي العامل الا يقوم بعد انتهاء العقد بمنافسته، ويجب لصحة هذا الشرط ان يكون محررا ومحددا، من حيث الزمان والمكان ونوع العمل، ويجب الا تزيد مدته علي سنتين من تاريخ انتهاء العلاقة بين الطرفين.",
+    "target_en_norm": "if the work assigned to the worker allows him to get acquainted with the employer’s clients, the employer may, for the protection of his legitimate interests, require the worker not to compete with him upon termination of the contract. for this condition to be valid, it shall be in writing and specific, in terms of time, place, and type of work. the validity of such condition shall not exceed two years from the date of termination of the relationship between the two parties.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44546,
+    "source_ar": "إذا كان العمل المنوط بالعامل يسمح له بالاطلاع على أسرار عمله، جاز لصاحب العمل – حمايةً لمصالحه المشروعة – أن يشترط على العامل ألا يقوم بعد انتهاء العقد بإفشاء أسراره، ويجب لصحة هذا الشرط أن يكون محرراً ومحدداً، من حيث الزمان والمكان ونوع العمل.",
+    "target_en": "If the work assigned to the worker allows him to have access to the employer’s business secrets, the employer may, for the protection of his legitimate interests, require the worker not to disclose such secrets upon termination of the contract. For this condition to be valid, it shall be in writing and specific, in terms of time, place, and type of work.",
+    "source_ar_norm": "اذا كان العمل المنوط بالعامل يسمح له بالاطلاع علي اسرار عمله، جاز لصاحب العمل – حماية لمصالحه المشروعة – ان يشترط علي العامل الا يقوم بعد انتهاء العقد بافشاء اسراره، ويجب لصحة هذا الشرط ان يكون محررا ومحددا، من حيث الزمان والمكان ونوع العمل.",
+    "target_en_norm": "if the work assigned to the worker allows him to have access to the employer’s business secrets, the employer may, for the protection of his legitimate interests, require the worker not to disclose such secrets upon termination of the contract. for this condition to be valid, it shall be in writing and specific, in terms of time, place, and type of work.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44547,
+    "source_ar": "استثناء من أحكام هذا النظام، لصاحب العمل رفع دعوى خلال سنة من تاريخ اكتشاف مخالفة العامل لأيٍّ من التزاماته الواردة في هذه المادة.",
+    "target_en": "As an exception to the provisions of this Law, the employer may file a suit within one year from the date of discovery of the worker’s violation of any of his obligations pursuant to this Article.",
+    "source_ar_norm": "استثناء من احكام هذا النظام، لصاحب العمل رفع دعوي خلال سنة من تاريخ اكتشاف مخالفة العامل لاي من التزاماته الواردة في هذه المادة.",
+    "target_en_norm": "as an exception to the provisions of this law, the employer may file a suit within one year from the date of discovery of the worker’s violation of any of his obligations pursuant to this article.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44548,
+    "source_ar": "المادة الرابعة والثمانون:",
+    "target_en": "Article 84",
+    "source_ar_norm": "المادة الرابعة والثمانون:",
+    "target_en_norm": "article 84",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44549,
+    "source_ar": "إذا انتهت علاقة العمل وجب على صاحب العمل أن يدفع إلى العامل مكافأة عن مدة خدمته تحسب على أساس أجر نصف شهر عن كل سنة من السنوات الخمس الأولى، وأجر شهر عن كل سنة من السنوات التالية، ويتخذ الأجر الأخير أساسًا لحساب المكافأة، ويستحق العامل مكافأة عن أجزاء السنة بنسبة ما قضاه منها في العمل.",
+    "target_en": "Upon the end of the employment relation, the employer shall pay the worker an end-of-service award equivalent to the amount of a half-month wage for each of the first five years and a one-month wage for each of the following years. The end-of-service award shall be calculated on the basis of the last wage and the worker shall be entitled to an end-of-service award for the portions of the year in proportion to the time spent on the job.",
+    "source_ar_norm": "اذا انتهت علاقة العمل وجب علي صاحب العمل ان يدفع الي العامل مكافاة عن مدة خدمته تحسب علي اساس اجر نصف شهر عن كل سنة من السنوات الخمس الاولي، واجر شهر عن كل سنة من السنوات التالية، ويتخذ الاجر الاخير اساسا لحساب المكافاة، ويستحق العامل مكافاة عن اجزاء السنة بنسبة ما قضاه منها في العمل.",
+    "target_en_norm": "upon the end of the employment relation, the employer shall pay the worker an end-of-service award equivalent to the amount of a half-month wage for each of the first five years and a one-month wage for each of the following years. the end-of-service award shall be calculated on the basis of the last wage and the worker shall be entitled to an end-of-service award for the portions of the year in proportion to the time spent on the job.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44550,
+    "source_ar": "المادة الخامسة والثمانون:",
+    "target_en": "Article 85",
+    "source_ar_norm": "المادة الخامسة والثمانون:",
+    "target_en_norm": "article 85",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44551,
+    "source_ar": "إذا كان انتهاء علاقة العمل بسبب استقالة العامل يستحق في هذه الحالة ثلث المكافأة بعد خدمة لا تقل مدتها عن سنتين متتاليتين، ولا تزيد على خمس سنوات، ويستحق ثلثيها إذا زادت مدة خدمته على خمس سنوات متتالية ولم تبلغ عشر سنوات، ويستحق المكافأة كاملة إذا بلغت مدة خدمته عشر سنوات فأكثر.",
+    "target_en": "If the employment relation ends due to the worker’s resignation, he shall, in this case, be entitled to one third of the award after service of not less than two consecutive years and not more than five years, to two thirds if his service is in excess of five consecutive years but less than 10 years, and to the full award if his service amounts to 10 years or more.",
+    "source_ar_norm": "اذا كان انتهاء علاقة العمل بسبب استقالة العامل يستحق في هذه الحالة ثلث المكافاة بعد خدمة لا تقل مدتها عن سنتين متتاليتين، ولا تزيد علي خمس سنوات، ويستحق ثلثيها اذا زادت مدة خدمته علي خمس سنوات متتالية ولم تبلغ عشر سنوات، ويستحق المكافاة كاملة اذا بلغت مدة خدمته عشر سنوات فاكثر.",
+    "target_en_norm": "if the employment relation ends due to the worker’s resignation, he shall, in this case, be entitled to one third of the award after service of not less than two consecutive years and not more than five years, to two thirds if his service is in excess of five consecutive years but less than 10 years, and to the full award if his service amounts to 10 years or more.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44552,
+    "source_ar": "المادة السادسة والثمانون:",
+    "target_en": "Article 86",
+    "source_ar_norm": "المادة السادسة والثمانون:",
+    "target_en_norm": "article 86",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44553,
+    "source_ar": "استثناء من حكم المادة (الثامنة) من هذا النظام، يجوز الاتفاق على ألا تحسب في الأجر الذي تسوى على أساسه مكافأة نهاية الخدمة جميع مبالغ العمولات أو بعضها والنسب المئوية عن ثمن المبيعات وما أشبه ذلك من عناصر الأجر الذي يدفع إلى العامل وتكون قابلة بطبيعتها للزيادة والنقص.",
+    "target_en": "As an exception to the provisions of Article 8 of this Law, it may be agreed that the wage used as a basis for calculating the end-of-service award does not include all or some of the commissions, sales percentages, and similar wage components paid to the worker which are by their nature subject to increase or decrease.",
+    "source_ar_norm": "استثناء من حكم المادة (الثامنة) من هذا النظام، يجوز الاتفاق علي الا تحسب في الاجر الذي تسوي علي اساسه مكافاة نهاية الخدمة جميع مبالغ العمولات او بعضها والنسب المئوية عن ثمن المبيعات وما اشبه ذلك من عناصر الاجر الذي يدفع الي العامل وتكون قابلة بطبيعتها للزيادة والنقص.",
+    "target_en_norm": "as an exception to the provisions of article 8 of this law, it may be agreed that the wage used as a basis for calculating the end-of-service award does not include all or some of the commissions, sales percentages, and similar wage components paid to the worker which are by their nature subject to increase or decrease.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44554,
+    "source_ar": "المادة السابعة والثمانون :",
+    "target_en": "Article 87",
+    "source_ar_norm": "المادة السابعة والثمانون :",
+    "target_en_norm": "article 87",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44555,
+    "source_ar": "استثناءً مما ورد في المادة الخامسة والثمانين من هذا النظام تستحق المكافأة كاملة في حالة ترك العامل العمل نتيجة لقوة قاهرة خارجة عن إرادته، كما تستحقها العاملة إذا أنهت العقد خلال ستة أشهر من تاريخ عقد زواجها أو ثلاثة أشهر من تاريخ وضعها.",
+    "target_en": "As an exception to the provisions of Article 85 of this Law, the worker shall be entitled to the full end-of-service award if he leaves the work due to a force majeure beyond his control. A female worker shall likewise be entitled to the full award if she ends her contract within six months from the date of her marriage or three months from the date of giving birth.",
+    "source_ar_norm": "استثناء مما ورد في المادة الخامسة والثمانين من هذا النظام تستحق المكافاة كاملة في حالة ترك العامل العمل نتيجة لقوة قاهرة خارجة عن ارادته، كما تستحقها العاملة اذا انهت العقد خلال ستة اشهر من تاريخ عقد زواجها او ثلاثة اشهر من تاريخ وضعها.",
+    "target_en_norm": "as an exception to the provisions of article 85 of this law, the worker shall be entitled to the full end-of-service award if he leaves the work due to a force majeure beyond his control. a female worker shall likewise be entitled to the full award if she ends her contract within six months from the date of her marriage or three months from the date of giving birth.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44556,
+    "source_ar": "المادة الثامنة والثمانون :",
+    "target_en": "Article 88",
+    "source_ar_norm": "المادة الثامنة والثمانون :",
+    "target_en_norm": "article 88",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44557,
+    "source_ar": "إذا انتهت خدمة العامل وجب على صاحب العمل دفع أجره وتصفية حقوقه خلال أسبوع- على الأكثر- من تاريخ انتهاء العلاقة العقدية، أما إذا كان العامل هو الذي أنهى العقد وجب على صاحب العمل تصفية حقوقه كاملة خلال مدة لا تزيد على أسبوعين. ولصاحب العمل أن يحسم أي دين مستحق له بسبب العمل من المبالغ المستحقة للعامل.",
+    "target_en": "Upon the end of the worker’s service, the employer shall pay his wages and settle his entitlements within a maximum period of one week from the date of the end of the contractual relation. If the worker ends the contract, the employer shall settle all his entitlements within a period not exceeding two weeks. The employer may deduct any work-related debt due to him from the worker’s entitlements.",
+    "source_ar_norm": "اذا انتهت خدمة العامل وجب علي صاحب العمل دفع اجره وتصفية حقوقه خلال اسبوع- علي الاكثر- من تاريخ انتهاء العلاقة العقدية، اما اذا كان العامل هو الذي انهي العقد وجب علي صاحب العمل تصفية حقوقه كاملة خلال مدة لا تزيد علي اسبوعين. ولصاحب العمل ان يحسم اي دين مستحق له بسبب العمل من المبالغ المستحقة للعامل.",
+    "target_en_norm": "upon the end of the worker’s service, the employer shall pay his wages and settle his entitlements within a maximum period of one week from the date of the end of the contractual relation. if the worker ends the contract, the employer shall settle all his entitlements within a period not exceeding two weeks. the employer may deduct any work-related debt due to him from the worker’s entitlements.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44558,
+    "source_ar": "المادة التاسعة والثمانون :",
+    "target_en": "Article 89",
+    "source_ar_norm": "المادة التاسعة والثمانون :",
+    "target_en_norm": "article 89",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44559,
+    "source_ar": "لمجلس الوزراء عند الاقتضاء- وبناء على اقتراح الوزير- وضع حد أدنى للأجور.",
+    "target_en": "The Council of Ministers may, when necessary and upon a proposal by the Minister, set a minimum wage.",
+    "source_ar_norm": "لمجلس الوزراء عند الاقتضاء- وبناء علي اقتراح الوزير- وضع حد ادني للاجور.",
+    "target_en_norm": "the council of ministers may, when necessary and upon a proposal by the minister, set a minimum wage.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44560,
+    "source_ar": "المادة التسعون:",
+    "target_en": "Article 90",
+    "source_ar_norm": "المادة التسعون:",
+    "target_en_norm": "article 90",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44561,
+    "source_ar": "يجب دفع أجر العامل وكل مبلغ مستحق له بالعملة الرسمية للبلاد طبقاً للأحكام الآتية :",
+    "target_en": "The worker’s wage and all other dues shall be paid in the local currency in accordance with the following:",
+    "source_ar_norm": "يجب دفع اجر العامل وكل مبلغ مستحق له بالعملة الرسمية للبلاد طبقا للاحكام الاتية :",
+    "target_en_norm": "the worker’s wage and all other dues shall be paid in the local currency in accordance with the following:",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44562,
+    "source_ar": "أ - العمال باليومية : تصرف أجورهم مرة كل أسبوع على الأقل.",
+    "target_en": "Workers paid on a daily basis shall be paid at least once a week.",
+    "source_ar_norm": "ا - العمال باليومية : تصرف اجورهم مرة كل اسبوع علي الاقل.",
+    "target_en_norm": "workers paid on a daily basis shall be paid at least once a week.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44563,
+    "source_ar": "ب - العمال ذوو الأجور الشهرية : تصرف أجورهم مرة في الشهر.",
+    "target_en": "Workers paid on a monthly basis shall be paid once a month.",
+    "source_ar_norm": "ب - العمال ذوو الاجور الشهرية : تصرف اجورهم مرة في الشهر.",
+    "target_en_norm": "workers paid on a monthly basis shall be paid once a month.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44564,
+    "source_ar": "ج - إذا كان العمل يؤدى بالقطعة، ويحتاج لمدة تزيد على أسبوعين، فيجب أن يحصل العامل على دفعة كل أسبوع تتناسب مع ما أتمه من العمل، ويصرف باقي الأجر كاملاً خلال الأسبوع التالي لتسليم العمل.",
+    "target_en": "If the work is done by piece and requires a period of more than two weeks, the worker shall receive a payment each week commensurate with the completed portion of the work. The balance of the wage shall be paid in full during the week following delivery of the work.",
+    "source_ar_norm": "ج - اذا كان العمل يؤدي بالقطعة، ويحتاج لمدة تزيد علي اسبوعين، فيجب ان يحصل العامل علي دفعة كل اسبوع تتناسب مع ما اتمه من العمل، ويصرف باقي الاجر كاملا خلال الاسبوع التالي لتسليم العمل.",
+    "target_en_norm": "if the work is done by piece and requires a period of more than two weeks, the worker shall receive a payment each week commensurate with the completed portion of the work. the balance of the wage shall be paid in full during the week following delivery of the work.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44565,
+    "source_ar": "د - في غير ما ذكر، تؤدى إلى العمال أجورهم مرة كل أسبوع على الأقل.",
+    "target_en": "In cases other than the above, worker’s wages shall be paid at least once a week.",
+    "source_ar_norm": "د - في غير ما ذكر، تؤدي الي العمال اجورهم مرة كل اسبوع علي الاقل.",
+    "target_en_norm": "in cases other than the above, worker’s wages shall be paid at least once a week.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44566,
+    "source_ar": "تلزم المنشآت بدفع الأجور في حسابات العمال عن طريق البنوك المعتمدة في المملكة، بشرط ألا يتجاوز موعد استحقاقها المواعيد المحددة أعلاه، ويجوز للوزير استثناء بعض المنشآت من ذلك.",
+    "target_en": "Firms shall be required to deposit workers’ wages into their bank accounts through approved banks in the Kingdom, provided that their due date does not exceed the deadlines referred to above. The Minister may exempt some firms from such requirement.",
+    "source_ar_norm": "تلزم المنشات بدفع الاجور في حسابات العمال عن طريق البنوك المعتمدة في المملكة، بشرط الا يتجاوز موعد استحقاقها المواعيد المحددة اعلاه، ويجوز للوزير استثناء بعض المنشات من ذلك.",
+    "target_en_norm": "firms shall be required to deposit workers’ wages into their bank accounts through approved banks in the kingdom, provided that their due date does not exceed the deadlines referred to above. the minister may exempt some firms from such requirement.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44567,
+    "source_ar": "المادة الحادية والتسعون:",
+    "target_en": "Article 91",
+    "source_ar_norm": "المادة الحادية والتسعون:",
+    "target_en_norm": "article 91",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44568,
+    "source_ar": "1- إذا تسبب عامل في فقد أو إتلاف أو تدمير آلات أو منتجات يملكها صاحب العمل أو هي في عهدته وكان ذلك ناشئًا عن خطأ العامل أو مخالفته تعليمات صاحب العمل ولم يكن نتيجة لخطأ الغير أو ناشئًا عن قوة قاهرة، فلصاحب العمل أن يقتطع من أجر العامل المبلغ اللازم للإصلاح أو لإعادة الوضع إلى ما كان عليه على ألا يزيد ما يقتطع لهذا الغرض على أجر خمسة أيام في كل شهر، ولصاحب العمل الحق في التظلم عند الاقتضاء، وذلك بطلب ما هو أكثر من ذلك إذا كان للعامل مال آخر يمكن الاستيفاء منه، وللعامل أن يتظلم مما نسب إليه أو من تقدير صاحب العمل للتعويض أمام هيئة تسوية الخلافات العمالية، فإذا حكمت بعدم أحقية صاحب العمل في الرجوع على العامل بما اقتطعه منه أو حكمت بأقل منه وجب على صاحب العمل أن يرد إلى العامل ما اقتطع منه دون وجه حق خلال سبعة أيام من تاريخ صدور الحكم.",
+    "target_en": "If a worker, as a result of his own fault or his violation of the employer’s instructions and not as a result of a third party’s fault or a force majeure, causes loss, damage, or destruction to machinery or products owned by the employer while in his custody, the employer may deduct from the worker’s wage the amount necessary for repair or restoration to the original condition, provided that such deductions do not exceed an amount equivalent to five-day wage per month. The employer may file a grievance, if necessary, demanding more deductions if the worker has other properties from which collections may be made. The worker may file a grievance with the labor court regarding the allegations leveled at him or the employer’s estimation of the damages. If the labor court rules that the employer is not entitled to claim such deductions or if it awards the employer a lower amount, the employer shall return to the worker the amounts unjustifiably deducted, within seven days from the date of the award.",
+    "source_ar_norm": "1- اذا تسبب عامل في فقد او اتلاف او تدمير الات او منتجات يملكها صاحب العمل او هي في عهدته وكان ذلك ناشئا عن خطا العامل او مخالفته تعليمات صاحب العمل ولم يكن نتيجة لخطا الغير او ناشئا عن قوة قاهرة، فلصاحب العمل ان يقتطع من اجر العامل المبلغ اللازم للاصلاح او لاعادة الوضع الي ما كان عليه علي الا يزيد ما يقتطع لهذا الغرض علي اجر خمسة ايام في كل شهر، ولصاحب العمل الحق في التظلم عند الاقتضاء، وذلك بطلب ما هو اكثر من ذلك اذا كان للعامل مال اخر يمكن الاستيفاء منه، وللعامل ان يتظلم مما نسب اليه او من تقدير صاحب العمل للتعويض امام هيئة تسوية الخلافات العمالية، فاذا حكمت بعدم احقية صاحب العمل في الرجوع علي العامل بما اقتطعه منه او حكمت باقل منه وجب علي صاحب العمل ان يرد الي العامل ما اقتطع منه دون وجه حق خلال سبعة ايام من تاريخ صدور الحكم.",
+    "target_en_norm": "if a worker, as a result of his own fault or his violation of the employer’s instructions and not as a result of a third party’s fault or a force majeure, causes loss, damage, or destruction to machinery or products owned by the employer while in his custody, the employer may deduct from the worker’s wage the amount necessary for repair or restoration to the original condition, provided that such deductions do not exceed an amount equivalent to five-day wage per month. the employer may file a grievance, if necessary, demanding more deductions if the worker has other properties from which collections may be made. the worker may file a grievance with the labor court regarding the allegations leveled at him or the employer’s estimation of the damages. if the labor court rules that the employer is not entitled to claim such deductions or if it awards the employer a lower amount, the employer shall return to the worker the amounts unjustifiably deducted, within seven days from the date of the award.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44569,
+    "source_ar": "2 - يكون تظلم أي من الطرفين خلال خمسة عشر يوم عمل، وإلا سقط الحق فيه، ويبدأ موعد التظلم بالنسبة إلى صاحب العمل من تاريخ اكتشاف الواقعة، وبالنسبة إلى العامل من تاريخ إبلاغ صاحب العمل له بذلك.",
+    "target_en": "Either party shall file its grievance within 15 work days; otherwise, their right to do so shall be forfeited. For the employer, the date of filing the grievance shall be from the date the incident is discovered, and for the worker, from the date of his notification of the same by the employer.",
+    "source_ar_norm": "2 - يكون تظلم اي من الطرفين خلال خمسة عشر يوم عمل، والا سقط الحق فيه، ويبدا موعد التظلم بالنسبة الي صاحب العمل من تاريخ اكتشاف الواقعة، وبالنسبة الي العامل من تاريخ ابلاغ صاحب العمل له بذلك.",
+    "target_en_norm": "either party shall file its grievance within 15 work days; otherwise, their right to do so shall be forfeited. for the employer, the date of filing the grievance shall be from the date the incident is discovered, and for the worker, from the date of his notification of the same by the employer.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44570,
+    "source_ar": "المادة الثانية والتسعون:",
+    "target_en": "Article 92",
+    "source_ar_norm": "المادة الثانية والتسعون:",
+    "target_en_norm": "article 92",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44571,
+    "source_ar": "لا يجوز حسم أي مبلغ من أجور العامل لقاء حقوق خاصة دون موافقة خطية منه، إلا في الحالات الآتية:",
+    "target_en": "No amount shall be deducted from a worker’s wages against private rights without his written consent, except in the following cases:",
+    "source_ar_norm": "لا يجوز حسم اي مبلغ من اجور العامل لقاء حقوق خاصة دون موافقة خطية منه، الا في الحالات الاتية:",
+    "target_en_norm": "no amount shall be deducted from a worker’s wages against private rights without his written consent, except in the following cases:",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44572,
+    "source_ar": "1 - استرداد قروض صاحب العمل، بشرط ألا يزيد ما يحسم من العامل في هذه الحالة على 10% من أجره.",
+    "target_en": "Repayment of loans extended by the employer, provided that such deductions do not exceed 10% of his wage.",
+    "source_ar_norm": "1 - استرداد قروض صاحب العمل، بشرط الا يزيد ما يحسم من العامل في هذه الحالة علي 10% من اجره.",
+    "target_en_norm": "repayment of loans extended by the employer, provided that such deductions do not exceed 10% of his wage.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44573,
+    "source_ar": "2 - اشتراكات التأمينات الاجتماعية، وأي اشتراكات أخرى مستحقة على العامل ومقررة نظامًا.",
+    "target_en": "Social insurance or any other contributions due on workers as provided for by law.",
+    "source_ar_norm": "2 - اشتراكات التامينات الاجتماعية، واي اشتراكات اخري مستحقة علي العامل ومقررة نظاما.",
+    "target_en_norm": "social insurance or any other contributions due on workers as provided for by law.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44574,
+    "source_ar": "3 - اشتراكات العامل في صندوق الادخار والقروض المستحقة للصندوق.",
+    "target_en": "Worker’s contributions to thrift funds or loans due to such funds.",
+    "source_ar_norm": "3 - اشتراكات العامل في صندوق الادخار والقروض المستحقة للصندوق.",
+    "target_en_norm": "worker’s contributions to thrift funds or loans due to such funds.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44575,
+    "source_ar": "4 - أقساط أي مشروع يقوم به صاحب العمل لبناء المساكن بقصد تمليكها للعمال أو أي مزية أخرى.",
+    "target_en": "Installments of any scheme undertaken by the employer involving home ownership programs or any other privilege.",
+    "source_ar_norm": "4 - اقساط اي مشروع يقوم به صاحب العمل لبناء المساكن بقصد تمليكها للعمال او اي مزية اخري.",
+    "target_en_norm": "installments of any scheme undertaken by the employer involving home ownership programs or any other privilege.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44576,
+    "source_ar": "5 - الغرامات التي توقع على العامل بسبب المخالفات التي يرتكبها، وكذلك المبلغ الذي يقتطع منه مقابل ما أتلفه.",
+    "target_en": "Fines imposed on the worker on account of violations he commits, as well as deductions made for damages he causes.",
+    "source_ar_norm": "5 - الغرامات التي توقع علي العامل بسبب المخالفات التي يرتكبها، وكذلك المبلغ الذي يقتطع منه مقابل ما اتلفه.",
+    "target_en_norm": "fines imposed on the worker on account of violations he commits, as well as deductions made for damages he causes.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44577,
+    "source_ar": "6 - استيفاء دين إنفاذًا لأي حكم قضائي، على ألَّا يزيد ما يحسم شهريًّا لقاء ذلك على ربع الأجر المستحق للعامل ما لم يتضمن الحكم خلاف ذلك. ويستوفى دين النفقة أولًا، ثم دين المأكل والملبس والمسكن قبل الديون الأخرى.",
+    "target_en": "Any debt collected in implementation of a judicial judgment, provided that the monthly deduction shall not exceed one quarter of the worker‘s wage, unless the judgment provides otherwise. First to be collected is alimony, followed by food, clothing, and accommodation debts, before other debts.",
+    "source_ar_norm": "6 - استيفاء دين انفاذا لاي حكم قضائي، علي الا يزيد ما يحسم شهريا لقاء ذلك علي ربع الاجر المستحق للعامل ما لم يتضمن الحكم خلاف ذلك. ويستوفي دين النفقة اولا، ثم دين الماكل والملبس والمسكن قبل الديون الاخري.",
+    "target_en_norm": "any debt collected in implementation of a judicial judgment, provided that the monthly deduction shall not exceed one quarter of the worker‘s wage, unless the judgment provides otherwise. first to be collected is alimony, followed by food, clothing, and accommodation debts, before other debts.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44578,
+    "source_ar": "المادة الثالثة والتسعون :",
+    "target_en": "Article 93",
+    "source_ar_norm": "المادة الثالثة والتسعون :",
+    "target_en_norm": "article 93",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44579,
+    "source_ar": "لا يجوز- في جميع الأحوال- أن تزيد نسبة المبالغ المحسومة على نصف أجر العامل المستحق، ما لم يثبت لدى هيئة تسوية الخلافات العمالية إمكان الزيادة في الحسم على تلك النسبة، أو يثبت لديها حاجة العامل إلى أكثر من نصف أجره، وفي هذه الحالة الأخيرة لا يعطى العامل أكثر من ثلاثة أرباع أجره، مهما كان الأمر.",
+    "target_en": "In all cases, deductions made may not exceed half the worker’s due wage, unless the labor court determines that further deductions can be made or that the worker is in need of more than half his wage. In the latter case, the worker may not be given more than three quarters of his wage.",
+    "source_ar_norm": "لا يجوز- في جميع الاحوال- ان تزيد نسبة المبالغ المحسومة علي نصف اجر العامل المستحق، ما لم يثبت لدي هيئة تسوية الخلافات العمالية امكان الزيادة في الحسم علي تلك النسبة، او يثبت لديها حاجة العامل الي اكثر من نصف اجره، وفي هذه الحالة الاخيرة لا يعطي العامل اكثر من ثلاثة ارباع اجره، مهما كان الامر.",
+    "target_en_norm": "in all cases, deductions made may not exceed half the worker’s due wage, unless the labor court determines that further deductions can be made or that the worker is in need of more than half his wage. in the latter case, the worker may not be given more than three quarters of his wage.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44580,
+    "source_ar": "المادة الرابعة والتسعون :",
+    "target_en": "Article 94",
+    "source_ar_norm": "المادة الرابعة والتسعون :",
+    "target_en_norm": "article 94",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44581,
+    "source_ar": "إذا حسم من أجر العامل أي مبلغ لسبب غير ما هو منصوص عليه في هذا النظام بغير موافقته الكتابية، أو تأخر صاحب العمل عن أداء أجر العامل في موعد استحقاقه المحدد نظامًا دون مسوغ مشروع كان للعامل أو لمن يمثله أو مدير مكتب العمل المختص أن يتقدم بطلب إلى هيئة تسوية الخلافات العمالية، كي تأمر صاحب العمل أن يرد إلى العامل ما حسمه دون وجه حق، أو يدفع له أجوره المتأخرة",
+    "target_en": "If any amount is deducted from a worker’s wages for reasons other than those specified in this Law without his written consent, or if an employer delays, without a valid justification, payment of a worker’s wage beyond the due date set forth in the Law, the worker, his representative, or the head of the competent labor office may submit a request to the labor court to order the employer to return to the worker any wrongfully-deducted amounts or to pay him his outstanding wages.",
+    "source_ar_norm": "اذا حسم من اجر العامل اي مبلغ لسبب غير ما هو منصوص عليه في هذا النظام بغير موافقته الكتابية، او تاخر صاحب العمل عن اداء اجر العامل في موعد استحقاقه المحدد نظاما دون مسوغ مشروع كان للعامل او لمن يمثله او مدير مكتب العمل المختص ان يتقدم بطلب الي هيئة تسوية الخلافات العمالية، كي تامر صاحب العمل ان يرد الي العامل ما حسمه دون وجه حق، او يدفع له اجوره المتاخرة",
+    "target_en_norm": "if any amount is deducted from a worker’s wages for reasons other than those specified in this law without his written consent, or if an employer delays, without a valid justification, payment of a worker’s wage beyond the due date set forth in the law, the worker, his representative, or the head of the competent labor office may submit a request to the labor court to order the employer to return to the worker any wrongfully-deducted amounts or to pay him his outstanding wages.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44582,
+    "source_ar": "يجوز للهيئة المذكورة إذا ثبت لديها أن صاحب العمل حسم المبالغ المذكورة أو تأخر في سداد الأجر دون مسوغ أن توقع عليه غرامة لا تتجاوز ضعف ما حسم من أجر العامل أو ضعف قيمة الأجر المتأخر.",
+    "target_en": "The labor court may, if it establishes that the employer has unjustifiably deducted said amounts or delayed the payment of wages, impose on the employer a fine not exceeding twice the amount deducted from the worker’s wage or twice the outstanding wages.",
+    "source_ar_norm": "يجوز للهيئة المذكورة اذا ثبت لديها ان صاحب العمل حسم المبالغ المذكورة او تاخر في سداد الاجر دون مسوغ ان توقع عليه غرامة لا تتجاوز ضعف ما حسم من اجر العامل او ضعف قيمة الاجر المتاخر.",
+    "target_en_norm": "the labor court may, if it establishes that the employer has unjustifiably deducted said amounts or delayed the payment of wages, impose on the employer a fine not exceeding twice the amount deducted from the worker’s wage or twice the outstanding wages.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44583,
+    "source_ar": "المادة الخامسة والتسعون :",
+    "target_en": "Article 95",
+    "source_ar_norm": "المادة الخامسة والتسعون :",
+    "target_en_norm": "article 95",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44584,
+    "source_ar": "إذا لم ينص عقد العمل أو لائحة تنظيم العمل على الأجر الذي يلتزم به صاحب العمل يؤخذ بالأجر المقدر لعمل من النوع ذاته في المنشأة إن وجد، وإلا قدر الأجر طبقًا لعرف المهنة في الجهة التي يؤدى فيها العمل، فإن لم يوجد تولت هيئة تسوية الخلافات العمالية تقدير الأجر وفقًا لمقتضيات العدالة.",
+    "target_en": "If the employment contract or the work organization regulation does not provide for the wage binding on the employer, the wage estimated for the same type of work in the firm, if any, shall be adopted; otherwise, the wage shall be estimated in accordance with the norms of the profession at the place where the work is performed. In the absence of such norms, the labor court shall estimate the wage in accordance with the dictates of justice.",
+    "source_ar_norm": "اذا لم ينص عقد العمل او لائحة تنظيم العمل علي الاجر الذي يلتزم به صاحب العمل يؤخذ بالاجر المقدر لعمل من النوع ذاته في المنشاة ان وجد، والا قدر الاجر طبقا لعرف المهنة في الجهة التي يؤدي فيها العمل، فان لم يوجد تولت هيئة تسوية الخلافات العمالية تقدير الاجر وفقا لمقتضيات العدالة.",
+    "target_en_norm": "if the employment contract or the work organization regulation does not provide for the wage binding on the employer, the wage estimated for the same type of work in the firm, if any, shall be adopted; otherwise, the wage shall be estimated in accordance with the norms of the profession at the place where the work is performed. in the absence of such norms, the labor court shall estimate the wage in accordance with the dictates of justice.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44585,
+    "source_ar": "ويتبع ذلك أيضًا في تحديد نوع الخدمة الواجب على العامل أداؤها، وفي تحديد مداها.",
+    "target_en": "The same shall also apply in determining the type and scope of the service that the worker is required to render.",
+    "source_ar_norm": "ويتبع ذلك ايضا في تحديد نوع الخدمة الواجب علي العامل اداؤها، وفي تحديد مداها.",
+    "target_en_norm": "the same shall also apply in determining the type and scope of the service that the worker is required to render.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44586,
+    "source_ar": "المادة السادسة والتسعون :",
+    "target_en": "Article 96",
+    "source_ar_norm": "المادة السادسة والتسعون :",
+    "target_en_norm": "article 96",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44587,
+    "source_ar": "إذا كان أجر العامل محددًا على أساس القطعة أو الإنتاج يعتمد متوسط الأجر الذي تقاضاه عن أيام عمله الفعلية في السنة الأخيرة من خدمته، لغرض حساب أي من الحقوق المقررة له بموجب هذا النظام",
+    "target_en": "If the worker’s wage is determined on the basis of piecework or productivity, the average wage which the worker receives for his actual work days during the last year of his service shall be used as the basis for calculating any entitlements determined for the worker under this Law.",
+    "source_ar_norm": "اذا كان اجر العامل محددا علي اساس القطعة او الانتاج يعتمد متوسط الاجر الذي تقاضاه عن ايام عمله الفعلية في السنة الاخيرة من خدمته، لغرض حساب اي من الحقوق المقررة له بموجب هذا النظام",
+    "target_en_norm": "if the worker’s wage is determined on the basis of piecework or productivity, the average wage which the worker receives for his actual work days during the last year of his service shall be used as the basis for calculating any entitlements determined for the worker under this law.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44588,
+    "source_ar": "إذا كان الأجر كله مبالغ العمولات أو النسب المئوية من المبيعات أو ما أشبه ذلك، مما تكون قابلة بطبيعتها للزيادة أو النقص، يحسب متوسط الأجر اليومي على أساس ما تقاضاه العامل عن أيام العمل الفعلية مقسومًا عليها.",
+    "target_en": "If the entire wage is the amounts received as commissions, percentages of sales, or the like which are by nature subject to increases or decreases, the daily average wage shall be calculated on the basis of the amounts the worker receives for the actual work days, divided by them.",
+    "source_ar_norm": "اذا كان الاجر كله مبالغ العمولات او النسب المئوية من المبيعات او ما اشبه ذلك، مما تكون قابلة بطبيعتها للزيادة او النقص، يحسب متوسط الاجر اليومي علي اساس ما تقاضاه العامل عن ايام العمل الفعلية مقسوما عليها.",
+    "target_en_norm": "if the entire wage is the amounts received as commissions, percentages of sales, or the like which are by nature subject to increases or decreases, the daily average wage shall be calculated on the basis of the amounts the worker receives for the actual work days, divided by them.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44589,
+    "source_ar": "المادة السابعة والتسعون :",
+    "target_en": "Article 97",
+    "source_ar_norm": "المادة السابعة والتسعون :",
+    "target_en_norm": "article 97",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44590,
+    "source_ar": "إذا جرى توقيف العامل أو احتجازه لدى الجهات المختصة في قضايا تتصل بالعمل أو بسببه فعلى صاحب العمل أن يستمر في دفع 50% من الأجر إلى العامل حتى يفصل في قضيته، على ألا تزيد مدة التوقيف أو الحجز على مائة وثمانين يومًا، فإذا زادت على ذلك فلا يلتزم صاحب العمل بدفع أي جزء من الأجر عن المدة الزائدة، فإذا قضي ببراءة العامل أو حفظ التحقيق لعدم ثبوت ما نسب إليه أو لعدم صحته، وجب على صاحب العمل أن يرد إلى العامل ما سبق حسمه من أجره، أما إذا قضي بإدانته فلا يستعاد منه ما صرف له ما لم ينص الحكم على خلاف ذلك.",
+    "target_en": "If a worker is detained or taken into custody by the competent authorities in cases related to work or occasioned by it, the employer shall continue to pay the worker 50% of the wage until the case is decided, provided that the period of detention or custody shall not exceed 180 days. If said period exceeds that, the employer shall not be required to pay any portion of the wage for the excess period. If the worker is acquitted or the investigation is closed for lack of evidence or invalidity thereof, the employer shall return to the worker the amount previously deducted from his wage. However, if he is convicted, none of the payments made to him shall be recovered unless the judgment provides otherwise.",
+    "source_ar_norm": "اذا جري توقيف العامل او احتجازه لدي الجهات المختصة في قضايا تتصل بالعمل او بسببه فعلي صاحب العمل ان يستمر في دفع 50% من الاجر الي العامل حتي يفصل في قضيته، علي الا تزيد مدة التوقيف او الحجز علي مائة وثمانين يوما، فاذا زادت علي ذلك فلا يلتزم صاحب العمل بدفع اي جزء من الاجر عن المدة الزائدة، فاذا قضي ببراءة العامل او حفظ التحقيق لعدم ثبوت ما نسب اليه او لعدم صحته، وجب علي صاحب العمل ان يرد الي العامل ما سبق حسمه من اجره، اما اذا قضي بادانته فلا يستعاد منه ما صرف له ما لم ينص الحكم علي خلاف ذلك.",
+    "target_en_norm": "if a worker is detained or taken into custody by the competent authorities in cases related to work or occasioned by it, the employer shall continue to pay the worker 50% of the wage until the case is decided, provided that the period of detention or custody shall not exceed 180 days. if said period exceeds that, the employer shall not be required to pay any portion of the wage for the excess period. if the worker is acquitted or the investigation is closed for lack of evidence or invalidity thereof, the employer shall return to the worker the amount previously deducted from his wage. however, if he is convicted, none of the payments made to him shall be recovered unless the judgment provides otherwise.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44591,
+    "source_ar": "المادة الثامنة والتسعون :",
+    "target_en": "Article 98",
+    "source_ar_norm": "المادة الثامنة والتسعون :",
+    "target_en_norm": "article 98",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44592,
+    "source_ar": "لا يجوز تشغيل العامل تشغيلًا فعليًّا أكثر من ثماني ساعات في اليوم الواحد، إذا اعتمد صاحب العمل المعيار اليومي، أو أكثر من ثمان وأربعين ساعة في الأسبوع، إذا اعتمد المعيار الأسبوعي. وتخفض ساعات العمل الفعلية خلال شهر رمضان للمسلمين، بحيث لا تزيد على ست ساعات في اليوم، أو ست وثلاثين ساعة في الأسبوع.",
+    "target_en": "A worker may not actually work for more than nine hours a day if the employer uses the daily work criterion, or more than forty-five hours a week if he uses the weekly criterion. During the month of Ramadan, the actual working hours for Muslims shall be reduced to a maximum of seven hours a day or thirty-five hours a week.",
+    "source_ar_norm": "لا يجوز تشغيل العامل تشغيلا فعليا اكثر من ثماني ساعات في اليوم الواحد، اذا اعتمد صاحب العمل المعيار اليومي، او اكثر من ثمان واربعين ساعة في الاسبوع، اذا اعتمد المعيار الاسبوعي. وتخفض ساعات العمل الفعلية خلال شهر رمضان للمسلمين، بحيث لا تزيد علي ست ساعات في اليوم، او ست وثلاثين ساعة في الاسبوع.",
+    "target_en_norm": "a worker may not actually work for more than nine hours a day if the employer uses the daily work criterion, or more than forty-five hours a week if he uses the weekly criterion. during the month of ramadan, the actual working hours for muslims shall be reduced to a maximum of seven hours a day or thirty-five hours a week.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44593,
+    "source_ar": "المادة التاسعة والتسعون :",
+    "target_en": "Article 99",
+    "source_ar_norm": "المادة التاسعة والتسعون :",
+    "target_en_norm": "article 99",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44594,
+    "source_ar": "يجوز زيادة ساعات العمل المنصوص عليها في المادة الثامنة والتسعين من هذا النظام إلى تسع ساعات في اليوم الواحد لبعض فئات العمال، أو في بعض الصناعات والأعمال التي لا يشتغل فيها العامل بصفة مستمرة، كما يجوز تخفيضها إلى سبع ساعات في اليوم الواحد لبعض فئات العمال أو في بعض الصناعات والأعمال الخطرة أو الضارة، وتحدد فئات العمال والصناعات والأعمال المشار إليها بقرار من الوزير.",
+    "target_en": "The number of working hours provided for in Article (98) of this Law may be raised to ten hours a day for certain categories of workers or in certain industries and jobs where the worker does not work continuously. It may likewise be reduced to eight hours a day for certain categories of workers or in certain hazardous or harmful industries or jobs. Categories of workers, industries and jobs referred to shall be determined pursuant to a decision by the Minister.",
+    "source_ar_norm": "يجوز زيادة ساعات العمل المنصوص عليها في المادة الثامنة والتسعين من هذا النظام الي تسع ساعات في اليوم الواحد لبعض فئات العمال، او في بعض الصناعات والاعمال التي لا يشتغل فيها العامل بصفة مستمرة، كما يجوز تخفيضها الي سبع ساعات في اليوم الواحد لبعض فئات العمال او في بعض الصناعات والاعمال الخطرة او الضارة، وتحدد فئات العمال والصناعات والاعمال المشار اليها بقرار من الوزير.",
+    "target_en_norm": "the number of working hours provided for in article (98) of this law may be raised to ten hours a day for certain categories of workers or in certain industries and jobs where the worker does not work continuously. it may likewise be reduced to eight hours a day for certain categories of workers or in certain hazardous or harmful industries or jobs. categories of workers, industries and jobs referred to shall be determined pursuant to a decision by the minister.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44595,
+    "source_ar": "المادة المائة :",
+    "target_en": "Article 100",
+    "source_ar_norm": "المادة المائة :",
+    "target_en_norm": "article 100",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44596,
+    "source_ar": "يجوز لصاحب العمل- بموافقة الوزارة- في المنشآت التي تقتضي طبيعة العمل فيها أداء العمل بالتناوب زيادة ساعات العمل على ثماني ساعات عمل في اليوم أو ثمان وأربعين ساعة في الأسبوع، بشرط ألا يزيد متوسط ساعات العمل عند احتسابه لمدة ثلاثة أسابيع أو أقل على ثماني ساعات يوميًّا أو ثمان وأربعين ساعة أسبوعيًّا.",
+    "target_en": "In exception to Articles (98) and (101) of this Law, the employer may, with the Ministry’s approval, increase the number of working hours to more than nine hours a day or forty-five hours a week, provided that the average working hours when calculated over a period of three weeks or less is not more than nine hours a day or forty-five hours a week, in firms where work is done in shifts.",
+    "source_ar_norm": "يجوز لصاحب العمل- بموافقة الوزارة- في المنشات التي تقتضي طبيعة العمل فيها اداء العمل بالتناوب زيادة ساعات العمل علي ثماني ساعات عمل في اليوم او ثمان واربعين ساعة في الاسبوع، بشرط الا يزيد متوسط ساعات العمل عند احتسابه لمدة ثلاثة اسابيع او اقل علي ثماني ساعات يوميا او ثمان واربعين ساعة اسبوعيا.",
+    "target_en_norm": "in exception to articles (98) and (101) of this law, the employer may, with the ministry’s approval, increase the number of working hours to more than nine hours a day or forty-five hours a week, provided that the average working hours when calculated over a period of three weeks or less is not more than nine hours a day or forty-five hours a week, in firms where work is done in shifts.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44597,
+    "source_ar": "المادة الأولى بعد المائة:",
+    "target_en": "Article 101",
+    "source_ar_norm": "المادة الاولي بعد المائة:",
+    "target_en_norm": "article 101",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44598,
+    "source_ar": "تنظم ساعات العمل وفترات الراحة خلال اليوم، بحيث لا يعمل العامل أكثر من خمس ساعات متتالية دون فترة للراحة والصلاة والطعام لا تقل عن نصف ساعة في المرة الواحدة خلال مجموع ساعات العمل، وبحيث لا يبقى العامل في مكان العمل أكثر من اثنتي عشرة ساعة في اليوم الواحد.",
+    "target_en": "Working hours and rest periods during the day shall be scheduled so that no worker shall work for more than five consecutive hours without a break of no less than thirty minutes each time during the total working hours for rest, prayer and meals, provided that a worker does not remain at the workplace for more than 12 hours a day.",
+    "source_ar_norm": "تنظم ساعات العمل وفترات الراحة خلال اليوم، بحيث لا يعمل العامل اكثر من خمس ساعات متتالية دون فترة للراحة والصلاة والطعام لا تقل عن نصف ساعة في المرة الواحدة خلال مجموع ساعات العمل، وبحيث لا يبقي العامل في مكان العمل اكثر من اثنتي عشرة ساعة في اليوم الواحد.",
+    "target_en_norm": "working hours and rest periods during the day shall be scheduled so that no worker shall work for more than five consecutive hours without a break of no less than thirty minutes each time during the total working hours for rest, prayer and meals, provided that a worker does not remain at the workplace for more than 12 hours a day.",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44599,
+    "source_ar": "المادة الثانية بعد المائة :",
+    "target_en": "Article 102",
+    "source_ar_norm": "المادة الثانية بعد المائة :",
+    "target_en_norm": "article 102",
+    "file_name": "نظام العمل.docx"
+  },
+  {
+    "id": 44600,
+    "source_ar": "لا تدخل الفترات المخصصة للراحة والصلاة والطعام ضمن ساعات العمل الفعلية، ولا يكون العامل خلال هذه الفترات تحت سلطة صاحب العمل، ولا يجوز لصاحب العمل أن يلزم العامل بالبقاء خلالها في مكان العمل.",
+    "target_en": "The periods designated for rest, prayers, and meals shall not be included in the actual working hours. During such periods, the worker shall not be under the employer’s authority. The employer shall not require the worker to remain at the workplace during such breaks.",
+    "source_ar_norm": "لا تدخل الفترات المخصصة للراحة والصلاة والطعام ضمن ساعات العمل الفعلية، ولا يكون العامل خلال هذه الفترات تحت سلطة صاحب العمل، ولا يجوز لصاحب العمل ان يلزم العامل بالبقاء خلالها في مكان العمل.",
+    "target_en_norm": "the periods designated for rest, prayers, and meals shall not be included in the actual working hours. during such periods, the worker shall not be under the employer’s authority. the employer shall not require the worker to remain at the workplace during such breaks.",
+    "file_name": "نظام العمل.docx"
+  }
+]

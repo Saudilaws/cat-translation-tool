@@ -1,0 +1,802 @@
+[
+  {
+    "id": 48801,
+    "source_ar": "41. التفحيط: قيادة المركبة بتهور في الطريق أو الأماكن العامة بشكل غير منتظم عمداً ودون سبب مشروع، بحيث تحدث الإطارات غالباً صوتاً عالياً مع جعل المركبة تقوم بالزحف يميناً أو يساراً أو الالتفاف حول نفسها أثناء السير للأمام أو الخلف باستخدام قوة محركها أو مكابحها أو ناقل الحركة فيها لأجل الاستعراض. ويُعد في حكم التفحيط إمالة المركبة وجعلها تسير على الإطارين الأيمنين أو الأيسرين، أو جعل الدراجة الآلية ذات الإطارين تسير على إطار واحد، أو خروج السائق أو الراكب من المركبة أثناء سيرها، أو القيام بفك بعض أجزائها أثناء سيرها، لأجل الاستعراض.",
+    "target_en": "41. Drifting: The intentional reckless driving of a vehicle on a road or in a public place without justification, causing the tires to produce a screeching sound and forcing the vehicle to drift on either sides or rotate around itself while moving forward or backward using the power of its engine, its brakes, or transmission for the purpose of attracting attention. This includes forcing the vehicle to move on either side using only two tires, forcing a two-wheel motorcycle to move on a single wheel, the exiting of the driver or passenger while the vehicle is in motion, or the dismantling of some parts of the vehicle during movement for the purpose of attracting attention.",
+    "source_ar_norm": "41. التفحيط: قيادة المركبة بتهور في الطريق او الاماكن العامة بشكل غير منتظم عمدا ودون سبب مشروع، بحيث تحدث الاطارات غالبا صوتا عاليا مع جعل المركبة تقوم بالزحف يمينا او يسارا او الالتفاف حول نفسها اثناء السير للامام او الخلف باستخدام قوة محركها او مكابحها او ناقل الحركة فيها لاجل الاستعراض. ويعد في حكم التفحيط امالة المركبة وجعلها تسير علي الاطارين الايمنين او الايسرين، او جعل الدراجة الالية ذات الاطارين تسير علي اطار واحد، او خروج السائق او الراكب من المركبة اثناء سيرها، او القيام بفك بعض اجزائها اثناء سيرها، لاجل الاستعراض.",
+    "target_en_norm": "41. drifting: the intentional reckless driving of a vehicle on a road or in a public place without justification, causing the tires to produce a screeching sound and forcing the vehicle to drift on either sides or rotate around itself while moving forward or backward using the power of its engine, its brakes, or transmission for the purpose of attracting attention. this includes forcing the vehicle to move on either side using only two tires, forcing a two-wheel motorcycle to move on a single wheel, the exiting of the driver or passenger while the vehicle is in motion, or the dismantling of some parts of the vehicle during movement for the purpose of attracting attention.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48802,
+    "source_ar": "42. الأوزان:",
+    "target_en": "42. Weights:",
+    "source_ar_norm": "42. الاوزان:",
+    "target_en_norm": "42. weights:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48803,
+    "source_ar": "وزن السيارة الفارغ: وزن السيارة وهي مجهزة بمحروقاتها وآلات الصيانة والإصلاح وأدواتها الاحتياطية.",
+    "target_en": "(a) Empty Vehicle Weight: Weight of the vehicle plus fuel and maintenance, repair, and spare tools.",
+    "source_ar_norm": "وزن السيارة الفارغ: وزن السيارة وهي مجهزة بمحروقاتها والات الصيانة والاصلاح وادواتها الاحتياطية.",
+    "target_en_norm": "(a) empty vehicle weight: weight of the vehicle plus fuel and maintenance, repair, and spare tools.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48804,
+    "source_ar": "وزن السيارة الإجمالي: وزن السيارة الفارغ مضافا إليه الحمولة والسائق والركاب.",
+    "target_en": "(b) Gross Vehicle Weight: Empty vehicle weight plus the cargo, driver, and passengers.",
+    "source_ar_norm": "وزن السيارة الاجمالي: وزن السيارة الفارغ مضافا اليه الحمولة والسائق والركاب.",
+    "target_en_norm": "(b) gross vehicle weight: empty vehicle weight plus the cargo, driver, and passengers.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48805,
+    "source_ar": "الوزن الصافي (الحمولة): الفرق بين الوزنين الإجمالي والفارغ.",
+    "target_en": "(c) Net Weight (load): The difference between gross and empty vehicle weights.",
+    "source_ar_norm": "الوزن الصافي (الحمولة): الفرق بين الوزنين الاجمالي والفارغ.",
+    "target_en_norm": "(c) net weight (load): the difference between gross and empty vehicle weights.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48806,
+    "source_ar": "الوزن المحوري: الوزن الجزئي من الحمولة على المحور الواحد.",
+    "target_en": "(d) Axle Weight: The portion of the load supported by one of the vehicle's axles.",
+    "source_ar_norm": "الوزن المحوري: الوزن الجزئي من الحمولة علي المحور الواحد.",
+    "target_en_norm": "(d) axle weight: the portion of the load supported by one of the vehicle's axles.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48807,
+    "source_ar": "43. اللائحة: اللائحة التنفيذية لهذا النظام.",
+    "target_en": "43. Regulations: The Implementing Regulations for this Law.",
+    "source_ar_norm": "43. اللائحة: اللائحة التنفيذية لهذا النظام.",
+    "target_en_norm": "43. regulations: the implementing regulations for this law.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48808,
+    "source_ar": "44. هيكل المركبة: جسم المركبة، باستثناء المحرك والمحاور وقاعدة المركبة (الشاصي).",
+    "target_en": "44. Vehicle Frame: The vehicle's body excluding the engine, axles, and chassis.",
+    "source_ar_norm": "44. هيكل المركبة: جسم المركبة، باستثناء المحرك والمحاور وقاعدة المركبة (الشاصي).",
+    "target_en_norm": "44. vehicle frame: the vehicle's body excluding the engine, axles, and chassis.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48809,
+    "source_ar": "الباب الثاني: تسجيل المركبات ورخص السير",
+    "target_en": "Chapter Two: Vehicle Registration and Licensing",
+    "source_ar_norm": "الباب الثاني: تسجيل المركبات ورخص السير",
+    "target_en_norm": "chapter two: vehicle registration and licensing",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48810,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3:",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48811,
+    "source_ar": "1- يكون لكل مركبة رقم خاص تحمله مسجل لدى الإدارة المختصة، وفق ما تحدده اللائحة.",
+    "target_en": "Each vehicle shall carry a special number registered at the competent authority in accordance with the Regulations.",
+    "source_ar_norm": "1- يكون لكل مركبة رقم خاص تحمله مسجل لدي الادارة المختصة، وفق ما تحدده اللائحة.",
+    "target_en_norm": "each vehicle shall carry a special number registered at the competent authority in accordance with the regulations.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48812,
+    "source_ar": "2- يكون رقم رخصة السير هو رقم لوحة المركبة نفسه، وإذا أجري أي تغيير في رقم اللوحة فإنه يجب إجراء التغيير نفسه على رخصة السير.",
+    "target_en": "The number of a vehicle’s license shall be the same as the number on the vehicle's license plate. If the number on the plate is changed, the number on the vehicle's license must be changed accordingly.",
+    "source_ar_norm": "2- يكون رقم رخصة السير هو رقم لوحة المركبة نفسه، واذا اجري اي تغيير في رقم اللوحة فانه يجب اجراء التغيير نفسه علي رخصة السير.",
+    "target_en_norm": "the number of a vehicle’s license shall be the same as the number on the vehicle's license plate. if the number on the plate is changed, the number on the vehicle's license must be changed accordingly.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48813,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4:",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48814,
+    "source_ar": "يجب أن تحمل كل مركبة - فيما عدا الدراجة الآلية والمقطورة ونصف المقطورة - لوحتين ظاهرتين مقروءتين، توضحان رقم تسجيلهما، تكون إحداهما في مقدمة المركبة، والأخرى في مؤخرتها، ولا يجوز سير المركبة دونهما.",
+    "target_en": "Each vehicle – excluding motorcycles, trailers, and semi-trailers – must carry two clearly visible license plates displaying the registration number thereof: one on the front and the other on the rear end. A vehicle may not be operated without such license plates.",
+    "source_ar_norm": "يجب ان تحمل كل مركبة - فيما عدا الدراجة الالية والمقطورة ونصف المقطورة - لوحتين ظاهرتين مقروءتين، توضحان رقم تسجيلهما، تكون احداهما في مقدمة المركبة، والاخري في مؤخرتها، ولا يجوز سير المركبة دونهما.",
+    "target_en_norm": "each vehicle – excluding motorcycles, trailers, and semi-trailers – must carry two clearly visible license plates displaying the registration number thereof: one on the front and the other on the rear end. a vehicle may not be operated without such license plates.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48815,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5:",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48816,
+    "source_ar": "1- يجب أن تحمل كل دراجة آلية أو مقطورة أو نصف مقطورة لوحة واحدة، واضحة، ومقروءة، تثبت على مؤخرتها، ولا يجوز السير دونها، على أن تحمل المقطورة أو نصف المقطورة رقم لوحة القاطرة نفسه.",
+    "target_en": "Each motorcycle, trailer, and semi-trailer must carry one clearly visible license plate fitted on the rear end, and may not be operated without said plate. A trailer or semi-trailer must carry the same registration number as the tractor-trailers thereof.",
+    "source_ar_norm": "1- يجب ان تحمل كل دراجة الية او مقطورة او نصف مقطورة لوحة واحدة، واضحة، ومقروءة، تثبت علي مؤخرتها، ولا يجوز السير دونها، علي ان تحمل المقطورة او نصف المقطورة رقم لوحة القاطرة نفسه.",
+    "target_en_norm": "each motorcycle, trailer, and semi-trailer must carry one clearly visible license plate fitted on the rear end, and may not be operated without said plate. a trailer or semi-trailer must carry the same registration number as the tractor-trailers thereof.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48817,
+    "source_ar": "2- تعفى المقطورة من حمل اللوحة إذا كان حجمها لا يحجب رؤية لوحة المركبة القاطرة.",
+    "target_en": "If a trailer's size does not obstruct the view of the tractor-trailer's license plate, the trailer shall be exempted from carrying a license plate.",
+    "source_ar_norm": "2- تعفي المقطورة من حمل اللوحة اذا كان حجمها لا يحجب رؤية لوحة المركبة القاطرة.",
+    "target_en_norm": "if a trailer's size does not obstruct the view of the tractor-trailer's license plate, the trailer shall be exempted from carrying a license plate.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48818,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6:",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48819,
+    "source_ar": "لا يجوز لأي مركبة حمل لوحات غير التي تصدر من الإدارة المختصة.",
+    "target_en": "No vehicle may carry any license plates other than those issued by the competent authority.",
+    "source_ar_norm": "لا يجوز لاي مركبة حمل لوحات غير التي تصدر من الادارة المختصة.",
+    "target_en_norm": "no vehicle may carry any license plates other than those issued by the competent authority.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48820,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48821,
+    "source_ar": "تنقسم لوحات المركبات إلى الأنواع الآتية:",
+    "target_en": "License plates are categorized as follows",
+    "source_ar_norm": "تنقسم لوحات المركبات الي الانواع الاتية:",
+    "target_en_norm": "license plates are categorized as follows",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48822,
+    "source_ar": "اللوحات الخاصة، وتشمل الآتي:",
+    "target_en": "Private license plates which include the following:",
+    "source_ar_norm": "اللوحات الخاصة، وتشمل الاتي:",
+    "target_en_norm": "private license plates which include the following:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48823,
+    "source_ar": "1- لوحات المركبات الخاصة.",
+    "target_en": "Private vehicle license plates",
+    "source_ar_norm": "1- لوحات المركبات الخاصة.",
+    "target_en_norm": "private vehicle license plates",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48824,
+    "source_ar": "2- لوحات مركبات النقل الخاصة.",
+    "target_en": "Private truck license plates",
+    "source_ar_norm": "2- لوحات مركبات النقل الخاصة.",
+    "target_en_norm": "private truck license plates",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48825,
+    "source_ar": "3- لوحات الحافلات الخاصة.",
+    "target_en": "Private bus license plates",
+    "source_ar_norm": "3- لوحات الحافلات الخاصة.",
+    "target_en_norm": "private bus license plates",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48826,
+    "source_ar": "اللوحات العامة، وتشمل الآتي:",
+    "target_en": "Public license plates which include the following:",
+    "source_ar_norm": "اللوحات العامة، وتشمل الاتي:",
+    "target_en_norm": "public license plates which include the following:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48827,
+    "source_ar": "1- لوحات مركبات نقل عام.",
+    "target_en": "Public truck license plates",
+    "source_ar_norm": "1- لوحات مركبات نقل عام.",
+    "target_en_norm": "public truck license plates",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48828,
+    "source_ar": "2- لوحات الحافلات العامة.",
+    "target_en": "Public bus license plates",
+    "source_ar_norm": "2- لوحات الحافلات العامة.",
+    "target_en_norm": "public bus license plates",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48829,
+    "source_ar": "3- لوحات مركبات الأجرة.",
+    "target_en": "Taxicab license plates",
+    "source_ar_norm": "3- لوحات مركبات الاجرة.",
+    "target_en_norm": "taxicab license plates",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48830,
+    "source_ar": "4. اللوحات الدبلوماسية والقنصلية.",
+    "target_en": "Diplomatic and consular license plates",
+    "source_ar_norm": "4. اللوحات الدبلوماسية والقنصلية.",
+    "target_en_norm": "diplomatic and consular license plates",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48831,
+    "source_ar": "5. اللوحات المؤقتة.",
+    "target_en": "Temporary license plates",
+    "source_ar_norm": "5. اللوحات المؤقتة.",
+    "target_en_norm": "temporary license plates",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48832,
+    "source_ar": "6. لوحات مركبات الأشغال العامة.",
+    "target_en": "Construction vehicle license plates",
+    "source_ar_norm": "6. لوحات مركبات الاشغال العامة.",
+    "target_en_norm": "construction vehicle license plates",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48833,
+    "source_ar": "7. لوحات التصدير.",
+    "target_en": "Export license plates",
+    "source_ar_norm": "7. لوحات التصدير.",
+    "target_en_norm": "export license plates",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48834,
+    "source_ar": "8. لوحات الدراجات الآلية.",
+    "target_en": "Motorcycle license plates",
+    "source_ar_norm": "8. لوحات الدراجات الالية.",
+    "target_en_norm": "motorcycle license plates",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48835,
+    "source_ar": "9. لوحات اقتناء المركبات التاريخية القديمة.",
+    "target_en": "Vintage car license plates",
+    "source_ar_norm": "9. لوحات اقتناء المركبات التاريخية القديمة.",
+    "target_en_norm": "vintage car license plates",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48836,
+    "source_ar": "وتحدد اللائحة فئات هذه اللوحات ومواصفاتها، وشروط إصدارها، وكيفية المحافظة عليها.",
+    "target_en": "The Regulations shall determine the categories, specifications, conditions of issuance, and manner of preserving such license plates.",
+    "source_ar_norm": "وتحدد اللائحة فئات هذه اللوحات ومواصفاتها، وشروط اصدارها، وكيفية المحافظة عليها.",
+    "target_en_norm": "the regulations shall determine the categories, specifications, conditions of issuance, and manner of preserving such license plates.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48837,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8 (A):",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8 (a):",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48838,
+    "source_ar": "لا يجوز تسيير المركبات قبل تسجيلها ودفع الرسوم المقررة - وفقا لجداول الرسوم الملحقة بهذا النظام - وصدور رخصة السير الخاصة بها، ووضع لوحات عليها وفقا لأحكام هذا النظام ولائحته. ويستثنى من ذلك المركبات العسكرية المستخدمة لأغراض عسكرية التي لا تستخدم الطرق العامة بصورة اعتيادية.",
+    "target_en": "No vehicle may be operated before registering said vehicle, paying the prescribed fees in accordance with the Fee Schedule annexed to this Law, issuing the vehicle license, and fitting the license plates in accordance with this Law and its Regulations, excluding military vehicles used for military purposes which do not normally use public roads.",
+    "source_ar_norm": "لا يجوز تسيير المركبات قبل تسجيلها ودفع الرسوم المقررة - وفقا لجداول الرسوم الملحقة بهذا النظام - وصدور رخصة السير الخاصة بها، ووضع لوحات عليها وفقا لاحكام هذا النظام ولائحته. ويستثني من ذلك المركبات العسكرية المستخدمة لاغراض عسكرية التي لا تستخدم الطرق العامة بصورة اعتيادية.",
+    "target_en_norm": "no vehicle may be operated before registering said vehicle, paying the prescribed fees in accordance with the fee schedule annexed to this law, issuing the vehicle license, and fitting the license plates in accordance with this law and its regulations, excluding military vehicles used for military purposes which do not normally use public roads.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48839,
+    "source_ar": "يلزم كل قائد مركبة - يحمل رخصة قيادة سارية المفعول، ويقود سيارته داخل المملكة - بالتأمين، وفق ما تحدده اللائحة.",
+    "target_en": "All drivers – holding valid driving licenses and driving in the Kingdom – must have insurance in accordance with the Regulations.",
+    "source_ar_norm": "يلزم كل قائد مركبة - يحمل رخصة قيادة سارية المفعول، ويقود سيارته داخل المملكة - بالتامين، وفق ما تحدده اللائحة.",
+    "target_en_norm": "all drivers – holding valid driving licenses and driving in the kingdom – must have insurance in accordance with the regulations.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48840,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48841,
+    "source_ar": "1- لا يجوز تسيير المركبات قبل تسجيلها ودفع الرسوم المقررة - وفقا لجداول الرسوم الملحقة بهذا النظام - وصدور رخصة السير الخاصة بها، ووضع لوحات عليها وفقا لأحكام هذا النظام ولائحته. ويستثنى من ذلك المركبات العسكرية المستخدمة لأغراض عسكرية التي لا تستخدم الطرق العامة بصورة اعتيادية.",
+    "target_en": "No vehicle may be operated before registering said vehicle, paying the prescribed fees in accordance with the Fee Schedule annexed to this Law, issuing the vehicle license, and fitting the license plates in accordance with this Law and its Regulations, excluding military vehicles used for military purposes which do not normally use public roads.",
+    "source_ar_norm": "1- لا يجوز تسيير المركبات قبل تسجيلها ودفع الرسوم المقررة - وفقا لجداول الرسوم الملحقة بهذا النظام - وصدور رخصة السير الخاصة بها، ووضع لوحات عليها وفقا لاحكام هذا النظام ولائحته. ويستثني من ذلك المركبات العسكرية المستخدمة لاغراض عسكرية التي لا تستخدم الطرق العامة بصورة اعتيادية.",
+    "target_en_norm": "no vehicle may be operated before registering said vehicle, paying the prescribed fees in accordance with the fee schedule annexed to this law, issuing the vehicle license, and fitting the license plates in accordance with this law and its regulations, excluding military vehicles used for military purposes which do not normally use public roads.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48842,
+    "source_ar": "2- يجب تسديد الغرامات المرورية المترتبة على مخالفات سابقة قبل البدء في إجراءات رخصة السير.",
+    "target_en": "All due traffic fines must be paid prior to starting the process of issuing vehicle licenses.",
+    "source_ar_norm": "2- يجب تسديد الغرامات المرورية المترتبة علي مخالفات سابقة قبل البدء في اجراءات رخصة السير.",
+    "target_en_norm": "all due traffic fines must be paid prior to starting the process of issuing vehicle licenses.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48843,
+    "source_ar": "3- يلزم كل مالك مركبة بالتأمين على مركبته. وتحدد اللائحة الأحكام المنظمة لذلك.",
+    "target_en": "Any vehicle owner must insure his vehicle, in accordance with the Regulations.",
+    "source_ar_norm": "3- يلزم كل مالك مركبة بالتامين علي مركبته. وتحدد اللائحة الاحكام المنظمة لذلك.",
+    "target_en_norm": "any vehicle owner must insure his vehicle, in accordance with the regulations.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48844,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9:",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48845,
+    "source_ar": "يجوز نقل ملكية المركبات بعد سداد الرسوم المقررة، وتستمر مسئولية المالك المسجلة ملكيته للمركبة عن جميع الرسوم وكل ما يترتب على المركبة من التزامات، ويمكنه العودة بما دفع على المالك الجديد. وتحدد اللائحة الإجراءات والشروط التي تنظم ذلك.",
+    "target_en": "Ownership of vehicles may be transferred upon payment of prescribed fees. The registered owner of a vehicle shall remain responsible for all fees and liabilities regarding said vehicle, and he may recourse to the new owner for paid amounts. The Regulations shall set relevant procedures and conditions.",
+    "source_ar_norm": "يجوز نقل ملكية المركبات بعد سداد الرسوم المقررة، وتستمر مسئولية المالك المسجلة ملكيته للمركبة عن جميع الرسوم وكل ما يترتب علي المركبة من التزامات، ويمكنه العودة بما دفع علي المالك الجديد. وتحدد اللائحة الاجراءات والشروط التي تنظم ذلك.",
+    "target_en_norm": "ownership of vehicles may be transferred upon payment of prescribed fees. the registered owner of a vehicle shall remain responsible for all fees and liabilities regarding said vehicle, and he may recourse to the new owner for paid amounts. the regulations shall set relevant procedures and conditions.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48846,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10:",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48847,
+    "source_ar": "يجوز تعديل مجال استعمال المركبة بناء على طلب مالكها أو من يفوضه، بعد تعديل تسجيلها. وتحدد اللائحة إجراءات وشروط ذلك.",
+    "target_en": "The use of a vehicle may be changed upon application by the owner or a representative thereof, after changing the registration of said vehicle; subject to procedures and conditions set in the Regulations.",
+    "source_ar_norm": "يجوز تعديل مجال استعمال المركبة بناء علي طلب مالكها او من يفوضه، بعد تعديل تسجيلها. وتحدد اللائحة اجراءات وشروط ذلك.",
+    "target_en_norm": "the use of a vehicle may be changed upon application by the owner or a representative thereof, after changing the registration of said vehicle; subject to procedures and conditions set in the regulations.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48848,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11:",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48849,
+    "source_ar": "يجب أن تكون رخصة سير المركبة موجودة بها أثناء سيرها، ولرجل الأمن حق طلب إبرازها للاطلاع عليها، وليس له حجزها.",
+    "target_en": "A vehicle’s license must be kept therein while in operation, and law enforcement officers shall have the right to examine, but not seize, said license.",
+    "source_ar_norm": "يجب ان تكون رخصة سير المركبة موجودة بها اثناء سيرها، ولرجل الامن حق طلب ابرازها للاطلاع عليها، وليس له حجزها.",
+    "target_en_norm": "a vehicle’s license must be kept therein while in operation, and law enforcement officers shall have the right to examine, but not seize, said license.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48850,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12:",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48851,
+    "source_ar": "يحظر حجز رخصة سير المركبة لدى الغير، أو رهنها، أو ارتهانها.",
+    "target_en": "Vehicle licenses may not be seized, pledged, or held in pledge by others.",
+    "source_ar_norm": "يحظر حجز رخصة سير المركبة لدي الغير، او رهنها، او ارتهانها.",
+    "target_en_norm": "vehicle licenses may not be seized, pledged, or held in pledge by others.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48852,
+    "source_ar": "المادة الثالثة عشرة",
+    "target_en": "Article 13:",
+    "source_ar_norm": "المادة الثالثة عشرة",
+    "target_en_norm": "article 13:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48853,
+    "source_ar": "1- تصرف رخص السير ولوحات المركبات بعد دفع الرسوم المقررة. وتحدد اللائحة شروط ذلك.",
+    "target_en": "Vehicle licenses and license plates shall be issued upon payment of prescribed fees, subject to the conditions set in the Regulations.",
+    "source_ar_norm": "1- تصرف رخص السير ولوحات المركبات بعد دفع الرسوم المقررة. وتحدد اللائحة شروط ذلك.",
+    "target_en_norm": "vehicle licenses and license plates shall be issued upon payment of prescribed fees, subject to the conditions set in the regulations.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48854,
+    "source_ar": "2- في حالة بيع المركبات العائدة ملكيتها إلى البعثات الدبلوماسية، تستوفى الرسوم المقررة، وتحدد اللائحة شروط ذلك.",
+    "target_en": "If vehicles owned by diplomatic missions are sold, the prescribed fees shall be collected, subject to the conditions set in the Regulations.",
+    "source_ar_norm": "2- في حالة بيع المركبات العائدة ملكيتها الي البعثات الدبلوماسية، تستوفي الرسوم المقررة، وتحدد اللائحة شروط ذلك.",
+    "target_en_norm": "if vehicles owned by diplomatic missions are sold, the prescribed fees shall be collected, subject to the conditions set in the regulations.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48855,
+    "source_ar": "المادة الرابعة عشرة",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة",
+    "target_en_norm": "article 14",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48856,
+    "source_ar": "1- تكون مدة صلاحية رخص سير المركبات بأنواعها وفق ما تحدده اللائحة.",
+    "target_en": "The validity of all types of vehicle licenses shall be determined by the Regulations.",
+    "source_ar_norm": "1- تكون مدة صلاحية رخص سير المركبات بانواعها وفق ما تحدده اللائحة.",
+    "target_en_norm": "the validity of all types of vehicle licenses shall be determined by the regulations.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48857,
+    "source_ar": "2- تجدد رخص السير بعد دفع الرسوم المقررة.",
+    "target_en": "Vehicle licenses shall be renewed upon payment of prescribed fees.",
+    "source_ar_norm": "2- تجدد رخص السير بعد دفع الرسوم المقررة.",
+    "target_en_norm": "vehicle licenses shall be renewed upon payment of prescribed fees.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48858,
+    "source_ar": "المادة الخامسة عشرة",
+    "target_en": "Article 15:",
+    "source_ar_norm": "المادة الخامسة عشرة",
+    "target_en_norm": "article 15:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48859,
+    "source_ar": "يتم إصدار بدل لما يفقد أو يتلف من رخص السير، أو اللوحات، بعد دفع الرسوم المقررة. وتحدد اللائحة الإجراءات اللازمة لذلك.",
+    "target_en": "A replacement of any lost or destroyed vehicle license or license plate shall be issued upon payment of prescribed fees, subject to the conditions set in the Regulations.",
+    "source_ar_norm": "يتم اصدار بدل لما يفقد او يتلف من رخص السير، او اللوحات، بعد دفع الرسوم المقررة. وتحدد اللائحة الاجراءات اللازمة لذلك.",
+    "target_en_norm": "a replacement of any lost or destroyed vehicle license or license plate shall be issued upon payment of prescribed fees, subject to the conditions set in the regulations.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48860,
+    "source_ar": "المادة السادسة عشرة",
+    "target_en": "Article 16 (A):",
+    "source_ar_norm": "المادة السادسة عشرة",
+    "target_en_norm": "article 16 (a):",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48861,
+    "source_ar": "لا تستحصل رسوم نقل الملكية على المركبات التي تباع بقصد تفكيكها والانتفاع بأجزائها، وعلى المالك إنهاء إجراءات إسقاط المركبة من اسمه في سجلات المرور، ويكون مسئولا عما ينتج من إساءة استعمالها في حالة عدم اتخاذ هذا الإجراء.",
+    "target_en": "No title transfer fees shall be collected for vehicles sold for the purpose of disassembling them and making use of their parts. An owner must complete the procedures necessary to remove the vehicle under his name from the Traffic Department's records. He shall be responsible for any misuse of said vehicle if such procedure is not followed.",
+    "source_ar_norm": "لا تستحصل رسوم نقل الملكية علي المركبات التي تباع بقصد تفكيكها والانتفاع باجزائها، وعلي المالك انهاء اجراءات اسقاط المركبة من اسمه في سجلات المرور، ويكون مسئولا عما ينتج من اساءة استعمالها في حالة عدم اتخاذ هذا الاجراء.",
+    "target_en_norm": "no title transfer fees shall be collected for vehicles sold for the purpose of disassembling them and making use of their parts. an owner must complete the procedures necessary to remove the vehicle under his name from the traffic department's records. he shall be responsible for any misuse of said vehicle if such procedure is not followed.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48862,
+    "source_ar": "المادة السادسة عشرة",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة",
+    "target_en_norm": "article 16",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48863,
+    "source_ar": "لا تستحصل رسوم نقل الملكية على المركبات التي تباع بقصد تفكيكها والانتفاع بأجزائها، وتحدد اللائحة إجراءات ذلك.",
+    "target_en": "No title transfer fees shall be collected for vehicles sold for the purpose of disassembling them and making use of their parts, in accordance with the Regulations.",
+    "source_ar_norm": "لا تستحصل رسوم نقل الملكية علي المركبات التي تباع بقصد تفكيكها والانتفاع باجزائها، وتحدد اللائحة اجراءات ذلك.",
+    "target_en_norm": "no title transfer fees shall be collected for vehicles sold for the purpose of disassembling them and making use of their parts, in accordance with the regulations.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48864,
+    "source_ar": "المادة السابعة عشرة",
+    "target_en": "Article 17 (A):",
+    "source_ar_norm": "المادة السابعة عشرة",
+    "target_en_norm": "article 17 (a):",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48865,
+    "source_ar": "لا تجوز قيادة المركبة من قبل شخص غير مالكها - عند الخروج بها من المملكة - إلا بموجب تفويض، وفق ما تحدده اللائحة.",
+    "target_en": "When exiting the Kingdom, a vehicle may not be driven by any person other than its owner, except with authorization in accordance with the Regulations.",
+    "source_ar_norm": "لا تجوز قيادة المركبة من قبل شخص غير مالكها - عند الخروج بها من المملكة - الا بموجب تفويض، وفق ما تحدده اللائحة.",
+    "target_en_norm": "when exiting the kingdom, a vehicle may not be driven by any person other than its owner, except with authorization in accordance with the regulations.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48866,
+    "source_ar": "المادة السابعة عشرة",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة",
+    "target_en_norm": "article 17",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48867,
+    "source_ar": "لا يجوز لمالك المركبة السماح للغير بقيادتها إلا بموجب تفويض، وفقاً للإجراءات التي تحددها اللائحة.",
+    "target_en": "The owner of a vehicle may not allow others to drive said vehicle, except with authorization in accordance with the Regulations.",
+    "source_ar_norm": "لا يجوز لمالك المركبة السماح للغير بقيادتها الا بموجب تفويض، وفقا للاجراءات التي تحددها اللائحة.",
+    "target_en_norm": "the owner of a vehicle may not allow others to drive said vehicle, except with authorization in accordance with the regulations.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48868,
+    "source_ar": "المادة الثامنة عشرة",
+    "target_en": "Article 18:",
+    "source_ar_norm": "المادة الثامنة عشرة",
+    "target_en_norm": "article 18:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48869,
+    "source_ar": "تلزم الجهات الحكومية بعدم بيع مركباتها إلا بعد التنسيق مع الإدارة المختصة.",
+    "target_en": "Government agencies may not sell their vehicles without coordination with the competent authority.",
+    "source_ar_norm": "تلزم الجهات الحكومية بعدم بيع مركباتها الا بعد التنسيق مع الادارة المختصة.",
+    "target_en_norm": "government agencies may not sell their vehicles without coordination with the competent authority.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48870,
+    "source_ar": "المادة التاسعة عشرة",
+    "target_en": "Article 19:",
+    "source_ar_norm": "المادة التاسعة عشرة",
+    "target_en_norm": "article 19:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48871,
+    "source_ar": "تسجل مركبات الأشغال العامة لدى الجهة المختصة بما يضمن معرفة مالكها، ووضع لوحات عليها، وتحديد إجراءات نقل ملكيتها، والشروط اللازمة لاستخدامها وقيادتها، وفق ما تحدده اللائحة.",
+    "target_en": "Construction vehicles shall be registered with the competent authority such that the owner thereof is known, license plates are fitted thereon, and ownership transfer procedures and conditions for use and driving thereof are determined in accordance with the Regulations.",
+    "source_ar_norm": "تسجل مركبات الاشغال العامة لدي الجهة المختصة بما يضمن معرفة مالكها، ووضع لوحات عليها، وتحديد اجراءات نقل ملكيتها، والشروط اللازمة لاستخدامها وقيادتها، وفق ما تحدده اللائحة.",
+    "target_en_norm": "construction vehicles shall be registered with the competent authority such that the owner thereof is known, license plates are fitted thereon, and ownership transfer procedures and conditions for use and driving thereof are determined in accordance with the regulations.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48872,
+    "source_ar": "المادة العشرون",
+    "target_en": "Article 20 (A):",
+    "source_ar_norm": "المادة العشرون",
+    "target_en_norm": "article 20 (a):",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48873,
+    "source_ar": "لوزير الداخلية إسناد سحب المركبات وحجزها للقطاع الخاص، وفقا للضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها. وتحدد اللائحة ذلك.",
+    "target_en": "The Minister of Interior may assign towing and impounding vehicles to the private sector in accordance with controls and provisions relating to vehicle towing and impounding tenders, subject to the Regulations.",
+    "source_ar_norm": "لوزير الداخلية اسناد سحب المركبات وحجزها للقطاع الخاص، وفقا للضوابط والاحكام الخاصة بمنافسة سحب السيارات وحجزها. وتحدد اللائحة ذلك.",
+    "target_en_norm": "the minister of interior may assign towing and impounding vehicles to the private sector in accordance with controls and provisions relating to vehicle towing and impounding tenders, subject to the regulations.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48874,
+    "source_ar": "المادة العشرون",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون",
+    "target_en_norm": "article 20",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48875,
+    "source_ar": "لوزير الداخلية إسناد المعاينة وإجراءات الاستدلال في الحوادث المرورية وسحب المركبات وحجزها وبعض الخدمات المرورية الأخرى للقطاع الخاص، وفقاً للضوابط والأحكام التي تحددها اللائحة.",
+    "target_en": "The Minister of Interior may assign inspection and evidence collection in traffic accidents as well as towing and impounding vehicles and some other traffic services to the private sector in accordance with the provisions of the Regulations.",
+    "source_ar_norm": "لوزير الداخلية اسناد المعاينة واجراءات الاستدلال في الحوادث المرورية وسحب المركبات وحجزها وبعض الخدمات المرورية الاخري للقطاع الخاص، وفقا للضوابط والاحكام التي تحددها اللائحة.",
+    "target_en_norm": "the minister of interior may assign inspection and evidence collection in traffic accidents as well as towing and impounding vehicles and some other traffic services to the private sector in accordance with the provisions of the regulations.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48876,
+    "source_ar": "المادة الحادية والعشرون",
+    "target_en": "Article 21 (A):",
+    "source_ar_norm": "المادة الحادية والعشرون",
+    "target_en_norm": "article 21 (a):",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48877,
+    "source_ar": "يحظر على أصحاب معارض بيع المركبات ما يأتي:",
+    "target_en": "Owners of vehicle showrooms are prohibited from the following:",
+    "source_ar_norm": "يحظر علي اصحاب معارض بيع المركبات ما ياتي:",
+    "target_en_norm": "owners of vehicle showrooms are prohibited from the following:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48878,
+    "source_ar": "السماح بخروج أي مركبة مبيعة قبل انتهاء إجراءات نقل ملكيتها.",
+    "target_en": "Allowing sold vehicles to leave showrooms prior to completion of ownership transfer procedures.",
+    "source_ar_norm": "السماح بخروج اي مركبة مبيعة قبل انتهاء اجراءات نقل ملكيتها.",
+    "target_en_norm": "allowing sold vehicles to leave showrooms prior to completion of ownership transfer procedures.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48879,
+    "source_ar": "التعديل أو التغيير أو الكشط في بيانات سجلات البيع، ويثبت التصحيح عند اقتضائه مع وضع خاتم على التعديل.",
+    "target_en": "Altering, changing, or scratching data in sale records. Any necessary corrections shall be endorsed by affixing a seal thereon.",
+    "source_ar_norm": "التعديل او التغيير او الكشط في بيانات سجلات البيع، ويثبت التصحيح عند اقتضائه مع وضع خاتم علي التعديل.",
+    "target_en_norm": "altering, changing, or scratching data in sale records. any necessary corrections shall be endorsed by affixing a seal thereon.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48880,
+    "source_ar": "إعطاء عقود البيع الخاصة بالمعرض أو أختامه للغير.",
+    "target_en": "Giving showroom sale contracts or seals to a third party.",
+    "source_ar_norm": "اعطاء عقود البيع الخاصة بالمعرض او اختامه للغير.",
+    "target_en_norm": "giving showroom sale contracts or seals to a third party.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48881,
+    "source_ar": "بيع المعرض أو تأجيره إلا بعد موافقة الإدارة المختصة.",
+    "target_en": "Selling or leasing showrooms without the approval of the competent authority.",
+    "source_ar_norm": "بيع المعرض او تاجيره الا بعد موافقة الادارة المختصة.",
+    "target_en_norm": "selling or leasing showrooms without the approval of the competent authority.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48882,
+    "source_ar": "المادة الحادية والعشرون",
+    "target_en": "Article 21 (B):",
+    "source_ar_norm": "المادة الحادية والعشرون",
+    "target_en_norm": "article 21 (b):",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48883,
+    "source_ar": "لا يجوز افتتاح معارض لبيع المركبات إلا بترخيص من الإدارة المختصة، وبعد الحصول على السجل التجاري.",
+    "target_en": "a. No vehicle showroom may be established without obtaining a license from the competent authority and a commercial register.",
+    "source_ar_norm": "لا يجوز افتتاح معارض لبيع المركبات الا بترخيص من الادارة المختصة، وبعد الحصول علي السجل التجاري.",
+    "target_en_norm": "a. no vehicle showroom may be established without obtaining a license from the competent authority and a commercial register.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48884,
+    "source_ar": "يحظر على معارض بيع المركبات ما يأتي:",
+    "target_en": "b. Vehicle showrooms are prohibited from the following:",
+    "source_ar_norm": "يحظر علي معارض بيع المركبات ما ياتي:",
+    "target_en_norm": "b. vehicle showrooms are prohibited from the following:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48885,
+    "source_ar": "إعطاء نماذج عقود البيع الخاصة بالمعرض أو أختامه للغير، أو إجراء عقود البيع خارج حدود المعرض.",
+    "target_en": "Giving showroom sale contract forms or seals to a third party, or concluding sale contracts outside the premises of the showroom.",
+    "source_ar_norm": "اعطاء نماذج عقود البيع الخاصة بالمعرض او اختامه للغير، او اجراء عقود البيع خارج حدود المعرض.",
+    "target_en_norm": "giving showroom sale contract forms or seals to a third party, or concluding sale contracts outside the premises of the showroom.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48886,
+    "source_ar": "إجراء عقد بيع لمركبة بها تلفيات في الجسم الخارجي قبل إصلاحها دون موافقة الإدارة المختصة وفقاً لما تحدده اللائحة.",
+    "target_en": "Concluding a sale contract for a vehicle sustaining damage to its external body prior to its repair without authorization from the competent authority in accordance with the Regulations.",
+    "source_ar_norm": "اجراء عقد بيع لمركبة بها تلفيات في الجسم الخارجي قبل اصلاحها دون موافقة الادارة المختصة وفقا لما تحدده اللائحة.",
+    "target_en_norm": "concluding a sale contract for a vehicle sustaining damage to its external body prior to its repair without authorization from the competent authority in accordance with the regulations.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48887,
+    "source_ar": "مخالفة أي من الشروط والضوابط التي تحددها اللائحة.",
+    "target_en": "Violating any of the requirements or rules set by the Regulations.",
+    "source_ar_norm": "مخالفة اي من الشروط والضوابط التي تحددها اللائحة.",
+    "target_en_norm": "violating any of the requirements or rules set by the regulations.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48888,
+    "source_ar": "التعديل أو التغيير أو الكشط في بيانات سجلات البيع، ويثبت التصحيح عند اقتضائه مع وضع خاتم المعرض على التعديل.",
+    "target_en": "Altering, changing, or scratching out data in sale records. Any necessary corrections shall be endorsed by affixing a seal thereon.",
+    "source_ar_norm": "التعديل او التغيير او الكشط في بيانات سجلات البيع، ويثبت التصحيح عند اقتضائه مع وضع خاتم المعرض علي التعديل.",
+    "target_en_norm": "altering, changing, or scratching out data in sale records. any necessary corrections shall be endorsed by affixing a seal thereon.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48889,
+    "source_ar": "بيع المعرض أو تأجيره دون موافقة الإدارة المختصة.",
+    "target_en": "Selling or leasing the showroom without the approval of the competent authority.",
+    "source_ar_norm": "بيع المعرض او تاجيره دون موافقة الادارة المختصة.",
+    "target_en_norm": "selling or leasing the showroom without the approval of the competent authority.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48890,
+    "source_ar": "عرض أي مركبة في المعرض عليها قيود أمنية تحول دون إتمام البيع.",
+    "target_en": "Displaying a vehicle in the showroom that cannot be sold for security reasons.",
+    "source_ar_norm": "عرض اي مركبة في المعرض عليها قيود امنية تحول دون اتمام البيع.",
+    "target_en_norm": "displaying a vehicle in the showroom that cannot be sold for security reasons.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48891,
+    "source_ar": "الباب الثالث: أوزان المركبات وأبعادها وفحصها",
+    "target_en": "Chapter Three: Weights, Dimensions, and Inspection of Vehicles",
+    "source_ar_norm": "الباب الثالث: اوزان المركبات وابعادها وفحصها",
+    "target_en_norm": "chapter three: weights, dimensions, and inspection of vehicles",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48892,
+    "source_ar": "المادة الثانية والعشرون",
+    "target_en": "Article 22:",
+    "source_ar_norm": "المادة الثانية والعشرون",
+    "target_en_norm": "article 22:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48893,
+    "source_ar": "يجب التقيد بالأوزان والأبعاد المقررة نظاما للمركبات.",
+    "target_en": "Legal weights and dimensions set for vehicles must be complied with.",
+    "source_ar_norm": "يجب التقيد بالاوزان والابعاد المقررة نظاما للمركبات.",
+    "target_en_norm": "legal weights and dimensions set for vehicles must be complied with.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48894,
+    "source_ar": "المادة الثالثة والعشرون",
+    "target_en": "Article 23:",
+    "source_ar_norm": "المادة الثالثة والعشرون",
+    "target_en_norm": "article 23:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48895,
+    "source_ar": "تعد -بالاتفاق بين وزير الداخلية ووزير النقل - قواعد وإجراءات ضبط مخالفات الأوزان والأبعاد المقررة، وتعديل هذه القواعد والإجراءات، وتحديد فئات هذه المخالفات، والغرامة المالية لكل مخالفة وفق جسامتها، وذلك بحد أعلى قدره مائة ألف ريال ولو تعددت المخالفات.",
+    "target_en": "Drafting and amending rules and procedures for detecting violations of prescribed weights and dimensions as well as determining the categories of such violations and the fines collected for each violation according to its gravity to a maximum of 100,000 riyals regardless of the number of violations shall be made by agreement between the Minister of Interior and the Minister of Transport.",
+    "source_ar_norm": "تعد -بالاتفاق بين وزير الداخلية ووزير النقل - قواعد واجراءات ضبط مخالفات الاوزان والابعاد المقررة، وتعديل هذه القواعد والاجراءات، وتحديد فئات هذه المخالفات، والغرامة المالية لكل مخالفة وفق جسامتها، وذلك بحد اعلي قدره مائة الف ريال ولو تعددت المخالفات.",
+    "target_en_norm": "drafting and amending rules and procedures for detecting violations of prescribed weights and dimensions as well as determining the categories of such violations and the fines collected for each violation according to its gravity to a maximum of 100,000 riyals regardless of the number of violations shall be made by agreement between the minister of interior and the minister of transport.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48896,
+    "source_ar": "المادة الرابعة والعشرون",
+    "target_en": "Article 24:",
+    "source_ar_norm": "المادة الرابعة والعشرون",
+    "target_en_norm": "article 24:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48897,
+    "source_ar": "تخضع جميع المركبات للمواصفات والمقاييس المعتمدة من الهيئة العربية السعودية للمواصفات والمقاييس.",
+    "target_en": "All vehicles shall conform to the specifications and standards approved by the Saudi Arabian Standards Organization.",
+    "source_ar_norm": "تخضع جميع المركبات للمواصفات والمقاييس المعتمدة من الهيئة العربية السعودية للمواصفات والمقاييس.",
+    "target_en_norm": "all vehicles shall conform to the specifications and standards approved by the saudi arabian standards organization.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48898,
+    "source_ar": "المادة الخامسة والعشرون",
+    "target_en": "Article 25:",
+    "source_ar_norm": "المادة الخامسة والعشرون",
+    "target_en_norm": "article 25:",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48899,
+    "source_ar": "يحظر -دون تصريح سابق من الجهة المختصة- إجراء أي تعديل في المركبة يغير لونها، أو معالمها، أو تجهيزاتها الأساسية، أو يؤدي إلى زيادة حمولتها، أو أبعادها المقررة.",
+    "target_en": "No vehicle may be altered by changing its color, features, standard equipment, capacity, or dimensions without obtaining prior permission from the competent authority.",
+    "source_ar_norm": "يحظر -دون تصريح سابق من الجهة المختصة- اجراء اي تعديل في المركبة يغير لونها، او معالمها، او تجهيزاتها الاساسية، او يؤدي الي زيادة حمولتها، او ابعادها المقررة.",
+    "target_en_norm": "no vehicle may be altered by changing its color, features, standard equipment, capacity, or dimensions without obtaining prior permission from the competent authority.",
+    "file_name": "نظام المرور.docx"
+  },
+  {
+    "id": 48900,
+    "source_ar": "المادة السادسة والعشرون",
+    "target_en": "Article 26:",
+    "source_ar_norm": "المادة السادسة والعشرون",
+    "target_en_norm": "article 26:",
+    "file_name": "نظام المرور.docx"
+  }
+]

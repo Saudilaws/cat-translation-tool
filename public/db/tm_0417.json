@@ -1,0 +1,802 @@
+[
+  {
+    "id": 41601,
+    "source_ar": "أ - التحقق من الاكتتاب بكل أسهم الشركة ومن الوفاء بالحد الأدنى من رأس المال وبالقدر المستحق من قيمة الأسهم وفقاً لأحكام النظام.",
+    "target_en": "a) Ensure that all company’s shares have been subscribed, and that the minimum capital is paid to the extent of the due amount of the share value in accordance with the Law.",
+    "source_ar_norm": "ا - التحقق من الاكتتاب بكل اسهم الشركة ومن الوفاء بالحد الادني من راس المال وبالقدر المستحق من قيمة الاسهم وفقا لاحكام النظام.",
+    "target_en_norm": "a) ensure that all company’s shares have been subscribed, and that the minimum capital is paid to the extent of the due amount of the share value in accordance with the law.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41602,
+    "source_ar": "ب - المداولة في تقرير تقويم الحصص العينية.",
+    "target_en": "b) Discuss the report on the valuation of in-kind shares.",
+    "source_ar_norm": "ب - المداولة في تقرير تقويم الحصص العينية.",
+    "target_en_norm": "b) discuss the report on the valuation of in-kind shares.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41603,
+    "source_ar": "ج - إقرار النصوص النهائية لنظام الشركة الأساس، على ألا تُدخل تعديلات جوهرية على النظام المعروض عليها إلا بموافقة جميع المكتتبين الممثلين فيها.",
+    "target_en": "c) Approve the final version of the company’s articles of association, provided that no substantive amendments are made thereto except with the approval of all subscribers represented in the company.",
+    "source_ar_norm": "ج - اقرار النصوص النهائية لنظام الشركة الاساس، علي الا تدخل تعديلات جوهرية علي النظام المعروض عليها الا بموافقة جميع المكتتبين الممثلين فيها.",
+    "target_en_norm": "c) approve the final version of the company’s articles of association, provided that no substantive amendments are made thereto except with the approval of all subscribers represented in the company.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41604,
+    "source_ar": "د - تعيين أعضاء أول مجلس إدارة لمدة لا تتجاوز خمس سنوات وأول مراجع حسابات إذا لم يكونوا قد عُيِّنوا في عقد تأسيس الشركة أو في نظامها الأساس.",
+    "target_en": "d) Appoint members of the first board of directors for a term not exceeding 5 years and the first auditor, if they have not been appointed in the company’s articles of incorporation or articles of association.",
+    "source_ar_norm": "د - تعيين اعضاء اول مجلس ادارة لمدة لا تتجاوز خمس سنوات واول مراجع حسابات اذا لم يكونوا قد عينوا في عقد تاسيس الشركة او في نظامها الاساس.",
+    "target_en_norm": "d) appoint members of the first board of directors for a term not exceeding 5 years and the first auditor, if they have not been appointed in the company’s articles of incorporation or articles of association.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41605,
+    "source_ar": "هـ - المداولة في تقرير المؤسسين عن الأعمال والنفقات التي اقتضاها تأسيس الشركة، وإقراره.",
+    "target_en": "e) Discuss and approve the incorporators’ report on the activities and expenses required for the incorporation of the company.",
+    "source_ar_norm": "ه - المداولة في تقرير المؤسسين عن الاعمال والنفقات التي اقتضاها تاسيس الشركة، واقراره.",
+    "target_en_norm": "e) discuss and approve the incorporators’ report on the activities and expenses required for the incorporation of the company.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41606,
+    "source_ar": "ويجوز للوزارة، وكذلك للهيئة في شركة المساهمة ذات الاكتتاب العام، أن توفد مندوباً (أو أكثر) بوصفه مراقباً لحضور الجمعية التأسيسية للشركة؛ للتأكد من تطبيق أحكام النظام.",
+    "target_en": "The Ministry, and CMA in the case of public joint-stock companies, may delegate one representative (or more) as an observer to attend the incorporation assembly meeting to ensure implementation of the provisions of the Law.",
+    "source_ar_norm": "ويجوز للوزارة، وكذلك للهيئة في شركة المساهمة ذات الاكتتاب العام، ان توفد مندوبا (او اكثر) بوصفه مراقبا لحضور الجمعية التاسيسية للشركة؛ للتاكد من تطبيق احكام النظام.",
+    "target_en_norm": "the ministry, and cma in the case of public joint-stock companies, may delegate one representative (or more) as an observer to attend the incorporation assembly meeting to ensure implementation of the provisions of the law.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41607,
+    "source_ar": "المادة الرابعة والستون:",
+    "target_en": "Article 64",
+    "source_ar_norm": "المادة الرابعة والستون:",
+    "target_en_norm": "article 64",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41608,
+    "source_ar": "يقدم المؤسسون - خلال خمسة عشر يوماً من تاريخ انتهاء اجتماع الجمعية التأسيسية - طلباً إلى الوزارة بإعلان تأسيس الشركة، ترافقه الوثائق الآتية:",
+    "target_en": "Incorporators shall, within 15 days as of the date of conclusion of the incorporation assembly meeting, submit an application to the Ministry requesting announcement of the incorporation of the company, accompanied by the following documents:",
+    "source_ar_norm": "يقدم المؤسسون - خلال خمسة عشر يوما من تاريخ انتهاء اجتماع الجمعية التاسيسية - طلبا الي الوزارة باعلان تاسيس الشركة، ترافقه الوثائق الاتية:",
+    "target_en_norm": "incorporators shall, within 15 days as of the date of conclusion of the incorporation assembly meeting, submit an application to the ministry requesting announcement of the incorporation of the company, accompanied by the following documents:",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41609,
+    "source_ar": "أ - إقرار بحصول الاكتتاب بكل أسهم الشركة وبما دفعه المكتتبون من قيمة الأسهم.",
+    "target_en": "a) A statement that the company’s shares are subscribed in full, showing the amount paid by subscribers of the value of shares.",
+    "source_ar_norm": "ا - اقرار بحصول الاكتتاب بكل اسهم الشركة وبما دفعه المكتتبون من قيمة الاسهم.",
+    "target_en_norm": "a) a statement that the company’s shares are subscribed in full, showing the amount paid by subscribers of the value of shares.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41610,
+    "source_ar": "ب - محضر اجتماع الجمعية التأسيسية وقراراتها.",
+    "target_en": "b) Meeting minutes and resolutions of the incorporation assembly.",
+    "source_ar_norm": "ب - محضر اجتماع الجمعية التاسيسية وقراراتها.",
+    "target_en_norm": "b) meeting minutes and resolutions of the incorporation assembly.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41611,
+    "source_ar": "ج - نظام الشركة الأساس الذي أقرته الجمعية التأسيسية.",
+    "target_en": "c) The company’s articles of association as approved by the incorporation assembly.",
+    "source_ar_norm": "ج - نظام الشركة الاساس الذي اقرته الجمعية التاسيسية.",
+    "target_en_norm": "c) the company’s articles of association as approved by the incorporation assembly.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41612,
+    "source_ar": "المادة الخامسة والستون:",
+    "target_en": "Article 65",
+    "source_ar_norm": "المادة الخامسة والستون:",
+    "target_en_norm": "article 65",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41613,
+    "source_ar": "1- تصدر الوزارة قراراً بإعلان تأسيس الشركة، بعد التحقق من استكمال جميع المتطلبات التي نص عليها النظام لتأسيس شركة المساهمة. ويشهر القرار في موقع الوزارة الإلكتروني.",
+    "target_en": "1. The Ministry shall issue a decision announcing the company’s incorporation, upon verifying the completion of all requirements set forth in the Law for the incorporation of a joint-stock company. Such decision shall be published on the Ministry’s website.",
+    "source_ar_norm": "1- تصدر الوزارة قرارا باعلان تاسيس الشركة، بعد التحقق من استكمال جميع المتطلبات التي نص عليها النظام لتاسيس شركة المساهمة. ويشهر القرار في موقع الوزارة الالكتروني.",
+    "target_en_norm": "1. the ministry shall issue a decision announcing the company’s incorporation, upon verifying the completion of all requirements set forth in the law for the incorporation of a joint-stock company. such decision shall be published on the ministry’s website.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41614,
+    "source_ar": "2 - على أعضاء مجلس الإدارة - خلال خمسة عشر يوماً من تاريخ صدور القرار المشار إليه في الفقرة (1) من هذه المادة - أن يطلبوا قيد الشركة في السجل التجاري، على أن يشتمل هذا القيد على البيانات الآتية:",
+    "target_en": "2. Board members shall, within 15 days from the date of issuance of the decision provided for in paragraph 1 of this Article, apply for registration of the company in the commercial register. Such registration shall contain the following:",
+    "source_ar_norm": "2 - علي اعضاء مجلس الادارة - خلال خمسة عشر يوما من تاريخ صدور القرار المشار اليه في الفقرة (1) من هذه المادة - ان يطلبوا قيد الشركة في السجل التجاري، علي ان يشتمل هذا القيد علي البيانات الاتية:",
+    "target_en_norm": "2. board members shall, within 15 days from the date of issuance of the decision provided for in paragraph 1 of this article, apply for registration of the company in the commercial register. such registration shall contain the following:",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41615,
+    "source_ar": "أ - اسم الشركة وغرضها ومركزها الرئيس ومدتها.",
+    "target_en": "a) Company’s name, purpose, head office and term.",
+    "source_ar_norm": "ا - اسم الشركة وغرضها ومركزها الرئيس ومدتها.",
+    "target_en_norm": "a) company’s name, purpose, head office and term.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41616,
+    "source_ar": "ب - أسماء المؤسسين وأماكن إقامتهم ومهنهم وجنسياتهم.",
+    "target_en": "b) Incorporators’ names, places of residence, occupations and nationalities.",
+    "source_ar_norm": "ب - اسماء المؤسسين واماكن اقامتهم ومهنهم وجنسياتهم.",
+    "target_en_norm": "b) incorporators’ names, places of residence, occupations and nationalities.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41617,
+    "source_ar": "ج - نوع الأسهم وقيمتها وعددها ومقدار رأس المال المدفوع.",
+    "target_en": "c) Type, value and number of shares, as well as amount of paid-in capital.",
+    "source_ar_norm": "ج - نوع الاسهم وقيمتها وعددها ومقدار راس المال المدفوع.",
+    "target_en_norm": "c) type, value and number of shares, as well as amount of paid-in capital.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41618,
+    "source_ar": "د - رقم قرار الوزارة المرخص بتأسيس الشركة وتاريخه.",
+    "target_en": "d) Number and date of the Ministry’s decision authorizing the company’s incorporation.",
+    "source_ar_norm": "د - رقم قرار الوزارة المرخص بتاسيس الشركة وتاريخه.",
+    "target_en_norm": "d) number and date of the ministry’s decision authorizing the company’s incorporation.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41619,
+    "source_ar": "هـ - رقم قرار الوزارة بإعلان تأسيس الشركة وتاريخه.",
+    "target_en": "e) Number and date of the Ministry’s decision announcing the company’s incorporation.",
+    "source_ar_norm": "ه - رقم قرار الوزارة باعلان تاسيس الشركة وتاريخه.",
+    "target_en_norm": "e) number and date of the ministry’s decision announcing the company’s incorporation.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41620,
+    "source_ar": "المادة السادسة والستون:",
+    "target_en": "Article 66",
+    "source_ar_norm": "المادة السادسة والستون:",
+    "target_en_norm": "article 66",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41621,
+    "source_ar": "1- تعد الشركة مؤسسة تأسيساً صحيحاً بعد شهر قرار الوزارة بإعلان تأسيسها وقيدها في السجل التجاري، ولا تسمع بعد ذلك الدعوى ببطلان الشركة لأي مخالفة لأحكام النظام أو لأحكام عقد تأسيس الشركة أو نظامها الأساس.",
+    "target_en": "1. The company shall be considered duly incorporated upon publishing the Ministry’s decision announcing the company’s incorporation and upon registration in the commercial register. Any subsequent action to invalidate the company for violation of the provisions of the Law or provisions of the company’s articles of incorporation or articles of association shall not be heard.",
+    "source_ar_norm": "1- تعد الشركة مؤسسة تاسيسا صحيحا بعد شهر قرار الوزارة باعلان تاسيسها وقيدها في السجل التجاري، ولا تسمع بعد ذلك الدعوي ببطلان الشركة لاي مخالفة لاحكام النظام او لاحكام عقد تاسيس الشركة او نظامها الاساس.",
+    "target_en_norm": "1. the company shall be considered duly incorporated upon publishing the ministry’s decision announcing the company’s incorporation and upon registration in the commercial register. any subsequent action to invalidate the company for violation of the provisions of the law or provisions of the company’s articles of incorporation or articles of association shall not be heard.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41622,
+    "source_ar": "2- يترتب على شهر قرار إعلان تأسيس الشركة وقيدها في السجل التجاري انتقال جميع التصرفات التي أجراها المؤسسون لحسابها إلى ذمتها، وتحمل الشركة جميع المصاريف التي أنفقها المؤسسون على تأسيسها.",
+    "target_en": "2. Publication of the decision announcing the company’s incorporation as well as its registration in the commercial register shall entail the transfer of all transactions carried out by incorporators on behalf of the company to the company, and the company shall bear all incorporation expenses incurred by incorporators.",
+    "source_ar_norm": "2- يترتب علي شهر قرار اعلان تاسيس الشركة وقيدها في السجل التجاري انتقال جميع التصرفات التي اجراها المؤسسون لحسابها الي ذمتها، وتحمل الشركة جميع المصاريف التي انفقها المؤسسون علي تاسيسها.",
+    "target_en_norm": "2. publication of the decision announcing the company’s incorporation as well as its registration in the commercial register shall entail the transfer of all transactions carried out by incorporators on behalf of the company to the company, and the company shall bear all incorporation expenses incurred by incorporators.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41623,
+    "source_ar": "المادة السابعة والستون:",
+    "target_en": "Article 67",
+    "source_ar_norm": "المادة السابعة والستون:",
+    "target_en_norm": "article 67",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41624,
+    "source_ar": "إذا لم تؤسس الشركة على النحو المبين في النظام، فللمكتتبين أن يستردوا المبالغ التي دفعوها، وعلى البنوك التي أكتتب فيها أن ترد - بصورة عاجلة - لكل مكتتب المبلغ الذي دفعه، ويكون المؤسسون مسؤولين بالتضامن عن الوفاء بهذا الالتزام وعن التعويض عند الاقتضاء. وكذلك يتحمل المؤسسون جميع المصاريف التي أنفقت في تأسيس الشركة، ويكونون مسؤولين بالتضامن في مواجهة الغير عن الأفعال والتصرفات التي صدرت منهم خلال فترة التأسيس.",
+    "target_en": "If the company is not incorporated in the manner prescribed in the Law, subscribers may recover amounts paid, and the banks where subscription is made shall promptly refund the paid amount to each subscriber. Incorporators shall be jointly liable for fulfillment of this obligation and pay damages, if necessary. Incorporators shall also bear all expenses incurred in the incorporation of the company, and shall be jointly liable to third parties for acts performed by them during incorporation period.",
+    "source_ar_norm": "اذا لم تؤسس الشركة علي النحو المبين في النظام، فللمكتتبين ان يستردوا المبالغ التي دفعوها، وعلي البنوك التي اكتتب فيها ان ترد - بصورة عاجلة - لكل مكتتب المبلغ الذي دفعه، ويكون المؤسسون مسؤولين بالتضامن عن الوفاء بهذا الالتزام وعن التعويض عند الاقتضاء. وكذلك يتحمل المؤسسون جميع المصاريف التي انفقت في تاسيس الشركة، ويكونون مسؤولين بالتضامن في مواجهة الغير عن الافعال والتصرفات التي صدرت منهم خلال فترة التاسيس.",
+    "target_en_norm": "if the company is not incorporated in the manner prescribed in the law, subscribers may recover amounts paid, and the banks where subscription is made shall promptly refund the paid amount to each subscriber. incorporators shall be jointly liable for fulfillment of this obligation and pay damages, if necessary. incorporators shall also bear all expenses incurred in the incorporation of the company, and shall be jointly liable to third parties for acts performed by them during incorporation period.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41625,
+    "source_ar": "الفصل الثالث: إدارة شركة المساهمة. الفرع الأول: مجلس الإدارة",
+    "target_en": "Chapter 3: Management of a Joint-Stock Company Section 1: Board of Directors",
+    "source_ar_norm": "الفصل الثالث: ادارة شركة المساهمة. الفرع الاول: مجلس الادارة",
+    "target_en_norm": "chapter 3: management of a joint-stock company section 1: board of directors",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41626,
+    "source_ar": "المادة الثامنة والستون:",
+    "target_en": "Article 68",
+    "source_ar_norm": "المادة الثامنة والستون:",
+    "target_en_norm": "article 68",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41627,
+    "source_ar": "1- يدير شركة المساهمة مجلس إدارة يحدد نظام الشركة الأساس عدد أعضائه، على ألا يقل عن ثلاثة ولا يزيد على أحد عشر.",
+    "target_en": "1. A joint-stock company shall be managed by a board of directors whose number shall be specified in the company’s articles of association, provided that the number is not less than 3 and not more than 11.",
+    "source_ar_norm": "1- يدير شركة المساهمة مجلس ادارة يحدد نظام الشركة الاساس عدد اعضائه، علي الا يقل عن ثلاثة ولا يزيد علي احد عشر.",
+    "target_en_norm": "1. a joint-stock company shall be managed by a board of directors whose number shall be specified in the company’s articles of association, provided that the number is not less than 3 and not more than 11.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41628,
+    "source_ar": "2- يحق لكل مساهم ترشيح نفسه أو شخص آخر أو أكثر لعضوية مجلس الإدارة، وذلك في حدود نسبة ملكيته في رأس المال.",
+    "target_en": "2. Each shareholder shall be entitled to nominate himself or one or more other persons for board membership, based on his share in the capital.",
+    "source_ar_norm": "2- يحق لكل مساهم ترشيح نفسه او شخص اخر او اكثر لعضوية مجلس الادارة، وذلك في حدود نسبة ملكيته في راس المال.",
+    "target_en_norm": "2. each shareholder shall be entitled to nominate himself or one or more other persons for board membership, based on his share in the capital.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41629,
+    "source_ar": "3- تنتخب الجمعية العامة العادية أعضاء مجلس الإدارة للمدة المنصوص عليها في نظام الشركة الأساس، بشرط ألا تتجاوز ثلاث سنوات. ويجوز إعادة انتخاب أعضاء مجلس الإدارة ما لم ينص نظام الشركة الأساس على غير ذلك. ويبين نظام الشركة الأساس كيفية انتهاء عضوية المجلس أو إنهائها بطلب من مجلس الإدارة. ومع ذلك يجوز للجمعية العامة العادية في كل وقت عزل جميع أعضاء مجلس الإدارة أو بعضهم ولو نص نظام الشركة الأساس على غير ذلك، وذلك دون إخلال بحق العضو المعزول تجاه الشركة بالمطالبة بالتعويض إذا وقع العزل لسبب غير مقبول أو في وقت غير مناسب. ولعضو مجلس الإدارة أن يعتزل، بشرط أن يكون ذلك في وقت مناسب؛ وإلا كان مسؤولاً قِبَل الشركة عما يترتب على الاعتزال من أضرار.",
+    "target_en": "3. The ordinary general assembly shall elect board members for the term prescribed in the company’s articles of association, provided that such term does not exceed 3 years. Board members may be re-elected, unless the company’s articles of association stipulate otherwise. The company’s articles of association shall specify the manner of membership expiration or termination upon the request of the board of directors. The general assembly may, at any time, remove all or some of the members even if the company’s articles of association provide otherwise, without prejudice to the right of the removed member to claim compensation from the company if the removal is made without acceptable justification or at an inappropriate time. A board member may resign, provided that such resignation is made at an appropriate time. Otherwise, he shall be liable towards the company for damages caused by such resignation.",
+    "source_ar_norm": "3- تنتخب الجمعية العامة العادية اعضاء مجلس الادارة للمدة المنصوص عليها في نظام الشركة الاساس، بشرط الا تتجاوز ثلاث سنوات. ويجوز اعادة انتخاب اعضاء مجلس الادارة ما لم ينص نظام الشركة الاساس علي غير ذلك. ويبين نظام الشركة الاساس كيفية انتهاء عضوية المجلس او انهائها بطلب من مجلس الادارة. ومع ذلك يجوز للجمعية العامة العادية في كل وقت عزل جميع اعضاء مجلس الادارة او بعضهم ولو نص نظام الشركة الاساس علي غير ذلك، وذلك دون اخلال بحق العضو المعزول تجاه الشركة بالمطالبة بالتعويض اذا وقع العزل لسبب غير مقبول او في وقت غير مناسب. ولعضو مجلس الادارة ان يعتزل، بشرط ان يكون ذلك في وقت مناسب؛ والا كان مسؤولا قبل الشركة عما يترتب علي الاعتزال من اضرار.",
+    "target_en_norm": "3. the ordinary general assembly shall elect board members for the term prescribed in the company’s articles of association, provided that such term does not exceed 3 years. board members may be re-elected, unless the company’s articles of association stipulate otherwise. the company’s articles of association shall specify the manner of membership expiration or termination upon the request of the board of directors. the general assembly may, at any time, remove all or some of the members even if the company’s articles of association provide otherwise, without prejudice to the right of the removed member to claim compensation from the company if the removal is made without acceptable justification or at an inappropriate time. a board member may resign, provided that such resignation is made at an appropriate time. otherwise, he shall be liable towards the company for damages caused by such resignation.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41630,
+    "source_ar": "المادة التاسعة والستون:",
+    "target_en": "Article 69",
+    "source_ar_norm": "المادة التاسعة والستون:",
+    "target_en_norm": "article 69",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41631,
+    "source_ar": "إذا قدم رئيس وأعضاء مجلس إدارة شركة المساهمة استقالاتهم، أو إذا لم تتمكن الجمعية العامة من انتخاب مجلس إدارة للشركة، فعلى الوزير، أو مجلس الهيئة في الشركات المدرجة في السوق المالية، تشكيل لجنة مؤقتة من ذوي الخبرة والاختصاص بالعدد الذي يراه مناسباً، ويعين لها رئيساً ونائباً له من بين أعضائها، لتتولى الإشراف على إدارة الشركة، ودعوة الجمعية العامة للاجتماع خلال مدة لا تزيد على ثلاثة أشهر من تاريخ تشكيل اللجنة المذكورة؛ لانتخاب مجلس إدارة جديد للشركة. ويمنح رئيس اللجنة وأعضاؤها مكافآت على حساب الشركة، وفقاً لما يقرره الوزير أو مجلس الهيئة بحسب الأحوال.",
+    "target_en": "If the chairman and members of the board of directors of a joint-stock company submit their resignations, or if the general assembly fails to elect a board of directors, the Minister, or CMA’s Board in the case of listed companies, shall form an interim committee of competent persons and determine the number of members thereof, and shall appoint a chairman and vice-chairman from among its members. Such committee shall oversee the management of the company and call for a general assembly meeting within a period not exceeding three months from the date of forming said committee to elect a new board of directors for the company. Chairman and members of the committee shall be remunerated by the company pursuant to a decision by the Minister or CMA’s Board, as the case may be.",
+    "source_ar_norm": "اذا قدم رئيس واعضاء مجلس ادارة شركة المساهمة استقالاتهم، او اذا لم تتمكن الجمعية العامة من انتخاب مجلس ادارة للشركة، فعلي الوزير، او مجلس الهيئة في الشركات المدرجة في السوق المالية، تشكيل لجنة مؤقتة من ذوي الخبرة والاختصاص بالعدد الذي يراه مناسبا، ويعين لها رئيسا ونائبا له من بين اعضائها، لتتولي الاشراف علي ادارة الشركة، ودعوة الجمعية العامة للاجتماع خلال مدة لا تزيد علي ثلاثة اشهر من تاريخ تشكيل اللجنة المذكورة؛ لانتخاب مجلس ادارة جديد للشركة. ويمنح رئيس اللجنة واعضاؤها مكافات علي حساب الشركة، وفقا لما يقرره الوزير او مجلس الهيئة بحسب الاحوال.",
+    "target_en_norm": "if the chairman and members of the board of directors of a joint-stock company submit their resignations, or if the general assembly fails to elect a board of directors, the minister, or cma’s board in the case of listed companies, shall form an interim committee of competent persons and determine the number of members thereof, and shall appoint a chairman and vice-chairman from among its members. such committee shall oversee the management of the company and call for a general assembly meeting within a period not exceeding three months from the date of forming said committee to elect a new board of directors for the company. chairman and members of the committee shall be remunerated by the company pursuant to a decision by the minister or cma’s board, as the case may be.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41632,
+    "source_ar": "المادة السبعون:",
+    "target_en": "Article 70",
+    "source_ar_norm": "المادة السبعون:",
+    "target_en_norm": "article 70",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41633,
+    "source_ar": "1- ما لم ينص نظام الشركة الأساس على غير ذلك، إذا شغر مركز أحد أعضاء مجلس الإدارة، كان للمجلس أن يعين - مؤقتاً - عضواً في المركز الشاغر بحسب الترتيب في الحصول على الأصوات، على أن يكون ممن تتوافر فيهم الخبرة والكفاية، ويجب أن تبلغ بذلك الوزارة، وكذلك الهيئة إذا كانت الشركة مدرجة في السوق المالية، خلال خمسة أيام عمل من تاريخ التعيين، وأن يعرض التعيين على الجمعية العامة العادية في أول اجتماع لها، ويكمل العضو الجديد مدة سلفه.",
+    "target_en": "1. Unless the company’s articles of association stipulate otherwise, if the position of a member becomes vacant, the board of directors may appoint a member to temporarily fill the vacancy, according to the order of the number of votes received by each candidate, provided that such member is a competent person. Such appointment shall be reported to the Ministry, and CMA in the case of a listed company, within five working days from the date of appointment. The appointment shall be referred to the ordinary general assembly in its first meeting. The new member shall complete the term of his predecessor.",
+    "source_ar_norm": "1- ما لم ينص نظام الشركة الاساس علي غير ذلك، اذا شغر مركز احد اعضاء مجلس الادارة، كان للمجلس ان يعين - مؤقتا - عضوا في المركز الشاغر بحسب الترتيب في الحصول علي الاصوات، علي ان يكون ممن تتوافر فيهم الخبرة والكفاية، ويجب ان تبلغ بذلك الوزارة، وكذلك الهيئة اذا كانت الشركة مدرجة في السوق المالية، خلال خمسة ايام عمل من تاريخ التعيين، وان يعرض التعيين علي الجمعية العامة العادية في اول اجتماع لها، ويكمل العضو الجديد مدة سلفه.",
+    "target_en_norm": "1. unless the company’s articles of association stipulate otherwise, if the position of a member becomes vacant, the board of directors may appoint a member to temporarily fill the vacancy, according to the order of the number of votes received by each candidate, provided that such member is a competent person. such appointment shall be reported to the ministry, and cma in the case of a listed company, within five working days from the date of appointment. the appointment shall be referred to the ordinary general assembly in its first meeting. the new member shall complete the term of his predecessor.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41634,
+    "source_ar": "2- إذا لم تتوافر الشروط اللازمة لانعقاد مجلس الإدارة بسبب نقص عدد أعضائه عن الحد الأدنى المنصوص عليه في النظام أو في نظام الشركة الأساس، وجب على بقية الأعضاء دعوة الجمعية العامة العادية للانعقاد خلال ستين يوماً؛ لانتخاب العدد اللازم من الأعضاء.",
+    "target_en": "2. If the board of directors fails to convene due to not satisfying the minimum number of members as prescribed in the Law or the company’s articles of association, the existing members shall call for an ordinary general assembly meeting within 60 days in order to elect the required number of members.",
+    "source_ar_norm": "2- اذا لم تتوافر الشروط اللازمة لانعقاد مجلس الادارة بسبب نقص عدد اعضائه عن الحد الادني المنصوص عليه في النظام او في نظام الشركة الاساس، وجب علي بقية الاعضاء دعوة الجمعية العامة العادية للانعقاد خلال ستين يوما؛ لانتخاب العدد اللازم من الاعضاء.",
+    "target_en_norm": "2. if the board of directors fails to convene due to not satisfying the minimum number of members as prescribed in the law or the company’s articles of association, the existing members shall call for an ordinary general assembly meeting within 60 days in order to elect the required number of members.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41635,
+    "source_ar": "المادة الحادية والسبعون:",
+    "target_en": "Article 71",
+    "source_ar_norm": "المادة الحادية والسبعون:",
+    "target_en_norm": "article 71",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41636,
+    "source_ar": "1- لا يجوز أن يكون لعضو مجلس الإدارة أي مصلحة مباشرة أو غير مباشرة في الأعمال والعقود التي تتم لحساب الشركة إلا بترخيص من الجمعية العامة العادية، ووفقاً للضوابط التي تضعها الجهة المختصة، وعلى عضو مجلس الإدارة أن يبلغ المجلس بما له من مصلحة مباشرة أو غير مباشرة في الأعمال والعقود التي تتم لحساب الشركة، ويثبت هذا التبليغ في محضر الاجتماع. ولا يجوز لهذا العضو الاشتراك في التصويت على القرار الذي يصدر في هذا الشأن في مجلس الإدارة وجمعيات المساهمين. ويبلغ رئيس مجلس الإدارة الجمعية العامة العادية عند انعقادها عن الأعمال والعقود التي يكون لأحد أعضاء المجلس مصلحة مباشرة أو غير مباشرة فيها، ويرافق التبليغ تقرير خاص من مراجع حسابات الشركة الخارجي.",
+    "target_en": "1. A board member may not have any direct or indirect interest in transactions or contracts made for the company, except with a prior authorization from the ordinary general assembly and subject to rules set by the competent authority. The board member shall notify the board of directors of any direct or indirect interest he may have in the transactions or contracts made for the company. Such notification shall be recorded in the minutes of the board meeting. Said member may not participate in voting on the resolution to be issued on this matter by the board of directors and the assembly of shareholders. The chairman of the board shall inform the general assembly, when it convenes, of transactions and contracts in which a board member has a direct or indirect interest, providing a special report from the company’s external auditor.",
+    "source_ar_norm": "1- لا يجوز ان يكون لعضو مجلس الادارة اي مصلحة مباشرة او غير مباشرة في الاعمال والعقود التي تتم لحساب الشركة الا بترخيص من الجمعية العامة العادية، ووفقا للضوابط التي تضعها الجهة المختصة، وعلي عضو مجلس الادارة ان يبلغ المجلس بما له من مصلحة مباشرة او غير مباشرة في الاعمال والعقود التي تتم لحساب الشركة، ويثبت هذا التبليغ في محضر الاجتماع. ولا يجوز لهذا العضو الاشتراك في التصويت علي القرار الذي يصدر في هذا الشان في مجلس الادارة وجمعيات المساهمين. ويبلغ رئيس مجلس الادارة الجمعية العامة العادية عند انعقادها عن الاعمال والعقود التي يكون لاحد اعضاء المجلس مصلحة مباشرة او غير مباشرة فيها، ويرافق التبليغ تقرير خاص من مراجع حسابات الشركة الخارجي.",
+    "target_en_norm": "1. a board member may not have any direct or indirect interest in transactions or contracts made for the company, except with a prior authorization from the ordinary general assembly and subject to rules set by the competent authority. the board member shall notify the board of directors of any direct or indirect interest he may have in the transactions or contracts made for the company. such notification shall be recorded in the minutes of the board meeting. said member may not participate in voting on the resolution to be issued on this matter by the board of directors and the assembly of shareholders. the chairman of the board shall inform the general assembly, when it convenes, of transactions and contracts in which a board member has a direct or indirect interest, providing a special report from the company’s external auditor.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41637,
+    "source_ar": "2- إذا تخلف عضو المجلس عن الإفصاح عن مصلحته المشار إليها في الفقرة (1) من هذه المادة، جاز للشركة أو لكل ذي مصلحة المطالبة أمام الجهة القضائية المختصة بإبطال العقد أو إلزام العضو بأداء أي ربح أو منفعة تحققت له من ذلك.",
+    "target_en": "2. If a board member fails to disclose his interest as provided for in paragraph 1 of this Article, the company or any stakeholder may petition the competent judicial authority to invalidate the contract or obligate the member to return any profit or benefit realized therefrom.",
+    "source_ar_norm": "2- اذا تخلف عضو المجلس عن الافصاح عن مصلحته المشار اليها في الفقرة (1) من هذه المادة، جاز للشركة او لكل ذي مصلحة المطالبة امام الجهة القضائية المختصة بابطال العقد او الزام العضو باداء اي ربح او منفعة تحققت له من ذلك.",
+    "target_en_norm": "2. if a board member fails to disclose his interest as provided for in paragraph 1 of this article, the company or any stakeholder may petition the competent judicial authority to invalidate the contract or obligate the member to return any profit or benefit realized therefrom.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41638,
+    "source_ar": "3- تقع المسؤولية عن الأضرار الناتجة من الأعمال والعقود المشار إليها في الفقرة (1) من هذه المادة على العضو صاحب المصلحة من العمل أو العقد، وكذلك على أعضاء مجلس الإدارة، إذا تمّت تلك الأعمال أو العقود بالمخالفة لأحكام تلك الفقرة أو إذا ثبت أنها غير عادلة، أو تنطوي على تعارض مصالح وتلحق الضرر بالمساهمين.",
+    "target_en": "3. Liability for damages arising from the transactions and contracts referred to in paragraph (1) of this Article shall fall upon the member having interest in such transactions or contracts as well as the other board members, if such transactions or contracts are in violation of said paragraph, or they are established to be unfair, or they involve conflict of interest, or incur damage to shareholders.",
+    "source_ar_norm": "3- تقع المسؤولية عن الاضرار الناتجة من الاعمال والعقود المشار اليها في الفقرة (1) من هذه المادة علي العضو صاحب المصلحة من العمل او العقد، وكذلك علي اعضاء مجلس الادارة، اذا تمت تلك الاعمال او العقود بالمخالفة لاحكام تلك الفقرة او اذا ثبت انها غير عادلة، او تنطوي علي تعارض مصالح وتلحق الضرر بالمساهمين.",
+    "target_en_norm": "3. liability for damages arising from the transactions and contracts referred to in paragraph (1) of this article shall fall upon the member having interest in such transactions or contracts as well as the other board members, if such transactions or contracts are in violation of said paragraph, or they are established to be unfair, or they involve conflict of interest, or incur damage to shareholders.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41639,
+    "source_ar": "4- يُعفى أعضاء مجلس الإدارة المعارضون للقرار من المسؤولية متى أثبتوا اعتراضاهم صراحة في محضر الاجتماع، ولا يعد الغياب عن حضور الاجتماع الذي يصدر فيه القرار سبباً للإعفاء من المسؤولية إلا إذا ثبت أن العضو الغائب لم يعلم بالقرار أو لم يتمكن من الاعتراض عليه بعد علمه به.",
+    "target_en": "4. Board members objecting to the resolution shall be exempted from liability if their objection is explicitly recorded in the minutes of the meeting. Nonattendance of the meeting in which the resolution is issued shall not entail exemption from liability unless it is established that the absent member had no knowledge of said resolution or was not able to object to it after knowledge thereof.",
+    "source_ar_norm": "4- يعفي اعضاء مجلس الادارة المعارضون للقرار من المسؤولية متي اثبتوا اعتراضاهم صراحة في محضر الاجتماع، ولا يعد الغياب عن حضور الاجتماع الذي يصدر فيه القرار سببا للاعفاء من المسؤولية الا اذا ثبت ان العضو الغائب لم يعلم بالقرار او لم يتمكن من الاعتراض عليه بعد علمه به.",
+    "target_en_norm": "4. board members objecting to the resolution shall be exempted from liability if their objection is explicitly recorded in the minutes of the meeting. nonattendance of the meeting in which the resolution is issued shall not entail exemption from liability unless it is established that the absent member had no knowledge of said resolution or was not able to object to it after knowledge thereof.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41640,
+    "source_ar": "المادة الثانية والسبعون:",
+    "target_en": "Article 72",
+    "source_ar_norm": "المادة الثانية والسبعون:",
+    "target_en_norm": "article 72",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41641,
+    "source_ar": "لا يجوز لعضو مجلس الإدارة أن يشترك في أي عمل من شأنه منافسة الشركة، أو أن ينافس الشركة في أحد فروع النشاط الذي تزاوله، وإلا كان للشركة أن تطالبه أمام الجهة القضائية المختصة بالتعويض المناسب، ما لم يكن حاصلاً على ترخيص من الجمعية العامة العادية يسمح له القيام بذلك، ووفقاً للضوابط التي تضعها الجهة المختصة.",
+    "target_en": "A board member may not engage in any act or business that may compete with the company. Otherwise, the company shall have the right to petition the competent judicial authority to claim appropriate damages, unless such member has a prior authorization from the ordinary general assembly, subject to rules set by the competent authority.",
+    "source_ar_norm": "لا يجوز لعضو مجلس الادارة ان يشترك في اي عمل من شانه منافسة الشركة، او ان ينافس الشركة في احد فروع النشاط الذي تزاوله، والا كان للشركة ان تطالبه امام الجهة القضائية المختصة بالتعويض المناسب، ما لم يكن حاصلا علي ترخيص من الجمعية العامة العادية يسمح له القيام بذلك، ووفقا للضوابط التي تضعها الجهة المختصة.",
+    "target_en_norm": "a board member may not engage in any act or business that may compete with the company. otherwise, the company shall have the right to petition the competent judicial authority to claim appropriate damages, unless such member has a prior authorization from the ordinary general assembly, subject to rules set by the competent authority.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41642,
+    "source_ar": "المادة الثالثة والسبعون:",
+    "target_en": "Article 73",
+    "source_ar_norm": "المادة الثالثة والسبعون:",
+    "target_en_norm": "article 73",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41643,
+    "source_ar": "1- لا يجوز لشركة المساهمة أن تقدم قرضاً من أي نوع إلى أي من أعضاء مجلس إدارتها أو المساهمين فيها، أو أن تضمن أي قرض يعقده أي منهم مع الغير.",
+    "target_en": "1. A joint-stock company may not grant any loan whatsoever to any of its board members or shareholders, nor provide guarantee for any loan agreement they conclude with a third party.",
+    "source_ar_norm": "1- لا يجوز لشركة المساهمة ان تقدم قرضا من اي نوع الي اي من اعضاء مجلس ادارتها او المساهمين فيها، او ان تضمن اي قرض يعقده اي منهم مع الغير.",
+    "target_en_norm": "1. a joint-stock company may not grant any loan whatsoever to any of its board members or shareholders, nor provide guarantee for any loan agreement they conclude with a third party.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41644,
+    "source_ar": "2- تستثنى من حكم الفقرة (1) من هذه المادة البنوك وغيرها من شركات الائتمان، إذ يجوز لها - في حدود أغراضها وبالأوضاع والشروط التي تتبعها في معاملاتها مع الجمهور - أن تقرض أحد أعضاء مجلس إدارتها أو أحد المساهمين فيها أو أن تفتح له اعتماداً أو أن تضمنه في القروض التي يعقدها مع الغير.",
+    "target_en": "2. Notwithstanding paragraph 1 of this Article, banks and other credit companies may, within their purposes and subject to the same terms and conditions followed with other clients, grant loans or extend credit to any of its board members or shareholders, or provide a guarantee for loan agreements they conclude with third parties.",
+    "source_ar_norm": "2- تستثني من حكم الفقرة (1) من هذه المادة البنوك وغيرها من شركات الائتمان، اذ يجوز لها - في حدود اغراضها وبالاوضاع والشروط التي تتبعها في معاملاتها مع الجمهور - ان تقرض احد اعضاء مجلس ادارتها او احد المساهمين فيها او ان تفتح له اعتمادا او ان تضمنه في القروض التي يعقدها مع الغير.",
+    "target_en_norm": "2. notwithstanding paragraph 1 of this article, banks and other credit companies may, within their purposes and subject to the same terms and conditions followed with other clients, grant loans or extend credit to any of its board members or shareholders, or provide a guarantee for loan agreements they conclude with third parties.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41645,
+    "source_ar": "3- تستثنى أيضاً من حكم الفقرة (1) من هذه المادة القروض والضمانات التي تمنحها الشركة وفق برامج تحفيز العاملين فيها التي تمت الموافقة عليها وفق أحكام نظام الشركة الأساس أو بقرار من الجمعية العامة العادية.",
+    "target_en": "3. Loans and guarantees granted by the company according to its employee incentive programs, which are approved in accordance with the provisions of the company’s articles of association or pursuant to a decision by the ordinary general assembly, shall also be exempted from the provision of paragraph 1 of this Article.",
+    "source_ar_norm": "3- تستثني ايضا من حكم الفقرة (1) من هذه المادة القروض والضمانات التي تمنحها الشركة وفق برامج تحفيز العاملين فيها التي تمت الموافقة عليها وفق احكام نظام الشركة الاساس او بقرار من الجمعية العامة العادية.",
+    "target_en_norm": "3. loans and guarantees granted by the company according to its employee incentive programs, which are approved in accordance with the provisions of the company’s articles of association or pursuant to a decision by the ordinary general assembly, shall also be exempted from the provision of paragraph 1 of this article.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41646,
+    "source_ar": "4- يعد باطلاً كل عقد يتم بالمخالفة لأحكام هذه المادة، ويحق للشركة مطالبة المخالف أمام الجهة القضائية المختصة بتعويض ما قد يلحقها من ضرر.",
+    "target_en": "4. Any contract concluded in violation of the provisions of this Article shall be considered null and void, and the company shall have the right to seek compensation before the competent judicial authority for any sustained damages.",
+    "source_ar_norm": "4- يعد باطلا كل عقد يتم بالمخالفة لاحكام هذه المادة، ويحق للشركة مطالبة المخالف امام الجهة القضائية المختصة بتعويض ما قد يلحقها من ضرر.",
+    "target_en_norm": "4. any contract concluded in violation of the provisions of this article shall be considered null and void, and the company shall have the right to seek compensation before the competent judicial authority for any sustained damages.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41647,
+    "source_ar": "المادة الرابعة والسبعون:",
+    "target_en": "Article 74",
+    "source_ar_norm": "المادة الرابعة والسبعون:",
+    "target_en_norm": "article 74",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41648,
+    "source_ar": "لا يجوز لأعضاء مجلس الإدارة أن يفشوا في غير اجتماعات الجمعية العامة ما وقفوا عليه من أسرار الشركة. ولا يجوز لهم استغلال ما يعلمون به - بحكم عضويتهم - في تحقيق مصلحة لهم أو لأحد أقاربهم أو للغير؛ وإلا وجب عزلهم ومطالبتهم بالتعويض.",
+    "target_en": "Board members may not disclose the company’s confidential information they are privy to outside the meetings of the general assembly. They may not use information they have access to due to their membership to gain personal interest for themselves, their relatives or others. Otherwise, they shall be removed from the board and held liable for damages.",
+    "source_ar_norm": "لا يجوز لاعضاء مجلس الادارة ان يفشوا في غير اجتماعات الجمعية العامة ما وقفوا عليه من اسرار الشركة. ولا يجوز لهم استغلال ما يعلمون به - بحكم عضويتهم - في تحقيق مصلحة لهم او لاحد اقاربهم او للغير؛ والا وجب عزلهم ومطالبتهم بالتعويض.",
+    "target_en_norm": "board members may not disclose the company’s confidential information they are privy to outside the meetings of the general assembly. they may not use information they have access to due to their membership to gain personal interest for themselves, their relatives or others. otherwise, they shall be removed from the board and held liable for damages.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41649,
+    "source_ar": "المادة الخامسة والسبعون:",
+    "target_en": "Article 75",
+    "source_ar_norm": "المادة الخامسة والسبعون:",
+    "target_en_norm": "article 75",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41650,
+    "source_ar": "1- مع مراعاة الاختصاصات المقررة للجمعية العامة، يكون لمجلس الإدارة أوسع السلطات في إدارة الشركة بما يحقق أغراضها، وذلك فيما عدا ما استثني بنص خاص في النظام أو نظام الشركة الأساس من أعمال أو تصرفات تدخل في اختصاص الجمعية العامة، ويكون للمجلس أيضاً - في حدود اختصاصه - أن يفوض واحداً أو أكثر من أعضائه أو من الغير في مباشرة عمل أو أعمال معينة.",
+    "target_en": "1. Without prejudice to the powers of the general assembly, the board of directors shall have full powers to manage the company in a manner that serves its purposes, except for powers entrusted to the general assembly pursuant to a special provision in the Law or in the company’s articles of association. The board may, within its powers, authorize one or more of its members or others to perform certain acts.",
+    "source_ar_norm": "1- مع مراعاة الاختصاصات المقررة للجمعية العامة، يكون لمجلس الادارة اوسع السلطات في ادارة الشركة بما يحقق اغراضها، وذلك فيما عدا ما استثني بنص خاص في النظام او نظام الشركة الاساس من اعمال او تصرفات تدخل في اختصاص الجمعية العامة، ويكون للمجلس ايضا - في حدود اختصاصه - ان يفوض واحدا او اكثر من اعضائه او من الغير في مباشرة عمل او اعمال معينة.",
+    "target_en_norm": "1. without prejudice to the powers of the general assembly, the board of directors shall have full powers to manage the company in a manner that serves its purposes, except for powers entrusted to the general assembly pursuant to a special provision in the law or in the company’s articles of association. the board may, within its powers, authorize one or more of its members or others to perform certain acts.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41651,
+    "source_ar": "2- يجوز لمجلس الإدارة عقد القروض أيًّا كانت مدتها، أو بيع أصول الشركة أو رهنها، أو بيع محل الشركة التجاري أو رهنه، أو إبراء ذمة مديني الشركة من التزاماتهم، ما لم يتضمن نظام الشركة الأساس أو يصدر من الجمعية العامة العادية ما يقيد صلاحيات مجلس الإدارة في ذلك.",
+    "target_en": "2. The board shall have the right to enter into loan agreements, regardless of their terms, or sell or pledge the company’s assets including place of business, or relieve the company’s debtors from liability, unless such powers are restricted by the company’s articles of association or by decision of the ordinary general assembly.",
+    "source_ar_norm": "2- يجوز لمجلس الادارة عقد القروض ايا كانت مدتها، او بيع اصول الشركة او رهنها، او بيع محل الشركة التجاري او رهنه، او ابراء ذمة مديني الشركة من التزاماتهم، ما لم يتضمن نظام الشركة الاساس او يصدر من الجمعية العامة العادية ما يقيد صلاحيات مجلس الادارة في ذلك.",
+    "target_en_norm": "2. the board shall have the right to enter into loan agreements, regardless of their terms, or sell or pledge the company’s assets including place of business, or relieve the company’s debtors from liability, unless such powers are restricted by the company’s articles of association or by decision of the ordinary general assembly.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41652,
+    "source_ar": "المادة السادسة والسبعون:",
+    "target_en": "Article 76",
+    "source_ar_norm": "المادة السادسة والسبعون:",
+    "target_en_norm": "article 76",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41653,
+    "source_ar": "1- يبين نظام الشركة الأساس طريقة مكافأة أعضاء مجلس الإدارة، ويجوز أن تكون هذه المكافأة مبلغاً معيناً أو بدل حضور عن الجلسات أو مزايا عينية أو نسبة معينة من صافي الأرباح، ويجوز الجمع بين اثنتين أو أكثر من هذه المزايا.",
+    "target_en": "1. The company’s articles of association shall specify the manner of remunerating board members. Such remuneration may take the form of a fixed amount, a certain amount per meeting attended, in-kind benefits, a percentage of the net profit, or a combination thereof.",
+    "source_ar_norm": "1- يبين نظام الشركة الاساس طريقة مكافاة اعضاء مجلس الادارة، ويجوز ان تكون هذه المكافاة مبلغا معينا او بدل حضور عن الجلسات او مزايا عينية او نسبة معينة من صافي الارباح، ويجوز الجمع بين اثنتين او اكثر من هذه المزايا.",
+    "target_en_norm": "1. the company’s articles of association shall specify the manner of remunerating board members. such remuneration may take the form of a fixed amount, a certain amount per meeting attended, in-kind benefits, a percentage of the net profit, or a combination thereof.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41654,
+    "source_ar": "2- إذا كانت المكافأة نسبة معينة من أرباح الشركة، فلا يجوز أن تزيد هذه النسبة على (10%) من صافي الأرباح، وذلك بعد خصم الاحتياطيات التي قررتها الجمعية العامة تطبيقاً لأحكام النظام ونظام الشركة الأساس، وبعد توزيع ربح على المساهمين لا يقل عن (5%) من رأس مال الشركة المدفوع، على أن يكون استحقاق هذه المكافأة متناسباً مع عدد الجلسات التي يحضرها العضو، وكل تقدير يخالف ذلك يكون باطلاً.",
+    "target_en": "2. If remuneration is a percentage of the profit, it shall not exceed l0% of the net profit, after deduction of reserves determined by the general assembly pursuant to the provisions of the Law or the company’s articles of association, and after distribution of a dividend of not less than 5% of the company’s paid-in capital. A member’s remuneration shall be proportionate with the number of meetings attended. Any remuneration made in violation of this provision shall be null and void.",
+    "source_ar_norm": "2- اذا كانت المكافاة نسبة معينة من ارباح الشركة، فلا يجوز ان تزيد هذه النسبة علي (10%) من صافي الارباح، وذلك بعد خصم الاحتياطيات التي قررتها الجمعية العامة تطبيقا لاحكام النظام ونظام الشركة الاساس، وبعد توزيع ربح علي المساهمين لا يقل عن (5%) من راس مال الشركة المدفوع، علي ان يكون استحقاق هذه المكافاة متناسبا مع عدد الجلسات التي يحضرها العضو، وكل تقدير يخالف ذلك يكون باطلا.",
+    "target_en_norm": "2. if remuneration is a percentage of the profit, it shall not exceed l0% of the net profit, after deduction of reserves determined by the general assembly pursuant to the provisions of the law or the company’s articles of association, and after distribution of a dividend of not less than 5% of the company’s paid-in capital. a member’s remuneration shall be proportionate with the number of meetings attended. any remuneration made in violation of this provision shall be null and void.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41655,
+    "source_ar": "3- في جميع الأحوال؛ لا يتجاوز مجموع ما يحصل عليه عضو مجلس الإدارة من مكافآت ومزايا مالية أو عينية مبلغ خمسمائة ألف ريال سنوياً، وفق الضوابط التي تضعها الجهة المختصة.",
+    "target_en": "3. In all cases, the total amount of remuneration received by a member, whether financial or otherwise, shall not exceed 500,000 riyals annually, in accordance with the rules prescribed by the Competent Authority.",
+    "source_ar_norm": "3- في جميع الاحوال؛ لا يتجاوز مجموع ما يحصل عليه عضو مجلس الادارة من مكافات ومزايا مالية او عينية مبلغ خمسمائة الف ريال سنويا، وفق الضوابط التي تضعها الجهة المختصة.",
+    "target_en_norm": "3. in all cases, the total amount of remuneration received by a member, whether financial or otherwise, shall not exceed 500,000 riyals annually, in accordance with the rules prescribed by the competent authority.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41656,
+    "source_ar": "4- يجب أن يشتمل تقرير مجلس الإدارة إلى الجمعية العامة العادية على بيان شامل لكل ما حصل عليه أعضاء مجلس الإدارة خلال السنة المالية من مكافآت وبدل مصروفات وغير ذلك من المزايا. وأن يشتمل كذلك على بيان ما قبضه أعضاء المجلس بوصفهم عاملين أو إداريين أو ما قبضوه نظير أعمال فنية أو إدارية أو استشارات. وأن يشتمل أيضاً على بيان بعدد جلسات المجلس وعدد الجلسات التي حضرها كل عضو من تاريخ آخر اجتماع للجمعية العامة.",
+    "target_en": "4. The board report submitted to the ordinary general assembly shall include a detailed statement of all amounts received by board members during the fiscal year, including remuneration, expenses and other benefits. The report shall also include amounts received by board members in their capacity as employees or executives, or in consideration of technical, administrative or consultative services. It shall also include a statement of the number of board meetings and number of meetings attended by each member from the date of the last general assembly meeting.",
+    "source_ar_norm": "4- يجب ان يشتمل تقرير مجلس الادارة الي الجمعية العامة العادية علي بيان شامل لكل ما حصل عليه اعضاء مجلس الادارة خلال السنة المالية من مكافات وبدل مصروفات وغير ذلك من المزايا. وان يشتمل كذلك علي بيان ما قبضه اعضاء المجلس بوصفهم عاملين او اداريين او ما قبضوه نظير اعمال فنية او ادارية او استشارات. وان يشتمل ايضا علي بيان بعدد جلسات المجلس وعدد الجلسات التي حضرها كل عضو من تاريخ اخر اجتماع للجمعية العامة.",
+    "target_en_norm": "4. the board report submitted to the ordinary general assembly shall include a detailed statement of all amounts received by board members during the fiscal year, including remuneration, expenses and other benefits. the report shall also include amounts received by board members in their capacity as employees or executives, or in consideration of technical, administrative or consultative services. it shall also include a statement of the number of board meetings and number of meetings attended by each member from the date of the last general assembly meeting.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41657,
+    "source_ar": "5- يجوز للجمعية العامة - بناءً على توصية من المجلس - إنهاء عضوية من تغيب من الأعضاء عن حضور ثلاثة اجتماعات متتالية للمجلس دون عذر مشروع.",
+    "target_en": "5. The general assembly may, upon a recommendation by the board, terminate the membership of any member who fails to attend three consecutive board meetings without a legitimate reason.",
+    "source_ar_norm": "5- يجوز للجمعية العامة - بناء علي توصية من المجلس - انهاء عضوية من تغيب من الاعضاء عن حضور ثلاثة اجتماعات متتالية للمجلس دون عذر مشروع.",
+    "target_en_norm": "5. the general assembly may, upon a recommendation by the board, terminate the membership of any member who fails to attend three consecutive board meetings without a legitimate reason.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41658,
+    "source_ar": "المادة السابعة والسبعون:",
+    "target_en": "Article 77",
+    "source_ar_norm": "المادة السابعة والسبعون:",
+    "target_en_norm": "article 77",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41659,
+    "source_ar": "تلتزم الشركة بجميع الأعمال والتصرفات التي يجريها مجلس الإدارة ولو كانت خارج اختصاصاته، ما لم يكن صاحب المصلحة سيّء النية أو يعلم أن تلك الأعمال خارج اختصاصات المجلس.",
+    "target_en": "The company shall be bound by all acts performed by the board, even if such acts exceed the powers of the board, unless the stakeholder is acting in bad faith or knows that such acts exceed the powers of the board.",
+    "source_ar_norm": "تلتزم الشركة بجميع الاعمال والتصرفات التي يجريها مجلس الادارة ولو كانت خارج اختصاصاته، ما لم يكن صاحب المصلحة سيء النية او يعلم ان تلك الاعمال خارج اختصاصات المجلس.",
+    "target_en_norm": "the company shall be bound by all acts performed by the board, even if such acts exceed the powers of the board, unless the stakeholder is acting in bad faith or knows that such acts exceed the powers of the board.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41660,
+    "source_ar": "المادة الثامنة والسبعون:",
+    "target_en": "Article 78",
+    "source_ar_norm": "المادة الثامنة والسبعون:",
+    "target_en_norm": "article 78",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41661,
+    "source_ar": "1- يكون أعضاء مجلس الإدارة مسؤولين - بالتضامن - عن تعويض الشركة أو المساهمين أو الغير عن الضرر الذي ينشأ عن إساءتهم تدبير شؤون الشركة أو مخالفتهم أحكام النظام أو نظام الشركة الأساس، وكل شرط يقضي بغير ذلك يعد كأن لم يكن. وتقع المسؤولية على جميع أعضاء مجلس الإدارة إذا نشأ الخطأ من قرار صدر بإجماعهم. أما القرارات التي تصدر بأغلبية الآراء، فلا يسأل عنها الأعضاء المعارضون متى أثبتوا اعتراضهم صراحة في محضر الاجتماع. ولا يعد الغياب عن حضور الاجتماع الذي يصدر فيه القرار سبباً للإعفاء من المسؤولية إلا إذا ثبت عدم علم العضو الغائب بالقرار أو عدم تمكنه من الاعتراض عليه بعد علمه به.",
+    "target_en": "1. Board members shall be jointly liable for damages sustained by the company, shareholders or third parties resulting from their mismanagement of the company, or their violation of the provisions of the Law or the company’s articles of association. Any condition to the contrary of this provision shall be considered null and void. All board members shall be liable if a wrongful act results from a resolution unanimously issued thereby. As for resolutions issued by a majority vote, dissenting members shall not be liable therefor if their objection is explicitly recorded in the minutes of the meeting. Absence from the meeting at which such resolution is adopted shall not constitute cause for relief from liability, unless it is established that the absentee is not aware of the resolution, or is unable to object to it after becoming aware of such resolution.",
+    "source_ar_norm": "1- يكون اعضاء مجلس الادارة مسؤولين - بالتضامن - عن تعويض الشركة او المساهمين او الغير عن الضرر الذي ينشا عن اساءتهم تدبير شؤون الشركة او مخالفتهم احكام النظام او نظام الشركة الاساس، وكل شرط يقضي بغير ذلك يعد كان لم يكن. وتقع المسؤولية علي جميع اعضاء مجلس الادارة اذا نشا الخطا من قرار صدر باجماعهم. اما القرارات التي تصدر باغلبية الاراء، فلا يسال عنها الاعضاء المعارضون متي اثبتوا اعتراضهم صراحة في محضر الاجتماع. ولا يعد الغياب عن حضور الاجتماع الذي يصدر فيه القرار سببا للاعفاء من المسؤولية الا اذا ثبت عدم علم العضو الغائب بالقرار او عدم تمكنه من الاعتراض عليه بعد علمه به.",
+    "target_en_norm": "1. board members shall be jointly liable for damages sustained by the company, shareholders or third parties resulting from their mismanagement of the company, or their violation of the provisions of the law or the company’s articles of association. any condition to the contrary of this provision shall be considered null and void. all board members shall be liable if a wrongful act results from a resolution unanimously issued thereby. as for resolutions issued by a majority vote, dissenting members shall not be liable therefor if their objection is explicitly recorded in the minutes of the meeting. absence from the meeting at which such resolution is adopted shall not constitute cause for relief from liability, unless it is established that the absentee is not aware of the resolution, or is unable to object to it after becoming aware of such resolution.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41662,
+    "source_ar": "2- لا تحول دون إقامة دعوى المسؤولية موافقة الجمعية العامة العادية على إبراء ذمة أعضاء مجلس الإدارة.",
+    "target_en": "2. Approval of the ordinary general assembly to relieve board members from liability shall not preclude the filing of a liability suit.",
+    "source_ar_norm": "2- لا تحول دون اقامة دعوي المسؤولية موافقة الجمعية العامة العادية علي ابراء ذمة اعضاء مجلس الادارة.",
+    "target_en_norm": "2. approval of the ordinary general assembly to relieve board members from liability shall not preclude the filing of a liability suit.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41663,
+    "source_ar": "3- لا تسمع دعوى المسؤولية بعد انقضاء ثلاث سنوات من تاريخ اكتشاف الفعل الضار. وفيما عدا حالتي الغش والتزوير، لا تسمع دعوى المسؤولية في جميع الأحوال بعد مرور خمس سنوات من تاريخ انتهاء السنة المالية التي وقع فيها الفعل الضار أو ثلاث سنوات من انتهاء عضوية عضو مجلس الإدارة المعني أيهما أبعد.",
+    "target_en": "3. A liability suit shall not be heard after the lapse of three years from the date of discovering the wrongful act. Except for fraud and forgery, a liability suit shall not be heard after the lapse of five years from the end of the fiscal year in which the wrongful act was committed, or three years from the expiration of membership term of the concerned member, whichever is later.",
+    "source_ar_norm": "3- لا تسمع دعوي المسؤولية بعد انقضاء ثلاث سنوات من تاريخ اكتشاف الفعل الضار. وفيما عدا حالتي الغش والتزوير، لا تسمع دعوي المسؤولية في جميع الاحوال بعد مرور خمس سنوات من تاريخ انتهاء السنة المالية التي وقع فيها الفعل الضار او ثلاث سنوات من انتهاء عضوية عضو مجلس الادارة المعني ايهما ابعد.",
+    "target_en_norm": "3. a liability suit shall not be heard after the lapse of three years from the date of discovering the wrongful act. except for fraud and forgery, a liability suit shall not be heard after the lapse of five years from the end of the fiscal year in which the wrongful act was committed, or three years from the expiration of membership term of the concerned member, whichever is later.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41664,
+    "source_ar": "المادة التاسعة والسبعون:",
+    "target_en": "Article 79",
+    "source_ar_norm": "المادة التاسعة والسبعون:",
+    "target_en_norm": "article 79",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41665,
+    "source_ar": "للشركة أن ترفع دعوى المسؤولية على أعضاء مجلس الإدارة بسبب الأخطاء التي تنشأ منها أضرار لمجموع المساهمين. وتقرر الجمعية العامة العادية رفع هذه الدعوى وتعين من ينوب عن الشركة في مباشرتها. وإذا حكم بشهر إفلاس الشركة كان رفع الدعوى المذكورة من اختصاص ممثل التفليسة. وإذا انقضت الشركة تولى المصفي مباشرة الدعوى بعد الحصول على موافقة الجمعية العامة العادية.",
+    "target_en": "The company may file a liability suit against board members for wrongful acts that may harm shareholders. The decision to file this suit is vested in the ordinary general assembly, which shall designate a representative on behalf of the company to pursue the suit. If the company is declared bankrupt, the right to file said suit shall be vested in the bankruptcy trustee. In case the company is liquidated, the suit shall be pursued by the liquidator upon obtaining the approval of the ordinary general assembly.",
+    "source_ar_norm": "للشركة ان ترفع دعوي المسؤولية علي اعضاء مجلس الادارة بسبب الاخطاء التي تنشا منها اضرار لمجموع المساهمين. وتقرر الجمعية العامة العادية رفع هذه الدعوي وتعين من ينوب عن الشركة في مباشرتها. واذا حكم بشهر افلاس الشركة كان رفع الدعوي المذكورة من اختصاص ممثل التفليسة. واذا انقضت الشركة تولي المصفي مباشرة الدعوي بعد الحصول علي موافقة الجمعية العامة العادية.",
+    "target_en_norm": "the company may file a liability suit against board members for wrongful acts that may harm shareholders. the decision to file this suit is vested in the ordinary general assembly, which shall designate a representative on behalf of the company to pursue the suit. if the company is declared bankrupt, the right to file said suit shall be vested in the bankruptcy trustee. in case the company is liquidated, the suit shall be pursued by the liquidator upon obtaining the approval of the ordinary general assembly.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41666,
+    "source_ar": "المادة الثمانون:",
+    "target_en": "Article 80",
+    "source_ar_norm": "المادة الثمانون:",
+    "target_en_norm": "article 80",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41667,
+    "source_ar": "لكل مساهم الحق في رفع دعوى المسؤولية المقررة للشركة على أعضاء مجلس الإدارة إذا كان من شأن الخطأ الذي صدر منهم إلحاق ضرر خاص به. ولا يجوز للمساهم رفع الدعوى المذكورة إلا إذا كان حق الشركة في رفعها لا يزال قائماً. ويجب على المساهم أن يبلغ الشركة بعزمه على رفع الدعوى، مع قصر حقه على المطالبة بالتعويض عن الضرر الخاص الذي لحق به.",
+    "target_en": "Each shareholder shall have the right to file a liability suit against board members for any wrongful act that causes harm to him. The shareholder may file such suit only if the company’s right to file the same is still valid. The shareholder shall notify the company of his intention to file such suit, and his right to compensation shall be limited to the damage sustained by him.",
+    "source_ar_norm": "لكل مساهم الحق في رفع دعوي المسؤولية المقررة للشركة علي اعضاء مجلس الادارة اذا كان من شان الخطا الذي صدر منهم الحاق ضرر خاص به. ولا يجوز للمساهم رفع الدعوي المذكورة الا اذا كان حق الشركة في رفعها لا يزال قائما. ويجب علي المساهم ان يبلغ الشركة بعزمه علي رفع الدعوي، مع قصر حقه علي المطالبة بالتعويض عن الضرر الخاص الذي لحق به.",
+    "target_en_norm": "each shareholder shall have the right to file a liability suit against board members for any wrongful act that causes harm to him. the shareholder may file such suit only if the company’s right to file the same is still valid. the shareholder shall notify the company of his intention to file such suit, and his right to compensation shall be limited to the damage sustained by him.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41668,
+    "source_ar": "الثمانون مكرر",
+    "target_en": "Article 80 (bis)",
+    "source_ar_norm": "الثمانون مكرر",
+    "target_en_norm": "article 80 (bis)",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41669,
+    "source_ar": "\"يجوز تحميل الشركة النفقات التي تكلفها المساهم لإقامة دعوى أياً كانت نتيجتها بالشروط الآتية:",
+    "target_en": "The company may be compelled to bear the expenses incurred by the shareholder in the filling of a lawsuit regardless of its outcome, subject to the following:",
+    "source_ar_norm": "\"يجوز تحميل الشركة النفقات التي تكلفها المساهم لاقامة دعوي ايا كانت نتيجتها بالشروط الاتية:",
+    "target_en_norm": "the company may be compelled to bear the expenses incurred by the shareholder in the filling of a lawsuit regardless of its outcome, subject to the following:",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41670,
+    "source_ar": "أ- إذا أقام الدعوى بحسن نية.",
+    "target_en": "a) If he files the lawsuit in good faith.",
+    "source_ar_norm": "ا- اذا اقام الدعوي بحسن نية.",
+    "target_en_norm": "a) if he files the lawsuit in good faith.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41671,
+    "source_ar": "ب- إذا تقدم إلى الشركة بالسبب الذي من أجله أقام الدعوى ولم يحصل على رد خلال ثلاثين يوماً.",
+    "target_en": "b) If he submits to the company the lawsuit's cause of action and does not receive a response within 30 days.",
+    "source_ar_norm": "ب- اذا تقدم الي الشركة بالسبب الذي من اجله اقام الدعوي ولم يحصل علي رد خلال ثلاثين يوما.",
+    "target_en_norm": "b) if he submits to the company the lawsuit's cause of action and does not receive a response within 30 days.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41672,
+    "source_ar": "ج- إذا كان من مصلحة الشركة إقامة هذه الدعوى بناء على حكم المادة (التاسعة والسبعين) من النظام.",
+    "target_en": "c) If filing such lawsuit is in the interest of the company, according to Article 79 of the Law.",
+    "source_ar_norm": "ج- اذا كان من مصلحة الشركة اقامة هذه الدعوي بناء علي حكم المادة (التاسعة والسبعين) من النظام.",
+    "target_en_norm": "c) if filing such lawsuit is in the interest of the company, according to article 79 of the law.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41673,
+    "source_ar": "د- أن تكون الدعوى قائمة على أساس صحيح\".",
+    "target_en": "d) If the lawsuit is based on sound grounds.",
+    "source_ar_norm": "د- ان تكون الدعوي قائمة علي اساس صحيح\".",
+    "target_en_norm": "d) if the lawsuit is based on sound grounds.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41674,
+    "source_ar": "المادة الحادية والثمانون:",
+    "target_en": "Article 81",
+    "source_ar_norm": "المادة الحادية والثمانون:",
+    "target_en_norm": "article 81",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41675,
+    "source_ar": "1- مع مراعاة أحكام نظام الشركة الأساس، يعين مجلس الإدارة من بين أعضائه رئيساً ونائباً للرئيس، ويجوز أن يعين عضواً منتدباً، ولا يجوز الجمع بين منصب رئيس مجلس الإدارة وأي منصب تنفيذي بالشركة. ويبين نظام الشركة الأساس اختصاصات رئيس المجلس والعضو المنتدب والمكافأة الخاصة التي يحصل عليها كل منهما، بالإضافة إلى المكافأة المقررة لأعضاء المجلس.",
+    "target_en": "1. Subject to the provisions of the company’s articles of association, the board shall appoint, from among its members, a chairman and vice-chairman and may appoint a managing director. A member may not combine the position of a chairman and any other executive position. The company’s articles of association shall specify the powers and remuneration of the chairman of the board and the managing director as well as the remuneration of board members.",
+    "source_ar_norm": "1- مع مراعاة احكام نظام الشركة الاساس، يعين مجلس الادارة من بين اعضائه رئيسا ونائبا للرئيس، ويجوز ان يعين عضوا منتدبا، ولا يجوز الجمع بين منصب رئيس مجلس الادارة واي منصب تنفيذي بالشركة. ويبين نظام الشركة الاساس اختصاصات رئيس المجلس والعضو المنتدب والمكافاة الخاصة التي يحصل عليها كل منهما، بالاضافة الي المكافاة المقررة لاعضاء المجلس.",
+    "target_en_norm": "1. subject to the provisions of the company’s articles of association, the board shall appoint, from among its members, a chairman and vice-chairman and may appoint a managing director. a member may not combine the position of a chairman and any other executive position. the company’s articles of association shall specify the powers and remuneration of the chairman of the board and the managing director as well as the remuneration of board members.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41676,
+    "source_ar": "2- إذا خلا نظام الشركة الأساس من الأحكام المنصوص عليها في الفقرة (1) من هذه المادة، تولى مجلس الإدارة توزيع الاختصاصات وتحديد المكافأة الخاصة.",
+    "target_en": "2. If the company’s articles of association do not stipulate the provisions set forth in paragraph 1 of this Article, the board shall assign powers and specify remuneration.",
+    "source_ar_norm": "2- اذا خلا نظام الشركة الاساس من الاحكام المنصوص عليها في الفقرة (1) من هذه المادة، تولي مجلس الادارة توزيع الاختصاصات وتحديد المكافاة الخاصة.",
+    "target_en_norm": "2. if the company’s articles of association do not stipulate the provisions set forth in paragraph 1 of this article, the board shall assign powers and specify remuneration.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41677,
+    "source_ar": "3- يعين مجلس الإدارة أمين سر يختاره من بين أعضائه أو من غيرهم، ويحدد اختصاصاته ومكافأته إذا لم يتضمن نظام الشركة الأساس أحكاماً في هذا الشأن.",
+    "target_en": "3. The board shall appoint a secretary, from among its members or others, and determine his duties and remuneration, if the company’s articles of association do not stipulate any provisions in this regard.",
+    "source_ar_norm": "3- يعين مجلس الادارة امين سر يختاره من بين اعضائه او من غيرهم، ويحدد اختصاصاته ومكافاته اذا لم يتضمن نظام الشركة الاساس احكاما في هذا الشان.",
+    "target_en_norm": "3. the board shall appoint a secretary, from among its members or others, and determine his duties and remuneration, if the company’s articles of association do not stipulate any provisions in this regard.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41678,
+    "source_ar": "4- لا تزيد مدة رئيس المجلس ونائبه والعضو المنتدب وأمين السر عضو مجلس الإدارة على مدة عضوية كل منهم في المجلس، ويجوز إعادة انتخابهم ما لم ينص نظام الشركة الأساس على غير ذلك. وللمجلس - في أيّ وقت - أن يعزلهم أو أيًّا منهم دون إخلال بحق من عزل في التعويض إذا وقع العزل لسبب غير مشروع أو في وقت غير مناسب.",
+    "target_en": "4. The terms of the chairman, vice-chairman, managing director and secretary, who is a board member, may not exceed the term of their memberships in the board, and they may be re-elected unless the company’s articles of association stipulate otherwise. The board may, at any time, remove all or some of them, without prejudice to their right to damages if such removal is made without a valid reason or at an inappropriate time.",
+    "source_ar_norm": "4- لا تزيد مدة رئيس المجلس ونائبه والعضو المنتدب وامين السر عضو مجلس الادارة علي مدة عضوية كل منهم في المجلس، ويجوز اعادة انتخابهم ما لم ينص نظام الشركة الاساس علي غير ذلك. وللمجلس - في اي وقت - ان يعزلهم او ايا منهم دون اخلال بحق من عزل في التعويض اذا وقع العزل لسبب غير مشروع او في وقت غير مناسب.",
+    "target_en_norm": "4. the terms of the chairman, vice-chairman, managing director and secretary, who is a board member, may not exceed the term of their memberships in the board, and they may be re-elected unless the company’s articles of association stipulate otherwise. the board may, at any time, remove all or some of them, without prejudice to their right to damages if such removal is made without a valid reason or at an inappropriate time.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41679,
+    "source_ar": "المادة الثانية والثمانون:",
+    "target_en": "Article 82",
+    "source_ar_norm": "المادة الثانية والثمانون:",
+    "target_en_norm": "article 82",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41680,
+    "source_ar": "1- يمثل رئيس مجلس الإدارة الشركة أمام القضاء وهيئات التحكيم والغير. ولرئيس المجلس بقرار مكتوب أن يفوض بعض صلاحياته إلى غيره من أعضاء المجلس أو من الغير في مباشرة عمل أو أعمال محددة.",
+    "target_en": "1. The chairman of the board shall represent the company before courts, arbitration tribunals and third parties. The chairman may also delegate some of his powers to board members or others to carry out specific tasks.",
+    "source_ar_norm": "1- يمثل رئيس مجلس الادارة الشركة امام القضاء وهيئات التحكيم والغير. ولرئيس المجلس بقرار مكتوب ان يفوض بعض صلاحياته الي غيره من اعضاء المجلس او من الغير في مباشرة عمل او اعمال محددة.",
+    "target_en_norm": "1. the chairman of the board shall represent the company before courts, arbitration tribunals and third parties. the chairman may also delegate some of his powers to board members or others to carry out specific tasks.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41681,
+    "source_ar": "2- يحل نائب رئيس مجلس الإدارة محل رئيس مجلس الإدارة عند غيابه.",
+    "target_en": "2. The vice-chairman shall replace the chairman in his absence.",
+    "source_ar_norm": "2- يحل نائب رئيس مجلس الادارة محل رئيس مجلس الادارة عند غيابه.",
+    "target_en_norm": "2. the vice-chairman shall replace the chairman in his absence.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41682,
+    "source_ar": "المادة الثالثة والثمانون:",
+    "target_en": "Article 83",
+    "source_ar_norm": "المادة الثالثة والثمانون:",
+    "target_en_norm": "article 83",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41683,
+    "source_ar": "1- يجتمع مجلس الإدارة مرتين على الأقل في السنة بدعوة من رئيسه وفقاً للأوضاع المنصوص عليها في نظام الشركة الأساس. ومع ذلك وبصرف النظر عن أي نص مخالف في نظام الشركة الأساس، يجب على رئيس المجلس أن يدعوه إلى الاجتماع متى طلب إليه ذلك اثنان من الأعضاء.",
+    "target_en": "1. The board shall convene at least twice a year upon a call of its chairman as prescribed in the company’s articles of association. Notwithstanding any conflicting provision in the company’s articles of association, the chairman shall call for a board meeting upon the request of two members.",
+    "source_ar_norm": "1- يجتمع مجلس الادارة مرتين علي الاقل في السنة بدعوة من رئيسه وفقا للاوضاع المنصوص عليها في نظام الشركة الاساس. ومع ذلك وبصرف النظر عن اي نص مخالف في نظام الشركة الاساس، يجب علي رئيس المجلس ان يدعوه الي الاجتماع متي طلب اليه ذلك اثنان من الاعضاء.",
+    "target_en_norm": "1. the board shall convene at least twice a year upon a call of its chairman as prescribed in the company’s articles of association. notwithstanding any conflicting provision in the company’s articles of association, the chairman shall call for a board meeting upon the request of two members.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41684,
+    "source_ar": "2- لا يكون اجتماع المجلس صحيحاً إلا إذا حضره نصف الأعضاء على الأقل، بشرط ألا يقل عدد الحاضرين عن ثلاثة، ما لم ينص نظام الشركة الأساس على نسبة أو عدد أكبر.",
+    "target_en": "2. A board meeting shall not be valid unless attended by at least one half of the members, provided that the number of attending members is not less than three, unless the company’s articles of association stipulate otherwise.",
+    "source_ar_norm": "2- لا يكون اجتماع المجلس صحيحا الا اذا حضره نصف الاعضاء علي الاقل، بشرط الا يقل عدد الحاضرين عن ثلاثة، ما لم ينص نظام الشركة الاساس علي نسبة او عدد اكبر.",
+    "target_en_norm": "2. a board meeting shall not be valid unless attended by at least one half of the members, provided that the number of attending members is not less than three, unless the company’s articles of association stipulate otherwise.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41685,
+    "source_ar": "3- لا يجوز لعضو مجلس الإدارة أن ينيب عنه غيره في حضور الاجتماع. واستثناء من ذلك، يجوز لعضو مجلس الإدارة أن ينيب عنه غيره من الأعضاء إذا نص على ذلك نظام الشركة الأساس.",
+    "target_en": "3. A board member may not assign others to attend the meeting on his behalf. He may, however, assign another board member if permitted by the company’s articles of association.",
+    "source_ar_norm": "3- لا يجوز لعضو مجلس الادارة ان ينيب عنه غيره في حضور الاجتماع. واستثناء من ذلك، يجوز لعضو مجلس الادارة ان ينيب عنه غيره من الاعضاء اذا نص علي ذلك نظام الشركة الاساس.",
+    "target_en_norm": "3. a board member may not assign others to attend the meeting on his behalf. he may, however, assign another board member if permitted by the company’s articles of association.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41686,
+    "source_ar": "4- تصدر قرارات المجلس بأغلبية آراء الأعضاء الحاضرين أو الممثلين فيه، وعند تساوي الآراء يرجح الجانب الذي صوت معه رئيس الجلسة، وذلك ما لم ينص نظام الشركة الأساس على غير ذلك.",
+    "target_en": "4. Board resolutions shall be passed by a majority vote of attending or represented members. In case of a tie, the meeting chairman shall have the casting vote, unless the company’s articles of association stipulate otherwise.",
+    "source_ar_norm": "4- تصدر قرارات المجلس باغلبية اراء الاعضاء الحاضرين او الممثلين فيه، وعند تساوي الاراء يرجح الجانب الذي صوت معه رئيس الجلسة، وذلك ما لم ينص نظام الشركة الاساس علي غير ذلك.",
+    "target_en_norm": "4. board resolutions shall be passed by a majority vote of attending or represented members. in case of a tie, the meeting chairman shall have the casting vote, unless the company’s articles of association stipulate otherwise.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41687,
+    "source_ar": "المادة الرابعة والثمانون:",
+    "target_en": "Article 84",
+    "source_ar_norm": "المادة الرابعة والثمانون:",
+    "target_en_norm": "article 84",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41688,
+    "source_ar": "لمجلس الإدارة أن يصدر قرارات في الأمور العاجلة بعرضها على الأعضاء متفرقين، ما لم يطلب أحد الأعضاء - كتابة - اجتماع المجلس للمداولة فيها. وتعرض هذه القرارات على المجلس في أول اجتماع تالٍ له.",
+    "target_en": "The board may issue resolutions on urgent matters by circulation, unless a member requests in writing that the board convenes for deliberation. Such resolutions shall be presented to the board at the next meeting.",
+    "source_ar_norm": "لمجلس الادارة ان يصدر قرارات في الامور العاجلة بعرضها علي الاعضاء متفرقين، ما لم يطلب احد الاعضاء - كتابة - اجتماع المجلس للمداولة فيها. وتعرض هذه القرارات علي المجلس في اول اجتماع تال له.",
+    "target_en_norm": "the board may issue resolutions on urgent matters by circulation, unless a member requests in writing that the board convenes for deliberation. such resolutions shall be presented to the board at the next meeting.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41689,
+    "source_ar": "المادة الخامسة والثمانون:",
+    "target_en": "Article 85",
+    "source_ar_norm": "المادة الخامسة والثمانون:",
+    "target_en_norm": "article 85",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41690,
+    "source_ar": "تُثبت مداولات مجلس الإدارة وقراراته في محاضر يوقعها رئيس الجلسة وأعضاء مجلس الإدارة الحاضرون وأمين السر. وتدون هذه المحاضر في سجل خاص يوقعه رئيس مجلس الإدارة وأمين السر.",
+    "target_en": "Board deliberations and resolutions shall be recorded in minutes signed by the meeting chairman, attending members and secretary. Such minutes shall be entered in a special register signed by the chairman and secretary.",
+    "source_ar_norm": "تثبت مداولات مجلس الادارة وقراراته في محاضر يوقعها رئيس الجلسة واعضاء مجلس الادارة الحاضرون وامين السر. وتدون هذه المحاضر في سجل خاص يوقعه رئيس مجلس الادارة وامين السر.",
+    "target_en_norm": "board deliberations and resolutions shall be recorded in minutes signed by the meeting chairman, attending members and secretary. such minutes shall be entered in a special register signed by the chairman and secretary.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41691,
+    "source_ar": "الفرع الثاني: جمعيات المساهمين",
+    "target_en": "Section 2: Shareholder Assemblies",
+    "source_ar_norm": "الفرع الثاني: جمعيات المساهمين",
+    "target_en_norm": "section 2: shareholder assemblies",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41692,
+    "source_ar": "المادة السادسة والثمانون:",
+    "target_en": "Article 86",
+    "source_ar_norm": "المادة السادسة والثمانون:",
+    "target_en_norm": "article 86",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41693,
+    "source_ar": "1- يرأس اجتماعات الجمعيات العامة للمساهمين رئيس مجلس الإدارة أو نائبه عند غيابه أو من ينتدبه مجلس الإدارة من بين أعضائه لذلك في حال غياب رئيس مجلس الإدارة ونائبه.",
+    "target_en": "1. Meetings of the shareholder general assembly shall be headed by the chairman, or vice-chairman in case of absence of the chairman, or any member designated by the board in the absence of both the chairman and vice-chairman.",
+    "source_ar_norm": "1- يراس اجتماعات الجمعيات العامة للمساهمين رئيس مجلس الادارة او نائبه عند غيابه او من ينتدبه مجلس الادارة من بين اعضائه لذلك في حال غياب رئيس مجلس الادارة ونائبه.",
+    "target_en_norm": "1. meetings of the shareholder general assembly shall be headed by the chairman, or vice-chairman in case of absence of the chairman, or any member designated by the board in the absence of both the chairman and vice-chairman.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41694,
+    "source_ar": "2- لكل مساهم حق حضور الجمعيات العامة للمساهمين ولو نص نظام الشركة الأساس على غير ذلك، وله في ذلك أن يوكل عنه شخصاً آخر من غير أعضاء مجلس الإدارة أو عاملي الشركة في حضور الجمعية العامة.",
+    "target_en": "2. Each shareholder shall have the right to attend meetings of the shareholder general assembly, even if the company’s articles of association stipulate otherwise. A shareholder may assign another person other than a board member or a company’s employee to attend the general assembly meeting.",
+    "source_ar_norm": "2- لكل مساهم حق حضور الجمعيات العامة للمساهمين ولو نص نظام الشركة الاساس علي غير ذلك، وله في ذلك ان يوكل عنه شخصا اخر من غير اعضاء مجلس الادارة او عاملي الشركة في حضور الجمعية العامة.",
+    "target_en_norm": "2. each shareholder shall have the right to attend meetings of the shareholder general assembly, even if the company’s articles of association stipulate otherwise. a shareholder may assign another person other than a board member or a company’s employee to attend the general assembly meeting.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41695,
+    "source_ar": "3- يجوز عقد اجتماعات الجمعيات العامة للمساهمين واشتراك المساهم في مداولاتها والتصويت على قراراتها بواسطة وسائل التقنية الحديثة، بحسب الضوابط التي تضعها الجهة المختصة.",
+    "target_en": "3. Shareholder general assembly meetings and shareholders’ participation therein and voting on its resolutions may be done by means of modern technology, in accordance with rules set by the Competent Authority.",
+    "source_ar_norm": "3- يجوز عقد اجتماعات الجمعيات العامة للمساهمين واشتراك المساهم في مداولاتها والتصويت علي قراراتها بواسطة وسائل التقنية الحديثة، بحسب الضوابط التي تضعها الجهة المختصة.",
+    "target_en_norm": "3. shareholder general assembly meetings and shareholders’ participation therein and voting on its resolutions may be done by means of modern technology, in accordance with rules set by the competent authority.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41696,
+    "source_ar": "4- يجوز للوزارة، وكذلك للهيئة في الشركات المدرجة في السوق المالية، أن توفد مندوباً (أو أكثر) بوصفه مراقباً لحضور الجمعيات العامة للشركات، للتأكد من تطبيق أحكام النظام.",
+    "target_en": "4. The Ministry, and CMA in the case of a listed company, may assign one or more representatives to attend general assembly meetings of companies as observers to ensure compliance with the provisions of the Law.",
+    "source_ar_norm": "4- يجوز للوزارة، وكذلك للهيئة في الشركات المدرجة في السوق المالية، ان توفد مندوبا (او اكثر) بوصفه مراقبا لحضور الجمعيات العامة للشركات، للتاكد من تطبيق احكام النظام.",
+    "target_en_norm": "4. the ministry, and cma in the case of a listed company, may assign one or more representatives to attend general assembly meetings of companies as observers to ensure compliance with the provisions of the law.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41697,
+    "source_ar": "المادة السابعة والثمانون:",
+    "target_en": "Article 87",
+    "source_ar_norm": "المادة السابعة والثمانون:",
+    "target_en_norm": "article 87",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41698,
+    "source_ar": "فيما عدا الأمور التي تختص بها الجمعية العامة غير العادية، تختص الجمعية العامة العادية بجميع الأمور المتعلقة بالشركة، وتنعقد مرة على الأقل في السنة خلال الأشهر الستة التالية لانتهاء السنة المالية للشركة، ويجوز دعوة جمعيات عامة عادية أخرى كلما دعت الحاجة إلى ذلك.",
+    "target_en": "Except for matters within the powers of the extraordinary general assembly, the ordinary general assembly shall have powers over all other company matters, and shall convene at least once a year within six months following the end of the company’s fiscal year. The ordinary general assembly may, however, convene when necessary.",
+    "source_ar_norm": "فيما عدا الامور التي تختص بها الجمعية العامة غير العادية، تختص الجمعية العامة العادية بجميع الامور المتعلقة بالشركة، وتنعقد مرة علي الاقل في السنة خلال الاشهر الستة التالية لانتهاء السنة المالية للشركة، ويجوز دعوة جمعيات عامة عادية اخري كلما دعت الحاجة الي ذلك.",
+    "target_en_norm": "except for matters within the powers of the extraordinary general assembly, the ordinary general assembly shall have powers over all other company matters, and shall convene at least once a year within six months following the end of the company’s fiscal year. the ordinary general assembly may, however, convene when necessary.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41699,
+    "source_ar": "المادة الثامنة والثمانون:",
+    "target_en": "Article 88",
+    "source_ar_norm": "المادة الثامنة والثمانون:",
+    "target_en_norm": "article 88",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41700,
+    "source_ar": "1- تختص الجمعية العامة غير العادية بتعديل نظام الشركة الأساس، إلا ما يتعلق بالأمور الآتية:",
+    "target_en": "1. The extraordinary general assembly shall have the power to amend the company’s articles of association, except for the following:",
+    "source_ar_norm": "1- تختص الجمعية العامة غير العادية بتعديل نظام الشركة الاساس، الا ما يتعلق بالامور الاتية:",
+    "target_en_norm": "1. the extraordinary general assembly shall have the power to amend the company’s articles of association, except for the following:",
+    "file_name": "نظام الشركات.docx"
+  }
+]

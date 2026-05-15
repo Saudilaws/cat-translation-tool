@@ -1,0 +1,802 @@
+[
+  {
+    "id": 46801,
+    "source_ar": "1 - مشروعات المخططات الهيكلية، والتنظيمية، والسكنية.",
+    "target_en": "1. Structural, residential, and regulatory proposals.",
+    "source_ar_norm": "1 - مشروعات المخططات الهيكلية، والتنظيمية، والسكنية.",
+    "target_en_norm": "1. structural, residential, and regulatory proposals.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46802,
+    "source_ar": "2 - نطاق الخدمات البلدية.",
+    "target_en": "2. Scope of municipal services.",
+    "source_ar_norm": "2 - نطاق الخدمات البلدية.",
+    "target_en_norm": "2. scope of municipal services.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46803,
+    "source_ar": "3 - مشروعات نزع الملكية للمنفعة العامة.",
+    "target_en": "3. Expropriation for public interest.",
+    "source_ar_norm": "3 - مشروعات نزع الملكية للمنفعة العامة.",
+    "target_en_norm": "3. expropriation for public interest.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46804,
+    "source_ar": "4 - ضم بلديتين أو أكثر، أو فصل بلدية إلى بلديتين أو أكثر.",
+    "target_en": "4. Merging of two or more sub-municipalities, or splitting a sub-municipality into two or more sub-municipalities.",
+    "source_ar_norm": "4 - ضم بلديتين او اكثر، او فصل بلدية الي بلديتين او اكثر.",
+    "target_en_norm": "4. merging of two or more sub-municipalities, or splitting a sub-municipality into two or more sub-municipalities.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46805,
+    "source_ar": "5 - الرسوم والغرامات البلدية.",
+    "target_en": "5. Municipal fees and fines.",
+    "source_ar_norm": "5 - الرسوم والغرامات البلدية.",
+    "target_en_norm": "5. municipal fees and fines.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46806,
+    "source_ar": "6 - شروط وضوابط البناء، ونظم استخدام الأراضي.",
+    "target_en": "6. Requirements and conditions for construction as well as land use regulations.",
+    "source_ar_norm": "6 - شروط وضوابط البناء، ونظم استخدام الاراضي.",
+    "target_en_norm": "6. requirements and conditions for construction as well as land use regulations.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46807,
+    "source_ar": "7 - الشروط والمعايير المتعلقة بالصحة العامة.",
+    "target_en": "7. Public health standards and conditions.",
+    "source_ar_norm": "7 - الشروط والمعايير المتعلقة بالصحة العامة.",
+    "target_en_norm": "7. public health standards and conditions.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46808,
+    "source_ar": "8 - إنشاء البلديات الفرعية ومكاتب الخدمات.",
+    "target_en": "8. Establishing branch and service offices for a sub-municipality.",
+    "source_ar_norm": "8 - انشاء البلديات الفرعية ومكاتب الخدمات.",
+    "target_en_norm": "8. establishing branch and service offices for a sub-municipality.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46809,
+    "source_ar": "9 - ما يوجه الوزير بعرضه على المجلس.",
+    "target_en": "9. Any matter referred thereto by the Minister.",
+    "source_ar_norm": "9 - ما يوجه الوزير بعرضه علي المجلس.",
+    "target_en_norm": "9. any matter referred thereto by the minister.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46810,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article 8",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46811,
+    "source_ar": "يمارس المجلس سلطاته الرقابية على أداء البلدية، وعلى ما تقدمه من خدمات من خلال الوسائل الآتية:",
+    "target_en": "The council shall exercise its powers in monitoring the municipality’s performance and services through the following:",
+    "source_ar_norm": "يمارس المجلس سلطاته الرقابية علي اداء البلدية، وعلي ما تقدمه من خدمات من خلال الوسائل الاتية:",
+    "target_en_norm": "the council shall exercise its powers in monitoring the municipality’s performance and services through the following:",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46812,
+    "source_ar": "1 - التقارير الدورية التي تقدمها البلدية عن أعمالها.",
+    "target_en": "1. Periodic performance reports provided by the municipality.",
+    "source_ar_norm": "1 - التقارير الدورية التي تقدمها البلدية عن اعمالها.",
+    "target_en_norm": "1. periodic performance reports provided by the municipality.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46813,
+    "source_ar": "2 - تقارير سير المشروعات التي تنفذ.",
+    "target_en": "2. Reports on projects under development.",
+    "source_ar_norm": "2 - تقارير سير المشروعات التي تنفذ.",
+    "target_en_norm": "2. reports on projects under development.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46814,
+    "source_ar": "3 - تقارير تحصيل الإيرادات البلدية.",
+    "target_en": "3. Reports on the collection of municipal revenues.",
+    "source_ar_norm": "3 - تقارير تحصيل الايرادات البلدية.",
+    "target_en_norm": "3. reports on the collection of municipal revenues.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46815,
+    "source_ar": "4 - تقارير الاستثمارات البلدية.",
+    "target_en": "4. Reports on municipal investments.",
+    "source_ar_norm": "4 - تقارير الاستثمارات البلدية.",
+    "target_en_norm": "4. reports on municipal investments.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46816,
+    "source_ar": "5 - ما يرد إلى المجلس من ملحوظات أو شكاوى في شأن أي من الخدمات البلدية.",
+    "target_en": "5. Suggestions or complaints received by the council relating to municipal services.",
+    "source_ar_norm": "5 - ما يرد الي المجلس من ملحوظات او شكاوي في شان اي من الخدمات البلدية.",
+    "target_en_norm": "5. suggestions or complaints received by the council relating to municipal services.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46817,
+    "source_ar": "6 - تقارير الزيارات التي تقوم بها اللجان المتخصصة التي يشكلها المجلس - بناء على ما يقرره أو بناءً على طلب أحد أعضائه - للاطلاع على المشروعات البلدية.",
+    "target_en": "6. Reports on field visits carried out by specialized committees formed by the council, at its discretion or upon the request of its members, to inspect municipal projects.",
+    "source_ar_norm": "6 - تقارير الزيارات التي تقوم بها اللجان المتخصصة التي يشكلها المجلس - بناء علي ما يقرره او بناء علي طلب احد اعضائه - للاطلاع علي المشروعات البلدية.",
+    "target_en_norm": "6. reports on field visits carried out by specialized committees formed by the council, at its discretion or upon the request of its members, to inspect municipal projects.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46818,
+    "source_ar": "7 - مراجعة إجراءات تقسيم الأراضي وإجراءات منح الأراضي السكنية للتأكد من سلامة الإجراءات.",
+    "target_en": "7. Review the procedures for land division and for residential land granting to ensure their integrity.",
+    "source_ar_norm": "7 - مراجعة اجراءات تقسيم الاراضي واجراءات منح الاراضي السكنية للتاكد من سلامة الاجراءات.",
+    "target_en_norm": "7. review the procedures for land division and for residential land granting to ensure their integrity.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46819,
+    "source_ar": "المادة التاسعة:",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة:",
+    "target_en_norm": "article 9",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46820,
+    "source_ar": "يتولى المجلس في حدود اختصاص البلدية ما يأتي:",
+    "target_en": "The council shall, within the municipality's jurisdiction, undertake the following:",
+    "source_ar_norm": "يتولي المجلس في حدود اختصاص البلدية ما ياتي:",
+    "target_en_norm": "the council shall, within the municipality's jurisdiction, undertake the following:",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46821,
+    "source_ar": "1 - اقتراح الخطط والبرامج، وتحديد أولوياتها.",
+    "target_en": "1. Proposing plans and programs and determining the priorities thereof.",
+    "source_ar_norm": "1 - اقتراح الخطط والبرامج، وتحديد اولوياتها.",
+    "target_en_norm": "1. proposing plans and programs and determining the priorities thereof.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46822,
+    "source_ar": "2 - ما يسنده الوزير إلى المجلس من اختصاصات.",
+    "target_en": "2. Any duties assigned thereto by the Minister.",
+    "source_ar_norm": "2 - ما يسنده الوزير الي المجلس من اختصاصات.",
+    "target_en_norm": "2. any duties assigned thereto by the minister.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46823,
+    "source_ar": "3 - إبداء الرأي في مشروعات الأنظمة واللوائح الجديدة ومشروعات التعديلات المقترحة على الأنظمة واللوائح السارية - المتعلقة بالخدمات البلدية - قبل رفعها إلى الجهات المختصة.",
+    "target_en": "3. Providing advice on draft laws and regulations and on amendments to applicable laws and regulations, related to municipal services, prior to their submission to the relevant authorities.",
+    "source_ar_norm": "3 - ابداء الراي في مشروعات الانظمة واللوائح الجديدة ومشروعات التعديلات المقترحة علي الانظمة واللوائح السارية - المتعلقة بالخدمات البلدية - قبل رفعها الي الجهات المختصة.",
+    "target_en_norm": "3. providing advice on draft laws and regulations and on amendments to applicable laws and regulations, related to municipal services, prior to their submission to the relevant authorities.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46824,
+    "source_ar": "4 - إبداء الرأي في المعاملات والقضايا التي تستطلع البلدية رأيه فيها.",
+    "target_en": "4. Providing advice on matters submitted by the municipality.",
+    "source_ar_norm": "4 - ابداء الراي في المعاملات والقضايا التي تستطلع البلدية رايه فيها.",
+    "target_en_norm": "4. providing advice on matters submitted by the municipality.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46825,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article 10",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46826,
+    "source_ar": "للمجلس تكوين لجان دائمة أو مؤقتة من بعض أعضائه؛ لتولي مهمات محددة، أو دراسة موضوع معين، وعرض ما تنتهي إليه على المجلس لاتخاذ القرار اللازم. وله الاستعانة بمن يراه من خارج المجلس.",
+    "target_en": "The council may establish standing or ad hoc committees from among its members to carry out certain tasks and review certain matters and to present its findings to the council for necessary action. The council may seek the assistance of non-council members.",
+    "source_ar_norm": "للمجلس تكوين لجان دائمة او مؤقتة من بعض اعضائه؛ لتولي مهمات محددة، او دراسة موضوع معين، وعرض ما تنتهي اليه علي المجلس لاتخاذ القرار اللازم. وله الاستعانة بمن يراه من خارج المجلس.",
+    "target_en_norm": "the council may establish standing or ad hoc committees from among its members to carry out certain tasks and review certain matters and to present its findings to the council for necessary action. the council may seek the assistance of non-council members.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46827,
+    "source_ar": "المادة الحادية عشرة:",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة:",
+    "target_en_norm": "article 11",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46828,
+    "source_ar": "يعد المجلس تقريراً سنويًّا عن أعماله وفق ما تحدده اللائحة، ويرفعه إلى الوزير.",
+    "target_en": "The council shall prepare an annual report on its activities in accordance with the Regulations and shall submit it to the Minister.",
+    "source_ar_norm": "يعد المجلس تقريرا سنويا عن اعماله وفق ما تحدده اللائحة، ويرفعه الي الوزير.",
+    "target_en_norm": "the council shall prepare an annual report on its activities in accordance with the regulations and shall submit it to the minister.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46829,
+    "source_ar": "الفصل الثالث: تكوين المجلس",
+    "target_en": "Chapter 3: Formation of the Council",
+    "source_ar_norm": "الفصل الثالث: تكوين المجلس",
+    "target_en_norm": "chapter 3: formation of the council",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46830,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article 12",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46831,
+    "source_ar": "1 - يتكون المجلس من عدد من الأعضاء - يحدده الوزير وفقاً لفئات البلديات- لا يزيد على \"ثلاثين\" عضواً، يُختار ثلثاهم بالانتخاب، ويعين الثلث الآخر بقرار من الوزير، على أن تتوافر في الأعضاء المعينين شروط الترشح لعضوية المجلس الواردة في المادة (الثامنة عشرة) من هذا النظام، فيما عدا شرط القيد في جداول قيد الناخبين.",
+    "target_en": "1. The number of council members shall be determined by the Minister according to the categories of municipalities, provided it does not exceed 30 members. Two thirds of the members shall be elected while the remaining third shall be appointed pursuant to a decision by the Minister. Appointed members must fulfill the membership conditions set forth in Article 18 of this Law, except for the condition of registering in the electoral roll.",
+    "source_ar_norm": "1 - يتكون المجلس من عدد من الاعضاء - يحدده الوزير وفقا لفئات البلديات- لا يزيد علي \"ثلاثين\" عضوا، يختار ثلثاهم بالانتخاب، ويعين الثلث الاخر بقرار من الوزير، علي ان تتوافر في الاعضاء المعينين شروط الترشح لعضوية المجلس الواردة في المادة (الثامنة عشرة) من هذا النظام، فيما عدا شرط القيد في جداول قيد الناخبين.",
+    "target_en_norm": "1. the number of council members shall be determined by the minister according to the categories of municipalities, provided it does not exceed 30 members. two thirds of the members shall be elected while the remaining third shall be appointed pursuant to a decision by the minister. appointed members must fulfill the membership conditions set forth in article 18 of this law, except for the condition of registering in the electoral roll.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46832,
+    "source_ar": "2 - يكون من بين الأعضاء المعينين أحد كبار المسؤولين في الأمانة يختاره الوزير عضواً في المجلس بحكم وظيفته، وبالنسبة إلى البلديات يكون رئيسها عضواً في المجلس بحكم وظيفته، ويحل من يكلف بعمل أي منهما محله في عضوية المجلس عند غيابه.",
+    "target_en": "2. A senior official in the municipality shall, by virtue of his position, be appointed by the Minister to serve as a council member. As for the submunicipality, its head shall be an ex-officio council member. In case of either member’s absence, the person assuming his role shall act as his substitute in the council.",
+    "source_ar_norm": "2 - يكون من بين الاعضاء المعينين احد كبار المسؤولين في الامانة يختاره الوزير عضوا في المجلس بحكم وظيفته، وبالنسبة الي البلديات يكون رئيسها عضوا في المجلس بحكم وظيفته، ويحل من يكلف بعمل اي منهما محله في عضوية المجلس عند غيابه.",
+    "target_en_norm": "2. a senior official in the municipality shall, by virtue of his position, be appointed by the minister to serve as a council member. as for the submunicipality, its head shall be an ex-officio council member. in case of either member’s absence, the person assuming his role shall act as his substitute in the council.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46833,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article 13",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46834,
+    "source_ar": "مدة المجلس أربع سنوات مالية تبدأ من تاريخ السنة المالية للدولة التي تلي تكوينه، ويجوز بقرار من مجلس الوزراء - في حالات استثنائية - تمديد هذه المدة بما لا يتجاوز سنتين.",
+    "target_en": "The council’s term shall be four fiscal years commencing on the date of the commencement of the state’s fiscal year following its formation. The term may, in exceptional cases and pursuant to a resolution issued by the Council of Ministers, be extended for no more than two years.",
+    "source_ar_norm": "مدة المجلس اربع سنوات مالية تبدا من تاريخ السنة المالية للدولة التي تلي تكوينه، ويجوز بقرار من مجلس الوزراء - في حالات استثنائية - تمديد هذه المدة بما لا يتجاوز سنتين.",
+    "target_en_norm": "the council’s term shall be four fiscal years commencing on the date of the commencement of the state’s fiscal year following its formation. the term may, in exceptional cases and pursuant to a resolution issued by the council of ministers, be extended for no more than two years.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46835,
+    "source_ar": "المادة الرابعة عشرة:",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة:",
+    "target_en_norm": "article 14",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46836,
+    "source_ar": "عند دمج نطاق إشراف بلديتين أو أكثر في نطاق إشراف بلدية واحدة، يصدر الوزير قراراً بتسمية أعضاء المجلس الجديد من بين أعضاء المجالس التي دمجت، على أن يكون ثلثا الأعضاء من المنتخبين الحائزين على أعلى الأصوات، والثلث الآخر من بين الأعضاء المعينين، وتكون مدة المجلس الجديد إلى حين إعادة تكوينه في أقرب انتخابات لأعضاء المجالس.",
+    "target_en": "If the jurisdictions of two or more sub-municipalities are merged into a single jurisdiction, the Minister shall issue a decision designating the members of the new council from among the members of the merged municipal councils, provided that two thirds of the members are the selected members with the highest votes and the remaining third are selected from appointed members. The new council shall carry out its duties pending reformation in the nearest elections of council members.",
+    "source_ar_norm": "عند دمج نطاق اشراف بلديتين او اكثر في نطاق اشراف بلدية واحدة، يصدر الوزير قرارا بتسمية اعضاء المجلس الجديد من بين اعضاء المجالس التي دمجت، علي ان يكون ثلثا الاعضاء من المنتخبين الحائزين علي اعلي الاصوات، والثلث الاخر من بين الاعضاء المعينين، وتكون مدة المجلس الجديد الي حين اعادة تكوينه في اقرب انتخابات لاعضاء المجالس.",
+    "target_en_norm": "if the jurisdictions of two or more sub-municipalities are merged into a single jurisdiction, the minister shall issue a decision designating the members of the new council from among the members of the merged municipal councils, provided that two thirds of the members are the selected members with the highest votes and the remaining third are selected from appointed members. the new council shall carry out its duties pending reformation in the nearest elections of council members.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46837,
+    "source_ar": "المادة الخامسة عشرة:",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة:",
+    "target_en_norm": "article 15",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46838,
+    "source_ar": "عند فصل نطاق إشراف بلدية إلى نطاق إشراف بلديتين أو أكثر، يحتفظ أعضاء المجلس بعضويتهم في المجلسين أو المجالس الجديدة بحسب النطاق المكاني الذي يقيمون فيه في حدود ما يقضي به النظام، وتحدد اللائحة القواعد اللازمة لإكمال نصاب كل مجلس، وتكون مدة المجلسين أو المجالس الجديدة إلى حين تكوينها في أقرب انتخابات لأعضاء المجالس.",
+    "target_en": "If the jurisdiction of a sub-municipality is split into two or more jurisdictions, council members shall maintain their membership in one of the councils according to the territorial jurisdiction within which their domicile falls, pursuant to this Law. The Regulations shall set the rules governing the number of seats of each new council. The new councils shall carry out their duties pending reformation in the nearest elections of council members.",
+    "source_ar_norm": "عند فصل نطاق اشراف بلدية الي نطاق اشراف بلديتين او اكثر، يحتفظ اعضاء المجلس بعضويتهم في المجلسين او المجالس الجديدة بحسب النطاق المكاني الذي يقيمون فيه في حدود ما يقضي به النظام، وتحدد اللائحة القواعد اللازمة لاكمال نصاب كل مجلس، وتكون مدة المجلسين او المجالس الجديدة الي حين تكوينها في اقرب انتخابات لاعضاء المجالس.",
+    "target_en_norm": "if the jurisdiction of a sub-municipality is split into two or more jurisdictions, council members shall maintain their membership in one of the councils according to the territorial jurisdiction within which their domicile falls, pursuant to this law. the regulations shall set the rules governing the number of seats of each new council. the new councils shall carry out their duties pending reformation in the nearest elections of council members.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46839,
+    "source_ar": "الفصل الرابع: انتخاب أعضاء المجلس",
+    "target_en": "Chapter 4: Election of Council Members",
+    "source_ar_norm": "الفصل الرابع: انتخاب اعضاء المجلس",
+    "target_en_norm": "chapter 4: election of council members",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46840,
+    "source_ar": "المادة السادسة عشرة:",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة:",
+    "target_en_norm": "article 16",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46841,
+    "source_ar": "تبدأ الفترة الانتخابية من التاريخ الذي يحدده الوزير لبدء تنفيذ العملية الانتخابية، على أن يكون البدء قبل أربعة أشهر على الأقل من موعد انتهاء مدة المجلس، وتحدد لائحة الانتخاب قواعد وإجراءات الانتخابات، والأحكام المتعلقة بالنشر والتبليغ.",
+    "target_en": "The Minister shall designate the date on which the election period commences, provided that such date is at least four months prior to the expiration of the council's term. The Elections Regulations shall provide for election rules and procedures and provisions governing publication and notification.",
+    "source_ar_norm": "تبدا الفترة الانتخابية من التاريخ الذي يحدده الوزير لبدء تنفيذ العملية الانتخابية، علي ان يكون البدء قبل اربعة اشهر علي الاقل من موعد انتهاء مدة المجلس، وتحدد لائحة الانتخاب قواعد واجراءات الانتخابات، والاحكام المتعلقة بالنشر والتبليغ.",
+    "target_en_norm": "the minister shall designate the date on which the election period commences, provided that such date is at least four months prior to the expiration of the council's term. the elections regulations shall provide for election rules and procedures and provisions governing publication and notification.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46842,
+    "source_ar": "المادة السابعة عشرة:",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة:",
+    "target_en_norm": "article 17",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46843,
+    "source_ar": "يحق لكل مواطن - ذكراً أو أنثى- الانتخاب إذا اكتملت فيه الشروط الآتية:",
+    "target_en": "Every citizen shall have the right to vote upon satisfying the following conditions:",
+    "source_ar_norm": "يحق لكل مواطن - ذكرا او انثي- الانتخاب اذا اكتملت فيه الشروط الاتية:",
+    "target_en_norm": "every citizen shall have the right to vote upon satisfying the following conditions:",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46844,
+    "source_ar": "1 - أن يكون متمًّا ثماني عشرة سنة هجرية في موعد الاقتراع.",
+    "target_en": "1. Be at least 18 years of age (Hijri calendar) on the election day.",
+    "source_ar_norm": "1 - ان يكون متما ثماني عشرة سنة هجرية في موعد الاقتراع.",
+    "target_en_norm": "1. be at least 18 years of age (hijri calendar) on the election day.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46845,
+    "source_ar": "2 - أن يكون ذا أهلية كاملة.",
+    "target_en": "2. Be competent.",
+    "source_ar_norm": "2 - ان يكون ذا اهلية كاملة.",
+    "target_en_norm": "2. be competent.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46846,
+    "source_ar": "3 - ألا يكون عسكريًّا على رأس العمل.",
+    "target_en": "3. Not be an active member of the military.",
+    "source_ar_norm": "3 - الا يكون عسكريا علي راس العمل.",
+    "target_en_norm": "3. not be an active member of the military.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46847,
+    "source_ar": "4 - أن يكون مقيماً في نطاق الدائرة الانتخابية التي يباشر فيها الانتخاب، فإن كان له محل إقامة في نطاق أكثر من دائرة انتخابية، فيجب أن يختار واحداً منها فقط.",
+    "target_en": "4. Reside within the jurisdiction of the electoral district where the election takes place. A citizen residing within the jurisdiction of more than one electoral district may not vote in more than one district.",
+    "source_ar_norm": "4 - ان يكون مقيما في نطاق الدائرة الانتخابية التي يباشر فيها الانتخاب، فان كان له محل اقامة في نطاق اكثر من دائرة انتخابية، فيجب ان يختار واحدا منها فقط.",
+    "target_en_norm": "4. reside within the jurisdiction of the electoral district where the election takes place. a citizen residing within the jurisdiction of more than one electoral district may not vote in more than one district.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46848,
+    "source_ar": "المادة الثامنة عشرة:",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة:",
+    "target_en_norm": "article 18",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46849,
+    "source_ar": "لكل ناخب حق الترشح لعضوية المجلس إذا توافرت فيه الشروط الآتية:",
+    "target_en": "Any voter may run for council membership upon meeting the following conditions:",
+    "source_ar_norm": "لكل ناخب حق الترشح لعضوية المجلس اذا توافرت فيه الشروط الاتية:",
+    "target_en_norm": "any voter may run for council membership upon meeting the following conditions:",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46850,
+    "source_ar": "1 - أن يقيد اسمه في جداول قيد الناخبين في الدائرة الانتخابية التي يرغب الترشح عنها.",
+    "target_en": "1. Register his name in the electoral roll of the electoral district where he intends to run for election.",
+    "source_ar_norm": "1 - ان يقيد اسمه في جداول قيد الناخبين في الدائرة الانتخابية التي يرغب الترشح عنها.",
+    "target_en_norm": "1. register his name in the electoral roll of the electoral district where he intends to run for election.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46851,
+    "source_ar": "2 - ألّا يقل عمره عن خمسٍ وعشرين سنة هجرية في موعد الاقتراع.",
+    "target_en": "2. Be at least 25 years of age (Hijri calendar) on election day.",
+    "source_ar_norm": "2 - الا يقل عمره عن خمس وعشرين سنة هجرية في موعد الاقتراع.",
+    "target_en_norm": "2. be at least 25 years of age (hijri calendar) on election day.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46852,
+    "source_ar": "3 - ألا يقل مؤهله التعليمي عن الثانوية العامة أو ما يعادلها.",
+    "target_en": "3. Hold at least a high school degree or its equivalent.",
+    "source_ar_norm": "3 - الا يقل مؤهله التعليمي عن الثانوية العامة او ما يعادلها.",
+    "target_en_norm": "3. hold at least a high school degree or its equivalent.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46853,
+    "source_ar": "4 - ألّا يكون محكوماً عليه بحد شرعي، أو بالإدانة في جريمة مخلة بالشرف أو الأمانة، ما لم يكن قد رد إليه اعتباره.",
+    "target_en": "4. Not be convicted of a Sharia-prescribed crime or convicted for committing an offence impinging on honor or integrity, unless expunged.",
+    "source_ar_norm": "4 - الا يكون محكوما عليه بحد شرعي، او بالادانة في جريمة مخلة بالشرف او الامانة، ما لم يكن قد رد اليه اعتباره.",
+    "target_en_norm": "4. not be convicted of a sharia-prescribed crime or convicted for committing an offence impinging on honor or integrity, unless expunged.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46854,
+    "source_ar": "5 - ألا يكون مفصولاً من الخدمة العامة لأسباب تأديبية، ما لم يكن قد مضى على هذا الفصل ثلاث سنوات.",
+    "target_en": "5. Not be dismissed from public service on disciplinary grounds, unless a period of three years has lapsed since the date of dismissal.",
+    "source_ar_norm": "5 - الا يكون مفصولا من الخدمة العامة لاسباب تاديبية، ما لم يكن قد مضي علي هذا الفصل ثلاث سنوات.",
+    "target_en_norm": "5. not be dismissed from public service on disciplinary grounds, unless a period of three years has lapsed since the date of dismissal.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46855,
+    "source_ar": "6 - ألّا يكون محكوماً عليه بالإفلاس الاحتيالي.",
+    "target_en": "6. Not be convicted of fraudulent bankruptcy.",
+    "source_ar_norm": "6 - الا يكون محكوما عليه بالافلاس الاحتيالي.",
+    "target_en_norm": "6. not be convicted of fraudulent bankruptcy.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46856,
+    "source_ar": "7 - ألّا تكون عضويته في المجلس البلدي مسقطة في مدة المجلس السابقة.",
+    "target_en": "7. His membership in the municipal council was not invalidated during the term of the previous council.",
+    "source_ar_norm": "7 - الا تكون عضويته في المجلس البلدي مسقطة في مدة المجلس السابقة.",
+    "target_en_norm": "7. his membership in the municipal council was not invalidated during the term of the previous council.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46857,
+    "source_ar": "المادة التاسعة عشرة:",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة:",
+    "target_en_norm": "article 19",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46858,
+    "source_ar": "باستثناء ما نصت عليه الفقرة (2) من المادة (الثانية عشرة) من هذا النظام، لا يجوز أن يكون عضواً في المجلس من كان من الفئات الآتية:",
+    "target_en": "Notwithstanding Article 12(2) of this Law, any individual of the following categories may not be a member of the council:",
+    "source_ar_norm": "باستثناء ما نصت عليه الفقرة (2) من المادة (الثانية عشرة) من هذا النظام، لا يجوز ان يكون عضوا في المجلس من كان من الفئات الاتية:",
+    "target_en_norm": "notwithstanding article 12(2) of this law, any individual of the following categories may not be a member of the council:",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46859,
+    "source_ar": "1 - موظفو الوزارة، أو أي من الجهات التابعة لها.",
+    "target_en": "1. Employees of the Ministry or any entity affiliated therewith.",
+    "source_ar_norm": "1 - موظفو الوزارة، او اي من الجهات التابعة لها.",
+    "target_en_norm": "1. employees of the ministry or any entity affiliated therewith.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46860,
+    "source_ar": "2 - القضاة وكتاب العدل.",
+    "target_en": "2. Judges and notaries public.",
+    "source_ar_norm": "2 - القضاة وكتاب العدل.",
+    "target_en_norm": "2. judges and notaries public.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46861,
+    "source_ar": "3 - محافظو المحافظات ورؤساء المراكز، ومشايخ القبائل ونوابهم، والمعرفون والعمد.",
+    "target_en": "3. Governors of counties, heads of townships, tribal chiefs and their deputies, tribal identifiers, and mayors.",
+    "source_ar_norm": "3 - محافظو المحافظات ورؤساء المراكز، ومشايخ القبائل ونوابهم، والمعرفون والعمد.",
+    "target_en_norm": "3. governors of counties, heads of townships, tribal chiefs and their deputies, tribal identifiers, and mayors.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46862,
+    "source_ar": "4 - أعضاء هيئة التحقيق والادعاء العام.",
+    "target_en": "4. Members of the Bureau of Investigation and Public Prosecution.",
+    "source_ar_norm": "4 - اعضاء هيئة التحقيق والادعاء العام.",
+    "target_en_norm": "4. members of the bureau of investigation and public prosecution.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46863,
+    "source_ar": "5 - أعضاء مجلس الشورى، وأعضاء وأمناء مجالس المناطق والمجالس المحلية، وأعضاء مجالس إدارات هيئات التطوير التي تقدم خدمات بلدية.",
+    "target_en": "5. Members of the Shura Council, members and secretaries of provincial and local councils as well as board members of development agencies providing municipal services.",
+    "source_ar_norm": "5 - اعضاء مجلس الشوري، واعضاء وامناء مجالس المناطق والمجالس المحلية، واعضاء مجالس ادارات هيئات التطوير التي تقدم خدمات بلدية.",
+    "target_en_norm": "5. members of the shura council, members and secretaries of provincial and local councils as well as board members of development agencies providing municipal services.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46864,
+    "source_ar": "6 - أعضاء اللجان الانتخابية، ولجان الفصل.",
+    "target_en": "6. Members of election committees and review committees.",
+    "source_ar_norm": "6 - اعضاء اللجان الانتخابية، ولجان الفصل.",
+    "target_en_norm": "6. members of election committees and review committees.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46865,
+    "source_ar": "7 - المستثمر أو المتعهد أو المقاول الذي تربطه مع البلدية علاقة استثمارية أو تعاقدية وفق الضوابط التي تحددها لائحة الانتخاب.",
+    "target_en": "7. Investors or contractors who have investments or contractual relationships with a municipality in accordance with the conditions provided for in the Elections Regulations.",
+    "source_ar_norm": "7 - المستثمر او المتعهد او المقاول الذي تربطه مع البلدية علاقة استثمارية او تعاقدية وفق الضوابط التي تحددها لائحة الانتخاب.",
+    "target_en_norm": "7. investors or contractors who have investments or contractual relationships with a municipality in accordance with the conditions provided for in the elections regulations.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46866,
+    "source_ar": "المادة العشرون:",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون:",
+    "target_en_norm": "article 20",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46867,
+    "source_ar": "يحدد الوزير الدوائر الانتخابية قبل بداية كل فترة انتخابية وفقاً للضوابط التي تبينها لائحة الانتخاب.",
+    "target_en": "The Minister shall designate the electoral districts prior to the commencement of each election period in accordance with the conditions provided for in the Elections Regulations.",
+    "source_ar_norm": "يحدد الوزير الدوائر الانتخابية قبل بداية كل فترة انتخابية وفقا للضوابط التي تبينها لائحة الانتخاب.",
+    "target_en_norm": "the minister shall designate the electoral districts prior to the commencement of each election period in accordance with the conditions provided for in the elections regulations.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46868,
+    "source_ar": "المادة الحادية والعشرون:",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون:",
+    "target_en_norm": "article 21",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46869,
+    "source_ar": "يُكوِّن الوزير- أو من يفوضه - اللجان الانتخابية قبل بداية كل فترة انتخابية، وتحدد لائحة الانتخاب نطاق اختصاص كل لجنة، وقواعد عملها.",
+    "target_en": "The Minister, or his designee, shall form election committees prior to the commencement of each election period. The Elections Regulations shall determine the jurisdiction and rules of each committee.",
+    "source_ar_norm": "يكون الوزير- او من يفوضه - اللجان الانتخابية قبل بداية كل فترة انتخابية، وتحدد لائحة الانتخاب نطاق اختصاص كل لجنة، وقواعد عملها.",
+    "target_en_norm": "the minister, or his designee, shall form election committees prior to the commencement of each election period. the elections regulations shall determine the jurisdiction and rules of each committee.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46870,
+    "source_ar": "المادة الثانية والعشرون:",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون:",
+    "target_en_norm": "article 22",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46871,
+    "source_ar": "تُوقف إجراءات الانتخاب - في نطاق أي دائرة انتخابية - ويعد المرشحون فائزين بالتزكية في الحالتين الآتيتين:",
+    "target_en": "The election process within the jurisdiction of any electoral district shall be suspended and the candidates shall be deemed elected by acclamation in the following cases:",
+    "source_ar_norm": "توقف اجراءات الانتخاب - في نطاق اي دائرة انتخابية - ويعد المرشحون فائزين بالتزكية في الحالتين الاتيتين:",
+    "target_en_norm": "the election process within the jurisdiction of any electoral district shall be suspended and the candidates shall be deemed elected by acclamation in the following cases:",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46872,
+    "source_ar": "1 - إذا كان عدد المرشحين مساوياً للعدد المحدد للأعضاء المراد انتخابهم في الدائرة الانتخابية.",
+    "target_en": "1. If the number of candidates equals the number of seats in the electoral district.",
+    "source_ar_norm": "1 - اذا كان عدد المرشحين مساويا للعدد المحدد للاعضاء المراد انتخابهم في الدائرة الانتخابية.",
+    "target_en_norm": "1. if the number of candidates equals the number of seats in the electoral district.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46873,
+    "source_ar": "2 - إذا لم يبلغ عدد المرشحين العدد المحدد للأعضاء المراد انتخابهم في تلك الدائرة، وفي هذه الحالة يختار الحاصل على أعلى الأصوات من المرشحين الذين لم يفوزوا في الدوائر الأخرى ضمن نطاق المجلس ليكمل العدد المطلوب، فإن لم يكن هناك حائز على أعلى الأصوات، أو كان نطاق المجلس يتضمن دائرة واحدة؛ فيختار الوزير من يكمل العدد المطلوب، وتحدد اللائحة الإجراءات اللازمة لذلك.",
+    "target_en": "2. If the number of candidates is less than the number of seats in a certain electoral district. In such case, the remaining seats shall be filled by selecting the candidate with the highest number of votes who is not elected in other electoral districts within the council’s jurisdiction. In the absence of such candidate or if the council’s jurisdiction only includes one electoral district, the Minister shall appoint a member to fill the remaining seat. The Regulations shall determine the necessary procedures.",
+    "source_ar_norm": "2 - اذا لم يبلغ عدد المرشحين العدد المحدد للاعضاء المراد انتخابهم في تلك الدائرة، وفي هذه الحالة يختار الحاصل علي اعلي الاصوات من المرشحين الذين لم يفوزوا في الدوائر الاخري ضمن نطاق المجلس ليكمل العدد المطلوب، فان لم يكن هناك حائز علي اعلي الاصوات، او كان نطاق المجلس يتضمن دائرة واحدة؛ فيختار الوزير من يكمل العدد المطلوب، وتحدد اللائحة الاجراءات اللازمة لذلك.",
+    "target_en_norm": "2. if the number of candidates is less than the number of seats in a certain electoral district. in such case, the remaining seats shall be filled by selecting the candidate with the highest number of votes who is not elected in other electoral districts within the council’s jurisdiction. in the absence of such candidate or if the council’s jurisdiction only includes one electoral district, the minister shall appoint a member to fill the remaining seat. the regulations shall determine the necessary procedures.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46874,
+    "source_ar": "المادة الثالثة والعشرون:",
+    "target_en": "Article 23",
+    "source_ar_norm": "المادة الثالثة والعشرون:",
+    "target_en_norm": "article 23",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46875,
+    "source_ar": "يتحمل المرشح المقابل المالي للوحات الإعلانية والدعائية الخاصة بحملته الانتخابية، وتحدد لائحة الحملات الضوابط اللازمة لذلك.",
+    "target_en": "The candidate shall incur the advertisement expenses of his election campaign. The Campaign Regulations shall determine the necessary conditions.",
+    "source_ar_norm": "يتحمل المرشح المقابل المالي للوحات الاعلانية والدعائية الخاصة بحملته الانتخابية، وتحدد لائحة الحملات الضوابط اللازمة لذلك.",
+    "target_en_norm": "the candidate shall incur the advertisement expenses of his election campaign. the campaign regulations shall determine the necessary conditions.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46876,
+    "source_ar": "المادة الرابعة والعشرون:",
+    "target_en": "Article 24",
+    "source_ar_norm": "المادة الرابعة والعشرون:",
+    "target_en_norm": "article 24",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46877,
+    "source_ar": "يحق للمؤسسات والجمعيات الوطنية المستقلة غير الحكومية التي لا تهدف إلى الربح؛ تولي الرقابة على تنفيذ إجراءات الانتخابات بصفة مستقلة، وذلك بما يضمن نزاهة هذه الانتخابات وحسن تنفيذها، وعلى الوزارة تمكينها من أداء عملها وتقديم ما تطلبه من معلومات وتسهيلات إجرائية.",
+    "target_en": "Independent nongovernment and nonprofit national organizations and associations may independently monitor the election process to ensure its integrity. The Ministry shall allow said organizations and associations to carry out their tasks and shall provide them with the necessary information and assistance.",
+    "source_ar_norm": "يحق للمؤسسات والجمعيات الوطنية المستقلة غير الحكومية التي لا تهدف الي الربح؛ تولي الرقابة علي تنفيذ اجراءات الانتخابات بصفة مستقلة، وذلك بما يضمن نزاهة هذه الانتخابات وحسن تنفيذها، وعلي الوزارة تمكينها من اداء عملها وتقديم ما تطلبه من معلومات وتسهيلات اجرائية.",
+    "target_en_norm": "independent nongovernment and nonprofit national organizations and associations may independently monitor the election process to ensure its integrity. the ministry shall allow said organizations and associations to carry out their tasks and shall provide them with the necessary information and assistance.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46878,
+    "source_ar": "المادة الخامسة والعشرون:",
+    "target_en": "Article 25",
+    "source_ar_norm": "المادة الخامسة والعشرون:",
+    "target_en_norm": "article 25",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46879,
+    "source_ar": "يصدر الوزير، بعد انتهاء إجراءات انتخاب أعضاء المجالس البلدية، قراراً بتسمية أعضاء هذه المجالس، على أن يصدر القرار قبل انتهاء مدة تلك المجالس بما لا يقل عن عشرة أيام.",
+    "target_en": "The Minister shall, following the completion of the process of electing municipal council members, issue a decision which names members of such councils, provided that such decision is issued at least 10 days prior to the date on which the council’s term expires.",
+    "source_ar_norm": "يصدر الوزير، بعد انتهاء اجراءات انتخاب اعضاء المجالس البلدية، قرارا بتسمية اعضاء هذه المجالس، علي ان يصدر القرار قبل انتهاء مدة تلك المجالس بما لا يقل عن عشرة ايام.",
+    "target_en_norm": "the minister shall, following the completion of the process of electing municipal council members, issue a decision which names members of such councils, provided that such decision is issued at least 10 days prior to the date on which the council’s term expires.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46880,
+    "source_ar": "الفصل الخامس: الطعون الانتخابية",
+    "target_en": "Chapter 5: Electoral Challenges",
+    "source_ar_norm": "الفصل الخامس: الطعون الانتخابية",
+    "target_en_norm": "chapter 5: electoral challenges",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46881,
+    "source_ar": "المادة السادسة والعشرون:",
+    "target_en": "Article 26",
+    "source_ar_norm": "المادة السادسة والعشرون:",
+    "target_en_norm": "article 26",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46882,
+    "source_ar": "يكوِّن الوزير - في بداية كل فترة انتخابية - لجنةً أو أكثر في كل منطقة تسمى \"لجنة الفصل في الطعون والمخالفات الانتخابية\" من ثلاثة أعضاء - على الأقل، يكون أحدهم رئيساً لها - من ذوي الكفاية والخبرة في الشريعة، أو الأنظمة.",
+    "target_en": "The Minister shall, at the commencement of each election period, form one or more committees named \"Electoral Review Committee\" in each district to decide on election challenges and violations. Said committee shall comprise at least three members with experience in Sharia or law, one of whom shall be appointed as chairman.",
+    "source_ar_norm": "يكون الوزير - في بداية كل فترة انتخابية - لجنة او اكثر في كل منطقة تسمي \"لجنة الفصل في الطعون والمخالفات الانتخابية\" من ثلاثة اعضاء - علي الاقل، يكون احدهم رئيسا لها - من ذوي الكفاية والخبرة في الشريعة، او الانظمة.",
+    "target_en_norm": "the minister shall, at the commencement of each election period, form one or more committees named \"electoral review committee\" in each district to decide on election challenges and violations. said committee shall comprise at least three members with experience in sharia or law, one of whom shall be appointed as chairman.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46883,
+    "source_ar": "المادة السابعة والعشرون:",
+    "target_en": "Article 27",
+    "source_ar_norm": "المادة السابعة والعشرون:",
+    "target_en_norm": "article 27",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46884,
+    "source_ar": "تختص لجان الفصل بالنظر في المخالفات الانتخابية، والطعون التي تقدم ضد قرارات اللجان الانتخابية، والتحقق منها، وتصدر قراراتها بالأغلبية، وتبت اللجنة في جميع المخالفات والطعون خلال سبعة أيام من تاريخ قيدها لديها. وللجنة - بقرار مسبب - أن تستبعد أي مرشح، وأن تحرم أي ناخب من التصويت، وأن تقرر إلغاء فوز أي مرشح، ولها حق تقرير إعادة الاقتراع في الدائرة الانتخابية محل الطعن عند الاقتضاء.",
+    "target_en": "Electoral review committees shall decide on electoral violations and challenges submitted against election committee decisions. A committee shall issue its decisions by majority vote, and shall decide on violations and challenges within seven days from date of receipt. The committee may, based on a reasoned decision, eliminate any candidate, deny a voter the right to vote, cancel the election of any candidate, or, if necessary, approve re-balloting in the electoral district subject of the challenge.",
+    "source_ar_norm": "تختص لجان الفصل بالنظر في المخالفات الانتخابية، والطعون التي تقدم ضد قرارات اللجان الانتخابية، والتحقق منها، وتصدر قراراتها بالاغلبية، وتبت اللجنة في جميع المخالفات والطعون خلال سبعة ايام من تاريخ قيدها لديها. وللجنة - بقرار مسبب - ان تستبعد اي مرشح، وان تحرم اي ناخب من التصويت، وان تقرر الغاء فوز اي مرشح، ولها حق تقرير اعادة الاقتراع في الدائرة الانتخابية محل الطعن عند الاقتضاء.",
+    "target_en_norm": "electoral review committees shall decide on electoral violations and challenges submitted against election committee decisions. a committee shall issue its decisions by majority vote, and shall decide on violations and challenges within seven days from date of receipt. the committee may, based on a reasoned decision, eliminate any candidate, deny a voter the right to vote, cancel the election of any candidate, or, if necessary, approve re-balloting in the electoral district subject of the challenge.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46885,
+    "source_ar": "المادة الثامنة والعشرون:",
+    "target_en": "Article 28",
+    "source_ar_norm": "المادة الثامنة والعشرون:",
+    "target_en_norm": "article 28",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46886,
+    "source_ar": "1- لكل من رُفض طلب قيده في جدول قيد الناخبين، الطعن أمام لجنة الفصل خلال ثلاثة أيام من تاريخ إبلاغه بذلك.",
+    "target_en": "1. Any person whose application for registration in the electoral roll is rejected may challenge the decision before the electoral review committee within three days from the date of notification.",
+    "source_ar_norm": "1- لكل من رفض طلب قيده في جدول قيد الناخبين، الطعن امام لجنة الفصل خلال ثلاثة ايام من تاريخ ابلاغه بذلك.",
+    "target_en_norm": "1. any person whose application for registration in the electoral roll is rejected may challenge the decision before the electoral review committee within three days from the date of notification.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46887,
+    "source_ar": "2 - لكل ناخب أو مرشح الاعتراض - كتابةً - أمام اللجنة الانتخابية المختصة على أي قرار أو إجراء يتعلق بقيد الناخبين، أو تسجيل المرشحين، أو الحملات الانتخابية، خلال ثلاثة أيام من تاريخ التبليغ بالقرار، أو الإجراء، أو نشره. وعلى اللجنة أن تبت في هذا الاعتراض خلال ثلاثة أيام من تاريخ تقديمه، وإذا لم يقتنع المعترض بقرار اللجنة جاز له أن يتقدم بالطعن فيه أمام لجنة الفصل خلال ثلاثة أيام من تاريخ تبلغه بالقرار.",
+    "target_en": "2. Any voter or candidate may, in writing, challenge any decision or measure relating to the electoral roll, registration of voters, or election campaigns before the election committee within three days from the date of notification of the decision or measure taken or the publication thereof. The committee shall decide on the challenge within three days from the date of filing. If the voter or candidate disagrees with the committee's decision, he may challenge it before the electoral review committee within three days from the date of notification.",
+    "source_ar_norm": "2 - لكل ناخب او مرشح الاعتراض - كتابة - امام اللجنة الانتخابية المختصة علي اي قرار او اجراء يتعلق بقيد الناخبين، او تسجيل المرشحين، او الحملات الانتخابية، خلال ثلاثة ايام من تاريخ التبليغ بالقرار، او الاجراء، او نشره. وعلي اللجنة ان تبت في هذا الاعتراض خلال ثلاثة ايام من تاريخ تقديمه، واذا لم يقتنع المعترض بقرار اللجنة جاز له ان يتقدم بالطعن فيه امام لجنة الفصل خلال ثلاثة ايام من تاريخ تبلغه بالقرار.",
+    "target_en_norm": "2. any voter or candidate may, in writing, challenge any decision or measure relating to the electoral roll, registration of voters, or election campaigns before the election committee within three days from the date of notification of the decision or measure taken or the publication thereof. the committee shall decide on the challenge within three days from the date of filing. if the voter or candidate disagrees with the committee's decision, he may challenge it before the electoral review committee within three days from the date of notification.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46888,
+    "source_ar": "3 - يجوز لكل ذي مصلحة الطعن في فوز أي مرشح في دائرته الانتخابية خلال خمسة أيام من تاريخ نشر أسماء المرشحين الفائزين، ويقدم الطعن - كتابةً - إلى رئيس لجنة الفصل مشتملاً على الأسباب التي استند إليها.",
+    "target_en": "3. Any person with interest may challenge the election of any candidate in his electoral district within five days from the date of publication of the names of elected candidates. The challenge, including grounds therefor, shall be submitted in writing to the chairman of the electoral review committee.",
+    "source_ar_norm": "3 - يجوز لكل ذي مصلحة الطعن في فوز اي مرشح في دائرته الانتخابية خلال خمسة ايام من تاريخ نشر اسماء المرشحين الفائزين، ويقدم الطعن - كتابة - الي رئيس لجنة الفصل مشتملا علي الاسباب التي استند اليها.",
+    "target_en_norm": "3. any person with interest may challenge the election of any candidate in his electoral district within five days from the date of publication of the names of elected candidates. the challenge, including grounds therefor, shall be submitted in writing to the chairman of the electoral review committee.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46889,
+    "source_ar": "المادة التاسعة والعشرون:",
+    "target_en": "Article 29",
+    "source_ar_norm": "المادة التاسعة والعشرون:",
+    "target_en_norm": "article 29",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46890,
+    "source_ar": "تكون قرارات لجان الفصل قابلة للطعن أمام المحاكم الإدارية في ديوان المظالم خلال خمسة أيام من تاريخ التبليغ بالقرار أو نشره، وعلى الدائرة المختصة في المحكمة الإدارية الفصل في الطعن خلال عشرة أيام من تاريخ تقديمه إليها، على أن تسلّم نسخة إعلام الحكم خلال عشرة أيام من تاريخ النطق به، ويحق لمن صدر ضده الحكم الاعتراض عليه أمام محاكم الاستئناف الإدارية في ديوان المظالم خلال خمسة أيام من التاريخ المحدد لتسلّم نسخة إعلام الحكم، وعلى الدائرة المختصة في محكمة الاستئناف الفصل في الاعتراض خلال عشرة أيام من تاريخ تقديمه إليها، ويعد حكمها نهائيًّا.",
+    "target_en": "Decisions of the electoral review committee may be appealed before the administrative courts at the Board of Grievances within five days from date of notification or publication. The competent circuit at the administrative court shall decide on the appeal within 10 days from the date of filing, provided that a copy of the judgment is served within 10 days from date of pronouncement. Any person against whom a judgment is rendered may appeal such judgment before the administrative appeals courts at the Board of Grievances within five days from the date set for serving judgment. The competent circuit at the appeals court shall decide on the appeal within 10 days from the date of filing and its decision shall be final.",
+    "source_ar_norm": "تكون قرارات لجان الفصل قابلة للطعن امام المحاكم الادارية في ديوان المظالم خلال خمسة ايام من تاريخ التبليغ بالقرار او نشره، وعلي الدائرة المختصة في المحكمة الادارية الفصل في الطعن خلال عشرة ايام من تاريخ تقديمه اليها، علي ان تسلم نسخة اعلام الحكم خلال عشرة ايام من تاريخ النطق به، ويحق لمن صدر ضده الحكم الاعتراض عليه امام محاكم الاستئناف الادارية في ديوان المظالم خلال خمسة ايام من التاريخ المحدد لتسلم نسخة اعلام الحكم، وعلي الدائرة المختصة في محكمة الاستئناف الفصل في الاعتراض خلال عشرة ايام من تاريخ تقديمه اليها، ويعد حكمها نهائيا.",
+    "target_en_norm": "decisions of the electoral review committee may be appealed before the administrative courts at the board of grievances within five days from date of notification or publication. the competent circuit at the administrative court shall decide on the appeal within 10 days from the date of filing, provided that a copy of the judgment is served within 10 days from date of pronouncement. any person against whom a judgment is rendered may appeal such judgment before the administrative appeals courts at the board of grievances within five days from the date set for serving judgment. the competent circuit at the appeals court shall decide on the appeal within 10 days from the date of filing and its decision shall be final.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46891,
+    "source_ar": "الفصل السادس: أحكام العضوية",
+    "target_en": "Chapter 6: Membership Provisions",
+    "source_ar_norm": "الفصل السادس: احكام العضوية",
+    "target_en_norm": "chapter 6: membership provisions",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46892,
+    "source_ar": "المادة الثلاثون:",
+    "target_en": "Article 30",
+    "source_ar_norm": "المادة الثلاثون:",
+    "target_en_norm": "article 30",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46893,
+    "source_ar": "1- تعقد الجلسة الأولى - خلال خمسة عشر يوماً من تاريخ صدور قرار الوزير بتسمية أعضاء المجلس - برئاسة أكبر الأعضاء سِنًّا وينتخب المجلس فيها رئيسًا له لمدة سنتين، وفي حالة تساوي الأصوات بين عضوين أو أكثر، تُجرى جولة أخرى من التصويت لترجيح فوز أي منهم، وفي حالة التساوي تجرى القرعة بينهم.",
+    "target_en": "1. The first session of the municipal council shall be held within 15 days from the date of issuance of the Minister's decision naming council members and shall be chaired by the eldest member. During such session, the council shall take a vote to elect a chairman for a term of two years. In case of a tie, another round of voting shall be carried out. In case of a second tie, a draw shall determine the chairman.",
+    "source_ar_norm": "1- تعقد الجلسة الاولي - خلال خمسة عشر يوما من تاريخ صدور قرار الوزير بتسمية اعضاء المجلس - برئاسة اكبر الاعضاء سنا وينتخب المجلس فيها رئيسا له لمدة سنتين، وفي حالة تساوي الاصوات بين عضوين او اكثر، تجري جولة اخري من التصويت لترجيح فوز اي منهم، وفي حالة التساوي تجري القرعة بينهم.",
+    "target_en_norm": "1. the first session of the municipal council shall be held within 15 days from the date of issuance of the minister's decision naming council members and shall be chaired by the eldest member. during such session, the council shall take a vote to elect a chairman for a term of two years. in case of a tie, another round of voting shall be carried out. in case of a second tie, a draw shall determine the chairman.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46894,
+    "source_ar": "2 - ينتخب المجلس نائبًا للرئيس لمدة سنتين بعد اختيار رئيس المجلس، بالآلية المتبعة في انتخاب رئيس المجلس.",
+    "target_en": "2. The council shall, after electing the chairman, elect a vice-chairman for a term of two years; the vice-chairman’s election process shall be the same as that of the chairman’s election process.",
+    "source_ar_norm": "2 - ينتخب المجلس نائبا للرئيس لمدة سنتين بعد اختيار رئيس المجلس، بالالية المتبعة في انتخاب رئيس المجلس.",
+    "target_en_norm": "2. the council shall, after electing the chairman, elect a vice-chairman for a term of two years; the vice-chairman’s election process shall be the same as that of the chairman’s election process.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46895,
+    "source_ar": "3 - تُجرى انتخابات جديدة - بعد انتهاء السنتين - لانتخاب الرئيس ونائبه، وذلك وفق الآلية المشار إليها في الفقرتين السابقتين.",
+    "target_en": "3. New elections shall be carried out every two years to elect a chairman and vice-chairman using the same process stated in the preceding two paragraphs.",
+    "source_ar_norm": "3 - تجري انتخابات جديدة - بعد انتهاء السنتين - لانتخاب الرئيس ونائبه، وذلك وفق الالية المشار اليها في الفقرتين السابقتين.",
+    "target_en_norm": "3. new elections shall be carried out every two years to elect a chairman and vice-chairman using the same process stated in the preceding two paragraphs.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46896,
+    "source_ar": "4 - لا يجوز انتخاب عضو المجلس المعين بحكم وظيفته رئيسًا للمجلس أو نائبًا للرئيس، ولا يكون له صوت في انتخاب أي منهما.",
+    "target_en": "4. An appointed ex-officio member of the council may not be elected as chairman or vice-chairman nor vote in the election of either position.",
+    "source_ar_norm": "4 - لا يجوز انتخاب عضو المجلس المعين بحكم وظيفته رئيسا للمجلس او نائبا للرئيس، ولا يكون له صوت في انتخاب اي منهما.",
+    "target_en_norm": "4. an appointed ex-officio member of the council may not be elected as chairman or vice-chairman nor vote in the election of either position.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46897,
+    "source_ar": "المادة الحادية والثلاثون:",
+    "target_en": "Article 31",
+    "source_ar_norm": "المادة الحادية والثلاثون:",
+    "target_en_norm": "article 31",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46898,
+    "source_ar": "إذا شغرت عضوية أحد أعضاء المجلس يُختار بدل منه على النحو الآتي:",
+    "target_en": "If a seat in the council becomes vacant, the selection of a substitute shall be as follows:",
+    "source_ar_norm": "اذا شغرت عضوية احد اعضاء المجلس يختار بدل منه علي النحو الاتي:",
+    "target_en_norm": "if a seat in the council becomes vacant, the selection of a substitute shall be as follows:",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46899,
+    "source_ar": "1 - إذا شغرت عضوية أحد الأعضاء المنتخبين في دائرة انتخابية معينة، يسمي الوزيرُ الحائزَ على أعلى الأصوات في الدائرة نفسها - من بين المرشحين غير الفائزين بالعضوية - عضوًا، فإن لم يكن هناك مرشح في تلك الدائرة، فيسمي الحائزَ على أعلى الأصوات في أقرب دائرة انتخابية في نطاق المجلس عضواً للمدة الباقية من ولاية المجلس.",
+    "target_en": "1. If the seat of an elected member in a certain electoral district becomes vacant, the Minister shall fill the seat with the candidate who receives the highest number of votes in the same district from among unelected candidates. In the absence of candidates in such district, the candidate who receives the highest number of votes in the nearest electoral district within the council's jurisdiction shall fill the vacated seat for the remainder of the council's term.",
+    "source_ar_norm": "1 - اذا شغرت عضوية احد الاعضاء المنتخبين في دائرة انتخابية معينة، يسمي الوزير الحائز علي اعلي الاصوات في الدائرة نفسها - من بين المرشحين غير الفائزين بالعضوية - عضوا، فان لم يكن هناك مرشح في تلك الدائرة، فيسمي الحائز علي اعلي الاصوات في اقرب دائرة انتخابية في نطاق المجلس عضوا للمدة الباقية من ولاية المجلس.",
+    "target_en_norm": "1. if the seat of an elected member in a certain electoral district becomes vacant, the minister shall fill the seat with the candidate who receives the highest number of votes in the same district from among unelected candidates. in the absence of candidates in such district, the candidate who receives the highest number of votes in the nearest electoral district within the council's jurisdiction shall fill the vacated seat for the remainder of the council's term.",
+    "file_name": "نظام المجالس البلدية.docx"
+  },
+  {
+    "id": 46900,
+    "source_ar": "2 - إذا شغرت عضوية أحد الأعضاء المعينين - عدا من عين بحكم وظيفته - أو شغرت عضوية أحد الأعضاء المنتخبين ولم يكن هناك مرشح آخر في نطاق المجلس، فيعين بقرار وزاري بدل منه للمدة الباقية من ولاية المجلس.",
+    "target_en": "2. If the seat of an appointed member, other than an ex-officio member, becomes vacant, or if the seat of an elected member becomes vacant and there is no other candidate within the council's jurisdiction, a substitute shall be appointed pursuant to a decision by the Minister for the remainder of the council's term.",
+    "source_ar_norm": "2 - اذا شغرت عضوية احد الاعضاء المعينين - عدا من عين بحكم وظيفته - او شغرت عضوية احد الاعضاء المنتخبين ولم يكن هناك مرشح اخر في نطاق المجلس، فيعين بقرار وزاري بدل منه للمدة الباقية من ولاية المجلس.",
+    "target_en_norm": "2. if the seat of an appointed member, other than an ex-officio member, becomes vacant, or if the seat of an elected member becomes vacant and there is no other candidate within the council's jurisdiction, a substitute shall be appointed pursuant to a decision by the minister for the remainder of the council's term.",
+    "file_name": "نظام المجالس البلدية.docx"
+  }
+]

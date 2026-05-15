@@ -1,0 +1,802 @@
+[
+  {
+    "id": 45801,
+    "source_ar": "الممثل المعتمد: كل منشأة تم تأسيسها في المملكة؛ حاصلة على تفويض من صانع مقيم خارج المملكة للتصرف نيابة عنه وفق الإجراءات النظامية المتبعة.",
+    "target_en": "Authorized Representative: Any establishment founded in the Kingdom that is authorized by a manufacturer located outside the Kingdom to act on its behalf in accordance with applicable legal procedures.",
+    "source_ar_norm": "الممثل المعتمد: كل منشاة تم تاسيسها في المملكة؛ حاصلة علي تفويض من صانع مقيم خارج المملكة للتصرف نيابة عنه وفق الاجراءات النظامية المتبعة.",
+    "target_en_norm": "authorized representative: any establishment founded in the kingdom that is authorized by a manufacturer located outside the kingdom to act on its behalf in accordance with applicable legal procedures.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45802,
+    "source_ar": "المستورد: كل منشأة تستورد منتجاً معبأ مسبقًا أو أداة قياس من خارج المملكة.",
+    "target_en": "Importer: Any establishment that imports a prepackaged product or measuring instrument from outside the Kingdom.",
+    "source_ar_norm": "المستورد: كل منشاة تستورد منتجا معبا مسبقا او اداة قياس من خارج المملكة.",
+    "target_en_norm": "importer: any establishment that imports a prepackaged product or measuring instrument from outside the kingdom.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45803,
+    "source_ar": "الموزع: كل منشأة في سلسلة الإمداد - غير الصانع والمستورد تعرض المنتجات المعبأة مسبقًا أو أداة القياس في الأسواق.",
+    "target_en": "Distributor: Any establishment in the supply chain, other than the manufacturer and the importer, which makes available on the market a prepackaged product or measuring instrument.",
+    "source_ar_norm": "الموزع: كل منشاة في سلسلة الامداد - غير الصانع والمستورد تعرض المنتجات المعباة مسبقا او اداة القياس في الاسواق.",
+    "target_en_norm": "distributor: any establishment in the supply chain, other than the manufacturer and the importer, which makes available on the market a prepackaged product or measuring instrument.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45804,
+    "source_ar": "المشغل الاقتصادي: الصانع والممثل المعتمد، والمستورد، والموزع.",
+    "target_en": "Economic Operator: A manufacturer, authorized representative, importer, or distributor.",
+    "source_ar_norm": "المشغل الاقتصادي: الصانع والممثل المعتمد، والمستورد، والموزع.",
+    "target_en_norm": "economic operator: a manufacturer, authorized representative, importer, or distributor.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45805,
+    "source_ar": "الجهات المرخصة: منشأة حاصلة من الهيئة على ترخيص في أنشطة الإشراف المترولوجي.",
+    "target_en": "Licensed Entities: Establishments licensed by the Organization to perform metrological supervision activities.",
+    "source_ar_norm": "الجهات المرخصة: منشاة حاصلة من الهيئة علي ترخيص في انشطة الاشراف المترولوجي.",
+    "target_en_norm": "licensed entities: establishments licensed by the organization to perform metrological supervision activities.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45806,
+    "source_ar": "الجهات المعينة: جهات عامة أو خاصة مسندة إليها أعمال حفظ وتطوير بعض من المعايير الوطنية.",
+    "target_en": "Designated Entities: Public or private entities entrusted with the tasks of maintaining and developing some of the national standards.",
+    "source_ar_norm": "الجهات المعينة: جهات عامة او خاصة مسندة اليها اعمال حفظ وتطوير بعض من المعايير الوطنية.",
+    "target_en_norm": "designated entities: public or private entities entrusted with the tasks of maintaining and developing some of the national standards.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45807,
+    "source_ar": "المنتجات المعبأة مسبقاً: منتج داخل علبة أو مغلف بأي طريقة كانت، بحيث لا يمكن تغيير أو إحداث تعديل ملموس عليه دون فتحه، وتحدد الكمية الاسمية أو الفعلية للمنتج على بطاقة البيان قبل عرضه للبيع.",
+    "target_en": "Prepackaged Product: A product placed in a box or packaged in any way, such that it cannot be altered or substantially modified without opening the box or package; the nominal or actual quantity of the product shall be indicated on its label before offering it for sale.",
+    "source_ar_norm": "المنتجات المعباة مسبقا: منتج داخل علبة او مغلف باي طريقة كانت، بحيث لا يمكن تغيير او احداث تعديل ملموس عليه دون فتحه، وتحدد الكمية الاسمية او الفعلية للمنتج علي بطاقة البيان قبل عرضه للبيع.",
+    "target_en_norm": "prepackaged product: a product placed in a box or packaged in any way, such that it cannot be altered or substantially modified without opening the box or package; the nominal or actual quantity of the product shall be indicated on its label before offering it for sale.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45808,
+    "source_ar": "أداة القياس: جهاز يستخدم لإجراء القياسات الكمية؛ سواء كان منفرداً أو مرتبطاً بمعدات أخرى.",
+    "target_en": "Measuring Instrument: A device used to make quantitative measurements, whether solely or in conjunction with other devices.",
+    "source_ar_norm": "اداة القياس: جهاز يستخدم لاجراء القياسات الكمية؛ سواء كان منفردا او مرتبطا بمعدات اخري.",
+    "target_en_norm": "measuring instrument: a device used to make quantitative measurements, whether solely or in conjunction with other devices.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45809,
+    "source_ar": "المادة الثانية:",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية:",
+    "target_en_norm": "article 2",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45810,
+    "source_ar": "يهدف النظام إلى ما يأتي:",
+    "target_en": "This Law aims to:",
+    "source_ar_norm": "يهدف النظام الي ما ياتي:",
+    "target_en_norm": "this law aims to:",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45811,
+    "source_ar": "١ - تعزيز الإطار المؤسسي للقياس في المملكة.",
+    "target_en": "1. promote the institutional framework for measurement in the Kingdom;",
+    "source_ar_norm": "١ - تعزيز الاطار المؤسسي للقياس في المملكة.",
+    "target_en_norm": "1. promote the institutional framework for measurement in the kingdom;",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45812,
+    "source_ar": "2 - فرض استخدام وحدات القياس المتوافقة مع النظام الدولي للوحدات (SI Units).",
+    "target_en": "2. enforce the use of measurement units that are compatible with SI Units;",
+    "source_ar_norm": "2 - فرض استخدام وحدات القياس المتوافقة مع النظام الدولي للوحدات (SI Units).",
+    "target_en_norm": "2. enforce the use of measurement units that are compatible with si units;",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45813,
+    "source_ar": "3 - ضمان الإسناد المترولوجي لجميع أدوات القياس في المملكة إلى النظام الدولي للوحدات (SI Units).",
+    "target_en": "3. ensure the metrological traceability of all measuring instruments used in the Kingdom to SI Units;",
+    "source_ar_norm": "3 - ضمان الاسناد المترولوجي لجميع ادوات القياس في المملكة الي النظام الدولي للوحدات (SI Units).",
+    "target_en_norm": "3. ensure the metrological traceability of all measuring instruments used in the kingdom to si units;",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45814,
+    "source_ar": "4 - توجيه ودعم أنشطة البحث والتطوير في مجال المترولوجيا.",
+    "target_en": "4. direct and support research and development activities in the field of metrology; and",
+    "source_ar_norm": "4 - توجيه ودعم انشطة البحث والتطوير في مجال المترولوجيا.",
+    "target_en_norm": "4. direct and support research and development activities in the field of metrology; and",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45815,
+    "source_ar": "5 - تسهيل عمليات التبادل التجاري للسلع بين المملكة ودول العالم فيما يتعلق بالقياس والمعايرة.",
+    "target_en": "5. facilitate the exchange of goods between the Kingdom and other countries with regard to measurement and calibration.",
+    "source_ar_norm": "5 - تسهيل عمليات التبادل التجاري للسلع بين المملكة ودول العالم فيما يتعلق بالقياس والمعايرة.",
+    "target_en_norm": "5. facilitate the exchange of goods between the kingdom and other countries with regard to measurement and calibration.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45816,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article 3",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45817,
+    "source_ar": "تسري أحكام النظام على جميع عمليات القياس والمعايرة التي تتم في المملكة، بما فيها ما يتعلق بالمنتجات المعبأة مسبقاً التي يتم بيعها أو تصنيعها أو استخدامها أو عرضها بغض النظر عن منشئها سواءً كانت محلية أو مستوردة.",
+    "target_en": "The provisions of this Law shall apply to all measurement and calibration operations carried out in the Kingdom, including those related to prepackaged products that are sold, manufactured, used, or displayed regardless of their origin, whether local or imported.",
+    "source_ar_norm": "تسري احكام النظام علي جميع عمليات القياس والمعايرة التي تتم في المملكة، بما فيها ما يتعلق بالمنتجات المعباة مسبقا التي يتم بيعها او تصنيعها او استخدامها او عرضها بغض النظر عن منشئها سواء كانت محلية او مستوردة.",
+    "target_en_norm": "the provisions of this law shall apply to all measurement and calibration operations carried out in the kingdom, including those related to prepackaged products that are sold, manufactured, used, or displayed regardless of their origin, whether local or imported.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45818,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article 4",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45819,
+    "source_ar": "لا يجوز لأي جهة ممارسة أي من نشاطات الإشراف المترولوجي إلا بعد الحصول على ترخيص من الهيئة.",
+    "target_en": "An entity may not engage in any metrological supervision activity without obtaining a license from the Organization.",
+    "source_ar_norm": "لا يجوز لاي جهة ممارسة اي من نشاطات الاشراف المترولوجي الا بعد الحصول علي ترخيص من الهيئة.",
+    "target_en_norm": "an entity may not engage in any metrological supervision activity without obtaining a license from the organization.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45820,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article 5",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45821,
+    "source_ar": "يلتزم المشغل الاقتصادي والمستخدم بأن تكون أداة القياس أو المنتجات المعبأة مسبقاً في المملكة، مطابقة للمتطلبات الإلزامية المنصوص عليها في النظام واللائحة والوثائق الفنية.",
+    "target_en": "Economic operators and users shall ensure that the measuring instruments and prepackaged products in the Kingdom conform to the mandatory requirements provided for in this Law, the Regulations, and the technical documents.",
+    "source_ar_norm": "يلتزم المشغل الاقتصادي والمستخدم بان تكون اداة القياس او المنتجات المعباة مسبقا في المملكة، مطابقة للمتطلبات الالزامية المنصوص عليها في النظام واللائحة والوثائق الفنية.",
+    "target_en_norm": "economic operators and users shall ensure that the measuring instruments and prepackaged products in the kingdom conform to the mandatory requirements provided for in this law, the regulations, and the technical documents.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45822,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article 6",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45823,
+    "source_ar": "يتعين على مختبرات القياس والمعايرة لتحقيق الإسناد المترولوجي لمعايرة أداة القياس، استيفاء المتطلبات الآتية:",
+    "target_en": "Measurement and calibration laboratories shall satisfy the following requirements in order to achieve metrological traceability for the calibration of measuring instruments:",
+    "source_ar_norm": "يتعين علي مختبرات القياس والمعايرة لتحقيق الاسناد المترولوجي لمعايرة اداة القياس، استيفاء المتطلبات الاتية:",
+    "target_en_norm": "measurement and calibration laboratories shall satisfy the following requirements in order to achieve metrological traceability for the calibration of measuring instruments:",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45824,
+    "source_ar": "۱ - حصول المعايير الوطنية على شهادة معايرة أو تقرير مقارنة دولي صادر من المكتب الدولي للأوزان والمقاييس (BIPM)، أو من أي مركز (معهد) معايرة معترف به لدى المكتب الدولي للأوزان والمقاييس (BIPM)؛ لتأكيد الإسناد إلى المعايير الدولية.",
+    "target_en": "1. The national standards must obtain a calibration certificate or international comparison report issued by the International Bureau of Weights and Measures, or by any calibration center (institute) recognized thereby, to establish traceability to international standards.",
+    "source_ar_norm": "۱ - حصول المعايير الوطنية علي شهادة معايرة او تقرير مقارنة دولي صادر من المكتب الدولي للاوزان والمقاييس (BIPM)، او من اي مركز (معهد) معايرة معترف به لدي المكتب الدولي للاوزان والمقاييس (BIPM)؛ لتاكيد الاسناد الي المعايير الدولية.",
+    "target_en_norm": "1. the national standards must obtain a calibration certificate or international comparison report issued by the international bureau of weights and measures, or by any calibration center (institute) recognized thereby, to establish traceability to international standards.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45825,
+    "source_ar": "٢ - أن تكون شهادة المعايرة أو تقرير المقارنة الدولي الخاص بالمعايير الوطنية المحفوظة لدى المركز أو الجهات المعينة؛ سارية الصلاحية، وأن تتضمن الارتياب في القيم، وأن تكون مسندة إلى النظام الدولي للوحدات (SI Units).",
+    "target_en": "2. The calibration certificate or international comparison report of the national standards maintained by the Center or the designated entities must be valid, include uncertainty of values, and be traceable to SI Units.",
+    "source_ar_norm": "٢ - ان تكون شهادة المعايرة او تقرير المقارنة الدولي الخاص بالمعايير الوطنية المحفوظة لدي المركز او الجهات المعينة؛ سارية الصلاحية، وان تتضمن الارتياب في القيم، وان تكون مسندة الي النظام الدولي للوحدات (SI Units).",
+    "target_en_norm": "2. the calibration certificate or international comparison report of the national standards maintained by the center or the designated entities must be valid, include uncertainty of values, and be traceable to si units.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45826,
+    "source_ar": "3 - أن تتم معايرة المعايير المرجعية للمركز وللجهات المعينة داخل مختبراتهما، وأن يكون الارتياب في القيم مرافقاً لها لتأكيد الإسناد إلى المعايير الوطنية.",
+    "target_en": "3. Calibration of the reference standards of the Center and the designated entities must be made in their laboratories and accompanied by uncertainty of values to establish traceability to the national standards.",
+    "source_ar_norm": "3 - ان تتم معايرة المعايير المرجعية للمركز وللجهات المعينة داخل مختبراتهما، وان يكون الارتياب في القيم مرافقا لها لتاكيد الاسناد الي المعايير الوطنية.",
+    "target_en_norm": "3. calibration of the reference standards of the center and the designated entities must be made in their laboratories and accompanied by uncertainty of values to establish traceability to the national standards.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45827,
+    "source_ar": "٤ - أن تتضمن شهادات المعايرة الخاصة بالمعايير المرجعية لمختبرات القياس والمعايرة الارتياب في القيم، وأن تكون مسندة إلى المعايير الوطنية.",
+    "target_en": "4. The calibration certificates of the reference standards of measurement and calibration laboratories must include uncertainty of values and be traceable to the national standards.",
+    "source_ar_norm": "٤ - ان تتضمن شهادات المعايرة الخاصة بالمعايير المرجعية لمختبرات القياس والمعايرة الارتياب في القيم، وان تكون مسندة الي المعايير الوطنية.",
+    "target_en_norm": "4. the calibration certificates of the reference standards of measurement and calibration laboratories must include uncertainty of values and be traceable to the national standards.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45828,
+    "source_ar": "5 - أن تتم معايرة أداة القياس بمختبرات القياس والمعايرة، وأن تتضمن شهادات المعايرة الارتياب في القيم، وأن تكون مسندة إلى المعايير الوطنية.",
+    "target_en": "5. Calibration of measuring instruments must be made in measurement and calibration laboratories, and the calibration certificates must include uncertainty of values and be traceable to the national standards.",
+    "source_ar_norm": "5 - ان تتم معايرة اداة القياس بمختبرات القياس والمعايرة، وان تتضمن شهادات المعايرة الارتياب في القيم، وان تكون مسندة الي المعايير الوطنية.",
+    "target_en_norm": "5. calibration of measuring instruments must be made in measurement and calibration laboratories, and the calibration certificates must include uncertainty of values and be traceable to the national standards.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45829,
+    "source_ar": "٦ - الحصول على الاعتماد من المركز السعودي للاعتماد؛ لتأكيد إسناديتها إلى المعايير الوطنية.",
+    "target_en": "6. Accreditation must be obtained from the Saudi Accreditation Center to establish traceability to the national standards.",
+    "source_ar_norm": "٦ - الحصول علي الاعتماد من المركز السعودي للاعتماد؛ لتاكيد اسناديتها الي المعايير الوطنية.",
+    "target_en_norm": "6. accreditation must be obtained from the saudi accreditation center to establish traceability to the national standards.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45830,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article 7",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45831,
+    "source_ar": "١ - يتخذ النظام الدولي للوحدات (SI Units) أساساً لوحدات القياس التي يرجع إليها في جميع القياسات في المملكة، وهذه الوحدات مبنية على الوحدات الأساسية الآتية:",
+    "target_en": "1. SI Units shall be adopted as a basis for the measurement units used as a reference in all measurements in the Kingdom. Said units shall be based on the following base units:",
+    "source_ar_norm": "١ - يتخذ النظام الدولي للوحدات (SI Units) اساسا لوحدات القياس التي يرجع اليها في جميع القياسات في المملكة، وهذه الوحدات مبنية علي الوحدات الاساسية الاتية:",
+    "target_en_norm": "1. si units shall be adopted as a basis for the measurement units used as a reference in all measurements in the kingdom. said units shall be based on the following base units:",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45832,
+    "source_ar": "أ - وحدة الطول: المتر.",
+    "target_en": "a. Length: Meter.",
+    "source_ar_norm": "ا - وحدة الطول: المتر.",
+    "target_en_norm": "a. length: meter.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45833,
+    "source_ar": "ب - وحدة الكتلة: الكيلوغرام.",
+    "target_en": "b. Mass: Kilogram.",
+    "source_ar_norm": "ب - وحدة الكتلة: الكيلوغرام.",
+    "target_en_norm": "b. mass: kilogram.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45834,
+    "source_ar": "ج - وحدة الزمن: الثانية.",
+    "target_en": "c. Time: Second.",
+    "source_ar_norm": "ج - وحدة الزمن: الثانية.",
+    "target_en_norm": "c. time: second.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45835,
+    "source_ar": "د - وحدة درجة الحرارة: الكلفن.",
+    "target_en": "d. Temperature: Kelvin.",
+    "source_ar_norm": "د - وحدة درجة الحرارة: الكلفن.",
+    "target_en_norm": "d. temperature: kelvin.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45836,
+    "source_ar": "هـ - وحدة شدة التيار الكهربائي: الأمبير.",
+    "target_en": "e. Electric Current: Ampere.",
+    "source_ar_norm": "ه - وحدة شدة التيار الكهربائي: الامبير.",
+    "target_en_norm": "e. electric current: ampere.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45837,
+    "source_ar": "و - وحدة كمية المادة: المول.",
+    "target_en": "f. Amount of Substance: Mole.",
+    "source_ar_norm": "و - وحدة كمية المادة: المول.",
+    "target_en_norm": "f. amount of substance: mole.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45838,
+    "source_ar": "ز - وحدة شدة الإضاءة: الشمعة.",
+    "target_en": "g. Luminous Intensity: Candela.",
+    "source_ar_norm": "ز - وحدة شدة الاضاءة: الشمعة.",
+    "target_en_norm": "g. luminous intensity: candela.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45839,
+    "source_ar": "٢ - يجوز للمجلس - بناء على توصية من لجنة فنية يشكلها لهذا الغرض - الموافقة على طلب الجهات العامة أو الخاصة تطبيق وحدات قياس غير الوحدات المنصوص عليها في الفقرة (1) من هذه المادة، وذلك وفقاً لشروط وضوابط تحددها اللائحة والوثائق الفنية.",
+    "target_en": "2. The Board may approve the request of public or private entities to apply measurement units other than the units provided for in paragraph (1) of this Article, based on a recommendation from a technical committee it forms for such purpose, in accordance with the terms and conditions specified in the Regulations and technical documents.",
+    "source_ar_norm": "٢ - يجوز للمجلس - بناء علي توصية من لجنة فنية يشكلها لهذا الغرض - الموافقة علي طلب الجهات العامة او الخاصة تطبيق وحدات قياس غير الوحدات المنصوص عليها في الفقرة (1) من هذه المادة، وذلك وفقا لشروط وضوابط تحددها اللائحة والوثائق الفنية.",
+    "target_en_norm": "2. the board may approve the request of public or private entities to apply measurement units other than the units provided for in paragraph (1) of this article, based on a recommendation from a technical committee it forms for such purpose, in accordance with the terms and conditions specified in the regulations and technical documents.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45840,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article 8",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45841,
+    "source_ar": "تشمل أنشطة الإشراف المترولوجي ما يلي:",
+    "target_en": "Metrological supervision activities shall include the following:",
+    "source_ar_norm": "تشمل انشطة الاشراف المترولوجي ما يلي:",
+    "target_en_norm": "metrological supervision activities shall include the following:",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45842,
+    "source_ar": "۱ - اعتماد الطراز.",
+    "target_en": "1. Type approval.",
+    "source_ar_norm": "۱ - اعتماد الطراز.",
+    "target_en_norm": "1. type approval.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45843,
+    "source_ar": "٢ - التحقق الأولي.",
+    "target_en": "2. Initial verification.",
+    "source_ar_norm": "٢ - التحقق الاولي.",
+    "target_en_norm": "2. initial verification.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45844,
+    "source_ar": "٣ - التحقق الدوري.",
+    "target_en": "3. Periodic verification.",
+    "source_ar_norm": "٣ - التحقق الدوري.",
+    "target_en_norm": "3. periodic verification.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45845,
+    "source_ar": "٤ - التحقق بعد الصيانة.",
+    "target_en": "4. Post-maintenance verification.",
+    "source_ar_norm": "٤ - التحقق بعد الصيانة.",
+    "target_en_norm": "4. post-maintenance verification.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45846,
+    "source_ar": "٥ - التحقق الذاتي.",
+    "target_en": "5. Self-verification.",
+    "source_ar_norm": "٥ - التحقق الذاتي.",
+    "target_en_norm": "5. self-verification.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45847,
+    "source_ar": "٦ - التدقيق والإشراف على أعمال الجهات المرخصة.",
+    "target_en": "6. Review and supervision of the activities carried out by licensed entities.",
+    "source_ar_norm": "٦ - التدقيق والاشراف علي اعمال الجهات المرخصة.",
+    "target_en_norm": "6. review and supervision of the activities carried out by licensed entities.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45848,
+    "source_ar": "7 - التدقيق والإشراف على المستخدم والمشغل الاقتصادي.",
+    "target_en": "7. Review and supervision of the activities carried out by users and economic operators.",
+    "source_ar_norm": "7 - التدقيق والاشراف علي المستخدم والمشغل الاقتصادي.",
+    "target_en_norm": "7. review and supervision of the activities carried out by users and economic operators.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45849,
+    "source_ar": "المادة التاسعة:",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة:",
+    "target_en_norm": "article 9",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45850,
+    "source_ar": "للهيئة إسناد أنشطة الإشراف المترولوجي أو جزء منها إلى الجهات المرخصة.",
+    "target_en": "The Organization may entrust metrological supervision activities or part thereof to licensed entities.",
+    "source_ar_norm": "للهيئة اسناد انشطة الاشراف المترولوجي او جزء منها الي الجهات المرخصة.",
+    "target_en_norm": "the organization may entrust metrological supervision activities or part thereof to licensed entities.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45851,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article 10",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45852,
+    "source_ar": "يتولى مفتشون - يعينهم المجلس - مجتمعين أو منفردين ضبط وإثبات مخالفات أحكام النظام واللائحة والوثائق الفنية، ولهم في سبيل ذلك الآتي:",
+    "target_en": "Inspectors, to be appointed by the Board, shall collectively or individually detect and record violations of the provisions of this Law, the Regulations, and the technical documents. To this end, the inspectors may:",
+    "source_ar_norm": "يتولي مفتشون - يعينهم المجلس - مجتمعين او منفردين ضبط واثبات مخالفات احكام النظام واللائحة والوثائق الفنية، ولهم في سبيل ذلك الاتي:",
+    "target_en_norm": "inspectors, to be appointed by the board, shall collectively or individually detect and record violations of the provisions of this law, the regulations, and the technical documents. to this end, the inspectors may:",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45853,
+    "source_ar": "1 - الدخول - في أي وقت - لمنشآت الجهات المرخصة والمشغل الاقتصادي والمستخدم وما يلحق بها من مستودعات وأماكن تخزين أو وسائل نقل أو غيرها، وتفتيشها.",
+    "target_en": "1. enter and inspect, at any time, the facilities of licensed entities, economic operators, and users as well as their warehouses, storage places, means of transport, or the like;",
+    "source_ar_norm": "1 - الدخول - في اي وقت - لمنشات الجهات المرخصة والمشغل الاقتصادي والمستخدم وما يلحق بها من مستودعات واماكن تخزين او وسائل نقل او غيرها، وتفتيشها.",
+    "target_en_norm": "1. enter and inspect, at any time, the facilities of licensed entities, economic operators, and users as well as their warehouses, storage places, means of transport, or the like;",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45854,
+    "source_ar": "٢ - تحرير محاضر الضبط لإثبات المخالفات.",
+    "target_en": "2. prepare reports to establish violations;",
+    "source_ar_norm": "٢ - تحرير محاضر الضبط لاثبات المخالفات.",
+    "target_en_norm": "2. prepare reports to establish violations;",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45855,
+    "source_ar": "3 - سماع أقوال المخالف، وضبطها وإثباتها في محضر.",
+    "target_en": "3. hear the violator’s statements and record them in a report;",
+    "source_ar_norm": "3 - سماع اقوال المخالف، وضبطها واثباتها في محضر.",
+    "target_en_norm": "3. hear the violator’s statements and record them in a report;",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45856,
+    "source_ar": "4 - إغلاق مكان وقوع المخالفة - في الحالات الضرورية التي تستلزم ذلك بناءً على ما تحدده اللائحة - إلى حين استكمال إجراءات الضبط، على ألا تتجاوز مدة الإغلاق في كل الأحوال (خمسة) أيام عمل.",
+    "target_en": "4. close the location where a violation is committed in cases requiring such action as specified in the Regulations; the location shall remain closed until the detection and recording procedures are completed, provided that the closure period does not exceed five business days;",
+    "source_ar_norm": "4 - اغلاق مكان وقوع المخالفة - في الحالات الضرورية التي تستلزم ذلك بناء علي ما تحدده اللائحة - الي حين استكمال اجراءات الضبط، علي الا تتجاوز مدة الاغلاق في كل الاحوال (خمسة) ايام عمل.",
+    "target_en_norm": "4. close the location where a violation is committed in cases requiring such action as specified in the regulations; the location shall remain closed until the detection and recording procedures are completed, provided that the closure period does not exceed five business days;",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45857,
+    "source_ar": "5 - التحفظ على أداة القياس والمنتجات المعبأة مسبقاً المخالفة - أو المشتبه في مخالفتها - لأحكام النظام أو اللائحة أو الوثائق الفنية، وعلى الوثائق المتعلقة بها.",
+    "target_en": "5. seize the measuring instruments and prepackaged products in violation, or suspected to be in violation, of the provisions of this Law, the Regulations, or the technical documents, and seize any documents related thereto;",
+    "source_ar_norm": "5 - التحفظ علي اداة القياس والمنتجات المعباة مسبقا المخالفة - او المشتبه في مخالفتها - لاحكام النظام او اللائحة او الوثائق الفنية، وعلي الوثائق المتعلقة بها.",
+    "target_en_norm": "5. seize the measuring instruments and prepackaged products in violation, or suspected to be in violation, of the provisions of this law, the regulations, or the technical documents, and seize any documents related thereto;",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45858,
+    "source_ar": "٦ - سحب عينات من أداة القياس والمنتجات المعبأة مسبقاً المخالفة - أو المشتبه في مخالفتها - لأحكام النظام واللائحة والوثائق الفنية.",
+    "target_en": "6. take samples of the measuring instruments and prepackaged products in violation, or suspected to be in violation, of the provisions of this Law, the Regulations, and the technical documents; and",
+    "source_ar_norm": "٦ - سحب عينات من اداة القياس والمنتجات المعباة مسبقا المخالفة - او المشتبه في مخالفتها - لاحكام النظام واللائحة والوثائق الفنية.",
+    "target_en_norm": "6. take samples of the measuring instruments and prepackaged products in violation, or suspected to be in violation, of the provisions of this law, the regulations, and the technical documents; and",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45859,
+    "source_ar": "7 - الاطلاع على جميع المستندات والسجلات والملفات والشكاوى والفواتير وغيرها من الوثائق المتعلقة بالمخالفة، والحصول على نسخ منها. ولا يجوز - بأي حال من الأحوال – حجب أي من تلك الوثائق عنهم.",
+    "target_en": "7. access and obtain copies of all documents, records, files, complaints, invoices, and any other documents related to the violation; documents may not be withheld from the inspectors under any circumstances.",
+    "source_ar_norm": "7 - الاطلاع علي جميع المستندات والسجلات والملفات والشكاوي والفواتير وغيرها من الوثائق المتعلقة بالمخالفة، والحصول علي نسخ منها. ولا يجوز - باي حال من الاحوال – حجب اي من تلك الوثائق عنهم.",
+    "target_en_norm": "7. access and obtain copies of all documents, records, files, complaints, invoices, and any other documents related to the violation; documents may not be withheld from the inspectors under any circumstances.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45860,
+    "source_ar": "المادة الحادية عشرة:",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة:",
+    "target_en_norm": "article 11",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45861,
+    "source_ar": "على المفتش إبراز بطاقته الوظيفية عند تأديته لأعمال التفتيش والضبط، وعلى الجهات المرخصة والمشغل الاقتصادي والمستخدم تمكينه من أداء عمله، وعدم إعاقته.",
+    "target_en": "An inspector must present his credentials prior to performing his inspection, detection, and recording duties. Licensed entities, economic operators, and users shall enable the inspector to perform his duties without any impediment.",
+    "source_ar_norm": "علي المفتش ابراز بطاقته الوظيفية عند تاديته لاعمال التفتيش والضبط، وعلي الجهات المرخصة والمشغل الاقتصادي والمستخدم تمكينه من اداء عمله، وعدم اعاقته.",
+    "target_en_norm": "an inspector must present his credentials prior to performing his inspection, detection, and recording duties. licensed entities, economic operators, and users shall enable the inspector to perform his duties without any impediment.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45862,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article 12",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45863,
+    "source_ar": "تمنح بقرار من المجلس بناء على اقتراح من المحافظ مكافآت مالية للمفتشين المنصوص عليهم في المادة (العاشرة) من النظام.",
+    "target_en": "Payment of remuneration of the inspectors referred to in Article 10 of this Law shall be made pursuant to a Board decision based on a recommendation by the Governor.",
+    "source_ar_norm": "تمنح بقرار من المجلس بناء علي اقتراح من المحافظ مكافات مالية للمفتشين المنصوص عليهم في المادة (العاشرة) من النظام.",
+    "target_en_norm": "payment of remuneration of the inspectors referred to in article 10 of this law shall be made pursuant to a board decision based on a recommendation by the governor.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45864,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article 13",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45865,
+    "source_ar": "1 - يجب على المفتش المحافظة على سرية المعلومات التي يحصل عليها بحكم عمله.",
+    "target_en": "1. An inspector shall maintain the confidentiality of the information he becomes privy to in the performance of his duties.",
+    "source_ar_norm": "1 - يجب علي المفتش المحافظة علي سرية المعلومات التي يحصل عليها بحكم عمله.",
+    "target_en_norm": "1. an inspector shall maintain the confidentiality of the information he becomes privy to in the performance of his duties.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45866,
+    "source_ar": "٢ - لا تحول المحافظة على سرية المعلومات دون إفصاح الجهات المختصة عن المعلومات اللازمة لضمان مراقبة فاعلة للأسواق أو لمنع خطر يهدد سلامة المستهلك والممتلكات والبيئة.",
+    "target_en": "2. Maintaining the confidentiality of information shall not preclude the competent agencies from disclosing any information necessary to ensure effective market surveillance or to prevent a threat to the safety of consumers, property, and the environment.",
+    "source_ar_norm": "٢ - لا تحول المحافظة علي سرية المعلومات دون افصاح الجهات المختصة عن المعلومات اللازمة لضمان مراقبة فاعلة للاسواق او لمنع خطر يهدد سلامة المستهلك والممتلكات والبيئة.",
+    "target_en_norm": "2. maintaining the confidentiality of information shall not preclude the competent agencies from disclosing any information necessary to ensure effective market surveillance or to prevent a threat to the safety of consumers, property, and the environment.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45867,
+    "source_ar": "المادة الرابعة عشرة:",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة:",
+    "target_en_norm": "article 14",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45868,
+    "source_ar": "1 - دون الإخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب كل من يخالف أحكام النظام أو اللائحة أو الوثائق الفنية بعقوبة أو أكثر من العقوبات الآتية:",
+    "target_en": "1. Without prejudice to any harsher penalty provided for in any other law, any person who violates the provisions of this Law, the Regulations, or the technical documents shall be subject to one or more of the following penalties:",
+    "source_ar_norm": "1 - دون الاخلال باي عقوبة اشد ينص عليها نظام اخر، يعاقب كل من يخالف احكام النظام او اللائحة او الوثائق الفنية بعقوبة او اكثر من العقوبات الاتية:",
+    "target_en_norm": "1. without prejudice to any harsher penalty provided for in any other law, any person who violates the provisions of this law, the regulations, or the technical documents shall be subject to one or more of the following penalties:",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45869,
+    "source_ar": "أ - الإنذار.",
+    "target_en": "a. A warning.",
+    "source_ar_norm": "ا - الانذار.",
+    "target_en_norm": "a. a warning.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45870,
+    "source_ar": "ب - غرامة لا تزيد على (عشرة) ملايين ريال.",
+    "target_en": "b. A fine not exceeding ten million riyals.",
+    "source_ar_norm": "ب - غرامة لا تزيد علي (عشرة) ملايين ريال.",
+    "target_en_norm": "b. a fine not exceeding ten million riyals.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45871,
+    "source_ar": "ج - إغلاق المنشأة لمدة لا تزيد على (سنة).",
+    "target_en": "c. Closure of the establishment for a period not exceeding one year.",
+    "source_ar_norm": "ج - اغلاق المنشاة لمدة لا تزيد علي (سنة).",
+    "target_en_norm": "c. closure of the establishment for a period not exceeding one year.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45872,
+    "source_ar": "د - تعليق الترخيص لمدة لا تزيد على (سنة).",
+    "target_en": "d. Suspension of the license for a period not exceeding one year.",
+    "source_ar_norm": "د - تعليق الترخيص لمدة لا تزيد علي (سنة).",
+    "target_en_norm": "d. suspension of the license for a period not exceeding one year.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45873,
+    "source_ar": "هـ - إلغاء الترخيص.",
+    "target_en": "e. Revocation of the license.",
+    "source_ar_norm": "ه - الغاء الترخيص.",
+    "target_en_norm": "e. revocation of the license.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45874,
+    "source_ar": "٢ - يجوز للجنة - المنصوص عليها في المادة الخامسة عشرة من النظام - تضمين القرار الصادر بالعقوبة النص على نشر ملخصه على نفقة المخالف في صحيفة محلية تصدر في مكان إقامته، فإن لم يكن في مكان إقامته صحيفة ففي أقرب منطقة له، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع المخالفة المرتكبة وجسامتها وتأثيرها، على أن يكون نشره بعد تحصن القرار بفوات ميعاد التظلم عليه أو بتأييده من المحكمة المختصة.",
+    "target_en": "2. The committee provided for in Article 15 of this Law may include in the penalty decision a provision for the publication of its summary at the violator’s expense in a local newspaper published in the area of his residence, or, if no newspaper is published in the area of his residence, in a newspaper published in the area nearest to his residence, or through any other appropriate medium, according to the type, gravity, and impact of the violation, provided that publication is made after the decision becomes unappealable due to the lapse of the statutory period for appeal or to being upheld by the competent court.",
+    "source_ar_norm": "٢ - يجوز للجنة - المنصوص عليها في المادة الخامسة عشرة من النظام - تضمين القرار الصادر بالعقوبة النص علي نشر ملخصه علي نفقة المخالف في صحيفة محلية تصدر في مكان اقامته، فان لم يكن في مكان اقامته صحيفة ففي اقرب منطقة له، او نشره في اي وسيلة اخري مناسبة، وذلك بحسب نوع المخالفة المرتكبة وجسامتها وتاثيرها، علي ان يكون نشره بعد تحصن القرار بفوات ميعاد التظلم عليه او بتاييده من المحكمة المختصة.",
+    "target_en_norm": "2. the committee provided for in article 15 of this law may include in the penalty decision a provision for the publication of its summary at the violator’s expense in a local newspaper published in the area of his residence, or, if no newspaper is published in the area of his residence, in a newspaper published in the area nearest to his residence, or through any other appropriate medium, according to the type, gravity, and impact of the violation, provided that publication is made after the decision becomes unappealable due to the lapse of the statutory period for appeal or to being upheld by the competent court.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45875,
+    "source_ar": "3 - يتولى المحافظ - أو من ينيبه - توقيع عقوبة لا يتجاوز مقدارها (عشرة) آلاف ريال على من يخالف أحكام النظام أو اللائحة أو الوثائق الفنية، بناءً على توصية من المفتش.",
+    "target_en": "3. The Governor, or his designee, may, upon the inspector’s recommendation, impose a fine not exceeding ten thousand riyals on any person who violates the provisions of this Law, the Regulations, or the technical documents.",
+    "source_ar_norm": "3 - يتولي المحافظ - او من ينيبه - توقيع عقوبة لا يتجاوز مقدارها (عشرة) الاف ريال علي من يخالف احكام النظام او اللائحة او الوثائق الفنية، بناء علي توصية من المفتش.",
+    "target_en_norm": "3. the governor, or his designee, may, upon the inspector’s recommendation, impose a fine not exceeding ten thousand riyals on any person who violates the provisions of this law, the regulations, or the technical documents.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45876,
+    "source_ar": "4 - يُصدر المجلس جدولاً يتضمن الآتي:",
+    "target_en": "4. The Board shall issue a schedule comprising the following:",
+    "source_ar_norm": "4 - يصدر المجلس جدولا يتضمن الاتي:",
+    "target_en_norm": "4. the board shall issue a schedule comprising the following:",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45877,
+    "source_ar": "أ- تصنيف المخالفات وما يقابلها من عقوبات منصوص عليها في الفقرة (1) من هذه المادة ومقدارها ومدتها. ويراعى فيها التدرج في العقوبة.",
+    "target_en": "a. The classification of violations and their corresponding penalties provided for in paragraph (1) of this Article as well as the amount and duration of such penalties, taking into account the gradation of the penalty.",
+    "source_ar_norm": "ا- تصنيف المخالفات وما يقابلها من عقوبات منصوص عليها في الفقرة (1) من هذه المادة ومقدارها ومدتها. ويراعي فيها التدرج في العقوبة.",
+    "target_en_norm": "a. the classification of violations and their corresponding penalties provided for in paragraph (1) of this article as well as the amount and duration of such penalties, taking into account the gradation of the penalty.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45878,
+    "source_ar": "ب - تصنيف المخالفات وما يقابلها من عقوبات منصوص عليها في الفقرة (۳) من هذه المادة ومقدارها ومدتها. ويراعى فيها التدرج في العقوبة.",
+    "target_en": "b. The classification of violations and their corresponding penalties provided for in paragraph (3) of this Article as well as the amount and duration of such penalties, taking into account the gradation of the penalty.",
+    "source_ar_norm": "ب - تصنيف المخالفات وما يقابلها من عقوبات منصوص عليها في الفقرة (۳) من هذه المادة ومقدارها ومدتها. ويراعي فيها التدرج في العقوبة.",
+    "target_en_norm": "b. the classification of violations and their corresponding penalties provided for in paragraph (3) of this article as well as the amount and duration of such penalties, taking into account the gradation of the penalty.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45879,
+    "source_ar": "وتجوز مضاعفة العقوبة وفقًا للفقرتين الفرعيتين (ب) و (ج) من الفقرة (1) من هذه المادة في حال تكرار ارتكاب المخالفة بما لا يتجاوز حدها الأقصى، وتعد المخالفة مكررة إذا وقعت خلال (سنة) من تاريخ ارتكاب المخالفة السابقة لها.",
+    "target_en": "The penalties provided for in paragraph (1)(b and c) of this Article may be doubled if the violation is repeated, provided that the penalty does not exceed its maximum limit. A violation shall be deemed repeated if it is committed within one year as of the date of the previous violation.",
+    "source_ar_norm": "وتجوز مضاعفة العقوبة وفقا للفقرتين الفرعيتين (ب) و (ج) من الفقرة (1) من هذه المادة في حال تكرار ارتكاب المخالفة بما لا يتجاوز حدها الاقصي، وتعد المخالفة مكررة اذا وقعت خلال (سنة) من تاريخ ارتكاب المخالفة السابقة لها.",
+    "target_en_norm": "the penalties provided for in paragraph (1)(b and c) of this article may be doubled if the violation is repeated, provided that the penalty does not exceed its maximum limit. a violation shall be deemed repeated if it is committed within one year as of the date of the previous violation.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45880,
+    "source_ar": "المادة الخامسة عشرة:",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة:",
+    "target_en_norm": "article 15",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45881,
+    "source_ar": "۱ - تشكل لجنة أو أكثر - بقرار من المجلس- من (خمسة) أعضاء، يكون من بينهم (ثلاثة) مستشارين نظاميين على الأقل يكون أحدهم رئيسا لها.",
+    "target_en": "1. A committee, or more, shall be formed by a Board decision and shall comprise five members, including at least three legal advisors one of whom shall be named chairman.",
+    "source_ar_norm": "۱ - تشكل لجنة او اكثر - بقرار من المجلس- من (خمسة) اعضاء، يكون من بينهم (ثلاثة) مستشارين نظاميين علي الاقل يكون احدهم رئيسا لها.",
+    "target_en_norm": "1. a committee, or more, shall be formed by a board decision and shall comprise five members, including at least three legal advisors one of whom shall be named chairman.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45882,
+    "source_ar": "٢ - تتولى اللجنة الآتي:",
+    "target_en": "2. The committee shall:",
+    "source_ar_norm": "٢ - تتولي اللجنة الاتي:",
+    "target_en_norm": "2. the committee shall:",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45883,
+    "source_ar": "أ- فرض إجراءات تصحيحية على الجهات المرخصة والمشغل الاقتصادي والمستخدم وفقًا لما تحدده اللائحة والوثائق الفنية.",
+    "target_en": "a. impose corrective measures on licensed entities, economic operators, and users, as specified in the Regulations and the technical documents; and",
+    "source_ar_norm": "ا- فرض اجراءات تصحيحية علي الجهات المرخصة والمشغل الاقتصادي والمستخدم وفقا لما تحدده اللائحة والوثائق الفنية.",
+    "target_en_norm": "a. impose corrective measures on licensed entities, economic operators, and users, as specified in the regulations and the technical documents; and",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45884,
+    "source_ar": "ب - تطبيق العقوبات المنصوص عليها في الفقرة (۱) من المادة (الرابعة عشرة) من النظام.",
+    "target_en": "b. impose the penalties provided for in Article 14(1) of this Law.",
+    "source_ar_norm": "ب - تطبيق العقوبات المنصوص عليها في الفقرة (۱) من المادة (الرابعة عشرة) من النظام.",
+    "target_en_norm": "b. impose the penalties provided for in article 14(1) of this law.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45885,
+    "source_ar": "3 - تصدر اللجنة قراراتها وفقاً للقواعد والإجراءات التي تحددها اللائحة. ويجوز لمن صدر ضده القرار التظلم منه أمام المحكمة الإدارية خلال (ستين) يوماً من تاريخ علمه بالقرار.",
+    "target_en": "3. The committee shall issue its decisions according to the rules and procedures specified in the Regulations. Any person against whom a decision is issued may appeal such decision before the Administrative Court within 60 days from the date of notification thereof.",
+    "source_ar_norm": "3 - تصدر اللجنة قراراتها وفقا للقواعد والاجراءات التي تحددها اللائحة. ويجوز لمن صدر ضده القرار التظلم منه امام المحكمة الادارية خلال (ستين) يوما من تاريخ علمه بالقرار.",
+    "target_en_norm": "3. the committee shall issue its decisions according to the rules and procedures specified in the regulations. any person against whom a decision is issued may appeal such decision before the administrative court within 60 days from the date of notification thereof.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45886,
+    "source_ar": "4 - تحدد مكافآت أعضاء اللجنة بقرار من المجلس.",
+    "target_en": "4. The remuneration of committee members shall be determined by a Board decision.",
+    "source_ar_norm": "4 - تحدد مكافات اعضاء اللجنة بقرار من المجلس.",
+    "target_en_norm": "4. the remuneration of committee members shall be determined by a board decision.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45887,
+    "source_ar": "المادة السادسة عشرة:",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة:",
+    "target_en_norm": "article 16",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45888,
+    "source_ar": "يصدر المجلس اللائحة والوثائق الفنية خلال (تسعين) يومًا من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ نفاذه.",
+    "target_en": "The Board shall issue the Regulations and the technical documents within 90 days from the date this Law is published in the Official Gazette. The Regulations and the technical documents shall become effective on the date this Law enters into force.",
+    "source_ar_norm": "يصدر المجلس اللائحة والوثائق الفنية خلال (تسعين) يوما من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ نفاذه.",
+    "target_en_norm": "the board shall issue the regulations and the technical documents within 90 days from the date this law is published in the official gazette. the regulations and the technical documents shall become effective on the date this law enters into force.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45889,
+    "source_ar": "المادة السابعة عشرة:",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة:",
+    "target_en_norm": "article 17",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45890,
+    "source_ar": "يحل النظام محل نظام القياس والمعايرة، الصادر بالمرسوم الملكي رقم (م/٥١) وتاريخ 13/11/1434 هـ، ويلغي كل ما يتعارض معه من أحكام.",
+    "target_en": "This Law shall supersede the Law of Measurement and Calibration issued by Royal Decree No. M/51, dated 13/11/1434H, and shall repeal any provisions conflicting therewith.",
+    "source_ar_norm": "يحل النظام محل نظام القياس والمعايرة، الصادر بالمرسوم الملكي رقم (م/٥١) وتاريخ 13/11/1434 ه، ويلغي كل ما يتعارض معه من احكام.",
+    "target_en_norm": "this law shall supersede the law of measurement and calibration issued by royal decree no. m/51, dated 13/11/1434h, and shall repeal any provisions conflicting therewith.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45891,
+    "source_ar": "المادة الثامنة عشرة:",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة:",
+    "target_en_norm": "article 18",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45892,
+    "source_ar": "يعمل بالنظام بعد (تسعين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+    "target_en": "This Law shall enter into force 90 days following the date of its publication in the Official Gazette.",
+    "source_ar_norm": "يعمل بالنظام بعد (تسعين) يوما من تاريخ نشره في الجريدة الرسمية.",
+    "target_en_norm": "this law shall enter into force 90 days following the date of its publication in the official gazette.",
+    "file_name": "نظام القياس والمعايرة (جديد).docx"
+  },
+  {
+    "id": 45893,
+    "source_ar": "نظام القياس والمعايرة",
+    "target_en": "Law of Measurement and Calibration",
+    "source_ar_norm": "نظام القياس والمعايرة",
+    "target_en_norm": "law of measurement and calibration",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45894,
+    "source_ar": "المادة الأولى :",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي :",
+    "target_en_norm": "article 1",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45895,
+    "source_ar": "يقصد بالكلمات والعبارات الآتية ـ أينما وردت في هذا النظام - المعاني المبينة أمامها، ما لم يقتض السياق خلاف ذلك :",
+    "target_en": "The following terms and phrases, wherever mentioned in this Law, shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "source_ar_norm": "يقصد بالكلمات والعبارات الاتية  اينما وردت في هذا النظام - المعاني المبينة امامها، ما لم يقتض السياق خلاف ذلك :",
+    "target_en_norm": "the following terms and phrases, wherever mentioned in this law, shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45896,
+    "source_ar": "النظام : نظام القياس والمعايرة .",
+    "target_en": "Law: Law of Measurement and Calibration.",
+    "source_ar_norm": "النظام : نظام القياس والمعايرة .",
+    "target_en_norm": "law: law of measurement and calibration.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45897,
+    "source_ar": "اللائحة : اللائحة التنفيذية لهذا النظام .",
+    "target_en": "Regulations: Implementing Regulations of this Law.",
+    "source_ar_norm": "اللائحة : اللائحة التنفيذية لهذا النظام .",
+    "target_en_norm": "regulations: implementing regulations of this law.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45898,
+    "source_ar": "الهيئة : الهيئة السعودية للمواصفات والمقاييس والجودة .",
+    "target_en": "SASO: Saudi Standards, Metrology and Quality Organization.",
+    "source_ar_norm": "الهيئة : الهيئة السعودية للمواصفات والمقاييس والجودة .",
+    "target_en_norm": "saso: saudi standards, metrology and quality organization.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45899,
+    "source_ar": "المترولوجيا : علم القياس.",
+    "target_en": "Metrology: Science of measurement.",
+    "source_ar_norm": "المترولوجيا : علم القياس.",
+    "target_en_norm": "metrology: science of measurement.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45900,
+    "source_ar": "القياس : مجموعة العمليات بغرض إيجاد قيمة كمية ما.",
+    "target_en": "Measurement: A set of processes designed to determine the value of a certain quantity.",
+    "source_ar_norm": "القياس : مجموعة العمليات بغرض ايجاد قيمة كمية ما.",
+    "target_en_norm": "measurement: a set of processes designed to determine the value of a certain quantity.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  }
+]

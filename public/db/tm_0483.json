@@ -1,0 +1,802 @@
+[
+  {
+    "id": 48201,
+    "source_ar": "الباب الثالث (رفع الدعوى وقيدها)",
+    "target_en": "Part 3: Filing and Recording Lawsuits",
+    "source_ar_norm": "الباب الثالث (رفع الدعوي وقيدها)",
+    "target_en_norm": "part 3: filing and recording lawsuits",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48202,
+    "source_ar": "المادة الحادية والأربعون:",
+    "target_en": "Article 41",
+    "source_ar_norm": "المادة الحادية والاربعون:",
+    "target_en_norm": "article 41",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48203,
+    "source_ar": "1- ترفع الدعوى من المدعي بصحيفة ـ موقعة منه أو ممن يمثله ـ تودع لدى المحكمة من أصل وصور بعدد المدعى عليهم.",
+    "target_en": "1. A lawsuit shall be filed with the court by the plaintiff, by means of a statement of claim signed by the plaintiff or his representative, in an original and as many copies as there are defendants.",
+    "source_ar_norm": "1- ترفع الدعوي من المدعي بصحيفة  موقعة منه او ممن يمثله  تودع لدي المحكمة من اصل وصور بعدد المدعي عليهم.",
+    "target_en_norm": "1. a lawsuit shall be filed with the court by the plaintiff, by means of a statement of claim signed by the plaintiff or his representative, in an original and as many copies as there are defendants.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48204,
+    "source_ar": "ويجب أن تشمل صحيفة الدعوى البيانات الآتية:",
+    "target_en": "The statement of claim must include the following:",
+    "source_ar_norm": "ويجب ان تشمل صحيفة الدعوي البيانات الاتية:",
+    "target_en_norm": "the statement of claim must include the following:",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48205,
+    "source_ar": "أ - الاسم الكامل للمدعي، ورقم هويته، ومهنته أو وظيفته، ومكان إقامته، ومكان عمله، والاسم الكامل لمَنْ يمثله، ورقم هويته، ومهنته أو وظيفته، ومكان إقامته ومكان عمله.",
+    "target_en": "a) Plaintiff's full name, identification number, profession or occupation, place of residence and place of work, as well as his representative’s full name, identification number, profession or occupation, place of residence and place of work.",
+    "source_ar_norm": "ا - الاسم الكامل للمدعي، ورقم هويته، ومهنته او وظيفته، ومكان اقامته، ومكان عمله، والاسم الكامل لمن يمثله، ورقم هويته، ومهنته او وظيفته، ومكان اقامته ومكان عمله.",
+    "target_en_norm": "a) plaintiff's full name, identification number, profession or occupation, place of residence and place of work, as well as his representative’s full name, identification number, profession or occupation, place of residence and place of work.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48206,
+    "source_ar": "ب - الاسم الكامل للمدعى عليه، وما يتوافر من معلومات عن مهنته أو وظيفته، ومكان إقامته، ومكان عمله، فإن لم يكن له مكان إقامة معلوم فآخر مكان إقامة كان له.",
+    "target_en": "b) Defendant's full name, available information about his profession or occupation, place of residence and place of work, or his last place of residence if he has no known place of residence.",
+    "source_ar_norm": "ب - الاسم الكامل للمدعي عليه، وما يتوافر من معلومات عن مهنته او وظيفته، ومكان اقامته، ومكان عمله، فان لم يكن له مكان اقامة معلوم فاخر مكان اقامة كان له.",
+    "target_en_norm": "b) defendant's full name, available information about his profession or occupation, place of residence and place of work, or his last place of residence if he has no known place of residence.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48207,
+    "source_ar": "ج - تاريخ تقديم الصحيفة.",
+    "target_en": "c) Date of submission of the statement of claim.",
+    "source_ar_norm": "ج - تاريخ تقديم الصحيفة.",
+    "target_en_norm": "c) date of submission of the statement of claim.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48208,
+    "source_ar": "د - المحكمة المرفوعة أمامها الدعوى.",
+    "target_en": "d) The court before which the lawsuit is filed.",
+    "source_ar_norm": "د - المحكمة المرفوعة امامها الدعوي.",
+    "target_en_norm": "d) the court before which the lawsuit is filed.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48209,
+    "source_ar": "هـ - مكان إقامة مختار للمدعي في البلد الذي فيه مقر المحكمة إن لم يكن له مكان إقامة فيها.",
+    "target_en": "e) Plaintiff’s designated place of residence in the town where the court is located if he has no place of residence therein.",
+    "source_ar_norm": "ه - مكان اقامة مختار للمدعي في البلد الذي فيه مقر المحكمة ان لم يكن له مكان اقامة فيها.",
+    "target_en_norm": "e) plaintiff’s designated place of residence in the town where the court is located if he has no place of residence therein.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48210,
+    "source_ar": "و - موضوع الدعوى، وما يطلبه المدعي، وأسانيده.",
+    "target_en": "f) Subject matter of the suit and plaintiff’s claim and evidence.",
+    "source_ar_norm": "و - موضوع الدعوي، وما يطلبه المدعي، واسانيده.",
+    "target_en_norm": "f) subject matter of the suit and plaintiff’s claim and evidence.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48211,
+    "source_ar": "ويكتفى بالنسبة إلى الأجهزة الحكومية في الفقرات (أ، ب، هـ) من هذه المادة بذكر الاسم والمقر.",
+    "target_en": "As to government agencies referred to in paragraphs (a, b and e) of this Article, the name and location of said government agencies shall be deemed sufficient.",
+    "source_ar_norm": "ويكتفي بالنسبة الي الاجهزة الحكومية في الفقرات (ا، ب، ه) من هذه المادة بذكر الاسم والمقر.",
+    "target_en_norm": "as to government agencies referred to in paragraphs (a, b and e) of this article, the name and location of said government agencies shall be deemed sufficient.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48212,
+    "source_ar": "وللمجلس الأعلى للقضاء عند الاقتضاء إضافة ما يلزم من وسائل وبيانات أخرى.",
+    "target_en": "The Supreme Judicial Council may, if necessary, add other means and details.",
+    "source_ar_norm": "وللمجلس الاعلي للقضاء عند الاقتضاء اضافة ما يلزم من وسائل وبيانات اخري.",
+    "target_en_norm": "the supreme judicial council may, if necessary, add other means and details.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48213,
+    "source_ar": "2- لا يجمع في صحيفة الدعوى بين عدة طلبات لا رابط بينها.",
+    "target_en": "2. A single statement of claim may not combine several unrelated claims.",
+    "source_ar_norm": "2- لا يجمع في صحيفة الدعوي بين عدة طلبات لا رابط بينها.",
+    "target_en_norm": "2. a single statement of claim may not combine several unrelated claims.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48214,
+    "source_ar": "أ- تسري على المنازعات العمالية الجماعية القواعد والإجراءات المقررة في المنازعات العمالية الأخرى، ما لم يقرر المجلس الأعلى للقضاء خلاف ذلك.",
+    "target_en": "a) Rules and procedures relating to labor disputes shall apply to labor class action lawsuits, unless the Supreme Judicial Council determines otherwise.",
+    "source_ar_norm": "ا- تسري علي المنازعات العمالية الجماعية القواعد والاجراءات المقررة في المنازعات العمالية الاخري، ما لم يقرر المجلس الاعلي للقضاء خلاف ذلك.",
+    "target_en_norm": "a) rules and procedures relating to labor disputes shall apply to labor class action lawsuits, unless the supreme judicial council determines otherwise.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48215,
+    "source_ar": "ب- تكون المنازعة العمالية جماعية عندما تنشأ المنازعة بين واحد (أو أكثر) من أصحاب العمل وجميع عماله، أو فريق منهم، بسبب العمل أو شروط العمل.",
+    "target_en": "b) A labor class action lawsuit shall mean any dispute arising between one employer (or more) and his employees, or a group of them, for reasons relating to work or terms thereof.",
+    "source_ar_norm": "ب- تكون المنازعة العمالية جماعية عندما تنشا المنازعة بين واحد (او اكثر) من اصحاب العمل وجميع عماله، او فريق منهم، بسبب العمل او شروط العمل.",
+    "target_en_norm": "b) a labor class action lawsuit shall mean any dispute arising between one employer (or more) and his employees, or a group of them, for reasons relating to work or terms thereof.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48216,
+    "source_ar": "المادة الثانية والأربعون:",
+    "target_en": "Article 42",
+    "source_ar_norm": "المادة الثانية والاربعون:",
+    "target_en_norm": "article 42",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48217,
+    "source_ar": "يقيد الكاتب المختص الدعوى في يوم تقديم الصحيفة في السجل الخاص بذلك بعد أن يثبت - بحضور المدعي أو مَنْ يمثله - تاريخ الجلسة المحددة لنظرها في أصل الصحيفة، وصورها. وعليه في اليوم التالي على الأكثر أن يسلم أصل الصحيفة وصورها إلى المحضر أو المدعي - بحسب الأحوال – لتبليغها ورد الأصل إلى إدارة المحكمة.",
+    "target_en": "The clerk shall enter the case in the court docket on the day the statement of claim is filed, upon recording the date of the hearing on the original and copies thereof in the presence of the plaintiff or his representative. The clerk shall, not later than the following day, deliver the original statement of claim and copies thereof to the process server or plaintiff, as the case may be, for serving and returning the original to the court administration.",
+    "source_ar_norm": "يقيد الكاتب المختص الدعوي في يوم تقديم الصحيفة في السجل الخاص بذلك بعد ان يثبت - بحضور المدعي او من يمثله - تاريخ الجلسة المحددة لنظرها في اصل الصحيفة، وصورها. وعليه في اليوم التالي علي الاكثر ان يسلم اصل الصحيفة وصورها الي المحضر او المدعي - بحسب الاحوال – لتبليغها ورد الاصل الي ادارة المحكمة.",
+    "target_en_norm": "the clerk shall enter the case in the court docket on the day the statement of claim is filed, upon recording the date of the hearing on the original and copies thereof in the presence of the plaintiff or his representative. the clerk shall, not later than the following day, deliver the original statement of claim and copies thereof to the process server or plaintiff, as the case may be, for serving and returning the original to the court administration.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48218,
+    "source_ar": "المادة الثالثة والأربعون:",
+    "target_en": "Article 43",
+    "source_ar_norm": "المادة الثالثة والاربعون:",
+    "target_en_norm": "article 43",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48219,
+    "source_ar": "يقوم المحضر أو المدعي ـ بحسب الأحوال ـ بتسليم صورة صحيفة الدعوى إلى المدعى عليه خلال خمسة عشر يومًا على الأكثر من تسليمها إليه، إلا إذا كان قد حدد لنظر الدعوى جلسة تقع في أثناء هذا الموعد، فعندئذ يجب أن يتم التسليم قبل الجلسة، وذلك كله مع مراعاة موعد الحضور.",
+    "target_en": "Taking into consideration the date set for appearance, the process server or plaintiff, as the case may be, shall serve a copy of the statement of claim to the defendant not later than 15 days from the date of receipt, unless a hearing is set within such period. In such case, the statement of claim shall be served prior to the hearing.",
+    "source_ar_norm": "يقوم المحضر او المدعي  بحسب الاحوال  بتسليم صورة صحيفة الدعوي الي المدعي عليه خلال خمسة عشر يوما علي الاكثر من تسليمها اليه، الا اذا كان قد حدد لنظر الدعوي جلسة تقع في اثناء هذا الموعد، فعندئذ يجب ان يتم التسليم قبل الجلسة، وذلك كله مع مراعاة موعد الحضور.",
+    "target_en_norm": "taking into consideration the date set for appearance, the process server or plaintiff, as the case may be, shall serve a copy of the statement of claim to the defendant not later than 15 days from the date of receipt, unless a hearing is set within such period. in such case, the statement of claim shall be served prior to the hearing.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48220,
+    "source_ar": "المادة الرابعة والأربعون:",
+    "target_en": "Article 44",
+    "source_ar_norm": "المادة الرابعة والاربعون:",
+    "target_en_norm": "article 44",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48221,
+    "source_ar": "موعد الحضور أمام المحكمة العامة ثمانية أيام على الأقل من تاريخ تبليغ صحيفة الدعوى.",
+    "target_en": "The date of appearance before a general court shall not be less than eight days from the date of service of the statement of claim.",
+    "source_ar_norm": "موعد الحضور امام المحكمة العامة ثمانية ايام علي الاقل من تاريخ تبليغ صحيفة الدعوي.",
+    "target_en_norm": "the date of appearance before a general court shall not be less than eight days from the date of service of the statement of claim.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48222,
+    "source_ar": "وموعد الحضور أمام المحاكم العمالية والتجارية والأحوال الشخصية أربعة أيام على الأقل من تاريخ تبليغ صحيفة الدعوى، وتطبق مدة الأيام الأربعة على القضايا العمالية والتجارية والأحوال الشخصية إذا نظرت أمام المحكمة العامة في المحافظة أو المركز.",
+    "target_en": "The date of appearance before labor, commercial and family courts shall not be less than four days from the date of service of the statement of claim. The four-day period shall apply to labor, commercial and family cases brought before the general court in a county or township.",
+    "source_ar_norm": "وموعد الحضور امام المحاكم العمالية والتجارية والاحوال الشخصية اربعة ايام علي الاقل من تاريخ تبليغ صحيفة الدعوي، وتطبق مدة الايام الاربعة علي القضايا العمالية والتجارية والاحوال الشخصية اذا نظرت امام المحكمة العامة في المحافظة او المركز.",
+    "target_en_norm": "the date of appearance before labor, commercial and family courts shall not be less than four days from the date of service of the statement of claim. the four-day period shall apply to labor, commercial and family cases brought before the general court in a county or township.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48223,
+    "source_ar": "ويجوز في الدعاوى الناشئة عن حوادث السير أو عند الضرورة نقص الموعد إلى أربع وعشرين ساعة، بشرط أن يحصل التبليغ للخصم نفسه في حالة نقص الموعد وأن يكون بإمكانه الوصول إلى المحكمة في الموعد المحدد، ويكون نقص الموعد بإذن من المحكمة المرفوعة إليها الدعوى.",
+    "target_en": "Such period may be reduced to 24 hours in lawsuits arising from traffic accidents, or when necessary, provided that the litigant is served in person and is able to reach the court in time. Reduction of such period shall be with the permission of the court before which the lawsuit is filed.",
+    "source_ar_norm": "ويجوز في الدعاوي الناشئة عن حوادث السير او عند الضرورة نقص الموعد الي اربع وعشرين ساعة، بشرط ان يحصل التبليغ للخصم نفسه في حالة نقص الموعد وان يكون بامكانه الوصول الي المحكمة في الموعد المحدد، ويكون نقص الموعد باذن من المحكمة المرفوعة اليها الدعوي.",
+    "target_en_norm": "such period may be reduced to 24 hours in lawsuits arising from traffic accidents, or when necessary, provided that the litigant is served in person and is able to reach the court in time. reduction of such period shall be with the permission of the court before which the lawsuit is filed.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48224,
+    "source_ar": "المادة الخامسة والأربعون:",
+    "target_en": "Article 45",
+    "source_ar_norm": "المادة الخامسة والاربعون:",
+    "target_en_norm": "article 45",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48225,
+    "source_ar": "على المدعى عليه في جميع الدعاوى – عدا الدعاوى المستعجلة والدعاوى التي أُنقص موعد الحضور فيها - أن يودع لدى المحكمة مذكرة بدفاعه قبل الجلسة المحددة لنظر الدعوى بثلاثة أيام على الأقل أمام المحكمة العامة، وبيوم واحد على الأقل أمام المحاكم الأخرى، وأمام الدوائر العمالية والتجارية والأحوال الشخصية إذا نظرت أمام المحكمة العامة في المحافظة أو المركز.",
+    "target_en": "With the exception of summary cases and cases where the period of court date is shortened, the defendant shall deposit with the court his statement of defense at least three days prior to the hearing set for consideration of the case before the general court and at least one day prior to the hearing before other courts and before labor, commercial and family circuits, if the case is considered by the general court in a county or township.",
+    "source_ar_norm": "علي المدعي عليه في جميع الدعاوي – عدا الدعاوي المستعجلة والدعاوي التي انقص موعد الحضور فيها - ان يودع لدي المحكمة مذكرة بدفاعه قبل الجلسة المحددة لنظر الدعوي بثلاثة ايام علي الاقل امام المحكمة العامة، وبيوم واحد علي الاقل امام المحاكم الاخري، وامام الدوائر العمالية والتجارية والاحوال الشخصية اذا نظرت امام المحكمة العامة في المحافظة او المركز.",
+    "target_en_norm": "with the exception of summary cases and cases where the period of court date is shortened, the defendant shall deposit with the court his statement of defense at least three days prior to the hearing set for consideration of the case before the general court and at least one day prior to the hearing before other courts and before labor, commercial and family circuits, if the case is considered by the general court in a county or township.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48226,
+    "source_ar": "المادة السادسة والأربعون:",
+    "target_en": "Article 46",
+    "source_ar_norm": "المادة السادسة والاربعون:",
+    "target_en_norm": "article 46",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48227,
+    "source_ar": "لا يترتب على عدم مراعاة الموعد المقرر في المادة (الثالثة والأربعين) من هذا النظام أو عدم مراعاة موعد الحضور بطلان صحيفة الدعوى، وذلك من غير إخلال بحق الموجه إليه التبليغ في التأجيل لاستكمال الموعد.",
+    "target_en": "Failure to observe the period set forth in Article 43 of this Law or the court date shall not invalidate the statement of claim, without prejudice to the right of the person served to postponement for completion of the period.",
+    "source_ar_norm": "لا يترتب علي عدم مراعاة الموعد المقرر في المادة (الثالثة والاربعين) من هذا النظام او عدم مراعاة موعد الحضور بطلان صحيفة الدعوي، وذلك من غير اخلال بحق الموجه اليه التبليغ في التاجيل لاستكمال الموعد.",
+    "target_en_norm": "failure to observe the period set forth in article 43 of this law or the court date shall not invalidate the statement of claim, without prejudice to the right of the person served to postponement for completion of the period.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48228,
+    "source_ar": "المادة السابعة والأربعون:",
+    "target_en": "Article 47",
+    "source_ar_norm": "المادة السابعة والاربعون:",
+    "target_en_norm": "article 47",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48229,
+    "source_ar": "إذا حضر المدعي والمدعى عليه أمام المحكمة من تلقاء نفسيهما - ولو كانت الدعوى خارج اختصاصها المكاني - وطلبا سماع خصومتهما فتسمع المحكمة الدعوى في الحال إن أمكن وإلا حددت لها جلسة أخرى.",
+    "target_en": "If the plaintiff and defendant voluntarily appear before a court and request a hearing of their dispute, the court shall promptly hear the case, if possible, or set another hearing, even if the case is beyond its territorial jurisdiction.",
+    "source_ar_norm": "اذا حضر المدعي والمدعي عليه امام المحكمة من تلقاء نفسيهما - ولو كانت الدعوي خارج اختصاصها المكاني - وطلبا سماع خصومتهما فتسمع المحكمة الدعوي في الحال ان امكن والا حددت لها جلسة اخري.",
+    "target_en_norm": "if the plaintiff and defendant voluntarily appear before a court and request a hearing of their dispute, the court shall promptly hear the case, if possible, or set another hearing, even if the case is beyond its territorial jurisdiction.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48230,
+    "source_ar": "المادة الثامنة والأربعون:",
+    "target_en": "Article 48",
+    "source_ar_norm": "المادة الثامنة والاربعون:",
+    "target_en_norm": "article 48",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48231,
+    "source_ar": "إذا عينت المحكمة جلسة لشخصين متداعيين، ثم حضرا في غير الوقت المعين وطلبا النظر في خصومتهما، فعليها أن تجيب هذا الطلب إن أمكن.",
+    "target_en": "If a court sets a hearing for two litigants but they appear at other than the set date and they petition the court to consider their dispute, the court shall, if possible, grant such petition.",
+    "source_ar_norm": "اذا عينت المحكمة جلسة لشخصين متداعيين، ثم حضرا في غير الوقت المعين وطلبا النظر في خصومتهما، فعليها ان تجيب هذا الطلب ان امكن.",
+    "target_en_norm": "if a court sets a hearing for two litigants but they appear at other than the set date and they petition the court to consider their dispute, the court shall, if possible, grant such petition.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48232,
+    "source_ar": "الباب الرابع (حضور الخصوم وغيابهم والتوكيل في الخصومة)",
+    "target_en": "Part 4: Appearance and Absence of Litigants and Representation in Litigation",
+    "source_ar_norm": "الباب الرابع (حضور الخصوم وغيابهم والتوكيل في الخصومة)",
+    "target_en_norm": "part 4: appearance and absence of litigants and representation in litigation",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48233,
+    "source_ar": "المادة التاسعة والأربعون:",
+    "target_en": "Article 49",
+    "source_ar_norm": "المادة التاسعة والاربعون:",
+    "target_en_norm": "article 49",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48234,
+    "source_ar": "في اليوم المعين لنظر الدعوى يحضر الخصوم بأنفسهم أو مَنْ ينوب عنهم، فإذا كان النائب وكيلًا تعين كونه ممن له حق التوكل حسب النظام.",
+    "target_en": "On the day set for consideration of the case, the litigants shall appear in person or through representation. If the representative is an agent, he shall be eligible to act as a legal representative according to the law.",
+    "source_ar_norm": "في اليوم المعين لنظر الدعوي يحضر الخصوم بانفسهم او من ينوب عنهم، فاذا كان النائب وكيلا تعين كونه ممن له حق التوكل حسب النظام.",
+    "target_en_norm": "on the day set for consideration of the case, the litigants shall appear in person or through representation. if the representative is an agent, he shall be eligible to act as a legal representative according to the law.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48235,
+    "source_ar": "المادة الخمسون:",
+    "target_en": "Article 50",
+    "source_ar_norm": "المادة الخمسون:",
+    "target_en_norm": "article 50",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48236,
+    "source_ar": "يجب على الوكيل أن يقرر حضوره عن موكله، وأن يودع صورة مصدقة من وثيقة وكالته لدى الكاتب المختص. وللمحكمة أن ترخص للوكيل عند الضرورة بإيداع صورة الوثيقة في موعد تحدده، على ألا يتجاوز ذلك أول جلسة للمرافعة.",
+    "target_en": "An agent shall declare his appearance on behalf of his client and shall deposit a certified copy of the document of his power of attorney with the competent clerk. The court may, at its discretion, allow the deposit of the copy of the document by the agent within a period prescribed by the court, provided that it is not later than the first hearing.",
+    "source_ar_norm": "يجب علي الوكيل ان يقرر حضوره عن موكله، وان يودع صورة مصدقة من وثيقة وكالته لدي الكاتب المختص. وللمحكمة ان ترخص للوكيل عند الضرورة بايداع صورة الوثيقة في موعد تحدده، علي الا يتجاوز ذلك اول جلسة للمرافعة.",
+    "target_en_norm": "an agent shall declare his appearance on behalf of his client and shall deposit a certified copy of the document of his power of attorney with the competent clerk. the court may, at its discretion, allow the deposit of the copy of the document by the agent within a period prescribed by the court, provided that it is not later than the first hearing.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48237,
+    "source_ar": "ويجوز أن يثبت التوكيل في الجلسة بتقرير يدون في محضرها، ويوقعه الموكل أو يبصم عليه بإبهامه.",
+    "target_en": "The power of attorney may be established by a declaration to be entered in the hearing record and signed or thumb-printed by the principal.",
+    "source_ar_norm": "ويجوز ان يثبت التوكيل في الجلسة بتقرير يدون في محضرها، ويوقعه الموكل او يبصم عليه بابهامه.",
+    "target_en_norm": "the power of attorney may be established by a declaration to be entered in the hearing record and signed or thumb-printed by the principal.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48238,
+    "source_ar": "ويسري وجوب الإيداع المشار إليه آنفًا على الوصي والولي والناظر.",
+    "target_en": "The aforementioned mandatory deposit shall also apply to trustees, guardians and administrators.",
+    "source_ar_norm": "ويسري وجوب الايداع المشار اليه انفا علي الوصي والولي والناظر.",
+    "target_en_norm": "the aforementioned mandatory deposit shall also apply to trustees, guardians and administrators.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48239,
+    "source_ar": "المادة الحادية والخمسون:",
+    "target_en": "Article 51",
+    "source_ar_norm": "المادة الحادية والخمسون:",
+    "target_en_norm": "article 51",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48240,
+    "source_ar": "كل ما يقرره الوكيل في حضور الموكِّل يكون بمثابة ما يقرره الموكِّل نفسه، إلا إذا نفاه أثناء نظر القضية في الجلسة نفسها.",
+    "target_en": "Whatever the agent declares in the presence of the principal shall in effect be considered a declaration by the principal himself unless the principal denies it in the same hearing.",
+    "source_ar_norm": "كل ما يقرره الوكيل في حضور الموكل يكون بمثابة ما يقرره الموكل نفسه، الا اذا نفاه اثناء نظر القضية في الجلسة نفسها.",
+    "target_en_norm": "whatever the agent declares in the presence of the principal shall in effect be considered a declaration by the principal himself unless the principal denies it in the same hearing.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48241,
+    "source_ar": "وإذا لم يحضر الموكِّل فلا يصح من الوكيل الإقرار بالحق المدعى به، أو التنازل، أو الصلح، أو قبول اليمين، أو توجيهها، أو ردها، أو ترك الخصومة، أو التنازل عن الحكم - كليًّا أو جزئيًّا - أو عن طريق من طرق الطعن فيه، أو رفع الحجر، أو ترك الرهن مع بقاء الدين، أو الادعاء بالتزوير أو رد القاضي أو اختيار الخبير أو رده ما لم يكن مفوضًا تفويضًا خاصًّا بذلك في الوكالة.",
+    "target_en": "If the principal fails to appear, the agent may not concede the right claimed; make a waiver or accept a settlement; accept, direct, or reject an oath; drop the litigation; waive judgment in whole or in part or through any method of appeal; lift an interdiction; release a mortgage while leaving the debt unpaid; claim forgery; request dismissal of the judge; or select or reject an expert, unless he is specifically authorized to do so in the power of attorney.",
+    "source_ar_norm": "واذا لم يحضر الموكل فلا يصح من الوكيل الاقرار بالحق المدعي به، او التنازل، او الصلح، او قبول اليمين، او توجيهها، او ردها، او ترك الخصومة، او التنازل عن الحكم - كليا او جزئيا - او عن طريق من طرق الطعن فيه، او رفع الحجر، او ترك الرهن مع بقاء الدين، او الادعاء بالتزوير او رد القاضي او اختيار الخبير او رده ما لم يكن مفوضا تفويضا خاصا بذلك في الوكالة.",
+    "target_en_norm": "if the principal fails to appear, the agent may not concede the right claimed; make a waiver or accept a settlement; accept, direct, or reject an oath; drop the litigation; waive judgment in whole or in part or through any method of appeal; lift an interdiction; release a mortgage while leaving the debt unpaid; claim forgery; request dismissal of the judge; or select or reject an expert, unless he is specifically authorized to do so in the power of attorney.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48242,
+    "source_ar": "المادة الثانية والخمسون:",
+    "target_en": "Article 52",
+    "source_ar_norm": "المادة الثانية والخمسون:",
+    "target_en_norm": "article 52",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48243,
+    "source_ar": "لا يحول اعتزال الوكيل أو عزلـه بغير موافقة المحكمة دون سير الإجراءات، إلا إذا أبلغ الموكِّل خصمه بتعيين وكيل آخر بدلًا من المعتزل أو المعزول، أو بعزمه على مباشرة الدعوى بنفسه.",
+    "target_en": "Resignation or dismissal of an agent without the court’s approval shall not preclude continuation of the proceedings unless the principal notifies his adversary of the appointment of another agent, or of his intention to pursue the case pro se.",
+    "source_ar_norm": "لا يحول اعتزال الوكيل او عزله بغير موافقة المحكمة دون سير الاجراءات، الا اذا ابلغ الموكل خصمه بتعيين وكيل اخر بدلا من المعتزل او المعزول، او بعزمه علي مباشرة الدعوي بنفسه.",
+    "target_en_norm": "resignation or dismissal of an agent without the court’s approval shall not preclude continuation of the proceedings unless the principal notifies his adversary of the appointment of another agent, or of his intention to pursue the case pro se.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48244,
+    "source_ar": "المادة الثالثة والخمسون:",
+    "target_en": "Article 53",
+    "source_ar_norm": "المادة الثالثة والخمسون:",
+    "target_en_norm": "article 53",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48245,
+    "source_ar": "إذا ظهر للمحكمة من أحد الوكلاء كثرة الاستمهالات بحجة سؤال موكله بقصد المماطلة، فلها حق طلب الموكل بنفسه لإتمام المرافعة أو توكيل وكيل آخر.",
+    "target_en": "If the court establishes that an agent has been dilatory under the pretext of the need to consult his client with the intent to procrastinate, the court may instruct the principal himself to complete the proceeding or assign another agent.",
+    "source_ar_norm": "اذا ظهر للمحكمة من احد الوكلاء كثرة الاستمهالات بحجة سؤال موكله بقصد المماطلة، فلها حق طلب الموكل بنفسه لاتمام المرافعة او توكيل وكيل اخر.",
+    "target_en_norm": "if the court establishes that an agent has been dilatory under the pretext of the need to consult his client with the intent to procrastinate, the court may instruct the principal himself to complete the proceeding or assign another agent.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48246,
+    "source_ar": "المادة الرابعة والخمسون:",
+    "target_en": "Article 54",
+    "source_ar_norm": "المادة الرابعة والخمسون:",
+    "target_en_norm": "article 54",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48247,
+    "source_ar": "لا يجوز للقاضي ولا لعضو هيئة التحقيق والادعاء العام ولا لأحد من العاملين في المحاكم أن يكون وكيلًا عن الخصوم في الدعوى ولو كانت مقامة أمام محكمة غير المحكمة التابع لها، ولكن يجوز لهم ذلك عن أزواجهم وأصولهم وفروعهم ومن كان تحت ولايتهم شرعًا.",
+    "target_en": "A judge, a member of the Bureau of Investigation and Public Prosecution, or a court employee may not serve as an agent for a litigant in a case, even if filed before a different court. They are, however, permitted to represent their spouses, ascendants and descendants as well as persons legally under their guardianship.",
+    "source_ar_norm": "لا يجوز للقاضي ولا لعضو هيئة التحقيق والادعاء العام ولا لاحد من العاملين في المحاكم ان يكون وكيلا عن الخصوم في الدعوي ولو كانت مقامة امام محكمة غير المحكمة التابع لها، ولكن يجوز لهم ذلك عن ازواجهم واصولهم وفروعهم ومن كان تحت ولايتهم شرعا.",
+    "target_en_norm": "a judge, a member of the bureau of investigation and public prosecution, or a court employee may not serve as an agent for a litigant in a case, even if filed before a different court. they are, however, permitted to represent their spouses, ascendants and descendants as well as persons legally under their guardianship.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48248,
+    "source_ar": "المادة الخامسة والخمسون:",
+    "target_en": "Article 55",
+    "source_ar_norm": "المادة الخامسة والخمسون:",
+    "target_en_norm": "article 55",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48249,
+    "source_ar": "إذا لم يحضر المدعي أي جلسة من جلسات الدعوى ولم يتقدم بعذر تقبله المحكمة، فلها أن تقرر شطبها. فإذا انقضت (ستون) يوماً ولم يطلب المدعي السير فيها بعد شطبها، أو لم يحضر بعد السير فيها، عُدًّت كأن لم تكن.",
+    "target_en": "If the plaintiff fails to attend any of the hearings without a justification acceptable to the court, the court may dismiss the case. If a period of 60 days lapses and the plaintiff does not file a petition for the continuation of the case after being dismissed, or does not attend the hearing following the continuation of the case, the case shall be deemed null and void.",
+    "source_ar_norm": "اذا لم يحضر المدعي اي جلسة من جلسات الدعوي ولم يتقدم بعذر تقبله المحكمة، فلها ان تقرر شطبها. فاذا انقضت (ستون) يوما ولم يطلب المدعي السير فيها بعد شطبها، او لم يحضر بعد السير فيها، عدت كان لم تكن.",
+    "target_en_norm": "if the plaintiff fails to attend any of the hearings without a justification acceptable to the court, the court may dismiss the case. if a period of 60 days lapses and the plaintiff does not file a petition for the continuation of the case after being dismissed, or does not attend the hearing following the continuation of the case, the case shall be deemed null and void.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48250,
+    "source_ar": "وإذا طلب المدعي بعد ذلك السير في الدعوى حكمت المحكمة -من تلقاء نفسها- باعتبار الدعوى كأن لم تكن.",
+    "target_en": "If the plaintiff later files a petition for continuation of the case, the court shall, on its own motion, rule the case to be null and void.",
+    "source_ar_norm": "واذا طلب المدعي بعد ذلك السير في الدعوي حكمت المحكمة -من تلقاء نفسها- باعتبار الدعوي كان لم تكن.",
+    "target_en_norm": "if the plaintiff later files a petition for continuation of the case, the court shall, on its own motion, rule the case to be null and void.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48251,
+    "source_ar": "المادة السادسة والخمسون:",
+    "target_en": "Article 56",
+    "source_ar_norm": "المادة السادسة والخمسون:",
+    "target_en_norm": "article 56",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48252,
+    "source_ar": "إذا لم يحضر المدعي جلسات الدعوى - وفقاً لما ورد في المادة (الخامسة والخمسين) من هذا النظام - فللمدعى عليه أن يطلب من المحكمة الحكم في موضوعها، وعلى المحكمة أن تحكم إذا كانت صالحة للحكم فيها، يُعدّ حكمها في حق المدعي حضوريا.",
+    "target_en": "If the plaintiff fails to attend the court hearings, in accordance with Article 55 of this Law, the defendant may petition the court to rule on the merits of the case. The court shall rule on the case if it is ripe for judgment and such judgment shall be deemed as if rendered in the presence of the plaintiff.",
+    "source_ar_norm": "اذا لم يحضر المدعي جلسات الدعوي - وفقا لما ورد في المادة (الخامسة والخمسين) من هذا النظام - فللمدعي عليه ان يطلب من المحكمة الحكم في موضوعها، وعلي المحكمة ان تحكم اذا كانت صالحة للحكم فيها، يعد حكمها في حق المدعي حضوريا.",
+    "target_en_norm": "if the plaintiff fails to attend the court hearings, in accordance with article 55 of this law, the defendant may petition the court to rule on the merits of the case. the court shall rule on the case if it is ripe for judgment and such judgment shall be deemed as if rendered in the presence of the plaintiff.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48253,
+    "source_ar": "المادة السابعة والخمسون:",
+    "target_en": "Article 57",
+    "source_ar_norm": "المادة السابعة والخمسون:",
+    "target_en_norm": "article 57",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48254,
+    "source_ar": "إذا غاب المدعى عليه عن الجلسة الأولى ولم يكن تبلغ لشخصه أو وكيله في الدعوى نفسها، فيؤجل النظر في الدعوى إلى جلسة لاحقة يبلغ بها المدعى عليه، فإن غاب عن هذه الجلسة دون عذر تقبله المحكمة ولم يكن تبلغ لشخصه أو وكيله، فتحكم المحكمة في الدعوى، ويعد حكمها في حق المدعى عليه غيابيًا.",
+    "target_en": "1. If the defendant is absent from the first hearing without being notified in person or through his agent, consideration of the case shall be postponed to a subsequent hearing of which the defendant shall be notified. If he is absent from said hearing without an excuse acceptable to the court and without being notified in person or through his agent, the court shall rule on the case and its judgment shall be considered in absentia with respect to the defendant.",
+    "source_ar_norm": "اذا غاب المدعي عليه عن الجلسة الاولي ولم يكن تبلغ لشخصه او وكيله في الدعوي نفسها، فيؤجل النظر في الدعوي الي جلسة لاحقة يبلغ بها المدعي عليه، فان غاب عن هذه الجلسة دون عذر تقبله المحكمة ولم يكن تبلغ لشخصه او وكيله، فتحكم المحكمة في الدعوي، ويعد حكمها في حق المدعي عليه غيابيا.",
+    "target_en_norm": "1. if the defendant is absent from the first hearing without being notified in person or through his agent, consideration of the case shall be postponed to a subsequent hearing of which the defendant shall be notified. if he is absent from said hearing without an excuse acceptable to the court and without being notified in person or through his agent, the court shall rule on the case and its judgment shall be considered in absentia with respect to the defendant.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48255,
+    "source_ar": "إذا تبلغ المدعى عليه لشخصه أو وكيله في الدعوى نفسها بموعد الجلسة، أو أودع هو أو وكيله مذكرة بدفاعه لدى المحكمة قبل الجلسة المحددة لنظر الدعوى ولم يحضر، أو حضر المدعى عليه في أي جلسة ثم غاب، فتحكم المحكمة في الدعوى، ويعد حكمها في حق المدعى عليه حضوريًّا.",
+    "target_en": "2. If the defendant or his agent in the same case is notified of the date of hearing in person, or a memorandum of defense is deposited with the court by the defendant or his agent prior to the scheduled hearing of the case, or if the defendant appears at any of the hearings then fails to appear again, the court shall rule on the case and the judgment shall not be deemed in absentia with respect to the defendant.",
+    "source_ar_norm": "اذا تبلغ المدعي عليه لشخصه او وكيله في الدعوي نفسها بموعد الجلسة، او اودع هو او وكيله مذكرة بدفاعه لدي المحكمة قبل الجلسة المحددة لنظر الدعوي ولم يحضر، او حضر المدعي عليه في اي جلسة ثم غاب، فتحكم المحكمة في الدعوي، ويعد حكمها في حق المدعي عليه حضوريا.",
+    "target_en_norm": "2. if the defendant or his agent in the same case is notified of the date of hearing in person, or a memorandum of defense is deposited with the court by the defendant or his agent prior to the scheduled hearing of the case, or if the defendant appears at any of the hearings then fails to appear again, the court shall rule on the case and the judgment shall not be deemed in absentia with respect to the defendant.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48256,
+    "source_ar": "إذا لم يحضر المدعى عليه الذي ليس له مكان إقامة معروف أو مكان إقامة مختار في المملكة بعد إعلانه وفقًا لما ورد في الفقرة (ط) من المادة (السابعة عشرة) من هذا النظام، فتحكم المحكمة في الدعوى، ويعد حكمها في حق المدعى عليه غيابيًا.",
+    "target_en": "3. If the defendant, who has no known or designated place of residence in the Kingdom, fails to appear after being served pursuant to Article 17(i) of this Law, the court shall rule on the case and the judgment shall be deemed in absentia with respect to the defendant.",
+    "source_ar_norm": "اذا لم يحضر المدعي عليه الذي ليس له مكان اقامة معروف او مكان اقامة مختار في المملكة بعد اعلانه وفقا لما ورد في الفقرة (ط) من المادة (السابعة عشرة) من هذا النظام، فتحكم المحكمة في الدعوي، ويعد حكمها في حق المدعي عليه غيابيا.",
+    "target_en_norm": "3. if the defendant, who has no known or designated place of residence in the kingdom, fails to appear after being served pursuant to article 17(i) of this law, the court shall rule on the case and the judgment shall be deemed in absentia with respect to the defendant.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48257,
+    "source_ar": "إذا تخلف المدعى عليه في المسائل الزوجية والحضانة والنفقة والزيارة ومن عضلها أولياؤها، فللمحكمة أن تأمر بإحضاره جبرًا وفق ضوابط تحددها لوائح هذا النظام.",
+    "target_en": "4. If the defendant is absent in cases relating to marital matters or matters of custody, alimony, visitation or prevention of a woman from marriage by her guardian, the court may order the defendant to be brought by force in accordance with controls stipulated in the regulations of this Law.",
+    "source_ar_norm": "اذا تخلف المدعي عليه في المسائل الزوجية والحضانة والنفقة والزيارة ومن عضلها اولياؤها، فللمحكمة ان تامر باحضاره جبرا وفق ضوابط تحددها لوائح هذا النظام.",
+    "target_en_norm": "4. if the defendant is absent in cases relating to marital matters or matters of custody, alimony, visitation or prevention of a woman from marriage by her guardian, the court may order the defendant to be brought by force in accordance with controls stipulated in the regulations of this law.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48258,
+    "source_ar": "المادة الثامنة والخمسون:",
+    "target_en": "Article 58",
+    "source_ar_norm": "المادة الثامنة والخمسون:",
+    "target_en_norm": "article 58",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48259,
+    "source_ar": "إذا تعدد المدعى عليهم، وكان بعضهم قد بلغ لشخصه وبعضهم الآخر لم يبلغ لشخصه، وتغيبوا جميعًا أو تغيب من لم يبلغ لشخصه؛ وجب على المحكمة في غير الدعاوى المستعجلة تأجيل نظر الدعوى إلى جلسة تالية يبلغ المدعي بها من لم يبلغ لشخصه من الغائبين، ويعد الحكم في الدعوى في حق من تبلغ من المدعى عليهم حكمًا حضوريًا.",
+    "target_en": "In case of multiple defendants, where some are served in person while the others are not, and all of them or only those not served in person are absent, the court shall, in other than summary cases, postpone consideration of the case to a subsequent hearing and the plaintiff shall serve notice of that hearing to those absent who are not served in person. The decision in the case shall not be deemed in absentia with respect to served defendants.",
+    "source_ar_norm": "اذا تعدد المدعي عليهم، وكان بعضهم قد بلغ لشخصه وبعضهم الاخر لم يبلغ لشخصه، وتغيبوا جميعا او تغيب من لم يبلغ لشخصه؛ وجب علي المحكمة في غير الدعاوي المستعجلة تاجيل نظر الدعوي الي جلسة تالية يبلغ المدعي بها من لم يبلغ لشخصه من الغائبين، ويعد الحكم في الدعوي في حق من تبلغ من المدعي عليهم حكما حضوريا.",
+    "target_en_norm": "in case of multiple defendants, where some are served in person while the others are not, and all of them or only those not served in person are absent, the court shall, in other than summary cases, postpone consideration of the case to a subsequent hearing and the plaintiff shall serve notice of that hearing to those absent who are not served in person. the decision in the case shall not be deemed in absentia with respect to served defendants.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48260,
+    "source_ar": "المادة التاسعة والخمسون:",
+    "target_en": "Article 59",
+    "source_ar_norm": "المادة التاسعة والخمسون:",
+    "target_en_norm": "article 59",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48261,
+    "source_ar": "في تطبيق الأحكام السابقة، لا يعد غائبًا- والجلسة لم تنعقد- من حضر قبل الموعد المحدد لانتهاء الجلسة بثلاثين دقيقة، على أنه إذا حضر والجلسة لا زالت منعقدة فيعد حاضرًا.",
+    "target_en": "In application of the preceding provisions, a person shall not be considered absent if he arrives 30 minutes prior to the end of a hearing’s scheduled time if such hearing has not started. If he arrives while the hearing is in progress, he shall be considered present.",
+    "source_ar_norm": "في تطبيق الاحكام السابقة، لا يعد غائبا- والجلسة لم تنعقد- من حضر قبل الموعد المحدد لانتهاء الجلسة بثلاثين دقيقة، علي انه اذا حضر والجلسة لا زالت منعقدة فيعد حاضرا.",
+    "target_en_norm": "in application of the preceding provisions, a person shall not be considered absent if he arrives 30 minutes prior to the end of a hearing’s scheduled time if such hearing has not started. if he arrives while the hearing is in progress, he shall be considered present.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48262,
+    "source_ar": "المادة الستون:",
+    "target_en": "Article 60",
+    "source_ar_norm": "المادة الستون:",
+    "target_en_norm": "article 60",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48263,
+    "source_ar": "يكون للمحكوم عليه غيابيًا - خلال المدد المقررة للاعتراض في هذا النظام - المعارضة على الحكم لدى المحكمة التي أصدرته، من تاريخ إبلاغه أو وكيله بالحكم.",
+    "target_en": "1. A person against whom a judgment in absentia has been rendered may, within the appeal period specified in this Law, challenge the judgment before the court which rendered it, as of the date of notifying him or his agent of the judgment.",
+    "source_ar_norm": "يكون للمحكوم عليه غيابيا - خلال المدد المقررة للاعتراض في هذا النظام - المعارضة علي الحكم لدي المحكمة التي اصدرته، من تاريخ ابلاغه او وكيله بالحكم.",
+    "target_en_norm": "1. a person against whom a judgment in absentia has been rendered may, within the appeal period specified in this law, challenge the judgment before the court which rendered it, as of the date of notifying him or his agent of the judgment.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48264,
+    "source_ar": "يقدم طلب المعارضة بمذكرة وفقًا للإجراءات المقررة لرفع الدعوى، على أن تتضمن المذكرة رقم الحكم المعارض عليه، وتاريخه، وأسباب المعارضة.",
+    "target_en": "2. The appeal shall be filed by a memorandum pursuant to established procedures for filing cases. Said memorandum shall state the number and date of appealed judgment and grounds for such appeal.",
+    "source_ar_norm": "يقدم طلب المعارضة بمذكرة وفقا للاجراءات المقررة لرفع الدعوي، علي ان تتضمن المذكرة رقم الحكم المعارض عليه، وتاريخه، واسباب المعارضة.",
+    "target_en_norm": "2. the appeal shall be filed by a memorandum pursuant to established procedures for filing cases. said memorandum shall state the number and date of appealed judgment and grounds for such appeal.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48265,
+    "source_ar": "إذا غاب المعارض أو وكيله عن الجلسة الأولى لنظر المعارضة، فتحكم المحكمة من تلقاء نفسها بسقوط حقه في المعارضة، ويعد حكمها نهائيًا.",
+    "target_en": "3. If the appellant or his agent fails to attend the first hearing of the appeal, the court shall, upon its own motion, rule that the right to appeal is deemed forfeited and such judgment shall be deemed final.",
+    "source_ar_norm": "اذا غاب المعارض او وكيله عن الجلسة الاولي لنظر المعارضة، فتحكم المحكمة من تلقاء نفسها بسقوط حقه في المعارضة، ويعد حكمها نهائيا.",
+    "target_en_norm": "3. if the appellant or his agent fails to attend the first hearing of the appeal, the court shall, upon its own motion, rule that the right to appeal is deemed forfeited and such judgment shall be deemed final.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48266,
+    "source_ar": "للمحكمة أن تأمر بوقف تنفيذ الحكم المعارض عليه مؤقتًا إذا طُلب ذلك في مذكرة المعارضة وكان يخشى من التنفيذ وقوع ضرر جسيم يتعذر تداركه.",
+    "target_en": "4. The court may order provisional stay of execution of an appealed judgment if it is petitioned to do so in the memorandum of appeal and the execution of said judgment would result in a grave and irreparable harm.",
+    "source_ar_norm": "للمحكمة ان تامر بوقف تنفيذ الحكم المعارض عليه مؤقتا اذا طلب ذلك في مذكرة المعارضة وكان يخشي من التنفيذ وقوع ضرر جسيم يتعذر تداركه.",
+    "target_en_norm": "4. the court may order provisional stay of execution of an appealed judgment if it is petitioned to do so in the memorandum of appeal and the execution of said judgment would result in a grave and irreparable harm.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48267,
+    "source_ar": "يوقف نفاذ الحكم الغيابي إذا صدر حكم معارض للحكم الغيابي يقضي بإلغائه.",
+    "target_en": "5. Execution of a judgment in absentia shall be stayed if reversed by a judgment.",
+    "source_ar_norm": "يوقف نفاذ الحكم الغيابي اذا صدر حكم معارض للحكم الغيابي يقضي بالغائه.",
+    "target_en_norm": "5. execution of a judgment in absentia shall be stayed if reversed by a judgment.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48268,
+    "source_ar": "الباب الخامس (إجراءات الجلسات ونظامها)",
+    "target_en": "Part 5: Hearing Procedures and Order",
+    "source_ar_norm": "الباب الخامس (اجراءات الجلسات ونظامها)",
+    "target_en_norm": "part 5: hearing procedures and order",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48269,
+    "source_ar": "المادة الحادية والستون:",
+    "target_en": "Article 61",
+    "source_ar_norm": "المادة الحادية والستون:",
+    "target_en_norm": "article 61",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48270,
+    "source_ar": "يجب أن يحضر جلسات المرافعة في القضية العدد اللازم نظامًا من القضاة، فإن لم يتوافر العدد اللازم فيكلف رئيس المحكمة أحد قضاتها لإكمال النصاب، فإن تعذر ذلك فيكلف رئيس المجلس الأعلى للقضاء من يكمل النصاب.",
+    "target_en": "Hearings shall be attended by the legally required number of judges. If the required number is not satisfied, the chief judge shall assign a judge to complete the quorum. If this is unattainable, the Chairman of the Supreme Judicial Council shall assign a judge to complete the quorum.",
+    "source_ar_norm": "يجب ان يحضر جلسات المرافعة في القضية العدد اللازم نظاما من القضاة، فان لم يتوافر العدد اللازم فيكلف رئيس المحكمة احد قضاتها لاكمال النصاب، فان تعذر ذلك فيكلف رئيس المجلس الاعلي للقضاء من يكمل النصاب.",
+    "target_en_norm": "hearings shall be attended by the legally required number of judges. if the required number is not satisfied, the chief judge shall assign a judge to complete the quorum. if this is unattainable, the chairman of the supreme judicial council shall assign a judge to complete the quorum.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48271,
+    "source_ar": "المادة الثانية والستون:",
+    "target_en": "Article 62",
+    "source_ar_norm": "المادة الثانية والستون:",
+    "target_en_norm": "article 62",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48272,
+    "source_ar": "على كاتب الضبط أن يعد لكل يوم قائمة بالدعاوى التي تعرض فيه مرتبة حسب الوقت المعين لنظرها، وبعد عرض القائمة على القاضي تعلن في اللوحة المعدة لذلك قبل يوم الجلسات.",
+    "target_en": "The clerk shall each day draft a list of cases arranged according to time scheduled for their consideration. Upon presentation to the judge, the list shall be posted on the docket prior to the hearing date.",
+    "source_ar_norm": "علي كاتب الضبط ان يعد لكل يوم قائمة بالدعاوي التي تعرض فيه مرتبة حسب الوقت المعين لنظرها، وبعد عرض القائمة علي القاضي تعلن في اللوحة المعدة لذلك قبل يوم الجلسات.",
+    "target_en_norm": "the clerk shall each day draft a list of cases arranged according to time scheduled for their consideration. upon presentation to the judge, the list shall be posted on the docket prior to the hearing date.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48273,
+    "source_ar": "المادة الثالثة والستون:",
+    "target_en": "Article 63",
+    "source_ar_norm": "المادة الثالثة والستون:",
+    "target_en_norm": "article 63",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48274,
+    "source_ar": "ينادى على الخصوم في الوقت المعين لنظر قضيتهم.",
+    "target_en": "Litigants shall be called at the time scheduled for considering their case.",
+    "source_ar_norm": "ينادي علي الخصوم في الوقت المعين لنظر قضيتهم.",
+    "target_en_norm": "litigants shall be called at the time scheduled for considering their case.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48275,
+    "source_ar": "المادة الرابعة والستون:",
+    "target_en": "Article 64",
+    "source_ar_norm": "المادة الرابعة والستون:",
+    "target_en_norm": "article 64",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48276,
+    "source_ar": "تكون المرافعة علنية، إلا إذا رأى القاضي - من تلقاء نفسه أو بناء على طلب أحد الخصوم - إجراءها سرًّا محافظة على النظام، أو مراعاة للآداب العامة، أو لحرمة الأسرة.",
+    "target_en": "Hearings shall be held in open court unless the judge, upon his own motion or the motion of one of the parties, holds the hearing in a closed session in order to maintain order, observe public morality or protect the privacy of the family.",
+    "source_ar_norm": "تكون المرافعة علنية، الا اذا راي القاضي - من تلقاء نفسه او بناء علي طلب احد الخصوم - اجراءها سرا محافظة علي النظام، او مراعاة للاداب العامة، او لحرمة الاسرة.",
+    "target_en_norm": "hearings shall be held in open court unless the judge, upon his own motion or the motion of one of the parties, holds the hearing in a closed session in order to maintain order, observe public morality or protect the privacy of the family.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48277,
+    "source_ar": "المادة الخامسة والستون:",
+    "target_en": "Article 65",
+    "source_ar_norm": "المادة الخامسة والستون:",
+    "target_en_norm": "article 65",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48278,
+    "source_ar": "1- تكون إجراءات نظر الدعوى والمرافعة فيها كتابة. وللمحكمة - من تلقاء نفسها أو بناءً على طلب أحد الخصوم - أن تسمع ما لدى الأطراف مشافهة. وتثبت المحكمة ذلك في محضر الجلسة.",
+    "target_en": "1. Proceedings and arguments shall be in writing; however, the court may, on its own motion or upon the petition of either litigants, hear oral arguments which shall be entered into the hearing transcript.",
+    "source_ar_norm": "1- تكون اجراءات نظر الدعوي والمرافعة فيها كتابة. وللمحكمة - من تلقاء نفسها او بناء علي طلب احد الخصوم - ان تسمع ما لدي الاطراف مشافهة. وتثبت المحكمة ذلك في محضر الجلسة.",
+    "target_en_norm": "1. proceedings and arguments shall be in writing; however, the court may, on its own motion or upon the petition of either litigants, hear oral arguments which shall be entered into the hearing transcript.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48279,
+    "source_ar": "2- على المحكمة أن تعطي الخصوم المهل المناسبة، للاطلاع على المستندات، كلما اقتضت الحال ذلك.",
+    "target_en": "2. The court shall, if necessary, allow litigants ample time to review documents.",
+    "source_ar_norm": "2- علي المحكمة ان تعطي الخصوم المهل المناسبة، للاطلاع علي المستندات، كلما اقتضت الحال ذلك.",
+    "target_en_norm": "2. the court shall, if necessary, allow litigants ample time to review documents.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48280,
+    "source_ar": "المادة السادسة والستون:",
+    "target_en": "Article 66",
+    "source_ar_norm": "المادة السادسة والستون:",
+    "target_en_norm": "article 66",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48281,
+    "source_ar": "على القاضي أن يسأل المدعي عما هو لازم لتحرير دعواه قبل استجواب المدعى عليه، وليس له السير فيها قبل ذلك، وإذا عجز المدعي عن تحريرها أو امتنع عن ذلك، فيحكم القاضي بصرف النظر عن الدعوى.",
+    "target_en": "The judge shall ask the plaintiff with regard to necessary aspects of his claim prior to questioning the defendant and may not otherwise proceed with the case. If the plaintiff is unable or unwilling to do so, the judge shall dismiss the case.",
+    "source_ar_norm": "علي القاضي ان يسال المدعي عما هو لازم لتحرير دعواه قبل استجواب المدعي عليه، وليس له السير فيها قبل ذلك، واذا عجز المدعي عن تحريرها او امتنع عن ذلك، فيحكم القاضي بصرف النظر عن الدعوي.",
+    "target_en_norm": "the judge shall ask the plaintiff with regard to necessary aspects of his claim prior to questioning the defendant and may not otherwise proceed with the case. if the plaintiff is unable or unwilling to do so, the judge shall dismiss the case.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48282,
+    "source_ar": "المادة السابعة والستون:",
+    "target_en": "Article 67",
+    "source_ar_norm": "المادة السابعة والستون:",
+    "target_en_norm": "article 67",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48283,
+    "source_ar": "إذا امتنع المدعى عليه عن الجواب كليًّا، أو أجاب بجواب غير ملاق للدعوى؛ كرر عليه القاضي طلب الجواب الصحيح ثلاثًا في الجلسة نفسها، فإذا أصر على ذلك عدّه ناكلًا بعد إنذاره، وأجرى في القضية المقتضى الشرعي.",
+    "target_en": "If the defendant categorically refuses to answer or gives answers not relevant to the case, the judge shall repeat the request for a correct answer three times in the same hearing. If the defendant persists, the judge shall caution him and then consider him to have declined, and shall proceed with the case in accordance with Sharia.",
+    "source_ar_norm": "اذا امتنع المدعي عليه عن الجواب كليا، او اجاب بجواب غير ملاق للدعوي؛ كرر عليه القاضي طلب الجواب الصحيح ثلاثا في الجلسة نفسها، فاذا اصر علي ذلك عده ناكلا بعد انذاره، واجري في القضية المقتضي الشرعي.",
+    "target_en_norm": "if the defendant categorically refuses to answer or gives answers not relevant to the case, the judge shall repeat the request for a correct answer three times in the same hearing. if the defendant persists, the judge shall caution him and then consider him to have declined, and shall proceed with the case in accordance with sharia.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48284,
+    "source_ar": "المادة الثامنة والستون:",
+    "target_en": "Article 68",
+    "source_ar_norm": "المادة الثامنة والستون:",
+    "target_en_norm": "article 68",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48285,
+    "source_ar": "إذا دفع أحد الطرفين بدفع صحيح وطلب الجواب من الطرف الآخر فاستمهل لأجله فللقاضي إمهاله متى رأى ضرورة ذلك، على أنه لا يجوز تكرار المهلة لجواب واحد إلا لعذر يقبله القاضي.",
+    "target_en": "If either party presents a valid defense and requests a response from the other party who asks for postponement, the judge may postpone the case if he deems it necessary, but postponement may not be granted again for responding to the same request except for a reason acceptable to the judge.",
+    "source_ar_norm": "اذا دفع احد الطرفين بدفع صحيح وطلب الجواب من الطرف الاخر فاستمهل لاجله فللقاضي امهاله متي راي ضرورة ذلك، علي انه لا يجوز تكرار المهلة لجواب واحد الا لعذر يقبله القاضي.",
+    "target_en_norm": "if either party presents a valid defense and requests a response from the other party who asks for postponement, the judge may postpone the case if he deems it necessary, but postponement may not be granted again for responding to the same request except for a reason acceptable to the judge.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48286,
+    "source_ar": "المادة التاسعة والستون:",
+    "target_en": "Article 69",
+    "source_ar_norm": "المادة التاسعة والستون:",
+    "target_en_norm": "article 69",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48287,
+    "source_ar": "يقفل باب المرافعة بمجرد انتهاء الخصوم من مرافعتهم، ومع ذلك فللمحكمة قبل النطق بالحكم أن تقرر - من تلقاء نفسها أو بناء على طلب أحد الخصوم - فتح باب المرافعة وإعادة قيد الدعوى في جدول الجلسات، وذلك لأسباب مقبولة.",
+    "target_en": "Arguments shall close once litigants conclude their arguments. The court may, prior to pronouncement of judgment, and for justifiable reasons, reopen arguments on its own motion or the motion of one of the litigants and re-enter the case in the docket.",
+    "source_ar_norm": "يقفل باب المرافعة بمجرد انتهاء الخصوم من مرافعتهم، ومع ذلك فللمحكمة قبل النطق بالحكم ان تقرر - من تلقاء نفسها او بناء علي طلب احد الخصوم - فتح باب المرافعة واعادة قيد الدعوي في جدول الجلسات، وذلك لاسباب مقبولة.",
+    "target_en_norm": "arguments shall close once litigants conclude their arguments. the court may, prior to pronouncement of judgment, and for justifiable reasons, reopen arguments on its own motion or the motion of one of the litigants and re-enter the case in the docket.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48288,
+    "source_ar": "المادة السبعون:",
+    "target_en": "Article 70",
+    "source_ar_norm": "المادة السبعون:",
+    "target_en_norm": "article 70",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48289,
+    "source_ar": "للخصوم أن يطلبوا من المحكمة في أي حال تكون عليها الدعوى تدوين ما اتفقوا عليه من إقرار أو صلح أو غير ذلك في محضر الدعوى، وعلى المحكمة إصدار صك بذلك.",
+    "target_en": "Litigants may, at any stage of the case, ask the court to enter agreed-upon acknowledgement, settlement, or the like in the case record, and the court shall issue a deed to that effect.",
+    "source_ar_norm": "للخصوم ان يطلبوا من المحكمة في اي حال تكون عليها الدعوي تدوين ما اتفقوا عليه من اقرار او صلح او غير ذلك في محضر الدعوي، وعلي المحكمة اصدار صك بذلك.",
+    "target_en_norm": "litigants may, at any stage of the case, ask the court to enter agreed-upon acknowledgement, settlement, or the like in the case record, and the court shall issue a deed to that effect.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48290,
+    "source_ar": "المادة الحادية والسبعون:",
+    "target_en": "Article 71",
+    "source_ar_norm": "المادة الحادية والسبعون:",
+    "target_en_norm": "article 71",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48291,
+    "source_ar": "يدوّن كاتب الضبط - تحت إشراف القاضي - وقائع المرافعة في الضبط، ويذكر تاريخ افتتاح كل مرافعة ووقته، ووقت اختتامها، ومستند نظر الدعوى، واسم القاضي، وأسماء الخصوم ووكلائهم، ثم يوقع عليه القاضي وكاتب الضبط ومن ذكرت أسماؤهم فيه، فإن امتنع أحد منهم عن التوقيع أثبت القاضي ذلك في ضبط الجلسة.",
+    "target_en": "The clerk shall, under the supervision of the judge, enter the minutes of the arguments in the record, stating the date and time of the beginning and end of each argument, grounds for reviewing the case, name of the judge and names of litigants and agents. The judge, clerk and persons whose names are mentioned therein shall sign the record. If any declines to sign, the judge shall indicate the same in the record of the hearing.",
+    "source_ar_norm": "يدون كاتب الضبط - تحت اشراف القاضي - وقائع المرافعة في الضبط، ويذكر تاريخ افتتاح كل مرافعة ووقته، ووقت اختتامها، ومستند نظر الدعوي، واسم القاضي، واسماء الخصوم ووكلائهم، ثم يوقع عليه القاضي وكاتب الضبط ومن ذكرت اسماؤهم فيه، فان امتنع احد منهم عن التوقيع اثبت القاضي ذلك في ضبط الجلسة.",
+    "target_en_norm": "the clerk shall, under the supervision of the judge, enter the minutes of the arguments in the record, stating the date and time of the beginning and end of each argument, grounds for reviewing the case, name of the judge and names of litigants and agents. the judge, clerk and persons whose names are mentioned therein shall sign the record. if any declines to sign, the judge shall indicate the same in the record of the hearing.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48292,
+    "source_ar": "المادة الثانية والسبعون:",
+    "target_en": "Article 72",
+    "source_ar_norm": "المادة الثانية والسبعون:",
+    "target_en_norm": "article 72",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48293,
+    "source_ar": "يجوز تدوين بيانات صحف الدعاوى والتبليغات ومحاضر الدعاوى والإنهاءات وغير ذلك إلكترونيًّا، ويكون لها حكم المحررات المكتوبة، وفقًا لنظام التعاملات الإلكترونية.",
+    "target_en": "Particulars provided in statements of claim, processes, case records, representations and the like, may be entered electronically and shall have the same legal effect as written documents in accordance with the Electronic Transactions Law.",
+    "source_ar_norm": "يجوز تدوين بيانات صحف الدعاوي والتبليغات ومحاضر الدعاوي والانهاءات وغير ذلك الكترونيا، ويكون لها حكم المحررات المكتوبة، وفقا لنظام التعاملات الالكترونية.",
+    "target_en_norm": "particulars provided in statements of claim, processes, case records, representations and the like, may be entered electronically and shall have the same legal effect as written documents in accordance with the electronic transactions law.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48294,
+    "source_ar": "المادة الثالثة والسبعون:",
+    "target_en": "Article 73",
+    "source_ar_norm": "المادة الثالثة والسبعون:",
+    "target_en_norm": "article 73",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48295,
+    "source_ar": "إدارة الجلسة وضبطها منوطان برئيسها، وله في سبيل ذلك أن يُخرج من قاعة الجلسة من يخلّ بنظامها، فإن لم يمتثل كان للمحكمة أن تأمر - على الفور - بحبسه مدة لا تزيد على أربع وعشرين ساعة، ويكون أمرها نهائيًا، وللمحكمة أن ترجع عن ذلك الأمر.",
+    "target_en": "1. The presiding judge shall be in charge of order and management of the hearing and may, for this purpose, remove from the courtroom any person who disturbs order. If such person does not comply, the court may immediately imprison him for a period not exceeding 24 hours. Its decision shall be final. The court may reverse such decision.",
+    "source_ar_norm": "ادارة الجلسة وضبطها منوطان برئيسها، وله في سبيل ذلك ان يخرج من قاعة الجلسة من يخل بنظامها، فان لم يمتثل كان للمحكمة ان تامر - علي الفور - بحبسه مدة لا تزيد علي اربع وعشرين ساعة، ويكون امرها نهائيا، وللمحكمة ان ترجع عن ذلك الامر.",
+    "target_en_norm": "1. the presiding judge shall be in charge of order and management of the hearing and may, for this purpose, remove from the courtroom any person who disturbs order. if such person does not comply, the court may immediately imprison him for a period not exceeding 24 hours. its decision shall be final. the court may reverse such decision.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48296,
+    "source_ar": "على رئيس الجلسة أن يأمر بكتابة محضر عن كل جريمة تقع أثناء انعقاد الجلسة، ثم إحالتها إلى هيئة التحقيق والادعاء العام لاستكمال ما يلزم نظامًا، وله أن يأمر بالقبض على من وقعت منه الجريمة.",
+    "target_en": "2. In the event of a crime committed while the court is in session, the presiding judge shall order the recording of the crime and refer the same to the Bureau of Investigation and Public Prosecution for necessary legal action. He may also order the arrest of the offender.",
+    "source_ar_norm": "علي رئيس الجلسة ان يامر بكتابة محضر عن كل جريمة تقع اثناء انعقاد الجلسة، ثم احالتها الي هيئة التحقيق والادعاء العام لاستكمال ما يلزم نظاما، وله ان يامر بالقبض علي من وقعت منه الجريمة.",
+    "target_en_norm": "2. in the event of a crime committed while the court is in session, the presiding judge shall order the recording of the crime and refer the same to the bureau of investigation and public prosecution for necessary legal action. he may also order the arrest of the offender.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48297,
+    "source_ar": "تنظر المحكمة التي أصدرت الحكم دعوى التعويض عن الأضرار الناتجة من المماطلة في أداء الحقوق محل الدعوى.",
+    "target_en": "3. The court rendering the judgment shall review claims for damages resulting from repeated default in fulfillment of liabilities subject of the case.",
+    "source_ar_norm": "تنظر المحكمة التي اصدرت الحكم دعوي التعويض عن الاضرار الناتجة من المماطلة في اداء الحقوق محل الدعوي.",
+    "target_en_norm": "3. the court rendering the judgment shall review claims for damages resulting from repeated default in fulfillment of liabilities subject of the case.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48298,
+    "source_ar": "المادة الرابعة والسبعون:",
+    "target_en": "Article 74",
+    "source_ar_norm": "المادة الرابعة والسبعون:",
+    "target_en_norm": "article 74",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48299,
+    "source_ar": "رئيس الجلسة هو الذي يتولى توجيه الأسئلة إلى الخصوم والشهود وغيرهم ممن له صلة بالدعوى، ولأعضاء الدائرة المشتركين معه في الجلسة والخصوم أن يطلبوا منه توجيه ما يريدون توجيهه من أسئلة متصلة بالدعوى. ويجوز للرئيس أن يعهد إلى أحد الأعضاء بتوجيه الأسئلة إلى أي من الخصوم والشهود وغيرهم.",
+    "target_en": "The presiding judge shall be in charge of directing questions to litigants, witnesses and other persons related to the suit. Other circuit judges participating in the hearing as well as litigants may petition him to direct questions relating to the suit. The presiding judge may delegate the questioning of litigants, witnesses and others to any member of the panel.",
+    "source_ar_norm": "رئيس الجلسة هو الذي يتولي توجيه الاسئلة الي الخصوم والشهود وغيرهم ممن له صلة بالدعوي، ولاعضاء الدائرة المشتركين معه في الجلسة والخصوم ان يطلبوا منه توجيه ما يريدون توجيهه من اسئلة متصلة بالدعوي. ويجوز للرئيس ان يعهد الي احد الاعضاء بتوجيه الاسئلة الي اي من الخصوم والشهود وغيرهم.",
+    "target_en_norm": "the presiding judge shall be in charge of directing questions to litigants, witnesses and other persons related to the suit. other circuit judges participating in the hearing as well as litigants may petition him to direct questions relating to the suit. the presiding judge may delegate the questioning of litigants, witnesses and others to any member of the panel.",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  },
+  {
+    "id": 48300,
+    "source_ar": "الباب السادس (الدفوع والإدخال والتدخل والطلبات العارضة)",
+    "target_en": "Part 6: Motions, Joinder, Intervention and Incidental Petitions",
+    "source_ar_norm": "الباب السادس (الدفوع والادخال والتدخل والطلبات العارضة)",
+    "target_en_norm": "part 6: motions, joinder, intervention and incidental petitions",
+    "file_name": "نظام المرافعات الشرعية.docx"
+  }
+]

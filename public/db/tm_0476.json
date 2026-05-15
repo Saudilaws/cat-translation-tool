@@ -1,0 +1,802 @@
+[
+  {
+    "id": 47501,
+    "source_ar": "5. لا يضار المعترِض باعتراضه.",
+    "target_en": "5. The appellant shall not be harmed by his appeal.",
+    "source_ar_norm": "5. لا يضار المعترض باعتراضه.",
+    "target_en_norm": "5. the appellant shall not be harmed by his appeal.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47502,
+    "source_ar": "المادة الخامسة والسبعون",
+    "target_en": "Article 75",
+    "source_ar_norm": "المادة الخامسة والسبعون",
+    "target_en_norm": "article 75",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47503,
+    "source_ar": "يُعَدُّ العنوان المُقيَّد في بيانات الدعوى عنواناً للتبليغ في الاعتراض بطريق الاستئناف.",
+    "target_en": "In cases of appeal, notices shall be served to the address registered in the case file.",
+    "source_ar_norm": "يعد العنوان المقيد في بيانات الدعوي عنوانا للتبليغ في الاعتراض بطريق الاستئناف.",
+    "target_en_norm": "in cases of appeal, notices shall be served to the address registered in the case file.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47504,
+    "source_ar": "المادة السادسة والسبعون",
+    "target_en": "Article 76",
+    "source_ar_norm": "المادة السادسة والسبعون",
+    "target_en_norm": "article 76",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47505,
+    "source_ar": "1. يجب أن تتضمن نسخة الحكم الصادر في الاعتراض -بالإضافة إلى البيانات الأساسية المذكورة في المادة (الثانية والستين) من النظام- الآتي:",
+    "target_en": "1. A copy of the judgment rendered on an appeal shall, in addition to the basic information stipulated in Article 62 of this Law, include:",
+    "source_ar_norm": "1. يجب ان تتضمن نسخة الحكم الصادر في الاعتراض -بالاضافة الي البيانات الاساسية المذكورة في المادة (الثانية والستين) من النظام- الاتي:",
+    "target_en_norm": "1. a copy of the judgment rendered on an appeal shall, in addition to the basic information stipulated in article 62 of this law, include:",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47506,
+    "source_ar": "أ- ملخص وافٍ للاعتراض يشتمل على: طلبات المعترض، ومنطوق الحكم المعترض عليه، وحاصل الأسباب التي بُني عليها الاعتراض، والطلبات في الدعوى المعترض على حكمها.",
+    "target_en": "a) a summary of the appeal which includes: petitions of the appellant, pronouncement of the judgment, grounds of the appeal, and claims in the original case; and",
+    "source_ar_norm": "ا- ملخص واف للاعتراض يشتمل علي: طلبات المعترض، ومنطوق الحكم المعترض عليه، وحاصل الاسباب التي بني عليها الاعتراض، والطلبات في الدعوي المعترض علي حكمها.",
+    "target_en_norm": "a) a summary of the appeal which includes: petitions of the appellant, pronouncement of the judgment, grounds of the appeal, and claims in the original case; and",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47507,
+    "source_ar": "ب- الرد على ما تضمنه طلب الاعتراض من دفوع جوهرية، ما لم يكن الحكم المعترض عليه قد تضمن الرد عليها.",
+    "target_en": "b) a response to the primary defenses in the appeal, unless such response is already included in the appealed judgment.",
+    "source_ar_norm": "ب- الرد علي ما تضمنه طلب الاعتراض من دفوع جوهرية، ما لم يكن الحكم المعترض عليه قد تضمن الرد عليها.",
+    "target_en_norm": "b) a response to the primary defenses in the appeal, unless such response is already included in the appealed judgment.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47508,
+    "source_ar": "2. تجوز الإحالة إلى وقائع وأسباب الحكم المعترض عليه، إذا كان الحكم المحال إليه موضحة وقائعه وأسبابه بما يكفي للإحالة عليها.",
+    "target_en": "2. The facts and reasoning of the appealed judgment may be cited if they are sufficient for citation.",
+    "source_ar_norm": "2. تجوز الاحالة الي وقائع واسباب الحكم المعترض عليه، اذا كان الحكم المحال اليه موضحة وقائعه واسبابه بما يكفي للاحالة عليها.",
+    "target_en_norm": "2. the facts and reasoning of the appealed judgment may be cited if they are sufficient for citation.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47509,
+    "source_ar": "المادة السابعة والسبعون",
+    "target_en": "Article 77",
+    "source_ar_norm": "المادة السابعة والسبعون",
+    "target_en_norm": "article 77",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47510,
+    "source_ar": "الأحكام النهائية -التي حازت حجية الأمر المقضي- حجةٌ فيما فصلت فيه من الخصومة، ولا تكون لتلك الأحكام هذه الحجية إلا في نزاع قام بين الخصوم أنفسهم دون أن تتغير صفاتهم وتعلق بالحق ذاته محلاً وسبباً، وتقضي المحكمة بهذه الحجية من تلقاء نفسها.",
+    "target_en": "Final judgments, which have acquired res judicata, shall have the authority to end the dispute; such judgment shall have such authority only if the dispute involves the same parties with the same capacity and relates to the same subject matter. The commercial court shall cite this authority on its own motion.",
+    "source_ar_norm": "الاحكام النهائية -التي حازت حجية الامر المقضي- حجة فيما فصلت فيه من الخصومة، ولا تكون لتلك الاحكام هذه الحجية الا في نزاع قام بين الخصوم انفسهم دون ان تتغير صفاتهم وتعلق بالحق ذاته محلا وسببا، وتقضي المحكمة بهذه الحجية من تلقاء نفسها.",
+    "target_en_norm": "final judgments, which have acquired res judicata, shall have the authority to end the dispute; such judgment shall have such authority only if the dispute involves the same parties with the same capacity and relates to the same subject matter. the commercial court shall cite this authority on its own motion.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47511,
+    "source_ar": "الفصل الثاني: الاستئناف",
+    "target_en": "Chapter 2: Appeal",
+    "source_ar_norm": "الفصل الثاني: الاستئناف",
+    "target_en_norm": "chapter 2: appeal",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47512,
+    "source_ar": "المادة الثامنة والسبعون",
+    "target_en": "Article 78",
+    "source_ar_norm": "المادة الثامنة والسبعون",
+    "target_en_norm": "article 78",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47513,
+    "source_ar": "1. فيما لم يرد فيه نص خاص، تعدّ جميع الأحكام والقرارات الصادرة من الدوائر الابتدائية في المحكمة قابلة للاستئناف فيما عدا الدعاوى اليسيرة التي لا تزيد على خمسين ألف ريال، وفق ما يحدده المجلس.",
+    "target_en": "1. Absent a specific provision, all judgments and decisions issued by the circuits of first instance at the commercial court shall be appealable, except for judgments in cases which do not exceed 50,000 riyals, as determined by the Council.",
+    "source_ar_norm": "1. فيما لم يرد فيه نص خاص، تعد جميع الاحكام والقرارات الصادرة من الدوائر الابتدائية في المحكمة قابلة للاستئناف فيما عدا الدعاوي اليسيرة التي لا تزيد علي خمسين الف ريال، وفق ما يحدده المجلس.",
+    "target_en_norm": "1. absent a specific provision, all judgments and decisions issued by the circuits of first instance at the commercial court shall be appealable, except for judgments in cases which do not exceed 50,000 riyals, as determined by the council.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47514,
+    "source_ar": "2. يحدد المجلس الأحكام التي يكتفى بنظر الاستئناف فيها دون مرافعة.",
+    "target_en": "2. The Council shall determine the judgments the appeals of which are reviewed without hearings.",
+    "source_ar_norm": "2. يحدد المجلس الاحكام التي يكتفي بنظر الاستئناف فيها دون مرافعة.",
+    "target_en_norm": "2. the council shall determine the judgments the appeals of which are reviewed without hearings.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47515,
+    "source_ar": "3. إذا كان الحكم الذي ينظر دون مرافعة -وفق أحكام الفقرة (2) من هذه المادة- موافقاً في نتيجته لأصوله؛ أيدته المحكمة مع إضافة ما تراه من أسباب. أما إذا ألغته فتحكم فيما أُلغي بعد مرافعة. وفي جميع الأحوال لا يحكم بالتأييد، أو بأي حكم بعد الإلغاء، إلا في جلسة علنية يبلغ بها الأطراف.",
+    "target_en": "3. If the judgment reviewed without a hearing, as specified in paragraph (2) of this Article, is consistent with its reasoning, the court shall affirm such judgment and may add additional reasoning; however, if the court revokes such judgment, it shall rule on the revoked part after conducting a hearing thereon. In all cases, the court shall not uphold a judgment or render a judgment after the revocation, except in an open hearing of which the parties are notified.",
+    "source_ar_norm": "3. اذا كان الحكم الذي ينظر دون مرافعة -وفق احكام الفقرة (2) من هذه المادة- موافقا في نتيجته لاصوله؛ ايدته المحكمة مع اضافة ما تراه من اسباب. اما اذا الغته فتحكم فيما الغي بعد مرافعة. وفي جميع الاحوال لا يحكم بالتاييد، او باي حكم بعد الالغاء، الا في جلسة علنية يبلغ بها الاطراف.",
+    "target_en_norm": "3. if the judgment reviewed without a hearing, as specified in paragraph (2) of this article, is consistent with its reasoning, the court shall affirm such judgment and may add additional reasoning; however, if the court revokes such judgment, it shall rule on the revoked part after conducting a hearing thereon. in all cases, the court shall not uphold a judgment or render a judgment after the revocation, except in an open hearing of which the parties are notified.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47516,
+    "source_ar": "المادة التاسعة والسبعون",
+    "target_en": "Article 79",
+    "source_ar_norm": "المادة التاسعة والسبعون",
+    "target_en_norm": "article 79",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47517,
+    "source_ar": "1. تكون المهلة المحددة للاستئناف على الأحكام (ثلاثين) يوماً من التاريخ المحدد لتسليم صورة نسخة الحكم.",
+    "target_en": "1. Judgments may be appealed within 30 days from the date specified for delivery of the copy of the judgment.",
+    "source_ar_norm": "1. تكون المهلة المحددة للاستئناف علي الاحكام (ثلاثين) يوما من التاريخ المحدد لتسليم صورة نسخة الحكم.",
+    "target_en_norm": "1. judgments may be appealed within 30 days from the date specified for delivery of the copy of the judgment.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47518,
+    "source_ar": "2. تكون المهلة المحددة للاستئناف على الأحكام الصادرة في الاختصاص وعلى الأحكام الصادرة في الدعاوى المستعجلة، (عشرة) أيام من التاريخ المحدد لتسليم صورة نسخة الحكم.",
+    "target_en": "2. Judgments on lack of jurisdiction and judgments in urgent cases may be appealed within 10 days from the date specified for delivery of the copy of the judgment.",
+    "source_ar_norm": "2. تكون المهلة المحددة للاستئناف علي الاحكام الصادرة في الاختصاص وعلي الاحكام الصادرة في الدعاوي المستعجلة، (عشرة) ايام من التاريخ المحدد لتسليم صورة نسخة الحكم.",
+    "target_en_norm": "2. judgments on lack of jurisdiction and judgments in urgent cases may be appealed within 10 days from the date specified for delivery of the copy of the judgment.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47519,
+    "source_ar": "3. ترفع الإدارة المختصة الاستئناف المنصوص عليه في الفقرة (2) من هذه المادة في اليوم التالي لتقديمه، وتفصل فيه دائرة الاستئناف خلال (خمسة) أيام عمل من تاريخ إحالته إليها.",
+    "target_en": "3. The relevant department shall refer the appeal stipulated in paragraph (2) of this Article on the day following the date of filing to the appellate circuit which shall decide thereon within five working days from the date of receipt.",
+    "source_ar_norm": "3. ترفع الادارة المختصة الاستئناف المنصوص عليه في الفقرة (2) من هذه المادة في اليوم التالي لتقديمه، وتفصل فيه دائرة الاستئناف خلال (خمسة) ايام عمل من تاريخ احالته اليها.",
+    "target_en_norm": "3. the relevant department shall refer the appeal stipulated in paragraph (2) of this article on the day following the date of filing to the appellate circuit which shall decide thereon within five working days from the date of receipt.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47520,
+    "source_ar": "4. لا يقبل الحكم النهائي الصادر في اختصاص المحكمة نوعيًّا أو مكانيًّا الاعتراضَ بأي طريق.",
+    "target_en": "4. A final judgment rendered on the territorial or subject-matter jurisdiction of the commercial court may not be appealed.",
+    "source_ar_norm": "4. لا يقبل الحكم النهائي الصادر في اختصاص المحكمة نوعيا او مكانيا الاعتراض باي طريق.",
+    "target_en_norm": "4. a final judgment rendered on the territorial or subject-matter jurisdiction of the commercial court may not be appealed.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47521,
+    "source_ar": "المادة الثمانون",
+    "target_en": "Article 80",
+    "source_ar_norm": "المادة الثمانون",
+    "target_en_norm": "article 80",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47522,
+    "source_ar": "تختص دائرة الاستئناف المكونة من قاضٍ فرد في المحكمة بالنظر في الآتي:",
+    "target_en": "The appellate circuit of the commercial court composed of a single judge shall have the jurisdiction to consider:",
+    "source_ar_norm": "تختص دائرة الاستئناف المكونة من قاض فرد في المحكمة بالنظر في الاتي:",
+    "target_en_norm": "the appellate circuit of the commercial court composed of a single judge shall have the jurisdiction to consider:",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47523,
+    "source_ar": "1. الاعتراض على الأحكام والقرارات الصادرة من الدوائر الابتدائية المكونة من قاضٍ فرد المتعلقة بالدعاوى والطلبات المستعجلة.",
+    "target_en": "1. appeals to judgments and decisions issued by circuits of first instance composed of a single judge relating to urgent cases and petitions;",
+    "source_ar_norm": "1. الاعتراض علي الاحكام والقرارات الصادرة من الدوائر الابتدائية المكونة من قاض فرد المتعلقة بالدعاوي والطلبات المستعجلة.",
+    "target_en_norm": "1. appeals to judgments and decisions issued by circuits of first instance composed of a single judge relating to urgent cases and petitions;",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47524,
+    "source_ar": "2. الاعتراض على أوامر الأداء الصادرة بموجب أحكام النظام.",
+    "target_en": "2. appeals to debt satisfaction orders issued under this Law;",
+    "source_ar_norm": "2. الاعتراض علي اوامر الاداء الصادرة بموجب احكام النظام.",
+    "target_en_norm": "2. appeals to debt satisfaction orders issued under this law;",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47525,
+    "source_ar": "3. الاعتراض على الأحكام الصادرة بانتهاء الخصومة أو تركها.",
+    "target_en": "3. appeals to judgments of case termination or abandonment; and",
+    "source_ar_norm": "3. الاعتراض علي الاحكام الصادرة بانتهاء الخصومة او تركها.",
+    "target_en_norm": "3. appeals to judgments of case termination or abandonment; and",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47526,
+    "source_ar": "4. الاعتراضات الأخرى التي يحددها المجلس.",
+    "target_en": "4. other appeals determined by the Council.",
+    "source_ar_norm": "4. الاعتراضات الاخري التي يحددها المجلس.",
+    "target_en_norm": "4. other appeals determined by the council.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47527,
+    "source_ar": "المادة الحادية والثمانون",
+    "target_en": "Article 81",
+    "source_ar_norm": "المادة الحادية والثمانون",
+    "target_en_norm": "article 81",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47528,
+    "source_ar": "1. يُرفع الاستئناف بصحيفة يودعها المستأنِف أو مَن يمثله لدى الإدارة المختصة، على أن تتضمن الصحيفة: بيانات الحكم المستأنَف، وأسباب الاستئناف، وطلبات المستأنِف، والبيانات الأخرى التي تحددها اللائحة.",
+    "target_en": "1. An appeal shall be filed by means of a memorandum deposited by the appellant or his representative with the relevant department. Said memorandum shall include particulars of the appealed judgment, grounds for appeal, claims of the appellant, and any other information determined by the Regulations.",
+    "source_ar_norm": "1. يرفع الاستئناف بصحيفة يودعها المستانف او من يمثله لدي الادارة المختصة، علي ان تتضمن الصحيفة: بيانات الحكم المستانف، واسباب الاستئناف، وطلبات المستانف، والبيانات الاخري التي تحددها اللائحة.",
+    "target_en_norm": "1. an appeal shall be filed by means of a memorandum deposited by the appellant or his representative with the relevant department. said memorandum shall include particulars of the appealed judgment, grounds for appeal, claims of the appellant, and any other information determined by the regulations.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47529,
+    "source_ar": "2. تقيد الإدارة المختصة الاستئناف وتحدد -بحسب الأحوال- موعد جلسة نظره فور تقديمه، وتحيله إلى دائرة الاستئناف مرافقاً له ملف الدعوى، وتبلغ المستأنف ضده بصحيفة الاستئناف.",
+    "target_en": "2. The relevant department shall register the petition for appeal; set, as the case may be, a date for its hearing immediately after filing; refer it to the appellate circuit along with the case file; and notify the appellee of the memorandum of the appeal.",
+    "source_ar_norm": "2. تقيد الادارة المختصة الاستئناف وتحدد -بحسب الاحوال- موعد جلسة نظره فور تقديمه، وتحيله الي دائرة الاستئناف مرافقا له ملف الدعوي، وتبلغ المستانف ضده بصحيفة الاستئناف.",
+    "target_en_norm": "2. the relevant department shall register the petition for appeal; set, as the case may be, a date for its hearing immediately after filing; refer it to the appellate circuit along with the case file; and notify the appellee of the memorandum of the appeal.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47530,
+    "source_ar": "المادة الثانية والثمانون",
+    "target_en": "Article 82",
+    "source_ar_norm": "المادة الثانية والثمانون",
+    "target_en_norm": "article 82",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47531,
+    "source_ar": "1. ينقل الاستئناف الدعوى بحالتها التي كانت عليها قبل صدور الحكم المستأنف بالنسبة إلى ما رُفع عنه الاستئناف فقط، وتنظر المحكمة الاستئناف على أساس ما قدم إلى الدائرة مصدرة الحكم، وما تقبله المحكمة من أدلة ودفوع وأوجه دفاع جديدة.",
+    "target_en": "1. An appeal shall restore the case to the status it had prior to the issuance of the judgment in relation to the appealed parts thereof. The commercial court shall review the appeal on the basis of the submissions made to the circuit of first instance that rendered the judgment and any pleadings and defenses the court accepts.",
+    "source_ar_norm": "1. ينقل الاستئناف الدعوي بحالتها التي كانت عليها قبل صدور الحكم المستانف بالنسبة الي ما رفع عنه الاستئناف فقط، وتنظر المحكمة الاستئناف علي اساس ما قدم الي الدائرة مصدرة الحكم، وما تقبله المحكمة من ادلة ودفوع واوجه دفاع جديدة.",
+    "target_en_norm": "1. an appeal shall restore the case to the status it had prior to the issuance of the judgment in relation to the appealed parts thereof. the commercial court shall review the appeal on the basis of the submissions made to the circuit of first instance that rendered the judgment and any pleadings and defenses the court accepts.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47532,
+    "source_ar": "2. مع مراعاة ما نصت عليه الفقرة (1) من هذه المادة، يجوز مع استئناف الحكم المنهي للخصومة استئنافُ جميع ما سبق صدوره في الدعوى نفسها.",
+    "target_en": "2. Subject to paragraph (1) of this Article, a judgment ending the dispute may be appealed along with all previous rulings issued in the same case.",
+    "source_ar_norm": "2. مع مراعاة ما نصت عليه الفقرة (1) من هذه المادة، يجوز مع استئناف الحكم المنهي للخصومة استئناف جميع ما سبق صدوره في الدعوي نفسها.",
+    "target_en_norm": "2. subject to paragraph (1) of this article, a judgment ending the dispute may be appealed along with all previous rulings issued in the same case.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47533,
+    "source_ar": "3. لا تُقبل الطلبات الجديدة في الاستئناف، وتحكم محكمة الاستئناف من تلقاء نفسها بعدم قبولـها. ومع ذلك يجوز أن يضاف إلى الطلب الأصلي ما يزيد من التعويضات أو الأرباح أو الأجرة التي تُستحق بعد تقديم الطلبات الختامية.",
+    "target_en": "3. New demands may not be accepted in the appeal, and the court of appeals shall have the jurisdiction not to accept such demands; however, additional damages, profits, or payments which became due after the final demands were submitted may be added to the original petition.",
+    "source_ar_norm": "3. لا تقبل الطلبات الجديدة في الاستئناف، وتحكم محكمة الاستئناف من تلقاء نفسها بعدم قبولها. ومع ذلك يجوز ان يضاف الي الطلب الاصلي ما يزيد من التعويضات او الارباح او الاجرة التي تستحق بعد تقديم الطلبات الختامية.",
+    "target_en_norm": "3. new demands may not be accepted in the appeal, and the court of appeals shall have the jurisdiction not to accept such demands; however, additional damages, profits, or payments which became due after the final demands were submitted may be added to the original petition.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47534,
+    "source_ar": "المادة الثالثة والثمانون",
+    "target_en": "Article 83",
+    "source_ar_norm": "المادة الثالثة والثمانون",
+    "target_en_norm": "article 83",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47535,
+    "source_ar": "يجوز للمستأنف ضده -إلى ما قبل إقفال المرافعة- أن يرفع استئنافاً فرعيًّا يتبع الاستئناف الأصلي، ويزول بزواله، وذلك بالإجراءات المعتادة أو بمذكرة مشتملة على أسباب استئنافه.",
+    "target_en": "An appellee may, prior to closing of arguments, file a counter appeal which shall be linked to the original appeal, in accordance with the applicable procedures or by a memorandum that includes grounds for his appeal.",
+    "source_ar_norm": "يجوز للمستانف ضده -الي ما قبل اقفال المرافعة- ان يرفع استئنافا فرعيا يتبع الاستئناف الاصلي، ويزول بزواله، وذلك بالاجراءات المعتادة او بمذكرة مشتملة علي اسباب استئنافه.",
+    "target_en_norm": "an appellee may, prior to closing of arguments, file a counter appeal which shall be linked to the original appeal, in accordance with the applicable procedures or by a memorandum that includes grounds for his appeal.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47536,
+    "source_ar": "المادة الرابعة والثمانون",
+    "target_en": "Article 84",
+    "source_ar_norm": "المادة الرابعة والثمانون",
+    "target_en_norm": "article 84",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47537,
+    "source_ar": "إذا لم يحضر المستأنِف الجلسة المحددة جاز للمحكمة الآتي:",
+    "target_en": "If an appellant fails to appear at the scheduled hearing, the commercial court may:",
+    "source_ar_norm": "اذا لم يحضر المستانف الجلسة المحددة جاز للمحكمة الاتي:",
+    "target_en_norm": "if an appellant fails to appear at the scheduled hearing, the commercial court may:",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47538,
+    "source_ar": "1. أن تحكم في الاستئناف؛ إذا كانت القضية صالحة للحكم فيها، أو طلب المستأنف ضده الحكم فيها.",
+    "target_en": "1. rule on the appeal if the case is ripe for judgment or if the appellee so requests; and",
+    "source_ar_norm": "1. ان تحكم في الاستئناف؛ اذا كانت القضية صالحة للحكم فيها، او طلب المستانف ضده الحكم فيها.",
+    "target_en_norm": "1. rule on the appeal if the case is ripe for judgment or if the appellee so requests; and",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47539,
+    "source_ar": "2. تأجيل الجلسة بما لا يزيد على (ثلاثين) يوماً، فإذا لم يحضر فيها المستأنف حكمت المحكمة من تلقاء نفسها باعتبار استئنافه كأن لم يكن.",
+    "target_en": "2. adjourn the hearing for a period not exceeding 30 days. If the appellant fails to appear again, it shall, on its own motion, rule on the appeal as null and void.",
+    "source_ar_norm": "2. تاجيل الجلسة بما لا يزيد علي (ثلاثين) يوما، فاذا لم يحضر فيها المستانف حكمت المحكمة من تلقاء نفسها باعتبار استئنافه كان لم يكن.",
+    "target_en_norm": "2. adjourn the hearing for a period not exceeding 30 days. if the appellant fails to appear again, it shall, on its own motion, rule on the appeal as null and void.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47540,
+    "source_ar": "المادة الخامسة والثمانون",
+    "target_en": "Article 85",
+    "source_ar_norm": "المادة الخامسة والثمانون",
+    "target_en_norm": "article 85",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47541,
+    "source_ar": "1. يجب على دائرة الاستئناف -في حال إلغاء الحكم في الطلب الأصلي- أن تعيد القضية إلى الدائرة الابتدائية لتفصل في الطلبات الاحتياطية.",
+    "target_en": "1. An appellate circuit shall, in case of revoking the judgment in the original petition, refer the case back to the circuit of first instance to decide on alternative demands.",
+    "source_ar_norm": "1. يجب علي دائرة الاستئناف -في حال الغاء الحكم في الطلب الاصلي- ان تعيد القضية الي الدائرة الابتدائية لتفصل في الطلبات الاحتياطية.",
+    "target_en_norm": "1. an appellate circuit shall, in case of revoking the judgment in the original petition, refer the case back to the circuit of first instance to decide on alternative demands.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47542,
+    "source_ar": "2. يجب على دائرة الاستئناف إذا ألغت الحكم الصادر بعدم الاختصاص في نظر الدعوى، أو بعدم جواز نظرها، أو بعدم سماعها لمضي المدة، أو عدم قبولها شكلاً، أو بقبول دفع فرعي ترتب عليه منع السير فيها؛ أن تعيده إلى الدائرة التي أصدرته للفصل في موضوعه.",
+    "target_en": "2. If an appellate circuit revokes a judgment relating to lack of jurisdiction, inadmissibility to review a case, non-hearing of a case due to the lapse of the statutory period, dismissal of a case in form, or admission of a partial defense ending court proceedings, it shall refer the case back to the issuing circuit to rule on the subject matter.",
+    "source_ar_norm": "2. يجب علي دائرة الاستئناف اذا الغت الحكم الصادر بعدم الاختصاص في نظر الدعوي، او بعدم جواز نظرها، او بعدم سماعها لمضي المدة، او عدم قبولها شكلا، او بقبول دفع فرعي ترتب عليه منع السير فيها؛ ان تعيده الي الدائرة التي اصدرته للفصل في موضوعه.",
+    "target_en_norm": "2. if an appellate circuit revokes a judgment relating to lack of jurisdiction, inadmissibility to review a case, non-hearing of a case due to the lapse of the statutory period, dismissal of a case in form, or admission of a partial defense ending court proceedings, it shall refer the case back to the issuing circuit to rule on the subject matter.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47543,
+    "source_ar": "الفصل الثالث: التماس إعادة النظر",
+    "target_en": "Chapter 3: Motion for Reconsideration",
+    "source_ar_norm": "الفصل الثالث: التماس اعادة النظر",
+    "target_en_norm": "chapter 3: motion for reconsideration",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47544,
+    "source_ar": "المادة السادسة والثمانون",
+    "target_en": "Article 86",
+    "source_ar_norm": "المادة السادسة والثمانون",
+    "target_en_norm": "article 86",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47545,
+    "source_ar": "يجوز تقديم التماس إعادة النظر في الأحكام النهائية - الصادرة بموجب النظام - في الأحوال المنصوص عليها في نظام المرافعات الشرعية.",
+    "target_en": "A motion for reconsideration of final judgments, rendered pursuant to this Law, may be filed in the cases provided for in the Law of Civil Procedure.",
+    "source_ar_norm": "يجوز تقديم التماس اعادة النظر في الاحكام النهائية - الصادرة بموجب النظام - في الاحوال المنصوص عليها في نظام المرافعات الشرعية.",
+    "target_en_norm": "a motion for reconsideration of final judgments, rendered pursuant to this law, may be filed in the cases provided for in the law of civil procedure.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47546,
+    "source_ar": "المادة السابعة والثمانون",
+    "target_en": "Article 87",
+    "source_ar_norm": "المادة السابعة والثمانون",
+    "target_en_norm": "article 87",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47547,
+    "source_ar": "يرفع التماس إعادة النظر بصحيفة يودعها الملتمس أو مَن يمثله لدى المحكمة التي أصدرت الحكم النهائي، وفقاً للإجراءات المقررة لرفع الدعوى. على أن تتضمن الصحيفة بيانات الحكم المطلوب إعادة النظر فيه، وملخصاً عنه، وأسباب الطلب.",
+    "target_en": "A motion for reconsideration shall be made by means of a memorandum filed by the petitioner or his representative with the commercial court that rendered the final judgment, in accordance with applicable case-filing procedures. Such memorandum shall contain the particulars of the judgment sought to be reconsidered, a summary thereof, and the grounds for said motion.",
+    "source_ar_norm": "يرفع التماس اعادة النظر بصحيفة يودعها الملتمس او من يمثله لدي المحكمة التي اصدرت الحكم النهائي، وفقا للاجراءات المقررة لرفع الدعوي. علي ان تتضمن الصحيفة بيانات الحكم المطلوب اعادة النظر فيه، وملخصا عنه، واسباب الطلب.",
+    "target_en_norm": "a motion for reconsideration shall be made by means of a memorandum filed by the petitioner or his representative with the commercial court that rendered the final judgment, in accordance with applicable case-filing procedures. such memorandum shall contain the particulars of the judgment sought to be reconsidered, a summary thereof, and the grounds for said motion.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47548,
+    "source_ar": "الفصل الرابع: النقض",
+    "target_en": "Chapter 4: Cassation",
+    "source_ar_norm": "الفصل الرابع: النقض",
+    "target_en_norm": "chapter 4: cassation",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47549,
+    "source_ar": "المادة الثامنة والثمانون",
+    "target_en": "Article 88",
+    "source_ar_norm": "المادة الثامنة والثمانون",
+    "target_en_norm": "article 88",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47550,
+    "source_ar": "تختص الدائرة التجارية في المحكمة العليا بالنظر في الاعتراضات على الأحكام والقرارات التي تصدرها دوائر الاستئناف في المحكمة؛ إذا كان محل الاعتراض على الحكم ما يأتي:",
+    "target_en": "The commercial circuit at the Supreme Court shall have jurisdiction to review appeals to judgments and decisions made by appellate circuits if the subject of the appeal is:",
+    "source_ar_norm": "تختص الدائرة التجارية في المحكمة العليا بالنظر في الاعتراضات علي الاحكام والقرارات التي تصدرها دوائر الاستئناف في المحكمة؛ اذا كان محل الاعتراض علي الحكم ما ياتي:",
+    "target_en_norm": "the commercial circuit at the supreme court shall have jurisdiction to review appeals to judgments and decisions made by appellate circuits if the subject of the appeal is:",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47551,
+    "source_ar": "1. مخالفة أحكام الشريعة الإسلامية أو الأنظمة، أو الخطأ في تطبيقها أو تأويلها، أو مخالفة مبدأ قضائي صادر من المحكمة العليا.",
+    "target_en": "1. a violation, misapplication, or misinterpretation of the provisions of Sharia or law, or a breach of any of the Supreme Court judicial principles;",
+    "source_ar_norm": "1. مخالفة احكام الشريعة الاسلامية او الانظمة، او الخطا في تطبيقها او تاويلها، او مخالفة مبدا قضائي صادر من المحكمة العليا.",
+    "target_en_norm": "1. a violation, misapplication, or misinterpretation of the provisions of sharia or law, or a breach of any of the supreme court judicial principles;",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47552,
+    "source_ar": "2. صدوره من محكمة غير مختصة، أو صدوره من محكمة غير مشكلة تشكيلاً صحيحاً وفق أحكام النظام.",
+    "target_en": "2. a judgment rendered by an incompetent court, or by a court not properly formed in accordance with the law;",
+    "source_ar_norm": "2. صدوره من محكمة غير مختصة، او صدوره من محكمة غير مشكلة تشكيلا صحيحا وفق احكام النظام.",
+    "target_en_norm": "2. a judgment rendered by an incompetent court, or by a court not properly formed in accordance with the law;",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47553,
+    "source_ar": "3. الخطأ في تكييف الواقعة أو في وصفها.",
+    "target_en": "3. a fault in characterizing or describing a case; and",
+    "source_ar_norm": "3. الخطا في تكييف الواقعة او في وصفها.",
+    "target_en_norm": "3. a fault in characterizing or describing a case; and",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47554,
+    "source_ar": "4. فصله في نزاع خلافاً لحكم آخر سبق أن صدر بين أطراف الدعوى.",
+    "target_en": "4. a rendered judgment that ended a dispute in contrary to a previous judgment involving the same parties.",
+    "source_ar_norm": "4. فصله في نزاع خلافا لحكم اخر سبق ان صدر بين اطراف الدعوي.",
+    "target_en_norm": "4. a rendered judgment that ended a dispute in contrary to a previous judgment involving the same parties.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47555,
+    "source_ar": "المادة التاسعة والثمانون",
+    "target_en": "Article 89",
+    "source_ar_norm": "المادة التاسعة والثمانون",
+    "target_en_norm": "article 89",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47556,
+    "source_ar": "لا يترتب على الاعتراض أمام المحكمة العُليا وقف تنفيذ الحكم، على أنه يجوز للمحكمة أن تأمر بوقف تنفيذه إذا طُلب ذلك في صحيفة الاعتراض، وقدرت أن تنفيذه يرتب آثاراً يتعذر تداركها.",
+    "target_en": "An appeal before the Supreme Court shall not result in a stay of execution. The Supreme Court may, however, order a stay of execution if requested in the memorandum of appeal and if it deems the execution of said judgment would result in irreparable harm.",
+    "source_ar_norm": "لا يترتب علي الاعتراض امام المحكمة العليا وقف تنفيذ الحكم، علي انه يجوز للمحكمة ان تامر بوقف تنفيذه اذا طلب ذلك في صحيفة الاعتراض، وقدرت ان تنفيذه يرتب اثارا يتعذر تداركها.",
+    "target_en_norm": "an appeal before the supreme court shall not result in a stay of execution. the supreme court may, however, order a stay of execution if requested in the memorandum of appeal and if it deems the execution of said judgment would result in irreparable harm.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47557,
+    "source_ar": "المادة التسعون",
+    "target_en": "Article 90",
+    "source_ar_norm": "المادة التسعون",
+    "target_en_norm": "article 90",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47558,
+    "source_ar": "يتولى أحد قضاة الدائرة دراسة الاعتراض وإعداد تقرير يتضمن ملخصاً لأسباب الاعتراض والرد عليها، ويعرضه على الدائرة. فإن رأت الدائرة أن الاعتراض غير جائز أو غير مقبول لفوات موعد الاعتراض، أو لإقامته على غير الأسباب المبينة في النظام؛ أمرت بعدم قبوله بقرار يثبت في محضر الجلسة، مع إشارة موجزة إلى سبب القرار.",
+    "target_en": "A circuit judge shall review the appeal, prepare a brief report indicating the grounds for the appeal and responses thereto, and submit the same to the circuit. If the circuit decides that the appeal is inadmissible or unacceptable due to the lapse of the period set for appeal, or to the fact that it was based on grounds other than those stipulated in this Law, it shall dismiss such appeal pursuant to a reasoned decision to be entered in the hearing record.",
+    "source_ar_norm": "يتولي احد قضاة الدائرة دراسة الاعتراض واعداد تقرير يتضمن ملخصا لاسباب الاعتراض والرد عليها، ويعرضه علي الدائرة. فان رات الدائرة ان الاعتراض غير جائز او غير مقبول لفوات موعد الاعتراض، او لاقامته علي غير الاسباب المبينة في النظام؛ امرت بعدم قبوله بقرار يثبت في محضر الجلسة، مع اشارة موجزة الي سبب القرار.",
+    "target_en_norm": "a circuit judge shall review the appeal, prepare a brief report indicating the grounds for the appeal and responses thereto, and submit the same to the circuit. if the circuit decides that the appeal is inadmissible or unacceptable due to the lapse of the period set for appeal, or to the fact that it was based on grounds other than those stipulated in this law, it shall dismiss such appeal pursuant to a reasoned decision to be entered in the hearing record.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47559,
+    "source_ar": "وإن رأت الدائرة أن الاعتراض جدير بالنظر حددت جلسة لنظره. ويجوز لها في هذه الحالة أن تأمر بتبادل المذكرات من الأطراف.",
+    "target_en": "If the circuit determines that the appeal has merit, it shall set a hearing for considering it; in such case, the circuit may order the parties to exchange memoranda.",
+    "source_ar_norm": "وان رات الدائرة ان الاعتراض جدير بالنظر حددت جلسة لنظره. ويجوز لها في هذه الحالة ان تامر بتبادل المذكرات من الاطراف.",
+    "target_en_norm": "if the circuit determines that the appeal has merit, it shall set a hearing for considering it; in such case, the circuit may order the parties to exchange memoranda.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47560,
+    "source_ar": "المادة الحادية والتسعون",
+    "target_en": "Article 91",
+    "source_ar_norm": "المادة الحادية والتسعون",
+    "target_en_norm": "article 91",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47561,
+    "source_ar": "إذا رأت الدائرة ضرورة المرافعة الشفهية، فلها أن تسمع أقوال أطراف الاعتراض، ولا يجوز إبداء أسباب شفهية في الجلسة غير الأسباب التي سبق للأطراف بيانها في أوراق الاعتراض، ما لم تكن متعلقة بالنظام العام.",
+    "target_en": "The circuit may, if necessary, hold a hearing session where the parties can present their defenses orally. The parties may not provide reasons other than those stated in the appeal papers, unless such reasons pertain to public policy.",
+    "source_ar_norm": "اذا رات الدائرة ضرورة المرافعة الشفهية، فلها ان تسمع اقوال اطراف الاعتراض، ولا يجوز ابداء اسباب شفهية في الجلسة غير الاسباب التي سبق للاطراف بيانها في اوراق الاعتراض، ما لم تكن متعلقة بالنظام العام.",
+    "target_en_norm": "the circuit may, if necessary, hold a hearing session where the parties can present their defenses orally. the parties may not provide reasons other than those stated in the appeal papers, unless such reasons pertain to public policy.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47562,
+    "source_ar": "وللدائرة -استثناءً- أن تأذن لأطراف الاعتراض بإيداع مذكرات تكميلية متى رأت أن الفصل في الاعتراض يتطلب ذلك. وتحدد الدائرة المواعيد التي يجب إيداع تلك المذكرات فيها.",
+    "target_en": "The circuit may, as an exception, permit the parties to submit complementary memoranda if it is necessary for deciding the appeal, and shall set a date for the submission thereof.",
+    "source_ar_norm": "وللدائرة -استثناء- ان تاذن لاطراف الاعتراض بايداع مذكرات تكميلية متي رات ان الفصل في الاعتراض يتطلب ذلك. وتحدد الدائرة المواعيد التي يجب ايداع تلك المذكرات فيها.",
+    "target_en_norm": "the circuit may, as an exception, permit the parties to submit complementary memoranda if it is necessary for deciding the appeal, and shall set a date for the submission thereof.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47563,
+    "source_ar": "المادة الثانية والتسعون",
+    "target_en": "Article 92",
+    "source_ar_norm": "المادة الثانية والتسعون",
+    "target_en_norm": "article 92",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47564,
+    "source_ar": "إذا نقضت الدائرة الحكم المعترض عليه؛ لمخالفة قواعد الاختصاص، فعليها الفصل في الاختصاص، وعند الاقتضاء تحيل الدعوى إلى المحكمة المختصة.",
+    "target_en": "If a circuit revokes an appealed judgment on grounds of lack of jurisdiction, it shall decide on the jurisdiction, and shall, if necessary, refer the case to the competent court.",
+    "source_ar_norm": "اذا نقضت الدائرة الحكم المعترض عليه؛ لمخالفة قواعد الاختصاص، فعليها الفصل في الاختصاص، وعند الاقتضاء تحيل الدعوي الي المحكمة المختصة.",
+    "target_en_norm": "if a circuit revokes an appealed judgment on grounds of lack of jurisdiction, it shall decide on the jurisdiction, and shall, if necessary, refer the case to the competent court.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47565,
+    "source_ar": "وإذا نقضت الحكم لغير ذلك، فتحيل القضية إلى المحكمة التي أصدرت الحكم المعترض عليه لتفصل فيها من جديد من غير من نظرها. وفي هذه الحالة يجب على المحكمة التي أحيلت إليها القضية أن تتبع حكم المحكمة العليا في المبدأ الذي فصلت فيه.",
+    "target_en": "If the circuit revokes the judgment for other reasons, it shall refer the case to the court that issued the appealed judgment to rule anew thereon by a different judge. In such case, the court to which the case is referred shall follow the same principle set by the Supreme Court in deciding such case.",
+    "source_ar_norm": "واذا نقضت الحكم لغير ذلك، فتحيل القضية الي المحكمة التي اصدرت الحكم المعترض عليه لتفصل فيها من جديد من غير من نظرها. وفي هذه الحالة يجب علي المحكمة التي احيلت اليها القضية ان تتبع حكم المحكمة العليا في المبدا الذي فصلت فيه.",
+    "target_en_norm": "if the circuit revokes the judgment for other reasons, it shall refer the case to the court that issued the appealed judgment to rule anew thereon by a different judge. in such case, the court to which the case is referred shall follow the same principle set by the supreme court in deciding such case.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47566,
+    "source_ar": "ومع ذلك، إذا قررت المحكمة نقض الحكم المعترض عليه، وكان الموضوع صالحاً للفصل فيه؛ وجب عليها أن تحكم فيه.",
+    "target_en": "If the court, however, decides to revoke the appealed judgment and the case is ripe for judgment, it shall issue a ruling thereon.",
+    "source_ar_norm": "ومع ذلك، اذا قررت المحكمة نقض الحكم المعترض عليه، وكان الموضوع صالحا للفصل فيه؛ وجب عليها ان تحكم فيه.",
+    "target_en_norm": "if the court, however, decides to revoke the appealed judgment and the case is ripe for judgment, it shall issue a ruling thereon.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47567,
+    "source_ar": "الباب الحادي عشر: أحكام ختامية",
+    "target_en": "Part 11: Final Provisions",
+    "source_ar_norm": "الباب الحادي عشر: احكام ختامية",
+    "target_en_norm": "part 11: final provisions",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47568,
+    "source_ar": "المادة الثالثة والتسعون",
+    "target_en": "Article 93",
+    "source_ar_norm": "المادة الثالثة والتسعون",
+    "target_en_norm": "article 93",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47569,
+    "source_ar": "فيما لم يرد فيه نص خاص في النظام، تطبق أحكام نظام المرافعات الشرعية على الدعاوى التي تختص بنظرها المحكمة بما لا يخالف طبيعة الدعوى التجارية.",
+    "target_en": "Where this Law is silent, the Law of Civil Procedure shall apply to cases falling under the jurisdiction of the commercial court, taking into account the nature of commercial cases.",
+    "source_ar_norm": "فيما لم يرد فيه نص خاص في النظام، تطبق احكام نظام المرافعات الشرعية علي الدعاوي التي تختص بنظرها المحكمة بما لا يخالف طبيعة الدعوي التجارية.",
+    "target_en_norm": "where this law is silent, the law of civil procedure shall apply to cases falling under the jurisdiction of the commercial court, taking into account the nature of commercial cases.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47570,
+    "source_ar": "المادة الرابعة والتسعون",
+    "target_en": "Article 94",
+    "source_ar_norm": "المادة الرابعة والتسعون",
+    "target_en_norm": "article 94",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47571,
+    "source_ar": "1. يصدر المجلس قواعد تخصيص القضاة للمحاكم التجارية.",
+    "target_en": "1. The Council shall issue rules for appointing judges to commercial courts.",
+    "source_ar_norm": "1. يصدر المجلس قواعد تخصيص القضاة للمحاكم التجارية.",
+    "target_en_norm": "1. the council shall issue rules for appointing judges to commercial courts.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47572,
+    "source_ar": "2. تتولى الإدارة المختصة في الوزارة نشر جميع الأحكام التجارية متى اكتسبت الصفة النهائية، ويجوز أن يعهد بنشرها إلى القطاع الخاص وفق قرار يصدره الوزير.",
+    "target_en": "2. The relevant department at the Ministry shall publish commercial judgments upon becoming final, and may outsource the same to the private sector pursuant to a decision by the Minister.",
+    "source_ar_norm": "2. تتولي الادارة المختصة في الوزارة نشر جميع الاحكام التجارية متي اكتسبت الصفة النهائية، ويجوز ان يعهد بنشرها الي القطاع الخاص وفق قرار يصدره الوزير.",
+    "target_en_norm": "2. the relevant department at the ministry shall publish commercial judgments upon becoming final, and may outsource the same to the private sector pursuant to a decision by the minister.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47573,
+    "source_ar": "3. تنشأ في الوزارة وحدة لدراسات القضاء التجاري تكوَّن من عدد من قضاة وفنيين وباحثين، وتختص بإعداد الدراسات والبحوث المتعلقة بالقضاء التجاري، ومتابعة متطلبات إنفاذ النظام واللائحة، وإبداء الرأي في المسائل التي تحال إليها.",
+    "target_en": "3. A unit for commercial judiciary studies shall be established at the Ministry to be composed of a number of judges, specialists, and researchers. Such unit shall conduct studies and research on commercial judiciary, follow up on the requirements to enforce this Law and its Regulations, and provide opinion on issues and matters referred thereto.",
+    "source_ar_norm": "3. تنشا في الوزارة وحدة لدراسات القضاء التجاري تكون من عدد من قضاة وفنيين وباحثين، وتختص باعداد الدراسات والبحوث المتعلقة بالقضاء التجاري، ومتابعة متطلبات انفاذ النظام واللائحة، وابداء الراي في المسائل التي تحال اليها.",
+    "target_en_norm": "3. a unit for commercial judiciary studies shall be established at the ministry to be composed of a number of judges, specialists, and researchers. such unit shall conduct studies and research on commercial judiciary, follow up on the requirements to enforce this law and its regulations, and provide opinion on issues and matters referred thereto.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47574,
+    "source_ar": "المادة الخامسة والتسعون",
+    "target_en": "Article 95",
+    "source_ar_norm": "المادة الخامسة والتسعون",
+    "target_en_norm": "article 95",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47575,
+    "source_ar": "يصدر الوزير - بالتنسيق مع المجلس - اللائحة، والقرارات اللازمة لإنفاذ النظام، وتنشر في الجريدة الرسمية ويعمل بها بعد نشرها.",
+    "target_en": "The Minister shall, in coordination with the Council, issue the Regulations and the decisions necessary for the implementation of this Law. The Regulations and the decisions shall be published in the Official Gazette and shall enter into force thereafter.",
+    "source_ar_norm": "يصدر الوزير - بالتنسيق مع المجلس - اللائحة، والقرارات اللازمة لانفاذ النظام، وتنشر في الجريدة الرسمية ويعمل بها بعد نشرها.",
+    "target_en_norm": "the minister shall, in coordination with the council, issue the regulations and the decisions necessary for the implementation of this law. the regulations and the decisions shall be published in the official gazette and shall enter into force thereafter.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47576,
+    "source_ar": "المادة السادسة والتسعون",
+    "target_en": "Article 96",
+    "source_ar_norm": "المادة السادسة والتسعون",
+    "target_en_norm": "article 96",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47577,
+    "source_ar": "يعمل بالنظام بعد (ستين) يوماً من تاريخ نشره في الجريدة الرسمية، ويلغي كل ما يتعارض معه من أحكام.",
+    "target_en": "This Law shall enter into force 60 days following its publication in the Official Gazette, and shall repeal any provisions conflicting therewith.",
+    "source_ar_norm": "يعمل بالنظام بعد (ستين) يوما من تاريخ نشره في الجريدة الرسمية، ويلغي كل ما يتعارض معه من احكام.",
+    "target_en_norm": "this law shall enter into force 60 days following its publication in the official gazette, and shall repeal any provisions conflicting therewith.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47578,
+    "source_ar": "نظام المحاماة",
+    "target_en": "THE CODE OF LAW PRACTICE",
+    "source_ar_norm": "نظام المحاماة",
+    "target_en_norm": "the code of law practice",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47579,
+    "source_ar": "المادة الأولى:",
+    "target_en": "Article 1:",
+    "source_ar_norm": "المادة الاولي:",
+    "target_en_norm": "article 1:",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47580,
+    "source_ar": "يقصد بمهنة المحاماة في هذا النظام الترافع عن الغير أمام المحاكم وديوان المظالم، واللجان المشكلة بموجب الأنظمة والأوامر والقرارات لنظر القضايا الداخلة في اختصاصها، ومزاولة الاستشارات الشرعية والنظامية، ويسمى من يزاول هذه المهنة محامياً.",
+    "target_en": "In this Law, the term law practice shall mean representing third parties before courts of law, the Board of Grievances, and other committees which may be set up pursuant to laws, orders, and decisions to consider cases falling within their respective jurisdictions. It shall also mean rendering consultancy services based on the principles of Sharia and the rule of law. Whoever practices this profession shall be called a lawyer.",
+    "source_ar_norm": "يقصد بمهنة المحاماة في هذا النظام الترافع عن الغير امام المحاكم وديوان المظالم، واللجان المشكلة بموجب الانظمة والاوامر والقرارات لنظر القضايا الداخلة في اختصاصها، ومزاولة الاستشارات الشرعية والنظامية، ويسمي من يزاول هذه المهنة محاميا.",
+    "target_en_norm": "in this law, the term law practice shall mean representing third parties before courts of law, the board of grievances, and other committees which may be set up pursuant to laws, orders, and decisions to consider cases falling within their respective jurisdictions. it shall also mean rendering consultancy services based on the principles of sharia and the rule of law. whoever practices this profession shall be called a lawyer.",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47581,
+    "source_ar": "ويحق لكل شخص أن يترافع عن نفسه.",
+    "target_en": "Any person shall be entitled to legally represent himself.",
+    "source_ar_norm": "ويحق لكل شخص ان يترافع عن نفسه.",
+    "target_en_norm": "any person shall be entitled to legally represent himself.",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47582,
+    "source_ar": "المادة الثانية :",
+    "target_en": "Article 2:",
+    "source_ar_norm": "المادة الثانية :",
+    "target_en_norm": "article 2:",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47583,
+    "source_ar": "تعد وزارة العدل جدولاً عاماً لقيد أسماء المحامين الممارسين وآخر لغير الممارسين حسب وقت تاريخ التسجيل، ويجب أن يشتمل الجدولان على البيانات التي تحددها اللائحة التنفيذية لهذا النظام، وعلى وزارة العدل نقل اسم المحامي الذي يتوقف عن مزاولة المهنة مدة تزيد على سنة من جدول المحامين الممارسين إلى جدول المحامين غير الممارسين وفق ضوابط تحددها اللائحة التنفيذية لهذا النظام.",
+    "target_en": "The Ministry of Justice shall prepare a general list of the names of practicing lawyers and another list of non-practicing lawyers, as of the time of registration. The two lists shall include the particulars specified by the implementing regulations of this Code. The Ministry of Justice shall transfer the names of lawyers who cease to practice the profession for a period exceeding one year from the list of practicing lawyers to the list of non-practicing lawyers subject to the restrictions stated in the implementing regulations of this Code.",
+    "source_ar_norm": "تعد وزارة العدل جدولا عاما لقيد اسماء المحامين الممارسين واخر لغير الممارسين حسب وقت تاريخ التسجيل، ويجب ان يشتمل الجدولان علي البيانات التي تحددها اللائحة التنفيذية لهذا النظام، وعلي وزارة العدل نقل اسم المحامي الذي يتوقف عن مزاولة المهنة مدة تزيد علي سنة من جدول المحامين الممارسين الي جدول المحامين غير الممارسين وفق ضوابط تحددها اللائحة التنفيذية لهذا النظام.",
+    "target_en_norm": "the ministry of justice shall prepare a general list of the names of practicing lawyers and another list of non-practicing lawyers, as of the time of registration. the two lists shall include the particulars specified by the implementing regulations of this code. the ministry of justice shall transfer the names of lawyers who cease to practice the profession for a period exceeding one year from the list of practicing lawyers to the list of non-practicing lawyers subject to the restrictions stated in the implementing regulations of this code.",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47584,
+    "source_ar": "المادة الثالثة :",
+    "target_en": "Article 3:",
+    "source_ar_norm": "المادة الثالثة :",
+    "target_en_norm": "article 3:",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47585,
+    "source_ar": "يشترط فيمن يزاول مهنة المحاماة أن يكون اسمه مقيداً في جدول المحامين الممارسين، ويشترط فيمن يقيد اسمه بهذا الجدول ما يأتي:",
+    "target_en": "A person who practices law shall have his name included in the list of practicing lawyers, after satisfying the following requirements:",
+    "source_ar_norm": "يشترط فيمن يزاول مهنة المحاماة ان يكون اسمه مقيدا في جدول المحامين الممارسين، ويشترط فيمن يقيد اسمه بهذا الجدول ما ياتي:",
+    "target_en_norm": "a person who practices law shall have his name included in the list of practicing lawyers, after satisfying the following requirements:",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47586,
+    "source_ar": "أن يكون سعودي الجنسية، ويجوز لغير السعودي مزاولة مهنة المحاماة طبقاً لما تقضي به الاتفاقيات بين المملكة وغيرها من الدول.",
+    "target_en": "He must be a Saudi national. Non-Saudis may practice law subject to the terms of agreements concluded between the Kingdom and other countries.",
+    "source_ar_norm": "ان يكون سعودي الجنسية، ويجوز لغير السعودي مزاولة مهنة المحاماة طبقا لما تقضي به الاتفاقيات بين المملكة وغيرها من الدول.",
+    "target_en_norm": "he must be a saudi national. non-saudis may practice law subject to the terms of agreements concluded between the kingdom and other countries.",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47587,
+    "source_ar": "أن يكون حاصلاً على شهادة كلية الشريعة أو شهادة البكالوريوس تخصص أنظمة من إحدى جامعات المملكة أو ما يعادل أياً منهما خارج المملكة، أو دبلوم دراسات الأنظمة من معهد الإدارة العامة بعد الحصول على الشهادة الجامعية.",
+    "target_en": "He must hold a degree from a Sharia college or a bachelor of law from a Saudi university, or an equivalent of any of these degrees obtained from abroad, or a post-graduate diploma in legal studies from the Institute of Public Administration.",
+    "source_ar_norm": "ان يكون حاصلا علي شهادة كلية الشريعة او شهادة البكالوريوس تخصص انظمة من احدي جامعات المملكة او ما يعادل ايا منهما خارج المملكة، او دبلوم دراسات الانظمة من معهد الادارة العامة بعد الحصول علي الشهادة الجامعية.",
+    "target_en_norm": "he must hold a degree from a sharia college or a bachelor of law from a saudi university, or an equivalent of any of these degrees obtained from abroad, or a post-graduate diploma in legal studies from the institute of public administration.",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47588,
+    "source_ar": "أن تتوافر لديه خبرة في طبيعة العمل لمدة لا تقل عن ثلاث سنوات، وتخفض هذه المدة إلى سنة واحدة للحاصل على شهادة الماجستير في الشريعة الإسلامية، أو في تخصص الأنظمة أو ما يعادل أياً منهما، أو دبلوم دراسات الأنظمة بالنسبة لخريجي كلية الشريعة، ويعفى من هذه المدة الحاصل على شهادة الدكتوراه في مجال التخصص.",
+    "target_en": "He must have at least three years of relevant legal experience. This period may be reduced to one year for holders of a Master’s degree in Sharia or law, or an equivalent thereof, or a post-graduate diploma in law for graduates of a Sharia college. This requirement shall not apply to holders of doctorate degrees in these fields of specialization.",
+    "source_ar_norm": "ان تتوافر لديه خبرة في طبيعة العمل لمدة لا تقل عن ثلاث سنوات، وتخفض هذه المدة الي سنة واحدة للحاصل علي شهادة الماجستير في الشريعة الاسلامية، او في تخصص الانظمة او ما يعادل ايا منهما، او دبلوم دراسات الانظمة بالنسبة لخريجي كلية الشريعة، ويعفي من هذه المدة الحاصل علي شهادة الدكتوراه في مجال التخصص.",
+    "target_en_norm": "he must have at least three years of relevant legal experience. this period may be reduced to one year for holders of a master’s degree in sharia or law, or an equivalent thereof, or a post-graduate diploma in law for graduates of a sharia college. this requirement shall not apply to holders of doctorate degrees in these fields of specialization.",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47589,
+    "source_ar": "أن يكون حسن السيرة والسلوك وغير محجور عليه.",
+    "target_en": "He must be of good conduct and not under interdiction.",
+    "source_ar_norm": "ان يكون حسن السيرة والسلوك وغير محجور عليه.",
+    "target_en_norm": "he must be of good conduct and not under interdiction.",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47590,
+    "source_ar": "ألا يكون قد حكم عليه بحد أو بعقوبة في جريمة مخلة بالشرف أو الأمانة، ما لم يكن قد مضى على انتهاء تنفيذ الحكم خمس سنوات على الأقل.",
+    "target_en": "He must not have been sentenced to any hadd (Qur’anic prescribed punishment) or any other sentence in connection with a crime that impugns integrity, except where a minimum period of five years has elapsed since the execution of said sentence.",
+    "source_ar_norm": "الا يكون قد حكم عليه بحد او بعقوبة في جريمة مخلة بالشرف او الامانة، ما لم يكن قد مضي علي انتهاء تنفيذ الحكم خمس سنوات علي الاقل.",
+    "target_en_norm": "he must not have been sentenced to any hadd (qur’anic prescribed punishment) or any other sentence in connection with a crime that impugns integrity, except where a minimum period of five years has elapsed since the execution of said sentence.",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47591,
+    "source_ar": "أن يكون مقيماً في المملكة.",
+    "target_en": "He must be a resident of the Kingdom.",
+    "source_ar_norm": "ان يكون مقيما في المملكة.",
+    "target_en_norm": "he must be a resident of the kingdom.",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47592,
+    "source_ar": "ويضع وزير العدل أنموذج إقرار يوقعه طالب القيد، يتضمن إقراره بتوافر الشروط الواردة في الفقرات (د، هـ، و) من هذه المادة .",
+    "target_en": "The Minister of Justice shall prepare a declaration form to be signed by the applicant wherein he confirms that the requirements stated in paragraphs (d), (e), and (f) of this Article have been satisfied.",
+    "source_ar_norm": "ويضع وزير العدل انموذج اقرار يوقعه طالب القيد، يتضمن اقراره بتوافر الشروط الواردة في الفقرات (د، ه، و) من هذه المادة .",
+    "target_en_norm": "the minister of justice shall prepare a declaration form to be signed by the applicant wherein he confirms that the requirements stated in paragraphs (d), (e), and (f) of this article have been satisfied.",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47593,
+    "source_ar": "المادة الرابعة :",
+    "target_en": "Article 4:",
+    "source_ar_norm": "المادة الرابعة :",
+    "target_en_norm": "article 4:",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47594,
+    "source_ar": "يستثنى من الفقرتين (ب، ج) من المادة الثالثة من سبقت لــه ممارسة القضاء في المملكة لمدة لا تقل عن ثلاث سنوات.",
+    "target_en": "The provisions of paragraphs (b) and (c) of Article 3 shall not apply to applicants who have at least three years of experience as judges in the Kingdom.",
+    "source_ar_norm": "يستثني من الفقرتين (ب، ج) من المادة الثالثة من سبقت له ممارسة القضاء في المملكة لمدة لا تقل عن ثلاث سنوات.",
+    "target_en_norm": "the provisions of paragraphs (b) and (c) of article 3 shall not apply to applicants who have at least three years of experience as judges in the kingdom.",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47595,
+    "source_ar": "المادة الخامسة :",
+    "target_en": "Article 5:",
+    "source_ar_norm": "المادة الخامسة :",
+    "target_en_norm": "article 5:",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47596,
+    "source_ar": "يقدم طلب القيد في الجدول وفق أنموذج تحدده اللائحة التنفيذية لهذا النظام إلى لجنة قيد وقبول المحامين، وتؤلف من:",
+    "target_en": "The application for registration shall be submitted to the Lawyers Registration and Admission Committee using the form specified in the implementing regulations of this Code. The Committee shall be formed as follows:",
+    "source_ar_norm": "يقدم طلب القيد في الجدول وفق انموذج تحدده اللائحة التنفيذية لهذا النظام الي لجنة قيد وقبول المحامين، وتؤلف من:",
+    "target_en_norm": "the application for registration shall be submitted to the lawyers registration and admission committee using the form specified in the implementing regulations of this code. the committee shall be formed as follows:",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47597,
+    "source_ar": "وكيل من وزارة العدل يعينه وزير العدل. (رئيساً)",
+    "target_en": "A representative from the Ministry of Justice to be appointed by the Minister of Justice, chairman.",
+    "source_ar_norm": "وكيل من وزارة العدل يعينه وزير العدل. (رئيسا)",
+    "target_en_norm": "a representative from the ministry of justice to be appointed by the minister of justice, chairman.",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47598,
+    "source_ar": "ممثل من ديوان المظالم لا تقل درجته عن الدرجة المعادلة لرئيس محكمة \"أ\" يعينه رئيس ديوان المظالم",
+    "target_en": "A representative from the Board of Grievances whose rank shall not be lower than the rank of a Chief of a Court of class A, to be appointed by the Chairman of the Board of Grievances, member.",
+    "source_ar_norm": "ممثل من ديوان المظالم لا تقل درجته عن الدرجة المعادلة لرئيس محكمة \"ا\" يعينه رئيس ديوان المظالم",
+    "target_en_norm": "a representative from the board of grievances whose rank shall not be lower than the rank of a chief of a court of class a, to be appointed by the chairman of the board of grievances, member.",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47599,
+    "source_ar": "أحد المحامين ممن أمضوا في ممارسة المهنة مدة لا تقل عن خمس سنوات، يعينه وزير العدل.",
+    "target_en": "A lawyer who has been practicing law for a minimum of five years, to be appointed by the Minister of Justice, member.",
+    "source_ar_norm": "احد المحامين ممن امضوا في ممارسة المهنة مدة لا تقل عن خمس سنوات، يعينه وزير العدل.",
+    "target_en_norm": "a lawyer who has been practicing law for a minimum of five years, to be appointed by the minister of justice, member.",
+    "file_name": "نظام المحاماة.docx"
+  },
+  {
+    "id": 47600,
+    "source_ar": "وتقوم الجهة المعنية بتسمية من يحل محل العضو عند غيابه، وتكون العضوية في هذه اللجنة لمدة ثلاث سنوات قابلة للتجديد لمرة واحدة.",
+    "target_en": "The competent authority shall name a substitute in case of the absence of a member of this committee. The term of membership of this committee shall be three years renewable for another term.",
+    "source_ar_norm": "وتقوم الجهة المعنية بتسمية من يحل محل العضو عند غيابه، وتكون العضوية في هذه اللجنة لمدة ثلاث سنوات قابلة للتجديد لمرة واحدة.",
+    "target_en_norm": "the competent authority shall name a substitute in case of the absence of a member of this committee. the term of membership of this committee shall be three years renewable for another term.",
+    "file_name": "نظام المحاماة.docx"
+  }
+]

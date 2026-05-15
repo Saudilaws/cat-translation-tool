@@ -1,0 +1,802 @@
+[
+  {
+    "id": 42401,
+    "source_ar": "إذا كان المستفيد يقيم إقامة دائمة في أحد المراكز الإيوائية أو العلاجية.",
+    "target_en": "the beneficiary permanently resides at a shelter or treatment facility;",
+    "source_ar_norm": "اذا كان المستفيد يقيم اقامة دائمة في احد المراكز الايوائية او العلاجية.",
+    "target_en_norm": "the beneficiary permanently resides at a shelter or treatment facility;",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42402,
+    "source_ar": "إذا تنازل المستفيد عن المعاش.",
+    "target_en": "the beneficiary waives the allowance; or",
+    "source_ar_norm": "اذا تنازل المستفيد عن المعاش.",
+    "target_en_norm": "the beneficiary waives the allowance; or",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42403,
+    "source_ar": "وفاة المستفيد.",
+    "target_en": "the beneficiary dies.",
+    "source_ar_norm": "وفاة المستفيد.",
+    "target_en_norm": "the beneficiary dies.",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42404,
+    "source_ar": "الباب الرابع الفئات والتأهيل",
+    "target_en": "Chapter 4: Categories and Rehabilitation",
+    "source_ar_norm": "الباب الرابع الفئات والتاهيل",
+    "target_en_norm": "chapter 4: categories and rehabilitation",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42405,
+    "source_ar": "المادة الثامنة عشرة",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة",
+    "target_en_norm": "article 18",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42406,
+    "source_ar": "عند قبول الطلب المقدم، تصنف الوزارة المستفيد إلى إحدى الفئات الآتية:",
+    "target_en": "Upon accepting an application, the Ministry shall categorize the beneficiary as:",
+    "source_ar_norm": "عند قبول الطلب المقدم، تصنف الوزارة المستفيد الي احدي الفئات الاتية:",
+    "target_en_norm": "upon accepting an application, the ministry shall categorize the beneficiary as:",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42407,
+    "source_ar": "مستفيد غير قابل للتأهيل.",
+    "target_en": "a non-rehabilitable beneficiary;",
+    "source_ar_norm": "مستفيد غير قابل للتاهيل.",
+    "target_en_norm": "a non-rehabilitable beneficiary;",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42408,
+    "source_ar": "مستفيد قابل للتأهيل.",
+    "target_en": "a rehabilitable beneficiary; or",
+    "source_ar_norm": "مستفيد قابل للتاهيل.",
+    "target_en_norm": "a rehabilitable beneficiary; or",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42409,
+    "source_ar": "مستفيد قادر على العمل.",
+    "target_en": "an able-bodied beneficiary.",
+    "source_ar_norm": "مستفيد قادر علي العمل.",
+    "target_en_norm": "an able-bodied beneficiary.",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42410,
+    "source_ar": "ويكون التصنيف بناءً على البيانات والمعلومات المتعلقة بالحالة الصحية والبدنية والاجتماعية للمستفيد، وتحدد اللائحة الضوابط المتعلقة بذلك.",
+    "target_en": "Such categorization shall be based on information relating to the beneficiary’s social, health, and physical condition, subject to the Regulations.",
+    "source_ar_norm": "ويكون التصنيف بناء علي البيانات والمعلومات المتعلقة بالحالة الصحية والبدنية والاجتماعية للمستفيد، وتحدد اللائحة الضوابط المتعلقة بذلك.",
+    "target_en_norm": "such categorization shall be based on information relating to the beneficiary’s social, health, and physical condition, subject to the regulations.",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42411,
+    "source_ar": "المادة التاسعة عشرة",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة",
+    "target_en_norm": "article 19",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42412,
+    "source_ar": "تتولى الوزارة، بالتعاون مع صندوق تنمية الموارد البشرية والجهات ذات العلاقة، ما يأتي:",
+    "target_en": "The Ministry, in cooperation with the Human Resources Development Fund and relevant agencies, shall:",
+    "source_ar_norm": "تتولي الوزارة، بالتعاون مع صندوق تنمية الموارد البشرية والجهات ذات العلاقة، ما ياتي:",
+    "target_en_norm": "the ministry, in cooperation with the human resources development fund and relevant agencies, shall:",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42413,
+    "source_ar": "إعداد خطة تأهيل لكل مستفيد قابل للتأهيل وفقاً لما تحدده اللائحة من شروط السن والمؤهلات واللياقة الطبية ونحوها.",
+    "target_en": "develop a rehabilitation plan for each rehabilitable beneficiary according to his age, qualification, and medical fitness, subject to the Regulations;",
+    "source_ar_norm": "اعداد خطة تاهيل لكل مستفيد قابل للتاهيل وفقا لما تحدده اللائحة من شروط السن والمؤهلات واللياقة الطبية ونحوها.",
+    "target_en_norm": "develop a rehabilitation plan for each rehabilitable beneficiary according to his age, qualification, and medical fitness, subject to the regulations;",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42414,
+    "source_ar": "تقديم خدمات البحث عن عمل لكل مستفيد قادر على العمل.",
+    "target_en": "offer recruitment services to able-bodied beneficiaries; and",
+    "source_ar_norm": "تقديم خدمات البحث عن عمل لكل مستفيد قادر علي العمل.",
+    "target_en_norm": "offer recruitment services to able-bodied beneficiaries; and",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42415,
+    "source_ar": "المتابعة المستمرة للمستفيد القابل للتأهيل والمستفيد القادر على العمل؛ للتحقق من مدى تأهيلهم وفقًا للخطة، ومدى جدية القادر على العمل في بحثه عن عمل وقبوله عروض العمل والتدريب المناسبة.",
+    "target_en": "ensure that the rehabilitable beneficiaries are actively engaged in the rehabilitation plan, and that able-bodied beneficiaries are actively seeking employment and accepting suitable employment and training offers.",
+    "source_ar_norm": "المتابعة المستمرة للمستفيد القابل للتاهيل والمستفيد القادر علي العمل؛ للتحقق من مدي تاهيلهم وفقا للخطة، ومدي جدية القادر علي العمل في بحثه عن عمل وقبوله عروض العمل والتدريب المناسبة.",
+    "target_en_norm": "ensure that the rehabilitable beneficiaries are actively engaged in the rehabilitation plan, and that able-bodied beneficiaries are actively seeking employment and accepting suitable employment and training offers.",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42416,
+    "source_ar": "الباب الخامس العقوبات",
+    "target_en": "Chapter 5: Penalties",
+    "source_ar_norm": "الباب الخامس العقوبات",
+    "target_en_norm": "chapter 5: penalties",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42417,
+    "source_ar": "المادة العشرون",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون",
+    "target_en_norm": "article 20",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42418,
+    "source_ar": "يُعاقب بغرامة لا تزيد على خمسة آلاف ريال أو بالسجن مدة لا تزيد على ثلاثة أشهر أو بهما معاً؛ كل عائل صُرف له معاش ولم ينفقه على تابعيه من أفراد الأسرة.",
+    "target_en": "A provider who fails to spend the allowance on his dependents shall be subject to a fine not exceeding five thousand riyals or to imprisonment for a term not exceeding three months, or both.",
+    "source_ar_norm": "يعاقب بغرامة لا تزيد علي خمسة الاف ريال او بالسجن مدة لا تزيد علي ثلاثة اشهر او بهما معا؛ كل عائل صرف له معاش ولم ينفقه علي تابعيه من افراد الاسرة.",
+    "target_en_norm": "a provider who fails to spend the allowance on his dependents shall be subject to a fine not exceeding five thousand riyals or to imprisonment for a term not exceeding three months, or both.",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42419,
+    "source_ar": "وتتولى الوزارة استقبال البلاغات وإحالتها إلى جهة الضبط المختصة.",
+    "target_en": "Reports of any violation shall be received by the Ministry which shall refer them to the competent agency.",
+    "source_ar_norm": "وتتولي الوزارة استقبال البلاغات واحالتها الي جهة الضبط المختصة.",
+    "target_en_norm": "reports of any violation shall be received by the ministry which shall refer them to the competent agency.",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42420,
+    "source_ar": "يُعاقب بغرامة لا تزيد على عشرة آلاف ريال، أو بالسجن مدة لا تزيد على سنة، أوبهما معاً؛ كل من حصل على مال من الضمان الاجتماعي بغير وجه حق.",
+    "target_en": "A person who unlawfully receives an allowance shall be subject to a fine not exceeding ten thousand riyals or to imprisonment for a term of one year, or both.",
+    "source_ar_norm": "يعاقب بغرامة لا تزيد علي عشرة الاف ريال، او بالسجن مدة لا تزيد علي سنة، اوبهما معا؛ كل من حصل علي مال من الضمان الاجتماعي بغير وجه حق.",
+    "target_en_norm": "a person who unlawfully receives an allowance shall be subject to a fine not exceeding ten thousand riyals or to imprisonment for a term of one year, or both.",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42421,
+    "source_ar": "وتتولى الوزارة إبلاغ جهة الضبط المختصة، لاتخاذ الإجراءات اللازمة. وفي جميع الأحوال يحكم على من تثبت إدانته برد ذلك المال.",
+    "target_en": "If a person is found guilty of unlawfully receiving an allowance, the Ministry shall notify the competent agency to take the necessary measures, and such person shall be required to return any received allowance.",
+    "source_ar_norm": "وتتولي الوزارة ابلاغ جهة الضبط المختصة، لاتخاذ الاجراءات اللازمة. وفي جميع الاحوال يحكم علي من تثبت ادانته برد ذلك المال.",
+    "target_en_norm": "if a person is found guilty of unlawfully receiving an allowance, the ministry shall notify the competent agency to take the necessary measures, and such person shall be required to return any received allowance.",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42422,
+    "source_ar": "إذا شكلت الأفعال - المنصوص عليها في الفقرتين (1) و(2) من هذه المادة - جريمة أخرى يعاقب عليها نظام آخر؛ فتطبق العقوبة الأشد.",
+    "target_en": "If the acts referred to in paragraphs (1) and (2) of this Article constitute an offense punishable under another law, the harsher penalty shall apply.",
+    "source_ar_norm": "اذا شكلت الافعال - المنصوص عليها في الفقرتين (1) و(2) من هذه المادة - جريمة اخري يعاقب عليها نظام اخر؛ فتطبق العقوبة الاشد.",
+    "target_en_norm": "if the acts referred to in paragraphs (1) and (2) of this article constitute an offense punishable under another law, the harsher penalty shall apply.",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42423,
+    "source_ar": "المادة الحادية والعشرون",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون",
+    "target_en_norm": "article 21",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42424,
+    "source_ar": "تتولى النيابة العامة التحقيق والادعاء في الجرائم الواردة في هذا النظام أمام المحكمة المختصة.",
+    "target_en": "The Public Prosecution shall investigate the offenses provided for in this Law and prosecute them before the competent court.",
+    "source_ar_norm": "تتولي النيابة العامة التحقيق والادعاء في الجرائم الواردة في هذا النظام امام المحكمة المختصة.",
+    "target_en_norm": "the public prosecution shall investigate the offenses provided for in this law and prosecute them before the competent court.",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42425,
+    "source_ar": "الباب السادس أحكام عامة",
+    "target_en": "Chapter 6: General Provisions",
+    "source_ar_norm": "الباب السادس احكام عامة",
+    "target_en_norm": "chapter 6: general provisions",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42426,
+    "source_ar": "المادة الثانية والعشرون",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون",
+    "target_en_norm": "article 22",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42427,
+    "source_ar": "تكوّن بقرار من الوزير لجنة أو أكثر، لا يقل عدد أعضائها عن (ثلاثة) يكون من بينهم مستشارٌ نظامي، ويحدد القرار رئيس اللجنة، ومكافآت أعضائها، وأمين سرها.",
+    "target_en": "Pursuant to a decision by the Minister, a committee of at least three members, one of whom is a legal advisor, shall be formed. Said decision shall designate the committee chairman and secretary, and the remuneration of its members.",
+    "source_ar_norm": "تكون بقرار من الوزير لجنة او اكثر، لا يقل عدد اعضائها عن (ثلاثة) يكون من بينهم مستشار نظامي، ويحدد القرار رئيس اللجنة، ومكافات اعضائها، وامين سرها.",
+    "target_en_norm": "pursuant to a decision by the minister, a committee of at least three members, one of whom is a legal advisor, shall be formed. said decision shall designate the committee chairman and secretary, and the remuneration of its members.",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42428,
+    "source_ar": "تحدد قواعد وإجراءات عمل اللجنة بقرار من الوزير.",
+    "target_en": "Committee work procedures shall be determined pursuant to a decision by the Minister.",
+    "source_ar_norm": "تحدد قواعد واجراءات عمل اللجنة بقرار من الوزير.",
+    "target_en_norm": "committee work procedures shall be determined pursuant to a decision by the minister.",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42429,
+    "source_ar": "تختص اللجنة بالنظر فيما يقدم لها من تظلمات تتعلق بما يأتي:",
+    "target_en": "The committee shall receive and review grievances related to the Ministry’s:",
+    "source_ar_norm": "تختص اللجنة بالنظر فيما يقدم لها من تظلمات تتعلق بما ياتي:",
+    "target_en_norm": "the committee shall receive and review grievances related to the ministry’s:",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42430,
+    "source_ar": "عدم إبلاغ الوزارة مقدم الطلب بقرارها خلال المدة المحددة في المادة (السادسة) من النظام.",
+    "target_en": "failure to notify the applicant of its decision within the period specified in Article 6 of this Law;",
+    "source_ar_norm": "عدم ابلاغ الوزارة مقدم الطلب بقرارها خلال المدة المحددة في المادة (السادسة) من النظام.",
+    "target_en_norm": "failure to notify the applicant of its decision within the period specified in article 6 of this law;",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42431,
+    "source_ar": "رفض الطلب أو إيقاف المعاش.",
+    "target_en": "rejection of the application or suspension of the allowance; and",
+    "source_ar_norm": "رفض الطلب او ايقاف المعاش.",
+    "target_en_norm": "rejection of the application or suspension of the allowance; and",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42432,
+    "source_ar": "طلب الوزارة من المستفيد إعادة ما تم صرفه له دون استحقاق.",
+    "target_en": "request to return unlawfully received allowances.",
+    "source_ar_norm": "طلب الوزارة من المستفيد اعادة ما تم صرفه له دون استحقاق.",
+    "target_en_norm": "request to return unlawfully received allowances.",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42433,
+    "source_ar": "تكون قرارات اللجنة نافذة من تاريخ صدورها.",
+    "target_en": "Committee decisions shall be effective upon issuance.",
+    "source_ar_norm": "تكون قرارات اللجنة نافذة من تاريخ صدورها.",
+    "target_en_norm": "committee decisions shall be effective upon issuance.",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42434,
+    "source_ar": "يجوز التظلم من قرارات اللجنة أمام المحكمة الإدارية وفق نظامها.",
+    "target_en": "Committee decisions may be appealed before the administrative court.",
+    "source_ar_norm": "يجوز التظلم من قرارات اللجنة امام المحكمة الادارية وفق نظامها.",
+    "target_en_norm": "committee decisions may be appealed before the administrative court.",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42435,
+    "source_ar": "المادة الثالثة والعشرون",
+    "target_en": "Article 23",
+    "source_ar_norm": "المادة الثالثة والعشرون",
+    "target_en_norm": "article 23",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42436,
+    "source_ar": "تتكون موارد الضمان الاجتماعي مما يلي:",
+    "target_en": "Social security resources shall include:",
+    "source_ar_norm": "تتكون موارد الضمان الاجتماعي مما يلي:",
+    "target_en_norm": "social security resources shall include:",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42437,
+    "source_ar": "أموال الزكاة التي تجبيها الدولة.",
+    "target_en": "zakat collected by the State;",
+    "source_ar_norm": "اموال الزكاة التي تجبيها الدولة.",
+    "target_en_norm": "zakat collected by the state;",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42438,
+    "source_ar": "الإعانة المعتمدة من خزينة الدولة.",
+    "target_en": "funds allocated by the State Treasury; and",
+    "source_ar_norm": "الاعانة المعتمدة من خزينة الدولة.",
+    "target_en_norm": "funds allocated by the state treasury; and",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42439,
+    "source_ar": "ما يقدم له من زكوات وصدقات وعائدات أوقاف وتبرعات وهبات.",
+    "target_en": "zakat, alms, endowment revenues, donations and gifts received by the Ministry.",
+    "source_ar_norm": "ما يقدم له من زكوات وصدقات وعائدات اوقاف وتبرعات وهبات.",
+    "target_en_norm": "zakat, alms, endowment revenues, donations and gifts received by the ministry.",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42440,
+    "source_ar": "المادة الرابعة والعشرون",
+    "target_en": "Article 24",
+    "source_ar_norm": "المادة الرابعة والعشرون",
+    "target_en_norm": "article 24",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42441,
+    "source_ar": "يصدر الوزير اللائحة خلال (مائة وعشرين) يوماً من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ نفاذه.",
+    "target_en": "The Regulations shall be issued by the Minister within 120 days from the date the Law is published in the Official Gazette, and shall become effective on the date the Law enters into force.",
+    "source_ar_norm": "يصدر الوزير اللائحة خلال (مائة وعشرين) يوما من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ نفاذه.",
+    "target_en_norm": "the regulations shall be issued by the minister within 120 days from the date the law is published in the official gazette, and shall become effective on the date the law enters into force.",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42442,
+    "source_ar": "المادة الخامسة والعشرون",
+    "target_en": "Article 25",
+    "source_ar_norm": "المادة الخامسة والعشرون",
+    "target_en_norm": "article 25",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42443,
+    "source_ar": "يحل النظام محل نظام الضمان الاجتماعي، الصادر بالمرسوم الملكي رقم (م / 45) وتاريخ 7 / 7 / 1427هـ، ويلغي كل ما يتعارض معه من أحكام.",
+    "target_en": "This Law shall supersede the Social Security Law promulgated by Royal Decree No. M/45, dated 07/07/1427H and shall repeal any conflicting provisions.",
+    "source_ar_norm": "يحل النظام محل نظام الضمان الاجتماعي، الصادر بالمرسوم الملكي رقم (م / 45) وتاريخ 7 / 7 / 1427ه، ويلغي كل ما يتعارض معه من احكام.",
+    "target_en_norm": "this law shall supersede the social security law promulgated by royal decree no. m/45, dated 07/07/1427h and shall repeal any conflicting provisions.",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42444,
+    "source_ar": "المادة السادسة والعشرون",
+    "target_en": "Article 26",
+    "source_ar_norm": "المادة السادسة والعشرون",
+    "target_en_norm": "article 26",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42445,
+    "source_ar": "يعمل بالنظام بعد (مائة وعشرين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+    "target_en": "This Law shall enter into force 120 days following the date of its publication in the Official Gazette.",
+    "source_ar_norm": "يعمل بالنظام بعد (مائة وعشرين) يوما من تاريخ نشره في الجريدة الرسمية.",
+    "target_en_norm": "this law shall enter into force 120 days following the date of its publication in the official gazette.",
+    "file_name": "نظام الضمان الاجتماعي (جديد).docx"
+  },
+  {
+    "id": 42446,
+    "source_ar": "نظام الضمان الاجتماعي",
+    "target_en": "Social Security Law",
+    "source_ar_norm": "نظام الضمان الاجتماعي",
+    "target_en_norm": "social security law",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42447,
+    "source_ar": "المادة الأولى:",
+    "target_en": "Article ١",
+    "source_ar_norm": "المادة الاولي:",
+    "target_en_norm": "article ١",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42448,
+    "source_ar": "يقصد بالكلمات والعبارات الآتية – أينما وردت في هذا النظام – المعاني المبينة أمامها ما لم يقتض السياق خلاف ذلك:",
+    "target_en": "The following terms and phrases, wherever mentioned in this Law, shall have the meanings following them, unless the context requires otherwise.",
+    "source_ar_norm": "يقصد بالكلمات والعبارات الاتية – اينما وردت في هذا النظام – المعاني المبينة امامها ما لم يقتض السياق خلاف ذلك:",
+    "target_en_norm": "the following terms and phrases, wherever mentioned in this law, shall have the meanings following them, unless the context requires otherwise.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42449,
+    "source_ar": "١ – الوزارة: وزارة الشؤون الاجتماعية.",
+    "target_en": "١. Ministry: Ministry of Social Affairs.",
+    "source_ar_norm": "١ – الوزارة: وزارة الشؤون الاجتماعية.",
+    "target_en_norm": "١. ministry: ministry of social affairs.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42450,
+    "source_ar": "٢ – الوزير: وزير الشؤون الاجتماعية.",
+    "target_en": "٢. Minister: Minister of Social Affairs.",
+    "source_ar_norm": "٢ – الوزير: وزير الشؤون الاجتماعية.",
+    "target_en_norm": "٢. minister: minister of social affairs.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42451,
+    "source_ar": "٣ – المستفيد: أي شخص (أو أسرة) مشمولين بهذا النظام.",
+    "target_en": "٣. Beneficiary: Any person or family covered by this Law.",
+    "source_ar_norm": "٣ – المستفيد: اي شخص (او اسرة) مشمولين بهذا النظام.",
+    "target_en_norm": "٣. beneficiary: any person or family covered by this law.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42452,
+    "source_ar": "٤ – الاستحقاق:",
+    "target_en": "٤. Benefit:",
+    "source_ar_norm": "٤ – الاستحقاق:",
+    "target_en_norm": "٤. benefit:",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42453,
+    "source_ar": "أ – المعاش: المبلغ المنتظم الذي يتقرر للمستفيد بموجب أحكام هذا النظام.",
+    "target_en": "a. Stipend: The regular amount paid to the beneficiary under the provisions of this Law.",
+    "source_ar_norm": "ا – المعاش: المبلغ المنتظم الذي يتقرر للمستفيد بموجب احكام هذا النظام.",
+    "target_en_norm": "a. stipend: the regular amount paid to the beneficiary under the provisions of this law.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42454,
+    "source_ar": "ب – المساعدة: المبلغ المقطوع الذي يتقرر للمستفيد بموجب حكم المادة (الثالثة عشرة) من هذا النظام.",
+    "target_en": "b. Aid: The lump sum amount paid to the beneficiary under Article ١٣ of this Law.",
+    "source_ar_norm": "ب – المساعدة: المبلغ المقطوع الذي يتقرر للمستفيد بموجب حكم المادة (الثالثة عشرة) من هذا النظام.",
+    "target_en_norm": "b. aid: the lump sum amount paid to the beneficiary under article ١٣ of this law.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42455,
+    "source_ar": "٥ – اليتيم: أي ذكر أو أنثي توفي أبوه ولم يتجاوز سن الثامنة عشرة. وليس له عائل مقتدر أو مصدر كاف للعيش. ويعد في حكم اليتيم مجهول الأب، وكذلك من ثبت غياب أبيه ولم يعرف مكان إقامته مدة تزيد على ستة أشهر.",
+    "target_en": "٥. Orphan: Any child under the age of eighteen of a deceased father and with no financially-capable supporter or sufficient means for living, including minors of unknown fathers or of absent fathers whose whereabouts is unknown for more than six months.",
+    "source_ar_norm": "٥ – اليتيم: اي ذكر او انثي توفي ابوه ولم يتجاوز سن الثامنة عشرة. وليس له عائل مقتدر او مصدر كاف للعيش. ويعد في حكم اليتيم مجهول الاب، وكذلك من ثبت غياب ابيه ولم يعرف مكان اقامته مدة تزيد علي ستة اشهر.",
+    "target_en_norm": "٥. orphan: any child under the age of eighteen of a deceased father and with no financially-capable supporter or sufficient means for living, including minors of unknown fathers or of absent fathers whose whereabouts is unknown for more than six months.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42456,
+    "source_ar": "٦ – العاجز عن العمل:",
+    "target_en": "٦. The disabled:",
+    "source_ar_norm": "٦ – العاجز عن العمل:",
+    "target_en_norm": "٦. the disabled:",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42457,
+    "source_ar": "من ثبت طبيًا أنه غير قادر – بصفة دائمة أو مؤقتة – على القيام بأي عمل، أو نقصت قدرته على أداء العمل المناسب بسبب مرض أو عاهة، وليس له عائل مقتدر أو مصدر كاف للعيش.",
+    "target_en": "Any person medically proven to be, temporarily or permanently, unable to work or whose ability to perform suitable work is undermined due to sickness or impairment and with no financially-capable supporter or sufficient means for living.",
+    "source_ar_norm": "من ثبت طبيا انه غير قادر – بصفة دائمة او مؤقتة – علي القيام باي عمل، او نقصت قدرته علي اداء العمل المناسب بسبب مرض او عاهة، وليس له عائل مقتدر او مصدر كاف للعيش.",
+    "target_en_norm": "any person medically proven to be, temporarily or permanently, unable to work or whose ability to perform suitable work is undermined due to sickness or impairment and with no financially-capable supporter or sufficient means for living.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42458,
+    "source_ar": "٧ – من بلغ سن الشيخوخة:",
+    "target_en": "٧. The elderly:",
+    "source_ar_norm": "٧ – من بلغ سن الشيخوخة:",
+    "target_en_norm": "٧. the elderly:",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42459,
+    "source_ar": "كل من تجاوز سن الستين من العمر وليس له عائل مقتدر أو مصدر كاف للعيش.",
+    "target_en": "Any person over the age of sixty and with no financially-capable supporter or sufficient means for living.",
+    "source_ar_norm": "كل من تجاوز سن الستين من العمر وليس له عائل مقتدر او مصدر كاف للعيش.",
+    "target_en_norm": "any person over the age of sixty and with no financially-capable supporter or sufficient means for living.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42460,
+    "source_ar": "٨ – الأسرة:",
+    "target_en": "٨. Family:",
+    "source_ar_norm": "٨ – الاسرة:",
+    "target_en_norm": "٨. family:",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42461,
+    "source_ar": "مجموعة مكونة من زوج وزوجة (أو أكثر) وأولادهما أو بعض أفراد هذه المجموعة.",
+    "target_en": "A group of a husband and a wife or more and their children or some members of said group.",
+    "source_ar_norm": "مجموعة مكونة من زوج وزوجة (او اكثر) واولادهما او بعض افراد هذه المجموعة.",
+    "target_en_norm": "a group of a husband and a wife or more and their children or some members of said group.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42462,
+    "source_ar": "٩ – الأسرة غير المعولة:",
+    "target_en": "٩. Unsupported family:",
+    "source_ar_norm": "٩ – الاسرة غير المعولة:",
+    "target_en_norm": "٩. unsupported family:",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42463,
+    "source_ar": "أي أسرة ليس لها عائل إما بسبب الوفاة أو الطلاق أو الفقد أو السجن أو الهجر أو غير ذلك، ولم يكن لها مصدر كاف للعيش.",
+    "target_en": "Any family with no supporter owing to death, divorce, absence, imprisonment, desertion or any other reason and with no sufficient means for living.",
+    "source_ar_norm": "اي اسرة ليس لها عائل اما بسبب الوفاة او الطلاق او الفقد او السجن او الهجر او غير ذلك، ولم يكن لها مصدر كاف للعيش.",
+    "target_en_norm": "any family with no supporter owing to death, divorce, absence, imprisonment, desertion or any other reason and with no sufficient means for living.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42464,
+    "source_ar": "١٠ – العائل: كل مسؤول مقتدر على إعالة شخص أو أشخاص تلزمه نفقتهم شرعًا.",
+    "target_en": "١٠. Supporter: Any person financially capable of supporting a person or persons he is legally bound to support.",
+    "source_ar_norm": "١٠ – العائل: كل مسؤول مقتدر علي اعالة شخص او اشخاص تلزمه نفقتهم شرعا.",
+    "target_en_norm": "١٠. supporter: any person financially capable of supporting a person or persons he is legally bound to support.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42465,
+    "source_ar": "١١ – المراكز الإيوائية أو العلاجية: دور الرعاية الاجتماعية، أو المستشفيات، وما في حكمهما.",
+    "target_en": "١١. Shelters or treatment centers: Social care homes, hospitals and the like.",
+    "source_ar_norm": "١١ – المراكز الايوائية او العلاجية: دور الرعاية الاجتماعية، او المستشفيات، وما في حكمهما.",
+    "target_en_norm": "١١. shelters or treatment centers: social care homes, hospitals and the like.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42466,
+    "source_ar": "١٢ – اللائحة: اللائحة التنفيذية لهذا النظام.",
+    "target_en": "١٢. Regulations: Implementing Regulations of this Law.",
+    "source_ar_norm": "١٢ – اللائحة: اللائحة التنفيذية لهذا النظام.",
+    "target_en_norm": "١٢. regulations: implementing regulations of this law.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42467,
+    "source_ar": "المادة الثانية:",
+    "target_en": "Article ٢",
+    "source_ar_norm": "المادة الثانية:",
+    "target_en_norm": "article ٢",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42468,
+    "source_ar": "يقتصر الانتفاع بهذا النظام على السعوديين المقيمين في المملكة إقامة دائمة ممن توافر فيهم الشروط المبينة فيه. واستثناء من شرط الجنسية تستفيد من أحكام هذا النظام المرأة الأجنبية المتزوجة من سعودي، أو أرملته التي لها أولاد منه، وكذلك أبناء الأرملة السعودية من زوجها الأجنبي. كما يستفيد من أحكامه المعوقون، والأرامل ذوات الأيتام، والأيتام، ممن لا تتوافر لديهم وثائق إثبات الجنسية العربية السعودية ولديهم بطاقات تنقل، وذلك وفقًا للشروط التي تبينها اللائحة.",
+    "target_en": "This Law shall exclusively apply to Saudi citizens permanently residing in the Kingdom who satisfy the conditions stipulated therein. Said nationality condition shall not apply to non-Saudi women married to Saudi citizens, or to widows of Saudi citizens with children from them as well as children of Saudi widows from non-Saudi husbands. This Law shall also apply to disabled persons, widows with orphans and orphans possessing no Saudi citizenship documents but bear travel documents in accordance with the conditions specified in the Regulations.",
+    "source_ar_norm": "يقتصر الانتفاع بهذا النظام علي السعوديين المقيمين في المملكة اقامة دائمة ممن توافر فيهم الشروط المبينة فيه. واستثناء من شرط الجنسية تستفيد من احكام هذا النظام المراة الاجنبية المتزوجة من سعودي، او ارملته التي لها اولاد منه، وكذلك ابناء الارملة السعودية من زوجها الاجنبي. كما يستفيد من احكامه المعوقون، والارامل ذوات الايتام، والايتام، ممن لا تتوافر لديهم وثائق اثبات الجنسية العربية السعودية ولديهم بطاقات تنقل، وذلك وفقا للشروط التي تبينها اللائحة.",
+    "target_en_norm": "this law shall exclusively apply to saudi citizens permanently residing in the kingdom who satisfy the conditions stipulated therein. said nationality condition shall not apply to non-saudi women married to saudi citizens, or to widows of saudi citizens with children from them as well as children of saudi widows from non-saudi husbands. this law shall also apply to disabled persons, widows with orphans and orphans possessing no saudi citizenship documents but bear travel documents in accordance with the conditions specified in the regulations.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42469,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article ٣",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article ٣",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42470,
+    "source_ar": "يستفيد من المعاش كل من الأفراد أو الأسر الآتية:",
+    "target_en": "The following individuals or families are eligible to receive stipends:",
+    "source_ar_norm": "يستفيد من المعاش كل من الافراد او الاسر الاتية:",
+    "target_en_norm": "the following individuals or families are eligible to receive stipends:",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42471,
+    "source_ar": "١ – اليتامى.",
+    "target_en": "١. Orphans.",
+    "source_ar_norm": "١ – اليتامي.",
+    "target_en_norm": "١. orphans.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42472,
+    "source_ar": "٢ – العاجزون عن العمل.",
+    "target_en": "٢. The disabled.",
+    "source_ar_norm": "٢ – العاجزون عن العمل.",
+    "target_en_norm": "٢. the disabled.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42473,
+    "source_ar": "٣ – من بلغ سن الشيخوخة.",
+    "target_en": "٣. The elderly.",
+    "source_ar_norm": "٣ – من بلغ سن الشيخوخة.",
+    "target_en_norm": "٣. the elderly.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42474,
+    "source_ar": "٤ – النساء اللاتي لا عائل لهن.",
+    "target_en": "٤. Unsupported women.",
+    "source_ar_norm": "٤ – النساء اللاتي لا عائل لهن.",
+    "target_en_norm": "٤. unsupported women.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42475,
+    "source_ar": "٥ – الأسرة غير المعولة.",
+    "target_en": "٥. Unsupported families.",
+    "source_ar_norm": "٥ – الاسرة غير المعولة.",
+    "target_en_norm": "٥. unsupported families.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42476,
+    "source_ar": "وتحدد اللائحة شروط استحقاقهم والإجراءات اللازمة، ويجوز إضافة فئات جديدة بقرار من مجلس الوزراء بناء على اقتراح من الوزير.",
+    "target_en": "The Regulations shall determine eligibility requirements and necessary procedures. New categories may be added pursuant to a resolution by the Council of Ministers upon the Minister's recommendation.",
+    "source_ar_norm": "وتحدد اللائحة شروط استحقاقهم والاجراءات اللازمة، ويجوز اضافة فئات جديدة بقرار من مجلس الوزراء بناء علي اقتراح من الوزير.",
+    "target_en_norm": "the regulations shall determine eligibility requirements and necessary procedures. new categories may be added pursuant to a resolution by the council of ministers upon the minister's recommendation.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42477,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article ٤",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article ٤",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42478,
+    "source_ar": "يستمر الصرف لمن تجاوز سن الثامنة عشرة من الذكور إذا كان يواصل تعليمه ولم يلتحق بعمل حتى بلوغه سن السادسة والعشرين أو تخرجه أيهما أقرب، والبنات حتى زواجهن أو توظفهن وفق ضوابط تحددها اللائحة.",
+    "target_en": "Payments to males over the age of eighteen shall continue for students until the age of twenty six or graduation, whichever earlier, and to females until married or employed pursuant to conditions specified in the Regulations.",
+    "source_ar_norm": "يستمر الصرف لمن تجاوز سن الثامنة عشرة من الذكور اذا كان يواصل تعليمه ولم يلتحق بعمل حتي بلوغه سن السادسة والعشرين او تخرجه ايهما اقرب، والبنات حتي زواجهن او توظفهن وفق ضوابط تحددها اللائحة.",
+    "target_en_norm": "payments to males over the age of eighteen shall continue for students until the age of twenty six or graduation, whichever earlier, and to females until married or employed pursuant to conditions specified in the regulations.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42479,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article ٥",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article ٥",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42480,
+    "source_ar": "لا يصرف الاستحقاق للمستفيد الذي لا يعول أسرة في حالة إقامته إقامة دائمة في أي من المراكز الإيوائية، أو العلاجية الحكومية، أو الخيرية التي تدعمها الدولة.",
+    "target_en": "No benefit shall be paid to a beneficiary not supporting a family if he is a permanent resident in any state-owned shelter or treatment center or a charity subsidized by the state.",
+    "source_ar_norm": "لا يصرف الاستحقاق للمستفيد الذي لا يعول اسرة في حالة اقامته اقامة دائمة في اي من المراكز الايوائية، او العلاجية الحكومية، او الخيرية التي تدعمها الدولة.",
+    "target_en_norm": "no benefit shall be paid to a beneficiary not supporting a family if he is a permanent resident in any state-owned shelter or treatment center or a charity subsidized by the state.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42481,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article ٦",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article ٦",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42482,
+    "source_ar": "يحدد مقدار المعاش السنوي للمستفيد الأول بمبلغ تسعة آلاف وأربعمائة ريال، ويزاد ثلاثة آلاف ومائة ريال لكل فرد إضافي، على ألا يتجاوز مقدار ما تتقضاه الأسرة المكونة من ثمانية أفراد مبلغ واحد وثلاثين ألفًا ومائة ريال، ويجوز زيادة المبلغ بقرار من مجلس الوزراء بناء على اقتراح من الوزير.",
+    "target_en": "The annual stipend paid to a primary beneficiary shall be fixed at nine thousand and four hundred riyals and shall increase by three thousand and one hundred riyals for each additional individual, provided that the total amount received by a family of eight does not exceed thirty one thousand and one hundred riyals. Said amount may be increased pursuant to a resolution by the Council of Ministers upon the Minister's recommendation.",
+    "source_ar_norm": "يحدد مقدار المعاش السنوي للمستفيد الاول بمبلغ تسعة الاف واربعمائة ريال، ويزاد ثلاثة الاف ومائة ريال لكل فرد اضافي، علي الا يتجاوز مقدار ما تتقضاه الاسرة المكونة من ثمانية افراد مبلغ واحد وثلاثين الفا ومائة ريال، ويجوز زيادة المبلغ بقرار من مجلس الوزراء بناء علي اقتراح من الوزير.",
+    "target_en_norm": "the annual stipend paid to a primary beneficiary shall be fixed at nine thousand and four hundred riyals and shall increase by three thousand and one hundred riyals for each additional individual, provided that the total amount received by a family of eight does not exceed thirty one thousand and one hundred riyals. said amount may be increased pursuant to a resolution by the council of ministers upon the minister's recommendation.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42483,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article ٧",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article ٧",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42484,
+    "source_ar": "إذا كان للمستفيد دخل دوري يزيد قدره على نصف المعاش الذي يتقرر له فيخصم من المعاش بمقدار الدخل الزائد على النصف، على ألا يقل ما يصرف عن ستة آلاف ريال، ويجوز للوزير عند الحاجة عدم الخصم.",
+    "target_en": "If a beneficiary receives a regular income exceeding half the stipend determined for him, said stipend shall be subject to a deduction equivalent to the income in excess of half the stipend, provided that the amount paid is not less than six thousand riyals. The Minister may, if necessary, waive such deduction.",
+    "source_ar_norm": "اذا كان للمستفيد دخل دوري يزيد قدره علي نصف المعاش الذي يتقرر له فيخصم من المعاش بمقدار الدخل الزائد علي النصف، علي الا يقل ما يصرف عن ستة الاف ريال، ويجوز للوزير عند الحاجة عدم الخصم.",
+    "target_en_norm": "if a beneficiary receives a regular income exceeding half the stipend determined for him, said stipend shall be subject to a deduction equivalent to the income in excess of half the stipend, provided that the amount paid is not less than six thousand riyals. the minister may, if necessary, waive such deduction.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42485,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article ٨",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article ٨",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42486,
+    "source_ar": "لا يعد من الدخول المنصوص عليها في المادة (السابعة) من هذا النظام الآتي:",
+    "target_en": "Income referred to in Article ٧ of this Law shall not include the following:",
+    "source_ar_norm": "لا يعد من الدخول المنصوص عليها في المادة (السابعة) من هذا النظام الاتي:",
+    "target_en_norm": "income referred to in article ٧ of this law shall not include the following:",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42487,
+    "source_ar": "١ – مكافآت الطلبة.",
+    "target_en": "١. Students’ stipends.",
+    "source_ar_norm": "١ – مكافات الطلبة.",
+    "target_en_norm": "١. students’ stipends.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42488,
+    "source_ar": "٢ – ما يصرف للمستفيد وأسرته من مساعدات نقدية أو عينية من المؤسسات الاجتماعية أو الصحية لأغراض العلاج.",
+    "target_en": "٢. Cash or in-kind aid disbursed to beneficiaries and their families by social or health institutions for treatment purposes.",
+    "source_ar_norm": "٢ – ما يصرف للمستفيد واسرته من مساعدات نقدية او عينية من المؤسسات الاجتماعية او الصحية لاغراض العلاج.",
+    "target_en_norm": "٢. cash or in-kind aid disbursed to beneficiaries and their families by social or health institutions for treatment purposes.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42489,
+    "source_ar": "٣ – الهبات والمساعدات والصدقات.",
+    "target_en": "٣. Grants, aid and alms.",
+    "source_ar_norm": "٣ – الهبات والمساعدات والصدقات.",
+    "target_en_norm": "٣. grants, aid and alms.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42490,
+    "source_ar": "٤ – المساعدات التي تصرف في حالات الكوارث.",
+    "target_en": "٤. Aid disbursed in the event of disasters.",
+    "source_ar_norm": "٤ – المساعدات التي تصرف في حالات الكوارث.",
+    "target_en_norm": "٤. aid disbursed in the event of disasters.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42491,
+    "source_ar": "المادة التاسعة:",
+    "target_en": "Article ٩",
+    "source_ar_norm": "المادة التاسعة:",
+    "target_en_norm": "article ٩",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42492,
+    "source_ar": "يقدم طلب المعاش إلى مكتب الضمان الاجتماعي الذي يقيم صاحب الطلب في دائرة اختصاصه، متضمنًا البيانات والمستندات اللازمة المبينة لحالة طالب المعاش ومدى استحقاقه له، وتحدد اللائحة البيانات والمستندات اللازمة وإجراءات تقديم الطلب.",
+    "target_en": "The stipend application shall be submitted to the social security office in whose jurisdiction the applicant resides. Said applicant shall include necessary particulars and documents showing state and eligibility. The Regulations shall specify necessary particulars and documents as well as application procedures.",
+    "source_ar_norm": "يقدم طلب المعاش الي مكتب الضمان الاجتماعي الذي يقيم صاحب الطلب في دائرة اختصاصه، متضمنا البيانات والمستندات اللازمة المبينة لحالة طالب المعاش ومدي استحقاقه له، وتحدد اللائحة البيانات والمستندات اللازمة واجراءات تقديم الطلب.",
+    "target_en_norm": "the stipend application shall be submitted to the social security office in whose jurisdiction the applicant resides. said applicant shall include necessary particulars and documents showing state and eligibility. the regulations shall specify necessary particulars and documents as well as application procedures.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42493,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article ١٠",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article ١٠",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42494,
+    "source_ar": "تجري الوزارة البحث اللازم في شأن الطلبات المقدمة، وفقًا للإجراءات التي تبينها اللائحة، وعلى الوزارة إعلام طالب المعاش خلال ستين يومًا من تاريخ تقديم الطلب بقرارها في استحقاقه المعاش ومبلغه أو رفض الطلب مع بيان الأسباب، فإن لم يصدر قرار خلال هذه المدة فيعد هذا في حكم القرار الصادر برفض الطلب.",
+    "target_en": "The Ministry shall conduct necessary means tests on applications in accordance with procedures specified in the Regulations, and shall notify the applicant, within sixty days of the application date, of eligibility to and amount of stipend or denial of the application, providing grounds thereof. If no decision is issued within said period, the relevant application shall be deemed denied.",
+    "source_ar_norm": "تجري الوزارة البحث اللازم في شان الطلبات المقدمة، وفقا للاجراءات التي تبينها اللائحة، وعلي الوزارة اعلام طالب المعاش خلال ستين يوما من تاريخ تقديم الطلب بقرارها في استحقاقه المعاش ومبلغه او رفض الطلب مع بيان الاسباب، فان لم يصدر قرار خلال هذه المدة فيعد هذا في حكم القرار الصادر برفض الطلب.",
+    "target_en_norm": "the ministry shall conduct necessary means tests on applications in accordance with procedures specified in the regulations, and shall notify the applicant, within sixty days of the application date, of eligibility to and amount of stipend or denial of the application, providing grounds thereof. if no decision is issued within said period, the relevant application shall be deemed denied.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42495,
+    "source_ar": "المادة الحادية عشرة:",
+    "target_en": "Article ١١",
+    "source_ar_norm": "المادة الحادية عشرة:",
+    "target_en_norm": "article ١١",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42496,
+    "source_ar": "يكون الصرف للمستفيدين شهريًا.",
+    "target_en": "Stipends shall be paid to beneficiaries on a monthly basis.",
+    "source_ar_norm": "يكون الصرف للمستفيدين شهريا.",
+    "target_en_norm": "stipends shall be paid to beneficiaries on a monthly basis.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42497,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article ١٢",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article ١٢",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42498,
+    "source_ar": "على الوزارة متابعة أحقية المستفيد بصورة دورية، والبحث عن حالات جديدة مستحقة.",
+    "target_en": "The Ministry shall periodically assess beneficiaries’ eligibility and seek new eligible cases.",
+    "source_ar_norm": "علي الوزارة متابعة احقية المستفيد بصورة دورية، والبحث عن حالات جديدة مستحقة.",
+    "target_en_norm": "the ministry shall periodically assess beneficiaries’ eligibility and seek new eligible cases.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42499,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article ١٣",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article ١٣",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  },
+  {
+    "id": 42500,
+    "source_ar": "للوزير – أو من يفوضه – صرف مساعدات نقدية مقطوعة للحالات التي يري استحقاقها للمساعدة، على ألا تتجاوز ثلاثين ألف ريال لكل حالة، وتحدد اللائحة ضوابط ذلك.",
+    "target_en": "The Minister, or designee, may pay lump sum financial aid for cases he deems eligible, provided that such amount does not exceed thirty thousand riyals for each case, subject to conditions specified by the Regulations.",
+    "source_ar_norm": "للوزير – او من يفوضه – صرف مساعدات نقدية مقطوعة للحالات التي يري استحقاقها للمساعدة، علي الا تتجاوز ثلاثين الف ريال لكل حالة، وتحدد اللائحة ضوابط ذلك.",
+    "target_en_norm": "the minister, or designee, may pay lump sum financial aid for cases he deems eligible, provided that such amount does not exceed thirty thousand riyals for each case, subject to conditions specified by the regulations.",
+    "file_name": "نظام الضمان الاجتماعي (قديم).docx"
+  }
+]

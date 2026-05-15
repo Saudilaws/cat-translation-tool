@@ -1,0 +1,802 @@
+[
+  {
+    "id": 42101,
+    "source_ar": "4- تلتزم الشركة بأعمال المصفي الداخلة في حدود سلطاته.",
+    "target_en": "4. The company shall be bound by the liquidator’s acts falling within his powers.",
+    "source_ar_norm": "4- تلتزم الشركة باعمال المصفي الداخلة في حدود سلطاته.",
+    "target_en_norm": "4. the company shall be bound by the liquidator’s acts falling within his powers.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42102,
+    "source_ar": "5- تنتهي صلاحيات المصفي بانتهاء مدة التصفية، ما لم تمدد وفق أحكام النظام.",
+    "target_en": "5. The liquidator’s powers shall expire upon the end of the liquidation period, unless extended in accordance with the provisions of the Law.",
+    "source_ar_norm": "5- تنتهي صلاحيات المصفي بانتهاء مدة التصفية، ما لم تمدد وفق احكام النظام.",
+    "target_en_norm": "5. the liquidator’s powers shall expire upon the end of the liquidation period, unless extended in accordance with the provisions of the law.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42103,
+    "source_ar": "المادة الثامنة بعد المائتين:",
+    "target_en": "Article 208",
+    "source_ar_norm": "المادة الثامنة بعد المائتين:",
+    "target_en_norm": "article 208",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42104,
+    "source_ar": "1- على المصفي سداد ديون الشركة إن كانت حالة حسب الأولوية، وتجنيب المبالغ اللازمة لسدادها إن كانت آجلة أو متنازعاً عليها.",
+    "target_en": "1. The liquidator shall pay the company’s debts, if due, based on priority, and shall set aside funds necessary for payment if they are deferred or disputed.",
+    "source_ar_norm": "1- علي المصفي سداد ديون الشركة ان كانت حالة حسب الاولوية، وتجنيب المبالغ اللازمة لسدادها ان كانت اجلة او متنازعا عليها.",
+    "target_en_norm": "1. the liquidator shall pay the company’s debts, if due, based on priority, and shall set aside funds necessary for payment if they are deferred or disputed.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42105,
+    "source_ar": "2- تكون للديون الناشئة من التصفية أولوية على الديون الأخرى.",
+    "target_en": "2. Debts arising from liquidation shall have priority over other debts.",
+    "source_ar_norm": "2- تكون للديون الناشئة من التصفية اولوية علي الديون الاخري.",
+    "target_en_norm": "2. debts arising from liquidation shall have priority over other debts.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42106,
+    "source_ar": "3- على المصفي بعد سداد الديون أن يرد إلى الشركاء قيمة حصصهم في رأس المال، وأن يوزع عليهم الفائض بعد ذلك وفقاً لأحكام عقد تأسيس الشركة. فإن لم يتضمن العقد أحكاماً في هذا الشأن، وزع الفائض على الشركاء بنسبة حصصهم في رأس المال.",
+    "target_en": "3. After payment of debts, the liquidator shall return the value of their shares in the capital to the partners and shall distribute any surplus to them in accordance with the provisions of the company’s articles of incorporation. If the articles of incorporation are silent on this matter, the surplus shall be distributed to partners in proportion to their shares in the capital.",
+    "source_ar_norm": "3- علي المصفي بعد سداد الديون ان يرد الي الشركاء قيمة حصصهم في راس المال، وان يوزع عليهم الفائض بعد ذلك وفقا لاحكام عقد تاسيس الشركة. فان لم يتضمن العقد احكاما في هذا الشان، وزع الفائض علي الشركاء بنسبة حصصهم في راس المال.",
+    "target_en_norm": "3. after payment of debts, the liquidator shall return the value of their shares in the capital to the partners and shall distribute any surplus to them in accordance with the provisions of the company’s articles of incorporation. if the articles of incorporation are silent on this matter, the surplus shall be distributed to partners in proportion to their shares in the capital.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42107,
+    "source_ar": "4- إذا لم يكف صافي موجودات الشركة للوفاء بحصص الشركاء، وزعت الخسارة بينهم بحسب النسبة المقررة في توزيع الخسائر.",
+    "target_en": "4. If the company’s net assets are insufficient to pay partners’ shares, the loss shall be distributed among them according to the percentage prescribed for distribution of losses.",
+    "source_ar_norm": "4- اذا لم يكف صافي موجودات الشركة للوفاء بحصص الشركاء، وزعت الخسارة بينهم بحسب النسبة المقررة في توزيع الخسائر.",
+    "target_en_norm": "4. if the company’s net assets are insufficient to pay partners’ shares, the loss shall be distributed among them according to the percentage prescribed for distribution of losses.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42108,
+    "source_ar": "المادة التاسعة بعد المائتين:",
+    "target_en": "Article 209",
+    "source_ar_norm": "المادة التاسعة بعد المائتين:",
+    "target_en_norm": "article 209",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42109,
+    "source_ar": "1- يُعدّ المصفي خلال ثلاثة أشهر من مباشرته أعماله، وبالاشتراك مع مراجع حسابات الشركة - إن وجد - جرداً بجميع ما للشركة من أصول وما عليها من خصوم. ومع ذلك يجوز للجهة التي عينت المصفي تمديد هذه المدة عند الاقتضاء.",
+    "target_en": "1. The liquidator shall prepare, within three months from assuming his duty, and in conjunction with the company’s auditor, if any, an inventory of the company’s assets and liabilities. The authority appointing the liquidator may extend this period, if necessary.",
+    "source_ar_norm": "1- يعد المصفي خلال ثلاثة اشهر من مباشرته اعماله، وبالاشتراك مع مراجع حسابات الشركة - ان وجد - جردا بجميع ما للشركة من اصول وما عليها من خصوم. ومع ذلك يجوز للجهة التي عينت المصفي تمديد هذه المدة عند الاقتضاء.",
+    "target_en_norm": "1. the liquidator shall prepare, within three months from assuming his duty, and in conjunction with the company’s auditor, if any, an inventory of the company’s assets and liabilities. the authority appointing the liquidator may extend this period, if necessary.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42110,
+    "source_ar": "2- على مديري الشركة أو أعضاء مجلس الإدارة أن يقدموا إلى المصفي دفاتر الشركة وسجلاتها ووثائقها والإيضاحات والبيانات التي يطلبها.",
+    "target_en": "2. The company’s directors or board members shall provide the liquidator with the company’s books, records, documents, clarifications and any information he requests.",
+    "source_ar_norm": "2- علي مديري الشركة او اعضاء مجلس الادارة ان يقدموا الي المصفي دفاتر الشركة وسجلاتها ووثائقها والايضاحات والبيانات التي يطلبها.",
+    "target_en_norm": "2. the company’s directors or board members shall provide the liquidator with the company’s books, records, documents, clarifications and any information he requests.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42111,
+    "source_ar": "3- يعد المصفي في نهاية كل سنة مالية قوائم مالية وتقريراً عن أعمال التصفية، على أن يتضمن التقرير بياناً عن ملحوظاته وتحفظاته على أعمال التصفية والأسباب التي أدت إلى إعاقة أعمال التصفية أو تأخيرها - إن وجدت - واقتراحاته لتمديد مدة التصفية. وعليه تزويد الوزارة بنسخة من هذه الوثائق وعرضها على الشركاء أو الجمعية العامة للموافقة عليها وفقاً لأحكام عقد تأسيس الشركة أو نظامها الأساس.",
+    "target_en": "3. At the end of each fiscal year, the liquidator shall prepare financial statements and a liquidation report, provided that the report includes his remarks and reservations concerning liquidation proceedings, causes leading to hindering or delaying liquidation proceedings, if any, and his recommendations for extension of the liquidation period. The liquidator shall provide the Ministry with a copy of said documents and submit them to the partners or the general assembly for approval, in accordance with the company’s articles of incorporation or articles of association.",
+    "source_ar_norm": "3- يعد المصفي في نهاية كل سنة مالية قوائم مالية وتقريرا عن اعمال التصفية، علي ان يتضمن التقرير بيانا عن ملحوظاته وتحفظاته علي اعمال التصفية والاسباب التي ادت الي اعاقة اعمال التصفية او تاخيرها - ان وجدت - واقتراحاته لتمديد مدة التصفية. وعليه تزويد الوزارة بنسخة من هذه الوثائق وعرضها علي الشركاء او الجمعية العامة للموافقة عليها وفقا لاحكام عقد تاسيس الشركة او نظامها الاساس.",
+    "target_en_norm": "3. at the end of each fiscal year, the liquidator shall prepare financial statements and a liquidation report, provided that the report includes his remarks and reservations concerning liquidation proceedings, causes leading to hindering or delaying liquidation proceedings, if any, and his recommendations for extension of the liquidation period. the liquidator shall provide the ministry with a copy of said documents and submit them to the partners or the general assembly for approval, in accordance with the company’s articles of incorporation or articles of association.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42112,
+    "source_ar": "4- يقدم المصفي عند انتهاء أعمال التصفية تقريراً مالياً تفصيلياً عما قام به من أعمال. وتنتهي التصفية بتصديق الجهة التي عينت المصفي على هذا التقرير.",
+    "target_en": "4. At the end of liquidation, the liquidator shall prepare a detailed financial report on the liquidation. The liquidation shall end with the attestation of such report by the authority appointing the liquidator.",
+    "source_ar_norm": "4- يقدم المصفي عند انتهاء اعمال التصفية تقريرا ماليا تفصيليا عما قام به من اعمال. وتنتهي التصفية بتصديق الجهة التي عينت المصفي علي هذا التقرير.",
+    "target_en_norm": "4. at the end of liquidation, the liquidator shall prepare a detailed financial report on the liquidation. the liquidation shall end with the attestation of such report by the authority appointing the liquidator.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42113,
+    "source_ar": "5- يشهر المصفي انتهاء التصفية بطرق الشهر المقررة لما يطرأ على عقد تأسيس الشركة أو نظامها الأساس من تعديلات.",
+    "target_en": "5. The liquidator shall announce the end of liquidation in the manner prescribed for announcement of amendments made to the company’s articles of incorporation or articles of association.",
+    "source_ar_norm": "5- يشهر المصفي انتهاء التصفية بطرق الشهر المقررة لما يطرا علي عقد تاسيس الشركة او نظامها الاساس من تعديلات.",
+    "target_en_norm": "5. the liquidator shall announce the end of liquidation in the manner prescribed for announcement of amendments made to the company’s articles of incorporation or articles of association.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42114,
+    "source_ar": "المادة العاشرة بعد المائتين:",
+    "target_en": "Article 210",
+    "source_ar_norm": "المادة العاشرة بعد المائتين:",
+    "target_en_norm": "article 210",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42115,
+    "source_ar": "فيما عدا حالتي الغش والتزوير، لا تسمع الدعوى ضد المصفي بسبب أعمال التصفية أو ضد الشركاء بسبب أعمال الشركة أو ضد مديري الشركة أو أعضاء مجلس الإدارة أو مراجع الحسابات بسبب أعمال وظائفهم بعد انقضاء خمس سنوات على شهر انتهاء التصفية وفق أحكام المادة (التاسعة بعد المائتين) من النظام وشطب قيد الشركة من السجل التجاري وفقاً لنظام السجل التجاري، أو ثلاث سنوات من انتهاء عمل المصفي؛ أيهما أبعد.",
+    "target_en": "In cases other than fraud and forgery, a claim against a liquidator due to the liquidation proceedings; against partners due to the company’s activities; or against the company’s directors, board members or auditors arising from performing their duties shall not be heard after the lapse of five years from the date of announcement of the end of liquidation in accordance with the provisions of Article 209 of the Law and after striking off the company from the commercial register in accordance with the Commercial Register Law, or after the lapse of three years from the end of liquidation, whichever occurs later.",
+    "source_ar_norm": "فيما عدا حالتي الغش والتزوير، لا تسمع الدعوي ضد المصفي بسبب اعمال التصفية او ضد الشركاء بسبب اعمال الشركة او ضد مديري الشركة او اعضاء مجلس الادارة او مراجع الحسابات بسبب اعمال وظائفهم بعد انقضاء خمس سنوات علي شهر انتهاء التصفية وفق احكام المادة (التاسعة بعد المائتين) من النظام وشطب قيد الشركة من السجل التجاري وفقا لنظام السجل التجاري، او ثلاث سنوات من انتهاء عمل المصفي؛ ايهما ابعد.",
+    "target_en_norm": "in cases other than fraud and forgery, a claim against a liquidator due to the liquidation proceedings; against partners due to the company’s activities; or against the company’s directors, board members or auditors arising from performing their duties shall not be heard after the lapse of five years from the date of announcement of the end of liquidation in accordance with the provisions of article 209 of the law and after striking off the company from the commercial register in accordance with the commercial register law, or after the lapse of three years from the end of liquidation, whichever occurs later.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42116,
+    "source_ar": "الباب الحادي عشر: العقوبات",
+    "target_en": "Part 11: Penalties",
+    "source_ar_norm": "الباب الحادي عشر: العقوبات",
+    "target_en_norm": "part 11: penalties",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42117,
+    "source_ar": "المادة الحادية عشرة بعد المائتين:",
+    "target_en": "Article 211",
+    "source_ar_norm": "المادة الحادية عشرة بعد المائتين:",
+    "target_en_norm": "article 211",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42118,
+    "source_ar": "مع عدم الإخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب بالسجن مدة لا تزيد على خمس سنوات وبغرامة لا تزيد على (5.000.000) خمسة ملايين ريال، أو بإحدى هاتين العقوبتين:",
+    "target_en": "Without prejudice to any harsher penalty stipulated in any other law, imprisonment for a period not exceeding five years and a fine of not more than 5,000,000 riyals, or either penalty, shall apply to:",
+    "source_ar_norm": "مع عدم الاخلال باي عقوبة اشد ينص عليها نظام اخر، يعاقب بالسجن مدة لا تزيد علي خمس سنوات وبغرامة لا تزيد علي (5.000.000) خمسة ملايين ريال، او باحدي هاتين العقوبتين:",
+    "target_en_norm": "without prejudice to any harsher penalty stipulated in any other law, imprisonment for a period not exceeding five years and a fine of not more than 5,000,000 riyals, or either penalty, shall apply to:",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42119,
+    "source_ar": "أ - كل مدير أو مسؤول أو عضو مجلس إدارة أو مراجع حسابات أو مصف سجَّل بيانات كاذبة أو مضللة في القوائم المالية أو فيما يعده من تقارير للشركاء أو للجمعية العامة، أو أغفل تضمين هذه القوائم أو التقارير وقائع جوهرية بقصد إخفاء المركز المالي للشركة عن الشركاء أو غيرهم.",
+    "target_en": "a) any director, officer, board member, auditor or liquidator who provides false or misleading information in financial statements or in any of the reports submitted to partners or the general assembly, or omits material facts from these statements or reports with the intention to conceal the financial position of the company from partners or others;",
+    "source_ar_norm": "ا - كل مدير او مسؤول او عضو مجلس ادارة او مراجع حسابات او مصف سجل بيانات كاذبة او مضللة في القوائم المالية او فيما يعده من تقارير للشركاء او للجمعية العامة، او اغفل تضمين هذه القوائم او التقارير وقائع جوهرية بقصد اخفاء المركز المالي للشركة عن الشركاء او غيرهم.",
+    "target_en_norm": "a) any director, officer, board member, auditor or liquidator who provides false or misleading information in financial statements or in any of the reports submitted to partners or the general assembly, or omits material facts from these statements or reports with the intention to conceal the financial position of the company from partners or others;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42120,
+    "source_ar": "ب - كل مدير أو مسؤول أو عضو مجلس إدارة يستعمل أموال الشركة استعمالاً يعلم أنه ضد مصالح الشركة لتحقيق أغراض شخصية أو لمحاباة شركة أو شخص أو الانتفاع من مشروع أو صفقة له فيها مصلحة مباشرة أو غير مباشرة.",
+    "target_en": "b) any director, officer or board member who knowingly uses the company’s funds in a manner detrimental to its interest to achieve personal gain, favoring a company or person or benefit from a project or a deal in which he has direct or indirect interest;",
+    "source_ar_norm": "ب - كل مدير او مسؤول او عضو مجلس ادارة يستعمل اموال الشركة استعمالا يعلم انه ضد مصالح الشركة لتحقيق اغراض شخصية او لمحاباة شركة او شخص او الانتفاع من مشروع او صفقة له فيها مصلحة مباشرة او غير مباشرة.",
+    "target_en_norm": "b) any director, officer or board member who knowingly uses the company’s funds in a manner detrimental to its interest to achieve personal gain, favoring a company or person or benefit from a project or a deal in which he has direct or indirect interest;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42121,
+    "source_ar": "ج - كل مدير أو مسؤول أو عضو مجلس إدارة يستعمل السلطات التي يتمتع بها أو الأصوات التي يحوزها بتلك الصفة، استعمالاً يعلم أنه ضد مصالح الشركة؛ وذلك لتحقيق أغراض شخصية أو لمحاباة شركة أو شخص أو الانتفاع من مشروع أو صفقة له فيها مصلحة مباشرة أو غير مباشرة.",
+    "target_en": "c) any director, officer or board member who knowingly uses his powers or the votes he acquires in that capacity in a manner detrimental to the interest of the company for achieving personal gain, favoring a company or person or benefiting from a project or deal where he has direct or indirect interest;",
+    "source_ar_norm": "ج - كل مدير او مسؤول او عضو مجلس ادارة يستعمل السلطات التي يتمتع بها او الاصوات التي يحوزها بتلك الصفة، استعمالا يعلم انه ضد مصالح الشركة؛ وذلك لتحقيق اغراض شخصية او لمحاباة شركة او شخص او الانتفاع من مشروع او صفقة له فيها مصلحة مباشرة او غير مباشرة.",
+    "target_en_norm": "c) any director, officer or board member who knowingly uses his powers or the votes he acquires in that capacity in a manner detrimental to the interest of the company for achieving personal gain, favoring a company or person or benefiting from a project or deal where he has direct or indirect interest;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42122,
+    "source_ar": "د - كل مدير أو مسؤول أو عضو مجلس إدارة أو مراجع حسابات لم يدعُ الجمعية العامة للشركة أو الشركاء - أو لم يتخذ ما يلزم لذلك بحسب الأحوال - عند علمه ببلوغ الخسائر الحدود المقدرة وفقاً لأحكام المادتين (الخمسين بعد المائة) و(الحادية والثمانين بعد المائة) من النظام، أو لم يشهر الواقعة وفق أحكام المادة (الحادية والثمانين بعد المائة) منه.",
+    "target_en": "d) any director, officer, board member or auditor who fails to call for a meeting of the general assembly or partners of the company, or who fails to take necessary action, as the case may be, upon becoming aware that the losses reached the limits set in Articles 150 and 181 of the Law, or if he fails to announce the same in accordance with the provisions of Article 181 of the Law; and",
+    "source_ar_norm": "د - كل مدير او مسؤول او عضو مجلس ادارة او مراجع حسابات لم يدع الجمعية العامة للشركة او الشركاء - او لم يتخذ ما يلزم لذلك بحسب الاحوال - عند علمه ببلوغ الخسائر الحدود المقدرة وفقا لاحكام المادتين (الخمسين بعد المائة) و(الحادية والثمانين بعد المائة) من النظام، او لم يشهر الواقعة وفق احكام المادة (الحادية والثمانين بعد المائة) منه.",
+    "target_en_norm": "d) any director, officer, board member or auditor who fails to call for a meeting of the general assembly or partners of the company, or who fails to take necessary action, as the case may be, upon becoming aware that the losses reached the limits set in articles 150 and 181 of the law, or if he fails to announce the same in accordance with the provisions of article 181 of the law; and",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42123,
+    "source_ar": "هـ - كل مصف يتولى مسؤولية تصفية الشركة يستعمل أموالها أو أصولها أو حقوقها لدى الغير استعمالاً يعلم تعارضه مع مصالح الشركة أو يسبب عمداً الضرر للشركاء أو الدائنين، وذلك سواء كان من أجل تحقيق أغراض شخصية أو لتفضيل شركة أو شخص أو الانتفاع من مشروع أو صفقة له فيها مصلحة مباشرة أو غير مباشرة أو كانت تصرفاته في أموال الشركة متحققة من أجل تفضيل دائن على آخر في استيفاء حقه دون سبب مشروع.",
+    "target_en": "e) any liquidator who uses the company’s funds, assets or entitlements in a manner that contradicts the company’s interests or causes deliberate damage to partners or creditors, whether to achieve a personal gain, favor a company or person, benefit from a project or a deal in which he has a direct or indirect interest or favor a creditor over other creditors in satisfying his dues without a legitimate reason.",
+    "source_ar_norm": "ه - كل مصف يتولي مسؤولية تصفية الشركة يستعمل اموالها او اصولها او حقوقها لدي الغير استعمالا يعلم تعارضه مع مصالح الشركة او يسبب عمدا الضرر للشركاء او الدائنين، وذلك سواء كان من اجل تحقيق اغراض شخصية او لتفضيل شركة او شخص او الانتفاع من مشروع او صفقة له فيها مصلحة مباشرة او غير مباشرة او كانت تصرفاته في اموال الشركة متحققة من اجل تفضيل دائن علي اخر في استيفاء حقه دون سبب مشروع.",
+    "target_en_norm": "e) any liquidator who uses the company’s funds, assets or entitlements in a manner that contradicts the company’s interests or causes deliberate damage to partners or creditors, whether to achieve a personal gain, favor a company or person, benefit from a project or a deal in which he has a direct or indirect interest or favor a creditor over other creditors in satisfying his dues without a legitimate reason.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42124,
+    "source_ar": "المادة الثانية عشرة بعد المائتين:",
+    "target_en": "Article 212",
+    "source_ar_norm": "المادة الثانية عشرة بعد المائتين:",
+    "target_en_norm": "article 212",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42125,
+    "source_ar": "مع عدم الإخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب بالسجن مدة لا تزيد على سنة وبغرامة لا تزيد على (1.000.000) مليون ريال، أو بإحدى هاتين العقوبتين:",
+    "target_en": "Without prejudice to any harsher penalty set forth in any other law, imprisonment for a period not exceeding one year and a fine not exceeding 1,000,000 riyals, or either penalty, shall apply to:",
+    "source_ar_norm": "مع عدم الاخلال باي عقوبة اشد ينص عليها نظام اخر، يعاقب بالسجن مدة لا تزيد علي سنة وبغرامة لا تزيد علي (1.000.000) مليون ريال، او باحدي هاتين العقوبتين:",
+    "target_en_norm": "without prejudice to any harsher penalty set forth in any other law, imprisonment for a period not exceeding one year and a fine not exceeding 1,000,000 riyals, or either penalty, shall apply to:",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42126,
+    "source_ar": "أ - كل مراجع للحسابات لم يبلغ الشركة عن طريق الأجهزة أو الأشخاص المسؤولين عن إدارتها عن المخالفات التي يكتشفها أثناء عمله والتي يبدو له اشتمالها على مخالفات جنائية.",
+    "target_en": "a) any auditor who fails to notify the company, whether through entities or persons in charge of its management, of any violations he detects during the course of his duties that may involve criminal violations;",
+    "source_ar_norm": "ا - كل مراجع للحسابات لم يبلغ الشركة عن طريق الاجهزة او الاشخاص المسؤولين عن ادارتها عن المخالفات التي يكتشفها اثناء عمله والتي يبدو له اشتمالها علي مخالفات جنائية.",
+    "target_en_norm": "a) any auditor who fails to notify the company, whether through entities or persons in charge of its management, of any violations he detects during the course of his duties that may involve criminal violations;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42127,
+    "source_ar": "ب - كل موظف عام أفشى لغير الجهات المختصة أسرار الشركة التي اطلع عليها بحكم وظيفته.",
+    "target_en": "b) any public servant who divulges to other than the relevant agencies the company’s secrets he becomes privy to by virtue of his position;",
+    "source_ar_norm": "ب - كل موظف عام افشي لغير الجهات المختصة اسرار الشركة التي اطلع عليها بحكم وظيفته.",
+    "target_en_norm": "b) any public servant who divulges to other than the relevant agencies the company’s secrets he becomes privy to by virtue of his position;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42128,
+    "source_ar": "ج - كل شخص معين من أجل التفتيش على الشركة يثبت عمداً فيما يعد من تقارير وقائع كاذبة، أو يغفل عمداً ذكر وقائع جوهرية من شأنها أن تؤثر في نتيجة التفتيش.",
+    "target_en": "c) any person assigned to perform inspection of a company, where he intentionally provides false information in the reports he prepares or intentionally omits material facts that may affect the outcome of inspection;",
+    "source_ar_norm": "ج - كل شخص معين من اجل التفتيش علي الشركة يثبت عمدا فيما يعد من تقارير وقائع كاذبة، او يغفل عمدا ذكر وقائع جوهرية من شانها ان تؤثر في نتيجة التفتيش.",
+    "target_en_norm": "c) any person assigned to perform inspection of a company, where he intentionally provides false information in the reports he prepares or intentionally omits material facts that may affect the outcome of inspection;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42129,
+    "source_ar": "د - كل من أعلن أو نشر أو صرح بأي وسيلة قاصداً الإيهام بحصول تسجيل شركة لم تستكمل إجراءات تسجيلها لأي سبب.",
+    "target_en": "d) any person who, by any means, makes an announcement or declaration in a manner that implies the registration of a company whose registration is not completed;",
+    "source_ar_norm": "د - كل من اعلن او نشر او صرح باي وسيلة قاصدا الايهام بحصول تسجيل شركة لم تستكمل اجراءات تسجيلها لاي سبب.",
+    "target_en_norm": "d) any person who, by any means, makes an announcement or declaration in a manner that implies the registration of a company whose registration is not completed;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42130,
+    "source_ar": "هـ - كل من عمل - من أجل جلب اكتتابات أو استيفاء أقيام الحصص - على نشر أسماء لأشخاص خلافاً للحقيقة واعتبارهم مرتبطين أو سيرتبطون بالشركة بأي شكل من الأشكال.",
+    "target_en": "e) any person who, in order to solicit subscriptions or collect the values of shares, falsely uses names of persons as being affiliated or will be affiliated with the company in any manner;",
+    "source_ar_norm": "ه - كل من عمل - من اجل جلب اكتتابات او استيفاء اقيام الحصص - علي نشر اسماء لاشخاص خلافا للحقيقة واعتبارهم مرتبطين او سيرتبطون بالشركة باي شكل من الاشكال.",
+    "target_en_norm": "e) any person who, in order to solicit subscriptions or collect the values of shares, falsely uses names of persons as being affiliated or will be affiliated with the company in any manner;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42131,
+    "source_ar": "و- كل من يُثبت - عمداً - في عقد تأسيس الشركة أو في نظامها الأساس أو في غير ذلك من وثائق الشركة أو في طلب الترخيص بتأسيس الشركة أو في المستندات المرافقة لطلب التأسيس؛ بيانات كاذبة أو مخالفة لأحكام النظام، وكل من وقع تلك الوثائق أو نشرها مع علمه بذلك.",
+    "target_en": "f) any person who intentionally includes in the company’s articles of incorporation, articles of association or other documents, or in the company’s incorporation application or supporting documents, false information or information in violation of the provisions of the Law, and any person who knowingly signs or publishes such documents;",
+    "source_ar_norm": "و- كل من يثبت - عمدا - في عقد تاسيس الشركة او في نظامها الاساس او في غير ذلك من وثائق الشركة او في طلب الترخيص بتاسيس الشركة او في المستندات المرافقة لطلب التاسيس؛ بيانات كاذبة او مخالفة لاحكام النظام، وكل من وقع تلك الوثائق او نشرها مع علمه بذلك.",
+    "target_en_norm": "f) any person who intentionally includes in the company’s articles of incorporation, articles of association or other documents, or in the company’s incorporation application or supporting documents, false information or information in violation of the provisions of the law, and any person who knowingly signs or publishes such documents;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42132,
+    "source_ar": "ز- كل من بالغ أو قدم إقرارات كاذبة من الشركاء أو من غيرهم فيما يخص تقويم الحصص العينية أو توزيع الحصص بين الشركاء أو الوفاء بكامل قيمتها مع علمه بذلك، سواء كان ذلك عند تأسيس الشركة أو عند زيادة رأس المال أو عند تعديل توزيع الحصص بين الشركاء.",
+    "target_en": "g) any partner or non-partner who knowingly inflates or provides false statements regarding the valuation of in-kind shares, distribution of shares among partners or paying their value in full, whether upon the incorporation of the company, increase of capital or redistribution of shares among partners;",
+    "source_ar_norm": "ز- كل من بالغ او قدم اقرارات كاذبة من الشركاء او من غيرهم فيما يخص تقويم الحصص العينية او توزيع الحصص بين الشركاء او الوفاء بكامل قيمتها مع علمه بذلك، سواء كان ذلك عند تاسيس الشركة او عند زيادة راس المال او عند تعديل توزيع الحصص بين الشركاء.",
+    "target_en_norm": "g) any partner or non-partner who knowingly inflates or provides false statements regarding the valuation of in-kind shares, distribution of shares among partners or paying their value in full, whether upon the incorporation of the company, increase of capital or redistribution of shares among partners;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42133,
+    "source_ar": "ح - كل من انتحل شخصية مالك الأسهم أو الشريك، أو قام نتيجة عمله ذلك بالتصويت في إحدى جمعيات المساهمين أو الشركاء، سواء قام بذلك شخصياً أو بوساطة شخص آخر.",
+    "target_en": "h) any person who impersonates a shareholder or partner, or votes as a result in an assembly of shareholders or partners, whether in person or by proxy; and",
+    "source_ar_norm": "ح - كل من انتحل شخصية مالك الاسهم او الشريك، او قام نتيجة عمله ذلك بالتصويت في احدي جمعيات المساهمين او الشركاء، سواء قام بذلك شخصيا او بوساطة شخص اخر.",
+    "target_en_norm": "h) any person who impersonates a shareholder or partner, or votes as a result in an assembly of shareholders or partners, whether in person or by proxy; and",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42134,
+    "source_ar": "ط - كل من استخدم الشركة في غير الغرض الذي رخصت من أجله.",
+    "target_en": "i) any person who uses the company in other than the purposes for which it is licensed.",
+    "source_ar_norm": "ط - كل من استخدم الشركة في غير الغرض الذي رخصت من اجله.",
+    "target_en_norm": "i) any person who uses the company in other than the purposes for which it is licensed.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42135,
+    "source_ar": "المادة الثالثة عشرة بعد المائتين:",
+    "target_en": "Article 213",
+    "source_ar_norm": "المادة الثالثة عشرة بعد المائتين:",
+    "target_en_norm": "article 213",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42136,
+    "source_ar": "مع عدم الإخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب بغرامة لا تزيد على (5.00.000) خمسمائة ألف ريال:",
+    "target_en": "Without prejudice to any harsher penalty stipulated in any other law, a fine not exceeding 500,000 riyals shall apply to:",
+    "source_ar_norm": "مع عدم الاخلال باي عقوبة اشد ينص عليها نظام اخر، يعاقب بغرامة لا تزيد علي (5.00.000) خمسمائة الف ريال:",
+    "target_en_norm": "without prejudice to any harsher penalty stipulated in any other law, a fine not exceeding 500,000 riyals shall apply to:",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42137,
+    "source_ar": "أ - كل من قرر أو وزع أو قبض بسوء نية، أرباحاً أو عوائد على خلاف أحكام النظام أو عقد تأسيس الشركة أو نظامها الأساس، وكل مراجع حسابات صدق على ذلك التوزيع مع علمه بالمخالفة.",
+    "target_en": "a) any person who approves, distributes or receives, in bad faith, profits or proceeds in violation of the provisions of the Law or the company’s articles of incorporation or articles of association, and any auditor who approves such distribution with knowledge of such violation;",
+    "source_ar_norm": "ا - كل من قرر او وزع او قبض بسوء نية، ارباحا او عوائد علي خلاف احكام النظام او عقد تاسيس الشركة او نظامها الاساس، وكل مراجع حسابات صدق علي ذلك التوزيع مع علمه بالمخالفة.",
+    "target_en_norm": "a) any person who approves, distributes or receives, in bad faith, profits or proceeds in violation of the provisions of the law or the company’s articles of incorporation or articles of association, and any auditor who approves such distribution with knowledge of such violation;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42138,
+    "source_ar": "ب - كل من تسبب عمداً من أعضاء مجلس الإدارة في تعطيل دعوة الجمعية العامة أو انعقادها.",
+    "target_en": "b) any board member who intentionally impedes the call for a general assembly meeting or the holding of such meeting;",
+    "source_ar_norm": "ب - كل من تسبب عمدا من اعضاء مجلس الادارة في تعطيل دعوة الجمعية العامة او انعقادها.",
+    "target_en_norm": "b) any board member who intentionally impedes the call for a general assembly meeting or the holding of such meeting;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42139,
+    "source_ar": "ج - كل من قبل تعيينه عضواً في مجلس إدارة في شركة مساهمة أو عضواً منتدباً لإدارتها أو ظل متمتعاً بالعضوية خلافاً للأحكام المقررة في النظام، وكل عضو من أعضاء مجلس الإدارة لشركة تقع فيها تلك المخالفات إن كان عالماً بها.",
+    "target_en": "c) any person who consents to his appointment as a member of the board of directors of a joint-stock company or as a managing director therein, or who retains such membership in violation of the provisions of the Law, as well as any board member in a company where such violation occurs with his knowledge;",
+    "source_ar_norm": "ج - كل من قبل تعيينه عضوا في مجلس ادارة في شركة مساهمة او عضوا منتدبا لادارتها او ظل متمتعا بالعضوية خلافا للاحكام المقررة في النظام، وكل عضو من اعضاء مجلس الادارة لشركة تقع فيها تلك المخالفات ان كان عالما بها.",
+    "target_en_norm": "c) any person who consents to his appointment as a member of the board of directors of a joint-stock company or as a managing director therein, or who retains such membership in violation of the provisions of the law, as well as any board member in a company where such violation occurs with his knowledge;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42140,
+    "source_ar": "د - كل عضو في مجلس إدارة شركة مساهمة حصل من الشركة على ضمان أو قرض خلافاً لأحكام النظام، وكل رئيس مجلس إدارة شركة تقع فيها هذه المخالفة إن كان عالماً بها.",
+    "target_en": "d) any board member in a joint-stock company who obtains a guarantee or loan from the company in violation of the provisions of the Law, and any chairman of the board of a company where such violation occurs with his knowledge;",
+    "source_ar_norm": "د - كل عضو في مجلس ادارة شركة مساهمة حصل من الشركة علي ضمان او قرض خلافا لاحكام النظام، وكل رئيس مجلس ادارة شركة تقع فيها هذه المخالفة ان كان عالما بها.",
+    "target_en_norm": "d) any board member in a joint-stock company who obtains a guarantee or loan from the company in violation of the provisions of the law, and any chairman of the board of a company where such violation occurs with his knowledge;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42141,
+    "source_ar": "هـ - كل من قبل القيام بمهمات مراجع الحسابات أو استمر في مزاولتها مع علمه بوجود الأسباب التي تمنع قيامه بتلك المهمات وفقاً لأحكام النظام.",
+    "target_en": "e) any person who accepts to work as an auditor or continues to work as such with his knowledge of the reasons which prevent him from carrying out such tasks, as provided for in the Law;",
+    "source_ar_norm": "ه - كل من قبل القيام بمهمات مراجع الحسابات او استمر في مزاولتها مع علمه بوجود الاسباب التي تمنع قيامه بتلك المهمات وفقا لاحكام النظام.",
+    "target_en_norm": "e) any person who accepts to work as an auditor or continues to work as such with his knowledge of the reasons which prevent him from carrying out such tasks, as provided for in the law;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42142,
+    "source_ar": "و- كل من منع عن قصد مساهماً أو شريكاً من المشاركة في إحدى جمعيات المساهمين أو الشركاء، أو منعه من التمتع بحقوق التصويت المرتبطة بالأسهم أو بالحصص أو بوصفه شريكاً خلافاً لأحكام النظام.",
+    "target_en": "f) any person who intentionally prevents a shareholder or a partner from participating in an assembly of shareholders or partners, or prevents a shareholder or a partner from exercising voting rights associated with shares or in his capacity as a partner, in violation of the provisions of the Law;",
+    "source_ar_norm": "و- كل من منع عن قصد مساهما او شريكا من المشاركة في احدي جمعيات المساهمين او الشركاء، او منعه من التمتع بحقوق التصويت المرتبطة بالاسهم او بالحصص او بوصفه شريكا خلافا لاحكام النظام.",
+    "target_en_norm": "f) any person who intentionally prevents a shareholder or a partner from participating in an assembly of shareholders or partners, or prevents a shareholder or a partner from exercising voting rights associated with shares or in his capacity as a partner, in violation of the provisions of the law;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42143,
+    "source_ar": "ز- كل من حصل على منافع أو على ضمان أو وعد بها مقابل التصويت في اتجاه معين أو عدم المشاركة في التصويت، وكذلك كل من منح أو ضمن أو وعد بتلك المنافع.",
+    "target_en": "g) any person who obtains a benefit or receives a promise or guarantee of a benefit for voting in a particular way or for abstaining from voting, and any person who grants, promises to grant or guarantees such benefit;",
+    "source_ar_norm": "ز- كل من حصل علي منافع او علي ضمان او وعد بها مقابل التصويت في اتجاه معين او عدم المشاركة في التصويت، وكذلك كل من منح او ضمن او وعد بتلك المنافع.",
+    "target_en_norm": "g) any person who obtains a benefit or receives a promise or guarantee of a benefit for voting in a particular way or for abstaining from voting, and any person who grants, promises to grant or guarantees such benefit;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42144,
+    "source_ar": "ح - كل من أهمل في أداء واجبه في دعوة الجمعية العامة للمساهمين أو الشركاء للانعقاد خلال المدة المقررة لانعقادها وفقاً لأحكام النظام.",
+    "target_en": "h) any person who neglects to perform his duty to call the general assembly of shareholders or partners for a meeting within the prescribed period in accordance with the provisions of the Law;",
+    "source_ar_norm": "ح - كل من اهمل في اداء واجبه في دعوة الجمعية العامة للمساهمين او الشركاء للانعقاد خلال المدة المقررة لانعقادها وفقا لاحكام النظام.",
+    "target_en_norm": "h) any person who neglects to perform his duty to call the general assembly of shareholders or partners for a meeting within the prescribed period in accordance with the provisions of the law;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42145,
+    "source_ar": "ط - كل من أخل بأداء واجبه في نشر القوائم المالية للشركة وفقاً لأحكام النظام.",
+    "target_en": "i) any person who neglects to perform his duty to publish the financial statements of the company in accordance with the provisions of the Law;",
+    "source_ar_norm": "ط - كل من اخل باداء واجبه في نشر القوائم المالية للشركة وفقا لاحكام النظام.",
+    "target_en_norm": "i) any person who neglects to perform his duty to publish the financial statements of the company in accordance with the provisions of the law;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42146,
+    "source_ar": "ي - كل من لم يضع الوثائق اللازمة في متناول المساهم أو الشريك وفقاً لأحكام النظام.",
+    "target_en": "j) any person who fails to give shareholders or partners access to necessary documents in accordance with the provisions of the Law;",
+    "source_ar_norm": "ي - كل من لم يضع الوثائق اللازمة في متناول المساهم او الشريك وفقا لاحكام النظام.",
+    "target_en_norm": "j) any person who fails to give shareholders or partners access to necessary documents in accordance with the provisions of the law;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42147,
+    "source_ar": "ك - كل من أهمل في أداء واجبه في تزويد الوزارة بالوثائق المنصوص عليها في النظام.",
+    "target_en": "k) any person who neglects to perform his duty to provide the Ministry with the documents set forth in the Law;",
+    "source_ar_norm": "ك - كل من اهمل في اداء واجبه في تزويد الوزارة بالوثائق المنصوص عليها في النظام.",
+    "target_en_norm": "k) any person who neglects to perform his duty to provide the ministry with the documents set forth in the law;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42148,
+    "source_ar": "ل - كل من لم يعمل على إعداد محاضر الاجتماعات وتدوينها وفقاً للأحكام المنصوص عليها في النظام.",
+    "target_en": "l) any person who fails to record meeting minutes in accordance with the provisions of the Law;",
+    "source_ar_norm": "ل - كل من لم يعمل علي اعداد محاضر الاجتماعات وتدوينها وفقا للاحكام المنصوص عليها في النظام.",
+    "target_en_norm": "l) any person who fails to record meeting minutes in accordance with the provisions of the law;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42149,
+    "source_ar": "م - كل من أعاق عمداً عمل من لهم الحق - بحكم النظام - في الاطلاع على أوراق الشركة ومستنداتها وحساباتها ووثائقها، أو تسبب في ذلك، أو امتنع من تمكينهم من أداء عملهم.",
+    "target_en": "m) any person who intentionally impedes or causes to impede persons entitled under the Law to access the company’s papers and documents, or refuses to enable them to perform their duties;",
+    "source_ar_norm": "م - كل من اعاق عمدا عمل من لهم الحق - بحكم النظام - في الاطلاع علي اوراق الشركة ومستنداتها وحساباتها ووثائقها، او تسبب في ذلك، او امتنع من تمكينهم من اداء عملهم.",
+    "target_en_norm": "m) any person who intentionally impedes or causes to impede persons entitled under the law to access the company’s papers and documents, or refuses to enable them to perform their duties;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42150,
+    "source_ar": "ن - كل من أهمل في أداء واجبه في شأن القيام بشهر عقد تأسيس الشركة أو قيدها في السجل التجاري وفقاً للنظام، وكل من تخلف عن شهر التعديل في عقد تأسيس الشركة أو نظامها الأساس أو التعديل في بيانات سجلها التجاري وفقاً للنظام.",
+    "target_en": "n) any person who fails to publish the company’s articles of incorporation or fails to enter it in the commercial register in accordance with the Law, and any person who fails to publish amendments made to the company’s articles of incorporation or articles of association or amendments made to its commercial register in accordance with the Law;",
+    "source_ar_norm": "ن - كل من اهمل في اداء واجبه في شان القيام بشهر عقد تاسيس الشركة او قيدها في السجل التجاري وفقا للنظام، وكل من تخلف عن شهر التعديل في عقد تاسيس الشركة او نظامها الاساس او التعديل في بيانات سجلها التجاري وفقا للنظام.",
+    "target_en_norm": "n) any person who fails to publish the company’s articles of incorporation or fails to enter it in the commercial register in accordance with the law, and any person who fails to publish amendments made to the company’s articles of incorporation or articles of association or amendments made to its commercial register in accordance with the law;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42151,
+    "source_ar": "ق - كل مصف لم يقم بواجب شهر التصفية أو انتهائها وفقاً للأحكام المنصوص عليها في النظام.",
+    "target_en": "o) any liquidator who fails to announce the liquidation or its completion in accordance with the provisions of the Law;",
+    "source_ar_norm": "ق - كل مصف لم يقم بواجب شهر التصفية او انتهائها وفقا للاحكام المنصوص عليها في النظام.",
+    "target_en_norm": "o) any liquidator who fails to announce the liquidation or its completion in accordance with the provisions of the law;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42152,
+    "source_ar": "ر- كل من أهمل في أداء واجبه في إدراج أي من البيانات المنصوص عليها في المادة (الخامسة عشرة) من النظام.",
+    "target_en": "p) any person who neglects to perform his duty to list any data provided for in Article 15 of the Law;",
+    "source_ar_norm": "ر- كل من اهمل في اداء واجبه في ادراج اي من البيانات المنصوص عليها في المادة (الخامسة عشرة) من النظام.",
+    "target_en_norm": "p) any person who neglects to perform his duty to list any data provided for in article 15 of the law;",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42153,
+    "source_ar": "ش - كل مراجع حسابات خالف أيًّا من أحكام النظام.",
+    "target_en": "q) any auditor who violates any of the provisions of the Law; and",
+    "source_ar_norm": "ش - كل مراجع حسابات خالف ايا من احكام النظام.",
+    "target_en_norm": "q) any auditor who violates any of the provisions of the law; and",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42154,
+    "source_ar": "ت - كل شركة أو مسؤول في شركة لا يراعي تطبيق الأنظمة والقرارات المرتبطة بعمل الشركة ونشاطها ولا يمتثل للتعليمات أو التعاميم أو الضوابط التي تصدرها الجهة المختصة، وذلك دون إبداء سبب معقول لذلك.",
+    "target_en": "r) any company or company official who, without reasonable justification, fails to comply with regulations and resolutions related to the company’s business and activity, as well as with directives, circulars or rules issued by the Competent Authority.",
+    "source_ar_norm": "ت - كل شركة او مسؤول في شركة لا يراعي تطبيق الانظمة والقرارات المرتبطة بعمل الشركة ونشاطها ولا يمتثل للتعليمات او التعاميم او الضوابط التي تصدرها الجهة المختصة، وذلك دون ابداء سبب معقول لذلك.",
+    "target_en_norm": "r) any company or company official who, without reasonable justification, fails to comply with regulations and resolutions related to the company’s business and activity, as well as with directives, circulars or rules issued by the competent authority.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42155,
+    "source_ar": "المادة الرابعة عشرة بعد المائتين:",
+    "target_en": "Article 214",
+    "source_ar_norm": "المادة الرابعة عشرة بعد المائتين:",
+    "target_en_norm": "article 214",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42156,
+    "source_ar": "تضاعف في حالة العود العقوبات المقررة عن الجرائم والمخالفات المنصوص عليها في المواد (الحادية عشرة بعد المائتين) و(الثانية عشرة بعد المائتين) و(الثالثة عشرة بعد المائتين) من النظام. ويعد عائداً في أحكام النظام كل من ارتكب الجريمة أو المخالفة نفسها المحكوم عليه فيها بحكم نهائي؛ خلال ثلاث سنوات من تاريخ الحكم عليه.",
+    "target_en": "In case of recidivism, the penalties for offences and violations stipulated in Articles 211, 212 and 213 of the Law shall be doubled. Any person who commits the same offence or violation, for which a final judgment is rendered against him, within three years from the date of the sentence shall be considered a recidivist.",
+    "source_ar_norm": "تضاعف في حالة العود العقوبات المقررة عن الجرائم والمخالفات المنصوص عليها في المواد (الحادية عشرة بعد المائتين) و(الثانية عشرة بعد المائتين) و(الثالثة عشرة بعد المائتين) من النظام. ويعد عائدا في احكام النظام كل من ارتكب الجريمة او المخالفة نفسها المحكوم عليه فيها بحكم نهائي؛ خلال ثلاث سنوات من تاريخ الحكم عليه.",
+    "target_en_norm": "in case of recidivism, the penalties for offences and violations stipulated in articles 211, 212 and 213 of the law shall be doubled. any person who commits the same offence or violation, for which a final judgment is rendered against him, within three years from the date of the sentence shall be considered a recidivist.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42157,
+    "source_ar": "المادة الخامسة عشرة بعد المائتين:",
+    "target_en": "Article 215",
+    "source_ar_norm": "المادة الخامسة عشرة بعد المائتين:",
+    "target_en_norm": "article 215",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42158,
+    "source_ar": "تختص هيئة التحقيق والادعاء العام بمهمة التحقيق والادعاء عن الأفعال المجرمة في المادتين (الحادية عشرة بعد المائتين) و(الثانية عشرة بعد المائتين) من النظام.",
+    "target_en": "The Bureau of Investigation and Public Prosecution shall be in charge of investigating offences stipulated in Articles 211 and 212 of the Law.",
+    "source_ar_norm": "تختص هيئة التحقيق والادعاء العام بمهمة التحقيق والادعاء عن الافعال المجرمة في المادتين (الحادية عشرة بعد المائتين) و(الثانية عشرة بعد المائتين) من النظام.",
+    "target_en_norm": "the bureau of investigation and public prosecution shall be in charge of investigating offences stipulated in articles 211 and 212 of the law.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42159,
+    "source_ar": "المادة السادسة عشرة بعد المائتين:",
+    "target_en": "Article 216",
+    "source_ar_norm": "المادة السادسة عشرة بعد المائتين:",
+    "target_en_norm": "article 216",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42160,
+    "source_ar": "للجهة المختصة إيقاع العقوبات المقررة عن المخالفات المنصوص عليها في المادة (الثالثة عشرة بعد المائتين)، ولمن صدر ضده قرار العقوبة التظلم أمام الجهة القضائية المختصة.",
+    "target_en": "The Competent Authority shall impose penalties prescribed for the violations provided for in Article 213 of the Law. Any person against whom a penalty decision is issued may appeal before the competent judicial authority.",
+    "source_ar_norm": "للجهة المختصة ايقاع العقوبات المقررة عن المخالفات المنصوص عليها في المادة (الثالثة عشرة بعد المائتين)، ولمن صدر ضده قرار العقوبة التظلم امام الجهة القضائية المختصة.",
+    "target_en_norm": "the competent authority shall impose penalties prescribed for the violations provided for in article 213 of the law. any person against whom a penalty decision is issued may appeal before the competent judicial authority.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42161,
+    "source_ar": "المادة السابعة عشرة بعد المائتين:",
+    "target_en": "Article 217",
+    "source_ar_norm": "المادة السابعة عشرة بعد المائتين:",
+    "target_en_norm": "article 217",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42162,
+    "source_ar": "إذا تعذرت إقامة الدعوى على من ارتكب إحدى الأفعال المجرمة المنصوص عليها في المادتين (الحادية عشرة بعد المائتين) و(الثانية عشرة بعد المائتين)، فلهيئة التحقيق والادعاء العام إقامة الدعوى على الشركة للمطالبة بالحكم عليها بالغرامة المنصوص عليها.",
+    "target_en": "If a lawsuit cannot be brought against the perpetrator of an offence stipulated in Articles 211 and 212 of the Law, the Bureau of Investigation and Public Prosecution shall initiate a lawsuit against the company for imposition of the prescribed fine.",
+    "source_ar_norm": "اذا تعذرت اقامة الدعوي علي من ارتكب احدي الافعال المجرمة المنصوص عليها في المادتين (الحادية عشرة بعد المائتين) و(الثانية عشرة بعد المائتين)، فلهيئة التحقيق والادعاء العام اقامة الدعوي علي الشركة للمطالبة بالحكم عليها بالغرامة المنصوص عليها.",
+    "target_en_norm": "if a lawsuit cannot be brought against the perpetrator of an offence stipulated in articles 211 and 212 of the law, the bureau of investigation and public prosecution shall initiate a lawsuit against the company for imposition of the prescribed fine.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42163,
+    "source_ar": "المادة الثامنة عشرة بعد المائتين:",
+    "target_en": "Article 218",
+    "source_ar_norm": "المادة الثامنة عشرة بعد المائتين:",
+    "target_en_norm": "article 218",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42164,
+    "source_ar": "لا يخل تطبيق العقوبات المنصوص عليها في هذا الباب بحق أي شخص في الرجوع بالتعويض على كل من تسبب له بضرر نتيجة ارتكاب أي من الجرائم والمخالفات المنصوص عليها في هذا الباب.",
+    "target_en": "The imposition of penalties set forth in this Part shall not prejudice the right of any person to claim compensation from any party that causes damage thereto due to the commission of any of the offences and violations stipulated in this Part.",
+    "source_ar_norm": "لا يخل تطبيق العقوبات المنصوص عليها في هذا الباب بحق اي شخص في الرجوع بالتعويض علي كل من تسبب له بضرر نتيجة ارتكاب اي من الجرائم والمخالفات المنصوص عليها في هذا الباب.",
+    "target_en_norm": "the imposition of penalties set forth in this part shall not prejudice the right of any person to claim compensation from any party that causes damage thereto due to the commission of any of the offences and violations stipulated in this part.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42165,
+    "source_ar": "الباب الثاني عشر: أحكام ختامية",
+    "target_en": "Part 12: Final Provisions",
+    "source_ar_norm": "الباب الثاني عشر: احكام ختامية",
+    "target_en_norm": "part 12: final provisions",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42166,
+    "source_ar": "المادة التاسعة عشرة بعد المائتين:",
+    "target_en": "Article 219",
+    "source_ar_norm": "المادة التاسعة عشرة بعد المائتين:",
+    "target_en_norm": "article 219",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42167,
+    "source_ar": "مع عدم الإخلال بأحكام النظام، وما لمؤسسة النقد العربي السعودي من صلاحيات وفقاً لما تقضي به الأنظمة ذات العلاقة، وبخاصة نظام مراقبة البنوك، ونظام مراقبة شركات التأمين التعاوني، ونظام مراقبة شركات التمويل، تكون الهيئة الجهة المختصة بالإشراف على شركات المساهمة المدرجة في السوق المالية السعودية ومراقبتها، وإصدار القواعد المنظمة لعملها، بما في ذلك تنظيم عمليات الاندماج إذا كان أحد أطرافها شركة مدرجة في السوق المالية السعودية.",
+    "target_en": "Without prejudice to the provisions of the Law, and to the powers of the Saudi Arabian Monterey Agency as stipulated in relevant laws, particularly the Banking Control Law, the Cooperative Insurance Companies Control Law and the Finance Companies Control Law, CMA shall be the Competent Authority to oversee and monitor the joint-stock companies listed in the Saudi capital market, and issue rules regulating their work, including regulation of mergers if a party thereto is a company listed in the Saudi capital market.",
+    "source_ar_norm": "مع عدم الاخلال باحكام النظام، وما لمؤسسة النقد العربي السعودي من صلاحيات وفقا لما تقضي به الانظمة ذات العلاقة، وبخاصة نظام مراقبة البنوك، ونظام مراقبة شركات التامين التعاوني، ونظام مراقبة شركات التمويل، تكون الهيئة الجهة المختصة بالاشراف علي شركات المساهمة المدرجة في السوق المالية السعودية ومراقبتها، واصدار القواعد المنظمة لعملها، بما في ذلك تنظيم عمليات الاندماج اذا كان احد اطرافها شركة مدرجة في السوق المالية السعودية.",
+    "target_en_norm": "without prejudice to the provisions of the law, and to the powers of the saudi arabian monterey agency as stipulated in relevant laws, particularly the banking control law, the cooperative insurance companies control law and the finance companies control law, cma shall be the competent authority to oversee and monitor the joint-stock companies listed in the saudi capital market, and issue rules regulating their work, including regulation of mergers if a party thereto is a company listed in the saudi capital market.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42168,
+    "source_ar": "المادة العشرون بعد المائتين:",
+    "target_en": "Article 220",
+    "source_ar_norm": "المادة العشرون بعد المائتين:",
+    "target_en_norm": "article 220",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42169,
+    "source_ar": "مع مراعاة ما ورد في المادة (التاسعة عشرة بعد المائتين)، للجهة المختصة حق الرقابة على الشركات فيما يتعلق بتطبيق الأحكام المنصوص عليها في النظام أو في عقد تأسيس الشركة ونظامها الأساس، بما في ذلك صلاحية التفتيش على الشركة وفحص حساباتها وطلب ما تراه من بيانات من مجلس الإدارة أو مديري الشركة وذلك بوساطة مندوب أو أكثر من منسوبيها أو من خبراء تختارهم لهذا الغرض.",
+    "target_en": "Without prejudice to the provision of Article 219 of the Law, the Competent Authority shall have the right to monitor companies regarding compliance with the provisions provided for in the Law or in the company’s articles of incorporation or articles of association, including the powers of inspection of the company and its accounts, and it may also request any information from the board of directors of the company or any of its directors, through one or more representatives from among the Competent Authority’s personnel or experts selected for this purpose.",
+    "source_ar_norm": "مع مراعاة ما ورد في المادة (التاسعة عشرة بعد المائتين)، للجهة المختصة حق الرقابة علي الشركات فيما يتعلق بتطبيق الاحكام المنصوص عليها في النظام او في عقد تاسيس الشركة ونظامها الاساس، بما في ذلك صلاحية التفتيش علي الشركة وفحص حساباتها وطلب ما تراه من بيانات من مجلس الادارة او مديري الشركة وذلك بوساطة مندوب او اكثر من منسوبيها او من خبراء تختارهم لهذا الغرض.",
+    "target_en_norm": "without prejudice to the provision of article 219 of the law, the competent authority shall have the right to monitor companies regarding compliance with the provisions provided for in the law or in the company’s articles of incorporation or articles of association, including the powers of inspection of the company and its accounts, and it may also request any information from the board of directors of the company or any of its directors, through one or more representatives from among the competent authority’s personnel or experts selected for this purpose.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42170,
+    "source_ar": "المادة الحادية والعشرون بعد المائتين:",
+    "target_en": "Article 221",
+    "source_ar_norm": "المادة الحادية والعشرون بعد المائتين:",
+    "target_en_norm": "article 221",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42171,
+    "source_ar": "على جميع المسؤولين في الشركة أن يُطلعوا ممثلي الوزارة، وكذلك الهيئة إذا كانت شركة مساهمة مدرجة في السوق المالية أو تسعى إلى ذلك - فيما يتعلق بالأعمال المنصوص عليها في المادة (العشرين بعد المائتين) - على كل ما يطلبونه من دفاتر الشركة وسجلاتها ووثائقها، وأن يقدموا لهم كل المعلومات والإيضاحات المتعلقة بذلك.",
+    "target_en": "All officers of the company shall give access to the representatives of the Ministry, and to CMA representatives if it is a joint-stock company listed or seeking to be listed in the capital market, regarding activities set forth in Article 220 of the Law, to the company’s books, records and documents and shall provide them with all relevant information and clarifications.",
+    "source_ar_norm": "علي جميع المسؤولين في الشركة ان يطلعوا ممثلي الوزارة، وكذلك الهيئة اذا كانت شركة مساهمة مدرجة في السوق المالية او تسعي الي ذلك - فيما يتعلق بالاعمال المنصوص عليها في المادة (العشرين بعد المائتين) - علي كل ما يطلبونه من دفاتر الشركة وسجلاتها ووثائقها، وان يقدموا لهم كل المعلومات والايضاحات المتعلقة بذلك.",
+    "target_en_norm": "all officers of the company shall give access to the representatives of the ministry, and to cma representatives if it is a joint-stock company listed or seeking to be listed in the capital market, regarding activities set forth in article 220 of the law, to the company’s books, records and documents and shall provide them with all relevant information and clarifications.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42172,
+    "source_ar": "المادة الثانية والعشرون بعد المائتين:",
+    "target_en": "Article 222",
+    "source_ar_norm": "المادة الثانية والعشرون بعد المائتين:",
+    "target_en_norm": "article 222",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42173,
+    "source_ar": "للموظفين - الصادر بتسميتهم قرار من الجهة المختصة - صفة الضبط الجنائي في إثبات الجرائم التي تقع بالمخالفة لأحكام النظام. ولهم - في سبيل ذلك- التحفظ على ما يرونه متعلقاً بالجريمة من وثائق وسجلات.",
+    "target_en": "Employees named pursuant to a decision by the Competent Authority shall have the capacity to record criminal offences committed in violation of the provisions of the Law, and shall, for such purpose, seize any relevant documents or records.",
+    "source_ar_norm": "للموظفين - الصادر بتسميتهم قرار من الجهة المختصة - صفة الضبط الجنائي في اثبات الجرائم التي تقع بالمخالفة لاحكام النظام. ولهم - في سبيل ذلك- التحفظ علي ما يرونه متعلقا بالجريمة من وثائق وسجلات.",
+    "target_en_norm": "employees named pursuant to a decision by the competent authority shall have the capacity to record criminal offences committed in violation of the provisions of the law, and shall, for such purpose, seize any relevant documents or records.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42174,
+    "source_ar": "المادة الثالثة والعشرون بعد المائتين:",
+    "target_en": "Article 223",
+    "source_ar_norm": "المادة الثالثة والعشرون بعد المائتين:",
+    "target_en_norm": "article 223",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42175,
+    "source_ar": "تنظر الجهة القضائية المختصة في جميع الدعاوى المدنية والجزائية والمنازعات الناشئة من تطبيق أحكام النظام وتوقيع الجزاءات المقررة لمخالفة أحكامه.",
+    "target_en": "The competent judicial authority shall decide all civil and penal lawsuits and disputes arising from the implementation of the provisions of the Law, and shall impose prescribed penalties.",
+    "source_ar_norm": "تنظر الجهة القضائية المختصة في جميع الدعاوي المدنية والجزائية والمنازعات الناشئة من تطبيق احكام النظام وتوقيع الجزاءات المقررة لمخالفة احكامه.",
+    "target_en_norm": "the competent judicial authority shall decide all civil and penal lawsuits and disputes arising from the implementation of the provisions of the law, and shall impose prescribed penalties.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42176,
+    "source_ar": "المادة الرابعة والعشرون بعد المائتين:",
+    "target_en": "Article 224",
+    "source_ar_norm": "المادة الرابعة والعشرون بعد المائتين:",
+    "target_en_norm": "article 224",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42177,
+    "source_ar": "على الشركات القائمة عند نفاذ النظام تعديل أوضاعها وفقاً لأحكامه خلال مدة لا تزيد على سنة تبدأ من تاريخ العمل بالنظام، واستثناءً من ذلك تحدد الوزارة ومجلس الهيئة - كل فيما يخصه - الأحكام الواردة فيه التي تخضع لها تلك الشركات خلال تلك المدة.",
+    "target_en": "Companies existing prior to the effective date of the Law shall modify their status in accordance with the Law within a period not exceeding one year from the effective date of the Law. As an exception, the Ministry and CMA’s Board shall, each within their jurisdiction, determine the provisions applicable to such companies during such period.",
+    "source_ar_norm": "علي الشركات القائمة عند نفاذ النظام تعديل اوضاعها وفقا لاحكامه خلال مدة لا تزيد علي سنة تبدا من تاريخ العمل بالنظام، واستثناء من ذلك تحدد الوزارة ومجلس الهيئة - كل فيما يخصه - الاحكام الواردة فيه التي تخضع لها تلك الشركات خلال تلك المدة.",
+    "target_en_norm": "companies existing prior to the effective date of the law shall modify their status in accordance with the law within a period not exceeding one year from the effective date of the law. as an exception, the ministry and cma’s board shall, each within their jurisdiction, determine the provisions applicable to such companies during such period.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42178,
+    "source_ar": "المادة الخامسة والعشرون بعد المائتين:",
+    "target_en": "Article 225",
+    "source_ar_norm": "المادة الخامسة والعشرون بعد المائتين:",
+    "target_en_norm": "article 225",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42179,
+    "source_ar": "1- تصدر بقرار من الوزير نماذج استرشادية لعقود التأسيس والأنظمة الأساسية لكل نوع من أنواع الشركات خلال مائة وعشرين يوماً من تاريخ صدور النظام، وتنشر في موقع الوزارة الإلكتروني، ويعمل بها من تاريخ العمل بالنظام.",
+    "target_en": "1. Guiding forms for the articles of incorporation and articles of association for each type of company shall be issued pursuant to a decision by the Minister within 120 days from the issuance date of the Law, and shall be published on the Ministry’s website. Such forms shall be valid from the date the Law enters into force.",
+    "source_ar_norm": "1- تصدر بقرار من الوزير نماذج استرشادية لعقود التاسيس والانظمة الاساسية لكل نوع من انواع الشركات خلال مائة وعشرين يوما من تاريخ صدور النظام، وتنشر في موقع الوزارة الالكتروني، ويعمل بها من تاريخ العمل بالنظام.",
+    "target_en_norm": "1. guiding forms for the articles of incorporation and articles of association for each type of company shall be issued pursuant to a decision by the minister within 120 days from the issuance date of the law, and shall be published on the ministry’s website. such forms shall be valid from the date the law enters into force.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42180,
+    "source_ar": "2- يصدر الوزير ومجلس الهيئة ما يلزم لتنفيذ ما يخص كل منهما من أحكام النظام.",
+    "target_en": "2. The Minister and CMA’s Board shall, each within their jurisdiction, issue necessary decisions for the implementation of the provisions of the Law.",
+    "source_ar_norm": "2- يصدر الوزير ومجلس الهيئة ما يلزم لتنفيذ ما يخص كل منهما من احكام النظام.",
+    "target_en_norm": "2. the minister and cma’s board shall, each within their jurisdiction, issue necessary decisions for the implementation of the provisions of the law.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42181,
+    "source_ar": "المادة السادسة والعشرون بعد المائتين:",
+    "target_en": "Article 226",
+    "source_ar_norm": "المادة السادسة والعشرون بعد المائتين:",
+    "target_en_norm": "article 226",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42182,
+    "source_ar": "يحل النظام محل نظام الشركات، الصادر بالمرسوم الملكي رقم (م/ 6) وتاريخ 22/ 3/ 1385هـ، ويلغي كل ما يتعارض معه من أحكام.",
+    "target_en": "The Law shall supersede the Companies Law promulgated by Royal Decree No. M/6 dated 22/3/1385H, and shall repeal any conflicting provisions.",
+    "source_ar_norm": "يحل النظام محل نظام الشركات، الصادر بالمرسوم الملكي رقم (م/ 6) وتاريخ 22/ 3/ 1385ه، ويلغي كل ما يتعارض معه من احكام.",
+    "target_en_norm": "the law shall supersede the companies law promulgated by royal decree no. m/6 dated 22/3/1385h, and shall repeal any conflicting provisions.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42183,
+    "source_ar": "المادة السابعة والعشرون بعد المائتين:",
+    "target_en": "Article 227",
+    "source_ar_norm": "المادة السابعة والعشرون بعد المائتين:",
+    "target_en_norm": "article 227",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42184,
+    "source_ar": "يعمل بالنظام بعد مائة وخمسين يوماً من تاريخ نشره في الجريدة الرسمية.",
+    "target_en": "The Law shall enter into force 150 days following the date of its publication in the Official Gazette.",
+    "source_ar_norm": "يعمل بالنظام بعد مائة وخمسين يوما من تاريخ نشره في الجريدة الرسمية.",
+    "target_en_norm": "the law shall enter into force 150 days following the date of its publication in the official gazette.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 42185,
+    "source_ar": "نظام الصندوق السعودي للتنمية",
+    "target_en": "Law of the Saudi Fund for Development",
+    "source_ar_norm": "نظام الصندوق السعودي للتنمية",
+    "target_en_norm": "law of the saudi fund for development",
+    "file_name": "نظام الصندوق السعودي للتنمية.docx"
+  },
+  {
+    "id": 42186,
+    "source_ar": "المادة الأولى:",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي:",
+    "target_en_norm": "article 1",
+    "file_name": "نظام الصندوق السعودي للتنمية.docx"
+  },
+  {
+    "id": 42187,
+    "source_ar": "يتمتع الصندوق السعودي للتنمية – بوصفه مؤسسة عامة – بالشخصية المعنوية والذمة المالية المستقلة، ويرتبط بمجلس الشؤون الاقتصادية والتنمية، ويكون مقره مدينة الرياض، وله إنشاء فروع له داخل المملكة أو خارجها، ويتولى المساهمة في تمويل المشروعات الإنمائية في الدول النامية عن طريق منح القروض لتلك الدول، وتقديم منح المعونة الفنية لتمويل الدراسات والدعم المؤسسي، وفي دعم الصادرات الوطنية غير النفطية عن طريق تمويل تلك الصادرات وضمانها.",
+    "target_en": "The Saudi Fund for Development (SFD) is a public institution with a legal personality and financial independence. It shall report to the National Development Fund (NDF). It shall be headquartered in the City of Riyadh and it may establish branches within the Kingdom or abroad. It shall participate in financing development projects in developing countries by providing loans and technical assistance loans to finance studies and provide institutional support. The SFD shall also participate in supporting national non-oil exports by financing and guaranteeing them.",
+    "source_ar_norm": "يتمتع الصندوق السعودي للتنمية – بوصفه مؤسسة عامة – بالشخصية المعنوية والذمة المالية المستقلة، ويرتبط بمجلس الشؤون الاقتصادية والتنمية، ويكون مقره مدينة الرياض، وله انشاء فروع له داخل المملكة او خارجها، ويتولي المساهمة في تمويل المشروعات الانمائية في الدول النامية عن طريق منح القروض لتلك الدول، وتقديم منح المعونة الفنية لتمويل الدراسات والدعم المؤسسي، وفي دعم الصادرات الوطنية غير النفطية عن طريق تمويل تلك الصادرات وضمانها.",
+    "target_en_norm": "the saudi fund for development (sfd) is a public institution with a legal personality and financial independence. it shall report to the national development fund (ndf). it shall be headquartered in the city of riyadh and it may establish branches within the kingdom or abroad. it shall participate in financing development projects in developing countries by providing loans and technical assistance loans to finance studies and provide institutional support. the sfd shall also participate in supporting national non-oil exports by financing and guaranteeing them.",
+    "file_name": "نظام الصندوق السعودي للتنمية.docx"
+  },
+  {
+    "id": 42188,
+    "source_ar": "المادة الثانية:",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية:",
+    "target_en_norm": "article 2",
+    "file_name": "نظام الصندوق السعودي للتنمية.docx"
+  },
+  {
+    "id": 42189,
+    "source_ar": "يحدد رأسمال الصندوق بمبلغ خمسة وعشرين ألف مليون ريال يغطى نصفه خلال الثلاث السنوات التالية وفقاً لاعتبارات الميزانية ويغطى الباقي بعد ذلك وفقًا لما تحدده الميزانية العامة للدولة في كل سنة.",
+    "target_en": "SFD capital is 25 billion riyals, half of which shall be covered over the following three years according to budgetary considerations and the remainder shall be covered thereafter in accordance with the annual allocations in the State's General Budget.",
+    "source_ar_norm": "يحدد راسمال الصندوق بمبلغ خمسة وعشرين الف مليون ريال يغطي نصفه خلال الثلاث السنوات التالية وفقا لاعتبارات الميزانية ويغطي الباقي بعد ذلك وفقا لما تحدده الميزانية العامة للدولة في كل سنة.",
+    "target_en_norm": "sfd capital is 25 billion riyals, half of which shall be covered over the following three years according to budgetary considerations and the remainder shall be covered thereafter in accordance with the annual allocations in the state's general budget.",
+    "file_name": "نظام الصندوق السعودي للتنمية.docx"
+  },
+  {
+    "id": 42190,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article 3",
+    "file_name": "نظام الصندوق السعودي للتنمية.docx"
+  },
+  {
+    "id": 42191,
+    "source_ar": "يدير الصندوق مجلس إدارة يعين رئيسه بأمر من رئيس مجلس الوزراء، وعضوية كل من:",
+    "target_en": "The SFD shall be managed by a board of directors the chairman of which shall be appointed pursuant to an order by the President of the Council of Ministers; the Board shall comprise the following members:",
+    "source_ar_norm": "يدير الصندوق مجلس ادارة يعين رئيسه بامر من رئيس مجلس الوزراء، وعضوية كل من:",
+    "target_en_norm": "the sfd shall be managed by a board of directors the chairman of which shall be appointed pursuant to an order by the president of the council of ministers; the board shall comprise the following members:",
+    "file_name": "نظام الصندوق السعودي للتنمية.docx"
+  },
+  {
+    "id": 42192,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article 6",
+    "file_name": "نظام الصندوق السعودي للتنمية.docx"
+  },
+  {
+    "id": 42193,
+    "source_ar": "يجب أن يتحرى الصندوق قبل منح القرض مدى إنتاجيته وضمان الوفاء به مراعياً الاعتبارات التالية:",
+    "target_en": "Before granting a loan, the SFD shall take the steps necessary to ensure the productivity of the project and viability of repayment, taking into account the following considerations:",
+    "source_ar_norm": "يجب ان يتحري الصندوق قبل منح القرض مدي انتاجيته وضمان الوفاء به مراعيا الاعتبارات التالية:",
+    "target_en_norm": "before granting a loan, the sfd shall take the steps necessary to ensure the productivity of the project and viability of repayment, taking into account the following considerations:",
+    "file_name": "نظام الصندوق السعودي للتنمية.docx"
+  },
+  {
+    "id": 42194,
+    "source_ar": "أ) الملاءمة المالية التي تتمتع بها الدولة طالبة القرض بالنسبة لحجم القرض والموارد المالية والاقتصادية التي تستند إليها في الوفاء به وكفاية هذه العناصر.",
+    "target_en": "The financial solvency of the country requesting the loan, taking into consideration the size of the loan and the adequacy of the financial and economic resources for repayment.",
+    "source_ar_norm": "ا) الملاءمة المالية التي تتمتع بها الدولة طالبة القرض بالنسبة لحجم القرض والموارد المالية والاقتصادية التي تستند اليها في الوفاء به وكفاية هذه العناصر.",
+    "target_en_norm": "the financial solvency of the country requesting the loan, taking into consideration the size of the loan and the adequacy of the financial and economic resources for repayment.",
+    "file_name": "نظام الصندوق السعودي للتنمية.docx"
+  },
+  {
+    "id": 42195,
+    "source_ar": "ب) أهمية المشروع المقترض له، وأولويته على غيره من المشاريع وتكامله مع المرافق الاقتصادية الأخرى للدولة المقترضة.",
+    "target_en": "The importance of the project subject of the loan, its priority over other projects, and its integration with other economic facilities of the borrowing country.",
+    "source_ar_norm": "ب) اهمية المشروع المقترض له، واولويته علي غيره من المشاريع وتكامله مع المرافق الاقتصادية الاخري للدولة المقترضة.",
+    "target_en_norm": "the importance of the project subject of the loan, its priority over other projects, and its integration with other economic facilities of the borrowing country.",
+    "file_name": "نظام الصندوق السعودي للتنمية.docx"
+  },
+  {
+    "id": 42196,
+    "source_ar": "ج) كفاية الدراسات التقييمية والتحليلية للمشروع من الوجهتين الاقتصادية والفنية.",
+    "target_en": "The adequacy of the project’s technical and economic viability studies.",
+    "source_ar_norm": "ج) كفاية الدراسات التقييمية والتحليلية للمشروع من الوجهتين الاقتصادية والفنية.",
+    "target_en_norm": "the adequacy of the project’s technical and economic viability studies.",
+    "file_name": "نظام الصندوق السعودي للتنمية.docx"
+  },
+  {
+    "id": 42197,
+    "source_ar": "د) توفر المال اللازم لتنفيذ المشروع لدى الدولة المقترضة بالإضافة إلى مبلغ القرض.",
+    "target_en": "The availability of sufficient funds to the borrowing country to execute the project, in addition to the loan amount.",
+    "source_ar_norm": "د) توفر المال اللازم لتنفيذ المشروع لدي الدولة المقترضة بالاضافة الي مبلغ القرض.",
+    "target_en_norm": "the availability of sufficient funds to the borrowing country to execute the project, in addition to the loan amount.",
+    "file_name": "نظام الصندوق السعودي للتنمية.docx"
+  },
+  {
+    "id": 42198,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article 7",
+    "file_name": "نظام الصندوق السعودي للتنمية.docx"
+  },
+  {
+    "id": 42199,
+    "source_ar": "لا يتجاوز مبلغ القرض لأي مشروع نسبة خمسة في المائة (5%) من رأسمال الصندوق، ويحدد مجلس إدارة الصندوق نسبة مساهمة الصندوق من التكلفة الإجمالية للمشروع المقترض له، على أن توفر احتياجات إنشاء المشروع من منتجات الصناعة الوطنية المتوافرة محلياً والمطابقة لمعايير الجودة المطلوبة، ما أمكن ذلك.",
+    "target_en": "The loan amount for any project shall not exceed 5% of the SFD’s capital. The SFD’s Board of Directors shall determine the percentage of the SFD’s contribution to the total cost of the financed project, provided that in satisfying the project’s construction needs priority is given to national industry products that conform to required quality standards.",
+    "source_ar_norm": "لا يتجاوز مبلغ القرض لاي مشروع نسبة خمسة في المائة (5%) من راسمال الصندوق، ويحدد مجلس ادارة الصندوق نسبة مساهمة الصندوق من التكلفة الاجمالية للمشروع المقترض له، علي ان توفر احتياجات انشاء المشروع من منتجات الصناعة الوطنية المتوافرة محليا والمطابقة لمعايير الجودة المطلوبة، ما امكن ذلك.",
+    "target_en_norm": "the loan amount for any project shall not exceed 5% of the sfd’s capital. the sfd’s board of directors shall determine the percentage of the sfd’s contribution to the total cost of the financed project, provided that in satisfying the project’s construction needs priority is given to national industry products that conform to required quality standards.",
+    "file_name": "نظام الصندوق السعودي للتنمية.docx"
+  },
+  {
+    "id": 42200,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article 8",
+    "file_name": "نظام الصندوق السعودي للتنمية.docx"
+  }
+]

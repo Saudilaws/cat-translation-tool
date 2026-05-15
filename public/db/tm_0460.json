@@ -1,0 +1,802 @@
+[
+  {
+    "id": 45901,
+    "source_ar": "المعايرة : مجموعة العمليات التي تبين - تحت شروط معينة - العلاقة بين القيم المبينة بواسطة جهاز قياس أو نظام قياس، والقيم المعلومة المناظرة للكمية المقيسة.",
+    "target_en": "Calibration: A set of processes designed to determine, under certain conditions, the relation between the output of a measuring instrument or system and known values corresponding to the measured quantity.",
+    "source_ar_norm": "المعايرة : مجموعة العمليات التي تبين - تحت شروط معينة - العلاقة بين القيم المبينة بواسطة جهاز قياس او نظام قياس، والقيم المعلومة المناظرة للكمية المقيسة.",
+    "target_en_norm": "calibration: a set of processes designed to determine, under certain conditions, the relation between the output of a measuring instrument or system and known values corresponding to the measured quantity.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45902,
+    "source_ar": "شهادة المعايرة : وثيقة تسجل فيها نتائج المعايرة.",
+    "target_en": "Calibration Certificate: A document stating calibration results.",
+    "source_ar_norm": "شهادة المعايرة : وثيقة تسجل فيها نتائج المعايرة.",
+    "target_en_norm": "calibration certificate: a document stating calibration results.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45903,
+    "source_ar": "المعايرة القانونية : جزء من المترولوجيا الذي يختص بوحدات القياس وطرقه، وأجهزته، وذلك فيما يتعلق بالمتطلبات الفنية والقانونية الملزمة، لضمان الحماية العامة، من حيث الأمــان ودقة القياس المناسبة.",
+    "target_en": "Statutory Calibration: The part of metrology concerned with measurement units, methods and instruments, in relation to mandatory technical and statutory requirements to ensure overall protection in terms of safety and proper measurement accuracy.",
+    "source_ar_norm": "المعايرة القانونية : جزء من المترولوجيا الذي يختص بوحدات القياس وطرقه، واجهزته، وذلك فيما يتعلق بالمتطلبات الفنية والقانونية الملزمة، لضمان الحماية العامة، من حيث الامان ودقة القياس المناسبة.",
+    "target_en_norm": "statutory calibration: the part of metrology concerned with measurement units, methods and instruments, in relation to mandatory technical and statutory requirements to ensure overall protection in terms of safety and proper measurement accuracy.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45904,
+    "source_ar": "معيار قياس : معيار مادي أو جهاز قياس، أو نظام قياس؛ يستخدم لتحديد وحدة أو إنتاجها، أو حفظـها، أو إعطائها قيمة معلومة أو أكثر من كمية ما؛ لنقلها إلى أجهزة قياس أخرى.",
+    "target_en": "Measurement Standard: A material measure or measuring instrument or system intended to define, produce or preserve a unit or one or more values of a quantity to be transferred to other measuring instruments.",
+    "source_ar_norm": "معيار قياس : معيار مادي او جهاز قياس، او نظام قياس؛ يستخدم لتحديد وحدة او انتاجها، او حفظها، او اعطائها قيمة معلومة او اكثر من كمية ما؛ لنقلها الي اجهزة قياس اخري.",
+    "target_en_norm": "measurement standard: a material measure or measuring instrument or system intended to define, produce or preserve a unit or one or more values of a quantity to be transferred to other measuring instruments.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45905,
+    "source_ar": "الأوزان والمقاييس : كل معايير القياس، وكذلك العمليات المستخدمة فيه؛ والمتعلقة بالمعايرة القانونية.",
+    "target_en": "Weights and Measurements: All measurement standards and processes relating to statutory calibration.",
+    "source_ar_norm": "الاوزان والمقاييس : كل معايير القياس، وكذلك العمليات المستخدمة فيه؛ والمتعلقة بالمعايرة القانونية.",
+    "target_en_norm": "weights and measurements: all measurement standards and processes relating to statutory calibration.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45906,
+    "source_ar": "جهاز القياس : أداة تستخدم لإجراء القياس؛ سواء أكان منفرداً أو مربوطاً بمعدات أخرى بطريقة منتظمة خلال استخدامها.",
+    "target_en": "Measuring Instrument: A device used for measurement, alone or in conjunction with other devices in a regular manner.",
+    "source_ar_norm": "جهاز القياس : اداة تستخدم لاجراء القياس؛ سواء اكان منفردا او مربوطا بمعدات اخري بطريقة منتظمة خلال استخدامها.",
+    "target_en_norm": "measuring instrument: a device used for measurement, alone or in conjunction with other devices in a regular manner.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45907,
+    "source_ar": "النظام الدولي للوحدات : نظام مترابط للوحدات، تبناه المؤتمر العام للأوزان والمقاييس، وأوصى به.",
+    "target_en": "International System of Units (SI): A coherent system of units adopted and recommended by the General Conference on Weights and Measures (CGPM).",
+    "source_ar_norm": "النظام الدولي للوحدات : نظام مترابط للوحدات، تبناه المؤتمر العام للاوزان والمقاييس، واوصي به.",
+    "target_en_norm": "international system of units (si): a coherent system of units adopted and recommended by the general conference on weights and measures (cgpm).",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45908,
+    "source_ar": "معيار أولي : معيار لكمية ، تتوافر فيه أعلى درجات الجودة المترولوجية في مجالٍ ما.",
+    "target_en": "Primary Standard: A standard of quantity with the highest metrological qualities in a given area.",
+    "source_ar_norm": "معيار اولي : معيار لكمية ، تتوافر فيه اعلي درجات الجودة المترولوجية في مجال ما.",
+    "target_en_norm": "primary standard: a standard of quantity with the highest metrological qualities in a given area.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45909,
+    "source_ar": "معيار وطني : معيار معترف به بقرار وطني رسمي بصفته أساساً لتثبيت قيمة جميع المعايير الأخرى للكمية المعنية في بلد ما، ويكون مسنداً إلى المعيار الدولي.",
+    "target_en": "National Standard: A standard acknowledged pursuant to an official national resolution as a reference for all other standards of a given quantity in a certain country, based on the relevant international standard.",
+    "source_ar_norm": "معيار وطني : معيار معترف به بقرار وطني رسمي بصفته اساسا لتثبيت قيمة جميع المعايير الاخري للكمية المعنية في بلد ما، ويكون مسندا الي المعيار الدولي.",
+    "target_en_norm": "national standard: a standard acknowledged pursuant to an official national resolution as a reference for all other standards of a given quantity in a certain country, based on the relevant international standard.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45910,
+    "source_ar": "معيار دولي : معيار معترف به باتفاق دولي يستخدم دوليا أساساً لتثبيت قيمة جميع المعايير الأخرى للكمية المعنية.",
+    "target_en": "International Standard: A standard acknowledged pursuant to an international agreement used worldwide as a reference for all other standards of a given quantity.",
+    "source_ar_norm": "معيار دولي : معيار معترف به باتفاق دولي يستخدم دوليا اساسا لتثبيت قيمة جميع المعايير الاخري للكمية المعنية.",
+    "target_en_norm": "international standard: a standard acknowledged pursuant to an international agreement used worldwide as a reference for all other standards of a given quantity.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45911,
+    "source_ar": "معيار مرجعي : معيار تتوافر فيه أعلى مستويات الجودة المترولوجية في مكان محدد.",
+    "target_en": "Reference Standard: A standard with the highest metrological qualities in a given location.",
+    "source_ar_norm": "معيار مرجعي : معيار تتوافر فيه اعلي مستويات الجودة المترولوجية في مكان محدد.",
+    "target_en_norm": "reference standard: a standard with the highest metrological qualities in a given location.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45912,
+    "source_ar": "معيار عامل : معيار تم معايرته على معيار مرجعي، يستخدم بانتظام لمعايرة أو لفحص المقاييس المادية، أو أجهزة القياس.",
+    "target_en": "Effective Standard: A standard calibrated against a reference standard and used regularly to calibrate or check material measures or measuring instruments.",
+    "source_ar_norm": "معيار عامل : معيار تم معايرته علي معيار مرجعي، يستخدم بانتظام لمعايرة او لفحص المقاييس المادية، او اجهزة القياس.",
+    "target_en_norm": "effective standard: a standard calibrated against a reference standard and used regularly to calibrate or check material measures or measuring instruments.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45913,
+    "source_ar": "الإسناد : خاصية لنتيجة قياس ما، حيث يمكن ربط هذه النتيجة بمعايير دولية أو وطنية من خلال سلسلة متصلة من المقارنات.",
+    "target_en": "Traceability: A property of a certain measurement result whereby said result can be related to international or national standards through unbroken chain of comparisons.",
+    "source_ar_norm": "الاسناد : خاصية لنتيجة قياس ما، حيث يمكن ربط هذه النتيجة بمعايير دولية او وطنية من خلال سلسلة متصلة من المقارنات.",
+    "target_en_norm": "traceability: a property of a certain measurement result whereby said result can be related to international or national standards through unbroken chain of comparisons.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45914,
+    "source_ar": "التحقق : مجموعة العمليات التي تجرى بواسطة المختبرات المعتمدة للتأكد من أن جهاز القياس أو أداة القياس مستوفٍ تماماً متطلبات التحقق، ويشمل التحقق كلاً من الاختبار والدمغ.",
+    "target_en": "Verification: A set of processes conducted by approved laboratories to ensure that a measuring device or instrument meets all verification requirements. Verification includes both testing and marking.",
+    "source_ar_norm": "التحقق : مجموعة العمليات التي تجري بواسطة المختبرات المعتمدة للتاكد من ان جهاز القياس او اداة القياس مستوف تماما متطلبات التحقق، ويشمل التحقق كلا من الاختبار والدمغ.",
+    "target_en_norm": "verification: a set of processes conducted by approved laboratories to ensure that a measuring device or instrument meets all verification requirements. verification includes both testing and marking.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45915,
+    "source_ar": "تحقق أولي : التحقق الأول الذي يجرى لأول مرة لجهاز قياس جديد لم يسبق إجراء تحقق له.",
+    "target_en": "Primary Verification: The first verification of a new measuring instrument not previously verified.",
+    "source_ar_norm": "تحقق اولي : التحقق الاول الذي يجري لاول مرة لجهاز قياس جديد لم يسبق اجراء تحقق له.",
+    "target_en_norm": "primary verification: the first verification of a new measuring instrument not previously verified.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45916,
+    "source_ar": "الفحص : مجموعة العمليات التي تجرى للتأكد من أن جهاز قياس ما مستوفٍ المتطلبات القانونية المتعلقة بالتحقق، أو التوصيات الواردة في المواصفات الفنية.",
+    "target_en": "Inspection: A set of processes to verify that a measuring instrument meets statutory verification requirements or recommendations provided for in technical specifications.",
+    "source_ar_norm": "الفحص : مجموعة العمليات التي تجري للتاكد من ان جهاز قياس ما مستوف المتطلبات القانونية المتعلقة بالتحقق، او التوصيات الواردة في المواصفات الفنية.",
+    "target_en_norm": "inspection: a set of processes to verify that a measuring instrument meets statutory verification requirements or recommendations provided for in technical specifications.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45917,
+    "source_ar": "الدمغ : وضع علامات على أجهزة القياس، تدل على المطابقة لمتطلبات التحقق.",
+    "target_en": "Marking: Attaching marks to a measuring instrument as an indication of meeting verification requirements.",
+    "source_ar_norm": "الدمغ : وضع علامات علي اجهزة القياس، تدل علي المطابقة لمتطلبات التحقق.",
+    "target_en_norm": "marking: attaching marks to a measuring instrument as an indication of meeting verification requirements.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45918,
+    "source_ar": "الاختبار : مجموعة العمليات التي من خلالها يتم التأكد من أداء العينة، لمعرفة جودتها تحت ظروف محددة.",
+    "target_en": "Testing: A set of processes to verify the performance of a sample in order to determine its quality under certain conditions.",
+    "source_ar_norm": "الاختبار : مجموعة العمليات التي من خلالها يتم التاكد من اداء العينة، لمعرفة جودتها تحت ظروف محددة.",
+    "target_en_norm": "testing: a set of processes to verify the performance of a sample in order to determine its quality under certain conditions.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45919,
+    "source_ar": "تقرير قياس أو اختبار : وثيقة تحتوي على نتائج القياس أو الاختبار، وعلى أي معلومة أخرى متعلقة بهذه النتائج.",
+    "target_en": "Measurement or Testing Report: A document stating the measurement or testing results and any other information related thereto.",
+    "source_ar_norm": "تقرير قياس او اختبار : وثيقة تحتوي علي نتائج القياس او الاختبار، وعلي اي معلومة اخري متعلقة بهذه النتائج.",
+    "target_en_norm": "measurement or testing report: a document stating the measurement or testing results and any other information related thereto.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45920,
+    "source_ar": "الارتياب في القيم : تقدير يصف مدى القيم التي تقع ضمنها القيمة الحقيقية للكمية المقيسة.",
+    "target_en": "Uncertainty of Values: An assessment indicating the range of values within which the actual value of a measured quantity falls.",
+    "source_ar_norm": "الارتياب في القيم : تقدير يصف مدي القيم التي تقع ضمنها القيمة الحقيقية للكمية المقيسة.",
+    "target_en_norm": "uncertainty of values: an assessment indicating the range of values within which the actual value of a measured quantity falls.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45921,
+    "source_ar": "النموذج : التصميم النهائي لجهاز قياس ، يتم فيه التحديد المناسب لكل العناصر التي تؤثر على خصائصه المترولوجية.",
+    "target_en": "Prototype: The final design of a measuring instrument in which all elements affecting its metrological properties are properly determined.",
+    "source_ar_norm": "النموذج : التصميم النهائي لجهاز قياس ، يتم فيه التحديد المناسب لكل العناصر التي تؤثر علي خصائصه المترولوجية.",
+    "target_en_norm": "prototype: the final design of a measuring instrument in which all elements affecting its metrological properties are properly determined.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45922,
+    "source_ar": "علامة الجودة : علامة يرخص بها لمنتج وطني، بعد قيام الهيئة بالتحقق من مطابقته للمواصفات القياسية السعودية ذات العلاقة.",
+    "target_en": "Quality Mark: A mark given by SASO to a national product upon verification of its conformity with relevant Saudi standard specifications.",
+    "source_ar_norm": "علامة الجودة : علامة يرخص بها لمنتج وطني، بعد قيام الهيئة بالتحقق من مطابقته للمواصفات القياسية السعودية ذات العلاقة.",
+    "target_en_norm": "quality mark: a mark given by saso to a national product upon verification of its conformity with relevant saudi standard specifications.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45923,
+    "source_ar": "شهادة المطابقة : شهادة تمنح بواسطة الهيئة أو من جهة دولية معتمدة لمجموعة إنتاج معينة، بعد إجراء اختبارات المطابقة عليها؛ وفقاً للمواصفات القياسية السعودية أو الدولية المعتمدة.",
+    "target_en": "Certificate of Conformity: A certificate granted by SASO or an approved international body to certain set of products, which have been tested for conformity, in accordance with Saudi standards or approved international standards.",
+    "source_ar_norm": "شهادة المطابقة : شهادة تمنح بواسطة الهيئة او من جهة دولية معتمدة لمجموعة انتاج معينة، بعد اجراء اختبارات المطابقة عليها؛ وفقا للمواصفات القياسية السعودية او الدولية المعتمدة.",
+    "target_en_norm": "certificate of conformity: a certificate granted by saso or an approved international body to certain set of products, which have been tested for conformity, in accordance with saudi standards or approved international standards.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45924,
+    "source_ar": "المركز الوطني : المركز الوطني للقياس والمعايرة .",
+    "target_en": "NMCC: National Measurement and Calibration Center.",
+    "source_ar_norm": "المركز الوطني : المركز الوطني للقياس والمعايرة .",
+    "target_en_norm": "nmcc: national measurement and calibration center.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45925,
+    "source_ar": "المختبرات المعتمدة : المختبرات التي تمنحها الهيئة شهادة اعتماد تفيد قدرتها بالقيام ببعض خدمات الاختبار أو المعايرة أو كلها.",
+    "target_en": "Approved Laboratories: Laboratories to which the organization grants a certificate of approval indicating their capacity to perform some or all testing or calibration services.",
+    "source_ar_norm": "المختبرات المعتمدة : المختبرات التي تمنحها الهيئة شهادة اعتماد تفيد قدرتها بالقيام ببعض خدمات الاختبار او المعايرة او كلها.",
+    "target_en_norm": "approved laboratories: laboratories to which the organization grants a certificate of approval indicating their capacity to perform some or all testing or calibration services.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45926,
+    "source_ar": "المادة الثانية :",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية :",
+    "target_en_norm": "article 2",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45927,
+    "source_ar": "يهدف هذا النظام إلى الآتي:",
+    "target_en": "This Law shall aim to achieve the following:",
+    "source_ar_norm": "يهدف هذا النظام الي الاتي:",
+    "target_en_norm": "this law shall aim to achieve the following:",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45928,
+    "source_ar": "ـتوحيد جهة القياس والمعايرة في المملكة.",
+    "target_en": "consolidate measurement and calibration authorities in the Kingdom;",
+    "source_ar_norm": "توحيد جهة القياس والمعايرة في المملكة.",
+    "target_en_norm": "consolidate measurement and calibration authorities in the kingdom;",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45929,
+    "source_ar": "التمشي مع النظام العالمي للقياس والمعايرة.",
+    "target_en": "conform to the international measurement and calibration system;",
+    "source_ar_norm": "التمشي مع النظام العالمي للقياس والمعايرة.",
+    "target_en_norm": "conform to the international measurement and calibration system;",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45930,
+    "source_ar": "تسهيل عمليات التبادل التجاري للسلع بين المملكة ودول العالم فيما يتعلق بالقياس والمعايرة.",
+    "target_en": "facilitate trading in commodities between the Kingdom and other countries, in terms of measurement and calibration; and",
+    "source_ar_norm": "تسهيل عمليات التبادل التجاري للسلع بين المملكة ودول العالم فيما يتعلق بالقياس والمعايرة.",
+    "target_en_norm": "facilitate trading in commodities between the kingdom and other countries, in terms of measurement and calibration; and",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45931,
+    "source_ar": "تغطية المقاييس والمعايير للمجالات التجارية، والصناعية، والعلمية.",
+    "target_en": "provide measurements and standards for commercial, industrial and scientific areas.",
+    "source_ar_norm": "تغطية المقاييس والمعايير للمجالات التجارية، والصناعية، والعلمية.",
+    "target_en_norm": "provide measurements and standards for commercial, industrial and scientific areas.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45932,
+    "source_ar": "المادة الثالثة :",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة :",
+    "target_en_norm": "article 3",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45933,
+    "source_ar": "يُتخذ النظام الدولي للوحدات أساساً لوحدات القياس التي يرجع إليها في جميع القياسات في المملكة العربية السعودية. ويجب على جميع المختبرات استخدام وحدات النظام الدولي (SI Units) ، وهذه الوحدات مبنية على الوحدات الأساسية الآتية :",
+    "target_en": "All measurements in the Kingdom of Saudi Arabia shall adopt the International System of units (SI) and all laboratories shall use SI Units which are:",
+    "source_ar_norm": "يتخذ النظام الدولي للوحدات اساسا لوحدات القياس التي يرجع اليها في جميع القياسات في المملكة العربية السعودية. ويجب علي جميع المختبرات استخدام وحدات النظام الدولي (SI Units) ، وهذه الوحدات مبنية علي الوحدات الاساسية الاتية :",
+    "target_en_norm": "all measurements in the kingdom of saudi arabia shall adopt the international system of units (si) and all laboratories shall use si units which are:",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45934,
+    "source_ar": "1 - وحدة الطول : المتر.",
+    "target_en": "Length: Meter.",
+    "source_ar_norm": "1 - وحدة الطول : المتر.",
+    "target_en_norm": "length: meter.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45935,
+    "source_ar": "2 - وحدة الكتلة : الكيلوغرام.",
+    "target_en": "Mass: Kilogram.",
+    "source_ar_norm": "2 - وحدة الكتلة : الكيلوغرام.",
+    "target_en_norm": "mass: kilogram.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45936,
+    "source_ar": "3 - وحدة الزمن : الثانية.",
+    "target_en": "Time: Second.",
+    "source_ar_norm": "3 - وحدة الزمن : الثانية.",
+    "target_en_norm": "time: second.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45937,
+    "source_ar": "4- وحدة درجة الحرارة: الكلفن.",
+    "target_en": "Temperature: Kelvin.",
+    "source_ar_norm": "4- وحدة درجة الحرارة: الكلفن.",
+    "target_en_norm": "temperature: kelvin.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45938,
+    "source_ar": "5- وحدة شدة التيار الكهربائي: الأمبير.",
+    "target_en": "Electric current: Ampere.",
+    "source_ar_norm": "5- وحدة شدة التيار الكهربائي: الامبير.",
+    "target_en_norm": "electric current: ampere.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45939,
+    "source_ar": "6- وحدة كمية المادة: المول.",
+    "target_en": "Amount of Substance: Mole.",
+    "source_ar_norm": "6- وحدة كمية المادة: المول.",
+    "target_en_norm": "amount of substance: mole.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45940,
+    "source_ar": "7- وحدة شدة الإضاءة: الشمعة.",
+    "target_en": "Luminous intensity: Candela.",
+    "source_ar_norm": "7- وحدة شدة الاضاءة: الشمعة.",
+    "target_en_norm": "luminous intensity: candela.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45941,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article 4",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45942,
+    "source_ar": "تحدد وحدات النظام الدولي ورموزها والوحدات المشتقة منها المستخدمة في كل مجال من خلال المواصفات القياسية التي تعتمدها الهيئة .",
+    "target_en": "SI units and their symbols and derivatives used in every area shall be specified by means of standard specifications adopted by SASO.",
+    "source_ar_norm": "تحدد وحدات النظام الدولي ورموزها والوحدات المشتقة منها المستخدمة في كل مجال من خلال المواصفات القياسية التي تعتمدها الهيئة .",
+    "target_en_norm": "si units and their symbols and derivatives used in every area shall be specified by means of standard specifications adopted by saso.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45943,
+    "source_ar": "المادة الخامسة :",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة :",
+    "target_en_norm": "article 5",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45944,
+    "source_ar": "يكون قياس ومعايرة الخصائص الكمية للبضائع المستوردة والمصنعة محلياً بمكان ظاهر على السلعة وبوحدات النظام الدولي.",
+    "target_en": "Measurements and calibrations of quantum properties of imported and domestic goods shall be visibly displayed on goods, using SI units.",
+    "source_ar_norm": "يكون قياس ومعايرة الخصائص الكمية للبضائع المستوردة والمصنعة محليا بمكان ظاهر علي السلعة وبوحدات النظام الدولي.",
+    "target_en_norm": "measurements and calibrations of quantum properties of imported and domestic goods shall be visibly displayed on goods, using si units.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45945,
+    "source_ar": "المادة السادسة :",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة :",
+    "target_en_norm": "article 6",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45946,
+    "source_ar": "تصنف مختبرات القياس والمعايرة على النحو الآتي:",
+    "target_en": "Measurement and calibration laboratories shall be categorized as follows:",
+    "source_ar_norm": "تصنف مختبرات القياس والمعايرة علي النحو الاتي:",
+    "target_en_norm": "measurement and calibration laboratories shall be categorized as follows:",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45947,
+    "source_ar": "1 - المركز الوطني.",
+    "target_en": "NMCC.",
+    "source_ar_norm": "1 - المركز الوطني.",
+    "target_en_norm": "nmcc.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45948,
+    "source_ar": "2 - المختبرات المعتمدة.",
+    "target_en": "Approved laboratories.",
+    "source_ar_norm": "2 - المختبرات المعتمدة.",
+    "target_en_norm": "approved laboratories.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45949,
+    "source_ar": "المادة السابعة :",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة :",
+    "target_en_norm": "article 7",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45950,
+    "source_ar": "يشترط لإسناد معايير القياس الآتي:",
+    "target_en": "In order for measurement standards to be traceable, the following requirements shall be met:",
+    "source_ar_norm": "يشترط لاسناد معايير القياس الاتي:",
+    "target_en_norm": "in order for measurement standards to be traceable, the following requirements shall be met:",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45951,
+    "source_ar": "1 - أن تكون شهادات المعايرة الخاصة بالمعايير الوطنية المحفوظة في المركز الوطني سارية الصلاحية، وأن تتضمن الارتياب في القيم، وأن تكون صادرة من المكتب الدولي للأوزان والمقاييس (BIPM) أو أي مختبر معايرة معترف به دولياً ؛ لتأكيد إسناديتها إلى المعايير الدولية.",
+    "target_en": "National standards calibration certificates kept at NMCC shall be valid and shall include uncertainty of values and be issued by the International Bureau of Weights and Measures (BIPM) or any internationally accredited calibration laboratory; in order to confirm traceability to international standards.",
+    "source_ar_norm": "1 - ان تكون شهادات المعايرة الخاصة بالمعايير الوطنية المحفوظة في المركز الوطني سارية الصلاحية، وان تتضمن الارتياب في القيم، وان تكون صادرة من المكتب الدولي للاوزان والمقاييس (BIPM) او اي مختبر معايرة معترف به دوليا ؛ لتاكيد اسناديتها الي المعايير الدولية.",
+    "target_en_norm": "national standards calibration certificates kept at nmcc shall be valid and shall include uncertainty of values and be issued by the international bureau of weights and measures (bipm) or any internationally accredited calibration laboratory; in order to confirm traceability to international standards.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45952,
+    "source_ar": "2 - أن تعاير معايير المركز الوطني المرجعية والعاملة داخل المركز الوطني، وأن يكون الارتياب في القيم مرافقاً لها؛ لتأكيد إسناديتها إلى المعايير الوطنية.",
+    "target_en": "Reference and working standards of NMCC shall be calibrated in the Center with uncertainty of values, in order to verify their traceability to national standards.",
+    "source_ar_norm": "2 - ان تعاير معايير المركز الوطني المرجعية والعاملة داخل المركز الوطني، وان يكون الارتياب في القيم مرافقا لها؛ لتاكيد اسناديتها الي المعايير الوطنية.",
+    "target_en_norm": "reference and working standards of nmcc shall be calibrated in the center with uncertainty of values, in order to verify their traceability to national standards.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45953,
+    "source_ar": "3 - أن تعاير المعايير العاملة للمختبرات المعتمدة داخل هذه المختبرات، وأن يكون الارتياب في القيم مرافقاً لها؛ لتأكيد إسناديتها إلى المعايير الوطنية.",
+    "target_en": "Working standards of approved laboratories shall be calibrated in said laboratories along with uncertainty of values, in order to verify their traceability to national standards.",
+    "source_ar_norm": "3 - ان تعاير المعايير العاملة للمختبرات المعتمدة داخل هذه المختبرات، وان يكون الارتياب في القيم مرافقا لها؛ لتاكيد اسناديتها الي المعايير الوطنية.",
+    "target_en_norm": "working standards of approved laboratories shall be calibrated in said laboratories along with uncertainty of values, in order to verify their traceability to national standards.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45954,
+    "source_ar": "4 - أن تتضمن شهادات المعايرة الخاصة بالمعايير المرجعية لمختبرات القياس والمعايرة التي تعتمدها الهيئة الارتياب في القيم، وأن تكون صادرة من المركز الوطني ؛ لتأكيد إسناديتها إلى المعايير الوطنية.",
+    "target_en": "Calibration certificates relating to reference standards of measurement and calibration laboratories approved by SASO shall include uncertainty of values and be issued by NMCC, in order to verify their traceability to national standards.",
+    "source_ar_norm": "4 - ان تتضمن شهادات المعايرة الخاصة بالمعايير المرجعية لمختبرات القياس والمعايرة التي تعتمدها الهيئة الارتياب في القيم، وان تكون صادرة من المركز الوطني ؛ لتاكيد اسناديتها الي المعايير الوطنية.",
+    "target_en_norm": "calibration certificates relating to reference standards of measurement and calibration laboratories approved by saso shall include uncertainty of values and be issued by nmcc, in order to verify their traceability to national standards.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45955,
+    "source_ar": "المادة الثامنة :",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة :",
+    "target_en_norm": "article 8",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45956,
+    "source_ar": "أ - مهمات الهيئة :",
+    "target_en": "Duties of SASO:",
+    "source_ar_norm": "ا - مهمات الهيئة :",
+    "target_en_norm": "duties of saso:",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45957,
+    "source_ar": "مع عدم الإخلال باختصاصات الهيئة المنصوص عليها نظاماً تتولى الهيئة ما يأتي:",
+    "target_en": "Without prejudice to its jurisdiction under the Law, SASO shall assume the following:",
+    "source_ar_norm": "مع عدم الاخلال باختصاصات الهيئة المنصوص عليها نظاما تتولي الهيئة ما ياتي:",
+    "target_en_norm": "without prejudice to its jurisdiction under the law, saso shall assume the following:",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45958,
+    "source_ar": "1- إقرار النموذج طبقاً للمواصفات القياسية السعودية أو توصيات المنظمة الدولية للمعايرة القانونية (OIML)، ومنح شهادات إقرار النموذج لأجهزة القياس والتحقق الأولي.",
+    "target_en": "Approving prototypes in accordance with the Saudi standard specifications or recommendations of the International Organization of Legal Metrology (OIML) and granting prototype approval certificates for measuring instruments and initial verification.",
+    "source_ar_norm": "1- اقرار النموذج طبقا للمواصفات القياسية السعودية او توصيات المنظمة الدولية للمعايرة القانونية (OIML)، ومنح شهادات اقرار النموذج لاجهزة القياس والتحقق الاولي.",
+    "target_en_norm": "approving prototypes in accordance with the saudi standard specifications or recommendations of the international organization of legal metrology (oiml) and granting prototype approval certificates for measuring instruments and initial verification.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45959,
+    "source_ar": "2- اعتماد مختبرات القياس والمعايرة .",
+    "target_en": "Approving measurement and calibration laboratories.",
+    "source_ar_norm": "2- اعتماد مختبرات القياس والمعايرة .",
+    "target_en_norm": "approving measurement and calibration laboratories.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45960,
+    "source_ar": "3- التنسيق مع الجهات ذات العلاقة لضمان حفظ المعايير المرجعية في المختبرات المعتمدة، وكذلك حفظ المعايير العاملة بحالة جيدة في تلك المختبرات ومعايرتها دولياً، بإسنادها إلى وحدات النظام الدولي والمعايير الوطنية للقياس، المحفوظة في المركز الوطني .",
+    "target_en": "Coordinating with relevant parties to ensure the maintenance of reference standards in approved laboratories, as well as good maintenance and international calibration of working standards therein by means of tracing the same to SI Units and national standards kept at NMCC.",
+    "source_ar_norm": "3- التنسيق مع الجهات ذات العلاقة لضمان حفظ المعايير المرجعية في المختبرات المعتمدة، وكذلك حفظ المعايير العاملة بحالة جيدة في تلك المختبرات ومعايرتها دوليا، باسنادها الي وحدات النظام الدولي والمعايير الوطنية للقياس، المحفوظة في المركز الوطني .",
+    "target_en_norm": "coordinating with relevant parties to ensure the maintenance of reference standards in approved laboratories, as well as good maintenance and international calibration of working standards therein by means of tracing the same to si units and national standards kept at nmcc.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45961,
+    "source_ar": "4- منح شهادات المطابقة لنماذج أجهزة القياس الخاضعة للمعايير القانونية.",
+    "target_en": "Granting certificate of conformity to prototype measuring instruments which are subject to legal metrology.",
+    "source_ar_norm": "4- منح شهادات المطابقة لنماذج اجهزة القياس الخاضعة للمعايير القانونية.",
+    "target_en_norm": "granting certificate of conformity to prototype measuring instruments which are subject to legal metrology.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45962,
+    "source_ar": "ب - مهمات المركز الوطني:",
+    "target_en": "Duties of NMCC:",
+    "source_ar_norm": "ب - مهمات المركز الوطني:",
+    "target_en_norm": "duties of nmcc:",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45963,
+    "source_ar": "1- الاعتناء بالمعايير الوطنية، والمعايير المرجعية، والمعايير العاملة، وحفظها؛ والتي تمثل وحدات النظام الدولي ومضاعفاتها وأجزائها. وتكون مسندة إلى المعايير الدولية مع تحديد الارتياب في القيم.",
+    "target_en": "Maintaining and preserving national, reference and working standards which represent SI Units and multiples and submultiples thereof, ensuring their traceability to international standards and specifying uncertainty of values.",
+    "source_ar_norm": "1- الاعتناء بالمعايير الوطنية، والمعايير المرجعية، والمعايير العاملة، وحفظها؛ والتي تمثل وحدات النظام الدولي ومضاعفاتها واجزائها. وتكون مسندة الي المعايير الدولية مع تحديد الارتياب في القيم.",
+    "target_en_norm": "maintaining and preserving national, reference and working standards which represent si units and multiples and submultiples thereof, ensuring their traceability to international standards and specifying uncertainty of values.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45964,
+    "source_ar": "2 - معايرة المعايير المرجعية والعاملة وأجهزة القياس للمختبرات الأخرى دورياً.",
+    "target_en": "Calibrating reference and working standards and measuring instruments of other laboratories on a periodical basis.",
+    "source_ar_norm": "2 - معايرة المعايير المرجعية والعاملة واجهزة القياس للمختبرات الاخري دوريا.",
+    "target_en_norm": "calibrating reference and working standards and measuring instruments of other laboratories on a periodical basis.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45965,
+    "source_ar": "3 - البحث والتطوير في معايير القياس، وتحقيق وحدات النظام الدولي ومضاعفاتها وأجزائها.",
+    "target_en": "Conducting research on development of measurement standards and verification of SI Units and multiples and submultiples thereof.",
+    "source_ar_norm": "3 - البحث والتطوير في معايير القياس، وتحقيق وحدات النظام الدولي ومضاعفاتها واجزائها.",
+    "target_en_norm": "conducting research on development of measurement standards and verification of si units and multiples and submultiples thereof.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45966,
+    "source_ar": "4 - رفع تقارير اختبار أجهزة القياس وفحصها إلى الهيئة؛ لمنح شهادات مطابقة النموذج، وإجراء التحقق الأولي لأجهزة القياس.",
+    "target_en": "Submitting measuring instruments’ testing and inspection reports to SASO to grant certificates of prototype conformity, and conducting initial verification of measuring instruments.",
+    "source_ar_norm": "4 - رفع تقارير اختبار اجهزة القياس وفحصها الي الهيئة؛ لمنح شهادات مطابقة النموذج، واجراء التحقق الاولي لاجهزة القياس.",
+    "target_en_norm": "submitting measuring instruments’ testing and inspection reports to saso to grant certificates of prototype conformity, and conducting initial verification of measuring instruments.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45967,
+    "source_ar": "5 - تقديم المشورة الفنية للهيئة في إعداد مشروعات المواصفات القياسية السعودية، وفي منح شهادات الاعتماد للمختبرات، وفي منح علامات الجودة.",
+    "target_en": "Providing SASO with technical advice on drafting Saudi standard specifications, granting certificates of approval to laboratories and granting quality marks.",
+    "source_ar_norm": "5 - تقديم المشورة الفنية للهيئة في اعداد مشروعات المواصفات القياسية السعودية، وفي منح شهادات الاعتماد للمختبرات، وفي منح علامات الجودة.",
+    "target_en_norm": "providing saso with technical advice on drafting saudi standard specifications, granting certificates of approval to laboratories and granting quality marks.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45968,
+    "source_ar": "6 - إبداء المساعدة والمشورة، في مجال القياس والمعايرة، للجهات والمختبرات التي تطلب ذلك.",
+    "target_en": "Providing assistance and advice in the area of measurement and calibration to agencies and laboratories upon their request.",
+    "source_ar_norm": "6 - ابداء المساعدة والمشورة، في مجال القياس والمعايرة، للجهات والمختبرات التي تطلب ذلك.",
+    "target_en_norm": "providing assistance and advice in the area of measurement and calibration to agencies and laboratories upon their request.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45969,
+    "source_ar": "7 - الاعتناء بالوحدات القانونية لأجهزة القياس وحفظها ومعايرتها.",
+    "target_en": "Maintaining, preserving and calibrating legal units of measuring instruments.",
+    "source_ar_norm": "7 - الاعتناء بالوحدات القانونية لاجهزة القياس وحفظها ومعايرتها.",
+    "target_en_norm": "maintaining, preserving and calibrating legal units of measuring instruments.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45970,
+    "source_ar": "ج - مهمات المختبرات المعتمدة :",
+    "target_en": "Duties of Approved Laboratories:",
+    "source_ar_norm": "ج - مهمات المختبرات المعتمدة :",
+    "target_en_norm": "duties of approved laboratories:",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45971,
+    "source_ar": "1 - حفظ المعايير المرجعية والمعايير العاملة، المسندة إلى المعايير الوطنية.",
+    "target_en": "Maintaining reference and working standards traced to National Standards.",
+    "source_ar_norm": "1 - حفظ المعايير المرجعية والمعايير العاملة، المسندة الي المعايير الوطنية.",
+    "target_en_norm": "maintaining reference and working standards traced to national standards.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45972,
+    "source_ar": "2 - معايرة أجهزة القياس التابعة لهذه المختبرات دورياً.",
+    "target_en": "Calibrating measuring instruments of said laboratories on a periodical basis.",
+    "source_ar_norm": "2 - معايرة اجهزة القياس التابعة لهذه المختبرات دوريا.",
+    "target_en_norm": "calibrating measuring instruments of said laboratories on a periodical basis.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45973,
+    "source_ar": "3 - حفظ المعايير المرجعية والمعايير العاملة لمعايرة أجهزة القياس والتحقق منها.",
+    "target_en": "Maintaining reference and working standards in order to calibrate and verify measuring instruments.",
+    "source_ar_norm": "3 - حفظ المعايير المرجعية والمعايير العاملة لمعايرة اجهزة القياس والتحقق منها.",
+    "target_en_norm": "maintaining reference and working standards in order to calibrate and verify measuring instruments.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45974,
+    "source_ar": "4 - الفحص والتحقق من أجهزة القياس التي تخضع لهذا النظام ولائحته، وذلك وفقاً لعياراتها أو أوزانها أو أكيالها أو مقاساتها، والتأكد من عدم استعمال طرق أو وسائل من شأنها جعل ذلك غير صحيح.",
+    "target_en": "Examining and verifying measuring instruments covered by this Law and its Regulations, in accordance with their calibers, weights, scales or measures, and ensuring that no methods or techniques undermining the same are used.",
+    "source_ar_norm": "4 - الفحص والتحقق من اجهزة القياس التي تخضع لهذا النظام ولائحته، وذلك وفقا لعياراتها او اوزانها او اكيالها او مقاساتها، والتاكد من عدم استعمال طرق او وسائل من شانها جعل ذلك غير صحيح.",
+    "target_en_norm": "examining and verifying measuring instruments covered by this law and its regulations, in accordance with their calibers, weights, scales or measures, and ensuring that no methods or techniques undermining the same are used.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45975,
+    "source_ar": "5- توفير خدمة المعايرة والاختبار، للوفاء بمتطلبات المعايرة داخل المختبر أو خارجه.",
+    "target_en": "Providing calibration and testing services in order to meet calibration requirements, inside or outside laboratories.",
+    "source_ar_norm": "5- توفير خدمة المعايرة والاختبار، للوفاء بمتطلبات المعايرة داخل المختبر او خارجه.",
+    "target_en_norm": "providing calibration and testing services in order to meet calibration requirements, inside or outside laboratories.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45976,
+    "source_ar": "المادة التاسعة :",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة :",
+    "target_en_norm": "article 9",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45977,
+    "source_ar": "يقوم المركز الوطني والمختبرات المعتمدة بالآتي:",
+    "target_en": "NMCC and approved laboratories shall undertake the following:",
+    "source_ar_norm": "يقوم المركز الوطني والمختبرات المعتمدة بالاتي:",
+    "target_en_norm": "nmcc and approved laboratories shall undertake the following:",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45978,
+    "source_ar": "1 - إجراء تحقق أولي لأجهزة القياس الجديدة بعد منحها شهادة المطابقة وقبل استخدامها. وتبين اللائحة كيفية ذلك والمواقع التي يتم فيها التحقق ومسؤولية إحالة الأجهزة للتحقق وفترات الصلاحية.",
+    "target_en": "Conduct initial verification of new measuring instruments after granting them certificates of conformity and prior to using them. The Regulations shall specify the manner of conducting the primary verification and location thereof, as well as referral of instruments for verification and determination of validity periods.",
+    "source_ar_norm": "1 - اجراء تحقق اولي لاجهزة القياس الجديدة بعد منحها شهادة المطابقة وقبل استخدامها. وتبين اللائحة كيفية ذلك والمواقع التي يتم فيها التحقق ومسؤولية احالة الاجهزة للتحقق وفترات الصلاحية.",
+    "target_en_norm": "conduct initial verification of new measuring instruments after granting them certificates of conformity and prior to using them. the regulations shall specify the manner of conducting the primary verification and location thereof, as well as referral of instruments for verification and determination of validity periods.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45979,
+    "source_ar": "2 - تحصيل تكاليف معايرة من طالبي الخدمة، وتحدد اللائحة تلك التكاليف.",
+    "target_en": "Collect calibration costs from parties requesting service, in accordance with the Regulations.",
+    "source_ar_norm": "2 - تحصيل تكاليف معايرة من طالبي الخدمة، وتحدد اللائحة تلك التكاليف.",
+    "target_en_norm": "collect calibration costs from parties requesting service, in accordance with the regulations.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45980,
+    "source_ar": "المادة العاشرة :",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة :",
+    "target_en_norm": "article 10",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45981,
+    "source_ar": "أ - قواعد الاعتناء بمعايير القياس :",
+    "target_en": "Rules for maintaining measurement standards:",
+    "source_ar_norm": "ا - قواعد الاعتناء بمعايير القياس :",
+    "target_en_norm": "rules for maintaining measurement standards:",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45982,
+    "source_ar": "1 - يجب أن تحمل المعايير الوطنية التي يعتني بها المركز الوطني شهادة معايرة سارية الصلاحية مسندة إلى المعايير الدولية التي تحقق في المركز الوطني أو تلك المحفوظة في المكتب الدولي للأوزان والمقاييس (BIPM) أو في مختبرات المعايرة الدولية المعترف بها.",
+    "target_en": "National standards maintained by NMCC shall have a valid calibration certificate traceable to international standards verified at NMCC or maintained by the International Bureau of Weights and Measures (BIPM) or accredited international calibration laboratories.",
+    "source_ar_norm": "1 - يجب ان تحمل المعايير الوطنية التي يعتني بها المركز الوطني شهادة معايرة سارية الصلاحية مسندة الي المعايير الدولية التي تحقق في المركز الوطني او تلك المحفوظة في المكتب الدولي للاوزان والمقاييس (BIPM) او في مختبرات المعايرة الدولية المعترف بها.",
+    "target_en_norm": "national standards maintained by nmcc shall have a valid calibration certificate traceable to international standards verified at nmcc or maintained by the international bureau of weights and measures (bipm) or accredited international calibration laboratories.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45983,
+    "source_ar": "2 - تعاير المعايير المرجعية والمعايير العاملة داخلياً، وتدرج قيمها مرافقة لقيمة الارتياب في قيمها.",
+    "target_en": "Reference and working standards shall be calibrated internally and values thereof shall be listed along with uncertainty of values.",
+    "source_ar_norm": "2 - تعاير المعايير المرجعية والمعايير العاملة داخليا، وتدرج قيمها مرافقة لقيمة الارتياب في قيمها.",
+    "target_en_norm": "reference and working standards shall be calibrated internally and values thereof shall be listed along with uncertainty of values.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45984,
+    "source_ar": "3 - يجب أن تحمل المعايير المرجعية شهادة معايرة سارية الصلاحية مع ذكر الارتياب في قيمها، وأن تكون صادرة من الهيئة.",
+    "target_en": "Reference standards shall have a valid calibration certificate stating uncertainty of values thereof and issued by SASO.",
+    "source_ar_norm": "3 - يجب ان تحمل المعايير المرجعية شهادة معايرة سارية الصلاحية مع ذكر الارتياب في قيمها، وان تكون صادرة من الهيئة.",
+    "target_en_norm": "reference standards shall have a valid calibration certificate stating uncertainty of values thereof and issued by saso.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45985,
+    "source_ar": "4 - يجب أن تعاير المعايير العاملة بالمعايير المرجعية، وأن تكون قيمها محددة، مع ذكر الارتياب في القيم.",
+    "target_en": "Working standards shall be calibrated against reference standards and their values shall be specified along with uncertainty of values.",
+    "source_ar_norm": "4 - يجب ان تعاير المعايير العاملة بالمعايير المرجعية، وان تكون قيمها محددة، مع ذكر الارتياب في القيم.",
+    "target_en_norm": "working standards shall be calibrated against reference standards and their values shall be specified along with uncertainty of values.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45986,
+    "source_ar": "5 - يجب أن تمثل وحدات القياس ومضاعفاتها وأجزاؤها تمثيلاً فيزيائياً بوساطة المعايير الوطنية والمعايير المرجعية وكذلك المعايير العاملة.",
+    "target_en": "Measurement units as well as multiples and submultiples thereof shall be physically represented by national, reference and working standards.",
+    "source_ar_norm": "5 - يجب ان تمثل وحدات القياس ومضاعفاتها واجزاؤها تمثيلا فيزيائيا بوساطة المعايير الوطنية والمعايير المرجعية وكذلك المعايير العاملة.",
+    "target_en_norm": "measurement units as well as multiples and submultiples thereof shall be physically represented by national, reference and working standards.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45987,
+    "source_ar": "ب - مدة المعايرة وطريقة الدمغ:",
+    "target_en": "Calibration period and marking method:",
+    "source_ar_norm": "ب - مدة المعايرة وطريقة الدمغ:",
+    "target_en_norm": "calibration period and marking method:",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45988,
+    "source_ar": "1 - تحدد اللائحة مدة المعايرة لجميع معايير القياس المحتفظ بها في الهيئة، وغيرها من المختبرات المعتمدة.",
+    "target_en": "The Regulations shall specify the calibration period for all measurement standards maintained by SASO and other approved laboratories.",
+    "source_ar_norm": "1 - تحدد اللائحة مدة المعايرة لجميع معايير القياس المحتفظ بها في الهيئة، وغيرها من المختبرات المعتمدة.",
+    "target_en_norm": "the regulations shall specify the calibration period for all measurement standards maintained by saso and other approved laboratories.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45989,
+    "source_ar": "2 - يصمم الدمغ طبقاً للإجراءات التي تحددها اللائحة.",
+    "target_en": "Markings shall be designed in accordance with procedures set forth in the Regulations.",
+    "source_ar_norm": "2 - يصمم الدمغ طبقا للاجراءات التي تحددها اللائحة.",
+    "target_en_norm": "markings shall be designed in accordance with procedures set forth in the regulations.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45990,
+    "source_ar": "المادة الحادية عشرة :",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة :",
+    "target_en_norm": "article 11",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45991,
+    "source_ar": "1- تطبق المواصفات القياسية السعودية الخاصة بمتطلبات أجهزة القياس وطرق معايرتها. وتبين اللائحة كيفية ذلك.",
+    "target_en": "Saudi standard specifications relating to requirements and methods of calibration of measuring instruments shall apply as stipulated in the Regulations.",
+    "source_ar_norm": "1- تطبق المواصفات القياسية السعودية الخاصة بمتطلبات اجهزة القياس وطرق معايرتها. وتبين اللائحة كيفية ذلك.",
+    "target_en_norm": "saudi standard specifications relating to requirements and methods of calibration of measuring instruments shall apply as stipulated in the regulations.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45992,
+    "source_ar": "2- تعتمد المواصفات القياسية السعودية ذات العلاقة أساساً على توصيات المنظمة الدولية للمعايرة القانونية (OIML).",
+    "target_en": "Relevant Saudi standard specifications shall be based on the recommendations of the International Organization of Legal Metrology (OIML).",
+    "source_ar_norm": "2- تعتمد المواصفات القياسية السعودية ذات العلاقة اساسا علي توصيات المنظمة الدولية للمعايرة القانونية (OIML).",
+    "target_en_norm": "relevant saudi standard specifications shall be based on the recommendations of the international organization of legal metrology (oiml).",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45993,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article 12",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45994,
+    "source_ar": "يتولى ضبط مخالفات أحكام هذا النظام وإثباتها، موظفون مختصون، وتحدد اللائحة الآتي:",
+    "target_en": "Violations of the provisions of this Law shall be detected and recorded by competent officers, and the Regulations shall specify the following:",
+    "source_ar_norm": "يتولي ضبط مخالفات احكام هذا النظام واثباتها، موظفون مختصون، وتحدد اللائحة الاتي:",
+    "target_en_norm": "violations of the provisions of this law shall be detected and recorded by competent officers, and the regulations shall specify the following:",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45995,
+    "source_ar": "1 ـ الجهة أو الجهات المسؤولة عن تسميتهم.",
+    "target_en": "The entities or parties responsible for naming said officers.",
+    "source_ar_norm": "1  الجهة او الجهات المسؤولة عن تسميتهم.",
+    "target_en_norm": "the entities or parties responsible for naming said officers.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45996,
+    "source_ar": "2 ـ الصلاحيات والمهمات المخولة لهم.",
+    "target_en": "Jurisdictions and duties assigned thereto.",
+    "source_ar_norm": "2  الصلاحيات والمهمات المخولة لهم.",
+    "target_en_norm": "jurisdictions and duties assigned thereto.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45997,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article 13",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45998,
+    "source_ar": "تختص هيئة التحقيق والادعاء العام بالتحقيق والادعاء العام في المخالفات الواردة في هذا النظام.",
+    "target_en": "The Bureau of Investigation and Public Prosecution shall have jurisdiction to investigate and prosecute violations of this Law.",
+    "source_ar_norm": "تختص هيئة التحقيق والادعاء العام بالتحقيق والادعاء العام في المخالفات الواردة في هذا النظام.",
+    "target_en_norm": "the bureau of investigation and public prosecution shall have jurisdiction to investigate and prosecute violations of this law.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 45999,
+    "source_ar": "المادة الرابعة عشرة:",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة:",
+    "target_en_norm": "article 14",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  },
+  {
+    "id": 46000,
+    "source_ar": "تتولى المحكمة المختصة الفصل في جميع المخالفات ودعاوى المطالبة الناشئة عن تطبيق هذا النظام.",
+    "target_en": "The competent court shall decide violations and claims arising from the application of this Law.",
+    "source_ar_norm": "تتولي المحكمة المختصة الفصل في جميع المخالفات ودعاوي المطالبة الناشئة عن تطبيق هذا النظام.",
+    "target_en_norm": "the competent court shall decide violations and claims arising from the application of this law.",
+    "file_name": "نظام القياس والمعايرة (قديم).docx"
+  }
+]

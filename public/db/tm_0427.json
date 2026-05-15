@@ -1,0 +1,802 @@
+[
+  {
+    "id": 42601,
+    "source_ar": "تكون للألفاظ الواردة في هذا النظام المدلولات الآتية:",
+    "target_en": "In this Law, the following words and phrases shall have the meanings assigned thereto:",
+    "source_ar_norm": "تكون للالفاظ الواردة في هذا النظام المدلولات الاتية:",
+    "target_en_norm": "in this law, the following words and phrases shall have the meanings assigned thereto:",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42602,
+    "source_ar": "أ - يقصد بكلمة ( سلطة المباني ) أنا وردت في هذا النظام: برآسة أمانة العاصمة والبلديات ومهندسيها وأعضاء الهيئات المخول لها بموجب نظام البلديات مباشرة كل أو بعض السلطات والواجبات الممنوحة لسلطة المباني بموجب هذا النظام.",
+    "target_en": "a) Building Authority: The Capital Municipality Presidency, the sub-municipalities, the engineers thereof, and members of the commissions authorized under the Law of Municipalities to exercise all or some of the powers and duties of the Building Authority under this Law.",
+    "source_ar_norm": "ا - يقصد بكلمة ( سلطة المباني ) انا وردت في هذا النظام: براسة امانة العاصمة والبلديات ومهندسيها واعضاء الهيئات المخول لها بموجب نظام البلديات مباشرة كل او بعض السلطات والواجبات الممنوحة لسلطة المباني بموجب هذا النظام.",
+    "target_en_norm": "a) building authority: the capital municipality presidency, the sub-municipalities, the engineers thereof, and members of the commissions authorized under the law of municipalities to exercise all or some of the powers and duties of the building authority under this law.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42603,
+    "source_ar": "ب - يقصد بعبارة ( أرض مبان ): جميع الأراضي المقررة لذلك بموجب نصوص المادة (6) من هذا النظام.",
+    "target_en": "b) Building Plot: All lands that are designated for building purposes under the provisions of Article 6 of this Law.",
+    "source_ar_norm": "ب - يقصد بعبارة ( ارض مبان ): جميع الاراضي المقررة لذلك بموجب نصوص المادة (6) من هذا النظام.",
+    "target_en_norm": "b) building plot: all lands that are designated for building purposes under the provisions of article 6 of this law.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42604,
+    "source_ar": "ج - تشمل لفظة ( معمل ) : كل مكان مغطى أو مكشوف، تشتغل فيه آلة تسير بالكهرباء أو البخار أو بأية قوة ميكانيكية لعمل أي منتوج أو أي صناعة.",
+    "target_en": "c) Plant: Any covered or uncovered place where a machine powered by electricity, steam, or any mechanical force operates to develop any product or carry out any industry.",
+    "source_ar_norm": "ج - تشمل لفظة ( معمل ) : كل مكان مغطي او مكشوف، تشتغل فيه الة تسير بالكهرباء او البخار او باية قوة ميكانيكية لعمل اي منتوج او اي صناعة.",
+    "target_en_norm": "c) plant: any covered or uncovered place where a machine powered by electricity, steam, or any mechanical force operates to develop any product or carry out any industry.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42605,
+    "source_ar": "د - يقصد بجملة ( منطقة سكن أهالي ): كل المناطق المختصة لذلك بموجب نص الفقرة (د) من المادة السادسة من هذا النظام.",
+    "target_en": "d) Residential Area: All zones that are designated for residential purposes under Article 6(d) of this Law.",
+    "source_ar_norm": "د - يقصد بجملة ( منطقة سكن اهالي ): كل المناطق المختصة لذلك بموجب نص الفقرة (د) من المادة السادسة من هذا النظام.",
+    "target_en_norm": "d) residential area: all zones that are designated for residential purposes under article 6(d) of this law.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42606,
+    "source_ar": "هـ - يقصد بجملة ( أرض فضاء ): جميع الأراضي الخالية الغير مسورة والغير مأهولة منطقة البلدة.",
+    "target_en": "e) Vacant Land: All undeveloped, unfenced, and uninhabited lands within a town.",
+    "source_ar_norm": "ه - يقصد بجملة ( ارض فضاء ): جميع الاراضي الخالية الغير مسورة والغير ماهولة منطقة البلدة.",
+    "target_en_norm": "e) vacant land: all undeveloped, unfenced, and uninhabited lands within a town.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42607,
+    "source_ar": "و - يقصد بكلمة (القانون): نظام الطرق والمباني .",
+    "target_en": "f) Law: The Law of Roads and Buildings.",
+    "source_ar_norm": "و - يقصد بكلمة (القانون): نظام الطرق والمباني .",
+    "target_en_norm": "f) law: the law of roads and buildings.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42608,
+    "source_ar": "ز- يقصد بكلمة (الطرق): جميع الشوارع والطرق العامة والخاصة والميادين والأرصفة الواقعة ضمن حدود البلدية.",
+    "target_en": "g) Roads: All streets, public and private roads, squares, and sidewalks that are located within a submunicipality's borders.",
+    "source_ar_norm": "ز- يقصد بكلمة (الطرق): جميع الشوارع والطرق العامة والخاصة والميادين والارصفة الواقعة ضمن حدود البلدية.",
+    "target_en_norm": "g) roads: all streets, public and private roads, squares, and sidewalks that are located within a submunicipality's borders.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42609,
+    "source_ar": "ح - يقصد بلفظ (البناء): كل إنشاء حديث بما في ذلك حفر الأساسات أو أي أعمال إنشائية، بمادة واحدة أو أكثر من مواد الإنشاء، سواء كان معروفا استعمالها أو غير معروف أو إقامة رواشين أو مشارف (براندات) أو مظلات.",
+    "target_en": "h) Construction: Any new construction work including the excavation of foundations and the erection of a structure using one or more building materials, regardless of whether the purpose of such structure is known or unknown; this term shall encompass the construction of roshans (oriel windows), balconies (verandas), and pergolas.",
+    "source_ar_norm": "ح - يقصد بلفظ (البناء): كل انشاء حديث بما في ذلك حفر الاساسات او اي اعمال انشائية، بمادة واحدة او اكثر من مواد الانشاء، سواء كان معروفا استعمالها او غير معروف او اقامة رواشين او مشارف (براندات) او مظلات.",
+    "target_en_norm": "h) construction: any new construction work including the excavation of foundations and the erection of a structure using one or more building materials, regardless of whether the purpose of such structure is known or unknown; this term shall encompass the construction of roshans (oriel windows), balconies (verandas), and pergolas.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42610,
+    "source_ar": "ط - يقصد بكلمة (الترميم): إزالة أي خراب طرأ على بعض أو كل بناء قائم، وإصلاحه على الوضع الذي كان عليه قبل وقوع الخراب به، بشرط أن لا يصل لهم إلى ما يقرب ذراعا من سطح الأرض.",
+    "target_en": "i) Restoration: The removal of any damage that has occurred to some or all of an existing structure, and restoring such structure to its previous state, provided that the damage thereof does not exceed approximately a cubit above the ground surface.",
+    "source_ar_norm": "ط - يقصد بكلمة (الترميم): ازالة اي خراب طرا علي بعض او كل بناء قائم، واصلاحه علي الوضع الذي كان عليه قبل وقوع الخراب به، بشرط ان لا يصل لهم الي ما يقرب ذراعا من سطح الارض.",
+    "target_en_norm": "i) restoration: the removal of any damage that has occurred to some or all of an existing structure, and restoring such structure to its previous state, provided that the damage thereof does not exceed approximately a cubit above the ground surface.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42611,
+    "source_ar": "ي - يقصد بعبارة ( تصريح البناء ): الورقة التي تنظم بالتصريح بالبناء المطلوب وفق الشروط والأحكام المبينة في هذا النظام أو غيره من القوانين والأنظمة الأخرى المعمول بها.",
+    "target_en": "j) Construction Permit: The document that permits the requested construction in accordance with the conditions and provisions specified in this Law or any other applicable laws.",
+    "source_ar_norm": "ي - يقصد بعبارة ( تصريح البناء ): الورقة التي تنظم بالتصريح بالبناء المطلوب وفق الشروط والاحكام المبينة في هذا النظام او غيره من القوانين والانظمة الاخري المعمول بها.",
+    "target_en_norm": "j) construction permit: the document that permits the requested construction in accordance with the conditions and provisions specified in this law or any other applicable laws.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42612,
+    "source_ar": "ك - يقصد بعبارة ( صاحب الملك ): الشخص المالك له أو القائم بأمور إدارته بالوكالة أو التولية أو الوصاية أو الولاية أو غيرها.",
+    "target_en": "k) Property Owner: A person who owns a property or is responsible for its management by power of attorney, appointment, guardianship, trusteeship, or by any other means.",
+    "source_ar_norm": "ك - يقصد بعبارة ( صاحب الملك ): الشخص المالك له او القائم بامور ادارته بالوكالة او التولية او الوصاية او الولاية او غيرها.",
+    "target_en_norm": "k) property owner: a person who owns a property or is responsible for its management by power of attorney, appointment, guardianship, trusteeship, or by any other means.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42613,
+    "source_ar": "ل - يقصد بكلمة ( التصميم ): الوضع المقرر المرسوم للبلدية وطرقها وإنشاءاتها، حسب الأصول المنصوص عليها في هذا النظام.",
+    "target_en": "l) Design: The approved plan of the area under the sub-municipality’s jurisdiction, including the roads and the constructions thereof, in accordance with the provisions set forth in this Law.",
+    "source_ar_norm": "ل - يقصد بكلمة ( التصميم ): الوضع المقرر المرسوم للبلدية وطرقها وانشاءاتها، حسب الاصول المنصوص عليها في هذا النظام.",
+    "target_en_norm": "l) design: the approved plan of the area under the sub-municipality’s jurisdiction, including the roads and the constructions thereof, in accordance with the provisions set forth in this law.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42614,
+    "source_ar": "م - تطلق كلمة ( المهندس ): على الشخص الحائز على شهادة من مدرسة هندسية معترف بها، أو على من سبق له الاشتغال أو التمرين بهذه الحرفة وتوفرت فيه الشروط اللازمة لهذه الحرفة، واعترف له بها من قبل الدوائر الهندسية الرسمية.",
+    "target_en": "m) Engineer: A person who holds a degree from a recognized engineering school, or a person who has previously worked or undergone relevant training in engineering, has the necessary qualifications, and has been recognized as an engineer by official engineering authorities.",
+    "source_ar_norm": "م - تطلق كلمة ( المهندس ): علي الشخص الحائز علي شهادة من مدرسة هندسية معترف بها، او علي من سبق له الاشتغال او التمرين بهذه الحرفة وتوفرت فيه الشروط اللازمة لهذه الحرفة، واعترف له بها من قبل الدوائر الهندسية الرسمية.",
+    "target_en_norm": "m) engineer: a person who holds a degree from a recognized engineering school, or a person who has previously worked or undergone relevant training in engineering, has the necessary qualifications, and has been recognized as an engineer by official engineering authorities.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42615,
+    "source_ar": "ن - يقصد بلفظة ( معماري ): الشخص الذي يحمل رخصة من إدارة البلدية تخوله ممارسة مهنة البناء.",
+    "target_en": "n) Architect: A person who holds a license from the sub-municipality administration authorizing him to practice construction work.",
+    "source_ar_norm": "ن - يقصد بلفظة ( معماري ): الشخص الذي يحمل رخصة من ادارة البلدية تخوله ممارسة مهنة البناء.",
+    "target_en_norm": "n) architect: a person who holds a license from the sub-municipality administration authorizing him to practice construction work.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42616,
+    "source_ar": "س - يطلق ( الذراع المعماري ): على مقاس طوله (75) سنتمترًا.",
+    "target_en": "o) Architectural Cubit: A unit of measurement that equals 75 centimeters.",
+    "source_ar_norm": "س - يطلق ( الذراع المعماري ): علي مقاس طوله (75) سنتمترا.",
+    "target_en_norm": "o) architectural cubit: a unit of measurement that equals 75 centimeters.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42617,
+    "source_ar": "ع - يقصد بجملة ( حد التخطيط ): الخط الفاصل بين منطقة وأخرى حسب مساحتها وحدودها المقرر بمقتضى التصميم المقرر.",
+    "target_en": "p) Planning Boundary: A demarcation line that separates two zones based on their size and boundaries determined in accordance with the approved design.",
+    "source_ar_norm": "ع - يقصد بجملة ( حد التخطيط ): الخط الفاصل بين منطقة واخري حسب مساحتها وحدودها المقرر بمقتضي التصميم المقرر.",
+    "target_en_norm": "p) planning boundary: a demarcation line that separates two zones based on their size and boundaries determined in accordance with the approved design.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42618,
+    "source_ar": "ف - يقصد بـ ( السلطة الصحية ): طبيب صحة البلدة أو من يقوم مقامه فردا كان أو جماعة، يختارهم أمين العاصمة أو رئيس البلدية بالاشتراك مع مدير الصحة، ويعهد إليها أمر كل أو بعض السلطات والواجبات المنوطة بسلطة الصحة العامة وفق هذا النظام.",
+    "target_en": "q) Health Authority: The town physician or his equivalent, whether an individual or a group, who is selected by the mayor of the Capital Municipality or a head of a sub-municipality in collaboration with the Director of Health, and who is entrusted with some or all of the powers and duties assigned to the Public Health Authority under this Law.",
+    "source_ar_norm": "ف - يقصد ب ( السلطة الصحية ): طبيب صحة البلدة او من يقوم مقامه فردا كان او جماعة، يختارهم امين العاصمة او رئيس البلدية بالاشتراك مع مدير الصحة، ويعهد اليها امر كل او بعض السلطات والواجبات المنوطة بسلطة الصحة العامة وفق هذا النظام.",
+    "target_en_norm": "q) health authority: the town physician or his equivalent, whether an individual or a group, who is selected by the mayor of the capital municipality or a head of a sub-municipality in collaboration with the director of health, and who is entrusted with some or all of the powers and duties assigned to the public health authority under this law.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42619,
+    "source_ar": "ص - يقصد بجملة ( شارع عام أو ميدان عام أو جنينة أو بستان عمومي أو منتزه ): المنطقة المختصة لذلك بموجب الفقرة رقم (أ) من المادة (6) من هذا النظام.",
+    "target_en": "r) Public Street, Public Square, Garden, Public Orchard, or Park: All zones that are designated for public streets, public squares, gardens, public orchards, and parks under Article 6(a) of this Law.",
+    "source_ar_norm": "ص - يقصد بجملة ( شارع عام او ميدان عام او جنينة او بستان عمومي او منتزه ): المنطقة المختصة لذلك بموجب الفقرة رقم (ا) من المادة (6) من هذا النظام.",
+    "target_en_norm": "r) public street, public square, garden, public orchard, or park: all zones that are designated for public streets, public squares, gardens, public orchards, and parks under article 6(a) of this law.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42620,
+    "source_ar": "ق - يقصد بجملة ( النشر المحلي ): النشر بالطريقة التي تنشر بها الإعلانات المحلية ذوات الاختصاص المحلي في منطقة البلدية أو بطريقة أخرى كافية يقررها أمين العاصمة أو رئيس البلدية .",
+    "target_en": "s) Local Publication: The dissemination of information using the methods of publishing local announcements in the sub-municipality’s jurisdiction or using any other adequate means specified by the mayor of the Capital Municipality or a head of a sub-municipality.",
+    "source_ar_norm": "ق - يقصد بجملة ( النشر المحلي ): النشر بالطريقة التي تنشر بها الاعلانات المحلية ذوات الاختصاص المحلي في منطقة البلدية او بطريقة اخري كافية يقررها امين العاصمة او رئيس البلدية .",
+    "target_en_norm": "s) local publication: the dissemination of information using the methods of publishing local announcements in the sub-municipality’s jurisdiction or using any other adequate means specified by the mayor of the capital municipality or a head of a sub-municipality.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42621,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article 3",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42622,
+    "source_ar": "أ- تبليغ الإنذارات أو الإعلانات إلى صاحب الملك أو من يقوم مقامه يجوز أن يكون بواسطة مراسل الدائرة، أو عن طريق البريد المسجل بعنوانه المعروف أخيرا إن وجد.",
+    "target_en": "A. Notices or announcements to the property owner, or a person acting on his behalf, may be delivered by the department messenger or sent via registered mail to his last known address, if available.",
+    "source_ar_norm": "ا- تبليغ الانذارات او الاعلانات الي صاحب الملك او من يقوم مقامه يجوز ان يكون بواسطة مراسل الدائرة، او عن طريق البريد المسجل بعنوانه المعروف اخيرا ان وجد.",
+    "target_en_norm": "a. notices or announcements to the property owner, or a person acting on his behalf, may be delivered by the department messenger or sent via registered mail to his last known address, if available.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42623,
+    "source_ar": "ب- وإلا فعلى البلدية أن تقوم بإلصاق الصورة بشكل ظاهر في المكان المملوك للمنذر أو في الأماكن الظاهرة من البلدة، ويعلن عن ذلك في الصحف المحلية.",
+    "target_en": "B. If no such address exists, the sub-municipality must post the notice conspicuously on the property in question or at prominent locations within the town, as well as publishing an announcement in the local newspapers.",
+    "source_ar_norm": "ب- والا فعلي البلدية ان تقوم بالصاق الصورة بشكل ظاهر في المكان المملوك للمنذر او في الاماكن الظاهرة من البلدة، ويعلن عن ذلك في الصحف المحلية.",
+    "target_en_norm": "b. if no such address exists, the sub-municipality must post the notice conspicuously on the property in question or at prominent locations within the town, as well as publishing an announcement in the local newspapers.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42624,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article 4",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42625,
+    "source_ar": "أ- موظفو سلطة المباني مكلفون بعدم دخول أي مكان بقصد التأكد من أنه قد روعي فيه تطبيق جميع التعليمات والأوامر الخاصة بإقامة بناء أو هدمه أو إصلاحه أو شروطه الهندسية والصحية إلا بعد الاستئذان.",
+    "target_en": "A. Employees of the Building Authority shall be prohibited from entering any premises for the purpose of verifying compliance with instructions and orders related to the construction, demolition, or repair of buildings or compliance with the architectural and sanitation requirements, without obtaining prior permission.",
+    "source_ar_norm": "ا- موظفو سلطة المباني مكلفون بعدم دخول اي مكان بقصد التاكد من انه قد روعي فيه تطبيق جميع التعليمات والاوامر الخاصة باقامة بناء او هدمه او اصلاحه او شروطه الهندسية والصحية الا بعد الاستئذان.",
+    "target_en_norm": "a. employees of the building authority shall be prohibited from entering any premises for the purpose of verifying compliance with instructions and orders related to the construction, demolition, or repair of buildings or compliance with the architectural and sanitation requirements, without obtaining prior permission.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42626,
+    "source_ar": "ب- وإذا كان المراد دخول حجرة أو جزء من منزل مخصص للنساء فيجب إعطاء مهلة كافية للساكن ليستطيع خلالها نقلهن أو ليتخذ ما يراه من الوسائل لتوفير راحتهن .",
+    "target_en": "B. If entry is required into a room or section designated for women, adequate notice must be given to the occupants of such property to allow sufficient time to relocate the women or to take appropriate measures to ensure their comfort.",
+    "source_ar_norm": "ب- واذا كان المراد دخول حجرة او جزء من منزل مخصص للنساء فيجب اعطاء مهلة كافية للساكن ليستطيع خلالها نقلهن او ليتخذ ما يراه من الوسائل لتوفير راحتهن .",
+    "target_en_norm": "b. if entry is required into a room or section designated for women, adequate notice must be given to the occupants of such property to allow sufficient time to relocate the women or to take appropriate measures to ensure their comfort.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42627,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article 5",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42628,
+    "source_ar": "تؤلف لجنة خاصة فنية ويعهد إليها أمر وضع الخرائط وتصميمها تدريجيا بمقاس لا يقل عن (1 /10000) حسب الإيجار، وتقديم هذه الخرائط إلى المراجع المختصة لدرسها بحضور هذه الهيئة لدى هيئات الأمانة والبلديات بما في ذلك المجلس البلدي، وبعد اتخاذ قرار بالموافقة عليها يبادر برفعها إلى المراجع العليا لإجراء ما يجب.",
+    "target_en": "A special technical committee shall be formed and entrusted with the task of gradually preparing and designing maps at a scale of no less than 1/10,000 based on rent. These maps shall be submitted for review by the relevant authorities, including the municipality, sub-municipalities, and the Municipal Council, in the presence of the Technical Committee. Upon approval, the maps shall be promptly submitted to higher authorities for necessary actions.",
+    "source_ar_norm": "تؤلف لجنة خاصة فنية ويعهد اليها امر وضع الخرائط وتصميمها تدريجيا بمقاس لا يقل عن (1 /10000) حسب الايجار، وتقديم هذه الخرائط الي المراجع المختصة لدرسها بحضور هذه الهيئة لدي هيئات الامانة والبلديات بما في ذلك المجلس البلدي، وبعد اتخاذ قرار بالموافقة عليها يبادر برفعها الي المراجع العليا لاجراء ما يجب.",
+    "target_en_norm": "a special technical committee shall be formed and entrusted with the task of gradually preparing and designing maps at a scale of no less than 1/10,000 based on rent. these maps shall be submitted for review by the relevant authorities, including the municipality, sub-municipalities, and the municipal council, in the presence of the technical committee. upon approval, the maps shall be promptly submitted to higher authorities for necessary actions.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42629,
+    "source_ar": "على أن تبدأ هذه اللجنة بوضع خرائط العاصمة أولا ثم تنتقل إلى أمهات المدن شيئا فشيئا.",
+    "target_en": "Such a committee shall start by drafting the maps of the capital city first, then proceed to the other main cities progressively.",
+    "source_ar_norm": "علي ان تبدا هذه اللجنة بوضع خرائط العاصمة اولا ثم تنتقل الي امهات المدن شيئا فشيئا.",
+    "target_en_norm": "such a committee shall start by drafting the maps of the capital city first, then proceed to the other main cities progressively.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42630,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article 6",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42631,
+    "source_ar": "يلاحظ في رسم الخرائط بصورة خاصة موقع المجازر وإصطبلات الخيل والبقر وغيرها، وكذلك المعامل والمصانع ومخازن المواد الابتدائية والإنشائية والمحروقات وما ماثلها، ويجب تعيين تلك المواقع بالنسبة لدور السكنى. كما يلاحظ أيضا في الخرائط المذكورة الاعتبارات الآتية:",
+    "target_en": "During the mapping process, special attention shall be paid to the locations of slaughterhouses; stables of horses, cattle, and the like; plants; factories; and warehouses used to store raw materials, construction materials, fuel, and similar materials. The positioning of these facilities in relation to residential areas must be defined, and the aforementioned maps shall take the following into account:",
+    "source_ar_norm": "يلاحظ في رسم الخرائط بصورة خاصة موقع المجازر واصطبلات الخيل والبقر وغيرها، وكذلك المعامل والمصانع ومخازن المواد الابتدائية والانشائية والمحروقات وما ماثلها، ويجب تعيين تلك المواقع بالنسبة لدور السكني. كما يلاحظ ايضا في الخرائط المذكورة الاعتبارات الاتية:",
+    "target_en_norm": "during the mapping process, special attention shall be paid to the locations of slaughterhouses; stables of horses, cattle, and the like; plants; factories; and warehouses used to store raw materials, construction materials, fuel, and similar materials. the positioning of these facilities in relation to residential areas must be defined, and the aforementioned maps shall take the following into account:",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42632,
+    "source_ar": "أ - تقرير موضع واتساع الطرق واتجاهها، وكذلك الأزقة وموقع وأبعاد الساحات العمومية لمنطقة البلدة بما في ذلك الشوارع العامة والميادين والجناين والبساتين العمومية ، وما في ذلك الثكنات العسكرية وما يتبعها بالاتفاق مع جهات الاختصاص فيها.",
+    "target_en": "a) Determining the location, width, and direction of roads and alleys, as well as the location and dimensions of public areas in the town, including public streets, squares, gardens, and public orchards, along with the location and dimensions of military barracks and their associated facilities in coordination with the relevant authorities.",
+    "source_ar_norm": "ا - تقرير موضع واتساع الطرق واتجاهها، وكذلك الازقة وموقع وابعاد الساحات العمومية لمنطقة البلدة بما في ذلك الشوارع العامة والميادين والجناين والبساتين العمومية ، وما في ذلك الثكنات العسكرية وما يتبعها بالاتفاق مع جهات الاختصاص فيها.",
+    "target_en_norm": "a) determining the location, width, and direction of roads and alleys, as well as the location and dimensions of public areas in the town, including public streets, squares, gardens, and public orchards, along with the location and dimensions of military barracks and their associated facilities in coordination with the relevant authorities.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42633,
+    "source_ar": "ب - تقرير المناطق التي تقام عليها المباني طبق هذا النظام، وإعادة تقسيم تلك المناطق المنوه عنها إلى درجة أولى وثانية وثالثة بما في ذلك أراضي المباني.",
+    "target_en": "b) Determining the zones and plots where buildings shall be constructed in accordance with this Law, and further subdividing such zones and building plots into first, second, and third grade categories, including building plots.",
+    "source_ar_norm": "ب - تقرير المناطق التي تقام عليها المباني طبق هذا النظام، واعادة تقسيم تلك المناطق المنوه عنها الي درجة اولي وثانية وثالثة بما في ذلك اراضي المباني.",
+    "target_en_norm": "b) determining the zones and plots where buildings shall be constructed in accordance with this law, and further subdividing such zones and building plots into first, second, and third grade categories, including building plots.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42634,
+    "source_ar": "ج - تقرير تلك المناطق أو مناطق أراضي المباني التي تستعمل للسكنى والدكاكين والأسواق وساحات المزاد العلني والمعامل والأماكن التي يشغل فيها بالحرف المضرة بالصحة وغير ذلك، ولا يسوغ استعمال أي بناء ضمن هذه المناطق إلا للأغراض المقررة ومع مراعاة نصوص المادة السادسة من هذا النظام.",
+    "target_en": "c) Determining the zones or the building plots which shall be used for residential purposes, shops, markets, auction yards, and plants, as well as the zones or building plots to be used as places where crafts posing health hazards are performed, and the like. No building within such zones may be used except for the designated purposes, taking into account the provisions of Article 6 of this Law.",
+    "source_ar_norm": "ج - تقرير تلك المناطق او مناطق اراضي المباني التي تستعمل للسكني والدكاكين والاسواق وساحات المزاد العلني والمعامل والاماكن التي يشغل فيها بالحرف المضرة بالصحة وغير ذلك، ولا يسوغ استعمال اي بناء ضمن هذه المناطق الا للاغراض المقررة ومع مراعاة نصوص المادة السادسة من هذا النظام.",
+    "target_en_norm": "c) determining the zones or the building plots which shall be used for residential purposes, shops, markets, auction yards, and plants, as well as the zones or building plots to be used as places where crafts posing health hazards are performed, and the like. no building within such zones may be used except for the designated purposes, taking into account the provisions of article 6 of this law.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42635,
+    "source_ar": "د - أن تخصص منطقة أو مناطق من الأراضي المراد تحكيرها سواء كان ذلك من قبل المالية أو البلديات لسكن الأهالي في الضواحي، ويشار إلى هذه المناطق بمناطق سكن الأهالي.",
+    "target_en": "d) Designating one or more zones of land that shall be developed exclusively, whether by the Ministry of Finance or by sub-municipalities, for the housing of residents in suburbs; such zones shall be referred to as residential areas.",
+    "source_ar_norm": "د - ان تخصص منطقة او مناطق من الاراضي المراد تحكيرها سواء كان ذلك من قبل المالية او البلديات لسكن الاهالي في الضواحي، ويشار الي هذه المناطق بمناطق سكن الاهالي.",
+    "target_en_norm": "d) designating one or more zones of land that shall be developed exclusively, whether by the ministry of finance or by sub-municipalities, for the housing of residents in suburbs; such zones shall be referred to as residential areas.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42636,
+    "source_ar": "هـ - يلاحظ في وضع خرائط البلدة التثبت التام عن أبعاد المباني والإنشاءات والأراضي.. إلخ، طبق الحجج والمستندات التي بيد أربابها، وللجنة الفنية أن تستعين في مهمتها هذه بلجنة مخصوصة تؤلفها الأمانة أو البلديات لدرس ذلك وتثبيته، واتخاذ قرار بذلك حسب أصوله، على أن تشتمل الخرائط المذكورة على البيانات الآتية:",
+    "target_en": "e) In preparing the town maps, meticulous verification of the precise dimensions of all buildings, structures, lands, and the like, shall be ensured, based on the documents and deeds held by their owners. The Technical Committee may, in carrying out this task, seek assistance from a special committee formed by the municipality or the sub-municipalities to verify such dimensions and to duly make a decision thereof. The aforementioned maps shall include the following data:",
+    "source_ar_norm": "ه - يلاحظ في وضع خرائط البلدة التثبت التام عن ابعاد المباني والانشاءات والاراضي.. الخ، طبق الحجج والمستندات التي بيد اربابها، وللجنة الفنية ان تستعين في مهمتها هذه بلجنة مخصوصة تؤلفها الامانة او البلديات لدرس ذلك وتثبيته، واتخاذ قرار بذلك حسب اصوله، علي ان تشتمل الخرائط المذكورة علي البيانات الاتية:",
+    "target_en_norm": "e) in preparing the town maps, meticulous verification of the precise dimensions of all buildings, structures, lands, and the like, shall be ensured, based on the documents and deeds held by their owners. the technical committee may, in carrying out this task, seek assistance from a special committee formed by the municipality or the sub-municipalities to verify such dimensions and to duly make a decision thereof. the aforementioned maps shall include the following data:",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42637,
+    "source_ar": "1 - وضع خط يفصل بين الأراضي العائدة لوزارة المالية والأراضي العائدة للبلدية والأراضي التي تستقطع منهما للأهالي.",
+    "target_en": "1. A demarcation line that distinguishes between the lands owned by the Ministry of Finance and those owned by the sub-municipality, as well as the portions of lands allocated for the residents.",
+    "source_ar_norm": "1 - وضع خط يفصل بين الاراضي العائدة لوزارة المالية والاراضي العائدة للبلدية والاراضي التي تستقطع منهما للاهالي.",
+    "target_en_norm": "1. a demarcation line that distinguishes between the lands owned by the ministry of finance and those owned by the sub-municipality, as well as the portions of lands allocated for the residents.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42638,
+    "source_ar": "2 - مناطق أراضي المباني المقامة من قبل سواء كانت مملوكة للحكومة أو للأشخاص، يجب تقسيمها إلى مباني درجة أولى وثانية وثالثة، وتقسيمها أرضا إلى مناطق سكن ومناطق دكاكين وأسواق وساحات للمزاد العلني والحرف المضرة بالصحة مقسمة إلى قطع مباني.",
+    "target_en": "2. Zones of plots on which buildings already exist whether owned by the government or by individuals categorized into first, second, and third-grade buildings, with the lands on which they are categorized into zones and plots for residential properties, shops, markets, auction yards, as well as zones and plots for places where crafts that pose health hazards take place.",
+    "source_ar_norm": "2 - مناطق اراضي المباني المقامة من قبل سواء كانت مملوكة للحكومة او للاشخاص، يجب تقسيمها الي مباني درجة اولي وثانية وثالثة، وتقسيمها ارضا الي مناطق سكن ومناطق دكاكين واسواق وساحات للمزاد العلني والحرف المضرة بالصحة مقسمة الي قطع مباني.",
+    "target_en_norm": "2. zones of plots on which buildings already exist whether owned by the government or by individuals categorized into first, second, and third-grade buildings, with the lands on which they are categorized into zones and plots for residential properties, shops, markets, auction yards, as well as zones and plots for places where crafts that pose health hazards take place.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42639,
+    "source_ar": "3 - المنطقة أو مناطق أراضي الحكومة والمناطق سكنى الأهالي.",
+    "target_en": "3. Government land zones as well as residential areas.",
+    "source_ar_norm": "3 - المنطقة او مناطق اراضي الحكومة والمناطق سكني الاهالي.",
+    "target_en_norm": "3. government land zones as well as residential areas.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42640,
+    "source_ar": "4 - الأراضي المحجوزة للسلطات الحربية أو محجوزة لاستعمال الحكومة.",
+    "target_en": "4. Lands reserved for military authorities or for the government’s use.",
+    "source_ar_norm": "4 - الاراضي المحجوزة للسلطات الحربية او محجوزة لاستعمال الحكومة.",
+    "target_en_norm": "4. lands reserved for military authorities or for the government’s use.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42641,
+    "source_ar": "5 - الأراضي الفاضية والتي لا تقع ضمن الأقسام السابق ذكرها. ويجب أن يكون ذلك الرسم مطابقا بقدر الإمكان لوضعية البلاد وملائما لطبيعتها ما لم تدعو المصلحة الحكومية غير ذلك، ويجب أن يكون هذا الرسم عرضة لاطلاع الجمهور عليه كلما اقتضت الحالة.",
+    "target_en": "5. Vacant lands that do not fall within the aforementioned types; the mapping thereof must, to the greatest extent possible, conform to such lands’ condition and nature unless government interests dictate otherwise. This map shall be made available for public access whenever necessary.",
+    "source_ar_norm": "5 - الاراضي الفاضية والتي لا تقع ضمن الاقسام السابق ذكرها. ويجب ان يكون ذلك الرسم مطابقا بقدر الامكان لوضعية البلاد وملائما لطبيعتها ما لم تدعو المصلحة الحكومية غير ذلك، ويجب ان يكون هذا الرسم عرضة لاطلاع الجمهور عليه كلما اقتضت الحالة.",
+    "target_en_norm": "5. vacant lands that do not fall within the aforementioned types; the mapping thereof must, to the greatest extent possible, conform to such lands’ condition and nature unless government interests dictate otherwise. this map shall be made available for public access whenever necessary.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42642,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article 7",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42643,
+    "source_ar": "استقامات الطرق وتصاميمها تعين بمقتضى الخارطة التي تضعها اللجنة الفنية بموجب هذا النظام، وتكون نافذة بعد التصديق عليها من المراجع العليا.",
+    "target_en": "The alignment and designs of roads shall be determined in accordance with a map prepared by the Technical Committee under this Law, and such map shall become effective upon its ratification by higher authorities.",
+    "source_ar_norm": "استقامات الطرق وتصاميمها تعين بمقتضي الخارطة التي تضعها اللجنة الفنية بموجب هذا النظام، وتكون نافذة بعد التصديق عليها من المراجع العليا.",
+    "target_en_norm": "the alignment and designs of roads shall be determined in accordance with a map prepared by the technical committee under this law, and such map shall become effective upon its ratification by higher authorities.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42644,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article 8",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42645,
+    "source_ar": "يجري تخطيط الطرق بمقتضى التصميم المقرر على أن ينفذ هذا التصميم تدريجيا، أما عند إعادة إنشاء الأبنية المهدمة أو التي تنشأ حديثا، ويستثنى من ذلك ما تقتضي المصلحة العامة بإزالته، فيجري تنفيذه مع ضمان ما يلحق أصحاب الملك من أضرار بسبب ذلك.",
+    "target_en": "Roads shall be planned according to the approved design, provided that the execution of such design is carried out gradually. The design shall also be followed in case of construction of new buildings or reconstruction of dilapidated ones, except in cases where public interest necessitates demolition. Any damages incurred by property owners due to the execution of such design shall be compensated.",
+    "source_ar_norm": "يجري تخطيط الطرق بمقتضي التصميم المقرر علي ان ينفذ هذا التصميم تدريجيا، اما عند اعادة انشاء الابنية المهدمة او التي تنشا حديثا، ويستثني من ذلك ما تقتضي المصلحة العامة بازالته، فيجري تنفيذه مع ضمان ما يلحق اصحاب الملك من اضرار بسبب ذلك.",
+    "target_en_norm": "roads shall be planned according to the approved design, provided that the execution of such design is carried out gradually. the design shall also be followed in case of construction of new buildings or reconstruction of dilapidated ones, except in cases where public interest necessitates demolition. any damages incurred by property owners due to the execution of such design shall be compensated.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42646,
+    "source_ar": "المادة التاسعة:",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة:",
+    "target_en_norm": "article 9",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42647,
+    "source_ar": "يشترط في تنفيذ التصاميم إعلان أصحاب الملك بالكيفية طبق خارطة هندسية مفصلة، يجب أن تصحب بهذا الإعلان مع إعطائهم مدة للاعتراض عليها لا تقل عن خمسة عشر يوما، واستعداد الجهات المختصة بتعويضهم بمقتضى النظام قبل القيام بأي عمل تنفيذي تجاه ذلك.",
+    "target_en": "Property owners shall receive notification, prior to the execution of the designs, specifying the manner of executing such designs, accompanied by a detailed architectural map. Property owners shall be given at least fifteen days to file any objections. Relevant authorities must, before commencing said execution, prepare to compensate the property owners in accordance with this Law.",
+    "source_ar_norm": "يشترط في تنفيذ التصاميم اعلان اصحاب الملك بالكيفية طبق خارطة هندسية مفصلة، يجب ان تصحب بهذا الاعلان مع اعطائهم مدة للاعتراض عليها لا تقل عن خمسة عشر يوما، واستعداد الجهات المختصة بتعويضهم بمقتضي النظام قبل القيام باي عمل تنفيذي تجاه ذلك.",
+    "target_en_norm": "property owners shall receive notification, prior to the execution of the designs, specifying the manner of executing such designs, accompanied by a detailed architectural map. property owners shall be given at least fifteen days to file any objections. relevant authorities must, before commencing said execution, prepare to compensate the property owners in accordance with this law.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42648,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article 10",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42649,
+    "source_ar": "يجري تدقيق الاعتراضات المقدمة من قبل ذوي العلاقة المبحوث عنه في المادة السابقة من قبل المجلس الإداري فالمجلس البلدي.",
+    "target_en": "Objections submitted by the property owners mentioned in the previous Article shall be reviewed by the Administrative Council and then by the Municipal Council.",
+    "source_ar_norm": "يجري تدقيق الاعتراضات المقدمة من قبل ذوي العلاقة المبحوث عنه في المادة السابقة من قبل المجلس الاداري فالمجلس البلدي.",
+    "target_en_norm": "objections submitted by the property owners mentioned in the previous article shall be reviewed by the administrative council and then by the municipal council.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42650,
+    "source_ar": "وبعد اتخاذ قرار في الموضوع يبلغ للمعترضين وفي حالة عدم قبولهم ذلك تؤلف هيئة منتخبة من قبل صاحب الملك ومن البلدية ومن أرباب الخبرة، ويكون القرار الأخير من هذه الهيئة نافذا بعد استحصال الموافقة من المراجع العالية.",
+    "target_en": "Upon taking a decision, the objectors shall be informed, and if they do not accept such decision, a panel, elected by the property owner, the sub-municipality, and experts in the matter shall be formed. The final decision of this panel shall become effective, subject to obtaining approval from high authorities.",
+    "source_ar_norm": "وبعد اتخاذ قرار في الموضوع يبلغ للمعترضين وفي حالة عدم قبولهم ذلك تؤلف هيئة منتخبة من قبل صاحب الملك ومن البلدية ومن ارباب الخبرة، ويكون القرار الاخير من هذه الهيئة نافذا بعد استحصال الموافقة من المراجع العالية.",
+    "target_en_norm": "upon taking a decision, the objectors shall be informed, and if they do not accept such decision, a panel, elected by the property owner, the sub-municipality, and experts in the matter shall be formed. the final decision of this panel shall become effective, subject to obtaining approval from high authorities.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42651,
+    "source_ar": "المادة الحادية عشرة:",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة:",
+    "target_en_norm": "article 11",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42652,
+    "source_ar": "إذا قضت المصلحة العامة أخذها وكذا القيمة التي تدفع مقابلها عوضا لصاحب الملك عن طريق لجنة من أرباب الخبرة تنتدبهم البلدية وصاحب الملك على التساوي، واتخاذ قرار بالكيفية ورفعه إلى المرجع العالي المختص.",
+    "target_en": "If public interest dictates the expropriation of a portion of a land, the compensation amount to be paid to the property owner shall be determined by a committee of experts in the matter who shall be equally appointed by the sub-municipality and the property owner. Said committee shall decide on the method of the expropriation and shall submit its decision to the relevant high authority for approval.",
+    "source_ar_norm": "اذا قضت المصلحة العامة اخذها وكذا القيمة التي تدفع مقابلها عوضا لصاحب الملك عن طريق لجنة من ارباب الخبرة تنتدبهم البلدية وصاحب الملك علي التساوي، واتخاذ قرار بالكيفية ورفعه الي المرجع العالي المختص.",
+    "target_en_norm": "if public interest dictates the expropriation of a portion of a land, the compensation amount to be paid to the property owner shall be determined by a committee of experts in the matter who shall be equally appointed by the sub-municipality and the property owner. said committee shall decide on the method of the expropriation and shall submit its decision to the relevant high authority for approval.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42653,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article 12",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42654,
+    "source_ar": "أ- الأرض التي تؤخذ بمقتضى المادة (11) ، إذا زاد ما أخذ منها عن ذراع واحد فيقدر لما زاد عن الذراع قيمة تدفع لصاحب الأرض من قبل الأمانة فورا.",
+    "target_en": "A. If the area taken from a land expropriated pursuant to Article 11 exceeds one cubit, the municipality shall immediately compensate the landowner for the value of the land taken beyond the first cubit.",
+    "source_ar_norm": "ا- الارض التي تؤخذ بمقتضي المادة (11) ، اذا زاد ما اخذ منها عن ذراع واحد فيقدر لما زاد عن الذراع قيمة تدفع لصاحب الارض من قبل الامانة فورا.",
+    "target_en_norm": "a. if the area taken from a land expropriated pursuant to article 11 exceeds one cubit, the municipality shall immediately compensate the landowner for the value of the land taken beyond the first cubit.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42655,
+    "source_ar": "ب- وإذا كانت الأرض صغيرة وصارت بعد أخذ الذراع المقرر غير قابلة للبناية فيها فيقدر العوض لكامل الأرض ما عدا الذراع الواحد ويدفع لصاحب الأرض.",
+    "target_en": "B. In cases where the land from which an area is expropriated is small and the remaining portion after the expropriation of the prescribed cubit has become no longer suitable for construction, the compensation shall be estimated for the entire land, excluding the one cubit, and shall be paid to the landowner.",
+    "source_ar_norm": "ب- واذا كانت الارض صغيرة وصارت بعد اخذ الذراع المقرر غير قابلة للبناية فيها فيقدر العوض لكامل الارض ما عدا الذراع الواحد ويدفع لصاحب الارض.",
+    "target_en_norm": "b. in cases where the land from which an area is expropriated is small and the remaining portion after the expropriation of the prescribed cubit has become no longer suitable for construction, the compensation shall be estimated for the entire land, excluding the one cubit, and shall be paid to the landowner.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42656,
+    "source_ar": "ج- على أن يكون العوض بحسب الأوقات والموقع التي يجري فيها التقدير بمعرفة اللجنة المنصوص عليها في المادة المخصوصة.",
+    "target_en": "C. The compensation shall be determined based on the appraisal time and location by the committee referred to in the relevant Article.",
+    "source_ar_norm": "ج- علي ان يكون العوض بحسب الاوقات والموقع التي يجري فيها التقدير بمعرفة اللجنة المنصوص عليها في المادة المخصوصة.",
+    "target_en_norm": "c. the compensation shall be determined based on the appraisal time and location by the committee referred to in the relevant article.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42657,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article 13",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42658,
+    "source_ar": "لجنة التقدير مكلفة أثناء تقديرها لأي دار لم يكن مالكها واحد، أن تقدر قيمة ما يملكه كل شخص في الدار على حدة.",
+    "target_en": "The appraisal committee shall, during its assessment of any property with multiple owners, appraise the value of each person's share in the property separately.",
+    "source_ar_norm": "لجنة التقدير مكلفة اثناء تقديرها لاي دار لم يكن مالكها واحد، ان تقدر قيمة ما يملكه كل شخص في الدار علي حدة.",
+    "target_en_norm": "the appraisal committee shall, during its assessment of any property with multiple owners, appraise the value of each person's share in the property separately.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42659,
+    "source_ar": "المادة الرابعة عشرة:",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة:",
+    "target_en_norm": "article 14",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42660,
+    "source_ar": "أ- إذا اقتضى الأمر قطع بناء بموجب الخارطة - المنوه عنها في المادة السابعة - فعلى البلدية تعويض صاحب البناء المقطوع بعد تقدير قيمة ما جرى اقتطاعه بواسطة لجنة التقدير بما في ذلك تكاليف إصلاح ما بقي من البناء، هذا إذا كان قابلا للإصلاح.",
+    "target_en": "A- If it becomes necessary to take a portion of a structure pursuant to the map mentioned in Article 7, the sub-municipality shall compensate the owner of such structure for such portion. The value of the portion taken and the costs of repairing the remaining part of the structure, if repairable, shall be assessed by the Technical Committee.",
+    "source_ar_norm": "ا- اذا اقتضي الامر قطع بناء بموجب الخارطة - المنوه عنها في المادة السابعة - فعلي البلدية تعويض صاحب البناء المقطوع بعد تقدير قيمة ما جري اقتطاعه بواسطة لجنة التقدير بما في ذلك تكاليف اصلاح ما بقي من البناء، هذا اذا كان قابلا للاصلاح.",
+    "target_en_norm": "a- if it becomes necessary to take a portion of a structure pursuant to the map mentioned in article 7, the sub-municipality shall compensate the owner of such structure for such portion. the value of the portion taken and the costs of repairing the remaining part of the structure, if repairable, shall be assessed by the technical committee.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42661,
+    "source_ar": "ب- إما إذا كان القسم الباقي من البناء غير صالح للاستعمال فيقدر العوض اللازم لكامل الأرض المنقطع منها بتقدير من اللجنة الخاصة أيضا، وتكلف البلدية بدفع التعويض لصاحب الملك ووضع يدها على الباقي والانتفاع به، فيما يحفظ انتظام الشارع.",
+    "target_en": "B- If the remaining portion of the structure is deemed unusable, the Technical Committee shall estimate compensation for the entire structure, and the submunicipality shall be responsible for paying such compensation to the property owner, take possession of the remaining part, and utilize such structure in a manner that preserves the layout of the street.",
+    "source_ar_norm": "ب- اما اذا كان القسم الباقي من البناء غير صالح للاستعمال فيقدر العوض اللازم لكامل الارض المنقطع منها بتقدير من اللجنة الخاصة ايضا، وتكلف البلدية بدفع التعويض لصاحب الملك ووضع يدها علي الباقي والانتفاع به، فيما يحفظ انتظام الشارع.",
+    "target_en_norm": "b- if the remaining portion of the structure is deemed unusable, the technical committee shall estimate compensation for the entire structure, and the submunicipality shall be responsible for paying such compensation to the property owner, take possession of the remaining part, and utilize such structure in a manner that preserves the layout of the street.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42662,
+    "source_ar": "المادة الخامسة عشرة:",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة:",
+    "target_en_norm": "article 15",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42663,
+    "source_ar": "الأراضي التي جرى أخذها للطرق بصورة قانونية لا يحق لأصحابها أن يدعوا ملكيتها مرة أخرى، ولا يسوغ لهم إحداث أي شيء ما عليها بتاتا.",
+    "target_en": "Legally expropriated lands for the purpose of developing roads may not be reclaimed by their original owners, and they may not make any modifications whatsoever thereon.",
+    "source_ar_norm": "الاراضي التي جري اخذها للطرق بصورة قانونية لا يحق لاصحابها ان يدعوا ملكيتها مرة اخري، ولا يسوغ لهم احداث اي شيء ما عليها بتاتا.",
+    "target_en_norm": "legally expropriated lands for the purpose of developing roads may not be reclaimed by their original owners, and they may not make any modifications whatsoever thereon.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42664,
+    "source_ar": "المادة السادسة عشرة:",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة:",
+    "target_en_norm": "article 16",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42665,
+    "source_ar": "إذا احترقت مبان أكثر من عشرة في موقع واحد أو تهدمت، وكانت كلها أو البعض منها محاطا بطرقات فيجب على الأمانة تنظيم خارطتين؛ خارطة بطراز البناء القديم، والثانية: بالبناء والطرقات الواجب عليها، بعد توزيع أقسام الطرقات على المباني بحسب السعة المقررة بموجب هذا النظام.",
+    "target_en": "If more than ten buildings in one location are burned or demolished, and where such buildings are, in whole or in part, surrounded by roads, the municipality shall be required to prepare two maps. The first such map shall depict the layout of the old buildings, and the second map shall depict the buildings and roads to be developed, taking into account that such roads shall be designed according to the specifications prescribed in this Law.",
+    "source_ar_norm": "اذا احترقت مبان اكثر من عشرة في موقع واحد او تهدمت، وكانت كلها او البعض منها محاطا بطرقات فيجب علي الامانة تنظيم خارطتين؛ خارطة بطراز البناء القديم، والثانية: بالبناء والطرقات الواجب عليها، بعد توزيع اقسام الطرقات علي المباني بحسب السعة المقررة بموجب هذا النظام.",
+    "target_en_norm": "if more than ten buildings in one location are burned or demolished, and where such buildings are, in whole or in part, surrounded by roads, the municipality shall be required to prepare two maps. the first such map shall depict the layout of the old buildings, and the second map shall depict the buildings and roads to be developed, taking into account that such roads shall be designed according to the specifications prescribed in this law.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42666,
+    "source_ar": "المادة السابعة عشرة:",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة:",
+    "target_en_norm": "article 17",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42667,
+    "source_ar": "إن الطرقات الغير نافذة الواقعة في المحل المحترق فيه الأماكن المنوه عنها في المادة السابقة، يجب فتحها في حالة وجود منفعة عامة إن أمكن ذلك، على أن يجري فيه التعويض بمقتضى الأحكام المخصوصة من هذا النظام.",
+    "target_en": "Dead-end roads located within the area affected by fire, as provided for in the previous Article, shall be opened, where possible, if public benefit exist, and compensation shall be provided in accordance with the relevant provisions of this Law.",
+    "source_ar_norm": "ان الطرقات الغير نافذة الواقعة في المحل المحترق فيه الاماكن المنوه عنها في المادة السابقة، يجب فتحها في حالة وجود منفعة عامة ان امكن ذلك، علي ان يجري فيه التعويض بمقتضي الاحكام المخصوصة من هذا النظام.",
+    "target_en_norm": "dead-end roads located within the area affected by fire, as provided for in the previous article, shall be opened, where possible, if public benefit exist, and compensation shall be provided in accordance with the relevant provisions of this law.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42668,
+    "source_ar": "المادة الثامنة عشرة:",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة:",
+    "target_en_norm": "article 18",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42669,
+    "source_ar": "إن القسم الذي يؤخذ من الأماكن المحترقة لتوسعة الطريق أو استقامته بحسب الخارطة، إذا زاد ما أخذ منها عن ذراع واحد فيقدر للزيادة العرض اللازم ويسلم لصاحب تلك الأماكن.",
+    "target_en": "If a section of land is expropriated from the location affected by the fire for the purpose of widening or straightening a road, as per the map, and such section exceeds one cubit, the required width shall be estimated and paid to the owner of such section.",
+    "source_ar_norm": "ان القسم الذي يؤخذ من الاماكن المحترقة لتوسعة الطريق او استقامته بحسب الخارطة، اذا زاد ما اخذ منها عن ذراع واحد فيقدر للزيادة العرض اللازم ويسلم لصاحب تلك الاماكن.",
+    "target_en_norm": "if a section of land is expropriated from the location affected by the fire for the purpose of widening or straightening a road, as per the map, and such section exceeds one cubit, the required width shall be estimated and paid to the owner of such section.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42670,
+    "source_ar": "وإن اكتفي بالذراع المقرر أخذه للغاية المنوه عنها فيكون بدون مقابل ويدخل ضمن ذلك الساحات والبساتين.",
+    "target_en": "If only the prescribed cubit is taken for the aforementioned purpose, it shall be without compensation. This shall also include plazas and orchards.",
+    "source_ar_norm": "وان اكتفي بالذراع المقرر اخذه للغاية المنوه عنها فيكون بدون مقابل ويدخل ضمن ذلك الساحات والبساتين.",
+    "target_en_norm": "if only the prescribed cubit is taken for the aforementioned purpose, it shall be without compensation. this shall also include plazas and orchards.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42671,
+    "source_ar": "المادة التاسعة عشرة:",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة:",
+    "target_en_norm": "article 19",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42672,
+    "source_ar": "أ- إذا وجد بعد فتح طريق أو توسعة أو استقامة عرصة أخليت من البناء وكانت العرصة صغيرة ولا تكفي لبناء بيت فيها ولا حانوت ولا مخزن ولا خلافها، فلصاحب العرصة الكبيرة المجاورة لهذه العرصة أن يأخذها، ويكون ذلك بطريق التراضي بينهما في الثمن.",
+    "target_en": "A- If, after the opening, widening, or realignment of a road, a plot of land is left vacant and such plot is too small to build a house, shop, storage unit, or the like, the owner of the adjacent larger plot may acquire it; this acquisition shall be through mutual agreement on the price between the owners thereof.",
+    "source_ar_norm": "ا- اذا وجد بعد فتح طريق او توسعة او استقامة عرصة اخليت من البناء وكانت العرصة صغيرة ولا تكفي لبناء بيت فيها ولا حانوت ولا مخزن ولا خلافها، فلصاحب العرصة الكبيرة المجاورة لهذه العرصة ان ياخذها، ويكون ذلك بطريق التراضي بينهما في الثمن.",
+    "target_en_norm": "a- if, after the opening, widening, or realignment of a road, a plot of land is left vacant and such plot is too small to build a house, shop, storage unit, or the like, the owner of the adjacent larger plot may acquire it; this acquisition shall be through mutual agreement on the price between the owners thereof.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42673,
+    "source_ar": "ب- وإذا لم يتفقا فعلى البلدية أن تقدر لتلك العرصة قيمة بمعرفة لجنة من ذوي الخبرة وتشتريها من صاحبها بالثمن المقدر لتجري فيها ما تقتضيه المصلحة.",
+    "target_en": "B- If they fail to reach an agreement, the sub-municipality shall estimate the price of said plot through a committee of experts and shall purchase said plot at the estimated price in order to utilize it in a way it deems beneficial.",
+    "source_ar_norm": "ب- واذا لم يتفقا فعلي البلدية ان تقدر لتلك العرصة قيمة بمعرفة لجنة من ذوي الخبرة وتشتريها من صاحبها بالثمن المقدر لتجري فيها ما تقتضيه المصلحة.",
+    "target_en_norm": "b- if they fail to reach an agreement, the sub-municipality shall estimate the price of said plot through a committee of experts and shall purchase said plot at the estimated price in order to utilize it in a way it deems beneficial.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42674,
+    "source_ar": "المادة العشرون:",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون:",
+    "target_en_norm": "article 20",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42675,
+    "source_ar": "يجب أن يراعى في استعمال المناطق الأحكام الآتية:",
+    "target_en": "The following provisions must be observed when using zones:",
+    "source_ar_norm": "يجب ان يراعي في استعمال المناطق الاحكام الاتية:",
+    "target_en_norm": "the following provisions must be observed when using zones:",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42676,
+    "source_ar": "أ - لا يجوز استعمال أي مبان بمنطقة السكن كدكان أو معمل لأي غرض خاص بأسواق أو بأي حرفة منتنة.",
+    "target_en": "a) No establishment or facility within residential areas, such as shops or factories, may be used for activity or crafts that produce foul smell.",
+    "source_ar_norm": "ا - لا يجوز استعمال اي مبان بمنطقة السكن كدكان او معمل لاي غرض خاص باسواق او باي حرفة منتنة.",
+    "target_en_norm": "a) no establishment or facility within residential areas, such as shops or factories, may be used for activity or crafts that produce foul smell.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42677,
+    "source_ar": "ب - لا يجوز استعمال أي مباني بالدكاكين والأسواق كمعمل لأي حرفة منتنة.",
+    "target_en": "b) No place designed for shops or markets may be used as factories for activities that produce foul smell.",
+    "source_ar_norm": "ب - لا يجوز استعمال اي مباني بالدكاكين والاسواق كمعمل لاي حرفة منتنة.",
+    "target_en_norm": "b) no place designed for shops or markets may be used as factories for activities that produce foul smell.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42678,
+    "source_ar": "ج - لا يجوز استعمال أي مباني بمنطقة المعامل للأغراض الخاصة بأي حرفة منتنة، على أنه يجوز لرئاسة الأمانة والبلديات إذا دعت الحال أن تأذن بذلك لاستعمالها مدة لا تزيد عن سنة، ومع مراعاة الشروط والمدة التي يجري التصديق عليها من المراجع العليا.",
+    "target_en": "c) No building in an industrial zone may be used for crafts that produce foul smell; however, the Municipality Presidency and sub-municipalities may permit such use for a period not exceeding one year, taking into account the conditions and duration ratified by higher authorities.",
+    "source_ar_norm": "ج - لا يجوز استعمال اي مباني بمنطقة المعامل للاغراض الخاصة باي حرفة منتنة، علي انه يجوز لرئاسة الامانة والبلديات اذا دعت الحال ان تاذن بذلك لاستعمالها مدة لا تزيد عن سنة، ومع مراعاة الشروط والمدة التي يجري التصديق عليها من المراجع العليا.",
+    "target_en_norm": "c) no building in an industrial zone may be used for crafts that produce foul smell; however, the municipality presidency and sub-municipalities may permit such use for a period not exceeding one year, taking into account the conditions and duration ratified by higher authorities.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42679,
+    "source_ar": "د - لا يجوز استعمال أبنية المساكن لتقوم مقام الأبنية العامة كالدواوين والمساجد والمستشفيات والعيادات والفنادق والمقاهي والإصطبلات والكراجات والحمامات والعكس بالعكس، ما لم يستحصل صاحبها على تصريح كتابي من دائرة البلدية أو الأمانة، ولا يعطى هذا التصريح إلا بعد إجراء الكشف الدقيق عليه بواسطة سلطة المباني والصحة، وإعطاء قرارها لصلاحية الغرض المطلوب، ولا يسوغ إعطاء تصريح في ذلك إلا بعد إجراء التغييرات والإصلاحات التي تجعله صالحا للاستعمال.",
+    "target_en": "d) No residential property may be repurposed as a public place such as an office, mosque, hospital, clinic, hotel, coffeehouse, stable, garage, or toilets, nor may public places be converted into residential properties, unless the owners thereof obtain a written permit from the municipal department or the municipality. Such permit shall only be granted after the Building Authority and the Health Authority have conducted a thorough inspection and issued a decision confirming the building's suitability for the new purpose, provided that the necessary modifications and repairs to render the building fit for the new use are completed prior to issuing said permit.",
+    "source_ar_norm": "د - لا يجوز استعمال ابنية المساكن لتقوم مقام الابنية العامة كالدواوين والمساجد والمستشفيات والعيادات والفنادق والمقاهي والاصطبلات والكراجات والحمامات والعكس بالعكس، ما لم يستحصل صاحبها علي تصريح كتابي من دائرة البلدية او الامانة، ولا يعطي هذا التصريح الا بعد اجراء الكشف الدقيق عليه بواسطة سلطة المباني والصحة، واعطاء قرارها لصلاحية الغرض المطلوب، ولا يسوغ اعطاء تصريح في ذلك الا بعد اجراء التغييرات والاصلاحات التي تجعله صالحا للاستعمال.",
+    "target_en_norm": "d) no residential property may be repurposed as a public place such as an office, mosque, hospital, clinic, hotel, coffeehouse, stable, garage, or toilets, nor may public places be converted into residential properties, unless the owners thereof obtain a written permit from the municipal department or the municipality. such permit shall only be granted after the building authority and the health authority have conducted a thorough inspection and issued a decision confirming the building's suitability for the new purpose, provided that the necessary modifications and repairs to render the building fit for the new use are completed prior to issuing said permit.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42680,
+    "source_ar": "هـ - لا يجوز إقامة أي بناء مؤقت أو بصفة مستديمة في هذه المناطق إلا بإذن صريح كتابي من سلطة المباني مع مراعاة القيود التي تراها مناسبة، وكل بناء يشاد بدون الرخصة النظامية يهدم وتحصل المصاريف من الشخص الذي أقامه أو تسبب في إقامته إلا إذا كان البناء متناسقا مع المباني المقامة في تلك المنطقة ولا ضرر منه على المصلحة ولا على مصلحة الجيران فيسمح ببقاء البناء مع مجازات صاحب البناء بدفع ربع قيمة ذلك البناء كجزاء ويجري ذلك من قبل لجنة الأبنية.",
+    "target_en": "e) No temporary or permanent structure shall be erected in these zones without an explicit written permission from the Building Authority, taking into account any restrictions it deems appropriate. Any structure constructed without obtaining such license shall be demolished, and the costs shall be recovered from the person responsible for such unauthorized construction. If, however, said structure is consistent with the existing buildings in the zone and poses no harm to public interest or the interests of neighbors, it may be allowed to remain, with the owner required to pay a penalty equal to one-quarter of the structure’s value. This shall be enforced by the building committee.",
+    "source_ar_norm": "ه - لا يجوز اقامة اي بناء مؤقت او بصفة مستديمة في هذه المناطق الا باذن صريح كتابي من سلطة المباني مع مراعاة القيود التي تراها مناسبة، وكل بناء يشاد بدون الرخصة النظامية يهدم وتحصل المصاريف من الشخص الذي اقامه او تسبب في اقامته الا اذا كان البناء متناسقا مع المباني المقامة في تلك المنطقة ولا ضرر منه علي المصلحة ولا علي مصلحة الجيران فيسمح ببقاء البناء مع مجازات صاحب البناء بدفع ربع قيمة ذلك البناء كجزاء ويجري ذلك من قبل لجنة الابنية.",
+    "target_en_norm": "e) no temporary or permanent structure shall be erected in these zones without an explicit written permission from the building authority, taking into account any restrictions it deems appropriate. any structure constructed without obtaining such license shall be demolished, and the costs shall be recovered from the person responsible for such unauthorized construction. if, however, said structure is consistent with the existing buildings in the zone and poses no harm to public interest or the interests of neighbors, it may be allowed to remain, with the owner required to pay a penalty equal to one-quarter of the structure’s value. this shall be enforced by the building committee.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42681,
+    "source_ar": "المادة الحادية والعشرون:",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون:",
+    "target_en_norm": "article 21",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42682,
+    "source_ar": "أ- يسوغ إحالة المباني من الأملاك إلى عرصات، وعلى أرباب الأملاك الذين يريدون تقسيمها إلى عرصات قصد بيعها أو الانتفاع منها بوضع غير الوضع التي كانت عليه، أن يراجعوا البلدية بطلب خاص في ذلك مشفوع بالخارطة التي يرغب المالك التصرف في وضع أملاكه المذكورة على مقتضاها.",
+    "target_en": "A- Property owners may transform buildings into plots for the purpose of sale or change their use in new ways, as long as the property owner submits a request in this regard to the sub-municipality, attaching the map according to which such owner desires to dispose of his property.",
+    "source_ar_norm": "ا- يسوغ احالة المباني من الاملاك الي عرصات، وعلي ارباب الاملاك الذين يريدون تقسيمها الي عرصات قصد بيعها او الانتفاع منها بوضع غير الوضع التي كانت عليه، ان يراجعوا البلدية بطلب خاص في ذلك مشفوع بالخارطة التي يرغب المالك التصرف في وضع املاكه المذكورة علي مقتضاها.",
+    "target_en_norm": "a- property owners may transform buildings into plots for the purpose of sale or change their use in new ways, as long as the property owner submits a request in this regard to the sub-municipality, attaching the map according to which such owner desires to dispose of his property.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42683,
+    "source_ar": "ب- وعلى سلطة المباني اتخاذ الإجراءات النظامية في ذلك طبق مقتضيات المواد المخصصة من هذا النظام.",
+    "target_en": "B- The Building Authority shall take the necessary legal procedures in accordance with the relevant provisions of this Law.",
+    "source_ar_norm": "ب- وعلي سلطة المباني اتخاذ الاجراءات النظامية في ذلك طبق مقتضيات المواد المخصصة من هذا النظام.",
+    "target_en_norm": "b- the building authority shall take the necessary legal procedures in accordance with the relevant provisions of this law.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42684,
+    "source_ar": "المادة الثانية والعشرون:",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون:",
+    "target_en_norm": "article 22",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42685,
+    "source_ar": "يجوز تعديل ما تقضي المصلحة بتعديله من الخرائط التي سبق تنظيمها وتصديقها بعد موافقة المراجع العليا.",
+    "target_en": "Previously set and ratified maps may be amended if public interest necessitates such an amendment, subject to the approval of high authorities.",
+    "source_ar_norm": "يجوز تعديل ما تقضي المصلحة بتعديله من الخرائط التي سبق تنظيمها وتصديقها بعد موافقة المراجع العليا.",
+    "target_en_norm": "previously set and ratified maps may be amended if public interest necessitates such an amendment, subject to the approval of high authorities.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42686,
+    "source_ar": "المادة الثالثة والعشرون:",
+    "target_en": "Article 23",
+    "source_ar_norm": "المادة الثالثة والعشرون:",
+    "target_en_norm": "article 23",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42687,
+    "source_ar": "تبقى الشوارع الحالية على وضعها الحالي ما لم تستدع المصلحة لتوسيعها ضمن التصميم المقرر في خريطة البلدة على أن لا تتجاوز تلك الشوارع التي تفتح حديثا الاتساعات الآتية:",
+    "target_en": "Existing streets shall remain in their current status unless public interest dictates the increase of their width in accordance with the approved design of the town map. Any new street shall adhere to the following width requirements:",
+    "source_ar_norm": "تبقي الشوارع الحالية علي وضعها الحالي ما لم تستدع المصلحة لتوسيعها ضمن التصميم المقرر في خريطة البلدة علي ان لا تتجاوز تلك الشوارع التي تفتح حديثا الاتساعات الاتية:",
+    "target_en_norm": "existing streets shall remain in their current status unless public interest dictates the increase of their width in accordance with the approved design of the town map. any new street shall adhere to the following width requirements:",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42688,
+    "source_ar": "أ- الشوارع الرئيسية لا تقل عن (15) مترا.",
+    "target_en": "A- Width of main streets shall be no less than 15 meters.",
+    "source_ar_norm": "ا- الشوارع الرئيسية لا تقل عن (15) مترا.",
+    "target_en_norm": "a- width of main streets shall be no less than 15 meters.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42689,
+    "source_ar": "ب- الشوارع الثانوية لا تقل عن (8) أمتار إلى اثني عشر مترا.",
+    "target_en": "B- Width of secondary streets shall be no less than eight meters and up to 12 meters.",
+    "source_ar_norm": "ب- الشوارع الثانوية لا تقل عن (8) امتار الي اثني عشر مترا.",
+    "target_en_norm": "b- width of secondary streets shall be no less than eight meters and up to 12 meters.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42690,
+    "source_ar": "ج- الأزقة لا تقل عن (4) أمتار إلى ستة أمتار.",
+    "target_en": "C- Width of alleys shall be no less than four meters and up to six meters.",
+    "source_ar_norm": "ج- الازقة لا تقل عن (4) امتار الي ستة امتار.",
+    "target_en_norm": "c- width of alleys shall be no less than four meters and up to six meters.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42691,
+    "source_ar": "المادة الرابعة والعشرون: أحكام خط البناء :",
+    "target_en": "Article 24 Provisions of building lines:",
+    "source_ar_norm": "المادة الرابعة والعشرون: احكام خط البناء :",
+    "target_en_norm": "article 24 provisions of building lines:",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42692,
+    "source_ar": "أ - يجوز لسلطة المباني أن تضع خطا للبناء بمساحة لا تزيد عن خمسة عشر مترا من خط التنظيم، على أن لا يكون وضع مثل هذا الخط بحالة تحول دون إقامة مباني تناسب حالة المنطقة.",
+    "target_en": "a) The Building Authority may establish a building line which shall not exceed 15 meters from the property line, provided that such line does not hinder the construction of buildings suitable for the zone.",
+    "source_ar_norm": "ا - يجوز لسلطة المباني ان تضع خطا للبناء بمساحة لا تزيد عن خمسة عشر مترا من خط التنظيم، علي ان لا يكون وضع مثل هذا الخط بحالة تحول دون اقامة مباني تناسب حالة المنطقة.",
+    "target_en_norm": "a) the building authority may establish a building line which shall not exceed 15 meters from the property line, provided that such line does not hinder the construction of buildings suitable for the zone.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42693,
+    "source_ar": "ب - حينما يوضع خط البناء في أي منطقة للسكنى يجب أن لا تقام أي مباني غير الحائط الفاصل بعد ذلك الخط.",
+    "target_en": "b) Once a building line is established in any residential area, no structures other than separation walls may be constructed beyond said line.",
+    "source_ar_norm": "ب - حينما يوضع خط البناء في اي منطقة للسكني يجب ان لا تقام اي مباني غير الحائط الفاصل بعد ذلك الخط.",
+    "target_en_norm": "b) once a building line is established in any residential area, no structures other than separation walls may be constructed beyond said line.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42694,
+    "source_ar": "ج - وعندما يوضع أي خط بناء مثل هذا بأي شارع أو جزء من شارع المنطقة -الدكاكين والأسواق- فلا تقام أي مباني سوى البواكي (الأقواس) والبرندات (المشارف) بعد ذلك الخط، ولا تقام مثل هذه الأقواس والمشارف بدون تصريح من سلطة المباني ، ويجوز لسلطة المباني عند إعطاء مثل هذا التصريح أن تعين المواد التي تبني منها تلك الأقواس والمشارف، كما يجوز لها وضع شروط لإيداع تصميم الخريطة، وطريقة البناء بحسب ما ترى سلطة المباني أنها متناسبة لدرجة المباني التي تشملها تلك المنطقة، على أن للجمهور حق المرور من تحت هذه الأقواس والمشارف.",
+    "target_en": "c) When a building line is established on any street or a part of a street in zones designated for shops and markets, no structures other than arcades and verandas (balconies) shall be constructed beyond such line. Such arcades and verandas may not be constructed without a permit from the Building Authority. The Building Authority, when issuing such a permit, may specify the building materials to be used, may delineate the conditions according to which the map shall be designed, and may determine the construction methods it deems suitable for the buildings’ grade in the zone. The public shall have the right to pass under such arcades and verandas.",
+    "source_ar_norm": "ج - وعندما يوضع اي خط بناء مثل هذا باي شارع او جزء من شارع المنطقة -الدكاكين والاسواق- فلا تقام اي مباني سوي البواكي (الاقواس) والبرندات (المشارف) بعد ذلك الخط، ولا تقام مثل هذه الاقواس والمشارف بدون تصريح من سلطة المباني ، ويجوز لسلطة المباني عند اعطاء مثل هذا التصريح ان تعين المواد التي تبني منها تلك الاقواس والمشارف، كما يجوز لها وضع شروط لايداع تصميم الخريطة، وطريقة البناء بحسب ما تري سلطة المباني انها متناسبة لدرجة المباني التي تشملها تلك المنطقة، علي ان للجمهور حق المرور من تحت هذه الاقواس والمشارف.",
+    "target_en_norm": "c) when a building line is established on any street or a part of a street in zones designated for shops and markets, no structures other than arcades and verandas (balconies) shall be constructed beyond such line. such arcades and verandas may not be constructed without a permit from the building authority. the building authority, when issuing such a permit, may specify the building materials to be used, may delineate the conditions according to which the map shall be designed, and may determine the construction methods it deems suitable for the buildings’ grade in the zone. the public shall have the right to pass under such arcades and verandas.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42695,
+    "source_ar": "المادة الخامسة والعشرون:",
+    "target_en": "Article 25",
+    "source_ar_norm": "المادة الخامسة والعشرون:",
+    "target_en_norm": "article 25",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42696,
+    "source_ar": "على أمانة العاصمة والبلديات أن تضع أسماء للشوارع الرئيسية والفرعية، على أن تراعي في ذلك المناسبات والحوادث التاريخية.",
+    "target_en": "The Capital Municipality and the sub-municipalities shall designate names for main and secondary streets, taking into account historical events and occasions.",
+    "source_ar_norm": "علي امانة العاصمة والبلديات ان تضع اسماء للشوارع الرئيسية والفرعية، علي ان تراعي في ذلك المناسبات والحوادث التاريخية.",
+    "target_en_norm": "the capital municipality and the sub-municipalities shall designate names for main and secondary streets, taking into account historical events and occasions.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42697,
+    "source_ar": "ولا يجوز لأي شخص أن يتلف أو يزيل أو يشوه ذلك الاسم، ومن تجرأ على ذلك يجازى بجزاء نقدي قدره خمسة وعشرين قرشا أو بالسجن لمدة يوم واحد.",
+    "target_en": "It is strictly prohibited to damage, remove, or deface such names, and any person who commits such acts shall be subject to a fine of twenty-five qirshes or imprisonment for one day.",
+    "source_ar_norm": "ولا يجوز لاي شخص ان يتلف او يزيل او يشوه ذلك الاسم، ومن تجرا علي ذلك يجازي بجزاء نقدي قدره خمسة وعشرين قرشا او بالسجن لمدة يوم واحد.",
+    "target_en_norm": "it is strictly prohibited to damage, remove, or deface such names, and any person who commits such acts shall be subject to a fine of twenty-five qirshes or imprisonment for one day.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42698,
+    "source_ar": "المادة السادسة والعشرون:",
+    "target_en": "Article 26",
+    "source_ar_norm": "المادة السادسة والعشرون:",
+    "target_en_norm": "article 26",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42699,
+    "source_ar": "على أمانة العاصمة والبلديات أن تعطي لكل بيت أو حانوت في شارع أو زقاق نمرة خاصة بطريقة منظمة بحيث ينتهي تسلسلها ضمنه.",
+    "target_en": "The Capital Municipality and sub-municipalities shall systematically assign a specific number to each house or shop on any street or alley, ensuring that the numbering sequence ends at the end of such street or alley.",
+    "source_ar_norm": "علي امانة العاصمة والبلديات ان تعطي لكل بيت او حانوت في شارع او زقاق نمرة خاصة بطريقة منظمة بحيث ينتهي تسلسلها ضمنه.",
+    "target_en_norm": "the capital municipality and sub-municipalities shall systematically assign a specific number to each house or shop on any street or alley, ensuring that the numbering sequence ends at the end of such street or alley.",
+    "file_name": "نظام الطرق والمباني.docx"
+  },
+  {
+    "id": 42700,
+    "source_ar": "ولها أن تكتب هذه النمرة على قطع من الصفيح على نموذج واحد، ثم يجري وضعها في مكان بارز على الدور أو الحوانيت، على أن تستحصل ثمنها من الملاك لمرة واحدة عند جباية الرسوم المقررة، ولا يجوز للملاك أن يمتنعوا عن الدفع، كما لا يجوز لأي شخص أن يتلف أو يزيل أو يشوه هذه النمرة، ومن امتنع عن الدفع ينذر أولا ثم يضاعف عليه ثمن النمرة، كما أن من أتلف أو أزال أو شوه هذه النمرة يجازى بغرامة نقدية قدرها عشرة قروش",
+    "target_en": "Such numbers shall be written on standardized tin plates and displayed in a prominent position on such houses and shops. A one-time fee for the numbering plates shall be collected from the property owners when the levy of prescribed charges is collected. Property owners may not refuse payment. Any property owner who refuses to pay the plates’ fee shall first receive a warning, and continued non-compliance shall result in doubling the fee. No person may damage, remove, or deface the numbers thereon, and any person who does so shall be subject to a fine of ten qirshes.",
+    "source_ar_norm": "ولها ان تكتب هذه النمرة علي قطع من الصفيح علي نموذج واحد، ثم يجري وضعها في مكان بارز علي الدور او الحوانيت، علي ان تستحصل ثمنها من الملاك لمرة واحدة عند جباية الرسوم المقررة، ولا يجوز للملاك ان يمتنعوا عن الدفع، كما لا يجوز لاي شخص ان يتلف او يزيل او يشوه هذه النمرة، ومن امتنع عن الدفع ينذر اولا ثم يضاعف عليه ثمن النمرة، كما ان من اتلف او ازال او شوه هذه النمرة يجازي بغرامة نقدية قدرها عشرة قروش",
+    "target_en_norm": "such numbers shall be written on standardized tin plates and displayed in a prominent position on such houses and shops. a one-time fee for the numbering plates shall be collected from the property owners when the levy of prescribed charges is collected. property owners may not refuse payment. any property owner who refuses to pay the plates’ fee shall first receive a warning, and continued non-compliance shall result in doubling the fee. no person may damage, remove, or deface the numbers thereon, and any person who does so shall be subject to a fine of ten qirshes.",
+    "file_name": "نظام الطرق والمباني.docx"
+  }
+]

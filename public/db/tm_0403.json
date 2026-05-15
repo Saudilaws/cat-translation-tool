@@ -1,0 +1,802 @@
+[
+  {
+    "id": 40201,
+    "source_ar": "الفصل الثاني: مالية الشركة",
+    "target_en": "Chapter 2: Company Finances",
+    "source_ar_norm": "الفصل الثاني: مالية الشركة",
+    "target_en_norm": "chapter 2: company finances",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40202,
+    "source_ar": "المادة السادسة عشرة: السنة المالية للشركة",
+    "target_en": "Article 16: Fiscal Year",
+    "source_ar_norm": "المادة السادسة عشرة: السنة المالية للشركة",
+    "target_en_norm": "article 16: fiscal year",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40203,
+    "source_ar": "تكون السنة المالية للشركة (اثني عشر) شهرًا تُحدد في عقد تأسيسها أو نظامها الأساس. ومع ذلك، يجوز أن تحدد السنة المالية الأولى بما لا يقلّ عن (ستة) أشهر ولا يزيد على (ثمانية عشر) شهرًا بدءًا من تاريخ قيد الشركة لدى السجل التجاري.",
+    "target_en": "A company’s fiscal year shall be 12 months to be specified in its articles of incorporation or articles of association. As an exception, the first fiscal year may cover a period not less than six months and not more than 18 months beginning from the date of the company’s registration with the Commercial Register.",
+    "source_ar_norm": "تكون السنة المالية للشركة (اثني عشر) شهرا تحدد في عقد تاسيسها او نظامها الاساس. ومع ذلك، يجوز ان تحدد السنة المالية الاولي بما لا يقل عن (ستة) اشهر ولا يزيد علي (ثمانية عشر) شهرا بدءا من تاريخ قيد الشركة لدي السجل التجاري.",
+    "target_en_norm": "a company’s fiscal year shall be 12 months to be specified in its articles of incorporation or articles of association. as an exception, the first fiscal year may cover a period not less than six months and not more than 18 months beginning from the date of the company’s registration with the commercial register.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40204,
+    "source_ar": "المادة السابعة عشرة: السجلات المحاسبية والقوائم المالية",
+    "target_en": "Article 17: Accounting Records and Financial Statements",
+    "source_ar_norm": "المادة السابعة عشرة: السجلات المحاسبية والقوائم المالية",
+    "target_en_norm": "article 17: accounting records and financial statements",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40205,
+    "source_ar": "1. على الشركة الاحتفاظ بالسجلات المحاسبية والمستندات المؤيدة لها لتوضيح أعمالها وعقودها وقوائمها المالية في مركز الشركة الرئيس أو في أي مكان آخر يحدده مدير الشركة أو مجلس إدارتها.",
+    "target_en": "A company shall maintain accounting records and supporting documents relating to its activities, contracts, and financial statements at the company’s headquarters or at any other location designated by the company’s manager or board of directors.",
+    "source_ar_norm": "1. علي الشركة الاحتفاظ بالسجلات المحاسبية والمستندات المؤيدة لها لتوضيح اعمالها وعقودها وقوائمها المالية في مركز الشركة الرئيس او في اي مكان اخر يحدده مدير الشركة او مجلس ادارتها.",
+    "target_en_norm": "a company shall maintain accounting records and supporting documents relating to its activities, contracts, and financial statements at the company’s headquarters or at any other location designated by the company’s manager or board of directors.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40206,
+    "source_ar": "2. يجب إعداد قوائم مالية للشركة في نهاية كل سنة مالية وفق المعايير المحاسبية المعتمدة في المملكة، وإيداع هذه القوائم وفقًا لما تحدده اللوائح خلال (ستة) أشهر من تاريخ انتهاء السنة المالية، وذلك وفقًا للأحكام الواردة في النظام.",
+    "target_en": "A company’s financial statements shall be prepared by the end of each fiscal year in accordance with accounting standards approved in the Kingdom, and said statements shall be deposited as provided for in the Regulations within six months from the date on which the fiscal year ends, in accordance with the provisions of this Law.",
+    "source_ar_norm": "2. يجب اعداد قوائم مالية للشركة في نهاية كل سنة مالية وفق المعايير المحاسبية المعتمدة في المملكة، وايداع هذه القوائم وفقا لما تحدده اللوائح خلال (ستة) اشهر من تاريخ انتهاء السنة المالية، وذلك وفقا للاحكام الواردة في النظام.",
+    "target_en_norm": "a company’s financial statements shall be prepared by the end of each fiscal year in accordance with accounting standards approved in the kingdom, and said statements shall be deposited as provided for in the regulations within six months from the date on which the fiscal year ends, in accordance with the provisions of this law.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40207,
+    "source_ar": "3. إذا اقتضى إعداد القوائم المالية الأولية أو السنوية حصول الشركة المسيطرة أو التي تمتلك حصصًا أو أسهمًا في رأس مال شركة أخرى على معلومات من الشركة المسيطر عليها أو المملوك في رأس مالها حصص أو أسهم، وجب عليها تقديم هذه المعلومات بالقدر الذي يمكن الشركة المسيطرة أو الشركة المالكة من إعداد قوائمها المالية وفق المعايير المحاسبية المعتمدة في المملكة.",
+    "target_en": "If a company requires information from a company it controls or owns interests or shares therein in order to prepare its preliminary or annual financial statements, said company shall provide the information necessary for preparing such statements in accordance with accounting standards approved in the Kingdom.",
+    "source_ar_norm": "3. اذا اقتضي اعداد القوائم المالية الاولية او السنوية حصول الشركة المسيطرة او التي تمتلك حصصا او اسهما في راس مال شركة اخري علي معلومات من الشركة المسيطر عليها او المملوك في راس مالها حصص او اسهم، وجب عليها تقديم هذه المعلومات بالقدر الذي يمكن الشركة المسيطرة او الشركة المالكة من اعداد قوائمها المالية وفق المعايير المحاسبية المعتمدة في المملكة.",
+    "target_en_norm": "if a company requires information from a company it controls or owns interests or shares therein in order to prepare its preliminary or annual financial statements, said company shall provide the information necessary for preparing such statements in accordance with accounting standards approved in the kingdom.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40208,
+    "source_ar": "4. للهيئة وضع ضوابط لتقديم شركات المساهمة المدرجة في السوق المالية المعلومات المشار إليها في الفقرة (3) من هذه المادة.",
+    "target_en": "The CMA may set the rules governing the provision of the information referred to in paragraph (3) of this Article by joint-stock companies listed in the capital market.",
+    "source_ar_norm": "4. للهيئة وضع ضوابط لتقديم شركات المساهمة المدرجة في السوق المالية المعلومات المشار اليها في الفقرة (3) من هذه المادة.",
+    "target_en_norm": "the cma may set the rules governing the provision of the information referred to in paragraph (3) of this article by joint-stock companies listed in the capital market.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40209,
+    "source_ar": "المادة الثامنة عشرة: تعيين مراجع حسابات الشركة وعزله واعتزاله",
+    "target_en": "Article 18: Appointment, Removal, and Resignation of Company Auditor",
+    "source_ar_norm": "المادة الثامنة عشرة: تعيين مراجع حسابات الشركة وعزله واعتزاله",
+    "target_en_norm": "article 18: appointment, removal, and resignation of company auditor",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40210,
+    "source_ar": "1. يكون للشركة مراجع حسابات (أو أكثر) من المراجعين المرخص لهم في المملكة يعينه ويحدد أتعابه ومدة عمله ونطاقه الشركاء أو الجمعية العامة أو المساهمون بحسب الأحوال، ويجوز إعادة تعيينه. وتحدد اللوائح الحد الأعلى لمدة عمل مراجع الحسابات الفرد أو الشركة والشريك فيها المشرف على المراجعة.",
+    "target_en": "A company shall have one auditor, or more, licensed to practice in the Kingdom. His appointment, fees, term, and scope of work shall be determined by the partners, general assembly, or shareholders, as the case may be, and he may be re-appointed. The Regulations shall determine the maximum term for an individual auditor or an auditing firm and the partner therein supervising the audit.",
+    "source_ar_norm": "1. يكون للشركة مراجع حسابات (او اكثر) من المراجعين المرخص لهم في المملكة يعينه ويحدد اتعابه ومدة عمله ونطاقه الشركاء او الجمعية العامة او المساهمون بحسب الاحوال، ويجوز اعادة تعيينه. وتحدد اللوائح الحد الاعلي لمدة عمل مراجع الحسابات الفرد او الشركة والشريك فيها المشرف علي المراجعة.",
+    "target_en_norm": "a company shall have one auditor, or more, licensed to practice in the kingdom. his appointment, fees, term, and scope of work shall be determined by the partners, general assembly, or shareholders, as the case may be, and he may be re-appointed. the regulations shall determine the maximum term for an individual auditor or an auditing firm and the partner therein supervising the audit.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40211,
+    "source_ar": "2. يجوز للشركاء أو الجمعية العامة أو المساهمون -بحسب الأحوال- عزل مراجع الحسابات، وذلك دون إخلال بحقه في التعويض عن الضرر الذي يلحق به إذا كان له مقتض. ويجب على المدير أو رئيس مجلس الإدارة إبلاغ الجهة المختصة بقرار العزل وأسبابه، وذلك خلال مدة لا تتجاوز (خمسة) أيام من تاريخ صدور القرار.",
+    "target_en": "The partners, general assembly, or shareholders, as the case may be, may remove the auditor, without prejudice to his right to compensation for any damage he incurs, if justified. The manager or the chairman of the board of directors shall notify the Competent Authority of the removal decision and the grounds therefor within a period not exceeding five days from the decision date.",
+    "source_ar_norm": "2. يجوز للشركاء او الجمعية العامة او المساهمون -بحسب الاحوال- عزل مراجع الحسابات، وذلك دون اخلال بحقه في التعويض عن الضرر الذي يلحق به اذا كان له مقتض. ويجب علي المدير او رئيس مجلس الادارة ابلاغ الجهة المختصة بقرار العزل واسبابه، وذلك خلال مدة لا تتجاوز (خمسة) ايام من تاريخ صدور القرار.",
+    "target_en_norm": "the partners, general assembly, or shareholders, as the case may be, may remove the auditor, without prejudice to his right to compensation for any damage he incurs, if justified. the manager or the chairman of the board of directors shall notify the competent authority of the removal decision and the grounds therefor within a period not exceeding five days from the decision date.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40212,
+    "source_ar": "3. لمراجع الحسابات أن يعتزل مهمته بموجب إبلاغ مكتوب يقدمه إلى الشركة، وتنتهي مهمته من تاريخ تقديمه أو في تاريخ لاحق يحدده في الإبلاغ، وذلك دون إخلال بحق الشركة في التعويض عن الضرر الذي يلحق بها إذا كان له مقتض. ويلتزم مراجع الحسابات المعتزل بأن يقدم إلى الشركة والجهة المختصة -عند تقديم الإبلاغ- بيانًا بأسباب اعتزاله، ويجب على مدير الشركة أو مجلس إدارتها دعوة الشركاء أو المساهمين إلى الاجتماع أو الجمعية العامة إلى الانعقاد -بحسب الأحوال- للنظر في أسباب الاعتزال وتعيين مراجع حسابات آخر.",
+    "target_en": "The auditor may resign pursuant to a written notice submitted to the company. His assignment shall terminate from the date of submitting the resignation notice or at a later date as specified therein, without prejudice to the company’s right to compensation for any damage it incurs, if justified. The resigning auditor shall, upon submission of the notice, provide the company and the Competent Authority with the reasons for his resignation. The company’s manager or board of directors shall call the partners or shareholders to meet or the general assembly to be held, as the case may be, to review said reasons and appoint another auditor.",
+    "source_ar_norm": "3. لمراجع الحسابات ان يعتزل مهمته بموجب ابلاغ مكتوب يقدمه الي الشركة، وتنتهي مهمته من تاريخ تقديمه او في تاريخ لاحق يحدده في الابلاغ، وذلك دون اخلال بحق الشركة في التعويض عن الضرر الذي يلحق بها اذا كان له مقتض. ويلتزم مراجع الحسابات المعتزل بان يقدم الي الشركة والجهة المختصة -عند تقديم الابلاغ- بيانا باسباب اعتزاله، ويجب علي مدير الشركة او مجلس ادارتها دعوة الشركاء او المساهمين الي الاجتماع او الجمعية العامة الي الانعقاد -بحسب الاحوال- للنظر في اسباب الاعتزال وتعيين مراجع حسابات اخر.",
+    "target_en_norm": "the auditor may resign pursuant to a written notice submitted to the company. his assignment shall terminate from the date of submitting the resignation notice or at a later date as specified therein, without prejudice to the company’s right to compensation for any damage it incurs, if justified. the resigning auditor shall, upon submission of the notice, provide the company and the competent authority with the reasons for his resignation. the company’s manager or board of directors shall call the partners or shareholders to meet or the general assembly to be held, as the case may be, to review said reasons and appoint another auditor.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40213,
+    "source_ar": "المادة التاسعة عشرة: عدم سريان متطلب تعيين مراجع حسابات",
+    "target_en": "Article 19: Inapplicability of Auditor Appointment Requirement",
+    "source_ar_norm": "المادة التاسعة عشرة: عدم سريان متطلب تعيين مراجع حسابات",
+    "target_en_norm": "article 19: inapplicability of auditor appointment requirement",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40214,
+    "source_ar": "1. لا يسري على الشركة متناهية الصغر والصغيرة الحكم المتعلق بإلزامية تعيين مراجع الحسابات الوارد في المادة (الثامنة عشرة) من النظام، عدا الشركة متناهية الصغر والصغيرة الآتية:",
+    "target_en": "The provision stipulated in Article 18 of this Law relating to the appointment of an auditor shall not apply to micro and small companies, except in the following cases:",
+    "source_ar_norm": "1. لا يسري علي الشركة متناهية الصغر والصغيرة الحكم المتعلق بالزامية تعيين مراجع الحسابات الوارد في المادة (الثامنة عشرة) من النظام، عدا الشركة متناهية الصغر والصغيرة الاتية:",
+    "target_en_norm": "the provision stipulated in article 18 of this law relating to the appointment of an auditor shall not apply to micro and small companies, except in the following cases:",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40215,
+    "source_ar": "أ- التي ينص عقد تأسيسها أو نظامها الأساس على ذلك.",
+    "target_en": "If the articles of incorporation or articles of association stipulate the appointment of an auditor.",
+    "source_ar_norm": "ا- التي ينص عقد تاسيسها او نظامها الاساس علي ذلك.",
+    "target_en_norm": "if the articles of incorporation or articles of association stipulate the appointment of an auditor.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40216,
+    "source_ar": "ب- المدرجة في السوق المالية.",
+    "target_en": "If it is listed in the capital market.",
+    "source_ar_norm": "ب- المدرجة في السوق المالية.",
+    "target_en_norm": "if it is listed in the capital market.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40217,
+    "source_ar": "ج- التي تصدر أدوات دين أو صكوكًا تمويلية متداولة أو أسهمًا ممتازة أو أسهمًا قابلة للاسترداد.",
+    "target_en": "If it issues debt instruments, traded financing sukuk, preferred stock, or redeemable stock.",
+    "source_ar_norm": "ج- التي تصدر ادوات دين او صكوكا تمويلية متداولة او اسهما ممتازة او اسهما قابلة للاسترداد.",
+    "target_en_norm": "if it issues debt instruments, traded financing sukuk, preferred stock, or redeemable stock.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40218,
+    "source_ar": "د- التي يلزم فيها تعيين مراجع حسابات وفقًا للأنظمة ذات العلاقة.",
+    "target_en": "If relevant laws require the appointment of an auditor.",
+    "source_ar_norm": "د- التي يلزم فيها تعيين مراجع حسابات وفقا للانظمة ذات العلاقة.",
+    "target_en_norm": "if relevant laws require the appointment of an auditor.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40219,
+    "source_ar": "هـ- الأجنبية.",
+    "target_en": "If it is a foreign company.",
+    "source_ar_norm": "ه- الاجنبية.",
+    "target_en_norm": "if it is a foreign company.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40220,
+    "source_ar": "و- التي تمتلك شركة أخرى أو تكون تابعة لشركة أخرى إلا في حال انطباق وصف الشركة متناهية الصغر أو الصغيرة على جميع تلك الشركات.",
+    "target_en": "If it owns another company or is a subsidiary of another company, unless the description of a micro or small company applies to all such companies.",
+    "source_ar_norm": "و- التي تمتلك شركة اخري او تكون تابعة لشركة اخري الا في حال انطباق وصف الشركة متناهية الصغر او الصغيرة علي جميع تلك الشركات.",
+    "target_en_norm": "if it owns another company or is a subsidiary of another company, unless the description of a micro or small company applies to all such companies.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40221,
+    "source_ar": "ولأغراض تطبيق هذه الفقرة، تحدد اللوائح المعايير التي يكون بناء عليها وصف الشركة بأنها شركة متناهية الصغر أو صغيرة.",
+    "target_en": "For purposes of application of this paragraph, the Regulations shall set the criteria upon which a company is deemed a micro company or small company.",
+    "source_ar_norm": "ولاغراض تطبيق هذه الفقرة، تحدد اللوائح المعايير التي يكون بناء عليها وصف الشركة بانها شركة متناهية الصغر او صغيرة.",
+    "target_en_norm": "for purposes of application of this paragraph, the regulations shall set the criteria upon which a company is deemed a micro company or small company.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40222,
+    "source_ar": "2. يشترط لسريان الحكم الوارد في الفقرة (1) من هذه المادة أن ينطبق على الشركة وصفها بأنها شركة متناهية الصغر أو صغيرة خلال السنة المالية الأولى من قيدها لدى السجل التجاري، أو خلال سنتين ماليتين متتاليتين.",
+    "target_en": "For the application of paragraph (1) of this Article, a company shall be deemed a micro company or small company during the first fiscal year of its registration with the Commercial Register, or for two consecutive fiscal years.",
+    "source_ar_norm": "2. يشترط لسريان الحكم الوارد في الفقرة (1) من هذه المادة ان ينطبق علي الشركة وصفها بانها شركة متناهية الصغر او صغيرة خلال السنة المالية الاولي من قيدها لدي السجل التجاري، او خلال سنتين ماليتين متتاليتين.",
+    "target_en_norm": "for the application of paragraph (1) of this article, a company shall be deemed a micro company or small company during the first fiscal year of its registration with the commercial register, or for two consecutive fiscal years.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40223,
+    "source_ar": "3. يجوز لشريك أو مساهم أو أكثر في الشركة -التي يسري عليها ما ورد في الفقرة (1) من هذه المادة- الذين يمثلون (عشرة في المائة) على الأقل من حصصها أو أسهمها التي لها حقوق تصويت، أن يطلبوا -كتابة- من الشركة تعيين مراجع حسابات وفقًا للضوابط التي تحددها اللوائح.",
+    "target_en": "One or more partners or shareholders of a company to which paragraph (1) of this Article applies who represent at least 10% of its interests or voting shares may request in writing the appointment of an auditor in accordance with the rules specified in the Regulations.",
+    "source_ar_norm": "3. يجوز لشريك او مساهم او اكثر في الشركة -التي يسري عليها ما ورد في الفقرة (1) من هذه المادة- الذين يمثلون (عشرة في المائة) علي الاقل من حصصها او اسهمها التي لها حقوق تصويت، ان يطلبوا -كتابة- من الشركة تعيين مراجع حسابات وفقا للضوابط التي تحددها اللوائح.",
+    "target_en_norm": "one or more partners or shareholders of a company to which paragraph (1) of this article applies who represent at least 10% of its interests or voting shares may request in writing the appointment of an auditor in accordance with the rules specified in the regulations.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40224,
+    "source_ar": "4. لا يسري الحكم المتعلق بإلزامية تعيين مراجع الحسابات الوارد في المادة (الثامنة عشرة) من النظام على شركة التضامن إلا في إحدى الحالات الآتية:",
+    "target_en": "The provision of Article 18 of this Law, which provides for the appointment of an auditor, shall not apply to a general partnership, except in the following cases:",
+    "source_ar_norm": "4. لا يسري الحكم المتعلق بالزامية تعيين مراجع الحسابات الوارد في المادة (الثامنة عشرة) من النظام علي شركة التضامن الا في احدي الحالات الاتية:",
+    "target_en_norm": "the provision of article 18 of this law, which provides for the appointment of an auditor, shall not apply to a general partnership, except in the following cases:",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40225,
+    "source_ar": "أ- إذا كان جميع الشركاء فيها أشخاصًا اعتباريين متخذين أي شكل من أشكال الشركات غير شركة التضامن.",
+    "target_en": "If all of the partners in the company are companies in a form other than a general partnership.",
+    "source_ar_norm": "ا- اذا كان جميع الشركاء فيها اشخاصا اعتباريين متخذين اي شكل من اشكال الشركات غير شركة التضامن.",
+    "target_en_norm": "if all of the partners in the company are companies in a form other than a general partnership.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40226,
+    "source_ar": "ب- إذا كان جميع الشركاء فيها أشخاصًا اعتباريين متخذين شكل شركة التضامن وكان الشركاءُ فيها أشخاصًا اعتباريين متخذين أي شكل من أشكال الشركات غير شركة التضامن.",
+    "target_en": "If all of the partners in the company are companies in the form of a general partnership and the partners in such companies are companies in a form other than a general partnership.",
+    "source_ar_norm": "ب- اذا كان جميع الشركاء فيها اشخاصا اعتباريين متخذين شكل شركة التضامن وكان الشركاء فيها اشخاصا اعتباريين متخذين اي شكل من اشكال الشركات غير شركة التضامن.",
+    "target_en_norm": "if all of the partners in the company are companies in the form of a general partnership and the partners in such companies are companies in a form other than a general partnership.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40227,
+    "source_ar": "ج- إذا نص في عقد تأسيس الشركة على تعيينه.",
+    "target_en": "If the company’s articles of incorporation provide for the appointment of an auditor.",
+    "source_ar_norm": "ج- اذا نص في عقد تاسيس الشركة علي تعيينه.",
+    "target_en_norm": "if the company’s articles of incorporation provide for the appointment of an auditor.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40228,
+    "source_ar": "المادة العشرون: التزامات مراجع حسابات الشركة",
+    "target_en": "Article 20: Auditor Obligations",
+    "source_ar_norm": "المادة العشرون: التزامات مراجع حسابات الشركة",
+    "target_en_norm": "article 20: auditor obligations",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40229,
+    "source_ar": "1. يجب أن يتصف مراجع حسابات الشركة بالاستقلال وفقًا لما تحدده المعايير المهنية المعتمدة في المملكة.",
+    "target_en": "The company’s auditor shall be independent, in accordance with professional standards approved in the Kingdom.",
+    "source_ar_norm": "1. يجب ان يتصف مراجع حسابات الشركة بالاستقلال وفقا لما تحدده المعايير المهنية المعتمدة في المملكة.",
+    "target_en_norm": "the company’s auditor shall be independent, in accordance with professional standards approved in the kingdom.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40230,
+    "source_ar": "2. لا يجوز الجمع بين عمل مراجع الحسابات والاشتراك في تأسيس الشركة التي يراجع حساباتها أو إدارتها أو عضوية مجلس إدارتها. ولا يجوز أن يكون مراجع الحسابات شريكًا لأي من مؤسسي الشركة أو مديريها أو أعضاء مجلس إدارتها أو عاملًا لديه أو قريبًا له. ولا يجوز له شراء حصص أو أسهم في الشركة التي يراجع حساباتها أو بيعها خلال مدة المراجعة.",
+    "target_en": "The auditor may not, while serving as an auditor of a company, participate in its incorporation or management or serve as a member of its board of directors, nor may he purchase or sell interests or shares thereof. He may not be a partner, employee, or relative of any of the company’s incorporators, managers, or board members.",
+    "source_ar_norm": "2. لا يجوز الجمع بين عمل مراجع الحسابات والاشتراك في تاسيس الشركة التي يراجع حساباتها او ادارتها او عضوية مجلس ادارتها. ولا يجوز ان يكون مراجع الحسابات شريكا لاي من مؤسسي الشركة او مديريها او اعضاء مجلس ادارتها او عاملا لديه او قريبا له. ولا يجوز له شراء حصص او اسهم في الشركة التي يراجع حساباتها او بيعها خلال مدة المراجعة.",
+    "target_en_norm": "the auditor may not, while serving as an auditor of a company, participate in its incorporation or management or serve as a member of its board of directors, nor may he purchase or sell interests or shares thereof. he may not be a partner, employee, or relative of any of the company’s incorporators, managers, or board members.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40231,
+    "source_ar": "3. لا يجوز لمراجع حسابات الشركة القيام بعمل فني أو إداري أو استشاري في الشركة التي يراجع حساباتها أو لمصلحتها فيما عدا ما تحدده اللوائح.",
+    "target_en": "The company’s auditor may not carry out any technical, administrative, or advisory work in the company or for its benefit, except as provided for by the Regulations.",
+    "source_ar_norm": "3. لا يجوز لمراجع حسابات الشركة القيام بعمل فني او اداري او استشاري في الشركة التي يراجع حساباتها او لمصلحتها فيما عدا ما تحدده اللوائح.",
+    "target_en_norm": "the company’s auditor may not carry out any technical, administrative, or advisory work in the company or for its benefit, except as provided for by the regulations.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40232,
+    "source_ar": "4. لمراجع الحسابات -في أيّ وقت- الاطلاع على وثائق الشركة وسجلاتها المحاسبية والمستندات المؤيدة لها، وله طلب البيانات والإيضاحات التي يرى ضرورة الحصول عليها للتحقق من أصول الشركة والتزاماتها، وغير ذلك مما يدخل في نطاق عمله. وعلى مدير الشركة أو مجلس إدارتها تمكينه من أداء واجبه. وإذا صادف مراجع الحسابات صعوبة في هذا الشأن أثبت ذلك في تقرير يقدم إلى المدير أو مجلس الإدارة. فإذا لم ييسر المدير أو مجلس الإدارة عمل مراجع الحسابات، وجب عليه أن يطلب منهم دعوة الشركاء أو المساهمين إلى الاجتماع أو الجمعية العامة إلى الانعقاد -بحسب الأحوال- للنظر في الأمر. ويجوز لمراجع الحسابات توجيه هذه الدعوة إذا لم يوجهها المدير أو مجلس الإدارة خلال (ثلاثين) يومًا من تاريخ طلب مراجع الحسابات.",
+    "target_en": "The auditor may, at any time, access the company’s files, accounting records, and other supporting documents, and he may request any information and clarifications he deems necessary to verify the company’s assets and liabilities as well as any other matters falling within his scope of work. The company’s manager or its board of directors shall enable the auditor to carry out his assignment. If the auditor encounters any difficulty in carrying out his assignment, he shall submit a report to this effect to the manager or board of directors. If the manager or board of directors fails to facilitate the auditor’s work, the auditor shall submit a request thereto to call for a meeting of the partners, shareholders, or general assembly, as the case may be, to review the matter. If the manager or board of directors fails to call for a meeting within 30 days from the date of the auditor's request, the auditor himself may call for a meeting.",
+    "source_ar_norm": "4. لمراجع الحسابات -في اي وقت- الاطلاع علي وثائق الشركة وسجلاتها المحاسبية والمستندات المؤيدة لها، وله طلب البيانات والايضاحات التي يري ضرورة الحصول عليها للتحقق من اصول الشركة والتزاماتها، وغير ذلك مما يدخل في نطاق عمله. وعلي مدير الشركة او مجلس ادارتها تمكينه من اداء واجبه. واذا صادف مراجع الحسابات صعوبة في هذا الشان اثبت ذلك في تقرير يقدم الي المدير او مجلس الادارة. فاذا لم ييسر المدير او مجلس الادارة عمل مراجع الحسابات، وجب عليه ان يطلب منهم دعوة الشركاء او المساهمين الي الاجتماع او الجمعية العامة الي الانعقاد -بحسب الاحوال- للنظر في الامر. ويجوز لمراجع الحسابات توجيه هذه الدعوة اذا لم يوجهها المدير او مجلس الادارة خلال (ثلاثين) يوما من تاريخ طلب مراجع الحسابات.",
+    "target_en_norm": "the auditor may, at any time, access the company’s files, accounting records, and other supporting documents, and he may request any information and clarifications he deems necessary to verify the company’s assets and liabilities as well as any other matters falling within his scope of work. the company’s manager or its board of directors shall enable the auditor to carry out his assignment. if the auditor encounters any difficulty in carrying out his assignment, he shall submit a report to this effect to the manager or board of directors. if the manager or board of directors fails to facilitate the auditor’s work, the auditor shall submit a request thereto to call for a meeting of the partners, shareholders, or general assembly, as the case may be, to review the matter. if the manager or board of directors fails to call for a meeting within 30 days from the date of the auditor's request, the auditor himself may call for a meeting.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40233,
+    "source_ar": "5. على مراجع الحسابات أن يقدم إلى الشركاء أو الجمعية العامة في اجتماعها السنوي أو المساهمين، تقريرًا عن القوائم المالية للشركة يعد وفقًا لمعايير المراجعة المعتمدة في المملكة ويضمنه موقف إدارة الشركة من تمكينه من الحصول على البيانات والإيضاحات التي طلبها، وما يكون قد تبين له من مخالفات لأحكام النظام أو عقد تأسيس الشركة أو نظامها الأساس في حدود اختصاصه، ورأيه في مدى عدالة القوائم المالية للشركة. ويجب أن يتلو مراجع الحسابات تقريره أو أن يستعرض ملخصًا له في اجتماع الجمعية العامة السنوي، أو أن يعرض التقرير بالتمرير بحسب الأحوال، ووفقًا لأحكام النظام.",
+    "target_en": "The auditor shall submit to the partners or shareholders or to the general assembly at its annual assembly meeting a report on the company’s financial statements to be prepared in accordance with auditing standards approved in the Kingdom. The auditor’s report shall indicate the extent to which the company’s management enabled him to obtain the information and clarifications he requested. The report shall include any violations of this Law or the company’s articles of incorporation or articles of association that are within the scope of his work as well as his opinion on the integrity of the company’s financial statements. The auditor shall present his report or a summary thereof at the annual general assembly meeting or present the report by circulation, as the case may be, in accordance with the provisions of this Law.",
+    "source_ar_norm": "5. علي مراجع الحسابات ان يقدم الي الشركاء او الجمعية العامة في اجتماعها السنوي او المساهمين، تقريرا عن القوائم المالية للشركة يعد وفقا لمعايير المراجعة المعتمدة في المملكة ويضمنه موقف ادارة الشركة من تمكينه من الحصول علي البيانات والايضاحات التي طلبها، وما يكون قد تبين له من مخالفات لاحكام النظام او عقد تاسيس الشركة او نظامها الاساس في حدود اختصاصه، ورايه في مدي عدالة القوائم المالية للشركة. ويجب ان يتلو مراجع الحسابات تقريره او ان يستعرض ملخصا له في اجتماع الجمعية العامة السنوي، او ان يعرض التقرير بالتمرير بحسب الاحوال، ووفقا لاحكام النظام.",
+    "target_en_norm": "the auditor shall submit to the partners or shareholders or to the general assembly at its annual assembly meeting a report on the company’s financial statements to be prepared in accordance with auditing standards approved in the kingdom. the auditor’s report shall indicate the extent to which the company’s management enabled him to obtain the information and clarifications he requested. the report shall include any violations of this law or the company’s articles of incorporation or articles of association that are within the scope of his work as well as his opinion on the integrity of the company’s financial statements. the auditor shall present his report or a summary thereof at the annual general assembly meeting or present the report by circulation, as the case may be, in accordance with the provisions of this law.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40234,
+    "source_ar": "6. لا يجوز لمراجع الحسابات أن يفشي إلى الشركاء أو المساهمين في غير الجمعية العامة أو إلى الغير ما وقف عليه من أسرار الشركة بسبب قيامه بعمله، وإلا جازت مطالبته بالتعويض فضلًا عن الحق في عزله.",
+    "target_en": "The auditor may not disclose to the partners or shareholders, except in the general assembly, or to third parties any confidential information he becomes privy to in the course of carrying out his assignment. If he fails to do so, he may be held liable for compensation and removed.",
+    "source_ar_norm": "6. لا يجوز لمراجع الحسابات ان يفشي الي الشركاء او المساهمين في غير الجمعية العامة او الي الغير ما وقف عليه من اسرار الشركة بسبب قيامه بعمله، والا جازت مطالبته بالتعويض فضلا عن الحق في عزله.",
+    "target_en_norm": "the auditor may not disclose to the partners or shareholders, except in the general assembly, or to third parties any confidential information he becomes privy to in the course of carrying out his assignment. if he fails to do so, he may be held liable for compensation and removed.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40235,
+    "source_ar": "7. يكون مراجع الحسابات مسؤولًا عما ورد في تقريره، وعن كل ضرر يصيب الشركة أو الشركاء أو المساهمين أو الغير بسبب الأخطاء التي تقع منه في أداء عمله. وإذا كان للشركة أكثر من مراجع حسابات، كانوا مسؤولين بالتضامن، إلا مَن يثبت منهم عدم اشتراكه في الخطأ الموجب للمسؤولية.",
+    "target_en": "The auditor shall be held liable for the information included in his report and for any damage incurred by the company, partners, shareholders, or other parties arising from any mistake he makes in the course of carrying out his assignment. In case of multiple auditors, they shall be jointly and severally liable, except for those established not to have been involved in the commission of the mistake subject of the liability.",
+    "source_ar_norm": "7. يكون مراجع الحسابات مسؤولا عما ورد في تقريره، وعن كل ضرر يصيب الشركة او الشركاء او المساهمين او الغير بسبب الاخطاء التي تقع منه في اداء عمله. واذا كان للشركة اكثر من مراجع حسابات، كانوا مسؤولين بالتضامن، الا من يثبت منهم عدم اشتراكه في الخطا الموجب للمسؤولية.",
+    "target_en_norm": "the auditor shall be held liable for the information included in his report and for any damage incurred by the company, partners, shareholders, or other parties arising from any mistake he makes in the course of carrying out his assignment. in case of multiple auditors, they shall be jointly and severally liable, except for those established not to have been involved in the commission of the mistake subject of the liability.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40236,
+    "source_ar": "المادة الحادية والعشرون: الرقابة على حسابات الشركة",
+    "target_en": "Article 21: Monitoring Company Accounts",
+    "source_ar_norm": "المادة الحادية والعشرون: الرقابة علي حسابات الشركة",
+    "target_en_norm": "article 21: monitoring company accounts",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40237,
+    "source_ar": "للشركاء والمساهمين حق الرقابة على حسابات الشركة وفقًا للأحكام المنصوص عليها في النظام وعقد تأسيس الشركة أو نظامها الأساس.",
+    "target_en": "Partners and shareholders may monitor company accounts in accordance with this Law and the company’s articles of incorporation or articles of association.",
+    "source_ar_norm": "للشركاء والمساهمين حق الرقابة علي حسابات الشركة وفقا للاحكام المنصوص عليها في النظام وعقد تاسيس الشركة او نظامها الاساس.",
+    "target_en_norm": "partners and shareholders may monitor company accounts in accordance with this law and the company’s articles of incorporation or articles of association.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40238,
+    "source_ar": "المادة الثانية والعشرون: توزيع الأرباح",
+    "target_en": "Article 22: Distribution of Dividends",
+    "source_ar_norm": "المادة الثانية والعشرون: توزيع الارباح",
+    "target_en_norm": "article 22: distribution of dividends",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40239,
+    "source_ar": "1. يجوز توزيع أرباح سنوية أو مرحلية من الأرباح القابلة للتوزيع على الشركاء أو المساهمين في شركات المساهمة والمساهمة المبسطة وذات المسؤولية المحدودة.",
+    "target_en": "Annual or interim dividends may be distributed from distributable dividends to partners or shareholders in joint-stock companies, simplified joint-stock companies, and limited liability companies.",
+    "source_ar_norm": "1. يجوز توزيع ارباح سنوية او مرحلية من الارباح القابلة للتوزيع علي الشركاء او المساهمين في شركات المساهمة والمساهمة المبسطة وذات المسؤولية المحدودة.",
+    "target_en_norm": "annual or interim dividends may be distributed from distributable dividends to partners or shareholders in joint-stock companies, simplified joint-stock companies, and limited liability companies.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40240,
+    "source_ar": "2. إذا وزعت أرباح على الشركاء أو المساهمين بالمخالفة لحكم الفقرة (1) من هذه المادة، جاز لدائني الشركة مطالبتها، وللشركة مطالبة كل شريك أو مساهم -ولو كان حسن النية- برد ما قبضه منها.",
+    "target_en": "If dividends are distributed to partners or shareholders in violation of paragraph (1) of this Article, the company’s creditors may demand repayment of their debts from the company, and the company may demand each partner or shareholder, including a bona fide partner or shareholder, to return any dividends he received.",
+    "source_ar_norm": "2. اذا وزعت ارباح علي الشركاء او المساهمين بالمخالفة لحكم الفقرة (1) من هذه المادة، جاز لدائني الشركة مطالبتها، وللشركة مطالبة كل شريك او مساهم -ولو كان حسن النية- برد ما قبضه منها.",
+    "target_en_norm": "if dividends are distributed to partners or shareholders in violation of paragraph (1) of this article, the company’s creditors may demand repayment of their debts from the company, and the company may demand each partner or shareholder, including a bona fide partner or shareholder, to return any dividends he received.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40241,
+    "source_ar": "3. لا يُلزم الشريك أو المساهم برد الأرباح التي وزعت عليه وفقًا لأحكام الفقرة (1) من هذه المادة ولو مُنيت الشركة بخسائر في الفترات التالية.",
+    "target_en": "A partner or shareholder shall not be obligated to return dividends he received pursuant to paragraph (1) of this Article, even if the company incurs losses in subsequent periods.",
+    "source_ar_norm": "3. لا يلزم الشريك او المساهم برد الارباح التي وزعت عليه وفقا لاحكام الفقرة (1) من هذه المادة ولو منيت الشركة بخسائر في الفترات التالية.",
+    "target_en_norm": "a partner or shareholder shall not be obligated to return dividends he received pursuant to paragraph (1) of this article, even if the company incurs losses in subsequent periods.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40242,
+    "source_ar": "4. تحدد اللوائح الضوابط اللازمة لتنفيذ ما ورد في هذه المادة.",
+    "target_en": "The Regulations shall determine the rules necessary for the implementation of this Article.",
+    "source_ar_norm": "4. تحدد اللوائح الضوابط اللازمة لتنفيذ ما ورد في هذه المادة.",
+    "target_en_norm": "the regulations shall determine the rules necessary for the implementation of this article.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40243,
+    "source_ar": "المادة الثالثة والعشرون: تقاسم الأرباح والخسائر",
+    "target_en": "Article 23: Sharing Profits and Losses",
+    "source_ar_norm": "المادة الثالثة والعشرون: تقاسم الارباح والخسائر",
+    "target_en_norm": "article 23: sharing profits and losses",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40244,
+    "source_ar": "1. يتقاسم جميع الشركاء الأرباح والخسائر بحسب نسبة حصة كل منهم في رأس المال، فإن اتفق على حرمان أي منهم من الربح أو على إعفائه من الخسارة، عُدَّ هذا الاتفاق كأن لم يكن. ومع ذلك، يجوز الاتفاق في عقد تأسيس الشركة على تفاوت نسب الشركاء في الأرباح والخسائر.",
+    "target_en": "All partners shall share profits and losses in proportion to their interests in the capital. If an agreement is made to deny any partner of profit or exempt him from losses, such agreement shall be deemed null and void. However, the company’s articles of incorporation may provide for a profit and loss sharing ratio.",
+    "source_ar_norm": "1. يتقاسم جميع الشركاء الارباح والخسائر بحسب نسبة حصة كل منهم في راس المال، فان اتفق علي حرمان اي منهم من الربح او علي اعفائه من الخسارة، عد هذا الاتفاق كان لم يكن. ومع ذلك، يجوز الاتفاق في عقد تاسيس الشركة علي تفاوت نسب الشركاء في الارباح والخسائر.",
+    "target_en_norm": "all partners shall share profits and losses in proportion to their interests in the capital. if an agreement is made to deny any partner of profit or exempt him from losses, such agreement shall be deemed null and void. however, the company’s articles of incorporation may provide for a profit and loss sharing ratio.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40245,
+    "source_ar": "2. يجوز الاتفاق على إعفاء الشريك الذي لم يقدم غير عمله من المساهمة في الخسارة بشرط ألا يكون قد تقرر له أجر عن عمله.",
+    "target_en": "A partner whose contribution is solely in the form of work may be exempted from sharing losses, provided that he is not paid a wage in exchange for such work.",
+    "source_ar_norm": "2. يجوز الاتفاق علي اعفاء الشريك الذي لم يقدم غير عمله من المساهمة في الخسارة بشرط الا يكون قد تقرر له اجر عن عمله.",
+    "target_en_norm": "a partner whose contribution is solely in the form of work may be exempted from sharing losses, provided that he is not paid a wage in exchange for such work.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40246,
+    "source_ar": "المادة الرابعة والعشرون: نصيب الشريك بالعمل في الربح والخسارة",
+    "target_en": "Article 24: Partner’s Interests in Profits and Losses",
+    "source_ar_norm": "المادة الرابعة والعشرون: نصيب الشريك بالعمل في الربح والخسارة",
+    "target_en_norm": "article 24: partner’s interests in profits and losses",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40247,
+    "source_ar": "إذا كانت حصة الشريك مقصورة على عمله، ولم يتضمن عقد تأسيس الشركة تحديدًا لنصيبه في الربح أو الخسارة، كان نصيبه فيهما مماثلًا لحصة أقل شريك في رأس مال الشركة. وإذا قدم الشريك -إضافة إلى عمله- حصة نقدية أو عينية كان له نصيب في الربح أو الخسارة عن حصته بالعمل ونصيب آخر عن حصته النقدية أو العينية.",
+    "target_en": "If a partner’s contribution is limited to his work and the company’s articles of incorporation do not provide for his inclusion in the profit and loss sharing ratio, the partner’s interest in the profits and losses shall be equal to that of the partner who contributes the least to the company’s capital. If a partner makes, in addition to work, cash or in-kind contributions, he shall have an interest in the profits or losses for his work contribution and an interest for his cash or in-kind contribution.",
+    "source_ar_norm": "اذا كانت حصة الشريك مقصورة علي عمله، ولم يتضمن عقد تاسيس الشركة تحديدا لنصيبه في الربح او الخسارة، كان نصيبه فيهما مماثلا لحصة اقل شريك في راس مال الشركة. واذا قدم الشريك -اضافة الي عمله- حصة نقدية او عينية كان له نصيب في الربح او الخسارة عن حصته بالعمل ونصيب اخر عن حصته النقدية او العينية.",
+    "target_en_norm": "if a partner’s contribution is limited to his work and the company’s articles of incorporation do not provide for his inclusion in the profit and loss sharing ratio, the partner’s interest in the profits and losses shall be equal to that of the partner who contributes the least to the company’s capital. if a partner makes, in addition to work, cash or in-kind contributions, he shall have an interest in the profits or losses for his work contribution and an interest for his cash or in-kind contribution.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40248,
+    "source_ar": "المادة الخامسة والعشرون: انتقال ملكية الحصص وتداول الأسهم",
+    "target_en": "Article 25: Transfer of Interest Ownership and Trading of Shares",
+    "source_ar_norm": "المادة الخامسة والعشرون: انتقال ملكية الحصص وتداول الاسهم",
+    "target_en_norm": "article 25: transfer of interest ownership and trading of shares",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40249,
+    "source_ar": "1. تنتقل ملكية الحصص في شركة التضامن وشركة التوصية البسيطة والشركة ذات المسؤولية المحدودة بالقيد لدى السجل التجاري، ولا يُعتد بنقل ملكية الحصة في مواجهة الشركة أو الغير إلا من تاريخ هذا القيد.",
+    "target_en": "Ownership of interests in general partnerships, limited partnerships, and limited liability companies shall be transferred upon registration with the Commercial Register. Transfer of ownership of interests shall not be valid against the company or third parties except from the date of registration.",
+    "source_ar_norm": "1. تنتقل ملكية الحصص في شركة التضامن وشركة التوصية البسيطة والشركة ذات المسؤولية المحدودة بالقيد لدي السجل التجاري، ولا يعتد بنقل ملكية الحصة في مواجهة الشركة او الغير الا من تاريخ هذا القيد.",
+    "target_en_norm": "ownership of interests in general partnerships, limited partnerships, and limited liability companies shall be transferred upon registration with the commercial register. transfer of ownership of interests shall not be valid against the company or third parties except from the date of registration.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40250,
+    "source_ar": "2. تتداول أسهم شركة المساهمة غير المدرجة في السوق المالية وشركة المساهمة المبسطة بالقيد في سجل المساهمين المنصوص عليه في المادة (الثانية عشرة بعد المائة) من النظام، ولا يُعتد بنقل ملكية السهم في مواجهة الشركة أو الغير إلا من تاريخ هذا القيد.",
+    "target_en": "Shares of unlisted joint-stock companies and simplified joint-stock companies shall be traded upon registration with the shareholders’ register stipulated in Article 112 of this Law. Transfer of ownership of shares shall not be deemed valid against the company or third parties except from the date of registration.",
+    "source_ar_norm": "2. تتداول اسهم شركة المساهمة غير المدرجة في السوق المالية وشركة المساهمة المبسطة بالقيد في سجل المساهمين المنصوص عليه في المادة (الثانية عشرة بعد المائة) من النظام، ولا يعتد بنقل ملكية السهم في مواجهة الشركة او الغير الا من تاريخ هذا القيد.",
+    "target_en_norm": "shares of unlisted joint-stock companies and simplified joint-stock companies shall be traded upon registration with the shareholders’ register stipulated in article 112 of this law. transfer of ownership of shares shall not be deemed valid against the company or third parties except from the date of registration.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40251,
+    "source_ar": "3. تتداول أسهم شركة المساهمة المدرجة في السوق المالية وفقًا لأحكام نظام السوق المالية ولوائحه التنفيذية.",
+    "target_en": "Shares of joint-stock companies listed in the capital market shall be traded in accordance with the Capital Market Law and its implementing regulations.",
+    "source_ar_norm": "3. تتداول اسهم شركة المساهمة المدرجة في السوق المالية وفقا لاحكام نظام السوق المالية ولوائحه التنفيذية.",
+    "target_en_norm": "shares of joint-stock companies listed in the capital market shall be traded in accordance with the capital market law and its implementing regulations.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40252,
+    "source_ar": "الفصل الثالث: إدارة الشركة",
+    "target_en": "Chapter 3: Management of a Company",
+    "source_ar_norm": "الفصل الثالث: ادارة الشركة",
+    "target_en_norm": "chapter 3: management of a company",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40253,
+    "source_ar": "المادة السادسة والعشرون: واجبات العناية والولاء",
+    "target_en": "Article 26: Duty of Care and Duty of Loyalty",
+    "source_ar_norm": "المادة السادسة والعشرون: واجبات العناية والولاء",
+    "target_en_norm": "article 26: duty of care and duty of loyalty",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40254,
+    "source_ar": "يجب على مدير الشركة، أو عضو مجلس إدارتها، الالتزام بواجبات العناية والولاء، وبوجه خاص ما يأتي:",
+    "target_en": "A company’s manager or board member shall exercise duty of care and duty of loyalty, particularly in:",
+    "source_ar_norm": "يجب علي مدير الشركة، او عضو مجلس ادارتها، الالتزام بواجبات العناية والولاء، وبوجه خاص ما ياتي:",
+    "target_en_norm": "a company’s manager or board member shall exercise duty of care and duty of loyalty, particularly in:",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40255,
+    "source_ar": "أ- ممارسة مهماته في حدود الصلاحيات المقررة له.",
+    "target_en": "carrying out his duties within the scope of his powers;",
+    "source_ar_norm": "ا- ممارسة مهماته في حدود الصلاحيات المقررة له.",
+    "target_en_norm": "carrying out his duties within the scope of his powers;",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40256,
+    "source_ar": "ب- العمل على مصلحة الشركة، وتعزيز نجاحها.",
+    "target_en": "acting in the interest of the company and promoting its success;",
+    "source_ar_norm": "ب- العمل علي مصلحة الشركة، وتعزيز نجاحها.",
+    "target_en_norm": "acting in the interest of the company and promoting its success;",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40257,
+    "source_ar": "ج- اتخاذ القرارات أو التصويت عليها باستقلال.",
+    "target_en": "making decisions or voting independently thereon;",
+    "source_ar_norm": "ج- اتخاذ القرارات او التصويت عليها باستقلال.",
+    "target_en_norm": "making decisions or voting independently thereon;",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40258,
+    "source_ar": "د- بذل العناية والاهتمام والحرص والمهارة المعقولة والمتوقعة.",
+    "target_en": "exercising reasonable and expected due diligence, skill, and care;",
+    "source_ar_norm": "د- بذل العناية والاهتمام والحرص والمهارة المعقولة والمتوقعة.",
+    "target_en_norm": "exercising reasonable and expected due diligence, skill, and care;",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40259,
+    "source_ar": "هـ- تجنب حالات تعارض المصالح.",
+    "target_en": "avoiding conflict of interest;",
+    "source_ar_norm": "ه- تجنب حالات تعارض المصالح.",
+    "target_en_norm": "avoiding conflict of interest;",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40260,
+    "source_ar": "و- الإفصاح عن أي مصلحة له مباشرة أو غير مباشرة في الأعمال والعقود التي تتم لحساب الشركة.",
+    "target_en": "disclosing any direct or indirect interest he has in the transactions conducted and the contracts concluded for the company’s account; and",
+    "source_ar_norm": "و- الافصاح عن اي مصلحة له مباشرة او غير مباشرة في الاعمال والعقود التي تتم لحساب الشركة.",
+    "target_en_norm": "disclosing any direct or indirect interest he has in the transactions conducted and the contracts concluded for the company’s account; and",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40261,
+    "source_ar": "ز- عدم قبول أي منفعة ممنوحة له من الغير فيما له علاقة بدوره في الشركة.",
+    "target_en": "not accepting any benefit granted thereto by third parties in relation to his role in the company.",
+    "source_ar_norm": "ز- عدم قبول اي منفعة ممنوحة له من الغير فيما له علاقة بدوره في الشركة.",
+    "target_en_norm": "not accepting any benefit granted thereto by third parties in relation to his role in the company.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40262,
+    "source_ar": "وتحدد اللوائح الأحكام الخاصة بهذه المادة.",
+    "target_en": "The Regulations shall determine the provisions related to this Article.",
+    "source_ar_norm": "وتحدد اللوائح الاحكام الخاصة بهذه المادة.",
+    "target_en_norm": "the regulations shall determine the provisions related to this article.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40263,
+    "source_ar": "المادة السابعة والعشرون: تعارض المصالح والمنافسة واستغلال الأصول",
+    "target_en": "Article 27: Conflict of Interest, Competition, and Exploitation of Assets",
+    "source_ar_norm": "المادة السابعة والعشرون: تعارض المصالح والمنافسة واستغلال الاصول",
+    "target_en_norm": "article 27: conflict of interest, competition, and exploitation of assets",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40264,
+    "source_ar": "1. لا يجوز لمدير الشركة، ولا لعضو مجلس إدارتها، أن تكون له أي مصلحة مباشرة أو غير مباشرة في الأعمال والعقود التي تتم لحساب الشركة، إلا بترخيص من الشركاء أو الجمعية العامة أو المساهمين أو من يفوضونه.",
+    "target_en": "A company’s manager or board member may not have any direct or indirect interest in the transactions conducted and contracts concluded for the company’s account without the authorization of the partners, general assembly, or shareholders or their designees.",
+    "source_ar_norm": "1. لا يجوز لمدير الشركة، ولا لعضو مجلس ادارتها، ان تكون له اي مصلحة مباشرة او غير مباشرة في الاعمال والعقود التي تتم لحساب الشركة، الا بترخيص من الشركاء او الجمعية العامة او المساهمين او من يفوضونه.",
+    "target_en_norm": "a company’s manager or board member may not have any direct or indirect interest in the transactions conducted and contracts concluded for the company’s account without the authorization of the partners, general assembly, or shareholders or their designees.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40265,
+    "source_ar": "2. لا يجوز لمدير الشركة، ولا لعضو مجلس إدارتها، أن يشترك في أي عمل من شأنه منافسة الشركة أو أن ينافس الشركة في أي من فروع النشاط الذي تزاوله، إلا بترخيص من الشركاء أو الجمعية العامة أو المساهمين أو من يفوضونه.",
+    "target_en": "A company’s manager or board member may not engage in any business that may compete with the company or with any of its activities without the authorization of the partners, general assembly, or shareholders or their designees.",
+    "source_ar_norm": "2. لا يجوز لمدير الشركة، ولا لعضو مجلس ادارتها، ان يشترك في اي عمل من شانه منافسة الشركة او ان ينافس الشركة في اي من فروع النشاط الذي تزاوله، الا بترخيص من الشركاء او الجمعية العامة او المساهمين او من يفوضونه.",
+    "target_en_norm": "a company’s manager or board member may not engage in any business that may compete with the company or with any of its activities without the authorization of the partners, general assembly, or shareholders or their designees.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40266,
+    "source_ar": "3. لا يجوز لمدير الشركة، ولا لعضو مجلس إدارتها، استغلال أصول الشركة أو معلوماتها أو الفرص الاستثمارية المعروضة عليه بصفته مديرًا أو عضوًا في مجلس إدارتها أو المعروضة على الشركة لتحقيق مصلحة له مباشرة أو غير مباشرة.",
+    "target_en": "A company’s manager or board member may not exploit the company’s assets or information or any investment opportunity offered to the company or to him in his capacity as a manager or board member for his benefit whether directly or indirectly.",
+    "source_ar_norm": "3. لا يجوز لمدير الشركة، ولا لعضو مجلس ادارتها، استغلال اصول الشركة او معلوماتها او الفرص الاستثمارية المعروضة عليه بصفته مديرا او عضوا في مجلس ادارتها او المعروضة علي الشركة لتحقيق مصلحة له مباشرة او غير مباشرة.",
+    "target_en_norm": "a company’s manager or board member may not exploit the company’s assets or information or any investment opportunity offered to the company or to him in his capacity as a manager or board member for his benefit whether directly or indirectly.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40267,
+    "source_ar": "4. تحدد اللوائح الضوابط اللازمة لتنفيذ ما ورد في الفقرات (1) و(2) و(3) من هذه المادة.",
+    "target_en": "The Regulations shall specify the rules necessary for the implementation of paragraphs (1), (2), and (3) of this Article.",
+    "source_ar_norm": "4. تحدد اللوائح الضوابط اللازمة لتنفيذ ما ورد في الفقرات (1) و(2) و(3) من هذه المادة.",
+    "target_en_norm": "the regulations shall specify the rules necessary for the implementation of paragraphs (1), (2), and (3) of this article.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40268,
+    "source_ar": "5. لا يسري حكم الفقرة (1) من هذه المادة على الآتي:",
+    "target_en": "Paragraph (1) of this Article shall not apply to the following:",
+    "source_ar_norm": "5. لا يسري حكم الفقرة (1) من هذه المادة علي الاتي:",
+    "target_en_norm": "paragraph (1) of this article shall not apply to the following:",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40269,
+    "source_ar": "أ- الأعمال والعقود التي تتم وفقًا لمنافسة عامة.",
+    "target_en": "Transactions conducted and contracts concluded pursuant to public tenders.",
+    "source_ar_norm": "ا- الاعمال والعقود التي تتم وفقا لمنافسة عامة.",
+    "target_en_norm": "transactions conducted and contracts concluded pursuant to public tenders.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40270,
+    "source_ar": "ب- الأعمال والعقود التي تهدف إلى تلبية الاحتياجات الشخصية إذا تمت بالأوضاع والشروط نفسها التي تتبعها الشركة مع عموم المتعاملين والمتعاقدين وكانت ضمن نشاط الشركة المعتاد.",
+    "target_en": "Transactions and contracts that aim to meet personal needs if they are carried out under the same terms and conditions the company applies to all persons and contractors it deals with and are within the company’s regular activities.",
+    "source_ar_norm": "ب- الاعمال والعقود التي تهدف الي تلبية الاحتياجات الشخصية اذا تمت بالاوضاع والشروط نفسها التي تتبعها الشركة مع عموم المتعاملين والمتعاقدين وكانت ضمن نشاط الشركة المعتاد.",
+    "target_en_norm": "transactions and contracts that aim to meet personal needs if they are carried out under the same terms and conditions the company applies to all persons and contractors it deals with and are within the company’s regular activities.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40271,
+    "source_ar": "ج- أي أعمال أو عقود أخرى تحددها اللوائح بما لا يتعارض مع مصلحة الشركة.",
+    "target_en": "Any other transactions or contracts specified by the Regulations which are not inconsistent with the company’s interest.",
+    "source_ar_norm": "ج- اي اعمال او عقود اخري تحددها اللوائح بما لا يتعارض مع مصلحة الشركة.",
+    "target_en_norm": "any other transactions or contracts specified by the regulations which are not inconsistent with the company’s interest.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40272,
+    "source_ar": "6. يحق للشركة في حال مخالفة مديرها أو عضو مجلس إدارتها الفقرة (1) من هذه المادة، المطالبة أمام الجهة القضائية المختصة بإبطال العقد، وإلزامه بأداء أي ربح أو منفعة تحققت له من ذلك.",
+    "target_en": "If the company’s manager or a board member violates paragraph (1) of this Article, the company may petition the competent judicial authority to invalidate the contract and order him to return any profit or benefits realized from such violation.",
+    "source_ar_norm": "6. يحق للشركة في حال مخالفة مديرها او عضو مجلس ادارتها الفقرة (1) من هذه المادة، المطالبة امام الجهة القضائية المختصة بابطال العقد، والزامه باداء اي ربح او منفعة تحققت له من ذلك.",
+    "target_en_norm": "if the company’s manager or a board member violates paragraph (1) of this article, the company may petition the competent judicial authority to invalidate the contract and order him to return any profit or benefits realized from such violation.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40273,
+    "source_ar": "7. يحق للشركة في حال مخالفة مديرها أو عضو مجلس إدارتها الفقرة (2) من هذه المادة، المطالبة أمام الجهة القضائية المختصة بالتعويض المناسب.",
+    "target_en": "If the company’s manager or a board member violates paragraph (2) of this Article, the company may petition the competent judicial authority for appropriate compensation.",
+    "source_ar_norm": "7. يحق للشركة في حال مخالفة مديرها او عضو مجلس ادارتها الفقرة (2) من هذه المادة، المطالبة امام الجهة القضائية المختصة بالتعويض المناسب.",
+    "target_en_norm": "if the company’s manager or a board member violates paragraph (2) of this article, the company may petition the competent judicial authority for appropriate compensation.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40274,
+    "source_ar": "المادة الثامنة والعشرون: مسؤولية الإدارة",
+    "target_en": "Article 28: Liability of Company Management",
+    "source_ar_norm": "المادة الثامنة والعشرون: مسؤولية الادارة",
+    "target_en_norm": "article 28: liability of company management",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40275,
+    "source_ar": "1. يكون المدير وأعضاء مجلس الإدارة مسؤولين بالتضامن عن تعويض الشركة أو الشركاء أو المساهمين أو الغير عن الضرر الذي ينشأ بسبب مخالفة أحكام النظام أو عقد تأسيس الشركة أو نظامها الأساس، أو بسبب ما يصدر منهم من أخطاء أو إهمال أو تقصير في أداء أعمالهم. وكل شرط يقضي بغير ذلك يعد كأن لم يكن.",
+    "target_en": "The company’s manager and board members shall be jointly and severally liable for any damage incurred by the company, partners, shareholders, or third parties resulting from the violation of this Law or the company’s articles of incorporation or articles of association or from a wrongful act, negligence, or omission in the performance of their duties. Any condition contrary to this provision shall be deemed null and void.",
+    "source_ar_norm": "1. يكون المدير واعضاء مجلس الادارة مسؤولين بالتضامن عن تعويض الشركة او الشركاء او المساهمين او الغير عن الضرر الذي ينشا بسبب مخالفة احكام النظام او عقد تاسيس الشركة او نظامها الاساس، او بسبب ما يصدر منهم من اخطاء او اهمال او تقصير في اداء اعمالهم. وكل شرط يقضي بغير ذلك يعد كان لم يكن.",
+    "target_en_norm": "the company’s manager and board members shall be jointly and severally liable for any damage incurred by the company, partners, shareholders, or third parties resulting from the violation of this law or the company’s articles of incorporation or articles of association or from a wrongful act, negligence, or omission in the performance of their duties. any condition contrary to this provision shall be deemed null and void.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40276,
+    "source_ar": "2. تكون المسؤولية إما شخصية تلحق مديرًا أو عضوًا بذاته، أو مشتركة على جميع المديرين أو جميع أعضاء مجلس الإدارة إذا كان القرار صادرًا بإجماعهم، وإذا صدر القرار بأغلبية الآراء فلا يسأل المديرون أو الأعضاء المعارضون متى أثبتوا اعتراضهم صراحة في محضر الاجتماع. ولا يعد الغياب عن حضور الاجتماع الذي يصدر فيه القرار سببًا للإعفاء من المسؤولية إلا إذا ثبت عدم علم المدير أو العضو الغائب بالقرار أو عدم تمكنه من الاعتراض عليه بعد علمه به.",
+    "target_en": "Liability of company managers or board members shall be either personal or joint. Joint liability shall be incurred by all managers or board members if the decision subject of the liability is unanimously voted thereon; if, however, the decision is passed by majority vote, objecting managers or board members shall not be held liable if their objection is explicitly recorded in the meeting minutes. Absence from the meeting at which the decision is issued shall not exempt the absentee from liability, unless it is established that he was not aware of the decision or was unable to object to it after becoming aware of it.",
+    "source_ar_norm": "2. تكون المسؤولية اما شخصية تلحق مديرا او عضوا بذاته، او مشتركة علي جميع المديرين او جميع اعضاء مجلس الادارة اذا كان القرار صادرا باجماعهم، واذا صدر القرار باغلبية الاراء فلا يسال المديرون او الاعضاء المعارضون متي اثبتوا اعتراضهم صراحة في محضر الاجتماع. ولا يعد الغياب عن حضور الاجتماع الذي يصدر فيه القرار سببا للاعفاء من المسؤولية الا اذا ثبت عدم علم المدير او العضو الغائب بالقرار او عدم تمكنه من الاعتراض عليه بعد علمه به.",
+    "target_en_norm": "liability of company managers or board members shall be either personal or joint. joint liability shall be incurred by all managers or board members if the decision subject of the liability is unanimously voted thereon; if, however, the decision is passed by majority vote, objecting managers or board members shall not be held liable if their objection is explicitly recorded in the meeting minutes. absence from the meeting at which the decision is issued shall not exempt the absentee from liability, unless it is established that he was not aware of the decision or was unable to object to it after becoming aware of it.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40277,
+    "source_ar": "3. للشركة أن توفر تغطية تأمينية لمديرها أو عضو مجلس إدارتها خلال مدة عمله أو عضويته ضد أي مسؤولية أو مطالبة تنشأ بسبب صفته.",
+    "target_en": "The company may provide liability insurance coverage for its manager or a board member during the term of service or membership against any claim made against him in his capacity as a manager or board member.",
+    "source_ar_norm": "3. للشركة ان توفر تغطية تامينية لمديرها او عضو مجلس ادارتها خلال مدة عمله او عضويته ضد اي مسؤولية او مطالبة تنشا بسبب صفته.",
+    "target_en_norm": "the company may provide liability insurance coverage for its manager or a board member during the term of service or membership against any claim made against him in his capacity as a manager or board member.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40278,
+    "source_ar": "المادة التاسعة والعشرون: دعوى الشركة والشريك أو المساهم",
+    "target_en": "Article 29: Legal Action Initiated by Companies, Partners, or Shareholders",
+    "source_ar_norm": "المادة التاسعة والعشرون: دعوي الشركة والشريك او المساهم",
+    "target_en_norm": "article 29: legal action initiated by companies, partners, or shareholders",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40279,
+    "source_ar": "1. للشركة أن ترفع دعوى المسؤولية على المدير أو أعضاء مجلس الإدارة بسبب مخالفة أحكام النظام أو عقد تأسيس الشركة أو نظامها الأساس، أو بسبب ما يصدر منهم من أخطاء أو إهمال أو تقصير في أداء أعمالهم، وينشأ عنها أضرار على الشركة، ويقرر الشركاء أو الجمعية العامة أو المساهمون رفع هذه الدعوى وتعيين من ينوب عن الشركة في مباشرتها. وإذا كانت الشركة في دور التصفية تولى المصفي رفع الدعوى. وفي حال افتتاح أيّ من إجراءات التصفية تجاه الشركة وفقًا لنظام الإفلاس، يكون رفع هذه الدعوى ممن يمثلها نظامًا.",
+    "target_en": "A company may initiate a derivative action against a manager or board members for any damage incurred by the company resulting from the violation of this Law or the company’s articles of incorporation or articles of association or from a wrongful act, negligence, or omission in the performance of their duties. The decision to initiate the action and to designate a representative on behalf of the company to pursue such action shall be made by the partners, general assembly, or shareholders. If the company is under liquidation, the liquidator shall initiate the action. If any liquidation proceedings are initiated against the company under the Bankruptcy Law, the action shall be initiated by its legal representative.",
+    "source_ar_norm": "1. للشركة ان ترفع دعوي المسؤولية علي المدير او اعضاء مجلس الادارة بسبب مخالفة احكام النظام او عقد تاسيس الشركة او نظامها الاساس، او بسبب ما يصدر منهم من اخطاء او اهمال او تقصير في اداء اعمالهم، وينشا عنها اضرار علي الشركة، ويقرر الشركاء او الجمعية العامة او المساهمون رفع هذه الدعوي وتعيين من ينوب عن الشركة في مباشرتها. واذا كانت الشركة في دور التصفية تولي المصفي رفع الدعوي. وفي حال افتتاح اي من اجراءات التصفية تجاه الشركة وفقا لنظام الافلاس، يكون رفع هذه الدعوي ممن يمثلها نظاما.",
+    "target_en_norm": "a company may initiate a derivative action against a manager or board members for any damage incurred by the company resulting from the violation of this law or the company’s articles of incorporation or articles of association or from a wrongful act, negligence, or omission in the performance of their duties. the decision to initiate the action and to designate a representative on behalf of the company to pursue such action shall be made by the partners, general assembly, or shareholders. if the company is under liquidation, the liquidator shall initiate the action. if any liquidation proceedings are initiated against the company under the bankruptcy law, the action shall be initiated by its legal representative.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40280,
+    "source_ar": "2. يجوز لشريك أو مساهم أو أكثر يمثلون (خمسة في المائة) من رأس مال الشركة، ما لم ينص عقد تأسيس الشركة أو نظامها الأساس على نسبة أقل، رفع دعوى المسؤولية المقررة للشركة في حال عدم قيام الشركة برفعها، مع مراعاة أن يكون الهدف الأساس من رفع الدعوى تحقيق مصالح الشركة، وأن تكون الدعوى قائمة على أساس صحيح، وأن يكون المدعي حسن النية، وشريكًا أو مساهمًا في الشركة وقت رفع الدعوى.",
+    "target_en": "A single partner or shareholder, or more, representing 5% of the company’s capital, unless the company’s articles of incorporation or articles of association stipulate a lower percentage, may initiate a derivative action on behalf of the company if such action is not initiated by the company, provided the action serves the interests of the company and is based on valid grounds, and the plaintiff is acting in good faith and is a partner or shareholder in the company at the time of initiating the action.",
+    "source_ar_norm": "2. يجوز لشريك او مساهم او اكثر يمثلون (خمسة في المائة) من راس مال الشركة، ما لم ينص عقد تاسيس الشركة او نظامها الاساس علي نسبة اقل، رفع دعوي المسؤولية المقررة للشركة في حال عدم قيام الشركة برفعها، مع مراعاة ان يكون الهدف الاساس من رفع الدعوي تحقيق مصالح الشركة، وان تكون الدعوي قائمة علي اساس صحيح، وان يكون المدعي حسن النية، وشريكا او مساهما في الشركة وقت رفع الدعوي.",
+    "target_en_norm": "a single partner or shareholder, or more, representing 5% of the company’s capital, unless the company’s articles of incorporation or articles of association stipulate a lower percentage, may initiate a derivative action on behalf of the company if such action is not initiated by the company, provided the action serves the interests of the company and is based on valid grounds, and the plaintiff is acting in good faith and is a partner or shareholder in the company at the time of initiating the action.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40281,
+    "source_ar": "3. يشترط لرفع الدعوى المشار إليها في الفقرة (2) من هذه المادة؛ إبلاغ مدير الشركة أو أعضاء مجلس إدارتها -بحسب الأحوال- بالعزم على رفع الدعوى قبل (أربعة عشر) يومًا على الأقل من تاريخ رفعها.",
+    "target_en": "To initiate the action referred to in paragraph (2) of this Article, the company’s manager or board members, as the case may be, shall be notified of the intent to initiate the action at least 14 days prior to the initiation date.",
+    "source_ar_norm": "3. يشترط لرفع الدعوي المشار اليها في الفقرة (2) من هذه المادة؛ ابلاغ مدير الشركة او اعضاء مجلس ادارتها -بحسب الاحوال- بالعزم علي رفع الدعوي قبل (اربعة عشر) يوما علي الاقل من تاريخ رفعها.",
+    "target_en_norm": "to initiate the action referred to in paragraph (2) of this article, the company’s manager or board members, as the case may be, shall be notified of the intent to initiate the action at least 14 days prior to the initiation date.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40282,
+    "source_ar": "4. للشريك أو المساهم رفع دعواه الشخصية على المدير أو أعضاء مجلس الإدارة إذا كان من شأن الخطأ الذي صدر منهم إلحاق ضرر خاص به.",
+    "target_en": "A partner or shareholder may initiate a private right of action against the manager or board members if the wrongful act attributed thereto results in a damage personally affecting him.",
+    "source_ar_norm": "4. للشريك او المساهم رفع دعواه الشخصية علي المدير او اعضاء مجلس الادارة اذا كان من شان الخطا الذي صدر منهم الحاق ضرر خاص به.",
+    "target_en_norm": "a partner or shareholder may initiate a private right of action against the manager or board members if the wrongful act attributed thereto results in a damage personally affecting him.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40283,
+    "source_ar": "المادة الثلاثون: عدم سماع الدعوى",
+    "target_en": "Article 30: Hearing of a Lawsuit",
+    "source_ar_norm": "المادة الثلاثون: عدم سماع الدعوي",
+    "target_en_norm": "article 30: hearing of a lawsuit",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40284,
+    "source_ar": "1. لا تحول موافقة الشركاء أو الجمعية العامة أو المساهمين -بحسب الأحوال- على إبراء ذمة المدير أو أعضاء مجلس الإدارة دون إقامة الدعاوى وفقًا للمادة (التاسعة والعشرين) من النظام.",
+    "target_en": "The approval of the partners, general assembly, or shareholders, as the case may be, to relieve the manager or board members from liability shall not preclude the initiation of the legal actions referred to in Article 29 of this Law.",
+    "source_ar_norm": "1. لا تحول موافقة الشركاء او الجمعية العامة او المساهمين -بحسب الاحوال- علي ابراء ذمة المدير او اعضاء مجلس الادارة دون اقامة الدعاوي وفقا للمادة (التاسعة والعشرين) من النظام.",
+    "target_en_norm": "the approval of the partners, general assembly, or shareholders, as the case may be, to relieve the manager or board members from liability shall not preclude the initiation of the legal actions referred to in article 29 of this law.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40285,
+    "source_ar": "2. فيما عدا حالتي التزوير والاحتيال، لا تسمع دعوى المسؤولية بعد مضي (خمس) سنوات من تاريخ انتهاء السنة المالية للشركة التي وقع فيها الفعل الضار أو (ثلاث) سنوات من انتهاء عمل المدير أو عضوية العضو في مجلس الإدارة المعني، أيهما أبعد.",
+    "target_en": "Except for cases of forgery and fraud, a derivative action shall not be heard upon the lapse of five years from the end of the fiscal year in which the act resulting in damage was committed, or upon the lapse of three years from the end of the manager’s term of service or board member’s term of membership, whichever is later.",
+    "source_ar_norm": "2. فيما عدا حالتي التزوير والاحتيال، لا تسمع دعوي المسؤولية بعد مضي (خمس) سنوات من تاريخ انتهاء السنة المالية للشركة التي وقع فيها الفعل الضار او (ثلاث) سنوات من انتهاء عمل المدير او عضوية العضو في مجلس الادارة المعني، ايهما ابعد.",
+    "target_en_norm": "except for cases of forgery and fraud, a derivative action shall not be heard upon the lapse of five years from the end of the fiscal year in which the act resulting in damage was committed, or upon the lapse of three years from the end of the manager’s term of service or board member’s term of membership, whichever is later.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40286,
+    "source_ar": "المادة الحادية والثلاثون: قاعدة تقييم القرارات",
+    "target_en": "Article 31: Business Judgment Rule",
+    "source_ar_norm": "المادة الحادية والثلاثون: قاعدة تقييم القرارات",
+    "target_en_norm": "article 31: business judgment rule",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40287,
+    "source_ar": "يعد مدير الشركة أو عضو مجلس إدارتها قد أدى واجبه في القرار الذي اتخذه أو صوت عليه بحسن نية، في حال تحقق الآتي:",
+    "target_en": "The company’s manager or a board member shall be deemed to have fulfilled his duty in a decision he made or voted on in good faith if he:",
+    "source_ar_norm": "يعد مدير الشركة او عضو مجلس ادارتها قد ادي واجبه في القرار الذي اتخذه او صوت عليه بحسن نية، في حال تحقق الاتي:",
+    "target_en_norm": "the company’s manager or a board member shall be deemed to have fulfilled his duty in a decision he made or voted on in good faith if he:",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40288,
+    "source_ar": "أ- إذا لم يكن له مصلحة في موضوع القرار.",
+    "target_en": "has no personal interest in the subject matter of the decision;",
+    "source_ar_norm": "ا- اذا لم يكن له مصلحة في موضوع القرار.",
+    "target_en_norm": "has no personal interest in the subject matter of the decision;",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40289,
+    "source_ar": "ب- إذا أحاط وألم بموضوع القرار إلى الحد المناسب في الظروف المحيطة وفق اعتقاده المعقول.",
+    "target_en": "understands and is familiar with the subject matter of the decision to an extent he deems reasonable according to the circumstances of the decision; and",
+    "source_ar_norm": "ب- اذا احاط والم بموضوع القرار الي الحد المناسب في الظروف المحيطة وفق اعتقاده المعقول.",
+    "target_en_norm": "understands and is familiar with the subject matter of the decision to an extent he deems reasonable according to the circumstances of the decision; and",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40290,
+    "source_ar": "ج- إذا اعتقد جازمًا وبعقلانية أن القرار يحقق مصالح الشركة.",
+    "target_en": "believes firmly and rationally that the decision serves the company’s interests.",
+    "source_ar_norm": "ج- اذا اعتقد جازما وبعقلانية ان القرار يحقق مصالح الشركة.",
+    "target_en_norm": "believes firmly and rationally that the decision serves the company’s interests.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40291,
+    "source_ar": "ويقع عبء إثبات خلاف ذلك على المدعي. ويقصد بالقرار لأغراض هذه المادة التصرف أو عدم التصرف في أمر يتعلق بأعمال الشركة.",
+    "target_en": "The burden of proving otherwise shall rest with the plaintiff. For the purposes of this Article, a decision shall refer to an action or omission relating to the company’s business.",
+    "source_ar_norm": "ويقع عبء اثبات خلاف ذلك علي المدعي. ويقصد بالقرار لاغراض هذه المادة التصرف او عدم التصرف في امر يتعلق باعمال الشركة.",
+    "target_en_norm": "the burden of proving otherwise shall rest with the plaintiff. for the purposes of this article, a decision shall refer to an action or omission relating to the company’s business.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40292,
+    "source_ar": "المادة الثانية والثلاثون: نفقات إقامة دعوى المسؤولية",
+    "target_en": "Article 32: Expenses of Initiating Derivative Action",
+    "source_ar_norm": "المادة الثانية والثلاثون: نفقات اقامة دعوي المسؤولية",
+    "target_en_norm": "article 32: expenses of initiating derivative action",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40293,
+    "source_ar": "للجهة القضائية المختصة بناء على طلب الشريك أو المساهم تحميل الشركة النفقات التي تكلفها لإقامة دعوى المسؤولية أيًا كانت نتيجتها، إذا أقام الدعوى بحسن نية، وكان من مصلحة الشركة إقامة هذه الدعوى.",
+    "target_en": "The competent judicial authority may, at the request of a partner or shareholder, order the company to pay the expenses he incurred in the initiation of a derivative action, regardless of its outcome, if he initiates the action in good faith and such action is in the interest of the company.",
+    "source_ar_norm": "للجهة القضائية المختصة بناء علي طلب الشريك او المساهم تحميل الشركة النفقات التي تكلفها لاقامة دعوي المسؤولية ايا كانت نتيجتها، اذا اقام الدعوي بحسن نية، وكان من مصلحة الشركة اقامة هذه الدعوي.",
+    "target_en_norm": "the competent judicial authority may, at the request of a partner or shareholder, order the company to pay the expenses he incurred in the initiation of a derivative action, regardless of its outcome, if he initiates the action in good faith and such action is in the interest of the company.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40294,
+    "source_ar": "المادة الثالثة والثلاثون: التنفيذ على أرباح الشريك أو المساهم",
+    "target_en": "Article 33: Enforcement against Partners or Shareholders Profits",
+    "source_ar_norm": "المادة الثالثة والثلاثون: التنفيذ علي ارباح الشريك او المساهم",
+    "target_en_norm": "article 33: enforcement against partners or shareholders profits",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40295,
+    "source_ar": "للدائن الشخصي للشريك أو المساهم أن يطلب من الجهة القضائية المختصة أن يتقاضى حقه من نصيب الشريك أو المساهم المدين في صافي الأرباح الموزعة. فإذا انقضت الشركة انتقل حق الدائن إلى نصيب مدينه فيما يفيض من أموالها بعد سداد ديونها.",
+    "target_en": "A personal creditor of a partner or shareholder may petition the competent judicial authority to satisfy the debt using the interests of the indebted partner or shareholder in the net profit distributed. Upon termination of the company, the creditor’s claim shall be satisfied using the debtor’s interests in the remainder of the company’s assets after settling the company’s debts.",
+    "source_ar_norm": "للدائن الشخصي للشريك او المساهم ان يطلب من الجهة القضائية المختصة ان يتقاضي حقه من نصيب الشريك او المساهم المدين في صافي الارباح الموزعة. فاذا انقضت الشركة انتقل حق الدائن الي نصيب مدينه فيما يفيض من اموالها بعد سداد ديونها.",
+    "target_en_norm": "a personal creditor of a partner or shareholder may petition the competent judicial authority to satisfy the debt using the interests of the indebted partner or shareholder in the net profit distributed. upon termination of the company, the creditor’s claim shall be satisfied using the debtor’s interests in the remainder of the company’s assets after settling the company’s debts.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40296,
+    "source_ar": "المادة الرابعة والثلاثون: التنفيذ على الحصص والأسهم",
+    "target_en": "Article 34: Enforcement against Interests and Shares",
+    "source_ar_norm": "المادة الرابعة والثلاثون: التنفيذ علي الحصص والاسهم",
+    "target_en_norm": "article 34: enforcement against interests and shares",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40297,
+    "source_ar": "مع مراعاة أحكام نظام ضمان الحقوق بالأموال المنقولة، والأنظمة الأخرى ذات العلاقة، للدائن الشخصي للشريك أو المساهم -فضلًا عن الحق المشار إليه في المادة (الثالثة والثلاثين) من النظام- أن يطلب من الجهة القضائية المختصة ما يأتي:",
+    "target_en": "Subject to the Movable Property Security Law and other relevant laws, the personal creditor of a partner or shareholder may, in addition to the rights provided for in Article 33 of this Law, petition the competent judicial authority to:",
+    "source_ar_norm": "مع مراعاة احكام نظام ضمان الحقوق بالاموال المنقولة، والانظمة الاخري ذات العلاقة، للدائن الشخصي للشريك او المساهم -فضلا عن الحق المشار اليه في المادة (الثالثة والثلاثين) من النظام- ان يطلب من الجهة القضائية المختصة ما ياتي:",
+    "target_en_norm": "subject to the movable property security law and other relevant laws, the personal creditor of a partner or shareholder may, in addition to the rights provided for in article 33 of this law, petition the competent judicial authority to:",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40298,
+    "source_ar": "أ- بيع ما يلزم من حصص ذلك الشريك ليتقاضى حقه من حصيلة بيعها، ويكون لباقي الشركاء الحق في استرداد تلك الحصص وفقًا لأحكام النظام.",
+    "target_en": "a) sell a sum of the partner’s interests enough to satisfy his debt. The other partners may recover such interests in accordance with the provisions of this Law; and",
+    "source_ar_norm": "ا- بيع ما يلزم من حصص ذلك الشريك ليتقاضي حقه من حصيلة بيعها، ويكون لباقي الشركاء الحق في استرداد تلك الحصص وفقا لاحكام النظام.",
+    "target_en_norm": "a) sell a sum of the partner’s interests enough to satisfy his debt. the other partners may recover such interests in accordance with the provisions of this law; and",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40299,
+    "source_ar": "ب- بيع ما يلزم من أسهم ذلك المساهم ليتقاضى حقه من حصيلة بيعها. ويكون للمساهمين -في شركة المساهمة غير المدرجة في السوق المالية وشركة المساهمة المبسطة- الأولوية في شراء تلك الأسهم خلال (خمسة عشر) يومًا من تاريخ عرضها للبيع إذا نص نظام الشركة الأساس على ذلك.",
+    "target_en": "b) sell a sum of the shareholder’s shares enough to satisfy his debt. The shareholders in an unlisted joint-stock company and a simplified joint-stock company shall, if provided for in the company’s articles of association, have a preemptive right to purchase the shares within 15 days from the date they are offered for sale.",
+    "source_ar_norm": "ب- بيع ما يلزم من اسهم ذلك المساهم ليتقاضي حقه من حصيلة بيعها. ويكون للمساهمين -في شركة المساهمة غير المدرجة في السوق المالية وشركة المساهمة المبسطة- الاولوية في شراء تلك الاسهم خلال (خمسة عشر) يوما من تاريخ عرضها للبيع اذا نص نظام الشركة الاساس علي ذلك.",
+    "target_en_norm": "b) sell a sum of the shareholder’s shares enough to satisfy his debt. the shareholders in an unlisted joint-stock company and a simplified joint-stock company shall, if provided for in the company’s articles of association, have a preemptive right to purchase the shares within 15 days from the date they are offered for sale.",
+    "file_name": "نظام الشركات (جديد).docx"
+  },
+  {
+    "id": 40300,
+    "source_ar": "الباب الثاني: شركة التضامن",
+    "target_en": "Part 2: General Partnerships",
+    "source_ar_norm": "الباب الثاني: شركة التضامن",
+    "target_en_norm": "part 2: general partnerships",
+    "file_name": "نظام الشركات (جديد).docx"
+  }
+]

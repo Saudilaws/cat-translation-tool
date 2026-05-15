@@ -1,0 +1,802 @@
+[
+  {
+    "id": 41801,
+    "source_ar": "1- يلتزم المساهم بدفع قيمة السهم في المواعيد المعينة لذلك، وإذا تخلف عن الوفاء في ميعاد الاستحقاق، جاز لمجلس الإدارة - بعد إعلامه بالطرق المقررة في نظام الشركة الأساس أو إبلاغه بخطاب مسجل - بيع السهم في المزاد العلني أو سوق الأوراق المالية - بحسب الأحوال - وفقاً للضوابط التي تحددها الجهة المختصة.",
+    "target_en": "1. A shareholder shall pay the value of the share on designated dates. If he fails to do so, the board of directors may, after notifying him in the manner prescribed in the company’s articles of association or by registered mail, sell the share at a public auction or in the capital market, as the case may be, in accordance with rules set by the Competent Authority.",
+    "source_ar_norm": "1- يلتزم المساهم بدفع قيمة السهم في المواعيد المعينة لذلك، واذا تخلف عن الوفاء في ميعاد الاستحقاق، جاز لمجلس الادارة - بعد اعلامه بالطرق المقررة في نظام الشركة الاساس او ابلاغه بخطاب مسجل - بيع السهم في المزاد العلني او سوق الاوراق المالية - بحسب الاحوال - وفقا للضوابط التي تحددها الجهة المختصة.",
+    "target_en_norm": "1. a shareholder shall pay the value of the share on designated dates. if he fails to do so, the board of directors may, after notifying him in the manner prescribed in the company’s articles of association or by registered mail, sell the share at a public auction or in the capital market, as the case may be, in accordance with rules set by the competent authority.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41802,
+    "source_ar": "2- تستوفي الشركة من حصيلة البيع المبالغ المستحقة لها وترد الباقي إلى صاحب السهم. وإذا لم تكف حصيلة البيع للوفاء بهذه المبالغ، جاز للشركة أن تستوفي الباقي من جميع أموال المساهم.",
+    "target_en": "2. The company shall receive the amounts due thereto from the sale proceeds and shall return any remaining amount to the shareholder. If the sale proceeds are insufficient to satisfy the due amounts, the company may satisfy such amounts from the shareholder.",
+    "source_ar_norm": "2- تستوفي الشركة من حصيلة البيع المبالغ المستحقة لها وترد الباقي الي صاحب السهم. واذا لم تكف حصيلة البيع للوفاء بهذه المبالغ، جاز للشركة ان تستوفي الباقي من جميع اموال المساهم.",
+    "target_en_norm": "2. the company shall receive the amounts due thereto from the sale proceeds and shall return any remaining amount to the shareholder. if the sale proceeds are insufficient to satisfy the due amounts, the company may satisfy such amounts from the shareholder.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41803,
+    "source_ar": "3- يجوز للمساهم المتخلف عن الدفع إلى يوم البيع دفع القيمة المستحقة عليه مضافاً إليها المصروفات التي أنفقتها الشركة في هذا الشأن.",
+    "target_en": "3. A shareholder in default up to the sale date may pay the due amount, in addition to any related expenses incurred by the company.",
+    "source_ar_norm": "3- يجوز للمساهم المتخلف عن الدفع الي يوم البيع دفع القيمة المستحقة عليه مضافا اليها المصروفات التي انفقتها الشركة في هذا الشان.",
+    "target_en_norm": "3. a shareholder in default up to the sale date may pay the due amount, in addition to any related expenses incurred by the company.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41804,
+    "source_ar": "4- تلغي الشركة السهم المبيع وفقاً لأحكام هذه المادة، وتعطي المشتري سهماً جديداً يحمل رقم السهم الملغى، وتؤشر في سجل الأسهم بوقوع البيع مع بيان اسم المالك الجديد.",
+    "target_en": "4. The company shall cancel the share sold in accordance with the provisions of this Article, and shall give the purchaser a new share carrying the number of the cancelled share. The sale shall be entered into the share register along with the name of the new holder.",
+    "source_ar_norm": "4- تلغي الشركة السهم المبيع وفقا لاحكام هذه المادة، وتعطي المشتري سهما جديدا يحمل رقم السهم الملغي، وتؤشر في سجل الاسهم بوقوع البيع مع بيان اسم المالك الجديد.",
+    "target_en_norm": "4. the company shall cancel the share sold in accordance with the provisions of this article, and shall give the purchaser a new share carrying the number of the cancelled share. the sale shall be entered into the share register along with the name of the new holder.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41805,
+    "source_ar": "المادة الثامنة عشرة بعد المائة:",
+    "target_en": "Article 118",
+    "source_ar_norm": "المادة الثامنة عشرة بعد المائة:",
+    "target_en_norm": "article 118",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41806,
+    "source_ar": "لا يجوز للشركة أن تطالب المساهم بدفع مبالغ تزيد على مقدار ما التزم به عند إصدار السهم، ولو نص نظام الشركة الأساس على غير ذلك. ولا يجوز للمساهم أن يطلب استرداد حصته في رأس مال الشركة. ولا يجوز للشركة إبراء ذمة المساهم من الالتزام بدفع باقي قيمة السهم، ولا تقع المقاصة بين هذا الالتزام وما يكون للمساهم من حقـوق على الشركة.",
+    "target_en": "The company may not request the shareholder to pay any amount other than the amount determined upon issuing the share, even if the company’s articles of association stipulate otherwise. A shareholder may not request refund of his share in the company’s capital. The company may not discharge the shareholder from liability to pay the remaining value of the share. Payment of such remaining value may not be offset by the shareholder’s rights granted by the company.",
+    "source_ar_norm": "لا يجوز للشركة ان تطالب المساهم بدفع مبالغ تزيد علي مقدار ما التزم به عند اصدار السهم، ولو نص نظام الشركة الاساس علي غير ذلك. ولا يجوز للمساهم ان يطلب استرداد حصته في راس مال الشركة. ولا يجوز للشركة ابراء ذمة المساهم من الالتزام بدفع باقي قيمة السهم، ولا تقع المقاصة بين هذا الالتزام وما يكون للمساهم من حقوق علي الشركة.",
+    "target_en_norm": "the company may not request the shareholder to pay any amount other than the amount determined upon issuing the share, even if the company’s articles of association stipulate otherwise. a shareholder may not request refund of his share in the company’s capital. the company may not discharge the shareholder from liability to pay the remaining value of the share. payment of such remaining value may not be offset by the shareholder’s rights granted by the company.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41807,
+    "source_ar": "المادة التاسعة عشرة بعد المائة:",
+    "target_en": "Article 119",
+    "source_ar_norm": "المادة التاسعة عشرة بعد المائة:",
+    "target_en_norm": "article 119",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41808,
+    "source_ar": "إذا فقدت شهادة الأسهم أو تلفت، فلمالكها أن يطلب من الشركة إصدار شهادة جديدة بدلاً من الشهادة المفقودة أو التالفة. وعلى المالك أن ينشر رقم شهادة الأسهم المفقودة أو التالفة في صحيفة يومية، فإن لم تقدم معارضة إلى الشركة خلال ثلاثين يوماً من تاريخ النشر، كان على الشركة إصدار شهادة جديدة يذكر فيها أنها بدل الشهادة المفقودة أو التالفة. وتخول هذه الشهادة لحاملها جميع الحقوق وترتب عليه جميع الالتزامات المتصلة بالشهادة المفقودة أو التالفة.",
+    "target_en": "If a share certificate is lost or damaged, its holder may request the company to issue a replacement certificate. The shareholder shall publish the number of lost or damaged share certificate in a daily newspaper. If no objection is submitted to the company within 30 days as of the date of publication, the company shall issue a new certificate indicating that it is a replacement for the lost or damaged certificate. Such certificate shall entitle its holder to all rights and entail all obligations related to the lost or damaged certificate.",
+    "source_ar_norm": "اذا فقدت شهادة الاسهم او تلفت، فلمالكها ان يطلب من الشركة اصدار شهادة جديدة بدلا من الشهادة المفقودة او التالفة. وعلي المالك ان ينشر رقم شهادة الاسهم المفقودة او التالفة في صحيفة يومية، فان لم تقدم معارضة الي الشركة خلال ثلاثين يوما من تاريخ النشر، كان علي الشركة اصدار شهادة جديدة يذكر فيها انها بدل الشهادة المفقودة او التالفة. وتخول هذه الشهادة لحاملها جميع الحقوق وترتب عليه جميع الالتزامات المتصلة بالشهادة المفقودة او التالفة.",
+    "target_en_norm": "if a share certificate is lost or damaged, its holder may request the company to issue a replacement certificate. the shareholder shall publish the number of lost or damaged share certificate in a daily newspaper. if no objection is submitted to the company within 30 days as of the date of publication, the company shall issue a new certificate indicating that it is a replacement for the lost or damaged certificate. such certificate shall entitle its holder to all rights and entail all obligations related to the lost or damaged certificate.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41809,
+    "source_ar": "المادة العشرون بعد المائة:",
+    "target_en": "Article 120",
+    "source_ar_norm": "المادة العشرون بعد المائة:",
+    "target_en_norm": "article 120",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41810,
+    "source_ar": "1- على من يعارض إصدار شهادة جديدة بدلاً من المفقودة أو التالفة أن يقيم دعوى مستعجلة أمام الجهة القضائية المختصة خلال خمسة عشر يوماً من تاريخ تقديم معارضته، وإلا عدت المعارضة كأن لم تكن.",
+    "target_en": "1. Any person objecting to the issuance of a new certificate as a replacement for the lost or damaged certificate shall initiate a summary suit before the competent judicial authority within 15 days as of the date of submitting the objection. Otherwise, the objection shall be considered null and void.",
+    "source_ar_norm": "1- علي من يعارض اصدار شهادة جديدة بدلا من المفقودة او التالفة ان يقيم دعوي مستعجلة امام الجهة القضائية المختصة خلال خمسة عشر يوما من تاريخ تقديم معارضته، والا عدت المعارضة كان لم تكن.",
+    "target_en_norm": "1. any person objecting to the issuance of a new certificate as a replacement for the lost or damaged certificate shall initiate a summary suit before the competent judicial authority within 15 days as of the date of submitting the objection. otherwise, the objection shall be considered null and void.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41811,
+    "source_ar": "2- يجب أن تسلم الشركة الشهادة بدل المفقودة أو التالفة لصاحب الحق فيها بمجرد انتهاء المدة المشار إليها في الفقرة (1) من هذه المادة دون إقامة الدعوى، أو صدور حكم قضائي نهائي بعدم صحة المعارضة.",
+    "target_en": "2. The company shall deliver the replacement certificate to its rightful holder once the period stipulated in paragraph 1 of this Article expires without initiation of a lawsuit or issuance of a final judgment invalidating the objection.",
+    "source_ar_norm": "2- يجب ان تسلم الشركة الشهادة بدل المفقودة او التالفة لصاحب الحق فيها بمجرد انتهاء المدة المشار اليها في الفقرة (1) من هذه المادة دون اقامة الدعوي، او صدور حكم قضائي نهائي بعدم صحة المعارضة.",
+    "target_en_norm": "2. the company shall deliver the replacement certificate to its rightful holder once the period stipulated in paragraph 1 of this article expires without initiation of a lawsuit or issuance of a final judgment invalidating the objection.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41812,
+    "source_ar": "الفرع الثاني: أدوات الدين والصكوك التمويلية",
+    "target_en": "Section 2: Debt Instruments and Sukuk",
+    "source_ar_norm": "الفرع الثاني: ادوات الدين والصكوك التمويلية",
+    "target_en_norm": "section 2: debt instruments and sukuk",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41813,
+    "source_ar": "المادة الحادية والعشرون بعد المائة:",
+    "target_en": "Article 121",
+    "source_ar_norm": "المادة الحادية والعشرون بعد المائة:",
+    "target_en_norm": "article 121",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41814,
+    "source_ar": "على الشركة مراعاة الأحكام الشرعية للديون عند إصدار أدوات الدين وتداولها.",
+    "target_en": "A company shall observe Sharia provisions governing debts upon issuance of and trading in debt instruments.",
+    "source_ar_norm": "علي الشركة مراعاة الاحكام الشرعية للديون عند اصدار ادوات الدين وتداولها.",
+    "target_en_norm": "a company shall observe sharia provisions governing debts upon issuance of and trading in debt instruments.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41815,
+    "source_ar": "المادة الثانية والعشرون بعد المائة:",
+    "target_en": "Article 122",
+    "source_ar_norm": "المادة الثانية والعشرون بعد المائة:",
+    "target_en_norm": "article 122",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41816,
+    "source_ar": "1- لشركة المساهمة أن تصدر - وفقاً لنظام السوق المالية - أدوات دين أو صكوكاً تمويلية قابلة للتداول.",
+    "target_en": "1. A joint-stock company may, in accordance with the Capital Market Law, issue negotiable debt instruments or sukuk.",
+    "source_ar_norm": "1- لشركة المساهمة ان تصدر - وفقا لنظام السوق المالية - ادوات دين او صكوكا تمويلية قابلة للتداول.",
+    "target_en_norm": "1. a joint-stock company may, in accordance with the capital market law, issue negotiable debt instruments or sukuk.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41817,
+    "source_ar": "2- لا يجوز للشركة إصدار أدوات دين أو صكوك تمويلية قابلة للتحويل إلى أسهم، إلا بعد صدور قرار من الجمعية العامة غير العادية تحدد فيه الحد الأقصى لعدد الأسهم التي يجوز أن يتم إصدارها مقابل تلك الأدوات أو الصكوك، سواء أصدرت تلك الأدوات أو الصكوك في الوقت نفسه أو من خلال سلسلة من الإصدارات أو من خلال برنامج أو أكثر لإصدار أدوات دين أو صكوك تمويلية. ويصدر مجلس الإدارة - دون حاجة إلى موافقة جديدة من هذه الجمعية - أسهماً جديدة مقابل تلك الأدوات أو الصكوك التي يطلب حاملوها تحويلها، فور انتهاء فترة طلب التحويل المحددة لحملة تلك الأدوات أو الصكوك. ويتخذ المجلس ما يلزم لتعديل نظام الشركة الأساس فيما يتعلق بعدد الأسهم المصدرة ورأس المال.",
+    "target_en": "2. A company may not issue debt instruments or sukuk that are convertible into shares except upon a decision by the extraordinary general assembly prescribing the maximum number of shares that may be issued against such instruments or sukuk, whether such instruments or sukuk are issued simultaneously, through a series of issues or under one or more schemes for issuing debt instruments or sukuk. The board of directors shall, without a new approval from said assembly, issue new shares against such instruments or sukuk pursuant to conversion requests made by their holders, upon expiration of the conversion period prescribed for holders of such instruments or sukuk. The board shall take necessary action to amend the company’s articles of association with regard to the capital and number of shares issued.",
+    "source_ar_norm": "2- لا يجوز للشركة اصدار ادوات دين او صكوك تمويلية قابلة للتحويل الي اسهم، الا بعد صدور قرار من الجمعية العامة غير العادية تحدد فيه الحد الاقصي لعدد الاسهم التي يجوز ان يتم اصدارها مقابل تلك الادوات او الصكوك، سواء اصدرت تلك الادوات او الصكوك في الوقت نفسه او من خلال سلسلة من الاصدارات او من خلال برنامج او اكثر لاصدار ادوات دين او صكوك تمويلية. ويصدر مجلس الادارة - دون حاجة الي موافقة جديدة من هذه الجمعية - اسهما جديدة مقابل تلك الادوات او الصكوك التي يطلب حاملوها تحويلها، فور انتهاء فترة طلب التحويل المحددة لحملة تلك الادوات او الصكوك. ويتخذ المجلس ما يلزم لتعديل نظام الشركة الاساس فيما يتعلق بعدد الاسهم المصدرة وراس المال.",
+    "target_en_norm": "2. a company may not issue debt instruments or sukuk that are convertible into shares except upon a decision by the extraordinary general assembly prescribing the maximum number of shares that may be issued against such instruments or sukuk, whether such instruments or sukuk are issued simultaneously, through a series of issues or under one or more schemes for issuing debt instruments or sukuk. the board of directors shall, without a new approval from said assembly, issue new shares against such instruments or sukuk pursuant to conversion requests made by their holders, upon expiration of the conversion period prescribed for holders of such instruments or sukuk. the board shall take necessary action to amend the company’s articles of association with regard to the capital and number of shares issued.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41818,
+    "source_ar": "3- يجب على مجلس الإدارة شهر اكتمال إجراءات كل زيادة في رأس المال بالطريقة المحددة في النظام لشهر قرارات الجمعية العامة غير العادية.",
+    "target_en": "3. The board of directors shall announce capital increase following completion of procedures in the manner prescribed by the Law for publication of extraordinary general assembly resolutions.",
+    "source_ar_norm": "3- يجب علي مجلس الادارة شهر اكتمال اجراءات كل زيادة في راس المال بالطريقة المحددة في النظام لشهر قرارات الجمعية العامة غير العادية.",
+    "target_en_norm": "3. the board of directors shall announce capital increase following completion of procedures in the manner prescribed by the law for publication of extraordinary general assembly resolutions.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41819,
+    "source_ar": "المادة الثالثة والعشرون بعد المائة:",
+    "target_en": "Article 123",
+    "source_ar_norm": "المادة الثالثة والعشرون بعد المائة:",
+    "target_en_norm": "article 123",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41820,
+    "source_ar": "مع مراعاة ما ورد في المادة (الثانية والعشرين بعد المائة) من النظام، يجوز للشركة تحويل أدوات الدين أو الصكوك التمويلية إلى أسهم وفقاً لنظام السوق المالية. وفي جميع الأحوال لا يجوز تحويل هذه الأدوات والصكوك إلى أسهم في الحالتين التاليتين:",
+    "target_en": "Subject to Article 122 of the Law, the company may convert debt instruments or sukuk into shares in accordance with the Capital Market Law. In all cases, such instruments and sukuk may not be converted into shares in the following cases:",
+    "source_ar_norm": "مع مراعاة ما ورد في المادة (الثانية والعشرين بعد المائة) من النظام، يجوز للشركة تحويل ادوات الدين او الصكوك التمويلية الي اسهم وفقا لنظام السوق المالية. وفي جميع الاحوال لا يجوز تحويل هذه الادوات والصكوك الي اسهم في الحالتين التاليتين:",
+    "target_en_norm": "subject to article 122 of the law, the company may convert debt instruments or sukuk into shares in accordance with the capital market law. in all cases, such instruments and sukuk may not be converted into shares in the following cases:",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41821,
+    "source_ar": "أ - إذا لم تتضمن شروط إصدار أدوات الدين والصكوك التمويلية إمكان جواز تحويل هذه الأدوات والصكوك إلى أسهم برفع رأس مال الشركة.",
+    "target_en": "a) If the conditions for issuance of debt instruments and sukuk do not provide for conversion of such instruments and sukuk into shares by increasing the company’s capital.",
+    "source_ar_norm": "ا - اذا لم تتضمن شروط اصدار ادوات الدين والصكوك التمويلية امكان جواز تحويل هذه الادوات والصكوك الي اسهم برفع راس مال الشركة.",
+    "target_en_norm": "a) if the conditions for issuance of debt instruments and sukuk do not provide for conversion of such instruments and sukuk into shares by increasing the company’s capital.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41822,
+    "source_ar": "ب - إذا لم يوافق حامل أداة الدين أو الصك التمويلي على هذا التحويل.",
+    "target_en": "b) If the holder of debt instruments or sukuk does not approve such conversion.",
+    "source_ar_norm": "ب - اذا لم يوافق حامل اداة الدين او الصك التمويلي علي هذا التحويل.",
+    "target_en_norm": "b) if the holder of debt instruments or sukuk does not approve such conversion.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41823,
+    "source_ar": "المادة الرابعة والعشرون بعد المائة:",
+    "target_en": "Article 124",
+    "source_ar_norm": "المادة الرابعة والعشرون بعد المائة:",
+    "target_en_norm": "article 124",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41824,
+    "source_ar": "يجوز لكل ذي مصلحة أن يطلب من الجهة القضائية المختصة إبطال التصرف الذي تم بالمخالفة لأحكام المادتين (الثانية والعشرين بعد المائة) و(الثالثة والعشرين بعد المائة) من النظام، فضلاً عن تعويض أصحاب أدوات الدين أو الصكوك التمويلية عن الضرر الذي لحق بهم.",
+    "target_en": "Any stakeholder may petition the competent judicial authority to nullify any action in violation of the provisions of Articles 122 or 123 of the Law, and compensate the holders of debt instruments or sukuk for sustained damages.",
+    "source_ar_norm": "يجوز لكل ذي مصلحة ان يطلب من الجهة القضائية المختصة ابطال التصرف الذي تم بالمخالفة لاحكام المادتين (الثانية والعشرين بعد المائة) و(الثالثة والعشرين بعد المائة) من النظام، فضلا عن تعويض اصحاب ادوات الدين او الصكوك التمويلية عن الضرر الذي لحق بهم.",
+    "target_en_norm": "any stakeholder may petition the competent judicial authority to nullify any action in violation of the provisions of articles 122 or 123 of the law, and compensate the holders of debt instruments or sukuk for sustained damages.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41825,
+    "source_ar": "المادة الخامسة والعشرون بعد المائة:",
+    "target_en": "Article 125",
+    "source_ar_norm": "المادة الخامسة والعشرون بعد المائة:",
+    "target_en_norm": "article 125",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41826,
+    "source_ar": "تسري قرارات جمعيات المساهمين على أصحاب أدوات الدين والصكوك التمويلية. ومع ذلك لا يجوز للجمعيات المذكورة أن تعدل الحقوق المقررة لهم إلا بموافقة تصدر منهم في جمعية خاصة بهم تعقد وفقاً لأحكام المادة (التاسعة والثمانين) من النظام.",
+    "target_en": "Resolutions of shareholder assemblies shall apply to holders of debt instruments and sukuk. Said assemblies may not amend rights established for such holders except upon a consent issued by them in a special assembly held in accordance with the provisions of Article 89 of the Law.",
+    "source_ar_norm": "تسري قرارات جمعيات المساهمين علي اصحاب ادوات الدين والصكوك التمويلية. ومع ذلك لا يجوز للجمعيات المذكورة ان تعدل الحقوق المقررة لهم الا بموافقة تصدر منهم في جمعية خاصة بهم تعقد وفقا لاحكام المادة (التاسعة والثمانين) من النظام.",
+    "target_en_norm": "resolutions of shareholder assemblies shall apply to holders of debt instruments and sukuk. said assemblies may not amend rights established for such holders except upon a consent issued by them in a special assembly held in accordance with the provisions of article 89 of the law.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41827,
+    "source_ar": "الفصل السادس: مالية شركة المساهمة. الفرع الأول: حسابات الشركة",
+    "target_en": "Chapter 6: Finances of a Joint Stock Company Section 1: Company Accounts",
+    "source_ar_norm": "الفصل السادس: مالية شركة المساهمة. الفرع الاول: حسابات الشركة",
+    "target_en_norm": "chapter 6: finances of a joint stock company section 1: company accounts",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41828,
+    "source_ar": "المادة السادسة والعشرون بعد المائة:",
+    "target_en": "Article 126",
+    "source_ar_norm": "المادة السادسة والعشرون بعد المائة:",
+    "target_en_norm": "article 126",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41829,
+    "source_ar": "1- تكون السنة المالية للشركة اثني عشر شهراً تحدد في نظامها الأساس، واستثناءً من ذلك يمكن أن تحدد السنة المالية الأولى بما لا يقل عن ستة أشهر ولا يزيد على ثمانية عشر شهراً بدءاً من تاريخ قيدها في السجل التجاري.",
+    "target_en": "1. The fiscal year of the company shall be twelve months to be specified in its articles of association. As an exception, the first fiscal year may not be less than six months and not more than 18 months as of the date of registration in the commercial register.",
+    "source_ar_norm": "1- تكون السنة المالية للشركة اثني عشر شهرا تحدد في نظامها الاساس، واستثناء من ذلك يمكن ان تحدد السنة المالية الاولي بما لا يقل عن ستة اشهر ولا يزيد علي ثمانية عشر شهرا بدءا من تاريخ قيدها في السجل التجاري.",
+    "target_en_norm": "1. the fiscal year of the company shall be twelve months to be specified in its articles of association. as an exception, the first fiscal year may not be less than six months and not more than 18 months as of the date of registration in the commercial register.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41830,
+    "source_ar": "2- يجب على مجلس الإدارة في نهاية كل سنة مالية للشركة أن يعد القوائم المالية للشركة وتقريراً عن نشاطها ومركزها المالي عن السنة المالية المنقضية، ويضمّن هذا التقرير الطريقة المقترحة لتوزيع الأرباح. ويضع المجلس هذه الوثائق تحت تصرف مراجع الحسابات قبل الموعد المحدد لانعقاد الجمعية العامة بخمسة وأربعين يوماً على الأقل.",
+    "target_en": "2. The board of directors shall, at the end of each fiscal year, prepare the company’s financial statements and a report on its activities and financial position for the last fiscal year. Said report shall include a proposal on distribution of profits. The board shall make such documents available to the auditor at least 45 days prior to the general assembly meeting.",
+    "source_ar_norm": "2- يجب علي مجلس الادارة في نهاية كل سنة مالية للشركة ان يعد القوائم المالية للشركة وتقريرا عن نشاطها ومركزها المالي عن السنة المالية المنقضية، ويضمن هذا التقرير الطريقة المقترحة لتوزيع الارباح. ويضع المجلس هذه الوثائق تحت تصرف مراجع الحسابات قبل الموعد المحدد لانعقاد الجمعية العامة بخمسة واربعين يوما علي الاقل.",
+    "target_en_norm": "2. the board of directors shall, at the end of each fiscal year, prepare the company’s financial statements and a report on its activities and financial position for the last fiscal year. said report shall include a proposal on distribution of profits. the board shall make such documents available to the auditor at least 45 days prior to the general assembly meeting.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41831,
+    "source_ar": "3- يجب أن يوقع رئيس مجلس إدارة الشركة ورئيسها التنفيذي ومديرها المالي الوثائق المشار إليها في الفقرة (2) من هذه المادة، وتودع نسخ منها في مركز الشركة الرئيس تحت تصرف المساهمين قبل الموعد المحدد لانعقاد الجمعية العامة بواحد وعشرين يوما على الأقل.",
+    "target_en": "3. Documents provided for in paragraph 1 of this Article shall be signed by the chairman of the company’s board, chief executive officer and chief financial officer, and a copy thereof shall be kept at the company’s head office to be available to shareholders at least 21 days prior to the general assembly meeting.",
+    "source_ar_norm": "3- يجب ان يوقع رئيس مجلس ادارة الشركة ورئيسها التنفيذي ومديرها المالي الوثائق المشار اليها في الفقرة (2) من هذه المادة، وتودع نسخ منها في مركز الشركة الرئيس تحت تصرف المساهمين قبل الموعد المحدد لانعقاد الجمعية العامة بواحد وعشرين يوما علي الاقل.",
+    "target_en_norm": "3. documents provided for in paragraph 1 of this article shall be signed by the chairman of the company’s board, chief executive officer and chief financial officer, and a copy thereof shall be kept at the company’s head office to be available to shareholders at least 21 days prior to the general assembly meeting.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41832,
+    "source_ar": "4- على رئيس مجلس الإدارة أن يزود المساهمين بالقوائم المالية للشركة، وتقرير مجلس الإدارة، وتقرير مراجع الحسابات، ما لم تنشر في صحيفة يومية توزع في مركز الشركة الرئيس. وعليه أيضاً أن يرسل صورة من هذه الوثائق إلى الوزارة، وكذلك يرسل صورة إلى الهيئة إذا كانت الشركة مدرجة في السوق المالية، وذلك قبل تاريخ انعقاد الجمعية العامة بخمسة عشر يوماً على الأقل.",
+    "target_en": "4. The chairman of the board shall provide shareholders with the company’s financial statements, board’s report and auditor’s report, unless published in a daily newspaper distributed in the area where the company’s head office is located. He shall also provide a copy thereof to the Ministry, and to CMA in the case of a listed company, at least 15 days prior to the general assembly meeting.",
+    "source_ar_norm": "4- علي رئيس مجلس الادارة ان يزود المساهمين بالقوائم المالية للشركة، وتقرير مجلس الادارة، وتقرير مراجع الحسابات، ما لم تنشر في صحيفة يومية توزع في مركز الشركة الرئيس. وعليه ايضا ان يرسل صورة من هذه الوثائق الي الوزارة، وكذلك يرسل صورة الي الهيئة اذا كانت الشركة مدرجة في السوق المالية، وذلك قبل تاريخ انعقاد الجمعية العامة بخمسة عشر يوما علي الاقل.",
+    "target_en_norm": "4. the chairman of the board shall provide shareholders with the company’s financial statements, board’s report and auditor’s report, unless published in a daily newspaper distributed in the area where the company’s head office is located. he shall also provide a copy thereof to the ministry, and to cma in the case of a listed company, at least 15 days prior to the general assembly meeting.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41833,
+    "source_ar": "المادة السابعة والعشرون بعد المائة:",
+    "target_en": "Article 127",
+    "source_ar_norm": "المادة السابعة والعشرون بعد المائة:",
+    "target_en_norm": "article 127",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41834,
+    "source_ar": "يراعى في تبويب القوائم المالية لكل سنة مالية، التبويب المتبع في السنوات السابقة، وتبقى أسس تقويم الأصول والخصوم ثابتة، وذلك دون الإخلال بالمعايير المحاسبية المتعارف عليها.",
+    "target_en": "The organization of the financial statements for each fiscal year shall follow the organization of previous years, and the standards for assets and liabilities valuation shall remain unchanged, without prejudice to recognized accounting standards.",
+    "source_ar_norm": "يراعي في تبويب القوائم المالية لكل سنة مالية، التبويب المتبع في السنوات السابقة، وتبقي اسس تقويم الاصول والخصوم ثابتة، وذلك دون الاخلال بالمعايير المحاسبية المتعارف عليها.",
+    "target_en_norm": "the organization of the financial statements for each fiscal year shall follow the organization of previous years, and the standards for assets and liabilities valuation shall remain unchanged, without prejudice to recognized accounting standards.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41835,
+    "source_ar": "المادة الثامنة والعشرون بعد المائة:",
+    "target_en": "Article 128",
+    "source_ar_norm": "المادة الثامنة والعشرون بعد المائة:",
+    "target_en_norm": "article 128",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41836,
+    "source_ar": "على مجلس الإدارة - خلال ثلاثين يوماً من تاريخ موافقة الجمعية العامة على القوائم المالية وتقرير مجلس الإدارة وتقرير مراجع الحسابات وتقرير لجنة المراجعة - أن يودع صوراً من الوثائق المذكورة لدى الوزارة، وكذلك لدى الهيئة إذا كانت الشركة مدرجة في السوق المالية.",
+    "target_en": "The board of directors shall, within 30 days from the date of the general assembly’s approval of the financial statements, and the reports of the board, the auditor and the audit committee, deposit copies of said documents with the Ministry, and with CMA in the case of a listed company.",
+    "source_ar_norm": "علي مجلس الادارة - خلال ثلاثين يوما من تاريخ موافقة الجمعية العامة علي القوائم المالية وتقرير مجلس الادارة وتقرير مراجع الحسابات وتقرير لجنة المراجعة - ان يودع صورا من الوثائق المذكورة لدي الوزارة، وكذلك لدي الهيئة اذا كانت الشركة مدرجة في السوق المالية.",
+    "target_en_norm": "the board of directors shall, within 30 days from the date of the general assembly’s approval of the financial statements, and the reports of the board, the auditor and the audit committee, deposit copies of said documents with the ministry, and with cma in the case of a listed company.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41837,
+    "source_ar": "المادة التاسعة والعشرون بعد المائة:",
+    "target_en": "Article 129",
+    "source_ar_norm": "المادة التاسعة والعشرون بعد المائة:",
+    "target_en_norm": "article 129",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41838,
+    "source_ar": "1- مع مراعاة ما تقضي به الأنظمة الأخرى ذات العلاقة، يجنب سنويًّا (10%) من صافي الأرباح لتكوين الاحتياطي النظامي للشركة. ويجوز أن تقرر الجمعية العامة العادية وقف هذا التجنيب متى بلغ الاحتياطي المذكور (30%) من رأس المال المدفوع. ويجوز النص في نظام الشركة الأساس على تجنيب نسبة معينة من صافي الأرباح لتكوين احتياطي اتفاقي يخصص للأغراض التي يحددها النظام المذكور.",
+    "target_en": "1. Subject to other relevant laws, 10% of the net profit shall be set aside on an annual basis to create the company’s statutory reserve. The ordinary general assembly may decide to discontinue setting aside such percentage when said reserve reaches 30% of paid-in capital. The company’s articles of association may provide for setting aside a certain percentage of the net profit to create a provisional reserve allocated for purposes specified therein.",
+    "source_ar_norm": "1- مع مراعاة ما تقضي به الانظمة الاخري ذات العلاقة، يجنب سنويا (10%) من صافي الارباح لتكوين الاحتياطي النظامي للشركة. ويجوز ان تقرر الجمعية العامة العادية وقف هذا التجنيب متي بلغ الاحتياطي المذكور (30%) من راس المال المدفوع. ويجوز النص في نظام الشركة الاساس علي تجنيب نسبة معينة من صافي الارباح لتكوين احتياطي اتفاقي يخصص للاغراض التي يحددها النظام المذكور.",
+    "target_en_norm": "1. subject to other relevant laws, 10% of the net profit shall be set aside on an annual basis to create the company’s statutory reserve. the ordinary general assembly may decide to discontinue setting aside such percentage when said reserve reaches 30% of paid-in capital. the company’s articles of association may provide for setting aside a certain percentage of the net profit to create a provisional reserve allocated for purposes specified therein.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41839,
+    "source_ar": "2- للجمعية العامة العادية - عند تحديد نصيب الأسهم في صافي الأرباح - أن تقرر تكوين احتياطيات أخرى، وذلك بالقدر الذي يحقق مصلحة الشركة أو يكفل توزيع أرباح ثابتة - قدر الإمكان - على المساهمين. وللجمعية المذكورة كذلك أن تقتطع من صافي الأرباح مبالغ لإنشاء مؤسسات اجتماعية لعاملي الشركة أو لمعاونة ما يكون قائماً من هذه المؤسسات.",
+    "target_en": "2. The ordinary general assembly may, when determining dividends, decide to create other reserves to serve the company’s interest or ensure distribution of fixed dividends, as much as possible, to shareholders. Said assembly may also deduct amounts from the net profit for the purpose of establishing social programs for the company’s staff or to provide assistance to existing programs.",
+    "source_ar_norm": "2- للجمعية العامة العادية - عند تحديد نصيب الاسهم في صافي الارباح - ان تقرر تكوين احتياطيات اخري، وذلك بالقدر الذي يحقق مصلحة الشركة او يكفل توزيع ارباح ثابتة - قدر الامكان - علي المساهمين. وللجمعية المذكورة كذلك ان تقتطع من صافي الارباح مبالغ لانشاء مؤسسات اجتماعية لعاملي الشركة او لمعاونة ما يكون قائما من هذه المؤسسات.",
+    "target_en_norm": "2. the ordinary general assembly may, when determining dividends, decide to create other reserves to serve the company’s interest or ensure distribution of fixed dividends, as much as possible, to shareholders. said assembly may also deduct amounts from the net profit for the purpose of establishing social programs for the company’s staff or to provide assistance to existing programs.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41840,
+    "source_ar": "المادة الثلاثون بعد المائة:",
+    "target_en": "Article 130",
+    "source_ar_norm": "المادة الثلاثون بعد المائة:",
+    "target_en_norm": "article 130",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41841,
+    "source_ar": "1- يستخدم الاحتياطي النظامي في تغطية خسائر الشركة، أو زيادة رأس المال. وإذا جاوز هذا الاحتياطي (30%) من رأس المال المدفوع، جاز للجمعية العامة العادية أن تقرر توزيع الزيادة على المساهمين في السنوات التي لا تحقق فيها الشركة أرباحاً صافية تكفي لتوزيع النصيب المقرر لهم في نظام الشركة الأساس.",
+    "target_en": "1. The statutory reserve shall be used to cover the company’s losses or to increase capital. If such reserve exceeds 30% of the paid-in capital, the ordinary general assembly may decide to distribute the surplus to shareholders in the years the company fails to make net profits sufficient for distribution as specified in the company’s articles of association.",
+    "source_ar_norm": "1- يستخدم الاحتياطي النظامي في تغطية خسائر الشركة، او زيادة راس المال. واذا جاوز هذا الاحتياطي (30%) من راس المال المدفوع، جاز للجمعية العامة العادية ان تقرر توزيع الزيادة علي المساهمين في السنوات التي لا تحقق فيها الشركة ارباحا صافية تكفي لتوزيع النصيب المقرر لهم في نظام الشركة الاساس.",
+    "target_en_norm": "1. the statutory reserve shall be used to cover the company’s losses or to increase capital. if such reserve exceeds 30% of the paid-in capital, the ordinary general assembly may decide to distribute the surplus to shareholders in the years the company fails to make net profits sufficient for distribution as specified in the company’s articles of association.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41842,
+    "source_ar": "2- لا يجوز أن يستخدم الاحتياطي الاتفاقي إلا بقرار من الجمعية العامة غير العادية. وإذا لم يكن هذا الاحتياطي مخصصاً لغرض معين، جاز للجمعية العامة العادية - بناءً على اقتراح مجلس الإدارة - أن تقرر صرفه فيما يعود بالنفع على الشركة أو المساهمين.",
+    "target_en": "2. The provisional reserve may not be used except pursuant to a decision by the extraordinary general assembly. If such reserve is not allocated for a specific purpose, the ordinary general assembly may, upon a recommendation by the board, decide to spend the same for the benefit of the company or shareholders.",
+    "source_ar_norm": "2- لا يجوز ان يستخدم الاحتياطي الاتفاقي الا بقرار من الجمعية العامة غير العادية. واذا لم يكن هذا الاحتياطي مخصصا لغرض معين، جاز للجمعية العامة العادية - بناء علي اقتراح مجلس الادارة - ان تقرر صرفه فيما يعود بالنفع علي الشركة او المساهمين.",
+    "target_en_norm": "2. the provisional reserve may not be used except pursuant to a decision by the extraordinary general assembly. if such reserve is not allocated for a specific purpose, the ordinary general assembly may, upon a recommendation by the board, decide to spend the same for the benefit of the company or shareholders.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41843,
+    "source_ar": "3- يجوز للجمعية العامة العادية استخدام الأرباح المبقاة والاحتياطيات الاتفاقية القابلة للتوزيع لسداد المبلغ المتبقي من قيمة السهم أو جزء منه، على ألا يخل ذلك بالمساواة بين المساهمين.",
+    "target_en": "3. The ordinary general assembly may use the residual profit and distributable provisional reserves to pay the remaining value of the share or a part thereof, without discrimination among shareholders.",
+    "source_ar_norm": "3- يجوز للجمعية العامة العادية استخدام الارباح المبقاة والاحتياطيات الاتفاقية القابلة للتوزيع لسداد المبلغ المتبقي من قيمة السهم او جزء منه، علي الا يخل ذلك بالمساواة بين المساهمين.",
+    "target_en_norm": "3. the ordinary general assembly may use the residual profit and distributable provisional reserves to pay the remaining value of the share or a part thereof, without discrimination among shareholders.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41844,
+    "source_ar": "المادة الحادية والثلاثون بعد المائة:",
+    "target_en": "Article 131",
+    "source_ar_norm": "المادة الحادية والثلاثون بعد المائة:",
+    "target_en_norm": "article 131",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41845,
+    "source_ar": "1- يبين نظام الشركة الأساس النسبة التي يجب توزيعها على المساهمين من الأرباح الصافية، بعد تجنيب الاحتياطي النظامي والاحتياطيات الأخرى.",
+    "target_en": "1. The company’s articles of association shall provide for the percentage of the net profit to be distributed to shareholders, after setting aside the statutory reserve and other reserves.",
+    "source_ar_norm": "1- يبين نظام الشركة الاساس النسبة التي يجب توزيعها علي المساهمين من الارباح الصافية، بعد تجنيب الاحتياطي النظامي والاحتياطيات الاخري.",
+    "target_en_norm": "1. the company’s articles of association shall provide for the percentage of the net profit to be distributed to shareholders, after setting aside the statutory reserve and other reserves.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41846,
+    "source_ar": "2- يستحق المساهم حصته في الأرباح وفقاً لقرار الجمعية العامة الصادر في هذا الشأن، ويبين القرار تاريخ الاستحقاق وتاريخ التوزيع. وتكون أحقية الأرباح لمالكي الأسهم المسجلين في سجلات المساهمين في نهاية اليوم المحدد للاستحقاق. وتحدد الجهة المختصة الحد الأقصى للمدة التي يجب على مجلس الإدارة أن ينفذ أثناءها قرار الجمعية العامة العادية في شأن توزيع الأرباح على المساهمين.",
+    "target_en": "2. A shareholder shall be entitled to his share of the profit pursuant to a decision by the general assembly. Such decision shall indicate eligibility and distribution dates. Entitlement to dividends shall be for shareholders registered in the shareholders’ register by the end of the eligibility date. The Competent Authority shall determine the maximum period during which the board of directors shall implement the decision of the ordinary general assembly regarding distribution of dividends to shareholders.",
+    "source_ar_norm": "2- يستحق المساهم حصته في الارباح وفقا لقرار الجمعية العامة الصادر في هذا الشان، ويبين القرار تاريخ الاستحقاق وتاريخ التوزيع. وتكون احقية الارباح لمالكي الاسهم المسجلين في سجلات المساهمين في نهاية اليوم المحدد للاستحقاق. وتحدد الجهة المختصة الحد الاقصي للمدة التي يجب علي مجلس الادارة ان ينفذ اثناءها قرار الجمعية العامة العادية في شان توزيع الارباح علي المساهمين.",
+    "target_en_norm": "2. a shareholder shall be entitled to his share of the profit pursuant to a decision by the general assembly. such decision shall indicate eligibility and distribution dates. entitlement to dividends shall be for shareholders registered in the shareholders’ register by the end of the eligibility date. the competent authority shall determine the maximum period during which the board of directors shall implement the decision of the ordinary general assembly regarding distribution of dividends to shareholders.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41847,
+    "source_ar": "الفرع الثاني: مراجع الحسابات",
+    "target_en": "Section 2: The Auditor",
+    "source_ar_norm": "الفرع الثاني: مراجع الحسابات",
+    "target_en_norm": "section 2: the auditor",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41848,
+    "source_ar": "المادة الثانية والثلاثون بعد المائة:",
+    "target_en": "Article 132",
+    "source_ar_norm": "المادة الثانية والثلاثون بعد المائة:",
+    "target_en_norm": "article 132",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41849,
+    "source_ar": "يمارس المساهمون الرقابة على حسابات الشركة وفقاً للأحكام المنصوص عليها في النظام ونظام الشركة الأساس.",
+    "target_en": "Shareholders shall monitor the company’s accounts in accordance with the provisions set forth in the Law and the company’s articles of association.",
+    "source_ar_norm": "يمارس المساهمون الرقابة علي حسابات الشركة وفقا للاحكام المنصوص عليها في النظام ونظام الشركة الاساس.",
+    "target_en_norm": "shareholders shall monitor the company’s accounts in accordance with the provisions set forth in the law and the company’s articles of association.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41850,
+    "source_ar": "المادة الثالثة والثلاثون بعد المائة:",
+    "target_en": "Article 133",
+    "source_ar_norm": "المادة الثالثة والثلاثون بعد المائة:",
+    "target_en_norm": "article 133",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41851,
+    "source_ar": "1- يجب أن يكون للشركة مراجع حسابات (أو أكثر) من بين مراجعي الحسابات المرخص لهم بالعمل في المملكة تعينه الجمعية العامة العادية، وتحدد مكافأته ومدة عمله، ويجوز لها إعادة تعيينه، على ألا يتجاوز مجموع مدة تعيينه خمس سنوات متصلة، ويجوز لمن استنفد هذه المدة أن يعاد تعيينه بعد مضي سنتين من تاريخ انتهائها. ويجوز للجمعية أيضاً في كل وقت تغييره مع عدم الإخلال بحقه في التعويض إذا وقع التغيير في وقت غير مناسب أو لسبب غير مشروع.",
+    "target_en": "1. The company shall have one auditor (or more) licensed to operate in the Kingdom. The general assembly shall appoint such auditor and determine his remuneration and term. The general assembly may re-appoint the auditor, provided that the aggregate term does not exceed five consecutive years. An auditor who completes such term may be re-appointed upon the lapse of two years from the date of expiration thereof. The general assembly may, at any time, replace the auditor without prejudice to his right to compensation if the replacement is unjustified or occurs at an inappropriate time.",
+    "source_ar_norm": "1- يجب ان يكون للشركة مراجع حسابات (او اكثر) من بين مراجعي الحسابات المرخص لهم بالعمل في المملكة تعينه الجمعية العامة العادية، وتحدد مكافاته ومدة عمله، ويجوز لها اعادة تعيينه، علي الا يتجاوز مجموع مدة تعيينه خمس سنوات متصلة، ويجوز لمن استنفد هذه المدة ان يعاد تعيينه بعد مضي سنتين من تاريخ انتهائها. ويجوز للجمعية ايضا في كل وقت تغييره مع عدم الاخلال بحقه في التعويض اذا وقع التغيير في وقت غير مناسب او لسبب غير مشروع.",
+    "target_en_norm": "1. the company shall have one auditor (or more) licensed to operate in the kingdom. the general assembly shall appoint such auditor and determine his remuneration and term. the general assembly may re-appoint the auditor, provided that the aggregate term does not exceed five consecutive years. an auditor who completes such term may be re-appointed upon the lapse of two years from the date of expiration thereof. the general assembly may, at any time, replace the auditor without prejudice to his right to compensation if the replacement is unjustified or occurs at an inappropriate time.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41852,
+    "source_ar": "2- لا يجوز الجمع بين عمل مراجع الحسابات والاشتراك في تأسيس الشركة أو عضوية مجلس الإدارة أو القيام بعمل فني أو إداري في الشركة أو لمصلحتها ولو على سبيل الاستشارة. ولا يجوز كذلك أن يكون المراجع شريكاً لأحد مؤسسي الشركة أو لأحد أعضاء مجلس إدارتها أو عاملاً لديه أو قريباً له إلى الدرجة الرابعة بدخول الغاية. ويكون باطلاً كل عمل مخالف لذلك، مع إلزامه برد ما قبضه إلى وزارة المالية.",
+    "target_en": "2. The auditor may not, while serving as an auditor, participate in the company’s incorporation, serve as a board member or carry out technical or administrative work in the company or for its benefit, even on an advisory basis. An auditor may not also be a partner, an employee or a relative up to and including the fourth degree of a company’s incorporator or board member. Any act to the contrary shall be null and void, and the violator shall pay the amounts he receives to the Ministry of Finance.",
+    "source_ar_norm": "2- لا يجوز الجمع بين عمل مراجع الحسابات والاشتراك في تاسيس الشركة او عضوية مجلس الادارة او القيام بعمل فني او اداري في الشركة او لمصلحتها ولو علي سبيل الاستشارة. ولا يجوز كذلك ان يكون المراجع شريكا لاحد مؤسسي الشركة او لاحد اعضاء مجلس ادارتها او عاملا لديه او قريبا له الي الدرجة الرابعة بدخول الغاية. ويكون باطلا كل عمل مخالف لذلك، مع الزامه برد ما قبضه الي وزارة المالية.",
+    "target_en_norm": "2. the auditor may not, while serving as an auditor, participate in the company’s incorporation, serve as a board member or carry out technical or administrative work in the company or for its benefit, even on an advisory basis. an auditor may not also be a partner, an employee or a relative up to and including the fourth degree of a company’s incorporator or board member. any act to the contrary shall be null and void, and the violator shall pay the amounts he receives to the ministry of finance.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41853,
+    "source_ar": "المادة الرابعة والثلاثون بعد المائة:",
+    "target_en": "Article 134",
+    "source_ar_norm": "المادة الرابعة والثلاثون بعد المائة:",
+    "target_en_norm": "article 134",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41854,
+    "source_ar": "لمراجع الحسابات - في أيّ وقت - حق الاطلاع على دفاتر الشركة وسجلاتها وغير ذلك من الوثائق، وله أيضاً طلب البيانات والإيضاحات التي يرى ضرورة الحصول عليها، ليتحقق من موجودات الشركة والتزاماتها وغير ذلك مما يدخل في نطاق عمله. وعلى رئيس مجلس الإدارة أن يمكنه من أداء واجبه، وإذا صادف مراجع الحسابات صعوبة في هذا الشأن أثبت ذلك في تقرير يقدم إلى مجلس الإدارة. فإذا لم ييسر المجلس عمل مراجع الحسابات، وجب عليه أن يطلب من مجلس الإدارة دعوة الجمعية العامة العادية للنظر في الأمر.",
+    "target_en": "The auditor may access the company’s books, records and other documents at any time. He may also request data and explanations that he deems necessary for verification of the company’s assets and liabilities as well as other matters falling within the scope of his work. The chairman of the board shall facilitate the auditor’s performance of his duties. If the auditor encounters difficulty in this regard, he shall report the same to the board of directors. If the board fails to facilitate the work of the auditor, he shall request the board to call for an ordinary general assembly meeting to consider the matter.",
+    "source_ar_norm": "لمراجع الحسابات - في اي وقت - حق الاطلاع علي دفاتر الشركة وسجلاتها وغير ذلك من الوثائق، وله ايضا طلب البيانات والايضاحات التي يري ضرورة الحصول عليها، ليتحقق من موجودات الشركة والتزاماتها وغير ذلك مما يدخل في نطاق عمله. وعلي رئيس مجلس الادارة ان يمكنه من اداء واجبه، واذا صادف مراجع الحسابات صعوبة في هذا الشان اثبت ذلك في تقرير يقدم الي مجلس الادارة. فاذا لم ييسر المجلس عمل مراجع الحسابات، وجب عليه ان يطلب من مجلس الادارة دعوة الجمعية العامة العادية للنظر في الامر.",
+    "target_en_norm": "the auditor may access the company’s books, records and other documents at any time. he may also request data and explanations that he deems necessary for verification of the company’s assets and liabilities as well as other matters falling within the scope of his work. the chairman of the board shall facilitate the auditor’s performance of his duties. if the auditor encounters difficulty in this regard, he shall report the same to the board of directors. if the board fails to facilitate the work of the auditor, he shall request the board to call for an ordinary general assembly meeting to consider the matter.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41855,
+    "source_ar": "المادة الخامسة والثلاثون بعد المائة:",
+    "target_en": "Article 135",
+    "source_ar_norm": "المادة الخامسة والثلاثون بعد المائة:",
+    "target_en_norm": "article 135",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41856,
+    "source_ar": "على مراجع الحسابات أن يقدم إلى الجمعية العامة العادية السنوية تقريراً يعد وفقاً لمعايير المراجعة المتعارف عليها يضمنه موقف إدارة الشركة من تمكينه من الحصول على البيانات والإيضاحات التي طلبها، وما يكون قد تبين له من مخالفات لأحكام النظام أو أحكام نظام الشركة الأساس، ورأيه في مدى عدالة القوائم المالية للشركة. ويتلو مراجع الحسابات تقريره في الجمعية العامة. وإذا قررت الجمعية التصديق على تقرير مجلس الإدارة والقوائم المالية دون الاستماع إلى تقرير مراجع الحسابات، كان قرارها باطلاً.",
+    "target_en": "The auditor shall submit a report to the annual ordinary general assembly in accordance with recognized auditing standards. The report shall include the extent to which the company’s management was cooperative in providing him with requested data and explanations, and any detected violations of the Law or the company’s articles of association as well as his opinion on the integrity of the company’s financial statements. The auditor shall read his report at the general assembly meeting. If the general assembly decides to approve the report of the board and the financial statements without hearing the auditor’s report, its decision shall be null and void.",
+    "source_ar_norm": "علي مراجع الحسابات ان يقدم الي الجمعية العامة العادية السنوية تقريرا يعد وفقا لمعايير المراجعة المتعارف عليها يضمنه موقف ادارة الشركة من تمكينه من الحصول علي البيانات والايضاحات التي طلبها، وما يكون قد تبين له من مخالفات لاحكام النظام او احكام نظام الشركة الاساس، ورايه في مدي عدالة القوائم المالية للشركة. ويتلو مراجع الحسابات تقريره في الجمعية العامة. واذا قررت الجمعية التصديق علي تقرير مجلس الادارة والقوائم المالية دون الاستماع الي تقرير مراجع الحسابات، كان قرارها باطلا.",
+    "target_en_norm": "the auditor shall submit a report to the annual ordinary general assembly in accordance with recognized auditing standards. the report shall include the extent to which the company’s management was cooperative in providing him with requested data and explanations, and any detected violations of the law or the company’s articles of association as well as his opinion on the integrity of the company’s financial statements. the auditor shall read his report at the general assembly meeting. if the general assembly decides to approve the report of the board and the financial statements without hearing the auditor’s report, its decision shall be null and void.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41857,
+    "source_ar": "المادة السادسة والثلاثون بعد المائة:",
+    "target_en": "Article 136",
+    "source_ar_norm": "المادة السادسة والثلاثون بعد المائة:",
+    "target_en_norm": "article 136",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41858,
+    "source_ar": "1- لا يجوز لمراجع الحسابات أن يفشي إلى المساهمين في غير الجمعية العامة أو إلى الغير ما وقف عليه من أسرار الشركة بسبب قيامه بعمله، وإلا وجب عزله فضلاً عن مطالبته بالتعويض.",
+    "target_en": "1. The auditor may not disclose to shareholders in other than the general assembly or to others the confidential information that he becomes privy to in the course of performing his duty. Otherwise, he shall be discharged and be liable for compensation.",
+    "source_ar_norm": "1- لا يجوز لمراجع الحسابات ان يفشي الي المساهمين في غير الجمعية العامة او الي الغير ما وقف عليه من اسرار الشركة بسبب قيامه بعمله، والا وجب عزله فضلا عن مطالبته بالتعويض.",
+    "target_en_norm": "1. the auditor may not disclose to shareholders in other than the general assembly or to others the confidential information that he becomes privy to in the course of performing his duty. otherwise, he shall be discharged and be liable for compensation.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41859,
+    "source_ar": "2- يكون مراجع الحسابات مسؤولاً عن تعويض الضرر الذي يصيب الشركة أو المساهمين أو الغير بسبب الأخطاء التي تقع منه في أداء عمله. وإذا تعدد المراجعون واشتركوا في الخطأ كانوا مسؤولين بالتضامن.",
+    "target_en": "2. The auditor shall be liable for damages sustained by the company, the shareholders or third parties due to faults attributed to the auditor’s performance of his duties. If such faults are the responsibility of multiple auditors, said auditors shall be jointly liable.",
+    "source_ar_norm": "2- يكون مراجع الحسابات مسؤولا عن تعويض الضرر الذي يصيب الشركة او المساهمين او الغير بسبب الاخطاء التي تقع منه في اداء عمله. واذا تعدد المراجعون واشتركوا في الخطا كانوا مسؤولين بالتضامن.",
+    "target_en_norm": "2. the auditor shall be liable for damages sustained by the company, the shareholders or third parties due to faults attributed to the auditor’s performance of his duties. if such faults are the responsibility of multiple auditors, said auditors shall be jointly liable.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41860,
+    "source_ar": "الفصل السابع: تعديل رأس مال الشركة. الفرع الأول: زيادة رأس المال",
+    "target_en": "Chapter 7: Alteration of Capital Section 1: Capital Increase",
+    "source_ar_norm": "الفصل السابع: تعديل راس مال الشركة. الفرع الاول: زيادة راس المال",
+    "target_en_norm": "chapter 7: alteration of capital section 1: capital increase",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41861,
+    "source_ar": "المادة السابعة والثلاثون بعد المائة:",
+    "target_en": "Article 137",
+    "source_ar_norm": "المادة السابعة والثلاثون بعد المائة:",
+    "target_en_norm": "article 137",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41862,
+    "source_ar": "1- للجمعية العامة غير العادية أن تقرر زيادة رأس مال الشركة، بشرط أن يكون رأس المال قد دفع كاملاً. ولا يشترط أن يكون رأس المال قد دفع بأكمله إذا كان الجزء غير المدفوع من رأس المال يعود إلى أسهم صدرت مقابل تحويل أدوات دين أو صكوك تمويلية إلى أسهم ولم تنتهِ بعدُ المدة المقررة لتحويلها إلى أسهم.",
+    "target_en": "1. The extraordinary general assembly may decide to increase the company’s capital, provided that the capital is fully paid. The capital does not have to be paid in full if the unpaid portion of the capital relates to shares issued against conversion of debt instruments or sukuk into shares and the period prescribed for conversion has not yet expired.",
+    "source_ar_norm": "1- للجمعية العامة غير العادية ان تقرر زيادة راس مال الشركة، بشرط ان يكون راس المال قد دفع كاملا. ولا يشترط ان يكون راس المال قد دفع باكمله اذا كان الجزء غير المدفوع من راس المال يعود الي اسهم صدرت مقابل تحويل ادوات دين او صكوك تمويلية الي اسهم ولم تنته بعد المدة المقررة لتحويلها الي اسهم.",
+    "target_en_norm": "1. the extraordinary general assembly may decide to increase the company’s capital, provided that the capital is fully paid. the capital does not have to be paid in full if the unpaid portion of the capital relates to shares issued against conversion of debt instruments or sukuk into shares and the period prescribed for conversion has not yet expired.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41863,
+    "source_ar": "2- للجمعية العامة غير العادية في جميع الأحوال أن تخصص الأسهم المصدرة عند زيادة رأس المال أو جزءاً منها للعاملين في الشركة والشركات التابعة أو بعضها، أو أي من ذلك. ولا يجوز للمساهمين ممارسة حق الأولوية عند إصدار الشركة للأسهم المخصصة للعاملين.",
+    "target_en": "2. In all cases, the extraordinary general assembly may, upon increasing capital, allocate issued shares or a part thereof to the company’s employees or any of its subsidiaries. Shareholders may not exercise preemptive rights when the company issues shares allocated for employees.",
+    "source_ar_norm": "2- للجمعية العامة غير العادية في جميع الاحوال ان تخصص الاسهم المصدرة عند زيادة راس المال او جزءا منها للعاملين في الشركة والشركات التابعة او بعضها، او اي من ذلك. ولا يجوز للمساهمين ممارسة حق الاولوية عند اصدار الشركة للاسهم المخصصة للعاملين.",
+    "target_en_norm": "2. in all cases, the extraordinary general assembly may, upon increasing capital, allocate issued shares or a part thereof to the company’s employees or any of its subsidiaries. shareholders may not exercise preemptive rights when the company issues shares allocated for employees.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41864,
+    "source_ar": "المادة الثامنة والثلاثون بعد المائة:",
+    "target_en": "Article 138",
+    "source_ar_norm": "المادة الثامنة والثلاثون بعد المائة:",
+    "target_en_norm": "article 138",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41865,
+    "source_ar": "يزاد رأس المال بإحدى الطرق الآتية:",
+    "target_en": "Capital may be increased by one of the following ways:",
+    "source_ar_norm": "يزاد راس المال باحدي الطرق الاتية:",
+    "target_en_norm": "capital may be increased by one of the following ways:",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41866,
+    "source_ar": "أ - إصدار أسهم جديدة مقابل حصص نقدية أو عينية.",
+    "target_en": "a) Issuing new shares against cash or in-kind contributions.",
+    "source_ar_norm": "ا - اصدار اسهم جديدة مقابل حصص نقدية او عينية.",
+    "target_en_norm": "a) issuing new shares against cash or in-kind contributions.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41867,
+    "source_ar": "ب - إصدار أسهم جديدة مقابل ما على الشركة من ديون معينة المقدار حالَّة الأداء، على أن يكون الإصدار بالقيمة التي تقررها الجمعية العامة غير العادية بعد الاستعانة برأي خبير أو مقوِّم معتمد، وبعد أن يعد مجلس الإدارة ومراجع الحسابات بياناً عن منشأ هذه الديون ومقدارها ويوقع أعضاء المجلس ومراجع الحسابات هذا البيان، ويكونون مسؤولين عن صحته.",
+    "target_en": "b) Issuing new shares against specified due company’s debts, provided that the issuance is made at the value prescribed by the extraordinary general assembly upon obtaining the opinion of an expert or an accredited valuer, and upon issuance of a statement by the board of directors and the auditor indicating the origin and amount of such debts. The statement shall be signed by board members and the auditor, who shall be liable for its validity.",
+    "source_ar_norm": "ب - اصدار اسهم جديدة مقابل ما علي الشركة من ديون معينة المقدار حالة الاداء، علي ان يكون الاصدار بالقيمة التي تقررها الجمعية العامة غير العادية بعد الاستعانة براي خبير او مقوم معتمد، وبعد ان يعد مجلس الادارة ومراجع الحسابات بيانا عن منشا هذه الديون ومقدارها ويوقع اعضاء المجلس ومراجع الحسابات هذا البيان، ويكونون مسؤولين عن صحته.",
+    "target_en_norm": "b) issuing new shares against specified due company’s debts, provided that the issuance is made at the value prescribed by the extraordinary general assembly upon obtaining the opinion of an expert or an accredited valuer, and upon issuance of a statement by the board of directors and the auditor indicating the origin and amount of such debts. the statement shall be signed by board members and the auditor, who shall be liable for its validity.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41868,
+    "source_ar": "ج - إصدار أسهم جديدة بمقدار الاحتياطي الذي تقرر الجمعية العامة غير العادية إدماجه في رأس المال. ويجب أن تصدر هذه الأسهم بنفس شكل وأوضاع الأسهم المتداولة، وتوزع تلك الأسهم على المساهمين دون مقابل بنسبة ما يملكه كل منهم من الأسهم الأصلية.",
+    "target_en": "c) Issuing new shares equal to the amount of the reserve which the extraordinary general assembly decides to include in the capital. Such shares shall be issued in the same class and conditions of traded shares, and shall be distributed to shareholders for no consideration at a rate commensurate with their holdings of original shares.",
+    "source_ar_norm": "ج - اصدار اسهم جديدة بمقدار الاحتياطي الذي تقرر الجمعية العامة غير العادية ادماجه في راس المال. ويجب ان تصدر هذه الاسهم بنفس شكل واوضاع الاسهم المتداولة، وتوزع تلك الاسهم علي المساهمين دون مقابل بنسبة ما يملكه كل منهم من الاسهم الاصلية.",
+    "target_en_norm": "c) issuing new shares equal to the amount of the reserve which the extraordinary general assembly decides to include in the capital. such shares shall be issued in the same class and conditions of traded shares, and shall be distributed to shareholders for no consideration at a rate commensurate with their holdings of original shares.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41869,
+    "source_ar": "د - إصدار أسهم جديدة مقابل أدوات الدين أو الصكوك التمويلية.",
+    "target_en": "d) Issuing new shares against debt instruments or sukuk.",
+    "source_ar_norm": "د - اصدار اسهم جديدة مقابل ادوات الدين او الصكوك التمويلية.",
+    "target_en_norm": "d) issuing new shares against debt instruments or sukuk.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41870,
+    "source_ar": "المادة التاسعة والثلاثون بعد المائة:",
+    "target_en": "Article 139",
+    "source_ar_norm": "المادة التاسعة والثلاثون بعد المائة:",
+    "target_en_norm": "article 139",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41871,
+    "source_ar": "للمساهم المالك للسهم - وقت صدور قرار الجمعية العامة بالموافقة على زيادة رأس المال - الأولوية في الاكتتاب بالأسهم الجديدة التي تصدر مقابل حصص نقدية، ويبلغ هؤلاء بأولويتهم - إن وجدت - بالنشر في صحيفة يومية أو بإبلاغهم بوساطة البريد المسجل عن قرار زيادة رأس المال وشروط الاكتتاب ومدته وتاريخ بدايته وانتهائه.",
+    "target_en": "A shareholder shall, upon issuance of the decision of the general assembly approving capital increase, have a preemptive right to subscribe to new shares issued against cash contributions. Such shareholders shall be notified of such right, if any, by publication in a daily newspaper, or transmission by registered mail of the decision of capital increase, conditions and period of subscription as well as beginning and ending dates.",
+    "source_ar_norm": "للمساهم المالك للسهم - وقت صدور قرار الجمعية العامة بالموافقة علي زيادة راس المال - الاولوية في الاكتتاب بالاسهم الجديدة التي تصدر مقابل حصص نقدية، ويبلغ هؤلاء باولويتهم - ان وجدت - بالنشر في صحيفة يومية او بابلاغهم بوساطة البريد المسجل عن قرار زيادة راس المال وشروط الاكتتاب ومدته وتاريخ بدايته وانتهائه.",
+    "target_en_norm": "a shareholder shall, upon issuance of the decision of the general assembly approving capital increase, have a preemptive right to subscribe to new shares issued against cash contributions. such shareholders shall be notified of such right, if any, by publication in a daily newspaper, or transmission by registered mail of the decision of capital increase, conditions and period of subscription as well as beginning and ending dates.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41872,
+    "source_ar": "المادة الأربعون بعد المائة:",
+    "target_en": "Article 140",
+    "source_ar_norm": "المادة الاربعون بعد المائة:",
+    "target_en_norm": "article 140",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41873,
+    "source_ar": "يحق للجمعية العامة غير العادية - إذا نص على ذلك في نظام الشركة الأساس - وقف العمل بحق الأولوية للمساهمين في الاكتتاب بزيادة رأس المال مقابل حصص نقدية أو إعطاء الأولوية لغير المساهمين في الحالات التي تراها مناسبة لمصلحة الشركة.",
+    "target_en": "The extraordinary general assembly shall, if provided for in the company’s articles of association, have the right to suspend shareholders’ preemptive rights to subscribe to the capital increase against cash contributions or give such rights to non-shareholders in cases it deems beneficial for the company.",
+    "source_ar_norm": "يحق للجمعية العامة غير العادية - اذا نص علي ذلك في نظام الشركة الاساس - وقف العمل بحق الاولوية للمساهمين في الاكتتاب بزيادة راس المال مقابل حصص نقدية او اعطاء الاولوية لغير المساهمين في الحالات التي تراها مناسبة لمصلحة الشركة.",
+    "target_en_norm": "the extraordinary general assembly shall, if provided for in the company’s articles of association, have the right to suspend shareholders’ preemptive rights to subscribe to the capital increase against cash contributions or give such rights to non-shareholders in cases it deems beneficial for the company.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41874,
+    "source_ar": "المادة الحادية والأربعون بعد المائة:",
+    "target_en": "Article 141",
+    "source_ar_norm": "المادة الحادية والاربعون بعد المائة:",
+    "target_en_norm": "article 141",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41875,
+    "source_ar": "يحق للمساهم بيع حق الأولوية أو التنازل عنه خلال المدة من وقت صدور قرار الجمعية العامة بالموافقة على زيادة رأس المال إلى آخر يوم للاكتتاب في الأسهم الجديدة المرتبطة بهذه الحقوق، وفقاً للضوابط التي تضعها الجهة المختصة.",
+    "target_en": "Shareholders shall be entitled to sell or assign the preemptive rights during the period from the time of issuing the decision of the general assembly approving the capital increase up to the last day of subscription in the newly issued shares associated with such rights, in accordance with rules set by the Competent Authority.",
+    "source_ar_norm": "يحق للمساهم بيع حق الاولوية او التنازل عنه خلال المدة من وقت صدور قرار الجمعية العامة بالموافقة علي زيادة راس المال الي اخر يوم للاكتتاب في الاسهم الجديدة المرتبطة بهذه الحقوق، وفقا للضوابط التي تضعها الجهة المختصة.",
+    "target_en_norm": "shareholders shall be entitled to sell or assign the preemptive rights during the period from the time of issuing the decision of the general assembly approving the capital increase up to the last day of subscription in the newly issued shares associated with such rights, in accordance with rules set by the competent authority.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41876,
+    "source_ar": "المادة الثانية والأربعون بعد المائة:",
+    "target_en": "Article 142",
+    "source_ar_norm": "المادة الثانية والاربعون بعد المائة:",
+    "target_en_norm": "article 142",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41877,
+    "source_ar": "مع مراعاة ما ورد في المادة (الأربعين بعد المائة) من النظام، توزع الأسهم الجديدة على حَمَلَة حقوق الأولوية الذين طلبوا الاكتتاب، بنسبة ما يملكونه من حقوق أولوية من إجمالي حقوق الأولوية الناتجة من زيادة رأس المال، بشرط ألا يتجاوز ما يحصلون عليه ما طلبوه من الأسهم الجديدة، ويوزع الباقي من الأسهم الجديدة على حملة حقوق الأولوية الذين طلبوا أكثر من نصيبهم، بنسبة ما يملكونه من حقوق أولوية من إجمالي حقوق الأولوية الناتجة من زيادة رأس المال، بشرط ألا يتجاوز ما يحصلون عليه ما طلبوه من الأسهم الجديدة، ويطرح ما تبقى من الأسهم على الغير، ما لم تقرر الجمعية العامة غير العادية أو ينص نظام السوق المالية على غير ذلك.",
+    "target_en": "Without prejudice to Article 140 of the Law, newly issued shares shall be distributed to holders of preemptive rights requesting subscription, proportionate with preemptive rights they have against the total preemptive rights resulting from capital increase, provided that the newly issued shares they obtain do not exceed the shares they request. The remaining new shares shall be distributed to holders of preemptive rights requesting more than their share, proportionate with the preemptive rights they have against the total preemptive rights resulting from capital increase, provided that the newly issued shares they obtain do not exceed the shares they request. The remaining shares shall be offered to third parties, unless otherwise stipulated in an extraordinary general assembly resolution or in the Capital Market Law.",
+    "source_ar_norm": "مع مراعاة ما ورد في المادة (الاربعين بعد المائة) من النظام، توزع الاسهم الجديدة علي حملة حقوق الاولوية الذين طلبوا الاكتتاب، بنسبة ما يملكونه من حقوق اولوية من اجمالي حقوق الاولوية الناتجة من زيادة راس المال، بشرط الا يتجاوز ما يحصلون عليه ما طلبوه من الاسهم الجديدة، ويوزع الباقي من الاسهم الجديدة علي حملة حقوق الاولوية الذين طلبوا اكثر من نصيبهم، بنسبة ما يملكونه من حقوق اولوية من اجمالي حقوق الاولوية الناتجة من زيادة راس المال، بشرط الا يتجاوز ما يحصلون عليه ما طلبوه من الاسهم الجديدة، ويطرح ما تبقي من الاسهم علي الغير، ما لم تقرر الجمعية العامة غير العادية او ينص نظام السوق المالية علي غير ذلك.",
+    "target_en_norm": "without prejudice to article 140 of the law, newly issued shares shall be distributed to holders of preemptive rights requesting subscription, proportionate with preemptive rights they have against the total preemptive rights resulting from capital increase, provided that the newly issued shares they obtain do not exceed the shares they request. the remaining new shares shall be distributed to holders of preemptive rights requesting more than their share, proportionate with the preemptive rights they have against the total preemptive rights resulting from capital increase, provided that the newly issued shares they obtain do not exceed the shares they request. the remaining shares shall be offered to third parties, unless otherwise stipulated in an extraordinary general assembly resolution or in the capital market law.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41878,
+    "source_ar": "المادة الثالثة والأربعون بعد المائة:",
+    "target_en": "Article 143",
+    "source_ar_norm": "المادة الثالثة والاربعون بعد المائة:",
+    "target_en_norm": "article 143",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41879,
+    "source_ar": "تسري على الأسهم التي تصدر مقابل حصص عينية عند زيادة رأس المال أحكام تقويم الحصص العينية المقدمة عند تأسيس الشركة، وتقوم الجمعية العامة العادية مقام الجمعية التأسيسية في هذا الشأن.",
+    "target_en": "Shares issued against in-kind contributions upon increasing the capital shall be subject to the provisions applied in valuating in-kind shares contributed for the company’s incorporation. The ordinary general assembly shall replace the incorporation assembly in this regard.",
+    "source_ar_norm": "تسري علي الاسهم التي تصدر مقابل حصص عينية عند زيادة راس المال احكام تقويم الحصص العينية المقدمة عند تاسيس الشركة، وتقوم الجمعية العامة العادية مقام الجمعية التاسيسية في هذا الشان.",
+    "target_en_norm": "shares issued against in-kind contributions upon increasing the capital shall be subject to the provisions applied in valuating in-kind shares contributed for the company’s incorporation. the ordinary general assembly shall replace the incorporation assembly in this regard.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41880,
+    "source_ar": "الفرع الثاني: تخفيض رأس المال",
+    "target_en": "Section 2: Capital Decrease",
+    "source_ar_norm": "الفرع الثاني: تخفيض راس المال",
+    "target_en_norm": "section 2: capital decrease",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41881,
+    "source_ar": "المادة الرابعة والأربعون بعد المائة:",
+    "target_en": "Article 144",
+    "source_ar_norm": "المادة الرابعة والاربعون بعد المائة:",
+    "target_en_norm": "article 144",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41882,
+    "source_ar": "للجمعية العامة غير العادية أن تقرر تخفيض رأس المال إذا زاد على حاجة الشركة أو إذا منيت بخسائر. ويجوز في الحالة الأخيرة وحدها تخفيض رأس المال إلى ما دون الحد المنصوص عليه في المادة (الرابعة والخمسين) من النظام. ولا يصدر قرار التخفيض إلا بعد تلاوة تقرير خاص يعده مراجع الحسابات عن الأسباب الموجبة له وعن الالتزامات التي على الشركة وعن أثر التخفيض في هذه الالتزامات.",
+    "target_en": "The extraordinary general assembly may decide to decrease the capital if it is in excess of the need of the company or if the company incurs losses. In the latter case only, the capital may be decreased below the limit set forth in Article 54 of the Law. The decision to decrease the capital shall not be issued until after reading the auditor’s report regarding the grounds for such decrease, the company’s liabilities and effect of decrease on such liabilities.",
+    "source_ar_norm": "للجمعية العامة غير العادية ان تقرر تخفيض راس المال اذا زاد علي حاجة الشركة او اذا منيت بخسائر. ويجوز في الحالة الاخيرة وحدها تخفيض راس المال الي ما دون الحد المنصوص عليه في المادة (الرابعة والخمسين) من النظام. ولا يصدر قرار التخفيض الا بعد تلاوة تقرير خاص يعده مراجع الحسابات عن الاسباب الموجبة له وعن الالتزامات التي علي الشركة وعن اثر التخفيض في هذه الالتزامات.",
+    "target_en_norm": "the extraordinary general assembly may decide to decrease the capital if it is in excess of the need of the company or if the company incurs losses. in the latter case only, the capital may be decreased below the limit set forth in article 54 of the law. the decision to decrease the capital shall not be issued until after reading the auditor’s report regarding the grounds for such decrease, the company’s liabilities and effect of decrease on such liabilities.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41883,
+    "source_ar": "المادة الخامسة والأربعون بعد المائة:",
+    "target_en": "Article 145",
+    "source_ar_norm": "المادة الخامسة والاربعون بعد المائة:",
+    "target_en_norm": "article 145",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41884,
+    "source_ar": "إذا كان تخفيض رأس المال نتيجة زيادته على حاجة الشركة، وجبت دعوة الدائنين إلى إبداء اعتراضاتهم عليه خلال ستين يوماً من تاريخ نشر قرار التخفيض في صحيفة يومية توزع في المنطقة التي فيها مركز الشركة الرئيس. فإن اعترض أحد الدائنين وقدم إلى الشركة مستنداته في الميعاد المذكور، وجب على الشركة أن تؤدي إليه دينه إذا كان حالاً أو أن تقدم له ضماناً كافياً للوفاء به إذا كان آجلاً.",
+    "target_en": "If the capital decrease is due to its being in excess of the company’s need, the creditors shall be called to submit their objections thereto within 60 days from the date of publishing the decision of capital decrease in a daily newspaper distributed in the area where the company’s head office is located. If a creditor objects and presents his documents to the company within said period, the company shall pay the debt owed to him if it is due or provide sufficient guarantee if the debt is not yet due.",
+    "source_ar_norm": "اذا كان تخفيض راس المال نتيجة زيادته علي حاجة الشركة، وجبت دعوة الدائنين الي ابداء اعتراضاتهم عليه خلال ستين يوما من تاريخ نشر قرار التخفيض في صحيفة يومية توزع في المنطقة التي فيها مركز الشركة الرئيس. فان اعترض احد الدائنين وقدم الي الشركة مستنداته في الميعاد المذكور، وجب علي الشركة ان تؤدي اليه دينه اذا كان حالا او ان تقدم له ضمانا كافيا للوفاء به اذا كان اجلا.",
+    "target_en_norm": "if the capital decrease is due to its being in excess of the company’s need, the creditors shall be called to submit their objections thereto within 60 days from the date of publishing the decision of capital decrease in a daily newspaper distributed in the area where the company’s head office is located. if a creditor objects and presents his documents to the company within said period, the company shall pay the debt owed to him if it is due or provide sufficient guarantee if the debt is not yet due.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41885,
+    "source_ar": "المادة السادسة والأربعون بعد المائة:",
+    "target_en": "Article 146",
+    "source_ar_norm": "المادة السادسة والاربعون بعد المائة:",
+    "target_en_norm": "article 146",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41886,
+    "source_ar": "يخفض رأس المال بإحدى الطرق الآتية:",
+    "target_en": "The capital shall be decreased by either of the following:",
+    "source_ar_norm": "يخفض راس المال باحدي الطرق الاتية:",
+    "target_en_norm": "the capital shall be decreased by either of the following:",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41887,
+    "source_ar": "أ - إلغاء عدد من الأسهم يعادل القدر المطلوب تخفيضه.",
+    "target_en": "a) Cancelling a number of shares equal to the amount to be decreased.",
+    "source_ar_norm": "ا - الغاء عدد من الاسهم يعادل القدر المطلوب تخفيضه.",
+    "target_en_norm": "a) cancelling a number of shares equal to the amount to be decreased.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41888,
+    "source_ar": "ب - شراء الشركة لعدد من أسهمها يعادل القدر المطلوب تخفيضه، ومن ثم إلغاؤها.",
+    "target_en": "b) Repurchasing a number of shares by the company, equal to the amount to be decreased, and cancelling such shares.",
+    "source_ar_norm": "ب - شراء الشركة لعدد من اسهمها يعادل القدر المطلوب تخفيضه، ومن ثم الغاؤها.",
+    "target_en_norm": "b) repurchasing a number of shares by the company, equal to the amount to be decreased, and cancelling such shares.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41889,
+    "source_ar": "المادة السابعة والأربعون بعد المائة:",
+    "target_en": "Article 147",
+    "source_ar_norm": "المادة السابعة والاربعون بعد المائة:",
+    "target_en_norm": "article 147",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41890,
+    "source_ar": "إذا كان تخفيض رأس المال بإلغاء عدد من الأسهم، وجبت مراعاة المساواة بين المساهمين، وعلى هؤلاء أن يقدموا إلى الشركة - في الميعاد الذي تحدده - الأسهم التي تقرر إلغاؤها، وإلا عدت ملغاة.",
+    "target_en": "If the capital decrease is made by cancelling a number of shares, equality among shareholders shall be maintained. Shareholders shall surrender to the company, within the period set by it, shares determined to be cancelled. Otherwise, such shares shall be considered void.",
+    "source_ar_norm": "اذا كان تخفيض راس المال بالغاء عدد من الاسهم، وجبت مراعاة المساواة بين المساهمين، وعلي هؤلاء ان يقدموا الي الشركة - في الميعاد الذي تحدده - الاسهم التي تقرر الغاؤها، والا عدت ملغاة.",
+    "target_en_norm": "if the capital decrease is made by cancelling a number of shares, equality among shareholders shall be maintained. shareholders shall surrender to the company, within the period set by it, shares determined to be cancelled. otherwise, such shares shall be considered void.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41891,
+    "source_ar": "المادة الثامنة والأربعون بعد المائة:",
+    "target_en": "Article 148",
+    "source_ar_norm": "المادة الثامنة والاربعون بعد المائة:",
+    "target_en_norm": "article 148",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41892,
+    "source_ar": "1- إذا كان تخفيض رأس المال عن طريق شراء عدد من أسهم الشركة من أجل إلغائها، وجبت دعوة المساهمين إلى عرض أسهمهم للبيع، وتتم هذه الدعوة بإبلاغ المساهمين بواسطة البريد المسجل أو في صحيفة يومية توزع في المنطقة التي يقع فيها مركز الشركة الرئيس برغبة الشركة في شراء الأسهم.",
+    "target_en": "1. If capital decrease is made by repurchasing a number of the company’s shares for the purpose of cancellation, shareholders shall be called to offer their shares for sale. The call shall be made by notifying shareholders of the company’s wish to repurchase shares by registered mail or by publication in a daily newspaper distributed in the area where the company’s head office is located.",
+    "source_ar_norm": "1- اذا كان تخفيض راس المال عن طريق شراء عدد من اسهم الشركة من اجل الغائها، وجبت دعوة المساهمين الي عرض اسهمهم للبيع، وتتم هذه الدعوة بابلاغ المساهمين بواسطة البريد المسجل او في صحيفة يومية توزع في المنطقة التي يقع فيها مركز الشركة الرئيس برغبة الشركة في شراء الاسهم.",
+    "target_en_norm": "1. if capital decrease is made by repurchasing a number of the company’s shares for the purpose of cancellation, shareholders shall be called to offer their shares for sale. the call shall be made by notifying shareholders of the company’s wish to repurchase shares by registered mail or by publication in a daily newspaper distributed in the area where the company’s head office is located.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41893,
+    "source_ar": "2- إذا زاد عدد الأسهم المعروضة للبيع على العدد الذي قررت الشركة شراءه، وجب تخفيض طلبات البيع بنسبة هذه الزيادة.",
+    "target_en": "2. If the number of shares offered for sale exceeds the number that the company decides to repurchase, the sale orders shall be reduced in proportion to such increase.",
+    "source_ar_norm": "2- اذا زاد عدد الاسهم المعروضة للبيع علي العدد الذي قررت الشركة شراءه، وجب تخفيض طلبات البيع بنسبة هذه الزيادة.",
+    "target_en_norm": "2. if the number of shares offered for sale exceeds the number that the company decides to repurchase, the sale orders shall be reduced in proportion to such increase.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41894,
+    "source_ar": "3- يقدر ثمن شراء أسهم الشركات غير المدرجة بالثمن العادل. أما أسهم الشركات المدرجة، فتشترى وفقاً لنظام السوق المالية.",
+    "target_en": "3. The repurchase price of shares of unlisted companies shall be estimated at a fair value. The shares of listed companies shall be repurchased in accordance with the Capital Market Law.",
+    "source_ar_norm": "3- يقدر ثمن شراء اسهم الشركات غير المدرجة بالثمن العادل. اما اسهم الشركات المدرجة، فتشتري وفقا لنظام السوق المالية.",
+    "target_en_norm": "3. the repurchase price of shares of unlisted companies shall be estimated at a fair value. the shares of listed companies shall be repurchased in accordance with the capital market law.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41895,
+    "source_ar": "الفصل الثامن: انقضاء شركة المساهمة",
+    "target_en": "Chapter 8: Termination of a Joint Stock Company",
+    "source_ar_norm": "الفصل الثامن: انقضاء شركة المساهمة",
+    "target_en_norm": "chapter 8: termination of a joint stock company",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41896,
+    "source_ar": "المادة التاسعة والأربعون بعد المائة:",
+    "target_en": "Article 149",
+    "source_ar_norm": "المادة التاسعة والاربعون بعد المائة:",
+    "target_en_norm": "article 149",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41897,
+    "source_ar": "إذا آلت جميع أسهم شركة المساهمة إلى مساهم واحد لا تتوافر فيه الشروط الواردة في المادة (الخامسة والخمسين) من النظام، تبقى الشركة وحدها مسؤولة عن ديونها والتزاماتها. ومع ذلك يجب على هذا المساهم توفيق أوضاع الشركة مع الأحكام الواردة في هذا الباب أو تحويلها إلى شركة ذات مسؤولية محدودة من شخص واحد خلال مدة لا تتجاوز سنة، وإلا انقضت الشركة بقوة النظام.",
+    "target_en": "If all shares of a joint stock company devolve to a single shareholder not fulfilling the conditions set forth in Article 55 of the Law, the company shall remain solely liable for its debts and liabilities. However, such shareholder shall amend the company’s status in accordance with the provisions stipulated in this Part or transform the company into a limited liability company of one person within one year. Otherwise, the company shall be terminated by the force of law.",
+    "source_ar_norm": "اذا الت جميع اسهم شركة المساهمة الي مساهم واحد لا تتوافر فيه الشروط الواردة في المادة (الخامسة والخمسين) من النظام، تبقي الشركة وحدها مسؤولة عن ديونها والتزاماتها. ومع ذلك يجب علي هذا المساهم توفيق اوضاع الشركة مع الاحكام الواردة في هذا الباب او تحويلها الي شركة ذات مسؤولية محدودة من شخص واحد خلال مدة لا تتجاوز سنة، والا انقضت الشركة بقوة النظام.",
+    "target_en_norm": "if all shares of a joint stock company devolve to a single shareholder not fulfilling the conditions set forth in article 55 of the law, the company shall remain solely liable for its debts and liabilities. however, such shareholder shall amend the company’s status in accordance with the provisions stipulated in this part or transform the company into a limited liability company of one person within one year. otherwise, the company shall be terminated by the force of law.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41898,
+    "source_ar": "المادة الخمسون بعد المائة:",
+    "target_en": "Article 150",
+    "source_ar_norm": "المادة الخمسون بعد المائة:",
+    "target_en_norm": "article 150",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41899,
+    "source_ar": "1- إذا بلغت خسائر شركة المساهمة نصف رأس المال المدفوع، في أي وقت خلال السنة المالية، وجب على أي مسؤول في الشركة أو مراجع الحسابات فور علمه بذلك إبلاغ رئيس مجلس الإدارة، وعلى رئيس مجلس الإدارة إبلاغ أعضاء المجلس فوراً بذلك، وعلى مجلس الإدارة - خلال خمسة عشر يوماً من علمه بذلك - دعوة الجمعية العامة غير العادية للاجتماع خلال خمسة وأربعين يوماً من تاريخ علمه بالخسائر؛ لتقرر إما زيادة رأس مال الشركة أو تخفيضه - وفقاً لأحكام النظام - وذلك إلى الحد الذي تنخفض معه نسبة الخسائر إلى ما دون نصف رأس المال المدفوع، أو حل الشركة قبل الأجل المحدد في نظامها الأساس.",
+    "target_en": "1. If a joint stock company incurs losses amounting to half of the paid-in capital at any time during the fiscal year, any of the company executives or the auditor shall promptly, upon knowledge thereof, inform the chairman of the board, who shall promptly inform board members. The board of directors shall, within 15 days from the date of notification, call for an extraordinary general assembly meeting to be held within 45 days from the date of its knowledge of the losses, to decide whether to increase or decrease the company’s capital, in accordance with the provisions of the Law, to the extent where losses are decreased below half of the paid-in capital, or to dissolve the company prior to the date set forth in its articles of association.",
+    "source_ar_norm": "1- اذا بلغت خسائر شركة المساهمة نصف راس المال المدفوع، في اي وقت خلال السنة المالية، وجب علي اي مسؤول في الشركة او مراجع الحسابات فور علمه بذلك ابلاغ رئيس مجلس الادارة، وعلي رئيس مجلس الادارة ابلاغ اعضاء المجلس فورا بذلك، وعلي مجلس الادارة - خلال خمسة عشر يوما من علمه بذلك - دعوة الجمعية العامة غير العادية للاجتماع خلال خمسة واربعين يوما من تاريخ علمه بالخسائر؛ لتقرر اما زيادة راس مال الشركة او تخفيضه - وفقا لاحكام النظام - وذلك الي الحد الذي تنخفض معه نسبة الخسائر الي ما دون نصف راس المال المدفوع، او حل الشركة قبل الاجل المحدد في نظامها الاساس.",
+    "target_en_norm": "1. if a joint stock company incurs losses amounting to half of the paid-in capital at any time during the fiscal year, any of the company executives or the auditor shall promptly, upon knowledge thereof, inform the chairman of the board, who shall promptly inform board members. the board of directors shall, within 15 days from the date of notification, call for an extraordinary general assembly meeting to be held within 45 days from the date of its knowledge of the losses, to decide whether to increase or decrease the company’s capital, in accordance with the provisions of the law, to the extent where losses are decreased below half of the paid-in capital, or to dissolve the company prior to the date set forth in its articles of association.",
+    "file_name": "نظام الشركات.docx"
+  },
+  {
+    "id": 41900,
+    "source_ar": "2- تعد الشركة منقضية بقوة النظام إذا لم تجتمع الجمعية العامة غير العادية خلال المدة المحددة في الفقرة (1) من هذه المادة، أو إذا اجتمعت وتعذر عليها إصدار قرار في الموضوع، أو إذا قررت زيادة رأس المال وفق الأوضاع المقررة في هذه المادة ولم يتم الاكتتاب في كل زيادة رأس المال خلال تسعين يوماً من صدور قرار الجمعية بالزيادة.",
+    "target_en": "2. The company shall be deemed terminated by the force of law if the extraordinary general assembly fails to meet during the period set forth in paragraph 1 of this Article; if the assembly convenes but fails to issue a decision on the matter; or if it decides to increase the capital in accordance with this Article but the shares issued are not fully subscribed within 90 days from the assembly’s decision to increase the capital.",
+    "source_ar_norm": "2- تعد الشركة منقضية بقوة النظام اذا لم تجتمع الجمعية العامة غير العادية خلال المدة المحددة في الفقرة (1) من هذه المادة، او اذا اجتمعت وتعذر عليها اصدار قرار في الموضوع، او اذا قررت زيادة راس المال وفق الاوضاع المقررة في هذه المادة ولم يتم الاكتتاب في كل زيادة راس المال خلال تسعين يوما من صدور قرار الجمعية بالزيادة.",
+    "target_en_norm": "2. the company shall be deemed terminated by the force of law if the extraordinary general assembly fails to meet during the period set forth in paragraph 1 of this article; if the assembly convenes but fails to issue a decision on the matter; or if it decides to increase the capital in accordance with this article but the shares issued are not fully subscribed within 90 days from the assembly’s decision to increase the capital.",
+    "file_name": "نظام الشركات.docx"
+  }
+]

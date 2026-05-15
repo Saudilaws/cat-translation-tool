@@ -1,0 +1,802 @@
+[
+  {
+    "id": 47201,
+    "source_ar": "تحدد اللائحة الآتي:",
+    "target_en": "The Regulations shall specify the following:",
+    "source_ar_norm": "تحدد اللائحة الاتي:",
+    "target_en_norm": "the regulations shall specify the following:",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47202,
+    "source_ar": "1. إجراءات المصالحة والوساطة، بما في ذلك الدعاوى التي يجب أن يسبق نظرَها اللجوءُ إلى المصالحة والوساطة، على ألا تزيد مدة تلك الإجراءات على (ثلاثين) يوماً من تاريخ البدء فيها، ما لم تتفق الأطراف على مدة أطول.",
+    "target_en": "1. Mediation and reconciliation procedures, including cases that must be preceded by mediation or reconciliation, provided that such procedures do not exceed 30 days from the date of initiation, unless the parties agree on a longer period of time.",
+    "source_ar_norm": "1. اجراءات المصالحة والوساطة، بما في ذلك الدعاوي التي يجب ان يسبق نظرها اللجوء الي المصالحة والوساطة، علي الا تزيد مدة تلك الاجراءات علي (ثلاثين) يوما من تاريخ البدء فيها، ما لم تتفق الاطراف علي مدة اطول.",
+    "target_en_norm": "1. mediation and reconciliation procedures, including cases that must be preceded by mediation or reconciliation, provided that such procedures do not exceed 30 days from the date of initiation, unless the parties agree on a longer period of time.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47203,
+    "source_ar": "2. إجراءات الدعاوى الجماعية، على أن تتضمن تحديدها وإجراءات نظرها والحكم فيها.",
+    "target_en": "2. Class action procedures, which shall include determining these claims and consideration and ruling procedures.",
+    "source_ar_norm": "2. اجراءات الدعاوي الجماعية، علي ان تتضمن تحديدها واجراءات نظرها والحكم فيها.",
+    "target_en_norm": "2. class action procedures, which shall include determining these claims and consideration and ruling procedures.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47204,
+    "source_ar": "3. إجراءات الدعاوى اليسيرة، على أن تتضمن تحديدها وإجراءات نظرها والحكم فيها.",
+    "target_en": "3. Procedures for small claims, which shall include determining these claims and consideration and ruling procedures.",
+    "source_ar_norm": "3. اجراءات الدعاوي اليسيرة، علي ان تتضمن تحديدها واجراءات نظرها والحكم فيها.",
+    "target_en_norm": "3. procedures for small claims, which shall include determining these claims and consideration and ruling procedures.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47205,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47206,
+    "source_ar": "1. يعد عنواناً للتبليغ وفقاً لأحكام النظام الآتي:",
+    "target_en": "1. Process shall be deemed to have been served in accordance with the provisions of this Law if delivered to any of the following addresses:",
+    "source_ar_norm": "1. يعد عنوانا للتبليغ وفقا لاحكام النظام الاتي:",
+    "target_en_norm": "1. process shall be deemed to have been served in accordance with the provisions of this law if delivered to any of the following addresses:",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47207,
+    "source_ar": "أ- العنوان الإلكتروني الموثق أو المختار من الأطراف.",
+    "target_en": "a) The parties’ verified or selected electronic address.",
+    "source_ar_norm": "ا- العنوان الالكتروني الموثق او المختار من الاطراف.",
+    "target_en_norm": "a) the parties’ verified or selected electronic address.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47208,
+    "source_ar": "ب- عنوان إقامة الشخص ذي الصفة الطبيعية أو الاعتبارية، ما لم يختر عنواناً آخر.",
+    "target_en": "b) The domicile of a natural or legal person, unless a different address is selected.",
+    "source_ar_norm": "ب- عنوان اقامة الشخص ذي الصفة الطبيعية او الاعتبارية، ما لم يختر عنوانا اخر.",
+    "target_en_norm": "b) the domicile of a natural or legal person, unless a different address is selected.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47209,
+    "source_ar": "ج- العنوان المعتمد لدى الجهة البريدية المختصة.",
+    "target_en": "c) The official postal address registered with the competent agency.",
+    "source_ar_norm": "ج- العنوان المعتمد لدي الجهة البريدية المختصة.",
+    "target_en_norm": "c) the official postal address registered with the competent agency.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47210,
+    "source_ar": "د- العنوان المدون في السجل التجاري فيما يتعلق بالنشاط المرتبط بذلك السجل.",
+    "target_en": "d) The address registered in the commercial register for the business activity connected with said register.",
+    "source_ar_norm": "د- العنوان المدون في السجل التجاري فيما يتعلق بالنشاط المرتبط بذلك السجل.",
+    "target_en_norm": "d) the address registered in the commercial register for the business activity connected with said register.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47211,
+    "source_ar": "هـ- العنوان الذي يثبته الشخص في بيانات الدعوى أو الطلب أو المذكرة المقدمة للمحكمة في الدعوى ذاتها.",
+    "target_en": "e) The address provided by a person in any document related to the case or claim, or memoranda submitted to the commercial court pertaining to the same case.",
+    "source_ar_norm": "ه- العنوان الذي يثبته الشخص في بيانات الدعوي او الطلب او المذكرة المقدمة للمحكمة في الدعوي ذاتها.",
+    "target_en_norm": "e) the address provided by a person in any document related to the case or claim, or memoranda submitted to the commercial court pertaining to the same case.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47212,
+    "source_ar": "و- العنوان المدون في العقد محل التعامل في المنازعات الناشئة عن ذلك العقد.",
+    "target_en": "f) The address indicated in the contract subject of the dispute.",
+    "source_ar_norm": "و- العنوان المدون في العقد محل التعامل في المنازعات الناشئة عن ذلك العقد.",
+    "target_en_norm": "f) the address indicated in the contract subject of the dispute.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47213,
+    "source_ar": "ز- العنوان الذي يختاره الأجنبي في المملكة.",
+    "target_en": "g) The address a foreigner selects in the Kingdom.",
+    "source_ar_norm": "ز- العنوان الذي يختاره الاجنبي في المملكة.",
+    "target_en_norm": "g) the address a foreigner selects in the kingdom.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47214,
+    "source_ar": "2. للشخص ذي الصفة الطبيعية أو الاعتبارية أن يختار عنوان محامٍ لتلقي التبليغات عليه، وتسري عليه أحكام عنوان ذلك الشخص.",
+    "target_en": "2. A natural or legal person may select a lawyer’s address to which process is served; such address shall be subject to the provisions governing the address of such person.",
+    "source_ar_norm": "2. للشخص ذي الصفة الطبيعية او الاعتبارية ان يختار عنوان محام لتلقي التبليغات عليه، وتسري عليه احكام عنوان ذلك الشخص.",
+    "target_en_norm": "2. a natural or legal person may select a lawyer’s address to which process is served; such address shall be subject to the provisions governing the address of such person.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47215,
+    "source_ar": "3. على الطرف حال تغييره العنوان المنصوص عليه في الفقرة (هـ) من هذه المادة أن يبلغ المحكمة خلال (ثمانٍ وأربعين) ساعة من تاريخ التغيير، وإلا عُدَّ التبليغ على ذلك العنوان لدى المحكمة منتجاً لآثاره.",
+    "target_en": "3. If a party changes the address in the documents stated in paragraph (e) of this Article, he shall notify the commercial court within 48 hours of the date of such change; otherwise, any process served to the previous address shall be deemed valid.",
+    "source_ar_norm": "3. علي الطرف حال تغييره العنوان المنصوص عليه في الفقرة (ه) من هذه المادة ان يبلغ المحكمة خلال (ثمان واربعين) ساعة من تاريخ التغيير، والا عد التبليغ علي ذلك العنوان لدي المحكمة منتجا لاثاره.",
+    "target_en_norm": "3. if a party changes the address in the documents stated in paragraph (e) of this article, he shall notify the commercial court within 48 hours of the date of such change; otherwise, any process served to the previous address shall be deemed valid.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47216,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47217,
+    "source_ar": "1. يكون التبليغ على العناوين الإلكترونية الواردة في الفقرة الفرعية (أ) من الفقرة (1) من المادة (التاسعة) من النظام على النحو الآتي:",
+    "target_en": "1. Service of process to the electronic address referred to in Article 9(1)(a) of this Law shall be carried out as follows:",
+    "source_ar_norm": "1. يكون التبليغ علي العناوين الالكترونية الواردة في الفقرة الفرعية (ا) من الفقرة (1) من المادة (التاسعة) من النظام علي النحو الاتي:",
+    "target_en_norm": "1. service of process to the electronic address referred to in article 9(1)(a) of this law shall be carried out as follows:",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47218,
+    "source_ar": "أ- إرسال رسالة نصية إلى الهاتف المحمول الموثق.",
+    "target_en": "a) Sending a message to a verified mobile phone number.",
+    "source_ar_norm": "ا- ارسال رسالة نصية الي الهاتف المحمول الموثق.",
+    "target_en_norm": "a) sending a message to a verified mobile phone number.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47219,
+    "source_ar": "ب- الإرسال إلى البريد الإلكتروني الموثق أو المختار من الاطراف.",
+    "target_en": "b) Sending a message to the verified or selected e-mail address.",
+    "source_ar_norm": "ب- الارسال الي البريد الالكتروني الموثق او المختار من الاطراف.",
+    "target_en_norm": "b) sending a message to the verified or selected e-mail address.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47220,
+    "source_ar": "ج- تبليغ المستخدم عند استخدامه أحد الحسابات الإلكترونية الحكومية.",
+    "target_en": "c) Notifying a user of an e-government service account upon access thereof.",
+    "source_ar_norm": "ج- تبليغ المستخدم عند استخدامه احد الحسابات الالكترونية الحكومية.",
+    "target_en_norm": "c) notifying a user of an e-government service account upon access thereof.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47221,
+    "source_ar": "2. يكون التبليغ على أحد العناوين الواردة في الفقرات الفرعية (ب) و(ج) و(د) و(هـ) و(و) و(ز) من الفقرة (1) من المادة (التاسعة) من النظام عن طريق أحد مقدمي الخدمات البريدية المرخصين، ويتحقق التبليغ بها بتقديم إشعار من مقدم الخدمة البريدية يفيد بإيصال التبليغ إلى العنوان.",
+    "target_en": "2. Process shall be served to any of the addresses referred to in Article 9(1)(b, c, d, e, f, and g) of this Law through any licensed postal service provider, and shall be deemed to have been delivered by submitting a proof of delivery issued by the postal service provider.",
+    "source_ar_norm": "2. يكون التبليغ علي احد العناوين الواردة في الفقرات الفرعية (ب) و(ج) و(د) و(ه) و(و) و(ز) من الفقرة (1) من المادة (التاسعة) من النظام عن طريق احد مقدمي الخدمات البريدية المرخصين، ويتحقق التبليغ بها بتقديم اشعار من مقدم الخدمة البريدية يفيد بايصال التبليغ الي العنوان.",
+    "target_en_norm": "2. process shall be served to any of the addresses referred to in article 9(1)(b, c, d, e, f, and g) of this law through any licensed postal service provider, and shall be deemed to have been delivered by submitting a proof of delivery issued by the postal service provider.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47222,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47223,
+    "source_ar": "فيما لم يرد فيه نص خاص؛ يوجه التبليغ وفق الآتي:",
+    "target_en": "Absent a specific provision, the process shall be served as follows:",
+    "source_ar_norm": "فيما لم يرد فيه نص خاص؛ يوجه التبليغ وفق الاتي:",
+    "target_en_norm": "absent a specific provision, the process shall be served as follows:",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47224,
+    "source_ar": "1. الشخص ذي الصفة الطبيعية: في محل إقامته أو مسكنه أو محل عمله أو في أي مكان آخر يكون فيه أو لوكيله أو لأحد العاملين معه في مقر العمل ذي الصلة بالتعامل التجاري محل الدعوى.",
+    "target_en": "1. For a natural person: to his permanent or temporary domicile, workplace, or any other place where he is located, or a place that belongs to his agent or to any colleague working at the workplace related to the commercial transaction subject of the claim.",
+    "source_ar_norm": "1. الشخص ذي الصفة الطبيعية: في محل اقامته او مسكنه او محل عمله او في اي مكان اخر يكون فيه او لوكيله او لاحد العاملين معه في مقر العمل ذي الصلة بالتعامل التجاري محل الدعوي.",
+    "target_en_norm": "1. for a natural person: to his permanent or temporary domicile, workplace, or any other place where he is located, or a place that belongs to his agent or to any colleague working at the workplace related to the commercial transaction subject of the claim.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47225,
+    "source_ar": "2. الشركات: لممثلها النظامي أو لأحد الشركاء المتضامنين أو للمدير أو من ينوب عنه أو للإدارات القانونية في الشركة أو أحد أقسامها المخصصة لاستقبال المراسلات الموجهة إليها، وإذا تعلقت الدعوى بفرع الشركة، فيجوز توجيه التبليغ إلى مدير ذلك الفرع أو من ينوب عنه.",
+    "target_en": "2. For companies: to the legal representative, any of the partners, the manager or his representative, or the legal department or the department tasked with receiving correspondence. If the claim relates to a company branch, the process may be served to the manager of that branch or his designee.",
+    "source_ar_norm": "2. الشركات: لممثلها النظامي او لاحد الشركاء المتضامنين او للمدير او من ينوب عنه او للادارات القانونية في الشركة او احد اقسامها المخصصة لاستقبال المراسلات الموجهة اليها، واذا تعلقت الدعوي بفرع الشركة، فيجوز توجيه التبليغ الي مدير ذلك الفرع او من ينوب عنه.",
+    "target_en_norm": "2. for companies: to the legal representative, any of the partners, the manager or his representative, or the legal department or the department tasked with receiving correspondence. if the claim relates to a company branch, the process may be served to the manager of that branch or his designee.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47226,
+    "source_ar": "3. الشركات الأجنبية التي لها فرع أو ممثل تجاري في المملكة: لمدير ذلك الفرع أو ممثلها التجاري أو من ينوب عنهما.",
+    "target_en": "3. For foreign companies with a branch or a commercial representative in the Kingdom: to the manager of the branch or the commercial representative, or their designees.",
+    "source_ar_norm": "3. الشركات الاجنبية التي لها فرع او ممثل تجاري في المملكة: لمدير ذلك الفرع او ممثلها التجاري او من ينوب عنهما.",
+    "target_en_norm": "3. for foreign companies with a branch or a commercial representative in the kingdom: to the manager of the branch or the commercial representative, or their designees.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47227,
+    "source_ar": "4. الأشخاص ذوو الصفة الاعتبارية (الآخرون): للممثل النظامي أو من ينوب عنه.",
+    "target_en": "4. For other legal persons: to their legal representatives or their designees.",
+    "source_ar_norm": "4. الاشخاص ذوو الصفة الاعتبارية (الاخرون): للممثل النظامي او من ينوب عنه.",
+    "target_en_norm": "4. for other legal persons: to their legal representatives or their designees.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47228,
+    "source_ar": "5. الجهات الإدارية: للوزير المختص أو لرئيس المؤسسة أو الهيئة أو لمن يقوم مقامهم.",
+    "target_en": "5. For administrative agencies: to the relevant minister or chairman of the institution or agency, or their designees.",
+    "source_ar_norm": "5. الجهات الادارية: للوزير المختص او لرئيس المؤسسة او الهيئة او لمن يقوم مقامهم.",
+    "target_en_norm": "5. for administrative agencies: to the relevant minister or chairman of the institution or agency, or their designees.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47229,
+    "source_ar": "6. السفينة التجارية: لمالك السفينة التجارية أو لمستأجرها أو لربانها أو وكلائهم متى كانت الدعوى متعلقة بالسفينة.",
+    "target_en": "6. For a commercial vessel: to its owner, charterer, master, or their agents, if the claim is related to the vessel.",
+    "source_ar_norm": "6. السفينة التجارية: لمالك السفينة التجارية او لمستاجرها او لربانها او وكلائهم متي كانت الدعوي متعلقة بالسفينة.",
+    "target_en_norm": "6. for a commercial vessel: to its owner, charterer, master, or their agents, if the claim is related to the vessel.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47230,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47231,
+    "source_ar": "دون إخلال بالاتفاقيات الدولية، يجوز تبليغ من يكون محل إقامته خارج المملكة وفق أحكام المواد (التاسعة) و(العاشرة) و(الحادية عشرة) من النظام متى وجد اتفاق بين الأطراف على ذلك.",
+    "target_en": "Without prejudice to international conventions, a notice may be served to a person residing outside the Kingdom in accordance with Articles 9, 10, and 11 of this Law, provided an agreement to such effect exists between the parties.",
+    "source_ar_norm": "دون اخلال بالاتفاقيات الدولية، يجوز تبليغ من يكون محل اقامته خارج المملكة وفق احكام المواد (التاسعة) و(العاشرة) و(الحادية عشرة) من النظام متي وجد اتفاق بين الاطراف علي ذلك.",
+    "target_en_norm": "without prejudice to international conventions, a notice may be served to a person residing outside the kingdom in accordance with articles 9, 10, and 11 of this law, provided an agreement to such effect exists between the parties.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47232,
+    "source_ar": "المادة الثالثة عشرة",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة",
+    "target_en_norm": "article 13",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47233,
+    "source_ar": "1. دون إخلال بأي عقوبة أخرى ينص عليها نظام آخر؛ للمحكمة عند إخلال أحد الأطراف بأي من إجراءات الدعوى أو نظام الجلسة أن تأمر بفرض غرامة لا تتجاوز عشرة آلاف ريال، ويعد أمر المحكمة في هذا الشأن نهائيًّا.",
+    "target_en": "1. Without prejudice to any other penalty provided for by another law, the commercial court may decide to impose a fine not exceeding 10,000 riyals; its decision shall be final if a party disrupts the proceedings of the case or the order of the hearing.",
+    "source_ar_norm": "1. دون اخلال باي عقوبة اخري ينص عليها نظام اخر؛ للمحكمة عند اخلال احد الاطراف باي من اجراءات الدعوي او نظام الجلسة ان تامر بفرض غرامة لا تتجاوز عشرة الاف ريال، ويعد امر المحكمة في هذا الشان نهائيا.",
+    "target_en_norm": "1. without prejudice to any other penalty provided for by another law, the commercial court may decide to impose a fine not exceeding 10,000 riyals; its decision shall be final if a party disrupts the proceedings of the case or the order of the hearing.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47234,
+    "source_ar": "2. يتاح اطلاع العموم على بيانات الدعاوى التجارية وأوراقها ومستنداتها لقاء مقابل مالي يعادل تكلفة الخدمة.",
+    "target_en": "2. Data, papers, and documents of a commercial case may be made available for public access in return for a fee equal to the service cost.",
+    "source_ar_norm": "2. يتاح اطلاع العموم علي بيانات الدعاوي التجارية واوراقها ومستنداتها لقاء مقابل مالي يعادل تكلفة الخدمة.",
+    "target_en_norm": "2. data, papers, and documents of a commercial case may be made available for public access in return for a fee equal to the service cost.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47235,
+    "source_ar": "ويجوز -بناءً على طلب ذي مصلحة- تقرير سرية بعض أوراق الدعوى التجارية أو مستنداتها لغير المحكمة، وذلك دون إخلال بعلنية المرافعة والأنظمة ذات العلاقة، وتحدد اللائحة الإجراءات والضوابط المنظمة ذلك.",
+    "target_en": "However, certain papers or documents of a commercial case may, at the request of a concerned party, be designated as confidential and be disclosed only to the commercial court, without prejudice to the rules governing open hearings or the provisions of relevant laws. The Regulations shall determine the necessary procedures and rules.",
+    "source_ar_norm": "ويجوز -بناء علي طلب ذي مصلحة- تقرير سرية بعض اوراق الدعوي التجارية او مستنداتها لغير المحكمة، وذلك دون اخلال بعلنية المرافعة والانظمة ذات العلاقة، وتحدد اللائحة الاجراءات والضوابط المنظمة ذلك.",
+    "target_en_norm": "however, certain papers or documents of a commercial case may, at the request of a concerned party, be designated as confidential and be disclosed only to the commercial court, without prejudice to the rules governing open hearings or the provisions of relevant laws. the regulations shall determine the necessary procedures and rules.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47236,
+    "source_ar": "المادة الرابعة عشرة",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة",
+    "target_en_norm": "article 14",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47237,
+    "source_ar": "1. تحدد اللائحة المدد اللازمة لإجراءات نظر الدعوى، بما يراعي طبيعة الدعاوى التجارية، على أن يشمل ذلك عدد الجلسات ونوعها وإجراءات ضبطها ومواعيدها والمدد بينها وحالات التأجيل.",
+    "target_en": "1. The Regulations shall specify the periods necessary for case proceedings, taking into account the nature of commercial cases; this shall include the number of hearing sessions, their type, recording procedures, dates, time between sessions, and causes for adjournment.",
+    "source_ar_norm": "1. تحدد اللائحة المدد اللازمة لاجراءات نظر الدعوي، بما يراعي طبيعة الدعاوي التجارية، علي ان يشمل ذلك عدد الجلسات ونوعها واجراءات ضبطها ومواعيدها والمدد بينها وحالات التاجيل.",
+    "target_en_norm": "1. the regulations shall specify the periods necessary for case proceedings, taking into account the nature of commercial cases; this shall include the number of hearing sessions, their type, recording procedures, dates, time between sessions, and causes for adjournment.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47238,
+    "source_ar": "2. يكون تقديم الدعاوى والطلبات والمذكرات والمستندات والتقارير وفق إجراءات ونماذج العمل التي تعدها الوزارة، ويصدر باعتماد إجراءات العمل ونماذجه قرار من الوزير.",
+    "target_en": "2. Cases, petitions, memoranda, documents, and reports shall be filed in accordance with the procedures determined and forms designated by the Ministry; such procedures and forms shall be approved by the Minister.",
+    "source_ar_norm": "2. يكون تقديم الدعاوي والطلبات والمذكرات والمستندات والتقارير وفق اجراءات ونماذج العمل التي تعدها الوزارة، ويصدر باعتماد اجراءات العمل ونماذجه قرار من الوزير.",
+    "target_en_norm": "2. cases, petitions, memoranda, documents, and reports shall be filed in accordance with the procedures determined and forms designated by the ministry; such procedures and forms shall be approved by the minister.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47239,
+    "source_ar": "الباب الثاني: الاختصاص",
+    "target_en": "Part 2: Jurisdiction",
+    "source_ar_norm": "الباب الثاني: الاختصاص",
+    "target_en_norm": "part 2: jurisdiction",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47240,
+    "source_ar": "المادة الخامسة عشرة",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة",
+    "target_en_norm": "article 15",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47241,
+    "source_ar": "فيما لم يرد فيه نص خاص في الأنظمة التجارية، أو المعاهدات والاتفاقيات الدولية التي تكون المملكة طرفًا فيها، تسري قواعد الاختصاص الدولي المنصوص عليها في نظام المرافعات الشرعية على الدعاوى التي تختص بنظرها المحكمة.",
+    "target_en": "Absent a specific provision in commercial laws or international treaties and conventions to which the Kingdom is party, the rules of international jurisdiction stipulated in the Law of Civil Procedure shall apply to cases that fall within the jurisdiction of the commercial court.",
+    "source_ar_norm": "فيما لم يرد فيه نص خاص في الانظمة التجارية، او المعاهدات والاتفاقيات الدولية التي تكون المملكة طرفا فيها، تسري قواعد الاختصاص الدولي المنصوص عليها في نظام المرافعات الشرعية علي الدعاوي التي تختص بنظرها المحكمة.",
+    "target_en_norm": "absent a specific provision in commercial laws or international treaties and conventions to which the kingdom is party, the rules of international jurisdiction stipulated in the law of civil procedure shall apply to cases that fall within the jurisdiction of the commercial court.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47242,
+    "source_ar": "المادة السادسة عشرة",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة",
+    "target_en_norm": "article 16",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47243,
+    "source_ar": "تختص المحكمة بالنظر في الآتي:",
+    "target_en": "The commercial court shall have jurisdiction to consider the following:",
+    "source_ar_norm": "تختص المحكمة بالنظر في الاتي:",
+    "target_en_norm": "the commercial court shall have jurisdiction to consider the following:",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47244,
+    "source_ar": "1. المنازعات التي تنشأ بين التجار بسبب أعمالهم التجارية الأصلية أو التبعية.",
+    "target_en": "1. Disputes arising between merchants due to their main or supporting business activities.",
+    "source_ar_norm": "1. المنازعات التي تنشا بين التجار بسبب اعمالهم التجارية الاصلية او التبعية.",
+    "target_en_norm": "1. disputes arising between merchants due to their main or supporting business activities.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47245,
+    "source_ar": "2. الدعاوى المقامة على التاجر في منازعات العقود التجارية، متى كانت قيمة المطالبة الأصلية في الدعوى تزيد على مائة ألف ريال، وللمجلس عند الاقتضاء زيادة هذه القيمة.",
+    "target_en": "2. Cases filed against a merchant in commercial contract disputes if the original claim exceeds 100,000 riyals. The Council may, if necessary, raise the limit of such amount.",
+    "source_ar_norm": "2. الدعاوي المقامة علي التاجر في منازعات العقود التجارية، متي كانت قيمة المطالبة الاصلية في الدعوي تزيد علي مائة الف ريال، وللمجلس عند الاقتضاء زيادة هذه القيمة.",
+    "target_en_norm": "2. cases filed against a merchant in commercial contract disputes if the original claim exceeds 100,000 riyals. the council may, if necessary, raise the limit of such amount.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47246,
+    "source_ar": "3. منازعات الشركاء في شركة المضاربة.",
+    "target_en": "3. Disputes between partners in a Mudaraba company.",
+    "source_ar_norm": "3. منازعات الشركاء في شركة المضاربة.",
+    "target_en_norm": "3. disputes between partners in a mudaraba company.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47247,
+    "source_ar": "4. الدعاوى والمخالفات الناشئة عن تطبيق أحكام نظام الشركات.",
+    "target_en": "4. Claims and violations arising from the implementation of the Companies Law.",
+    "source_ar_norm": "4. الدعاوي والمخالفات الناشئة عن تطبيق احكام نظام الشركات.",
+    "target_en_norm": "4. claims and violations arising from the implementation of the companies law.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47248,
+    "source_ar": "5. الدعاوى والمخالفات الناشئة عن تطبيق أحكام نظام الإفلاس.",
+    "target_en": "5. Claims and violations arising from the implementation of the Bankruptcy Law.",
+    "source_ar_norm": "5. الدعاوي والمخالفات الناشئة عن تطبيق احكام نظام الافلاس.",
+    "target_en_norm": "5. claims and violations arising from the implementation of the bankruptcy law.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47249,
+    "source_ar": "6. الدعاوى والمخالفات الناشئة عن تطبيق أنظمة الملكية الفكرية.",
+    "target_en": "6. Claims and violations arising from the implementation of intellectual property laws.",
+    "source_ar_norm": "6. الدعاوي والمخالفات الناشئة عن تطبيق انظمة الملكية الفكرية.",
+    "target_en_norm": "6. claims and violations arising from the implementation of intellectual property laws.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47250,
+    "source_ar": "7. الدعاوى والمخالفات الناشئة عن تطبيق الأنظمة التجارية الأخرى.",
+    "target_en": "7. Claims and violations arising from the implementation of other commercial laws.",
+    "source_ar_norm": "7. الدعاوي والمخالفات الناشئة عن تطبيق الانظمة التجارية الاخري.",
+    "target_en_norm": "7. claims and violations arising from the implementation of other commercial laws.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47251,
+    "source_ar": "8. الدعاوى والطلبات المتعلقة بالحارس القضائي والأمين والمصفي والخبير المعينين ونحوهم؛ متى كان النزاع متعلقاً بدعوى تختص بنظرها المحكمة.",
+    "target_en": "8. Cases and claims related to appointed judicial receivers, trustees, liquidators, or experts, and the like, if the dispute is related to cases falling under the jurisdiction of the court.",
+    "source_ar_norm": "8. الدعاوي والطلبات المتعلقة بالحارس القضائي والامين والمصفي والخبير المعينين ونحوهم؛ متي كان النزاع متعلقا بدعوي تختص بنظرها المحكمة.",
+    "target_en_norm": "8. cases and claims related to appointed judicial receivers, trustees, liquidators, or experts, and the like, if the dispute is related to cases falling under the jurisdiction of the court.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47252,
+    "source_ar": "9. دعاوى التعويض عن الأضرار الناشئة عن دعوى سبق نظرها من المحكمة.",
+    "target_en": "9. Claims for compensation for damages arising from a previous ruling issued by the court.",
+    "source_ar_norm": "9. دعاوي التعويض عن الاضرار الناشئة عن دعوي سبق نظرها من المحكمة.",
+    "target_en_norm": "9. claims for compensation for damages arising from a previous ruling issued by the court.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47253,
+    "source_ar": "المادة السابعة عشرة",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة",
+    "target_en_norm": "article 17",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47254,
+    "source_ar": "1. ما لم يتفق الطرفان كتابة على غير ذلك، وفيما لم يرد فيه نص خاص في النظام، يكون الاختصاص المكاني للمحكمة التي يقع في نطاق اختصاصها مكان إقامة المدعى عليه، فإن لم يكن لـه مكان إقامة في المملكة فيكون الاختصاص للمحكمة التي يقع في نطاق اختصاصها مكان إقامة المدعي. ويجوز أن تقام الدعوى في المحكمة التي أبرم العقد أو نفذ أو كان واجب التنفيذ في نطاقها.",
+    "target_en": "1. Where this Law is silent and unless the parties agree otherwise in writing, the commercial court having jurisdiction over the dispute shall be the court within whose jurisdiction the defendant’s domicile is located. If the defendant does not have a domicile in the Kingdom, the jurisdiction over the dispute shall be with the court within whose jurisdiction the plaintiff’s domicile is located. A claim may be brought before the commercial court having jurisdiction over the place where the contract was concluded, executed, or intended to be executed.",
+    "source_ar_norm": "1. ما لم يتفق الطرفان كتابة علي غير ذلك، وفيما لم يرد فيه نص خاص في النظام، يكون الاختصاص المكاني للمحكمة التي يقع في نطاق اختصاصها مكان اقامة المدعي عليه، فان لم يكن له مكان اقامة في المملكة فيكون الاختصاص للمحكمة التي يقع في نطاق اختصاصها مكان اقامة المدعي. ويجوز ان تقام الدعوي في المحكمة التي ابرم العقد او نفذ او كان واجب التنفيذ في نطاقها.",
+    "target_en_norm": "1. where this law is silent and unless the parties agree otherwise in writing, the commercial court having jurisdiction over the dispute shall be the court within whose jurisdiction the defendant’s domicile is located. if the defendant does not have a domicile in the kingdom, the jurisdiction over the dispute shall be with the court within whose jurisdiction the plaintiff’s domicile is located. a claim may be brought before the commercial court having jurisdiction over the place where the contract was concluded, executed, or intended to be executed.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47255,
+    "source_ar": "2. في الدعاوى المتعلقة بالشركات، يكون الاختصاص المكاني للمحكمة التي يقع في نطاق اختصاصها المقر الرئيس للشركة، سواء كانت الدعوى على الشركة، أو من الشركة على أحد الشركاء، أو من شريك على آخر، أو على مديريها أو أعضاء مجلس إدارتها. ويجوز رفع الدعوى إلى المحكمة التي يقع في نطاق اختصاصها فرع الشركة في المنازعات الناشئة من التعاقد مع ذلك الفرع.",
+    "target_en": "2. In claims pertaining to companies, the commercial court having territorial jurisdiction over the dispute shall be the court within whose jurisdiction the company’s headquarters is located, irrespective of whether the claim is filed against the company; by the company against one of its partners; by one partner against another; or against a manager or board member. The claim may be filed with the court having jurisdiction over a company’s branch if the dispute arises from a contract concluded with said branch.",
+    "source_ar_norm": "2. في الدعاوي المتعلقة بالشركات، يكون الاختصاص المكاني للمحكمة التي يقع في نطاق اختصاصها المقر الرئيس للشركة، سواء كانت الدعوي علي الشركة، او من الشركة علي احد الشركاء، او من شريك علي اخر، او علي مديريها او اعضاء مجلس ادارتها. ويجوز رفع الدعوي الي المحكمة التي يقع في نطاق اختصاصها فرع الشركة في المنازعات الناشئة من التعاقد مع ذلك الفرع.",
+    "target_en_norm": "2. in claims pertaining to companies, the commercial court having territorial jurisdiction over the dispute shall be the court within whose jurisdiction the company’s headquarters is located, irrespective of whether the claim is filed against the company; by the company against one of its partners; by one partner against another; or against a manager or board member. the claim may be filed with the court having jurisdiction over a company’s branch if the dispute arises from a contract concluded with said branch.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47256,
+    "source_ar": "المادة الثامنة عشرة",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة",
+    "target_en_norm": "article 18",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47257,
+    "source_ar": "للمحكمة أن تفصل استقلالاً في الدفع بعدم الاختصاص النوعي في مدة لا تتجاوز (عشرين) يوماً من تاريخ الدفع.",
+    "target_en": "The commercial court may, independent from other motions, rule on lack of subject-matter jurisdiction within a period not exceeding 20 days from the motion date.",
+    "source_ar_norm": "للمحكمة ان تفصل استقلالا في الدفع بعدم الاختصاص النوعي في مدة لا تتجاوز (عشرين) يوما من تاريخ الدفع.",
+    "target_en_norm": "the commercial court may, independent from other motions, rule on lack of subject-matter jurisdiction within a period not exceeding 20 days from the motion date.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47258,
+    "source_ar": "الباب الثالث: قيد الدعوى",
+    "target_en": "Part 3: Claim Registration",
+    "source_ar_norm": "الباب الثالث: قيد الدعوي",
+    "target_en_norm": "part 3: claim registration",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47259,
+    "source_ar": "التاسعة عشرة",
+    "target_en": "Article 19",
+    "source_ar_norm": "التاسعة عشرة",
+    "target_en_norm": "article 19",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47260,
+    "source_ar": "1. يجب في الدعاوى التي تحددها اللائحة أن يخطر المدعي المدعى عليه كتابة بأداء الحق المدعى به قبل (خمسة عشر) يوماً على الأقل من إقامة الدعوى.",
+    "target_en": "1. In claims determined by the Regulations, a plaintiff shall require the defendant in writing to satisfy the claim at least 15 days prior to initiation of legal proceedings.",
+    "source_ar_norm": "1. يجب في الدعاوي التي تحددها اللائحة ان يخطر المدعي المدعي عليه كتابة باداء الحق المدعي به قبل (خمسة عشر) يوما علي الاقل من اقامة الدعوي.",
+    "target_en_norm": "1. in claims determined by the regulations, a plaintiff shall require the defendant in writing to satisfy the claim at least 15 days prior to initiation of legal proceedings.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47261,
+    "source_ar": "2. يجوز لأطراف التعامل التجاري قبل قيد الدعوى -وتحت إشراف المحكمة- اتخاذ أي مما يأتي:",
+    "target_en": "2. Parties to a commercial transaction, prior to registering a claim and under the commercial court’s supervision, may:",
+    "source_ar_norm": "2. يجوز لاطراف التعامل التجاري قبل قيد الدعوي -وتحت اشراف المحكمة- اتخاذ اي مما ياتي:",
+    "target_en_norm": "2. parties to a commercial transaction, prior to registering a claim and under the commercial court’s supervision, may:",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47262,
+    "source_ar": "أ- إجراءات المصالحة والوساطة.",
+    "target_en": "a) engage in mediation and reconciliation procedures;",
+    "source_ar_norm": "ا- اجراءات المصالحة والوساطة.",
+    "target_en_norm": "a) engage in mediation and reconciliation procedures;",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47263,
+    "source_ar": "ب- تبادل المستندات والمذكرات.",
+    "target_en": "b) exchange documents and memoranda; and",
+    "source_ar_norm": "ب- تبادل المستندات والمذكرات.",
+    "target_en_norm": "b) exchange documents and memoranda; and",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47264,
+    "source_ar": "ج- عقد اجتماع لتحديد الطلبات والدفوع والبينات.",
+    "target_en": "c) hold meetings to set forth claims, defenses, and evidence.",
+    "source_ar_norm": "ج- عقد اجتماع لتحديد الطلبات والدفوع والبينات.",
+    "target_en_norm": "c) hold meetings to set forth claims, defenses, and evidence.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47265,
+    "source_ar": "وتحدد اللائحة أحكام إنفاذ هذه الفقرة بما في ذلك كيفية توثيق ما تم اتخاذه.",
+    "target_en": "The Regulations shall determine the provisions for implementing this paragraph, including procedures for documenting actions taken.",
+    "source_ar_norm": "وتحدد اللائحة احكام انفاذ هذه الفقرة بما في ذلك كيفية توثيق ما تم اتخاذه.",
+    "target_en_norm": "the regulations shall determine the provisions for implementing this paragraph, including procedures for documenting actions taken.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47266,
+    "source_ar": "المادة العشرون",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون",
+    "target_en_norm": "article 20",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47267,
+    "source_ar": "1. ترفع الدعوى بصحيفة تودع لدى المحكمة، وتحدد اللائحة الدعاوى التي يجب رفعها من محامٍ.",
+    "target_en": "1. A claim shall be filed with the commercial court by means of a statement of claim registered therewith. The Regulations shall specify the claims to be filed by a lawyer.",
+    "source_ar_norm": "1. ترفع الدعوي بصحيفة تودع لدي المحكمة، وتحدد اللائحة الدعاوي التي يجب رفعها من محام.",
+    "target_en_norm": "1. a claim shall be filed with the commercial court by means of a statement of claim registered therewith. the regulations shall specify the claims to be filed by a lawyer.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47268,
+    "source_ar": "2. يجب أن تتضمن صحيفة الدعوى الآتي:",
+    "target_en": "2. The statement of claim shall include:",
+    "source_ar_norm": "2. يجب ان تتضمن صحيفة الدعوي الاتي:",
+    "target_en_norm": "2. the statement of claim shall include:",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47269,
+    "source_ar": "أ- بيانات الأطراف وممثليهم وصفاتهم وعناوينهم، والبيانات والوثائق التي تحددها اللائحة.",
+    "target_en": "a) particulars and addresses of the parties and their representatives and their capacities, as well as the data and documents determined by the Regulations; and",
+    "source_ar_norm": "ا- بيانات الاطراف وممثليهم وصفاتهم وعناوينهم، والبيانات والوثائق التي تحددها اللائحة.",
+    "target_en_norm": "a) particulars and addresses of the parties and their representatives and their capacities, as well as the data and documents determined by the regulations; and",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47270,
+    "source_ar": "ب- حصر الطلبات، وتحديد جميع أسانيد الدعوى.",
+    "target_en": "b) a list of demands and grounds therefor.",
+    "source_ar_norm": "ب- حصر الطلبات، وتحديد جميع اسانيد الدعوي.",
+    "target_en_norm": "b) a list of demands and grounds therefor.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47271,
+    "source_ar": "3. لا يجمع في صحيفة الدعوى بين عدة طلبات لا رابط بينها.",
+    "target_en": "3. A statement of claim shall not include unrelated demands.",
+    "source_ar_norm": "3. لا يجمع في صحيفة الدعوي بين عدة طلبات لا رابط بينها.",
+    "target_en_norm": "3. a statement of claim shall not include unrelated demands.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47272,
+    "source_ar": "المادة الحادية والعشرون",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون",
+    "target_en_norm": "article 21",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47273,
+    "source_ar": "1. تُقيِّد الإدارة المختصة في المحكمة صحيفة الدعوى إذا كانت مستوفية المطلوب وفقاً للمادة (العشرين) من النظام.",
+    "target_en": "1. The relevant department of the commercial court shall register the statement of claim if it meets the requirements stipulated in Article 20 of this Law.",
+    "source_ar_norm": "1. تقيد الادارة المختصة في المحكمة صحيفة الدعوي اذا كانت مستوفية المطلوب وفقا للمادة (العشرين) من النظام.",
+    "target_en_norm": "1. the relevant department of the commercial court shall register the statement of claim if it meets the requirements stipulated in article 20 of this law.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47274,
+    "source_ar": "2. إذا قررت الإدارة عدم قيد الدعوى؛ لعدم الاستيفاء، فعلى طالب القيد استيفاء ما نقص خلال (خمسة عشر) يوماً من تاريخ إبلاغه بذلك، فإن قيدت الدعوى بعد الاستيفاء عُدَّت مقيدة من تاريخ تقديم طلب القيد، وإن لم يستوفِ ما طلب منه خلال هذه المدة عُدَّ الطلب كأن لم يكن، ويجب على الإدارة إثبات تاريخ تقديم طلب القيد في جميع الأحوال.",
+    "target_en": "2. If the department does not register the applicant’s claim for being incomplete and the applicant is notified thereof, the applicant shall complete the requirements within 15 days from the date of notification. If the claim is registered upon satisfaction of the requirements, the claim shall be deemed registered as of the date of submission. If the applicant fails to complete the requirements within said period, the application shall be deemed null and void. In all cases, the department shall record the date of submitting the application for registration.",
+    "source_ar_norm": "2. اذا قررت الادارة عدم قيد الدعوي؛ لعدم الاستيفاء، فعلي طالب القيد استيفاء ما نقص خلال (خمسة عشر) يوما من تاريخ ابلاغه بذلك، فان قيدت الدعوي بعد الاستيفاء عدت مقيدة من تاريخ تقديم طلب القيد، وان لم يستوف ما طلب منه خلال هذه المدة عد الطلب كان لم يكن، ويجب علي الادارة اثبات تاريخ تقديم طلب القيد في جميع الاحوال.",
+    "target_en_norm": "2. if the department does not register the applicant’s claim for being incomplete and the applicant is notified thereof, the applicant shall complete the requirements within 15 days from the date of notification. if the claim is registered upon satisfaction of the requirements, the claim shall be deemed registered as of the date of submission. if the applicant fails to complete the requirements within said period, the application shall be deemed null and void. in all cases, the department shall record the date of submitting the application for registration.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47275,
+    "source_ar": "3. لطالب القيد التظلم لدى رئيس المحكمة من عدم القيد خلال (خمسة عشر) يوماً من تاريخ إبلاغه بعدم القيد، ويفصل رئيس المحكمة -أو من ينيبه من قضاة المحكمة- في التظلم، ويعد قراره في هذا الشأن نهائيًّا.",
+    "target_en": "3. An applicant whose application for registration is declined may appeal before the chief judge of the commercial court within 15 days from the date of being notified thereof. The chief judge or his designee from among court judges, shall decide on the appeal, and his decision shall be final.",
+    "source_ar_norm": "3. لطالب القيد التظلم لدي رئيس المحكمة من عدم القيد خلال (خمسة عشر) يوما من تاريخ ابلاغه بعدم القيد، ويفصل رئيس المحكمة -او من ينيبه من قضاة المحكمة- في التظلم، ويعد قراره في هذا الشان نهائيا.",
+    "target_en_norm": "3. an applicant whose application for registration is declined may appeal before the chief judge of the commercial court within 15 days from the date of being notified thereof. the chief judge or his designee from among court judges, shall decide on the appeal, and his decision shall be final.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47276,
+    "source_ar": "المادة الثانية والعشرون",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون",
+    "target_en_norm": "article 22",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47277,
+    "source_ar": "1. تحيل الإدارة المختصة الدعاوى والطلبات إلى الدوائر وفق القواعد التي تحددها اللائحة، وتحدد الإدارة تاريخ الجلسة المحددة لنظرها، وتبلغ المدعى عليه بها فور إحالة الدعوى.",
+    "target_en": "1. The relevant department shall refer cases and claims to the circuits in accordance with the Regulations, set a hearing date, and notify the defendant immediately after referral.",
+    "source_ar_norm": "1. تحيل الادارة المختصة الدعاوي والطلبات الي الدوائر وفق القواعد التي تحددها اللائحة، وتحدد الادارة تاريخ الجلسة المحددة لنظرها، وتبلغ المدعي عليه بها فور احالة الدعوي.",
+    "target_en_norm": "1. the relevant department shall refer cases and claims to the circuits in accordance with the regulations, set a hearing date, and notify the defendant immediately after referral.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47278,
+    "source_ar": "2. على المدعى عليه -فيما عدا الطلبات المستعجلة- أن يودع لدى المحكمة مذكرة بدفاعه مشتملة على جوابه على الدعوى وجميع دفوعه، وتحديد طلباته وجميع أسانيده، وذلك قبل الجلسة المحددة لنظر الدعوى بيوم واحد على الأقل.",
+    "target_en": "2. A defendant shall, except in summary petitions, register with the commercial court a defense memorandum that includes his response to the claim and all his defenses, evidence, and demands at least one day before the scheduled hearing.",
+    "source_ar_norm": "2. علي المدعي عليه -فيما عدا الطلبات المستعجلة- ان يودع لدي المحكمة مذكرة بدفاعه مشتملة علي جوابه علي الدعوي وجميع دفوعه، وتحديد طلباته وجميع اسانيده، وذلك قبل الجلسة المحددة لنظر الدعوي بيوم واحد علي الاقل.",
+    "target_en_norm": "2. a defendant shall, except in summary petitions, register with the commercial court a defense memorandum that includes his response to the claim and all his defenses, evidence, and demands at least one day before the scheduled hearing.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47279,
+    "source_ar": "المادة الثالثة والعشرون",
+    "target_en": "Article 23",
+    "source_ar_norm": "المادة الثالثة والعشرون",
+    "target_en_norm": "article 23",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47280,
+    "source_ar": "تتولى الإدارة المختصة في المحكمة تهيئة الدعوى، بما في ذلك الآتي:",
+    "target_en": "The relevant department of the commercial court shall prepare the case by undertaking the following:",
+    "source_ar_norm": "تتولي الادارة المختصة في المحكمة تهيئة الدعوي، بما في ذلك الاتي:",
+    "target_en_norm": "the relevant department of the commercial court shall prepare the case by undertaking the following:",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47281,
+    "source_ar": "1. استكمال أوراق الدعوى.",
+    "target_en": "1. Ensuring completion of case documents.",
+    "source_ar_norm": "1. استكمال اوراق الدعوي.",
+    "target_en_norm": "1. ensuring completion of case documents.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47282,
+    "source_ar": "2. تبليغ الأطراف.",
+    "target_en": "2. Notifying the parties.",
+    "source_ar_norm": "2. تبليغ الاطراف.",
+    "target_en_norm": "2. notifying the parties.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47283,
+    "source_ar": "3. تبادل المذكرات والمستندات.",
+    "target_en": "3. Exchanging memoranda and documents.",
+    "source_ar_norm": "3. تبادل المذكرات والمستندات.",
+    "target_en_norm": "3. exchanging memoranda and documents.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47284,
+    "source_ar": "4. إعداد التقرير الأولي عن الدعوى.",
+    "target_en": "4. Preparing an initial report on the case.",
+    "source_ar_norm": "4. اعداد التقرير الاولي عن الدعوي.",
+    "target_en_norm": "4. preparing an initial report on the case.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47285,
+    "source_ar": "وتحدد اللائحة أحكام إنفاذ هذه المادة.",
+    "target_en": "The Regulations shall determine the implementation of this Article.",
+    "source_ar_norm": "وتحدد اللائحة احكام انفاذ هذه المادة.",
+    "target_en_norm": "the regulations shall determine the implementation of this article.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47286,
+    "source_ar": "المادة الرابعة والعشرون",
+    "target_en": "Article 24",
+    "source_ar_norm": "المادة الرابعة والعشرون",
+    "target_en_norm": "article 24",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47287,
+    "source_ar": "فيما لم يرد به نص خاص، لا تسمع الدعاوى التي تختص بنظرها المحكمة بعد مضي (خمس) سنوات من تاريخ نشوء الحق المدعى به، ما لم يقر المدعى عليه بالحق أو يتقدم المدعي بعذر تقبله المحكمة.",
+    "target_en": "Absent a specific provision, the statute of limitations for claims falling under the jurisdiction of the commercial court shall be five years from the date of the cause of action, unless the defendant confirms the claim or the claimant presents an acceptable justification to the court.",
+    "source_ar_norm": "فيما لم يرد به نص خاص، لا تسمع الدعاوي التي تختص بنظرها المحكمة بعد مضي (خمس) سنوات من تاريخ نشوء الحق المدعي به، ما لم يقر المدعي عليه بالحق او يتقدم المدعي بعذر تقبله المحكمة.",
+    "target_en_norm": "absent a specific provision, the statute of limitations for claims falling under the jurisdiction of the commercial court shall be five years from the date of the cause of action, unless the defendant confirms the claim or the claimant presents an acceptable justification to the court.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47288,
+    "source_ar": "الباب الرابع: نظر الدعوى",
+    "target_en": "Part 4: Consideration of the Case",
+    "source_ar_norm": "الباب الرابع: نظر الدعوي",
+    "target_en_norm": "part 4: consideration of the case",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47289,
+    "source_ar": "المادة الخامسة والعشرون",
+    "target_en": "Article 25",
+    "source_ar_norm": "المادة الخامسة والعشرون",
+    "target_en_norm": "article 25",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47290,
+    "source_ar": "1. يكون توزيع الدعاوى بين أعضاء الدائرة وفق آلية يحددها المجلس.",
+    "target_en": "1. Cases shall be distributed among the members of a circuit according to procedures set by the Council.",
+    "source_ar_norm": "1. يكون توزيع الدعاوي بين اعضاء الدائرة وفق الية يحددها المجلس.",
+    "target_en_norm": "1. cases shall be distributed among the members of a circuit according to procedures set by the council.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47291,
+    "source_ar": "2. تكون إجراءات نظر الدعوى والمرافعة فيها كتابة، على أنه يجوز للدائرة سماع ما لدى الأطراف مشافهة. وللأطراف أن يطلبوا من المحكمة سماع ملخصٍ لأقوالهم ودفوعهم مشافهة في ختام مرافعتهم، وتثبت المحكمة ذلك في محضر الجلسة.",
+    "target_en": "2. Court proceedings and pleadings shall be in writing; however, the circuit may hear the statements by the parties orally. The parties may request the commercial court to hear an oral summary of their statements and defenses at the conclusion of their pleadings, and the court shall record the same in the hearing record.",
+    "source_ar_norm": "2. تكون اجراءات نظر الدعوي والمرافعة فيها كتابة، علي انه يجوز للدائرة سماع ما لدي الاطراف مشافهة. وللاطراف ان يطلبوا من المحكمة سماع ملخص لاقوالهم ودفوعهم مشافهة في ختام مرافعتهم، وتثبت المحكمة ذلك في محضر الجلسة.",
+    "target_en_norm": "2. court proceedings and pleadings shall be in writing; however, the circuit may hear the statements by the parties orally. the parties may request the commercial court to hear an oral summary of their statements and defenses at the conclusion of their pleadings, and the court shall record the same in the hearing record.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47292,
+    "source_ar": "3. تحدد اللائحة الدعاوى التي يجب أن يكون الترافع فيها من محامٍ.",
+    "target_en": "3. The Regulations shall determine the cases where the pleadings must be brought by a lawyer.",
+    "source_ar_norm": "3. تحدد اللائحة الدعاوي التي يجب ان يكون الترافع فيها من محام.",
+    "target_en_norm": "3. the regulations shall determine the cases where the pleadings must be brought by a lawyer.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47293,
+    "source_ar": "السادسة والعشرون",
+    "target_en": "Article 26",
+    "source_ar_norm": "السادسة والعشرون",
+    "target_en_norm": "article 26",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47294,
+    "source_ar": "للمحكمة عند تخلف أي من أطراف الدعوى عن تقديم ما طلب منه في الميعاد المحدد دون عذر؛ أن تقرر أيًّا مما يأتي:",
+    "target_en": "If any of the parties unjustifiably fails to satisfy the requirements made by the commercial court within the specified time, the court may:",
+    "source_ar_norm": "للمحكمة عند تخلف اي من اطراف الدعوي عن تقديم ما طلب منه في الميعاد المحدد دون عذر؛ ان تقرر ايا مما ياتي:",
+    "target_en_norm": "if any of the parties unjustifiably fails to satisfy the requirements made by the commercial court within the specified time, the court may:",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47295,
+    "source_ar": "1. فرض الغرامة المنصوص عليها في الفقرة (1) من المادة (الثالثة عشرة) من النظام، ويعد قرارها في هذا الشأن نهائيًّا.",
+    "target_en": "1. impose the fine stipulated in Article 13(1) of this Law; its decision in this regard shall be final; or",
+    "source_ar_norm": "1. فرض الغرامة المنصوص عليها في الفقرة (1) من المادة (الثالثة عشرة) من النظام، ويعد قرارها في هذا الشان نهائيا.",
+    "target_en_norm": "1. impose the fine stipulated in article 13(1) of this law; its decision in this regard shall be final; or",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47296,
+    "source_ar": "2. عدم قبول الطلبات العارضة أو المقابلة من الطرف الذي تخلف عن التقديم.",
+    "target_en": "2. reject the party’s responses and counterclaims.",
+    "source_ar_norm": "2. عدم قبول الطلبات العارضة او المقابلة من الطرف الذي تخلف عن التقديم.",
+    "target_en_norm": "2. reject the party’s responses and counterclaims.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47297,
+    "source_ar": "المادة السابعة والعشرون",
+    "target_en": "Article 27",
+    "source_ar_norm": "المادة السابعة والعشرون",
+    "target_en_norm": "article 27",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47298,
+    "source_ar": "1. تنظم اللائحة عدد الجلسات وأنواعها وإجراءات ضبطها ومواعيدها وحالات التأجيل.",
+    "target_en": "1. The Regulations shall determine the number and type of hearings, as well as procedures for their scheduling and recording, and reasons for adjournment.",
+    "source_ar_norm": "1. تنظم اللائحة عدد الجلسات وانواعها واجراءات ضبطها ومواعيدها وحالات التاجيل.",
+    "target_en_norm": "1. the regulations shall determine the number and type of hearings, as well as procedures for their scheduling and recording, and reasons for adjournment.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47299,
+    "source_ar": "2. لا يجوز تأجيل الجلسة إلا لسبب يقتضي ذلك يثبت في محضرها، ولا يجوز التأجيل للسبب نفسه أكثر من مرة.",
+    "target_en": "2. A hearing may not be adjourned, except for a reason necessitating such adjournment which shall be entered into the record. A hearing may not be adjourned for the same reason more than once.",
+    "source_ar_norm": "2. لا يجوز تاجيل الجلسة الا لسبب يقتضي ذلك يثبت في محضرها، ولا يجوز التاجيل للسبب نفسه اكثر من مرة.",
+    "target_en_norm": "2. a hearing may not be adjourned, except for a reason necessitating such adjournment which shall be entered into the record. a hearing may not be adjourned for the same reason more than once.",
+    "file_name": "نظام المحاكم التجارية.docx"
+  },
+  {
+    "id": 47300,
+    "source_ar": "المادة الثامنة والعشرون",
+    "target_en": "Article 28",
+    "source_ar_norm": "المادة الثامنة والعشرون",
+    "target_en_norm": "article 28",
+    "file_name": "نظام المحاكم التجارية.docx"
+  }
+]
