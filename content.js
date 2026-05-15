@@ -1879,7 +1879,7 @@ shadow.innerHTML = [
 "</div>",
 "<div class='bar'><div class='fill' id='fill'></div></div>",
 "<div class='statusBox' id='status'>Ready. Import HTML or choose a saved TM.</div>",
-"<div class='mini'>Local only · Persistent TM Library · No network</div>",
+"<div class='mini'>Local only Â· Persistent TM Library Â· No network</div>",
 "</aside>",
 
 "<main class='mainbox'>",
@@ -2439,6 +2439,161 @@ updateStats();
 syncOpenButton();
 }
 
+
+/* =========================================================
+   CAT Online JSON TM Full Loader
+   Loads all JSON chunks into the active CAT memory
+   ========================================================= */
+
+function catOnlineJsonTmLoadBox() {
+  if (document.getElementById("catOnlineTmFullLoadBox")) return;
+
+  var box = document.createElement("div");
+  box.id = "catOnlineTmFullLoadBox";
+  box.style.cssText = [
+    "position:fixed",
+    "left:18px",
+    "bottom:132px",
+    "z-index:2147483647",
+    "background:#ffffff",
+    "border:1px solid #d0d7de",
+    "border-radius:14px",
+    "box-shadow:0 8px 24px rgba(0,0,0,.18)",
+    "padding:12px",
+    "font-family:Tahoma,Arial,sans-serif",
+    "direction:rtl",
+    "width:300px",
+    "color:#111827"
+  ].join(";");
+
+  box.innerHTML = [
+    "<button id='catOnlineTmFullLoadBtn' style='",
+    "width:100%;border:0;border-radius:10px;padding:10px;",
+    "background:#0F8F4F;color:white;font-weight:700;",
+    "cursor:pointer;font-size:14px;'>",
+    "ØªØ­ÙÙÙ Ø°Ø§ÙØ±Ø© JSON ÙØ§ÙÙØ©",
+    "</button>",
+    "<div id='catOnlineTmFullLoadStatus' style='",
+    "margin-top:10px;font-size:13px;line-height:1.7;",
+    "color:#374151;white-space:pre-line;word-break:break-word;'>",
+    "ÙÙ ÙØªÙ ØªØ­ÙÙÙ Ø§ÙØ°Ø§ÙØ±Ø© Ø¨Ø¹Ø¯.",
+    "</div>"
+  ].join("");
+
+  document.body.appendChild(box);
+
+  document
+    .getElementById("catOnlineTmFullLoadBtn")
+    .addEventListener("click", catLoadFullOnlineJsonTm);
+}
+
+function catOnlineTmFullStatus(msg) {
+  var el = document.getElementById("catOnlineTmFullLoadStatus");
+  if (el) el.textContent = msg;
+}
+
+async function catLoadJsonFile(url) {
+  var res = await fetch(url, { cache: "no-store" });
+  if (!res.ok) throw new Error("ÙØ´Ù ØªØ­ÙÙÙ: " + url + " | HTTP " + res.status);
+  return await res.json();
+}
+
+async function catLoadFullOnlineJsonTm() {
+  try {
+    var btn = document.getElementById("catOnlineTmFullLoadBtn");
+    if (btn) {
+      btn.disabled = true;
+      btn.textContent = "Ø¬Ø§Ø±Ù Ø§ÙØªØ­ÙÙÙ...";
+      btn.style.opacity = "0.7";
+    }
+
+    catOnlineTmFullStatus("Ø¬Ø§Ø±Ù ØªØ­ÙÙÙ ÙÙØ±Ø³ Ø°Ø§ÙØ±Ø© Ø§ÙØªØ±Ø¬ÙØ©...");
+
+    var indexBase = location.origin + "/db/";
+    var chunkBase = location.origin + "/";
+
+    var index = await catLoadJsonFile(indexBase + "tm_index.json?v=" + Date.now());
+
+    if (!index || !Array.isArray(index.chunks) || !index.chunks.length) {
+      throw new Error("ÙÙÙ tm_index.json ÙØ§ ÙØ­ØªÙÙ Ø¹ÙÙ ÙØ§Ø¦ÙØ© chunks.");
+    }
+
+    resetMemory();
+
+    var totalChunks = index.chunks.length;
+    var added = 0;
+    var skipped = 0;
+
+    for (var i = 0; i < totalChunks; i++) {
+      var chunkInfo = index.chunks[i];
+      var fileName = chunkInfo.file;
+      var url = chunkBase + fileName + "?v=" + Date.now();
+
+      catOnlineTmFullStatus(
+        "Ø¬Ø§Ø±Ù ØªØ­ÙÙÙ Ø§ÙØ°Ø§ÙØ±Ø©...\n" +
+        "Ø§ÙÙÙÙ: " + fileName + "\n" +
+        "Ø§ÙØªÙØ¯Ù: " + asc(i + 1) + " / " + asc(totalChunks) + "\n" +
+        "Ø§ÙÙÙØ§Ø·Ø¹ Ø§ÙÙØ¶Ø§ÙØ©: " + asc(added)
+      );
+
+      var items = await catLoadJsonFile(url);
+
+      if (Array.isArray(items)) {
+        for (var j = 0; j < items.length; j++) {
+          var it = items[j] || {};
+          var ar = it.source_ar || it.ar || "";
+          var en = it.target_en || it.en || "";
+
+          var before = APP.tus.length;
+          addTU(ar, en, -1, "online-json:" + fileName);
+
+          if (APP.tus.length > before) added++;
+          else skipped++;
+        }
+      }
+
+      if (i % 10 === 0) {
+        await new Promise(function (resolve) { setTimeout(resolve, 1); });
+      }
+    }
+
+    APP.built = APP.tus.length > 0;
+    APP.activeMemoryId = "online-json";
+    APP.activeMemoryName = "Online JSON TM";
+
+    catOnlineTmFullStatus(
+      "ØªÙ ØªØ­ÙÙÙ Ø°Ø§ÙØ±Ø© JSON Ø¨ÙØ¬Ø§Ø­ â\n" +
+      "Ø¥Ø¬ÙØ§ÙÙ ÙÙÙØ§Øª Ø§ÙØ°Ø§ÙØ±Ø©: " + asc(totalChunks) + "\n" +
+      "Ø¥Ø¬ÙØ§ÙÙ Ø§ÙÙÙØ§Ø·Ø¹ ÙÙ Ø§ÙÙÙØ±Ø³: " + asc(index.total_segments || "") + "\n" +
+      "Ø§ÙÙÙØ§Ø·Ø¹ Ø§ÙÙØ¶Ø§ÙØ© ÙØ¹ÙÙÙØ§: " + asc(added) + "\n" +
+      "Ø§ÙÙÙØ±Ø±Ø©/Ø§ÙÙØªØ¬Ø§ÙÙØ©: " + asc(skipped) + "\n" +
+      "Ø¥Ø¬ÙØ§ÙÙ Ø§ÙØ°Ø§ÙØ±Ø© Ø§ÙÙØ´Ø·Ø©: " + asc(APP.tus.length)
+    );
+
+    try {
+      console.log("CAT Online JSON TM loaded:", {
+        index: index,
+        added: added,
+        skipped: skipped,
+        activeTus: APP.tus.length
+      });
+    } catch (e) {}
+
+  } catch (err) {
+    console.error(err);
+    catOnlineTmFullStatus("ÙØ´Ù ØªØ­ÙÙÙ Ø§ÙØ°Ø§ÙØ±Ø© â\n" + err.message);
+  } finally {
+    var btn = document.getElementById("catOnlineTmFullLoadBtn");
+    if (btn) {
+      btn.disabled = false;
+      btn.textContent = "ØªØ­ÙÙÙ Ø°Ø§ÙØ±Ø© JSON ÙØ§ÙÙØ©";
+      btn.style.opacity = "1";
+    }
+  }
+}
+
+ready(catOnlineJsonTmLoadBox);
+
 ready(function () {
 try { initUI(); }
 catch (e) { alert("CAT V45 Professional error: " + (e && e.message ? e.message : e)); }
@@ -2492,7 +2647,7 @@ catch (e) { alert("CAT V45 Professional error: " + (e && e.message ? e.message :
         font-weight:700;
         cursor:pointer;
         font-size:14px;
-      ">اختبار ذاكرة JSON</button>
+      ">Ø§Ø®ØªØ¨Ø§Ø± Ø°Ø§ÙØ±Ø© JSON</button>
       <div id="catOnlineTmTestStatus" style="
         margin-top:10px;
         font-size:13px;
@@ -2500,7 +2655,7 @@ catch (e) { alert("CAT V45 Professional error: " + (e && e.message ? e.message :
         color:#374151;
         word-break:break-word;
         white-space:pre-line;
-      ">لم يتم الاختبار بعد.</div>
+      ">ÙÙ ÙØªÙ Ø§ÙØ§Ø®ØªØ¨Ø§Ø± Ø¨Ø¹Ø¯.</div>
     `;
 
     document.body.appendChild(box);
@@ -2518,14 +2673,14 @@ catch (e) { alert("CAT V45 Professional error: " + (e && e.message ? e.message :
   async function loadJson(url) {
     const res = await fetch(url, { cache: "no-store" });
     if (!res.ok) {
-      throw new Error("فشل تحميل: " + url + " | HTTP " + res.status);
+      throw new Error("ÙØ´Ù ØªØ­ÙÙÙ: " + url + " | HTTP " + res.status);
     }
     return await res.json();
   }
 
   async function loadOnlineJsonTmTest() {
     try {
-      setStatus("جاري تحميل فهرس الذاكرة...");
+      setStatus("Ø¬Ø§Ø±Ù ØªØ­ÙÙÙ ÙÙØ±Ø³ Ø§ÙØ°Ø§ÙØ±Ø©...");
 
       const indexBase = location.origin + "/db/";
       const chunkBase = location.origin + "/";
@@ -2534,13 +2689,13 @@ catch (e) { alert("CAT V45 Professional error: " + (e && e.message ? e.message :
       const index = await loadJson(indexUrl);
 
       if (!index || !Array.isArray(index.chunks) || !index.chunks.length) {
-        throw new Error("ملف tm_index.json لا يحتوي على chunks.");
+        throw new Error("ÙÙÙ tm_index.json ÙØ§ ÙØ­ØªÙÙ Ø¹ÙÙ chunks.");
       }
 
       const firstChunkName = index.chunks[0].file;
       const firstChunkUrl = chunkBase + firstChunkName + "?v=" + Date.now();
 
-      setStatus("تم تحميل الفهرس. جاري تحميل أول ملف: " + firstChunkName);
+      setStatus("ØªÙ ØªØ­ÙÙÙ Ø§ÙÙÙØ±Ø³. Ø¬Ø§Ø±Ù ØªØ­ÙÙÙ Ø£ÙÙ ÙÙÙ: " + firstChunkName);
 
       const firstChunk = await loadJson(firstChunkUrl);
 
@@ -2552,18 +2707,18 @@ catch (e) { alert("CAT V45 Professional error: " + (e && e.message ? e.message :
       };
 
       setStatus(
-        "نجح الاختبار ✅\n" +
-        "إجمالي المقاطع: " + index.total_segments + "\n" +
-        "عدد ملفات الذاكرة: " + index.chunks.length + "\n" +
-        "أول ملف: " + firstChunkName + "\n" +
-        "مقاطع أول ملف: " + firstChunk.length
+        "ÙØ¬Ø­ Ø§ÙØ§Ø®ØªØ¨Ø§Ø± â\n" +
+        "Ø¥Ø¬ÙØ§ÙÙ Ø§ÙÙÙØ§Ø·Ø¹: " + index.total_segments + "\n" +
+        "Ø¹Ø¯Ø¯ ÙÙÙØ§Øª Ø§ÙØ°Ø§ÙØ±Ø©: " + index.chunks.length + "\n" +
+        "Ø£ÙÙ ÙÙÙ: " + firstChunkName + "\n" +
+        "ÙÙØ§Ø·Ø¹ Ø£ÙÙ ÙÙÙ: " + firstChunk.length
       );
 
       console.log("CAT_ONLINE_JSON_TM:", window.CAT_ONLINE_JSON_TM);
 
     } catch (err) {
       console.error(err);
-      setStatus("فشل الاختبار ❌\n" + err.message);
+      setStatus("ÙØ´Ù Ø§ÙØ§Ø®ØªØ¨Ø§Ø± â\n" + err.message);
     }
   }
 
