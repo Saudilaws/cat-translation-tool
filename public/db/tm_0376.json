@@ -1,0 +1,802 @@
+[
+  {
+    "id": 37501,
+    "source_ar": "1 - الترخيص للجمعيات والمؤسسات.",
+    "target_en": "1. Licensing associations and organizations.",
+    "source_ar_norm": "1 - الترخيص للجمعيات والمؤسسات.",
+    "target_en_norm": "1. licensing associations and organizations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37502,
+    "source_ar": "2 - تقديم الإعانات الحكومية للجمعيات.",
+    "target_en": "2. Providing associations with government subsidies.",
+    "source_ar_norm": "2 - تقديم الاعانات الحكومية للجمعيات.",
+    "target_en_norm": "2. providing associations with government subsidies.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37503,
+    "source_ar": "3 - الإشراف على نشاطات الجمعيات والمؤسسات ومراقبتها إداريًّا وماليًّا، وتحدد اللائحة قواعد ذلك.",
+    "target_en": "3. Overseeing the activities of associations and organizations and monitoring them administratively and financially. The Regulations shall specify relevant rules.",
+    "source_ar_norm": "3 - الاشراف علي نشاطات الجمعيات والمؤسسات ومراقبتها اداريا وماليا، وتحدد اللائحة قواعد ذلك.",
+    "target_en_norm": "3. overseeing the activities of associations and organizations and monitoring them administratively and financially. the regulations shall specify relevant rules.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37504,
+    "source_ar": "4 - العمل على تطوير الجمعيات والمؤسسات.",
+    "target_en": "4. Developing associations and organizations.",
+    "source_ar_norm": "4 - العمل علي تطوير الجمعيات والمؤسسات.",
+    "target_en_norm": "4. developing associations and organizations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37505,
+    "source_ar": "5 - تنظيم المؤتمرات والندوات في مجال العمل الأهلي أو المشاركة فيها، ودعم البحوث والدراسات الخاصة بذلك وتفعيلها.",
+    "target_en": "5. Organizing conferences and symposia in the field of civil work and the importance of participating therein, and supporting relevant research and studies.",
+    "source_ar_norm": "5 - تنظيم المؤتمرات والندوات في مجال العمل الاهلي او المشاركة فيها، ودعم البحوث والدراسات الخاصة بذلك وتفعيلها.",
+    "target_en_norm": "5. organizing conferences and symposia in the field of civil work and the importance of participating therein, and supporting relevant research and studies.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37506,
+    "source_ar": "6 - البت في اندماج الجمعيات والمؤسسات أيًّا كان نوعها.",
+    "target_en": "6. Approving the merger of associations or organizations.",
+    "source_ar_norm": "6 - البت في اندماج الجمعيات والمؤسسات ايا كان نوعها.",
+    "target_en_norm": "6. approving the merger of associations or organizations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37507,
+    "source_ar": "7 - وضع القواعد اللازمة للتنسيق بين الجهات الرسمية والجمعيات والمؤسسات، داخل المملكة، وفقاً لهذا النظام والأنظمة الأخرى.",
+    "target_en": "7. Setting the rules necessary for coordination between official agencies and associations and organizations, within the Kingdom, in accordance with this Law and other laws.",
+    "source_ar_norm": "7 - وضع القواعد اللازمة للتنسيق بين الجهات الرسمية والجمعيات والمؤسسات، داخل المملكة، وفقا لهذا النظام والانظمة الاخري.",
+    "target_en_norm": "7. setting the rules necessary for coordination between official agencies and associations and organizations, within the kingdom, in accordance with this law and other laws.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37508,
+    "source_ar": "8 - دعم ثقة المجتمع في الجمعيات والمؤسسات وتعزيزه.",
+    "target_en": "8. Promoting public trust in associations and organizations.",
+    "source_ar_norm": "8 - دعم ثقة المجتمع في الجمعيات والمؤسسات وتعزيزه.",
+    "target_en_norm": "8. promoting public trust in associations and organizations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37509,
+    "source_ar": "9 - نشر ثقافة العمل التطوعي في المجتمع.",
+    "target_en": "9. Fostering the culture of volunteer work.",
+    "source_ar_norm": "9 - نشر ثقافة العمل التطوعي في المجتمع.",
+    "target_en_norm": "9. fostering the culture of volunteer work.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37510,
+    "source_ar": "10 - وضع الخطط والأولويات للأنشطة والأعمال التي يحتاجها المجتمع، وتكوين قاعدة بيانات منها يسترشد بها أعضاء الجمعيات وأصحاب المؤسسات.",
+    "target_en": "10. Setting the plans and priorities for the activities needed by the society, and creating a database of such activities to act as a guide for members of associations and owners of organizations.",
+    "source_ar_norm": "10 - وضع الخطط والاولويات للانشطة والاعمال التي يحتاجها المجتمع، وتكوين قاعدة بيانات منها يسترشد بها اعضاء الجمعيات واصحاب المؤسسات.",
+    "target_en_norm": "10. setting the plans and priorities for the activities needed by the society, and creating a database of such activities to act as a guide for members of associations and owners of organizations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37511,
+    "source_ar": "مهمات الجهة المشرفة",
+    "target_en": "Responsibilities of the Supervisory Authority",
+    "source_ar_norm": "مهمات الجهة المشرفة",
+    "target_en_norm": "responsibilities of the supervisory authority",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37512,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article 5",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37513,
+    "source_ar": "تتولى كل جهة مشرفة القيام بما يأتي:",
+    "target_en": "Each supervisory authority shall have the following responsibilities:",
+    "source_ar_norm": "تتولي كل جهة مشرفة القيام بما ياتي:",
+    "target_en_norm": "each supervisory authority shall have the following responsibilities:",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37514,
+    "source_ar": "1 - الموافقة على إنشاء الجمعيات والمؤسسات التي تدخل نشاطاتها ضمن اختصاصها؛ تمهيداً لاستكمال إجراءات الترخيص لها من الوزارة وفقاً لأحكام هذا النظام.",
+    "target_en": "1. Approving the establishment of associations and organizations whose activities fall within its jurisdiction, in preparation for completing licensing procedures by the Ministry in accordance with the provisions of this Law.",
+    "source_ar_norm": "1 - الموافقة علي انشاء الجمعيات والمؤسسات التي تدخل نشاطاتها ضمن اختصاصها؛ تمهيدا لاستكمال اجراءات الترخيص لها من الوزارة وفقا لاحكام هذا النظام.",
+    "target_en_norm": "1. approving the establishment of associations and organizations whose activities fall within its jurisdiction, in preparation for completing licensing procedures by the ministry in accordance with the provisions of this law.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37515,
+    "source_ar": "2 - الإشراف الفني على ممارسة الجمعيات والمؤسسات لنشاطاتها، ومتابعتها.",
+    "target_en": "2. Technically supervising and monitoring the activities of associations and organizations.",
+    "source_ar_norm": "2 - الاشراف الفني علي ممارسة الجمعيات والمؤسسات لنشاطاتها، ومتابعتها.",
+    "target_en_norm": "2. technically supervising and monitoring the activities of associations and organizations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37516,
+    "source_ar": "3 - العمل على تطوير الجمعيات والمؤسسات.",
+    "target_en": "3. Developing associations and organizations.",
+    "source_ar_norm": "3 - العمل علي تطوير الجمعيات والمؤسسات.",
+    "target_en_norm": "3. developing associations and organizations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37517,
+    "source_ar": "إصدار التراخيص",
+    "target_en": "Issuance of Licenses",
+    "source_ar_norm": "اصدار التراخيص",
+    "target_en_norm": "issuance of licenses",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37518,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article 6",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37519,
+    "source_ar": "تكون الوزارة هي المسؤولة عن إصدار التراخيص للجمعيات والمؤسسات، وتعديلها وتجديدها، وذلك بعد التنسيق مع الجهة المختصة وبعد الحصول على موافقة الجهة المشرفة، عدا الجمعيات العلمية التي نشأت أو تنشأ في الجامعات، فتطبق في شأنها الأحكام والقواعد المنظمة للجمعيات العلمية في الجامعات.",
+    "target_en": "The Ministry shall be responsible for issuing, amending, and renewing licenses for associations and organizations in coordination with the competent authority, upon the supervisory authority’s approval, except for scientific societies founded under universities which shall be subject to the provisions and rules governing scientific societies at universities.",
+    "source_ar_norm": "تكون الوزارة هي المسؤولة عن اصدار التراخيص للجمعيات والمؤسسات، وتعديلها وتجديدها، وذلك بعد التنسيق مع الجهة المختصة وبعد الحصول علي موافقة الجهة المشرفة، عدا الجمعيات العلمية التي نشات او تنشا في الجامعات، فتطبق في شانها الاحكام والقواعد المنظمة للجمعيات العلمية في الجامعات.",
+    "target_en_norm": "the ministry shall be responsible for issuing, amending, and renewing licenses for associations and organizations in coordination with the competent authority, upon the supervisory authority’s approval, except for scientific societies founded under universities which shall be subject to the provisions and rules governing scientific societies at universities.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37520,
+    "source_ar": "صندوق دعم الجمعيات",
+    "target_en": "Association Support Fund",
+    "source_ar_norm": "صندوق دعم الجمعيات",
+    "target_en_norm": "association support fund",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37521,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article 7",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37522,
+    "source_ar": "1- ينشأ بموجب هذا النظام صندوق يسمى (صندوق دعم الجمعيات) يرتبط بالوزير، وتكون مهمته دعم برامج الجمعيات وتطويرها بما يضمن استمرار أعمالها وفقاً لما تحدده لائحة الصندوق.",
+    "target_en": "1. A fund named the “Association Support Fund” reporting to the Minister shall be created under this Law. The Fund shall be in charge of supporting and developing the programs of associations to ensure continuity thereof in accordance with the Fund’s regulations.",
+    "source_ar_norm": "1- ينشا بموجب هذا النظام صندوق يسمي (صندوق دعم الجمعيات) يرتبط بالوزير، وتكون مهمته دعم برامج الجمعيات وتطويرها بما يضمن استمرار اعمالها وفقا لما تحدده لائحة الصندوق.",
+    "target_en_norm": "1. a fund named the “association support fund” reporting to the minister shall be created under this law. the fund shall be in charge of supporting and developing the programs of associations to ensure continuity thereof in accordance with the fund’s regulations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37523,
+    "source_ar": "2 - موارد الصندوق:",
+    "target_en": "2. Fund revenues shall consist of the following:",
+    "source_ar_norm": "2 - موارد الصندوق:",
+    "target_en_norm": "2. fund revenues shall consist of the following:",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37524,
+    "source_ar": "أ - ما يخصص له من اعتمادات في ميزانية الدولة.",
+    "target_en": "a) Allocations in the State budget.",
+    "source_ar_norm": "ا - ما يخصص له من اعتمادات في ميزانية الدولة.",
+    "target_en_norm": "a) allocations in the state budget.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37525,
+    "source_ar": "ب - ما يتلقاه من التبرعات، والهبات، والأوقاف.",
+    "target_en": "b) Donations, grants, and endowments.",
+    "source_ar_norm": "ب - ما يتلقاه من التبرعات، والهبات، والاوقاف.",
+    "target_en_norm": "b) donations, grants, and endowments.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37526,
+    "source_ar": "جـ - الأموال التي قد تؤول إليه بعد حل الجمعيات.",
+    "target_en": "c) Property resulting from the dissolution of associations.",
+    "source_ar_norm": "ج - الاموال التي قد تؤول اليه بعد حل الجمعيات.",
+    "target_en_norm": "c) property resulting from the dissolution of associations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37527,
+    "source_ar": "د - العائد من استثماره لموارده.",
+    "target_en": "d) Returns on investments.",
+    "source_ar_norm": "د - العائد من استثماره لموارده.",
+    "target_en_norm": "d) returns on investments.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37528,
+    "source_ar": "هـ - ما تخصصه له الدولة من عوائد الرسوم والضرائب.",
+    "target_en": "e) State allocations from fees and taxes.",
+    "source_ar_norm": "ه - ما تخصصه له الدولة من عوائد الرسوم والضرائب.",
+    "target_en_norm": "e) state allocations from fees and taxes.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37529,
+    "source_ar": "3 - يصدر الوزير لائحة مستقلة للصندوق تتضمن جميع الأحكام المنظمة لعمل الصندوق بما في ذلك كيفية إدارته وإدارة أمواله واستثمارها، وآليات الرقابة وقواعد الحجب والمنع.",
+    "target_en": "3. The Minister shall issue separate regulations for the Fund which shall include all the provisions governing the Fund, including its management, management and investment of its funds, monitoring procedures, and eligibility rules.",
+    "source_ar_norm": "3 - يصدر الوزير لائحة مستقلة للصندوق تتضمن جميع الاحكام المنظمة لعمل الصندوق بما في ذلك كيفية ادارته وادارة امواله واستثمارها، واليات الرقابة وقواعد الحجب والمنع.",
+    "target_en_norm": "3. the minister shall issue separate regulations for the fund which shall include all the provisions governing the fund, including its management, management and investment of its funds, monitoring procedures, and eligibility rules.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37530,
+    "source_ar": "إنشاء الجمعيات",
+    "target_en": "Establishment of Associations",
+    "source_ar_norm": "انشاء الجمعيات",
+    "target_en_norm": "establishment of associations",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37531,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article 8",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37532,
+    "source_ar": "1- يقدم طلب إنشاء الجمعية - مصحوباً بنسخة من اللائحة الأساسية - من عدد لا يقل عن عشرة أشخاص سعوديين من ذوي الصفة الطبيعية أو الاعتبارية، ويشترط في الشخص ذي الصفة الطبيعية أن يكون كامل الأهلية، ولم يصدر حكم نهائي بإدانته في جريمة مخلة بالشرف أو الأمانة، ما لم يكن قد رُدّ إليه اعتباره.",
+    "target_en": "1. An application for the establishment of an association shall be filed by not fewer than 10 Saudi persons, natural or corporate, attached with a copy of the charter. A natural person shall be legally competent and shall not have been convicted of a crime impinging upon honor or integrity, unless rehabilitated.",
+    "source_ar_norm": "1- يقدم طلب انشاء الجمعية - مصحوبا بنسخة من اللائحة الاساسية - من عدد لا يقل عن عشرة اشخاص سعوديين من ذوي الصفة الطبيعية او الاعتبارية، ويشترط في الشخص ذي الصفة الطبيعية ان يكون كامل الاهلية، ولم يصدر حكم نهائي بادانته في جريمة مخلة بالشرف او الامانة، ما لم يكن قد رد اليه اعتباره.",
+    "target_en_norm": "1. an application for the establishment of an association shall be filed by not fewer than 10 saudi persons, natural or corporate, attached with a copy of the charter. a natural person shall be legally competent and shall not have been convicted of a crime impinging upon honor or integrity, unless rehabilitated.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37533,
+    "source_ar": "2 - لا يجوز الموافقة على إنشاء الجمعية إذا تضمنت لائحتها الأساسية أحكاماً تتعارض مع أحكام الشريعة الإسلامية، أو تخالف النظام العام، أو تتنافى مع الآداب العامة، أو تخل بالوحدة الوطنية، أو تتعارض مع أحكام النظام أو اللائحة أو غيرهما من الأنظمة واللوائح.",
+    "target_en": "2. An association may not be established if its charter contains provisions conflicting with the provisions of Sharia, public order, or public morality, or if it undermines national unity or conflicts with the provisions of the Law, Regulations, or any other laws and regulations.",
+    "source_ar_norm": "2 - لا يجوز الموافقة علي انشاء الجمعية اذا تضمنت لائحتها الاساسية احكاما تتعارض مع احكام الشريعة الاسلامية، او تخالف النظام العام، او تتنافي مع الاداب العامة، او تخل بالوحدة الوطنية، او تتعارض مع احكام النظام او اللائحة او غيرهما من الانظمة واللوائح.",
+    "target_en_norm": "2. an association may not be established if its charter contains provisions conflicting with the provisions of sharia, public order, or public morality, or if it undermines national unity or conflicts with the provisions of the law, regulations, or any other laws and regulations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37534,
+    "source_ar": "3 - على الوزارة الرد على طلب إنشاء الجمعية خلال (ستين) يوماً من تاريخ استكمال مسوغات الطلب المنصوص عليها في هذا النظام والإجراءات التي تحددها اللائحة، ويعد عدم الرد خلال هذه المدة بمثابة موافقة على إنشائها.",
+    "target_en": "3. The Ministry shall issue a decision on the application for establishing an association within 60 days from the date of fulfillment of the requirements set forth in this Law and the procedures specified in the Regulations. Failure to issue a decision within said period shall be considered an approval of its establishment.",
+    "source_ar_norm": "3 - علي الوزارة الرد علي طلب انشاء الجمعية خلال (ستين) يوما من تاريخ استكمال مسوغات الطلب المنصوص عليها في هذا النظام والاجراءات التي تحددها اللائحة، ويعد عدم الرد خلال هذه المدة بمثابة موافقة علي انشائها.",
+    "target_en_norm": "3. the ministry shall issue a decision on the application for establishing an association within 60 days from the date of fulfillment of the requirements set forth in this law and the procedures specified in the regulations. failure to issue a decision within said period shall be considered an approval of its establishment.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37535,
+    "source_ar": "4 - تكون للجمعية شخصية اعتبارية بعد موافقة الوزارة على إنشائها، وتنشر لائحتها الأساسية في وسائل الإعلام التي تحددها اللائحة، ولا يجوز لأي جمعية ممارسة أي نشاط من نشاطاتها إلا بعد إتمام إجراءات تأسيسها وفقاً لأحكام النظام واللائحة.",
+    "target_en": "4. An association shall have a corporate personality upon the Ministry’s approval of its establishment. Its charter shall be published in the media as specified in the Regulations. An association may not engage in any of its activities except upon completion of its establishment procedures in accordance with the provisions of the Law and Regulations.",
+    "source_ar_norm": "4 - تكون للجمعية شخصية اعتبارية بعد موافقة الوزارة علي انشائها، وتنشر لائحتها الاساسية في وسائل الاعلام التي تحددها اللائحة، ولا يجوز لاي جمعية ممارسة اي نشاط من نشاطاتها الا بعد اتمام اجراءات تاسيسها وفقا لاحكام النظام واللائحة.",
+    "target_en_norm": "4. an association shall have a corporate personality upon the ministry’s approval of its establishment. its charter shall be published in the media as specified in the regulations. an association may not engage in any of its activities except upon completion of its establishment procedures in accordance with the provisions of the law and regulations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37536,
+    "source_ar": "اللائحة الأساسية",
+    "target_en": "Charter",
+    "source_ar_norm": "اللائحة الاساسية",
+    "target_en_norm": "charter",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37537,
+    "source_ar": "المادة التاسعة:",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة:",
+    "target_en_norm": "article 9",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37538,
+    "source_ar": "يجب أن تشمل اللائحة الأساسية البيانات والأحكام الأساسية المتعلقة بالجمعية، وعلى وجه خاص ما يأتي:",
+    "target_en": "The charter shall include the association’s basic information and provisions, particularly the following:",
+    "source_ar_norm": "يجب ان تشمل اللائحة الاساسية البيانات والاحكام الاساسية المتعلقة بالجمعية، وعلي وجه خاص ما ياتي:",
+    "target_en_norm": "the charter shall include the association’s basic information and provisions, particularly the following:",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37539,
+    "source_ar": "1 - اسم الجمعية ومقرها الرئيس، والنطاق الجغرافي لخدماتها.",
+    "target_en": "1. The association’s name, main office and the geographical area covered by its services.",
+    "source_ar_norm": "1 - اسم الجمعية ومقرها الرئيس، والنطاق الجغرافي لخدماتها.",
+    "target_en_norm": "1. the association’s name, main office and the geographical area covered by its services.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37540,
+    "source_ar": "2 - الغرض الذي أنشئت من أجله.",
+    "target_en": "2. Purpose of establishment.",
+    "source_ar_norm": "2 - الغرض الذي انشئت من اجله.",
+    "target_en_norm": "2. purpose of establishment.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37541,
+    "source_ar": "3 - أسماء المؤسسين، وبياناتهم، وعناوينهم الدائمة.",
+    "target_en": "3. Names of the founders, their particulars, and permanent addresses.",
+    "source_ar_norm": "3 - اسماء المؤسسين، وبياناتهم، وعناوينهم الدائمة.",
+    "target_en_norm": "3. names of the founders, their particulars, and permanent addresses.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37542,
+    "source_ar": "4 - شروط العضوية وأنواعها، وحقوق الأعضاء وواجباتهم.",
+    "target_en": "4. Membership conditions and types, and members’ rights and duties.",
+    "source_ar_norm": "4 - شروط العضوية وانواعها، وحقوق الاعضاء وواجباتهم.",
+    "target_en_norm": "4. membership conditions and types, and members’ rights and duties.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37543,
+    "source_ar": "5 - تحديد موارد الجمعية من بين المصادر المنصوص عليها في المادة (الثانية عشرة) من النظام، وكيفية التصرف فيها.",
+    "target_en": "5. Identifying the association's revenues from among the revenue sources provided for in Article 12 of the Law, and the manner of disposal thereof.",
+    "source_ar_norm": "5 - تحديد موارد الجمعية من بين المصادر المنصوص عليها في المادة (الثانية عشرة) من النظام، وكيفية التصرف فيها.",
+    "target_en_norm": "5. identifying the association's revenues from among the revenue sources provided for in article 12 of the law, and the manner of disposal thereof.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37544,
+    "source_ar": "6 - تحديد بداية السنة المالية للجمعية ونهايتها.",
+    "target_en": "6. Specifying the beginning and end of the association’s fiscal year.",
+    "source_ar_norm": "6 - تحديد بداية السنة المالية للجمعية ونهايتها.",
+    "target_en_norm": "6. specifying the beginning and end of the association’s fiscal year.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37545,
+    "source_ar": "7 - تحديد عدد أعضاء مجلس الإدارة، والأحكام المتعلقة بانتخابهم، ومدة المجلس، على ألا تتجاوز أربع سنوات قابلة للتجديد، والنصاب النظامي لاجتماعاته.",
+    "target_en": "7. Determining the number of board members, provisions relating to their election, board's term, provided it does not exceed four renewable years, and the quorum for board meetings.",
+    "source_ar_norm": "7 - تحديد عدد اعضاء مجلس الادارة، والاحكام المتعلقة بانتخابهم، ومدة المجلس، علي الا تتجاوز اربع سنوات قابلة للتجديد، والنصاب النظامي لاجتماعاته.",
+    "target_en_norm": "7. determining the number of board members, provisions relating to their election, board's term, provided it does not exceed four renewable years, and the quorum for board meetings.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37546,
+    "source_ar": "8 - أساليب المراقبة المالية.",
+    "target_en": "8. Methods of financial control.",
+    "source_ar_norm": "8 - اساليب المراقبة المالية.",
+    "target_en_norm": "8. methods of financial control.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37547,
+    "source_ar": "9 - الأحكام المتعلقة بأجهزة الجمعية، ومهمات واختصاصات كل منها، وكيفية اختيار العاملين فيها، وكيفية إنهاء خدماتهم.",
+    "target_en": "9. Provisions relating to the association’s organs, their tasks and powers, and the procedures related to the recruitment of employees and the termination of their services.",
+    "source_ar_norm": "9 - الاحكام المتعلقة باجهزة الجمعية، ومهمات واختصاصات كل منها، وكيفية اختيار العاملين فيها، وكيفية انهاء خدماتهم.",
+    "target_en_norm": "9. provisions relating to the association’s organs, their tasks and powers, and the procedures related to the recruitment of employees and the termination of their services.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37548,
+    "source_ar": "10 - الإجراءات اللازمة لدمج الجمعية في جمعية أخرى.",
+    "target_en": "10. Procedures for merging with other associations.",
+    "source_ar_norm": "10 - الاجراءات اللازمة لدمج الجمعية في جمعية اخري.",
+    "target_en_norm": "10. procedures for merging with other associations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37549,
+    "source_ar": "11 - الإجراءات اللازمة لتعديل اللائحة الأساسية.",
+    "target_en": "11. Procedures for amending the charter.",
+    "source_ar_norm": "11 - الاجراءات اللازمة لتعديل اللائحة الاساسية.",
+    "target_en_norm": "11. procedures for amending the charter.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37550,
+    "source_ar": "12 - القواعد التي تتبع عند حل الجمعية حلاًّ اختياريًّا، وإجراءات التصفية والجهة التي تؤول إليها أموالها، على أن تقصر على الصندوق أو إحدى الجمعيات ذات النشاط المشابه المسجلة نظاماً.",
+    "target_en": "12. Rules for voluntary dissolution of the association, liquidation procedures, and the entity to which its funds shall devolve, provided that this shall be limited to the Fund or a registered association of a similar nature.",
+    "source_ar_norm": "12 - القواعد التي تتبع عند حل الجمعية حلا اختياريا، واجراءات التصفية والجهة التي تؤول اليها اموالها، علي ان تقصر علي الصندوق او احدي الجمعيات ذات النشاط المشابه المسجلة نظاما.",
+    "target_en_norm": "12. rules for voluntary dissolution of the association, liquidation procedures, and the entity to which its funds shall devolve, provided that this shall be limited to the fund or a registered association of a similar nature.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37551,
+    "source_ar": "إنشاء الفروع",
+    "target_en": "Establishment of Branches",
+    "source_ar_norm": "انشاء الفروع",
+    "target_en_norm": "establishment of branches",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37552,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article 10",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37553,
+    "source_ar": "يجوز للجمعية أن تنشئ لها فروعاً داخل المملكة بعد موافقة الوزارة على ذلك، وتحدد اللائحة الأساسية طريقة تكوين هذه الفروع واختصاصاتها، وغير ذلك من الأحكام المتعلقة بها.",
+    "target_en": "An association may set up branches within the Kingdom following the Ministry’s approval. The charter shall provide for the establishment procedures and powers of said branches, as well as other related provisions.",
+    "source_ar_norm": "يجوز للجمعية ان تنشئ لها فروعا داخل المملكة بعد موافقة الوزارة علي ذلك، وتحدد اللائحة الاساسية طريقة تكوين هذه الفروع واختصاصاتها، وغير ذلك من الاحكام المتعلقة بها.",
+    "target_en_norm": "an association may set up branches within the kingdom following the ministry’s approval. the charter shall provide for the establishment procedures and powers of said branches, as well as other related provisions.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37554,
+    "source_ar": "أجهزة الجمعية",
+    "target_en": "Association’s Organs",
+    "source_ar_norm": "اجهزة الجمعية",
+    "target_en_norm": "association’s organs",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37555,
+    "source_ar": "المادة الحادية عشرة:",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة:",
+    "target_en_norm": "article 11",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37556,
+    "source_ar": "تتكون الجمعية من الأجهزة الآتية:",
+    "target_en": "An association shall consist of the following organs:",
+    "source_ar_norm": "تتكون الجمعية من الاجهزة الاتية:",
+    "target_en_norm": "an association shall consist of the following organs:",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37557,
+    "source_ar": "1 - الجمعية العمومية.",
+    "target_en": "1. General assembly.",
+    "source_ar_norm": "1 - الجمعية العمومية.",
+    "target_en_norm": "1. general assembly.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37558,
+    "source_ar": "2 - مجلس الإدارة.",
+    "target_en": "2. Board of directors.",
+    "source_ar_norm": "2 - مجلس الادارة.",
+    "target_en_norm": "2. board of directors.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37559,
+    "source_ar": "3 - اللجان الدائمة التي تكوّنها الجمعية العمومية، أو مجلس الإدارة، على أن يحدد اختصاصها القرار الصادر بتكوينها.",
+    "target_en": "3. Standing committees formed by the general assembly or the board of directors, provided that their powers are determined in the formation decision.",
+    "source_ar_norm": "3 - اللجان الدائمة التي تكونها الجمعية العمومية، او مجلس الادارة، علي ان يحدد اختصاصها القرار الصادر بتكوينها.",
+    "target_en_norm": "3. standing committees formed by the general assembly or the board of directors, provided that their powers are determined in the formation decision.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37560,
+    "source_ar": "4 - الجهاز التنفيذي.",
+    "target_en": "4. The executive body.",
+    "source_ar_norm": "4 - الجهاز التنفيذي.",
+    "target_en_norm": "4. the executive body.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37561,
+    "source_ar": "موارد الجمعية",
+    "target_en": "Association’s Revenues",
+    "source_ar_norm": "موارد الجمعية",
+    "target_en_norm": "association’s revenues",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37562,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article 12",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37563,
+    "source_ar": "تتكون موارد الجمعية مما يأتي:",
+    "target_en": "Revenues of an association shall consist of the following:",
+    "source_ar_norm": "تتكون موارد الجمعية مما ياتي:",
+    "target_en_norm": "revenues of an association shall consist of the following:",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37564,
+    "source_ar": "1 - رسوم العضوية (إن وجدت).",
+    "target_en": "1. Membership fees (if any).",
+    "source_ar_norm": "1 - رسوم العضوية (ان وجدت).",
+    "target_en_norm": "1. membership fees (if any).",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37565,
+    "source_ar": "2 - عوائد نشاطات الجمعية.",
+    "target_en": "2. Proceeds from the association’s activities.",
+    "source_ar_norm": "2 - عوائد نشاطات الجمعية.",
+    "target_en_norm": "2. proceeds from the association’s activities.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37566,
+    "source_ar": "3 - الصدقات، والهبات، والأوقاف، والتبرعات.",
+    "target_en": "3. Charities, grants, endowments, and donations.",
+    "source_ar_norm": "3 - الصدقات، والهبات، والاوقاف، والتبرعات.",
+    "target_en_norm": "3. charities, grants, endowments, and donations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37567,
+    "source_ar": "4 - العوائد الاستـثمارية من أمـوال الجمعيـة.",
+    "target_en": "4. Returns on investment of the association’s funds.",
+    "source_ar_norm": "4 - العوائد الاستثمارية من اموال الجمعية.",
+    "target_en_norm": "4. returns on investment of the association’s funds.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37568,
+    "source_ar": "5 - ما يقرر لها من إعانات حكومية.",
+    "target_en": "5. Government subsidies.",
+    "source_ar_norm": "5 - ما يقرر لها من اعانات حكومية.",
+    "target_en_norm": "5. government subsidies.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37569,
+    "source_ar": "6 - ما قد يخصصه الصندوق من دعم لبرامجها وتطويرها.",
+    "target_en": "6. Allocations by the Fund for the association and its programs.",
+    "source_ar_norm": "6 - ما قد يخصصه الصندوق من دعم لبرامجها وتطويرها.",
+    "target_en_norm": "6. allocations by the fund for the association and its programs.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37570,
+    "source_ar": "7 - الموارد المالية التي تحققها الجمعية من خلال إدارتها لمؤسسة تابعة لإحدى الجهات الحكومية أو الخاصة، أو تنفيذ بعض مشروعاتها أو برامجها وفقاً للمادة (السابعة والعشرين) من النظام.",
+    "target_en": "7. Revenues generated through its management of an entity affiliated with a government or private agency, or the execution of some of its projects or programs in accordance with Article 27 of the Law.",
+    "source_ar_norm": "7 - الموارد المالية التي تحققها الجمعية من خلال ادارتها لمؤسسة تابعة لاحدي الجهات الحكومية او الخاصة، او تنفيذ بعض مشروعاتها او برامجها وفقا للمادة (السابعة والعشرين) من النظام.",
+    "target_en_norm": "7. revenues generated through its management of an entity affiliated with a government or private agency, or the execution of some of its projects or programs in accordance with article 27 of the law.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37571,
+    "source_ar": "8 - الزكوات للجمعيات التي يشتمل نشاطها على مصارف للزكاة.",
+    "target_en": "8. Zakat money for associations with channels for spending zakat.",
+    "source_ar_norm": "8 - الزكوات للجمعيات التي يشتمل نشاطها علي مصارف للزكاة.",
+    "target_en_norm": "8. zakat money for associations with channels for spending zakat.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37572,
+    "source_ar": "الجمعية العمومية",
+    "target_en": "General Assembly",
+    "source_ar_norm": "الجمعية العمومية",
+    "target_en_norm": "general assembly",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37573,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article 13",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37574,
+    "source_ar": "1- تتكون الجمعية العمومية من الأعضاء المؤسسين والأعضاء الذين مضت على عضويتهم في الجمعية ستة أشهر على الأقل، بشرط تسديد رسوم العضوية إن وجدت.",
+    "target_en": "1. The general assembly shall be composed of the founding members and those who have been members for at least six months, provided that membership fees, if any, are paid.",
+    "source_ar_norm": "1- تتكون الجمعية العمومية من الاعضاء المؤسسين والاعضاء الذين مضت علي عضويتهم في الجمعية ستة اشهر علي الاقل، بشرط تسديد رسوم العضوية ان وجدت.",
+    "target_en_norm": "1. the general assembly shall be composed of the founding members and those who have been members for at least six months, provided that membership fees, if any, are paid.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37575,
+    "source_ar": "2 - تعقد الجمعية العمومية اجتماعاتها (العادية وغير العادية) في مقر الجمعية بناءً على دعوة خطية من رئيس مجلس إدارة الجمعية تشتمل على جدول الأعمال، ومكان الاجتماع، وتاريخه، وساعة انعقاده، على أن تبلغ الوزارة والجهة المشرفة وأعضاء الجمعية بالدعوة قبل الموعد المحدد بخمسة عشر يوماً على الأقل، ويجوز للوزارة وللجهة المشرفة ندب من يمثلها لحضور الاجتماع.",
+    "target_en": "2. The general assembly shall hold its meetings (ordinary and extraordinary) at the headquarters of the association pursuant to a written invitation by the chairman of the association’s board of directors. The invitation shall include the agenda, venue, and date and time of the meeting. The Ministry, supervisory authority, and members of the association shall be notified at least 15 days prior to the specified date. The Ministry and supervisory authority may delegate a representative to attend the meeting.",
+    "source_ar_norm": "2 - تعقد الجمعية العمومية اجتماعاتها (العادية وغير العادية) في مقر الجمعية بناء علي دعوة خطية من رئيس مجلس ادارة الجمعية تشتمل علي جدول الاعمال، ومكان الاجتماع، وتاريخه، وساعة انعقاده، علي ان تبلغ الوزارة والجهة المشرفة واعضاء الجمعية بالدعوة قبل الموعد المحدد بخمسة عشر يوما علي الاقل، ويجوز للوزارة وللجهة المشرفة ندب من يمثلها لحضور الاجتماع.",
+    "target_en_norm": "2. the general assembly shall hold its meetings (ordinary and extraordinary) at the headquarters of the association pursuant to a written invitation by the chairman of the association’s board of directors. the invitation shall include the agenda, venue, and date and time of the meeting. the ministry, supervisory authority, and members of the association shall be notified at least 15 days prior to the specified date. the ministry and supervisory authority may delegate a representative to attend the meeting.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37576,
+    "source_ar": "3 - تعقد الجمعية العمومية اجتماعاً عاديًّا مرة واحدة على الأقل كل سنة مالية للجمعية، على أن يعقد الاجتماع الأول لكل سنة خلال الأشهر الأربعة الأولى منها.",
+    "target_en": "3. The general assembly shall hold an ordinary meeting at least once every fiscal year, provided that the first meeting of each year is held during the first four months of that year.",
+    "source_ar_norm": "3 - تعقد الجمعية العمومية اجتماعا عاديا مرة واحدة علي الاقل كل سنة مالية للجمعية، علي ان يعقد الاجتماع الاول لكل سنة خلال الاشهر الاربعة الاولي منها.",
+    "target_en_norm": "3. the general assembly shall hold an ordinary meeting at least once every fiscal year, provided that the first meeting of each year is held during the first four months of that year.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37577,
+    "source_ar": "4 - تعقد الجمعية العمومية اجتماعاتها غير العادية بناءً على طلبٍ مُسبَّبٍ من الوزارة، أو من مجلس الإدارة، أو بناء على طلب عدد لا يقل عن (٢٥٪) من الأعضاء الذين لهم حق حضور الجمعية العمومية.",
+    "target_en": "4. The general assembly shall hold its extraordinary meetings pursuant to a reasoned request from the Ministry or the board of directors, or upon the request of not less than 25% of the members who have the right to attend the general assembly.",
+    "source_ar_norm": "4 - تعقد الجمعية العمومية اجتماعاتها غير العادية بناء علي طلب مسبب من الوزارة، او من مجلس الادارة، او بناء علي طلب عدد لا يقل عن (٢٥٪) من الاعضاء الذين لهم حق حضور الجمعية العمومية.",
+    "target_en_norm": "4. the general assembly shall hold its extraordinary meetings pursuant to a reasoned request from the ministry or the board of directors, or upon the request of not less than 25% of the members who have the right to attend the general assembly.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37578,
+    "source_ar": "5 - لعضو الجمعية العمومية أن ينيب عنه - كتابة - عضواً آخر يمثله في حضور الجمعية العمومية، ولا يجوز أن ينوب العضو عن أكثر من عضو.",
+    "target_en": "5. A general assembly member may delegate – in writing – another member to represent him in attending the general assembly, and a member may not act as a proxy for more than one member.",
+    "source_ar_norm": "5 - لعضو الجمعية العمومية ان ينيب عنه - كتابة - عضوا اخر يمثله في حضور الجمعية العمومية، ولا يجوز ان ينوب العضو عن اكثر من عضو.",
+    "target_en_norm": "5. a general assembly member may delegate – in writing – another member to represent him in attending the general assembly, and a member may not act as a proxy for more than one member.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37579,
+    "source_ar": "6 - لا يجوز لعضو الجمعية العمومية الاشتراك في التصويت على أي قرار إذا كانت له فيه مصلحة شخصية، وذلك فيما عدا انتخاب أعضاء مجلس الإدارة.",
+    "target_en": "6. A general assembly member may not vote on any decision involving a personal interest, except for the election of board members.",
+    "source_ar_norm": "6 - لا يجوز لعضو الجمعية العمومية الاشتراك في التصويت علي اي قرار اذا كانت له فيه مصلحة شخصية، وذلك فيما عدا انتخاب اعضاء مجلس الادارة.",
+    "target_en_norm": "6. a general assembly member may not vote on any decision involving a personal interest, except for the election of board members.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37580,
+    "source_ar": "اختصاصات الجمعية العمومية العادية",
+    "target_en": "Powers of the Ordinary General Assembly",
+    "source_ar_norm": "اختصاصات الجمعية العمومية العادية",
+    "target_en_norm": "powers of the ordinary general assembly",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37581,
+    "source_ar": "المادة الرابعة عشرة:",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة:",
+    "target_en_norm": "article 14",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37582,
+    "source_ar": "تختص الجمعية العمومية العادية بالآتي:",
+    "target_en": "The ordinary general assembly shall have the following powers:",
+    "source_ar_norm": "تختص الجمعية العمومية العادية بالاتي:",
+    "target_en_norm": "the ordinary general assembly shall have the following powers:",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37583,
+    "source_ar": "1 - دراسة تقرير مراجع الحسابات عن القوائم المالية للسنة المالية المنتهية، واعتمادها بعد مناقشتها.",
+    "target_en": "1. Reviewing and approving the auditor’s report on the financial statements for the ending fiscal year.",
+    "source_ar_norm": "1 - دراسة تقرير مراجع الحسابات عن القوائم المالية للسنة المالية المنتهية، واعتمادها بعد مناقشتها.",
+    "target_en_norm": "1. reviewing and approving the auditor’s report on the financial statements for the ending fiscal year.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37584,
+    "source_ar": "2 - إقرار مشروع الميزانية التقديرية للسنة المالية الجديدة.",
+    "target_en": "2. Approving the draft estimated budget for the new fiscal year.",
+    "source_ar_norm": "2 - اقرار مشروع الميزانية التقديرية للسنة المالية الجديدة.",
+    "target_en_norm": "2. approving the draft estimated budget for the new fiscal year.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37585,
+    "source_ar": "3 - مناقشة تقرير مجلس الإدارة عن أعمال الجمعية ونشاطاتها للسنة المالية المنتهية، والخطة المقترحة للسنة المالية الجديدة، واتخاذ ما تراه في شأنه.",
+    "target_en": "3. Reviewing the board of directors’ report on the activities of the association for the ending fiscal year and the proposed plan for the new fiscal year, and taking necessary action.",
+    "source_ar_norm": "3 - مناقشة تقرير مجلس الادارة عن اعمال الجمعية ونشاطاتها للسنة المالية المنتهية، والخطة المقترحة للسنة المالية الجديدة، واتخاذ ما تراه في شانه.",
+    "target_en_norm": "3. reviewing the board of directors’ report on the activities of the association for the ending fiscal year and the proposed plan for the new fiscal year, and taking necessary action.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37586,
+    "source_ar": "4 - إقرار خطة استثمار أموال الجمعية، واقتراح مجالاته.",
+    "target_en": "4. Approving the investment plan of the association’s funds and proposing areas of investment.",
+    "source_ar_norm": "4 - اقرار خطة استثمار اموال الجمعية، واقتراح مجالاته.",
+    "target_en_norm": "4. approving the investment plan of the association’s funds and proposing areas of investment.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37587,
+    "source_ar": "5 - انتخاب أعضاء مجلس الإدارة، وتجديد مدة عضويتهم، وإبراء ذمة مجلس الإدارة السابق.",
+    "target_en": "5. Electing board members, renewing their membership terms, and relieving the previous board from liability.",
+    "source_ar_norm": "5 - انتخاب اعضاء مجلس الادارة، وتجديد مدة عضويتهم، وابراء ذمة مجلس الادارة السابق.",
+    "target_en_norm": "5. electing board members, renewing their membership terms, and relieving the previous board from liability.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37588,
+    "source_ar": "6 - تعيين محاسب قانوني مرخص له؛ لمراجعة حسابات الجمعية، وتحديد أتعابه.",
+    "target_en": "6. Appointing a licensed auditor to audit the association’s accounts, and determining his fees.",
+    "source_ar_norm": "6 - تعيين محاسب قانوني مرخص له؛ لمراجعة حسابات الجمعية، وتحديد اتعابه.",
+    "target_en_norm": "6. appointing a licensed auditor to audit the association’s accounts, and determining his fees.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37589,
+    "source_ar": "اختصاصات الجمعية العمومية الغير عادية",
+    "target_en": "Powers of the Extraordinary General Assembly",
+    "source_ar_norm": "اختصاصات الجمعية العمومية الغير عادية",
+    "target_en_norm": "powers of the extraordinary general assembly",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37590,
+    "source_ar": "المادة الخامسة عشرة:",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة:",
+    "target_en_norm": "article 15",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37591,
+    "source_ar": "تختص الجمعية العمومية غير العادية بالنظر في المسائل الآتية:",
+    "target_en": "The extraordinary general assembly shall have the following powers:",
+    "source_ar_norm": "تختص الجمعية العمومية غير العادية بالنظر في المسائل الاتية:",
+    "target_en_norm": "the extraordinary general assembly shall have the following powers:",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37592,
+    "source_ar": "1 - البت في استقالة أي من أعضاء مجلس الإدارة، أو إسقاط العضوية عنه، وانتخاب من يشغل المراكز الشاغرة في عضوية مجلس الإدارة.",
+    "target_en": "1. Deciding on the resignation of any board member or the termination of his membership, and filling vacancies on the board by election.",
+    "source_ar_norm": "1 - البت في استقالة اي من اعضاء مجلس الادارة، او اسقاط العضوية عنه، وانتخاب من يشغل المراكز الشاغرة في عضوية مجلس الادارة.",
+    "target_en_norm": "1. deciding on the resignation of any board member or the termination of his membership, and filling vacancies on the board by election.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37593,
+    "source_ar": "2 - إلغاء ما تراه من قرارات مجلس الإدارة.",
+    "target_en": "2. Annulling any decision by the board of directors as it deems appropriate.",
+    "source_ar_norm": "2 - الغاء ما تراه من قرارات مجلس الادارة.",
+    "target_en_norm": "2. annulling any decision by the board of directors as it deems appropriate.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37594,
+    "source_ar": "3 - اقتراح اندماج الجمعية في جمعية أخرى.",
+    "target_en": "3. Proposing the association’s merger with another association.",
+    "source_ar_norm": "3 - اقتراح اندماج الجمعية في جمعية اخري.",
+    "target_en_norm": "3. proposing the association’s merger with another association.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37595,
+    "source_ar": "4 - إقرار تعديل اللائحة الأساسية.",
+    "target_en": "4. Approving charter amendments.",
+    "source_ar_norm": "4 - اقرار تعديل اللائحة الاساسية.",
+    "target_en_norm": "4. approving charter amendments.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37596,
+    "source_ar": "5 - حل الجمعية اختياريًّا.",
+    "target_en": "5. Voluntarily dissolving the association.",
+    "source_ar_norm": "5 - حل الجمعية اختياريا.",
+    "target_en_norm": "5. voluntarily dissolving the association.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37597,
+    "source_ar": "ولا تكون قرارات الجمعية العمومية غير العادية الصادرة في شأن الاختصاصات الواردة في الفقرات (3) و(4) و(5) نافذة إلا بعد استكمال الإجراءات اللازمة وفقاً لأحكام النظام.",
+    "target_en": "The decisions of the extraordinary general assembly issued with regard to the powers provided for in paragraphs (3), (4), and (5) shall only take effect upon completion of the necessary procedures in accordance with the provisions of the Law.",
+    "source_ar_norm": "ولا تكون قرارات الجمعية العمومية غير العادية الصادرة في شان الاختصاصات الواردة في الفقرات (3) و(4) و(5) نافذة الا بعد استكمال الاجراءات اللازمة وفقا لاحكام النظام.",
+    "target_en_norm": "the decisions of the extraordinary general assembly issued with regard to the powers provided for in paragraphs (3), (4), and (5) shall only take effect upon completion of the necessary procedures in accordance with the provisions of the law.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37598,
+    "source_ar": "المادة السادسة عشرة:",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة:",
+    "target_en_norm": "article 16",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37599,
+    "source_ar": "لا يجوز للجمعية العمومية (العادية أو غير العادية) أن تنظر في مسائل غير مدرجة في جدول أعمالها.",
+    "target_en": "The general assembly (ordinary or extraordinary) may not discuss matters not on the agenda.",
+    "source_ar_norm": "لا يجوز للجمعية العمومية (العادية او غير العادية) ان تنظر في مسائل غير مدرجة في جدول اعمالها.",
+    "target_en_norm": "the general assembly (ordinary or extraordinary) may not discuss matters not on the agenda.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37600,
+    "source_ar": "المادة السابعة عشرة:",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة:",
+    "target_en_norm": "article 17",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 32401,
+    "source_ar": "المعلومات: البيانات التي تعالَج (إما بتبويبها أو بتحليلها أو بتلخيصها أو بأي طريقة معالجة أخرى) لتصبح ذات معنى يتعلق بالمجالات الإحصائية.",
+    "target_en": "Information: Data that are processed by tabulation, analysis, summarization, or any other processing method to become statistically meaningful.",
+    "source_ar_norm": "المعلومات: البيانات التي تعالج (اما بتبويبها او بتحليلها او بتلخيصها او باي طريقة معالجة اخري) لتصبح ذات معني يتعلق بالمجالات الاحصائية.",
+    "target_en_norm": "information: data that are processed by tabulation, analysis, summarization, or any other processing method to become statistically meaningful.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32402,
+    "source_ar": "المؤشرات: المقاييس التي تعبر عن البيانات الإحصائية في فترة زمنية محددة ومكان محدد وخصائص أخرى محددة.",
+    "target_en": "Indicators: Measures that represent the statistical data of a specific period of time and a specific location as well as other specific parameters.",
+    "source_ar_norm": "المؤشرات: المقاييس التي تعبر عن البيانات الاحصائية في فترة زمنية محددة ومكان محدد وخصائص اخري محددة.",
+    "target_en_norm": "indicators: measures that represent the statistical data of a specific period of time and a specific location as well as other specific parameters.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32403,
+    "source_ar": "المسوح: عمليات جمع البيانات من مصادرها على أساس مجموعة من الأسئلة أو المتغيرات المحددة التي ستُجمع، سواء كانت وفق أسلوب الحصر الشامل، أو وفق أساليب وطرق اختيار العينات الإحصائية، أو أي أسلوب إحصائي آخر.",
+    "target_en": "Surveys: The process of collecting data from their sources based on a set of predetermined questions or variables, whether through the complete enumeration method, statistical sampling methods and techniques, or any other statistical method.",
+    "source_ar_norm": "المسوح: عمليات جمع البيانات من مصادرها علي اساس مجموعة من الاسئلة او المتغيرات المحددة التي ستجمع، سواء كانت وفق اسلوب الحصر الشامل، او وفق اساليب وطرق اختيار العينات الاحصائية، او اي اسلوب احصائي اخر.",
+    "target_en_norm": "surveys: the process of collecting data from their sources based on a set of predetermined questions or variables, whether through the complete enumeration method, statistical sampling methods and techniques, or any other statistical method.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32404,
+    "source_ar": "العمل الإحصائي: أي دراسة أو بحث أو مسح أو استطلاع، ويشمل ذلك كل عمل يتعلق بالمجالات الإحصائية سواء كان بشكل كلي أو جزئي.",
+    "target_en": "Statistical Work: Any study, research, survey, or poll, including any work related to statistical fields, whether in whole or in part.",
+    "source_ar_norm": "العمل الاحصائي: اي دراسة او بحث او مسح او استطلاع، ويشمل ذلك كل عمل يتعلق بالمجالات الاحصائية سواء كان بشكل كلي او جزئي.",
+    "target_en_norm": "statistical work: any study, research, survey, or poll, including any work related to statistical fields, whether in whole or in part.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32405,
+    "source_ar": "السجلات الإدارية: السجلات الورقية أو الإلكترونية التي تدون فيها البيانات أو المعلومات في مختلف الجهات العامة أو المنشآت الخاصة، المتعلقة بالمجالات الإحصائية وأحوال المجتمع ونشاطاته، بالإضافة إلى سجلات للعمليات الإنتاجية لتلك الجهات والمنشآت.",
+    "target_en": "Administrative Records: Paper or electronic records in which data and information relating to statistical fields and the circumstances and activities of society are documented at public entities and private establishments as well as records of the production processes of such entities and establishments.",
+    "source_ar_norm": "السجلات الادارية: السجلات الورقية او الالكترونية التي تدون فيها البيانات او المعلومات في مختلف الجهات العامة او المنشات الخاصة، المتعلقة بالمجالات الاحصائية واحوال المجتمع ونشاطاته، بالاضافة الي سجلات للعمليات الانتاجية لتلك الجهات والمنشات.",
+    "target_en_norm": "administrative records: paper or electronic records in which data and information relating to statistical fields and the circumstances and activities of society are documented at public entities and private establishments as well as records of the production processes of such entities and establishments.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32406,
+    "source_ar": "الخدمات الإحصائية: الأعمال التفصيلية للعمل الإحصائي أو ذات العلاقة به، وتشمل تقديم الاستشارات الإحصائية بشأن تصميم المسوح أو البحوث أو الدراسات، واختيار العينات وتحليل النتائج وتفسيرها، ونحو ذلك.",
+    "target_en": "Statistical Services: Activities that are part of or related to statistical work, including the provision of consultations on the design of surveys, research, and studies, the selection of samples, the analysis and interpretation of results, and the like.",
+    "source_ar_norm": "الخدمات الاحصائية: الاعمال التفصيلية للعمل الاحصائي او ذات العلاقة به، وتشمل تقديم الاستشارات الاحصائية بشان تصميم المسوح او البحوث او الدراسات، واختيار العينات وتحليل النتائج وتفسيرها، ونحو ذلك.",
+    "target_en_norm": "statistical services: activities that are part of or related to statistical work, including the provision of consultations on the design of surveys, research, and studies, the selection of samples, the analysis and interpretation of results, and the like.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32407,
+    "source_ar": "النشر: عملية إتاحة الإحصاءات الرسمية، والتحليلات والخدمات الإحصائية، والبيانات الوصفية؛ لجميع المستخدمين.",
+    "target_en": "Publication: Making official statistics, statistical analyses and services, and metadata available to all users.",
+    "source_ar_norm": "النشر: عملية اتاحة الاحصاءات الرسمية، والتحليلات والخدمات الاحصائية، والبيانات الوصفية؛ لجميع المستخدمين.",
+    "target_en_norm": "publication: making official statistics, statistical analyses and services, and metadata available to all users.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32408,
+    "source_ar": "المادة الثانية:",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية:",
+    "target_en_norm": "article 2",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32409,
+    "source_ar": "يهدف النظام إلى تنظيم العمل الإحصائي وزيادة فاعليته وشموليته، ورفع جودة الإحصاءات في المملكة وتعميق أثرها في دعم الخطط التنموية وصناعة القرار.",
+    "target_en": "This Law aims to regulate statistical work, enhance the effectiveness and comprehensiveness thereof, improve the quality of statistics in the Kingdom, and increase their role in supporting development plans and decision-making.",
+    "source_ar_norm": "يهدف النظام الي تنظيم العمل الاحصائي وزيادة فاعليته وشموليته، ورفع جودة الاحصاءات في المملكة وتعميق اثرها في دعم الخطط التنموية وصناعة القرار.",
+    "target_en_norm": "this law aims to regulate statistical work, enhance the effectiveness and comprehensiveness thereof, improve the quality of statistics in the kingdom, and increase their role in supporting development plans and decision-making.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32410,
+    "source_ar": "وتنظيم الأدوار بين الهيئة والجهات العامة والمنشآت الخاصة والأفراد وآليات القيام بالعمل الإحصائي وجمع البيانات والمعلومات والترخيص والرقابة على القطاع الإحصائي.",
+    "target_en": "This Law also aims to define the roles of the Authority, public entities, private establishments, and individuals; set the mechanisms for conducting statistical work and collecting data and information; and regulate the licensing and oversight of the field of statistics.",
+    "source_ar_norm": "وتنظيم الادوار بين الهيئة والجهات العامة والمنشات الخاصة والافراد واليات القيام بالعمل الاحصائي وجمع البيانات والمعلومات والترخيص والرقابة علي القطاع الاحصائي.",
+    "target_en_norm": "this law also aims to define the roles of the authority, public entities, private establishments, and individuals; set the mechanisms for conducting statistical work and collecting data and information; and regulate the licensing and oversight of the field of statistics.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32411,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article 3",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32412,
+    "source_ar": "الهيئة هي الجهة المسؤولة عن إصدار الإحصاءات الرسمية وتطويرها ونشرها، وفقاً للمبادئ الأساسية الصادرة عن المنظمات الدولية المتخصصة والمعايير المهنية المتبعة والمعترف بها دوليًّا، وذلك دون إخلال بحق الجهات العامة في إصدار إحصاءات متعلقة باختصاصاتها.",
+    "target_en": "The Authority shall be the entity in charge of issuing, developing, and publishing official statistics in accordance with the basic principles issued by specialized international organizations as well as internationally recognized professional standards, without prejudice to the right of public entities to issue statistics related to their activities.",
+    "source_ar_norm": "الهيئة هي الجهة المسؤولة عن اصدار الاحصاءات الرسمية وتطويرها ونشرها، وفقا للمبادئ الاساسية الصادرة عن المنظمات الدولية المتخصصة والمعايير المهنية المتبعة والمعترف بها دوليا، وذلك دون اخلال بحق الجهات العامة في اصدار احصاءات متعلقة باختصاصاتها.",
+    "target_en_norm": "the authority shall be the entity in charge of issuing, developing, and publishing official statistics in accordance with the basic principles issued by specialized international organizations as well as internationally recognized professional standards, without prejudice to the right of public entities to issue statistics related to their activities.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32413,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article 4",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32414,
+    "source_ar": "1- للهيئة، في سبيل المحافظة على مستوى عالٍ من جودة الإحصاءات الرسمية، التحقق من صحة البيانات أو المعلومات، ودمج البيانات من مصادر مختلفة، وربط السجلات الإدارية، ومطابقة البيانات الفردية، لأغراض إحصائية فقط.",
+    "target_en": "1. The Authority may, for the purpose of maintaining the quality of official statistics, verify the accuracy of data and information, consolidate data from different sources, link administrative records, and reconcile individual data, solely for statistical purposes.",
+    "source_ar_norm": "1- للهيئة، في سبيل المحافظة علي مستوي عال من جودة الاحصاءات الرسمية، التحقق من صحة البيانات او المعلومات، ودمج البيانات من مصادر مختلفة، وربط السجلات الادارية، ومطابقة البيانات الفردية، لاغراض احصائية فقط.",
+    "target_en_norm": "1. the authority may, for the purpose of maintaining the quality of official statistics, verify the accuracy of data and information, consolidate data from different sources, link administrative records, and reconcile individual data, solely for statistical purposes.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32415,
+    "source_ar": "2- على الهيئة توثيق المصادر والأساليب المستخدمة في عملية إعداد الإحصاءات.",
+    "target_en": "2. The Authority shall document the sources and methods used in the preparation of statistics.",
+    "source_ar_norm": "2- علي الهيئة توثيق المصادر والاساليب المستخدمة في عملية اعداد الاحصاءات.",
+    "target_en_norm": "2. the authority shall document the sources and methods used in the preparation of statistics.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32416,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article 5",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32417,
+    "source_ar": "1- على الجهات العامة، عند قيامها بإحصاءات أو إجراء أي مسح متعلق باختصاصاتها، التقيد بالمفاهيم والتعريفات والتصنيفات والمعايير الفنية والأساليب الإحصائية والأساليب العلمية التي تضعها الهيئة، أو المعتمدة من المنظمات الدولية المتخصصة.",
+    "target_en": "1. Public entities shall, upon conducting statistics or any survey related to their activities, adhere to the concepts, definitions, classifications, technical standards, and statistical and scientific methods adopted by the Authority or approved by specialized international organizations.",
+    "source_ar_norm": "1- علي الجهات العامة، عند قيامها باحصاءات او اجراء اي مسح متعلق باختصاصاتها، التقيد بالمفاهيم والتعريفات والتصنيفات والمعايير الفنية والاساليب الاحصائية والاساليب العلمية التي تضعها الهيئة، او المعتمدة من المنظمات الدولية المتخصصة.",
+    "target_en_norm": "1. public entities shall, upon conducting statistics or any survey related to their activities, adhere to the concepts, definitions, classifications, technical standards, and statistical and scientific methods adopted by the authority or approved by specialized international organizations.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32418,
+    "source_ar": "2- على الجهات العامة والهيئة التعاون والتنسيق في متابعة كل ما ينشر عن المملكة من مؤشرات والتأكد من صحتها، وتصحيحها إن تطلب الأمر.",
+    "target_en": "2. Public entities and the Authority shall cooperate and coordinate in monitoring and verifying all indicators published on the Kingdom, and in making corrections thereto if necessary.",
+    "source_ar_norm": "2- علي الجهات العامة والهيئة التعاون والتنسيق في متابعة كل ما ينشر عن المملكة من مؤشرات والتاكد من صحتها، وتصحيحها ان تطلب الامر.",
+    "target_en_norm": "2. public entities and the authority shall cooperate and coordinate in monitoring and verifying all indicators published on the kingdom, and in making corrections thereto if necessary.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32419,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article 6",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32420,
+    "source_ar": "1- تتولى الهيئة إصدار التراخيص اللازمة لممارسة العمل الإحصائي أو تقديم الخدمات الإحصائية بأسلوب تجاري وبوصفه نشاطًا رئيسًا.",
+    "target_en": "1. The Authority shall issue the licenses necessary for commercially engaging in statistical work or providing statistical services as a principal activity.",
+    "source_ar_norm": "1- تتولي الهيئة اصدار التراخيص اللازمة لممارسة العمل الاحصائي او تقديم الخدمات الاحصائية باسلوب تجاري وبوصفه نشاطا رئيسا.",
+    "target_en_norm": "1. the authority shall issue the licenses necessary for commercially engaging in statistical work or providing statistical services as a principal activity.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32421,
+    "source_ar": "وتحدد اللائحة الضوابط والاشتراطات والمقابل المالي لتلك التراخيص.",
+    "target_en": "The Regulations shall specify the controls, requirements, and fees for such licenses.",
+    "source_ar_norm": "وتحدد اللائحة الضوابط والاشتراطات والمقابل المالي لتلك التراخيص.",
+    "target_en_norm": "the regulations shall specify the controls, requirements, and fees for such licenses.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32422,
+    "source_ar": "2- لا تجوز ممارسة العمل الإحصائي ولا تقديم الخدمات الإحصائية بأسلوب تجاري وبوصفه نشاطًا رئيسًا إلا بعد الحصول على ترخيص.",
+    "target_en": "2. No person may commercially engage in statistical work or provide statistical services as a principal activity without a license.",
+    "source_ar_norm": "2- لا تجوز ممارسة العمل الاحصائي ولا تقديم الخدمات الاحصائية باسلوب تجاري وبوصفه نشاطا رئيسا الا بعد الحصول علي ترخيص.",
+    "target_en_norm": "2. no person may commercially engage in statistical work or provide statistical services as a principal activity without a license.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32423,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article 7",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32424,
+    "source_ar": "1- تتولى الهيئة تصميم وإجراء التعداد ونشره لأغراض إحصائية، وفقًا لما يأتي:",
+    "target_en": "1. The Authority shall design and conduct censuses and publish their results for statistical purposes as follows:",
+    "source_ar_norm": "1- تتولي الهيئة تصميم واجراء التعداد ونشره لاغراض احصائية، وفقا لما ياتي:",
+    "target_en_norm": "1. the authority shall design and conduct censuses and publish their results for statistical purposes as follows:",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32425,
+    "source_ar": "أ- تعداد السكان والمساكن كل (عشر) سنوات. ويحدد موعد تنفيذه بقرار من مجلس الوزراء.",
+    "target_en": "a. A population and housing census every 10 years, the date of which shall be determined pursuant to a Council of Ministers resolution.",
+    "source_ar_norm": "ا- تعداد السكان والمساكن كل (عشر) سنوات. ويحدد موعد تنفيذه بقرار من مجلس الوزراء.",
+    "target_en_norm": "a. a population and housing census every 10 years, the date of which shall be determined pursuant to a council of ministers resolution.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32426,
+    "source_ar": "ب- تعداد اقتصادي للمنشآت. ويحدد موعد تنفيذه بقرار من المجلس.",
+    "target_en": "b. An economic census of establishments, the date of which shall be determined pursuant to a Board decision.",
+    "source_ar_norm": "ب- تعداد اقتصادي للمنشات. ويحدد موعد تنفيذه بقرار من المجلس.",
+    "target_en_norm": "b. an economic census of establishments, the date of which shall be determined pursuant to a board decision.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32427,
+    "source_ar": "ج- تعداد للمنشآت الزراعية كل (خمس) سنوات. ويحدد موعد تنفيذه بقرار من المجلس.",
+    "target_en": "c. A census of agricultural establishments every five years, the date of which shall be determined pursuant to a Board decision.",
+    "source_ar_norm": "ج- تعداد للمنشات الزراعية كل (خمس) سنوات. ويحدد موعد تنفيذه بقرار من المجلس.",
+    "target_en_norm": "c. a census of agricultural establishments every five years, the date of which shall be determined pursuant to a board decision.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32428,
+    "source_ar": "2- للهيئة في سبيل تنفيذها لأي تعداد الحصول على البيانات أو المعلومات من: الجهات العامة، والمنشآت الخاصة، والأفراد.",
+    "target_en": "2. The Authority may, for the purpose of conducting a census, collect data and information from public entities, private establishments, and individuals.",
+    "source_ar_norm": "2- للهيئة في سبيل تنفيذها لاي تعداد الحصول علي البيانات او المعلومات من: الجهات العامة، والمنشات الخاصة، والافراد.",
+    "target_en_norm": "2. the authority may, for the purpose of conducting a census, collect data and information from public entities, private establishments, and individuals.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32429,
+    "source_ar": "3- تُعد المشاركة في التعدادات إلزامية على المكلفين بها وفقاً لما يقرره المجلس.",
+    "target_en": "3. Participation in a census shall be mandatory for all persons included therein as determined by the Board.",
+    "source_ar_norm": "3- تعد المشاركة في التعدادات الزامية علي المكلفين بها وفقا لما يقرره المجلس.",
+    "target_en_norm": "3. participation in a census shall be mandatory for all persons included therein as determined by the board.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32430,
+    "source_ar": "4- يصدر رئيس المجلس القرارات اللازمة لتنفيذ التعدادات.",
+    "target_en": "4. The Chairman of the Board shall issue the decisions necessary to conduct a census.",
+    "source_ar_norm": "4- يصدر رئيس المجلس القرارات اللازمة لتنفيذ التعدادات.",
+    "target_en_norm": "4. the chairman of the board shall issue the decisions necessary to conduct a census.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32431,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article 8",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32432,
+    "source_ar": "1- للهيئة اختيار مصادر البيانات أو المعلومات بناءً على اعتبارات مهنية، ولها جمع البيانات والمعلومات اللازمة لممارسة اختصاصاتها من: الجهات العامة، والمنشآت الخاصة، والأفراد.",
+    "target_en": "1. The Authority may determine the sources of data and information based on professional considerations, and may collect the data and information necessary to perform its activities from public entities, private establishments, and individuals.",
+    "source_ar_norm": "1- للهيئة اختيار مصادر البيانات او المعلومات بناء علي اعتبارات مهنية، ولها جمع البيانات والمعلومات اللازمة لممارسة اختصاصاتها من: الجهات العامة، والمنشات الخاصة، والافراد.",
+    "target_en_norm": "1. the authority may determine the sources of data and information based on professional considerations, and may collect the data and information necessary to perform its activities from public entities, private establishments, and individuals.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32433,
+    "source_ar": "2- على الجهات العامة، والمنشآت الخاصة، والأفراد، أن يقدموا إلى الهيئة البيانات والمعلومات التي تطلبها -لأغراض إحصائية غير تجارية دون تكاليف مالية- وذلك وفقاً لمتطلبات الجودة والمواعيد والطريقة والصيغ التي تحددها اللائحة.",
+    "target_en": "2. Public entities, private establishments, and individuals shall, at no cost, provide the Authority upon request with data and information for non-commercial statistical purposes, in accordance with the quality requirements, deadlines, methods, and formats specified in the Regulations.",
+    "source_ar_norm": "2- علي الجهات العامة، والمنشات الخاصة، والافراد، ان يقدموا الي الهيئة البيانات والمعلومات التي تطلبها -لاغراض احصائية غير تجارية دون تكاليف مالية- وذلك وفقا لمتطلبات الجودة والمواعيد والطريقة والصيغ التي تحددها اللائحة.",
+    "target_en_norm": "2. public entities, private establishments, and individuals shall, at no cost, provide the authority upon request with data and information for non-commercial statistical purposes, in accordance with the quality requirements, deadlines, methods, and formats specified in the regulations.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32434,
+    "source_ar": "3- للهيئة طلب المستندات التي تثبت صحة البيانات والمعلومات المقدمة إليها.",
+    "target_en": "3. The Authority may request any document to verify the accuracy of the data and information provided thereto.",
+    "source_ar_norm": "3- للهيئة طلب المستندات التي تثبت صحة البيانات والمعلومات المقدمة اليها.",
+    "target_en_norm": "3. the authority may request any document to verify the accuracy of the data and information provided thereto.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32435,
+    "source_ar": "المادة التاسعة:",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة:",
+    "target_en_norm": "article 9",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32436,
+    "source_ar": "1- تُعد الهيئة تقويماً لإصدار الإحصاءات الرسمية توضح فيه التواريخ والأوقات المقررة لإصدارها، وتتولى تحديثه -عند الاقتضاء- ونشره والإعلان عنه للجميع.",
+    "target_en": "1. The Authority shall prepare a calendar indicating the dates and times of issuance of official statistics; it shall update the calendar as needed and publish and announce it to the public.",
+    "source_ar_norm": "1- تعد الهيئة تقويما لاصدار الاحصاءات الرسمية توضح فيه التواريخ والاوقات المقررة لاصدارها، وتتولي تحديثه -عند الاقتضاء- ونشره والاعلان عنه للجميع.",
+    "target_en_norm": "1. the authority shall prepare a calendar indicating the dates and times of issuance of official statistics; it shall update the calendar as needed and publish and announce it to the public.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32437,
+    "source_ar": "2- تنشر الهيئة الإحصاءات الرسمية وفقاً للتقويم المشار إليه في الفقرة (1) من هذه المادة. وللجميع الحق في الوصول إليها.",
+    "target_en": "2. The Authority shall, in accordance with the calendar referred to in paragraph (1) of this Article, publish official statistics and make them available to the public.",
+    "source_ar_norm": "2- تنشر الهيئة الاحصاءات الرسمية وفقا للتقويم المشار اليه في الفقرة (1) من هذه المادة. وللجميع الحق في الوصول اليها.",
+    "target_en_norm": "2. the authority shall, in accordance with the calendar referred to in paragraph (1) of this article, publish official statistics and make them available to the public.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32438,
+    "source_ar": "3- على الهيئة إصدار الإحصاءات الرسمية مصحوبةً ببيانات وصفية وشروحات وتعليقات توضيحية، وأن تتيح للجميع الاطلاع عليها دون مقابل مالي.",
+    "target_en": "3. The Authority shall issue official statistics accompanied by metadata and explanatory notes and comments and shall make the same available to the public at no cost.",
+    "source_ar_norm": "3- علي الهيئة اصدار الاحصاءات الرسمية مصحوبة ببيانات وصفية وشروحات وتعليقات توضيحية، وان تتيح للجميع الاطلاع عليها دون مقابل مالي.",
+    "target_en_norm": "3. the authority shall issue official statistics accompanied by metadata and explanatory notes and comments and shall make the same available to the public at no cost.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32439,
+    "source_ar": "4- على الهيئة تصحيح أي خطأ يُكتشف في الإحصاءات الرسمية التي تصدرها، ونشر تلك التصحيحات في أقرب وقت ممكن.",
+    "target_en": "4. The Authority shall correct any error detected in the official statistics issued thereby and shall promptly publish such corrections.",
+    "source_ar_norm": "4- علي الهيئة تصحيح اي خطا يكتشف في الاحصاءات الرسمية التي تصدرها، ونشر تلك التصحيحات في اقرب وقت ممكن.",
+    "target_en_norm": "4. the authority shall correct any error detected in the official statistics issued thereby and shall promptly publish such corrections.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32440,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article 10",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32441,
+    "source_ar": "على الجهات العامة التعاون مع الهيئة فيما يتعلق بقيام الهيئة بما يلي:",
+    "target_en": "Public entities shall cooperate with the Authority with regards to the following:",
+    "source_ar_norm": "علي الجهات العامة التعاون مع الهيئة فيما يتعلق بقيام الهيئة بما يلي:",
+    "target_en_norm": "public entities shall cooperate with the authority with regards to the following:",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32442,
+    "source_ar": "1- إعداد إحصاءات قابلة للمقارنة على المستوى الدولي.",
+    "target_en": "1. Preparing internationally comparable statistics.",
+    "source_ar_norm": "1- اعداد احصاءات قابلة للمقارنة علي المستوي الدولي.",
+    "target_en_norm": "1. preparing internationally comparable statistics.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32443,
+    "source_ar": "2- تصميم المعايير والمبادئ التوجيهية الدولية.",
+    "target_en": "2. Designing international standards and guidelines.",
+    "source_ar_norm": "2- تصميم المعايير والمبادئ التوجيهية الدولية.",
+    "target_en_norm": "2. designing international standards and guidelines.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32444,
+    "source_ar": "3- تبادل المعلومات الخاصة بالممارسات الإحصائية السليمة.",
+    "target_en": "3. Exchanging information on best statistical practices.",
+    "source_ar_norm": "3- تبادل المعلومات الخاصة بالممارسات الاحصائية السليمة.",
+    "target_en_norm": "3. exchanging information on best statistical practices.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32445,
+    "source_ar": "وتحدد اللائحة ضوابط تعاون الجهات العامة مع الهيئة.",
+    "target_en": "The Regulations shall specify the controls for the cooperation of public entities with the Authority.",
+    "source_ar_norm": "وتحدد اللائحة ضوابط تعاون الجهات العامة مع الهيئة.",
+    "target_en_norm": "the regulations shall specify the controls for the cooperation of public entities with the authority.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32446,
+    "source_ar": "المادة الحادية عشرة:",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة:",
+    "target_en_norm": "article 11",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32447,
+    "source_ar": "تُعد البيانات والمعلومات التي جمعت لأغراض إحصائية سرية.",
+    "target_en": "Data and information collected for statistical purposes shall be deemed confidential.",
+    "source_ar_norm": "تعد البيانات والمعلومات التي جمعت لاغراض احصائية سرية.",
+    "target_en_norm": "data and information collected for statistical purposes shall be deemed confidential.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32448,
+    "source_ar": "ولا يجوز إطلاع أي جهة عامة أو منشأة خاصة أو فرد عليها، ولا إبلاغهم شيئًا منها، ولا استخدامها في غير الأغراض الإحصائية، ولا استعمالها ضد مقدمها في أي حال من الأحوال.",
+    "target_en": "Public entities, private establishments, and individuals may not have access to such data and information or be informed thereof, nor may such data and information be used for other than statistical purposes or against the provider thereof under any circumstances.",
+    "source_ar_norm": "ولا يجوز اطلاع اي جهة عامة او منشاة خاصة او فرد عليها، ولا ابلاغهم شيئا منها، ولا استخدامها في غير الاغراض الاحصائية، ولا استعمالها ضد مقدمها في اي حال من الاحوال.",
+    "target_en_norm": "public entities, private establishments, and individuals may not have access to such data and information or be informed thereof, nor may such data and information be used for other than statistical purposes or against the provider thereof under any circumstances.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32449,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article 12",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32450,
+    "source_ar": "1- للأغراض الإحصائية والبحثية والدراسة والتحليل، تتيح الهيئة الاطلاع على البيانات والمعلومات التي حصلت عليها بعد إجراء تعديلات عليها تضمن عدم وضوح البيانات الفردية أو الاستدلال على هوية أشخاصها، وفقاً لما تحدده اللائحة.",
+    "target_en": "1. The Authority shall, for statistical, research, study, and analytical purposes, grant access to the data and information collected thereby, provided that modifications are made thereto to ensure that individual data are not revealed and personal identities are not compromised, in accordance with the Regulations.",
+    "source_ar_norm": "1- للاغراض الاحصائية والبحثية والدراسة والتحليل، تتيح الهيئة الاطلاع علي البيانات والمعلومات التي حصلت عليها بعد اجراء تعديلات عليها تضمن عدم وضوح البيانات الفردية او الاستدلال علي هوية اشخاصها، وفقا لما تحدده اللائحة.",
+    "target_en_norm": "1. the authority shall, for statistical, research, study, and analytical purposes, grant access to the data and information collected thereby, provided that modifications are made thereto to ensure that individual data are not revealed and personal identities are not compromised, in accordance with the regulations.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32451,
+    "source_ar": "2- يحظر على موظفي الهيئة أو غيرهم ممن تستعين بهم الهيئة إفشاء أي بيانات أو معلومات أو مؤشرات إحصائية سرية، اطلعوا عليها بحكم عملهم.",
+    "target_en": "2. The Authority’s employees or others whose assistance the Authority seeks may not disclose any confidential statistical data, information, or indicators they become privy to during the course of their work.",
+    "source_ar_norm": "2- يحظر علي موظفي الهيئة او غيرهم ممن تستعين بهم الهيئة افشاء اي بيانات او معلومات او مؤشرات احصائية سرية، اطلعوا عليها بحكم عملهم.",
+    "target_en_norm": "2. the authority’s employees or others whose assistance the authority seeks may not disclose any confidential statistical data, information, or indicators they become privy to during the course of their work.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32452,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article 13",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32453,
+    "source_ar": "دون إخلال بالأنظمة والأوامر والقرارات ذات الصلة، للهيئة القيام بالآتي:",
+    "target_en": "Without prejudice to relevant laws, orders, and decisions, the Authority may carry out the following:",
+    "source_ar_norm": "دون اخلال بالانظمة والاوامر والقرارات ذات الصلة، للهيئة القيام بالاتي:",
+    "target_en_norm": "without prejudice to relevant laws, orders, and decisions, the authority may carry out the following:",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32454,
+    "source_ar": "1- الاستعانة بالجهات العامة؛ لمساعدتها في جمع البيانات والمعلومات أو تنفيذ بعض أعمالها، وذلك وفقًا لما تحدده اللائحة.",
+    "target_en": "1. Seek the assistance of public entities in collecting data and information or performing certain functions, in accordance with the Regulations.",
+    "source_ar_norm": "1- الاستعانة بالجهات العامة؛ لمساعدتها في جمع البيانات والمعلومات او تنفيذ بعض اعمالها، وذلك وفقا لما تحدده اللائحة.",
+    "target_en_norm": "1. seek the assistance of public entities in collecting data and information or performing certain functions, in accordance with the regulations.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32455,
+    "source_ar": "2- التعاقد مع أي شخص ذي صفة طبيعية أو اعتبارية خاصة لإجراء المسوح وإعداد الإحصاءات بعد تحققها من توافر الحماية الكاملة للبيانات والمعلومات وخصوصيتها وسريتها.",
+    "target_en": "2. Contract with any natural or private legal person to conduct surveys and prepare statistics, upon ensuring the protection, confidentiality, and privacy of data and information.",
+    "source_ar_norm": "2- التعاقد مع اي شخص ذي صفة طبيعية او اعتبارية خاصة لاجراء المسوح واعداد الاحصاءات بعد تحققها من توافر الحماية الكاملة للبيانات والمعلومات وخصوصيتها وسريتها.",
+    "target_en_norm": "2. contract with any natural or private legal person to conduct surveys and prepare statistics, upon ensuring the protection, confidentiality, and privacy of data and information.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32456,
+    "source_ar": "المادة الرابعة عشرة:",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة:",
+    "target_en_norm": "article 14",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32457,
+    "source_ar": "لا يجوز لأي فرد استغلال صفته الوظيفية أو التعاقدية بصورة مخالفة للحقيقة؛ من أجل إجراء مسح، أو الحصول على بيانات أو معلومات من أي جهة عامة أو منشأة خاصة أو فرد، بالمخالفة لأحكام النظام واللائحة.",
+    "target_en": "No individual may exploit his post or his capacity under a contract to unlawfully conduct a survey or collect data or information from a public entity, private establishment, or individual, in violation of the provisions of this Law and the Regulations.",
+    "source_ar_norm": "لا يجوز لاي فرد استغلال صفته الوظيفية او التعاقدية بصورة مخالفة للحقيقة؛ من اجل اجراء مسح، او الحصول علي بيانات او معلومات من اي جهة عامة او منشاة خاصة او فرد، بالمخالفة لاحكام النظام واللائحة.",
+    "target_en_norm": "no individual may exploit his post or his capacity under a contract to unlawfully conduct a survey or collect data or information from a public entity, private establishment, or individual, in violation of the provisions of this law and the regulations.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32458,
+    "source_ar": "المادة الخامسة عشرة:",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة:",
+    "target_en_norm": "article 15",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32459,
+    "source_ar": "دون إخلال بأي عقوبة أشد ينص عليها أي نظام آخر، يُعاقب كل من يرتكب أي مخالفة لأحكام النظام واللائحة بواحدة أو أكثر من العقوبات الآتية:",
+    "target_en": "Without prejudice to any harsher penalty stipulated under any other law, any person who violates any of the provisions of this Law and the Regulations shall be subject to one or more of the following penalties:",
+    "source_ar_norm": "دون اخلال باي عقوبة اشد ينص عليها اي نظام اخر، يعاقب كل من يرتكب اي مخالفة لاحكام النظام واللائحة بواحدة او اكثر من العقوبات الاتية:",
+    "target_en_norm": "without prejudice to any harsher penalty stipulated under any other law, any person who violates any of the provisions of this law and the regulations shall be subject to one or more of the following penalties:",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32460,
+    "source_ar": "1- إنذار كتابي.",
+    "target_en": "1. A written warning.",
+    "source_ar_norm": "1- انذار كتابي.",
+    "target_en_norm": "1. a written warning.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32461,
+    "source_ar": "2- غرامة لا تتجاوز (خمسمائة) ألف ريال.",
+    "target_en": "2. A fine not exceeding five hundred thousand riyals.",
+    "source_ar_norm": "2- غرامة لا تتجاوز (خمسمائة) الف ريال.",
+    "target_en_norm": "2. a fine not exceeding five hundred thousand riyals.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32462,
+    "source_ar": "3- تعليق الترخيص لمدة لا تتجاوز عامًا.",
+    "target_en": "3. Suspension of the license for a period not exceeding one year.",
+    "source_ar_norm": "3- تعليق الترخيص لمدة لا تتجاوز عاما.",
+    "target_en_norm": "3. suspension of the license for a period not exceeding one year.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32463,
+    "source_ar": "4- إلغاء الترخيص.",
+    "target_en": "4. Revocation of the license.",
+    "source_ar_norm": "4- الغاء الترخيص.",
+    "target_en_norm": "4. revocation of the license.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32464,
+    "source_ar": "وفي حالة إلغاء الترخيص، لا يجوز التقدم بطلب ترخيص جديد إلا بعد انقضاء (ثلاث) سنوات على الأقل من تاريخ صدور قرار الإلغاء.",
+    "target_en": "If a license is revoked, a new license application may not be submitted prior to the lapse of at least three years from the date of the revocation decision.",
+    "source_ar_norm": "وفي حالة الغاء الترخيص، لا يجوز التقدم بطلب ترخيص جديد الا بعد انقضاء (ثلاث) سنوات علي الاقل من تاريخ صدور قرار الالغاء.",
+    "target_en_norm": "if a license is revoked, a new license application may not be submitted prior to the lapse of at least three years from the date of the revocation decision.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32465,
+    "source_ar": "المادة السادسة عشرة:",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة:",
+    "target_en_norm": "article 16",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32466,
+    "source_ar": "دون إخلال باختصاصات الجهات المعنية، يتولى موظفون من الهيئة -يصدر بتسميتهم قرار من رئيس الهيئة- ضبط مخالفات أحكام النظام واللائحة.",
+    "target_en": "Without prejudice to the jurisdiction of relevant agencies, Authority employees, to be appointed pursuant to a decision by the Authority’s President, shall detect and record violations of the provisions of this Law and the Regulations.",
+    "source_ar_norm": "دون اخلال باختصاصات الجهات المعنية، يتولي موظفون من الهيئة -يصدر بتسميتهم قرار من رئيس الهيئة- ضبط مخالفات احكام النظام واللائحة.",
+    "target_en_norm": "without prejudice to the jurisdiction of relevant agencies, authority employees, to be appointed pursuant to a decision by the authority’s president, shall detect and record violations of the provisions of this law and the regulations.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32467,
+    "source_ar": "المادة السابعة عشرة:",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة:",
+    "target_en_norm": "article 17",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32468,
+    "source_ar": "1- تكوَّن بقرار من المجلس لجنة (أو أكثر) لا يقل عدد أعضائها عن (ثلاثة)، يكون منهم -على الأقل- مستشار نظامي، وآخر من ذوي الاختصاص الإحصائي؛ للنظر في مخالفات أحكام النظام واللائحة، وإيقاع العقوبات المنصوص عليها في المادة (الخامسة عشرة) من النظام.",
+    "target_en": "1. A committee, or more, shall be formed pursuant to a Board decision and shall comprise not less than three members, with at least one legal advisor and one statistics specialist. The committee shall review violations of the provisions of this Law and the Regulations and shall impose the penalties stipulated in Article 15 of this Law.",
+    "source_ar_norm": "1- تكون بقرار من المجلس لجنة (او اكثر) لا يقل عدد اعضائها عن (ثلاثة)، يكون منهم -علي الاقل- مستشار نظامي، واخر من ذوي الاختصاص الاحصائي؛ للنظر في مخالفات احكام النظام واللائحة، وايقاع العقوبات المنصوص عليها في المادة (الخامسة عشرة) من النظام.",
+    "target_en_norm": "1. a committee, or more, shall be formed pursuant to a board decision and shall comprise not less than three members, with at least one legal advisor and one statistics specialist. the committee shall review violations of the provisions of this law and the regulations and shall impose the penalties stipulated in article 15 of this law.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32469,
+    "source_ar": "2- تصدر قواعد وإجراءات عمل اللجنة وتحدد مكافآت رئيسها وأعضائها بقرار من المجلس، وتصرف من ميزانية الهيئة.",
+    "target_en": "2. The Board shall issue a decision specifying the work rules and procedures of the committee as well as the remuneration of its chairman and members. Said remuneration shall be paid from the Authority's budget.",
+    "source_ar_norm": "2- تصدر قواعد واجراءات عمل اللجنة وتحدد مكافات رئيسها واعضائها بقرار من المجلس، وتصرف من ميزانية الهيئة.",
+    "target_en_norm": "2. the board shall issue a decision specifying the work rules and procedures of the committee as well as the remuneration of its chairman and members. said remuneration shall be paid from the authority's budget.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32470,
+    "source_ar": "3- يصدر المجلس جدولاً يتضمن تصنيفًا للمخالفات والعقوبات المحددة لكل منها، ويراعى في ذلك طبيعة المخالفة المرتكبة وخطورتها وجسامتها في كل حالة على حدة، والظروف المشددة والمخففة، وحالات العود.",
+    "target_en": "3. The Board shall issue a table of the violations and their corresponding penalties, taking into consideration the nature and gravity of each violation and the aggravating and mitigating circumstances thereof as well as cases of repeat violations.",
+    "source_ar_norm": "3- يصدر المجلس جدولا يتضمن تصنيفا للمخالفات والعقوبات المحددة لكل منها، ويراعي في ذلك طبيعة المخالفة المرتكبة وخطورتها وجسامتها في كل حالة علي حدة، والظروف المشددة والمخففة، وحالات العود.",
+    "target_en_norm": "3. the board shall issue a table of the violations and their corresponding penalties, taking into consideration the nature and gravity of each violation and the aggravating and mitigating circumstances thereof as well as cases of repeat violations.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32471,
+    "source_ar": "4- يجوز لمن صدر في حقه قرار بالعقوبة التظلم منه أمام المحكمة الإدارية خلال (60) يوماً من تاريخ إبلاغه بالقرار.",
+    "target_en": "4. A person against whom a penalty decision is issued may file an appeal with the Administrative Court within 60 days from the date of being notified of the decision.",
+    "source_ar_norm": "4- يجوز لمن صدر في حقه قرار بالعقوبة التظلم منه امام المحكمة الادارية خلال (60) يوما من تاريخ ابلاغه بالقرار.",
+    "target_en_norm": "4. a person against whom a penalty decision is issued may file an appeal with the administrative court within 60 days from the date of being notified of the decision.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32472,
+    "source_ar": "المادة الثامنة عشرة:",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة:",
+    "target_en_norm": "article 18",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32473,
+    "source_ar": "للمتضرر من أي مخالفة لأحكام النظام واللائحة الحق في المطالبة أمام المحكمة المختصة بالتعويض عن الأضرار التي تسببت فيها تلك المخالفة.",
+    "target_en": "Any person who sustains harm as a result of a violation of the provisions of this Law and the Regulations may file a claim for compensation with the competent court for the damages resulting from the violation.",
+    "source_ar_norm": "للمتضرر من اي مخالفة لاحكام النظام واللائحة الحق في المطالبة امام المحكمة المختصة بالتعويض عن الاضرار التي تسببت فيها تلك المخالفة.",
+    "target_en_norm": "any person who sustains harm as a result of a violation of the provisions of this law and the regulations may file a claim for compensation with the competent court for the damages resulting from the violation.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32474,
+    "source_ar": "المادة التاسعة عشرة:",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة:",
+    "target_en_norm": "article 19",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32475,
+    "source_ar": "يُصدر المجلس ميثاق أخلاقيات العمل الإحصائي والخدمات الإحصائية. وعلى من يمارس العمل الإحصائي أو يقدم الخدمات الإحصائية الالتزام به.",
+    "target_en": "The Board shall issue a code of ethics for statistical work and statistical services; any person engaging in statistical work or providing statistical services must adhere to such code.",
+    "source_ar_norm": "يصدر المجلس ميثاق اخلاقيات العمل الاحصائي والخدمات الاحصائية. وعلي من يمارس العمل الاحصائي او يقدم الخدمات الاحصائية الالتزام به.",
+    "target_en_norm": "the board shall issue a code of ethics for statistical work and statistical services; any person engaging in statistical work or providing statistical services must adhere to such code.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32476,
+    "source_ar": "المادة العشرون:",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون:",
+    "target_en_norm": "article 20",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32477,
+    "source_ar": "يصدر المجلس اللائحة خلال (مائة وثمانين) يومًا من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ العمل بالنظام.",
+    "target_en": "The Board shall issue the Regulations within 180 days from the date of publication of this Law in the Official Gazette. The Regulations shall become effective on the date this Law enters into force.",
+    "source_ar_norm": "يصدر المجلس اللائحة خلال (مائة وثمانين) يوما من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ العمل بالنظام.",
+    "target_en_norm": "the board shall issue the regulations within 180 days from the date of publication of this law in the official gazette. the regulations shall become effective on the date this law enters into force.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32478,
+    "source_ar": "المادة الحادية والعشرون:",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون:",
+    "target_en_norm": "article 21",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32479,
+    "source_ar": "يحل النظام محل نظام الإحصاءات العامة للدولة، الصادر بالمرسوم الملكي رقم (23) وتاريخ 7/12/1379ه، ونظام تعداد السكان العام، الصادر بالمرسوم الملكي رقم (م/13) وتاريخ 23/4/1391ه، ويلغي كل ما يتعارض معه من أحكام.",
+    "target_en": "This Law shall supersede the State General Statistics Law issued by Royal Decree No. 23, dated 7/12/1379H, and the General Population Census Law issued by Royal Decree No. M/13, dated 23/4/1391H, and shall repeal any provisions conflicting therewith.",
+    "source_ar_norm": "يحل النظام محل نظام الاحصاءات العامة للدولة، الصادر بالمرسوم الملكي رقم (23) وتاريخ 7/12/1379ه، ونظام تعداد السكان العام، الصادر بالمرسوم الملكي رقم (م/13) وتاريخ 23/4/1391ه، ويلغي كل ما يتعارض معه من احكام.",
+    "target_en_norm": "this law shall supersede the state general statistics law issued by royal decree no. 23, dated 7/12/1379h, and the general population census law issued by royal decree no. m/13, dated 23/4/1391h, and shall repeal any provisions conflicting therewith.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32480,
+    "source_ar": "المادة الثانية والعشرون:",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون:",
+    "target_en_norm": "article 22",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32481,
+    "source_ar": "يُعمل بالنظام بعد (مائة وثمانين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+    "target_en": "This Law shall enter into force 180 days from the date of its publication in the Official Gazette.",
+    "source_ar_norm": "يعمل بالنظام بعد (مائة وثمانين) يوما من تاريخ نشره في الجريدة الرسمية.",
+    "target_en_norm": "this law shall enter into force 180 days from the date of its publication in the official gazette.",
+    "file_name": "نظام الإحصاء.docx"
+  },
+  {
+    "id": 32482,
+    "source_ar": "نظام الإعلام المرئي والمسموع",
+    "target_en": "Law of Audiovisual Media",
+    "source_ar_norm": "نظام الاعلام المرئي والمسموع",
+    "target_en_norm": "law of audiovisual media",
+    "file_name": "نظام الإعلام المرئي والمسموع.docx"
+  },
+  {
+    "id": 32483,
+    "source_ar": "المادة الأولى",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي",
+    "target_en_norm": "article 1",
+    "file_name": "نظام الإعلام المرئي والمسموع.docx"
+  },
+  {
+    "id": 32484,
+    "source_ar": "التعريفات:",
+    "target_en": "Definitions:",
+    "source_ar_norm": "التعريفات:",
+    "target_en_norm": "definitions:",
+    "file_name": "نظام الإعلام المرئي والمسموع.docx"
+  },
+  {
+    "id": 32485,
+    "source_ar": "يقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمام كل منها، ما لم يقتضِ السياق خلاف ذلك:",
+    "target_en": "In this Law, the following words and phrases shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "source_ar_norm": "يقصد بالالفاظ والعبارات الاتية -اينما وردت في هذا النظام- المعاني المبينة امام كل منها، ما لم يقتض السياق خلاف ذلك:",
+    "target_en_norm": "in this law, the following words and phrases shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "file_name": "نظام الإعلام المرئي والمسموع.docx"
+  },
+  {
+    "id": 32486,
+    "source_ar": "1- النظام: نظام الإعلام المرئي والمسموع.",
+    "target_en": "1. Law: Law of Audiovisual Media.",
+    "source_ar_norm": "1- النظام: نظام الاعلام المرئي والمسموع.",
+    "target_en_norm": "1. law: law of audiovisual media.",
+    "file_name": "نظام الإعلام المرئي والمسموع.docx"
+  },
+  {
+    "id": 32487,
+    "source_ar": "2- اللائحة: اللائحة التنفيذية للنظام.",
+    "target_en": "2. Regulations: Implementing Regulations of the Law.",
+    "source_ar_norm": "2- اللائحة: اللائحة التنفيذية للنظام.",
+    "target_en_norm": "2. regulations: implementing regulations of the law.",
+    "file_name": "نظام الإعلام المرئي والمسموع.docx"
+  },
+  {
+    "id": 32488,
+    "source_ar": "3- الوزارة: وزارة الثقافة والإعلام.",
+    "target_en": "3. Ministry: Ministry of Culture and Information.",
+    "source_ar_norm": "3- الوزارة: وزارة الثقافة والاعلام.",
+    "target_en_norm": "3. ministry: ministry of culture and information.",
+    "file_name": "نظام الإعلام المرئي والمسموع.docx"
+  },
+  {
+    "id": 32489,
+    "source_ar": "4- الوزير: وزير الثقافة والإعلام.",
+    "target_en": "4. Minister: Minister of Culture and Information.",
+    "source_ar_norm": "4- الوزير: وزير الثقافة والاعلام.",
+    "target_en_norm": "4. minister: minister of culture and information.",
+    "file_name": "نظام الإعلام المرئي والمسموع.docx"
+  },
+  {
+    "id": 32490,
+    "source_ar": "5- الهيئة: الهيئة العامة للإعلام المرئي والمسموع",
+    "target_en": "5. Commission: General Commission for Audiovisual Media.",
+    "source_ar_norm": "5- الهيئة: الهيئة العامة للاعلام المرئي والمسموع",
+    "target_en_norm": "5. commission: general commission for audiovisual media.",
+    "file_name": "نظام الإعلام المرئي والمسموع.docx"
+  },
+  {
+    "id": 32491,
+    "source_ar": "6- الرئيس: رئيس الهيئة.",
+    "target_en": "6. President: President of the Commission.",
+    "source_ar_norm": "6- الرئيس: رئيس الهيئة.",
+    "target_en_norm": "6. president: president of the commission.",
+    "file_name": "نظام الإعلام المرئي والمسموع.docx"
+  },
+  {
+    "id": 32492,
+    "source_ar": "7- المجلس: مجلس إدارة الهيئة.",
+    "target_en": "7. Board: Board of Directors of the Commission.",
+    "source_ar_norm": "7- المجلس: مجلس ادارة الهيئة.",
+    "target_en_norm": "7. board: board of directors of the commission.",
+    "file_name": "نظام الإعلام المرئي والمسموع.docx"
+  },
+  {
+    "id": 32493,
+    "source_ar": "8- المحتوى الإعلامي: مادة مرئية، ومسموعة، أو أي منهما.",
+    "target_en": "8. Media Content: Audio and/or visual material.",
+    "source_ar_norm": "8- المحتوي الاعلامي: مادة مرئية، ومسموعة، او اي منهما.",
+    "target_en_norm": "8. media content: audio and/or visual material.",
+    "file_name": "نظام الإعلام المرئي والمسموع.docx"
+  },
+  {
+    "id": 32494,
+    "source_ar": "9- البث: إرسال محتوى إعلامي محملاً على إشارات سلكية، أو لا سلكية؛ يمكن استقباله.",
+    "target_en": "9. Broadcasting: Transmitting receivable media content via wired or wireless signals.",
+    "source_ar_norm": "9- البث: ارسال محتوي اعلامي محملا علي اشارات سلكية، او لا سلكية؛ يمكن استقباله.",
+    "target_en_norm": "9. broadcasting: transmitting receivable media content via wired or wireless signals.",
+    "file_name": "نظام الإعلام المرئي والمسموع.docx"
+  },
+  {
+    "id": 32495,
+    "source_ar": "10- إعادة البث: إعادة بث محتوى إعلامي بلا تغيير.",
+    "target_en": "10.Rebroadcasting: Rebroadcasting media content without changes.",
+    "source_ar_norm": "10- اعادة البث: اعادة بث محتوي اعلامي بلا تغيير.",
+    "target_en_norm": "10.rebroadcasting: rebroadcasting media content without changes.",
+    "file_name": "نظام الإعلام المرئي والمسموع.docx"
+  },
+  {
+    "id": 32496,
+    "source_ar": "11- الإعلام المرئي والمسموع: عملية بث محتوى إعلامي، أو إعادة بثه، أو إنتاجه للبث، أو توزيعه، أو بيعه ليصل إلى الجمهور، ولا يشمل ما يتصف بطابع المراسلات الخاصة.",
+    "target_en": "11. Audiovisual Media: The process of broadcasting, rebroadcasting, producing for broadcasting, distributing, or selling media content to reach the public, excluding what is deemed private communication.",
+    "source_ar_norm": "11- الاعلام المرئي والمسموع: عملية بث محتوي اعلامي، او اعادة بثه، او انتاجه للبث، او توزيعه، او بيعه ليصل الي الجمهور، ولا يشمل ما يتصف بطابع المراسلات الخاصة.",
+    "target_en_norm": "11. audiovisual media: the process of broadcasting, rebroadcasting, producing for broadcasting, distributing, or selling media content to reach the public, excluding what is deemed private communication.",
+    "file_name": "نظام الإعلام المرئي والمسموع.docx"
+  },
+  {
+    "id": 32497,
+    "source_ar": "12- المرخص له: الحاصل على رخصة من الهيئة لممارسة نشاط إعلامي مرئي أو مسموع، وفقاً لأحكام النظام واللائحة.",
+    "target_en": "12. Licensee: The holder of a license from the Commission to engage in an audio or visual media activity, in accordance with the provisions of the Law and the Regulations.",
+    "source_ar_norm": "12- المرخص له: الحاصل علي رخصة من الهيئة لممارسة نشاط اعلامي مرئي او مسموع، وفقا لاحكام النظام واللائحة.",
+    "target_en_norm": "12. licensee: the holder of a license from the commission to engage in an audio or visual media activity, in accordance with the provisions of the law and the regulations.",
+    "file_name": "نظام الإعلام المرئي والمسموع.docx"
+  },
+  {
+    "id": 32498,
+    "source_ar": "13- رخصة البث: إنشاء محطة للبث، وتشغيلها؛ بمقتضى عقد أو اتفاقية تنظم العلاقة بين الهيئة والمرخص له.",
+    "target_en": "13. Broadcasting License: Building and operating a broadcasting station pursuant to a contract or an agreement that governs the relationship between the Commission and the licensee.",
+    "source_ar_norm": "13- رخصة البث: انشاء محطة للبث، وتشغيلها؛ بمقتضي عقد او اتفاقية تنظم العلاقة بين الهيئة والمرخص له.",
+    "target_en_norm": "13. broadcasting license: building and operating a broadcasting station pursuant to a contract or an agreement that governs the relationship between the commission and the licensee.",
+    "file_name": "نظام الإعلام المرئي والمسموع.docx"
+  },
+  {
+    "id": 32499,
+    "source_ar": "14- شبكة البث: البنية التحتية الخاصة بالبث الإذاعي أو التلفزيوني، وتتكون من منظومة متكاملة من أبراج، وأجهزة إرسال، ومحطات إعادة، ووصلات ربط، وهوائيات، ومكملاتها.",
+    "target_en": "14. Broadcasting Network: The infrastructure of radio or television broadcasting which consists of an integrated system of towers, transmitters, rebroadcasting stations, connectors, antennas, and their accessories.",
+    "source_ar_norm": "14- شبكة البث: البنية التحتية الخاصة بالبث الاذاعي او التلفزيوني، وتتكون من منظومة متكاملة من ابراج، واجهزة ارسال، ومحطات اعادة، ووصلات ربط، وهوائيات، ومكملاتها.",
+    "target_en_norm": "14. broadcasting network: the infrastructure of radio or television broadcasting which consists of an integrated system of towers, transmitters, rebroadcasting stations, connectors, antennas, and their accessories.",
+    "file_name": "نظام الإعلام المرئي والمسموع.docx"
+  },
+  {
+    "id": 32500,
+    "source_ar": "15 - اللجنة الابتدائية: اللجنة الابتدائية المشكلة بموجب نظام المطبوعات والنشر.",
+    "target_en": "15. Preliminary Committee: The Preliminary Committee formed under the Law of Printed Materials and Publication.",
+    "source_ar_norm": "15 - اللجنة الابتدائية: اللجنة الابتدائية المشكلة بموجب نظام المطبوعات والنشر.",
+    "target_en_norm": "15. preliminary committee: the preliminary committee formed under the law of printed materials and publication.",
+    "file_name": "نظام الإعلام المرئي والمسموع.docx"
+  }
+]

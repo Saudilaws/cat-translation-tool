@@ -1,0 +1,802 @@
+[
+  {
+    "id": 33301,
+    "source_ar": "البيئة البحرية والساحلية: المناطق البحرية والمناطق الساحلية والجزر أو أي مكون من مكوناتها الطبيعية، سواء أكانت أشجارًا أم شجيرات أم نباتات أم أعشابًا أم طحالب أم شعبًا مرجانية أم أحياء بحرية أو مجهرية، ونحوها.",
+    "target_en": "Marine and Coastal Environment: Marine areas, coastal areas, and islands, or any of their natural components, including trees, shrubs, plants, herbs, algae, coral reefs, marine organisms, or microorganisms, and the like.",
+    "source_ar_norm": "البيئة البحرية والساحلية: المناطق البحرية والمناطق الساحلية والجزر او اي مكون من مكوناتها الطبيعية، سواء اكانت اشجارا ام شجيرات ام نباتات ام اعشابا ام طحالب ام شعبا مرجانية ام احياء بحرية او مجهرية، ونحوها.",
+    "target_en_norm": "marine and coastal environment: marine areas, coastal areas, and islands, or any of their natural components, including trees, shrubs, plants, herbs, algae, coral reefs, marine organisms, or microorganisms, and the like.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33302,
+    "source_ar": "الموارد المائية: المياه السطحية والجوفية المتجددة وغير المتجددة، وتشمل: مياه الآبار، والعيون، والينابيع، والسدود، ومياه الأمطار.",
+    "target_en": "Water Resources: Renewable and non-renewable surface and groundwater, including rainwater as well as waters of wells, springs, and dams.",
+    "source_ar_norm": "الموارد المائية: المياه السطحية والجوفية المتجددة وغير المتجددة، وتشمل: مياه الابار، والعيون، والينابيع، والسدود، ومياه الامطار.",
+    "target_en_norm": "water resources: renewable and non-renewable surface and groundwater, including rainwater as well as waters of wells, springs, and dams.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33303,
+    "source_ar": "المسطحات المائية: تراكم للماء على سطح الأرض أو في جوفها، وتشمل المحيطات والبحار والبحيرات والبرك والأراضي الرطبة والمكونات الجغرافية الأخرى التي تنتقل فيها المياه من مكان إلى آخر.",
+    "target_en": "Water Bodies: Accumulation of water aboveground or underground, including oceans, seas, lakes, ponds, wetlands, and other geographical features wherein water moves from one place to another.",
+    "source_ar_norm": "المسطحات المائية: تراكم للماء علي سطح الارض او في جوفها، وتشمل المحيطات والبحار والبحيرات والبرك والاراضي الرطبة والمكونات الجغرافية الاخري التي تنتقل فيها المياه من مكان الي اخر.",
+    "target_en_norm": "water bodies: accumulation of water aboveground or underground, including oceans, seas, lakes, ponds, wetlands, and other geographical features wherein water moves from one place to another.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33304,
+    "source_ar": "حماية البيئة: المحافظة على البيئة، وتشمل: منع التلوث، والتخفيف من حدته، والحد من تدهور البيئة، وضمان تحقيق التنمية المستدامة؛ وذلك من خلال الالتزام بالمقاييس والمعايير والإجراءات الوقائية أو العلاجية المتعلقة بالبيئة وفقاً لأحكام النظام واللوائح.",
+    "target_en": "Environmental Protection: Preserving the environment, that includes preventing pollution and mitigating its effect, reducing environmental degradation, and ensuring sustainable development by adhering to environmental standards, criteria, and preventive or remedial measures in accordance with this Law and the regulations.",
+    "source_ar_norm": "حماية البيئة: المحافظة علي البيئة، وتشمل: منع التلوث، والتخفيف من حدته، والحد من تدهور البيئة، وضمان تحقيق التنمية المستدامة؛ وذلك من خلال الالتزام بالمقاييس والمعايير والاجراءات الوقائية او العلاجية المتعلقة بالبيئة وفقا لاحكام النظام واللوائح.",
+    "target_en_norm": "environmental protection: preserving the environment, that includes preventing pollution and mitigating its effect, reducing environmental degradation, and ensuring sustainable development by adhering to environmental standards, criteria, and preventive or remedial measures in accordance with this law and the regulations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33305,
+    "source_ar": "جودة الهواء: الخصائص التي تتميز بها حالة الهواء والتي تُقوَّم استناداً إلى المقاييس والمعايير التي تضعها الجهة المختصة لحماية البيئة وصحة الإنسان.",
+    "target_en": "Air Quality: The characteristics of air according to standards and criteria set by the competent authority for the protection of the environment and human health.",
+    "source_ar_norm": "جودة الهواء: الخصائص التي تتميز بها حالة الهواء والتي تقوم استنادا الي المقاييس والمعايير التي تضعها الجهة المختصة لحماية البيئة وصحة الانسان.",
+    "target_en_norm": "air quality: the characteristics of air according to standards and criteria set by the competent authority for the protection of the environment and human health.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33306,
+    "source_ar": "تلوث البيئة: وجود مادة أو أكثر من المواد أو العوامل بكميات أو صفات معينة لمدة زمنية؛ تؤدي بطريق مباشر أو غير مباشر إلى الإضرار بالبيئة.",
+    "target_en": "Environmental Pollution: The existence of one or more substances or factors in certain quantities or qualities for a period of time that directly or indirectly harm the environment.",
+    "source_ar_norm": "تلوث البيئة: وجود مادة او اكثر من المواد او العوامل بكميات او صفات معينة لمدة زمنية؛ تؤدي بطريق مباشر او غير مباشر الي الاضرار بالبيئة.",
+    "target_en_norm": "environmental pollution: the existence of one or more substances or factors in certain quantities or qualities for a period of time that directly or indirectly harm the environment.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33307,
+    "source_ar": "المكونات السائلة: أي مادة سائلة أو زيتية تسبب تلوثًا للأوساط البيئية.",
+    "target_en": "Liquid Components: Any liquid or oily substance that causes pollution to an environmental medium.",
+    "source_ar_norm": "المكونات السائلة: اي مادة سائلة او زيتية تسبب تلوثا للاوساط البيئية.",
+    "target_en_norm": "liquid components: any liquid or oily substance that causes pollution to an environmental medium.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33308,
+    "source_ar": "الملوثات: أي مادة صلبة أو سائلة أو غازية أو أدخنة أو أبخرة أو انبعاثات أو ضوضاء أو إضاءة أو أي مؤثر آخر طبيعي أو بشري يؤدي بطريق مباشر أو غير مباشر إلى تلوث البيئة أو تدهورها.",
+    "target_en": "Pollutants: Any solid, liquid, or gaseous material, as well as smoke, fumes, emissions, noise, lighting, or any other natural or man-made impact that directly or indirectly leads to environmental pollution or degradation.",
+    "source_ar_norm": "الملوثات: اي مادة صلبة او سائلة او غازية او ادخنة او ابخرة او انبعاثات او ضوضاء او اضاءة او اي مؤثر اخر طبيعي او بشري يؤدي بطريق مباشر او غير مباشر الي تلوث البيئة او تدهورها.",
+    "target_en_norm": "pollutants: any solid, liquid, or gaseous material, as well as smoke, fumes, emissions, noise, lighting, or any other natural or man-made impact that directly or indirectly leads to environmental pollution or degradation.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33309,
+    "source_ar": "الانبعاثات: انطلاق غازات أو جسيمات عالقة إلى الهواء من مصدر محدد.",
+    "target_en": "Emissions: The release of suspended particles or gases into the air from a specific source.",
+    "source_ar_norm": "الانبعاثات: انطلاق غازات او جسيمات عالقة الي الهواء من مصدر محدد.",
+    "target_en_norm": "emissions: the release of suspended particles or gases into the air from a specific source.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33310,
+    "source_ar": "المقاييس البيئية: حدود أو نسب تركيز الملوثات أو الانبعاثات التي لا يسمح بتجاوزها؛ لضمان مستوى جودة الأوساط البيئية.",
+    "target_en": "Environmental Measurements: Limits or percentages of concentration of pollutants or emissions that may not be exceeded to ensure the quality of environmental mediums.",
+    "source_ar_norm": "المقاييس البيئية: حدود او نسب تركيز الملوثات او الانبعاثات التي لا يسمح بتجاوزها؛ لضمان مستوي جودة الاوساط البيئية.",
+    "target_en_norm": "environmental measurements: limits or percentages of concentration of pollutants or emissions that may not be exceeded to ensure the quality of environmental mediums.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33311,
+    "source_ar": "النفايات الخطرة: مُخلفات تشكل ضرراً على البيئة ومكوناتها وصحة الإنسان، وتحتفظ بخواص خطرة أو معدية، مثل: السُمية العالية أو القابلة للانفجار أو التفاعل، والتي ليس لها استخدام ما لم تعالج وفقاً لاشتراطات خاصة.",
+    "target_en": "Hazardous Waste: Waste that causes harm to the environment, its components, and human health; and that retains hazardous or infectious properties, such as high toxicity, explosivity, or reactivity; and that may not be used unless treated in accordance with special requirements.",
+    "source_ar_norm": "النفايات الخطرة: مخلفات تشكل ضررا علي البيئة ومكوناتها وصحة الانسان، وتحتفظ بخواص خطرة او معدية، مثل: السمية العالية او القابلة للانفجار او التفاعل، والتي ليس لها استخدام ما لم تعالج وفقا لاشتراطات خاصة.",
+    "target_en_norm": "hazardous waste: waste that causes harm to the environment, its components, and human health; and that retains hazardous or infectious properties, such as high toxicity, explosivity, or reactivity; and that may not be used unless treated in accordance with special requirements.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33312,
+    "source_ar": "الإضرار بالبيئة: تأثير سلبي في البيئة، يقلل من قيمتها البيئية أو الاقتصادية، أو يؤثر في إمكان الاستفادة منها أو يغير من طبيعتها، أو يؤدي إلى اختلال التوازن الطبيعي بين عناصرها سواء بشكل مباشر أو غير مباشر.",
+    "target_en": "Environmental Harm: Any negative impact on the environment that directly or indirectly reduces its environmental or economic value, affects the possibility of benefiting therefrom, changes its nature, or affects the natural balance between its elements.",
+    "source_ar_norm": "الاضرار بالبيئة: تاثير سلبي في البيئة، يقلل من قيمتها البيئية او الاقتصادية، او يؤثر في امكان الاستفادة منها او يغير من طبيعتها، او يؤدي الي اختلال التوازن الطبيعي بين عناصرها سواء بشكل مباشر او غير مباشر.",
+    "target_en_norm": "environmental harm: any negative impact on the environment that directly or indirectly reduces its environmental or economic value, affects the possibility of benefiting therefrom, changes its nature, or affects the natural balance between its elements.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33313,
+    "source_ar": "التدهور البيئي: إضرار شديد بالأوساط البيئية بسبب استنزاف الموارد الطبيعية، أو تدمير الموائل البيئية، أو انقراض الحياة الفطرية، أو تلوث الأوساط البيئية وتدني مستوى جودة الهواء والمياه والتربة.",
+    "target_en": "Environmental Degradation: Any severe harm to the environmental mediums resulting from the depletion of natural resources, destruction of habitats, extinction of wildlife, or pollution thereof, and deterioration of the quality of air, water, or soil.",
+    "source_ar_norm": "التدهور البيئي: اضرار شديد بالاوساط البيئية بسبب استنزاف الموارد الطبيعية، او تدمير الموائل البيئية، او انقراض الحياة الفطرية، او تلوث الاوساط البيئية وتدني مستوي جودة الهواء والمياه والتربة.",
+    "target_en_norm": "environmental degradation: any severe harm to the environmental mediums resulting from the depletion of natural resources, destruction of habitats, extinction of wildlife, or pollution thereof, and deterioration of the quality of air, water, or soil.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33314,
+    "source_ar": "الكارثة البيئية: أي حالة أو حادث ناتج من فعل طبيعي أو بشري ويترتب عليه تهديد الموائل البيئية أو الإضرار بالبيئة، وتتطلب مواجهته إمكانات وإجراءات أكبر من تلك التي تتطلبها الحوادث العادية أو تستوعبها القدرات المحلية، بما يستدعي تدخّل الجهات المعنية وتعاونها.",
+    "target_en": "Environmental Disaster: Any situation or accident resulting from a natural or man-made act, that jeopardizes environmental habitats or causes damage to the environment; requires greater resources and more drastic measures than usually required in normal accidents; cannot be accommodated by the local capabilities; and necessitates the intervention and cooperation of the concerned authorities.",
+    "source_ar_norm": "الكارثة البيئية: اي حالة او حادث ناتج من فعل طبيعي او بشري ويترتب عليه تهديد الموائل البيئية او الاضرار بالبيئة، وتتطلب مواجهته امكانات واجراءات اكبر من تلك التي تتطلبها الحوادث العادية او تستوعبها القدرات المحلية، بما يستدعي تدخل الجهات المعنية وتعاونها.",
+    "target_en_norm": "environmental disaster: any situation or accident resulting from a natural or man-made act, that jeopardizes environmental habitats or causes damage to the environment; requires greater resources and more drastic measures than usually required in normal accidents; cannot be accommodated by the local capabilities; and necessitates the intervention and cooperation of the concerned authorities.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33315,
+    "source_ar": "المواد المستنفدة لطبقة الأوزون: مواد تتميز بثباتها الكيميائي في طبقة الغلاف الجوي القريب من سطح الأرض وتحتوي على ذرة أو أكثر من الكلور أو البروم أو كليهما معاً، وتبدأ في تفاعلات تؤدي إلى تفاعلات متسلسلة في طبقة (الستراتوسفير) الجوي تؤدي إلى نفاد الأوزون.",
+    "target_en": "Ozone-Depleting Substances: Substances that are characterized by their chemical stability in the atmosphere close to the surface of the earth; contain one or more chlorine or bromine atoms, or both; and trigger reactions leading to chain reactions in the stratosphere, thus resulting in ozone depletion.",
+    "source_ar_norm": "المواد المستنفدة لطبقة الاوزون: مواد تتميز بثباتها الكيميائي في طبقة الغلاف الجوي القريب من سطح الارض وتحتوي علي ذرة او اكثر من الكلور او البروم او كليهما معا، وتبدا في تفاعلات تؤدي الي تفاعلات متسلسلة في طبقة (الستراتوسفير) الجوي تؤدي الي نفاد الاوزون.",
+    "target_en_norm": "ozone-depleting substances: substances that are characterized by their chemical stability in the atmosphere close to the surface of the earth; contain one or more chlorine or bromine atoms, or both; and trigger reactions leading to chain reactions in the stratosphere, thus resulting in ozone depletion.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33316,
+    "source_ar": "مياه الصرف: مياه أدى استخدامها إلى تغير لونها أو طعمها أو رائحتها أو مستوى أمنها الصحي أو البيئي، وتشمل المياه المستخدمة لأغراض صحية أو صناعية أو زراعية.",
+    "target_en": "Wastewater: Used water that has changed in color, taste, smell, or level of hygienic or environmental safety; it includes water used for health, industrial, or agricultural purposes.",
+    "source_ar_norm": "مياه الصرف: مياه ادي استخدامها الي تغير لونها او طعمها او رائحتها او مستوي امنها الصحي او البيئي، وتشمل المياه المستخدمة لاغراض صحية او صناعية او زراعية.",
+    "target_en_norm": "wastewater: used water that has changed in color, taste, smell, or level of hygienic or environmental safety; it includes water used for health, industrial, or agricultural purposes.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33317,
+    "source_ar": "مياه الصرف المعالجة: مياه خارجة من محطة معالجة مياه الصرف بعد معالجتها طبقاً لمقاييس ومعايير محددة.",
+    "target_en": "Treated Wastewater: Water treated at a wastewater treatment plant according to specific standards and criteria.",
+    "source_ar_norm": "مياه الصرف المعالجة: مياه خارجة من محطة معالجة مياه الصرف بعد معالجتها طبقا لمقاييس ومعايير محددة.",
+    "target_en_norm": "treated wastewater: water treated at a wastewater treatment plant according to specific standards and criteria.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33318,
+    "source_ar": "حقن المياه: ضخ مياه الصرف المعالجة إلى الطبقات الجوفية.",
+    "target_en": "Water Injection: Pumping treated wastewater into aquifers.",
+    "source_ar_norm": "حقن المياه: ضخ مياه الصرف المعالجة الي الطبقات الجوفية.",
+    "target_en_norm": "water injection: pumping treated wastewater into aquifers.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33319,
+    "source_ar": "دراسة التدقيق البيئي: دراسة تشمل نتائج فحص موضوعي ومنظم ودوري وموثق للعمليات التشغيلية لمنشأة معينة، تُعد بعد إنشاء أو خلال تشغيل المنشأة؛ من أجل التحقق من استيفائها الاشتراطات والضوابط والمقاييس والمعايير البيئية وتحسين الأداء البيئي للمنشأة، والتزامها بالأحكام الواردة في النظام واللوائح والترخيص والتصريح.",
+    "target_en": "Environmental Audit: An assessment of the results of an objective, systematic, periodic, and documented examination of the operational processes of a particular facility, prepared after the installation or during the operation of the facility, to ensure the facility’s compliance with the environmental requirements, controls, standards, and criteria; to improve its environmental performance; and to ensure its compliance with the Law, regulations, license, and permit.",
+    "source_ar_norm": "دراسة التدقيق البيئي: دراسة تشمل نتائج فحص موضوعي ومنظم ودوري وموثق للعمليات التشغيلية لمنشاة معينة، تعد بعد انشاء او خلال تشغيل المنشاة؛ من اجل التحقق من استيفائها الاشتراطات والضوابط والمقاييس والمعايير البيئية وتحسين الاداء البيئي للمنشاة، والتزامها بالاحكام الواردة في النظام واللوائح والترخيص والتصريح.",
+    "target_en_norm": "environmental audit: an assessment of the results of an objective, systematic, periodic, and documented examination of the operational processes of a particular facility, prepared after the installation or during the operation of the facility, to ensure the facility’s compliance with the environmental requirements, controls, standards, and criteria; to improve its environmental performance; and to ensure its compliance with the law, regulations, license, and permit.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33320,
+    "source_ar": "دراسة التقييم البيئي الاستراتيجي: دراسة لتحديد وتقدير وتقييم التأثيرات البيئية التي قد تنتج من السياسات والاستراتيجيات والخطط والبرامج على مستوى القطاعات والمناطق التي تقترح الجهات الحكومية تخصيصها لقطاع تنموي أو بشري؛ لتضمين جميع الاعتبارات البيئية وإدراجها بالتوازي مع الاعتبارات الاقتصادية والاجتماعية.",
+    "target_en": "Strategic Environmental Assessment: A study to identify, assess, and evaluate the environmental impact that may result from policies, strategies, plans, and programs at the level of sectors and regions that the government agencies propose to allocate to a development or humanitarian sector, in order to integrate and include all environmental considerations along with economic and social considerations.",
+    "source_ar_norm": "دراسة التقييم البيئي الاستراتيجي: دراسة لتحديد وتقدير وتقييم التاثيرات البيئية التي قد تنتج من السياسات والاستراتيجيات والخطط والبرامج علي مستوي القطاعات والمناطق التي تقترح الجهات الحكومية تخصيصها لقطاع تنموي او بشري؛ لتضمين جميع الاعتبارات البيئية وادراجها بالتوازي مع الاعتبارات الاقتصادية والاجتماعية.",
+    "target_en_norm": "strategic environmental assessment: a study to identify, assess, and evaluate the environmental impact that may result from policies, strategies, plans, and programs at the level of sectors and regions that the government agencies propose to allocate to a development or humanitarian sector, in order to integrate and include all environmental considerations along with economic and social considerations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33321,
+    "source_ar": "دراسة تقييم الأثر البيئي: دراسة لتحديد وتقدير وتقييم التأثيرات البيئية التي قد تنتج من إنشاء أي مشروع أو نشاط، أو تشغيله، أو تعديله، أو إزالته؛ لتضمين جميع الاعتبارات البيئية وإدراجها بالتوازي مع الاعتبارات الاقتصادية والاجتماعية والأمنية، وتحديد البدائل والإجراءات اللازمة لحماية البيئة.",
+    "target_en": "Environmental Impact Assessment: A study to identify, assess, and evaluate the environmental impact that may result from the establishment, operation, modification, or dismantling of any project or activity in order to integrate and include all environmental considerations along with economic, social, and security considerations, and to identify the alternatives and the procedures necessary for the protection of the environment.",
+    "source_ar_norm": "دراسة تقييم الاثر البيئي: دراسة لتحديد وتقدير وتقييم التاثيرات البيئية التي قد تنتج من انشاء اي مشروع او نشاط، او تشغيله، او تعديله، او ازالته؛ لتضمين جميع الاعتبارات البيئية وادراجها بالتوازي مع الاعتبارات الاقتصادية والاجتماعية والامنية، وتحديد البدائل والاجراءات اللازمة لحماية البيئة.",
+    "target_en_norm": "environmental impact assessment: a study to identify, assess, and evaluate the environmental impact that may result from the establishment, operation, modification, or dismantling of any project or activity in order to integrate and include all environmental considerations along with economic, social, and security considerations, and to identify the alternatives and the procedures necessary for the protection of the environment.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33322,
+    "source_ar": "التعويضات: ما يدفعه المتسبب بالإضرار أو التلوث أو التدهور البيئي؛ لجبر الضرر المترتب جراء ذلك الإضرار أو التلوث أو التدهور البيئي أو إزالته. وتشمل تكاليف إعادة التأهيل التي يدفعها حال تعذر قيامه بإعادة التأهيل.",
+    "target_en": "Compensation: Payments made by a person who causes environmental harm, pollution, or degradation to remedy or remove the damage caused thereby, including rehabilitation costs in case of failure to undertake the rehabilitation.",
+    "source_ar_norm": "التعويضات: ما يدفعه المتسبب بالاضرار او التلوث او التدهور البيئي؛ لجبر الضرر المترتب جراء ذلك الاضرار او التلوث او التدهور البيئي او ازالته. وتشمل تكاليف اعادة التاهيل التي يدفعها حال تعذر قيامه باعادة التاهيل.",
+    "target_en_norm": "compensation: payments made by a person who causes environmental harm, pollution, or degradation to remedy or remove the damage caused thereby, including rehabilitation costs in case of failure to undertake the rehabilitation.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33323,
+    "source_ar": "إعادة التأهيل: كل إجراء على موقع متدهور بيئيَّا، أو ألحق به ضرر بيئي أو تلوّث؛ لإعادته إلى حالته الطبيعية من التوازن البيئي، وفقاً للمعايير التي تحددها الجهة المختصة.",
+    "target_en": "Rehabilitation: Any action performed on a site that has sustained environmental degradation, harm, or pollution to restore it to its natural state, according to the criteria prescribed by the competent authority.",
+    "source_ar_norm": "اعادة التاهيل: كل اجراء علي موقع متدهور بيئيا، او الحق به ضرر بيئي او تلوث؛ لاعادته الي حالته الطبيعية من التوازن البيئي، وفقا للمعايير التي تحددها الجهة المختصة.",
+    "target_en_norm": "rehabilitation: any action performed on a site that has sustained environmental degradation, harm, or pollution to restore it to its natural state, according to the criteria prescribed by the competent authority.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33324,
+    "source_ar": "السياحة البيئية: النشاط السياحي الصديق للبيئة الذي يمارسه الإنسان، محافظاً على الميراث الفطري الطبيعي والحضاري للبيئية.",
+    "target_en": "Ecotourism: An environment-friendly tourist activity that preserves the natural and cultural heritage of the environment.",
+    "source_ar_norm": "السياحة البيئية: النشاط السياحي الصديق للبيئة الذي يمارسه الانسان، محافظا علي الميراث الفطري الطبيعي والحضاري للبيئية.",
+    "target_en_norm": "ecotourism: an environment-friendly tourist activity that preserves the natural and cultural heritage of the environment.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33325,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33326,
+    "source_ar": "يهدف النظام إلى حماية البيئة وتنميتها واستدامتها، والالتزام بالمبادئ البيئية، وتنظيم قطاع البيئة والأنشطة والخدمات المتعلقة به.",
+    "target_en": "The Law aims to protect, develop, and sustain the environment; adhere to environmental principles; and regulate the environmental sector and related activities and services.",
+    "source_ar_norm": "يهدف النظام الي حماية البيئة وتنميتها واستدامتها، والالتزام بالمبادئ البيئية، وتنظيم قطاع البيئة والانشطة والخدمات المتعلقة به.",
+    "target_en_norm": "the law aims to protect, develop, and sustain the environment; adhere to environmental principles; and regulate the environmental sector and related activities and services.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33327,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33328,
+    "source_ar": "لا يجوز لأي شخص ممارسة أي من الأنشطة البيئية أو التي لها أثر بيئي؛ إلا بعد الحصول على تصريح أو ترخيص؛ وذلك وفقاً لما تحدده اللوائح.",
+    "target_en": "Engaging in an environmental activity or an activity that has an environmental impact without a permit or license shall be prohibited, as specified by the regulations.",
+    "source_ar_norm": "لا يجوز لاي شخص ممارسة اي من الانشطة البيئية او التي لها اثر بيئي؛ الا بعد الحصول علي تصريح او ترخيص؛ وذلك وفقا لما تحدده اللوائح.",
+    "target_en_norm": "engaging in an environmental activity or an activity that has an environmental impact without a permit or license shall be prohibited, as specified by the regulations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33329,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33330,
+    "source_ar": "على كل من المصرح له والمرخص له؛ الالتزام بأحكام النظام، واللوائح، وشروط التصريح أو الترخيص، والتعليمات والقرارات -ذات العلاقة- التي تصدرها الجهة المختصة.",
+    "target_en": "A holder of a license or permit shall comply with this Law, the regulations, and the terms and conditions of the permit or license, as well as relevant instructions and decisions issued by the competent authority.",
+    "source_ar_norm": "علي كل من المصرح له والمرخص له؛ الالتزام باحكام النظام، واللوائح، وشروط التصريح او الترخيص، والتعليمات والقرارات -ذات العلاقة- التي تصدرها الجهة المختصة.",
+    "target_en_norm": "a holder of a license or permit shall comply with this law, the regulations, and the terms and conditions of the permit or license, as well as relevant instructions and decisions issued by the competent authority.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33331,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33332,
+    "source_ar": "تضع الجهة المختصة ضوابط تنفيذ البرامج والخطط والمبادرات التطوعية المتعلقة بالبيئة.",
+    "target_en": "The competent authority shall set the rules for the implementation of the environmental programs, plans, and voluntary initiatives.",
+    "source_ar_norm": "تضع الجهة المختصة ضوابط تنفيذ البرامج والخطط والمبادرات التطوعية المتعلقة بالبيئة.",
+    "target_en_norm": "the competent authority shall set the rules for the implementation of the environmental programs, plans, and voluntary initiatives.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33333,
+    "source_ar": "الفصل الثاني (الأوساط البيئية والموارد المائية وحمايتها)",
+    "target_en": "Chapter 2: Protection of Environmental Mediums and Water Resources",
+    "source_ar_norm": "الفصل الثاني (الاوساط البيئية والموارد المائية وحمايتها)",
+    "target_en_norm": "chapter 2: protection of environmental mediums and water resources",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33334,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33335,
+    "source_ar": "يُحظر القيام بكل ما من شأنه تلويث الأوساط البيئية والموارد المائية، أو الإضرار بهما، أو التأثير سلباً في الانتفاع بهما؛ وذلك وفقاً لما تحدده اللوائح.",
+    "target_en": "Any activity that may pollute, harm, or adversely affect the use of environmental mediums and water resources shall be prohibited, as specified by the regulations.",
+    "source_ar_norm": "يحظر القيام بكل ما من شانه تلويث الاوساط البيئية والموارد المائية، او الاضرار بهما، او التاثير سلبا في الانتفاع بهما؛ وذلك وفقا لما تحدده اللوائح.",
+    "target_en_norm": "any activity that may pollute, harm, or adversely affect the use of environmental mediums and water resources shall be prohibited, as specified by the regulations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33336,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33337,
+    "source_ar": "يُحظر استغلال أو نقل أو تخزين أو بيع أو الترويج لأيّ من الموارد الطبيعية ومنتجاتها الموجودة في إقليم المملكة الذي يشمل أراضيها -بما في ذلك الجزر- ومجالها الجوي، والمياه الداخلية والبحر الإقليمي وقاعهما وباطن أرضهما والحيز الجوي فوقهما، وجميع المناطق البحرية الأخرى التي تمارس عليها المملكة حقوق السيادة أو حقوق الولاية طبقاً للقانون الدولي؛ دون الحصول على تصريح أو ترخيص؛ وذلك وفقاً لما تحدده اللوائح.",
+    "target_en": "No person may –without obtaining a permit or license in accordance with the regulations– use, transfer, store, sell, or promote natural resources or their products that are found in the territory of the Kingdom, including its mainland, islands, and airspace, as well as its internal waters and territorial sea and their seabed, subsoil, and airspace, in addition to all other maritime areas over which the Kingdom exercises sovereignty or jurisdiction under International Law.",
+    "source_ar_norm": "يحظر استغلال او نقل او تخزين او بيع او الترويج لاي من الموارد الطبيعية ومنتجاتها الموجودة في اقليم المملكة الذي يشمل اراضيها -بما في ذلك الجزر- ومجالها الجوي، والمياه الداخلية والبحر الاقليمي وقاعهما وباطن ارضهما والحيز الجوي فوقهما، وجميع المناطق البحرية الاخري التي تمارس عليها المملكة حقوق السيادة او حقوق الولاية طبقا للقانون الدولي؛ دون الحصول علي تصريح او ترخيص؛ وذلك وفقا لما تحدده اللوائح.",
+    "target_en_norm": "no person may –without obtaining a permit or license in accordance with the regulations– use, transfer, store, sell, or promote natural resources or their products that are found in the territory of the kingdom, including its mainland, islands, and airspace, as well as its internal waters and territorial sea and their seabed, subsoil, and airspace, in addition to all other maritime areas over which the kingdom exercises sovereignty or jurisdiction under international law.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33338,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33339,
+    "source_ar": "على كل من المصرح له والمرخص له الذي يمارس أنشطة قد يصدر منها انبعاثات أو ملوثات، أو التي قد تؤثر في الأوساط البيئية؛ الالتزام بالآتي:",
+    "target_en": "A holder of a license or permit who engages in activities that may result in the release of emissions or pollutants or may affect environmental mediums shall:",
+    "source_ar_norm": "علي كل من المصرح له والمرخص له الذي يمارس انشطة قد يصدر منها انبعاثات او ملوثات، او التي قد تؤثر في الاوساط البيئية؛ الالتزام بالاتي:",
+    "target_en_norm": "a holder of a license or permit who engages in activities that may result in the release of emissions or pollutants or may affect environmental mediums shall:",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33340,
+    "source_ar": "الاشتراطات والضوابط والإجراءات والمقاييس والمعايير البيئية؛ التي تحددها اللوائح.",
+    "target_en": "comply with the environmental requirements, rules, procedures, standards, and measurements specified by the regulations;",
+    "source_ar_norm": "الاشتراطات والضوابط والاجراءات والمقاييس والمعايير البيئية؛ التي تحددها اللوائح.",
+    "target_en_norm": "comply with the environmental requirements, rules, procedures, standards, and measurements specified by the regulations;",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33341,
+    "source_ar": "اتخاذ الإجراءات والتدابير اللازمة عند الاقتراب من تجاوز المقاييس البيئية؛ وفقاً لما تحدده اللوائح.",
+    "target_en": "take the necessary measures and procedures when approaching the limits of environmental measurements, as specified by the regulations;",
+    "source_ar_norm": "اتخاذ الاجراءات والتدابير اللازمة عند الاقتراب من تجاوز المقاييس البيئية؛ وفقا لما تحدده اللوائح.",
+    "target_en_norm": "take the necessary measures and procedures when approaching the limits of environmental measurements, as specified by the regulations;",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33342,
+    "source_ar": "وضع برامج وأجهزة للرصد والقياس والرقابة على جودة الأوساط البيئية، وفقاً لما تحدده اللوائح.",
+    "target_en": "develop programs and devices for detection and measurement, and for monitoring the quality of environmental mediums, as specified by the regulations;",
+    "source_ar_norm": "وضع برامج واجهزة للرصد والقياس والرقابة علي جودة الاوساط البيئية، وفقا لما تحدده اللوائح.",
+    "target_en_norm": "develop programs and devices for detection and measurement, and for monitoring the quality of environmental mediums, as specified by the regulations;",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33343,
+    "source_ar": "تزويد الجهة المختصة -بصفة دورية- بالبيانات والتقارير المتعلقة بالانبعاثات أو الملوثات الصادرة عن أنشطته؛ لمراجعتها ومطابقتها، وتحديد تجاوزات المقاييس والمعايير والاشتراطات، وذلك وفقاً لما تحدده اللوائح.",
+    "target_en": "provide the competent authority periodically with data and reports relating to emissions or pollutants resulting from the activities he engages in to review and verify their conformity, and determine any violation of measurements, standards, and requirements, as specified by the regulations;",
+    "source_ar_norm": "تزويد الجهة المختصة -بصفة دورية- بالبيانات والتقارير المتعلقة بالانبعاثات او الملوثات الصادرة عن انشطته؛ لمراجعتها ومطابقتها، وتحديد تجاوزات المقاييس والمعايير والاشتراطات، وذلك وفقا لما تحدده اللوائح.",
+    "target_en_norm": "provide the competent authority periodically with data and reports relating to emissions or pollutants resulting from the activities he engages in to review and verify their conformity, and determine any violation of measurements, standards, and requirements, as specified by the regulations;",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33344,
+    "source_ar": "تزويد الجهة المختصة بدراسة التدقيق البيئي، وفقاً لما تحدده اللوائح.",
+    "target_en": "provide the competent authority with the environmental audit, as specified by the regulations; and",
+    "source_ar_norm": "تزويد الجهة المختصة بدراسة التدقيق البيئي، وفقا لما تحدده اللوائح.",
+    "target_en_norm": "provide the competent authority with the environmental audit, as specified by the regulations; and",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33345,
+    "source_ar": "إعادة تأهيل الأوساط البيئية المتدهورة جراء ممارسته لأنشطته، وفقاً لما تحدده اللوائح.",
+    "target_en": "rehabilitate environmental mediums that have degraded as a result of his activities, as specified by the regulations.",
+    "source_ar_norm": "اعادة تاهيل الاوساط البيئية المتدهورة جراء ممارسته لانشطته، وفقا لما تحدده اللوائح.",
+    "target_en_norm": "rehabilitate environmental mediums that have degraded as a result of his activities, as specified by the regulations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33346,
+    "source_ar": "وتحدد الجهة المختصة الأنشطة المشار إليها في هذه المادة.",
+    "target_en": "The competent authority shall determine the activities referred to in this Article.",
+    "source_ar_norm": "وتحدد الجهة المختصة الانشطة المشار اليها في هذه المادة.",
+    "target_en_norm": "the competent authority shall determine the activities referred to in this article.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33347,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33348,
+    "source_ar": "على كل من يمارس أي نشاط يستخدم فيه مواد لها تأثير سلبي في جودة الهواء، أو مواد مستنفدة لطبقة الأوزون؛ اتخاذ ما يلزم من إجراءات لتنفيذ الخطط -التي تعدها الجهة المختصة- المتعلقة بالتخلص التدريجي من تلك المواد؛ وذلك وفقاً لما تحدده اللوائح.",
+    "target_en": "Any person who engages in any activity that involves the use of substances that adversely affect air quality, or ozone-depleting substances shall take the necessary measures to implement the competent authority’s plans for the gradual elimination of such substances, in accordance with the regulations.",
+    "source_ar_norm": "علي كل من يمارس اي نشاط يستخدم فيه مواد لها تاثير سلبي في جودة الهواء، او مواد مستنفدة لطبقة الاوزون؛ اتخاذ ما يلزم من اجراءات لتنفيذ الخطط -التي تعدها الجهة المختصة- المتعلقة بالتخلص التدريجي من تلك المواد؛ وذلك وفقا لما تحدده اللوائح.",
+    "target_en_norm": "any person who engages in any activity that involves the use of substances that adversely affect air quality, or ozone-depleting substances shall take the necessary measures to implement the competent authority’s plans for the gradual elimination of such substances, in accordance with the regulations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33349,
+    "source_ar": "تحدد الجهة المختصة المواد التي لها تأثير سلبي في جودة الهواء، وكذلك المواد المستنفدة لطبقة الأوزون.",
+    "target_en": "The competent authority shall specify the substances that adversely affect air quality and depletes the ozone layer.",
+    "source_ar_norm": "تحدد الجهة المختصة المواد التي لها تاثير سلبي في جودة الهواء، وكذلك المواد المستنفدة لطبقة الاوزون.",
+    "target_en_norm": "the competent authority shall specify the substances that adversely affect air quality and depletes the ozone layer.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33350,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33351,
+    "source_ar": "يُحظر استيراد أو تصدير أو إعادة تصدير أو تداول أو تصنيع أو استخدام المواد المستنفدة لطبقة الأوزون -التي تحددها الجهة المختصة-؛ دون الحصول على تصريح أو ترخيص، وذلك وفقاً لما تحدده اللوائح.",
+    "target_en": "Ozone-depleting substances, as specified by the competent authority, may not be imported, exported, re-exported, circulated, manufactured, or used without obtaining a permit or license, as specified by the regulations.",
+    "source_ar_norm": "يحظر استيراد او تصدير او اعادة تصدير او تداول او تصنيع او استخدام المواد المستنفدة لطبقة الاوزون -التي تحددها الجهة المختصة-؛ دون الحصول علي تصريح او ترخيص، وذلك وفقا لما تحدده اللوائح.",
+    "target_en_norm": "ozone-depleting substances, as specified by the competent authority, may not be imported, exported, re-exported, circulated, manufactured, or used without obtaining a permit or license, as specified by the regulations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33352,
+    "source_ar": "يُحظر استيراد أو تصدير أو إعادة تصدير أو تصنيع أو استخدام الأجهزة والمعدات والمنتجات -الجديدة أو المعاد تدويرها- والتي تحتوي على أي من المواد المشار إليها في الفقرة (1) من هذه المادة؛ دون الحصول على تصريح أو ترخيص، وذلك وفقاً لما تبينه اللوائح.",
+    "target_en": "New or recycled devices, equipment, and products that contain any of the substances referred to in paragraph (1) of this Article may not be imported, exported, re-exported, manufactured, or used without obtaining a permit or license, as specified by the regulations.",
+    "source_ar_norm": "يحظر استيراد او تصدير او اعادة تصدير او تصنيع او استخدام الاجهزة والمعدات والمنتجات -الجديدة او المعاد تدويرها- والتي تحتوي علي اي من المواد المشار اليها في الفقرة (1) من هذه المادة؛ دون الحصول علي تصريح او ترخيص، وذلك وفقا لما تبينه اللوائح.",
+    "target_en_norm": "new or recycled devices, equipment, and products that contain any of the substances referred to in paragraph (1) of this article may not be imported, exported, re-exported, manufactured, or used without obtaining a permit or license, as specified by the regulations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33353,
+    "source_ar": "يكون التخلص من المواد والأجهزة والمعدات والمنتجات المشار إليها في الفقرتين (1) و(2) من هذه المادة؛ وفقاً لما تبينه اللوائح.",
+    "target_en": "Materials, devices, equipment, and products referred to in paragraphs (1) and (2) of this Article shall be disposed of, as specified by the regulations.",
+    "source_ar_norm": "يكون التخلص من المواد والاجهزة والمعدات والمنتجات المشار اليها في الفقرتين (1) و(2) من هذه المادة؛ وفقا لما تبينه اللوائح.",
+    "target_en_norm": "materials, devices, equipment, and products referred to in paragraphs (1) and (2) of this article shall be disposed of, as specified by the regulations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33354,
+    "source_ar": "يُحظر استيراد الأجهزة والمعدات والمنتجات -المستعملة- التي تحتوي على أي من المواد المشار إليها في الفقرة (1) من هذه المادة.",
+    "target_en": "Used devices, equipment, and products that contain any of the substances referred to in paragraph (1) of this Article may not be imported.",
+    "source_ar_norm": "يحظر استيراد الاجهزة والمعدات والمنتجات -المستعملة- التي تحتوي علي اي من المواد المشار اليها في الفقرة (1) من هذه المادة.",
+    "target_en_norm": "used devices, equipment, and products that contain any of the substances referred to in paragraph (1) of this article may not be imported.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33355,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33356,
+    "source_ar": "يُحظر إلقاء مياه الصرف أو أي من المكونات السائلة -المعالجة- أو تصريفها أو حقنها؛ في الآبار الجوفية أو أي وسط بيئي، دون الحصول على تصريح، وذلك وفقاً لما تبينه اللوائح.",
+    "target_en": "Wastewater or any treated liquids may not be discarded, discharged, or injected into underground wells or any environmental mediums without obtaining a permit, as specified by the regulations.",
+    "source_ar_norm": "يحظر القاء مياه الصرف او اي من المكونات السائلة -المعالجة- او تصريفها او حقنها؛ في الابار الجوفية او اي وسط بيئي، دون الحصول علي تصريح، وذلك وفقا لما تبينه اللوائح.",
+    "target_en_norm": "wastewater or any treated liquids may not be discarded, discharged, or injected into underground wells or any environmental mediums without obtaining a permit, as specified by the regulations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33357,
+    "source_ar": "الفصل الثالث ( أراضي الغطاء النباتي )",
+    "target_en": "Chapter 3: Vegetation Cover Lands",
+    "source_ar_norm": "الفصل الثالث ( اراضي الغطاء النباتي )",
+    "target_en_norm": "chapter 3: vegetation cover lands",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33358,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33359,
+    "source_ar": "لا يجوز تملك أراضي الغابات والمراعي والمنتزهات الوطنية والبرية والجيولوجية، بأي وجه من أوجه التصرف الناقل للملكية.",
+    "target_en": "Forest lands, pasture lands as well as lands of national, wildlife, or geological parks may not be disposed of in any way that entails a transfer of ownership.",
+    "source_ar_norm": "لا يجوز تملك اراضي الغابات والمراعي والمنتزهات الوطنية والبرية والجيولوجية، باي وجه من اوجه التصرف الناقل للملكية.",
+    "target_en_norm": "forest lands, pasture lands as well as lands of national, wildlife, or geological parks may not be disposed of in any way that entails a transfer of ownership.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33360,
+    "source_ar": "لا يجوز التعدي -سواء أكان بالتوسع أم بالإحداث- على أراضي الغابات والمراعي والمنتزهات الوطنية والبرية والجيولوجية.",
+    "target_en": "Forest lands, pasture lands as well as lands of national, wildlife, or geological parks may not be encroached upon, whether by expansion or by construction.",
+    "source_ar_norm": "لا يجوز التعدي -سواء اكان بالتوسع ام بالاحداث- علي اراضي الغابات والمراعي والمنتزهات الوطنية والبرية والجيولوجية.",
+    "target_en_norm": "forest lands, pasture lands as well as lands of national, wildlife, or geological parks may not be encroached upon, whether by expansion or by construction.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33361,
+    "source_ar": "المادة الثالثة عشرة",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة",
+    "target_en_norm": "article 13",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33362,
+    "source_ar": "تنشأ -بقرار من الوزير- المنتزهات الوطنية والبرية والجيولوجية على أرض غير مملوكة ملكية خاصة وليس لأحد عليها حق اختصاص أو حجز أو امتياز. وفي حالة وجود أي من ذلك، تُعدل خارطة المنتزه المقترح، أو يُختار بديل عنه، ما لم يتنازل صاحب الحق عن حقه؛ وذلك وفقاً لما تبينه اللوائح.",
+    "target_en": "National, wildlife, and geological parks shall, pursuant to a decision by the Minister, be established on lands not privately owned and over which no one has a legal interest, concession, or attachment. Otherwise, the plan for the proposed park shall be modified, or another area shall be designated, unless the rightful holder relinquishes his right, as specified by the regulations.",
+    "source_ar_norm": "تنشا -بقرار من الوزير- المنتزهات الوطنية والبرية والجيولوجية علي ارض غير مملوكة ملكية خاصة وليس لاحد عليها حق اختصاص او حجز او امتياز. وفي حالة وجود اي من ذلك، تعدل خارطة المنتزه المقترح، او يختار بديل عنه، ما لم يتنازل صاحب الحق عن حقه؛ وذلك وفقا لما تبينه اللوائح.",
+    "target_en_norm": "national, wildlife, and geological parks shall, pursuant to a decision by the minister, be established on lands not privately owned and over which no one has a legal interest, concession, or attachment. otherwise, the plan for the proposed park shall be modified, or another area shall be designated, unless the rightful holder relinquishes his right, as specified by the regulations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33363,
+    "source_ar": "للجهة المختصة -وفق ضوابط تحددها اللوائح- استثمار المنتزهات الوطنية والبرية والجيولوجية، وتنظيم الاستثمار فيها.",
+    "target_en": "The competent authority may, in accordance with controls set by the regulations, invest and regulate investment in national, wildlife, and geological parks.",
+    "source_ar_norm": "للجهة المختصة -وفق ضوابط تحددها اللوائح- استثمار المنتزهات الوطنية والبرية والجيولوجية، وتنظيم الاستثمار فيها.",
+    "target_en_norm": "the competent authority may, in accordance with controls set by the regulations, invest and regulate investment in national, wildlife, and geological parks.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33364,
+    "source_ar": "المادة الرابعة عشرة",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة",
+    "target_en_norm": "article 14",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33365,
+    "source_ar": "على أي شخص قبل القيام بنهل أو استغلال الرمل أو الحصى أو الصخور أو الطين؛ الحصول على تصريح، وذلك وفقاً لما تُبيّنه اللوائح.",
+    "target_en": "A person shall obtain a permit prior to removing or exploiting sand, gravel, rocks, or mud, as specified by the regulations.",
+    "source_ar_norm": "علي اي شخص قبل القيام بنهل او استغلال الرمل او الحصي او الصخور او الطين؛ الحصول علي تصريح، وذلك وفقا لما تبينه اللوائح.",
+    "target_en_norm": "a person shall obtain a permit prior to removing or exploiting sand, gravel, rocks, or mud, as specified by the regulations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33366,
+    "source_ar": "المادة الخامسة عشرة",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة",
+    "target_en_norm": "article 15",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33367,
+    "source_ar": "دون إخلال بما ورد في المادة (الرابعة عشرة) من النظام، يشترط لاستصلاح الأرض الزراعية وأراضي الغطاء النباتي وتسويتها؛ الحصول على ترخيص وفقاً لما تُبيّنه اللوائح.",
+    "target_en": "Without prejudice to the provisions of Article 14 of this Law, agricultural lands and vegetation cover lands may not be reclaimed or leveled without obtaining a license, as specified by the regulations.",
+    "source_ar_norm": "دون اخلال بما ورد في المادة (الرابعة عشرة) من النظام، يشترط لاستصلاح الارض الزراعية واراضي الغطاء النباتي وتسويتها؛ الحصول علي ترخيص وفقا لما تبينه اللوائح.",
+    "target_en_norm": "without prejudice to the provisions of article 14 of this law, agricultural lands and vegetation cover lands may not be reclaimed or leveled without obtaining a license, as specified by the regulations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33368,
+    "source_ar": "المادة السادسة عشرة",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة",
+    "target_en_norm": "article 16",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33369,
+    "source_ar": "تُحظر ممارسة أي نشاط أو عمل داخل أراضي الغطاء النباتي؛ دون الحصول على تصريح أو ترخيص، وذلك وفقاً لما تبينه اللوائح.",
+    "target_en": "Engaging in any activity or operation on the vegetation cover lands without a permit or license shall be prohibited, as specified by the regulations.",
+    "source_ar_norm": "تحظر ممارسة اي نشاط او عمل داخل اراضي الغطاء النباتي؛ دون الحصول علي تصريح او ترخيص، وذلك وفقا لما تبينه اللوائح.",
+    "target_en_norm": "engaging in any activity or operation on the vegetation cover lands without a permit or license shall be prohibited, as specified by the regulations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33370,
+    "source_ar": "تُحظر ممارسة أي نشاط أو عمل في الأراضي التي تقع ضمن النطاق الحضري العمراني وتحتوي على غطاء نباتي تشرف عليه الجهة المختصة؛ دون الحصول على تصريح أو ترخيص، وذلك وفقاً لما تُبيّنه اللوائح.",
+    "target_en": "Engaging in any activity or operation on lands within urban limits that contain vegetation cover falling within the jurisdiction of the competent authority without a permit or license shall be prohibited, as specified by the regulations.",
+    "source_ar_norm": "تحظر ممارسة اي نشاط او عمل في الاراضي التي تقع ضمن النطاق الحضري العمراني وتحتوي علي غطاء نباتي تشرف عليه الجهة المختصة؛ دون الحصول علي تصريح او ترخيص، وذلك وفقا لما تبينه اللوائح.",
+    "target_en_norm": "engaging in any activity or operation on lands within urban limits that contain vegetation cover falling within the jurisdiction of the competent authority without a permit or license shall be prohibited, as specified by the regulations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33371,
+    "source_ar": "المادة السابعة عشرة",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة",
+    "target_en_norm": "article 17",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33372,
+    "source_ar": "على كل من المرخص له والمصرح له -عند استخدامه أراضي الغطاء النباتي في تنفيذ أنشطته- الأخذ بالاعتبارات البيئية، والالتزام بالاستخدام الرشيد للتربة؛ وذلك وفقاً لما تُبيّنه اللوائح.",
+    "target_en": "A holder of a license or permit shall, upon using vegetation cover lands in carrying out his activities, take environmental considerations into account and adhere to rational use of soil, as specified by the regulations.",
+    "source_ar_norm": "علي كل من المرخص له والمصرح له -عند استخدامه اراضي الغطاء النباتي في تنفيذ انشطته- الاخذ بالاعتبارات البيئية، والالتزام بالاستخدام الرشيد للتربة؛ وذلك وفقا لما تبينه اللوائح.",
+    "target_en_norm": "a holder of a license or permit shall, upon using vegetation cover lands in carrying out his activities, take environmental considerations into account and adhere to rational use of soil, as specified by the regulations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33373,
+    "source_ar": "المادة الثامنة عشرة",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة",
+    "target_en_norm": "article 18",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33374,
+    "source_ar": "يُحظر الاستزراع أو التشجير داخل أراضي الغطاء النباتي؛ دون الحصول على ترخيص.",
+    "target_en": "Cultivation and tree planting within the vegetation cover lands without obtaining a license shall be prohibited.",
+    "source_ar_norm": "يحظر الاستزراع او التشجير داخل اراضي الغطاء النباتي؛ دون الحصول علي ترخيص.",
+    "target_en_norm": "cultivation and tree planting within the vegetation cover lands without obtaining a license shall be prohibited.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33375,
+    "source_ar": "المادة التاسعة عشرة",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة",
+    "target_en_norm": "article 19",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33376,
+    "source_ar": "مع مراعاة ما ورد في المادة (الثامنة عشرة) من النظام؛ يُحظر كل ما من شأنه الإضرار بأراضي الغطاء النباتي، أو الإخلال بالتوازن الطبيعي فيها، وعلى وجه خاص ما يأتي:",
+    "target_en": "Subject to the provisions of Article 18 of this Law, any action that causes harm to the vegetation cover lands or disrupts their natural balance shall be prohibited, particularly:",
+    "source_ar_norm": "مع مراعاة ما ورد في المادة (الثامنة عشرة) من النظام؛ يحظر كل ما من شانه الاضرار باراضي الغطاء النباتي، او الاخلال بالتوازن الطبيعي فيها، وعلي وجه خاص ما ياتي:",
+    "target_en_norm": "subject to the provisions of article 18 of this law, any action that causes harm to the vegetation cover lands or disrupts their natural balance shall be prohibited, particularly:",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33377,
+    "source_ar": "قطع الأشجار أو الشجيرات أو الأعشاب أو النباتات، أو اقتلاعها أو نقلها أو تجريدها من لحائها أو أوراقها أو أي جزء منها، أو نقل تربتها أو جرفها، أو الاتجار بها.",
+    "target_en": "cutting down, uprooting, or transporting trees, shrubs, herbs, or plants; removing their bark, leaves, or any part thereof; transferring or dredging their soil; or trading therein;",
+    "source_ar_norm": "قطع الاشجار او الشجيرات او الاعشاب او النباتات، او اقتلاعها او نقلها او تجريدها من لحائها او اوراقها او اي جزء منها، او نقل تربتها او جرفها، او الاتجار بها.",
+    "target_en_norm": "cutting down, uprooting, or transporting trees, shrubs, herbs, or plants; removing their bark, leaves, or any part thereof; transferring or dredging their soil; or trading therein;",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33378,
+    "source_ar": "ترك النفايات داخلها، أو دفنها، أو حرقها، أو رميها في غير الأماكن المخصصة لها التي تحددها الجهة المختصة.",
+    "target_en": "littering therein; or burying, burning, or disposing of waste in places other than those designated by the competent authority;",
+    "source_ar_norm": "ترك النفايات داخلها، او دفنها، او حرقها، او رميها في غير الاماكن المخصصة لها التي تحددها الجهة المختصة.",
+    "target_en_norm": "littering therein; or burying, burning, or disposing of waste in places other than those designated by the competent authority;",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33379,
+    "source_ar": "إشعال النار داخلها في غير الأماكن المخصصة لذلك التي تحددها الجهة المختصة.",
+    "target_en": "setting fire in places other than those designated by the competent authority;",
+    "source_ar_norm": "اشعال النار داخلها في غير الاماكن المخصصة لذلك التي تحددها الجهة المختصة.",
+    "target_en_norm": "setting fire in places other than those designated by the competent authority;",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33380,
+    "source_ar": "إتلاف منشآتها الثابتة أو المنقولة، أو قطع السياجات التي تضعها الجهة المختصة داخلها أو إتلافها، أو العبث في علاماتها الحدودية أو الإرشادية.",
+    "target_en": "destroying fixed or movable facilities; cutting or damaging fences erected by the competent authority therein; or tampering with their boundary markers or signposts;",
+    "source_ar_norm": "اتلاف منشاتها الثابتة او المنقولة، او قطع السياجات التي تضعها الجهة المختصة داخلها او اتلافها، او العبث في علاماتها الحدودية او الارشادية.",
+    "target_en_norm": "destroying fixed or movable facilities; cutting or damaging fences erected by the competent authority therein; or tampering with their boundary markers or signposts;",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33381,
+    "source_ar": "الرعي في المواقع والمدد المحظورة من الجهة المختصة.",
+    "target_en": "grazing on sites or during periods prohibited by the competent authority; and",
+    "source_ar_norm": "الرعي في المواقع والمدد المحظورة من الجهة المختصة.",
+    "target_en_norm": "grazing on sites or during periods prohibited by the competent authority; and",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33382,
+    "source_ar": "إطلاق فيها أي من أنواع الكائنات الفطرية الحيوانية الدخيلة على البيئة أو الغازية.",
+    "target_en": "introducing any type of exotic or invasive animal wildlife species.",
+    "source_ar_norm": "اطلاق فيها اي من انواع الكائنات الفطرية الحيوانية الدخيلة علي البيئة او الغازية.",
+    "target_en_norm": "introducing any type of exotic or invasive animal wildlife species.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33383,
+    "source_ar": "المادة العشرون",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون",
+    "target_en_norm": "article 20",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33384,
+    "source_ar": "يُحظر إنتاج الحطب أو الفحم المحلي، أو نقل أي منها، أو تخزينه، أو بيعه، أو الترويج له؛ دون الحصول على تصريح أو ترخيص، وذلك وفقاً لما تحدده اللوائح.",
+    "target_en": "Producing, transporting, storing, selling, or promoting local firewood or coal without a permit or license shall be prohibited, as specified by the regulations.",
+    "source_ar_norm": "يحظر انتاج الحطب او الفحم المحلي، او نقل اي منها، او تخزينه، او بيعه، او الترويج له؛ دون الحصول علي تصريح او ترخيص، وذلك وفقا لما تحدده اللوائح.",
+    "target_en_norm": "producing, transporting, storing, selling, or promoting local firewood or coal without a permit or license shall be prohibited, as specified by the regulations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33385,
+    "source_ar": "الفصل الرابع ( البيئة البحرية والساحلية )",
+    "target_en": "Chapter 4: Marine and Coastal Environment",
+    "source_ar_norm": "الفصل الرابع ( البيئة البحرية والساحلية )",
+    "target_en_norm": "chapter 4: marine and coastal environment",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33386,
+    "source_ar": "المادة الحادية والعشرون",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون",
+    "target_en_norm": "article 21",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33387,
+    "source_ar": "يُحظر القيام بكل ما من شأنه الإضرار بالبيئة البحرية والساحلية ومكوناتها الحية وغير الحية. ويشمل ذلك: أعمال الحفر، والردم، والتجريف، والإنشاء، والتنقيب، والاستكشاف، والاستغلال؛ وإجراء الأبحاث؛ دون الحصول على تصريح أو ترخيص، وذلك وفقاً لما تُبيّنه اللوائح.",
+    "target_en": "Engaging in any activity that harms the marine and coastal environment and its living and non-living components, including excavating, landfilling, dredging, constructing, prospecting, exploring, exploiting, or conducting research, without a permit or license shall be prohibited, as specified by the regulations.",
+    "source_ar_norm": "يحظر القيام بكل ما من شانه الاضرار بالبيئة البحرية والساحلية ومكوناتها الحية وغير الحية. ويشمل ذلك: اعمال الحفر، والردم، والتجريف، والانشاء، والتنقيب، والاستكشاف، والاستغلال؛ واجراء الابحاث؛ دون الحصول علي تصريح او ترخيص، وذلك وفقا لما تبينه اللوائح.",
+    "target_en_norm": "engaging in any activity that harms the marine and coastal environment and its living and non-living components, including excavating, landfilling, dredging, constructing, prospecting, exploring, exploiting, or conducting research, without a permit or license shall be prohibited, as specified by the regulations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33388,
+    "source_ar": "يُحظر استخدام أي مادة أو أداة تضر بيئيًّا بالبيئة البحرية والساحلية، أو إدخالها إليها أو إخراجها منها؛ دون الحصول على تصريح أو ترخيص، وذلك وفقاً لما تُبيّنه اللوائح.",
+    "target_en": "Using, introducing, or removing any materials or tools that cause harm to the marine and coastal environment without a permit or license shall be prohibited, as specified by the regulations.",
+    "source_ar_norm": "يحظر استخدام اي مادة او اداة تضر بيئيا بالبيئة البحرية والساحلية، او ادخالها اليها او اخراجها منها؛ دون الحصول علي تصريح او ترخيص، وذلك وفقا لما تبينه اللوائح.",
+    "target_en_norm": "using, introducing, or removing any materials or tools that cause harm to the marine and coastal environment without a permit or license shall be prohibited, as specified by the regulations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33389,
+    "source_ar": "تحدد الجهة المختصة قائمة بالمواد والأدوات المشار إليها في الفقرة (2) من هذه المادة.",
+    "target_en": "The competent authority shall specify the materials and tools referred to in paragraph (2) of this Article.",
+    "source_ar_norm": "تحدد الجهة المختصة قائمة بالمواد والادوات المشار اليها في الفقرة (2) من هذه المادة.",
+    "target_en_norm": "the competent authority shall specify the materials and tools referred to in paragraph (2) of this article.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33390,
+    "source_ar": "المادة الثانية والعشرون",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون",
+    "target_en_norm": "article 22",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33391,
+    "source_ar": "على مُشغِّل وسائط النقل البحري أن يحتفظ بسجل خاص يُدوّن فيه الإجراءات والتدابير الوقائية وخطة الطوارئ المتعلقة بمنع التلوث؛ وذلك وفقاً لما تحدده اللوائح.",
+    "target_en": "An operator of maritime means of transport shall maintain a manual for preventive procedures and measures, as well as an emergency plan for the prevention of pollution, as specified by the regulations.",
+    "source_ar_norm": "علي مشغل وسائط النقل البحري ان يحتفظ بسجل خاص يدون فيه الاجراءات والتدابير الوقائية وخطة الطوارئ المتعلقة بمنع التلوث؛ وذلك وفقا لما تحدده اللوائح.",
+    "target_en_norm": "an operator of maritime means of transport shall maintain a manual for preventive procedures and measures, as well as an emergency plan for the prevention of pollution, as specified by the regulations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33392,
+    "source_ar": "الفصل الخامس ( الحياة الفطرية )",
+    "target_en": "Chapter 5: Wildlife",
+    "source_ar_norm": "الفصل الخامس ( الحياة الفطرية )",
+    "target_en_norm": "chapter 5: wildlife",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33393,
+    "source_ar": "المادة الثالثة والعشرون",
+    "target_en": "Article 23",
+    "source_ar_norm": "المادة الثالثة والعشرون",
+    "target_en_norm": "article 23",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33394,
+    "source_ar": "تُحدد الجهة المختصة أنواع الكائنات الفطرية المهددة بالانقراض التي يُحظر قتلها أو صيدها، أو الاتجار بها أو مشتقاتها أو منتجاتها.",
+    "target_en": "The competent authority shall specify the types of endangered wildlife species that are prohibited from being killed, hunted, or traded in or in their derivatives or products.",
+    "source_ar_norm": "تحدد الجهة المختصة انواع الكائنات الفطرية المهددة بالانقراض التي يحظر قتلها او صيدها، او الاتجار بها او مشتقاتها او منتجاتها.",
+    "target_en_norm": "the competent authority shall specify the types of endangered wildlife species that are prohibited from being killed, hunted, or traded in or in their derivatives or products.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33395,
+    "source_ar": "المادة الرابعة والعشرون",
+    "target_en": "Article 24",
+    "source_ar_norm": "المادة الرابعة والعشرون",
+    "target_en_norm": "article 24",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33396,
+    "source_ar": "يُحظر -دون الحصول على ترخيص فيما يتعلق بأنواع الكائنات الفطرية التي تحددها الجهة المختصة- القيام بأي مما يأتي:",
+    "target_en": "Engaging in any act that relates to the types of wildlife species specified by the competent authority without a license shall be prohibited, including:",
+    "source_ar_norm": "يحظر -دون الحصول علي ترخيص فيما يتعلق بانواع الكائنات الفطرية التي تحددها الجهة المختصة- القيام باي مما ياتي:",
+    "target_en_norm": "engaging in any act that relates to the types of wildlife species specified by the competent authority without a license shall be prohibited, including:",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33397,
+    "source_ar": "أ- الاتجار بأي منها أو منتجاتها أو مشتقاتها، سواء كان الاتجار محليًّا أو بالاستيراد أو التصدير.",
+    "target_en": "trading in any wildlife species, or their products or derivatives, whether locally or through import or export;",
+    "source_ar_norm": "ا- الاتجار باي منها او منتجاتها او مشتقاتها، سواء كان الاتجار محليا او بالاستيراد او التصدير.",
+    "target_en_norm": "trading in any wildlife species, or their products or derivatives, whether locally or through import or export;",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33398,
+    "source_ar": "ب- العبور البري أو الجوي أو البحري بأي منها أو منتجاتها أو مشتقاتها.",
+    "target_en": "land, air, or maritime transit of wildlife species, or their products or derivatives;",
+    "source_ar_norm": "ب- العبور البري او الجوي او البحري باي منها او منتجاتها او مشتقاتها.",
+    "target_en_norm": "land, air, or maritime transit of wildlife species, or their products or derivatives;",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33399,
+    "source_ar": "ج- نقل أي منها أو منتجاتها أو مشتقاتها داخل المملكة.",
+    "target_en": "transporting wildlife species, or their products or derivatives within the Kingdom;",
+    "source_ar_norm": "ج- نقل اي منها او منتجاتها او مشتقاتها داخل المملكة.",
+    "target_en_norm": "transporting wildlife species, or their products or derivatives within the kingdom;",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33400,
+    "source_ar": "د- استخراج أي منها أو منتجاتها أو مشتقاتها من البيئة البحرية والساحلية، أو إدخالها إليها.",
+    "target_en": "removing or introducing wildlife species, or their products or derivatives from or into the maritime or coastal environment;",
+    "source_ar_norm": "د- استخراج اي منها او منتجاتها او مشتقاتها من البيئة البحرية والساحلية، او ادخالها اليها.",
+    "target_en_norm": "removing or introducing wildlife species, or their products or derivatives from or into the maritime or coastal environment;",
+    "file_name": "نظام البيئة.docx"
+  }
+]

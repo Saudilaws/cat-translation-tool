@@ -1,0 +1,802 @@
+[
+  {
+    "id": 30301,
+    "source_ar": "بيع الأصول",
+    "target_en": "Sale of Assets",
+    "source_ar_norm": "بيع الاصول",
+    "target_en_norm": "sale of assets",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30302,
+    "source_ar": "المادة الثامنة والسبعون بعد المائة",
+    "target_en": "Article 178",
+    "source_ar_norm": "المادة الثامنة والسبعون بعد المائة",
+    "target_en_norm": "article 178",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30303,
+    "source_ar": "على لجنة الإفلاس البدء في بيع أصول التفليسة -إن وجدت- من تاريخ افتتاح إجراء التصفية الإدارية، ما لم تقرر أن حصيلة البيع غير مجدية، وذلك وفقاً لما تحدده اللائحة.",
+    "target_en": "The Bankruptcy Committee shall initiate the sale of bankruptcy assets, if any, from the date of initiation of the administrative liquidation procedure, unless it decides that the sale proceeds are insufficient, as specified in the Regulations.",
+    "source_ar_norm": "علي لجنة الافلاس البدء في بيع اصول التفليسة -ان وجدت- من تاريخ افتتاح اجراء التصفية الادارية، ما لم تقرر ان حصيلة البيع غير مجدية، وذلك وفقا لما تحدده اللائحة.",
+    "target_en_norm": "the bankruptcy committee shall initiate the sale of bankruptcy assets, if any, from the date of initiation of the administrative liquidation procedure, unless it decides that the sale proceeds are insufficient, as specified in the regulations.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30304,
+    "source_ar": "إنهاء إجراء التصفية الإدارية",
+    "target_en": "Termination of the Administrative Liquidation Procedure",
+    "source_ar_norm": "انهاء اجراء التصفية الادارية",
+    "target_en_norm": "termination of the administrative liquidation procedure",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30305,
+    "source_ar": "المادة التاسعة والسبعون بعد المائة",
+    "target_en": "Article 179",
+    "source_ar_norm": "المادة التاسعة والسبعون بعد المائة",
+    "target_en_norm": "article 179",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30306,
+    "source_ar": "1- تصدر لجنة الإفلاس قراراً بإنهاء إجراء التصفية الإدارية بعد اكتمال بيع أصول التفليسة -إن وجدت- وانتهاء الدعاوى التي يكون المدين طرفاً فيها، وذلك خلال (اثني عشر) شهراً من تاريخ افتتاح الإجراء. واستثناء من ذلك، للجنة الإفلاس أن تمدد إجراء التصفية الإدارية لمدة إضافية لا تزيد على (تسعين) يوماً إذا دعت حاجة لذلك.",
+    "target_en": "1. The Bankruptcy Committee shall terminate the administrative liquidation procedure upon completion of the sale of the bankruptcy assets, if any, and conclusion of lawsuits to which the debtor is party within 12 months from the date of initiation of the procedure. However, the Bankruptcy Committee may extend the administrative liquidation procedure for an additional period not exceeding 90 days, if necessary.",
+    "source_ar_norm": "1- تصدر لجنة الافلاس قرارا بانهاء اجراء التصفية الادارية بعد اكتمال بيع اصول التفليسة -ان وجدت- وانتهاء الدعاوي التي يكون المدين طرفا فيها، وذلك خلال (اثني عشر) شهرا من تاريخ افتتاح الاجراء. واستثناء من ذلك، للجنة الافلاس ان تمدد اجراء التصفية الادارية لمدة اضافية لا تزيد علي (تسعين) يوما اذا دعت حاجة لذلك.",
+    "target_en_norm": "1. the bankruptcy committee shall terminate the administrative liquidation procedure upon completion of the sale of the bankruptcy assets, if any, and conclusion of lawsuits to which the debtor is party within 12 months from the date of initiation of the procedure. however, the bankruptcy committee may extend the administrative liquidation procedure for an additional period not exceeding 90 days, if necessary.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30307,
+    "source_ar": "2- يعد الإجراء منتهياً بإيداع لجنة الإفلاس لقرارها بإنهائه لدى المحكمة مرافقاً له الحسابات الختامية والتقرير النهائي للإجراء وما تحدده اللائحة.",
+    "target_en": "2. The procedure shall be deemed terminated upon the Bankruptcy Committee’s deposit of its decision to terminate the procedure with the court, along with the balance sheets and final report of the procedure as well as any other requirement specified by the Regulations.",
+    "source_ar_norm": "2- يعد الاجراء منتهيا بايداع لجنة الافلاس لقرارها بانهائه لدي المحكمة مرافقا له الحسابات الختامية والتقرير النهائي للاجراء وما تحدده اللائحة.",
+    "target_en_norm": "2. the procedure shall be deemed terminated upon the bankruptcy committee’s deposit of its decision to terminate the procedure with the court, along with the balance sheets and final report of the procedure as well as any other requirement specified by the regulations.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30308,
+    "source_ar": "3- يترتب على إنهاء الإجراء حل المدين إذا كان شخصاً ذا صفة اعتبارية.",
+    "target_en": "3. Termination of the procedure shall entail dissolution if the debtor is a legal person.",
+    "source_ar_norm": "3- يترتب علي انهاء الاجراء حل المدين اذا كان شخصا ذا صفة اعتبارية.",
+    "target_en_norm": "3. termination of the procedure shall entail dissolution if the debtor is a legal person.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30309,
+    "source_ar": "4- تودع لجنة الإفلاس في سجل الإفلاس والسجل التجاري ما يفيد إنهاء الإجراء، وفقاً لما تحدده اللائحة.",
+    "target_en": "4. The Bankruptcy Committee shall deposit with the Bankruptcy Register and the commercial register a proof of the termination of the procedure, as specified in the Regulations.",
+    "source_ar_norm": "4- تودع لجنة الافلاس في سجل الافلاس والسجل التجاري ما يفيد انهاء الاجراء، وفقا لما تحدده اللائحة.",
+    "target_en_norm": "4. the bankruptcy committee shall deposit with the bankruptcy register and the commercial register a proof of the termination of the procedure, as specified in the regulations.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30310,
+    "source_ar": "5- يزال اسم المدين من سجل الإفلاس بعد مضي (ثلاثين) يوماً من تاريخ إيداع ما يفيد إنهاء الإجراء في سجل الإفلاس والسجل التجاري، ويشطب قيد المدين في السجل التجاري إن وجد.",
+    "target_en": "5. The debtor’s name shall be removed from the Bankruptcy Register 30 days from the date of depositing with the Bankruptcy Register and the commercial register a proof of the termination of the procedure. The debtor’s registration, if any, shall be stricken from the commercial register.",
+    "source_ar_norm": "5- يزال اسم المدين من سجل الافلاس بعد مضي (ثلاثين) يوما من تاريخ ايداع ما يفيد انهاء الاجراء في سجل الافلاس والسجل التجاري، ويشطب قيد المدين في السجل التجاري ان وجد.",
+    "target_en_norm": "5. the debtor’s name shall be removed from the bankruptcy register 30 days from the date of depositing with the bankruptcy register and the commercial register a proof of the termination of the procedure. the debtor’s registration, if any, shall be stricken from the commercial register.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30311,
+    "source_ar": "المادة الثمانون بعد المائة",
+    "target_en": "Article 180",
+    "source_ar_norm": "المادة الثمانون بعد المائة",
+    "target_en_norm": "article 180",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30312,
+    "source_ar": "تحدد اللائحة الإجراءات الواجب اتباعها إذا تبين خلال إجراء التصفية الإدارية أن حصيلة بيع أصول التفليسة تكفي للوفاء بمصروفات إجراء التصفية أو إجراء التصفية لصغار المدينين.",
+    "target_en": "The Regulations shall specify the procedures that must be followed if it is established during the administrative liquidation procedure that the sale proceeds of the bankruptcy assets are sufficient to cover the expenses of the liquidation procedure or the small debtors' liquidation procedure.",
+    "source_ar_norm": "تحدد اللائحة الاجراءات الواجب اتباعها اذا تبين خلال اجراء التصفية الادارية ان حصيلة بيع اصول التفليسة تكفي للوفاء بمصروفات اجراء التصفية او اجراء التصفية لصغار المدينين.",
+    "target_en_norm": "the regulations shall specify the procedures that must be followed if it is established during the administrative liquidation procedure that the sale proceeds of the bankruptcy assets are sufficient to cover the expenses of the liquidation procedure or the small debtors' liquidation procedure.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30313,
+    "source_ar": "المادة الحادية والثمانون بعد المائة",
+    "target_en": "Article 181",
+    "source_ar_norm": "المادة الحادية والثمانون بعد المائة",
+    "target_en_norm": "article 181",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30314,
+    "source_ar": "1- يترتب على إزالة اسم المدين ذي الصفة الطبيعية من سجل الإفلاس تمكينه من ممارسة الأعمال التجارية أو المهنية أو الهادفة إلى تحقيق الربح.",
+    "target_en": "1. Removal of the name of a natural person debtor from the Bankruptcy Register shall allow him to engage in commercial, professional, or for-profit activities.",
+    "source_ar_norm": "1- يترتب علي ازالة اسم المدين ذي الصفة الطبيعية من سجل الافلاس تمكينه من ممارسة الاعمال التجارية او المهنية او الهادفة الي تحقيق الربح.",
+    "target_en_norm": "1. removal of the name of a natural person debtor from the bankruptcy register shall allow him to engage in commercial, professional, or for-profit activities.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30315,
+    "source_ar": "2- لا تبرأ ذمة المدين ذي الصفة الطبيعية من دين متبق إلا بموجب إبراء خاص أو عام من الدائنين.",
+    "target_en": "2. A natural person debtor shall not be discharged from any outstanding debt unless pursuant to a special or public discharge from creditors.",
+    "source_ar_norm": "2- لا تبرا ذمة المدين ذي الصفة الطبيعية من دين متبق الا بموجب ابراء خاص او عام من الدائنين.",
+    "target_en_norm": "2. a natural person debtor shall not be discharged from any outstanding debt unless pursuant to a special or public discharge from creditors.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30316,
+    "source_ar": "3- يعد المدين ذو الصفة الطبيعية الذي لم يبرأ من دين متبق في ذمته مفلساً فيما يتعلق بحقوق الدائنين المتبقية بذمته حتى بعد إزالة اسمه من سجل الإفلاس وذلك لمدة (أربعة وعشرين) شهراً من إنهاء إجراء التصفية الإدارية وذلك دون أن يكون لأولئك الدائنين حق التقدم للمحكمة بطلب افتتاح أي من إجراءات الإفلاس خلال المدة المشار إليها، وتنظم اللائحة إجراءات مطالبة الدائنين بديونهم المتبقية في ذمة المدين في هذه المدة.",
+    "target_en": "3. A natural person debtor who is not discharged for an outstanding debt shall be deemed bankrupt vis-a-vis outstanding rights of creditors even after the removal of his name from the Bankruptcy Register, for a period of 24 months from the date of termination of the administrative liquidation procedure. During such period, said creditors may not file a petition with the court for the initiation of any bankruptcy procedures. The Regulations shall set the procedures for the creditors’ claims of outstanding debts during such period.",
+    "source_ar_norm": "3- يعد المدين ذو الصفة الطبيعية الذي لم يبرا من دين متبق في ذمته مفلسا فيما يتعلق بحقوق الدائنين المتبقية بذمته حتي بعد ازالة اسمه من سجل الافلاس وذلك لمدة (اربعة وعشرين) شهرا من انهاء اجراء التصفية الادارية وذلك دون ان يكون لاولئك الدائنين حق التقدم للمحكمة بطلب افتتاح اي من اجراءات الافلاس خلال المدة المشار اليها، وتنظم اللائحة اجراءات مطالبة الدائنين بديونهم المتبقية في ذمة المدين في هذه المدة.",
+    "target_en_norm": "3. a natural person debtor who is not discharged for an outstanding debt shall be deemed bankrupt vis-a-vis outstanding rights of creditors even after the removal of his name from the bankruptcy register, for a period of 24 months from the date of termination of the administrative liquidation procedure. during such period, said creditors may not file a petition with the court for the initiation of any bankruptcy procedures. the regulations shall set the procedures for the creditors’ claims of outstanding debts during such period.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30317,
+    "source_ar": "الفصل العاشر: التمويل: نطاق التطبيق",
+    "target_en": "Chapter 10: Financing Scope of Application",
+    "source_ar_norm": "الفصل العاشر: التمويل: نطاق التطبيق",
+    "target_en_norm": "chapter 10: financing scope of application",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30318,
+    "source_ar": "المادة الثانية والثمانون بعد المائة",
+    "target_en": "Article 182",
+    "source_ar_norm": "المادة الثانية والثمانون بعد المائة",
+    "target_en_norm": "article 182",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30319,
+    "source_ar": "1- لا يجوز للمدين الحصول على تمويل مضمون بعد افتتاح أي من إجراءات الإفلاس إلا بعد موافقة المحكمة وفقاً لأحكام النظام.",
+    "target_en": "1. Secured financing shall not be obtained by the debtor after the initiation of any of the bankruptcy procedures except upon the court's approval, in accordance with this Law.",
+    "source_ar_norm": "1- لا يجوز للمدين الحصول علي تمويل مضمون بعد افتتاح اي من اجراءات الافلاس الا بعد موافقة المحكمة وفقا لاحكام النظام.",
+    "target_en_norm": "1. secured financing shall not be obtained by the debtor after the initiation of any of the bankruptcy procedures except upon the court's approval, in accordance with this law.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30320,
+    "source_ar": "2- لا يجوز الحصول على تمويل غير مضمون بعد افتتاح إجراءي التصفية أو التصفية لصغار المدينين إلا بعد موافقة المحكمة وفقاً لأحكام النظام.",
+    "target_en": "2. Unsecured financing shall not be obtained after the initiation of a liquidation procedure or a small debtors' liquidation procedure except upon the court's approval, in accordance with this Law.",
+    "source_ar_norm": "2- لا يجوز الحصول علي تمويل غير مضمون بعد افتتاح اجراءي التصفية او التصفية لصغار المدينين الا بعد موافقة المحكمة وفقا لاحكام النظام.",
+    "target_en_norm": "2. unsecured financing shall not be obtained after the initiation of a liquidation procedure or a small debtors' liquidation procedure except upon the court's approval, in accordance with this law.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30321,
+    "source_ar": "3- لا يجوز الحصول على تمويل مضمون أو غير مضمون بعد افتتاح إجراء التصفية الإدارية.",
+    "target_en": "3. Secured or unsecured financing shall not be obtained after the initiation of the administrative liquidation procedure.",
+    "source_ar_norm": "3- لا يجوز الحصول علي تمويل مضمون او غير مضمون بعد افتتاح اجراء التصفية الادارية.",
+    "target_en_norm": "3. secured or unsecured financing shall not be obtained after the initiation of the administrative liquidation procedure.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30322,
+    "source_ar": "4- يترتب على مخالفة حكم الفقرة (1) أو الفقرة (2) أو الفقرة (3) من هذه المادة بطلان التصرف وما ترتب عليه من آثار.",
+    "target_en": "4. Violation of any of the provisions of paragraphs (1), (2), or (3) of this Article shall render any action and effects resulting therefrom null and void.",
+    "source_ar_norm": "4- يترتب علي مخالفة حكم الفقرة (1) او الفقرة (2) او الفقرة (3) من هذه المادة بطلان التصرف وما ترتب عليه من اثار.",
+    "target_en_norm": "4. violation of any of the provisions of paragraphs (1), (2), or (3) of this article shall render any action and effects resulting therefrom null and void.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30323,
+    "source_ar": "التمويل في إجراءات التسوية الوقائية وإعادة التنظيم المالي",
+    "target_en": "Financing in the Protective Settlement Procedure and Financial Restructuring Procedure",
+    "source_ar_norm": "التمويل في اجراءات التسوية الوقائية واعادة التنظيم المالي",
+    "target_en_norm": "financing in the protective settlement procedure and financial restructuring procedure",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30324,
+    "source_ar": "المادة الثالثة والثمانون بعد المائة",
+    "target_en": "Article 183",
+    "source_ar_norm": "المادة الثالثة والثمانون بعد المائة",
+    "target_en_norm": "article 183",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30325,
+    "source_ar": "للمدين في إجراء التسوية الوقائية وإجراء التسوية الوقائية لصغار المدينين وإجراء إعادة التنظيم المالي وإجراء إعادة التنظيم المالي لصغار المدينين أن يطلب من المحكمة بعد افتتاح الإجراء الموافقة على الحصول على تمويل مضمون على أن يرفق بذلك الطلب تقريراً من خبير يؤيده، وتوافق المحكمة على الطلب متى كان لازماً لاستمرار نشاط المدين أو المحافظة على أصول التفليسة خلال فترة الإجراء.",
+    "target_en": "In a protective settlement procedure, small debtors' protective settlement procedure, financial restructuring procedure, and small debtors' financial restructuring procedure, a debtor may, after the initiation of the procedure, file a petition with the court for the approval of the secured financing, provided the petition is supported by an expert report. The court shall approve the petition if it is necessary for the continuation of the debtor’s business, or for the protection of the bankruptcy assets during such procedure.",
+    "source_ar_norm": "للمدين في اجراء التسوية الوقائية واجراء التسوية الوقائية لصغار المدينين واجراء اعادة التنظيم المالي واجراء اعادة التنظيم المالي لصغار المدينين ان يطلب من المحكمة بعد افتتاح الاجراء الموافقة علي الحصول علي تمويل مضمون علي ان يرفق بذلك الطلب تقريرا من خبير يؤيده، وتوافق المحكمة علي الطلب متي كان لازما لاستمرار نشاط المدين او المحافظة علي اصول التفليسة خلال فترة الاجراء.",
+    "target_en_norm": "in a protective settlement procedure, small debtors' protective settlement procedure, financial restructuring procedure, and small debtors' financial restructuring procedure, a debtor may, after the initiation of the procedure, file a petition with the court for the approval of the secured financing, provided the petition is supported by an expert report. the court shall approve the petition if it is necessary for the continuation of the debtor’s business, or for the protection of the bankruptcy assets during such procedure.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30326,
+    "source_ar": "أحكام التمويل المضمون",
+    "target_en": "Secured Financing Provisions",
+    "source_ar_norm": "احكام التمويل المضمون",
+    "target_en_norm": "secured financing provisions",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30327,
+    "source_ar": "المادة الرابعة والثمانون بعد المائة",
+    "target_en": "Article 184",
+    "source_ar_norm": "المادة الرابعة والثمانون بعد المائة",
+    "target_en_norm": "article 184",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30328,
+    "source_ar": "يعد التمويل مضموناً إذا كان:",
+    "target_en": "Financing shall be deemed secured if:",
+    "source_ar_norm": "يعد التمويل مضمونا اذا كان:",
+    "target_en_norm": "financing shall be deemed secured if:",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30329,
+    "source_ar": "أ- ذا أولوية على الديون غير المضمونة وقت تقديم طلب التمويل.",
+    "target_en": "a) it has priority over unsecured debts at the time of filing the petition for financing;",
+    "source_ar_norm": "ا- ذا اولوية علي الديون غير المضمونة وقت تقديم طلب التمويل.",
+    "target_en_norm": "a) it has priority over unsecured debts at the time of filing the petition for financing;",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30330,
+    "source_ar": "ب - مضموناً برهن أصل للمدين ليس محلاً لرهن آخر.",
+    "target_en": "b) it is secured by pledging a debtor’s asset that is not encumbered by another pledge;",
+    "source_ar_norm": "ب - مضمونا برهن اصل للمدين ليس محلا لرهن اخر.",
+    "target_en_norm": "b) it is secured by pledging a debtor’s asset that is not encumbered by another pledge;",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30331,
+    "source_ar": "ج - مضموناً برهن أصل للمدين يكون محلاً لرهن آخر ذي أولوية أعلى من الرهن الجديد.",
+    "target_en": "c) it is secured by pledging a debtor’s asset that is encumbered by another pledge of a higher priority;",
+    "source_ar_norm": "ج - مضمونا برهن اصل للمدين يكون محلا لرهن اخر ذي اولوية اعلي من الرهن الجديد.",
+    "target_en_norm": "c) it is secured by pledging a debtor’s asset that is encumbered by another pledge of a higher priority;",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30332,
+    "source_ar": "د - مضموناً برهن أصل للمدين يكون ذا أولوية أعلى أو مكافئة لرهن آخر إذا ثبت للمحكمة أن حقوق المرتهن صاحب الرهن القائم لن تتأثر، أو وافق المرتهن في الرهن القائم على وجود رهن ذي أولوية أعلى أو مكافئة لأولويته على رهنه. ويجب على المدين ضمان حماية حقوق المرتهن في الرهن القائم مما قد يؤثر على استيفاء حقوقه من المال المرهون، بما في ذلك نقص قيمة المال المرهون أو رهن المال محل الرهن لطرف آخر أو استعمال المدين للأصل المرهون أو بيعه أو تأجيره له مع بقائه مشغولاً بالرهن.",
+    "target_en": "d) it is secured by pledging a debtor’s asset that is with a higher or equal priority to another pledge if the court establishes that the rights of the pledgee holding the existing pledge are not affected, or if the pledgee consents to the existence of another pledge of a higher or equivalent priority. The debtor must ensure the protection of the pledgee's rights in the existing pledge to ensure the satisfaction of the pledgee’s rights from the pledged property, including protection from a decrease in the value of the pledged property, the pledging to others of assets subject of the existing pledge, or the debtor's use, sale, or lease of the pledged asset while pledged; or",
+    "source_ar_norm": "د - مضمونا برهن اصل للمدين يكون ذا اولوية اعلي او مكافئة لرهن اخر اذا ثبت للمحكمة ان حقوق المرتهن صاحب الرهن القائم لن تتاثر، او وافق المرتهن في الرهن القائم علي وجود رهن ذي اولوية اعلي او مكافئة لاولويته علي رهنه. ويجب علي المدين ضمان حماية حقوق المرتهن في الرهن القائم مما قد يؤثر علي استيفاء حقوقه من المال المرهون، بما في ذلك نقص قيمة المال المرهون او رهن المال محل الرهن لطرف اخر او استعمال المدين للاصل المرهون او بيعه او تاجيره له مع بقائه مشغولا بالرهن.",
+    "target_en_norm": "d) it is secured by pledging a debtor’s asset that is with a higher or equal priority to another pledge if the court establishes that the rights of the pledgee holding the existing pledge are not affected, or if the pledgee consents to the existence of another pledge of a higher or equivalent priority. the debtor must ensure the protection of the pledgee's rights in the existing pledge to ensure the satisfaction of the pledgee’s rights from the pledged property, including protection from a decrease in the value of the pledged property, the pledging to others of assets subject of the existing pledge, or the debtor's use, sale, or lease of the pledged asset while pledged; or",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30333,
+    "source_ar": "هـ - أي صورة أخرى من صور التمويل المضمون التي تحددها اللائحة.",
+    "target_en": "e) it is secured by any other form of secured financing specified by the Regulations.",
+    "source_ar_norm": "ه - اي صورة اخري من صور التمويل المضمون التي تحددها اللائحة.",
+    "target_en_norm": "e) it is secured by any other form of secured financing specified by the regulations.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30334,
+    "source_ar": "التمويل غير المضمون في إجراءات التسوية الوقائية وإعادة التنظيم المالي",
+    "target_en": "Unsecured Financing in the Protective Settlement Procedure and Financial Restructuring Procedure",
+    "source_ar_norm": "التمويل غير المضمون في اجراءات التسوية الوقائية واعادة التنظيم المالي",
+    "target_en_norm": "unsecured financing in the protective settlement procedure and financial restructuring procedure",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30335,
+    "source_ar": "المادة الخامسة والثمانون بعد المائة",
+    "target_en": "Article 185",
+    "source_ar_norm": "المادة الخامسة والثمانون بعد المائة",
+    "target_en_norm": "article 185",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30336,
+    "source_ar": "لا تشترط موافقة المحكمة على التمويل غير المضمون في إجراء التسوية الوقائية أو إجراء التسوية الوقائية لصغار المدينين أو إجراء إعادة التنظيم المالي أو إجراء إعادة التنظيم المالي لصغار المدينين.",
+    "target_en": "The court's approval shall not be required for obtaining unsecured financing in a protective settlement procedure, small debtors' protective settlement procedure, financial restructuring procedure, or small debtors' financial restructuring procedure.",
+    "source_ar_norm": "لا تشترط موافقة المحكمة علي التمويل غير المضمون في اجراء التسوية الوقائية او اجراء التسوية الوقائية لصغار المدينين او اجراء اعادة التنظيم المالي او اجراء اعادة التنظيم المالي لصغار المدينين.",
+    "target_en_norm": "the court's approval shall not be required for obtaining unsecured financing in a protective settlement procedure, small debtors' protective settlement procedure, financial restructuring procedure, or small debtors' financial restructuring procedure.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30337,
+    "source_ar": "أحكام التمويل المضمون أو غير المضمون في إجراء التصفية",
+    "target_en": "Provisions for Secured or Unsecured Financing in the Liquidation Procedure",
+    "source_ar_norm": "احكام التمويل المضمون او غير المضمون في اجراء التصفية",
+    "target_en_norm": "provisions for secured or unsecured financing in the liquidation procedure",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30338,
+    "source_ar": "المادة السادسة والثمانون بعد المائة",
+    "target_en": "Article 186",
+    "source_ar_norm": "المادة السادسة والثمانون بعد المائة",
+    "target_en_norm": "article 186",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30339,
+    "source_ar": "توافق المحكمة على التمويل -بناء على طلب الأمين المرافق له تقرير من خبير يؤيد الطلب- في إجراء التصفية أو إجراء التصفية لصغار المدينين -سواء كان مضموناً أو غير مضمون- متى كان ضرورياً للحفاظ على قيمة أصول التفليسة أو زيادة حصيلة بيعها، وذلك بعد موافقة الدائنين وفق حكم المادة (الثامنة بعد المائة) من النظام.",
+    "target_en": "The court shall, upon the trustee's petition that is filed along with a supporting expert report and after obtaining the creditors’ acceptance in accordance with Article 108 of this Law, approve the secured or unsecured financing in the liquidation procedure or the small debtors' liquidation procedure if deemed necessary for the protection of the bankruptcy assets or for the increase of their sale proceeds.",
+    "source_ar_norm": "توافق المحكمة علي التمويل -بناء علي طلب الامين المرافق له تقرير من خبير يؤيد الطلب- في اجراء التصفية او اجراء التصفية لصغار المدينين -سواء كان مضمونا او غير مضمون- متي كان ضروريا للحفاظ علي قيمة اصول التفليسة او زيادة حصيلة بيعها، وذلك بعد موافقة الدائنين وفق حكم المادة (الثامنة بعد المائة) من النظام.",
+    "target_en_norm": "the court shall, upon the trustee's petition that is filed along with a supporting expert report and after obtaining the creditors’ acceptance in accordance with article 108 of this law, approve the secured or unsecured financing in the liquidation procedure or the small debtors' liquidation procedure if deemed necessary for the protection of the bankruptcy assets or for the increase of their sale proceeds.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30340,
+    "source_ar": "المادة السابعة والثمانون بعد المائة",
+    "target_en": "Article 187",
+    "source_ar_norm": "المادة السابعة والثمانون بعد المائة",
+    "target_en_norm": "article 187",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30341,
+    "source_ar": "كل تمويل مضمون توافق عليه المحكمة يعد تمويلاً ذا أولوية.",
+    "target_en": "Any secured financing approved by the court shall be deemed priority financing.",
+    "source_ar_norm": "كل تمويل مضمون توافق عليه المحكمة يعد تمويلا ذا اولوية.",
+    "target_en_norm": "any secured financing approved by the court shall be deemed priority financing.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30342,
+    "source_ar": "الفصل الحادي عشر: المقاصة والديون التبادلية",
+    "target_en": "Chapter 11: Set-offs and Reciprocal Debts",
+    "source_ar_norm": "الفصل الحادي عشر: المقاصة والديون التبادلية",
+    "target_en_norm": "chapter 11: set-offs and reciprocal debts",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30343,
+    "source_ar": "المادة الثامنة والثمانون بعد المائة",
+    "target_en": "Article 188",
+    "source_ar_norm": "المادة الثامنة والثمانون بعد المائة",
+    "target_en_norm": "article 188",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30344,
+    "source_ar": "مع مراعاة أحكام الفصل (الرابع عشر) من النظام، تحظر المقاصة التلقائية بعد افتتاح أي من الإجراءات الآتية:",
+    "target_en": "Subject to the provisions of Chapter 14 of this Law, automatic set-offs shall be prohibited after the initiation of any of the following procedures:",
+    "source_ar_norm": "مع مراعاة احكام الفصل (الرابع عشر) من النظام، تحظر المقاصة التلقائية بعد افتتاح اي من الاجراءات الاتية:",
+    "target_en_norm": "subject to the provisions of chapter 14 of this law, automatic set-offs shall be prohibited after the initiation of any of the following procedures:",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30345,
+    "source_ar": "أ - التسوية الوقائية.",
+    "target_en": "a) Protective settlement.",
+    "source_ar_norm": "ا - التسوية الوقائية.",
+    "target_en_norm": "a) protective settlement.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30346,
+    "source_ar": "ب - إعادة التنظيم المالي.",
+    "target_en": "b) Financial restructuring.",
+    "source_ar_norm": "ب - اعادة التنظيم المالي.",
+    "target_en_norm": "b) financial restructuring.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30347,
+    "source_ar": "ج - التسوية الوقائية لصغار المدينين.",
+    "target_en": "c) Small debtors' protective settlement.",
+    "source_ar_norm": "ج - التسوية الوقائية لصغار المدينين.",
+    "target_en_norm": "c) small debtors' protective settlement.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30348,
+    "source_ar": "د - إعادة التنظيم المالي لصغار المدينين.",
+    "target_en": "d) Small debtors' financial restructuring.",
+    "source_ar_norm": "د - اعادة التنظيم المالي لصغار المدينين.",
+    "target_en_norm": "d) small debtors' financial restructuring.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30349,
+    "source_ar": "واستثناء من ذلك، يجوز أن ينص المقترح في أي من الإجراءات على إمكانية إجراء المقاصة في ديون محددة، إذا كانت ديوناً أو تعاملات تبادلية. وتكون الديون أو التعاملات تبادلية إذا كانت بين ذات الأطراف وكانت لهم ذات الصفات والحقوق بالنسبة لتلك الديون أو التعاملات.",
+    "target_en": "As an exception, the proposal may, in any of the procedures, allow set-offs for specific debts if such debts or transactions are reciprocal. Debts and transactions shall be deemed reciprocal if carried out by the same parties having the same capacity and rights vis-a-vis said debts or transactions.",
+    "source_ar_norm": "واستثناء من ذلك، يجوز ان ينص المقترح في اي من الاجراءات علي امكانية اجراء المقاصة في ديون محددة، اذا كانت ديونا او تعاملات تبادلية. وتكون الديون او التعاملات تبادلية اذا كانت بين ذات الاطراف وكانت لهم ذات الصفات والحقوق بالنسبة لتلك الديون او التعاملات.",
+    "target_en_norm": "as an exception, the proposal may, in any of the procedures, allow set-offs for specific debts if such debts or transactions are reciprocal. debts and transactions shall be deemed reciprocal if carried out by the same parties having the same capacity and rights vis-a-vis said debts or transactions.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30350,
+    "source_ar": "المادة التاسعة والثمانون بعد المائة",
+    "target_en": "Article 189",
+    "source_ar_norm": "المادة التاسعة والثمانون بعد المائة",
+    "target_en_norm": "article 189",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30351,
+    "source_ar": "لا يؤثر الحظر المنصوص عليه في المادة (الثامنة والثمانين بعد المائة) من النظام في حساب قيمة مطالبة أي من الدائنين لغرض التصويت على المقترح، وتكون قيمة مطالبة الدائن لغرض التصويت هي ما تبقى من قيمة هذه المطالبة بعد خصم ما للمدين من حق.",
+    "target_en": "The prohibition stipulated in Article 188 of this Law shall not affect the calculation of the value of any creditor’s claim for the purpose of voting on the proposal. The value of the creditor’s claim for the purpose of voting shall be the remainder of the claim’s value after deducting the debtor’s dues.",
+    "source_ar_norm": "لا يؤثر الحظر المنصوص عليه في المادة (الثامنة والثمانين بعد المائة) من النظام في حساب قيمة مطالبة اي من الدائنين لغرض التصويت علي المقترح، وتكون قيمة مطالبة الدائن لغرض التصويت هي ما تبقي من قيمة هذه المطالبة بعد خصم ما للمدين من حق.",
+    "target_en_norm": "the prohibition stipulated in article 188 of this law shall not affect the calculation of the value of any creditor’s claim for the purpose of voting on the proposal. the value of the creditor’s claim for the purpose of voting shall be the remainder of the claim’s value after deducting the debtor’s dues.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30352,
+    "source_ar": "المادة التسعون بعد المائة",
+    "target_en": "Article 190",
+    "source_ar_norm": "المادة التسعون بعد المائة",
+    "target_en_norm": "article 190",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30353,
+    "source_ar": "استثناء من تعليق المطالبات، يحق للدائن أن يطالب المدين بسداد دينه في حال مطالبة المدين له بأداء ما عليه، ولا يؤدي الدائن إلى المدين سوى ما يتبقى في ذمته من دين للمدين -إن وجد- بعد خصم ما للدائن على المدين من دين. وإذا كان المبلغ المتبقي من الدين حقاً للدائن على المدين فيتمتع الدائن بالنسبة للمبلغ المتبقي بحق التصويت على المقترح أو أي قرار.",
+    "target_en": "Notwithstanding the moratorium, the creditor may demand the debtor to repay him if requested to do so by the debtor. The creditor shall only repay the debtor the outstanding amount, if any, after deducting the debtor’s debts. If the remaining amount is owed by the debtor to the creditor, the creditor shall, in relation to the remaining amount, have the right to vote on the proposal or any decision.",
+    "source_ar_norm": "استثناء من تعليق المطالبات، يحق للدائن ان يطالب المدين بسداد دينه في حال مطالبة المدين له باداء ما عليه، ولا يؤدي الدائن الي المدين سوي ما يتبقي في ذمته من دين للمدين -ان وجد- بعد خصم ما للدائن علي المدين من دين. واذا كان المبلغ المتبقي من الدين حقا للدائن علي المدين فيتمتع الدائن بالنسبة للمبلغ المتبقي بحق التصويت علي المقترح او اي قرار.",
+    "target_en_norm": "notwithstanding the moratorium, the creditor may demand the debtor to repay him if requested to do so by the debtor. the creditor shall only repay the debtor the outstanding amount, if any, after deducting the debtor’s debts. if the remaining amount is owed by the debtor to the creditor, the creditor shall, in relation to the remaining amount, have the right to vote on the proposal or any decision.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30354,
+    "source_ar": "المقاصة التلقائية عند التصفية",
+    "target_en": "Automatic Set-off upon Liquidation",
+    "source_ar_norm": "المقاصة التلقائية عند التصفية",
+    "target_en_norm": "automatic set-off upon liquidation",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30355,
+    "source_ar": "المادة الحادية والتسعون بعد المائة",
+    "target_en": "Article 191",
+    "source_ar_norm": "المادة الحادية والتسعون بعد المائة",
+    "target_en_norm": "article 191",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30356,
+    "source_ar": "1- يترتب على افتتاح أي من إجراءات التصفية أو التصفية لصغار المدينين أو التصفية الإدارية إجراء المقاصة التلقائية فيما يكون للمدين من دين على دائنه في تاريخ الافتتاح مقابل ما لهذا الدائن من دين على المدين.",
+    "target_en": "1. The initiation of a liquidation procedure, small debtors' liquidation procedure, or administrative liquidation procedure shall result in an automatic set-off procedure for any outstanding debts owed by the creditor to the debtor on the initiation date, in consideration of any debts owed by the debtor to the creditor.",
+    "source_ar_norm": "1- يترتب علي افتتاح اي من اجراءات التصفية او التصفية لصغار المدينين او التصفية الادارية اجراء المقاصة التلقائية فيما يكون للمدين من دين علي دائنه في تاريخ الافتتاح مقابل ما لهذا الدائن من دين علي المدين.",
+    "target_en_norm": "1. the initiation of a liquidation procedure, small debtors' liquidation procedure, or administrative liquidation procedure shall result in an automatic set-off procedure for any outstanding debts owed by the creditor to the debtor on the initiation date, in consideration of any debts owed by the debtor to the creditor.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30357,
+    "source_ar": "2- يسري حكم الفقرة (1) من هذه المادة على الديون التبادلية وأي تعامل تبادلي آخر بين المدين ودائنه في تعامل أو دين قائم في ديون التفليسة، وتكون الديون أو التعاملات تبادلية إذا كانت بين ذات الأطراف وكانت لهم ذات الصفات والحقوق بالنسبة لتلك الديون أو التعاملات.",
+    "target_en": "2. Paragraph (1) of this Article shall apply to reciprocal debts and any other reciprocal transaction between the debtor and his creditor in any existing transaction or debt listed as part of the bankruptcy debts. Debts or transactions shall be deemed reciprocal if carried out by the same parties having the same capacity and rights vis-a-vis said debts or transactions.",
+    "source_ar_norm": "2- يسري حكم الفقرة (1) من هذه المادة علي الديون التبادلية واي تعامل تبادلي اخر بين المدين ودائنه في تعامل او دين قائم في ديون التفليسة، وتكون الديون او التعاملات تبادلية اذا كانت بين ذات الاطراف وكانت لهم ذات الصفات والحقوق بالنسبة لتلك الديون او التعاملات.",
+    "target_en_norm": "2. paragraph (1) of this article shall apply to reciprocal debts and any other reciprocal transaction between the debtor and his creditor in any existing transaction or debt listed as part of the bankruptcy debts. debts or transactions shall be deemed reciprocal if carried out by the same parties having the same capacity and rights vis-a-vis said debts or transactions.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30358,
+    "source_ar": "3- استثناء من حكم الفقرة (2) من هذه المادة، يجوز للكيانات المنظمة التي تمارس نشاطاً مالياً إجراء عمليات المقاصة متعددة الأطراف فيما بينها وفقاً لما تحدده اللائحة.",
+    "target_en": "3. Notwithstanding paragraph (2) of this Article, regulated entities engaged in financial activities may conduct multilateral set-off transactions among themselves, as specified in the Regulations.",
+    "source_ar_norm": "3- استثناء من حكم الفقرة (2) من هذه المادة، يجوز للكيانات المنظمة التي تمارس نشاطا ماليا اجراء عمليات المقاصة متعددة الاطراف فيما بينها وفقا لما تحدده اللائحة.",
+    "target_en_norm": "3. notwithstanding paragraph (2) of this article, regulated entities engaged in financial activities may conduct multilateral set-off transactions among themselves, as specified in the regulations.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30359,
+    "source_ar": "الديون المستبعدة",
+    "target_en": "Excluded Debts",
+    "source_ar_norm": "الديون المستبعدة",
+    "target_en_norm": "excluded debts",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30360,
+    "source_ar": "المادة الثانية والتسعون بعد المائة",
+    "target_en": "Article 192",
+    "source_ar_norm": "المادة الثانية والتسعون بعد المائة",
+    "target_en_norm": "article 192",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30361,
+    "source_ar": "لا تعد الديون والتعاملات الناشئة في وقت لاحق لتاريخ افتتاح الإجراء ديوناً أو تعاملات تبادلية لغرض المقاصة التلقائية، وتعد هذه الديون والتعاملات صحيحة ومنتجة لآثارها.",
+    "target_en": "Debts and transactions established subsequent to the initiation of the procedure shall not be deemed reciprocal for the purpose of automatic set-off. However, such debts and transactions shall be deemed valid and effective.",
+    "source_ar_norm": "لا تعد الديون والتعاملات الناشئة في وقت لاحق لتاريخ افتتاح الاجراء ديونا او تعاملات تبادلية لغرض المقاصة التلقائية، وتعد هذه الديون والتعاملات صحيحة ومنتجة لاثارها.",
+    "target_en_norm": "debts and transactions established subsequent to the initiation of the procedure shall not be deemed reciprocal for the purpose of automatic set-off. however, such debts and transactions shall be deemed valid and effective.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30362,
+    "source_ar": "إثبات رصيد الدين",
+    "target_en": "Establishing the Debt Balance",
+    "source_ar_norm": "اثبات رصيد الدين",
+    "target_en_norm": "establishing the debt balance",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30363,
+    "source_ar": "المادة الثالثة والتسعون بعد المائة",
+    "target_en": "Article 193",
+    "source_ar_norm": "المادة الثالثة والتسعون بعد المائة",
+    "target_en_norm": "article 193",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30364,
+    "source_ar": "1- تكون مطالبة الدائن المقدمة منه إلى الأمين في إجراءي التصفية أو التصفية لصغار المدينين بقدر ما بقي من مقدار دينه بعد إجراء المقاصة.",
+    "target_en": "1. Claims of creditors submitted to the trustee during the liquidation procedure or small debtors' liquidation procedure shall be equal to any outstanding debt following set-off.",
+    "source_ar_norm": "1- تكون مطالبة الدائن المقدمة منه الي الامين في اجراءي التصفية او التصفية لصغار المدينين بقدر ما بقي من مقدار دينه بعد اجراء المقاصة.",
+    "target_en_norm": "1. claims of creditors submitted to the trustee during the liquidation procedure or small debtors' liquidation procedure shall be equal to any outstanding debt following set-off.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30365,
+    "source_ar": "2- إذا كان مقدار الدين المتبقي بعد المقاصة مستحقاً للمدين في إجراءي التصفية أو التصفية لصغار المدينين، فيؤدى إلى الأمين ويدخل ضمن أصول التفليسة، وإذا كان استحقاقه مستقبلياً أو مبنياً على شرط، فيؤدى إلى الأمين ما يتبقى بعد حلول الأداء واستقرار الوجوب.",
+    "target_en": "2. If, during the liquidation procedure or small debtors' liquidation procedure, the outstanding debt after set-off is owed to the debtor, it shall be paid to the trustee and included in the bankruptcy assets. If the debt’s maturity date is in the future or is conditional, such debt shall be paid to the trustee when it becomes due and payable.",
+    "source_ar_norm": "2- اذا كان مقدار الدين المتبقي بعد المقاصة مستحقا للمدين في اجراءي التصفية او التصفية لصغار المدينين، فيؤدي الي الامين ويدخل ضمن اصول التفليسة، واذا كان استحقاقه مستقبليا او مبنيا علي شرط، فيؤدي الي الامين ما يتبقي بعد حلول الاداء واستقرار الوجوب.",
+    "target_en_norm": "2. if, during the liquidation procedure or small debtors' liquidation procedure, the outstanding debt after set-off is owed to the debtor, it shall be paid to the trustee and included in the bankruptcy assets. if the debt’s maturity date is in the future or is conditional, such debt shall be paid to the trustee when it becomes due and payable.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30366,
+    "source_ar": "الديون بعملة أجنبية",
+    "target_en": "Foreign Currency Debts",
+    "source_ar_norm": "الديون بعملة اجنبية",
+    "target_en_norm": "foreign currency debts",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30367,
+    "source_ar": "المادة الرابعة والتسعون بعد المائة",
+    "target_en": "Article 194",
+    "source_ar_norm": "المادة الرابعة والتسعون بعد المائة",
+    "target_en_norm": "article 194",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30368,
+    "source_ar": "تحول مبالغ الديون المقدرة أو المطلوب أداؤها بعملة أجنبية إلى الريال السعودي وفقاً لأسعار الصرف السائدة في تاريخ افتتاح الإجراء، ويجوز الاتفاق على إجراء المقاصة بعملة أخرى.",
+    "target_en": "Estimated or due debts payable in a foreign currency shall be converted to Saudi riyals at the prevailing exchange rate on the date of the initiation of the procedure. It may be agreed that set-off be made in another currency.",
+    "source_ar_norm": "تحول مبالغ الديون المقدرة او المطلوب اداؤها بعملة اجنبية الي الريال السعودي وفقا لاسعار الصرف السائدة في تاريخ افتتاح الاجراء، ويجوز الاتفاق علي اجراء المقاصة بعملة اخري.",
+    "target_en_norm": "estimated or due debts payable in a foreign currency shall be converted to saudi riyals at the prevailing exchange rate on the date of the initiation of the procedure. it may be agreed that set-off be made in another currency.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30369,
+    "source_ar": "الفصل الثاني عشر: أولوية الديون",
+    "target_en": "Chapter 12: Priority of Debts",
+    "source_ar_norm": "الفصل الثاني عشر: اولوية الديون",
+    "target_en_norm": "chapter 12: priority of debts",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30370,
+    "source_ar": "المادة الخامسة والتسعون بعد المائة",
+    "target_en": "Article 195",
+    "source_ar_norm": "المادة الخامسة والتسعون بعد المائة",
+    "target_en_norm": "article 195",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30371,
+    "source_ar": "تكون لأتعاب ومصروفات أمين الإفلاس والخبير -إن وجد- ومصروفات بيع أصول التفليسة أولوية على الديون في إجراء التصفية وإجراء التصفية لصغار المدينين، ويجب الوفاء بها قبل توزيع حصيلة بيع أصول التفليسة على الدائنين.",
+    "target_en": "Fees and expenses of the bankruptcy trustee and expert, if any, and the sale expenses of bankruptcy assets shall have priority over other debts during the liquidation procedure and small debtors’ liquidation procedure, and must be satisfied prior to the distribution of sale proceeds of bankruptcy assets to creditors.",
+    "source_ar_norm": "تكون لاتعاب ومصروفات امين الافلاس والخبير -ان وجد- ومصروفات بيع اصول التفليسة اولوية علي الديون في اجراء التصفية واجراء التصفية لصغار المدينين، ويجب الوفاء بها قبل توزيع حصيلة بيع اصول التفليسة علي الدائنين.",
+    "target_en_norm": "fees and expenses of the bankruptcy trustee and expert, if any, and the sale expenses of bankruptcy assets shall have priority over other debts during the liquidation procedure and small debtors’ liquidation procedure, and must be satisfied prior to the distribution of sale proceeds of bankruptcy assets to creditors.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30372,
+    "source_ar": "المادة السادسة والتسعون بعد المائة",
+    "target_en": "Article 196",
+    "source_ar_norm": "المادة السادسة والتسعون بعد المائة",
+    "target_en_norm": "article 196",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30373,
+    "source_ar": "دون إخلال بأحكام المادة (الخامسة والتسعين بعد المائة) من النظام، يستوفى عند إجراء التصفية وإجراء التصفية لصغار المدينين الدين ذو الأولوية الأعلى قبل الدين ذي الأولوية الأقل، وتكون أولوية الديون على النحو الآتي:",
+    "target_en": "Without prejudice to the provisions of Article 195 of this Law, upon initiation of the liquidation procedure or small debtors’ liquidation procedure, debts of a higher priority shall be satisfied before debts of a lower priority. The priority of debts shall be as follows:",
+    "source_ar_norm": "دون اخلال باحكام المادة (الخامسة والتسعين بعد المائة) من النظام، يستوفي عند اجراء التصفية واجراء التصفية لصغار المدينين الدين ذو الاولوية الاعلي قبل الدين ذي الاولوية الاقل، وتكون اولوية الديون علي النحو الاتي:",
+    "target_en_norm": "without prejudice to the provisions of article 195 of this law, upon initiation of the liquidation procedure or small debtors’ liquidation procedure, debts of a higher priority shall be satisfied before debts of a lower priority. the priority of debts shall be as follows:",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30374,
+    "source_ar": "أ- الديون المضمونة ضماناً عينياً.",
+    "target_en": "a) Debts secured by in-kind securities.",
+    "source_ar_norm": "ا- الديون المضمونة ضمانا عينيا.",
+    "target_en_norm": "a) debts secured by in-kind securities.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30375,
+    "source_ar": "ب- التمويل المضمون وفقاً للفقرة (أ) من المادة (الرابعة والثمانين بعد المائة) من النظام وما تحدده اللائحة من ضمانات أخرى وفق الفقرة (هـ) من المادة نفسها.",
+    "target_en": "b) Secured financing in accordance with Article 184(a) of this Law and any other security specified in the Regulations in accordance with Article 184(e).",
+    "source_ar_norm": "ب- التمويل المضمون وفقا للفقرة (ا) من المادة (الرابعة والثمانين بعد المائة) من النظام وما تحدده اللائحة من ضمانات اخري وفق الفقرة (ه) من المادة نفسها.",
+    "target_en_norm": "b) secured financing in accordance with article 184(a) of this law and any other security specified in the regulations in accordance with article 184(e).",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30376,
+    "source_ar": "ج- مبلغ لعمال المدين يعادل أجر (ثلاثين) يوماً.",
+    "target_en": "c) A 30-day wage for debtor’s employees.",
+    "source_ar_norm": "ج- مبلغ لعمال المدين يعادل اجر (ثلاثين) يوما.",
+    "target_en_norm": "c) a 30-day wage for debtor’s employees.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30377,
+    "source_ar": "د - النفقات الأسرية المقررة بموجب نص نظامي أو حكم قضائي.",
+    "target_en": "d) Family expenses established pursuant to a statutory provision or a court order.",
+    "source_ar_norm": "د - النفقات الاسرية المقررة بموجب نص نظامي او حكم قضائي.",
+    "target_en_norm": "d) family expenses established pursuant to a statutory provision or a court order.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30378,
+    "source_ar": "هـ- المصروفات اللازمة لاستمرار نشاط المدين أثناء الإجراء، وفقاً لما تحدده اللائحة.",
+    "target_en": "e) Expenses necessary for the continuation of the debtor’s business during the procedures, as specified in the Regulations.",
+    "source_ar_norm": "ه- المصروفات اللازمة لاستمرار نشاط المدين اثناء الاجراء، وفقا لما تحدده اللائحة.",
+    "target_en_norm": "e) expenses necessary for the continuation of the debtor’s business during the procedures, as specified in the regulations.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30379,
+    "source_ar": "و- أجور عمال المدين السابقة.",
+    "target_en": "f) Outstanding wages of the debtor’s employees.",
+    "source_ar_norm": "و- اجور عمال المدين السابقة.",
+    "target_en_norm": "f) outstanding wages of the debtor’s employees.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30380,
+    "source_ar": "ز- الديون غير المضمونة.",
+    "target_en": "g) Unsecured debts.",
+    "source_ar_norm": "ز- الديون غير المضمونة.",
+    "target_en_norm": "g) unsecured debts.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30381,
+    "source_ar": "ح- الرسوم والاشتراكات والضرائب والمستحقات الحكومية غير المضمونة وفقاً لما تحدده اللائحة.",
+    "target_en": "h) Government fees, subscriptions, taxes, and unsecured entitlements, as specified in the Regulations.",
+    "source_ar_norm": "ح- الرسوم والاشتراكات والضرائب والمستحقات الحكومية غير المضمونة وفقا لما تحدده اللائحة.",
+    "target_en_norm": "h) government fees, subscriptions, taxes, and unsecured entitlements, as specified in the regulations.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30382,
+    "source_ar": "وتحدد اللائحة ترتيب أولوية الديون في كل من الأولويات الواردة في هذه المادة.",
+    "target_en": "The Regulations shall determine the priority of debts within each of the priorities provided for in this Article.",
+    "source_ar_norm": "وتحدد اللائحة ترتيب اولوية الديون في كل من الاولويات الواردة في هذه المادة.",
+    "target_en_norm": "the regulations shall determine the priority of debts within each of the priorities provided for in this article.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30383,
+    "source_ar": "المادة السابعة والتسعون بعد المائة",
+    "target_en": "Article 197",
+    "source_ar_norm": "المادة السابعة والتسعون بعد المائة",
+    "target_en_norm": "article 197",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30384,
+    "source_ar": "إذا نتج عن بيع أصل من أصول التفليسة ضامن لدين حصيلة تزيد على مقدار الدين المضمون بهذا الأصل، فيودع أمين الإفلاس المبلغ الزائد في الحساب البنكي المخصص لأصول التفليسة، أما إذا كانت حصيلة البيع لا تكفي لسداد كامل الدين المضمون بهذا الأصل، فيعد المقدار المتبقي من ذلك الدين الذي لم تكف حصيلة البيع لتغطيته ديناً غير مضمون.",
+    "target_en": "If the sale proceeds of a bankruptcy asset, used as a security for a debt, exceed the debt secured by such asset, the bankruptcy trustee shall deposit any surplus in the bank account designated for the bankruptcy assets. However, if the sale proceeds of such asset are insufficient to satisfy the whole debt, the outstanding debt shall be deemed unsecured debt.",
+    "source_ar_norm": "اذا نتج عن بيع اصل من اصول التفليسة ضامن لدين حصيلة تزيد علي مقدار الدين المضمون بهذا الاصل، فيودع امين الافلاس المبلغ الزائد في الحساب البنكي المخصص لاصول التفليسة، اما اذا كانت حصيلة البيع لا تكفي لسداد كامل الدين المضمون بهذا الاصل، فيعد المقدار المتبقي من ذلك الدين الذي لم تكف حصيلة البيع لتغطيته دينا غير مضمون.",
+    "target_en_norm": "if the sale proceeds of a bankruptcy asset, used as a security for a debt, exceed the debt secured by such asset, the bankruptcy trustee shall deposit any surplus in the bank account designated for the bankruptcy assets. however, if the sale proceeds of such asset are insufficient to satisfy the whole debt, the outstanding debt shall be deemed unsecured debt.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30385,
+    "source_ar": "المادة الثامنة والتسعون بعد المائة",
+    "target_en": "Article 198",
+    "source_ar_norm": "المادة الثامنة والتسعون بعد المائة",
+    "target_en_norm": "article 198",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30386,
+    "source_ar": "توزع حصيلة بيع أصول التفليسة على الدائنين ذوي الأولوية نفسها، وإذا لم تكف حصيلة بيع أصول التفليسة لسداد ديون الدائنين ذوي الأولوية نفسها، فتوزع الحصيلة عليهم عبر قسمة الغرماء.",
+    "target_en": "The sale proceeds of a bankruptcy asset shall be distributed to creditors of equal priority, and if the proceeds are insufficient to satisfy the debts of said creditors, the proceeds shall be distributed on a pari passu basis between creditors.",
+    "source_ar_norm": "توزع حصيلة بيع اصول التفليسة علي الدائنين ذوي الاولوية نفسها، واذا لم تكف حصيلة بيع اصول التفليسة لسداد ديون الدائنين ذوي الاولوية نفسها، فتوزع الحصيلة عليهم عبر قسمة الغرماء.",
+    "target_en_norm": "the sale proceeds of a bankruptcy asset shall be distributed to creditors of equal priority, and if the proceeds are insufficient to satisfy the debts of said creditors, the proceeds shall be distributed on a pari passu basis between creditors.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30387,
+    "source_ar": "توزيع الديون ذات الأولوية في غير إجراء التصفية",
+    "target_en": "Distribution of Priority Debts in other than the Liquidation Procedure",
+    "source_ar_norm": "توزيع الديون ذات الاولوية في غير اجراء التصفية",
+    "target_en_norm": "distribution of priority debts in other than the liquidation procedure",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30388,
+    "source_ar": "المادة التاسعة والتسعون بعد المائة",
+    "target_en": "Article 199",
+    "source_ar_norm": "المادة التاسعة والتسعون بعد المائة",
+    "target_en_norm": "article 199",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30389,
+    "source_ar": "تحدد اللائحة ترتيب أولوية المستحقات في غير إجراءات التصفية والتصفية لصغار المدينين والتصفية الإدارية.",
+    "target_en": "The Regulations shall determine the priority of dues in other than the liquidation procedure, small debtors' liquidation procedure, and administrative liquidation procedure.",
+    "source_ar_norm": "تحدد اللائحة ترتيب اولوية المستحقات في غير اجراءات التصفية والتصفية لصغار المدينين والتصفية الادارية.",
+    "target_en_norm": "the regulations shall determine the priority of dues in other than the liquidation procedure, small debtors' liquidation procedure, and administrative liquidation procedure.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30390,
+    "source_ar": "الفصل الثالث عشر: العقوبات والتعاملات القابلة للإلغاء: نطاق التطبيق",
+    "target_en": "Chapter 13: Revocable Transactions and Penalties Scope of Application",
+    "source_ar_norm": "الفصل الثالث عشر: العقوبات والتعاملات القابلة للالغاء: نطاق التطبيق",
+    "target_en_norm": "chapter 13: revocable transactions and penalties scope of application",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30391,
+    "source_ar": "المادة المائتين",
+    "target_en": "Article 200",
+    "source_ar_norm": "المادة المائتين",
+    "target_en_norm": "article 200",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30392,
+    "source_ar": "دون الإخلال بأحكام الأنظمة ذات العلاقة، يعد مخالفاً لأحكام النظام كل مدين ذي صفة طبيعية أو مدير لدى مدين أو عضو في مجلس إدارته أو مجلس مديريه أو أي من مسؤوليه أو أي شخص آخر شارك في تأسيسه أو إدارته أو من في حكمهم؛ ارتكب قبل افتتاح أي من إجراءات الإفلاس واحداً أو أكثر من الأفعال الآتية وأدى إلى افتتاحه، أو ارتكبه أثناء سريانه، وترتب على ذلك إضرار بحقوق أي من الأطراف بمن فيهم الدائنون:",
+    "target_en": "Without prejudice to the provisions of relevant laws, any natural person debtor, or any of the debtor's managers, or any member in his board of directors or board of managers, or any of his officials, or any person who participated in the establishment or management thereof, and the like, shall be deemed in violation of this Law, if they commit one or more of the following acts prior to the initiation of any bankruptcy procedure which result in the initiation of the procedure, or commit such acts during the procedure, which are detrimental to third party rights including creditors:",
+    "source_ar_norm": "دون الاخلال باحكام الانظمة ذات العلاقة، يعد مخالفا لاحكام النظام كل مدين ذي صفة طبيعية او مدير لدي مدين او عضو في مجلس ادارته او مجلس مديريه او اي من مسؤوليه او اي شخص اخر شارك في تاسيسه او ادارته او من في حكمهم؛ ارتكب قبل افتتاح اي من اجراءات الافلاس واحدا او اكثر من الافعال الاتية وادي الي افتتاحه، او ارتكبه اثناء سريانه، وترتب علي ذلك اضرار بحقوق اي من الاطراف بمن فيهم الدائنون:",
+    "target_en_norm": "without prejudice to the provisions of relevant laws, any natural person debtor, or any of the debtor's managers, or any member in his board of directors or board of managers, or any of his officials, or any person who participated in the establishment or management thereof, and the like, shall be deemed in violation of this law, if they commit one or more of the following acts prior to the initiation of any bankruptcy procedure which result in the initiation of the procedure, or commit such acts during the procedure, which are detrimental to third party rights including creditors:",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30393,
+    "source_ar": "أ- إساءة التصرف في أصول المدين أو أصول التفليسة أو احتجازها أو إساءة استعمال صلاحياته.",
+    "target_en": "a) Misusing or seizing the debtor’s assets or bankruptcy assets, or abusing power.",
+    "source_ar_norm": "ا- اساءة التصرف في اصول المدين او اصول التفليسة او احتجازها او اساءة استعمال صلاحياته.",
+    "target_en_norm": "a) misusing or seizing the debtor’s assets or bankruptcy assets, or abusing power.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30394,
+    "source_ar": "ب- ممارسة نشاط المدين بقصد الاحتيال على دائنيه.",
+    "target_en": "b) Engaging in the debtor’s business for the purpose of defrauding his creditors.",
+    "source_ar_norm": "ب- ممارسة نشاط المدين بقصد الاحتيال علي دائنيه.",
+    "target_en_norm": "b) engaging in the debtor’s business for the purpose of defrauding his creditors.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30395,
+    "source_ar": "ج- الاستمرار في ممارسة نشاط المدين مع انتفاء إمكانية تجنب التصفية.",
+    "target_en": "c) Continuing the debtor’s business knowing that liquidation is inevitable.",
+    "source_ar_norm": "ج- الاستمرار في ممارسة نشاط المدين مع انتفاء امكانية تجنب التصفية.",
+    "target_en_norm": "c) continuing the debtor’s business knowing that liquidation is inevitable.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30396,
+    "source_ar": "دـ- استخدام أساليب تنطوي على استهتار لتفادي أو تأخير افتتاح إجراء التصفية، يترتب عليها إضرار بحقوق الدائنين، بما في ذلك بيع السلع بأقل من سعر السوق للحصول على سيولة نقدية.",
+    "target_en": "d) Using arbitrary methods to avoid or delay the initiation of the liquidation procedure, thus undermining the rights of creditors, including the sale of goods at rates below the market price to generate cash.",
+    "source_ar_norm": "د- استخدام اساليب تنطوي علي استهتار لتفادي او تاخير افتتاح اجراء التصفية، يترتب عليها اضرار بحقوق الدائنين، بما في ذلك بيع السلع باقل من سعر السوق للحصول علي سيولة نقدية.",
+    "target_en_norm": "d) using arbitrary methods to avoid or delay the initiation of the liquidation procedure, thus undermining the rights of creditors, including the sale of goods at rates below the market price to generate cash.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30397,
+    "source_ar": "هـ- إبرام صفقات دون مقابل أو بمقابل غير عادل.",
+    "target_en": "e) Concluding transactions for no or unfair consideration.",
+    "source_ar_norm": "ه- ابرام صفقات دون مقابل او بمقابل غير عادل.",
+    "target_en_norm": "e) concluding transactions for no or unfair consideration.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30398,
+    "source_ar": "و- سداد ديون أي من الدائنين بما يؤدي إلى الإضرار بدائنين آخرين.",
+    "target_en": "f) Paying debts of any creditor in a manner detrimental to the rights of other creditors.",
+    "source_ar_norm": "و- سداد ديون اي من الدائنين بما يؤدي الي الاضرار بدائنين اخرين.",
+    "target_en_norm": "f) paying debts of any creditor in a manner detrimental to the rights of other creditors.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30399,
+    "source_ar": "ز- إساءة استغلال أي من إجراءات الإفلاس.",
+    "target_en": "g) Abusing any of the bankruptcy procedures.",
+    "source_ar_norm": "ز- اساءة استغلال اي من اجراءات الافلاس.",
+    "target_en_norm": "g) abusing any of the bankruptcy procedures.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 30400,
+    "source_ar": "المادة الأولى بعد المائتين",
+    "target_en": "Article 201",
+    "source_ar_norm": "المادة الاولي بعد المائتين",
+    "target_en_norm": "article 201",
+    "file_name": "نظام الإفلاس.docx"
+  }
+]

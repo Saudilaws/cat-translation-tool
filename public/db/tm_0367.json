@@ -1,0 +1,802 @@
+[
+  {
+    "id": 36601,
+    "source_ar": "إذا لم ينفذ المدين، أو لم يفصح عن أموال تكفي للوفاء بالدين خلال خمسة أيام من تاريخ إبلاغه بأمر التنفيذ، أو من تاريخ نشره بإحدى الصحف إذا تعذر إبلاغه؛ عُدَّ مماطلاً، وأمر قاضي التنفيذ حالاً بما يأتي:",
+    "target_en": "If the debtor fails to comply or to disclose property sufficient to satisfy the debt within five days from the date of notifying him of the enforcement order or from the date of its publication in a newspaper if notification is not possible, he shall be deemed in default. The enforcement judge shall immediately order:",
+    "source_ar_norm": "اذا لم ينفذ المدين، او لم يفصح عن اموال تكفي للوفاء بالدين خلال خمسة ايام من تاريخ ابلاغه بامر التنفيذ، او من تاريخ نشره باحدي الصحف اذا تعذر ابلاغه؛ عد مماطلا، وامر قاضي التنفيذ حالا بما ياتي:",
+    "target_en_norm": "if the debtor fails to comply or to disclose property sufficient to satisfy the debt within five days from the date of notifying him of the enforcement order or from the date of its publication in a newspaper if notification is not possible, he shall be deemed in default. the enforcement judge shall immediately order:",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36602,
+    "source_ar": "1- منع المدين من السفر.",
+    "target_en": "1. banning the debtor from travel;",
+    "source_ar_norm": "1- منع المدين من السفر.",
+    "target_en_norm": "1. banning the debtor from travel;",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36603,
+    "source_ar": "2- إيقاف إصدار صكوك التوكيل منه بصفة مباشرة، أو غير مباشرة في الأموال وما يؤول إليها.",
+    "target_en": "2. banning the debtor from issuing a power of attorney whether directly or indirectly regarding the property and whatever relates thereto;",
+    "source_ar_norm": "2- ايقاف اصدار صكوك التوكيل منه بصفة مباشرة، او غير مباشرة في الاموال وما يؤول اليها.",
+    "target_en_norm": "2. banning the debtor from issuing a power of attorney whether directly or indirectly regarding the property and whatever relates thereto;",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36604,
+    "source_ar": "3- الإفصاح عن أمـوال المدين القائمة وعما يرد إليه مستقبلاً، وذلك بمقدار ما يفي بالسند التنفيذي، وحجزها، والتنفيذ عليها، وفقًا لأحكام هذا النظام.",
+    "target_en": "3. disclosing the debtor’s present and future property to the extent that satisfies the debt in the enforcement document as well as attaching and enforcing against such property in accordance with the provisions of this Law;",
+    "source_ar_norm": "3- الافصاح عن اموال المدين القائمة وعما يرد اليه مستقبلا، وذلك بمقدار ما يفي بالسند التنفيذي، وحجزها، والتنفيذ عليها، وفقا لاحكام هذا النظام.",
+    "target_en_norm": "3. disclosing the debtor’s present and future property to the extent that satisfies the debt in the enforcement document as well as attaching and enforcing against such property in accordance with the provisions of this law;",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36605,
+    "source_ar": "4- الإفصاح عن رخص وسجلات أنشطة المدين التجارية، والمهنية.",
+    "target_en": "4. disclosing the debtor’s commercial and professional licenses and records; and",
+    "source_ar_norm": "4- الافصاح عن رخص وسجلات انشطة المدين التجارية، والمهنية.",
+    "target_en_norm": "4. disclosing the debtor’s commercial and professional licenses and records; and",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36606,
+    "source_ar": "5- إشعار مرخص له بتسجيل المعلومات الائتمانية بواقعة عدم التنفيذ.",
+    "target_en": "5. notifying a licensed credit agency of non-enforcement.",
+    "source_ar_norm": "5- اشعار مرخص له بتسجيل المعلومات الائتمانية بواقعة عدم التنفيذ.",
+    "target_en_norm": "5. notifying a licensed credit agency of non-enforcement.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36607,
+    "source_ar": "ولقاضي التنفيذ أن يتخذ - إضافة إلى ما سبق بحسب الحال - أيًا من الإجراءات الآتية:",
+    "target_en": "In addition to the above, as the case may be, the enforcement judge may:",
+    "source_ar_norm": "ولقاضي التنفيذ ان يتخذ - اضافة الي ما سبق بحسب الحال - ايا من الاجراءات الاتية:",
+    "target_en_norm": "in addition to the above, as the case may be, the enforcement judge may:",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36608,
+    "source_ar": "أ - منع الجهات الحكومية من التعامل مع المدين، وحجز مستحقاته المالية لديها، وأن عليها إشعار قاضي التنفيذ بذلك.",
+    "target_en": "a) bar government agencies from dealing with the debtor and ordering the garnishment of any dues they may have. Said agencies shall notify the enforcement judge of their compliance;",
+    "source_ar_norm": "ا - منع الجهات الحكومية من التعامل مع المدين، وحجز مستحقاته المالية لديها، وان عليها اشعار قاضي التنفيذ بذلك.",
+    "target_en_norm": "a) bar government agencies from dealing with the debtor and ordering the garnishment of any dues they may have. said agencies shall notify the enforcement judge of their compliance;",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36609,
+    "source_ar": "ب - منع المنشآت المالية من التعامل معه بأي صفة.",
+    "target_en": "b) bar financial institutions from dealing with the debtor;",
+    "source_ar_norm": "ب - منع المنشات المالية من التعامل معه باي صفة.",
+    "target_en_norm": "b) bar financial institutions from dealing with the debtor;",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36610,
+    "source_ar": "ج - الأمر بالإفصاح عن أموال زوج المدين، وأولاده، ومن تشير القرائن إلى نقل الأموال إليه، أو محاباته. وإذا تبين الاشتباه بأن هناك أدلة أو قرائن على إخفاء الأموال، يحال الطلب إلى قاضي الموضوع للنظر فيه.",
+    "target_en": "c) order disclosure of the property of the debtor’s spouse, children, and whoever the circumstantial evidence indicates that any property may be transferred to or that he is being favored therewith. If the suspicion is established by evidence or presumptions that property has been concealed, the matter shall be referred to the competent judge for review; and/or",
+    "source_ar_norm": "ج - الامر بالافصاح عن اموال زوج المدين، واولاده، ومن تشير القرائن الي نقل الاموال اليه، او محاباته. واذا تبين الاشتباه بان هناك ادلة او قرائن علي اخفاء الاموال، يحال الطلب الي قاضي الموضوع للنظر فيه.",
+    "target_en_norm": "c) order disclosure of the property of the debtor’s spouse, children, and whoever the circumstantial evidence indicates that any property may be transferred to or that he is being favored therewith. if the suspicion is established by evidence or presumptions that property has been concealed, the matter shall be referred to the competent judge for review; and/or",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36611,
+    "source_ar": "د - حبس المدين، وفقًا لأحكام هذا النظام.",
+    "target_en": "d) imprison the debtor in accordance with the provisions of this Law.",
+    "source_ar_norm": "د - حبس المدين، وفقا لاحكام هذا النظام.",
+    "target_en_norm": "d) imprison the debtor in accordance with the provisions of this law.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36612,
+    "source_ar": "المادة السابعة والأربعون:",
+    "target_en": "Article 47",
+    "source_ar_norm": "المادة السابعة والاربعون:",
+    "target_en_norm": "article 47",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36613,
+    "source_ar": "لقاضي التنفيذ استجواب المدين، ومحاسبه، وموظفيه، أو المتعاملين معه المشتبه في محاباتهم له ومدين المدين؛ لتتبع أمواله، وله ندب خبير لتتبع أمواله.",
+    "target_en": "The enforcement judge may question the debtor, his accountant, employees, persons suspected of favoring him and his debtors for the purpose of tracing his property. Said judge may assign an expert to trace the debtor’s property.",
+    "source_ar_norm": "لقاضي التنفيذ استجواب المدين، ومحاسبه، وموظفيه، او المتعاملين معه المشتبه في محاباتهم له ومدين المدين؛ لتتبع امواله، وله ندب خبير لتتبع امواله.",
+    "target_en_norm": "the enforcement judge may question the debtor, his accountant, employees, persons suspected of favoring him and his debtors for the purpose of tracing his property. said judge may assign an expert to trace the debtor’s property.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36614,
+    "source_ar": "المادة الثامنة والأربعون:",
+    "target_en": "Article 48",
+    "source_ar_norm": "المادة الثامنة والاربعون:",
+    "target_en_norm": "article 48",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36615,
+    "source_ar": "يذيل أصل السند التنفيذي بما ينفذ فعليًا، وتسجل بيانات السند في سجل سندات التنفيذ لدى المحكمة.",
+    "target_en": "The original copy of the enforcement document shall be appended with what is actually executed and the enforcement document data shall be recorded in the court’s registry for enforcement documents.",
+    "source_ar_norm": "يذيل اصل السند التنفيذي بما ينفذ فعليا، وتسجل بيانات السند في سجل سندات التنفيذ لدي المحكمة.",
+    "target_en_norm": "the original copy of the enforcement document shall be appended with what is actually executed and the enforcement document data shall be recorded in the court’s registry for enforcement documents.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36616,
+    "source_ar": "الفصل الثاني: بيع المال المحجوز",
+    "target_en": "Chapter 2: Sale of Attached Property",
+    "source_ar_norm": "الفصل الثاني: بيع المال المحجوز",
+    "target_en_norm": "chapter 2: sale of attached property",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36617,
+    "source_ar": "المادة التاسعة والأربعون:",
+    "target_en": "Article 49",
+    "source_ar_norm": "المادة التاسعة والاربعون:",
+    "target_en_norm": "article 49",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36618,
+    "source_ar": "لا يدخل صالة المزاد إلا من تأهـل للمشاركة فيه، ويتأهل المشاركون في المـزاد بموجب ترتيبات تضعها وزارة العدل بالاتفاق مع مؤسسة النقد العربي السعودي، تنظم إثبات ملاءة المشاركين في المزاد، وطريقة خصم المبالغ والسداد فور رسو المزاد، وفق ما تحدده اللائحة.",
+    "target_en": "No person may be admitted to the auction hall unless qualified. Participants in the auction shall qualify pursuant to arrangements set by the Ministry of Justice in agreement with the Saudi Arabian Monetary Agency (SAMA) which regulate financial competency of the participants in the auction as well as method of money deduction and payment upon winning the auction as specified by the Regulations.",
+    "source_ar_norm": "لا يدخل صالة المزاد الا من تاهل للمشاركة فيه، ويتاهل المشاركون في المزاد بموجب ترتيبات تضعها وزارة العدل بالاتفاق مع مؤسسة النقد العربي السعودي، تنظم اثبات ملاءة المشاركين في المزاد، وطريقة خصم المبالغ والسداد فور رسو المزاد، وفق ما تحدده اللائحة.",
+    "target_en_norm": "no person may be admitted to the auction hall unless qualified. participants in the auction shall qualify pursuant to arrangements set by the ministry of justice in agreement with the saudi arabian monetary agency (sama) which regulate financial competency of the participants in the auction as well as method of money deduction and payment upon winning the auction as specified by the regulations.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36619,
+    "source_ar": "المادة الخمسون:",
+    "target_en": "Article 50",
+    "source_ar_norm": "المادة الخمسون:",
+    "target_en_norm": "article 50",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36620,
+    "source_ar": "1 - يعلن عن المزاد قبل اليوم المحدد لإجرائه بمدة لا تزيد على ثلاثين يوماً ولا تقل عن خمسة عشر يوماً في موقع بيانات التنفيذ، وبالإلصاق على باب المكان الذي فيه الأموال المحجوزة، مبيناً فيه يوم البيع وساعته ومكانه ونوع الأموال المحجوزة ووصفها بالإجمال. ويجوز لقاضي التنفيذ أن يأمر بنشر هذا الإعلان في صحيفة أو أكثر من الصحف اليومية خصماً من حصيلة البيع.",
+    "target_en": "1. An auction shall be announced within a period not exceeding 30 days and not less than 15 days from the auction date. Such announcement shall be displayed on the site designated for enforcement announcements and posted on the entrance of the attached property indicating the day, time and location of the sale as well as the type and a brief description of the attached property. The enforcement judge may order publication of this announcement in one daily newspaper or more, deducting publication cost from the sale proceeds.",
+    "source_ar_norm": "1 - يعلن عن المزاد قبل اليوم المحدد لاجرائه بمدة لا تزيد علي ثلاثين يوما ولا تقل عن خمسة عشر يوما في موقع بيانات التنفيذ، وبالالصاق علي باب المكان الذي فيه الاموال المحجوزة، مبينا فيه يوم البيع وساعته ومكانه ونوع الاموال المحجوزة ووصفها بالاجمال. ويجوز لقاضي التنفيذ ان يامر بنشر هذا الاعلان في صحيفة او اكثر من الصحف اليومية خصما من حصيلة البيع.",
+    "target_en_norm": "1. an auction shall be announced within a period not exceeding 30 days and not less than 15 days from the auction date. such announcement shall be displayed on the site designated for enforcement announcements and posted on the entrance of the attached property indicating the day, time and location of the sale as well as the type and a brief description of the attached property. the enforcement judge may order publication of this announcement in one daily newspaper or more, deducting publication cost from the sale proceeds.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36621,
+    "source_ar": "2 - يبدأ المزاد بحضور مأمور التنفيذ، وينادي الوكيل بالقيمة التي يفتتح فيها المزاد للمال المحجوز، ولا يجوز البيع بأقل من القيمة المقدرة، فإن لم يتقدم مشتر، حدد مأمور التنفيذ موعدًا آخر للمزاد خلال مدة لا تزيد على يومين، وتباع الأموال المحجوزة بما يقف عليه المزاد، إلا إذا كان المال عقارًا، أو كان من المعادن الثمينة أو المجوهرات أو ما في حكمها؛ فيأمر قاضي التنفيذ بإعادة التقويم، ويفتتح المزاد بالتقويم الأخير، وتباع بما يقف عليه المزاد.",
+    "target_en": "2. The auction shall commence in the presence of the enforcement officer and the agent shall announce the initial value of the attached property for opening the auction. The property may not be sold for less than the reserve price. In the event of no sale, the enforcement officer shall set another date for the auction within two days, and the attached property shall be sold to the highest bidder unless the property is a real estate, precious metal, jewelry or the like where the enforcement judge shall order revaluation. The auction shall be opened according to the last valuation and the property shall be sold to the highest bidder.",
+    "source_ar_norm": "2 - يبدا المزاد بحضور مامور التنفيذ، وينادي الوكيل بالقيمة التي يفتتح فيها المزاد للمال المحجوز، ولا يجوز البيع باقل من القيمة المقدرة، فان لم يتقدم مشتر، حدد مامور التنفيذ موعدا اخر للمزاد خلال مدة لا تزيد علي يومين، وتباع الاموال المحجوزة بما يقف عليه المزاد، الا اذا كان المال عقارا، او كان من المعادن الثمينة او المجوهرات او ما في حكمها؛ فيامر قاضي التنفيذ باعادة التقويم، ويفتتح المزاد بالتقويم الاخير، وتباع بما يقف عليه المزاد.",
+    "target_en_norm": "2. the auction shall commence in the presence of the enforcement officer and the agent shall announce the initial value of the attached property for opening the auction. the property may not be sold for less than the reserve price. in the event of no sale, the enforcement officer shall set another date for the auction within two days, and the attached property shall be sold to the highest bidder unless the property is a real estate, precious metal, jewelry or the like where the enforcement judge shall order revaluation. the auction shall be opened according to the last valuation and the property shall be sold to the highest bidder.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36622,
+    "source_ar": "ويجب على من رسا عليه المزاد سداد الثمن فورًا وفق ما تحدده اللائحة.",
+    "target_en": "The winning bidder shall pay immediately according to the Regulations.",
+    "source_ar_norm": "ويجب علي من رسا عليه المزاد سداد الثمن فورا وفق ما تحدده اللائحة.",
+    "target_en_norm": "the winning bidder shall pay immediately according to the regulations.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36623,
+    "source_ar": "3 - إذا لم يسدد من رسا عليه المزاد الثمن في الموعد المحدد، يعاد البيع على مسؤوليته بمزايدة جديدة، وفقًا لما ورد في الفقرتين (1) و (2) من هذه المادة، ويلزم المتخلف بما نقص من الثمن وبمصروفات المزايدة، ويُردُّ إليه ما زاد على ذلك.",
+    "target_en": "3. If the winning bidder fails to pay within the set time, the property shall be reauctioned at his own risk in accordance with paragraphs 1 and 2 of this Article. The defaulting bidder shall incur the shortfall and the auction cost and shall be entitled to any excess amount.",
+    "source_ar_norm": "3 - اذا لم يسدد من رسا عليه المزاد الثمن في الموعد المحدد، يعاد البيع علي مسؤوليته بمزايدة جديدة، وفقا لما ورد في الفقرتين (1) و (2) من هذه المادة، ويلزم المتخلف بما نقص من الثمن وبمصروفات المزايدة، ويرد اليه ما زاد علي ذلك.",
+    "target_en_norm": "3. if the winning bidder fails to pay within the set time, the property shall be reauctioned at his own risk in accordance with paragraphs 1 and 2 of this article. the defaulting bidder shall incur the shortfall and the auction cost and shall be entitled to any excess amount.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36624,
+    "source_ar": "المادة الحادية والخمسون:",
+    "target_en": "Article 51",
+    "source_ar_norm": "المادة الحادية والخمسون:",
+    "target_en_norm": "article 51",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36625,
+    "source_ar": "يحظر التأثير على أسعار المزاد بأي ترتيب يؤدي إليه، وعلى قاضي التنفيذ أن يطلب من هيئة التحقيق والادعاء العام إجراء التحقيق اللازم إذا قامت شبهة التواطؤ.",
+    "target_en": "No one may influence the auction price by any arrangement and the judge shall request the Bureau of Investigation and Public Prosecution to conduct the required investigation in case of suspicion of collusion.",
+    "source_ar_norm": "يحظر التاثير علي اسعار المزاد باي ترتيب يؤدي اليه، وعلي قاضي التنفيذ ان يطلب من هيئة التحقيق والادعاء العام اجراء التحقيق اللازم اذا قامت شبهة التواطؤ.",
+    "target_en_norm": "no one may influence the auction price by any arrangement and the judge shall request the bureau of investigation and public prosecution to conduct the required investigation in case of suspicion of collusion.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36626,
+    "source_ar": "المادة الثانية والخمسون:",
+    "target_en": "Article 52",
+    "source_ar_norm": "المادة الثانية والخمسون:",
+    "target_en_norm": "article 52",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36627,
+    "source_ar": "يوقف مأمور التنفيذ البيع على باقي أموال المدين إذا نتج مما بيع من أموال مبلغ كافٍ لوفاء الدين المحجوز بسببه، مضافًا إليه نفقات التنفيذ، أو أحضر المحجوز عليه المبلغ الواجب دفعه.",
+    "target_en": "The enforcement officer shall stop the sale of the remainder of the debtor’s property if the sale proceeds satisfy the debt for which the attachment is placed, in addition to the enforcement expenses, or if the defendant pays the due amount.",
+    "source_ar_norm": "يوقف مامور التنفيذ البيع علي باقي اموال المدين اذا نتج مما بيع من اموال مبلغ كاف لوفاء الدين المحجوز بسببه، مضافا اليه نفقات التنفيذ، او احضر المحجوز عليه المبلغ الواجب دفعه.",
+    "target_en_norm": "the enforcement officer shall stop the sale of the remainder of the debtor’s property if the sale proceeds satisfy the debt for which the attachment is placed, in addition to the enforcement expenses, or if the defendant pays the due amount.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36628,
+    "source_ar": "المادة الثالثة والخمسون:",
+    "target_en": "Article 53",
+    "source_ar_norm": "المادة الثالثة والخمسون:",
+    "target_en_norm": "article 53",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36629,
+    "source_ar": "1 - يحرر مأمور التنفيذ محضرًا يثبت فيه ما تم من إجراءات، واسم من رسا عليه المزاد، ومقدار الثمن.",
+    "target_en": "1. The enforcement officer shall prepare minutes recording procedures taken, name of winning bidder and auction price.",
+    "source_ar_norm": "1 - يحرر مامور التنفيذ محضرا يثبت فيه ما تم من اجراءات، واسم من رسا عليه المزاد، ومقدار الثمن.",
+    "target_en_norm": "1. the enforcement officer shall prepare minutes recording procedures taken, name of winning bidder and auction price.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36630,
+    "source_ar": "2 - يصدر قاضي التنفيذ قرارًا بترسية المزاد على من رسا عليه بعد تحصيل المبلغ لحساب محكمة التنفيذ، متضمنًا ملخص محضري الحجز والبيع، ويتضمن القرار تسليم المشتري المال المبيع، ويكون قرار البيع سندًا تنفيذيًا.",
+    "target_en": "2. The enforcement judge shall issue a decision declaring the winning bidder after depositing the amount in the court’s account. Such decision shall include summary of the minutes of the attachment and sale as well as delivery of sold property to the buyer. The sale decision shall be deemed an enforcement document.",
+    "source_ar_norm": "2 - يصدر قاضي التنفيذ قرارا بترسية المزاد علي من رسا عليه بعد تحصيل المبلغ لحساب محكمة التنفيذ، متضمنا ملخص محضري الحجز والبيع، ويتضمن القرار تسليم المشتري المال المبيع، ويكون قرار البيع سندا تنفيذيا.",
+    "target_en_norm": "2. the enforcement judge shall issue a decision declaring the winning bidder after depositing the amount in the court’s account. such decision shall include summary of the minutes of the attachment and sale as well as delivery of sold property to the buyer. the sale decision shall be deemed an enforcement document.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36631,
+    "source_ar": "المادة الرابعة والخمسون:",
+    "target_en": "Article 54",
+    "source_ar_norm": "المادة الرابعة والخمسون:",
+    "target_en_norm": "article 54",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36632,
+    "source_ar": "يكون قرار رسو المزاد مطهرًا للعقار من أي استحقاق تجاه من رسا عليه المزاد.",
+    "target_en": "The decision awarding the auction shall clear the property from any claims against the winning bidder.",
+    "source_ar_norm": "يكون قرار رسو المزاد مطهرا للعقار من اي استحقاق تجاه من رسا عليه المزاد.",
+    "target_en_norm": "the decision awarding the auction shall clear the property from any claims against the winning bidder.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36633,
+    "source_ar": "المادة الخامسة والخمسون:",
+    "target_en": "Article 55",
+    "source_ar_norm": "المادة الخامسة والخمسون:",
+    "target_en_norm": "article 55",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36634,
+    "source_ar": "يجرى بيع الأوراق المالية الخاضعة لنظام السوق المالية من خلال شخص مرخص له من هيئة السوق المالية بالوساطة في الأوراق المالية.",
+    "target_en": "Securities subject to Capital Market Law shall be sold by means of a broker licensed by the Capital Market Authority.",
+    "source_ar_norm": "يجري بيع الاوراق المالية الخاضعة لنظام السوق المالية من خلال شخص مرخص له من هيئة السوق المالية بالوساطة في الاوراق المالية.",
+    "target_en_norm": "securities subject to capital market law shall be sold by means of a broker licensed by the capital market authority.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36635,
+    "source_ar": "ويتم الاتفاق بين وزارة العدل وهيئة السوق المالية على وضع الضوابط اللازمة لبيع هذه الأوراق، بما يحقق عدالة السعر، وضمانات التنفيذ.",
+    "target_en": "The Ministry of Justice and the Capital Market Authority shall agree on necessary terms and conditions for the sale of such securities in a manner that ensures fair price and execution.",
+    "source_ar_norm": "ويتم الاتفاق بين وزارة العدل وهيئة السوق المالية علي وضع الضوابط اللازمة لبيع هذه الاوراق، بما يحقق عدالة السعر، وضمانات التنفيذ.",
+    "target_en_norm": "the ministry of justice and the capital market authority shall agree on necessary terms and conditions for the sale of such securities in a manner that ensures fair price and execution.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36636,
+    "source_ar": "المادة السادسة والخمسون:",
+    "target_en": "Article 56",
+    "source_ar_norm": "المادة السادسة والخمسون:",
+    "target_en_norm": "article 56",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36637,
+    "source_ar": "1 - تفتح حسابات مصرفية باسم المحكمة تودع فيها وتصرف منها أموال التنفيذ. وتحدد اللائحة أحكام الإيداع، والصرف، وإدارة هذه الحسابات.",
+    "target_en": "1. Bank accounts shall be opened in the name of the court for the deposit of enforcement proceeds and disbursement therefrom. The Regulations shall specify the provisions for deposit, disbursement and management of such accounts.",
+    "source_ar_norm": "1 - تفتح حسابات مصرفية باسم المحكمة تودع فيها وتصرف منها اموال التنفيذ. وتحدد اللائحة احكام الايداع، والصرف، وادارة هذه الحسابات.",
+    "target_en_norm": "1. bank accounts shall be opened in the name of the court for the deposit of enforcement proceeds and disbursement therefrom. the regulations shall specify the provisions for deposit, disbursement and management of such accounts.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36638,
+    "source_ar": "2 - تودع المعادن الثمينة والمجوهرات - وما في حكمها - في خزانة البنك الذي لديه حسابات محكمة التنفيذ.",
+    "target_en": "2. Precious metals, jewelry and the like shall be deposited in the safe of the bank in which the accounts of the enforcement court are opened.",
+    "source_ar_norm": "2 - تودع المعادن الثمينة والمجوهرات - وما في حكمها - في خزانة البنك الذي لديه حسابات محكمة التنفيذ.",
+    "target_en_norm": "2. precious metals, jewelry and the like shall be deposited in the safe of the bank in which the accounts of the enforcement court are opened.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36639,
+    "source_ar": "وتنظم اللائحة أحكام، وإجراءات تسهيل مشاركة البنوك في أعمال التنفيذ بعد الاتفاق بين الوزير ومحافظ مؤسسة النقد العربي السعودي على ذلك.",
+    "target_en": "The Regulations shall provide for the provisions and procedures facilitating the participation of banks in the enforcement procedures upon agreement between the Minister and the Governor of SAMA.",
+    "source_ar_norm": "وتنظم اللائحة احكام، واجراءات تسهيل مشاركة البنوك في اعمال التنفيذ بعد الاتفاق بين الوزير ومحافظ مؤسسة النقد العربي السعودي علي ذلك.",
+    "target_en_norm": "the regulations shall provide for the provisions and procedures facilitating the participation of banks in the enforcement procedures upon agreement between the minister and the governor of sama.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36640,
+    "source_ar": "الفصل الثالث: توزيع حصيلة التنفيذ",
+    "target_en": "Chapter 3: Distribution of Enforcement Proceeds",
+    "source_ar_norm": "الفصل الثالث: توزيع حصيلة التنفيذ",
+    "target_en_norm": "chapter 3: distribution of enforcement proceeds",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36641,
+    "source_ar": "المادة السابعة والخمسون:",
+    "target_en": "Article 57",
+    "source_ar_norm": "المادة السابعة والخمسون:",
+    "target_en_norm": "article 57",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36642,
+    "source_ar": "توزع حصيلة التنفيذ - بأمر من قاضي التنفيذ - على الدائنين الحاجزين، ومن يعد طرفًا في الإجراءات.",
+    "target_en": "Enforcement proceeds shall be distributed, by order of the enforcement judge, to claimant creditors and parties involved in the proceedings.",
+    "source_ar_norm": "توزع حصيلة التنفيذ - بامر من قاضي التنفيذ - علي الدائنين الحاجزين، ومن يعد طرفا في الاجراءات.",
+    "target_en_norm": "enforcement proceeds shall be distributed, by order of the enforcement judge, to claimant creditors and parties involved in the proceedings.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36643,
+    "source_ar": "المادة الثامنة والخمسون:",
+    "target_en": "Article 58",
+    "source_ar_norm": "المادة الثامنة والخمسون:",
+    "target_en_norm": "article 58",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36644,
+    "source_ar": "إذا كانت حصيلة التنفيذ لا تكفي للوفاء بجميع حقوق ذوي الشأن (الدائنين الحاجزين ومن يعد طرفًا في الإجراءات)، واتفق هؤلاء على تسوية ودية فيما بينهم لتوزيعها؛ يثبت قاضي التنفيذ اتفاقهم في محضر ويوقعه مأمور التنفيذ، والمنفذ لهم، والقاضي، وتكون لهذا المحضر قوة السند التنفيذي في مواجهتهم.",
+    "target_en": "If the enforcement proceeds are not sufficient to satisfy the due rights of concerned parties (claimant creditors and parties to the proceedings) and said parties agree to an amicable settlement between them regarding distribution of said proceeds, the enforcement judge shall record their agreement in minutes signed by the enforcement officer, claimants and parties to the proceedings, and the judge. These minutes shall be deemed an enforcement document against them.",
+    "source_ar_norm": "اذا كانت حصيلة التنفيذ لا تكفي للوفاء بجميع حقوق ذوي الشان (الدائنين الحاجزين ومن يعد طرفا في الاجراءات)، واتفق هؤلاء علي تسوية ودية فيما بينهم لتوزيعها؛ يثبت قاضي التنفيذ اتفاقهم في محضر ويوقعه مامور التنفيذ، والمنفذ لهم، والقاضي، وتكون لهذا المحضر قوة السند التنفيذي في مواجهتهم.",
+    "target_en_norm": "if the enforcement proceeds are not sufficient to satisfy the due rights of concerned parties (claimant creditors and parties to the proceedings) and said parties agree to an amicable settlement between them regarding distribution of said proceeds, the enforcement judge shall record their agreement in minutes signed by the enforcement officer, claimants and parties to the proceedings, and the judge. these minutes shall be deemed an enforcement document against them.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36645,
+    "source_ar": "المادة التاسعة والخمسون:",
+    "target_en": "Article 59",
+    "source_ar_norm": "المادة التاسعة والخمسون:",
+    "target_en_norm": "article 59",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36646,
+    "source_ar": "إذا لم تكن الحصيلة كافية، ولم يتفق ذوو الشأن على تسوية ودية لتوزيع الحصيلة؛ يثبت قاضي التنفيذ الاعتراض في محضر يوقعه القاضي، ومأمور التنفيذ، والأطراف ذوو الشأن، ويصدر قاضي التنفيذ حكمًا يتضمن توزيع الحصيلة بين الدائنين، وفقًا للأصول الشرعية والنظامية.",
+    "target_en": "If the proceeds are insufficient and the concerned parties fail to reach an amicable settlement for the distribution of the proceeds, this shall be recorded in minutes signed by the enforcement judge, the enforcement officer and concerned parties. The enforcement judge shall issue a judgment for the distribution of the proceeds among creditors in accordance with legal and Sharia principles.",
+    "source_ar_norm": "اذا لم تكن الحصيلة كافية، ولم يتفق ذوو الشان علي تسوية ودية لتوزيع الحصيلة؛ يثبت قاضي التنفيذ الاعتراض في محضر يوقعه القاضي، ومامور التنفيذ، والاطراف ذوو الشان، ويصدر قاضي التنفيذ حكما يتضمن توزيع الحصيلة بين الدائنين، وفقا للاصول الشرعية والنظامية.",
+    "target_en_norm": "if the proceeds are insufficient and the concerned parties fail to reach an amicable settlement for the distribution of the proceeds, this shall be recorded in minutes signed by the enforcement judge, the enforcement officer and concerned parties. the enforcement judge shall issue a judgment for the distribution of the proceeds among creditors in accordance with legal and sharia principles.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36647,
+    "source_ar": "الفصل الرابع: حجز ما للمدين لدى الغير",
+    "target_en": "Chapter 4: Garnishment",
+    "source_ar_norm": "الفصل الرابع: حجز ما للمدين لدي الغير",
+    "target_en_norm": "chapter 4: garnishment",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36648,
+    "source_ar": "المادة الستون:",
+    "target_en": "Article 60",
+    "source_ar_norm": "المادة الستون:",
+    "target_en_norm": "article 60",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36649,
+    "source_ar": "1- تحجز الأموال المستحقة للمدين تحت يد المنشأة المالية - التي تحددها اللائحة - من خلال السلطة الإشرافية، وفق الضوابط الآتية:",
+    "target_en": "1. Garnishment of funds owed to debtors held by a financial institution, which are specified by the Regulations, shall be carried out by the supervisory authority in accordance with the following conditions:",
+    "source_ar_norm": "1- تحجز الاموال المستحقة للمدين تحت يد المنشاة المالية - التي تحددها اللائحة - من خلال السلطة الاشرافية، وفق الضوابط الاتية:",
+    "target_en_norm": "1. garnishment of funds owed to debtors held by a financial institution, which are specified by the regulations, shall be carried out by the supervisory authority in accordance with the following conditions:",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36650,
+    "source_ar": "أ - يكون حجز الحسابات الجارية الدائنة بقيام المنشأة المالية بمنع صاحب الحساب من السحب من رصيده الدائن وما يضاف إليه من إيداعات لاحقة. وللمنشأة المالية - بعد موافقة قاضي التنفيذ - خصم الالتزامات المدينة الناشئة على الحساب قبل الحجز على رصيده.",
+    "target_en": "a) Garnishment of a credit current account shall be made by the financial institution barring the holder of the account from withdrawing from the balance or any incoming deposits. The financial institution may, upon approval of the enforcement judge, deduct debt liabilities receivable on the account before garnishing the balance.",
+    "source_ar_norm": "ا - يكون حجز الحسابات الجارية الدائنة بقيام المنشاة المالية بمنع صاحب الحساب من السحب من رصيده الدائن وما يضاف اليه من ايداعات لاحقة. وللمنشاة المالية - بعد موافقة قاضي التنفيذ - خصم الالتزامات المدينة الناشئة علي الحساب قبل الحجز علي رصيده.",
+    "target_en_norm": "a) garnishment of a credit current account shall be made by the financial institution barring the holder of the account from withdrawing from the balance or any incoming deposits. the financial institution may, upon approval of the enforcement judge, deduct debt liabilities receivable on the account before garnishing the balance.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36651,
+    "source_ar": "ب - يكون حجز الحسابات الاستثمارية بقيام المنشأة المالية بمنع صاحب الحساب من السحب من الرصيد النقدي الدائن وما يضاف إليه من إيداعات. وإذا كان الرصيد النقدي الدائن مخصصًا للوفاء بما يترتب على المراكز أو العمليات الاستثمارية عند تاريخ استحقاقها، والتي أنشئت قبل إبلاغ المنشأة المالية بالحجز، فلا تخضع لإجراءات الحجز إلا بعد إقفال جميع المراكز.",
+    "target_en": "b) Garnishment of investment accounts shall be made by the financial institution barring the holder of the account from withdrawing from the cash credit balance or any incoming deposits. If the cash credit balance is allocated for payments for positions or other investments on their due dates, which are established before notifying the financial institution of the garnishment, they shall not be subject to garnishment proceedings except upon closure of all positions.",
+    "source_ar_norm": "ب - يكون حجز الحسابات الاستثمارية بقيام المنشاة المالية بمنع صاحب الحساب من السحب من الرصيد النقدي الدائن وما يضاف اليه من ايداعات. واذا كان الرصيد النقدي الدائن مخصصا للوفاء بما يترتب علي المراكز او العمليات الاستثمارية عند تاريخ استحقاقها، والتي انشئت قبل ابلاغ المنشاة المالية بالحجز، فلا تخضع لاجراءات الحجز الا بعد اقفال جميع المراكز.",
+    "target_en_norm": "b) garnishment of investment accounts shall be made by the financial institution barring the holder of the account from withdrawing from the cash credit balance or any incoming deposits. if the cash credit balance is allocated for payments for positions or other investments on their due dates, which are established before notifying the financial institution of the garnishment, they shall not be subject to garnishment proceedings except upon closure of all positions.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36652,
+    "source_ar": "ج - يكون الحجز على الودائع لأَجَل بعدم تمكين المدين من سحبها مع استمرار تنميتها على الوجه الشرعي إن رغب المدين في ذلك، مع إشعار قاضي التنفيذ بطبيعتها، وتاريخ استحقاقها، وما يترتب على كسرها.",
+    "target_en": "c) Garnishment of term deposits shall be carried out by barring the debtor from withdrawal while allowing said deposits gain Sharia-compliant interests if the debtor so requests, notifying the enforcement judge of their nature, due date and consequences of early withdrawal.",
+    "source_ar_norm": "ج - يكون الحجز علي الودائع لاجل بعدم تمكين المدين من سحبها مع استمرار تنميتها علي الوجه الشرعي ان رغب المدين في ذلك، مع اشعار قاضي التنفيذ بطبيعتها، وتاريخ استحقاقها، وما يترتب علي كسرها.",
+    "target_en_norm": "c) garnishment of term deposits shall be carried out by barring the debtor from withdrawal while allowing said deposits gain sharia-compliant interests if the debtor so requests, notifying the enforcement judge of their nature, due date and consequences of early withdrawal.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36653,
+    "source_ar": "د - يكون حجز موجودات خزائن الأمانات بانتقال مأمور التنفيذ إلى المنشأة المالية، وتفتح الخزائن، وتجرد محتوياتها، ويوقع المحضر مأمور التنفيذ وموظف المنشأة المالية، والمدين - إذا أمكن إحضاره - ويسلم مفتاح الخزائن الآخر الخاص بالمدين إلى محكمة التنفيذ.",
+    "target_en": "d) Garnishment of assets deposited in safe deposit boxes shall be carried out by opening the safe deposit boxes and listing their contents in the presence of the enforcement officer at the financial institution. Minutes to this effect shall be signed by the enforcement officer, the financial institution officer and, if possible, the debtor. The debtor’s key of the safe deposit box shall be delivered to the enforcement court.",
+    "source_ar_norm": "د - يكون حجز موجودات خزائن الامانات بانتقال مامور التنفيذ الي المنشاة المالية، وتفتح الخزائن، وتجرد محتوياتها، ويوقع المحضر مامور التنفيذ وموظف المنشاة المالية، والمدين - اذا امكن احضاره - ويسلم مفتاح الخزائن الاخر الخاص بالمدين الي محكمة التنفيذ.",
+    "target_en_norm": "d) garnishment of assets deposited in safe deposit boxes shall be carried out by opening the safe deposit boxes and listing their contents in the presence of the enforcement officer at the financial institution. minutes to this effect shall be signed by the enforcement officer, the financial institution officer and, if possible, the debtor. the debtor’s key of the safe deposit box shall be delivered to the enforcement court.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36654,
+    "source_ar": "هـ - تحجز تعويضات التأمـين بالتأشير على سجل حقوق المدين في السجلات بمحتوى السند التنفيذي، ويسلم أي تعويض مستحق، أو سيستحق للمدين إلى حساب محكمة التنفيذ.",
+    "target_en": "e) Garnishment of insurance claims shall be made by recording the content of the enforcement document on the register of the debtor’s entitlements. Any due or future compensation shall be deposited in the enforcement court’s account.",
+    "source_ar_norm": "ه - تحجز تعويضات التامين بالتاشير علي سجل حقوق المدين في السجلات بمحتوي السند التنفيذي، ويسلم اي تعويض مستحق، او سيستحق للمدين الي حساب محكمة التنفيذ.",
+    "target_en_norm": "e) garnishment of insurance claims shall be made by recording the content of the enforcement document on the register of the debtor’s entitlements. any due or future compensation shall be deposited in the enforcement court’s account.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36655,
+    "source_ar": "و- تضع السلطات الإشرافية على المنشآت المالية الآلية اللازمة التي تضمن سرعة تنفيذ أمر قاضي التنفيذ.",
+    "target_en": "f) The authorities overseeing financial institutions shall set necessary procedures that ensure prompt execution of the enforcement judge’s order.",
+    "source_ar_norm": "و- تضع السلطات الاشرافية علي المنشات المالية الالية اللازمة التي تضمن سرعة تنفيذ امر قاضي التنفيذ.",
+    "target_en_norm": "f) the authorities overseeing financial institutions shall set necessary procedures that ensure prompt execution of the enforcement judge’s order.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36656,
+    "source_ar": "2 - يبلغ قاضي التنفيذ بنتيجة الحجز خلال ثلاثة أيام عمل من تسلم أمر الحجز.",
+    "target_en": "2. The enforcement judge shall be notified of the outcome of garnishment within three working days from the date of receipt of the garnishment order.",
+    "source_ar_norm": "2 - يبلغ قاضي التنفيذ بنتيجة الحجز خلال ثلاثة ايام عمل من تسلم امر الحجز.",
+    "target_en_norm": "2. the enforcement judge shall be notified of the outcome of garnishment within three working days from the date of receipt of the garnishment order.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36657,
+    "source_ar": "3 - يأمر قاضي التنفيذ السلطة المشرفة على المنشأة المالية بأن تحول إلى حساب المحكمة الأرصدة النقدية الدائنة المستحقة للمدين الواردة في الفقرات (أ) و (ب) و (ج) و (د) و (هـ) من الفقرة (1) من هذه المادة بمقدار ما يفي بالدين.",
+    "target_en": "3. The enforcement judge shall order the authority overseeing the financial institution to transfer to the court’s account the debtor’s due cash credit balances referred to in paragraph 1 (a, b, c, d and e) of this Article in an amount sufficient to satisfy the debt.",
+    "source_ar_norm": "3 - يامر قاضي التنفيذ السلطة المشرفة علي المنشاة المالية بان تحول الي حساب المحكمة الارصدة النقدية الدائنة المستحقة للمدين الواردة في الفقرات (ا) و (ب) و (ج) و (د) و (ه) من الفقرة (1) من هذه المادة بمقدار ما يفي بالدين.",
+    "target_en_norm": "3. the enforcement judge shall order the authority overseeing the financial institution to transfer to the court’s account the debtor’s due cash credit balances referred to in paragraph 1 (a, b, c, d and e) of this article in an amount sufficient to satisfy the debt.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36658,
+    "source_ar": "المادة الحادية والستون:",
+    "target_en": "Article 61",
+    "source_ar_norm": "المادة الحادية والستون:",
+    "target_en_norm": "article 61",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36659,
+    "source_ar": "1- تُحجَز حصص الملكية في الشركات، والأسهم غير المدرجة - عن طريق وزارة التجارة والصناعة - بالتأشير على سجل الملكية، والتأشير بمحتوى السند التنفيذي على سجل الشركة.",
+    "target_en": "1. Garnishment of a company’s equity shares and unlisted shares shall be carried out by the Ministry of Commerce and Industry by endorsement on the ownership registry and recording the content of the enforcement document on the company’s register.",
+    "source_ar_norm": "1- تحجز حصص الملكية في الشركات، والاسهم غير المدرجة - عن طريق وزارة التجارة والصناعة - بالتاشير علي سجل الملكية، والتاشير بمحتوي السند التنفيذي علي سجل الشركة.",
+    "target_en_norm": "1. garnishment of a company’s equity shares and unlisted shares shall be carried out by the ministry of commerce and industry by endorsement on the ownership registry and recording the content of the enforcement document on the company’s register.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36660,
+    "source_ar": "2- تُحجَز الأوراق المالية - عن طريق هيئة السوق المالية - وتُبلغ قاضي التنفيذ بنتيجة الحجز خلال ثلاثة أيام عمل من تسلم أمر الحجز، وفق الضوابط الآتية:",
+    "target_en": "2. Garnishment of securities shall be carried out by the Capital Market Authority which shall, within three working days from the date of receipt of the garnishment order, notify the enforcement judge of the outcome of garnishment, in accordance with the following conditions:",
+    "source_ar_norm": "2- تحجز الاوراق المالية - عن طريق هيئة السوق المالية - وتبلغ قاضي التنفيذ بنتيجة الحجز خلال ثلاثة ايام عمل من تسلم امر الحجز، وفق الضوابط الاتية:",
+    "target_en_norm": "2. garnishment of securities shall be carried out by the capital market authority which shall, within three working days from the date of receipt of the garnishment order, notify the enforcement judge of the outcome of garnishment, in accordance with the following conditions:",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36661,
+    "source_ar": "أ - يكون حجز الأوراق المالية بمنع المدين من التصرف فيها.",
+    "target_en": "a) Garnishment of securities shall be made by barring the debtor from disposal thereof.",
+    "source_ar_norm": "ا - يكون حجز الاوراق المالية بمنع المدين من التصرف فيها.",
+    "target_en_norm": "a) garnishment of securities shall be made by barring the debtor from disposal thereof.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36662,
+    "source_ar": "ب - يكون حجز المراكز القائمة للأوراق المالية بمنع المدين من التصرف في المبالغ المستحقة له بعد إغلاقها.",
+    "target_en": "b) Garnishment of open positions of securities shall be made through barring the debtor from disposal of due amounts following closure thereof.",
+    "source_ar_norm": "ب - يكون حجز المراكز القائمة للاوراق المالية بمنع المدين من التصرف في المبالغ المستحقة له بعد اغلاقها.",
+    "target_en_norm": "b) garnishment of open positions of securities shall be made through barring the debtor from disposal of due amounts following closure thereof.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36663,
+    "source_ar": "المادة الثانية والستون:",
+    "target_en": "Article 62",
+    "source_ar_norm": "المادة الثانية والستون:",
+    "target_en_norm": "article 62",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36664,
+    "source_ar": "تحجز الأوراق التجارية، وفق الضوابط الآتية:",
+    "target_en": "Garnishment of negotiable instruments shall be made according to the following:",
+    "source_ar_norm": "تحجز الاوراق التجارية، وفق الضوابط الاتية:",
+    "target_en_norm": "garnishment of negotiable instruments shall be made according to the following:",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36665,
+    "source_ar": "1 - إذا كان الشيك تحت يد المدين المستفيد منه، فيحرر المأمور محضر الحجز، وتحصل القيمة أو المتوافر منها، وتودع في حساب المحكمة.",
+    "target_en": "1. If the check is held by the payee debtor, the enforcement officer shall record the garnishment minutes, and the value or the available part thereof shall be collected and deposited in the court’s account.",
+    "source_ar_norm": "1 - اذا كان الشيك تحت يد المدين المستفيد منه، فيحرر المامور محضر الحجز، وتحصل القيمة او المتوافر منها، وتودع في حساب المحكمة.",
+    "target_en_norm": "1. if the check is held by the payee debtor, the enforcement officer shall record the garnishment minutes, and the value or the available part thereof shall be collected and deposited in the court’s account.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36666,
+    "source_ar": "2 - يكون حجز قيمة الشيك المظهر بعد علم المدين بأمر التنفيذ عن طريق قيام البنك المسحوب عليه - عند تقدم المظهر له لتحصيل قيمة الشيك - بحجز القيمة، وإيداعها في حساب المحكمة.",
+    "target_en": "2. Garnishment of the value of the endorsed check and its deposit in the court’s account shall be carried out by the drawee bank when the debtor is notified of the enforcement order and the check is presented by the endorsee for collection.",
+    "source_ar_norm": "2 - يكون حجز قيمة الشيك المظهر بعد علم المدين بامر التنفيذ عن طريق قيام البنك المسحوب عليه - عند تقدم المظهر له لتحصيل قيمة الشيك - بحجز القيمة، وايداعها في حساب المحكمة.",
+    "target_en_norm": "2. garnishment of the value of the endorsed check and its deposit in the court’s account shall be carried out by the drawee bank when the debtor is notified of the enforcement order and the check is presented by the endorsee for collection.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36667,
+    "source_ar": "3 - إذا لم يتوافر مقابل الوفاء بالشيك محل الحجز، فيفوض قاضي التنفيذ الدائن في الحلول محل المدين؛ لمطالبة الساحب، أو المظهر بقيمة الشيك، وتودع القيمة في حساب المحكمة. وفي حال معارضة الساحب، أو المظهر في الوفاء، فعليه التقدم إلى الجهة القضائية المختصة بدعوى المعارضة خلال عشرة أيام من مطالبته بالوفاء، وإشعار قاضي التنفيذ بإجراءات نظر الدعوى وما تنتهي إليه. وإذا انتهت المدة المذكورة دون التقدم بدعوى المعارضة، وجب عليه الوفاء بقيمة الشيك للمحكمة.",
+    "target_en": "3. If the check is dishonored for lack of sufficient funds, the enforcement judge shall subrogate the right of the debtor to the creditor to claim payment from the drawer or the endorser of the check and the amount shall be deposited in the court’s account. In case the drawer or the endorser refuses to pay, the creditor may file a suit with the competent judicial authority of his objection within 10 days from the date of claim, and shall notify the enforcement judge of the proceedings of the suit and its outcome. If said period ends without such suit, he must pay the value of the check to the court.",
+    "source_ar_norm": "3 - اذا لم يتوافر مقابل الوفاء بالشيك محل الحجز، فيفوض قاضي التنفيذ الدائن في الحلول محل المدين؛ لمطالبة الساحب، او المظهر بقيمة الشيك، وتودع القيمة في حساب المحكمة. وفي حال معارضة الساحب، او المظهر في الوفاء، فعليه التقدم الي الجهة القضائية المختصة بدعوي المعارضة خلال عشرة ايام من مطالبته بالوفاء، واشعار قاضي التنفيذ باجراءات نظر الدعوي وما تنتهي اليه. واذا انتهت المدة المذكورة دون التقدم بدعوي المعارضة، وجب عليه الوفاء بقيمة الشيك للمحكمة.",
+    "target_en_norm": "3. if the check is dishonored for lack of sufficient funds, the enforcement judge shall subrogate the right of the debtor to the creditor to claim payment from the drawer or the endorser of the check and the amount shall be deposited in the court’s account. in case the drawer or the endorser refuses to pay, the creditor may file a suit with the competent judicial authority of his objection within 10 days from the date of claim, and shall notify the enforcement judge of the proceedings of the suit and its outcome. if said period ends without such suit, he must pay the value of the check to the court.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36668,
+    "source_ar": "4 - يكون حجز السند لأمر، والكمبيالة المستحقة الدفع التي في حيازة المدين بتحرير المأمور لمحضر الحجز، وتودع القيمة التي تضمنتها الورقة التجارية في حساب المحكمة، وإذا كانت مؤجلة، أُجِّـل التحصيل إلى حين حلول أجلها.",
+    "target_en": "4. Garnishment of promissory notes and bills of exchange in the possession of the debtor shall be through drafting the garnishment minutes by the enforcement officer. The amount stated in the negotiable instruments shall be deposited in the court’s account and if payment is deferred, collection shall be deferred until maturity date.",
+    "source_ar_norm": "4 - يكون حجز السند لامر، والكمبيالة المستحقة الدفع التي في حيازة المدين بتحرير المامور لمحضر الحجز، وتودع القيمة التي تضمنتها الورقة التجارية في حساب المحكمة، واذا كانت مؤجلة، اجل التحصيل الي حين حلول اجلها.",
+    "target_en_norm": "4. garnishment of promissory notes and bills of exchange in the possession of the debtor shall be through drafting the garnishment minutes by the enforcement officer. the amount stated in the negotiable instruments shall be deposited in the court’s account and if payment is deferred, collection shall be deferred until maturity date.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36669,
+    "source_ar": "5 - إذا عارض أو اعترض الساحب أو المظهر في السند لأمر، أو الكمبيالة على حق المدين المستفيد في القيمة، فعليه إقامة دعوى المعارضة وفق ما ذكر في الفقرة (3) من هذه المادة.",
+    "target_en": "5. If the drawer or the endorser challenges the beneficiary debtor’s entitlement to the value of the promissory notes or bills of exchange, he shall file a challenge suit in accordance with paragraph 3 of this Article.",
+    "source_ar_norm": "5 - اذا عارض او اعترض الساحب او المظهر في السند لامر، او الكمبيالة علي حق المدين المستفيد في القيمة، فعليه اقامة دعوي المعارضة وفق ما ذكر في الفقرة (3) من هذه المادة.",
+    "target_en_norm": "5. if the drawer or the endorser challenges the beneficiary debtor’s entitlement to the value of the promissory notes or bills of exchange, he shall file a challenge suit in accordance with paragraph 3 of this article.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36670,
+    "source_ar": "المادة الثالثة والستون:",
+    "target_en": "Article 63",
+    "source_ar_norm": "المادة الثالثة والستون:",
+    "target_en_norm": "article 63",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36671,
+    "source_ar": "يكون حجـز الأموال التي تستحق للمدين مستقبلاً تحت يد الملتزم بدفع تلك الأموال، ويقوم مأمور التنفيذ، والجهة الملتزمة، ومستحق تلك الأموال بتحرير محضر بتلك الأموال وتاريخ استحقاقها، وتودع تلك الأموال في حساب المحكمة سواء أكانت نقودًا، أم منقولاً، أم عقارًا، بحسب الضوابط الواردة في هذا النظام لكل نوع منها.",
+    "target_en": "Garnishment of funds due to the debtor in the future shall be made through the party obligated to pay such funds. The enforcement officer, the party obligated to pay such funds and the creditor shall draft minutes of these funds and their due date. Such funds shall be deposited in the court’s account, whether they are cash, movables or real estate, in accordance with the conditions provided for in this Law for each type.",
+    "source_ar_norm": "يكون حجز الاموال التي تستحق للمدين مستقبلا تحت يد الملتزم بدفع تلك الاموال، ويقوم مامور التنفيذ، والجهة الملتزمة، ومستحق تلك الاموال بتحرير محضر بتلك الاموال وتاريخ استحقاقها، وتودع تلك الاموال في حساب المحكمة سواء اكانت نقودا، ام منقولا، ام عقارا، بحسب الضوابط الواردة في هذا النظام لكل نوع منها.",
+    "target_en_norm": "garnishment of funds due to the debtor in the future shall be made through the party obligated to pay such funds. the enforcement officer, the party obligated to pay such funds and the creditor shall draft minutes of these funds and their due date. such funds shall be deposited in the court’s account, whether they are cash, movables or real estate, in accordance with the conditions provided for in this law for each type.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36672,
+    "source_ar": "المادة الرابعة والستون:",
+    "target_en": "Article 64",
+    "source_ar_norm": "المادة الرابعة والستون:",
+    "target_en_norm": "article 64",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36673,
+    "source_ar": "يكون حجز الملكية الفكرية - عن طريق الجهة المختصة بتسجيل الملكية الفكرية - بالتأشير على سجلها بمضمون السند التنفيذي، ويبلغ قاضي التنفيذ بنتيجة الحجز خلال ثلاثة أيام عمل من تسلم أمر الحجز.",
+    "target_en": "Attachment of intellectual property shall be made through the competent authority in charge of registering such property by recording the content of the enforcement document in the registry. The enforcement judge shall be notified as to whether or not attachment is carried out within three working days from date of receipt of the attachment order.",
+    "source_ar_norm": "يكون حجز الملكية الفكرية - عن طريق الجهة المختصة بتسجيل الملكية الفكرية - بالتاشير علي سجلها بمضمون السند التنفيذي، ويبلغ قاضي التنفيذ بنتيجة الحجز خلال ثلاثة ايام عمل من تسلم امر الحجز.",
+    "target_en_norm": "attachment of intellectual property shall be made through the competent authority in charge of registering such property by recording the content of the enforcement document in the registry. the enforcement judge shall be notified as to whether or not attachment is carried out within three working days from date of receipt of the attachment order.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36674,
+    "source_ar": "المادة الخامسة والستون:",
+    "target_en": "Article 65",
+    "source_ar_norm": "المادة الخامسة والستون:",
+    "target_en_norm": "article 65",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36675,
+    "source_ar": "يجوز للدائن أن يوقع الحجز تحت يد نفسه على ما يكون مدينًا به لمدينه، ويكون الحجز بإعلان إلى المدين يشتمل على البيانات الواجب ذكرها في ورقة إبلاغ الحجز. وفي الأحوال التي يكون فيها الحجز بأمر من قاضي التنفيذ، يجب على طالب الحجز - خلال الأيام العشرة التالية لإعلان المدين بالحجز - أن يرفع أمام الجهة القضائية المختصة الدعوى بثبوت الحق وصحة الحجز، وإلا عد الحجز كأن لم يكن.",
+    "target_en": "A creditor may impose an attachment on assets in his possession owed to his debtor by notifying the debtor. Such notification shall include the necessary information to be stated in an attachment notification. In cases where attachment is imposed by order of the enforcement judge, the claimant must, within the 10 days following the attachment notification date, file a suit before the competent judicial authority to establish entitlement and validity of the attachment; otherwise, the attachment shall be deemed void.",
+    "source_ar_norm": "يجوز للدائن ان يوقع الحجز تحت يد نفسه علي ما يكون مدينا به لمدينه، ويكون الحجز باعلان الي المدين يشتمل علي البيانات الواجب ذكرها في ورقة ابلاغ الحجز. وفي الاحوال التي يكون فيها الحجز بامر من قاضي التنفيذ، يجب علي طالب الحجز - خلال الايام العشرة التالية لاعلان المدين بالحجز - ان يرفع امام الجهة القضائية المختصة الدعوي بثبوت الحق وصحة الحجز، والا عد الحجز كان لم يكن.",
+    "target_en_norm": "a creditor may impose an attachment on assets in his possession owed to his debtor by notifying the debtor. such notification shall include the necessary information to be stated in an attachment notification. in cases where attachment is imposed by order of the enforcement judge, the claimant must, within the 10 days following the attachment notification date, file a suit before the competent judicial authority to establish entitlement and validity of the attachment; otherwise, the attachment shall be deemed void.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36676,
+    "source_ar": "المادة السادسة والستون:",
+    "target_en": "Article 66",
+    "source_ar_norm": "المادة السادسة والستون:",
+    "target_en_norm": "article 66",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36677,
+    "source_ar": "إذا كان للمحجوز لديه أكثر من فرع، فيعد إبلاغ الحجز لأي فرع من تلك الفروع منتجًا لآثاره في مواجهة المحجوز لديه.",
+    "target_en": "If the garnishee has more than one branch, the notification to any branch shall be deemed effective against the garnishee.",
+    "source_ar_norm": "اذا كان للمحجوز لديه اكثر من فرع، فيعد ابلاغ الحجز لاي فرع من تلك الفروع منتجا لاثاره في مواجهة المحجوز لديه.",
+    "target_en_norm": "if the garnishee has more than one branch, the notification to any branch shall be deemed effective against the garnishee.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36678,
+    "source_ar": "المادة السابعة والستون:",
+    "target_en": "Article 67",
+    "source_ar_norm": "المادة السابعة والستون:",
+    "target_en_norm": "article 67",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36679,
+    "source_ar": "إذا تصرف المحجوز لديه في المال المحجوز بخلاف أمر قاضي التنفيذ؛ وجب على قاضي التنفيذ - بناءً على طلب الحاجز - التنفيذ على مال المحجوز لديه بمقدار المال.",
+    "target_en": "If the garnishee disposes of the attached property in a manner contrary to the order of the enforcement judge, said judge shall, upon the claimant’s request, enforce against the garnishee’s property for a value equal to the attached property.",
+    "source_ar_norm": "اذا تصرف المحجوز لديه في المال المحجوز بخلاف امر قاضي التنفيذ؛ وجب علي قاضي التنفيذ - بناء علي طلب الحاجز - التنفيذ علي مال المحجوز لديه بمقدار المال.",
+    "target_en_norm": "if the garnishee disposes of the attached property in a manner contrary to the order of the enforcement judge, said judge shall, upon the claimant’s request, enforce against the garnishee’s property for a value equal to the attached property.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36680,
+    "source_ar": "الباب الرابع: الفصل الأول: التنفيذ المباشر",
+    "target_en": "Part 4 Chapter 1: Direct Execution",
+    "source_ar_norm": "الباب الرابع: الفصل الاول: التنفيذ المباشر",
+    "target_en_norm": "part 4 chapter 1: direct execution",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36681,
+    "source_ar": "المادة الثامنة والستون:",
+    "target_en": "Article 68",
+    "source_ar_norm": "المادة الثامنة والستون:",
+    "target_en_norm": "article 68",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36682,
+    "source_ar": "إذا كان محل التنفيذ فعلاً أو امتناعًا عن فعل ولم يقم المنفذ ضده بتنفيذ التزامه خلال خمسة أيام من تكليفه بذلك وفقًا لأحكام هذا النظام، فعلى قاضي التنفيذ الأمر باستعمال القوة المختصة (الشرطة) للقيام بما يلزم من إجراءات للتنفيذ، وذلك ما لم يتطلب التنفيذ أن يقوم به المدين بنفسه.",
+    "target_en": "If the subject of the execution is an act or omission and the party subject of the enforcement fails to execute within five days from such order in accordance with provisions of this Law, the enforcement judge shall order the use of force (the police) to take necessary measures for execution unless execution requires the debtor to carry it out himself.",
+    "source_ar_norm": "اذا كان محل التنفيذ فعلا او امتناعا عن فعل ولم يقم المنفذ ضده بتنفيذ التزامه خلال خمسة ايام من تكليفه بذلك وفقا لاحكام هذا النظام، فعلي قاضي التنفيذ الامر باستعمال القوة المختصة (الشرطة) للقيام بما يلزم من اجراءات للتنفيذ، وذلك ما لم يتطلب التنفيذ ان يقوم به المدين بنفسه.",
+    "target_en_norm": "if the subject of the execution is an act or omission and the party subject of the enforcement fails to execute within five days from such order in accordance with provisions of this law, the enforcement judge shall order the use of force (the police) to take necessary measures for execution unless execution requires the debtor to carry it out himself.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36683,
+    "source_ar": "المادة التاسعة والستون:",
+    "target_en": "Article 69",
+    "source_ar_norm": "المادة التاسعة والستون:",
+    "target_en_norm": "article 69",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36684,
+    "source_ar": "إذا تعذر التنفيذ باستخدام القوة المختصة، أو اقتضى التنفيذ قيام المدين به بنفسه ولم يقم بذلك، فلقاضي التنفيذ أن يصدر حكمًا بغرامة مالية لا تزيد على عشرة آلاف ريال يوميًا تودع في حساب المحكمة عن كل يوم يتأخر فيه المنفذ ضده عن التنفيذ، ولقاضي التنفيذ الحق في إلغاء الغرامة، أو جزء منها إذا بادر المنفذ ضده بالتنفيذ.",
+    "target_en": "If the use of force is not feasible or if execution necessitates that it is carried out by the debtor himself but he fails to do so, the enforcement judge shall issue a judgment imposing a fine not exceeding 10,000 riyals daily to be deposited in the court’s account. The enforcement judge may annul the fine or part thereof if the party subject of the enforcement proceeds with execution.",
+    "source_ar_norm": "اذا تعذر التنفيذ باستخدام القوة المختصة، او اقتضي التنفيذ قيام المدين به بنفسه ولم يقم بذلك، فلقاضي التنفيذ ان يصدر حكما بغرامة مالية لا تزيد علي عشرة الاف ريال يوميا تودع في حساب المحكمة عن كل يوم يتاخر فيه المنفذ ضده عن التنفيذ، ولقاضي التنفيذ الحق في الغاء الغرامة، او جزء منها اذا بادر المنفذ ضده بالتنفيذ.",
+    "target_en_norm": "if the use of force is not feasible or if execution necessitates that it is carried out by the debtor himself but he fails to do so, the enforcement judge shall issue a judgment imposing a fine not exceeding 10,000 riyals daily to be deposited in the court’s account. the enforcement judge may annul the fine or part thereof if the party subject of the enforcement proceeds with execution.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36685,
+    "source_ar": "المادة السبعون:",
+    "target_en": "Article 70",
+    "source_ar_norm": "المادة السبعون:",
+    "target_en_norm": "article 70",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36686,
+    "source_ar": "إذا تعذر استخدام القوة المختصة لإجراء التنفيذ، أو إذا فرضت غرامة مالية على المنفذ ضده ولم ينفذ خلال المدة التي يحددها قاضي التنفيذ، جاز له أن يصدر أمرًا بحبس المنفذ ضده لإجباره على التنفيذ.",
+    "target_en": "If the use of force to carry out execution is not feasible or if a fine is imposed on the debtor and he fails to comply with the enforcement order within the period set by the enforcement judge, said judge may issue an order to imprison the debtor to compel him to comply with the order.",
+    "source_ar_norm": "اذا تعذر استخدام القوة المختصة لاجراء التنفيذ، او اذا فرضت غرامة مالية علي المنفذ ضده ولم ينفذ خلال المدة التي يحددها قاضي التنفيذ، جاز له ان يصدر امرا بحبس المنفذ ضده لاجباره علي التنفيذ.",
+    "target_en_norm": "if the use of force to carry out execution is not feasible or if a fine is imposed on the debtor and he fails to comply with the enforcement order within the period set by the enforcement judge, said judge may issue an order to imprison the debtor to compel him to comply with the order.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36687,
+    "source_ar": "المادة الحادية والسبعون:",
+    "target_en": "Article 71",
+    "source_ar_norm": "المادة الحادية والسبعون:",
+    "target_en_norm": "article 71",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36688,
+    "source_ar": "تسري أحكام التنفيذ المباشر على الممثل النظامي للشخص المعنوي الخاص، أو المتسبب في إعاقة التنفيذ من منسوبي الشخص المعنوي الخاص.",
+    "target_en": "Provisions of direct execution shall apply to the legal representative of the private corporate person or the person impeding execution from among the personnel of said private corporate person.",
+    "source_ar_norm": "تسري احكام التنفيذ المباشر علي الممثل النظامي للشخص المعنوي الخاص، او المتسبب في اعاقة التنفيذ من منسوبي الشخص المعنوي الخاص.",
+    "target_en_norm": "provisions of direct execution shall apply to the legal representative of the private corporate person or the person impeding execution from among the personnel of said private corporate person.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36689,
+    "source_ar": "المادة الثانية والسبعون:",
+    "target_en": "Article 72",
+    "source_ar_norm": "المادة الثانية والسبعون:",
+    "target_en_norm": "article 72",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36690,
+    "source_ar": "يكون تنفيذ إخلاء العقار بخروج المأمور إلى موقع العقار في اليوم التالي لمضي خمسة أيام من تاريخ الإبلاغ بأمر التنفيذ، ويقـوم المأمور بتسليم العقار للمنفذ له، وله استخدام القوة الجبرية لدخول العقار إذا استدعى الأمر ذلك.",
+    "target_en": "Eviction of the occupants of a real estate shall be carried out in the presence of the enforcement officer at the location of the real estate on the day following the lapse of five days from the date of notification of the enforcement order. The enforcement officer shall hand over the real estate to the creditor and he may use force to enter the real estate if necessary.",
+    "source_ar_norm": "يكون تنفيذ اخلاء العقار بخروج المامور الي موقع العقار في اليوم التالي لمضي خمسة ايام من تاريخ الابلاغ بامر التنفيذ، ويقوم المامور بتسليم العقار للمنفذ له، وله استخدام القوة الجبرية لدخول العقار اذا استدعي الامر ذلك.",
+    "target_en_norm": "eviction of the occupants of a real estate shall be carried out in the presence of the enforcement officer at the location of the real estate on the day following the lapse of five days from the date of notification of the enforcement order. the enforcement officer shall hand over the real estate to the creditor and he may use force to enter the real estate if necessary.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36691,
+    "source_ar": "وإذا لم يحضر من بيده العقار، أو امتنع عن تسلم المنقولات التابعـة له، فتسلم هذه المنقولات إلى الخازن القضائي، ويأمر قاضي التنفيذ ببيعها في المزاد بعد شهرين ما لم يتسلمها الحائز، وتوضع القيمة في حساب المحكمة.",
+    "target_en": "If the holder of the real estate fails to attend or refuses to receive movables belonging to him, said movables shall be handed over to the judicial custodian and the enforcement judge shall order selling them in an auction after two months, unless received by the possessor, and the amount shall be deposited in the court’s account.",
+    "source_ar_norm": "واذا لم يحضر من بيده العقار، او امتنع عن تسلم المنقولات التابعة له، فتسلم هذه المنقولات الي الخازن القضائي، ويامر قاضي التنفيذ ببيعها في المزاد بعد شهرين ما لم يتسلمها الحائز، وتوضع القيمة في حساب المحكمة.",
+    "target_en_norm": "if the holder of the real estate fails to attend or refuses to receive movables belonging to him, said movables shall be handed over to the judicial custodian and the enforcement judge shall order selling them in an auction after two months, unless received by the possessor, and the amount shall be deposited in the court’s account.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36692,
+    "source_ar": "وإذا كان المنفذ له دائنًا للحائز، فتطبق أحكام هذا النظام على منقولات الحائز المدين.",
+    "target_en": "If the possessor is indebted to the creditor, the provisions of this Law shall apply to his movables.",
+    "source_ar_norm": "واذا كان المنفذ له دائنا للحائز، فتطبق احكام هذا النظام علي منقولات الحائز المدين.",
+    "target_en_norm": "if the possessor is indebted to the creditor, the provisions of this law shall apply to his movables.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36693,
+    "source_ar": "الفصل الثاني: التنفيذ في مسائل الأحوال الشخصية",
+    "target_en": "Chapter 2: Enforcement in Family-Related Issues",
+    "source_ar_norm": "الفصل الثاني: التنفيذ في مسائل الاحوال الشخصية",
+    "target_en_norm": "chapter 2: enforcement in family-related issues",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36694,
+    "source_ar": "المادة الثالثة والسبعون:",
+    "target_en": "Article 73",
+    "source_ar_norm": "المادة الثالثة والسبعون:",
+    "target_en_norm": "article 73",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36695,
+    "source_ar": "تنفذ القرارات والأحكام الصادرة في مسائل الأحوال الشخصية بالطرق المقررة في هذا النظام، إذا اقتضى ذلك الحجز على الأموال وبيعها. وإذا تضمن التنفيذ دفع أموال بشكل دوري، فيجري التنفيذ من خلال ترتيبات تحددها اللائحة.",
+    "target_en": "Decisions and judgments in family-related issues shall be executed in accordance with this Law if attachment and sale of property is necessary. If execution requires periodic payment of funds, execution shall be carried out through arrangements specified by the Regulations.",
+    "source_ar_norm": "تنفذ القرارات والاحكام الصادرة في مسائل الاحوال الشخصية بالطرق المقررة في هذا النظام، اذا اقتضي ذلك الحجز علي الاموال وبيعها. واذا تضمن التنفيذ دفع اموال بشكل دوري، فيجري التنفيذ من خلال ترتيبات تحددها اللائحة.",
+    "target_en_norm": "decisions and judgments in family-related issues shall be executed in accordance with this law if attachment and sale of property is necessary. if execution requires periodic payment of funds, execution shall be carried out through arrangements specified by the regulations.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36696,
+    "source_ar": "المادة الرابعة والسبعون:",
+    "target_en": "Article 74",
+    "source_ar_norm": "المادة الرابعة والسبعون:",
+    "target_en_norm": "article 74",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36697,
+    "source_ar": "تنفذ الأحكام الصادرة بحضانة الصغير، وحفظه، والتفريق بين الزوجين، ونحو ذلك مما يتعلق بالأحوال الشخصية جبرًا ولو أدى ذلك إلى الاستعانة بالقوة المختصة (الشرطة)، ودخول المنازل، ويعاد تنفيذ الحكم كلما اقتضى الأمر ذلك.",
+    "target_en": "Judgments regarding custody of minors, separation of spouses and the like shall be executed by the use of force even if execution requires resorting to the police or entering houses. Execution of the judgment may be repeated as necessary.",
+    "source_ar_norm": "تنفذ الاحكام الصادرة بحضانة الصغير، وحفظه، والتفريق بين الزوجين، ونحو ذلك مما يتعلق بالاحوال الشخصية جبرا ولو ادي ذلك الي الاستعانة بالقوة المختصة (الشرطة)، ودخول المنازل، ويعاد تنفيذ الحكم كلما اقتضي الامر ذلك.",
+    "target_en_norm": "judgments regarding custody of minors, separation of spouses and the like shall be executed by the use of force even if execution requires resorting to the police or entering houses. execution of the judgment may be repeated as necessary.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36698,
+    "source_ar": "المادة الخامسة والسبعون:",
+    "target_en": "Article 75",
+    "source_ar_norm": "المادة الخامسة والسبعون:",
+    "target_en_norm": "article 75",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36699,
+    "source_ar": "لا ينفذ الحكم الصادر على الزوجة بالعودة إلى بيت الزوجية جبرًا.",
+    "target_en": "A judgment ordering a wife’s return to the marital home shall not be executed by force.",
+    "source_ar_norm": "لا ينفذ الحكم الصادر علي الزوجة بالعودة الي بيت الزوجية جبرا.",
+    "target_en_norm": "a judgment ordering a wife’s return to the marital home shall not be executed by force.",
+    "file_name": "نظام التنفيذ.docx"
+  },
+  {
+    "id": 36700,
+    "source_ar": "المادة السادسة والسبعون:",
+    "target_en": "Article 76",
+    "source_ar_norm": "المادة السادسة والسبعون:",
+    "target_en_norm": "article 76",
+    "file_name": "نظام التنفيذ.docx"
+  }
+]

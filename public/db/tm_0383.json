@@ -1,0 +1,802 @@
+[
+  {
+    "id": 38201,
+    "source_ar": "9 - الإشراف على الدراسات والبحوث المرتبطة بأعمال الدفاع المدني، وبخاصة المتعلقة بمواجهة الكوارث.",
+    "target_en": "9. Overseeing studies and research relating to civil defense operations, particularly disaster management.",
+    "source_ar_norm": "9 - الاشراف علي الدراسات والبحوث المرتبطة باعمال الدفاع المدني، وبخاصة المتعلقة بمواجهة الكوارث.",
+    "target_en_norm": "9. overseeing studies and research relating to civil defense operations, particularly disaster management.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38202,
+    "source_ar": "10 - إقرار البرامج الهادفة إلى رفع مستوى الوعي في المجتمع فيما يتعلق بأعمال الدفاع المدني، بالتعاون مع الجهات ذات العلاقة.",
+    "target_en": "10. Approving public awareness programs relating to civil defense operations in cooperation with relevant entities.",
+    "source_ar_norm": "10 - اقرار البرامج الهادفة الي رفع مستوي الوعي في المجتمع فيما يتعلق باعمال الدفاع المدني، بالتعاون مع الجهات ذات العلاقة.",
+    "target_en_norm": "10. approving public awareness programs relating to civil defense operations in cooperation with relevant entities.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38203,
+    "source_ar": "11 - اقتراح الأنظمة واللوائح الخاصة بأعمال الدفاع المدني، والتحقق من فاعليتها، واقتراح ما تراه من تعديلات في شأنها، ورفعها إلى مجلس الدفاع المدني للنظر في استكمال الإجراءات النظامية في شأنها.",
+    "target_en": "11. Proposing laws and regulations relating to civil defense operations, ensuring their efficiency, proposing necessary amendments thereto, and submitting the same to the Civil Defense Council for completion of statutory procedures.",
+    "source_ar_norm": "11 - اقتراح الانظمة واللوائح الخاصة باعمال الدفاع المدني، والتحقق من فاعليتها، واقتراح ما تراه من تعديلات في شانها، ورفعها الي مجلس الدفاع المدني للنظر في استكمال الاجراءات النظامية في شانها.",
+    "target_en_norm": "11. proposing laws and regulations relating to civil defense operations, ensuring their efficiency, proposing necessary amendments thereto, and submitting the same to the civil defense council for completion of statutory procedures.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38204,
+    "source_ar": "12 - الموافقة على تشكيل اللجان الاستشارية المتخصصة في مجال أعمال الدفاع المدني في الأمانة العامة لمجلس الدفاع المدني.",
+    "target_en": "12. Approving the formation of advisory committees for civil defense operations at the General Secretariat of the Civil Defense Council.",
+    "source_ar_norm": "12 - الموافقة علي تشكيل اللجان الاستشارية المتخصصة في مجال اعمال الدفاع المدني في الامانة العامة لمجلس الدفاع المدني.",
+    "target_en_norm": "12. approving the formation of advisory committees for civil defense operations at the general secretariat of the civil defense council.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38205,
+    "source_ar": "13 - متابعة أعمال لجان الدفاع المدني في مناطق المملكة، وتقويم فاعليتها، وإبداء المقترحات في شأنها، ورفعها إلى مجلس الدفاع المدني.",
+    "target_en": "13. Overseeing the performance of civil defense committees throughout the Kingdom, assessing their efficiency, and making necessary recommendations for submission to the Civil Defense Council.",
+    "source_ar_norm": "13 - متابعة اعمال لجان الدفاع المدني في مناطق المملكة، وتقويم فاعليتها، وابداء المقترحات في شانها، ورفعها الي مجلس الدفاع المدني.",
+    "target_en_norm": "13. overseeing the performance of civil defense committees throughout the kingdom, assessing their efficiency, and making necessary recommendations for submission to the civil defense council.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38206,
+    "source_ar": "14 - الإشراف على برامج وآليات التعاون الدولي في مجال أعمال الدفاع المدني.",
+    "target_en": "14. Overseeing means and programs for international cooperation in civil defense operations.",
+    "source_ar_norm": "14 - الاشراف علي برامج واليات التعاون الدولي في مجال اعمال الدفاع المدني.",
+    "target_en_norm": "14. overseeing means and programs for international cooperation in civil defense operations.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38207,
+    "source_ar": "15 - النظر في التقرير السنوي عن أعمال الدفاع المدني ومواجهة الكوارث، قبل رفعه إلى مجلس الدفاع المدني.",
+    "target_en": "15. Reviewing the annual report on civil defense operations and disaster management prior to submission to the Civil Defense Council.",
+    "source_ar_norm": "15 - النظر في التقرير السنوي عن اعمال الدفاع المدني ومواجهة الكوارث، قبل رفعه الي مجلس الدفاع المدني.",
+    "target_en_norm": "15. reviewing the annual report on civil defense operations and disaster management prior to submission to the civil defense council.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38208,
+    "source_ar": "16 - دراسة ما ترفعه إليها أمانة مجلس الدفاع المدني في مجال أعمال الدفاع المدني.",
+    "target_en": "16. Reviewing matters relating to civil defense operations brought before it by the General Secretariat of the Civil Defense Council.",
+    "source_ar_norm": "16 - دراسة ما ترفعه اليها امانة مجلس الدفاع المدني في مجال اعمال الدفاع المدني.",
+    "target_en_norm": "16. reviewing matters relating to civil defense operations brought before it by the general secretariat of the civil defense council.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38209,
+    "source_ar": "17 - إقرار الموضوعات المدرجة على جدول أعمال مجلس الدفاع المدني.",
+    "target_en": "17. Approving the agenda of the Civil Defense Council.",
+    "source_ar_norm": "17 - اقرار الموضوعات المدرجة علي جدول اعمال مجلس الدفاع المدني.",
+    "target_en_norm": "17. approving the agenda of the civil defense council.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38210,
+    "source_ar": "18 - اعتماد مشروع ميزانية مجلس الدفاع المدني وحسابه الختامي قبل رفعهما إليه.",
+    "target_en": "18. Approving the draft budget and balance sheet of the Civil Defense Council prior to submission to the Council.",
+    "source_ar_norm": "18 - اعتماد مشروع ميزانية مجلس الدفاع المدني وحسابه الختامي قبل رفعهما اليه.",
+    "target_en_norm": "18. approving the draft budget and balance sheet of the civil defense council prior to submission to the council.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38211,
+    "source_ar": "19 - أي مهمة أخرى يكلفها بها مجلس الدفاع المدني.",
+    "target_en": "19. Any other task assigned thereto by the Civil Defense Council.",
+    "source_ar_norm": "19 - اي مهمة اخري يكلفها بها مجلس الدفاع المدني.",
+    "target_en_norm": "19. any other task assigned thereto by the civil defense council.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38212,
+    "source_ar": "ج - تختص أمانة مجلس الدفاع المدني بما يأتي:",
+    "target_en": "C. The General Secretariat of the Civil Defense Council shall have the following powers:",
+    "source_ar_norm": "ج - تختص امانة مجلس الدفاع المدني بما ياتي:",
+    "target_en_norm": "c. the general secretariat of the civil defense council shall have the following powers:",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38213,
+    "source_ar": "1 - التحضير لاجتماعات مجلس الدفاع المدني واللجنة العامة لأعمال الدفاع المدني.",
+    "target_en": "1. Preparing for meetings of the Civil Defense Council and the General Committee for Civil Defense Operations.",
+    "source_ar_norm": "1 - التحضير لاجتماعات مجلس الدفاع المدني واللجنة العامة لاعمال الدفاع المدني.",
+    "target_en_norm": "1. preparing for meetings of the civil defense council and the general committee for civil defense operations.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38214,
+    "source_ar": "2 - دراسة الموضوعات المطلوب عرضها على مجلس الدفاع المدني واللجنة العامة لأعمال الدفاع المدني.",
+    "target_en": "2. Reviewing matters to be included in the agenda of the meetings of the Civil Defense Council and the General Committee for Civil Defense Operations.",
+    "source_ar_norm": "2 - دراسة الموضوعات المطلوب عرضها علي مجلس الدفاع المدني واللجنة العامة لاعمال الدفاع المدني.",
+    "target_en_norm": "2. reviewing matters to be included in the agenda of the meetings of the civil defense council and the general committee for civil defense operations.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38215,
+    "source_ar": "3 - إعداد محاضر جلسات مجلس الدفاع المدني واللجنة العامة لأعمال الدفاع المدني.",
+    "target_en": "3. Drafting the minutes of the meetings of the Civil Defense Council and the General Committee for Civil Defense Operations.",
+    "source_ar_norm": "3 - اعداد محاضر جلسات مجلس الدفاع المدني واللجنة العامة لاعمال الدفاع المدني.",
+    "target_en_norm": "3. drafting the minutes of the meetings of the civil defense council and the general committee for civil defense operations.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38216,
+    "source_ar": "4 - التنسيق والمتابعة مع الجهات المعنية بأعمال الدفاع المدني ومواجهة الكوارث في شأن تنفيذ مهماتها.",
+    "target_en": "4. Coordinating with the entities concerned with civil defense operations and disaster management regarding the discharge of their duties.",
+    "source_ar_norm": "4 - التنسيق والمتابعة مع الجهات المعنية باعمال الدفاع المدني ومواجهة الكوارث في شان تنفيذ مهماتها.",
+    "target_en_norm": "4. coordinating with the entities concerned with civil defense operations and disaster management regarding the discharge of their duties.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38217,
+    "source_ar": "5 - إعداد الخطط العامة لأعمال الدفاع المدني ومواجهة الكوارث، بالتنسيق مع الجهات المعنية.",
+    "target_en": "5. Setting the general plans for civil defense operations and disaster management in coordination with relevant entities.",
+    "source_ar_norm": "5 - اعداد الخطط العامة لاعمال الدفاع المدني ومواجهة الكوارث، بالتنسيق مع الجهات المعنية.",
+    "target_en_norm": "5. setting the general plans for civil defense operations and disaster management in coordination with relevant entities.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38218,
+    "source_ar": "6 - متابعة إعداد الخطط التفصيلية لأعمال الدفاع المدني ومواجهة الكوارث، التي تضعها الجهات المعنية ومراجعتها، بالتنسيق مع الجهات ذات العلاقة، قبل عرضها على اللجنة العامة لأعمال الدفاع المدني لإقرارها.",
+    "target_en": "6. Monitoring the preparation of the detailed plans relating to civil defense operations and disaster management by the relevant entities and reviewing such plans in coordination with the relevant entities prior to submission to the General Secretariat for Civil Defense Operations for approval.",
+    "source_ar_norm": "6 - متابعة اعداد الخطط التفصيلية لاعمال الدفاع المدني ومواجهة الكوارث، التي تضعها الجهات المعنية ومراجعتها، بالتنسيق مع الجهات ذات العلاقة، قبل عرضها علي اللجنة العامة لاعمال الدفاع المدني لاقرارها.",
+    "target_en_norm": "6. monitoring the preparation of the detailed plans relating to civil defense operations and disaster management by the relevant entities and reviewing such plans in coordination with the relevant entities prior to submission to the general secretariat for civil defense operations for approval.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38219,
+    "source_ar": "7 - تبليغ قرارات مجلس الدفاع المدني واللجنة العامة لأعمال الدفاع المدني للجهات المعنية، ومتابعة تنفيذها.",
+    "target_en": "7. Communicating the decisions of the Civil Defense Council and the General Committee for Civil Defense Operations to relevant entities and monitoring their execution.",
+    "source_ar_norm": "7 - تبليغ قرارات مجلس الدفاع المدني واللجنة العامة لاعمال الدفاع المدني للجهات المعنية، ومتابعة تنفيذها.",
+    "target_en_norm": "7. communicating the decisions of the civil defense council and the general committee for civil defense operations to relevant entities and monitoring their execution.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38220,
+    "source_ar": "8 - تنسيق مشاركة الفريق الوطني للبحث والإنقاذ في أعمال البحث والإنقاذ داخل المملكة وخارجها.",
+    "target_en": "8. Coordinating the participation of the National Taskforce for Search and Rescue in the search and rescue operations within the Kingdom and abroad.",
+    "source_ar_norm": "8 - تنسيق مشاركة الفريق الوطني للبحث والانقاذ في اعمال البحث والانقاذ داخل المملكة وخارجها.",
+    "target_en_norm": "8. coordinating the participation of the national taskforce for search and rescue in the search and rescue operations within the kingdom and abroad.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38221,
+    "source_ar": "9 - إعداد تقرير سنوي شامل عن أعمال الدفاع المدني ومواجهة الكوارث، بالتنسيق مع الجهات ذات العلاقة.",
+    "target_en": "9. Draft a comprehensive annual report on civil defense operations and disaster management in coordination with relevant entities.",
+    "source_ar_norm": "9 - اعداد تقرير سنوي شامل عن اعمال الدفاع المدني ومواجهة الكوارث، بالتنسيق مع الجهات ذات العلاقة.",
+    "target_en_norm": "9. draft a comprehensive annual report on civil defense operations and disaster management in coordination with relevant entities.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38222,
+    "source_ar": "10 - متابعة نشاطات التدريب والفرضيات على أعمال الدفاع المدني ومواجهة الكوارث، بالتنسيق مع الجهات المعنية.",
+    "target_en": "10. Overseeing civil defense and disaster management drills in coordination with relevant entities.",
+    "source_ar_norm": "10 - متابعة نشاطات التدريب والفرضيات علي اعمال الدفاع المدني ومواجهة الكوارث، بالتنسيق مع الجهات المعنية.",
+    "target_en_norm": "10. overseeing civil defense and disaster management drills in coordination with relevant entities.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38223,
+    "source_ar": "11 - متابعة الأعمال المرتبطة بنشاط التطوع لأعمال الدفاع المدني.",
+    "target_en": "11. Overseeing volunteering in civil defense operations.",
+    "source_ar_norm": "11 - متابعة الاعمال المرتبطة بنشاط التطوع لاعمال الدفاع المدني.",
+    "target_en_norm": "11. overseeing volunteering in civil defense operations.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38224,
+    "source_ar": "12 - إعداد مشروعات الأنظمة واللوائح التي تنظم أعمال الدفاع المدني ومواجهة الكوارث إذا كلفها بذلك مجلس الدفاع المدني أو اللجنة العامة لأعمال الدفاع المدني.",
+    "target_en": "12. Drafting laws and regulations relating to civil defense operations and disaster management at the request of the Civil Defense Council or the General Committee for Civil Defense Operations.",
+    "source_ar_norm": "12 - اعداد مشروعات الانظمة واللوائح التي تنظم اعمال الدفاع المدني ومواجهة الكوارث اذا كلفها بذلك مجلس الدفاع المدني او اللجنة العامة لاعمال الدفاع المدني.",
+    "target_en_norm": "12. drafting laws and regulations relating to civil defense operations and disaster management at the request of the civil defense council or the general committee for civil defense operations.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38225,
+    "source_ar": "13 - العمل على توفير المعلومات والبيانات الخاصة بأعمال الدفاع المدني ومواجهة الكوارث وتصنيفها، بالتنسيق مع الجهات المعنية.",
+    "target_en": "13. Gathering and classifying information and data relating to civil defense operations and disaster management in coordination with relevant entities.",
+    "source_ar_norm": "13 - العمل علي توفير المعلومات والبيانات الخاصة باعمال الدفاع المدني ومواجهة الكوارث وتصنيفها، بالتنسيق مع الجهات المعنية.",
+    "target_en_norm": "13. gathering and classifying information and data relating to civil defense operations and disaster management in coordination with relevant entities.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38226,
+    "source_ar": "14 - المشاركة في عقد الندوات واللقاءات ذات العلاقة بأعمال الدفاع المدني ومواجهة الكوارث، بالتعاون مع الجهات الأخرى ذات العلاقة.",
+    "target_en": "14. Participating in the organization of symposia and forums relating to civil defense operations and disaster management in cooperation with relevant entities.",
+    "source_ar_norm": "14 - المشاركة في عقد الندوات واللقاءات ذات العلاقة باعمال الدفاع المدني ومواجهة الكوارث، بالتعاون مع الجهات الاخري ذات العلاقة.",
+    "target_en_norm": "14. participating in the organization of symposia and forums relating to civil defense operations and disaster management in cooperation with relevant entities.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38227,
+    "source_ar": "15 - إجراء الدراسات والبحوث المرتبطة بأعمال الدفاع المدني ومواجهة الكوارث، ونشرها وتبادلها.",
+    "target_en": "15. Conducting, publishing, and exchanging studies and research relating to civil defense operations and disaster management.",
+    "source_ar_norm": "15 - اجراء الدراسات والبحوث المرتبطة باعمال الدفاع المدني ومواجهة الكوارث، ونشرها وتبادلها.",
+    "target_en_norm": "15. conducting, publishing, and exchanging studies and research relating to civil defense operations and disaster management.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38228,
+    "source_ar": "16 - إعداد مشروع الميزانية السنوية لمجلس الدفاع المدني وحسابه الختامي وعرضهما على اللجنة العامة لأعمال الدفاع المدني، قبل رفعهما إلى مجلس الدفاع المدني لإقرارهما.",
+    "target_en": "16. Preparing the draft annual budget and balance sheet of the Civil Defense Council and bring the same before the General Committee for Civil Defense Operations, prior to submission to the Civil Defense Council for approval.",
+    "source_ar_norm": "16 - اعداد مشروع الميزانية السنوية لمجلس الدفاع المدني وحسابه الختامي وعرضهما علي اللجنة العامة لاعمال الدفاع المدني، قبل رفعهما الي مجلس الدفاع المدني لاقرارهما.",
+    "target_en_norm": "16. preparing the draft annual budget and balance sheet of the civil defense council and bring the same before the general committee for civil defense operations, prior to submission to the civil defense council for approval.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38229,
+    "source_ar": "17 - إعداد البرامج الهادفة إلى نشر المعرفة والوعي لدى المجتمع بأعمال الدفاع المدني ومواجهة الكوارث، والمشاركة في تنفيذها بالتعاون والتنسيق مع الجهات الأخرى ذات العلاقة.",
+    "target_en": "17. Preparing public awareness programs on civil defense operations and disaster management, and participating in their implementation in coordination with relevant entities.",
+    "source_ar_norm": "17 - اعداد البرامج الهادفة الي نشر المعرفة والوعي لدي المجتمع باعمال الدفاع المدني ومواجهة الكوارث، والمشاركة في تنفيذها بالتعاون والتنسيق مع الجهات الاخري ذات العلاقة.",
+    "target_en_norm": "17. preparing public awareness programs on civil defense operations and disaster management, and participating in their implementation in coordination with relevant entities.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38230,
+    "source_ar": "18 - التنسيق مع الجهات المعنية حول تنفيذ برامج وآليات التعاون الدولي في مجال أعمال الدفاع المدني ومواجهة الكوارث.",
+    "target_en": "18. Coordinating with relevant entities with regards to the implementation of means and programs for international cooperation in civil defense operations and disaster management.",
+    "source_ar_norm": "18 - التنسيق مع الجهات المعنية حول تنفيذ برامج واليات التعاون الدولي في مجال اعمال الدفاع المدني ومواجهة الكوارث.",
+    "target_en_norm": "18. coordinating with relevant entities with regards to the implementation of means and programs for international cooperation in civil defense operations and disaster management.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38231,
+    "source_ar": "19 - دراسة التقارير الصادرة من لجان الدفاع المدني في مناطق المملكة وإعداد التوصيات في شأنها.",
+    "target_en": "19. Reviewing reports issued by the civil defense committees throughout the Kingdom, and making necessary recommendations.",
+    "source_ar_norm": "19 - دراسة التقارير الصادرة من لجان الدفاع المدني في مناطق المملكة واعداد التوصيات في شانها.",
+    "target_en_norm": "19. reviewing reports issued by the civil defense committees throughout the kingdom, and making necessary recommendations.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38232,
+    "source_ar": "20 - دراسة اقتراحات الأجهزة الحكومية المتعلقة بأنظمة الدفاع المدني ولوائحه، وعرضها على اللجنة العامة لأعمال الدفاع المدني؛ تمهيداً لعرضها على مجلس الدفاع المدني.",
+    "target_en": "20. Reviewing proposals of government agencies relating to civil defense laws and regulations and bringing the same before the General Committee for Civil Defense Operations for submission to the Civil Defense Council.",
+    "source_ar_norm": "20 - دراسة اقتراحات الاجهزة الحكومية المتعلقة بانظمة الدفاع المدني ولوائحه، وعرضها علي اللجنة العامة لاعمال الدفاع المدني؛ تمهيدا لعرضها علي مجلس الدفاع المدني.",
+    "target_en_norm": "20. reviewing proposals of government agencies relating to civil defense laws and regulations and bringing the same before the general committee for civil defense operations for submission to the civil defense council.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38233,
+    "source_ar": "21 - العمل مع الجهات المختصة لتأهيل الكفايات السعودية اللازمة في مجال مواجهة الكوارث، وذلك بالتعاون مع أجهزة التدريب المحلية والدولية.",
+    "target_en": "21. Cooperating with the relevant entities to build Saudi capacity in disaster management, in cooperation with local and international training bodies.",
+    "source_ar_norm": "21 - العمل مع الجهات المختصة لتاهيل الكفايات السعودية اللازمة في مجال مواجهة الكوارث، وذلك بالتعاون مع اجهزة التدريب المحلية والدولية.",
+    "target_en_norm": "21. cooperating with the relevant entities to build saudi capacity in disaster management, in cooperation with local and international training bodies.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38234,
+    "source_ar": "22 - أي مهمة أخرى يكلفها بها مجلس الدفاع المدني أو اللجنة العامة لأعمال الدفاع المدني.",
+    "target_en": "22. Any other tasks assigned thereto by the Civil Defense Council or the General Committee for Civil Defense Operations.",
+    "source_ar_norm": "22 - اي مهمة اخري يكلفها بها مجلس الدفاع المدني او اللجنة العامة لاعمال الدفاع المدني.",
+    "target_en_norm": "22. any other tasks assigned thereto by the civil defense council or the general committee for civil defense operations.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38235,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38236,
+    "source_ar": "يجوز لرئيس مجلس الدفاع المدني دعوة من يرى الاستعانة بهم لحضور جلسات المجلس دون أن يكون لهم حق التصويت.",
+    "target_en": "The Chairman of the Civil Defense Council may, as he deems necessary, invite non-Council members to attend Council meetings in a non-voting capacity.",
+    "source_ar_norm": "يجوز لرئيس مجلس الدفاع المدني دعوة من يري الاستعانة بهم لحضور جلسات المجلس دون ان يكون لهم حق التصويت.",
+    "target_en_norm": "the chairman of the civil defense council may, as he deems necessary, invite non-council members to attend council meetings in a non-voting capacity.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38237,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38238,
+    "source_ar": "يمارس مجلس الدفاع المدني صلاحياته في حالة الحرب والطوارئ تحت إشراف مجلس الدفاع الأعلى.",
+    "target_en": "The Civil Defense Council shall exercise its powers at times of war and emergencies under the supervision of the Supreme Defense Council.",
+    "source_ar_norm": "يمارس مجلس الدفاع المدني صلاحياته في حالة الحرب والطوارئ تحت اشراف مجلس الدفاع الاعلي.",
+    "target_en_norm": "the civil defense council shall exercise its powers at times of war and emergencies under the supervision of the supreme defense council.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38239,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38240,
+    "source_ar": "مع مراعاة ما تقضي به الأنظمة الأخرى يتولى وزير الداخلية ورئيس مجلس الدفاع المدني ما يلي:",
+    "target_en": "Without prejudice to other laws, the Minister of Interior, Chairman of the Civil Defense Council, shall have the following powers:",
+    "source_ar_norm": "مع مراعاة ما تقضي به الانظمة الاخري يتولي وزير الداخلية ورئيس مجلس الدفاع المدني ما يلي:",
+    "target_en_norm": "without prejudice to other laws, the minister of interior, chairman of the civil defense council, shall have the following powers:",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38241,
+    "source_ar": "أ - تنسيق العلاقة بين وزارة الداخلية من ناحية وبين وزارة الدفاع ووزارة الحرس الوطني ورئاسة الاستخبارات العامة من ناحية أخرى، وذلك لضمان تنفيذ أعمال الدفاع المدني.",
+    "target_en": "a) Coordinate between the Ministry of Interior on one hand and the Ministry of Defense, the Ministry of National Guard, and the General Intelligence Presidency on the other hand for proper implementation of civil defense operations.",
+    "source_ar_norm": "ا - تنسيق العلاقة بين وزارة الداخلية من ناحية وبين وزارة الدفاع ووزارة الحرس الوطني ورئاسة الاستخبارات العامة من ناحية اخري، وذلك لضمان تنفيذ اعمال الدفاع المدني.",
+    "target_en_norm": "a) coordinate between the ministry of interior on one hand and the ministry of defense, the ministry of national guard, and the general intelligence presidency on the other hand for proper implementation of civil defense operations.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38242,
+    "source_ar": "ب - إصدار الأمر بإجراء التجارب والتمرينات على أعمال الدفاع المدني للوقوف على حسن وكفاية واستعداد الوسائل الخاصة بالدفاع المدني.",
+    "target_en": "b) Issue orders to conduct drills and exercises on civil defense operations to determine the adequacy, efficiency, and readiness of civil defense equipment.",
+    "source_ar_norm": "ب - اصدار الامر باجراء التجارب والتمرينات علي اعمال الدفاع المدني للوقوف علي حسن وكفاية واستعداد الوسائل الخاصة بالدفاع المدني.",
+    "target_en_norm": "b) issue orders to conduct drills and exercises on civil defense operations to determine the adequacy, efficiency, and readiness of civil defense equipment.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38243,
+    "source_ar": "جـ - إصدار الأمر بدعوة العناصر المدربة في تشكيلات الدفاع المدني.",
+    "target_en": "c) Issue orders to call on trained personnel to join civil defense formations.",
+    "source_ar_norm": "ج - اصدار الامر بدعوة العناصر المدربة في تشكيلات الدفاع المدني.",
+    "target_en_norm": "c) issue orders to call on trained personnel to join civil defense formations.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38244,
+    "source_ar": "د - إصدار قرارات الاستعمال المؤقت للمنشآت والمباني والأدوات والمعدات ووسائل النقل وغيرها مما يكون ضروريا لتنفيذ خطط ومشاريع وإجراءات الدفاع المدني في الحالات الاستثنائية على أن يتم ذلك لقاء تعويض عادل.",
+    "target_en": "d) Issue decisions for the temporary use of facilities, buildings, tools, equipment, means of transport, etc., necessary for implementation of civil defense plans, projects, and operations in exceptional cases, provided that a fair compensation is paid.",
+    "source_ar_norm": "د - اصدار قرارات الاستعمال المؤقت للمنشات والمباني والادوات والمعدات ووسائل النقل وغيرها مما يكون ضروريا لتنفيذ خطط ومشاريع واجراءات الدفاع المدني في الحالات الاستثنائية علي ان يتم ذلك لقاء تعويض عادل.",
+    "target_en_norm": "d) issue decisions for the temporary use of facilities, buildings, tools, equipment, means of transport, etc., necessary for implementation of civil defense plans, projects, and operations in exceptional cases, provided that a fair compensation is paid.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38245,
+    "source_ar": "هـ - إصدار الأوامر بتوفير المواد والأدوات اللازمة للدفاع المدني في حالات الكوارث بطريقة الشراء المباشر مهما بلغت قيمتها، في حدود المبالغ التي تخصص لذلك.",
+    "target_en": "e) Issue orders for the direct purchase of materials and equipment necessary for civil defense in cases of disasters, regardless of their value, within the amounts allocated for such purpose.",
+    "source_ar_norm": "ه - اصدار الاوامر بتوفير المواد والادوات اللازمة للدفاع المدني في حالات الكوارث بطريقة الشراء المباشر مهما بلغت قيمتها، في حدود المبالغ التي تخصص لذلك.",
+    "target_en_norm": "e) issue orders for the direct purchase of materials and equipment necessary for civil defense in cases of disasters, regardless of their value, within the amounts allocated for such purpose.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38246,
+    "source_ar": "و - تقرير وجود الكارثة.",
+    "target_en": "f) Determine the existence of a disaster.",
+    "source_ar_norm": "و - تقرير وجود الكارثة.",
+    "target_en_norm": "f) determine the existence of a disaster.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38247,
+    "source_ar": "ز- الإعلان عن الكارثة.",
+    "target_en": "g) Declare a state of disaster.",
+    "source_ar_norm": "ز- الاعلان عن الكارثة.",
+    "target_en_norm": "g) declare a state of disaster.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38248,
+    "source_ar": "ح - إصدار أي قرارات تمليها مصلحة الدفاع المدني.",
+    "target_en": "h) Issue decisions in the interest of civil defense.",
+    "source_ar_norm": "ح - اصدار اي قرارات تمليها مصلحة الدفاع المدني.",
+    "target_en_norm": "h) issue decisions in the interest of civil defense.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38249,
+    "source_ar": "ويجوز لمجلس الوزراء تعديل هذه الاختصاصات.",
+    "target_en": "i) The Council of Ministers may amend such powers.",
+    "source_ar_norm": "ويجوز لمجلس الوزراء تعديل هذه الاختصاصات.",
+    "target_en_norm": "i) the council of ministers may amend such powers.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38250,
+    "source_ar": "المادة الثالثة عشرة",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة",
+    "target_en_norm": "article 13",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38251,
+    "source_ar": "أ - تشكل المديرية العامة للدفاع المدني بقرار من وزير الداخلية ورئيس مجلس الدفاع المدني وفق أحكام الميزانية.",
+    "target_en": "A. The General Directorate of Civil Defense shall be formed pursuant to a decision by the Minister of Interior, Chairman of the Civil Defense Council, in accordance with the budget.",
+    "source_ar_norm": "ا - تشكل المديرية العامة للدفاع المدني بقرار من وزير الداخلية ورئيس مجلس الدفاع المدني وفق احكام الميزانية.",
+    "target_en_norm": "a. the general directorate of civil defense shall be formed pursuant to a decision by the minister of interior, chairman of the civil defense council, in accordance with the budget.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38252,
+    "source_ar": "ب - مدير عام الدفاع المدني مسئول عن تنفيذ اختصاصات المديرية العامة للدفاع المدني وحسن سير العمل فيها والبت في شئونها المختلفة والإشراف على أجهزتها وفروعها، وذلك وفق الأنظمة والتعليمات.",
+    "target_en": "B. The Director General of Civil Defense shall be in charge of exercising the powers of the General Directorate of Civil Defense and its proper functioning, managing its affairs, and overseeing its organs and branches, in accordance with laws and instructions.",
+    "source_ar_norm": "ب - مدير عام الدفاع المدني مسئول عن تنفيذ اختصاصات المديرية العامة للدفاع المدني وحسن سير العمل فيها والبت في شئونها المختلفة والاشراف علي اجهزتها وفروعها، وذلك وفق الانظمة والتعليمات.",
+    "target_en_norm": "b. the director general of civil defense shall be in charge of exercising the powers of the general directorate of civil defense and its proper functioning, managing its affairs, and overseeing its organs and branches, in accordance with laws and instructions.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38253,
+    "source_ar": "المادة الرابعة عشرة",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة",
+    "target_en_norm": "article 14",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38254,
+    "source_ar": "مع مراعاة ما تقضي به الأنظمة وقرارات مجلس الدفاع المدني تختص المديرية العامة للدفاع المدني بما يلي:",
+    "target_en": "Without prejudice to the laws and the Civil Defense Council's decisions, the General Directorate of Civil Defense shall have the following powers:",
+    "source_ar_norm": "مع مراعاة ما تقضي به الانظمة وقرارات مجلس الدفاع المدني تختص المديرية العامة للدفاع المدني بما يلي:",
+    "target_en_norm": "without prejudice to the laws and the civil defense council's decisions, the general directorate of civil defense shall have the following powers:",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38255,
+    "source_ar": "أ - اقتراح خطط ومشروعات وإجراءات الدفاع المدني ومتابعة تنفيذها.",
+    "target_en": "a) Propose civil defense plans, projects, and operations and follow up on their implementation.",
+    "source_ar_norm": "ا - اقتراح خطط ومشروعات واجراءات الدفاع المدني ومتابعة تنفيذها.",
+    "target_en_norm": "a) propose civil defense plans, projects, and operations and follow up on their implementation.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38256,
+    "source_ar": "ب - تنفيذ ما يدخل في اختصاصها في خطط ومشروعات وإجراءات الدفاع المدني وفيما يصدره مجلس الدفاع المدني ووزير الداخلية ورئيس مجلس الدفاع المدني من قرارات.",
+    "target_en": "b) Implement civil defense plans, projects, and operations falling within its powers and execute decisions issued by the Civil Defense Council and the Minister of the Interior, Chairman of the Civil Defense Council.",
+    "source_ar_norm": "ب - تنفيذ ما يدخل في اختصاصها في خطط ومشروعات واجراءات الدفاع المدني وفيما يصدره مجلس الدفاع المدني ووزير الداخلية ورئيس مجلس الدفاع المدني من قرارات.",
+    "target_en_norm": "b) implement civil defense plans, projects, and operations falling within its powers and execute decisions issued by the civil defense council and the minister of the interior, chairman of the civil defense council.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38257,
+    "source_ar": "جـ - اتخاذ الإجراءات المناسبة لمواجهة الكوارث التي يصدر باعتبارها كارثة قرار من وزير الداخلية ورئيس مجلس الدفاع المدني وعليها في سبيل ذلك الاستفادة من إمكانيات القوات العسكرية والجهات الأخرى، وأن تطلب منها توفير ما يلزم من أشخاص ومهمات وأدوات تساعدها في أداء مهامها.",
+    "target_en": "c) Take appropriate measures to deal with disasters declared as such pursuant to a decision by the Minister of Interior, Chairman of the Civil Defense Council. For the proper implementation of its functions, the Directorate may utilize the resources of the military forces and other agencies, and request them to execute tasks and provide individuals and equipment.",
+    "source_ar_norm": "ج - اتخاذ الاجراءات المناسبة لمواجهة الكوارث التي يصدر باعتبارها كارثة قرار من وزير الداخلية ورئيس مجلس الدفاع المدني وعليها في سبيل ذلك الاستفادة من امكانيات القوات العسكرية والجهات الاخري، وان تطلب منها توفير ما يلزم من اشخاص ومهمات وادوات تساعدها في اداء مهامها.",
+    "target_en_norm": "c) take appropriate measures to deal with disasters declared as such pursuant to a decision by the minister of interior, chairman of the civil defense council. for the proper implementation of its functions, the directorate may utilize the resources of the military forces and other agencies, and request them to execute tasks and provide individuals and equipment.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38258,
+    "source_ar": "د - توفير الطعام والكساء والمأوى والعلاج والإسعافات النقدية وغير ذلك للمتضررين في أوقات الكوارث وفق لائحة يضعها مجلس الدفاع المدني.",
+    "target_en": "d) Provide food, clothing, shelter, medical treatment, financial aid, and other forms of assistance to victims at times of disasters, in accordance with regulations set by the Civil Defense Council.",
+    "source_ar_norm": "د - توفير الطعام والكساء والماوي والعلاج والاسعافات النقدية وغير ذلك للمتضررين في اوقات الكوارث وفق لائحة يضعها مجلس الدفاع المدني.",
+    "target_en_norm": "d) provide food, clothing, shelter, medical treatment, financial aid, and other forms of assistance to victims at times of disasters, in accordance with regulations set by the civil defense council.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38259,
+    "source_ar": "هـ - الاتصال بالوزارات وسائر الجهات المعنية بتنفيذ أعمال الدفاع المدني لتنسيق التعاون فيما بينها بشأن تنفيذ خطط ومشروعات وإجراءات الدفاع المدني.",
+    "target_en": "e) Coordinate with ministries and other entities concerned with the implementation of civil defense operations for the execution of civil defense plans, projects, and operations.",
+    "source_ar_norm": "ه - الاتصال بالوزارات وسائر الجهات المعنية بتنفيذ اعمال الدفاع المدني لتنسيق التعاون فيما بينها بشان تنفيذ خطط ومشروعات واجراءات الدفاع المدني.",
+    "target_en_norm": "e) coordinate with ministries and other entities concerned with the implementation of civil defense operations for the execution of civil defense plans, projects, and operations.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38260,
+    "source_ar": "و- تطوير الدفاع المدني بما يساير التقدم العلمي والحربي.",
+    "target_en": "f) Develop civil defense in line with scientific and military advancements.",
+    "source_ar_norm": "و- تطوير الدفاع المدني بما يساير التقدم العلمي والحربي.",
+    "target_en_norm": "f) develop civil defense in line with scientific and military advancements.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38261,
+    "source_ar": "ز- تمثيل المملكة في المنظمات والمؤتمرات والندوات الدولية والمحلية والحلقات الخاصة بالدفاع المدني.",
+    "target_en": "g) Represent the Kingdom at international and local organizations, conferences, symposia, and workshops relating to civil defense.",
+    "source_ar_norm": "ز- تمثيل المملكة في المنظمات والمؤتمرات والندوات الدولية والمحلية والحلقات الخاصة بالدفاع المدني.",
+    "target_en_norm": "g) represent the kingdom at international and local organizations, conferences, symposia, and workshops relating to civil defense.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38262,
+    "source_ar": "ح - اقتراح الموضوعات التي ترى عرضها على مجلس الدفاع المدني، وإعداد الدراسات اللازمة لذلك.",
+    "target_en": "h) Propose matters to be brought before the Civil Defense Council and conduct necessary related studies.",
+    "source_ar_norm": "ح - اقتراح الموضوعات التي تري عرضها علي مجلس الدفاع المدني، واعداد الدراسات اللازمة لذلك.",
+    "target_en_norm": "h) propose matters to be brought before the civil defense council and conduct necessary related studies.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38263,
+    "source_ar": "ط - تقديم التوصيات اللازمة للجهات المختصة للتعويض عن الأضرار التي تسببها الكوارث أو أعمال العدو.",
+    "target_en": "i) Make necessary recommendations to relevant agencies regarding compensation for damage caused by disasters or hostilities.",
+    "source_ar_norm": "ط - تقديم التوصيات اللازمة للجهات المختصة للتعويض عن الاضرار التي تسببها الكوارث او اعمال العدو.",
+    "target_en_norm": "i) make necessary recommendations to relevant agencies regarding compensation for damage caused by disasters or hostilities.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38264,
+    "source_ar": "ي - تنفيذ برامج التدريب اللازمة لأعمال الدفاع المدني حسب ما يقرره مجلس الدفاع المدني.",
+    "target_en": "j) Carry out training programs necessary for civil defense operations as approved by the Civil Defense Council.",
+    "source_ar_norm": "ي - تنفيذ برامج التدريب اللازمة لاعمال الدفاع المدني حسب ما يقرره مجلس الدفاع المدني.",
+    "target_en_norm": "j) carry out training programs necessary for civil defense operations as approved by the civil defense council.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38265,
+    "source_ar": "ك - اقتراح الأوقات المناسبة لإجراء تجارب وتمرينات الدفاع المدني ولدعوة العناصر المدربة.",
+    "target_en": "k) Propose appropriate times for conducting civil defense drills and exercises and for the call of trained individuals.",
+    "source_ar_norm": "ك - اقتراح الاوقات المناسبة لاجراء تجارب وتمرينات الدفاع المدني ولدعوة العناصر المدربة.",
+    "target_en_norm": "k) propose appropriate times for conducting civil defense drills and exercises and for the call of trained individuals.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38266,
+    "source_ar": "ل - اقتراح مشروع الميزانية السنوية للمديرة العامة للدفاع المدني.",
+    "target_en": "l) Propose the annual draft budget of the General Directorate of Civil Defense.",
+    "source_ar_norm": "ل - اقتراح مشروع الميزانية السنوية للمديرة العامة للدفاع المدني.",
+    "target_en_norm": "l) propose the annual draft budget of the general directorate of civil defense.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38267,
+    "source_ar": "ويجوز لمجلس الوزراء تعديل هذه الاختصاصات.",
+    "target_en": "m) The Council of Ministers may amend such powers.",
+    "source_ar_norm": "ويجوز لمجلس الوزراء تعديل هذه الاختصاصات.",
+    "target_en_norm": "m) the council of ministers may amend such powers.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38268,
+    "source_ar": "المادة الخامسة عشرة",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة",
+    "target_en_norm": "article 15",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38269,
+    "source_ar": "يعتبر مدير الدفاع المدني في جهته مسئولا عن تنفيذ عمليات الدفاع المدني، وتنسيق الإجراءات الأخرى مع الجهات المختصة.",
+    "target_en": "A civil defense director shall, within his jurisdiction, be responsible for carrying out civil defense operations and coordinating with relevant agencies regarding other procedures.",
+    "source_ar_norm": "يعتبر مدير الدفاع المدني في جهته مسئولا عن تنفيذ عمليات الدفاع المدني، وتنسيق الاجراءات الاخري مع الجهات المختصة.",
+    "target_en_norm": "a civil defense director shall, within his jurisdiction, be responsible for carrying out civil defense operations and coordinating with relevant agencies regarding other procedures.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38270,
+    "source_ar": "المادة السادسة عشرة",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة",
+    "target_en_norm": "article 16",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38271,
+    "source_ar": "يتم تأمين وجبات الطعام على نفقة الدولة للقائمين على تنفيذ أعمال الدفاع المدني أثناء الطوارئ والكوارث والحروب، وذلك وفق لائحة يضعها مجلس الدفاع المدني تحدد الشروط اللازمة لذلك.",
+    "target_en": "Meals shall be provided at the expense of the State to persons carrying out civil defense operations during emergencies, disasters, and wars, in accordance with regulations set by the Civil Defense Council specifying necessary conditions.",
+    "source_ar_norm": "يتم تامين وجبات الطعام علي نفقة الدولة للقائمين علي تنفيذ اعمال الدفاع المدني اثناء الطوارئ والكوارث والحروب، وذلك وفق لائحة يضعها مجلس الدفاع المدني تحدد الشروط اللازمة لذلك.",
+    "target_en_norm": "meals shall be provided at the expense of the state to persons carrying out civil defense operations during emergencies, disasters, and wars, in accordance with regulations set by the civil defense council specifying necessary conditions.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38272,
+    "source_ar": "المادة السابعة عشرة",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة",
+    "target_en_norm": "article 17",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38273,
+    "source_ar": "يجوز للدفاع المدني الاستعانة بمن تقتضي المصلحة استدعاءهم، ويتم تنظيم حقوق هؤلاء وواجباتهم وعلاقتهم بالجهات التي يعملون فيها وفق لائحة تصدر بقرار من مجلس الوزراء بناء على اقتراح مجلس الدفاع المدني.",
+    "target_en": "The Civil Defense may call upon persons whose services are needed. The rights and duties of said persons as well as their affiliation with the agencies they work for shall be regulated in accordance with regulations issued pursuant to a Council of Ministers’ resolution upon a recommendation by the Civil Defense Council.",
+    "source_ar_norm": "يجوز للدفاع المدني الاستعانة بمن تقتضي المصلحة استدعاءهم، ويتم تنظيم حقوق هؤلاء وواجباتهم وعلاقتهم بالجهات التي يعملون فيها وفق لائحة تصدر بقرار من مجلس الوزراء بناء علي اقتراح مجلس الدفاع المدني.",
+    "target_en_norm": "the civil defense may call upon persons whose services are needed. the rights and duties of said persons as well as their affiliation with the agencies they work for shall be regulated in accordance with regulations issued pursuant to a council of ministers’ resolution upon a recommendation by the civil defense council.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38274,
+    "source_ar": "المادة الثامنة عشرة",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة",
+    "target_en_norm": "article 18",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38275,
+    "source_ar": "كل شخص ولو لم يكن متطوعا يعتبر مسئولا عن تقديم المساعدة الممكنة واللازمة لعمليات الدفاع المدني في الحالات التي تدعو لها الضرورة.",
+    "target_en": "Each person, even if not a volunteer, shall be responsible for providing possible assistance necessary for civil defense operations whenever required.",
+    "source_ar_norm": "كل شخص ولو لم يكن متطوعا يعتبر مسئولا عن تقديم المساعدة الممكنة واللازمة لعمليات الدفاع المدني في الحالات التي تدعو لها الضرورة.",
+    "target_en_norm": "each person, even if not a volunteer, shall be responsible for providing possible assistance necessary for civil defense operations whenever required.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38276,
+    "source_ar": "المادة التاسعة عشرة",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة",
+    "target_en_norm": "article 19",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38277,
+    "source_ar": "تعطى مبادئ الدفاع المدني في جميع مراحل التعليم العام والمعاهد المدنية والعسكرية ومعاهد التدريب ومراكزه وفقا للمعلومات التي يضعها مجلس الدفاع المدني بالاتفاق مع الجهات التعليمية المعنية.",
+    "target_en": "The basics of civil defense shall be taught at all stages of public education, as well as civil and military institutes and training institutes and centers, in accordance with the information provided by the Civil Defense Council in consultation with relevant educational agencies.",
+    "source_ar_norm": "تعطي مبادئ الدفاع المدني في جميع مراحل التعليم العام والمعاهد المدنية والعسكرية ومعاهد التدريب ومراكزه وفقا للمعلومات التي يضعها مجلس الدفاع المدني بالاتفاق مع الجهات التعليمية المعنية.",
+    "target_en_norm": "the basics of civil defense shall be taught at all stages of public education, as well as civil and military institutes and training institutes and centers, in accordance with the information provided by the civil defense council in consultation with relevant educational agencies.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38278,
+    "source_ar": "المادة العشرون",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون",
+    "target_en_norm": "article 20",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38279,
+    "source_ar": "يُشترط لمنح الرخص في الحالات المنصوص عليها في الفقرة الفرعية (5) من الفقرة (أ) من المادة (التاسعة) من هذا النظام؛ التزام المرخص له بالتقيد بالشروط وقواعد السلامة التي يُصدرها مجلس الدفاع المدني.",
+    "target_en": "Licensing in cases stipulated in Article 9(5)(a) of this Law shall require compliance of the licensee with the conditions and safety rules issued by the Civil Defense Council.",
+    "source_ar_norm": "يشترط لمنح الرخص في الحالات المنصوص عليها في الفقرة الفرعية (5) من الفقرة (ا) من المادة (التاسعة) من هذا النظام؛ التزام المرخص له بالتقيد بالشروط وقواعد السلامة التي يصدرها مجلس الدفاع المدني.",
+    "target_en_norm": "licensing in cases stipulated in article 9(5)(a) of this law shall require compliance of the licensee with the conditions and safety rules issued by the civil defense council.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38280,
+    "source_ar": "المادة الحادية والعشرون",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون",
+    "target_en_norm": "article 21",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38281,
+    "source_ar": "تنشأ المخابئ اللازمة في الحدائق والساحات العامة والميادين وغير ذلك من الأماكن المزدحمة والمناسبة لإنشاء المخابئ العامة وذلك وفقا للقواعد والشروط والمواصفات التي يضعها مجلس الدفاع المدني.",
+    "target_en": "Shelters shall be established in parks, public squares, and other crowded places appropriate for establishing public shelters, in accordance with rules, conditions, and specifications set by the Civil Defense Council.",
+    "source_ar_norm": "تنشا المخابئ اللازمة في الحدائق والساحات العامة والميادين وغير ذلك من الاماكن المزدحمة والمناسبة لانشاء المخابئ العامة وذلك وفقا للقواعد والشروط والمواصفات التي يضعها مجلس الدفاع المدني.",
+    "target_en_norm": "shelters shall be established in parks, public squares, and other crowded places appropriate for establishing public shelters, in accordance with rules, conditions, and specifications set by the civil defense council.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38282,
+    "source_ar": "المادة الثانية والعشرون",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون",
+    "target_en_norm": "article 22",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38283,
+    "source_ar": "على جميع الأجهزة الإدارية إنشاء المخابئ اللازمة ضمن المباني العائدة لها وفقا لما يقرره مجلس الدفاع المدني.",
+    "target_en": "All administrative agencies shall establish shelters on their premises, in accordance with Civil Defense Council decisions.",
+    "source_ar_norm": "علي جميع الاجهزة الادارية انشاء المخابئ اللازمة ضمن المباني العائدة لها وفقا لما يقرره مجلس الدفاع المدني.",
+    "target_en_norm": "all administrative agencies shall establish shelters on their premises, in accordance with civil defense council decisions.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38284,
+    "source_ar": "المادة الثالثة والعشرون",
+    "target_en": "Article 23",
+    "source_ar_norm": "المادة الثالثة والعشرون",
+    "target_en_norm": "article 23",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38285,
+    "source_ar": "تتعاون الشركات والمؤسسات الخاصة مع المديرية العامة للدفاع المدني، وذلك للتأكد من كفاية وفعالية رجال الإطفاء والإنقاذ والآليات والمعدات وجميع لوازم مكافحة الحريق ولوازم الإنقاذ والتأكد من تنفيذ قواعد وإجراءات السلامة الوقائية.",
+    "target_en": "Companies and other private establishments shall cooperate with the General Directorate of Civil Defense to ensure the efficiency and availability of an adequate number of firefighters, rescue teams, vehicles, and equipment as well as firefighting and rescue supplies, and to ensure the implementation of preventive safety rules and procedures.",
+    "source_ar_norm": "تتعاون الشركات والمؤسسات الخاصة مع المديرية العامة للدفاع المدني، وذلك للتاكد من كفاية وفعالية رجال الاطفاء والانقاذ والاليات والمعدات وجميع لوازم مكافحة الحريق ولوازم الانقاذ والتاكد من تنفيذ قواعد واجراءات السلامة الوقائية.",
+    "target_en_norm": "companies and other private establishments shall cooperate with the general directorate of civil defense to ensure the efficiency and availability of an adequate number of firefighters, rescue teams, vehicles, and equipment as well as firefighting and rescue supplies, and to ensure the implementation of preventive safety rules and procedures.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38286,
+    "source_ar": "المادة الرابعة والعشرون",
+    "target_en": "Article 24",
+    "source_ar_norm": "المادة الرابعة والعشرون",
+    "target_en_norm": "article 24",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38287,
+    "source_ar": "يتم التنسيق بين المديرية العامة للدفاع المدني وبين الأجهزة الإدارية التي لديها إدارات للسلامة أو فرق للإطفاء، وذلك للتأكد من كافية وفعالية رجال الإطفاء والإنقاذ والآليات والمعدات وجميع لوازم مكافحة الحريق ولوازم الإنقاذ والتأكد من تنفيذ قواعد وإجراءات السلامة الوقائية.",
+    "target_en": "The General Directorate of Civil Defense shall coordinate with the administrative agencies that have safety departments or firefighting teams to ensure the efficiency and availability of an adequate number of firefighters, rescue teams, vehicles, and equipment as well as firefighting and rescue supplies, and to ensure the implementation of preventive safety rules and procedures.",
+    "source_ar_norm": "يتم التنسيق بين المديرية العامة للدفاع المدني وبين الاجهزة الادارية التي لديها ادارات للسلامة او فرق للاطفاء، وذلك للتاكد من كافية وفعالية رجال الاطفاء والانقاذ والاليات والمعدات وجميع لوازم مكافحة الحريق ولوازم الانقاذ والتاكد من تنفيذ قواعد واجراءات السلامة الوقائية.",
+    "target_en_norm": "the general directorate of civil defense shall coordinate with the administrative agencies that have safety departments or firefighting teams to ensure the efficiency and availability of an adequate number of firefighters, rescue teams, vehicles, and equipment as well as firefighting and rescue supplies, and to ensure the implementation of preventive safety rules and procedures.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38288,
+    "source_ar": "المادة الخامسة والعشرون",
+    "target_en": "Article 25",
+    "source_ar_norm": "المادة الخامسة والعشرون",
+    "target_en_norm": "article 25",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38289,
+    "source_ar": "على الوزارات والمصالح الحكومية والأشخاص ذوي الشخصية المعنوية العامة وكذلك المؤسسات الخاصة التي يصدر بتحديدها قرار من وزير الداخلية ورئيس مجلس الدفاع المدني أن تعين أو تكلف من يكون مسئولا عن جميع ما يتعلق بأعمال السلامة والأمن الصناعي فيها وذلك وفقا للائحة يصدرها مجلس الدفاع المدني.",
+    "target_en": "Ministries, government agencies, and public corporate persons, as well as private establishments, designated pursuant to a decision by the Minister of Interior, Chairman of the Civil Defense Council, shall appoint or assign persons in charge of matters related to safety and industrial security in accordance with regulations issued by the Civil Defense Council.",
+    "source_ar_norm": "علي الوزارات والمصالح الحكومية والاشخاص ذوي الشخصية المعنوية العامة وكذلك المؤسسات الخاصة التي يصدر بتحديدها قرار من وزير الداخلية ورئيس مجلس الدفاع المدني ان تعين او تكلف من يكون مسئولا عن جميع ما يتعلق باعمال السلامة والامن الصناعي فيها وذلك وفقا للائحة يصدرها مجلس الدفاع المدني.",
+    "target_en_norm": "ministries, government agencies, and public corporate persons, as well as private establishments, designated pursuant to a decision by the minister of interior, chairman of the civil defense council, shall appoint or assign persons in charge of matters related to safety and industrial security in accordance with regulations issued by the civil defense council.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38290,
+    "source_ar": "المادة السادسة والعشرون",
+    "target_en": "Article 26",
+    "source_ar_norm": "المادة السادسة والعشرون",
+    "target_en_norm": "article 26",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38291,
+    "source_ar": "يجب عند تنفيذ تدابير وعمليات الدفاع المدني عدم التأثير على حرمة المباني والمنشآت ما أمكن ذلك وحصر الضرر في أضيق الحدود.",
+    "target_en": "During the execution of civil defense measures and operations, the inviolability of buildings and facilities shall not be affected as much as possible, and harm shall be reduced to the minimum.",
+    "source_ar_norm": "يجب عند تنفيذ تدابير وعمليات الدفاع المدني عدم التاثير علي حرمة المباني والمنشات ما امكن ذلك وحصر الضرر في اضيق الحدود.",
+    "target_en_norm": "during the execution of civil defense measures and operations, the inviolability of buildings and facilities shall not be affected as much as possible, and harm shall be reduced to the minimum.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38292,
+    "source_ar": "المادة السابعة والعشرون",
+    "target_en": "Article 27",
+    "source_ar_norm": "المادة السابعة والعشرون",
+    "target_en_norm": "article 27",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38293,
+    "source_ar": "يخضع رجال الدفاع المدني من غير العسكريين في حالات الحرب والطوارئ والكوارث من حيث الضبط والربط والعقوبات وضبط المخالفات والتحقيق فيها لنظم الخدمة العسكرية.",
+    "target_en": "Non-military civil defense personnel shall, at times of war, emergency, and disasters, be subject to military service regulations with regard to discipline, penalties, recording, and investigation of violations.",
+    "source_ar_norm": "يخضع رجال الدفاع المدني من غير العسكريين في حالات الحرب والطوارئ والكوارث من حيث الضبط والربط والعقوبات وضبط المخالفات والتحقيق فيها لنظم الخدمة العسكرية.",
+    "target_en_norm": "non-military civil defense personnel shall, at times of war, emergency, and disasters, be subject to military service regulations with regard to discipline, penalties, recording, and investigation of violations.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38294,
+    "source_ar": "المادة الثامنة والعشرون",
+    "target_en": "Article 28",
+    "source_ar_norm": "المادة الثامنة والعشرون",
+    "target_en_norm": "article 28",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38295,
+    "source_ar": "لا يجوز نزع أي آلة أو إشارة مركبة لأغراض الدفاع المدني أو تعطيلها إلا بعد التنسيق مع الدفاع المدني، ويلزم المخالف بتكاليف إعادة أصل الشيء المنزوع أو المعطل إلى حالته السابقة، ويعاقب بغرامة لا تتجاوز خمسين ألف ريال.",
+    "target_en": "Equipment or signs posted for civil defense purposes may not be removed or disabled without coordination with the Civil Defense Department. Violators shall be liable for the costs of returning the removed or disabled item to its former condition, and shall be subject to a fine not exceeding 50,000 riyals.",
+    "source_ar_norm": "لا يجوز نزع اي الة او اشارة مركبة لاغراض الدفاع المدني او تعطيلها الا بعد التنسيق مع الدفاع المدني، ويلزم المخالف بتكاليف اعادة اصل الشيء المنزوع او المعطل الي حالته السابقة، ويعاقب بغرامة لا تتجاوز خمسين الف ريال.",
+    "target_en_norm": "equipment or signs posted for civil defense purposes may not be removed or disabled without coordination with the civil defense department. violators shall be liable for the costs of returning the removed or disabled item to its former condition, and shall be subject to a fine not exceeding 50,000 riyals.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38296,
+    "source_ar": "المادة التاسعة والعشرون",
+    "target_en": "Article 29",
+    "source_ar_norm": "المادة التاسعة والعشرون",
+    "target_en_norm": "article 29",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38297,
+    "source_ar": "مع مراعاة ما تقضي به الأنظمة يصدر وزير الداخلية ورئيس مجلس الدفاع المدني في حالات الطوارئ والكوارث قرارات بتنفيذ خطة الدفاع المدني، ويعين في قراراته العقوبات التي توقع على من يخالفها على ألا تتجاوز السجن لمدة سنة وغرامة مالية لا تتجاوز خمسين ألف ريال أو إحدى هاتين العقوبتين.",
+    "target_en": "Without prejudice to any other law, the Minister of Interior, Chairman of the Civil Defense Council, shall, in cases of emergency and disasters, issue decisions to implement the Civil Defense plan. Such decisions shall include penalties to be imposed against violators, provided that such penalties do not exceed one year of imprisonment and a fine not exceeding 50,000 riyals, or either penalty.",
+    "source_ar_norm": "مع مراعاة ما تقضي به الانظمة يصدر وزير الداخلية ورئيس مجلس الدفاع المدني في حالات الطوارئ والكوارث قرارات بتنفيذ خطة الدفاع المدني، ويعين في قراراته العقوبات التي توقع علي من يخالفها علي الا تتجاوز السجن لمدة سنة وغرامة مالية لا تتجاوز خمسين الف ريال او احدي هاتين العقوبتين.",
+    "target_en_norm": "without prejudice to any other law, the minister of interior, chairman of the civil defense council, shall, in cases of emergency and disasters, issue decisions to implement the civil defense plan. such decisions shall include penalties to be imposed against violators, provided that such penalties do not exceed one year of imprisonment and a fine not exceeding 50,000 riyals, or either penalty.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38298,
+    "source_ar": "المادة الثلاثون",
+    "target_en": "Article 30",
+    "source_ar_norm": "المادة الثلاثون",
+    "target_en_norm": "article 30",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38299,
+    "source_ar": "أ - مع مراعاة المواد السابعة والعشرين والثامنة والعشرين والتاسعة والعشرين - يعاقب المخالف لأي حكم من أحكام هذا النظام أو لوائحه أو القرارات الصادرة بناء عليه بالسجن مدة لا تزيد على ستة أشهر أو بغرامة لا تزيد على ثلاثين ألف ريال أو بهما معا.",
+    "target_en": "A. Subject to Articles 27, 28, and 29, any person violating any of the provisions of this Law, its regulations, or decisions issued thereupon, shall be subject to imprisonment for a term not exceeding six months, a fine not exceeding 30,000 riyals, or both.",
+    "source_ar_norm": "ا - مع مراعاة المواد السابعة والعشرين والثامنة والعشرين والتاسعة والعشرين - يعاقب المخالف لاي حكم من احكام هذا النظام او لوائحه او القرارات الصادرة بناء عليه بالسجن مدة لا تزيد علي ستة اشهر او بغرامة لا تزيد علي ثلاثين الف ريال او بهما معا.",
+    "target_en_norm": "a. subject to articles 27, 28, and 29, any person violating any of the provisions of this law, its regulations, or decisions issued thereupon, shall be subject to imprisonment for a term not exceeding six months, a fine not exceeding 30,000 riyals, or both.",
+    "file_name": "نظام الدفاع المدني.docx"
+  },
+  {
+    "id": 38300,
+    "source_ar": "ب - يشكل وزير الداخلية رئيس مجلس الدفاع المدني لجانا، تتكون كل لجنة من ثلاثة أعضاء على الأقل، يكون أحدهم من ذوي التأهيل الشرعي أو النظامي، وذلك للنظر في مخالفات هذا النظام، وإيقاع عقوبة الغرامة المنصوص عليها فيه. وإذا رأت اللجنة أن المخالفة تستوجب عقوبة السجن فتحال إلى ديوان المظالم.",
+    "target_en": "B. The Minister of Interior, Chairman of the Civil Defense Council shall form committees. Each committee shall consist of at least three members, with a member qualified in Sharia or law, to consider violations of this Law and impose prescribed penalties. If the committee determines that the violation warrants imprisonment, it shall refer the matter to the Board of Grievances.",
+    "source_ar_norm": "ب - يشكل وزير الداخلية رئيس مجلس الدفاع المدني لجانا، تتكون كل لجنة من ثلاثة اعضاء علي الاقل، يكون احدهم من ذوي التاهيل الشرعي او النظامي، وذلك للنظر في مخالفات هذا النظام، وايقاع عقوبة الغرامة المنصوص عليها فيه. واذا رات اللجنة ان المخالفة تستوجب عقوبة السجن فتحال الي ديوان المظالم.",
+    "target_en_norm": "b. the minister of interior, chairman of the civil defense council shall form committees. each committee shall consist of at least three members, with a member qualified in sharia or law, to consider violations of this law and impose prescribed penalties. if the committee determines that the violation warrants imprisonment, it shall refer the matter to the board of grievances.",
+    "file_name": "نظام الدفاع المدني.docx"
+  }
+]

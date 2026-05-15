@@ -1,0 +1,802 @@
+[
+  {
+    "id": 37001,
+    "source_ar": "القسم العلمي: وحدة أكاديمية تمثل تخصصاً علمياً عامًّا.",
+    "target_en": "Department: An academic unit representing an academic specialization.",
+    "source_ar_norm": "القسم العلمي: وحدة اكاديمية تمثل تخصصا علميا عاما.",
+    "target_en_norm": "department: an academic unit representing an academic specialization.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37002,
+    "source_ar": "مجلس القسم: السلطة المختصة بالشؤون الأكاديمية في القسم العلمي.",
+    "target_en": "Department Council: The body entrusted with managing the department’s academic affairs.",
+    "source_ar_norm": "مجلس القسم: السلطة المختصة بالشؤون الاكاديمية في القسم العلمي.",
+    "target_en_norm": "department council: the body entrusted with managing the department’s academic affairs.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37003,
+    "source_ar": "أعضاء هيئة التدريس: الأساتذة والأساتذة المشاركون والأساتذة المساعدون، ويعد في حكم أعضاء هيئة التدريس المحاضرون والمعيدون.",
+    "target_en": "Faculty: Full professors, associate professors, and assistant professors; lecturers and teaching assistants shall be deemed faculty members.",
+    "source_ar_norm": "اعضاء هيئة التدريس: الاساتذة والاساتذة المشاركون والاساتذة المساعدون، ويعد في حكم اعضاء هيئة التدريس المحاضرون والمعيدون.",
+    "target_en_norm": "faculty: full professors, associate professors, and assistant professors; lecturers and teaching assistants shall be deemed faculty members.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37004,
+    "source_ar": "المادة الثانية: الأهداف",
+    "target_en": "Article 2: Objectives",
+    "source_ar_norm": "المادة الثانية: الاهداف",
+    "target_en_norm": "article 2: objectives",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37005,
+    "source_ar": "يهدف النظام إلى تنظيم شؤون التعليم العالي ويعمل على تعزيز مكانته العلمية والبحثية والمجتمعية على المستوى المحلي والإقليمي والدولي.",
+    "target_en": "The Law aims to regulate higher education and enhance its academic, research, and societal status at the local, regional, and international levels.",
+    "source_ar_norm": "يهدف النظام الي تنظيم شؤون التعليم العالي ويعمل علي تعزيز مكانته العلمية والبحثية والمجتمعية علي المستوي المحلي والاقليمي والدولي.",
+    "target_en_norm": "the law aims to regulate higher education and enhance its academic, research, and societal status at the local, regional, and international levels.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37006,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37007,
+    "source_ar": "الجامعة مؤسسة أكاديمية عامة ذات شخصية اعتبارية مستقلة ماليًّا وإداريًّا، تسهم في تنفيذ السياسة التعليمية للدولة وفق أحكام النظام، ولا تهدف إلى الربح.",
+    "target_en": "A university is a public non-profit academic institution with a financially and administratively independent legal personality, which contributes to the implementation of the State’s educational policy, in accordance with the Law.",
+    "source_ar_norm": "الجامعة مؤسسة اكاديمية عامة ذات شخصية اعتبارية مستقلة ماليا واداريا، تسهم في تنفيذ السياسة التعليمية للدولة وفق احكام النظام، ولا تهدف الي الربح.",
+    "target_en_norm": "a university is a public non-profit academic institution with a financially and administratively independent legal personality, which contributes to the implementation of the state’s educational policy, in accordance with the law.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37008,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37009,
+    "source_ar": "1. يكون إنشاء الجامعات وفروعها بقرار من مجلس الوزراء بناء على توصية مجلس شؤون الجامعات.",
+    "target_en": "1. Establishment of universities and their branches shall be pursuant to a decision by the Council of Ministers upon a recommendation by the Council of University Affairs.",
+    "source_ar_norm": "1. يكون انشاء الجامعات وفروعها بقرار من مجلس الوزراء بناء علي توصية مجلس شؤون الجامعات.",
+    "target_en_norm": "1. establishment of universities and their branches shall be pursuant to a decision by the council of ministers upon a recommendation by the council of university affairs.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37010,
+    "source_ar": "2. تتكون الجامعة من: كليات، وعمادات، وأقسام علمية، ومعاهد، ومراكز، ووحدات تعليمية دون المستوى الجامعي، ومستشفيات جامعية.",
+    "target_en": "2. A university consists of colleges, deanships, academic departments, institutes, centers, educational units below university level, and university hospitals.",
+    "source_ar_norm": "2. تتكون الجامعة من: كليات، وعمادات، واقسام علمية، ومعاهد، ومراكز، ووحدات تعليمية دون المستوي الجامعي، ومستشفيات جامعية.",
+    "target_en_norm": "2. a university consists of colleges, deanships, academic departments, institutes, centers, educational units below university level, and university hospitals.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37011,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37012,
+    "source_ar": "يتولى حوكمة وإدارة وتصريف شؤون الجامعة:",
+    "target_en": "The governance, administration, and management of university affairs shall be undertaken by:",
+    "source_ar_norm": "يتولي حوكمة وادارة وتصريف شؤون الجامعة:",
+    "target_en_norm": "the governance, administration, and management of university affairs shall be undertaken by:",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37013,
+    "source_ar": "مجلس الأمناء",
+    "target_en": "Board of trustees.",
+    "source_ar_norm": "مجلس الامناء",
+    "target_en_norm": "board of trustees.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37014,
+    "source_ar": "مجلس الجامعة",
+    "target_en": "University council.",
+    "source_ar_norm": "مجلس الجامعة",
+    "target_en_norm": "university council.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37015,
+    "source_ar": "رئيس الجامعة",
+    "target_en": "University president.",
+    "source_ar_norm": "رئيس الجامعة",
+    "target_en_norm": "university president.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37016,
+    "source_ar": "الفصل الثاني: مجلس شؤون الجامعات",
+    "target_en": "Chapter 2: Council of University Affairs",
+    "source_ar_norm": "الفصل الثاني: مجلس شؤون الجامعات",
+    "target_en_norm": "chapter 2: council of university affairs",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37017,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37018,
+    "source_ar": "ينشأ مجلس يسمى \"مجلس شؤون الجامعات\" ويتكون من الآتي:",
+    "target_en": "A council named the “Council of University Affairs” shall be established, comprising the following:",
+    "source_ar_norm": "ينشا مجلس يسمي \"مجلس شؤون الجامعات\" ويتكون من الاتي:",
+    "target_en_norm": "a council named the “council of university affairs” shall be established, comprising the following:",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37019,
+    "source_ar": "1. وزير التعليم",
+    "target_en": "1. Minister of Education",
+    "source_ar_norm": "1. وزير التعليم",
+    "target_en_norm": "1. minister of education",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37020,
+    "source_ar": "2. نائب وزير التعليم للجامعات والبحث والابتكار",
+    "target_en": "2. Vice Minister of Education for Universities, Research, and Innovation",
+    "source_ar_norm": "2. نائب وزير التعليم للجامعات والبحث والابتكار",
+    "target_en_norm": "2. vice minister of education for universities, research, and innovation",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37021,
+    "source_ar": "3. نائب وزير المالية",
+    "target_en": "3. Vice Minister of Finance",
+    "source_ar_norm": "3. نائب وزير المالية",
+    "target_en_norm": "3. vice minister of finance",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37022,
+    "source_ar": "4. نائب وزير الخدمة المدنية",
+    "target_en": "4. Vice Minister of Civil Service",
+    "source_ar_norm": "4. نائب وزير الخدمة المدنية",
+    "target_en_norm": "4. vice minister of civil service",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37023,
+    "source_ar": "5. نائب وزير العمل والتنمية الاجتماعية",
+    "target_en": "5. Vice Minister of Labor and Social Development",
+    "source_ar_norm": "5. نائب وزير العمل والتنمية الاجتماعية",
+    "target_en_norm": "5. vice minister of labor and social development",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37024,
+    "source_ar": "6. نائب وزير الاقتصاد والتخطيط",
+    "target_en": "6. Vice Minister of Economy and Planning",
+    "source_ar_norm": "6. نائب وزير الاقتصاد والتخطيط",
+    "target_en_norm": "6. vice minister of economy and planning",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37025,
+    "source_ar": "7. رئيس هيئة تقويم التعليم والتدريب",
+    "target_en": "7. President of the Education and Training Evaluation Commission",
+    "source_ar_norm": "7. رئيس هيئة تقويم التعليم والتدريب",
+    "target_en_norm": "7. president of the education and training evaluation commission",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37026,
+    "source_ar": "8. خمسة من رؤساء الجامعات أحدهم من رؤساء الجامعات الأهلية",
+    "target_en": "8. Five university presidents, one of whom shall be a private university president",
+    "source_ar_norm": "8. خمسة من رؤساء الجامعات احدهم من رؤساء الجامعات الاهلية",
+    "target_en_norm": "8. five university presidents, one of whom shall be a private university president",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37027,
+    "source_ar": "9. اثنان من ذوي الخبرة والاختصاص",
+    "target_en": "9. Two experts",
+    "source_ar_norm": "9. اثنان من ذوي الخبرة والاختصاص",
+    "target_en_norm": "9. two experts",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37028,
+    "source_ar": "ويرشح وزير التعليم الأعضاء الوارد ذكرهم في الفقرتين (8، 9)، ويصدر تعيينهم بأمر من رئيس مجلس الوزراء لمدة ثلاث سنوات قابلة للتجديد لمرة واحدة.",
+    "target_en": "The Minister of Education shall nominate the members referred to in paragraphs (8) and (9) who shall be appointed pursuant to an order by the Prime Minister for a period of three years, renewable once.",
+    "source_ar_norm": "ويرشح وزير التعليم الاعضاء الوارد ذكرهم في الفقرتين (8، 9)، ويصدر تعيينهم بامر من رئيس مجلس الوزراء لمدة ثلاث سنوات قابلة للتجديد لمرة واحدة.",
+    "target_en_norm": "the minister of education shall nominate the members referred to in paragraphs (8) and (9) who shall be appointed pursuant to an order by the prime minister for a period of three years, renewable once.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37029,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37030,
+    "source_ar": "مع مراعاة الاختصاصات الأخرى المسندة إليه بموجب النظام، يتولى مجلس شؤون الجامعات الاختصاصات الآتية:",
+    "target_en": "Notwithstanding other powers assigned thereto under the Law, the Council of University Affairs shall have the following powers:",
+    "source_ar_norm": "مع مراعاة الاختصاصات الاخري المسندة اليه بموجب النظام، يتولي مجلس شؤون الجامعات الاختصاصات الاتية:",
+    "target_en_norm": "notwithstanding other powers assigned thereto under the law, the council of university affairs shall have the following powers:",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37031,
+    "source_ar": "1. إقرار السياسات والاستراتيجيات للتعليم الجامعي.",
+    "target_en": "1. Approve academic policies and strategies.",
+    "source_ar_norm": "1. اقرار السياسات والاستراتيجيات للتعليم الجامعي.",
+    "target_en_norm": "1. approve academic policies and strategies.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37032,
+    "source_ar": "2. إقرار اللوائح التنظيمية للجامعات والكليات الأهلية وفروع الجامعات الأجنبية والرقابة عليها.",
+    "target_en": "2. Approve the regulations of private universities and colleges and branches of foreign universities and monitor the implementation thereof.",
+    "source_ar_norm": "2. اقرار اللوائح التنظيمية للجامعات والكليات الاهلية وفروع الجامعات الاجنبية والرقابة عليها.",
+    "target_en_norm": "2. approve the regulations of private universities and colleges and branches of foreign universities and monitor the implementation thereof.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37033,
+    "source_ar": "3. إقرار اللوائح المالية، والإدارية، والأكاديمية للجامعات.",
+    "target_en": "3. Approve the financial, administrative, and academic regulations of universities.",
+    "source_ar_norm": "3. اقرار اللوائح المالية، والادارية، والاكاديمية للجامعات.",
+    "target_en_norm": "3. approve the financial, administrative, and academic regulations of universities.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37034,
+    "source_ar": "4. إقرار اللوائح المنظمة للاستثمار والإيرادات الذاتية للجامعة.",
+    "target_en": "4. Approve the regulations governing investments and self-generated revenues of universities.",
+    "source_ar_norm": "4. اقرار اللوائح المنظمة للاستثمار والايرادات الذاتية للجامعة.",
+    "target_en_norm": "4. approve the regulations governing investments and self-generated revenues of universities.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37035,
+    "source_ar": "5. إقرار اللوائح المنظمة لقبول التبرعات والهبات والوصايا وآلية الإنفاق منها.",
+    "target_en": "5. Approve the regulations governing the acceptance of donations, gifts, and bequests, as well as disbursement therefrom.",
+    "source_ar_norm": "5. اقرار اللوائح المنظمة لقبول التبرعات والهبات والوصايا والية الانفاق منها.",
+    "target_en_norm": "5. approve the regulations governing the acceptance of donations, gifts, and bequests, as well as disbursement therefrom.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37036,
+    "source_ar": "6. إقرار اللوائح المنظمة لإدارة الأوقاف في الجامعات بالتنسيق مع الهيئة العامة للأوقاف.",
+    "target_en": "6. Approve the regulations governing the management of endowments at universities, in coordination with the General Authority for Endowments.",
+    "source_ar_norm": "6. اقرار اللوائح المنظمة لادارة الاوقاف في الجامعات بالتنسيق مع الهيئة العامة للاوقاف.",
+    "target_en_norm": "6. approve the regulations governing the management of endowments at universities, in coordination with the general authority for endowments.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37037,
+    "source_ar": "7. إقرار اللوائح المنظمة للجمعيات العلمية والكراسي البحثية ومراكز البحث والابتكار وريادة الأعمال في الجامعات.",
+    "target_en": "7. Approve the regulations governing academic societies, research chairs, as well as research, innovation, and entrepreneurship centers at universities.",
+    "source_ar_norm": "7. اقرار اللوائح المنظمة للجمعيات العلمية والكراسي البحثية ومراكز البحث والابتكار وريادة الاعمال في الجامعات.",
+    "target_en_norm": "7. approve the regulations governing academic societies, research chairs, as well as research, innovation, and entrepreneurship centers at universities.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37038,
+    "source_ar": "8. إقرار اللائحة الخاصة بإنشاء المتاحف العلمية في الجامعات بالتنسيق مع الجهات ذات الاختصاص.",
+    "target_en": "8. Approve the regulations for establishing science museums at universities in coordination with the relevant agencies.",
+    "source_ar_norm": "8. اقرار اللائحة الخاصة بانشاء المتاحف العلمية في الجامعات بالتنسيق مع الجهات ذات الاختصاص.",
+    "target_en_norm": "8. approve the regulations for establishing science museums at universities in coordination with the relevant agencies.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37039,
+    "source_ar": "9. إقرار اللائحة المنظمة لصناديق الطلبة في الجامعات.",
+    "target_en": "9. Approve the regulations governing student funds at universities.",
+    "source_ar_norm": "9. اقرار اللائحة المنظمة لصناديق الطلبة في الجامعات.",
+    "target_en_norm": "9. approve the regulations governing student funds at universities.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37040,
+    "source_ar": "10. حوكمة وتقويم أداء الجامعات أكاديميًّا وإداريًّا وماليًّا.",
+    "target_en": "10. Governance and evaluation of universities’ academic, administrative, and financial performance.",
+    "source_ar_norm": "10. حوكمة وتقويم اداء الجامعات اكاديميا واداريا وماليا.",
+    "target_en_norm": "10. governance and evaluation of universities’ academic, administrative, and financial performance.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37041,
+    "source_ar": "11. إقرار قواعد ترشيح رؤساء الجامعات.",
+    "target_en": "11. Approve the rules for the nomination of university presidents.",
+    "source_ar_norm": "11. اقرار قواعد ترشيح رؤساء الجامعات.",
+    "target_en_norm": "11. approve the rules for the nomination of university presidents.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37042,
+    "source_ar": "12. التوصية بالموافقة على إنشاء الجامعات وفروعها والكليات الأهلية وفروع الجامعات الأجنبية وإلغائها ودمجها ورفعها إلى مجلس الوزراء للموافقة عليها.",
+    "target_en": "12. Recommend the approval of the establishment, cancellation, or merger of universities and branches thereof, private colleges, and branches of foreign universities, and submit the same to the Council of Ministers for approval.",
+    "source_ar_norm": "12. التوصية بالموافقة علي انشاء الجامعات وفروعها والكليات الاهلية وفروع الجامعات الاجنبية والغائها ودمجها ورفعها الي مجلس الوزراء للموافقة عليها.",
+    "target_en_norm": "12. recommend the approval of the establishment, cancellation, or merger of universities and branches thereof, private colleges, and branches of foreign universities, and submit the same to the council of ministers for approval.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37043,
+    "source_ar": "13. اعتماد إنشاء الكليات والعمادات والمعاهد والمراكز والأقسام العلمية أو دمجها، أو إلغائها، أو تعديل أسمائها.",
+    "target_en": "13. Approve the establishment, merger, cancellation, or amendment of names of colleges, deanships, institutes, centers, and academic departments.",
+    "source_ar_norm": "13. اعتماد انشاء الكليات والعمادات والمعاهد والمراكز والاقسام العلمية او دمجها، او الغائها، او تعديل اسمائها.",
+    "target_en_norm": "13. approve the establishment, merger, cancellation, or amendment of names of colleges, deanships, institutes, centers, and academic departments.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37044,
+    "source_ar": "14. تحديد المكافآت والمزايا لرئيس مجلس الأمناء ونائبه وأعضائه.",
+    "target_en": "14. Determine the remunerations and benefits of the chairman, vice-chairman, and members of the board of trustees.",
+    "source_ar_norm": "14. تحديد المكافات والمزايا لرئيس مجلس الامناء ونائبه واعضائه.",
+    "target_en_norm": "14. determine the remunerations and benefits of the chairman, vice-chairman, and members of the board of trustees.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37045,
+    "source_ar": "15. تحديد الراتب والمزايا لرئيس الجامعة.",
+    "target_en": "15. Determine the salary and benefits of the university president.",
+    "source_ar_norm": "15. تحديد الراتب والمزايا لرئيس الجامعة.",
+    "target_en_norm": "15. determine the salary and benefits of the university president.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37046,
+    "source_ar": "16. تحديد المكافآت والمزايا لرئيس مجلس الجامعة وأعضائه.",
+    "target_en": "16. Determine the remunerations and benefits of the chairman and members of the university council.",
+    "source_ar_norm": "16. تحديد المكافات والمزايا لرئيس مجلس الجامعة واعضائه.",
+    "target_en_norm": "16. determine the remunerations and benefits of the chairman and members of the university council.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37047,
+    "source_ar": "17. تحديد المكافآت والمزايا لنواب رئيس الجامعة والعمداء ووكلائهم ورؤساء الأقسام العلمية وأعضاء المجالس العلمية وأمنائها.",
+    "target_en": "17. Determine the remunerations and benefits of university vice-presidents, college deans and vice-deans, heads of departments, as well as members and secretaries of academic councils.",
+    "source_ar_norm": "17. تحديد المكافات والمزايا لنواب رئيس الجامعة والعمداء ووكلائهم ورؤساء الاقسام العلمية واعضاء المجالس العلمية وامنائها.",
+    "target_en_norm": "17. determine the remunerations and benefits of university vice-presidents, college deans and vice-deans, heads of departments, as well as members and secretaries of academic councils.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37048,
+    "source_ar": "18. تحديد المكافآت والمزايا لأمين عام مجلس شؤون الجامعات.",
+    "target_en": "18. Determine the remunerations and benefits of the General Secretary of the Council of University Affairs.",
+    "source_ar_norm": "18. تحديد المكافات والمزايا لامين عام مجلس شؤون الجامعات.",
+    "target_en_norm": "18. determine the remunerations and benefits of the general secretary of the council of university affairs.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37049,
+    "source_ar": "19. التوصية بالموافقة على اتفاقيات التعاون العلمي والفني، ومذكرات التفاهم بين الجامعات والمؤسسات الأجنبية.",
+    "target_en": "19. Recommend approval of academic and technical cooperation agreements and memoranda of understanding between universities and foreign institutions.",
+    "source_ar_norm": "19. التوصية بالموافقة علي اتفاقيات التعاون العلمي والفني، ومذكرات التفاهم بين الجامعات والمؤسسات الاجنبية.",
+    "target_en_norm": "19. recommend approval of academic and technical cooperation agreements and memoranda of understanding between universities and foreign institutions.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37050,
+    "source_ar": "20. تحديد البرامج والدورات التي يجوز للجامعة وضع مقابل مالي عليها، وتحديد القواعد العامة للمقابل المالي.",
+    "target_en": "20. Determine the programs and courses for which a university may charge fees, and set the General Rules governing such fees.",
+    "source_ar_norm": "20. تحديد البرامج والدورات التي يجوز للجامعة وضع مقابل مالي عليها، وتحديد القواعد العامة للمقابل المالي.",
+    "target_en_norm": "20. determine the programs and courses for which a university may charge fees, and set the general rules governing such fees.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37051,
+    "source_ar": "21. اعتماد التقرير السنوي المتعلق بنشاطات الجامعة وإنجازاتها، ورفعه إلى مجلس الوزراء.",
+    "target_en": "21. Approve the university’s annual report on activities and achievements, and submit it to the Council of Ministers.",
+    "source_ar_norm": "21. اعتماد التقرير السنوي المتعلق بنشاطات الجامعة وانجازاتها، ورفعه الي مجلس الوزراء.",
+    "target_en_norm": "21. approve the university’s annual report on activities and achievements, and submit it to the council of ministers.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37052,
+    "source_ar": "22. الرقابة على أداء مجالس الأمناء والتحقق من سلامة قراراتها.",
+    "target_en": "22. Oversee the performance of boards of trustees and ensure the validity of their decisions.",
+    "source_ar_norm": "22. الرقابة علي اداء مجالس الامناء والتحقق من سلامة قراراتها.",
+    "target_en_norm": "22. oversee the performance of boards of trustees and ensure the validity of their decisions.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37053,
+    "source_ar": "23. الفصل فيما يطرأ من تنازع في الاختصاص بين مجلسي الأمناء ومجلس الجامعة.",
+    "target_en": "23. Resolve any conflict of powers between the board of trustees and the university council.",
+    "source_ar_norm": "23. الفصل فيما يطرا من تنازع في الاختصاص بين مجلسي الامناء ومجلس الجامعة.",
+    "target_en_norm": "23. resolve any conflict of powers between the board of trustees and the university council.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37054,
+    "source_ar": "24. دراسة ما يحيله إليه رئيسه أو يقترح عرضه أي عضو من أعضائه.",
+    "target_en": "24. Review issues referred to it by the Chairman or proposed by any of its members.",
+    "source_ar_norm": "24. دراسة ما يحيله اليه رئيسه او يقترح عرضه اي عضو من اعضائه.",
+    "target_en_norm": "24. review issues referred to it by the chairman or proposed by any of its members.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37055,
+    "source_ar": "وللمجلس تفويض بعض صلاحياته لأي من مجالس الأمناء وفق الضوابط التي يقرها مجلس شؤون الجامعات. وله تكوين لجان دائمة أو مؤقتة من أعضائه أو من غيرهم لدراسة ما يكلّفها به.",
+    "target_en": "The Council may delegate certain powers to any of the boards of trustees according to the regulations approved by the Council of University Affairs. It may form standing or ad hoc committees from among its members or others to review matters it refers thereto.",
+    "source_ar_norm": "وللمجلس تفويض بعض صلاحياته لاي من مجالس الامناء وفق الضوابط التي يقرها مجلس شؤون الجامعات. وله تكوين لجان دائمة او مؤقتة من اعضائه او من غيرهم لدراسة ما يكلفها به.",
+    "target_en_norm": "the council may delegate certain powers to any of the boards of trustees according to the regulations approved by the council of university affairs. it may form standing or ad hoc committees from among its members or others to review matters it refers thereto.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37056,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37057,
+    "source_ar": "يعقد مجلس شؤون الجامعات اجتماعاته مرة كل أربعة أشهر في العام على الأقل بناءً على دعوة من رئيسه أو من ينوب عنه، ولا يصح انعقاد الاجتماع إلا إذا حضره ثلثا الأعضاء على الأقل، يكون من بينهم الرئيس أو نائبه.",
+    "target_en": "The Council of University Affairs shall convene upon a call by its Chairman or his designee at least once every four months. The meeting shall only be valid if attended by at least two thirds of the members, including the Chairman or his deputy.",
+    "source_ar_norm": "يعقد مجلس شؤون الجامعات اجتماعاته مرة كل اربعة اشهر في العام علي الاقل بناء علي دعوة من رئيسه او من ينوب عنه، ولا يصح انعقاد الاجتماع الا اذا حضره ثلثا الاعضاء علي الاقل، يكون من بينهم الرئيس او نائبه.",
+    "target_en_norm": "the council of university affairs shall convene upon a call by its chairman or his designee at least once every four months. the meeting shall only be valid if attended by at least two thirds of the members, including the chairman or his deputy.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37058,
+    "source_ar": "وتصدر القرارات بأغلبية أصوات الأعضاء الحاضرين على الأقل، وعند التساوي يرجح الجانب الذي صوت معه رئيس الاجتماع.",
+    "target_en": "Decisions shall be passed by majority vote of attending members; in case of a tie, the chairman of the meeting shall have the casting vote.",
+    "source_ar_norm": "وتصدر القرارات باغلبية اصوات الاعضاء الحاضرين علي الاقل، وعند التساوي يرجح الجانب الذي صوت معه رئيس الاجتماع.",
+    "target_en_norm": "decisions shall be passed by majority vote of attending members; in case of a tie, the chairman of the meeting shall have the casting vote.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37059,
+    "source_ar": "ولرئيس المجلس دعوة من يراه للحضور عند مناقشة أي من الموضوعات التي تتطلب ذلك دون أن يكون له حق التصويت.",
+    "target_en": "The Chairman of the Council may invite others to attend Council meetings in a non-voting capacity.",
+    "source_ar_norm": "ولرئيس المجلس دعوة من يراه للحضور عند مناقشة اي من الموضوعات التي تتطلب ذلك دون ان يكون له حق التصويت.",
+    "target_en_norm": "the chairman of the council may invite others to attend council meetings in a non-voting capacity.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37060,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37061,
+    "source_ar": "1. يكون لمجلس شؤون الجامعات أمين عام يتم تكليفه بأمر من رئيس مجلس الوزراء بناء على ترشيح رئيس مجلس شؤون الجامعات.",
+    "target_en": "1. The Council of University Affairs shall have a general secretary to be appointed pursuant to an order by the Prime Minister upon nomination by the Chairman of the Council of University Affairs.",
+    "source_ar_norm": "1. يكون لمجلس شؤون الجامعات امين عام يتم تكليفه بامر من رئيس مجلس الوزراء بناء علي ترشيح رئيس مجلس شؤون الجامعات.",
+    "target_en_norm": "1. the council of university affairs shall have a general secretary to be appointed pursuant to an order by the prime minister upon nomination by the chairman of the council of university affairs.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37062,
+    "source_ar": "2. تُخصّص ميزانية برنامج تشغيلي لأمانة مجلس شؤون الجامعات وتعتمد ضمن ميزانية وزارة التعليم.",
+    "target_en": "2. An operating program budget shall be allocated to the Secretariat of the Council of University Affairs and shall be approved within the budget of the Ministry of Education.",
+    "source_ar_norm": "2. تخصص ميزانية برنامج تشغيلي لامانة مجلس شؤون الجامعات وتعتمد ضمن ميزانية وزارة التعليم.",
+    "target_en_norm": "2. an operating program budget shall be allocated to the secretariat of the council of university affairs and shall be approved within the budget of the ministry of education.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37063,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37064,
+    "source_ar": "تختص الأمانة العامة لمجلس شؤون الجامعات بالقيام بما يأتي:",
+    "target_en": "The General Secretariat of the Council of University Affairs shall be responsible for the following:",
+    "source_ar_norm": "تختص الامانة العامة لمجلس شؤون الجامعات بالقيام بما ياتي:",
+    "target_en_norm": "the general secretariat of the council of university affairs shall be responsible for the following:",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37065,
+    "source_ar": "1. مساندة المجلس في أعماله ومسؤولياته، وإعداد دراساته، وتوفير البيانات والمعلومات اللازمة لاتخاذ قراراته ومتابعة تنفيذها.",
+    "target_en": "1. Supporting the Council in performing its duties and responsibilities, conducting its studies, and providing data and information necessary for rendering its decisions, and monitoring the implementation of such decisions.",
+    "source_ar_norm": "1. مساندة المجلس في اعماله ومسؤولياته، واعداد دراساته، وتوفير البيانات والمعلومات اللازمة لاتخاذ قراراته ومتابعة تنفيذها.",
+    "target_en_norm": "1. supporting the council in performing its duties and responsibilities, conducting its studies, and providing data and information necessary for rendering its decisions, and monitoring the implementation of such decisions.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37066,
+    "source_ar": "2. التحضير لاجتماعات المجلس واللجان المنبثقة منه.",
+    "target_en": "2. Preparing for meetings of the Council and its committees.",
+    "source_ar_norm": "2. التحضير لاجتماعات المجلس واللجان المنبثقة منه.",
+    "target_en_norm": "2. preparing for meetings of the council and its committees.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37067,
+    "source_ar": "3. إعداد جداول أعمال اجتماعات المجلس وإبلاغها للأعضاء.",
+    "target_en": "3. Preparing agendas for Council meetings and communicate the same to Council members.",
+    "source_ar_norm": "3. اعداد جداول اعمال اجتماعات المجلس وابلاغها للاعضاء.",
+    "target_en_norm": "3. preparing agendas for council meetings and communicate the same to council members.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37068,
+    "source_ar": "4. تبليغ قرارات المجلس للجهات المعنية ومتابعتها.",
+    "target_en": "4. Communicating Council decisions to relevant agencies and monitoring their implementation.",
+    "source_ar_norm": "4. تبليغ قرارات المجلس للجهات المعنية ومتابعتها.",
+    "target_en_norm": "4. communicating council decisions to relevant agencies and monitoring their implementation.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37069,
+    "source_ar": "5. التنسيق مع الجهات الحكومية الأخرى فيما يتعلق بأعمال المجلس.",
+    "target_en": "5. Coordinating with government agencies on behalf of the Council.",
+    "source_ar_norm": "5. التنسيق مع الجهات الحكومية الاخري فيما يتعلق باعمال المجلس.",
+    "target_en_norm": "5. coordinating with government agencies on behalf of the council.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37070,
+    "source_ar": "6. القيام بالأعمال الإدارية والمالية للمجلس.",
+    "target_en": "6. Conducting the Council’s administrative and financial work.",
+    "source_ar_norm": "6. القيام بالاعمال الادارية والمالية للمجلس.",
+    "target_en_norm": "6. conducting the council’s administrative and financial work.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37071,
+    "source_ar": "الفصل الثالث: مجالس الأمناء",
+    "target_en": "Chapter 3: Boards of Trustees",
+    "source_ar_norm": "الفصل الثالث: مجالس الامناء",
+    "target_en_norm": "chapter 3: boards of trustees",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37072,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37073,
+    "source_ar": "يكون لكل جامعة مجلس أمناء يكلف رئيسه ونائبه وأعضاؤه -فيما عدا رئيس الجامعة- بأمر من رئيس مجلس الوزراء -بناءً على ترشيح رئيس مجلس شؤون الجامعات- لمدة ثلاث سنوات قابلة للتجديد مرة واحدة، ويكون رئيس مجلس الأمناء مسؤولاً أمام رئيس مجلس شؤون الجامعات فيما يختص به مجلس الأمناء طبقاً للنظام.",
+    "target_en": "Each university shall have a board of trustees whose chairman, vice-chairman and members, except for the university president, shall be appointed pursuant to an order by the Prime Minister upon nomination by the Chairman of the Council of University Affairs for a term of three years, renewable once. The chairman of the board of trustees shall report to the Chairman of the Council of University Affairs with respect to the powers of the board of trustees stipulated under the Law.",
+    "source_ar_norm": "يكون لكل جامعة مجلس امناء يكلف رئيسه ونائبه واعضاؤه -فيما عدا رئيس الجامعة- بامر من رئيس مجلس الوزراء -بناء علي ترشيح رئيس مجلس شؤون الجامعات- لمدة ثلاث سنوات قابلة للتجديد مرة واحدة، ويكون رئيس مجلس الامناء مسؤولا امام رئيس مجلس شؤون الجامعات فيما يختص به مجلس الامناء طبقا للنظام.",
+    "target_en_norm": "each university shall have a board of trustees whose chairman, vice-chairman and members, except for the university president, shall be appointed pursuant to an order by the prime minister upon nomination by the chairman of the council of university affairs for a term of three years, renewable once. the chairman of the board of trustees shall report to the chairman of the council of university affairs with respect to the powers of the board of trustees stipulated under the law.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37074,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37075,
+    "source_ar": "يتكون مجلس أمناء الجامعة من الآتي:",
+    "target_en": "The university board of trustees shall be composed of the following:",
+    "source_ar_norm": "يتكون مجلس امناء الجامعة من الاتي:",
+    "target_en_norm": "the university board of trustees shall be composed of the following:",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37076,
+    "source_ar": "1. أربعة أعضاء من ذوي الخبرة والكفاية والاختصاص ممن عملوا في مجال التعليم الجامعي.",
+    "target_en": "1. Four members with expertise in university education.",
+    "source_ar_norm": "1. اربعة اعضاء من ذوي الخبرة والكفاية والاختصاص ممن عملوا في مجال التعليم الجامعي.",
+    "target_en_norm": "1. four members with expertise in university education.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37077,
+    "source_ar": "2. ثلاثة أعضاء من القطاع الخاص من ذوي الخبرة والكفاية والاختصاص في المجال المالي والاستثماري والنظامي.",
+    "target_en": "2. Three members from the private sector with expertise in finance, investment, and law.",
+    "source_ar_norm": "2. ثلاثة اعضاء من القطاع الخاص من ذوي الخبرة والكفاية والاختصاص في المجال المالي والاستثماري والنظامي.",
+    "target_en_norm": "2. three members from the private sector with expertise in finance, investment, and law.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37078,
+    "source_ar": "3. رئيس الجامعة.",
+    "target_en": "3. University president.",
+    "source_ar_norm": "3. رئيس الجامعة.",
+    "target_en_norm": "3. university president.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37079,
+    "source_ar": "4. ثلاثة من أعضاء هيئة التدريس في الجامعة يرشحهم مجلس الجامعة.",
+    "target_en": "4. Three faculty members nominated by the university council.",
+    "source_ar_norm": "4. ثلاثة من اعضاء هيئة التدريس في الجامعة يرشحهم مجلس الجامعة.",
+    "target_en_norm": "4. three faculty members nominated by the university council.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37080,
+    "source_ar": "ويكون رئيس المجلس ونائبه من الوارد ذكرهم في الفقرتين (1) و (2) من هذه المادة.",
+    "target_en": "The board’s chairman and vice chairman shall be from among the members mentioned in paragraphs (1) and (2) of this Article.",
+    "source_ar_norm": "ويكون رئيس المجلس ونائبه من الوارد ذكرهم في الفقرتين (1) و (2) من هذه المادة.",
+    "target_en_norm": "the board’s chairman and vice chairman shall be from among the members mentioned in paragraphs (1) and (2) of this article.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37081,
+    "source_ar": "المادة الثالثة عشرة",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة",
+    "target_en_norm": "article 13",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37082,
+    "source_ar": "يتولى مجلس أمناء الجامعة -وفقاً لأحكام النظام وما يصدره مجلس شؤون الجامعات من لوائح وقواعد- المهمات الآتية:",
+    "target_en": "Subject to the Law as well as the rules and regulations issued by the Council of University Affairs, the university board of trustees shall have the following powers:",
+    "source_ar_norm": "يتولي مجلس امناء الجامعة -وفقا لاحكام النظام وما يصدره مجلس شؤون الجامعات من لوائح وقواعد- المهمات الاتية:",
+    "target_en_norm": "subject to the law as well as the rules and regulations issued by the council of university affairs, the university board of trustees shall have the following powers:",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37083,
+    "source_ar": "1. إقرار رؤية الجامعة ورسالتها وأهدافها، ورسم سياساتها الأكاديمية والمالية والإدارية.",
+    "target_en": "1. Approve the university’s vision, mission, and objectives, and set its academic, financial, and administrative policies.",
+    "source_ar_norm": "1. اقرار رؤية الجامعة ورسالتها واهدافها، ورسم سياساتها الاكاديمية والمالية والادارية.",
+    "target_en_norm": "1. approve the university’s vision, mission, and objectives, and set its academic, financial, and administrative policies.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37084,
+    "source_ar": "2. إقرار الهيكل والدليل التنظيمي للجامعة.",
+    "target_en": "2. Approve the university’s organizational structure.",
+    "source_ar_norm": "2. اقرار الهيكل والدليل التنظيمي للجامعة.",
+    "target_en_norm": "2. approve the university’s organizational structure.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37085,
+    "source_ar": "3. حوكمة الجامعة، والتأكد من تحقق رؤية الجامعة ورسالتها وأهدافها.",
+    "target_en": "3. Assume governance of the university, and ensure realization of its vision, mission, and objectives.",
+    "source_ar_norm": "3. حوكمة الجامعة، والتاكد من تحقق رؤية الجامعة ورسالتها واهدافها.",
+    "target_en_norm": "3. assume governance of the university, and ensure realization of its vision, mission, and objectives.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37086,
+    "source_ar": "4. إقرار القواعد التنفيذية للوائح المالية والإدارية للجامعة.",
+    "target_en": "4. Approve the implementation procedures for the university's financial and administrative regulations.",
+    "source_ar_norm": "4. اقرار القواعد التنفيذية للوائح المالية والادارية للجامعة.",
+    "target_en_norm": "4. approve the implementation procedures for the university's financial and administrative regulations.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37087,
+    "source_ar": "5. ترشيح رئيس الجامعة.",
+    "target_en": "5. Nominate university president.",
+    "source_ar_norm": "5. ترشيح رئيس الجامعة.",
+    "target_en_norm": "5. nominate university president.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37088,
+    "source_ar": "6. الموافقة على تكليف نواب رئيس الجامعة.",
+    "target_en": "6. Approve the appointment of university vice-presidents.",
+    "source_ar_norm": "6. الموافقة علي تكليف نواب رئيس الجامعة.",
+    "target_en_norm": "6. approve the appointment of university vice-presidents.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37089,
+    "source_ar": "7. التوصية بالموافقة على إنشاء الكليات، والعمادات، والمعاهد، والمراكز، والأقسام العلمية أو دمجها، أو إلغائها، أو تعديل أسمائها.",
+    "target_en": "7. Recommend the approval of the establishment, merger, cancellation, or amendment of names of colleges, deanships, institutes, centers, and academic departments.",
+    "source_ar_norm": "7. التوصية بالموافقة علي انشاء الكليات، والعمادات، والمعاهد، والمراكز، والاقسام العلمية او دمجها، او الغائها، او تعديل اسمائها.",
+    "target_en_norm": "7. recommend the approval of the establishment, merger, cancellation, or amendment of names of colleges, deanships, institutes, centers, and academic departments.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37090,
+    "source_ar": "8. إقرار القواعد المنظمة لتعيين عمداء الكليات، والعمادات، والمعاهد، والمراكز، ورؤساء الأقسام العلمية.",
+    "target_en": "8. Approve the regulations governing the appointment of deans of colleges, deanships, institutes, and centers, and heads of departments.",
+    "source_ar_norm": "8. اقرار القواعد المنظمة لتعيين عمداء الكليات، والعمادات، والمعاهد، والمراكز، ورؤساء الاقسام العلمية.",
+    "target_en_norm": "8. approve the regulations governing the appointment of deans of colleges, deanships, institutes, and centers, and heads of departments.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37091,
+    "source_ar": "9. إقرار القواعد المنظمة لدعم البحث العلمي، والابتكار، والتأليف، والترجمة، والنشر.",
+    "target_en": "9. Approve the regulations governing the support of research, innovation, authorship, translation, and publication.",
+    "source_ar_norm": "9. اقرار القواعد المنظمة لدعم البحث العلمي، والابتكار، والتاليف، والترجمة، والنشر.",
+    "target_en_norm": "9. approve the regulations governing the support of research, innovation, authorship, translation, and publication.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37092,
+    "source_ar": "10. إقرار القواعد المنظمة لتقديم الخدمات الاستشارية والأكاديمية للقطاعين العام والخاص ومؤسسات المجتمع المدني.",
+    "target_en": "10. Approve the regulations governing the provision of consultation and academic services to the public and private sectors and civil society organizations.",
+    "source_ar_norm": "10. اقرار القواعد المنظمة لتقديم الخدمات الاستشارية والاكاديمية للقطاعين العام والخاص ومؤسسات المجتمع المدني.",
+    "target_en_norm": "10. approve the regulations governing the provision of consultation and academic services to the public and private sectors and civil society organizations.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37093,
+    "source_ar": "11. إقرار الميزانية السنوية للجامعة.",
+    "target_en": "11. Approve the university’s annual budget.",
+    "source_ar_norm": "11. اقرار الميزانية السنوية للجامعة.",
+    "target_en_norm": "11. approve the university’s annual budget.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37094,
+    "source_ar": "12. الموافقة على تأسيس الشركات أو المشاركة في تأسيسها أو دخول الجامعة فيها شريكًا أو مساهمًا وذلك وفقًا للإجراءات النظامية.",
+    "target_en": "12. Approve the university's incorporation of companies or participation therein, or the joining of existing companies as partner or shareholder, in accordance with legal procedures.",
+    "source_ar_norm": "12. الموافقة علي تاسيس الشركات او المشاركة في تاسيسها او دخول الجامعة فيها شريكا او مساهما وذلك وفقا للاجراءات النظامية.",
+    "target_en_norm": "12. approve the university's incorporation of companies or participation therein, or the joining of existing companies as partner or shareholder, in accordance with legal procedures.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37095,
+    "source_ar": "13. تعيين مراجع خارجي (أو أكثر) لحسابات الجامعة.",
+    "target_en": "13. Appoint one or more external auditors for university accounts.",
+    "source_ar_norm": "13. تعيين مراجع خارجي (او اكثر) لحسابات الجامعة.",
+    "target_en_norm": "13. appoint one or more external auditors for university accounts.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37096,
+    "source_ar": "14. اعتماد الحساب الختامي للجامعة، ورفعه إلى مجلس شؤون الجامعات.",
+    "target_en": "14. Approve the university’s final accounts and submit the same to the Council of University Affairs.",
+    "source_ar_norm": "14. اعتماد الحساب الختامي للجامعة، ورفعه الي مجلس شؤون الجامعات.",
+    "target_en_norm": "14. approve the university’s final accounts and submit the same to the council of university affairs.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37097,
+    "source_ar": "15. إقرار أسماء الدرجات العلمية.",
+    "target_en": "15. Approve titles of academic degrees.",
+    "source_ar_norm": "15. اقرار اسماء الدرجات العلمية.",
+    "target_en_norm": "15. approve titles of academic degrees.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37098,
+    "source_ar": "16. منح درجة الدكتوراه الفخرية.",
+    "target_en": "16. Award honorary doctorate degrees.",
+    "source_ar_norm": "16. منح درجة الدكتوراه الفخرية.",
+    "target_en_norm": "16. award honorary doctorate degrees.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37099,
+    "source_ar": "17. تشكيل المجلس الاستشاري الدولي للجامعة وتحديد اختصاصاته ووضع قواعد عمله.",
+    "target_en": "17. Form the university’s international advisory board, determine its powers, and set its work procedures.",
+    "source_ar_norm": "17. تشكيل المجلس الاستشاري الدولي للجامعة وتحديد اختصاصاته ووضع قواعد عمله.",
+    "target_en_norm": "17. form the university’s international advisory board, determine its powers, and set its work procedures.",
+    "file_name": "نظام الجامعات.docx"
+  },
+  {
+    "id": 37100,
+    "source_ar": "18. مراجعة التقرير السنوي للجامعة ورفعه إلى مجلس شؤون الجامعات.",
+    "target_en": "18. Review the university’s annual report and submit it to the Council of University Affairs.",
+    "source_ar_norm": "18. مراجعة التقرير السنوي للجامعة ورفعه الي مجلس شؤون الجامعات.",
+    "target_en_norm": "18. review the university’s annual report and submit it to the council of university affairs.",
+    "file_name": "نظام الجامعات.docx"
+  }
+]

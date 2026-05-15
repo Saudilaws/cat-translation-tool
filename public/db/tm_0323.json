@@ -1,0 +1,802 @@
+[
+  {
+    "id": 32201,
+    "source_ar": "المحافظ: محافظ مؤسسة النقد العربي السعودي.",
+    "target_en": "Governor: Governor of Saudi Arabian Monetary Agency.",
+    "source_ar_norm": "المحافظ: محافظ مؤسسة النقد العربي السعودي.",
+    "target_en_norm": "governor: governor of saudi arabian monetary agency.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32202,
+    "source_ar": "العقد: عقد الإيجار التمويلي.",
+    "target_en": "Contract: Finance lease contract.",
+    "source_ar_norm": "العقد: عقد الايجار التمويلي.",
+    "target_en_norm": "contract: finance lease contract.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32203,
+    "source_ar": "المؤجر: الشركة المساهمة المرخص لها بمزاولة الإيجار التمويلي.",
+    "target_en": "Lessor: A joint stock company licensed to offer finance lease.",
+    "source_ar_norm": "المؤجر: الشركة المساهمة المرخص لها بمزاولة الايجار التمويلي.",
+    "target_en_norm": "lessor: a joint stock company licensed to offer finance lease.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32204,
+    "source_ar": "المستأجر: من يملك منفعة الأصل المؤجر بموجب العقد.",
+    "target_en": "Lessee: A person holding the right to use the leased asset under a contract.",
+    "source_ar_norm": "المستاجر: من يملك منفعة الاصل المؤجر بموجب العقد.",
+    "target_en_norm": "lessee: a person holding the right to use the leased asset under a contract.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32205,
+    "source_ar": "المنتج: من يقوم بإنتاج الأصل المؤجر.",
+    "target_en": "Producer: Producer of the leased asset.",
+    "source_ar_norm": "المنتج: من يقوم بانتاج الاصل المؤجر.",
+    "target_en_norm": "producer: producer of the leased asset.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32206,
+    "source_ar": "المورد: من يورد الأصل المؤجر.",
+    "target_en": "Supplier: Supplier of the leased asset.",
+    "source_ar_norm": "المورد: من يورد الاصل المؤجر.",
+    "target_en_norm": "supplier: supplier of the leased asset.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32207,
+    "source_ar": "الأصل المؤجر: ما يمكن إيجاره من العقار، والمنقول، والمنافع، والخدمات، والحقوق المعنوية كحقوق الملكية الفكرية.",
+    "target_en": "Leased Asset: Any asset that can be leased whether real estates, movables, rights, services and intangible rights such as intellectual property rights.",
+    "source_ar_norm": "الاصل المؤجر: ما يمكن ايجاره من العقار، والمنقول، والمنافع، والخدمات، والحقوق المعنوية كحقوق الملكية الفكرية.",
+    "target_en_norm": "leased asset: any asset that can be leased whether real estates, movables, rights, services and intangible rights such as intellectual property rights.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32208,
+    "source_ar": "الصيانة الأساسية: الصيانة التي يتوقف عليها بقاء أصل العين بحسب العرف.",
+    "target_en": "Basic Maintenance: The maintenance indispensable to the original asset as per the norm.",
+    "source_ar_norm": "الصيانة الاساسية: الصيانة التي يتوقف عليها بقاء اصل العين بحسب العرف.",
+    "target_en_norm": "basic maintenance: the maintenance indispensable to the original asset as per the norm.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32209,
+    "source_ar": "الصيانة التشغيلية: الصيانة التي تحتاج إليها العين لاستمرار منفعتها بحسب العرف.",
+    "target_en": "Operational Maintenance: The maintenance needed for the continuation of the asset's benefit as per the norm.",
+    "source_ar_norm": "الصيانة التشغيلية: الصيانة التي تحتاج اليها العين لاستمرار منفعتها بحسب العرف.",
+    "target_en_norm": "operational maintenance: the maintenance needed for the continuation of the asset's benefit as per the norm.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32210,
+    "source_ar": "سجل العقود: السجل الذي تقيد فيه عقود الإيجار التمويلي المبرمة في المملكة أو المنفذة فيها، وتقيد فيه عقود البيع المترتبة على الإيجار التمويلي، وأي تعديل لهذه العقود، وذلك وفقًا لأحكام هذا النظام.",
+    "target_en": "Contract Register: A register for finance lease contracts concluded or executed in the Kingdom, sales contracts resulting from finance lease and any amendments thereto in accordance with the provisions of this Law.",
+    "source_ar_norm": "سجل العقود: السجل الذي تقيد فيه عقود الايجار التمويلي المبرمة في المملكة او المنفذة فيها، وتقيد فيه عقود البيع المترتبة علي الايجار التمويلي، واي تعديل لهذه العقود، وذلك وفقا لاحكام هذا النظام.",
+    "target_en_norm": "contract register: a register for finance lease contracts concluded or executed in the kingdom, sales contracts resulting from finance lease and any amendments thereto in accordance with the provisions of this law.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32211,
+    "source_ar": "المادة الثانية:",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية:",
+    "target_en_norm": "article 2",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32212,
+    "source_ar": "1- يعد عقدًا إيجاريًّا تمويليًّا كل عقد يقوم المؤجر فيه بإيجار أصول ثابتة أو منقولة، أو منافع، أو خدمات، أو حقوق معنوية بصفته مالكًا لها، أو لمنفعتها، أو قادرًا على تملكها، أو قادرًا على إقامتها، وذلك إذا كان حصول المؤجر عليها لأجل تأجيرها على الغير على سبيل الاحتراف، وتوضح اللائحة ذلك.",
+    "target_en": "1. The finance lease contract is a contract under which the lessor leases fixed or movable assets, rights, services or intangible rights in his capacity as owner or owner of proceeds thereof, or a person able to own or produce such assets, provided that the lessor has obtained such assets for the purpose of leasing them, as a business, to a third party, as specified by the Regulation.",
+    "source_ar_norm": "1- يعد عقدا ايجاريا تمويليا كل عقد يقوم المؤجر فيه بايجار اصول ثابتة او منقولة، او منافع، او خدمات، او حقوق معنوية بصفته مالكا لها، او لمنفعتها، او قادرا علي تملكها، او قادرا علي اقامتها، وذلك اذا كان حصول المؤجر عليها لاجل تاجيرها علي الغير علي سبيل الاحتراف، وتوضح اللائحة ذلك.",
+    "target_en_norm": "1. the finance lease contract is a contract under which the lessor leases fixed or movable assets, rights, services or intangible rights in his capacity as owner or owner of proceeds thereof, or a person able to own or produce such assets, provided that the lessor has obtained such assets for the purpose of leasing them, as a business, to a third party, as specified by the regulation.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32213,
+    "source_ar": "2- دون إخلال بأحكام تملك العقار لغير السعوديين، يجوز انتقال ملكية الأصول المؤجرة للمستأجر وفقًا لأحكام العقد، إما بشرط يعلق التملك على سداد دفعات العقد، أو سدادها مع مبلغ محدد، أو بوعد بالبيع بثمنٍ رمزي، أو بثمنٍ يتفق عليه في العقد، أو بقيمة الأصل وقت إبرام عقد البيع، أو بالهبة.",
+    "target_en": "2. Without prejudice to provisions governing real estate ownership by non- Saudis, ownership of leased assets may be conveyed to the lessee pursuant to the provisions of the contract either by stipulating that ownership conveyance is conditional on paying the dues of the contract, paying such dues plus a certain amount, promising to sell for a nominal price, paying the price agreed upon in the contract, paying the value of the leased asset at the time of concluding the sale contract, or by way of gift.",
+    "source_ar_norm": "2- دون اخلال باحكام تملك العقار لغير السعوديين، يجوز انتقال ملكية الاصول المؤجرة للمستاجر وفقا لاحكام العقد، اما بشرط يعلق التملك علي سداد دفعات العقد، او سدادها مع مبلغ محدد، او بوعد بالبيع بثمن رمزي، او بثمن يتفق عليه في العقد، او بقيمة الاصل وقت ابرام عقد البيع، او بالهبة.",
+    "target_en_norm": "2. without prejudice to provisions governing real estate ownership by non- saudis, ownership of leased assets may be conveyed to the lessee pursuant to the provisions of the contract either by stipulating that ownership conveyance is conditional on paying the dues of the contract, paying such dues plus a certain amount, promising to sell for a nominal price, paying the price agreed upon in the contract, paying the value of the leased asset at the time of concluding the sale contract, or by way of gift.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32214,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article 3",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32215,
+    "source_ar": "يجب أن يحرر عقد كتابي أو إلكتروني بين المؤجر والمستأجر، يتضمن بيانات تتعلق بالعاقدين، والأصل المؤجر، وحالته، والأجرة، وآجال سدادها، ومدة العقد، وشروطه، ويسجل لاحقًا في سجل العقود وفقًا لأحكام هذا النظام، ويلحق بسجله أي تعديل يطرأ عليه.",
+    "target_en": "A written or electronic contract shall be concluded between the lessor and the lessee and shall include information relating to contracting parties, leased asset and its condition, lease amount, payment due dates as well as contract term and contract conditions. The contract and any amendments thereto shall be registered in the contract register in accordance with the provisions of this Law.",
+    "source_ar_norm": "يجب ان يحرر عقد كتابي او الكتروني بين المؤجر والمستاجر، يتضمن بيانات تتعلق بالعاقدين، والاصل المؤجر، وحالته، والاجرة، واجال سدادها، ومدة العقد، وشروطه، ويسجل لاحقا في سجل العقود وفقا لاحكام هذا النظام، ويلحق بسجله اي تعديل يطرا عليه.",
+    "target_en_norm": "a written or electronic contract shall be concluded between the lessor and the lessee and shall include information relating to contracting parties, leased asset and its condition, lease amount, payment due dates as well as contract term and contract conditions. the contract and any amendments thereto shall be registered in the contract register in accordance with the provisions of this law.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32216,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article 4",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32217,
+    "source_ar": "يجوز للمستأجر قبل إبرام العقد تحديد أوصاف الأصل المراد استئجاره مع المورد أو المنتج أو المقاول، ويكون المستأجر مسؤولًا عما يترتب على تحديده لأوصاف الأصل.",
+    "target_en": "Prior to concluding the contract, the lessee may determine the specifications of the asset to be leased with the supplier, producer or contractor. The lessee shall be liable for any consequences resulting from determining asset specifications.",
+    "source_ar_norm": "يجوز للمستاجر قبل ابرام العقد تحديد اوصاف الاصل المراد استئجاره مع المورد او المنتج او المقاول، ويكون المستاجر مسؤولا عما يترتب علي تحديده لاوصاف الاصل.",
+    "target_en_norm": "prior to concluding the contract, the lessee may determine the specifications of the asset to be leased with the supplier, producer or contractor. the lessee shall be liable for any consequences resulting from determining asset specifications.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32218,
+    "source_ar": "وإن حددت الأوصاف بناءً على موافقة من المؤجر، فلا تكون ملزمة للمؤجر إلا في حدود الموافقة.",
+    "target_en": "If such specifications were determined with the approval of the lessor, such specifications shall be binding to the lessor only within the limits of such approval.",
+    "source_ar_norm": "وان حددت الاوصاف بناء علي موافقة من المؤجر، فلا تكون ملزمة للمؤجر الا في حدود الموافقة.",
+    "target_en_norm": "if such specifications were determined with the approval of the lessor, such specifications shall be binding to the lessor only within the limits of such approval.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32219,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article 5",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32220,
+    "source_ar": "إذا فوض المؤجر المستأجر - كتابة - بتسلم الأصل المؤجر مباشرة من المورد أو المنتج أو المقاول وفقًا للشروط والأوصاف المحددة في العقد، فيجب أن يكون التسليم بموجب محضر يثبت فيه حالة الأصل المؤجر، ويكون المستأجر مسؤولًا تجاه المؤجر عن أي بيان عن الأصل أثبت في محضر التسلم الموقع.",
+    "target_en": "If the lessor authorizes the lessee in writing to directly receive the leased asset from the supplier, producer or contractor as per the conditions and specifications set out in the contract, such receipt shall be by virtue of a record establishing the conditions of the leased asset. The lessee shall be responsible vis-à-vis the lessor for any information about the leased asset stated in said record.",
+    "source_ar_norm": "اذا فوض المؤجر المستاجر - كتابة - بتسلم الاصل المؤجر مباشرة من المورد او المنتج او المقاول وفقا للشروط والاوصاف المحددة في العقد، فيجب ان يكون التسليم بموجب محضر يثبت فيه حالة الاصل المؤجر، ويكون المستاجر مسؤولا تجاه المؤجر عن اي بيان عن الاصل اثبت في محضر التسلم الموقع.",
+    "target_en_norm": "if the lessor authorizes the lessee in writing to directly receive the leased asset from the supplier, producer or contractor as per the conditions and specifications set out in the contract, such receipt shall be by virtue of a record establishing the conditions of the leased asset. the lessee shall be responsible vis-à-vis the lessor for any information about the leased asset stated in said record.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32221,
+    "source_ar": "وإن امتنع المورد، أو المنتج، أو المقاول عن توقيع المحضر، فللمستأجر رفض تسلمه.",
+    "target_en": "If the supplier, producer or contractor refuses to sign the record, the lessee may refuse receipt of such asset.",
+    "source_ar_norm": "وان امتنع المورد، او المنتج، او المقاول عن توقيع المحضر، فللمستاجر رفض تسلمه.",
+    "target_en_norm": "if the supplier, producer or contractor refuses to sign the record, the lessee may refuse receipt of such asset.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32222,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article 6",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32223,
+    "source_ar": "1- يدفع المستأجر دفعات الأجرة المتفق عليها في المواعيد المحددة في العقد ولو لم ينتفع بالأصل المؤجر، إلا إذا كان عدم الانتفاع بسبب المؤجِّر.",
+    "target_en": "1. The lessee shall make the agreed lease payments on dates set in the contract regardless to whether the lessee benefits from the leased asset, unless the failure to benefit is caused by the lessor.",
+    "source_ar_norm": "1- يدفع المستاجر دفعات الاجرة المتفق عليها في المواعيد المحددة في العقد ولو لم ينتفع بالاصل المؤجر، الا اذا كان عدم الانتفاع بسبب المؤجر.",
+    "target_en_norm": "1. the lessee shall make the agreed lease payments on dates set in the contract regardless to whether the lessee benefits from the leased asset, unless the failure to benefit is caused by the lessor.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32224,
+    "source_ar": "2 - يجوز اشتراط تقديم حلول دفعات أجرة مستقبلية، يدفعها المستأجر في حال تأخره في السداد، بشرط ألا تتجاوز عدد الدفعات التي تأخر عن سدادها.",
+    "target_en": "2. A condition to advance the maturity dates of future lease payments to be made by the lessee in case of default is permissible, provided such payments do not exceed the number of defaulted payments.",
+    "source_ar_norm": "2 - يجوز اشتراط تقديم حلول دفعات اجرة مستقبلية، يدفعها المستاجر في حال تاخره في السداد، بشرط الا تتجاوز عدد الدفعات التي تاخر عن سدادها.",
+    "target_en_norm": "2. a condition to advance the maturity dates of future lease payments to be made by the lessee in case of default is permissible, provided such payments do not exceed the number of defaulted payments.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32225,
+    "source_ar": "3 - يجوز تعجيل جزء من الأجرة، ويرد المعجَّل من الأجرة إن تعذر تسليم الأصل أو الانتفاع به بسبب لا يعود إلى المستأجر.",
+    "target_en": "3. Part of the lease payments may be advanced, and the advance lease payments shall be refunded in case of failure to deliver the leased asset or benefit therefrom for a reason not attributed to the lessee.",
+    "source_ar_norm": "3 - يجوز تعجيل جزء من الاجرة، ويرد المعجل من الاجرة ان تعذر تسليم الاصل او الانتفاع به بسبب لا يعود الي المستاجر.",
+    "target_en_norm": "3. part of the lease payments may be advanced, and the advance lease payments shall be refunded in case of failure to deliver the leased asset or benefit therefrom for a reason not attributed to the lessee.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32226,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article 7",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32227,
+    "source_ar": "1 - يلتزم المستأجر باستعمال الأصل المؤجر في الأغراض المتفق عليها في حدود الاستعمال المعتاد، ويكون مسؤولًا عن القيام بأعمال الصيانة التشغيلية على نفقته وفق الأصول الفنية المتبعة. أما الصيانة الأساسية فإنها تلزم المؤجر، ما لم يتفق الطرفان على التزام المستأجر بها، وتكون حينئذ فيما ينشأ عن استخدام المستأجر للأصل دون ما يكون ناشئًا من خلل أو عيب في الأصل المؤجر.",
+    "target_en": "1. The lessee shall use the leased asset for the agreed purposes within the ordinary use and shall be responsible for performing the operational maintenance at his own expense according to prevailing technical practices. The basic maintenance shall be performed by the lessor unless agreed to be performed by the lessee. In such case, the basic maintenance shall be limited to wear and tear rather than inherent defect or fault in the leased asset.",
+    "source_ar_norm": "1 - يلتزم المستاجر باستعمال الاصل المؤجر في الاغراض المتفق عليها في حدود الاستعمال المعتاد، ويكون مسؤولا عن القيام باعمال الصيانة التشغيلية علي نفقته وفق الاصول الفنية المتبعة. اما الصيانة الاساسية فانها تلزم المؤجر، ما لم يتفق الطرفان علي التزام المستاجر بها، وتكون حينئذ فيما ينشا عن استخدام المستاجر للاصل دون ما يكون ناشئا من خلل او عيب في الاصل المؤجر.",
+    "target_en_norm": "1. the lessee shall use the leased asset for the agreed purposes within the ordinary use and shall be responsible for performing the operational maintenance at his own expense according to prevailing technical practices. the basic maintenance shall be performed by the lessor unless agreed to be performed by the lessee. in such case, the basic maintenance shall be limited to wear and tear rather than inherent defect or fault in the leased asset.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32228,
+    "source_ar": "2 - يلتزم المستأجر بإشعار المؤجر (على عنوانه) بما يطرأ على الأصل المؤجر من عوارض تمنع الانتفاع به كليًّا أو جزئيًّا فور حدوثها، وفق ما تحدده اللائحة.",
+    "target_en": "2. The lessee shall promptly notify the lessor at his address of any occurrence that prevents whole or partial use of the leased asset, in accordance with the Regulation.",
+    "source_ar_norm": "2 - يلتزم المستاجر باشعار المؤجر (علي عنوانه) بما يطرا علي الاصل المؤجر من عوارض تمنع الانتفاع به كليا او جزئيا فور حدوثها، وفق ما تحدده اللائحة.",
+    "target_en_norm": "2. the lessee shall promptly notify the lessor at his address of any occurrence that prevents whole or partial use of the leased asset, in accordance with the regulation.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32229,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article 8",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32230,
+    "source_ar": "لا يجوز للمستأجر إجراء أي تغيير أو تعديل في الأصل المؤجر دون موافقة محررة من المؤجر، تتضمن طبيعة التغيير أو التعديل، ونطاقه، والمسؤول عن كلفته.",
+    "target_en": "The lessee shall not make any alterations or modifications to the leased asset without a written consent by the lessor. Such consent shall determine the nature and scope of such alterations or modifications and the party responsible for the cost.",
+    "source_ar_norm": "لا يجوز للمستاجر اجراء اي تغيير او تعديل في الاصل المؤجر دون موافقة محررة من المؤجر، تتضمن طبيعة التغيير او التعديل، ونطاقه، والمسؤول عن كلفته.",
+    "target_en_norm": "the lessee shall not make any alterations or modifications to the leased asset without a written consent by the lessor. such consent shall determine the nature and scope of such alterations or modifications and the party responsible for the cost.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32231,
+    "source_ar": "المادة التاسعة:",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة:",
+    "target_en_norm": "article 9",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32232,
+    "source_ar": "1- لا يتحمل المستأجر تبعة هلاك الأصل المؤجر ما لم يتعدَّ أو يفرط، فإن كان الهلاك بتعدٍّ أو تفريط من المستأجر؛ فيتحمل المستأجر قيمة الأصل عند الهلاك باستثناء ما يغطيه التأمين.",
+    "target_en": "1. The lessee shall not be liable for loss of the leased asset unless caused by deliberate act or negligence on his part. If such loss is due to deliberate act or negligence on the part of the lessee, he shall be liable to pay the value of the leased asset at the time of loss save for what is covered by insurance.",
+    "source_ar_norm": "1- لا يتحمل المستاجر تبعة هلاك الاصل المؤجر ما لم يتعد او يفرط، فان كان الهلاك بتعد او تفريط من المستاجر؛ فيتحمل المستاجر قيمة الاصل عند الهلاك باستثناء ما يغطيه التامين.",
+    "target_en_norm": "1. the lessee shall not be liable for loss of the leased asset unless caused by deliberate act or negligence on his part. if such loss is due to deliberate act or negligence on the part of the lessee, he shall be liable to pay the value of the leased asset at the time of loss save for what is covered by insurance.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32233,
+    "source_ar": "2 - يتحمل المؤجر تبعة الهلاك إذا كان بسببه أو بقوة قاهرة.",
+    "target_en": "2. The lessor shall be liable for the consequences of loss if caused by him or by force majeure.",
+    "source_ar_norm": "2 - يتحمل المؤجر تبعة الهلاك اذا كان بسببه او بقوة قاهرة.",
+    "target_en_norm": "2. the lessor shall be liable for the consequences of loss if caused by him or by force majeure.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32234,
+    "source_ar": "3 - يتحمل المؤجر التأمين التعاوني على الأصل المؤجر، ولا يجوز اشتراطه على المستأجر.",
+    "target_en": "3. The lessor shall be responsible to obtain cooperative insurance on the leased asset and shall not require it from the lessee.",
+    "source_ar_norm": "3 - يتحمل المؤجر التامين التعاوني علي الاصل المؤجر، ولا يجوز اشتراطه علي المستاجر.",
+    "target_en_norm": "3. the lessor shall be responsible to obtain cooperative insurance on the leased asset and shall not require it from the lessee.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32235,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article 10",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32236,
+    "source_ar": "يجوز إصدار أوراق مالية مقابل حقوق المؤجر، وفقًا للوائح والقواعد التي تصدرها هيئة السوق المالية.",
+    "target_en": "Securities may be issued against the lessor’s rights in accordance with regulations and rules issued by the Capital Market Authority.",
+    "source_ar_norm": "يجوز اصدار اوراق مالية مقابل حقوق المؤجر، وفقا للوائح والقواعد التي تصدرها هيئة السوق المالية.",
+    "target_en_norm": "securities may be issued against the lessor’s rights in accordance with regulations and rules issued by the capital market authority.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32237,
+    "source_ar": "المادة الحادية عشرة:",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة:",
+    "target_en_norm": "article 11",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32238,
+    "source_ar": "يجوز للمستأجر التنازل عن العقد إلى مستأجر آخر بموافقة المؤجر، وتوضح اللائحة أحكام ذلك.",
+    "target_en": "The lessee may assign the contract to another lessee upon the lessor's approval. The Regulation shall stipulate provisions governing such assignment.",
+    "source_ar_norm": "يجوز للمستاجر التنازل عن العقد الي مستاجر اخر بموافقة المؤجر، وتوضح اللائحة احكام ذلك.",
+    "target_en_norm": "the lessee may assign the contract to another lessee upon the lessor's approval. the regulation shall stipulate provisions governing such assignment.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32239,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article 12",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32240,
+    "source_ar": "1- للمؤجر أن يضع على المنقول المؤجر أي بيان لحمايته، بما في ذلك اسمه، ورقم تسجيل العقد في سجل العقود.",
+    "target_en": "1. The lessor may affix any information to the leased moveable asset to protect it, including the lessor’s name and the contract registration number in the contract register.",
+    "source_ar_norm": "1- للمؤجر ان يضع علي المنقول المؤجر اي بيان لحمايته، بما في ذلك اسمه، ورقم تسجيل العقد في سجل العقود.",
+    "target_en_norm": "1. the lessor may affix any information to the leased moveable asset to protect it, including the lessor’s name and the contract registration number in the contract register.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32241,
+    "source_ar": "2 - للمؤجر - أو من ينيبه - الكشف على الأصل المؤجر؛ للتأكد من استمرار حيازة المستأجر له ولفحص حالته، على ألا يُلحق هذا الإجراء ضررًا بالمستأجر، وذلك وفقًا لما تحدده اللائحة والاشتراطات المنصوص عليها في العقد.",
+    "target_en": "2. The lessor, or designee, may inspect the leased asset to ascertain the continuity of possession by the lessee and examine its condition, provided this is not harmful to the lessee as provided for in the Regulation and the contract.",
+    "source_ar_norm": "2 - للمؤجر - او من ينيبه - الكشف علي الاصل المؤجر؛ للتاكد من استمرار حيازة المستاجر له ولفحص حالته، علي الا يلحق هذا الاجراء ضررا بالمستاجر، وذلك وفقا لما تحدده اللائحة والاشتراطات المنصوص عليها في العقد.",
+    "target_en_norm": "2. the lessor, or designee, may inspect the leased asset to ascertain the continuity of possession by the lessee and examine its condition, provided this is not harmful to the lessee as provided for in the regulation and the contract.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32242,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article 13",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32243,
+    "source_ar": "1- إذا كان اقتناء محل العقد أو تشغيله أو تسييره يستلزم رخصة، فلمستأجره أن يتقدم إلى الجهة المختصة بطلب الحصول على هذه الرخصة، استنادًا إلى العقد المسجل وفقًا لأحكام هذا النظام. ويجوز أن تصدر الرخصة باسم المؤجر متضمنة ما يدل على أن الأصل في حيازة المستأجر بموجب العقد، وتبين اللائحة أحكام ذلك.",
+    "target_en": "1. If the possession, operation or management of the asset subject of the contract requires obtaining a license, the lessee may apply to the competent authority to obtain such license based on the registered contract in accordance with the provisions of this Law. The license may be issued in the name of the lessor with an indication that the leased asset is in the possession of the lessee under the contract. This shall be specified in the Regulation.",
+    "source_ar_norm": "1- اذا كان اقتناء محل العقد او تشغيله او تسييره يستلزم رخصة، فلمستاجره ان يتقدم الي الجهة المختصة بطلب الحصول علي هذه الرخصة، استنادا الي العقد المسجل وفقا لاحكام هذا النظام. ويجوز ان تصدر الرخصة باسم المؤجر متضمنة ما يدل علي ان الاصل في حيازة المستاجر بموجب العقد، وتبين اللائحة احكام ذلك.",
+    "target_en_norm": "1. if the possession, operation or management of the asset subject of the contract requires obtaining a license, the lessee may apply to the competent authority to obtain such license based on the registered contract in accordance with the provisions of this law. the license may be issued in the name of the lessor with an indication that the leased asset is in the possession of the lessee under the contract. this shall be specified in the regulation.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32244,
+    "source_ar": "2 - يتحمل المستأجر جميع الرسوم النظامية للحصول على الرخصة وتجديدها، ما لم يتفق على خلاف ذلك.",
+    "target_en": "2. Unless agreed otherwise, the lessee shall bear all statutory fees for obtaining the license and renewal thereof.",
+    "source_ar_norm": "2 - يتحمل المستاجر جميع الرسوم النظامية للحصول علي الرخصة وتجديدها، ما لم يتفق علي خلاف ذلك.",
+    "target_en_norm": "2. unless agreed otherwise, the lessee shall bear all statutory fees for obtaining the license and renewal thereof.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32245,
+    "source_ar": "المادة الرابعة عشرة:",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة:",
+    "target_en_norm": "article 14",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32246,
+    "source_ar": "يتحمل المستأجر المسؤولية عن الأضرار الناتجة من استخدامه الأصل المؤجر.",
+    "target_en": "The lessee shall be liable for damages resulting from his use of the leased asset.",
+    "source_ar_norm": "يتحمل المستاجر المسؤولية عن الاضرار الناتجة من استخدامه الاصل المؤجر.",
+    "target_en_norm": "the lessee shall be liable for damages resulting from his use of the leased asset.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32247,
+    "source_ar": "المادة الخامسة عشرة:",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة:",
+    "target_en_norm": "article 15",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32248,
+    "source_ar": "إذا باع المؤجر الأصل المؤجر للغير، فإن ملكية الأصل تنتقل محملة بالعقد.",
+    "target_en": "If the lessor sells the leased asset to a third party, ownership of said asset shall be transferred encumbered by the contract.",
+    "source_ar_norm": "اذا باع المؤجر الاصل المؤجر للغير، فان ملكية الاصل تنتقل محملة بالعقد.",
+    "target_en_norm": "if the lessor sells the leased asset to a third party, ownership of said asset shall be transferred encumbered by the contract.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32249,
+    "source_ar": "المادة السادسة عشرة:",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة:",
+    "target_en_norm": "article 16",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32250,
+    "source_ar": "لا يجوز للمستأجر ترتيب حقوق على ملكية الأصل، أو رهنه لطرف ثالث إلا بموافقة محررة من المؤجر.",
+    "target_en": "The lessee may not accord rights against ownership of the asset nor pledge it to a third party without the written approval of the lessor.",
+    "source_ar_norm": "لا يجوز للمستاجر ترتيب حقوق علي ملكية الاصل، او رهنه لطرف ثالث الا بموافقة محررة من المؤجر.",
+    "target_en_norm": "the lessee may not accord rights against ownership of the asset nor pledge it to a third party without the written approval of the lessor.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32251,
+    "source_ar": "المادة السابعة عشرة:",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة:",
+    "target_en_norm": "article 17",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32252,
+    "source_ar": "إذا كان الأصل المؤجر منقولًا، فإنه يحتفظ بهذه الصفة ولو ثَبَت أو أُلحق بعقار.",
+    "target_en": "If the leased asset is a moveable asset, it shall remain as such even if it turns into a fixed asset or is attached to a real estate.",
+    "source_ar_norm": "اذا كان الاصل المؤجر منقولا، فانه يحتفظ بهذه الصفة ولو ثبت او الحق بعقار.",
+    "target_en_norm": "if the leased asset is a moveable asset, it shall remain as such even if it turns into a fixed asset or is attached to a real estate.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32253,
+    "source_ar": "المادة الثامنة عشرة:",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة:",
+    "target_en_norm": "article 18",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32254,
+    "source_ar": "1 - مع مراعاة أحكام نظام الشركات، تؤسس شركة مساهمة أو أكثر بترخيص من المؤسسة، يكون غرضها تسجيل العقود، وتتولى ما يأتي:",
+    "target_en": "1. Subject to the provisions of the Companies Law, a joint stock company or more shall be incorporated pursuant to a license from SAMA to register contracts. Such joint stock company shall undertake the following:",
+    "source_ar_norm": "1 - مع مراعاة احكام نظام الشركات، تؤسس شركة مساهمة او اكثر بترخيص من المؤسسة، يكون غرضها تسجيل العقود، وتتولي ما ياتي:",
+    "target_en_norm": "1. subject to the provisions of the companies law, a joint stock company or more shall be incorporated pursuant to a license from sama to register contracts. such joint stock company shall undertake the following:",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32255,
+    "source_ar": "أ - إعداد سجل خاص بالعقود، دون إخلال بما يقضي به نظام التسجيل العيني للعقار.",
+    "target_en": "a) prepare a register for contracts without prejudice to the provisions of the Real Estate Registration Law;",
+    "source_ar_norm": "ا - اعداد سجل خاص بالعقود، دون اخلال بما يقضي به نظام التسجيل العيني للعقار.",
+    "target_en_norm": "a) prepare a register for contracts without prejudice to the provisions of the real estate registration law;",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32256,
+    "source_ar": "ب - تسجيل العقود، متضمنة بيانات الأصول المؤجرة، والحقوق المتعلقة بها.",
+    "target_en": "b) register contracts which include information on the leased assets and related rights; and",
+    "source_ar_norm": "ب - تسجيل العقود، متضمنة بيانات الاصول المؤجرة، والحقوق المتعلقة بها.",
+    "target_en_norm": "b) register contracts which include information on the leased assets and related rights; and",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32257,
+    "source_ar": "ج - الإفصاح لجهات التمويل المرخصة عن سجلات العقود بموافقة محررة من المؤجر.",
+    "target_en": "c) disclose contract records to the licensed finance entities upon the written approval of the lessor.",
+    "source_ar_norm": "ج - الافصاح لجهات التمويل المرخصة عن سجلات العقود بموافقة محررة من المؤجر.",
+    "target_en_norm": "c) disclose contract records to the licensed finance entities upon the written approval of the lessor.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32258,
+    "source_ar": "2 - تنحصر المشاركة في تأسيس وملكية شركة تسجيل العقود المنصوص عليها في الفقرة (1) من هذه المادة في الشركات المرخصة لمزاولة الإيجار التمويلي. وتتولى المؤسسة تنظيم كيفية زيادة رأس مال شركة تسجيل العقود (وذلك بدخول الشركات المرخصة الجديدة في ملكية هذه الشركة)، وكيفية توزيع أرباحها، مع مراعاة نظام الشركات، ونظام السوق المالية ولوائحه.",
+    "target_en": "2. Participation in the incorporation and ownership of the contract registration company provided for in paragraph 1 of this Article shall be restricted to companies licensed to offer finance leasing. SAMA shall regulate capital increase of the contract registration company – upon co-ownership of said company by new licensed companies – and distribution of profits subject to Companies Law and Capital Market Law and its regulations.",
+    "source_ar_norm": "2 - تنحصر المشاركة في تاسيس وملكية شركة تسجيل العقود المنصوص عليها في الفقرة (1) من هذه المادة في الشركات المرخصة لمزاولة الايجار التمويلي. وتتولي المؤسسة تنظيم كيفية زيادة راس مال شركة تسجيل العقود (وذلك بدخول الشركات المرخصة الجديدة في ملكية هذه الشركة)، وكيفية توزيع ارباحها، مع مراعاة نظام الشركات، ونظام السوق المالية ولوائحه.",
+    "target_en_norm": "2. participation in the incorporation and ownership of the contract registration company provided for in paragraph 1 of this article shall be restricted to companies licensed to offer finance leasing. sama shall regulate capital increase of the contract registration company – upon co-ownership of said company by new licensed companies – and distribution of profits subject to companies law and capital market law and its regulations.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32259,
+    "source_ar": "3 - تنظم اللائحة إجراءات القيد في السجل في شركة تسجيل العقود وسند الملكية لغير العقار، والبيانات الأخرى التي يتطلبها القيد، وإجراءات التعديل والإلغاء، وحق إطلاع الغير على السجل، ومدة الحفظ، ووحدة بيانات التسجيل، وتبادلها، والنفاذ إليها، والمقابل المالي لقاء خدماتها.",
+    "target_en": "3. The Regulation shall regulate procedures for entry into the register of the contract registration company, the title deed of personal properties, other information required for registration, amendment and cancellation procedures, right of disclosure to third parties, retention period, registration information uniformity, exchange and access as well as fees for services offered.",
+    "source_ar_norm": "3 - تنظم اللائحة اجراءات القيد في السجل في شركة تسجيل العقود وسند الملكية لغير العقار، والبيانات الاخري التي يتطلبها القيد، واجراءات التعديل والالغاء، وحق اطلاع الغير علي السجل، ومدة الحفظ، ووحدة بيانات التسجيل، وتبادلها، والنفاذ اليها، والمقابل المالي لقاء خدماتها.",
+    "target_en_norm": "3. the regulation shall regulate procedures for entry into the register of the contract registration company, the title deed of personal properties, other information required for registration, amendment and cancellation procedures, right of disclosure to third parties, retention period, registration information uniformity, exchange and access as well as fees for services offered.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32260,
+    "source_ar": "المادة التاسعة عشرة:",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة:",
+    "target_en_norm": "article 19",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32261,
+    "source_ar": "1- دون إخلال بأحكام تملك العقار، تثبت ملكية المؤجر للأصول المؤجرة في مواجهة الغير بتسجيل العقود وفقًا لأحكام هذا النظام ولائحته.",
+    "target_en": "1. Without prejudice to the provisions governing ownership of real estates, ownership of the leased assets by the lessor vis-à-vis third parties shall be established by contract registration in accordance with this Law and its Regulation.",
+    "source_ar_norm": "1- دون اخلال باحكام تملك العقار، تثبت ملكية المؤجر للاصول المؤجرة في مواجهة الغير بتسجيل العقود وفقا لاحكام هذا النظام ولائحته.",
+    "target_en_norm": "1. without prejudice to the provisions governing ownership of real estates, ownership of the leased assets by the lessor vis-à-vis third parties shall be established by contract registration in accordance with this law and its regulation.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32262,
+    "source_ar": "2 - على المؤجر في حال التسنيد اتخاذ إجراءات التأشير على سجل العقود، وذلك وفقًا للقواعد والإجراءات التي تبينها اللائحة.",
+    "target_en": "2. In the event of securitization, the lessor shall take measures for endorsement in the contract register in accordance with rules and measures set out in the Regulation.",
+    "source_ar_norm": "2 - علي المؤجر في حال التسنيد اتخاذ اجراءات التاشير علي سجل العقود، وذلك وفقا للقواعد والاجراءات التي تبينها اللائحة.",
+    "target_en_norm": "2. in the event of securitization, the lessor shall take measures for endorsement in the contract register in accordance with rules and measures set out in the regulation.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32263,
+    "source_ar": "3 - لا يجوز الاحتجاج في مواجهة الغير بما يطرأ على العقد من تعديل لشروطه أو تغير أطرافه إلا من تاريخ التأشير على سجله بذلك.",
+    "target_en": "3. Amendments made to the contract, whether to terms or parties thereto, may be invoked against third parties only from the date of endorsement of such amendments in the register.",
+    "source_ar_norm": "3 - لا يجوز الاحتجاج في مواجهة الغير بما يطرا علي العقد من تعديل لشروطه او تغير اطرافه الا من تاريخ التاشير علي سجله بذلك.",
+    "target_en_norm": "3. amendments made to the contract, whether to terms or parties thereto, may be invoked against third parties only from the date of endorsement of such amendments in the register.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32264,
+    "source_ar": "المادة العشرون:",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون:",
+    "target_en_norm": "article 20",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32265,
+    "source_ar": "مـع مـراعـاة ما ورد في المـادة (التاسعة) من هذا النظام، يسلِّم المستأجـر الأصـل المـؤجَّـر - بالحالة المتفق عليها في العقد - إلى المؤجر عند إنهاء العقد أو انفساخه أو انقضاء مدته، ما لم يختر المستأجر امتلاك الأصل المؤجر بموجب العقد.",
+    "target_en": "Subject to the provisions of Article 9 of this Law, the lessee shall hand over the leased asset – in the condition agreed upon in the contract – to the lessor upon contract termination, revocation or expiration, unless the lessee opts for ownership of the leased asset as stipulated in the contract.",
+    "source_ar_norm": "مع مراعاة ما ورد في المادة (التاسعة) من هذا النظام، يسلم المستاجر الاصل المؤجر - بالحالة المتفق عليها في العقد - الي المؤجر عند انهاء العقد او انفساخه او انقضاء مدته، ما لم يختر المستاجر امتلاك الاصل المؤجر بموجب العقد.",
+    "target_en_norm": "subject to the provisions of article 9 of this law, the lessee shall hand over the leased asset – in the condition agreed upon in the contract – to the lessor upon contract termination, revocation or expiration, unless the lessee opts for ownership of the leased asset as stipulated in the contract.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32266,
+    "source_ar": "المادة الحادية والعشرون:",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون:",
+    "target_en_norm": "article 21",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32267,
+    "source_ar": "للمؤجر اشتراط حق فسخ العقد واسترداد الأصل المؤجر إذا تخلف المستأجر عن سداد دفعات مستحقة وفقًا لما تحدده اللائحة، بما يحقق العدالة بين طرفي العقد.",
+    "target_en": "The lessor may stipulate the right to revoke the contract and repossess the leased asset if the lessee defaults in making the due payments in accordance with the Regulation in a manner ensuring fairness between the parties to the contract.",
+    "source_ar_norm": "للمؤجر اشتراط حق فسخ العقد واسترداد الاصل المؤجر اذا تخلف المستاجر عن سداد دفعات مستحقة وفقا لما تحدده اللائحة، بما يحقق العدالة بين طرفي العقد.",
+    "target_en_norm": "the lessor may stipulate the right to revoke the contract and repossess the leased asset if the lessee defaults in making the due payments in accordance with the regulation in a manner ensuring fairness between the parties to the contract.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32268,
+    "source_ar": "المادة الثانية والعشرون:",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون:",
+    "target_en_norm": "article 22",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32269,
+    "source_ar": "1- ينفسخ العقد إذا هلك الأصل المؤجر هلاكًا كليًّا.",
+    "target_en": "1. The contract shall terminate upon total loss of the leased asset.",
+    "source_ar_norm": "1- ينفسخ العقد اذا هلك الاصل المؤجر هلاكا كليا.",
+    "target_en_norm": "1. the contract shall terminate upon total loss of the leased asset.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32270,
+    "source_ar": "2 - إذا كان هلاك الأصل المؤجر هلاكًا جزئيًّا مخلاً بالمنفعة، ولم يقم المؤجر خلال ميعاد مناسب بإعادة الأصل المؤجر إلى الحال التي كان عليها أو إبداله بأصل مماثل يقبله المستأجر؛ جاز للمستأجر فسخ العقد أو الاتفاق مع المؤجر على استمرار العقد وتعديل الأجرة بما يتناسب مع حال الهلاك الجزئي للأصل. وفي حال استمرار العقد على حاله، فلا أجرة على المدة التي استغرقت للإصلاح ما لم يعوضه المؤجر خلال هذه المدة بأصل آخر لا يقل عن الأصل المؤجر.",
+    "target_en": "2. In case of a partial loss of the leased asset that undermines use thereof, and the lessor fails to restore the leased asset to its earlier condition or replace it with a similar asset acceptable to the lessee, the lessee may terminate the contract or agree with the lessor to continue with the contract and amend the lease value in proportion to such loss. In case of contract continuity without change, no payment shall be required for the repair period unless the lessor compensates the lessee during such period with another asset equal to the leased asset.",
+    "source_ar_norm": "2 - اذا كان هلاك الاصل المؤجر هلاكا جزئيا مخلا بالمنفعة، ولم يقم المؤجر خلال ميعاد مناسب باعادة الاصل المؤجر الي الحال التي كان عليها او ابداله باصل مماثل يقبله المستاجر؛ جاز للمستاجر فسخ العقد او الاتفاق مع المؤجر علي استمرار العقد وتعديل الاجرة بما يتناسب مع حال الهلاك الجزئي للاصل. وفي حال استمرار العقد علي حاله، فلا اجرة علي المدة التي استغرقت للاصلاح ما لم يعوضه المؤجر خلال هذه المدة باصل اخر لا يقل عن الاصل المؤجر.",
+    "target_en_norm": "2. in case of a partial loss of the leased asset that undermines use thereof, and the lessor fails to restore the leased asset to its earlier condition or replace it with a similar asset acceptable to the lessee, the lessee may terminate the contract or agree with the lessor to continue with the contract and amend the lease value in proportion to such loss. in case of contract continuity without change, no payment shall be required for the repair period unless the lessor compensates the lessee during such period with another asset equal to the leased asset.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32271,
+    "source_ar": "3 - إذا صدر عن السلطات المختصة ما يمنع الانتفاع الكلي بالأصل المؤجّر دون سبب من المستأجر، ينفسخ عقد الإيجار وتسقط الأجرة من وقت المنع.",
+    "target_en": "3. If the lessee is prevented from the full use of the leased asset by an act of a competent authority for a reason not attributed to the lessee, the contract shall terminate and no rent shall be payable as of the date of such prevention.",
+    "source_ar_norm": "3 - اذا صدر عن السلطات المختصة ما يمنع الانتفاع الكلي بالاصل المؤجر دون سبب من المستاجر، ينفسخ عقد الايجار وتسقط الاجرة من وقت المنع.",
+    "target_en_norm": "3. if the lessee is prevented from the full use of the leased asset by an act of a competent authority for a reason not attributed to the lessee, the contract shall terminate and no rent shall be payable as of the date of such prevention.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32272,
+    "source_ar": "4 - تحدد اللائحة المعايير المحددة لما يستحقه كل طرف عند فسخ العقد أو انفساخه أثـناء مدة الإجارة، بما يحقق العدالة بين الطرفين وفق الأصول الشرعية، مع مراعاة ما استحق من تعويضات تأمينية.",
+    "target_en": "4. The Regulation shall, upon termination or rescindment of the contract during the lease term, set the criteria determining the entitlements of each party in an equitable manner according to Sharia principles, taking into account any due insurance compensation.",
+    "source_ar_norm": "4 - تحدد اللائحة المعايير المحددة لما يستحقه كل طرف عند فسخ العقد او انفساخه اثناء مدة الاجارة، بما يحقق العدالة بين الطرفين وفق الاصول الشرعية، مع مراعاة ما استحق من تعويضات تامينية.",
+    "target_en_norm": "4. the regulation shall, upon termination or rescindment of the contract during the lease term, set the criteria determining the entitlements of each party in an equitable manner according to sharia principles, taking into account any due insurance compensation.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32273,
+    "source_ar": "المادة الثالثة والعشرون:",
+    "target_en": "Article 23",
+    "source_ar_norm": "المادة الثالثة والعشرون:",
+    "target_en_norm": "article 23",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32274,
+    "source_ar": "يجوز للمستأجر - في حال إشهار إفلاس المؤجر أو تصفية نشاطه - الاستمرار في تنفيذ العقد وفق شروطه، أو إعادة الأصل بموافقة وكيل التفليسة أو المصفي.",
+    "target_en": "The lessee may, in case of bankruptcy declaration of the lessor or liquidation of the business thereof, continue implementing the contract as per its terms or return the leased asset with the approval of the receiver or the liquidator.",
+    "source_ar_norm": "يجوز للمستاجر - في حال اشهار افلاس المؤجر او تصفية نشاطه - الاستمرار في تنفيذ العقد وفق شروطه، او اعادة الاصل بموافقة وكيل التفليسة او المصفي.",
+    "target_en_norm": "the lessee may, in case of bankruptcy declaration of the lessor or liquidation of the business thereof, continue implementing the contract as per its terms or return the leased asset with the approval of the receiver or the liquidator.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32275,
+    "source_ar": "المادة الرابعة والعشرون:",
+    "target_en": "Article 24",
+    "source_ar_norm": "المادة الرابعة والعشرون:",
+    "target_en_norm": "article 24",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32276,
+    "source_ar": "تتولى المحكمة المختصة الفصل في المنازعات الناشئة من تطبيق أحكام هذا النظام ولائحته، والنظر في مخالفات أحكامهما وإيقاع العقوبات المنصوص عليها في هذا النظام.",
+    "target_en": "The competent court shall resolve disputes arising from application of the provisions of this Law and its Regulation and shall impose penalties provided for in this Law.",
+    "source_ar_norm": "تتولي المحكمة المختصة الفصل في المنازعات الناشئة من تطبيق احكام هذا النظام ولائحته، والنظر في مخالفات احكامهما وايقاع العقوبات المنصوص عليها في هذا النظام.",
+    "target_en_norm": "the competent court shall resolve disputes arising from application of the provisions of this law and its regulation and shall impose penalties provided for in this law.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32277,
+    "source_ar": "المادة الخامسة والعشرون:",
+    "target_en": "Article 25",
+    "source_ar_norm": "المادة الخامسة والعشرون:",
+    "target_en_norm": "article 25",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32278,
+    "source_ar": "1- إذا لم تسلم الأصول الثابتة المؤجرة في الأحوال المنصوص عليها في هذا النظام، فللمؤجر تقديم طلب إلى المحكمة المختصة لإصدار حكم بتسليم الأصل المؤجر، على أن يبت في الطلب خلال مدة أقصاها (ثلاثون) يومًا من تاريخ تقديمه.",
+    "target_en": "1. In case of failure to hand over the fixed leased assets in any of the events specified in this Law, the lessor may request the competent court to issue a ruling to this effect. The court shall decide on such request within a maximum period of 30 days from the date of filing the request.",
+    "source_ar_norm": "1- اذا لم تسلم الاصول الثابتة المؤجرة في الاحوال المنصوص عليها في هذا النظام، فللمؤجر تقديم طلب الي المحكمة المختصة لاصدار حكم بتسليم الاصل المؤجر، علي ان يبت في الطلب خلال مدة اقصاها (ثلاثون) يوما من تاريخ تقديمه.",
+    "target_en_norm": "1. in case of failure to hand over the fixed leased assets in any of the events specified in this law, the lessor may request the competent court to issue a ruling to this effect. the court shall decide on such request within a maximum period of 30 days from the date of filing the request.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32279,
+    "source_ar": "2 - للمؤجر وفقًا لأحكام هذا النظام استرداد الأصول المنقولة من المستأجر في الحالات التي يتضمن العقد بين الطرفين حق المؤجر في استردادها. ويتولى الإشراف على تنفيذ استرداد الأصل من المستأجر شركات متخصصة مرخص لها من وزارة العدل وفقًا لنظام التنفيذ.",
+    "target_en": "2. Pursuant to the provisions of this Law, the lessor may repossess movable assets from the lessee in the events where such right of repossession is stipulated in the contract between the two parties. Repossession shall be overseen by specialized firms licensed by the Ministry of Justice in accordance with the Enforcement Law.",
+    "source_ar_norm": "2 - للمؤجر وفقا لاحكام هذا النظام استرداد الاصول المنقولة من المستاجر في الحالات التي يتضمن العقد بين الطرفين حق المؤجر في استردادها. ويتولي الاشراف علي تنفيذ استرداد الاصل من المستاجر شركات متخصصة مرخص لها من وزارة العدل وفقا لنظام التنفيذ.",
+    "target_en_norm": "2. pursuant to the provisions of this law, the lessor may repossess movable assets from the lessee in the events where such right of repossession is stipulated in the contract between the two parties. repossession shall be overseen by specialized firms licensed by the ministry of justice in accordance with the enforcement law.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32280,
+    "source_ar": "المادة السادسة والعشرون:",
+    "target_en": "Article 26",
+    "source_ar_norm": "المادة السادسة والعشرون:",
+    "target_en_norm": "article 26",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32281,
+    "source_ar": "مع عدم الإخلال بأي عقوبة أشد منصوص عليها في نظام آخر، يعاقب وفقًا لجسامة المخالفة بغرامة لا تزيد على ربع قيمة الأصل المؤجر، أو بالسجن مدة لا تزيد على ثلاثة أشهر، أو بالعقوبتين معًا؛ كل من طمس البيانات المثبتة على الأصل المؤجر أو غيَّر معالم الأصل أو أوصافه المقيدة في السجل الخاص بذلك، أو باع الأصل المؤجر، أو رهنه دون موافقة محررة من المؤجر.",
+    "target_en": "Without prejudice to any severer penalties provided for in another law, any person who conceals the information affixed to the leased asset, alters the marks of the leased asset or the specifications thereof as recorded in the relevant registry, or sells or pledges the leased asset without the written consent of the lessor shall be penalized, depending on the gravity of the violation, with a fine not exceeding one-fourth the value of the leased asset, or imprisonment for a period not exceeding three months, or both.",
+    "source_ar_norm": "مع عدم الاخلال باي عقوبة اشد منصوص عليها في نظام اخر، يعاقب وفقا لجسامة المخالفة بغرامة لا تزيد علي ربع قيمة الاصل المؤجر، او بالسجن مدة لا تزيد علي ثلاثة اشهر، او بالعقوبتين معا؛ كل من طمس البيانات المثبتة علي الاصل المؤجر او غير معالم الاصل او اوصافه المقيدة في السجل الخاص بذلك، او باع الاصل المؤجر، او رهنه دون موافقة محررة من المؤجر.",
+    "target_en_norm": "without prejudice to any severer penalties provided for in another law, any person who conceals the information affixed to the leased asset, alters the marks of the leased asset or the specifications thereof as recorded in the relevant registry, or sells or pledges the leased asset without the written consent of the lessor shall be penalized, depending on the gravity of the violation, with a fine not exceeding one-fourth the value of the leased asset, or imprisonment for a period not exceeding three months, or both.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32282,
+    "source_ar": "المادة السابعة والعشرون:",
+    "target_en": "Article 27",
+    "source_ar_norm": "المادة السابعة والعشرون:",
+    "target_en_norm": "article 27",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32283,
+    "source_ar": "يصدر المحافظ بالاتفاق مع وزير العدل اللائحة التنفيذية لهذا النظام خلال تسعين يومًا من تاريخ صدوره.",
+    "target_en": "The Governor shall, in agreement with the Minister of Justice, issue the Implementing Regulation within 90 days from the date of issuance of this Law.",
+    "source_ar_norm": "يصدر المحافظ بالاتفاق مع وزير العدل اللائحة التنفيذية لهذا النظام خلال تسعين يوما من تاريخ صدوره.",
+    "target_en_norm": "the governor shall, in agreement with the minister of justice, issue the implementing regulation within 90 days from the date of issuance of this law.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32284,
+    "source_ar": "المادة الثامنة والعشرون:",
+    "target_en": "Article 28",
+    "source_ar_norm": "المادة الثامنة والعشرون:",
+    "target_en_norm": "article 28",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32285,
+    "source_ar": "يعمل بهذا النظام بعد مضي (تسعين) يومًا من تاريخ نشره في الجريدة الرسمية.",
+    "target_en": "This Law shall enter into force 90 days from the date of its publication in the Official Gazette.",
+    "source_ar_norm": "يعمل بهذا النظام بعد مضي (تسعين) يوما من تاريخ نشره في الجريدة الرسمية.",
+    "target_en_norm": "this law shall enter into force 90 days from the date of its publication in the official gazette.",
+    "file_name": "نظام الايجار التمويلي.docx"
+  },
+  {
+    "id": 32286,
+    "source_ar": "نظام الأسماء التجارية",
+    "target_en": "Law of Tradenames",
+    "source_ar_norm": "نظام الاسماء التجارية",
+    "target_en_norm": "law of tradenames",
+    "file_name": "نظام الأسماء التجارية (جديد).docx"
+  },
+  {
+    "id": 32287,
+    "source_ar": "الفصل الأول: أحكام عامة",
+    "target_en": "Chapter 1: General Provisions",
+    "source_ar_norm": "الفصل الاول: احكام عامة",
+    "target_en_norm": "chapter 1: general provisions",
+    "file_name": "نظام الأسماء التجارية (جديد).docx"
+  },
+  {
+    "id": 32288,
+    "source_ar": "المادة الأولى: التعريفات",
+    "target_en": "Article 1: Definitions",
+    "source_ar_norm": "المادة الاولي: التعريفات",
+    "target_en_norm": "article 1: definitions",
+    "file_name": "نظام الأسماء التجارية (جديد).docx"
+  },
+  {
+    "id": 32289,
+    "source_ar": "يقصد بالكلمات والعبارات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمام كل منها:",
+    "target_en": "In this Law, the following words and phrases shall have the meanings assigned thereto:",
+    "source_ar_norm": "يقصد بالكلمات والعبارات الاتية -اينما وردت في هذا النظام- المعاني المبينة امام كل منها:",
+    "target_en_norm": "in this law, the following words and phrases shall have the meanings assigned thereto:",
+    "file_name": "نظام الأسماء التجارية (جديد).docx"
+  },
+  {
+    "id": 32290,
+    "source_ar": "1. النظام: نظام الأسماء التجارية.",
+    "target_en": "1. Law: Law of Tradenames.",
+    "source_ar_norm": "1. النظام: نظام الاسماء التجارية.",
+    "target_en_norm": "1. law: law of tradenames.",
+    "file_name": "نظام الأسماء التجارية (جديد).docx"
+  },
+  {
+    "id": 32291,
+    "source_ar": "2. اللائحة: اللائحة التنفيذية للنظام.",
+    "target_en": "2. Regulations: Implementing Regulations of the Law.",
+    "source_ar_norm": "2. اللائحة: اللائحة التنفيذية للنظام.",
+    "target_en_norm": "2. regulations: implementing regulations of the law.",
+    "file_name": "نظام الأسماء التجارية (جديد).docx"
+  },
+  {
+    "id": 32292,
+    "source_ar": "3. الوزارة: وزارة التجارة.",
+    "target_en": "3. Ministry: Ministry of Commerce.",
+    "source_ar_norm": "3. الوزارة: وزارة التجارة.",
+    "target_en_norm": "3. ministry: ministry of commerce.",
+    "file_name": "نظام الأسماء التجارية (جديد).docx"
+  },
+  {
+    "id": 32293,
+    "source_ar": "4. الوزير: وزير التجارة.",
+    "target_en": "4. Minister: Minister of Commerce.",
+    "source_ar_norm": "4. الوزير: وزير التجارة.",
+    "target_en_norm": "4. minister: minister of commerce.",
+    "file_name": "نظام الأسماء التجارية (جديد).docx"
+  },
+  {
+    "id": 32294,
+    "source_ar": "5. الاسم التجاري: الاسم الذي يستعمله التاجر في مزاولة أعماله التجارية لتمييزه عن غيره من التجار.",
+    "target_en": "5. Tradename: The name used by a merchant in conducting his business activities to distinguish him from other merchants.",
+    "source_ar_norm": "5. الاسم التجاري: الاسم الذي يستعمله التاجر في مزاولة اعماله التجارية لتمييزه عن غيره من التجار.",
+    "target_en_norm": "5. tradename: the name used by a merchant in conducting his business activities to distinguish him from other merchants.",
+    "file_name": "نظام الأسماء التجارية (جديد).docx"
+  },
+  {
+    "id": 32295,
+    "source_ar": "6. التاجر: شخص ذو صفة طبيعية أو اعتبارية ينطبق عليه وصف التاجر وفقًا للنظام التجاري.",
+    "target_en": "6. Merchant: A natural or legal person that is deemed a merchant under the Commercial Law.",
+    "source_ar_norm": "6. التاجر: شخص ذو صفة طبيعية او اعتبارية ينطبق عليه وصف التاجر وفقا للنظام التجاري.",
+    "target_en_norm": "6. merchant: a natural or legal person that is deemed a merchant under the commercial law.",
+    "file_name": "نظام الأسماء التجارية (جديد).docx"
+  },
+  {
+    "id": 32296,
+    "source_ar": "7. السجل التجاري: سجل يحتوي على بيانات التجار من خلال قاعدة بيانات إلكترونية مركزية.",
+    "target_en": "7. Commercial Register: A registry that contains the data of merchants in a central electronic database.",
+    "source_ar_norm": "7. السجل التجاري: سجل يحتوي علي بيانات التجار من خلال قاعدة بيانات الكترونية مركزية.",
+    "target_en_norm": "7. commercial register: a registry that contains the data of merchants in a central electronic database.",
+    "file_name": "نظام الأسماء التجارية (جديد).docx"
+  },
+  {
+    "id": 32297,
+    "source_ar": "8. المسجل: الجهة الحكومية المحددة من الوزير لإدارة السجل التجاري.",
+    "target_en": "8. Registrar: The government entity designated by the Minister to administer the Commercial Register.",
+    "source_ar_norm": "8. المسجل: الجهة الحكومية المحددة من الوزير لادارة السجل التجاري.",
+    "target_en_norm": "8. registrar: the government entity designated by the minister to administer the commercial register.",
+    "file_name": "نظام الأسماء التجارية (جديد).docx"
+  },
+  {
+    "id": 32298,
+    "source_ar": "المادة الثانية: الأهداف",
+    "target_en": "Article 2: Objectives",
+    "source_ar_norm": "المادة الثانية: الاهداف",
+    "target_en_norm": "article 2: objectives",
+    "file_name": "نظام الأسماء التجارية (جديد).docx"
+  },
+  {
+    "id": 32299,
+    "source_ar": "يهدف النظام إلى تعزيز الثقة في البيئة التجارية من خلال تنظيم إجراءات حجز الأسماء التجارية وقيدها في السجل التجاري، وتعزيز قيمتها، وضمان حمايتها والحقوق المتصلة بها.",
+    "target_en": "This Law aims to promote trust in the business environment by regulating the procedures for reserving tradenames and registering them in the Commercial Register, optimizing their value, and ensuring the protection of such names and the rights associated therewith.",
+    "source_ar_norm": "يهدف النظام الي تعزيز الثقة في البيئة التجارية من خلال تنظيم اجراءات حجز الاسماء التجارية وقيدها في السجل التجاري، وتعزيز قيمتها، وضمان حمايتها والحقوق المتصلة بها.",
+    "target_en_norm": "this law aims to promote trust in the business environment by regulating the procedures for reserving tradenames and registering them in the commercial register, optimizing their value, and ensuring the protection of such names and the rights associated therewith.",
+    "file_name": "نظام الأسماء التجارية (جديد).docx"
+  },
+  {
+    "id": 32300,
+    "source_ar": "الفصل الثاني: أحكام الاسم التجاري وحجزه وقيده",
+    "target_en": "Chapter 2: Reservation and Registration of Tradename",
+    "source_ar_norm": "الفصل الثاني: احكام الاسم التجاري وحجزه وقيده",
+    "target_en_norm": "chapter 2: reservation and registration of tradename",
+    "file_name": "نظام الأسماء التجارية (جديد).docx"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 30901,
+    "source_ar": "عدم الحصول على موافقة الهيئة قبل قيامه بشراء (5%) أو أكثر من إجمالي أسهم أو حصص مشغل مرخص له بالعمل في المملكة، أو بما يؤدي للوصول إلى مستوى المشغل المسيطر على سوق اتصالات معين في داخل المملكة.",
+    "target_en": "9- Failing to obtain CITC’s approval prior to purchasing 5% or more of the total shares of an operator licensed to work in the Kingdom or a percentage making him a dominant operator in a specific telecommunications market in the Kingdom.",
+    "source_ar_norm": "عدم الحصول علي موافقة الهيئة قبل قيامه بشراء (5%) او اكثر من اجمالي اسهم او حصص مشغل مرخص له بالعمل في المملكة، او بما يؤدي للوصول الي مستوي المشغل المسيطر علي سوق اتصالات معين في داخل المملكة.",
+    "target_en_norm": "9- failing to obtain citc’s approval prior to purchasing 5% or more of the total shares of an operator licensed to work in the kingdom or a percentage making him a dominant operator in a specific telecommunications market in the kingdom.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30902,
+    "source_ar": "عدم الحصول على الموافقة اللازمة بموجب أحكام النظام قبل قيامه بالاندماج مع مشغلين آخرين.",
+    "target_en": "10-Failing to obtain the necessary approval under the provisions of the Law prior to merging with other operators.",
+    "source_ar_norm": "عدم الحصول علي الموافقة اللازمة بموجب احكام النظام قبل قيامه بالاندماج مع مشغلين اخرين.",
+    "target_en_norm": "10-failing to obtain the necessary approval under the provisions of the law prior to merging with other operators.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30903,
+    "source_ar": "إساءة استخدام خدمات الاتصالات مثل تعمد إجراء اتصال يخالف قواعد الآداب العامة، أو له طابع تهديدي، أو يؤدي إلى إحداث فزع أو إزعاج.",
+    "target_en": "11-Misusing telecommunications services, such as intentionally conducting communication that violates public morals, or is of a threatening nature, or leads to panic or disturbance.",
+    "source_ar_norm": "اساءة استخدام خدمات الاتصالات مثل تعمد اجراء اتصال يخالف قواعد الاداب العامة، او له طابع تهديدي، او يؤدي الي احداث فزع او ازعاج.",
+    "target_en_norm": "11-misusing telecommunications services, such as intentionally conducting communication that violates public morals, or is of a threatening nature, or leads to panic or disturbance.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30904,
+    "source_ar": "استيراد أجهزة أو معدات اتصالات مخالفة للمواصفات الفنية المعتمدة أو تسويقها أو استعمالها.",
+    "target_en": "12-Importing, marketing, or using telecommunications devices and equipment incompatible with approved technical specifications.",
+    "source_ar_norm": "استيراد اجهزة او معدات اتصالات مخالفة للمواصفات الفنية المعتمدة او تسويقها او استعمالها.",
+    "target_en_norm": "12-importing, marketing, or using telecommunications devices and equipment incompatible with approved technical specifications.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30905,
+    "source_ar": "تعمد الكشف – خارج نطاق واجبه – عن أي معلومة أو محتوى أي رسالة تم اعتراضها خلال إرسالها.",
+    "target_en": "13-Intentionally disclosing, beyond the scope of duty, any information or content of any intercepted messages.",
+    "source_ar_norm": "تعمد الكشف – خارج نطاق واجبه – عن اي معلومة او محتوي اي رسالة تم اعتراضها خلال ارسالها.",
+    "target_en_norm": "13-intentionally disclosing, beyond the scope of duty, any information or content of any intercepted messages.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30906,
+    "source_ar": "إلحاق ضرر بشبكات الاتصالات العامة, أو التعدي عليها أو قطعها, أو الاستفادة غير المشروعة منها, أو تعطيل الاتصالات, أو منع تبادل المعلومات بشكل عام.",
+    "target_en": "14- Causing damage to public telecommunications networks, unlawfully benefitting from such networks, hampering communications, or generally preventing exchange of information.",
+    "source_ar_norm": "الحاق ضرر بشبكات الاتصالات العامة, او التعدي عليها او قطعها, او الاستفادة غير المشروعة منها, او تعطيل الاتصالات, او منع تبادل المعلومات بشكل عام.",
+    "target_en_norm": "14- causing damage to public telecommunications networks, unlawfully benefitting from such networks, hampering communications, or generally preventing exchange of information.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30907,
+    "source_ar": "الإعلان عن تعريفة أسعار أو عروض ترويجية, أو تطبيقها بالمخالفة للقواعد والإجراءات المحددة في القرارات التي يصدرها المجلس.",
+    "target_en": "15- Advertising or applying charges or offers in violation of the rules and procedures stated in the Board decisions.",
+    "source_ar_norm": "الاعلان عن تعريفة اسعار او عروض ترويجية, او تطبيقها بالمخالفة للقواعد والاجراءات المحددة في القرارات التي يصدرها المجلس.",
+    "target_en_norm": "15- advertising or applying charges or offers in violation of the rules and procedures stated in the board decisions.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30908,
+    "source_ar": "منع موظفي الهيئة - أو إعاقتهم - من القيام بمهمات التفتيش على الأماكن أو الأنظمة وقواعد المعلومات , والتحفظ على الأجهزة, أو المعدات, أو الأدوات, أو التوصيلات.",
+    "target_en": "16- Preventing or hindering CITC staff form inspecting places, systems, or databases, or seizing devices, equipment, tools, or cables.",
+    "source_ar_norm": "منع موظفي الهيئة - او اعاقتهم - من القيام بمهمات التفتيش علي الاماكن او الانظمة وقواعد المعلومات , والتحفظ علي الاجهزة, او المعدات, او الادوات, او التوصيلات.",
+    "target_en_norm": "16- preventing or hindering citc staff form inspecting places, systems, or databases, or seizing devices, equipment, tools, or cables.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30909,
+    "source_ar": "الدخول في اتفاقيات مع مقدمي خدمة اتصالات خارج المملكة لتقديم خدمة التجوال الدولي دون التقيد بالقواعد التي يصدرها المجلس.",
+    "target_en": "17- Concluding agreements with telecommunications service providers abroad for providing international roaming services without complying with the rules issued by the Board.",
+    "source_ar_norm": "الدخول في اتفاقيات مع مقدمي خدمة اتصالات خارج المملكة لتقديم خدمة التجوال الدولي دون التقيد بالقواعد التي يصدرها المجلس.",
+    "target_en_norm": "17- concluding agreements with telecommunications service providers abroad for providing international roaming services without complying with the rules issued by the board.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30910,
+    "source_ar": "عدم تزويد الهيئة بأي تقرير أو معلومة ضمن اختصاصها عند طلبها من مقدم الخدمة وفقاً لما تحدده اللائحة.",
+    "target_en": "18- Failing to provide CITC with relevant reports or information when they are requested from the service provider in accordance with the Regulations.",
+    "source_ar_norm": "عدم تزويد الهيئة باي تقرير او معلومة ضمن اختصاصها عند طلبها من مقدم الخدمة وفقا لما تحدده اللائحة.",
+    "target_en_norm": "18- failing to provide citc with relevant reports or information when they are requested from the service provider in accordance with the regulations.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30911,
+    "source_ar": "تأسيس بطاقات مسبقة الدفع, أو بيعها, أو ترويجها, أو استخدامها, بالمخالفة لما يصدره المجلس من ضوابط وتعليمات.",
+    "target_en": "19- Issuing, selling, advertising, or using prepaid cards in violation of the Board's rules and instructions.",
+    "source_ar_norm": "تاسيس بطاقات مسبقة الدفع, او بيعها, او ترويجها, او استخدامها, بالمخالفة لما يصدره المجلس من ضوابط وتعليمات.",
+    "target_en_norm": "19- issuing, selling, advertising, or using prepaid cards in violation of the board's rules and instructions.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30912,
+    "source_ar": "أي عمل آخر يرتكب بالمخالفة لأحكام هذا النظام.",
+    "target_en": "20- Any other act committed in violation of the provisions of this Law.",
+    "source_ar_norm": "اي عمل اخر يرتكب بالمخالفة لاحكام هذا النظام.",
+    "target_en_norm": "20- any other act committed in violation of the provisions of this law.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30913,
+    "source_ar": "المادة الثامنة والثلاثون",
+    "target_en": "Article 38",
+    "source_ar_norm": "المادة الثامنة والثلاثون",
+    "target_en_norm": "article 38",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30914,
+    "source_ar": "تتولى الهيئة مهمات التفتيش على الأماكن، والنظم، وقواعد المعلومات، وضبط المخالفات، وحجز الأجهزة والمعدات، والأدوات، والتوصيلات المستخدمة في ارتكاب المخالفات، والتحقيق مع المخالفين، والإدعاء ضد المخالفين أمام اللجنة المنصوص عليها في الفقرة (5) من هذه المادة. وللهيئة الاستعانة - عند اللزوم- بالجهة الأمنية المختصة لتتمكن من تنفيذ ما أشير إليه.",
+    "target_en": "1- CITC shall be in charge of inspecting places, systems, and databases; recording violations; seizing devices, equipment, tools, and cables used in committing the violation; interrogating violators; and prosecuting violators before the Committee provided for in paragraph (5) of this Article. CITC may, when necessary, seek the assistance of the relevant law-enforcement agency to perform the above-mentioned tasks.",
+    "source_ar_norm": "تتولي الهيئة مهمات التفتيش علي الاماكن، والنظم، وقواعد المعلومات، وضبط المخالفات، وحجز الاجهزة والمعدات، والادوات، والتوصيلات المستخدمة في ارتكاب المخالفات، والتحقيق مع المخالفين، والادعاء ضد المخالفين امام اللجنة المنصوص عليها في الفقرة (5) من هذه المادة. وللهيئة الاستعانة - عند اللزوم- بالجهة الامنية المختصة لتتمكن من تنفيذ ما اشير اليه.",
+    "target_en_norm": "1- citc shall be in charge of inspecting places, systems, and databases; recording violations; seizing devices, equipment, tools, and cables used in committing the violation; interrogating violators; and prosecuting violators before the committee provided for in paragraph (5) of this article. citc may, when necessary, seek the assistance of the relevant law-enforcement agency to perform the above-mentioned tasks.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30915,
+    "source_ar": "تتحفظ الهيئة على الأجهزة والمعدات والأدوات, والتوصيلات التي حجزتها الى حين البت في المخالفة أمام اللجنة, فإذا انتهت اللجنة الى ثبوت المخالفة , فلها التصرف في أي منها دون الإخلال بحق المالك في طلب التعويض, وذلك وفقاً لما تحدده اللائحة.",
+    "target_en": "2- CITC shall keep the seized devices, equipment, tools, and cables in its possession until the Committee decides on the violation. If the Committee establishes that the violation has been committed, CITC shall have the right to dispose of any of the seized items without prejudice to the right of the owner for compensation, in accordance with the Regulations.",
+    "source_ar_norm": "تتحفظ الهيئة علي الاجهزة والمعدات والادوات, والتوصيلات التي حجزتها الي حين البت في المخالفة امام اللجنة, فاذا انتهت اللجنة الي ثبوت المخالفة , فلها التصرف في اي منها دون الاخلال بحق المالك في طلب التعويض, وذلك وفقا لما تحدده اللائحة.",
+    "target_en_norm": "2- citc shall keep the seized devices, equipment, tools, and cables in its possession until the committee decides on the violation. if the committee establishes that the violation has been committed, citc shall have the right to dispose of any of the seized items without prejudice to the right of the owner for compensation, in accordance with the regulations.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30916,
+    "source_ar": "للهيئة إيقاف بعض خدمات المشغل إذا خالف أي شرط من شروط الترخيص , وتحدد اللائحة تلك الخدمات والإجراءات الواجبة تجاهها إلى حين صدور قرار من اللجنة.",
+    "target_en": "3- CITC shall have the right to suspend any of the operator's services if he violates any of the license conditions. The Regulations shall specify such services and determine the procedures that shall be taken in this respect pending the issuance of a decision by the Committee.",
+    "source_ar_norm": "للهيئة ايقاف بعض خدمات المشغل اذا خالف اي شرط من شروط الترخيص , وتحدد اللائحة تلك الخدمات والاجراءات الواجبة تجاهها الي حين صدور قرار من اللجنة.",
+    "target_en_norm": "3- citc shall have the right to suspend any of the operator's services if he violates any of the license conditions. the regulations shall specify such services and determine the procedures that shall be taken in this respect pending the issuance of a decision by the committee.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30917,
+    "source_ar": "مع عدم الإخلال بما ورد في الفقرة(2) من المادة (العشرين)من هذا النظام ,أو بأي عقوبة أشد ينص عليها نظام آخر، يعاقب من ارتكب أياً من المخالفات المنصوص عليها في المادة السابعة والثلاثين بغرامة مالية لا تتجاوز خمسة وعشرين مليون ريال, ويعاقب المخالف بالعقوبة نفسها إذا لم ينته عن المخالفة, أو لم يصححها خلال المهلة التي تحددها اللجنة المنصوص عليها في الفقرة(5)من هذه المادة, ويكون تحصيل الغرامة مشمولاً بالنفاذ المعجل, وللهيئة استعادة أي عائد مالي حصل عليه المخالف نتيجة المخالفة.",
+    "target_en": "4- Without prejudice to paragraph (2) of Article 20 or any severer penalty provided for in another law, any person committing any of the violations provided for in Article 37 shall be subject to a fine not exceeding 25,000,000 riyals. The violator shall be subject to the same fine if the violation continues to exist or is not rectified within the period specified by the Committee provided for in paragraph (5) of the Article. Collection of fines shall be immediate and CITC shall have the right to seize any revenues generated by the violator as a result of the violation.",
+    "source_ar_norm": "مع عدم الاخلال بما ورد في الفقرة(2) من المادة (العشرين)من هذا النظام ,او باي عقوبة اشد ينص عليها نظام اخر، يعاقب من ارتكب ايا من المخالفات المنصوص عليها في المادة السابعة والثلاثين بغرامة مالية لا تتجاوز خمسة وعشرين مليون ريال, ويعاقب المخالف بالعقوبة نفسها اذا لم ينته عن المخالفة, او لم يصححها خلال المهلة التي تحددها اللجنة المنصوص عليها في الفقرة(5)من هذه المادة, ويكون تحصيل الغرامة مشمولا بالنفاذ المعجل, وللهيئة استعادة اي عائد مالي حصل عليه المخالف نتيجة المخالفة.",
+    "target_en_norm": "4- without prejudice to paragraph (2) of article 20 or any severer penalty provided for in another law, any person committing any of the violations provided for in article 37 shall be subject to a fine not exceeding 25,000,000 riyals. the violator shall be subject to the same fine if the violation continues to exist or is not rectified within the period specified by the committee provided for in paragraph (5) of the article. collection of fines shall be immediate and citc shall have the right to seize any revenues generated by the violator as a result of the violation.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30918,
+    "source_ar": "تحدد الغرامات المشار إليها في الفقرة (4) من هذه المادة حسب المخالفة المرتكبة وخطورتها في كل حالة فردية، وتنظر في هذه المخالفات لجنة يسمى أعضائها بقرار من المجلس بناءً على ترشيح محافظ الهيئة، مكونة من خمسة أعضاء من منسوبيها أو من غيرهم، على أن يكون من بينهم مستشار نظامي على الأقل، وتصدر اللجنة قرارها وفقاً للقواعد والإجراءات التي تحددها اللائحة، ويكون هذا القرار قابلاً للتظلم منه أمام ديوان المظالم خلال (ثلاثين)يوماً من تاريخ العلم به، وتؤول المبالغ المحصلة من هذه الغرامات إلى الهيئة، وتعد جزءاً من إيراداتها.",
+    "target_en": "5- Fines provided for in paragraph 4 of this Article shall be determined on a case-by-case basis according to the gravity of the violation. Such violations shall be considered by a committee whose members are named pursuant to a decision issued by the Board, upon nomination by the President of CITC. The Committee shall comprise five members, from among CITC staff or others, provided that at least one of the five members is a legal councilor. The Committee shall issue its decisions according to the rules and procedures specified by the Regulations. Such decisions shall be subject to appeal before the Bureau of Grievances within 30 days from the date of knowledge of the decision. Proceeds from said fines shall devolve to CITC and shall be deemed as part of its revenues.",
+    "source_ar_norm": "تحدد الغرامات المشار اليها في الفقرة (4) من هذه المادة حسب المخالفة المرتكبة وخطورتها في كل حالة فردية، وتنظر في هذه المخالفات لجنة يسمي اعضائها بقرار من المجلس بناء علي ترشيح محافظ الهيئة، مكونة من خمسة اعضاء من منسوبيها او من غيرهم، علي ان يكون من بينهم مستشار نظامي علي الاقل، وتصدر اللجنة قرارها وفقا للقواعد والاجراءات التي تحددها اللائحة، ويكون هذا القرار قابلا للتظلم منه امام ديوان المظالم خلال (ثلاثين)يوما من تاريخ العلم به، وتؤول المبالغ المحصلة من هذه الغرامات الي الهيئة، وتعد جزءا من ايراداتها.",
+    "target_en_norm": "5- fines provided for in paragraph 4 of this article shall be determined on a case-by-case basis according to the gravity of the violation. such violations shall be considered by a committee whose members are named pursuant to a decision issued by the board, upon nomination by the president of citc. the committee shall comprise five members, from among citc staff or others, provided that at least one of the five members is a legal councilor. the committee shall issue its decisions according to the rules and procedures specified by the regulations. such decisions shall be subject to appeal before the bureau of grievances within 30 days from the date of knowledge of the decision. proceeds from said fines shall devolve to citc and shall be deemed as part of its revenues.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30919,
+    "source_ar": "على اللجنة أن تضمن قرارها النص على نشر العقوبة في الموقع الإلكتروني للهيئة, أو في صحيفة محلية تصدر في محل إقامة المخالف على نفقته, على أن يتضمن النشر اسم المخالف والمخالفة المرتكبة.",
+    "target_en": "6- The Committee shall state in its decision the announcement of the penalty on CITC's website or in a local newspaper issued in the area where the violator is located, at his expense, provided that the announcement includes the name of the violator and nature of the violation.",
+    "source_ar_norm": "علي اللجنة ان تضمن قرارها النص علي نشر العقوبة في الموقع الالكتروني للهيئة, او في صحيفة محلية تصدر في محل اقامة المخالف علي نفقته, علي ان يتضمن النشر اسم المخالف والمخالفة المرتكبة.",
+    "target_en_norm": "6- the committee shall state in its decision the announcement of the penalty on citc's website or in a local newspaper issued in the area where the violator is located, at his expense, provided that the announcement includes the name of the violator and nature of the violation.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30920,
+    "source_ar": "يحق لمن لحقه ضرر أن يتقدم إلى الجهات القضائية المختصة بطلب التعويض.",
+    "target_en": "7- Any party harmed by the violation shall have the right to file for compensation before the competent judicial authority.",
+    "source_ar_norm": "يحق لمن لحقه ضرر ان يتقدم الي الجهات القضائية المختصة بطلب التعويض.",
+    "target_en_norm": "7- any party harmed by the violation shall have the right to file for compensation before the competent judicial authority.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30921,
+    "source_ar": "إذا انطوت أي من المخالفات المنصوص عليها في المادة(السابعة والثلاثين) من هذا النظام على فعل جنائي, فيطبق عليها نظام الإجراءات الجزائية.",
+    "target_en": "8- If any of the violations stipulated in Article 37 of this Law involves a criminal act, the Law of Criminal Procedure shall apply.",
+    "source_ar_norm": "اذا انطوت اي من المخالفات المنصوص عليها في المادة(السابعة والثلاثين) من هذا النظام علي فعل جنائي, فيطبق عليها نظام الاجراءات الجزائية.",
+    "target_en_norm": "8- if any of the violations stipulated in article 37 of this law involves a criminal act, the law of criminal procedure shall apply.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30922,
+    "source_ar": "الفصل الحادي عشر",
+    "target_en": "Chapter Eleven",
+    "source_ar_norm": "الفصل الحادي عشر",
+    "target_en_norm": "chapter eleven",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30923,
+    "source_ar": "أحكام ختامية",
+    "target_en": "Concluding Provisions",
+    "source_ar_norm": "احكام ختامية",
+    "target_en_norm": "concluding provisions",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30924,
+    "source_ar": "المادة التاسعة والثلاثون",
+    "target_en": "Article 39",
+    "source_ar_norm": "المادة التاسعة والثلاثون",
+    "target_en_norm": "article 39",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30925,
+    "source_ar": "يجوز لمن صدر بشأنه قرار من الهيئة التظلم منه إلى الوزير، وفي حالة تأييد الوزير لموقف الهيئة يكون لصاحب الشأن الحق في التظلم منه أمام ديوان المظالم وفقاً لنظامه.",
+    "target_en": "Any person against whom a decision is issued by CITC may appeal said decision before the Minister. If the Minister upholds the decision of CITC, said decision may be appealed before the Board of Grievances according to its Law.",
+    "source_ar_norm": "يجوز لمن صدر بشانه قرار من الهيئة التظلم منه الي الوزير، وفي حالة تاييد الوزير لموقف الهيئة يكون لصاحب الشان الحق في التظلم منه امام ديوان المظالم وفقا لنظامه.",
+    "target_en_norm": "any person against whom a decision is issued by citc may appeal said decision before the minister. if the minister upholds the decision of citc, said decision may be appealed before the board of grievances according to its law.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30926,
+    "source_ar": "المادة الأربعون",
+    "target_en": "Article 40",
+    "source_ar_norm": "المادة الاربعون",
+    "target_en_norm": "article 40",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30927,
+    "source_ar": "تصدر اللائحة بقرار من الوزير بناءً على اقتراح مجلس إدارة الهيئة.",
+    "target_en": "The Regulations shall be issued pursuant to a decision by the Minister upon a proposal by CITC’s Board of Directors.",
+    "source_ar_norm": "تصدر اللائحة بقرار من الوزير بناء علي اقتراح مجلس ادارة الهيئة.",
+    "target_en_norm": "the regulations shall be issued pursuant to a decision by the minister upon a proposal by citc’s board of directors.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30928,
+    "source_ar": "المادة الحادية والأربعون",
+    "target_en": "Article 41",
+    "source_ar_norm": "المادة الحادية والاربعون",
+    "target_en_norm": "article 41",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30929,
+    "source_ar": "ينشر هذا النظام في الجريدة الرسمية، ويصبح نافذاً بعد مائة وثمانين يوماً من تاريخ نشره، ويحل هذا النظام محل نظام البرق الصادر بالأمر السامي ذي الرقم 8792 والتاريخ 12/9/1356هـ وتعديلاته، ونظام استخدام الأجهزة اللاسلكية الصادر بالمرسوم الملكي ذي الرقم 49 والتاريخ 30/10/1382هـ وتعديلاته، ونظام مرفق الهاتف الصادر بالمرسوم الملكي ذي الرقم م/16 والتاريخ 16/3/1398هـ، كما يلغي هذا النظام لائحة أجور الهاتف الآلي الصادرة بقرار مجلس الوزراء ذي الرقم 517 والتاريخ 21/4/1393هـ، ولائحة تنظيم خدمات التلكس وأجوره الصادرة بقرار مجلس الوزراء ذي الرقم 123 والتاريخ 24/8/1416هـ. كما يلغي هذا النظام كل ما يتعارض معه من أحكام.",
+    "target_en": "1- This Law shall be published in the Official Gazette and shall enter into force 180 days following the date of its publication. It shall supersede the Telegraph Law issued by Royal Decree No. 8792 dated 12/9/1356H and its amendments, the Law for Using Wireless Devices issued by Royal Decree No. 49 dated 30/10/1382H and its amendments, and the Telephone Utility Law issued by Royal Decree No. M/16 dated 16/3/1398H. This Law shall repeal the Regulations for Pay Telephone Fees issued by the Council of Ministers Resolution No. 517 dated 21/4/1393H and the Regulations of the Telex Services and Fees issued by Council of Ministers Resolution No. 123 dated 24/8/1416H. This Law shall repeal any provisions conflicting therewith.",
+    "source_ar_norm": "ينشر هذا النظام في الجريدة الرسمية، ويصبح نافذا بعد مائة وثمانين يوما من تاريخ نشره، ويحل هذا النظام محل نظام البرق الصادر بالامر السامي ذي الرقم 8792 والتاريخ 12/9/1356ه وتعديلاته، ونظام استخدام الاجهزة اللاسلكية الصادر بالمرسوم الملكي ذي الرقم 49 والتاريخ 30/10/1382ه وتعديلاته، ونظام مرفق الهاتف الصادر بالمرسوم الملكي ذي الرقم م/16 والتاريخ 16/3/1398ه، كما يلغي هذا النظام لائحة اجور الهاتف الالي الصادرة بقرار مجلس الوزراء ذي الرقم 517 والتاريخ 21/4/1393ه، ولائحة تنظيم خدمات التلكس واجوره الصادرة بقرار مجلس الوزراء ذي الرقم 123 والتاريخ 24/8/1416ه. كما يلغي هذا النظام كل ما يتعارض معه من احكام.",
+    "target_en_norm": "1- this law shall be published in the official gazette and shall enter into force 180 days following the date of its publication. it shall supersede the telegraph law issued by royal decree no. 8792 dated 12/9/1356h and its amendments, the law for using wireless devices issued by royal decree no. 49 dated 30/10/1382h and its amendments, and the telephone utility law issued by royal decree no. m/16 dated 16/3/1398h. this law shall repeal the regulations for pay telephone fees issued by the council of ministers resolution no. 517 dated 21/4/1393h and the regulations of the telex services and fees issued by council of ministers resolution no. 123 dated 24/8/1416h. this law shall repeal any provisions conflicting therewith.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30930,
+    "source_ar": "استثناء من الفقرة (1) من هذه المادة يستمر العمل باللوائح الحالية والقرارات التنظيمية الأخرى بما لا يتعارض مع هذا النظام إلى أن تصدر لائحته التنفيذية خلال ستة أشهر على الأكثر من تاريخ نفاذه.",
+    "target_en": "2- As an exception to paragraph 1 of this Article, the existing Regulations and other regulatory decisions shall remain in force in a manner not conflicting with the Law, pending issuance of its Implementing Regulations within a period not exceeding 6 months from the date of its entry into force.",
+    "source_ar_norm": "استثناء من الفقرة (1) من هذه المادة يستمر العمل باللوائح الحالية والقرارات التنظيمية الاخري بما لا يتعارض مع هذا النظام الي ان تصدر لائحته التنفيذية خلال ستة اشهر علي الاكثر من تاريخ نفاذه.",
+    "target_en_norm": "2- as an exception to paragraph 1 of this article, the existing regulations and other regulatory decisions shall remain in force in a manner not conflicting with the law, pending issuance of its implementing regulations within a period not exceeding 6 months from the date of its entry into force.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30931,
+    "source_ar": "نظام الاتصالات وتقنية المعلومات",
+    "target_en": "Law of Telecommunications and Information Technology",
+    "source_ar_norm": "نظام الاتصالات وتقنية المعلومات",
+    "target_en_norm": "law of telecommunications and information technology",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30932,
+    "source_ar": "الفصل الأول: أحكام عامة",
+    "target_en": "Chapter 1: General Provisions",
+    "source_ar_norm": "الفصل الاول: احكام عامة",
+    "target_en_norm": "chapter 1: general provisions",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30933,
+    "source_ar": "المادة الأولى",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي",
+    "target_en_norm": "article 1",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30934,
+    "source_ar": "يقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمام كل منها:",
+    "target_en": "In this Law, the following words and phrases shall have the meanings assigned thereto:",
+    "source_ar_norm": "يقصد بالالفاظ والعبارات الاتية -اينما وردت في هذا النظام- المعاني المبينة امام كل منها:",
+    "target_en_norm": "in this law, the following words and phrases shall have the meanings assigned thereto:",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30935,
+    "source_ar": "1- النظام: نظام الاتصالات وتقنية المعلومات.",
+    "target_en": "Law: Law of Telecommunications and Information Technology.",
+    "source_ar_norm": "1- النظام: نظام الاتصالات وتقنية المعلومات.",
+    "target_en_norm": "law: law of telecommunications and information technology.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30936,
+    "source_ar": "2- اللائحة: اللائحة التنفيذية للنظام.",
+    "target_en": "Regulations: Implementing Regulations of this Law.",
+    "source_ar_norm": "2- اللائحة: اللائحة التنفيذية للنظام.",
+    "target_en_norm": "regulations: implementing regulations of this law.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30937,
+    "source_ar": "3- الوزارة: وزارة الاتصالات وتقنية المعلومات.",
+    "target_en": "Ministry: Ministry of Communications and Information Technology.",
+    "source_ar_norm": "3- الوزارة: وزارة الاتصالات وتقنية المعلومات.",
+    "target_en_norm": "ministry: ministry of communications and information technology.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30938,
+    "source_ar": "4- الوزير: وزير الاتصالات وتقنية المعلومات.",
+    "target_en": "Minister: Minister of Communications and Information Technology.",
+    "source_ar_norm": "4- الوزير: وزير الاتصالات وتقنية المعلومات.",
+    "target_en_norm": "minister: minister of communications and information technology.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30939,
+    "source_ar": "5- الهيئة: هيئة الاتصالات وتقنية المعلومات.",
+    "target_en": "Commission: Communications and Information Technology Commission.",
+    "source_ar_norm": "5- الهيئة: هيئة الاتصالات وتقنية المعلومات.",
+    "target_en_norm": "commission: communications and information technology commission.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30940,
+    "source_ar": "6- المجلس: مجلس إدارة الهيئة.",
+    "target_en": "Board: Board of Directors of the Commission.",
+    "source_ar_norm": "6- المجلس: مجلس ادارة الهيئة.",
+    "target_en_norm": "board: board of directors of the commission.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30941,
+    "source_ar": "7- اللجنة: لجنة النظر في مخالفات النظام.",
+    "target_en": "Committee: The committee for reviewing violations of this Law.",
+    "source_ar_norm": "7- اللجنة: لجنة النظر في مخالفات النظام.",
+    "target_en_norm": "committee: the committee for reviewing violations of this law.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30942,
+    "source_ar": "8- الاتصالات: كل إرسال أو استقبال -بين الأشخاص أو الأشياء- للعلامات أو الإشارات أو النصوص أو الصور أو الأصوات أو المعلومات أو البيانات، مهما كانت طبيعتها، بوساطة النظم والأجهزة السلكية أو اللاسلكية.",
+    "target_en": "Telecommunications: Any transmission or reception of signs, signals, writings, images, sounds, information, or data between persons or things, regardless of their nature, through wired or wireless systems and devices.",
+    "source_ar_norm": "8- الاتصالات: كل ارسال او استقبال -بين الاشخاص او الاشياء- للعلامات او الاشارات او النصوص او الصور او الاصوات او المعلومات او البيانات، مهما كانت طبيعتها، بوساطة النظم والاجهزة السلكية او اللاسلكية.",
+    "target_en_norm": "telecommunications: any transmission or reception of signs, signals, writings, images, sounds, information, or data between persons or things, regardless of their nature, through wired or wireless systems and devices.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30943,
+    "source_ar": "9- شبكة اتصالات: منظومة لنقل أي نوع من الاتصالات عن طريق استعمال الطاقة الكهربائية أو المغناطيسية أو الكهرومغناطيسية أو غيرها.",
+    "target_en": "Telecommunications Network: A system for the conveyance of any type of telecommunications using electrical, magnetic, or electromagnetic energy, or other types of energy.",
+    "source_ar_norm": "9- شبكة اتصالات: منظومة لنقل اي نوع من الاتصالات عن طريق استعمال الطاقة الكهربائية او المغناطيسية او الكهرومغناطيسية او غيرها.",
+    "target_en_norm": "telecommunications network: a system for the conveyance of any type of telecommunications using electrical, magnetic, or electromagnetic energy, or other types of energy.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30944,
+    "source_ar": "10- شبكة اتصالات عامة: منظومة (أو منظومات) اتصالات سلكية أو لا سلكية محلية أو دولية؛ لتقديم خدمة الاتصالات وتقنية المعلومات العامة للمستخدم.",
+    "target_en": "Public Telecommunications Network: A local or international wired or wireless telecommunications system, or systems, to provide users with public telecommunications and information technology services.",
+    "source_ar_norm": "10- شبكة اتصالات عامة: منظومة (او منظومات) اتصالات سلكية او لا سلكية محلية او دولية؛ لتقديم خدمة الاتصالات وتقنية المعلومات العامة للمستخدم.",
+    "target_en_norm": "public telecommunications network: a local or international wired or wireless telecommunications system, or systems, to provide users with public telecommunications and information technology services.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30945,
+    "source_ar": "11- شبكة اتصالات خاصة: شبكة محدودة غير مرتبطة بشبكة اتصالات عامة، لتقديم خدمة الاتصالات وتقنية المعلومات في مناطق محددة ولمستخدمين محددين.",
+    "target_en": "Private Telecommunications Network: A limited network, not linked to a public telecommunications network, to provide telecommunications and information technology services in certain areas to specific users.",
+    "source_ar_norm": "11- شبكة اتصالات خاصة: شبكة محدودة غير مرتبطة بشبكة اتصالات عامة، لتقديم خدمة الاتصالات وتقنية المعلومات في مناطق محددة ولمستخدمين محددين.",
+    "target_en_norm": "private telecommunications network: a limited network, not linked to a public telecommunications network, to provide telecommunications and information technology services in certain areas to specific users.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30946,
+    "source_ar": "12- تقنية المعلومات: تقنيات، وبرمجيات، ونظم وشبكات، وما يتعلق بها من عمليات لإنشاء البيانات، أو المعلومات، أو جمعها، أو الحصول عليها، أو معالجتها، أو تخزينها، أو تحليلها، بما في ذلك تطبيقات الاتصالات وتقنية المعلومات، ولا يشمل البيانات أو المعلومات بذاتها.",
+    "target_en": "Information Technology: Technologies, software, systems, networks, and related processes used for generating, collecting, obtaining, processing, storing, or analyzing data or information, including telecommunications and information technology applications; this shall not include the data or information per se.",
+    "source_ar_norm": "12- تقنية المعلومات: تقنيات، وبرمجيات، ونظم وشبكات، وما يتعلق بها من عمليات لانشاء البيانات، او المعلومات، او جمعها، او الحصول عليها، او معالجتها، او تخزينها، او تحليلها، بما في ذلك تطبيقات الاتصالات وتقنية المعلومات، ولا يشمل البيانات او المعلومات بذاتها.",
+    "target_en_norm": "information technology: technologies, software, systems, networks, and related processes used for generating, collecting, obtaining, processing, storing, or analyzing data or information, including telecommunications and information technology applications; this shall not include the data or information per se.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30947,
+    "source_ar": "13- الأجهزة: أي أجهزة سلكية أو لاسلكية، أو معدات حساسة للبث اللاسلكي، أو أجهزة ومعدات مسببة للتداخل، وأي معدات، أو أجهزة، أو منتجات، أو أدوات، أو آلات أو عتاد آخر؛ يكون متصلا ًبشبكة اتصالات أو قد يؤثر استعماله في الإمكانية الفنية لتقديم خدمات الاتصالات أو تقنية المعلومات.",
+    "target_en": "Devices: Any wired or wireless devices, radio-sensitive equipment, or interference-causing devices and equipment as well as any other equipment, devices, products, tools, machines, or hardware connected to a telecommunications network or the use of which may affect the technical capabilities of providing telecommunications or information technology services.",
+    "source_ar_norm": "13- الاجهزة: اي اجهزة سلكية او لاسلكية، او معدات حساسة للبث اللاسلكي، او اجهزة ومعدات مسببة للتداخل، واي معدات، او اجهزة، او منتجات، او ادوات، او الات او عتاد اخر؛ يكون متصلا بشبكة اتصالات او قد يؤثر استعماله في الامكانية الفنية لتقديم خدمات الاتصالات او تقنية المعلومات.",
+    "target_en_norm": "devices: any wired or wireless devices, radio-sensitive equipment, or interference-causing devices and equipment as well as any other equipment, devices, products, tools, machines, or hardware connected to a telecommunications network or the use of which may affect the technical capabilities of providing telecommunications or information technology services.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30948,
+    "source_ar": "14- البنية التحتية: منظومة مادية مستخدمة لتوفير الخدمات ذات العلاقة بقطاع الاتصالات وتقنية المعلومات، بما في ذلك المرافق والشبكات والأجهزة.",
+    "target_en": "Infrastructure: A physical system used to provide services related to the telecommunications and information technology sector, including facilities, networks, and devices.",
+    "source_ar_norm": "14- البنية التحتية: منظومة مادية مستخدمة لتوفير الخدمات ذات العلاقة بقطاع الاتصالات وتقنية المعلومات، بما في ذلك المرافق والشبكات والاجهزة.",
+    "target_en_norm": "infrastructure: a physical system used to provide services related to the telecommunications and information technology sector, including facilities, networks, and devices.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30949,
+    "source_ar": "15- البنية التحتية الحرجة: شبكات وأجهزة وبرامج ضرورية بالحد الأدنى لخدمات الاتصالات وتقنية المعلومات، يؤدي تعطّلها -كليًّا أو جزئيًّا- إلى المساس باستقرار أو أمن قطاع الاتصالات وتقنية المعلومات.",
+    "target_en": "Critical Infrastructure: Networks, devices, and software required for the minimum provision of telecommunications and information technology services, the disruption of which, wholly or partially, may affect the stability or security of the telecommunications and information technology sector.",
+    "source_ar_norm": "15- البنية التحتية الحرجة: شبكات واجهزة وبرامج ضرورية بالحد الادني لخدمات الاتصالات وتقنية المعلومات، يؤدي تعطلها -كليا او جزئيا- الي المساس باستقرار او امن قطاع الاتصالات وتقنية المعلومات.",
+    "target_en_norm": "critical infrastructure: networks, devices, and software required for the minimum provision of telecommunications and information technology services, the disruption of which, wholly or partially, may affect the stability or security of the telecommunications and information technology sector.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30950,
+    "source_ar": "16- الترخيص: وثيقة تصدرها الهيئة لشخص -ذي صفة طبيعية أو اعتبارية- لاستخدام أو تقديم خدمات الاتصالات أو تقنية المعلومات أو أجهزة وفقاً للنظام واللائحة، وتتضمن الوثيقة: نوع الخدمة أو الجهاز، والمدة الزمنية، والأحكام العامة.",
+    "target_en": "License: A document issued by the Commission authorizing a natural or legal person to use or provide telecommunications or information technology services or devices pursuant to this Law and the Regulations; such document shall include the type of service or device, the validity period, and general provisions.",
+    "source_ar_norm": "16- الترخيص: وثيقة تصدرها الهيئة لشخص -ذي صفة طبيعية او اعتبارية- لاستخدام او تقديم خدمات الاتصالات او تقنية المعلومات او اجهزة وفقا للنظام واللائحة، وتتضمن الوثيقة: نوع الخدمة او الجهاز، والمدة الزمنية، والاحكام العامة.",
+    "target_en_norm": "license: a document issued by the commission authorizing a natural or legal person to use or provide telecommunications or information technology services or devices pursuant to this law and the regulations; such document shall include the type of service or device, the validity period, and general provisions.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30951,
+    "source_ar": "17- التسجيل: تدوين معلومات المسجل لدى الهيئة.",
+    "target_en": "Registration: Recording the information of the registrant with the Commission.",
+    "source_ar_norm": "17- التسجيل: تدوين معلومات المسجل لدي الهيئة.",
+    "target_en_norm": "registration: recording the information of the registrant with the commission.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30952,
+    "source_ar": "18- التصريح: وثيقة تصدرها الهيئة لشخص -ذي صفة طبيعية أو اعتبارية- خارج المملكة، يقدم خدمات ذات علاقة بخدمات اتصالات أو تقنية معلومات -بما فيها منصات المحتوى الرقمي- داخل المملكة من خلال عرضها بطريقة تمكن المستخدم من الوصول إليها.",
+    "target_en": "Permit: A document issued by the Commission authorizing a natural or legal person outside the Kingdom to provide services related to telecommunications or information technology services within the Kingdom in a manner accessible to users, including digital content platforms.",
+    "source_ar_norm": "18- التصريح: وثيقة تصدرها الهيئة لشخص -ذي صفة طبيعية او اعتبارية- خارج المملكة، يقدم خدمات ذات علاقة بخدمات اتصالات او تقنية معلومات -بما فيها منصات المحتوي الرقمي- داخل المملكة من خلال عرضها بطريقة تمكن المستخدم من الوصول اليها.",
+    "target_en_norm": "permit: a document issued by the commission authorizing a natural or legal person outside the kingdom to provide services related to telecommunications or information technology services within the kingdom in a manner accessible to users, including digital content platforms.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30953,
+    "source_ar": "19- مقدم الخدمة: مقدم خدمات الاتصالات أو تقنية المعلومات أو خدمات ذات علاقة بها -بما فيها منصات المحتوى الرقمي- للعموم المرخص له أو المسجل أو المصرح له.",
+    "target_en": "Service Provider: A licensee, registrant, or permittee who provides telecommunications or information technology services or services related thereto to the public, including digital content platforms.",
+    "source_ar_norm": "19- مقدم الخدمة: مقدم خدمات الاتصالات او تقنية المعلومات او خدمات ذات علاقة بها -بما فيها منصات المحتوي الرقمي- للعموم المرخص له او المسجل او المصرح له.",
+    "target_en_norm": "service provider: a licensee, registrant, or permittee who provides telecommunications or information technology services or services related thereto to the public, including digital content platforms.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30954,
+    "source_ar": "20- مقدم الخدمة المسيطر: مقدم الخدمة المسيطر وفق حكم الفقرة (2) من المادة (الخامسة عشرة) من النظام.",
+    "target_en": "Dominant Service Provider: A dominant service provider as provided for in Article 15(2) of this Law.",
+    "source_ar_norm": "20- مقدم الخدمة المسيطر: مقدم الخدمة المسيطر وفق حكم الفقرة (2) من المادة (الخامسة عشرة) من النظام.",
+    "target_en_norm": "dominant service provider: a dominant service provider as provided for in article 15(2) of this law.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30955,
+    "source_ar": "21- مقدم الخدمة ذو البنية التحتية: مقدّم خدمات الاتصالات أو تقنية المعلومات المرخص له بإنشاء أو تملك أو تشغيل البنية التحتية.",
+    "target_en": "Facilities-Based Service Provider: A telecommunications or information technology service provider licensed to establish, acquire, or operate infrastructure.",
+    "source_ar_norm": "21- مقدم الخدمة ذو البنية التحتية: مقدم خدمات الاتصالات او تقنية المعلومات المرخص له بانشاء او تملك او تشغيل البنية التحتية.",
+    "target_en_norm": "facilities-based service provider: a telecommunications or information technology service provider licensed to establish, acquire, or operate infrastructure.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30956,
+    "source_ar": "22- المستخدم: شخص -ذو صفة طبيعية أو اعتبارية- يستخدم خدمات الاتصالات أو تقنية المعلومات أو خدمات ذات علاقة بها -بما فيها منصات المحتوى الرقمي- من خلال مقدم الخدمة.",
+    "target_en": "User: A natural or legal person who uses telecommunications or information technology services or services related thereto, including digital content platforms, through a service provider.",
+    "source_ar_norm": "22- المستخدم: شخص -ذو صفة طبيعية او اعتبارية- يستخدم خدمات الاتصالات او تقنية المعلومات او خدمات ذات علاقة بها -بما فيها منصات المحتوي الرقمي- من خلال مقدم الخدمة.",
+    "target_en_norm": "user: a natural or legal person who uses telecommunications or information technology services or services related thereto, including digital content platforms, through a service provider.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30957,
+    "source_ar": "23- الطيف الترددي: مجموعة النطاقات الترددية الواردة في أنظمة الراديو الدولية، التي يمكن استخدامها في شبكات الاتصالات.",
+    "target_en": "Frequency Spectrum: The set of frequency bands provided for in the International Radio Regulations that can be used in telecommunications networks.",
+    "source_ar_norm": "23- الطيف الترددي: مجموعة النطاقات الترددية الواردة في انظمة الراديو الدولية، التي يمكن استخدامها في شبكات الاتصالات.",
+    "target_en_norm": "frequency spectrum: the set of frequency bands provided for in the international radio regulations that can be used in telecommunications networks.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30958,
+    "source_ar": "24- الخطة الوطنية للطيف الترددي: وثيقة تنظم النطاقات الترددية من حيث تحديد نوعها ونطاقها وتوزيعها على الجهات المعنية.",
+    "target_en": "National Frequency Spectrum Plan: A document regulating frequency bands by determining their type and range as well as the distribution thereof to relevant agencies.",
+    "source_ar_norm": "24- الخطة الوطنية للطيف الترددي: وثيقة تنظم النطاقات الترددية من حيث تحديد نوعها ونطاقها وتوزيعها علي الجهات المعنية.",
+    "target_en_norm": "national frequency spectrum plan: a document regulating frequency bands by determining their type and range as well as the distribution thereof to relevant agencies.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30959,
+    "source_ar": "25- ربط الاتصال البيني: ربط يسمح لمستخدمي شبكة اتصالات تابعة لمقدم خدمة معين بالاتصال فيما بينهم أو مع المستخدمين التابعين لمقدم خدمة آخر.",
+    "target_en": "Interconnection: A link that allows the users of a telecommunications network operated by a particular service provider to communicate with each other or with the users of another service provider.",
+    "source_ar_norm": "25- ربط الاتصال البيني: ربط يسمح لمستخدمي شبكة اتصالات تابعة لمقدم خدمة معين بالاتصال فيما بينهم او مع المستخدمين التابعين لمقدم خدمة اخر.",
+    "target_en_norm": "interconnection: a link that allows the users of a telecommunications network operated by a particular service provider to communicate with each other or with the users of another service provider.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30960,
+    "source_ar": "26- النفاذ: إتاحة الوصول إلى البنية التحتية أو المرافق أو الشبكات أو الأجهزة أو الأنظمة أو الخدمات أو غير ذلك مما يمكن استخدامه في توفير خدمات الاتصالات وتقنية المعلومات.",
+    "target_en": "Access: Providing access to infrastructure, facilities, networks, devices, systems, services, or any other means that may be used for providing telecommunications and information technology services.",
+    "source_ar_norm": "26- النفاذ: اتاحة الوصول الي البنية التحتية او المرافق او الشبكات او الاجهزة او الانظمة او الخدمات او غير ذلك مما يمكن استخدامه في توفير خدمات الاتصالات وتقنية المعلومات.",
+    "target_en_norm": "access: providing access to infrastructure, facilities, networks, devices, systems, services, or any other means that may be used for providing telecommunications and information technology services.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30961,
+    "source_ar": "27- الخدمة الشاملة: توفير حد أدنى من خدمات الاتصالات والإنترنت بأسعار وجودة مناسبين لكل مستخدم.",
+    "target_en": "Universal Service: Providing users with a minimum level of telecommunications and Internet services at reasonable prices and good quality.",
+    "source_ar_norm": "27- الخدمة الشاملة: توفير حد ادني من خدمات الاتصالات والانترنت باسعار وجودة مناسبين لكل مستخدم.",
+    "target_en_norm": "universal service: providing users with a minimum level of telecommunications and internet services at reasonable prices and good quality.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30962,
+    "source_ar": "28- حق الاستخدام الشامل: إتاحة الفرصة لجميع المستخدمين في المملكة للاستفادة من الحد الأدنى من خدمات الاتصالات وتقنية المعلومات ذات الجودة المناسبة، وضمن مساحة جغرافية محدَّدة، وبسعر مناسب؛ بحسب ما تقدره الوزارة بالتنسيق مع الهيئة.",
+    "target_en": "Universal Access: Providing all users in the Kingdom with the opportunity to benefit from a minimum level of telecommunications and information technology services at reasonable prices and good quality in a specific geographical area, as determined by the Ministry in coordination with the Commission.",
+    "source_ar_norm": "28- حق الاستخدام الشامل: اتاحة الفرصة لجميع المستخدمين في المملكة للاستفادة من الحد الادني من خدمات الاتصالات وتقنية المعلومات ذات الجودة المناسبة، وضمن مساحة جغرافية محددة، وبسعر مناسب؛ بحسب ما تقدره الوزارة بالتنسيق مع الهيئة.",
+    "target_en_norm": "universal access: providing all users in the kingdom with the opportunity to benefit from a minimum level of telecommunications and information technology services at reasonable prices and good quality in a specific geographical area, as determined by the ministry in coordination with the commission.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30963,
+    "source_ar": "29- الترقيم: نسق من الأرقام المسلسلة يحدد نقطة نهائية مقصودة في شبكة الاتصالات العامة، ويتضمن المعلومات الضرورية لتوجيه الاتصالات إلى هذه النقطة النهائية.",
+    "target_en": "Numbering: A sequence of serial numbers that identifies an intended endpoint in the public telecommunications network and includes the information necessary to direct telecommunications to such endpoint.",
+    "source_ar_norm": "29- الترقيم: نسق من الارقام المسلسلة يحدد نقطة نهائية مقصودة في شبكة الاتصالات العامة، ويتضمن المعلومات الضرورية لتوجيه الاتصالات الي هذه النقطة النهائية.",
+    "target_en_norm": "numbering: a sequence of serial numbers that identifies an intended endpoint in the public telecommunications network and includes the information necessary to direct telecommunications to such endpoint.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30964,
+    "source_ar": "30- الخطة الوطنية للترقيم: خطة تُعِدها الهيئة لتحديد نطاق الأرقام المستخدمة في مختلف خدمات الاتصالات أو تقنية المعلومات.",
+    "target_en": "National Numbering Plan: A plan prepared by the Commission to determine the range of numbers used in various telecommunications or information technology services.",
+    "source_ar_norm": "30- الخطة الوطنية للترقيم: خطة تعدها الهيئة لتحديد نطاق الارقام المستخدمة في مختلف خدمات الاتصالات او تقنية المعلومات.",
+    "target_en_norm": "national numbering plan: a plan prepared by the commission to determine the range of numbers used in various telecommunications or information technology services.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30965,
+    "source_ar": "31- التحول الرقمي: إعادة تنظيم الأعمال استراتيجيًا استناداً إلى البيانات وتقنية المعلومات وشبكات الاتصالات.",
+    "target_en": "Digital Transformation: The strategic reorganization of businesses based on data, information technology, and telecommunications networks.",
+    "source_ar_norm": "31- التحول الرقمي: اعادة تنظيم الاعمال استراتيجيا استنادا الي البيانات وتقنية المعلومات وشبكات الاتصالات.",
+    "target_en_norm": "digital transformation: the strategic reorganization of businesses based on data, information technology, and telecommunications networks.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30966,
+    "source_ar": "32- التقنيات الناشئة: ابتكارات تقنية تمثل خطوة تقدمية في مجال معين، وتحقق ميزة تنافسية على التقنيات السائدة.",
+    "target_en": "Emerging Technologies: Technical innovations which represent progressive developments in a specific field and present a competitive advantage over current technologies.",
+    "source_ar_norm": "32- التقنيات الناشئة: ابتكارات تقنية تمثل خطوة تقدمية في مجال معين، وتحقق ميزة تنافسية علي التقنيات السائدة.",
+    "target_en_norm": "emerging technologies: technical innovations which represent progressive developments in a specific field and present a competitive advantage over current technologies.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30967,
+    "source_ar": "33- الحكومة الرقمية: دعم العمليات الإدارية والتنظيمية والتشغيلية داخل القطاعات الحكومية -وفيما بينها- لتحقيق التحول الرقمي، وتطوير وتحسين وتمكين الوصول بسهولة وفاعلية للمعلومات والخدمات الحكومية.",
+    "target_en": "Digital Government: Supporting administrative, organizational, and operational processes within and across government sectors to achieve digital transformation and to develop, improve, and provide easy and effective access to government information and services.",
+    "source_ar_norm": "33- الحكومة الرقمية: دعم العمليات الادارية والتنظيمية والتشغيلية داخل القطاعات الحكومية -وفيما بينها- لتحقيق التحول الرقمي، وتطوير وتحسين وتمكين الوصول بسهولة وفاعلية للمعلومات والخدمات الحكومية.",
+    "target_en_norm": "digital government: supporting administrative, organizational, and operational processes within and across government sectors to achieve digital transformation and to develop, improve, and provide easy and effective access to government information and services.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30968,
+    "source_ar": "34- المعرفات التقنية: أي وسيلة تقنية للتعريف على نحو فريد لموارد أو خدمات أو محتوى يمكن الوصول إليها عن طريق الإنترنت.",
+    "target_en": "Digital Object Identifiers: Any technical means used to uniquely identify resources, services, or content that may be accessed via the Internet.",
+    "source_ar_norm": "34- المعرفات التقنية: اي وسيلة تقنية للتعريف علي نحو فريد لموارد او خدمات او محتوي يمكن الوصول اليها عن طريق الانترنت.",
+    "target_en_norm": "digital object identifiers: any technical means used to uniquely identify resources, services, or content that may be accessed via the internet.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30969,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30970,
+    "source_ar": "يهدف النظام إلى تحقيق الآتي:",
+    "target_en": "This Law aims to achieve the following:",
+    "source_ar_norm": "يهدف النظام الي تحقيق الاتي:",
+    "target_en_norm": "this law aims to achieve the following:",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30971,
+    "source_ar": "تطوير قطاع الاتصالات وتقنية المعلومات بما يؤدي إلى رفع كفاية خدماته وتطوير بنيته التحتية.",
+    "target_en": "Developing the telecommunications and information technology sector in a manner that increases the efficiency of its services and improves its infrastructure.",
+    "source_ar_norm": "تطوير قطاع الاتصالات وتقنية المعلومات بما يؤدي الي رفع كفاية خدماته وتطوير بنيته التحتية.",
+    "target_en_norm": "developing the telecommunications and information technology sector in a manner that increases the efficiency of its services and improves its infrastructure.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30972,
+    "source_ar": "تشجيع التحول الرقمي، والحث على استخدام الاتصالات وتقنية المعلومات، والاستفادة منها في جميع المجالات.",
+    "target_en": "Promoting digital transformation and the utilization of telecommunications and information technology in all fields.",
+    "source_ar_norm": "تشجيع التحول الرقمي، والحث علي استخدام الاتصالات وتقنية المعلومات، والاستفادة منها في جميع المجالات.",
+    "target_en_norm": "promoting digital transformation and the utilization of telecommunications and information technology in all fields.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30973,
+    "source_ar": "تشجيع الابتكار وريادة الأعمال والبحث والتطوير التقني في قطاع الاتصالات وتقنية المعلومات، وتنمية القطاعات الفرعية والتقنيات الناشئة، واستحداث خدمات جديدة للاتصالات وتقنية المعلومات.",
+    "target_en": "Promoting innovation, entrepreneurship, and technical research and development in the telecommunications and information technology sector; developing sub-sectors and emerging technologies; and introducing new telecommunications and information technology services.",
+    "source_ar_norm": "تشجيع الابتكار وريادة الاعمال والبحث والتطوير التقني في قطاع الاتصالات وتقنية المعلومات، وتنمية القطاعات الفرعية والتقنيات الناشئة، واستحداث خدمات جديدة للاتصالات وتقنية المعلومات.",
+    "target_en_norm": "promoting innovation, entrepreneurship, and technical research and development in the telecommunications and information technology sector; developing sub-sectors and emerging technologies; and introducing new telecommunications and information technology services.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30974,
+    "source_ar": "نقل وتوطين التقنية في مجال الاتصالات وتقنية المعلومات ومواكبة تطورها.",
+    "target_en": "Transferring and localizing technology in the field of telecommunications and information technology and keeping up with its development.",
+    "source_ar_norm": "نقل وتوطين التقنية في مجال الاتصالات وتقنية المعلومات ومواكبة تطورها.",
+    "target_en_norm": "transferring and localizing technology in the field of telecommunications and information technology and keeping up with its development.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30975,
+    "source_ar": "حماية المصلحة العامة، وحماية المستخدم ومصالحه، ورفع مستوى الثقة لديه؛ عبر تقديم خدمات الاتصالات وتقنية المعلومات ذات الجودة المناسبة، وتوفير الحماية من المحتوى الضار، والمحافظة على سرية الاتصالات.",
+    "target_en": "Protecting the public interest, protecting the user and his interests, and increasing the user’s trust by providing telecommunications and information technology services of good quality, providing protection from harmful content, and maintaining the confidentiality of telecommunications.",
+    "source_ar_norm": "حماية المصلحة العامة، وحماية المستخدم ومصالحه، ورفع مستوي الثقة لديه؛ عبر تقديم خدمات الاتصالات وتقنية المعلومات ذات الجودة المناسبة، وتوفير الحماية من المحتوي الضار، والمحافظة علي سرية الاتصالات.",
+    "target_en_norm": "protecting the public interest, protecting the user and his interests, and increasing the user’s trust by providing telecommunications and information technology services of good quality, providing protection from harmful content, and maintaining the confidentiality of telecommunications.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30976,
+    "source_ar": "تعزيز الوصول إلى خدمات اتصالات وتقنية معلومات متطورة وبأسعار مناسبة في جميع مناطق المملكة.",
+    "target_en": "Promoting access to advanced telecommunications and information technology services at reasonable prices in all of the Kingdom’s provinces.",
+    "source_ar_norm": "تعزيز الوصول الي خدمات اتصالات وتقنية معلومات متطورة وباسعار مناسبة في جميع مناطق المملكة.",
+    "target_en_norm": "promoting access to advanced telecommunications and information technology services at reasonable prices in all of the kingdom’s provinces.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30977,
+    "source_ar": "تنمية حصة المحتوى المحلي في قطاع الاتصالات وتقنية المعلومات وتحفيز الطلب على منتجات وخدمات المنشآت الوطنية ذات الصلة.",
+    "target_en": "Increasing local content in the telecommunications and information technology sector and stimulating the demand for the products and services of relevant national entities.",
+    "source_ar_norm": "تنمية حصة المحتوي المحلي في قطاع الاتصالات وتقنية المعلومات وتحفيز الطلب علي منتجات وخدمات المنشات الوطنية ذات الصلة.",
+    "target_en_norm": "increasing local content in the telecommunications and information technology sector and stimulating the demand for the products and services of relevant national entities.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30978,
+    "source_ar": "تعزيز تنافسية قطاع الاتصالات وتقنية المعلومات والشركات العاملة فيه، وضمان استمرارية وفاعلية مستوى المنافسة فيه، ورفع تنافسية شركات الاتصالات إقليميّاً وعالميّاً.",
+    "target_en": "Promoting the competitiveness of the telecommunications and information technology sector and the companies operating therein, ensuring the continuity and effectiveness of competition therein, and raising the competitiveness of telecommunications companies regionally and internationally.",
+    "source_ar_norm": "تعزيز تنافسية قطاع الاتصالات وتقنية المعلومات والشركات العاملة فيه، وضمان استمرارية وفاعلية مستوي المنافسة فيه، ورفع تنافسية شركات الاتصالات اقليميا وعالميا.",
+    "target_en_norm": "promoting the competitiveness of the telecommunications and information technology sector and the companies operating therein, ensuring the continuity and effectiveness of competition therein, and raising the competitiveness of telecommunications companies regionally and internationally.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30979,
+    "source_ar": "توفير بيئة جاذبة للاستثمار في قطاع الاتصالات وتقنية المعلومات، واستقطاب الشركات الدولية الرائدة في المجالات ذات الأولوية للقطاع، ورفع مستوى عمل الشركات الوطنية.",
+    "target_en": "Creating an attractive environment for investment in the telecommunications and information technology sector, attracting leading international companies in the sector’s areas of priority, and raising the performance of national companies.",
+    "source_ar_norm": "توفير بيئة جاذبة للاستثمار في قطاع الاتصالات وتقنية المعلومات، واستقطاب الشركات الدولية الرائدة في المجالات ذات الاولوية للقطاع، ورفع مستوي عمل الشركات الوطنية.",
+    "target_en_norm": "creating an attractive environment for investment in the telecommunications and information technology sector, attracting leading international companies in the sector’s areas of priority, and raising the performance of national companies.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30980,
+    "source_ar": "تنظيم استخدام الطيف الترددي بما يضمن الاستخدام الأمثل له.",
+    "target_en": "Regulating the use of the frequency spectrum to ensure optimal use thereof.",
+    "source_ar_norm": "تنظيم استخدام الطيف الترددي بما يضمن الاستخدام الامثل له.",
+    "target_en_norm": "regulating the use of the frequency spectrum to ensure optimal use thereof.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30981,
+    "source_ar": "الاستخدام الفعال لخطة الترقيم الوطنية.",
+    "target_en": "Implementing the National Numbering Plan effectively.",
+    "source_ar_norm": "الاستخدام الفعال لخطة الترقيم الوطنية.",
+    "target_en_norm": "implementing the national numbering plan effectively.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30982,
+    "source_ar": "تحقيق الوضوح والشفافية في الإجراءات.",
+    "target_en": "Ensuring the clarity and transparency of procedures.",
+    "source_ar_norm": "تحقيق الوضوح والشفافية في الاجراءات.",
+    "target_en_norm": "ensuring the clarity and transparency of procedures.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30983,
+    "source_ar": "تحقيق مبادئ المساواة وعدم التمييز.",
+    "target_en": "Upholding the principles of equality and non-discrimination.",
+    "source_ar_norm": "تحقيق مبادئ المساواة وعدم التمييز.",
+    "target_en_norm": "upholding the principles of equality and non-discrimination.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30984,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30985,
+    "source_ar": "تختص الوزارة بالإشراف على قطاع الاتصالات وتقنية المعلومات في حدود أحكام النظام والأنظمة ذات العلاقة، وبما لا يتعارض مع مهمات واختصاصات الجهات الأخرى وفقاً لأنظمتها والأنظمة التي تُشرف عليها، ولها في سبيل ذلك القيام بالمهمات والاختصاصات الآتية:",
+    "target_en": "The Ministry shall have the power to supervise the telecommunications and information technology sector within the limits of this Law and relevant laws and in a manner that is not inconsistent with the powers and duties of other agencies in accordance with their laws and the laws under their supervision. To this end, it shall assume the following powers and duties:",
+    "source_ar_norm": "تختص الوزارة بالاشراف علي قطاع الاتصالات وتقنية المعلومات في حدود احكام النظام والانظمة ذات العلاقة، وبما لا يتعارض مع مهمات واختصاصات الجهات الاخري وفقا لانظمتها والانظمة التي تشرف عليها، ولها في سبيل ذلك القيام بالمهمات والاختصاصات الاتية:",
+    "target_en_norm": "the ministry shall have the power to supervise the telecommunications and information technology sector within the limits of this law and relevant laws and in a manner that is not inconsistent with the powers and duties of other agencies in accordance with their laws and the laws under their supervision. to this end, it shall assume the following powers and duties:",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30986,
+    "source_ar": "وضع استراتيجيات قطاع الاتصالات وتقنية المعلومات وسياساته، وخططه، وبرامجه، وبنيته التحتية، والإشراف على تنفيذها، والرفع عما يستلزم استكمال إجراءات في شأنه.",
+    "target_en": "Developing the strategies, policies, plans, programs, and infrastructure of the telecommunications and information technology sector; supervising the implementation thereof; and taking the measures necessary for matters requiring further action.",
+    "source_ar_norm": "وضع استراتيجيات قطاع الاتصالات وتقنية المعلومات وسياساته، وخططه، وبرامجه، وبنيته التحتية، والاشراف علي تنفيذها، والرفع عما يستلزم استكمال اجراءات في شانه.",
+    "target_en_norm": "developing the strategies, policies, plans, programs, and infrastructure of the telecommunications and information technology sector; supervising the implementation thereof; and taking the measures necessary for matters requiring further action.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30987,
+    "source_ar": "اقتراح مشاريع الأنظمة واللوائح لقطاع الاتصالات وتقنية المعلومات، بالتنسيق مع الهيئة، والإشراف على تنفيذها بعد إقرارها.",
+    "target_en": "Proposing draft laws and regulations for the telecommunications and information technology sector in coordination with the Commission, and supervising the implementation thereof upon approval.",
+    "source_ar_norm": "اقتراح مشاريع الانظمة واللوائح لقطاع الاتصالات وتقنية المعلومات، بالتنسيق مع الهيئة، والاشراف علي تنفيذها بعد اقرارها.",
+    "target_en_norm": "proposing draft laws and regulations for the telecommunications and information technology sector in coordination with the commission, and supervising the implementation thereof upon approval.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30988,
+    "source_ar": "تمثيل المملكة أمام الهيئات الإقليمية والدولية فيما يتعلق بشؤون قطاع الاتصالات وتقنية المعلومات. ولها أن تمنح صلاحية التمثيل للهيئة أو أي جهة أخرى ذات علاقة.",
+    "target_en": "Representing the Kingdom before regional and international bodies in matters relating to the telecommunications and information technology sector; it may delegate such power to the Commission or to any other relevant agency.",
+    "source_ar_norm": "تمثيل المملكة امام الهيئات الاقليمية والدولية فيما يتعلق بشؤون قطاع الاتصالات وتقنية المعلومات. ولها ان تمنح صلاحية التمثيل للهيئة او اي جهة اخري ذات علاقة.",
+    "target_en_norm": "representing the kingdom before regional and international bodies in matters relating to the telecommunications and information technology sector; it may delegate such power to the commission or to any other relevant agency.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30989,
+    "source_ar": "تشجيع الاستثمار في قطاع الاتصالات وتقنية المعلومات، والإسهام في توطين الوظائف وتأهيل الكوادر البشرية.",
+    "target_en": "Encouraging investment in the telecommunications and information technology sector and contributing to the localization of jobs and the qualification of human resources.",
+    "source_ar_norm": "تشجيع الاستثمار في قطاع الاتصالات وتقنية المعلومات، والاسهام في توطين الوظائف وتاهيل الكوادر البشرية.",
+    "target_en_norm": "encouraging investment in the telecommunications and information technology sector and contributing to the localization of jobs and the qualification of human resources.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30990,
+    "source_ar": "تشجيع ودعم الأبحاث والدراسات والتطوير في قطاع الاتصالات وتقنية المعلومات.",
+    "target_en": "Encouraging and supporting research and development in the telecommunications and information technology sector.",
+    "source_ar_norm": "تشجيع ودعم الابحاث والدراسات والتطوير في قطاع الاتصالات وتقنية المعلومات.",
+    "target_en_norm": "encouraging and supporting research and development in the telecommunications and information technology sector.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30991,
+    "source_ar": "إصدار وتحديث السياسات المتعلقة بالتقنيات الناشئة والإنترنت، وتعميمها على الجهات ذات العلاقة.",
+    "target_en": "Issuing and updating policies relating to emerging technologies and the Internet, and communicating such policies to relevant agencies.",
+    "source_ar_norm": "اصدار وتحديث السياسات المتعلقة بالتقنيات الناشئة والانترنت، وتعميمها علي الجهات ذات العلاقة.",
+    "target_en_norm": "issuing and updating policies relating to emerging technologies and the internet, and communicating such policies to relevant agencies.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30992,
+    "source_ar": "إجراء مراجعة دورية شاملة لأداء قطاع الاتصالات وتقنية المعلومات في ظل السياسات المعتمدة، ولها نشر نتائجها للعموم.",
+    "target_en": "Conducting a periodic comprehensive review of the performance of the telecommunications and information technology sector taking into consideration the approved policies, and publishing the results thereof to the public.",
+    "source_ar_norm": "اجراء مراجعة دورية شاملة لاداء قطاع الاتصالات وتقنية المعلومات في ظل السياسات المعتمدة، ولها نشر نتائجها للعموم.",
+    "target_en_norm": "conducting a periodic comprehensive review of the performance of the telecommunications and information technology sector taking into consideration the approved policies, and publishing the results thereof to the public.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30993,
+    "source_ar": "وضع سياسات الاقتصاد الرقمي ومعاييره وإجراءاته، بما يؤدي إلى مساهمة قطاع الاتصالات وتقنية المعلومات في تحفيز الاقتصاد، واتخاذ ما يلزم لتيسير استخدام الاتصالات وتقنية المعلومات في مجالات الاقتصاد الرقمي.",
+    "target_en": "Developing digital economy policies, standards, and procedures in a manner that allows the telecommunications and information technology sector to contribute to the stimulation of the economy, and taking the measures necessary to facilitate the use of telecommunications and information technology in the fields of digital economy.",
+    "source_ar_norm": "وضع سياسات الاقتصاد الرقمي ومعاييره واجراءاته، بما يؤدي الي مساهمة قطاع الاتصالات وتقنية المعلومات في تحفيز الاقتصاد، واتخاذ ما يلزم لتيسير استخدام الاتصالات وتقنية المعلومات في مجالات الاقتصاد الرقمي.",
+    "target_en_norm": "developing digital economy policies, standards, and procedures in a manner that allows the telecommunications and information technology sector to contribute to the stimulation of the economy, and taking the measures necessary to facilitate the use of telecommunications and information technology in the fields of digital economy.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30994,
+    "source_ar": "تعزيز المعايير والإجراءات ذات العلاقة بالتحول الرقمي والحكومة الرقمية، ودعم آليات العمل على ذلك بين الجهات المعنية.",
+    "target_en": "Enhancing standards and procedures relating to digital transformation and the digital government as well as the mechanisms for implementing the same among relevant agencies.",
+    "source_ar_norm": "تعزيز المعايير والاجراءات ذات العلاقة بالتحول الرقمي والحكومة الرقمية، ودعم اليات العمل علي ذلك بين الجهات المعنية.",
+    "target_en_norm": "enhancing standards and procedures relating to digital transformation and the digital government as well as the mechanisms for implementing the same among relevant agencies.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30995,
+    "source_ar": "اتخاذ الترتيبات اللازمة -بالتنسيق مع الهيئة- لضمان استمرار تقديم الخدمات الأساسية للاتصالات وتقنية المعلومات إذا تعذر على مقدم الخدمة القيام بذلك، وفق القواعد والإجراءات التي تحددها اللائحة.",
+    "target_en": "Taking necessary arrangements, in coordination with the Commission, to ensure the continuation of the provision of basic telecommunications and information technology services if a service provider is unable to provide such services, in accordance with the rules and procedures specified by the Regulations.",
+    "source_ar_norm": "اتخاذ الترتيبات اللازمة -بالتنسيق مع الهيئة- لضمان استمرار تقديم الخدمات الاساسية للاتصالات وتقنية المعلومات اذا تعذر علي مقدم الخدمة القيام بذلك، وفق القواعد والاجراءات التي تحددها اللائحة.",
+    "target_en_norm": "taking necessary arrangements, in coordination with the commission, to ensure the continuation of the provision of basic telecommunications and information technology services if a service provider is unable to provide such services, in accordance with the rules and procedures specified by the regulations.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30996,
+    "source_ar": "ضمان توفر الخدمة الشاملة وحق الاستخدام الشامل.",
+    "target_en": "Ensuring the availability of Universal Service and Universal Access.",
+    "source_ar_norm": "ضمان توفر الخدمة الشاملة وحق الاستخدام الشامل.",
+    "target_en_norm": "ensuring the availability of universal service and universal access.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30997,
+    "source_ar": "ويجوز بقرار من مجلس الوزراء تعديل أحكام هذه المادة.",
+    "target_en": "The provisions of this Article may be amended pursuant to a resolution by the Council of Ministers.",
+    "source_ar_norm": "ويجوز بقرار من مجلس الوزراء تعديل احكام هذه المادة.",
+    "target_en_norm": "the provisions of this article may be amended pursuant to a resolution by the council of ministers.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30998,
+    "source_ar": "الفصل الثاني: التراخيص",
+    "target_en": "Chapter 2: Licenses",
+    "source_ar_norm": "الفصل الثاني: التراخيص",
+    "target_en_norm": "chapter 2: licenses",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 30999,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  },
+  {
+    "id": 31000,
+    "source_ar": "يُستحصل مقابل مالي -يورد إلى الخزينة العامة للدولة- لإصدار التراخيص وتجديدها، ولتقديم خدمات الاتصالات أو تقنية المعلومات تجاريًّا، ولاستخدام الترددات.",
+    "target_en": "Fees, to be deposited with the State treasury, shall be collected for the issuance and renewal of licenses, the commercial provision of telecommunications or information technology services, and the use of frequencies.",
+    "source_ar_norm": "يستحصل مقابل مالي -يورد الي الخزينة العامة للدولة- لاصدار التراخيص وتجديدها، ولتقديم خدمات الاتصالات او تقنية المعلومات تجاريا، ولاستخدام الترددات.",
+    "target_en_norm": "fees, to be deposited with the state treasury, shall be collected for the issuance and renewal of licenses, the commercial provision of telecommunications or information technology services, and the use of frequencies.",
+    "file_name": "نظام الاتصالات وتقنية المعلومات (جديد).docx"
+  }
+]

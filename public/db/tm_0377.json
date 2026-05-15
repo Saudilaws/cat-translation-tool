@@ -1,0 +1,802 @@
+[
+  {
+    "id": 37601,
+    "source_ar": "1- يعد اجتماع الجمعية العمومية (العادية أو غير العادية) صحيحاً إذا حضره أكثر من نصف أعضائها، فإن لم يتحقق ذلك أُجّل الاجتماع إلى موعد آخر يعقد خلال مدة أقلها ساعة وأقصاها خمسة عشر يوماً من موعد الاجتماع الأول، ويكون الاجتماع في هذه الحالة بالنسبة إلى الجمعية العمومية العاديـة صحيحاً مهما كان عدد الأعضاء الحاضرين، وبما لا يقل عن (٢٥٪) من إجمالي الأعضاء بالنسبة إلى الجمعية العمومية غير العادية.",
+    "target_en": "1. An ordinary or extraordinary meeting of the general assembly shall be deemed valid if attended by more than half of its members; otherwise, the meeting shall be postponed and it may be held within a minimum period of one hour and a maximum of 15 days from the date of the first meeting. In such case, the ordinary general assembly meeting shall be valid regardless of the number of attending members. As for the extraordinary general assembly meeting, the attendance shall not be less than 25% of the total number of members.",
+    "source_ar_norm": "1- يعد اجتماع الجمعية العمومية (العادية او غير العادية) صحيحا اذا حضره اكثر من نصف اعضائها، فان لم يتحقق ذلك اجل الاجتماع الي موعد اخر يعقد خلال مدة اقلها ساعة واقصاها خمسة عشر يوما من موعد الاجتماع الاول، ويكون الاجتماع في هذه الحالة بالنسبة الي الجمعية العمومية العادية صحيحا مهما كان عدد الاعضاء الحاضرين، وبما لا يقل عن (٢٥٪) من اجمالي الاعضاء بالنسبة الي الجمعية العمومية غير العادية.",
+    "target_en_norm": "1. an ordinary or extraordinary meeting of the general assembly shall be deemed valid if attended by more than half of its members; otherwise, the meeting shall be postponed and it may be held within a minimum period of one hour and a maximum of 15 days from the date of the first meeting. in such case, the ordinary general assembly meeting shall be valid regardless of the number of attending members. as for the extraordinary general assembly meeting, the attendance shall not be less than 25% of the total number of members.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37602,
+    "source_ar": "2 - تصدر قرارات الجمعية العمومية العادية بأغلبية عدد الأعضاء الحاضرين.",
+    "target_en": "2. Decisions of the ordinary general assembly shall be passed by a majority of attending members.",
+    "source_ar_norm": "2 - تصدر قرارات الجمعية العمومية العادية باغلبية عدد الاعضاء الحاضرين.",
+    "target_en_norm": "2. decisions of the ordinary general assembly shall be passed by a majority of attending members.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37603,
+    "source_ar": "3 - تصدر قرارات الجمعية العمومية غير العادية بأغلبية ثلثي عدد الأعضاء الحاضرين.",
+    "target_en": "3. Decisions of the extraordinary general assembly shall be passed by a majority of two thirds of attending members.",
+    "source_ar_norm": "3 - تصدر قرارات الجمعية العمومية غير العادية باغلبية ثلثي عدد الاعضاء الحاضرين.",
+    "target_en_norm": "3. decisions of the extraordinary general assembly shall be passed by a majority of two thirds of attending members.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37604,
+    "source_ar": "المادة الثامنة عشرة:",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة:",
+    "target_en_norm": "article 18",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37605,
+    "source_ar": "1- تنتخب الجمعية العمومية أعضاء مجلس إدارة الجمعية بالاقتراع السري.",
+    "target_en": "1. The general assembly shall elect members of the association’s board of directors by secret ballot.",
+    "source_ar_norm": "1- تنتخب الجمعية العمومية اعضاء مجلس ادارة الجمعية بالاقتراع السري.",
+    "target_en_norm": "1. the general assembly shall elect members of the association’s board of directors by secret ballot.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37606,
+    "source_ar": "2 - للوزارة حق ندب من يحضر عملية الانتخاب للتأكد من سيرها طبقاً للائحة الأساسية.",
+    "target_en": "2. The Ministry may delegate a representative to attend the election to ensure compliance with the charter.",
+    "source_ar_norm": "2 - للوزارة حق ندب من يحضر عملية الانتخاب للتاكد من سيرها طبقا للائحة الاساسية.",
+    "target_en_norm": "2. the ministry may delegate a representative to attend the election to ensure compliance with the charter.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37607,
+    "source_ar": "3 - للوزارة إلغاء نتيجة الانتخاب إذا تأكد لها أنها بُنيت على مخالفات لهذا النظام أو اللائحة أو اللائحة الأساسية، وذلك خلال ثلاثين يوماً من تَبَلُّغها بالنتيجة.",
+    "target_en": "3. The Ministry may annul the result of the election if it is established that the result was based on violations of this Law, the Regulations, or the charter, within 30 days from notification of the result.",
+    "source_ar_norm": "3 - للوزارة الغاء نتيجة الانتخاب اذا تاكد لها انها بنيت علي مخالفات لهذا النظام او اللائحة او اللائحة الاساسية، وذلك خلال ثلاثين يوما من تبلغها بالنتيجة.",
+    "target_en_norm": "3. the ministry may annul the result of the election if it is established that the result was based on violations of this law, the regulations, or the charter, within 30 days from notification of the result.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37608,
+    "source_ar": "4 - لا يجوز الجمع بين الوظيفة في الجمعية وعضوية مجلس الإدارة، إلا بموافقة الوزارة ووفقاً لما تحدده اللائحة.",
+    "target_en": "4. It shall not be permissible to combine a position in the association and membership of the board of directors except upon the Ministry’s approval and in accordance with the Regulations.",
+    "source_ar_norm": "4 - لا يجوز الجمع بين الوظيفة في الجمعية وعضوية مجلس الادارة، الا بموافقة الوزارة ووفقا لما تحدده اللائحة.",
+    "target_en_norm": "4. it shall not be permissible to combine a position in the association and membership of the board of directors except upon the ministry’s approval and in accordance with the regulations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37609,
+    "source_ar": "المادة التاسعة عشرة:",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة:",
+    "target_en_norm": "article 19",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37610,
+    "source_ar": "1- يجوز للوزير - بقرارٍ مُسبَّبٍ - عزل مجلس الإدارة المنتخب وتعيينُ مجلسِ إدارةٍ مؤقتٍ للجمعية، وذلك في إحدى الحالتـين الآتيتين:",
+    "target_en": "1. The Minister may, pursuant to a reasoned decision, dismiss the association’s elected board of directors and appoint an interim board of directors in either of the following cases:",
+    "source_ar_norm": "1- يجوز للوزير - بقرار مسبب - عزل مجلس الادارة المنتخب وتعيين مجلس ادارة مؤقت للجمعية، وذلك في احدي الحالتين الاتيتين:",
+    "target_en_norm": "1. the minister may, pursuant to a reasoned decision, dismiss the association’s elected board of directors and appoint an interim board of directors in either of the following cases:",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37611,
+    "source_ar": "أ - إذا نقص عدد أعضاء مجلس الإدارة - لأي سبب - عن الحد الأدنى المحقق للنصاب النظامي اللازم لعقد اجتماعات المجلس المحدد في اللائحة الأساسية، وتعذر تكملة عدد الأعضاء طبقاً لأحكام النظام.",
+    "target_en": "a) If the number of board members falls – for any reason – below the quorum required for board meetings as stipulated in the charter, and it is not possible to complete the number of board members as provided for in the Law.",
+    "source_ar_norm": "ا - اذا نقص عدد اعضاء مجلس الادارة - لاي سبب - عن الحد الادني المحقق للنصاب النظامي اللازم لعقد اجتماعات المجلس المحدد في اللائحة الاساسية، وتعذر تكملة عدد الاعضاء طبقا لاحكام النظام.",
+    "target_en_norm": "a) if the number of board members falls – for any reason – below the quorum required for board meetings as stipulated in the charter, and it is not possible to complete the number of board members as provided for in the law.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37612,
+    "source_ar": "ب - إذا خالف مجلس الإدارة أيَّ حكم من أحكام النظام أو اللائحة أو اللائحة الأساسية، ولم تصحح المخالفة خلال شهر واحد من تاريخ الإنذار الخطي الموجه من الوزارة.",
+    "target_en": "b) If the board of directors violates any of the provisions of the Law, Regulations, or charter, and the violation is not rectified within one month from the written notification issued by the Ministry.",
+    "source_ar_norm": "ب - اذا خالف مجلس الادارة اي حكم من احكام النظام او اللائحة او اللائحة الاساسية، ولم تصحح المخالفة خلال شهر واحد من تاريخ الانذار الخطي الموجه من الوزارة.",
+    "target_en_norm": "b) if the board of directors violates any of the provisions of the law, regulations, or charter, and the violation is not rectified within one month from the written notification issued by the ministry.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37613,
+    "source_ar": "2 - على مجلس الإدارة المؤقت أن يدعو الجمعية العمومية للانعقاد خلال ستين يوماً من تاريخ تعيينه، وأن يعرض عليها تقريراً مفصلاً عن حالة الجمعية، وتنتخب الجمعية العمومية في هذه الجلسة مجلس إدارة جديداً، وتنتهي مهمة مجلس الإدارة المؤقت بانتخاب مجلس إدارة جديد.",
+    "target_en": "2. The interim board of directors shall call for a general assembly meeting within 60 days from the date of its appointment and shall present to the general assembly a detailed report on the association. The general assembly shall, in the meeting, elect a new board, and the interim board shall terminate upon the election of the new board.",
+    "source_ar_norm": "2 - علي مجلس الادارة المؤقت ان يدعو الجمعية العمومية للانعقاد خلال ستين يوما من تاريخ تعيينه، وان يعرض عليها تقريرا مفصلا عن حالة الجمعية، وتنتخب الجمعية العمومية في هذه الجلسة مجلس ادارة جديدا، وتنتهي مهمة مجلس الادارة المؤقت بانتخاب مجلس ادارة جديد.",
+    "target_en_norm": "2. the interim board of directors shall call for a general assembly meeting within 60 days from the date of its appointment and shall present to the general assembly a detailed report on the association. the general assembly shall, in the meeting, elect a new board, and the interim board shall terminate upon the election of the new board.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37614,
+    "source_ar": "المادة العشرون:",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون:",
+    "target_en_norm": "article 20",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37615,
+    "source_ar": "على مجلس إدارة الجمعية أن يقدم إلى الوزارة تقريراً سنويًّا مفصلاً معتمداً من الجمعية العمومية عن القوائم المالية للسنة المالية المنتهية خلال أربعة أشهر من نهاية السنة المالية؛ مشتملاً على رصد نشاطات الجمعية، وعلى تقرير مالي شامل معتمد من مراجع الحسابات، وصورة من الميزانية التقديرية للعام الجديد.",
+    "target_en": "An association’s board of directors shall submit to the Ministry a detailed annual report approved by the general assembly on the financial statements for the ending fiscal year, within four months from the end of the fiscal year. The report shall include a description of the association’s activities, an audited financial report, and a copy of the estimated budget for the new year.",
+    "source_ar_norm": "علي مجلس ادارة الجمعية ان يقدم الي الوزارة تقريرا سنويا مفصلا معتمدا من الجمعية العمومية عن القوائم المالية للسنة المالية المنتهية خلال اربعة اشهر من نهاية السنة المالية؛ مشتملا علي رصد نشاطات الجمعية، وعلي تقرير مالي شامل معتمد من مراجع الحسابات، وصورة من الميزانية التقديرية للعام الجديد.",
+    "target_en_norm": "an association’s board of directors shall submit to the ministry a detailed annual report approved by the general assembly on the financial statements for the ending fiscal year, within four months from the end of the fiscal year. the report shall include a description of the association’s activities, an audited financial report, and a copy of the estimated budget for the new year.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37616,
+    "source_ar": "المادة الحادية والعشرون:",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون:",
+    "target_en_norm": "article 21",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37617,
+    "source_ar": "على الجمعية ما يأتي:",
+    "target_en": "An association shall:",
+    "source_ar_norm": "علي الجمعية ما ياتي:",
+    "target_en_norm": "an association shall:",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37618,
+    "source_ar": "1 - أن تحتفظ في مقرها بالوثائق والمكاتبات والسجلات الخاصة بها، وفق ما تتضمنه اللائحة من أحكام.",
+    "target_en": "1. keep at its headquarters its documents, correspondence, and records in accordance with the provisions of the Regulations;",
+    "source_ar_norm": "1 - ان تحتفظ في مقرها بالوثائق والمكاتبات والسجلات الخاصة بها، وفق ما تتضمنه اللائحة من احكام.",
+    "target_en_norm": "1. keep at its headquarters its documents, correspondence, and records in accordance with the provisions of the regulations;",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37619,
+    "source_ar": "2 - أن تقيد في سجل خاص اسم كل عضو من أعضاء الجمعية، وبياناته، وعنوانه، وتاريخ انضمامه إلى الجمعية، وما يسدده من رسوم العضوية (إن وجدت) وكل تغيير يطرأ على هذه البيانات.",
+    "target_en": "2. enter in an independent record the name of each association member, his particulars, address, the date he joined the association, paid membership fees, if any), and any changes to such data;",
+    "source_ar_norm": "2 - ان تقيد في سجل خاص اسم كل عضو من اعضاء الجمعية، وبياناته، وعنوانه، وتاريخ انضمامه الي الجمعية، وما يسدده من رسوم العضوية (ان وجدت) وكل تغيير يطرا علي هذه البيانات.",
+    "target_en_norm": "2. enter in an independent record the name of each association member, his particulars, address, the date he joined the association, paid membership fees, if any), and any changes to such data;",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37620,
+    "source_ar": "3 - أن تدون - في سجلات معدة لهذا الغرض - وقائع جلسات الجمعية العمومية ومجلس الإدارة وقراراتهما، وكذلك القرارات التي يصدرها مسؤول الجهاز التنفيذي للجمعية بتفويضٍ من مجلس الإدارة، ولكل عضوٍ حق الاطلاع على هذه السجلات.",
+    "target_en": "3. enter in an independent record the proceedings and decisions of the general assembly and board meetings, as well as the decisions issued by the association’s chief executive officer upon authorization by the board of directors. Each member shall have access to such record;",
+    "source_ar_norm": "3 - ان تدون - في سجلات معدة لهذا الغرض - وقائع جلسات الجمعية العمومية ومجلس الادارة وقراراتهما، وكذلك القرارات التي يصدرها مسؤول الجهاز التنفيذي للجمعية بتفويض من مجلس الادارة، ولكل عضو حق الاطلاع علي هذه السجلات.",
+    "target_en_norm": "3. enter in an independent record the proceedings and decisions of the general assembly and board meetings, as well as the decisions issued by the association’s chief executive officer upon authorization by the board of directors. each member shall have access to such record;",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37621,
+    "source_ar": "4 - أن تدون حساباتها في سجلاتٍ تبين على وجه التفصيل الإيرادات والمصروفات.",
+    "target_en": "4. keep a record of its accounts in ledgers detailing revenues and expenditures;",
+    "source_ar_norm": "4 - ان تدون حساباتها في سجلات تبين علي وجه التفصيل الايرادات والمصروفات.",
+    "target_en_norm": "4. keep a record of its accounts in ledgers detailing revenues and expenditures;",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37622,
+    "source_ar": "5 - أن تتعاقد مع محاسبٍ قانونيٍّ مرخصٍ له لمراجعة حساباتها.",
+    "target_en": "5. hire a licensed auditor to audit its accounts;",
+    "source_ar_norm": "5 - ان تتعاقد مع محاسب قانوني مرخص له لمراجعة حساباتها.",
+    "target_en_norm": "5. hire a licensed auditor to audit its accounts;",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37623,
+    "source_ar": "6 - أن تودع أموالها النقدية باسمها لدى أحد البنوك في المملكة، وألاَّ تصرف هذه الأموال في غير ما خصصت له، وألاَّ يصرف منها إلاَّ بتوقيع اثنين من المسؤولين في الجمعية يفوضهما بذلك مجلس الإدارة، وتحدد اللائحة الأساسية هذين المسؤولين.",
+    "target_en": "6. deposit its cash funds under its name with one of the banks in the Kingdom and refrain from using such funds for purposes other than those they are allocated for. Disbursement from such funds may only be made by the joint signature of two officials authorized by the board. The charter shall specify these two officials;",
+    "source_ar_norm": "6 - ان تودع اموالها النقدية باسمها لدي احد البنوك في المملكة، والا تصرف هذه الاموال في غير ما خصصت له، والا يصرف منها الا بتوقيع اثنين من المسؤولين في الجمعية يفوضهما بذلك مجلس الادارة، وتحدد اللائحة الاساسية هذين المسؤولين.",
+    "target_en_norm": "6. deposit its cash funds under its name with one of the banks in the kingdom and refrain from using such funds for purposes other than those they are allocated for. disbursement from such funds may only be made by the joint signature of two officials authorized by the board. the charter shall specify these two officials;",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37624,
+    "source_ar": "7 - أن تعرض الجمعية في مقرها أو على موقعها الإلكتروني القوائم المالية المدققة قبل أسبوع - على الأقل - من موعد انعقاد الجمعية العمومية.",
+    "target_en": "7. make available at its headquarters or on its website the audited financial statements at least one week prior to the date of the general assembly meeting;",
+    "source_ar_norm": "7 - ان تعرض الجمعية في مقرها او علي موقعها الالكتروني القوائم المالية المدققة قبل اسبوع - علي الاقل - من موعد انعقاد الجمعية العمومية.",
+    "target_en_norm": "7. make available at its headquarters or on its website the audited financial statements at least one week prior to the date of the general assembly meeting;",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37625,
+    "source_ar": "8 - أن تلتزم بأحكام الشريعة الإسلامية والنظام العام والآداب العامة، وأحكام النظام واللائحة وغيرهما من الأنظمة واللوائح، وكل ما يحافظ على الوحدة الوطنية.",
+    "target_en": "8. comply with the provisions of Sharia, public order, public morality, and the provisions of this Law, its Regulations, and other laws and regulations as well as all that preserves national unity;",
+    "source_ar_norm": "8 - ان تلتزم باحكام الشريعة الاسلامية والنظام العام والاداب العامة، واحكام النظام واللائحة وغيرهما من الانظمة واللوائح، وكل ما يحافظ علي الوحدة الوطنية.",
+    "target_en_norm": "8. comply with the provisions of sharia, public order, public morality, and the provisions of this law, its regulations, and other laws and regulations as well as all that preserves national unity;",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37626,
+    "source_ar": "9 - أن تصدر بطاقة عضوية لكل عضو من أعضائها.",
+    "target_en": "9. issue a membership card for each of its members;",
+    "source_ar_norm": "9 - ان تصدر بطاقة عضوية لكل عضو من اعضائها.",
+    "target_en_norm": "9. issue a membership card for each of its members;",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37627,
+    "source_ar": "10 - ألاَّ تتصرف فيما تتلقاه من زكوات إلاَّ بما يتفق مع أحكام الشريعة الإسلامية.",
+    "target_en": "10. dispose of received zakat in accordance with the provisions of Sharia only;",
+    "source_ar_norm": "10 - الا تتصرف فيما تتلقاه من زكوات الا بما يتفق مع احكام الشريعة الاسلامية.",
+    "target_en_norm": "10. dispose of received zakat in accordance with the provisions of sharia only;",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37628,
+    "source_ar": "11 - ألاَّ تستثمر أموالها في مضاربات مالية.",
+    "target_en": "11. refrain from investing its funds in financial speculations; and",
+    "source_ar_norm": "11 - الا تستثمر اموالها في مضاربات مالية.",
+    "target_en_norm": "11. refrain from investing its funds in financial speculations; and",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37629,
+    "source_ar": "12 - ألاَّ تتلقى إعانات من خارج المملكة إلاَّ بعد موافقة الوزارة وفقاً للضوابط التي تحددها اللائحة.",
+    "target_en": "12. refrain from receiving aid from outside the Kingdom except upon the Ministry’s approval, in accordance with controls set in the Regulations.",
+    "source_ar_norm": "12 - الا تتلقي اعانات من خارج المملكة الا بعد موافقة الوزارة وفقا للضوابط التي تحددها اللائحة.",
+    "target_en_norm": "12. refrain from receiving aid from outside the kingdom except upon the ministry’s approval, in accordance with controls set in the regulations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37630,
+    "source_ar": "المادة الثانية والعشرون:",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون:",
+    "target_en_norm": "article 22",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37631,
+    "source_ar": "يجوز حلُّ الجمعية حلاًّ اختياريًّا بقرار من الجمعية العمومية غير العادية، وفقاً لأحكام هذا النظام واللائحة الأساسية.",
+    "target_en": "An association may be voluntarily dissolved pursuant to a decision by the extraordinary general assembly in accordance with the provisions of this Law and the charter.",
+    "source_ar_norm": "يجوز حل الجمعية حلا اختياريا بقرار من الجمعية العمومية غير العادية، وفقا لاحكام هذا النظام واللائحة الاساسية.",
+    "target_en_norm": "an association may be voluntarily dissolved pursuant to a decision by the extraordinary general assembly in accordance with the provisions of this law and the charter.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37632,
+    "source_ar": "المادة الثالثة والعشرون:",
+    "target_en": "Article 23",
+    "source_ar_norm": "المادة الثالثة والعشرون:",
+    "target_en_norm": "article 23",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37633,
+    "source_ar": "1- للوزير - بقرار مُسَّببٍ وبعد إنذارها - تعليق نشاط الجمعية مؤقتاً، أو حلها أو دمجها في جمعية أخرى، وذلك في إحدى الحالات الآتية:",
+    "target_en": "1. The Minister may – by a reasoned decision and upon notification – provisionally suspend or dissolve an association, or merge it with another association in any of the following cases:",
+    "source_ar_norm": "1- للوزير - بقرار مسبب وبعد انذارها - تعليق نشاط الجمعية مؤقتا، او حلها او دمجها في جمعية اخري، وذلك في احدي الحالات الاتية:",
+    "target_en_norm": "1. the minister may – by a reasoned decision and upon notification – provisionally suspend or dissolve an association, or merge it with another association in any of the following cases:",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37634,
+    "source_ar": "أ - إذا قل عدد أعضائها عن خمسة أشخاص.",
+    "target_en": "a) If the number of members falls below five.",
+    "source_ar_norm": "ا - اذا قل عدد اعضائها عن خمسة اشخاص.",
+    "target_en_norm": "a) if the number of members falls below five.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37635,
+    "source_ar": "ب - إذا خرجت عن أهدافها، أو ارتكبت مخالفات جسيمة لهذا النظام، أو اللائحة، أو اللائحة الأساسية.",
+    "target_en": "b) If it deviates from its objectives or commits serious violations of this Law, the Regulations, or charter.",
+    "source_ar_norm": "ب - اذا خرجت عن اهدافها، او ارتكبت مخالفات جسيمة لهذا النظام، او اللائحة، او اللائحة الاساسية.",
+    "target_en_norm": "b) if it deviates from its objectives or commits serious violations of this law, the regulations, or charter.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37636,
+    "source_ar": "جـ - إذا أصبحت عاجزة عن الوفاء بالتزاماتها المالية.",
+    "target_en": "c) If it becomes incapable of meeting its financial obligations.",
+    "source_ar_norm": "ج - اذا اصبحت عاجزة عن الوفاء بالتزاماتها المالية.",
+    "target_en_norm": "c) if it becomes incapable of meeting its financial obligations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37637,
+    "source_ar": "د - إذا تصرفت في أموالها في غير الأوجه المحددة لها.",
+    "target_en": "d) If it disposes of its funds for other than the designated purposes.",
+    "source_ar_norm": "د - اذا تصرفت في اموالها في غير الاوجه المحددة لها.",
+    "target_en_norm": "d) if it disposes of its funds for other than the designated purposes.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37638,
+    "source_ar": "هـ - إذا ارتكبت مخالفات لأحكام الشريعة الإسلامية، أو النظام العام، أو الآداب العامة، أو أي فعل يخل بالوحدة الوطنية.",
+    "target_en": "e) If it violates the provisions of Sharia, public order, or public morality, or commits any act that undermines national unity.",
+    "source_ar_norm": "ه - اذا ارتكبت مخالفات لاحكام الشريعة الاسلامية، او النظام العام، او الاداب العامة، او اي فعل يخل بالوحدة الوطنية.",
+    "target_en_norm": "e) if it violates the provisions of sharia, public order, or public morality, or commits any act that undermines national unity.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37639,
+    "source_ar": "2 - إذا ثبت للوزارة وقوع أخطاء جسيمة تؤثر على تنفيذ عقد أبرمته الجمعية مع جهة حكومية أو خاصة لإدارة مؤسسة تابعة لها أو تنفيذ أي من مشروعات تلك الجهة أو برامجها أو خدماتها؛ فللوزارة - بعد التنسيق مع الجهة - وقف تنفيذ العقد مؤقتاً إلى حين إزالة المخالفات، أو إنهائه.",
+    "target_en": "2. If the Ministry establishes that serious violations were committed affecting the execution of a contract concluded by the association with a government or private agency for the management of an entity affiliated therewith or for carrying out any of its projects, programs, or services, the Ministry may – upon consultation with the agency – provisionally suspend the execution of the contract pending rectification of such violations, or termination of the contract.",
+    "source_ar_norm": "2 - اذا ثبت للوزارة وقوع اخطاء جسيمة تؤثر علي تنفيذ عقد ابرمته الجمعية مع جهة حكومية او خاصة لادارة مؤسسة تابعة لها او تنفيذ اي من مشروعات تلك الجهة او برامجها او خدماتها؛ فللوزارة - بعد التنسيق مع الجهة - وقف تنفيذ العقد مؤقتا الي حين ازالة المخالفات، او انهائه.",
+    "target_en_norm": "2. if the ministry establishes that serious violations were committed affecting the execution of a contract concluded by the association with a government or private agency for the management of an entity affiliated therewith or for carrying out any of its projects, programs, or services, the ministry may – upon consultation with the agency – provisionally suspend the execution of the contract pending rectification of such violations, or termination of the contract.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37640,
+    "source_ar": "المادة الرابعة والعشرون:",
+    "target_en": "Article 24",
+    "source_ar_norm": "المادة الرابعة والعشرون:",
+    "target_en_norm": "article 24",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37641,
+    "source_ar": "لا يجوز للقائمين على شؤون الجمعية التي صدر قرار من الوزير بتعليق نشاطها مؤقتاً أو حلها أو دمجها في جمعية أخرى؛ تصفيتها أو التصرف في أموالها أو مستنداتها، إلاَّ وفقاً لما تقضي به اللائحة.",
+    "target_en": "Officers managing the association which was suspended provisionally, dissolved, or merged with another association pursuant to a decision by the Minister, may not liquidate said association or dispose of its funds or documents, except as stipulated by the Regulations.",
+    "source_ar_norm": "لا يجوز للقائمين علي شؤون الجمعية التي صدر قرار من الوزير بتعليق نشاطها مؤقتا او حلها او دمجها في جمعية اخري؛ تصفيتها او التصرف في اموالها او مستنداتها، الا وفقا لما تقضي به اللائحة.",
+    "target_en_norm": "officers managing the association which was suspended provisionally, dissolved, or merged with another association pursuant to a decision by the minister, may not liquidate said association or dispose of its funds or documents, except as stipulated by the regulations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37642,
+    "source_ar": "منح صفة النفع العام",
+    "target_en": "Designation as Public Benefit",
+    "source_ar_norm": "منح صفة النفع العام",
+    "target_en_norm": "designation as public benefit",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37643,
+    "source_ar": "المادة الخامسة والعشرون:",
+    "target_en": "Article 25",
+    "source_ar_norm": "المادة الخامسة والعشرون:",
+    "target_en_norm": "article 25",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37644,
+    "source_ar": "تعد الجمعية ذات نفع عام إذا كان غرضها تحقيق مصلحة عامة، على أن ينص على ذلك في ترخيص إنشائها، ويكون إضفاء هذه الصفة أو إلغاؤها - في المرحلة التالية للترخيص - بقرار من الوزير، وتحدد اللائحة الأحكام المتعلقة بذلك.",
+    "target_en": "An association shall be designated as a public benefit association if its purpose is to achieve public interest, provided that this is specified in its establishment license. The granting or revocation of such designation – following licensing – shall be pursuant to a decision by the Minister, and the Regulations shall specify relevant provisions.",
+    "source_ar_norm": "تعد الجمعية ذات نفع عام اذا كان غرضها تحقيق مصلحة عامة، علي ان ينص علي ذلك في ترخيص انشائها، ويكون اضفاء هذه الصفة او الغاؤها - في المرحلة التالية للترخيص - بقرار من الوزير، وتحدد اللائحة الاحكام المتعلقة بذلك.",
+    "target_en_norm": "an association shall be designated as a public benefit association if its purpose is to achieve public interest, provided that this is specified in its establishment license. the granting or revocation of such designation – following licensing – shall be pursuant to a decision by the minister, and the regulations shall specify relevant provisions.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37645,
+    "source_ar": "المادة السادسة والعشرون:",
+    "target_en": "Article 26",
+    "source_ar_norm": "المادة السادسة والعشرون:",
+    "target_en_norm": "article 26",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37646,
+    "source_ar": "1- لا يجوز الحجز والتنفيذ على أموال جمعيات النفع العام إلاَّ بحكم قضائي.",
+    "target_en": "1. Funds of public benefit associations may not be subject to attachment or enforcement except pursuant to a judicial ruling.",
+    "source_ar_norm": "1- لا يجوز الحجز والتنفيذ علي اموال جمعيات النفع العام الا بحكم قضائي.",
+    "target_en_norm": "1. funds of public benefit associations may not be subject to attachment or enforcement except pursuant to a judicial ruling.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37647,
+    "source_ar": "2 - لجمعية النفع العام نزع ملكية العقارات التي تحتاج إليها في حدود أغراض النفع العام التي أنشئت من أجلها، وتطبق في هذه الحالة أحكام نظام نزع ملكية العقارات للمنفعة العامة ووضع اليد المؤقت على العقار، وذلك بالقدر الذي يتفق وطبيعة عمل هذه الجمعية، على أن يصدر قرار نزع الملكية من الوزير، وأن تدفع الجمعية التعويضات المترتبة على ذلك.",
+    "target_en": "2. A public benefit association may seek expropriation of property it needs within its public benefit purposes. In such case, the provisions of the Law of Eminent Domain and Temporary Taking of Property shall apply to the extent compatible with the nature of this association’s activities, provided that the expropriation decision is issued by the Minister and the association pays the necessary compensation.",
+    "source_ar_norm": "2 - لجمعية النفع العام نزع ملكية العقارات التي تحتاج اليها في حدود اغراض النفع العام التي انشئت من اجلها، وتطبق في هذه الحالة احكام نظام نزع ملكية العقارات للمنفعة العامة ووضع اليد المؤقت علي العقار، وذلك بالقدر الذي يتفق وطبيعة عمل هذه الجمعية، علي ان يصدر قرار نزع الملكية من الوزير، وان تدفع الجمعية التعويضات المترتبة علي ذلك.",
+    "target_en_norm": "2. a public benefit association may seek expropriation of property it needs within its public benefit purposes. in such case, the provisions of the law of eminent domain and temporary taking of property shall apply to the extent compatible with the nature of this association’s activities, provided that the expropriation decision is issued by the minister and the association pays the necessary compensation.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37648,
+    "source_ar": "المادة السابعة والعشرون:",
+    "target_en": "Article 27",
+    "source_ar_norm": "المادة السابعة والعشرون:",
+    "target_en_norm": "article 27",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37649,
+    "source_ar": "يجوز لأي جهة حكومية أو خاصة التعاقد مع إحدى جمعيات النفع العام لإدارة مؤسسة تابعة لها، أو تنفيذ بعض مشروعاتها أو برامجها أو خدماتها التي تدخل ضمن اختصاصها، وتحدد اللائحة إطار العلاقة التعاقدية بين الطرفين.",
+    "target_en": "A government or private agency may contract a public benefit association to manage an entity affiliated therewith or execute some of its projects, programs, or services falling within its powers. The Regulations shall define the contractual relationship between the two parties.",
+    "source_ar_norm": "يجوز لاي جهة حكومية او خاصة التعاقد مع احدي جمعيات النفع العام لادارة مؤسسة تابعة لها، او تنفيذ بعض مشروعاتها او برامجها او خدماتها التي تدخل ضمن اختصاصها، وتحدد اللائحة اطار العلاقة التعاقدية بين الطرفين.",
+    "target_en_norm": "a government or private agency may contract a public benefit association to manage an entity affiliated therewith or execute some of its projects, programs, or services falling within its powers. the regulations shall define the contractual relationship between the two parties.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37650,
+    "source_ar": "المادة الثامنة والعشرون:",
+    "target_en": "Article 28",
+    "source_ar_norm": "المادة الثامنة والعشرون:",
+    "target_en_norm": "article 28",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37651,
+    "source_ar": "تسري على جمعيات النفع العام فيما لم يرد في شأنه نص خاص؛ الأحكام الواردة في هذا النظام، المتعلقة بالجمعيات.",
+    "target_en": "Unless otherwise stipulated in a specific provision, the provisions set forth in this Law regarding associations shall apply to public benefit associations.",
+    "source_ar_norm": "تسري علي جمعيات النفع العام فيما لم يرد في شانه نص خاص؛ الاحكام الواردة في هذا النظام، المتعلقة بالجمعيات.",
+    "target_en_norm": "unless otherwise stipulated in a specific provision, the provisions set forth in this law regarding associations shall apply to public benefit associations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37652,
+    "source_ar": "المؤسسات الأهلية",
+    "target_en": "Civil Society Organizations",
+    "source_ar_norm": "المؤسسات الاهلية",
+    "target_en_norm": "civil society organizations",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37653,
+    "source_ar": "المادة التاسعة والعشرون:",
+    "target_en": "Article 29",
+    "source_ar_norm": "المادة التاسعة والعشرون:",
+    "target_en_norm": "article 29",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37654,
+    "source_ar": "تتكون موارد المؤسسة مما يخصصه لها المؤسس أو المؤسسون من أموال، أو أوقاف، أو هبات، أو وصايا، ويجوز لها استقبال التبرعات بعد موافقة الوزارة.",
+    "target_en": "Resources of an organization shall consist of the funds allocated by its founder(s) as well as endowments, grants, or bequests, and the organization may accept donations upon approval by the Ministry.",
+    "source_ar_norm": "تتكون موارد المؤسسة مما يخصصه لها المؤسس او المؤسسون من اموال، او اوقاف، او هبات، او وصايا، ويجوز لها استقبال التبرعات بعد موافقة الوزارة.",
+    "target_en_norm": "resources of an organization shall consist of the funds allocated by its founder(s) as well as endowments, grants, or bequests, and the organization may accept donations upon approval by the ministry.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37655,
+    "source_ar": "المادة الثلاثون:",
+    "target_en": "Article 30",
+    "source_ar_norm": "المادة الثلاثون:",
+    "target_en_norm": "article 30",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37656,
+    "source_ar": "يجب أن تشمل اللائحة الأساسية للمؤسسة البيانات الآتية:",
+    "target_en": "The organization’s charter shall include the following:",
+    "source_ar_norm": "يجب ان تشمل اللائحة الاساسية للمؤسسة البيانات الاتية:",
+    "target_en_norm": "the organization’s charter shall include the following:",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37657,
+    "source_ar": "1 - اسم المؤسسة، ونطاق عملها الجغرافي، ومقرها الرئيس.",
+    "target_en": "1. The organization’s name, geographical area covered by its work, and its main office.",
+    "source_ar_norm": "1 - اسم المؤسسة، ونطاق عملها الجغرافي، ومقرها الرئيس.",
+    "target_en_norm": "1. the organization’s name, geographical area covered by its work, and its main office.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37658,
+    "source_ar": "2 - اسم المؤسس أو أسماء المؤسسين، وبياناتهم الشخصية.",
+    "target_en": "2. Name(s) and particulars of the founder(s).",
+    "source_ar_norm": "2 - اسم المؤسس او اسماء المؤسسين، وبياناتهم الشخصية.",
+    "target_en_norm": "2. name(s) and particulars of the founder(s).",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37659,
+    "source_ar": "3 - الغرض الذي تنشأ المؤسسة لتحقيقه.",
+    "target_en": "3. Objectives of the organization.",
+    "source_ar_norm": "3 - الغرض الذي تنشا المؤسسة لتحقيقه.",
+    "target_en_norm": "3. objectives of the organization.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37660,
+    "source_ar": "4 - بيان بالحالات التي يمكن فيها حل المؤسسة حلاًّ اختياريًّا (إن وجدت)، والأحكام المنظمة لذلك.",
+    "target_en": "4. Cases of voluntary dissolution, if any, and relevant regulating provisions.",
+    "source_ar_norm": "4 - بيان بالحالات التي يمكن فيها حل المؤسسة حلا اختياريا (ان وجدت)، والاحكام المنظمة لذلك.",
+    "target_en_norm": "4. cases of voluntary dissolution, if any, and relevant regulating provisions.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37661,
+    "source_ar": "5 - بيان تفصيلي بالأموال المخصصة للمؤسسة، وإجراءات التصفية عند الحل، والجهة التي ستؤول إليها أموالها ومستنداتها.",
+    "target_en": "5. A detailed statement of the funds allocated to the organization, procedures for liquidation in case of dissolution, and the entity to which the funds and documents shall devolve.",
+    "source_ar_norm": "5 - بيان تفصيلي بالاموال المخصصة للمؤسسة، واجراءات التصفية عند الحل، والجهة التي ستؤول اليها اموالها ومستنداتها.",
+    "target_en_norm": "5. a detailed statement of the funds allocated to the organization, procedures for liquidation in case of dissolution, and the entity to which the funds and documents shall devolve.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37662,
+    "source_ar": "6 - الأحكام المنظمة لإدارة المؤسسة، بما في ذلك طريقة تشكيل مجلس الأمناء، وطريقة تعيين المسؤول التنفيذي، ومهمات كل منهما واختصاصاته.",
+    "target_en": "6. Provisions governing the management of the organization, including formation of the board of trustees and appointment of the chief executive officer as well as the duties and powers of each.",
+    "source_ar_norm": "6 - الاحكام المنظمة لادارة المؤسسة، بما في ذلك طريقة تشكيل مجلس الامناء، وطريقة تعيين المسؤول التنفيذي، ومهمات كل منهما واختصاصاته.",
+    "target_en_norm": "6. provisions governing the management of the organization, including formation of the board of trustees and appointment of the chief executive officer as well as the duties and powers of each.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37663,
+    "source_ar": "المادة الحادية والثلاثون:",
+    "target_en": "Article 31",
+    "source_ar_norm": "المادة الحادية والثلاثون:",
+    "target_en_norm": "article 31",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37664,
+    "source_ar": "يكون لكل مؤسسة مجلس أمناء من ثلاثة أعضاء على الأقل يعينهم المؤسس أو المؤسسون أو من يعهد إليه بذلك بموجب اللائحة الأساسية، وتبلغ الوزارة بالتعيين، وبكل تعديل يطرأ على تشكيل مجلس الأمناء.",
+    "target_en": "Each organization shall have a board of trustees consisting of at least three members to be appointed by the founder(s) or any other person authorized to do so by the Regulations. The Ministry shall be notified of the appointment and of any change to the board of trustees.",
+    "source_ar_norm": "يكون لكل مؤسسة مجلس امناء من ثلاثة اعضاء علي الاقل يعينهم المؤسس او المؤسسون او من يعهد اليه بذلك بموجب اللائحة الاساسية، وتبلغ الوزارة بالتعيين، وبكل تعديل يطرا علي تشكيل مجلس الامناء.",
+    "target_en_norm": "each organization shall have a board of trustees consisting of at least three members to be appointed by the founder(s) or any other person authorized to do so by the regulations. the ministry shall be notified of the appointment and of any change to the board of trustees.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37665,
+    "source_ar": "وإذا لم يعين مجلس للأمناء، أو خلا مكان واحد - أو أكثر - منهم وتعذر تعيين البديل بالطريقة المبينة في اللائحة الأساسية؛ فتتخذ الوزارة ما يلزم وفق ما تحدده اللائحة.",
+    "target_en": "In the absence of a board or the existence of one vacancy, or more, on the board and such vacancy cannot be filled as specified in the charter, the Ministry shall take necessary action as specified in the Regulations.",
+    "source_ar_norm": "واذا لم يعين مجلس للامناء، او خلا مكان واحد - او اكثر - منهم وتعذر تعيين البديل بالطريقة المبينة في اللائحة الاساسية؛ فتتخذ الوزارة ما يلزم وفق ما تحدده اللائحة.",
+    "target_en_norm": "in the absence of a board or the existence of one vacancy, or more, on the board and such vacancy cannot be filled as specified in the charter, the ministry shall take necessary action as specified in the regulations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37666,
+    "source_ar": "المادة الثانية والثلاثون:",
+    "target_en": "Article 32",
+    "source_ar_norm": "المادة الثانية والثلاثون:",
+    "target_en_norm": "article 32",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37667,
+    "source_ar": "يتولى مجلس الأمناء إدارة المؤسسة وفقاً لأحكام النظام واللائحة واللائحة الأساسية، ويمثلها رئيس المجلس أمام القضاء وأمام غيره، ولرئيس المجلس بعد موافقة مجلس الأمناء أن يفوض في هذا الاختصاص من يراه.",
+    "target_en": "The board of trustees shall manage the organization in accordance with the provisions of the Law, Regulations, and charter. The chairman of the board shall represent the organization before courts and third parties and he may, upon the approval of the board of trustees, delegate such power to whomever he deems appropriate.",
+    "source_ar_norm": "يتولي مجلس الامناء ادارة المؤسسة وفقا لاحكام النظام واللائحة واللائحة الاساسية، ويمثلها رئيس المجلس امام القضاء وامام غيره، ولرئيس المجلس بعد موافقة مجلس الامناء ان يفوض في هذا الاختصاص من يراه.",
+    "target_en_norm": "the board of trustees shall manage the organization in accordance with the provisions of the law, regulations, and charter. the chairman of the board shall represent the organization before courts and third parties and he may, upon the approval of the board of trustees, delegate such power to whomever he deems appropriate.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37668,
+    "source_ar": "المادة الثالثة والثلاثون:",
+    "target_en": "Article 33",
+    "source_ar_norm": "المادة الثالثة والثلاثون:",
+    "target_en_norm": "article 33",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37669,
+    "source_ar": "تكون للمؤسـسة ميزانية سنوية، وحساب ختامي، ويجوز - بعد موافقة الوزارة - أن يكتفى عنه ببيان يتضمن إيراداتها ومصروفاتها، وأوجه إنفاق أموالها بحسب طبيعة المال الذي جرى تخصيصه وفقاً للائحة الأساسية.",
+    "target_en": "An organization shall have an annual budget and a balance sheet. It may, upon the Ministry’s approval, suffice to have a statement showing its revenues, expenses, and expenditure channels according to the nature of allocated funds in accordance with the charter.",
+    "source_ar_norm": "تكون للمؤسسة ميزانية سنوية، وحساب ختامي، ويجوز - بعد موافقة الوزارة - ان يكتفي عنه ببيان يتضمن ايراداتها ومصروفاتها، واوجه انفاق اموالها بحسب طبيعة المال الذي جري تخصيصه وفقا للائحة الاساسية.",
+    "target_en_norm": "an organization shall have an annual budget and a balance sheet. it may, upon the ministry’s approval, suffice to have a statement showing its revenues, expenses, and expenditure channels according to the nature of allocated funds in accordance with the charter.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37670,
+    "source_ar": "المادة الرابعة والثلاثون:",
+    "target_en": "Article 34",
+    "source_ar_norm": "المادة الرابعة والثلاثون:",
+    "target_en_norm": "article 34",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37671,
+    "source_ar": "تُعِد الوزارة سجلاًّ خاصًّا بالمؤسسات، وتحدد اللائحة الأحكام المتعلقة بهذا السجل، وإجراءات التسجيل فيه، والبيانات اللازم تسجيلها.",
+    "target_en": "The Ministry shall maintain a register for organizations. The Regulations shall set forth provisions relating to such register, registration procedures, and the required data.",
+    "source_ar_norm": "تعد الوزارة سجلا خاصا بالمؤسسات، وتحدد اللائحة الاحكام المتعلقة بهذا السجل، واجراءات التسجيل فيه، والبيانات اللازم تسجيلها.",
+    "target_en_norm": "the ministry shall maintain a register for organizations. the regulations shall set forth provisions relating to such register, registration procedures, and the required data.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37672,
+    "source_ar": "المادة الخامسة والثلاثون:",
+    "target_en": "Article 35",
+    "source_ar_norm": "المادة الخامسة والثلاثون:",
+    "target_en_norm": "article 35",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37673,
+    "source_ar": "1- لا يجوز حل المؤسسة اختياريًّا أو دمجها في مؤسسة أخرى إلاَّ بموافقة المؤسس أو المؤسسين، أو وفقاً لما تقضي به اللائحة الأساسية.",
+    "target_en": "1. An organization may not be voluntarily dissolved or merged into another organization without the approval of the founder(s), or as stipulated in the charter.",
+    "source_ar_norm": "1- لا يجوز حل المؤسسة اختياريا او دمجها في مؤسسة اخري الا بموافقة المؤسس او المؤسسين، او وفقا لما تقضي به اللائحة الاساسية.",
+    "target_en_norm": "1. an organization may not be voluntarily dissolved or merged into another organization without the approval of the founder(s), or as stipulated in the charter.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37674,
+    "source_ar": "2 - تتخذ الوزارة - في الحالات الواردة في المادة (الثالثة والعشرين) - ما يلزم للمحافظة على أموال المؤسسة واستمرارها، ولها في سبيل ذلك عزل مجلس أمناء المؤسسة أو أي من المسؤولين التنفيذيين فيها، أو تعليق نشاطها مؤقتاً، على أنه لا يجوز حل المؤسسة إلاَّ في حالة ثبوت عجزها عن الوفاء بالتزاماتها المالية أو استحالة تحقيقها لأهدافها، مع التقيد في كل الأحوال بوصية المؤسس أو المؤسسين وشروطهم وبما تقضي به اللائحة الأساسية.",
+    "target_en": "2. The Ministry shall take action – in cases specified in Article 23 – as necessary to preserve the organization’s funds and ensure its continuity, and it may, to this end, dismiss the board of trustees or any of the organization’s executive officers or suspend its activities temporarily, provided that the organization may only be dissolved if it is proven that it is unable to meet its financial obligations or achieve its objectives, taking into consideration the instructions and conditions of the founder(s) and provisions of the charter.",
+    "source_ar_norm": "2 - تتخذ الوزارة - في الحالات الواردة في المادة (الثالثة والعشرين) - ما يلزم للمحافظة علي اموال المؤسسة واستمرارها، ولها في سبيل ذلك عزل مجلس امناء المؤسسة او اي من المسؤولين التنفيذيين فيها، او تعليق نشاطها مؤقتا، علي انه لا يجوز حل المؤسسة الا في حالة ثبوت عجزها عن الوفاء بالتزاماتها المالية او استحالة تحقيقها لاهدافها، مع التقيد في كل الاحوال بوصية المؤسس او المؤسسين وشروطهم وبما تقضي به اللائحة الاساسية.",
+    "target_en_norm": "2. the ministry shall take action – in cases specified in article 23 – as necessary to preserve the organization’s funds and ensure its continuity, and it may, to this end, dismiss the board of trustees or any of the organization’s executive officers or suspend its activities temporarily, provided that the organization may only be dissolved if it is proven that it is unable to meet its financial obligations or achieve its objectives, taking into consideration the instructions and conditions of the founder(s) and provisions of the charter.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37675,
+    "source_ar": "3 - يصدر أي إجراء تتخذه الوزارة - استناداً إلى الفقرة (2) من هذه المادة - بقرار مسبَّب من الوزير بعد إنذار المؤسسة.",
+    "target_en": "3. Any action taken by the Ministry – on the basis of paragraph (2) of this Article – shall be pursuant to a reasoned decision by the Minister after notifying the organization.",
+    "source_ar_norm": "3 - يصدر اي اجراء تتخذه الوزارة - استنادا الي الفقرة (2) من هذه المادة - بقرار مسبب من الوزير بعد انذار المؤسسة.",
+    "target_en_norm": "3. any action taken by the ministry – on the basis of paragraph (2) of this article – shall be pursuant to a reasoned decision by the minister after notifying the organization.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37676,
+    "source_ar": "المادة السادسة والثلاثون:",
+    "target_en": "Article 36",
+    "source_ar_norm": "المادة السادسة والثلاثون:",
+    "target_en_norm": "article 36",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37677,
+    "source_ar": "إذا حلت المؤسسة وفقاً للمادة (الخامسة والثلاثين) وكانت قد حصلت على إعانة من الدولة أو سمح لها بجمع تبرعات، فيكون التصرف في الأموال المستحصلة من تلك الإعانات أو التبرعات وفقاً لما تقضي به اللائحة.",
+    "target_en": "If an organization is dissolved in accordance with Article 35 and it had received a subsidy from the State or had been allowed to collect donations, the disposal of the funds obtained from those subsidies or donations shall be as prescribed by the Regulations.",
+    "source_ar_norm": "اذا حلت المؤسسة وفقا للمادة (الخامسة والثلاثين) وكانت قد حصلت علي اعانة من الدولة او سمح لها بجمع تبرعات، فيكون التصرف في الاموال المستحصلة من تلك الاعانات او التبرعات وفقا لما تقضي به اللائحة.",
+    "target_en_norm": "if an organization is dissolved in accordance with article 35 and it had received a subsidy from the state or had been allowed to collect donations, the disposal of the funds obtained from those subsidies or donations shall be as prescribed by the regulations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37678,
+    "source_ar": "المادة السابعة والثلاثون:",
+    "target_en": "Article 37",
+    "source_ar_norm": "المادة السابعة والثلاثون:",
+    "target_en_norm": "article 37",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37679,
+    "source_ar": "تسري على المؤسسات فيما لم يرد في شأنه نص خاص، الأحكام الواردة في هذا النظام المتعلقة بالجمعيات، وذلك باستثناء الأحكام الخاصة بجمعيات النفع العام، وما يتعلق بالأحكام الخاصة بالإعانات الحكومية.",
+    "target_en": "Unless otherwise stipulated in a specific provision, the provisions set forth in this Law regarding associations shall apply to organizations, with the exception of the provisions relating to public benefit associations and provisions relating to government subsidies.",
+    "source_ar_norm": "تسري علي المؤسسات فيما لم يرد في شانه نص خاص، الاحكام الواردة في هذا النظام المتعلقة بالجمعيات، وذلك باستثناء الاحكام الخاصة بجمعيات النفع العام، وما يتعلق بالاحكام الخاصة بالاعانات الحكومية.",
+    "target_en_norm": "unless otherwise stipulated in a specific provision, the provisions set forth in this law regarding associations shall apply to organizations, with the exception of the provisions relating to public benefit associations and provisions relating to government subsidies.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37680,
+    "source_ar": "مجلس الجمعيات والمؤسسات",
+    "target_en": "Council of Associations and Organizations",
+    "source_ar_norm": "مجلس الجمعيات والمؤسسات",
+    "target_en_norm": "council of associations and organizations",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37681,
+    "source_ar": "المادة الثامنة والثلاثون:",
+    "target_en": "Article 38",
+    "source_ar_norm": "المادة الثامنة والثلاثون:",
+    "target_en_norm": "article 38",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37682,
+    "source_ar": "يجوز للوزير أن يشكل مجلساً للجمعيات وآخر للمؤسسات، وتحدد اللائحة طريقة تشكيل كل مجلس واختصاصاته وتنظيم شؤونه المالية والإدارية والأحكام الأخرى ذات العلاقة بكل مجلس.",
+    "target_en": "The Minister may set up a council for associations and another council for organizations. The Regulations shall specify the manner of formation of each council, its powers, the regulation of its financial and administrative affairs, and other provisions relevant to each council.",
+    "source_ar_norm": "يجوز للوزير ان يشكل مجلسا للجمعيات واخر للمؤسسات، وتحدد اللائحة طريقة تشكيل كل مجلس واختصاصاته وتنظيم شؤونه المالية والادارية والاحكام الاخري ذات العلاقة بكل مجلس.",
+    "target_en_norm": "the minister may set up a council for associations and another council for organizations. the regulations shall specify the manner of formation of each council, its powers, the regulation of its financial and administrative affairs, and other provisions relevant to each council.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37683,
+    "source_ar": "أحكام عامة",
+    "target_en": "General Provisions",
+    "source_ar_norm": "احكام عامة",
+    "target_en_norm": "general provisions",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37684,
+    "source_ar": "المادة التاسعة والثلاثون:",
+    "target_en": "Article 39",
+    "source_ar_norm": "المادة التاسعة والثلاثون:",
+    "target_en_norm": "article 39",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37685,
+    "source_ar": "1- يجوز لجمعيات النفع العام جمع التبرعات، ويجوز لغيرها من الجمعيات - بعد موافقة الوزارة - جمع التبرعات لتنفيذ برامج محددة، على أن يتم التقيد في جميع الأحوال بالأنظمة والتعليمات والضوابط الصادرة من الجهات المختصة في هذا الشأن.",
+    "target_en": "1. Public benefit associations may collect donations. Other associations may, upon the Ministry’s approval, collect donations for the implementation of specific programs. In all cases, associations shall comply with relevant laws, instructions, and controls issued by the competent authorities.",
+    "source_ar_norm": "1- يجوز لجمعيات النفع العام جمع التبرعات، ويجوز لغيرها من الجمعيات - بعد موافقة الوزارة - جمع التبرعات لتنفيذ برامج محددة، علي ان يتم التقيد في جميع الاحوال بالانظمة والتعليمات والضوابط الصادرة من الجهات المختصة في هذا الشان.",
+    "target_en_norm": "1. public benefit associations may collect donations. other associations may, upon the ministry’s approval, collect donations for the implementation of specific programs. in all cases, associations shall comply with relevant laws, instructions, and controls issued by the competent authorities.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37686,
+    "source_ar": "2 - لا يجوز للجمعيات والمؤسسات التعاقد أو الاتفاق مع الدول أو المنظمات أو المؤسسات الدولية، إلاَّ بعد موافقة الوزارة والجهة المختصة.",
+    "target_en": "2. Associations and organizations may not conclude contracts or enter into agreements with states or international organizations or entities, except upon the approval of the Ministry and the competent authority.",
+    "source_ar_norm": "2 - لا يجوز للجمعيات والمؤسسات التعاقد او الاتفاق مع الدول او المنظمات او المؤسسات الدولية، الا بعد موافقة الوزارة والجهة المختصة.",
+    "target_en_norm": "2. associations and organizations may not conclude contracts or enter into agreements with states or international organizations or entities, except upon the approval of the ministry and the competent authority.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37687,
+    "source_ar": "3 - لا يجوز للجمعية أو المؤسسة الخروج عن الأهداف المحددة لها، ولا أن تنطوي أي من نشاطاتها وأعمالها على ما يؤدي إلى الإخلال بالنظام العام وإثارة النعرات والفرقة بين المواطنين.",
+    "target_en": "3. An association or organization may not deviate from its set objectives, nor engage in activities or actions that undermine public order or incite feuds and disunity among citizens.",
+    "source_ar_norm": "3 - لا يجوز للجمعية او المؤسسة الخروج عن الاهداف المحددة لها، ولا ان تنطوي اي من نشاطاتها واعمالها علي ما يؤدي الي الاخلال بالنظام العام واثارة النعرات والفرقة بين المواطنين.",
+    "target_en_norm": "3. an association or organization may not deviate from its set objectives, nor engage in activities or actions that undermine public order or incite feuds and disunity among citizens.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37688,
+    "source_ar": "المادة الأربعون:",
+    "target_en": "Article 40",
+    "source_ar_norm": "المادة الاربعون:",
+    "target_en_norm": "article 40",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37689,
+    "source_ar": "تكون القرارات الصادرة من الوزارة تنفيذاً لأحكام هذا النظام قابلة للطعن أمام المحكمة الإدارية خلال (ستين) يوماً من تاريخ العلم بها، وتفصل المحكمة في الطعن على وجه السرعة.",
+    "target_en": "Decisions issued by the Ministry in the implementation of the provisions of this Law shall be subject to appeal before the Administrative Court within 60 days from the date of knowledge thereof. The Court shall expeditiously decide on the appeal.",
+    "source_ar_norm": "تكون القرارات الصادرة من الوزارة تنفيذا لاحكام هذا النظام قابلة للطعن امام المحكمة الادارية خلال (ستين) يوما من تاريخ العلم بها، وتفصل المحكمة في الطعن علي وجه السرعة.",
+    "target_en_norm": "decisions issued by the ministry in the implementation of the provisions of this law shall be subject to appeal before the administrative court within 60 days from the date of knowledge thereof. the court shall expeditiously decide on the appeal.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37690,
+    "source_ar": "المادة الحادية والأربعون:",
+    "target_en": "Article 41",
+    "source_ar_norm": "المادة الحادية والاربعون:",
+    "target_en_norm": "article 41",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37691,
+    "source_ar": "تسري أحكام هذا النظام على المؤسسات الخيرية المنشأة بموجب أوامر ملكية باستثناء ما يلي:",
+    "target_en": "The provisions of this Law shall apply to charities established pursuant to royal orders, with the exception of the following:",
+    "source_ar_norm": "تسري احكام هذا النظام علي المؤسسات الخيرية المنشاة بموجب اوامر ملكية باستثناء ما يلي:",
+    "target_en_norm": "the provisions of this law shall apply to charities established pursuant to royal orders, with the exception of the following:",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37692,
+    "source_ar": "1 - ما يرد به نص خاص في النظام الأساسي للمؤسسة.",
+    "target_en": "1. Existence of a specific provision in the charter of the organization.",
+    "source_ar_norm": "1 - ما يرد به نص خاص في النظام الاساسي للمؤسسة.",
+    "target_en_norm": "1. existence of a specific provision in the charter of the organization.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37693,
+    "source_ar": "2 - الأحكام التي يقرر مجلس الوزراء عدم سريانها على تلك المؤسسات.",
+    "target_en": "2. Provisions the Council of Ministers deems inapplicable to such organizations.",
+    "source_ar_norm": "2 - الاحكام التي يقرر مجلس الوزراء عدم سريانها علي تلك المؤسسات.",
+    "target_en_norm": "2. provisions the council of ministers deems inapplicable to such organizations.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37694,
+    "source_ar": "المادة الثانية والأربعون:",
+    "target_en": "Article 42",
+    "source_ar_norm": "المادة الثانية والاربعون:",
+    "target_en_norm": "article 42",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37695,
+    "source_ar": "يصدر الوزير اللائحة خلال (تسعين) يوماً من تاريخ نشر النظام.",
+    "target_en": "The Minister shall issue the Regulations within 90 days from the date of publication of the Law.",
+    "source_ar_norm": "يصدر الوزير اللائحة خلال (تسعين) يوما من تاريخ نشر النظام.",
+    "target_en_norm": "the minister shall issue the regulations within 90 days from the date of publication of the law.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37696,
+    "source_ar": "المادة الثالثة والأربعون:",
+    "target_en": "Article 43",
+    "source_ar_norm": "المادة الثالثة والاربعون:",
+    "target_en_norm": "article 43",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37697,
+    "source_ar": "يلغي هذا النظام لائحة الجمعيات والمؤسسات الخيرية، الصادرة بقرار مجلس الوزراء رقم (107) وتاريخ 25/ 6/ 1410هـ، وكل ما يتعارض معه من أحكام.",
+    "target_en": "This Law shall repeal the Charitable Associations and Organizations Regulations issued by Council of Ministers Resolution No. 107 dated 25/6/1410H and all provisions conflicting therewith.",
+    "source_ar_norm": "يلغي هذا النظام لائحة الجمعيات والمؤسسات الخيرية، الصادرة بقرار مجلس الوزراء رقم (107) وتاريخ 25/ 6/ 1410ه، وكل ما يتعارض معه من احكام.",
+    "target_en_norm": "this law shall repeal the charitable associations and organizations regulations issued by council of ministers resolution no. 107 dated 25/6/1410h and all provisions conflicting therewith.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37698,
+    "source_ar": "المادة الرابعة والأربعون:",
+    "target_en": "Article 44",
+    "source_ar_norm": "المادة الرابعة والاربعون:",
+    "target_en_norm": "article 44",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37699,
+    "source_ar": "يعمل بهذا النظام بعد (تسعين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+    "target_en": "This Law shall enter into force after 90 days from the date of its publication in the Official Gazette.",
+    "source_ar_norm": "يعمل بهذا النظام بعد (تسعين) يوما من تاريخ نشره في الجريدة الرسمية.",
+    "target_en_norm": "this law shall enter into force after 90 days from the date of its publication in the official gazette.",
+    "file_name": "نظام الجمعيات والمؤسسات الأهلية.docx"
+  },
+  {
+    "id": 37700,
+    "source_ar": "نظام الحراسة الأمنية المدنية الخاصة",
+    "target_en": "Law of Private Security Services",
+    "source_ar_norm": "نظام الحراسة الامنية المدنية الخاصة",
+    "target_en_norm": "law of private security services",
+    "file_name": "نظام الحراسة الأمنية المدنية الخاصة.docx"
+  }
+]

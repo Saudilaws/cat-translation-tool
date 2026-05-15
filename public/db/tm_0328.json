@@ -1,0 +1,802 @@
+[
+  {
+    "id": 32701,
+    "source_ar": "القطاع: قطاع البريد.",
+    "target_en": "Sector: Postal services sector.",
+    "source_ar_norm": "القطاع: قطاع البريد.",
+    "target_en_norm": "sector: postal services sector.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32702,
+    "source_ar": "المحافظ: محافظ الهيئة.",
+    "target_en": "Governor: CITC governor.",
+    "source_ar_norm": "المحافظ: محافظ الهيئة.",
+    "target_en_norm": "governor: citc governor.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32703,
+    "source_ar": "الخدمات البريدية: جميع الخدمات والأنشطة المتعلقة بالبريد، وتشمل ما يأتي:",
+    "target_en": "Postal Services: All postal services and activities, including the following:",
+    "source_ar_norm": "الخدمات البريدية: جميع الخدمات والانشطة المتعلقة بالبريد، وتشمل ما ياتي:",
+    "target_en_norm": "postal services: all postal services and activities, including the following:",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32704,
+    "source_ar": "تسلّم المواد البريدية، ونقلها، وتوزيعها، وتسليمها، بما فيها البريد السريع.",
+    "target_en": "Receipt, transportation, distribution, and delivery of mail matter, including express mail.",
+    "source_ar_norm": "تسلم المواد البريدية، ونقلها، وتوزيعها، وتسليمها، بما فيها البريد السريع.",
+    "target_en_norm": "receipt, transportation, distribution, and delivery of mail matter, including express mail.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32705,
+    "source_ar": "الخدمات المالية البريدية.",
+    "target_en": "Postal financial services.",
+    "source_ar_norm": "الخدمات المالية البريدية.",
+    "target_en_norm": "postal financial services.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32706,
+    "source_ar": "خدمة الصناديق البريدية.",
+    "target_en": "Mailbox services.",
+    "source_ar_norm": "خدمة الصناديق البريدية.",
+    "target_en_norm": "mailbox services.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32707,
+    "source_ar": "خدمة البريد الدعائي.",
+    "target_en": "Advertising mail services.",
+    "source_ar_norm": "خدمة البريد الدعائي.",
+    "target_en_norm": "advertising mail services.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32708,
+    "source_ar": "خدمة تقديم بطاقات، أو كروت، أو قسائم مسبقة الدفع.",
+    "target_en": "Prepaid cards, coupons, or vouchers services.",
+    "source_ar_norm": "خدمة تقديم بطاقات، او كروت، او قسائم مسبقة الدفع.",
+    "target_en_norm": "prepaid cards, coupons, or vouchers services.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32709,
+    "source_ar": "محطات الطرود.",
+    "target_en": "Parcel lockers.",
+    "source_ar_norm": "محطات الطرود.",
+    "target_en_norm": "parcel lockers.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32710,
+    "source_ar": "خدمة البريد الرسمي.",
+    "target_en": "Official mail service.",
+    "source_ar_norm": "خدمة البريد الرسمي.",
+    "target_en_norm": "official mail service.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32711,
+    "source_ar": "أي خدمة أو نشاط ترى الهيئة دخولها في نطاق الخدمات البريدية، وذلك بالاتفاق مع الهيئة العامة للنقل فيما يتصل باختصاصاتها المقررة نظاماً، وبما لا يخالف أحكام النظام.",
+    "target_en": "Any other service or activity that the CITC deems appropriate to be included under postal services, in agreement with the Transport General Authority in matters falling under its jurisdiction and without prejudice to the provisions of this Law.",
+    "source_ar_norm": "اي خدمة او نشاط تري الهيئة دخولها في نطاق الخدمات البريدية، وذلك بالاتفاق مع الهيئة العامة للنقل فيما يتصل باختصاصاتها المقررة نظاما، وبما لا يخالف احكام النظام.",
+    "target_en_norm": "any other service or activity that the citc deems appropriate to be included under postal services, in agreement with the transport general authority in matters falling under its jurisdiction and without prejudice to the provisions of this law.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32712,
+    "source_ar": "الترخيص: وثيقة تصدرها الهيئة لشخص؛ لتقديم الخدمات البريدية وفقاً للنظام واللائحة.",
+    "target_en": "License: A document issued by the CITC for the provision of postal services in accordance with this Law and its Regulations.",
+    "source_ar_norm": "الترخيص: وثيقة تصدرها الهيئة لشخص؛ لتقديم الخدمات البريدية وفقا للنظام واللائحة.",
+    "target_en_norm": "license: a document issued by the citc for the provision of postal services in accordance with this law and its regulations.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32713,
+    "source_ar": "مقدم الخدمة: من يقدم الخدمات البريدية بناءً على ترخيص، أو تسجيل، أو إعفاء.",
+    "target_en": "Service Provider: A person providing postal services under a license, registration, or exemption.",
+    "source_ar_norm": "مقدم الخدمة: من يقدم الخدمات البريدية بناء علي ترخيص، او تسجيل، او اعفاء.",
+    "target_en_norm": "service provider: a person providing postal services under a license, registration, or exemption.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32714,
+    "source_ar": "التسجيل: تقييد معلومات مقدم الخدمة، ونوع الخدمة التي يقدمها لدى الهيئة.",
+    "target_en": "Registration: Registering with the CITC the data of the service provider and the type of services he provides.",
+    "source_ar_norm": "التسجيل: تقييد معلومات مقدم الخدمة، ونوع الخدمة التي يقدمها لدي الهيئة.",
+    "target_en_norm": "registration: registering with the citc the data of the service provider and the type of services he provides.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32715,
+    "source_ar": "الإعفاء: وثيقة تصدرها الهيئة لمقدم الخدمة؛ لتقديم بعض الخدمات البريدية دون الحصول على ترخيص، أو بالإعفاء من شرط أو أكثر من شروط الترخيص.",
+    "target_en": "Exemption: A document issued by the CITC to a service provider to provide specific postal services without a license, or to exempt such provider from one or more license terms.",
+    "source_ar_norm": "الاعفاء: وثيقة تصدرها الهيئة لمقدم الخدمة؛ لتقديم بعض الخدمات البريدية دون الحصول علي ترخيص، او بالاعفاء من شرط او اكثر من شروط الترخيص.",
+    "target_en_norm": "exemption: a document issued by the citc to a service provider to provide specific postal services without a license, or to exempt such provider from one or more license terms.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32716,
+    "source_ar": "المستفيد: من يستفيد من أي من الخدمات البريدية.",
+    "target_en": "User: A person who uses any postal services.",
+    "source_ar_norm": "المستفيد: من يستفيد من اي من الخدمات البريدية.",
+    "target_en_norm": "user: a person who uses any postal services.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32717,
+    "source_ar": "الخدمة الشاملة: توفير الحد الأدنى من الخدمات البريدية بنوعية وأجر مناسبين لجميع المستفيدين.",
+    "target_en": "Universal Service: The provision of a basic level of postal services of an appropriate quality and affordable fee for all users.",
+    "source_ar_norm": "الخدمة الشاملة: توفير الحد الادني من الخدمات البريدية بنوعية واجر مناسبين لجميع المستفيدين.",
+    "target_en_norm": "universal service: the provision of a basic level of postal services of an appropriate quality and affordable fee for all users.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32718,
+    "source_ar": "حق الاستخدام الشامل: إتاحة الفرصة لجميع المستفيدين في المملكة للاستفادة من الخدمة الشاملة.",
+    "target_en": "Universal Access: Enabling all users in the Kingdom to have access to universal service.",
+    "source_ar_norm": "حق الاستخدام الشامل: اتاحة الفرصة لجميع المستفيدين في المملكة للاستفادة من الخدمة الشاملة.",
+    "target_en_norm": "universal access: enabling all users in the kingdom to have access to universal service.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32719,
+    "source_ar": "المشغل الوطني: مقدم الخدمة المنوط به تقديم الخدمة الشاملة.",
+    "target_en": "National Operator: A provider of universal service.",
+    "source_ar_norm": "المشغل الوطني: مقدم الخدمة المنوط به تقديم الخدمة الشاملة.",
+    "target_en_norm": "national operator: a provider of universal service.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32720,
+    "source_ar": "الرسائل: أي شكل من أشكال المعلومات المكتوبة التي لها صفة التراسل، وترسل عن طريق الخدمات البريدية.",
+    "target_en": "Letters: Any form of written information used in correspondence and sent via postal services.",
+    "source_ar_norm": "الرسائل: اي شكل من اشكال المعلومات المكتوبة التي لها صفة التراسل، وترسل عن طريق الخدمات البريدية.",
+    "target_en_norm": "letters: any form of written information used in correspondence and sent via postal services.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32721,
+    "source_ar": "البطاقات البريدية: قطع من الورق المقوى، مخصص الجزء الأيمن أو الأعلى منها لكتابة عنوان المرسل إليه، وإجراءات التخليص البريدية واللصائق، والجزء الأيسر أو الأسفل منها مخصص للعبارات التي يريد أن يكتبها المرسل.",
+    "target_en": "Postcards: Cards the right or top part of which is allocated for writing the address of the recipient as well as for the postage processing and stamps, and the left or lower part is allocated for information to be written by the sender.",
+    "source_ar_norm": "البطاقات البريدية: قطع من الورق المقوي، مخصص الجزء الايمن او الاعلي منها لكتابة عنوان المرسل اليه، واجراءات التخليص البريدية واللصائق، والجزء الايسر او الاسفل منها مخصص للعبارات التي يريد ان يكتبها المرسل.",
+    "target_en_norm": "postcards: cards the right or top part of which is allocated for writing the address of the recipient as well as for the postage processing and stamps, and the left or lower part is allocated for information to be written by the sender.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32722,
+    "source_ar": "المطبوعات: الصحف، والمجلات، والكتب، والنشرات، والإعلانات التجارية، والصور الفوتوغرافية، وأوراق أو بطاقات التهنئة أو التعزية وما في حكمها.",
+    "target_en": "Printed Matter: Newspapers, magazines, books, bulletins, commercial advertisements, photographs, congratulation or condolence papers or cards, and the like.",
+    "source_ar_norm": "المطبوعات: الصحف، والمجلات، والكتب، والنشرات، والاعلانات التجارية، والصور الفوتوغرافية، واوراق او بطاقات التهنئة او التعزية وما في حكمها.",
+    "target_en_norm": "printed matter: newspapers, magazines, books, bulletins, commercial advertisements, photographs, congratulation or condolence papers or cards, and the like.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32723,
+    "source_ar": "مطبوعات أو مكتوبات المكفوفين: أي أوراق مطبوعة، أو مكتوبة بالأحرف البارزة، أو تسجيلات صوتية، أو أوراق حساسة مخصصة لاستعمال المكفوفين، وترسل مكشوفة.",
+    "target_en": "Literature for the Blind: Papers printed or written in raised letters or Braille as well as audio recordings that are mailed unsealed.",
+    "source_ar_norm": "مطبوعات او مكتوبات المكفوفين: اي اوراق مطبوعة، او مكتوبة بالاحرف البارزة، او تسجيلات صوتية، او اوراق حساسة مخصصة لاستعمال المكفوفين، وترسل مكشوفة.",
+    "target_en_norm": "literature for the blind: papers printed or written in raised letters or braille as well as audio recordings that are mailed unsealed.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32724,
+    "source_ar": "الرزم البريدية: ملفات صغيرة قد تشتمل على أشياء أو أوراق أو مستندات لها صفة التراسل الشخصي، وتغلف بطريقة تمكن من الاطلاع على محتوياتها.",
+    "target_en": "Postal Packet: A small folder that may include items, papers, or documents used in personal correspondence and packaged in a way that its contents can be viewed.",
+    "source_ar_norm": "الرزم البريدية: ملفات صغيرة قد تشتمل علي اشياء او اوراق او مستندات لها صفة التراسل الشخصي، وتغلف بطريقة تمكن من الاطلاع علي محتوياتها.",
+    "target_en_norm": "postal packet: a small folder that may include items, papers, or documents used in personal correspondence and packaged in a way that its contents can be viewed.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32725,
+    "source_ar": "البعائث البريدية: تشمل الرسائل، والبطاقات البريدية، والمطبوعات، ومطبوعات ومكتوبات المكفوفين، والرزم البريدية المرسلة عن طريق البريد.",
+    "target_en": "Postal Parcel: A letter, postcard, postal packet, printed matter, and literature for the blind sent by post.",
+    "source_ar_norm": "البعائث البريدية: تشمل الرسائل، والبطاقات البريدية، والمطبوعات، ومطبوعات ومكتوبات المكفوفين، والرزم البريدية المرسلة عن طريق البريد.",
+    "target_en_norm": "postal parcel: a letter, postcard, postal packet, printed matter, and literature for the blind sent by post.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32726,
+    "source_ar": "الطرود: كل رزمة بريدية، أو علبة، أو كيس، أو صندوق، أو مادة مغلفة أو غيرها؛ تحتوي على سلع أو أشياء ليس لها صفة الرسائل، وتكون وفقاً للشروط والأوصاف التي تضعها الهيئة بالاتفاق مع الهيئة العامة للنقل.",
+    "target_en": "Package: Any postal packet, pack, bag, box, sealed item, or the like, that contains commodities or objects not considered letters and that meets the conditions and specifications set by the CITC in agreement with the Transport General Authority.",
+    "source_ar_norm": "الطرود: كل رزمة بريدية، او علبة، او كيس، او صندوق، او مادة مغلفة او غيرها؛ تحتوي علي سلع او اشياء ليس لها صفة الرسائل، وتكون وفقا للشروط والاوصاف التي تضعها الهيئة بالاتفاق مع الهيئة العامة للنقل.",
+    "target_en_norm": "package: any postal packet, pack, bag, box, sealed item, or the like, that contains commodities or objects not considered letters and that meets the conditions and specifications set by the citc in agreement with the transport general authority.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32727,
+    "source_ar": "المواد البريدية: الطرود، والبعائث البريدية، وما في حكمهما.",
+    "target_en": "Mail Matter: Packages, postal parcels, and the like.",
+    "source_ar_norm": "المواد البريدية: الطرود، والبعائث البريدية، وما في حكمهما.",
+    "target_en_norm": "mail matter: packages, postal parcels, and the like.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32728,
+    "source_ar": "الحوالات البريدية: تحويل النقود عن طريق البريد بقيمة محددة إلى شخص معين.",
+    "target_en": "Postal Remittance: The transfer of a specified amount of money to a specific person by mail.",
+    "source_ar_norm": "الحوالات البريدية: تحويل النقود عن طريق البريد بقيمة محددة الي شخص معين.",
+    "target_en_norm": "postal remittance: the transfer of a specified amount of money to a specific person by mail.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32729,
+    "source_ar": "الخدمات المالية البريدية: أي حوالة بريدية، أو إذن بريدي، أو شيك بريدي أو غيرها من الخدمات المالية.",
+    "target_en": "Postal Financial Service: A postal remittance, order, check, or any other financial service.",
+    "source_ar_norm": "الخدمات المالية البريدية: اي حوالة بريدية، او اذن بريدي، او شيك بريدي او غيرها من الخدمات المالية.",
+    "target_en_norm": "postal financial service: a postal remittance, order, check, or any other financial service.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32730,
+    "source_ar": "البريد الدعائي: تقديم خدمة الدعاية والإعلان عن طريق البريد.",
+    "target_en": "Advertising Mail: The provision of promotional and advertising services via mail.",
+    "source_ar_norm": "البريد الدعائي: تقديم خدمة الدعاية والاعلان عن طريق البريد.",
+    "target_en_norm": "advertising mail: the provision of promotional and advertising services via mail.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32731,
+    "source_ar": "البريد الرسمي: نقل المواد البريدية المرسلة من أي جهة حكومية.",
+    "target_en": "Official Mail: The transportation of mail matter sent by a government agency.",
+    "source_ar_norm": "البريد الرسمي: نقل المواد البريدية المرسلة من اي جهة حكومية.",
+    "target_en_norm": "official mail: the transportation of mail matter sent by a government agency.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32732,
+    "source_ar": "صندوق إيداع البعائث البريدية: صندوق مخصص لإيداع البعائث البريدية، وما في حكمها، المطلوب إرسالها إلى المستفيدين سواء داخل مكاتب البريد أو خارجها.",
+    "target_en": "Mail Deposit Box: A box located inside or outside the post office for depositing outgoing postal parcels and the like.",
+    "source_ar_norm": "صندوق ايداع البعائث البريدية: صندوق مخصص لايداع البعائث البريدية، وما في حكمها، المطلوب ارسالها الي المستفيدين سواء داخل مكاتب البريد او خارجها.",
+    "target_en_norm": "mail deposit box: a box located inside or outside the post office for depositing outgoing postal parcels and the like.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32733,
+    "source_ar": "مكتب البريد: المكان الذي يعده مقدم الخدمة؛ لغرض تقديم الخدمات البريدية.",
+    "target_en": "Post Office: A place designated by a service provider for providing postal services.",
+    "source_ar_norm": "مكتب البريد: المكان الذي يعده مقدم الخدمة؛ لغرض تقديم الخدمات البريدية.",
+    "target_en_norm": "post office: a place designated by a service provider for providing postal services.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32734,
+    "source_ar": "التخليص: استيفاء الأجور المستحقة أو المقررة على المواد البريدية.",
+    "target_en": "Postage: The collection of due or prescribed postal fees.",
+    "source_ar_norm": "التخليص: استيفاء الاجور المستحقة او المقررة علي المواد البريدية.",
+    "target_en_norm": "postage: the collection of due or prescribed postal fees.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32735,
+    "source_ar": "آلات التخليص البريدي: آلات تستخدم لاستيفاء الأجور المستحقة أو المقررة على المواد البريدية.",
+    "target_en": "Postage Meters: Machines used for the collection of due or prescribed postal fees.",
+    "source_ar_norm": "الات التخليص البريدي: الات تستخدم لاستيفاء الاجور المستحقة او المقررة علي المواد البريدية.",
+    "target_en_norm": "postage meters: machines used for the collection of due or prescribed postal fees.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32736,
+    "source_ar": "صندوق البريد الخاص: صندوق مخصص لإيداع البعائث البريدية، وما في حكمها، الواردة إلى المستفيد سواء داخل مكتب البريد أو خارجه.",
+    "target_en": "Private Mailbox: A box designated for a user for depositing incoming postal parcels and the like, located inside or outside the post office.",
+    "source_ar_norm": "صندوق البريد الخاص: صندوق مخصص لايداع البعائث البريدية، وما في حكمها، الواردة الي المستفيد سواء داخل مكتب البريد او خارجه.",
+    "target_en_norm": "private mailbox: a box designated for a user for depositing incoming postal parcels and the like, located inside or outside the post office.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32737,
+    "source_ar": "الأجر: ما تعتمده الهيئة لتقديم الخدمات البريدية من قبل مقدمي الخدمة.",
+    "target_en": "Fee: An amount approved by the CITC for providing postal services by service providers.",
+    "source_ar_norm": "الاجر: ما تعتمده الهيئة لتقديم الخدمات البريدية من قبل مقدمي الخدمة.",
+    "target_en_norm": "fee: an amount approved by the citc for providing postal services by service providers.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32738,
+    "source_ar": "المقابل المالي: ما تتقاضاه الهيئة مقابل ما تقدمه من خدمات أو إصدار للتراخيص أو تجديدها.",
+    "target_en": "Charge: An amount charged by the CITC for providing its services or issuing or renewing licenses.",
+    "source_ar_norm": "المقابل المالي: ما تتقاضاه الهيئة مقابل ما تقدمه من خدمات او اصدار للتراخيص او تجديدها.",
+    "target_en_norm": "charge: an amount charged by the citc for providing its services or issuing or renewing licenses.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32739,
+    "source_ar": "المرسل: من يرسل مادة بريدية عن طريق مقدم الخدمة.",
+    "target_en": "Sender: A sender of mail matter through a service provider.",
+    "source_ar_norm": "المرسل: من يرسل مادة بريدية عن طريق مقدم الخدمة.",
+    "target_en_norm": "sender: a sender of mail matter through a service provider.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32740,
+    "source_ar": "المرسل إليه: من ترسل إليه المادة البريدية.",
+    "target_en": "Recipient: A recipient of mail matter.",
+    "source_ar_norm": "المرسل اليه: من ترسل اليه المادة البريدية.",
+    "target_en_norm": "recipient: a recipient of mail matter.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32741,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32742,
+    "source_ar": "يهدف النظام إلى تحقيق الآتي:",
+    "target_en": "This Law aims to:",
+    "source_ar_norm": "يهدف النظام الي تحقيق الاتي:",
+    "target_en_norm": "this law aims to:",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32743,
+    "source_ar": "تطوير القطاع وتنظيمه -وفق أحدث الأساليب والتقنيات الحديثة- بشكل يضمن تقديم الخدمات البريدية بأسعار مناسبة وجودة عالية، وتلبية احتياجات المجتمع منها بشكل متطور، ومواكبة المعايير العالمية في هذا المجال.",
+    "target_en": "develop and regulate the Sector in accordance with the latest methods and technologies to ensure the provision of high quality postal services at reasonable rates, meet the needs of the society, and keep pace with international standards in this field;",
+    "source_ar_norm": "تطوير القطاع وتنظيمه -وفق احدث الاساليب والتقنيات الحديثة- بشكل يضمن تقديم الخدمات البريدية باسعار مناسبة وجودة عالية، وتلبية احتياجات المجتمع منها بشكل متطور، ومواكبة المعايير العالمية في هذا المجال.",
+    "target_en_norm": "develop and regulate the sector in accordance with the latest methods and technologies to ensure the provision of high quality postal services at reasonable rates, meet the needs of the society, and keep pace with international standards in this field;",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32744,
+    "source_ar": "إيجاد المناخ المناسب للمنافسة العادلة والفاعلة.",
+    "target_en": "create an environment for fair and effective competition;",
+    "source_ar_norm": "ايجاد المناخ المناسب للمنافسة العادلة والفاعلة.",
+    "target_en_norm": "create an environment for fair and effective competition;",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32745,
+    "source_ar": "زيادة فاعلية السياسات العامة ذات الصلة بالقطاع وتضافر الجهود بين الجهات العامة والخاصة بما يحقق الحوكمة الفاعلة والعادلة في القطاع.",
+    "target_en": "promote the effectiveness of public policies related to the Sector as well as the cooperation among public and private agencies in a manner that achieves fair and effective governance in the Sector;",
+    "source_ar_norm": "زيادة فاعلية السياسات العامة ذات الصلة بالقطاع وتضافر الجهود بين الجهات العامة والخاصة بما يحقق الحوكمة الفاعلة والعادلة في القطاع.",
+    "target_en_norm": "promote the effectiveness of public policies related to the sector as well as the cooperation among public and private agencies in a manner that achieves fair and effective governance in the sector;",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32746,
+    "source_ar": "زيادة وسرعة انتشار الخدمات البريدية في التعاملات الحكومية، والخدمات العامة، والعلاقات مع الأفراد، والأنشطة التجارية.",
+    "target_en": "promote the use of postal services by government agencies and individuals as well as for public services and commercial activities;",
+    "source_ar_norm": "زيادة وسرعة انتشار الخدمات البريدية في التعاملات الحكومية، والخدمات العامة، والعلاقات مع الافراد، والانشطة التجارية.",
+    "target_en_norm": "promote the use of postal services by government agencies and individuals as well as for public services and commercial activities;",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32747,
+    "source_ar": "المساهمة في نمو التجارة الإلكترونية.",
+    "target_en": "contribute to the growth of e-commerce;",
+    "source_ar_norm": "المساهمة في نمو التجارة الالكترونية.",
+    "target_en_norm": "contribute to the growth of e-commerce;",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32748,
+    "source_ar": "تحفيز سوق البريد، وتوفير بيئة جاذبة للاستثمار في القطاع، واستقطاب الشركات الدولية الرائدة في المجالات ذات الأولوية للقطاع، ورفع مستوى عمل منظومة المؤسسات والشركات الوطنية.",
+    "target_en": "enhance the market of postal services, create an environment conducive to investment in the Sector, attract leading international companies in prioritized areas of the Sector, and improve the performance of national institutions and companies;",
+    "source_ar_norm": "تحفيز سوق البريد، وتوفير بيئة جاذبة للاستثمار في القطاع، واستقطاب الشركات الدولية الرائدة في المجالات ذات الاولوية للقطاع، ورفع مستوي عمل منظومة المؤسسات والشركات الوطنية.",
+    "target_en_norm": "enhance the market of postal services, create an environment conducive to investment in the sector, attract leading international companies in prioritized areas of the sector, and improve the performance of national institutions and companies;",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32749,
+    "source_ar": "حماية المصلحة العامة، ومصالح المستفيدين، والمحافظة على سرية المواد البريدية، وأمنها، وسلامتها.",
+    "target_en": "protect public interest and the interests of users, and maintain the confidentiality, security, and safety of mail matter; and",
+    "source_ar_norm": "حماية المصلحة العامة، ومصالح المستفيدين، والمحافظة علي سرية المواد البريدية، وامنها، وسلامتها.",
+    "target_en_norm": "protect public interest and the interests of users, and maintain the confidentiality, security, and safety of mail matter; and",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32750,
+    "source_ar": "تنمية المهارات والكفايات المحلية، وتطوير مستواها، وزيادة مشاركتها في القطاع، وتشجيع الإبداع والابتكار، وريادة الأعمال، والبحث والتطوير للخدمات البريدية، وإنشاء أسواق جديدة للبريد.",
+    "target_en": "build and develop local skills and capacities and enhance their participation in the Sector; encourage creativity, innovation, entrepreneurship, research and development in postal services; and establish new markets therefor.",
+    "source_ar_norm": "تنمية المهارات والكفايات المحلية، وتطوير مستواها، وزيادة مشاركتها في القطاع، وتشجيع الابداع والابتكار، وريادة الاعمال، والبحث والتطوير للخدمات البريدية، وانشاء اسواق جديدة للبريد.",
+    "target_en_norm": "build and develop local skills and capacities and enhance their participation in the sector; encourage creativity, innovation, entrepreneurship, research and development in postal services; and establish new markets therefor.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32751,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32752,
+    "source_ar": "دون إخلال باختصاصات الجهات الحكومية الأخرى؛ لتحقيق أهداف النظام تتولى الهيئة ما يلي:",
+    "target_en": "Without prejudice to the jurisdiction of other government agencies, the CITC, in order to achieve the objectives of this Law, shall:",
+    "source_ar_norm": "دون اخلال باختصاصات الجهات الحكومية الاخري؛ لتحقيق اهداف النظام تتولي الهيئة ما يلي:",
+    "target_en_norm": "without prejudice to the jurisdiction of other government agencies, the citc, in order to achieve the objectives of this law, shall:",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32753,
+    "source_ar": "وضع ضوابط ومعايير أجور الخدمات البريدية وفقاً لوضع سوق البريد، ودرجة المنافسة.",
+    "target_en": "set rules and criteria for postal services fees in accordance with the condition of the postal market and level of competition;",
+    "source_ar_norm": "وضع ضوابط ومعايير اجور الخدمات البريدية وفقا لوضع سوق البريد، ودرجة المنافسة.",
+    "target_en_norm": "set rules and criteria for postal services fees in accordance with the condition of the postal market and level of competition;",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32754,
+    "source_ar": "تحديد المقابل المالي لفئات التراخيص وتجديدها، والمقابل المالي السنوي لها؛ وفقاً لما يرد في اللائحة، ودون إخلال بحكم المادة (العاشرة) من النظام.",
+    "target_en": "determine the charges for the issuance and renewal of all types of licenses as well as their annual charges, as stipulated in the Regulations and without prejudice to the provision of Article 10 of this Law;",
+    "source_ar_norm": "تحديد المقابل المالي لفئات التراخيص وتجديدها، والمقابل المالي السنوي لها؛ وفقا لما يرد في اللائحة، ودون اخلال بحكم المادة (العاشرة) من النظام.",
+    "target_en_norm": "determine the charges for the issuance and renewal of all types of licenses as well as their annual charges, as stipulated in the regulations and without prejudice to the provision of article 10 of this law;",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32755,
+    "source_ar": "اقتراح القواعد، والأسس، والشروط المتعلقة بالخدمة الشاملة، وحق الاستخدام الشامل، ومتابعة تنفيذها بعد الموافقة عليها.",
+    "target_en": "propose rules, principles, and conditions for the universal service and universal access, and monitor their implementation upon approval; and",
+    "source_ar_norm": "اقتراح القواعد، والاسس، والشروط المتعلقة بالخدمة الشاملة، وحق الاستخدام الشامل، ومتابعة تنفيذها بعد الموافقة عليها.",
+    "target_en_norm": "propose rules, principles, and conditions for the universal service and universal access, and monitor their implementation upon approval; and",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32756,
+    "source_ar": "إصدار القرارات التنظيمية والقواعد والتعليمات المنظمة لتقديم الخدمات البريدية في القطاع، مع مراعاة الأحكام الواردة في اللائحة.",
+    "target_en": "issue the regulatory decisions, rules, and instructions for providing postal services in the Sector, subject to the Regulations.",
+    "source_ar_norm": "اصدار القرارات التنظيمية والقواعد والتعليمات المنظمة لتقديم الخدمات البريدية في القطاع، مع مراعاة الاحكام الواردة في اللائحة.",
+    "target_en_norm": "issue the regulatory decisions, rules, and instructions for providing postal services in the sector, subject to the regulations.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32757,
+    "source_ar": "الفصل الثاني التراخيص",
+    "target_en": "Chapter 2: Licensing",
+    "source_ar_norm": "الفصل الثاني التراخيص",
+    "target_en_norm": "chapter 2: licensing",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32758,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32759,
+    "source_ar": "يجوز لأي شخص تقديم أي من الخدمات البريدية بناءً على ترخيص، أو تسجيل، أو إعفاء من الهيئة؛ وفقاً للإجراءات والمتطلبات التي تحددها اللائحة. وبالنسبة للطرود فيشترط قبل ذلك الحصول على الترخيص اللازم من الهيئة العامة للنقل.",
+    "target_en": "A person may, pursuant to a license, registration, or exemption issued by the CITC, provide any postal service in accordance with the procedures and requirements specified in the Regulations. As for packages-related services, a license must be obtained from the Transport General Authority.",
+    "source_ar_norm": "يجوز لاي شخص تقديم اي من الخدمات البريدية بناء علي ترخيص، او تسجيل، او اعفاء من الهيئة؛ وفقا للاجراءات والمتطلبات التي تحددها اللائحة. وبالنسبة للطرود فيشترط قبل ذلك الحصول علي الترخيص اللازم من الهيئة العامة للنقل.",
+    "target_en_norm": "a person may, pursuant to a license, registration, or exemption issued by the citc, provide any postal service in accordance with the procedures and requirements specified in the regulations. as for packages-related services, a license must be obtained from the transport general authority.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32760,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32761,
+    "source_ar": "تمنح الهيئة رخصة المشغل الوطني، وتحدد نطاق خدمات الترخيص وشروطه، ويعتمد الترخيص من الوزير، وله أن يفوض الهيئة بذلك.",
+    "target_en": "The CITC shall grant national operator licenses and determine the license scope and conditions; the Minister shall approve said licenses or assign such task to the CITC.",
+    "source_ar_norm": "تمنح الهيئة رخصة المشغل الوطني، وتحدد نطاق خدمات الترخيص وشروطه، ويعتمد الترخيص من الوزير، وله ان يفوض الهيئة بذلك.",
+    "target_en_norm": "the citc shall grant national operator licenses and determine the license scope and conditions; the minister shall approve said licenses or assign such task to the citc.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32762,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32763,
+    "source_ar": "دون إخلال بأي نظام آخر؛ يجوز لمقدم الخدمة تقديم الخدمات المالية البريدية، وذلك بعد الحصول على ترخيص من البنك المركزي السعودي.",
+    "target_en": "Without prejudice to any other law, a service provider may provide postal financial services upon obtaining a license from the Saudi Central Bank.",
+    "source_ar_norm": "دون اخلال باي نظام اخر؛ يجوز لمقدم الخدمة تقديم الخدمات المالية البريدية، وذلك بعد الحصول علي ترخيص من البنك المركزي السعودي.",
+    "target_en_norm": "without prejudice to any other law, a service provider may provide postal financial services upon obtaining a license from the saudi central bank.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32764,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32765,
+    "source_ar": "تحدد اللائحة الآتي:",
+    "target_en": "The Regulations shall specify the following:",
+    "source_ar_norm": "تحدد اللائحة الاتي:",
+    "target_en_norm": "the regulations shall specify the following:",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32766,
+    "source_ar": "الخدمات البريدية التي تتطلب الترخيص، أو التسجيل، أو الإعفاء.",
+    "target_en": "Postal services that require licensing, registration, or exemption.",
+    "source_ar_norm": "الخدمات البريدية التي تتطلب الترخيص، او التسجيل، او الاعفاء.",
+    "target_en_norm": "postal services that require licensing, registration, or exemption.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32767,
+    "source_ar": "التراخيص اللازمة لتوفير أنواع الخدمات البريدية ونطاقها، وتحديد الخطة الزمنية لإطلاقها.",
+    "target_en": "Licenses for the provision of all types of postal services and their scope, as well as the time frame for providing such services.",
+    "source_ar_norm": "التراخيص اللازمة لتوفير انواع الخدمات البريدية ونطاقها، وتحديد الخطة الزمنية لاطلاقها.",
+    "target_en_norm": "licenses for the provision of all types of postal services and their scope, as well as the time frame for providing such services.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32768,
+    "source_ar": "الشروط التي تطبق على أنواع التراخيص والسجلات.",
+    "target_en": "Conditions for all types of licenses and registrations.",
+    "source_ar_norm": "الشروط التي تطبق علي انواع التراخيص والسجلات.",
+    "target_en_norm": "conditions for all types of licenses and registrations.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32769,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32770,
+    "source_ar": "لا يجوز لمقدم الخدمة نقل ترخيصه ولا التنازل عنه لشخص آخر ولا نقل ملكية المنشأة المرخص لها، سواء عن طريق البيع أو الرهن أو أي طريق آخر، إلا بعد الحصول على موافقة مكتوبة من الهيئة؛ وفقاً للضوابط والإجراءات التي تحددها اللائحة.",
+    "target_en": "A service provider may not transfer his license, assign it to another person, or transfer the ownership of a licensed facility, whether by sale, pledge, or any other means without obtaining the CITC’s written approval, subject to rules and procedures specified by the Regulations.",
+    "source_ar_norm": "لا يجوز لمقدم الخدمة نقل ترخيصه ولا التنازل عنه لشخص اخر ولا نقل ملكية المنشاة المرخص لها، سواء عن طريق البيع او الرهن او اي طريق اخر، الا بعد الحصول علي موافقة مكتوبة من الهيئة؛ وفقا للضوابط والاجراءات التي تحددها اللائحة.",
+    "target_en_norm": "a service provider may not transfer his license, assign it to another person, or transfer the ownership of a licensed facility, whether by sale, pledge, or any other means without obtaining the citc’s written approval, subject to rules and procedures specified by the regulations.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32771,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32772,
+    "source_ar": "للهيئة أن تطلب أي معلومة من مقدم الخدمة، ولها أن تطلع على ما لديه من مستندات، أو فواتير، أو إيصالات، أو وثائق متعلقة بالخدمات البريدية، ولا يحق له رفض، أو تأجيل، أو إعاقة تنفيذ الطلب بأي شكل من الأشكال.",
+    "target_en": "The CITC may request any information from a service provider and may have access to any document, invoice, or receipt related to postal services. Said service provider may not refuse, postpone, or hinder the implementation of said request in any manner.",
+    "source_ar_norm": "للهيئة ان تطلب اي معلومة من مقدم الخدمة، ولها ان تطلع علي ما لديه من مستندات، او فواتير، او ايصالات، او وثائق متعلقة بالخدمات البريدية، ولا يحق له رفض، او تاجيل، او اعاقة تنفيذ الطلب باي شكل من الاشكال.",
+    "target_en_norm": "the citc may request any information from a service provider and may have access to any document, invoice, or receipt related to postal services. said service provider may not refuse, postpone, or hinder the implementation of said request in any manner.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32773,
+    "source_ar": "ولها كذلك أن تطلب أي معلومة من كل من يتعاقد مع مقدم الخدمة بوصفه موزعاً له، أو مقدماً لخدماته من الباطن، وأي شخص من ذوي العلاقة ممن يتيح لهم النظام تقديم تلك الخدمات.",
+    "target_en": "The CITC may also request any information from any distributor or sub-service provider contracted by the service provider, as well as from any person permitted by the Law to provide such services.",
+    "source_ar_norm": "ولها كذلك ان تطلب اي معلومة من كل من يتعاقد مع مقدم الخدمة بوصفه موزعا له، او مقدما لخدماته من الباطن، واي شخص من ذوي العلاقة ممن يتيح لهم النظام تقديم تلك الخدمات.",
+    "target_en_norm": "the citc may also request any information from any distributor or sub-service provider contracted by the service provider, as well as from any person permitted by the law to provide such services.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32774,
+    "source_ar": "وتحدد اللائحة الإجراءات والضوابط اللازمة لذلك.",
+    "target_en": "The Regulations shall set the necessary rules and procedures.",
+    "source_ar_norm": "وتحدد اللائحة الاجراءات والضوابط اللازمة لذلك.",
+    "target_en_norm": "the regulations shall set the necessary rules and procedures.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32775,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32776,
+    "source_ar": "يحدد المقابل المالي لفئات التراخيص، وتجديدها، والمقابل المالي السنوي لها بالاتفاق مع وزارة المالية ومركز تنمية الإيرادات غير النفطية.",
+    "target_en": "Charges for the issuance or renewal of all types of licenses as well as their annual charges shall be determined in agreement with the Ministry of Finance and the Non-Oil Revenues Development Center.",
+    "source_ar_norm": "يحدد المقابل المالي لفئات التراخيص، وتجديدها، والمقابل المالي السنوي لها بالاتفاق مع وزارة المالية ومركز تنمية الايرادات غير النفطية.",
+    "target_en_norm": "charges for the issuance or renewal of all types of licenses as well as their annual charges shall be determined in agreement with the ministry of finance and the non-oil revenues development center.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32777,
+    "source_ar": "الفصل الثالث المنافسة",
+    "target_en": "Chapter 3: Competition",
+    "source_ar_norm": "الفصل الثالث المنافسة",
+    "target_en_norm": "chapter 3: competition",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32778,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32779,
+    "source_ar": "دون إخلال بنظام المنافسة، على مقدم الخدمة الحصول على موافقة الهيئة قبل القيام بالمشاركة في أي عملية استحواذ، أو اندماج تؤدي إلى جعل مقدم الخدمة مهيمناً داخل السوق السعودية سواء كانت العملية داخل السوق السعودية، أو خارجها.",
+    "target_en": "Without prejudice to the Competition Law, a service provider must obtain the CITC’s approval prior to any acquisition or merger, within the Saudi market or abroad, that results in a dominant position in the Saudi market.",
+    "source_ar_norm": "دون اخلال بنظام المنافسة، علي مقدم الخدمة الحصول علي موافقة الهيئة قبل القيام بالمشاركة في اي عملية استحواذ، او اندماج تؤدي الي جعل مقدم الخدمة مهيمنا داخل السوق السعودية سواء كانت العملية داخل السوق السعودية، او خارجها.",
+    "target_en_norm": "without prejudice to the competition law, a service provider must obtain the citc’s approval prior to any acquisition or merger, within the saudi market or abroad, that results in a dominant position in the saudi market.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32780,
+    "source_ar": "الفصل الرابع التزامات وحقوق مقدمي الخدمة والمستفيدين",
+    "target_en": "Chapter 4: Obligations and Rights of Service Providers and Users",
+    "source_ar_norm": "الفصل الرابع التزامات وحقوق مقدمي الخدمة والمستفيدين",
+    "target_en_norm": "chapter 4: obligations and rights of service providers and users",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32781,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32782,
+    "source_ar": "تعد المادة البريدية قبل تسليمها إلى المرسل إليه -وفقاً لأحكام النظام واللائحة- ملكاً للمرسل، ويجوز له أن يطلب استردادها، أو إجراء تصحيح، أو تعديل على عنوان المرسل إليه بمقابل مالي، وفقاً للضوابط المقرة باللائحة.",
+    "target_en": "Mail matter shall be deemed the property of the sender prior to delivery to the recipient in accordance with the provisions of this Law and its Regulations. The recipient may request a recall of mail matter, or correction or modification of the recipient’s address for a charge as prescribed in the Regulations.",
+    "source_ar_norm": "تعد المادة البريدية قبل تسليمها الي المرسل اليه -وفقا لاحكام النظام واللائحة- ملكا للمرسل، ويجوز له ان يطلب استردادها، او اجراء تصحيح، او تعديل علي عنوان المرسل اليه بمقابل مالي، وفقا للضوابط المقرة باللائحة.",
+    "target_en_norm": "mail matter shall be deemed the property of the sender prior to delivery to the recipient in accordance with the provisions of this law and its regulations. the recipient may request a recall of mail matter, or correction or modification of the recipient’s address for a charge as prescribed in the regulations.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32783,
+    "source_ar": "المادة الثالثة عشرة",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة",
+    "target_en_norm": "article 13",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32784,
+    "source_ar": "لا يجوز لمقدم الخدمة فرض أجر على (المرسل أو المرسل إليه) ولا تحصيله من أي منهما، لقاء إرسال المواد البريدية، أو تسلّمها، ما عدا الأجور التي اعتمدتها الهيئة.",
+    "target_en": "A service provider may not charge the sender or recipient any additional fees for sending or receiving mail matter other than the fees approved by the CITC.",
+    "source_ar_norm": "لا يجوز لمقدم الخدمة فرض اجر علي (المرسل او المرسل اليه) ولا تحصيله من اي منهما، لقاء ارسال المواد البريدية، او تسلمها، ما عدا الاجور التي اعتمدتها الهيئة.",
+    "target_en_norm": "a service provider may not charge the sender or recipient any additional fees for sending or receiving mail matter other than the fees approved by the citc.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32785,
+    "source_ar": "المادة الرابعة عشرة",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة",
+    "target_en_norm": "article 14",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32786,
+    "source_ar": "على مقدم الخدمة الحصول على موافقة الهيئة كتابة -وفقاً لما يقتضيه النظام واللائحة- قبل القيام بما يأتي:",
+    "target_en": "A service provider must obtain the CITC’s written approval in accordance with the provisions of this Law and its Regulations prior to undertaking any of the following:",
+    "source_ar_norm": "علي مقدم الخدمة الحصول علي موافقة الهيئة كتابة -وفقا لما يقتضيه النظام واللائحة- قبل القيام بما ياتي:",
+    "target_en_norm": "a service provider must obtain the citc’s written approval in accordance with the provisions of this law and its regulations prior to undertaking any of the following:",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32787,
+    "source_ar": "إقرار شروط، أو إجراءات تقديم الخدمات البريدية الموكول إليه تقديمها.",
+    "target_en": "Applying its conditions and procedures for providing the postal services assigned thereto.",
+    "source_ar_norm": "اقرار شروط، او اجراءات تقديم الخدمات البريدية الموكول اليه تقديمها.",
+    "target_en_norm": "applying its conditions and procedures for providing the postal services assigned thereto.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32788,
+    "source_ar": "إضافة أجور أخرى على الخدمات البريدية.",
+    "target_en": "Adding other fees to postal services.",
+    "source_ar_norm": "اضافة اجور اخري علي الخدمات البريدية.",
+    "target_en_norm": "adding other fees to postal services.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32789,
+    "source_ar": "إبرام العقود مع الغير لأداء بعض الخدمات المرخص له تقديمها.",
+    "target_en": "Concluding contracts with third parties to carry out any services he is licensed to provide.",
+    "source_ar_norm": "ابرام العقود مع الغير لاداء بعض الخدمات المرخص له تقديمها.",
+    "target_en_norm": "concluding contracts with third parties to carry out any services he is licensed to provide.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32790,
+    "source_ar": "التعامل مع أي منشأة بريدية، أو أي وكالة، أو منظمة دولية معنية بشؤون البريد؛ للقيام بأي ترتيبات تتعلق بتقديم الخدمات البريدية المرخص له بتقديمها.",
+    "target_en": "Dealing with any international postal establishment, agency, or organization to make any arrangements related to the provision of any postal services he is licensed to provide.",
+    "source_ar_norm": "التعامل مع اي منشاة بريدية، او اي وكالة، او منظمة دولية معنية بشؤون البريد؛ للقيام باي ترتيبات تتعلق بتقديم الخدمات البريدية المرخص له بتقديمها.",
+    "target_en_norm": "dealing with any international postal establishment, agency, or organization to make any arrangements related to the provision of any postal services he is licensed to provide.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32791,
+    "source_ar": "المادة الخامسة عشرة",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة",
+    "target_en_norm": "article 15",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32792,
+    "source_ar": "دون إخلال بأحكام الأنظمة النافذة في المملكة؛ يحظر إرسال، أو نقل أي مادة بريدية تمس سمعة الدولة، أو أمنها، أو تخالف النظام العام، أو تتنافى مع الأخلاق، أو الآداب العامة، أو تحتوي على مواد مصنفة وفق الأنظمة المعمول بها في المملكة على أنها ممنوعات. وتعد الهيئة قائمة بالمواد المحظورة.",
+    "target_en": "Without prejudice to the laws applicable in the Kingdom, it shall be prohibited to send or transport mail matter that harms the State’s reputation, undermines its security, violates public policy, is inconsistent with ethics or public morals, or contains substances classified as prohibited under the laws applicable in the Kingdom. The CITC shall issue a list of prohibited items.",
+    "source_ar_norm": "دون اخلال باحكام الانظمة النافذة في المملكة؛ يحظر ارسال، او نقل اي مادة بريدية تمس سمعة الدولة، او امنها، او تخالف النظام العام، او تتنافي مع الاخلاق، او الاداب العامة، او تحتوي علي مواد مصنفة وفق الانظمة المعمول بها في المملكة علي انها ممنوعات. وتعد الهيئة قائمة بالمواد المحظورة.",
+    "target_en_norm": "without prejudice to the laws applicable in the kingdom, it shall be prohibited to send or transport mail matter that harms the state’s reputation, undermines its security, violates public policy, is inconsistent with ethics or public morals, or contains substances classified as prohibited under the laws applicable in the kingdom. the citc shall issue a list of prohibited items.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32793,
+    "source_ar": "المادة السادسة عشرة",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة",
+    "target_en_norm": "article 16",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32794,
+    "source_ar": "على مقدم الخدمة التحفظ على المادة البريدية، والمبادرة بإبلاغ الجهات المختصة في الأحوال الآتية:",
+    "target_en": "A service provider shall seize mail matter and notify the competent authorities in the following cases:",
+    "source_ar_norm": "علي مقدم الخدمة التحفظ علي المادة البريدية، والمبادرة بابلاغ الجهات المختصة في الاحوال الاتية:",
+    "target_en_norm": "a service provider shall seize mail matter and notify the competent authorities in the following cases:",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32795,
+    "source_ar": "عند احتوائها أو الاشتباه في احتوائها على محتويات تمس سمعة الدولة أو أمنها، أو تخالف النظام العام، أو إذا كانت تتنافى مع الأخلاق أو الآداب العامة، أو إذا كانت تحتوي على مواد مصنفة وفق الأنظمة المعمول بها في المملكة على أنها ممنوعات.",
+    "target_en": "If it contains or is suspected to contain contents that harm the State’s reputation, undermine its security, violate public policy, are inconsistent with ethics or public morals, or contain or are suspected to contain substances classified as prohibited under the laws applicable in the Kingdom.",
+    "source_ar_norm": "عند احتوائها او الاشتباه في احتوائها علي محتويات تمس سمعة الدولة او امنها، او تخالف النظام العام، او اذا كانت تتنافي مع الاخلاق او الاداب العامة، او اذا كانت تحتوي علي مواد مصنفة وفق الانظمة المعمول بها في المملكة علي انها ممنوعات.",
+    "target_en_norm": "if it contains or is suspected to contain contents that harm the state’s reputation, undermine its security, violate public policy, are inconsistent with ethics or public morals, or contain or are suspected to contain substances classified as prohibited under the laws applicable in the kingdom.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32796,
+    "source_ar": "عند تقديم طلب رسمي من أي جهة حكومية مختصة؛ لأسباب تتعلق بالأمن، أو السلامة، أو المصلحة العامة.",
+    "target_en": "If an official request is submitted by any competent government agency for reasons related to security, safety, or public interest.",
+    "source_ar_norm": "عند تقديم طلب رسمي من اي جهة حكومية مختصة؛ لاسباب تتعلق بالامن، او السلامة، او المصلحة العامة.",
+    "target_en_norm": "if an official request is submitted by any competent government agency for reasons related to security, safety, or public interest.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32797,
+    "source_ar": "المادة السابعة عشرة",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة",
+    "target_en_norm": "article 17",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32798,
+    "source_ar": "يجب على مقدم الخدمة حفظ المادة البريدية في حال تعذر تسليمها.",
+    "target_en": "A service provider must retain undelivered mail matter.",
+    "source_ar_norm": "يجب علي مقدم الخدمة حفظ المادة البريدية في حال تعذر تسليمها.",
+    "target_en_norm": "a service provider must retain undelivered mail matter.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32799,
+    "source_ar": "وتبين اللائحة مدد الحفظ، وإجراءات التعامل معها.",
+    "target_en": "The Regulations shall specify the retention periods and handling procedures.",
+    "source_ar_norm": "وتبين اللائحة مدد الحفظ، واجراءات التعامل معها.",
+    "target_en_norm": "the regulations shall specify the retention periods and handling procedures.",
+    "file_name": "نظام البريد (جديد).docx"
+  },
+  {
+    "id": 32800,
+    "source_ar": "المادة الثامنة عشرة",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة",
+    "target_en_norm": "article 18",
+    "file_name": "نظام البريد (جديد).docx"
+  }
+]

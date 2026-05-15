@@ -1,0 +1,802 @@
+[
+  {
+    "id": 33001,
+    "source_ar": "5 - الرسوم التي تفرض بنظام خاص لتأمين نفقات استثنائية طارئة.",
+    "target_en": "Fees collected under a special law to meet urgent expenditures.",
+    "source_ar_norm": "5 - الرسوم التي تفرض بنظام خاص لتامين نفقات استثنائية طارئة.",
+    "target_en_norm": "fees collected under a special law to meet urgent expenditures.",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33002,
+    "source_ar": "6 - الإعانات والمخصصات التي تعتمدها الدولة للبلدية.",
+    "target_en": "Subsidies and funds allocated by the State to the municipality.",
+    "source_ar_norm": "6 - الاعانات والمخصصات التي تعتمدها الدولة للبلدية.",
+    "target_en_norm": "subsidies and funds allocated by the state to the municipality.",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33003,
+    "source_ar": "7 - الموارد الأخرى المأذون بها نظاما.",
+    "target_en": "Other resources stipulated by law.",
+    "source_ar_norm": "7 - الموارد الاخري الماذون بها نظاما.",
+    "target_en_norm": "other resources stipulated by law.",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33004,
+    "source_ar": "المادة السادسة والثلاثون:",
+    "target_en": "Article 36",
+    "source_ar_norm": "المادة السادسة والثلاثون:",
+    "target_en_norm": "article 36",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33005,
+    "source_ar": "يقدم مشروع الميزانية من رئيس البلدية إلى المجلس البلدي، ويناقش المشروع طبقا للإجراءات والمواعيد المنصوص عليها في اللوائح.",
+    "target_en": "The draft budget shall be submitted by the head of the municipality to the municipal council and shall be discussed according to procedures and dates provided for in the regulations.",
+    "source_ar_norm": "يقدم مشروع الميزانية من رئيس البلدية الي المجلس البلدي، ويناقش المشروع طبقا للاجراءات والمواعيد المنصوص عليها في اللوائح.",
+    "target_en_norm": "the draft budget shall be submitted by the head of the municipality to the municipal council and shall be discussed according to procedures and dates provided for in the regulations.",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33006,
+    "source_ar": "المادة السابعة والثلاثون:",
+    "target_en": "Article 37",
+    "source_ar_norm": "المادة السابعة والثلاثون:",
+    "target_en_norm": "article 37",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33007,
+    "source_ar": "إذا لم يتم اعتماد ميزانية البلدية للسنة المالية الجديدة من الجهة المختصة في حينها لأي سبب من الأسباب، تبقى الواردات والنفقات العادية جارية على أساس الميزانية السابقة، إلى أن يتم اعتماد الميزانية الجديدة .",
+    "target_en": "If the municipality budget for the new fiscal year is not approved by the competent authority for any reason, the revenues and expenses stipulated in the previous budget shall remain in effect pending approval of the new budget.",
+    "source_ar_norm": "اذا لم يتم اعتماد ميزانية البلدية للسنة المالية الجديدة من الجهة المختصة في حينها لاي سبب من الاسباب، تبقي الواردات والنفقات العادية جارية علي اساس الميزانية السابقة، الي ان يتم اعتماد الميزانية الجديدة .",
+    "target_en_norm": "if the municipality budget for the new fiscal year is not approved by the competent authority for any reason, the revenues and expenses stipulated in the previous budget shall remain in effect pending approval of the new budget.",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33008,
+    "source_ar": "المادة الثامنة والثلاثون:",
+    "target_en": "Article 38",
+    "source_ar_norm": "المادة الثامنة والثلاثون:",
+    "target_en_norm": "article 38",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33009,
+    "source_ar": "على رئيس البلدية أن يقدم إلى المجلس البلدي خلال شهرين على الأكثر من انتهاء السنة المالية الحساب الختامي لتلك السنة.",
+    "target_en": "The head of the municipality shall submit the final account to the municipal council within two months from the end of the fiscal year.",
+    "source_ar_norm": "علي رئيس البلدية ان يقدم الي المجلس البلدي خلال شهرين علي الاكثر من انتهاء السنة المالية الحساب الختامي لتلك السنة.",
+    "target_en_norm": "the head of the municipality shall submit the final account to the municipal council within two months from the end of the fiscal year.",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33010,
+    "source_ar": "المادة التاسعة والثلاثون:",
+    "target_en": "Article 39",
+    "source_ar_norm": "المادة التاسعة والثلاثون:",
+    "target_en_norm": "article 39",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33011,
+    "source_ar": "تحصل موارد البلدية والغرامات والجزاءات وفق الأنظمة والتعليمات المرعية.",
+    "target_en": "The municipality revenues, fines, and penalties shall be collected in accordance with applicable laws and instructions.",
+    "source_ar_norm": "تحصل موارد البلدية والغرامات والجزاءات وفق الانظمة والتعليمات المرعية.",
+    "target_en_norm": "the municipality revenues, fines, and penalties shall be collected in accordance with applicable laws and instructions.",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33012,
+    "source_ar": "المادة الأربعون:",
+    "target_en": "Article 40",
+    "source_ar_norm": "المادة الاربعون:",
+    "target_en_norm": "article 40",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33013,
+    "source_ar": "تنظم إجراءات صرف أموال البلدية واستيفاء وارداتها، وإدارة وتنظيم شئون موظفيها ومستخدميها وعمالها بلوائح يراعى فيها طبيعة أعمال البلديات، يصادق عليها مجلس الوزراء .",
+    "target_en": "Disbursement of municipal funds, collection of its revenues, and management of its personnel and labor affairs shall be in accordance with regulations approved by the Council of Ministers. Said regulations shall take into consideration the nature of municipal works.",
+    "source_ar_norm": "تنظم اجراءات صرف اموال البلدية واستيفاء وارداتها، وادارة وتنظيم شئون موظفيها ومستخدميها وعمالها بلوائح يراعي فيها طبيعة اعمال البلديات، يصادق عليها مجلس الوزراء .",
+    "target_en_norm": "disbursement of municipal funds, collection of its revenues, and management of its personnel and labor affairs shall be in accordance with regulations approved by the council of ministers. said regulations shall take into consideration the nature of municipal works.",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33014,
+    "source_ar": "المادة الحادية والأربعون:",
+    "target_en": "Article 41",
+    "source_ar_norm": "المادة الحادية والاربعون:",
+    "target_en_norm": "article 41",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33015,
+    "source_ar": "يتم تحديد وتطوير وتنمية خدمات القرى وتنظيم إدارتها، بلائحة تصدر عن مجلس الوزراء .",
+    "target_en": "Municipal services of rural areas shall be identified, developed, and managed in accordance with regulations issued by the Council of Ministers.",
+    "source_ar_norm": "يتم تحديد وتطوير وتنمية خدمات القري وتنظيم ادارتها، بلائحة تصدر عن مجلس الوزراء .",
+    "target_en_norm": "municipal services of rural areas shall be identified, developed, and managed in accordance with regulations issued by the council of ministers.",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33016,
+    "source_ar": "المادة الثانية والأربعون:",
+    "target_en": "Article 42",
+    "source_ar_norm": "المادة الثانية والاربعون:",
+    "target_en_norm": "article 42",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33017,
+    "source_ar": "يمارس وزير الداخلية ووزير الشئون البلدية والقروية الصلاحيات المنصوص عليها في هذا النظام لمجلس المقاطعة، إلى أن يتم تشكيله وفقا لنظام المقاطعات.",
+    "target_en": "The Minister of Interior and the Minister of Municipal and Rural Affairs shall assume the powers of the provincial council stipulated in this Law until it is formed in accordance with the Law of Provinces.",
+    "source_ar_norm": "يمارس وزير الداخلية ووزير الشئون البلدية والقروية الصلاحيات المنصوص عليها في هذا النظام لمجلس المقاطعة، الي ان يتم تشكيله وفقا لنظام المقاطعات.",
+    "target_en_norm": "the minister of interior and the minister of municipal and rural affairs shall assume the powers of the provincial council stipulated in this law until it is formed in accordance with the law of provinces.",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33018,
+    "source_ar": "المادة الثالثة والأربعون:",
+    "target_en": "Article 43",
+    "source_ar_norm": "المادة الثالثة والاربعون:",
+    "target_en_norm": "article 43",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33019,
+    "source_ar": "يجوز للبلديات أن تعقد فيما بينها اتفاقات في الأمور المتعلقة بمصالحها المشتركة، وتخضع هذه الاتفاقات لموافقة وزير الشئون البلدية والقروية.",
+    "target_en": "Inter-municipal agreements may be concluded on matters of mutual interest. Such agreements shall be approved by the Minister of Municipal and Rural Affairs.",
+    "source_ar_norm": "يجوز للبلديات ان تعقد فيما بينها اتفاقات في الامور المتعلقة بمصالحها المشتركة، وتخضع هذه الاتفاقات لموافقة وزير الشئون البلدية والقروية.",
+    "target_en_norm": "inter-municipal agreements may be concluded on matters of mutual interest. such agreements shall be approved by the minister of municipal and rural affairs.",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33020,
+    "source_ar": "المادة الأربعة والأربعون:",
+    "target_en": "Article 44",
+    "source_ar_norm": "المادة الاربعة والاربعون:",
+    "target_en_norm": "article 44",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33021,
+    "source_ar": "إذا امتنع أي شخص عن تنفيذ أوامر البلدية الصادرة بموجب صلاحياتها النظامية، فيجوز أن تقوم البلدية بأمر رئيسها بالتنفيذ على نفقة الممتنع في حدود النظام، مع عدم الإخلال بما يترتب على الامتناع من جزاء.",
+    "target_en": "If a person refuses to implement municipality orders issued within its powers, the head of the municipality may order enforcement of such orders at the expense of said person in accordance with the law, without prejudice to prescribed penalties.",
+    "source_ar_norm": "اذا امتنع اي شخص عن تنفيذ اوامر البلدية الصادرة بموجب صلاحياتها النظامية، فيجوز ان تقوم البلدية بامر رئيسها بالتنفيذ علي نفقة الممتنع في حدود النظام، مع عدم الاخلال بما يترتب علي الامتناع من جزاء.",
+    "target_en_norm": "if a person refuses to implement municipality orders issued within its powers, the head of the municipality may order enforcement of such orders at the expense of said person in accordance with the law, without prejudice to prescribed penalties.",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33022,
+    "source_ar": "المادة الخامسة والأربعون:",
+    "target_en": "Article 45",
+    "source_ar_norm": "المادة الخامسة والاربعون:",
+    "target_en_norm": "article 45",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33023,
+    "source_ar": "لرئيس البلدية إيقاف مفعول الرخص والإجازات مؤقتا إذا خالف صاحبها مضمونها، كما يمكن له بعد موافقة المجلس البلدي إلغاء هذه الرخص والإجازات.",
+    "target_en": "The head of the municipality may suspend licenses and permits upon violation of their terms. He may also, subject to the approval of the municipal council, revoke such licenses and permits.",
+    "source_ar_norm": "لرئيس البلدية ايقاف مفعول الرخص والاجازات مؤقتا اذا خالف صاحبها مضمونها، كما يمكن له بعد موافقة المجلس البلدي الغاء هذه الرخص والاجازات.",
+    "target_en_norm": "the head of the municipality may suspend licenses and permits upon violation of their terms. he may also, subject to the approval of the municipal council, revoke such licenses and permits.",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33024,
+    "source_ar": "المادة السادسة والأربعون:",
+    "target_en": "Article 46",
+    "source_ar_norm": "المادة السادسة والاربعون:",
+    "target_en_norm": "article 46",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33025,
+    "source_ar": "يحق لمن أصابه ضرر من تصرفات وقرارات المجلس البلدي أو رئيس البلدية أن يتظلم إلى وزير الشئون البلدية والقروية.",
+    "target_en": "A person exposed to harm due to the actions and decisions of the municipal council or head of the municipality may appeal against the same to the Minister of Municipal and Rural Affairs.",
+    "source_ar_norm": "يحق لمن اصابه ضرر من تصرفات وقرارات المجلس البلدي او رئيس البلدية ان يتظلم الي وزير الشئون البلدية والقروية.",
+    "target_en_norm": "a person exposed to harm due to the actions and decisions of the municipal council or head of the municipality may appeal against the same to the minister of municipal and rural affairs.",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33026,
+    "source_ar": "المادة السابعة والأربعون:",
+    "target_en": "Article 47",
+    "source_ar_norm": "المادة السابعة والاربعون:",
+    "target_en_norm": "article 47",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33027,
+    "source_ar": "يخضع رؤساء وموظفو ومستخدمو البلديات لأحكام نظامي الموظفين العام والمستخدمين ونظام التقاعد المدني، إلا ما استثني بموجب اللوائح الصادرة تنفيذا للمادة (40) من هذا النظام.",
+    "target_en": "Heads and employees of municipalities shall be subject to the laws of public employees and contracted laborers, and the Civil Pension Law, except as exempted under the regulations issued in implementation of Article 40 of this Law.",
+    "source_ar_norm": "يخضع رؤساء وموظفو ومستخدمو البلديات لاحكام نظامي الموظفين العام والمستخدمين ونظام التقاعد المدني، الا ما استثني بموجب اللوائح الصادرة تنفيذا للمادة (40) من هذا النظام.",
+    "target_en_norm": "heads and employees of municipalities shall be subject to the laws of public employees and contracted laborers, and the civil pension law, except as exempted under the regulations issued in implementation of article 40 of this law.",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33028,
+    "source_ar": "المادة الثامنة والأربعون:",
+    "target_en": "Article 48",
+    "source_ar_norm": "المادة الثامنة والاربعون:",
+    "target_en_norm": "article 48",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33029,
+    "source_ar": "يصدر وزير الشئون البلدية والقروية اللوائح والتعليمات التنفيذية لهذا النظام، وله تخويل بعض سلطاته المنصوص عليها في هذا النظام للمسئولين المناط بهم إدارة البلديات والقرى.",
+    "target_en": "The Minister of Municipal and Rural Affairs shall issue the implementing regulations and instructions of this Law and may delegate some of his powers stipulated in this Law to officials in charge of municipalities and submunicipalities in rural areas.",
+    "source_ar_norm": "يصدر وزير الشئون البلدية والقروية اللوائح والتعليمات التنفيذية لهذا النظام، وله تخويل بعض سلطاته المنصوص عليها في هذا النظام للمسئولين المناط بهم ادارة البلديات والقري.",
+    "target_en_norm": "the minister of municipal and rural affairs shall issue the implementing regulations and instructions of this law and may delegate some of his powers stipulated in this law to officials in charge of municipalities and submunicipalities in rural areas.",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33030,
+    "source_ar": "المادة التاسعة والأربعون:",
+    "target_en": "Article 49",
+    "source_ar_norm": "المادة التاسعة والاربعون:",
+    "target_en_norm": "article 49",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33031,
+    "source_ar": "مع مراعاة نظام مجلس الوزراء، ونظام المقاطعات، يلغي هذا النظام:",
+    "target_en": "Subject to the Law of the Council of Ministers and the Law of Provinces, this Law shall repeal:",
+    "source_ar_norm": "مع مراعاة نظام مجلس الوزراء، ونظام المقاطعات، يلغي هذا النظام:",
+    "target_en_norm": "subject to the law of the council of ministers and the law of provinces, this law shall repeal:",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33032,
+    "source_ar": "1 - نظام أمانة العاصمة والبلديات.",
+    "target_en": "the Law of Municipalities and Sub-Municipalities;",
+    "source_ar_norm": "1 - نظام امانة العاصمة والبلديات.",
+    "target_en_norm": "the law of municipalities and sub-municipalities;",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33033,
+    "source_ar": "2 - نظام ترتيب الانتخابات البلدية.",
+    "target_en": "the Law of Municipal Election Procedures; and",
+    "source_ar_norm": "2 - نظام ترتيب الانتخابات البلدية.",
+    "target_en_norm": "the law of municipal election procedures; and",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33034,
+    "source_ar": "3 - جميع ما يتعارض معه من أنظمة وقرارات ولوائح.",
+    "target_en": "all laws, decisions, and regulations conflicting therewith.",
+    "source_ar_norm": "3 - جميع ما يتعارض معه من انظمة وقرارات ولوائح.",
+    "target_en_norm": "all laws, decisions, and regulations conflicting therewith.",
+    "file_name": "نظام البلديات والقرى.docx"
+  },
+  {
+    "id": 33035,
+    "source_ar": "نظام البنك السعودي للتسليف والادخار",
+    "target_en": "Law of Saudi Credit and Savings Bank",
+    "source_ar_norm": "نظام البنك السعودي للتسليف والادخار",
+    "target_en_norm": "law of saudi credit and savings bank",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33036,
+    "source_ar": "المادة الأولى:",
+    "target_en": "Article (١):",
+    "source_ar_norm": "المادة الاولي:",
+    "target_en_norm": "article (١):",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33037,
+    "source_ar": "يقصد بالكلمات والعبارات الآتية أينما وردت في هذا النظام المعاني المبينة أمامها، ما لم يقتض السياق خلاف ذلك :",
+    "target_en": "The following terms and phrases, wherever mentioned in this Law, shall have the meanings given next to them, unless the context requires otherwise:",
+    "source_ar_norm": "يقصد بالكلمات والعبارات الاتية اينما وردت في هذا النظام المعاني المبينة امامها، ما لم يقتض السياق خلاف ذلك :",
+    "target_en_norm": "the following terms and phrases, wherever mentioned in this law, shall have the meanings given next to them, unless the context requires otherwise:",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33038,
+    "source_ar": "١ - البنك: البنك السعودي للتسليف والادخار.",
+    "target_en": "(١) Bank: Saudi Credit and Savings Bank.",
+    "source_ar_norm": "١ - البنك: البنك السعودي للتسليف والادخار.",
+    "target_en_norm": "(١) bank: saudi credit and savings bank.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33039,
+    "source_ar": "٢ - الوزير : وزير المالية .",
+    "target_en": "(٢) Minister: Minister of Finance.",
+    "source_ar_norm": "٢ - الوزير : وزير المالية .",
+    "target_en_norm": "(٢) minister: minister of finance.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33040,
+    "source_ar": "٣ - المجلس : مجلس إدارة البنك.",
+    "target_en": "(٣) Board: Bank’s Board of Directors.",
+    "source_ar_norm": "٣ - المجلس : مجلس ادارة البنك.",
+    "target_en_norm": "(٣) board: bank’s board of directors.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33041,
+    "source_ar": "المادة الثانية:",
+    "target_en": "Article (٢):",
+    "source_ar_norm": "المادة الثانية:",
+    "target_en_norm": "article (٢):",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33042,
+    "source_ar": "تكون للبنك شخصية معنوية وذمة مالية مستقلة، وله بموجبها الحق في التملك والتصرف والتقاضي طبقا لأحكام هذا النظام.",
+    "target_en": "The Bank shall be of a corporate person and shall have an independent financial status giving it the right to ownership, disposition and litigation in accordance with the provisions of this Law.",
+    "source_ar_norm": "تكون للبنك شخصية معنوية وذمة مالية مستقلة، وله بموجبها الحق في التملك والتصرف والتقاضي طبقا لاحكام هذا النظام.",
+    "target_en_norm": "the bank shall be of a corporate person and shall have an independent financial status giving it the right to ownership, disposition and litigation in accordance with the provisions of this law.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33043,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article (٣):",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article (٣):",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33044,
+    "source_ar": "المقر الرئيس للبنك مدينة الرياض، ويجوز إنشاء فروع له في مناطق المملكة، أو تعيين وكلاء أو مراسلين له في تلك المناطق.",
+    "target_en": "The Bank’s headquarters shall be in the City of Riyadh. Branches may be established in other provinces of the Kingdom, and agents or correspondents may be appointed in such provinces.",
+    "source_ar_norm": "المقر الرئيس للبنك مدينة الرياض، ويجوز انشاء فروع له في مناطق المملكة، او تعيين وكلاء او مراسلين له في تلك المناطق.",
+    "target_en_norm": "the bank’s headquarters shall be in the city of riyadh. branches may be established in other provinces of the kingdom, and agents or correspondents may be appointed in such provinces.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33045,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article (٤):",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article (٤):",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33046,
+    "source_ar": "يهدف البنك إلى ما يأتي:",
+    "target_en": "The Bank shall aim at the following:",
+    "source_ar_norm": "يهدف البنك الي ما ياتي:",
+    "target_en_norm": "the bank shall aim at the following:",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33047,
+    "source_ar": "أ - تقديم قروض بدون فائدة للمنشآت الصغيرة والناشئة ولأصحاب الحرف والمهن من المواطنين، تشجيعا لهم على مزاولة الأعمال والمهن بأنفسهم ولحسابهم الخاص.",
+    "target_en": "(a) Providing interest-free loans to small and infant enterprises as well as to Saudi craftsmen and tradesmen to encourage them to run their own businesses and trades.",
+    "source_ar_norm": "ا - تقديم قروض بدون فائدة للمنشات الصغيرة والناشئة ولاصحاب الحرف والمهن من المواطنين، تشجيعا لهم علي مزاولة الاعمال والمهن بانفسهم ولحسابهم الخاص.",
+    "target_en_norm": "(a) providing interest-free loans to small and infant enterprises as well as to saudi craftsmen and tradesmen to encourage them to run their own businesses and trades.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33048,
+    "source_ar": "ب - تقديم قروض اجتماعية بدون فائدة لذوي الدخول المحدودة من المواطنين لمساعدتهم على التغلب على صعوباتهم المالية.",
+    "target_en": "(b) Providing interest-free loans for social purposes to low-income citizens to help them overcome their financial difficulties.",
+    "source_ar_norm": "ب - تقديم قروض اجتماعية بدون فائدة لذوي الدخول المحدودة من المواطنين لمساعدتهم علي التغلب علي صعوباتهم المالية.",
+    "target_en_norm": "(b) providing interest-free loans for social purposes to low-income citizens to help them overcome their financial difficulties.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33049,
+    "source_ar": "ج - القيام بدور المنسق المكمل لرعاية قطاع المنشآت الصغيرة والناشئة..",
+    "target_en": "(c) Assuming a complementing coordinating role in support of small and infant enterprises.",
+    "source_ar_norm": "ج - القيام بدور المنسق المكمل لرعاية قطاع المنشات الصغيرة والناشئة..",
+    "target_en_norm": "(c) assuming a complementing coordinating role in support of small and infant enterprises.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33050,
+    "source_ar": "د - العمل على تشجيع التوفير والادخار للأفراد والمؤسسات في المملكة، وإيجاد الأدوات التي تحقق هذه الغاية.",
+    "target_en": "(d) Promoting savings and thrift by individuals and institutions in the Kingdom and creating instruments for achieving this purpose.",
+    "source_ar_norm": "د - العمل علي تشجيع التوفير والادخار للافراد والمؤسسات في المملكة، وايجاد الادوات التي تحقق هذه الغاية.",
+    "target_en_norm": "(d) promoting savings and thrift by individuals and institutions in the kingdom and creating instruments for achieving this purpose.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33051,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article (٥):",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article (٥):",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33052,
+    "source_ar": "يخضع البنك لرقابة مؤسسة النقد العربي السعودي والأنظمة المصرفية، بما لا يتعارض مع نظامه، وبما ينسجم مع أحكام الشريعة الإسلامية.",
+    "target_en": "Without prejudice to its Law and the provisions of Shari’ah, the Bank shall be monitored by the Saudi Arabian Monetary Agency and shall be subject to the banking laws.",
+    "source_ar_norm": "يخضع البنك لرقابة مؤسسة النقد العربي السعودي والانظمة المصرفية، بما لا يتعارض مع نظامه، وبما ينسجم مع احكام الشريعة الاسلامية.",
+    "target_en_norm": "without prejudice to its law and the provisions of shari’ah, the bank shall be monitored by the saudi arabian monetary agency and shall be subject to the banking laws.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33053,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article (٦):",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article (٦):",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33054,
+    "source_ar": "رأس مال البنك المصرح به هو ستة آلاف مليون ريال تدفعها وزارة المالية، ويجوز زيادة رأس المال بقرار من مجلس الوزراء، بناء على توصية من الوزير.",
+    "target_en": "The Bank’s authorized capital shall be six thousand million riyals to be paid by the Ministry of Finance. The capital may be increased pursuant to a resolution by the Council of Ministers upon a recommendation by the Minister.",
+    "source_ar_norm": "راس مال البنك المصرح به هو ستة الاف مليون ريال تدفعها وزارة المالية، ويجوز زيادة راس المال بقرار من مجلس الوزراء، بناء علي توصية من الوزير.",
+    "target_en_norm": "the bank’s authorized capital shall be six thousand million riyals to be paid by the ministry of finance. the capital may be increased pursuant to a resolution by the council of ministers upon a recommendation by the minister.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33055,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article (٧):",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article (٧):",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33056,
+    "source_ar": "تتكون أموال البنك ومصادره التمويلية من الآتي:",
+    "target_en": "The Bank funds and financing sources shall consist of the following:",
+    "source_ar_norm": "تتكون اموال البنك ومصادره التمويلية من الاتي:",
+    "target_en_norm": "the bank funds and financing sources shall consist of the following:",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33057,
+    "source_ar": "أ - رأس مال البنك.",
+    "target_en": "(a) The Bank’s capital.",
+    "source_ar_norm": "ا - راس مال البنك.",
+    "target_en_norm": "(a) the bank’s capital.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33058,
+    "source_ar": "ب - الودائع الحكومية .",
+    "target_en": "(b) Government deposits.",
+    "source_ar_norm": "ب - الودائع الحكومية .",
+    "target_en_norm": "(b) government deposits.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33059,
+    "source_ar": "ج - الرسوم مقابل المصروفات التي يتكبدها البنك في سبيل ممارسة نشاطه حسبما يقرره مجلس الإدارة، ويستثنى من ذلك القروض الاجتماعية لذوي الدخل المحدود.",
+    "target_en": "(c) Fees for expenses incurred by the Bank in performing its functions as determined by its Board of Directors. Loans for social purposes to low-income individuals shall be exempted from such fees.",
+    "source_ar_norm": "ج - الرسوم مقابل المصروفات التي يتكبدها البنك في سبيل ممارسة نشاطه حسبما يقرره مجلس الادارة، ويستثني من ذلك القروض الاجتماعية لذوي الدخل المحدود.",
+    "target_en_norm": "(c) fees for expenses incurred by the bank in performing its functions as determined by its board of directors. loans for social purposes to low-income individuals shall be exempted from such fees.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33060,
+    "source_ar": "د - الدخل الناتج من استثمار أموال البنك وأرصدته وممتلكاته.",
+    "target_en": "(d) Income resulting from investing Bank’s funds, balances and assets.",
+    "source_ar_norm": "د - الدخل الناتج من استثمار اموال البنك وارصدته وممتلكاته.",
+    "target_en_norm": "(d) income resulting from investing bank’s funds, balances and assets.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33061,
+    "source_ar": "هـ - المخصصات أو الأموال التي تعين الحكومة بها البنك على سبيل الهبة أو القرض.",
+    "target_en": "(e) Allocations or funds granted or loaned to the Bank by the Government.",
+    "source_ar_norm": "ه - المخصصات او الاموال التي تعين الحكومة بها البنك علي سبيل الهبة او القرض.",
+    "target_en_norm": "(e) allocations or funds granted or loaned to the bank by the government.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33062,
+    "source_ar": "و - القروض والودائع التي تقدمها مؤسسة النقد العربي السعودي وغيرها من الهيئات والمؤسسات العامة والخاصة والجمعيات الخيرية.",
+    "target_en": "(f) Loans and deposits provided by the Saudi Arabian Monetary Agency and other public and private institutions and charities.",
+    "source_ar_norm": "و - القروض والودائع التي تقدمها مؤسسة النقد العربي السعودي وغيرها من الهيئات والمؤسسات العامة والخاصة والجمعيات الخيرية.",
+    "target_en_norm": "(f) loans and deposits provided by the saudi arabian monetary agency and other public and private institutions and charities.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33063,
+    "source_ar": "ز - الودائع التي يودعها الجمهور وتضمن الحكومة تسديدها.",
+    "target_en": "(g) Deposits made by the public and guaranteed by the Government.",
+    "source_ar_norm": "ز - الودائع التي يودعها الجمهور وتضمن الحكومة تسديدها.",
+    "target_en_norm": "(g) deposits made by the public and guaranteed by the government.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33064,
+    "source_ar": "ح - سندات الادخار .",
+    "target_en": "(h) Savings bonds.",
+    "source_ar_norm": "ح - سندات الادخار .",
+    "target_en_norm": "(h) savings bonds.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33065,
+    "source_ar": "ط - الأوراق المالية والضمانات على مختلف أنواعها.",
+    "target_en": "(i) Securities and collaterals of various types.",
+    "source_ar_norm": "ط - الاوراق المالية والضمانات علي مختلف انواعها.",
+    "target_en_norm": "(i) securities and collaterals of various types.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33066,
+    "source_ar": "ي - الأموال أو المخصصات التي يقدمها الغير على سبيل الهبة أو الوقف.",
+    "target_en": "(j) Funds or allocations offered by others as a gift or endowment.",
+    "source_ar_norm": "ي - الاموال او المخصصات التي يقدمها الغير علي سبيل الهبة او الوقف.",
+    "target_en_norm": "(j) funds or allocations offered by others as a gift or endowment.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33067,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article (٨):",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article (٨):",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33068,
+    "source_ar": "أ - يكون للبنك مجلس إدارة يتكون من عشرة أعضاء من بينهم الرئيس، وذلك على النحو الآتي :",
+    "target_en": "(a) The Bank shall have a Board of Directors of ten members including the Chairman, as follows:",
+    "source_ar_norm": "ا - يكون للبنك مجلس ادارة يتكون من عشرة اعضاء من بينهم الرئيس، وذلك علي النحو الاتي :",
+    "target_en_norm": "(a) the bank shall have a board of directors of ten members including the chairman, as follows:",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33069,
+    "source_ar": "عضوان من ذوي الكفاءة والخبرة من القطاع الخاص يرشحهما الوزير عضوان",
+    "target_en": "Two competent and experienced members from the private sector to be nominated by the Minister of Finance",
+    "source_ar_norm": "عضوان من ذوي الكفاءة والخبرة من القطاع الخاص يرشحهما الوزير عضوان",
+    "target_en_norm": "two competent and experienced members from the private sector to be nominated by the minister of finance",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33070,
+    "source_ar": "على ألا تقل مرتبة ممثلي الجهات الحكومية عن المرتبة (الثانية عشرة).",
+    "target_en": "Representatives of government bodies shall be of ranks not less than (Grade ١٢).",
+    "source_ar_norm": "علي الا تقل مرتبة ممثلي الجهات الحكومية عن المرتبة (الثانية عشرة).",
+    "target_en_norm": "representatives of government bodies shall be of ranks not less than (grade ١٢).",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33071,
+    "source_ar": "ب - يصدر بتكوين المجلس قرار من مجلس الوزراء لمدة ثلاث سنوات قابلة للتجديد مرة واحدة، ويستثنى من شرط المدة مدير عام البنك.",
+    "target_en": "(b) A resolution forming the Board of Directors shall be issued by the Council of Ministers for a term of three years renewable once. The Bank’s Director-General shall be exempted from the time limitation.",
+    "source_ar_norm": "ب - يصدر بتكوين المجلس قرار من مجلس الوزراء لمدة ثلاث سنوات قابلة للتجديد مرة واحدة، ويستثني من شرط المدة مدير عام البنك.",
+    "target_en_norm": "(b) a resolution forming the board of directors shall be issued by the council of ministers for a term of three years renewable once. the bank’s director-general shall be exempted from the time limitation.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33072,
+    "source_ar": "ج - يختار المجلس من بين أعضائه نائبا للرئيس عند بداية كل دورة، يقوم مقام الرئيس في حالة غيابه.",
+    "target_en": "(c) The Board shall choose from its members a deputy chairman at the beginning of each term to act on behalf of the Chairman in his absence.",
+    "source_ar_norm": "ج - يختار المجلس من بين اعضائه نائبا للرئيس عند بداية كل دورة، يقوم مقام الرئيس في حالة غيابه.",
+    "target_en_norm": "(c) the board shall choose from its members a deputy chairman at the beginning of each term to act on behalf of the chairman in his absence.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33073,
+    "source_ar": "د - تحدد مكافأة رئيس وأعضاء مجلس الإدارة بقرار من مجلس الوزراء، بناء على اقتراح الوزير.",
+    "target_en": "(d) Remunerations of the Chairman and Board members shall be determined by a resolution of the Council of Ministers upon a recommendation by the Minister.",
+    "source_ar_norm": "د - تحدد مكافاة رئيس واعضاء مجلس الادارة بقرار من مجلس الوزراء، بناء علي اقتراح الوزير.",
+    "target_en_norm": "(d) remunerations of the chairman and board members shall be determined by a resolution of the council of ministers upon a recommendation by the minister.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33074,
+    "source_ar": "المادة التاسعة:",
+    "target_en": "Article (٩):",
+    "source_ar_norm": "المادة التاسعة:",
+    "target_en_norm": "article (٩):",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33075,
+    "source_ar": "مجلس الإدارة هو السلطة العليا المشرفة على أعمال البنك وتحقيق أهدافه، وله على وجه الخصوص ما يأتي:",
+    "target_en": "The Board of Directors is the supreme authority overseeing the Bank’s activities and the achievement of its goals. Particularly, it shall:",
+    "source_ar_norm": "مجلس الادارة هو السلطة العليا المشرفة علي اعمال البنك وتحقيق اهدافه، وله علي وجه الخصوص ما ياتي:",
+    "target_en_norm": "the board of directors is the supreme authority overseeing the bank’s activities and the achievement of its goals. particularly, it shall:",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33076,
+    "source_ar": "أ - إقرار الهيكل التنظيمي واللوائح المالية والإدارية.",
+    "target_en": "(a) approve the organizational structure, and the financial and administrative regulations.",
+    "source_ar_norm": "ا - اقرار الهيكل التنظيمي واللوائح المالية والادارية.",
+    "target_en_norm": "(a) approve the organizational structure, and the financial and administrative regulations.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33077,
+    "source_ar": "ب - تشكيل اللجان التنفيذية اللازمة لعمل البنك، وتحديد صلاحياتها.",
+    "target_en": "(b) form the necessary executive committees for the Bank’s operation and determine their powers.",
+    "source_ar_norm": "ب - تشكيل اللجان التنفيذية اللازمة لعمل البنك، وتحديد صلاحياتها.",
+    "target_en_norm": "(b) form the necessary executive committees for the bank’s operation and determine their powers.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33078,
+    "source_ar": "ج - إقرار مشروع ميزانية سنوية لنشاط البنك ونفقاته الإدارية.",
+    "target_en": "(c) approve the Bank’s draft annual budget for its activities and administrative expenditures.",
+    "source_ar_norm": "ج - اقرار مشروع ميزانية سنوية لنشاط البنك ونفقاته الادارية.",
+    "target_en_norm": "(c) approve the bank’s draft annual budget for its activities and administrative expenditures.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33079,
+    "source_ar": "د - وضع الحدود القصوى لقيمة أنواع القروض التي يقدمها البنك وضمانات استردادها.",
+    "target_en": "(d) set ceilings for the amounts of the types of loans to be extended by the Bank and set collaterals for repayment.",
+    "source_ar_norm": "د - وضع الحدود القصوي لقيمة انواع القروض التي يقدمها البنك وضمانات استردادها.",
+    "target_en_norm": "(d) set ceilings for the amounts of the types of loans to be extended by the bank and set collaterals for repayment.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33080,
+    "source_ar": "هـ - قبول ودائع تضمن الحكومة تسديدها لأصحابها.",
+    "target_en": "(e) accept government guaranteed deposits.",
+    "source_ar_norm": "ه - قبول ودائع تضمن الحكومة تسديدها لاصحابها.",
+    "target_en_norm": "(e) accept government guaranteed deposits.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33081,
+    "source_ar": "و - فتح حسابات ودائع وحسابات جارية لدى البنوك في المملكة.",
+    "target_en": "(f) open deposit and current accounts with banks in the Kingdom.",
+    "source_ar_norm": "و - فتح حسابات ودائع وحسابات جارية لدي البنوك في المملكة.",
+    "target_en_norm": "(f) open deposit and current accounts with banks in the kingdom.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33082,
+    "source_ar": "ز - وضع قواعد لإصدار سندات الادخار والشيكات.",
+    "target_en": "(g) set rules for issuing savings bonds and checks.",
+    "source_ar_norm": "ز - وضع قواعد لاصدار سندات الادخار والشيكات.",
+    "target_en_norm": "(g) set rules for issuing savings bonds and checks.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33083,
+    "source_ar": "ح - وضع قواعد لتملك العقارات وغيرها من المنقولات والأسهم والسندات بجميع أنواعها، وبيعها، وتداولها، والتعامل بها، ورهنها، والتصرف بها على أي نحو يحقق مصلحة البنك.",
+    "target_en": "(h) set rules for owning real estates and other movable assets, various types of shares and bonds, and rules for selling, trading in, dealing in, pledging and disposing of the same in a manner serving the Bank’s interests.",
+    "source_ar_norm": "ح - وضع قواعد لتملك العقارات وغيرها من المنقولات والاسهم والسندات بجميع انواعها، وبيعها، وتداولها، والتعامل بها، ورهنها، والتصرف بها علي اي نحو يحقق مصلحة البنك.",
+    "target_en_norm": "(h) set rules for owning real estates and other movable assets, various types of shares and bonds, and rules for selling, trading in, dealing in, pledging and disposing of the same in a manner serving the bank’s interests.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33084,
+    "source_ar": "ط - إقرار برامج لتشجيع المواطنين والمؤسسات الفردية والشركات على ادخار أموالهم لدى البنك لاستثمارها في تحقيق أهداف البنك مع ضمان تسديدها في وقت طلبها.",
+    "target_en": "(i) approve programs to encourage citizens and individually owned establishments and companies to deposit their savings in the Bank for investment in projects which serve the objectives of the Bank, with a guarantee that such savings be paid back on demand.",
+    "source_ar_norm": "ط - اقرار برامج لتشجيع المواطنين والمؤسسات الفردية والشركات علي ادخار اموالهم لدي البنك لاستثمارها في تحقيق اهداف البنك مع ضمان تسديدها في وقت طلبها.",
+    "target_en_norm": "(i) approve programs to encourage citizens and individually owned establishments and companies to deposit their savings in the bank for investment in projects which serve the objectives of the bank, with a guarantee that such savings be paid back on demand.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33085,
+    "source_ar": "ي - إقرار اللائحة التنفيذية لهذا النظام.",
+    "target_en": "(j) approve the Implementing Regulations of this Law.",
+    "source_ar_norm": "ي - اقرار اللائحة التنفيذية لهذا النظام.",
+    "target_en_norm": "(j) approve the implementing regulations of this law.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33086,
+    "source_ar": "ك - تعيين مراجع حسابات قانوني أو أكثر للبنك.",
+    "target_en": "(k) appoint one or more auditors for the Bank.",
+    "source_ar_norm": "ك - تعيين مراجع حسابات قانوني او اكثر للبنك.",
+    "target_en_norm": "(k) appoint one or more auditors for the bank.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33087,
+    "source_ar": "ل - إقرار الحساب الختامي والتقرير السنوي عن نشاط البنك ورفعه إلى مجلس الوزراء لاعتماده.",
+    "target_en": "(l) Approve the closing account and the annual report on the Bank’s activities and submit the same to the Council of Ministers for endorsement.",
+    "source_ar_norm": "ل - اقرار الحساب الختامي والتقرير السنوي عن نشاط البنك ورفعه الي مجلس الوزراء لاعتماده.",
+    "target_en_norm": "(l) approve the closing account and the annual report on the bank’s activities and submit the same to the council of ministers for endorsement.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33088,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article (١٠):",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article (١٠):",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33089,
+    "source_ar": "يجتمع المجلس بدعوة من رئيسه أربع مرات على الأقل في السنة، ولا تكون اجتماعات المجلس صحيحة إلا إذا حضرها ثلثا الأعضاء بمن فيهم الرئيس، ويصدر المجلس قراراته بأغلبية الحاضرين، وعند تساوي الأصوات يرجح الجانب الذي صوت معه الرئيس.",
+    "target_en": "The Board of Directors shall convene at the request of its Chairman at least four times a year. To meet required quorum, the Board’s meetings shall not be valid unless attended by two thirds of the Board members, including the Chairman. The Board shall issue its decisions by majority vote of attending members. In the event of a tie, the Chairman shall have the casting vote.",
+    "source_ar_norm": "يجتمع المجلس بدعوة من رئيسه اربع مرات علي الاقل في السنة، ولا تكون اجتماعات المجلس صحيحة الا اذا حضرها ثلثا الاعضاء بمن فيهم الرئيس، ويصدر المجلس قراراته باغلبية الحاضرين، وعند تساوي الاصوات يرجح الجانب الذي صوت معه الرئيس.",
+    "target_en_norm": "the board of directors shall convene at the request of its chairman at least four times a year. to meet required quorum, the board’s meetings shall not be valid unless attended by two thirds of the board members, including the chairman. the board shall issue its decisions by majority vote of attending members. in the event of a tie, the chairman shall have the casting vote.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33090,
+    "source_ar": "المادة الحادية عشرة:",
+    "target_en": "Article (١١):",
+    "source_ar_norm": "المادة الحادية عشرة:",
+    "target_en_norm": "article (١١):",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33091,
+    "source_ar": "يكون للبنك مدير عام لا تقل مرتبته عن الخامسة عشرة، ويعين بقرار من مجلس الوزراء بناء على اقتراح من الوزير.",
+    "target_en": "The Bank shall have a Director-General whose rank is not less than (Grade ١٥). He shall be appointed pursuant to a resolution by the Council of Ministers upon a recommendation by the Minister.",
+    "source_ar_norm": "يكون للبنك مدير عام لا تقل مرتبته عن الخامسة عشرة، ويعين بقرار من مجلس الوزراء بناء علي اقتراح من الوزير.",
+    "target_en_norm": "the bank shall have a director-general whose rank is not less than (grade ١٥). he shall be appointed pursuant to a resolution by the council of ministers upon a recommendation by the minister.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33092,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article (١٢):",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article (١٢):",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33093,
+    "source_ar": "يختص مدير عام البنك بالآتي:",
+    "target_en": "The Bank’s Director-General shall have the following powers:",
+    "source_ar_norm": "يختص مدير عام البنك بالاتي:",
+    "target_en_norm": "the bank’s director-general shall have the following powers:",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33094,
+    "source_ar": "أ - العمل على تحقيق الأهداف التي أنشئ من أجلها البنك.",
+    "target_en": "(a) Achieve the Bank’s objectives.",
+    "source_ar_norm": "ا - العمل علي تحقيق الاهداف التي انشئ من اجلها البنك.",
+    "target_en_norm": "(a) achieve the bank’s objectives.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33095,
+    "source_ar": "ب - الإشراف على إدارة البنك وتنفيذ السياسات والقرارات التي يتخذها مجلس الإدارة.",
+    "target_en": "(b) Oversee the Bank’s management and implement the policies and decisions adopted by the Board of Directors.",
+    "source_ar_norm": "ب - الاشراف علي ادارة البنك وتنفيذ السياسات والقرارات التي يتخذها مجلس الادارة.",
+    "target_en_norm": "(b) oversee the bank’s management and implement the policies and decisions adopted by the board of directors.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33096,
+    "source_ar": "ج - تمثيل البنك لدى الغير.",
+    "target_en": "(c) Represent the Bank before third parties.",
+    "source_ar_norm": "ج - تمثيل البنك لدي الغير.",
+    "target_en_norm": "(c) represent the bank before third parties.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33097,
+    "source_ar": "د - تحصيل الحقوق المستحقة للبنك، أو المحولة إليه.",
+    "target_en": "(d) Collect receivables due to the Bank or transferred thereto.",
+    "source_ar_norm": "د - تحصيل الحقوق المستحقة للبنك، او المحولة اليه.",
+    "target_en_norm": "(d) collect receivables due to the bank or transferred thereto.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33098,
+    "source_ar": "هـ - إعداد تقارير ربع سنوية وسنوية تعرض على مجلس الإدارة، وتشمل الإنجازات والمعوقات واقتراحات بالحلول المناسبة.",
+    "target_en": "(e) Prepare quarterly and annual reports to be submitted to the Board of Directors, including accomplishments and obstacles, and propose appropriate solutions.",
+    "source_ar_norm": "ه - اعداد تقارير ربع سنوية وسنوية تعرض علي مجلس الادارة، وتشمل الانجازات والمعوقات واقتراحات بالحلول المناسبة.",
+    "target_en_norm": "(e) prepare quarterly and annual reports to be submitted to the board of directors, including accomplishments and obstacles, and propose appropriate solutions.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33099,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article (١٣):",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article (١٣):",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  },
+  {
+    "id": 33100,
+    "source_ar": "تقدم القروض المحددة في المادة (الرابعة) من هذا النظام مقابل ضمانات مقبولة وكافية لاستيفاء القرض ، وفقا لأحكام هذا النظام ولائحته التنفيذية.",
+    "target_en": "Loans specified in Article (٤) of this Law shall be extended against acceptable and sufficient collaterals to have the loan repaid in accordance with the provisions of this Law and its Implementing Regulations.",
+    "source_ar_norm": "تقدم القروض المحددة في المادة (الرابعة) من هذا النظام مقابل ضمانات مقبولة وكافية لاستيفاء القرض ، وفقا لاحكام هذا النظام ولائحته التنفيذية.",
+    "target_en_norm": "loans specified in article (٤) of this law shall be extended against acceptable and sufficient collaterals to have the loan repaid in accordance with the provisions of this law and its implementing regulations.",
+    "file_name": "نظام البنك السعودي للتسليف والادخار.docx"
+  }
+]

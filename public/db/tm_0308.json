@@ -1,0 +1,802 @@
+[
+  {
+    "id": 30701,
+    "source_ar": "ج - الأعمال الفنية التي تحددها اللائحة التنفيذية.",
+    "target_en": "c- Artistic works as specified in the Implementing Regulations.",
+    "source_ar_norm": "ج - الاعمال الفنية التي تحددها اللائحة التنفيذية.",
+    "target_en_norm": "c- artistic works as specified in the implementing regulations.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30702,
+    "source_ar": "د - لوحات الأنساب.",
+    "target_en": "d- Genealogical charts.",
+    "source_ar_norm": "د - لوحات الانساب.",
+    "target_en_norm": "d- genealogical charts.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30703,
+    "source_ar": "هـ - طوابع البريد.",
+    "target_en": "e- Postage stamps.",
+    "source_ar_norm": "ه - طوابع البريد.",
+    "target_en_norm": "e- postage stamps.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30704,
+    "source_ar": "4 - استثناء من شرط النشر وطرح العمل للتداول بين الناس، يسري حكم الفقرتين الأولى والثانية على الرسائل والأطروحات المقدمة للحصول على الماجستير أو الدكتوراه أو ما في حكمهما.",
+    "target_en": "4. The provisions of paragraphs (1) and (2) shall, as an exception to the requirement of publication and circulation among the public, apply to theses and dissertations submitted in fulfillment of the requirement for a master’s or doctoral degree or their equivalent.",
+    "source_ar_norm": "4 - استثناء من شرط النشر وطرح العمل للتداول بين الناس، يسري حكم الفقرتين الاولي والثانية علي الرسائل والاطروحات المقدمة للحصول علي الماجستير او الدكتوراه او ما في حكمهما.",
+    "target_en_norm": "4. the provisions of paragraphs (1) and (2) shall, as an exception to the requirement of publication and circulation among the public, apply to theses and dissertations submitted in fulfillment of the requirement for a master’s or doctoral degree or their equivalent.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30705,
+    "source_ar": "5 - إذا كان العمل محل الإيداع مكونًا من عدة أجزاء أو مجلدات بحيث تنشر منفصلة أو على فترات فيعتبر كل جزء أو مجلد منها عملًا مستقلًّا بالنسبة للإيداع.",
+    "target_en": "5. If the work subject to deposit comprises multiple parts or volumes published separately or periodically, each part or volume shall be deemed an independent work for deposit purposes.",
+    "source_ar_norm": "5 - اذا كان العمل محل الايداع مكونا من عدة اجزاء او مجلدات بحيث تنشر منفصلة او علي فترات فيعتبر كل جزء او مجلد منها عملا مستقلا بالنسبة للايداع.",
+    "target_en_norm": "5. if the work subject to deposit comprises multiple parts or volumes published separately or periodically, each part or volume shall be deemed an independent work for deposit purposes.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30706,
+    "source_ar": "6 - لا يسري نظام الإيداع على الأعمال التالية:",
+    "target_en": "6. This Law shall not apply to the following works:",
+    "source_ar_norm": "6 - لا يسري نظام الايداع علي الاعمال التالية:",
+    "target_en_norm": "6. this law shall not apply to the following works:",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30707,
+    "source_ar": "أ - الإعلانات التجارية وغير التجارية وقوائم الأسعار وبطاقات الدعوات والزيارات والتهنئة والشهادات والبطاقات والكروت الشخصية وبطاقات البريد.",
+    "target_en": "a- Commercial and non-commercial advertisements, price lists, invitations, greeting cards, certificates, business cards, and postcards.",
+    "source_ar_norm": "ا - الاعلانات التجارية وغير التجارية وقوائم الاسعار وبطاقات الدعوات والزيارات والتهنئة والشهادات والبطاقات والكروت الشخصية وبطاقات البريد.",
+    "target_en_norm": "a- commercial and non-commercial advertisements, price lists, invitations, greeting cards, certificates, business cards, and postcards.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30708,
+    "source_ar": "ب - البراءات والأسهم والمستندات والأوراق المالية والنقدية ونماذج عقود البيع والإيجار ونحوها.",
+    "target_en": "b- Patents, stocks, financial instruments and securities, banknotes, sale and lease contract forms, and the like.",
+    "source_ar_norm": "ب - البراءات والاسهم والمستندات والاوراق المالية والنقدية ونماذج عقود البيع والايجار ونحوها.",
+    "target_en_norm": "b- patents, stocks, financial instruments and securities, banknotes, sale and lease contract forms, and the like.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30709,
+    "source_ar": "ج - النماذج والاستبيانات الخاصة باستيفاء البيانات البحثية أو الإدارية أو التجارية الرسمية منها والخاصة.",
+    "target_en": "c- Forms and questionnaires for collecting data for research or for administrative or commercial purposes, whether for official or private use.",
+    "source_ar_norm": "ج - النماذج والاستبيانات الخاصة باستيفاء البيانات البحثية او الادارية او التجارية الرسمية منها والخاصة.",
+    "target_en_norm": "c- forms and questionnaires for collecting data for research or for administrative or commercial purposes, whether for official or private use.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30710,
+    "source_ar": "د - المطبوعات الحكومية ذات الطابع السري.",
+    "target_en": "d- Government publications of a confidential nature.",
+    "source_ar_norm": "د - المطبوعات الحكومية ذات الطابع السري.",
+    "target_en_norm": "d- government publications of a confidential nature.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30711,
+    "source_ar": "هـ - الأعمال الأخرى التي يحددها مجلس الأمناء.",
+    "target_en": "d- Other works as determined by the Board of Trustees.",
+    "source_ar_norm": "ه - الاعمال الاخري التي يحددها مجلس الامناء.",
+    "target_en_norm": "d- other works as determined by the board of trustees.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30712,
+    "source_ar": "المادة الثالثة: الملزمون بالإيداع",
+    "target_en": "Article 3: Persons Obligated to Deposit",
+    "source_ar_norm": "المادة الثالثة: الملزمون بالايداع",
+    "target_en_norm": "article 3: persons obligated to deposit",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30713,
+    "source_ar": "1 - يلزم بإيداع أوعية المعلومات وخلافها من المواد المذكورة في المادة الثانية الأشخاص الموضحون أدناه، وفقا للترتيب التالي:",
+    "target_en": "1- The following persons shall be obligated to deposit repositories of information and other materials provided for in Article 2, according to the following order:",
+    "source_ar_norm": "1 - يلزم بايداع اوعية المعلومات وخلافها من المواد المذكورة في المادة الثانية الاشخاص الموضحون ادناه، وفقا للترتيب التالي:",
+    "target_en_norm": "1- the following persons shall be obligated to deposit repositories of information and other materials provided for in article 2, according to the following order:",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30714,
+    "source_ar": "أ - المؤلف: إذا نشر عمله بنفسه بتمويل منه أو من غيره.",
+    "target_en": "a- The author: If he publishes the work himself, whether such work is funded by the author or by another party.",
+    "source_ar_norm": "ا - المؤلف: اذا نشر عمله بنفسه بتمويل منه او من غيره.",
+    "target_en_norm": "a- the author: if he publishes the work himself, whether such work is funded by the author or by another party.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30715,
+    "source_ar": "ب - الطابع: إذا قام بطباعة عمل من الأعمال على نفقته، أو ظهر اسم مطبعته على عمل لم يذكر اسم المؤلف أو الناشر فيه.",
+    "target_en": "b- The printer: If he prints the work at his own expense, or if the name of his printing press appears on the work that does not bear the name of the author or publisher.",
+    "source_ar_norm": "ب - الطابع: اذا قام بطباعة عمل من الاعمال علي نفقته، او ظهر اسم مطبعته علي عمل لم يذكر اسم المؤلف او الناشر فيه.",
+    "target_en_norm": "b- the printer: if he prints the work at his own expense, or if the name of his printing press appears on the work that does not bear the name of the author or publisher.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30716,
+    "source_ar": "ج - المنتج: إذا مول إنتاج عمل فني.",
+    "target_en": "c– The producer: If he funds the production of an artistic work.",
+    "source_ar_norm": "ج - المنتج: اذا مول انتاج عمل فني.",
+    "target_en_norm": "c– the producer: if he funds the production of an artistic work.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30717,
+    "source_ar": "د - الناشر: إذا نشر عملا من الأعمال مهما كان موضوعه وبأي شكل من الأشكال المقروءة أو المسموعة أو المرئية أو المسموعة المرئية.",
+    "target_en": "d- The publisher: If he publishes the work, regardless of its subject matter or form, whether written, audio, visual, or audiovisual.",
+    "source_ar_norm": "د - الناشر: اذا نشر عملا من الاعمال مهما كان موضوعه وباي شكل من الاشكال المقروءة او المسموعة او المرئية او المسموعة المرئية.",
+    "target_en_norm": "d- the publisher: if he publishes the work, regardless of its subject matter or form, whether written, audio, visual, or audiovisual.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30718,
+    "source_ar": "2 - يلزم بإيداع الرسائل الجامعية:",
+    "target_en": "2- The following entities shall be obligated to deposit theses and dissertations:",
+    "source_ar_norm": "2 - يلزم بايداع الرسائل الجامعية:",
+    "target_en_norm": "2- the following entities shall be obligated to deposit theses and dissertations:",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30719,
+    "source_ar": "أ - الجامعة أو الكلية أو المعهد المجيز للرسالة داخل المملكة.",
+    "target_en": "a- The university, college, or institute approving the thesis or dissertation within the Kingdom.",
+    "source_ar_norm": "ا - الجامعة او الكلية او المعهد المجيز للرسالة داخل المملكة.",
+    "target_en_norm": "a- the university, college, or institute approving the thesis or dissertation within the kingdom.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30720,
+    "source_ar": "ب - الملحقيات التعليمية أو الثقافية السعودية لرسائل السعوديين المجازة في الخارج.",
+    "target_en": "b- Saudi educational or cultural attachés with regards to approved theses or dissertations written by Saudi students abroad.",
+    "source_ar_norm": "ب - الملحقيات التعليمية او الثقافية السعودية لرسائل السعوديين المجازة في الخارج.",
+    "target_en_norm": "b- saudi educational or cultural attachés with regards to approved theses or dissertations written by saudi students abroad.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30721,
+    "source_ar": "المادة الرابعة: عدد النسخ الواجب إيداعها",
+    "target_en": "Article 4: Number of Copies to be Deposited",
+    "source_ar_norm": "المادة الرابعة: عدد النسخ الواجب ايداعها",
+    "target_en_norm": "article 4: number of copies to be deposited",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30722,
+    "source_ar": "يجب إيداع نسختين من كل عمل يخضع للإيداع، باستثناء الرسائل الجامعية والأعمال الفنية التي يحددها مجلس الأمناء فيكتفى بنسخة واحدة منها.",
+    "target_en": "Two copies of each work subject to deposit must be deposited; however, a single copy shall suffice for theses and dissertations as well as artistic works, as determined by the Board of Trustees.",
+    "source_ar_norm": "يجب ايداع نسختين من كل عمل يخضع للايداع، باستثناء الرسائل الجامعية والاعمال الفنية التي يحددها مجلس الامناء فيكتفي بنسخة واحدة منها.",
+    "target_en_norm": "two copies of each work subject to deposit must be deposited; however, a single copy shall suffice for theses and dissertations as well as artistic works, as determined by the board of trustees.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30723,
+    "source_ar": "المادة الخامسة: إجراءات الإيداع",
+    "target_en": "Article 5: Deposit Procedures",
+    "source_ar_norm": "المادة الخامسة: اجراءات الايداع",
+    "target_en_norm": "article 5: deposit procedures",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30724,
+    "source_ar": "1- يجب على المسئول عن إيداع الأعمال المذكورة في المادة الثانية قبل طباعتها أو تسجيلها أو إنتاجها استيفاء الإجراءات التالية:",
+    "target_en": "1- The person responsible for depositing the works referred to in Article 2 shall carry out the following procedures prior to printing, recording, or producing such works:",
+    "source_ar_norm": "1- يجب علي المسئول عن ايداع الاعمال المذكورة في المادة الثانية قبل طباعتها او تسجيلها او انتاجها استيفاء الاجراءات التالية:",
+    "target_en_norm": "1- the person responsible for depositing the works referred to in article 2 shall carry out the following procedures prior to printing, recording, or producing such works:",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30725,
+    "source_ar": "أ - تعبئة استمارة الإيداع وفقًا لنموذج تصدره المكتبة.",
+    "target_en": "a- Fill in the Library’s deposit form.",
+    "source_ar_norm": "ا - تعبئة استمارة الايداع وفقا لنموذج تصدره المكتبة.",
+    "target_en_norm": "a- fill in the library’s deposit form.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30726,
+    "source_ar": "ب - الحصول على رقم الإيداع.",
+    "target_en": "b- Obtain a deposit number.",
+    "source_ar_norm": "ب - الحصول علي رقم الايداع.",
+    "target_en_norm": "b- obtain a deposit number.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30727,
+    "source_ar": "ج - تضمين العمل:",
+    "target_en": "c- Include the following information in the work:",
+    "source_ar_norm": "ج - تضمين العمل:",
+    "target_en_norm": "c- include the following information in the work:",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30728,
+    "source_ar": "- رقم الإيداع.",
+    "target_en": "- Deposit number.",
+    "source_ar_norm": "- رقم الايداع.",
+    "target_en_norm": "- deposit number.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30729,
+    "source_ar": "- بيان مالك حق التأليف أو النشر أو الإنتاج.",
+    "target_en": "- Information on authorship, publishing, or production rights.",
+    "source_ar_norm": "- بيان مالك حق التاليف او النشر او الانتاج.",
+    "target_en_norm": "- information on authorship, publishing, or production rights.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30730,
+    "source_ar": "- الرقم المعياري الدولي في الأعمال التي تتطلب ذلك وفقًا لما يحدده مجلس الأمناء.",
+    "target_en": "– International Standard Number for works that require such number as determined by the Board of Trustees.",
+    "source_ar_norm": "- الرقم المعياري الدولي في الاعمال التي تتطلب ذلك وفقا لما يحدده مجلس الامناء.",
+    "target_en_norm": "– international standard number for works that require such number as determined by the board of trustees.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30731,
+    "source_ar": "- بيانات النشر أو الإنتاج كاملة.",
+    "target_en": "- Full publishing or production information.",
+    "source_ar_norm": "- بيانات النشر او الانتاج كاملة.",
+    "target_en_norm": "- full publishing or production information.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30732,
+    "source_ar": "2 - لا يسري حكم الفقرة السابقة على الأعمال المنصوص عليها في الفقرتين (3هـ) و (4) من المادة الثانية والصحف الرسمية وشبه الرسمية والأهلية، وكذلك كل ما يطبع أو ينشر أو ينتج للسعوديين أو الهيئات السعودية في الخارج.",
+    "target_en": "2- The provisions of the preceding paragraph shall not apply to the works provided for in Article 2(3)(e) and Article 2(4), nor to official and semi-official gazettes, and private newspapers, or any material printed, published, or produced for Saudis or Saudi agencies abroad.",
+    "source_ar_norm": "2 - لا يسري حكم الفقرة السابقة علي الاعمال المنصوص عليها في الفقرتين (3ه) و (4) من المادة الثانية والصحف الرسمية وشبه الرسمية والاهلية، وكذلك كل ما يطبع او ينشر او ينتج للسعوديين او الهيئات السعودية في الخارج.",
+    "target_en_norm": "2- the provisions of the preceding paragraph shall not apply to the works provided for in article 2(3)(e) and article 2(4), nor to official and semi-official gazettes, and private newspapers, or any material printed, published, or produced for saudis or saudi agencies abroad.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30733,
+    "source_ar": "3 - يلزم كافة المسئولين عن الإيداع أداء واجب الإيداع قبل طرح العمل للبيع أو التوزيع، وتستثنى من ذلك الصحف والمجلات السعودية، بحيث يتم إيداعها في يوم صدورها، والرسائل الجامعية ويتم إيداعها عقب إجازتها.",
+    "target_en": "3- All works must be deposited before offering them for sale or distribution by the persons obligated to deposit such works. Exempted from such requirement are Saudi newspapers and magazines, which must be deposited on the day of their issuance, and theses and dissertations, which must be deposited after their approval.",
+    "source_ar_norm": "3 - يلزم كافة المسئولين عن الايداع اداء واجب الايداع قبل طرح العمل للبيع او التوزيع، وتستثني من ذلك الصحف والمجلات السعودية، بحيث يتم ايداعها في يوم صدورها، والرسائل الجامعية ويتم ايداعها عقب اجازتها.",
+    "target_en_norm": "3- all works must be deposited before offering them for sale or distribution by the persons obligated to deposit such works. exempted from such requirement are saudi newspapers and magazines, which must be deposited on the day of their issuance, and theses and dissertations, which must be deposited after their approval.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30734,
+    "source_ar": "4 - مع مراعاة الفقرة الأولى من المادة السابعة يتم الإيداع بالتسليم المباشر لمكتبة الملك فهد الوطنية، أو بإرساله إليها بالبريد المسجل دون انتظار لمطالبة ترد منها في هذا الشأن، وتزود المكتبة المودع بإشعار بتسلم النسخ المطلوبة.",
+    "target_en": "4- Subject to Article 7(1), works shall be deposited with King Fahd National Library either in person or via registered mail even without a request being made by the Library. The Library shall provide the depositor with a receipt acknowledging the delivery of the required copies.",
+    "source_ar_norm": "4 - مع مراعاة الفقرة الاولي من المادة السابعة يتم الايداع بالتسليم المباشر لمكتبة الملك فهد الوطنية، او بارساله اليها بالبريد المسجل دون انتظار لمطالبة ترد منها في هذا الشان، وتزود المكتبة المودع باشعار بتسلم النسخ المطلوبة.",
+    "target_en_norm": "4- subject to article 7(1), works shall be deposited with king fahd national library either in person or via registered mail even without a request being made by the library. the library shall provide the depositor with a receipt acknowledging the delivery of the required copies.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30735,
+    "source_ar": "5 - تقوم الإدارة العامة للإيداع والتسجيل في مكتبة الملك فهد الوطنية بإدخال بيانات كافة المواد المودعة في قاعدة بيانات آلية تصدر المكتبة اعتمادًا عليها الببليوجرافيا الوطنية للمملكة.",
+    "target_en": "5- The Department for Deposit and Registration at King Fahd National Library shall enter the data of all deposited materials into an electronic database; the Library shall issue the Saudi National Bibliography based on such database.",
+    "source_ar_norm": "5 - تقوم الادارة العامة للايداع والتسجيل في مكتبة الملك فهد الوطنية بادخال بيانات كافة المواد المودعة في قاعدة بيانات الية تصدر المكتبة اعتمادا عليها الببليوجرافيا الوطنية للمملكة.",
+    "target_en_norm": "5- the department for deposit and registration at king fahd national library shall enter the data of all deposited materials into an electronic database; the library shall issue the saudi national bibliography based on such database.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30736,
+    "source_ar": "المادة السادسة: الجزاءات",
+    "target_en": "Article 6: Penalties",
+    "source_ar_norm": "المادة السادسة: الجزاءات",
+    "target_en_norm": "article 6: penalties",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30737,
+    "source_ar": "1- يعاقب من يخالف أحكام هذا النظام بغرامة لا تتجاوز ثلاثة آلاف ريال مع إلزامه بإيداع النسخ المطلوبة من العمل وفقًا لهذا النظام.",
+    "target_en": "1- Any person who violates the provisions of this Law shall be subject to a fine not exceeding three thousand riyals and shall be obligated to deposit the required copies of the work in accordance with this Law.",
+    "source_ar_norm": "1- يعاقب من يخالف احكام هذا النظام بغرامة لا تتجاوز ثلاثة الاف ريال مع الزامه بايداع النسخ المطلوبة من العمل وفقا لهذا النظام.",
+    "target_en_norm": "1- any person who violates the provisions of this law shall be subject to a fine not exceeding three thousand riyals and shall be obligated to deposit the required copies of the work in accordance with this law.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30738,
+    "source_ar": "2 - يتم ضبط المخالفات والتحقيق فيها وفقًا لقواعد يتم الاتفاق عليها بين وزارة الداخلية ووزارة الإعلام والمكتبة.",
+    "target_en": "2- Violations shall be detected, recorded, and investigated according to rules agreed upon by the Ministry of Interior, the Ministry of Media, and the Library.",
+    "source_ar_norm": "2 - يتم ضبط المخالفات والتحقيق فيها وفقا لقواعد يتم الاتفاق عليها بين وزارة الداخلية ووزارة الاعلام والمكتبة.",
+    "target_en_norm": "2- violations shall be detected, recorded, and investigated according to rules agreed upon by the ministry of interior, the ministry of media, and the library.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30739,
+    "source_ar": "3 - تشكل بقرار من مجلس الأمناء لجنة للنظر في هذه المخالفات لا يقل عدد أعضائها عن ثلاثة يكون أحدهم مستشارًا قانونيًّا.",
+    "target_en": "3- A committee shall be formed by a decision of the Board of Trustees to consider such violations; the committee shall comprise at least three members, one of whom shall be a legal advisor.",
+    "source_ar_norm": "3 - تشكل بقرار من مجلس الامناء لجنة للنظر في هذه المخالفات لا يقل عدد اعضائها عن ثلاثة يكون احدهم مستشارا قانونيا.",
+    "target_en_norm": "3- a committee shall be formed by a decision of the board of trustees to consider such violations; the committee shall comprise at least three members, one of whom shall be a legal advisor.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30740,
+    "source_ar": "4 - تصدر قرارات اللجنة بالأغلبية، ولا تصبح قراراتها نافذة إلا بعد مصادقة أمين المكتبة عليها.",
+    "target_en": "4- Decisions of the committee shall be passed by majority vote and shall not become effective until approved by the Secretary General.",
+    "source_ar_norm": "4 - تصدر قرارات اللجنة بالاغلبية، ولا تصبح قراراتها نافذة الا بعد مصادقة امين المكتبة عليها.",
+    "target_en_norm": "4- decisions of the committee shall be passed by majority vote and shall not become effective until approved by the secretary general.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30741,
+    "source_ar": "5 - يحق لمن صدر ضده قرار بالعقوبة التظلم أمام ديوان المظالم خلال ستين يومًا من تاريخ إبلاغه بقرار اللجنة.",
+    "target_en": "5- A person against whom a penalty decision is issued may appeal such decision before the Board of Grievances within 60 days from the date of notification thereof.",
+    "source_ar_norm": "5 - يحق لمن صدر ضده قرار بالعقوبة التظلم امام ديوان المظالم خلال ستين يوما من تاريخ ابلاغه بقرار اللجنة.",
+    "target_en_norm": "5- a person against whom a penalty decision is issued may appeal such decision before the board of grievances within 60 days from the date of notification thereof.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30742,
+    "source_ar": "المادة السابعة: أحكام عامة",
+    "target_en": "Article 7: General Provisions",
+    "source_ar_norm": "المادة السابعة: احكام عامة",
+    "target_en_norm": "article 7: general provisions",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30743,
+    "source_ar": "1- للمكتبة استيفاء إجراءات الإيداع بالتعاون مع المكتبات الحكومية في مناطق المملكة المختلفة، وذلك تيسيرًا لأداء واجب الإيداع.",
+    "target_en": "1- The Library may complete deposit procedures in conjunction with other government libraries across the Kingdom to facilitate compliance with the deposit requirement.",
+    "source_ar_norm": "1- للمكتبة استيفاء اجراءات الايداع بالتعاون مع المكتبات الحكومية في مناطق المملكة المختلفة، وذلك تيسيرا لاداء واجب الايداع.",
+    "target_en_norm": "1- the library may complete deposit procedures in conjunction with other government libraries across the kingdom to facilitate compliance with the deposit requirement.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30744,
+    "source_ar": "2 - يشترط في النسخ التي يتم إيداعها عملًا بهذا النظام أن تكون مطابقة لأفضل النسخ التي سوف يتم تداولها.",
+    "target_en": "2- The copies to be deposited pursuant to this Law must be the highest quality copies of the copies intended for circulation.",
+    "source_ar_norm": "2 - يشترط في النسخ التي يتم ايداعها عملا بهذا النظام ان تكون مطابقة لافضل النسخ التي سوف يتم تداولها.",
+    "target_en_norm": "2- the copies to be deposited pursuant to this law must be the highest quality copies of the copies intended for circulation.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30745,
+    "source_ar": "3 - لا يعتبر الإيداع في مكتبة الملك فهد الوطنية بديلًا عن أنواع الإيداع الأخرى التي تقرها الدولة.",
+    "target_en": "3- Deposit with King Fahd National Library shall not be deemed a substitute for any other type of deposit required by the State.",
+    "source_ar_norm": "3 - لا يعتبر الايداع في مكتبة الملك فهد الوطنية بديلا عن انواع الايداع الاخري التي تقرها الدولة.",
+    "target_en_norm": "3- deposit with king fahd national library shall not be deemed a substitute for any other type of deposit required by the state.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30746,
+    "source_ar": "4 - يلغي هذا النظام أحكام المادتين (12، 17) من نظام المطبوعات والنشر، الصادر بالمرسوم الملكي رقم (م/17) وتاريخ 13/ 4/ 1402هـ، وكذلك حكم المادة (26) من نظام حماية حقوق المؤلف، الصادر بالمرسوم الملكي رقم (م/11) وتاريخ 19/ 5/ 1410هـ، كما يلغي كل ما يتعارض معه.",
+    "target_en": "4-This Law shall repeal the provisions of Articles 12 and 17 of the Law of Printed Materials and Publication issued pursuant to Royal Decree No. M/17, dated 13/4/1402H, and the provision of Article 26 of the Copyright Law issued pursuant to Royal Decree No. M/11, dated 19/5/1410H, as well as any provisions conflicting therewith.",
+    "source_ar_norm": "4 - يلغي هذا النظام احكام المادتين (12، 17) من نظام المطبوعات والنشر، الصادر بالمرسوم الملكي رقم (م/17) وتاريخ 13/ 4/ 1402ه، وكذلك حكم المادة (26) من نظام حماية حقوق المؤلف، الصادر بالمرسوم الملكي رقم (م/11) وتاريخ 19/ 5/ 1410ه، كما يلغي كل ما يتعارض معه.",
+    "target_en_norm": "4-this law shall repeal the provisions of articles 12 and 17 of the law of printed materials and publication issued pursuant to royal decree no. m/17, dated 13/4/1402h, and the provision of article 26 of the copyright law issued pursuant to royal decree no. m/11, dated 19/5/1410h, as well as any provisions conflicting therewith.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30747,
+    "source_ar": "5 - لمجلس الأمناء بالمكتبة إصدار اللوائح التنفيذية والقرارات اللازمة لتنفيذ هذا النظام.",
+    "target_en": "5- The Library’s Board of Trustees shall issue the implementing regulations and the decisions necessary for the implementation of this Law.",
+    "source_ar_norm": "5 - لمجلس الامناء بالمكتبة اصدار اللوائح التنفيذية والقرارات اللازمة لتنفيذ هذا النظام.",
+    "target_en_norm": "5- the library’s board of trustees shall issue the implementing regulations and the decisions necessary for the implementation of this law.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30748,
+    "source_ar": "6 - ينشر هذا النظام في الجريدة الرسمية ويعمل به بعد شهر من تاريخ نشره.",
+    "target_en": "6- This Law shall be published in the Official Gazette and shall enter into force one month after the date of its publication.",
+    "source_ar_norm": "6 - ينشر هذا النظام في الجريدة الرسمية ويعمل به بعد شهر من تاريخ نشره.",
+    "target_en_norm": "6- this law shall be published in the official gazette and shall enter into force one month after the date of its publication.",
+    "file_name": "نظام الإيداع.docx"
+  },
+  {
+    "id": 30749,
+    "source_ar": "نظام الاتصالات",
+    "target_en": "Telecommunications Law",
+    "source_ar_norm": "نظام الاتصالات",
+    "target_en_norm": "telecommunications law",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30750,
+    "source_ar": "الفصل الأول",
+    "target_en": "Chapter One",
+    "source_ar_norm": "الفصل الاول",
+    "target_en_norm": "chapter one",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30751,
+    "source_ar": "تعريفات",
+    "target_en": "Definitions",
+    "source_ar_norm": "تعريفات",
+    "target_en_norm": "definitions",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30752,
+    "source_ar": "المادة الأولى",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي",
+    "target_en_norm": "article 1",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30753,
+    "source_ar": "يقصد بالعبارات والمصطلحات الآتية – أينما وردت في هذا النظام ولائحته التنفيذية – المعاني المبينة أمامها ما لم يقتض السياق خلاف ذلك :",
+    "target_en": "The following terms and expressions – wherever mentioned in this Law and its Implementing Regulations– shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "source_ar_norm": "يقصد بالعبارات والمصطلحات الاتية – اينما وردت في هذا النظام ولائحته التنفيذية – المعاني المبينة امامها ما لم يقتض السياق خلاف ذلك :",
+    "target_en_norm": "the following terms and expressions – wherever mentioned in this law and its implementing regulations– shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30754,
+    "source_ar": "المملكة: المملكة العربية السعودية.",
+    "target_en": "Kingdom: Kingdom of Saudi Arabia.",
+    "source_ar_norm": "المملكة: المملكة العربية السعودية.",
+    "target_en_norm": "kingdom: kingdom of saudi arabia.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30755,
+    "source_ar": "النظام: نظام الاتصالات.",
+    "target_en": "Law: Telecommunications Law",
+    "source_ar_norm": "النظام: نظام الاتصالات.",
+    "target_en_norm": "law: telecommunications law",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30756,
+    "source_ar": "اللائحة: اللائحة التنفيذية لهذا النظام.",
+    "target_en": "Regulations: Implementing regulations of this Law.",
+    "source_ar_norm": "اللائحة: اللائحة التنفيذية لهذا النظام.",
+    "target_en_norm": "regulations: implementing regulations of this law.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30757,
+    "source_ar": "التنظيم: تنظيم هيئة الاتصالات وتقنية المعلومات.",
+    "target_en": "Statute: Statute of CITC.",
+    "source_ar_norm": "التنظيم: تنظيم هيئة الاتصالات وتقنية المعلومات.",
+    "target_en_norm": "statute: statute of citc.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30758,
+    "source_ar": "الوزارة: وزارة الاتصالات وتقنية المعلومات.",
+    "target_en": "Ministry: Ministry of Communications and Information Technology.",
+    "source_ar_norm": "الوزارة: وزارة الاتصالات وتقنية المعلومات.",
+    "target_en_norm": "ministry: ministry of communications and information technology.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30759,
+    "source_ar": "الوزير: وزير الاتصالات وتقنية المعلومات.",
+    "target_en": "Minister: Minister of Communications and Information Technology.",
+    "source_ar_norm": "الوزير: وزير الاتصالات وتقنية المعلومات.",
+    "target_en_norm": "minister: minister of communications and information technology.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30760,
+    "source_ar": "الهيئة: هيئة الاتصالات وتقنية المعلومات.",
+    "target_en": "CITC: Communications and Information Technology Commission.",
+    "source_ar_norm": "الهيئة: هيئة الاتصالات وتقنية المعلومات.",
+    "target_en_norm": "citc: communications and information technology commission.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30761,
+    "source_ar": "المجلس: مجلس إدارة هيئة الاتصالات وتقنية المعلومات.",
+    "target_en": "Board: CITC Board of Directors.",
+    "source_ar_norm": "المجلس: مجلس ادارة هيئة الاتصالات وتقنية المعلومات.",
+    "target_en_norm": "board: citc board of directors.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30762,
+    "source_ar": "الاتصالات: توصيل إشارات بواسطة أجهزة سلكية أو لا سلكية بين نقاط بدء وانتهاء محددة بما في ذلك الإشارات عبر شبكة المعلومات العالمية (الإنترنت).",
+    "target_en": "Telecommunications: Transmission of signals, via wired or wireless devices, between specific terminal points including transmission via the Internet.",
+    "source_ar_norm": "الاتصالات: توصيل اشارات بواسطة اجهزة سلكية او لا سلكية بين نقاط بدء وانتهاء محددة بما في ذلك الاشارات عبر شبكة المعلومات العالمية (الانترنت).",
+    "target_en_norm": "telecommunications: transmission of signals, via wired or wireless devices, between specific terminal points including transmission via the internet.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30763,
+    "source_ar": "خدمة الاتصالات: نقل وتوجيه الإشارات جزئياً أو كلياً على شبكات الاتصالات العامة بما في ذلك البث الإذاعي والتلفزيوني وخدمات الإنترنت.",
+    "target_en": "Telecommunications Services: Transmitting and directing signals, wholly or partially, on public telecommunications networks, including radio and television broadcasting and Internet services.",
+    "source_ar_norm": "خدمة الاتصالات: نقل وتوجيه الاشارات جزئيا او كليا علي شبكات الاتصالات العامة بما في ذلك البث الاذاعي والتلفزيوني وخدمات الانترنت.",
+    "target_en_norm": "telecommunications services: transmitting and directing signals, wholly or partially, on public telecommunications networks, including radio and television broadcasting and internet services.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30764,
+    "source_ar": "شبكة الاتصالات: المنظومة المستخدمة لتوفير خدمة الاتصالات بما في ذلك المقاسم، والكابلات، والأبراج، والأجهزة اللاسلكية، والوسائل البصرية، والوسائل الكهرومغناطيسية، وأي أجهزة أخرى للاتصالات والمعدات المصاحبة لها.",
+    "target_en": "Telecommunications Network: The system used to provide telecommunications services, including switchboards, cables, towers, wireless devices, optical or electromagnetic means, and any other telecommunications devices and related equipment.",
+    "source_ar_norm": "شبكة الاتصالات: المنظومة المستخدمة لتوفير خدمة الاتصالات بما في ذلك المقاسم، والكابلات، والابراج، والاجهزة اللاسلكية، والوسائل البصرية، والوسائل الكهرومغناطيسية، واي اجهزة اخري للاتصالات والمعدات المصاحبة لها.",
+    "target_en_norm": "telecommunications network: the system used to provide telecommunications services, including switchboards, cables, towers, wireless devices, optical or electromagnetic means, and any other telecommunications devices and related equipment.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30765,
+    "source_ar": "الخدمة الشاملة: توفير الحد الأدنى من خدمات الاتصالات بنوعية وسعر مناسبين لجميع المستخدمين.",
+    "target_en": "Universal Service: Providing the minimum telecommunications services at prices and quality suitable for all users.",
+    "source_ar_norm": "الخدمة الشاملة: توفير الحد الادني من خدمات الاتصالات بنوعية وسعر مناسبين لجميع المستخدمين.",
+    "target_en_norm": "universal service: providing the minimum telecommunications services at prices and quality suitable for all users.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30766,
+    "source_ar": "حق الاستخدام الشامل: إتاحة الفرصة لجميع المستخدمين في المملكة للاستفادة من الحد الأدنى من خدمات الاتصالات ذات الجودة المناسبة، وضمن مساحة جغرافية محددة، وبسعر مناسب.",
+    "target_en": "Universal Access: Providing all users in the Kingdom access to the minimum communication services of reasonable quality, within a specific geographic range and at a reasonable price.",
+    "source_ar_norm": "حق الاستخدام الشامل: اتاحة الفرصة لجميع المستخدمين في المملكة للاستفادة من الحد الادني من خدمات الاتصالات ذات الجودة المناسبة، وضمن مساحة جغرافية محددة، وبسعر مناسب.",
+    "target_en_norm": "universal access: providing all users in the kingdom access to the minimum communication services of reasonable quality, within a specific geographic range and at a reasonable price.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30767,
+    "source_ar": "المشغل (مقدم الخدمة): كل من يرخص له بتقديم خدمة اتصالات عامة أو تشغيل شبكة اتصالات تستخدم لتقديم مثل تلك الخدمة.",
+    "target_en": "Operator (Service Provider): Any party licensed to provide public telecommunications services or to operate a telecommunications network for such services.",
+    "source_ar_norm": "المشغل (مقدم الخدمة): كل من يرخص له بتقديم خدمة اتصالات عامة او تشغيل شبكة اتصالات تستخدم لتقديم مثل تلك الخدمة.",
+    "target_en_norm": "operator (service provider): any party licensed to provide public telecommunications services or to operate a telecommunications network for such services.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30768,
+    "source_ar": "المشغل المسيطر: المشغل الذي تغطي خدمته نسبة (40%) على الأقل من سوق اتصال في المملكة ، وللهيئة تغيير هذه النسبة وفقاً لأوضاع السوق.",
+    "target_en": "Dominant Operator: The operator whose service covers at least 40% of a specific telecommunications market in the Kingdom. CITC may change such percentage according to market conditions.",
+    "source_ar_norm": "المشغل المسيطر: المشغل الذي تغطي خدمته نسبة (40%) علي الاقل من سوق اتصال في المملكة ، وللهيئة تغيير هذه النسبة وفقا لاوضاع السوق.",
+    "target_en_norm": "dominant operator: the operator whose service covers at least 40% of a specific telecommunications market in the kingdom. citc may change such percentage according to market conditions.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30769,
+    "source_ar": "المستخدم: الشخص ذو الصفة الطبيعية أو المعنوية الذي يستخدم خدمات الاتصالات.",
+    "target_en": "User: A natural or legal person using telecommunications services.",
+    "source_ar_norm": "المستخدم: الشخص ذو الصفة الطبيعية او المعنوية الذي يستخدم خدمات الاتصالات.",
+    "target_en_norm": "user: a natural or legal person using telecommunications services.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30770,
+    "source_ar": "التردد: عدد الدورات الكاملة للموجة اللاسلكية في الثانية الواحدة.",
+    "target_en": "Frequency: The number of full cycles for a wireless wave per second.",
+    "source_ar_norm": "التردد: عدد الدورات الكاملة للموجة اللاسلكية في الثانية الواحدة.",
+    "target_en_norm": "frequency: the number of full cycles for a wireless wave per second.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30771,
+    "source_ar": "الطيف الترددي: نطاق الترددات التي يمكن استخدامها في الاتصال اللاسلكي طبقاً لأنظمة الراديو (اللاسلكي) الدولية.",
+    "target_en": "Frequency Spectrum: The scope of frequencies that can be used in wireless communication according to international radio (wireless) systems.",
+    "source_ar_norm": "الطيف الترددي: نطاق الترددات التي يمكن استخدامها في الاتصال اللاسلكي طبقا لانظمة الراديو (اللاسلكي) الدولية.",
+    "target_en_norm": "frequency spectrum: the scope of frequencies that can be used in wireless communication according to international radio (wireless) systems.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30772,
+    "source_ar": "الخطة الوطنية للطيف الترددي (الترددات): الخطة التي تعدها الهيئة ويقرها مجلس الوزراء لتوزيع استخدام الطيف الترددي على الجهات المعنية.",
+    "target_en": "National Frequency Spectrum Plan (Frequencies): The plan prepared by CITC and approved by the Council of Ministers to distribute the use of the frequency spectrum among concerned parties.",
+    "source_ar_norm": "الخطة الوطنية للطيف الترددي (الترددات): الخطة التي تعدها الهيئة ويقرها مجلس الوزراء لتوزيع استخدام الطيف الترددي علي الجهات المعنية.",
+    "target_en_norm": "national frequency spectrum plan (frequencies): the plan prepared by citc and approved by the council of ministers to distribute the use of the frequency spectrum among concerned parties.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30773,
+    "source_ar": "الترقيم: هو نسق من الأرقام المسلسلة يحدد نقطة نهائية مقصودة في شبكة الاتصالات العامة، ويتضمن المعلومات الضرورية لتوجيه الاتصالات إلى هذه النقطة النهائية.",
+    "target_en": "Numbering: The serial numbering used to determine an intended termination point in the public telecommunications network, including information necessary for directing telecommunications to said terminal point.",
+    "source_ar_norm": "الترقيم: هو نسق من الارقام المسلسلة يحدد نقطة نهائية مقصودة في شبكة الاتصالات العامة، ويتضمن المعلومات الضرورية لتوجيه الاتصالات الي هذه النقطة النهائية.",
+    "target_en_norm": "numbering: the serial numbering used to determine an intended termination point in the public telecommunications network, including information necessary for directing telecommunications to said terminal point.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30774,
+    "source_ar": "الخطة الوطنية للترقيم: الخطة التي تعدها الهيئة لتحديد نطاق الأرقام المستخدمة في مختلف خدمات الاتصالات.",
+    "target_en": "National Numbering Plan: The plan prepared by CITC to identify the scope of numbers used in different telecommunications services.",
+    "source_ar_norm": "الخطة الوطنية للترقيم: الخطة التي تعدها الهيئة لتحديد نطاق الارقام المستخدمة في مختلف خدمات الاتصالات.",
+    "target_en_norm": "national numbering plan: the plan prepared by citc to identify the scope of numbers used in different telecommunications services.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30775,
+    "source_ar": "الفصل الثاني",
+    "target_en": "Chapter Two",
+    "source_ar_norm": "الفصل الثاني",
+    "target_en_norm": "chapter two",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30776,
+    "source_ar": "أحكام عامة",
+    "target_en": "General Provisions",
+    "source_ar_norm": "احكام عامة",
+    "target_en_norm": "general provisions",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30777,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30778,
+    "source_ar": "يتم الإشراف على قطاع الاتصالات وفقاً للآتي :",
+    "target_en": "Supervision of the telecommunications sector shall be as follows:",
+    "source_ar_norm": "يتم الاشراف علي قطاع الاتصالات وفقا للاتي :",
+    "target_en_norm": "supervision of the telecommunications sector shall be as follows:",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30779,
+    "source_ar": "تقوم الوزارة بوضع السياسات العامة والخطط والبرامج التطويرية لقطاع الاتصالات، وبرفع طلب منح التراخيص التي يقتضيها هذا النظام، ومشاريع الأنظمة وتعديلاتها، والتنسيق مع الجهات المعنية فيما يتعلق بالخدمات المقدمة للجهات الحكومية، وتمثيل المملكة في الهيئات المحلية والإقليمية والدولية في قطاع الاتصالات، ولها أن تمنح صلاحية التمثيل للهيئة والجهات الأخرى التي تراها، والمصادقة على القواعد والأسس والشروط المتعلقة بالخدمة الشاملة وحق الاستخدام الشامل التي تقترحها الهيئة.",
+    "target_en": "1. The Ministry shall set public policies and development plans and programs for the telecommunications sector; submit the license applications required by this Law and draft laws and amendments thereto; coordinate with concerned parties regarding the services provided to government bodies; and represent the Kingdom before local, regional, and international telecommunications bodies, and may delegate such power to CITC or any other agency it deems appropriate; and approve rules, principles, and conditions related to Universal Service and Universal Access as proposed by CITC.",
+    "source_ar_norm": "تقوم الوزارة بوضع السياسات العامة والخطط والبرامج التطويرية لقطاع الاتصالات، وبرفع طلب منح التراخيص التي يقتضيها هذا النظام، ومشاريع الانظمة وتعديلاتها، والتنسيق مع الجهات المعنية فيما يتعلق بالخدمات المقدمة للجهات الحكومية، وتمثيل المملكة في الهيئات المحلية والاقليمية والدولية في قطاع الاتصالات، ولها ان تمنح صلاحية التمثيل للهيئة والجهات الاخري التي تراها، والمصادقة علي القواعد والاسس والشروط المتعلقة بالخدمة الشاملة وحق الاستخدام الشامل التي تقترحها الهيئة.",
+    "target_en_norm": "1. the ministry shall set public policies and development plans and programs for the telecommunications sector; submit the license applications required by this law and draft laws and amendments thereto; coordinate with concerned parties regarding the services provided to government bodies; and represent the kingdom before local, regional, and international telecommunications bodies, and may delegate such power to citc or any other agency it deems appropriate; and approve rules, principles, and conditions related to universal service and universal access as proposed by citc.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30780,
+    "source_ar": "تقوم الهيئة بالمهام الموكلة إليها بمقتضى هذا النظام والتنظيم ولوائحهما.",
+    "target_en": "2. CITC shall assume the duties assigned thereto under this Law, the Statute, and their Regulations.",
+    "source_ar_norm": "تقوم الهيئة بالمهام الموكلة اليها بمقتضي هذا النظام والتنظيم ولوائحهما.",
+    "target_en_norm": "2. citc shall assume the duties assigned thereto under this law, the statute, and their regulations.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30781,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30782,
+    "source_ar": "يتم تنظيم قطاع الاتصالات بموجب هذا النظام وبما يتوافق والأغراض الآتية :",
+    "target_en": "The telecommunications sector shall be regulated in accordance with this Law and in line with the following purposes:",
+    "source_ar_norm": "يتم تنظيم قطاع الاتصالات بموجب هذا النظام وبما يتوافق والاغراض الاتية :",
+    "target_en_norm": "the telecommunications sector shall be regulated in accordance with this law and in line with the following purposes:",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30783,
+    "source_ar": "توفير خدمات اتصالات متطورة وكافية وبأسعار مناسبة.",
+    "target_en": "1- Providing advanced and adequate telecommunications services at reasonable prices;",
+    "source_ar_norm": "توفير خدمات اتصالات متطورة وكافية وباسعار مناسبة.",
+    "target_en_norm": "1- providing advanced and adequate telecommunications services at reasonable prices;",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30784,
+    "source_ar": "ضمان حق الوصول إلى شبكات الاتصالات العامة وأجهزتها وخدماتها بأسعار معقولة.",
+    "target_en": "2- Ensuring access to public telecommunications networks, devices, and services at reasonable prices;",
+    "source_ar_norm": "ضمان حق الوصول الي شبكات الاتصالات العامة واجهزتها وخدماتها باسعار معقولة.",
+    "target_en_norm": "2- ensuring access to public telecommunications networks, devices, and services at reasonable prices;",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30785,
+    "source_ar": "إيجاد المناخ المناسب للمنافسة العادلة والفعالة وتشجيعها في جميع مجالات الاتصالات.",
+    "target_en": "3- Creating and promoting a fair and competitive environment in all telecommunications fields;",
+    "source_ar_norm": "ايجاد المناخ المناسب للمنافسة العادلة والفعالة وتشجيعها في جميع مجالات الاتصالات.",
+    "target_en_norm": "3- creating and promoting a fair and competitive environment in all telecommunications fields;",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30786,
+    "source_ar": "استخدام الترددات بصورة فعالة ودون تداخلات بينها.",
+    "target_en": "4- Achieving effective and interference-free usage of frequencies;",
+    "source_ar_norm": "استخدام الترددات بصورة فعالة ودون تداخلات بينها.",
+    "target_en_norm": "4- achieving effective and interference-free usage of frequencies;",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30787,
+    "source_ar": "الاستخدام الفعال لخطة الترقيم الوطنية.",
+    "target_en": "5- Using effective use of the National Numbering Plan;",
+    "source_ar_norm": "الاستخدام الفعال لخطة الترقيم الوطنية.",
+    "target_en_norm": "5- using effective use of the national numbering plan;",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30788,
+    "source_ar": "تحقيق الوضوح والشفافية في الإجراءات.",
+    "target_en": "6- Achieving clarity and transparency in all procedures;",
+    "source_ar_norm": "تحقيق الوضوح والشفافية في الاجراءات.",
+    "target_en_norm": "6- achieving clarity and transparency in all procedures;",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30789,
+    "source_ar": "تحقيق مبادئ المساواة وعدم التمييز.",
+    "target_en": "7- Observing the principles of equality and non- discrimination;",
+    "source_ar_norm": "تحقيق مبادئ المساواة وعدم التمييز.",
+    "target_en_norm": "7- observing the principles of equality and non- discrimination;",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30790,
+    "source_ar": "حماية المصلحة العامة ومصالح المستخدمين والمحافظة على سرية الاتصالات وأمن المعلومات.",
+    "target_en": "8- Protecting public interest, interests of users, and confidentiality of communications as well as maintaining information security;",
+    "source_ar_norm": "حماية المصلحة العامة ومصالح المستخدمين والمحافظة علي سرية الاتصالات وامن المعلومات.",
+    "target_en_norm": "8- protecting public interest, interests of users, and confidentiality of communications as well as maintaining information security;",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30791,
+    "source_ar": "نقل تقنية الاتصالات وتوطينها ومواكبة تقدمها.",
+    "target_en": "9- Transferring and nationalizing telecommunications technology and keeping abreast with developments thereof;",
+    "source_ar_norm": "نقل تقنية الاتصالات وتوطينها ومواكبة تقدمها.",
+    "target_en_norm": "9- transferring and nationalizing telecommunications technology and keeping abreast with developments thereof;",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30792,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30793,
+    "source_ar": "لا يجوز تقديم خدمات الاتصالات الخاصة بالهاتف الجوال إلا عن طريق شركات مساهمة تطرح أسهمها للاكتتاب العام.",
+    "target_en": "Mobile phone services shall only be provided through joint-stock companies offering their shares in an initial public offering.",
+    "source_ar_norm": "لا يجوز تقديم خدمات الاتصالات الخاصة بالهاتف الجوال الا عن طريق شركات مساهمة تطرح اسهمها للاكتتاب العام.",
+    "target_en_norm": "mobile phone services shall only be provided through joint-stock companies offering their shares in an initial public offering.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30794,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30795,
+    "source_ar": "يخضع الترخيص لتقديم خدمات الاتصالات الخاصة بالهاتف الجوال لموافقة مجلس الوزراء.",
+    "target_en": "Licenses to provide mobile phone telecommunications services shall be subject to the approval of the Council of Ministers.",
+    "source_ar_norm": "يخضع الترخيص لتقديم خدمات الاتصالات الخاصة بالهاتف الجوال لموافقة مجلس الوزراء.",
+    "target_en_norm": "licenses to provide mobile phone telecommunications services shall be subject to the approval of the council of ministers.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30796,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30797,
+    "source_ar": "يتم استحصال مقابل مالي لصالح الخزينة العامة نظير تقديم الخدمات تجارياً، وإصدار التراخيص للمشغلين، والسماح لهم باستخدام الترددات بموجب قرار يصدر من مجلس الوزراء.",
+    "target_en": "A financial consideration shall be collected for the public treasury for providing services commercially, licensing operators, and allowing them to use frequencies pursuant to a decision issued by the Council of Ministers.",
+    "source_ar_norm": "يتم استحصال مقابل مالي لصالح الخزينة العامة نظير تقديم الخدمات تجاريا، واصدار التراخيص للمشغلين، والسماح لهم باستخدام الترددات بموجب قرار يصدر من مجلس الوزراء.",
+    "target_en_norm": "a financial consideration shall be collected for the public treasury for providing services commercially, licensing operators, and allowing them to use frequencies pursuant to a decision issued by the council of ministers.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30798,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30799,
+    "source_ar": "تضع الهيئة الأسس والقواعد الخاصة بتحديد المقابل المالي لخدمات الاتصالات بالقدر الذي يقتضيه وضع المنافسة، وتبين اللائحة الضوابط اللازمة لذلك.",
+    "target_en": "CITC shall set principles and rules for determining the financial consideration for telecommunications services in a manner that maintains a competitive market. The Regulations shall specify necessary controls.",
+    "source_ar_norm": "تضع الهيئة الاسس والقواعد الخاصة بتحديد المقابل المالي لخدمات الاتصالات بالقدر الذي يقتضيه وضع المنافسة، وتبين اللائحة الضوابط اللازمة لذلك.",
+    "target_en_norm": "citc shall set principles and rules for determining the financial consideration for telecommunications services in a manner that maintains a competitive market. the regulations shall specify necessary controls.",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  },
+  {
+    "id": 30800,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "نظام الاتصالات (قديم).docx"
+  }
+]

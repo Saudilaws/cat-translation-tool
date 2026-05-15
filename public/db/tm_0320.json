@@ -1,0 +1,802 @@
+[
+  {
+    "id": 31901,
+    "source_ar": "1. دون إخلال بما تقضي به الأنظمة ذات العلاقة، يتمتع المستثمر بالحقوق الآتية:",
+    "target_en": "1. Without prejudice to the provisions of relevant laws, an investor shall have the following rights:",
+    "source_ar_norm": "1. دون اخلال بما تقضي به الانظمة ذات العلاقة، يتمتع المستثمر بالحقوق الاتية:",
+    "target_en_norm": "1. without prejudice to the provisions of relevant laws, an investor shall have the following rights:",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31902,
+    "source_ar": "أ- مساواته في التعامل مع المستثمرين الآخرين، والمساواة في التعامل بين المستثمر المحلي والأجنبي؛ وذلك في الظروف المماثلة.",
+    "target_en": "a) He shall be treated equally to other investors, and local and foreign investors shall be treated equally, under similar circumstances.",
+    "source_ar_norm": "ا- مساواته في التعامل مع المستثمرين الاخرين، والمساواة في التعامل بين المستثمر المحلي والاجنبي؛ وذلك في الظروف المماثلة.",
+    "target_en_norm": "a) he shall be treated equally to other investors, and local and foreign investors shall be treated equally, under similar circumstances.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31903,
+    "source_ar": "ب- معاملته معاملة عادلة ومنصفة.",
+    "target_en": "b) He shall be treated fairly and justly.",
+    "source_ar_norm": "ب- معاملته معاملة عادلة ومنصفة.",
+    "target_en_norm": "b) he shall be treated fairly and justly.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31904,
+    "source_ar": "ج- عدم مصادرة استثماره كليًّا أو جزئيًّا إلا بحكم قضائي نهائي، وعدم نزع ملكيته بشكل مباشر أو غير مباشر؛ إلا للمصلحة العامة ووفقًا للإجراءات النظامية ومقابل تعويض عادل.",
+    "target_en": "c) His investment may not be fully or partially confiscated except pursuant to a final judicial ruling, nor may such investment be directly or indirectly expropriated except for public interest, in accordance with legal procedures and in return for fair compensation.",
+    "source_ar_norm": "ج- عدم مصادرة استثماره كليا او جزئيا الا بحكم قضائي نهائي، وعدم نزع ملكيته بشكل مباشر او غير مباشر؛ الا للمصلحة العامة ووفقا للاجراءات النظامية ومقابل تعويض عادل.",
+    "target_en_norm": "c) his investment may not be fully or partially confiscated except pursuant to a final judicial ruling, nor may such investment be directly or indirectly expropriated except for public interest, in accordance with legal procedures and in return for fair compensation.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31905,
+    "source_ar": "د- حرية تحويل أمواله داخل المملكة وخارجها دون تأخير -بما في ذلك على سبيل المثال لا الحصر تحويل عائدات استثماره وأرباحه وبيعه أو تصفيته- عبر القنوات النظامية باستخدام أي عملة معترف بها، والتصرف بها بأي وسيلة مشروعة أخرى.",
+    "target_en": "d) He shall have the right to transfer his funds within or outside the Kingdom without delay; this shall include, but shall not be limited to, transferring the proceeds of his investment and the profits gained therefrom as well as the proceeds of the sale or liquidation thereof through legal channels using any recognized currency, and disposing of such funds through any other lawful means.",
+    "source_ar_norm": "د- حرية تحويل امواله داخل المملكة وخارجها دون تاخير -بما في ذلك علي سبيل المثال لا الحصر تحويل عائدات استثماره وارباحه وبيعه او تصفيته- عبر القنوات النظامية باستخدام اي عملة معترف بها، والتصرف بها باي وسيلة مشروعة اخري.",
+    "target_en_norm": "d) he shall have the right to transfer his funds within or outside the kingdom without delay; this shall include, but shall not be limited to, transferring the proceeds of his investment and the profits gained therefrom as well as the proceeds of the sale or liquidation thereof through legal channels using any recognized currency, and disposing of such funds through any other lawful means.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31906,
+    "source_ar": "هـ- حرية إدارة استثماره، والتصرف النظامي به، وتملك ما يلزم لتسيير أعماله.",
+    "target_en": "e) He shall have the right to manage his investment, dispose of such investment in accordance with the law, and own any property necessary for the conduct of his business.",
+    "source_ar_norm": "ه- حرية ادارة استثماره، والتصرف النظامي به، وتملك ما يلزم لتسيير اعماله.",
+    "target_en_norm": "e) he shall have the right to manage his investment, dispose of such investment in accordance with the law, and own any property necessary for the conduct of his business.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31907,
+    "source_ar": "و- حماية الملكية الفكرية والمعلومات التجارية السرية.",
+    "target_en": "f) Protection of his intellectual property and trade secrets.",
+    "source_ar_norm": "و- حماية الملكية الفكرية والمعلومات التجارية السرية.",
+    "target_en_norm": "f) protection of his intellectual property and trade secrets.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31908,
+    "source_ar": "ز- تيسير إجراءاته الإدارية وتقديم الدعم والمساعدة اللازمة له من قبل الجهة المختصة.",
+    "target_en": "g) Facilitation of administrative procedures and provision of necessary support and assistance by the competent authority.",
+    "source_ar_norm": "ز- تيسير اجراءاته الادارية وتقديم الدعم والمساعدة اللازمة له من قبل الجهة المختصة.",
+    "target_en_norm": "g) facilitation of administrative procedures and provision of necessary support and assistance by the competent authority.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31909,
+    "source_ar": "2. على الجهة المختصة عند اتخاذ أي تدابير لتحقيق المصلحة العامة -بما في ذلك التدابير اللازمة للوفاء بالالتزامات الدولية للمملكة أو المحافظة على النظام العام أو لاعتبارات الأمن الوطني- مراعاة الحقوق المنصوص عليها في الفقرة (1) من هذه المادة.",
+    "target_en": "2. The competent authority shall, upon taking any measures for public interest, including measures necessary to fulfill the Kingdom's international obligations, maintain public order, or protect national security, observe the rights stipulated in paragraph (1) of this Article.",
+    "source_ar_norm": "2. علي الجهة المختصة عند اتخاذ اي تدابير لتحقيق المصلحة العامة -بما في ذلك التدابير اللازمة للوفاء بالالتزامات الدولية للمملكة او المحافظة علي النظام العام او لاعتبارات الامن الوطني- مراعاة الحقوق المنصوص عليها في الفقرة (1) من هذه المادة.",
+    "target_en_norm": "2. the competent authority shall, upon taking any measures for public interest, including measures necessary to fulfill the kingdom's international obligations, maintain public order, or protect national security, observe the rights stipulated in paragraph (1) of this article.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31910,
+    "source_ar": "3. توفر الوزارة للمستثمر -وفقًا لما تحدده اللائحة- أي معلومات أو بيانات إحصائية متاحة، وتقدم له الخدمات اللازمة لتسهيل أي إجراءات متعلقة باستثماره، وتسعى لمعالجة الشكاوى التي يتقدم بها، وفقًا لإجراءات واضحة وشفافة.",
+    "target_en": "3. The Ministry shall, as specified in the Regulations, provide the investor with any available information or statistical data as well as the necessary services to facilitate any procedures relating to his investment, and shall seek to resolve complaints filed thereby, in accordance with clear and transparent procedures.",
+    "source_ar_norm": "3. توفر الوزارة للمستثمر -وفقا لما تحدده اللائحة- اي معلومات او بيانات احصائية متاحة، وتقدم له الخدمات اللازمة لتسهيل اي اجراءات متعلقة باستثماره، وتسعي لمعالجة الشكاوي التي يتقدم بها، وفقا لاجراءات واضحة وشفافة.",
+    "target_en_norm": "3. the ministry shall, as specified in the regulations, provide the investor with any available information or statistical data as well as the necessary services to facilitate any procedures relating to his investment, and shall seek to resolve complaints filed thereby, in accordance with clear and transparent procedures.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31911,
+    "source_ar": "المادة الخامسة: التزامات المستثمر:",
+    "target_en": "Article 5: Obligations of Investors",
+    "source_ar_norm": "المادة الخامسة: التزامات المستثمر:",
+    "target_en_norm": "article 5: obligations of investors",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31912,
+    "source_ar": "يلتزم المستثمر بالتقيد بكافة الأنظمة والتشريعات في المملكة، وبالتزاماتها بموجب الاتفاقيات الدولية التي تكون طرفًا فيها.",
+    "target_en": "The investor shall comply with all the laws and legislations applicable in the Kingdom and with the Kingdom’s obligations under international agreements to which it is a party.",
+    "source_ar_norm": "يلتزم المستثمر بالتقيد بكافة الانظمة والتشريعات في المملكة، وبالتزاماتها بموجب الاتفاقيات الدولية التي تكون طرفا فيها.",
+    "target_en_norm": "the investor shall comply with all the laws and legislations applicable in the kingdom and with the kingdom’s obligations under international agreements to which it is a party.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31913,
+    "source_ar": "المادة السادسة: المحفزات الاستثمارية:",
+    "target_en": "Article 6: Investment Incentives",
+    "source_ar_norm": "المادة السادسة: المحفزات الاستثمارية:",
+    "target_en_norm": "article 6: investment incentives",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31914,
+    "source_ar": "دون إخلال بما تقضي به الأنظمة ذات العلاقة، يكون منح المحفزات الاستثمارية للمستثمر من الجهة المختصة وفقًا لمعايير استحقاق موضوعية محددة وعادلة، وتحدد اللائحة الأحكام اللازمة لإنفاذ ذلك.",
+    "target_en": "Without prejudice to relevant laws, the competent authority shall grant investment incentives to investors in accordance with objective and fair eligibility criteria. The Regulations shall specify the provisions necessary for the implementation of this provision.",
+    "source_ar_norm": "دون اخلال بما تقضي به الانظمة ذات العلاقة، يكون منح المحفزات الاستثمارية للمستثمر من الجهة المختصة وفقا لمعايير استحقاق موضوعية محددة وعادلة، وتحدد اللائحة الاحكام اللازمة لانفاذ ذلك.",
+    "target_en_norm": "without prejudice to relevant laws, the competent authority shall grant investment incentives to investors in accordance with objective and fair eligibility criteria. the regulations shall specify the provisions necessary for the implementation of this provision.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31915,
+    "source_ar": "المادة السابعة: التسجيل:",
+    "target_en": "Article 7: Registration",
+    "source_ar_norm": "المادة السابعة: التسجيل:",
+    "target_en_norm": "article 7: registration",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31916,
+    "source_ar": "1. تنشئ الوزارة سجلاً وطنيًّا للمستثمرين، وتقيَّد فيه جميع المعلومات والبيانات المتعلقة باستثماراتهم، وتتولى إدارته وتحديثه والمحافظة على سريته.",
+    "target_en": "1. The Ministry shall establish a national register for investors in which all the information and data relating to their investments are entered. The Ministry shall manage and update said register and maintain its confidentiality.",
+    "source_ar_norm": "1. تنشئ الوزارة سجلا وطنيا للمستثمرين، وتقيد فيه جميع المعلومات والبيانات المتعلقة باستثماراتهم، وتتولي ادارته وتحديثه والمحافظة علي سريته.",
+    "target_en_norm": "1. the ministry shall establish a national register for investors in which all the information and data relating to their investments are entered. the ministry shall manage and update said register and maintain its confidentiality.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31917,
+    "source_ar": "2. على المستثمر الأجنبي التسجيل لدى الوزارة قبل القيام بأي استثمار؛ وفقًا لما تحدده اللائحة. ولا يسري ذلك على الاستثمار في الأوراق المالية الخاضعة لأحكام نظام السوق المالية.",
+    "target_en": "2. A foreign investor shall register with the Ministry prior to engaging in any investment, as specified in the Regulations. This shall not apply to investments in securities that are subject to the provisions of the Capital Market Law.",
+    "source_ar_norm": "2. علي المستثمر الاجنبي التسجيل لدي الوزارة قبل القيام باي استثمار؛ وفقا لما تحدده اللائحة. ولا يسري ذلك علي الاستثمار في الاوراق المالية الخاضعة لاحكام نظام السوق المالية.",
+    "target_en_norm": "2. a foreign investor shall register with the ministry prior to engaging in any investment, as specified in the regulations. this shall not apply to investments in securities that are subject to the provisions of the capital market law.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31918,
+    "source_ar": "3. على الجهة المختصة تزويد الوزارة بما تحتاجه من معلومات أو بيانات لإنشاء السجل المنصوص عليه في الفقرة (1) من هذه المادة أو تحديثه، ووفقًا للآلية التي تحددها اللائحة، وللوزارة التواصل مع الجهة المختصة في سبيل استكمال أي متطلبات لإنشاء ذلك السجل أو تحديثه.",
+    "target_en": "3. The competent authority shall provide the Ministry with any information or data required to establish or update the register provided for in paragraph (1) of this Article, in accordance with the manner specified in the Regulations. The Ministry may communicate with the competent authority to satisfy any requirements for establishing or updating said register.",
+    "source_ar_norm": "3. علي الجهة المختصة تزويد الوزارة بما تحتاجه من معلومات او بيانات لانشاء السجل المنصوص عليه في الفقرة (1) من هذه المادة او تحديثه، ووفقا للالية التي تحددها اللائحة، وللوزارة التواصل مع الجهة المختصة في سبيل استكمال اي متطلبات لانشاء ذلك السجل او تحديثه.",
+    "target_en_norm": "3. the competent authority shall provide the ministry with any information or data required to establish or update the register provided for in paragraph (1) of this article, in accordance with the manner specified in the regulations. the ministry may communicate with the competent authority to satisfy any requirements for establishing or updating said register.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31919,
+    "source_ar": "4. للوزارة، من خلال مركز الخدمة الشاملة المنشأ فيها، استقبال طلبات المستثمر لإصدار أي من الموافقات النظامية اللازمة لممارسة نشاط استثماري بما في ذلك أي تراخيص أو تصاريح. وتتولى الوزارة التنسيق مع الجهة المختصة بإصدار أي من تلك الموافقات للتأكد من استيفاء المستثمر للاشتراطات النظامية لها.",
+    "target_en": "4. The Ministry may, through its comprehensive service center, receive the investor’s applications to obtain the legal approvals necessary for engaging in an investment activity, including any licenses or permits. The Ministry shall coordinate with the competent authority in charge of issuing such approvals to ensure that the investor satisfies the necessary legal requirements.",
+    "source_ar_norm": "4. للوزارة، من خلال مركز الخدمة الشاملة المنشا فيها، استقبال طلبات المستثمر لاصدار اي من الموافقات النظامية اللازمة لممارسة نشاط استثماري بما في ذلك اي تراخيص او تصاريح. وتتولي الوزارة التنسيق مع الجهة المختصة باصدار اي من تلك الموافقات للتاكد من استيفاء المستثمر للاشتراطات النظامية لها.",
+    "target_en_norm": "4. the ministry may, through its comprehensive service center, receive the investor’s applications to obtain the legal approvals necessary for engaging in an investment activity, including any licenses or permits. the ministry shall coordinate with the competent authority in charge of issuing such approvals to ensure that the investor satisfies the necessary legal requirements.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31920,
+    "source_ar": "المادة الثامنة: قائمة الأنشطة المستثناة:",
+    "target_en": "Article 8: List of Excluded Activities",
+    "source_ar_norm": "المادة الثامنة: قائمة الانشطة المستثناة:",
+    "target_en_norm": "article 8: list of excluded activities",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31921,
+    "source_ar": "1. تتولى الجهة المختصة إصدار قائمة الأنشطة المستثناة وتحديثها، وتقوم الوزارة بنشرها.",
+    "target_en": "1. The competent authority shall issue and update the list of excluded activities, and the Ministry shall publish said list.",
+    "source_ar_norm": "1. تتولي الجهة المختصة اصدار قائمة الانشطة المستثناة وتحديثها، وتقوم الوزارة بنشرها.",
+    "target_en_norm": "1. the competent authority shall issue and update the list of excluded activities, and the ministry shall publish said list.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31922,
+    "source_ar": "2. على المستثمر الأجنبي، قبل الاستثمار في أي من الأنشطة المحددة في قائمة الأنشطة المستثناة؛ التقدم بطلب إلى الوزارة للموافقة على ذلك. وترفع الوزارة الطلب إلى الجهة المختصة.",
+    "target_en": "2. The foreign investor shall, prior to engaging in any investment activity included in the list of excluded activities, apply to the Ministry for approval. The Ministry shall refer the application to the competent authority.",
+    "source_ar_norm": "2. علي المستثمر الاجنبي، قبل الاستثمار في اي من الانشطة المحددة في قائمة الانشطة المستثناة؛ التقدم بطلب الي الوزارة للموافقة علي ذلك. وترفع الوزارة الطلب الي الجهة المختصة.",
+    "target_en_norm": "2. the foreign investor shall, prior to engaging in any investment activity included in the list of excluded activities, apply to the ministry for approval. the ministry shall refer the application to the competent authority.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31923,
+    "source_ar": "3. على المستثمر الأجنبي، قبل القيام بأي تغيير يطرأ على ملكية استثماره في أي من الأنشطة المقيدة الواردة في قائمة الأنشطة المستثناة؛ التقدم بطلب إلى الوزارة للموافقة على ذلك. وترفع الوزارة الطلب إلى الجهة المختصة.",
+    "target_en": "3. The foreign investor shall, prior to making any change affecting the ownership of his investment in any of the restricted activities included in the list of excluded activities, apply to the Ministry for approval. The Ministry shall refer the application to the competent authority.",
+    "source_ar_norm": "3. علي المستثمر الاجنبي، قبل القيام باي تغيير يطرا علي ملكية استثماره في اي من الانشطة المقيدة الواردة في قائمة الانشطة المستثناة؛ التقدم بطلب الي الوزارة للموافقة علي ذلك. وترفع الوزارة الطلب الي الجهة المختصة.",
+    "target_en_norm": "3. the foreign investor shall, prior to making any change affecting the ownership of his investment in any of the restricted activities included in the list of excluded activities, apply to the ministry for approval. the ministry shall refer the application to the competent authority.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31924,
+    "source_ar": "المادة التاسعة: حماية الأمن الوطني:",
+    "target_en": "Article 9: Protection of National Security",
+    "source_ar_norm": "المادة التاسعة: حماية الامن الوطني:",
+    "target_en_norm": "article 9: protection of national security",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31925,
+    "source_ar": "للوزارة الحق في إيقاف أي استثمار أجنبي لحماية الأمن الوطني، على أن يكون قرارها في الإيقاف مبنيًّا على أساس موضوعي وبما يتمشى مع التزامات المملكة بموجب الاتفاقيات الدولية التي تكون طرفًا فيها، ووفقًا للإجراءات التي تحددها اللائحة.",
+    "target_en": "The Ministry may suspend any foreign investment for the purpose of protecting national security, provided that the suspension decision is based on objective grounds, is consistent with the Kingdom's obligations under international agreements to which it is a party, and is in accordance with the procedures specified in the Regulations.",
+    "source_ar_norm": "للوزارة الحق في ايقاف اي استثمار اجنبي لحماية الامن الوطني، علي ان يكون قرارها في الايقاف مبنيا علي اساس موضوعي وبما يتمشي مع التزامات المملكة بموجب الاتفاقيات الدولية التي تكون طرفا فيها، ووفقا للاجراءات التي تحددها اللائحة.",
+    "target_en_norm": "the ministry may suspend any foreign investment for the purpose of protecting national security, provided that the suspension decision is based on objective grounds, is consistent with the kingdom's obligations under international agreements to which it is a party, and is in accordance with the procedures specified in the regulations.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31926,
+    "source_ar": "المادة العاشرة: استخدام الوسائل البديلة لتسوية المنازعات:",
+    "target_en": "Article 10: Use of Alternative Dispute Resolution Methods",
+    "source_ar_norm": "المادة العاشرة: استخدام الوسائل البديلة لتسوية المنازعات:",
+    "target_en_norm": "article 10: use of alternative dispute resolution methods",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31927,
+    "source_ar": "دون إخلال بما تقضي به الأنظمة ذات العلاقة:",
+    "target_en": "Without prejudice to relevant laws:",
+    "source_ar_norm": "دون اخلال بما تقضي به الانظمة ذات العلاقة:",
+    "target_en_norm": "without prejudice to relevant laws:",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31928,
+    "source_ar": "1. للمستثمر الذي يكون طرفًا في أي نزاع -بما في ذلك المنازعات التي تنشأ مع الجهة المختصة- اللجوء إلى المحكمة المختصة؛ ما لم يتفق أطراف النزاع على غير ذلك.",
+    "target_en": "1. The investor who is a party to any dispute, including disputes with the competent authority, may resort to the competent court, unless the parties to the dispute agree otherwise.",
+    "source_ar_norm": "1. للمستثمر الذي يكون طرفا في اي نزاع -بما في ذلك المنازعات التي تنشا مع الجهة المختصة- اللجوء الي المحكمة المختصة؛ ما لم يتفق اطراف النزاع علي غير ذلك.",
+    "target_en_norm": "1. the investor who is a party to any dispute, including disputes with the competent authority, may resort to the competent court, unless the parties to the dispute agree otherwise.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31929,
+    "source_ar": "2. للمستثمرين الاتفاق في شأن تسوية منازعاتهم من خلال الوسائل البديلة لتسوية المنازعات بما في ذلك التحكيم والوساطة والمصالحة.",
+    "target_en": "2. Investors may agree to resolve their disputes through alternative dispute resolution methods, including arbitration, mediation, and conciliation.",
+    "source_ar_norm": "2. للمستثمرين الاتفاق في شان تسوية منازعاتهم من خلال الوسائل البديلة لتسوية المنازعات بما في ذلك التحكيم والوساطة والمصالحة.",
+    "target_en_norm": "2. investors may agree to resolve their disputes through alternative dispute resolution methods, including arbitration, mediation, and conciliation.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31930,
+    "source_ar": "المادة الحادية عشرة: العقوبات:",
+    "target_en": "Article 11: Penalties",
+    "source_ar_norm": "المادة الحادية عشرة: العقوبات:",
+    "target_en_norm": "article 11: penalties",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31931,
+    "source_ar": "1. في حال ارتكاب المستثمر لمخالفة غير جسيمة لأي من أحكام المادتين (السابعة) أو (الثامنة) من النظام؛ تقوم الوزارة بإبلاغه -بأي وسيلة تحددها- لإزالة تلك المخالفة خلال مدة زمنية تحددها اللائحة.",
+    "target_en": "1. An investor who commits a non-serious violation of any of the provisions of Articles 7 or 8 of this Law shall be notified by the Ministry using any means determined thereby in order to rectify said violation within a period to be specified in the Regulations.",
+    "source_ar_norm": "1. في حال ارتكاب المستثمر لمخالفة غير جسيمة لاي من احكام المادتين (السابعة) او (الثامنة) من النظام؛ تقوم الوزارة بابلاغه -باي وسيلة تحددها- لازالة تلك المخالفة خلال مدة زمنية تحددها اللائحة.",
+    "target_en_norm": "1. an investor who commits a non-serious violation of any of the provisions of articles 7 or 8 of this law shall be notified by the ministry using any means determined thereby in order to rectify said violation within a period to be specified in the regulations.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31932,
+    "source_ar": "2. دون إخلال بأي عقوبة أشد ينص عليها أي نظام آخر، يعاقب المستثمر عند عدم إزالة المخالفة غير الجسيمة -المشار إليها في الفقرة (1) من هذه المادة- بعد انتهاء المدة المحددة للإزالة، أو عند ارتكابه مخالفة جسيمة لأي من أحكام المادتين (السابعة) أو (الثامنة) من النظام؛ بواحدة -أو أكثر- من العقوبات الآتية:",
+    "target_en": "2. Without prejudice to any harsher penalty provided for in any other law, an investor who fails to rectify the non-serious violation referred to in paragraph (1) of this Article after the expiration of the period specified for rectification, or who commits a serious violation of any of the provisions of Articles 7 or 8 of this Law, shall be subject to one or more of the following penalties:",
+    "source_ar_norm": "2. دون اخلال باي عقوبة اشد ينص عليها اي نظام اخر، يعاقب المستثمر عند عدم ازالة المخالفة غير الجسيمة -المشار اليها في الفقرة (1) من هذه المادة- بعد انتهاء المدة المحددة للازالة، او عند ارتكابه مخالفة جسيمة لاي من احكام المادتين (السابعة) او (الثامنة) من النظام؛ بواحدة -او اكثر- من العقوبات الاتية:",
+    "target_en_norm": "2. without prejudice to any harsher penalty provided for in any other law, an investor who fails to rectify the non-serious violation referred to in paragraph (1) of this article after the expiration of the period specified for rectification, or who commits a serious violation of any of the provisions of articles 7 or 8 of this law, shall be subject to one or more of the following penalties:",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31933,
+    "source_ar": "أ- الإنذار.",
+    "target_en": "a) A warning.",
+    "source_ar_norm": "ا- الانذار.",
+    "target_en_norm": "a) a warning.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31934,
+    "source_ar": "ب- فرض غرامة لا تزيد على (300,000) ثلاثمائة ألف ريال. ويجوز مضاعفتها في حال تكرار المخالفة.",
+    "target_en": "b) A fine not exceeding three hundred thousand riyals (SAR 300,000). The fine may be doubled in case of a repeat violation.",
+    "source_ar_norm": "ب- فرض غرامة لا تزيد علي (300,000) ثلاثمائة الف ريال. ويجوز مضاعفتها في حال تكرار المخالفة.",
+    "target_en_norm": "b) a fine not exceeding three hundred thousand riyals (sar 300,000). the fine may be doubled in case of a repeat violation.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31935,
+    "source_ar": "ج- إلغاء التسجيل.",
+    "target_en": "c) Cancellation of registration.",
+    "source_ar_norm": "ج- الغاء التسجيل.",
+    "target_en_norm": "c) cancellation of registration.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31936,
+    "source_ar": "3. تحدد اللائحة المخالفات الجسيمة، وإجراءات ضبط المخالفات.",
+    "target_en": "3. The Regulations shall specify the serious violations and the procedures for detecting and recording violations.",
+    "source_ar_norm": "3. تحدد اللائحة المخالفات الجسيمة، واجراءات ضبط المخالفات.",
+    "target_en_norm": "3. the regulations shall specify the serious violations and the procedures for detecting and recording violations.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31937,
+    "source_ar": "4. تكوّن بقرار من الوزير لجنة -أو أكثر- لا يقل عدد أعضائها عن (ثلاثة)؛ يكون منهم -على الأقل- مختصٌّ في الأنظمة، تتولى النظر في المخالفات وإيقاع العقوبات المنصوص عليها في الفقرة (2) من هذه المادة. وتراعي اللجنة في تحديد العقوبة جسامة المخالفة وتكرارها وحجم المنشأة.",
+    "target_en": "4. A committee or more shall be formed pursuant to a decision by the Minister comprising not less than three members, one of whom at least shall be a legal specialist. Such committee shall consider the violations and impose the penalties provided for in paragraph (2) of this Article, and shall, upon determining the penalty, consider the gravity and frequency of the violation and the size of the establishment.",
+    "source_ar_norm": "4. تكون بقرار من الوزير لجنة -او اكثر- لا يقل عدد اعضائها عن (ثلاثة)؛ يكون منهم -علي الاقل- مختص في الانظمة، تتولي النظر في المخالفات وايقاع العقوبات المنصوص عليها في الفقرة (2) من هذه المادة. وتراعي اللجنة في تحديد العقوبة جسامة المخالفة وتكرارها وحجم المنشاة.",
+    "target_en_norm": "4. a committee or more shall be formed pursuant to a decision by the minister comprising not less than three members, one of whom at least shall be a legal specialist. such committee shall consider the violations and impose the penalties provided for in paragraph (2) of this article, and shall, upon determining the penalty, consider the gravity and frequency of the violation and the size of the establishment.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31938,
+    "source_ar": "5. تحدد اللائحة قواعد عمل اللجنة وإجراءاتها، ويحدد الوزير -بقرار منه- مكافآت أعضائها.",
+    "target_en": "5. The Regulations shall specify the work rules and procedures of the committee, and the Minister shall, pursuant to a decision issued thereby, determine the remuneration of committee members.",
+    "source_ar_norm": "5. تحدد اللائحة قواعد عمل اللجنة واجراءاتها، ويحدد الوزير -بقرار منه- مكافات اعضائها.",
+    "target_en_norm": "5. the regulations shall specify the work rules and procedures of the committee, and the minister shall, pursuant to a decision issued thereby, determine the remuneration of committee members.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31939,
+    "source_ar": "المادة الثانية عشرة: التظلم:",
+    "target_en": "Article 12: Appeal",
+    "source_ar_norm": "المادة الثانية عشرة: التظلم:",
+    "target_en_norm": "article 12: appeal",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31940,
+    "source_ar": "يجوز لمن صدر بحقه قرار من الوزارة بعقوبة التظلمُ منه أمام المحكمة المختصة خلال (ثلاثين) يومًا من تاريخ إبلاغه بالقرار.",
+    "target_en": "A person against whom a decision is issued by the Ministry may appeal such decision before the competent court within thirty days from the date of notification thereof.",
+    "source_ar_norm": "يجوز لمن صدر بحقه قرار من الوزارة بعقوبة التظلم منه امام المحكمة المختصة خلال (ثلاثين) يوما من تاريخ ابلاغه بالقرار.",
+    "target_en_norm": "a person against whom a decision is issued by the ministry may appeal such decision before the competent court within thirty days from the date of notification thereof.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31941,
+    "source_ar": "المادة الثالثة عشرة: الالتزامات بموجب الاتفاقيات الدولية:",
+    "target_en": "Article 13: Obligations under International Agreements",
+    "source_ar_norm": "المادة الثالثة عشرة: الالتزامات بموجب الاتفاقيات الدولية:",
+    "target_en_norm": "article 13: obligations under international agreements",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31942,
+    "source_ar": "لا تخل أحكام النظام بأي من التزامات المملكة بموجب أي اتفاقية دولية نافذة تكون المملكة طرفًا فيها.",
+    "target_en": "The provisions of this Law shall not prejudice any of the Kingdom's obligations under any international agreement in force to which the Kingdom is a party.",
+    "source_ar_norm": "لا تخل احكام النظام باي من التزامات المملكة بموجب اي اتفاقية دولية نافذة تكون المملكة طرفا فيها.",
+    "target_en_norm": "the provisions of this law shall not prejudice any of the kingdom's obligations under any international agreement in force to which the kingdom is a party.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31943,
+    "source_ar": "المادة الرابعة عشرة: الأنشطة والمناطق الاقتصادية الخاصة والحقوق المكتسبة:",
+    "target_en": "Article 14: Activities, Special Economic Zones, and Acquired Rights",
+    "source_ar_norm": "المادة الرابعة عشرة: الانشطة والمناطق الاقتصادية الخاصة والحقوق المكتسبة:",
+    "target_en_norm": "article 14: activities, special economic zones, and acquired rights",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31944,
+    "source_ar": "لا تخل أحكام النظام بالأنظمة الخاصة بالجهات الأخرى التي تسري على أنشطة اقتصادية محدَّدة، أو المناطق الاقتصادية الخاصة في المملكة، على أن يتمتع المستثمر بحد أدنى بالحقوق المنصوص عليها في النظام.",
+    "target_en": "The provisions of this Law shall not prejudice the laws of other agencies applicable to certain economic activities or the laws of the special economic zones in the Kingdom, provided that the investor enjoys, at a minimum, the rights provided for in this Law.",
+    "source_ar_norm": "لا تخل احكام النظام بالانظمة الخاصة بالجهات الاخري التي تسري علي انشطة اقتصادية محددة، او المناطق الاقتصادية الخاصة في المملكة، علي ان يتمتع المستثمر بحد ادني بالحقوق المنصوص عليها في النظام.",
+    "target_en_norm": "the provisions of this law shall not prejudice the laws of other agencies applicable to certain economic activities or the laws of the special economic zones in the kingdom, provided that the investor enjoys, at a minimum, the rights provided for in this law.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31945,
+    "source_ar": "المادة الخامسة عشرة: اللائحة:",
+    "target_en": "Article 15: Regulations",
+    "source_ar_norm": "المادة الخامسة عشرة: اللائحة:",
+    "target_en_norm": "article 15: regulations",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31946,
+    "source_ar": "يصدر الوزير اللائحة خلال (مائة وثمانين) يومًا من تاريخ نشر النظام، ويعمل بها من تاريخ نفاذه.",
+    "target_en": "The Minister shall issue the Regulations within one hundred and eighty days from the date of publication of this Law. The Regulations shall become effective on the date this Law enters into force.",
+    "source_ar_norm": "يصدر الوزير اللائحة خلال (مائة وثمانين) يوما من تاريخ نشر النظام، ويعمل بها من تاريخ نفاذه.",
+    "target_en_norm": "the minister shall issue the regulations within one hundred and eighty days from the date of publication of this law. the regulations shall become effective on the date this law enters into force.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31947,
+    "source_ar": "المادة السادسة عشرة: النفاذ:",
+    "target_en": "Article 16: Entry into Force",
+    "source_ar_norm": "المادة السادسة عشرة: النفاذ:",
+    "target_en_norm": "article 16: entry into force",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31948,
+    "source_ar": "يُعمل بالنظام بمضي (مائة وثمانين) يومًا من تاريخ نشره في الجريدة الرسمية، ويُلغِي نظام الاستثمار الأجنبي الصادر بالمرسوم الملكي رقم (م / 1) وتاريخ 5 / 1 / 1421ه، كما يُلغِي ما يتعارض معه من أحكام.",
+    "target_en": "This Law shall enter into force one hundred and eighty days following the date of its publication in the Official Gazette and shall repeal the Foreign Investment Law issued by Royal Decree No. M/1, dated 5/1/1421H, as well as any provisions conflicting therewith.",
+    "source_ar_norm": "يعمل بالنظام بمضي (مائة وثمانين) يوما من تاريخ نشره في الجريدة الرسمية، ويلغي نظام الاستثمار الاجنبي الصادر بالمرسوم الملكي رقم (م / 1) وتاريخ 5 / 1 / 1421ه، كما يلغي ما يتعارض معه من احكام.",
+    "target_en_norm": "this law shall enter into force one hundred and eighty days following the date of its publication in the official gazette and shall repeal the foreign investment law issued by royal decree no. m/1, dated 5/1/1421h, as well as any provisions conflicting therewith.",
+    "file_name": "نظام الاستثمار.docx"
+  },
+  {
+    "id": 31949,
+    "source_ar": "نظام الامتياز التجاري",
+    "target_en": "Franchise Law",
+    "source_ar_norm": "نظام الامتياز التجاري",
+    "target_en_norm": "franchise law",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31950,
+    "source_ar": "الفصل الأول: أحكام عامة",
+    "target_en": "Chapter 1: General Provisions",
+    "source_ar_norm": "الفصل الاول: احكام عامة",
+    "target_en_norm": "chapter 1: general provisions",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31951,
+    "source_ar": "المادة الأولى",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي",
+    "target_en_norm": "article 1",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31952,
+    "source_ar": "يقصد بالعبارات والمصطلحات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمام كل منها، ما لم يقتض السياق غير ذلك:",
+    "target_en": "In this Law, the following terms shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "source_ar_norm": "يقصد بالعبارات والمصطلحات الاتية -اينما وردت في هذا النظام- المعاني المبينة امام كل منها، ما لم يقتض السياق غير ذلك:",
+    "target_en_norm": "in this law, the following terms shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31953,
+    "source_ar": "1- النظام: نظام الامتياز التجاري.",
+    "target_en": "Law: Franchise Law.",
+    "source_ar_norm": "1- النظام: نظام الامتياز التجاري.",
+    "target_en_norm": "law: franchise law.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31954,
+    "source_ar": "2- اللائحة: اللائحة التنفيذية للنظام.",
+    "target_en": "Regulations: Implementing Regulations of this Law.",
+    "source_ar_norm": "2- اللائحة: اللائحة التنفيذية للنظام.",
+    "target_en_norm": "regulations: implementing regulations of this law.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31955,
+    "source_ar": "3- الوزارة: وزارة التجارة والاستثمار.",
+    "target_en": "Ministry: Ministry of Commerce.",
+    "source_ar_norm": "3- الوزارة: وزارة التجارة والاستثمار.",
+    "target_en_norm": "ministry: ministry of commerce.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31956,
+    "source_ar": "4- الوزير: وزير التجارة والاستثمار.",
+    "target_en": "Minister: Minister of Commerce.",
+    "source_ar_norm": "4- الوزير: وزير التجارة والاستثمار.",
+    "target_en_norm": "minister: minister of commerce.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31957,
+    "source_ar": "5- الامتياز: قيام شخص يسمى مانح الامتياز بمنح الحق لشخص آخر يسمى صاحب الامتياز في ممارسة الأعمال -محل الامتياز- لحسابه الخاص ربطاً بالعلامة التجارية أو الاسم التجاري المملوك لمانح الامتياز أو المرخص له باستخدامه، بما في ذلك تقديم الخبرات التقنية والمعرفة الفنية لصاحب الامتياز، وتحديد طريقة تشغيله لأعمال الامتياز، وذلك نظير مقابل مالي أو غير مالي لا يدخل ضمنه المبالغ التي يدفعها صاحب الامتياز لمانح الامتياز مقابل السلع أو الخدمات.",
+    "target_en": "Franchise: A right granted by a franchisor to a franchisee to run a franchise business on his own account under the trademark or under the brand name of the franchisor or the person licensed to use the same; this shall include transferring technical expertise and specifying the manner of operation. Such right may be granted for a financial or non-financial consideration, excluding the amounts the franchisee pays to the franchisor in return for goods or services.",
+    "source_ar_norm": "5- الامتياز: قيام شخص يسمي مانح الامتياز بمنح الحق لشخص اخر يسمي صاحب الامتياز في ممارسة الاعمال -محل الامتياز- لحسابه الخاص ربطا بالعلامة التجارية او الاسم التجاري المملوك لمانح الامتياز او المرخص له باستخدامه، بما في ذلك تقديم الخبرات التقنية والمعرفة الفنية لصاحب الامتياز، وتحديد طريقة تشغيله لاعمال الامتياز، وذلك نظير مقابل مالي او غير مالي لا يدخل ضمنه المبالغ التي يدفعها صاحب الامتياز لمانح الامتياز مقابل السلع او الخدمات.",
+    "target_en_norm": "franchise: a right granted by a franchisor to a franchisee to run a franchise business on his own account under the trademark or under the brand name of the franchisor or the person licensed to use the same; this shall include transferring technical expertise and specifying the manner of operation. such right may be granted for a financial or non-financial consideration, excluding the amounts the franchisee pays to the franchisor in return for goods or services.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31958,
+    "source_ar": "6- مانح الامتياز: شخص ذو صفة طبيعية أو اعتبارية يَمنَح الامتياز بموجب اتفاقية الامتياز، ويشمل ذلك صاحب الامتياز الرئيس فيما يتعلق بعلاقته بصاحب الامتياز الفرعي.",
+    "target_en": "Franchisor: A natural or legal person who grants a franchise under a franchise agreement; this shall include the master franchisee with respect to his relationship with the sub-franchisee.",
+    "source_ar_norm": "6- مانح الامتياز: شخص ذو صفة طبيعية او اعتبارية يمنح الامتياز بموجب اتفاقية الامتياز، ويشمل ذلك صاحب الامتياز الرئيس فيما يتعلق بعلاقته بصاحب الامتياز الفرعي.",
+    "target_en_norm": "franchisor: a natural or legal person who grants a franchise under a franchise agreement; this shall include the master franchisee with respect to his relationship with the sub-franchisee.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31959,
+    "source_ar": "7- صاحب الامتياز: شخص ذو صفة طبيعية أو اعتبارية يُمنح الامتياز بموجب اتفاقية الامتياز، ويشمل ذلك صاحب الامتياز الفرعي فيما يتعلق بعلاقته بصاحب الامتياز الرئيس.",
+    "target_en": "Franchisee: A natural or legal person who is granted a franchise under a franchise agreement; this shall include the sub-franchisee with respect to his relationship with the master franchisee.",
+    "source_ar_norm": "7- صاحب الامتياز: شخص ذو صفة طبيعية او اعتبارية يمنح الامتياز بموجب اتفاقية الامتياز، ويشمل ذلك صاحب الامتياز الفرعي فيما يتعلق بعلاقته بصاحب الامتياز الرئيس.",
+    "target_en_norm": "franchisee: a natural or legal person who is granted a franchise under a franchise agreement; this shall include the sub-franchisee with respect to his relationship with the master franchisee.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31960,
+    "source_ar": "8- اتفاقية الامتياز: اتفاقية بين مانح الامتياز وصاحب الامتياز، يمنح بموجبها الامتياز.",
+    "target_en": "Franchise Agreement: An agreement between a franchisor and a franchisee, under which a franchise is granted.",
+    "source_ar_norm": "8- اتفاقية الامتياز: اتفاقية بين مانح الامتياز وصاحب الامتياز، يمنح بموجبها الامتياز.",
+    "target_en_norm": "franchise agreement: an agreement between a franchisor and a franchisee, under which a franchise is granted.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31961,
+    "source_ar": "9- نموذج عمل الامتياز: طريقة إدارة أعمال الامتياز التي يحددها مانح الامتياز، بما في ذلك طريقة عرض العلامة التجارية المرتبطة بتلك الأعمال، والتي يتعين على صاحب الامتياز التقيد بها.",
+    "target_en": "Franchise Business Model: The manner of operating a franchise business as determined by the franchisor and by which the franchisee shall be bound, including the display of the business trademark.",
+    "source_ar_norm": "9- نموذج عمل الامتياز: طريقة ادارة اعمال الامتياز التي يحددها مانح الامتياز، بما في ذلك طريقة عرض العلامة التجارية المرتبطة بتلك الاعمال، والتي يتعين علي صاحب الامتياز التقيد بها.",
+    "target_en_norm": "franchise business model: the manner of operating a franchise business as determined by the franchisor and by which the franchisee shall be bound, including the display of the business trademark.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31962,
+    "source_ar": "10- السيطرة: القدرة على التأثير على أفعال أو قرارات شخص آخر، بشكل مباشر أو غير مباشر، من خلال أي من الحالات الآتية:",
+    "target_en": "Control: The capacity to directly or indirectly influence another person’s acts or decisions through:",
+    "source_ar_norm": "10- السيطرة: القدرة علي التاثير علي افعال او قرارات شخص اخر، بشكل مباشر او غير مباشر، من خلال اي من الحالات الاتية:",
+    "target_en_norm": "control: the capacity to directly or indirectly influence another person’s acts or decisions through:",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31963,
+    "source_ar": "أ- تملك نسبة تزيد على نصف رأس مال الشركة أو المنشأة.",
+    "target_en": "owning more than 50% of the capital of a company or establishment;",
+    "source_ar_norm": "ا- تملك نسبة تزيد علي نصف راس مال الشركة او المنشاة.",
+    "target_en_norm": "owning more than 50% of the capital of a company or establishment;",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31964,
+    "source_ar": "ب- تملك نسبة تزيد على نصف حقوق التصويت في جمعيات المساهمين أو الشركاء، بحسب الأحوال.",
+    "target_en": "owning more than 50% of the voting rights of shareholders or partners, as the case may be; and",
+    "source_ar_norm": "ب- تملك نسبة تزيد علي نصف حقوق التصويت في جمعيات المساهمين او الشركاء، بحسب الاحوال.",
+    "target_en_norm": "owning more than 50% of the voting rights of shareholders or partners, as the case may be; and",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31965,
+    "source_ar": "ج- الحق في تعيين أو انتخاب غالبية أعضاء مجلس الإدارة أو مجلس المديرين -بحسب الأحوال- أو أعضاء الجهاز التنفيذي للشركة أو المنشأة أو الحق في إدارتها.",
+    "target_en": "having the right to appoint or elect the majority of the members of the board of directors or the board of managers, as the case may be, or the executive board members of a company or establishment, or the right to manage the same.",
+    "source_ar_norm": "ج- الحق في تعيين او انتخاب غالبية اعضاء مجلس الادارة او مجلس المديرين -بحسب الاحوال- او اعضاء الجهاز التنفيذي للشركة او المنشاة او الحق في ادارتها.",
+    "target_en_norm": "having the right to appoint or elect the majority of the members of the board of directors or the board of managers, as the case may be, or the executive board members of a company or establishment, or the right to manage the same.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31966,
+    "source_ar": "11- مجموعة: كل شخص يسيطر عليه مانح الامتياز، أو يسيطر هو على مانح الامتياز، أو يسيطر عليهما معاً شخص ثالث، سيطرة مباشرة أو غير مباشرة.",
+    "target_en": "Franchisor's Associates: A person who controls or is controlled by a franchisor, or a third party that controls both, directly or indirectly.",
+    "source_ar_norm": "11- مجموعة: كل شخص يسيطر عليه مانح الامتياز، او يسيطر هو علي مانح الامتياز، او يسيطر عليهما معا شخص ثالث، سيطرة مباشرة او غير مباشرة.",
+    "target_en_norm": "franchisor's associates: a person who controls or is controlled by a franchisor, or a third party that controls both, directly or indirectly.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31967,
+    "source_ar": "12- وثيقة الإفصاح: وثيقة تتضمن الإفصاح عن أبرز الحقوق والواجبات والمخاطر الجوهرية المتعلقة بفرص الامتياز.",
+    "target_en": "Disclosure Document: A document disclosing the key rights and duties of the franchise and the substantial risks relating thereto.",
+    "source_ar_norm": "12- وثيقة الافصاح: وثيقة تتضمن الافصاح عن ابرز الحقوق والواجبات والمخاطر الجوهرية المتعلقة بفرص الامتياز.",
+    "target_en_norm": "disclosure document: a document disclosing the key rights and duties of the franchise and the substantial risks relating thereto.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31968,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31969,
+    "source_ar": "يهدف النظام إلى تحقيق ما يأتي:",
+    "target_en": "This Law aims to:",
+    "source_ar_norm": "يهدف النظام الي تحقيق ما ياتي:",
+    "target_en_norm": "this law aims to:",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31970,
+    "source_ar": "تشجيع أنشطة الامتياز التجاري في المملكة، من خلال وضع إطار نظامي ينظم العلاقة بين صاحب الامتياز ومانح الامتياز مع ترسيخ مبدأ حرية التعاقد، ووضع أسس لهذه العلاقة تقوم على مبدأ الشفافية.",
+    "target_en": "promote franchise activities in the Kingdom through setting a legal framework which regulates the relationship between the franchisor and the franchisee and which emphasizes the principle of freedom to contract and the principle of transparency;",
+    "source_ar_norm": "تشجيع انشطة الامتياز التجاري في المملكة، من خلال وضع اطار نظامي ينظم العلاقة بين صاحب الامتياز ومانح الامتياز مع ترسيخ مبدا حرية التعاقد، ووضع اسس لهذه العلاقة تقوم علي مبدا الشفافية.",
+    "target_en_norm": "promote franchise activities in the kingdom through setting a legal framework which regulates the relationship between the franchisor and the franchisee and which emphasizes the principle of freedom to contract and the principle of transparency;",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31971,
+    "source_ar": "توفير الحماية اللازمة لصاحب الامتياز ومانح الامتياز، وبخاصة عند انتهاء اتفاقية الامتياز.",
+    "target_en": "provide the necessary protection for the franchisor and the franchisee, particularly upon expiry of the franchise agreement;",
+    "source_ar_norm": "توفير الحماية اللازمة لصاحب الامتياز ومانح الامتياز، وبخاصة عند انتهاء اتفاقية الامتياز.",
+    "target_en_norm": "provide the necessary protection for the franchisor and the franchisee, particularly upon expiry of the franchise agreement;",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31972,
+    "source_ar": "ضمان الإفصاح عن الحقوق والواجبات والمخاطر المتعلقة بفرص الامتياز؛ لمساعدة صاحب الامتياز المحتمل على اتخاذ قرارات استثمارية صائبة.",
+    "target_en": "ensure the disclosure of rights, duties, and risks relating to the franchise to assist a prospective franchisee in making informed investment decisions; and",
+    "source_ar_norm": "ضمان الافصاح عن الحقوق والواجبات والمخاطر المتعلقة بفرص الامتياز؛ لمساعدة صاحب الامتياز المحتمل علي اتخاذ قرارات استثمارية صائبة.",
+    "target_en_norm": "ensure the disclosure of rights, duties, and risks relating to the franchise to assist a prospective franchisee in making informed investment decisions; and",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31973,
+    "source_ar": "رفع مستوى جودة السلع والخدمات المعروضة في المملكة، وضمان استمرارها.",
+    "target_en": "improve the quality of goods and services provided in the Kingdom and ensure their sustainability.",
+    "source_ar_norm": "رفع مستوي جودة السلع والخدمات المعروضة في المملكة، وضمان استمرارها.",
+    "target_en_norm": "improve the quality of goods and services provided in the kingdom and ensure their sustainability.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31974,
+    "source_ar": "الفصل الثاني: نطاق تطبيق النظام",
+    "target_en": "Chapter 2: Scope of Application",
+    "source_ar_norm": "الفصل الثاني: نطاق تطبيق النظام",
+    "target_en_norm": "chapter 2: scope of application",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31975,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31976,
+    "source_ar": "يسري النظام على أي اتفاقية امتياز تنفذ داخل المملكة.",
+    "target_en": "This Law shall apply to any franchise agreement executed in the Kingdom.",
+    "source_ar_norm": "يسري النظام علي اي اتفاقية امتياز تنفذ داخل المملكة.",
+    "target_en_norm": "this law shall apply to any franchise agreement executed in the kingdom.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31977,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article 4",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31978,
+    "source_ar": "لأغراض تطبيق النظام، لا تعد اتفاقية امتياز أي من الاتفاقيات أو الترتيبات الآتية:",
+    "target_en": "For the purpose of applying this Law, the following agreements and arrangements shall not be deemed a franchise agreement:",
+    "source_ar_norm": "لاغراض تطبيق النظام، لا تعد اتفاقية امتياز اي من الاتفاقيات او الترتيبات الاتية:",
+    "target_en_norm": "for the purpose of applying this law, the following agreements and arrangements shall not be deemed a franchise agreement:",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31979,
+    "source_ar": "الامتيازات التي تُمنح أو تَصدُر بموجب مراسيم ملكية.",
+    "target_en": "A concession granted or issued pursuant to a Royal Decree.",
+    "source_ar_norm": "الامتيازات التي تمنح او تصدر بموجب مراسيم ملكية.",
+    "target_en_norm": "a concession granted or issued pursuant to a royal decree.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31980,
+    "source_ar": "الاتفاقيات أو العقود الخاضعة لنظام الوكالات التجارية في المملكة.",
+    "target_en": "An agreement or contract subject to the Law of Commercial Agencies applicable in the Kingdom.",
+    "source_ar_norm": "الاتفاقيات او العقود الخاضعة لنظام الوكالات التجارية في المملكة.",
+    "target_en_norm": "an agreement or contract subject to the law of commercial agencies applicable in the kingdom.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31981,
+    "source_ar": "الاتفاقيات أو العقود المقصورة على شراء وبيع سلع، أو على تقديم خدمات تحمل علامة تجارية معينة، أو على استخدام علامة تجارية أو أي حقوق ملكية فكرية أخرى بالنسبة إلى أي سلعة أو خدمة.",
+    "target_en": "An agreement or contract limited to the sale of goods or provision of services carrying certain trademarks, or to the use of a trademark or any copyrighted material of any good or service.",
+    "source_ar_norm": "الاتفاقيات او العقود المقصورة علي شراء وبيع سلع، او علي تقديم خدمات تحمل علامة تجارية معينة، او علي استخدام علامة تجارية او اي حقوق ملكية فكرية اخري بالنسبة الي اي سلعة او خدمة.",
+    "target_en_norm": "an agreement or contract limited to the sale of goods or provision of services carrying certain trademarks, or to the use of a trademark or any copyrighted material of any good or service.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31982,
+    "source_ar": "الترتيبات التي يكون بموجبها صاحب الامتياز مملوكاً بالكامل لمانح الامتياز بشكل مباشر أو غير مباشر.",
+    "target_en": "An arrangement whereby the franchisor fully owns the franchisee, whether directly or indirectly.",
+    "source_ar_norm": "الترتيبات التي يكون بموجبها صاحب الامتياز مملوكا بالكامل لمانح الامتياز بشكل مباشر او غير مباشر.",
+    "target_en_norm": "an arrangement whereby the franchisor fully owns the franchisee, whether directly or indirectly.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31983,
+    "source_ar": "أي اتفاقيات أو ترتيبات أخرى تحددها اللائحة.",
+    "target_en": "Any other agreements or arrangements specified by the Regulations.",
+    "source_ar_norm": "اي اتفاقيات او ترتيبات اخري تحددها اللائحة.",
+    "target_en_norm": "any other agreements or arrangements specified by the regulations.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31984,
+    "source_ar": "الفصل الثالث: شروط منح الامتياز",
+    "target_en": "Chapter 3: Franchise Granting Conditions",
+    "source_ar_norm": "الفصل الثالث: شروط منح الامتياز",
+    "target_en_norm": "chapter 3: franchise granting conditions",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31985,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31986,
+    "source_ar": "لا يجوز عرض فرصة الامتياز أو منح الامتياز إلا بعد ممارسة أعمال الامتياز وفقاً لنموذج عمل الامتياز مدة لا تقل عن سنة واحدة من قبل شخصين أو في منفذي بيع مختلفين على الأقل، ويجوز أن يكون أحد هذين الشخصين مانح الامتياز أو أي شخص ضمن مجموعته.",
+    "target_en": "A franchise shall not be offered nor granted until the franchised business, as per the franchise business model, has been practiced for a period not less than one year in at least two different points of sale or by at least two persons, one of whom may be the franchisor or any of his associates.",
+    "source_ar_norm": "لا يجوز عرض فرصة الامتياز او منح الامتياز الا بعد ممارسة اعمال الامتياز وفقا لنموذج عمل الامتياز مدة لا تقل عن سنة واحدة من قبل شخصين او في منفذي بيع مختلفين علي الاقل، ويجوز ان يكون احد هذين الشخصين مانح الامتياز او اي شخص ضمن مجموعته.",
+    "target_en_norm": "a franchise shall not be offered nor granted until the franchised business, as per the franchise business model, has been practiced for a period not less than one year in at least two different points of sale or by at least two persons, one of whom may be the franchisor or any of his associates.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31987,
+    "source_ar": "إذا كان مانح الامتياز لا يمارس أعمال الامتياز في المملكة بنفسه، فلا يجوز لصاحب الامتياز -الذي يملك حق منح امتياز فرعي- عرض فرصة الامتياز أو منح الامتياز إلا بعد ممارسته -أو غيره من أصحاب الامتياز- لأعمال الامتياز في المملكة مدة لا تقل عن سنة واحدة، وللوزير تعديل المدد المنصوص عليها في هذه المادة.",
+    "target_en": "If a franchisor does not practice in the Kingdom the franchised business on his own account, the master franchisee, who has the right to sub-franchise, may not sub-franchise or offer the same until he or any other franchisee practices the franchised business in the Kingdom for a period not less than one year. The Minister may amend the periods stipulated in this Article.",
+    "source_ar_norm": "اذا كان مانح الامتياز لا يمارس اعمال الامتياز في المملكة بنفسه، فلا يجوز لصاحب الامتياز -الذي يملك حق منح امتياز فرعي- عرض فرصة الامتياز او منح الامتياز الا بعد ممارسته -او غيره من اصحاب الامتياز- لاعمال الامتياز في المملكة مدة لا تقل عن سنة واحدة، وللوزير تعديل المدد المنصوص عليها في هذه المادة.",
+    "target_en_norm": "if a franchisor does not practice in the kingdom the franchised business on his own account, the master franchisee, who has the right to sub-franchise, may not sub-franchise or offer the same until he or any other franchisee practices the franchised business in the kingdom for a period not less than one year. the minister may amend the periods stipulated in this article.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31988,
+    "source_ar": "الفصل الرابع: القيد والإفصاح",
+    "target_en": "Chapter 4: Registry and Disclosure",
+    "source_ar_norm": "الفصل الرابع: القيد والافصاح",
+    "target_en_norm": "chapter 4: registry and disclosure",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31989,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31990,
+    "source_ar": "تقيَّد اتفاقية الامتياز ووثيقة الإفصاح لدى الوزارة، وتحدد اللائحة الإجراءات المنظمة للقيد والوثائق والمعلومات الواجب تقديمها.",
+    "target_en": "Franchise agreements and disclosure documents shall be registered with the Ministry. The Regulations shall specify the registration procedures and the required documents and information.",
+    "source_ar_norm": "تقيد اتفاقية الامتياز ووثيقة الافصاح لدي الوزارة، وتحدد اللائحة الاجراءات المنظمة للقيد والوثائق والمعلومات الواجب تقديمها.",
+    "target_en_norm": "franchise agreements and disclosure documents shall be registered with the ministry. the regulations shall specify the registration procedures and the required documents and information.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31991,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31992,
+    "source_ar": "على مانح الامتياز تزويد صاحب الامتياز بنسخة من وثيقة الإفصاح وفقاً لما تحدده اللائحة قبل (أربعة عشر) يوماً على الأقل من إبرام اتفاقية الامتياز أو من تاريخ دفع صاحب الامتياز أي مقابل في شأن الامتياز، أيهما أسبق.",
+    "target_en": "The franchisor shall provide the franchisee with a copy of the disclosure document, as prescribed by the Regulations, at least 14 days prior to concluding the franchise agreement or from the date of any payment made by the franchisee in relation to the franchise, whichever occurs first.",
+    "source_ar_norm": "علي مانح الامتياز تزويد صاحب الامتياز بنسخة من وثيقة الافصاح وفقا لما تحدده اللائحة قبل (اربعة عشر) يوما علي الاقل من ابرام اتفاقية الامتياز او من تاريخ دفع صاحب الامتياز اي مقابل في شان الامتياز، ايهما اسبق.",
+    "target_en_norm": "the franchisor shall provide the franchisee with a copy of the disclosure document, as prescribed by the regulations, at least 14 days prior to concluding the franchise agreement or from the date of any payment made by the franchisee in relation to the franchise, whichever occurs first.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31993,
+    "source_ar": "يجب أن يراعى في وثيقة الإفصاح ما يأتي:",
+    "target_en": "A disclosure document must be:",
+    "source_ar_norm": "يجب ان يراعي في وثيقة الافصاح ما ياتي:",
+    "target_en_norm": "a disclosure document must be:",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31994,
+    "source_ar": "أن تحرر باللغة العربية، وإذا كانت محررة بغير اللغة العربية فتجب ترجمتها إلى اللغة العربية ترجمة معتمدة.",
+    "target_en": "drafted in Arabic; if drafted in another language, a certified Arabic translation must be provided; and",
+    "source_ar_norm": "ان تحرر باللغة العربية، واذا كانت محررة بغير اللغة العربية فتجب ترجمتها الي اللغة العربية ترجمة معتمدة.",
+    "target_en_norm": "drafted in arabic; if drafted in another language, a certified arabic translation must be provided; and",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31995,
+    "source_ar": "أن تكون واضحة ودقيقة.",
+    "target_en": "clear and precise.",
+    "source_ar_norm": "ان تكون واضحة ودقيقة.",
+    "target_en_norm": "clear and precise.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31996,
+    "source_ar": "في حال تقديم مانح الامتياز إلى صاحب الامتياز -الذي ينوي التعاقد معه- معلومات تتعلق بالأداء المالي السابق أو المتوقع لأعمال الامتياز المملوكة له أو لأي شخص ضمن مجموعته؛ فعليه تضمين هذه المعلومات في وثيقة الإفصاح ومراعاة استيفائها للأحكام والشروط التي تحددها اللائحة.",
+    "target_en": "If the franchisor submits to a prospective franchisee any information relating to the previous or projected financial performance of a franchised business owned by him or by any of his associates, the franchisor shall include such information in the disclosure document, ensuring that the information meets the requirements and provisions prescribed by the Regulations.",
+    "source_ar_norm": "في حال تقديم مانح الامتياز الي صاحب الامتياز -الذي ينوي التعاقد معه- معلومات تتعلق بالاداء المالي السابق او المتوقع لاعمال الامتياز المملوكة له او لاي شخص ضمن مجموعته؛ فعليه تضمين هذه المعلومات في وثيقة الافصاح ومراعاة استيفائها للاحكام والشروط التي تحددها اللائحة.",
+    "target_en_norm": "if the franchisor submits to a prospective franchisee any information relating to the previous or projected financial performance of a franchised business owned by him or by any of his associates, the franchisor shall include such information in the disclosure document, ensuring that the information meets the requirements and provisions prescribed by the regulations.",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31997,
+    "source_ar": "الفصل الخامس: التزامات صاحب الامتياز ومانح الامتياز",
+    "target_en": "Chapter 5: Obligations of the Franchisor and Franchisee",
+    "source_ar_norm": "الفصل الخامس: التزامات صاحب الامتياز ومانح الامتياز",
+    "target_en_norm": "chapter 5: obligations of the franchisor and franchisee",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31998,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 31999,
+    "source_ar": "يلتزم مانح الامتياز -ما لم يتفق كتابة مع صاحب الامتياز على غير ذلك- بما يأتي:",
+    "target_en": "Unless otherwise agreed in writing with the franchisee, the franchisor shall:",
+    "source_ar_norm": "يلتزم مانح الامتياز -ما لم يتفق كتابة مع صاحب الامتياز علي غير ذلك- بما ياتي:",
+    "target_en_norm": "unless otherwise agreed in writing with the franchisee, the franchisor shall:",
+    "file_name": "نظام الامتياز التجاري.docx"
+  },
+  {
+    "id": 32000,
+    "source_ar": "تحديد الحقوق الممنوحة لصاحب الامتياز في شأن الامتياز.",
+    "target_en": "determine the rights granted to the franchisee with respect to the franchise;",
+    "source_ar_norm": "تحديد الحقوق الممنوحة لصاحب الامتياز في شان الامتياز.",
+    "target_en_norm": "determine the rights granted to the franchisee with respect to the franchise;",
+    "file_name": "نظام الامتياز التجاري.docx"
+  }
+]

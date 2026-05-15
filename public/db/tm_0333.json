@@ -1,0 +1,802 @@
+[
+  {
+    "id": 33201,
+    "source_ar": "4. عنـد تغيب العضـو (ثلاثة) اجتمـاعـات متتاليـة دون عـذر يقبلـه المجـلس أو دون موافقة من رئيس المجلس.",
+    "target_en": "4. does not attend three consecutive meetings and does not provide an acceptable excuse to the Board or obtain the consent of the Chairman;",
+    "source_ar_norm": "4. عند تغيب العضو (ثلاثة) اجتماعات متتالية دون عذر يقبله المجلس او دون موافقة من رئيس المجلس.",
+    "target_en_norm": "4. does not attend three consecutive meetings and does not provide an acceptable excuse to the board or obtain the consent of the chairman;",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33202,
+    "source_ar": "5. إذا أصبح العضو غير قادر على أداء مهماته لأي سبب.",
+    "target_en": "5. becomes unable to perform his duties for any reason; or",
+    "source_ar_norm": "5. اذا اصبح العضو غير قادر علي اداء مهماته لاي سبب.",
+    "target_en_norm": "5. becomes unable to perform his duties for any reason; or",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33203,
+    "source_ar": "6. إذا أخلّ العضو بأحد واجباته إخلالاً جسيماً وفق ما يقرره المجلس.",
+    "target_en": "6. grossly breaches any of his duties, as determined by the Board.",
+    "source_ar_norm": "6. اذا اخل العضو باحد واجباته اخلالا جسيما وفق ما يقرره المجلس.",
+    "target_en_norm": "6. grossly breaches any of his duties, as determined by the board.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33204,
+    "source_ar": "المحافظ ونائب المحافظ وموظفو البنك (المادة الثالثة عشرة)",
+    "target_en": "Article 13: The Governor, Vice- Governors, and Bank Staff",
+    "source_ar_norm": "المحافظ ونائب المحافظ وموظفو البنك (المادة الثالثة عشرة)",
+    "target_en_norm": "article 13: the governor, vice- governors, and bank staff",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33205,
+    "source_ar": "يكون للبنك محافظ متفرغ بمرتبة وزير يعين وتحدد مزاياه بأمر ملكي. والمحافظ هو المسؤول التنفيذي عن إدارة البنك، ويتولى تنفيذ سياساته ومهماته وتسيير شؤونه، ومباشرة الأعمال التي يراها ضرورية وملائمة للقيام بها وفقاً للنظام، ومن ذلك - على سبيل المثال لا الحصر - الآتي:",
+    "target_en": "The Bank shall have a full-time governor at the rank of Minister; his appointment and benefits shall be determined pursuant to a royal order. The Governor shall manage the Bank’s activities, implement its policies, and carry out its duties. He shall also carry out, in accordance with this Law, any other activities he deems necessary and appropriate, particularly the following:",
+    "source_ar_norm": "يكون للبنك محافظ متفرغ بمرتبة وزير يعين وتحدد مزاياه بامر ملكي. والمحافظ هو المسؤول التنفيذي عن ادارة البنك، ويتولي تنفيذ سياساته ومهماته وتسيير شؤونه، ومباشرة الاعمال التي يراها ضرورية وملائمة للقيام بها وفقا للنظام، ومن ذلك - علي سبيل المثال لا الحصر - الاتي:",
+    "target_en_norm": "the bank shall have a full-time governor at the rank of minister; his appointment and benefits shall be determined pursuant to a royal order. the governor shall manage the bank’s activities, implement its policies, and carry out its duties. he shall also carry out, in accordance with this law, any other activities he deems necessary and appropriate, particularly the following:",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33206,
+    "source_ar": "1. تنفيذ القرارات التي يصدرها المجلس.",
+    "target_en": "1. Implementing Board decisions.",
+    "source_ar_norm": "1. تنفيذ القرارات التي يصدرها المجلس.",
+    "target_en_norm": "1. implementing board decisions.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33207,
+    "source_ar": "2. تقديم تقارير دورية إلى المجلس عن أعمال البنك، ومنجزاته، ونشاطاته.",
+    "target_en": "2. Providing periodic reports to the Board regarding Bank operations, activities, and achievements.",
+    "source_ar_norm": "2. تقديم تقارير دورية الي المجلس عن اعمال البنك، ومنجزاته، ونشاطاته.",
+    "target_en_norm": "2. providing periodic reports to the board regarding bank operations, activities, and achievements.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33208,
+    "source_ar": "3. تقديم الاقتراحات إلى المجلس في شأن الموضوعات الداخلة في اختصاصه.",
+    "target_en": "3. Providing recommendations to the Board regarding matters falling within its jurisdiction.",
+    "source_ar_norm": "3. تقديم الاقتراحات الي المجلس في شان الموضوعات الداخلة في اختصاصه.",
+    "target_en_norm": "3. providing recommendations to the board regarding matters falling within its jurisdiction.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33209,
+    "source_ar": "4. تمثيل البنك أمام القضاء وفي علاقاته مع الغير، وله تفويض غيره في ذلك.",
+    "target_en": "4. Representing the Bank before the judiciary and in its relationship with others, and he may delegate such duty.",
+    "source_ar_norm": "4. تمثيل البنك امام القضاء وفي علاقاته مع الغير، وله تفويض غيره في ذلك.",
+    "target_en_norm": "4. representing the bank before the judiciary and in its relationship with others, and he may delegate such duty.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33210,
+    "source_ar": "5. أداء مهمات وصلاحيات البنك وفق ضوابط وجدول صلاحيات يعتمدها المجلس.",
+    "target_en": "5. Carrying out Bank duties and exercising its powers according to the guidelines and authority matrix endorsed by the Board.",
+    "source_ar_norm": "5. اداء مهمات وصلاحيات البنك وفق ضوابط وجدول صلاحيات يعتمدها المجلس.",
+    "target_en_norm": "5. carrying out bank duties and exercising its powers according to the guidelines and authority matrix endorsed by the board.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33211,
+    "source_ar": "6. اقتراح الاستراتيجيات والخطط التشغيلية للبنك.",
+    "target_en": "6. Proposing Bank strategies and operational plans.",
+    "source_ar_norm": "6. اقتراح الاستراتيجيات والخطط التشغيلية للبنك.",
+    "target_en_norm": "6. proposing bank strategies and operational plans.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33212,
+    "source_ar": "7. إبرام الاتفاقيات والعقود.",
+    "target_en": "7. Concluding agreements and contracts.",
+    "source_ar_norm": "7. ابرام الاتفاقيات والعقود.",
+    "target_en_norm": "7. concluding agreements and contracts.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33213,
+    "source_ar": "8. تعيين موظفي البنك، والتعاقد مع الخبراء والمستشارين داخل المملكة أو خارجها، وتحديد مزاياهم، وفقاً لما يقره المجلس.",
+    "target_en": "8. Appointing Bank staff, contracting with experts and consultants within the Kingdom or abroad, and determining their benefits, subject to Board endorsement.",
+    "source_ar_norm": "8. تعيين موظفي البنك، والتعاقد مع الخبراء والمستشارين داخل المملكة او خارجها، وتحديد مزاياهم، وفقا لما يقره المجلس.",
+    "target_en_norm": "8. appointing bank staff, contracting with experts and consultants within the kingdom or abroad, and determining their benefits, subject to board endorsement.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33214,
+    "source_ar": "9. افتتاح مراكز النقد، وتعيين الوكلاء والمراسلين.",
+    "target_en": "9. Establishing cash centers and appointing agents and correspondents.",
+    "source_ar_norm": "9. افتتاح مراكز النقد، وتعيين الوكلاء والمراسلين.",
+    "target_en_norm": "9. establishing cash centers and appointing agents and correspondents.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33215,
+    "source_ar": "وللمحافظ تفويض بعض اختصاصاته إلى من يراه من موظفي البنك.",
+    "target_en": "The Governor may delegate some of his powers to whomever he deems fit from among Bank staff.",
+    "source_ar_norm": "وللمحافظ تفويض بعض اختصاصاته الي من يراه من موظفي البنك.",
+    "target_en_norm": "the governor may delegate some of his powers to whomever he deems fit from among bank staff.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33216,
+    "source_ar": "المادة الرابعة عشرة",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة",
+    "target_en_norm": "article 14",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33217,
+    "source_ar": "1- يكون للمحافظ نائبان متفرغان يعاونانه في أداء مهماته ومسؤولياته. ويحدد المجلس بقرار منه اختصاصات كل منهما وصلاحياته ومهماته بناء على توصية من المحافظ. ولا يشارك أي من النائبين في مداولات القرار ولا في التصويت عليه.",
+    "target_en": "1. The Governor shall have two full-time Vice Governors to assist him in the discharge of his duties. The Board shall, upon a recommendation by the Governor, issue a decision specifying the powers, functions, and duties of each Vice Governor. The Vice- Governors shall not participate in deliberations involving such decision nor vote thereon.",
+    "source_ar_norm": "1- يكون للمحافظ نائبان متفرغان يعاونانه في اداء مهماته ومسؤولياته. ويحدد المجلس بقرار منه اختصاصات كل منهما وصلاحياته ومهماته بناء علي توصية من المحافظ. ولا يشارك اي من النائبين في مداولات القرار ولا في التصويت عليه.",
+    "target_en_norm": "1. the governor shall have two full-time vice governors to assist him in the discharge of his duties. the board shall, upon a recommendation by the governor, issue a decision specifying the powers, functions, and duties of each vice governor. the vice- governors shall not participate in deliberations involving such decision nor vote thereon.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33218,
+    "source_ar": "2- يعين نائبا المحافظ بالمرتبة الممتازة بناءً على اقتراح من المحافظ، وتحديد مزاياهما بأمر ملكي.",
+    "target_en": "2. The Vice Governors shall, upon the recommendation of the Governor, be appointed at grade ‘Excellent’; their benefits shall be determined pursuant to a royal order.",
+    "source_ar_norm": "2- يعين نائبا المحافظ بالمرتبة الممتازة بناء علي اقتراح من المحافظ، وتحديد مزاياهما بامر ملكي.",
+    "target_en_norm": "2. the vice governors shall, upon the recommendation of the governor, be appointed at grade ‘excellent’; their benefits shall be determined pursuant to a royal order.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33219,
+    "source_ar": "3- يكلف المحافظ أحد النائبين ليحل محله عند غيابه.",
+    "target_en": "3. The Governor shall, in his absence, assign one of the Vice Governors to serve as acting governor.",
+    "source_ar_norm": "3- يكلف المحافظ احد النائبين ليحل محله عند غيابه.",
+    "target_en_norm": "3. the governor shall, in his absence, assign one of the vice governors to serve as acting governor.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33220,
+    "source_ar": "المادة الخامسة عشرة",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة",
+    "target_en_norm": "article 15",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33221,
+    "source_ar": "لا يكون موظفو البنك عرضة لأي مساءلة أو مطالبة بسبب تأديتهم لمهماتهم وفقاً لأحكام النظام باستثناء حالات سوء النية أو الإخلال الجسيم.",
+    "target_en": "Bank staff may not be subject to any liability or claim due to carrying out their duties in accordance with this Law, except in cases of bad faith or gross breach.",
+    "source_ar_norm": "لا يكون موظفو البنك عرضة لاي مساءلة او مطالبة بسبب تاديتهم لمهماتهم وفقا لاحكام النظام باستثناء حالات سوء النية او الاخلال الجسيم.",
+    "target_en_norm": "bank staff may not be subject to any liability or claim due to carrying out their duties in accordance with this law, except in cases of bad faith or gross breach.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33222,
+    "source_ar": "تعارض المصالح (المادة السادسة عشرة)",
+    "target_en": "Article 16: Conflict of Interest",
+    "source_ar_norm": "تعارض المصالح (المادة السادسة عشرة)",
+    "target_en_norm": "article 16: conflict of interest",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33223,
+    "source_ar": "1. على عضو المجلس الإفصاح عن أي مصلحة تتعارض بشكل مباشر أو غير مباشر مع أدائه لمهماته وذلك قبل أول اجتماع للمجلس أو عند نشوء ذلك، ويحظر على العضو المشاركة في التصويت في الموضوعات التي تتعارض مع مصالحه.",
+    "target_en": "1. A Board member shall disclose any direct or indirect conflict of interest, whether it exists prior to or during the performance of his duties. Said member may not vote on any matter involving a conflict of interest.",
+    "source_ar_norm": "1. علي عضو المجلس الافصاح عن اي مصلحة تتعارض بشكل مباشر او غير مباشر مع ادائه لمهماته وذلك قبل اول اجتماع للمجلس او عند نشوء ذلك، ويحظر علي العضو المشاركة في التصويت في الموضوعات التي تتعارض مع مصالحه.",
+    "target_en_norm": "1. a board member shall disclose any direct or indirect conflict of interest, whether it exists prior to or during the performance of his duties. said member may not vote on any matter involving a conflict of interest.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33224,
+    "source_ar": "2. على موظف البنك الإفصاح عن أي مصلحة مباشرة تتعارض مع أدائه لمهماته، ويحظر عليه في هذه الحالة المشاركة في اتخاذ القرارات أو الإجراءات أو إبداء الرأي حيال الموضوعات التي تتعارض مع مصالحه.",
+    "target_en": "2. Bank staff shall disclose any direct conflict of interest and shall not, in matters involving conflict of interest, be involved in the decision making process or related procedures nor express his opinion thereon.",
+    "source_ar_norm": "2. علي موظف البنك الافصاح عن اي مصلحة مباشرة تتعارض مع ادائه لمهماته، ويحظر عليه في هذه الحالة المشاركة في اتخاذ القرارات او الاجراءات او ابداء الراي حيال الموضوعات التي تتعارض مع مصالحه.",
+    "target_en_norm": "2. bank staff shall disclose any direct conflict of interest and shall not, in matters involving conflict of interest, be involved in the decision making process or related procedures nor express his opinion thereon.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33225,
+    "source_ar": "الفصل الثالث: السياسة النقدية",
+    "target_en": "Chapter 3: Monetary Policy",
+    "source_ar_norm": "الفصل الثالث: السياسة النقدية",
+    "target_en_norm": "chapter 3: monetary policy",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33226,
+    "source_ar": "المادة السابعة عشرة",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة",
+    "target_en_norm": "article 17",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33227,
+    "source_ar": "البنك هو المسؤول الوحيد عن وضع السياسة النقدية وتنفيذها، واختيار أدواتها وإجراءاتها التشغيلية.",
+    "target_en": "The Bank is solely responsible for formulating and implementing the monetary policy, and selecting its operational instruments and procedures.",
+    "source_ar_norm": "البنك هو المسؤول الوحيد عن وضع السياسة النقدية وتنفيذها، واختيار ادواتها واجراءاتها التشغيلية.",
+    "target_en_norm": "the bank is solely responsible for formulating and implementing the monetary policy, and selecting its operational instruments and procedures.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33228,
+    "source_ar": "الفصل الرابع: مراجع الحسابات الخارجي",
+    "target_en": "Chapter 4: External Auditor",
+    "source_ar_norm": "الفصل الرابع: مراجع الحسابات الخارجي",
+    "target_en_norm": "chapter 4: external auditor",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33229,
+    "source_ar": "المادة الثامنة عشرة",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة",
+    "target_en_norm": "article 18",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33230,
+    "source_ar": "1. يتولى تدقيق حسابات البنك مراجع خارجي (أو أكثر) على أن يكون مؤهلاً تأهيلاً فنياً كافياً وذا خبرة بأعمال البنك ويكون مسؤولاً أمام المجلس عن أداء عمله ويرفع تقاريره إلى المجلس مباشرة.",
+    "target_en": "1. The Bank’s accounts shall be audited by an external auditor, or more, who must be technically qualified and have expertise in Bank activities. Said auditor shall directly report to the Board and submit his reports thereto.",
+    "source_ar_norm": "1. يتولي تدقيق حسابات البنك مراجع خارجي (او اكثر) علي ان يكون مؤهلا تاهيلا فنيا كافيا وذا خبرة باعمال البنك ويكون مسؤولا امام المجلس عن اداء عمله ويرفع تقاريره الي المجلس مباشرة.",
+    "target_en_norm": "1. the bank’s accounts shall be audited by an external auditor, or more, who must be technically qualified and have expertise in bank activities. said auditor shall directly report to the board and submit his reports thereto.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33231,
+    "source_ar": "2. يقتصر عمل مراجع الحسابات الخارجي على تدقيق حسابات البنك وقوائمه المالية، ولا يكون له التدخل بأي صورة في تسيير أعمال البنك أو التعرض لسياساته.",
+    "target_en": "2. The external auditor’s duties shall be limited to auditing the Bank’s accounts and financial statements and may not interfere, in any manner, with Bank management or policies.",
+    "source_ar_norm": "2. يقتصر عمل مراجع الحسابات الخارجي علي تدقيق حسابات البنك وقوائمه المالية، ولا يكون له التدخل باي صورة في تسيير اعمال البنك او التعرض لسياساته.",
+    "target_en_norm": "2. the external auditor’s duties shall be limited to auditing the bank’s accounts and financial statements and may not interfere, in any manner, with bank management or policies.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33232,
+    "source_ar": "3. يكون لمراجع الحسابات الخارجي الحق في الاطلاع على دفاتر البنك وسجلاته ومستنداته، وأن يطلب البيانات كافة التي يرى ضرورة الحصول عليها لمباشرة أعماله وأداء واجباته. وفي حال عدم تمكنه من ذلك؛ يرفع بذلك تقريراً إلى المجلس.",
+    "target_en": "3. The external auditor shall have the right to access the Bank’s books, records, and documents, and may request any data he deems necessary to carry out his duties. If the auditor is unable to gain access to such data, he shall report the same to the Board.",
+    "source_ar_norm": "3. يكون لمراجع الحسابات الخارجي الحق في الاطلاع علي دفاتر البنك وسجلاته ومستنداته، وان يطلب البيانات كافة التي يري ضرورة الحصول عليها لمباشرة اعماله واداء واجباته. وفي حال عدم تمكنه من ذلك؛ يرفع بذلك تقريرا الي المجلس.",
+    "target_en_norm": "3. the external auditor shall have the right to access the bank’s books, records, and documents, and may request any data he deems necessary to carry out his duties. if the auditor is unable to gain access to such data, he shall report the same to the board.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33233,
+    "source_ar": "الفصل الخامس: العلاقة مع الحكومة والعلاقات الخارجية",
+    "target_en": "Chapter 5: Relationship with the Government and Foreign Entities",
+    "source_ar_norm": "الفصل الخامس: العلاقة مع الحكومة والعلاقات الخارجية",
+    "target_en_norm": "chapter 5: relationship with the government and foreign entities",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33234,
+    "source_ar": "المادة التاسعة عشرة",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة",
+    "target_en_norm": "article 19",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33235,
+    "source_ar": "يقوم البنك بالنيابة عن الحكومة وبناءً على طلب من وزير المالية أو من يفوّضه بما يأتي:",
+    "target_en": "The Bank shall, on behalf of the Government and upon the request of the Minister of Finance or his designee, carry out the following:",
+    "source_ar_norm": "يقوم البنك بالنيابة عن الحكومة وبناء علي طلب من وزير المالية او من يفوضه بما ياتي:",
+    "target_en_norm": "the bank shall, on behalf of the government and upon the request of the minister of finance or his designee, carry out the following:",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33236,
+    "source_ar": "1. فتح وتسوية ومتابعة الحسابات الجارية وتسجيل بيانات الإيرادات الحكومية.",
+    "target_en": "1. Open, settle, and monitor current accounts and record government revenues.",
+    "source_ar_norm": "1. فتح وتسوية ومتابعة الحسابات الجارية وتسجيل بيانات الايرادات الحكومية.",
+    "target_en_norm": "1. open, settle, and monitor current accounts and record government revenues.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33237,
+    "source_ar": "2. حفظ الودائع والحسابات.",
+    "target_en": "2. Maintain deposits and accounts.",
+    "source_ar_norm": "2. حفظ الودائع والحسابات.",
+    "target_en_norm": "2. maintain deposits and accounts.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33238,
+    "source_ar": "3. الإشراف على إصدار أو تنفيذ دفع الاعتمادات محلياً وخارجياً.",
+    "target_en": "3. Supervise the issuance and payment of letters of credit domestically and internationally.",
+    "source_ar_norm": "3. الاشراف علي اصدار او تنفيذ دفع الاعتمادات محليا وخارجيا.",
+    "target_en_norm": "3. supervise the issuance and payment of letters of credit domestically and internationally.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33239,
+    "source_ar": "المادة العشرون",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون",
+    "target_en_norm": "article 20",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33240,
+    "source_ar": "للبنك - وفقاً لما تقتضيه طبيعة أعماله، وتحقيقاً لأهدافه وأداء مهماته - القيام بالآتي:",
+    "target_en": "To achieve its objectives and carry out its duties, as required by the nature of its business, the Bank may:",
+    "source_ar_norm": "للبنك - وفقا لما تقتضيه طبيعة اعماله، وتحقيقا لاهدافه واداء مهماته - القيام بالاتي:",
+    "target_en_norm": "to achieve its objectives and carry out its duties, as required by the nature of its business, the bank may:",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33241,
+    "source_ar": "1. الدخول في اتفاقات ثنائية أو جماعية بشأن السياسات النقدية أو التنظيمية أو الرقابية، وفقاً للإجراءات النظامية.",
+    "target_en": "1. enter into bilateral or multilateral agreements relating to monetary, regulatory, or oversight policies, in accordance with statutory procedures;",
+    "source_ar_norm": "1. الدخول في اتفاقات ثنائية او جماعية بشان السياسات النقدية او التنظيمية او الرقابية، وفقا للاجراءات النظامية.",
+    "target_en_norm": "1. enter into bilateral or multilateral agreements relating to monetary, regulatory, or oversight policies, in accordance with statutory procedures;",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33242,
+    "source_ar": "2. إبرام الاتفاقات مع البنوك المركزية الأخرى، أو الجهات الرقابية والإشرافية الأجنبية المماثلة، أو المؤسسات والمنظمات والمجالس الدولية ذات الصلة بعمله، وفقاً للإجراءات النظامية.",
+    "target_en": "2. conclude agreements with other central banks; similar foreign supervisory or oversight entities; or relevant international institutions, organizations, and councils, in accordance with statutory procedures;",
+    "source_ar_norm": "2. ابرام الاتفاقات مع البنوك المركزية الاخري، او الجهات الرقابية والاشرافية الاجنبية المماثلة، او المؤسسات والمنظمات والمجالس الدولية ذات الصلة بعمله، وفقا للاجراءات النظامية.",
+    "target_en_norm": "2. conclude agreements with other central banks; similar foreign supervisory or oversight entities; or relevant international institutions, organizations, and councils, in accordance with statutory procedures;",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33243,
+    "source_ar": "3. التعاون والتنسيق مع الجهات الأجنبية النظيرة لغرض تبادل المعلومات أو الزيارات الإشرافية والرقابية ذات العلاقة بالمؤسسات المالية.",
+    "target_en": "3. cooperate and coordinate with foreign counterparts for the purpose of exchanging information or carrying out supervisory and oversight visits related to financial institutions; and",
+    "source_ar_norm": "3. التعاون والتنسيق مع الجهات الاجنبية النظيرة لغرض تبادل المعلومات او الزيارات الاشرافية والرقابية ذات العلاقة بالمؤسسات المالية.",
+    "target_en_norm": "3. cooperate and coordinate with foreign counterparts for the purpose of exchanging information or carrying out supervisory and oversight visits related to financial institutions; and",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33244,
+    "source_ar": "4. إجراء العمليات النقدية والمالية وفتح حسابات في البنوك المركزية الأخرى والمؤسسات النقدية والمالية المحلية والأجنبية والإقليمية والدولية.",
+    "target_en": "4. carry out monetary and financial operations and open accounts with other central banks and local, foreign, regional, and international monetary and financial institutions.",
+    "source_ar_norm": "4. اجراء العمليات النقدية والمالية وفتح حسابات في البنوك المركزية الاخري والمؤسسات النقدية والمالية المحلية والاجنبية والاقليمية والدولية.",
+    "target_en_norm": "4. carry out monetary and financial operations and open accounts with other central banks and local, foreign, regional, and international monetary and financial institutions.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33245,
+    "source_ar": "المادة الحادية والعشرون",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون",
+    "target_en_norm": "article 21",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33246,
+    "source_ar": "يُعنى البنك عند تواصله مع الجهات الرقابية والإشرافية الأجنبية المماثلة والمنظمات الدولية ذات الصلة؛ بما يأتي:",
+    "target_en": "In its communications with similar foreign oversight and supervisory authorities and relevant international organizations, the Bank shall:",
+    "source_ar_norm": "يعني البنك عند تواصله مع الجهات الرقابية والاشرافية الاجنبية المماثلة والمنظمات الدولية ذات الصلة؛ بما ياتي:",
+    "target_en_norm": "in its communications with similar foreign oversight and supervisory authorities and relevant international organizations, the bank shall:",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33247,
+    "source_ar": "1. المحافظة على تطوير العلاقات وتعزيز سبل التواصل مع تلك الجهات والمنظمات من خلال تنسيق الزيارات وتبادلها، وعقد الاجتماعات وجلسات العمل وحضورها.",
+    "target_en": "1. promote its relationship therewith by exchanging visits and holding meetings and work sessions; and",
+    "source_ar_norm": "1. المحافظة علي تطوير العلاقات وتعزيز سبل التواصل مع تلك الجهات والمنظمات من خلال تنسيق الزيارات وتبادلها، وعقد الاجتماعات وجلسات العمل وحضورها.",
+    "target_en_norm": "1. promote its relationship therewith by exchanging visits and holding meetings and work sessions; and",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33248,
+    "source_ar": "2. متابعة ما يصدر من التقارير والمعلومات من تلك الجهات والمنظمات.",
+    "target_en": "2. keep abreast of reports and information issued thereby.",
+    "source_ar_norm": "2. متابعة ما يصدر من التقارير والمعلومات من تلك الجهات والمنظمات.",
+    "target_en_norm": "2. keep abreast of reports and information issued thereby.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33249,
+    "source_ar": "الفصل السادس: أحكام ختامية",
+    "target_en": "Chapter 6: Concluding Provisions",
+    "source_ar_norm": "الفصل السادس: احكام ختامية",
+    "target_en_norm": "chapter 6: concluding provisions",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33250,
+    "source_ar": "المادة الثانية والعشرون",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون",
+    "target_en_norm": "article 22",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33251,
+    "source_ar": "1. للبنك إبرام العقود والاتفاقيات باللغة العربية أو بغيرها من اللغات وفق ما تقتضيه حاجة العمل ومصلحة البنك.",
+    "target_en": "1. The Bank may conclude contracts and agreements in Arabic or other languages, as necessary.",
+    "source_ar_norm": "1. للبنك ابرام العقود والاتفاقيات باللغة العربية او بغيرها من اللغات وفق ما تقتضيه حاجة العمل ومصلحة البنك.",
+    "target_en_norm": "1. the bank may conclude contracts and agreements in arabic or other languages, as necessary.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33252,
+    "source_ar": "2. لا يخضـع البنك في قيامـه بتنفيذ أعمالـه وتأمين مشترياته لأحـكام نظام المنافسـات والمشتـريات الحكوميـة، ويخضـع في ذلك لما يصـدره المجلـس من لـوائح وسياسات، على أن تكـون هذه اللوائح والسيـاسـات متفقة مع الأهداف والمبادئ الأساسيـة لنظام المنـافسات والمشتـريات الحكومية.",
+    "target_en": "2. The Bank shall not, in carrying out its activities and procurements, be subject to the provisions of the Government Tenders and Procurement Law, and shall instead be subject to regulations and policies issued by the Board, provided that such regulations and policies are in line with the main objectives and principles of the Government Tenders and Procurement Law.",
+    "source_ar_norm": "2. لا يخضع البنك في قيامه بتنفيذ اعماله وتامين مشترياته لاحكام نظام المنافسات والمشتريات الحكومية، ويخضع في ذلك لما يصدره المجلس من لوائح وسياسات، علي ان تكون هذه اللوائح والسياسات متفقة مع الاهداف والمبادئ الاساسية لنظام المنافسات والمشتريات الحكومية.",
+    "target_en_norm": "2. the bank shall not, in carrying out its activities and procurements, be subject to the provisions of the government tenders and procurement law, and shall instead be subject to regulations and policies issued by the board, provided that such regulations and policies are in line with the main objectives and principles of the government tenders and procurement law.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33253,
+    "source_ar": "3. تخضع عقود البنك واتفاقياته لما يقره المجلس من سياسات، ويجوز استثناءً في الحالات التي تقتضيها مصلحة البنك؛ أن ينص على إخضاع عقوده واتفاقياته لقوانين أجنبية وذلك وفق السياسات الصادرة من المجلس. ويجوز في تلك الحالات تضمين العقود والاتفاقيات أحكاماً تخضع بمقتضاها لاختصاص محاكم أجنبية أو ينص فيها على اللجوء إلى التحكيم للبت في المنازعات التي قد تنشأ حيالها.",
+    "target_en": "3. Bank contracts and agreements shall be subject to policies approved by the Board. However, if the interest of the Bank so dictates, Bank contracts and agreements may stipulate that they be subject to foreign laws, in accordance with policies issued by the Board. In such case, said contracts and agreements may stipulate that they be subject to the jurisdiction of foreign courts or settle disputes through arbitration.",
+    "source_ar_norm": "3. تخضع عقود البنك واتفاقياته لما يقره المجلس من سياسات، ويجوز استثناء في الحالات التي تقتضيها مصلحة البنك؛ ان ينص علي اخضاع عقوده واتفاقياته لقوانين اجنبية وذلك وفق السياسات الصادرة من المجلس. ويجوز في تلك الحالات تضمين العقود والاتفاقيات احكاما تخضع بمقتضاها لاختصاص محاكم اجنبية او ينص فيها علي اللجوء الي التحكيم للبت في المنازعات التي قد تنشا حيالها.",
+    "target_en_norm": "3. bank contracts and agreements shall be subject to policies approved by the board. however, if the interest of the bank so dictates, bank contracts and agreements may stipulate that they be subject to foreign laws, in accordance with policies issued by the board. in such case, said contracts and agreements may stipulate that they be subject to the jurisdiction of foreign courts or settle disputes through arbitration.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33254,
+    "source_ar": "المادة الثالثة والعشرون",
+    "target_en": "Article 23",
+    "source_ar_norm": "المادة الثالثة والعشرون",
+    "target_en_norm": "article 23",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33255,
+    "source_ar": "يحظـر على أعضـاء المجلس وموظفـي البنك ومراجعي حساباته الخارجيين ووكلائه إفشاء أي بيانات أو معلومات تتعلق بشؤون البنك أو بشؤون المؤسسات المالية سواء أثناء عملهم أو بعد تركهم للعمل.",
+    "target_en": "Board members, Bank staff, Bank agents, and external auditors shall not disclose any data or information relating to the affairs of the Bank or financial institutions, whether during or after the term of their employment.",
+    "source_ar_norm": "يحظر علي اعضاء المجلس وموظفي البنك ومراجعي حساباته الخارجيين ووكلائه افشاء اي بيانات او معلومات تتعلق بشؤون البنك او بشؤون المؤسسات المالية سواء اثناء عملهم او بعد تركهم للعمل.",
+    "target_en_norm": "board members, bank staff, bank agents, and external auditors shall not disclose any data or information relating to the affairs of the bank or financial institutions, whether during or after the term of their employment.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33256,
+    "source_ar": "المادة الرابعة والعشرون",
+    "target_en": "Article 24",
+    "source_ar_norm": "المادة الرابعة والعشرون",
+    "target_en_norm": "article 24",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33257,
+    "source_ar": "لا يجوز التدخل بأي صورة في تسيير أعمال البنك أو التعرض لسياساته أو فرض الرقابة عليه أو تدقيق حساباته أو على ما يبرمه من عقود أو اتفاقيات.",
+    "target_en": "Interfering, in any way, in the Bank’s activities and policies as well as its contracts and agreements, imposing oversight over the Bank, and auditing its accounts shall not be permitted.",
+    "source_ar_norm": "لا يجوز التدخل باي صورة في تسيير اعمال البنك او التعرض لسياساته او فرض الرقابة عليه او تدقيق حساباته او علي ما يبرمه من عقود او اتفاقيات.",
+    "target_en_norm": "interfering, in any way, in the bank’s activities and policies as well as its contracts and agreements, imposing oversight over the bank, and auditing its accounts shall not be permitted.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33258,
+    "source_ar": "المادة الخامسة والعشرون",
+    "target_en": "Article 25",
+    "source_ar_norm": "المادة الخامسة والعشرون",
+    "target_en_norm": "article 25",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33259,
+    "source_ar": "يقدم البنك إلى الملك تقريراً يشمل أحدث التطورات المالية والاقتصادية في المملكة وتقرير مراجعي الحسابات الخارجيين للبنك وذلك للسنة المالية المنصرمة، ويزود وزير المالية بنسخة منه. وتنشر نسخة من ذلك التقرير في التوقيت والوسيلة المناسبين.",
+    "target_en": "The Bank shall submit to the King a report comprising the latest financial and economic developments in the Kingdom and the external auditors’ fiscal year- end report; a copy thereof shall be submitted to the Minister of Finance and shall be published at the appropriate time and in the appropriate manner.",
+    "source_ar_norm": "يقدم البنك الي الملك تقريرا يشمل احدث التطورات المالية والاقتصادية في المملكة وتقرير مراجعي الحسابات الخارجيين للبنك وذلك للسنة المالية المنصرمة، ويزود وزير المالية بنسخة منه. وتنشر نسخة من ذلك التقرير في التوقيت والوسيلة المناسبين.",
+    "target_en_norm": "the bank shall submit to the king a report comprising the latest financial and economic developments in the kingdom and the external auditors’ fiscal year- end report; a copy thereof shall be submitted to the minister of finance and shall be published at the appropriate time and in the appropriate manner.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33260,
+    "source_ar": "المادة السادسة والعشرون",
+    "target_en": "Article 26",
+    "source_ar_norm": "المادة السادسة والعشرون",
+    "target_en_norm": "article 26",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33261,
+    "source_ar": "يحل النظام محل نظام مؤسسة النقد العربي السعودي الصادر بالمرسوم الملكي رقم (23) وتاريخ 23-5-1. 377هـ، ويلغي كل ما يتعارض معه من أحكام.",
+    "target_en": "This Law shall supersede the Saudi Arabian Monetary Authority Law, promulgated by Royal Decree No. 23, dated 23/5/1377H, and shall repeal any provision conflicting therewith.",
+    "source_ar_norm": "يحل النظام محل نظام مؤسسة النقد العربي السعودي الصادر بالمرسوم الملكي رقم (23) وتاريخ 23-5-1. 377ه، ويلغي كل ما يتعارض معه من احكام.",
+    "target_en_norm": "this law shall supersede the saudi arabian monetary authority law, promulgated by royal decree no. 23, dated 23/5/1377h, and shall repeal any provision conflicting therewith.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33262,
+    "source_ar": "المادة السابعة والعشرون",
+    "target_en": "Article 27",
+    "source_ar_norm": "المادة السابعة والعشرون",
+    "target_en_norm": "article 27",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33263,
+    "source_ar": "يُعمل بالنظام بعد (تسعين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+    "target_en": "This Law shall enter into force 90 days following the date of its publication in the Official Gazette.",
+    "source_ar_norm": "يعمل بالنظام بعد (تسعين) يوما من تاريخ نشره في الجريدة الرسمية.",
+    "target_en_norm": "this law shall enter into force 90 days following the date of its publication in the official gazette.",
+    "file_name": "نظام البنك المركزي السعودي.docx"
+  },
+  {
+    "id": 33264,
+    "source_ar": "نظام البيئة",
+    "target_en": "Environmental Law",
+    "source_ar_norm": "نظام البيئة",
+    "target_en_norm": "environmental law",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33265,
+    "source_ar": "الفصل الأول ( أحكام عامة )",
+    "target_en": "Chapter 1: General Provisions",
+    "source_ar_norm": "الفصل الاول ( احكام عامة )",
+    "target_en_norm": "chapter 1: general provisions",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33266,
+    "source_ar": "المادة الأولى",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي",
+    "target_en_norm": "article 1",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33267,
+    "source_ar": "يقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمام كل منها، ما لم يقتض السياق غير ذلك:",
+    "target_en": "In this Law, the following terms and phrases shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "source_ar_norm": "يقصد بالالفاظ والعبارات الاتية -اينما وردت في هذا النظام- المعاني المبينة امام كل منها، ما لم يقتض السياق غير ذلك:",
+    "target_en_norm": "in this law, the following terms and phrases shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33268,
+    "source_ar": "النظام: نظام البيئة.",
+    "target_en": "Law: Environmental Law.",
+    "source_ar_norm": "النظام: نظام البيئة.",
+    "target_en_norm": "law: environmental law.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33269,
+    "source_ar": "اللوائح: اللوائح التنفيذية للنظام.",
+    "target_en": "Regulations: Implementing Regulations of the Law.",
+    "source_ar_norm": "اللوائح: اللوائح التنفيذية للنظام.",
+    "target_en_norm": "regulations: implementing regulations of the law.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33270,
+    "source_ar": "الوزارة: وزارة البيئة والمياه والزراعة.",
+    "target_en": "Ministry: Ministry of Environment, Water, and Agriculture.",
+    "source_ar_norm": "الوزارة: وزارة البيئة والمياه والزراعة.",
+    "target_en_norm": "ministry: ministry of environment, water, and agriculture.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33271,
+    "source_ar": "الوزير: وزير البيئة والمياه والزراعة.",
+    "target_en": "Minister: Minister of Environment, Water, and Agriculture.",
+    "source_ar_norm": "الوزير: وزير البيئة والمياه والزراعة.",
+    "target_en_norm": "minister: minister of environment, water, and agriculture.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33272,
+    "source_ar": "الجهة المختصة: الوزارة، أو أي من المراكز الوطنية لقطاع البيئة، كل بحسب اختصاصه، ووفقاً لما تحدده اللوائح.",
+    "target_en": "Competent Authority: The Ministry, or any national center of the environmental sector, each within its jurisdiction, as determined by the Regulations.",
+    "source_ar_norm": "الجهة المختصة: الوزارة، او اي من المراكز الوطنية لقطاع البيئة، كل بحسب اختصاصه، ووفقا لما تحدده اللوائح.",
+    "target_en_norm": "competent authority: the ministry, or any national center of the environmental sector, each within its jurisdiction, as determined by the regulations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33273,
+    "source_ar": "الجهة المشرفة: أي جهة حكومية مُخوَّلة نظاماً بالإشراف على قطاع تنموي، وتختص بإصدار تراخيص لممارسة الأنشطة التي تخضع لإشرافها.",
+    "target_en": "Supervisory Entity: Any government entity legally authorized to supervise a development sector, and issue licenses to engage in activities under its supervision.",
+    "source_ar_norm": "الجهة المشرفة: اي جهة حكومية مخولة نظاما بالاشراف علي قطاع تنموي، وتختص باصدار تراخيص لممارسة الانشطة التي تخضع لاشرافها.",
+    "target_en_norm": "supervisory entity: any government entity legally authorized to supervise a development sector, and issue licenses to engage in activities under its supervision.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33274,
+    "source_ar": "الشخص: أي شخص ذي صفة طبيعية أو اعتبارية عامة أو خاصة.",
+    "target_en": "Person: Any public or private natural or legal person.",
+    "source_ar_norm": "الشخص: اي شخص ذي صفة طبيعية او اعتبارية عامة او خاصة.",
+    "target_en_norm": "person: any public or private natural or legal person.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33275,
+    "source_ar": "التصريح: وثيقة تمنحها الجهة المختصة للشخص قبل البدء بممارسته أي نشاط له أثر بيئي.",
+    "target_en": "Permit: A document granted by the competent authority to a person prior to engaging in any activity that has an environmental impact.",
+    "source_ar_norm": "التصريح: وثيقة تمنحها الجهة المختصة للشخص قبل البدء بممارسته اي نشاط له اثر بيئي.",
+    "target_en_norm": "permit: a document granted by the competent authority to a person prior to engaging in any activity that has an environmental impact.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33276,
+    "source_ar": "الترخيص: وثيقة تمنحها الجهة المختصة للشخص للإذن له بممارسة نشاط بيئي.",
+    "target_en": "License: A document granted by the competent authority to permit a person to engage in an environmental activity.",
+    "source_ar_norm": "الترخيص: وثيقة تمنحها الجهة المختصة للشخص للاذن له بممارسة نشاط بيئي.",
+    "target_en_norm": "license: a document granted by the competent authority to permit a person to engage in an environmental activity.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33277,
+    "source_ar": "المصرح له: شخص حاصل على التصريح.",
+    "target_en": "Permit Holder: A person who holds a permit.",
+    "source_ar_norm": "المصرح له: شخص حاصل علي التصريح.",
+    "target_en_norm": "permit holder: a person who holds a permit.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33278,
+    "source_ar": "المرخص له: شخص حاصل على الترخيص.",
+    "target_en": "Licensee: A person who holds a license.",
+    "source_ar_norm": "المرخص له: شخص حاصل علي الترخيص.",
+    "target_en_norm": "licensee: a person who holds a license.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33279,
+    "source_ar": "نشاط بيئي: أي نشاط تشغيلي أو فني له علاقة بقطاع البيئة.",
+    "target_en": "Environmental Activity: Any operational or technical activity related to the environmental sector.",
+    "source_ar_norm": "نشاط بيئي: اي نشاط تشغيلي او فني له علاقة بقطاع البيئة.",
+    "target_en_norm": "environmental activity: any operational or technical activity related to the environmental sector.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33280,
+    "source_ar": "الأثر البيئي: كل تغيير سلبي أو إيجابي يؤثر في البيئة نتيجة ممارسة أي نشاط.",
+    "target_en": "Environmental Impact: Any negative or positive change that affects the environment as a result of engaging in any activity.",
+    "source_ar_norm": "الاثر البيئي: كل تغيير سلبي او ايجابي يؤثر في البيئة نتيجة ممارسة اي نشاط.",
+    "target_en_norm": "environmental impact: any negative or positive change that affects the environment as a result of engaging in any activity.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33281,
+    "source_ar": "البيئة / الأوساط البيئية: كل ما يحيط بالإنسان أو الحيوان أو النبات أو أي كائن حي؛ من ماء وهواء ويابسة وتربة وأحياء وتنوع أحيائي وغازات في الغلاف الجوي ومسطحات مائية، وما تحتويه هذه الأوساط من جماد وأشكال مختلفة من طاقة وموائل بيئية وعمليات طبيعية وتفاعلها فيما بينها.",
+    "target_en": "Environment/Environmental Mediums: Anything surrounding human beings, animals, plants, or any other living creature, including water, air, land, soil, living organisms, biodiversity, atmospheric gases and water bodies, as well as inanimate objects, various forms of energy, environmental habitats, and natural processes and their interactions with one another.",
+    "source_ar_norm": "البيئة / الاوساط البيئية: كل ما يحيط بالانسان او الحيوان او النبات او اي كائن حي؛ من ماء وهواء ويابسة وتربة واحياء وتنوع احيائي وغازات في الغلاف الجوي ومسطحات مائية، وما تحتويه هذه الاوساط من جماد واشكال مختلفة من طاقة وموائل بيئية وعمليات طبيعية وتفاعلها فيما بينها.",
+    "target_en_norm": "environment/environmental mediums: anything surrounding human beings, animals, plants, or any other living creature, including water, air, land, soil, living organisms, biodiversity, atmospheric gases and water bodies, as well as inanimate objects, various forms of energy, environmental habitats, and natural processes and their interactions with one another.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33282,
+    "source_ar": "قطاع البيئة: يشمل الأوساط البيئية والأنشطة والبرامج المتعلقة بها، والتي تهدف إلى ضمان حماية البيئة وسلامتها، وتنمية الأوساط البيئية لضمان استدامتها وحمايتها من أي مصدر للتلوث.",
+    "target_en": "Environmental Sector: It includes environmental mediums and activities, and programs related thereto, that aim to ensure environmental protection and safety and the development of environmental mediums to ensure their sustainability and protection from any source of pollution.",
+    "source_ar_norm": "قطاع البيئة: يشمل الاوساط البيئية والانشطة والبرامج المتعلقة بها، والتي تهدف الي ضمان حماية البيئة وسلامتها، وتنمية الاوساط البيئية لضمان استدامتها وحمايتها من اي مصدر للتلوث.",
+    "target_en_norm": "environmental sector: it includes environmental mediums and activities, and programs related thereto, that aim to ensure environmental protection and safety and the development of environmental mediums to ensure their sustainability and protection from any source of pollution.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33283,
+    "source_ar": "الاعتبارات البيئية: كل ما يجب أخذه في الحسبان -عند تخطيط أي مشروع- من أنظمة وقرارات واستراتيجيات وبرامج بيئية.",
+    "target_en": "Environmental Considerations: All matters to be taken into consideration upon planning any project, including environment-related laws, decisions, strategies, and programs.",
+    "source_ar_norm": "الاعتبارات البيئية: كل ما يجب اخذه في الحسبان -عند تخطيط اي مشروع- من انظمة وقرارات واستراتيجيات وبرامج بيئية.",
+    "target_en_norm": "environmental considerations: all matters to be taken into consideration upon planning any project, including environment-related laws, decisions, strategies, and programs.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33284,
+    "source_ar": "المبادئ البيئية: مبادئ متعارف عليها في المنظمات الدولية والاتفاقيات ذات الصلة بالبيئة، وتهدف إلى حماية البيئة.",
+    "target_en": "Environmental Principles: Principles recognized by environment-related international organizations and conventions, that aim to protect the environment.",
+    "source_ar_norm": "المبادئ البيئية: مبادئ متعارف عليها في المنظمات الدولية والاتفاقيات ذات الصلة بالبيئة، وتهدف الي حماية البيئة.",
+    "target_en_norm": "environmental principles: principles recognized by environment-related international organizations and conventions, that aim to protect the environment.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33285,
+    "source_ar": "الموارد الطبيعية: جميع المواد الحية وغير الحية -الموجودة في الطبيعة- ومنتجاتها، التي يستغلها أو يستثمرها الإنسان بشكل مباشر، كالهواء والمياه والأراضي والتربة والتنوع الأحيائي والتكوينات الجيولوجية ذات القيمة البيئية.",
+    "target_en": "Natural Resources: All living and non-living things found in nature and their products, that are directly utilized by human beings, such as air, water, land, soil, biodiversity, and geological formations of environmental value.",
+    "source_ar_norm": "الموارد الطبيعية: جميع المواد الحية وغير الحية -الموجودة في الطبيعة- ومنتجاتها، التي يستغلها او يستثمرها الانسان بشكل مباشر، كالهواء والمياه والاراضي والتربة والتنوع الاحيائي والتكوينات الجيولوجية ذات القيمة البيئية.",
+    "target_en_norm": "natural resources: all living and non-living things found in nature and their products, that are directly utilized by human beings, such as air, water, land, soil, biodiversity, and geological formations of environmental value.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33286,
+    "source_ar": "التنوع الأحيائي: التعدد في أنواع الكائنات النباتية أو الحيوانية أو المجهرية وعددها، والتباين بين هذه الأنواع.",
+    "target_en": "Biodiversity: Diversity of species and numbers of plants, animals, or microorganisms and variations therebetween.",
+    "source_ar_norm": "التنوع الاحيائي: التعدد في انواع الكائنات النباتية او الحيوانية او المجهرية وعددها، والتباين بين هذه الانواع.",
+    "target_en_norm": "biodiversity: diversity of species and numbers of plants, animals, or microorganisms and variations therebetween.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33287,
+    "source_ar": "الكائنات الفطرية: أي كائن حي أو ميت، وينتمي علميًّا إلى المجموعات الحيوانية أو النباتية، ولا يدخل في ذلك الإنسان والكائنات المدجنة والأليفة.",
+    "target_en": "Wildlife Organisms: Living or dead organisms, excluding humans or domesticated or tamed animals, that are scientifically classified as animal or plant populations.",
+    "source_ar_norm": "الكائنات الفطرية: اي كائن حي او ميت، وينتمي علميا الي المجموعات الحيوانية او النباتية، ولا يدخل في ذلك الانسان والكائنات المدجنة والاليفة.",
+    "target_en_norm": "wildlife organisms: living or dead organisms, excluding humans or domesticated or tamed animals, that are scientifically classified as animal or plant populations.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33288,
+    "source_ar": "الموائل: مواقع تعيش أو تنمو أو تتكاثر فيها الكائنات الفطرية بشكل طبيعي ومترابط ومتكامل مع الظروف المحيطة.",
+    "target_en": "Habitats: Sites where wildlife organisms naturally live, grow, or reproduce in a manner that is interrelated and integrated with their surroundings.",
+    "source_ar_norm": "الموائل: مواقع تعيش او تنمو او تتكاثر فيها الكائنات الفطرية بشكل طبيعي ومترابط ومتكامل مع الظروف المحيطة.",
+    "target_en_norm": "habitats: sites where wildlife organisms naturally live, grow, or reproduce in a manner that is interrelated and integrated with their surroundings.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33289,
+    "source_ar": "الحياة الفطرية: الكائنات الفطرية النباتية والحيوانية وموائلها.",
+    "target_en": "Wildlife: Wild plant and animal organisms and their habitats.",
+    "source_ar_norm": "الحياة الفطرية: الكائنات الفطرية النباتية والحيوانية وموائلها.",
+    "target_en_norm": "wildlife: wild plant and animal organisms and their habitats.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33290,
+    "source_ar": "المناطق المحمية: مواقع برية أو بحرية أو ساحلية تحددها الجهة المختصة، ومخصصة لحماية الكائنات الفطرية وتنميتها.",
+    "target_en": "Protected Areas: Land, marine, or coastal sites designated by the competent authority for the protection and development of wildlife.",
+    "source_ar_norm": "المناطق المحمية: مواقع برية او بحرية او ساحلية تحددها الجهة المختصة، ومخصصة لحماية الكائنات الفطرية وتنميتها.",
+    "target_en_norm": "protected areas: land, marine, or coastal sites designated by the competent authority for the protection and development of wildlife.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33291,
+    "source_ar": "مشتق: كل ما يستخرج من الكائنات الفطرية سواء بشكل طبيعي أو غير طبيعي.",
+    "target_en": "Derivative: Any item naturally or artificially extracted from wildlife organisms.",
+    "source_ar_norm": "مشتق: كل ما يستخرج من الكائنات الفطرية سواء بشكل طبيعي او غير طبيعي.",
+    "target_en_norm": "derivative: any item naturally or artificially extracted from wildlife organisms.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33292,
+    "source_ar": "منتج: أي جزء من أي كائن فطري، سواء أكان مصنّعًا جزئيًّا أم كليًّا أو غير مصنّع.",
+    "target_en": "Product: Any part of a wildlife organism, whether unprocessed or partially or wholly processed.",
+    "source_ar_norm": "منتج: اي جزء من اي كائن فطري، سواء اكان مصنعا جزئيا ام كليا او غير مصنع.",
+    "target_en_norm": "product: any part of a wildlife organism, whether unprocessed or partially or wholly processed.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33293,
+    "source_ar": "وسائل المكافحة الحيوية: استخدام النظم الحيوية أو الكائنات الحية أو مشتقاتها للحد من الآفات وأمراض النباتات، وضبطها، ومكافحتها.",
+    "target_en": "Biological Control Methods: The use of biological systems, living organisms, or their derivatives to control pests and plant diseases.",
+    "source_ar_norm": "وسائل المكافحة الحيوية: استخدام النظم الحيوية او الكائنات الحية او مشتقاتها للحد من الافات وامراض النباتات، وضبطها، ومكافحتها.",
+    "target_en_norm": "biological control methods: the use of biological systems, living organisms, or their derivatives to control pests and plant diseases.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33294,
+    "source_ar": "الغطاء النباتي: النباتات الطبيعية سواء أكانت أعشابًا أم شجيرات أم أشجارًا.",
+    "target_en": "Vegetation Cover: Natural plants, whether they be herbs, shrubs, or trees.",
+    "source_ar_norm": "الغطاء النباتي: النباتات الطبيعية سواء اكانت اعشابا ام شجيرات ام اشجارا.",
+    "target_en_norm": "vegetation cover: natural plants, whether they be herbs, shrubs, or trees.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33295,
+    "source_ar": "أراضي الغطاء النباتي: جميع الأراضي المملوكة للدولة التي تحتوي على نباتات برية وما في حكمها. وتشمل: المراعي، والغابات، والمنتزهات الوطنية والبرية والجيولوجية، والمناطق الرطبة، والمناطق السهلية، والمناطق الرملية (الكثبان)، والمناطق الجبلية، والوديان، والمناطق الساحلية، والجزر.",
+    "target_en": "Vegetation Cover Lands: All state-owned lands that contain wild plants and the like. This includes pasture lands; forests; national, wildlife and geological parks; wetlands; flatlands; sandy areas (dunes); highlands; valleys; coastal areas; and islands.",
+    "source_ar_norm": "اراضي الغطاء النباتي: جميع الاراضي المملوكة للدولة التي تحتوي علي نباتات برية وما في حكمها. وتشمل: المراعي، والغابات، والمنتزهات الوطنية والبرية والجيولوجية، والمناطق الرطبة، والمناطق السهلية، والمناطق الرملية (الكثبان)، والمناطق الجبلية، والوديان، والمناطق الساحلية، والجزر.",
+    "target_en_norm": "vegetation cover lands: all state-owned lands that contain wild plants and the like. this includes pasture lands; forests; national, wildlife and geological parks; wetlands; flatlands; sandy areas (dunes); highlands; valleys; coastal areas; and islands.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33296,
+    "source_ar": "الغابات: تجمع نباتي يتكون من نوع أو عدة أنواع من الأشجار أو الشجيرات أو النباتات العشبية في حالة نقية، أو مختلطة بكثافة شجرية لا تقل عن (10%) من مساحة الموقع، سواء أكان هذا التجمع طبيعيًّا أم مستزرعًا.",
+    "target_en": "Forests: A natural or cultivated vegetation consisting of one or several types of trees, shrubs, or herbs whether unmixed, or mixed with trees of a density not less than 10% of the site area.",
+    "source_ar_norm": "الغابات: تجمع نباتي يتكون من نوع او عدة انواع من الاشجار او الشجيرات او النباتات العشبية في حالة نقية، او مختلطة بكثافة شجرية لا تقل عن (10%) من مساحة الموقع، سواء اكان هذا التجمع طبيعيا ام مستزرعا.",
+    "target_en_norm": "forests: a natural or cultivated vegetation consisting of one or several types of trees, shrubs, or herbs whether unmixed, or mixed with trees of a density not less than 10% of the site area.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33297,
+    "source_ar": "المراعي: الأراضي المغطاة -كليًّا أو جزئيًّا- بنباتات محلية أو غير محلية نامية نمواً طبيعيًّا، وتتفاوت في صلاحيتها للرعي وتغذية الحيوانات، سواء أكانت أعشابًا أم شجيرات أم أشجارًا، ويدخل ضمنها: المراعي التي تدهورت وأعيد استزراعها بنباتات رعوية، وتكون على أراضٍ غير مستغلة في الزراعة والسكن والمنافع العامة.",
+    "target_en": "Pastures: Lands that are wholly or partially covered with naturally-grown indigenous or exotic plants, including herbs, shrubs, or trees, that vary in their suitability for grazing and animal feeding, including degraded pastures that have been re-cultivated with grazing plants, and that are located on lands not utilized for cultivation, housing, or public utilities.",
+    "source_ar_norm": "المراعي: الاراضي المغطاة -كليا او جزئيا- بنباتات محلية او غير محلية نامية نموا طبيعيا، وتتفاوت في صلاحيتها للرعي وتغذية الحيوانات، سواء اكانت اعشابا ام شجيرات ام اشجارا، ويدخل ضمنها: المراعي التي تدهورت واعيد استزراعها بنباتات رعوية، وتكون علي اراض غير مستغلة في الزراعة والسكن والمنافع العامة.",
+    "target_en_norm": "pastures: lands that are wholly or partially covered with naturally-grown indigenous or exotic plants, including herbs, shrubs, or trees, that vary in their suitability for grazing and animal feeding, including degraded pastures that have been re-cultivated with grazing plants, and that are located on lands not utilized for cultivation, housing, or public utilities.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33298,
+    "source_ar": "الأشجار: أي شجرة لها جذع خشبي أو هوائي، وترتفع عن سطح الأرض (1.5) مترًا ونصف المتر فأكثر، سواء أكانت نامية نموًّا طبيعيًّا أم مستزرعة.",
+    "target_en": "Trees: Any naturally-grown or cultivated tree with a wooden or air root that rises 1.5 meters or more above the ground.",
+    "source_ar_norm": "الاشجار: اي شجرة لها جذع خشبي او هوائي، وترتفع عن سطح الارض (1.5) مترا ونصف المتر فاكثر، سواء اكانت نامية نموا طبيعيا ام مستزرعة.",
+    "target_en_norm": "trees: any naturally-grown or cultivated tree with a wooden or air root that rises 1.5 meters or more above the ground.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33299,
+    "source_ar": "الشجيرات: أي نبتة طبيعية أو مستزرعة نامية، ويبلغ ارتفاعها من نصف متر إلى أقل من (1.5) متر ونصف المتر.",
+    "target_en": "Shrubs: Any naturally-grown or cultivated plant with a height ranging from 0.5 meter to less than 1.5 meters.",
+    "source_ar_norm": "الشجيرات: اي نبتة طبيعية او مستزرعة نامية، ويبلغ ارتفاعها من نصف متر الي اقل من (1.5) متر ونصف المتر.",
+    "target_en_norm": "shrubs: any naturally-grown or cultivated plant with a height ranging from 0.5 meter to less than 1.5 meters.",
+    "file_name": "نظام البيئة.docx"
+  },
+  {
+    "id": 33300,
+    "source_ar": "المنتزهات الوطنية والبرية والجيولوجية: مواقع ضمن أراضي الغطاء النباتي ذات خصائص بيئية أو جيولوجية فريدة جرى تطويرها للمحافظة عليها وتشجيع السياحة البيئية فيها.",
+    "target_en": "National, Wildlife, and Geological Parks: Sites within the vegetation cover lands with unique environmental or geological characteristics that have been developed for their conservation and the promotion of ecotourism.",
+    "source_ar_norm": "المنتزهات الوطنية والبرية والجيولوجية: مواقع ضمن اراضي الغطاء النباتي ذات خصائص بيئية او جيولوجية فريدة جري تطويرها للمحافظة عليها وتشجيع السياحة البيئية فيها.",
+    "target_en_norm": "national, wildlife, and geological parks: sites within the vegetation cover lands with unique environmental or geological characteristics that have been developed for their conservation and the promotion of ecotourism.",
+    "file_name": "نظام البيئة.docx"
+  }
+]
