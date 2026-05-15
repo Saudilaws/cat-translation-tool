@@ -1,0 +1,802 @@
+[
+  {
+    "id": 59401,
+    "source_ar": "المقيم: الشخص الطبيعي، أو الشركة، ممن تنطبق عليهم شروط الإقامة المحددة في المادة الثالثة من هذا النظام، أو أي إدارة حكومية، أو وزارة، أو هيئة عامة، أو أي شخص اعتباري، أو أي هيئة مؤسسة في المملكة.",
+    "target_en": "Resident: A natural person, a company that satisfies the residency conditions stipulated in Article 3 of this Law, any governmental department, ministry, or public entity, or any other corporate person or entity formed in the Kingdom.",
+    "source_ar_norm": "المقيم: الشخص الطبيعي، او الشركة، ممن تنطبق عليهم شروط الاقامة المحددة في المادة الثالثة من هذا النظام، او اي ادارة حكومية، او وزارة، او هيئة عامة، او اي شخص اعتباري، او اي هيئة مؤسسة في المملكة.",
+    "target_en_norm": "resident: a natural person, a company that satisfies the residency conditions stipulated in article 3 of this law, any governmental department, ministry, or public entity, or any other corporate person or entity formed in the kingdom.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59402,
+    "source_ar": "غير المقيم: كل شخص لا تنطبق عليه صفة المقيم.",
+    "target_en": "Nonresident: Any person who does not satisfy the requirements of the status of resident.",
+    "source_ar_norm": "غير المقيم: كل شخص لا تنطبق عليه صفة المقيم.",
+    "target_en_norm": "nonresident: any person who does not satisfy the requirements of the status of resident.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59403,
+    "source_ar": "المواطن السعودي: الشخص الذي يحمل الجنسية السعودية، ومن يعامل معاملته.",
+    "target_en": "Saudi citizen: A person holding the Saudi nationality or who is treated as such.",
+    "source_ar_norm": "المواطن السعودي: الشخص الذي يحمل الجنسية السعودية، ومن يعامل معاملته.",
+    "target_en_norm": "saudi citizen: a person holding the saudi nationality or who is treated as such.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59404,
+    "source_ar": "الدفاتر التجارية: مجموعة الدفاتر التجارية التي يحتفظ بها المكلف، والتي يجب أن تسجل بها جميع المعاملات التجارية، والموصوفة بالمرسوم الملكي ذي الرقم (م/61) والتاريخ 17 / 12 / 1409 هـ، ولائحته التنفيذية الصادرة بالقرار الوزاري ذي الرقم (699) والتاريخ 29 / 7 / 1410 هـ والمعدلة بالقرار الوزاري ذي الرقم (1110) والتاريخ 24 / 12 / 1410 هـ، وأي تعديلات لاحقة له.",
+    "target_en": "Commercial books: The set of commercial books kept by taxpayers in which all commercial transactions are recorded as described by Royal Decree No. (M/61) dated 17/12/1409H and its Implementing Regulations issued by Ministerial Decision No. (699) dated 29/7/1410H, amended by Ministerial Decision No. (1110) dated 24/12/1410H, and any subsequent amendments thereof.",
+    "source_ar_norm": "الدفاتر التجارية: مجموعة الدفاتر التجارية التي يحتفظ بها المكلف، والتي يجب ان تسجل بها جميع المعاملات التجارية، والموصوفة بالمرسوم الملكي ذي الرقم (م/61) والتاريخ 17 / 12 / 1409 ه، ولائحته التنفيذية الصادرة بالقرار الوزاري ذي الرقم (699) والتاريخ 29 / 7 / 1410 ه والمعدلة بالقرار الوزاري ذي الرقم (1110) والتاريخ 24 / 12 / 1410 ه، واي تعديلات لاحقة له.",
+    "target_en_norm": "commercial books: the set of commercial books kept by taxpayers in which all commercial transactions are recorded as described by royal decree no. (m/61) dated 17/12/1409h and its implementing regulations issued by ministerial decision no. (699) dated 29/7/1410h, amended by ministerial decision no. (1110) dated 24/12/1410h, and any subsequent amendments thereof.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59405,
+    "source_ar": "اللائحة: اللائحة التنفيذية لهذا النظام.",
+    "target_en": "Regulations: Implementing Regulations of this Law.",
+    "source_ar_norm": "اللائحة: اللائحة التنفيذية لهذا النظام.",
+    "target_en_norm": "regulations: implementing regulations of this law.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59406,
+    "source_ar": "أي كلمة أو عبارة لم يرد لها تعريف محدد في هذا الفصل ينطبق عليها التعريف الخاص بها الوارد في الأنظمة الأخرى المطبقة في المملكة وبما لا يتعارض مع أحكام هذا النظام .",
+    "target_en": "Any word or phrase with no specific definition in this Chapter shall have the same definition it has in other Laws applicable in the Kingdom provided that such definition is not inconsistent with the provisions of this Law.",
+    "source_ar_norm": "اي كلمة او عبارة لم يرد لها تعريف محدد في هذا الفصل ينطبق عليها التعريف الخاص بها الوارد في الانظمة الاخري المطبقة في المملكة وبما لا يتعارض مع احكام هذا النظام .",
+    "target_en_norm": "any word or phrase with no specific definition in this chapter shall have the same definition it has in other laws applicable in the kingdom provided that such definition is not inconsistent with the provisions of this law.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59407,
+    "source_ar": "استثمار الغاز الطبيعي: نشاط أعمال التنقيب عن الغاز الطبيعي غير المصاحب وإنتاجه بما في ذلك مكثفات الغاز، وكذلك نشاط أعمال تجميع وتنقية ومعالجة وتجزئة ونقل الغاز الطبيعي المصاحب وغير المصاحب وسوائلهما ومكثفات الغاز والعناصر المصاحبة الأخرى.",
+    "target_en": "Natural Gas Investment: Activities of the exploration and production of non-associated natural gas, including gas condensates, as well as the activities of collection, purification, treatment, fractionation, and transportation of associated and non-associated natural gas, and their liquids, gas condensates, and other accompanying elements.",
+    "source_ar_norm": "استثمار الغاز الطبيعي: نشاط اعمال التنقيب عن الغاز الطبيعي غير المصاحب وانتاجه بما في ذلك مكثفات الغاز، وكذلك نشاط اعمال تجميع وتنقية ومعالجة وتجزئة ونقل الغاز الطبيعي المصاحب وغير المصاحب وسوائلهما ومكثفات الغاز والعناصر المصاحبة الاخري.",
+    "target_en_norm": "natural gas investment: activities of the exploration and production of non-associated natural gas, including gas condensates, as well as the activities of collection, purification, treatment, fractionation, and transportation of associated and non-associated natural gas, and their liquids, gas condensates, and other accompanying elements.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59408,
+    "source_ar": "نقل الغاز الطبيعي: عملية نقل الغاز الطبيعي المصاحب وغير المصاحب من معامل التنقية إلى معامل المعالجة وإلى معامل التجزئة، أو نقله من أي من هذه المعامل إلى مرافق المستهلكين، وكذلك نقل مكثفات الغاز وسوائله، وال يشمل ذلك شبكات التوزيع المحلية وخطوط الأنابيب التي ينشئها غير منتج للغاز بعد نقاط البيع الرسمية.",
+    "target_en": "Natural Gas Transportation: The transfer of associated and non-associated natural gas from purification plants to treatment plants and fractionation plants, or from such plants to end user facilities, as well as the transfer of gas condensates and its liquids. This shall not include local distribution networks and pipelines constructed by non-gas producers beyond the official sale points.",
+    "source_ar_norm": "نقل الغاز الطبيعي: عملية نقل الغاز الطبيعي المصاحب وغير المصاحب من معامل التنقية الي معامل المعالجة والي معامل التجزئة، او نقله من اي من هذه المعامل الي مرافق المستهلكين، وكذلك نقل مكثفات الغاز وسوائله، وال يشمل ذلك شبكات التوزيع المحلية وخطوط الانابيب التي ينشئها غير منتج للغاز بعد نقاط البيع الرسمية.",
+    "target_en_norm": "natural gas transportation: the transfer of associated and non-associated natural gas from purification plants to treatment plants and fractionation plants, or from such plants to end user facilities, as well as the transfer of gas condensates and its liquids. this shall not include local distribution networks and pipelines constructed by non-gas producers beyond the official sale points.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59409,
+    "source_ar": "الفصل الثاني: المكلفون",
+    "target_en": "Chapter 2: Taxpayers",
+    "source_ar_norm": "الفصل الثاني: المكلفون",
+    "target_en_norm": "chapter 2: taxpayers",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59410,
+    "source_ar": "المادة الثانية: الأشخاص الخاضعون للضريبة:",
+    "target_en": "Article 2: Persons Subject to Taxation",
+    "source_ar_norm": "المادة الثانية: الاشخاص الخاضعون للضريبة:",
+    "target_en_norm": "article 2: persons subject to taxation",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59411,
+    "source_ar": "أ - شركة الأموال المقيمة عن حصص الشركاء غير السعوديين.",
+    "target_en": "A. A resident capital company with respect to the shares of non-Saudi partners.",
+    "source_ar_norm": "ا - شركة الاموال المقيمة عن حصص الشركاء غير السعوديين.",
+    "target_en_norm": "a. a resident capital company with respect to the shares of non-saudi partners.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59412,
+    "source_ar": "ب - الشخص الطبيعي المقيم غير السعودي الذي يمارس النشاط في المملكة.",
+    "target_en": "B. A natural person who is a resident non-Saudi conducting business in the Kingdom.",
+    "source_ar_norm": "ب - الشخص الطبيعي المقيم غير السعودي الذي يمارس النشاط في المملكة.",
+    "target_en_norm": "b. a natural person who is a resident non-saudi conducting business in the kingdom.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59413,
+    "source_ar": "ج - الشخص غير المقيم الذي يمارس النشاط في المملكة من خلال منشأة دائمة.",
+    "target_en": "C. A nonresident who conducts business in the Kingdom through a permanent establishment.",
+    "source_ar_norm": "ج - الشخص غير المقيم الذي يمارس النشاط في المملكة من خلال منشاة دائمة.",
+    "target_en_norm": "c. a nonresident who conducts business in the kingdom through a permanent establishment.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59414,
+    "source_ar": "د - الشخص غير المقيم الذي لديه دخل آخر خاضع للضريبة من مصادر في المملكة.",
+    "target_en": "D. A nonresident with other taxable income from sources within the Kingdom.",
+    "source_ar_norm": "د - الشخص غير المقيم الذي لديه دخل اخر خاضع للضريبة من مصادر في المملكة.",
+    "target_en_norm": "d. a nonresident with other taxable income from sources within the kingdom.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59415,
+    "source_ar": "هـ - الشخص الذي يعمل في مجال استثمار الغاز الطبيعي.",
+    "target_en": "E. A person engaged in the field of natural gas investment.",
+    "source_ar_norm": "ه - الشخص الذي يعمل في مجال استثمار الغاز الطبيعي.",
+    "target_en_norm": "e. a person engaged in the field of natural gas investment.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59416,
+    "source_ar": "و - الشخص الذي يعمل في إنتاج الزيت والمواد الهيدروكربونية.",
+    "target_en": "F. A person engaged in the production of oil and hydrocarbons.",
+    "source_ar_norm": "و - الشخص الذي يعمل في انتاج الزيت والمواد الهيدروكربونية.",
+    "target_en_norm": "f. a person engaged in the production of oil and hydrocarbons.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59417,
+    "source_ar": "المادة الثالثة: مفهوم الإقامة:",
+    "target_en": "Article 3: Concept of Residency",
+    "source_ar_norm": "المادة الثالثة: مفهوم الاقامة:",
+    "target_en_norm": "article 3: concept of residency",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59418,
+    "source_ar": "أ - يعد الشخص الطبيعي مقيما في المملكة في السنة الضريبية إذا توافر فيه أي من الشرطين الآتيين:",
+    "target_en": "A. A natural person shall be considered a resident in the Kingdom for a taxable year if he meets any of the two following conditions:",
+    "source_ar_norm": "ا - يعد الشخص الطبيعي مقيما في المملكة في السنة الضريبية اذا توافر فيه اي من الشرطين الاتيين:",
+    "target_en_norm": "a. a natural person shall be considered a resident in the kingdom for a taxable year if he meets any of the two following conditions:",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59419,
+    "source_ar": "1 - أن يكون له مسكن دائم في المملكة، وأن يقيم في المملكة لمدة لا تقل في مجموعها عن ثلاثين (30) يوما في السنة الضريبية.",
+    "target_en": "1. He has a permanent place of residence in the Kingdom and resides in the Kingdom for a total period of not less than 30 days in the taxable year.",
+    "source_ar_norm": "1 - ان يكون له مسكن دائم في المملكة، وان يقيم في المملكة لمدة لا تقل في مجموعها عن ثلاثين (30) يوما في السنة الضريبية.",
+    "target_en_norm": "1. he has a permanent place of residence in the kingdom and resides in the kingdom for a total period of not less than 30 days in the taxable year.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59420,
+    "source_ar": "2 - أن يقيم في المملكة لمدة لا تقل عن مائة وثلاثة وثمانين (183) يوما في السنة الضريبية.",
+    "target_en": "2. He resides in the Kingdom for a period of not less than 183 days in the taxable year.",
+    "source_ar_norm": "2 - ان يقيم في المملكة لمدة لا تقل عن مائة وثلاثة وثمانين (183) يوما في السنة الضريبية.",
+    "target_en_norm": "2. he resides in the kingdom for a period of not less than 183 days in the taxable year.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59421,
+    "source_ar": "لأغراض هذه الفقرة، تعد الإقامة في المملكة لجزء من اليوم إقامة ليوم كامل، ولا تعد إقامة شخص في المملكة وهو في حالة عبور بين نقطتين خارجها (ترانزيت).",
+    "target_en": "For the purposes of this paragraph, residence in the Kingdom for part of a day shall be considered residence for a whole day, except in case of a person in transit between two points outside the Kingdom.",
+    "source_ar_norm": "لاغراض هذه الفقرة، تعد الاقامة في المملكة لجزء من اليوم اقامة ليوم كامل، ولا تعد اقامة شخص في المملكة وهو في حالة عبور بين نقطتين خارجها (ترانزيت).",
+    "target_en_norm": "for the purposes of this paragraph, residence in the kingdom for part of a day shall be considered residence for a whole day, except in case of a person in transit between two points outside the kingdom.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59422,
+    "source_ar": "ب - تعد الشركة مقيمة في المملكة خلال السنة الضريبية إذا توافر فيها أي من الشرطين الآتيين:",
+    "target_en": "B. A company shall be considered a resident in the Kingdom during the taxable year if it meets any of the following conditions:",
+    "source_ar_norm": "ب - تعد الشركة مقيمة في المملكة خلال السنة الضريبية اذا توافر فيها اي من الشرطين الاتيين:",
+    "target_en_norm": "b. a company shall be considered a resident in the kingdom during the taxable year if it meets any of the following conditions:",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59423,
+    "source_ar": "1 - أن تكون منشأة وفقا لنظام الشركات.",
+    "target_en": "1. It is formed in accordance with the Companies Law.",
+    "source_ar_norm": "1 - ان تكون منشاة وفقا لنظام الشركات.",
+    "target_en_norm": "1. it is formed in accordance with the companies law.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59424,
+    "source_ar": "2 - أن تقع إدارتها الرئيسة في المملكة.",
+    "target_en": "2. Its central management is located in the Kingdom.",
+    "source_ar_norm": "2 - ان تقع ادارتها الرئيسة في المملكة.",
+    "target_en_norm": "2. its central management is located in the kingdom.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59425,
+    "source_ar": "المادة الرابعة: المنشأة الدائمة",
+    "target_en": "Article 4: Permanent Establishment",
+    "source_ar_norm": "المادة الرابعة: المنشاة الدائمة",
+    "target_en_norm": "article 4: permanent establishment",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59426,
+    "source_ar": "أ - تتألف المنشأة الدائمة لغير المقيم في المملكة - ما لم يرد خلاف ذلك في هذه المادة - من مكان دائم لنشاط غير المقيم الذي يمارس من خلاله النشاط كليا، أو جزئيا، ويدخل في ذلك النشاط الذي يقوم به غير المقيم من خلال وكيل له.",
+    "target_en": "A. A permanent establishment of a nonresident in the Kingdom, unless otherwise stated in this Article, shall consist of a permanent place in which the nonresident practices his business activity, in full or in part, including any business carried out through an agent.",
+    "source_ar_norm": "ا - تتالف المنشاة الدائمة لغير المقيم في المملكة - ما لم يرد خلاف ذلك في هذه المادة - من مكان دائم لنشاط غير المقيم الذي يمارس من خلاله النشاط كليا، او جزئيا، ويدخل في ذلك النشاط الذي يقوم به غير المقيم من خلال وكيل له.",
+    "target_en_norm": "a. a permanent establishment of a nonresident in the kingdom, unless otherwise stated in this article, shall consist of a permanent place in which the nonresident practices his business activity, in full or in part, including any business carried out through an agent.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59427,
+    "source_ar": "ب - تعد الحالات الآتية منشأة دائمة:",
+    "target_en": "B. The following shall be considered permanent establishments:",
+    "source_ar_norm": "ب - تعد الحالات الاتية منشاة دائمة:",
+    "target_en_norm": "b. the following shall be considered permanent establishments:",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59428,
+    "source_ar": "1 - مواقع الإنشاء، ومرافق التجميع، وممارسة الأعمال الإشرافية المتعلقة بها.",
+    "target_en": "1. Construction sites, assembly facilities, and the exercise of supervisory activities connected therewith.",
+    "source_ar_norm": "1 - مواقع الانشاء، ومرافق التجميع، وممارسة الاعمال الاشرافية المتعلقة بها.",
+    "target_en_norm": "1. construction sites, assembly facilities, and the exercise of supervisory activities connected therewith.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59429,
+    "source_ar": "2 - التركيبات والمواقع المستخدمة في أعمال المسح للموارد الطبيعية، ومعدات الحفر، والسفن المستخدمة في مسح الموارد الطبيعية، وممارسة الأعمال الإشرافية المتعلقة بها.",
+    "target_en": "2. Installations, sites used for surveying natural resources, drilling equipment, ships used for surveying natural resources, and the exercise of supervisory activities connected therewith.",
+    "source_ar_norm": "2 - التركيبات والمواقع المستخدمة في اعمال المسح للموارد الطبيعية، ومعدات الحفر، والسفن المستخدمة في مسح الموارد الطبيعية، وممارسة الاعمال الاشرافية المتعلقة بها.",
+    "target_en_norm": "2. installations, sites used for surveying natural resources, drilling equipment, ships used for surveying natural resources, and the exercise of supervisory activities connected therewith.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59430,
+    "source_ar": "3 - قاعدة ثابتة يمارس منها الشخص الطبيعي غير المقيم نشاطه.",
+    "target_en": "3. A fixed base from which a nonresident natural person carries out business.",
+    "source_ar_norm": "3 - قاعدة ثابتة يمارس منها الشخص الطبيعي غير المقيم نشاطه.",
+    "target_en_norm": "3. a fixed base from which a nonresident natural person carries out business.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59431,
+    "source_ar": "4 - فرع شركة غير مقيمة مصرح له بمزاولة الأعمال في المملكة.",
+    "target_en": "4. The branch of a nonresident company licensed to carry out business in the Kingdom.",
+    "source_ar_norm": "4 - فرع شركة غير مقيمة مصرح له بمزاولة الاعمال في المملكة.",
+    "target_en_norm": "4. the branch of a nonresident company licensed to carry out business in the kingdom.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59432,
+    "source_ar": "ج - لا يعد المكان منشأة دائمة لغير المقيم في المملكة إذا استخدم في المملكة للأغراض الآتية فقط:",
+    "target_en": "C. A place shall not be considered the permanent establishment of a nonresident in the Kingdom if used in the Kingdom only for the following purposes:",
+    "source_ar_norm": "ج - لا يعد المكان منشاة دائمة لغير المقيم في المملكة اذا استخدم في المملكة للاغراض الاتية فقط:",
+    "target_en_norm": "c. a place shall not be considered the permanent establishment of a nonresident in the kingdom if used in the kingdom only for the following purposes:",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59433,
+    "source_ar": "1 - تخزين أو عرض أو توريد بضاعة أو منتجات تعود إلى غير المقيم.",
+    "target_en": "1. Storing, displaying, or delivering goods or products belonging to the nonresident.",
+    "source_ar_norm": "1 - تخزين او عرض او توريد بضاعة او منتجات تعود الي غير المقيم.",
+    "target_en_norm": "1. storing, displaying, or delivering goods or products belonging to the nonresident.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59434,
+    "source_ar": "2 - الإبقاء على مخزون من بضاعة أو منتجات تعود إلى غير المقيم لغرض المعالجة من قبل شخص آخر.",
+    "target_en": "2. Keeping a stock of goods or products belonging to the nonresident for the purpose of treatment by another person.",
+    "source_ar_norm": "2 - الابقاء علي مخزون من بضاعة او منتجات تعود الي غير المقيم لغرض المعالجة من قبل شخص اخر.",
+    "target_en_norm": "2. keeping a stock of goods or products belonging to the nonresident for the purpose of treatment by another person.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59435,
+    "source_ar": "3 - شراء بضاعة أو منتجات لغرض تجميع المعلومات فقط لغير المقيم.",
+    "target_en": "3. Purchasing goods or products for the sole purpose of collecting information for the nonresident.",
+    "source_ar_norm": "3 - شراء بضاعة او منتجات لغرض تجميع المعلومات فقط لغير المقيم.",
+    "target_en_norm": "3. purchasing goods or products for the sole purpose of collecting information for the nonresident.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59436,
+    "source_ar": "4 - أداء نشاطات أخرى ذات طبيعة إعدادية أو مساعدة لمصلحة غير المقيم.",
+    "target_en": "4. Carrying out other activities of a preparatory or auxiliary nature to the benefit of the nonresident.",
+    "source_ar_norm": "4 - اداء نشاطات اخري ذات طبيعة اعدادية او مساعدة لمصلحة غير المقيم.",
+    "target_en_norm": "4. carrying out other activities of a preparatory or auxiliary nature to the benefit of the nonresident.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59437,
+    "source_ar": "5 - إعداد العقود للتوقيع عليها والمتعلقة بقروض، أو توريد بضائع، أو أعمال خدمات فنية.",
+    "target_en": "5. Drafting contracts for signature in connection with loans, delivery of goods or technical services.",
+    "source_ar_norm": "5 - اعداد العقود للتوقيع عليها والمتعلقة بقروض، او توريد بضائع، او اعمال خدمات فنية.",
+    "target_en_norm": "5. drafting contracts for signature in connection with loans, delivery of goods or technical services.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59438,
+    "source_ar": "6 - تنفيذ أي مجموعة من النشاطات المشار إليها في الفقرات الفرعية الأولى وحتى الخامسة من هذه الفقرة.",
+    "target_en": "6. Performing any group of the activities stated in subparagraphs (1) to (5) of this paragraph.",
+    "source_ar_norm": "6 - تنفيذ اي مجموعة من النشاطات المشار اليها في الفقرات الفرعية الاولي وحتي الخامسة من هذه الفقرة.",
+    "target_en_norm": "6. performing any group of the activities stated in subparagraphs (1) to (5) of this paragraph.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59439,
+    "source_ar": "د - يعد الشريك غير المقيم في شركة أشخاص مقيمة مالكا لمنشأة دائمة في المملكة على شكل حصة في شركة الأشخاص.",
+    "target_en": "D. A nonresident partner in a resident partnership shall be considered an owner of a permanent establishment in the Kingdom, as a shareholder in the partnership.",
+    "source_ar_norm": "د - يعد الشريك غير المقيم في شركة اشخاص مقيمة مالكا لمنشاة دائمة في المملكة علي شكل حصة في شركة الاشخاص.",
+    "target_en_norm": "d. a nonresident partner in a resident partnership shall be considered an owner of a permanent establishment in the kingdom, as a shareholder in the partnership.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59440,
+    "source_ar": "المادة الخامسة: مصدر الدخل",
+    "target_en": "Article 5: Source of Income",
+    "source_ar_norm": "المادة الخامسة: مصدر الدخل",
+    "target_en_norm": "article 5: source of income",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59441,
+    "source_ar": "أ - يعد الدخل متحققا من مصدر في المملكة في أي من الحالات الآتية:",
+    "target_en": "A. Income shall be considered accrued in the Kingdom in any of the following cases:",
+    "source_ar_norm": "ا - يعد الدخل متحققا من مصدر في المملكة في اي من الحالات الاتية:",
+    "target_en_norm": "a. income shall be considered accrued in the kingdom in any of the following cases:",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59442,
+    "source_ar": "1 - إذا نشأ عن نشاط تم في المملكة.",
+    "target_en": "1. If it is derived from an activity which occurs in the Kingdom.",
+    "source_ar_norm": "1 - اذا نشا عن نشاط تم في المملكة.",
+    "target_en_norm": "1. if it is derived from an activity which occurs in the kingdom.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59443,
+    "source_ar": "2 - إذا نشأ عن ممتلكات غير منقولة موجودة في المملكة، بما في ذلك الأرباح الناتجة عن التخلص من حصة في هذه الممتلكات غير المنقولة، ومن التخلص من حصص أو أسهم أو شراكة في شركة تتألف ممتلكاتها بشكل رئيسي - مباشر أو غير مباشر - من حصص في ممتلكات غير منقولة في المملكة.",
+    "target_en": "2. If it is derived from immovable property located in the Kingdom, including gains from the disposal of a share in such immovable properties and from the disposal of shares, stocks, or partnership in a company the property of which consists mainly, directly or indirectly, of shares in immovable properties in the Kingdom.",
+    "source_ar_norm": "2 - اذا نشا عن ممتلكات غير منقولة موجودة في المملكة، بما في ذلك الارباح الناتجة عن التخلص من حصة في هذه الممتلكات غير المنقولة، ومن التخلص من حصص او اسهم او شراكة في شركة تتالف ممتلكاتها بشكل رئيسي - مباشر او غير مباشر - من حصص في ممتلكات غير منقولة في المملكة.",
+    "target_en_norm": "2. if it is derived from immovable property located in the kingdom, including gains from the disposal of a share in such immovable properties and from the disposal of shares, stocks, or partnership in a company the property of which consists mainly, directly or indirectly, of shares in immovable properties in the kingdom.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59444,
+    "source_ar": "3 - إذا نشأ عن التخلص من الحصص أو الشراكة في شركة مقيمة.",
+    "target_en": "3. If it is derived from the disposal of shares or a partnership in a resident company.",
+    "source_ar_norm": "3 - اذا نشا عن التخلص من الحصص او الشراكة في شركة مقيمة.",
+    "target_en_norm": "3. if it is derived from the disposal of shares or a partnership in a resident company.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59445,
+    "source_ar": "4 - إذا نشأ عن تأجير ممتلكات منقولة مستخدمة في المملكة.",
+    "target_en": "4. If it is derived from lease of movable properties used in the Kingdom.",
+    "source_ar_norm": "4 - اذا نشا عن تاجير ممتلكات منقولة مستخدمة في المملكة.",
+    "target_en_norm": "4. if it is derived from lease of movable properties used in the kingdom.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59446,
+    "source_ar": "5 - إذا نشأ عن بيع أو ترخيص باستخدام ممتلكات صناعية أو فكرية في المملكة.",
+    "target_en": "5. If it is derived from the sale or license for use of industrial or intellectual properties in the Kingdom.",
+    "source_ar_norm": "5 - اذا نشا عن بيع او ترخيص باستخدام ممتلكات صناعية او فكرية في المملكة.",
+    "target_en_norm": "5. if it is derived from the sale or license for use of industrial or intellectual properties in the kingdom.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59447,
+    "source_ar": "6 - أرباح الأسهم أو أتعاب الإدارة والمديرين التي تدفعها شركة مقيمة.",
+    "target_en": "6. Dividends or management or directors' fees paid by a resident company.",
+    "source_ar_norm": "6 - ارباح الاسهم او اتعاب الادارة والمديرين التي تدفعها شركة مقيمة.",
+    "target_en_norm": "6. dividends or management or directors' fees paid by a resident company.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59448,
+    "source_ar": "7 - مبالغ مقابل خدمات تدفعها شركة مقيمة إلى مركزها الرئيس أو إلى شركة مرتبطة بها.",
+    "target_en": "7. Amounts paid against services rendered by a resident company to the company’s head office or to an affiliate thereof.",
+    "source_ar_norm": "7 - مبالغ مقابل خدمات تدفعها شركة مقيمة الي مركزها الرئيس او الي شركة مرتبطة بها.",
+    "target_en_norm": "7. amounts paid against services rendered by a resident company to the company’s head office or to an affiliate thereof.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59449,
+    "source_ar": "8 - مبالغ يدفعها مقيم مقابل خدمات تمت بالكامل أو جزئيا في المملكة.",
+    "target_en": "8. Amounts paid by a resident against services performed in whole or in part in the Kingdom.",
+    "source_ar_norm": "8 - مبالغ يدفعها مقيم مقابل خدمات تمت بالكامل او جزئيا في المملكة.",
+    "target_en_norm": "8. amounts paid by a resident against services performed in whole or in part in the kingdom.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59450,
+    "source_ar": "9 - مبالغ مقابل استغلال مورد طبيعي في المملكة.",
+    "target_en": "9. Amounts for the exploitation of a natural resource in the Kingdom.",
+    "source_ar_norm": "9 - مبالغ مقابل استغلال مورد طبيعي في المملكة.",
+    "target_en_norm": "9. amounts for the exploitation of a natural resource in the kingdom.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59451,
+    "source_ar": "10 - إذا كان الدخل يعود إلى منشأة دائمة لغير مقيم موجودة في المملكة، بما في ذلك الدخل من مبيعات في المملكة لبضائع من نفس النوع أو مشابهة للبضائع التي يبيعها غير المقيم من خلال المنشأة الدائمة، والدخل الناشئ عن تقديم خدمات أو أداء نشاط آخر في المملكة من نفس طبيعة النشاط الذي يؤديه غير المقيم من خلال المنشأة الدائمة، أو نشاط مشابه له.",
+    "target_en": "10. If the income is attributable to a permanent establishment of a nonresident located in the Kingdom, including income from sales in the Kingdom of goods of the same or similar kind as those sold through such a permanent establishment, and income from rendering services or carrying out another activity in the Kingdom of the same or similar nature as an activity performed by a nonresident through a permanent establishment.",
+    "source_ar_norm": "10 - اذا كان الدخل يعود الي منشاة دائمة لغير مقيم موجودة في المملكة، بما في ذلك الدخل من مبيعات في المملكة لبضائع من نفس النوع او مشابهة للبضائع التي يبيعها غير المقيم من خلال المنشاة الدائمة، والدخل الناشئ عن تقديم خدمات او اداء نشاط اخر في المملكة من نفس طبيعة النشاط الذي يؤديه غير المقيم من خلال المنشاة الدائمة، او نشاط مشابه له.",
+    "target_en_norm": "10. if the income is attributable to a permanent establishment of a nonresident located in the kingdom, including income from sales in the kingdom of goods of the same or similar kind as those sold through such a permanent establishment, and income from rendering services or carrying out another activity in the kingdom of the same or similar nature as an activity performed by a nonresident through a permanent establishment.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59452,
+    "source_ar": "ب - لا يعتد بمكان تسديد الدخل لتحديد مصدره.",
+    "target_en": "B. The income’s place of payment shall not be taken into account in determining its source.",
+    "source_ar_norm": "ب - لا يعتد بمكان تسديد الدخل لتحديد مصدره.",
+    "target_en_norm": "b. the income’s place of payment shall not be taken into account in determining its source.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59453,
+    "source_ar": "ج - لأغراض هذه المادة يعد المبلغ الذي تدفعه منشأة دائمة في المملكة لغير مقيم كما لو دفعته شركة مقيمة.",
+    "target_en": "C. For the purposes of this Article, a payment made by a permanent establishment of a nonresident in the Kingdom shall be considered as if paid by a resident company.",
+    "source_ar_norm": "ج - لاغراض هذه المادة يعد المبلغ الذي تدفعه منشاة دائمة في المملكة لغير مقيم كما لو دفعته شركة مقيمة.",
+    "target_en_norm": "c. for the purposes of this article, a payment made by a permanent establishment of a nonresident in the kingdom shall be considered as if paid by a resident company.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59454,
+    "source_ar": "الفصل الثالث: الوعاء الضريبي وأسعار الضريبة",
+    "target_en": "Chapter 3: Tax Base and Tax Rates",
+    "source_ar_norm": "الفصل الثالث: الوعاء الضريبي واسعار الضريبة",
+    "target_en_norm": "chapter 3: tax base and tax rates",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59455,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article 6",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59456,
+    "source_ar": "أ - الوعاء الضريبي لشركة الأموال المقيمة هو حصص الشركاء غير السعوديين من دخلها الخاضع للضريبة من أي نشاط من مصادر في المملكة محسوما منه المصاريف الجائزة بمقتضى هذا النظام.",
+    "target_en": "A. The tax base of a resident capital company shall be the shares of non-Saudi partners in its taxable income from any activity from sources within the Kingdom after deducting expenses permitted under this Law.",
+    "source_ar_norm": "ا - الوعاء الضريبي لشركة الاموال المقيمة هو حصص الشركاء غير السعوديين من دخلها الخاضع للضريبة من اي نشاط من مصادر في المملكة محسوما منه المصاريف الجائزة بمقتضي هذا النظام.",
+    "target_en_norm": "a. the tax base of a resident capital company shall be the shares of non-saudi partners in its taxable income from any activity from sources within the kingdom after deducting expenses permitted under this law.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59457,
+    "source_ar": "ب - الوعاء الضريبي للشخص الطبيعي المقيم غير السعودي هو دخله الخاضع للضريبة من أي نشاط من مصادر في المملكة محسوما منه المصاريف الجائزة بمقتضى هذا النظام.",
+    "target_en": "B. The tax base of a resident non-Saudi natural person shall be his taxable income from any activity from sources within the Kingdom after deducting expenses permitted under this Law.",
+    "source_ar_norm": "ب - الوعاء الضريبي للشخص الطبيعي المقيم غير السعودي هو دخله الخاضع للضريبة من اي نشاط من مصادر في المملكة محسوما منه المصاريف الجائزة بمقتضي هذا النظام.",
+    "target_en_norm": "b. the tax base of a resident non-saudi natural person shall be his taxable income from any activity from sources within the kingdom after deducting expenses permitted under this law.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59458,
+    "source_ar": "ج - الوعاء الضريبي لغير المقيم الذي يمارس النشاط في المملكة من خلال منشأة دائمة هو دخله الخاضع للضريبة الناتج عن نشاط تلك المنشأة أو المرتبط بها، محسوما منه المصاريف الجائزة بمقتضى هذا النظام.",
+    "target_en": "C. The tax base of a nonresident who performs an activity in the Kingdom through a permanent establishment shall be his taxable income arising from or related to the activity of such establishment after deducting expenses permitted under this Law.",
+    "source_ar_norm": "ج - الوعاء الضريبي لغير المقيم الذي يمارس النشاط في المملكة من خلال منشاة دائمة هو دخله الخاضع للضريبة الناتج عن نشاط تلك المنشاة او المرتبط بها، محسوما منه المصاريف الجائزة بمقتضي هذا النظام.",
+    "target_en_norm": "c. the tax base of a nonresident who performs an activity in the kingdom through a permanent establishment shall be his taxable income arising from or related to the activity of such establishment after deducting expenses permitted under this law.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59459,
+    "source_ar": "د - يحتسب الوعاء الضريبي للشخص الطبيعي الواحد بشكل مستقل عن غيره.",
+    "target_en": "D. The tax base of each natural person shall be determined separately.",
+    "source_ar_norm": "د - يحتسب الوعاء الضريبي للشخص الطبيعي الواحد بشكل مستقل عن غيره.",
+    "target_en_norm": "d. the tax base of each natural person shall be determined separately.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59460,
+    "source_ar": "هـ - يحتسب الوعاء الضريبي لشركة الأموال بشكل مستقل عن المساهمين أو الشركاء فيها.",
+    "target_en": "E. The tax base of a capital company shall be determined separately of its shareholders or partners.",
+    "source_ar_norm": "ه - يحتسب الوعاء الضريبي لشركة الاموال بشكل مستقل عن المساهمين او الشركاء فيها.",
+    "target_en_norm": "e. the tax base of a capital company shall be determined separately of its shareholders or partners.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59461,
+    "source_ar": "و- الوعاء الضريبي للشخص الذي يعمل في إنتاج الزيت والمواد الهيدروكربونية هو دخله الخاضع للضريبة محسوماً منه المصاريف الجائزة بمقتضى هذا النظام، ولا يشمل الوعاء الضريبي المتعلق بمجال استثمار الغاز الطبيعي هذا لشخص.",
+    "target_en": "F. The tax base of a person engaged in the production of oil and hydrocarbons shall be his taxable income after deducting expenses permitted under this Law; this shall not include the tax base relating to his investment in natural gas.",
+    "source_ar_norm": "و- الوعاء الضريبي للشخص الذي يعمل في انتاج الزيت والمواد الهيدروكربونية هو دخله الخاضع للضريبة محسوما منه المصاريف الجائزة بمقتضي هذا النظام، ولا يشمل الوعاء الضريبي المتعلق بمجال استثمار الغاز الطبيعي هذا لشخص.",
+    "target_en_norm": "f. the tax base of a person engaged in the production of oil and hydrocarbons shall be his taxable income after deducting expenses permitted under this law; this shall not include the tax base relating to his investment in natural gas.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59462,
+    "source_ar": "ز- الوعاء الضريبي للشخص الذي عمل في مجال استثمار الغاز الطبيعي هو دخله الخاضع للضريبة في مجال استثمار الغاز الطبيعي محسوماً منه المصاريف الجائزة بمقتضى هذا النظام. ويعد هذا الوعاء الضريبي مستقلاً عن وعاء الضريبة المتعلق بباقي أوجه نشاط الشخص الأخرى.",
+    "target_en": "G. The tax base of a person engaged in natural gas investment shall be his taxable income in such investment after deducting expenses permitted under this Law. This tax base shall be separate from the tax base relating to his other activities.",
+    "source_ar_norm": "ز- الوعاء الضريبي للشخص الذي عمل في مجال استثمار الغاز الطبيعي هو دخله الخاضع للضريبة في مجال استثمار الغاز الطبيعي محسوما منه المصاريف الجائزة بمقتضي هذا النظام. ويعد هذا الوعاء الضريبي مستقلا عن وعاء الضريبة المتعلق بباقي اوجه نشاط الشخص الاخري.",
+    "target_en_norm": "g. the tax base of a person engaged in natural gas investment shall be his taxable income in such investment after deducting expenses permitted under this law. this tax base shall be separate from the tax base relating to his other activities.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59463,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article 7",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59464,
+    "source_ar": "أ - سعر الضريبة على الوعاء الضريبي هو عشرون بالمائة (20%) لكل من:",
+    "target_en": "A. The tax rate of the tax base shall be 20% for each of the following:",
+    "source_ar_norm": "ا - سعر الضريبة علي الوعاء الضريبي هو عشرون بالمائة (20%) لكل من:",
+    "target_en_norm": "a. the tax rate of the tax base shall be 20% for each of the following:",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59465,
+    "source_ar": "1 - شركة الأموال المقيمة.",
+    "target_en": "1. A resident capital company.",
+    "source_ar_norm": "1 - شركة الاموال المقيمة.",
+    "target_en_norm": "1. a resident capital company.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59466,
+    "source_ar": "2 - الشخص الطبيعي المقيم غير السعودي الذي يمارس النشاط.",
+    "target_en": "2. A non-Saudi resident natural person who conducts business.",
+    "source_ar_norm": "2 - الشخص الطبيعي المقيم غير السعودي الذي يمارس النشاط.",
+    "target_en_norm": "2. a non-saudi resident natural person who conducts business.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59467,
+    "source_ar": "3 - الشخص غير المقيم نتيجة لنشاط يمارسه في المملكة من خلال منشأة دائمة.",
+    "target_en": "3. A nonresident person who conducts business in the Kingdom through a permanent establishment.",
+    "source_ar_norm": "3 - الشخص غير المقيم نتيجة لنشاط يمارسه في المملكة من خلال منشاة دائمة.",
+    "target_en_norm": "3. a nonresident person who conducts business in the kingdom through a permanent establishment.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59468,
+    "source_ar": "ب- سعر الضريبة على الوعاء الضريبي للمكلف الذي يعمل في مجال استثمار الغاز الطبيعي هو عشرون بالمائة (20%)",
+    "target_en": "B. The tax rate of the tax base for a taxpayer engaged only in natural gas investment activities shall be 20%.",
+    "source_ar_norm": "ب- سعر الضريبة علي الوعاء الضريبي للمكلف الذي يعمل في مجال استثمار الغاز الطبيعي هو عشرون بالمائة (20%)",
+    "target_en_norm": "b. the tax rate of the tax base for a taxpayer engaged only in natural gas investment activities shall be 20%.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59469,
+    "source_ar": "ج - سعر الضريبة على الوعاء الضريبي للمكلف الذي يعمل في إنتاج الزيت والمواد الهيدروكربونية هو خمسة وثمانون بالمائة (85%).",
+    "target_en": "C. The tax rate of the tax base for a taxpayer engaged in the production of oil and hydrocarbons shall be 85%.",
+    "source_ar_norm": "ج - سعر الضريبة علي الوعاء الضريبي للمكلف الذي يعمل في انتاج الزيت والمواد الهيدروكربونية هو خمسة وثمانون بالمائة (85%).",
+    "target_en_norm": "c. the tax rate of the tax base for a taxpayer engaged in the production of oil and hydrocarbons shall be 85%.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59470,
+    "source_ar": "د - أسعار الضريبة المستقطعة هي الأسعار المحددة في المادة الثامنة والستين من هذا النظام.",
+    "target_en": "D. Withholding tax rates are those specified under Article 68 of this Law.",
+    "source_ar_norm": "د - اسعار الضريبة المستقطعة هي الاسعار المحددة في المادة الثامنة والستين من هذا النظام.",
+    "target_en_norm": "d. withholding tax rates are those specified under article 68 of this law.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59471,
+    "source_ar": "هـ: تكون الضريبة المستحقة على الشخص الذي يعمل في المملكة في مجال إنتاج الزيت والمواد الهيدروكربونية ومجال استثمار الغاز الطبيعي معاً هي مجموع الضريبة المستحق على وعاءي ضريبة هذا الشخص بموجب الفقرتين (ب) و(ج) من هذه المادة.",
+    "target_en": "E. The tax of a person engaged in the production of oil and hydrocarbons in addition to investing in natural gas in the Kingdom shall be the sum of his taxes from both tax bases as per paragraphs (b) and (c) of this Article.",
+    "source_ar_norm": "ه: تكون الضريبة المستحقة علي الشخص الذي يعمل في المملكة في مجال انتاج الزيت والمواد الهيدروكربونية ومجال استثمار الغاز الطبيعي معا هي مجموع الضريبة المستحق علي وعاءي ضريبة هذا الشخص بموجب الفقرتين (ب) و(ج) من هذه المادة.",
+    "target_en_norm": "e. the tax of a person engaged in the production of oil and hydrocarbons in addition to investing in natural gas in the kingdom shall be the sum of his taxes from both tax bases as per paragraphs (b) and (c) of this article.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59472,
+    "source_ar": "الفصل الرابع: الدخل الخاضع للضريبة",
+    "target_en": "Chapter 4: Taxable Income",
+    "source_ar_norm": "الفصل الرابع: الدخل الخاضع للضريبة",
+    "target_en_norm": "chapter 4: taxable income",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59473,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article 8",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59474,
+    "source_ar": "1- الدخل الخاضع للضريبة هو إجمالي الدخل شاملا كافة الإيرادات والأرباح والمكاسب الناتجة عن مزاولة النشاط مهما كان نوعها ومهما كانت صورة دفعها، بما في ذلك الأرباح الرأسمالية وأي إيرادات عرضية، مستقطع منه الدخل المعفى.",
+    "target_en": "1. Taxable Income is the gross income including all revenues, profits, and gains irrespective of their type and of the form of payment resulting from carrying out the activity, including capital gains and any incidental revenues, after deducting exempt income.",
+    "source_ar_norm": "1- الدخل الخاضع للضريبة هو اجمالي الدخل شاملا كافة الايرادات والارباح والمكاسب الناتجة عن مزاولة النشاط مهما كان نوعها ومهما كانت صورة دفعها، بما في ذلك الارباح الراسمالية واي ايرادات عرضية، مستقطع منه الدخل المعفي.",
+    "target_en_norm": "1. taxable income is the gross income including all revenues, profits, and gains irrespective of their type and of the form of payment resulting from carrying out the activity, including capital gains and any incidental revenues, after deducting exempt income.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59475,
+    "source_ar": "2- الدخل الناتج من العمل في مجال استثمار الغاز الطبيعي هو إجمالي الدخل المتحقق من بيع أو تبادل أو تحويل الغاز الطبيعي وسوائله ومكثفات الغاز بما في ذلك الكبريت والمنتجات الأخرى وأي دخل آخر يحصل عليه المكلف من دخل عرضي أو غير تشغيلي مرتبط بنشاطه الرئيس مهما كان نوعه ومصدره، بما في ذلك الدخل المتحقق من استغلال طاقة فائضة في أحد مرافق أوجه نشاط استثمار الغاز الطبيعي.",
+    "target_en": "2. Income from natural gas investment is the sum of gross income derived from the sale, exchange, and conversion of natural gas, its liquids, and gas condensates, including sulfur and other products, as well as any other incidental or non-operational income derived from the taxpayer’s primary activity, regardless of its type or source, including income derived from the utilization of excess energy in a facility subject to natural gas investment.",
+    "source_ar_norm": "2- الدخل الناتج من العمل في مجال استثمار الغاز الطبيعي هو اجمالي الدخل المتحقق من بيع او تبادل او تحويل الغاز الطبيعي وسوائله ومكثفات الغاز بما في ذلك الكبريت والمنتجات الاخري واي دخل اخر يحصل عليه المكلف من دخل عرضي او غير تشغيلي مرتبط بنشاطه الرئيس مهما كان نوعه ومصدره، بما في ذلك الدخل المتحقق من استغلال طاقة فائضة في احد مرافق اوجه نشاط استثمار الغاز الطبيعي.",
+    "target_en_norm": "2. income from natural gas investment is the sum of gross income derived from the sale, exchange, and conversion of natural gas, its liquids, and gas condensates, including sulfur and other products, as well as any other incidental or non-operational income derived from the taxpayer’s primary activity, regardless of its type or source, including income derived from the utilization of excess energy in a facility subject to natural gas investment.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59476,
+    "source_ar": "المادة التاسعة: الأرباح أو الخسائر الناتجة عن التخلص من الأصول",
+    "target_en": "Article 9: Gains or Losses Resulting from the Disposal of Assets",
+    "source_ar_norm": "المادة التاسعة: الارباح او الخسائر الناتجة عن التخلص من الاصول",
+    "target_en_norm": "article 9: gains or losses resulting from the disposal of assets",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59477,
+    "source_ar": "أ - الربح أو الخسارة المتحققة من التخلص من الأصل هو الفرق بين التعويض المستلم عن الأصل وأساس التكلفة له.",
+    "target_en": "A. The gain or loss resulting from the disposal of an asset is the difference between the compensation received for the asset and its cost base.",
+    "source_ar_norm": "ا - الربح او الخسارة المتحققة من التخلص من الاصل هو الفرق بين التعويض المستلم عن الاصل واساس التكلفة له.",
+    "target_en_norm": "a. the gain or loss resulting from the disposal of an asset is the difference between the compensation received for the asset and its cost base.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59478,
+    "source_ar": "ب - لا يحتسب ربح أو خسارة عند التخلص من أصل قابل للاستهلاك خلاف ما ورد في المادة السابعة عشرة من هذا النظام.",
+    "target_en": "B. No gain or loss on the disposal of a depreciable asset is taken into account other than what is stated in Article 17 of this Law.",
+    "source_ar_norm": "ب - لا يحتسب ربح او خسارة عند التخلص من اصل قابل للاستهلاك خلاف ما ورد في المادة السابعة عشرة من هذا النظام.",
+    "target_en_norm": "b. no gain or loss on the disposal of a depreciable asset is taken into account other than what is stated in article 17 of this law.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59479,
+    "source_ar": "ج - لتحديد الدخل الخاضع للضريبة، لا يجوز للشخص الطبيعي احتساب ربح أو خسارة التخلص من الأصل المعد لغير النشاط.",
+    "target_en": "C. In determining taxable income, a natural person may not take into account the gain or loss on the disposal of an asset that is not for use in the activity.",
+    "source_ar_norm": "ج - لتحديد الدخل الخاضع للضريبة، لا يجوز للشخص الطبيعي احتساب ربح او خسارة التخلص من الاصل المعد لغير النشاط.",
+    "target_en_norm": "c. in determining taxable income, a natural person may not take into account the gain or loss on the disposal of an asset that is not for use in the activity.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59480,
+    "source_ar": "د - أساس تكلفة الأصل الذي يشتريه المكلف أو ينتجه أو يصنعه أو يشيده بنفسه هو المبلغ الذي يسدده المكلف عن الأصل أو يتكبده نقدا أو عينا في عملية الحصول عليه.",
+    "target_en": "D. The cost base of an asset purchased, produced, manufactured, or constructed by a taxpayer itself is the amount paid or incurred by the taxpayer in cash or in kind in the process of acquiring the asset.",
+    "source_ar_norm": "د - اساس تكلفة الاصل الذي يشتريه المكلف او ينتجه او يصنعه او يشيده بنفسه هو المبلغ الذي يسدده المكلف عن الاصل او يتكبده نقدا او عينا في عملية الحصول عليه.",
+    "target_en_norm": "d. the cost base of an asset purchased, produced, manufactured, or constructed by a taxpayer itself is the amount paid or incurred by the taxpayer in cash or in kind in the process of acquiring the asset.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59481,
+    "source_ar": "هـ - إذا تخلص المكلف من جزء من الأصل، يوزع أساس تكلفة الأصل على الجزء المحتفظ به والجزء المتخلص منه وفقا للقيمة السوقية وقت شراء الأصل.",
+    "target_en": "E. Where a taxpayer disposes of part of an asset, the cost base of the asset is apportioned between the part retained and the part disposed of in accordance with their market value at the time the asset was purchased.",
+    "source_ar_norm": "ه - اذا تخلص المكلف من جزء من الاصل، يوزع اساس تكلفة الاصل علي الجزء المحتفظ به والجزء المتخلص منه وفقا للقيمة السوقية وقت شراء الاصل.",
+    "target_en_norm": "e. where a taxpayer disposes of part of an asset, the cost base of the asset is apportioned between the part retained and the part disposed of in accordance with their market value at the time the asset was purchased.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59482,
+    "source_ar": "و- تضاف المصاريف المتكبدة لإجراء تغييرات أو تحسينات على الأصل غير المستهلك إلى أساس تكلفة الأصل.",
+    "target_en": "F. Expenses incurred to alter or improve a non-depreciable asset are added to the cost base of the asset.",
+    "source_ar_norm": "و- تضاف المصاريف المتكبدة لاجراء تغييرات او تحسينات علي الاصل غير المستهلك الي اساس تكلفة الاصل.",
+    "target_en_norm": "f. expenses incurred to alter or improve a non-depreciable asset are added to the cost base of the asset.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59483,
+    "source_ar": "ز- تحدد قيمة التعويض عن أصل عندما يتم التخلص منه مقابل أصول عينية على أساس قيمة السوق لتلك الأصول العينية، ويشتمل هذا على الإعفاء من الدين الذي على الأصل.",
+    "target_en": "G. The value of compensation for the disposal of an asset against in kind assets is based on the market value of those in kind assets, including exemption from the debt on the asset.",
+    "source_ar_norm": "ز- تحدد قيمة التعويض عن اصل عندما يتم التخلص منه مقابل اصول عينية علي اساس قيمة السوق لتلك الاصول العينية، ويشتمل هذا علي الاعفاء من الدين الذي علي الاصل.",
+    "target_en_norm": "g. the value of compensation for the disposal of an asset against in kind assets is based on the market value of those in kind assets, including exemption from the debt on the asset.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59484,
+    "source_ar": "ح - إذا تخلص مكلف من أصل بالإهداء وبالإرث، يعامل الشخص المتصرف بالأصل كما لو أنه استلم قيمة تعويضية عن ذلك الأصل تعادل قيمته في السوق وقت التصرف به ما لم تنطبق الفقرة (ط) من هذه المادة.",
+    "target_en": "H. Where a taxpayer disposes of an asset by way of gift or inheritance, the disposer is treated as having received compensation equal to the market value of the asset at the time of disposal, unless paragraph (i) of this Article is applicable.",
+    "source_ar_norm": "ح - اذا تخلص مكلف من اصل بالاهداء وبالارث، يعامل الشخص المتصرف بالاصل كما لو انه استلم قيمة تعويضية عن ذلك الاصل تعادل قيمته في السوق وقت التصرف به ما لم تنطبق الفقرة (ط) من هذه المادة.",
+    "target_en_norm": "h. where a taxpayer disposes of an asset by way of gift or inheritance, the disposer is treated as having received compensation equal to the market value of the asset at the time of disposal, unless paragraph (i) of this article is applicable.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59485,
+    "source_ar": "ط - إذا كان الأصل المتخلص منه محملا بدين يزيد عن قيمة الأصل بالسوق، يعامل المكلف المتخلص من الأصل كما لو أنه استلم قيمة تعويضية تعادل قيمة ذلك الدين.",
+    "target_en": "I. If the disposed of asset is encumbered by debt exceeding its market value, the taxpayer disposing of the asset is treated as having received compensation equal to the value of such debt.",
+    "source_ar_norm": "ط - اذا كان الاصل المتخلص منه محملا بدين يزيد عن قيمة الاصل بالسوق، يعامل المكلف المتخلص من الاصل كما لو انه استلم قيمة تعويضية تعادل قيمة ذلك الدين.",
+    "target_en_norm": "i. if the disposed of asset is encumbered by debt exceeding its market value, the taxpayer disposing of the asset is treated as having received compensation equal to the value of such debt.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59486,
+    "source_ar": "ي - لتحديد الوعاء الضريبي، لا يحتسب ربح أو خسارة عند التخلص الإلزامي من أصل بمقدار استخدام قيمة التعويض في شراء أصل مشابه في النوع خلال سنة واحدة من التخلص الإلزامي.",
+    "target_en": "J. In determining the tax base, no gain or loss is taken into account on the involuntary disposal of an asset to the extent that the compensation value is used in purchasing an asset of the same kind within one year of the involuntary disposal.",
+    "source_ar_norm": "ي - لتحديد الوعاء الضريبي، لا يحتسب ربح او خسارة عند التخلص الالزامي من اصل بمقدار استخدام قيمة التعويض في شراء اصل مشابه في النوع خلال سنة واحدة من التخلص الالزامي.",
+    "target_en_norm": "j. in determining the tax base, no gain or loss is taken into account on the involuntary disposal of an asset to the extent that the compensation value is used in purchasing an asset of the same kind within one year of the involuntary disposal.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59487,
+    "source_ar": "ك - يحدد أساس التكلفة للأصل البديل الموصوف في الفقرة (ي) من هذه المادة استنادا لأساس تكلفة الأصل المستبدل.",
+    "target_en": "K. The cost base of the replacement asset described in paragraph (j) of this Article is determined with reference to the cost base of the replaced asset.",
+    "source_ar_norm": "ك - يحدد اساس التكلفة للاصل البديل الموصوف في الفقرة (ي) من هذه المادة استنادا لاساس تكلفة الاصل المستبدل.",
+    "target_en_norm": "k. the cost base of the replacement asset described in paragraph (j) of this article is determined with reference to the cost base of the replaced asset.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59488,
+    "source_ar": "ل - إذا حول مكلف أصلا مملوكا له إلى الاستعمال الشخصي، أو توقف عن استخدامه نهائيا في در الدخل، يعد المكلف متخلصا من الأصل بقيمته السوقية، مع الإقرار بالربح الناتج فقط دون الخسارة.",
+    "target_en": "L. Where an asset owned by a taxpayer is converted to personal use or otherwise ceases to be used in the generation of income, the taxpayer is deemed to have disposed of the asset for its market value, with the recognition of the resulting gain but not the loss.",
+    "source_ar_norm": "ل - اذا حول مكلف اصلا مملوكا له الي الاستعمال الشخصي، او توقف عن استخدامه نهائيا في در الدخل، يعد المكلف متخلصا من الاصل بقيمته السوقية، مع الاقرار بالربح الناتج فقط دون الخسارة.",
+    "target_en_norm": "l. where an asset owned by a taxpayer is converted to personal use or otherwise ceases to be used in the generation of income, the taxpayer is deemed to have disposed of the asset for its market value, with the recognition of the resulting gain but not the loss.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59489,
+    "source_ar": "المادة العاشرة: الدخول المعفاة من الضريبة",
+    "target_en": "Article 10: Tax-Exempt Income",
+    "source_ar_norm": "المادة العاشرة: الدخول المعفاة من الضريبة",
+    "target_en_norm": "article 10: tax-exempt income",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59490,
+    "source_ar": "تعفى الدخول الآتية من ضريبة الدخل:",
+    "target_en": "The following types of income are exempt from income tax:",
+    "source_ar_norm": "تعفي الدخول الاتية من ضريبة الدخل:",
+    "target_en_norm": "the following types of income are exempt from income tax:",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59491,
+    "source_ar": "أ - المكاسب الرأسمالية المتحققة من التخلص من الأوراق المالية المتداولة في السوق المالية بالمملكة وفقا للضوابط التي تحددها اللائحة.",
+    "target_en": "a) Capital gains realized from the disposal of securities traded in the stock market in the Kingdom in accordance with restrictions specified in the Regulations.",
+    "source_ar_norm": "ا - المكاسب الراسمالية المتحققة من التخلص من الاوراق المالية المتداولة في السوق المالية بالمملكة وفقا للضوابط التي تحددها اللائحة.",
+    "target_en_norm": "a) capital gains realized from the disposal of securities traded in the stock market in the kingdom in accordance with restrictions specified in the regulations.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59492,
+    "source_ar": "ب - الكسب الناتج عن التخلص من الممتلكات من غير أصول النشاط.",
+    "target_en": "b) Gains resulting from the disposal of property other than assets used in the activity.",
+    "source_ar_norm": "ب - الكسب الناتج عن التخلص من الممتلكات من غير اصول النشاط.",
+    "target_en_norm": "b) gains resulting from the disposal of property other than assets used in the activity.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59493,
+    "source_ar": "المادة الحادية عشرة: التبرعات",
+    "target_en": "Article 11: Donations",
+    "source_ar_norm": "المادة الحادية عشرة: التبرعات",
+    "target_en_norm": "article 11: donations",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59494,
+    "source_ar": "يجوز لتحديد الوعاء الضريبي لكل مكلف حسم التبرعات المدفوعة خلال السنة الضريبية إلى هيئات عامة، أو جمعيات خيرية مرخص لها بالمملكة لا تهدف إلى الربح، ويجوز لها تلقي التبرعات.",
+    "target_en": "In determining the tax base of each taxpayer, a deduction is allowed for donations paid during the taxable year to public agencies or non-profit philanthropic societies licensed in the Kingdom and permitted to receive donations.",
+    "source_ar_norm": "يجوز لتحديد الوعاء الضريبي لكل مكلف حسم التبرعات المدفوعة خلال السنة الضريبية الي هيئات عامة، او جمعيات خيرية مرخص لها بالمملكة لا تهدف الي الربح، ويجوز لها تلقي التبرعات.",
+    "target_en_norm": "in determining the tax base of each taxpayer, a deduction is allowed for donations paid during the taxable year to public agencies or non-profit philanthropic societies licensed in the kingdom and permitted to receive donations.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59495,
+    "source_ar": "الفصل الخامس: مصاريف تحقيق الدخل",
+    "target_en": "Chapter 5: Expenses of Earning Income",
+    "source_ar_norm": "الفصل الخامس: مصاريف تحقيق الدخل",
+    "target_en_norm": "chapter 5: expenses of earning income",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59496,
+    "source_ar": "المادة الثانية عشرة: المصاريف المرتبطة بتحقيق الدخل",
+    "target_en": "Article 12: Expenses Related to Earning Income",
+    "source_ar_norm": "المادة الثانية عشرة: المصاريف المرتبطة بتحقيق الدخل",
+    "target_en_norm": "article 12: expenses related to earning income",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59497,
+    "source_ar": "جميع المصاريف العادية والضرورية لتحقيق الدخل الخاضع للضريبة، سواء كانت مسددة أو مستحقة، والمتكبدة خلال السنة الضريبية هي مصاريف جائزة الحسم عند احتساب الوعاء الضريبي، باستثناء أي مصاريف ذات طبيعة رأسمالية، والمصاريف الأخرى غير جائزة الحسم بمقتضى المادة الثالثة عشرة من هذا النظام، والأحكام الأخرى في هذا الفصل.",
+    "target_en": "All regular and necessary expenses of earning taxable income, paid or accrued, and incurred during the taxable year are deductible in determining the tax base, with the exception of outlays of a capital nature and other nondeductible expenses according to Article 13 of this Law and other provisions of this Chapter.",
+    "source_ar_norm": "جميع المصاريف العادية والضرورية لتحقيق الدخل الخاضع للضريبة، سواء كانت مسددة او مستحقة، والمتكبدة خلال السنة الضريبية هي مصاريف جائزة الحسم عند احتساب الوعاء الضريبي، باستثناء اي مصاريف ذات طبيعة راسمالية، والمصاريف الاخري غير جائزة الحسم بمقتضي المادة الثالثة عشرة من هذا النظام، والاحكام الاخري في هذا الفصل.",
+    "target_en_norm": "all regular and necessary expenses of earning taxable income, paid or accrued, and incurred during the taxable year are deductible in determining the tax base, with the exception of outlays of a capital nature and other nondeductible expenses according to article 13 of this law and other provisions of this chapter.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59498,
+    "source_ar": "المادة الثالثة عشرة: المصاريف غير الجائز حسمها",
+    "target_en": "Article 13: Nondeductible Expenses",
+    "source_ar_norm": "المادة الثالثة عشرة: المصاريف غير الجائز حسمها",
+    "target_en_norm": "article 13: nondeductible expenses",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59499,
+    "source_ar": "لا يجوز حسم المصاريف التالية:",
+    "target_en": "No deduction is allowed for the following:",
+    "source_ar_norm": "لا يجوز حسم المصاريف التالية:",
+    "target_en_norm": "no deduction is allowed for the following:",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59500,
+    "source_ar": "أ - المصاريف غير المرتبطة بتحقيق الدخل الخاضع للضريبة.",
+    "target_en": "a) Expenses not connected with the earning of taxable income.",
+    "source_ar_norm": "ا - المصاريف غير المرتبطة بتحقيق الدخل الخاضع للضريبة.",
+    "target_en_norm": "a) expenses not connected with the earning of taxable income.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  }
+]

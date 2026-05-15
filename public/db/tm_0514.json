@@ -1,0 +1,802 @@
+[
+  {
+    "id": 51301,
+    "source_ar": "إذا باع الوكيل بنقص دون إذن الموكل لم ينفذ البيع في حق الموكل، وليس له أن يحتج بعدم نفاذ البيع تجاه المشتري حسن النية.",
+    "target_en": "If the agent sells the item at a price lower than the set price without the principal’s authorization, the sale shall not be enforceable against the principal and the principal may not invoke the invalidity of the sale against a bona fide buyer.",
+    "source_ar_norm": "اذا باع الوكيل بنقص دون اذن الموكل لم ينفذ البيع في حق الموكل، وليس له ان يحتج بعدم نفاذ البيع تجاه المشتري حسن النية.",
+    "target_en_norm": "if the agent sells the item at a price lower than the set price without the principal’s authorization, the sale shall not be enforceable against the principal and the principal may not invoke the invalidity of the sale against a bona fide buyer.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51302,
+    "source_ar": "وإذا أجاز الموكل البيع نفذ في حقه، وله مطالبة الوكيل بالتعويض.",
+    "target_en": "If the principal ratifies the sale, it shall be enforceable against him and he may demand compensation from the agent.",
+    "source_ar_norm": "واذا اجاز الموكل البيع نفذ في حقه، وله مطالبة الوكيل بالتعويض.",
+    "target_en_norm": "if the principal ratifies the sale, it shall be enforceable against him and he may demand compensation from the agent.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51303,
+    "source_ar": "المادة الخامسة والتسعون بعد الأربعمائة",
+    "target_en": "Article 495",
+    "source_ar_norm": "المادة الخامسة والتسعون بعد الاربعمائة",
+    "target_en_norm": "article 495",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51304,
+    "source_ar": "لا يجوز للوكيل في البيع أن يشتري لنفسه ما وكل في بيعه إلا بإذن موكله.",
+    "target_en": "The agent may not, without the principal’s authorization, purchase for his own account a thing he was appointed to sell.",
+    "source_ar_norm": "لا يجوز للوكيل في البيع ان يشتري لنفسه ما وكل في بيعه الا باذن موكله.",
+    "target_en_norm": "the agent may not, without the principal’s authorization, purchase for his own account a thing he was appointed to sell.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51305,
+    "source_ar": "لا يجوز للوكيل في البيع أن يبيع إلى أصوله أو فروعه أو زوجه أو إلى من كان التصرف معه يجر مغنمًا أو يدفع مغرمًا إلا بإذن موكله.",
+    "target_en": "The agent may not, without the principal’s authorization, sell a thing to his ascendants, descendants, or spouse, nor sell it to a person the agent, in dealing with such person, would make a gain or avoid a loss.",
+    "source_ar_norm": "لا يجوز للوكيل في البيع ان يبيع الي اصوله او فروعه او زوجه او الي من كان التصرف معه يجر مغنما او يدفع مغرما الا باذن موكله.",
+    "target_en_norm": "the agent may not, without the principal’s authorization, sell a thing to his ascendants, descendants, or spouse, nor sell it to a person the agent, in dealing with such person, would make a gain or avoid a loss.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51306,
+    "source_ar": "المادة السادسة والتسعون بعد الأربعمائة",
+    "target_en": "Article 496",
+    "source_ar_norm": "المادة السادسة والتسعون بعد الاربعمائة",
+    "target_en_norm": "article 496",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51307,
+    "source_ar": "ليس للوكيل في البيع أن يبيع مال موكله بثمن مؤجل إلا بإذن صريح أو ضمني.",
+    "target_en": "The agent may not sell the principal’s property for a deferred payment, except with an explicit or implicit authorization.",
+    "source_ar_norm": "ليس للوكيل في البيع ان يبيع مال موكله بثمن مؤجل الا باذن صريح او ضمني.",
+    "target_en_norm": "the agent may not sell the principal’s property for a deferred payment, except with an explicit or implicit authorization.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51308,
+    "source_ar": "إذا باع الوكيل مؤجَّلًا فله أن يأخذ رهنًا أو كفيلًا على المشتري بما باعه مؤجَّلًا وإن لم يفوضه الموكل في ذلك.",
+    "target_en": "If the agent sells a property for a deferred payment, he may demand a pledge or surety from the buyer against the deferred payment, even if the principal did not authorize him to make such demand.",
+    "source_ar_norm": "اذا باع الوكيل مؤجلا فله ان ياخذ رهنا او كفيلا علي المشتري بما باعه مؤجلا وان لم يفوضه الموكل في ذلك.",
+    "target_en_norm": "if the agent sells a property for a deferred payment, he may demand a pledge or surety from the buyer against the deferred payment, even if the principal did not authorize him to make such demand.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51309,
+    "source_ar": "المادة السابعة والتسعون بعد الأربعمائة",
+    "target_en": "Article 497",
+    "source_ar_norm": "المادة السابعة والتسعون بعد الاربعمائة",
+    "target_en_norm": "article 497",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51310,
+    "source_ar": "على الوكيل أن يزود موكله بالمعلومات الضرورية عما وصل إليه في تنفيذ الوكالة، وأن يقدم له حسابًا عنها؛ ما لم يقتض الاتفاق أو طبيعة المعاملة خلاف ذلك.",
+    "target_en": "The agent shall update the principal with information relating to the performance of the power of attorney and shall provide him with an account thereof, unless the agreement or the nature of the dealing between the parties requires otherwise.",
+    "source_ar_norm": "علي الوكيل ان يزود موكله بالمعلومات الضرورية عما وصل اليه في تنفيذ الوكالة، وان يقدم له حسابا عنها؛ ما لم يقتض الاتفاق او طبيعة المعاملة خلاف ذلك.",
+    "target_en_norm": "the agent shall update the principal with information relating to the performance of the power of attorney and shall provide him with an account thereof, unless the agreement or the nature of the dealing between the parties requires otherwise.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51311,
+    "source_ar": "الفرع الثالث: التزامات الموكل",
+    "target_en": "Subsection 3: Obligations of the Principal",
+    "source_ar_norm": "الفرع الثالث: التزامات الموكل",
+    "target_en_norm": "subsection 3: obligations of the principal",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51312,
+    "source_ar": "المادة الثامنة والتسعون بعد الأربعمائة",
+    "target_en": "Article 498",
+    "source_ar_norm": "المادة الثامنة والتسعون بعد الاربعمائة",
+    "target_en_norm": "article 498",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51313,
+    "source_ar": "على الموكل أداء الأجر المتفق عليه للوكيل متى أنجز العمل، فإن لم يتفقا على دفع أجر وكان الوكيل ممن يعمل بأجر على سبيل الاعتياد فله أجر المثل؛ وإلا كان متبرعًا.",
+    "target_en": "The principal shall, upon completion of the work, pay the agent the agreedupon fees. If the fees are not agreed upon, the agent shall be entitled to the prevailing market fees if he normally works for a fee; otherwise, the power of attorney shall be deemed to be gratuitous.",
+    "source_ar_norm": "علي الموكل اداء الاجر المتفق عليه للوكيل متي انجز العمل، فان لم يتفقا علي دفع اجر وكان الوكيل ممن يعمل باجر علي سبيل الاعتياد فله اجر المثل؛ والا كان متبرعا.",
+    "target_en_norm": "the principal shall, upon completion of the work, pay the agent the agreedupon fees. if the fees are not agreed upon, the agent shall be entitled to the prevailing market fees if he normally works for a fee; otherwise, the power of attorney shall be deemed to be gratuitous.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51314,
+    "source_ar": "المادة التاسعة والتسعون بعد الأربعمائة",
+    "target_en": "Article 499",
+    "source_ar_norm": "المادة التاسعة والتسعون بعد الاربعمائة",
+    "target_en_norm": "article 499",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51315,
+    "source_ar": "يلتزم الموكل بأن يرد للوكيل ما أنفقه في سبيل تنفيذ الوكالة التنفيذ المعتاد.",
+    "target_en": "The principal shall reimburse the agent for any expenses he incurs in the normal performance of the power of attorney.",
+    "source_ar_norm": "يلتزم الموكل بان يرد للوكيل ما انفقه في سبيل تنفيذ الوكالة التنفيذ المعتاد.",
+    "target_en_norm": "the principal shall reimburse the agent for any expenses he incurs in the normal performance of the power of attorney.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51316,
+    "source_ar": "المادة الخمسمائة",
+    "target_en": "Article 500",
+    "source_ar_norm": "المادة الخمسمائة",
+    "target_en_norm": "article 500",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51317,
+    "source_ar": "يلتزم الموكل بكل ما ترتب في ذمة الوكيل بسبب تنفيذ الوكالة تنفيذًا معتادًا.",
+    "target_en": "The principal shall be liable for any obligations the agent undertakes in the normal performance of the power of attorney.",
+    "source_ar_norm": "يلتزم الموكل بكل ما ترتب في ذمة الوكيل بسبب تنفيذ الوكالة تنفيذا معتادا.",
+    "target_en_norm": "the principal shall be liable for any obligations the agent undertakes in the normal performance of the power of attorney.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51318,
+    "source_ar": "يكون الموكل مسؤولًا عما يصيب الوكيل من ضرر بسبب تنفيذ الوكالة تنفيذًا معتادًا ما لم يكن الضرر ناشئًا عن خطئه.",
+    "target_en": "The principal shall be liable for any harm sustained by the agent in the normal performance of the power of attorney, unless such harm is due to a fault attributable to the agent.",
+    "source_ar_norm": "يكون الموكل مسؤولا عما يصيب الوكيل من ضرر بسبب تنفيذ الوكالة تنفيذا معتادا ما لم يكن الضرر ناشئا عن خطئه.",
+    "target_en_norm": "the principal shall be liable for any harm sustained by the agent in the normal performance of the power of attorney, unless such harm is due to a fault attributable to the agent.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51319,
+    "source_ar": "المادة الأولى بعد الخمسمائة",
+    "target_en": "Article 501",
+    "source_ar_norm": "المادة الاولي بعد الخمسمائة",
+    "target_en_norm": "article 501",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51320,
+    "source_ar": "تسري أحكام النيابة في التعاقد -المنصوص عليها في هذا النظام- على علاقة الموكل والوكيل بالغير الذي يتعامل مع الوكيل.",
+    "target_en": "The provisions governing contracting by agency provided for in this Law shall apply to the relationship of the principal and the agent with a third party dealing with such agent.",
+    "source_ar_norm": "تسري احكام النيابة في التعاقد -المنصوص عليها في هذا النظام- علي علاقة الموكل والوكيل بالغير الذي يتعامل مع الوكيل.",
+    "target_en_norm": "the provisions governing contracting by agency provided for in this law shall apply to the relationship of the principal and the agent with a third party dealing with such agent.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51321,
+    "source_ar": "الفرع الرابع: انتهاء عقد الوكالة",
+    "target_en": "Subsection 4: Termination of Power of Attorney Contract",
+    "source_ar_norm": "الفرع الرابع: انتهاء عقد الوكالة",
+    "target_en_norm": "subsection 4: termination of power of attorney contract",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51322,
+    "source_ar": "المادة الثانية بعد الخمسمائة",
+    "target_en": "Article 502",
+    "source_ar_norm": "المادة الثانية بعد الخمسمائة",
+    "target_en_norm": "article 502",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51323,
+    "source_ar": "ينتهي عقد الوكالة بإنجاز العمل الموكل فيه، أو بانقضاء الأجل المعين للوكالة، أو بموت الموكّل أو الوكيل، أو بفقد أحدهما أهليته.",
+    "target_en": "A power of attorney contract shall terminate upon completion of the work subject of the power of attorney, expiration of the term of the power of attorney, or the death or loss of competence of the principal or the agent.",
+    "source_ar_norm": "ينتهي عقد الوكالة بانجاز العمل الموكل فيه، او بانقضاء الاجل المعين للوكالة، او بموت الموكل او الوكيل، او بفقد احدهما اهليته.",
+    "target_en_norm": "a power of attorney contract shall terminate upon completion of the work subject of the power of attorney, expiration of the term of the power of attorney, or the death or loss of competence of the principal or the agent.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51324,
+    "source_ar": "المادة الثالثة بعد الخمسمائة",
+    "target_en": "Article 503",
+    "source_ar_norm": "المادة الثالثة بعد الخمسمائة",
+    "target_en_norm": "article 503",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51325,
+    "source_ar": "للموكل أن يعزل وكيله أو يقيد وكالته متى أراد إلا إذا كانت صادرة لصالح الوكيل أو لصالح الغير فإنه لا يجوز للموكل أن يعزله أو يقيد الوكالة دون موافقة من صدرت لصالحه، وفي جميع الأحوال على الموكل إعلام الوكيل بذلك.",
+    "target_en": "The principal may, at any time, dismiss his agent or restrict his powers, unless the power of attorney is issued for the benefit of the agent or a third party; in such case, the principal may not dismiss the agent or restrict his powers without the consent of the party for whose benefit the power of attorney is issued. In all cases, the principal shall notify the agent of the dismissal and restriction.",
+    "source_ar_norm": "للموكل ان يعزل وكيله او يقيد وكالته متي اراد الا اذا كانت صادرة لصالح الوكيل او لصالح الغير فانه لا يجوز للموكل ان يعزله او يقيد الوكالة دون موافقة من صدرت لصالحه، وفي جميع الاحوال علي الموكل اعلام الوكيل بذلك.",
+    "target_en_norm": "the principal may, at any time, dismiss his agent or restrict his powers, unless the power of attorney is issued for the benefit of the agent or a third party; in such case, the principal may not dismiss the agent or restrict his powers without the consent of the party for whose benefit the power of attorney is issued. in all cases, the principal shall notify the agent of the dismissal and restriction.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51326,
+    "source_ar": "المادة الرابعة بعد الخمسمائة",
+    "target_en": "Article 504",
+    "source_ar_norm": "المادة الرابعة بعد الخمسمائة",
+    "target_en_norm": "article 504",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51327,
+    "source_ar": "إذا كانت الوكالة بأجر وعزل الموكل وكيله في وقت غير مناسب أو بغير مسوغ مقبول، لزمه تعويض الوكيل عن الضرر الذي يلحقه بسبب ذلك.",
+    "target_en": "If the power of attorney is for a fee and the principal dismisses the agent at an inappropriate time or without an acceptable justification, he shall compensate the agent for any resulting harm he sustains.",
+    "source_ar_norm": "اذا كانت الوكالة باجر وعزل الموكل وكيله في وقت غير مناسب او بغير مسوغ مقبول، لزمه تعويض الوكيل عن الضرر الذي يلحقه بسبب ذلك.",
+    "target_en_norm": "if the power of attorney is for a fee and the principal dismisses the agent at an inappropriate time or without an acceptable justification, he shall compensate the agent for any resulting harm he sustains.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51328,
+    "source_ar": "المادة الخامسة بعد الخمسمائة",
+    "target_en": "Article 505",
+    "source_ar_norm": "المادة الخامسة بعد الخمسمائة",
+    "target_en_norm": "article 505",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51329,
+    "source_ar": "للوكيل أن يتخلى عن الوكالة إذا لم تتعلق بها مصلحة للغير بشرط إعلام موكله بتخليه عنها.",
+    "target_en": "The agent may withdraw from the power of attorney if no third party has an interest therein, provided that he notifies the principal of such withdrawal.",
+    "source_ar_norm": "للوكيل ان يتخلي عن الوكالة اذا لم تتعلق بها مصلحة للغير بشرط اعلام موكله بتخليه عنها.",
+    "target_en_norm": "the agent may withdraw from the power of attorney if no third party has an interest therein, provided that he notifies the principal of such withdrawal.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51330,
+    "source_ar": "إذا تعلقت بالوكالة مصلحة للغير فلا يجوز للوكيل أن يتخلى عن الوكالة إلا إذا وجدت أسباب جدية تسوغ ذلك، على أن يعلم الغير بذلك ويمهله وقتًا كافيًا ليتخذ ما يراه مناسبًا لرعاية مصلحته.",
+    "target_en": "The agent may not withdraw from the power of attorney if a third party has an interest therein, unless he has substantial justification for such withdrawal; in case of withdrawal, the agent shall notify the third party and provide him with adequate time to take any action he deems appropriate to protect his interest.",
+    "source_ar_norm": "اذا تعلقت بالوكالة مصلحة للغير فلا يجوز للوكيل ان يتخلي عن الوكالة الا اذا وجدت اسباب جدية تسوغ ذلك، علي ان يعلم الغير بذلك ويمهله وقتا كافيا ليتخذ ما يراه مناسبا لرعاية مصلحته.",
+    "target_en_norm": "the agent may not withdraw from the power of attorney if a third party has an interest therein, unless he has substantial justification for such withdrawal; in case of withdrawal, the agent shall notify the third party and provide him with adequate time to take any action he deems appropriate to protect his interest.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51331,
+    "source_ar": "يلتزم الوكيل في جميع الأحوال بمتابعة القيام بالأعمال التي بدأها حتى يبلغ مرحلة لا يخشى معها ضرر على الموكل، وإلا لزمه التعويض عن الضرر.",
+    "target_en": "In all cases, the agent shall continue to perform the acts he commenced until he becomes certain that no harm may be sustained by the principal; otherwise, he shall be liable for compensation.",
+    "source_ar_norm": "يلتزم الوكيل في جميع الاحوال بمتابعة القيام بالاعمال التي بداها حتي يبلغ مرحلة لا يخشي معها ضرر علي الموكل، والا لزمه التعويض عن الضرر.",
+    "target_en_norm": "in all cases, the agent shall continue to perform the acts he commenced until he becomes certain that no harm may be sustained by the principal; otherwise, he shall be liable for compensation.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51332,
+    "source_ar": "إذا كانت الوكالة بأجر وتخلّى الوكيل عن الوكالة في وقت غير مناسب أو بغير مسوغ مقبول، لزمه تعويض الموكل عن الضرر الذي يلحقه بسبب ذلك، ولو كان تخلّي الوكيل عن عمل لم يشرع فيه.",
+    "target_en": "If the power of attorney is for a fee and the agent withdraws therefrom at an inappropriate time or without an acceptable justification, he shall be liable to compensate the principal for any harm arising from such withdrawal, even if the withdrawal occurs prior to commencing an act under the power of attorney.",
+    "source_ar_norm": "اذا كانت الوكالة باجر وتخلي الوكيل عن الوكالة في وقت غير مناسب او بغير مسوغ مقبول، لزمه تعويض الموكل عن الضرر الذي يلحقه بسبب ذلك، ولو كان تخلي الوكيل عن عمل لم يشرع فيه.",
+    "target_en_norm": "if the power of attorney is for a fee and the agent withdraws therefrom at an inappropriate time or without an acceptable justification, he shall be liable to compensate the principal for any harm arising from such withdrawal, even if the withdrawal occurs prior to commencing an act under the power of attorney.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51333,
+    "source_ar": "الفصل الرابع: عقد الإيداع الفرع الأول: إنشاء عقد الإيداع",
+    "target_en": "Section 4: Deposit Contract Subsection 1: Establishing a Deposit Contract",
+    "source_ar_norm": "الفصل الرابع: عقد الايداع الفرع الاول: انشاء عقد الايداع",
+    "target_en_norm": "section 4: deposit contract subsection 1: establishing a deposit contract",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51334,
+    "source_ar": "المادة السادسة بعد الخمسمائة",
+    "target_en": "Article 506",
+    "source_ar_norm": "المادة السادسة بعد الخمسمائة",
+    "target_en_norm": "article 506",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51335,
+    "source_ar": "الإيداع عقد يحفظ بمقتضاه المودع لديه مال المودع على أن يرده بعينه.",
+    "target_en": "Deposit is a contract under which a depositary safekeeps a depositor’s property provided that the same property is returned to the depositor.",
+    "source_ar_norm": "الايداع عقد يحفظ بمقتضاه المودع لديه مال المودع علي ان يرده بعينه.",
+    "target_en_norm": "deposit is a contract under which a depositary safekeeps a depositor’s property provided that the same property is returned to the depositor.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51336,
+    "source_ar": "المادة السابعة بعد الخمسمائة",
+    "target_en": "Article 507",
+    "source_ar_norm": "المادة السابعة بعد الخمسمائة",
+    "target_en_norm": "article 507",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51337,
+    "source_ar": "ليس للمودع لديه أجر على حفظ الوديعة؛ ما لم يتفق على خلاف ذلك.",
+    "target_en": "A depositary shall not receive a fee for safekeeping the deposited property, unless agreed otherwise.",
+    "source_ar_norm": "ليس للمودع لديه اجر علي حفظ الوديعة؛ ما لم يتفق علي خلاف ذلك.",
+    "target_en_norm": "a depositary shall not receive a fee for safekeeping the deposited property, unless agreed otherwise.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51338,
+    "source_ar": "المادة الثامنة بعد الخمسمائة",
+    "target_en": "Article 508",
+    "source_ar_norm": "المادة الثامنة بعد الخمسمائة",
+    "target_en_norm": "article 508",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51339,
+    "source_ar": "إذا كان الإيداع بلا أجرٍ فلا ينعقد إلا بالقبض.",
+    "target_en": "If a deposit is gratuitous, the deposit contract shall be deemed concluded only upon receipt of the deposited property.",
+    "source_ar_norm": "اذا كان الايداع بلا اجر فلا ينعقد الا بالقبض.",
+    "target_en_norm": "if a deposit is gratuitous, the deposit contract shall be deemed concluded only upon receipt of the deposited property.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51340,
+    "source_ar": "الفرع الثاني: التزامات المودع لديه",
+    "target_en": "Subsection 2: Obligations of the Depositary",
+    "source_ar_norm": "الفرع الثاني: التزامات المودع لديه",
+    "target_en_norm": "subsection 2: obligations of the depositary",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51341,
+    "source_ar": "المادة التاسعة بعد الخمسمائة",
+    "target_en": "Article 509",
+    "source_ar_norm": "المادة التاسعة بعد الخمسمائة",
+    "target_en_norm": "article 509",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51342,
+    "source_ar": "يلتزم المودع لديه بأن يبذل في حفظ الوديعة العناية التي يبذلها في حفظ ماله الخاص دون أن يكلف في ذلك أزيد من عناية الشخص المعتاد، فإن كان الإيداع بأجر فعليه أن يبذل في حفظها عناية الشخص المعتاد.",
+    "target_en": "A depositary shall, in safekeeping a deposited property, exercise the same level of care he would exercise in safekeeping his own property and shall not be required to exceed the care of a reasonable person. If the deposit is for a fee, he shall exercise the care of a reasonable person.",
+    "source_ar_norm": "يلتزم المودع لديه بان يبذل في حفظ الوديعة العناية التي يبذلها في حفظ ماله الخاص دون ان يكلف في ذلك ازيد من عناية الشخص المعتاد، فان كان الايداع باجر فعليه ان يبذل في حفظها عناية الشخص المعتاد.",
+    "target_en_norm": "a depositary shall, in safekeeping a deposited property, exercise the same level of care he would exercise in safekeeping his own property and shall not be required to exceed the care of a reasonable person. if the deposit is for a fee, he shall exercise the care of a reasonable person.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51343,
+    "source_ar": "للمودع لديه أن يحفظ الوديعة بنفسه أو بمن يأتمنه على حفظ ماله ممن يعولهم؛ ما لم يكن الإيداع بأجر.",
+    "target_en": "The deposited property may be safekept by the depositary himself or by any of his dependents whom he entrusts to safekeep his own property, unless the deposit is for a fee.",
+    "source_ar_norm": "للمودع لديه ان يحفظ الوديعة بنفسه او بمن ياتمنه علي حفظ ماله ممن يعولهم؛ ما لم يكن الايداع باجر.",
+    "target_en_norm": "the deposited property may be safekept by the depositary himself or by any of his dependents whom he entrusts to safekeep his own property, unless the deposit is for a fee.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51344,
+    "source_ar": "المادة العاشرة بعد الخمسمائة",
+    "target_en": "Article 510",
+    "source_ar_norm": "المادة العاشرة بعد الخمسمائة",
+    "target_en_norm": "article 510",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51345,
+    "source_ar": "ليس للمودع لديه أن يودع الوديعة لدى الغير دون إذن المودع إلا إذا كان مضطرًّا، وعليه استعادتها بعد زوال السبب.",
+    "target_en": "A depositary may, only in exigent circumstances, deposit the deposited property with a third party without the depositor’s authorization, and shall recover said property once the exigent circumstances cease to exist.",
+    "source_ar_norm": "ليس للمودع لديه ان يودع الوديعة لدي الغير دون اذن المودع الا اذا كان مضطرا، وعليه استعادتها بعد زوال السبب.",
+    "target_en_norm": "a depositary may, only in exigent circumstances, deposit the deposited property with a third party without the depositor’s authorization, and shall recover said property once the exigent circumstances cease to exist.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51346,
+    "source_ar": "المادة الحادية عشرة بعد الخمسمائة",
+    "target_en": "Article 511",
+    "source_ar_norm": "المادة الحادية عشرة بعد الخمسمائة",
+    "target_en_norm": "article 511",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51347,
+    "source_ar": "لا يجوز للمودع لديه أن يستعمل الوديعة أو يرتب عليها حقًّا للغير دون إذن المودع.",
+    "target_en": "A depositary may not use a deposited property or confer a third party right thereon without the depositor’s authorization.",
+    "source_ar_norm": "لا يجوز للمودع لديه ان يستعمل الوديعة او يرتب عليها حقا للغير دون اذن المودع.",
+    "target_en_norm": "a depositary may not use a deposited property or confer a third party right thereon without the depositor’s authorization.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51348,
+    "source_ar": "الفرع الثالث: التزامات المودع",
+    "target_en": "Subsection 3: Obligations of the Depositor",
+    "source_ar_norm": "الفرع الثالث: التزامات المودع",
+    "target_en_norm": "subsection 3: obligations of the depositor",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51349,
+    "source_ar": "المادة الثانية عشرة بعد الخمسمائة",
+    "target_en": "Article 512",
+    "source_ar_norm": "المادة الثانية عشرة بعد الخمسمائة",
+    "target_en_norm": "article 512",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51350,
+    "source_ar": "إذا كان الإيداع بأجر فعلى المودع أن يؤدي الأجر المتفق عليه في الوقت الذي انتهى فيه حفظ الوديعة، ما لم يتفق على خلاف ذلك.",
+    "target_en": "If the deposit is for a fee, the depositor shall pay the agreed-upon fee on the date on which the deposit terminates, unless agreed otherwise.",
+    "source_ar_norm": "اذا كان الايداع باجر فعلي المودع ان يؤدي الاجر المتفق عليه في الوقت الذي انتهي فيه حفظ الوديعة، ما لم يتفق علي خلاف ذلك.",
+    "target_en_norm": "if the deposit is for a fee, the depositor shall pay the agreed-upon fee on the date on which the deposit terminates, unless agreed otherwise.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51351,
+    "source_ar": "المادة الثالثة عشرة بعد الخمسمائة",
+    "target_en": "Article 513",
+    "source_ar_norm": "المادة الثالثة عشرة بعد الخمسمائة",
+    "target_en_norm": "article 513",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51352,
+    "source_ar": "يلتزم المودع بأن يؤدي إلى المودع لديه ما أنفقه من نفقة يقتضيها حفظ الوديعة، ما لم يتفق على خلاف ذلك.",
+    "target_en": "The depositor shall reimburse the depositary for any necessary expenses he incurs for the safekeeping of the deposited property, unless agreed otherwise.",
+    "source_ar_norm": "يلتزم المودع بان يؤدي الي المودع لديه ما انفقه من نفقة يقتضيها حفظ الوديعة، ما لم يتفق علي خلاف ذلك.",
+    "target_en_norm": "the depositor shall reimburse the depositary for any necessary expenses he incurs for the safekeeping of the deposited property, unless agreed otherwise.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51353,
+    "source_ar": "إذا كان المودع غائبًا جاز للمودع لديه أن يرفع الأمر إلى المحكمة لتأمر في الوديعة بما تراه.",
+    "target_en": "If the depositor is absent, the depositary may refer the matter to the court to decide on the measures to be taken with regard to the deposited property.",
+    "source_ar_norm": "اذا كان المودع غائبا جاز للمودع لديه ان يرفع الامر الي المحكمة لتامر في الوديعة بما تراه.",
+    "target_en_norm": "if the depositor is absent, the depositary may refer the matter to the court to decide on the measures to be taken with regard to the deposited property.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51354,
+    "source_ar": "المادة الرابعة عشرة بعد الخمسمائة",
+    "target_en": "Article 514",
+    "source_ar_norm": "المادة الرابعة عشرة بعد الخمسمائة",
+    "target_en_norm": "article 514",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51355,
+    "source_ar": "يلتزم المودع بدفع نفقات رد الوديعة وتسليمها، وكذلك تعويض المودع لديه عن أيّ ضرر لحقه بسبب الوديعة ما لم يكن ناشئًا عن تعديه أو تقصيره، وذلك كله ما لم يتفق على خلافه.",
+    "target_en": "The depositor shall, unless agreed otherwise, bear the expenses of returning and delivering the deposited property and shall compensate the depositary for any harm he sustains from safekeeping the deposited property, unless said harm results from the depositary’s transgression or negligence.",
+    "source_ar_norm": "يلتزم المودع بدفع نفقات رد الوديعة وتسليمها، وكذلك تعويض المودع لديه عن اي ضرر لحقه بسبب الوديعة ما لم يكن ناشئا عن تعديه او تقصيره، وذلك كله ما لم يتفق علي خلافه.",
+    "target_en_norm": "the depositor shall, unless agreed otherwise, bear the expenses of returning and delivering the deposited property and shall compensate the depositary for any harm he sustains from safekeeping the deposited property, unless said harm results from the depositary’s transgression or negligence.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51356,
+    "source_ar": "الفرع الرابع: انتهاء عقد الإيداع",
+    "target_en": "Subsection 4: Termination of Deposit Contract",
+    "source_ar_norm": "الفرع الرابع: انتهاء عقد الايداع",
+    "target_en_norm": "subsection 4: termination of deposit contract",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51357,
+    "source_ar": "المادة الخامسة عشرة بعد الخمسمائة",
+    "target_en": "Article 515",
+    "source_ar_norm": "المادة الخامسة عشرة بعد الخمسمائة",
+    "target_en_norm": "article 515",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51358,
+    "source_ar": "إذا كان الإيداع بلا أجر فللمودع لديه رد الوديعة وللمودع استردادها في أي وقت؛ على ألا يكون في وقت غير مناسب.",
+    "target_en": "If the deposit is gratuitous, the depositary may return the deposited property and the depositor may recover the same at any time, provided that the return and recovery of the deposited property is not carried out at an inappropriate time.",
+    "source_ar_norm": "اذا كان الايداع بلا اجر فللمودع لديه رد الوديعة وللمودع استردادها في اي وقت؛ علي الا يكون في وقت غير مناسب.",
+    "target_en_norm": "if the deposit is gratuitous, the depositary may return the deposited property and the depositor may recover the same at any time, provided that the return and recovery of the deposited property is not carried out at an inappropriate time.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51359,
+    "source_ar": "إذا كان الإيداع بأجر فليس للمودع لديه رد الوديعة قبل حلول الأجل، وللمودع استردادها في أي وقت إذا دفع الأجر المتفق عليه كاملًا ولم يوجد شرط يحول دون ذلك.",
+    "target_en": "If the deposit is for a fee, the depositor may not return the deposited property prior to the expiration of the term of the deposit. The depositor, however, may recover the deposited property at any time if he pays the agreed-upon fee in full and no condition preventing such recovery exists.",
+    "source_ar_norm": "اذا كان الايداع باجر فليس للمودع لديه رد الوديعة قبل حلول الاجل، وللمودع استردادها في اي وقت اذا دفع الاجر المتفق عليه كاملا ولم يوجد شرط يحول دون ذلك.",
+    "target_en_norm": "if the deposit is for a fee, the depositor may not return the deposited property prior to the expiration of the term of the deposit. the depositor, however, may recover the deposited property at any time if he pays the agreed-upon fee in full and no condition preventing such recovery exists.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51360,
+    "source_ar": "المادة السادسة عشرة بعد الخمسمائة",
+    "target_en": "Article 516",
+    "source_ar_norm": "المادة السادسة عشرة بعد الخمسمائة",
+    "target_en_norm": "article 516",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51361,
+    "source_ar": "ينتهي عقد الإيداع بانقضاء الأجل المتفق عليه، أو برد الوديععة رضاءً أو قضاءً، أو بموت المودع لديه؛ ما لم يُتفق على خلاف ذلك.",
+    "target_en": "A deposit contract shall, unless the parties agree otherwise, terminate upon the expiration of the agreed-upon term; the return of the deposited property, whether by mutual consent or pursuant to a court decision; or the depositary’s death.",
+    "source_ar_norm": "ينتهي عقد الايداع بانقضاء الاجل المتفق عليه، او برد الوديععة رضاء او قضاء، او بموت المودع لديه؛ ما لم يتفق علي خلاف ذلك.",
+    "target_en_norm": "a deposit contract shall, unless the parties agree otherwise, terminate upon the expiration of the agreed-upon term; the return of the deposited property, whether by mutual consent or pursuant to a court decision; or the depositary’s death.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51362,
+    "source_ar": "الفصل الخامس: عقد الحراسة",
+    "target_en": "Section 5: Receivership Contract",
+    "source_ar_norm": "الفصل الخامس: عقد الحراسة",
+    "target_en_norm": "section 5: receivership contract",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51363,
+    "source_ar": "المادة السابعة عشرة بعد الخمسمائة",
+    "target_en": "Article 517",
+    "source_ar_norm": "المادة السابعة عشرة بعد الخمسمائة",
+    "target_en_norm": "article 517",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51364,
+    "source_ar": "الحراسة عقدٌ يتولى بمقتضاه الحارس حفظ مالٍ متنازع فيه وإدارته ورده مع غلته إلى من يثبت له الحق فيه.",
+    "target_en": "Receivership is a contract under which a receiver safekeeps and manages disputed property and returns such property along with its yields to its rightful owner.",
+    "source_ar_norm": "الحراسة عقد يتولي بمقتضاه الحارس حفظ مال متنازع فيه وادارته ورده مع غلته الي من يثبت له الحق فيه.",
+    "target_en_norm": "receivership is a contract under which a receiver safekeeps and manages disputed property and returns such property along with its yields to its rightful owner.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51365,
+    "source_ar": "المادة الثامنة عشرة بعد الخمسمائة",
+    "target_en": "Article 518",
+    "source_ar_norm": "المادة الثامنة عشرة بعد الخمسمائة",
+    "target_en_norm": "article 518",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51366,
+    "source_ar": "يعين الحارس باتفاق ذوي الشأن على تعيينه، فإن لم يتفقوا فللمحكمة تعيينه إذا رأت أن في بقاء المال في يد حائزه خطرًا عاجلًا.",
+    "target_en": "A receiver shall be appointed by agreement of the concerned parties. If no agreement is made, the court may appoint a receiver if it believes that leaving the property in the possession of its holder poses imminent risk.",
+    "source_ar_norm": "يعين الحارس باتفاق ذوي الشان علي تعيينه، فان لم يتفقوا فللمحكمة تعيينه اذا رات ان في بقاء المال في يد حائزه خطرا عاجلا.",
+    "target_en_norm": "a receiver shall be appointed by agreement of the concerned parties. if no agreement is made, the court may appoint a receiver if it believes that leaving the property in the possession of its holder poses imminent risk.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51367,
+    "source_ar": "المادة التاسعة عشرة بعد الخمسمائة",
+    "target_en": "Article 519",
+    "source_ar_norm": "المادة التاسعة عشرة بعد الخمسمائة",
+    "target_en_norm": "article 519",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51368,
+    "source_ar": "إذا اتفق ذوو الشأن على تسليم المال لحارسين أو أكثر فلا يجوز لأحدهم الانفراد بحفظ المال أو إدارته أو التصرف في الغلة دون إذن الباقين.",
+    "target_en": "If the concerned parties agree to place the property under the receivership of two or more receivers, neither receiver may separately safekeep or manage the property, nor dispose of its yields without obtaining authorization from the other receivers.",
+    "source_ar_norm": "اذا اتفق ذوو الشان علي تسليم المال لحارسين او اكثر فلا يجوز لاحدهم الانفراد بحفظ المال او ادارته او التصرف في الغلة دون اذن الباقين.",
+    "target_en_norm": "if the concerned parties agree to place the property under the receivership of two or more receivers, neither receiver may separately safekeep or manage the property, nor dispose of its yields without obtaining authorization from the other receivers.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51369,
+    "source_ar": "المادة العشرون بعد الخمسمائة",
+    "target_en": "Article 520",
+    "source_ar_norm": "المادة العشرون بعد الخمسمائة",
+    "target_en_norm": "article 520",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51370,
+    "source_ar": "يحدد عقد الحراسة أو الحكم الصادر بها التزامات الحارس وحقوقه، وإلا فتطبق في ذلك الأحكام المنصوص عليها في هذا الفصل وأحكام الوديعة والوكالة بحسب الأحوال بالقدر الذي لا يتعارض مع طبيعة الحراسة.",
+    "target_en": "A receivership contract or a receivership judgment shall determine the receiver’s rights and obligations; in the absence of such determination, the provisions stipulated in this Section and the provisions governing deposit and power of attorney contracts, as the case may be, shall be applied in a manner not inconsistent with the nature of the receivership.",
+    "source_ar_norm": "يحدد عقد الحراسة او الحكم الصادر بها التزامات الحارس وحقوقه، والا فتطبق في ذلك الاحكام المنصوص عليها في هذا الفصل واحكام الوديعة والوكالة بحسب الاحوال بالقدر الذي لا يتعارض مع طبيعة الحراسة.",
+    "target_en_norm": "a receivership contract or a receivership judgment shall determine the receiver’s rights and obligations; in the absence of such determination, the provisions stipulated in this section and the provisions governing deposit and power of attorney contracts, as the case may be, shall be applied in a manner not inconsistent with the nature of the receivership.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51371,
+    "source_ar": "المادة الحادية والعشرون بعد الخمسمائة",
+    "target_en": "Article 521",
+    "source_ar_norm": "المادة الحادية والعشرون بعد الخمسمائة",
+    "target_en_norm": "article 521",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51372,
+    "source_ar": "يلتزم الحارس بأن يبذل في حفظ الأموال المعهودة إليه حراستها وفي إدارتها عناية الشخص المعتاد.",
+    "target_en": "A receiver shall exercise reasonable care in safekeeping and managing the property under his receivership.",
+    "source_ar_norm": "يلتزم الحارس بان يبذل في حفظ الاموال المعهودة اليه حراستها وفي ادارتها عناية الشخص المعتاد.",
+    "target_en_norm": "a receiver shall exercise reasonable care in safekeeping and managing the property under his receivership.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51373,
+    "source_ar": "المادة الثانية والعشرون بعد الخمسمائة",
+    "target_en": "Article 522",
+    "source_ar_norm": "المادة الثانية والعشرون بعد الخمسمائة",
+    "target_en_norm": "article 522",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51374,
+    "source_ar": "لا يجوز للحارس في غير أعمال الحفظ والإدارة أن يتصرف في الأموال المعهودة إليه حراستها إلا برضى ذوي الشأن، أو بإذن من المحكمة أو دون إذنها في حال الاستعجال.",
+    "target_en": "A receiver may not, for other than safekeeping and management acts, dispose of any property under his receivership without the consent of the concerned parties or the permission of the court; court permission shall not be required in exigent circumstances.",
+    "source_ar_norm": "لا يجوز للحارس في غير اعمال الحفظ والادارة ان يتصرف في الاموال المعهودة اليه حراستها الا برضي ذوي الشان، او باذن من المحكمة او دون اذنها في حال الاستعجال.",
+    "target_en_norm": "a receiver may not, for other than safekeeping and management acts, dispose of any property under his receivership without the consent of the concerned parties or the permission of the court; court permission shall not be required in exigent circumstances.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51375,
+    "source_ar": "المادة الثالثة والعشرون بعد الخمسمائة",
+    "target_en": "Article 523",
+    "source_ar_norm": "المادة الثالثة والعشرون بعد الخمسمائة",
+    "target_en_norm": "article 523",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51376,
+    "source_ar": "يلتزم الحارس بأن يقدم لذوي الشأن المعلومات التي تتعلق بتنفيذ مهمته، وأن يقدم حسابًا عنها في المواعيد وبالطريقة التي يتفق عليها الطرفان أو تأمر بها المحكمة.",
+    "target_en": "A receiver shall update the concerned parties with information relating to the performance of his task, and shall provide them with an account thereof on the dates and in the manner agreed upon by the parties or as ordered by the court.",
+    "source_ar_norm": "يلتزم الحارس بان يقدم لذوي الشان المعلومات التي تتعلق بتنفيذ مهمته، وان يقدم حسابا عنها في المواعيد وبالطريقة التي يتفق عليها الطرفان او تامر بها المحكمة.",
+    "target_en_norm": "a receiver shall update the concerned parties with information relating to the performance of his task, and shall provide them with an account thereof on the dates and in the manner agreed upon by the parties or as ordered by the court.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51377,
+    "source_ar": "المادة الرابعة والعشرون بعد الخمسمائة",
+    "target_en": "Article 524",
+    "source_ar_norm": "المادة الرابعة والعشرون بعد الخمسمائة",
+    "target_en_norm": "article 524",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51378,
+    "source_ar": "للحارس أن يسترد المبالغ التي أنفقها في أداء عمله بالقدر المتعارف عليه.",
+    "target_en": "A receiver may recover any expenses he incurs in the performance of his task to the extent accepted by custom.",
+    "source_ar_norm": "للحارس ان يسترد المبالغ التي انفقها في اداء عمله بالقدر المتعارف عليه.",
+    "target_en_norm": "a receiver may recover any expenses he incurs in the performance of his task to the extent accepted by custom.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51379,
+    "source_ar": "المادة الخامسة والعشرون بعد الخمسمائة",
+    "target_en": "Article 525",
+    "source_ar_norm": "المادة الخامسة والعشرون بعد الخمسمائة",
+    "target_en_norm": "article 525",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51380,
+    "source_ar": "يستحق الحارس الأجر المتفق عليه بأداء العمل فإن لم يُتفق على دفع أجرٍ كان له أجر المثل.",
+    "target_en": "A receiver shall be entitled to the agreed-upon fee upon completion of the task. If no fee is agreed upon, he shall be entitled to the prevailing market fee for such task.",
+    "source_ar_norm": "يستحق الحارس الاجر المتفق عليه باداء العمل فان لم يتفق علي دفع اجر كان له اجر المثل.",
+    "target_en_norm": "a receiver shall be entitled to the agreed-upon fee upon completion of the task. if no fee is agreed upon, he shall be entitled to the prevailing market fee for such task.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51381,
+    "source_ar": "المادة السادسة والعشرون بعد الخمسمائة",
+    "target_en": "Article 526",
+    "source_ar_norm": "المادة السادسة والعشرون بعد الخمسمائة",
+    "target_en_norm": "article 526",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51382,
+    "source_ar": "إذا كان الحارس متبرعًا فله أن يتخلى عن مهمته متى أراد، على أن يبلغ ذوي الشأن وأن يتابع القيام بالأعمال التي بدأها حتى يبلغ مرحلة لا يُلحق التخلي عنها ضررًا بذوي الشأن، وإلا لزمه التعويض.",
+    "target_en": "If receivership is gratuitous, a receiver may withdraw therefrom at any time, provided that he notifies the concerned parties of such withdrawal and continues to perform his tasks until he becomes certain that the withdrawal would not cause harm to the concerned parties; otherwise, he shall be liable for compensation.",
+    "source_ar_norm": "اذا كان الحارس متبرعا فله ان يتخلي عن مهمته متي اراد، علي ان يبلغ ذوي الشان وان يتابع القيام بالاعمال التي بداها حتي يبلغ مرحلة لا يلحق التخلي عنها ضررا بذوي الشان، والا لزمه التعويض.",
+    "target_en_norm": "if receivership is gratuitous, a receiver may withdraw therefrom at any time, provided that he notifies the concerned parties of such withdrawal and continues to perform his tasks until he becomes certain that the withdrawal would not cause harm to the concerned parties; otherwise, he shall be liable for compensation.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51383,
+    "source_ar": "إذا كان الحارس يعمل بأجر فإنه يلتزم بالتعويض عن أي ضرر ينشأ عن تخليه عن الحراسة في وقتٍ غير مناسب أو بغير مسوغ مقبول، ولو كان تخليه عن عمل لم يشرع فيه.",
+    "target_en": "If receivership is for a fee and the receiver withdraws therefrom, the receiver shall be liable for compensation for any harm sustained due to his withdrawal if such withdrawal was made at an inappropriate time or without an acceptable justification, even if it was made prior to commencing a task.",
+    "source_ar_norm": "اذا كان الحارس يعمل باجر فانه يلتزم بالتعويض عن اي ضرر ينشا عن تخليه عن الحراسة في وقت غير مناسب او بغير مسوغ مقبول، ولو كان تخليه عن عمل لم يشرع فيه.",
+    "target_en_norm": "if receivership is for a fee and the receiver withdraws therefrom, the receiver shall be liable for compensation for any harm sustained due to his withdrawal if such withdrawal was made at an inappropriate time or without an acceptable justification, even if it was made prior to commencing a task.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51384,
+    "source_ar": "المادة السابعة والعشرون بعد الخمسمائة",
+    "target_en": "Article 527",
+    "source_ar_norm": "المادة السابعة والعشرون بعد الخمسمائة",
+    "target_en_norm": "article 527",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51385,
+    "source_ar": "تنتهي الحراسة باتفاق ذوي الشأن، أو بحكم المحكمة، أو بانتهاء مدتها إن كانت محددة المدة.",
+    "target_en": "Receivership shall terminate pursuant to an agreement by the concerned parties or a court order or upon the expiration of its term, if specified.",
+    "source_ar_norm": "تنتهي الحراسة باتفاق ذوي الشان، او بحكم المحكمة، او بانتهاء مدتها ان كانت محددة المدة.",
+    "target_en_norm": "receivership shall terminate pursuant to an agreement by the concerned parties or a court order or upon the expiration of its term, if specified.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51386,
+    "source_ar": "على الحارس عند انتهاء الحراسة أن يرد المال مع غلته إلى من يتفق عليه ذوو الشأن أو من تعينه المحكمة.",
+    "target_en": "The receiver shall, upon termination of the receivership, deliver the property, along with its yields, to the person agreed upon by the concerned parties or the person appointed by the court.",
+    "source_ar_norm": "علي الحارس عند انتهاء الحراسة ان يرد المال مع غلته الي من يتفق عليه ذوو الشان او من تعينه المحكمة.",
+    "target_en_norm": "the receiver shall, upon termination of the receivership, deliver the property, along with its yields, to the person agreed upon by the concerned parties or the person appointed by the court.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51387,
+    "source_ar": "الباب الرابع: عقود المشاركة",
+    "target_en": "Chapter 4: Partnership Contracts",
+    "source_ar_norm": "الباب الرابع: عقود المشاركة",
+    "target_en_norm": "chapter 4: partnership contracts",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51388,
+    "source_ar": "المادة الثامنة والعشرون بعد الخمسمائة",
+    "target_en": "Article 528",
+    "source_ar_norm": "المادة الثامنة والعشرون بعد الخمسمائة",
+    "target_en_norm": "article 528",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51389,
+    "source_ar": "يجب أن تكون عقود المشاركة الواردة في هذا الباب مكتوبة، وإلا كانت باطلة، ولا يجوز أن يحتج المتعاقد بالبطلان تجاه الغير، ولا يكون للبطلان أثر فيما بين المتعاقدين أنفسهم إلا إذا طلب أحدهم الحكم به، فيسري ذلك من تاريخ قيد الدعوى.",
+    "target_en": "Partnership contracts provided for in this Chapter shall be made in writing; otherwise, they shall be deemed null and void. A contracting party may not invoke nullity of the contract against a third party; nullity shall have no effect on the contracting parties, unless one of the parties petitions the court for nullity of the partnership contract. In such case, the contract shall be deemed null and void from the date of filing the lawsuit.",
+    "source_ar_norm": "يجب ان تكون عقود المشاركة الواردة في هذا الباب مكتوبة، والا كانت باطلة، ولا يجوز ان يحتج المتعاقد بالبطلان تجاه الغير، ولا يكون للبطلان اثر فيما بين المتعاقدين انفسهم الا اذا طلب احدهم الحكم به، فيسري ذلك من تاريخ قيد الدعوي.",
+    "target_en_norm": "partnership contracts provided for in this chapter shall be made in writing; otherwise, they shall be deemed null and void. a contracting party may not invoke nullity of the contract against a third party; nullity shall have no effect on the contracting parties, unless one of the parties petitions the court for nullity of the partnership contract. in such case, the contract shall be deemed null and void from the date of filing the lawsuit.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51390,
+    "source_ar": "يسري حكم الفقرة (1) من هذه المادة على أي تعديل يطرأ على عقود المشاركة الواردة في هذا الباب.",
+    "target_en": "The provision of paragraph (1) of this Article shall apply to any amendment to the partnership contracts provided for in this Chapter.",
+    "source_ar_norm": "يسري حكم الفقرة (1) من هذه المادة علي اي تعديل يطرا علي عقود المشاركة الواردة في هذا الباب.",
+    "target_en_norm": "the provision of paragraph (1) of this article shall apply to any amendment to the partnership contracts provided for in this chapter.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51391,
+    "source_ar": "الفصل الأول: عقد الشركة الفرع الأول: إنشاء عقد الشركة",
+    "target_en": "Section 1: Company Contract Subsection 1: Establishing a Company Contract",
+    "source_ar_norm": "الفصل الاول: عقد الشركة الفرع الاول: انشاء عقد الشركة",
+    "target_en_norm": "section 1: company contract subsection 1: establishing a company contract",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51392,
+    "source_ar": "المادة التاسعة والعشرون بعد الخمسمائة",
+    "target_en": "Article 529",
+    "source_ar_norm": "المادة التاسعة والعشرون بعد الخمسمائة",
+    "target_en_norm": "article 529",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51393,
+    "source_ar": "الشركة عقد يسهم بمقتضاه شريكان أو أكثر بتقديم حصة من مال أو عمل أو منهما معًا في مشروع لاقتسام ما ينشأ عنه من ربح أو خسارة.",
+    "target_en": "Company is a contract under which two or more partners participate in an enterprise by contributing property or work, or both, to share any profit realized or loss incurred from such enterprise.",
+    "source_ar_norm": "الشركة عقد يسهم بمقتضاه شريكان او اكثر بتقديم حصة من مال او عمل او منهما معا في مشروع لاقتسام ما ينشا عنه من ربح او خسارة.",
+    "target_en_norm": "company is a contract under which two or more partners participate in an enterprise by contributing property or work, or both, to share any profit realized or loss incurred from such enterprise.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51394,
+    "source_ar": "لا تسري أحكام هذا الفصل على الشركات المقررة أحكامها في نصوص نظامية خاصة.",
+    "target_en": "The provisions of this Section shall not apply to companies subject to specific legal provisions.",
+    "source_ar_norm": "لا تسري احكام هذا الفصل علي الشركات المقررة احكامها في نصوص نظامية خاصة.",
+    "target_en_norm": "the provisions of this section shall not apply to companies subject to specific legal provisions.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51395,
+    "source_ar": "المادة الثلاثون بعد الخمسمائة",
+    "target_en": "Article 530",
+    "source_ar_norm": "المادة الثلاثون بعد الخمسمائة",
+    "target_en_norm": "article 530",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51396,
+    "source_ar": "لا يصح أن تكون الحصة أو بعضها ما للشريك من نفوذ أو سمعة أو ثقة مالية.",
+    "target_en": "The contribution of a partner, or part thereof, may not be in the form of influence, reputation, or creditworthiness.",
+    "source_ar_norm": "لا يصح ان تكون الحصة او بعضها ما للشريك من نفوذ او سمعة او ثقة مالية.",
+    "target_en_norm": "the contribution of a partner, or part thereof, may not be in the form of influence, reputation, or creditworthiness.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51397,
+    "source_ar": "إذا كانت حصة الشريك غير نقدية، قُدرت الحصة بقيمتها عند التعاقد أو بما يتفق عليه الشركاء من أسس صالحة لتقديرها.",
+    "target_en": "If a partner’s contribution is not in the form of cash, the value of his contribution shall be determined based on its value at the time of concluding the contract or on the basis of valid assessment criteria agreed upon by the partners.",
+    "source_ar_norm": "اذا كانت حصة الشريك غير نقدية، قدرت الحصة بقيمتها عند التعاقد او بما يتفق عليه الشركاء من اسس صالحة لتقديرها.",
+    "target_en_norm": "if a partner’s contribution is not in the form of cash, the value of his contribution shall be determined based on its value at the time of concluding the contract or on the basis of valid assessment criteria agreed upon by the partners.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51398,
+    "source_ar": "إذا كانت حصة الشريك دينًا لدى الغير، لم ينقض التزام الشريك بتقديم الحصة إلا بعد تحصيله الدين وتسليمه للشركاء.",
+    "target_en": "If a partner's contribution is in the form of a debt owed by a third party, the partner’s obligation to provide such contribution may not be extinguished, unless such debt is collected and delivered to the partners.",
+    "source_ar_norm": "اذا كانت حصة الشريك دينا لدي الغير، لم ينقض التزام الشريك بتقديم الحصة الا بعد تحصيله الدين وتسليمه للشركاء.",
+    "target_en_norm": "if a partner's contribution is in the form of a debt owed by a third party, the partner’s obligation to provide such contribution may not be extinguished, unless such debt is collected and delivered to the partners.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51399,
+    "source_ar": "المادة الحادية والثلاثون بعد الخمسمائة",
+    "target_en": "Article 531",
+    "source_ar_norm": "المادة الحادية والثلاثون بعد الخمسمائة",
+    "target_en_norm": "article 531",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 51400,
+    "source_ar": "يصح أن تقوم الشركة على أساس تضامن الشركاء فيما يلتزمون به في ذممهم من مال أو عملٍ لمصلحة الشركة، وتكون حصة كل منهم في رأس مال الشركة بقدر ما التزم به في ذمته؛ ما لم يتفق على خلاف ذلك.",
+    "target_en": "A company may be established between the partners on the basis of joint and several liability with regard to the property or work they are obligated to contribute for the company’s benefit; the contribution of each partner to the company’s capital shall be in proportion to the liability borne thereby, unless agreed otherwise.",
+    "source_ar_norm": "يصح ان تقوم الشركة علي اساس تضامن الشركاء فيما يلتزمون به في ذممهم من مال او عمل لمصلحة الشركة، وتكون حصة كل منهم في راس مال الشركة بقدر ما التزم به في ذمته؛ ما لم يتفق علي خلاف ذلك.",
+    "target_en_norm": "a company may be established between the partners on the basis of joint and several liability with regard to the property or work they are obligated to contribute for the company’s benefit; the contribution of each partner to the company’s capital shall be in proportion to the liability borne thereby, unless agreed otherwise.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  }
+]

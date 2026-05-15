@@ -1,0 +1,802 @@
+[
+  {
+    "id": 55001,
+    "source_ar": "2 - اقتراح الخطط والبرامج اللازمة لتنفيذ الأهداف التي أنشئت الهيئة من أجل تحقيقها، وعرضها على مجلس الإدارة لاعتمادها.",
+    "target_en": "2. Proposing plans and programs necessary to achieve the SFDA’s objectives and submitting them to the Board for approval.",
+    "source_ar_norm": "2 - اقتراح الخطط والبرامج اللازمة لتنفيذ الاهداف التي انشئت الهيئة من اجل تحقيقها، وعرضها علي مجلس الادارة لاعتمادها.",
+    "target_en_norm": "2. proposing plans and programs necessary to achieve the sfda’s objectives and submitting them to the board for approval.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55002,
+    "source_ar": "3 - شغل وظائف الهيئة، وإقرار إعارة من يستعان بهم أو ندبهم، وتطبيق كل ما تقضي به الأنظمة واللوائح في شأنهم.",
+    "target_en": "3. Filling vacancies at the SFDA and approving secondment of employees, in accordance with laws and regulations.",
+    "source_ar_norm": "3 - شغل وظائف الهيئة، واقرار اعارة من يستعان بهم او ندبهم، وتطبيق كل ما تقضي به الانظمة واللوائح في شانهم.",
+    "target_en_norm": "3. filling vacancies at the sfda and approving secondment of employees, in accordance with laws and regulations.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55003,
+    "source_ar": "4 - إعداد مشروع الميزانية السنوية للهيئة، ورفعه إلى مجلس الإدارة لإقراره.",
+    "target_en": "4. Preparing the SFDA’s draft annual budget and submitting it to the Board for approval.",
+    "source_ar_norm": "4 - اعداد مشروع الميزانية السنوية للهيئة، ورفعه الي مجلس الادارة لاقراره.",
+    "target_en_norm": "4. preparing the sfda’s draft annual budget and submitting it to the board for approval.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55004,
+    "source_ar": "5 - تمثيل الهيئة لدى الجهات الحكومية والمؤسسات والهيئات الأخرى ذات العلاقة داخل المملكة وخارجها، وله الحق في توكيل غيره.",
+    "target_en": "5. Representing the SFDA before government agencies, institutions, and other relevant organizations within the Kingdom and abroad; he may delegate such power.",
+    "source_ar_norm": "5 - تمثيل الهيئة لدي الجهات الحكومية والمؤسسات والهيئات الاخري ذات العلاقة داخل المملكة وخارجها، وله الحق في توكيل غيره.",
+    "target_en_norm": "5. representing the sfda before government agencies, institutions, and other relevant organizations within the kingdom and abroad; he may delegate such power.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55005,
+    "source_ar": "6 - تنفيذ البرامج وجميع نشاطات الهيئة في حدود الميزانية السنوية للهيئة.",
+    "target_en": "6. Executing the SFDA’s programs and activities within the SFDA’s annual budget.",
+    "source_ar_norm": "6 - تنفيذ البرامج وجميع نشاطات الهيئة في حدود الميزانية السنوية للهيئة.",
+    "target_en_norm": "6. executing the sfda’s programs and activities within the sfda’s annual budget.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55006,
+    "source_ar": "7 - إعداد مشاريع اللوائح اللازمة لتسيير العمل في الهيئة، ورفعها إلى مجلس الإدارة لإقرارها.",
+    "target_en": "7. Drafting regulations necessary for the SFDA’s activities and submitting them to the Board for approval.",
+    "source_ar_norm": "7 - اعداد مشاريع اللوائح اللازمة لتسيير العمل في الهيئة، ورفعها الي مجلس الادارة لاقرارها.",
+    "target_en_norm": "7. drafting regulations necessary for the sfda’s activities and submitting them to the board for approval.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55007,
+    "source_ar": "8 - الصرف من الميزانية المعتمدة، واتخاذ جميع الإجراءات المالية وفق الأنظمة واللوائح المقررة.",
+    "target_en": "8. Disbursing from the approved budget and conducting financial transactions in accordance with applicable laws and regulations.",
+    "source_ar_norm": "8 - الصرف من الميزانية المعتمدة، واتخاذ جميع الاجراءات المالية وفق الانظمة واللوائح المقررة.",
+    "target_en_norm": "8. disbursing from the approved budget and conducting financial transactions in accordance with applicable laws and regulations.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55008,
+    "source_ar": "9 - الإشراف على سير العمل في الهيئة من خلال اللوائح المعتمدة.",
+    "target_en": "9. Supervising the SFDA’s activities in accordance with approved regulations.",
+    "source_ar_norm": "9 - الاشراف علي سير العمل في الهيئة من خلال اللوائح المعتمدة.",
+    "target_en_norm": "9. supervising the sfda’s activities in accordance with approved regulations.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55009,
+    "source_ar": "10 - إعداد التقرير السنوي والتقارير الخاصة بتنفيذ خطط الهيئة وبرامجها، وعرضها على مجلس الإدارة.",
+    "target_en": "10. Drafting the annual report and the reports relating to the implementation of the SFDA’s plans and programs and submitting them to the Board.",
+    "source_ar_norm": "10 - اعداد التقرير السنوي والتقارير الخاصة بتنفيذ خطط الهيئة وبرامجها، وعرضها علي مجلس الادارة.",
+    "target_en_norm": "10. drafting the annual report and the reports relating to the implementation of the sfda’s plans and programs and submitting them to the board.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55010,
+    "source_ar": "11 - إقرار ابتعاث موظفي الهيئة للتدريب، وابتعاث الموظفين للدراسة، في الداخل والخارج، وفقًا للقواعد المنظمة لذلك.",
+    "target_en": "11. Approving the scholarships of SFDA employees for training and study within the Kingdom and abroad in accordance with relevant rules.",
+    "source_ar_norm": "11 - اقرار ابتعاث موظفي الهيئة للتدريب، وابتعاث الموظفين للدراسة، في الداخل والخارج، وفقا للقواعد المنظمة لذلك.",
+    "target_en_norm": "11. approving the scholarships of sfda employees for training and study within the kingdom and abroad in accordance with relevant rules.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55011,
+    "source_ar": "12 - الموافقة على مشاركة موظفي الهيئة ومنسوبيها في المؤتمرات، والندوات العلمية، والبرامج، والحلقات، والدورات التدريبية، والزيارات، ذات العلاقة بأهداف الهيئة واختصاصاتها، في الداخل والخارج، وفقًا للأنظمة واللوائح.",
+    "target_en": "12. Approving participation of SFDA employees in conferences, symposia, programs, seminars, training courses, visits relating to the SFDA’s objectives and activities, within the Kingdom and abroad and in accordance with applicable laws and regulations.",
+    "source_ar_norm": "12 - الموافقة علي مشاركة موظفي الهيئة ومنسوبيها في المؤتمرات، والندوات العلمية، والبرامج، والحلقات، والدورات التدريبية، والزيارات، ذات العلاقة باهداف الهيئة واختصاصاتها، في الداخل والخارج، وفقا للانظمة واللوائح.",
+    "target_en_norm": "12. approving participation of sfda employees in conferences, symposia, programs, seminars, training courses, visits relating to the sfda’s objectives and activities, within the kingdom and abroad and in accordance with applicable laws and regulations.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55012,
+    "source_ar": "13 - الموافقة على عقد الهيئة المؤتمرات، والندوات، واللقاءات العلمية، المتعلقة بعملها.",
+    "target_en": "13. Approving the organization of relevant conferences, symposia, and scientific meetings by the SFDA.",
+    "source_ar_norm": "13 - الموافقة علي عقد الهيئة المؤتمرات، والندوات، واللقاءات العلمية، المتعلقة بعملها.",
+    "target_en_norm": "13. approving the organization of relevant conferences, symposia, and scientific meetings by the sfda.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55013,
+    "source_ar": "14 - ما يسنده إليه مجلس الإدارة من صلاحيات أخرى.",
+    "target_en": "14. Any other powers granted to him by the Board.",
+    "source_ar_norm": "14 - ما يسنده اليه مجلس الادارة من صلاحيات اخري.",
+    "target_en_norm": "14. any other powers granted to him by the board.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55014,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article 13",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55015,
+    "source_ar": "يكون للهيئة مجلس تنفيذي، يحدد صلاحياته واختصاصاته وعدد أعضائه مجلس الإدارة.",
+    "target_en": "The SFDA shall have an executive council whose powers, jurisdiction, and number of members shall be determined by the Board.",
+    "source_ar_norm": "يكون للهيئة مجلس تنفيذي، يحدد صلاحياته واختصاصاته وعدد اعضائه مجلس الادارة.",
+    "target_en_norm": "the sfda shall have an executive council whose powers, jurisdiction, and number of members shall be determined by the board.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55016,
+    "source_ar": "المادة الرابعة عشرة:",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة:",
+    "target_en_norm": "article 14",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55017,
+    "source_ar": "تدار الهيئة وفق أسلوب مالي وإداري خاص، يعتمده مجلس الإدارة بناء على اقتراح الرئيس التنفيذي، يمكنها من العمل بمرونة مالية وإدارية تتلاءم مع الأهداف والمهمات التي أنشئت من أجل تحقيقها.",
+    "target_en": "The SFDA shall operate according to the financial and administrative approach approved by the Board upon a recommendation by the Executive Director. Such approach shall enable the SFDA to work with the financial and administrative flexibility appropriate for achieving its objectives and carrying out its duties.",
+    "source_ar_norm": "تدار الهيئة وفق اسلوب مالي واداري خاص، يعتمده مجلس الادارة بناء علي اقتراح الرئيس التنفيذي، يمكنها من العمل بمرونة مالية وادارية تتلاءم مع الاهداف والمهمات التي انشئت من اجل تحقيقها.",
+    "target_en_norm": "the sfda shall operate according to the financial and administrative approach approved by the board upon a recommendation by the executive director. such approach shall enable the sfda to work with the financial and administrative flexibility appropriate for achieving its objectives and carrying out its duties.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55018,
+    "source_ar": "المادة الخامسة عشرة:",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة:",
+    "target_en_norm": "article 15",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55019,
+    "source_ar": "تكون للهيئة ميزانية سنوية مستقلة، تعد وتصدر وفقًا لترتيبات إصدار الميزانية العامة للدولة، وتبدأ السنة المالية للهيئة وتنتهي مع السنة المالية للدولة.",
+    "target_en": "The SFDA shall have an independent annual budget to be prepared and issued in accordance with the State budget issuance arrangements; the SFDA’s fiscal year shall be the same as the State’s fiscal year.",
+    "source_ar_norm": "تكون للهيئة ميزانية سنوية مستقلة، تعد وتصدر وفقا لترتيبات اصدار الميزانية العامة للدولة، وتبدا السنة المالية للهيئة وتنتهي مع السنة المالية للدولة.",
+    "target_en_norm": "the sfda shall have an independent annual budget to be prepared and issued in accordance with the state budget issuance arrangements; the sfda’s fiscal year shall be the same as the state’s fiscal year.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55020,
+    "source_ar": "المادة السادسة عشرة:",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة:",
+    "target_en_norm": "article 16",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55021,
+    "source_ar": "تتكون موارد الهيئة المالية من الآتي:",
+    "target_en": "The SFDA’s financial resources shall be as follows:",
+    "source_ar_norm": "تتكون موارد الهيئة المالية من الاتي:",
+    "target_en_norm": "the sfda’s financial resources shall be as follows:",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55022,
+    "source_ar": "1 - ما يخصص لها في الميزانية العامة للدولة.",
+    "target_en": "1. Allocations in the State budget.",
+    "source_ar_norm": "1 - ما يخصص لها في الميزانية العامة للدولة.",
+    "target_en_norm": "1. allocations in the state budget.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55023,
+    "source_ar": "2 - المقابل المالي الذي يجري تحصيله مقابل التسجيل، والتراخيص، وإصدار المطبوعات، والفسوحات المخول للهيئة إصدارها وفقًا لهذا النظام.",
+    "target_en": "2. Fees collected for registration, licenses, publications, and permits which the SFDA is authorized to issue in accordance with this Law.",
+    "source_ar_norm": "2 - المقابل المالي الذي يجري تحصيله مقابل التسجيل، والتراخيص، واصدار المطبوعات، والفسوحات المخول للهيئة اصدارها وفقا لهذا النظام.",
+    "target_en_norm": "2. fees collected for registration, licenses, publications, and permits which the sfda is authorized to issue in accordance with this law.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55024,
+    "source_ar": "3 - الغرامات المالية التي تفرض على المخالفين، تنفيذًا لأنظمة الهيئة.",
+    "target_en": "3. Fines imposed on violators in accordance with the SFDA’s laws.",
+    "source_ar_norm": "3 - الغرامات المالية التي تفرض علي المخالفين، تنفيذا لانظمة الهيئة.",
+    "target_en_norm": "3. fines imposed on violators in accordance with the sfda’s laws.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55025,
+    "source_ar": "4 - الإيرادات، التي تحصل عليها عن الخدمات التي تقدمها للمستفيدين منها.",
+    "target_en": "4. Revenues collected for services rendered thereby.",
+    "source_ar_norm": "4 - الايرادات، التي تحصل عليها عن الخدمات التي تقدمها للمستفيدين منها.",
+    "target_en_norm": "4. revenues collected for services rendered thereby.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55026,
+    "source_ar": "5 - التبرعات، والهبات، والمساعدات، والوصايا، والأوقاف، التي تقدم للهيئة.",
+    "target_en": "5. Donations, gifts, aid, bequests, and endowments provided thereto.",
+    "source_ar_norm": "5 - التبرعات، والهبات، والمساعدات، والوصايا، والاوقاف، التي تقدم للهيئة.",
+    "target_en_norm": "5. donations, gifts, aid, bequests, and endowments provided thereto.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55027,
+    "source_ar": "6 - أي مورد آخر يقره مجلس الإدارة، وتودع أموال الهيئة - بما في ذلك إسهام الدولة- في حساب بنكي مستقل داخل المملكة، ويصرف منه وفقًا للائحة المالية للهيئة، وفي حدود ميزانيتها المعتمدة.",
+    "target_en": "6. Any other resource approved by the Board. The SFDA’s funds, including the State’s contributions, shall be deposited in a separate bank account within the Kingdom. Disbursement from such account shall be in accordance with the SFDA’s financial regulations and within its approved budget.",
+    "source_ar_norm": "6 - اي مورد اخر يقره مجلس الادارة، وتودع اموال الهيئة - بما في ذلك اسهام الدولة- في حساب بنكي مستقل داخل المملكة، ويصرف منه وفقا للائحة المالية للهيئة، وفي حدود ميزانيتها المعتمدة.",
+    "target_en_norm": "6. any other resource approved by the board. the sfda’s funds, including the state’s contributions, shall be deposited in a separate bank account within the kingdom. disbursement from such account shall be in accordance with the sfda’s financial regulations and within its approved budget.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55028,
+    "source_ar": "المادة السابعة عشرة:",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة:",
+    "target_en_norm": "article 17",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55029,
+    "source_ar": "مع عدم الإخلال بحق ديوان المراقبة العامة في الرقابة على حسابات الهيئة، يعين مجلس إدارة الهيئة مراجعًا داخليًّا ومراجعًا خارجيًّا (أو أكثر) للحسابات، من الأشخاص ذوي الصفة الطبيعية أو الصفة الاعتبارية المرخص لهم بالعمل في المملكة ويحدد أتعابهم. ويرفع تقرير مراجع الحسابات إلى مجلس الإدارة، ويزود ديوان المراقبة العامة بنسخة منه.",
+    "target_en": "Without prejudice to the jurisdiction of the General Court of Audit to audit the SFDA’s accounts, the Board shall appoint an internal and external auditor, or more, from among natural or legal persons licensed to practice in the Kingdom and shall determine their fees. The auditor’s report shall be submitted to the Board and a copy thereof shall be provided to the General Court of Audit.",
+    "source_ar_norm": "مع عدم الاخلال بحق ديوان المراقبة العامة في الرقابة علي حسابات الهيئة، يعين مجلس ادارة الهيئة مراجعا داخليا ومراجعا خارجيا (او اكثر) للحسابات، من الاشخاص ذوي الصفة الطبيعية او الصفة الاعتبارية المرخص لهم بالعمل في المملكة ويحدد اتعابهم. ويرفع تقرير مراجع الحسابات الي مجلس الادارة، ويزود ديوان المراقبة العامة بنسخة منه.",
+    "target_en_norm": "without prejudice to the jurisdiction of the general court of audit to audit the sfda’s accounts, the board shall appoint an internal and external auditor, or more, from among natural or legal persons licensed to practice in the kingdom and shall determine their fees. the auditor’s report shall be submitted to the board and a copy thereof shall be provided to the general court of audit.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55030,
+    "source_ar": "المادة الثامنة عشرة:",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة:",
+    "target_en_norm": "article 18",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55031,
+    "source_ar": "ترفع الهيئة إلى مجلس الوزراء حسابها الختامي السنوي خلال تسعين يومًا من تاريخ انتهاء السنة المالية، ويزود ديوان المراقبة العامة بنسخة منه.",
+    "target_en": "The SFDA shall, within 90 days from the end of the fiscal year, submit to the Council of Ministers its annual final accounts and shall provide a copy thereof to the General Court of Audit.",
+    "source_ar_norm": "ترفع الهيئة الي مجلس الوزراء حسابها الختامي السنوي خلال تسعين يوما من تاريخ انتهاء السنة المالية، ويزود ديوان المراقبة العامة بنسخة منه.",
+    "target_en_norm": "the sfda shall, within 90 days from the end of the fiscal year, submit to the council of ministers its annual final accounts and shall provide a copy thereof to the general court of audit.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55032,
+    "source_ar": "المادة التاسعة عشرة:",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة:",
+    "target_en_norm": "article 19",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55033,
+    "source_ar": "على الجهات الحكومية وغيرها من الأشخاص ذوي الصفة الاعتبارية تزويد الهيئة بالوثائق والمعلومات التي تطلبها للقيام بواجباتها وفقًا لأحكام هذا النظام.",
+    "target_en": "Government agencies and other legal persons shall provide the SFDA with documents and information it requests to carry out its duties in accordance with this Law.",
+    "source_ar_norm": "علي الجهات الحكومية وغيرها من الاشخاص ذوي الصفة الاعتبارية تزويد الهيئة بالوثائق والمعلومات التي تطلبها للقيام بواجباتها وفقا لاحكام هذا النظام.",
+    "target_en_norm": "government agencies and other legal persons shall provide the sfda with documents and information it requests to carry out its duties in accordance with this law.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55034,
+    "source_ar": "المادة العشرون:",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون:",
+    "target_en_norm": "article 20",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55035,
+    "source_ar": "تنقل إلى الهيئة جميع المهمات التنظيمية والتنفيذية والرقابية وغير ذلك من المسؤوليات الخاصة بسلامة الغذاء والدواء للإنسان والحيوان، وسلامة المستحضرات الحيوية والصحية، والنباتات الطبية، ومستحضرات التجميل، والمبيدات، وسلامة المنتجات الإلكترونية، ودقة معايير الأجهزة الطبية والتشخيصية وسلامتها، وغيرها من الأمور التي تدخل ضمن مهمات الهيئة، التي تضطلع بها الجهات الحكومية الأخرى.",
+    "target_en": "All matters falling within the SFDA’s jurisdiction which are carried out by other government agencies shall be transferred to the SFDA. Such matters shall include all regulatory, executive, and monitoring tasks as well as other matters relating to the safety of food and drugs for humans and animals; the safety of health preparations, biologicals, medicinal plants, cosmetics, pesticides, electronic products; and the safety of medical and diagnostic equipment and the accuracy of their standards.",
+    "source_ar_norm": "تنقل الي الهيئة جميع المهمات التنظيمية والتنفيذية والرقابية وغير ذلك من المسؤوليات الخاصة بسلامة الغذاء والدواء للانسان والحيوان، وسلامة المستحضرات الحيوية والصحية، والنباتات الطبية، ومستحضرات التجميل، والمبيدات، وسلامة المنتجات الالكترونية، ودقة معايير الاجهزة الطبية والتشخيصية وسلامتها، وغيرها من الامور التي تدخل ضمن مهمات الهيئة، التي تضطلع بها الجهات الحكومية الاخري.",
+    "target_en_norm": "all matters falling within the sfda’s jurisdiction which are carried out by other government agencies shall be transferred to the sfda. such matters shall include all regulatory, executive, and monitoring tasks as well as other matters relating to the safety of food and drugs for humans and animals; the safety of health preparations, biologicals, medicinal plants, cosmetics, pesticides, electronic products; and the safety of medical and diagnostic equipment and the accuracy of their standards.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55036,
+    "source_ar": "المادة الحادية والعشرون:",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون:",
+    "target_en_norm": "article 21",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55037,
+    "source_ar": "يحدد مجلس الإدارة مراحل نقل المهمات التنظيمية والتنفيذية والرقابية الواردة في المادة (العشرين) من هذا النظام.",
+    "target_en": "The Board shall determine the stages of transferring the regulatory, executive, and monitoring duties stated in Article 20 of this Law.",
+    "source_ar_norm": "يحدد مجلس الادارة مراحل نقل المهمات التنظيمية والتنفيذية والرقابية الواردة في المادة (العشرين) من هذا النظام.",
+    "target_en_norm": "the board shall determine the stages of transferring the regulatory, executive, and monitoring duties stated in article 20 of this law.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55038,
+    "source_ar": "المادة الثانية والعشرون:",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون:",
+    "target_en_norm": "article 22",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55039,
+    "source_ar": "يجوز للهيئة الاستعانة بجهات حكومية أو خاصة لأداء بعض مهماتها.",
+    "target_en": "The SFDA may seek the assistance of government agencies or private entities to carry out certain duties.",
+    "source_ar_norm": "يجوز للهيئة الاستعانة بجهات حكومية او خاصة لاداء بعض مهماتها.",
+    "target_en_norm": "the sfda may seek the assistance of government agencies or private entities to carry out certain duties.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55040,
+    "source_ar": "المادة الثالثة والعشرون:",
+    "target_en": "Article 23",
+    "source_ar_norm": "المادة الثالثة والعشرون:",
+    "target_en_norm": "article 23",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55041,
+    "source_ar": "يصدر مجلس الإدارة اللائحة التنفيذية لهذا النظام خلال تسعين يومًا من تاريخ صدوره، وتنشر في الجريدة الرسمية، ويعمل بها من تاريخ العمل بالنظام.",
+    "target_en": "The Board shall issue the Implementing Regulations of this Law within 90 days from the date of issuance of this Law. The Implementing Regulations shall be published in the Official Gazette and shall enter into force on the date this Law enters into force.",
+    "source_ar_norm": "يصدر مجلس الادارة اللائحة التنفيذية لهذا النظام خلال تسعين يوما من تاريخ صدوره، وتنشر في الجريدة الرسمية، ويعمل بها من تاريخ العمل بالنظام.",
+    "target_en_norm": "the board shall issue the implementing regulations of this law within 90 days from the date of issuance of this law. the implementing regulations shall be published in the official gazette and shall enter into force on the date this law enters into force.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55042,
+    "source_ar": "المادة الرابعة والعشرون:",
+    "target_en": "Article 24",
+    "source_ar_norm": "المادة الرابعة والعشرون:",
+    "target_en_norm": "article 24",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55043,
+    "source_ar": "يلغي هذا النظام كل ما يتعارض معه من أحكام بما لا يخل باستمرار قيام الجهات القائمة حاليا بتنظيم شؤون الغذاء والدواء بهذه المهمات إلى أن تنقل إلى الهيئة.",
+    "target_en": "This Law shall repeal all provisions conflicting therewith. However, existing authorities in charge of regulating food and drugs shall continue to carry out their duties pending the transfer of said duties to the SFDA.",
+    "source_ar_norm": "يلغي هذا النظام كل ما يتعارض معه من احكام بما لا يخل باستمرار قيام الجهات القائمة حاليا بتنظيم شؤون الغذاء والدواء بهذه المهمات الي ان تنقل الي الهيئة.",
+    "target_en_norm": "this law shall repeal all provisions conflicting therewith. however, existing authorities in charge of regulating food and drugs shall continue to carry out their duties pending the transfer of said duties to the sfda.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55044,
+    "source_ar": "المادة الخامسة والعشرون:",
+    "target_en": "Article 25",
+    "source_ar_norm": "المادة الخامسة والعشرون:",
+    "target_en_norm": "article 25",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55045,
+    "source_ar": "يعمل بهذا النظام بعد تسعين يومًا من تاريخ نشره في الجريدة الرسمية.",
+    "target_en": "This Law shall enter into force 90 days following the date of its publication in the Official Gazette.",
+    "source_ar_norm": "يعمل بهذا النظام بعد تسعين يوما من تاريخ نشره في الجريدة الرسمية.",
+    "target_en_norm": "this law shall enter into force 90 days following the date of its publication in the official gazette.",
+    "file_name": "نظام الهيئة العامة للغذاء والدواء.docx"
+  },
+  {
+    "id": 55046,
+    "source_ar": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم",
+    "target_en": "Law of the General Commission for Guardianship over Property of Minors and those of Similar Status",
+    "source_ar_norm": "نظام الهيئة العامة للولاية علي اموال القاصرين ومن في حكمهم",
+    "target_en_norm": "law of the general commission for guardianship over property of minors and those of similar status",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55047,
+    "source_ar": "المادة الأولى:",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي:",
+    "target_en_norm": "article 1",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55048,
+    "source_ar": "تنشأ بموجب هذا النظام هيئة تسمى الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم ومقرها مدينة الرياض وتكون لها فروع في مناطق ومحافظات المملكة الأخرى ولها شخصية اعتبارية وميزانية مستقلة ويشار إليها بلفظ \"الهيئة\" أينما وردت في نصوص هذا النظام وترتبط برئيس مجلس الوزراء.",
+    "target_en": "Under this Law, a commission named The General Commission for Guardianship over Property of Minors and those of Similar Status, hereinafter referred to as “the Commission”, shall be established. It shall be headquartered in the city of Riyadh and shall have branches in the Kingdom’s provinces and counties. It shall have a legal personality and an independent budget, and shall report to the Prime Minister.",
+    "source_ar_norm": "تنشا بموجب هذا النظام هيئة تسمي الهيئة العامة للولاية علي اموال القاصرين ومن في حكمهم ومقرها مدينة الرياض وتكون لها فروع في مناطق ومحافظات المملكة الاخري ولها شخصية اعتبارية وميزانية مستقلة ويشار اليها بلفظ \"الهيئة\" اينما وردت في نصوص هذا النظام وترتبط برئيس مجلس الوزراء.",
+    "target_en_norm": "under this law, a commission named the general commission for guardianship over property of minors and those of similar status, hereinafter referred to as “the commission”, shall be established. it shall be headquartered in the city of riyadh and shall have branches in the kingdom’s provinces and counties. it shall have a legal personality and an independent budget, and shall report to the prime minister.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55049,
+    "source_ar": "المادة الثانية:",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية:",
+    "target_en_norm": "article 2",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55050,
+    "source_ar": "تتولى الهيئة الولاية على الأموال التي لا حافظ لها حقيقة أو حكما -إلا الله سبحانه وتعالى- وتمارس من الاختصاصات مثل ما خول للولي أو الوصي أو القيم أو الوكيل أو الناظر وعليها الواجبات المقررة عليهم طبقا لأحكام الشريعة الإسلامية والأنظمة المرعية، ولها على الأخص ما يأتي:",
+    "target_en": "The Commission shall exercise guardianship over property with no de facto or de jure guardian except God. It shall have the powers of a guardian, trustee, conservator, attorney-in-fact, or endowment trustee and shall perform their assigned duties in accordance with Sharia and law. It shall, in particular, assume the following duties:",
+    "source_ar_norm": "تتولي الهيئة الولاية علي الاموال التي لا حافظ لها حقيقة او حكما -الا الله سبحانه وتعالي- وتمارس من الاختصاصات مثل ما خول للولي او الوصي او القيم او الوكيل او الناظر وعليها الواجبات المقررة عليهم طبقا لاحكام الشريعة الاسلامية والانظمة المرعية، ولها علي الاخص ما ياتي:",
+    "target_en_norm": "the commission shall exercise guardianship over property with no de facto or de jure guardian except god. it shall have the powers of a guardian, trustee, conservator, attorney-in-fact, or endowment trustee and shall perform their assigned duties in accordance with sharia and law. it shall, in particular, assume the following duties:",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55051,
+    "source_ar": "1 - الوصاية على أموال القصر والحمل الذين لا ولي ولا وصي لهم وإدارة أموالهم.",
+    "target_en": "1- Guardianship and management of the property of minors or unborn children who have no guardian or trustee.",
+    "source_ar_norm": "1 - الوصاية علي اموال القصر والحمل الذين لا ولي ولا وصي لهم وادارة اموالهم.",
+    "target_en_norm": "1- guardianship and management of the property of minors or unborn children who have no guardian or trustee.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55052,
+    "source_ar": "2 - القوامة على أموال ناقصي الأهلية وفاقديها الذين لم تعيٍن المحكمة المختصة قيما لإدارة أموالهم.",
+    "target_en": "2- Custody of the property of fully or partially incompetent persons for whom the competent court has not assigned a conservator.",
+    "source_ar_norm": "2 - القوامة علي اموال ناقصي الاهلية وفاقديها الذين لم تعين المحكمة المختصة قيما لادارة اموالهم.",
+    "target_en_norm": "2- custody of the property of fully or partially incompetent persons for whom the competent court has not assigned a conservator.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55053,
+    "source_ar": "3 - إدارة أموال من لا يعرف له وارث وأموال الغائبين والمفقودين والوكالة عنهم في المسائل المالية.",
+    "target_en": "3- Management of the property of deceased persons with unknown heirs as well as of absent and missing persons, and representing them in financial matters.",
+    "source_ar_norm": "3 - ادارة اموال من لا يعرف له وارث واموال الغائبين والمفقودين والوكالة عنهم في المسائل المالية.",
+    "target_en_norm": "3- management of the property of deceased persons with unknown heirs as well as of absent and missing persons, and representing them in financial matters.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55054,
+    "source_ar": "4 - حفظ أموال المجهولين واللقطات والسرقات حتى تثبت لأصحابها شرعا.",
+    "target_en": "4- Safekeeping the property of unknown persons as well as found and stolen property until ownership is legally established.",
+    "source_ar_norm": "4 - حفظ اموال المجهولين واللقطات والسرقات حتي تثبت لاصحابها شرعا.",
+    "target_en_norm": "4- safekeeping the property of unknown persons as well as found and stolen property until ownership is legally established.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55055,
+    "source_ar": "5 - الإشراف على تصرفات الأوصياء والقيمين والأولياء.",
+    "target_en": "5- Overseeing actions carried out by trustees, conservators, and guardians.",
+    "source_ar_norm": "5 - الاشراف علي تصرفات الاوصياء والقيمين والاولياء.",
+    "target_en_norm": "5- overseeing actions carried out by trustees, conservators, and guardians.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55056,
+    "source_ar": "6 - حفظ الديات والأموال والتركات المتنازع عليها حتى ينتهي الإيجاب الشرعي فيها إذا عهدت المحكمة المختصة إلى الهيئة بذلك.",
+    "target_en": "6- Safekeeping disputed Diya [blood money], property, and estate assigned thereto by a competent court, until a final judgment is rendered.",
+    "source_ar_norm": "6 - حفظ الديات والاموال والتركات المتنازع عليها حتي ينتهي الايجاب الشرعي فيها اذا عهدت المحكمة المختصة الي الهيئة بذلك.",
+    "target_en_norm": "6- safekeeping disputed diya [blood money], property, and estate assigned thereto by a competent court, until a final judgment is rendered.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55057,
+    "source_ar": "7 - إدارة الاوقاف الأهلية التي يوصى للهيئة بنظارتها أو التي تعين عليها.",
+    "target_en": "7- Administration of private endowments the trusteeship thereof is assigned thereto by will or appointment.",
+    "source_ar_norm": "7 - ادارة الاوقاف الاهلية التي يوصي للهيئة بنظارتها او التي تعين عليها.",
+    "target_en_norm": "7- administration of private endowments the trusteeship thereof is assigned thereto by will or appointment.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55058,
+    "source_ar": "8 - حفظ أقيام الأوقاف الخيرية العامة حتى شراء البدل من قبل مجلس الأوقاف الأعلى وذلك بعد إذن المحكمة المختصة بهذا الشأن.",
+    "target_en": "8- Safekeeping the sale proceeds of public charitable endowments until a substitute is purchased by the Supreme Endowment (Awqaf) Council after obtaining the permission of the competent court.",
+    "source_ar_norm": "8 - حفظ اقيام الاوقاف الخيرية العامة حتي شراء البدل من قبل مجلس الاوقاف الاعلي وذلك بعد اذن المحكمة المختصة بهذا الشان.",
+    "target_en_norm": "8- safekeeping the sale proceeds of public charitable endowments until a substitute is purchased by the supreme endowment (awqaf) council after obtaining the permission of the competent court.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55059,
+    "source_ar": "9 - أي مهمة تسند إليها بموجب النظام أو قرار من مجلس الوزراء أو أمر سام.",
+    "target_en": "9- Carrying out any task assigned thereto under this Law or pursuant to a resolution by the Council of Ministers or a high order.",
+    "source_ar_norm": "9 - اي مهمة تسند اليها بموجب النظام او قرار من مجلس الوزراء او امر سام.",
+    "target_en_norm": "9- carrying out any task assigned thereto under this law or pursuant to a resolution by the council of ministers or a high order.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55060,
+    "source_ar": "وتحدد اللائحة التنفيذية الضوابط اللازمة لتنفيذ هذه المادة.",
+    "target_en": "The Implementing Regulations shall determine the rules necessary for the implementation of this Article.",
+    "source_ar_norm": "وتحدد اللائحة التنفيذية الضوابط اللازمة لتنفيذ هذه المادة.",
+    "target_en_norm": "the implementing regulations shall determine the rules necessary for the implementation of this article.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55061,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article 3",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55062,
+    "source_ar": "يشكل للهيئة مجلس إدارة على النحو الآتي:",
+    "target_en": "The Commission’s Board of Directors shall comprise the following:",
+    "source_ar_norm": "يشكل للهيئة مجلس ادارة علي النحو الاتي:",
+    "target_en_norm": "the commission’s board of directors shall comprise the following:",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55063,
+    "source_ar": "1 - وزير العدل",
+    "target_en": "1- Minister of Justice",
+    "source_ar_norm": "1 - وزير العدل",
+    "target_en_norm": "1- minister of justice",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55064,
+    "source_ar": "2 - رئيس الهيئة",
+    "target_en": "2- President of the Commission",
+    "source_ar_norm": "2 - رئيس الهيئة",
+    "target_en_norm": "2- president of the commission",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55065,
+    "source_ar": "3 - تسعة أعضاء من ذوي الخبرة والكفاية والتخصص يعينون لمدة ثلاث سنوات قابلة للتجديد لمرة واحدة على أن يكون من بينهم اثنان من ذوي الاختصاص الشرعي واثنان من ذوي الاختصاص المالي والاقتصادي وخبير في الأنظمة ويصدر بتعيينهم والتجديد لهم وتحديد مكافآتهم قرار من مجلس الوزراء بناء على اقتراح من وزير العدل.",
+    "target_en": "3- Nine qualified members with relevant experience appointed for a term of three years, renewable once, provided they include two specialists in Sharia, two specialists in finance and economy, and one specialist in law. The appointment and renewal of said members as well as the determination of their remunerations shall be made pursuant to a resolution by the Council of Ministers upon the recommendation of the Minister of Justice.",
+    "source_ar_norm": "3 - تسعة اعضاء من ذوي الخبرة والكفاية والتخصص يعينون لمدة ثلاث سنوات قابلة للتجديد لمرة واحدة علي ان يكون من بينهم اثنان من ذوي الاختصاص الشرعي واثنان من ذوي الاختصاص المالي والاقتصادي وخبير في الانظمة ويصدر بتعيينهم والتجديد لهم وتحديد مكافاتهم قرار من مجلس الوزراء بناء علي اقتراح من وزير العدل.",
+    "target_en_norm": "3- nine qualified members with relevant experience appointed for a term of three years, renewable once, provided they include two specialists in sharia, two specialists in finance and economy, and one specialist in law. the appointment and renewal of said members as well as the determination of their remunerations shall be made pursuant to a resolution by the council of ministers upon the recommendation of the minister of justice.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55066,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article 4",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55067,
+    "source_ar": "مجلس إدارة الهيئة هو السلطة العليا التي تتولى شؤونها وإدارة أمورها ووضع السياسة العامة التي تسير عليها، وله بصفة خاصة الاختصاصات الآتية:",
+    "target_en": "The Commission’s Board of Directors shall be its highest authority. It shall oversee the Commission’s management and the conduct of its affairs and set its general policy. It shall, in particular, have the following functions:",
+    "source_ar_norm": "مجلس ادارة الهيئة هو السلطة العليا التي تتولي شؤونها وادارة امورها ووضع السياسة العامة التي تسير عليها، وله بصفة خاصة الاختصاصات الاتية:",
+    "target_en_norm": "the commission’s board of directors shall be its highest authority. it shall oversee the commission’s management and the conduct of its affairs and set its general policy. it shall, in particular, have the following functions:",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55068,
+    "source_ar": "1 - اقتراح مشروعات الأنظمة المتعلقة بعمل الهيئة وعلاقاتها بغيرها ورفع ذلك بحسب الإجراءات النظامية.",
+    "target_en": "1- Proposing draft laws relating to the Commission’s work and its relations with other institutions and submitting the same in accordance with legal procedures.",
+    "source_ar_norm": "1 - اقتراح مشروعات الانظمة المتعلقة بعمل الهيئة وعلاقاتها بغيرها ورفع ذلك بحسب الاجراءات النظامية.",
+    "target_en_norm": "1- proposing draft laws relating to the commission’s work and its relations with other institutions and submitting the same in accordance with legal procedures.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55069,
+    "source_ar": "2 - إعداد اللائحة التنفيذية لهذا النظام.",
+    "target_en": "2- Drafting the Implementing Regulations of this Law.",
+    "source_ar_norm": "2 - اعداد اللائحة التنفيذية لهذا النظام.",
+    "target_en_norm": "2- drafting the implementing regulations of this law.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55070,
+    "source_ar": "3 - اعتماد اللوائح المالية والإدارية للهيئة.",
+    "target_en": "3- Approving the Commission’s financial and administrative regulations.",
+    "source_ar_norm": "3 - اعتماد اللوائح المالية والادارية للهيئة.",
+    "target_en_norm": "3- approving the commission’s financial and administrative regulations.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55071,
+    "source_ar": "4 - تكوين اللجان ومنحها الصلاحيات اللازمة بهدف إنجاز المسائل التي تعرض عليها على أن تشترك وزارة الشؤون الاجتماعية في أي لجنة لها علاقة باختصاص الوزارة.",
+    "target_en": "4- Forming committees and granting them the powers necessary to perform the tasks assigned thereto, provided the Ministry of Social Affairs participates in any committee related to its jurisdiction.",
+    "source_ar_norm": "4 - تكوين اللجان ومنحها الصلاحيات اللازمة بهدف انجاز المسائل التي تعرض عليها علي ان تشترك وزارة الشؤون الاجتماعية في اي لجنة لها علاقة باختصاص الوزارة.",
+    "target_en_norm": "4- forming committees and granting them the powers necessary to perform the tasks assigned thereto, provided the ministry of social affairs participates in any committee related to its jurisdiction.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55072,
+    "source_ar": "5 - تفويض بعض صلاحياته لمن يرى من منسوبي الهيئة في حدود القواعد التي يضعها.",
+    "target_en": "5- Delegating certain powers to any of the Commission’s personnel in accordance with rules set thereby.",
+    "source_ar_norm": "5 - تفويض بعض صلاحياته لمن يري من منسوبي الهيئة في حدود القواعد التي يضعها.",
+    "target_en_norm": "5- delegating certain powers to any of the commission’s personnel in accordance with rules set thereby.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55073,
+    "source_ar": "6 - المحافظة على أموال المشمولين بهذا النظام الموجودة خارج البلاد وبيان كيفية إدارتها وما يلزم لذلك.",
+    "target_en": "6- Safekeeping the property of persons subject to this Law which is located abroad and specifying the procedures and any other measures necessary for its management.",
+    "source_ar_norm": "6 - المحافظة علي اموال المشمولين بهذا النظام الموجودة خارج البلاد وبيان كيفية ادارتها وما يلزم لذلك.",
+    "target_en_norm": "6- safekeeping the property of persons subject to this law which is located abroad and specifying the procedures and any other measures necessary for its management.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55074,
+    "source_ar": "7 - تنظيم طرق ووسائل استثمار وإدارة أموال المشمولين بهذا النظام.",
+    "target_en": "7- Devising methods and means of investing and managing the property of persons subject to this Law.",
+    "source_ar_norm": "7 - تنظيم طرق ووسائل استثمار وادارة اموال المشمولين بهذا النظام.",
+    "target_en_norm": "7- devising methods and means of investing and managing the property of persons subject to this law.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55075,
+    "source_ar": "8 - إنشاء فروع ومكاتب للهيئة لتحقيق أغراضها.",
+    "target_en": "8- Establishing branches and offices for the Commission, as necessary.",
+    "source_ar_norm": "8 - انشاء فروع ومكاتب للهيئة لتحقيق اغراضها.",
+    "target_en_norm": "8- establishing branches and offices for the commission, as necessary.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55076,
+    "source_ar": "9 - الموافقة على التقرير السنوي والحساب الختامي للهيئة ورفعهما إلى رئيس مجلس الوزراء حسب النظام.",
+    "target_en": "9- Approving the Commission’s annual report and final accounts and submitting the same to the Prime Minister in accordance with applicable procedures.",
+    "source_ar_norm": "9 - الموافقة علي التقرير السنوي والحساب الختامي للهيئة ورفعهما الي رئيس مجلس الوزراء حسب النظام.",
+    "target_en_norm": "9- approving the commission’s annual report and final accounts and submitting the same to the prime minister in accordance with applicable procedures.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55077,
+    "source_ar": "10 - اعتماد مشروع ميزانية الهيئة والتقديرات المالية السنوية لإيرادات الهيئة ومصروفاتها المشمولة بهذا النظام.",
+    "target_en": "10- Approving the Commission’s draft budget and estimates of annual revenues and expenditures covered by this Law.",
+    "source_ar_norm": "10 - اعتماد مشروع ميزانية الهيئة والتقديرات المالية السنوية لايرادات الهيئة ومصروفاتها المشمولة بهذا النظام.",
+    "target_en_norm": "10- approving the commission’s draft budget and estimates of annual revenues and expenditures covered by this law.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55078,
+    "source_ar": "11 - تخصيص نسبة لا تتجاوز (5 %) من صافي عائد استثمار الأموال التي تديرها الهيئة لما يعود بالنفع العام على جميع الأغراض التي أنشئت من أجلها وتغطية جزء من مصروفاتها.",
+    "target_en": "11- Allocating a percentage of not more than 5% of the net investment returns of the property managed by the Commission to meet the purposes for which it is established and to cover part of its expenditures.",
+    "source_ar_norm": "11 - تخصيص نسبة لا تتجاوز (5 %) من صافي عائد استثمار الاموال التي تديرها الهيئة لما يعود بالنفع العام علي جميع الاغراض التي انشئت من اجلها وتغطية جزء من مصروفاتها.",
+    "target_en_norm": "11- allocating a percentage of not more than 5% of the net investment returns of the property managed by the commission to meet the purposes for which it is established and to cover part of its expenditures.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55079,
+    "source_ar": "12 - اعتماد الحسابات السنوية لإيرادات ومصروفات الأوقاف المشمولة بهذا النظام.",
+    "target_en": "12- Approving the final accounts of revenues and expenditures of the endowments subject to this Law.",
+    "source_ar_norm": "12 - اعتماد الحسابات السنوية لايرادات ومصروفات الاوقاف المشمولة بهذا النظام.",
+    "target_en_norm": "12- approving the final accounts of revenues and expenditures of the endowments subject to this law.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55080,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article 5",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55081,
+    "source_ar": "يجتمع مجلس الإدارة بصفة دورية مرة كل شهرين على الأقل للنظر في الموضوعات المدرجة في جدول أعماله.",
+    "target_en": "The Board of Directors shall convene periodically at least twice a month.",
+    "source_ar_norm": "يجتمع مجلس الادارة بصفة دورية مرة كل شهرين علي الاقل للنظر في الموضوعات المدرجة في جدول اعماله.",
+    "target_en_norm": "the board of directors shall convene periodically at least twice a month.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55082,
+    "source_ar": "ويجوز للرئيس دعوة المجلس للاجتماع كلما دعت الحاجة إلى ذلك أو بناء على طلب ثلاثة من أعضائه، ولا يكون اجتماع المجلس صحيحا إلا إذا حضره ثلثا الأعضاء على أن يكون من بينهم الرئيس أو نائبه.",
+    "target_en": "The Chairman may call for a meeting when necessary or if requested by three of its members. Board meetings shall be valid only if attended by two-thirds of its members, including the Chairman or Vice-Chairman.",
+    "source_ar_norm": "ويجوز للرئيس دعوة المجلس للاجتماع كلما دعت الحاجة الي ذلك او بناء علي طلب ثلاثة من اعضائه، ولا يكون اجتماع المجلس صحيحا الا اذا حضره ثلثا الاعضاء علي ان يكون من بينهم الرئيس او نائبه.",
+    "target_en_norm": "the chairman may call for a meeting when necessary or if requested by three of its members. board meetings shall be valid only if attended by two-thirds of its members, including the chairman or vice-chairman.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55083,
+    "source_ar": "وتكون مداولات المجلس سرية.",
+    "target_en": "Board deliberations shall be confidential.",
+    "source_ar_norm": "وتكون مداولات المجلس سرية.",
+    "target_en_norm": "board deliberations shall be confidential.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55084,
+    "source_ar": "وتصدر قرارات المجلس بالأغلبية المطلقة لعدد أعضائه فإذا تساوت الأصوات رجح الجانب الذي صوت معه رئيس الجلسة.",
+    "target_en": "Board decisions shall be passed by the absolute majority vote of its members. In case of a tie, the meeting chairman shall have the casting vote.",
+    "source_ar_norm": "وتصدر قرارات المجلس بالاغلبية المطلقة لعدد اعضائه فاذا تساوت الاصوات رجح الجانب الذي صوت معه رئيس الجلسة.",
+    "target_en_norm": "board decisions shall be passed by the absolute majority vote of its members. in case of a tie, the meeting chairman shall have the casting vote.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55085,
+    "source_ar": "ويجوز للمجلس أن يدعو إلى حضور جلساته من يرى الاستعانة بهم من العاملين في الهيئة أو غيرهم من الخبراء والفنيين دون أن يكون لهم حق التصويت.",
+    "target_en": "The Board may invite any of the Commission’s personnel or any professional or expert to attend its meeting in a non-voting capacity.",
+    "source_ar_norm": "ويجوز للمجلس ان يدعو الي حضور جلساته من يري الاستعانة بهم من العاملين في الهيئة او غيرهم من الخبراء والفنيين دون ان يكون لهم حق التصويت.",
+    "target_en_norm": "the board may invite any of the commission’s personnel or any professional or expert to attend its meeting in a non-voting capacity.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55086,
+    "source_ar": "ويكون للمجلس أمين عام يتولى تدوين محاضر جلساته وقراراته في سجل خاص.",
+    "target_en": "The Board shall have a secretary-general to enter meeting minutes and decisions into a special record.",
+    "source_ar_norm": "ويكون للمجلس امين عام يتولي تدوين محاضر جلساته وقراراته في سجل خاص.",
+    "target_en_norm": "the board shall have a secretary-general to enter meeting minutes and decisions into a special record.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55087,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article 6",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55088,
+    "source_ar": "إذا خلا محل أحد أعضاء مجلس الإدارة لأي سبب يقترح وزير العدل من يحل محله ويصدر بذلك قرار من مجلس الوزراء.",
+    "target_en": "If the seat of a Board member becomes vacant for any reason, the Minister of Justice shall nominate a replacement to be appointed pursuant to a resolution by the Council of Ministers.",
+    "source_ar_norm": "اذا خلا محل احد اعضاء مجلس الادارة لاي سبب يقترح وزير العدل من يحل محله ويصدر بذلك قرار من مجلس الوزراء.",
+    "target_en_norm": "if the seat of a board member becomes vacant for any reason, the minister of justice shall nominate a replacement to be appointed pursuant to a resolution by the council of ministers.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55089,
+    "source_ar": "ويجوز لوزير العدل اعتبار العضو مستقيلا إذا تغيب عن حضور ثلاث جلسات متتالية دون عذر مقبول.",
+    "target_en": "The Minister of Justice may deem a member as having resigned if absent for three consecutive meetings without an acceptable excuse.",
+    "source_ar_norm": "ويجوز لوزير العدل اعتبار العضو مستقيلا اذا تغيب عن حضور ثلاث جلسات متتالية دون عذر مقبول.",
+    "target_en_norm": "the minister of justice may deem a member as having resigned if absent for three consecutive meetings without an acceptable excuse.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55090,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article 7",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55091,
+    "source_ar": "يكوّن المجلس من بين أعضائه اللجان الدائمة الآتية التي تمارس الاختصاصات المبينة أمامها:",
+    "target_en": "The Board shall form, from among its members, the following standing committees:",
+    "source_ar_norm": "يكون المجلس من بين اعضائه اللجان الدائمة الاتية التي تمارس الاختصاصات المبينة امامها:",
+    "target_en_norm": "the board shall form, from among its members, the following standing committees:",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55092,
+    "source_ar": "اللجنة الشرعية: لإبداء الرأي الشرعي في أعمال الهيئة.",
+    "target_en": "Sharia Committee: to provide Sharia opinion regarding the Commission’s work.",
+    "source_ar_norm": "اللجنة الشرعية: لابداء الراي الشرعي في اعمال الهيئة.",
+    "target_en_norm": "sharia committee: to provide sharia opinion regarding the commission’s work.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55093,
+    "source_ar": "لجنة الاستثمار: لإعداد استراتيجية وسياسات استثمار الأموال ومتابعة تنفيذ ما يتم إعداده من خطط في هذا الشأن.",
+    "target_en": "Investment Committee: to set strategies and policies for the investment of property and to follow-up on the implementation of plans related thereto.",
+    "source_ar_norm": "لجنة الاستثمار: لاعداد استراتيجية وسياسات استثمار الاموال ومتابعة تنفيذ ما يتم اعداده من خطط في هذا الشان.",
+    "target_en_norm": "investment committee: to set strategies and policies for the investment of property and to follow-up on the implementation of plans related thereto.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55094,
+    "source_ar": "لجنة المشروعات الوقفية: للإشراف على الأموال الوقفية وريعها ومتابعة صرفها تنفيذا لشروط الواقفين ورغباتهم.",
+    "target_en": "Endowment Projects Committee: to oversee endowed property and their revenues and to follow-up on their expenditures in accordance with the endowers’ conditions and instructions.",
+    "source_ar_norm": "لجنة المشروعات الوقفية: للاشراف علي الاموال الوقفية وريعها ومتابعة صرفها تنفيذا لشروط الواقفين ورغباتهم.",
+    "target_en_norm": "endowment projects committee: to oversee endowed property and their revenues and to follow-up on their expenditures in accordance with the endowers’ conditions and instructions.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55095,
+    "source_ar": "لجنة المراجعة: لدراسة الجوانب المتعلقة بالمجالات الرقابية للهيئة.",
+    "target_en": "Audit Committee: to review control-related activities of the Commission.",
+    "source_ar_norm": "لجنة المراجعة: لدراسة الجوانب المتعلقة بالمجالات الرقابية للهيئة.",
+    "target_en_norm": "audit committee: to review control-related activities of the commission.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55096,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article 8",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55097,
+    "source_ar": "يكون للهيئة رئيس بالمرتبة الممتازة يعيًن بأمر ملكي كما يكون له نائب أو أكثر يعينون بقرار من مجلس الوزراء بناء على اقتراح من وزير العدل.",
+    "target_en": "The Commission shall have a president of the rank Grade Excellent to be appointed pursuant to a royal order. The President shall have a deputy, or more, to be appointed pursuant to a resolution by the Council of Ministers upon the recommendation of the Minister of Justice.",
+    "source_ar_norm": "يكون للهيئة رئيس بالمرتبة الممتازة يعين بامر ملكي كما يكون له نائب او اكثر يعينون بقرار من مجلس الوزراء بناء علي اقتراح من وزير العدل.",
+    "target_en_norm": "the commission shall have a president of the rank grade excellent to be appointed pursuant to a royal order. the president shall have a deputy, or more, to be appointed pursuant to a resolution by the council of ministers upon the recommendation of the minister of justice.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55098,
+    "source_ar": "ويعد رئيس الهيئة هو المسؤول التنفيذي عن إدارة الهيئة ومرجعه رئيس مجلس الإدارة.",
+    "target_en": "He shall be in charge of the management of the Commission and shall report to the Board Chairman.",
+    "source_ar_norm": "ويعد رئيس الهيئة هو المسؤول التنفيذي عن ادارة الهيئة ومرجعه رئيس مجلس الادارة.",
+    "target_en_norm": "he shall be in charge of the management of the commission and shall report to the board chairman.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55099,
+    "source_ar": "وتتركز مسؤولياته في حدود ما ينص عليه هذا النظام وما يقرره مجلس الإدارة.",
+    "target_en": "His responsibilities shall be within the limits of this Law and Board decisions.",
+    "source_ar_norm": "وتتركز مسؤولياته في حدود ما ينص عليه هذا النظام وما يقرره مجلس الادارة.",
+    "target_en_norm": "his responsibilities shall be within the limits of this law and board decisions.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  },
+  {
+    "id": 55100,
+    "source_ar": "ويكلف الرئيس في حالة غيابه أحد نوابه ليحل محله في ممارسة اختصاصاته، وذلك بعد موافقة وزير العدل.:",
+    "target_en": "In his absence, he shall, upon the approval of the Minister of Justice, designate one of his deputies to act on his behalf.",
+    "source_ar_norm": "ويكلف الرئيس في حالة غيابه احد نوابه ليحل محله في ممارسة اختصاصاته، وذلك بعد موافقة وزير العدل.:",
+    "target_en_norm": "in his absence, he shall, upon the approval of the minister of justice, designate one of his deputies to act on his behalf.",
+    "file_name": "نظام الهيئة العامة للولاية على أموال القاصرين ومن في حكمهم.docx"
+  }
+]

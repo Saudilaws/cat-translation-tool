@@ -1,0 +1,802 @@
+[
+  {
+    "id": 56401,
+    "source_ar": "البناء / المبنى: ما يشيد ويجهز للاستخدام والإشغال، وورد له تصنيف في الكود.",
+    "target_en": "Construction/Building: Any structure built and prepared for occupancy and use, and is classified in the Code.",
+    "source_ar_norm": "البناء / المبني: ما يشيد ويجهز للاستخدام والاشغال، وورد له تصنيف في الكود.",
+    "target_en_norm": "construction/building: any structure built and prepared for occupancy and use, and is classified in the code.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56402,
+    "source_ar": "المصمّم: الشخص ذو الصفة الطبيعية أو الاعتبارية المرخص له، الذي يكلفه المالك بعمل الدراسات والتصاميم بما يلبي احتياجاته وطلباته وفق الكود.",
+    "target_en": "Designer: A licensed natural or legal person assigned by the owner to carry out studies and designs according to his needs and Code requirements.",
+    "source_ar_norm": "المصمم: الشخص ذو الصفة الطبيعية او الاعتبارية المرخص له، الذي يكلفه المالك بعمل الدراسات والتصاميم بما يلبي احتياجاته وطلباته وفق الكود.",
+    "target_en_norm": "designer: a licensed natural or legal person assigned by the owner to carry out studies and designs according to his needs and code requirements.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56403,
+    "source_ar": "المنفذ (المقاول): الشخص ذو الصفة الطبيعية أو الاعتبارية المرخص له، الذي يكلفه المالك بتنفيذ أعمال البناء أو التركيب أو التشغيل أو الصيانة وفق الكود.",
+    "target_en": "Builder (Contractor): A licensed natural or legal person assigned by the owner to execute construction works, installation, operation, or maintenance in accordance with the Code.",
+    "source_ar_norm": "المنفذ (المقاول): الشخص ذو الصفة الطبيعية او الاعتبارية المرخص له، الذي يكلفه المالك بتنفيذ اعمال البناء او التركيب او التشغيل او الصيانة وفق الكود.",
+    "target_en_norm": "builder (contractor): a licensed natural or legal person assigned by the owner to execute construction works, installation, operation, or maintenance in accordance with the code.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56404,
+    "source_ar": "المشرف: الشخص ذو الصفة الطبيعية أو الاعتبارية المرخص له الذي يكلفه المالك بالقيام بأعمال الإشراف.",
+    "target_en": "Supervisor: A licensed natural or legal person assigned by the owner to perform supervisory work.",
+    "source_ar_norm": "المشرف: الشخص ذو الصفة الطبيعية او الاعتبارية المرخص له الذي يكلفه المالك بالقيام باعمال الاشراف.",
+    "target_en_norm": "supervisor: a licensed natural or legal person assigned by the owner to perform supervisory work.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56405,
+    "source_ar": "رخصة البناء: إذنٌ بالبناء يصدره الجهاز البلدي.",
+    "target_en": "Building License: A building permit issued by the Municipality.",
+    "source_ar_norm": "رخصة البناء: اذن بالبناء يصدره الجهاز البلدي.",
+    "target_en_norm": "building license: a building permit issued by the municipality.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56406,
+    "source_ar": "شهادة الإشغال: إذنٌ بإشغال المبنى يصدره الجهاز البلدي بعد التأكد من مطابقته للكود.",
+    "target_en": "Certificate of Occupancy: A permit to occupy the building issued by the municipality upon ensuring its compliance with the Code.",
+    "source_ar_norm": "شهادة الاشغال: اذن باشغال المبني يصدره الجهاز البلدي بعد التاكد من مطابقته للكود.",
+    "target_en_norm": "certificate of occupancy: a permit to occupy the building issued by the municipality upon ensuring its compliance with the code.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56407,
+    "source_ar": "رخصة الممارسة: تصريح تصدره الجهة المختصة للأفراد، والهيئات، والمؤسسات، والشركات؛ لممارسة أعمال الدراسات والتصاميم، أو التنفيذ أو الإشراف، وفق الكود.",
+    "target_en": "Practice License: A permit issued by a competent agency to individuals, organizations, establishments and corporations to conduct studies and designs, execution, or supervision, in accordance with the Code.",
+    "source_ar_norm": "رخصة الممارسة: تصريح تصدره الجهة المختصة للافراد، والهيئات، والمؤسسات، والشركات؛ لممارسة اعمال الدراسات والتصاميم، او التنفيذ او الاشراف، وفق الكود.",
+    "target_en_norm": "practice license: a permit issued by a competent agency to individuals, organizations, establishments and corporations to conduct studies and designs, execution, or supervision, in accordance with the code.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56408,
+    "source_ar": "الجهات ذات العلاقة: الجهات الحكومية المعنية وفقاً لاختصاصها بمراقبة تطبيق الكود، وهي: وزارة الشؤون البلدية والقروية، ووزارة الداخلية (المديرية العامة للدفاع المدني)، ووزارة الطاقة والصناعة والثروة المعدنية.",
+    "target_en": "Relevant Agencies: Government agencies entrusted with monitoring the implementation of the Code, which are: the Ministry of Municipal and Rural Affairs, the Ministry of Interior (General Directorate of Civil Defense) and the Ministry of Energy, Industry and Mineral Resources.",
+    "source_ar_norm": "الجهات ذات العلاقة: الجهات الحكومية المعنية وفقا لاختصاصها بمراقبة تطبيق الكود، وهي: وزارة الشؤون البلدية والقروية، ووزارة الداخلية (المديرية العامة للدفاع المدني)، ووزارة الطاقة والصناعة والثروة المعدنية.",
+    "target_en_norm": "relevant agencies: government agencies entrusted with monitoring the implementation of the code, which are: the ministry of municipal and rural affairs, the ministry of interior (general directorate of civil defense) and the ministry of energy, industry and mineral resources.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56409,
+    "source_ar": "المخالفة: كل تجاوز للكود، متعمد أو غير متعمد.",
+    "target_en": "Violation: Any violation to the Code, intentional or otherwise.",
+    "source_ar_norm": "المخالفة: كل تجاوز للكود، متعمد او غير متعمد.",
+    "target_en_norm": "violation: any violation to the code, intentional or otherwise.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56410,
+    "source_ar": "المخالفة الخطرة: كل مخالفة للكود يترتب عليها تعريض الأرواح أو الممتلكات للخطر.",
+    "target_en": "Serious Violation: Any violation to the Code that endangers life or property.",
+    "source_ar_norm": "المخالفة الخطرة: كل مخالفة للكود يترتب عليها تعريض الارواح او الممتلكات للخطر.",
+    "target_en_norm": "serious violation: any violation to the code that endangers life or property.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56411,
+    "source_ar": "المادة الثانية:",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية:",
+    "target_en_norm": "article 2",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56412,
+    "source_ar": "1- يطبق الكود على جميع أعمال البناء في القطاعين العام والخاص، بما في ذلك تصميم البناء وتنفيذه وتشغيله وصيانته وتعديله، ويطبق كذلك على المباني القائمة في حالة ترميمها، أو تغيير استخدامها، أو توسعتها، أو تعديلها.",
+    "target_en": "1. The Code shall apply to all construction works in the public and private sectors, including the works of design, construction, operation, maintenance, and modification of a building. It shall also apply to existing buildings in case of restoration, change of use, expansion or modification.",
+    "source_ar_norm": "1- يطبق الكود علي جميع اعمال البناء في القطاعين العام والخاص، بما في ذلك تصميم البناء وتنفيذه وتشغيله وصيانته وتعديله، ويطبق كذلك علي المباني القائمة في حالة ترميمها، او تغيير استخدامها، او توسعتها، او تعديلها.",
+    "target_en_norm": "1. the code shall apply to all construction works in the public and private sectors, including the works of design, construction, operation, maintenance, and modification of a building. it shall also apply to existing buildings in case of restoration, change of use, expansion or modification.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56413,
+    "source_ar": "2 - يكون تطبيق الكود تدريجيًّا وفقاً لما تحدده اللوائح خلال مدة لا تتجاوز خمس سنوات من تاريخ نفاذ النظام.",
+    "target_en": "2. The Code shall be gradually applied as determined by the Regulations within a period not exceeding five years from the date of the Law’s entry into force.",
+    "source_ar_norm": "2 - يكون تطبيق الكود تدريجيا وفقا لما تحدده اللوائح خلال مدة لا تتجاوز خمس سنوات من تاريخ نفاذ النظام.",
+    "target_en_norm": "2. the code shall be gradually applied as determined by the regulations within a period not exceeding five years from the date of the law’s entry into force.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56414,
+    "source_ar": "3 - يحظر تطبيق أي كود - بعد العمل بالنظام وفقاً للتطبيق التدريجي المشار إليه في الفقرة (2) من هذه المادة - غير الكود السعودي.",
+    "target_en": "3. No code, other than the Saudi Code, shall be applied after the gradual application of the Law as stipulated in paragraph 2 of this Article.",
+    "source_ar_norm": "3 - يحظر تطبيق اي كود - بعد العمل بالنظام وفقا للتطبيق التدريجي المشار اليه في الفقرة (2) من هذه المادة - غير الكود السعودي.",
+    "target_en_norm": "3. no code, other than the saudi code, shall be applied after the gradual application of the law as stipulated in paragraph 2 of this article.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56415,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article 3",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56416,
+    "source_ar": "دون الإخلال بحق الجهات ذات العلاقة في ممارسة مهماتها واختصاصاتها وفقاً لأنظمتها، تتولى الوزارة متابعة تطبيق الكود ومراقبته.",
+    "target_en": "Without prejudice to the right of other relevant agencies to exercise their powers in accordance with their laws, the Ministry shall monitor the implementation of the Code.",
+    "source_ar_norm": "دون الاخلال بحق الجهات ذات العلاقة في ممارسة مهماتها واختصاصاتها وفقا لانظمتها، تتولي الوزارة متابعة تطبيق الكود ومراقبته.",
+    "target_en_norm": "without prejudice to the right of other relevant agencies to exercise their powers in accordance with their laws, the ministry shall monitor the implementation of the code.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56417,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article 4",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56418,
+    "source_ar": "تتولى اللجنة الوطنية ما يأتي:",
+    "target_en": "The National Committee shall be in charge of the following:",
+    "source_ar_norm": "تتولي اللجنة الوطنية ما ياتي:",
+    "target_en_norm": "the national committee shall be in charge of the following:",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56419,
+    "source_ar": "1 - دراسة الملحوظات الواردة حيال الكود، واقتراح ما يلزم من تعديلات لتحديثه وتطويره، وذلك بالتنسيق مع الجهات المختصة، وتصدر هذه التعديلات بقرار من وزير التجارة والاستثمار رئيس مجلس إدارة الهيئة السعودية للمواصفات والمقاييس والجودة.",
+    "target_en": "1. Review comments on the Code and propose necessary amendments, in coordination with the competent agencies. Such amendments shall be issued pursuant to a decision by the Minister of Commerce and Investment, Chairman of the Board of Directors of the Saudi Standards, Metrology and Quality Organization.",
+    "source_ar_norm": "1 - دراسة الملحوظات الواردة حيال الكود، واقتراح ما يلزم من تعديلات لتحديثه وتطويره، وذلك بالتنسيق مع الجهات المختصة، وتصدر هذه التعديلات بقرار من وزير التجارة والاستثمار رئيس مجلس ادارة الهيئة السعودية للمواصفات والمقاييس والجودة.",
+    "target_en_norm": "1. review comments on the code and propose necessary amendments, in coordination with the competent agencies. such amendments shall be issued pursuant to a decision by the minister of commerce and investment, chairman of the board of directors of the saudi standards, metrology and quality organization.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56420,
+    "source_ar": "2 - إعداد الإرشادات والشروحات العلمية والفنية الخاصة بالكود، ومشاركة الجهات المختصة في إعداد مناهج التدريب والتأهيل وخططه، وعقد ورش العمل والندوات والمؤتمرات المتعلقة بالكود.",
+    "target_en": "2. Draft the scientific and technical instructions and illustrations relating to the Code, participate with the competent agencies in preparing training and qualification materials and plans, and hold workshops, symposia and conferences relating to the Code.",
+    "source_ar_norm": "2 - اعداد الارشادات والشروحات العلمية والفنية الخاصة بالكود، ومشاركة الجهات المختصة في اعداد مناهج التدريب والتاهيل وخططه، وعقد ورش العمل والندوات والمؤتمرات المتعلقة بالكود.",
+    "target_en_norm": "2. draft the scientific and technical instructions and illustrations relating to the code, participate with the competent agencies in preparing training and qualification materials and plans, and hold workshops, symposia and conferences relating to the code.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56421,
+    "source_ar": "3 - تمثيل المملكة في المنظمات واللجان الفنية الإقليمية والدولية ذات العلاقة، بعد التنسيق مع الجهات المختصة.",
+    "target_en": "3. Represent the Kingdom at relevant regional and international technical organizations and committees, upon coordination with the competent agencies.",
+    "source_ar_norm": "3 - تمثيل المملكة في المنظمات واللجان الفنية الاقليمية والدولية ذات العلاقة، بعد التنسيق مع الجهات المختصة.",
+    "target_en_norm": "3. represent the kingdom at relevant regional and international technical organizations and committees, upon coordination with the competent agencies.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56422,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article 5",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56423,
+    "source_ar": "يُحدَّث الكود ويعاد إصداره كل خمس سنوات بقرار من وزير التجارة والاستثمار رئيس مجلس إدارة الهيئة السعودية للمواصفات والمقاييس والجودة.",
+    "target_en": "The Code shall be updated and reissued every five years pursuant to a decision by the Minister of Commerce and Investment, Chairman of the Board of Directors of the Saudi Standards, Metrology and Quality Organization.",
+    "source_ar_norm": "يحدث الكود ويعاد اصداره كل خمس سنوات بقرار من وزير التجارة والاستثمار رئيس مجلس ادارة الهيئة السعودية للمواصفات والمقاييس والجودة.",
+    "target_en_norm": "the code shall be updated and reissued every five years pursuant to a decision by the minister of commerce and investment, chairman of the board of directors of the saudi standards, metrology and quality organization.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56424,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article 6",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56425,
+    "source_ar": "يعد الالتزام بالكود - بعد العمل بالنظام وفقاً للتطبيق التدريجي المشار إليه في الفقرة (2) من المادة (الثانية) من النظام - أحد متطلبات الحصول على رخص البناء أو الترميم أو التعديل أو تغيير الاستخدام.",
+    "target_en": "After the gradual application of the Law, as stipulated in Article 2(2) of the Law, compliance with the Code shall be a requirement for obtaining a permit for construction, restoration, modification, or change of use.",
+    "source_ar_norm": "يعد الالتزام بالكود - بعد العمل بالنظام وفقا للتطبيق التدريجي المشار اليه في الفقرة (2) من المادة (الثانية) من النظام - احد متطلبات الحصول علي رخص البناء او الترميم او التعديل او تغيير الاستخدام.",
+    "target_en_norm": "after the gradual application of the law, as stipulated in article 2(2) of the law, compliance with the code shall be a requirement for obtaining a permit for construction, restoration, modification, or change of use.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56426,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article 7",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56427,
+    "source_ar": "يكون التصميم والإشراف والتنفيذ بموجب عقود مع متخصصين يحملون رخص ممارسة.",
+    "target_en": "Design, supervision, and execution of works shall be in accordance with contracts concluded with licensed specialists.",
+    "source_ar_norm": "يكون التصميم والاشراف والتنفيذ بموجب عقود مع متخصصين يحملون رخص ممارسة.",
+    "target_en_norm": "design, supervision, and execution of works shall be in accordance with contracts concluded with licensed specialists.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56428,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article 8",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56429,
+    "source_ar": "على كل من المصمم والمنفذ والمشرف الالتزام بتنفيذ الأعمال الموكولة إليه وفق الكود.",
+    "target_en": "Designers, supervisors, and contractors shall carry out assigned tasks in accordance with the Code.",
+    "source_ar_norm": "علي كل من المصمم والمنفذ والمشرف الالتزام بتنفيذ الاعمال الموكولة اليه وفق الكود.",
+    "target_en_norm": "designers, supervisors, and contractors shall carry out assigned tasks in accordance with the code.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56430,
+    "source_ar": "المادة التاسعة:",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة:",
+    "target_en_norm": "article 9",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56431,
+    "source_ar": "لا يجوز إشغال البناء إلَّا بموجب شهادة إشغال بحسب تصنيف الإشغال الوارد في الكود، ووفقاً للإجراءات والمدد التي تحددها اللوائح، وتعد شهادة الإشغال شرطاً أساساً لإيصال الخدمات.",
+    "target_en": "A building may not be occupied without a certificate of occupancy as classified in the Code, and in accordance with the procedures and terms set in the Regulations. The certificate of occupancy shall be a condition for provision of utility services.",
+    "source_ar_norm": "لا يجوز اشغال البناء الا بموجب شهادة اشغال بحسب تصنيف الاشغال الوارد في الكود، ووفقا للاجراءات والمدد التي تحددها اللوائح، وتعد شهادة الاشغال شرطا اساسا لايصال الخدمات.",
+    "target_en_norm": "a building may not be occupied without a certificate of occupancy as classified in the code, and in accordance with the procedures and terms set in the regulations. the certificate of occupancy shall be a condition for provision of utility services.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56432,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article 10",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56433,
+    "source_ar": "على كل من خالف الكود إزالة المخالفة أو تصحيحها بما يتفق مع الكود في مدة تحددها الجهة ذات العلاقة، ويشعر المخالف بذلك.",
+    "target_en": "Any person violating the Code shall, upon notification, remove or rectify the violation in accordance with the Code within a period set by the relevant agency.",
+    "source_ar_norm": "علي كل من خالف الكود ازالة المخالفة او تصحيحها بما يتفق مع الكود في مدة تحددها الجهة ذات العلاقة، ويشعر المخالف بذلك.",
+    "target_en_norm": "any person violating the code shall, upon notification, remove or rectify the violation in accordance with the code within a period set by the relevant agency.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56434,
+    "source_ar": "وإذا لم يُزِل المخالف المخالفة أو يصححها خلال المدة المحددة، تحيل الجهة ذات العلاقة المخالفة إلى اللجنة المنصوص عليها في المادة (الرابعة عشرة) من النظام وفق ما تحدده اللوائح.",
+    "target_en": "If the violator fails to remove or rectify the violation within the specified period, the relevant agency shall refer the matter to the committee stipulated in Article 14 of the Law as determined by the Regulations.",
+    "source_ar_norm": "واذا لم يزل المخالف المخالفة او يصححها خلال المدة المحددة، تحيل الجهة ذات العلاقة المخالفة الي اللجنة المنصوص عليها في المادة (الرابعة عشرة) من النظام وفق ما تحدده اللوائح.",
+    "target_en_norm": "if the violator fails to remove or rectify the violation within the specified period, the relevant agency shall refer the matter to the committee stipulated in article 14 of the law as determined by the regulations.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56435,
+    "source_ar": "المادة الحادية عشرة:",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة:",
+    "target_en_norm": "article 11",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56436,
+    "source_ar": "عندما تكون المخالفة خطرة، فعلى الجهة ذات العلاقة إشعار المخالف بها، وإيقاف البناء أو الجزء أو القسم الذي يشكل الخطورة أو منع الإشغال أو إخلاء المبنى حتى يزيل المخالف المخالفة أو يصححها بما يتفق مع الكود، وإحالة المخالفة إلى اللجنة المنصوص عليها في المادة (الرابعة عشرة) من النظام خلال مدة لا تتجاوز خمسة أيام عمل من تاريخ ضبط المخالفة.",
+    "target_en": "In case of a serious violation, the relevant agency shall notify the violator of the same, stop construction of the building or the part thereof that poses danger, prohibit occupancy or evacuate said building until the violator removes the violation or rectifies it in conformity with the Code, and refer the matter to the committee stipulated in Article 14 of the Law within a period not exceeding five working days from the date of recording the violation.",
+    "source_ar_norm": "عندما تكون المخالفة خطرة، فعلي الجهة ذات العلاقة اشعار المخالف بها، وايقاف البناء او الجزء او القسم الذي يشكل الخطورة او منع الاشغال او اخلاء المبني حتي يزيل المخالف المخالفة او يصححها بما يتفق مع الكود، واحالة المخالفة الي اللجنة المنصوص عليها في المادة (الرابعة عشرة) من النظام خلال مدة لا تتجاوز خمسة ايام عمل من تاريخ ضبط المخالفة.",
+    "target_en_norm": "in case of a serious violation, the relevant agency shall notify the violator of the same, stop construction of the building or the part thereof that poses danger, prohibit occupancy or evacuate said building until the violator removes the violation or rectifies it in conformity with the code, and refer the matter to the committee stipulated in article 14 of the law within a period not exceeding five working days from the date of recording the violation.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56437,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article 12",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56438,
+    "source_ar": "مع مراعاة ما ورد في المادتين (العاشرة) و(الحادية عشرة) من النظام، يعاقب كل من يخالف الكود أو أيًّا من أحكام النظام أو لوائحه بأي من العقوبتين الآتيتين أو بكلتيهما:",
+    "target_en": "Without prejudice to the provisions of Articles 10 and 11 of the Law, any person violating the Code or any provision of the Law or its Regulations shall be subject to either of the following penalties or both:",
+    "source_ar_norm": "مع مراعاة ما ورد في المادتين (العاشرة) و(الحادية عشرة) من النظام، يعاقب كل من يخالف الكود او ايا من احكام النظام او لوائحه باي من العقوبتين الاتيتين او بكلتيهما:",
+    "target_en_norm": "without prejudice to the provisions of articles 10 and 11 of the law, any person violating the code or any provision of the law or its regulations shall be subject to either of the following penalties or both:",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56439,
+    "source_ar": "1 - غرامة مالية لا تزيد على مليون ريال للمخالفة الواحدة في المبنى الواحد.",
+    "target_en": "1. A fine not exceeding one million riyals per violation per building.",
+    "source_ar_norm": "1 - غرامة مالية لا تزيد علي مليون ريال للمخالفة الواحدة في المبني الواحد.",
+    "target_en_norm": "1. a fine not exceeding one million riyals per violation per building.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56440,
+    "source_ar": "2 - إيقاف رخصة الممارسة مدة لا تقل عن شهر ولا تتجاوز سنة واحدة.",
+    "target_en": "2. Suspend the practice license for a minimum period of one month and a maximum period of one year.",
+    "source_ar_norm": "2 - ايقاف رخصة الممارسة مدة لا تقل عن شهر ولا تتجاوز سنة واحدة.",
+    "target_en_norm": "2. suspend the practice license for a minimum period of one month and a maximum period of one year.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56441,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article 13",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56442,
+    "source_ar": "يتولى ضبط مخالفات الكود وتوثيقها مختصون مؤهلون في الكود من الجهات ذات العلاقة، يصدر بتسميتهم قرار من جهاتهم، على أن يكون ضبط المخالفة بموجب محضر تدون فيه المعلومات وفقاً لما تحدده اللوائح.",
+    "target_en": "Detection and recording of violations of the Code shall be carried out by Code specialists from relevant agencies, appointed pursuant to a decision issued by their respective agencies, provided that the violation details are recorded in minutes in accordance with the Regulations.",
+    "source_ar_norm": "يتولي ضبط مخالفات الكود وتوثيقها مختصون مؤهلون في الكود من الجهات ذات العلاقة، يصدر بتسميتهم قرار من جهاتهم، علي ان يكون ضبط المخالفة بموجب محضر تدون فيه المعلومات وفقا لما تحدده اللوائح.",
+    "target_en_norm": "detection and recording of violations of the code shall be carried out by code specialists from relevant agencies, appointed pursuant to a decision issued by their respective agencies, provided that the violation details are recorded in minutes in accordance with the regulations.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56443,
+    "source_ar": "المادة الرابعة عشرة:",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة:",
+    "target_en_norm": "article 14",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56444,
+    "source_ar": "1- تكوَّن بقرار من وزير الشؤون البلدية والقروية لجنة (أو أكثر) في كل منطقة من مناطق المملكة - بحسب الحاجة - من متخصصين من الجهات ذات العلاقة، على ألَّا يقل عدد أعضائها عن (ثلاثة) يكون من بينهم من يحمل مؤهلاً شرعيًّا أو نظاميًّا، وتصدر - بقرار من وزير الشؤون البلدية والقروية - قواعد عمل تلك اللجان وإجراءاتها ومكافأة أعضائها.",
+    "target_en": "1. A committee (or more) of specialists from relevant agencies shall, pursuant to a decision by the Minister of Municipal and Rural Affairs, be formed in each province in the Kingdom of at least three members, one of whom shall hold a degree in Sharia or law. Committee work rules and procedures, as well as remuneration of its members, shall be specified pursuant to a decision by the Minister of Municipal and Rural Affairs.",
+    "source_ar_norm": "1- تكون بقرار من وزير الشؤون البلدية والقروية لجنة (او اكثر) في كل منطقة من مناطق المملكة - بحسب الحاجة - من متخصصين من الجهات ذات العلاقة، علي الا يقل عدد اعضائها عن (ثلاثة) يكون من بينهم من يحمل مؤهلا شرعيا او نظاميا، وتصدر - بقرار من وزير الشؤون البلدية والقروية - قواعد عمل تلك اللجان واجراءاتها ومكافاة اعضائها.",
+    "target_en_norm": "1. a committee (or more) of specialists from relevant agencies shall, pursuant to a decision by the minister of municipal and rural affairs, be formed in each province in the kingdom of at least three members, one of whom shall hold a degree in sharia or law. committee work rules and procedures, as well as remuneration of its members, shall be specified pursuant to a decision by the minister of municipal and rural affairs.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56445,
+    "source_ar": "2 - تتولى هذه اللجنة النظر في المخالفات وإيقاع العقوبات المنصوص عليها في المادة (الثانية عشرة) من النظام، ويجوز التظلم من هذه القرارات أمام ديوان المظالم وفقاً لنظامه.",
+    "target_en": "2. The committee shall review violations and impose the penalties stipulated in Article 12 of the Law. Committee decisions may be challenged before the Board of Grievances in accordance with its Law.",
+    "source_ar_norm": "2 - تتولي هذه اللجنة النظر في المخالفات وايقاع العقوبات المنصوص عليها في المادة (الثانية عشرة) من النظام، ويجوز التظلم من هذه القرارات امام ديوان المظالم وفقا لنظامه.",
+    "target_en_norm": "2. the committee shall review violations and impose the penalties stipulated in article 12 of the law. committee decisions may be challenged before the board of grievances in accordance with its law.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56446,
+    "source_ar": "المادة الخامسة عشرة:",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة:",
+    "target_en_norm": "article 15",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56447,
+    "source_ar": "تعد اللجنة الوطنية - خلال سنة من تاريخ نشر النظام - اللوائح، بما في ذلك لائحة تشتمل على تصنيف مخالفات الكود، وتعتمد بقرار من وزير التجارة والاستثمار رئيس مجلس إدارة الهيئة السعودية للمواصفات والمقاييس والجودة، وتنشر في الجريدة الرسمية.",
+    "target_en": "The National Committee shall, within a year from the publication date of the Law, draft the regulations, including the regulations classifying Code violations, to be approved pursuant to a decision by the Minister of Commerce and Investment, Chairman of the Board of Directors of the Saudi Standards, Metrology and Quality Organization, and published in the Official Gazette.",
+    "source_ar_norm": "تعد اللجنة الوطنية - خلال سنة من تاريخ نشر النظام - اللوائح، بما في ذلك لائحة تشتمل علي تصنيف مخالفات الكود، وتعتمد بقرار من وزير التجارة والاستثمار رئيس مجلس ادارة الهيئة السعودية للمواصفات والمقاييس والجودة، وتنشر في الجريدة الرسمية.",
+    "target_en_norm": "the national committee shall, within a year from the publication date of the law, draft the regulations, including the regulations classifying code violations, to be approved pursuant to a decision by the minister of commerce and investment, chairman of the board of directors of the saudi standards, metrology and quality organization, and published in the official gazette.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56448,
+    "source_ar": "المادة السادسة عشرة:",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة:",
+    "target_en_norm": "article 16",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56449,
+    "source_ar": "يُعمل بهذا النظام بعد سنة من تاريخ نشره في الجريدة الرسمية، ويلغي كل ما يتعارض معه من أحكام.",
+    "target_en": "This Law shall enter into force one year after its date of publication in the Official Gazette and shall repeal all conflicting provisions.",
+    "source_ar_norm": "يعمل بهذا النظام بعد سنة من تاريخ نشره في الجريدة الرسمية، ويلغي كل ما يتعارض معه من احكام.",
+    "target_en_norm": "this law shall enter into force one year after its date of publication in the official gazette and shall repeal all conflicting provisions.",
+    "file_name": "نظام تطبيق كود البناء السعودي.docx"
+  },
+  {
+    "id": 56450,
+    "source_ar": "نظام تعريفة الطيران المدني",
+    "target_en": "Law of Civil Aviation Tariff",
+    "source_ar_norm": "نظام تعريفة الطيران المدني",
+    "target_en_norm": "law of civil aviation tariff",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56451,
+    "source_ar": "المادة الاولى",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي",
+    "target_en_norm": "article 1",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56452,
+    "source_ar": "يقصد بالكلمات والعبارات الآتية – أينما وردت في هذا النظام – المعاني المبينة أمامها ما لم يقتض السياق خلاف ذلك:",
+    "target_en": "In this Law, the following words and phrases shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "source_ar_norm": "يقصد بالكلمات والعبارات الاتية – اينما وردت في هذا النظام – المعاني المبينة امامها ما لم يقتض السياق خلاف ذلك:",
+    "target_en_norm": "in this law, the following words and phrases shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56453,
+    "source_ar": "المملكة: المملكة العربية السعودية.",
+    "target_en": "Kingdom: Kingdom of Saudi Arabia.",
+    "source_ar_norm": "المملكة: المملكة العربية السعودية.",
+    "target_en_norm": "kingdom: kingdom of saudi arabia.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56454,
+    "source_ar": "الإقليم: الأراضي البرية والمياه الإقليمية الخاضعة لسيادة المملكة والفضاء الجوي الذي يعلوهما.",
+    "target_en": "Territory: Lands and the territorial waters under the sovereignty of the Kingdom, and the air space thereover.",
+    "source_ar_norm": "الاقليم: الاراضي البرية والمياه الاقليمية الخاضعة لسيادة المملكة والفضاء الجوي الذي يعلوهما.",
+    "target_en_norm": "territory: lands and the territorial waters under the sovereignty of the kingdom, and the air space thereover.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56455,
+    "source_ar": "النظام: نظام تعريفة الطيران المدني.",
+    "target_en": "Law: Law of Civil Aviation Tariff.",
+    "source_ar_norm": "النظام: نظام تعريفة الطيران المدني.",
+    "target_en_norm": "law: law of civil aviation tariff.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56456,
+    "source_ar": "اللائحة: اللائحة التنفيذية لنظام تعريفة الطيران المدني.",
+    "target_en": "Regulations: Implementing Regulations of this Law.",
+    "source_ar_norm": "اللائحة: اللائحة التنفيذية لنظام تعريفة الطيران المدني.",
+    "target_en_norm": "regulations: implementing regulations of this law.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56457,
+    "source_ar": "الهيئة: الهيئة العامة للطيران المدني.",
+    "target_en": "GACA: General Authority of Civil Aviation.",
+    "source_ar_norm": "الهيئة: الهيئة العامة للطيران المدني.",
+    "target_en_norm": "gaca: general authority of civil aviation.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56458,
+    "source_ar": "مجلس الإدارة: مجلس إدارة الهيئة العامة للطيران المدني.",
+    "target_en": "Board: GACA’s Board of Directors.",
+    "source_ar_norm": "مجلس الادارة: مجلس ادارة الهيئة العامة للطيران المدني.",
+    "target_en_norm": "board: gaca’s board of directors.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56459,
+    "source_ar": "الرئيس: رئيس الهيئة العامة للطيران المدني.",
+    "target_en": "President: President of GACA.",
+    "source_ar_norm": "الرئيس: رئيس الهيئة العامة للطيران المدني.",
+    "target_en_norm": "president: president of gaca.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56460,
+    "source_ar": "الطائرة: أي آلة في استطاعتها أن تستمد بقاءها في الجو من ردود فعل الهواء غير تلك المنعكسة من سطح الأرض.",
+    "target_en": "Aircraft: Any machine that can derive support in the atmosphere from the reactions of the air other than the reactions of the air against the earth's surface.",
+    "source_ar_norm": "الطائرة: اي الة في استطاعتها ان تستمد بقاءها في الجو من ردود فعل الهواء غير تلك المنعكسة من سطح الارض.",
+    "target_en_norm": "aircraft: any machine that can derive support in the atmosphere from the reactions of the air other than the reactions of the air against the earth's surface.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56461,
+    "source_ar": "المطار: مساحة محددة من سطح الأرض أو الماء بما فيها من مبان ومنشآت ومعدات مخصصة كليًا أو جزئيًا لوصول الطائرات أو تحركها أو مغادرتها.",
+    "target_en": "Aerodrome: A defined area on land or water (including any buildings, installations, and equipment) intended to be used either wholly or partially for the arrival, departure, and surface movement of aircraft.",
+    "source_ar_norm": "المطار: مساحة محددة من سطح الارض او الماء بما فيها من مبان ومنشات ومعدات مخصصة كليا او جزئيا لوصول الطائرات او تحركها او مغادرتها.",
+    "target_en_norm": "aerodrome: a defined area on land or water (including any buildings, installations, and equipment) intended to be used either wholly or partially for the arrival, departure, and surface movement of aircraft.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56462,
+    "source_ar": "المطار الدولي: مطار تعينه المملكة في إقليمها لدخول وخروج الحركة الجوية الدولية، وتتخذ فيه الإجراءات المتعلقة بالجمارك والجوازات والصحة والحجر الصحي – بما فيه الحجر على الحيوانات والنباتات – وغيرها من الإجراءات المشابهة.",
+    "target_en": "International Aerodrome: An aerodrome designated by the Kingdom within its territory for the entry and exit of international air traffic where the procedures pertaining to customs, passport control, health, and quarantine, including animal and plant quarantine, and other similar procedures are implemented.",
+    "source_ar_norm": "المطار الدولي: مطار تعينه المملكة في اقليمها لدخول وخروج الحركة الجوية الدولية، وتتخذ فيه الاجراءات المتعلقة بالجمارك والجوازات والصحة والحجر الصحي – بما فيه الحجر علي الحيوانات والنباتات – وغيرها من الاجراءات المشابهة.",
+    "target_en_norm": "international aerodrome: an aerodrome designated by the kingdom within its territory for the entry and exit of international air traffic where the procedures pertaining to customs, passport control, health, and quarantine, including animal and plant quarantine, and other similar procedures are implemented.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56463,
+    "source_ar": "المطار الإقليمي: مطار تعينه المملكة في إقليمها لاستقبال الرحلات الداخلية المجدولة مع توافر خدمات المطار الدولي بصفة محددة، كإجراءات الجوازات والجمارك؛ لاستقبال رحلات دولية إذا ما دعت الحاجة.",
+    "target_en": "Regional Aerodrome: An aerodrome designated by the Kingdom within its territory to receive scheduled domestic flights, in which specific international aerodrome services are available, such as passport control and customs, for the purpose of receiving international flights, when needed.",
+    "source_ar_norm": "المطار الاقليمي: مطار تعينه المملكة في اقليمها لاستقبال الرحلات الداخلية المجدولة مع توافر خدمات المطار الدولي بصفة محددة، كاجراءات الجوازات والجمارك؛ لاستقبال رحلات دولية اذا ما دعت الحاجة.",
+    "target_en_norm": "regional aerodrome: an aerodrome designated by the kingdom within its territory to receive scheduled domestic flights, in which specific international aerodrome services are available, such as passport control and customs, for the purpose of receiving international flights, when needed.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56464,
+    "source_ar": "المطار المحلي: مطار تعينه المملكة في إقليمها لاستقبال الرحلات الداخلية فقط، ولا تتوافر فيه خدمات إنهاء إجراءات السفر الخارجي من جوازات وجمارك وخلافه.",
+    "target_en": "Domestic Aerodrome: An aerodrome designated by the Kingdom within its territory to receive domestic flights, without providing international flight procedures such as passport control, customs, and the like.",
+    "source_ar_norm": "المطار المحلي: مطار تعينه المملكة في اقليمها لاستقبال الرحلات الداخلية فقط، ولا تتوافر فيه خدمات انهاء اجراءات السفر الخارجي من جوازات وجمارك وخلافه.",
+    "target_en_norm": "domestic aerodrome: an aerodrome designated by the kingdom within its territory to receive domestic flights, without providing international flight procedures such as passport control, customs, and the like.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56465,
+    "source_ar": "الأجور: مبالغ تدفع لقاء خدمات تقدمها الهيئة، كأجور الخدمات الملاحية وإصدار التراخيص والرخص وتجديداتها واستخدامات منشآت ومرافق المطارات ونحوها.",
+    "target_en": "Charges: Amounts paid for services rendered by GACA, such as navigational services, issuance and renewal of permits and licenses, use of aerodrome installations and facilities, and the like.",
+    "source_ar_norm": "الاجور: مبالغ تدفع لقاء خدمات تقدمها الهيئة، كاجور الخدمات الملاحية واصدار التراخيص والرخص وتجديداتها واستخدامات منشات ومرافق المطارات ونحوها.",
+    "target_en_norm": "charges: amounts paid for services rendered by gaca, such as navigational services, issuance and renewal of permits and licenses, use of aerodrome installations and facilities, and the like.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56466,
+    "source_ar": "الإيجار: مبلغ يدفع بموجب عقد إيجار استثماري للانتفاع بالممتلكات أو مقابل استثمار مرافق تجارية، كصالات السفر وأماكن خدمات العفش والمباني والأراضي والمحلات التجارية ونحوها.",
+    "target_en": "Rent: An amount paid under an investment lease contract for property utilization or paid for investment in commercial facilities, such as terminals, baggage service areas, buildings, lands, shops, and the like.",
+    "source_ar_norm": "الايجار: مبلغ يدفع بموجب عقد ايجار استثماري للانتفاع بالممتلكات او مقابل استثمار مرافق تجارية، كصالات السفر واماكن خدمات العفش والمباني والاراضي والمحلات التجارية ونحوها.",
+    "target_en_norm": "rent: an amount paid under an investment lease contract for property utilization or paid for investment in commercial facilities, such as terminals, baggage service areas, buildings, lands, shops, and the like.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56467,
+    "source_ar": "السجل: السجل السعودي الوطني لتسجيل الطائرات، الذي تعده وتشرف عليه الهيئة.",
+    "target_en": "Register: The Saudi National Aircraft Register, prepared and supervised by GACA.",
+    "source_ar_norm": "السجل: السجل السعودي الوطني لتسجيل الطائرات، الذي تعده وتشرف عليه الهيئة.",
+    "target_en_norm": "register: the saudi national aircraft register, prepared and supervised by gaca.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56468,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56469,
+    "source_ar": "يجب على مؤسسات وشركات النقل الجوي الوطنية والأجنبية دفع أجور خدمات الطيران المدني التي تستحق عن عملياتها ورحلاتها داخل المملكة ومنها وإليها وعبر أجوائها وفق أحكام هذا النظام، ولائحته.",
+    "target_en": "National and foreign air carriers, companies or sole proprietorships, shall pay the charges due for civil aviation services for carrying out their operations and domestic and inbound and outbound international flights, as well as charges for flying over the Kingdom’s airspace, in accordance with the provisions of this Law and its Regulations.",
+    "source_ar_norm": "يجب علي مؤسسات وشركات النقل الجوي الوطنية والاجنبية دفع اجور خدمات الطيران المدني التي تستحق عن عملياتها ورحلاتها داخل المملكة ومنها واليها وعبر اجوائها وفق احكام هذا النظام، ولائحته.",
+    "target_en_norm": "national and foreign air carriers, companies or sole proprietorships, shall pay the charges due for civil aviation services for carrying out their operations and domestic and inbound and outbound international flights, as well as charges for flying over the kingdom’s airspace, in accordance with the provisions of this law and its regulations.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56470,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56471,
+    "source_ar": "تدفع الأجور المستحقة بموجب هذا النظام بالريال السعودي أو بعملة أجنبية قابلة للتحويل.",
+    "target_en": "Due charges under this Law shall be paid in Saudi riyal or a convertible foreign currency.",
+    "source_ar_norm": "تدفع الاجور المستحقة بموجب هذا النظام بالريال السعودي او بعملة اجنبية قابلة للتحويل.",
+    "target_en_norm": "due charges under this law shall be paid in saudi riyal or a convertible foreign currency.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56472,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56473,
+    "source_ar": "1 - تستوفى مبالغ الأجور والإيجارات المقررة بموجب هذا النظام، وتودع في حساب الهيئة في مؤسسة النقد العربي السعودي وفقاً للأنظمة المعمول بها في المملكة.",
+    "target_en": "1. The amounts of charges and rents stipulated in this Law shall be collected and deposited in GACA’s account with the Saudi Central Bank in accordance with the laws applicable in the Kingdom.",
+    "source_ar_norm": "1 - تستوفي مبالغ الاجور والايجارات المقررة بموجب هذا النظام، وتودع في حساب الهيئة في مؤسسة النقد العربي السعودي وفقا للانظمة المعمول بها في المملكة.",
+    "target_en_norm": "1. the amounts of charges and rents stipulated in this law shall be collected and deposited in gaca’s account with the saudi central bank in accordance with the laws applicable in the kingdom.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56474,
+    "source_ar": "2 - في حالة تأخير سداد الأجور عن موعد الاستحقاق، رغم تكرار المطالبة بالسداد، وعدم وجود ضمان يستوفى منه مبلغ الأجر، يعد المتأخر عن السداد مماطلاً، وتستوفى منه غرامة تأخير لا تتجاوز (30%) ثلاثين في المائة من المبلغ المستحق، وتودع الغرامة في الخزينة العامة للدولة.",
+    "target_en": "2. Defaulting on payment of due charges, despite being served several demands for payment and in the absence of a guarantee, shall be deemed a deliberate default and a fine not exceeding 30% of the amount due shall be imposed. Such fine shall be deposited in the Public Treasury.",
+    "source_ar_norm": "2 - في حالة تاخير سداد الاجور عن موعد الاستحقاق، رغم تكرار المطالبة بالسداد، وعدم وجود ضمان يستوفي منه مبلغ الاجر، يعد المتاخر عن السداد مماطلا، وتستوفي منه غرامة تاخير لا تتجاوز (30%) ثلاثين في المائة من المبلغ المستحق، وتودع الغرامة في الخزينة العامة للدولة.",
+    "target_en_norm": "2. defaulting on payment of due charges, despite being served several demands for payment and in the absence of a guarantee, shall be deemed a deliberate default and a fine not exceeding 30% of the amount due shall be imposed. such fine shall be deposited in the public treasury.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56475,
+    "source_ar": "3 - على الهيئة تضمين العقد الذي تبرمه مع المستأجر نصاً يقضي بإلزامه بتقديم ضمان بنكي عند توقيع العقد بما يعادل ما نسبته (30%) ثلاثون في المائة من قيمته، كضمان لاستيفاء الإيجار المستحق عليه، ويكون هذا الضمان ساري المفعول وغير قابل للإلغاء إلا بعد انتهاء مدة العقد وبموافقة الهيئة، ويستوفى منه أيُّ مبلغ يُستحق على المستأجر فور استحقاقه وفق أحكام العقد، مع مطالبته بتغطية ما نقص من مبلغ الضمان فوراً.",
+    "target_en": "3. GACA shall, in the contracts it concludes with lessees, include a provision requiring the lessee, upon signing the contract, to provide a bank guarantee equivalent to 30% of its value for the purpose of satisfying the rent. Such guarantee shall be valid and irrevocable, and may only be revoked upon the expiry of the contract term and with the approval of GACA. Any rent shall be collected from the guarantee as soon as it becomes due in accordance with the provisions of the contract, and the lessee shall immediately replenish the guarantee.",
+    "source_ar_norm": "3 - علي الهيئة تضمين العقد الذي تبرمه مع المستاجر نصا يقضي بالزامه بتقديم ضمان بنكي عند توقيع العقد بما يعادل ما نسبته (30%) ثلاثون في المائة من قيمته، كضمان لاستيفاء الايجار المستحق عليه، ويكون هذا الضمان ساري المفعول وغير قابل للالغاء الا بعد انتهاء مدة العقد وبموافقة الهيئة، ويستوفي منه اي مبلغ يستحق علي المستاجر فور استحقاقه وفق احكام العقد، مع مطالبته بتغطية ما نقص من مبلغ الضمان فورا.",
+    "target_en_norm": "3. gaca shall, in the contracts it concludes with lessees, include a provision requiring the lessee, upon signing the contract, to provide a bank guarantee equivalent to 30% of its value for the purpose of satisfying the rent. such guarantee shall be valid and irrevocable, and may only be revoked upon the expiry of the contract term and with the approval of gaca. any rent shall be collected from the guarantee as soon as it becomes due in accordance with the provisions of the contract, and the lessee shall immediately replenish the guarantee.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56476,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56477,
+    "source_ar": "يستوفى رسم مغادرة مقداره خمسون (50) ريالا على كل فرد يغادر المملكة عبر مطاراتها، لمجلس الإدارة تحديد ما يتم استحصاله من كل فرد يغادر المملكة عبر مطاراتها، وله تقرير عدم استحصاله في الحالات التي يقدرها.",
+    "target_en": "A departure fee of fifty riyals shall be collected from each individual exiting the Kingdom through its aerodromes. The Board may determine the charges to be collected from each individual departing the Kingdom through any of its aerodromes, as well as the cases where such charges are not collected.",
+    "source_ar_norm": "يستوفي رسم مغادرة مقداره خمسون (50) ريالا علي كل فرد يغادر المملكة عبر مطاراتها، لمجلس الادارة تحديد ما يتم استحصاله من كل فرد يغادر المملكة عبر مطاراتها، وله تقرير عدم استحصاله في الحالات التي يقدرها.",
+    "target_en_norm": "a departure fee of fifty riyals shall be collected from each individual exiting the kingdom through its aerodromes. the board may determine the charges to be collected from each individual departing the kingdom through any of its aerodromes, as well as the cases where such charges are not collected.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56478,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56479,
+    "source_ar": "لا يسمح لأي طائرة بمغادرة أرض المطار إذا هبطت فيه قبل أن تدفع جميع الأجور التي تستحق عليها، إلا إذا كان للجهة التي تتبعها تلك الطائرة وكيل أو ممثل مسؤول في المملكة ومعتمد من قبل الهيئة يقوم بدفع جميع الأجور المستحقة عليها وفقًا لأحكام هذا النظام ولائحته.",
+    "target_en": "An aircraft may not depart from an aerodrome prior to the payment of all due charges, unless the entity to which the aircraft belongs has an official agent or representative in the Kingdom authorized by GACA; in such case the due charges shall be collected from such agent or representative, in accordance with the provisions of this Law and its Regulations.",
+    "source_ar_norm": "لا يسمح لاي طائرة بمغادرة ارض المطار اذا هبطت فيه قبل ان تدفع جميع الاجور التي تستحق عليها، الا اذا كان للجهة التي تتبعها تلك الطائرة وكيل او ممثل مسؤول في المملكة ومعتمد من قبل الهيئة يقوم بدفع جميع الاجور المستحقة عليها وفقا لاحكام هذا النظام ولائحته.",
+    "target_en_norm": "an aircraft may not depart from an aerodrome prior to the payment of all due charges, unless the entity to which the aircraft belongs has an official agent or representative in the kingdom authorized by gaca; in such case the due charges shall be collected from such agent or representative, in accordance with the provisions of this law and its regulations.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56480,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56481,
+    "source_ar": "تحسب جميع الأجور الواردة في هذا النظام على الطائرات على أساس أقصى وزن تستطيع الطائرة الإقلاع به، المبين في شهادة صلاحية الطيران التي تحملها الطائرة.",
+    "target_en": "The aircraft charges provided for in this Law shall be calculated based on the maximum takeoff weight, as indicated in its airworthiness certificate.",
+    "source_ar_norm": "تحسب جميع الاجور الواردة في هذا النظام علي الطائرات علي اساس اقصي وزن تستطيع الطائرة الاقلاع به، المبين في شهادة صلاحية الطيران التي تحملها الطائرة.",
+    "target_en_norm": "the aircraft charges provided for in this law shall be calculated based on the maximum takeoff weight, as indicated in its airworthiness certificate.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56482,
+    "source_ar": "وتجبر الكسور التي تبدأ من (500) خمسمائة كيلو جرام في جميع الأوزان، وما دون ذلك لا يحسب.",
+    "target_en": "Fractions starting from 500 kg shall be rounded up in all weights. Any weight below 500 kg shall not be calculated.",
+    "source_ar_norm": "وتجبر الكسور التي تبدا من (500) خمسمائة كيلو جرام في جميع الاوزان، وما دون ذلك لا يحسب.",
+    "target_en_norm": "fractions starting from 500 kg shall be rounded up in all weights. any weight below 500 kg shall not be calculated.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56483,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56484,
+    "source_ar": "تستوفي الهيئة الأجور المستحقة عن عمليات النقل الجوي ورحلاتها داخل المملكة ومنها وإليها وفقا لما تحدده اللائحة. وذلك عن الفئات الآتية:",
+    "target_en": "GACA shall collect due charges for air carriage operations and domestic flights and inbound and outbound international flights in accordance with the Regulations, for the following categories:",
+    "source_ar_norm": "تستوفي الهيئة الاجور المستحقة عن عمليات النقل الجوي ورحلاتها داخل المملكة ومنها واليها وفقا لما تحدده اللائحة. وذلك عن الفئات الاتية:",
+    "target_en_norm": "gaca shall collect due charges for air carriage operations and domestic flights and inbound and outbound international flights in accordance with the regulations, for the following categories:",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56485,
+    "source_ar": "1 - الهبوط.",
+    "target_en": "1. Landing.",
+    "source_ar_norm": "1 - الهبوط.",
+    "target_en_norm": "1. landing.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56486,
+    "source_ar": "2 - الإيواء.",
+    "target_en": "2. Hangaring.",
+    "source_ar_norm": "2 - الايواء.",
+    "target_en_norm": "2. hangaring.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56487,
+    "source_ar": "3 - الملاحة الجوية للطائرات العابرة والهابطة.",
+    "target_en": "3. Air navigation for passing and landing aircraft.",
+    "source_ar_norm": "3 - الملاحة الجوية للطائرات العابرة والهابطة.",
+    "target_en_norm": "3. air navigation for passing and landing aircraft.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56488,
+    "source_ar": "4 - انتقال الركاب باستخدام وسائل النقل المختلفة، ويشمل ذلك انتقال الركاب إلى الطائرات أو العكس عن طريق الجسور المعلقة التي تصل بين الصالات وأبواب الطائرات لكل طائرة.",
+    "target_en": "4. Transporting passengers using various means including jet bridges.",
+    "source_ar_norm": "4 - انتقال الركاب باستخدام وسائل النقل المختلفة، ويشمل ذلك انتقال الركاب الي الطائرات او العكس عن طريق الجسور المعلقة التي تصل بين الصالات وابواب الطائرات لكل طائرة.",
+    "target_en_norm": "4. transporting passengers using various means including jet bridges.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56489,
+    "source_ar": "5 - خدمات أمنية عن كل طائرة مغادرة من أحد مطارات المملكة، وتستثنى من هذه الأجور الطائرات المواصلة في رحلات دولية وطائرات الشحن.",
+    "target_en": "5. Security services for each aircraft departing from any aerodrome in the Kingdom, excluding aircraft of international connecting flights and cargo aircraft.",
+    "source_ar_norm": "5 - خدمات امنية عن كل طائرة مغادرة من احد مطارات المملكة، وتستثني من هذه الاجور الطائرات المواصلة في رحلات دولية وطائرات الشحن.",
+    "target_en_norm": "5. security services for each aircraft departing from any aerodrome in the kingdom, excluding aircraft of international connecting flights and cargo aircraft.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56490,
+    "source_ar": "6 - خدمات حراسة، وذلك مقابل حراسة الطائرة عند الطلب.",
+    "target_en": "6. Guarding services for aircraft, upon request.",
+    "source_ar_norm": "6 - خدمات حراسة، وذلك مقابل حراسة الطائرة عند الطلب.",
+    "target_en_norm": "6. guarding services for aircraft, upon request.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56491,
+    "source_ar": "7 - سحب الطائرة في حال طلب المالك سحبها.",
+    "target_en": "7. Aircraft towing upon the owner's request.",
+    "source_ar_norm": "7 - سحب الطائرة في حال طلب المالك سحبها.",
+    "target_en_norm": "7. aircraft towing upon the owner's request.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56492,
+    "source_ar": "8 - استخدام السيارات والمعدات الأرضية المخصصة لخدمات الطائرات للسنة الواحدة أو أجزائها.",
+    "target_en": "8. Use of vehicles and ground support equipment designated for aircraft services for one year or parts thereof.",
+    "source_ar_norm": "8 - استخدام السيارات والمعدات الارضية المخصصة لخدمات الطائرات للسنة الواحدة او اجزائها.",
+    "target_en_norm": "8. use of vehicles and ground support equipment designated for aircraft services for one year or parts thereof.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56493,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56494,
+    "source_ar": "تستوفي الهيئة أجورا تحددها اللائحة مقابل إصدار التصاريح الآتية:",
+    "target_en": "GACA shall collect charges, to be specified in the Regulations, for the issuance of the following permits:",
+    "source_ar_norm": "تستوفي الهيئة اجورا تحددها اللائحة مقابل اصدار التصاريح الاتية:",
+    "target_en_norm": "gaca shall collect charges, to be specified in the regulations, for the issuance of the following permits:",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56495,
+    "source_ar": "1 - تصريح الدخول لساحة المطارات أو صالات السفر ويشمل ذلك صالات الحج للأشخاص الذين يحق لهم دخولها",
+    "target_en": "1. Permits issued to authorized persons to access airfields or terminals, including Hajj terminals.",
+    "source_ar_norm": "1 - تصريح الدخول لساحة المطارات او صالات السفر ويشمل ذلك صالات الحج للاشخاص الذين يحق لهم دخولها",
+    "target_en_norm": "1. permits issued to authorized persons to access airfields or terminals, including hajj terminals.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56496,
+    "source_ar": "2 - تصريح قيادة سيارة داخل ساحة المطار للشخص الذي يحق له دخول الساحة ويحمل رخصة قيادة من الجهات المعنية",
+    "target_en": "2. Permits for driving vehicles within airfields issued to authorized persons holding a driver's license issued by the competent authorities.",
+    "source_ar_norm": "2 - تصريح قيادة سيارة داخل ساحة المطار للشخص الذي يحق له دخول الساحة ويحمل رخصة قيادة من الجهات المعنية",
+    "target_en_norm": "2. permits for driving vehicles within airfields issued to authorized persons holding a driver's license issued by the competent authorities.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56497,
+    "source_ar": "وفي حالة فقدان أي من التصاريح المحددة في هذه المادة تصدر الجهة المعنية تصريحاً بدلاً منه وفق آلية تحددها اللائحة.",
+    "target_en": "In case of loss of any of the permits provided for in this Article, the competent authority shall issue a replacement pursuant to the procedures specified in the Regulations.",
+    "source_ar_norm": "وفي حالة فقدان اي من التصاريح المحددة في هذه المادة تصدر الجهة المعنية تصريحا بدلا منه وفق الية تحددها اللائحة.",
+    "target_en_norm": "in case of loss of any of the permits provided for in this article, the competent authority shall issue a replacement pursuant to the procedures specified in the regulations.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56498,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56499,
+    "source_ar": "تستوفي الهيئة أجوراٌ تحددها اللائحة مقابل الخدمات الآتية:",
+    "target_en": "GACA shall collect charges, to be specified in the Regulations, for the following services:",
+    "source_ar_norm": "تستوفي الهيئة اجورا تحددها اللائحة مقابل الخدمات الاتية:",
+    "target_en_norm": "gaca shall collect charges, to be specified in the regulations, for the following services:",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  },
+  {
+    "id": 56500,
+    "source_ar": "1 - تسجيل الطائرات في السجل، وذلك عند الإصدار أو التجديد.",
+    "target_en": "1. Registration of aircraft in the Register upon issuance and renewal.",
+    "source_ar_norm": "1 - تسجيل الطائرات في السجل، وذلك عند الاصدار او التجديد.",
+    "target_en_norm": "1. registration of aircraft in the register upon issuance and renewal.",
+    "file_name": "نظام تعريفة الطيران المدني.docx"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 58401,
+    "source_ar": "المادة السادسة عشرة:",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة:",
+    "target_en_norm": "article 16",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58402,
+    "source_ar": "يُنشر هذا النِظام في الجريدة الرسمية، ويُعمل بِه بعد مائة وثمانين يوماً من تاريخ نشرِّه.",
+    "target_en": "This Law shall be published in the Official Gazette and shall enter into force 180 days following the date of its publication.",
+    "source_ar_norm": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به بعد مائة وثمانين يوما من تاريخ نشره.",
+    "target_en_norm": "this law shall be published in the official gazette and shall enter into force 180 days following the date of its publication.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58403,
+    "source_ar": "نظام سلامة المنتجات",
+    "target_en": "Product Safety Law",
+    "source_ar_norm": "نظام سلامة المنتجات",
+    "target_en_norm": "product safety law",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58404,
+    "source_ar": "الباب الأول التعريفات",
+    "target_en": "Part 1: Definitions",
+    "source_ar_norm": "الباب الاول التعريفات",
+    "target_en_norm": "part 1: definitions",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58405,
+    "source_ar": "المادة الأولى",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي",
+    "target_en_norm": "article 1",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58406,
+    "source_ar": "يقصد بالعبارات والمصطلحات الآتية -أينما وردت في هذا النظام- المعاني المبينة أمامها، ما لم يقتضِ السياق غير ذلك:",
+    "target_en": "In this Law, the following words and phrases shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "source_ar_norm": "يقصد بالعبارات والمصطلحات الاتية -اينما وردت في هذا النظام- المعاني المبينة امامها، ما لم يقتض السياق غير ذلك:",
+    "target_en_norm": "in this law, the following words and phrases shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58407,
+    "source_ar": "1-النظام: نظام سلامة المنتجات.",
+    "target_en": "1-Law: Product Safety Law.",
+    "source_ar_norm": "1-النظام: نظام سلامة المنتجات.",
+    "target_en_norm": "1-law: product safety law.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58408,
+    "source_ar": "2-اللوائح: اللائحة التنفيذية للنظام، وغيرها من اللوائح التي تصدر بموجب أحكامه.",
+    "target_en": "2-Regulations: Implementing Regulations of the Law, and other regulations issued pursuant to its provisions.",
+    "source_ar_norm": "2-اللوائح: اللائحة التنفيذية للنظام، وغيرها من اللوائح التي تصدر بموجب احكامه.",
+    "target_en_norm": "2-regulations: implementing regulations of the law, and other regulations issued pursuant to its provisions.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58409,
+    "source_ar": "3-الهيئة: الهيئة السعودية للمواصفات والمقاييس والجودة.",
+    "target_en": "3-Organization: Saudi Standards, Metrology, and Quality Organization.",
+    "source_ar_norm": "3-الهيئة: الهيئة السعودية للمواصفات والمقاييس والجودة.",
+    "target_en_norm": "3-organization: saudi standards, metrology, and quality organization.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58410,
+    "source_ar": "4-المجلس: مجلس إدارة الهيئة.",
+    "target_en": "4-Board: Board of Directors of the Organization.",
+    "source_ar_norm": "4-المجلس: مجلس ادارة الهيئة.",
+    "target_en_norm": "4-board: board of directors of the organization.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58411,
+    "source_ar": "5-المحافظ: محافظ الهيئة.",
+    "target_en": "5-Governor: Governor of the Organization.",
+    "source_ar_norm": "5-المحافظ: محافظ الهيئة.",
+    "target_en_norm": "5-governor: governor of the organization.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58412,
+    "source_ar": "6-اللجنة: لجنة النظر في مخالفات أحكام النظام واللوائح.",
+    "target_en": "6-Committee: Committee for reviewing violations of the provisions of the Law and the Regulations.",
+    "source_ar_norm": "6-اللجنة: لجنة النظر في مخالفات احكام النظام واللوائح.",
+    "target_en_norm": "6-committee: committee for reviewing violations of the provisions of the law and the regulations.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58413,
+    "source_ar": "7-مراقبة الأسواق: أي مهمة تباشرها الجهات المختصة؛ للتحقق من توافق المنتجات مع أحكام النظام واللوائح.",
+    "target_en": "7-Market Surveillance: Any task carried out by the competent authorities to ensure that products are in compliance with the provisions of the Law and the Regulations.",
+    "source_ar_norm": "7-مراقبة الاسواق: اي مهمة تباشرها الجهات المختصة؛ للتحقق من توافق المنتجات مع احكام النظام واللوائح.",
+    "target_en_norm": "7-market surveillance: any task carried out by the competent authorities to ensure that products are in compliance with the provisions of the law and the regulations.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58414,
+    "source_ar": "8-الجهات المختصة: الجهات المسؤولة عن مراقبة الأسواق وفقاً لأحكام النظام واللوائح.",
+    "target_en": "8-Competent Authorities: Authorities in charge of market surveillance in accordance with the provisions of the Law and the Regulations.",
+    "source_ar_norm": "8-الجهات المختصة: الجهات المسؤولة عن مراقبة الاسواق وفقا لاحكام النظام واللوائح.",
+    "target_en_norm": "8-competent authorities: authorities in charge of market surveillance in accordance with the provisions of the law and the regulations.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58415,
+    "source_ar": "9-المنتج: أي منتج يُوضع أو يُعرض في الأسواق.",
+    "target_en": "9-Product: Any product placed or made available on the market.",
+    "source_ar_norm": "9-المنتج: اي منتج يوضع او يعرض في الاسواق.",
+    "target_en_norm": "9-product: any product placed or made available on the market.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58416,
+    "source_ar": "10-فئة المنتج: مجموعة من المنتجات التي تشترك معاً في صفات وخصائص محددة.",
+    "target_en": "10-Product Category: A set of products that share specific characteristics and properties.",
+    "source_ar_norm": "10-فئة المنتج: مجموعة من المنتجات التي تشترك معا في صفات وخصائص محددة.",
+    "target_en_norm": "10-product category: a set of products that share specific characteristics and properties.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58417,
+    "source_ar": "11-الوضع في الأسواق: وضع المُنتَج في الأسواق.",
+    "target_en": "11-Placing on the Market: To place a product on the market.",
+    "source_ar_norm": "11-الوضع في الاسواق: وضع المنتج في الاسواق.",
+    "target_en_norm": "11-placing on the market: to place a product on the market.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58418,
+    "source_ar": "12-العرض في الأسواق: أي إمداد أو إعلان لمُنتَج بهدف التوزيع أو الاستهلاك في إطار نشاط تجاري سواء كان ذلك بمقابل مادي أو بدون مقابل.",
+    "target_en": "12-Making Available on the Market: Any supply or advertisement of a product for the purpose of distribution or consumption in the context of a commercial activity, whether with or without financial consideration.",
+    "source_ar_norm": "12-العرض في الاسواق: اي امداد او اعلان لمنتج بهدف التوزيع او الاستهلاك في اطار نشاط تجاري سواء كان ذلك بمقابل مادي او بدون مقابل.",
+    "target_en_norm": "12-making available on the market: any supply or advertisement of a product for the purpose of distribution or consumption in the context of a commercial activity, whether with or without financial consideration.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58419,
+    "source_ar": "13-المستهلك: شخص طبيعي أو اعتباري يستخدم منتجًا.",
+    "target_en": "13-Consumer: A natural or legal person who uses a product.",
+    "source_ar_norm": "13-المستهلك: شخص طبيعي او اعتباري يستخدم منتجا.",
+    "target_en_norm": "13-consumer: a natural or legal person who uses a product.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58420,
+    "source_ar": "14-سلسلة الإمداد: جميع المراحل التي يمر بها المنتج؛ وصولاً للاستخدام النهائي.",
+    "target_en": "14-Supply Chain: All the stages a product goes through until the end use thereof.",
+    "source_ar_norm": "14-سلسلة الامداد: جميع المراحل التي يمر بها المنتج؛ وصولا للاستخدام النهائي.",
+    "target_en_norm": "14-supply chain: all the stages a product goes through until the end use thereof.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58421,
+    "source_ar": "15-الصانع: شخص طبيعي أو اعتباري يقوم بتصنيع مُنتَج، أو يوكل تصنيعه إلى شخص طبيعي أو اعتباري آخر ثم يقوم بتسويقه تحت اسمه أو تحت علامته التجارية.",
+    "target_en": "15-Manufacturer: A natural or legal person that manufactures a product or entrusts the manufacture thereof to another natural or legal person then markets such product under his name or his trademark.",
+    "source_ar_norm": "15-الصانع: شخص طبيعي او اعتباري يقوم بتصنيع منتج، او يوكل تصنيعه الي شخص طبيعي او اعتباري اخر ثم يقوم بتسويقه تحت اسمه او تحت علامته التجارية.",
+    "target_en_norm": "15-manufacturer: a natural or legal person that manufactures a product or entrusts the manufacture thereof to another natural or legal person then markets such product under his name or his trademark.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58422,
+    "source_ar": "16-الممثل المعتمد: شخص طبيعي، أو شخص اعتباري تم تأسيسه في المملكة؛ حصل على تفويض من الصانع خارج المملكة للتصرف نيابة عنه وفق الإجراءات النظامية.",
+    "target_en": "16-Authorized Representative: A natural person, or a legal person established in the Kingdom, authorized by a manufacturer outside the Kingdom to act on his behalf in accordance with legal procedures.",
+    "source_ar_norm": "16-الممثل المعتمد: شخص طبيعي، او شخص اعتباري تم تاسيسه في المملكة؛ حصل علي تفويض من الصانع خارج المملكة للتصرف نيابة عنه وفق الاجراءات النظامية.",
+    "target_en_norm": "16-authorized representative: a natural person, or a legal person established in the kingdom, authorized by a manufacturer outside the kingdom to act on his behalf in accordance with legal procedures.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58423,
+    "source_ar": "17-المستورد: شخص طبيعي أو اعتباري يستورد منتجاً من خارج المملكة العربية السعودية إلى أحد أسواقها.",
+    "target_en": "17-Importer: A natural or legal person that imports a product from outside the Kingdom into any of its markets.",
+    "source_ar_norm": "17-المستورد: شخص طبيعي او اعتباري يستورد منتجا من خارج المملكة العربية السعودية الي احد اسواقها.",
+    "target_en_norm": "17-importer: a natural or legal person that imports a product from outside the kingdom into any of its markets.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58424,
+    "source_ar": "18-الموزع: شخص طبيعي أو اعتباري في سلسلة الإمداد -غير الصانع والمستورد- يعرض المنتج في الأسواق، أو يقدم في مجال النشاط التجاري ما لا يقل عن خدمتين من الخدمات الآتية: التخزين في المستودع، والتغليف، وتحديد العنوان، وتجهيز الإرسالية دون أن يكون مالكاً للمنتج.",
+    "target_en": "18-Distributor: A natural or legal person in the supply chain, other than the manufacturer and the importer, that makes a product available on the market or provides, in the field of the commercial activity, at least two of the following services without being the owner of the product: warehousing, packaging, address labeling, and shipment preparation.",
+    "source_ar_norm": "18-الموزع: شخص طبيعي او اعتباري في سلسلة الامداد -غير الصانع والمستورد- يعرض المنتج في الاسواق، او يقدم في مجال النشاط التجاري ما لا يقل عن خدمتين من الخدمات الاتية: التخزين في المستودع، والتغليف، وتحديد العنوان، وتجهيز الارسالية دون ان يكون مالكا للمنتج.",
+    "target_en_norm": "18-distributor: a natural or legal person in the supply chain, other than the manufacturer and the importer, that makes a product available on the market or provides, in the field of the commercial activity, at least two of the following services without being the owner of the product: warehousing, packaging, address labeling, and shipment preparation.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58425,
+    "source_ar": "ولا يشمل الموزع من يقدم أيّاً من الخدمات الآتية: الخدمات البريدية، وخدمات توصيل الطرود، وخدمات نقل البضائع.",
+    "target_en": "A distributor shall not include any person that provides any of the following services: postal services, package delivery services, and cargo transportation services.",
+    "source_ar_norm": "ولا يشمل الموزع من يقدم ايا من الخدمات الاتية: الخدمات البريدية، وخدمات توصيل الطرود، وخدمات نقل البضائع.",
+    "target_en_norm": "a distributor shall not include any person that provides any of the following services: postal services, package delivery services, and cargo transportation services.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58426,
+    "source_ar": "19-المشغل الاقتصادي: الصانع، والممثل المعتمد، والمستورد، والموزع.",
+    "target_en": "19-Economic Operator: A manufacturer, authorized representative, importer, or distributor.",
+    "source_ar_norm": "19-المشغل الاقتصادي: الصانع، والممثل المعتمد، والمستورد، والموزع.",
+    "target_en_norm": "19-economic operator: a manufacturer, authorized representative, importer, or distributor.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58427,
+    "source_ar": "20-اللوائح الفنية: اللوائح المعتمدة من المجلس، التي تضع المتطلبات والمتطلبات الأساسية التي تطبق على منتج محدد أو فئة منتج بصفة إلزامية وفقاً لأحكام النظام.",
+    "target_en": "20-Technical Regulations: Regulations adopted by the Board that set the requirements and essential requirements to be mandatorily applied to a specific product or product category in accordance with the provisions of the Law.",
+    "source_ar_norm": "20-اللوائح الفنية: اللوائح المعتمدة من المجلس، التي تضع المتطلبات والمتطلبات الاساسية التي تطبق علي منتج محدد او فئة منتج بصفة الزامية وفقا لاحكام النظام.",
+    "target_en_norm": "20-technical regulations: regulations adopted by the board that set the requirements and essential requirements to be mandatorily applied to a specific product or product category in accordance with the provisions of the law.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58428,
+    "source_ar": "21-المتطلبات: جميع القواعد والوسائل والإجراءات التي يجب الالتزام بها وفقاً لأحكام النظام، وتشمل المتطلبات الأساسية.",
+    "target_en": "21-Requirements: All rules, methods, and procedures to be complied with in accordance with the provisions of the Law, including the essential requirements.",
+    "source_ar_norm": "21-المتطلبات: جميع القواعد والوسائل والاجراءات التي يجب الالتزام بها وفقا لاحكام النظام، وتشمل المتطلبات الاساسية.",
+    "target_en_norm": "21-requirements: all rules, methods, and procedures to be complied with in accordance with the provisions of the law, including the essential requirements.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58429,
+    "source_ar": "22-المتطلبات الأساسية: المتطلبات والنتائج ذات الصلة بالسلامة والصحة والبيئة التي يجب تحقيقها، أو ذات الصلة بالخطر والمخاطر التي يجب التعامل معها.",
+    "target_en": "22-Essential Requirements: Requirements and outcomes relating to safety, health, and the environment that must be met, or relating to hazards and risks that require action.",
+    "source_ar_norm": "22-المتطلبات الاساسية: المتطلبات والنتائج ذات الصلة بالسلامة والصحة والبيئة التي يجب تحقيقها، او ذات الصلة بالخطر والمخاطر التي يجب التعامل معها.",
+    "target_en_norm": "22-essential requirements: requirements and outcomes relating to safety, health, and the environment that must be met, or relating to hazards and risks that require action.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58430,
+    "source_ar": "23-المواصفة: وثيقة معتمدة تضع القواعد والتعليمات أو الخصائص للمُنتجَات أو العمليات وطرق الإنتاج ذات العلاقة، ولا يكون التقيد بها إلزاميًّا.",
+    "target_en": "23-Standard: An approved document that sets the rules, instructions, or properties of products or the processes and production methods related thereto; compliance with such document is not mandatory.",
+    "source_ar_norm": "23-المواصفة: وثيقة معتمدة تضع القواعد والتعليمات او الخصائص للمنتجات او العمليات وطرق الانتاج ذات العلاقة، ولا يكون التقيد بها الزاميا.",
+    "target_en_norm": "23-standard: an approved document that sets the rules, instructions, or properties of products or the processes and production methods related thereto; compliance with such document is not mandatory.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58431,
+    "source_ar": "24-المواصفة السعودية: المواصفة المعتمدة من المجلس، والتي تعتبر المواصفة الوطنية للمملكة.",
+    "target_en": "24-Saudi Standard: A standard approved by the Board and considered a national standard of the Kingdom.",
+    "source_ar_norm": "24-المواصفة السعودية: المواصفة المعتمدة من المجلس، والتي تعتبر المواصفة الوطنية للمملكة.",
+    "target_en_norm": "24-saudi standard: a standard approved by the board and considered a national standard of the kingdom.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58432,
+    "source_ar": "25-المواصفة الوطنية: المواصفة التي تبناها جهاز تقييس في إحدى الدول.",
+    "target_en": "25-National Standard: A standard adopted by a standardization body in a particular country.",
+    "source_ar_norm": "25-المواصفة الوطنية: المواصفة التي تبناها جهاز تقييس في احدي الدول.",
+    "target_en_norm": "25-national standard: a standard adopted by a standardization body in a particular country.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58433,
+    "source_ar": "26-المواصفة الإقليمية: المواصفة التي تبناها جهاز تقييس إقليمي.",
+    "target_en": "26-Regional Standard: A standard adopted by a regional standardization body.",
+    "source_ar_norm": "26-المواصفة الاقليمية: المواصفة التي تبناها جهاز تقييس اقليمي.",
+    "target_en_norm": "26-regional standard: a standard adopted by a regional standardization body.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58434,
+    "source_ar": "27-المواصفة الدولية: المواصفة التي تبناها جهاز تقييس دولي.",
+    "target_en": "27-International Standard: A standard adopted by an international standardization body.",
+    "source_ar_norm": "27-المواصفة الدولية: المواصفة التي تبناها جهاز تقييس دولي.",
+    "target_en_norm": "27-international standard: a standard adopted by an international standardization body.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58435,
+    "source_ar": "28-تقويم المطابقة: التأكد من أن المنتج أو الخدمة أو العملية أو الإجراء متوافق مع المتطلبات والمتطلبات الأساسية.",
+    "target_en": "28-Conformity Assessment: Verifying that a product, service, process, or procedure meets the requirements and essential requirements.",
+    "source_ar_norm": "28-تقويم المطابقة: التاكد من ان المنتج او الخدمة او العملية او الاجراء متوافق مع المتطلبات والمتطلبات الاساسية.",
+    "target_en_norm": "28-conformity assessment: verifying that a product, service, process, or procedure meets the requirements and essential requirements.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58436,
+    "source_ar": "29-إجراءات تقويم المطابقة: الإجراءات المستخدمة لتقويم المطابقة، والتي تشمل أنشطة المعايرة والاختبار ومنح الشهادات والتفتيش.",
+    "target_en": "29-Conformity Assessment Procedures: Procedures used for conformity assessment, including calibration, testing, certification, and inspection.",
+    "source_ar_norm": "29-اجراءات تقويم المطابقة: الاجراءات المستخدمة لتقويم المطابقة، والتي تشمل انشطة المعايرة والاختبار ومنح الشهادات والتفتيش.",
+    "target_en_norm": "29-conformity assessment procedures: procedures used for conformity assessment, including calibration, testing, certification, and inspection.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58437,
+    "source_ar": "30-الجهات المقبولة: هي جهات تقويم المطابقة التي تم قبولها من الهيئة وفقاً لأحكام النظام واللوائح.",
+    "target_en": "30-Notified Bodies: Conformity assessment bodies that are recognized by the Organization in accordance with the provisions of the Law and the Regulations.",
+    "source_ar_norm": "30-الجهات المقبولة: هي جهات تقويم المطابقة التي تم قبولها من الهيئة وفقا لاحكام النظام واللوائح.",
+    "target_en_norm": "30-notified bodies: conformity assessment bodies that are recognized by the organization in accordance with the provisions of the law and the regulations.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58438,
+    "source_ar": "31-إقرار المطابقة: وثيقة تصدر من المسؤول عن وضع المنتج في السوق قبل وضعه، يشهد فيها تحت مسؤوليته أن المنتج مستوفٍ للمتطلبات.",
+    "target_en": "31-Declaration of Conformity: A document issued by the person in charge of placing a product on the market prior to placement thereof, in which he certifies under his responsibility that the product meets the requirements.",
+    "source_ar_norm": "31-اقرار المطابقة: وثيقة تصدر من المسؤول عن وضع المنتج في السوق قبل وضعه، يشهد فيها تحت مسؤوليته ان المنتج مستوف للمتطلبات.",
+    "target_en_norm": "31-declaration of conformity: a document issued by the person in charge of placing a product on the market prior to placement thereof, in which he certifies under his responsibility that the product meets the requirements.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58439,
+    "source_ar": "32-مؤشر المطابقة: إجراء يحدد نسبة المنتجات المطابقة في الأسواق مع جميع الالتزامات المعمول بها والمتطلبات الأساسية.",
+    "target_en": "32-Conformity Index: A tool that determines the percentage of products on the market that conform to all applicable obligations and essential requirements.",
+    "source_ar_norm": "32-مؤشر المطابقة: اجراء يحدد نسبة المنتجات المطابقة في الاسواق مع جميع الالتزامات المعمول بها والمتطلبات الاساسية.",
+    "target_en_norm": "32-conformity index: a tool that determines the percentage of products on the market that conform to all applicable obligations and essential requirements.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58440,
+    "source_ar": "33-الخطر: أي خاصية أو عمل أو إغفال يشكل أو يحتمل أن يشكل خطراً على سلامة المستهلك في الأسواق أو على الممتلكات أو على البيئة.",
+    "target_en": "33-Hazard: Any property, action, or omission that endangers or is likely to endanger consumer safety, property, or the environment.",
+    "source_ar_norm": "33-الخطر: اي خاصية او عمل او اغفال يشكل او يحتمل ان يشكل خطرا علي سلامة المستهلك في الاسواق او علي الممتلكات او علي البيئة.",
+    "target_en_norm": "33-hazard: any property, action, or omission that endangers or is likely to endanger consumer safety, property, or the environment.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58441,
+    "source_ar": "34-المخاطر: الجمع بين احتمال حدوث الخطر وشدته، بما في ذلك الحالات التي قد لا تكون فيها الآثار ظاهرة أو فورية.",
+    "target_en": "34-Risks: The likelihood of the occurrence of a hazard and the severity thereof, including cases in which the effects are not likely to be apparent or immediate.",
+    "source_ar_norm": "34-المخاطر: الجمع بين احتمال حدوث الخطر وشدته، بما في ذلك الحالات التي قد لا تكون فيها الاثار ظاهرة او فورية.",
+    "target_en_norm": "34-risks: the likelihood of the occurrence of a hazard and the severity thereof, including cases in which the effects are not likely to be apparent or immediate.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58442,
+    "source_ar": "35-تقييم المخاطر: عملية تحديد أي خطر يمثله منتج ما والخطوات التي يجب اتخاذها لمنع هذا الخطر أو إزالته أو الحد منه أو التحكم فيه.",
+    "target_en": "35-Risk Assessment: The process of identifying any hazard presented by a product and the measures to be taken to prevent, eliminate, mitigate, or control such hazard.",
+    "source_ar_norm": "35-تقييم المخاطر: عملية تحديد اي خطر يمثله منتج ما والخطوات التي يجب اتخاذها لمنع هذا الخطر او ازالته او الحد منه او التحكم فيه.",
+    "target_en_norm": "35-risk assessment: the process of identifying any hazard presented by a product and the measures to be taken to prevent, eliminate, mitigate, or control such hazard.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58443,
+    "source_ar": "36-المخالفة الجسيمة: المخالفة التي من شأنها أن تؤدي إلى وقوع ضرر جسيم على صحة المستهلك أو سلامته أو الممتلكات أو البيئة.",
+    "target_en": "36-Serious Violation: A violation that could cause serious harm to the health and safety of the consumer, or to property or the environment.",
+    "source_ar_norm": "36-المخالفة الجسيمة: المخالفة التي من شانها ان تؤدي الي وقوع ضرر جسيم علي صحة المستهلك او سلامته او الممتلكات او البيئة.",
+    "target_en_norm": "36-serious violation: a violation that could cause serious harm to the health and safety of the consumer, or to property or the environment.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58444,
+    "source_ar": "37-المفتش: من يعين بقرار من المجلس لضبط أي مخالفات لأحكام النظام واللوائح.",
+    "target_en": "37-Inspector: A person appointed by a Board decision to detect and record any violation of the provisions of the Law and the Regulations.",
+    "source_ar_norm": "37-المفتش: من يعين بقرار من المجلس لضبط اي مخالفات لاحكام النظام واللوائح.",
+    "target_en_norm": "37-inspector: a person appointed by a board decision to detect and record any violation of the provisions of the law and the regulations.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58445,
+    "source_ar": "38-نظام التتبع: نظام يتيح تحديد وتتبع المنتج، والمشغل الاقتصادي المشارك في سلسلة الإمداد الخاصة به. ويشمل ذلك تطوير حلول إلكترونية ووضع ملصق على المنتج أو عبوته أو مستندات مصاحبة في حال تعذر وضعه على المنتج.",
+    "target_en": "38-Tracking System: A system that enables the identification and tracking of a product and the economic operator involved in its supply chain. Such system includes developing electronic solutions and affixing labels to products or the packages thereof, or including accompanying documents if affixing labels to the products is not feasible.",
+    "source_ar_norm": "38-نظام التتبع: نظام يتيح تحديد وتتبع المنتج، والمشغل الاقتصادي المشارك في سلسلة الامداد الخاصة به. ويشمل ذلك تطوير حلول الكترونية ووضع ملصق علي المنتج او عبوته او مستندات مصاحبة في حال تعذر وضعه علي المنتج.",
+    "target_en_norm": "38-tracking system: a system that enables the identification and tracking of a product and the economic operator involved in its supply chain. such system includes developing electronic solutions and affixing labels to products or the packages thereof, or including accompanying documents if affixing labels to the products is not feasible.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58446,
+    "source_ar": "39-الإجراءات التصحيحية: الإجراءات المتخذة لمنع أو تقليل أو إزالة الخطر المؤثر في السلامة.",
+    "target_en": "39-Corrective Measures: Actions taken to prevent, mitigate, or eliminate safety hazards.",
+    "source_ar_norm": "39-الاجراءات التصحيحية: الاجراءات المتخذة لمنع او تقليل او ازالة الخطر المؤثر في السلامة.",
+    "target_en_norm": "39-corrective measures: actions taken to prevent, mitigate, or eliminate safety hazards.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58447,
+    "source_ar": "40-استدعاء المنتج: إجراء يهدف إلى استرجاع المنتجات التي سبق وضعها أو عرضها للمستخدم النهائي.",
+    "target_en": "40-Product Recall: A procedure that aims to retrieve products previously placed on the market or made available to the end user.",
+    "source_ar_norm": "40-استدعاء المنتج: اجراء يهدف الي استرجاع المنتجات التي سبق وضعها او عرضها للمستخدم النهائي.",
+    "target_en_norm": "40-product recall: a procedure that aims to retrieve products previously placed on the market or made available to the end user.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58448,
+    "source_ar": "الباب الثاني أحكام عامة",
+    "target_en": "Part 2: General Provisions",
+    "source_ar_norm": "الباب الثاني احكام عامة",
+    "target_en_norm": "part 2: general provisions",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58449,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58450,
+    "source_ar": "يهدف النظام إلى حماية المستهلك من خلال منع الخطر المرتبط بالمنتجات التي توضع أو تعرض في أسواق المملكة، وبيان أسلوب التعامل مع الخطر والمخاطر المرتبطة بتلك المنتجات.",
+    "target_en": "This Law aims to protect consumers by preventing hazards associated with products placed or made available on the Kingdom's markets, and by indicating the manner in which the hazards and risks associated with such products are to be addressed.",
+    "source_ar_norm": "يهدف النظام الي حماية المستهلك من خلال منع الخطر المرتبط بالمنتجات التي توضع او تعرض في اسواق المملكة، وبيان اسلوب التعامل مع الخطر والمخاطر المرتبطة بتلك المنتجات.",
+    "target_en_norm": "this law aims to protect consumers by preventing hazards associated with products placed or made available on the kingdom's markets, and by indicating the manner in which the hazards and risks associated with such products are to be addressed.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58451,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58452,
+    "source_ar": "تطبق أحكام النظام على جميع المنتجات، وتشمل المنتجات المتداولة من خلال الوسائل الإلكترونية؛ عدا المنتجات المسند اختصاصها إلى الهيئة العامة للغذاء والدواء.",
+    "target_en": "The provisions of this Law shall apply to all products, including products circulated through electronic means. The provisions of this Law shall not, however, apply to products under the jurisdiction of the Saudi Food and Drug Authority.",
+    "source_ar_norm": "تطبق احكام النظام علي جميع المنتجات، وتشمل المنتجات المتداولة من خلال الوسائل الالكترونية؛ عدا المنتجات المسند اختصاصها الي الهيئة العامة للغذاء والدواء.",
+    "target_en_norm": "the provisions of this law shall apply to all products, including products circulated through electronic means. the provisions of this law shall not, however, apply to products under the jurisdiction of the saudi food and drug authority.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58453,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58454,
+    "source_ar": "تراعى المبادئ الآتية عند تطبيق أحكام النظام:",
+    "target_en": "For the application of the provisions of this Law, the following principles shall be observed:",
+    "source_ar_norm": "تراعي المبادئ الاتية عند تطبيق احكام النظام:",
+    "target_en_norm": "for the application of the provisions of this law, the following principles shall be observed:",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58455,
+    "source_ar": "1. عدم التمييز بين المنتجات المحلية والمستوردة، التي توضع أو تعرض في الأسواق، فيما يتصل بالإلزام باللوائح الفنية.",
+    "target_en": "1. Non-discrimination between local and imported products placed or made available on the market, in terms of compliance with the technical regulations.",
+    "source_ar_norm": "1. عدم التمييز بين المنتجات المحلية والمستوردة، التي توضع او تعرض في الاسواق، فيما يتصل بالالزام باللوائح الفنية.",
+    "target_en_norm": "1. non-discrimination between local and imported products placed or made available on the market, in terms of compliance with the technical regulations.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58456,
+    "source_ar": "2. تناسب المتطلبات والإجراءات التصحيحية والعقوبات التي تقرر وفقًا للنظام مع شدة الخطر وخطورة المخالفة.",
+    "target_en": "2. Proportionality of the requirements, corrective measures, and penalties prescribed under this Law with the severity of the hazard and the gravity of the violation.",
+    "source_ar_norm": "2. تناسب المتطلبات والاجراءات التصحيحية والعقوبات التي تقرر وفقا للنظام مع شدة الخطر وخطورة المخالفة.",
+    "target_en_norm": "2. proportionality of the requirements, corrective measures, and penalties prescribed under this law with the severity of the hazard and the gravity of the violation.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58457,
+    "source_ar": "3. التنسيق الفعال والتعاون بين جميع الجهات ذات العلاقة بتطبيق النظام.",
+    "target_en": "3. Effective coordination and cooperation between all entities concerned with the application of this Law.",
+    "source_ar_norm": "3. التنسيق الفعال والتعاون بين جميع الجهات ذات العلاقة بتطبيق النظام.",
+    "target_en_norm": "3. effective coordination and cooperation between all entities concerned with the application of this law.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58458,
+    "source_ar": "4. الشفافية في تطبيق أحكام النظام، وإشراك جميع أصحاب المصالح.",
+    "target_en": "4. Transparency in the application of the provisions of this Law, and engaging all stakeholders.",
+    "source_ar_norm": "4. الشفافية في تطبيق احكام النظام، واشراك جميع اصحاب المصالح.",
+    "target_en_norm": "4. transparency in the application of the provisions of this law, and engaging all stakeholders.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58459,
+    "source_ar": "الباب الثالث التزامات السلامة العامة",
+    "target_en": "Part 3: General Safety Obligations",
+    "source_ar_norm": "الباب الثالث التزامات السلامة العامة",
+    "target_en_norm": "part 3: general safety obligations",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58460,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58461,
+    "source_ar": "تحظر صناعة المنتجات غير الآمنة أو استيرادها أو تسويقها أو تداولها أو الإعلان عنها.",
+    "target_en": "The manufacture, import, marketing, circulation, or advertising of unsafe products shall be prohibited.",
+    "source_ar_norm": "تحظر صناعة المنتجات غير الامنة او استيرادها او تسويقها او تداولها او الاعلان عنها.",
+    "target_en_norm": "the manufacture, import, marketing, circulation, or advertising of unsafe products shall be prohibited.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58462,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58463,
+    "source_ar": "1. يكون المنتج آمنًا إذا كان استخدامه -في ظل ظروف الاستخدام العادية- لا يمثل خطرًا، أو يمكن أن تنشأ عنه مخاطر مقبولة ومتوافقة مع مستويات السلامة المحددة -التي تضمن المحافظة على سلامة المستهلك والممتلكات والبيئة- وتوافر فيه جميع المتطلبات الأساسية وكان متوافقاً مع اللوائح الفنية.",
+    "target_en": "1. A product shall be deemed safe if, under normal conditions of use, it poses no hazard, or the risks it may cause are reasonable and meet the specified safety levels that ensure the safety of the consumer, property, and the environment; meets all essential requirements; and complies with the technical regulations.",
+    "source_ar_norm": "1. يكون المنتج امنا اذا كان استخدامه -في ظل ظروف الاستخدام العادية- لا يمثل خطرا، او يمكن ان تنشا عنه مخاطر مقبولة ومتوافقة مع مستويات السلامة المحددة -التي تضمن المحافظة علي سلامة المستهلك والممتلكات والبيئة- وتوافر فيه جميع المتطلبات الاساسية وكان متوافقا مع اللوائح الفنية.",
+    "target_en_norm": "1. a product shall be deemed safe if, under normal conditions of use, it poses no hazard, or the risks it may cause are reasonable and meet the specified safety levels that ensure the safety of the consumer, property, and the environment; meets all essential requirements; and complies with the technical regulations.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58464,
+    "source_ar": "2. في حال عدم وجود متطلبات أساسية أو لوائح فنية ذات صلة، فإن المنتج يُعد آمنًا إذا كان مطابقًا للمواصفات السعودية -في حال توافرها- أو للمواصفات الإقليمية أو الدولية ذات الصلة.",
+    "target_en": "2. In the absence of essential requirements or relevant technical regulations, a product shall be deemed safe if it conforms to Saudi standards, if available, or to relevant regional or international standards.",
+    "source_ar_norm": "2. في حال عدم وجود متطلبات اساسية او لوائح فنية ذات صلة، فان المنتج يعد امنا اذا كان مطابقا للمواصفات السعودية -في حال توافرها- او للمواصفات الاقليمية او الدولية ذات الصلة.",
+    "target_en_norm": "2. in the absence of essential requirements or relevant technical regulations, a product shall be deemed safe if it conforms to saudi standards, if available, or to relevant regional or international standards.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58465,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58466,
+    "source_ar": "عند تقييم ما إذا كان المنتج في الأسواق آمنًا، يجب أن يراعى الآتي:",
+    "target_en": "Upon assessment of the safety of a product on the market, the following shall be taken into consideration:",
+    "source_ar_norm": "عند تقييم ما اذا كان المنتج في الاسواق امنا، يجب ان يراعي الاتي:",
+    "target_en_norm": "upon assessment of the safety of a product on the market, the following shall be taken into consideration:",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58467,
+    "source_ar": "1. خصائص المنتج -بما في ذلك تكوينه- وتعليمات استخدامه وتركيبه وإصلاحه.",
+    "target_en": "1. Product properties, including its composition, and the instructions for its use, installation, and repair.",
+    "source_ar_norm": "1. خصائص المنتج -بما في ذلك تكوينه- وتعليمات استخدامه وتركيبه واصلاحه.",
+    "target_en_norm": "1. product properties, including its composition, and the instructions for its use, installation, and repair.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58468,
+    "source_ar": "2. تأثير المنتج في المنتجات الأخرى في حال استخدامه معها.",
+    "target_en": "2. Effect of the product on other products if used together.",
+    "source_ar_norm": "2. تاثير المنتج في المنتجات الاخري في حال استخدامه معها.",
+    "target_en_norm": "2. effect of the product on other products if used together.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58469,
+    "source_ar": "3. طريقة عرض المنتج، وبيان معلوماته، وتعليمات وتحذيرات استخدامه، وتعليمات التخلص منه، وغيرها من المؤشرات والمعلومات المتعلقة به.",
+    "target_en": "3. Product presentation, clarity of labeling, usage instructions and warnings, disposal instructions, and any other indicators and information related to the product.",
+    "source_ar_norm": "3. طريقة عرض المنتج، وبيان معلوماته، وتعليمات وتحذيرات استخدامه، وتعليمات التخلص منه، وغيرها من المؤشرات والمعلومات المتعلقة به.",
+    "target_en_norm": "3. product presentation, clarity of labeling, usage instructions and warnings, disposal instructions, and any other indicators and information related to the product.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58470,
+    "source_ar": "4. المستهلك الذي قد يتعرض لخطر عند استخدام المنتج.",
+    "target_en": "4. Consumers who may be exposed to hazards when using the product.",
+    "source_ar_norm": "4. المستهلك الذي قد يتعرض لخطر عند استخدام المنتج.",
+    "target_en_norm": "4. consumers who may be exposed to hazards when using the product.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58471,
+    "source_ar": "5. توقعات المستهلك المشروعة -المتعلقة بالسلامة- لاستخدام المنتج.",
+    "target_en": "5. The reasonable safety expectations of consumers when using the product.",
+    "source_ar_norm": "5. توقعات المستهلك المشروعة -المتعلقة بالسلامة- لاستخدام المنتج.",
+    "target_en_norm": "5. the reasonable safety expectations of consumers when using the product.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58472,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58473,
+    "source_ar": "لا تعد إمكانية تحقيق مستويات أعلى من السلامة للمنتج، أو إمكانية الحصول على منتج آخر أقل خطرًا؛ سببًا كافيًا لاعتبار المنتج غير آمن.",
+    "target_en": "A product shall not be deemed unsafe if it is possible to achieve higher levels of product safety or if it is possible to obtain another less hazardous product.",
+    "source_ar_norm": "لا تعد امكانية تحقيق مستويات اعلي من السلامة للمنتج، او امكانية الحصول علي منتج اخر اقل خطرا؛ سببا كافيا لاعتبار المنتج غير امن.",
+    "target_en_norm": "a product shall not be deemed unsafe if it is possible to achieve higher levels of product safety or if it is possible to obtain another less hazardous product.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58474,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58475,
+    "source_ar": "يجب على كل من الصانع والممثل المعتمد والمستورد -المسؤول عن وضع المنتج في الأسواق- ما يأتي:",
+    "target_en": "The manufacturer, authorized representative, and importer in charge of placing a product on the market, shall undertake the following:",
+    "source_ar_norm": "يجب علي كل من الصانع والممثل المعتمد والمستورد -المسؤول عن وضع المنتج في الاسواق- ما ياتي:",
+    "target_en_norm": "the manufacturer, authorized representative, and importer in charge of placing a product on the market, shall undertake the following:",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58476,
+    "source_ar": "1. التأكد من أن المنتج آمن أو يفترض أنه آمن.",
+    "target_en": "1. Ensure that the product is safe or is presumed to be safe.",
+    "source_ar_norm": "1. التاكد من ان المنتج امن او يفترض انه امن.",
+    "target_en_norm": "1. ensure that the product is safe or is presumed to be safe.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58477,
+    "source_ar": "2. التأكد من أن المنتج يتوافق تمامًا مع أحكام اللوائح الفنية والمتطلبات التي تنطبق على المنتج، بما في ذلك المتطلبات الأساسية.",
+    "target_en": "2. Ensure that the product fully complies with the provisions of the technical regulations and the requirements applicable thereto, including the essential requirements.",
+    "source_ar_norm": "2. التاكد من ان المنتج يتوافق تماما مع احكام اللوائح الفنية والمتطلبات التي تنطبق علي المنتج، بما في ذلك المتطلبات الاساسية.",
+    "target_en_norm": "2. ensure that the product fully complies with the provisions of the technical regulations and the requirements applicable thereto, including the essential requirements.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58478,
+    "source_ar": "3. تقييم المخاطر المحتملة في المنتج تقييمًا كافيًا لتمكين نفسه من اتخاذ الإجراءات التصحيحية المناسبة. وتحدد إجراءات عمليات تقييم المخاطر وفقًا للوثائق الإرشادية الصادرة من الهيئة.",
+    "target_en": "3. Adequately assess the potential risks of the product to be able to take the appropriate corrective measures. The procedures for risk assessment operations shall be determined pursuant to the guiding documents issued by the Organization.",
+    "source_ar_norm": "3. تقييم المخاطر المحتملة في المنتج تقييما كافيا لتمكين نفسه من اتخاذ الاجراءات التصحيحية المناسبة. وتحدد اجراءات عمليات تقييم المخاطر وفقا للوثائق الارشادية الصادرة من الهيئة.",
+    "target_en_norm": "3. adequately assess the potential risks of the product to be able to take the appropriate corrective measures. the procedures for risk assessment operations shall be determined pursuant to the guiding documents issued by the organization.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58479,
+    "source_ar": "4. تقديم ما يثبت أن المنتج آمن عند طلب الجهات المختصة، بما في ذلك مطابقته -عند الاقتضاء- للوائح الفنية أو المواصفات ذات الصلة، والإجراءات التصحيحية التي اتُّخذت لضمان سلامة المنتج.",
+    "target_en": "4. Provide proof of product safety if requested by the competent authorities, including, where necessary, its conformity to the technical regulations or relevant standards as well as the corrective measures taken to ensure product safety.",
+    "source_ar_norm": "4. تقديم ما يثبت ان المنتج امن عند طلب الجهات المختصة، بما في ذلك مطابقته -عند الاقتضاء- للوائح الفنية او المواصفات ذات الصلة، والاجراءات التصحيحية التي اتخذت لضمان سلامة المنتج.",
+    "target_en_norm": "4. provide proof of product safety if requested by the competent authorities, including, where necessary, its conformity to the technical regulations or relevant standards as well as the corrective measures taken to ensure product safety.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58480,
+    "source_ar": "وتحدد اللوائح مسؤوليات وواجبات كل من الصانع والممثل المعتمد والمستورد وفقًا لما جاء في حكم هذه المادة.",
+    "target_en": "The Regulations shall specify the responsibilities and duties of the manufacturer, authorized representative, and importer in accordance with the provisions of this Article.",
+    "source_ar_norm": "وتحدد اللوائح مسؤوليات وواجبات كل من الصانع والممثل المعتمد والمستورد وفقا لما جاء في حكم هذه المادة.",
+    "target_en_norm": "the regulations shall specify the responsibilities and duties of the manufacturer, authorized representative, and importer in accordance with the provisions of this article.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58481,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58482,
+    "source_ar": "يجب على الصانع والممثل المعتمد والمستورد تزويد المستهلك بجميع المعلومات حول الخطر المرتبط بالمنتج، والتي لا تكون واضحة له، وذلك بما يمكن من اتخاذ الاحتياطات اللازمة لدرء ذلك الخطر.",
+    "target_en": "The manufacturer, authorized representative, and importer shall provide the consumer with all the information on the hazards associated with the product, which may not be apparent to him, in order to enable the consumer to take the precautions necessary to prevent such hazards.",
+    "source_ar_norm": "يجب علي الصانع والممثل المعتمد والمستورد تزويد المستهلك بجميع المعلومات حول الخطر المرتبط بالمنتج، والتي لا تكون واضحة له، وذلك بما يمكن من اتخاذ الاحتياطات اللازمة لدرء ذلك الخطر.",
+    "target_en_norm": "the manufacturer, authorized representative, and importer shall provide the consumer with all the information on the hazards associated with the product, which may not be apparent to him, in order to enable the consumer to take the precautions necessary to prevent such hazards.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58483,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58484,
+    "source_ar": "يجب على الصانع والممثل المعتمد والمستورد أن يضع على المنتج: اسمه الشخصي أو اسمه التجاري أو علاماته التجارية، وتفاصيل الاتصال به.",
+    "target_en": "The manufacturer, authorized representative, and importer shall place on products their personal names, trade names, or trademarks as well as their contact information.",
+    "source_ar_norm": "يجب علي الصانع والممثل المعتمد والمستورد ان يضع علي المنتج: اسمه الشخصي او اسمه التجاري او علاماته التجارية، وتفاصيل الاتصال به.",
+    "target_en_norm": "the manufacturer, authorized representative, and importer shall place on products their personal names, trade names, or trademarks as well as their contact information.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58485,
+    "source_ar": "وتحدد اللوائح شروط وكيفية وضع هذه البيانات.",
+    "target_en": "The Regulations shall specify the conditions and manner of placing such information.",
+    "source_ar_norm": "وتحدد اللوائح شروط وكيفية وضع هذه البيانات.",
+    "target_en_norm": "the regulations shall specify the conditions and manner of placing such information.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58486,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58487,
+    "source_ar": "يجب على الصانع والممثل المعتمد والمستورد اتخاذ الترتيبات اللازمة للبقاء على اطلاع بالمخاطر التي قد يسببها المنتج الذي يوضع من قبلهم في الأسواق، واتخاذ الإجراءات التصحيحية المناسبة التي تتضمن تحذير المستهلك واستدعاء المنتج.",
+    "target_en": "The manufacturer, authorized representative, and importer shall make the necessary arrangements to keep abreast with the risks that may be caused by any product they place on the market, and shall take the appropriate corrective measures, including warning consumers and recalling products.",
+    "source_ar_norm": "يجب علي الصانع والممثل المعتمد والمستورد اتخاذ الترتيبات اللازمة للبقاء علي اطلاع بالمخاطر التي قد يسببها المنتج الذي يوضع من قبلهم في الاسواق، واتخاذ الاجراءات التصحيحية المناسبة التي تتضمن تحذير المستهلك واستدعاء المنتج.",
+    "target_en_norm": "the manufacturer, authorized representative, and importer shall make the necessary arrangements to keep abreast with the risks that may be caused by any product they place on the market, and shall take the appropriate corrective measures, including warning consumers and recalling products.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58488,
+    "source_ar": "المادة الثالثة عشرة",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة",
+    "target_en_norm": "article 13",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58489,
+    "source_ar": "يجب على الموزع -في حدود نشاطه- ما يأتي:",
+    "target_en": "The distributor shall, within the limits of his activity, undertake the following:",
+    "source_ar_norm": "يجب علي الموزع -في حدود نشاطه- ما ياتي:",
+    "target_en_norm": "the distributor shall, within the limits of his activity, undertake the following:",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58490,
+    "source_ar": "1. العمل بعناية تامة للمساعدة في ضمان الالتزام بالمتطلبات.",
+    "target_en": "1. Exercise due diligence to ensure compliance with the requirements.",
+    "source_ar_norm": "1. العمل بعناية تامة للمساعدة في ضمان الالتزام بالمتطلبات.",
+    "target_en_norm": "1. exercise due diligence to ensure compliance with the requirements.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58491,
+    "source_ar": "2. عدم عرض المنتجات -في الأسواق- التي يعلم أو يفترض أن يعلم بناء على المعلومات التي في حوزته أو بصفته المهنية أنها لا تتوافق مع المتطلبات.",
+    "target_en": "2. Refrain from making available on the market products which, based on the information in his possession or his professional capacity, he knows or should have known do not conform to the requirements.",
+    "source_ar_norm": "2. عدم عرض المنتجات -في الاسواق- التي يعلم او يفترض ان يعلم بناء علي المعلومات التي في حوزته او بصفته المهنية انها لا تتوافق مع المتطلبات.",
+    "target_en_norm": "2. refrain from making available on the market products which, based on the information in his possession or his professional capacity, he knows or should have known do not conform to the requirements.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58492,
+    "source_ar": "3. المشاركة في نقل المعلومات المتعلقة بمخاطر المنتج، وحفظ وتقديم الوثائق اللازمة لتعقب منشأ المنتج، والتعاون في تنفيذ الإجراءات التصحيحية التي تتخذها الجهات المختصة والمشغل الاقتصادي.",
+    "target_en": "3. Engage in the transfer of information relating to the risks associated with the product, keep and provide the documents necessary for tracing a product’s origin, and cooperate in implementing the corrective measures taken by the competent authorities and the economic operator.",
+    "source_ar_norm": "3. المشاركة في نقل المعلومات المتعلقة بمخاطر المنتج، وحفظ وتقديم الوثائق اللازمة لتعقب منشا المنتج، والتعاون في تنفيذ الاجراءات التصحيحية التي تتخذها الجهات المختصة والمشغل الاقتصادي.",
+    "target_en_norm": "3. engage in the transfer of information relating to the risks associated with the product, keep and provide the documents necessary for tracing a product’s origin, and cooperate in implementing the corrective measures taken by the competent authorities and the economic operator.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58493,
+    "source_ar": "المادة الرابعة عشرة",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة",
+    "target_en_norm": "article 14",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58494,
+    "source_ar": "إذا علم المشغّل الاقتصادي -بناءً على ما لديه من معلومات- أو كان من المفترض أن يعلم -بناءً على معلوماته المهنية- بأن المنتج يمثل خطرًا، فعليه إبلاغ الجهات المختصة بذلك على الفور، وأن يقدم لهم معلومات عن الإجراءات التصحيحية التي اتخذها.",
+    "target_en": "If the economic operator knows based on information in his possession, or should have known based on his professional capacity, that a product poses a hazard, he shall immediately notify the competent authorities and provide them with information on the corrective measures he has taken.",
+    "source_ar_norm": "اذا علم المشغل الاقتصادي -بناء علي ما لديه من معلومات- او كان من المفترض ان يعلم -بناء علي معلوماته المهنية- بان المنتج يمثل خطرا، فعليه ابلاغ الجهات المختصة بذلك علي الفور، وان يقدم لهم معلومات عن الاجراءات التصحيحية التي اتخذها.",
+    "target_en_norm": "if the economic operator knows based on information in his possession, or should have known based on his professional capacity, that a product poses a hazard, he shall immediately notify the competent authorities and provide them with information on the corrective measures he has taken.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58495,
+    "source_ar": "المادة الخامسة عشرة",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة",
+    "target_en_norm": "article 15",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58496,
+    "source_ar": "يجب على المشغل الاقتصادي أن يحدد للجهات المختصة أي مشغل اقتصادي آخر قدم له المنتج وأي مشغل اقتصادي آخر سلم له المنتج؛ في حال طلبت الجهات المختصة منه ذلك.",
+    "target_en": "The economic operator shall, if requested by the competent authorities, name any economic operator who provided him with the product or to whom he delivered the product.",
+    "source_ar_norm": "يجب علي المشغل الاقتصادي ان يحدد للجهات المختصة اي مشغل اقتصادي اخر قدم له المنتج واي مشغل اقتصادي اخر سلم له المنتج؛ في حال طلبت الجهات المختصة منه ذلك.",
+    "target_en_norm": "the economic operator shall, if requested by the competent authorities, name any economic operator who provided him with the product or to whom he delivered the product.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58497,
+    "source_ar": "الباب الرابع التزامات السلامة الخاصة",
+    "target_en": "Part 4: Specific Safety Obligations",
+    "source_ar_norm": "الباب الرابع التزامات السلامة الخاصة",
+    "target_en_norm": "part 4: specific safety obligations",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58498,
+    "source_ar": "المادة السادسة عشرة",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة",
+    "target_en_norm": "article 16",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58499,
+    "source_ar": "في حال كان للمشغل الاقتصادي نظام تتبع خاص به فيجب ربطه بالهيئة.",
+    "target_en": "If the economic operator has his own tracking system, he must link such system to the Organization.",
+    "source_ar_norm": "في حال كان للمشغل الاقتصادي نظام تتبع خاص به فيجب ربطه بالهيئة.",
+    "target_en_norm": "if the economic operator has his own tracking system, he must link such system to the organization.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58500,
+    "source_ar": "ويجوز للهيئة أن تطلب منه -في حال لم يكن لديه نظام تتبع خاص به- الالتزام بنظام التتبع الخاص بالهيئة نظير مقابل مالي يصدر بقرار من المجلس وفقاً لما تحدده اللوائح.",
+    "target_en": "The Organization may require the economic operator who does not have his own tracking system to use the Organization’s tracking system for a fee to be determined by a Board decision, in accordance with the Regulations.",
+    "source_ar_norm": "ويجوز للهيئة ان تطلب منه -في حال لم يكن لديه نظام تتبع خاص به- الالتزام بنظام التتبع الخاص بالهيئة نظير مقابل مالي يصدر بقرار من المجلس وفقا لما تحدده اللوائح.",
+    "target_en_norm": "the organization may require the economic operator who does not have his own tracking system to use the organization’s tracking system for a fee to be determined by a board decision, in accordance with the regulations.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  }
+]

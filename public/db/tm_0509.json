@@ -1,0 +1,802 @@
+[
+  {
+    "id": 50801,
+    "source_ar": "المادة الثانية والعشرون بعد الثلاثمائة",
+    "target_en": "Article 322",
+    "source_ar_norm": "المادة الثانية والعشرون بعد الثلاثمائة",
+    "target_en_norm": "article 322",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50802,
+    "source_ar": "يشمل تسليم المبيع ملحقاته، وما اتصل به اتصال قرار، وما جرى العرف على أنه من توابع المبيع ولو لم يذكر في العقد.",
+    "target_en": "Delivery of the sold item shall include its appurtenances, things permanently attached thereto, and other things deemed by custom to be ancillary thereto, even if they are not stated in the contract.",
+    "source_ar_norm": "يشمل تسليم المبيع ملحقاته، وما اتصل به اتصال قرار، وما جري العرف علي انه من توابع المبيع ولو لم يذكر في العقد.",
+    "target_en_norm": "delivery of the sold item shall include its appurtenances, things permanently attached thereto, and other things deemed by custom to be ancillary thereto, even if they are not stated in the contract.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50803,
+    "source_ar": "المادة الثالثة والعشرون بعد الثلاثمائة",
+    "target_en": "Article 323",
+    "source_ar_norm": "المادة الثالثة والعشرون بعد الثلاثمائة",
+    "target_en_norm": "article 323",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50804,
+    "source_ar": "إذا عين مقدار المبيع عند العقد فبان فيه نقصٌ أو زيادةٌ ولم يوجد اتفاقٌ؛ وجب اتباع الآتي:",
+    "target_en": "If the amount of the sold item is specified at the time of conclusion of the contract and it appears that such amount has a shortfall or surplus with no agreement on how to address such shortfall or surplus, the following shall apply:",
+    "source_ar_norm": "اذا عين مقدار المبيع عند العقد فبان فيه نقص او زيادة ولم يوجد اتفاق؛ وجب اتباع الاتي:",
+    "target_en_norm": "if the amount of the sold item is specified at the time of conclusion of the contract and it appears that such amount has a shortfall or surplus with no agreement on how to address such shortfall or surplus, the following shall apply:",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50805,
+    "source_ar": "أ- إذا كان المبيع مما تضره التجزئة والثمن المسمى لمجموعه وليس بالوحدة القياسية فالزيادة للمشتري والنقص لا يقابله شيء من الثمن، وفيما عدا ذلك يكون النقص من حساب البائع والزيادة له يستردها عينًا إن كان المبيع لا تضره التجزئة أو يستحق ثمنها إن كان المبيع تضره التجزئة.",
+    "target_en": "a) If the sold item is an item that is adversely affected by division and the named price is determined on a lump sum basis rather than by unit price, the surplus shall belong to the buyer and the shortfall shall not entail a reduction in the price. In other cases, the shortfall shall be borne by the seller, and he may recover the surplus in-kind if the sold item is not adversely affected by division, or he may recover the amount paid if the sold item is adversely affected by division.",
+    "source_ar_norm": "ا- اذا كان المبيع مما تضره التجزئة والثمن المسمي لمجموعه وليس بالوحدة القياسية فالزيادة للمشتري والنقص لا يقابله شيء من الثمن، وفيما عدا ذلك يكون النقص من حساب البائع والزيادة له يستردها عينا ان كان المبيع لا تضره التجزئة او يستحق ثمنها ان كان المبيع تضره التجزئة.",
+    "target_en_norm": "a) if the sold item is an item that is adversely affected by division and the named price is determined on a lump sum basis rather than by unit price, the surplus shall belong to the buyer and the shortfall shall not entail a reduction in the price. in other cases, the shortfall shall be borne by the seller, and he may recover the surplus in-kind if the sold item is not adversely affected by division, or he may recover the amount paid if the sold item is adversely affected by division.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50806,
+    "source_ar": "ب- إذا كانت الزيادة تُلزم المشتري أكثر مما اشترى به بمقدار جسيم أو كان النقص يُخل بغرضه بحيث لو علم به لما أتم العقد كان له طلب فسخ البيع.",
+    "target_en": "b) If the buyer’s purchase entails a surplus that grossly exceeds his needs, or if the shortfall negates the purpose of his purchase that had he been aware thereof he would not have concluded the contract, he may demand termination of the sale.",
+    "source_ar_norm": "ب- اذا كانت الزيادة تلزم المشتري اكثر مما اشتري به بمقدار جسيم او كان النقص يخل بغرضه بحيث لو علم به لما اتم العقد كان له طلب فسخ البيع.",
+    "target_en_norm": "b) if the buyer’s purchase entails a surplus that grossly exceeds his needs, or if the shortfall negates the purpose of his purchase that had he been aware thereof he would not have concluded the contract, he may demand termination of the sale.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50807,
+    "source_ar": "لا تسمع الدعوى بالفسخ أو إنقاص الثمن أو إكماله إذا انقضت (سنة) من تاريخ تسليم المبيع.",
+    "target_en": "A claim for termination of the contract or for reducing the price or completing the payment shall not be heard upon the lapse of one year from the date of delivery of the sold item.",
+    "source_ar_norm": "لا تسمع الدعوي بالفسخ او انقاص الثمن او اكماله اذا انقضت (سنة) من تاريخ تسليم المبيع.",
+    "target_en_norm": "a claim for termination of the contract or for reducing the price or completing the payment shall not be heard upon the lapse of one year from the date of delivery of the sold item.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50808,
+    "source_ar": "المادة الرابعة والعشرون بعد الثلاثمائة",
+    "target_en": "Article 324",
+    "source_ar_norm": "المادة الرابعة والعشرون بعد الثلاثمائة",
+    "target_en_norm": "article 324",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50809,
+    "source_ar": "يكون تسليم المبيع بوضعه في حيازة المشتري، أو بأن يخلي البائع بين المبيع والمشتري بحيث يتمكن من حيازته والانتفاع به دون مانع، ما دام البائع قد أعلم المشتري بذلك.",
+    "target_en": "The sold item shall be deemed delivered if placed in the possession of the buyer, or if the seller allows the buyer to take possession thereof and benefit therefrom without hindrance, provided that the seller notifies the buyer thereof.",
+    "source_ar_norm": "يكون تسليم المبيع بوضعه في حيازة المشتري، او بان يخلي البائع بين المبيع والمشتري بحيث يتمكن من حيازته والانتفاع به دون مانع، ما دام البائع قد اعلم المشتري بذلك.",
+    "target_en_norm": "the sold item shall be deemed delivered if placed in the possession of the buyer, or if the seller allows the buyer to take possession thereof and benefit therefrom without hindrance, provided that the seller notifies the buyer thereof.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50810,
+    "source_ar": "ويكون هذا التسليم على النحو الذي يتفق مع طبيعة المبيع.",
+    "target_en": "Such delivery shall be made in accordance with the nature of the sold item.",
+    "source_ar_norm": "ويكون هذا التسليم علي النحو الذي يتفق مع طبيعة المبيع.",
+    "target_en_norm": "such delivery shall be made in accordance with the nature of the sold item.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50811,
+    "source_ar": "المادة الخامسة والعشرون بعد الثلاثمائة",
+    "target_en": "Article 325",
+    "source_ar_norm": "المادة الخامسة والعشرون بعد الثلاثمائة",
+    "target_en_norm": "article 325",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50812,
+    "source_ar": "إذا كان المبيع تحت يد المشتري قبل البيع بأي صفةٍ أو سببٍ عُدَّت هذه الحيازة تسليمًا؛ ما لم يتفق على خلاف ذلك.",
+    "target_en": "If the sold item is in the possession of the buyer in any capacity or for any reason prior to the sale, such possession shall be deemed delivery of the item, unless agreed otherwise.",
+    "source_ar_norm": "اذا كان المبيع تحت يد المشتري قبل البيع باي صفة او سبب عدت هذه الحيازة تسليما؛ ما لم يتفق علي خلاف ذلك.",
+    "target_en_norm": "if the sold item is in the possession of the buyer in any capacity or for any reason prior to the sale, such possession shall be deemed delivery of the item, unless agreed otherwise.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50813,
+    "source_ar": "المادة السادسة والعشرون بعد الثلاثمائة",
+    "target_en": "Article 326",
+    "source_ar_norm": "المادة السادسة والعشرون بعد الثلاثمائة",
+    "target_en_norm": "article 326",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50814,
+    "source_ar": "تُعدُّ الحالات الآتية تسليمًا للمبيع:",
+    "target_en": "The following cases shall be deemed delivery of the sold item:",
+    "source_ar_norm": "تعد الحالات الاتية تسليما للمبيع:",
+    "target_en_norm": "the following cases shall be deemed delivery of the sold item:",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50815,
+    "source_ar": "أ- إذا اتفق المتبايعان على عدّ المشتري متسلمًا للمبيع في حالة معينة.",
+    "target_en": "a) If the parties to the sale agree to the case in which the buyer is deemed to have taken delivery of the sold item.",
+    "source_ar_norm": "ا- اذا اتفق المتبايعان علي عد المشتري متسلما للمبيع في حالة معينة.",
+    "target_en_norm": "a) if the parties to the sale agree to the case in which the buyer is deemed to have taken delivery of the sold item.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50816,
+    "source_ar": "ب- إذا عدّ نصٌ نظامي المشتري متسلمًا للمبيع في حالة معينة.",
+    "target_en": "b) If a legal provision provides for the case in which the buyer is deemed to have taken delivery of the sold item.",
+    "source_ar_norm": "ب- اذا عد نص نظامي المشتري متسلما للمبيع في حالة معينة.",
+    "target_en_norm": "b) if a legal provision provides for the case in which the buyer is deemed to have taken delivery of the sold item.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50817,
+    "source_ar": "ج- إذا استبقى البائع المبيع في يده بعد البيع لسبب آخر غير الملكية برضى المشتري.",
+    "target_en": "c) If the seller retains, with the buyer’s consent, the sold item in his possession after the sale for a reason other than ownership.",
+    "source_ar_norm": "ج- اذا استبقي البائع المبيع في يده بعد البيع لسبب اخر غير الملكية برضي المشتري.",
+    "target_en_norm": "c) if the seller retains, with the buyer’s consent, the sold item in his possession after the sale for a reason other than ownership.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50818,
+    "source_ar": "المادة السابعة والعشرون بعد الثلاثمائة",
+    "target_en": "Article 327",
+    "source_ar_norm": "المادة السابعة والعشرون بعد الثلاثمائة",
+    "target_en_norm": "article 327",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50819,
+    "source_ar": "يُعدُّ المشتري متسلمًا للمبيع ويلزمه أداء الثمن إذا هلك المبيع أو تلف قبل التسليم بفعله.",
+    "target_en": "The buyer shall be deemed to have taken delivery of the sold item and shall be bound to pay its price if the sold item is destroyed or damaged due to his own action prior to delivery.",
+    "source_ar_norm": "يعد المشتري متسلما للمبيع ويلزمه اداء الثمن اذا هلك المبيع او تلف قبل التسليم بفعله.",
+    "target_en_norm": "the buyer shall be deemed to have taken delivery of the sold item and shall be bound to pay its price if the sold item is destroyed or damaged due to his own action prior to delivery.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50820,
+    "source_ar": "فإن كان للبائع الحق في العدول عن العقد واختاره؛ كان له الرجوع على المشتري بالتعويض.",
+    "target_en": "If the seller has the right to withdraw from the contract and decides to exercise such right, he may have recourse against the buyer for compensation.",
+    "source_ar_norm": "فان كان للبائع الحق في العدول عن العقد واختاره؛ كان له الرجوع علي المشتري بالتعويض.",
+    "target_en_norm": "if the seller has the right to withdraw from the contract and decides to exercise such right, he may have recourse against the buyer for compensation.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50821,
+    "source_ar": "المادة الثامنة والعشرون بعد الثلاثمائة",
+    "target_en": "Article 328",
+    "source_ar_norm": "المادة الثامنة والعشرون بعد الثلاثمائة",
+    "target_en_norm": "article 328",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50822,
+    "source_ar": "إذا هلك المبيع أو جزء منه قبل التسليم بفعل البائع أو الغير؛ كان للمشتري طلب فسخ البيع، أو إمضاؤه والرجوع بالتعويض على المتسبب بالهلاك، أو طلب الفسخ في الجزء الذي هلك فقط.",
+    "target_en": "If the sold item is destroyed wholly or partially prior to delivery due to an action by the seller or a third party, the buyer may request termination of the sale, conclude the sale and have the right of recourse for compensation against the person who caused the destruction, or request that only the sale of the destroyed part be terminated.",
+    "source_ar_norm": "اذا هلك المبيع او جزء منه قبل التسليم بفعل البائع او الغير؛ كان للمشتري طلب فسخ البيع، او امضاؤه والرجوع بالتعويض علي المتسبب بالهلاك، او طلب الفسخ في الجزء الذي هلك فقط.",
+    "target_en_norm": "if the sold item is destroyed wholly or partially prior to delivery due to an action by the seller or a third party, the buyer may request termination of the sale, conclude the sale and have the right of recourse for compensation against the person who caused the destruction, or request that only the sale of the destroyed part be terminated.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50823,
+    "source_ar": "المادة التاسعة والعشرون بعد الثلاثمائة",
+    "target_en": "Article 329",
+    "source_ar_norm": "المادة التاسعة والعشرون بعد الثلاثمائة",
+    "target_en_norm": "article 329",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50824,
+    "source_ar": "إذا هلك المبيع قبل التسليم بسببٍ لا يد لأحد المتبايعين أو الغير فيه انفسخ البيع واسترد المشتري الثمن.",
+    "target_en": "If the sold item is destroyed prior to delivery due to a cause not attributable to the parties of the sale or to a third party, the sale shall be terminated and the buyer shall be reimbursed.",
+    "source_ar_norm": "اذا هلك المبيع قبل التسليم بسبب لا يد لاحد المتبايعين او الغير فيه انفسخ البيع واسترد المشتري الثمن.",
+    "target_en_norm": "if the sold item is destroyed prior to delivery due to a cause not attributable to the parties of the sale or to a third party, the sale shall be terminated and the buyer shall be reimbursed.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50825,
+    "source_ar": "إذا كان الهلاك على جزء من المبيع انفسخ البيع في ذلك الجزء واسترد المشتري ما يقابله من الثمن.",
+    "target_en": "If destruction is limited to part of the sold item, the sale of only the destroyed part shall be terminated and the buyer shall be reimbursed for such part.",
+    "source_ar_norm": "اذا كان الهلاك علي جزء من المبيع انفسخ البيع في ذلك الجزء واسترد المشتري ما يقابله من الثمن.",
+    "target_en_norm": "if destruction is limited to part of the sold item, the sale of only the destroyed part shall be terminated and the buyer shall be reimbursed for such part.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50826,
+    "source_ar": "وللمشتري طلب فسخ البيع في الباقي واسترداد كامل الثمن.",
+    "target_en": "The buyer may request termination of the sale for the remainder of the sold item and recover the price in full.",
+    "source_ar_norm": "وللمشتري طلب فسخ البيع في الباقي واسترداد كامل الثمن.",
+    "target_en_norm": "the buyer may request termination of the sale for the remainder of the sold item and recover the price in full.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50827,
+    "source_ar": "المادة الثلاثون بعد الثلاثمائة",
+    "target_en": "Article 330",
+    "source_ar_norm": "المادة الثلاثون بعد الثلاثمائة",
+    "target_en_norm": "article 330",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50828,
+    "source_ar": "يضمن البائع عدم تعرضه للمشتري في الانتفاع بالمبيع كله أو بعضه.",
+    "target_en": "The seller is bound to warrant the buyer against any infringement on his part against all or part of the sold item.",
+    "source_ar_norm": "يضمن البائع عدم تعرضه للمشتري في الانتفاع بالمبيع كله او بعضه.",
+    "target_en_norm": "the seller is bound to warrant the buyer against any infringement on his part against all or part of the sold item.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50829,
+    "source_ar": "يضمن البائع سلامة المبيع من أي حق للغير في المبيع كله أو بعضه إذا كان الحق سابقًا لعقد البيع أو آيلًا إلى الغير من البائع.",
+    "target_en": "The seller is bound to warrant that all or part of the sold item is free from any third-party rights if such rights were established prior to the conclusion of the sale contract or devolved to a third party from the seller.",
+    "source_ar_norm": "يضمن البائع سلامة المبيع من اي حق للغير في المبيع كله او بعضه اذا كان الحق سابقا لعقد البيع او ايلا الي الغير من البائع.",
+    "target_en_norm": "the seller is bound to warrant that all or part of the sold item is free from any third-party rights if such rights were established prior to the conclusion of the sale contract or devolved to a third party from the seller.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50830,
+    "source_ar": "المادة الحادية والثلاثون بعد الثلاثمائة",
+    "target_en": "Article 331",
+    "source_ar_norm": "المادة الحادية والثلاثون بعد الثلاثمائة",
+    "target_en_norm": "article 331",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50831,
+    "source_ar": "ترفع دعوى استحقاق المبيع قبل تسلمه على البائع أو المشتري أو عليهما معًا.",
+    "target_en": "A claim of ownership over the sold item prior to its delivery may be filed against the seller or the buyer, or both.",
+    "source_ar_norm": "ترفع دعوي استحقاق المبيع قبل تسلمه علي البائع او المشتري او عليهما معا.",
+    "target_en_norm": "a claim of ownership over the sold item prior to its delivery may be filed against the seller or the buyer, or both.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50832,
+    "source_ar": "إذا رفعت على المشتري دعوى استحقاق المبيع فعليه المبادرة إلى إعلام البائع بذلك، وعلى البائع أن يتدخل في الدعوى.",
+    "target_en": "If a claim of ownership over the sold item is filed against the buyer, he shall promptly notify the seller, and the seller shall join in the lawsuit.",
+    "source_ar_norm": "اذا رفعت علي المشتري دعوي استحقاق المبيع فعليه المبادرة الي اعلام البائع بذلك، وعلي البائع ان يتدخل في الدعوي.",
+    "target_en_norm": "if a claim of ownership over the sold item is filed against the buyer, he shall promptly notify the seller, and the seller shall join in the lawsuit.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50833,
+    "source_ar": "إذا أُعلم البائع في الوقت الملائم ولم يتدخل في الدعوى أو تدخل وحكم في الحالتين باستحقاق المبيع للغير؛ لزمه الضمان، إلا إذا أثبت أن الحكم الصادر في الدعوى كان نتيجة تغرير من المشتري أو خطأ جسيم منه.",
+    "target_en": "If the seller is notified in a timely manner and joins the lawsuit or fails to do so and, in either case, a judgment is rendered establishing that the sold item is owned by a third party, the seller shall be bound by the warranty of title, unless he establishes that the judgment is a result of an act of deception or gross negligence on the part of the buyer.",
+    "source_ar_norm": "اذا اعلم البائع في الوقت الملائم ولم يتدخل في الدعوي او تدخل وحكم في الحالتين باستحقاق المبيع للغير؛ لزمه الضمان، الا اذا اثبت ان الحكم الصادر في الدعوي كان نتيجة تغرير من المشتري او خطا جسيم منه.",
+    "target_en_norm": "if the seller is notified in a timely manner and joins the lawsuit or fails to do so and, in either case, a judgment is rendered establishing that the sold item is owned by a third party, the seller shall be bound by the warranty of title, unless he establishes that the judgment is a result of an act of deception or gross negligence on the part of the buyer.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50834,
+    "source_ar": "إذا لم يعلم المشتري البائع بالدعوى في الوقت الملائم وصدر على المشتري حكمٌ؛ سقط حقُّه في الرجوع بالضمان إذا أثبت البائع أن تدخله في الدعوى كان يؤدي إلى رفض دعوى الاستحقاق.",
+    "target_en": "If the buyer fails to notify the seller of the claim in a timely manner and a judgment is issued against the buyer, the buyer’s right of recourse under the warranty of title shall be forfeited if the seller establishes that the claim of ownership would have been dismissed had he joined the lawsuit.",
+    "source_ar_norm": "اذا لم يعلم المشتري البائع بالدعوي في الوقت الملائم وصدر علي المشتري حكم؛ سقط حقه في الرجوع بالضمان اذا اثبت البائع ان تدخله في الدعوي كان يؤدي الي رفض دعوي الاستحقاق.",
+    "target_en_norm": "if the buyer fails to notify the seller of the claim in a timely manner and a judgment is issued against the buyer, the buyer’s right of recourse under the warranty of title shall be forfeited if the seller establishes that the claim of ownership would have been dismissed had he joined the lawsuit.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50835,
+    "source_ar": "المادة الثانية والثلاثون بعد الثلاثمائة",
+    "target_en": "Article 332",
+    "source_ar_norm": "المادة الثانية والثلاثون بعد الثلاثمائة",
+    "target_en_norm": "article 332",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50836,
+    "source_ar": "يثبت حق المشتري في الضمان ولو أقرَّ للغير بالحق أو تصالح معه وهو حسن النية في الحالتين دون أن ينتظر صدور حكم قضائي متى كان قد أعلم البائع بالدعوى في الوقت الملائم فلم يتدخل؛ وذلك ما لم يثبت البائع أن المدعي لم يكن على حق في دعواه.",
+    "target_en": "The buyer’s right of recourse under the warranty of title shall not be affected if he, in good faith, either acknowledges a third party’s claim of ownership or settles the claim prior to a court judgment, provided that he notifies the seller of the claim in a timely manner and the seller fails to join in the lawsuit, unless the seller proves that the plaintiff’s claim is without merit.",
+    "source_ar_norm": "يثبت حق المشتري في الضمان ولو اقر للغير بالحق او تصالح معه وهو حسن النية في الحالتين دون ان ينتظر صدور حكم قضائي متي كان قد اعلم البائع بالدعوي في الوقت الملائم فلم يتدخل؛ وذلك ما لم يثبت البائع ان المدعي لم يكن علي حق في دعواه.",
+    "target_en_norm": "the buyer’s right of recourse under the warranty of title shall not be affected if he, in good faith, either acknowledges a third party’s claim of ownership or settles the claim prior to a court judgment, provided that he notifies the seller of the claim in a timely manner and the seller fails to join in the lawsuit, unless the seller proves that the plaintiff’s claim is without merit.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50837,
+    "source_ar": "المادة الثالثة والثلاثون بعد الثلاثمائة",
+    "target_en": "Article 333",
+    "source_ar_norm": "المادة الثالثة والثلاثون بعد الثلاثمائة",
+    "target_en_norm": "article 333",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50838,
+    "source_ar": "إذا تصالح المشتري مع مدعي الاستحقاق على مال قبل صدور حكم قضائي له، فللبائع أن يتخلص من نتائج الضمان بأن يرد للمشتري ما يعادل بدل الصلح ونفقاته.",
+    "target_en": "If the buyer makes a financial settlement with the party claiming ownership of the sold item before a court judgment is issued in his favor, the seller may be released from the warranty of title by reimbursing the buyer an amount equal to the settlement amount and expenses.",
+    "source_ar_norm": "اذا تصالح المشتري مع مدعي الاستحقاق علي مال قبل صدور حكم قضائي له، فللبائع ان يتخلص من نتائج الضمان بان يرد للمشتري ما يعادل بدل الصلح ونفقاته.",
+    "target_en_norm": "if the buyer makes a financial settlement with the party claiming ownership of the sold item before a court judgment is issued in his favor, the seller may be released from the warranty of title by reimbursing the buyer an amount equal to the settlement amount and expenses.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50839,
+    "source_ar": "المادة الرابعة والثلاثون بعد الثلاثمائة",
+    "target_en": "Article 334",
+    "source_ar_norm": "المادة الرابعة والثلاثون بعد الثلاثمائة",
+    "target_en_norm": "article 334",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50840,
+    "source_ar": "إذا استحق المبيع كله كان للمستحق إذا أجاز البيع الرجوع على البائع بالثمن، ويَخلُص المبيع للمشتري.",
+    "target_en": "If it is established that the entire sold item is owned by a third party, such party shall, if he ratifies the sale, have the right of recourse against the seller for the price, and the sold item shall devolve to the buyer.",
+    "source_ar_norm": "اذا استحق المبيع كله كان للمستحق اذا اجاز البيع الرجوع علي البائع بالثمن، ويخلص المبيع للمشتري.",
+    "target_en_norm": "if it is established that the entire sold item is owned by a third party, such party shall, if he ratifies the sale, have the right of recourse against the seller for the price, and the sold item shall devolve to the buyer.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50841,
+    "source_ar": "المادة الخامسة والثلاثون بعد الثلاثمائة",
+    "target_en": "Article 335",
+    "source_ar_norm": "المادة الخامسة والثلاثون بعد الثلاثمائة",
+    "target_en_norm": "article 335",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50842,
+    "source_ar": "إذا استحق المبيع كله ولم يجز المستحق البيع، فللمشتري أن يطلب من البائع الآتي:",
+    "target_en": "If it is established that the entire sold item is owned by a third party and such party does not ratify the sale, the buyer may demand the following from the seller:",
+    "source_ar_norm": "اذا استحق المبيع كله ولم يجز المستحق البيع، فللمشتري ان يطلب من البائع الاتي:",
+    "target_en_norm": "if it is established that the entire sold item is owned by a third party and such party does not ratify the sale, the buyer may demand the following from the seller:",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50843,
+    "source_ar": "أ- ثمن المبيع.",
+    "target_en": "a) The amount paid for the sold item.",
+    "source_ar_norm": "ا- ثمن المبيع.",
+    "target_en_norm": "a) the amount paid for the sold item.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50844,
+    "source_ar": "ب- قيمة الثمار التي أُلزِمَ المشتري بردها للمستحق.",
+    "target_en": "b) The value of the fruits that the buyer is required to reimburse the party claiming ownership.",
+    "source_ar_norm": "ب- قيمة الثمار التي الزم المشتري بردها للمستحق.",
+    "target_en_norm": "b) the value of the fruits that the buyer is required to reimburse the party claiming ownership.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50845,
+    "source_ar": "ج- النفقات النافعة التي أحدثها المشتري في المبيع مما لا يلزم المستحق تعويض المشتري عنها.",
+    "target_en": "c) Expenses incurred by the buyer for the benefit of the sold item for which the party claiming ownership is not required to compensate the buyer.",
+    "source_ar_norm": "ج- النفقات النافعة التي احدثها المشتري في المبيع مما لا يلزم المستحق تعويض المشتري عنها.",
+    "target_en_norm": "c) expenses incurred by the buyer for the benefit of the sold item for which the party claiming ownership is not required to compensate the buyer.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50846,
+    "source_ar": "د- النفقات الكمالية إذا كان البائع سيء النية.",
+    "target_en": "d) Luxurious expenses if the seller acted in bad faith.",
+    "source_ar_norm": "د- النفقات الكمالية اذا كان البائع سيء النية.",
+    "target_en_norm": "d) luxurious expenses if the seller acted in bad faith.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50847,
+    "source_ar": "هـ- التعويض عن أي أضرار أخرى نشأت باستحقاق المبيع.",
+    "target_en": "e) Compensation for any other harm arising from the establishment of ownership.",
+    "source_ar_norm": "ه- التعويض عن اي اضرار اخري نشات باستحقاق المبيع.",
+    "target_en_norm": "e) compensation for any other harm arising from the establishment of ownership.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50848,
+    "source_ar": "المادة السادسة والثلاثون بعد الثلاثمائة",
+    "target_en": "Article 336",
+    "source_ar_norm": "المادة السادسة والثلاثون بعد الثلاثمائة",
+    "target_en_norm": "article 336",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50849,
+    "source_ar": "إذا استُحق بعض المبيع وأحدث الاستحقاق عيبًا في الباقي كان للمشتري طلب الفسخ، فإن اختار إمساك المبيع أو لم يحدث الاستحقاق عيبًا في الباقي فليس له إلا الرجوع بالضمان في الجزء المستحق.",
+    "target_en": "If ownership of part of the sold item is established to a third party and such ownership adversely affects the remaining part, the buyer may request termination of the sale. However, if the buyer decides to retain the sold item or if the remaining part is not adversely affected by the establishment of ownership, the buyer's right of recourse under the warranty of title shall be limited to the part to which ownership is established.",
+    "source_ar_norm": "اذا استحق بعض المبيع واحدث الاستحقاق عيبا في الباقي كان للمشتري طلب الفسخ، فان اختار امساك المبيع او لم يحدث الاستحقاق عيبا في الباقي فليس له الا الرجوع بالضمان في الجزء المستحق.",
+    "target_en_norm": "if ownership of part of the sold item is established to a third party and such ownership adversely affects the remaining part, the buyer may request termination of the sale. however, if the buyer decides to retain the sold item or if the remaining part is not adversely affected by the establishment of ownership, the buyer's right of recourse under the warranty of title shall be limited to the part to which ownership is established.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50850,
+    "source_ar": "المادة السابعة والثلاثون بعد الثلاثمائة",
+    "target_en": "Article 337",
+    "source_ar_norm": "المادة السابعة والثلاثون بعد الثلاثمائة",
+    "target_en_norm": "article 337",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50851,
+    "source_ar": "يصحُّ الاتفاق على إعفاء البائع من ضمان الاستحقاق أو الحد من هذا الضمان أو زيادته، عدا ما يكون منه ناشئًا عن فعل البائع أو كان قد تعمد إخفاءه.",
+    "target_en": "An agreement may be made to relieve the seller from warranty of title or to limit or extend such warranty, except in cases where such liability arises from an act made by the seller or concealed thereby.",
+    "source_ar_norm": "يصح الاتفاق علي اعفاء البائع من ضمان الاستحقاق او الحد من هذا الضمان او زيادته، عدا ما يكون منه ناشئا عن فعل البائع او كان قد تعمد اخفاءه.",
+    "target_en_norm": "an agreement may be made to relieve the seller from warranty of title or to limit or extend such warranty, except in cases where such liability arises from an act made by the seller or concealed thereby.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50852,
+    "source_ar": "لا يحول الاتفاق على الإعفاء من ضمان الاستحقاق دون حق المشتري في الرجوع على البائع بالثمن؛ ما لم يثبت أن المشتري كان يعلم وقت البيع سبب الاستحقاق.",
+    "target_en": "An agreement to relieve the seller from warranty of title shall not preclude the buyer’s right of recourse against the seller for the amount paid, unless it is established that the buyer was aware of the grounds for ownership at the time of the sale.",
+    "source_ar_norm": "لا يحول الاتفاق علي الاعفاء من ضمان الاستحقاق دون حق المشتري في الرجوع علي البائع بالثمن؛ ما لم يثبت ان المشتري كان يعلم وقت البيع سبب الاستحقاق.",
+    "target_en_norm": "an agreement to relieve the seller from warranty of title shall not preclude the buyer’s right of recourse against the seller for the amount paid, unless it is established that the buyer was aware of the grounds for ownership at the time of the sale.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50853,
+    "source_ar": "المادة الثامنة والثلاثون بعد الثلاثمائة",
+    "target_en": "Article 338",
+    "source_ar_norm": "المادة الثامنة والثلاثون بعد الثلاثمائة",
+    "target_en_norm": "article 338",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50854,
+    "source_ar": "يضمن البائع عند تسليم المبيع سلامته من أي عيبٍ ينقص من قيمته أو من نفعه بحسب الغاية المقصودة منه، والمستفادة مما هو مبين في العقد، أو مما هو ظاهر من طبيعة الشيء، أو الغرض الذي أعد له.",
+    "target_en": "The seller shall, upon delivery of the sold item, warrant that it is free from any redhibitory defect that would diminish its value or render it unfit for its intended use contrary to what is specified in the contract or what can be perceived according to its nature or its particular use.",
+    "source_ar_norm": "يضمن البائع عند تسليم المبيع سلامته من اي عيب ينقص من قيمته او من نفعه بحسب الغاية المقصودة منه، والمستفادة مما هو مبين في العقد، او مما هو ظاهر من طبيعة الشيء، او الغرض الذي اعد له.",
+    "target_en_norm": "the seller shall, upon delivery of the sold item, warrant that it is free from any redhibitory defect that would diminish its value or render it unfit for its intended use contrary to what is specified in the contract or what can be perceived according to its nature or its particular use.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50855,
+    "source_ar": "ويضمن البائع هذا العيب ولو لم يكن عالماً بوجوده.",
+    "target_en": "The seller shall be liable for such defect, even if he is unaware of its existence.",
+    "source_ar_norm": "ويضمن البائع هذا العيب ولو لم يكن عالما بوجوده.",
+    "target_en_norm": "the seller shall be liable for such defect, even if he is unaware of its existence.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50856,
+    "source_ar": "إذا ظهر في المبيع عيب كان المشتري مخيَّرًا بين طلب فسخ البيع أو إمساك المبيع والرجوع على البائع بفرق الثمن، وهو نسبة قيمة المبيع سليمًا إلى قيمته معيبًا من الثمن.",
+    "target_en": "If the sold item proves to be defective, the buyer shall have the right to either request termination of the sale or to retain the sold item and have recourse against the seller for the price difference, which is the difference between the sale price of the item with and without the defect.",
+    "source_ar_norm": "اذا ظهر في المبيع عيب كان المشتري مخيرا بين طلب فسخ البيع او امساك المبيع والرجوع علي البائع بفرق الثمن، وهو نسبة قيمة المبيع سليما الي قيمته معيبا من الثمن.",
+    "target_en_norm": "if the sold item proves to be defective, the buyer shall have the right to either request termination of the sale or to retain the sold item and have recourse against the seller for the price difference, which is the difference between the sale price of the item with and without the defect.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50857,
+    "source_ar": "وللبائع أن يتوقَّى ذلك بإحضار بديلٍ مماثلٍ للمبيع غير معيبٍ.",
+    "target_en": "The seller may avoid payment of such difference by providing an identical item free from defects.",
+    "source_ar_norm": "وللبائع ان يتوقي ذلك باحضار بديل مماثل للمبيع غير معيب.",
+    "target_en_norm": "the seller may avoid payment of such difference by providing an identical item free from defects.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50858,
+    "source_ar": "للمشتري في الحالات الواردة في الفقرة (2) من هذه المادة الحق في التعويض عما يلحقه من ضرر إن كان له مقتضٍ.",
+    "target_en": "The buyer shall, in the cases provided for in paragraph (2) of this Article, have the right to compensation for any harm he incurs, if applicable.",
+    "source_ar_norm": "للمشتري في الحالات الواردة في الفقرة (2) من هذه المادة الحق في التعويض عما يلحقه من ضرر ان كان له مقتض.",
+    "target_en_norm": "the buyer shall, in the cases provided for in paragraph (2) of this article, have the right to compensation for any harm he incurs, if applicable.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50859,
+    "source_ar": "المادة التاسعة والثلاثون بعد الثلاثمائة",
+    "target_en": "Article 339",
+    "source_ar_norm": "المادة التاسعة والثلاثون بعد الثلاثمائة",
+    "target_en_norm": "article 339",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50860,
+    "source_ar": "لا يضمن البائع العيب في الحالات الآتية:",
+    "target_en": "The seller is not bound to warrant any defect in the sold item in the following cases:",
+    "source_ar_norm": "لا يضمن البائع العيب في الحالات الاتية:",
+    "target_en_norm": "the seller is not bound to warrant any defect in the sold item in the following cases:",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50861,
+    "source_ar": "أ- إذا كان المشتري يعلم بالعيب وقت البيع، أو كان يستطيع أن يتبيّنه بنفسه لو فحص المبيع بعناية الشخص المعتاد؛ ما لم يضمن البائع له سلامة المبيع من عيب بعينه أو كان البائع تعمد إخفاءه.",
+    "target_en": "a) The defect is known to the buyer at the time of sale or would have been discovered by a reasonable person upon inspection, unless the seller warrants to the buyer that the product is free from a certain defect or the seller deliberately conceals such defect.",
+    "source_ar_norm": "ا- اذا كان المشتري يعلم بالعيب وقت البيع، او كان يستطيع ان يتبينه بنفسه لو فحص المبيع بعناية الشخص المعتاد؛ ما لم يضمن البائع له سلامة المبيع من عيب بعينه او كان البائع تعمد اخفاءه.",
+    "target_en_norm": "a) the defect is known to the buyer at the time of sale or would have been discovered by a reasonable person upon inspection, unless the seller warrants to the buyer that the product is free from a certain defect or the seller deliberately conceals such defect.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50862,
+    "source_ar": "ب- إذا كان العيب مما جرى العرف على التسامح فيه.",
+    "target_en": "b) The defect is accepted by custom.",
+    "source_ar_norm": "ب- اذا كان العيب مما جري العرف علي التسامح فيه.",
+    "target_en_norm": "b) the defect is accepted by custom.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50863,
+    "source_ar": "ج- إذا حدث العيب بعد التسليم ما لم يكن مستندًا إلى سبب موجود في المبيع قبل التسليم.",
+    "target_en": "c) The defect occurs after delivery, unless the cause thereof existed prior to delivery.",
+    "source_ar_norm": "ج- اذا حدث العيب بعد التسليم ما لم يكن مستندا الي سبب موجود في المبيع قبل التسليم.",
+    "target_en_norm": "c) the defect occurs after delivery, unless the cause thereof existed prior to delivery.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50864,
+    "source_ar": "د- إذا كان البيع في المزاد من قبل الجهات القضائية أو الإدارية.",
+    "target_en": "d) The sale was made at auction by judicial or administrative authorities.",
+    "source_ar_norm": "د- اذا كان البيع في المزاد من قبل الجهات القضائية او الادارية.",
+    "target_en_norm": "d) the sale was made at auction by judicial or administrative authorities.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50865,
+    "source_ar": "المادة الأربعون بعد الثلاثمائة",
+    "target_en": "Article 340",
+    "source_ar_norm": "المادة الاربعون بعد الثلاثمائة",
+    "target_en_norm": "article 340",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50866,
+    "source_ar": "إذا تسلّم المشتري المبيع فعليه التحقق من حالته بمجرد أن يتمكّن من ذلك وفقًا للمألوف في التعامل، فإذا كشف عيبًا يضمنه البائع فعليه أن يعلمه به خلال مدة معقولة، فإن لم يفعل عُدَّ قابلًا للمبيع بما فيه من عيب.",
+    "target_en": "If the buyer takes delivery of the sold item, he shall inspect its condition as soon as possible in a manner that is typical in such dealing. The buyer shall, within a reasonable period, notify the seller of any defect under warranty; otherwise, the buyer shall be deemed to have accepted the sold item as is.",
+    "source_ar_norm": "اذا تسلم المشتري المبيع فعليه التحقق من حالته بمجرد ان يتمكن من ذلك وفقا للمالوف في التعامل، فاذا كشف عيبا يضمنه البائع فعليه ان يعلمه به خلال مدة معقولة، فان لم يفعل عد قابلا للمبيع بما فيه من عيب.",
+    "target_en_norm": "if the buyer takes delivery of the sold item, he shall inspect its condition as soon as possible in a manner that is typical in such dealing. the buyer shall, within a reasonable period, notify the seller of any defect under warranty; otherwise, the buyer shall be deemed to have accepted the sold item as is.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50867,
+    "source_ar": "إذا كان العيب مما لا يمكن الكشف عنه بالفحص المعتاد ثم كشفه المشتري، فعليه أن يعلم به البائع بمجرد ظهوره، وإلا عُدَّ قابلًا للمبيع بما فيه من عيب.",
+    "target_en": "If the buyer discovers a defect that cannot be discovered by reasonable inspection, he shall notify the seller as soon as such discovery is made; otherwise, the buyer shall be deemed to have accepted the sold item as is.",
+    "source_ar_norm": "اذا كان العيب مما لا يمكن الكشف عنه بالفحص المعتاد ثم كشفه المشتري، فعليه ان يعلم به البائع بمجرد ظهوره، والا عد قابلا للمبيع بما فيه من عيب.",
+    "target_en_norm": "if the buyer discovers a defect that cannot be discovered by reasonable inspection, he shall notify the seller as soon as such discovery is made; otherwise, the buyer shall be deemed to have accepted the sold item as is.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50868,
+    "source_ar": "المادة الحادية والأربعون بعد الثلاثمائة",
+    "target_en": "Article 341",
+    "source_ar_norm": "المادة الحادية والاربعون بعد الثلاثمائة",
+    "target_en_norm": "article 341",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50869,
+    "source_ar": "إذا رضي المشتري بالعيب صراحةً أو ضمنًا سقط حقه في الفسخ وفي الرجوع بفرق الثمن.",
+    "target_en": "If the buyer explicitly or implicitly accepts a defect, he shall relinquish the right to terminate the sale and the right of recourse against the seller for the price difference.",
+    "source_ar_norm": "اذا رضي المشتري بالعيب صراحة او ضمنا سقط حقه في الفسخ وفي الرجوع بفرق الثمن.",
+    "target_en_norm": "if the buyer explicitly or implicitly accepts a defect, he shall relinquish the right to terminate the sale and the right of recourse against the seller for the price difference.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50870,
+    "source_ar": "يسقط حقّ المشتري في الفسخ، وله الرجوع بفرق الثمن في الحالات الآتية:",
+    "target_en": "The buyer shall forfeit the right to terminate the sale, but he may have the right of recourse for the price difference in the following cases:",
+    "source_ar_norm": "يسقط حق المشتري في الفسخ، وله الرجوع بفرق الثمن في الحالات الاتية:",
+    "target_en_norm": "the buyer shall forfeit the right to terminate the sale, but he may have the right of recourse for the price difference in the following cases:",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50871,
+    "source_ar": "أ- إذا تصرّف في المبيع تصرّفًا يخرجه عن ملكه، فإن عاد إلى ملكه قبل طلب فرق الثمن لم يسقط حقه في الفسخ.",
+    "target_en": "a) If he disposes of the sold item in such a way as to lose ownership thereof. However, if he regains possession of said item prior to claiming the price difference, his right to termination shall not be relinquished.",
+    "source_ar_norm": "ا- اذا تصرف في المبيع تصرفا يخرجه عن ملكه، فان عاد الي ملكه قبل طلب فرق الثمن لم يسقط حقه في الفسخ.",
+    "target_en_norm": "a) if he disposes of the sold item in such a way as to lose ownership thereof. however, if he regains possession of said item prior to claiming the price difference, his right to termination shall not be relinquished.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50872,
+    "source_ar": "ب- إذا رتبّ على المبيع حقًّا للغير لا يخرجه عن ملكه وتعذّر تخليصه منه خلال مدة معقولة.",
+    "target_en": "b) If he creates third-party rights over the sold item which do not result in his loss of ownership, and it is not possible to clear the item from such rights within a reasonable period.",
+    "source_ar_norm": "ب- اذا رتب علي المبيع حقا للغير لا يخرجه عن ملكه وتعذر تخليصه منه خلال مدة معقولة.",
+    "target_en_norm": "b) if he creates third-party rights over the sold item which do not result in his loss of ownership, and it is not possible to clear the item from such rights within a reasonable period.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50873,
+    "source_ar": "ج- إذا هلك المبيع أو تعيّب بفعله أو بعد تسلمه له.",
+    "target_en": "c) If the sold item is destroyed or becomes defective by his own action or after taking delivery thereof.",
+    "source_ar_norm": "ج- اذا هلك المبيع او تعيب بفعله او بعد تسلمه له.",
+    "target_en_norm": "c) if the sold item is destroyed or becomes defective by his own action or after taking delivery thereof.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50874,
+    "source_ar": "د- إذا زاد في المبيع زيادةً متصلةً غير متولّدةٍ منه قبل التسلّم أو بعده.",
+    "target_en": "d) If he makes an integral addition to the sold item that is not automatically generated from said item, whether prior to or after taking delivery.",
+    "source_ar_norm": "د- اذا زاد في المبيع زيادة متصلة غير متولدة منه قبل التسلم او بعده.",
+    "target_en_norm": "d) if he makes an integral addition to the sold item that is not automatically generated from said item, whether prior to or after taking delivery.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50875,
+    "source_ar": "المادة الثانية والأربعون بعد الثلاثمائة",
+    "target_en": "Article 342",
+    "source_ar_norm": "المادة الثانية والاربعون بعد الثلاثمائة",
+    "target_en_norm": "article 342",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50876,
+    "source_ar": "إذا بيعت أشياء متعددةٌ صفقةً واحدةً، وظهر في بعضها عيب، وليس في تجزئتها ضررٌ؛ فللمشتري طلب فسخ البيع في الجزء المعيب أو إمساكه مع الرجوع بفرق ثمنه.",
+    "target_en": "If multiple items are sold in bulk, and a defect is found in some of the items and division of said items would not result in any harm, the buyer may demand termination of the sale of the defective part; he may also retain such part and demand the price difference from the seller.",
+    "source_ar_norm": "اذا بيعت اشياء متعددة صفقة واحدة، وظهر في بعضها عيب، وليس في تجزئتها ضرر؛ فللمشتري طلب فسخ البيع في الجزء المعيب او امساكه مع الرجوع بفرق ثمنه.",
+    "target_en_norm": "if multiple items are sold in bulk, and a defect is found in some of the items and division of said items would not result in any harm, the buyer may demand termination of the sale of the defective part; he may also retain such part and demand the price difference from the seller.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50877,
+    "source_ar": "وليس له طلب الفسخ في جميع المبيع، ما لم يتبين أنه ما كان ليرضى بالعقد دون الجزء المعيب.",
+    "target_en": "The buyer may not, however, demand termination with respect to all of the sold items, unless it is established that he would not have concluded the contract had he known of the defective part.",
+    "source_ar_norm": "وليس له طلب الفسخ في جميع المبيع، ما لم يتبين انه ما كان ليرضي بالعقد دون الجزء المعيب.",
+    "target_en_norm": "the buyer may not, however, demand termination with respect to all of the sold items, unless it is established that he would not have concluded the contract had he known of the defective part.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50878,
+    "source_ar": "المادة الثالثة والأربعون بعد الثلاثمائة",
+    "target_en": "Article 343",
+    "source_ar_norm": "المادة الثالثة والاربعون بعد الثلاثمائة",
+    "target_en_norm": "article 343",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50879,
+    "source_ar": "يصحُّ الاتفاق على إعفاء البائع من ضمان العيب أو الحد من هذا الضمان أو زيادته ما لم يكن البائع قد تعمد إخفاءه.",
+    "target_en": "An agreement may be made to exempt the seller from the warranty against defects or to limit or extend such warranty, unless the seller has intentionally concealed the defects.",
+    "source_ar_norm": "يصح الاتفاق علي اعفاء البائع من ضمان العيب او الحد من هذا الضمان او زيادته ما لم يكن البائع قد تعمد اخفاءه.",
+    "target_en_norm": "an agreement may be made to exempt the seller from the warranty against defects or to limit or extend such warranty, unless the seller has intentionally concealed the defects.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50880,
+    "source_ar": "المادة الرابعة والأربعون بعد الثلاثمائة",
+    "target_en": "Article 344",
+    "source_ar_norm": "المادة الرابعة والاربعون بعد الثلاثمائة",
+    "target_en_norm": "article 344",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50881,
+    "source_ar": "لا تُسمع دعوى ضمان العيب بانقضاء (مائةٍ وثمانين) يومًا من تاريخ تسليم المبيع؛ ما لم يلتزم البائع بالضمان مدة أطول.",
+    "target_en": "A claim for warranty against defects may not be heard upon the lapse of 180 days from the date of delivery of the sold item, unless the seller’s warranty extends beyond such period.",
+    "source_ar_norm": "لا تسمع دعوي ضمان العيب بانقضاء (مائة وثمانين) يوما من تاريخ تسليم المبيع؛ ما لم يلتزم البائع بالضمان مدة اطول.",
+    "target_en_norm": "a claim for warranty against defects may not be heard upon the lapse of 180 days from the date of delivery of the sold item, unless the seller’s warranty extends beyond such period.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50882,
+    "source_ar": "ليس للبائع أن يتمسك بانقضاء المدة الواردة في الفقرة (1) من هذه المادة إذا ثبت أن إخفاء العيب كان بغشٍّ منه.",
+    "target_en": "The seller may not assert the lapse of the period provided for in paragraph (1) of this Article if it is established that he fraudulently concealed the defect.",
+    "source_ar_norm": "ليس للبائع ان يتمسك بانقضاء المدة الواردة في الفقرة (1) من هذه المادة اذا ثبت ان اخفاء العيب كان بغش منه.",
+    "target_en_norm": "the seller may not assert the lapse of the period provided for in paragraph (1) of this article if it is established that he fraudulently concealed the defect.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50883,
+    "source_ar": "ثانيًا: التزامات المشتري",
+    "target_en": "Second: Obligations of the Buyer",
+    "source_ar_norm": "ثانيا: التزامات المشتري",
+    "target_en_norm": "second: obligations of the buyer",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50884,
+    "source_ar": "المادة الخامسة والأربعون بعد الثلاثمائة",
+    "target_en": "Article 345",
+    "source_ar_norm": "المادة الخامسة والاربعون بعد الثلاثمائة",
+    "target_en_norm": "article 345",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50885,
+    "source_ar": "يلزم المشتري أداء الثمن قبل تسلُّم المبيع؛ ما لم يتفق على خلاف ذلك.",
+    "target_en": "The buyer shall pay the price of the sold item prior to taking delivery thereof, unless agreed otherwise.",
+    "source_ar_norm": "يلزم المشتري اداء الثمن قبل تسلم المبيع؛ ما لم يتفق علي خلاف ذلك.",
+    "target_en_norm": "the buyer shall pay the price of the sold item prior to taking delivery thereof, unless agreed otherwise.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50886,
+    "source_ar": "المادة السادسة والأربعون بعد الثلاثمائة",
+    "target_en": "Article 346",
+    "source_ar_norm": "المادة السادسة والاربعون بعد الثلاثمائة",
+    "target_en_norm": "article 346",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50887,
+    "source_ar": "للبائع أن يحبس المبيع حتى يستوفي ما هو مستحق له من الثمن ولو قدم المشتري رهنًا أو كفالةً. وإذا هلك المبيع أو تلف في يد البائع وهو حابس له كانت تبعة ذلك على المشتري.",
+    "target_en": "The seller may retain possession of the sold item until he receives the due amount from the sale price, even if the buyer offers a pledge or surety. If such item is destroyed or damaged while in the possession of the seller, the buyer shall be liable therefor.",
+    "source_ar_norm": "للبائع ان يحبس المبيع حتي يستوفي ما هو مستحق له من الثمن ولو قدم المشتري رهنا او كفالة. واذا هلك المبيع او تلف في يد البائع وهو حابس له كانت تبعة ذلك علي المشتري.",
+    "target_en_norm": "the seller may retain possession of the sold item until he receives the due amount from the sale price, even if the buyer offers a pledge or surety. if such item is destroyed or damaged while in the possession of the seller, the buyer shall be liable therefor.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50888,
+    "source_ar": "إذا قبل البائع تأجيل الثمن سقط حقه في حبس المبيع ولزمه تسليم المبيع للمشتري.",
+    "target_en": "If the seller consents to the deferral of payment of the sale price, he shall relinquish his right to retain possession of the sold item and shall deliver it to the buyer.",
+    "source_ar_norm": "اذا قبل البائع تاجيل الثمن سقط حقه في حبس المبيع ولزمه تسليم المبيع للمشتري.",
+    "target_en_norm": "if the seller consents to the deferral of payment of the sale price, he shall relinquish his right to retain possession of the sold item and shall deliver it to the buyer.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50889,
+    "source_ar": "المادة السابعة والأربعون بعد الثلاثمائة",
+    "target_en": "Article 347",
+    "source_ar_norm": "المادة السابعة والاربعون بعد الثلاثمائة",
+    "target_en_norm": "article 347",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50890,
+    "source_ar": "إذا تسلّم المشتري المبيع قبل أداء الثمن الحال على علم من البائع ولم يمنعه كان ذلك إذنًا بالتسلم.",
+    "target_en": "If the buyer takes delivery of the sold item prior to paying its due price and the seller is aware of such delivery and does not attempt to prevent it, this shall be deemed a consent of such delivery.",
+    "source_ar_norm": "اذا تسلم المشتري المبيع قبل اداء الثمن الحال علي علم من البائع ولم يمنعه كان ذلك اذنا بالتسلم.",
+    "target_en_norm": "if the buyer takes delivery of the sold item prior to paying its due price and the seller is aware of such delivery and does not attempt to prevent it, this shall be deemed a consent of such delivery.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50891,
+    "source_ar": "إذا تسلّم المشتري المبيع قبل أداء الثمن الحال دون إذن البائع كان للبائع استرداده، وإذا هلك أو تلف في يد المشتري عُدَّ متسلمًا له، وللبائع إن اختار استرداده مطالبة المشتري بالتعويض.",
+    "target_en": "If the buyer takes delivery of the sold item prior to paying its due price without the seller’s consent, the seller may redeem such item. If the item is destroyed or damaged while in the possession of the buyer, the buyer shall be deemed to have taken delivery thereof and the seller may, if he decides to exercise his right of redemption, demand compensation from the buyer.",
+    "source_ar_norm": "اذا تسلم المشتري المبيع قبل اداء الثمن الحال دون اذن البائع كان للبائع استرداده، واذا هلك او تلف في يد المشتري عد متسلما له، وللبائع ان اختار استرداده مطالبة المشتري بالتعويض.",
+    "target_en_norm": "if the buyer takes delivery of the sold item prior to paying its due price without the seller’s consent, the seller may redeem such item. if the item is destroyed or damaged while in the possession of the buyer, the buyer shall be deemed to have taken delivery thereof and the seller may, if he decides to exercise his right of redemption, demand compensation from the buyer.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50892,
+    "source_ar": "المادة الثامنة والأربعون بعد الثلاثمائة",
+    "target_en": "Article 348",
+    "source_ar_norm": "المادة الثامنة والاربعون بعد الثلاثمائة",
+    "target_en_norm": "article 348",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50893,
+    "source_ar": "يلتزم المشتري بأداء الثمن الذي استحق وفاؤه وقت تسليم المبيع في مكان التسليم، وإذا لم يكن الثمن مستحق الوفاء وقت تسليم المبيع، لزم أداؤه في مكان العقد، وذلك كله ما لم يتفق على خلافه.",
+    "target_en": "The buyer shall pay at the place of delivery the price that is due at the time of delivery of the sold item; if the price is not due at the time of delivery, it shall be paid at the place where the contract was concluded, unless agreed otherwise.",
+    "source_ar_norm": "يلتزم المشتري باداء الثمن الذي استحق وفاؤه وقت تسليم المبيع في مكان التسليم، واذا لم يكن الثمن مستحق الوفاء وقت تسليم المبيع، لزم اداؤه في مكان العقد، وذلك كله ما لم يتفق علي خلافه.",
+    "target_en_norm": "the buyer shall pay at the place of delivery the price that is due at the time of delivery of the sold item; if the price is not due at the time of delivery, it shall be paid at the place where the contract was concluded, unless agreed otherwise.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50894,
+    "source_ar": "المادة التاسعة والأربعون بعد الثلاثمائة",
+    "target_en": "Article 349",
+    "source_ar_norm": "المادة التاسعة والاربعون بعد الثلاثمائة",
+    "target_en_norm": "article 349",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50895,
+    "source_ar": "إذا رفعت على المشتري دعوى استحقاق المبيع مستندةً إلى حقٍّ سابقٍ على البيع أو آيلٍ إلى مدعي الاستحقاق من البائع؛ جاز للمشتري حبس الثمن حتى يقدم البائع ضمانًا مناسبًا برد الثمن عند ثبوت الاستحقاق.",
+    "target_en": "If a claim of ownership over a sold item is filed against a buyer on grounds of a right established prior to the sale or a right which devolved to the party claiming ownership from the seller, the buyer may withhold payment until the seller provides adequate security for reimbursing the amount paid if such right is established. of Justice in lieu of the security.",
+    "source_ar_norm": "اذا رفعت علي المشتري دعوي استحقاق المبيع مستندة الي حق سابق علي البيع او ايل الي مدعي الاستحقاق من البائع؛ جاز للمشتري حبس الثمن حتي يقدم البائع ضمانا مناسبا برد الثمن عند ثبوت الاستحقاق.",
+    "target_en_norm": "if a claim of ownership over a sold item is filed against a buyer on grounds of a right established prior to the sale or a right which devolved to the party claiming ownership from the seller, the buyer may withhold payment until the seller provides adequate security for reimbursing the amount paid if such right is established. of justice in lieu of the security.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50896,
+    "source_ar": "وللبائع أن يطلب من المحكمة تكليف المشتري إيداع الثمن لدى الجهة التي يحددها وزير العدل بدلًا من تقديم الضمان.",
+    "target_en": "The seller may petition the court to order the buyer to deposit such amount with an entity to be designated by the Minister.",
+    "source_ar_norm": "وللبائع ان يطلب من المحكمة تكليف المشتري ايداع الثمن لدي الجهة التي يحددها وزير العدل بدلا من تقديم الضمان.",
+    "target_en_norm": "the seller may petition the court to order the buyer to deposit such amount with an entity to be designated by the minister.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50897,
+    "source_ar": "يسري حكم الفقرة (1) من هذه المادة إذا تبين للمشتري أن في المبيع عيبًا مضمونًا على البائع.",
+    "target_en": "The provisions of paragraph (1) of this Article shall apply if the buyer discovers a defect in the sold item that is under the seller’s warranty.",
+    "source_ar_norm": "يسري حكم الفقرة (1) من هذه المادة اذا تبين للمشتري ان في المبيع عيبا مضمونا علي البائع.",
+    "target_en_norm": "the provisions of paragraph (1) of this article shall apply if the buyer discovers a defect in the sold item that is under the seller’s warranty.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50898,
+    "source_ar": "المادة الخمسون بعد الثلاثمائة",
+    "target_en": "Article 350",
+    "source_ar_norm": "المادة الخمسون بعد الثلاثمائة",
+    "target_en_norm": "article 350",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50899,
+    "source_ar": "إذا حُدد في البيع موعدٌ معيَّنٌ، واشترط البائع أنه إذا لم يؤد المشتري الثمن في الموعد فلا بيع بينهما، ولم يؤده؛ عُدَّ البيع مفسوخًا إذا اختار البائع ذلك، دون حاجةٍ إلى إعذار، وذلك كله ما لم يتفق على خلافه.",
+    "target_en": "If a deadline for payment is set in the sale contract and the seller stipulates termination of the sale upon the buyer’s failure to meet such deadline and the buyer fails to do so, the sale shall be deemed terminated if the seller so elects without the need for notification, unless agreed otherwise.",
+    "source_ar_norm": "اذا حدد في البيع موعد معين، واشترط البائع انه اذا لم يؤد المشتري الثمن في الموعد فلا بيع بينهما، ولم يؤده؛ عد البيع مفسوخا اذا اختار البائع ذلك، دون حاجة الي اعذار، وذلك كله ما لم يتفق علي خلافه.",
+    "target_en_norm": "if a deadline for payment is set in the sale contract and the seller stipulates termination of the sale upon the buyer’s failure to meet such deadline and the buyer fails to do so, the sale shall be deemed terminated if the seller so elects without the need for notification, unless agreed otherwise.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50900,
+    "source_ar": "المادة الحادية والخمسون بعد الثلاثمائة",
+    "target_en": "Article 351",
+    "source_ar_norm": "المادة الحادية والخمسون بعد الثلاثمائة",
+    "target_en_norm": "article 351",
+    "file_name": "نظام المعاملات المدنية.docx"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 54101,
+    "source_ar": "المادة الخامسة عشرة",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة",
+    "target_en_norm": "article 15",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54102,
+    "source_ar": "تُخصص كميات الاستخدام من المياه للأغراض التنموية بقرار من اللجنة الوزارية -بناءً على اقتراح الوزارة- اعتمادًا على خصائص الطبقات الحاملة للمياه، ومعدل الجريان السنوي للأودية، بما يضمن استدامتها، وإمدادات مياه الشرب الحالية والمستقبلية، وذلك بالتنسيق مع الجهات ذات العلاقة.",
+    "target_en": "Quantities of water shall be allocated for development purposes pursuant to a decision by the Ministerial Committee, upon the recommendation of the Ministry, based on the properties of the water-bearing layers and the annual flow rate of the valleys to ensure their sustainability as well as current and future potable water supplies, in coordination with relevant agencies.",
+    "source_ar_norm": "تخصص كميات الاستخدام من المياه للاغراض التنموية بقرار من اللجنة الوزارية -بناء علي اقتراح الوزارة- اعتمادا علي خصائص الطبقات الحاملة للمياه، ومعدل الجريان السنوي للاودية، بما يضمن استدامتها، وامدادات مياه الشرب الحالية والمستقبلية، وذلك بالتنسيق مع الجهات ذات العلاقة.",
+    "target_en_norm": "quantities of water shall be allocated for development purposes pursuant to a decision by the ministerial committee, upon the recommendation of the ministry, based on the properties of the water-bearing layers and the annual flow rate of the valleys to ensure their sustainability as well as current and future potable water supplies, in coordination with relevant agencies.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54103,
+    "source_ar": "المادة السادسة عشرة",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة",
+    "target_en_norm": "article 16",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54104,
+    "source_ar": "1. تستخدم المياه المخصصة للأغراض الزراعية، وفقًا للاستراتيجيات الوطنية المعتمدة للوزارة التي تُحدد بقرار من الوزير.",
+    "target_en": "1. Water allocated for agricultural purposes shall be used in accordance with the Ministry’s national strategies approved by the Minister.",
+    "source_ar_norm": "1. تستخدم المياه المخصصة للاغراض الزراعية، وفقا للاستراتيجيات الوطنية المعتمدة للوزارة التي تحدد بقرار من الوزير.",
+    "target_en_norm": "1. water allocated for agricultural purposes shall be used in accordance with the ministry’s national strategies approved by the minister.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54105,
+    "source_ar": "2. لا يجوز القيام بأي من الأعمال أو الأنشطة الآتي ذكرها، أو الإعداد للقيام بها إلا بعد الحصول على الرخصة اللازمة؛ وفقًا للمقابل المالي للرخصة الذي تحدده اللجنة الوزارية والاشتراطات التي تحددها الوزارة:",
+    "target_en": "2. The following actions or activities may be carried out or prepared for only after obtaining the necessary license, the fee and requirements of which shall be determined by the Ministerial Committee and the Ministry, respectively:",
+    "source_ar_norm": "2. لا يجوز القيام باي من الاعمال او الانشطة الاتي ذكرها، او الاعداد للقيام بها الا بعد الحصول علي الرخصة اللازمة؛ وفقا للمقابل المالي للرخصة الذي تحدده اللجنة الوزارية والاشتراطات التي تحددها الوزارة:",
+    "target_en_norm": "2. the following actions or activities may be carried out or prepared for only after obtaining the necessary license, the fee and requirements of which shall be determined by the ministerial committee and the ministry, respectively:",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54106,
+    "source_ar": "أ- أنشطة إمدادات المياه للأغراض الزراعية.",
+    "target_en": "a) Water supply for agricultural purposes.",
+    "source_ar_norm": "ا- انشطة امدادات المياه للاغراض الزراعية.",
+    "target_en_norm": "a) water supply for agricultural purposes.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54107,
+    "source_ar": "ب-أنشطة المشتري الرئيس الخاضعة لاختصاص الوزارة بموجب النظام.",
+    "target_en": "b) Principal purchaser activities falling within the Ministry’s jurisdiction as determined by this Law.",
+    "source_ar_norm": "ب-انشطة المشتري الرئيس الخاضعة لاختصاص الوزارة بموجب النظام.",
+    "target_en_norm": "b) principal purchaser activities falling within the ministry’s jurisdiction as determined by this law.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54108,
+    "source_ar": "المادة السابعة عشرة",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة",
+    "target_en_norm": "article 17",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54109,
+    "source_ar": "على الجهات المعنية عدم إصدار رخص أو موافقات على إقامة أيّ منشأة قد تعوق استخدام المياه السطحية إلا بموافقة مسبقة من الوزارة.",
+    "target_en": "The relevant agencies may not issue licenses or approvals for any facility the establishment of which would obstruct the utilization of surface water, without obtaining the approval of the Ministry.",
+    "source_ar_norm": "علي الجهات المعنية عدم اصدار رخص او موافقات علي اقامة اي منشاة قد تعوق استخدام المياه السطحية الا بموافقة مسبقة من الوزارة.",
+    "target_en_norm": "the relevant agencies may not issue licenses or approvals for any facility the establishment of which would obstruct the utilization of surface water, without obtaining the approval of the ministry.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54110,
+    "source_ar": "المادة الثامنة عشرة",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة",
+    "target_en_norm": "article 18",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54111,
+    "source_ar": "للوزير -فيما عدا ما تستثنيه اللجنة الوزارية- الحق في إيقاف أي رخصة استخدام مصدر، أو تخفيض الكميات المحددة فيها لأسباب شح المياه، أو نقصها، أو لأي سبب متعلق بالأمن المائي، أو البيئي، أو الصحة العامة. وتقوم الوزارة بالتنسيق مع الهيئة خلال مدة تحددها لوائح الوزارة قبل أي إجراء في هذا الشأن إذا كان مقامًا على المصدر نشاط تقديم الخدمة مرخصًا به من الهيئة.",
+    "target_en": "The Minister may, for reasons relating to water shortage or scarcity, water or environmental security, or public health, suspend any resource use license or reduce the permitted quantities specified therein, except for resources excluded by the Ministerial Committee. The Ministry shall coordinate with the Authority within a period determined by the Ministry’s regulations prior to taking any action in this regard if a service provision licensed by the Authority is established on the resource.",
+    "source_ar_norm": "للوزير -فيما عدا ما تستثنيه اللجنة الوزارية- الحق في ايقاف اي رخصة استخدام مصدر، او تخفيض الكميات المحددة فيها لاسباب شح المياه، او نقصها، او لاي سبب متعلق بالامن المائي، او البيئي، او الصحة العامة. وتقوم الوزارة بالتنسيق مع الهيئة خلال مدة تحددها لوائح الوزارة قبل اي اجراء في هذا الشان اذا كان مقاما علي المصدر نشاط تقديم الخدمة مرخصا به من الهيئة.",
+    "target_en_norm": "the minister may, for reasons relating to water shortage or scarcity, water or environmental security, or public health, suspend any resource use license or reduce the permitted quantities specified therein, except for resources excluded by the ministerial committee. the ministry shall coordinate with the authority within a period determined by the ministry’s regulations prior to taking any action in this regard if a service provision licensed by the authority is established on the resource.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54112,
+    "source_ar": "المادة التاسعة عشرة",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة",
+    "target_en_norm": "article 19",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54113,
+    "source_ar": "تتخذ الوزارة الإجراءات والتدابير اللازمة لمنع استخدام مصادر المياه التي أصبحت غير صالحة للاستخدام، بما في ذلك إيقاف إصدار رخصة استخدام المصدر، أو إلغائها.",
+    "target_en": "The Ministry shall take the necessary procedures and measures to prevent the use of water resources that have become unusable, including revoking or suspending the issuance of resource use licenses.",
+    "source_ar_norm": "تتخذ الوزارة الاجراءات والتدابير اللازمة لمنع استخدام مصادر المياه التي اصبحت غير صالحة للاستخدام، بما في ذلك ايقاف اصدار رخصة استخدام المصدر، او الغائها.",
+    "target_en_norm": "the ministry shall take the necessary procedures and measures to prevent the use of water resources that have become unusable, including revoking or suspending the issuance of resource use licenses.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54114,
+    "source_ar": "المادة العشرون",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون",
+    "target_en_norm": "article 20",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54115,
+    "source_ar": "1. لمفتشي الوزارة الحق في دخول المواقع والمنشآت بما فيها المناطق الخاصة وفق اختصاصها؛ وذلك للتأكد من نظامية الحصول على المياه واستخداماتها، وسلامة مصادرها، ومدى التقيد بشروط الرخصة، والالتزام بتطبيق أحكام النظام، وذلك بالتنسيق مع الجهات المختصة.",
+    "target_en": "1. Ministry inspectors shall, in accordance with its jurisdiction, have the right to access sites and facilities, including special zones to ensure the legality of water access and use, the safety of water resources, and the compliance with the terms of the license and provisions of the Law, in coordination with the competent authorities.",
+    "source_ar_norm": "1. لمفتشي الوزارة الحق في دخول المواقع والمنشات بما فيها المناطق الخاصة وفق اختصاصها؛ وذلك للتاكد من نظامية الحصول علي المياه واستخداماتها، وسلامة مصادرها، ومدي التقيد بشروط الرخصة، والالتزام بتطبيق احكام النظام، وذلك بالتنسيق مع الجهات المختصة.",
+    "target_en_norm": "1. ministry inspectors shall, in accordance with its jurisdiction, have the right to access sites and facilities, including special zones to ensure the legality of water access and use, the safety of water resources, and the compliance with the terms of the license and provisions of the law, in coordination with the competent authorities.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54116,
+    "source_ar": "2. في حال إعاقة مفتشي الوزارة عن تأدية أعمالهم، فللوزارة التنسيق مع الجهات المختصة لاتخاذ الإجراءات اللازمة؛ لإتمام عملية الدخول.",
+    "target_en": "2. If Ministry inspectors are prevented from accessing sites or facilities to carry out their duties, the Ministry may coordinate with the relevant agencies to take measures necessary to grant them access.",
+    "source_ar_norm": "2. في حال اعاقة مفتشي الوزارة عن تادية اعمالهم، فللوزارة التنسيق مع الجهات المختصة لاتخاذ الاجراءات اللازمة؛ لاتمام عملية الدخول.",
+    "target_en_norm": "2. if ministry inspectors are prevented from accessing sites or facilities to carry out their duties, the ministry may coordinate with the relevant agencies to take measures necessary to grant them access.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54117,
+    "source_ar": "المادة الحادية والعشرون",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون",
+    "target_en_norm": "article 21",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54118,
+    "source_ar": "1. يُحظر استخدام مياه الصرف في جميع الأحوال والأغراض.",
+    "target_en": "1. Wastewater may not be used for any purposes under any circumstances.",
+    "source_ar_norm": "1. يحظر استخدام مياه الصرف في جميع الاحوال والاغراض.",
+    "target_en_norm": "1. wastewater may not be used for any purposes under any circumstances.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54119,
+    "source_ar": "2. يُحظر استخدام مياه الصرف المعالجة لأي غرض، أو نشاط، أو تصريفها؛ إلا وفقًا للمعايير المعتمدة، وأولويات الاستخدام التي تقرها الوزارة.",
+    "target_en": "2. Treated wastewater may not be used for any purpose or activity, or be discharged, except in accordance with standards and usage priorities approved by the Ministry.",
+    "source_ar_norm": "2. يحظر استخدام مياه الصرف المعالجة لاي غرض، او نشاط، او تصريفها؛ الا وفقا للمعايير المعتمدة، واولويات الاستخدام التي تقرها الوزارة.",
+    "target_en_norm": "2. treated wastewater may not be used for any purpose or activity, or be discharged, except in accordance with standards and usage priorities approved by the ministry.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54120,
+    "source_ar": "3. يُحظر مزاولة نشاط نقل أو تجميع مياه الصرف (الصحي أو الصناعي) أو التخلص منها وتصريفها باستخدام شبكة الصرف أو الصهاريج أو أي وسيلة أخرى إلا بعد الحصول على رخصة تقديم الخدمة.",
+    "target_en": "3. Sanitary or industrial wastewater may not be transported or collected, or disposed of or discharged using the sewage network, tanks, or any other means, except after obtaining a service provision license.",
+    "source_ar_norm": "3. يحظر مزاولة نشاط نقل او تجميع مياه الصرف (الصحي او الصناعي) او التخلص منها وتصريفها باستخدام شبكة الصرف او الصهاريج او اي وسيلة اخري الا بعد الحصول علي رخصة تقديم الخدمة.",
+    "target_en_norm": "3. sanitary or industrial wastewater may not be transported or collected, or disposed of or discharged using the sewage network, tanks, or any other means, except after obtaining a service provision license.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54121,
+    "source_ar": "المادة الثانية والعشرون",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون",
+    "target_en_norm": "article 22",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54122,
+    "source_ar": "1. لمفتش الوزارة حق دخول المزارع التي تستخدم المياه المعالجة؛ لغرض المراقبة والتفتيش، والتحقق من التقيد بشروط الرخصة، وذلك بالتنسيق مع الجهات الحكومية المعنية، وأخذ القياسات والعينات؛ للتأكد من خلوِّ المياه المعالجة والمنتجات والمزروعات المروية بها من الملوثات، وسلامتها من أي ضرر أو خطورة على الصحة أو البيئة.",
+    "target_en": "1. Ministry inspectors may, in coordination with the relevant government agencies, access farms that use treated water for monitoring and inspection in order to verify compliance with the terms of the license, and for taking measurements and samples to ensure that treated water and the products and plants irrigated therewith are free from contaminants and do not pose a risk to health or the environment.",
+    "source_ar_norm": "1. لمفتش الوزارة حق دخول المزارع التي تستخدم المياه المعالجة؛ لغرض المراقبة والتفتيش، والتحقق من التقيد بشروط الرخصة، وذلك بالتنسيق مع الجهات الحكومية المعنية، واخذ القياسات والعينات؛ للتاكد من خلو المياه المعالجة والمنتجات والمزروعات المروية بها من الملوثات، وسلامتها من اي ضرر او خطورة علي الصحة او البيئة.",
+    "target_en_norm": "1. ministry inspectors may, in coordination with the relevant government agencies, access farms that use treated water for monitoring and inspection in order to verify compliance with the terms of the license, and for taking measurements and samples to ensure that treated water and the products and plants irrigated therewith are free from contaminants and do not pose a risk to health or the environment.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54123,
+    "source_ar": "2. في حال منع أو إعاقة مفتشي الوزارة عن تأدية أعمالهم، فللوزارة التنسيق مع الجهات المختصة؛ لاتخاذ الإجراءات اللازمة؛ لإتمام عملية الدخول.",
+    "target_en": "2. If Ministry inspectors are prevented from accessing farms to carry out their duties, the Ministry may coordinate with the relevant agencies to take measures necessary to grant them access.",
+    "source_ar_norm": "2. في حال منع او اعاقة مفتشي الوزارة عن تادية اعمالهم، فللوزارة التنسيق مع الجهات المختصة؛ لاتخاذ الاجراءات اللازمة؛ لاتمام عملية الدخول.",
+    "target_en_norm": "2. if ministry inspectors are prevented from accessing farms to carry out their duties, the ministry may coordinate with the relevant agencies to take measures necessary to grant them access.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54124,
+    "source_ar": "المادة الثالثة والعشرون",
+    "target_en": "Article 23",
+    "source_ar_norm": "المادة الثالثة والعشرون",
+    "target_en_norm": "article 23",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54125,
+    "source_ar": "ما عدا الشرب والاستخدامات المنزلية والصناعات الغذائية، يُسمح باستخدام المياه المعالجة ثلاثيًا بعد التأكد من سلامتها، وخلوها من الملوثات، ومواءمتها، وفق الضوابط والاشتراطات التي تحددها لوائح الوزارة.",
+    "target_en": "Tertiary treated wastewater shall not be used for drinking, household purposes, or in food industries. It may be used for other purposes after ensuring that it is suitable, safe, and contaminant-free, in accordance with the rules and conditions specified in the Ministry’s regulations.",
+    "source_ar_norm": "ما عدا الشرب والاستخدامات المنزلية والصناعات الغذائية، يسمح باستخدام المياه المعالجة ثلاثيا بعد التاكد من سلامتها، وخلوها من الملوثات، ومواءمتها، وفق الضوابط والاشتراطات التي تحددها لوائح الوزارة.",
+    "target_en_norm": "tertiary treated wastewater shall not be used for drinking, household purposes, or in food industries. it may be used for other purposes after ensuring that it is suitable, safe, and contaminant-free, in accordance with the rules and conditions specified in the ministry’s regulations.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54126,
+    "source_ar": "المادة الرابعة والعشرون",
+    "target_en": "Article 24",
+    "source_ar_norm": "المادة الرابعة والعشرون",
+    "target_en_norm": "article 24",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54127,
+    "source_ar": "يجب أن تشتمل منظومة الري الزراعي على نظام صرف متكامل لتجميع مياه الري الزائدة، والتخلص منها بطريقة آمنة؛ للمحافظة على مصادر المياه من التلوث، وفقًا لما تحدده لوائح الوزارة.",
+    "target_en": "An irrigation system shall, in order to protect water resources from pollution, include an integrated drainage system to collect and dispose of excess irrigation water in a safe manner, as specified in the Ministry’s regulations.",
+    "source_ar_norm": "يجب ان تشتمل منظومة الري الزراعي علي نظام صرف متكامل لتجميع مياه الري الزائدة، والتخلص منها بطريقة امنة؛ للمحافظة علي مصادر المياه من التلوث، وفقا لما تحدده لوائح الوزارة.",
+    "target_en_norm": "an irrigation system shall, in order to protect water resources from pollution, include an integrated drainage system to collect and dispose of excess irrigation water in a safe manner, as specified in the ministry’s regulations.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54128,
+    "source_ar": "المادة الخامسة والعشرون",
+    "target_en": "Article 25",
+    "source_ar_norm": "المادة الخامسة والعشرون",
+    "target_en_norm": "article 25",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54129,
+    "source_ar": "يسمح باستخدام المياه المعالجة ثنائيًا في الري الزراعي المقيد، والصناعة، والتعدين، والأعمال الإنشائية، ونحوها من الأنشطة والأعمال؛ بعد التأكد من سلامتها، وخلوِّها من الملوثات، وفق الضوابط والاشتراطات التي تحددها لوائح الوزارة.",
+    "target_en": "Secondary treated water may be used for restricted irrigation, and in industry, mining, construction, and other similar activities, after ensuring that it is safe and contaminant-free, in accordance with the rules and conditions specified in the Ministry’s regulations.",
+    "source_ar_norm": "يسمح باستخدام المياه المعالجة ثنائيا في الري الزراعي المقيد، والصناعة، والتعدين، والاعمال الانشائية، ونحوها من الانشطة والاعمال؛ بعد التاكد من سلامتها، وخلوها من الملوثات، وفق الضوابط والاشتراطات التي تحددها لوائح الوزارة.",
+    "target_en_norm": "secondary treated water may be used for restricted irrigation, and in industry, mining, construction, and other similar activities, after ensuring that it is safe and contaminant-free, in accordance with the rules and conditions specified in the ministry’s regulations.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54130,
+    "source_ar": "المادة السادسة والعشرون",
+    "target_en": "Article 26",
+    "source_ar_norm": "المادة السادسة والعشرون",
+    "target_en_norm": "article 26",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54131,
+    "source_ar": "على جميع الجهات الحكومية والخاصة التنسيق مع المرخّص له بنشاط تقديم الخدمة قبل ربط مياه الصرف الصحي بشبكات الصرف، أو تجميع مياه الصرف الصحي بوساطة الصهاريج، وتفريغها في محطة المعالجة -في حال عدم توفر شبكة للصرف للصحي- وفق ما تبينه لوائح الهيئة.",
+    "target_en": "All government and private agencies shall coordinate with a licensed service provider prior to connecting wastewater to sewage networks, or prior to collecting wastewater by tanks and discharging it into a treatment plant in the absence of a sewage network, as specified in the Authority’s regulations.",
+    "source_ar_norm": "علي جميع الجهات الحكومية والخاصة التنسيق مع المرخص له بنشاط تقديم الخدمة قبل ربط مياه الصرف الصحي بشبكات الصرف، او تجميع مياه الصرف الصحي بوساطة الصهاريج، وتفريغها في محطة المعالجة -في حال عدم توفر شبكة للصرف للصحي- وفق ما تبينه لوائح الهيئة.",
+    "target_en_norm": "all government and private agencies shall coordinate with a licensed service provider prior to connecting wastewater to sewage networks, or prior to collecting wastewater by tanks and discharging it into a treatment plant in the absence of a sewage network, as specified in the authority’s regulations.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54132,
+    "source_ar": "المادة السابعة والعشرون",
+    "target_en": "Article 27",
+    "source_ar_norm": "المادة السابعة والعشرون",
+    "target_en_norm": "article 27",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54133,
+    "source_ar": "يخضع استخدام الحمأة للضوابط والمعايير اللازمة لحماية الصحة العامة والبيئة التي تصدرها الوزارة.",
+    "target_en": "Sludge shall be used in accordance with rules and standards issued by the Ministry for the protection of public health and the environment.",
+    "source_ar_norm": "يخضع استخدام الحماة للضوابط والمعايير اللازمة لحماية الصحة العامة والبيئة التي تصدرها الوزارة.",
+    "target_en_norm": "sludge shall be used in accordance with rules and standards issued by the ministry for the protection of public health and the environment.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54134,
+    "source_ar": "المادة الثامنة والعشرون",
+    "target_en": "Article 28",
+    "source_ar_norm": "المادة الثامنة والعشرون",
+    "target_en_norm": "article 28",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54135,
+    "source_ar": "1. يُشترط لإصدار أي رخصة لإقامة أي منشأة، أو إعطاء الموافقات والفسوحات النهائية، أو إمداد أي منشأة بالمياه؛ الآتي:",
+    "target_en": "1. Issuing a license to establish a facility, granting final approvals and clearances, or supplying water to a facility, shall require:",
+    "source_ar_norm": "1. يشترط لاصدار اي رخصة لاقامة اي منشاة، او اعطاء الموافقات والفسوحات النهائية، او امداد اي منشاة بالمياه؛ الاتي:",
+    "target_en_norm": "1. issuing a license to establish a facility, granting final approvals and clearances, or supplying water to a facility, shall require:",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54136,
+    "source_ar": "أ- توافر نظام مناسب للتخلص من مياه الصرف قابل للربط بأنظمة التجميع والمعالجة في المخططات الأولية، وفي التنفيذ الفعلي.",
+    "target_en": "a) a suitable wastewater disposal system that can be connected to collection and treatment systems during planning and execution; and",
+    "source_ar_norm": "ا- توافر نظام مناسب للتخلص من مياه الصرف قابل للربط بانظمة التجميع والمعالجة في المخططات الاولية، وفي التنفيذ الفعلي.",
+    "target_en_norm": "a) a suitable wastewater disposal system that can be connected to collection and treatment systems during planning and execution; and",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54137,
+    "source_ar": "ب- توافر محطة خاصة لمعالجة مياه الصرف (الحضري أو الصناعي)، مرخصة من الهيئة، ومطابقة للمعايير والاشتراطات الفنية التي تحددها، وذلك في حال عدم توافر شبكة صرف.",
+    "target_en": "b) a plant for treatment of urban or industrial wastewater that is licensed by the Authority and that conforms with the technical standards and requirements specified by the Authority, in the absence of a sewage network.",
+    "source_ar_norm": "ب- توافر محطة خاصة لمعالجة مياه الصرف (الحضري او الصناعي)، مرخصة من الهيئة، ومطابقة للمعايير والاشتراطات الفنية التي تحددها، وذلك في حال عدم توافر شبكة صرف.",
+    "target_en_norm": "b) a plant for treatment of urban or industrial wastewater that is licensed by the authority and that conforms with the technical standards and requirements specified by the authority, in the absence of a sewage network.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54138,
+    "source_ar": "2. تحدد لوائح الهيئة المنشآت (الحكومية أو الخاصة) الملزَمة بتطبيق الفقرتين (أ) و(ب) من الفقرة (1) من هذه المادة.",
+    "target_en": "2. Authority Regulations shall determine government or private facilities that are governed by paragraphs (1)(a) and (b) of this Article.",
+    "source_ar_norm": "2. تحدد لوائح الهيئة المنشات (الحكومية او الخاصة) الملزمة بتطبيق الفقرتين (ا) و(ب) من الفقرة (1) من هذه المادة.",
+    "target_en_norm": "2. authority regulations shall determine government or private facilities that are governed by paragraphs (1)(a) and (b) of this article.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54139,
+    "source_ar": "المادة التاسعة والعشرون",
+    "target_en": "Article 29",
+    "source_ar_norm": "المادة التاسعة والعشرون",
+    "target_en_norm": "article 29",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54140,
+    "source_ar": "عند توفر شبكات الصرف الصحي، يجب على المالك التوصيل بها، أو إنشاء محطة خاصة لمعالجة مياه الصرف الصحي، وفقًا لما تحدده لوائح الهيئة.",
+    "target_en": "If sewage networks are available, the owner shall connect to such networks; otherwise, he shall establish his own wastewater treatment plant, in accordance with the Authority’s regulations.",
+    "source_ar_norm": "عند توفر شبكات الصرف الصحي، يجب علي المالك التوصيل بها، او انشاء محطة خاصة لمعالجة مياه الصرف الصحي، وفقا لما تحدده لوائح الهيئة.",
+    "target_en_norm": "if sewage networks are available, the owner shall connect to such networks; otherwise, he shall establish his own wastewater treatment plant, in accordance with the authority’s regulations.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54141,
+    "source_ar": "المادة الثلاثون",
+    "target_en": "Article 30",
+    "source_ar_norm": "المادة الثلاثون",
+    "target_en_norm": "article 30",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54142,
+    "source_ar": "يحظر تصريف مياه الأمطار، أو المياه الجوفية، أو مياه المصارف الزراعية، وما في حكمها، أو المياه الناتجة من مواقع الإنشاءات، إلى شبكة الصرف العامة، إلا بموافقة المرخص له بنشاط تقديم الخدمة؛ وفقاً للاشتراطات التي تحددها الهيئة في رخصته.",
+    "target_en": "Rainwater, groundwater, agricultural drain water, and the like, or water originating from construction sites shall not be discharged into the public sewage network without obtaining the approval of the licensed service provider, in accordance with the license requirements set by the Authority.",
+    "source_ar_norm": "يحظر تصريف مياه الامطار، او المياه الجوفية، او مياه المصارف الزراعية، وما في حكمها، او المياه الناتجة من مواقع الانشاءات، الي شبكة الصرف العامة، الا بموافقة المرخص له بنشاط تقديم الخدمة؛ وفقا للاشتراطات التي تحددها الهيئة في رخصته.",
+    "target_en_norm": "rainwater, groundwater, agricultural drain water, and the like, or water originating from construction sites shall not be discharged into the public sewage network without obtaining the approval of the licensed service provider, in accordance with the license requirements set by the authority.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54143,
+    "source_ar": "المادة الحادية والثلاثون",
+    "target_en": "Article 31",
+    "source_ar_norm": "المادة الحادية والثلاثون",
+    "target_en_norm": "article 31",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54144,
+    "source_ar": "يجب أن توفر مصانع الزيوت، ومحطات غسيل السيارات، والمطاعم والمطابخ، وما في حكمها؛ مصايد الدهون أو الزيوت، وعلى المالك صيانتها ومتابعة عملها بما يحقق الغرض منها؛ بعد أخذ موافقة المرخّص له بنشاط تقديم الخدمة؛ وفقًا للاشتراطات التي تحددها الهيئة في رخصته.",
+    "target_en": "The owners of oil factories, car wash stations, restaurants, kitchens, and the like shall, after obtaining the approval of the licensed service provider, install and maintain grease or oil traps in accordance with the license specifications as determined by the Authority.",
+    "source_ar_norm": "يجب ان توفر مصانع الزيوت، ومحطات غسيل السيارات، والمطاعم والمطابخ، وما في حكمها؛ مصايد الدهون او الزيوت، وعلي المالك صيانتها ومتابعة عملها بما يحقق الغرض منها؛ بعد اخذ موافقة المرخص له بنشاط تقديم الخدمة؛ وفقا للاشتراطات التي تحددها الهيئة في رخصته.",
+    "target_en_norm": "the owners of oil factories, car wash stations, restaurants, kitchens, and the like shall, after obtaining the approval of the licensed service provider, install and maintain grease or oil traps in accordance with the license specifications as determined by the authority.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54145,
+    "source_ar": "الفصل السادس: تعريفة المياه",
+    "target_en": "Chapter 6: Water Tariffs",
+    "source_ar_norm": "الفصل السادس: تعريفة المياه",
+    "target_en_norm": "chapter 6: water tariffs",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54146,
+    "source_ar": "المادة الثانية والثلاثون",
+    "target_en": "Article 32",
+    "source_ar_norm": "المادة الثانية والثلاثون",
+    "target_en_norm": "article 32",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54147,
+    "source_ar": "1. تقوم اللجنة الوزارية باقتراح تعريفة المياه المتعلقة بمصادر المياه، ورفعها إلى مجلس الوزراء؛ لاعتمادها، على أن يراعى في ذلك الآتي:",
+    "target_en": "1. The Ministerial Committee shall propose water tariffs for water resources and submit the same to the Council of Ministers for approval, subject to the following:",
+    "source_ar_norm": "1. تقوم اللجنة الوزارية باقتراح تعريفة المياه المتعلقة بمصادر المياه، ورفعها الي مجلس الوزراء؛ لاعتمادها، علي ان يراعي في ذلك الاتي:",
+    "target_en_norm": "1. the ministerial committee shall propose water tariffs for water resources and submit the same to the council of ministers for approval, subject to the following:",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54148,
+    "source_ar": "أ- مبدأ ترشيد المياه، والمحافظة على مصادرها، واستدامتها.",
+    "target_en": "a) Rationalization of water use and conservation and sustainability of water resources.",
+    "source_ar_norm": "ا- مبدا ترشيد المياه، والمحافظة علي مصادرها، واستدامتها.",
+    "target_en_norm": "a) rationalization of water use and conservation and sustainability of water resources.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54149,
+    "source_ar": "ب- معدل الاحتياج الضروري من المياه للأشخاص، والمشاريع، والأنشطة الاقتصادية.",
+    "target_en": "b) Average needs of water for individuals, enterprises, and economic activities.",
+    "source_ar_norm": "ب- معدل الاحتياج الضروري من المياه للاشخاص، والمشاريع، والانشطة الاقتصادية.",
+    "target_en_norm": "b) average needs of water for individuals, enterprises, and economic activities.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54150,
+    "source_ar": "ج- مقتضيات سياسات التنمية الوطنية، واستراتيجياتها.",
+    "target_en": "c) Requirements of national development policies and strategies.",
+    "source_ar_norm": "ج- مقتضيات سياسات التنمية الوطنية، واستراتيجياتها.",
+    "target_en_norm": "c) requirements of national development policies and strategies.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54151,
+    "source_ar": "د- تكاليف إنتاج المياه، ونقلها، وتوزيعها، وتخزينها، وحماية مصادرها.",
+    "target_en": "d) Costs of water production, transportation, distribution, and storage, and the protection of water resources.",
+    "source_ar_norm": "د- تكاليف انتاج المياه، ونقلها، وتوزيعها، وتخزينها، وحماية مصادرها.",
+    "target_en_norm": "d) costs of water production, transportation, distribution, and storage, and the protection of water resources.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54152,
+    "source_ar": "هـ- الظروف الاقتصادية لذوي الدخل المنخفض.",
+    "target_en": "e) Economic conditions of low-income individuals.",
+    "source_ar_norm": "ه- الظروف الاقتصادية لذوي الدخل المنخفض.",
+    "target_en_norm": "e) economic conditions of low-income individuals.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54153,
+    "source_ar": "و- مصادر المياه المستخدمة، ونوعيتها.",
+    "target_en": "f) Water resources used and their quality.",
+    "source_ar_norm": "و- مصادر المياه المستخدمة، ونوعيتها.",
+    "target_en_norm": "f) water resources used and their quality.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54154,
+    "source_ar": "ز- كمية الاستهلاك الفعلية.",
+    "target_en": "g) Actual rate of water consumption.",
+    "source_ar_norm": "ز- كمية الاستهلاك الفعلية.",
+    "target_en_norm": "g) actual rate of water consumption.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54155,
+    "source_ar": "ح- طبيعة النشاط الاقتصادي المستخدم للمياه، وطرق الحصول على المياه وخدماتها.",
+    "target_en": "h) Nature of the economic activity for which water is used, and methods of obtaining water and its services.",
+    "source_ar_norm": "ح- طبيعة النشاط الاقتصادي المستخدم للمياه، وطرق الحصول علي المياه وخدماتها.",
+    "target_en_norm": "h) nature of the economic activity for which water is used, and methods of obtaining water and its services.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54156,
+    "source_ar": "2. تجري اللجنة الوزارية مراجعة دورية لتعريفة المياه -المشار إليها في الفقرة (1) من هذه المادة- مرة كل خمس سنوات على الأقل.",
+    "target_en": "2. The Ministerial Committee shall conduct a periodic review of the water tariffs referred to in paragraph (1) of this Article at least once every five years.",
+    "source_ar_norm": "2. تجري اللجنة الوزارية مراجعة دورية لتعريفة المياه -المشار اليها في الفقرة (1) من هذه المادة- مرة كل خمس سنوات علي الاقل.",
+    "target_en_norm": "2. the ministerial committee shall conduct a periodic review of the water tariffs referred to in paragraph (1) of this article at least once every five years.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54157,
+    "source_ar": "المادة الثالثة والثلاثون",
+    "target_en": "Article 33",
+    "source_ar_norm": "المادة الثالثة والثلاثون",
+    "target_en_norm": "article 33",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54158,
+    "source_ar": "تعتمد الهيئة التعريفات المتعلقة بأنشطة تقديم الخدمة، ومراجعتها بشكل دوري، وعليها أثناء مراجعتها لهذه التعريفات مراعاة الآتي:",
+    "target_en": "The Authority shall approve the tariffs for service provision activities, and shall take the following into consideration when conducting periodic reviews of such tariffs:",
+    "source_ar_norm": "تعتمد الهيئة التعريفات المتعلقة بانشطة تقديم الخدمة، ومراجعتها بشكل دوري، وعليها اثناء مراجعتها لهذه التعريفات مراعاة الاتي:",
+    "target_en_norm": "the authority shall approve the tariffs for service provision activities, and shall take the following into consideration when conducting periodic reviews of such tariffs:",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54159,
+    "source_ar": "1. مبدأ الترشيد والمحافظة على المياه، واستدامتها.",
+    "target_en": "1. Rationalization of water use, and conservation and sustainability of water resources.",
+    "source_ar_norm": "1. مبدا الترشيد والمحافظة علي المياه، واستدامتها.",
+    "target_en_norm": "1. rationalization of water use, and conservation and sustainability of water resources.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54160,
+    "source_ar": "2. حوافز تحسين الكفاءة الفنية، والكفاءة الاقتصادية، وجودة الخدمات؛ لتلبية احتياجات المجتمع الضرورية، والأنشطة الاقتصادية.",
+    "target_en": "2. Incentives for enhancing technical and economic efficiency and quality of services to meet the essential needs of the community and economic activities.",
+    "source_ar_norm": "2. حوافز تحسين الكفاءة الفنية، والكفاءة الاقتصادية، وجودة الخدمات؛ لتلبية احتياجات المجتمع الضرورية، والانشطة الاقتصادية.",
+    "target_en_norm": "2. incentives for enhancing technical and economic efficiency and quality of services to meet the essential needs of the community and economic activities.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54161,
+    "source_ar": "3. مقتضيات سياسات التنمية الوطنية، واستراتيجياتها.",
+    "target_en": "2. Requirements of national development policies and strategies.",
+    "source_ar_norm": "3. مقتضيات سياسات التنمية الوطنية، واستراتيجياتها.",
+    "target_en_norm": "2. requirements of national development policies and strategies.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54162,
+    "source_ar": "4. تمكين المرخّص له بنشاط تقديم الخدمة من التشغيل بكفاءة؛ لاستعادة التكاليف الكاملة، وتحقيق عائد معقول على رأس المال المستثمر.",
+    "target_en": "3. Enabling the licensed service provider to operate efficiently to recoup full costs and achieve a reasonable return on the invested capital.",
+    "source_ar_norm": "4. تمكين المرخص له بنشاط تقديم الخدمة من التشغيل بكفاءة؛ لاستعادة التكاليف الكاملة، وتحقيق عائد معقول علي راس المال المستثمر.",
+    "target_en_norm": "3. enabling the licensed service provider to operate efficiently to recoup full costs and achieve a reasonable return on the invested capital.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54163,
+    "source_ar": "5. الوضوح والسهولة في التطبيق والإدارة.",
+    "target_en": "4. Clarity and ease of implementation.",
+    "source_ar_norm": "5. الوضوح والسهولة في التطبيق والادارة.",
+    "target_en_norm": "4. clarity and ease of implementation.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54164,
+    "source_ar": "6. الظروف الاقتصادية لذوي الدخل المنخفض.",
+    "target_en": "5. Economic conditions of low-income individuals.",
+    "source_ar_norm": "6. الظروف الاقتصادية لذوي الدخل المنخفض.",
+    "target_en_norm": "5. economic conditions of low-income individuals.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54165,
+    "source_ar": "7. طبيعة النشاط الاقتصادي المستخدم للمياه، وطرق الحصول على المياه وخدماتها.",
+    "target_en": "6. Nature of the economic activity for which water is used, and methods of obtaining water and its services.",
+    "source_ar_norm": "7. طبيعة النشاط الاقتصادي المستخدم للمياه، وطرق الحصول علي المياه وخدماتها.",
+    "target_en_norm": "6. nature of the economic activity for which water is used, and methods of obtaining water and its services.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54166,
+    "source_ar": "الفصل السابع: التصرف بحقوق استخدام المياه",
+    "target_en": "Chapter 7: Transfer of Water Use Rights",
+    "source_ar_norm": "الفصل السابع: التصرف بحقوق استخدام المياه",
+    "target_en_norm": "chapter 7: transfer of water use rights",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54167,
+    "source_ar": "المادة الرابعة والثلاثون",
+    "target_en": "Article 34",
+    "source_ar_norm": "المادة الرابعة والثلاثون",
+    "target_en_norm": "article 34",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54168,
+    "source_ar": "1. على الوزارة -قبل نقل رخصة استخدام المصدر من مستخدم إلى آخر- التحقق من عدم وجود طلب آخر أكثر أولوية أو أكثر جدوى من الاستخدام المطلوب النقل إليه، وأن يكون الاستخدام الجديد متناسبًا مع الاستراتيجية والعطاء الآمن للمصدر؛ وفقًا للوائح الوزارة.",
+    "target_en": "1. The Ministry shall, prior to transferring the resource use license from one user to another, ensure that no application for different use of such resource that is higher in priority is filed and that the new use is in line with the strategy and safe yield of such resource, in accordance with the Ministry’s regulations.",
+    "source_ar_norm": "1. علي الوزارة -قبل نقل رخصة استخدام المصدر من مستخدم الي اخر- التحقق من عدم وجود طلب اخر اكثر اولوية او اكثر جدوي من الاستخدام المطلوب النقل اليه، وان يكون الاستخدام الجديد متناسبا مع الاستراتيجية والعطاء الامن للمصدر؛ وفقا للوائح الوزارة.",
+    "target_en_norm": "1. the ministry shall, prior to transferring the resource use license from one user to another, ensure that no application for different use of such resource that is higher in priority is filed and that the new use is in line with the strategy and safe yield of such resource, in accordance with the ministry’s regulations.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54169,
+    "source_ar": "2. تقوم الوزارة بالتنسيق مع الهيئة خلال مدة تحددها لوائح الوزارة قبل نقل رخصة استخدام المصدر من مستخدم إلى آخر إذا كان مقاماً على المصدر نشاط تقديم الخدمة مرخص به.",
+    "target_en": "2. The Ministry shall coordinate with the Authority within a period determined by the Ministry’s regulations, prior to transferring the resource use license from one user to another if a licensed service provision activity is established on the resource.",
+    "source_ar_norm": "2. تقوم الوزارة بالتنسيق مع الهيئة خلال مدة تحددها لوائح الوزارة قبل نقل رخصة استخدام المصدر من مستخدم الي اخر اذا كان مقاما علي المصدر نشاط تقديم الخدمة مرخص به.",
+    "target_en_norm": "2. the ministry shall coordinate with the authority within a period determined by the ministry’s regulations, prior to transferring the resource use license from one user to another if a licensed service provision activity is established on the resource.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54170,
+    "source_ar": "المادة الخامسة والثلاثون",
+    "target_en": "Article 35",
+    "source_ar_norm": "المادة الخامسة والثلاثون",
+    "target_en_norm": "article 35",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54171,
+    "source_ar": "تفرض الوزارة أو الهيئة -بحسب الاختصاص- مقابلاً ماليًا على الرخص وطلبات نقل حقوق الاستخدام.",
+    "target_en": "The Ministry or the Authority shall, as applicable, impose a fee on licenses and applications for transfer of use rights.",
+    "source_ar_norm": "تفرض الوزارة او الهيئة -بحسب الاختصاص- مقابلا ماليا علي الرخص وطلبات نقل حقوق الاستخدام.",
+    "target_en_norm": "the ministry or the authority shall, as applicable, impose a fee on licenses and applications for transfer of use rights.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54172,
+    "source_ar": "المادة السادسة والثلاثون",
+    "target_en": "Article 36",
+    "source_ar_norm": "المادة السادسة والثلاثون",
+    "target_en_norm": "article 36",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54173,
+    "source_ar": "1. لا يجوز استيراد المياه غير المعبأة، أو تصديرها إلا بقرار من مجلس الوزراء.",
+    "target_en": "1. Bulk water may not be imported or exported except pursuant to a decision by the Council of Ministers.",
+    "source_ar_norm": "1. لا يجوز استيراد المياه غير المعباة، او تصديرها الا بقرار من مجلس الوزراء.",
+    "target_en_norm": "1. bulk water may not be imported or exported except pursuant to a decision by the council of ministers.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54174,
+    "source_ar": "2. تحدد الوزارة -بالتنسيق مع الجهات ذات العلاقة- المنتجات الزراعية والحيوانية ومشتقاتها المستهلكة للمياه، التي يُحظر تصديرها إلى خارج المملكة.",
+    "target_en": "2. The Ministry shall, in coordination with the relevant agencies, determine the water-consuming agricultural and animal products and their derivatives that may not be exported.",
+    "source_ar_norm": "2. تحدد الوزارة -بالتنسيق مع الجهات ذات العلاقة- المنتجات الزراعية والحيوانية ومشتقاتها المستهلكة للمياه، التي يحظر تصديرها الي خارج المملكة.",
+    "target_en_norm": "2. the ministry shall, in coordination with the relevant agencies, determine the water-consuming agricultural and animal products and their derivatives that may not be exported.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54175,
+    "source_ar": "الفصل الثامن: ترشيد الاستخدام",
+    "target_en": "Chapter 8: Rationalization",
+    "source_ar_norm": "الفصل الثامن: ترشيد الاستخدام",
+    "target_en_norm": "chapter 8: rationalization",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54176,
+    "source_ar": "المادة السابعة والثلاثون",
+    "target_en": "Article 37",
+    "source_ar_norm": "المادة السابعة والثلاثون",
+    "target_en_norm": "article 37",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54177,
+    "source_ar": "تتولى الوزارة أو من تفوضه تنظيم عملية ترشيد استخدام المياه، وإدارتها. وعلى جميع المرخّص لهم والمستهلكين والمستفيدين الالتزام بعمليات الترشيد، واستخدام أدوات ترشيد المياه، ومعداته، وتجهيزاته.",
+    "target_en": "The Ministry, or its designee, shall regulate and manage the rationalization of water use. All licensees, consumers, and beneficiaries shall comply with rationalization policies, and shall use water rationalization tools and equipment.",
+    "source_ar_norm": "تتولي الوزارة او من تفوضه تنظيم عملية ترشيد استخدام المياه، وادارتها. وعلي جميع المرخص لهم والمستهلكين والمستفيدين الالتزام بعمليات الترشيد، واستخدام ادوات ترشيد المياه، ومعداته، وتجهيزاته.",
+    "target_en_norm": "the ministry, or its designee, shall regulate and manage the rationalization of water use. all licensees, consumers, and beneficiaries shall comply with rationalization policies, and shall use water rationalization tools and equipment.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54178,
+    "source_ar": "المادة الثامنة والثلاثون",
+    "target_en": "Article 38",
+    "source_ar_norm": "المادة الثامنة والثلاثون",
+    "target_en_norm": "article 38",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54179,
+    "source_ar": "يجب على جميع القطاعات الحكومية والخاصة استخدامُ الأدوات الصحية ومواد السباكة المرشِّدة والمطابقة للوائح الفنية والمواصفات القياسية المعتمدة، والاستفادة من المياه الرمادية، وإعادة تدويرها، وذلك وفق ما تحدده لوائح الوزارة.",
+    "target_en": "All government and private sectors shall use water-conserving sanitary ware and plumbing materials that conform to approved technical regulations and standards, and recycle gray water, in accordance with the Ministry’s regulations.",
+    "source_ar_norm": "يجب علي جميع القطاعات الحكومية والخاصة استخدام الادوات الصحية ومواد السباكة المرشدة والمطابقة للوائح الفنية والمواصفات القياسية المعتمدة، والاستفادة من المياه الرمادية، واعادة تدويرها، وذلك وفق ما تحدده لوائح الوزارة.",
+    "target_en_norm": "all government and private sectors shall use water-conserving sanitary ware and plumbing materials that conform to approved technical regulations and standards, and recycle gray water, in accordance with the ministry’s regulations.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54180,
+    "source_ar": "المادة التاسعة والثلاثون",
+    "target_en": "Article 39",
+    "source_ar_norm": "المادة التاسعة والثلاثون",
+    "target_en_norm": "article 39",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54181,
+    "source_ar": "تقوم الجهات الحكومية والمرخص لهم بتقديم الخدمة باعتماد مبدأ \"ترشيد استخدام المياه\" من ضمن محاور برامجهم التوعوية، والتثقيفية، والتسويقية، وذلك وفق ما تبينه لوائح الوزارة.",
+    "target_en": "Government agencies and licensed service providers shall advocate \"water use rationalization\" in their awareness-raising, educational, and marketing programs, in accordance with the Ministry’s regulations.",
+    "source_ar_norm": "تقوم الجهات الحكومية والمرخص لهم بتقديم الخدمة باعتماد مبدا \"ترشيد استخدام المياه\" من ضمن محاور برامجهم التوعوية، والتثقيفية، والتسويقية، وذلك وفق ما تبينه لوائح الوزارة.",
+    "target_en_norm": "government agencies and licensed service providers shall advocate \"water use rationalization\" in their awareness-raising, educational, and marketing programs, in accordance with the ministry’s regulations.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54182,
+    "source_ar": "المادة الأربعون",
+    "target_en": "Article 40",
+    "source_ar_norm": "المادة الاربعون",
+    "target_en_norm": "article 40",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54183,
+    "source_ar": "عند استخدام المياه لأغراض الري في الأنشطة الحضرية أو الزراعية، يجب استخدام أنظمة مرشدة لاستهلاك المياه، وفقًا لما تحدده لوائح الوزارة.",
+    "target_en": "Water-conserving systems shall be used in agricultural and urban irrigation in accordance with the Ministry’s regulations.",
+    "source_ar_norm": "عند استخدام المياه لاغراض الري في الانشطة الحضرية او الزراعية، يجب استخدام انظمة مرشدة لاستهلاك المياه، وفقا لما تحدده لوائح الوزارة.",
+    "target_en_norm": "water-conserving systems shall be used in agricultural and urban irrigation in accordance with the ministry’s regulations.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54184,
+    "source_ar": "المادة الحادية والأربعون",
+    "target_en": "Article 41",
+    "source_ar_norm": "المادة الحادية والاربعون",
+    "target_en_norm": "article 41",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54185,
+    "source_ar": "على مستخدمي المياه الالتزام بالآتي:",
+    "target_en": "Water users shall:",
+    "source_ar_norm": "علي مستخدمي المياه الالتزام بالاتي:",
+    "target_en_norm": "water users shall:",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54186,
+    "source_ar": "1. ترشيد استخدام المياه، وعدم هدرها، وعدم الإسراف في استخدامها، واستخدام الأدوات والأجهزة والأنظمة المُرَشِّدة والمطابقة للمواصفات القياسية السعودية المعتمدة التي توصي بها الوزارة.",
+    "target_en": "a) rationalize the use of water, avoid wasting or overusing water, and use waterconserving tools, equipment, and systems that conform with approved Saudi standards as recommended by the Ministry;",
+    "source_ar_norm": "1. ترشيد استخدام المياه، وعدم هدرها، وعدم الاسراف في استخدامها، واستخدام الادوات والاجهزة والانظمة المرشدة والمطابقة للمواصفات القياسية السعودية المعتمدة التي توصي بها الوزارة.",
+    "target_en_norm": "a) rationalize the use of water, avoid wasting or overusing water, and use waterconserving tools, equipment, and systems that conform with approved saudi standards as recommended by the ministry;",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54187,
+    "source_ar": "2. التقيد بأوجه الاستخدام والكميات المرخصة، وتمكين الجهات المعنية من إجراء عمليات القياس، والمراقبة.",
+    "target_en": "b) adhere to licensed uses and quantities, and enable relevant agencies to conduct necessary measurement and monitoring;",
+    "source_ar_norm": "2. التقيد باوجه الاستخدام والكميات المرخصة، وتمكين الجهات المعنية من اجراء عمليات القياس، والمراقبة.",
+    "target_en_norm": "b) adhere to licensed uses and quantities, and enable relevant agencies to conduct necessary measurement and monitoring;",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54188,
+    "source_ar": "3. المحافظة على مصادر المياه.",
+    "target_en": "c) preserve water resources; and",
+    "source_ar_norm": "3. المحافظة علي مصادر المياه.",
+    "target_en_norm": "c) preserve water resources; and",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54189,
+    "source_ar": "4. سدادُ ما يُفرض من تعريفة، أو غرامة، أو مقابل مالي.",
+    "target_en": "d) pay applicable tariffs, fines, or fees.",
+    "source_ar_norm": "4. سداد ما يفرض من تعريفة، او غرامة، او مقابل مالي.",
+    "target_en_norm": "d) pay applicable tariffs, fines, or fees.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54190,
+    "source_ar": "المادة الثانية والأربعون",
+    "target_en": "Article 42",
+    "source_ar_norm": "المادة الثانية والاربعون",
+    "target_en_norm": "article 42",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54191,
+    "source_ar": "على الوزارة والهيئة -كلٌ فيما يخصه- إخضاع جميع استخدامات المياه للقياس والمراقبة وفق أحكام النظام، والتأكد من تنفيذ ذلك بفاعلية إما مباشرة، أو عن طريق المرخَّص لهم.",
+    "target_en": "The Ministry and the Authority, as applicable, shall, in accordance with this Law, ensure that all water uses are effectively monitored and measured, whether directly or through the licensees.",
+    "source_ar_norm": "علي الوزارة والهيئة -كل فيما يخصه- اخضاع جميع استخدامات المياه للقياس والمراقبة وفق احكام النظام، والتاكد من تنفيذ ذلك بفاعلية اما مباشرة، او عن طريق المرخص لهم.",
+    "target_en_norm": "the ministry and the authority, as applicable, shall, in accordance with this law, ensure that all water uses are effectively monitored and measured, whether directly or through the licensees.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54192,
+    "source_ar": "الفصل التاسع: الخزن الاستراتيجي للمياه",
+    "target_en": "Chapter 9: Strategic Water Storage",
+    "source_ar_norm": "الفصل التاسع: الخزن الاستراتيجي للمياه",
+    "target_en_norm": "chapter 9: strategic water storage",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54193,
+    "source_ar": "المادة الثالثة والأربعون",
+    "target_en": "Article 43",
+    "source_ar_norm": "المادة الثالثة والاربعون",
+    "target_en_norm": "article 43",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54194,
+    "source_ar": "تتولى الوزارة -بشكل دوري- تقدير كميات المياه المتوافرة في مصادر المياه، وقياس حجم السحب منها، والمياه المخزنة، وجودتها، ومعدلات استنزافها، ومعالجتها، وعلى الجهات المعنية -كل فيما يخصها- تمكين الوزارة من القيام بمهماتها، والتعاون معها.",
+    "target_en": "The Ministry shall periodically estimate the quantities of water available in water resources, and measure the volume of withdrawal therefrom, the stored water, its quality, depletion rate, and treatment; relevant agencies shall, each within its jurisdiction, cooperate with the Ministry in carrying out its duties.",
+    "source_ar_norm": "تتولي الوزارة -بشكل دوري- تقدير كميات المياه المتوافرة في مصادر المياه، وقياس حجم السحب منها، والمياه المخزنة، وجودتها، ومعدلات استنزافها، ومعالجتها، وعلي الجهات المعنية -كل فيما يخصها- تمكين الوزارة من القيام بمهماتها، والتعاون معها.",
+    "target_en_norm": "the ministry shall periodically estimate the quantities of water available in water resources, and measure the volume of withdrawal therefrom, the stored water, its quality, depletion rate, and treatment; relevant agencies shall, each within its jurisdiction, cooperate with the ministry in carrying out its duties.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54195,
+    "source_ar": "المادة الرابعة والأربعون",
+    "target_en": "Article 44",
+    "source_ar_norm": "المادة الرابعة والاربعون",
+    "target_en_norm": "article 44",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54196,
+    "source_ar": "تقوم الوزارة باعتماد الخزن الاستراتيجي للمياه، واعتماد خزانات استراتيجية موزعة في جميع مناطق المملكة، على أن تراعي عند إنشائها الاحتياجات المتوقعة للمستهلكين في حالة الطوارئ.",
+    "target_en": "The Ministry shall approve strategic water storage and strategic tanks in all regions of the Kingdom, provided that the anticipated needs of consumers in cases of emergency are taken into account when constructing such tanks.",
+    "source_ar_norm": "تقوم الوزارة باعتماد الخزن الاستراتيجي للمياه، واعتماد خزانات استراتيجية موزعة في جميع مناطق المملكة، علي ان تراعي عند انشائها الاحتياجات المتوقعة للمستهلكين في حالة الطوارئ.",
+    "target_en_norm": "the ministry shall approve strategic water storage and strategic tanks in all regions of the kingdom, provided that the anticipated needs of consumers in cases of emergency are taken into account when constructing such tanks.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54197,
+    "source_ar": "المادة الخامسة والأربعون",
+    "target_en": "Article 45",
+    "source_ar_norm": "المادة الخامسة والاربعون",
+    "target_en_norm": "article 45",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54198,
+    "source_ar": "يجوز للوزارة أو من ترخص له الحقن كلما كان ذلك آمنًا من الناحية الصحية، والبيئية، والتقنية؛ وفقًا لما تحدده لوائح الوزارة.",
+    "target_en": "The Ministry or any licensee may carry out water injection if it is safe for health and the environment, and for the technology used, in accordance with the Ministry’s regulations.",
+    "source_ar_norm": "يجوز للوزارة او من ترخص له الحقن كلما كان ذلك امنا من الناحية الصحية، والبيئية، والتقنية؛ وفقا لما تحدده لوائح الوزارة.",
+    "target_en_norm": "the ministry or any licensee may carry out water injection if it is safe for health and the environment, and for the technology used, in accordance with the ministry’s regulations.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54199,
+    "source_ar": "المادة السادسة والأربعون",
+    "target_en": "Article 46",
+    "source_ar_norm": "المادة السادسة والاربعون",
+    "target_en_norm": "article 46",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54200,
+    "source_ar": "يتم بقرار من اللجنة الوزارية -بناءً على اقتراح الوزارة- حظر استخدام مصدر أو أكثر من مصادر المياه في مناطق محددة لأغراض ضمان توافر الاحتياطات المائية، والخزن الاستراتيجي، ورفع صفة الحظر عنها، وتعويض أصحاب رخص استخدام هذه المصادر وفق ما تبينه لوائح الوزارة، مع مراعاة حماية حقوق المستثمرين في أي مشاريع. وتقوم الوزارة بالتنسيق مع الهيئة خلال مدة تحددها لوائح الوزارة قبل اتخاذ أي إجراء في هذا الشأن إذا كان مقامًا على المصدر نشاط تقديم الخدمة مرخصًا به من الهيئة.",
+    "target_en": "The Ministerial Committee may, based on a recommendation by the Ministry, prohibit the use of one or more water resources in specific areas for purposes of preservation of water reserves and strategic storage, and may lift such prohibition, and compensate the holders of the resource use licenses of such resources, as specified in the Ministry’s regulations, without prejudice to the investors’ rights in any project. The Ministry shall coordinate with the Authority within a period determined by the Ministry’s regulations prior to taking any action if a licensed service provision activity is established on the resource.",
+    "source_ar_norm": "يتم بقرار من اللجنة الوزارية -بناء علي اقتراح الوزارة- حظر استخدام مصدر او اكثر من مصادر المياه في مناطق محددة لاغراض ضمان توافر الاحتياطات المائية، والخزن الاستراتيجي، ورفع صفة الحظر عنها، وتعويض اصحاب رخص استخدام هذه المصادر وفق ما تبينه لوائح الوزارة، مع مراعاة حماية حقوق المستثمرين في اي مشاريع. وتقوم الوزارة بالتنسيق مع الهيئة خلال مدة تحددها لوائح الوزارة قبل اتخاذ اي اجراء في هذا الشان اذا كان مقاما علي المصدر نشاط تقديم الخدمة مرخصا به من الهيئة.",
+    "target_en_norm": "the ministerial committee may, based on a recommendation by the ministry, prohibit the use of one or more water resources in specific areas for purposes of preservation of water reserves and strategic storage, and may lift such prohibition, and compensate the holders of the resource use licenses of such resources, as specified in the ministry’s regulations, without prejudice to the investors’ rights in any project. the ministry shall coordinate with the authority within a period determined by the ministry’s regulations prior to taking any action if a licensed service provision activity is established on the resource.",
+    "file_name": "نظام المياه.docx"
+  }
+]

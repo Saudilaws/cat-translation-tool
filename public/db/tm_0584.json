@@ -1,0 +1,802 @@
+[
+  {
+    "id": 58301,
+    "source_ar": "ثالثاً – يُقصد بكلمة ( طن ) في هذا النِظام ما يُعادِل ألف كيلو جرام.",
+    "target_en": "Third: In this Law, the term “ton” shall mean 1,000 kg.",
+    "source_ar_norm": "ثالثا – يقصد بكلمة ( طن ) في هذا النظام ما يعادل الف كيلو جرام.",
+    "target_en_norm": "third: in this law, the term “ton” shall mean 1,000 kg.",
+    "file_name": "نظام رسوم وأجور خدمات الموانئ.docx"
+  },
+  {
+    "id": 58302,
+    "source_ar": "نظام رعاية المعوقين",
+    "target_en": "Disability Welfare Law",
+    "source_ar_norm": "نظام رعاية المعوقين",
+    "target_en_norm": "disability welfare law",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58303,
+    "source_ar": "المادة الأولى:",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي:",
+    "target_en_norm": "article 1",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58304,
+    "source_ar": "تدُل الكلِمات والعِبارات الآتية حيثُما وردت في هذا النِظام على المعاني المُبينة أمامِها، ما لم يدُل السياق على خِلاف ذلك:",
+    "target_en": "In this Law, the following terms shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "source_ar_norm": "تدل الكلمات والعبارات الاتية حيثما وردت في هذا النظام علي المعاني المبينة امامها، ما لم يدل السياق علي خلاف ذلك:",
+    "target_en_norm": "in this law, the following terms shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58305,
+    "source_ar": "المُعوق: كُل شخص مُصاب بقُصور كُلي أو جُزئي بشكِل مُستقِر في قُدُراتِه الجسمية أو الحسية أو العقلية أو التواصُلية أو التعليمية أو النفسية، إلى المدى الذي يُقلِّل من إمكانية تلبية مُتطلباتِه العادية في ظروف أمثالُه مِن غير المُعوقين.",
+    "target_en": "Disabled Person: Any person suffering from a permanent, total or partial, impairment affecting his senses, or his physical, mental, communicative, learning, or psychological abilities, to an extent that reduces his ability to perform daily activities compared to a non-disabled person.",
+    "source_ar_norm": "المعوق: كل شخص مصاب بقصور كلي او جزئي بشكل مستقر في قدراته الجسمية او الحسية او العقلية او التواصلية او التعليمية او النفسية، الي المدي الذي يقلل من امكانية تلبية متطلباته العادية في ظروف امثاله من غير المعوقين.",
+    "target_en_norm": "disabled person: any person suffering from a permanent, total or partial, impairment affecting his senses, or his physical, mental, communicative, learning, or psychological abilities, to an extent that reduces his ability to perform daily activities compared to a non-disabled person.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58306,
+    "source_ar": "الإعاقة: هي الإصابة بواحدة أو أكثر مِن الإعاقات الآتية:",
+    "target_en": "Disability: Suffering from one or more of the following impairments:",
+    "source_ar_norm": "الاعاقة: هي الاصابة بواحدة او اكثر من الاعاقات الاتية:",
+    "target_en_norm": "disability: suffering from one or more of the following impairments:",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58307,
+    "source_ar": "الإعاقة البصرية، الإعاقة السمعية، الإعاقة العقلية، الإعاقة الجسمية والحركية ، صعوبات التعلُّم، اضطرابات النُطق والكلام، الاضطرابات السلوكية والانفعالية، التوحُد، الإعاقة المُزدوجة والمُتعدِدة، وغيرِها مِن الإعاقات التي تتطلب رعاية خاصة.",
+    "target_en": "Visual impairment, hearing impairment, mental disability, physical and motor disability, learning disabilities, speech disorders, behavioral and emotional disorders, autism, double and multiple disabilities, and other disabilities that require special care.",
+    "source_ar_norm": "الاعاقة البصرية، الاعاقة السمعية، الاعاقة العقلية، الاعاقة الجسمية والحركية ، صعوبات التعلم، اضطرابات النطق والكلام، الاضطرابات السلوكية والانفعالية، التوحد، الاعاقة المزدوجة والمتعددة، وغيرها من الاعاقات التي تتطلب رعاية خاصة.",
+    "target_en_norm": "visual impairment, hearing impairment, mental disability, physical and motor disability, learning disabilities, speech disorders, behavioral and emotional disorders, autism, double and multiple disabilities, and other disabilities that require special care.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58308,
+    "source_ar": "الوقاية: مجموعة الإجراءات الطبية والنفسية والاجتِماعية والتربوية والإعلامية والنِظامية، التي تهدِف إلى منع الإصابة بالإعاقة أو الحد مِنها واكتِشافِها في وقت مُبكِر والتقليل مِن الآثار المُترتِبة عليها.",
+    "target_en": "Prevention: The set of medical, psychological, social, educational, informational, and legal measures enforced for the prevention, limitation, or early detection of disabilities as well as limiting their effects.",
+    "source_ar_norm": "الوقاية: مجموعة الاجراءات الطبية والنفسية والاجتماعية والتربوية والاعلامية والنظامية، التي تهدف الي منع الاصابة بالاعاقة او الحد منها واكتشافها في وقت مبكر والتقليل من الاثار المترتبة عليها.",
+    "target_en_norm": "prevention: the set of medical, psychological, social, educational, informational, and legal measures enforced for the prevention, limitation, or early detection of disabilities as well as limiting their effects.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58309,
+    "source_ar": "الرعاية: هي خدمات الرعاية الشامِلة التي تُقدم لكُلِ مُعوق بحاجة إلى الرعاية بحُكم حالتِه الصحية ودرجة إعاقتِه أو بحُكم وضعِه الاجتِماعي.",
+    "target_en": "Care: Comprehensive care services offered to any disabled person in need of care due to his health condition, degree of disability, or social status.",
+    "source_ar_norm": "الرعاية: هي خدمات الرعاية الشاملة التي تقدم لكل معوق بحاجة الي الرعاية بحكم حالته الصحية ودرجة اعاقته او بحكم وضعه الاجتماعي.",
+    "target_en_norm": "care: comprehensive care services offered to any disabled person in need of care due to his health condition, degree of disability, or social status.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58310,
+    "source_ar": "التأهيل: عملية مُنسقة لتوظيف الخدمات الطبية، والاجتِماعية، والنفسية، والتربوية، والمِهنية، لمُساعدة المُعوق في تحقيق أقصى درجة مُّمكِنة من الفاعلية الوظيفية، بهدف تمكينه مِن التوافُق مع مُتطلبات بيئتِه الطبيعية والاجتِماعية، وكذلك تنمية قُدُراتِه للاعتِماد على نفسِه وجعلِه عضواً مُنتِجاً في المُجتمع ما أمكن ذلك.",
+    "target_en": "Rehabilitation: A coordinated process to utilize medical, social, psychological, educational, and professional services for the purpose of empowering disabled persons to achieve the maximum potential of their functional efficiency so as to empower them to meet the requirements of their natural and social environment and develop their capabilities to become self-reliant and effective members in the community to the extent possible.",
+    "source_ar_norm": "التاهيل: عملية منسقة لتوظيف الخدمات الطبية، والاجتماعية، والنفسية، والتربوية، والمهنية، لمساعدة المعوق في تحقيق اقصي درجة ممكنة من الفاعلية الوظيفية، بهدف تمكينه من التوافق مع متطلبات بيئته الطبيعية والاجتماعية، وكذلك تنمية قدراته للاعتماد علي نفسه وجعله عضوا منتجا في المجتمع ما امكن ذلك.",
+    "target_en_norm": "rehabilitation: a coordinated process to utilize medical, social, psychological, educational, and professional services for the purpose of empowering disabled persons to achieve the maximum potential of their functional efficiency so as to empower them to meet the requirements of their natural and social environment and develop their capabilities to become self-reliant and effective members in the community to the extent possible.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58311,
+    "source_ar": "المجلِس الأعلى: المجلس الأعلى لشؤون المُعوقين .",
+    "target_en": "The Supreme Council: The Higher Council for the Affairs of Disabled Persons.",
+    "source_ar_norm": "المجلس الاعلي: المجلس الاعلي لشؤون المعوقين .",
+    "target_en_norm": "the supreme council: the higher council for the affairs of disabled persons.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58312,
+    "source_ar": "المادة الثانية:",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية:",
+    "target_en_norm": "article 2",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58313,
+    "source_ar": "تكفل الدولة حق المُعوق في خدمات الوقاية والرعاية والتأهيل، وتشجع المؤسسات والأفراد على الإسهام في الأعمال الخيرية في مجال الإعاقة، وتُقدَّم هذه الخدمات لهذه الفئة عن طريق الجِهات المُختصة في المجالات الآتية:",
+    "target_en": "The State shall guarantee the rights of disabled persons to access prevention, care, and rehabilitation services, and shall encourage institutions and individuals to participate in charitable activities for the disabled. Such services shall be provided to disabled persons by the competent authorities as follows:",
+    "source_ar_norm": "تكفل الدولة حق المعوق في خدمات الوقاية والرعاية والتاهيل، وتشجع المؤسسات والافراد علي الاسهام في الاعمال الخيرية في مجال الاعاقة، وتقدم هذه الخدمات لهذه الفئة عن طريق الجهات المختصة في المجالات الاتية:",
+    "target_en_norm": "the state shall guarantee the rights of disabled persons to access prevention, care, and rehabilitation services, and shall encourage institutions and individuals to participate in charitable activities for the disabled. such services shall be provided to disabled persons by the competent authorities as follows:",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58314,
+    "source_ar": "المجالات الصحية :",
+    "target_en": "Health Services:",
+    "source_ar_norm": "المجالات الصحية :",
+    "target_en_norm": "health services:",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58315,
+    "source_ar": "وتشمل:",
+    "target_en": "Including:",
+    "source_ar_norm": "وتشمل:",
+    "target_en_norm": "including:",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58316,
+    "source_ar": "أ - تقديم الخدمات الوقائية والعلاجية والتأهيلية، بما فيها الإرشاد الوراثي الوقائي، وإجراء الفحوصات والتحليلات المخبرية المُختلِفة للكشف المُبكِر عن الأمراض، واتِخاذ التحصينات اللازِمة.",
+    "target_en": "Provision of prevention, treatment, and rehabilitation services, including providing preventive genetic counselling, conducting various examinations and laboratory tests for the early detection of diseases, and administering necessary immunizations",
+    "source_ar_norm": "ا - تقديم الخدمات الوقائية والعلاجية والتاهيلية، بما فيها الارشاد الوراثي الوقائي، واجراء الفحوصات والتحليلات المخبرية المختلفة للكشف المبكر عن الامراض، واتخاذ التحصينات اللازمة.",
+    "target_en_norm": "provision of prevention, treatment, and rehabilitation services, including providing preventive genetic counselling, conducting various examinations and laboratory tests for the early detection of diseases, and administering necessary immunizations",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58317,
+    "source_ar": "ب - تسجيل الأطفال الذين يولدون وهُم أكثر عُرضة للإصابة بالإعاقة، ومُتابعة حالاتِهم، وإبلاغ ذلك للجهات المُختصة.",
+    "target_en": "Registering and monitoring cases of high-risk newborns and reporting the same to the competent authorities.",
+    "source_ar_norm": "ب - تسجيل الاطفال الذين يولدون وهم اكثر عرضة للاصابة بالاعاقة، ومتابعة حالاتهم، وابلاغ ذلك للجهات المختصة.",
+    "target_en_norm": "registering and monitoring cases of high-risk newborns and reporting the same to the competent authorities.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58318,
+    "source_ar": "ج - العمل على الارتِقاء بالرعاية الصحية للمُعوقين واتِخاذ ما يلزم لتحقيق ذلك.",
+    "target_en": "Taking necessary measures to improve the quality of health care provided to disabled persons.",
+    "source_ar_norm": "ج - العمل علي الارتقاء بالرعاية الصحية للمعوقين واتخاذ ما يلزم لتحقيق ذلك.",
+    "target_en_norm": "taking necessary measures to improve the quality of health care provided to disabled persons.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58319,
+    "source_ar": "د - تدريب العامِلين الصحيين، وكذلك الذين يُباشِرون الحوادِث على كيفية التعامُل مع المُصابين وإسعافِهم عند نقلِهم مِن مكان الحادِث.",
+    "target_en": "Training workers in the health sector and those responding to accidents on dealing with the injured and providing them with emergency care during their transportation from the scene of the accident.",
+    "source_ar_norm": "د - تدريب العاملين الصحيين، وكذلك الذين يباشرون الحوادث علي كيفية التعامل مع المصابين واسعافهم عند نقلهم من مكان الحادث.",
+    "target_en_norm": "training workers in the health sector and those responding to accidents on dealing with the injured and providing them with emergency care during their transportation from the scene of the accident.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58320,
+    "source_ar": "هـ - تدريب أُسر المُعوقين على كيفية العناية بِهم ورعايتِهم.",
+    "target_en": "Training the families of disabled persons on providing care to them.",
+    "source_ar_norm": "ه - تدريب اسر المعوقين علي كيفية العناية بهم ورعايتهم.",
+    "target_en_norm": "training the families of disabled persons on providing care to them.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58321,
+    "source_ar": "المجالات التعليمية والتربوية :",
+    "target_en": "Educational Services:",
+    "source_ar_norm": "المجالات التعليمية والتربوية :",
+    "target_en_norm": "educational services:",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58322,
+    "source_ar": "وتشمل تقديم الخدمات التعليمية والتربوية في جميع المراحِل (ما قبل المدرسة، والتعليم العام، والتعليم الفني، والتعليم العالي) بما يتناسب مع قُدُرات المُعوقين واحتياجاتِهم، وتسهيل التِحاقِهم بها، مع التقويم المُستمر للمناهِج والخدمات المُقدمة في هذا المجال.",
+    "target_en": "Educational services include providing educational services at all levels (preschool, general, technical, and higher education) in a manner that suits the capabilities and needs of disabled persons and facilitates their enrolment, in addition to the continuous assessment of the curricula and services provided.",
+    "source_ar_norm": "وتشمل تقديم الخدمات التعليمية والتربوية في جميع المراحل (ما قبل المدرسة، والتعليم العام، والتعليم الفني، والتعليم العالي) بما يتناسب مع قدرات المعوقين واحتياجاتهم، وتسهيل التحاقهم بها، مع التقويم المستمر للمناهج والخدمات المقدمة في هذا المجال.",
+    "target_en_norm": "educational services include providing educational services at all levels (preschool, general, technical, and higher education) in a manner that suits the capabilities and needs of disabled persons and facilitates their enrolment, in addition to the continuous assessment of the curricula and services provided.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58323,
+    "source_ar": "المجالات التدريبية والتأهيلية :",
+    "target_en": "Training and Rehabilitation Services:",
+    "source_ar_norm": "المجالات التدريبية والتاهيلية :",
+    "target_en_norm": "training and rehabilitation services:",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58324,
+    "source_ar": "وتشمل تقديم الخدمات التدريبية والتأهيلية بما يتفق مع نوع الإعاقة ودرجتِها ومُتطلبات سوق العمل، بما في ذلك توفير مراكِز التأهيل المِهني والاجتِماعي، وتأمين الوسائل التدريبية المُلائمة.",
+    "target_en": "These include providing training and rehabilitation services in accordance with the type and degree of disability and labor market requirements, including the provision of vocational and social rehabilitation centers and appropriate training means.",
+    "source_ar_norm": "وتشمل تقديم الخدمات التدريبية والتاهيلية بما يتفق مع نوع الاعاقة ودرجتها ومتطلبات سوق العمل، بما في ذلك توفير مراكز التاهيل المهني والاجتماعي، وتامين الوسائل التدريبية الملائمة.",
+    "target_en_norm": "these include providing training and rehabilitation services in accordance with the type and degree of disability and labor market requirements, including the provision of vocational and social rehabilitation centers and appropriate training means.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58325,
+    "source_ar": "مجالات العمل :",
+    "target_en": "Employment Services:",
+    "source_ar_norm": "مجالات العمل :",
+    "target_en_norm": "employment services:",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58326,
+    "source_ar": "وتشمل التوظيف في الأعمال التي تُناسِب قُدُرات المُعوق ومُؤهلاتِه لإعطائِه الفُرصة للكشف عن قُدُراتِه الذاتية، ولتمكينه من الحصول على دخل كباقي أفراد المُجتمع، والسعي لرفع مُستوى أدائه أثناء العمل عن طريق التدريب.",
+    "target_en": "Employment services include employment in jobs that are suitable to the abilities and qualifications of disabled persons thereby enabling them to discover their potential and earn a living as other members of the society, as well as enhancing their work performance through training.",
+    "source_ar_norm": "وتشمل التوظيف في الاعمال التي تناسب قدرات المعوق ومؤهلاته لاعطائه الفرصة للكشف عن قدراته الذاتية، ولتمكينه من الحصول علي دخل كباقي افراد المجتمع، والسعي لرفع مستوي ادائه اثناء العمل عن طريق التدريب.",
+    "target_en_norm": "employment services include employment in jobs that are suitable to the abilities and qualifications of disabled persons thereby enabling them to discover their potential and earn a living as other members of the society, as well as enhancing their work performance through training.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58327,
+    "source_ar": "المجالات الاجتِماعية :",
+    "target_en": "Social Services:",
+    "source_ar_norm": "المجالات الاجتماعية :",
+    "target_en_norm": "social services:",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58328,
+    "source_ar": "وتشمل البرامِج التي تُسهِم في تنمية قُدُرات المُعوق، لتحقيق اندماجِه بشكل طبيعي في مُختلف نواحي الحياة العامة، ولتقليل الآثار السلبية للإعاقة.",
+    "target_en": "Social services include programs that contribute to the development of the capabilities of disabled persons to achieve integration in various aspects of public life and reduce the negative effects of disability.",
+    "source_ar_norm": "وتشمل البرامج التي تسهم في تنمية قدرات المعوق، لتحقيق اندماجه بشكل طبيعي في مختلف نواحي الحياة العامة، ولتقليل الاثار السلبية للاعاقة.",
+    "target_en_norm": "social services include programs that contribute to the development of the capabilities of disabled persons to achieve integration in various aspects of public life and reduce the negative effects of disability.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58329,
+    "source_ar": "المجالات الثقافية والرياضية :",
+    "target_en": "Cultural and Sports Services:",
+    "source_ar_norm": "المجالات الثقافية والرياضية :",
+    "target_en_norm": "cultural and sports services:",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58330,
+    "source_ar": "وتشمل الاستِفادة مِن الأنشِطة والمرافِق الثقافية والرياضية وتهيئتِها، ليتمكن المُعوق مِن المُشاركة في مناشِطِها داخلياً وخارجياً بما يتناسب مع قُدُراتِه.",
+    "target_en": "Cultural and sports services include making cultural and sports programs and facilities accessible to disabled persons to facilitate their participation in local and international events.",
+    "source_ar_norm": "وتشمل الاستفادة من الانشطة والمرافق الثقافية والرياضية وتهيئتها، ليتمكن المعوق من المشاركة في مناشطها داخليا وخارجيا بما يتناسب مع قدراته.",
+    "target_en_norm": "cultural and sports services include making cultural and sports programs and facilities accessible to disabled persons to facilitate their participation in local and international events.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58331,
+    "source_ar": "المجلات الإعلامية :",
+    "target_en": "Media Services:",
+    "source_ar_norm": "المجلات الاعلامية :",
+    "target_en_norm": "media services:",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58332,
+    "source_ar": "وتشمل قيام وسائل الإعلام - المرئية والمسموعة والمقروءة - بالتوعية في المجالات الآتية:",
+    "target_en": "Media services include raising awareness through audio, visual, and print media in the following areas:",
+    "source_ar_norm": "وتشمل قيام وسائل الاعلام - المرئية والمسموعة والمقروءة - بالتوعية في المجالات الاتية:",
+    "target_en_norm": "media services include raising awareness through audio, visual, and print media in the following areas:",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58333,
+    "source_ar": "أ - التعريف بالإعاقة وأنواعِها وأسبابِها، وكيفية اكتِشافِها والوقاية مِنها.",
+    "target_en": "Raising awareness on disability, its types and causes, as well as detection and prevention methods.",
+    "source_ar_norm": "ا - التعريف بالاعاقة وانواعها واسبابها، وكيفية اكتشافها والوقاية منها.",
+    "target_en_norm": "raising awareness on disability, its types and causes, as well as detection and prevention methods.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58334,
+    "source_ar": "ب - تعزيز مكان المُعوقين في المُجتمع، والتعريف بحقوقِهم واحتياجاتِهم، وقُدُراتِهم وإسهاماتِهم، وبالخدمات المُتاحةٌ لهُم، وتوعيتِهم بواجباتِهم تجاه أنفُسِهم، وبدورِهم في المُجتمع.",
+    "target_en": "Improving the image of disabled persons in the society, and raising awareness of their rights, needs, abilities, and contributions, as well as the services available to them, their duties towards themselves, and their role in the community.",
+    "source_ar_norm": "ب - تعزيز مكان المعوقين في المجتمع، والتعريف بحقوقهم واحتياجاتهم، وقدراتهم واسهاماتهم، وبالخدمات المتاحة لهم، وتوعيتهم بواجباتهم تجاه انفسهم، وبدورهم في المجتمع.",
+    "target_en_norm": "improving the image of disabled persons in the society, and raising awareness of their rights, needs, abilities, and contributions, as well as the services available to them, their duties towards themselves, and their role in the community.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58335,
+    "source_ar": "ج - تخصيص برامِج موجهة للمُعوقين تكفل لهُم التعايُش مع المُجتمع.",
+    "target_en": "Allocating programs that target disabled persons to ensure their integration in the society.",
+    "source_ar_norm": "ج - تخصيص برامج موجهة للمعوقين تكفل لهم التعايش مع المجتمع.",
+    "target_en_norm": "allocating programs that target disabled persons to ensure their integration in the society.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58336,
+    "source_ar": "د - حث الأفراد والمؤسسات على تقديم الدعم المادي والمعنوي للمُعوقين، وتشجيع العمل التطوعي لخدمتِهم.",
+    "target_en": "Encouraging individuals and organizations to provide material and moral support to disabled persons, and promoting voluntary work for their benefit.",
+    "source_ar_norm": "د - حث الافراد والمؤسسات علي تقديم الدعم المادي والمعنوي للمعوقين، وتشجيع العمل التطوعي لخدمتهم.",
+    "target_en_norm": "encouraging individuals and organizations to provide material and moral support to disabled persons, and promoting voluntary work for their benefit.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58337,
+    "source_ar": "مجالات الخدمات التكميلية :",
+    "target_en": "Complementary Services:",
+    "source_ar_norm": "مجالات الخدمات التكميلية :",
+    "target_en_norm": "complementary services:",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58338,
+    "source_ar": "وتشمل:",
+    "target_en": "Including:",
+    "source_ar_norm": "وتشمل:",
+    "target_en_norm": "including:",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58339,
+    "source_ar": "أ - تهيئة وسائل المواصلات العامة لتحقيق تنقُل المُعوقين بأمن وسلامة، وبأجور مُخفضة للمُعوق ومُرافِقه، حسب ظروف الإعاقة.",
+    "target_en": "Provision of safe and suitable public transportation means at discounted rates for disabled persons and the persons accompanying them, depending on the nature of the disability.",
+    "source_ar_norm": "ا - تهيئة وسائل المواصلات العامة لتحقيق تنقل المعوقين بامن وسلامة، وباجور مخفضة للمعوق ومرافقه، حسب ظروف الاعاقة.",
+    "target_en_norm": "provision of safe and suitable public transportation means at discounted rates for disabled persons and the persons accompanying them, depending on the nature of the disability.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58340,
+    "source_ar": "ب - تقديم الرعاية النهارية والعناية المنزلية.",
+    "target_en": "Provision of day and home care services.",
+    "source_ar_norm": "ب - تقديم الرعاية النهارية والعناية المنزلية.",
+    "target_en_norm": "provision of day and home care services.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58341,
+    "source_ar": "ج - توفير أجهزة التقنية المُساعِدة.",
+    "target_en": "Provision of supporting equipment.",
+    "source_ar_norm": "ج - توفير اجهزة التقنية المساعدة.",
+    "target_en_norm": "provision of supporting equipment.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58342,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article 3",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58343,
+    "source_ar": "يُحدِّد المجلِس الأعلى بالتنسيق مع الجهات المُختصة الشروط والمواصفات الهندسية والمعمارية الخاصة باحتياجات المُعوقين في أماكِن التأهيل والتدريب والتعليم والرعاية والعلاج وفي الأماكِن العامة وغيرِها من الأماكِن التي تُستعمل لتحقيق أغراض هذا النِظام، على أنَّ تقوم كُل جِهة مُختصة بإصدار القرارات التنفيذية اللازِمة لذلك.",
+    "target_en": "The Supreme Council shall, in coordination with the competent authorities, set the engineering and architectural conditions and specifications that meet the needs of disabled persons in rehabilitation, training, educational, and care and treatment facilities, and in public places and other locations intended to achieve the purposes of this Law, provided that the relevant agency issues the necessary implementing decisions.",
+    "source_ar_norm": "يحدد المجلس الاعلي بالتنسيق مع الجهات المختصة الشروط والمواصفات الهندسية والمعمارية الخاصة باحتياجات المعوقين في اماكن التاهيل والتدريب والتعليم والرعاية والعلاج وفي الاماكن العامة وغيرها من الاماكن التي تستعمل لتحقيق اغراض هذا النظام، علي ان تقوم كل جهة مختصة باصدار القرارات التنفيذية اللازمة لذلك.",
+    "target_en_norm": "the supreme council shall, in coordination with the competent authorities, set the engineering and architectural conditions and specifications that meet the needs of disabled persons in rehabilitation, training, educational, and care and treatment facilities, and in public places and other locations intended to achieve the purposes of this law, provided that the relevant agency issues the necessary implementing decisions.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58344,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article 4",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58345,
+    "source_ar": "يقوم المجلِس الأعلى بالتنسيق مع الجِهات التعليمية والتدريبية لإعداد الكفايات البشرية الوطنية المُختصة في مجال الإعاقة وتدريبِها داخلياً وخارجياً، وتبادُل الخِبرات في هذا المجال مع الدول الأُخرى والمُنظمات والهيئات العربية والدولية ذات العلاقة.",
+    "target_en": "The Supreme Council shall, in coordination with educational and training institutions, qualify and train national manpower in the field of disability, within the Kingdom and abroad, and exchange expertise in this field with other countries as well as relevant Arab and international organizations and bodies.",
+    "source_ar_norm": "يقوم المجلس الاعلي بالتنسيق مع الجهات التعليمية والتدريبية لاعداد الكفايات البشرية الوطنية المختصة في مجال الاعاقة وتدريبها داخليا وخارجيا، وتبادل الخبرات في هذا المجال مع الدول الاخري والمنظمات والهيئات العربية والدولية ذات العلاقة.",
+    "target_en_norm": "the supreme council shall, in coordination with educational and training institutions, qualify and train national manpower in the field of disability, within the kingdom and abroad, and exchange expertise in this field with other countries as well as relevant arab and international organizations and bodies.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58346,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article 5",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58347,
+    "source_ar": "تمنح الدولة المُعوقين قروضاً مُيسرة للبدء بأعمال مِهنية أو تجارية تتناسب مع قُدُراتِهم، سواء بصِفة فردية أو بصِفة جماعية.",
+    "target_en": "The State shall grant disabled persons, whether individually or collectively, soft loans to initiate professional or commercial businesses that suit their abilities.",
+    "source_ar_norm": "تمنح الدولة المعوقين قروضا ميسرة للبدء باعمال مهنية او تجارية تتناسب مع قدراتهم، سواء بصفة فردية او بصفة جماعية.",
+    "target_en_norm": "the state shall grant disabled persons, whether individually or collectively, soft loans to initiate professional or commercial businesses that suit their abilities.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58348,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article 6",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58349,
+    "source_ar": "تُعفى مِن الرسوم الجُمرُكية الأدوات والأجهِزة الخاصة بالمُعوقين التي يتم تحديدُها في قائمة يُتفق عليها مع وزارة المالية والاقتِصاد الوطني.",
+    "target_en": "Devices and equipment designed for disabled persons shall be exempted from customs duty, provided that they are identified in a list agreed upon with the Ministry of Finance and National Economy.",
+    "source_ar_norm": "تعفي من الرسوم الجمركية الادوات والاجهزة الخاصة بالمعوقين التي يتم تحديدها في قائمة يتفق عليها مع وزارة المالية والاقتصاد الوطني.",
+    "target_en_norm": "devices and equipment designed for disabled persons shall be exempted from customs duty, provided that they are identified in a list agreed upon with the ministry of finance and national economy.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58350,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article 7",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58351,
+    "source_ar": "يُنشأ صندوق لرعاية المُعوقين يتبع المجلِس الأعلى تؤول إليه التبرُعات والهِبات والوصايا والأوقاف والغرامات المُحصلة عن مُخالفات التنظيمات الخاصة بخدمات المُعوقين.",
+    "target_en": "A fund under the Council shall be established for the care of disabled persons in which donations, gifts, bequests, endowments, and fines for violations to the regulations governing the services provided to disabled persons, shall be deposited.",
+    "source_ar_norm": "ينشا صندوق لرعاية المعوقين يتبع المجلس الاعلي تؤول اليه التبرعات والهبات والوصايا والاوقاف والغرامات المحصلة عن مخالفات التنظيمات الخاصة بخدمات المعوقين.",
+    "target_en_norm": "a fund under the council shall be established for the care of disabled persons in which donations, gifts, bequests, endowments, and fines for violations to the regulations governing the services provided to disabled persons, shall be deposited.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58352,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article 8",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58353,
+    "source_ar": "يُنشأ مجلِس أعلى لشؤون المعوقين، يرتبِط برئيس مجلس الوزراء ، ويؤلف على النحو الآتي:",
+    "target_en": "A supreme council for disabled persons shall be established, reporting to the Prime Minister. It shall be composed as follows:",
+    "source_ar_norm": "ينشا مجلس اعلي لشؤون المعوقين، يرتبط برئيس مجلس الوزراء ، ويؤلف علي النحو الاتي:",
+    "target_en_norm": "a supreme council for disabled persons shall be established, reporting to the prime minister. it shall be composed as follows:",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58354,
+    "source_ar": "رئيس يصدُر باختيارِه أمر ملكي، وعضوية كُلٍ مِن:",
+    "target_en": "A President, appointed pursuant to a royal order, and the following members:",
+    "source_ar_norm": "رئيس يصدر باختياره امر ملكي، وعضوية كل من:",
+    "target_en_norm": "a president, appointed pursuant to a royal order, and the following members:",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58355,
+    "source_ar": "وزير العمل والشؤون الاجتِماعية .",
+    "target_en": "The Minister of Labor and Social Affairs.",
+    "source_ar_norm": "وزير العمل والشؤون الاجتماعية .",
+    "target_en_norm": "the minister of labor and social affairs.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58356,
+    "source_ar": "وزير الصحة .",
+    "target_en": "The Minister of Health.",
+    "source_ar_norm": "وزير الصحة .",
+    "target_en_norm": "the minister of health.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58357,
+    "source_ar": "وزير المعارِف .",
+    "target_en": "The Minister of Education.",
+    "source_ar_norm": "وزير المعارف .",
+    "target_en_norm": "the minister of education.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58358,
+    "source_ar": "وزير المالية والاقتِصاد الوطني .",
+    "target_en": "The Minister of Finance and National Economy.",
+    "source_ar_norm": "وزير المالية والاقتصاد الوطني .",
+    "target_en_norm": "the minister of finance and national economy.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58359,
+    "source_ar": "الرئيس العام لتعليم البنات .",
+    "target_en": "The General President of Girls’ Education.",
+    "source_ar_norm": "الرئيس العام لتعليم البنات .",
+    "target_en_norm": "the general president of girls’ education.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58360,
+    "source_ar": "وزير التعليم العالي .",
+    "target_en": "The Minister of Higher Education.",
+    "source_ar_norm": "وزير التعليم العالي .",
+    "target_en_norm": "the minister of higher education.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58361,
+    "source_ar": "وزير الشؤون البلدية والقروية .",
+    "target_en": "The Minister of Municipal and Rural Affairs.",
+    "source_ar_norm": "وزير الشؤون البلدية والقروية .",
+    "target_en_norm": "the minister of municipal and rural affairs.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58362,
+    "source_ar": "أمين عام المجلِس .",
+    "target_en": "The Secretary-General.",
+    "source_ar_norm": "امين عام المجلس .",
+    "target_en_norm": "the secretary-general.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58363,
+    "source_ar": "اثنين مِن المُعوقين، واثنين من رِّجال الأعمال المُهتمين بشؤون المُعوقين، واثنين مِن المُختصين بشؤون الإعاقة يُعيِّنون مِن قِبل رئيس مجلس الوزراء بناءً على ترشيح رئيس المجلِس الأعلى لمُدة أربع سنوات قابِلة للتجديد.",
+    "target_en": "Two disabled persons, two businessmen concerned with the affairs of disabled persons, and two specialists in the field of disability, appointed by the Prime Minister based on a recommendation by the President of the Supreme Council for a term of four renewable years.",
+    "source_ar_norm": "اثنين من المعوقين، واثنين من رجال الاعمال المهتمين بشؤون المعوقين، واثنين من المختصين بشؤون الاعاقة يعينون من قبل رئيس مجلس الوزراء بناء علي ترشيح رئيس المجلس الاعلي لمدة اربع سنوات قابلة للتجديد.",
+    "target_en_norm": "two disabled persons, two businessmen concerned with the affairs of disabled persons, and two specialists in the field of disability, appointed by the prime minister based on a recommendation by the president of the supreme council for a term of four renewable years.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58364,
+    "source_ar": "ولرئيس المجلِس الأعلى أنَّ يُنيب عنه أحد الأعضاء في حالة غيابِه.",
+    "target_en": "The President of the Supreme Council may designate one of the members to act on his behalf in his absence.",
+    "source_ar_norm": "ولرئيس المجلس الاعلي ان ينيب عنه احد الاعضاء في حالة غيابه.",
+    "target_en_norm": "the president of the supreme council may designate one of the members to act on his behalf in his absence.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58365,
+    "source_ar": "المادة التاسعة:",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة:",
+    "target_en_norm": "article 9",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58366,
+    "source_ar": "يختص المجلِس الأعلى برسم السياسة العامة في مجال الإعاقة وتنظيم شؤون المُعوقين، ولهُ على وجه الخصوص ما يأتي:",
+    "target_en": "The Supreme Council shall set the general policy in the field of disability and regulate the affairs of disabled persons, and shall, in particular, assume the following:",
+    "source_ar_norm": "يختص المجلس الاعلي برسم السياسة العامة في مجال الاعاقة وتنظيم شؤون المعوقين، وله علي وجه الخصوص ما ياتي:",
+    "target_en_norm": "the supreme council shall set the general policy in the field of disability and regulate the affairs of disabled persons, and shall, in particular, assume the following:",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58367,
+    "source_ar": "أ - إصدار اللوائح والقرارات اللازِمة لتنفيذ هذا النِظام.",
+    "target_en": "Issue the regulations and decisions necessary for the implementation of this Law.",
+    "source_ar_norm": "ا - اصدار اللوائح والقرارات اللازمة لتنفيذ هذا النظام.",
+    "target_en_norm": "issue the regulations and decisions necessary for the implementation of this law.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58368,
+    "source_ar": "ب - اقتِراح تعديل النصوص النِظامية المُتعلِقة بشؤون المُعوقين في المجالات المُختلِفة، واقتِراح القواعِد الخاصة بما يُقدِّم لهُم، أو لِمن يتولى رعايتُهم من مزايا أو إعانات مالية أو غيرِها، واقتِراح فرض الغرامات أو تعديلِها.",
+    "target_en": "Propose amendments to the statutory provisions relating to the affairs of disabled persons in various fields; propose rules relating to the benefits and financial support provided to disabled persons or their caretakers; and propose the imposition or amendment of fines.",
+    "source_ar_norm": "ب - اقتراح تعديل النصوص النظامية المتعلقة بشؤون المعوقين في المجالات المختلفة، واقتراح القواعد الخاصة بما يقدم لهم، او لمن يتولي رعايتهم من مزايا او اعانات مالية او غيرها، واقتراح فرض الغرامات او تعديلها.",
+    "target_en_norm": "propose amendments to the statutory provisions relating to the affairs of disabled persons in various fields; propose rules relating to the benefits and financial support provided to disabled persons or their caretakers; and propose the imposition or amendment of fines.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58369,
+    "source_ar": "ج - مُتابعة تنفيذ هذا النِظام ولوائحه، ومُتابعة تنفيذ ما يتعلق بشؤون المُعوقين في الأنظِمة واللوائح الأُخرى.",
+    "target_en": "Monitor the implementation of this Law and its regulations, and monitor the implementation of provisions related to the disabled in other relevant laws and regulations.",
+    "source_ar_norm": "ج - متابعة تنفيذ هذا النظام ولوائحه، ومتابعة تنفيذ ما يتعلق بشؤون المعوقين في الانظمة واللوائح الاخري.",
+    "target_en_norm": "monitor the implementation of this law and its regulations, and monitor the implementation of provisions related to the disabled in other relevant laws and regulations.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58370,
+    "source_ar": "د - التنسيق بين مُختلف الأجهِزة الحُكومية والخاصة فيما يُخص الخدمات التي تُقدَّم للمُعوقين.",
+    "target_en": "Coordinate between government agencies and the private sector with respect to the services provided to disabled persons.",
+    "source_ar_norm": "د - التنسيق بين مختلف الاجهزة الحكومية والخاصة فيما يخص الخدمات التي تقدم للمعوقين.",
+    "target_en_norm": "coordinate between government agencies and the private sector with respect to the services provided to disabled persons.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58371,
+    "source_ar": "هـ - تشجيع البحث العلمي للتعرُّف على حجم الإعاقة، وأنواعِها وأسبابِها، ووسائل الوقاية مِنها، وطُرق عِلاجِها والتغلُّب عليها أو الحد من آثارِها السلبية، وكذلك تحديد أكثر المِهن مُلاءمة لتدريب وتأهيل المُعوقين بما يتفق مع درجات إعاقتِهم وأنواعِها ومُتطلبات سوق العمل.",
+    "target_en": "Encourage research on the scope, types, and causes of disability, as well as prevention, treatment, and management methods to overcome or limit its negative effects, and identify the professions most appropriate for the training and rehabilitation of disabled persons as is suitable to the degree and type of disability as well as labor market requirements.",
+    "source_ar_norm": "ه - تشجيع البحث العلمي للتعرف علي حجم الاعاقة، وانواعها واسبابها، ووسائل الوقاية منها، وطرق علاجها والتغلب عليها او الحد من اثارها السلبية، وكذلك تحديد اكثر المهن ملاءمة لتدريب وتاهيل المعوقين بما يتفق مع درجات اعاقتهم وانواعها ومتطلبات سوق العمل.",
+    "target_en_norm": "encourage research on the scope, types, and causes of disability, as well as prevention, treatment, and management methods to overcome or limit its negative effects, and identify the professions most appropriate for the training and rehabilitation of disabled persons as is suitable to the degree and type of disability as well as labor market requirements.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58372,
+    "source_ar": "و - تشجيع المؤسسات والأفراد على إنشاء البرامِج الخاصة، والجمعيات والمؤسسات الخيرية لرعاية المُعوقين وتأهيلِهم.",
+    "target_en": "Encourage organizations and individuals to establish programs and charitable organizations for the care and rehabilitation of disabled persons.",
+    "source_ar_norm": "و - تشجيع المؤسسات والافراد علي انشاء البرامج الخاصة، والجمعيات والمؤسسات الخيرية لرعاية المعوقين وتاهيلهم.",
+    "target_en_norm": "encourage organizations and individuals to establish programs and charitable organizations for the care and rehabilitation of disabled persons.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58373,
+    "source_ar": "ز - دِراسة التقارير السنوية التي تُصدِرُها الجِهات الحُكومية المعنية فيما يتعلق بما تم إنجازُه في مجالات وقاية المُعوقين وتأهيلِهم ورعايتِهم، واتِخاذ اللازِم بشأنِها.",
+    "target_en": "Review annual progress reports issued by relevant government agencies on prevention, rehabilitation, and care services provided to disabled persons, and take necessary measures.",
+    "source_ar_norm": "ز - دراسة التقارير السنوية التي تصدرها الجهات الحكومية المعنية فيما يتعلق بما تم انجازه في مجالات وقاية المعوقين وتاهيلهم ورعايتهم، واتخاذ اللازم بشانها.",
+    "target_en_norm": "review annual progress reports issued by relevant government agencies on prevention, rehabilitation, and care services provided to disabled persons, and take necessary measures.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58374,
+    "source_ar": "ح - إصدار لائحة قبول التبرُعات والهِبات والوصايا والأوقاف.",
+    "target_en": "Issue regulations for the acceptance of donations, gifts, bequests, and endowments.",
+    "source_ar_norm": "ح - اصدار لائحة قبول التبرعات والهبات والوصايا والاوقاف.",
+    "target_en_norm": "issue regulations for the acceptance of donations, gifts, bequests, and endowments.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58375,
+    "source_ar": "ط - إصدار قواعِد عمل صندوق رعاية المُعوقين.",
+    "target_en": "Issue work rules for the Disability Welfare Fund.",
+    "source_ar_norm": "ط - اصدار قواعد عمل صندوق رعاية المعوقين.",
+    "target_en_norm": "issue work rules for the disability welfare fund.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58376,
+    "source_ar": "ي - إصدار لائحة داخلية لتنظيم إجراءات العمل في المجلِس.",
+    "target_en": "Issue bylaws to regulate the work procedures of the Council.",
+    "source_ar_norm": "ي - اصدار لائحة داخلية لتنظيم اجراءات العمل في المجلس.",
+    "target_en_norm": "issue bylaws to regulate the work procedures of the council.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58377,
+    "source_ar": "ك - إبداء الرأي في الاتِفاقيات الدولية المُتعلِقة بالمُعوقين، وفي إنضِمام المملكة إلى المُنظمات والهيئات الإقليمية والدولية ذات العلاقة بشؤون رعاية المُعوقين .",
+    "target_en": "Provide an opinion on international conventions relating to disabled persons, and on the Kingdom's accession to regional and international organizations concerned with the affairs of disabled persons.",
+    "source_ar_norm": "ك - ابداء الراي في الاتفاقيات الدولية المتعلقة بالمعوقين، وفي انضمام المملكة الي المنظمات والهيئات الاقليمية والدولية ذات العلاقة بشؤون رعاية المعوقين .",
+    "target_en_norm": "provide an opinion on international conventions relating to disabled persons, and on the kingdom's accession to regional and international organizations concerned with the affairs of disabled persons.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58378,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article 10",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58379,
+    "source_ar": "يرفع المجلِس الأعلى تقريراً سنوياً إلى رئيس مجلس الوزراء عن أعمالِه، وعن وضع المُعوقين والخدمات التي تُقدَّم لهُم وما يواجِه ذلك مِن صعوبات، ودعم الخدمات المُقدَّمة للمُعوقين.",
+    "target_en": "The Supreme Council shall submit an annual report to the President of the Council of Ministers on its activities, the condition of disabled persons, the services provided to them, and the difficulties encountered, and on the support for services provided to the disabled.",
+    "source_ar_norm": "يرفع المجلس الاعلي تقريرا سنويا الي رئيس مجلس الوزراء عن اعماله، وعن وضع المعوقين والخدمات التي تقدم لهم وما يواجه ذلك من صعوبات، ودعم الخدمات المقدمة للمعوقين.",
+    "target_en_norm": "the supreme council shall submit an annual report to the president of the council of ministers on its activities, the condition of disabled persons, the services provided to them, and the difficulties encountered, and on the support for services provided to the disabled.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58380,
+    "source_ar": "المادة الحادية عشرة:",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة:",
+    "target_en_norm": "article 11",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58381,
+    "source_ar": "أ - يعقِد المجلِس الأعلى بناءً على دعوة من رئيسِه أو من يُنيبُه جلستين على الأقل في السنة.",
+    "target_en": "The Supreme Council shall convene at least twice a year upon a call by its President or his designee.",
+    "source_ar_norm": "ا - يعقد المجلس الاعلي بناء علي دعوة من رئيسه او من ينيبه جلستين علي الاقل في السنة.",
+    "target_en_norm": "the supreme council shall convene at least twice a year upon a call by its president or his designee.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58382,
+    "source_ar": "ب - ينعقِد المجلِس الأعلى بحضور أغلبية أعضائه بمن فيهُم الرئيس أو من يُنيبُه، ويتخِذ قراراتِه بأغلبية أصوات الحاضرين، وفي حالة التساوي يُرجح الجانب الذي فيه رئيس الجلسة.",
+    "target_en": "Council meetings shall be valid if attended by the majority of its members including the President or his designee. Its decisions shall be passed by a majority vote of attending members; in case of a tie, the chairman of the meeting shall have the casting vote.",
+    "source_ar_norm": "ب - ينعقد المجلس الاعلي بحضور اغلبية اعضائه بمن فيهم الرئيس او من ينيبه، ويتخذ قراراته باغلبية اصوات الحاضرين، وفي حالة التساوي يرجح الجانب الذي فيه رئيس الجلسة.",
+    "target_en_norm": "council meetings shall be valid if attended by the majority of its members including the president or his designee. its decisions shall be passed by a majority vote of attending members; in case of a tie, the chairman of the meeting shall have the casting vote.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58383,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article 12",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58384,
+    "source_ar": "يكون للمجلِس الأعلى أمانة عامة، ويُعيِّن الأمين العام والموظفين اللازِمون وِفقاً لأنظِمة الخِدمة المدنية، ويتولى الأمين العام ما يأتي:",
+    "target_en": "The Council shall have a general secretariat. The Secretary-General and the staff of the secretariat shall be appointed according to civil service laws. The Secretary-General shall:",
+    "source_ar_norm": "يكون للمجلس الاعلي امانة عامة، ويعين الامين العام والموظفين اللازمون وفقا لانظمة الخدمة المدنية، ويتولي الامين العام ما ياتي:",
+    "target_en_norm": "the council shall have a general secretariat. the secretary-general and the staff of the secretariat shall be appointed according to civil service laws. the secretary-general shall:",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58385,
+    "source_ar": "أ - إدارة أعمال الأمانة.",
+    "target_en": "Manage the tasks of the general secretariat.",
+    "source_ar_norm": "ا - ادارة اعمال الامانة.",
+    "target_en_norm": "manage the tasks of the general secretariat.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58386,
+    "source_ar": "ب - أمانة سر المجلِس، والتحضير لاجتِماعاتِه، وتسجيل محاضِره، وتبليغ قراراتِه للجِهات المعنية.",
+    "target_en": "Carry out the functions of the Council's secretary, prepare for meetings, record meeting minutes, and communicate its decisions to concerned agencies.",
+    "source_ar_norm": "ب - امانة سر المجلس، والتحضير لاجتماعاته، وتسجيل محاضره، وتبليغ قراراته للجهات المعنية.",
+    "target_en_norm": "carry out the functions of the council's secretary, prepare for meetings, record meeting minutes, and communicate its decisions to concerned agencies.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58387,
+    "source_ar": "ج - إعداد اللوائح التنفيذية لهذا النِظام.",
+    "target_en": "Draft the implementing regulations of this Law.",
+    "source_ar_norm": "ج - اعداد اللوائح التنفيذية لهذا النظام.",
+    "target_en_norm": "draft the implementing regulations of this law.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58388,
+    "source_ar": "د - إعداد الدِراسات الفنية التي يتطلبُها عمل المجلِس.",
+    "target_en": "Prepare technical studies required by the Council.",
+    "source_ar_norm": "د - اعداد الدراسات الفنية التي يتطلبها عمل المجلس.",
+    "target_en_norm": "prepare technical studies required by the council.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58389,
+    "source_ar": "هـ - إعداد مشروعات الأنظِمة واللوائح المُتعلِقة بشؤون المُعوقين، بالتنسيق مع الجِهات المعنية.",
+    "target_en": "Draft laws and regulations relating to the affairs of disabled persons, in coordination with relevant agencies.",
+    "source_ar_norm": "ه - اعداد مشروعات الانظمة واللوائح المتعلقة بشؤون المعوقين، بالتنسيق مع الجهات المعنية.",
+    "target_en_norm": "draft laws and regulations relating to the affairs of disabled persons, in coordination with relevant agencies.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58390,
+    "source_ar": "و - إعداد مشروع ميزانية المجلِس .",
+    "target_en": "Draft the Council's budget.",
+    "source_ar_norm": "و - اعداد مشروع ميزانية المجلس .",
+    "target_en_norm": "draft the council's budget.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58391,
+    "source_ar": "ز - تمثيل المجلِس لدى الجِهات الحُكومية والمؤسسات والهيئات الأُخرى ذات العلاقة.",
+    "target_en": "Represent the Council before government agencies and other relevant entities.",
+    "source_ar_norm": "ز - تمثيل المجلس لدي الجهات الحكومية والمؤسسات والهيئات الاخري ذات العلاقة.",
+    "target_en_norm": "represent the council before government agencies and other relevant entities.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58392,
+    "source_ar": "ح - تكوين لِجان من الخُبراء والمُختصين لدِراسة ما يراه من أمور ذات صِلة بشؤون المُعوقين.",
+    "target_en": "Form committees of experts and specialists to review issues related to the affairs of disabled persons.",
+    "source_ar_norm": "ح - تكوين لجان من الخبراء والمختصين لدراسة ما يراه من امور ذات صلة بشؤون المعوقين.",
+    "target_en_norm": "form committees of experts and specialists to review issues related to the affairs of disabled persons.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58393,
+    "source_ar": "ط - إعداد التقرير السنوي عن أعمال المجلِس .",
+    "target_en": "Prepare the Council’s annual report.",
+    "source_ar_norm": "ط - اعداد التقرير السنوي عن اعمال المجلس .",
+    "target_en_norm": "prepare the council’s annual report.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58394,
+    "source_ar": "ي - أي أعمال أُخرى يُكلِفُه بِها المجلِس.",
+    "target_en": "Perform any other task assigned to him by the Council.",
+    "source_ar_norm": "ي - اي اعمال اخري يكلفه بها المجلس.",
+    "target_en_norm": "perform any other task assigned to him by the council.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58395,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article 13",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58396,
+    "source_ar": "للمجلِس الأعلى أنَّ يؤلف لجنة تحضيرية مِن بين أعضائه أو مِن غيرِهم، ويُحدِّد اختصاصاتِها وسير العمل بِها.",
+    "target_en": "The Supreme Council may form a preparatory committee from among its members or others and determine its powers and work procedures.",
+    "source_ar_norm": "للمجلس الاعلي ان يؤلف لجنة تحضيرية من بين اعضائه او من غيرهم، ويحدد اختصاصاتها وسير العمل بها.",
+    "target_en_norm": "the supreme council may form a preparatory committee from among its members or others and determine its powers and work procedures.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58397,
+    "source_ar": "المادة الرابعة عشرة:",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة:",
+    "target_en_norm": "article 14",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58398,
+    "source_ar": "يكون للمجلِس الأعلى ميزانية تُطبَّق عليها أحكام الميزانية العامة للدولة.",
+    "target_en": "The Council shall have a budget subject to the provisions governing the State budget.",
+    "source_ar_norm": "يكون للمجلس الاعلي ميزانية تطبق عليها احكام الميزانية العامة للدولة.",
+    "target_en_norm": "the council shall have a budget subject to the provisions governing the state budget.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58399,
+    "source_ar": "المادة الخامسة عشرة:",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة:",
+    "target_en_norm": "article 15",
+    "file_name": "نظام رعاية المعوقين.docx"
+  },
+  {
+    "id": 58400,
+    "source_ar": "تُعدل جميع الأنظِمة واللوائح والقرارات والتعليمات النافِذة، المُتعلِقة وقت صدور هذا النِظام ولوائحه بما يتفق معهُ، خِلال مُدة لا تتجاوز ثلاث سنوات من تاريخ نشرِّه.",
+    "target_en": "All applicable laws, regulations, decisions, and instructions relating to disabled persons shall be amended in line with this Law and its regulations within a period not exceeding three years from the date of its publication.",
+    "source_ar_norm": "تعدل جميع الانظمة واللوائح والقرارات والتعليمات النافذة، المتعلقة وقت صدور هذا النظام ولوائحه بما يتفق معه، خلال مدة لا تتجاوز ثلاث سنوات من تاريخ نشره.",
+    "target_en_norm": "all applicable laws, regulations, decisions, and instructions relating to disabled persons shall be amended in line with this law and its regulations within a period not exceeding three years from the date of its publication.",
+    "file_name": "نظام رعاية المعوقين.docx"
+  }
+]

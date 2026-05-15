@@ -1,0 +1,802 @@
+[
+  {
+    "id": 53601,
+    "source_ar": "2. باع، أو صرف، أو حاز بقصد الاتجار مستحضراً صيدلانيًّا أو عشبيًّا مغشوشاً، أو فاسداً، أو منتهي الصلاحية، أو غير مسجل.",
+    "target_en": "2. Selling, dispensing, or possessing with the intent to trade, a counterfeit, spoiled, expired, or unregistered pharmaceutical or herbal preparation.",
+    "source_ar_norm": "2. باع، او صرف، او حاز بقصد الاتجار مستحضرا صيدلانيا او عشبيا مغشوشا، او فاسدا، او منتهي الصلاحية، او غير مسجل.",
+    "target_en_norm": "2. selling, dispensing, or possessing with the intent to trade, a counterfeit, spoiled, expired, or unregistered pharmaceutical or herbal preparation.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53602,
+    "source_ar": "3. صنع أو ركب مستحضراً صيدلانيًّا أو عشبيًّا بالمخالفة لشروط التسجيل، أو أي حكم من أحكام النظام ولائحته.",
+    "target_en": "3. Manufacturing or formulating a pharmaceutical or herbal preparation in violation of the registration conditions, or in violation of any of the provisions of this Law and the Regulations.",
+    "source_ar_norm": "3. صنع او ركب مستحضرا صيدلانيا او عشبيا بالمخالفة لشروط التسجيل، او اي حكم من احكام النظام ولائحته.",
+    "target_en_norm": "3. manufacturing or formulating a pharmaceutical or herbal preparation in violation of the registration conditions, or in violation of any of the provisions of this law and the regulations.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53603,
+    "source_ar": "4. أدخل إلى المملكة مستحضراً صيدلانيًّا أو عشبيًّا غير مسجل، أو مغشوشاً، أو فاسداً، أو منتهي الصلاحية، أو حاول إدخال أيٍّ من ذلك.",
+    "target_en": "4. Bringing or attempting to bring into the Kingdom an unregistered, counterfeit, spoiled, or expired pharmaceutical or herbal preparation.",
+    "source_ar_norm": "4. ادخل الي المملكة مستحضرا صيدلانيا او عشبيا غير مسجل، او مغشوشا، او فاسدا، او منتهي الصلاحية، او حاول ادخال اي من ذلك.",
+    "target_en_norm": "4. bringing or attempting to bring into the kingdom an unregistered, counterfeit, spoiled, or expired pharmaceutical or herbal preparation.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53604,
+    "source_ar": "5. استعمل للترويج للمستحضر الصيدلاني أو العشبي معلومات غير حقيقية، سواء على المستحضر، أو في الدعاية له، أو بالمخالفة لشروط التسجيل.",
+    "target_en": "5. Using false information to promote a pharmaceutical or herbal preparation, whether on the preparation or in advertising, or in violation of the registration conditions.",
+    "source_ar_norm": "5. استعمل للترويج للمستحضر الصيدلاني او العشبي معلومات غير حقيقية، سواء علي المستحضر، او في الدعاية له، او بالمخالفة لشروط التسجيل.",
+    "target_en_norm": "5. using false information to promote a pharmaceutical or herbal preparation, whether on the preparation or in advertising, or in violation of the registration conditions.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53605,
+    "source_ar": "6. نقل أو خزن مستحضراً صيدلانيًّا أو عشبيًّا بالمخالفة لشروط النقل والتخزين التي تحددها الهيئة.",
+    "target_en": "6. Transporting or storing a pharmaceutical or herbal preparation in violation of the transportation and storage conditions prescribed by the Authority.",
+    "source_ar_norm": "6. نقل او خزن مستحضرا صيدلانيا او عشبيا بالمخالفة لشروط النقل والتخزين التي تحددها الهيئة.",
+    "target_en_norm": "6. transporting or storing a pharmaceutical or herbal preparation in violation of the transportation and storage conditions prescribed by the authority.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53606,
+    "source_ar": "7. أدخل إلى المملكة عبوات أو أغلفة لمستحضر صيدلاني أو عشبي بقصد الغش، أو حاول إدخال أي من ذلك.",
+    "target_en": "7. Bringing or attempting to bring into the Kingdom, with the intent to deceive, the packages or wrappers of a pharmaceutical or herbal preparation.",
+    "source_ar_norm": "7. ادخل الي المملكة عبوات او اغلفة لمستحضر صيدلاني او عشبي بقصد الغش، او حاول ادخال اي من ذلك.",
+    "target_en_norm": "7. bringing or attempting to bring into the kingdom, with the intent to deceive, the packages or wrappers of a pharmaceutical or herbal preparation.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53607,
+    "source_ar": "8. صنع أو طبع أو حاز أو باع أو عرض عبوات أو أغلفة لمستحضر صيدلاني أو عشبي بقصد الغش.",
+    "target_en": "8. Manufacturing, printing, possessing, selling, or displaying, with the intent to deceive, the packages or wrappers of a pharmaceutical or herbal preparation.",
+    "source_ar_norm": "8. صنع او طبع او حاز او باع او عرض عبوات او اغلفة لمستحضر صيدلاني او عشبي بقصد الغش.",
+    "target_en_norm": "8. manufacturing, printing, possessing, selling, or displaying, with the intent to deceive, the packages or wrappers of a pharmaceutical or herbal preparation.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53608,
+    "source_ar": "9. ارتكب أي مخالفة أخرى لأحكام النظام.",
+    "target_en": "9. Committing any other violation of the provisions of this Law.",
+    "source_ar_norm": "9. ارتكب اي مخالفة اخري لاحكام النظام.",
+    "target_en_norm": "9. committing any other violation of the provisions of this law.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53609,
+    "source_ar": "المادة الخامسة والثلاثون:",
+    "target_en": "Article 35",
+    "source_ar_norm": "المادة الخامسة والثلاثون:",
+    "target_en_norm": "article 35",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53610,
+    "source_ar": "1. مع عدم الإخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب مرتكب أيٍّ من الأفعال المنصوص عليها في المادة (الرابعة والثلاثين) من النظام بواحدة أو أكثر من العقوبات الآتية:",
+    "target_en": "1. Without prejudice to any harsher penalty provided for in any other law, a person who commits any of the acts set forth in Article 34 of this Law shall",
+    "source_ar_norm": "1. مع عدم الاخلال باي عقوبة اشد ينص عليها نظام اخر، يعاقب مرتكب اي من الافعال المنصوص عليها في المادة (الرابعة والثلاثين) من النظام بواحدة او اكثر من العقوبات الاتية:",
+    "target_en_norm": "1. without prejudice to any harsher penalty provided for in any other law, a person who commits any of the acts set forth in article 34 of this law shall",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53611,
+    "source_ar": "أ- غرامة لا تزيد على (خمسة ملايين) ريال.",
+    "target_en": "be subject to one or more of the following penalties: a) A fine not exceeding five million riyals.",
+    "source_ar_norm": "ا- غرامة لا تزيد علي (خمسة ملايين) ريال.",
+    "target_en_norm": "be subject to one or more of the following penalties: a) a fine not exceeding five million riyals.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53612,
+    "source_ar": "ب- إغلاق المنشأة الصيدلية مؤقتاً لمدة لا تتجاوز (مائة وثمانين) يوماً.",
+    "target_en": "b) Temporary closure of the pharmaceutical establishment for a period not exceeding 180 days.",
+    "source_ar_norm": "ب- اغلاق المنشاة الصيدلية مؤقتا لمدة لا تتجاوز (مائة وثمانين) يوما.",
+    "target_en_norm": "b) temporary closure of the pharmaceutical establishment for a period not exceeding 180 days.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53613,
+    "source_ar": "ج- إلغاء الترخيص.",
+    "target_en": "c) Cancellation of the license.",
+    "source_ar_norm": "ج- الغاء الترخيص.",
+    "target_en_norm": "c) cancellation of the license.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53614,
+    "source_ar": "وتجوز مضاعفة العقوبتين المنصوص عليهما في الفقرتين (أ) و(ب) في حال تكرار ارتكاب المخالفة.",
+    "target_en": "The penalties stipulated in paragraphs (a) and (b) may be doubled if the violation is repeated.",
+    "source_ar_norm": "وتجوز مضاعفة العقوبتين المنصوص عليهما في الفقرتين (ا) و(ب) في حال تكرار ارتكاب المخالفة.",
+    "target_en_norm": "the penalties stipulated in paragraphs (a) and (b) may be doubled if the violation is repeated.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53615,
+    "source_ar": "2. إذا كانت المخالفة تتمثل في ارتكاب أي من الأفعال المنصوص عليها في الفقرات (1) و(2) و(4) و(7) و(8) من المادة (الرابعة والثلاثين) من النظام، فتكون العقوبة السجن مدة لا تزيد على (عشر) سنوات، أو الغرامة التي لا تزيد على (عشرة ملايين) ريال، أو بهما معاً. ويجوز - إضافة إلى ذلك - إيقاع أي من العقوبتين المنصوص عليهما في الفقرتين (1/ب) أو (1/ج) من هذه المادة.",
+    "target_en": "2. If the violation involves committing any of the acts set forth in Article 34(1, 2, 4, 7, and 8) of this Law, the violator shall be subject to imprisonment for a period not exceeding 10 years or a fine not exceeding 10 million riyals, or to both penalties. Additionally, either of the penalties provided for in paragraphs (1)(b) or (1)(c) of this Article may be imposed.",
+    "source_ar_norm": "2. اذا كانت المخالفة تتمثل في ارتكاب اي من الافعال المنصوص عليها في الفقرات (1) و(2) و(4) و(7) و(8) من المادة (الرابعة والثلاثين) من النظام، فتكون العقوبة السجن مدة لا تزيد علي (عشر) سنوات، او الغرامة التي لا تزيد علي (عشرة ملايين) ريال، او بهما معا. ويجوز - اضافة الي ذلك - ايقاع اي من العقوبتين المنصوص عليهما في الفقرتين (1/ب) او (1/ج) من هذه المادة.",
+    "target_en_norm": "2. if the violation involves committing any of the acts set forth in article 34(1, 2, 4, 7, and 8) of this law, the violator shall be subject to imprisonment for a period not exceeding 10 years or a fine not exceeding 10 million riyals, or to both penalties. additionally, either of the penalties provided for in paragraphs (1)(b) or (1)(c) of this article may be imposed.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53616,
+    "source_ar": "المادة السادسة والثلاثون:",
+    "target_en": "Article 36",
+    "source_ar_norm": "المادة السادسة والثلاثون:",
+    "target_en_norm": "article 36",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53617,
+    "source_ar": "تتولى الهيئة توقيع عقوبة الغرامة فيما دون (100.000) مائة ألف ريال في حق المكاتب العلمية، ومراكز الاستشارات الدوائية أو تحليل المستحضرات الصيدلانية المخالفة، وفيما دون (200.000) مائتي ألف ريال في حق مستودعات الاتجار بالمستحضرات الصيدلانية والعشبية المخالفة، وفيما دون (300.000) ثلاثمائة ألف ريال في حق مصانع المستحضرات الصيدلانية والعشبية المخالفة، وذلك وفقاً لجدول يصدره المجلس يتضمن تصنيفاً للمخالفات، والعقوبات المحددة لكل منها. وتعتمد هذه العقوبات بقرار من الرئيس أو من فوضه. وفي جميع الأحوال، يكون للهيئة عند الضرورة اتخاذ ما تراه من تدابير احترازية.",
+    "target_en": "The Authority shall undertake the imposition of fines that are less than one hundred thousand riyals against violating scientific offices and medicinal consultation or pharmaceutical and herbal preparations analysis centers; the imposition of fines that are less than two hundred thousand riyals against violating pharmaceutical and herbal preparations wholesale warehouses; and the imposition of fines that are less than three hundred thousand riyals against violating pharmaceutical and herbal preparations factories, according to a table issued by the Board which includes a classification of the violations and their corresponding penalties. Said penalties shall be approved pursuant to a decision by the CEO or his designee. In all cases, the Authority may, when necessary, take any precautionary measures it deems appropriate.",
+    "source_ar_norm": "تتولي الهيئة توقيع عقوبة الغرامة فيما دون (100.000) مائة الف ريال في حق المكاتب العلمية، ومراكز الاستشارات الدوائية او تحليل المستحضرات الصيدلانية المخالفة، وفيما دون (200.000) مائتي الف ريال في حق مستودعات الاتجار بالمستحضرات الصيدلانية والعشبية المخالفة، وفيما دون (300.000) ثلاثمائة الف ريال في حق مصانع المستحضرات الصيدلانية والعشبية المخالفة، وذلك وفقا لجدول يصدره المجلس يتضمن تصنيفا للمخالفات، والعقوبات المحددة لكل منها. وتعتمد هذه العقوبات بقرار من الرئيس او من فوضه. وفي جميع الاحوال، يكون للهيئة عند الضرورة اتخاذ ما تراه من تدابير احترازية.",
+    "target_en_norm": "the authority shall undertake the imposition of fines that are less than one hundred thousand riyals against violating scientific offices and medicinal consultation or pharmaceutical and herbal preparations analysis centers; the imposition of fines that are less than two hundred thousand riyals against violating pharmaceutical and herbal preparations wholesale warehouses; and the imposition of fines that are less than three hundred thousand riyals against violating pharmaceutical and herbal preparations factories, according to a table issued by the board which includes a classification of the violations and their corresponding penalties. said penalties shall be approved pursuant to a decision by the ceo or his designee. in all cases, the authority may, when necessary, take any precautionary measures it deems appropriate.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53618,
+    "source_ar": "المادة السابعة والثلاثون:",
+    "target_en": "Article 37",
+    "source_ar_norm": "المادة السابعة والثلاثون:",
+    "target_en_norm": "article 37",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53619,
+    "source_ar": "1. تكوّن بقرار من المجلس لجنة (أو أكثر) لا يقل عدد أعضائها عن ثلاثة، يكون أحدهم - على الأقل - مستشاراً نظاميًّا.",
+    "target_en": "1. A committee, or more, shall be formed pursuant to a decision by the Board and shall comprise no less than three members, one of which, at least, shall be a legal advisor.",
+    "source_ar_norm": "1. تكون بقرار من المجلس لجنة (او اكثر) لا يقل عدد اعضائها عن ثلاثة، يكون احدهم - علي الاقل - مستشارا نظاميا.",
+    "target_en_norm": "1. a committee, or more, shall be formed pursuant to a decision by the board and shall comprise no less than three members, one of which, at least, shall be a legal advisor.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53620,
+    "source_ar": "2. دون الإخلال بما ورد في المادة (السادسة والثلاثين) من النظام، تختص اللجنة - المشار إليها في الفقرة (1) من هذه المادة - بما يـأتي:",
+    "target_en": "2. Without prejudice to the provisions of Article 36 of this Law, the committee, referred to in paragraph (1) of this Article, shall have the following powers:",
+    "source_ar_norm": "2. دون الاخلال بما ورد في المادة (السادسة والثلاثين) من النظام، تختص اللجنة - المشار اليها في الفقرة (1) من هذه المادة - بما ياتي:",
+    "target_en_norm": "2. without prejudice to the provisions of article 36 of this law, the committee, referred to in paragraph (1) of this article, shall have the following powers:",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53621,
+    "source_ar": "أ- النظر في مخالفات أحكام النظام - عدا المخالفات المشار إليها في الفقرة (2) من المادة (الخامسة والثلاثين) - وإيقاع العقوبات المنصوص عليها في الفقرة (1) من المادة (الخامسة والثلاثين) من النظام.",
+    "target_en": "a) Reviewing violations of the provisions of this Law, excluding the violations provided for in Article 35(2), and imposing the penalties stipulated in Article 35(1) of this Law.",
+    "source_ar_norm": "ا- النظر في مخالفات احكام النظام - عدا المخالفات المشار اليها في الفقرة (2) من المادة (الخامسة والثلاثين) - وايقاع العقوبات المنصوص عليها في الفقرة (1) من المادة (الخامسة والثلاثين) من النظام.",
+    "target_en_norm": "a) reviewing violations of the provisions of this law, excluding the violations provided for in article 35(2), and imposing the penalties stipulated in article 35(1) of this law.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53622,
+    "source_ar": "ب- النظر في التظلمات التي تقدم إلى الهيئة من قرارات توقيع العقوبات الصادرة وفقاً للمادة (السادسة والثلاثين) من النظام.",
+    "target_en": "b) Reviewing appeals filed with the Authority against penalty decisions issued in accordance with Article 36 of this Law.",
+    "source_ar_norm": "ب- النظر في التظلمات التي تقدم الي الهيئة من قرارات توقيع العقوبات الصادرة وفقا للمادة (السادسة والثلاثين) من النظام.",
+    "target_en_norm": "b) reviewing appeals filed with the authority against penalty decisions issued in accordance with article 36 of this law.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53623,
+    "source_ar": "3. تحدد قواعد وإجراءات عمل اللجنة ومكافآت أعضائها بقرار من المجلس.",
+    "target_en": "3. The committee’s work rules and procedures and the remuneration of its members shall be determined pursuant to a Board decision.",
+    "source_ar_norm": "3. تحدد قواعد واجراءات عمل اللجنة ومكافات اعضائها بقرار من المجلس.",
+    "target_en_norm": "3. the committee’s work rules and procedures and the remuneration of its members shall be determined pursuant to a board decision.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53624,
+    "source_ar": "4. يجوز الاعتراض على قرارات اللجنة أمام المحكمة الإدارية خلال (ستين) يوماً من تاريخ العلم بها. وفي حال إلغاء المحكمة الإدارية لقرار العقوبة الصادر من اللجنة، تتولى المحكمة النظر في المخالفة، وإيقاع العقوبة المناسبة من العقوبات المنصوص عليها في المادة (الخامسة والثلاثين) من النظام.",
+    "target_en": "4. Committee decisions may be appealed before the Administrative Court within 60 days from the date of knowledge thereof. If the Administrative Court revokes the penalty decision issued by the committee, it shall review the violation and impose the penalty it deems appropriate from among the penalties stipulated in Article 35 of this Law.",
+    "source_ar_norm": "4. يجوز الاعتراض علي قرارات اللجنة امام المحكمة الادارية خلال (ستين) يوما من تاريخ العلم بها. وفي حال الغاء المحكمة الادارية لقرار العقوبة الصادر من اللجنة، تتولي المحكمة النظر في المخالفة، وايقاع العقوبة المناسبة من العقوبات المنصوص عليها في المادة (الخامسة والثلاثين) من النظام.",
+    "target_en_norm": "4. committee decisions may be appealed before the administrative court within 60 days from the date of knowledge thereof. if the administrative court revokes the penalty decision issued by the committee, it shall review the violation and impose the penalty it deems appropriate from among the penalties stipulated in article 35 of this law.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53625,
+    "source_ar": "المادة الثامنة والثلاثون:",
+    "target_en": "Article 38",
+    "source_ar_norm": "المادة الثامنة والثلاثون:",
+    "target_en_norm": "article 38",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53626,
+    "source_ar": "إذا كانت المخالفة مشمولة بحكم الفقرة (2) من المادة (الخامسة والثلاثين) من النظام، فتحال إلى النيابة العامة؛ للتحقيق فيها، وإحالتها إلى المحكمة المختصة وفقاً للإجراءات النظامية.",
+    "target_en": "Violations governed by Article 35(2) of this Law shall be referred to the Public Prosecution for investigation and referral to the competent court in accordance with statutory procedures.",
+    "source_ar_norm": "اذا كانت المخالفة مشمولة بحكم الفقرة (2) من المادة (الخامسة والثلاثين) من النظام، فتحال الي النيابة العامة؛ للتحقيق فيها، واحالتها الي المحكمة المختصة وفقا للاجراءات النظامية.",
+    "target_en_norm": "violations governed by article 35(2) of this law shall be referred to the public prosecution for investigation and referral to the competent court in accordance with statutory procedures.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53627,
+    "source_ar": "المادة التاسعة والثلاثون:",
+    "target_en": "Article 39",
+    "source_ar_norm": "المادة التاسعة والثلاثون:",
+    "target_en_norm": "article 39",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53628,
+    "source_ar": "يجوز تضمين الحكم أو القرار الصادر بالعقوبة - بحسب الأحوال - النص على نشر منطوقه على نفقة المخالف في صحيفة محلية تصدر في مقر إقامته، فإن لم تكن في مقره صحيفة ففي أقرب منطقة إليه، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع المخالفة المرتكبة وجسامتها وتأثيرها؛ على أن يكون النشر بعد اكتساب الحكم الصفة القطعية، أو تحصن القرار بفوات ميعاد التظلم عليه أو بتأييده من المحكمة المختصة.",
+    "target_en": "The judgment or penalty decision, as the case may be, may provide for the publication of the text of the ruling at the expense of the violator in a local newspaper issued in his area of residence or in the nearest area if no newspaper is published in his area of residence, or in any other appropriate medium, depending on the type, gravity, and impact of the violation. Publication shall be made after the judgment becomes final or the decision becomes unappealable upon the lapse of the appeal period or upon being affirmed by the competent court.",
+    "source_ar_norm": "يجوز تضمين الحكم او القرار الصادر بالعقوبة - بحسب الاحوال - النص علي نشر منطوقه علي نفقة المخالف في صحيفة محلية تصدر في مقر اقامته، فان لم تكن في مقره صحيفة ففي اقرب منطقة اليه، او نشره في اي وسيلة اخري مناسبة، وذلك بحسب نوع المخالفة المرتكبة وجسامتها وتاثيرها؛ علي ان يكون النشر بعد اكتساب الحكم الصفة القطعية، او تحصن القرار بفوات ميعاد التظلم عليه او بتاييده من المحكمة المختصة.",
+    "target_en_norm": "the judgment or penalty decision, as the case may be, may provide for the publication of the text of the ruling at the expense of the violator in a local newspaper issued in his area of residence or in the nearest area if no newspaper is published in his area of residence, or in any other appropriate medium, depending on the type, gravity, and impact of the violation. publication shall be made after the judgment becomes final or the decision becomes unappealable upon the lapse of the appeal period or upon being affirmed by the competent court.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53629,
+    "source_ar": "المادة الأربعون:",
+    "target_en": "Article 40",
+    "source_ar_norm": "المادة الاربعون:",
+    "target_en_norm": "article 40",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53630,
+    "source_ar": "يصدر المجلس اللائحة خلال (مائة وعشرين) يوماً من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها بعد نفاذه.",
+    "target_en": "The Board shall issue the Regulations within 120 days from the date of publication of this Law in the Official Gazette. The Regulations shall become effective after this Law enters into force.",
+    "source_ar_norm": "يصدر المجلس اللائحة خلال (مائة وعشرين) يوما من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها بعد نفاذه.",
+    "target_en_norm": "the board shall issue the regulations within 120 days from the date of publication of this law in the official gazette. the regulations shall become effective after this law enters into force.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53631,
+    "source_ar": "المادة الحادية والأربعون:",
+    "target_en": "Article 41",
+    "source_ar_norm": "المادة الحادية والاربعون:",
+    "target_en_norm": "article 41",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53632,
+    "source_ar": "يحل النظام محل نظام المنشآت والمستحضرات الصيدلانية، الصادر بالمرسوم الملكي رقم (م/31) وتاريخ 1 / 6 / 1425هـ، ويلغي كل ما يتعارض معه من أحكام.",
+    "target_en": "This Law shall supersede the Law of Pharmaceutical Establishments and Preparations promulgated by Royal Decree No. M/31, dated 1/6/1425H, and shall repeal any provisions conflicting therewith",
+    "source_ar_norm": "يحل النظام محل نظام المنشات والمستحضرات الصيدلانية، الصادر بالمرسوم الملكي رقم (م/31) وتاريخ 1 / 6 / 1425ه، ويلغي كل ما يتعارض معه من احكام.",
+    "target_en_norm": "this law shall supersede the law of pharmaceutical establishments and preparations promulgated by royal decree no. m/31, dated 1/6/1425h, and shall repeal any provisions conflicting therewith",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53633,
+    "source_ar": "المادة الثانية والأربعون:",
+    "target_en": "Article 42",
+    "source_ar_norm": "المادة الثانية والاربعون:",
+    "target_en_norm": "article 42",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53634,
+    "source_ar": "يعمل بالنظام بعد (مائة وعشرين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+    "target_en": "This Law shall enter into force 120 days following the date of its publication in the Official Gazette.",
+    "source_ar_norm": "يعمل بالنظام بعد (مائة وعشرين) يوما من تاريخ نشره في الجريدة الرسمية.",
+    "target_en_norm": "this law shall enter into force 120 days following the date of its publication in the official gazette.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53635,
+    "source_ar": "نظام المواد البترولية والبتروكيماوية",
+    "target_en": "Law of Petroleum and Petrochemical Products",
+    "source_ar_norm": "نظام المواد البترولية والبتروكيماوية",
+    "target_en_norm": "law of petroleum and petrochemical products",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53636,
+    "source_ar": "المادة الأولى:",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي:",
+    "target_en_norm": "article 1",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53637,
+    "source_ar": "يقصد بالألفاظ والعبارات الآتية- أينما وردت في النظام- المعاني المبينة أمام كلٍّ منها، ما لم يقتضِ السياق غير ذلك:",
+    "target_en": "In this Law, the following words and phrases shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "source_ar_norm": "يقصد بالالفاظ والعبارات الاتية- اينما وردت في النظام- المعاني المبينة امام كل منها، ما لم يقتض السياق غير ذلك:",
+    "target_en_norm": "in this law, the following words and phrases shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53638,
+    "source_ar": "1-النظام: نظام المواد البترولية والبتروكيماوية.",
+    "target_en": "1-Law: Law of Petroleum and Petrochemical Products.",
+    "source_ar_norm": "1-النظام: نظام المواد البترولية والبتروكيماوية.",
+    "target_en_norm": "1-law: law of petroleum and petrochemical products.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53639,
+    "source_ar": "2-اللوائح: اللوائح التنفيذية للنظام.",
+    "target_en": "2-Regulations: Implementing Regulations of the Law.",
+    "source_ar_norm": "2-اللوائح: اللوائح التنفيذية للنظام.",
+    "target_en_norm": "2-regulations: implementing regulations of the law.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53640,
+    "source_ar": "3-الوزارة: وزارة الطاقة.",
+    "target_en": "3-Ministry: Ministry of Energy.",
+    "source_ar_norm": "3-الوزارة: وزارة الطاقة.",
+    "target_en_norm": "3-ministry: ministry of energy.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53641,
+    "source_ar": "4-الوزير: وزير الطاقة.",
+    "target_en": "4-Minister: Minister of Energy.",
+    "source_ar_norm": "4-الوزير: وزير الطاقة.",
+    "target_en_norm": "4-minister: minister of energy.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53642,
+    "source_ar": "5-الشخص: كل شخص ذي صفة طبيعية أو اعتبارية.",
+    "target_en": "5-Person: A natural or legal person.",
+    "source_ar_norm": "5-الشخص: كل شخص ذي صفة طبيعية او اعتبارية.",
+    "target_en_norm": "5-person: a natural or legal person.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53643,
+    "source_ar": "6-المواد البترولية: الزيوت، والقار، والمكثفات، والمنتجات المشتقة منها عن طريق عمليات التكرير والإنتاج والمعالجة والتكسير، والمواد البترولية الناتجة عن عمليات التقطير أو التصنيع أو الصيانة أو التشغيل أو التنظيف. ويدخل ضمن المواد البترولية جميع أنواع الوقود السائل، سواء مستخدم أو مستهلك.",
+    "target_en": "6-Petroleum Products: Oils, bitumen, condensates, and the products derived therefrom through refining, production, treatment, and cracking operations; petroleum products resulting from distillation, manufacturing, maintenance, operation, or cleaning; and all types of liquid fuel, whether used or consumed.",
+    "source_ar_norm": "6-المواد البترولية: الزيوت، والقار، والمكثفات، والمنتجات المشتقة منها عن طريق عمليات التكرير والانتاج والمعالجة والتكسير، والمواد البترولية الناتجة عن عمليات التقطير او التصنيع او الصيانة او التشغيل او التنظيف. ويدخل ضمن المواد البترولية جميع انواع الوقود السائل، سواء مستخدم او مستهلك.",
+    "target_en_norm": "6-petroleum products: oils, bitumen, condensates, and the products derived therefrom through refining, production, treatment, and cracking operations; petroleum products resulting from distillation, manufacturing, maintenance, operation, or cleaning; and all types of liquid fuel, whether used or consumed.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53644,
+    "source_ar": "7-العمليات البترولية: استخدام أي مادة من المواد البترولية، أو بيعها، أو شراؤها، أو نقلها، أو تخزينها، أو استيرادها، أو تصديرها، أو تعبئتها، أو معالجتها. ويدخل ضمن العمليات البترولية إنشاء أو تشغيل مصفاة تكرير، أو فرضة، أو محطة توزيع.",
+    "target_en": "7-Petroleum Operations: The use, sale, purchase, transport, storage, import, export, packaging, or treatment of any petroleum product as well as the construction or operation of refineries, terminals, or distribution stations.",
+    "source_ar_norm": "7-العمليات البترولية: استخدام اي مادة من المواد البترولية، او بيعها، او شراؤها، او نقلها، او تخزينها، او استيرادها، او تصديرها، او تعبئتها، او معالجتها. ويدخل ضمن العمليات البترولية انشاء او تشغيل مصفاة تكرير، او فرضة، او محطة توزيع.",
+    "target_en_norm": "7-petroleum operations: the use, sale, purchase, transport, storage, import, export, packaging, or treatment of any petroleum product as well as the construction or operation of refineries, terminals, or distribution stations.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53645,
+    "source_ar": "8-المواد البتروكيماوية: مركبات كيميائية تستخدم إحدى المواد الهيدروكربونية أو البترولية أو البتروكيماوية الأخرى لقيماً أساسيًّا في إنتاجها، عن طريق عمليات الفصل أو الخلط أو التفاعلات الكيميائية. ويطلق على المواد البتروكيماوية: المواد الأساسية والوسيطة والتحويلية والمتخصصة.",
+    "target_en": "8-Petrochemicals: Chemical compounds derived from the use of other hydrocarbon, petroleum, or petrochemical products as basic feedstock in their production, through separation or blending operations or through chemical reactions. Petrochemicals are also called basic, intermediate, transitional, and specialized materials.",
+    "source_ar_norm": "8-المواد البتروكيماوية: مركبات كيميائية تستخدم احدي المواد الهيدروكربونية او البترولية او البتروكيماوية الاخري لقيما اساسيا في انتاجها، عن طريق عمليات الفصل او الخلط او التفاعلات الكيميائية. ويطلق علي المواد البتروكيماوية: المواد الاساسية والوسيطة والتحويلية والمتخصصة.",
+    "target_en_norm": "8-petrochemicals: chemical compounds derived from the use of other hydrocarbon, petroleum, or petrochemical products as basic feedstock in their production, through separation or blending operations or through chemical reactions. petrochemicals are also called basic, intermediate, transitional, and specialized materials.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53646,
+    "source_ar": "9-العمليات البتروكيماوية: إنتاج المواد البتروكيماوية، أو معالجتها، أو بيعها، أو شراؤها، أو توزيعها، أو نقلها، أو تخزينها، أو تعبئتها، أو تغليفها، أو استيرادها، أو تصديرها. ويدخل ضمن العمليات البتروكيماوية تشغيل المنشآت البتروكيماوية.",
+    "target_en": "9-Petrochemical Operations: The production, treatment, sale, purchase, distribution, transport, storage, packaging, import, or export of petrochemicals as well as the operation of petrochemical facilities.",
+    "source_ar_norm": "9-العمليات البتروكيماوية: انتاج المواد البتروكيماوية، او معالجتها، او بيعها، او شراؤها، او توزيعها، او نقلها، او تخزينها، او تعبئتها، او تغليفها، او استيرادها، او تصديرها. ويدخل ضمن العمليات البتروكيماوية تشغيل المنشات البتروكيماوية.",
+    "target_en_norm": "9-petrochemical operations: the production, treatment, sale, purchase, distribution, transport, storage, packaging, import, or export of petrochemicals as well as the operation of petrochemical facilities.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53647,
+    "source_ar": "10-اللقيم: استخدام مادة بترولية أو بتروكيماوية أو أكثر، لتكون مدخلاً في أي عملية من عمليات الإنتاج، عن طريق التكرير، أو الخلط، أو التفاعلات الكيميائية.",
+    "target_en": "10-Feedstock: A petroleum or petrochemical product or more used as input in any production operation through refining, blending, or chemical reactions.",
+    "source_ar_norm": "10-اللقيم: استخدام مادة بترولية او بتروكيماوية او اكثر، لتكون مدخلا في اي عملية من عمليات الانتاج، عن طريق التكرير، او الخلط، او التفاعلات الكيميائية.",
+    "target_en_norm": "10-feedstock: a petroleum or petrochemical product or more used as input in any production operation through refining, blending, or chemical reactions.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53648,
+    "source_ar": "11-مصفاة التكرير: منشأة تقوم بتكرير الزيت الخام أو المكثفات؛ لإنتاج المواد البترولية عن طريق الفصل والمعالجة.",
+    "target_en": "11-Refinery: A facility that refines crude oil or condensates to produce petroleum products through separation and treatment.",
+    "source_ar_norm": "11-مصفاة التكرير: منشاة تقوم بتكرير الزيت الخام او المكثفات؛ لانتاج المواد البترولية عن طريق الفصل والمعالجة.",
+    "target_en_norm": "11-refinery: a facility that refines crude oil or condensates to produce petroleum products through separation and treatment.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53649,
+    "source_ar": "12-الفُرضة: الموقع المحدد في الموانئ البحرية؛ لتصدير المواد البترولية أو استيرادها، أو توزيعها محليًّا.",
+    "target_en": "12-Terminal: A site designated at seaports for the export, import, or local distribution of petroleum products.",
+    "source_ar_norm": "12-الفرضة: الموقع المحدد في الموانئ البحرية؛ لتصدير المواد البترولية او استيرادها، او توزيعها محليا.",
+    "target_en_norm": "12-terminal: a site designated at seaports for the export, import, or local distribution of petroleum products.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53650,
+    "source_ar": "13-محطة التوزيع: الموقع الخاص بتوزيع المواد البترولية محليًّا.",
+    "target_en": "13-Distribution Station: A site designated for the local distribution of petroleum products.",
+    "source_ar_norm": "13-محطة التوزيع: الموقع الخاص بتوزيع المواد البترولية محليا.",
+    "target_en_norm": "13-distribution station: a site designated for the local distribution of petroleum products.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53651,
+    "source_ar": "14-المعالجة: عملية تحسين أو تنقية المواد البترولية أو البتروكيماوية المستخدمة، أو تأهيلها، أو المواد البترولية أو البتروكيماوية الراجعة من المصافي والمنشآت، أو النفايات المحتوية على مواد بترولية أو بتروكيماوية، أو المحفزات المستهلكة، أو بقايا الزيوت.",
+    "target_en": "14-Treatment: The process of improving, purifying, or rehabilitating used petroleum or petrochemical products, petroleum or petrochemical products recovered from refineries and facilities, waste containing petroleum or petrochemical products, spent catalysts, or oil residues.",
+    "source_ar_norm": "14-المعالجة: عملية تحسين او تنقية المواد البترولية او البتروكيماوية المستخدمة، او تاهيلها، او المواد البترولية او البتروكيماوية الراجعة من المصافي والمنشات، او النفايات المحتوية علي مواد بترولية او بتروكيماوية، او المحفزات المستهلكة، او بقايا الزيوت.",
+    "target_en_norm": "14-treatment: the process of improving, purifying, or rehabilitating used petroleum or petrochemical products, petroleum or petrochemical products recovered from refineries and facilities, waste containing petroleum or petrochemical products, spent catalysts, or oil residues.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53652,
+    "source_ar": "15-التعبئة: عملية تعبئة أحد أنواع المواد البترولية في عبوات مصممة لذلك، لغرض تداولها.",
+    "target_en": "15-Packaging: The process of filling a type of petroleum product into specially-designed containers for the purpose of circulation.",
+    "source_ar_norm": "15-التعبئة: عملية تعبئة احد انواع المواد البترولية في عبوات مصممة لذلك، لغرض تداولها.",
+    "target_en_norm": "15-packaging: the process of filling a type of petroleum product into specially-designed containers for the purpose of circulation.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53653,
+    "source_ar": "16-الترخيص: وثيقة تُمنح من الوزارة، تخوّل المرخّص له بمزاولة العمليات البترولية أو البتروكيماوية.",
+    "target_en": "16-License: A document granted by the Ministry authorizing a licensee to engage in petroleum or petrochemical operations.",
+    "source_ar_norm": "16-الترخيص: وثيقة تمنح من الوزارة، تخول المرخص له بمزاولة العمليات البترولية او البتروكيماوية.",
+    "target_en_norm": "16-license: a document granted by the ministry authorizing a licensee to engage in petroleum or petrochemical operations.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53654,
+    "source_ar": "17-المرخص له: كل شخص حاصل على الترخيص.",
+    "target_en": "17-Licensee: A person holding a license.",
+    "source_ar_norm": "17-المرخص له: كل شخص حاصل علي الترخيص.",
+    "target_en_norm": "17-licensee: a person holding a license.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53655,
+    "source_ar": "18-المواد البترولية المسعرة: المواد البترولية التي حددت الحكومة سعر بيعها محليًّا.",
+    "target_en": "18-Priced Petroleum Products: Petroleum products the local selling prices of which are set by the government.",
+    "source_ar_norm": "18-المواد البترولية المسعرة: المواد البترولية التي حددت الحكومة سعر بيعها محليا.",
+    "target_en_norm": "18-priced petroleum products: petroleum products the local selling prices of which are set by the government.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53656,
+    "source_ar": "المادة الثانية:",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية:",
+    "target_en_norm": "article 2",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53657,
+    "source_ar": "يهدف النظام إلى الآتي:",
+    "target_en": "This Law aims to:",
+    "source_ar_norm": "يهدف النظام الي الاتي:",
+    "target_en_norm": "this law aims to:",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53658,
+    "source_ar": "1- تنظيم العمليات البترولية والبتروكيماوية، بما يكفل تحقيق المصلحة العامة، وحماية الحقوق والمصالح الخاصة بالمستهلكين والمرخص لهم.",
+    "target_en": "1. regulate petroleum and petrochemical operations in a manner that serves public interest and protects the rights and interests of consumers and licensees;",
+    "source_ar_norm": "1- تنظيم العمليات البترولية والبتروكيماوية، بما يكفل تحقيق المصلحة العامة، وحماية الحقوق والمصالح الخاصة بالمستهلكين والمرخص لهم.",
+    "target_en_norm": "1. regulate petroleum and petrochemical operations in a manner that serves public interest and protects the rights and interests of consumers and licensees;",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53659,
+    "source_ar": "2- تنمية مساهمة القطاع الخاص في مجال العمليات البترولية والبتروكيماوية، وتهيئة بيئة تنافسية؛ بما يحقق النمو الاقتصادي والمساهمة في الناتج المحلي الإجمالي، ورفع مستويات كفاءة استخدام الطاقة.",
+    "target_en": "2. increase private sector participation in petroleum and petrochemical operations and create a competitive environment to achieve economic growth, contribute to the GDP, and improve energy efficiency;",
+    "source_ar_norm": "2- تنمية مساهمة القطاع الخاص في مجال العمليات البترولية والبتروكيماوية، وتهيئة بيئة تنافسية؛ بما يحقق النمو الاقتصادي والمساهمة في الناتج المحلي الاجمالي، ورفع مستويات كفاءة استخدام الطاقة.",
+    "target_en_norm": "2. increase private sector participation in petroleum and petrochemical operations and create a competitive environment to achieve economic growth, contribute to the gdp, and improve energy efficiency;",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53660,
+    "source_ar": "3- تعزيز الاقتصاد الدائري للكربون، وإدارة غازات الاحتباس الحراري.",
+    "target_en": "3. promote the circular carbon economy and manage greenhouse gases;",
+    "source_ar_norm": "3- تعزيز الاقتصاد الدائري للكربون، وادارة غازات الاحتباس الحراري.",
+    "target_en_norm": "3. promote the circular carbon economy and manage greenhouse gases;",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53661,
+    "source_ar": "4- تنمية أوجه الاستفادة من المواد البترولية والبتروكيماوية، وتعظيم المنفعة من المواد الخام ونقلها إلى مراحل متقدمة من الإنتاج.",
+    "target_en": "4. develop new uses for petroleum and petrochemical products, and maximize the benefit of raw materials and promote the downstream production thereof;",
+    "source_ar_norm": "4- تنمية اوجه الاستفادة من المواد البترولية والبتروكيماوية، وتعظيم المنفعة من المواد الخام ونقلها الي مراحل متقدمة من الانتاج.",
+    "target_en_norm": "4. develop new uses for petroleum and petrochemical products, and maximize the benefit of raw materials and promote the downstream production thereof;",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53662,
+    "source_ar": "5- ضمان التزام قطاع المواد البترولية والبتروكيماوية بالاستراتيجيات والخطط الوطنية، والأنظمة واللوائح، والمقاييس والمعايير البيئية، وقواعد الأمن والسلامة.",
+    "target_en": "5. ensure the adherence of the petroleum and petrochemical products sector to national strategies and plans, laws and regulations, environmental specifications and standards, and safety and security rules;",
+    "source_ar_norm": "5- ضمان التزام قطاع المواد البترولية والبتروكيماوية بالاستراتيجيات والخطط الوطنية، والانظمة واللوائح، والمقاييس والمعايير البيئية، وقواعد الامن والسلامة.",
+    "target_en_norm": "5. ensure the adherence of the petroleum and petrochemical products sector to national strategies and plans, laws and regulations, environmental specifications and standards, and safety and security rules;",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53663,
+    "source_ar": "6- ضمان أمن إمدادات المواد البترولية والبتروكيماوية وموثوقيتها.",
+    "target_en": "6. ensure the security and reliability of petroleum and petrochemical product supplies; and",
+    "source_ar_norm": "6- ضمان امن امدادات المواد البترولية والبتروكيماوية وموثوقيتها.",
+    "target_en_norm": "6. ensure the security and reliability of petroleum and petrochemical product supplies; and",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53664,
+    "source_ar": "7- الرقابة والإشراف على العمليات البترولية والبتروكيماوية؛ لتعزيز الامتثال لأحكام النظام، ومنع الممارسات المخالفة.",
+    "target_en": "7. monitor and supervise petroleum and petrochemical operations to enhance compliance with the provisions of this Law and prevent practices in violation thereof.",
+    "source_ar_norm": "7- الرقابة والاشراف علي العمليات البترولية والبتروكيماوية؛ لتعزيز الامتثال لاحكام النظام، ومنع الممارسات المخالفة.",
+    "target_en_norm": "7. monitor and supervise petroleum and petrochemical operations to enhance compliance with the provisions of this law and prevent practices in violation thereof.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53665,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article 3",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53666,
+    "source_ar": "تسري أحكام النظام على العمليات البترولية والبتروكيماوية وما يتصل بها.",
+    "target_en": "The provisions of this Law shall apply to petroleum and petrochemical operations and matters associated therewith.",
+    "source_ar_norm": "تسري احكام النظام علي العمليات البترولية والبتروكيماوية وما يتصل بها.",
+    "target_en_norm": "the provisions of this law shall apply to petroleum and petrochemical operations and matters associated therewith.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53667,
+    "source_ar": "ولا تشمل الأنشطة الخاضعة لنظام توزيع الغاز الجاف وغاز البترول السائل للأغراض السكنية والتجارية، ولا التطبيقات الصناعية التي تستخدم المواد البتروكيماوية جزءاً أساسيًّا أو إضافيًّا؛ لإنتاج المنتجات الاستهلاكية كاملة الصنع أو نصف المصنعة، أو تحويل المنتَجات نصف المصنَّعة إلى منتَجات كاملة الصنع، التي تنتج عن طريق التشكيل، أو المزج، أو التجميع، أو التكوين، أو إعادة التشكيل، أو التعبئة، أو التغليف، والتي تكون بعض عمليات إنتاجها أو معظمها باستخدام الآلة.",
+    "target_en": "The provisions of this Law shall not, however, apply to activities subject to the Law on the Distribution of Dry Gas and Liquefied Petroleum Gas for Residential and Commercial Purposes, nor to industrial applications that use petrochemical products as an essential or additional component to produce finished or semi-finished consumer products or to convert semi-finished products to finished products, which are produced by molding, blending, assembling, forming, remolding, or packaging through production operations which partially or mostly require the use of a machine.",
+    "source_ar_norm": "ولا تشمل الانشطة الخاضعة لنظام توزيع الغاز الجاف وغاز البترول السائل للاغراض السكنية والتجارية، ولا التطبيقات الصناعية التي تستخدم المواد البتروكيماوية جزءا اساسيا او اضافيا؛ لانتاج المنتجات الاستهلاكية كاملة الصنع او نصف المصنعة، او تحويل المنتجات نصف المصنعة الي منتجات كاملة الصنع، التي تنتج عن طريق التشكيل، او المزج، او التجميع، او التكوين، او اعادة التشكيل، او التعبئة، او التغليف، والتي تكون بعض عمليات انتاجها او معظمها باستخدام الالة.",
+    "target_en_norm": "the provisions of this law shall not, however, apply to activities subject to the law on the distribution of dry gas and liquefied petroleum gas for residential and commercial purposes, nor to industrial applications that use petrochemical products as an essential or additional component to produce finished or semi-finished consumer products or to convert semi-finished products to finished products, which are produced by molding, blending, assembling, forming, remolding, or packaging through production operations which partially or mostly require the use of a machine.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53668,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article 4",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53669,
+    "source_ar": "تحدد اللوائح ما يأتي:",
+    "target_en": "The Regulations shall specify the following:",
+    "source_ar_norm": "تحدد اللوائح ما ياتي:",
+    "target_en_norm": "the regulations shall specify the following:",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53670,
+    "source_ar": "1- أحكام القواعد الفنية والتشغيلية والإجرائية اللازمة لمزاولة العمليات البترولية والبتروكيماوية.",
+    "target_en": "1. The technical, operational, and procedural rules necessary for engaging in petroleum and petrochemical operations.",
+    "source_ar_norm": "1- احكام القواعد الفنية والتشغيلية والاجرائية اللازمة لمزاولة العمليات البترولية والبتروكيماوية.",
+    "target_en_norm": "1. the technical, operational, and procedural rules necessary for engaging in petroleum and petrochemical operations.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53671,
+    "source_ar": "2- متطلبات إصدار التراخيص، بما في ذلك نطاق النشاط، ومدة الترخيص، والمتطلبات التي يجب على المرخص له الالتزام بها، وأحكام تعديلها وتجديدها ونقلها.",
+    "target_en": "2. Licensing requirements, scope of business, license duration, and any other requirement to be complied with by the licensee as well as the provisions for license amendment, renewal, and transfer.",
+    "source_ar_norm": "2- متطلبات اصدار التراخيص، بما في ذلك نطاق النشاط، ومدة الترخيص، والمتطلبات التي يجب علي المرخص له الالتزام بها، واحكام تعديلها وتجديدها ونقلها.",
+    "target_en_norm": "2. licensing requirements, scope of business, license duration, and any other requirement to be complied with by the licensee as well as the provisions for license amendment, renewal, and transfer.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53672,
+    "source_ar": "3- معايير تقييم الالتزام بالترخيص والآثار المترتبة على عدم الالتزام بذلك.",
+    "target_en": "3. Criteria for evaluating compliance with the terms of the license and the consequences of non-compliance.",
+    "source_ar_norm": "3- معايير تقييم الالتزام بالترخيص والاثار المترتبة علي عدم الالتزام بذلك.",
+    "target_en_norm": "3. criteria for evaluating compliance with the terms of the license and the consequences of non-compliance.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53673,
+    "source_ar": "4- معايير واشتراطات التأهيل والأداء للعمليات البترولية والبتروكيماوية.",
+    "target_en": "4. Criteria and requirements for qualifying for and performing petroleum and petrochemical operations.",
+    "source_ar_norm": "4- معايير واشتراطات التاهيل والاداء للعمليات البترولية والبتروكيماوية.",
+    "target_en_norm": "4. criteria and requirements for qualifying for and performing petroleum and petrochemical operations.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53674,
+    "source_ar": "5- معايير تصنيف المواد المشتملة على مواد بترولية.",
+    "target_en": "5. Criteria for the classification of materials containing petroleum products.",
+    "source_ar_norm": "5- معايير تصنيف المواد المشتملة علي مواد بترولية.",
+    "target_en_norm": "5. criteria for the classification of materials containing petroleum products.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53675,
+    "source_ar": "6- القواعد والإجراءات التي تسهم في ضمان أمن الإمدادات للمواد البترولية والبتروكيماوية وموثوقيتها، وتأمين احتياجات السوق المحلية منها.",
+    "target_en": "6. Rules and procedures for the purpose of ensuring the security and reliability of petroleum and petrochemical product supplies and securing the needs of the local market of such supplies.",
+    "source_ar_norm": "6- القواعد والاجراءات التي تسهم في ضمان امن الامدادات للمواد البترولية والبتروكيماوية وموثوقيتها، وتامين احتياجات السوق المحلية منها.",
+    "target_en_norm": "6. rules and procedures for the purpose of ensuring the security and reliability of petroleum and petrochemical product supplies and securing the needs of the local market of such supplies.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53676,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article 5",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53677,
+    "source_ar": "1- لا يجوز لأي شخص مزاولة أي من العمليات البترولية أو البتروكيماوية إلا بعد الحصول على الترخيص.",
+    "target_en": "1. A person may not engage in any petroleum or petrochemical operation without a license.",
+    "source_ar_norm": "1- لا يجوز لاي شخص مزاولة اي من العمليات البترولية او البتروكيماوية الا بعد الحصول علي الترخيص.",
+    "target_en_norm": "1. a person may not engage in any petroleum or petrochemical operation without a license.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53678,
+    "source_ar": "2- يشترط الحصول على الموافقة المسبقة من الوزارة قبل إصدار أي تراخيص أو موافقات لازمة لإنشاء أي منشأة بتروكيماوية.",
+    "target_en": "2. The Ministry’s approval must be obtained prior to the issuance of any license or approval required for the establishment of a petrochemical facility.",
+    "source_ar_norm": "2- يشترط الحصول علي الموافقة المسبقة من الوزارة قبل اصدار اي تراخيص او موافقات لازمة لانشاء اي منشاة بتروكيماوية.",
+    "target_en_norm": "2. the ministry’s approval must be obtained prior to the issuance of any license or approval required for the establishment of a petrochemical facility.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53679,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article 6",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53680,
+    "source_ar": "1- يُستحصل مقابل مالي -يورد إلى الخزينة العامة للدولة- لإصدار التراخيص وتجديدها.",
+    "target_en": "1. A fee shall be collected for license issuance and renewal and shall be deposited into the State treasury.",
+    "source_ar_norm": "1- يستحصل مقابل مالي -يورد الي الخزينة العامة للدولة- لاصدار التراخيص وتجديدها.",
+    "target_en_norm": "1. a fee shall be collected for license issuance and renewal and shall be deposited into the state treasury.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53681,
+    "source_ar": "2- يُستقطع جزء من المقابل المالي للوزارة لصرفه في تطوير قطاع العمليات البترولية والبتروكيماوية.",
+    "target_en": "2. Part of the collected fees shall be allocated to the Ministry for the development of the petroleum and petrochemical operations sector.",
+    "source_ar_norm": "2- يستقطع جزء من المقابل المالي للوزارة لصرفه في تطوير قطاع العمليات البترولية والبتروكيماوية.",
+    "target_en_norm": "2. part of the collected fees shall be allocated to the ministry for the development of the petroleum and petrochemical operations sector.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53682,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article 7",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53683,
+    "source_ar": "للوزارة رفض طلب إصدار الترخيص بالتصدير أو تجديده لمن ثبتت مخالفته لأحكام النظام واللوائح بقرار من اللجنة المنصوص عليها في المادة (الثامنة عشرة) من النظام، أو سبقت إدانته بارتكاب جريمة تهريب جمركي للمواد البترولية أو البتروكيماوية، أو الشروع فيها، ما لم يكن قد مضى على قرار ثبوت المخالفة أو الإدانة مدة لا تقل عن (خمس) سنوات.",
+    "target_en": "The Ministry may deny any application for the issuance or renewal of an export license to a person whose violation of the provisions of this Law and the Regulations has been established pursuant to a decision by the committee provided for in Article 18 of this Law, or who has been convicted of smuggling, or attempting to smuggle, petroleum or petrochemical products, unless a period of at least five years has lapsed from the date of the decision establishing the violation or the date of the conviction.",
+    "source_ar_norm": "للوزارة رفض طلب اصدار الترخيص بالتصدير او تجديده لمن ثبتت مخالفته لاحكام النظام واللوائح بقرار من اللجنة المنصوص عليها في المادة (الثامنة عشرة) من النظام، او سبقت ادانته بارتكاب جريمة تهريب جمركي للمواد البترولية او البتروكيماوية، او الشروع فيها، ما لم يكن قد مضي علي قرار ثبوت المخالفة او الادانة مدة لا تقل عن (خمس) سنوات.",
+    "target_en_norm": "the ministry may deny any application for the issuance or renewal of an export license to a person whose violation of the provisions of this law and the regulations has been established pursuant to a decision by the committee provided for in article 18 of this law, or who has been convicted of smuggling, or attempting to smuggle, petroleum or petrochemical products, unless a period of at least five years has lapsed from the date of the decision establishing the violation or the date of the conviction.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53684,
+    "source_ar": "وتزود الجهة المختصة الوزارة بأسماء من يدانون بجريمة التهريب الجمركي للمواد البترولية أو البتروكيماوية.",
+    "target_en": "The competent authority shall provide the Ministry with the names of persons convicted of smuggling petroleum or petrochemical products.",
+    "source_ar_norm": "وتزود الجهة المختصة الوزارة باسماء من يدانون بجريمة التهريب الجمركي للمواد البترولية او البتروكيماوية.",
+    "target_en_norm": "the competent authority shall provide the ministry with the names of persons convicted of smuggling petroleum or petrochemical products.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53685,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article 8",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53686,
+    "source_ar": "على المرخص له إشعار الوزارة عند وقوع أي ظرف أو حادث يُتوقع أن يؤدي إلى التوقف كليًّا أو جزئيًّا، بشكل دائم أو مؤقت، عن مزاولته للعمليات محل الترخيص، حسب ما تحدده اللوائح.",
+    "target_en": "The licensee shall notify the Ministry of any circumstance or incident that may lead to the total or partial cessation of the licensed business, whether permanently or temporarily, as specified in the Regulations.",
+    "source_ar_norm": "علي المرخص له اشعار الوزارة عند وقوع اي ظرف او حادث يتوقع ان يؤدي الي التوقف كليا او جزئيا، بشكل دائم او مؤقت، عن مزاولته للعمليات محل الترخيص، حسب ما تحدده اللوائح.",
+    "target_en_norm": "the licensee shall notify the ministry of any circumstance or incident that may lead to the total or partial cessation of the licensed business, whether permanently or temporarily, as specified in the regulations.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53687,
+    "source_ar": "المادة التاسعة:",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة:",
+    "target_en_norm": "article 9",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53688,
+    "source_ar": "1- دون الإخلال باختصاص الهيئة السعودية للمواصفات والمقاييس والجودة، تعتمد الوزارة المواصفات والمقاييس الإلزامية للمواد البترولية والبتروكيماوية، وتعتمد طرق فحصها.",
+    "target_en": "1. Without prejudice to the jurisdiction of the Saudi Standards, Metrology, and Quality Organization, the Ministry shall approve the mandatory specifications and standards for petroleum and petrochemical products as well as the testing methods thereof.",
+    "source_ar_norm": "1- دون الاخلال باختصاص الهيئة السعودية للمواصفات والمقاييس والجودة، تعتمد الوزارة المواصفات والمقاييس الالزامية للمواد البترولية والبتروكيماوية، وتعتمد طرق فحصها.",
+    "target_en_norm": "1. without prejudice to the jurisdiction of the saudi standards, metrology, and quality organization, the ministry shall approve the mandatory specifications and standards for petroleum and petrochemical products as well as the testing methods thereof.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53689,
+    "source_ar": "2- على المرخّص له عند مزاولته للعمليات البترولية أو البتروكيماوية الالتزام بمطابقة المواصفات والمقاييس المعتمدة.",
+    "target_en": "2. The licensee shall, upon engaging in petroleum or petrochemical operations, comply with the approved specifications and standards.",
+    "source_ar_norm": "2- علي المرخص له عند مزاولته للعمليات البترولية او البتروكيماوية الالتزام بمطابقة المواصفات والمقاييس المعتمدة.",
+    "target_en_norm": "2. the licensee shall, upon engaging in petroleum or petrochemical operations, comply with the approved specifications and standards.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53690,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article 10",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53691,
+    "source_ar": "على المرخّص له تزويد الوزارة عند طلبها بأي وثائق أو مستندات متعلقة بأعماله محل الترخيص، وتزويد الوزارة بتقارير دورية، وفق ما تحدده اللوائح من أحكام.",
+    "target_en": "The licensee shall provide the Ministry, upon its request, with any documents related to the business subject of the license as well as with periodic reports, in accordance with the provisions of the Regulations.",
+    "source_ar_norm": "علي المرخص له تزويد الوزارة عند طلبها باي وثائق او مستندات متعلقة باعماله محل الترخيص، وتزويد الوزارة بتقارير دورية، وفق ما تحدده اللوائح من احكام.",
+    "target_en_norm": "the licensee shall provide the ministry, upon its request, with any documents related to the business subject of the license as well as with periodic reports, in accordance with the provisions of the regulations.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53692,
+    "source_ar": "المادة الحادية عشرة:",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة:",
+    "target_en_norm": "article 11",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53693,
+    "source_ar": "يجب بيع وشراء المادة البترولية بالسعر العالمي إذا كان الغرض استخدامها لقيماً في الإنتاج.",
+    "target_en": "A petroleum product must be purchased and sold at the global price if it is to be used as feedstock in production.",
+    "source_ar_norm": "يجب بيع وشراء المادة البترولية بالسعر العالمي اذا كان الغرض استخدامها لقيما في الانتاج.",
+    "target_en_norm": "a petroleum product must be purchased and sold at the global price if it is to be used as feedstock in production.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53694,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article 12",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53695,
+    "source_ar": "1- يتولى مفتشون -يصدر بتحديدهم قرار من الوزير- مجتمعين أو منفردين أعمال الرقابة والتفتيش وضبط مخالفات أحكام النظام واللوائح، والتحقيق فيها.",
+    "target_en": "1. Inspectors, to be designated pursuant to a decision by the Minister, shall collectively or individually carry out monitoring and inspection duties and shall detect, record, and investigate violations of the provisions of this Law and the Regulations.",
+    "source_ar_norm": "1- يتولي مفتشون -يصدر بتحديدهم قرار من الوزير- مجتمعين او منفردين اعمال الرقابة والتفتيش وضبط مخالفات احكام النظام واللوائح، والتحقيق فيها.",
+    "target_en_norm": "1. inspectors, to be designated pursuant to a decision by the minister, shall collectively or individually carry out monitoring and inspection duties and shall detect, record, and investigate violations of the provisions of this law and the regulations.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53696,
+    "source_ar": "2- للمفتشين دخول المنشآت، والمخازن، والمواقع المستخدمة لمزاولة العمليات البترولية والبتروكيماوية؛ وذلك لأغراض الرقابة والتفتيش وضبط المخالفات.",
+    "target_en": "2. The inspectors may enter facilities, warehouses, and sites used to conduct petroleum and petrochemical operations to carry out monitoring and inspection duties and to detect and record violations.",
+    "source_ar_norm": "2- للمفتشين دخول المنشات، والمخازن، والمواقع المستخدمة لمزاولة العمليات البترولية والبتروكيماوية؛ وذلك لاغراض الرقابة والتفتيش وضبط المخالفات.",
+    "target_en_norm": "2. the inspectors may enter facilities, warehouses, and sites used to conduct petroleum and petrochemical operations to carry out monitoring and inspection duties and to detect and record violations.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53697,
+    "source_ar": "ولهم في سبيل ذلك التوثيق بالتصوير المرئي وسماع الأقوال وأخذ الإفادات، والاطلاع على المستندات والسجلات والبيانات الورقية والإلكترونية ذات الصلة بالمخالفة والاحتفاظ بنسخٍ منها، وسحب عينات من المواد المشتبه بكونها مواد بترولية أو بتروكيماوية إذا لزم الأمر.",
+    "target_en": "They may, for such purposes, document violations by gathering visual evidence, hearing statements, and taking testimonies; access documents, records, and paper and electronic data related to the violation and obtain copies thereof; and collect samples of materials suspected to be petroleum or petrochemical products, if necessary.",
+    "source_ar_norm": "ولهم في سبيل ذلك التوثيق بالتصوير المرئي وسماع الاقوال واخذ الافادات، والاطلاع علي المستندات والسجلات والبيانات الورقية والالكترونية ذات الصلة بالمخالفة والاحتفاظ بنسخ منها، وسحب عينات من المواد المشتبه بكونها مواد بترولية او بتروكيماوية اذا لزم الامر.",
+    "target_en_norm": "they may, for such purposes, document violations by gathering visual evidence, hearing statements, and taking testimonies; access documents, records, and paper and electronic data related to the violation and obtain copies thereof; and collect samples of materials suspected to be petroleum or petrochemical products, if necessary.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53698,
+    "source_ar": "3- للمفتشين التحفظ على كل ما يشتبه باستخدامه فيما يخالف أحكام النظام واللوائح وشروط الترخيص، ويكون ذلك على نفقة المنشأة متى ما ثبتت المخالفة.",
+    "target_en": "3. The inspectors may seize any item suspected of being used in violation of the provisions of this Law or the Regulations or the terms of the license. The cost of such seizure shall be borne by the entity if the violation is established.",
+    "source_ar_norm": "3- للمفتشين التحفظ علي كل ما يشتبه باستخدامه فيما يخالف احكام النظام واللوائح وشروط الترخيص، ويكون ذلك علي نفقة المنشاة متي ما ثبتت المخالفة.",
+    "target_en_norm": "3. the inspectors may seize any item suspected of being used in violation of the provisions of this law or the regulations or the terms of the license. the cost of such seizure shall be borne by the entity if the violation is established.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53699,
+    "source_ar": "على أن يحرر محضر يوضح الأصناف المحرزة وأوصافها أثناء الضبط، مع بيان سبب التحفظ ومدته.",
+    "target_en": "A report shall be prepared at the time of seizure detailing the seized items and their description as well as the grounds and duration of the seizure.",
+    "source_ar_norm": "علي ان يحرر محضر يوضح الاصناف المحرزة واوصافها اثناء الضبط، مع بيان سبب التحفظ ومدته.",
+    "target_en_norm": "a report shall be prepared at the time of seizure detailing the seized items and their description as well as the grounds and duration of the seizure.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  },
+  {
+    "id": 53700,
+    "source_ar": "ويحال إلى اللجنة المنصوص عليها في المادة (الثامنة عشرة) من النظام؛ لتقرير استمرار التحفظ أو إلغائه، وذلك وفقا لما تحدده اللوائح.",
+    "target_en": "The matter shall then be referred to the committee provided for in Article 18 of this Law to decide whether to uphold or terminate the seizure, in accordance with the provisions of the Regulations.",
+    "source_ar_norm": "ويحال الي اللجنة المنصوص عليها في المادة (الثامنة عشرة) من النظام؛ لتقرير استمرار التحفظ او الغائه، وذلك وفقا لما تحدده اللوائح.",
+    "target_en_norm": "the matter shall then be referred to the committee provided for in article 18 of this law to decide whether to uphold or terminate the seizure, in accordance with the provisions of the regulations.",
+    "file_name": "نظام المواد البترولية والبتروكيماوية.docx"
+  }
+]

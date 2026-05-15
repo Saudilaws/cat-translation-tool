@@ -1,0 +1,802 @@
+[
+  {
+    "id": 56201,
+    "source_ar": "الجهات ذات العلاقة: أي جهة أخرى لها علاقة بهذا النظام.",
+    "target_en": "Relevant Entities: Any other entity concerned with this Law.",
+    "source_ar_norm": "الجهات ذات العلاقة: اي جهة اخري لها علاقة بهذا النظام.",
+    "target_en_norm": "relevant entities: any other entity concerned with this law.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56202,
+    "source_ar": "النحال: كل من يقوم بالتربية والرعاية لمجموعة من طوائف النحل.",
+    "target_en": "Beekeeper: A person who practices beekeeping for colonies of bees.",
+    "source_ar_norm": "النحال: كل من يقوم بالتربية والرعاية لمجموعة من طوائف النحل.",
+    "target_en_norm": "beekeeper: a person who practices beekeeping for colonies of bees.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56203,
+    "source_ar": "مهنة تربية النحل: مزاولة نشاط رعاية طوائف النحل، واستغلالها في إنتاج منتجات النحل أو في إكثار النحل وإنتاج الطرود أو في تلقيح المحاصيل.",
+    "target_en": "Beekeeping: Maintenance and caring of honey bees in the hives and exploiting them, producing bees, nucs and packages or pollinating crops.",
+    "source_ar_norm": "مهنة تربية النحل: مزاولة نشاط رعاية طوائف النحل، واستغلالها في انتاج منتجات النحل او في اكثار النحل وانتاج الطرود او في تلقيح المحاصيل.",
+    "target_en_norm": "beekeeping: maintenance and caring of honey bees in the hives and exploiting them, producing bees, nucs and packages or pollinating crops.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56204,
+    "source_ar": "نحل العسل: هو الذي يعيش معيشة اجتماعية في طوائف (جماعات).",
+    "target_en": "Honey Bees: Bees that live in social colonies (groups).",
+    "source_ar_norm": "نحل العسل: هو الذي يعيش معيشة اجتماعية في طوائف (جماعات).",
+    "target_en_norm": "honey bees: bees that live in social colonies (groups).",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56205,
+    "source_ar": "أدوات النحل: أدوات يستعملها النحال داخل الخلايا أو خارجها للمساعدة في تنفيذ عمليات النحالة المختلفة.",
+    "target_en": "Beekeeping Equipment: Equipment used by beekeepers inside or outside beehives to assist in different beekeeping operations.",
+    "source_ar_norm": "ادوات النحل: ادوات يستعملها النحال داخل الخلايا او خارجها للمساعدة في تنفيذ عمليات النحالة المختلفة.",
+    "target_en_norm": "beekeeping equipment: equipment used by beekeepers inside or outside beehives to assist in different beekeeping operations.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56206,
+    "source_ar": "الحمولة الرعوية: نسبة عدد طوائف النحل إلى عدد الأشجار في مساحة معينة.",
+    "target_en": "Foraging Carrying Capacity: The ratio of bee colonies to the number of trees in a specific area.",
+    "source_ar_norm": "الحمولة الرعوية: نسبة عدد طوائف النحل الي عدد الاشجار في مساحة معينة.",
+    "target_en_norm": "foraging carrying capacity: the ratio of bee colonies to the number of trees in a specific area.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56207,
+    "source_ar": "المراعي النحلية: المواقع التي تنتشر فيها النباتات والأشجار المناسبة لرعي النحل، وتكون مصدرا للرحيق وحبوب اللقاح.",
+    "target_en": "Bee Forages: Areas with plants and trees suitable for bee foraging, serving as a nectar and pollen sources.",
+    "source_ar_norm": "المراعي النحلية: المواقع التي تنتشر فيها النباتات والاشجار المناسبة لرعي النحل، وتكون مصدرا للرحيق وحبوب اللقاح.",
+    "target_en_norm": "bee forages: areas with plants and trees suitable for bee foraging, serving as a nectar and pollen sources.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56208,
+    "source_ar": "المحمية الطبيعية: مساحة من الأرض مملوكة للدولة، وتتمتع بحماية خاصة للحياة البرية بها.",
+    "target_en": "Natural Reserve: An area of land owned by the State where wild life is preserved.",
+    "source_ar_norm": "المحمية الطبيعية: مساحة من الارض مملوكة للدولة، وتتمتع بحماية خاصة للحياة البرية بها.",
+    "target_en_norm": "natural reserve: an area of land owned by the state where wild life is preserved.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56209,
+    "source_ar": "سلالة النحل المحلي (البلدي): سلالة النحل المتركزة جنوب غرب الجزيرة العربية، وتقع - تقسيميا - تحت نوع نحل العسل العالمي.",
+    "target_en": "Local Bee Race: The bee race concentrated in the south western part of the Arabian Peninsula and taxonomically fall under the international honey bee category.",
+    "source_ar_norm": "سلالة النحل المحلي (البلدي): سلالة النحل المتركزة جنوب غرب الجزيرة العربية، وتقع - تقسيميا - تحت نوع نحل العسل العالمي.",
+    "target_en_norm": "local bee race: the bee race concentrated in the south western part of the arabian peninsula and taxonomically fall under the international honey bee category.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56210,
+    "source_ar": "النظام: نظام تربية النحل.",
+    "target_en": "Law: Beekeeping Law.",
+    "source_ar_norm": "النظام: نظام تربية النحل.",
+    "target_en_norm": "law: beekeeping law.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56211,
+    "source_ar": "اللائحة: اللائحة التنفيذية للنظام.",
+    "target_en": "Regulations: Implementing Regulations of the Law.",
+    "source_ar_norm": "اللائحة: اللائحة التنفيذية للنظام.",
+    "target_en_norm": "regulations: implementing regulations of the law.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56212,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article ٣",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article ٣",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56213,
+    "source_ar": "تتولى الوزارة الإشراف العام على مهنة تربية النحل، والعمل على حمايتها، ووضع الخطط والبرامج والخدمات الإرشادية، والتعاون - في سبيل تحقيق ذلك - مع الجهات ذات العلاقة.",
+    "target_en": "The Ministry shall oversee and safeguard beekeeping, devise plans, programs and extension services and shall, to this end, cooperate with relevant entities.",
+    "source_ar_norm": "تتولي الوزارة الاشراف العام علي مهنة تربية النحل، والعمل علي حمايتها، ووضع الخطط والبرامج والخدمات الارشادية، والتعاون - في سبيل تحقيق ذلك - مع الجهات ذات العلاقة.",
+    "target_en_norm": "the ministry shall oversee and safeguard beekeeping, devise plans, programs and extension services and shall, to this end, cooperate with relevant entities.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56214,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article ٤",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article ٤",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56215,
+    "source_ar": "تلتزم الجهات ذات العلاقة بالتعاون مع الوزارة في كل ما من شأنه دعم العاملين في مهنة تربية النحل وحمايتهم وتشجيعهم، ومن ذلك ما يأتي:",
+    "target_en": "The relevant entities shall cooperate with the Ministry to support, protect and encourage persons engaging in beekeeping, including the following:",
+    "source_ar_norm": "تلتزم الجهات ذات العلاقة بالتعاون مع الوزارة في كل ما من شانه دعم العاملين في مهنة تربية النحل وحمايتهم وتشجيعهم، ومن ذلك ما ياتي:",
+    "target_en_norm": "the relevant entities shall cooperate with the ministry to support, protect and encourage persons engaging in beekeeping, including the following:",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56216,
+    "source_ar": "١ ـ تقديم أي معلومة أو تسهيلات تساعد الوزارة في تحقيق أهداف هذا النظام.",
+    "target_en": "١. Provide any information or facilities that assist the Ministry to achieve the objectives of this Law.",
+    "source_ar_norm": "١  تقديم اي معلومة او تسهيلات تساعد الوزارة في تحقيق اهداف هذا النظام.",
+    "target_en_norm": "١. provide any information or facilities that assist the ministry to achieve the objectives of this law.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56217,
+    "source_ar": "٢ - إعطاء الأهمية اللازمة لتنفيذ ما يوكل إليها من برامج ووسائل مادية أو معنوية لدعم مهنة تربية النحل والعاملين فيها.",
+    "target_en": "٢. Pay due attention for the implementation of assigned programs and means, material or otherwise, to support the beekeeping or persons engaging therein.",
+    "source_ar_norm": "٢ - اعطاء الاهمية اللازمة لتنفيذ ما يوكل اليها من برامج ووسائل مادية او معنوية لدعم مهنة تربية النحل والعاملين فيها.",
+    "target_en_norm": "٢. pay due attention for the implementation of assigned programs and means, material or otherwise, to support the beekeeping or persons engaging therein.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56218,
+    "source_ar": "٣ ـ اتخاذ الإجراءات والتدابير اللازمة لمنع الضرر على المناحل عند مكافحة الآفات المؤثرة على الإنسان أو الحيوان أو النباتات.",
+    "target_en": "٣. Take procedures and measures necessary for the protection against damages to apiaries when controlling pests detrimental to man, animals or plants.",
+    "source_ar_norm": "٣  اتخاذ الاجراءات والتدابير اللازمة لمنع الضرر علي المناحل عند مكافحة الافات المؤثرة علي الانسان او الحيوان او النباتات.",
+    "target_en_norm": "٣. take procedures and measures necessary for the protection against damages to apiaries when controlling pests detrimental to man, animals or plants.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56219,
+    "source_ar": "٤ ـ المساهمة في تطبيق إجراءات الحجر الزراعي في حالة قيام الوزارة بإعلان منطقة ما منطقة حجر زراعي.",
+    "target_en": "٤. Participate in applying procedures of agricultural quarantine when the Ministry declares an area as an agricultural quarantine area.",
+    "source_ar_norm": "٤  المساهمة في تطبيق اجراءات الحجر الزراعي في حالة قيام الوزارة باعلان منطقة ما منطقة حجر زراعي.",
+    "target_en_norm": "٤. participate in applying procedures of agricultural quarantine when the ministry declares an area as an agricultural quarantine area.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56220,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article ٥",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article ٥",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56221,
+    "source_ar": "١ ـ تتولى الوزارة منح تراخيص إنشاء المناحل التقليدية أو الحديثة للأفراد والمشروعات بعد استكمال الشروط وفقا لما تحدده اللائحة.",
+    "target_en": "١. The Ministry shall grant individuals and enterprises licenses for establishing conventional and modern apiaries upon satisfying conditions stipulated in the Regulations.",
+    "source_ar_norm": "١  تتولي الوزارة منح تراخيص انشاء المناحل التقليدية او الحديثة للافراد والمشروعات بعد استكمال الشروط وفقا لما تحدده اللائحة.",
+    "target_en_norm": "١. the ministry shall grant individuals and enterprises licenses for establishing conventional and modern apiaries upon satisfying conditions stipulated in the regulations.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56222,
+    "source_ar": "٢ ـ تحدد الوزارة احتياجات مشروعات النحل من العمال، وتفتش على جميع مشروعات المناحل للتأكد من التزامها بالنظام ولائحته.",
+    "target_en": "٢. The Ministry shall determine the needs of beekeeping enterprises of workers, and shall inspect all apiary enterprises to ensure their compliance with the Law and its Regulations.",
+    "source_ar_norm": "٢  تحدد الوزارة احتياجات مشروعات النحل من العمال، وتفتش علي جميع مشروعات المناحل للتاكد من التزامها بالنظام ولائحته.",
+    "target_en_norm": "٢. the ministry shall determine the needs of beekeeping enterprises of workers, and shall inspect all apiary enterprises to ensure their compliance with the law and its regulations.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56223,
+    "source_ar": "٣ - تتولى الوزارة إصدار تصاريح مزاولة مهنة تربية النحل.",
+    "target_en": "٣. The Ministry shall be in charge of issuing permits for engaging in beekeeping.",
+    "source_ar_norm": "٣ - تتولي الوزارة اصدار تصاريح مزاولة مهنة تربية النحل.",
+    "target_en_norm": "٣. the ministry shall be in charge of issuing permits for engaging in beekeeping.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56224,
+    "source_ar": "٤ - تقوم الوزارة بوضع برامج توعية في كل ما يخص مهنة تربية النحل.",
+    "target_en": "٤. The Ministry shall devise awareness programs regarding all aspects of beekeeping.",
+    "source_ar_norm": "٤ - تقوم الوزارة بوضع برامج توعية في كل ما يخص مهنة تربية النحل.",
+    "target_en_norm": "٤. the ministry shall devise awareness programs regarding all aspects of beekeeping.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56225,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article ٦",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article ٦",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56226,
+    "source_ar": "يلتزم النحال بالإبلاغ عن أي مرض أو آفة تشكّل تهديدا لطوائف النحل، ويتخذ الإجراءات اللازمة للمكافحة وفقا لما تحدده اللائحة. وتتولى الوزارة اتخاذ الإجراءات الضرورية عند اكتشاف مرض أو آفة جديدة تهدد النحل، ومنها:",
+    "target_en": "A beekeeper shall report any disease or pest posing a threat to bee colonies, and shall take measures necessary to control the same as stipulated in the Regulations. The Ministry shall take necessary measures upon discovering a new disease or pest that threatens bees, including:",
+    "source_ar_norm": "يلتزم النحال بالابلاغ عن اي مرض او افة تشكل تهديدا لطوائف النحل، ويتخذ الاجراءات اللازمة للمكافحة وفقا لما تحدده اللائحة. وتتولي الوزارة اتخاذ الاجراءات الضرورية عند اكتشاف مرض او افة جديدة تهدد النحل، ومنها:",
+    "target_en_norm": "a beekeeper shall report any disease or pest posing a threat to bee colonies, and shall take measures necessary to control the same as stipulated in the regulations. the ministry shall take necessary measures upon discovering a new disease or pest that threatens bees, including:",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56227,
+    "source_ar": "١ ـ تحديد منطقة ظهور المرض أو الآفة منطقة حجر، والإعلان عن ذلك، وتوعية أصحاب الشأن.",
+    "target_en": "١. Designating the area where the disease or pest appears as a quarantine area, declaring it as such and informing persons concerned thereof.",
+    "source_ar_norm": "١  تحديد منطقة ظهور المرض او الافة منطقة حجر، والاعلان عن ذلك، وتوعية اصحاب الشان.",
+    "target_en_norm": "١. designating the area where the disease or pest appears as a quarantine area, declaring it as such and informing persons concerned thereof.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56228,
+    "source_ar": "٢ ـ وضع برنامج مكافحة لاستئصال المرض أو الآفة، والإشراف على تطبيقه.",
+    "target_en": "٢. Devising a program to eradicate the disease or pest and oversee its implementation.",
+    "source_ar_norm": "٢  وضع برنامج مكافحة لاستئصال المرض او الافة، والاشراف علي تطبيقه.",
+    "target_en_norm": "٢. devising a program to eradicate the disease or pest and oversee its implementation.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56229,
+    "source_ar": "٣ ـ توفير المبيدات، وأدوات النحالة، وتوزيعها مجانا على النحّالين.",
+    "target_en": "٣. Providing beekeepers with pesticides and beekeeping equipments free of charge.",
+    "source_ar_norm": "٣  توفير المبيدات، وادوات النحالة، وتوزيعها مجانا علي النحالين.",
+    "target_en_norm": "٣. providing beekeepers with pesticides and beekeeping equipments free of charge.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56230,
+    "source_ar": "٤ ـ في الحالات التي تنشا فيها مشكلات طارئة أو غير متوقعة قد تهدد مهنة تربية النحل بشكل كبير، تتخذ الوزارة إجراءات فورية للقضاء على التهديد أو الحد منه.",
+    "target_en": "٤. In cases where emergencies or unexpected problems that might substantially threaten beekeeping arise, the Ministry shall take immediate measures to eliminate the threat.",
+    "source_ar_norm": "٤  في الحالات التي تنشا فيها مشكلات طارئة او غير متوقعة قد تهدد مهنة تربية النحل بشكل كبير، تتخذ الوزارة اجراءات فورية للقضاء علي التهديد او الحد منه.",
+    "target_en_norm": "٤. in cases where emergencies or unexpected problems that might substantially threaten beekeeping arise, the ministry shall take immediate measures to eliminate the threat.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56231,
+    "source_ar": "٥ ـ الإعلان عند انتهاء التهديد أو الحد منه.",
+    "target_en": "٥. Declaring the end or containment of the threat.",
+    "source_ar_norm": "٥  الاعلان عند انتهاء التهديد او الحد منه.",
+    "target_en_norm": "٥. declaring the end or containment of the threat.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56232,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article ٧",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article ٧",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56233,
+    "source_ar": "تتولى الوزارة - بالتعاون مع الجهات ذات العلاقة - منح تصريح استيراد النحل وتصديره، ومواد التغذية، والعلاج، وأدوات النحالة، وكذلك منح رخصة مزاولة بيع النحل وأدواته، وتصنيعها، ومراقبة أسواق منتجات النحل.",
+    "target_en": "The Ministry, in cooperation with relevant entities, shall be in charge of granting permits for the import and export of bees, nutrients, treatment and issuing beekeeping equipments as well as granting licenses for engaging in the sale of bees, beekeeping equipments and their manufacture, and monitoring bee product markets.",
+    "source_ar_norm": "تتولي الوزارة - بالتعاون مع الجهات ذات العلاقة - منح تصريح استيراد النحل وتصديره، ومواد التغذية، والعلاج، وادوات النحالة، وكذلك منح رخصة مزاولة بيع النحل وادواته، وتصنيعها، ومراقبة اسواق منتجات النحل.",
+    "target_en_norm": "the ministry, in cooperation with relevant entities, shall be in charge of granting permits for the import and export of bees, nutrients, treatment and issuing beekeeping equipments as well as granting licenses for engaging in the sale of bees, beekeeping equipments and their manufacture, and monitoring bee product markets.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56234,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article ٨",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article ٨",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56235,
+    "source_ar": "على النحال - عند إبلاغ الوزارة له بمواعيد الرش - أن يتخذ جميع الاحتياطات اللازمة لحماية النحل من التسمم بالمبيدات، وعليه كذلك الاتصال بأقرب فرع للوزارة لمعرفة برنامج الرش بالمبيدات الذي تحدده الوزارة والجهات ذات العلاقة.",
+    "target_en": "Upon notification by the Ministry of pesticides spraying dates – a beekeeper shall take all necessary measures to protect bees from pesticide poisoning, and shall contact the nearest Ministry branch to find out the pesticide spraying program planned by the Ministry and relevant entities.",
+    "source_ar_norm": "علي النحال - عند ابلاغ الوزارة له بمواعيد الرش - ان يتخذ جميع الاحتياطات اللازمة لحماية النحل من التسمم بالمبيدات، وعليه كذلك الاتصال باقرب فرع للوزارة لمعرفة برنامج الرش بالمبيدات الذي تحدده الوزارة والجهات ذات العلاقة.",
+    "target_en_norm": "upon notification by the ministry of pesticides spraying dates – a beekeeper shall take all necessary measures to protect bees from pesticide poisoning, and shall contact the nearest ministry branch to find out the pesticide spraying program planned by the ministry and relevant entities.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56236,
+    "source_ar": "المادة التاسعة:",
+    "target_en": "Article ٩",
+    "source_ar_norm": "المادة التاسعة:",
+    "target_en_norm": "article ٩",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56237,
+    "source_ar": "يمنع استخدام المبيدات الكيميائية أو المضادات الحيوية - سواء المصرح بها أو غير المصرح بها - في مكافحة أمراض أو آفات النحل أثناء مواسم تزهير النباتات، وكذلك يمنع استخدام مبيدات أمراض النحل وآفاته، والمضادات الحيوية غير المخصصة للاستخدام داخل خلايا النحل، وفقا لما تحدده اللائحة.",
+    "target_en": "Chemical pesticides or antibiotics - whether authorized or unauthorized – may not be used in the bee diseases or pests control during the plant flowering seasons. It is also prohibited to use pesticides of bee diseases and pest as well as antibiotics not intended for use inside bee hives, as determined by the Regulations.",
+    "source_ar_norm": "يمنع استخدام المبيدات الكيميائية او المضادات الحيوية - سواء المصرح بها او غير المصرح بها - في مكافحة امراض او افات النحل اثناء مواسم تزهير النباتات، وكذلك يمنع استخدام مبيدات امراض النحل وافاته، والمضادات الحيوية غير المخصصة للاستخدام داخل خلايا النحل، وفقا لما تحدده اللائحة.",
+    "target_en_norm": "chemical pesticides or antibiotics - whether authorized or unauthorized – may not be used in the bee diseases or pests control during the plant flowering seasons. it is also prohibited to use pesticides of bee diseases and pest as well as antibiotics not intended for use inside bee hives, as determined by the regulations.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56238,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article ١٠",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article ١٠",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56239,
+    "source_ar": "تعمل الوزارة على حماية المراعي النحلية، وتنظيم المناحل وعمليات التغذية فيها، والتنسيق مع الجهات ذات العلاقة فيما يتعلق بدخول المناحل للمحميات الطبيعية وفقا لما تحدده اللائحة.",
+    "target_en": "The Ministry shall protect bee forages, regulate apiaries, and feeding operations therein, and coordinate with relevant entities regarding the access of apiaries to natural reserves as determined by the Regulations.",
+    "source_ar_norm": "تعمل الوزارة علي حماية المراعي النحلية، وتنظيم المناحل وعمليات التغذية فيها، والتنسيق مع الجهات ذات العلاقة فيما يتعلق بدخول المناحل للمحميات الطبيعية وفقا لما تحدده اللائحة.",
+    "target_en_norm": "the ministry shall protect bee forages, regulate apiaries, and feeding operations therein, and coordinate with relevant entities regarding the access of apiaries to natural reserves as determined by the regulations.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56240,
+    "source_ar": "المادة الحادية عشرة:",
+    "target_en": "Article ١١",
+    "source_ar_norm": "المادة الحادية عشرة:",
+    "target_en_norm": "article ١١",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56241,
+    "source_ar": "تعمل الوزارة على المحافظة على سلالة النحل المحلي، وتطويرها، والتعاون مع الجهات ذات العلاقة وفقا لما تحدده اللائحة.",
+    "target_en": "The Ministry shall maintain and develop the local bee race, and cooperate with relevant entities as determined by the Regulations.",
+    "source_ar_norm": "تعمل الوزارة علي المحافظة علي سلالة النحل المحلي، وتطويرها، والتعاون مع الجهات ذات العلاقة وفقا لما تحدده اللائحة.",
+    "target_en_norm": "the ministry shall maintain and develop the local bee race, and cooperate with relevant entities as determined by the regulations.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56242,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article ١٢",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article ١٢",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56243,
+    "source_ar": "مع عدم الإخلال بما يقضي به نظام الهيئة العامة للغذاء والدواء، تتولى الوزارة ما يأتي:",
+    "target_en": "Without prejudice to the Law of the General Authority for Food and Drugs, the Ministry shall undertake the following:",
+    "source_ar_norm": "مع عدم الاخلال بما يقضي به نظام الهيئة العامة للغذاء والدواء، تتولي الوزارة ما ياتي:",
+    "target_en_norm": "without prejudice to the law of the general authority for food and drugs, the ministry shall undertake the following:",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56244,
+    "source_ar": "١ - تسجيل المبيدات الخاصة بأمراض النحل وآفاته ومواد التغذية والمنشطات ومراقبة استخدامها.",
+    "target_en": "١. Registration of pesticides for bee diseases and pests, nutrients and stimulants, and monitoring their use.",
+    "source_ar_norm": "١ - تسجيل المبيدات الخاصة بامراض النحل وافاته ومواد التغذية والمنشطات ومراقبة استخدامها.",
+    "target_en_norm": "١. registration of pesticides for bee diseases and pests, nutrients and stimulants, and monitoring their use.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56245,
+    "source_ar": "٢ - إصدار تعليمات لمنتجي ومتداولي منتجات النحل فيما يخص الفرز، والتعبئة، والتغليف والعرض، وذلك بعد التنسيق مع الجهات ذات العلاقة.",
+    "target_en": "٢. Issuing instructions to producers and dealers in bee products in terms of extracting, packaging and display of the same, after coordination with relevant entities.",
+    "source_ar_norm": "٢ - اصدار تعليمات لمنتجي ومتداولي منتجات النحل فيما يخص الفرز، والتعبئة، والتغليف والعرض، وذلك بعد التنسيق مع الجهات ذات العلاقة.",
+    "target_en_norm": "٢. issuing instructions to producers and dealers in bee products in terms of extracting, packaging and display of the same, after coordination with relevant entities.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56246,
+    "source_ar": "٣ - تسجيل جميع المواد المستخدمة داخل خلايا النحل.",
+    "target_en": "٣. Registration of all materials used in bee hives.",
+    "source_ar_norm": "٣ - تسجيل جميع المواد المستخدمة داخل خلايا النحل.",
+    "target_en_norm": "٣. registration of all materials used in bee hives.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56247,
+    "source_ar": "٤ - التنسيق مع الجهات المعنية في مكافحة الغش في منتوجات النحل.",
+    "target_en": "٤. Coordination with relevant authorities in the fraud control in bee products.",
+    "source_ar_norm": "٤ - التنسيق مع الجهات المعنية في مكافحة الغش في منتوجات النحل.",
+    "target_en_norm": "٤. coordination with relevant authorities in the fraud control in bee products.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56248,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article ١٣",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article ١٣",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56249,
+    "source_ar": "دون الإخلال بأي عقوبة أشد منصوص عليها في أنظمة أخرى، يعاقب كل من تثبت مخالفته أي حكم من أحكام هذا النظام بعقوبة أو أكثر من العقوبات التالية:",
+    "target_en": "Without prejudice to any severer penalty provided for in other laws, a person proven to have violated any of the provisions of this Law shall be subject to one or more of the following penalties:",
+    "source_ar_norm": "دون الاخلال باي عقوبة اشد منصوص عليها في انظمة اخري، يعاقب كل من تثبت مخالفته اي حكم من احكام هذا النظام بعقوبة او اكثر من العقوبات التالية:",
+    "target_en_norm": "without prejudice to any severer penalty provided for in other laws, a person proven to have violated any of the provisions of this law shall be subject to one or more of the following penalties:",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56250,
+    "source_ar": "١ - الإنذار.",
+    "target_en": "١. Warning.",
+    "source_ar_norm": "١ - الانذار.",
+    "target_en_norm": "١. warning.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56251,
+    "source_ar": "٢ ـ غرامة مالية لا تزيد على عشرة آلاف ريال.",
+    "target_en": "٢. A fine not exceeding ten thousand riyals.",
+    "source_ar_norm": "٢  غرامة مالية لا تزيد علي عشرة الاف ريال.",
+    "target_en_norm": "٢. a fine not exceeding ten thousand riyals.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56252,
+    "source_ar": "٣ - وقف الترخيص بمزاولة النشاط لمدة لا تزيد عن سنة.",
+    "target_en": "٣. Suspension of the license for a period not exceeding one year.",
+    "source_ar_norm": "٣ - وقف الترخيص بمزاولة النشاط لمدة لا تزيد عن سنة.",
+    "target_en_norm": "٣. suspension of the license for a period not exceeding one year.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56253,
+    "source_ar": "٤ - إلغاء الترخيص.",
+    "target_en": "٤. Revocation of the license.",
+    "source_ar_norm": "٤ - الغاء الترخيص.",
+    "target_en_norm": "٤. revocation of the license.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56254,
+    "source_ar": "المادة الرابعة عشرة:",
+    "target_en": "Article ١٤",
+    "source_ar_norm": "المادة الرابعة عشرة:",
+    "target_en_norm": "article ١٤",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56255,
+    "source_ar": "تكوّن في الوزارة لجنة من ثلاثة أعضاء على الأقل، يكون بينهم مستشار نظامي وآخر مختص في مجال النحل؛ للنظر في مخالفات أحكام هذا النظام وتقرير العقوبات المناسبة، ويعتمد الوزير قرارات اللجنة. ويجوز التظلم من قرار العقوبة أمام ديوان المظالم خلال ستين يوما من تاريخ إبلاغ من صدر ضده القرار.",
+    "target_en": "A committee shall be formed at the Ministry consisting of at least three members, including a legal counselor and a beekeeping specialist, to review violations of the provisions of this Law and decide appropriate penalties. The committee's decisions shall be approved by the Minister. Penalty decisions may be appealed before the Board of Grievances within sixty days from the date of notification of the person against whom the decision was issued.",
+    "source_ar_norm": "تكون في الوزارة لجنة من ثلاثة اعضاء علي الاقل، يكون بينهم مستشار نظامي واخر مختص في مجال النحل؛ للنظر في مخالفات احكام هذا النظام وتقرير العقوبات المناسبة، ويعتمد الوزير قرارات اللجنة. ويجوز التظلم من قرار العقوبة امام ديوان المظالم خلال ستين يوما من تاريخ ابلاغ من صدر ضده القرار.",
+    "target_en_norm": "a committee shall be formed at the ministry consisting of at least three members, including a legal counselor and a beekeeping specialist, to review violations of the provisions of this law and decide appropriate penalties. the committee's decisions shall be approved by the minister. penalty decisions may be appealed before the board of grievances within sixty days from the date of notification of the person against whom the decision was issued.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56256,
+    "source_ar": "المادة الخامسة عشرة:",
+    "target_en": "Article ١٥",
+    "source_ar_norm": "المادة الخامسة عشرة:",
+    "target_en_norm": "article ١٥",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56257,
+    "source_ar": "يصدر الوزير اللائحة التنفيذية لهذا النظام بعد التنسيق مع الجهات ذات العلاقة، وذلك خلال تسعين يوما من تاريخ نشره.",
+    "target_en": "The Minister shall issue the implementing regulations of this Law in coordination with relevant entities, within ninety days from the date of its publication.",
+    "source_ar_norm": "يصدر الوزير اللائحة التنفيذية لهذا النظام بعد التنسيق مع الجهات ذات العلاقة، وذلك خلال تسعين يوما من تاريخ نشره.",
+    "target_en_norm": "the minister shall issue the implementing regulations of this law in coordination with relevant entities, within ninety days from the date of its publication.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56258,
+    "source_ar": "المادة السادسة عشرة:",
+    "target_en": "Article ١٦",
+    "source_ar_norm": "المادة السادسة عشرة:",
+    "target_en_norm": "article ١٦",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56259,
+    "source_ar": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به بعد تسعين يوما من تاريخ نشره.",
+    "target_en": "This Law shall be published in the Official Gazette and shall enter into force ninety days from the date of its publication.",
+    "source_ar_norm": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به بعد تسعين يوما من تاريخ نشره.",
+    "target_en_norm": "this law shall be published in the official gazette and shall enter into force ninety days from the date of its publication.",
+    "file_name": "نظام تربية النحل.docx"
+  },
+  {
+    "id": 56260,
+    "source_ar": "نظام تصنيف المقاولين",
+    "target_en": "Contractor Classification Law",
+    "source_ar_norm": "نظام تصنيف المقاولين",
+    "target_en_norm": "contractor classification law",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56261,
+    "source_ar": "المادة الأولى",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي",
+    "target_en_norm": "article 1",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56262,
+    "source_ar": "يقصد بالألفاظ الآتية أينما وردت في هذا النظام المعاني المبينة أمامها ما لم يقتض السياق غير ذلك:",
+    "target_en": "In this Law, the following words shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "source_ar_norm": "يقصد بالالفاظ الاتية اينما وردت في هذا النظام المعاني المبينة امامها ما لم يقتض السياق غير ذلك:",
+    "target_en_norm": "in this law, the following words shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56263,
+    "source_ar": "الوزارة: وزارة الشؤون البلدية والقروية والإسكان.",
+    "target_en": "Ministry: Ministry of Municipal and Rural Affairs and Housing.",
+    "source_ar_norm": "الوزارة: وزارة الشؤون البلدية والقروية والاسكان.",
+    "target_en_norm": "ministry: ministry of municipal and rural affairs and housing.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56264,
+    "source_ar": "الوزير: وزير الشؤون البلدية والقروية والإسكان.",
+    "target_en": "Minister: Minister of Municipal and Rural Affairs and Housing.",
+    "source_ar_norm": "الوزير: وزير الشؤون البلدية والقروية والاسكان.",
+    "target_en_norm": "minister: minister of municipal and rural affairs and housing.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56265,
+    "source_ar": "النــظـام: نظام تصنيف المقاولين.",
+    "target_en": "Law: Contractor Classification Law.",
+    "source_ar_norm": "النظام: نظام تصنيف المقاولين.",
+    "target_en_norm": "law: contractor classification law.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56266,
+    "source_ar": "اللائحــــة: اللائحة التنفيذية للنظام.",
+    "target_en": "Regulations: Implementing Regulations of this Law.",
+    "source_ar_norm": "اللائحة: اللائحة التنفيذية للنظام.",
+    "target_en_norm": "regulations: implementing regulations of this law.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56267,
+    "source_ar": "التصنيف: تقويم إمكانيات المقاول: المالية، والفنية، والإدارية، والتنفيذية؛ لوضعه في المجال والنشاط والدرجة المستحقة وفقًا لأحكام النظام واللائحة.",
+    "target_en": "Classification: The assessment of a contractor's financial, technical, administrative, and execution capabilities, in order to assign said contractor to a field, activity, and appropriate grade in accordance with the provisions of this Law and the Regulations.",
+    "source_ar_norm": "التصنيف: تقويم امكانيات المقاول: المالية، والفنية، والادارية، والتنفيذية؛ لوضعه في المجال والنشاط والدرجة المستحقة وفقا لاحكام النظام واللائحة.",
+    "target_en_norm": "classification: the assessment of a contractor's financial, technical, administrative, and execution capabilities, in order to assign said contractor to a field, activity, and appropriate grade in accordance with the provisions of this law and the regulations.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56268,
+    "source_ar": "المقـــــاول: شخص ذو صفة طبيعية أو اعتبارية مرخص له نظامًا بالقيام -منفردًا أو مشتركًا- لتنفيذ عقد في أحد المجالات المحددة في اللائحة.",
+    "target_en": "Contractor: A natural or legal person licensed to execute, solely or jointly, a contract in one of the fields specified in the Regulations.",
+    "source_ar_norm": "المقاول: شخص ذو صفة طبيعية او اعتبارية مرخص له نظاما بالقيام -منفردا او مشتركا- لتنفيذ عقد في احد المجالات المحددة في اللائحة.",
+    "target_en_norm": "contractor: a natural or legal person licensed to execute, solely or jointly, a contract in one of the fields specified in the regulations.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56269,
+    "source_ar": "المجـــــال: نوع العمل الذي يصنف فيه المقاول.",
+    "target_en": "Field: The type of work under which a contractor is classified.",
+    "source_ar_norm": "المجال: نوع العمل الذي يصنف فيه المقاول.",
+    "target_en_norm": "field: the type of work under which a contractor is classified.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56270,
+    "source_ar": "النشـــاط: نوع من الأعمال الفرعية في مجال من المجالات.",
+    "target_en": "Activity: A sub-type of work within a certain field.",
+    "source_ar_norm": "النشاط: نوع من الاعمال الفرعية في مجال من المجالات.",
+    "target_en_norm": "activity: a sub-type of work within a certain field.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56271,
+    "source_ar": "الدرجــة: النتيجة التي يحصل عليها المقاول عند تصنيفه.",
+    "target_en": "Grade: The grade a contractor receives upon classification.",
+    "source_ar_norm": "الدرجة: النتيجة التي يحصل عليها المقاول عند تصنيفه.",
+    "target_en_norm": "grade: the grade a contractor receives upon classification.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56272,
+    "source_ar": "المعيار: مجموعة العناصر المستخدمة للتصنيف.",
+    "target_en": "Criteria: A set of standards used for classification.",
+    "source_ar_norm": "المعيار: مجموعة العناصر المستخدمة للتصنيف.",
+    "target_en_norm": "criteria: a set of standards used for classification.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56273,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56274,
+    "source_ar": "تتولى الوزارة -بالتنسيق مع الجهات ذات العلاقة- التصنيف وإصدار شهادات التصنيف وتعديلها وإيقافها وإلغاءها، وفق أحكام النظام واللائحــــة، على أن يبت في طلب التصنيف أو تعديله خلال مدة تحددها اللائحة.",
+    "target_en": "The Ministry shall, in coordination with relevant agencies, classify contractors, and issue, amend, suspend, and cancel classification certificates in accordance with the provisions of this Law and the Regulations. Classification requests and classification amendment requests shall be decided within the period specified in the Regulations.",
+    "source_ar_norm": "تتولي الوزارة -بالتنسيق مع الجهات ذات العلاقة- التصنيف واصدار شهادات التصنيف وتعديلها وايقافها والغاءها، وفق احكام النظام واللائحة، علي ان يبت في طلب التصنيف او تعديله خلال مدة تحددها اللائحة.",
+    "target_en_norm": "the ministry shall, in coordination with relevant agencies, classify contractors, and issue, amend, suspend, and cancel classification certificates in accordance with the provisions of this law and the regulations. classification requests and classification amendment requests shall be decided within the period specified in the regulations.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56275,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56276,
+    "source_ar": "لا يجوز للجهات الحكومية والهيئات والمؤسسات والأجهزة ذوات الشخصية الاعتبارية العامة إرساء أو قبول أي عرض أو عطاء لأي مشروع يخضع للتصنيف إلا إذا كان المقاول مصنفًا، وكان المشروع يقع في المجال والنشاط والدرجة التي تم تصنيف المقاول عليها.",
+    "target_en": "Government agencies and bodies, institutions, and entities having public legal personality may not accept any offer or bid for any project subject to classification unless the contractor is classified, and the project is within the field, activity, and grade under which said contractor is classified.",
+    "source_ar_norm": "لا يجوز للجهات الحكومية والهيئات والمؤسسات والاجهزة ذوات الشخصية الاعتبارية العامة ارساء او قبول اي عرض او عطاء لاي مشروع يخضع للتصنيف الا اذا كان المقاول مصنفا، وكان المشروع يقع في المجال والنشاط والدرجة التي تم تصنيف المقاول عليها.",
+    "target_en_norm": "government agencies and bodies, institutions, and entities having public legal personality may not accept any offer or bid for any project subject to classification unless the contractor is classified, and the project is within the field, activity, and grade under which said contractor is classified.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56277,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56278,
+    "source_ar": "تحدد وتعدل مجالات وأنشطة ودرجات التصنيف بقرارٍ من الوزير، وفق ضوابط تحددها اللائحة، على أن يتم الاستناد في تحديد مجالات وأنشطة التصنيف بناءً على ما ورد بالدليل الوطني للأنشطة الاقتصادية.",
+    "target_en": "Classification fields, activities, and grades shall be determined and amended pursuant to a decision by the Minister in accordance with the controls specified in the Regulations, provided that the determination of classification fields and activities be based on the National Classification of Economic Activities.",
+    "source_ar_norm": "تحدد وتعدل مجالات وانشطة ودرجات التصنيف بقرار من الوزير، وفق ضوابط تحددها اللائحة، علي ان يتم الاستناد في تحديد مجالات وانشطة التصنيف بناء علي ما ورد بالدليل الوطني للانشطة الاقتصادية.",
+    "target_en_norm": "classification fields, activities, and grades shall be determined and amended pursuant to a decision by the minister in accordance with the controls specified in the regulations, provided that the determination of classification fields and activities be based on the national classification of economic activities.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56279,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56280,
+    "source_ar": "تحدد وتعدل الحدود المالية لكل درجة بقرارٍ من الوزير بعد الاتفاق مع وزير المالية ووزير الاقتصاد والتخطيط.",
+    "target_en": "The financial limits of each grade shall be determined and amended pursuant to a decision by the Minister upon agreement with the Minister of Finance and the Minister of Economy and Planning.",
+    "source_ar_norm": "تحدد وتعدل الحدود المالية لكل درجة بقرار من الوزير بعد الاتفاق مع وزير المالية ووزير الاقتصاد والتخطيط.",
+    "target_en_norm": "the financial limits of each grade shall be determined and amended pursuant to a decision by the minister upon agreement with the minister of finance and the minister of economy and planning.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56281,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56282,
+    "source_ar": "يصنف المقاول في الدرجة التي يستحقها في مجالٍ أو نشاطٍ واحدٍ أو أكثر من مجالات وأنشطة التصنيف، وذلك وفقًا للمعايير والشروط الآتية:",
+    "target_en": "Assigning a contractor an appropriate grade in one classification field or activity, or more, shall be made according to the following criteria and conditions:",
+    "source_ar_norm": "يصنف المقاول في الدرجة التي يستحقها في مجال او نشاط واحد او اكثر من مجالات وانشطة التصنيف، وذلك وفقا للمعايير والشروط الاتية:",
+    "target_en_norm": "assigning a contractor an appropriate grade in one classification field or activity, or more, shall be made according to the following criteria and conditions:",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56283,
+    "source_ar": "1. القدرة المالية: القوائم المالية.",
+    "target_en": "1. Financial capacity: Financial statements.",
+    "source_ar_norm": "1. القدرة المالية: القوائم المالية.",
+    "target_en_norm": "1. financial capacity: financial statements.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56284,
+    "source_ar": "2. القدرة الفنية والإدارية والتنفيذية: الهياكل التنظيمية، الكوادر الإدارية والفنية.",
+    "target_en": "2. Technical, administrative, and execution capabilities: Organizational structures as well as administrative and technical personnel.",
+    "source_ar_norm": "2. القدرة الفنية والادارية والتنفيذية: الهياكل التنظيمية، الكوادر الادارية والفنية.",
+    "target_en_norm": "2. technical, administrative, and execution capabilities: organizational structures as well as administrative and technical personnel.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56285,
+    "source_ar": "3. إجمالي عدد ونوع وقيمة المشاريع.",
+    "target_en": "3. Number of projects as well as their types and values.",
+    "source_ar_norm": "3. اجمالي عدد ونوع وقيمة المشاريع.",
+    "target_en_norm": "3. number of projects as well as their types and values.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56286,
+    "source_ar": "وأي معايير أو شروط أخرى تحددها اللائحة.",
+    "target_en": "And any other criteria or conditions specified in the Regulations.",
+    "source_ar_norm": "واي معايير او شروط اخري تحددها اللائحة.",
+    "target_en_norm": "and any other criteria or conditions specified in the regulations.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56287,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56288,
+    "source_ar": "للمقاول أن يطلب تعديل شهادة تصنيفه برفع أي مجال (أو نشاط) أو إضافته أو حذفه منها، على أن يعزز طلبه بالمعلومات والبيانات التي تؤيد ذلك، وفقًا للشروط التي تحددها اللائحة.",
+    "target_en": "A contractor may request the amendment of his classification certificate by applying for an upgrade or the addition or deletion of any field or activity, provided that his request is accompanied by supporting information and data, in accordance with the conditions specified in the Regulations.",
+    "source_ar_norm": "للمقاول ان يطلب تعديل شهادة تصنيفه برفع اي مجال (او نشاط) او اضافته او حذفه منها، علي ان يعزز طلبه بالمعلومات والبيانات التي تؤيد ذلك، وفقا للشروط التي تحددها اللائحة.",
+    "target_en_norm": "a contractor may request the amendment of his classification certificate by applying for an upgrade or the addition or deletion of any field or activity, provided that his request is accompanied by supporting information and data, in accordance with the conditions specified in the regulations.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56289,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56290,
+    "source_ar": "يصدر الوزير أو من يفوضه قرارًا بتصنيف المقاول في المجال (أو المجالات) أو النشاط (أو الأنشطة)، والدرجة التي يستحقها، بناءً على ما توافر من معلومات وبيانات، ويمنح شهادة بذلك وفق المدة المحددة في اللائحة.",
+    "target_en": "The Minister or his designee shall issue a decision to classify a contractor by assigning him to one field or activity, or more, and to an appropriate grade based on available information and data. The contractor shall be issued a certificate to this effect for the term specified in the Regulations.",
+    "source_ar_norm": "يصدر الوزير او من يفوضه قرارا بتصنيف المقاول في المجال (او المجالات) او النشاط (او الانشطة)، والدرجة التي يستحقها، بناء علي ما توافر من معلومات وبيانات، ويمنح شهادة بذلك وفق المدة المحددة في اللائحة.",
+    "target_en_norm": "the minister or his designee shall issue a decision to classify a contractor by assigning him to one field or activity, or more, and to an appropriate grade based on available information and data. the contractor shall be issued a certificate to this effect for the term specified in the regulations.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56291,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56292,
+    "source_ar": "إذا تضامن مقاولان أو أكثر في تنفيذ مشروعٍ ما، فيجب أن يكون كل منهم مصنفًا في مجال تنفيذ المشروع وأحدهم على الأقل مصنفًا في المجال والدرجة المطلوبة لتنفيذه، وأن تكون درجة تصنيف المتضامنين الباقين بنفس الدرجة المطلوبة لتنفيذ المشروع أو أقل بدرجةٍ واحدة فقط.",
+    "target_en": "If two or more contractors jointly execute a project, each contractor must be classified in the field of said project, and at least one of them must be classified in the field and the grade required for the execution of the project, and the classification grade of the remaining contractors must be of the same grade required for the execution of the project or lower by one grade only.",
+    "source_ar_norm": "اذا تضامن مقاولان او اكثر في تنفيذ مشروع ما، فيجب ان يكون كل منهم مصنفا في مجال تنفيذ المشروع واحدهم علي الاقل مصنفا في المجال والدرجة المطلوبة لتنفيذه، وان تكون درجة تصنيف المتضامنين الباقين بنفس الدرجة المطلوبة لتنفيذ المشروع او اقل بدرجة واحدة فقط.",
+    "target_en_norm": "if two or more contractors jointly execute a project, each contractor must be classified in the field of said project, and at least one of them must be classified in the field and the grade required for the execution of the project, and the classification grade of the remaining contractors must be of the same grade required for the execution of the project or lower by one grade only.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56293,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56294,
+    "source_ar": "إذا حدث أي تغير قانوني على وضع المقاول مما يؤثر على تصنيفه، فعليه التقدم بطلب تعديل شهادة التصنيف وفقًا للحالات التي تحددها اللائحة.",
+    "target_en": "If a legal change occurs in the contractor's status which affects his classification, the contractor must submit a request to amend the classification certificate in accordance with the cases specified in the Regulations.",
+    "source_ar_norm": "اذا حدث اي تغير قانوني علي وضع المقاول مما يؤثر علي تصنيفه، فعليه التقدم بطلب تعديل شهادة التصنيف وفقا للحالات التي تحددها اللائحة.",
+    "target_en_norm": "if a legal change occurs in the contractor's status which affects his classification, the contractor must submit a request to amend the classification certificate in accordance with the cases specified in the regulations.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56295,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56296,
+    "source_ar": "يصنف المقاول المرخص له بالعمل وفقًا لنظام الاستثمار الأجنبي حسب الإجراءات المعمول بها في تصنيف المقاول السعودي. ولمجلس الوزراء استثناؤه وفق ضوابط يضعها لذلك.",
+    "target_en": "A contractor licensed to work pursuant to the Foreign Investment Law shall be classified according to the classification procedures applicable to Saudi contractors. The Council of Ministers may grant an exemption thereto pursuant to controls set thereby.",
+    "source_ar_norm": "يصنف المقاول المرخص له بالعمل وفقا لنظام الاستثمار الاجنبي حسب الاجراءات المعمول بها في تصنيف المقاول السعودي. ولمجلس الوزراء استثناؤه وفق ضوابط يضعها لذلك.",
+    "target_en_norm": "a contractor licensed to work pursuant to the foreign investment law shall be classified according to the classification procedures applicable to saudi contractors. the council of ministers may grant an exemption thereto pursuant to controls set thereby.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56297,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56298,
+    "source_ar": "تتقاضى الوزارة مقابلًا ماليًّا عن الخدمات التي تقدمها وفق أحكام النظام، على أن تحدد هذه الخدمات والمقابل المالي لها بالاتفاق مع وزارة المالية.",
+    "target_en": "The Ministry shall charge a fee for services rendered in accordance with this Law; the services and their corresponding fees shall be determined in agreement with the Ministry of Finance.",
+    "source_ar_norm": "تتقاضي الوزارة مقابلا ماليا عن الخدمات التي تقدمها وفق احكام النظام، علي ان تحدد هذه الخدمات والمقابل المالي لها بالاتفاق مع وزارة المالية.",
+    "target_en_norm": "the ministry shall charge a fee for services rendered in accordance with this law; the services and their corresponding fees shall be determined in agreement with the ministry of finance.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56299,
+    "source_ar": "المادة الثالثة عشرة",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة",
+    "target_en_norm": "article 13",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  },
+  {
+    "id": 56300,
+    "source_ar": "على الجهات الحكومية والهيئات والمؤسسات والأجهزة ذوات الشخصية الاعتبارية العامة تزويد الوزارة بالمعلومات والبيانات والملحوظات التي تطلبها عن المقاولين لأغراض التصنيف، وكذلك المشاريع التي نفذها المقاولون أو تحت التنفيذ، وذلك بحسب ما تحدده اللائحة.",
+    "target_en": "Government agencies and bodies, institutions, and entities having public legal personality shall, for classification purposes, provide the Ministry with the information, data, and remarks requested thereby relating to contractors as well as the projects executed or being executed by contractors, as specified in the Regulations.",
+    "source_ar_norm": "علي الجهات الحكومية والهيئات والمؤسسات والاجهزة ذوات الشخصية الاعتبارية العامة تزويد الوزارة بالمعلومات والبيانات والملحوظات التي تطلبها عن المقاولين لاغراض التصنيف، وكذلك المشاريع التي نفذها المقاولون او تحت التنفيذ، وذلك بحسب ما تحدده اللائحة.",
+    "target_en_norm": "government agencies and bodies, institutions, and entities having public legal personality shall, for classification purposes, provide the ministry with the information, data, and remarks requested thereby relating to contractors as well as the projects executed or being executed by contractors, as specified in the regulations.",
+    "file_name": "نظام تصنيف المقاولين (جديد).docx"
+  }
+]

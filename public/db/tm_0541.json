@@ -1,0 +1,802 @@
+[
+  {
+    "id": 54001,
+    "source_ar": "أنشطة المشتري الرئيس المشمولة باختصاصات الهيئة: أنشطة المتاجرة بالمياه المحلاة، والمنقاة، والمعالجة، ومياه الصرف الصحي، والصناعي، وطرح مشاريع محطات التحلية، والتنقية، والمعالجة.",
+    "target_en": "Principal Purchaser Activities Falling within the Authority’s Jurisdiction: The activities of trading in desalinated, purified, and treated water, and sanitary and industrial wastewater, as well as offering projects of desalination, purification, and treatment plants.",
+    "source_ar_norm": "انشطة المشتري الرئيس المشمولة باختصاصات الهيئة: انشطة المتاجرة بالمياه المحلاة، والمنقاة، والمعالجة، ومياه الصرف الصحي، والصناعي، وطرح مشاريع محطات التحلية، والتنقية، والمعالجة.",
+    "target_en_norm": "principal purchaser activities falling within the authority’s jurisdiction: the activities of trading in desalinated, purified, and treated water, and sanitary and industrial wastewater, as well as offering projects of desalination, purification, and treatment plants.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54002,
+    "source_ar": "نشاط إمدادات المياه للأغراض الزراعية: ضخ المياه للاستخدام الزراعي من المصادر الجوفية أو السدود، أو المياه المحلاة، أو المنقاة، أو المعالجة، ونقلها إلى نقاط التوزيع، وتوزيعها، وخزنها استراتيجيًّا، وتجميع مياه الصرف الزراعي، ونقلها.",
+    "target_en": "Water Supply for Agricultural Purposes: The activity of pumping water from underground resources or dams, or pumping desalinated, purified, and treated water; distributing such water after being transported to distribution points; strategically storing such water; and collecting and transporting agricultural wastewater.",
+    "source_ar_norm": "نشاط امدادات المياه للاغراض الزراعية: ضخ المياه للاستخدام الزراعي من المصادر الجوفية او السدود، او المياه المحلاة، او المنقاة، او المعالجة، ونقلها الي نقاط التوزيع، وتوزيعها، وخزنها استراتيجيا، وتجميع مياه الصرف الزراعي، ونقلها.",
+    "target_en_norm": "water supply for agricultural purposes: the activity of pumping water from underground resources or dams, or pumping desalinated, purified, and treated water; distributing such water after being transported to distribution points; strategically storing such water; and collecting and transporting agricultural wastewater.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54003,
+    "source_ar": "نشاط تنمية مصادر المياه: أي عمل فني أو تقني، تقليدي أو غير تقليدي، يهدف إلى استدامة الموارد المائية، وتعظيم الاستفادة منها؛ وذلك من خلال حصاد المياه، أو زيادة المخزون السطحي والجوفي، أو الحماية، أو ترشيد الاستخدام.",
+    "target_en": "Water Resources Development: Any technical activity, whether traditional or non-traditional, that aims to sustain water resources and optimize the utilization thereof through water harvesting, increasing surface and groundwater reserves, protection, or conservation.",
+    "source_ar_norm": "نشاط تنمية مصادر المياه: اي عمل فني او تقني، تقليدي او غير تقليدي، يهدف الي استدامة الموارد المائية، وتعظيم الاستفادة منها؛ وذلك من خلال حصاد المياه، او زيادة المخزون السطحي والجوفي، او الحماية، او ترشيد الاستخدام.",
+    "target_en_norm": "water resources development: any technical activity, whether traditional or non-traditional, that aims to sustain water resources and optimize the utilization thereof through water harvesting, increasing surface and groundwater reserves, protection, or conservation.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54004,
+    "source_ar": "الاستخدام الحضري: استخدام المياه للأغراض المنزلية، والأغراض التجارية ولاستخدام المرافق العامة والتشجير والحدائق العامة ونحوها.",
+    "target_en": "Urban Use: The use of water for domestic and commercial purposes, and for purposes related to public utilities, tree-planting, public parks, and the like.",
+    "source_ar_norm": "الاستخدام الحضري: استخدام المياه للاغراض المنزلية، والاغراض التجارية ولاستخدام المرافق العامة والتشجير والحدائق العامة ونحوها.",
+    "target_en_norm": "urban use: the use of water for domestic and commercial purposes, and for purposes related to public utilities, tree-planting, public parks, and the like.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54005,
+    "source_ar": "البنى الأساسية للمياه: منشآت مستخدمة في إنتاج المياه، أو حصادها، أو نقلها، أو توزيعها، أو تخزينها، أو مراقبتها، سواءً أكانت مملوكة للقطاع العام أو القطاع الخاص، ولا يشمل ذلك محطات تحلية المياه، ومحطات المعالجة، ومحطات التنقية.",
+    "target_en": "Water Main Facilities: Facilities that are used in water production, harvesting, transportation, distribution, storage, or monitoring, whether owned by the public or private sector; this shall not include desalination, treatment, or water purification plants.",
+    "source_ar_norm": "البني الاساسية للمياه: منشات مستخدمة في انتاج المياه، او حصادها، او نقلها، او توزيعها، او تخزينها، او مراقبتها، سواء اكانت مملوكة للقطاع العام او القطاع الخاص، ولا يشمل ذلك محطات تحلية المياه، ومحطات المعالجة، ومحطات التنقية.",
+    "target_en_norm": "water main facilities: facilities that are used in water production, harvesting, transportation, distribution, storage, or monitoring, whether owned by the public or private sector; this shall not include desalination, treatment, or water purification plants.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54006,
+    "source_ar": "المياه المحلاة: مياه مصدرها البحر عولجت بتحلية المياه.",
+    "target_en": "Desalinated Water: Seawater treated by desalination.",
+    "source_ar_norm": "المياه المحلاة: مياه مصدرها البحر عولجت بتحلية المياه.",
+    "target_en_norm": "desalinated water: seawater treated by desalination.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54007,
+    "source_ar": "المياه المنقاة: مياه مصدرها المياه الجوفية أو السدود، أزيلت ملوثاتها، وقللت ملوحتها عبر سلسلة من العمليات الصناعية والكيميائية من خلال محطات التنقية؛ لتحويلها إلى مياه نقية صالحة للاستخدامات الحضرية، والصناعية، والزراعية.",
+    "target_en": "Purified Water: Underground or dam water the contaminants of which are removed and the salinity of which is reduced by a series of industrial and chemical processes through purification plants for urban, industrial, and agricultural use.",
+    "source_ar_norm": "المياه المنقاة: مياه مصدرها المياه الجوفية او السدود، ازيلت ملوثاتها، وقللت ملوحتها عبر سلسلة من العمليات الصناعية والكيميائية من خلال محطات التنقية؛ لتحويلها الي مياه نقية صالحة للاستخدامات الحضرية، والصناعية، والزراعية.",
+    "target_en_norm": "purified water: underground or dam water the contaminants of which are removed and the salinity of which is reduced by a series of industrial and chemical processes through purification plants for urban, industrial, and agricultural use.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54008,
+    "source_ar": "المياه المعالجة: مياه مصدرها الصرف الصحي، أو الصناعي، أو الزراعي تم معالجتها بطرق حيوية، وفيزيائية، وصناعية، أو طبيعية؛ لإزالة ملوثاتها، وتحويلها إلى مياه قابلة للتصريف بيئياً؛ أو لإعادة الاستخدام في الأغراض الحضرية، أو الصناعية، أو الزراعية وفقًا لدرجة معالجتها.",
+    "target_en": "Treated Water: Sanitary, industrial, or agricultural wastewater that is treated by biological, physical, industrial, or natural methods through removing its contaminants to make it safe for the environment or to be reused in urban, industrial, or agricultural purposes, based on the degree of treatment.",
+    "source_ar_norm": "المياه المعالجة: مياه مصدرها الصرف الصحي، او الصناعي، او الزراعي تم معالجتها بطرق حيوية، وفيزيائية، وصناعية، او طبيعية؛ لازالة ملوثاتها، وتحويلها الي مياه قابلة للتصريف بيئيا؛ او لاعادة الاستخدام في الاغراض الحضرية، او الصناعية، او الزراعية وفقا لدرجة معالجتها.",
+    "target_en_norm": "treated water: sanitary, industrial, or agricultural wastewater that is treated by biological, physical, industrial, or natural methods through removing its contaminants to make it safe for the environment or to be reused in urban, industrial, or agricultural purposes, based on the degree of treatment.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54009,
+    "source_ar": "تعريفة المياه: مقابل مالي معتمد يُدفع مقابل خدمة، أو وحدة كمية المياه المستخدمة.",
+    "target_en": "Water Tariff: A fee paid in return for service or quantity of water used.",
+    "source_ar_norm": "تعريفة المياه: مقابل مالي معتمد يدفع مقابل خدمة، او وحدة كمية المياه المستخدمة.",
+    "target_en_norm": "water tariff: a fee paid in return for service or quantity of water used.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54010,
+    "source_ar": "توزيع المياه: عملية إيصال المياه من مواقع إنتاجها، أو مواقع تسلمها إلى المستفيدين أو المستهلكين، عن طريق الشبكات أو الصهاريج أو أي وسيلةٍ أخرى مناسبة، ولا يشمل ذلك توزيع المياه للاستخدام الزراعي.",
+    "target_en": "Water Distribution: The delivery of water to beneficiaries or consumers from production or delivery sites, through networks, tanks, or any other suitable means; this shall not include the distribution of water for agricultural use.",
+    "source_ar_norm": "توزيع المياه: عملية ايصال المياه من مواقع انتاجها، او مواقع تسلمها الي المستفيدين او المستهلكين، عن طريق الشبكات او الصهاريج او اي وسيلة اخري مناسبة، ولا يشمل ذلك توزيع المياه للاستخدام الزراعي.",
+    "target_en_norm": "water distribution: the delivery of water to beneficiaries or consumers from production or delivery sites, through networks, tanks, or any other suitable means; this shall not include the distribution of water for agricultural use.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54011,
+    "source_ar": "نقل المياه: عملية نقل المياه من مواقع الإنتاج إلى نقاط توزيع المياه الرئيسة.",
+    "target_en": "Water Transportation: The transportation of water from production sites to main water distribution points.",
+    "source_ar_norm": "نقل المياه: عملية نقل المياه من مواقع الانتاج الي نقاط توزيع المياه الرئيسة.",
+    "target_en_norm": "water transportation: the transportation of water from production sites to main water distribution points.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54012,
+    "source_ar": "تحلية المياه: إنتاج المياه عن طريق معالجة مياه البحر، من خلال إزالة ملوثاتها وكل ملوحتها أو جزء منها عبر سلسلة من العمليات الصناعية، من خلال محطات التحلية؛ لتحويلها إلى مياه نقية صالحة للاستخدامات الحضرية، والصناعية، والزراعية.",
+    "target_en": "Desalination: The removal of seawater salinity, wholly or partially, and its contaminants through a series of industrial processes conducted in desalination plants to provide fresh water for urban, industrial, and agricultural use.",
+    "source_ar_norm": "تحلية المياه: انتاج المياه عن طريق معالجة مياه البحر، من خلال ازالة ملوثاتها وكل ملوحتها او جزء منها عبر سلسلة من العمليات الصناعية، من خلال محطات التحلية؛ لتحويلها الي مياه نقية صالحة للاستخدامات الحضرية، والصناعية، والزراعية.",
+    "target_en_norm": "desalination: the removal of seawater salinity, wholly or partially, and its contaminants through a series of industrial processes conducted in desalination plants to provide fresh water for urban, industrial, and agricultural use.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54013,
+    "source_ar": "المتاجرة: شراء المياه بالجملة من مرخَّص له؛ لأجل بيعها بالجملة، ولا يشمل ذلك بيعها للمستهلك.",
+    "target_en": "Trading: The purchase of water from a licensee in bulk for the purpose of wholesaling; this shall not include selling such water to consumers.",
+    "source_ar_norm": "المتاجرة: شراء المياه بالجملة من مرخص له؛ لاجل بيعها بالجملة، ولا يشمل ذلك بيعها للمستهلك.",
+    "target_en_norm": "trading: the purchase of water from a licensee in bulk for the purpose of wholesaling; this shall not include selling such water to consumers.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54014,
+    "source_ar": "بيع المياه بالتجزئة: شراء المياه بالجملة من مرخَّص له؛ لأجل بيعها بالتجزئة على المستهلك.",
+    "target_en": "Retail Sale of Water: The purchase of water from a licensee in bulk for the purpose of resale to consumers.",
+    "source_ar_norm": "بيع المياه بالتجزئة: شراء المياه بالجملة من مرخص له؛ لاجل بيعها بالتجزئة علي المستهلك.",
+    "target_en_norm": "retail sale of water: the purchase of water from a licensee in bulk for the purpose of resale to consumers.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54015,
+    "source_ar": "رخصة استخدام مصدر: وثيقة تصدرها الوزارة لاستخدام مصادر المياه -باستثناء مياه البحر- بموجب النظام ولوائح الوزارة.",
+    "target_en": "Resource Use License: A license issued by the Ministry in accordance with this Law and the Ministry’s regulations for the utilization of water resources; this shall not include seawater.",
+    "source_ar_norm": "رخصة استخدام مصدر: وثيقة تصدرها الوزارة لاستخدام مصادر المياه -باستثناء مياه البحر- بموجب النظام ولوائح الوزارة.",
+    "target_en_norm": "resource use license: a license issued by the ministry in accordance with this law and the ministry’s regulations for the utilization of water resources; this shall not include seawater.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54016,
+    "source_ar": "رخصة تنمية مصدر: وثيقة تصدرها الوزارة للإذن بممارسة نشاط تنمية مصدر المياه بموجب النظام ولوائح الوزارة.",
+    "target_en": "Resource Development License: A license issued by the Ministry in accordance with this Law and the Ministry’s regulations for the development of a water resource.",
+    "source_ar_norm": "رخصة تنمية مصدر: وثيقة تصدرها الوزارة للاذن بممارسة نشاط تنمية مصدر المياه بموجب النظام ولوائح الوزارة.",
+    "target_en_norm": "resource development license: a license issued by the ministry in accordance with this law and the ministry’s regulations for the development of a water resource.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54017,
+    "source_ar": "رخصة تقديم الخدمة: وثيقة تصدرها الهيئة للقيام بنشاط تقديم الخدمة بموجب النظام ولوائح الهيئة.",
+    "target_en": "Service Provision License: A license issued by the Authority in accordance with this Law and the Authority’s regulations for service provision.",
+    "source_ar_norm": "رخصة تقديم الخدمة: وثيقة تصدرها الهيئة للقيام بنشاط تقديم الخدمة بموجب النظام ولوائح الهيئة.",
+    "target_en_norm": "service provision license: a license issued by the authority in accordance with this law and the authority’s regulations for service provision.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54018,
+    "source_ar": "التصريح: وثيقة تمنحها الوزارة أو الهيئة فيما يتصل بأعمال الإعداد -بما في ذلك إعداد الخطط والقيام بالدراسات- قبل الشروع في أعمال إنشاء أي نشاط استخدام مصدر أو نشاط تنمية مصدر أو نشاط تقديم الخدمة.",
+    "target_en": "Permit: A permit granted by the Ministry or the Authority for preparation activities, including developing plans and conducting studies prior to commencing any activity of resource use, resource development, or service provision.",
+    "source_ar_norm": "التصريح: وثيقة تمنحها الوزارة او الهيئة فيما يتصل باعمال الاعداد -بما في ذلك اعداد الخطط والقيام بالدراسات- قبل الشروع في اعمال انشاء اي نشاط استخدام مصدر او نشاط تنمية مصدر او نشاط تقديم الخدمة.",
+    "target_en_norm": "permit: a permit granted by the ministry or the authority for preparation activities, including developing plans and conducting studies prior to commencing any activity of resource use, resource development, or service provision.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54019,
+    "source_ar": "الإعـــفــاء: وثيقة تصدرها الهيئة للقيام بنشاط تقديم الخدمة، مع الإعفاء من شرط أو أكثر من شروط رخصة تقديم الخدمة، أو إذن عام للقيام بنشاط تقديم الخدمة، وفقًا لما تحدده لوائح الهيئة.",
+    "target_en": "Exemption: A document issued by the Authority whereby the service provision license holder is exempted from one or more license terms or is granted a general authorization to provide a service, in accordance with the Authority’s regulations.",
+    "source_ar_norm": "الاعفاء: وثيقة تصدرها الهيئة للقيام بنشاط تقديم الخدمة، مع الاعفاء من شرط او اكثر من شروط رخصة تقديم الخدمة، او اذن عام للقيام بنشاط تقديم الخدمة، وفقا لما تحدده لوائح الهيئة.",
+    "target_en_norm": "exemption: a document issued by the authority whereby the service provision license holder is exempted from one or more license terms or is granted a general authorization to provide a service, in accordance with the authority’s regulations.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54020,
+    "source_ar": "المستهلك: كل شخص يستخدم المياه لاستهلاكه الخاص.",
+    "target_en": "Consumer: Any person who uses water for personal purposes.",
+    "source_ar_norm": "المستهلك: كل شخص يستخدم المياه لاستهلاكه الخاص.",
+    "target_en_norm": "consumer: any person who uses water for personal purposes.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54021,
+    "source_ar": "المياه الجوفية المتجددة: مياه جوفية مخزنة في الطبقات الجوفية الصخرية التي تصلها بشكل طبيعي كمية مناسبة من المياه قياسًا بكمية المياه المسحوبة منها خلال العام الواحد.",
+    "target_en": "Renewable Groundwater: Groundwater stored in aquifers that are recharged by an amount of water proportionate to the amount withdrawn within a period of one year.",
+    "source_ar_norm": "المياه الجوفية المتجددة: مياه جوفية مخزنة في الطبقات الجوفية الصخرية التي تصلها بشكل طبيعي كمية مناسبة من المياه قياسا بكمية المياه المسحوبة منها خلال العام الواحد.",
+    "target_en_norm": "renewable groundwater: groundwater stored in aquifers that are recharged by an amount of water proportionate to the amount withdrawn within a period of one year.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54022,
+    "source_ar": "المياه الجوفية غير المتجددة: مياه جوفية مخزنة في الطبقات الجوفية الصخرية لا تصلها تغذية بشكلٍ طبيعي، أو تصلها كمية ضئيلة جدًّا من المياه قياسًا بكمية المياه المخزنة فيها.",
+    "target_en": "Non-renewable Groundwater: Groundwater stored in aquifers that are not recharged or are insufficiently recharged.",
+    "source_ar_norm": "المياه الجوفية غير المتجددة: مياه جوفية مخزنة في الطبقات الجوفية الصخرية لا تصلها تغذية بشكل طبيعي، او تصلها كمية ضئيلة جدا من المياه قياسا بكمية المياه المخزنة فيها.",
+    "target_en_norm": "non-renewable groundwater: groundwater stored in aquifers that are not recharged or are insufficiently recharged.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54023,
+    "source_ar": "المياه السطحية: المياه المتجمعة أو الجارية على الأرض، ومياه البحار.",
+    "target_en": "Surface Water: Water that collects or runs above ground as well as seawater.",
+    "source_ar_norm": "المياه السطحية: المياه المتجمعة او الجارية علي الارض، ومياه البحار.",
+    "target_en_norm": "surface water: water that collects or runs above ground as well as seawater.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54024,
+    "source_ar": "مياه الصرف: مياه أدى استخدامها إلى تغير لونها، أو طعمها، أو رائحتها، أو مستوى أمنها الصحي أو البيئي.",
+    "target_en": "Wastewater: Used water that has changed in color, taste, smell, or level of hygienic or environmental safety.",
+    "source_ar_norm": "مياه الصرف: مياه ادي استخدامها الي تغير لونها، او طعمها، او رائحتها، او مستوي امنها الصحي او البيئي.",
+    "target_en_norm": "wastewater: used water that has changed in color, taste, smell, or level of hygienic or environmental safety.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54025,
+    "source_ar": "مياه الصرف الصحي: مياه ناتجة عن الاستخدام الحضري.",
+    "target_en": "Sewage: Wastewater resulting from urban use.",
+    "source_ar_norm": "مياه الصرف الصحي: مياه ناتجة عن الاستخدام الحضري.",
+    "target_en_norm": "sewage: wastewater resulting from urban use.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54026,
+    "source_ar": "الطبقات الجوفية: طبقات صخرية لها مسامية ونفاذية تُمَكِّنُها من تخزين المياه وإمرارها خلالها.",
+    "target_en": "Aquifers: Porous and permeable layers of rock that are capable of storing and passing water.",
+    "source_ar_norm": "الطبقات الجوفية: طبقات صخرية لها مسامية ونفاذية تمكنها من تخزين المياه وامرارها خلالها.",
+    "target_en_norm": "aquifers: porous and permeable layers of rock that are capable of storing and passing water.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54027,
+    "source_ar": "المياه العابرة للحدود: مياه سطحية أو جوفية تعبر الحدود الدولية.",
+    "target_en": "Transboundary Waters: Surface or underground water that crosses international borders.",
+    "source_ar_norm": "المياه العابرة للحدود: مياه سطحية او جوفية تعبر الحدود الدولية.",
+    "target_en_norm": "transboundary waters: surface or underground water that crosses international borders.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54028,
+    "source_ar": "المياه غير الصالحة للاستخدام: مياه تغيرت خصائصها الطبيعية بشكل لا يتناسب مع مواصفات الاستخدامات المخصصة لها.",
+    "target_en": "Unusable Water: Water the natural properties of which have changed in a manner that renders it inappropriate for its intended uses.",
+    "source_ar_norm": "المياه غير الصالحة للاستخدام: مياه تغيرت خصائصها الطبيعية بشكل لا يتناسب مع مواصفات الاستخدامات المخصصة لها.",
+    "target_en_norm": "unusable water: water the natural properties of which have changed in a manner that renders it inappropriate for its intended uses.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54029,
+    "source_ar": "الخزن الاستراتيجي للمياه: خَزْنُ المياه في الخزانات الصناعية، أو في السدود، أو في الطبقات الجوفية المناسبة؛ لضخها، والاستفادة منها في وقت لاحق للمصلحة العامة لضمان استقرار الإمداد.",
+    "target_en": "Strategic Water Storage: Storing water in tanks, dams, or appropriate aquifers for future utilization to ensure the stability of water supply for the public interest.",
+    "source_ar_norm": "الخزن الاستراتيجي للمياه: خزن المياه في الخزانات الصناعية، او في السدود، او في الطبقات الجوفية المناسبة؛ لضخها، والاستفادة منها في وقت لاحق للمصلحة العامة لضمان استقرار الامداد.",
+    "target_en_norm": "strategic water storage: storing water in tanks, dams, or appropriate aquifers for future utilization to ensure the stability of water supply for the public interest.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54030,
+    "source_ar": "العطاء الآمن للمصدر: كمِّيَّات المياه التي يمكن سحبها من المصدر المائي دون الإخلال باستدامته، أو التغير في جودته.",
+    "target_en": "Safe Yield: The amount of water that can be withdrawn from a water resource without compromising its sustainability or quality.",
+    "source_ar_norm": "العطاء الامن للمصدر: كميات المياه التي يمكن سحبها من المصدر المائي دون الاخلال باستدامته، او التغير في جودته.",
+    "target_en_norm": "safe yield: the amount of water that can be withdrawn from a water resource without compromising its sustainability or quality.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54031,
+    "source_ar": "حقوق الاستخدام: صلاحيات مخولة لمالك رخصة استخدام المصدر.",
+    "target_en": "Rights of Use: Rights granted to a holder of a resource use license.",
+    "source_ar_norm": "حقوق الاستخدام: صلاحيات مخولة لمالك رخصة استخدام المصدر.",
+    "target_en_norm": "rights of use: rights granted to a holder of a resource use license.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54032,
+    "source_ar": "المياه الرمادية: المياه الناتجة من مختلف الاستخدامات -باستثناء المياه الناتجة عن المراحيض- وتشمل المياه الناتجة من الاستحمام، أو أحواض غسيل اليدين، أو المطابخ، أو غسالات الصحون، أو أحواض غسيل الملابس، أو غسيل السيارات، أو غسيل الأرضيات، أو أحواض السباحة.",
+    "target_en": "Gray Water: Wastewater from a variety of uses, including bathing, hand washing, laundry, floor washing, and car washing, or from kitchen sinks, dishwashers, and swimming pools; this shall exclude toilet wastewater.",
+    "source_ar_norm": "المياه الرمادية: المياه الناتجة من مختلف الاستخدامات -باستثناء المياه الناتجة عن المراحيض- وتشمل المياه الناتجة من الاستحمام، او احواض غسيل اليدين، او المطابخ، او غسالات الصحون، او احواض غسيل الملابس، او غسيل السيارات، او غسيل الارضيات، او احواض السباحة.",
+    "target_en_norm": "gray water: wastewater from a variety of uses, including bathing, hand washing, laundry, floor washing, and car washing, or from kitchen sinks, dishwashers, and swimming pools; this shall exclude toilet wastewater.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54033,
+    "source_ar": "المُلَوِّثَات: أي مادة تحدث تغيرًا فيزيائيًّا أو كيميائيًّا أو حيويًّا أو لها نشاط إشعاعي تؤثر سلبًا في نوعية المياه بطريق مباشر أو غير مباشر، مما يجعلها غير صالحة للاستخدامات.",
+    "target_en": "Contaminants: Any substance that causes a physical, chemical, or biological change or has a radioactive element that negatively affects the quality of water, directly or indirectly, and renders it unusable.",
+    "source_ar_norm": "الملوثات: اي مادة تحدث تغيرا فيزيائيا او كيميائيا او حيويا او لها نشاط اشعاعي تؤثر سلبا في نوعية المياه بطريق مباشر او غير مباشر، مما يجعلها غير صالحة للاستخدامات.",
+    "target_en_norm": "contaminants: any substance that causes a physical, chemical, or biological change or has a radioactive element that negatively affects the quality of water, directly or indirectly, and renders it unusable.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54034,
+    "source_ar": "معالجة مياه الصرف: تحويل مياه الصرف الصحي، أو المياه الرمادية، أو الزراعية، أو الصناعية إلى مياه آمنة صحيًّا وبيئيًّا.",
+    "target_en": "Wastewater Treatment: Converting sewage, gray, agricultural, or industrial water into water that is safe for health and the environment.",
+    "source_ar_norm": "معالجة مياه الصرف: تحويل مياه الصرف الصحي، او المياه الرمادية، او الزراعية، او الصناعية الي مياه امنة صحيا وبيئيا.",
+    "target_en_norm": "wastewater treatment: converting sewage, gray, agricultural, or industrial water into water that is safe for health and the environment.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54035,
+    "source_ar": "المعالجة الحيوية: عمليات المعالجة التي تهدف إلى تنشيط البكتيريا في مياه الصرف الصحي لإنقاص تركيز المواد العضوية فيها.",
+    "target_en": "Biological Treatment: The treatment that aims to stimulate bacteria in wastewater to reduce the concentration of organic matter therein.",
+    "source_ar_norm": "المعالجة الحيوية: عمليات المعالجة التي تهدف الي تنشيط البكتيريا في مياه الصرف الصحي لانقاص تركيز المواد العضوية فيها.",
+    "target_en_norm": "biological treatment: the treatment that aims to stimulate bacteria in wastewater to reduce the concentration of organic matter therein.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54036,
+    "source_ar": "المعالجة الثنائية: مستوى المعالجة التي يمكن التوصل إليها عن طريق المعالجة الحيوية المنتهية بالترسيب والتطهير، أو بأي عملية أخرى.",
+    "target_en": "Secondary Treatment: The process of treating wastewater through sedimentation or disinfection, or any other process, following biological treatment.",
+    "source_ar_norm": "المعالجة الثنائية: مستوي المعالجة التي يمكن التوصل اليها عن طريق المعالجة الحيوية المنتهية بالترسيب والتطهير، او باي عملية اخري.",
+    "target_en_norm": "secondary treatment: the process of treating wastewater through sedimentation or disinfection, or any other process, following biological treatment.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54037,
+    "source_ar": "المعالجة الثلاثية: مستوى المعالجة التي يمكن التوصل إليها عن طريق المعالجة الثنائية المنتهية بالترشيح والتطهير، أو بأي عملية أخرى.",
+    "target_en": "Tertiary Treatment: The process of treating wastewater through filtration and purification, or any other process, following secondary treatment.",
+    "source_ar_norm": "المعالجة الثلاثية: مستوي المعالجة التي يمكن التوصل اليها عن طريق المعالجة الثنائية المنتهية بالترشيح والتطهير، او باي عملية اخري.",
+    "target_en_norm": "tertiary treatment: the process of treating wastewater through filtration and purification, or any other process, following secondary treatment.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54038,
+    "source_ar": "الري الزراعي المقيد: ريّ المحاصيل التي لا تلامس ثمرتها المياه.",
+    "target_en": "Restricted Irrigation: Irrigation of plants the yield of which does not come into contact with water.",
+    "source_ar_norm": "الري الزراعي المقيد: ري المحاصيل التي لا تلامس ثمرتها المياه.",
+    "target_en_norm": "restricted irrigation: irrigation of plants the yield of which does not come into contact with water.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54039,
+    "source_ar": "الحمأة: مواد صلبة مترسبة ناتجة عن محطات معالجة الصرف وتُشكل خطرًا على الصحة والبيئة.",
+    "target_en": "Sludge: Precipitated solids resulting from sewage treatment plants that pose risk to health or the environment.",
+    "source_ar_norm": "الحماة: مواد صلبة مترسبة ناتجة عن محطات معالجة الصرف وتشكل خطرا علي الصحة والبيئة.",
+    "target_en_norm": "sludge: precipitated solids resulting from sewage treatment plants that pose risk to health or the environment.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54040,
+    "source_ar": "المياه المعبأة: مياه صالحة للشرب يتم تعبئتها في عبواتٍ صحيةٍ محكمة الغلق.",
+    "target_en": "Bottled Water: Potable water properly bottled and sealed.",
+    "source_ar_norm": "المياه المعباة: مياه صالحة للشرب يتم تعبئتها في عبوات صحية محكمة الغلق.",
+    "target_en_norm": "bottled water: potable water properly bottled and sealed.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54041,
+    "source_ar": "المياه غير المعبأة: المياه الصالحة للشرب التي يتم تعبئتها في عبوات غير محكمة الغلق.",
+    "target_en": "Bulk Water: Potable water in loosely sealed containers.",
+    "source_ar_norm": "المياه غير المعباة: المياه الصالحة للشرب التي يتم تعبئتها في عبوات غير محكمة الغلق.",
+    "target_en_norm": "bulk water: potable water in loosely sealed containers.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54042,
+    "source_ar": "الحقن: ضخ المياه في الطبقات الجوفية المطابقة للمعايير الفنية التي تحددها لوائح الوزارة.",
+    "target_en": "Injection: Pumping water into aquifers that meet the technical standards specified by the Ministry’s regulations.",
+    "source_ar_norm": "الحقن: ضخ المياه في الطبقات الجوفية المطابقة للمعايير الفنية التي تحددها لوائح الوزارة.",
+    "target_en_norm": "injection: pumping water into aquifers that meet the technical standards specified by the ministry’s regulations.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54043,
+    "source_ar": "حصاد المياه: التقنية الطبيعية أو الصناعية التي تستخدم في حجز وتخزين مياه الأمطار والسيول في فترات سقوطها، بطرق تختلف باختلاف الغاية من تجميعها، ومعدلات هطولها، وإعادة استخدامها عند الحاجة إليها للأغراض المختلفة سواءً حضرية، أو زراعية، أو صناعية، أو إعادة حقنها لباطن الأرض؛ لشحن الطبقات المائية لتعزيز المصادر المائية.",
+    "target_en": "Water Harvesting: Collecting and storing rainwater and floodwater naturally or artificially through various methods depending on the purpose of collection and rates of precipitation, and reusing such water for urban, agricultural, or industrial use, or for recharging underground water.",
+    "source_ar_norm": "حصاد المياه: التقنية الطبيعية او الصناعية التي تستخدم في حجز وتخزين مياه الامطار والسيول في فترات سقوطها، بطرق تختلف باختلاف الغاية من تجميعها، ومعدلات هطولها، واعادة استخدامها عند الحاجة اليها للاغراض المختلفة سواء حضرية، او زراعية، او صناعية، او اعادة حقنها لباطن الارض؛ لشحن الطبقات المائية لتعزيز المصادر المائية.",
+    "target_en_norm": "water harvesting: collecting and storing rainwater and floodwater naturally or artificially through various methods depending on the purpose of collection and rates of precipitation, and reusing such water for urban, agricultural, or industrial use, or for recharging underground water.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54044,
+    "source_ar": "خزان التحلل: خزان يحفر في باطن الأرض لاستيعاب مياه الصرف الصحي وفق شروط معينة.",
+    "target_en": "Septic Tank: An underground tank designed in accordance with certain specifications for holding wastewater.",
+    "source_ar_norm": "خزان التحلل: خزان يحفر في باطن الارض لاستيعاب مياه الصرف الصحي وفق شروط معينة.",
+    "target_en_norm": "septic tank: an underground tank designed in accordance with certain specifications for holding wastewater.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54045,
+    "source_ar": "مصايد الدهون أو الزيوت: وحدات ذات تصميم هندسي خاص متصلة بتمديدات الصرف الصحي الداخلية في المطابخ التجارية، والمطاعم، والمصانع الغذائية، والفنادق، ومحطات غسيل وتشحيم السيارات، وتعمل على فصل الدهون والزيوت والشحوم من المخلفات السائلة قبل صرفها إلى شبكة الصرف الصحي العامة أو إلى خزانات التحلل أو التجميع.",
+    "target_en": "Grease or Oil Traps: Units of a special design connected to the internal sewage system of commercial kitchens, restaurants, food factories, hotels, and car wash and lubrication stations, for the separation of fat, oil, and grease from liquid waste prior to being discharged to the public sewage system or to septic or collection tanks.",
+    "source_ar_norm": "مصايد الدهون او الزيوت: وحدات ذات تصميم هندسي خاص متصلة بتمديدات الصرف الصحي الداخلية في المطابخ التجارية، والمطاعم، والمصانع الغذائية، والفنادق، ومحطات غسيل وتشحيم السيارات، وتعمل علي فصل الدهون والزيوت والشحوم من المخلفات السائلة قبل صرفها الي شبكة الصرف الصحي العامة او الي خزانات التحلل او التجميع.",
+    "target_en_norm": "grease or oil traps: units of a special design connected to the internal sewage system of commercial kitchens, restaurants, food factories, hotels, and car wash and lubrication stations, for the separation of fat, oil, and grease from liquid waste prior to being discharged to the public sewage system or to septic or collection tanks.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54046,
+    "source_ar": "المناطق الخاصة: المجمعات السكنية والتجارية، والمدن الصناعية والتقنية والاقتصادية، والمشروعات، والمناطق الحرة والعسكرية، والمحميات الطبيعية، ونحوها.",
+    "target_en": "Special Zones: Residential and commercial complexes; industrial, technological, and economic cities; enterprises; free and military zones; nature reserves; and the like.",
+    "source_ar_norm": "المناطق الخاصة: المجمعات السكنية والتجارية، والمدن الصناعية والتقنية والاقتصادية، والمشروعات، والمناطق الحرة والعسكرية، والمحميات الطبيعية، ونحوها.",
+    "target_en_norm": "special zones: residential and commercial complexes; industrial, technological, and economic cities; enterprises; free and military zones; nature reserves; and the like.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54047,
+    "source_ar": "الفصل الثاني: أهداف النظام ونطاق التطبيق",
+    "target_en": "Chapter 2: Objectives and Scope of Application",
+    "source_ar_norm": "الفصل الثاني: اهداف النظام ونطاق التطبيق",
+    "target_en_norm": "chapter 2: objectives and scope of application",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54048,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54049,
+    "source_ar": "يهدف النظام إلى الآتي:",
+    "target_en": "This Law aims to:",
+    "source_ar_norm": "يهدف النظام الي الاتي:",
+    "target_en_norm": "this law aims to:",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54050,
+    "source_ar": "1. المحافظة على مصادر المياه، وتنميتها، وحمايتها، وضمان استدامتها، وإدارتها، وتنظيم شؤونها، والحقوق المتعلقة بها، وبأوجه استخدامها.",
+    "target_en": "1. preserve, develop, and protect water resources; ensure their sustainability; and manage and regulate such resources, as well as rights related thereto and to their uses;",
+    "source_ar_norm": "1. المحافظة علي مصادر المياه، وتنميتها، وحمايتها، وضمان استدامتها، وادارتها، وتنظيم شؤونها، والحقوق المتعلقة بها، وباوجه استخدامها.",
+    "target_en_norm": "1. preserve, develop, and protect water resources; ensure their sustainability; and manage and regulate such resources, as well as rights related thereto and to their uses;",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54051,
+    "source_ar": "2. ضمان توفير إمدادات المياه بشكل آمن، ونظيف، وموثوق به، وبجودة عالية، وبأسعار تنافسية معقولة، تحقق العدالة بين المستهلكين، مع حصول كل شخص على المياه لتلبية حاجاته.",
+    "target_en": "2. ensure the fair provision of safe, clean, reliable, high-quality water supplies to consumers at reasonable competitive prices, to meet their needs;",
+    "source_ar_norm": "2. ضمان توفير امدادات المياه بشكل امن، ونظيف، وموثوق به، وبجودة عالية، وباسعار تنافسية معقولة، تحقق العدالة بين المستهلكين، مع حصول كل شخص علي المياه لتلبية حاجاته.",
+    "target_en_norm": "2. ensure the fair provision of safe, clean, reliable, high-quality water supplies to consumers at reasonable competitive prices, to meet their needs;",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54052,
+    "source_ar": "3. تعزيز مشاركة القطاع الخاص في الأنشطة الخاضعة للنظام، وتعزيز الحوكمة الفاعلة.",
+    "target_en": "3. enhance the private sector’s engagement in activities subject to this Law, and promote effective governance;",
+    "source_ar_norm": "3. تعزيز مشاركة القطاع الخاص في الانشطة الخاضعة للنظام، وتعزيز الحوكمة الفاعلة.",
+    "target_en_norm": "3. enhance the private sector’s engagement in activities subject to this law, and promote effective governance;",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54053,
+    "source_ar": "4. حصول كل شخص على مياه نظيفة، وآمنة، ومطابقة للمواصفات المعتمدة؛ لتلبية احتياجاته الطبيعية، على أساس من العدل؛ وفقًا للمعايير والخطط والبرامج المعتمدة.",
+    "target_en": "4. fulfill consumers’ needs by providing access to clean and safe water that meets approved specifications in accordance with approved standards, plans, and programs; and",
+    "source_ar_norm": "4. حصول كل شخص علي مياه نظيفة، وامنة، ومطابقة للمواصفات المعتمدة؛ لتلبية احتياجاته الطبيعية، علي اساس من العدل؛ وفقا للمعايير والخطط والبرامج المعتمدة.",
+    "target_en_norm": "4. fulfill consumers’ needs by providing access to clean and safe water that meets approved specifications in accordance with approved standards, plans, and programs; and",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54054,
+    "source_ar": "5. ضمان توفير إمدادات المياه للقطاع الزراعي بما يضمن استدامة هذا القطاع.",
+    "target_en": "5. ensure the provision of water supplies to the agricultural sector to maintain its sustainability.",
+    "source_ar_norm": "5. ضمان توفير امدادات المياه للقطاع الزراعي بما يضمن استدامة هذا القطاع.",
+    "target_en_norm": "5. ensure the provision of water supplies to the agricultural sector to maintain its sustainability.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54055,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54056,
+    "source_ar": "فيما عدا مياه زمزم؛ تُطَبَّقُ أحكام النظام على جميع مصادر وشؤون المياه في المملكة بما فيها المناطق الخاصة.",
+    "target_en": "The provisions of this Law shall, except for Zamzam water, apply to all water resources and water-related matters in the Kingdom, including special zones.",
+    "source_ar_norm": "فيما عدا مياه زمزم؛ تطبق احكام النظام علي جميع مصادر وشؤون المياه في المملكة بما فيها المناطق الخاصة.",
+    "target_en_norm": "the provisions of this law shall, except for zamzam water, apply to all water resources and water-related matters in the kingdom, including special zones.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54057,
+    "source_ar": "الفصل الثالث: المهمات والمسؤوليات",
+    "target_en": "Chapter 3: Duties and Responsibilities",
+    "source_ar_norm": "الفصل الثالث: المهمات والمسؤوليات",
+    "target_en_norm": "chapter 3: duties and responsibilities",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54058,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54059,
+    "source_ar": "1. تتولى الوزارة القيام بالآتي:",
+    "target_en": "1. The Ministry shall:",
+    "source_ar_norm": "1. تتولي الوزارة القيام بالاتي:",
+    "target_en_norm": "1. the ministry shall:",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54060,
+    "source_ar": "أ- إعداد واعتماد الخطط والبرامج التطويرية لمصادر المياه، وإمداداتها، واستخداماتها، ومعالجتها (على المدى القصير والمتوسط والبعيد).",
+    "target_en": "a) set and approve short, medium, and long term development plans and programs for water resources, supplies, uses, and treatment;",
+    "source_ar_norm": "ا- اعداد واعتماد الخطط والبرامج التطويرية لمصادر المياه، وامداداتها، واستخداماتها، ومعالجتها (علي المدي القصير والمتوسط والبعيد).",
+    "target_en_norm": "a) set and approve short, medium, and long term development plans and programs for water resources, supplies, uses, and treatment;",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54061,
+    "source_ar": "ب- إعداد الخطط طويلة المدى للمياه بالتنسيق مع الهيئة والجهات المعنية، واعتمادها.",
+    "target_en": "b) set and approve long-term plans for water in coordination with the Authority and relevant agencies;",
+    "source_ar_norm": "ب- اعداد الخطط طويلة المدي للمياه بالتنسيق مع الهيئة والجهات المعنية، واعتمادها.",
+    "target_en_norm": "b) set and approve long-term plans for water in coordination with the authority and relevant agencies;",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54062,
+    "source_ar": "ج- إعداد خطط ومعايير الخزن الاستراتيجي للمياه، وأوجه استخداماتها، واعتمادها.",
+    "target_en": "c) set and approve plans and standards for strategic water storage and uses thereof;",
+    "source_ar_norm": "ج- اعداد خطط ومعايير الخزن الاستراتيجي للمياه، واوجه استخداماتها، واعتمادها.",
+    "target_en_norm": "c) set and approve plans and standards for strategic water storage and uses thereof;",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54063,
+    "source_ar": "د- إعداد خطط لتشجيع القطاع الخاص وجذبه للمشاركة في أنشطة ومشاريع مصادر المياه، وفق السياسات والاستراتيجيات الوطنية المعتمدة، وذلك بالتنسيق مع الجهات المعنية.",
+    "target_en": "d) set plans to encourage the participation of the private sector in water resources activities and projects, in accordance with approved national policies and strategies, and in coordination with relevant agencies;",
+    "source_ar_norm": "د- اعداد خطط لتشجيع القطاع الخاص وجذبه للمشاركة في انشطة ومشاريع مصادر المياه، وفق السياسات والاستراتيجيات الوطنية المعتمدة، وذلك بالتنسيق مع الجهات المعنية.",
+    "target_en_norm": "d) set plans to encourage the participation of the private sector in water resources activities and projects, in accordance with approved national policies and strategies, and in coordination with relevant agencies;",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54064,
+    "source_ar": "هـ- إعداد واعتماد خطط إدارة الطوارئ والكوارث التي تؤثر على مصادر المياه، أو إمداداتها، أو استخدامها، أو معالجتها؛ وذلك للتحكم في مخزون المياه، ومصادرها، وتوزيعها، بالتنسيق مع الهيئة والجهات المعنية.",
+    "target_en": "e) set and approve plans for the management of emergencies and disasters that affect water resources, supplies, uses or treatment to protect water reserves and resources, and its distribution, in coordination with the Authority and relevant agencies; and",
+    "source_ar_norm": "ه- اعداد واعتماد خطط ادارة الطوارئ والكوارث التي تؤثر علي مصادر المياه، او امداداتها، او استخدامها، او معالجتها؛ وذلك للتحكم في مخزون المياه، ومصادرها، وتوزيعها، بالتنسيق مع الهيئة والجهات المعنية.",
+    "target_en_norm": "e) set and approve plans for the management of emergencies and disasters that affect water resources, supplies, uses or treatment to protect water reserves and resources, and its distribution, in coordination with the authority and relevant agencies; and",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54065,
+    "source_ar": "و- إيصال المياه للتجمعات السكانية المعتمدة في حال عدم وجود مرخَّص لهم بنشاط تقديم الخدمة في تلك التجمعات.",
+    "target_en": "f) monitor water resources.",
+    "source_ar_norm": "و- ايصال المياه للتجمعات السكانية المعتمدة في حال عدم وجود مرخص لهم بنشاط تقديم الخدمة في تلك التجمعات.",
+    "target_en_norm": "f) monitor water resources.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54066,
+    "source_ar": "ز- مراقبة مصادر المياه.",
+    "target_en": "2. The Minister shall, in the event of an emergency or a natural or man-made disaster that leads to water scarcity or pollution, declare a water state of emergency and take extraordinary measures in coordination with the National Risk Unit.",
+    "source_ar_norm": "ز- مراقبة مصادر المياه.",
+    "target_en_norm": "2. the minister shall, in the event of an emergency or a natural or man-made disaster that leads to water scarcity or pollution, declare a water state of emergency and take extraordinary measures in coordination with the national risk unit.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54067,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54068,
+    "source_ar": "1. تتولى الهيئة فيما يتعلق بأنشطة تقديم الخدمة -بالإضافة إلى المهمات المنصوص عليها في تنظيمها- الآتي:",
+    "target_en": "1. The Authority shall, with regard to service provision activities and in addition to duties stipulated in its Statute, undertake the following:",
+    "source_ar_norm": "1. تتولي الهيئة فيما يتعلق بانشطة تقديم الخدمة -بالاضافة الي المهمات المنصوص عليها في تنظيمها- الاتي:",
+    "target_en_norm": "1. the authority shall, with regard to service provision activities and in addition to duties stipulated in its statute, undertake the following:",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54069,
+    "source_ar": "أ- اعتماد الخطط التنفيذية التي يعدها المرخَّص لهم بتقديم الخدمة؛ وفقاً للخطة الطويلة المدى التي تعتمدها الوزارة.",
+    "target_en": "a) Approving the executive plans set by the licensed service providers in line with the long-term plan approved by the Ministry.",
+    "source_ar_norm": "ا- اعتماد الخطط التنفيذية التي يعدها المرخص لهم بتقديم الخدمة؛ وفقا للخطة الطويلة المدي التي تعتمدها الوزارة.",
+    "target_en_norm": "a) approving the executive plans set by the licensed service providers in line with the long-term plan approved by the ministry.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54070,
+    "source_ar": "ب- اتخاذ الإجراءات الضرورية لتوفير كميات إضافية من مياه الاستخدام الحضري في حال توقع حدوث نقص واضح في إمداداتها، وذلك بناءً على ما تقتضيه المصلحة العامة.",
+    "target_en": "b) Taking necessary measures to provide additional water supplies for urban use in the event of anticipated shortages, as dictated by public interest.",
+    "source_ar_norm": "ب- اتخاذ الاجراءات الضرورية لتوفير كميات اضافية من مياه الاستخدام الحضري في حال توقع حدوث نقص واضح في امداداتها، وذلك بناء علي ما تقتضيه المصلحة العامة.",
+    "target_en_norm": "b) taking necessary measures to provide additional water supplies for urban use in the event of anticipated shortages, as dictated by public interest.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54071,
+    "source_ar": "ج- تنظيم جميع العقود الخاصة ببيع مياه الصرف المعالجة وذلك بحسب الاستراتيجية الوطنية للمياه.",
+    "target_en": "c) Regulating all contracts for the sale of treated wastewater, in accordance with the National Water Strategy.",
+    "source_ar_norm": "ج- تنظيم جميع العقود الخاصة ببيع مياه الصرف المعالجة وذلك بحسب الاستراتيجية الوطنية للمياه.",
+    "target_en_norm": "c) regulating all contracts for the sale of treated wastewater, in accordance with the national water strategy.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54072,
+    "source_ar": "د- البت في المسائل والأمور والشكاوى المتعلقة بأنشطة تقديم الخدمة التي تثيرها الأطراف المعنية، وبخاصة المستهلكون، أو المرخَّص لهم.",
+    "target_en": "d) Settling matters and complaints related to service provision activities raised by the relevant parties, especially consumers and licensees.",
+    "source_ar_norm": "د- البت في المسائل والامور والشكاوي المتعلقة بانشطة تقديم الخدمة التي تثيرها الاطراف المعنية، وبخاصة المستهلكون، او المرخص لهم.",
+    "target_en_norm": "d) settling matters and complaints related to service provision activities raised by the relevant parties, especially consumers and licensees.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54073,
+    "source_ar": "2. يجوز بقرار من مجلس الإدارة -وفقًا لتطور قطاع المياه- تحديد أنشطة معينة لتكون ضمن أنشطة تقديم الخدمة، أو ألا تستمر في بقائها ضمن تلك الأنشطة التي تتطلب رخصة، كما يجوز بقرار من مجلس الإدارة إنشاء أنواع جديدة من رخص تقديم الخدمة، أو تعديلها حسب ما تقرره لوائح الهيئة.",
+    "target_en": "2. The Board may, in line with developments in the water sector, include or remove certain activities from the list of service provision activities that require a license. The Board may create or amend new types of service provision licenses in accordance with the Authority’s regulations.",
+    "source_ar_norm": "2. يجوز بقرار من مجلس الادارة -وفقا لتطور قطاع المياه- تحديد انشطة معينة لتكون ضمن انشطة تقديم الخدمة، او الا تستمر في بقائها ضمن تلك الانشطة التي تتطلب رخصة، كما يجوز بقرار من مجلس الادارة انشاء انواع جديدة من رخص تقديم الخدمة، او تعديلها حسب ما تقرره لوائح الهيئة.",
+    "target_en_norm": "2. the board may, in line with developments in the water sector, include or remove certain activities from the list of service provision activities that require a license. the board may create or amend new types of service provision licenses in accordance with the authority’s regulations.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54074,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54075,
+    "source_ar": "1. على الوزارة والهيئة -كلٌّ فيما يخصه- تزويد مؤسسات القطاع الخاص بالمعلومات التي تمكنهم من اتخاذ قراراتهم، وإعداد دراسات الجدوى الخاصة بالاستثمار في أنشطة استخدام مصادر المياه، وتنميتها، أو أنشطة تقديم الخدمة، أو في الأنشطة والمشاريع المائية الأخرى.",
+    "target_en": "1. The Ministry and Authority, each within its jurisdiction, shall provide private sector establishments with information necessary for making informed decisions and conducting feasibility studies on investment in the utilization and development of water resources, service provision, or any other water activities and projects.",
+    "source_ar_norm": "1. علي الوزارة والهيئة -كل فيما يخصه- تزويد مؤسسات القطاع الخاص بالمعلومات التي تمكنهم من اتخاذ قراراتهم، واعداد دراسات الجدوي الخاصة بالاستثمار في انشطة استخدام مصادر المياه، وتنميتها، او انشطة تقديم الخدمة، او في الانشطة والمشاريع المائية الاخري.",
+    "target_en_norm": "1. the ministry and authority, each within its jurisdiction, shall provide private sector establishments with information necessary for making informed decisions and conducting feasibility studies on investment in the utilization and development of water resources, service provision, or any other water activities and projects.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54076,
+    "source_ar": "2. يجب على جميع الجهات الحكومية والخاصة ومراكز الأبحاث والأفراد المرخَّص لهم؛ تزويد الوزارة والهيئة بالمعلومات والعينات والوثائق اللازمة؛ للقيام بمهماتهما بموجب أحكام النظام.",
+    "target_en": "2. All government agencies and private entities, research centers, and licensed individuals shall provide the Ministry and the Authority with the information, samples, and documents necessary for carrying out their duties as stipulated in this Law.",
+    "source_ar_norm": "2. يجب علي جميع الجهات الحكومية والخاصة ومراكز الابحاث والافراد المرخص لهم؛ تزويد الوزارة والهيئة بالمعلومات والعينات والوثائق اللازمة؛ للقيام بمهماتهما بموجب احكام النظام.",
+    "target_en_norm": "2. all government agencies and private entities, research centers, and licensed individuals shall provide the ministry and the authority with the information, samples, and documents necessary for carrying out their duties as stipulated in this law.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54077,
+    "source_ar": "الفصل الرابع: مصادر المياه وملكيتها",
+    "target_en": "Chapter 4: Water Resources and Ownership",
+    "source_ar_norm": "الفصل الرابع: مصادر المياه وملكيتها",
+    "target_en_norm": "chapter 4: water resources and ownership",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54078,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54079,
+    "source_ar": "تشمل مصادرُ المياه ما يأتي:",
+    "target_en": "Water resources shall include:",
+    "source_ar_norm": "تشمل مصادر المياه ما ياتي:",
+    "target_en_norm": "water resources shall include:",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54080,
+    "source_ar": "1. المياه السطحية.",
+    "target_en": "1. surface water; and",
+    "source_ar_norm": "1. المياه السطحية.",
+    "target_en_norm": "1. surface water; and",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54081,
+    "source_ar": "2. المياه الجوفية المتجددة، وغير المتجددة.",
+    "target_en": "2. renewable and non-renewable groundwater.",
+    "source_ar_norm": "2. المياه الجوفية المتجددة، وغير المتجددة.",
+    "target_en_norm": "2. renewable and non-renewable groundwater.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54082,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54083,
+    "source_ar": "دون إخلال بالحقوق المُقررة شرعًا، تُعد مصادر المياه ملكًا عامًا، يتم الانتفاع بها طبقًا لأحكام النظام والأنظمة الأخرى.",
+    "target_en": "Without prejudice to rights prescribed by Sharia, water resources shall be deemed public property and shall be utilized in accordance with the provisions of this Law and other laws.",
+    "source_ar_norm": "دون اخلال بالحقوق المقررة شرعا، تعد مصادر المياه ملكا عاما، يتم الانتفاع بها طبقا لاحكام النظام والانظمة الاخري.",
+    "target_en_norm": "without prejudice to rights prescribed by sharia, water resources shall be deemed public property and shall be utilized in accordance with the provisions of this law and other laws.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54084,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54085,
+    "source_ar": "1. فيما عدا مياه البحر، لا يجوز لأي شخص استخدام أي مصدر مائي، أو تنميته، أو الإعداد لذلك إلا بعد الحصول على الرخصة اللازمة؛ وفقًا للمقابل المالي للرخصة الذي تحدده اللجنة الوزارية، والاشتراطات التي تحددها الوزارة.",
+    "target_en": "1. A person may not use, develop, or prepare to develop any water resource, other than seawater, without obtaining the necessary license. The license fee and requirements shall be determined by the Ministerial Committee and the Ministry respectively.",
+    "source_ar_norm": "1. فيما عدا مياه البحر، لا يجوز لاي شخص استخدام اي مصدر مائي، او تنميته، او الاعداد لذلك الا بعد الحصول علي الرخصة اللازمة؛ وفقا للمقابل المالي للرخصة الذي تحدده اللجنة الوزارية، والاشتراطات التي تحددها الوزارة.",
+    "target_en_norm": "1. a person may not use, develop, or prepare to develop any water resource, other than seawater, without obtaining the necessary license. the license fee and requirements shall be determined by the ministerial committee and the ministry respectively.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54086,
+    "source_ar": "2. يُشترط لإقامة محطة تحلية في موقع محدد على البحر الحصول على موافقة مسبقة من الوزارة على إقامة تلك المحطة في ذلك الموقع.",
+    "target_en": "2. The establishment of a desalination plant at a specific location on the sea shall require the prior approval of the Ministry.",
+    "source_ar_norm": "2. يشترط لاقامة محطة تحلية في موقع محدد علي البحر الحصول علي موافقة مسبقة من الوزارة علي اقامة تلك المحطة في ذلك الموقع.",
+    "target_en_norm": "2. the establishment of a desalination plant at a specific location on the sea shall require the prior approval of the ministry.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54087,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54088,
+    "source_ar": "للوزارة الحق في فرض تركيب عدادات؛ لقياس تدفق المياه من الآبار الواقعة في الطبقات الحاملة للمياه غير المتجددة؛ لمراقبة وتنظيم كمية استهلاك وترشيد استخدامها؛ وفقًا للمقننات المائية، وللجنة الوزارية النظر في فرض مقابل مالي إذا زاد عن المقنن المائي.",
+    "target_en": "The Ministry may require the installation of meters to measure water flow from wells located in non-renewable water-bearing layers in order to monitor and regulate water consumption and rationalize its use in accordance with water duties; the Ministerial Committee may impose a fee if consumption exceeds the water duty.",
+    "source_ar_norm": "للوزارة الحق في فرض تركيب عدادات؛ لقياس تدفق المياه من الابار الواقعة في الطبقات الحاملة للمياه غير المتجددة؛ لمراقبة وتنظيم كمية استهلاك وترشيد استخدامها؛ وفقا للمقننات المائية، وللجنة الوزارية النظر في فرض مقابل مالي اذا زاد عن المقنن المائي.",
+    "target_en_norm": "the ministry may require the installation of meters to measure water flow from wells located in non-renewable water-bearing layers in order to monitor and regulate water consumption and rationalize its use in accordance with water duties; the ministerial committee may impose a fee if consumption exceeds the water duty.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54089,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54090,
+    "source_ar": "لا تنتقل تراخيص استخدام مصادر مياه الآبار تبعًا لنقل ملكية الأرض المشتملة على المصدر إلا بعد موافقة الوزارة.",
+    "target_en": "Licenses for use of well water shall not be transferred upon the transfer of ownership of the land where the well is located, except upon the Ministry’s approval.",
+    "source_ar_norm": "لا تنتقل تراخيص استخدام مصادر مياه الابار تبعا لنقل ملكية الارض المشتملة علي المصدر الا بعد موافقة الوزارة.",
+    "target_en_norm": "licenses for use of well water shall not be transferred upon the transfer of ownership of the land where the well is located, except upon the ministry’s approval.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54091,
+    "source_ar": "الفصل الخامس: استخدام المياه",
+    "target_en": "Chapter 5: Water Utilization",
+    "source_ar_norm": "الفصل الخامس: استخدام المياه",
+    "target_en_norm": "chapter 5: water utilization",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54092,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54093,
+    "source_ar": "يكون استخدام المياه وتخصيصها وفقًا للأولويات الآتية على الترتيب:",
+    "target_en": "Water utilization and allocation shall be prioritized in the following order:",
+    "source_ar_norm": "يكون استخدام المياه وتخصيصها وفقا للاولويات الاتية علي الترتيب:",
+    "target_en_norm": "water utilization and allocation shall be prioritized in the following order:",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54094,
+    "source_ar": "1. الاحتياجات البشرية الأساسية.",
+    "target_en": "1. Basic human needs.",
+    "source_ar_norm": "1. الاحتياجات البشرية الاساسية.",
+    "target_en_norm": "1. basic human needs.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54095,
+    "source_ar": "2. سقيا الحيوانات.",
+    "target_en": "2. Animal drinking needs.",
+    "source_ar_norm": "2. سقيا الحيوانات.",
+    "target_en_norm": "2. animal drinking needs.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54096,
+    "source_ar": "3. الطلب الزراعي والعمراني والصناعي، والحد الأدنى للتوازن البيئي، ونحوها من الأغراض. وتحدد الأولويات في هذه الحالة بقرار من اللجنة الوزارية بناءً على اقتراح الوزارة.",
+    "target_en": "3. Meeting agricultural, urban, and industrial demand as well as the minimum ecological balance, and other similar purposes. Prioritization of such purposes shall be determined pursuant to a decision by the Ministerial Committee based on the Ministry’s recommendation.",
+    "source_ar_norm": "3. الطلب الزراعي والعمراني والصناعي، والحد الادني للتوازن البيئي، ونحوها من الاغراض. وتحدد الاولويات في هذه الحالة بقرار من اللجنة الوزارية بناء علي اقتراح الوزارة.",
+    "target_en_norm": "3. meeting agricultural, urban, and industrial demand as well as the minimum ecological balance, and other similar purposes. prioritization of such purposes shall be determined pursuant to a decision by the ministerial committee based on the ministry’s recommendation.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54097,
+    "source_ar": "المادة الثالثة عشرة",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة",
+    "target_en_norm": "article 13",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54098,
+    "source_ar": "تلتزم الجهات الحكومية والقطاع الخاص -عند إعداد الخطط الوطنية والتنموية- بالتنسيق مع الوزارة فيما يتعلق بالاحتياجات المائية اللازمة لتلك الخطط.",
+    "target_en": "Government agencies and the private sector shall, upon setting national and development plans, coordinate with the Ministry regarding the water needs for such plans.",
+    "source_ar_norm": "تلتزم الجهات الحكومية والقطاع الخاص -عند اعداد الخطط الوطنية والتنموية- بالتنسيق مع الوزارة فيما يتعلق بالاحتياجات المائية اللازمة لتلك الخطط.",
+    "target_en_norm": "government agencies and the private sector shall, upon setting national and development plans, coordinate with the ministry regarding the water needs for such plans.",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54099,
+    "source_ar": "المادة الرابعة عشرة",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة",
+    "target_en_norm": "article 14",
+    "file_name": "نظام المياه.docx"
+  },
+  {
+    "id": 54100,
+    "source_ar": "على جميع الجهات العامة والخاصة موافاة الوزارة بأي مؤشر أو تغير ترصده في أي مصدر من مصادر المياه التابعة لها، وعلى الوزارة متابعة ذلك.",
+    "target_en": "Public and private agencies shall notify the Ministry of any changes in their water resources, and the Ministry shall take necessary action.",
+    "source_ar_norm": "علي جميع الجهات العامة والخاصة موافاة الوزارة باي مؤشر او تغير ترصده في اي مصدر من مصادر المياه التابعة لها، وعلي الوزارة متابعة ذلك.",
+    "target_en_norm": "public and private agencies shall notify the ministry of any changes in their water resources, and the ministry shall take necessary action.",
+    "file_name": "نظام المياه.docx"
+  }
+]

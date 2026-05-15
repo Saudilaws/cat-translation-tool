@@ -1,0 +1,802 @@
+[
+  {
+    "id": 58501,
+    "source_ar": "المادة السابعة عشرة",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة",
+    "target_en_norm": "article 17",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58502,
+    "source_ar": "يجب أن تتضمن اللوائح الفنية جميع المعلومات والمتطلبات التي يتحقق من خلالها من سلامة المنتج للاستخدام أو الاستهلاك، وأن يكون من بينها ما يأتي:",
+    "target_en": "The technical regulations must include all the information and requirements necessary to ensure the safety of a product for use or consumption, including the following:",
+    "source_ar_norm": "يجب ان تتضمن اللوائح الفنية جميع المعلومات والمتطلبات التي يتحقق من خلالها من سلامة المنتج للاستخدام او الاستهلاك، وان يكون من بينها ما ياتي:",
+    "target_en_norm": "the technical regulations must include all the information and requirements necessary to ensure the safety of a product for use or consumption, including the following:",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58503,
+    "source_ar": "1. المتطلبات الأساسية والمتطلبات الأخرى التي تنطبق على المنتج أو فئة المنتج.",
+    "target_en": "1. Essential requirements and other requirements that apply to the product or product category.",
+    "source_ar_norm": "1. المتطلبات الاساسية والمتطلبات الاخري التي تنطبق علي المنتج او فئة المنتج.",
+    "target_en_norm": "1. essential requirements and other requirements that apply to the product or product category.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58504,
+    "source_ar": "2. الإحالة للمواصفات السعودية أو الوطنية أو الإقليمية أو الدولية.",
+    "target_en": "2. Reference to Saudi, national, regional, or international standards.",
+    "source_ar_norm": "2. الاحالة للمواصفات السعودية او الوطنية او الاقليمية او الدولية.",
+    "target_en_norm": "2. reference to saudi, national, regional, or international standards.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58505,
+    "source_ar": "3. طريقة تقييم المخاطر التي تنطبق على المنتج أو فئة المنتج.",
+    "target_en": "3. Risk assessment method applicable to the product or product category.",
+    "source_ar_norm": "3. طريقة تقييم المخاطر التي تنطبق علي المنتج او فئة المنتج.",
+    "target_en_norm": "3. risk assessment method applicable to the product or product category.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58506,
+    "source_ar": "4. إجراءات تقويم المطابقة على المنتج أو فئة المنتج.",
+    "target_en": "4. Conformity assessment procedures for the product or product category.",
+    "source_ar_norm": "4. اجراءات تقويم المطابقة علي المنتج او فئة المنتج.",
+    "target_en_norm": "4. conformity assessment procedures for the product or product category.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58507,
+    "source_ar": "5. نوع وطبيعة المعلومات المقدمة إلى المستهلك.",
+    "target_en": "5. Type and nature of information provided to the consumer.",
+    "source_ar_norm": "5. نوع وطبيعة المعلومات المقدمة الي المستهلك.",
+    "target_en_norm": "5. type and nature of information provided to the consumer.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58508,
+    "source_ar": "6. تحديد المحتويات وشكل الوثائق الفنية لإعدادها وتوفيرها.",
+    "target_en": "6. Designation of the contents and format of the technical documents for preparation and provision thereof.",
+    "source_ar_norm": "6. تحديد المحتويات وشكل الوثائق الفنية لاعدادها وتوفيرها.",
+    "target_en_norm": "6. designation of the contents and format of the technical documents for preparation and provision thereof.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58509,
+    "source_ar": "7. المتطلبات المتعلقة بالمصطلحات والرموز المستخدمة والتعبئة؛ ووضع علامات أو شارات على المنتج.",
+    "target_en": "7. Requirements relating to the terminology and codes used, the packaging, and the placing of marks or labels on the product.",
+    "source_ar_norm": "7. المتطلبات المتعلقة بالمصطلحات والرموز المستخدمة والتعبئة؛ ووضع علامات او شارات علي المنتج.",
+    "target_en_norm": "7. requirements relating to the terminology and codes used, the packaging, and the placing of marks or labels on the product.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58510,
+    "source_ar": "المادة الثامنة عشرة",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة",
+    "target_en_norm": "article 18",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58511,
+    "source_ar": "يلتزم الصانع والممثل المعتمد والمستورد، الذي يضع في الأسواق منتجًا يخضع للائحة فنية، بما يأتي:",
+    "target_en": "The manufacturer, authorized representative, and importer who places on the market a product that is subject to the technical regulations shall undertake the following:",
+    "source_ar_norm": "يلتزم الصانع والممثل المعتمد والمستورد، الذي يضع في الاسواق منتجا يخضع للائحة فنية، بما ياتي:",
+    "target_en_norm": "the manufacturer, authorized representative, and importer who places on the market a product that is subject to the technical regulations shall undertake the following:",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58512,
+    "source_ar": "1. تقييم مدى مطابقة المنتج للمتطلبات من خلال تطبيق إجراء تقويم المطابقة؛ وفقًا للوائح أو اللوائح الفنية.",
+    "target_en": "1. Assess the extent of product conformity to the requirements by conducting a conformity assessment, in accordance with the Regulations or the technical regulations.",
+    "source_ar_norm": "1. تقييم مدي مطابقة المنتج للمتطلبات من خلال تطبيق اجراء تقويم المطابقة؛ وفقا للوائح او اللوائح الفنية.",
+    "target_en_norm": "1. assess the extent of product conformity to the requirements by conducting a conformity assessment, in accordance with the regulations or the technical regulations.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58513,
+    "source_ar": "2. تكليف إحدى الجهات المقبولة إذا لزم تدخل جهة تقويم المطابقة في إجراء تقويم المطابقة.",
+    "target_en": "2. Assign a notified body if it becomes necessary for a conformity assessment body to conduct a conformity assessment.",
+    "source_ar_norm": "2. تكليف احدي الجهات المقبولة اذا لزم تدخل جهة تقويم المطابقة في اجراء تقويم المطابقة.",
+    "target_en_norm": "2. assign a notified body if it becomes necessary for a conformity assessment body to conduct a conformity assessment.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58514,
+    "source_ar": "3. أن يعد ملفًّا فنيًّا كاملًا يشتمل على جميع الوثائق اللازمة لإثبات أن المنتج يتوافق مع المتطلبات المنصوص عليها في اللوائح الفنية.",
+    "target_en": "3. Prepare a complete technical file containing all the documents necessary to establish that the product meets the requirements provided for in the technical regulations.",
+    "source_ar_norm": "3. ان يعد ملفا فنيا كاملا يشتمل علي جميع الوثائق اللازمة لاثبات ان المنتج يتوافق مع المتطلبات المنصوص عليها في اللوائح الفنية.",
+    "target_en_norm": "3. prepare a complete technical file containing all the documents necessary to establish that the product meets the requirements provided for in the technical regulations.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58515,
+    "source_ar": "4. إصدار إقرار مطابقة يؤكد فيه -تحت مسؤوليته الخاصة -أن المنتج يتوافق مع جميع المتطلبات، بما في ذلك تلك المنصوص عليها في اللوائح الفنية.",
+    "target_en": "4. Issue a declaration of conformity in which he certifies, under his responsibility, that the product meets all requirements, including those provided for in the technical regulations.",
+    "source_ar_norm": "4. اصدار اقرار مطابقة يؤكد فيه -تحت مسؤوليته الخاصة -ان المنتج يتوافق مع جميع المتطلبات، بما في ذلك تلك المنصوص عليها في اللوائح الفنية.",
+    "target_en_norm": "4. issue a declaration of conformity in which he certifies, under his responsibility, that the product meets all requirements, including those provided for in the technical regulations.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58516,
+    "source_ar": "5. وضع شارة المطابقة الوطنية أو الإقليمية على المنتج؛ وفقاً للإجراءات والشروط المنصوص عليها في اللوائح.",
+    "target_en": "5. Place the national or regional conformity mark on the product in accordance with the procedures and conditions provided for in the Regulations.",
+    "source_ar_norm": "5. وضع شارة المطابقة الوطنية او الاقليمية علي المنتج؛ وفقا للاجراءات والشروط المنصوص عليها في اللوائح.",
+    "target_en_norm": "5. place the national or regional conformity mark on the product in accordance with the procedures and conditions provided for in the regulations.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58517,
+    "source_ar": "تحدد اللوائح مسؤوليات وواجبات كل من الصانع والممثل المعتمد والمستورد وفقاً لما جاء في حكم هذه المادة.",
+    "target_en": "The Regulations shall specify the responsibilities and duties of the manufacturer, authorized representative, and importer in accordance with the provisions of this Article.",
+    "source_ar_norm": "تحدد اللوائح مسؤوليات وواجبات كل من الصانع والممثل المعتمد والمستورد وفقا لما جاء في حكم هذه المادة.",
+    "target_en_norm": "the regulations shall specify the responsibilities and duties of the manufacturer, authorized representative, and importer in accordance with the provisions of this article.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58518,
+    "source_ar": "الباب الخامس جهات تقويم المطابقة",
+    "target_en": "Part 5: Conformity Assessment Bodies",
+    "source_ar_norm": "الباب الخامس جهات تقويم المطابقة",
+    "target_en_norm": "part 5: conformity assessment bodies",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58519,
+    "source_ar": "المادة التاسعة عشرة",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة",
+    "target_en_norm": "article 19",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58520,
+    "source_ar": "في حال فرضت اللوائح الفنية ذات الصلة بالمنتج تدخل جهة تقويم المطابقة لإجراء تقويم مطابقة محدد؛ فيجب على المسؤول عن وضع المنتج في السوق أن يسند مهمة إجراء تقويم المطابقة إلى إحدى الجهات المقبولة.",
+    "target_en": "If the technical regulations relevant to the product require a conformity assessment body to conduct a specific conformity assessment, the person in charge of placing the product on the market shall assign such assessment to a notified body.",
+    "source_ar_norm": "في حال فرضت اللوائح الفنية ذات الصلة بالمنتج تدخل جهة تقويم المطابقة لاجراء تقويم مطابقة محدد؛ فيجب علي المسؤول عن وضع المنتج في السوق ان يسند مهمة اجراء تقويم المطابقة الي احدي الجهات المقبولة.",
+    "target_en_norm": "if the technical regulations relevant to the product require a conformity assessment body to conduct a specific conformity assessment, the person in charge of placing the product on the market shall assign such assessment to a notified body.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58521,
+    "source_ar": "المادة العشرون",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون",
+    "target_en_norm": "article 20",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58522,
+    "source_ar": "يحق للجهات المختصة الاستعانة بخدمات جهات تقويم المطابقة على أن تكون مقبولة من الهيئة للقيام بإجراء تقويم المطابقة لمنتَج محدد وفقًا لأحكام النظام واللوائح.",
+    "target_en": "The competent authorities may seek assistance from conformity assessment bodies recognized by the Organization to conduct the conformity assessment of a specific product in accordance with the provisions of this Law and the Regulations.",
+    "source_ar_norm": "يحق للجهات المختصة الاستعانة بخدمات جهات تقويم المطابقة علي ان تكون مقبولة من الهيئة للقيام باجراء تقويم المطابقة لمنتج محدد وفقا لاحكام النظام واللوائح.",
+    "target_en_norm": "the competent authorities may seek assistance from conformity assessment bodies recognized by the organization to conduct the conformity assessment of a specific product in accordance with the provisions of this law and the regulations.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58523,
+    "source_ar": "المادة الحادية والعشرون",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون",
+    "target_en_norm": "article 21",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58524,
+    "source_ar": "تلتزم الجهات المقبولة بالمحافظة على السرية المهنية في كل ما يتعلق بالوقائع والممارسات والمعلومات التي تطلع عليها من خلال المهمات الموكولة إليها في إطار القبول.",
+    "target_en": "Notified bodies shall maintain professional confidentiality in all matters relating to the facts, practices, and information they become privy to in the performance of the tasks assigned thereto.",
+    "source_ar_norm": "تلتزم الجهات المقبولة بالمحافظة علي السرية المهنية في كل ما يتعلق بالوقائع والممارسات والمعلومات التي تطلع عليها من خلال المهمات الموكولة اليها في اطار القبول.",
+    "target_en_norm": "notified bodies shall maintain professional confidentiality in all matters relating to the facts, practices, and information they become privy to in the performance of the tasks assigned thereto.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58525,
+    "source_ar": "المادة الثانية والعشرون",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون",
+    "target_en_norm": "article 22",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58526,
+    "source_ar": "1. يجب على الجهات المقبولة ألا تفرض أي إجراءات لتقويم المطابقة خلاف تلك المنصوص عليها في اللوائح الفنية.",
+    "target_en": "1. Notified bodies may not impose any conformity assessment procedures other than the procedures provided for in the technical regulations.",
+    "source_ar_norm": "1. يجب علي الجهات المقبولة الا تفرض اي اجراءات لتقويم المطابقة خلاف تلك المنصوص عليها في اللوائح الفنية.",
+    "target_en_norm": "1. notified bodies may not impose any conformity assessment procedures other than the procedures provided for in the technical regulations.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58527,
+    "source_ar": "2. يجب على الجهات المقبولة أن تلتزم بنطاق القبول عند تقديم خدماتها وفق اللوائح الفنية ذات الصلة.",
+    "target_en": "2. Notified bodies must comply with the scope of assignment when providing their services in accordance with the relevant technical regulations.",
+    "source_ar_norm": "2. يجب علي الجهات المقبولة ان تلتزم بنطاق القبول عند تقديم خدماتها وفق اللوائح الفنية ذات الصلة.",
+    "target_en_norm": "2. notified bodies must comply with the scope of assignment when providing their services in accordance with the relevant technical regulations.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58528,
+    "source_ar": "المادة الثالثة والعشرون",
+    "target_en": "Article 23",
+    "source_ar_norm": "المادة الثالثة والعشرون",
+    "target_en_norm": "article 23",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58529,
+    "source_ar": "تكون جهات تقويم المطابقة مسؤولة عن الخدمات التي تقدمها أو تتعاقد من الباطن من أجل تقديمها.",
+    "target_en": "Conformity assessment bodies shall be responsible for the services they provide directly or through subcontractors.",
+    "source_ar_norm": "تكون جهات تقويم المطابقة مسؤولة عن الخدمات التي تقدمها او تتعاقد من الباطن من اجل تقديمها.",
+    "target_en_norm": "conformity assessment bodies shall be responsible for the services they provide directly or through subcontractors.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58530,
+    "source_ar": "الباب السادس مراقبة الأسواق",
+    "target_en": "Part 6: Market Surveillance",
+    "source_ar_norm": "الباب السادس مراقبة الاسواق",
+    "target_en_norm": "part 6: market surveillance",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58531,
+    "source_ar": "المادة الرابعة والعشرون",
+    "target_en": "Article 24",
+    "source_ar_norm": "المادة الرابعة والعشرون",
+    "target_en_norm": "article 24",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58532,
+    "source_ar": "تقوم الجهات المختصة بالمراقبة على الأسواق وفقاً للقواعد والإجراءات والمهمات التي تحددها اللوائح.",
+    "target_en": "The competent authorities shall monitor the markets in accordance with the rules, procedures, and duties specified in the Regulations.",
+    "source_ar_norm": "تقوم الجهات المختصة بالمراقبة علي الاسواق وفقا للقواعد والاجراءات والمهمات التي تحددها اللوائح.",
+    "target_en_norm": "the competent authorities shall monitor the markets in accordance with the rules, procedures, and duties specified in the regulations.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58533,
+    "source_ar": "المادة الخامسة والعشرون",
+    "target_en": "Article 25",
+    "source_ar_norm": "المادة الخامسة والعشرون",
+    "target_en_norm": "article 25",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58534,
+    "source_ar": "تتولى الهيئة الآتي:",
+    "target_en": "The Organization shall undertake the following:",
+    "source_ar_norm": "تتولي الهيئة الاتي:",
+    "target_en_norm": "the organization shall undertake the following:",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58535,
+    "source_ar": "1. إعداد استراتيجية وطنية لسلامة المنتجات ومراقبة الأسواق، ومتابعة تنفيذها بعد اعتمادها، وتحديثها دوريًّا؛ وفقًا للإجراءات النظامية.",
+    "target_en": "1. Prepare and regularly update a national strategy for product safety and market surveillance and monitor its implementation upon approval thereof, in accordance with legal procedures.",
+    "source_ar_norm": "1. اعداد استراتيجية وطنية لسلامة المنتجات ومراقبة الاسواق، ومتابعة تنفيذها بعد اعتمادها، وتحديثها دوريا؛ وفقا للاجراءات النظامية.",
+    "target_en_norm": "1. prepare and regularly update a national strategy for product safety and market surveillance and monitor its implementation upon approval thereof, in accordance with legal procedures.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58536,
+    "source_ar": "2. التأكد من الالتزام بجميع المتطلبات المفروضة على المشغل الاقتصادي والمتطلبات الأساسية المطبقة على المنتجات الموضوعة والمعروضة في الأسواق.",
+    "target_en": "2. Ensure compliance with all the requirements imposed on the economic operator and with the essential requirements applicable to products placed and made available on the market.",
+    "source_ar_norm": "2. التاكد من الالتزام بجميع المتطلبات المفروضة علي المشغل الاقتصادي والمتطلبات الاساسية المطبقة علي المنتجات الموضوعة والمعروضة في الاسواق.",
+    "target_en_norm": "2. ensure compliance with all the requirements imposed on the economic operator and with the essential requirements applicable to products placed and made available on the market.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58537,
+    "source_ar": "3. المحافظة على الحد الأدنى لمؤشر المطابقة للمنتجات المعروضة في الأسواق.",
+    "target_en": "3. Ensure that products made available on the market do not fall below the minimum level of the conformity index.",
+    "source_ar_norm": "3. المحافظة علي الحد الادني لمؤشر المطابقة للمنتجات المعروضة في الاسواق.",
+    "target_en_norm": "3. ensure that products made available on the market do not fall below the minimum level of the conformity index.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58538,
+    "source_ar": "المادة السادسة والعشرون",
+    "target_en": "Article 26",
+    "source_ar_norm": "المادة السادسة والعشرون",
+    "target_en_norm": "article 26",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58539,
+    "source_ar": "يتولى مفتشون -يعينهم المجلس- مجتمعين أو منفردين ضبط مخالفات أحكام النظام واللوائح وإثباتها، ولهم في سبيل ذلك الآتي:",
+    "target_en": "Inspectors, to be appointed by the Board, shall collectively or individually detect and record violations of the provisions of this Law and the Regulations. To this end, they may carry out the following:",
+    "source_ar_norm": "يتولي مفتشون -يعينهم المجلس- مجتمعين او منفردين ضبط مخالفات احكام النظام واللوائح واثباتها، ولهم في سبيل ذلك الاتي:",
+    "target_en_norm": "inspectors, to be appointed by the board, shall collectively or individually detect and record violations of the provisions of this law and the regulations. to this end, they may carry out the following:",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58540,
+    "source_ar": "1. الدخول -في أي وقت- لمنشآت المشغل الاقتصادي وما يلحق بها من مستودعات وأماكن تخزين أو وسائل نقل أو غيرها، وتفتيشها.",
+    "target_en": "1. Enter and inspect, at any time, the economic operator’s facilities and any attachments thereof, such as warehouses, storage facilities, means of transport, and the like.",
+    "source_ar_norm": "1. الدخول -في اي وقت- لمنشات المشغل الاقتصادي وما يلحق بها من مستودعات واماكن تخزين او وسائل نقل او غيرها، وتفتيشها.",
+    "target_en_norm": "1. enter and inspect, at any time, the economic operator’s facilities and any attachments thereof, such as warehouses, storage facilities, means of transport, and the like.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58541,
+    "source_ar": "2. تحرير محاضر الضبط لإثبات المخالفات.",
+    "target_en": "2. Issue reports to establish violations.",
+    "source_ar_norm": "2. تحرير محاضر الضبط لاثبات المخالفات.",
+    "target_en_norm": "2. issue reports to establish violations.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58542,
+    "source_ar": "3. استدعاء أطراف المخالفة، وسماع أقوالهم، وضبطها وإثباتها في محضر.",
+    "target_en": "3. Summon the parties involved in the violation, hear their statements, and record the statements in a report.",
+    "source_ar_norm": "3. استدعاء اطراف المخالفة، وسماع اقوالهم، وضبطها واثباتها في محضر.",
+    "target_en_norm": "3. summon the parties involved in the violation, hear their statements, and record the statements in a report.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58543,
+    "source_ar": "4. إغلاق مكان وقوع المخالفة -في الحالات الضرورية التي تستلزم ذلك بناءً على ما تحدده اللوائح- إلى حين استكمال إجراءات الضبط.",
+    "target_en": "4. Close the location where the violation occurred, if the Regulations so require, pending completion of detection and recording procedures.",
+    "source_ar_norm": "4. اغلاق مكان وقوع المخالفة -في الحالات الضرورية التي تستلزم ذلك بناء علي ما تحدده اللوائح- الي حين استكمال اجراءات الضبط.",
+    "target_en_norm": "4. close the location where the violation occurred, if the regulations so require, pending completion of detection and recording procedures.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58544,
+    "source_ar": "5. التحفظ على المنتجات المخالفة -أو المشتبه في مخالفتها- لأحكام النظام، وعلى الوثائق المتعلقة بها.",
+    "target_en": "5. Seize the products that are in violation or suspected to be in violation of the provisions of this Law as well as any documents related thereto.",
+    "source_ar_norm": "5. التحفظ علي المنتجات المخالفة -او المشتبه في مخالفتها- لاحكام النظام، وعلي الوثائق المتعلقة بها.",
+    "target_en_norm": "5. seize the products that are in violation or suspected to be in violation of the provisions of this law as well as any documents related thereto.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58545,
+    "source_ar": "6. الاطلاع على جميع المستندات والسجلات والملفات والشكاوى والفواتير وغيرها من الوثائق، والحصول على نسخ منها. ولا يجوز -بأي حال من الأحوال- حجب أي من تلك الوثائق عنهم.",
+    "target_en": "6. Access all documents, records, files, complaints, invoices, and the like, and obtain copies thereof. The inspectors may not, under any circumstances, be denied access to such documents.",
+    "source_ar_norm": "6. الاطلاع علي جميع المستندات والسجلات والملفات والشكاوي والفواتير وغيرها من الوثائق، والحصول علي نسخ منها. ولا يجوز -باي حال من الاحوال- حجب اي من تلك الوثائق عنهم.",
+    "target_en_norm": "6. access all documents, records, files, complaints, invoices, and the like, and obtain copies thereof. the inspectors may not, under any circumstances, be denied access to such documents.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58546,
+    "source_ar": "7. الاحتفاظ -عند الضرورة- بالوثائق وملف المعلومات التي جُمعت لإثبات المخالفة أو التحقيق مع المساهمين أو المشاركين في المخالفة نفسها.",
+    "target_en": "7. Keep, when necessary, the documents and information collected to establish the violation or to investigate those who committed the violation or participated in the commission thereof.",
+    "source_ar_norm": "7. الاحتفاظ -عند الضرورة- بالوثائق وملف المعلومات التي جمعت لاثبات المخالفة او التحقيق مع المساهمين او المشاركين في المخالفة نفسها.",
+    "target_en_norm": "7. keep, when necessary, the documents and information collected to establish the violation or to investigate those who committed the violation or participated in the commission thereof.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58547,
+    "source_ar": "8. سحب عينات من المنتجات من أجل اختبارها من قبل جهة تقويم المطابقة.",
+    "target_en": "8. Take samples of products to be tested by the conformity assessment body.",
+    "source_ar_norm": "8. سحب عينات من المنتجات من اجل اختبارها من قبل جهة تقويم المطابقة.",
+    "target_en_norm": "8. take samples of products to be tested by the conformity assessment body.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58548,
+    "source_ar": "المادة السابعة والعشرون",
+    "target_en": "Article 27",
+    "source_ar_norm": "المادة السابعة والعشرون",
+    "target_en_norm": "article 27",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58549,
+    "source_ar": "تمنح بقرار من المجلس بناء على اقتراح من المحافظ مكافآت مالية للمفتشين المنصوص عليهم في المادة (السادسة والعشرين) من النظام، وفقًا لما تحدده اللوائح.",
+    "target_en": "The inspectors referred to in Article 26 of this Law shall, pursuant to a Board decision issued upon a recommendation by the Governor, be remunerated in accordance with the Regulations.",
+    "source_ar_norm": "تمنح بقرار من المجلس بناء علي اقتراح من المحافظ مكافات مالية للمفتشين المنصوص عليهم في المادة (السادسة والعشرين) من النظام، وفقا لما تحدده اللوائح.",
+    "target_en_norm": "the inspectors referred to in article 26 of this law shall, pursuant to a board decision issued upon a recommendation by the governor, be remunerated in accordance with the regulations.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58550,
+    "source_ar": "المادة الثامنة والعشرون",
+    "target_en": "Article 28",
+    "source_ar_norm": "المادة الثامنة والعشرون",
+    "target_en_norm": "article 28",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58551,
+    "source_ar": "يحظر منع المفتش أو إعاقته عن تأدية أعماله المتعلقة بالتفتيش والضبط.",
+    "target_en": "An inspector shall not be prevented or impeded from performing his inspection, detection, and recording duties.",
+    "source_ar_norm": "يحظر منع المفتش او اعاقته عن تادية اعماله المتعلقة بالتفتيش والضبط.",
+    "target_en_norm": "an inspector shall not be prevented or impeded from performing his inspection, detection, and recording duties.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58552,
+    "source_ar": "المادة التاسعة والعشرون",
+    "target_en": "Article 29",
+    "source_ar_norm": "المادة التاسعة والعشرون",
+    "target_en_norm": "article 29",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58553,
+    "source_ar": "1. يجب على المفتش المحافظة على سرية المعلومات التي يحصل عليها بحكم عمله.",
+    "target_en": "1. An inspector shall maintain the confidentiality of the information he becomes privy to in the course of performing his duties.",
+    "source_ar_norm": "1. يجب علي المفتش المحافظة علي سرية المعلومات التي يحصل عليها بحكم عمله.",
+    "target_en_norm": "1. an inspector shall maintain the confidentiality of the information he becomes privy to in the course of performing his duties.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58554,
+    "source_ar": "2. لا تحول المحافظة على سرية المعلومات دون إفصاح الجهات المختصة عن المعلومات اللازمة لضمان مراقبة فعالة للأسواق أو لمنع خطر يهدد سلامة المستهلك والممتلكات والبيئة.",
+    "target_en": "2. The confidentiality of information shall not preclude the competent authorities from disclosing any information necessary to ensure effective market surveillance or to prevent a hazard that threatens the safety of consumers, property, and the environment.",
+    "source_ar_norm": "2. لا تحول المحافظة علي سرية المعلومات دون افصاح الجهات المختصة عن المعلومات اللازمة لضمان مراقبة فعالة للاسواق او لمنع خطر يهدد سلامة المستهلك والممتلكات والبيئة.",
+    "target_en_norm": "2. the confidentiality of information shall not preclude the competent authorities from disclosing any information necessary to ensure effective market surveillance or to prevent a hazard that threatens the safety of consumers, property, and the environment.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58555,
+    "source_ar": "المادة الثلاثون",
+    "target_en": "Article 30",
+    "source_ar_norm": "المادة الثلاثون",
+    "target_en_norm": "article 30",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58556,
+    "source_ar": "يجوز للهيئة -بالتنسيق مع الجهات المختصة- أن تأمر بإتلاف المنتج المخالف لأحكام النظام بعد صدور حكم نهائي من المحكمة المختصة بمصادرة المنتج محل المخالفة.",
+    "target_en": "The Organization may, in coordination with the competent authorities, order the destruction of any product that violates the provisions of this Law upon the issuance of a final ruling by the competent court to confiscate the product subject of the violation.",
+    "source_ar_norm": "يجوز للهيئة -بالتنسيق مع الجهات المختصة- ان تامر باتلاف المنتج المخالف لاحكام النظام بعد صدور حكم نهائي من المحكمة المختصة بمصادرة المنتج محل المخالفة.",
+    "target_en_norm": "the organization may, in coordination with the competent authorities, order the destruction of any product that violates the provisions of this law upon the issuance of a final ruling by the competent court to confiscate the product subject of the violation.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58557,
+    "source_ar": "على أن تتم عملية الإتلاف من قبل لجنة أو أكثر تشكل لهذا الغرض. ويتحمل المخالف تكاليف عملية الإتلاف.",
+    "target_en": "The destruction process shall be carried out by a committee, or more, to be formed for such purpose, and the costs of the destruction shall be borne by the violator.",
+    "source_ar_norm": "علي ان تتم عملية الاتلاف من قبل لجنة او اكثر تشكل لهذا الغرض. ويتحمل المخالف تكاليف عملية الاتلاف.",
+    "target_en_norm": "the destruction process shall be carried out by a committee, or more, to be formed for such purpose, and the costs of the destruction shall be borne by the violator.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58558,
+    "source_ar": "وتحدد اللائحة كيفية تشكيل هذه اللجنة وآلية عملها.",
+    "target_en": "The Regulations shall specify the method of forming said committee and its work rules and procedures.",
+    "source_ar_norm": "وتحدد اللائحة كيفية تشكيل هذه اللجنة والية عملها.",
+    "target_en_norm": "the regulations shall specify the method of forming said committee and its work rules and procedures.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58559,
+    "source_ar": "الباب السابع المسؤولية عن الخلل في المنتج",
+    "target_en": "Part 7: Liability for Product Defects",
+    "source_ar_norm": "الباب السابع المسؤولية عن الخلل في المنتج",
+    "target_en_norm": "part 7: liability for product defects",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58560,
+    "source_ar": "المادة الحادية والثلاثون",
+    "target_en": "Article 31",
+    "source_ar_norm": "المادة الحادية والثلاثون",
+    "target_en_norm": "article 31",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58561,
+    "source_ar": "يُعد الصانع مسؤولًا عن كل ضرر ينتج عن خلل موجود في المنتج الذي قام بوضعه في السوق. وتحدد اللوائح الخلل الموجب لقيام المسؤولية.",
+    "target_en": "The manufacturer shall be liable for any harm resulting from a defective product that he placed on the market. The Regulations shall specify the nature of the defect giving rise to such liability.",
+    "source_ar_norm": "يعد الصانع مسؤولا عن كل ضرر ينتج عن خلل موجود في المنتج الذي قام بوضعه في السوق. وتحدد اللوائح الخلل الموجب لقيام المسؤولية.",
+    "target_en_norm": "the manufacturer shall be liable for any harm resulting from a defective product that he placed on the market. the regulations shall specify the nature of the defect giving rise to such liability.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58562,
+    "source_ar": "المادة الثانية والثلاثون",
+    "target_en": "Article 32",
+    "source_ar_norm": "المادة الثانية والثلاثون",
+    "target_en_norm": "article 32",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58563,
+    "source_ar": "1. يعد صانعًا للمنتج كلٌّ من: الصانع، وصانع أي مادة أولية، وصانع المنتجات الجزئية، وكل شخص -بوصفه صانعًا- يوضع اسمه أو علامته التجارية أو أي علامة أخرى مميزة على المنتَج.",
+    "target_en": "1. A manufacturer, manufacturer of any raw material, manufacturer of any of the product components, and any person who, in the capacity of manufacturer, places his name or trademark or any other distinctive marking on a product shall be deemed a product manufacturer.",
+    "source_ar_norm": "1. يعد صانعا للمنتج كل من: الصانع، وصانع اي مادة اولية، وصانع المنتجات الجزئية، وكل شخص -بوصفه صانعا- يوضع اسمه او علامته التجارية او اي علامة اخري مميزة علي المنتج.",
+    "target_en_norm": "1. a manufacturer, manufacturer of any raw material, manufacturer of any of the product components, and any person who, in the capacity of manufacturer, places his name or trademark or any other distinctive marking on a product shall be deemed a product manufacturer.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58564,
+    "source_ar": "2. في حال كان مقر الصانع خارج المملكة، يتحمل المستورد أو الممثل المعتمد جميع مسؤولياته وواجباته القانونية. وتحدد اللوائح مسؤوليات وواجبات كل منهما وفقًا لأحكام النظام.",
+    "target_en": "2. If a manufacturer is headquartered outside the Kingdom, the importer or authorized representative shall bear all his legal liabilities and duties. The Regulations shall specify the liabilities and duties of each of them in accordance with the provisions of this Law.",
+    "source_ar_norm": "2. في حال كان مقر الصانع خارج المملكة، يتحمل المستورد او الممثل المعتمد جميع مسؤولياته وواجباته القانونية. وتحدد اللوائح مسؤوليات وواجبات كل منهما وفقا لاحكام النظام.",
+    "target_en_norm": "2. if a manufacturer is headquartered outside the kingdom, the importer or authorized representative shall bear all his legal liabilities and duties. the regulations shall specify the liabilities and duties of each of them in accordance with the provisions of this law.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58565,
+    "source_ar": "3. في حال تعذر تحديد هوية الصانع أو المستورد المسؤول عن الوضع في السوق حيال الأضرار الناتجة عن خلل موجود في المنتج، فإن جميع المشغلين الاقتصاديين يكونون مسؤولين بالتضامن عن تلك الأضرار ما لم يُكشف خلال أجل معقول عن هوية الصانع أو المستورِد في حال المنتج المستورَد حتى لو كانت هوية الصانع معلومة، وذلك دون إخلال بحق أي مشغل اقتصادي في الرجوع على المشغل الاقتصادي الآخر.",
+    "target_en": "3. If it is not possible to identify the manufacturer or importer responsible for placing the product on the market with regard to the harm resulting from a defect in such product, all the economic operators shall be jointly and severally liable for such harm, unless the manufacturer, or the importer in case of an imported product even if the manufacturer’s identity is known, is identified within a reasonable period of time, without prejudice to the right of any economic operator to have recourse against another economic operator.",
+    "source_ar_norm": "3. في حال تعذر تحديد هوية الصانع او المستورد المسؤول عن الوضع في السوق حيال الاضرار الناتجة عن خلل موجود في المنتج، فان جميع المشغلين الاقتصاديين يكونون مسؤولين بالتضامن عن تلك الاضرار ما لم يكشف خلال اجل معقول عن هوية الصانع او المستورد في حال المنتج المستورد حتي لو كانت هوية الصانع معلومة، وذلك دون اخلال بحق اي مشغل اقتصادي في الرجوع علي المشغل الاقتصادي الاخر.",
+    "target_en_norm": "3. if it is not possible to identify the manufacturer or importer responsible for placing the product on the market with regard to the harm resulting from a defect in such product, all the economic operators shall be jointly and severally liable for such harm, unless the manufacturer, or the importer in case of an imported product even if the manufacturer’s identity is known, is identified within a reasonable period of time, without prejudice to the right of any economic operator to have recourse against another economic operator.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58566,
+    "source_ar": "الباب الثامن إيقاع العقوبات",
+    "target_en": "Part 8: Imposition of Penalties",
+    "source_ar_norm": "الباب الثامن ايقاع العقوبات",
+    "target_en_norm": "part 8: imposition of penalties",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58567,
+    "source_ar": "المادة الثالثة والثلاثون",
+    "target_en": "Article 33",
+    "source_ar_norm": "المادة الثالثة والثلاثون",
+    "target_en_norm": "article 33",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58568,
+    "source_ar": "1. تشكل لجنة أو أكثر -بقرار من المجلس- من (خمسة) أعضاء، على أن يكون من بينهم (ثلاثة) مستشارين نظاميين -على الأقل- يكون أحدهم رئيسًا لها.",
+    "target_en": "1. A committee, or more, shall be formed by a Board decision. Said committee shall be composed of five members, including at least three legal advisors one of whom shall be the committee’s chairman.",
+    "source_ar_norm": "1. تشكل لجنة او اكثر -بقرار من المجلس- من (خمسة) اعضاء، علي ان يكون من بينهم (ثلاثة) مستشارين نظاميين -علي الاقل- يكون احدهم رئيسا لها.",
+    "target_en_norm": "1. a committee, or more, shall be formed by a board decision. said committee shall be composed of five members, including at least three legal advisors one of whom shall be the committee’s chairman.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58569,
+    "source_ar": "2. تتولى اللجنة الآتي:",
+    "target_en": "2. The committee shall undertake the following:",
+    "source_ar_norm": "2. تتولي اللجنة الاتي:",
+    "target_en_norm": "2. the committee shall undertake the following:",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58570,
+    "source_ar": "أ- فرض إجراءات تصحيحية على المشغل الاقتصادي، وذلك وفقًا لما تحدده اللوائح.",
+    "target_en": "a) Impose corrective measures on the economic operator, in accordance with the Regulations.",
+    "source_ar_norm": "ا- فرض اجراءات تصحيحية علي المشغل الاقتصادي، وذلك وفقا لما تحدده اللوائح.",
+    "target_en_norm": "a) impose corrective measures on the economic operator, in accordance with the regulations.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58571,
+    "source_ar": "ب- تطبيق العقوبات المنصوص عليها في الفقرتين الفرعيتين (ب) و(ج) من الفقرة (1) من المادة (الرابعة والثلاثين) من النظام.",
+    "target_en": "b) Impose the penalties provided for in Article 34(1)(b and c) of this Law.",
+    "source_ar_norm": "ب- تطبيق العقوبات المنصوص عليها في الفقرتين الفرعيتين (ب) و(ج) من الفقرة (1) من المادة (الرابعة والثلاثين) من النظام.",
+    "target_en_norm": "b) impose the penalties provided for in article 34(1)(b and c) of this law.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58572,
+    "source_ar": "ج- الطلب من المحكمة المختصة الحكم بمصادرة المنتج محل المخالفة.",
+    "target_en": "c) Petition the competent court to order the confiscation of the product subject of the violation.",
+    "source_ar_norm": "ج- الطلب من المحكمة المختصة الحكم بمصادرة المنتج محل المخالفة.",
+    "target_en_norm": "c) petition the competent court to order the confiscation of the product subject of the violation.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58573,
+    "source_ar": "3. تصدر اللجنة قراراتها وفقاً للقواعد والإجراءات التي تحددها اللوائح. ويجوز لمن صدر ضده القرار التظلم منه أمام المحكمة الإدارية خلال (ستين) يوماً من تاريخ إبلاغه بالقرار.",
+    "target_en": "3. Committee decisions shall be passed in accordance with the rules and procedures specified in the Regulations. Any person against whom a decision is issued may appeal the decision before the Administrative Court within 60 days from the date of notification thereof.",
+    "source_ar_norm": "3. تصدر اللجنة قراراتها وفقا للقواعد والاجراءات التي تحددها اللوائح. ويجوز لمن صدر ضده القرار التظلم منه امام المحكمة الادارية خلال (ستين) يوما من تاريخ ابلاغه بالقرار.",
+    "target_en_norm": "3. committee decisions shall be passed in accordance with the rules and procedures specified in the regulations. any person against whom a decision is issued may appeal the decision before the administrative court within 60 days from the date of notification thereof.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58574,
+    "source_ar": "4. تحدد مكافآت أعضاء اللجنة بقرار من المجلس.",
+    "target_en": "4. Remuneration of committee members shall be determined by a Board decision.",
+    "source_ar_norm": "4. تحدد مكافات اعضاء اللجنة بقرار من المجلس.",
+    "target_en_norm": "4. remuneration of committee members shall be determined by a board decision.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58575,
+    "source_ar": "المادة الرابعة والثلاثون",
+    "target_en": "Article 34",
+    "source_ar_norm": "المادة الرابعة والثلاثون",
+    "target_en_norm": "article 34",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58576,
+    "source_ar": "1. دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب كل من يخالف أيًّا من أحكام النظام واللوائح بعقوبة (أو أكثر) من العقوبات الآتية:",
+    "target_en": "1. Without prejudice to any harsher penalty provided for in any other law, any person who violates any of the provision of this Law and the Regulations shall be subject to one or more of the following penalties:",
+    "source_ar_norm": "1. دون اخلال باي عقوبة اشد ينص عليها نظام اخر، يعاقب كل من يخالف ايا من احكام النظام واللوائح بعقوبة (او اكثر) من العقوبات الاتية:",
+    "target_en_norm": "1. without prejudice to any harsher penalty provided for in any other law, any person who violates any of the provision of this law and the regulations shall be subject to one or more of the following penalties:",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58577,
+    "source_ar": "أ- الإنذار.",
+    "target_en": "a) A warning.",
+    "source_ar_norm": "ا- الانذار.",
+    "target_en_norm": "a) a warning.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58578,
+    "source_ar": "ب- غرامة لا تزيد على عشرة ملايين (10.000.000) ريال.",
+    "target_en": "b) A fine not exceeding ten million riyals (SAR 10,000,000).",
+    "source_ar_norm": "ب- غرامة لا تزيد علي عشرة ملايين (10.000.000) ريال.",
+    "target_en_norm": "b) a fine not exceeding ten million riyals (sar 10,000,000).",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58579,
+    "source_ar": "ج- إغلاق المنشأة لمدة لا تزيد على (سنة).",
+    "target_en": "c) Closing the facility for a period not exceeding one year.",
+    "source_ar_norm": "ج- اغلاق المنشاة لمدة لا تزيد علي (سنة).",
+    "target_en_norm": "c) closing the facility for a period not exceeding one year.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58580,
+    "source_ar": "2. يجوز للجنة -المنصوص عليها في المادة (الثالثة والثلاثين) من النظام- تضمين القرار الصادر بالعقوبة النص على نشر ملخصه على نفقة المخالف في صحيفة محلية تصدر في مكان إقامته، فإن لم يكن في مكان إقامته صحيفة ففي أقرب منطقة له، أو نشره في أي وسيلة أخرى مناسبة، وذلك بحسب نوع المخالفة المرتكبة وجسامتها وتأثيرها، على أن يكون نشره بعد تحصن القرار بمضي المدة المحددة نظاماً أو كان الحكم الصادر في شأنه مكتسبًا الصفة القطعية.",
+    "target_en": "2. The committee provided for in Article 33 of this Law may include in the penalty decision a provision to publish its summary at the violator’s expense in a local newspaper issued in the area of his residence, or, if no newspaper is issued in his area of residence, in a newspaper issued in the area nearest to his residence, or through any other appropriate medium, according to the type, gravity, and impact of the violation, provided that the publication is made only after the decision becomes unappealable due to the lapse of the statutory period for appeal or due to the issuance of a final judgment thereon.",
+    "source_ar_norm": "2. يجوز للجنة -المنصوص عليها في المادة (الثالثة والثلاثين) من النظام- تضمين القرار الصادر بالعقوبة النص علي نشر ملخصه علي نفقة المخالف في صحيفة محلية تصدر في مكان اقامته، فان لم يكن في مكان اقامته صحيفة ففي اقرب منطقة له، او نشره في اي وسيلة اخري مناسبة، وذلك بحسب نوع المخالفة المرتكبة وجسامتها وتاثيرها، علي ان يكون نشره بعد تحصن القرار بمضي المدة المحددة نظاما او كان الحكم الصادر في شانه مكتسبا الصفة القطعية.",
+    "target_en_norm": "2. the committee provided for in article 33 of this law may include in the penalty decision a provision to publish its summary at the violator’s expense in a local newspaper issued in the area of his residence, or, if no newspaper is issued in his area of residence, in a newspaper issued in the area nearest to his residence, or through any other appropriate medium, according to the type, gravity, and impact of the violation, provided that the publication is made only after the decision becomes unappealable due to the lapse of the statutory period for appeal or due to the issuance of a final judgment thereon.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58581,
+    "source_ar": "3. يتولى المحافظ -أو من ينيبه- توقيع عقوبة الإنذار المنصوص عليها في الفقرة الفرعية (أ) من الفقرة (1) من هذه المادة، وعقوبة الغرامة المنصوص عليها في الفقرة الفرعية (ب) من الفقرة (1) من هذه المادة التي لا يتجاوز مقدارها (عشرة) آلاف ريال؛ على من يخالف أحكام النظام واللوائح بناءً على توصية من المفتش.",
+    "target_en": "3. The Governor, or his designee, shall, upon the inspector’s recommendation, impose on any person who violates the provisions of this Law and the Regulations the warning penalty provided for in paragraph (1)(a) of this Article and the fine provided for in paragraph (1)(b) of this Article for fines the amount of which does not exceed ten thousand riyals.",
+    "source_ar_norm": "3. يتولي المحافظ -او من ينيبه- توقيع عقوبة الانذار المنصوص عليها في الفقرة الفرعية (ا) من الفقرة (1) من هذه المادة، وعقوبة الغرامة المنصوص عليها في الفقرة الفرعية (ب) من الفقرة (1) من هذه المادة التي لا يتجاوز مقدارها (عشرة) الاف ريال؛ علي من يخالف احكام النظام واللوائح بناء علي توصية من المفتش.",
+    "target_en_norm": "3. the governor, or his designee, shall, upon the inspector’s recommendation, impose on any person who violates the provisions of this law and the regulations the warning penalty provided for in paragraph (1)(a) of this article and the fine provided for in paragraph (1)(b) of this article for fines the amount of which does not exceed ten thousand riyals.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58582,
+    "source_ar": "وفي حال إيقاع عقوبة الإنذار على مخالفة غير جسيمة فيمنح المشغل الاقتصادي مهلة تصحيحية -وفقًا لما تحدده اللوائح- لمعالجتها قبل إيقاع الغرامة أو إغلاق المنشأة بحسب ما نصت عليه الفقرتان الفرعيتان (ب) و(ج) من الفقرة (1) من هذه المادة.",
+    "target_en": "If the warning penalty is imposed for a non-serious violation, the economic operator shall be granted a period, as specified in the Regulations, to rectify the violation prior to imposing a fine or closing the facility pursuant to the provisions of paragraph (1)(b and c) of this Article.",
+    "source_ar_norm": "وفي حال ايقاع عقوبة الانذار علي مخالفة غير جسيمة فيمنح المشغل الاقتصادي مهلة تصحيحية -وفقا لما تحدده اللوائح- لمعالجتها قبل ايقاع الغرامة او اغلاق المنشاة بحسب ما نصت عليه الفقرتان الفرعيتان (ب) و(ج) من الفقرة (1) من هذه المادة.",
+    "target_en_norm": "if the warning penalty is imposed for a non-serious violation, the economic operator shall be granted a period, as specified in the regulations, to rectify the violation prior to imposing a fine or closing the facility pursuant to the provisions of paragraph (1)(b and c) of this article.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58583,
+    "source_ar": "4. يصدر المجلس -ضمن اللوائح- جدولًا يتضمن الآتي:",
+    "target_en": "4. The Board shall, as part of the Regulations, issue a schedule which includes the following:",
+    "source_ar_norm": "4. يصدر المجلس -ضمن اللوائح- جدولا يتضمن الاتي:",
+    "target_en_norm": "4. the board shall, as part of the regulations, issue a schedule which includes the following:",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58584,
+    "source_ar": "أ- تصنيف المخالفات وما يقابلها من عقوبات -منصوص عليها في الفقرة (1) من هذه المادة- ومقدارها ومدتها، ويراعى فيها التدرج في العقوبة.",
+    "target_en": "a) The classification of violations and the corresponding penalties, as provided for in paragraph (1) of this Article, as well as the amount and duration of such penalties, taking into account the gradation of the penalty.",
+    "source_ar_norm": "ا- تصنيف المخالفات وما يقابلها من عقوبات -منصوص عليها في الفقرة (1) من هذه المادة- ومقدارها ومدتها، ويراعي فيها التدرج في العقوبة.",
+    "target_en_norm": "a) the classification of violations and the corresponding penalties, as provided for in paragraph (1) of this article, as well as the amount and duration of such penalties, taking into account the gradation of the penalty.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58585,
+    "source_ar": "ب- تصنيف المخالفات وما يقابلها من عقوبة -منصوص عليها في الفقرة (3) من هذه المادة- ومقدارها ويراعى فيها التدرج في العقوبة.",
+    "target_en": "b) The classification of violations and the corresponding penalties, as provided for in paragraph(3) of this Article, as well as the amount of such penalties, taking into account the gradation of the penalty.",
+    "source_ar_norm": "ب- تصنيف المخالفات وما يقابلها من عقوبة -منصوص عليها في الفقرة (3) من هذه المادة- ومقدارها ويراعي فيها التدرج في العقوبة.",
+    "target_en_norm": "b) the classification of violations and the corresponding penalties, as provided for in paragraph(3) of this article, as well as the amount of such penalties, taking into account the gradation of the penalty.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58586,
+    "source_ar": "المادة الخامسة والثلاثون",
+    "target_en": "Article 35",
+    "source_ar_norm": "المادة الخامسة والثلاثون",
+    "target_en_norm": "article 35",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58587,
+    "source_ar": "1. يعاقب كل من تسبب عمدًا في وضع أو عرض منتج غير آمن بما من شأنه إلحاق ضرر بالمستهلك بالسجن مدة لا تزيد على (عشر) سنوات.",
+    "target_en": "1. Any person who deliberately places or makes available on the market an unsafe product that may cause harm to the consumer shall be subject to imprisonment for a period not exceeding 10 years.",
+    "source_ar_norm": "1. يعاقب كل من تسبب عمدا في وضع او عرض منتج غير امن بما من شانه الحاق ضرر بالمستهلك بالسجن مدة لا تزيد علي (عشر) سنوات.",
+    "target_en_norm": "1. any person who deliberately places or makes available on the market an unsafe product that may cause harm to the consumer shall be subject to imprisonment for a period not exceeding 10 years.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58588,
+    "source_ar": "2. تختص النيابة العامة بالتحقيق والادعاء في المخالفات الواردة في الفقرة (1) من هذه المادة.",
+    "target_en": "2. The Public Prosecution shall have the jurisdiction to investigate and prosecute the violations provided for in paragraph (1) of this Article.",
+    "source_ar_norm": "2. تختص النيابة العامة بالتحقيق والادعاء في المخالفات الواردة في الفقرة (1) من هذه المادة.",
+    "target_en_norm": "2. the public prosecution shall have the jurisdiction to investigate and prosecute the violations provided for in paragraph (1) of this article.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58589,
+    "source_ar": "الباب التاسع أحكام ختامية",
+    "target_en": "Part 9: Concluding Provisions",
+    "source_ar_norm": "الباب التاسع احكام ختامية",
+    "target_en_norm": "part 9: concluding provisions",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58590,
+    "source_ar": "المادة السادسة والثلاثون",
+    "target_en": "Article 36",
+    "source_ar_norm": "المادة السادسة والثلاثون",
+    "target_en_norm": "article 36",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58591,
+    "source_ar": "يصدر المجلس اللوائح خلال (تسعين) يوماً من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ نفاذه.",
+    "target_en": "The Board shall issue the Regulations within 90 days from the date of publication of this Law in the Official Gazette. The Regulations shall become effective on the date this Law enters into force.",
+    "source_ar_norm": "يصدر المجلس اللوائح خلال (تسعين) يوما من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ نفاذه.",
+    "target_en_norm": "the board shall issue the regulations within 90 days from the date of publication of this law in the official gazette. the regulations shall become effective on the date this law enters into force.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58592,
+    "source_ar": "المادة السابعة والثلاثون",
+    "target_en": "Article 37",
+    "source_ar_norm": "المادة السابعة والثلاثون",
+    "target_en_norm": "article 37",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58593,
+    "source_ar": "يعمل بالنظام بعد (تسعين) يومًا من تاريخ نشره في الجريدة الرسمية، ويلغي ما يتعارض معه من أحكام.",
+    "target_en": "This Law shall enter into force 90 days following the date of its publication in the Official Gazette and shall repeal any provisions conflicting therewith.",
+    "source_ar_norm": "يعمل بالنظام بعد (تسعين) يوما من تاريخ نشره في الجريدة الرسمية، ويلغي ما يتعارض معه من احكام.",
+    "target_en_norm": "this law shall enter into force 90 days following the date of its publication in the official gazette and shall repeal any provisions conflicting therewith.",
+    "file_name": "نظام سلامة المنتجات.docx"
+  },
+  {
+    "id": 58594,
+    "source_ar": "نظام صندوق الاستثمارات العامة",
+    "target_en": "Public Investment Fund Law",
+    "source_ar_norm": "نظام صندوق الاستثمارات العامة",
+    "target_en_norm": "public investment fund law",
+    "file_name": "نظام صندوق الاستثمارات العامة.docx"
+  },
+  {
+    "id": 58595,
+    "source_ar": "الفصل الأول: تعريفات",
+    "target_en": "Chapter 1: Definitions",
+    "source_ar_norm": "الفصل الاول: تعريفات",
+    "target_en_norm": "chapter 1: definitions",
+    "file_name": "نظام صندوق الاستثمارات العامة.docx"
+  },
+  {
+    "id": 58596,
+    "source_ar": "المادة الأولى",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي",
+    "target_en_norm": "article 1",
+    "file_name": "نظام صندوق الاستثمارات العامة.docx"
+  },
+  {
+    "id": 58597,
+    "source_ar": "قصد بالكلمات والعبارات الآتية، أينما وردت في النظام، المعاني الموضحة أمام كل منها، ما لم يقتض سياق النص غير ذلك:",
+    "target_en": "In this Law, the following terms and phrases shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "source_ar_norm": "قصد بالكلمات والعبارات الاتية، اينما وردت في النظام، المعاني الموضحة امام كل منها، ما لم يقتض سياق النص غير ذلك:",
+    "target_en_norm": "in this law, the following terms and phrases shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "file_name": "نظام صندوق الاستثمارات العامة.docx"
+  },
+  {
+    "id": 58598,
+    "source_ar": "الصندوق: صندوق الاستثمارات العامة.",
+    "target_en": "Fund: Public Investment Fund.",
+    "source_ar_norm": "الصندوق: صندوق الاستثمارات العامة.",
+    "target_en_norm": "fund: public investment fund.",
+    "file_name": "نظام صندوق الاستثمارات العامة.docx"
+  },
+  {
+    "id": 58599,
+    "source_ar": "النظام: نظام الصندوق.",
+    "target_en": "Law: Public Investment Fund Law.",
+    "source_ar_norm": "النظام: نظام الصندوق.",
+    "target_en_norm": "law: public investment fund law.",
+    "file_name": "نظام صندوق الاستثمارات العامة.docx"
+  },
+  {
+    "id": 58600,
+    "source_ar": "المجلس: مجلس إدارة الصندوق.",
+    "target_en": "Board: The Fund’s Board of Directors.",
+    "source_ar_norm": "المجلس: مجلس ادارة الصندوق.",
+    "target_en_norm": "board: the fund’s board of directors.",
+    "file_name": "نظام صندوق الاستثمارات العامة.docx"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 53501,
+    "source_ar": "المستحضر الصيدلاني أو العشبي المغشوش: مستحضر تُعُمِّد تغيير محتواه أو هويته أو مصدره بقصد الخداع، وإن احتوى على المكونات نفسها، وهو يشمل المستحضرات ذات العلامات التجارية والجنسية. ويعد المستحضر الصيدلاني أو العشبي مغشوشاً إذا كان ملوثاً، أو احتوى على مكونات ملوثة، أو خاطئة، أو غير فعالة، أو غير كافية الفاعلية، أو كان دون مكونات فعالة، أو معبأً في عبوات مزيفة.",
+    "target_en": "Counterfeit Pharmaceutical or Herbal Preparation: A preparation the content, identity, or source of which is intentionally altered with the intent to deceive, even if the ingredients remain the same, including preparations with trademarks and generic marks. A pharmaceutical or herbal preparation shall be deemed counterfeit if it is contaminated; contains contaminated, incorrect, inactive, or ineffective ingredients; does not contain active ingredients; or is packed in counterfeit packages.",
+    "source_ar_norm": "المستحضر الصيدلاني او العشبي المغشوش: مستحضر تعمد تغيير محتواه او هويته او مصدره بقصد الخداع، وان احتوي علي المكونات نفسها، وهو يشمل المستحضرات ذات العلامات التجارية والجنسية. ويعد المستحضر الصيدلاني او العشبي مغشوشا اذا كان ملوثا، او احتوي علي مكونات ملوثة، او خاطئة، او غير فعالة، او غير كافية الفاعلية، او كان دون مكونات فعالة، او معبا في عبوات مزيفة.",
+    "target_en_norm": "counterfeit pharmaceutical or herbal preparation: a preparation the content, identity, or source of which is intentionally altered with the intent to deceive, even if the ingredients remain the same, including preparations with trademarks and generic marks. a pharmaceutical or herbal preparation shall be deemed counterfeit if it is contaminated; contains contaminated, incorrect, inactive, or ineffective ingredients; does not contain active ingredients; or is packed in counterfeit packages.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53502,
+    "source_ar": "المستحضر الصيدلاني أو العشبي الفاسد: مستحضر تغيرت صفاته، فصار غير صالح للاستعمال.",
+    "target_en": "Spoiled Pharmaceutical or Herbal Preparation: A preparation the properties of which have changed, rendering it unfit for use.",
+    "source_ar_norm": "المستحضر الصيدلاني او العشبي الفاسد: مستحضر تغيرت صفاته، فصار غير صالح للاستعمال.",
+    "target_en_norm": "spoiled pharmaceutical or herbal preparation: a preparation the properties of which have changed, rendering it unfit for use.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53503,
+    "source_ar": "المنشأة الصيدلية: مصنع المستحضرات الصيدلانية والعشبية، أو مستودع الاتجار بالمستحضرات الصيدلانية والعشبية، أو المكتب العلمي، أو مركز الاستشارات الدوائية أو تحليل المستحضرات الصيدلانية والعشبية.",
+    "target_en": "Pharmaceutical Establishment: Any pharmaceutical and herbal preparations factory or wholesale warehouse, scientific office, or medicinal consultation or pharmaceutical and herbal preparations analysis center.",
+    "source_ar_norm": "المنشاة الصيدلية: مصنع المستحضرات الصيدلانية والعشبية، او مستودع الاتجار بالمستحضرات الصيدلانية والعشبية، او المكتب العلمي، او مركز الاستشارات الدوائية او تحليل المستحضرات الصيدلانية والعشبية.",
+    "target_en_norm": "pharmaceutical establishment: any pharmaceutical and herbal preparations factory or wholesale warehouse, scientific office, or medicinal consultation or pharmaceutical and herbal preparations analysis center.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53504,
+    "source_ar": "الصيدلية: المنشأة المعدة لتحضير المستحضرات الصيدلانية والعشبية، وصرفها أو بيعها.",
+    "target_en": "Pharmacy: An establishment where pharmaceutical and herbal preparations are prepared and dispensed or sold.",
+    "source_ar_norm": "الصيدلية: المنشاة المعدة لتحضير المستحضرات الصيدلانية والعشبية، وصرفها او بيعها.",
+    "target_en_norm": "pharmacy: an establishment where pharmaceutical and herbal preparations are prepared and dispensed or sold.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53505,
+    "source_ar": "مستودع الاتجار بالمستحضرات الصيدلانية والعشبية: المنشأة الصيدلية التي تستورد المستحضرات الصيدلانية والعشبية بالجملة، أو توزعها أو تبيعها.",
+    "target_en": "Pharmaceutical and Herbal Preparations Wholesale Warehouse: A pharmaceutical establishment which imports, distributes, or sells pharmaceutical and herbal preparations wholesale.",
+    "source_ar_norm": "مستودع الاتجار بالمستحضرات الصيدلانية والعشبية: المنشاة الصيدلية التي تستورد المستحضرات الصيدلانية والعشبية بالجملة، او توزعها او تبيعها.",
+    "target_en_norm": "pharmaceutical and herbal preparations wholesale warehouse: a pharmaceutical establishment which imports, distributes, or sells pharmaceutical and herbal preparations wholesale.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53506,
+    "source_ar": "المكتب العلمي: المنشأة الصيدلية التي تقدم معلومات علمية وفنية وتسويقية للمستحضرات الصيدلانية والعشبية في المملكة.",
+    "target_en": "Scientific Office: A pharmaceutical establishment which provides scientific, technical, and marketing information on pharmaceutical and herbal preparations in the Kingdom.",
+    "source_ar_norm": "المكتب العلمي: المنشاة الصيدلية التي تقدم معلومات علمية وفنية وتسويقية للمستحضرات الصيدلانية والعشبية في المملكة.",
+    "target_en_norm": "scientific office: a pharmaceutical establishment which provides scientific, technical, and marketing information on pharmaceutical and herbal preparations in the kingdom.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53507,
+    "source_ar": "منشأة بيع المستحضرات العشبية: المنشأة المعدة لتحضير المستحضرات العشبية وبيعها.",
+    "target_en": "Herbal Preparations Outlet: An establishment where herbal preparations are prepared and sold.",
+    "source_ar_norm": "منشاة بيع المستحضرات العشبية: المنشاة المعدة لتحضير المستحضرات العشبية وبيعها.",
+    "target_en_norm": "herbal preparations outlet: an establishment where herbal preparations are prepared and sold.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53508,
+    "source_ar": "مركز الاستشارات الدوائية أو تحليل المستحضرات الصيدلانية والعشبية: المنشأة الصيدلية التي تقوم بتقديم الاستشارات الدوائية، وتحليل المستحضرات الصيدلانية والعشبية، ودراسة التوافر والتكافؤ الحيوي، ومراقبة الجودة النوعية للأدوية، وتحديد مستويات الأدوية في السوائل البيولوجية.",
+    "target_en": "Medicinal Consultation or Pharmaceutical and Herbal Preparations Analysis Center: A pharmaceutical establishment that provides medicinal consultations, analyzes pharmaceutical and herbal preparations, conducts bioavailability and bioequivalence studies, controls the quality of medicines, and determines drug levels in biological fluids",
+    "source_ar_norm": "مركز الاستشارات الدوائية او تحليل المستحضرات الصيدلانية والعشبية: المنشاة الصيدلية التي تقوم بتقديم الاستشارات الدوائية، وتحليل المستحضرات الصيدلانية والعشبية، ودراسة التوافر والتكافؤ الحيوي، ومراقبة الجودة النوعية للادوية، وتحديد مستويات الادوية في السوائل البيولوجية.",
+    "target_en_norm": "medicinal consultation or pharmaceutical and herbal preparations analysis center: a pharmaceutical establishment that provides medicinal consultations, analyzes pharmaceutical and herbal preparations, conducts bioavailability and bioequivalence studies, controls the quality of medicines, and determines drug levels in biological fluids",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53509,
+    "source_ar": "اللائحة: اللائحة التنفيذية للنظام.",
+    "target_en": "Regulations: Implementing Regulations of this Law.",
+    "source_ar_norm": "اللائحة: اللائحة التنفيذية للنظام.",
+    "target_en_norm": "regulations: implementing regulations of this law.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53510,
+    "source_ar": "المادة الثانية:",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية:",
+    "target_en_norm": "article 2",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53511,
+    "source_ar": "لا يسمح بفتح منشأة صيدلية إلا بعد الحصول على الترخيص اللازم من الهيئة باسم مالك المنشأة.",
+    "target_en": "A pharmaceutical establishment shall not operate without obtaining the required license from the Authority in the name of its owner.",
+    "source_ar_norm": "لا يسمح بفتح منشاة صيدلية الا بعد الحصول علي الترخيص اللازم من الهيئة باسم مالك المنشاة.",
+    "target_en_norm": "a pharmaceutical establishment shall not operate without obtaining the required license from the authority in the name of its owner.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53512,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article 3",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53513,
+    "source_ar": "يشترط للترخيص لمركز الاستشارات الدوائية أو تحليل المستحضرات الصيدلانية والعشبية ما يأتي:",
+    "target_en": "A medicinal consultation or pharmaceutical and herbal preparations analysis center shall meet the following licensing conditions:",
+    "source_ar_norm": "يشترط للترخيص لمركز الاستشارات الدوائية او تحليل المستحضرات الصيدلانية والعشبية ما ياتي:",
+    "target_en_norm": "a medicinal consultation or pharmaceutical and herbal preparations analysis center shall meet the following licensing conditions:",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53514,
+    "source_ar": "1. أن يكون المدير صيدليًّا متفرغاً مرخصاً له بمزاولة المهنة.",
+    "target_en": "1. The director is a full-time pharmacist licensed to practice the profession.",
+    "source_ar_norm": "1. ان يكون المدير صيدليا متفرغا مرخصا له بمزاولة المهنة.",
+    "target_en_norm": "1. the director is a full-time pharmacist licensed to practice the profession.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53515,
+    "source_ar": "2. أن تتوافر في المركز الشروط والمواصفات التي تحددها اللائحة.",
+    "target_en": "2. The center complies with the conditions and specifications specified by the Regulations.",
+    "source_ar_norm": "2. ان تتوافر في المركز الشروط والمواصفات التي تحددها اللائحة.",
+    "target_en_norm": "2. the center complies with the conditions and specifications specified by the regulations.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53516,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article 4",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53517,
+    "source_ar": "يشترط للترخيص لمستودع الاتجار بالمستحضرات الصيدلانية والعشبية ما يأتي:",
+    "target_en": "A pharmaceutical and herbal preparations wholesale warehouse shall meet the following licensing conditions:",
+    "source_ar_norm": "يشترط للترخيص لمستودع الاتجار بالمستحضرات الصيدلانية والعشبية ما ياتي:",
+    "target_en_norm": "a pharmaceutical and herbal preparations wholesale warehouse shall meet the following licensing conditions:",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53518,
+    "source_ar": "1. أن يكون المدير صيدليًّا أو فني صيدلة متفرغاً ومرخصاً له بمزاولة المهنة.",
+    "target_en": "1. The director is a full-time pharmacist or pharmacy technician licensed to practice the profession.",
+    "source_ar_norm": "1. ان يكون المدير صيدليا او فني صيدلة متفرغا ومرخصا له بمزاولة المهنة.",
+    "target_en_norm": "1. the director is a full-time pharmacist or pharmacy technician licensed to practice the profession.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53519,
+    "source_ar": "2. أن تتوافر في المستودع الشروط والمواصفات التي تحددها اللائحة.",
+    "target_en": "2. The warehouse complies with the conditions and specifications specified by the Regulations.",
+    "source_ar_norm": "2. ان تتوافر في المستودع الشروط والمواصفات التي تحددها اللائحة.",
+    "target_en_norm": "2. the warehouse complies with the conditions and specifications specified by the regulations.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53520,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article 5",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53521,
+    "source_ar": "يشترط لمنح الترخيص لمصنع المستحضرات الصيدلانية والعشبية ما يأتي:",
+    "target_en": "A pharmaceutical and herbal preparations factory shall meet the following licensing conditions:",
+    "source_ar_norm": "يشترط لمنح الترخيص لمصنع المستحضرات الصيدلانية والعشبية ما ياتي:",
+    "target_en_norm": "a pharmaceutical and herbal preparations factory shall meet the following licensing conditions:",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53522,
+    "source_ar": "1. الحصول على ترخيص صناعي من الجهة المختصة.",
+    "target_en": "1. An industrial license is obtained from the competent authority.",
+    "source_ar_norm": "1. الحصول علي ترخيص صناعي من الجهة المختصة.",
+    "target_en_norm": "1. an industrial license is obtained from the competent authority.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53523,
+    "source_ar": "2. أن يكون المدير الفني صيدليًّا سعوديًّا متفرغاً مرخصاً له بمزاولة المهنة.",
+    "target_en": "2. The technical director is a full-time Saudi pharmacist licensed to practice the profession.",
+    "source_ar_norm": "2. ان يكون المدير الفني صيدليا سعوديا متفرغا مرخصا له بمزاولة المهنة.",
+    "target_en_norm": "2. the technical director is a full-time saudi pharmacist licensed to practice the profession.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53524,
+    "source_ar": "3. أن تتوافر في المصنع الشروط والمواصفات التي تحددها اللائحة.",
+    "target_en": "3. The factory complies with the conditions and specifications specified by the Regulations.",
+    "source_ar_norm": "3. ان تتوافر في المصنع الشروط والمواصفات التي تحددها اللائحة.",
+    "target_en_norm": "3. the factory complies with the conditions and specifications specified by the regulations.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53525,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article 6",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53526,
+    "source_ar": "يجب أن يكون لكل شركة أو مؤسسة لتصنيع المستحضرات الصيدلانية أو العشبية - لديها مصنع مسجل في المملكة - مكتب علمي، ويشترط لمنح الترخيص للمكتب ما يأتي:",
+    "target_en": "Each company or sole proprietorship manufacturing pharmaceutical or herbal preparations, which has a factory registered in the Kingdom, shall have a scientific office. A scientific office shall meet the following licensing conditions:",
+    "source_ar_norm": "يجب ان يكون لكل شركة او مؤسسة لتصنيع المستحضرات الصيدلانية او العشبية - لديها مصنع مسجل في المملكة - مكتب علمي، ويشترط لمنح الترخيص للمكتب ما ياتي:",
+    "target_en_norm": "each company or sole proprietorship manufacturing pharmaceutical or herbal preparations, which has a factory registered in the kingdom, shall have a scientific office. a scientific office shall meet the following licensing conditions:",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53527,
+    "source_ar": "1. أن يكون مديره صيدليًّا سعوديًّا متفرغاً مرخصاً له بمزاولة المهنة.",
+    "target_en": "1. The director is a full-time Saudi pharmacist licensed to practice the profession.",
+    "source_ar_norm": "1. ان يكون مديره صيدليا سعوديا متفرغا مرخصا له بمزاولة المهنة.",
+    "target_en_norm": "1. the director is a full-time saudi pharmacist licensed to practice the profession.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53528,
+    "source_ar": "2. أن تتوافر فيه الشروط والمواصفات التي تحددها اللائحة.",
+    "target_en": "2. The office complies with the conditions and specifications specified by the Regulations.",
+    "source_ar_norm": "2. ان تتوافر فيه الشروط والمواصفات التي تحددها اللائحة.",
+    "target_en_norm": "2. the office complies with the conditions and specifications specified by the regulations.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53529,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article 7",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53530,
+    "source_ar": "مدة الترخيص للمنشأة الصيدلية خمس سنوات قابلة للتجديد.",
+    "target_en": "The license term of a pharmaceutical establishment shall be five renewable years.",
+    "source_ar_norm": "مدة الترخيص للمنشاة الصيدلية خمس سنوات قابلة للتجديد.",
+    "target_en_norm": "the license term of a pharmaceutical establishment shall be five renewable years.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53531,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article 8",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53532,
+    "source_ar": "تستوفى من المنشآت الصيدلية الآتية الرسوم الموضحة أمام كل منها عند منح الترخيص أو تجديده:",
+    "target_en": "Pharmaceutical establishments shall, when applying for the issuance or renewal of a license, pay the fees as specified below:",
+    "source_ar_norm": "تستوفي من المنشات الصيدلية الاتية الرسوم الموضحة امام كل منها عند منح الترخيص او تجديده:",
+    "target_en_norm": "pharmaceutical establishments shall, when applying for the issuance or renewal of a license, pay the fees as specified below:",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53533,
+    "source_ar": "المنشأة الصيدلية الرسم",
+    "target_en": "Pharmaceutical Establishment Fee",
+    "source_ar_norm": "المنشاة الصيدلية الرسم",
+    "target_en_norm": "pharmaceutical establishment fee",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53534,
+    "source_ar": "مصنع المستحضرات الصيدلانية والعشبية 10.000 ريال",
+    "target_en": "Pharmaceutical and herbal preparations factory 10,000 riyals",
+    "source_ar_norm": "مصنع المستحضرات الصيدلانية والعشبية 10.000 ريال",
+    "target_en_norm": "pharmaceutical and herbal preparations factory 10,000 riyals",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53535,
+    "source_ar": "مستودع الاتجار بالمستحضرات الصيدلانية والعشبية 3.000 ريال",
+    "target_en": "Pharmaceutical and herbal preparations wholesale warehouse 3,000 riyals",
+    "source_ar_norm": "مستودع الاتجار بالمستحضرات الصيدلانية والعشبية 3.000 ريال",
+    "target_en_norm": "pharmaceutical and herbal preparations wholesale warehouse 3,000 riyals",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53536,
+    "source_ar": "مركز الاستشارات الدوائية أو تحليل المستحضرات الصيدلانية والعشبية 1.000 ريال",
+    "target_en": "Medicinal consultation or pharmaceutical and herbal preparations analysis center 1,000 riyals",
+    "source_ar_norm": "مركز الاستشارات الدوائية او تحليل المستحضرات الصيدلانية والعشبية 1.000 ريال",
+    "target_en_norm": "medicinal consultation or pharmaceutical and herbal preparations analysis center 1,000 riyals",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53537,
+    "source_ar": "المكتب العلمي 1.000 ريال",
+    "target_en": "Scientific office 1,000 riyals",
+    "source_ar_norm": "المكتب العلمي 1.000 ريال",
+    "target_en_norm": "scientific office 1,000 riyals",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53538,
+    "source_ar": "المادة التاسعة:",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة:",
+    "target_en_norm": "article 9",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53539,
+    "source_ar": "لا يجوز للمنشأة الصيدلية تشغيل الصيادلة أو فنيي الصيدلة أو غيرهم من الممارسين الصحيين ما لم يكن مرخصاً لهم بمزاولة المهنة.",
+    "target_en": "A pharmaceutical establishment may not hire pharmacists, pharmacy technicians, or other health practitioners unless they are licensed to practice the profession.",
+    "source_ar_norm": "لا يجوز للمنشاة الصيدلية تشغيل الصيادلة او فنيي الصيدلة او غيرهم من الممارسين الصحيين ما لم يكن مرخصا لهم بمزاولة المهنة.",
+    "target_en_norm": "a pharmaceutical establishment may not hire pharmacists, pharmacy technicians, or other health practitioners unless they are licensed to practice the profession.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53540,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article 10",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53541,
+    "source_ar": "لا يجوز أن يعمل في مجال الدعاية والتعريف بالمستحضرات الصيدلانية والعشبية إلا صيدلي سعودي متفرغ مرخص له بمزاولة المهنة. وللرئيس الإعفاء من شرط الجنسية إذا لم يتوافر العدد الكافي من الصيادلة السعوديين.",
+    "target_en": "Only full-time Saudi pharmacists licensed to practice the profession may work in the advertisement and promotion of pharmaceutical and herbal preparations. The CEO may waive the nationality requirement in case of a shortage in the number of Saudi pharmacists.",
+    "source_ar_norm": "لا يجوز ان يعمل في مجال الدعاية والتعريف بالمستحضرات الصيدلانية والعشبية الا صيدلي سعودي متفرغ مرخص له بمزاولة المهنة. وللرئيس الاعفاء من شرط الجنسية اذا لم يتوافر العدد الكافي من الصيادلة السعوديين.",
+    "target_en_norm": "only full-time saudi pharmacists licensed to practice the profession may work in the advertisement and promotion of pharmaceutical and herbal preparations. the ceo may waive the nationality requirement in case of a shortage in the number of saudi pharmacists.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53542,
+    "source_ar": "المادة الحادية عشرة:",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة:",
+    "target_en_norm": "article 11",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53543,
+    "source_ar": "يحسب سعر المستحضر الصيدلاني أو العشبي بناءً على سعر المصنع أو سعر التصدير إلى المملكة بعملة بلد المنشأ أو العملة التي تقررها الهيئة. وتقوم الهيئة بمراجعة أسعار المستحضرات الصيدلانية والعشبية على فترات منتظمة.",
+    "target_en": "A pharmaceutical or herbal preparation shall be priced based on factory price or the price of export to the Kingdom in the currency of the country of origin or the currency determined by the Authority. The Authority shall review the prices of pharmaceutical and herbal preparations on a regular basis.",
+    "source_ar_norm": "يحسب سعر المستحضر الصيدلاني او العشبي بناء علي سعر المصنع او سعر التصدير الي المملكة بعملة بلد المنشا او العملة التي تقررها الهيئة. وتقوم الهيئة بمراجعة اسعار المستحضرات الصيدلانية والعشبية علي فترات منتظمة.",
+    "target_en_norm": "a pharmaceutical or herbal preparation shall be priced based on factory price or the price of export to the kingdom in the currency of the country of origin or the currency determined by the authority. the authority shall review the prices of pharmaceutical and herbal preparations on a regular basis.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53544,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article 12",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53545,
+    "source_ar": "تحسب نسبة ربح على سعر المستحضر الصيدلاني أو العشبي لكل مستودع اتجار بالمستحضرات الصيدلانية والعشبية، وصيدلية، ومنشأة بيع المستحضرات العشبية، على النحو الآتي:",
+    "target_en": "A markup shall be added to the price of a pharmaceutical or herbal preparation for each pharmaceutical and herbal preparations wholesale warehouse, pharmacy, and herbal preparations outlet, as follows:",
+    "source_ar_norm": "تحسب نسبة ربح علي سعر المستحضر الصيدلاني او العشبي لكل مستودع اتجار بالمستحضرات الصيدلانية والعشبية، وصيدلية، ومنشاة بيع المستحضرات العشبية، علي النحو الاتي:",
+    "target_en_norm": "a markup shall be added to the price of a pharmaceutical or herbal preparation for each pharmaceutical and herbal preparations wholesale warehouse, pharmacy, and herbal preparations outlet, as follows:",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53546,
+    "source_ar": "سعر المصنع أو التصدير نسبة الربح للمستودع (محسوبةً على سعر المصنع أو التصدير) نسبة الربح للصيدلية أو منشأة بيع المستحضرات العشبية (محسوبةً على سعر بيع المستحضر المحدد للمستودع)",
+    "target_en": "Factory or Export Price Warehouse Markup (based on factory or export price) Pharmacy or Herbal Preparations Outlet Markup (based on the sale price of the preparation determined for the warehouse)",
+    "source_ar_norm": "سعر المصنع او التصدير نسبة الربح للمستودع (محسوبة علي سعر المصنع او التصدير) نسبة الربح للصيدلية او منشاة بيع المستحضرات العشبية (محسوبة علي سعر بيع المستحضر المحدد للمستودع)",
+    "target_en_norm": "factory or export price warehouse markup (based on factory or export price) pharmacy or herbal preparations outlet markup (based on the sale price of the preparation determined for the warehouse)",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53547,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article 13",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53548,
+    "source_ar": "لا يجوز بيع عينات المستحضرات الصيدلانية والعشبية المعدة للتعريف بالمنتج.",
+    "target_en": "Promotional samples of pharmaceutical and herbal preparations may not be sold.",
+    "source_ar_norm": "لا يجوز بيع عينات المستحضرات الصيدلانية والعشبية المعدة للتعريف بالمنتج.",
+    "target_en_norm": "promotional samples of pharmaceutical and herbal preparations may not be sold.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53549,
+    "source_ar": "المادة الرابعة عشرة:",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة:",
+    "target_en_norm": "article 14",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53550,
+    "source_ar": "1. يقصر بيع المستحضرات الصيدلانية بالتجزئة على الصيدليات، ويستثنى من ذلك ما يقرر الرئيس جواز بيعه في غيرها.",
+    "target_en": "1. Retail pharmaceutical preparations may only be sold in pharmacies. As an exception, the CEO may decide the preparations that may be sold elsewhere.",
+    "source_ar_norm": "1. يقصر بيع المستحضرات الصيدلانية بالتجزئة علي الصيدليات، ويستثني من ذلك ما يقرر الرئيس جواز بيعه في غيرها.",
+    "target_en_norm": "1. retail pharmaceutical preparations may only be sold in pharmacies. as an exception, the ceo may decide the preparations that may be sold elsewhere.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53551,
+    "source_ar": "2. يقصر بيع المستحضرات العشبية بالتجزئة على الصيدليات ومنشآت بيع المستحضرات العشبية، ويستثنى من ذلك ما يقرر الرئيس جواز بيعه في غيرها.",
+    "target_en": "2. Retail herbal preparations may only be sold in pharmacies and herbal preparations outlets. As an exception, the CEO may decide the preparations that may be sold elsewhere.",
+    "source_ar_norm": "2. يقصر بيع المستحضرات العشبية بالتجزئة علي الصيدليات ومنشات بيع المستحضرات العشبية، ويستثني من ذلك ما يقرر الرئيس جواز بيعه في غيرها.",
+    "target_en_norm": "2. retail herbal preparations may only be sold in pharmacies and herbal preparations outlets. as an exception, the ceo may decide the preparations that may be sold elsewhere.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53552,
+    "source_ar": "المادة الخامسة عشرة:",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة:",
+    "target_en_norm": "article 15",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53553,
+    "source_ar": "1. يحظر على المنشأة الصيدلية حيازة أي كمية من المستحضرات الصيدلانية والعشبية دون وجود مستندات تثبت مصدر شرائها وكمياتها.",
+    "target_en": "1. It is prohibited for a pharmaceutical establishment to hold any quantity of pharmaceutical or herbal preparations without having documents establishing the origin of purchase and quantities thereof.",
+    "source_ar_norm": "1. يحظر علي المنشاة الصيدلية حيازة اي كمية من المستحضرات الصيدلانية والعشبية دون وجود مستندات تثبت مصدر شرائها وكمياتها.",
+    "target_en_norm": "1. it is prohibited for a pharmaceutical establishment to hold any quantity of pharmaceutical or herbal preparations without having documents establishing the origin of purchase and quantities thereof.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53554,
+    "source_ar": "2. يلتزم مصنع المستحضرات الصيدلانية والعشبية باستبدال أي كمية من المستحضرات التي باعها على مستودع الاتجار بالمستحضرات الصيدلانية والعشبية؛ إذا لم يبق على صلاحيتها إلا شهر واحد فقط، ويقع الالتزام نفسه على عاتق المستودع في مواجهة الصيدلية.",
+    "target_en": "2. A pharmaceutical and herbal preparations factory shall replace any quantity of preparations sold to a pharmaceutical and herbal preparations wholesale warehouse if the expiration date is within one month. The same shall apply to the warehouse vis-à-vis the pharmacy.",
+    "source_ar_norm": "2. يلتزم مصنع المستحضرات الصيدلانية والعشبية باستبدال اي كمية من المستحضرات التي باعها علي مستودع الاتجار بالمستحضرات الصيدلانية والعشبية؛ اذا لم يبق علي صلاحيتها الا شهر واحد فقط، ويقع الالتزام نفسه علي عاتق المستودع في مواجهة الصيدلية.",
+    "target_en_norm": "2. a pharmaceutical and herbal preparations factory shall replace any quantity of preparations sold to a pharmaceutical and herbal preparations wholesale warehouse if the expiration date is within one month. the same shall apply to the warehouse vis-à-vis the pharmacy.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53555,
+    "source_ar": "المادة السادسة عشرة:",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة:",
+    "target_en_norm": "article 16",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53556,
+    "source_ar": "على كل من صرف أو باع مستحضراً صيدلانيًّا أو عشبيًّا مغشوشاً، أو فاسداً، أو منتهي الصلاحية، أو غير مسجل، إبلاغ الهيئة - فور علمه بذلك - بالمعلومات التي تتعلق بما تم صرفه أو بيعه وكميته، واسم من صُرف أو بيع له المستحضر وعنوانه، كما يلتزم بإعادة الثمن للمشتري.",
+    "target_en": "Any person who dispenses or sells a counterfeit, spoiled, expired, or unregistered pharmaceutical or herbal preparation shall, upon knowledge thereof, notify the Authority of the information related to the dispensed or sold preparation and its quantity as well as the name and address of the person to whom the preparation was dispensed or sold. Such person shall also refund the buyer.",
+    "source_ar_norm": "علي كل من صرف او باع مستحضرا صيدلانيا او عشبيا مغشوشا، او فاسدا، او منتهي الصلاحية، او غير مسجل، ابلاغ الهيئة - فور علمه بذلك - بالمعلومات التي تتعلق بما تم صرفه او بيعه وكميته، واسم من صرف او بيع له المستحضر وعنوانه، كما يلتزم باعادة الثمن للمشتري.",
+    "target_en_norm": "any person who dispenses or sells a counterfeit, spoiled, expired, or unregistered pharmaceutical or herbal preparation shall, upon knowledge thereof, notify the authority of the information related to the dispensed or sold preparation and its quantity as well as the name and address of the person to whom the preparation was dispensed or sold. such person shall also refund the buyer.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53557,
+    "source_ar": "المادة السابعة عشرة:",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة:",
+    "target_en_norm": "article 17",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53558,
+    "source_ar": "يحظر تداول المستحضرات الصيدلانية والعشبية قبل تسجيلها لدى الهيئة.",
+    "target_en": "Pharmaceutical and herbal preparations may not be circulated prior to their registration with the Authority.",
+    "source_ar_norm": "يحظر تداول المستحضرات الصيدلانية والعشبية قبل تسجيلها لدي الهيئة.",
+    "target_en_norm": "pharmaceutical and herbal preparations may not be circulated prior to their registration with the authority.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53559,
+    "source_ar": "المادة الثامنة عشرة:",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة:",
+    "target_en_norm": "article 18",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53560,
+    "source_ar": "مدة تسجيل كل مستحضر صيدلاني أو عشبي خمس سنوات قابلة للتجديد، ويستوفى لذلك رسم قدره (ألف) ريال لكل تركيز أو صيغة دوائية أو عبوة، وذلك عند التسجيل أو التجديد.",
+    "target_en": "The registration term of a pharmaceutical or herbal preparation shall be five renewable years; a fee of one thousand riyals shall be collected, upon registration or renewal, for each concentration, pharmaceutical formula, or package.",
+    "source_ar_norm": "مدة تسجيل كل مستحضر صيدلاني او عشبي خمس سنوات قابلة للتجديد، ويستوفي لذلك رسم قدره (الف) ريال لكل تركيز او صيغة دوائية او عبوة، وذلك عند التسجيل او التجديد.",
+    "target_en_norm": "the registration term of a pharmaceutical or herbal preparation shall be five renewable years; a fee of one thousand riyals shall be collected, upon registration or renewal, for each concentration, pharmaceutical formula, or package.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53561,
+    "source_ar": "المادة التاسعة عشرة:",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة:",
+    "target_en_norm": "article 19",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53562,
+    "source_ar": "لا يجوز بيع المستحضرات الصيدلانية والعشبية المسجلة إلا بعد تسعيرها من الهيئة، ووفقاً للعبوات التي تحددها.",
+    "target_en": "Registered pharmaceutical and herbal preparations may only be sold in accordance with the prices and packages determined by the Authority.",
+    "source_ar_norm": "لا يجوز بيع المستحضرات الصيدلانية والعشبية المسجلة الا بعد تسعيرها من الهيئة، ووفقا للعبوات التي تحددها.",
+    "target_en_norm": "registered pharmaceutical and herbal preparations may only be sold in accordance with the prices and packages determined by the authority.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53563,
+    "source_ar": "المادة العشرون:",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون:",
+    "target_en_norm": "article 20",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53564,
+    "source_ar": "تكوَّن - بقرار من الرئيس - لجان لتسجيل مصانع المستحضرات الصيدلانية والعشبية ومنتجاتها. وتحدد اللائحة شروط التسجيل وكيفية تكوين هذه اللجان وطريقة عملها. وتحدد مكافأة أعضاء هذه اللجان بقرار من المجلس.",
+    "target_en": "Committees for the registration of pharmaceutical and herbal preparations factories and products shall be formed pursuant to a decision by the CEO. The Regulations shall determine the registration conditions as well as the manner of formation and work procedures of said committees. The remuneration of committee members shall be determined pursuant to a Board decision.",
+    "source_ar_norm": "تكون - بقرار من الرئيس - لجان لتسجيل مصانع المستحضرات الصيدلانية والعشبية ومنتجاتها. وتحدد اللائحة شروط التسجيل وكيفية تكوين هذه اللجان وطريقة عملها. وتحدد مكافاة اعضاء هذه اللجان بقرار من المجلس.",
+    "target_en_norm": "committees for the registration of pharmaceutical and herbal preparations factories and products shall be formed pursuant to a decision by the ceo. the regulations shall determine the registration conditions as well as the manner of formation and work procedures of said committees. the remuneration of committee members shall be determined pursuant to a board decision.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53565,
+    "source_ar": "المادة الحادية والعشرون:",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون:",
+    "target_en_norm": "article 21",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53566,
+    "source_ar": "تلتزم مصانع المستحضرات الصيدلانية والعشبية المسجلة في المملكة ومستودعات الاتجار بالمستحضرات الصيدلانية والعشبية الممثلة لها بتوفير مستحضراتها الصيدلانية والعشبية المسجلة مهما قلَّ ثمنها، أو استهلاكها.",
+    "target_en": "Pharmaceutical and herbal preparations factories registered in the Kingdom and their representative wholesale warehouses shall make registered pharmaceutical and herbal preparations available however low their price or consumption is.",
+    "source_ar_norm": "تلتزم مصانع المستحضرات الصيدلانية والعشبية المسجلة في المملكة ومستودعات الاتجار بالمستحضرات الصيدلانية والعشبية الممثلة لها بتوفير مستحضراتها الصيدلانية والعشبية المسجلة مهما قل ثمنها، او استهلاكها.",
+    "target_en_norm": "pharmaceutical and herbal preparations factories registered in the kingdom and their representative wholesale warehouses shall make registered pharmaceutical and herbal preparations available however low their price or consumption is.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53567,
+    "source_ar": "المادة الثانية والعشرون:",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون:",
+    "target_en_norm": "article 22",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53568,
+    "source_ar": "لا يجوز تصدير المستحضرات الصيدلانية والعشبية إلا بعد موافقة الهيئة.",
+    "target_en": "Pharmaceutical and herbal preparations may not be exported without the Authority’s approval.",
+    "source_ar_norm": "لا يجوز تصدير المستحضرات الصيدلانية والعشبية الا بعد موافقة الهيئة.",
+    "target_en_norm": "pharmaceutical and herbal preparations may not be exported without the authority’s approval.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53569,
+    "source_ar": "المادة الثالثة والعشرون:",
+    "target_en": "Article 23",
+    "source_ar_norm": "المادة الثالثة والعشرون:",
+    "target_en_norm": "article 23",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53570,
+    "source_ar": "يجوز للهيئة - عند الضرورة - السماح باستيراد المستحضرات الصيدلانية والعشبية غير المحظورة قبل تسجيلها.",
+    "target_en": "The Authority may, if necessary, approve the import of unrestricted pharmaceutical and herbal preparations prior to registration thereof.",
+    "source_ar_norm": "يجوز للهيئة - عند الضرورة - السماح باستيراد المستحضرات الصيدلانية والعشبية غير المحظورة قبل تسجيلها.",
+    "target_en_norm": "the authority may, if necessary, approve the import of unrestricted pharmaceutical and herbal preparations prior to registration thereof.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53571,
+    "source_ar": "المادة الرابعة والعشرون:",
+    "target_en": "Article 24",
+    "source_ar_norm": "المادة الرابعة والعشرون:",
+    "target_en_norm": "article 24",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53572,
+    "source_ar": "للرئيس إصدار قرار بإلغاء تسجيل أيٍّ من مصانع المستحضرات الصيدلانية والعشبية، وأي مستحضر صيدلاني أو عشبي وإيقاف تداوله، وذلك بناءً على توصيةٍ من لجنة التسجيل المختصة، ويجوز للهيئة الموافقة على إعادة تصديره أو إتلافه.",
+    "target_en": "The CEO may issue a decision to revoke the registration of any pharmaceutical and herbal preparations factory or any pharmaceutical or herbal preparation and halt its circulation upon a recommendation by the competent registration committee. The Authority may approve the re-exportation or destruction of said preparation.",
+    "source_ar_norm": "للرئيس اصدار قرار بالغاء تسجيل اي من مصانع المستحضرات الصيدلانية والعشبية، واي مستحضر صيدلاني او عشبي وايقاف تداوله، وذلك بناء علي توصية من لجنة التسجيل المختصة، ويجوز للهيئة الموافقة علي اعادة تصديره او اتلافه.",
+    "target_en_norm": "the ceo may issue a decision to revoke the registration of any pharmaceutical and herbal preparations factory or any pharmaceutical or herbal preparation and halt its circulation upon a recommendation by the competent registration committee. the authority may approve the re-exportation or destruction of said preparation.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53573,
+    "source_ar": "المادة الخامسة والعشرون:",
+    "target_en": "Article 25",
+    "source_ar_norm": "المادة الخامسة والعشرون:",
+    "target_en_norm": "article 25",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53574,
+    "source_ar": "للهيئة السماح بدخول المستحضرات الصيدلانية والعشبية غير المحظورة للاستعمال الشخصي بموجب تقرير طبي وبكميات محدودة.",
+    "target_en": "The Authority may approve the entry of limited quantities of unrestricted pharmaceutical and herbal preparations for personal use pursuant to a medical report.",
+    "source_ar_norm": "للهيئة السماح بدخول المستحضرات الصيدلانية والعشبية غير المحظورة للاستعمال الشخصي بموجب تقرير طبي وبكميات محدودة.",
+    "target_en_norm": "the authority may approve the entry of limited quantities of unrestricted pharmaceutical and herbal preparations for personal use pursuant to a medical report.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53575,
+    "source_ar": "المادة السادسة والعشرون:",
+    "target_en": "Article 26",
+    "source_ar_norm": "المادة السادسة والعشرون:",
+    "target_en_norm": "article 26",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53576,
+    "source_ar": "مع مراعاة الاستثناء الوارد في المادة (الرابعة عشرة) من النظام، يحظر على مستودعات الاتجار بالمستحضرات الصيدلانية والعشبية بيع المستحضرات الصيدلانية والعشبية لغير الصيدلية ومنشأة بيع المستحضرات العشبية والمنشأة الصحية المرخص لها.",
+    "target_en": "Subject to the exception referred to in Article 14 of this Law, pharmaceutical and herbal preparations wholesale warehouses shall not sell pharmaceutical and herbal preparations to other than licensed pharmacies, herbal preparations outlets, and medical establishments.",
+    "source_ar_norm": "مع مراعاة الاستثناء الوارد في المادة (الرابعة عشرة) من النظام، يحظر علي مستودعات الاتجار بالمستحضرات الصيدلانية والعشبية بيع المستحضرات الصيدلانية والعشبية لغير الصيدلية ومنشاة بيع المستحضرات العشبية والمنشاة الصحية المرخص لها.",
+    "target_en_norm": "subject to the exception referred to in article 14 of this law, pharmaceutical and herbal preparations wholesale warehouses shall not sell pharmaceutical and herbal preparations to other than licensed pharmacies, herbal preparations outlets, and medical establishments.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53577,
+    "source_ar": "المادة السابعة والعشرون:",
+    "target_en": "Article 27",
+    "source_ar_norm": "المادة السابعة والعشرون:",
+    "target_en_norm": "article 27",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53578,
+    "source_ar": "لمستودعات الاتجار بالمستحضرات الصيدلانية والعشبية استيراد المستحضرات الصيدلانية والعشبية المسجلة إذا لم يوفرها المصنع المنتج، بشرط موافقة الهيئة.",
+    "target_en": "Pharmaceutical and herbal preparations wholesale warehouses may import registered pharmaceutical and herbal preparations which are not made available by the producing factory, subject to the Authority’s approval.",
+    "source_ar_norm": "لمستودعات الاتجار بالمستحضرات الصيدلانية والعشبية استيراد المستحضرات الصيدلانية والعشبية المسجلة اذا لم يوفرها المصنع المنتج، بشرط موافقة الهيئة.",
+    "target_en_norm": "pharmaceutical and herbal preparations wholesale warehouses may import registered pharmaceutical and herbal preparations which are not made available by the producing factory, subject to the authority’s approval.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53579,
+    "source_ar": "المادة الثامنة والعشرون:",
+    "target_en": "Article 28",
+    "source_ar_norm": "المادة الثامنة والعشرون:",
+    "target_en_norm": "article 28",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53580,
+    "source_ar": "لا يجوز لمصنع المستحضرات الصيدلانية والعشبية أن يبدأ إنتاج المستحضرات الصيدلانية والعشبية بكميات تجارية إلا بعد تسجيلها.",
+    "target_en": "A pharmaceutical and herbal preparations factory may not produce pharmaceutical and herbal preparations in commercial quantities unless they are registered.",
+    "source_ar_norm": "لا يجوز لمصنع المستحضرات الصيدلانية والعشبية ان يبدا انتاج المستحضرات الصيدلانية والعشبية بكميات تجارية الا بعد تسجيلها.",
+    "target_en_norm": "a pharmaceutical and herbal preparations factory may not produce pharmaceutical and herbal preparations in commercial quantities unless they are registered.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53581,
+    "source_ar": "المادة التاسعة والعشرون:",
+    "target_en": "Article 29",
+    "source_ar_norm": "المادة التاسعة والعشرون:",
+    "target_en_norm": "article 29",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53582,
+    "source_ar": "لا يجوز تشغيل مصنع المستحضرات الصيدلانية والعشبية في غير تصنيع المستحضرات الصيدلانية والعشبية المرخص له بتصنيعها.",
+    "target_en": "A pharmaceutical and herbal preparations factory may not be used for any purpose other than manufacturing the pharmaceutical and herbal preparations for which it is licensed to manufacture.",
+    "source_ar_norm": "لا يجوز تشغيل مصنع المستحضرات الصيدلانية والعشبية في غير تصنيع المستحضرات الصيدلانية والعشبية المرخص له بتصنيعها.",
+    "target_en_norm": "a pharmaceutical and herbal preparations factory may not be used for any purpose other than manufacturing the pharmaceutical and herbal preparations for which it is licensed to manufacture.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53583,
+    "source_ar": "المادة الثلاثون:",
+    "target_en": "Article 30",
+    "source_ar_norm": "المادة الثلاثون:",
+    "target_en_norm": "article 30",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53584,
+    "source_ar": "يلتزم مصنع المستحضرات الصيدلانية والعشبية بتطبيق أسس ممارسة التصنيع الجيد.",
+    "target_en": "A pharmaceutical and herbal preparations factory shall apply the guidelines of good manufacturing practice.",
+    "source_ar_norm": "يلتزم مصنع المستحضرات الصيدلانية والعشبية بتطبيق اسس ممارسة التصنيع الجيد.",
+    "target_en_norm": "a pharmaceutical and herbal preparations factory shall apply the guidelines of good manufacturing practice.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53585,
+    "source_ar": "المادة الحادية والثلاثون:",
+    "target_en": "Article 31",
+    "source_ar_norm": "المادة الحادية والثلاثون:",
+    "target_en_norm": "article 31",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53586,
+    "source_ar": "يخضع الإعلان عن المستحضرات الصيدلانية والعشبية للضوابط التي تحددها اللائحة.",
+    "target_en": "Advertising for pharmaceutical and herbal preparations shall be subject to controls set by the Regulations.",
+    "source_ar_norm": "يخضع الاعلان عن المستحضرات الصيدلانية والعشبية للضوابط التي تحددها اللائحة.",
+    "target_en_norm": "advertising for pharmaceutical and herbal preparations shall be subject to controls set by the regulations.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53587,
+    "source_ar": "المادة الثانية والثلاثون:",
+    "target_en": "Article 32",
+    "source_ar_norm": "المادة الثانية والثلاثون:",
+    "target_en_norm": "article 32",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53588,
+    "source_ar": "تُصفّى المنشأة الصيدلية وفقاً للإجراءات التي تحددها اللائحة.",
+    "target_en": "A pharmaceutical establishment shall be liquidated pursuant to the procedures set by the Regulations.",
+    "source_ar_norm": "تصفي المنشاة الصيدلية وفقا للاجراءات التي تحددها اللائحة.",
+    "target_en_norm": "a pharmaceutical establishment shall be liquidated pursuant to the procedures set by the regulations.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53589,
+    "source_ar": "المادة الثالثة والثلاثون:",
+    "target_en": "Article 33",
+    "source_ar_norm": "المادة الثالثة والثلاثون:",
+    "target_en_norm": "article 33",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53590,
+    "source_ar": "تتولى الهيئة التفتيش على المنشآت الصيدلية وعلى المستحضرات الصيدلانية والعشبية؛ للتأكد من تطبيق أحكام النظام ولائحته، وذلك من خلال المفتشين الصادر بتسميتهم قرار من الرئيس، ويكون لهم - في حدود ما تقرره اللائحة - ما يأتي:",
+    "target_en": "The Authority shall, through inspectors appointed pursuant to a decision by the CEO, inspect pharmaceutical establishments as well as pharmaceutical and herbal preparations to verify compliance with the provisions of this Law and the Regulations. Such inspectors shall, within the limits of the Regulations, have the following powers:",
+    "source_ar_norm": "تتولي الهيئة التفتيش علي المنشات الصيدلية وعلي المستحضرات الصيدلانية والعشبية؛ للتاكد من تطبيق احكام النظام ولائحته، وذلك من خلال المفتشين الصادر بتسميتهم قرار من الرئيس، ويكون لهم - في حدود ما تقرره اللائحة - ما ياتي:",
+    "target_en_norm": "the authority shall, through inspectors appointed pursuant to a decision by the ceo, inspect pharmaceutical establishments as well as pharmaceutical and herbal preparations to verify compliance with the provisions of this law and the regulations. such inspectors shall, within the limits of the regulations, have the following powers:",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53591,
+    "source_ar": "1. ضبط المستحضرات الصيدلانية والعشبية المخالفة لأحكام النظام.",
+    "target_en": "1. Seize pharmaceutical and herbal preparations in violation of the provisions of this Law.",
+    "source_ar_norm": "1. ضبط المستحضرات الصيدلانية والعشبية المخالفة لاحكام النظام.",
+    "target_en_norm": "1. seize pharmaceutical and herbal preparations in violation of the provisions of this law.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53592,
+    "source_ar": "2. التعامل مع المضبوطات المخالفة، وذلك وفقاً لما يأتي:",
+    "target_en": "2. Handle the seized items as follows:",
+    "source_ar_norm": "2. التعامل مع المضبوطات المخالفة، وذلك وفقا لما ياتي:",
+    "target_en_norm": "2. handle the seized items as follows:",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53593,
+    "source_ar": "أ- التحفظ عليها وعلى المستندات المتعلقة بها، عند الاقتضاء.",
+    "target_en": "a) Take the seized items and any documents related thereto into custody, when necessary.",
+    "source_ar_norm": "ا- التحفظ عليها وعلي المستندات المتعلقة بها، عند الاقتضاء.",
+    "target_en_norm": "a) take the seized items and any documents related thereto into custody, when necessary.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53594,
+    "source_ar": "ب- أخذ العينات للتحليل.",
+    "target_en": "b) Take samples for testing.",
+    "source_ar_norm": "ب- اخذ العينات للتحليل.",
+    "target_en_norm": "b) take samples for testing.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53595,
+    "source_ar": "ج- التوصية بإتلاف ما يثبت فساده، أو غشه، أو انتهاء صلاحيته، أو ضرره صحيًّا، إذا كان مسجلاً.",
+    "target_en": "c) Recommend the destruction of registered items proven to be spoiled, counterfeit, expired, or harmful to health.",
+    "source_ar_norm": "ج- التوصية باتلاف ما يثبت فساده، او غشه، او انتهاء صلاحيته، او ضرره صحيا، اذا كان مسجلا.",
+    "target_en_norm": "c) recommend the destruction of registered items proven to be spoiled, counterfeit, expired, or harmful to health.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53596,
+    "source_ar": "د- التوصية بإتلاف المضبوطات غير المسجلة.",
+    "target_en": "d) Recommend the destruction of unregistered seized items.",
+    "source_ar_norm": "د- التوصية باتلاف المضبوطات غير المسجلة.",
+    "target_en_norm": "d) recommend the destruction of unregistered seized items.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53597,
+    "source_ar": "ويكون الإتلاف بعد صدور قرار به من الهيئة، وذلك وفقاً للأصول الفنية المتعارف عليها، وتتولى تنفيذه لجنة - أو أكثر - تكوّن لهذا الغرض بقرار من الرئيس. ويتحمل المخالف تكاليف عملية الإتلاف.",
+    "target_en": "Said items shall be destroyed pursuant to a decision by the Authority and in accordance with accepted technical practices. Destruction shall be at the violator’s expense and shall be undertaken by a committee, or more, formed for such purpose pursuant to a decision by the CEO.",
+    "source_ar_norm": "ويكون الاتلاف بعد صدور قرار به من الهيئة، وذلك وفقا للاصول الفنية المتعارف عليها، وتتولي تنفيذه لجنة - او اكثر - تكون لهذا الغرض بقرار من الرئيس. ويتحمل المخالف تكاليف عملية الاتلاف.",
+    "target_en_norm": "said items shall be destroyed pursuant to a decision by the authority and in accordance with accepted technical practices. destruction shall be at the violator’s expense and shall be undertaken by a committee, or more, formed for such purpose pursuant to a decision by the ceo.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53598,
+    "source_ar": "المادة الرابعة والثلاثون:",
+    "target_en": "Article 34",
+    "source_ar_norm": "المادة الرابعة والثلاثون:",
+    "target_en_norm": "article 34",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53599,
+    "source_ar": "يعد مخالفاً لأحكام النظام كل مَن:",
+    "target_en": "Any person who commits any of the following acts shall be deemed to have violated this Law:",
+    "source_ar_norm": "يعد مخالفا لاحكام النظام كل من:",
+    "target_en_norm": "any person who commits any of the following acts shall be deemed to have violated this law:",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  },
+  {
+    "id": 53600,
+    "source_ar": "1. غش أو شرع في غش أي مستحضر صيدلاني أو عشبي.",
+    "target_en": "1. Counterfeiting or attempting to counterfeit any pharmaceutical or herbal preparation.",
+    "source_ar_norm": "1. غش او شرع في غش اي مستحضر صيدلاني او عشبي.",
+    "target_en_norm": "1. counterfeiting or attempting to counterfeit any pharmaceutical or herbal preparation.",
+    "file_name": "نظام المنشآت والمستحضرات الصيدلانية والعشبية.docx"
+  }
+]

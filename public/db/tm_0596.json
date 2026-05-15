@@ -1,0 +1,802 @@
+[
+  {
+    "id": 59501,
+    "source_ar": "ب - أي مبالغ مدفوعة أو مزايا مقدمة للمساهم أو الشريك أو لأي قريب لهما إذا كانت تمثل رواتب أو أجورا أو مكافآت، وما في حكمها، أو لا تتوفر بها شروط التعاملات بين أطراف مستقلة مقابل ممتلكات أو خدمات.",
+    "target_en": "b) Any amounts paid or benefits offered to a shareholder, partner, or any of their relatives which constitute salaries, wages, awards, or the like, or those which do not satisfy the conditions for transactions among independent parties against properties or services.",
+    "source_ar_norm": "ب - اي مبالغ مدفوعة او مزايا مقدمة للمساهم او الشريك او لاي قريب لهما اذا كانت تمثل رواتب او اجورا او مكافات، وما في حكمها، او لا تتوفر بها شروط التعاملات بين اطراف مستقلة مقابل ممتلكات او خدمات.",
+    "target_en_norm": "b) any amounts paid or benefits offered to a shareholder, partner, or any of their relatives which constitute salaries, wages, awards, or the like, or those which do not satisfy the conditions for transactions among independent parties against properties or services.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59502,
+    "source_ar": "ج - المصاريف الترفيهية.",
+    "target_en": "c) Recreation expenses.",
+    "source_ar_norm": "ج - المصاريف الترفيهية.",
+    "target_en_norm": "c) recreation expenses.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59503,
+    "source_ar": "د - أي مصاريف للشخص الطبيعي عن استهلاكه الشخصي.",
+    "target_en": "d) Expenses of a natural person for personal consumption.",
+    "source_ar_norm": "د - اي مصاريف للشخص الطبيعي عن استهلاكه الشخصي.",
+    "target_en_norm": "d) expenses of a natural person for personal consumption.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59504,
+    "source_ar": "هـ - ضريبة الدخل المسددة في المملكة أو في دولة أخرى.",
+    "target_en": "e) Income tax paid in the Kingdom or in another country.",
+    "source_ar_norm": "ه - ضريبة الدخل المسددة في المملكة او في دولة اخري.",
+    "target_en_norm": "e) income tax paid in the kingdom or in another country.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59505,
+    "source_ar": "و - الغرامات أو الجزاءات المالية المسددة أو واجبة السداد لأي جهة في المملكة باستثناء المبالغ المسددة مقابل الإخلال بشروط والتزامات تعاقدية.",
+    "target_en": "f) Fines and financial penalties paid or payable to any party in the Kingdom, excluding those paid for breach of contractual conditions and obligations.",
+    "source_ar_norm": "و - الغرامات او الجزاءات المالية المسددة او واجبة السداد لاي جهة في المملكة باستثناء المبالغ المسددة مقابل الاخلال بشروط والتزامات تعاقدية.",
+    "target_en_norm": "f) fines and financial penalties paid or payable to any party in the kingdom, excluding those paid for breach of contractual conditions and obligations.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59506,
+    "source_ar": "ز - أي رشاوي أو مبالغ مشابهة والتي يعد ارتكابها عملا جنائيا بمقتضى أنظمة المملكة حتى لو تم دفعها بالخارج.",
+    "target_en": "g) Any bribe or similar amounts which are considered a criminal offense under the laws of the Kingdom, even if paid abroad.",
+    "source_ar_norm": "ز - اي رشاوي او مبالغ مشابهة والتي يعد ارتكابها عملا جنائيا بمقتضي انظمة المملكة حتي لو تم دفعها بالخارج.",
+    "target_en_norm": "g) any bribe or similar amounts which are considered a criminal offense under the laws of the kingdom, even if paid abroad.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59507,
+    "source_ar": "المادة الرابعة عشرة: الديون المعدومة",
+    "target_en": "Article 14: Bad Debts",
+    "source_ar_norm": "المادة الرابعة عشرة: الديون المعدومة",
+    "target_en_norm": "article 14: bad debts",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59508,
+    "source_ar": "أ - يجوز للمكلف حسم الديون المعدومة الناتجة عن بيع بضاعة أو خدمات سبق التصريح بها إيرادا في دخل المكلف الخاضع للضريبة.",
+    "target_en": "A. A taxpayer may deduct bad debts arising from the sale of goods or services that have been previously declared as a taxable income of the taxpayer.",
+    "source_ar_norm": "ا - يجوز للمكلف حسم الديون المعدومة الناتجة عن بيع بضاعة او خدمات سبق التصريح بها ايرادا في دخل المكلف الخاضع للضريبة.",
+    "target_en_norm": "a. a taxpayer may deduct bad debts arising from the sale of goods or services that have been previously declared as a taxable income of the taxpayer.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59509,
+    "source_ar": "ب - يجوز حسم الدين المعدوم عند شطبه من دفاتر المكلف متى توفر دليل الإثبات المناسب على استحالة تحصيله وفقا لما تحدده اللائحة.",
+    "target_en": "B. A bad debt may be deducted when written off the taxpayer’s books when there is suitable evidence proving the impossibility of collecting it, as specified in the Regulations.",
+    "source_ar_norm": "ب - يجوز حسم الدين المعدوم عند شطبه من دفاتر المكلف متي توفر دليل الاثبات المناسب علي استحالة تحصيله وفقا لما تحدده اللائحة.",
+    "target_en_norm": "b. a bad debt may be deducted when written off the taxpayer’s books when there is suitable evidence proving the impossibility of collecting it, as specified in the regulations.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59510,
+    "source_ar": "المادة الخامسة عشرة: الاحتياطيات والمخصصات",
+    "target_en": "Article 15: Reserves and Allocations",
+    "source_ar_norm": "المادة الخامسة عشرة: الاحتياطيات والمخصصات",
+    "target_en_norm": "article 15: reserves and allocations",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59511,
+    "source_ar": "لا يجوز حسم أي احتياطيات أو مخصصات خلاف مخصصات الديون المشكوك في تحصيلها في البنوك، وتحدد اللائحة قواعد وضوابط تحديد هذه المخصصات.",
+    "target_en": "No reserves or allocations may be deducted except allocations of doubtful debts for banks. The Regulations shall determine the rules and restrictions specifying such allocations.",
+    "source_ar_norm": "لا يجوز حسم اي احتياطيات او مخصصات خلاف مخصصات الديون المشكوك في تحصيلها في البنوك، وتحدد اللائحة قواعد وضوابط تحديد هذه المخصصات.",
+    "target_en_norm": "no reserves or allocations may be deducted except allocations of doubtful debts for banks. the regulations shall determine the rules and restrictions specifying such allocations.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59512,
+    "source_ar": "المادة السادسة عشرة: مصاريف البحوث والتطوير",
+    "target_en": "Article 16: Research and Development Expenses",
+    "source_ar_norm": "المادة السادسة عشرة: مصاريف البحوث والتطوير",
+    "target_en_norm": "article 16: research and development expenses",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59513,
+    "source_ar": "يجوز حسم مصاريف البحوث والتطوير المرتبطة بتحقيق الدخل الخاضع للضريبة، ولا يجوز حسم مصاريف شراء الأرض أو المعدات التي تستخدم في أغراض البحث حيث تستهلك المعدات وفقا للمادة السابعة عشرة من هذا النظام.",
+    "target_en": "Research and development expenses connected with the earning of taxable income may be deducted. Expenses for the purchase of land or equipment used for research purposes may not be deducted. Such equipment shall be subject to depreciation under Article 17 of this Law.",
+    "source_ar_norm": "يجوز حسم مصاريف البحوث والتطوير المرتبطة بتحقيق الدخل الخاضع للضريبة، ولا يجوز حسم مصاريف شراء الارض او المعدات التي تستخدم في اغراض البحث حيث تستهلك المعدات وفقا للمادة السابعة عشرة من هذا النظام.",
+    "target_en_norm": "research and development expenses connected with the earning of taxable income may be deducted. expenses for the purchase of land or equipment used for research purposes may not be deducted. such equipment shall be subject to depreciation under article 17 of this law.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59514,
+    "source_ar": "المادة السابعة عشرة: الاستهلاك",
+    "target_en": "Article 17: Depreciation",
+    "source_ar_norm": "المادة السابعة عشرة: الاستهلاك",
+    "target_en_norm": "article 17: depreciation",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59515,
+    "source_ar": "أ - باستثناء الأرض يجوز حسم الاستهلاك عن أصول المكلف ذات الطبيعة المستهلكة الملموسة وغير الملموسة التي تنقص قيمتها، بسبب الاستعمال أو التلف أو التقادم، وتستخدم جميعها أو جزء منها في در الدخل الخاضع للضريبة ويبقى لها قيمة بعد انتهاء السنة الضريبية.",
+    "target_en": "A. Except for land, depreciation may be deducted for a taxpayer's depreciable tangible or intangible assets which lose value because of wear and tear or obsolescence and which are used, in whole or in part, in the generation of taxable income, and remain to have value after the end of the taxable year.",
+    "source_ar_norm": "ا - باستثناء الارض يجوز حسم الاستهلاك عن اصول المكلف ذات الطبيعة المستهلكة الملموسة وغير الملموسة التي تنقص قيمتها، بسبب الاستعمال او التلف او التقادم، وتستخدم جميعها او جزء منها في در الدخل الخاضع للضريبة ويبقي لها قيمة بعد انتهاء السنة الضريبية.",
+    "target_en_norm": "a. except for land, depreciation may be deducted for a taxpayer's depreciable tangible or intangible assets which lose value because of wear and tear or obsolescence and which are used, in whole or in part, in the generation of taxable income, and remain to have value after the end of the taxable year.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59516,
+    "source_ar": "ب - تقسم الأصول القابلة للاستهلاك إلى مجموعات ونسب استهلاك كما يأتي:",
+    "target_en": "B. Depreciable assets are classified into groups and depreciation rates as follows:",
+    "source_ar_norm": "ب - تقسم الاصول القابلة للاستهلاك الي مجموعات ونسب استهلاك كما ياتي:",
+    "target_en_norm": "b. depreciable assets are classified into groups and depreciation rates as follows:",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59517,
+    "source_ar": "1 - المباني الثابتة: خمسة بالمائة (5%).",
+    "target_en": "1. Stationary buildings: 5%.",
+    "source_ar_norm": "1 - المباني الثابتة: خمسة بالمائة (5%).",
+    "target_en_norm": "1. stationary buildings: 5%.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59518,
+    "source_ar": "2 - المباني الصناعية والزراعية المتنقلة: عشرة بالمائة (10%).",
+    "target_en": "2. Movable industrial and agricultural buildings: 10%.",
+    "source_ar_norm": "2 - المباني الصناعية والزراعية المتنقلة: عشرة بالمائة (10%).",
+    "target_en_norm": "2. movable industrial and agricultural buildings: 10%.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59519,
+    "source_ar": "3 - المصانع والآلات والمكائن والأجهزة والبرمجيات (برامج الحاسوب) والمعدات بما في ذلك سيارات الركوب والشحن: خمسة وعشرون بالمائة (25%).",
+    "target_en": "3. Factories, machines, engines, hardware, software (computer software), and equipment, including passenger and cargo vehicles: 25%.",
+    "source_ar_norm": "3 - المصانع والالات والمكائن والاجهزة والبرمجيات (برامج الحاسوب) والمعدات بما في ذلك سيارات الركوب والشحن: خمسة وعشرون بالمائة (25%).",
+    "target_en_norm": "3. factories, machines, engines, hardware, software (computer software), and equipment, including passenger and cargo vehicles: 25%.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59520,
+    "source_ar": "4 - مصاريف المسح الجيولوجي والتنقيب والاستكشاف والأعمال التمهيدية لاستخراج الموارد الطبيعية وتطوير حقولها: عشرون بالمائة (20%).",
+    "target_en": "4. Expenses for geological surveying, drilling, exploration, and other preliminary work to exploit natural resources and develop their fields: 20%.",
+    "source_ar_norm": "4 - مصاريف المسح الجيولوجي والتنقيب والاستكشاف والاعمال التمهيدية لاستخراج الموارد الطبيعية وتطوير حقولها: عشرون بالمائة (20%).",
+    "target_en_norm": "4. expenses for geological surveying, drilling, exploration, and other preliminary work to exploit natural resources and develop their fields: 20%.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59521,
+    "source_ar": "5 - جميع الأصول الأخرى الملموسة وغير الملموسة ذات الطبيعة المستهلكة غير المشمولة بالمجموعات السابقة كالأثاث والطائرات والسفن والقاطرات والشهرة ... عشرة بالمائة (10%).",
+    "target_en": "5. All other tangible and intangible depreciable assets not included in the previous categories, such as furniture, planes, ships, trains, and goodwill: 10%.",
+    "source_ar_norm": "5 - جميع الاصول الاخري الملموسة وغير الملموسة ذات الطبيعة المستهلكة غير المشمولة بالمجموعات السابقة كالاثاث والطائرات والسفن والقاطرات والشهرة ... عشرة بالمائة (10%).",
+    "target_en_norm": "5. all other tangible and intangible depreciable assets not included in the previous categories, such as furniture, planes, ships, trains, and goodwill: 10%.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59522,
+    "source_ar": "ج - يحتسب مصروف الاستهلاك لكل مجموعة وفقا للفقرات من (د) إلى (ل) من هذه المادة.",
+    "target_en": "C. The depreciation deduction for each group is determined in accordance with paragraphs (d) to (l) of this Article.",
+    "source_ar_norm": "ج - يحتسب مصروف الاستهلاك لكل مجموعة وفقا للفقرات من (د) الي (ل) من هذه المادة.",
+    "target_en_norm": "c. the depreciation deduction for each group is determined in accordance with paragraphs (d) to (l) of this article.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59523,
+    "source_ar": "د - يحسب قسط الاستهلاك لكل مجموعة بتطبيق نسبة الاستهلاك المحددة لها بمقتضى الفقرة (ب) من هذه المادة على باقي قيمة تلك المجموعة في نهاية السنة الضريبية.",
+    "target_en": "D. The depreciation deduction for each group is calculated by applying its depreciation rate as determined in accordance with paragraph (b) of this Article against the balance of the value of such group at the end of the taxable year.",
+    "source_ar_norm": "د - يحسب قسط الاستهلاك لكل مجموعة بتطبيق نسبة الاستهلاك المحددة لها بمقتضي الفقرة (ب) من هذه المادة علي باقي قيمة تلك المجموعة في نهاية السنة الضريبية.",
+    "target_en_norm": "d. the depreciation deduction for each group is calculated by applying its depreciation rate as determined in accordance with paragraph (b) of this article against the balance of the value of such group at the end of the taxable year.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59524,
+    "source_ar": "هـ - إن باقي قيمة كل مجموعة في نهاية السنة الضريبية هو إجمالي باقي قيمة المجموعة في نهاية السنة الضريبية السابقة بعد حسم قسط الاستهلاك وفقا لهذه المادة للسنة الضريبية السابقة، ويضاف إليه نسبة خمسين بالمائة (50%) من أساس التكلفة للأصول الموضوعة في الخدمة خلال السنة الضريبية الحالية والسابقة، مخصوما من المبلغ نسبة خمسين بالمائة (50%) من التعويضات عن الأصول المتصرف بها خلال السنة الضريبية الحالية والسابقة شريطة ألا يصبح الباقي سالبا.",
+    "target_en": "E. The balance of the value of each group at the end of a taxable year is the total of the balance of the value of the group at the end of the previous taxable year after the deduction of depreciation in accordance with this Article for the previous taxable year, and the addition of 50% of the cost base of assets in use during the current and previous taxable years after the deduction of 50% of the compensation received from the assets disposed of during the current and previous taxable years, provided that the balance does not become negative.",
+    "source_ar_norm": "ه - ان باقي قيمة كل مجموعة في نهاية السنة الضريبية هو اجمالي باقي قيمة المجموعة في نهاية السنة الضريبية السابقة بعد حسم قسط الاستهلاك وفقا لهذه المادة للسنة الضريبية السابقة، ويضاف اليه نسبة خمسين بالمائة (50%) من اساس التكلفة للاصول الموضوعة في الخدمة خلال السنة الضريبية الحالية والسابقة، مخصوما من المبلغ نسبة خمسين بالمائة (50%) من التعويضات عن الاصول المتصرف بها خلال السنة الضريبية الحالية والسابقة شريطة الا يصبح الباقي سالبا.",
+    "target_en_norm": "e. the balance of the value of each group at the end of a taxable year is the total of the balance of the value of the group at the end of the previous taxable year after the deduction of depreciation in accordance with this article for the previous taxable year, and the addition of 50% of the cost base of assets in use during the current and previous taxable years after the deduction of 50% of the compensation received from the assets disposed of during the current and previous taxable years, provided that the balance does not become negative.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59525,
+    "source_ar": "و - إذا حول المكلف الأصل المملوك له إلى الاستعمال الشخصي، أو لم يعد الأصل يستخدم نهائيا في در الدخل الخاضع للضريبة، يعد هذا العمل تصرفا بالأصل من جانب المكلف بقيمته السوقية.",
+    "target_en": "F. If the taxpayer converts its assets to personal use or if the asset ceases to be used in the generation of taxable income, this action by the taxpayer shall be deemed to be a disposal of the asset for its market value.",
+    "source_ar_norm": "و - اذا حول المكلف الاصل المملوك له الي الاستعمال الشخصي، او لم يعد الاصل يستخدم نهائيا في در الدخل الخاضع للضريبة، يعد هذا العمل تصرفا بالاصل من جانب المكلف بقيمته السوقية.",
+    "target_en_norm": "f. if the taxpayer converts its assets to personal use or if the asset ceases to be used in the generation of taxable income, this action by the taxpayer shall be deemed to be a disposal of the asset for its market value.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59526,
+    "source_ar": "ز- عندما تزيد نسبة الخمسين بالمائة (50%) من التعويض عن الأصول المتخلص منها أثناء السنة الضريبية والسنة السابقة عن باقي قيمة المجموعة في نهاية السنة الضريبية - بصرف النظر عن قيمة التعويض - تخفض قيمة المجموعة إلى صفر، ويضم ما يزيد إلى دخل المكلف الخاضع للضريبة.",
+    "target_en": "G. When 50% of the compensation of the assets disposed of during the current and previous taxable years exceeds the balance of the value of the group at the end of the taxable year, regardless of the amount of such compensation, the value of the group shall be reduced to zero and the excess is included in the taxpayer's taxable income.",
+    "source_ar_norm": "ز- عندما تزيد نسبة الخمسين بالمائة (50%) من التعويض عن الاصول المتخلص منها اثناء السنة الضريبية والسنة السابقة عن باقي قيمة المجموعة في نهاية السنة الضريبية - بصرف النظر عن قيمة التعويض - تخفض قيمة المجموعة الي صفر، ويضم ما يزيد الي دخل المكلف الخاضع للضريبة.",
+    "target_en_norm": "g. when 50% of the compensation of the assets disposed of during the current and previous taxable years exceeds the balance of the value of the group at the end of the taxable year, regardless of the amount of such compensation, the value of the group shall be reduced to zero and the excess is included in the taxpayer's taxable income.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59527,
+    "source_ar": "ح - إذا كانت قيمة المجموعة المتبقية في نهاية السنة، بعد إجازة الحسومات وفقا للفقرة (د) من هذه المادة، أقل من ألف (1000) ريال، فإنه يجوز حسم هذه القيمة المتبقية.",
+    "target_en": "H. If the balance of the value of the group at the end of the year, after approving deductions in accordance with paragraph (d) of this Article, is less than 1,000 riyals, the amount of the balance may be deducted.",
+    "source_ar_norm": "ح - اذا كانت قيمة المجموعة المتبقية في نهاية السنة، بعد اجازة الحسومات وفقا للفقرة (د) من هذه المادة، اقل من الف (1000) ريال، فانه يجوز حسم هذه القيمة المتبقية.",
+    "target_en_norm": "h. if the balance of the value of the group at the end of the year, after approving deductions in accordance with paragraph (d) of this article, is less than 1,000 riyals, the amount of the balance may be deducted.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59528,
+    "source_ar": "ط - إذا تم التخلص من جميع الأصول في المجموعة، يجوز حسم المبلغ المتبقي من المجموعة في نهاية السنة.",
+    "target_en": "I. Where all the assets in a group are disposed of, the balance of the group may be deducted at the end of the year.",
+    "source_ar_norm": "ط - اذا تم التخلص من جميع الاصول في المجموعة، يجوز حسم المبلغ المتبقي من المجموعة في نهاية السنة.",
+    "target_en_norm": "i. where all the assets in a group are disposed of, the balance of the group may be deducted at the end of the year.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59529,
+    "source_ar": "ي - في حالة شراء أو بيع أرض وعليها إنشاءات، توزع القيمة على الأرض والإنشاءات بشكل معقول، للتوصل إلى القيمة المنفصلة للإنشاءات.",
+    "target_en": "J. Where a land is bought or sold with constructions thereon, the value shall be reasonably apportioned to arrive at a separate value of the constructions.",
+    "source_ar_norm": "ي - في حالة شراء او بيع ارض وعليها انشاءات، توزع القيمة علي الارض والانشاءات بشكل معقول، للتوصل الي القيمة المنفصلة للانشاءات.",
+    "target_en_norm": "j. where a land is bought or sold with constructions thereon, the value shall be reasonably apportioned to arrive at a separate value of the constructions.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59530,
+    "source_ar": "ك - في حالة استخدام جزء من الأصول في در الدخل الخاضع للضريبة، فإنه يجوز حسم استهلاك لجزء من تكلفة الأصل مقابل الجزء من الأصل المستخدم في در الدخل الخاضع للضريبة.",
+    "target_en": "K. In case part of the assets is used for the generation of taxable income, a depreciation deduction is allowed for part of the asset value against the part of the asset used in the generation of the taxable income.",
+    "source_ar_norm": "ك - في حالة استخدام جزء من الاصول في در الدخل الخاضع للضريبة، فانه يجوز حسم استهلاك لجزء من تكلفة الاصل مقابل الجزء من الاصل المستخدم في در الدخل الخاضع للضريبة.",
+    "target_en_norm": "k. in case part of the assets is used for the generation of taxable income, a depreciation deduction is allowed for part of the asset value against the part of the asset used in the generation of the taxable income.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59531,
+    "source_ar": "ل - استثناءً من أحكام الفقرات السابقة، يجوز استهلاك أصول عقود البناء والتشغيل ثم نقل الملكية، وعقود البناء والتملك والتشغيل ثم نقل الملكية، على سنوات العقد، أو على الفترة المتبقية منه، إذا تم تأمين أو تجديد الأصول خلالها.",
+    "target_en": "L. As an exception to the provisions of the previous paragraphs, assets under Build-Operate-Transfer (BOT) or Build-Own-Operate-Transfer (BOOT) contracts may be depreciated over the contract period or over the remaining period of the contract, if such assets are acquired or renewed during that period.",
+    "source_ar_norm": "ل - استثناء من احكام الفقرات السابقة، يجوز استهلاك اصول عقود البناء والتشغيل ثم نقل الملكية، وعقود البناء والتملك والتشغيل ثم نقل الملكية، علي سنوات العقد، او علي الفترة المتبقية منه، اذا تم تامين او تجديد الاصول خلالها.",
+    "target_en_norm": "l. as an exception to the provisions of the previous paragraphs, assets under build-operate-transfer (bot) or build-own-operate-transfer (boot) contracts may be depreciated over the contract period or over the remaining period of the contract, if such assets are acquired or renewed during that period.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59532,
+    "source_ar": "المادة الثامنة عشرة: مصاريف إصلاحات وتحسينات الأصول",
+    "target_en": "Article 18: Expenses of Asset Repair and Improvement",
+    "source_ar_norm": "المادة الثامنة عشرة: مصاريف اصلاحات وتحسينات الاصول",
+    "target_en_norm": "article 18: expenses of asset repair and improvement",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59533,
+    "source_ar": "أ - يجوز حسم المصاريف المتكبدة في كل مجموعة عن الإصلاحات أو التحسينات التي أجراها المكلف على الأصول المستهلكة الواقعة في تلك المجموعة.",
+    "target_en": "A. Expenses incurred by the taxpayer for the repair or improvement of depreciable assets in each group may be deducted.",
+    "source_ar_norm": "ا - يجوز حسم المصاريف المتكبدة في كل مجموعة عن الاصلاحات او التحسينات التي اجراها المكلف علي الاصول المستهلكة الواقعة في تلك المجموعة.",
+    "target_en_norm": "a. expenses incurred by the taxpayer for the repair or improvement of depreciable assets in each group may be deducted.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59534,
+    "source_ar": "ب - لا تزيد قيمة المصاريف المسموح بها وفقا للفقرة (أ) من هذه المادة لكل سنة عن نسبة أربعة بالمائة (4%) من باقي قيمة المجموعة في نهاية تلك السنة.",
+    "target_en": "B. The amount of expenses deductible in accordance with paragraph (a) of this Article for each year shall not exceed 4% of the balance of the value of the group at the end of said year.",
+    "source_ar_norm": "ب - لا تزيد قيمة المصاريف المسموح بها وفقا للفقرة (ا) من هذه المادة لكل سنة عن نسبة اربعة بالمائة (4%) من باقي قيمة المجموعة في نهاية تلك السنة.",
+    "target_en_norm": "b. the amount of expenses deductible in accordance with paragraph (a) of this article for each year shall not exceed 4% of the balance of the value of the group at the end of said year.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59535,
+    "source_ar": "ج - يضاف المبلغ الزائد عن الحد المبين بالفقرة (ب) من هذه المادة إلى باقي قيمة المجموعة.",
+    "target_en": "C. The amount exceeding the limit stated in paragraph (b) of this Article shall be added to the balance of the value of the group.",
+    "source_ar_norm": "ج - يضاف المبلغ الزائد عن الحد المبين بالفقرة (ب) من هذه المادة الي باقي قيمة المجموعة.",
+    "target_en_norm": "c. the amount exceeding the limit stated in paragraph (b) of this article shall be added to the balance of the value of the group.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59536,
+    "source_ar": "المادة التاسعة عشرة: مصاريف المسح الجيولوجي والأعمال التمهيدية لاستخراج الموارد الطبيعية",
+    "target_en": "Article 19: Expenses for Geological Surveying and Preliminary Work for the Extraction of Natural Resources",
+    "source_ar_norm": "المادة التاسعة عشرة: مصاريف المسح الجيولوجي والاعمال التمهيدية لاستخراج الموارد الطبيعية",
+    "target_en_norm": "article 19: expenses for geological surveying and preliminary work for the extraction of natural resources",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59537,
+    "source_ar": "أ - تحسم مصاريف المسح الجيولوجي والأعمال التمهيدية لاستخراج الموارد الطبيعية على شكل مصاريف إطفاء، وبمعدل الاستهلاك المحدد في الفقرة (ب) من المادة السابعة عشرة من هذا النظام، حيث تشكل هذه المصاريف مجموعة مستقلة.",
+    "target_en": "A. Expenses for geological surveying and preliminary work for the extraction of natural resources are deducted in the form of amortization expenses at the depreciation rate determined in Article 17(b) of this Law, where these expenses constitute an independent group.",
+    "source_ar_norm": "ا - تحسم مصاريف المسح الجيولوجي والاعمال التمهيدية لاستخراج الموارد الطبيعية علي شكل مصاريف اطفاء، وبمعدل الاستهلاك المحدد في الفقرة (ب) من المادة السابعة عشرة من هذا النظام، حيث تشكل هذه المصاريف مجموعة مستقلة.",
+    "target_en_norm": "a. expenses for geological surveying and preliminary work for the extraction of natural resources are deducted in the form of amortization expenses at the depreciation rate determined in article 17(b) of this law, where these expenses constitute an independent group.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59538,
+    "source_ar": "ب - تنطبق هذه المادة أيضا على مصاريف الأصول غير الملموسة، والتي يتحملها المكلف في شراء حقوق المسح الجيولوجي ومعالجة واستغلال الموارد الطبيعية.",
+    "target_en": "B. This Article also applies to expenses of intangible assets incurred by the taxpayer in the acquisition of rights to geological surveying and the treatment and exploitation of natural resources.",
+    "source_ar_norm": "ب - تنطبق هذه المادة ايضا علي مصاريف الاصول غير الملموسة، والتي يتحملها المكلف في شراء حقوق المسح الجيولوجي ومعالجة واستغلال الموارد الطبيعية.",
+    "target_en_norm": "b. this article also applies to expenses of intangible assets incurred by the taxpayer in the acquisition of rights to geological surveying and the treatment and exploitation of natural resources.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59539,
+    "source_ar": "المادة العشرون: المساهمات في صناديق التقاعد النظامية",
+    "target_en": "Article 20: Contributions to Authorized Retirement Funds",
+    "source_ar_norm": "المادة العشرون: المساهمات في صناديق التقاعد النظامية",
+    "target_en_norm": "article 20: contributions to authorized retirement funds",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59540,
+    "source_ar": "أ - يجوز حسم مساهمات صاحب العمل لصالح المستخدم في صندوق تقاعد نظامي مؤسس وفقا لأنظمة المملكة.",
+    "target_en": "A. An employer’s contributions to an authorized retirement fund established in accordance with the laws of the Kingdom may be deducted in favor of the employee.",
+    "source_ar_norm": "ا - يجوز حسم مساهمات صاحب العمل لصالح المستخدم في صندوق تقاعد نظامي مؤسس وفقا لانظمة المملكة.",
+    "target_en_norm": "a. an employer’s contributions to an authorized retirement fund established in accordance with the laws of the kingdom may be deducted in favor of the employee.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59541,
+    "source_ar": "ب - لا يتجاوز الحسم المسموح به بمقتضى الفقرة (أ) من هذه المادة عن كل مستخدم نسبة الخمس والعشرين بالمائة (25%) من دخله قبل احتساب مساهمات صاحب العمل.",
+    "target_en": "B. The deduction allowed under paragraph (a) of this Article for each employee shall not exceed 25% of his income, prior to calculating the employer’s contributions.",
+    "source_ar_norm": "ب - لا يتجاوز الحسم المسموح به بمقتضي الفقرة (ا) من هذه المادة عن كل مستخدم نسبة الخمس والعشرين بالمائة (25%) من دخله قبل احتساب مساهمات صاحب العمل.",
+    "target_en_norm": "b. the deduction allowed under paragraph (a) of this article for each employee shall not exceed 25% of his income, prior to calculating the employer’s contributions.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59542,
+    "source_ar": "ج - لا يجوز حسم مساهمات المستخدم في صندوق تقاعد نظامي.",
+    "target_en": "C. The employee’s contributions to an authorized retirement fund may not be deducted.",
+    "source_ar_norm": "ج - لا يجوز حسم مساهمات المستخدم في صندوق تقاعد نظامي.",
+    "target_en_norm": "c. the employee’s contributions to an authorized retirement fund may not be deducted.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59543,
+    "source_ar": "المادة الحادية والعشرون:",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون:",
+    "target_en_norm": "article 21",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59544,
+    "source_ar": "أ - يجوز ترحيل صافي الخسائر التشغيلية إلى السنة الضريبية التي تلي السنة التي تحققت فيها الخسارة، وتحسم الخسارة المرحلة من الوعاء الضريبي للسنوات الضريبية التالية إلى أن يتم استرداد كامل الخسارة المتراكمة، وتحدد اللائحة الحدود العليا المسموح بحسمها سنويا.",
+    "target_en": "A. A net operating loss may be carried forward to the taxable year following the year in which the loss is incurred. The carried forward loss shall be deducted from the tax base of following taxable years until the cumulative loss is fully offset. The Regulations shall specify the maximum limits which may be deducted annually.",
+    "source_ar_norm": "ا - يجوز ترحيل صافي الخسائر التشغيلية الي السنة الضريبية التي تلي السنة التي تحققت فيها الخسارة، وتحسم الخسارة المرحلة من الوعاء الضريبي للسنوات الضريبية التالية الي ان يتم استرداد كامل الخسارة المتراكمة، وتحدد اللائحة الحدود العليا المسموح بحسمها سنويا.",
+    "target_en_norm": "a. a net operating loss may be carried forward to the taxable year following the year in which the loss is incurred. the carried forward loss shall be deducted from the tax base of following taxable years until the cumulative loss is fully offset. the regulations shall specify the maximum limits which may be deducted annually.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59545,
+    "source_ar": "ب - صافي الخسارة التشغيلية هي الحسومات الجائزة بمقتضى هذا الفصل والزائدة عن الدخل الخاضع للضريبة في السنة الضريبية.",
+    "target_en": "B. A net operating loss is the deductions allowed under this Chapter which are in excess of the taxable income for the taxable year.",
+    "source_ar_norm": "ب - صافي الخسارة التشغيلية هي الحسومات الجائزة بمقتضي هذا الفصل والزائدة عن الدخل الخاضع للضريبة في السنة الضريبية.",
+    "target_en_norm": "b. a net operating loss is the deductions allowed under this chapter which are in excess of the taxable income for the taxable year.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59546,
+    "source_ar": "ج - لاحتساب صافي الخسارة التشغيلية للشخص الطبيعي ينظر إلى الحسومات والإيراد للنشاط فقط.",
+    "target_en": "C. To calculate the net operating loss for a natural person, only the activity’s deductions and income shall be taken into consideration.",
+    "source_ar_norm": "ج - لاحتساب صافي الخسارة التشغيلية للشخص الطبيعي ينظر الي الحسومات والايراد للنشاط فقط.",
+    "target_en_norm": "c. to calculate the net operating loss for a natural person, only the activity’s deductions and income shall be taken into consideration.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59547,
+    "source_ar": "د. ال يجوز حسم صافي الخسائر التشغيلية المتعلقة بالوعاء الضريبي الخاص بمجال استثمار الغاز الطبيعي من الوعاء الضريبي الخاص بمجال إنتاج الزيت والمواد الهيدروكربونية، أو حسم صافي الخسائر التشغيلية المتعلقة بالوعاء الضريبي الخاص بمجال إنتاج الزيت والمواد الهيدروكربونية من الوعاء الضريبي الخاص بمجال استثمار الغاز الطبيعي للمكلف الذي يعمل في مجال إنتاج الزيت والمواد الهيدروكربونية ومجال استثمار الغاز الطبيعي معًا.",
+    "target_en": "D. For a taxpayer engaged in natural gas investment and the production of oil and hydrocarbons, net operating losses relating to the tax base of natural gas investment shall not be deducted from the tax base of the production of oil and hydrocarbons; likewise, net operating losses relating to the tax base of the production of oil and hydrocarbons shall not be deducted from the tax base of natural gas investment.",
+    "source_ar_norm": "د. ال يجوز حسم صافي الخسائر التشغيلية المتعلقة بالوعاء الضريبي الخاص بمجال استثمار الغاز الطبيعي من الوعاء الضريبي الخاص بمجال انتاج الزيت والمواد الهيدروكربونية، او حسم صافي الخسائر التشغيلية المتعلقة بالوعاء الضريبي الخاص بمجال انتاج الزيت والمواد الهيدروكربونية من الوعاء الضريبي الخاص بمجال استثمار الغاز الطبيعي للمكلف الذي يعمل في مجال انتاج الزيت والمواد الهيدروكربونية ومجال استثمار الغاز الطبيعي معا.",
+    "target_en_norm": "d. for a taxpayer engaged in natural gas investment and the production of oil and hydrocarbons, net operating losses relating to the tax base of natural gas investment shall not be deducted from the tax base of the production of oil and hydrocarbons; likewise, net operating losses relating to the tax base of the production of oil and hydrocarbons shall not be deducted from the tax base of natural gas investment.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59548,
+    "source_ar": "الفصل السادس: قواعد المحاسبة الضريبية",
+    "target_en": "Chapter 6: Tax Accounting Rules",
+    "source_ar_norm": "الفصل السادس: قواعد المحاسبة الضريبية",
+    "target_en_norm": "chapter 6: tax accounting rules",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59549,
+    "source_ar": "المادة الثانية والعشرون: السنة الضريبية",
+    "target_en": "Article 22: Taxable year",
+    "source_ar_norm": "المادة الثانية والعشرون: السنة الضريبية",
+    "target_en_norm": "article 22: taxable year",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59550,
+    "source_ar": "أ - السنة الضريبية هي السنة المالية للدولة.",
+    "target_en": "A. The taxable year shall be the State’s fiscal year.",
+    "source_ar_norm": "ا - السنة الضريبية هي السنة المالية للدولة.",
+    "target_en_norm": "a. the taxable year shall be the state’s fiscal year.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59551,
+    "source_ar": "ب - يجوز للمكلف استخدام فترة اثني عشر شهرا مختلفة عما ورد في الفقرة (أ) من هذه المادة كسنة ضريبية وفقا للضوابط التي تحددها اللائحة.",
+    "target_en": "B. A taxpayer may use a 12-month period other than the one specified in paragraph (a) of this Article as a taxable year, in accordance with the restrictions specified in the Regulations.",
+    "source_ar_norm": "ب - يجوز للمكلف استخدام فترة اثني عشر شهرا مختلفة عما ورد في الفقرة (ا) من هذه المادة كسنة ضريبية وفقا للضوابط التي تحددها اللائحة.",
+    "target_en_norm": "b. a taxpayer may use a 12-month period other than the one specified in paragraph (a) of this article as a taxable year, in accordance with the restrictions specified in the regulations.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59552,
+    "source_ar": "ج - إذا غير المكلف سنته الضريبية، تعامل الفترة الفاصلة بين آخر سنة ضريبية كاملة قبل التغيير وتاريخ ابتداء السنة الضريبية الجديدة، كفترة مالية قصيرة ومستقلة، ويجوز أن تكون السنة الأولى للمكلف الجديد أو السنة الأخيرة للمكلف في حالة التوقف أو التصفية سنة مالية قصيرة مستقلة ما لم ينص على أن تكون سنة طويلة وفقا لنظام الشركات.",
+    "target_en": "C. If a taxpayer changes its taxable year, the interval between the last full taxable year prior to the change and the starting date of the new taxable year shall be considered a short independent fiscal period. The first year of a new taxpayer or the last year of a taxpayer in case of discontinuation or liquidation may be a short independent fiscal year, unless the Companies Law stipulates for it to be a long fiscal year.",
+    "source_ar_norm": "ج - اذا غير المكلف سنته الضريبية، تعامل الفترة الفاصلة بين اخر سنة ضريبية كاملة قبل التغيير وتاريخ ابتداء السنة الضريبية الجديدة، كفترة مالية قصيرة ومستقلة، ويجوز ان تكون السنة الاولي للمكلف الجديد او السنة الاخيرة للمكلف في حالة التوقف او التصفية سنة مالية قصيرة مستقلة ما لم ينص علي ان تكون سنة طويلة وفقا لنظام الشركات.",
+    "target_en_norm": "c. if a taxpayer changes its taxable year, the interval between the last full taxable year prior to the change and the starting date of the new taxable year shall be considered a short independent fiscal period. the first year of a new taxpayer or the last year of a taxpayer in case of discontinuation or liquidation may be a short independent fiscal year, unless the companies law stipulates for it to be a long fiscal year.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59553,
+    "source_ar": "د - تستخدم مجموعات الشركات المرتبطة وكما ورد تعريفها في المادة الرابعة والستين من هذا النظام نفس السنة الضريبية.",
+    "target_en": "D. Groups of related companies, as defined in Article 64 of this Law, shall use the same taxable year.",
+    "source_ar_norm": "د - تستخدم مجموعات الشركات المرتبطة وكما ورد تعريفها في المادة الرابعة والستين من هذا النظام نفس السنة الضريبية.",
+    "target_en_norm": "d. groups of related companies, as defined in article 64 of this law, shall use the same taxable year.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59554,
+    "source_ar": "المادة الثالثة والعشرون: طريقة المحاسبة",
+    "target_en": "Article 23: Accounting Method",
+    "source_ar_norm": "المادة الثالثة والعشرون: طريقة المحاسبة",
+    "target_en_norm": "article 23: accounting method",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59555,
+    "source_ar": "أ - يجب أن تبين طريقة المحاسبة التي يتبعها المكلف دخله بوضوح.",
+    "target_en": "A. A taxpayer's accounting method must clearly reflect the taxpayer's income.",
+    "source_ar_norm": "ا - يجب ان تبين طريقة المحاسبة التي يتبعها المكلف دخله بوضوح.",
+    "target_en_norm": "a. a taxpayer's accounting method must clearly reflect the taxpayer's income.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59556,
+    "source_ar": "ب - يحدد إجمالي الدخل والمصاريف للشركة المقيمة ولأي مكلف يحتفظ أو ملزم نظاما بالاحتفاظ بالدفاتر التجارية المتوافقة مع المبادئ المحاسبية المتعارف عليها بالمملكة وفقا لتلك الدفاتر بعد تعديل الحسابات لتتلاءم وقواعد هذا النظام.",
+    "target_en": "B. The gross income and expenses of a resident company, and any other taxpayer who keeps or is required by Law to keep commercial books according to the accounting principles generally accepted in the Kingdom, shall be determined according to such books after adjusting the accounts so as to conform to the rules of this Law.",
+    "source_ar_norm": "ب - يحدد اجمالي الدخل والمصاريف للشركة المقيمة ولاي مكلف يحتفظ او ملزم نظاما بالاحتفاظ بالدفاتر التجارية المتوافقة مع المبادئ المحاسبية المتعارف عليها بالمملكة وفقا لتلك الدفاتر بعد تعديل الحسابات لتتلاءم وقواعد هذا النظام.",
+    "target_en_norm": "b. the gross income and expenses of a resident company, and any other taxpayer who keeps or is required by law to keep commercial books according to the accounting principles generally accepted in the kingdom, shall be determined according to such books after adjusting the accounts so as to conform to the rules of this law.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59557,
+    "source_ar": "ج - يجوز للأغراض الضريبية أن يدون الشخص الطبيعي معاملاته على أساس المبدأ النقدي أو مبدأ الاستحقاق، غير أنه إذا زاد إجمالي دخله من النشاط في سنة ضريبية عن المبلغ المحدد في اللائحة، فيجب عليه استخدام مبدأ الاستحقاق في جميع السنوات الضريبية التالية.",
+    "target_en": "C. For taxation purposes, a natural person may record his transactions on a cash or accrual basis. If his gross income from business during a taxable year exceeds the amount specified in the Regulations, he must use the accrual method in all succeeding taxable years.",
+    "source_ar_norm": "ج - يجوز للاغراض الضريبية ان يدون الشخص الطبيعي معاملاته علي اساس المبدا النقدي او مبدا الاستحقاق، غير انه اذا زاد اجمالي دخله من النشاط في سنة ضريبية عن المبلغ المحدد في اللائحة، فيجب عليه استخدام مبدا الاستحقاق في جميع السنوات الضريبية التالية.",
+    "target_en_norm": "c. for taxation purposes, a natural person may record his transactions on a cash or accrual basis. if his gross income from business during a taxable year exceeds the amount specified in the regulations, he must use the accrual method in all succeeding taxable years.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59558,
+    "source_ar": "د - يجب على الشركة التي تحتفظ بالدفاتر التجارية أو ملزمة نظاما بالاحتفاظ بها تدوين الدخل والمصاريف على أساس مبدأ الاستحقاق. وما عدا ذلك، يجوز لها للأغراض الضريبية استخدام مبدأ الاستحقاق أو المبدأ النقدي.",
+    "target_en": "D. A company which keeps or is required by Law to keep commercial books must record income and expenses on an accrual basis. Otherwise, it may, for taxation purposes, use either the cash or accrual method.",
+    "source_ar_norm": "د - يجب علي الشركة التي تحتفظ بالدفاتر التجارية او ملزمة نظاما بالاحتفاظ بها تدوين الدخل والمصاريف علي اساس مبدا الاستحقاق. وما عدا ذلك، يجوز لها للاغراض الضريبية استخدام مبدا الاستحقاق او المبدا النقدي.",
+    "target_en_norm": "d. a company which keeps or is required by law to keep commercial books must record income and expenses on an accrual basis. otherwise, it may, for taxation purposes, use either the cash or accrual method.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59559,
+    "source_ar": "هـ - باستثناء التغيير من المبدأ النقدي إلى الاستحقاق طبقا للفقرة (ج) أو (د) من هذه المادة، يجوز للمكلف تغيير سياسته المحاسبية بعد الحصول على موافقة المصلحة.",
+    "target_en": "E. Except for a change from the cash basis to the accrual basis required in accordance with paragraphs (c) or (d) of this Article, a taxpayer may change its accounting method upon obtaining the Department’s consent.",
+    "source_ar_norm": "ه - باستثناء التغيير من المبدا النقدي الي الاستحقاق طبقا للفقرة (ج) او (د) من هذه المادة، يجوز للمكلف تغيير سياسته المحاسبية بعد الحصول علي موافقة المصلحة.",
+    "target_en_norm": "e. except for a change from the cash basis to the accrual basis required in accordance with paragraphs (c) or (d) of this article, a taxpayer may change its accounting method upon obtaining the department’s consent.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59560,
+    "source_ar": "و - إذا غير المكلف سياسته المحاسبية، فعليه إجراء التعديلات على بنود الدخل والحسومات أو الدين أو أي بنود أخرى في السنة الضريبية التي تلي التغيير بحيث لا يحذف أي بند أو يظهر أكثر من مرة.",
+    "target_en": "F. If the taxpayer changes its accounting method, it must perform adjustments to items of income and deduction or to debt or any other items in the taxable year following the change, so that no item is omitted or included more than once.",
+    "source_ar_norm": "و - اذا غير المكلف سياسته المحاسبية، فعليه اجراء التعديلات علي بنود الدخل والحسومات او الدين او اي بنود اخري في السنة الضريبية التي تلي التغيير بحيث لا يحذف اي بند او يظهر اكثر من مرة.",
+    "target_en_norm": "f. if the taxpayer changes its accounting method, it must perform adjustments to items of income and deduction or to debt or any other items in the taxable year following the change, so that no item is omitted or included more than once.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59561,
+    "source_ar": "المادة الرابعة والعشرون: المحاسبة وفقا للمبدأ النقدي",
+    "target_en": "Article 24: Cash-Basis Accounting",
+    "source_ar_norm": "المادة الرابعة والعشرون: المحاسبة وفقا للمبدا النقدي",
+    "target_en_norm": "article 24: cash-basis accounting",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59562,
+    "source_ar": "يدون المكلف الذي يستخدم الأساس النقدي في دفاتره وسجلاته الدخل المستلم عند استلامه أو عندما يكون جاهزا للاستلام، والمصاريف المسددة عند دفعها.",
+    "target_en": "A taxpayer who uses the cash method in its books and records shall register the received income when received or made available for receipt, and the paid expenses when paid.",
+    "source_ar_norm": "يدون المكلف الذي يستخدم الاساس النقدي في دفاتره وسجلاته الدخل المستلم عند استلامه او عندما يكون جاهزا للاستلام، والمصاريف المسددة عند دفعها.",
+    "target_en_norm": "a taxpayer who uses the cash method in its books and records shall register the received income when received or made available for receipt, and the paid expenses when paid.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59563,
+    "source_ar": "المادة الخامسة والعشرون: المحاسبة وفقا لمبدأ الاستحقاق",
+    "target_en": "Article 25: Accrual-Basis Accounting",
+    "source_ar_norm": "المادة الخامسة والعشرون: المحاسبة وفقا لمبدا الاستحقاق",
+    "target_en_norm": "article 25: accrual-basis accounting",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59564,
+    "source_ar": "أ - يدون المكلف الذي يستخدم مبدأ الاستحقاق الدخل والمصاريف عند استحقاقها.",
+    "target_en": "A. A taxpayer who uses the accrual method shall record income and expenses when they are due.",
+    "source_ar_norm": "ا - يدون المكلف الذي يستخدم مبدا الاستحقاق الدخل والمصاريف عند استحقاقها.",
+    "target_en_norm": "a. a taxpayer who uses the accrual method shall record income and expenses when they are due.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59565,
+    "source_ar": "ب - يصبح المبلغ واجب الدفع إلى المكلف إذا حق للمكلف استلامه حتى لو تأجل التسديد أو تم على أقساط.",
+    "target_en": "B. An amount becomes payable to the taxpayer when the taxpayer is entitled to receive it, even if payment is postponed or paid in installments.",
+    "source_ar_norm": "ب - يصبح المبلغ واجب الدفع الي المكلف اذا حق للمكلف استلامه حتي لو تاجل التسديد او تم علي اقساط.",
+    "target_en_norm": "b. an amount becomes payable to the taxpayer when the taxpayer is entitled to receive it, even if payment is postponed or paid in installments.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59566,
+    "source_ar": "ج - يصبح المبلغ واجب الدفع من قبل المكلف عندما تحدث جميع الوقائع التي تؤكد المديونية.",
+    "target_en": "C. An amount becomes payable by the taxpayer when all facts determining liability have occurred.",
+    "source_ar_norm": "ج - يصبح المبلغ واجب الدفع من قبل المكلف عندما تحدث جميع الوقائع التي تؤكد المديونية.",
+    "target_en_norm": "c. an amount becomes payable by the taxpayer when all facts determining liability have occurred.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59567,
+    "source_ar": "المادة السادسة والعشرون: العقود طويلة الأجل",
+    "target_en": "Article 26: Long Term Contracts",
+    "source_ar_norm": "المادة السادسة والعشرون: العقود طويلة الاجل",
+    "target_en_norm": "article 26: long term contracts",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59568,
+    "source_ar": "أ - يحتسب الدخل والمصاريف المتعلقة بعقد طويل الأجل للمكلف الذي يستخدم مبدأ الاستحقاق على أساس نسبة العمل المنجز خلال السنة الضريبية.",
+    "target_en": "A. For a taxpayer who uses the accrual method, income and expenses relating to a long term contract shall be calculated on the basis of the percentage of the work completed during the taxable year.",
+    "source_ar_norm": "ا - يحتسب الدخل والمصاريف المتعلقة بعقد طويل الاجل للمكلف الذي يستخدم مبدا الاستحقاق علي اساس نسبة العمل المنجز خلال السنة الضريبية.",
+    "target_en_norm": "a. for a taxpayer who uses the accrual method, income and expenses relating to a long term contract shall be calculated on the basis of the percentage of the work completed during the taxable year.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59569,
+    "source_ar": "ب - تحدد نسبة العمل المنجز بمقارنة تكاليف العقد المتكبدة خلال السنة الضريبية مع إجمالي التكلفة المقدرة للعقد.",
+    "target_en": "B. The percentage of work completed shall be determined by comparing the costs of the contract incurred during the taxable year with the total estimated cost of the contract.",
+    "source_ar_norm": "ب - تحدد نسبة العمل المنجز بمقارنة تكاليف العقد المتكبدة خلال السنة الضريبية مع اجمالي التكلفة المقدرة للعقد.",
+    "target_en_norm": "b. the percentage of work completed shall be determined by comparing the costs of the contract incurred during the taxable year with the total estimated cost of the contract.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59570,
+    "source_ar": "ج - لأغراض هذه المادة يعني مصطلح \" عقد طويل الأجل \" عقد تصنيع أو تركيب أو إنشاء أو أداء خدمات متعلقة بها والذي لم يكتمل تنفيذه خلال السنة التي بدأ فيها التنفيذ، باستثناء العقد المتوقع اكتماله خلال ستة أشهر من تاريخ البدء الفعلي للعمل الوارد في العقد.",
+    "target_en": "C. For the purposes of this Article, the term ‘long term contract’ shall mean a contract for the manufacture, installation, construction, or performance of services related thereto, and whose execution is not completed within the year in which execution started, with the exception of a contract that is expected to be completed within six months of the actual starting date of work cited in the contract.",
+    "source_ar_norm": "ج - لاغراض هذه المادة يعني مصطلح \" عقد طويل الاجل \" عقد تصنيع او تركيب او انشاء او اداء خدمات متعلقة بها والذي لم يكتمل تنفيذه خلال السنة التي بدا فيها التنفيذ، باستثناء العقد المتوقع اكتماله خلال ستة اشهر من تاريخ البدء الفعلي للعمل الوارد في العقد.",
+    "target_en_norm": "c. for the purposes of this article, the term ‘long term contract’ shall mean a contract for the manufacture, installation, construction, or performance of services related thereto, and whose execution is not completed within the year in which execution started, with the exception of a contract that is expected to be completed within six months of the actual starting date of work cited in the contract.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59571,
+    "source_ar": "المادة السابعة والعشرون: المخزون",
+    "target_en": "Article 27: Stock",
+    "source_ar_norm": "المادة السابعة والعشرون: المخزون",
+    "target_en_norm": "article 27: stock",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59572,
+    "source_ar": "أ - على المكلف الذي يحتفظ بمخزون، فتح سجلات جرد له والاحتفاظ بتلك السجلات.",
+    "target_en": "A. A taxpayer who maintains stock shall establish and maintain inventories for such stock.",
+    "source_ar_norm": "ا - علي المكلف الذي يحتفظ بمخزون، فتح سجلات جرد له والاحتفاظ بتلك السجلات.",
+    "target_en_norm": "a. a taxpayer who maintains stock shall establish and maintain inventories for such stock.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59573,
+    "source_ar": "ب - تحسم تكلفة البضاعة المباعة خلال السنة الضريبية.",
+    "target_en": "B. The cost of goods sold during the taxable year shall be deducted.",
+    "source_ar_norm": "ب - تحسم تكلفة البضاعة المباعة خلال السنة الضريبية.",
+    "target_en_norm": "b. the cost of goods sold during the taxable year shall be deducted.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59574,
+    "source_ar": "ج - تتحدد تكلفة البضاعة المباعة خلال السنة الضريبية بإضافة تكلفة البضاعة المشتراة خلال السنة إلى بضاعة أول المدة، مطروحا منها قيمة بضاعة نهاية المدة.",
+    "target_en": "C. The cost of goods sold during a taxable year shall be determined by adding the cost of goods purchased during the year to the opening stock and subtracting the value of the closing stock.",
+    "source_ar_norm": "ج - تتحدد تكلفة البضاعة المباعة خلال السنة الضريبية باضافة تكلفة البضاعة المشتراة خلال السنة الي بضاعة اول المدة، مطروحا منها قيمة بضاعة نهاية المدة.",
+    "target_en_norm": "c. the cost of goods sold during a taxable year shall be determined by adding the cost of goods purchased during the year to the opening stock and subtracting the value of the closing stock.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59575,
+    "source_ar": "د - يحسب المكلف الذي يستخدم المبدأ النقدي تكلفة المخزون باستخدام طريقة التكلفة الأولية (المباشرة) أو التكاليف الإجمالية، بينما يحسب المكلف الذي يستخدم مبدأ الاستحقاق تكلفة المخزون على أساس طريقة التكاليف الإجمالية فقط.",
+    "target_en": "D. A taxpayer who uses the cash method shall calculate the cost of stock by use of the prime (direct) cost method or the absorption costing method, but a taxpayer using the accrual method shall calculate the cost of stock by use of the absorption costing method only.",
+    "source_ar_norm": "د - يحسب المكلف الذي يستخدم المبدا النقدي تكلفة المخزون باستخدام طريقة التكلفة الاولية (المباشرة) او التكاليف الاجمالية، بينما يحسب المكلف الذي يستخدم مبدا الاستحقاق تكلفة المخزون علي اساس طريقة التكاليف الاجمالية فقط.",
+    "target_en_norm": "d. a taxpayer who uses the cash method shall calculate the cost of stock by use of the prime (direct) cost method or the absorption costing method, but a taxpayer using the accrual method shall calculate the cost of stock by use of the absorption costing method only.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59576,
+    "source_ar": "هـ - قيمة بضاعة نهاية المدة هي التكلفة الدفترية أو القيمة السوقية أيهما أقل في ذلك التاريخ، وعلى المكلف احتساب التكلفة الدفترية للبضاعة بطريقة المتوسط المرجح، إلا أنه يجوز له بعد الحصول على إذن خطي من المصلحة استخدام طريقة أخرى، ولا يجوز تغيير الطريقة التي يختارها إلا بعد موافقة المصلحة.",
+    "target_en": "E. The value of the closing stock shall be the book or market value, whichever is lower at that date. A taxpayer shall calculate the book value of the stock by use of the weighted average method. However, it may use another method, after obtaining the Department’s written permission, and it may not change the method chosen except with the consent of the Department.",
+    "source_ar_norm": "ه - قيمة بضاعة نهاية المدة هي التكلفة الدفترية او القيمة السوقية ايهما اقل في ذلك التاريخ، وعلي المكلف احتساب التكلفة الدفترية للبضاعة بطريقة المتوسط المرجح، الا انه يجوز له بعد الحصول علي اذن خطي من المصلحة استخدام طريقة اخري، ولا يجوز تغيير الطريقة التي يختارها الا بعد موافقة المصلحة.",
+    "target_en_norm": "e. the value of the closing stock shall be the book or market value, whichever is lower at that date. a taxpayer shall calculate the book value of the stock by use of the weighted average method. however, it may use another method, after obtaining the department’s written permission, and it may not change the method chosen except with the consent of the department.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59577,
+    "source_ar": "الفصل السابع: قواعد إضافية لتحديد الوعاء الضريبي",
+    "target_en": "Chapter 7: Additional Rules for Determining the Tax Base",
+    "source_ar_norm": "الفصل السابع: قواعد اضافية لتحديد الوعاء الضريبي",
+    "target_en_norm": "chapter 7: additional rules for determining the tax base",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59578,
+    "source_ar": "المادة الثامنة والعشرون: الممتلكات المشتركة",
+    "target_en": "Article 28: Joint Property",
+    "source_ar_norm": "المادة الثامنة والعشرون: الممتلكات المشتركة",
+    "target_en_norm": "article 28: joint property",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59579,
+    "source_ar": "يوزع الدخل أو المصاريف المتعلقة بممتلكات مشتركة على الشركاء وفقا لحصص الملكية فيها.",
+    "target_en": "Income or expenses relating to jointly-owned property shall be apportioned among partners in proportion to their respective shares in the property.",
+    "source_ar_norm": "يوزع الدخل او المصاريف المتعلقة بممتلكات مشتركة علي الشركاء وفقا لحصص الملكية فيها.",
+    "target_en_norm": "income or expenses relating to jointly-owned property shall be apportioned among partners in proportion to their respective shares in the property.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59580,
+    "source_ar": "المادة التاسعة والعشرون: التقويم",
+    "target_en": "Article 29: Valuation",
+    "source_ar_norm": "المادة التاسعة والعشرون: التقويم",
+    "target_en_norm": "article 29: valuation",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59581,
+    "source_ar": "أ - إذا تضمن احتساب الوعاء الضريبي أو إجمالي الدخل ممتلكات أو خدمات أو مزايا أخرى غير نقدية تحسب القيمة السوقية لها في تاريخ التسجيل في الدفاتر للأغراض الضريبية.",
+    "target_en": "A. If calculation of the tax base or gross income involves non-cash properties, services, or other benefits, their market value shall be calculated as of the date it was recorded in the books for taxation purposes.",
+    "source_ar_norm": "ا - اذا تضمن احتساب الوعاء الضريبي او اجمالي الدخل ممتلكات او خدمات او مزايا اخري غير نقدية تحسب القيمة السوقية لها في تاريخ التسجيل في الدفاتر للاغراض الضريبية.",
+    "target_en_norm": "a. if calculation of the tax base or gross income involves non-cash properties, services, or other benefits, their market value shall be calculated as of the date it was recorded in the books for taxation purposes.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59582,
+    "source_ar": "ب - تحدد القيمة السوقية للأصل غير النقدي المنقول ملكيته إلى المستخدم أو إلى أي شخص يقدم الخدمات دون اعتبار لأي قيود على نقل الملكية.",
+    "target_en": "B. The market value of non-cash property transferred to an employee or any other service provider shall be determined without regard to any restrictions on transfer of ownership.",
+    "source_ar_norm": "ب - تحدد القيمة السوقية للاصل غير النقدي المنقول ملكيته الي المستخدم او الي اي شخص يقدم الخدمات دون اعتبار لاي قيود علي نقل الملكية.",
+    "target_en_norm": "b. the market value of non-cash property transferred to an employee or any other service provider shall be determined without regard to any restrictions on transfer of ownership.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59583,
+    "source_ar": "المادة الثلاثون: تحويل العملة",
+    "target_en": "Article 30: Currency Conversion",
+    "source_ar_norm": "المادة الثلاثون: تحويل العملة",
+    "target_en_norm": "article 30: currency conversion",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59584,
+    "source_ar": "أ - يحتسب إجمالي الدخل والوعاء الضريبي بالريال السعودي.",
+    "target_en": "A. Gross income and tax base shall be calculated in Saudi riyal.",
+    "source_ar_norm": "ا - يحتسب اجمالي الدخل والوعاء الضريبي بالريال السعودي.",
+    "target_en_norm": "a. gross income and tax base shall be calculated in saudi riyal.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59585,
+    "source_ar": "ب - إذا تضمن احتساب الدخل مبلغا بعملة غير الريال السعودي، يحسب المبلغ للأغراض الضريبية بالريال السعودي وبسعر الصرف المعلن عن مؤسسة النقد العربي السعودي في تاريخ العملية.",
+    "target_en": "B. If calculation of income involves an amount in a currency other than the Saudi riyal, the amount shall be calculated for taxation purposes in Saudi riyal at the exchange rate declared by the Saudi Arabian Monetary Agency on the date of the transaction.",
+    "source_ar_norm": "ب - اذا تضمن احتساب الدخل مبلغا بعملة غير الريال السعودي، يحسب المبلغ للاغراض الضريبية بالريال السعودي وبسعر الصرف المعلن عن مؤسسة النقد العربي السعودي في تاريخ العملية.",
+    "target_en_norm": "b. if calculation of income involves an amount in a currency other than the saudi riyal, the amount shall be calculated for taxation purposes in saudi riyal at the exchange rate declared by the saudi arabian monetary agency on the date of the transaction.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59586,
+    "source_ar": "المادة الحادية والثلاثون: مدفوعات أو مزايا غير مباشرة",
+    "target_en": "Article 31: Indirect Payments or Benefits",
+    "source_ar_norm": "المادة الحادية والثلاثون: مدفوعات او مزايا غير مباشرة",
+    "target_en_norm": "article 31: indirect payments or benefits",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59587,
+    "source_ar": "يجب أن يشتمل إجمالي دخل المكلف على أي دفعة يستفيد منها المكلف مباشرة أو غير مباشرة، وكذلك أي دفعة يتم التصرف بها وفقا لتعليماته إذا كانت تلك الدفعة تعد دخلا للمكلف لو دفعت له مباشرة.",
+    "target_en": "The gross income of a taxpayer shall include any payment from which the taxpayer benefits directly or indirectly, as well as any payment dealt with according to its instructions, if such payment is considered income of the taxpayer if paid to the taxpayer directly.",
+    "source_ar_norm": "يجب ان يشتمل اجمالي دخل المكلف علي اي دفعة يستفيد منها المكلف مباشرة او غير مباشرة، وكذلك اي دفعة يتم التصرف بها وفقا لتعليماته اذا كانت تلك الدفعة تعد دخلا للمكلف لو دفعت له مباشرة.",
+    "target_en_norm": "the gross income of a taxpayer shall include any payment from which the taxpayer benefits directly or indirectly, as well as any payment dealt with according to its instructions, if such payment is considered income of the taxpayer if paid to the taxpayer directly.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59588,
+    "source_ar": "المادة الثانية والثلاثون: التعويضات المستلمة",
+    "target_en": "Article 32: Damages Received",
+    "source_ar_norm": "المادة الثانية والثلاثون: التعويضات المستلمة",
+    "target_en_norm": "article 32: damages received",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59589,
+    "source_ar": "تأخذ مبالغ التعويض المستلمة صفة المعوض عنه.",
+    "target_en": "Compensation amounts received shall take the character of what is compensated for.",
+    "source_ar_norm": "تاخذ مبالغ التعويض المستلمة صفة المعوض عنه.",
+    "target_en_norm": "compensation amounts received shall take the character of what is compensated for.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59590,
+    "source_ar": "المادة الثالثة والثلاثون: استرداد المصاريف المحسومة",
+    "target_en": "Article 33: Recoup of Deducted Expenses",
+    "source_ar_norm": "المادة الثالثة والثلاثون: استرداد المصاريف المحسومة",
+    "target_en_norm": "article 33: recoup of deducted expenses",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59591,
+    "source_ar": "أ - إذا استرد المكلف مصروفا أو خسارة أو دينا معدوما سبق السماح به، يحسب المبلغ المسترد من ضمن إجمالي الدخل في سنة الاسترداد، ويأخذ صفة الدخل المتعلق بالمصروف.",
+    "target_en": "A. If a taxpayer recoups expenses, loss, or previously permitted bad debt, the recouped amount shall be included in the gross income for the year in which it is recouped and it shall take the status of the income related to expenses.",
+    "source_ar_norm": "ا - اذا استرد المكلف مصروفا او خسارة او دينا معدوما سبق السماح به، يحسب المبلغ المسترد من ضمن اجمالي الدخل في سنة الاسترداد، وياخذ صفة الدخل المتعلق بالمصروف.",
+    "target_en_norm": "a. if a taxpayer recoups expenses, loss, or previously permitted bad debt, the recouped amount shall be included in the gross income for the year in which it is recouped and it shall take the status of the income related to expenses.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59592,
+    "source_ar": "ب - لغرض هذه المادة، يعد المصروف مستردا حينما ينتفي أساس الصرف.",
+    "target_en": "B. For the purpose of this Article, expenditure shall be considered recouped in the absence of the basis for expenditure.",
+    "source_ar_norm": "ب - لغرض هذه المادة، يعد المصروف مستردا حينما ينتفي اساس الصرف.",
+    "target_en_norm": "b. for the purpose of this article, expenditure shall be considered recouped in the absence of the basis for expenditure.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59593,
+    "source_ar": "المادة الرابعة والثلاثون: الضريبة التقديرية",
+    "target_en": "Article 34: Estimated Tax",
+    "source_ar_norm": "المادة الرابعة والثلاثون: الضريبة التقديرية",
+    "target_en_norm": "article 34: estimated tax",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59594,
+    "source_ar": "أ - إذا لم تقدم فروع الخطوط الجوية وشركات الشحن والنقل البري والبحري الأجنبية العاملة في المملكة ما يثبت وعاءها الضريبي وفقا لأحكام هذا النظام، يحدد وعاؤها الضريبي وفقا لما يأتي:",
+    "target_en": "A. If branches of foreign airlines and sea or land freight and transportation companies operating in the Kingdom do not submit proof of their tax base in accordance with this Law, such tax base shall be determined as follows:",
+    "source_ar_norm": "ا - اذا لم تقدم فروع الخطوط الجوية وشركات الشحن والنقل البري والبحري الاجنبية العاملة في المملكة ما يثبت وعاءها الضريبي وفقا لاحكام هذا النظام، يحدد وعاؤها الضريبي وفقا لما ياتي:",
+    "target_en_norm": "a. if branches of foreign airlines and sea or land freight and transportation companies operating in the kingdom do not submit proof of their tax base in accordance with this law, such tax base shall be determined as follows:",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59595,
+    "source_ar": "1 - يعد الوعاء الضريبي لفروع الخطوط الجوية الأجنبية العاملة في المملكة خمسة بالمائة (5%) من إجمالي الدخل المتحقق في المملكة من التذاكر والشحن والبريد وأي دخل آخر، وعلى تلك الفروع تقديم إقرار يبين إجمالي دخلها في المملكة في المواعيد المحددة نظاما.",
+    "target_en": "1. The tax base for branches of foreign airlines operating in the Kingdom shall be considered 5% of the gross income realized in the Kingdom from tickets, cargo, mail, or any other income. Such branches shall declare their gross income in the Kingdom at the times specified by law.",
+    "source_ar_norm": "1 - يعد الوعاء الضريبي لفروع الخطوط الجوية الاجنبية العاملة في المملكة خمسة بالمائة (5%) من اجمالي الدخل المتحقق في المملكة من التذاكر والشحن والبريد واي دخل اخر، وعلي تلك الفروع تقديم اقرار يبين اجمالي دخلها في المملكة في المواعيد المحددة نظاما.",
+    "target_en_norm": "1. the tax base for branches of foreign airlines operating in the kingdom shall be considered 5% of the gross income realized in the kingdom from tickets, cargo, mail, or any other income. such branches shall declare their gross income in the kingdom at the times specified by law.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59596,
+    "source_ar": "2 - يعد الوعاء الضريبي لفروع شركات الشحن والنقل البري والبحري الأجنبية العاملة في المملكة خمسة بالمائة (5%) من إجمالي الدخل المتحقق في المملكة من أجور الشحن أو أي دخل آخر، وعلى تلك الفروع تقديم إقرار يبين دخلها بالمملكة في المواعيد المحددة نظاما.",
+    "target_en": "2. The tax base for foreign freight and land and sea transportation companies operating in the Kingdom shall be considered 5% of the gross income realized in the Kingdom from freight charges or any other income. Such branches shall be required to declare their income in the Kingdom at the times specified by law.",
+    "source_ar_norm": "2 - يعد الوعاء الضريبي لفروع شركات الشحن والنقل البري والبحري الاجنبية العاملة في المملكة خمسة بالمائة (5%) من اجمالي الدخل المتحقق في المملكة من اجور الشحن او اي دخل اخر، وعلي تلك الفروع تقديم اقرار يبين دخلها بالمملكة في المواعيد المحددة نظاما.",
+    "target_en_norm": "2. the tax base for foreign freight and land and sea transportation companies operating in the kingdom shall be considered 5% of the gross income realized in the kingdom from freight charges or any other income. such branches shall be required to declare their income in the kingdom at the times specified by law.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59597,
+    "source_ar": "ب - للوزير صلاحية السماح لقطاعات أخرى محددة باستخدام الأسلوب التقديري لتحديد وعائها الضريبي وفقا لأسس ومعدلات تحددها اللائحة.",
+    "target_en": "B. The Minister shall have the power to authorize certain other sectors to use estimated taxation to determine their tax base and rates in accordance with the Regulations.",
+    "source_ar_norm": "ب - للوزير صلاحية السماح لقطاعات اخري محددة باستخدام الاسلوب التقديري لتحديد وعائها الضريبي وفقا لاسس ومعدلات تحددها اللائحة.",
+    "target_en_norm": "b. the minister shall have the power to authorize certain other sectors to use estimated taxation to determine their tax base and rates in accordance with the regulations.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59598,
+    "source_ar": "المادة الخامسة والثلاثون: الاتفاقيات الدولية",
+    "target_en": "Article 35: International Agreements",
+    "source_ar_norm": "المادة الخامسة والثلاثون: الاتفاقيات الدولية",
+    "target_en_norm": "article 35: international agreements",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59599,
+    "source_ar": "عند تعارض شروط معاهدة أو اتفاقية دولية تكون المملكة طرفا فيها مع مواد وأحكام هذا النظام، تسري شروط المعاهدة أو الاتفاقية الدولية باستثناء أحكام المادة الثالثة والستين من هذا النظام المتعلقة بإجراءات مكافحة التجنب الضريبي.",
+    "target_en": "In case the conditions of a treaty or an international agreement to which the Kingdom is party are inconsistent with the articles and provisions of this Law, the conditions of the treaty or international agreement shall prevail except for the provisions of Article 63 of this Law which are related to anti-tax avoidance procedures.",
+    "source_ar_norm": "عند تعارض شروط معاهدة او اتفاقية دولية تكون المملكة طرفا فيها مع مواد واحكام هذا النظام، تسري شروط المعاهدة او الاتفاقية الدولية باستثناء احكام المادة الثالثة والستين من هذا النظام المتعلقة باجراءات مكافحة التجنب الضريبي.",
+    "target_en_norm": "in case the conditions of a treaty or an international agreement to which the kingdom is party are inconsistent with the articles and provisions of this law, the conditions of the treaty or international agreement shall prevail except for the provisions of article 63 of this law which are related to anti-tax avoidance procedures.",
+    "file_name": "نظام ضريبة الدخل.docx"
+  },
+  {
+    "id": 59600,
+    "source_ar": "الفصل الثامن: قواعد الضرائب على شركات الأشخاص",
+    "target_en": "Chapter 8: Taxation Rules of Partnerships",
+    "source_ar_norm": "الفصل الثامن: قواعد الضرائب علي شركات الاشخاص",
+    "target_en_norm": "chapter 8: taxation rules of partnerships",
+    "file_name": "نظام ضريبة الدخل.docx"
+  }
+]

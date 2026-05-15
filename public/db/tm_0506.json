@@ -1,0 +1,802 @@
+[
+  {
+    "id": 50501,
+    "source_ar": "المادة الثانية والعشرون بعد المائتين",
+    "target_en": "Article 222",
+    "source_ar_norm": "المادة الثانية والعشرون بعد المائتين",
+    "target_en_norm": "article 222",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50502,
+    "source_ar": "لا يكون التضامن بين المدينين إلا باتفاق أو بنص نظامي.",
+    "target_en": "Solidary liability among debtors shall be established only by agreement or pursuant to a legal provision.",
+    "source_ar_norm": "لا يكون التضامن بين المدينين الا باتفاق او بنص نظامي.",
+    "target_en_norm": "solidary liability among debtors shall be established only by agreement or pursuant to a legal provision.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50503,
+    "source_ar": "المادة الثالثة والعشرون بعد المائتين",
+    "target_en": "Article 223",
+    "source_ar_norm": "المادة الثالثة والعشرون بعد المائتين",
+    "target_en_norm": "article 223",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50504,
+    "source_ar": "يتحقق التضامن بين المدينين ولو كان دين بعضهم مؤجلًا أو معلقًا على شرطٍ أو مرتبطًا بأي وصف مؤثرٍ فيه، وكان دين الآخرين منجزًا أو خاليًا من ذلك الوصف.",
+    "target_en": "Solidary liability among debtors shall be established even if the debts of some of them are deferred, dependent upon a condition, or associated with a modality affecting the debt, and the debts of others are due or devoid of any modality.",
+    "source_ar_norm": "يتحقق التضامن بين المدينين ولو كان دين بعضهم مؤجلا او معلقا علي شرط او مرتبطا باي وصف مؤثر فيه، وكان دين الاخرين منجزا او خاليا من ذلك الوصف.",
+    "target_en_norm": "solidary liability among debtors shall be established even if the debts of some of them are deferred, dependent upon a condition, or associated with a modality affecting the debt, and the debts of others are due or devoid of any modality.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50505,
+    "source_ar": "المادة الرابعة والعشرون بعد المائتين",
+    "target_en": "Article 224",
+    "source_ar_norm": "المادة الرابعة والعشرون بعد المائتين",
+    "target_en_norm": "article 224",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50506,
+    "source_ar": "إذا وفى أحد المدينين المتضامنين الدين برئت ذمته وذمة باقي المدينين.",
+    "target_en": "If a solidary debtor pays the debt, such debtor and the other debtors shall be discharged from liability.",
+    "source_ar_norm": "اذا وفي احد المدينين المتضامنين الدين برئت ذمته وذمة باقي المدينين.",
+    "target_en_norm": "if a solidary debtor pays the debt, such debtor and the other debtors shall be discharged from liability.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50507,
+    "source_ar": "المادة الخامسة والعشرون بعد المائتين",
+    "target_en": "Article 225",
+    "source_ar_norm": "المادة الخامسة والعشرون بعد المائتين",
+    "target_en_norm": "article 225",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50508,
+    "source_ar": "للدائن أن يطالب بدينه كل المدينين المتضامنين أو بعضهم، على أن يراعي في مطالبته ما في علاقته بكل مدين من وصف مؤثر في الدين.",
+    "target_en": "The creditor may demand payment of his debt from all or some of the solidary debtors, taking into consideration the modalities affecting the debt with regard to each debtor.",
+    "source_ar_norm": "للدائن ان يطالب بدينه كل المدينين المتضامنين او بعضهم، علي ان يراعي في مطالبته ما في علاقته بكل مدين من وصف مؤثر في الدين.",
+    "target_en_norm": "the creditor may demand payment of his debt from all or some of the solidary debtors, taking into consideration the modalities affecting the debt with regard to each debtor.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50509,
+    "source_ar": "لا تحول مطالبة أحد المدينين المتضامنين دون مطالبة الباقين.",
+    "target_en": "Demanding payment from a solidary debtor shall not preclude demanding payment from the other debtors.",
+    "source_ar_norm": "لا تحول مطالبة احد المدينين المتضامنين دون مطالبة الباقين.",
+    "target_en_norm": "demanding payment from a solidary debtor shall not preclude demanding payment from the other debtors.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50510,
+    "source_ar": "لكل مدينٍ متضامنٍ أن يعترض عند مطالبته بالوفاء بأوجه الاعتراض الخاصة به أو المشتركة بين المدينين فقط.",
+    "target_en": "A solidary debtor may object to any demand for payment by raising only objections that relate to him or objections that are common to the debtors.",
+    "source_ar_norm": "لكل مدين متضامن ان يعترض عند مطالبته بالوفاء باوجه الاعتراض الخاصة به او المشتركة بين المدينين فقط.",
+    "target_en_norm": "a solidary debtor may object to any demand for payment by raising only objections that relate to him or objections that are common to the debtors.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50511,
+    "source_ar": "المادة السادسة والعشرون بعد المائتين",
+    "target_en": "Article 226",
+    "source_ar_norm": "المادة السادسة والعشرون بعد المائتين",
+    "target_en_norm": "article 226",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50512,
+    "source_ar": "لا يجوز للمدين المتضامن أن يحتج بالمقاصة التي تقع بين الدائن ومدين متضامن آخر إلا بقدر حصة هذا المدين الآخر.",
+    "target_en": "A solidary debtor may not invoke any set-off between the creditor and another solidary debtor except to the extent of the other debtor’s share.",
+    "source_ar_norm": "لا يجوز للمدين المتضامن ان يحتج بالمقاصة التي تقع بين الدائن ومدين متضامن اخر الا بقدر حصة هذا المدين الاخر.",
+    "target_en_norm": "a solidary debtor may not invoke any set-off between the creditor and another solidary debtor except to the extent of the other debtor’s share.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50513,
+    "source_ar": "المادة السابعة والعشرون بعد المائتين",
+    "target_en": "Article 227",
+    "source_ar_norm": "المادة السابعة والعشرون بعد المائتين",
+    "target_en_norm": "article 227",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50514,
+    "source_ar": "إذا انقضت حصة أحد المدينين المتضامنين في الدين باتحاد الذمة؛ فإن الدين لا ينقضي بالنسبة إلى باقي المدينين إلا بقدر حصة هذا المدين.",
+    "target_en": "If the share of a solidary debtor is extinguished by confusion, the debt shall not be extinguished with respect to the other debtors except to the extent of said debtor’s share.",
+    "source_ar_norm": "اذا انقضت حصة احد المدينين المتضامنين في الدين باتحاد الذمة؛ فان الدين لا ينقضي بالنسبة الي باقي المدينين الا بقدر حصة هذا المدين.",
+    "target_en_norm": "if the share of a solidary debtor is extinguished by confusion, the debt shall not be extinguished with respect to the other debtors except to the extent of said debtor’s share.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50515,
+    "source_ar": "المادة الثامنة والعشرون بعد المائتين",
+    "target_en": "Article 228",
+    "source_ar_norm": "المادة الثامنة والعشرون بعد المائتين",
+    "target_en_norm": "article 228",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50516,
+    "source_ar": "إذا أبرأ الدائن أحد المدينين المتضامنين من الدين فقط برئت ذمته وذمة الباقين بقدر حصته وبقي تضامنه.",
+    "target_en": "If the creditor releases a solidary debtor only from his share of the debt, said debtor, along with the other debtors, shall be released from the debt to the extent of his share, but he shall not be released from solidary liability.",
+    "source_ar_norm": "اذا ابرا الدائن احد المدينين المتضامنين من الدين فقط برئت ذمته وذمة الباقين بقدر حصته وبقي تضامنه.",
+    "target_en_norm": "if the creditor releases a solidary debtor only from his share of the debt, said debtor, along with the other debtors, shall be released from the debt to the extent of his share, but he shall not be released from solidary liability.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50517,
+    "source_ar": "إذا أبرأ الدائن أحد المدينين المتضامنين من التضامن فقط بقي دينه في ذمته وامتنعت مطالبة الدائن له بحصة الآخرين.",
+    "target_en": "If the creditor releases a solidary debtor from solidary liability, said debtor shall remain liable only for his share of the debt and the creditor may not demand the debtor to pay the share of the other debtors.",
+    "source_ar_norm": "اذا ابرا الدائن احد المدينين المتضامنين من التضامن فقط بقي دينه في ذمته وامتنعت مطالبة الدائن له بحصة الاخرين.",
+    "target_en_norm": "if the creditor releases a solidary debtor from solidary liability, said debtor shall remain liable only for his share of the debt and the creditor may not demand the debtor to pay the share of the other debtors.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50518,
+    "source_ar": "وللمدينين الرجوع عليه بما يدفعونه عنه بحكم التضامن بينهم.",
+    "target_en": "The other debtors shall have the right of recourse against the released debtor for payments made on his behalf due to their solidary liability.",
+    "source_ar_norm": "وللمدينين الرجوع عليه بما يدفعونه عنه بحكم التضامن بينهم.",
+    "target_en_norm": "the other debtors shall have the right of recourse against the released debtor for payments made on his behalf due to their solidary liability.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50519,
+    "source_ar": "إذا أبرأ الدائن أحد المدينين المتضامنين من الدين بصورةٍ مطلقةٍ، انصرف الإبراء إلى الدين والتضامن معًا؛ ما لم يتبين من دلالة الحال أو من طبيعة التعامل أن الإبراء ينصرف إلى أحدهما.",
+    "target_en": "If the creditor releases a solidary debtor from the debt without specifying what is covered by such release, the solidary debtor shall be released from both the debt and the solidary liability, unless the circumstances or the nature of the dealing indicates that the release is limited to either the debt or the solidary liability.",
+    "source_ar_norm": "اذا ابرا الدائن احد المدينين المتضامنين من الدين بصورة مطلقة، انصرف الابراء الي الدين والتضامن معا؛ ما لم يتبين من دلالة الحال او من طبيعة التعامل ان الابراء ينصرف الي احدهما.",
+    "target_en_norm": "if the creditor releases a solidary debtor from the debt without specifying what is covered by such release, the solidary debtor shall be released from both the debt and the solidary liability, unless the circumstances or the nature of the dealing indicates that the release is limited to either the debt or the solidary liability.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50520,
+    "source_ar": "المادة التاسعة والعشرون بعد المائتين",
+    "target_en": "Article 229",
+    "source_ar_norm": "المادة التاسعة والعشرون بعد المائتين",
+    "target_en_norm": "article 229",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50521,
+    "source_ar": "في الأحوال التي يُبرئ فيها الدائن أحد المدينين المتضامنين سواء من الدين أو من التضامن، يكون لباقي المدينين عند الاقتضاء أن يرجعوا على هذا المدين بنصيبه في حصة المعسر منهم.",
+    "target_en": "If the creditor releases a solidary debtor, whether from the debt or from solidary liability, the other debtors shall, in case there is an insolvent debtor among them, have the right of recourse against such debtor to the extent of his share in the debt of the insolvent debtor.",
+    "source_ar_norm": "في الاحوال التي يبرئ فيها الدائن احد المدينين المتضامنين سواء من الدين او من التضامن، يكون لباقي المدينين عند الاقتضاء ان يرجعوا علي هذا المدين بنصيبه في حصة المعسر منهم.",
+    "target_en_norm": "if the creditor releases a solidary debtor, whether from the debt or from solidary liability, the other debtors shall, in case there is an insolvent debtor among them, have the right of recourse against such debtor to the extent of his share in the debt of the insolvent debtor.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50522,
+    "source_ar": "إلا أنه إذا أخلى الدائن المدين الذي أبرأه من كل مسؤولية عن الدين، فإن الدائن هو الذي يتحمل نصيب هذا المدين في حصة المعسر.",
+    "target_en": "However, if the creditor releases such debtor from all liability related to the debt, the creditor shall bear the debtor’s share in the debt of the insolvent debtor.",
+    "source_ar_norm": "الا انه اذا اخلي الدائن المدين الذي ابراه من كل مسؤولية عن الدين، فان الدائن هو الذي يتحمل نصيب هذا المدين في حصة المعسر.",
+    "target_en_norm": "however, if the creditor releases such debtor from all liability related to the debt, the creditor shall bear the debtor’s share in the debt of the insolvent debtor.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50523,
+    "source_ar": "المادة الثلاثون بعد المائتين",
+    "target_en": "Article 230",
+    "source_ar_norm": "المادة الثلاثون بعد المائتين",
+    "target_en_norm": "article 230",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50524,
+    "source_ar": "لا يفيد عدم سماع الدعوى لمرور الزمن بالنسبة إلى أحد المدينين المتضامنين باقي المدينين إلا بقدر حصة ذلك المدين.",
+    "target_en": "A claim against a solidary debtor that is barred due to the lapse of the statute of limitations shall only benefit the other debtors to the extent of such debtor’s share.",
+    "source_ar_norm": "لا يفيد عدم سماع الدعوي لمرور الزمن بالنسبة الي احد المدينين المتضامنين باقي المدينين الا بقدر حصة ذلك المدين.",
+    "target_en_norm": "a claim against a solidary debtor that is barred due to the lapse of the statute of limitations shall only benefit the other debtors to the extent of such debtor’s share.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50525,
+    "source_ar": "ليس للدائن أن يتمسك بوقف سريان مرور الزمن أو انقطاعه بالنسبة إلى أحد المدينين المتضامنين في مواجهة باقي المدينين.",
+    "target_en": "The creditor may not invoke the interruption or suspension of the statutory period pertaining to a solidary debtor against the other debtors.",
+    "source_ar_norm": "ليس للدائن ان يتمسك بوقف سريان مرور الزمن او انقطاعه بالنسبة الي احد المدينين المتضامنين في مواجهة باقي المدينين.",
+    "target_en_norm": "the creditor may not invoke the interruption or suspension of the statutory period pertaining to a solidary debtor against the other debtors.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50526,
+    "source_ar": "المادة الحادية والثلاثون بعد المائتين",
+    "target_en": "Article 231",
+    "source_ar_norm": "المادة الحادية والثلاثون بعد المائتين",
+    "target_en_norm": "article 231",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50527,
+    "source_ar": "لا يكون المدين المتضامن مسؤولًا في تنفيذ الالتزام إلا عن فعله.",
+    "target_en": "A solidary debtor shall, in the performance of an obligation, be liable only to the extent of his actions.",
+    "source_ar_norm": "لا يكون المدين المتضامن مسؤولا في تنفيذ الالتزام الا عن فعله.",
+    "target_en_norm": "a solidary debtor shall, in the performance of an obligation, be liable only to the extent of his actions.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50528,
+    "source_ar": "إذا أعذر الدائن المدين المتضامن أو طالبه قضاءً فلا أثر لذلك بالنسبة إلى باقي المدينين المتضامنين، أما إعذار أحد المدينين المتضامنين للدائن فإنه يفيد الباقين.",
+    "target_en": "If the creditor notifies a solidary debtor or files a judicial claim against him, this shall have no effect on the other solidary debtors. If, however, a solidary debtor notifies the creditor, the effect thereof shall extend to the remaining debtors.",
+    "source_ar_norm": "اذا اعذر الدائن المدين المتضامن او طالبه قضاء فلا اثر لذلك بالنسبة الي باقي المدينين المتضامنين، اما اعذار احد المدينين المتضامنين للدائن فانه يفيد الباقين.",
+    "target_en_norm": "if the creditor notifies a solidary debtor or files a judicial claim against him, this shall have no effect on the other solidary debtors. if, however, a solidary debtor notifies the creditor, the effect thereof shall extend to the remaining debtors.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50529,
+    "source_ar": "المادة الثانية والثلاثون بعد المائتين",
+    "target_en": "Article 232",
+    "source_ar_norm": "المادة الثانية والثلاثون بعد المائتين",
+    "target_en_norm": "article 232",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50530,
+    "source_ar": "ينفذ الصلح الذي يعقده أحد المدينين المتضامنين مع الدائن على باقي المدينين، ما لم يرتب في ذمتهم التزامًا جديدًا أو زيادةً في التزامهم؛ فإنه لا ينفذ في حق أي منهم إلا بإجازته.",
+    "target_en": "Any settlement concluded by one of the solidary debtors with the creditor shall be enforceable against the other debtors, unless the settlement establishes a new obligation against them or increases their existing obligation; in such case, the settlement shall not be enforced against any debtor without his ratification.",
+    "source_ar_norm": "ينفذ الصلح الذي يعقده احد المدينين المتضامنين مع الدائن علي باقي المدينين، ما لم يرتب في ذمتهم التزاما جديدا او زيادة في التزامهم؛ فانه لا ينفذ في حق اي منهم الا باجازته.",
+    "target_en_norm": "any settlement concluded by one of the solidary debtors with the creditor shall be enforceable against the other debtors, unless the settlement establishes a new obligation against them or increases their existing obligation; in such case, the settlement shall not be enforced against any debtor without his ratification.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50531,
+    "source_ar": "المادة الثالثة والثلاثون بعد المائتين",
+    "target_en": "Article 233",
+    "source_ar_norm": "المادة الثالثة والثلاثون بعد المائتين",
+    "target_en_norm": "article 233",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50532,
+    "source_ar": "لا يسري إقرار أحد المدينين المتضامنين بما عليه من الدين في حق باقي المدينين المتضامنين.",
+    "target_en": "A solidary debtor’s acknowledgment of his share in the debt shall not be binding on the other solidary debtors.",
+    "source_ar_norm": "لا يسري اقرار احد المدينين المتضامنين بما عليه من الدين في حق باقي المدينين المتضامنين.",
+    "target_en_norm": "a solidary debtor’s acknowledgment of his share in the debt shall not be binding on the other solidary debtors.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50533,
+    "source_ar": "ولا يضار باقي المدينين المتضامنين إذا وجه إليه الدائن يمينًا فنكل عنها أو وجهها إلى الدائن فحلفها.",
+    "target_en": "If the debtor refuses to take an oath tendered by the creditor, or if he tenders the oath to the creditor and the latter takes the oath, the oath refused by the debtor or taken by the creditor shall not affect the other solidary debtors.",
+    "source_ar_norm": "ولا يضار باقي المدينين المتضامنين اذا وجه اليه الدائن يمينا فنكل عنها او وجهها الي الدائن فحلفها.",
+    "target_en_norm": "if the debtor refuses to take an oath tendered by the creditor, or if he tenders the oath to the creditor and the latter takes the oath, the oath refused by the debtor or taken by the creditor shall not affect the other solidary debtors.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50534,
+    "source_ar": "أما إذا وجه إليه الدائن يمينًا فحلفها فإن باقي المدينين يفيدون من ذلك.",
+    "target_en": "However, if the debtor takes an oath tendered by the creditor, the effect thereof shall extend to the other debtors.",
+    "source_ar_norm": "اما اذا وجه اليه الدائن يمينا فحلفها فان باقي المدينين يفيدون من ذلك.",
+    "target_en_norm": "however, if the debtor takes an oath tendered by the creditor, the effect thereof shall extend to the other debtors.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50535,
+    "source_ar": "المادة الرابعة والثلاثون بعد المائتين",
+    "target_en": "Article 234",
+    "source_ar_norm": "المادة الرابعة والثلاثون بعد المائتين",
+    "target_en_norm": "article 234",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50536,
+    "source_ar": "إذا وفى أحد المدينين المتضامنين أكثر من حصته في الدين فليس له أن يرجع فيما زاد على حصته على أي من الباقين إلا بقدر حصته، ولو كان الموفي قد رجع عليهم بحلوله محل الدائن.",
+    "target_en": "If a solidary debtor pays more than his share in the debt, his right of recourse against the remaining debtors for the excess payment shall be limited to the share of each of them, even if the payer assumes the position of the creditor by way of subrogation.",
+    "source_ar_norm": "اذا وفي احد المدينين المتضامنين اكثر من حصته في الدين فليس له ان يرجع فيما زاد علي حصته علي اي من الباقين الا بقدر حصته، ولو كان الموفي قد رجع عليهم بحلوله محل الدائن.",
+    "target_en_norm": "if a solidary debtor pays more than his share in the debt, his right of recourse against the remaining debtors for the excess payment shall be limited to the share of each of them, even if the payer assumes the position of the creditor by way of subrogation.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50537,
+    "source_ar": "تكون حصص المدينين المتضامنين فيما يرجع به بعضهم على بعض متساوية ما لم يوجد اتفاق أو نص نظامي بخلاف ذلك.",
+    "target_en": "The shares of solidary debtors shall be equal with respect to their claims of recourse against one another, unless an agreement or a legal provision stipulates otherwise.",
+    "source_ar_norm": "تكون حصص المدينين المتضامنين فيما يرجع به بعضهم علي بعض متساوية ما لم يوجد اتفاق او نص نظامي بخلاف ذلك.",
+    "target_en_norm": "the shares of solidary debtors shall be equal with respect to their claims of recourse against one another, unless an agreement or a legal provision stipulates otherwise.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50538,
+    "source_ar": "وإذا كان أحدهم هو وحده صاحب المصلحة في الدين فهو الذي يتحمل الدين كله تجاههم.",
+    "target_en": "If only one debtor benefits from the debt, said debtor shall bear the debt in full against the other debtors.",
+    "source_ar_norm": "واذا كان احدهم هو وحده صاحب المصلحة في الدين فهو الذي يتحمل الدين كله تجاههم.",
+    "target_en_norm": "if only one debtor benefits from the debt, said debtor shall bear the debt in full against the other debtors.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50539,
+    "source_ar": "إذا تبين أن أحد المدينين المتضامنين معسر تحمل المدين الذي وفَّى الدين مع الموسرين من المدينين المتضامنين تبعة هذا الإعسار؛ كل بقدر حصته.",
+    "target_en": "If a solidary debtor is found to be insolvent, the debtor who pays the debt shall, along with the solvent debtors, bear the effects of such insolvency, each to the extent of his share.",
+    "source_ar_norm": "اذا تبين ان احد المدينين المتضامنين معسر تحمل المدين الذي وفي الدين مع الموسرين من المدينين المتضامنين تبعة هذا الاعسار؛ كل بقدر حصته.",
+    "target_en_norm": "if a solidary debtor is found to be insolvent, the debtor who pays the debt shall, along with the solvent debtors, bear the effects of such insolvency, each to the extent of his share.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50540,
+    "source_ar": "الفرع الرابع: عدم قابلية الالتزام للانقسام",
+    "target_en": "Subsection 4: Indivisibility of Obligation",
+    "source_ar_norm": "الفرع الرابع: عدم قابلية الالتزام للانقسام",
+    "target_en_norm": "subsection 4: indivisibility of obligation",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50541,
+    "source_ar": "المادة الخامسة والثلاثون بعد المائتين",
+    "target_en": "Article 235",
+    "source_ar_norm": "المادة الخامسة والثلاثون بعد المائتين",
+    "target_en_norm": "article 235",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50542,
+    "source_ar": "يكون الالتزام غير قابل للانقسام إذا ورد على محل لا يقبل أن ينقسم بطبيعته، أو تبين من الغرض الذي قصده المتعاقدان أن الالتزام لا يجوز تنفيذه منقسمًا.",
+    "target_en": "An obligation shall be indivisible if the subject thereof cannot be divided due to its nature, or if the purpose intended by the contracting parties is to perform the obligation indivisibly.",
+    "source_ar_norm": "يكون الالتزام غير قابل للانقسام اذا ورد علي محل لا يقبل ان ينقسم بطبيعته، او تبين من الغرض الذي قصده المتعاقدان ان الالتزام لا يجوز تنفيذه منقسما.",
+    "target_en_norm": "an obligation shall be indivisible if the subject thereof cannot be divided due to its nature, or if the purpose intended by the contracting parties is to perform the obligation indivisibly.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50543,
+    "source_ar": "المادة السادسة والثلاثون بعد المائتين",
+    "target_en": "Article 236",
+    "source_ar_norm": "المادة السادسة والثلاثون بعد المائتين",
+    "target_en_norm": "article 236",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50544,
+    "source_ar": "إذا تعدد المدينون في التزام غير قابل للانقسام كان كل منهم ملزمًا بوفاء الدين كاملًا.",
+    "target_en": "In case of an indivisible obligation with multiple debtors, each debtor shall be liable for the full payment of the debt.",
+    "source_ar_norm": "اذا تعدد المدينون في التزام غير قابل للانقسام كان كل منهم ملزما بوفاء الدين كاملا.",
+    "target_en_norm": "in case of an indivisible obligation with multiple debtors, each debtor shall be liable for the full payment of the debt.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50545,
+    "source_ar": "وللمدين الذي وفى بالدين حق الرجوع على الباقين كل بقدر حصته.",
+    "target_en": "The debtor who pays the debt shall have the right of recourse against the other debtors, each to the extent of his share.",
+    "source_ar_norm": "وللمدين الذي وفي بالدين حق الرجوع علي الباقين كل بقدر حصته.",
+    "target_en_norm": "the debtor who pays the debt shall have the right of recourse against the other debtors, each to the extent of his share.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50546,
+    "source_ar": "المادة السابعة والثلاثون بعد المائتين:",
+    "target_en": "Article 237",
+    "source_ar_norm": "المادة السابعة والثلاثون بعد المائتين:",
+    "target_en_norm": "article 237",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50547,
+    "source_ar": "إذا تعدد الدائنون أو ورثة الدائن في التزام غير قابل للانقسام، جاز لكل منهم أن يطالب بأدائه كاملًا.",
+    "target_en": "In case of an indivisible obligation with multiple creditors or multiple heirs of a creditor, each creditor or heir may demand the full performance of the obligation for his benefit.",
+    "source_ar_norm": "اذا تعدد الدائنون او ورثة الدائن في التزام غير قابل للانقسام، جاز لكل منهم ان يطالب بادائه كاملا.",
+    "target_en_norm": "in case of an indivisible obligation with multiple creditors or multiple heirs of a creditor, each creditor or heir may demand the full performance of the obligation for his benefit.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50548,
+    "source_ar": "وإذا اعترض أحدهم كان المدين ملزمًا بأداء الالتزام لهم مجتمعين أو إيداع الشيء محل الالتزام لدى الجهة التي يحددها وزير العدل.",
+    "target_en": "If any of the creditors or heirs objects to such demand, the debtor shall be liable for the performance of the obligation to all the creditors or heirs collectively or to deposit the thing subject of the obligation with an entity to be designated by the Minister of Justice.",
+    "source_ar_norm": "واذا اعترض احدهم كان المدين ملزما باداء الالتزام لهم مجتمعين او ايداع الشيء محل الالتزام لدي الجهة التي يحددها وزير العدل.",
+    "target_en_norm": "if any of the creditors or heirs objects to such demand, the debtor shall be liable for the performance of the obligation to all the creditors or heirs collectively or to deposit the thing subject of the obligation with an entity to be designated by the minister of justice.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50549,
+    "source_ar": "وللبقية حق الرجوع على الدائن الذي استوفى الالتزام كل بقدر حصته.",
+    "target_en": "The other creditors or heirs shall have the right of recourse against the creditor for whom the obligation was performed, each to the extent of his share.",
+    "source_ar_norm": "وللبقية حق الرجوع علي الدائن الذي استوفي الالتزام كل بقدر حصته.",
+    "target_en_norm": "the other creditors or heirs shall have the right of recourse against the creditor for whom the obligation was performed, each to the extent of his share.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50550,
+    "source_ar": "الباب الرابع: انتقال الالتزام الفصل الأول: حوالة الحق",
+    "target_en": "Chapter 4: Transfer of Obligation Section 1: Assignment of Right",
+    "source_ar_norm": "الباب الرابع: انتقال الالتزام الفصل الاول: حوالة الحق",
+    "target_en_norm": "chapter 4: transfer of obligation section 1: assignment of right",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50551,
+    "source_ar": "المادة الثامنة والثلاثون بعد المائتين",
+    "target_en": "Article 238",
+    "source_ar_norm": "المادة الثامنة والثلاثون بعد المائتين",
+    "target_en_norm": "article 238",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50552,
+    "source_ar": "للدائن أن يحيل حقه إلى شخص آخر، وذلك ما لم تقتضِ النصوص النظامية أو الاتفاق أو طبيعة الالتزام خلاف ذلك.",
+    "target_en": "The creditor may assign his right to another person, unless otherwise stipulated by a legal provision, an agreement, or the nature of the obligation.",
+    "source_ar_norm": "للدائن ان يحيل حقه الي شخص اخر، وذلك ما لم تقتض النصوص النظامية او الاتفاق او طبيعة الالتزام خلاف ذلك.",
+    "target_en_norm": "the creditor may assign his right to another person, unless otherwise stipulated by a legal provision, an agreement, or the nature of the obligation.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50553,
+    "source_ar": "ولا يشترط لانعقاد الحوالة رضى المدين بها.",
+    "target_en": "The debtor’s consent shall not be required for the assignment to take effect.",
+    "source_ar_norm": "ولا يشترط لانعقاد الحوالة رضي المدين بها.",
+    "target_en_norm": "the debtor’s consent shall not be required for the assignment to take effect.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50554,
+    "source_ar": "المادة التاسعة والثلاثون بعد المائتين",
+    "target_en": "Article 239",
+    "source_ar_norm": "المادة التاسعة والثلاثون بعد المائتين",
+    "target_en_norm": "article 239",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50555,
+    "source_ar": "لا تصح حوالة الحق إلا بقدر ما يكون منه قابلًا للحجز.",
+    "target_en": "The validity of an assignment of right shall cover only the part thereof that may be attached.",
+    "source_ar_norm": "لا تصح حوالة الحق الا بقدر ما يكون منه قابلا للحجز.",
+    "target_en_norm": "the validity of an assignment of right shall cover only the part thereof that may be attached.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50556,
+    "source_ar": "المادة الأربعون بعد المائتين",
+    "target_en": "Article 240",
+    "source_ar_norm": "المادة الاربعون بعد المائتين",
+    "target_en_norm": "article 240",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50557,
+    "source_ar": "لا تكون حوالة الحق نافذة تجاه المدين أو تجاه الغير إلا إذا قبلها المدين أو أُعلِم بها بأي وسيلة مقررة نظامًا.",
+    "target_en": "An assignment of right may not be effective against the debtor or a third party unless the debtor accepts such assignment or is notified thereof by any means prescribed by law.",
+    "source_ar_norm": "لا تكون حوالة الحق نافذة تجاه المدين او تجاه الغير الا اذا قبلها المدين او اعلم بها باي وسيلة مقررة نظاما.",
+    "target_en_norm": "an assignment of right may not be effective against the debtor or a third party unless the debtor accepts such assignment or is notified thereof by any means prescribed by law.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50558,
+    "source_ar": "على أن نفاذها تجاه الغير بقبول المدين يستلزم أن يكون هذا القبول ثابت التاريخ ومكتوبًا.",
+    "target_en": "The effectiveness of such assignment against a third party requires the debtor's written and dated acceptance.",
+    "source_ar_norm": "علي ان نفاذها تجاه الغير بقبول المدين يستلزم ان يكون هذا القبول ثابت التاريخ ومكتوبا.",
+    "target_en_norm": "the effectiveness of such assignment against a third party requires the debtor's written and dated acceptance.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50559,
+    "source_ar": "المادة الحادية والأربعون بعد المائتين",
+    "target_en": "Article 241",
+    "source_ar_norm": "المادة الحادية والاربعون بعد المائتين",
+    "target_en_norm": "article 241",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50560,
+    "source_ar": "ينتقل الحق إلى المحال له بصفاته وتوابعه وضماناته.",
+    "target_en": "The right shall be transferred to the assignee along with its modalities, attached rights, and securities.",
+    "source_ar_norm": "ينتقل الحق الي المحال له بصفاته وتوابعه وضماناته.",
+    "target_en_norm": "the right shall be transferred to the assignee along with its modalities, attached rights, and securities.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50561,
+    "source_ar": "المادة الثانية والأربعون بعد المائتين",
+    "target_en": "Article 242",
+    "source_ar_norm": "المادة الثانية والاربعون بعد المائتين",
+    "target_en_norm": "article 242",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50562,
+    "source_ar": "1-إذا كانت الحوالة بعوض، لم يضمن المحيل إلا وجود الحق المحال به وقت انعقاد الحوالة، ما لم يتفق على خلاف ذلك.",
+    "target_en": "1.If an assignment is for consideration, the assignor is bound to warrant only the existence of the assigned right at the time of making the assignment, unless agreed otherwise.",
+    "source_ar_norm": "1-اذا كانت الحوالة بعوض، لم يضمن المحيل الا وجود الحق المحال به وقت انعقاد الحوالة، ما لم يتفق علي خلاف ذلك.",
+    "target_en_norm": "1.if an assignment is for consideration, the assignor is bound to warrant only the existence of the assigned right at the time of making the assignment, unless agreed otherwise.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50563,
+    "source_ar": "2-إذا كانت الحوالة بغير عوض، لم يضمن المحيل وجود الحق.",
+    "target_en": "2. If an assignment is without consideration, the assignor is not bound to warrant the existence of the right.",
+    "source_ar_norm": "2-اذا كانت الحوالة بغير عوض، لم يضمن المحيل وجود الحق.",
+    "target_en_norm": "2. if an assignment is without consideration, the assignor is not bound to warrant the existence of the right.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50564,
+    "source_ar": "المادة الثالثة والأربعون بعد المائتين",
+    "target_en": "Article 243",
+    "source_ar_norm": "المادة الثالثة والاربعون بعد المائتين",
+    "target_en_norm": "article 243",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50565,
+    "source_ar": "لا يضمن المحيل يسار المدين إلا إذا وجد اتفاق خاص على هذا الضمان.",
+    "target_en": "The assignor is not bound to warrant the debtor’s solvency, unless there is a specific agreement thereon.",
+    "source_ar_norm": "لا يضمن المحيل يسار المدين الا اذا وجد اتفاق خاص علي هذا الضمان.",
+    "target_en_norm": "the assignor is not bound to warrant the debtor’s solvency, unless there is a specific agreement thereon.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50566,
+    "source_ar": "وإذا ضمن المحيل يسار المدين لا ينصرف هذا الضمان إلا إلى اليسار وقت انعقاد الحوالة ما لم يتفق على خلاف ذلك.",
+    "target_en": "If the assignor warrants the solvency of the debtor, such warrant shall only cover solvency at the time of making the assignment, unless agreed otherwise.",
+    "source_ar_norm": "واذا ضمن المحيل يسار المدين لا ينصرف هذا الضمان الا الي اليسار وقت انعقاد الحوالة ما لم يتفق علي خلاف ذلك.",
+    "target_en_norm": "if the assignor warrants the solvency of the debtor, such warrant shall only cover solvency at the time of making the assignment, unless agreed otherwise.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50567,
+    "source_ar": "المادة الرابعة والأربعون بعد المائتين",
+    "target_en": "Article 244",
+    "source_ar_norm": "المادة الرابعة والاربعون بعد المائتين",
+    "target_en_norm": "article 244",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50568,
+    "source_ar": "إذا رجع المحال له بالضمان على المحيل طبقًا للمادتين (الثانية والأربعين بعد المائتين) و(الثالثة والأربعين بعد المائتين) من هذا النظام، فلا يلزم المحيل ردُّ أكثر مما أخذه من المحال له مع النفقات ولو وجد اتفاق بخلاف ذلك.",
+    "target_en": "If the assignee with a warrant exercises the right of recourse against the assignor pursuant to Articles 242 and 243 of this Law, the assignor shall not be required to pay more than the amount received from the assignee in addition to any expenses incurred, even if agreed otherwise.",
+    "source_ar_norm": "اذا رجع المحال له بالضمان علي المحيل طبقا للمادتين (الثانية والاربعين بعد المائتين) و(الثالثة والاربعين بعد المائتين) من هذا النظام، فلا يلزم المحيل رد اكثر مما اخذه من المحال له مع النفقات ولو وجد اتفاق بخلاف ذلك.",
+    "target_en_norm": "if the assignee with a warrant exercises the right of recourse against the assignor pursuant to articles 242 and 243 of this law, the assignor shall not be required to pay more than the amount received from the assignee in addition to any expenses incurred, even if agreed otherwise.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50569,
+    "source_ar": "المادة الخامسة والأربعون بعد المائتين",
+    "target_en": "Article 245",
+    "source_ar_norm": "المادة الخامسة والاربعون بعد المائتين",
+    "target_en_norm": "article 245",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50570,
+    "source_ar": "للمدين أن يتمسك تجاه المحال له بالدفوع التي كان له أن يتمسك بها تجاه المحيل وقت نفاذ الحوالة في حقه، كما يجوز له أن يتمسك بالدفوع المستمدة من عقد الحوالة.",
+    "target_en": "The debtor may invoke against the assignee the defenses that he could have invoked against the assignor at the time the assignment became effective against him; he may also invoke any defenses arising from the assignment contract.",
+    "source_ar_norm": "للمدين ان يتمسك تجاه المحال له بالدفوع التي كان له ان يتمسك بها تجاه المحيل وقت نفاذ الحوالة في حقه، كما يجوز له ان يتمسك بالدفوع المستمدة من عقد الحوالة.",
+    "target_en_norm": "the debtor may invoke against the assignee the defenses that he could have invoked against the assignor at the time the assignment became effective against him; he may also invoke any defenses arising from the assignment contract.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50571,
+    "source_ar": "المادة السادسة والأربعون بعد المائتين",
+    "target_en": "Article 246",
+    "source_ar_norm": "المادة السادسة والاربعون بعد المائتين",
+    "target_en_norm": "article 246",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50572,
+    "source_ar": "إذا تعددت الحوالة بحقٍّ واحدٍ قدمت الحوالة التي تكون أسبق في نفاذها في حق الغير.",
+    "target_en": "In case of multiple assignments of a single right, precedence shall be given to the earlier assignment to take effect against a third party.",
+    "source_ar_norm": "اذا تعددت الحوالة بحق واحد قدمت الحوالة التي تكون اسبق في نفاذها في حق الغير.",
+    "target_en_norm": "in case of multiple assignments of a single right, precedence shall be given to the earlier assignment to take effect against a third party.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50573,
+    "source_ar": "المادة السابعة والأربعون بعد المائتين",
+    "target_en": "Article 247",
+    "source_ar_norm": "المادة السابعة والاربعون بعد المائتين",
+    "target_en_norm": "article 247",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50574,
+    "source_ar": "إذا وقع تحت يد المدين حجز قبل أن تصبح الحوالة نافذة في حق الغير كانت الحوالة بالنسبة إلى الحاجز بمثابة حجز آخر، فيقسم الحق بين المحال له والحاجز قسمة غرماء.",
+    "target_en": "If attachment against the debtor is made before the assignment becomes effective against a third party, said assignment shall, with respect to the attachment creditor, be deemed a second attachment; in such case, the right shall be divided between the assignee and the attachment creditor in the same manner distribution is made among creditors.",
+    "source_ar_norm": "اذا وقع تحت يد المدين حجز قبل ان تصبح الحوالة نافذة في حق الغير كانت الحوالة بالنسبة الي الحاجز بمثابة حجز اخر، فيقسم الحق بين المحال له والحاجز قسمة غرماء.",
+    "target_en_norm": "if attachment against the debtor is made before the assignment becomes effective against a third party, said assignment shall, with respect to the attachment creditor, be deemed a second attachment; in such case, the right shall be divided between the assignee and the attachment creditor in the same manner distribution is made among creditors.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50575,
+    "source_ar": "الفصل الثاني: حوالة الدين",
+    "target_en": "Section 2: Assignment of Debt",
+    "source_ar_norm": "الفصل الثاني: حوالة الدين",
+    "target_en_norm": "section 2: assignment of debt",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50576,
+    "source_ar": "المادة الثامنة والأربعون بعد المائتين",
+    "target_en": "Article 248",
+    "source_ar_norm": "المادة الثامنة والاربعون بعد المائتين",
+    "target_en_norm": "article 248",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50577,
+    "source_ar": "حوالة الدين عقد يقتضي نقل الالتزام من ذمة المحيل إلى ذمة المحال عليه.",
+    "target_en": "Assignment of debt is a contract that requires the transfer of an obligation from an assignor to an assignee.",
+    "source_ar_norm": "حوالة الدين عقد يقتضي نقل الالتزام من ذمة المحيل الي ذمة المحال عليه.",
+    "target_en_norm": "assignment of debt is a contract that requires the transfer of an obligation from an assignor to an assignee.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50578,
+    "source_ar": "المادة التاسعة والأربعون بعد المائتين",
+    "target_en": "Article 249",
+    "source_ar_norm": "المادة التاسعة والاربعون بعد المائتين",
+    "target_en_norm": "article 249",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50579,
+    "source_ar": "تنعقد حوالة الدين باتفاق بين المحيل والمحال عليه، ولا تنفذ في حق المحال إلا إذا قبلها.",
+    "target_en": "An assignment of debt shall take effect if there is an agreement between the assignor and the assignee, and shall not be enforceable against the creditor, unless he accepts it.",
+    "source_ar_norm": "تنعقد حوالة الدين باتفاق بين المحيل والمحال عليه، ولا تنفذ في حق المحال الا اذا قبلها.",
+    "target_en_norm": "an assignment of debt shall take effect if there is an agreement between the assignor and the assignee, and shall not be enforceable against the creditor, unless he accepts it.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50580,
+    "source_ar": "إذا لم يقبل المحال الحوالة فإن المحال عليه يكون ملزمًا تجاه المحيل بالوفاء للمحال، ما لم يُتفق على خلاف ذلك، أو يتبين من ظروف الحال أن نفاذ الحوالة بينهما معلق على قبول المحال.",
+    "target_en": "If the creditor does not accept the assignment, the assignee shall be liable to the assignor for the performance of the obligation to the creditor, unless agreed otherwise or the circumstances indicate that the enforcement of the assignment is conditional upon the creditor’s acceptance.",
+    "source_ar_norm": "اذا لم يقبل المحال الحوالة فان المحال عليه يكون ملزما تجاه المحيل بالوفاء للمحال، ما لم يتفق علي خلاف ذلك، او يتبين من ظروف الحال ان نفاذ الحوالة بينهما معلق علي قبول المحال.",
+    "target_en_norm": "if the creditor does not accept the assignment, the assignee shall be liable to the assignor for the performance of the obligation to the creditor, unless agreed otherwise or the circumstances indicate that the enforcement of the assignment is conditional upon the creditor’s acceptance.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50581,
+    "source_ar": "المادة الخمسون بعد المائتين",
+    "target_en": "Article 250",
+    "source_ar_norm": "المادة الخمسون بعد المائتين",
+    "target_en_norm": "article 250",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50582,
+    "source_ar": "يجوز أن تنعقد حوالة الدين باتفاقٍ بين المحيل والمحال، ولا تنفذ في حق المحال عليه إلا إذا قبلها.",
+    "target_en": "An assignment of debt may be made by agreement between the assignor and the creditor and shall not be enforceable against the assignee, unless he agrees thereto.",
+    "source_ar_norm": "يجوز ان تنعقد حوالة الدين باتفاق بين المحيل والمحال، ولا تنفذ في حق المحال عليه الا اذا قبلها.",
+    "target_en_norm": "an assignment of debt may be made by agreement between the assignor and the creditor and shall not be enforceable against the assignee, unless he agrees thereto.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50583,
+    "source_ar": "وإذا كان المحال عليه مدينًا للمحيل بمثل الدين المحال به فتنفذُ في حق المحال عليه والغير وفق أحكام المادة (الأربعين بعد المائتين) من هذا النظام.",
+    "target_en": "If the assignee is indebted to the assignor for a debt equal to the assigned debt, such assignment shall be enforceable against the assignee and third parties, in accordance with Article 240 of this Law.",
+    "source_ar_norm": "واذا كان المحال عليه مدينا للمحيل بمثل الدين المحال به فتنفذ في حق المحال عليه والغير وفق احكام المادة (الاربعين بعد المائتين) من هذا النظام.",
+    "target_en_norm": "if the assignee is indebted to the assignor for a debt equal to the assigned debt, such assignment shall be enforceable against the assignee and third parties, in accordance with article 240 of this law.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50584,
+    "source_ar": "المادة الحادية والخمسون بعد المائتين",
+    "target_en": "Article 251",
+    "source_ar_norm": "المادة الحادية والخمسون بعد المائتين",
+    "target_en_norm": "article 251",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50585,
+    "source_ar": "ينتقل الدين المحال به إلى المحال عليه بصفاته وتوابعه وتبرأ ذمة المحيل من الدين.",
+    "target_en": "An assigned debt shall be transferred to the assignee along with its modalities and attached rights, and the assignor shall be released from such debt.",
+    "source_ar_norm": "ينتقل الدين المحال به الي المحال عليه بصفاته وتوابعه وتبرا ذمة المحيل من الدين.",
+    "target_en_norm": "an assigned debt shall be transferred to the assignee along with its modalities and attached rights, and the assignor shall be released from such debt.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50586,
+    "source_ar": "المادة الثانية والخمسون بعد المائتين",
+    "target_en": "Article 252",
+    "source_ar_norm": "المادة الثانية والخمسون بعد المائتين",
+    "target_en_norm": "article 252",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50587,
+    "source_ar": "تبقى للدين المحال به ضماناته، ومع ذلك لا تبقى الضمانات المقدمة من الغير، ويبقى المدينون المتضامنون ملتزمين بعد خصم حصة المحيل من الدين.",
+    "target_en": "The securities of an assigned debt shall subsist; this shall not, however, apply to securities provided by third parties. Solidary debtors shall remain liable after deducting the assignor’s share from the debt.",
+    "source_ar_norm": "تبقي للدين المحال به ضماناته، ومع ذلك لا تبقي الضمانات المقدمة من الغير، ويبقي المدينون المتضامنون ملتزمين بعد خصم حصة المحيل من الدين.",
+    "target_en_norm": "the securities of an assigned debt shall subsist; this shall not, however, apply to securities provided by third parties. solidary debtors shall remain liable after deducting the assignor’s share from the debt.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50588,
+    "source_ar": "المادة الثالثة والخمسون بعد المائتين",
+    "target_en": "Article 253",
+    "source_ar_norm": "المادة الثالثة والخمسون بعد المائتين",
+    "target_en_norm": "article 253",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50589,
+    "source_ar": "للمحال عليه أن يتمسك تجاه المحال بالدفوع التي كان للمحيل أن يتمسك بها، كما يجوز له أن يتمسك بالدفوع المستمدة من عقد الحوالة، وليس له أن يحتج بالدفوع الخاصة بشخص المحيل.",
+    "target_en": "The assignee may invoke against the creditor the same defenses that the assignor could have invoked against the creditor as well as the defenses arising from the assignment contract; however, he may not assert defenses relating to the person of the assignor.",
+    "source_ar_norm": "للمحال عليه ان يتمسك تجاه المحال بالدفوع التي كان للمحيل ان يتمسك بها، كما يجوز له ان يتمسك بالدفوع المستمدة من عقد الحوالة، وليس له ان يحتج بالدفوع الخاصة بشخص المحيل.",
+    "target_en_norm": "the assignee may invoke against the creditor the same defenses that the assignor could have invoked against the creditor as well as the defenses arising from the assignment contract; however, he may not assert defenses relating to the person of the assignor.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50590,
+    "source_ar": "المادة الرابعة والخمسون بعد المائتين",
+    "target_en": "Article 254",
+    "source_ar_norm": "المادة الرابعة والخمسون بعد المائتين",
+    "target_en_norm": "article 254",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50591,
+    "source_ar": "يضمن المحيل يسار المحال عليه وقت انعقاد الحوالة إذا كانت الحوالة بين المحيل والمحال، ووقت نفاذها إذا كانت الحوالة بين المحيل والمحال عليه؛ ما لم يتفق على خلاف ذلك.",
+    "target_en": "The assignor is bound to warrant the assignee’s solvency at the time of making the assignment if the assignment is between the assignor and the creditor; he shall also warrant the assignee’s solvency at the time the assignment becomes effective if it is between the assignor and the assignee, unless agreed otherwise.",
+    "source_ar_norm": "يضمن المحيل يسار المحال عليه وقت انعقاد الحوالة اذا كانت الحوالة بين المحيل والمحال، ووقت نفاذها اذا كانت الحوالة بين المحيل والمحال عليه؛ ما لم يتفق علي خلاف ذلك.",
+    "target_en_norm": "the assignor is bound to warrant the assignee’s solvency at the time of making the assignment if the assignment is between the assignor and the creditor; he shall also warrant the assignee’s solvency at the time the assignment becomes effective if it is between the assignor and the assignee, unless agreed otherwise.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50592,
+    "source_ar": "الفصل الثالث: التنازل عن العقد",
+    "target_en": "Section 3: Assignment of Contract",
+    "source_ar_norm": "الفصل الثالث: التنازل عن العقد",
+    "target_en_norm": "section 3: assignment of contract",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50593,
+    "source_ar": "المادة الخامسة والخمسون بعد المائتين",
+    "target_en": "Article 255",
+    "source_ar_norm": "المادة الخامسة والخمسون بعد المائتين",
+    "target_en_norm": "article 255",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50594,
+    "source_ar": "يجوز للمتعاقد أن ينقل صفته كطرف في عقد إلى غيره بموافقة المتعاقد الآخر.",
+    "target_en": "A contracting party may assign to others his capacity as a party to the contract, provided that the other contracting party consents thereto.",
+    "source_ar_norm": "يجوز للمتعاقد ان ينقل صفته كطرف في عقد الي غيره بموافقة المتعاقد الاخر.",
+    "target_en_norm": "a contracting party may assign to others his capacity as a party to the contract, provided that the other contracting party consents thereto.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50595,
+    "source_ar": "ويجوز أن تمنح الموافقة مقدمًا إذا عين فيها العقد الذي يراد التنازل عنه، وينفذ التنازل في هذه الحال في حق المتنازل لديه إذا أعلمه به المتنازل.",
+    "target_en": "Consent may be granted in advance if the assignor specifies the contract to be assigned; in such case, the assignment shall take effect against the obligee if he is notified by the assignor.",
+    "source_ar_norm": "ويجوز ان تمنح الموافقة مقدما اذا عين فيها العقد الذي يراد التنازل عنه، وينفذ التنازل في هذه الحال في حق المتنازل لديه اذا اعلمه به المتنازل.",
+    "target_en_norm": "consent may be granted in advance if the assignor specifies the contract to be assigned; in such case, the assignment shall take effect against the obligee if he is notified by the assignor.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50596,
+    "source_ar": "المادة السادسة والخمسون بعد المائتين",
+    "target_en": "Article 256",
+    "source_ar_norm": "المادة السادسة والخمسون بعد المائتين",
+    "target_en_norm": "article 256",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50597,
+    "source_ar": "إذا وافق المتنازل لديه على التنازل، برئ المتنازل تجاه المتنازل لديه بالنسبة إلى المستقبل.",
+    "target_en": "If the obligee consents to the assignment of the contract, the assignor shall be discharged from liability towards him with respect to any future obligation.",
+    "source_ar_norm": "اذا وافق المتنازل لديه علي التنازل، برئ المتنازل تجاه المتنازل لديه بالنسبة الي المستقبل.",
+    "target_en_norm": "if the obligee consents to the assignment of the contract, the assignor shall be discharged from liability towards him with respect to any future obligation.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50598,
+    "source_ar": "وإذا لم يوافق التزم المتنازل بتنفيذ العقد بالتضامن مع المتنازل له، ما لم يتفق على خلاف ذلك، أو يتبين من ظروف الحال أن نفاذ التنازل بينهما معلق على قبول المتنازل لديه.",
+    "target_en": "If, however, the obligee does not consent to such assignment, the assignor shall implement the contract jointly with the assignee, unless agreed otherwise or the circumstances indicate that the enforcement of the assignment is conditional upon the obligee’s consent.",
+    "source_ar_norm": "واذا لم يوافق التزم المتنازل بتنفيذ العقد بالتضامن مع المتنازل له، ما لم يتفق علي خلاف ذلك، او يتبين من ظروف الحال ان نفاذ التنازل بينهما معلق علي قبول المتنازل لديه.",
+    "target_en_norm": "if, however, the obligee does not consent to such assignment, the assignor shall implement the contract jointly with the assignee, unless agreed otherwise or the circumstances indicate that the enforcement of the assignment is conditional upon the obligee’s consent.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50599,
+    "source_ar": "المادة السابعة والخمسون بعد المائتين",
+    "target_en": "Article 257",
+    "source_ar_norm": "المادة السابعة والخمسون بعد المائتين",
+    "target_en_norm": "article 257",
+    "file_name": "نظام المعاملات المدنية.docx"
+  },
+  {
+    "id": 50600,
+    "source_ar": "للمتنازل له أن يحتج تجاه المتنازل لديه بالدفوع المتعلقة بالدين، وليس له أن يحتج بالدفوع الخاصة بشخص المتنازل.",
+    "target_en": "The assignee may assert against the obligee the defenses related to the debt, but he may not assert the defenses relating to the person of the assignor.",
+    "source_ar_norm": "للمتنازل له ان يحتج تجاه المتنازل لديه بالدفوع المتعلقة بالدين، وليس له ان يحتج بالدفوع الخاصة بشخص المتنازل.",
+    "target_en_norm": "the assignee may assert against the obligee the defenses related to the debt, but he may not assert the defenses relating to the person of the assignor.",
+    "file_name": "نظام المعاملات المدنية.docx"
+  }
+]

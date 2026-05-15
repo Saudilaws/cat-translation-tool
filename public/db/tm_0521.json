@@ -1,0 +1,802 @@
+[
+  {
+    "id": 52001,
+    "source_ar": "العضو: الجهة الحكومية أو الخاصة التي يربطها عقد لتبادل المعلومات الائتمانية مع شركة واحدة على الأقل من شركات المعلومات الائتمانية.",
+    "target_en": "Member: Any government or private entity which is party to a credit information exchange contract with at least one credit information company.",
+    "source_ar_norm": "العضو: الجهة الحكومية او الخاصة التي يربطها عقد لتبادل المعلومات الائتمانية مع شركة واحدة علي الاقل من شركات المعلومات الائتمانية.",
+    "target_en_norm": "member: any government or private entity which is party to a credit information exchange contract with at least one credit information company.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52002,
+    "source_ar": "المستهلك: الشخص من ذوي الصفة الطبيعية أو الاعتبارية الذي له تعاملات ائتمانية.",
+    "target_en": "Consumer: Any natural or corporate person engaging in credit transactions.",
+    "source_ar_norm": "المستهلك: الشخص من ذوي الصفة الطبيعية او الاعتبارية الذي له تعاملات ائتمانية.",
+    "target_en_norm": "consumer: any natural or corporate person engaging in credit transactions.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52003,
+    "source_ar": "الشركات: شركات المعلومات الائتمانية المرخص لها بجمع المعلومات الائتمانية عن المستهلكين وحفظها، وتزويد الأعضاء بتلك المعلومات عند طلبها.",
+    "target_en": "Companies: Credit information companies licensed to collect and maintain credit information on consumers and provide the same to members upon request.",
+    "source_ar_norm": "الشركات: شركات المعلومات الائتمانية المرخص لها بجمع المعلومات الائتمانية عن المستهلكين وحفظها، وتزويد الاعضاء بتلك المعلومات عند طلبها.",
+    "target_en_norm": "companies: credit information companies licensed to collect and maintain credit information on consumers and provide the same to members upon request.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52004,
+    "source_ar": "السجل الائتماني: تقرير تصدره الشركات يحتوي على المعلومات الائتمانية عن المستهلك.",
+    "target_en": "Credit record: A report issued by companies containing consumer credit information.",
+    "source_ar_norm": "السجل الائتماني: تقرير تصدره الشركات يحتوي علي المعلومات الائتمانية عن المستهلك.",
+    "target_en_norm": "credit record: a report issued by companies containing consumer credit information.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52005,
+    "source_ar": "السجلات العامة: سجلات المعلومات الائتمانية التي لدى الجهات الحكومية، مثل سجلات الصناديق والبنوك التي تقدم قروضا حكومية، والجهات القضائية، واللجان الحكومية، وملفات الإفلاس والإعسار، وما في حكمها.",
+    "target_en": "Public records: Credit information records maintained by government entities such as records of funds and banks offering government loans, judicial authorities, government committees, bankruptcy and insolvency records, and the like.",
+    "source_ar_norm": "السجلات العامة: سجلات المعلومات الائتمانية التي لدي الجهات الحكومية، مثل سجلات الصناديق والبنوك التي تقدم قروضا حكومية، والجهات القضائية، واللجان الحكومية، وملفات الافلاس والاعسار، وما في حكمها.",
+    "target_en_norm": "public records: credit information records maintained by government entities such as records of funds and banks offering government loans, judicial authorities, government committees, bankruptcy and insolvency records, and the like.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52006,
+    "source_ar": "المادة الثانية:",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية:",
+    "target_en_norm": "article 2",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52007,
+    "source_ar": "يهدف هذا النظام إلى وضع الأسس العامة والضوابط اللازمة لجمع المعلومات الائتمانية عن المستهلكين وتبادلها وحمايتها.",
+    "target_en": "This Law aims at establishing the general principles and necessary regulations for the collection, exchange, and protection of consumer credit information.",
+    "source_ar_norm": "يهدف هذا النظام الي وضع الاسس العامة والضوابط اللازمة لجمع المعلومات الائتمانية عن المستهلكين وتبادلها وحمايتها.",
+    "target_en_norm": "this law aims at establishing the general principles and necessary regulations for the collection, exchange, and protection of consumer credit information.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52008,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article 3",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52009,
+    "source_ar": "يسري هذا النظام على الشركات والأعضاء والجهات الحكومية والخاصة التي لديها معلومات ائتمانية.",
+    "target_en": "This Law shall apply to companies, members, and government and private entities maintaining credit information.",
+    "source_ar_norm": "يسري هذا النظام علي الشركات والاعضاء والجهات الحكومية والخاصة التي لديها معلومات ائتمانية.",
+    "target_en_norm": "this law shall apply to companies, members, and government and private entities maintaining credit information.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52010,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article 4",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52011,
+    "source_ar": "1 - تلتزم الجهات الحكومية التي لديها معلومات ائتمانية بتوفيرها للشركات المرخص لها وفقا لضوابط تضعها تلك الجهات بما يضمن عدم احتكار تلك المعلومات.",
+    "target_en": "1. Government entities maintaining credit information shall provide the same to licensed companies pursuant to the conditions established by said entities to guard against the monopoly of said information.",
+    "source_ar_norm": "1 - تلتزم الجهات الحكومية التي لديها معلومات ائتمانية بتوفيرها للشركات المرخص لها وفقا لضوابط تضعها تلك الجهات بما يضمن عدم احتكار تلك المعلومات.",
+    "target_en_norm": "1. government entities maintaining credit information shall provide the same to licensed companies pursuant to the conditions established by said entities to guard against the monopoly of said information.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52012,
+    "source_ar": "2 - تلتزم الشركات بجمع المعلومات الائتمانية، وتوفيرها وتبادلها فيما بينها وحمايتها.",
+    "target_en": "2. Companies shall collect, provide, exchange, and protect credit information.",
+    "source_ar_norm": "2 - تلتزم الشركات بجمع المعلومات الائتمانية، وتوفيرها وتبادلها فيما بينها وحمايتها.",
+    "target_en_norm": "2. companies shall collect, provide, exchange, and protect credit information.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52013,
+    "source_ar": "3 - تقوم الشركات بإعداد السجلات الائتمانية عن المستهلكين وتبادلها مع الأعضاء عند طلبها.",
+    "target_en": "3. Companies shall prepare consumer credit records and exchange the same with members upon request.",
+    "source_ar_norm": "3 - تقوم الشركات باعداد السجلات الائتمانية عن المستهلكين وتبادلها مع الاعضاء عند طلبها.",
+    "target_en_norm": "3. companies shall prepare consumer credit records and exchange the same with members upon request.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52014,
+    "source_ar": "4 - تستوفي الشركات مقابلا ماليا لتوفير المعلومات الائتمانية وتبادلها وفق الضوابط التي تحددها اللائحة التنفيذية.",
+    "target_en": "4. Companies shall charge a fee for the provision and exchange of credit information pursuant to the conditions set forth in the Implementing Regulations.",
+    "source_ar_norm": "4 - تستوفي الشركات مقابلا ماليا لتوفير المعلومات الائتمانية وتبادلها وفق الضوابط التي تحددها اللائحة التنفيذية.",
+    "target_en_norm": "4. companies shall charge a fee for the provision and exchange of credit information pursuant to the conditions set forth in the implementing regulations.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52015,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article 5",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52016,
+    "source_ar": "1 - يلتزم كل عضو بتبادل جميع المعلومات الائتمانية المتوافرة لديه مع الشركة المرتبط معها بعقد، وتقع عليه مسؤولية صحة تلك المعلومات وتحديثها.",
+    "target_en": "1. Each member shall exchange all the credit information in his possession with the company he has a contract with and he shall be liable for the accuracy of such information as well as updating the same.",
+    "source_ar_norm": "1 - يلتزم كل عضو بتبادل جميع المعلومات الائتمانية المتوافرة لديه مع الشركة المرتبط معها بعقد، وتقع عليه مسؤولية صحة تلك المعلومات وتحديثها.",
+    "target_en_norm": "1. each member shall exchange all the credit information in his possession with the company he has a contract with and he shall be liable for the accuracy of such information as well as updating the same.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52017,
+    "source_ar": "2 - يحق للأعضاء الحصول من الشركات على نسخة من السجل الائتماني عن المستهلك بعد أخذ موافقته الخطية.",
+    "target_en": "2. A member may obtain a copy of the consumer credit record from companies subject to the written consent of the consumer.",
+    "source_ar_norm": "2 - يحق للاعضاء الحصول من الشركات علي نسخة من السجل الائتماني عن المستهلك بعد اخذ موافقته الخطية.",
+    "target_en_norm": "2. a member may obtain a copy of the consumer credit record from companies subject to the written consent of the consumer.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52018,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article 6",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52019,
+    "source_ar": "يلتزم الأعضاء والشركات والعاملون لديهم بالمحافظة على سرية المعلومات الائتمانية للمستهلكين، ولا يجوز نشرها أو استخدامها لأي غرض آخر، باستثناء ما ورد في هذا النظام أو لائحته التنفيذية، أو بما يتوافق مع الأنظمة والتعليمات المنظمة لسرية المعلومات في المملكة.",
+    "target_en": "Members, companies, and their staff shall maintain the confidentiality of consumer credit information, and they may not publish or use such information for any purposes other than those provided for in this Law or its Implementing Regulations, or in accordance with the laws and instructions regulating the confidentiality of information in the Kingdom.",
+    "source_ar_norm": "يلتزم الاعضاء والشركات والعاملون لديهم بالمحافظة علي سرية المعلومات الائتمانية للمستهلكين، ولا يجوز نشرها او استخدامها لاي غرض اخر، باستثناء ما ورد في هذا النظام او لائحته التنفيذية، او بما يتوافق مع الانظمة والتعليمات المنظمة لسرية المعلومات في المملكة.",
+    "target_en_norm": "members, companies, and their staff shall maintain the confidentiality of consumer credit information, and they may not publish or use such information for any purposes other than those provided for in this law or its implementing regulations, or in accordance with the laws and instructions regulating the confidentiality of information in the kingdom.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52020,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article 7",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52021,
+    "source_ar": "يجوز استخدام المعلومات الائتمانية على شكل أرقام إحصائية، بشرط ألا تحتوي على معلومات تدل على شخصية المستهلك.",
+    "target_en": "Credit information may be used as statistical figures, provided that such information does not reveal the consumer's identity.",
+    "source_ar_norm": "يجوز استخدام المعلومات الائتمانية علي شكل ارقام احصائية، بشرط الا تحتوي علي معلومات تدل علي شخصية المستهلك.",
+    "target_en_norm": "credit information may be used as statistical figures, provided that such information does not reveal the consumer's identity.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52022,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article 8",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52023,
+    "source_ar": "1 - يلتزم الأعضاء والشركات بتوفير المعلومات للمستهلكين عن الإجراءات المتبعة عند التقديم لأي تعالم ائتماني.",
+    "target_en": "1. Members and companies shall provide consumers with information on applicable procedures when applying for any credit transaction.",
+    "source_ar_norm": "1 - يلتزم الاعضاء والشركات بتوفير المعلومات للمستهلكين عن الاجراءات المتبعة عند التقديم لاي تعالم ائتماني.",
+    "target_en_norm": "1. members and companies shall provide consumers with information on applicable procedures when applying for any credit transaction.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52024,
+    "source_ar": "2 - تلتزم الشركات بوضع إجراءات محددة لمعالجة شكاوى المستهلكين، ونشرها بعد موافقة المؤسسة.",
+    "target_en": "2. Companies shall establish specific procedures for dealing with consumers' complaints and shall publish the same upon approval by the Agency.",
+    "source_ar_norm": "2 - تلتزم الشركات بوضع اجراءات محددة لمعالجة شكاوي المستهلكين، ونشرها بعد موافقة المؤسسة.",
+    "target_en_norm": "2. companies shall establish specific procedures for dealing with consumers' complaints and shall publish the same upon approval by the agency.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52025,
+    "source_ar": "المادة التاسعة:",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة:",
+    "target_en_norm": "article 9",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52026,
+    "source_ar": "1 - لا يؤسس للمستهلك سجل ائتماني لدى الشركات للمرة الأولى إلا بعد موافقته الخطية.",
+    "target_en": "1. A consumer credit record may not be established with companies for the first time except with the written consent of the consumer.",
+    "source_ar_norm": "1 - لا يؤسس للمستهلك سجل ائتماني لدي الشركات للمرة الاولي الا بعد موافقته الخطية.",
+    "target_en_norm": "1. a consumer credit record may not be established with companies for the first time except with the written consent of the consumer.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52027,
+    "source_ar": "2 - يجب على العضو إبلاغ المستهلك بسبب رفض تعامله الائتماني، في حالة طلبه.",
+    "target_en": "2. A member shall provide the consumer, upon his request, with grounds for declining his credit transactions.",
+    "source_ar_norm": "2 - يجب علي العضو ابلاغ المستهلك بسبب رفض تعامله الائتماني، في حالة طلبه.",
+    "target_en_norm": "2. a member shall provide the consumer, upon his request, with grounds for declining his credit transactions.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52028,
+    "source_ar": "3 - يحق للمستهلك الذي رُفض تعامله الائتماني الحصول مجانا على نسخة من سجله الائتماني لمرة واحدة فقط.",
+    "target_en": "3. A consumer whose credit transaction is declined may obtain a free copy of his credit record once only.",
+    "source_ar_norm": "3 - يحق للمستهلك الذي رفض تعامله الائتماني الحصول مجانا علي نسخة من سجله الائتماني لمرة واحدة فقط.",
+    "target_en_norm": "3. a consumer whose credit transaction is declined may obtain a free copy of his credit record once only.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52029,
+    "source_ar": "4 - يحق للمستهلك الحصول على نسخة من سجله الائتماني في أي وقت - بشرط أن يسدد المقابل المالي لذلك - وله الحصول على نسخة من سجله مجانا لمرة واحدة بعد تأسيس السجل.",
+    "target_en": "4. Subject to payment of relevant fees, a consumer may obtain a copy of his credit record at any time. Said consumer may obtain a free copy of his credit record only once upon establishment of the record.",
+    "source_ar_norm": "4 - يحق للمستهلك الحصول علي نسخة من سجله الائتماني في اي وقت - بشرط ان يسدد المقابل المالي لذلك - وله الحصول علي نسخة من سجله مجانا لمرة واحدة بعد تاسيس السجل.",
+    "target_en_norm": "4. subject to payment of relevant fees, a consumer may obtain a copy of his credit record at any time. said consumer may obtain a free copy of his credit record only once upon establishment of the record.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52030,
+    "source_ar": "5 - يحق للمستهلك إضافة معلومات إلى سجله الائتماني توضح وجهة نظره الشخصية على ما ورد فيه من معلومات ائتمانية.",
+    "target_en": "5. A consumer may add information to his credit record indicating his personal point of view with respect to credit information provided therein.",
+    "source_ar_norm": "5 - يحق للمستهلك اضافة معلومات الي سجله الائتماني توضح وجهة نظره الشخصية علي ما ورد فيه من معلومات ائتمانية.",
+    "target_en_norm": "5. a consumer may add information to his credit record indicating his personal point of view with respect to credit information provided therein.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52031,
+    "source_ar": "6 - يحق للمستهلك الذي يكتشف خطأ في سجله الائتماني أن يطلب من الشركة تصحيح المعلومات الخاطئة، وذلك بعد تقديمه المستندات المؤيدة لطلبه.",
+    "target_en": "6. A consumer who detects an error in his credit record may request the company to correct said error upon submission of relevant supporting documents.",
+    "source_ar_norm": "6 - يحق للمستهلك الذي يكتشف خطا في سجله الائتماني ان يطلب من الشركة تصحيح المعلومات الخاطئة، وذلك بعد تقديمه المستندات المؤيدة لطلبه.",
+    "target_en_norm": "6. a consumer who detects an error in his credit record may request the company to correct said error upon submission of relevant supporting documents.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52032,
+    "source_ar": "7 - يحق للمستهلك إذا لم تصحح المعلومات الخاطئة في سجله الائتماني، أو لاحظ أن سجله الائتماني قد تم طلبه لسبب غير مشروع؛ أن يتقدم بشكواه إلى اللجنة المكونة بموجب هذا النظام لإصدار القرار المناسب.",
+    "target_en": "7. A consumer, if an error in his credit record is not corrected or if he notices that his credit record has been requested for an unlawful reason, may file a complaint with the committee established pursuant to this Law to decide thereon.",
+    "source_ar_norm": "7 - يحق للمستهلك اذا لم تصحح المعلومات الخاطئة في سجله الائتماني، او لاحظ ان سجله الائتماني قد تم طلبه لسبب غير مشروع؛ ان يتقدم بشكواه الي اللجنة المكونة بموجب هذا النظام لاصدار القرار المناسب.",
+    "target_en_norm": "7. a consumer, if an error in his credit record is not corrected or if he notices that his credit record has been requested for an unlawful reason, may file a complaint with the committee established pursuant to this law to decide thereon.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52033,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article 10",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52034,
+    "source_ar": "1 - يجب على الشركات حفظ المعلومات الائتمانية لديها.",
+    "target_en": "1. Companies shall maintain credit information.",
+    "source_ar_norm": "1 - يجب علي الشركات حفظ المعلومات الائتمانية لديها.",
+    "target_en_norm": "1. companies shall maintain credit information.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52035,
+    "source_ar": "2 - يجب على الشركات إعداد سجل يتضمن جميع طلبات السجلات الائتمانية للمستهلكين وحفظها لديها.",
+    "target_en": "2. Companies shall create and maintain records containing all consumer credit record requests.",
+    "source_ar_norm": "2 - يجب علي الشركات اعداد سجل يتضمن جميع طلبات السجلات الائتمانية للمستهلكين وحفظها لديها.",
+    "target_en_norm": "2. companies shall create and maintain records containing all consumer credit record requests.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52036,
+    "source_ar": "3 - تحدد اللائحة التنفيذية مدة الحفظ وضوابطه، وكيفية التصرف في تلك المعلومات بعد انتهاء هذه المدة.",
+    "target_en": "3. The Implementing Regulations shall specify the duration and requirements for the maintenance of information and the method of disposal thereof at the end of said period.",
+    "source_ar_norm": "3 - تحدد اللائحة التنفيذية مدة الحفظ وضوابطه، وكيفية التصرف في تلك المعلومات بعد انتهاء هذه المدة.",
+    "target_en_norm": "3. the implementing regulations shall specify the duration and requirements for the maintenance of information and the method of disposal thereof at the end of said period.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52037,
+    "source_ar": "المادة الحادية عشرة:",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة:",
+    "target_en_norm": "article 11",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52038,
+    "source_ar": "تتولى المؤسسة مهمة الإشراف والرقابة على تطبيق أحكام هذا النظام، ولها على الأخص القيام بالمهمات التالية:",
+    "target_en": "The Agency shall oversee and monitor the implementation of the provisions of this Law and it may, in particular, undertake the following:",
+    "source_ar_norm": "تتولي المؤسسة مهمة الاشراف والرقابة علي تطبيق احكام هذا النظام، ولها علي الاخص القيام بالمهمات التالية:",
+    "target_en_norm": "the agency shall oversee and monitor the implementation of the provisions of this law and it may, in particular, undertake the following:",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52039,
+    "source_ar": "1 - إعداد اللائحة التنفيذية لهذا النظام.",
+    "target_en": "1. Drafting the Implementing Regulations of this Law.",
+    "source_ar_norm": "1 - اعداد اللائحة التنفيذية لهذا النظام.",
+    "target_en_norm": "1. drafting the implementing regulations of this law.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52040,
+    "source_ar": "2 - تحديد الشروط الواجب توافرها في الشركات التي ترغب في تقديم خدمات المعلومات الائتمانية، وضوابط الترخيص لها وإجراءاته.",
+    "target_en": "2. Determining the conditions to be met by companies seeking to provide credit information services as well as their licensing requirements and procedures.",
+    "source_ar_norm": "2 - تحديد الشروط الواجب توافرها في الشركات التي ترغب في تقديم خدمات المعلومات الائتمانية، وضوابط الترخيص لها واجراءاته.",
+    "target_en_norm": "2. determining the conditions to be met by companies seeking to provide credit information services as well as their licensing requirements and procedures.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52041,
+    "source_ar": "3 - إصدار التراخيص لشركات المعلومات الائتمانية، وتجديدها، وتعديلها.",
+    "target_en": "3. Issuing, renewing, and amending licenses for credit information companies.",
+    "source_ar_norm": "3 - اصدار التراخيص لشركات المعلومات الائتمانية، وتجديدها، وتعديلها.",
+    "target_en_norm": "3. issuing, renewing, and amending licenses for credit information companies.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52042,
+    "source_ar": "4 - وضع آليات الإشراف والرقابة على عمل شركات المعلومات الائتمانية.",
+    "target_en": "4. Establishing procedures to oversee and monitor the work of credit information companies.",
+    "source_ar_norm": "4 - وضع اليات الاشراف والرقابة علي عمل شركات المعلومات الائتمانية.",
+    "target_en_norm": "4. establishing procedures to oversee and monitor the work of credit information companies.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52043,
+    "source_ar": "5 - اعتماد إجراءات العمل التي يجب أن يتبعها الأعضاء وشركات المعلومات الائتمانية لتطبيق السجلات الائتمانية.",
+    "target_en": "5. Approving the work procedures to be followed by members and credit information companies for the application of credit records.",
+    "source_ar_norm": "5 - اعتماد اجراءات العمل التي يجب ان يتبعها الاعضاء وشركات المعلومات الائتمانية لتطبيق السجلات الائتمانية.",
+    "target_en_norm": "5. approving the work procedures to be followed by members and credit information companies for the application of credit records.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52044,
+    "source_ar": "6 - ضبط المخالفات والتحقيق فيها والادعاء ضد المخالفين أمام اللجنة.",
+    "target_en": "6. Detecting and investigating violations and prosecuting violators before the committee.",
+    "source_ar_norm": "6 - ضبط المخالفات والتحقيق فيها والادعاء ضد المخالفين امام اللجنة.",
+    "target_en_norm": "6. detecting and investigating violations and prosecuting violators before the committee.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52045,
+    "source_ar": "7 - تحديد الإجراءات الواجب اتخاذها حيال المعلومات الائتمانية في حالة إلغاء ترخيص شركة المعلومات الائتمانية، أو حلها، أو تصفيتها، أو إفلاسها.",
+    "target_en": "7. Determining the measures to be taken with respect to credit information in case of revocation of the license of a credit information company, or its dissolution, liquidation, or bankruptcy.",
+    "source_ar_norm": "7 - تحديد الاجراءات الواجب اتخاذها حيال المعلومات الائتمانية في حالة الغاء ترخيص شركة المعلومات الائتمانية، او حلها، او تصفيتها، او افلاسها.",
+    "target_en_norm": "7. determining the measures to be taken with respect to credit information in case of revocation of the license of a credit information company, or its dissolution, liquidation, or bankruptcy.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52046,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article 12",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52047,
+    "source_ar": "تعد الأعمال الآتية مخالفة لأحكام هذا النظام:",
+    "target_en": "The following acts shall be deemed in violation of the provisions of this Law:",
+    "source_ar_norm": "تعد الاعمال الاتية مخالفة لاحكام هذا النظام:",
+    "target_en_norm": "the following acts shall be deemed in violation of the provisions of this law:",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52048,
+    "source_ar": "1 - القيام بنشاط شركات المعلومات الائتمانية دون الحصول على ترخيص من المؤسسة.",
+    "target_en": "1. Engaging in the activities of credit information companies without obtaining a license from the Agency.",
+    "source_ar_norm": "1 - القيام بنشاط شركات المعلومات الائتمانية دون الحصول علي ترخيص من المؤسسة.",
+    "target_en_norm": "1. engaging in the activities of credit information companies without obtaining a license from the agency.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52049,
+    "source_ar": "2 - مخالفة الشركات شروط الترخيص وضوابطه.",
+    "target_en": "2. Violation of licensing conditions and requirements by companies.",
+    "source_ar_norm": "2 - مخالفة الشركات شروط الترخيص وضوابطه.",
+    "target_en_norm": "2. violation of licensing conditions and requirements by companies.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52050,
+    "source_ar": "3 - قيام أي عضو أو شركة معلومات ائتمانية أو أي من الجهات الخاضعة لأحكام هذا النظام أو أحد منسوبيها بإفشاء معلومات مما نُص على سريتها في هذا النظام – أثناء عمله أو بعد تركه للعمل – تكون قد وصلت إليه بسبب أعمال وظيفته، وذلك في غير الحالات المنصوص عليها في هذا النظام.",
+    "target_en": "3. Disclosure, by any member, credit information company or any other entity subject to the provisions of this Law, or any of their employees, while in office or afterwards, of information gained in the course of their work which is deemed confidential under this Law, in cases other than those specified in this Law.",
+    "source_ar_norm": "3 - قيام اي عضو او شركة معلومات ائتمانية او اي من الجهات الخاضعة لاحكام هذا النظام او احد منسوبيها بافشاء معلومات مما نص علي سريتها في هذا النظام – اثناء عمله او بعد تركه للعمل – تكون قد وصلت اليه بسبب اعمال وظيفته، وذلك في غير الحالات المنصوص عليها في هذا النظام.",
+    "target_en_norm": "3. disclosure, by any member, credit information company or any other entity subject to the provisions of this law, or any of their employees, while in office or afterwards, of information gained in the course of their work which is deemed confidential under this law, in cases other than those specified in this law.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52051,
+    "source_ar": "4 - استخدام المعلومات الائتمانية أو استغلالها لأي غرض غير مشروع، أو مخالف لأحكام هذا النظام.",
+    "target_en": "4. Use or exploitation of credit information for unlawful purposes or in violation of the provisions of this Law.",
+    "source_ar_norm": "4 - استخدام المعلومات الائتمانية او استغلالها لاي غرض غير مشروع، او مخالف لاحكام هذا النظام.",
+    "target_en_norm": "4. use or exploitation of credit information for unlawful purposes or in violation of the provisions of this law.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52052,
+    "source_ar": "5 - تأخر العضو أو شركة المعلومات الائتمانية في تحديث المعلومات الائتمانية عن المواعيد المحددة في اللائحة التنفيذية أو عدم تصحيح الخطأ فور اكتشافه.",
+    "target_en": "5. Delay on behalf of members or credit information companies in updating credit information on the dates specified in the Implementing Regulations, or failure to correct an error immediately upon its detection.",
+    "source_ar_norm": "5 - تاخر العضو او شركة المعلومات الائتمانية في تحديث المعلومات الائتمانية عن المواعيد المحددة في اللائحة التنفيذية او عدم تصحيح الخطا فور اكتشافه.",
+    "target_en_norm": "5. delay on behalf of members or credit information companies in updating credit information on the dates specified in the implementing regulations, or failure to correct an error immediately upon its detection.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52053,
+    "source_ar": "6 - تقديم بيانات خاطئة أو مزورة عن أحد المستهلكين.",
+    "target_en": "6. Providing incorrect or forged data on consumers.",
+    "source_ar_norm": "6 - تقديم بيانات خاطئة او مزورة عن احد المستهلكين.",
+    "target_en_norm": "6. providing incorrect or forged data on consumers.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52054,
+    "source_ar": "7 - عدم تقديم المعلومات الائتمانية المطلوبة من الأعضاء الملتزمين باتفاقية العضوية، أو التباطؤ والتأخر في تقديمها عن المواعيد المحددة في اللائحة التنفيذية.",
+    "target_en": "7. Failure of the members bound by membership agreements to provide requested credit information, or delay in providing such information on the dates specified in the Implementing Regulations.",
+    "source_ar_norm": "7 - عدم تقديم المعلومات الائتمانية المطلوبة من الاعضاء الملتزمين باتفاقية العضوية، او التباطؤ والتاخر في تقديمها عن المواعيد المحددة في اللائحة التنفيذية.",
+    "target_en_norm": "7. failure of the members bound by membership agreements to provide requested credit information, or delay in providing such information on the dates specified in the implementing regulations.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52055,
+    "source_ar": "8 - أية مخالفة أخرى لأحكام هذا النظام ولائحته التنفيذية.",
+    "target_en": "8. Any other violation of the provisions of this Law or its Implementing Regulations.",
+    "source_ar_norm": "8 - اية مخالفة اخري لاحكام هذا النظام ولائحته التنفيذية.",
+    "target_en_norm": "8. any other violation of the provisions of this law or its implementing regulations.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52056,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article 13",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52057,
+    "source_ar": "مع عدم الإخلال بأي عقوبة أشد ينص عليها نظام آخر؛ يعاقب كل من ارتكب أية مخالفة لأحكام هذا النظام ولائحته التنفيذية بواحدة أو أكثر من العقوبات الآتية:",
+    "target_en": "Without prejudice to any harsher punishment provided for in another law, any violator of the provisions of this Law or its Implementing Regulations shall be subject to one or more of the following punishments:",
+    "source_ar_norm": "مع عدم الاخلال باي عقوبة اشد ينص عليها نظام اخر؛ يعاقب كل من ارتكب اية مخالفة لاحكام هذا النظام ولائحته التنفيذية بواحدة او اكثر من العقوبات الاتية:",
+    "target_en_norm": "without prejudice to any harsher punishment provided for in another law, any violator of the provisions of this law or its implementing regulations shall be subject to one or more of the following punishments:",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52058,
+    "source_ar": "1 - غرامة مالية لا تزيد على مليون ريال، ويضاعف الحد الأقصى للغرامة في حالة العود.",
+    "target_en": "1. A fine not exceeding one million riyals; the maximum fine shall be doubled in case of repetition.",
+    "source_ar_norm": "1 - غرامة مالية لا تزيد علي مليون ريال، ويضاعف الحد الاقصي للغرامة في حالة العود.",
+    "target_en_norm": "1. a fine not exceeding one million riyals; the maximum fine shall be doubled in case of repetition.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52059,
+    "source_ar": "2 - وقف الترخيص مؤقتا.",
+    "target_en": "2. Temporary suspension of the license.",
+    "source_ar_norm": "2 - وقف الترخيص مؤقتا.",
+    "target_en_norm": "2. temporary suspension of the license.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52060,
+    "source_ar": "3 - إلغاء الترخيص.",
+    "target_en": "3. Revocation of the license.",
+    "source_ar_norm": "3 - الغاء الترخيص.",
+    "target_en_norm": "3. revocation of the license.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52061,
+    "source_ar": "المادة الرابعة عشرة:",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة:",
+    "target_en_norm": "article 14",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52062,
+    "source_ar": "تكوَّن بقرار من وزير المالية لجنة أو أكثر للنظر في مخالفات أحكام هذا النظام، وتوقيع العقوبات، والفصل في النزاعات والخلافات التي تنشأ بين المستهلك والأعضاء والشركات، على ألا يقل عدد أعضائها عن (ثلاثة) من أهل الخبرة في هذا المجال، يكون من بينهم مستشار نظامي على الأقل.",
+    "target_en": "Pursuant to a decision by the Minister of Finance, one or more committees shall be formed to review violations of the provisions of this Law, impose punishments, and decide on disputes and disagreements arising between consumers, members, and companies. Said committee shall comprise at least three members with expertise in this field, and at least one of them shall be a legal counselor.",
+    "source_ar_norm": "تكون بقرار من وزير المالية لجنة او اكثر للنظر في مخالفات احكام هذا النظام، وتوقيع العقوبات، والفصل في النزاعات والخلافات التي تنشا بين المستهلك والاعضاء والشركات، علي الا يقل عدد اعضائها عن (ثلاثة) من اهل الخبرة في هذا المجال، يكون من بينهم مستشار نظامي علي الاقل.",
+    "target_en_norm": "pursuant to a decision by the minister of finance, one or more committees shall be formed to review violations of the provisions of this law, impose punishments, and decide on disputes and disagreements arising between consumers, members, and companies. said committee shall comprise at least three members with expertise in this field, and at least one of them shall be a legal counselor.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52063,
+    "source_ar": "وتصدر اللجنة قراراتها بالأغلبية، ويجوز التظلم من قراراتها أمام ديوان المظالم خلال (ستين) يوما من تاريخ الإبلاغ بها. وتحدد اللائحة التنفيذية كيفية عمل هذه اللجنة ومكافأة أعضائها.",
+    "target_en": "Decisions of said committee shall be passed by majority vote and they may be appealed before the Board of Grievances within 60 days from the date of notification thereof. The work procedures of said committee and the remunerations of its members shall be specified in the Implementing Regulations.",
+    "source_ar_norm": "وتصدر اللجنة قراراتها بالاغلبية، ويجوز التظلم من قراراتها امام ديوان المظالم خلال (ستين) يوما من تاريخ الابلاغ بها. وتحدد اللائحة التنفيذية كيفية عمل هذه اللجنة ومكافاة اعضائها.",
+    "target_en_norm": "decisions of said committee shall be passed by majority vote and they may be appealed before the board of grievances within 60 days from the date of notification thereof. the work procedures of said committee and the remunerations of its members shall be specified in the implementing regulations.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52064,
+    "source_ar": "المادة الخامسة عشرة:",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة:",
+    "target_en_norm": "article 15",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52065,
+    "source_ar": "يجوز لمن لحق به ضرر ناتج من ارتكاب المخالفات المنصوص عليها في هذا النظام – بعد صدور قرار من اللجنة – اللجوء إلى الجهة القضائية المختصة لطلب التعويض عن الأضرار التي لحقت به.",
+    "target_en": "Anyone sustaining damage resulting from a violation provided for in this Law, after the issuance of a decision by the committee, may recourse to the competent judicial authority to claim compensation for the damage sustained.",
+    "source_ar_norm": "يجوز لمن لحق به ضرر ناتج من ارتكاب المخالفات المنصوص عليها في هذا النظام – بعد صدور قرار من اللجنة – اللجوء الي الجهة القضائية المختصة لطلب التعويض عن الاضرار التي لحقت به.",
+    "target_en_norm": "anyone sustaining damage resulting from a violation provided for in this law, after the issuance of a decision by the committee, may recourse to the competent judicial authority to claim compensation for the damage sustained.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52066,
+    "source_ar": "المادة السادسة عشرة:",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة:",
+    "target_en_norm": "article 16",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52067,
+    "source_ar": "يصدر محافظ المؤسسة اللائحة التنفيذية لهذا النظام خلال (مائة وثمانين) يوما من تاريخ صدوره، وتنشر في الجريدة الرسمية.",
+    "target_en": "The Governor of the Agency shall issue the Implementing Regulations of this Law within 180 days from the Law's date of promulgation and the Implementing Regulations shall be published in the Official Gazette.",
+    "source_ar_norm": "يصدر محافظ المؤسسة اللائحة التنفيذية لهذا النظام خلال (مائة وثمانين) يوما من تاريخ صدوره، وتنشر في الجريدة الرسمية.",
+    "target_en_norm": "the governor of the agency shall issue the implementing regulations of this law within 180 days from the law's date of promulgation and the implementing regulations shall be published in the official gazette.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52068,
+    "source_ar": "المادة السابعة عشرة:",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة:",
+    "target_en_norm": "article 17",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52069,
+    "source_ar": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به بعد (مائة وثمانين) يوما من تاريخ نشره، ويلغى ما يتعارض معه من أحكام.",
+    "target_en": "This Law shall be published in the Official Gazette and shall enter into force 180 days from the date of publication thereof, and it shall repeal any provisions conflicting therewith.",
+    "source_ar_norm": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به بعد (مائة وثمانين) يوما من تاريخ نشره، ويلغي ما يتعارض معه من احكام.",
+    "target_en_norm": "this law shall be published in the official gazette and shall enter into force 180 days from the date of publication thereof, and it shall repeal any provisions conflicting therewith.",
+    "file_name": "نظام المعلومات الائتمانية.docx"
+  },
+  {
+    "id": 52070,
+    "source_ar": "نظام المقيمين المعتمدين",
+    "target_en": "Accredited Valuers Law",
+    "source_ar_norm": "نظام المقيمين المعتمدين",
+    "target_en_norm": "accredited valuers law",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52071,
+    "source_ar": "المادة الأولى: تعريفات:",
+    "target_en": "Article 1: Definitions",
+    "source_ar_norm": "المادة الاولي: تعريفات:",
+    "target_en_norm": "article 1: definitions",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52072,
+    "source_ar": "يقصد بالعبارات الآتية المعاني الموضحة أمام كل منها، ما لم يدل السياق على خلاف ذلك:",
+    "target_en": "The following terms and phrases shall have the meanings assigned to them, unless otherwise required by context.",
+    "source_ar_norm": "يقصد بالعبارات الاتية المعاني الموضحة امام كل منها، ما لم يدل السياق علي خلاف ذلك:",
+    "target_en_norm": "the following terms and phrases shall have the meanings assigned to them, unless otherwise required by context.",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52073,
+    "source_ar": "1 ـ المهنة: مهنة التقييم.",
+    "target_en": "1. Profession: profession of valuation.",
+    "source_ar_norm": "1  المهنة: مهنة التقييم.",
+    "target_en_norm": "1. profession: profession of valuation.",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52074,
+    "source_ar": "2 - الوزارة: وزارة التجارة والصناعة.",
+    "target_en": "2. Ministry: Ministry of Commerce and Industry.",
+    "source_ar_norm": "2 - الوزارة: وزارة التجارة والصناعة.",
+    "target_en_norm": "2. ministry: ministry of commerce and industry.",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52075,
+    "source_ar": "3 - الوزير: وزير التجارة والصناعة.",
+    "target_en": "3. Minister: Minister of Commerce and Industry.",
+    "source_ar_norm": "3 - الوزير: وزير التجارة والصناعة.",
+    "target_en_norm": "3. minister: minister of commerce and industry.",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52076,
+    "source_ar": "4 ـ الهيئة: الهيئة السعودية للمقيّمين المعتمدين.",
+    "target_en": "4. Authority: Saudi Authority of Accredited Valuers.",
+    "source_ar_norm": "4  الهيئة: الهيئة السعودية للمقيمين المعتمدين.",
+    "target_en_norm": "4. authority: saudi authority of accredited valuers.",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52077,
+    "source_ar": "5 ـ النظام: نظام المقيّمين المعتمدين.",
+    "target_en": "5. Law: Accredited Valuers Law.",
+    "source_ar_norm": "5  النظام: نظام المقيمين المعتمدين.",
+    "target_en_norm": "5. law: accredited valuers law.",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52078,
+    "source_ar": "6 ـ التقييم: عملية تحديد القيمة العادلة للعقارات، أو المنشآت الاقتصادية، أو المعدات والممتلكات على اختلاف أنواعها، لغرض محدد.",
+    "target_en": "6. Valuation: the process of determining the fair value of real estate, economic entities or various types of equipment and property for a specific purpose.",
+    "source_ar_norm": "6  التقييم: عملية تحديد القيمة العادلة للعقارات، او المنشات الاقتصادية، او المعدات والممتلكات علي اختلاف انواعها، لغرض محدد.",
+    "target_en_norm": "6. valuation: the process of determining the fair value of real estate, economic entities or various types of equipment and property for a specific purpose.",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52079,
+    "source_ar": "7 ـ فروع التقييم:",
+    "target_en": "7. Valuation sectors:",
+    "source_ar_norm": "7  فروع التقييم:",
+    "target_en_norm": "7. valuation sectors:",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52080,
+    "source_ar": "فرع العقارات: جميع المصالح، والحقوق، والالتزامات المتعلقة بملكية العقارات بكل التحسينات المثبتة عليها بشكل دائم، والملحقات التابعة المرتبطة بها. ومثال ذلك: التملك والتصرف في الملكية، والرهن، والتأمين، ونزع الملكية، والارتفاق، والانتفاع.",
+    "target_en": "Real estate sector: all interests, rights, and obligations related to possession of real estate along with all permanent improvements and extensions, such as acquisition and disposition of property, mortgage, insurance, expropriation, easement and utilization.",
+    "source_ar_norm": "فرع العقارات: جميع المصالح، والحقوق، والالتزامات المتعلقة بملكية العقارات بكل التحسينات المثبتة عليها بشكل دائم، والملحقات التابعة المرتبطة بها. ومثال ذلك: التملك والتصرف في الملكية، والرهن، والتامين، ونزع الملكية، والارتفاق، والانتفاع.",
+    "target_en_norm": "real estate sector: all interests, rights, and obligations related to possession of real estate along with all permanent improvements and extensions, such as acquisition and disposition of property, mortgage, insurance, expropriation, easement and utilization.",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52081,
+    "source_ar": "فرع المنشآت الاقتصادية: منشآت الأعمال، أو مصالح الملكية فيها على اختلاف حجومها، سواء أكانت فردية أم شركات، والحقوق والالتزامات المتعلقة بها، وتقييم الأصول غير الملموسة، مثل براءات الاختراع، والعلامات التجارية، والشهرة، والملكية الفكرية.",
+    "target_en": "Economic entities sector: business facilities or equities therein regardless of their size, whether sole proprietorships or companies, rights and obligations related thereto and valuation of non-tangible assets such as patents, trademarks, goodwill and intellectual property.",
+    "source_ar_norm": "فرع المنشات الاقتصادية: منشات الاعمال، او مصالح الملكية فيها علي اختلاف حجومها، سواء اكانت فردية ام شركات، والحقوق والالتزامات المتعلقة بها، وتقييم الاصول غير الملموسة، مثل براءات الاختراع، والعلامات التجارية، والشهرة، والملكية الفكرية.",
+    "target_en_norm": "economic entities sector: business facilities or equities therein regardless of their size, whether sole proprietorships or companies, rights and obligations related thereto and valuation of non-tangible assets such as patents, trademarks, goodwill and intellectual property.",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52082,
+    "source_ar": "فرع المعدات والممتلكات المنقولة: ويشمل على سبيل المثال: معدات النقل، ومعدات البناء، والأجهزة المكتبية، ومحتويات المباني عامة، وجميع المصالح والحقوق والالتزامات المتعلقة بها.",
+    "target_en": "Equipment and movable property sector: for example: transport equipment, construction equipment, office equipment, contents of facilities and all interests, rights and obligations related thereto.",
+    "source_ar_norm": "فرع المعدات والممتلكات المنقولة: ويشمل علي سبيل المثال: معدات النقل، ومعدات البناء، والاجهزة المكتبية، ومحتويات المباني عامة، وجميع المصالح والحقوق والالتزامات المتعلقة بها.",
+    "target_en_norm": "equipment and movable property sector: for example: transport equipment, construction equipment, office equipment, contents of facilities and all interests, rights and obligations related thereto.",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52083,
+    "source_ar": "8 ـ السجل: السجل الذي يقيد فيه المقيّمون المعتمدون لدى الوزارة.",
+    "target_en": "8. Registry: the registry where Ministry-accredited valuers are registered.",
+    "source_ar_norm": "8  السجل: السجل الذي يقيد فيه المقيمون المعتمدون لدي الوزارة.",
+    "target_en_norm": "8. registry: the registry where ministry-accredited valuers are registered.",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52084,
+    "source_ar": "9 ـ لجنة قيد المقيّمين: اللجنة التي تنظر في طلبات القيد في السجل وتبت فيها.",
+    "target_en": "9. Valuers Registration Committee: the committee which reviews and decides on registration applications.",
+    "source_ar_norm": "9  لجنة قيد المقيمين: اللجنة التي تنظر في طلبات القيد في السجل وتبت فيها.",
+    "target_en_norm": "9. valuers registration committee: the committee which reviews and decides on registration applications.",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52085,
+    "source_ar": "10 ـ معايير التقييم: المعايير التي تعتمدها الهيئة.",
+    "target_en": "10. Valuation Standards: standards adopted by the Authority.",
+    "source_ar_norm": "10  معايير التقييم: المعايير التي تعتمدها الهيئة.",
+    "target_en_norm": "10. valuation standards: standards adopted by the authority.",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52086,
+    "source_ar": "11 ـ المقيّم المعتمد: الشخص ذو الصفة الطبيعية أو الاعتبارية الذي يرخص له بمزاولة المهنة وفقاً لهذا النظام.",
+    "target_en": "11. Accredited Valuer: a natural or corporate person licensed to practice the profession according to this Law.",
+    "source_ar_norm": "11  المقيم المعتمد: الشخص ذو الصفة الطبيعية او الاعتبارية الذي يرخص له بمزاولة المهنة وفقا لهذا النظام.",
+    "target_en_norm": "11. accredited valuer: a natural or corporate person licensed to practice the profession according to this law.",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52087,
+    "source_ar": "المادة الثانية:",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية:",
+    "target_en_norm": "article 2",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52088,
+    "source_ar": "يهدف هذا النظام إلى وضع الضوابط والمعايير اللازمة لأعمال تقييم العقارات، والمنشآت الاقتصادية، والمعدات، والممتلكات المنقولة ونحوها، وتطوير مهنة التقييم، ورفع مستوى العاملين فيها.",
+    "target_en": "This Law aims to set controls and standards necessary for valuation activities of real estate, economic entities, equipment, movable properties and the like, promote the profession of valuation and improve the proficiency of valuers.",
+    "source_ar_norm": "يهدف هذا النظام الي وضع الضوابط والمعايير اللازمة لاعمال تقييم العقارات، والمنشات الاقتصادية، والمعدات، والممتلكات المنقولة ونحوها، وتطوير مهنة التقييم، ورفع مستوي العاملين فيها.",
+    "target_en_norm": "this law aims to set controls and standards necessary for valuation activities of real estate, economic entities, equipment, movable properties and the like, promote the profession of valuation and improve the proficiency of valuers.",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52089,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article 3",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52090,
+    "source_ar": "لا يحق لأي شخص ذي صفة طبيعية أو اعتبارية مزاولة مهنة التقييم في أي فرع من فروع التقييم ما لم يكن مرخصاً له بمزاولة المهنة في الفرع نفسه.",
+    "target_en": "A natural or corporate person may not practice the profession in any sector without obtaining a license to practice in that particular sector.",
+    "source_ar_norm": "لا يحق لاي شخص ذي صفة طبيعية او اعتبارية مزاولة مهنة التقييم في اي فرع من فروع التقييم ما لم يكن مرخصا له بمزاولة المهنة في الفرع نفسه.",
+    "target_en_norm": "a natural or corporate person may not practice the profession in any sector without obtaining a license to practice in that particular sector.",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52091,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article 4",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52092,
+    "source_ar": "يُنشأ في الوزارة سجل لكل فرع من فروع التقييم يقيد فيه أسماء المقيّمين المعتمدين إذا كانوا أشخاصاً ذوي صفة طبيعية. أما إذا كانوا أشخاصاً ذوي صفة اعتبارية فيسجلون ـ بالإضافة إلى ذلك ـ في سجل الشركات المهنية بالوزارة، ويخضعون في ذلك لأحكام نظام الشركات المهنية.",
+    "target_en": "A registry shall be established at the Ministry for each valuation sector where accredited valuers are registered. Corporate persons shall, additionally, be registered with the professional companies registry at the Ministry and shall be subject to the provisions of Professional Companies Law.",
+    "source_ar_norm": "ينشا في الوزارة سجل لكل فرع من فروع التقييم يقيد فيه اسماء المقيمين المعتمدين اذا كانوا اشخاصا ذوي صفة طبيعية. اما اذا كانوا اشخاصا ذوي صفة اعتبارية فيسجلون  بالاضافة الي ذلك  في سجل الشركات المهنية بالوزارة، ويخضعون في ذلك لاحكام نظام الشركات المهنية.",
+    "target_en_norm": "a registry shall be established at the ministry for each valuation sector where accredited valuers are registered. corporate persons shall, additionally, be registered with the professional companies registry at the ministry and shall be subject to the provisions of professional companies law.",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52093,
+    "source_ar": "شروط القيد في السجل",
+    "target_en": "Registration Conditions",
+    "source_ar_norm": "شروط القيد في السجل",
+    "target_en_norm": "registration conditions",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52094,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article 5",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52095,
+    "source_ar": "يشترط فيمن يقيد اسمه في السجل أن يكون:",
+    "target_en": "A person applying for registration shall:",
+    "source_ar_norm": "يشترط فيمن يقيد اسمه في السجل ان يكون:",
+    "target_en_norm": "a person applying for registration shall:",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52096,
+    "source_ar": "1 ـ سعودي الجنسية.",
+    "target_en": "1. be a Saudi national;",
+    "source_ar_norm": "1  سعودي الجنسية.",
+    "target_en_norm": "1. be a saudi national;",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52097,
+    "source_ar": "2 ـ كامل الأهلية.",
+    "target_en": "2. be legally competent;",
+    "source_ar_norm": "2  كامل الاهلية.",
+    "target_en_norm": "2. be legally competent;",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52098,
+    "source_ar": "3 ـ حسن السيرة والسلوك، وغير محكوم عليه بحد شرعي، أو في جريمة مخلة بالشرف أو الأمانة ما لم يكن قد رُد إليه اعتباره.",
+    "target_en": "3. be of good conduct, and not convicted of \"hadd\" [Sharia prescribed punishment], or of a crime impinging on honor or integrity, unless rehabilitated;",
+    "source_ar_norm": "3  حسن السيرة والسلوك، وغير محكوم عليه بحد شرعي، او في جريمة مخلة بالشرف او الامانة ما لم يكن قد رد اليه اعتباره.",
+    "target_en_norm": "3. be of good conduct, and not convicted of \"hadd\" [sharia prescribed punishment], or of a crime impinging on honor or integrity, unless rehabilitated;",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52099,
+    "source_ar": "4 ـ لديه خبرة عملية بالتقييم في الفرع الذي يطلب الترخيص لمزاولته، وذلك طبقاً لما تحدده اللائحة التنفيذية.",
+    "target_en": "4. have practical experience in valuation in the sector in which he applies for a license, according to the Implementing Regulations; and",
+    "source_ar_norm": "4  لديه خبرة عملية بالتقييم في الفرع الذي يطلب الترخيص لمزاولته، وذلك طبقا لما تحدده اللائحة التنفيذية.",
+    "target_en_norm": "4. have practical experience in valuation in the sector in which he applies for a license, according to the implementing regulations; and",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  },
+  {
+    "id": 52100,
+    "source_ar": "5 ـ عضواً أساسياً في الهيئة.",
+    "target_en": "5. be an active member in the Authority.",
+    "source_ar_norm": "5  عضوا اساسيا في الهيئة.",
+    "target_en_norm": "5. be an active member in the authority.",
+    "file_name": "نظام المقيمين المعتمدين.docx"
+  }
+]
