@@ -1,0 +1,802 @@
+[
+  {
+    "id": 24901,
+    "source_ar": "النفايات ذات الحجم الكبير : جميع أنواع النفايات التي هي بطبيعتها ذات حجم كبير، ويصعب جمعها مع مكونات النفايات البلدية الصلبة الأخرى، مثل : أجزاء السيارات، وجذوع الأشجار، وقطع الأثاث، والأجهزة الكهربية المنزلية.",
+    "target_en": "Large Waste Items: All types of waste that are large by nature and are difficult to collect with other components of municipal solid waste such as automobile parts, tree trunks, furniture items, and household electrical appliances.",
+    "source_ar_norm": "النفايات ذات الحجم الكبير : جميع انواع النفايات التي هي بطبيعتها ذات حجم كبير، ويصعب جمعها مع مكونات النفايات البلدية الصلبة الاخري، مثل : اجزاء السيارات، وجذوع الاشجار، وقطع الاثاث، والاجهزة الكهربية المنزلية.",
+    "target_en_norm": "large waste items: all types of waste that are large by nature and are difficult to collect with other components of municipal solid waste such as automobile parts, tree trunks, furniture items, and household electrical appliances.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24902,
+    "source_ar": "نفايات البناء والهدم : نفايات البناء والأنقاض الناتجة من أعمال الإنشاءات والصيانة والهدم والتسوية، وكذلك نفايات المواد الناتجة من تعبيد الطرق وغيرها.",
+    "target_en": "Construction and Demolition Waste: Waste resulting from construction, maintenance, demolition, and leveling activities, as well as waste resulting from road paving activities and the like.",
+    "source_ar_norm": "نفايات البناء والهدم : نفايات البناء والانقاض الناتجة من اعمال الانشاءات والصيانة والهدم والتسوية، وكذلك نفايات المواد الناتجة من تعبيد الطرق وغيرها.",
+    "target_en_norm": "construction and demolition waste: waste resulting from construction, maintenance, demolition, and leveling activities, as well as waste resulting from road paving activities and the like.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24903,
+    "source_ar": "النفايات الصناعية الخطرة : النفايات الناتجة من الأنشطة الصناعية التي قد تحتوي على مواد مذيبة، أو مواد مزيلة للشحوم، أو الزيوت، أو مواد مشعة، أو مواد ملونة (أحبار)، أو رواسب عجينية (حمأة)، أو أحماض وقلويات، أو مواد أو نفايات صناعية أخرى غير النفايات البلدية الصلبة.",
+    "target_en": "Hazardous Industrial Waste: Waste resulting from industrial activities which may contain solvents, degreasers, radioactive substances, colorings (ink), sludge, acids, alkalis, industrial substances, or waste other than municipal solid waste.",
+    "source_ar_norm": "النفايات الصناعية الخطرة : النفايات الناتجة من الانشطة الصناعية التي قد تحتوي علي مواد مذيبة، او مواد مزيلة للشحوم، او الزيوت، او مواد مشعة، او مواد ملونة (احبار)، او رواسب عجينية (حماة)، او احماض وقلويات، او مواد او نفايات صناعية اخري غير النفايات البلدية الصلبة.",
+    "target_en_norm": "hazardous industrial waste: waste resulting from industrial activities which may contain solvents, degreasers, radioactive substances, colorings (ink), sludge, acids, alkalis, industrial substances, or waste other than municipal solid waste.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24904,
+    "source_ar": "نفايات الرعاية الصحية الخطرة: النفايات التي تنتج من المنشآت التي تقدم خدمات الرعاية الصحية المختلفة، والمختبرات ومراكز الأبحاث الطبية، وإنتاج الأدوية والمستحضرات الدوائية واللقاحات، ومراكز العلاج البيطري، ومن العلاج والتمريض في المنازل، وتنتج جميعها من مصادر ملوثة أو محتمل تلوثها بالعوامل المعدية، أو الكيماوية، أو المشعة، وتشكل خطراً على الصحة العامة والبيئة أثناء إنتاجها، أو جمعها، أو تداولها، أو تخزينها، أو نقلها، أو التخلص منها.",
+    "target_en": "Hazardous Healthcare Waste: Waste produced by various healthcare establishments, laboratories, medical research centers, pharmaceutical and vaccine manufacturers, and veterinary centers, as well as home treatment and nursing, which originates from sources that are polluted or potentially polluted by infectious, chemical, or radioactive agents, and which poses risk to public health and the environment during the production, collection, handling, storage, or disposal thereof.",
+    "source_ar_norm": "نفايات الرعاية الصحية الخطرة: النفايات التي تنتج من المنشات التي تقدم خدمات الرعاية الصحية المختلفة، والمختبرات ومراكز الابحاث الطبية، وانتاج الادوية والمستحضرات الدوائية واللقاحات، ومراكز العلاج البيطري، ومن العلاج والتمريض في المنازل، وتنتج جميعها من مصادر ملوثة او محتمل تلوثها بالعوامل المعدية، او الكيماوية، او المشعة، وتشكل خطرا علي الصحة العامة والبيئة اثناء انتاجها، او جمعها، او تداولها، او تخزينها، او نقلها، او التخلص منها.",
+    "target_en_norm": "hazardous healthcare waste: waste produced by various healthcare establishments, laboratories, medical research centers, pharmaceutical and vaccine manufacturers, and veterinary centers, as well as home treatment and nursing, which originates from sources that are polluted or potentially polluted by infectious, chemical, or radioactive agents, and which poses risk to public health and the environment during the production, collection, handling, storage, or disposal thereof.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24905,
+    "source_ar": "إدارة النفايات البلدية الصلبة: مباشرة عمليات الفصل، والجمع، والنقل، والتخزين، والفرز، وإعادة التدوير والمعالجة، والتخلص النهائي من النفايات، بما في ذلك الإشراف على هذه العمليات والعناية اللاحقة في مواقع التخلص النهائي، وكذلك الدراسات والبحوث التي تجرى على أي من هذه العمليات.",
+    "target_en": "Municipal Solid Waste Management: Managing the separation, collection, transport, storage, sorting, recycling, processing, and final disposal of waste, including supervision of said processes and close monitoring on final disposal sites as well as research and studies thereon.",
+    "source_ar_norm": "ادارة النفايات البلدية الصلبة: مباشرة عمليات الفصل، والجمع، والنقل، والتخزين، والفرز، واعادة التدوير والمعالجة، والتخلص النهائي من النفايات، بما في ذلك الاشراف علي هذه العمليات والعناية اللاحقة في مواقع التخلص النهائي، وكذلك الدراسات والبحوث التي تجري علي اي من هذه العمليات.",
+    "target_en_norm": "municipal solid waste management: managing the separation, collection, transport, storage, sorting, recycling, processing, and final disposal of waste, including supervision of said processes and close monitoring on final disposal sites as well as research and studies thereon.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24906,
+    "source_ar": "الفصل في المصدر: فصل مختلف أنواع النفايات البلدية الصلبة التي يمكن إعادة استخدامها أو تدويرها، وذلك في أماكن توالدها.",
+    "target_en": "Separation at Source: Separation at source of different types of municipal solid waste which can be reused or recycled.",
+    "source_ar_norm": "الفصل في المصدر: فصل مختلف انواع النفايات البلدية الصلبة التي يمكن اعادة استخدامها او تدويرها، وذلك في اماكن توالدها.",
+    "target_en_norm": "separation at source: separation at source of different types of municipal solid waste which can be reused or recycled.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24907,
+    "source_ar": "الجمع: جمع النفايات البلدية الصلبة من نقاط التجميع بوساطة الشاحنات والآليات المخصصة لذلك.",
+    "target_en": "Collection: Collection of municipal solid waste from collection sites by trucks and vehicles designed for this purpose.",
+    "source_ar_norm": "الجمع: جمع النفايات البلدية الصلبة من نقاط التجميع بوساطة الشاحنات والاليات المخصصة لذلك.",
+    "target_en_norm": "collection: collection of municipal solid waste from collection sites by trucks and vehicles designed for this purpose.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24908,
+    "source_ar": "النقل: نقل النفايات البلدية الصلبة بوسائل النقل المعتمدة إلى المحطات الانتقالية، أو منشآت الفرز والمعالجة، أو المدافن الصحية.",
+    "target_en": "Transport: Transport of municipal solid waste by approved means of transport to interim stations, sorting and processing facilities, or sanitary landfills.",
+    "source_ar_norm": "النقل: نقل النفايات البلدية الصلبة بوسائل النقل المعتمدة الي المحطات الانتقالية، او منشات الفرز والمعالجة، او المدافن الصحية.",
+    "target_en_norm": "transport: transport of municipal solid waste by approved means of transport to interim stations, sorting and processing facilities, or sanitary landfills.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24909,
+    "source_ar": "الفرز: فصل مكونات النفايات البلدية الصلبة عن بعضها، مثل: الورق، والزجاج، والمعادن، وغيرها من المكونات في المحطات الانتقالية، أو منشآت الفرز والمعالجة، وذلك بقصد إعادة تدويرها، أو معالجتها.",
+    "target_en": "Sorting: Separation of municipal solid waste components such as paper, glass, metal and other components at interim stations or sorting and processing facilities for recycling or processing purposes.",
+    "source_ar_norm": "الفرز: فصل مكونات النفايات البلدية الصلبة عن بعضها، مثل: الورق، والزجاج، والمعادن، وغيرها من المكونات في المحطات الانتقالية، او منشات الفرز والمعالجة، وذلك بقصد اعادة تدويرها، او معالجتها.",
+    "target_en_norm": "sorting: separation of municipal solid waste components such as paper, glass, metal and other components at interim stations or sorting and processing facilities for recycling or processing purposes.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24910,
+    "source_ar": "إعادة التدوير : تهيئة مواد النفايات البلدية الصلبة؛ من أجل استرجاعها، أو إعادة استخدامها مواد خام أولية في عمليات التصنيع.",
+    "target_en": "Recycling: Preparation of municipal solid waste to restore or reuse such waste as raw materials in manufacturing processes.",
+    "source_ar_norm": "اعادة التدوير : تهيئة مواد النفايات البلدية الصلبة؛ من اجل استرجاعها، او اعادة استخدامها مواد خام اولية في عمليات التصنيع.",
+    "target_en_norm": "recycling: preparation of municipal solid waste to restore or reuse such waste as raw materials in manufacturing processes.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24911,
+    "source_ar": "المعالجة : إحداث تغيير في خصائص النفايات البلدية الصلبة بعد فرزها؛ من أجل تقليل حجمها، أو تسهيل عمليات التعامل معها عند إعادة استخدامها، أو تدويرها.",
+    "target_en": "Processing: Alteration of the properties of municipal solid waste after sorting in order to reduce its size or facilitate the handling thereof upon reusing or recycling.",
+    "source_ar_norm": "المعالجة : احداث تغيير في خصائص النفايات البلدية الصلبة بعد فرزها؛ من اجل تقليل حجمها، او تسهيل عمليات التعامل معها عند اعادة استخدامها، او تدويرها.",
+    "target_en_norm": "processing: alteration of the properties of municipal solid waste after sorting in order to reduce its size or facilitate the handling thereof upon reusing or recycling.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24912,
+    "source_ar": "التخزين : حفظ مكونات النفايات البلدية الصلبة، أو بعضها ؛ للاستفادة منها لاحقاً .",
+    "target_en": "Storage: Storing the components of municipal solid waste, or part thereof, for future use.",
+    "source_ar_norm": "التخزين : حفظ مكونات النفايات البلدية الصلبة، او بعضها ؛ للاستفادة منها لاحقا .",
+    "target_en_norm": "storage: storing the components of municipal solid waste, or part thereof, for future use.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24913,
+    "source_ar": "التخلص النهائي من النفايات البلدية الصلبة : إيداع النفايات البلدية الصلبة - التي لا يمكن الاستفادة منها، أو إعادة تدويرها - في المدافن الصحية.",
+    "target_en": "Final Disposal of Municipal Solid Waste: Depositing municipal solid waste that cannot be reused or recycled at sanitary landfills.",
+    "source_ar_norm": "التخلص النهائي من النفايات البلدية الصلبة : ايداع النفايات البلدية الصلبة - التي لا يمكن الاستفادة منها، او اعادة تدويرها - في المدافن الصحية.",
+    "target_en_norm": "final disposal of municipal solid waste: depositing municipal solid waste that cannot be reused or recycled at sanitary landfills.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24914,
+    "source_ar": "المحطات الانتقالية : المنشآت التي يتم استخدامها جزءًا أو مرحلة من مراحل عملية نقل النفايات البلدية الصلبة إلى مواقع ومنشآت معالجة أو فرز النفايات، أو إلى مواقع التخلص النهائي ؛ من أجل تقليل تكلفة النقل.",
+    "target_en": "Interim Station: A facility used as a part of or a stage in the process of transporting municipal solid waste to waste processing or sorting sites or facilities, or final disposal sites to reduce transportation costs.",
+    "source_ar_norm": "المحطات الانتقالية : المنشات التي يتم استخدامها جزءا او مرحلة من مراحل عملية نقل النفايات البلدية الصلبة الي مواقع ومنشات معالجة او فرز النفايات، او الي مواقع التخلص النهائي ؛ من اجل تقليل تكلفة النقل.",
+    "target_en_norm": "interim station: a facility used as a part of or a stage in the process of transporting municipal solid waste to waste processing or sorting sites or facilities, or final disposal sites to reduce transportation costs.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24915,
+    "source_ar": "منشآت الفرز والمعالجة : منشآت تنقل إليها النفايات البلدية الصلبة ؛ لفرز مكوناتها، ومعالجتها، وتجهيزها لإعادة الاستخدام أو كمواد خام تدخل في عمليات الصناعة.",
+    "target_en": "Sorting and Processing Facilities: Facilities to which municipal solid waste is transported in order to be sorted, processed, and prepared for reuse as raw materials in manufacturing processes.",
+    "source_ar_norm": "منشات الفرز والمعالجة : منشات تنقل اليها النفايات البلدية الصلبة ؛ لفرز مكوناتها، ومعالجتها، وتجهيزها لاعادة الاستخدام او كمواد خام تدخل في عمليات الصناعة.",
+    "target_en_norm": "sorting and processing facilities: facilities to which municipal solid waste is transported in order to be sorted, processed, and prepared for reuse as raw materials in manufacturing processes.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24916,
+    "source_ar": "المدفن الصحي: منشأة أرضية تدفن فيها النفايات البلدية الصلبة طبقاً للمعايير الفنية المعتمدة؛ للتخلص من آثارها الضارة بالصحة العامة والبيئة.",
+    "target_en": "Sanitary Landfill: An area of land where municipal solid waste is buried according to approved technical standards to avoid its hazardous impact on public health and the environment.",
+    "source_ar_norm": "المدفن الصحي: منشاة ارضية تدفن فيها النفايات البلدية الصلبة طبقا للمعايير الفنية المعتمدة؛ للتخلص من اثارها الضارة بالصحة العامة والبيئة.",
+    "target_en_norm": "sanitary landfill: an area of land where municipal solid waste is buried according to approved technical standards to avoid its hazardous impact on public health and the environment.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24917,
+    "source_ar": "الحرق : إشعال مكونات النفايات البلدية الصلبة؛ للتخلص منها، وذلك بطريقة الإشعال بالحرق المفتوح، أو بطريقة الحرق المحكوم في أفران خاصة (الترميد) سواء باسترجاع الطاقة، أو بدونه.",
+    "target_en": "Incineration: The disposal of components of municipal solid waste by means of open or controlled combustion chambers (incineration), with or without energy recovery.",
+    "source_ar_norm": "الحرق : اشعال مكونات النفايات البلدية الصلبة؛ للتخلص منها، وذلك بطريقة الاشعال بالحرق المفتوح، او بطريقة الحرق المحكوم في افران خاصة (الترميد) سواء باسترجاع الطاقة، او بدونه.",
+    "target_en_norm": "incineration: the disposal of components of municipal solid waste by means of open or controlled combustion chambers (incineration), with or without energy recovery.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24918,
+    "source_ar": "النظام : نظام إدارة النفايات البلدية الصلبة.",
+    "target_en": "Law: Law of Municipal Solid Waste Management.",
+    "source_ar_norm": "النظام : نظام ادارة النفايات البلدية الصلبة.",
+    "target_en_norm": "law: law of municipal solid waste management.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24919,
+    "source_ar": "اللائحة : اللائحة التنفيذية للنظام.",
+    "target_en": "Regulations: Implementing Regulations of the Law.",
+    "source_ar_norm": "اللائحة : اللائحة التنفيذية للنظام.",
+    "target_en_norm": "regulations: implementing regulations of the law.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24920,
+    "source_ar": "الفصل الثاني",
+    "target_en": "Chapter Two",
+    "source_ar_norm": "الفصل الثاني",
+    "target_en_norm": "chapter two",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24921,
+    "source_ar": "المهمات والمسؤوليات",
+    "target_en": "Tasks and Responsibilities",
+    "source_ar_norm": "المهمات والمسؤوليات",
+    "target_en_norm": "tasks and responsibilities",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24922,
+    "source_ar": "المادة الرابعة : مهمات الوزارة ومسؤولياتها:",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة : مهمات الوزارة ومسؤولياتها:",
+    "target_en_norm": "article 4",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24923,
+    "source_ar": "تتولى الوزارة مهمات ومسؤوليات إدارة النفايات البلدية الصلبة، وتشمل هذه المهمات والمسؤوليات ـ دون حصر ـ ما يأتي :",
+    "target_en": "The Ministry shall undertake the duties and responsibilities of managing municipal solid waste; such duties and responsibilities shall include, but not be limited to, the following:",
+    "source_ar_norm": "تتولي الوزارة مهمات ومسؤوليات ادارة النفايات البلدية الصلبة، وتشمل هذه المهمات والمسؤوليات  دون حصر  ما ياتي :",
+    "target_en_norm": "the ministry shall undertake the duties and responsibilities of managing municipal solid waste; such duties and responsibilities shall include, but not be limited to, the following:",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24924,
+    "source_ar": "1- رفع المستوى الصحي وسلامة السكان وراحتهم في مدن المملكة وقراها، وذلك عن طريق تقديم الخدمات، وإدارة النفايات البلدية الصلبة.",
+    "target_en": "1. Improving the standard of health, safety, and well-being of populations of cities and villages in the Kingdom by providing municipal solid waste services and managing the same.",
+    "source_ar_norm": "1- رفع المستوي الصحي وسلامة السكان وراحتهم في مدن المملكة وقراها، وذلك عن طريق تقديم الخدمات، وادارة النفايات البلدية الصلبة.",
+    "target_en_norm": "1. improving the standard of health, safety, and well-being of populations of cities and villages in the kingdom by providing municipal solid waste services and managing the same.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24925,
+    "source_ar": "2- إعداد الإستراتيجية الوطنية لإدارة النفايات البلدية الصلبة كإطار لعمل مؤسسي وفني، والرفع عن ذلك بحسب الإجراءات النظامية.",
+    "target_en": "2. Developing a national strategy for municipal solid waste management to serve as a framework for institutional and technical work, and submitting the same in accordance with statutory procedures.",
+    "source_ar_norm": "2- اعداد الاستراتيجية الوطنية لادارة النفايات البلدية الصلبة كاطار لعمل مؤسسي وفني، والرفع عن ذلك بحسب الاجراءات النظامية.",
+    "target_en_norm": "2. developing a national strategy for municipal solid waste management to serve as a framework for institutional and technical work, and submitting the same in accordance with statutory procedures.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24926,
+    "source_ar": "3- تنظيم تنفيذ مشروعات نظافة المدن وإدارة النفايات البلدية الصلبة، بما يحقق المصلحة العامة، والعناية بنظافة المدن والقرى، وسلامة البيئة.",
+    "target_en": "3. Regulating the execution of urban cleaning and municipal solid waste management projects in a manner that serves public interest, and maintaining the cleanliness of cities and villages and the safety of the environment.",
+    "source_ar_norm": "3- تنظيم تنفيذ مشروعات نظافة المدن وادارة النفايات البلدية الصلبة، بما يحقق المصلحة العامة، والعناية بنظافة المدن والقري، وسلامة البيئة.",
+    "target_en_norm": "3. regulating the execution of urban cleaning and municipal solid waste management projects in a manner that serves public interest, and maintaining the cleanliness of cities and villages and the safety of the environment.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24927,
+    "source_ar": "4- دراسة المتطلبات والاحتياجات المختلفة وتحديدها، ووضع البرامج والخطط اللازمة وتطويرها؛ لإدارة النفايات البلدية الصلبة، ومتابعة تنفيذ مشروعاتها.",
+    "target_en": "4. Examining and identifying the various requirements and needs, developing the necessary programs and plans for municipal solid waste management, and monitoring the execution of relevant projects.",
+    "source_ar_norm": "4- دراسة المتطلبات والاحتياجات المختلفة وتحديدها، ووضع البرامج والخطط اللازمة وتطويرها؛ لادارة النفايات البلدية الصلبة، ومتابعة تنفيذ مشروعاتها.",
+    "target_en_norm": "4. examining and identifying the various requirements and needs, developing the necessary programs and plans for municipal solid waste management, and monitoring the execution of relevant projects.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24928,
+    "source_ar": "5- بناء القدرات وتطوير الإدارات المختصة في الأمانات والبلديات، وتزويدها بالمعلومات، ووضع البرامج التدريبية للعاملين فيها.",
+    "target_en": "5. Building capacities, developing relevant departments at municipalities and sub-municipalities, and providing them with information, and developing training programs.",
+    "source_ar_norm": "5- بناء القدرات وتطوير الادارات المختصة في الامانات والبلديات، وتزويدها بالمعلومات، ووضع البرامج التدريبية للعاملين فيها.",
+    "target_en_norm": "5. building capacities, developing relevant departments at municipalities and sub-municipalities, and providing them with information, and developing training programs.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24929,
+    "source_ar": "6- تحديد المنشآت، أو المباني أو الأماكن التي تقع خدمات جمع نفاياتها على عاتق المالك، أو المستفيد مباشرة.",
+    "target_en": "6. Identifying the facilities, buildings, or sites the owner or user of which is directly responsible for the collection of waste.",
+    "source_ar_norm": "6- تحديد المنشات، او المباني او الاماكن التي تقع خدمات جمع نفاياتها علي عاتق المالك، او المستفيد مباشرة.",
+    "target_en_norm": "6. identifying the facilities, buildings, or sites the owner or user of which is directly responsible for the collection of waste.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24930,
+    "source_ar": "7- وضع الضوابط الهندسية اللازمة لإنشاء المدافن الصحية؛ للتخلص من النفايات البلدية الصلبة، والتأكد من أن هذه المدافن مطابقة للشروط والمواصفات المعتمدة نظاماً، وأن يتم إدارتها وتُشغّيلها وتقوّيمها، بحسب الأساليب والمعايير الفنية والبيئية المعتمدة عالمياً.",
+    "target_en": "7. Setting necessary design standards for establishing sanitary landfills for the disposal of municipal solid waste, ensuring their compliance with legal requirements and specifications, and adopting international technical and environmental standards in the management, operation, and assessment of said landfills.",
+    "source_ar_norm": "7- وضع الضوابط الهندسية اللازمة لانشاء المدافن الصحية؛ للتخلص من النفايات البلدية الصلبة، والتاكد من ان هذه المدافن مطابقة للشروط والمواصفات المعتمدة نظاما، وان يتم ادارتها وتشغيلها وتقويمها، بحسب الاساليب والمعايير الفنية والبيئية المعتمدة عالميا.",
+    "target_en_norm": "7. setting necessary design standards for establishing sanitary landfills for the disposal of municipal solid waste, ensuring their compliance with legal requirements and specifications, and adopting international technical and environmental standards in the management, operation, and assessment of said landfills.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24931,
+    "source_ar": "8- الإذن بمزاولة نشاط الحرق؛ في ضوء المواصفات والشروط والضوابط البيئية التي تحدد ذلك.",
+    "target_en": "8. Granting incineration permit in accordance with relevant specifications, requirements, and environmental controls.",
+    "source_ar_norm": "8- الاذن بمزاولة نشاط الحرق؛ في ضوء المواصفات والشروط والضوابط البيئية التي تحدد ذلك.",
+    "target_en_norm": "8. granting incineration permit in accordance with relevant specifications, requirements, and environmental controls.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24932,
+    "source_ar": "9- رفع الوعي البيئي، وإعداد البرامج المناسبة وتنفيذها؛ لتوعية السكان بأهمية المحافظة على النظافة والصحة العامة، والحد من إنتاج النفايات، والتقيد بالتعليمات الخاصة عند التعامل مع النفايات البلدية الصلبة.",
+    "target_en": "9. Raising environmental awareness and developing and executing appropriate programs to raise community awareness on the importance of maintaining public health and sanitation, reducing waste, and adhering to relevant regulations on municipal solid waste management.",
+    "source_ar_norm": "9- رفع الوعي البيئي، واعداد البرامج المناسبة وتنفيذها؛ لتوعية السكان باهمية المحافظة علي النظافة والصحة العامة، والحد من انتاج النفايات، والتقيد بالتعليمات الخاصة عند التعامل مع النفايات البلدية الصلبة.",
+    "target_en_norm": "9. raising environmental awareness and developing and executing appropriate programs to raise community awareness on the importance of maintaining public health and sanitation, reducing waste, and adhering to relevant regulations on municipal solid waste management.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24933,
+    "source_ar": "10- وضع خطة طوارئ بالتنسيق مع الجهات ذات العلاقة والأمانات والبلديات؛ لمباشرة نشاط إدارة النفايات البلدية الصلبة في حالات الضرورة، أو الظروف الاستثنائية.",
+    "target_en": "10. Developing an emergency plan in coordination with relevant authorities, municipalities, and sub-municipalities to manage municipal solid waste in cases of emergency or extraordinary circumstances.",
+    "source_ar_norm": "10- وضع خطة طوارئ بالتنسيق مع الجهات ذات العلاقة والامانات والبلديات؛ لمباشرة نشاط ادارة النفايات البلدية الصلبة في حالات الضرورة، او الظروف الاستثنائية.",
+    "target_en_norm": "10. developing an emergency plan in coordination with relevant authorities, municipalities, and sub-municipalities to manage municipal solid waste in cases of emergency or extraordinary circumstances.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24934,
+    "source_ar": "11- اقتراح الدراسات، وتبني تطبيق المشروعات الرائدة في مجال إدارة النفايات البلدية الصلبة، واقتراح مشروعات التطوير والتعديلات اللازمة للنظام - بما يضمن مواكبة التقدم المستمر في أساليب إدارتها - ووضع قاعدة بيانات وطنية لها.",
+    "target_en": "11. Proposing studies, adopting leading projects in the field of municipal solid waste management, proposing amendments to this Law to keep abreast of rapid developments in management, and creating a national database therefor.",
+    "source_ar_norm": "11- اقتراح الدراسات، وتبني تطبيق المشروعات الرائدة في مجال ادارة النفايات البلدية الصلبة، واقتراح مشروعات التطوير والتعديلات اللازمة للنظام - بما يضمن مواكبة التقدم المستمر في اساليب ادارتها - ووضع قاعدة بيانات وطنية لها.",
+    "target_en_norm": "11. proposing studies, adopting leading projects in the field of municipal solid waste management, proposing amendments to this law to keep abreast of rapid developments in management, and creating a national database therefor.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24935,
+    "source_ar": "12- دراسة البدائل المختلفة لتمويل إدارة النفايات البلدية الصلبة، بما يحقق الاستدامة المالية.",
+    "target_en": "12. Examining various alternatives to fund municipal solid waste management in a manner that ensures financial sustainability.",
+    "source_ar_norm": "12- دراسة البدائل المختلفة لتمويل ادارة النفايات البلدية الصلبة، بما يحقق الاستدامة المالية.",
+    "target_en_norm": "12. examining various alternatives to fund municipal solid waste management in a manner that ensures financial sustainability.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24936,
+    "source_ar": "13- تحديد العمر الافتراضي للمدافن الصحية، وطريقة صيانتها، وإغلاقها، والاستخدام المستقبلي لأرض ومنشآت المدفن.",
+    "target_en": "13. Determining the useful life of sanitary landfills, methods of their maintenance and closure, and the future utilization of the landfill and facilities thereof.",
+    "source_ar_norm": "13- تحديد العمر الافتراضي للمدافن الصحية، وطريقة صيانتها، واغلاقها، والاستخدام المستقبلي لارض ومنشات المدفن.",
+    "target_en_norm": "13. determining the useful life of sanitary landfills, methods of their maintenance and closure, and the future utilization of the landfill and facilities thereof.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24937,
+    "source_ar": "14- وضع الضوابط والاشتراطات اللازمة بالتنسيق مع الجهات ذات العلاقة؛ لتصدير النفايات البلدية الصلبة.",
+    "target_en": "14. Setting rules and requirements in coordination with relevant authorities for the export of municipal solid waste.",
+    "source_ar_norm": "14- وضع الضوابط والاشتراطات اللازمة بالتنسيق مع الجهات ذات العلاقة؛ لتصدير النفايات البلدية الصلبة.",
+    "target_en_norm": "14. setting rules and requirements in coordination with relevant authorities for the export of municipal solid waste.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24938,
+    "source_ar": "15- وضع خطة مع الجهات المختصة لتخفيض المبعثرات.",
+    "target_en": "15. Developing a litter reduction plan in coordination with competent bodies.",
+    "source_ar_norm": "15- وضع خطة مع الجهات المختصة لتخفيض المبعثرات.",
+    "target_en_norm": "15. developing a litter reduction plan in coordination with competent bodies.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24939,
+    "source_ar": "16- تحديد المواقع المخصصة لحاويات النفايات، مع وضع آلية لفرز النفايات المراد تدويرها والتي لا يمكن استعادتها.",
+    "target_en": "16. Designating locations for waste containers and developing a mechanism for separating recyclable waste from other types of waste.",
+    "source_ar_norm": "16- تحديد المواقع المخصصة لحاويات النفايات، مع وضع الية لفرز النفايات المراد تدويرها والتي لا يمكن استعادتها.",
+    "target_en_norm": "16. designating locations for waste containers and developing a mechanism for separating recyclable waste from other types of waste.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24940,
+    "source_ar": "17- تشجيع القطاع الخاص على مزاولة نشاط إدارة النفايات البلدية الصلبة.",
+    "target_en": "17. Encouraging the private sector to engage in municipal solid waste management.",
+    "source_ar_norm": "17- تشجيع القطاع الخاص علي مزاولة نشاط ادارة النفايات البلدية الصلبة.",
+    "target_en_norm": "17. encouraging the private sector to engage in municipal solid waste management.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24941,
+    "source_ar": "18- الترخيص للقطاع الخاص بمزاولة أي نشاط ضمن عمليات إدارة النفايات البلدية الصلبة، وتحدد اللائحة شروط الترخيص وضوابطه.",
+    "target_en": "18. Licensing the private sector to engage in municipal solid waste management; the Regulations shall set the licensing terms and requirements.",
+    "source_ar_norm": "18- الترخيص للقطاع الخاص بمزاولة اي نشاط ضمن عمليات ادارة النفايات البلدية الصلبة، وتحدد اللائحة شروط الترخيص وضوابطه.",
+    "target_en_norm": "18. licensing the private sector to engage in municipal solid waste management; the regulations shall set the licensing terms and requirements.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24942,
+    "source_ar": "المادة الخامسة :",
+    "target_en": "Article 5:",
+    "source_ar_norm": "المادة الخامسة :",
+    "target_en_norm": "article 5:",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24943,
+    "source_ar": "مسؤوليات منتج النفايات البلدية الصلبة :",
+    "target_en": "Responsibilities of Solid Municipal Waste Producers:",
+    "source_ar_norm": "مسؤوليات منتج النفايات البلدية الصلبة :",
+    "target_en_norm": "responsibilities of solid municipal waste producers:",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24944,
+    "source_ar": "على منتج النفايات البلدية الصلبة الالتزام بتعليمات الوزارة والأجهزة المختصة المتعلقة بتنظيم عمليات إدارة النفايات البلدية الصلبة، وعلى وجه خاص الالتزام بما يلي :",
+    "target_en": "Producers of municipal solid waste shall comply with the instructions of the Ministry and competent bodies which regulate municipal solid waste management processes, in particular the following:",
+    "source_ar_norm": "علي منتج النفايات البلدية الصلبة الالتزام بتعليمات الوزارة والاجهزة المختصة المتعلقة بتنظيم عمليات ادارة النفايات البلدية الصلبة، وعلي وجه خاص الالتزام بما يلي :",
+    "target_en_norm": "producers of municipal solid waste shall comply with the instructions of the ministry and competent bodies which regulate municipal solid waste management processes, in particular the following:",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24945,
+    "source_ar": "1- بذل العناية المعتادة لخفض النفايات المنتجة إلى أدنى حدٍّ ممكن.",
+    "target_en": "1. Exercising due diligence to minimize produced waste.",
+    "source_ar_norm": "1- بذل العناية المعتادة لخفض النفايات المنتجة الي ادني حد ممكن.",
+    "target_en_norm": "1. exercising due diligence to minimize produced waste.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24946,
+    "source_ar": "2- بذل العناية المعتادة لإعادة استخدام وتدوير النفايات المنتجة إلى أعلى حد ممكن.",
+    "target_en": "2. Exercising due diligence to maximize the reuse and recycling of produced waste.",
+    "source_ar_norm": "2- بذل العناية المعتادة لاعادة استخدام وتدوير النفايات المنتجة الي اعلي حد ممكن.",
+    "target_en_norm": "2. exercising due diligence to maximize the reuse and recycling of produced waste.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24947,
+    "source_ar": "3- وضع النفايات البلدية الصلبة داخل الحاويات المخصصة دون التسبب في أذى الغير، والالتزام بالضوابط الصادرة في هذا الشأن.",
+    "target_en": "3. Disposing of municipal solid waste in designated containers without causing harm to others, and complying with the relevant rules.",
+    "source_ar_norm": "3- وضع النفايات البلدية الصلبة داخل الحاويات المخصصة دون التسبب في اذي الغير، والالتزام بالضوابط الصادرة في هذا الشان.",
+    "target_en_norm": "3. disposing of municipal solid waste in designated containers without causing harm to others, and complying with the relevant rules.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24948,
+    "source_ar": "4- الالتزام بضوابط استخدام حاويات النفايات البلدية الصادرة في هذا الشأن.",
+    "target_en": "4. Complying with rules governing the use of municipal waste containers.",
+    "source_ar_norm": "4- الالتزام بضوابط استخدام حاويات النفايات البلدية الصادرة في هذا الشان.",
+    "target_en_norm": "4. complying with rules governing the use of municipal waste containers.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24949,
+    "source_ar": "5- عدم تكديس النفايات البلدية الصلبة، أو تجميعها، أو تخزينها، أو التخلص منها.",
+    "target_en": "5. Complying with rules governing the stacking, storing, and disposing of municipal solid waste.",
+    "source_ar_norm": "5- عدم تكديس النفايات البلدية الصلبة، او تجميعها، او تخزينها، او التخلص منها.",
+    "target_en_norm": "5. complying with rules governing the stacking, storing, and disposing of municipal solid waste.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24950,
+    "source_ar": "6- عدم وضع نفايات الرعاية الصحية الخطرة، والنفايات الصناعية الخطرة، والحيوانات النافقة، أو بقاياها، في حاويات النفايات البلدية الصلبة.",
+    "target_en": "6. Refraining from disposing of hazardous healthcare or industrial waste or animal carcasses or remnants thereof in containers designated for municipal solid waste.",
+    "source_ar_norm": "6- عدم وضع نفايات الرعاية الصحية الخطرة، والنفايات الصناعية الخطرة، والحيوانات النافقة، او بقاياها، في حاويات النفايات البلدية الصلبة.",
+    "target_en_norm": "6. refraining from disposing of hazardous healthcare or industrial waste or animal carcasses or remnants thereof in containers designated for municipal solid waste.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24951,
+    "source_ar": "7- وضع النفايات ذات الحجم الكبير في الأماكن التي تحددها الأجهزة المختصة.",
+    "target_en": "7. Disposing of large-sized waste in sites designated by the competent bodies.",
+    "source_ar_norm": "7- وضع النفايات ذات الحجم الكبير في الاماكن التي تحددها الاجهزة المختصة.",
+    "target_en_norm": "7. disposing of large-sized waste in sites designated by the competent bodies.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24952,
+    "source_ar": "8- وضع النفايات الخضراء في أكياس بلاستيك مانعة لتسرب السوائل، وربطها جيداً، ونقلها إلى الأماكن التي تحددها الأجهزة المختصة.",
+    "target_en": "8. Depositing green waste in properly sealed watertight plastic bags and transporting them to sites designated by the competent bodies.",
+    "source_ar_norm": "8- وضع النفايات الخضراء في اكياس بلاستيك مانعة لتسرب السوائل، وربطها جيدا، ونقلها الي الاماكن التي تحددها الاجهزة المختصة.",
+    "target_en_norm": "8. depositing green waste in properly sealed watertight plastic bags and transporting them to sites designated by the competent bodies.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24953,
+    "source_ar": "9- وضع النفايات المراد تدويرها - بعد فصلها وفرزها - في الحاويات المعدة لذلك، ووضع النفايات التي لا يمكن استعادتها في الحاويات الأخرى.",
+    "target_en": "9. Depositing waste set for recycling in the designated containers after separation and sorting, and depositing non-recoverable waste in other containers.",
+    "source_ar_norm": "9- وضع النفايات المراد تدويرها - بعد فصلها وفرزها - في الحاويات المعدة لذلك، ووضع النفايات التي لا يمكن استعادتها في الحاويات الاخري.",
+    "target_en_norm": "9. depositing waste set for recycling in the designated containers after separation and sorting, and depositing non-recoverable waste in other containers.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24954,
+    "source_ar": "10- المحافظة على نظافة المنطقة المحيطة بمسكنه، أو المنشأة، أو المبنى الذي يملكه، أو يستأجره، أو يستخدمه، أو يقوم بإدارته وتشغيله.",
+    "target_en": "10. Maintaining the cleanliness of the area surrounding their place of residence or place of business, as well as any building they own, rent, use, manage, or operate.",
+    "source_ar_norm": "10- المحافظة علي نظافة المنطقة المحيطة بمسكنه، او المنشاة، او المبني الذي يملكه، او يستاجره، او يستخدمه، او يقوم بادارته وتشغيله.",
+    "target_en_norm": "10. maintaining the cleanliness of the area surrounding their place of residence or place of business, as well as any building they own, rent, use, manage, or operate.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24955,
+    "source_ar": "11- عدم إلقاء النفايات البلدية الصلبة في مجاري السيول والأودية، أو الآبار الجوفية، أو على الشواطئ، أو في شبكات الصرف الصحي، أو شبكات تصريف مياه الأمطار.",
+    "target_en": "11. Refraining from disposing of municipal solid waste in valleys or paths of flash flood, wells, beaches, sewers, or rainwater drainage networks.",
+    "source_ar_norm": "11- عدم القاء النفايات البلدية الصلبة في مجاري السيول والاودية، او الابار الجوفية، او علي الشواطئ، او في شبكات الصرف الصحي، او شبكات تصريف مياه الامطار.",
+    "target_en_norm": "11. refraining from disposing of municipal solid waste in valleys or paths of flash flood, wells, beaches, sewers, or rainwater drainage networks.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24956,
+    "source_ar": "المادة السادسة :",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة :",
+    "target_en_norm": "article 6",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24957,
+    "source_ar": "يحظر على أي شخص ذي صفة طبيعية أو اعتبارية أن يستخدم أو يسمح لغيره بأن يستخدم أرضاً، أو مبنى، أو منشأة يملكها أو يتصرف فيها كموقع للتخلص من النفايات البلدية الصلبة؛ قبل القيام بإجراء دراسات التقويم البيئي، والحصول على موافقة الوزارة أو الأجهزة المختصة.",
+    "target_en": "A natural or legal person may not use or allow the use of a land, building, or facility owned or controlled thereby for the disposal of municipal solid waste except after conducting environmental assessment studies and obtaining the approval of the Ministry or the competent bodies.",
+    "source_ar_norm": "يحظر علي اي شخص ذي صفة طبيعية او اعتبارية ان يستخدم او يسمح لغيره بان يستخدم ارضا، او مبني، او منشاة يملكها او يتصرف فيها كموقع للتخلص من النفايات البلدية الصلبة؛ قبل القيام باجراء دراسات التقويم البيئي، والحصول علي موافقة الوزارة او الاجهزة المختصة.",
+    "target_en_norm": "a natural or legal person may not use or allow the use of a land, building, or facility owned or controlled thereby for the disposal of municipal solid waste except after conducting environmental assessment studies and obtaining the approval of the ministry or the competent bodies.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24958,
+    "source_ar": "المادة السابعة :",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة :",
+    "target_en_norm": "article 7",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24959,
+    "source_ar": "يلتزم منتجو نفايات البناء والهدم بتخصيص الحاويات اللازمة لهذا النوع من النفايات ونقلها إلى المواقع المخصصة لها، أو التعاقد مع المقاولين المؤهلين لنقلها.",
+    "target_en": "Producers of construction and demolition waste shall place such waste in designated containers and transport them to designated sites or hire qualified contractors for this purpose.",
+    "source_ar_norm": "يلتزم منتجو نفايات البناء والهدم بتخصيص الحاويات اللازمة لهذا النوع من النفايات ونقلها الي المواقع المخصصة لها، او التعاقد مع المقاولين المؤهلين لنقلها.",
+    "target_en_norm": "producers of construction and demolition waste shall place such waste in designated containers and transport them to designated sites or hire qualified contractors for this purpose.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24960,
+    "source_ar": "الفصل الثالث",
+    "target_en": "Chapter Three",
+    "source_ar_norm": "الفصل الثالث",
+    "target_en_norm": "chapter three",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24961,
+    "source_ar": "ملكية النفايات",
+    "target_en": "Ownership of Waste",
+    "source_ar_norm": "ملكية النفايات",
+    "target_en_norm": "ownership of waste",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24962,
+    "source_ar": "المادة الثامنة :",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة :",
+    "target_en_norm": "article 8",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24963,
+    "source_ar": "تنتقل ملكية النفايات البلدية الصلبة إلى الوزارة والأجهزة المختصة ؛ حال وضعها في الحاويات المخصصة لها، أو بقربها، أو في موقع يعد عرفاً أنه محل للنفايات، أو عند التخلي عنها.",
+    "target_en": "Municipal solid waste abandoned or deposited in or near designated containers or in a site known to be a landfill shall be deemed the property of the Ministry and competent bodies.",
+    "source_ar_norm": "تنتقل ملكية النفايات البلدية الصلبة الي الوزارة والاجهزة المختصة ؛ حال وضعها في الحاويات المخصصة لها، او بقربها، او في موقع يعد عرفا انه محل للنفايات، او عند التخلي عنها.",
+    "target_en_norm": "municipal solid waste abandoned or deposited in or near designated containers or in a site known to be a landfill shall be deemed the property of the ministry and competent bodies.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24964,
+    "source_ar": "المادة التاسعة :",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة :",
+    "target_en_norm": "article 9",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24965,
+    "source_ar": "يحظر على أي شخص ذي صفة طبيعية أو اعتبارية جمع النفايات البلدية الصلبة، أو نقلها، أو تخزينها، أو حرقها، أو وضع اليد عليها، أو تداولها، أو معالجتها وإعادة تدويرها والاستفادة منها، ويستثنى من ذلك المرخص لهم نظاماً.",
+    "target_en": "An unlicensed natural or legal person may not collect, transport, store, incinerate, acquire, handle, process, recycle, or utilize municipal solid waste.",
+    "source_ar_norm": "يحظر علي اي شخص ذي صفة طبيعية او اعتبارية جمع النفايات البلدية الصلبة، او نقلها، او تخزينها، او حرقها، او وضع اليد عليها، او تداولها، او معالجتها واعادة تدويرها والاستفادة منها، ويستثني من ذلك المرخص لهم نظاما.",
+    "target_en_norm": "an unlicensed natural or legal person may not collect, transport, store, incinerate, acquire, handle, process, recycle, or utilize municipal solid waste.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24966,
+    "source_ar": "الفصل الرابع",
+    "target_en": "Chapter Four",
+    "source_ar_norm": "الفصل الرابع",
+    "target_en_norm": "chapter four",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24967,
+    "source_ar": "قواعد وإجراءات مزاولة نشاط إدارة النفايات البلدية الصلبة",
+    "target_en": "Rules and Procedures for Practicing Municipal Solid Waste Management",
+    "source_ar_norm": "قواعد واجراءات مزاولة نشاط ادارة النفايات البلدية الصلبة",
+    "target_en_norm": "rules and procedures for practicing municipal solid waste management",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24968,
+    "source_ar": "المادة العاشرة :",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة :",
+    "target_en_norm": "article 10",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24969,
+    "source_ar": "تقوم الوزارة والأجهزة المختصة بالتعاقد مع المقاولين المرخص لهم نظاماً بمزاولة نشاط إدارة النفايات البلدية الصلبة، وتحدد اللائحة الشروط والضوابط والمعايير اللازمة لذلك وفقاً لهذا النظام والأنظمة الأخرى .",
+    "target_en": "The Ministry and competent bodies shall hire contractors licensed to engage in municipal solid waste management, subject to conditions, rules, and standards set by the Regulations in accordance with this Law and other laws.",
+    "source_ar_norm": "تقوم الوزارة والاجهزة المختصة بالتعاقد مع المقاولين المرخص لهم نظاما بمزاولة نشاط ادارة النفايات البلدية الصلبة، وتحدد اللائحة الشروط والضوابط والمعايير اللازمة لذلك وفقا لهذا النظام والانظمة الاخري .",
+    "target_en_norm": "the ministry and competent bodies shall hire contractors licensed to engage in municipal solid waste management, subject to conditions, rules, and standards set by the regulations in accordance with this law and other laws.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24970,
+    "source_ar": "المادة الحادية عشرة :",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة :",
+    "target_en_norm": "article 11",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24971,
+    "source_ar": "الوزارة هي الجهة المختصة بالتعاقد مع المقاول أو المقاولين للعمل على المستوى الوطني، أو في حالة التعاقد الذي يغطي أكثر من منطقة، وتكون الأجهزة المختصة هي جهات الاختصاص بالتعاقد مع المقاولين في نطاق حدود المنطقة الإدارية، وتحدد اللائحة الشروط والضوابط والمعايير اللازمة لذلك وفقاً لهذا النظام والأنظمة الأخرى.",
+    "target_en": "The Ministry shall be the authority in charge of hiring contractors at the national level or the level of multiple administrative provinces, while hiring contractors for a single administrative province shall be entrusted with the competent bodies, subject to conditions, rules, and standards set by the Regulations in accordance with this Law and other laws.",
+    "source_ar_norm": "الوزارة هي الجهة المختصة بالتعاقد مع المقاول او المقاولين للعمل علي المستوي الوطني، او في حالة التعاقد الذي يغطي اكثر من منطقة، وتكون الاجهزة المختصة هي جهات الاختصاص بالتعاقد مع المقاولين في نطاق حدود المنطقة الادارية، وتحدد اللائحة الشروط والضوابط والمعايير اللازمة لذلك وفقا لهذا النظام والانظمة الاخري.",
+    "target_en_norm": "the ministry shall be the authority in charge of hiring contractors at the national level or the level of multiple administrative provinces, while hiring contractors for a single administrative province shall be entrusted with the competent bodies, subject to conditions, rules, and standards set by the regulations in accordance with this law and other laws.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24972,
+    "source_ar": "المادة الثانية عشرة :",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة :",
+    "target_en_norm": "article 12",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24973,
+    "source_ar": "يجوز للوزارة والأجهزة المختصة - وفقاً لما تقضي به المصلحة العامة والأنظمة المتبعة والدراسات والمعايير الاقتصادية - تجزئة مشروعات إدارة النفايات البلدية الصلبة، إما من حيث المكان أو من حيث نوع العمل، ويجوز لها كذلك أن تتعاقد مع أكثر من مقاول لتنفيذ هذه المشروعات، ولا يمنع ذلك من التعاقد مع مقاول واحد لممارسة جميع هذه المشروعات في المناطق النائية، أو تلك التي لا تستدعي كمية النفايات المنتجة فيها التعاقد مع أكثر من مقاول.",
+    "target_en": "The Ministry and the competent bodies may, as dictated by public interest, applicable laws, and economic factors, divide municipal solid waste management projects based on location and nature of work, and may also hire multiple contractors for such projects. This shall not preclude the Ministry and the competent bodies from hiring a single contractor to carry out all projects in remote areas or areas where the amount of produced waste does not require more than one contractor.",
+    "source_ar_norm": "يجوز للوزارة والاجهزة المختصة - وفقا لما تقضي به المصلحة العامة والانظمة المتبعة والدراسات والمعايير الاقتصادية - تجزئة مشروعات ادارة النفايات البلدية الصلبة، اما من حيث المكان او من حيث نوع العمل، ويجوز لها كذلك ان تتعاقد مع اكثر من مقاول لتنفيذ هذه المشروعات، ولا يمنع ذلك من التعاقد مع مقاول واحد لممارسة جميع هذه المشروعات في المناطق النائية، او تلك التي لا تستدعي كمية النفايات المنتجة فيها التعاقد مع اكثر من مقاول.",
+    "target_en_norm": "the ministry and the competent bodies may, as dictated by public interest, applicable laws, and economic factors, divide municipal solid waste management projects based on location and nature of work, and may also hire multiple contractors for such projects. this shall not preclude the ministry and the competent bodies from hiring a single contractor to carry out all projects in remote areas or areas where the amount of produced waste does not require more than one contractor.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24974,
+    "source_ar": "المادة الثالثة عشرة :",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة :",
+    "target_en_norm": "article 13",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24975,
+    "source_ar": "تخصص الوزارة - بالتنسيق مع الأجهزة المختصة والجهات ذات العلاقة - مواقع الأراضي المناسبة لإقامة المدافن الصحية، وفقاً للأنظمة المعمول بها، والضوابط العلمية والفنية الخاصة بإنشاء المدافن الصحية، التي تحددها اللائحة.",
+    "target_en": "The Ministry shall, in coordination with the relevant bodies, designate lands to be used as sanitary landfills in accordance with applicable laws and technical rules set forth in the Regulations.",
+    "source_ar_norm": "تخصص الوزارة - بالتنسيق مع الاجهزة المختصة والجهات ذات العلاقة - مواقع الاراضي المناسبة لاقامة المدافن الصحية، وفقا للانظمة المعمول بها، والضوابط العلمية والفنية الخاصة بانشاء المدافن الصحية، التي تحددها اللائحة.",
+    "target_en_norm": "the ministry shall, in coordination with the relevant bodies, designate lands to be used as sanitary landfills in accordance with applicable laws and technical rules set forth in the regulations.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24976,
+    "source_ar": "المادة الرابعة عشرة :",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة :",
+    "target_en_norm": "article 14",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24977,
+    "source_ar": "يجوز للوزارة وللأجهزة المختصة التعاقد مع مكاتب استشارية متخصصة؛ للرقابة والإشراف على أعمال إدارة النفايات البلدية الصلبة، التي يكلف بها المقاولون المرخص لهم نظاماً، وتحدد اللائحة الضوابط والمعايير اللازمة لذلك وفقاً لهذا النظام والأنظمة الأخرى.",
+    "target_en": "The Ministry and competent bodies may hire specialized consultancy firms to monitor and oversee municipal solid waste management projects, subject to conditions, rules, and standards set by the Regulations in accordance with this Law and other laws.",
+    "source_ar_norm": "يجوز للوزارة وللاجهزة المختصة التعاقد مع مكاتب استشارية متخصصة؛ للرقابة والاشراف علي اعمال ادارة النفايات البلدية الصلبة، التي يكلف بها المقاولون المرخص لهم نظاما، وتحدد اللائحة الضوابط والمعايير اللازمة لذلك وفقا لهذا النظام والانظمة الاخري.",
+    "target_en_norm": "the ministry and competent bodies may hire specialized consultancy firms to monitor and oversee municipal solid waste management projects, subject to conditions, rules, and standards set by the regulations in accordance with this law and other laws.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24978,
+    "source_ar": "المادة الخامسة عشرة :",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة :",
+    "target_en_norm": "article 15",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24979,
+    "source_ar": "يجوز - بحسب الأحوال - للأجهزة المختصة ربط فسوح الترميم، أو الهدم، أو الصيانة، أو التسوية، أو تجديدها بعقود يبرمها طالب الفسح مع مقاول؛ لنقل ما ينتج من نفايات إلى الأماكن المخصصة لذلك.",
+    "target_en": "The competent bodies may, as applicable, require applicants for the issuance or renewal of restoration, demolition, maintenance, or leveling permits to hire a contractor to transport resulting waste to designated sites.",
+    "source_ar_norm": "يجوز - بحسب الاحوال - للاجهزة المختصة ربط فسوح الترميم، او الهدم، او الصيانة، او التسوية، او تجديدها بعقود يبرمها طالب الفسح مع مقاول؛ لنقل ما ينتج من نفايات الي الاماكن المخصصة لذلك.",
+    "target_en_norm": "the competent bodies may, as applicable, require applicants for the issuance or renewal of restoration, demolition, maintenance, or leveling permits to hire a contractor to transport resulting waste to designated sites.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24980,
+    "source_ar": "المادة السادسة عشرة :",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة :",
+    "target_en_norm": "article 16",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24981,
+    "source_ar": "تلتزم منشآت الفرز والمعالجة وإعادة التدوير - المرخص لها نظاماً - بالشروط والضوابط التي تحددها اللائحة.",
+    "target_en": "Licensed sorting, processing, and recycling facilities shall comply with rules and conditions stipulated in the Regulations.",
+    "source_ar_norm": "تلتزم منشات الفرز والمعالجة واعادة التدوير - المرخص لها نظاما - بالشروط والضوابط التي تحددها اللائحة.",
+    "target_en_norm": "licensed sorting, processing, and recycling facilities shall comply with rules and conditions stipulated in the regulations.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24982,
+    "source_ar": "الفصل الخامس",
+    "target_en": "Chapter Five",
+    "source_ar_norm": "الفصل الخامس",
+    "target_en_norm": "chapter five",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24983,
+    "source_ar": "المخالفات والعقوبات",
+    "target_en": "Violations and Penalties",
+    "source_ar_norm": "المخالفات والعقوبات",
+    "target_en_norm": "violations and penalties",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24984,
+    "source_ar": "المادة السابعة عشرة :",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة :",
+    "target_en_norm": "article 17",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24985,
+    "source_ar": "مع عدم الإخلال بأي عقوبة أخرى أشد ينص عليها في نظام آخر ؛ يعاقب بغرامة لا تزيد على (10000) عشرة آلاف ريال مع إلزامه بدفع مصاريف إعادتها إلى وضعها السابق، كل من ارتكب أحد الأفعال الآتية :",
+    "target_en": "Without prejudice to any harsher penalty provided for in any other law, any person committing any of the following acts shall be subject to a fine not exceeding 10,000 riyals in addition to the cost of rectification:",
+    "source_ar_norm": "مع عدم الاخلال باي عقوبة اخري اشد ينص عليها في نظام اخر ؛ يعاقب بغرامة لا تزيد علي (10000) عشرة الاف ريال مع الزامه بدفع مصاريف اعادتها الي وضعها السابق، كل من ارتكب احد الافعال الاتية :",
+    "target_en_norm": "without prejudice to any harsher penalty provided for in any other law, any person committing any of the following acts shall be subject to a fine not exceeding 10,000 riyals in addition to the cost of rectification:",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24986,
+    "source_ar": "1- وضع النفايات البلدية الصلبة خارج الحاويات المخصصة لها.",
+    "target_en": "1. Depositing municipal solid waste out of the designated containers.",
+    "source_ar_norm": "1- وضع النفايات البلدية الصلبة خارج الحاويات المخصصة لها.",
+    "target_en_norm": "1. depositing municipal solid waste out of the designated containers.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24987,
+    "source_ar": "2- تكديس النفايات البلدية الصلبة، أو تجميعها، أو تخزينها مما يسبب الإضرار بالصحة العامة أو البيئة.",
+    "target_en": "2. Stacking or storing municipal solid waste in a manner hazardous to public health or the environment.",
+    "source_ar_norm": "2- تكديس النفايات البلدية الصلبة، او تجميعها، او تخزينها مما يسبب الاضرار بالصحة العامة او البيئة.",
+    "target_en_norm": "2. stacking or storing municipal solid waste in a manner hazardous to public health or the environment.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24988,
+    "source_ar": "3- تغيير الأماكن المحددة لحاويات النفايات البلدية الصلبة، أو إتلافها.",
+    "target_en": "3. Changing the location designated for containers of municipal solid waste or damaging such containers.",
+    "source_ar_norm": "3- تغيير الاماكن المحددة لحاويات النفايات البلدية الصلبة، او اتلافها.",
+    "target_en_norm": "3. changing the location designated for containers of municipal solid waste or damaging such containers.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24989,
+    "source_ar": "4- استخدام أرض أو مبنى منشأة موقعاً للتخلص من النفايات البلدية الصلبة قبل الحصول على موافقة الوزارة.",
+    "target_en": "4. Using a land or building as a site for the disposal of municipal solid waste without obtaining the Ministry’s approval.",
+    "source_ar_norm": "4- استخدام ارض او مبني منشاة موقعا للتخلص من النفايات البلدية الصلبة قبل الحصول علي موافقة الوزارة.",
+    "target_en_norm": "4. using a land or building as a site for the disposal of municipal solid waste without obtaining the ministry’s approval.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24990,
+    "source_ar": "5- التخلص من النفايات البلدية الصلبة في الأماكن والشوارع والحدائق العامة، أو أملاك الغير.",
+    "target_en": "5. Disposing of municipal solid waste in public areas, streets, or parks, or in private properties.",
+    "source_ar_norm": "5- التخلص من النفايات البلدية الصلبة في الاماكن والشوارع والحدائق العامة، او املاك الغير.",
+    "target_en_norm": "5. disposing of municipal solid waste in public areas, streets, or parks, or in private properties.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24991,
+    "source_ar": "6- نبش حاويات النفايات البلدية الصلبة، وبعثرة محتوياتها.",
+    "target_en": "6. Scavenging and scattering the contents of municipal solid waste containers.",
+    "source_ar_norm": "6- نبش حاويات النفايات البلدية الصلبة، وبعثرة محتوياتها.",
+    "target_en_norm": "6. scavenging and scattering the contents of municipal solid waste containers.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24992,
+    "source_ar": "المادة الثامنة عشرة :",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة :",
+    "target_en_norm": "article 18",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24993,
+    "source_ar": "مع عدم الإخلال بأي عقوبة أخرى أشد ينص عليها في نظام آخر ؛ يعاقب بغرامة لا تزيد على (20000) عشرين ألف ريال مع إلزامه بدفع مصاريف إعادتها إلى وضعها السابق، كل من ارتكب أحد الأفعال الآتية :",
+    "target_en": "Without prejudice to any harsher penalty provided for in any other law, any person committing any of the following acts shall be subject to a fine not exceeding 20,000 riyals in addition to the cost of rectification:",
+    "source_ar_norm": "مع عدم الاخلال باي عقوبة اخري اشد ينص عليها في نظام اخر ؛ يعاقب بغرامة لا تزيد علي (20000) عشرين الف ريال مع الزامه بدفع مصاريف اعادتها الي وضعها السابق، كل من ارتكب احد الافعال الاتية :",
+    "target_en_norm": "without prejudice to any harsher penalty provided for in any other law, any person committing any of the following acts shall be subject to a fine not exceeding 20,000 riyals in addition to the cost of rectification:",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24994,
+    "source_ar": "1- عرقلة إجراءات تحديد أماكن تجميع النفايات البلدية الصلبة، أو منع الآخرين من استخدامها.",
+    "target_en": "1. Preventing others from locating or using municipal solid waste collection sites.",
+    "source_ar_norm": "1- عرقلة اجراءات تحديد اماكن تجميع النفايات البلدية الصلبة، او منع الاخرين من استخدامها.",
+    "target_en_norm": "1. preventing others from locating or using municipal solid waste collection sites.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24995,
+    "source_ar": "2- إيجاد أماكن لتجميع النفايات البلدية الصلبة؛ بغرض الاستغلال التجاري دون ترخيص نظامي.",
+    "target_en": "2. Establishing municipal solid waste collection sites for commercial purposes without a license.",
+    "source_ar_norm": "2- ايجاد اماكن لتجميع النفايات البلدية الصلبة؛ بغرض الاستغلال التجاري دون ترخيص نظامي.",
+    "target_en_norm": "2. establishing municipal solid waste collection sites for commercial purposes without a license.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24996,
+    "source_ar": "3- وضع نفايات الرعاية الصحية الخطرة والنفايات الصناعية الخطرة في حاويات النفايات البلدية الصلبة.",
+    "target_en": "3. Depositing hazardous healthcare waste and hazardous industrial waste in municipal solid waste containers.",
+    "source_ar_norm": "3- وضع نفايات الرعاية الصحية الخطرة والنفايات الصناعية الخطرة في حاويات النفايات البلدية الصلبة.",
+    "target_en_norm": "3. depositing hazardous healthcare waste and hazardous industrial waste in municipal solid waste containers.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24997,
+    "source_ar": "4- وضع النفايات البلدية الصلبة في مجاري السيول والأودية، أو الآبار، أو الشواطئ، أو في شبكات الصرف الصحي، أو شبكات تصريف مياه الأمطار.",
+    "target_en": "4. Depositing municipal solid waste in valleys or paths of flash flood, wells, beaches, sewers, or rainwater drainage networks.",
+    "source_ar_norm": "4- وضع النفايات البلدية الصلبة في مجاري السيول والاودية، او الابار، او الشواطئ، او في شبكات الصرف الصحي، او شبكات تصريف مياه الامطار.",
+    "target_en_norm": "4. depositing municipal solid waste in valleys or paths of flash flood, wells, beaches, sewers, or rainwater drainage networks.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24998,
+    "source_ar": "5- جمع النفايات البلدية الصلبة، أو نقلها، أو تخزينها، أو حرقها، أو وضع اليد عليها، أو تداولها ومعالجتها وإعادة تدويرها؛ للاستفادة منها لغير المرخص لهم نظاماً.",
+    "target_en": "5. Collecting, transporting, storing, incinerating, acquiring, handling, processing, or recycling municipal solid waste to utilize the same without a license.",
+    "source_ar_norm": "5- جمع النفايات البلدية الصلبة، او نقلها، او تخزينها، او حرقها، او وضع اليد عليها، او تداولها ومعالجتها واعادة تدويرها؛ للاستفادة منها لغير المرخص لهم نظاما.",
+    "target_en_norm": "5. collecting, transporting, storing, incinerating, acquiring, handling, processing, or recycling municipal solid waste to utilize the same without a license.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 24999,
+    "source_ar": "المادة التاسعة عشرة :",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة :",
+    "target_en_norm": "article 19",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  },
+  {
+    "id": 25000,
+    "source_ar": "1- يتولى موظفون من الأجهزة المختصة - يصدر بتعيينهم قرار من رئيس الجهاز المختص مجتمعين أو منفردين - ضبط مخالفات أحكام هذا النظام.",
+    "target_en": "1. Employees of competent bodies, designated pursuant to a decision by the relevant competent body shall, individually or collectively, record violations of the provisions of this Law.",
+    "source_ar_norm": "1- يتولي موظفون من الاجهزة المختصة - يصدر بتعيينهم قرار من رئيس الجهاز المختص مجتمعين او منفردين - ضبط مخالفات احكام هذا النظام.",
+    "target_en_norm": "1. employees of competent bodies, designated pursuant to a decision by the relevant competent body shall, individually or collectively, record violations of the provisions of this law.",
+    "file_name": "نظام إدارة النفايات البلدية الصلبة.docx"
+  }
+]

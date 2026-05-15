@@ -1,0 +1,802 @@
+[
+  {
+    "id": 21901,
+    "source_ar": "4- أن يقصر الدخول إلى قواعد البيانات أو المعلومات على المختصين والمصرح لهم بذلك.",
+    "target_en": "4. Access to databases shall be limited to designated and authorized persons.",
+    "source_ar_norm": "4- ان يقصر الدخول الي قواعد البيانات او المعلومات علي المختصين والمصرح لهم بذلك.",
+    "target_en_norm": "4. access to databases shall be limited to designated and authorized persons.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21902,
+    "source_ar": "5- أن تتضمن البرامج والأنظمة المعلوماتية إمكانات رقابية على كل من يستخدم قاعدة البيانات أو المعلومات، كتحديد اسم المستخدم وتاريخ دخوله وما تم الدخول إليه وما استنسخه من بيانات أو معلومات أو وثائق.",
+    "target_en": "5. Programs and information systems shall be equipped with capabilities to monitor all the users of a database by identifying the user’s name and date of access as well as the data accessed and the data, information, or documents copied thereby.",
+    "source_ar_norm": "5- ان تتضمن البرامج والانظمة المعلوماتية امكانات رقابية علي كل من يستخدم قاعدة البيانات او المعلومات، كتحديد اسم المستخدم وتاريخ دخوله وما تم الدخول اليه وما استنسخه من بيانات او معلومات او وثائق.",
+    "target_en_norm": "5. programs and information systems shall be equipped with capabilities to monitor all the users of a database by identifying the user’s name and date of access as well as the data accessed and the data, information, or documents copied thereby.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21903,
+    "source_ar": "6- أن يُعطى كل مستخدم مصرح له بالدخول إلى الأنظمة المعلوماتية رقماً تعريفياً، وأن تحدد صلاحياته في الدخول والاستنساخ.",
+    "target_en": "6. Every user authorized to access information systems shall be assigned an identification number and his level of access and authority to obtain copies shall be determined.",
+    "source_ar_norm": "6- ان يعطي كل مستخدم مصرح له بالدخول الي الانظمة المعلوماتية رقما تعريفيا، وان تحدد صلاحياته في الدخول والاستنساخ.",
+    "target_en_norm": "6. every user authorized to access information systems shall be assigned an identification number and his level of access and authority to obtain copies shall be determined.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21904,
+    "source_ar": "7- أن تتخذ الترتيبات اللازمة لحذف وإزالة أي معلومة حفظت في الطرفيات التي يُدخل من خلالها إلى قواعد البيانات، حينما تنقل للصيانة أو يستغنى عن أي من هذه الطرفيات.",
+    "target_en": "7. Necessary arrangements shall be made to delete and remove any information saved in the terminals through which access to the databases is made, prior to the maintenance of such terminals or the disposal thereof.",
+    "source_ar_norm": "7- ان تتخذ الترتيبات اللازمة لحذف وازالة اي معلومة حفظت في الطرفيات التي يدخل من خلالها الي قواعد البيانات، حينما تنقل للصيانة او يستغني عن اي من هذه الطرفيات.",
+    "target_en_norm": "7. necessary arrangements shall be made to delete and remove any information saved in the terminals through which access to the databases is made, prior to the maintenance of such terminals or the disposal thereof.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21905,
+    "source_ar": "ثالث وعشرون: حماية الوثائق المرسلة بوساطة الوسائل التقنية والإلكترونية",
+    "target_en": "Twenty-Third: Protection of Documents Sent by Technological and Electronic Means",
+    "source_ar_norm": "ثالث وعشرون: حماية الوثائق المرسلة بوساطة الوسائل التقنية والالكترونية",
+    "target_en_norm": "twenty-third: protection of documents sent by technological and electronic means",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21906,
+    "source_ar": "أ- البرقيات",
+    "target_en": "A. Telegrams",
+    "source_ar_norm": "ا- البرقيات",
+    "target_en_norm": "a. telegrams",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21907,
+    "source_ar": "المادة الرابعة والستون:",
+    "target_en": "Article 64",
+    "source_ar_norm": "المادة الرابعة والستون:",
+    "target_en_norm": "article 64",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21908,
+    "source_ar": "يراعى عند إرسال البرقية الرسمية المحافظة على سرية معلوماتها بما يتناسب مع مستوى تصنيفها وفقاً للأحكام المنظمة لتصنيف البيانات، وأن يكون وفقاً للضوابط الآتية:",
+    "target_en": "Any person shall, upon sending an official telegram, maintain the confidentiality of its information, in line with its confidentiality classification as stipulated in the provisions governing data classification, and shall observe the following controls:",
+    "source_ar_norm": "يراعي عند ارسال البرقية الرسمية المحافظة علي سرية معلوماتها بما يتناسب مع مستوي تصنيفها وفقا للاحكام المنظمة لتصنيف البيانات، وان يكون وفقا للضوابط الاتية:",
+    "target_en_norm": "any person shall, upon sending an official telegram, maintain the confidentiality of its information, in line with its confidentiality classification as stipulated in the provisions governing data classification, and shall observe the following controls:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21909,
+    "source_ar": "1- تسلم البرقية إلى الجهة التي تتولى نقلها داخل ظرف مغلق ومختوم، وبموجب بيان تسليم يوضح فيه: رقم البرقية وتاريخها، ووقت التسلم وتاريخه، واسم المتسلم وتوقيعه.",
+    "target_en": "1. The telegram shall be delivered to the entity in charge of its transmission in a sealed and stamped envelope, pursuant to a delivery statement indicating the number and date of the telegram, the time and date of receipt, and the name and signature of the recipient.",
+    "source_ar_norm": "1- تسلم البرقية الي الجهة التي تتولي نقلها داخل ظرف مغلق ومختوم، وبموجب بيان تسليم يوضح فيه: رقم البرقية وتاريخها، ووقت التسلم وتاريخه، واسم المتسلم وتوقيعه.",
+    "target_en_norm": "1. the telegram shall be delivered to the entity in charge of its transmission in a sealed and stamped envelope, pursuant to a delivery statement indicating the number and date of the telegram, the time and date of receipt, and the name and signature of the recipient.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21910,
+    "source_ar": "2- تقوم الجهة التي تستقبل البرقية بوضعها داخل ظرف مغلق ومختوم وتسلمها إلى الجهة المرسل إليها بموجب بيان تسليم يوضح فيه رقم البرقية وتاريخها ووقت التسليم وتاريخه.",
+    "target_en": "2. The entity receiving the telegram shall place said telegram in a sealed and stamped envelope and shall deliver it to the addressee pursuant to a delivery statement indicating the number and date of the telegram and the time and date of delivery.",
+    "source_ar_norm": "2- تقوم الجهة التي تستقبل البرقية بوضعها داخل ظرف مغلق ومختوم وتسلمها الي الجهة المرسل اليها بموجب بيان تسليم يوضح فيه رقم البرقية وتاريخها ووقت التسليم وتاريخه.",
+    "target_en_norm": "2. the entity receiving the telegram shall place said telegram in a sealed and stamped envelope and shall deliver it to the addressee pursuant to a delivery statement indicating the number and date of the telegram and the time and date of delivery.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21911,
+    "source_ar": "ب- الناسوخ (الفاكس)",
+    "target_en": "B. Facsimile",
+    "source_ar_norm": "ب- الناسوخ (الفاكس)",
+    "target_en_norm": "b. facsimile",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21912,
+    "source_ar": "المادة الخامسة والستون:",
+    "target_en": "Article 65",
+    "source_ar_norm": "المادة الخامسة والستون:",
+    "target_en_norm": "article 65",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21913,
+    "source_ar": "ترسل وتستقبل الوثائق عن طريق الناسوخ وفقاً للضوابط الآتية:",
+    "target_en": "Documents shall be sent and received by facsimile in accordance with the following controls:",
+    "source_ar_norm": "ترسل وتستقبل الوثائق عن طريق الناسوخ وفقا للضوابط الاتية:",
+    "target_en_norm": "documents shall be sent and received by facsimile in accordance with the following controls:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21914,
+    "source_ar": "1- يكون الإرسال والاستقبال من خلال أجهزة محلية الصنع، وفق الضوابط الصادرة من الجهات المختصة.",
+    "target_en": "1. Transmission and reception shall be made using locally manufactured devices, in accordance with the controls issued by the competent agencies.",
+    "source_ar_norm": "1- يكون الارسال والاستقبال من خلال اجهزة محلية الصنع، وفق الضوابط الصادرة من الجهات المختصة.",
+    "target_en_norm": "1. transmission and reception shall be made using locally manufactured devices, in accordance with the controls issued by the competent agencies.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21915,
+    "source_ar": "2- تستخدم صورة من الأصل عند إرسالها عن طريق الناسوخ محافظة على الأصل من التعرض للتلف أثناء تمريره بالناسوخ، وتتلف الصورة بالفرم بعد انتهاء عملية الإرسال، وفقاً لما ورد في لائحة الإتلاف.",
+    "target_en": "2. A copy of the original shall be used when sending a facsimile to protect the original from damage if passed through the facsimile machine. Said copy shall be shredded upon completion of the transmission process in accordance with the Regulations for the Destruction of Documents.",
+    "source_ar_norm": "2- تستخدم صورة من الاصل عند ارسالها عن طريق الناسوخ محافظة علي الاصل من التعرض للتلف اثناء تمريره بالناسوخ، وتتلف الصورة بالفرم بعد انتهاء عملية الارسال، وفقا لما ورد في لائحة الاتلاف.",
+    "target_en_norm": "2. a copy of the original shall be used when sending a facsimile to protect the original from damage if passed through the facsimile machine. said copy shall be shredded upon completion of the transmission process in accordance with the regulations for the destruction of documents.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21916,
+    "source_ar": "3- تمسح المراسلات الصادرة والواردة من ذاكرة جهاز الناسوخ فور إرسالها أو استقبالها.",
+    "target_en": "3. Transmitted and received correspondence shall be deleted from the memory of the facsimile machine immediately after the transmission or reception thereof.",
+    "source_ar_norm": "3- تمسح المراسلات الصادرة والواردة من ذاكرة جهاز الناسوخ فور ارسالها او استقبالها.",
+    "target_en_norm": "3. transmitted and received correspondence shall be deleted from the memory of the facsimile machine immediately after the transmission or reception thereof.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21917,
+    "source_ar": "المادة السادسة والستون:",
+    "target_en": "Article 66",
+    "source_ar_norm": "المادة السادسة والستون:",
+    "target_en_norm": "article 66",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21918,
+    "source_ar": "تكون عملية الإرسال الآلي عن طريق الناسوخ وفقاً للإجراءات الآتية:",
+    "target_en": "The automated transmission process by facsimile shall be made in accordance with the following procedures:",
+    "source_ar_norm": "تكون عملية الارسال الالي عن طريق الناسوخ وفقا للاجراءات الاتية:",
+    "target_en_norm": "the automated transmission process by facsimile shall be made in accordance with the following procedures:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21919,
+    "source_ar": "1- التأكد من صحة رقم الناسوخ الخاص بالجهة المرسل إليها، والاحتفاظ بالإشعار الذي يعده الجهاز بعد الإرسال.",
+    "target_en": "1. Verifying the facsimile number of the addressee and keeping the facsimile transmission receipt.",
+    "source_ar_norm": "1- التاكد من صحة رقم الناسوخ الخاص بالجهة المرسل اليها، والاحتفاظ بالاشعار الذي يعده الجهاز بعد الارسال.",
+    "target_en_norm": "1. verifying the facsimile number of the addressee and keeping the facsimile transmission receipt.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21920,
+    "source_ar": "2- إرفاق نموذج تسلّم بالرسالة عند إرسالها يتضمن معلومات عن الرسالة -كالرقم والتاريخ واسم الجهة المرسلة وموضوع الرسالة وعدد الأوراق المرسلة ورقم الناسوخ والاتصال للمرسل والمرسل إليه- ويوقعه المتسلم مبيناً فيه تاريخ التسلم ووقته، ويعاد إلى الجهة المرسلة عن طريق الناسوخ.",
+    "target_en": "2. Attaching a receipt form to the message upon transmission thereof, including information about the message such as the number and date of the message, name of the sending entity, subject of the message, number of papers sent, and facsimile numbers and contact numbers of the sender and addressee. Said form shall be signed by the recipient, indicating the date and time of receipt, and shall be returned to the sending entity by facsimile.",
+    "source_ar_norm": "2- ارفاق نموذج تسلم بالرسالة عند ارسالها يتضمن معلومات عن الرسالة -كالرقم والتاريخ واسم الجهة المرسلة وموضوع الرسالة وعدد الاوراق المرسلة ورقم الناسوخ والاتصال للمرسل والمرسل اليه- ويوقعه المتسلم مبينا فيه تاريخ التسلم ووقته، ويعاد الي الجهة المرسلة عن طريق الناسوخ.",
+    "target_en_norm": "2. attaching a receipt form to the message upon transmission thereof, including information about the message such as the number and date of the message, name of the sending entity, subject of the message, number of papers sent, and facsimile numbers and contact numbers of the sender and addressee. said form shall be signed by the recipient, indicating the date and time of receipt, and shall be returned to the sending entity by facsimile.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21921,
+    "source_ar": "3- في الحالات التي يُكتفى فيها بما أرسل بالناسوخ دون إرسال الأصول، يحفظ الأصل ونموذج التسلم في ملف الموضوع.",
+    "target_en": "3. In cases where transmitting a copy by facsimile is sufficient, the original and the receipt form shall be kept in the subject file.",
+    "source_ar_norm": "3- في الحالات التي يكتفي فيها بما ارسل بالناسوخ دون ارسال الاصول، يحفظ الاصل ونموذج التسلم في ملف الموضوع.",
+    "target_en_norm": "3. in cases where transmitting a copy by facsimile is sufficient, the original and the receipt form shall be kept in the subject file.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21922,
+    "source_ar": "ج- البريد الإلكتروني",
+    "target_en": "C. Emails",
+    "source_ar_norm": "ج- البريد الالكتروني",
+    "target_en_norm": "c. emails",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21923,
+    "source_ar": "المادة السابعة والستون:",
+    "target_en": "Article 67",
+    "source_ar_norm": "المادة السابعة والستون:",
+    "target_en_norm": "article 67",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21924,
+    "source_ar": "يكون إرسال رسائل البريد الإلكتروني وفقاً للضوابط الآتية:",
+    "target_en": "Email messages shall be sent in accordance with the following controls:",
+    "source_ar_norm": "يكون ارسال رسائل البريد الالكتروني وفقا للضوابط الاتية:",
+    "target_en_norm": "email messages shall be sent in accordance with the following controls:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21925,
+    "source_ar": "1- أن يكون الإرسال من خلال مواقع رسمية وذات كفاية عالية من حيث الحماية والأمان والسرية.",
+    "target_en": "1. Emails shall be sent through official accounts with high levels of protection, security, and confidentiality.",
+    "source_ar_norm": "1- ان يكون الارسال من خلال مواقع رسمية وذات كفاية عالية من حيث الحماية والامان والسرية.",
+    "target_en_norm": "1. emails shall be sent through official accounts with high levels of protection, security, and confidentiality.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21926,
+    "source_ar": "2- أن يحتفظ بصورة من نص الرسالة الإلكترونية في ملف الموضوع الإلكتروني والورقي.",
+    "target_en": "2. A copy of the email message shall be kept in the electronic and paper subject files.",
+    "source_ar_norm": "2- ان يحتفظ بصورة من نص الرسالة الالكترونية في ملف الموضوع الالكتروني والورقي.",
+    "target_en_norm": "2. a copy of the email message shall be kept in the electronic and paper subject files.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21927,
+    "source_ar": "رابع وعشرون: حماية أجهزة الحاسبات والتصوير والإرسال والماسحات",
+    "target_en": "Twenty-Fourth: Protection of Computers, Copiers, Scanners, and Transmission Devices",
+    "source_ar_norm": "رابع وعشرون: حماية اجهزة الحاسبات والتصوير والارسال والماسحات",
+    "target_en_norm": "twenty-fourth: protection of computers, copiers, scanners, and transmission devices",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21928,
+    "source_ar": "المادة الثامنة والستون:",
+    "target_en": "Article 68",
+    "source_ar_norm": "المادة الثامنة والستون:",
+    "target_en_norm": "article 68",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21929,
+    "source_ar": "يجب فحص أجهزة أو برامج الحاسبات الآلية والتصوير الجديدة أو المعادة من الصيانة؛ للتأكد من خلوها من أجهزة لها إمكان بث المواد المخزنة أو المصورة عليها.",
+    "target_en": "New computers and copiers and those returning from maintenance as well as new or maintained software programs shall be examined to ensure that they are free of any spyware capable of transmitting the materials stored thereon or copied thereby.",
+    "source_ar_norm": "يجب فحص اجهزة او برامج الحاسبات الالية والتصوير الجديدة او المعادة من الصيانة؛ للتاكد من خلوها من اجهزة لها امكان بث المواد المخزنة او المصورة عليها.",
+    "target_en_norm": "new computers and copiers and those returning from maintenance as well as new or maintained software programs shall be examined to ensure that they are free of any spyware capable of transmitting the materials stored thereon or copied thereby.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21930,
+    "source_ar": "المادة التاسعة والستون:",
+    "target_en": "Article 69",
+    "source_ar_norm": "المادة التاسعة والستون:",
+    "target_en_norm": "article 69",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21931,
+    "source_ar": "يجب فحص أجهزة الماسحات الضوئية وأجهزة الناسـوخ الجديدة أو المعادة من الصيانة؛ للتأكد من خلوها من أجهزة بث المواد الممسوحة أو التي ترسل منها.",
+    "target_en": "New scanners and facsimile machines and those returning from maintenance shall be examined to ensure that they are free of any spyware capable of transmitting the materials scanned or sent thereby.",
+    "source_ar_norm": "يجب فحص اجهزة الماسحات الضوئية واجهزة الناسوخ الجديدة او المعادة من الصيانة؛ للتاكد من خلوها من اجهزة بث المواد الممسوحة او التي ترسل منها.",
+    "target_en_norm": "new scanners and facsimile machines and those returning from maintenance shall be examined to ensure that they are free of any spyware capable of transmitting the materials scanned or sent thereby.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21932,
+    "source_ar": "المادة السبعون:",
+    "target_en": "Article 70",
+    "source_ar_norm": "المادة السبعون:",
+    "target_en_norm": "article 70",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21933,
+    "source_ar": "يجب أن يكون من يتعامل مع الوثائق سعودي الجنسية، وممن هو محل ثقة ويتصف بالأمانة.",
+    "target_en": "Documents may be handled only by Saudi nationals who are known for their trustworthiness and integrity.",
+    "source_ar_norm": "يجب ان يكون من يتعامل مع الوثائق سعودي الجنسية، وممن هو محل ثقة ويتصف بالامانة.",
+    "target_en_norm": "documents may be handled only by saudi nationals who are known for their trustworthiness and integrity.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21934,
+    "source_ar": "المادة الحادية والسبعون:",
+    "target_en": "Article 71",
+    "source_ar_norm": "المادة الحادية والسبعون:",
+    "target_en_norm": "article 71",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21935,
+    "source_ar": "عند الاستغناء عن أي من أجهزة التصوير أو الإرسال (الناسوخ)، أو عند إرسال أي منها للصيانة؛ يجب فحصه فحصاً كاملاً للتأكد من خلوه من أي وثيقة أو معلومة باقية في الذاكرة. وفي حالة الاستغناء عنه يجب إتلاف الأجزاء التي تحتوي على ذلك، بما يضمن عدم إمكانية استعادة المحتوى مرة أخرى.",
+    "target_en": "In the event that a copier or facsimile machine is no longer used or is sent for maintenance, it shall be fully examined to ensure that no document or information is stored in its memory. If such devices are disposed of, the parts where such documents and information are stored shall be destroyed to ensure that the content cannot be retrieved.",
+    "source_ar_norm": "عند الاستغناء عن اي من اجهزة التصوير او الارسال (الناسوخ)، او عند ارسال اي منها للصيانة؛ يجب فحصه فحصا كاملا للتاكد من خلوه من اي وثيقة او معلومة باقية في الذاكرة. وفي حالة الاستغناء عنه يجب اتلاف الاجزاء التي تحتوي علي ذلك، بما يضمن عدم امكانية استعادة المحتوي مرة اخري.",
+    "target_en_norm": "in the event that a copier or facsimile machine is no longer used or is sent for maintenance, it shall be fully examined to ensure that no document or information is stored in its memory. if such devices are disposed of, the parts where such documents and information are stored shall be destroyed to ensure that the content cannot be retrieved.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21936,
+    "source_ar": "خامس وعشرون: حماية أجهزة الطباعة (النسخ)",
+    "target_en": "Twenty-Fifth: Protection of Printing (Copying) Devices",
+    "source_ar_norm": "خامس وعشرون: حماية اجهزة الطباعة (النسخ)",
+    "target_en_norm": "twenty-fifth: protection of printing (copying) devices",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21937,
+    "source_ar": "المادة الثانية والسبعون:",
+    "target_en": "Article 72",
+    "source_ar_norm": "المادة الثانية والسبعون:",
+    "target_en_norm": "article 72",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21938,
+    "source_ar": "تكون حماية أجهزة الطباعة (النسخ) وفقاً للضوابط الآتية:",
+    "target_en": "Printing (copying) devices shall be protected in accordance with the following controls:",
+    "source_ar_norm": "تكون حماية اجهزة الطباعة (النسخ) وفقا للضوابط الاتية:",
+    "target_en_norm": "printing (copying) devices shall be protected in accordance with the following controls:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21939,
+    "source_ar": "1- إتلاف صفائح الكربون بعد استخدامها.",
+    "target_en": "1. Carbon sheets shall be destroyed after use.",
+    "source_ar_norm": "1- اتلاف صفائح الكربون بعد استخدامها.",
+    "target_en_norm": "1. carbon sheets shall be destroyed after use.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21940,
+    "source_ar": "2- فرم النسخ الزائدة أو المعدلة من المنسوخات مباشرة.",
+    "target_en": "2. Extra or modified copies shall be immediately shredded.",
+    "source_ar_norm": "2- فرم النسخ الزائدة او المعدلة من المنسوخات مباشرة.",
+    "target_en_norm": "2. extra or modified copies shall be immediately shredded.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21941,
+    "source_ar": "3- توفير الحماية الكافية للمعلومات بما يتناسب مع مستوى تصنيفها وفقاً للأحكام المنظمة لتصنيف البيانات التي تطبع عند ربط أجهزة الطباعة بشبكات المعلومات الداخلية داخل الجهة.",
+    "target_en": "3. Adequate protection shall be provided to information that is printed through the printing devices connected to the agency’s internal networks. The level of protection shall be in line with the level of classification as per the provisions governing data classification.",
+    "source_ar_norm": "3- توفير الحماية الكافية للمعلومات بما يتناسب مع مستوي تصنيفها وفقا للاحكام المنظمة لتصنيف البيانات التي تطبع عند ربط اجهزة الطباعة بشبكات المعلومات الداخلية داخل الجهة.",
+    "target_en_norm": "3. adequate protection shall be provided to information that is printed through the printing devices connected to the agency’s internal networks. the level of protection shall be in line with the level of classification as per the provisions governing data classification.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21942,
+    "source_ar": "4- يخصص جهاز طباعة لكل ناسخ -بقدر الإمكان- ويخصص له رقم تعريفي محدد فيه الصلاحيات اللازمة.",
+    "target_en": "4. Each typist shall be provided with a printing device, if possible, and shall be assigned an identification number with certain powers.",
+    "source_ar_norm": "4- يخصص جهاز طباعة لكل ناسخ -بقدر الامكان- ويخصص له رقم تعريفي محدد فيه الصلاحيات اللازمة.",
+    "target_en_norm": "4. each typist shall be provided with a printing device, if possible, and shall be assigned an identification number with certain powers.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21943,
+    "source_ar": "5- التأكد من خلو أجهزة الطباعة الجديدة أو المعادة من الصيانة من أي مادة أو جهاز له إمكان بث ما يطبع على الجهاز من معلومات.",
+    "target_en": "5. New printing devices and those returning from maintenance shall be examined to ensure that they are free of any spyware or device capable of transmitting the information printed thereby.",
+    "source_ar_norm": "5- التاكد من خلو اجهزة الطباعة الجديدة او المعادة من الصيانة من اي مادة او جهاز له امكان بث ما يطبع علي الجهاز من معلومات.",
+    "target_en_norm": "5. new printing devices and those returning from maintenance shall be examined to ensure that they are free of any spyware or device capable of transmitting the information printed thereby.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21944,
+    "source_ar": "المادة الثالثة والسبعون:",
+    "target_en": "Article 73",
+    "source_ar_norm": "المادة الثالثة والسبعون:",
+    "target_en_norm": "article 73",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21945,
+    "source_ar": "يتولى كل جهاز مسؤولية المحافظة على ما طبع من الوثائق لديه، والتأكد من تحميل المواد المطبوعة على وسائط تخزين إلكترونية. وتوضع في أوعية حفظ خاصة بها يوضح عليها معلومات عن المادة المنسوخة كموضوعها ونوعها وتاريخها ومستوى تصنيفها، وتحفظ هذه الأوعية في خزائن مناسبة.",
+    "target_en": "Each agency shall preserve its printed documents and shall ensure that printed materials are stored on electronic storage media. Said materials shall be placed in special containers labeled with the information thereof, such as their subject, type, date, and classification level, and such containers shall be kept in appropriate cabinets.",
+    "source_ar_norm": "يتولي كل جهاز مسؤولية المحافظة علي ما طبع من الوثائق لديه، والتاكد من تحميل المواد المطبوعة علي وسائط تخزين الكترونية. وتوضع في اوعية حفظ خاصة بها يوضح عليها معلومات عن المادة المنسوخة كموضوعها ونوعها وتاريخها ومستوي تصنيفها، وتحفظ هذه الاوعية في خزائن مناسبة.",
+    "target_en_norm": "each agency shall preserve its printed documents and shall ensure that printed materials are stored on electronic storage media. said materials shall be placed in special containers labeled with the information thereof, such as their subject, type, date, and classification level, and such containers shall be kept in appropriate cabinets.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21946,
+    "source_ar": "المادة الرابعة والسبعون:",
+    "target_en": "Article 74",
+    "source_ar_norm": "المادة الرابعة والسبعون:",
+    "target_en_norm": "article 74",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21947,
+    "source_ar": "تقوم الوحدة المعنية في الجهاز -دورياً- بمسح المواد المنسوخة من ذاكرة أجهزة الطباعة بعد تحميلها على الوسائط اللازمة وتسلم بعد ذلك للإدارة.",
+    "target_en": "The concerned unit at the agency shall periodically erase the printed materials from the memories of printing devices after storing the same on the appropriate medium, which shall be subsequently delivered to the relevant department.",
+    "source_ar_norm": "تقوم الوحدة المعنية في الجهاز -دوريا- بمسح المواد المنسوخة من ذاكرة اجهزة الطباعة بعد تحميلها علي الوسائط اللازمة وتسلم بعد ذلك للادارة.",
+    "target_en_norm": "the concerned unit at the agency shall periodically erase the printed materials from the memories of printing devices after storing the same on the appropriate medium, which shall be subsequently delivered to the relevant department.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21948,
+    "source_ar": "المادة الخامسة والسبعون:",
+    "target_en": "Article 75",
+    "source_ar_norm": "المادة الخامسة والسبعون:",
+    "target_en_norm": "article 75",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21949,
+    "source_ar": "تتلف وسائط تخزين المعلومات أو أجزاء أجهزة الحاسب الآلي التي استخدمت للطباعة، والتي تحتوي على المعلومات المنسوخة، وذلك عند الاستغناء عنها، لتلافي إمكان استخدامها مرة أخرى.",
+    "target_en": "Data storage media and the computer parts which were used for printing and contain printed materials shall be destroyed upon disposal thereof to ensure that they are not reused.",
+    "source_ar_norm": "تتلف وسائط تخزين المعلومات او اجزاء اجهزة الحاسب الالي التي استخدمت للطباعة، والتي تحتوي علي المعلومات المنسوخة، وذلك عند الاستغناء عنها، لتلافي امكان استخدامها مرة اخري.",
+    "target_en_norm": "data storage media and the computer parts which were used for printing and contain printed materials shall be destroyed upon disposal thereof to ensure that they are not reused.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21950,
+    "source_ar": "سادس وعشرون: حماية المطبوعات الرسمية وأوعية الحفظ",
+    "target_en": "Twenty-Sixth: Protection of Official Stationery and Storage Containers",
+    "source_ar_norm": "سادس وعشرون: حماية المطبوعات الرسمية واوعية الحفظ",
+    "target_en_norm": "twenty-sixth: protection of official stationery and storage containers",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21951,
+    "source_ar": "المادة السادسة والسبعون:",
+    "target_en": "Article 76",
+    "source_ar_norm": "المادة السادسة والسبعون:",
+    "target_en_norm": "article 76",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21952,
+    "source_ar": "لا يجوز استخدام المطبوعات الرسمية (كالسجلات والنماذج ودفاتر الكتابة والظروف) في غير ما خصصت له، ولا يجوز إخراجها من مقر الجهاز إلا لحاجة العمل.",
+    "target_en": "Official stationery, such as record books, forms, notebooks, and envelopes, may not be used for other than the designated purposes, and may not be taken out of the agency’s premises except for work needs.",
+    "source_ar_norm": "لا يجوز استخدام المطبوعات الرسمية (كالسجلات والنماذج ودفاتر الكتابة والظروف) في غير ما خصصت له، ولا يجوز اخراجها من مقر الجهاز الا لحاجة العمل.",
+    "target_en_norm": "official stationery, such as record books, forms, notebooks, and envelopes, may not be used for other than the designated purposes, and may not be taken out of the agency’s premises except for work needs.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21953,
+    "source_ar": "المادة السابعة والسبعون:",
+    "target_en": "Article 77",
+    "source_ar_norm": "المادة السابعة والسبعون:",
+    "target_en_norm": "article 77",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21954,
+    "source_ar": "يستعمل لحفظ الوثائق ومسكها الأوعية والأدوات الحديثة المناسبة التي تحقق المحافظة على تماسك الوثيقة ومرافقاتها وحفظها دون إتلافها، ومن ذلك:",
+    "target_en": "Documents and their attachments shall be preserved, held together, and protected from damage using appropriate modern containers and tools, including the following:",
+    "source_ar_norm": "يستعمل لحفظ الوثائق ومسكها الاوعية والادوات الحديثة المناسبة التي تحقق المحافظة علي تماسك الوثيقة ومرافقاتها وحفظها دون اتلافها، ومن ذلك:",
+    "target_en_norm": "documents and their attachments shall be preserved, held together, and protected from damage using appropriate modern containers and tools, including the following:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21955,
+    "source_ar": "1- حافظة موحدة تستوعب مقاسات الورق المحددة نظاماً، وتكون قابلة للغلق والفتح بسهولة، ومعالجة، وخالية من الأحماض، ومقاومة للسوائل. وإيجاد جيب شفاف على وجه الحافظة يوضع فيه بطاقة تدون عليها جميع البيانات اللازمة لمعرفة ما تحتويه من الوثائق.",
+    "target_en": "1. Unified folders to accommodate standard-size paper, which can be easily opened and closed and which are processed, acid-free, liquid-resistant, and equipped with transparent pockets on the front where cards are placed displaying the necessary information that identifies the documents contained therein.",
+    "source_ar_norm": "1- حافظة موحدة تستوعب مقاسات الورق المحددة نظاما، وتكون قابلة للغلق والفتح بسهولة، ومعالجة، وخالية من الاحماض، ومقاومة للسوائل. وايجاد جيب شفاف علي وجه الحافظة يوضع فيه بطاقة تدون عليها جميع البيانات اللازمة لمعرفة ما تحتويه من الوثائق.",
+    "target_en_norm": "1. unified folders to accommodate standard-size paper, which can be easily opened and closed and which are processed, acid-free, liquid-resistant, and equipped with transparent pockets on the front where cards are placed displaying the necessary information that identifies the documents contained therein.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21956,
+    "source_ar": "2- حاوية لاستيعاب عدد من الحافظات ذات الصلة التنظيمية أو الموضوعية، ويكون لها غطاء متحرك وجيوب على الواجهات البارزة منها لوضع بطاقات تحتوي على البيانات اللازمة عن الوثائق التي في داخلها.",
+    "target_en": "2. Storage boxes to accommodate a number of folders that are related in terms of organization or content, which have movable lids and pockets on the front where cards are placed indicating the necessary information of the documents contained therein.",
+    "source_ar_norm": "2- حاوية لاستيعاب عدد من الحافظات ذات الصلة التنظيمية او الموضوعية، ويكون لها غطاء متحرك وجيوب علي الواجهات البارزة منها لوضع بطاقات تحتوي علي البيانات اللازمة عن الوثائق التي في داخلها.",
+    "target_en_norm": "2. storage boxes to accommodate a number of folders that are related in terms of organization or content, which have movable lids and pockets on the front where cards are placed indicating the necessary information of the documents contained therein.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21957,
+    "source_ar": "3- ماسكة الأوراق، وهي مصنوعة من مادة صلبة، وتستخدم لمسك الأوراق بعد تنظيمها ومساواة أطرافها دون أن يؤدي ذلك إلى تدبيسها.",
+    "target_en": "3. Paper clips made of a solid material which are used to hold sheets of paper together without stapling them after such sheets are arranged and aligned.",
+    "source_ar_norm": "3- ماسكة الاوراق، وهي مصنوعة من مادة صلبة، وتستخدم لمسك الاوراق بعد تنظيمها ومساواة اطرافها دون ان يؤدي ذلك الي تدبيسها.",
+    "target_en_norm": "3. paper clips made of a solid material which are used to hold sheets of paper together without stapling them after such sheets are arranged and aligned.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21958,
+    "source_ar": "سابع وعشرون: حماية أماكن الحفظ",
+    "target_en": "Twenty-Seventh: Protection of Storage Areas",
+    "source_ar_norm": "سابع وعشرون: حماية اماكن الحفظ",
+    "target_en_norm": "twenty-seventh: protection of storage areas",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21959,
+    "source_ar": "المادة الثامنة والسبعون:",
+    "target_en": "Article 78",
+    "source_ar_norm": "المادة الثامنة والسبعون:",
+    "target_en_norm": "article 78",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21960,
+    "source_ar": "يكون دخول عمال النظافة والصيانة إلى أماكن الحفظ وفقاً للضوابط الآتية:",
+    "target_en": "Entrance of cleaning and maintenance workers into storage areas shall be according to the following controls:",
+    "source_ar_norm": "يكون دخول عمال النظافة والصيانة الي اماكن الحفظ وفقا للضوابط الاتية:",
+    "target_en_norm": "entrance of cleaning and maintenance workers into storage areas shall be according to the following controls:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21961,
+    "source_ar": "1- أن يكون أثناء الدوام الرسمي.",
+    "target_en": "1. It shall be during official working hours.",
+    "source_ar_norm": "1- ان يكون اثناء الدوام الرسمي.",
+    "target_en_norm": "1. it shall be during official working hours.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21962,
+    "source_ar": "2- أن يكون ذلك بوجود موظف مختص.",
+    "target_en": "2. It shall be in the presence of the designated employee.",
+    "source_ar_norm": "2- ان يكون ذلك بوجود موظف مختص.",
+    "target_en_norm": "2. it shall be in the presence of the designated employee.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21963,
+    "source_ar": "3- أن تسجل أسماء العاملين الذين يكونون في الموقع يومياً، وتحدد ساعات بقائهم لدى الجهة المعنية بالأمن أو بالإشراف على الصيانة والنظافة.",
+    "target_en": "3. The names of on-site workers shall be recorded on a daily basis, and the entity in charge of security or the entity supervising maintenance and cleaning shall be informed of their working hours.",
+    "source_ar_norm": "3- ان تسجل اسماء العاملين الذين يكونون في الموقع يوميا، وتحدد ساعات بقائهم لدي الجهة المعنية بالامن او بالاشراف علي الصيانة والنظافة.",
+    "target_en_norm": "3. the names of on-site workers shall be recorded on a daily basis, and the entity in charge of security or the entity supervising maintenance and cleaning shall be informed of their working hours.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21964,
+    "source_ar": "4- أن يخصص لبس موحد للعاملين، وتعطى لهم بطاقات تصريح للدخول والتعريف بهم.",
+    "target_en": "4. Workers shall wear a uniform and shall be given cards for entry and identification.",
+    "source_ar_norm": "4- ان يخصص لبس موحد للعاملين، وتعطي لهم بطاقات تصريح للدخول والتعريف بهم.",
+    "target_en_norm": "4. workers shall wear a uniform and shall be given cards for entry and identification.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21965,
+    "source_ar": "5- إخضاعهم للتفتيش أثناء دخول أماكن العمل وأثناء الخروج منه.",
+    "target_en": "5. Workers shall be searched upon entering and leaving the workplace.",
+    "source_ar_norm": "5- اخضاعهم للتفتيش اثناء دخول اماكن العمل واثناء الخروج منه.",
+    "target_en_norm": "5. workers shall be searched upon entering and leaving the workplace.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21966,
+    "source_ar": "المادة التاسعة والسبعون:",
+    "target_en": "Article 79",
+    "source_ar_norm": "المادة التاسعة والسبعون:",
+    "target_en_norm": "article 79",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21967,
+    "source_ar": "لا يجوز دخول غير المختصين إلى أماكن الحفظ، وتوضع على أبواب المكاتب لوحات تفيد بهذا المعنى.",
+    "target_en": "Only designated employees may enter storage areas, and signs indicating such restriction shall be posted on office doors.",
+    "source_ar_norm": "لا يجوز دخول غير المختصين الي اماكن الحفظ، وتوضع علي ابواب المكاتب لوحات تفيد بهذا المعني.",
+    "target_en_norm": "only designated employees may enter storage areas, and signs indicating such restriction shall be posted on office doors.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21968,
+    "source_ar": "المادة الثمانون:",
+    "target_en": "Article 80",
+    "source_ar_norm": "المادة الثمانون:",
+    "target_en_norm": "article 80",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21969,
+    "source_ar": "تخصص أماكن لمقابلة الزوار والمراجعين عند الحاجة إلى ذلك.",
+    "target_en": "Certain areas shall be designated for receiving visitors and beneficiaries, if needed.",
+    "source_ar_norm": "تخصص اماكن لمقابلة الزوار والمراجعين عند الحاجة الي ذلك.",
+    "target_en_norm": "certain areas shall be designated for receiving visitors and beneficiaries, if needed.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21970,
+    "source_ar": "ثامن وعشرون: شروط ومواصفات مباني وأماكن الحفظ",
+    "target_en": "Twenty-Eighth: Conditions and Specifications for Storage Buildings and Areas",
+    "source_ar_norm": "ثامن وعشرون: شروط ومواصفات مباني واماكن الحفظ",
+    "target_en_norm": "twenty-eighth: conditions and specifications for storage buildings and areas",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21971,
+    "source_ar": "المادة الحادية والثمانون:",
+    "target_en": "Article 81",
+    "source_ar_norm": "المادة الحادية والثمانون:",
+    "target_en_norm": "article 81",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21972,
+    "source_ar": "مع الأخذ في الاعتبار المواصفات الهندسية والإنشائية المعتمدة للمباني الحكومية، يراعى في مباني الحفظ الشروط والمواصفات الآتية:",
+    "target_en": "Subject to the approved engineering and construction specifications for government buildings, a storage building must comply with the following conditions and specifications:",
+    "source_ar_norm": "مع الاخذ في الاعتبار المواصفات الهندسية والانشائية المعتمدة للمباني الحكومية، يراعي في مباني الحفظ الشروط والمواصفات الاتية:",
+    "target_en_norm": "subject to the approved engineering and construction specifications for government buildings, a storage building must comply with the following conditions and specifications:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21973,
+    "source_ar": "1- أن تعد دراسة عن مساحة المبنى ومتطلباته وفقاً لحاجة العمل وحجم الوثائق في الجهاز.",
+    "target_en": "1. A study shall be conducted to determine the area and requirements of the building taking into account the agency’s work needs and volume of documents.",
+    "source_ar_norm": "1- ان تعد دراسة عن مساحة المبني ومتطلباته وفقا لحاجة العمل وحجم الوثائق في الجهاز.",
+    "target_en_norm": "1. a study shall be conducted to determine the area and requirements of the building taking into account the agency’s work needs and volume of documents.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21974,
+    "source_ar": "2- أن يكون المبنى داخل مقر المباني الرئيسة للجهاز وفي مكان يكون أكثر حماية وأمناً.",
+    "target_en": "2. The building shall be located on the agency’s premises where the main buildings are located and in a safe and secure place.",
+    "source_ar_norm": "2- ان يكون المبني داخل مقر المباني الرئيسة للجهاز وفي مكان يكون اكثر حماية وامنا.",
+    "target_en_norm": "2. the building shall be located on the agency’s premises where the main buildings are located and in a safe and secure place.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21975,
+    "source_ar": "3- أن يكون المبنى على درجة عالية من القوة لحماية الوثائق من العوامل الطبيعية أو البشرية التي تهدد سلامتها.",
+    "target_en": "3. The building shall be strong and secure to protect documents from natural or human threats.",
+    "source_ar_norm": "3- ان يكون المبني علي درجة عالية من القوة لحماية الوثائق من العوامل الطبيعية او البشرية التي تهدد سلامتها.",
+    "target_en_norm": "3. the building shall be strong and secure to protect documents from natural or human threats.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21976,
+    "source_ar": "4- أن يكون المبنى معزولاً حرارياً ومائياً، وتستخدم لذلك أفضل المواصفات العالمية.",
+    "target_en": "4. The building shall be heat and water insulated in accordance with the best international standards.",
+    "source_ar_norm": "4- ان يكون المبني معزولا حراريا ومائيا، وتستخدم لذلك افضل المواصفات العالمية.",
+    "target_en_norm": "4. the building shall be heat and water insulated in accordance with the best international standards.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21977,
+    "source_ar": "5- أن يكون المبنى بعيداً عن الخطوط الكهربائية الرئيسة وتمديدات المياه والصرف الصحي وأماكن الطهي ومصادر التلوث الأخرى.",
+    "target_en": "5. The building shall not be in proximity to main electrical lines, water and sewage installations, cooking facilities, and sources of pollution.",
+    "source_ar_norm": "5- ان يكون المبني بعيدا عن الخطوط الكهربائية الرئيسة وتمديدات المياه والصرف الصحي واماكن الطهي ومصادر التلوث الاخري.",
+    "target_en_norm": "5. the building shall not be in proximity to main electrical lines, water and sewage installations, cooking facilities, and sources of pollution.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21978,
+    "source_ar": "6- يجب أن تشتمل الأنابيب وقنوات المياه على أعداد كافية من (المحابس) وصمامات الرقابة، وأن تكون موزعة في الأماكن المناسبة، مع إمكان الاستفادة من أجهزة الإنذار الخاصة بتسرب المياه.",
+    "target_en": "6. Control valves shall be installed in appropriate places along water pipes, with the possibility of utilizing water leakage warning devices.",
+    "source_ar_norm": "6- يجب ان تشتمل الانابيب وقنوات المياه علي اعداد كافية من (المحابس) وصمامات الرقابة، وان تكون موزعة في الاماكن المناسبة، مع امكان الاستفادة من اجهزة الانذار الخاصة بتسرب المياه.",
+    "target_en_norm": "6. control valves shall be installed in appropriate places along water pipes, with the possibility of utilizing water leakage warning devices.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21979,
+    "source_ar": "7- أن يكون المكان المخصص لحفظ الوثائق بدون أقمشة أو ستائر أو دواليب خشب، وألا يكون الرف السفلي موازياً للأرض.",
+    "target_en": "7. The document storage area shall not contain any fabrics, curtains, or wooden cabinets, and bottom shelves shall be above the floor level.",
+    "source_ar_norm": "7- ان يكون المكان المخصص لحفظ الوثائق بدون اقمشة او ستائر او دواليب خشب، والا يكون الرف السفلي موازيا للارض.",
+    "target_en_norm": "7. the document storage area shall not contain any fabrics, curtains, or wooden cabinets, and bottom shelves shall be above the floor level.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21980,
+    "source_ar": "8- أن تكون أرضيات المباني منيعة وقابلة لتحمل أي تسرب، ومعزولة مائياً، ومعالجة ضد الحشرات والقوارض، وأن يستخدم في ذلك أفضل المواصفات العالمية.",
+    "target_en": "8. The floors of the building shall be impermeable, leak resistant, and water-insulated, and shall be treated against insects and rodents, in accordance with the best international standards.",
+    "source_ar_norm": "8- ان تكون ارضيات المباني منيعة وقابلة لتحمل اي تسرب، ومعزولة مائيا، ومعالجة ضد الحشرات والقوارض، وان يستخدم في ذلك افضل المواصفات العالمية.",
+    "target_en_norm": "8. the floors of the building shall be impermeable, leak resistant, and water-insulated, and shall be treated against insects and rodents, in accordance with the best international standards.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21981,
+    "source_ar": "9- ألا يقل عرض الممرات بين قاعات أو مكاتب المبنى عن مترين.",
+    "target_en": "9. The corridors connecting halls and offices in the building shall not be less than two meters wide.",
+    "source_ar_norm": "9- الا يقل عرض الممرات بين قاعات او مكاتب المبني عن مترين.",
+    "target_en_norm": "9. the corridors connecting halls and offices in the building shall not be less than two meters wide.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21982,
+    "source_ar": "10- أن تكون مكاتب وقاعات الأعمال التنفيذية -كالفرز والفهرسة والمسح والتصنيف- متقاربة.",
+    "target_en": "10. The offices and halls dedicated to certain activities, such as sorting, indexing, scanning, and classifying, shall be adjacent to one another.",
+    "source_ar_norm": "10- ان تكون مكاتب وقاعات الاعمال التنفيذية -كالفرز والفهرسة والمسح والتصنيف- متقاربة.",
+    "target_en_norm": "10. the offices and halls dedicated to certain activities, such as sorting, indexing, scanning, and classifying, shall be adjacent to one another.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21983,
+    "source_ar": "المادة الثانية والثمانون:",
+    "target_en": "Article 82",
+    "source_ar_norm": "المادة الثانية والثمانون:",
+    "target_en_norm": "article 82",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21984,
+    "source_ar": "يجب أن تتوافر في أماكن الحفظ العوامل البيئية وشروط الحماية المناسبة، ومن ذلك:",
+    "target_en": "In designing storage areas, environmental factors and protection conditions shall be taken into account, including the following:",
+    "source_ar_norm": "يجب ان تتوافر في اماكن الحفظ العوامل البيئية وشروط الحماية المناسبة، ومن ذلك:",
+    "target_en_norm": "in designing storage areas, environmental factors and protection conditions shall be taken into account, including the following:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21985,
+    "source_ar": "1- أن تكون أرضيات قاعات أماكن الحفظ أرفع من أرضيات الممرات المحيطة بها، مع عمل منحدرات تسهل حركة العربات.",
+    "target_en": "1. The floor level of the storage halls shall be higher than the floor level of the surrounding corridors; ramps shall be installed to facilitate the movement of carts.",
+    "source_ar_norm": "1- ان تكون ارضيات قاعات اماكن الحفظ ارفع من ارضيات الممرات المحيطة بها، مع عمل منحدرات تسهل حركة العربات.",
+    "target_en_norm": "1. the floor level of the storage halls shall be higher than the floor level of the surrounding corridors; ramps shall be installed to facilitate the movement of carts.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21986,
+    "source_ar": "2- ألا تمر أنابيب المياه أو التمديدات الكهربائية بأماكن الحفظ، وأن تكون أجهزة التيارات الكهربائية ذات الضغط العالي بعيدة عنها.",
+    "target_en": "2. Water pipes and electrical installations shall not pass through storage areas, and high-voltage electrical devices shall not be in proximity thereto.",
+    "source_ar_norm": "2- الا تمر انابيب المياه او التمديدات الكهربائية باماكن الحفظ، وان تكون اجهزة التيارات الكهربائية ذات الضغط العالي بعيدة عنها.",
+    "target_en_norm": "2. water pipes and electrical installations shall not pass through storage areas, and high-voltage electrical devices shall not be in proximity thereto.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21987,
+    "source_ar": "3- أن تكون أبواب أماكن الحفظ من الحديد المقاوم للحريق ومعزولة ومحكمة الإغلاق.",
+    "target_en": "3. The doors of storage areas shall be made of fire-resistant metal and they shall be insulated and close tightly.",
+    "source_ar_norm": "3- ان تكون ابواب اماكن الحفظ من الحديد المقاوم للحريق ومعزولة ومحكمة الاغلاق.",
+    "target_en_norm": "3. the doors of storage areas shall be made of fire-resistant metal and they shall be insulated and close tightly.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21988,
+    "source_ar": "4- أن تكون أماكن الحفظ مزودة بأجهزة لضبط الحرارة والرطوبة.",
+    "target_en": "4. Storage areas shall be equipped with temperature and humidity control devices.",
+    "source_ar_norm": "4- ان تكون اماكن الحفظ مزودة باجهزة لضبط الحرارة والرطوبة.",
+    "target_en_norm": "4. storage areas shall be equipped with temperature and humidity control devices.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21989,
+    "source_ar": "5- ألا تكون الإضاءة مباشرة بل تكون مخفية.",
+    "target_en": "5. Lighting shall not be direct; it shall be concealed.",
+    "source_ar_norm": "5- الا تكون الاضاءة مباشرة بل تكون مخفية.",
+    "target_en_norm": "5. lighting shall not be direct; it shall be concealed.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21990,
+    "source_ar": "6- أن تتوافر في أماكن الحفظ خزائن مقاومة للحريق تخصص للوثائق السرية والمهمة.",
+    "target_en": "6. Storage areas shall be equipped with fire-resistant safes designated for confidential and important documents.",
+    "source_ar_norm": "6- ان تتوافر في اماكن الحفظ خزائن مقاومة للحريق تخصص للوثائق السرية والمهمة.",
+    "target_en_norm": "6. storage areas shall be equipped with fire-resistant safes designated for confidential and important documents.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21991,
+    "source_ar": "7- أن تعزل أماكن الحفظ عن مناطق العمل الأخرى بجدار وأبواب مانعة للحريق، وأن تغلق الأبواب بطريقة آلية.",
+    "target_en": "7. Storage areas shall be separated from other work areas with fire-resistant walls and doors, and the doors shall close automatically.",
+    "source_ar_norm": "7- ان تعزل اماكن الحفظ عن مناطق العمل الاخري بجدار وابواب مانعة للحريق، وان تغلق الابواب بطريقة الية.",
+    "target_en_norm": "7. storage areas shall be separated from other work areas with fire-resistant walls and doors, and the doors shall close automatically.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21992,
+    "source_ar": "8- أن يكون قاطع التيار الكهربائي الخاص بأماكن الحفظ معزولاً ومستقلاً ويمكن تشغيله عند الدخول والخروج، مع الاستفادة من أساليب مراقبة الإنارة آلياً.",
+    "target_en": "8. Storage areas shall have their own electrical circuit breaker which shall be insulated and easily accessible upon entry and exit, and automatic light sensors may be utilized.",
+    "source_ar_norm": "8- ان يكون قاطع التيار الكهربائي الخاص باماكن الحفظ معزولا ومستقلا ويمكن تشغيله عند الدخول والخروج، مع الاستفادة من اساليب مراقبة الانارة اليا.",
+    "target_en_norm": "8. storage areas shall have their own electrical circuit breaker which shall be insulated and easily accessible upon entry and exit, and automatic light sensors may be utilized.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21993,
+    "source_ar": "المادة الثالثة والثمانون:",
+    "target_en": "Article 83",
+    "source_ar_norm": "المادة الثالثة والثمانون:",
+    "target_en_norm": "article 83",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21994,
+    "source_ar": "يجب أن تكون وسائل الأمن والسلامة، في مباني وأماكن الحفظ، مطابقة لمواصفات ومتطلبات الدفاع المدني.",
+    "target_en": "Security and safety means in storage buildings and areas shall be in compliance with the specifications and requirements of the Civil Defense.",
+    "source_ar_norm": "يجب ان تكون وسائل الامن والسلامة، في مباني واماكن الحفظ، مطابقة لمواصفات ومتطلبات الدفاع المدني.",
+    "target_en_norm": "security and safety means in storage buildings and areas shall be in compliance with the specifications and requirements of the civil defense.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21995,
+    "source_ar": "المادة الرابعة والثمانون:",
+    "target_en": "Article 84",
+    "source_ar_norm": "المادة الرابعة والثمانون:",
+    "target_en_norm": "article 84",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21996,
+    "source_ar": "يجب أن تصان المباني وتجهيزاتها بانتظام وبكفاية عالية.",
+    "target_en": "Buildings and their fixtures shall be efficiently and regularly maintained.",
+    "source_ar_norm": "يجب ان تصان المباني وتجهيزاتها بانتظام وبكفاية عالية.",
+    "target_en_norm": "buildings and their fixtures shall be efficiently and regularly maintained.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21997,
+    "source_ar": "تاسع وعشرون: أحكام عامة",
+    "target_en": "Twenty-Ninth: General Provisions",
+    "source_ar_norm": "تاسع وعشرون: احكام عامة",
+    "target_en_norm": "twenty-ninth: general provisions",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21998,
+    "source_ar": "المادة الخامسة والثمانون:",
+    "target_en": "Article 85",
+    "source_ar_norm": "المادة الخامسة والثمانون:",
+    "target_en_norm": "article 85",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21999,
+    "source_ar": "دون إخلال بما قضت به الأحكام المنظمة لتصنيف البيانات وفيما لم يرد به نص، تلغي هذه اللائحة ما يتعارض معها من أحكام.",
+    "target_en": "Without prejudice to the provisions governing the classification of data and absent a specific provision, these Regulations shall repeal any provisions conflicting therewith.",
+    "source_ar_norm": "دون اخلال بما قضت به الاحكام المنظمة لتصنيف البيانات وفيما لم يرد به نص، تلغي هذه اللائحة ما يتعارض معها من احكام.",
+    "target_en_norm": "without prejudice to the provisions governing the classification of data and absent a specific provision, these regulations shall repeal any provisions conflicting therewith.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 22000,
+    "source_ar": "المادة السادسة والثمانون:",
+    "target_en": "Article 86",
+    "source_ar_norm": "المادة السادسة والثمانون:",
+    "target_en_norm": "article 86",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  }
+]

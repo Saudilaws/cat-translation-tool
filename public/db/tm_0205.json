@@ -1,0 +1,802 @@
+[
+  {
+    "id": 20401,
+    "source_ar": "المادة 14",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة 14",
+    "target_en_norm": "article 14",
+    "file_name": "قانون البذور والتقاوي والشتلات لدول الخليج العربي وعقوبات مخالفة قانون البذور والتقاوي والشتلات.docx"
+  },
+  {
+    "id": 20402,
+    "source_ar": "لا يجوز تداول البذور والتقاوي والشتلات المحورة وراثياً إلا بعد الحصول على ترخيص من السلطة المختصة.",
+    "target_en": "Genetically modified seeds, propagules, and seedlings may not be circulated without obtaining a license from the competent authority.",
+    "source_ar_norm": "لا يجوز تداول البذور والتقاوي والشتلات المحورة وراثيا الا بعد الحصول علي ترخيص من السلطة المختصة.",
+    "target_en_norm": "genetically modified seeds, propagules, and seedlings may not be circulated without obtaining a license from the competent authority.",
+    "file_name": "قانون البذور والتقاوي والشتلات لدول الخليج العربي وعقوبات مخالفة قانون البذور والتقاوي والشتلات.docx"
+  },
+  {
+    "id": 20403,
+    "source_ar": "المادة 15",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة 15",
+    "target_en_norm": "article 15",
+    "file_name": "قانون البذور والتقاوي والشتلات لدول الخليج العربي وعقوبات مخالفة قانون البذور والتقاوي والشتلات.docx"
+  },
+  {
+    "id": 20404,
+    "source_ar": "للوزير تحديد البذور والتقاوي والشتلات السامة والمخدرة التي يمنع زراعتها ودخولها للدولة.",
+    "target_en": "The Minister may specify toxic and narcotic seeds, propagules, and seedlings that are prohibited from being cultivated or brought into the State.",
+    "source_ar_norm": "للوزير تحديد البذور والتقاوي والشتلات السامة والمخدرة التي يمنع زراعتها ودخولها للدولة.",
+    "target_en_norm": "the minister may specify toxic and narcotic seeds, propagules, and seedlings that are prohibited from being cultivated or brought into the state.",
+    "file_name": "قانون البذور والتقاوي والشتلات لدول الخليج العربي وعقوبات مخالفة قانون البذور والتقاوي والشتلات.docx"
+  },
+  {
+    "id": 20405,
+    "source_ar": "المادة 16",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة 16",
+    "target_en_norm": "article 16",
+    "file_name": "قانون البذور والتقاوي والشتلات لدول الخليج العربي وعقوبات مخالفة قانون البذور والتقاوي والشتلات.docx"
+  },
+  {
+    "id": 20406,
+    "source_ar": "للوزير حظر تداول أي نوع أو صنف من البذور والتقاوي والشتلات بصفة دائمة أو مؤقتة، وتتولى السلطة المختصة مباشرة أعمال وإجراءات الرقابة والتفتيش على أي عملية من عمليات تداول البذور و/ أو التقاوي و/ أو الشتلات، ولها وقف أي من عمليات التداول غير المطابقة للوائح والمحظورة مؤقتاً.",
+    "target_en": "The Minister may permanently or temporarily prohibit the circulation of any type or variety of seeds, propagules, and/or seedlings. The competent authority shall monitor any activity involving the circulation of seeds, propagules, and/or seedlings and conduct any necessary inspections; it may also suspend any circulation activity that is not in compliance with the Regulations or is temporarily prohibited.",
+    "source_ar_norm": "للوزير حظر تداول اي نوع او صنف من البذور والتقاوي والشتلات بصفة دائمة او مؤقتة، وتتولي السلطة المختصة مباشرة اعمال واجراءات الرقابة والتفتيش علي اي عملية من عمليات تداول البذور و/ او التقاوي و/ او الشتلات، ولها وقف اي من عمليات التداول غير المطابقة للوائح والمحظورة مؤقتا.",
+    "target_en_norm": "the minister may permanently or temporarily prohibit the circulation of any type or variety of seeds, propagules, and/or seedlings. the competent authority shall monitor any activity involving the circulation of seeds, propagules, and/or seedlings and conduct any necessary inspections; it may also suspend any circulation activity that is not in compliance with the regulations or is temporarily prohibited.",
+    "file_name": "قانون البذور والتقاوي والشتلات لدول الخليج العربي وعقوبات مخالفة قانون البذور والتقاوي والشتلات.docx"
+  },
+  {
+    "id": 20407,
+    "source_ar": "المادة 17",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة 17",
+    "target_en_norm": "article 17",
+    "file_name": "قانون البذور والتقاوي والشتلات لدول الخليج العربي وعقوبات مخالفة قانون البذور والتقاوي والشتلات.docx"
+  },
+  {
+    "id": 20408,
+    "source_ar": "يحدد الوزير مفتشين للقيام بأعمال الرقابة وضبط عمليات التداول في البذور و/أو التقاوي و/ أو الشتلات، ويتمتع المفتشون بصفة الضبطية القضائية بناءً على قرار تصدره الجهات المختصة فيما يتعلق بتنفيذ أحكام هذا القانون (النظام) واللوائح والقرارات المنفذة له.",
+    "target_en": "The Minister shall designate inspectors to monitor and control the circulation of seeds, propagules, and/or seedlings. Such inspectors shall be vested with law enforcement authority pursuant to a decision issued by the agencies entrusted with implementing the provisions of this Law and the regulations and decisions issued for the implementation thereof.",
+    "source_ar_norm": "يحدد الوزير مفتشين للقيام باعمال الرقابة وضبط عمليات التداول في البذور و/او التقاوي و/ او الشتلات، ويتمتع المفتشون بصفة الضبطية القضائية بناء علي قرار تصدره الجهات المختصة فيما يتعلق بتنفيذ احكام هذا القانون (النظام) واللوائح والقرارات المنفذة له.",
+    "target_en_norm": "the minister shall designate inspectors to monitor and control the circulation of seeds, propagules, and/or seedlings. such inspectors shall be vested with law enforcement authority pursuant to a decision issued by the agencies entrusted with implementing the provisions of this law and the regulations and decisions issued for the implementation thereof.",
+    "file_name": "قانون البذور والتقاوي والشتلات لدول الخليج العربي وعقوبات مخالفة قانون البذور والتقاوي والشتلات.docx"
+  },
+  {
+    "id": 20409,
+    "source_ar": "الفصل الثالث: العقوبات",
+    "target_en": "Chapter 3: Penalties",
+    "source_ar_norm": "الفصل الثالث: العقوبات",
+    "target_en_norm": "chapter 3: penalties",
+    "file_name": "قانون البذور والتقاوي والشتلات لدول الخليج العربي وعقوبات مخالفة قانون البذور والتقاوي والشتلات.docx"
+  },
+  {
+    "id": 20410,
+    "source_ar": "المادة 18",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة 18",
+    "target_en_norm": "article 18",
+    "file_name": "قانون البذور والتقاوي والشتلات لدول الخليج العربي وعقوبات مخالفة قانون البذور والتقاوي والشتلات.docx"
+  },
+  {
+    "id": 20411,
+    "source_ar": "يعاقب كل من يخالف أحكام هذا القانون (النظام) ولائحته والقرارات الصادرة لتنفيذه. ويترك لكل دولة من دول المجلس تحديد العقوبات اللازمة لمن يخالف هذا القانون (النظام) أو لائحته التنفيذية.",
+    "target_en": "Any person who violates the provisions of this Law, its Regulations, and any decisions issued for the implementation thereof shall be subject to penalties. Each GCC State shall determine the penalties for violations of this Law or its Regulations.",
+    "source_ar_norm": "يعاقب كل من يخالف احكام هذا القانون (النظام) ولائحته والقرارات الصادرة لتنفيذه. ويترك لكل دولة من دول المجلس تحديد العقوبات اللازمة لمن يخالف هذا القانون (النظام) او لائحته التنفيذية.",
+    "target_en_norm": "any person who violates the provisions of this law, its regulations, and any decisions issued for the implementation thereof shall be subject to penalties. each gcc state shall determine the penalties for violations of this law or its regulations.",
+    "file_name": "قانون البذور والتقاوي والشتلات لدول الخليج العربي وعقوبات مخالفة قانون البذور والتقاوي والشتلات.docx"
+  },
+  {
+    "id": 20412,
+    "source_ar": "الفصل الرابع: أحكام ختامية",
+    "target_en": "Chapter 4: Final Provisions",
+    "source_ar_norm": "الفصل الرابع: احكام ختامية",
+    "target_en_norm": "chapter 4: final provisions",
+    "file_name": "قانون البذور والتقاوي والشتلات لدول الخليج العربي وعقوبات مخالفة قانون البذور والتقاوي والشتلات.docx"
+  },
+  {
+    "id": 20413,
+    "source_ar": "المادة 19",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة 19",
+    "target_en_norm": "article 19",
+    "file_name": "قانون البذور والتقاوي والشتلات لدول الخليج العربي وعقوبات مخالفة قانون البذور والتقاوي والشتلات.docx"
+  },
+  {
+    "id": 20414,
+    "source_ar": "يجوز للمتضرر من تنفيذ أحكام هذا القانون (النظام) التظلم للوزير المختص وفقاً للوائح والقوانين المعمول بها في كل دولة.",
+    "target_en": "Any person aggrieved by the implementation of the provisions of this Law may file a grievance with the competent minister in accordance with the laws and regulations applicable in each State.",
+    "source_ar_norm": "يجوز للمتضرر من تنفيذ احكام هذا القانون (النظام) التظلم للوزير المختص وفقا للوائح والقوانين المعمول بها في كل دولة.",
+    "target_en_norm": "any person aggrieved by the implementation of the provisions of this law may file a grievance with the competent minister in accordance with the laws and regulations applicable in each state.",
+    "file_name": "قانون البذور والتقاوي والشتلات لدول الخليج العربي وعقوبات مخالفة قانون البذور والتقاوي والشتلات.docx"
+  },
+  {
+    "id": 20415,
+    "source_ar": "المادة 20",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة 20",
+    "target_en_norm": "article 20",
+    "file_name": "قانون البذور والتقاوي والشتلات لدول الخليج العربي وعقوبات مخالفة قانون البذور والتقاوي والشتلات.docx"
+  },
+  {
+    "id": 20416,
+    "source_ar": "1- للوزير إصدار اللائحة لهذا القانون (النظام) أو تعديلها وفقاً لأحكام هذا القانون (النظام) والمعايير والشروط التي تحددها الاتفاقيات الدولية ذات الصلة، وتحدد اللائحة الإجراءات والشروط الواجب تطبيقها لأحكام هذا القانون (النظام).",
+    "target_en": "1. The Minister shall issue and amend the Regulations in accordance with the provisions of this Law and the standards and conditions set forth in relevant international conventions. The Regulations shall specify the procedures and conditions required for the implementation of the provisions of this Law.",
+    "source_ar_norm": "1- للوزير اصدار اللائحة لهذا القانون (النظام) او تعديلها وفقا لاحكام هذا القانون (النظام) والمعايير والشروط التي تحددها الاتفاقيات الدولية ذات الصلة، وتحدد اللائحة الاجراءات والشروط الواجب تطبيقها لاحكام هذا القانون (النظام).",
+    "target_en_norm": "1. the minister shall issue and amend the regulations in accordance with the provisions of this law and the standards and conditions set forth in relevant international conventions. the regulations shall specify the procedures and conditions required for the implementation of the provisions of this law.",
+    "file_name": "قانون البذور والتقاوي والشتلات لدول الخليج العربي وعقوبات مخالفة قانون البذور والتقاوي والشتلات.docx"
+  },
+  {
+    "id": 20417,
+    "source_ar": "المادة 21",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة 21",
+    "target_en_norm": "article 21",
+    "file_name": "قانون البذور والتقاوي والشتلات لدول الخليج العربي وعقوبات مخالفة قانون البذور والتقاوي والشتلات.docx"
+  },
+  {
+    "id": 20418,
+    "source_ar": "يكون أي تعديل على هذا القانون (النظام) نافذاً بعد اعتماده من قبل المجلس الأعلى، ويسري في شأن نفاذه ذات الإجراءات المنصوص عليها في المادة (22).",
+    "target_en": "Any amendment to this Law shall enter into force upon the approval of the Supreme Council and shall be subject to the same enforcement procedures provided for in Article 22.",
+    "source_ar_norm": "يكون اي تعديل علي هذا القانون (النظام) نافذا بعد اعتماده من قبل المجلس الاعلي، ويسري في شان نفاذه ذات الاجراءات المنصوص عليها في المادة (22).",
+    "target_en_norm": "any amendment to this law shall enter into force upon the approval of the supreme council and shall be subject to the same enforcement procedures provided for in article 22.",
+    "file_name": "قانون البذور والتقاوي والشتلات لدول الخليج العربي وعقوبات مخالفة قانون البذور والتقاوي والشتلات.docx"
+  },
+  {
+    "id": 20419,
+    "source_ar": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم",
+    "target_en": "Rules for Approving the Provisions Regulating the Affairs and Compensations of Employees of Public Agencies",
+    "source_ar_norm": "قواعد اقرار الاحكام المنظمة لشؤون العاملين في الاجهزة العامة وتعويضاتهم",
+    "target_en_norm": "rules for approving the provisions regulating the affairs and compensations of employees of public agencies",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20420,
+    "source_ar": "إن مجلس الوزراء",
+    "target_en": "The Council of Ministers,",
+    "source_ar_norm": "ان مجلس الوزراء",
+    "target_en_norm": "the council of ministers,",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20421,
+    "source_ar": "بعد الاطلاع في جلسته المنعقدة برئاسة خادم الحرمين الشريفين الملك سلمان بن عبدالعزيز آل سعود، على المعاملة الواردة من الديوان الملكي برقم 12708 وتاريخ 22 /2 /1444هـ، في شأن مسار حوكمة فاتورة الجهات شبه الحكومية، والدراسة المستقلة للمزايا المالية لرؤساء الهيئات الذين يعينون على مراتب عليا (وزير، أو الممتازة)، ومشروع قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم.",
+    "target_en": "In its session held under the chairmanship of the Custodian of the Two Holy Mosques King Salman bin Abdulaziz Al Saud; upon perusal of Casefile No. 12708, dated 22/2/1444H, received from the Royal Court regarding the governance of the invoices of semigovernmental agencies, and the independent study of the financial benefits of heads of agencies who are appointed to senior ranks of “Minister” or “Excellent”, and the draft Rules for Approving the Provisions Regulating the Affairs and Compensations of Employees of Public Agencies;",
+    "source_ar_norm": "بعد الاطلاع في جلسته المنعقدة برئاسة خادم الحرمين الشريفين الملك سلمان بن عبدالعزيز ال سعود، علي المعاملة الواردة من الديوان الملكي برقم 12708 وتاريخ 22 /2 /1444ه، في شان مسار حوكمة فاتورة الجهات شبه الحكومية، والدراسة المستقلة للمزايا المالية لرؤساء الهيئات الذين يعينون علي مراتب عليا (وزير، او الممتازة)، ومشروع قواعد اقرار الاحكام المنظمة لشؤون العاملين في الاجهزة العامة وتعويضاتهم.",
+    "target_en_norm": "in its session held under the chairmanship of the custodian of the two holy mosques king salman bin abdulaziz al saud; upon perusal of casefile no. 12708, dated 22/2/1444h, received from the royal court regarding the governance of the invoices of semigovernmental agencies, and the independent study of the financial benefits of heads of agencies who are appointed to senior ranks of “minister” or “excellent”, and the draft rules for approving the provisions regulating the affairs and compensations of employees of public agencies;",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20422,
+    "source_ar": "يقرر ما يلي:",
+    "target_en": "Resolves as follows:",
+    "source_ar_norm": "يقرر ما يلي:",
+    "target_en_norm": "resolves as follows:",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20423,
+    "source_ar": "أولاً:",
+    "target_en": "First:",
+    "source_ar_norm": "اولا:",
+    "target_en_norm": "first:",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20424,
+    "source_ar": "الموافقة على قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم، بالصيغة المرافقة.",
+    "target_en": "The Rules for Approving the Provisions Regulating the Affairs and Compensations of Employees of Public Agencies shall be approved as per the attached form.",
+    "source_ar_norm": "الموافقة علي قواعد اقرار الاحكام المنظمة لشؤون العاملين في الاجهزة العامة وتعويضاتهم، بالصيغة المرافقة.",
+    "target_en_norm": "the rules for approving the provisions regulating the affairs and compensations of employees of public agencies shall be approved as per the attached form.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20425,
+    "source_ar": "ثانياً:",
+    "target_en": "Second:",
+    "source_ar_norm": "ثانيا:",
+    "target_en_norm": "second:",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20426,
+    "source_ar": "على جميع الأجهزة العامة المشمولة بالقواعد -المشار إليها في البند (أولاً) من هذا القرار- ولديها لوائح إدارية وسلالم رواتب وأحكام تنظم البدلات والمكافآت والمزايا المالية، خاصة بعامليها الخاضعين لنظام العمل ونظام التأمينات الاجتماعية سارية وقت صدور القواعد، القيام بالآتي:",
+    "target_en": "All public agencies which are covered by the Rules referred to in Clause (First) of this Resolution, and which have specific administrative regulations, salary scales, and provisions regulating allowances, bonuses and financial benefits for their employees who are subject to the Labor Law or the Social Insurance Law, which are applicable at the time of issuance of the Rules, shall undertake the following:",
+    "source_ar_norm": "علي جميع الاجهزة العامة المشمولة بالقواعد -المشار اليها في البند (اولا) من هذا القرار- ولديها لوائح ادارية وسلالم رواتب واحكام تنظم البدلات والمكافات والمزايا المالية، خاصة بعامليها الخاضعين لنظام العمل ونظام التامينات الاجتماعية سارية وقت صدور القواعد، القيام بالاتي:",
+    "target_en_norm": "all public agencies which are covered by the rules referred to in clause (first) of this resolution, and which have specific administrative regulations, salary scales, and provisions regulating allowances, bonuses and financial benefits for their employees who are subject to the labor law or the social insurance law, which are applicable at the time of issuance of the rules, shall undertake the following:",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20427,
+    "source_ar": "1- تزويد وزارة الموارد البشرية والتنمية الاجتماعية بسلالم الرواتب الوظيفية الخاصة بعامليها، لمراجعتها بما يتوافق مع أسقف الأجور المعتمدة وفقاً للقواعد المشار إليها في البند (أولاً) من هذا القرار.",
+    "target_en": "1. Submit to the Ministry of Human Resources and Social Development the salary scales of their employees for review according to the approved wage ceilings under the Rules referred to in Clause (First) of this Resolution.",
+    "source_ar_norm": "1- تزويد وزارة الموارد البشرية والتنمية الاجتماعية بسلالم الرواتب الوظيفية الخاصة بعامليها، لمراجعتها بما يتوافق مع اسقف الاجور المعتمدة وفقا للقواعد المشار اليها في البند (اولا) من هذا القرار.",
+    "target_en_norm": "1. submit to the ministry of human resources and social development the salary scales of their employees for review according to the approved wage ceilings under the rules referred to in clause (first) of this resolution.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20428,
+    "source_ar": "وتقوم الوزارة بالتنسيق -فيما يلزم- مع فريق العمل الإشرافي المنصوص عليه في القواعد، وإبلاغ الجهاز بنتائج المراجعة والتعديلات اللازمة على السلالم، لاستكمال ما يلزم حيال تعديلها.",
+    "target_en": "The Ministry shall coordinate, as required, with the supervisory task force provided for in the Rules, and shall notify the agency of the results of the review including any required amendments to the scales in order to complete any necessary procedures for their amendment.",
+    "source_ar_norm": "وتقوم الوزارة بالتنسيق -فيما يلزم- مع فريق العمل الاشرافي المنصوص عليه في القواعد، وابلاغ الجهاز بنتائج المراجعة والتعديلات اللازمة علي السلالم، لاستكمال ما يلزم حيال تعديلها.",
+    "target_en_norm": "the ministry shall coordinate, as required, with the supervisory task force provided for in the rules, and shall notify the agency of the results of the review including any required amendments to the scales in order to complete any necessary procedures for their amendment.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20429,
+    "source_ar": "2- مراجعة لوائحها الإدارية بما في ذلك البدلات والمكافآت والمزايا للعاملين لديها، وأي وثائق تشتمل على مزايا مالية أخرى لهم، واقتراح تعديلها وفقاً لنموذج اللائحة الإدارية الموحد وقائمة البدلات والمكافآت والمزايا المالية المنصوص عليها في القواعد -المشار إليها في البند (أولاً) من هذا القرار- وتزويد وزارة الموارد البشرية والتنمية الاجتماعية بما يتم في هذا الشأن، للتحقق من توافقها مع النموذج والقائمة المشار إليهما.",
+    "target_en": "2. Review their administrative regulations including employees’ allowances, bonuses, and benefits as well as any documents containing other financial benefits; propose amendments in accordance with the unified administrative regulation template and the list of allowances, bonuses and financial benefits provided for in the Rules referred to in Clause (First) of this Resolution; and inform the Ministry of Human Resources and Social Development of actions taken in this regard to ensure compliance with the aforementioned template and list.",
+    "source_ar_norm": "2- مراجعة لوائحها الادارية بما في ذلك البدلات والمكافات والمزايا للعاملين لديها، واي وثائق تشتمل علي مزايا مالية اخري لهم، واقتراح تعديلها وفقا لنموذج اللائحة الادارية الموحد وقائمة البدلات والمكافات والمزايا المالية المنصوص عليها في القواعد -المشار اليها في البند (اولا) من هذا القرار- وتزويد وزارة الموارد البشرية والتنمية الاجتماعية بما يتم في هذا الشان، للتحقق من توافقها مع النموذج والقائمة المشار اليهما.",
+    "target_en_norm": "2. review their administrative regulations including employees’ allowances, bonuses, and benefits as well as any documents containing other financial benefits; propose amendments in accordance with the unified administrative regulation template and the list of allowances, bonuses and financial benefits provided for in the rules referred to in clause (first) of this resolution; and inform the ministry of human resources and social development of actions taken in this regard to ensure compliance with the aforementioned template and list.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20430,
+    "source_ar": "وتقوم الوزارة بالتنسيق -فيما يلزم- مع فريق العمل الإشرافي المنصوص عليه في القواعد، وإبلاغ الجهاز بنتائج المراجعة، لاستكمال ما يلزم حيال تعديل اللائحة الإدارية.",
+    "target_en": "The Ministry shall coordinate, as required, with the supervisory task force provided for in the Rules, and notify the agency of the review’s results to complete any necessary procedures for amending the administrative regulations.",
+    "source_ar_norm": "وتقوم الوزارة بالتنسيق -فيما يلزم- مع فريق العمل الاشرافي المنصوص عليه في القواعد، وابلاغ الجهاز بنتائج المراجعة، لاستكمال ما يلزم حيال تعديل اللائحة الادارية.",
+    "target_en_norm": "the ministry shall coordinate, as required, with the supervisory task force provided for in the rules, and notify the agency of the review’s results to complete any necessary procedures for amending the administrative regulations.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20431,
+    "source_ar": "على أن يتم إنفاذ كافة ما ورد في هذا البند خلال مدة لا تتجاوز (اثني عشر) شهراً.",
+    "target_en": "All provisions of this Clause shall be implemented within a period not exceeding 12 months.",
+    "source_ar_norm": "علي ان يتم انفاذ كافة ما ورد في هذا البند خلال مدة لا تتجاوز (اثني عشر) شهرا.",
+    "target_en_norm": "all provisions of this clause shall be implemented within a period not exceeding 12 months.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20432,
+    "source_ar": "ثالثاً:",
+    "target_en": "Third:",
+    "source_ar_norm": "ثالثا:",
+    "target_en_norm": "third:",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20433,
+    "source_ar": "على جميع الأجهزة العامة المشمولة بالقواعد -المشار إليها في البند (أولاً) من هذا القرار- عدم إقرار أي تعديل على لوائحها الإدارية وسلالم رواتب العاملين لديها وبدلاتهم ومكافآتهم ومزاياهم المالية، وأي وثائق تشتمل على مزايا مالية أخرى لهم، بالزيادة، إلى حين الانتهاء من أعمال المراجعة -المشار إليها في البند (ثانياً) من هذا القرار- وتعديلها وفقاً للأحكام الواردة في القواعد المشار إليها في البند (أولاً) من هذا القرار.",
+    "target_en": "All public agencies covered by the Rules, referred to in Clause (First) of this Resolution, shall not approve any amendment, that would result in a financial increase, to their administrative regulations, employees’ salary scales, allowances, bonuses, and financial benefits, and any documents that include other financial benefits until the review process, referred to in Clause (Second) of this Resolution, is completed and the necessary amendments are made in accordance with the provisions of the Rules referred to in Clause (First) of this Resolution.",
+    "source_ar_norm": "علي جميع الاجهزة العامة المشمولة بالقواعد -المشار اليها في البند (اولا) من هذا القرار- عدم اقرار اي تعديل علي لوائحها الادارية وسلالم رواتب العاملين لديها وبدلاتهم ومكافاتهم ومزاياهم المالية، واي وثائق تشتمل علي مزايا مالية اخري لهم، بالزيادة، الي حين الانتهاء من اعمال المراجعة -المشار اليها في البند (ثانيا) من هذا القرار- وتعديلها وفقا للاحكام الواردة في القواعد المشار اليها في البند (اولا) من هذا القرار.",
+    "target_en_norm": "all public agencies covered by the rules, referred to in clause (first) of this resolution, shall not approve any amendment, that would result in a financial increase, to their administrative regulations, employees’ salary scales, allowances, bonuses, and financial benefits, and any documents that include other financial benefits until the review process, referred to in clause (second) of this resolution, is completed and the necessary amendments are made in accordance with the provisions of the rules referred to in clause (first) of this resolution.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20434,
+    "source_ar": "رابعاً:",
+    "target_en": "Fourth:",
+    "source_ar_norm": "رابعا:",
+    "target_en_norm": "fourth:",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20435,
+    "source_ar": "على جميع الأجهزة العامة -بعد استكمال ما تضمنه البند (ثانياً) من هذا القرار- القيام بحصر حالات العاملين أصحاب الأجور والمزايا المالية المتجاوزة للسقوف القصوى وقائمة البدلات والمكافآت والمزايا المالية التي ستعتمد وفقاً للقواعد المشار إليها في البند (أولاً) من هذا القرار.",
+    "target_en": "All public agencies shall, after fulfilling the requirements of Clause (Second) of this Resolution, compile a list of cases involving employees whose wages and financial benefits exceed the maximum ceilings as well as the list of allowances, bonuses, and financial benefits to be approved in accordance with the Rules referred to in Clause (First) of this Resolution.",
+    "source_ar_norm": "علي جميع الاجهزة العامة -بعد استكمال ما تضمنه البند (ثانيا) من هذا القرار- القيام بحصر حالات العاملين اصحاب الاجور والمزايا المالية المتجاوزة للسقوف القصوي وقائمة البدلات والمكافات والمزايا المالية التي ستعتمد وفقا للقواعد المشار اليها في البند (اولا) من هذا القرار.",
+    "target_en_norm": "all public agencies shall, after fulfilling the requirements of clause (second) of this resolution, compile a list of cases involving employees whose wages and financial benefits exceed the maximum ceilings as well as the list of allowances, bonuses, and financial benefits to be approved in accordance with the rules referred to in clause (first) of this resolution.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20436,
+    "source_ar": "وتزويد وزارة الموارد البشرية والتنمية الاجتماعية بنتيجة الحصر وفقاً للآليات التي تضعها الوزارة لهذا الغرض، لإحالتها إلى فريق العمل الإشرافي المنصوص عليه في القواعد المشار إليها في البند (أولاً) من هذا القرار.",
+    "target_en": "The compiled lists shall be submitted to the Ministry of Human Resources and Social Development in accordance with the procedures established by the Ministry for this purpose, for referral to the supervisory task force provided for in the Rules referred to in Clause (First) of this Resolution.",
+    "source_ar_norm": "وتزويد وزارة الموارد البشرية والتنمية الاجتماعية بنتيجة الحصر وفقا للاليات التي تضعها الوزارة لهذا الغرض، لاحالتها الي فريق العمل الاشرافي المنصوص عليه في القواعد المشار اليها في البند (اولا) من هذا القرار.",
+    "target_en_norm": "the compiled lists shall be submitted to the ministry of human resources and social development in accordance with the procedures established by the ministry for this purpose, for referral to the supervisory task force provided for in the rules referred to in clause (first) of this resolution.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20437,
+    "source_ar": "ويقوم الفريق بدراسة الحالات واقتراح المعالجات المناسبة في شأنها بما لا يخل بالنصوص النظامية ذات الصلة والأحكام الواردة في العقود المبرمة مع العاملين، ولا يؤثر في أجر العامل الإجمالي (الأجر الأساسي مضافاً له بدل النقل وبدل السكن) بالنقصان خلال مدة سريان عقد عمله لدى الجهاز.",
+    "target_en": "The task force shall review these cases and propose appropriate solutions, without prejudice to any relevant statutory provisions and the provisions of the contract signed with the employee, and without reducing the employee’s total wage (base salary plus transportation and housing allowances) during the term of his employment contract with the agency.",
+    "source_ar_norm": "ويقوم الفريق بدراسة الحالات واقتراح المعالجات المناسبة في شانها بما لا يخل بالنصوص النظامية ذات الصلة والاحكام الواردة في العقود المبرمة مع العاملين، ولا يؤثر في اجر العامل الاجمالي (الاجر الاساسي مضافا له بدل النقل وبدل السكن) بالنقصان خلال مدة سريان عقد عمله لدي الجهاز.",
+    "target_en_norm": "the task force shall review these cases and propose appropriate solutions, without prejudice to any relevant statutory provisions and the provisions of the contract signed with the employee, and without reducing the employee’s total wage (base salary plus transportation and housing allowances) during the term of his employment contract with the agency.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20438,
+    "source_ar": "خامساً:",
+    "target_en": "Fifth:",
+    "source_ar_norm": "خامسا:",
+    "target_en_norm": "fifth:",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20439,
+    "source_ar": "لا يخل تطبيق القواعد –المشار إليها في البند (أولاً) من هذا القرار- بالآتي:",
+    "target_en": "The application of the Rules, referred to in Clause (First) of this Resolution, shall not prejudice any of the following:",
+    "source_ar_norm": "لا يخل تطبيق القواعد –المشار اليها في البند (اولا) من هذا القرار- بالاتي:",
+    "target_en_norm": "the application of the rules, referred to in clause (first) of this resolution, shall not prejudice any of the following:",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20440,
+    "source_ar": "1- قواعد ممارسة مهمات وظائف وكلاء الوزارات والوكلاء المساعدين، الصادرة بقرار مجلس الوزراء رقم (466) وتاريخ 29 / 8 / 1439هـ، وتعديلاتها.",
+    "target_en": "1. The Rules for Assuming the Duties of Deputy Ministers and Assistant Deputies issued by Council of Ministers Resolution No. 466, dated 29/8/1439H, and its amendments.",
+    "source_ar_norm": "1- قواعد ممارسة مهمات وظائف وكلاء الوزارات والوكلاء المساعدين، الصادرة بقرار مجلس الوزراء رقم (466) وتاريخ 29 / 8 / 1439ه، وتعديلاتها.",
+    "target_en_norm": "1. the rules for assuming the duties of deputy ministers and assistant deputies issued by council of ministers resolution no. 466, dated 29/8/1439h, and its amendments.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20441,
+    "source_ar": "2- قواعد التعاقد على برنامج الكفاءات المتميزة، ونموذج عقد عمل على برنامج الكفاءات المتميزة، الصادر في شأنهما قرار مجلس الوزراء رقم (119) وتاريخ 21 / 2 / 1440 هـ، وتعديلاتها.",
+    "target_en": "2. The Rules for Contracting under the Distinguished Professionals Program, and the Employment Contract Form for the Distinguished Professionals Program, issued by Council of Ministers Resolution No. 119, dated 21/2/1440H, and their amendments.",
+    "source_ar_norm": "2- قواعد التعاقد علي برنامج الكفاءات المتميزة، ونموذج عقد عمل علي برنامج الكفاءات المتميزة، الصادر في شانهما قرار مجلس الوزراء رقم (119) وتاريخ 21 / 2 / 1440 ه، وتعديلاتها.",
+    "target_en_norm": "2. the rules for contracting under the distinguished professionals program, and the employment contract form for the distinguished professionals program, issued by council of ministers resolution no. 119, dated 21/2/1440h, and their amendments.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20442,
+    "source_ar": "3- القواعد المنظمة لبرنامج الكفاءات والمتعاقدين، الصادرة بقرار مجلس الوزراء رقم (59) وتاريخ 18 / 1 / 1444 هـ.",
+    "target_en": "3. The Rules Governing the Program for Competent and Contracted Individuals, issued by Council of Ministers Resolution No. 59, dated 18/1/1444H;",
+    "source_ar_norm": "3- القواعد المنظمة لبرنامج الكفاءات والمتعاقدين، الصادرة بقرار مجلس الوزراء رقم (59) وتاريخ 18 / 1 / 1444 ه.",
+    "target_en_norm": "3. the rules governing the program for competent and contracted individuals, issued by council of ministers resolution no. 59, dated 18/1/1444h;",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20443,
+    "source_ar": "4- سلم أجور الممارسين الصحيين العاملين ضمن برامج التشغيل في المستشفيات الحكومية العامة والتخصصية والمرجعية على بنود التشغيل، المعتمد بالأمر السامي رقم (4097 /م ب) وتاريخ 25 / 6 / 1432 هـ، والفئات المطبق عليها السلم بناءً على المرسوم الملكي رقم (م/ 30) وتاريخ 2 / 6 / 1430 هـ.",
+    "target_en": "4. The Wage Scale for Health Practitioners Working under Operation Programs in General, Specialized, and Referral Government Hospitals, approved by High Order No. 4097/MB, dated 25/6/1432H, and the categories to which the scale applies pursuant to Royal Decree No. M/30, dated 2/6/1430H.",
+    "source_ar_norm": "4- سلم اجور الممارسين الصحيين العاملين ضمن برامج التشغيل في المستشفيات الحكومية العامة والتخصصية والمرجعية علي بنود التشغيل، المعتمد بالامر السامي رقم (4097 /م ب) وتاريخ 25 / 6 / 1432 ه، والفئات المطبق عليها السلم بناء علي المرسوم الملكي رقم (م/ 30) وتاريخ 2 / 6 / 1430 ه.",
+    "target_en_norm": "4. the wage scale for health practitioners working under operation programs in general, specialized, and referral government hospitals, approved by high order no. 4097/mb, dated 25/6/1432h, and the categories to which the scale applies pursuant to royal decree no. m/30, dated 2/6/1430h.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20444,
+    "source_ar": "5- لائحة المعينين على بند الأجور في الجهات الإدارية، الصادرة بقرار مجلس الخدمة المدنية (الملغى) رقم (141) وتاريخ 27 /5 / 1399 هـ، وسلم رواتب المعينين على بند الأجور، المعتمد بالأمر السامي رقم (4097 /م ب) وتاريخ 25/ 6 / 1432هـ.",
+    "target_en": "5. The Regulations for Employees Appointed under Wage-based Employment Contracts in Administrative Agencies, issued by Civil Service Council Decision (dissolved) No. 141, dated 27/5/1399H, and the Salary Scale for Employees Appointed under Wagebased Employment Contracts, approved by High Order No. 4097/MB, dated 25/6/1432H.",
+    "source_ar_norm": "5- لائحة المعينين علي بند الاجور في الجهات الادارية، الصادرة بقرار مجلس الخدمة المدنية (الملغي) رقم (141) وتاريخ 27 /5 / 1399 ه، وسلم رواتب المعينين علي بند الاجور، المعتمد بالامر السامي رقم (4097 /م ب) وتاريخ 25/ 6 / 1432ه.",
+    "target_en_norm": "5. the regulations for employees appointed under wage-based employment contracts in administrative agencies, issued by civil service council decision (dissolved) no. 141, dated 27/5/1399h, and the salary scale for employees appointed under wagebased employment contracts, approved by high order no. 4097/mb, dated 25/6/1432h.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20445,
+    "source_ar": "6- الأحكام الواردة في نظام الخدمة المدنية، الصادر بالمرسوم الملكي رقم (م/ 49) وتاريخ 10/ 7 / 1397 هـ، واللائحة التنفيذية للموارد البشرية في الخدمة المدنية الصادرة بالقرار الوزاري رقم (1550) وتاريخ 9 / 6 / 1440 هـ، وما قضى به توجيه مجلس الوزراء المُبلَّغ ببرقية الديوان الملكي رقم 49101 وتاريخ 27 /8 / 1442 هـ، المتعلقة بتنظيم التعاقد للقيام ببعض أعمال الوظائف المشمولة بسلالم الخدمة المدنية.",
+    "target_en": "6. The provisions provided for in the Civil Service Law, issued by Royal Decree No. M/49, dated 10/7/1397H, and the Implementing Regulations for Human Resources in Civil Service issued by Ministerial Decision No. 1550, dated 9/6/1440H, as well as the Council of Ministers directive communicated by Royal Court Telegram No. 49101, dated 27/8/1442H, related to regulating contracting for carrying out certain tasks of jobs covered by civil service salary scales.",
+    "source_ar_norm": "6- الاحكام الواردة في نظام الخدمة المدنية، الصادر بالمرسوم الملكي رقم (م/ 49) وتاريخ 10/ 7 / 1397 ه، واللائحة التنفيذية للموارد البشرية في الخدمة المدنية الصادرة بالقرار الوزاري رقم (1550) وتاريخ 9 / 6 / 1440 ه، وما قضي به توجيه مجلس الوزراء المبلغ ببرقية الديوان الملكي رقم 49101 وتاريخ 27 /8 / 1442 ه، المتعلقة بتنظيم التعاقد للقيام ببعض اعمال الوظائف المشمولة بسلالم الخدمة المدنية.",
+    "target_en_norm": "6. the provisions provided for in the civil service law, issued by royal decree no. m/49, dated 10/7/1397h, and the implementing regulations for human resources in civil service issued by ministerial decision no. 1550, dated 9/6/1440h, as well as the council of ministers directive communicated by royal court telegram no. 49101, dated 27/8/1442h, related to regulating contracting for carrying out certain tasks of jobs covered by civil service salary scales.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20446,
+    "source_ar": "سادساً:",
+    "target_en": "Sixth:",
+    "source_ar_norm": "سادسا:",
+    "target_en_norm": "sixth:",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20447,
+    "source_ar": "قيام وزير المالية ووزير الموارد البشرية والتنمية الاجتماعية باتخاذ ما يلزم لمراجعة الآلية المشار إليها في المادة (الثامنة) من قواعد ممارسة مهمات وظائف وكلاء الوزارات والوكلاء المساعدين، الصادرة بقرار مجلس الوزراء رقم (466) وتاريخ 29 / 8 / 1439 هـ، -وفقاً للصلاحيات المخولة لهما- وتعديل الآلية فيما يتعلق بالأجور والمكافآت والبدلات والمزايا الأخرى بما يتناسب مع أسقف الأجور وقائمة البدلات والمكافآت والمزايا للعاملين في الأجهزة العامة التي ستعتمد وفقاً للقواعد المشار إليها في البند (أولاً) من هذا القرار.",
+    "target_en": "The Minister of Finance and the Minister of Human Resources and Social Development shall, in accordance with the powers granted to them, take the necessary measures to review the mechanism referred to in Article 8 of the Rules for Assuming the Duties of Deputy Ministers and Assistant Deputies issued by Council of Ministers Resolution No. 466, dated 29/8/1439H, and amend the mechanism regarding wages, bonuses, allowances, and other benefits to align with the wage ceilings and the list of allowances, bonuses, and benefits for employees in public agencies, which shall be approved in accordance with the Rules referred to in Clause (First) of this Resolution.",
+    "source_ar_norm": "قيام وزير المالية ووزير الموارد البشرية والتنمية الاجتماعية باتخاذ ما يلزم لمراجعة الالية المشار اليها في المادة (الثامنة) من قواعد ممارسة مهمات وظائف وكلاء الوزارات والوكلاء المساعدين، الصادرة بقرار مجلس الوزراء رقم (466) وتاريخ 29 / 8 / 1439 ه، -وفقا للصلاحيات المخولة لهما- وتعديل الالية فيما يتعلق بالاجور والمكافات والبدلات والمزايا الاخري بما يتناسب مع اسقف الاجور وقائمة البدلات والمكافات والمزايا للعاملين في الاجهزة العامة التي ستعتمد وفقا للقواعد المشار اليها في البند (اولا) من هذا القرار.",
+    "target_en_norm": "the minister of finance and the minister of human resources and social development shall, in accordance with the powers granted to them, take the necessary measures to review the mechanism referred to in article 8 of the rules for assuming the duties of deputy ministers and assistant deputies issued by council of ministers resolution no. 466, dated 29/8/1439h, and amend the mechanism regarding wages, bonuses, allowances, and other benefits to align with the wage ceilings and the list of allowances, bonuses, and benefits for employees in public agencies, which shall be approved in accordance with the rules referred to in clause (first) of this resolution.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20448,
+    "source_ar": "سابعاً:",
+    "target_en": "Seventh:",
+    "source_ar_norm": "سابعا:",
+    "target_en_norm": "seventh:",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20449,
+    "source_ar": "على جميع الأجهزة العامة -غير المشمولة في الميزانية العامة للدولة- الارتباط بالنظام المركزي للحقوق المالية المتعلقة بالموظفين والعاملين في الجهات المدنية والعسكرية والأمنية (صرف)، الصادر في شأنه الأمر السامي رقم (8240) وتاريخ 19 / 2 / 1439 هـ، والأمر السامي رقم (52176) وتاريخ 16 / 9 / 1440 هـ.",
+    "target_en": "All public agencies which are not included in the State’s general budget shall integrate with the Central System for Financial Entitlements of Employees and Workers in Civil, Military, and Security Agencies (Sarf), issued by High Orders No. 8240, dated 19/2/1439H, and No. 52176, dated 16/9/1440H.",
+    "source_ar_norm": "علي جميع الاجهزة العامة -غير المشمولة في الميزانية العامة للدولة- الارتباط بالنظام المركزي للحقوق المالية المتعلقة بالموظفين والعاملين في الجهات المدنية والعسكرية والامنية (صرف)، الصادر في شانه الامر السامي رقم (8240) وتاريخ 19 / 2 / 1439 ه، والامر السامي رقم (52176) وتاريخ 16 / 9 / 1440 ه.",
+    "target_en_norm": "all public agencies which are not included in the state’s general budget shall integrate with the central system for financial entitlements of employees and workers in civil, military, and security agencies (sarf), issued by high orders no. 8240, dated 19/2/1439h, and no. 52176, dated 16/9/1440h.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20450,
+    "source_ar": "وتقوم وزارة المالية ووزارة الموارد البشرية والتنمية الاجتماعية بوضع ما يلزم من سياسات وإجراءات لذلك.",
+    "target_en": "The Ministry of Finance and the Ministry of Human Resources and Social Development shall establish any necessary policies and procedures for this purpose.",
+    "source_ar_norm": "وتقوم وزارة المالية ووزارة الموارد البشرية والتنمية الاجتماعية بوضع ما يلزم من سياسات واجراءات لذلك.",
+    "target_en_norm": "the ministry of finance and the ministry of human resources and social development shall establish any necessary policies and procedures for this purpose.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20451,
+    "source_ar": "ثامناً:",
+    "target_en": "Eighth:",
+    "source_ar_norm": "ثامنا:",
+    "target_en_norm": "eighth:",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20452,
+    "source_ar": "قيام وزارة المالية ووزارة الموارد البشرية والتنمية الاجتماعية بوضع ما يلزم من ضوابط وسياسات وإجراءات بما يمكن جميع الأجهزة العامة -سواءً كانت مشمولة في الميزانية العامة للدولة أو خارجها- من تسجيل جميع وقوعاتها الوظيفية وصرف الحقوق المالية لموظفيها من خلال النظام المركزي للحقوق المالية المتعلقة بالموظفين والعاملين في الجهات المدنية والعسكرية والأمنية (صرف)، الصادر في شأنه الأمر السامي رقم (8240) وتاريخ 19 / 2 / 1439 هـ، والأمر السامي رقم (52176) وتاريخ 16 / 9 / 1440هـ، على أن يكون تطبيق ذلك وفق خطة تدريجية تضعها الوزارتان، وأن تلتزم تلك الأجهزة بذلك.",
+    "target_en": "The Ministry of Finance and the Ministry of Human Resources and Social Development shall establish the necessary controls, policies, and procedures to enable all public agencies, whether or not included in the State's general budget, to record all work-related events and disburse financial entitlements to their employees through the Central System for Financial Entitlements of Employees and Workers of Civil, Military, and Security Agencies (Sarf), issued by High Orders No. 8240, dated 19/2/1439H, and No. 52176, dated 16/9/1440H, provided the application thereof is gradually carried out according to a plan developed by the two ministries, and the agencies shall comply with it.",
+    "source_ar_norm": "قيام وزارة المالية ووزارة الموارد البشرية والتنمية الاجتماعية بوضع ما يلزم من ضوابط وسياسات واجراءات بما يمكن جميع الاجهزة العامة -سواء كانت مشمولة في الميزانية العامة للدولة او خارجها- من تسجيل جميع وقوعاتها الوظيفية وصرف الحقوق المالية لموظفيها من خلال النظام المركزي للحقوق المالية المتعلقة بالموظفين والعاملين في الجهات المدنية والعسكرية والامنية (صرف)، الصادر في شانه الامر السامي رقم (8240) وتاريخ 19 / 2 / 1439 ه، والامر السامي رقم (52176) وتاريخ 16 / 9 / 1440ه، علي ان يكون تطبيق ذلك وفق خطة تدريجية تضعها الوزارتان، وان تلتزم تلك الاجهزة بذلك.",
+    "target_en_norm": "the ministry of finance and the ministry of human resources and social development shall establish the necessary controls, policies, and procedures to enable all public agencies, whether or not included in the state's general budget, to record all work-related events and disburse financial entitlements to their employees through the central system for financial entitlements of employees and workers of civil, military, and security agencies (sarf), issued by high orders no. 8240, dated 19/2/1439h, and no. 52176, dated 16/9/1440h, provided the application thereof is gradually carried out according to a plan developed by the two ministries, and the agencies shall comply with it.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20453,
+    "source_ar": "تاسعاً:",
+    "target_en": "Ninth:",
+    "source_ar_norm": "تاسعا:",
+    "target_en_norm": "ninth:",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20454,
+    "source_ar": "على جميع الأجهزة العامة المشمولة بالقواعد -المشار إليها في البند (أولاً) من هذا القرار- القيام بمراجعة أنظمتها وتنظيماتها ولوائحها وغيرها من الوثائق النظامية، واقتراح تعديلها وفقاً للأحكام الواردة في القواعد المشار إليها في البند (أولاً) من هذا القرار، والرفع عنها لاستكمال الإجراءات النظامية في شأنها.",
+    "target_en": "All public agencies covered by the Rules, referred to in Clause (First) of this Resolution, shall review their laws, statutes, regulations, and other regulatory documents, propose amendments thereto in accordance with the provisions of the Rules referred to in Clause (First) of this Resolution, and submit them for completion of legal procedures.",
+    "source_ar_norm": "علي جميع الاجهزة العامة المشمولة بالقواعد -المشار اليها في البند (اولا) من هذا القرار- القيام بمراجعة انظمتها وتنظيماتها ولوائحها وغيرها من الوثائق النظامية، واقتراح تعديلها وفقا للاحكام الواردة في القواعد المشار اليها في البند (اولا) من هذا القرار، والرفع عنها لاستكمال الاجراءات النظامية في شانها.",
+    "target_en_norm": "all public agencies covered by the rules, referred to in clause (first) of this resolution, shall review their laws, statutes, regulations, and other regulatory documents, propose amendments thereto in accordance with the provisions of the rules referred to in clause (first) of this resolution, and submit them for completion of legal procedures.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20455,
+    "source_ar": "عاشراً:",
+    "target_en": "Tenth:",
+    "source_ar_norm": "عاشرا:",
+    "target_en_norm": "tenth:",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20456,
+    "source_ar": "قيام وزارة الموارد البشرية والتنمية الاجتماعية ووزارة المالية برفع تقرير مشترك حيال تطبيق القواعد المشار إليها في البند (أولاً) من هذا القرار.",
+    "target_en": "The Ministry of Human Resources and Social Development and the Ministry of Finance shall, after three years from the date of this Resolution, submit a joint report on the implementation of the Rules referred to in Clause (First) of this Resolution.",
+    "source_ar_norm": "قيام وزارة الموارد البشرية والتنمية الاجتماعية ووزارة المالية برفع تقرير مشترك حيال تطبيق القواعد المشار اليها في البند (اولا) من هذا القرار.",
+    "target_en_norm": "the ministry of human resources and social development and the ministry of finance shall, after three years from the date of this resolution, submit a joint report on the implementation of the rules referred to in clause (first) of this resolution.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20457,
+    "source_ar": "يتضمن أبرز نتائج تطبيق القواعد والأحكام الأخرى ذات الصلة بتطبيقها، وما حققته من مستهدفات مسار حوكمة فاتورة الجهات شبه الحكومية، ومدى التزام الأجهزة العامة بتطبيقها، والمعوقات التي واجهتهما، والمعالجات المقترحة في شأنها، وذلك بعد مرور (3) سنوات من تاريخه.",
+    "target_en": "The report shall include the key outcomes of the implementation of the Rules and other related provisions, the realized objectives of the governance of the invoices of semi-governmental agencies, the extent of public agencies' compliance with implementation of the Rules, the obstacles the two ministries encountered, and the proposed solutions thereto.",
+    "source_ar_norm": "يتضمن ابرز نتائج تطبيق القواعد والاحكام الاخري ذات الصلة بتطبيقها، وما حققته من مستهدفات مسار حوكمة فاتورة الجهات شبه الحكومية، ومدي التزام الاجهزة العامة بتطبيقها، والمعوقات التي واجهتهما، والمعالجات المقترحة في شانها، وذلك بعد مرور (3) سنوات من تاريخه.",
+    "target_en_norm": "the report shall include the key outcomes of the implementation of the rules and other related provisions, the realized objectives of the governance of the invoices of semi-governmental agencies, the extent of public agencies' compliance with implementation of the rules, the obstacles the two ministries encountered, and the proposed solutions thereto.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20458,
+    "source_ar": "حادي عشر:",
+    "target_en": "Eleventh:",
+    "source_ar_norm": "حادي عشر:",
+    "target_en_norm": "eleventh:",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20459,
+    "source_ar": "لا يترتب على تطبيق القواعد -المشار إليها في البند (أولاً) من هذا القرار- أي أعباء مالية إضافية على الميزانية العامة للدولة للأعوام المالية القادمة.",
+    "target_en": "The implementation of the Rules, referred to in Clause (First) of this Resolution, shall not result in any additional financial burdens on the State’s budget for the coming fiscal years.",
+    "source_ar_norm": "لا يترتب علي تطبيق القواعد -المشار اليها في البند (اولا) من هذا القرار- اي اعباء مالية اضافية علي الميزانية العامة للدولة للاعوام المالية القادمة.",
+    "target_en_norm": "the implementation of the rules, referred to in clause (first) of this resolution, shall not result in any additional financial burdens on the state’s budget for the coming fiscal years.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20460,
+    "source_ar": "ثاني عشر:",
+    "target_en": "Twelfth:",
+    "source_ar_norm": "ثاني عشر:",
+    "target_en_norm": "twelfth:",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20461,
+    "source_ar": "قيام المجلس الصحي السعودي -بالاشتراك مع وزارة الموارد البشرية والتنمية الاجتماعية، ووزارة المالية- بمواءمة الدراسة القائمة لديه في شأن إعداد لائحة عمل موحدة تتضمن سلالم الرواتب والبدلات والعلاوات والمكافآت والمزايا المالية لجميع الإداريين السعوديين، والممارسين الصحيين والإداريين غير السعوديين، العاملين في قطاعات الشؤون الصحية العسكرية والمدنية، وفي الهيئات، الصادر في شأنها التوجيهان الكريمان المبلغان ببرقيتي الديوان الملكي رقم 22510 وتاريخ 24 / 4 / 1442هـ، ورقم 75105 وتاريخ 29 / 12 / 1442هـ، مع ما ورد في هذا القرار.",
+    "target_en": "The Saudi Health Council shall, in conjunction with the Ministry of Human Resources and Social Development and the Ministry of Finance, align with the provisions of this Resolution its ongoing study regarding the drafting of unified employment regulations that include salary scales, allowances, raises, bonuses, and financial benefits for all Saudi administrators, and non-Saudi healthcare practitioners and administrators, working in military and civil healthcare sectors as well as in commissions issued in their regard two directives by the King, communicated by Royal Court Telegrams No. 22510, dated 24/4/1442H, and No. 75105, dated 29/12/1442H.",
+    "source_ar_norm": "قيام المجلس الصحي السعودي -بالاشتراك مع وزارة الموارد البشرية والتنمية الاجتماعية، ووزارة المالية- بمواءمة الدراسة القائمة لديه في شان اعداد لائحة عمل موحدة تتضمن سلالم الرواتب والبدلات والعلاوات والمكافات والمزايا المالية لجميع الاداريين السعوديين، والممارسين الصحيين والاداريين غير السعوديين، العاملين في قطاعات الشؤون الصحية العسكرية والمدنية، وفي الهيئات، الصادر في شانها التوجيهان الكريمان المبلغان ببرقيتي الديوان الملكي رقم 22510 وتاريخ 24 / 4 / 1442ه، ورقم 75105 وتاريخ 29 / 12 / 1442ه، مع ما ورد في هذا القرار.",
+    "target_en_norm": "the saudi health council shall, in conjunction with the ministry of human resources and social development and the ministry of finance, align with the provisions of this resolution its ongoing study regarding the drafting of unified employment regulations that include salary scales, allowances, raises, bonuses, and financial benefits for all saudi administrators, and non-saudi healthcare practitioners and administrators, working in military and civil healthcare sectors as well as in commissions issued in their regard two directives by the king, communicated by royal court telegrams no. 22510, dated 24/4/1442h, and no. 75105, dated 29/12/1442h.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20462,
+    "source_ar": "المادة الأولى:",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي:",
+    "target_en_norm": "article 1",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20463,
+    "source_ar": "يقصد بالألفاظ والعبارات الآتية -أينما وردت في هذه القواعد- المعاني الموضحة أمامها، ما لم يقتضِ السياق غير ذلك:",
+    "target_en": "The following words and phrases, wherever used in these Rules, shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "source_ar_norm": "يقصد بالالفاظ والعبارات الاتية -اينما وردت في هذه القواعد- المعاني الموضحة امامها، ما لم يقتض السياق غير ذلك:",
+    "target_en_norm": "the following words and phrases, wherever used in these rules, shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20464,
+    "source_ar": "1-القواعد: قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم.",
+    "target_en": "1-Rules: Rules for Approving the Provisions Regulating the Affairs and Compensations of Employees of Public Agencies.",
+    "source_ar_norm": "1-القواعد: قواعد اقرار الاحكام المنظمة لشؤون العاملين في الاجهزة العامة وتعويضاتهم.",
+    "target_en_norm": "1-rules: rules for approving the provisions regulating the affairs and compensations of employees of public agencies.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20465,
+    "source_ar": "2-الجهاز: الجهاز المشمول بأحكام القواعد بناءً على المادة (الثالثة) منها.",
+    "target_en": "2-Agency: An agency covered by the provisions of these Rules pursuant to Article 3 thereof.",
+    "source_ar_norm": "2-الجهاز: الجهاز المشمول باحكام القواعد بناء علي المادة (الثالثة) منها.",
+    "target_en_norm": "2-agency: an agency covered by the provisions of these rules pursuant to article 3 thereof.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20466,
+    "source_ar": "3-المجلس: مجلس إدارة الجهاز؛ مهما كان اسمه (مجلس إدارة، أو لجنة إشرافية، أو هيئة إدارة، أو غيرها).",
+    "target_en": "3-Board: An agency’s board of directors regardless of its name (board of directors, supervisory committee, administrative body, and the like).",
+    "source_ar_norm": "3-المجلس: مجلس ادارة الجهاز؛ مهما كان اسمه (مجلس ادارة، او لجنة اشرافية، او هيئة ادارة، او غيرها).",
+    "target_en_norm": "3-board: an agency’s board of directors regardless of its name (board of directors, supervisory committee, administrative body, and the like).",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20467,
+    "source_ar": "4-الوزارة: وزارة الموارد البشرية والتنمية الاجتماعية.",
+    "target_en": "4-Ministry: Ministry of Human Resources and Social Development.",
+    "source_ar_norm": "4-الوزارة: وزارة الموارد البشرية والتنمية الاجتماعية.",
+    "target_en_norm": "4-ministry: ministry of human resources and social development.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20468,
+    "source_ar": "5-صاحب الصلاحية: المخوَّل نظاماً بصلاحية إقرار اللوائح الإدارية أو سلالم الرواتب أو البدلات والمكافآت والمزايا الأخرى للعاملين الخاضعين لنظام العمل ونظام التأمينات الاجتماعية.",
+    "target_en": "5-Authorized Person: A person authorized by law to approve administrative regulations, salary scales, allowances, bonuses, and other benefits for employees subject to the Labor Law and the Social Insurance Law.",
+    "source_ar_norm": "5-صاحب الصلاحية: المخول نظاما بصلاحية اقرار اللوائح الادارية او سلالم الرواتب او البدلات والمكافات والمزايا الاخري للعاملين الخاضعين لنظام العمل ونظام التامينات الاجتماعية.",
+    "target_en_norm": "5-authorized person: a person authorized by law to approve administrative regulations, salary scales, allowances, bonuses, and other benefits for employees subject to the labor law and the social insurance law.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20469,
+    "source_ar": "6-فريق العمل الإشرافي: فريق العمل الإشرافي المشكَّل بناءً على الفقرة (1) من المادة (الرابعة) من القواعد.",
+    "target_en": "6-Supervisory Task Force: A supervisory task force formed pursuant to Article 4(1) of these Rules.",
+    "source_ar_norm": "6-فريق العمل الاشرافي: فريق العمل الاشرافي المشكل بناء علي الفقرة (1) من المادة (الرابعة) من القواعد.",
+    "target_en_norm": "6-supervisory task force: a supervisory task force formed pursuant to article 4(1) of these rules.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20470,
+    "source_ar": "7-النماذج والمعايير والقوائم الموحدة: نموذج اللائحة الإدارية الموحد، ومعايير تصميم سلم الرواتب الوظيفي، وقائمة البدلات والمكافآت والمزايا، المعدة من فريق العمل الإشرافي، والمعتمدة من وزير المالية ووزير الموارد البشرية والتنمية الاجتماعية.",
+    "target_en": "7-Unified Templates, Standards, and Lists: The unified administrative regulations template; standards for designing salary scales; and list of allowances, bonuses, and benefits, prepared by the supervisory task force and approved by the Minister of Finance and the Minister of Human Resources and Social Development.",
+    "source_ar_norm": "7-النماذج والمعايير والقوائم الموحدة: نموذج اللائحة الادارية الموحد، ومعايير تصميم سلم الرواتب الوظيفي، وقائمة البدلات والمكافات والمزايا، المعدة من فريق العمل الاشرافي، والمعتمدة من وزير المالية ووزير الموارد البشرية والتنمية الاجتماعية.",
+    "target_en_norm": "7-unified templates, standards, and lists: the unified administrative regulations template; standards for designing salary scales; and list of allowances, bonuses, and benefits, prepared by the supervisory task force and approved by the minister of finance and the minister of human resources and social development.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20471,
+    "source_ar": "المادة الثانية:",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية:",
+    "target_en_norm": "article 2",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20472,
+    "source_ar": "تهدف القواعد إلى تنظيم ما يتصل بإعداد الجهاز للائحة الإدارية وسلم الرواتب الوظيفي والأحكام المنظمة للبدلات والمكافآت والمزايا الأخرى الخاصة بعامليه -الخاضعين لنظام العمل ونظام التأمينات الاجتماعية- وإقرارها من صاحب الصلاحية؛ بما يحقق المواءمة والانسجام وتفادي وجود أي تباين غير مسوغ في الأحكام المنظمة لشؤون العاملين وتعويضاتهم بين الأجهزة.",
+    "target_en": "These Rules aim to regulate matters related to the agency’s preparation of its administrative regulations, salary scale, and the provisions regulating allowances, bonuses, and other benefits for its employees—who are subject to the Labor Law and the Social Insurance Law—and the approval of the same by the authorized person, in a manner that ensures alignment and consistency, and avoids any unjustified discrepancy in the provisions regulating the affairs of employees and their compensations across agencies.",
+    "source_ar_norm": "تهدف القواعد الي تنظيم ما يتصل باعداد الجهاز للائحة الادارية وسلم الرواتب الوظيفي والاحكام المنظمة للبدلات والمكافات والمزايا الاخري الخاصة بعامليه -الخاضعين لنظام العمل ونظام التامينات الاجتماعية- واقرارها من صاحب الصلاحية؛ بما يحقق المواءمة والانسجام وتفادي وجود اي تباين غير مسوغ في الاحكام المنظمة لشؤون العاملين وتعويضاتهم بين الاجهزة.",
+    "target_en_norm": "these rules aim to regulate matters related to the agency’s preparation of its administrative regulations, salary scale, and the provisions regulating allowances, bonuses, and other benefits for its employees—who are subject to the labor law and the social insurance law—and the approval of the same by the authorized person, in a manner that ensures alignment and consistency, and avoids any unjustified discrepancy in the provisions regulating the affairs of employees and their compensations across agencies.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20473,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article 3",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20474,
+    "source_ar": "تسري القواعد على جميع الأجهزة العامة من وزارات وهيئات ومؤسـسات عامة ومراكز وصناديق ومكاتب وبرامج، وغيرها من الأجهزة ذات الصفة المعنوية العامة -سواء كانت مشمولة بالميزانية العامة للدولة أو خارجها- وما ينشأ منها مستقبلاً، التي يكون لديها عاملون خاضعون لنظام العمل ونظام التأمينات الاجتماعية.",
+    "target_en": "These Rules shall apply to all public agencies, including ministries, authorities, public institutions, centers, funds, offices, programs, and other agencies with legal public personality, whether or not included in the State's general budget, as well as any agency that may be established in the future that have employees subject to the Labor Law and the Social Insurance Law.",
+    "source_ar_norm": "تسري القواعد علي جميع الاجهزة العامة من وزارات وهيئات ومؤسسات عامة ومراكز وصناديق ومكاتب وبرامج، وغيرها من الاجهزة ذات الصفة المعنوية العامة -سواء كانت مشمولة بالميزانية العامة للدولة او خارجها- وما ينشا منها مستقبلا، التي يكون لديها عاملون خاضعون لنظام العمل ونظام التامينات الاجتماعية.",
+    "target_en_norm": "these rules shall apply to all public agencies, including ministries, authorities, public institutions, centers, funds, offices, programs, and other agencies with legal public personality, whether or not included in the state's general budget, as well as any agency that may be established in the future that have employees subject to the labor law and the social insurance law.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20475,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article 4",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20476,
+    "source_ar": "1- يُشكَّل فريق عمل إشرافي مكون من: (الوزارة، ووزارة المالية) يتولى الإشراف على تنفيذ القواعد في الأجهزة المشمولة بأحكامها.",
+    "target_en": "1. A supervisory task force consisting of the Ministry of Human Resources and Social Development and the Ministry of Finance shall be formed to supervise the implementation of these Rules in the agencies subject to their provisions.",
+    "source_ar_norm": "1- يشكل فريق عمل اشرافي مكون من: (الوزارة، ووزارة المالية) يتولي الاشراف علي تنفيذ القواعد في الاجهزة المشمولة باحكامها.",
+    "target_en_norm": "1. a supervisory task force consisting of the ministry of human resources and social development and the ministry of finance shall be formed to supervise the implementation of these rules in the agencies subject to their provisions.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20477,
+    "source_ar": "وله على وجه خاص ما يلي:",
+    "target_en": "Specifically, the task force shall have the following powers:",
+    "source_ar_norm": "وله علي وجه خاص ما يلي:",
+    "target_en_norm": "specifically, the task force shall have the following powers:",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20478,
+    "source_ar": "أ- إعداد نموذج اللائحة الإدارية الموحد، يشتمل على الأحكام المنظمة لشؤون العاملين في الجهاز، المشمولين بنظام العمل ونظام التأمينات الاجتماعية، وذلك دون إخلال بالأحكام النظامية ذات الصلة.",
+    "target_en": "a) Preparing a unified administrative regulations template, which includes provisions regulating the affairs of the agency's employees who are subject to the Labor Law and the Social Insurance Law, without prejudice to relevant statutory provisions.",
+    "source_ar_norm": "ا- اعداد نموذج اللائحة الادارية الموحد، يشتمل علي الاحكام المنظمة لشؤون العاملين في الجهاز، المشمولين بنظام العمل ونظام التامينات الاجتماعية، وذلك دون اخلال بالاحكام النظامية ذات الصلة.",
+    "target_en_norm": "a) preparing a unified administrative regulations template, which includes provisions regulating the affairs of the agency's employees who are subject to the labor law and the social insurance law, without prejudice to relevant statutory provisions.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20479,
+    "source_ar": "ب- تحديد قائمة البدلات والمكافآت والمزايا الأخرى للعاملين في الجهاز، تشتمل على أوصافها وقيمها، ومستوى الوظائف المستحق لكل منها.",
+    "target_en": "b) Determining the list of allowances, bonuses, and other benefits for the agency’s employees, including their descriptions, values, and the job levels eligible for each.",
+    "source_ar_norm": "ب- تحديد قائمة البدلات والمكافات والمزايا الاخري للعاملين في الجهاز، تشتمل علي اوصافها وقيمها، ومستوي الوظائف المستحق لكل منها.",
+    "target_en_norm": "b) determining the list of allowances, bonuses, and other benefits for the agency’s employees, including their descriptions, values, and the job levels eligible for each.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20480,
+    "source_ar": "ج- وضع معايير تصميم سلم الرواتب الوظيفي، تشتمل على تحديد الدرجات الوظيفية بحسب حجم الجهاز، وتحديد الحد الأدنى والحد المتوسط والحد الأعلى لكل درجة وظيفية، والفرق بين الحد الأدنى والحد الأعلى للراتب الأساسي في الدرجة الوظيفية، والمعايير الأخرى التي يجب اتباعها في تصميم السلم.",
+    "target_en": "c) Setting standards for designing salary scales, including defining job grades based on the size of the agency, determining the minimum, median, and maximum salary for each grade, specifying the difference between the minimum and maximum basic salary within each grade, and identifying other standards that must be followed in designing the scale.",
+    "source_ar_norm": "ج- وضع معايير تصميم سلم الرواتب الوظيفي، تشتمل علي تحديد الدرجات الوظيفية بحسب حجم الجهاز، وتحديد الحد الادني والحد المتوسط والحد الاعلي لكل درجة وظيفية، والفرق بين الحد الادني والحد الاعلي للراتب الاساسي في الدرجة الوظيفية، والمعايير الاخري التي يجب اتباعها في تصميم السلم.",
+    "target_en_norm": "c) setting standards for designing salary scales, including defining job grades based on the size of the agency, determining the minimum, median, and maximum salary for each grade, specifying the difference between the minimum and maximum basic salary within each grade, and identifying other standards that must be followed in designing the scale.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20481,
+    "source_ar": "د- إعداد السقوف الإلزامية القصوى لأجور الفئات الوظيفية في الجهاز.",
+    "target_en": "d) Setting the mandatory wage ceilings for job categories within the agency.",
+    "source_ar_norm": "د- اعداد السقوف الالزامية القصوي لاجور الفئات الوظيفية في الجهاز.",
+    "target_en_norm": "d) setting the mandatory wage ceilings for job categories within the agency.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20482,
+    "source_ar": "هـ- إعداد نموذج عقد العمل الموحد، بما يتفق مع الأحكام النظامية ذات الصلة.",
+    "target_en": "e) Preparing a unified employment contract form in a manner not inconsistent with the relevant statutory provisions.",
+    "source_ar_norm": "ه- اعداد نموذج عقد العمل الموحد، بما يتفق مع الاحكام النظامية ذات الصلة.",
+    "target_en_norm": "e) preparing a unified employment contract form in a manner not inconsistent with the relevant statutory provisions.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20483,
+    "source_ar": "و- إعداد آلية تحديد راتب المسؤول الأول في الجهاز، ومزاياه المالية الأخرى.",
+    "target_en": "f) Establishing a mechanism for determining the salary and other financial benefits of the highest official in the agency.",
+    "source_ar_norm": "و- اعداد الية تحديد راتب المسؤول الاول في الجهاز، ومزاياه المالية الاخري.",
+    "target_en_norm": "f) establishing a mechanism for determining the salary and other financial benefits of the highest official in the agency.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20484,
+    "source_ar": "ولأغراض تطبيق هذه الفقرة يقصد بالمسؤول الأول في الجهاز: (المحافظ، الرئيس التنفيذي، الرئيس، المدير، الأمين، المشرف، وغيرهم) الخاضع لنظام العمل ونظام التأمينات الاجتماعية.",
+    "target_en": "For the purposes of applying this paragraph, ‘highest official’ in the agency refers to (governor, chief executive officer, president, director, secretary-general, supervisor, and others) who are subject to the Labor Law and the Social Insurance Law.",
+    "source_ar_norm": "ولاغراض تطبيق هذه الفقرة يقصد بالمسؤول الاول في الجهاز: (المحافظ، الرئيس التنفيذي، الرئيس، المدير، الامين، المشرف، وغيرهم) الخاضع لنظام العمل ونظام التامينات الاجتماعية.",
+    "target_en_norm": "for the purposes of applying this paragraph, ‘highest official’ in the agency refers to (governor, chief executive officer, president, director, secretary-general, supervisor, and others) who are subject to the labor law and the social insurance law.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20485,
+    "source_ar": "ز- مراجعة الوثائق المشار إليها في الفقرات الفرعية (أ) و(ب) و(ج) و(د) و(هـ) و(و) من الفقرة (1) من هذه المادة، واقتراح تعديلها، كلما دعت الحاجة.",
+    "target_en": "g) Reviewing the documents referred to in sub-paragraphs (a), (b), (c), (d), (e) and (f) of paragraph (1) of this Article, and propose amendments thereto as necessary.",
+    "source_ar_norm": "ز- مراجعة الوثائق المشار اليها في الفقرات الفرعية (ا) و(ب) و(ج) و(د) و(ه) و(و) من الفقرة (1) من هذه المادة، واقتراح تعديلها، كلما دعت الحاجة.",
+    "target_en_norm": "g) reviewing the documents referred to in sub-paragraphs (a), (b), (c), (d), (e) and (f) of paragraph (1) of this article, and propose amendments thereto as necessary.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20486,
+    "source_ar": "2- يضع فريق العمل الإشرافي إجراءات تُنظم عمله، وآليات مراجعة وتعديل الوثائق المشار إليها في الفقرة (1) من هذه المادة.",
+    "target_en": "2. The supervisory task force shall establish the procedures that regulate its work and the mechanisms for reviewing and amending the documents referred to in paragraph (1) of this Article.",
+    "source_ar_norm": "2- يضع فريق العمل الاشرافي اجراءات تنظم عمله، واليات مراجعة وتعديل الوثائق المشار اليها في الفقرة (1) من هذه المادة.",
+    "target_en_norm": "2. the supervisory task force shall establish the procedures that regulate its work and the mechanisms for reviewing and amending the documents referred to in paragraph (1) of this article.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20487,
+    "source_ar": "3- تعتمد مخرجات فريق العمل الإشرافي، المشار إليها في الفقرتين (1) و(2) من هذه المادة، من قبل وزير المالية ووزير الموارد البشرية والتنمية الاجتماعية.",
+    "target_en": "3. The outputs of the supervisory task force, referred to in paragraphs (1) and (2) of this Article, shall be approved by the Minister of Finance and the Minister of Human Resources and Social Development.",
+    "source_ar_norm": "3- تعتمد مخرجات فريق العمل الاشرافي، المشار اليها في الفقرتين (1) و(2) من هذه المادة، من قبل وزير المالية ووزير الموارد البشرية والتنمية الاجتماعية.",
+    "target_en_norm": "3. the outputs of the supervisory task force, referred to in paragraphs (1) and (2) of this article, shall be approved by the minister of finance and the minister of human resources and social development.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20488,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article 5",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20489,
+    "source_ar": "على الجهاز الذي ينص نظامه أو تنظيمه أو ترتيباته التنظيمية أو أي وثيقة نظامية أخرى على أن تكون له لائحة إدارية وسلالم رواتب وبدلات ومكافآت، ومزايا أخرى، لعامليه الخاضعين لنظام العمل ونظام التأمينات الاجتماعية؛ الالتزام بالنماذج والمعايير والقوائم الموحدة.",
+    "target_en": "Any agency whose law, statute, regulatory arrangements, or any other statutory document stipulates that it shall have administrative regulations, salary scales, allowances, bonuses, and other benefits for its employees who are subject to the Labor Law and the Social Insurance Law, shall comply with the unified templates, standards and lists.",
+    "source_ar_norm": "علي الجهاز الذي ينص نظامه او تنظيمه او ترتيباته التنظيمية او اي وثيقة نظامية اخري علي ان تكون له لائحة ادارية وسلالم رواتب وبدلات ومكافات، ومزايا اخري، لعامليه الخاضعين لنظام العمل ونظام التامينات الاجتماعية؛ الالتزام بالنماذج والمعايير والقوائم الموحدة.",
+    "target_en_norm": "any agency whose law, statute, regulatory arrangements, or any other statutory document stipulates that it shall have administrative regulations, salary scales, allowances, bonuses, and other benefits for its employees who are subject to the labor law and the social insurance law, shall comply with the unified templates, standards and lists.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20490,
+    "source_ar": "وللجهاز التنسيق فيما يلزم حيال ذلك مع الوزارة.",
+    "target_en": "Such agency shall coordinate with the Ministry in this regard if required.",
+    "source_ar_norm": "وللجهاز التنسيق فيما يلزم حيال ذلك مع الوزارة.",
+    "target_en_norm": "such agency shall coordinate with the ministry in this regard if required.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20491,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article 6",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20492,
+    "source_ar": "1- على الجهاز الذي لديه متعاقدون من خلال برامج أو بنود التشغيل أو من خلال أي نمط آخر يُستخدم للتعاقد، إعداد لائحة إدارية مشتملةً على البدلات والمكافآت والمزايا الأخرى، وسلم رواتب للعاملين المتعاقد معهم من خلال تلك الأنماط في الجهاز.",
+    "target_en": "1. Any agency that employs individuals through operation programs, operation-based employment contracts, or any other contracting method shall prepare administrative regulations that include allowances, bonuses, and other benefits, as well as a salary scale for employees contracted by the agency through such methods.",
+    "source_ar_norm": "1- علي الجهاز الذي لديه متعاقدون من خلال برامج او بنود التشغيل او من خلال اي نمط اخر يستخدم للتعاقد، اعداد لائحة ادارية مشتملة علي البدلات والمكافات والمزايا الاخري، وسلم رواتب للعاملين المتعاقد معهم من خلال تلك الانماط في الجهاز.",
+    "target_en_norm": "1. any agency that employs individuals through operation programs, operation-based employment contracts, or any other contracting method shall prepare administrative regulations that include allowances, bonuses, and other benefits, as well as a salary scale for employees contracted by the agency through such methods.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20493,
+    "source_ar": "مع الالتزام بالنماذج والمعايير والقوائم الموحدة، وللجهاز التنسيق فيما يلزم حيال ذلك مع الوزارة.",
+    "target_en": "The agency shall comply with the unified templates, standards, and lists, and coordinate with the Ministry in this regard if required.",
+    "source_ar_norm": "مع الالتزام بالنماذج والمعايير والقوائم الموحدة، وللجهاز التنسيق فيما يلزم حيال ذلك مع الوزارة.",
+    "target_en_norm": "the agency shall comply with the unified templates, standards, and lists, and coordinate with the ministry in this regard if required.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20494,
+    "source_ar": "2- تكون صلاحية إقرار اللائحة الإدارية وسلم رواتب العاملين، المشار إليهما في الفقرة (1) من هذه المادة -فيما لم يرد به نص نظامي- للمجلس أو الوزير المختص بحسب الأحوال.",
+    "target_en": "2. The authority to approve the administrative regulations and salary scale for employees, referred to in paragraph (1) of this Article, where no statutory provision exists, shall lie with the board or the competent minister, as the case may be.",
+    "source_ar_norm": "2- تكون صلاحية اقرار اللائحة الادارية وسلم رواتب العاملين، المشار اليهما في الفقرة (1) من هذه المادة -فيما لم يرد به نص نظامي- للمجلس او الوزير المختص بحسب الاحوال.",
+    "target_en_norm": "2. the authority to approve the administrative regulations and salary scale for employees, referred to in paragraph (1) of this article, where no statutory provision exists, shall lie with the board or the competent minister, as the case may be.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20495,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article 7",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20496,
+    "source_ar": "1- على الجهاز قبل إقرار لائحته الإدارية أو سلالم رواتب أو بدلات أو مكافآت، أو مزايا أخرى، لعامليه، أو إقرار تعديل أي منها من قبل صاحب الصلاحية؛ تزويد الوزارة بها، مرافقاً لها جميع المسوغات والدراسات التي تمت في هذا الشأن.",
+    "target_en": "1. An agency shall, prior to the approval of its administrative regulations, salary scales, allowances, bonuses, or other benefits for its employees, or any amendments thereto by the authorized person, provide the Ministry with such documents, along with all relevant justifications and studies conducted in this regard.",
+    "source_ar_norm": "1- علي الجهاز قبل اقرار لائحته الادارية او سلالم رواتب او بدلات او مكافات، او مزايا اخري، لعامليه، او اقرار تعديل اي منها من قبل صاحب الصلاحية؛ تزويد الوزارة بها، مرافقا لها جميع المسوغات والدراسات التي تمت في هذا الشان.",
+    "target_en_norm": "1. an agency shall, prior to the approval of its administrative regulations, salary scales, allowances, bonuses, or other benefits for its employees, or any amendments thereto by the authorized person, provide the ministry with such documents, along with all relevant justifications and studies conducted in this regard.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20497,
+    "source_ar": "2- تقوم الوزارة بمراجعة ما يردها من الجهاز بناءً على الفقرة (1) من هذه المادة، والتحقق من مدى توافقه مع ما ورد في المادة (الخامسة) أو المادة (السادسة) من القواعد بحسب الأحوال.",
+    "target_en": "2. The Ministry shall review the documents it receives from the agency pursuant to paragraph (1) of this Article, and verify their compliance with the provisions of Article 5 or Article 6 of these Rules, as applicable.",
+    "source_ar_norm": "2- تقوم الوزارة بمراجعة ما يردها من الجهاز بناء علي الفقرة (1) من هذه المادة، والتحقق من مدي توافقه مع ما ورد في المادة (الخامسة) او المادة (السادسة) من القواعد بحسب الاحوال.",
+    "target_en_norm": "2. the ministry shall review the documents it receives from the agency pursuant to paragraph (1) of this article, and verify their compliance with the provisions of article 5 or article 6 of these rules, as applicable.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20498,
+    "source_ar": "وفي حال تبيّن للوزارة توافقه مع ما ورد فيهما، تقوم بإبلاغ الجهاز بالنتيجة؛ لاستكمال الإجراءات اللازمة لإقراره من قبل صاحب الصلاحية.",
+    "target_en": "If the Ministry determines that said documents are in compliance, it shall notify the agency of the result in order to complete the procedures necessary for approval by the authorized person.",
+    "source_ar_norm": "وفي حال تبين للوزارة توافقه مع ما ورد فيهما، تقوم بابلاغ الجهاز بالنتيجة؛ لاستكمال الاجراءات اللازمة لاقراره من قبل صاحب الصلاحية.",
+    "target_en_norm": "if the ministry determines that said documents are in compliance, it shall notify the agency of the result in order to complete the procedures necessary for approval by the authorized person.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20499,
+    "source_ar": "3- في حال تبيّن للوزارة أن ما وردها من الجهاز بناءً على الفقرة (1) من هذه المادة يخرج عما ورد في المادة (الخامسة) أو المادة (السادسة) من القواعد بحسب الأحوال، ورأت أن ذلك يستدعي الدراسة، فتحيل الموضوع إلى فريق العمل الإشرافي؛ لدراسته، وإبداء الرأي فيه.",
+    "target_en": "3. If the Ministry determines that the documents received from the agency, pursuant to paragraph (1) of this Article, do not comply with the provisions of Article 5 or Article 6 of these Rules, as applicable, and deems that further study is required, it shall refer the matter to the supervisory task force for review and recommendation.",
+    "source_ar_norm": "3- في حال تبين للوزارة ان ما وردها من الجهاز بناء علي الفقرة (1) من هذه المادة يخرج عما ورد في المادة (الخامسة) او المادة (السادسة) من القواعد بحسب الاحوال، ورات ان ذلك يستدعي الدراسة، فتحيل الموضوع الي فريق العمل الاشرافي؛ لدراسته، وابداء الراي فيه.",
+    "target_en_norm": "3. if the ministry determines that the documents received from the agency, pursuant to paragraph (1) of this article, do not comply with the provisions of article 5 or article 6 of these rules, as applicable, and deems that further study is required, it shall refer the matter to the supervisory task force for review and recommendation.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  },
+  {
+    "id": 20500,
+    "source_ar": "ورفع ذلك إلى وزير المالية ووزير الموارد البشرية والتنمية الاجتماعية؛ للبت في ذلك.",
+    "target_en": "The task force findings shall be submitted to the Minister of Finance and the Minister of Human Resources and Social Development for a decision.",
+    "source_ar_norm": "ورفع ذلك الي وزير المالية ووزير الموارد البشرية والتنمية الاجتماعية؛ للبت في ذلك.",
+    "target_en_norm": "the task force findings shall be submitted to the minister of finance and the minister of human resources and social development for a decision.",
+    "file_name": "قواعد إقرار الأحكام المنظمة لشؤون العاملين في الأجهزة العامة وتعويضاتهم لعام 1444هـ.docx"
+  }
+]

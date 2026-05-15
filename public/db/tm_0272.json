@@ -1,0 +1,802 @@
+[
+  {
+    "id": 27101,
+    "source_ar": "إذا كانت لمعين موجود وقت الوصية أو حملاً علم وجوده.",
+    "target_en": "1. a specified person who exists at the time the bequest is made or for an unborn child whose existence is known;",
+    "source_ar_norm": "اذا كانت لمعين موجود وقت الوصية او حملا علم وجوده.",
+    "target_en_norm": "1. a specified person who exists at the time the bequest is made or for an unborn child whose existence is known;",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27102,
+    "source_ar": "إذا كانت لفئة محصورة، أو غير محصورة.",
+    "target_en": "2. a specified or unspecified class;",
+    "source_ar_norm": "اذا كانت لفئة محصورة، او غير محصورة.",
+    "target_en_norm": "2. a specified or unspecified class;",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27103,
+    "source_ar": "إذا كانت لشخص اعتباري تجيز الأحكام المنظمة له قبول الوصايا.",
+    "target_en": "3. a legal person the regulations of which permit the acceptance of bequests;",
+    "source_ar_norm": "اذا كانت لشخص اعتباري تجيز الاحكام المنظمة له قبول الوصايا.",
+    "target_en_norm": "3. a legal person the regulations of which permit the acceptance of bequests;",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27104,
+    "source_ar": "إذا كانت لمسجد أو وقف.",
+    "target_en": "4. a mosque or an endowment; or",
+    "source_ar_norm": "اذا كانت لمسجد او وقف.",
+    "target_en_norm": "4. a mosque or an endowment; or",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27105,
+    "source_ar": "إذا كانت مطلقة لله تعالى، أو لوجوه البر، وتصرف جميعها في وجوه البر.",
+    "target_en": "5. the sake of Allah or for charitable purposes, and is entirely dispensed for such purposes.",
+    "source_ar_norm": "اذا كانت مطلقة لله تعالي، او لوجوه البر، وتصرف جميعها في وجوه البر.",
+    "target_en_norm": "5. the sake of allah or for charitable purposes, and is entirely dispensed for such purposes.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27106,
+    "source_ar": "وفي جميع الأحوال تخضع الوصايا وقبولها إذا كان الموصى له خارج المملكة، للأحكام المنظمة لذلك.",
+    "target_en": "In all cases, bequests and acceptance thereof shall be subject to applicable provisions if the legatee resides outside the Kingdom.",
+    "source_ar_norm": "وفي جميع الاحوال تخضع الوصايا وقبولها اذا كان الموصي له خارج المملكة، للاحكام المنظمة لذلك.",
+    "target_en_norm": "in all cases, bequests and acceptance thereof shall be subject to applicable provisions if the legatee resides outside the kingdom.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27107,
+    "source_ar": "المادة الحادية والثمانون بعد المائة",
+    "target_en": "Article 181",
+    "source_ar_norm": "المادة الحادية والثمانون بعد المائة",
+    "target_en_norm": "article 181",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27108,
+    "source_ar": "تكون الوصية لازمة بحسب الموصى له على النحو الآتي:",
+    "target_en": "Fulfillment of a bequest, with regard to the legatee, shall be subject to the following:",
+    "source_ar_norm": "تكون الوصية لازمة بحسب الموصي له علي النحو الاتي:",
+    "target_en_norm": "fulfillment of a bequest, with regard to the legatee, shall be subject to the following:",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27109,
+    "source_ar": "إذا كانت لشخص طبيعي معين وفئة محصورة فبالقبول لها بعد وفاة الموصي، وينتقل الملك للموصى له من وقت القبول.",
+    "target_en": "1. If made for a specified natural person or a specified class, a bequest shall be fulfilled by acceptance following the testator’s death; in such case, ownership of the bequest shall be transferred to the legatee from the date of acceptance.",
+    "source_ar_norm": "اذا كانت لشخص طبيعي معين وفئة محصورة فبالقبول لها بعد وفاة الموصي، وينتقل الملك للموصي له من وقت القبول.",
+    "target_en_norm": "1. if made for a specified natural person or a specified class, a bequest shall be fulfilled by acceptance following the testator’s death; in such case, ownership of the bequest shall be transferred to the legatee from the date of acceptance.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27110,
+    "source_ar": "إذا كانت لقاصر، فبقبول الولي لها.",
+    "target_en": "2. If made for an incompetent person, a bequest shall be fulfilled by the guardian’s acceptance.",
+    "source_ar_norm": "اذا كانت لقاصر، فبقبول الولي لها.",
+    "target_en_norm": "2. if made for an incompetent person, a bequest shall be fulfilled by the guardian’s acceptance.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27111,
+    "source_ar": "إذا كانت مطلقة لله تعالى، أو لوجوه البر، أو لفئة غير محصورة؛ فتلزم الوصية بوفاة الموصي بلا قبول.",
+    "target_en": "3. If made for the sake of Allah, for charitable purposes, or for an unspecified class, a bequest shall be fulfilled without acceptance upon the testator’s death.",
+    "source_ar_norm": "اذا كانت مطلقة لله تعالي، او لوجوه البر، او لفئة غير محصورة؛ فتلزم الوصية بوفاة الموصي بلا قبول.",
+    "target_en_norm": "3. if made for the sake of allah, for charitable purposes, or for an unspecified class, a bequest shall be fulfilled without acceptance upon the testator’s death.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27112,
+    "source_ar": "إذا كانت لشخص اعتباري، فبعد موافقة من يملك حق قبولها وفقاً للأحكام المنظمة لذلك.",
+    "target_en": "4. If made for a legal person, a bequest shall be fulfilled by the acceptance of the person entitled to accept it in accordance with applicable provisions.",
+    "source_ar_norm": "اذا كانت لشخص اعتباري، فبعد موافقة من يملك حق قبولها وفقا للاحكام المنظمة لذلك.",
+    "target_en_norm": "4. if made for a legal person, a bequest shall be fulfilled by the acceptance of the person entitled to accept it in accordance with applicable provisions.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27113,
+    "source_ar": "إذا كانت لمسجد فبعد موافقة الجهة المشرفة، وإذا كانت لوقف فبعد موافقة ناظره.",
+    "target_en": "5. If made for a mosque, a bequest shall be fulfilled by the acceptance of the supervising entity, and if made for an endowment, it shall be fulfilled by the acceptance of its administrator.",
+    "source_ar_norm": "اذا كانت لمسجد فبعد موافقة الجهة المشرفة، واذا كانت لوقف فبعد موافقة ناظره.",
+    "target_en_norm": "5. if made for a mosque, a bequest shall be fulfilled by the acceptance of the supervising entity, and if made for an endowment, it shall be fulfilled by the acceptance of its administrator.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27114,
+    "source_ar": "المادة الثانية والثمانون بعد المائة",
+    "target_en": "Article 182",
+    "source_ar_norm": "المادة الثانية والثمانون بعد المائة",
+    "target_en_norm": "article 182",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27115,
+    "source_ar": "للموصى له كامل الأهلية رد الوصية أو بعضها بعد وفاة الموصي.",
+    "target_en": "1. A bequest or part thereof may be rejected by a competent legatee after the testator’s death.",
+    "source_ar_norm": "للموصي له كامل الاهلية رد الوصية او بعضها بعد وفاة الموصي.",
+    "target_en_norm": "1. a bequest or part thereof may be rejected by a competent legatee after the testator’s death.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27116,
+    "source_ar": "لولي القاصر رد الوصية أو بعضها بإذن المحكمة.",
+    "target_en": "2. A bequest or part thereof may be rejected by the guardian of an incompetent person with the permission of the court.",
+    "source_ar_norm": "لولي القاصر رد الوصية او بعضها باذن المحكمة.",
+    "target_en_norm": "2. a bequest or part thereof may be rejected by the guardian of an incompetent person with the permission of the court.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27117,
+    "source_ar": "للشخص الاعتباري، رد الوصية أو بعضها ممن يملك حق ردها وفقاً للأحكام المنظمة لذلك.",
+    "target_en": "3. A bequest or part thereof that is bequeathed to a legal person may be rejected by the person entitled to reject it in accordance with applicable provisions.",
+    "source_ar_norm": "للشخص الاعتباري، رد الوصية او بعضها ممن يملك حق ردها وفقا للاحكام المنظمة لذلك.",
+    "target_en_norm": "3. a bequest or part thereof that is bequeathed to a legal person may be rejected by the person entitled to reject it in accordance with applicable provisions.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27118,
+    "source_ar": "إذا كانت لمسجد فللجهة المشرفة رد الوصية أو بعضها، وإذا كانت لوقف فلناظره.",
+    "target_en": "4. A bequest made for a mosque or an endowment may be rejected in whole or in part by the mosque’s supervising entity or the endowment’s administrator.",
+    "source_ar_norm": "اذا كانت لمسجد فللجهة المشرفة رد الوصية او بعضها، واذا كانت لوقف فلناظره.",
+    "target_en_norm": "4. a bequest made for a mosque or an endowment may be rejected in whole or in part by the mosque’s supervising entity or the endowment’s administrator.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27119,
+    "source_ar": "المادة الثالثة والثمانون بعد المائة",
+    "target_en": "Article 183",
+    "source_ar_norm": "المادة الثالثة والثمانون بعد المائة",
+    "target_en_norm": "article 183",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27120,
+    "source_ar": "لا يشترط لقبول الوصية أو ردها أن يكون فور وفاة الموصي.",
+    "target_en": "1. The acceptance or rejection of a bequest shall not necessarily be made immediately after a testator’s death.",
+    "source_ar_norm": "لا يشترط لقبول الوصية او ردها ان يكون فور وفاة الموصي.",
+    "target_en_norm": "1. the acceptance or rejection of a bequest shall not necessarily be made immediately after a testator’s death.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27121,
+    "source_ar": "إذا لم يُبدِ الموصى له القبول أو الرد، فلكل من له حق في الإرث أو الوصية أو تنفيذها التقدم إلى المحكمة بطلب إعذار الموصى له، وتحدد له المحكمة أجلاً للقبول لا يزيد على (ثلاثين) يوماً من تاريخ إعذاره، فإن لم يُجب ولم يكن له عذر تقبله المحكمة فيُعد راداً لها، وإذا كان الموصى له شخصاً اعتباريًّا فتقدر المحكمة المدة المناسبة لإبداء القبول أو الرد.",
+    "target_en": "2. If a legatee fails to accept or reject a bequest, any person entitled to the inheritance or bequest or the execution thereof may petition the court to deliver a notice to this effect to the legatee. The court shall grant the legatee a grace period not exceeding 30 days from the date of said notice to accept the bequest. If the legatee fails to respond and does not provide the court with an acceptable justification, the legatee shall be deemed to have rejected the bequest. If the legatee is a legal person, the court shall determine the appropriate period for acceptance or rejection.",
+    "source_ar_norm": "اذا لم يبد الموصي له القبول او الرد، فلكل من له حق في الارث او الوصية او تنفيذها التقدم الي المحكمة بطلب اعذار الموصي له، وتحدد له المحكمة اجلا للقبول لا يزيد علي (ثلاثين) يوما من تاريخ اعذاره، فان لم يجب ولم يكن له عذر تقبله المحكمة فيعد رادا لها، واذا كان الموصي له شخصا اعتباريا فتقدر المحكمة المدة المناسبة لابداء القبول او الرد.",
+    "target_en_norm": "2. if a legatee fails to accept or reject a bequest, any person entitled to the inheritance or bequest or the execution thereof may petition the court to deliver a notice to this effect to the legatee. the court shall grant the legatee a grace period not exceeding 30 days from the date of said notice to accept the bequest. if the legatee fails to respond and does not provide the court with an acceptable justification, the legatee shall be deemed to have rejected the bequest. if the legatee is a legal person, the court shall determine the appropriate period for acceptance or rejection.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27122,
+    "source_ar": "المادة الرابعة والثمانون بعد المائة",
+    "target_en": "Article 184",
+    "source_ar_norm": "المادة الرابعة والثمانون بعد المائة",
+    "target_en_norm": "article 184",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27123,
+    "source_ar": "إذا مات الموصى له بعد وفاة الموصي وقبل قبول الوصية أو ردها، انتقل الحق في القبول أو الرد إلى ورثة الموصى له بقدر حصة كل وارث في الوصية.",
+    "target_en": "If a legatee dies after the death of a testator prior to accepting or rejecting the bequest, the right to accept or reject the bequest shall transfer to his heirs, each according to his share in the bequest.",
+    "source_ar_norm": "اذا مات الموصي له بعد وفاة الموصي وقبل قبول الوصية او ردها، انتقل الحق في القبول او الرد الي ورثة الموصي له بقدر حصة كل وارث في الوصية.",
+    "target_en_norm": "if a legatee dies after the death of a testator prior to accepting or rejecting the bequest, the right to accept or reject the bequest shall transfer to his heirs, each according to his share in the bequest.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27124,
+    "source_ar": "المادة الخامسة والثمانون بعد المائة",
+    "target_en": "Article 185",
+    "source_ar_norm": "المادة الخامسة والثمانون بعد المائة",
+    "target_en_norm": "article 185",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27125,
+    "source_ar": "إذا أوصى الموصي لفئة غير محصورة، أو لشخص اعتباري، أو لوقف، أو لوجه معين من وجوه البر، ولم تعد هذه الجهات موجودة أو انقطعت قبل التملك؛ فتصرف الوصية -بعد موافقة المحكمة- في أقرب جهة مشابهة لها.",
+    "target_en": "If a testator makes a bequest to an unspecified class, a legal person, an endowment, or a specific charitable purpose, and such beneficiaries no longer exist prior to the acquisition, the bequest shall, upon the court’s approval, be allocated to the most similar beneficiary.",
+    "source_ar_norm": "اذا اوصي الموصي لفئة غير محصورة، او لشخص اعتباري، او لوقف، او لوجه معين من وجوه البر، ولم تعد هذه الجهات موجودة او انقطعت قبل التملك؛ فتصرف الوصية -بعد موافقة المحكمة- في اقرب جهة مشابهة لها.",
+    "target_en_norm": "if a testator makes a bequest to an unspecified class, a legal person, an endowment, or a specific charitable purpose, and such beneficiaries no longer exist prior to the acquisition, the bequest shall, upon the court’s approval, be allocated to the most similar beneficiary.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27126,
+    "source_ar": "المادة السادسة والثمانون بعد المائة",
+    "target_en": "Article 186",
+    "source_ar_norm": "المادة السادسة والثمانون بعد المائة",
+    "target_en_norm": "article 186",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27127,
+    "source_ar": "إذا كانت الوصية لفئة غير محصورة، فلمن له تنفيذها تقدير توزيعها على الموصى لهم، مع مراعاة تقديم المحتاجين منهم دون التقيد بالتعميم أو المساواة، ما لم تتضمن الوصية خلاف ذلك.",
+    "target_en": "If a bequest is made to an unspecified class, the person responsible for the execution thereof may, at his discretion, distribute the bequest among the legatees, provided that priority is given to those in need without regard to equal distribution, unless the will stipulates otherwise.",
+    "source_ar_norm": "اذا كانت الوصية لفئة غير محصورة، فلمن له تنفيذها تقدير توزيعها علي الموصي لهم، مع مراعاة تقديم المحتاجين منهم دون التقيد بالتعميم او المساواة، ما لم تتضمن الوصية خلاف ذلك.",
+    "target_en_norm": "if a bequest is made to an unspecified class, the person responsible for the execution thereof may, at his discretion, distribute the bequest among the legatees, provided that priority is given to those in need without regard to equal distribution, unless the will stipulates otherwise.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27128,
+    "source_ar": "المادة السابعة والثمانون بعد المائة",
+    "target_en": "Article 187",
+    "source_ar_norm": "المادة السابعة والثمانون بعد المائة",
+    "target_en_norm": "article 187",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27129,
+    "source_ar": "إذا تعدد الموصى لهم في وصية واحدة -أو في أكثر من وصية- ولم يحدد نصيب كل واحد منهم، فيكون توزيع الوصية وفق الآتي:",
+    "target_en": "If multiple legatees of the same bequest, or of more than one bequest, exist and the share of each legatee is not specified, the bequest shall be distributed as follows:",
+    "source_ar_norm": "اذا تعدد الموصي لهم في وصية واحدة -او في اكثر من وصية- ولم يحدد نصيب كل واحد منهم، فيكون توزيع الوصية وفق الاتي:",
+    "target_en_norm": "if multiple legatees of the same bequest, or of more than one bequest, exist and the share of each legatee is not specified, the bequest shall be distributed as follows:",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27130,
+    "source_ar": "إذا أوصى لمعينين أو فئة محصورة كان لكل فرد منهم سهم من الوصية.",
+    "target_en": "1. If made for specified persons or class, each legatee shall have an equal share of the bequest.",
+    "source_ar_norm": "اذا اوصي لمعينين او فئة محصورة كان لكل فرد منهم سهم من الوصية.",
+    "target_en_norm": "1. if made for specified persons or class, each legatee shall have an equal share of the bequest.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27131,
+    "source_ar": "إذا أوصى لمعينين وفئة غير محصورة، كان لكل فرد من المعينين سهم، وللفئة غير المحصورة سهم.",
+    "target_en": "2. If made for specified persons and an unspecified class, each specified person and the unspecified class shall have an equal share.",
+    "source_ar_norm": "اذا اوصي لمعينين وفئة غير محصورة، كان لكل فرد من المعينين سهم، وللفئة غير المحصورة سهم.",
+    "target_en_norm": "2. if made for specified persons and an unspecified class, each specified person and the unspecified class shall have an equal share.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27132,
+    "source_ar": "المادة الثامنة والثمانون بعد المائة",
+    "target_en": "Article 188",
+    "source_ar_norm": "المادة الثامنة والثمانون بعد المائة",
+    "target_en_norm": "article 188",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27133,
+    "source_ar": "يشترط في الموصى به ما يأتي:",
+    "target_en": "A bequest must satisfy the following conditions:",
+    "source_ar_norm": "يشترط في الموصي به ما ياتي:",
+    "target_en_norm": "a bequest must satisfy the following conditions:",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27134,
+    "source_ar": "أن يكون ملكاً للموصي إذا كان معيناً.",
+    "target_en": "1. It must be owned by the testator if it is specified.",
+    "source_ar_norm": "ان يكون ملكا للموصي اذا كان معينا.",
+    "target_en_norm": "1. it must be owned by the testator if it is specified.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27135,
+    "source_ar": "أن يكون موجوداً أو ممكن الوجود.",
+    "target_en": "2. It exists or is expected to exist.",
+    "source_ar_norm": "ان يكون موجودا او ممكن الوجود.",
+    "target_en_norm": "2. it exists or is expected to exist.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27136,
+    "source_ar": "أن يكون مشروعاً.",
+    "target_en": "3. It must be legitimate.",
+    "source_ar_norm": "ان يكون مشروعا.",
+    "target_en_norm": "3. it must be legitimate.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27137,
+    "source_ar": "المادة التاسعة والثمانون بعد المائة",
+    "target_en": "Article 189",
+    "source_ar_norm": "المادة التاسعة والثمانون بعد المائة",
+    "target_en_norm": "article 189",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27138,
+    "source_ar": "يصح في الموصى به أن يكون عيناً أو منفعة أو حقاً متقوماً، شائعاً أو محدداً.",
+    "target_en": "1. A bequest may be in-kind, a usufruct, or a right, whether common or specific.",
+    "source_ar_norm": "يصح في الموصي به ان يكون عينا او منفعة او حقا متقوما، شائعا او محددا.",
+    "target_en_norm": "1. a bequest may be in-kind, a usufruct, or a right, whether common or specific.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27139,
+    "source_ar": "إذا كان الموصى به شائعاً شمل جميع أموال الموصي وقت وفاته، ما لم يتفق الورثة مع الموصى له على خلاف ذلك.",
+    "target_en": "2. If the bequest is a common property, it must include the testator’s entire estate at the time of his death, unless the heirs and the legatees agree otherwise.",
+    "source_ar_norm": "اذا كان الموصي به شائعا شمل جميع اموال الموصي وقت وفاته، ما لم يتفق الورثة مع الموصي له علي خلاف ذلك.",
+    "target_en_norm": "2. if the bequest is a common property, it must include the testator’s entire estate at the time of his death, unless the heirs and the legatees agree otherwise.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27140,
+    "source_ar": "المادة التسعون بعد المائة",
+    "target_en": "Article 190",
+    "source_ar_norm": "المادة التسعون بعد المائة",
+    "target_en_norm": "article 190",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27141,
+    "source_ar": "تنفذ الوصية إذا لم تزد على (ثلث) التركة. وإذا زادت الوصية على (الثلث)، فيوقف ما زاد على إجازة الورثة وينفذ منه بقدر نصيب من أجازها منهم.",
+    "target_en": "A bequest shall be executed if it does not exceed one-third of the estate. If it exceeds onethird, execution of the excess part shall be contingent upon the approval of the heirs and shall be executed against the shares of the approving heirs.",
+    "source_ar_norm": "تنفذ الوصية اذا لم تزد علي (ثلث) التركة. واذا زادت الوصية علي (الثلث)، فيوقف ما زاد علي اجازة الورثة وينفذ منه بقدر نصيب من اجازها منهم.",
+    "target_en_norm": "a bequest shall be executed if it does not exceed one-third of the estate. if it exceeds onethird, execution of the excess part shall be contingent upon the approval of the heirs and shall be executed against the shares of the approving heirs.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27142,
+    "source_ar": "المادة الحادية والتسعون بعد المائة",
+    "target_en": "Article 191",
+    "source_ar_norm": "المادة الحادية والتسعون بعد المائة",
+    "target_en_norm": "article 191",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27143,
+    "source_ar": "تصح الوصية بما زاد على (الثلث) ممن لا وارث له.",
+    "target_en": "1. A bequest in excess of one-third of the estate shall be deemed valid if made by a person with no heirs.",
+    "source_ar_norm": "تصح الوصية بما زاد علي (الثلث) ممن لا وارث له.",
+    "target_en_norm": "1. a bequest in excess of one-third of the estate shall be deemed valid if made by a person with no heirs.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27144,
+    "source_ar": "تصح الوصية بما زاد على نصيب الزوج أو الزوجة إذا لم يوجد وارث سواهما.",
+    "target_en": "2. A bequest in excess of the share of a spouse shall be deemed valid in the absence of other heirs.",
+    "source_ar_norm": "تصح الوصية بما زاد علي نصيب الزوج او الزوجة اذا لم يوجد وارث سواهما.",
+    "target_en_norm": "2. a bequest in excess of the share of a spouse shall be deemed valid in the absence of other heirs.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27145,
+    "source_ar": "المادة الثانية والتسعون بعد المائة",
+    "target_en": "Article 192",
+    "source_ar_norm": "المادة الثانية والتسعون بعد المائة",
+    "target_en_norm": "article 192",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27146,
+    "source_ar": "إذا كانت الوصية بمنفعة عين فيحسب خروجها من (ثلث) التركة على النحو الآتي:",
+    "target_en": "If a bequest is a usufruct, it shall be deducted from the one-third of the estate as follows:",
+    "source_ar_norm": "اذا كانت الوصية بمنفعة عين فيحسب خروجها من (ثلث) التركة علي النحو الاتي:",
+    "target_en_norm": "if a bequest is a usufruct, it shall be deducted from the one-third of the estate as follows:",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27147,
+    "source_ar": "إذا كانت الوصية بالمنفعة مؤبدة أو مطلقة أو لمدة حياة الموصى له، فبقيمة العين الموصى بمنفعتها وقت وفاة الموصي.",
+    "target_en": "1. If the usufruct is bequeathed to be used permanently or absolutely or for the lifetime of the legatee, it shall be determined by the value of the related property at the time of the testator’s death.",
+    "source_ar_norm": "اذا كانت الوصية بالمنفعة مؤبدة او مطلقة او لمدة حياة الموصي له، فبقيمة العين الموصي بمنفعتها وقت وفاة الموصي.",
+    "target_en_norm": "1. if the usufruct is bequeathed to be used permanently or absolutely or for the lifetime of the legatee, it shall be determined by the value of the related property at the time of the testator’s death.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27148,
+    "source_ar": "إذا كانت الوصية بالمنفعة مؤقتة، فبقيمة المنفعة خلال هذه المدة.",
+    "target_en": "2. If the usufruct is bequeathed to be used temporarily, the usufruct shall be determined by its value during the period of use.",
+    "source_ar_norm": "اذا كانت الوصية بالمنفعة مؤقتة، فبقيمة المنفعة خلال هذه المدة.",
+    "target_en_norm": "2. if the usufruct is bequeathed to be used temporarily, the usufruct shall be determined by its value during the period of use.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27149,
+    "source_ar": "المادة الثالثة والتسعون بعد المائة",
+    "target_en": "Article 193",
+    "source_ar_norm": "المادة الثالثة والتسعون بعد المائة",
+    "target_en_norm": "article 193",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27150,
+    "source_ar": "تعود المنفعة الموصى بها إلى مالك العين -سواء كان وارثاً أو موصى له بالعين- في الحالات الآتية:",
+    "target_en": "1. A bequeathed usufruct shall be restored to the property owner, whether the owner is an heir or a legatee thereof, in the following cases:",
+    "source_ar_norm": "تعود المنفعة الموصي بها الي مالك العين -سواء كان وارثا او موصي له بالعين- في الحالات الاتية:",
+    "target_en_norm": "1. a bequeathed usufruct shall be restored to the property owner, whether the owner is an heir or a legatee thereof, in the following cases:",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27151,
+    "source_ar": "أ- إذا انقضت مدة المنفعة الموصى بها.",
+    "target_en": "a) If the period during which the usufruct is bequeathed expires.",
+    "source_ar_norm": "ا- اذا انقضت مدة المنفعة الموصي بها.",
+    "target_en_norm": "a) if the period during which the usufruct is bequeathed expires.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27152,
+    "source_ar": "ب- إذا مات الموصى له بالمنفعة.",
+    "target_en": "b) If the legatee to whom the usufruct is bequeathed dies.",
+    "source_ar_norm": "ب- اذا مات الموصي له بالمنفعة.",
+    "target_en_norm": "b) if the legatee to whom the usufruct is bequeathed dies.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27153,
+    "source_ar": "ج- إذا انقطع الموصى له -واحداً أو أكثر- وكانت الوصية لفئة محصورة أو غير محصورة يظن انقطاعها.",
+    "target_en": "c) If the legatee, whether one or more, ceases to exist, and the bequest is made for a specified or unspecified class that is likely to cease to exist.",
+    "source_ar_norm": "ج- اذا انقطع الموصي له -واحدا او اكثر- وكانت الوصية لفئة محصورة او غير محصورة يظن انقطاعها.",
+    "target_en_norm": "c) if the legatee, whether one or more, ceases to exist, and the bequest is made for a specified or unspecified class that is likely to cease to exist.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27154,
+    "source_ar": "إذا كان الموصى له بالمنفعة أو غلتها شخصاً اعتباريًّا أو فئة غير محصورة لا يظن انقطاعها، وكانت الوصية مؤبدة أو مطلقة؛ فيكون لها حكم الوقف.",
+    "target_en": "2. If the legatee of a bequeathed usufruct or its yield is a legal person or an unspecified class which is unlikely to cease to exist, and the usufruct is bequeathed to be used permanently or absolutely, it shall be subject to the provisions governing endowments.",
+    "source_ar_norm": "اذا كان الموصي له بالمنفعة او غلتها شخصا اعتباريا او فئة غير محصورة لا يظن انقطاعها، وكانت الوصية مؤبدة او مطلقة؛ فيكون لها حكم الوقف.",
+    "target_en_norm": "2. if the legatee of a bequeathed usufruct or its yield is a legal person or an unspecified class which is unlikely to cease to exist, and the usufruct is bequeathed to be used permanently or absolutely, it shall be subject to the provisions governing endowments.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27155,
+    "source_ar": "المادة الرابعة والتسعون بعد المائة",
+    "target_en": "Article 194",
+    "source_ar_norm": "المادة الرابعة والتسعون بعد المائة",
+    "target_en_norm": "article 194",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27156,
+    "source_ar": "إذا كانت الوصية بسهم شائع في التركة، وكان منها دين أو مال غائب، استوفى الموصى له سهمه في الحاضر، وكلما حضر شيء استوفى سهمه فيه، ما لم يتفق الورثة مع الموصى له على خلاف ذلك.",
+    "target_en": "If a bequest is a common share in the estate and it includes uncollected debts or receivables, the legatee shall receive his share from the available portion of the estate and he shall continue to receive the remainder of his share from any collected debts or receivables, unless the heirs and the legatee agree otherwise.",
+    "source_ar_norm": "اذا كانت الوصية بسهم شائع في التركة، وكان منها دين او مال غائب، استوفي الموصي له سهمه في الحاضر، وكلما حضر شيء استوفي سهمه فيه، ما لم يتفق الورثة مع الموصي له علي خلاف ذلك.",
+    "target_en_norm": "if a bequest is a common share in the estate and it includes uncollected debts or receivables, the legatee shall receive his share from the available portion of the estate and he shall continue to receive the remainder of his share from any collected debts or receivables, unless the heirs and the legatee agree otherwise.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27157,
+    "source_ar": "المادة الخامسة والتسعون بعد المائة",
+    "target_en": "Article 195",
+    "source_ar_norm": "المادة الخامسة والتسعون بعد المائة",
+    "target_en_norm": "article 195",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27158,
+    "source_ar": "إذا كانت الوصية بمثل نصيب وارث معين من ورثة الموصي، استحق الموصى له قدر نصيب هذا الوارث مضافاً إلى أصل المسألة، ويدخل النقص على جميع الورثة.",
+    "target_en": "1. If a bequest is equal to the share of a specified heir of the testator, the legatee shall be entitled to a share equal to the share of the heir after being added to the total number of heirs, and the shortage shall be incurred by all heirs.",
+    "source_ar_norm": "اذا كانت الوصية بمثل نصيب وارث معين من ورثة الموصي، استحق الموصي له قدر نصيب هذا الوارث مضافا الي اصل المسالة، ويدخل النقص علي جميع الورثة.",
+    "target_en_norm": "1. if a bequest is equal to the share of a specified heir of the testator, the legatee shall be entitled to a share equal to the share of the heir after being added to the total number of heirs, and the shortage shall be incurred by all heirs.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27159,
+    "source_ar": "إذا كانت الوصية بمثل نصيب وارث غير معين من ورثة الموصي، استحق الموصى له قدر نصيب أقلهم ميراثاً مضافاً إلى أصل المسألة، ويدخل النقص على جميع الورثة.",
+    "target_en": "2. If a bequest is equal to the share of an unspecified heir of the testator, the legatee shall be entitled to a share equal to the heir with the least share among the heirs after being added to the total number of heirs, and the shortage shall be incurred by all heirs.",
+    "source_ar_norm": "اذا كانت الوصية بمثل نصيب وارث غير معين من ورثة الموصي، استحق الموصي له قدر نصيب اقلهم ميراثا مضافا الي اصل المسالة، ويدخل النقص علي جميع الورثة.",
+    "target_en_norm": "2. if a bequest is equal to the share of an unspecified heir of the testator, the legatee shall be entitled to a share equal to the heir with the least share among the heirs after being added to the total number of heirs, and the shortage shall be incurred by all heirs.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27160,
+    "source_ar": "(الفصل الثالث) مبطلات الوصية",
+    "target_en": "Chapter 3: Nullification of the Will",
+    "source_ar_norm": "(الفصل الثالث) مبطلات الوصية",
+    "target_en_norm": "chapter 3: nullification of the will",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27161,
+    "source_ar": "المادة السادسة والتسعون بعد المائة",
+    "target_en": "Article 196",
+    "source_ar_norm": "المادة السادسة والتسعون بعد المائة",
+    "target_en_norm": "article 196",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27162,
+    "source_ar": "تبطل الوصية في الحالات الآتية:",
+    "target_en": "A will shall be deemed null and void if:",
+    "source_ar_norm": "تبطل الوصية في الحالات الاتية:",
+    "target_en_norm": "a will shall be deemed null and void if:",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27163,
+    "source_ar": "رجوع الموصي عن وصيته قولاً أو فعلاً.",
+    "target_en": "1. the testator rescinds his will verbally or by action.",
+    "source_ar_norm": "رجوع الموصي عن وصيته قولا او فعلا.",
+    "target_en_norm": "1. the testator rescinds his will verbally or by action.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27164,
+    "source_ar": "وفاة الموصى له المعين قبل الموصي أو موتهما معاً أو جهل أيهما أسبق وفاة، إلا إذا كانت الوصية بقضاء دين الموصى له.",
+    "target_en": "2. the testator outlives the specified legatee or if they die at the same time, or if it cannot be determined who predeceased the other, unless the will stipulates the payment of the legatee’s debt;",
+    "source_ar_norm": "وفاة الموصي له المعين قبل الموصي او موتهما معا او جهل ايهما اسبق وفاة، الا اذا كانت الوصية بقضاء دين الموصي له.",
+    "target_en_norm": "2. the testator outlives the specified legatee or if they die at the same time, or if it cannot be determined who predeceased the other, unless the will stipulates the payment of the legatee’s debt;",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27165,
+    "source_ar": "رد الموصى له الوصية بعد وفاة الموصي وقبل القبول.",
+    "target_en": "3. the legatee rejects the bequest following the death of the testator and prior to accepting it;",
+    "source_ar_norm": "رد الموصي له الوصية بعد وفاة الموصي وقبل القبول.",
+    "target_en_norm": "3. the legatee rejects the bequest following the death of the testator and prior to accepting it;",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27166,
+    "source_ar": "قتل الموصى له الموصي قتلاً يمنع الإرث.",
+    "target_en": "4. the legatee kills the testator, and such killing precludes inheritance; or",
+    "source_ar_norm": "قتل الموصي له الموصي قتلا يمنع الارث.",
+    "target_en_norm": "4. the legatee kills the testator, and such killing precludes inheritance; or",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27167,
+    "source_ar": "تلف الموصى به المعين أو استحقاقه لغير الموصي.",
+    "target_en": "5. the specified legacy is damaged or if it is owned by a person other than the testator.",
+    "source_ar_norm": "تلف الموصي به المعين او استحقاقه لغير الموصي.",
+    "target_en_norm": "5. the specified legacy is damaged or if it is owned by a person other than the testator.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27168,
+    "source_ar": "(الباب السابع) التركة والإرث (الفصل الأول) أحكام عامة للتركة والإرث",
+    "target_en": "Part 7: Estate and Inheritance Chapter 1: General Provisions for Estate and Inheritance",
+    "source_ar_norm": "(الباب السابع) التركة والارث (الفصل الاول) احكام عامة للتركة والارث",
+    "target_en_norm": "part 7: estate and inheritance chapter 1: general provisions for estate and inheritance",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27169,
+    "source_ar": "المادة السابعة والتسعون بعد المائة",
+    "target_en": "Article 197",
+    "source_ar_norm": "المادة السابعة والتسعون بعد المائة",
+    "target_en_norm": "article 197",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27170,
+    "source_ar": "التركة هي ما يخلفه الإنسان بعد موته من الأموال والحقوق المالية.",
+    "target_en": "An estate is the property and financial rights that a person leaves after death.",
+    "source_ar_norm": "التركة هي ما يخلفه الانسان بعد موته من الاموال والحقوق المالية.",
+    "target_en_norm": "an estate is the property and financial rights that a person leaves after death.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27171,
+    "source_ar": "المادة الثامنة والتسعون بعد المائة",
+    "target_en": "Article 198",
+    "source_ar_norm": "المادة الثامنة والتسعون بعد المائة",
+    "target_en_norm": "article 198",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27172,
+    "source_ar": "تُرتَّب الحقوق المتعلقة بالتركة، بحسب الآتي:",
+    "target_en": "Estate-related rights shall be in the following order:",
+    "source_ar_norm": "ترتب الحقوق المتعلقة بالتركة، بحسب الاتي:",
+    "target_en_norm": "estate-related rights shall be in the following order:",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27173,
+    "source_ar": "تجهيز الميت بالمعروف.",
+    "target_en": "1. Payment of burial expenses.",
+    "source_ar_norm": "تجهيز الميت بالمعروف.",
+    "target_en_norm": "1. payment of burial expenses.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27174,
+    "source_ar": "قضاء الديون، ويقدم منها ما كان متعلقاً بعين من التركة.",
+    "target_en": "2. Payment of debts, giving priority to debts related to a certain property of the estate.",
+    "source_ar_norm": "قضاء الديون، ويقدم منها ما كان متعلقا بعين من التركة.",
+    "target_en_norm": "2. payment of debts, giving priority to debts related to a certain property of the estate.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27175,
+    "source_ar": "تنفيذ الوصية.",
+    "target_en": "3. Execution of the will.",
+    "source_ar_norm": "تنفيذ الوصية.",
+    "target_en_norm": "3. execution of the will.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27176,
+    "source_ar": "قسمة ما يبقى من التركة على الورثة.",
+    "target_en": "4. Division of the remainder of the estate among the heirs.",
+    "source_ar_norm": "قسمة ما يبقي من التركة علي الورثة.",
+    "target_en_norm": "4. division of the remainder of the estate among the heirs.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27177,
+    "source_ar": "المادة التاسعة والتسعون بعد المائة",
+    "target_en": "Article 199",
+    "source_ar_norm": "المادة التاسعة والتسعون بعد المائة",
+    "target_en_norm": "article 199",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27178,
+    "source_ar": "يشترط لاستحقاق الإرث ما يأتي:",
+    "target_en": "Entitlement to an inheritance shall be subject to the following conditions:",
+    "source_ar_norm": "يشترط لاستحقاق الارث ما ياتي:",
+    "target_en_norm": "entitlement to an inheritance shall be subject to the following conditions:",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27179,
+    "source_ar": "وفاة المورث حقيقةً أو بحكم قضائي.",
+    "target_en": "1. Death of the testator, whether actually or by virtue of a judicial ruling.",
+    "source_ar_norm": "وفاة المورث حقيقة او بحكم قضائي.",
+    "target_en_norm": "1. death of the testator, whether actually or by virtue of a judicial ruling.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27180,
+    "source_ar": "حياة الوارث بعد موت مورثه حقيقة أو تقديراً.",
+    "target_en": "2. Actual or presumed survival of an heir after the death of the testator.",
+    "source_ar_norm": "حياة الوارث بعد موت مورثه حقيقة او تقديرا.",
+    "target_en_norm": "2. actual or presumed survival of an heir after the death of the testator.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27181,
+    "source_ar": "وجود سبب الإرث وانتفاء موانعه.",
+    "target_en": "3. Existence of grounds for inheritance and absence of any impediments thereto.",
+    "source_ar_norm": "وجود سبب الارث وانتفاء موانعه.",
+    "target_en_norm": "3. existence of grounds for inheritance and absence of any impediments thereto.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27182,
+    "source_ar": "المادة المائتين",
+    "target_en": "Article 200",
+    "source_ar_norm": "المادة المائتين",
+    "target_en_norm": "article 200",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27183,
+    "source_ar": "لا يرث من قتل مورثه عمداً عدواناً أو شبهَ عمدٍ سواء أكان فاعلاً أصليًّا أم شريكاً.",
+    "target_en": "1. A person who maliciously or semi-deliberately kills the testator, whether he is the perpetrator or an accomplice, shall not inherit the testator.",
+    "source_ar_norm": "لا يرث من قتل مورثه عمدا عدوانا او شبه عمد سواء اكان فاعلا اصليا ام شريكا.",
+    "target_en_norm": "1. a person who maliciously or semi-deliberately kills the testator, whether he is the perpetrator or an accomplice, shall not inherit the testator.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27184,
+    "source_ar": "لا يرث من تسبب أو أمر بالقتل عدواناً أو شبه عمد.",
+    "target_en": "2. A person who causes or orders the death of the testator, whether maliciously or semideliberately, shall not inherit the testator.",
+    "source_ar_norm": "لا يرث من تسبب او امر بالقتل عدوانا او شبه عمد.",
+    "target_en_norm": "2. a person who causes or orders the death of the testator, whether maliciously or semideliberately, shall not inherit the testator.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27185,
+    "source_ar": "يرث من قتل مورثه خطأً من التركة دون الدية.",
+    "target_en": "3. A person who wrongfully kills the testator shall be entitled to the inheritance, excluding the diya [blood money].",
+    "source_ar_norm": "يرث من قتل مورثه خطا من التركة دون الدية.",
+    "target_en_norm": "3. a person who wrongfully kills the testator shall be entitled to the inheritance, excluding the diya [blood money].",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27186,
+    "source_ar": "المادة الأولى بعد المائتين",
+    "target_en": "Article 201",
+    "source_ar_norm": "المادة الاولي بعد المائتين",
+    "target_en_norm": "article 201",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27187,
+    "source_ar": "الفرقة بين الزوجين في الحياة تمنع إرث أحدهما من الآخر إلا في أي من الحالتين الآتيتين:",
+    "target_en": "Spouses who are separated may not inherit from each other except in the following cases:",
+    "source_ar_norm": "الفرقة بين الزوجين في الحياة تمنع ارث احدهما من الاخر الا في اي من الحالتين الاتيتين:",
+    "target_en_norm": "spouses who are separated may not inherit from each other except in the following cases:",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27188,
+    "source_ar": "إذا كان الطلاق رجعيَّا، فيتوارثان ما دامت المرأة في العدة.",
+    "target_en": "1. In a revocable divorce, provided the woman is observing iddah.",
+    "source_ar_norm": "اذا كان الطلاق رجعيا، فيتوارثان ما دامت المراة في العدة.",
+    "target_en_norm": "1. in a revocable divorce, provided the woman is observing iddah.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27189,
+    "source_ar": "إذا طلق الرجل في مرض الموت دون طلب من المرأة، فترثه ما لم تتزوج قبل وفاته.",
+    "target_en": "2. If a fatally ill husband divorces his wife and such divorce is not made pursuant to the wife’s request, unless she remarries before his death.",
+    "source_ar_norm": "اذا طلق الرجل في مرض الموت دون طلب من المراة، فترثه ما لم تتزوج قبل وفاته.",
+    "target_en_norm": "2. if a fatally ill husband divorces his wife and such divorce is not made pursuant to the wife’s request, unless she remarries before his death.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27190,
+    "source_ar": "المادة الثانية بعد المائتين",
+    "target_en": "Article 202",
+    "source_ar_norm": "المادة الثانية بعد المائتين",
+    "target_en_norm": "article 202",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27191,
+    "source_ar": "مع مراعاة أحكام الوصية الواردة في هذا النظام وبخاصة المادة (الثامنة والسبعون بعد المائة)؛ لا توارث مع اختلاف الدين.",
+    "target_en": "Subject to the provisions of the will stipulated in this Law, and in particular Article 178, persons of different religions may not inherit one another.",
+    "source_ar_norm": "مع مراعاة احكام الوصية الواردة في هذا النظام وبخاصة المادة (الثامنة والسبعون بعد المائة)؛ لا توارث مع اختلاف الدين.",
+    "target_en_norm": "subject to the provisions of the will stipulated in this law, and in particular article 178, persons of different religions may not inherit one another.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27192,
+    "source_ar": "المادة الثالثة بعد المائتين",
+    "target_en": "Article 203",
+    "source_ar_norm": "المادة الثالثة بعد المائتين",
+    "target_en_norm": "article 203",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27193,
+    "source_ar": "لا توارث بين الموتى إذا كان موتهم في وقت واحد، أو لم يعلم المتقدم وفاةً منهم.",
+    "target_en": "If persons die at the same time, or if it cannot be determined who predeceased the other, neither of them shall inherit the other.",
+    "source_ar_norm": "لا توارث بين الموتي اذا كان موتهم في وقت واحد، او لم يعلم المتقدم وفاة منهم.",
+    "target_en_norm": "if persons die at the same time, or if it cannot be determined who predeceased the other, neither of them shall inherit the other.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27194,
+    "source_ar": "المادة الرابعة بعد المائتين",
+    "target_en": "Article 204",
+    "source_ar_norm": "المادة الرابعة بعد المائتين",
+    "target_en_norm": "article 204",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27195,
+    "source_ar": "يكون الإرث بالفرض، أو بالتعصيب، أو بهما معاً، أو بالرحم.",
+    "target_en": "1. Inheritance shall be made by fardh [prescription], ta'sib [agnation], or by both, or by consanguinity.",
+    "source_ar_norm": "يكون الارث بالفرض، او بالتعصيب، او بهما معا، او بالرحم.",
+    "target_en_norm": "1. inheritance shall be made by fardh [prescription], ta'sib [agnation], or by both, or by consanguinity.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27196,
+    "source_ar": "الفرض هو نصيبٌ مقدر شرعاً للوارث.",
+    "target_en": "2. Fardh refers to a share determined by Sharia for an heir.",
+    "source_ar_norm": "الفرض هو نصيب مقدر شرعا للوارث.",
+    "target_en_norm": "2. fardh refers to a share determined by sharia for an heir.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27197,
+    "source_ar": "التعصيب هو نصيبٌ غيرُ مقدر شرعاً للوارث.",
+    "target_en": "3. Ta’sib refers to a share not determined by Sharia for an heir.",
+    "source_ar_norm": "التعصيب هو نصيب غير مقدر شرعا للوارث.",
+    "target_en_norm": "3. ta’sib refers to a share not determined by sharia for an heir.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27198,
+    "source_ar": "المادة الخامسة بعد المائتين",
+    "target_en": "Article 205",
+    "source_ar_norm": "المادة الخامسة بعد المائتين",
+    "target_en_norm": "article 205",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27199,
+    "source_ar": "الفرع الوارث هو من استحق الإرث كاملاً أو جزءاً منه وكان من ذرية الميت وهم الابن وأولاده وإن نزلوا، والبنت، ولا يعد من الفرع الوارث من أدلى بأنثى.",
+    "target_en": "Descendant heirs are the descendants of the deceased who are entitled to the inheritance wholly or partly; they include the son of the deceased and his descendants and the daughter of the deceased. Any person related to the deceased through a female shall not be deemed a descendant heir.",
+    "source_ar_norm": "الفرع الوارث هو من استحق الارث كاملا او جزءا منه وكان من ذرية الميت وهم الابن واولاده وان نزلوا، والبنت، ولا يعد من الفرع الوارث من ادلي بانثي.",
+    "target_en_norm": "descendant heirs are the descendants of the deceased who are entitled to the inheritance wholly or partly; they include the son of the deceased and his descendants and the daughter of the deceased. any person related to the deceased through a female shall not be deemed a descendant heir.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27200,
+    "source_ar": "المادة السادسة بعد المائتين",
+    "target_en": "Article 206",
+    "source_ar_norm": "المادة السادسة بعد المائتين",
+    "target_en_norm": "article 206",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  }
+]

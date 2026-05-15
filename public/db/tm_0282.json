@@ -1,0 +1,802 @@
+[
+  {
+    "id": 28101,
+    "source_ar": "أ - أصل مبلغ الكمبيالة غير المقبولة أو غير المدفوعة.",
+    "target_en": "a) Original amount of the non-accepted or non-paid bill.",
+    "source_ar_norm": "ا - اصل مبلغ الكمبيالة غير المقبولة او غير المدفوعة.",
+    "target_en_norm": "a) original amount of the non-accepted or non-paid bill.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28102,
+    "source_ar": "ب - مصروفات الاحتجاج والإخطارات وغير ذلك من المصروفات.",
+    "target_en": "b) Expenses of protests and notices, and any other expenses.",
+    "source_ar_norm": "ب - مصروفات الاحتجاج والاخطارات وغير ذلك من المصروفات.",
+    "target_en_norm": "b) expenses of protests and notices, and any other expenses.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28103,
+    "source_ar": "وفي أحوال الرجوع قبل ميعاد استحقاق الكمبيالة يجب أن يستنزل من قيمتها ما يساوي سعر الخصم الرسمي في تاريخ الرجوع بالمكان الذي يقع فيه موطن الحامل.",
+    "target_en": "If recourse is made prior to the bill’s maturity date, an amount equal to the official rate of discount applicable on the date of recourse at the holder’s domicile shall be deducted from the amount of the bill.",
+    "source_ar_norm": "وفي احوال الرجوع قبل ميعاد استحقاق الكمبيالة يجب ان يستنزل من قيمتها ما يساوي سعر الخصم الرسمي في تاريخ الرجوع بالمكان الذي يقع فيه موطن الحامل.",
+    "target_en_norm": "if recourse is made prior to the bill’s maturity date, an amount equal to the official rate of discount applicable on the date of recourse at the holder’s domicile shall be deducted from the amount of the bill.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28104,
+    "source_ar": "المادة (61):",
+    "target_en": "Article 61",
+    "source_ar_norm": "المادة (61):",
+    "target_en_norm": "article 61",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28105,
+    "source_ar": "يجوز لمن وفى بكمبيالة أن يطالب ضامنيه بما يأتي:",
+    "target_en": "A person who pays the amount of a bill of exchange may claim from his guarantors:",
+    "source_ar_norm": "يجوز لمن وفي بكمبيالة ان يطالب ضامنيه بما ياتي:",
+    "target_en_norm": "a person who pays the amount of a bill of exchange may claim from his guarantors:",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28106,
+    "source_ar": "أ - كل المبلغ الذي وفاه.",
+    "target_en": "a) the full amount he pays; and",
+    "source_ar_norm": "ا - كل المبلغ الذي وفاه.",
+    "target_en_norm": "a) the full amount he pays; and",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28107,
+    "source_ar": "ب - المصروفات التي تحملها.",
+    "target_en": "b) any expenses he incurs.",
+    "source_ar_norm": "ب - المصروفات التي تحملها.",
+    "target_en_norm": "b) any expenses he incurs.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28108,
+    "source_ar": "المادة (62):",
+    "target_en": "Article 62",
+    "source_ar_norm": "المادة (62):",
+    "target_en_norm": "article 62",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28109,
+    "source_ar": "لكل ملتزم طولب بكمبيالة على وجه الرجوع أو كان مستهدفا للمطالبة بها أن يطلب في حالة قيامه بالوفاء تسلم الكمبيالة مع ورقة الاحتجاج ومخالصة بما وفاه.",
+    "target_en": "Any obligor under a bill of exchange who is called upon, or is likely to be called upon, to pay the bill by way of recourse may demand delivery of the bill upon payment, together with the protest and a quittance for the amount paid.",
+    "source_ar_norm": "لكل ملتزم طولب بكمبيالة علي وجه الرجوع او كان مستهدفا للمطالبة بها ان يطلب في حالة قيامه بالوفاء تسلم الكمبيالة مع ورقة الاحتجاج ومخالصة بما وفاه.",
+    "target_en_norm": "any obligor under a bill of exchange who is called upon, or is likely to be called upon, to pay the bill by way of recourse may demand delivery of the bill upon payment, together with the protest and a quittance for the amount paid.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28110,
+    "source_ar": "ولكل مظهر وفى الكمبيالة أن يشطب تظهيره والتظهيرات اللاحقة له. وفي حالة الرجوع على أحد الملتزمين بالقدر غير المقبول من قيمة الكمبيالة، يجوز لمن وفى هذا القدر أن يطلب من حاملها إثبات هذا الوفاء على الكمبيالة وتسليمه مخالصة به.",
+    "target_en": "Each indorser who pays the bill may strike out his indorsement and all subsequent indorsements. In case of recourse against an obligor for the portion of the bill’s amount which has not been accepted, the person who pays such amount may require the bill’s holder to establish such payment and provide him with a quittance.",
+    "source_ar_norm": "ولكل مظهر وفي الكمبيالة ان يشطب تظهيره والتظهيرات اللاحقة له. وفي حالة الرجوع علي احد الملتزمين بالقدر غير المقبول من قيمة الكمبيالة، يجوز لمن وفي هذا القدر ان يطلب من حاملها اثبات هذا الوفاء علي الكمبيالة وتسليمه مخالصة به.",
+    "target_en_norm": "each indorser who pays the bill may strike out his indorsement and all subsequent indorsements. in case of recourse against an obligor for the portion of the bill’s amount which has not been accepted, the person who pays such amount may require the bill’s holder to establish such payment and provide him with a quittance.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28111,
+    "source_ar": "ويجب على الحامل فوق ذلك أن يسلمه صورة من الكمبيالة مصدقا عليها بما يفيد أنها طبق الأصل وأن يسلمه ورقة الاحتجاج تمكينا له من استعمال حقه في الرجوع على غيره بما وفاه.",
+    "target_en": "The holder shall also provide such person with a copy of the bill attested as a true copy, together with the protest to enable him to exercise his right of recourse against others for the amount he paid.",
+    "source_ar_norm": "ويجب علي الحامل فوق ذلك ان يسلمه صورة من الكمبيالة مصدقا عليها بما يفيد انها طبق الاصل وان يسلمه ورقة الاحتجاج تمكينا له من استعمال حقه في الرجوع علي غيره بما وفاه.",
+    "target_en_norm": "the holder shall also provide such person with a copy of the bill attested as a true copy, together with the protest to enable him to exercise his right of recourse against others for the amount he paid.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28112,
+    "source_ar": "المادة (63):",
+    "target_en": "Article 63",
+    "source_ar_norm": "المادة (63):",
+    "target_en_norm": "article 63",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28113,
+    "source_ar": "لا يجوز منح مهل للوفاء بقيمة الكمبيالات أو للقيام بأي إجراء متعلق بها إلا في الأحوال المنصوص عليها في النظام.",
+    "target_en": "A grace period may not be granted for payment of the amount of a bill of exchange or for taking any action related thereto, except in cases stipulated in this Law.",
+    "source_ar_norm": "لا يجوز منح مهل للوفاء بقيمة الكمبيالات او للقيام باي اجراء متعلق بها الا في الاحوال المنصوص عليها في النظام.",
+    "target_en_norm": "a grace period may not be granted for payment of the amount of a bill of exchange or for taking any action related thereto, except in cases stipulated in this law.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28114,
+    "source_ar": "المادة (64):",
+    "target_en": "Article 64",
+    "source_ar_norm": "المادة (64):",
+    "target_en_norm": "article 64",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28115,
+    "source_ar": "إذا حال حادث قهري لا يمكن التغلب عليه دون تقديم الكمبيالة أو عمل الاحتجاج في المواعيد المقررة لذلك امتدت هذه المواعيد.",
+    "target_en": "In the event of force majeure rendering the presentment of a bill of exchange or the making of a protest infeasible within the prescribed periods, such periods shall be extended.",
+    "source_ar_norm": "اذا حال حادث قهري لا يمكن التغلب عليه دون تقديم الكمبيالة او عمل الاحتجاج في المواعيد المقررة لذلك امتدت هذه المواعيد.",
+    "target_en_norm": "in the event of force majeure rendering the presentment of a bill of exchange or the making of a protest infeasible within the prescribed periods, such periods shall be extended.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28116,
+    "source_ar": "وعلى حامل الكمبيالة أن ينبه دون إبطاء من ظهر له الكمبيالة بالحادث القهري وأن يثبت هذا الإخطار مؤرخاً وموقعاً منه، في الكمبيالة أو في الورقة المتصلة بها، وتتسلسل الإخطارات حتى تصل إلى الساحب وفقًا للمادة 56.",
+    "target_en": "The holder of a bill shall promptly notify his indorser of the force majeure event. He shall establish such notification by dating and signing it on the bill or on the paper attached thereto. Notifications shall be made by each of the indorsers up to the drawer, in accordance with Article 56.",
+    "source_ar_norm": "وعلي حامل الكمبيالة ان ينبه دون ابطاء من ظهر له الكمبيالة بالحادث القهري وان يثبت هذا الاخطار مؤرخا وموقعا منه، في الكمبيالة او في الورقة المتصلة بها، وتتسلسل الاخطارات حتي تصل الي الساحب وفقا للمادة 56.",
+    "target_en_norm": "the holder of a bill shall promptly notify his indorser of the force majeure event. he shall establish such notification by dating and signing it on the bill or on the paper attached thereto. notifications shall be made by each of the indorsers up to the drawer, in accordance with article 56.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28117,
+    "source_ar": "ومتى زال الحادث القهري على حامل الكمبيالة دون إبطاء تقديمها للقبول أو للوفاء وعمل الاحتجاج عند الاقتضاء.",
+    "target_en": "When the force majeure event subsides, the holder of the bill shall promptly present it for acceptance or payment and make, if necessary, a protest.",
+    "source_ar_norm": "ومتي زال الحادث القهري علي حامل الكمبيالة دون ابطاء تقديمها للقبول او للوفاء وعمل الاحتجاج عند الاقتضاء.",
+    "target_en_norm": "when the force majeure event subsides, the holder of the bill shall promptly present it for acceptance or payment and make, if necessary, a protest.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28118,
+    "source_ar": "وإذا استمر الحادث القهري أكثر من ثلاثين يوما محسوبة من يوم الاستحقاق جاز الرجوع على الملتزمين بغير حاجة إلى تقديم الكمبيالة أو عمل الاحتجاج، فإذا كانت الكمبيالة مستحقة لدى الاطلاع عليها أو بعد مدة من الاطلاع سرى ميعاد الثلاثين يوما من التاريخ الذي أخطر فيه الحامل من ظهر له الكمبيالة بوقوع الحادث ولو وقع هذا التاريخ قبل انتهاء مواعيد تقديم الكمبيالة.",
+    "target_en": "If the force majeure event continues for more than 30 days from the maturity date, recourse may be exercised against the obligors without the need to present the bill or make a protest. If the bill is payable at sight or at a fixed period after sight, the 30-day period shall commence on the date the holder notifies his indorser of the force majeure event, even if such date falls prior to the expiry of the period fixed for presentment of the bill.",
+    "source_ar_norm": "واذا استمر الحادث القهري اكثر من ثلاثين يوما محسوبة من يوم الاستحقاق جاز الرجوع علي الملتزمين بغير حاجة الي تقديم الكمبيالة او عمل الاحتجاج، فاذا كانت الكمبيالة مستحقة لدي الاطلاع عليها او بعد مدة من الاطلاع سري ميعاد الثلاثين يوما من التاريخ الذي اخطر فيه الحامل من ظهر له الكمبيالة بوقوع الحادث ولو وقع هذا التاريخ قبل انتهاء مواعيد تقديم الكمبيالة.",
+    "target_en_norm": "if the force majeure event continues for more than 30 days from the maturity date, recourse may be exercised against the obligors without the need to present the bill or make a protest. if the bill is payable at sight or at a fixed period after sight, the 30-day period shall commence on the date the holder notifies his indorser of the force majeure event, even if such date falls prior to the expiry of the period fixed for presentment of the bill.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28119,
+    "source_ar": "وتزاد مدة الاطلاع على ميعاد الثلاثين يوما إذا كانت الكمبيالة مستحقة الوفاء بعد مدة من الاطلاع عليها.",
+    "target_en": "The sight period shall be added to the 30-day period if the bill is payable at a fixed period after sight.",
+    "source_ar_norm": "وتزاد مدة الاطلاع علي ميعاد الثلاثين يوما اذا كانت الكمبيالة مستحقة الوفاء بعد مدة من الاطلاع عليها.",
+    "target_en_norm": "the sight period shall be added to the 30-day period if the bill is payable at a fixed period after sight.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28120,
+    "source_ar": "ولا يعتبر من قبيل الحادث القهري الأمور المتصلة بشخص حامل الكمبيالة أو بمن كلفه بتقديمها أو بعمل الاحتجاج.",
+    "target_en": "Personal circumstances related to the holder of a bill or to the person he assigns to present the same or to make the protest shall not be deemed force majeure.",
+    "source_ar_norm": "ولا يعتبر من قبيل الحادث القهري الامور المتصلة بشخص حامل الكمبيالة او بمن كلفه بتقديمها او بعمل الاحتجاج.",
+    "target_en_norm": "personal circumstances related to the holder of a bill or to the person he assigns to present the same or to make the protest shall not be deemed force majeure.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28121,
+    "source_ar": "المادة (65):",
+    "target_en": "Article 65",
+    "source_ar_norm": "المادة (65):",
+    "target_en_norm": "article 65",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28122,
+    "source_ar": "إذا وافق استحقاق الكمبيالة يوم عطلة رسمية فلا تجوز المطالبة بوفائها إلا في يوم العمل التالي، وكذلك لا يجوز القيام بأي إجراء متعلق بالكمبيالة وعلى وجه الخصوص تقديمها للقبول أو لعمل الاحتجاج إلا في يوم عمل، وإذا وجب عمل أي إجراء من هذه الإجراءات في يوم معين يوافق آخر يوم منه يوم عطله رسمية امتد الميعاد إلى اليوم التالي، وتحسب من أيام الميعاد العطلة التي تتخلله.",
+    "target_en": "If the maturity date of a bill of exchange coincides with a public holiday, the holder may not demand payment thereof except on the following business day. In addition, any action relating to the bill, particularly its presentment for acceptance or for making a protest, may only be taken on a business day. If a certain action must be taken within a set period the last day of which coincides with a public holiday, such period shall be extended to the following business day. Public holidays falling within the set period shall be made part thereof.",
+    "source_ar_norm": "اذا وافق استحقاق الكمبيالة يوم عطلة رسمية فلا تجوز المطالبة بوفائها الا في يوم العمل التالي، وكذلك لا يجوز القيام باي اجراء متعلق بالكمبيالة وعلي وجه الخصوص تقديمها للقبول او لعمل الاحتجاج الا في يوم عمل، واذا وجب عمل اي اجراء من هذه الاجراءات في يوم معين يوافق اخر يوم منه يوم عطله رسمية امتد الميعاد الي اليوم التالي، وتحسب من ايام الميعاد العطلة التي تتخلله.",
+    "target_en_norm": "if the maturity date of a bill of exchange coincides with a public holiday, the holder may not demand payment thereof except on the following business day. in addition, any action relating to the bill, particularly its presentment for acceptance or for making a protest, may only be taken on a business day. if a certain action must be taken within a set period the last day of which coincides with a public holiday, such period shall be extended to the following business day. public holidays falling within the set period shall be made part thereof.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28123,
+    "source_ar": "ولا يدخل في حساب المواعيد النظامية أو الاتفاقية المتعلقة بالكمبيالة اليوم الأول منها ما لم ينص النظام على غير ذلك.",
+    "target_en": "The first day of a statutory period or the period stipulated in the bill shall not be made part thereof, unless this Law stipulates otherwise.",
+    "source_ar_norm": "ولا يدخل في حساب المواعيد النظامية او الاتفاقية المتعلقة بالكمبيالة اليوم الاول منها ما لم ينص النظام علي غير ذلك.",
+    "target_en_norm": "the first day of a statutory period or the period stipulated in the bill shall not be made part thereof, unless this law stipulates otherwise.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28124,
+    "source_ar": "ب - كمبيالة الرجوع",
+    "target_en": "B. Recourse Bill of Exchange",
+    "source_ar_norm": "ب - كمبيالة الرجوع",
+    "target_en_norm": "b. recourse bill of exchange",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28125,
+    "source_ar": "المادة (66):",
+    "target_en": "Article 66",
+    "source_ar_norm": "المادة (66):",
+    "target_en_norm": "article 66",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28126,
+    "source_ar": "لكل من له حق الرجوع على غيره من الملتزمين بالكمبيالة أن يستوفي حقه بسحب كمبيالة جديدة على أحد ضامنيه تكون مستحقة الوفاء لدى الاطلاع في موطن هذا الضامن ما لم يشترط خلاف ذلك.",
+    "target_en": "Any person having a right of recourse against other obligors under a bill of exchange may recover his dues by issuing a new bill of exchange against one of his guarantors which shall, unless stipulated otherwise, be payable at sight at the domicile of such guarantor.",
+    "source_ar_norm": "لكل من له حق الرجوع علي غيره من الملتزمين بالكمبيالة ان يستوفي حقه بسحب كمبيالة جديدة علي احد ضامنيه تكون مستحقة الوفاء لدي الاطلاع في موطن هذا الضامن ما لم يشترط خلاف ذلك.",
+    "target_en_norm": "any person having a right of recourse against other obligors under a bill of exchange may recover his dues by issuing a new bill of exchange against one of his guarantors which shall, unless stipulated otherwise, be payable at sight at the domicile of such guarantor.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28127,
+    "source_ar": "وتشتمل قيمة كمبيالة الرجوع على المبالغ الوارد بيانها في المادتين 60 و61 مضافا إليها ما دفع من عمولة ورسم دفعه.",
+    "target_en": "The value of the recourse bill shall include the amounts stated in Articles 60 and 61 of this Law, in addition to any paid commissions and fees.",
+    "source_ar_norm": "وتشتمل قيمة كمبيالة الرجوع علي المبالغ الوارد بيانها في المادتين 60 و61 مضافا اليها ما دفع من عمولة ورسم دفعه.",
+    "target_en_norm": "the value of the recourse bill shall include the amounts stated in articles 60 and 61 of this law, in addition to any paid commissions and fees.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28128,
+    "source_ar": "وإذا كان ساحب كمبيالة الرجوع هو الحامل حدد مبلغها على الأساس الذي تحدد بموجبه قيمة كمبيالة مستحقة الوفاء لدى الاطلاع مسحوبة من المكان الذي استحق فيه وفاء الكمبيالة الأصلية على المكان الذي فيه موطن الضامن.",
+    "target_en": "If the drawer of the recourse bill is the holder, its amount shall be determined in the same manner as that used in determining the value of a payable-at-sight bill issued at the place of payment of the original bill and payable at the place of the guarantor's domicile.",
+    "source_ar_norm": "واذا كان ساحب كمبيالة الرجوع هو الحامل حدد مبلغها علي الاساس الذي تحدد بموجبه قيمة كمبيالة مستحقة الوفاء لدي الاطلاع مسحوبة من المكان الذي استحق فيه وفاء الكمبيالة الاصلية علي المكان الذي فيه موطن الضامن.",
+    "target_en_norm": "if the drawer of the recourse bill is the holder, its amount shall be determined in the same manner as that used in determining the value of a payable-at-sight bill issued at the place of payment of the original bill and payable at the place of the guarantor's domicile.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28129,
+    "source_ar": "وإذا كان ساحب كمبيالة الرجوع هو أحد المظهرين حدد مبلغها على الأساس الذي تحدد بموجبه قيمة كمبيالة مستحقة الوفاء لدى الاطلاع مسحوبة من المكان الذي فيه موطن ساحب الكمبيالة على المكان الذي فيه موطن الضامن.",
+    "target_en": "If the drawer of a recourse bill is an indorser thereof, its amount shall be determined in the same manner as that used in determining the value of a payable-at-sight bill issued at the place of the drawer’s domicile and payable at the place of the guarantor's domicile.",
+    "source_ar_norm": "واذا كان ساحب كمبيالة الرجوع هو احد المظهرين حدد مبلغها علي الاساس الذي تحدد بموجبه قيمة كمبيالة مستحقة الوفاء لدي الاطلاع مسحوبة من المكان الذي فيه موطن ساحب الكمبيالة علي المكان الذي فيه موطن الضامن.",
+    "target_en_norm": "if the drawer of a recourse bill is an indorser thereof, its amount shall be determined in the same manner as that used in determining the value of a payable-at-sight bill issued at the place of the drawer’s domicile and payable at the place of the guarantor's domicile.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28130,
+    "source_ar": "وإذا تعددت كمبيالات الرجوع لم تجر مطالبة ساحب الكمبيالة الأصلية أو أي مظهر لها إلا بسعر كمبيالة رجوع واحدة.",
+    "target_en": "In case of multiple recourse bills, only the amount of a single bill may be claimed from the drawer of the original bill or any of its indorsers.",
+    "source_ar_norm": "واذا تعددت كمبيالات الرجوع لم تجر مطالبة ساحب الكمبيالة الاصلية او اي مظهر لها الا بسعر كمبيالة رجوع واحدة.",
+    "target_en_norm": "in case of multiple recourse bills, only the amount of a single bill may be claimed from the drawer of the original bill or any of its indorsers.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28131,
+    "source_ar": "ج - الحجز التحفظي",
+    "target_en": "C. Provisional Seizure",
+    "source_ar_norm": "ج - الحجز التحفظي",
+    "target_en_norm": "c. provisional seizure",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28132,
+    "source_ar": "المادة (67):",
+    "target_en": "Article 67",
+    "source_ar_norm": "المادة (67):",
+    "target_en_norm": "article 67",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28133,
+    "source_ar": "يجوز لحامل الكمبيالة المعمول عنها احتجاج عدم الوفاء أن يوقع حجزا تحفظيا على منقولات أي ملتزم بها بعد أن يستصدر أمرا بذلك من الجهة التي يعينها وزير التجارة والصناعة.",
+    "target_en": "The holder of a bill of exchange protested for non-payment may provisionally seize the movable property of an obligor under the bill after obtaining an order to that effect from the agency designated by the Minister of Commerce and Industry.",
+    "source_ar_norm": "يجوز لحامل الكمبيالة المعمول عنها احتجاج عدم الوفاء ان يوقع حجزا تحفظيا علي منقولات اي ملتزم بها بعد ان يستصدر امرا بذلك من الجهة التي يعينها وزير التجارة والصناعة.",
+    "target_en_norm": "the holder of a bill of exchange protested for non-payment may provisionally seize the movable property of an obligor under the bill after obtaining an order to that effect from the agency designated by the minister of commerce and industry.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28134,
+    "source_ar": "الفصل السابع: التدخل في القبول أو في الوفاء",
+    "target_en": "Chapter 7: Acceptance or Payment by Intervention",
+    "source_ar_norm": "الفصل السابع: التدخل في القبول او في الوفاء",
+    "target_en_norm": "chapter 7: acceptance or payment by intervention",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28135,
+    "source_ar": "المادة (68):",
+    "target_en": "Article 68",
+    "source_ar_norm": "المادة (68):",
+    "target_en_norm": "article 68",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28136,
+    "source_ar": "لصاحب الكمبيالة ومظهرها وضامنها الاحتياطي أن يعين من يقبلها أو يدفعها عند الاقتضاء.",
+    "target_en": "The drawer, indorser, and reserve guarantor of a bill of exchange may designate a person to accept or pay the bill.",
+    "source_ar_norm": "لصاحب الكمبيالة ومظهرها وضامنها الاحتياطي ان يعين من يقبلها او يدفعها عند الاقتضاء.",
+    "target_en_norm": "the drawer, indorser, and reserve guarantor of a bill of exchange may designate a person to accept or pay the bill.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28137,
+    "source_ar": "ويجوز قبول الكمبيالة أو وفاؤها من أي شخص متدخل لمصلحة أي مدين بها يكون مستهدفا للرجوع عليه.",
+    "target_en": "The bill may be accepted or paid by any person who intervenes in favor of any debtor thereof against whom a right of recourse is exercised.",
+    "source_ar_norm": "ويجوز قبول الكمبيالة او وفاؤها من اي شخص متدخل لمصلحة اي مدين بها يكون مستهدفا للرجوع عليه.",
+    "target_en_norm": "the bill may be accepted or paid by any person who intervenes in favor of any debtor thereof against whom a right of recourse is exercised.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28138,
+    "source_ar": "ويجوز أن يكون التدخل من الغير، كما يجوز أن يكون المسحوب عليه أو أي شخص ملتزم بموجب الكمبيالة عدا القابل.",
+    "target_en": "The intervener may be a third party, the drawee, or any other obligor under the bill, but not the acceptor thereof.",
+    "source_ar_norm": "ويجوز ان يكون التدخل من الغير، كما يجوز ان يكون المسحوب عليه او اي شخص ملتزم بموجب الكمبيالة عدا القابل.",
+    "target_en_norm": "the intervener may be a third party, the drawee, or any other obligor under the bill, but not the acceptor thereof.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28139,
+    "source_ar": "ويجب على المتدخل أن يخطر من وقع التدخل لمصلحته خلال يومي العمل التاليين وإلا كان مسئولا عند الاقتضاء عن تعويض ما يترتب على أعماله من ضرر بشرط ألا يجاوز التعويض مبلغ الكمبيالة.",
+    "target_en": "The intervener shall, within two business days following the intervention, notify the person in whose favor the intervention is made of such intervention; otherwise, he shall be liable for compensating any damage resulting from his negligence, provided that such compensation does not exceed the amount of the bill.",
+    "source_ar_norm": "ويجب علي المتدخل ان يخطر من وقع التدخل لمصلحته خلال يومي العمل التاليين والا كان مسئولا عند الاقتضاء عن تعويض ما يترتب علي اعماله من ضرر بشرط الا يجاوز التعويض مبلغ الكمبيالة.",
+    "target_en_norm": "the intervener shall, within two business days following the intervention, notify the person in whose favor the intervention is made of such intervention; otherwise, he shall be liable for compensating any damage resulting from his negligence, provided that such compensation does not exceed the amount of the bill.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28140,
+    "source_ar": "المادة (69):",
+    "target_en": "Article 69",
+    "source_ar_norm": "المادة (69):",
+    "target_en_norm": "article 69",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28141,
+    "source_ar": "يقع القبول بالتدخل في جميع الأحوال التي يكون فيها لحامل كمبيالة جائزة القبول حق الرجوع قبل ميعاد استحقاقها.",
+    "target_en": "Acceptance by intervention shall take place in cases where the holder of a bill of exchange that could be presented for acceptance has a right of recourse prior to the maturity date thereof.",
+    "source_ar_norm": "يقع القبول بالتدخل في جميع الاحوال التي يكون فيها لحامل كمبيالة جائزة القبول حق الرجوع قبل ميعاد استحقاقها.",
+    "target_en_norm": "acceptance by intervention shall take place in cases where the holder of a bill of exchange that could be presented for acceptance has a right of recourse prior to the maturity date thereof.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28142,
+    "source_ar": "وإذا عين في الكمبيالة من يقبلها أو يوفي قيمتها عند الاقتضاء في مكان وفائها فليس للحامل أن يرجع قبل ميعاد استحقاقها على من صدر عنه هذا التعيين ولا على الموقعين اللاحقين له إلا إذا قدم الكمبيالة إلى من عين لقبولها أو لوفائها عند الاقتضاء، وامتنع هذا المحصل عن قبولها، وأثبت الحامل هذا الامتناع باحتجاج.",
+    "target_en": "If the bill designates a person to accept it or pay its value when due at the place of payment, the holder may not, prior to its maturity date, exercise his right of recourse against the person who made the designation nor against any of the subsequent signatories, unless he presents the bill to the person designated for its acceptance or payment when due and said person refuses acceptance, and the holder establishes such refusal by making a protest.",
+    "source_ar_norm": "واذا عين في الكمبيالة من يقبلها او يوفي قيمتها عند الاقتضاء في مكان وفائها فليس للحامل ان يرجع قبل ميعاد استحقاقها علي من صدر عنه هذا التعيين ولا علي الموقعين اللاحقين له الا اذا قدم الكمبيالة الي من عين لقبولها او لوفائها عند الاقتضاء، وامتنع هذا المحصل عن قبولها، واثبت الحامل هذا الامتناع باحتجاج.",
+    "target_en_norm": "if the bill designates a person to accept it or pay its value when due at the place of payment, the holder may not, prior to its maturity date, exercise his right of recourse against the person who made the designation nor against any of the subsequent signatories, unless he presents the bill to the person designated for its acceptance or payment when due and said person refuses acceptance, and the holder establishes such refusal by making a protest.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28143,
+    "source_ar": "وللحامل في الأحوال الأخرى رفض القبول بالتدخل، وإذا قبله فقد حقوقه في الرجوع قبل ميعاد الاستحقاق على من حصل التدخل لمصلحته وعلى الموقعين اللاحقين له.",
+    "target_en": "The holder may, in other cases, refuse acceptance by intervention. However, if the holder agrees to such intervention, he shall forfeit his right of recourse prior to the maturity date against the person in whose favor the intervention is made as well as against subsequent signatories.",
+    "source_ar_norm": "وللحامل في الاحوال الاخري رفض القبول بالتدخل، واذا قبله فقد حقوقه في الرجوع قبل ميعاد الاستحقاق علي من حصل التدخل لمصلحته وعلي الموقعين اللاحقين له.",
+    "target_en_norm": "the holder may, in other cases, refuse acceptance by intervention. however, if the holder agrees to such intervention, he shall forfeit his right of recourse prior to the maturity date against the person in whose favor the intervention is made as well as against subsequent signatories.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28144,
+    "source_ar": "المادة (70):",
+    "target_en": "Article 70",
+    "source_ar_norm": "المادة (70):",
+    "target_en_norm": "article 70",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28145,
+    "source_ar": "يثبت القبول بالتدخل على الكمبيالة ذاتها ويوقعه المتدخل ويذكر فيه اسم من حصل التدخل لمصلحته، فإذا خلا القبول بالتدخل من هذا البيان اعتبر حاصلا لمصلحته الساحب.",
+    "target_en": "Acceptance by intervention shall be established on the bill of exchange and signed by the intervener, and shall include the name of the person in whose favor the intervention is made. If the name is not indicated in the acceptance by intervention, such acceptance shall be deemed to have been made in favor of the drawer.",
+    "source_ar_norm": "يثبت القبول بالتدخل علي الكمبيالة ذاتها ويوقعه المتدخل ويذكر فيه اسم من حصل التدخل لمصلحته، فاذا خلا القبول بالتدخل من هذا البيان اعتبر حاصلا لمصلحته الساحب.",
+    "target_en_norm": "acceptance by intervention shall be established on the bill of exchange and signed by the intervener, and shall include the name of the person in whose favor the intervention is made. if the name is not indicated in the acceptance by intervention, such acceptance shall be deemed to have been made in favor of the drawer.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28146,
+    "source_ar": "المادة (71):",
+    "target_en": "Article 71",
+    "source_ar_norm": "المادة (71):",
+    "target_en_norm": "article 71",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28147,
+    "source_ar": "يلتزم القابل بالتدخل نحو حامل الكمبيالة ومظهريها اللاحقين لمن حصل التدخل لمصلحته بما يلتزم به هذا الأخير.",
+    "target_en": "The acceptor by intervention shall be as liable as the person in whose favor the intervention is made toward the holder of the bill of exchange and any indorser subsequent to the person in whose favor the intervention is made.",
+    "source_ar_norm": "يلتزم القابل بالتدخل نحو حامل الكمبيالة ومظهريها اللاحقين لمن حصل التدخل لمصلحته بما يلتزم به هذا الاخير.",
+    "target_en_norm": "the acceptor by intervention shall be as liable as the person in whose favor the intervention is made toward the holder of the bill of exchange and any indorser subsequent to the person in whose favor the intervention is made.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28148,
+    "source_ar": "ويجوز لمن حصل التدخل لمصلحته ولضامنيه، على الرغم من حصول القبول بالتدخل، أن يلزموا الحامل مقابل وفائهم المبلغ المعين في المادة 60، بتسليمهم الكمبيالة والاحتجاج والمخالصة إن وجدت. وإذا لم تقدم الكمبيالة لمن قبلها بالتدخل خلال اليوم التالي لليوم الأخير من الميعاد المحدد لعمل احتجاج عدم الوفاء برئت ذمة القابل بالتدخل.",
+    "target_en": "The person in whose favor the intervention is made and his guarantors may, despite the acceptance of the intervention, require the holder, upon payment of the amount stated in Article 60, to deliver the bill, and the protest and quittance, if any. If the bill is not presented to the acceptor by intervention on the day following the last day of the period prescribed for making the protest for non- payment, such acceptor shall be discharged from liability.",
+    "source_ar_norm": "ويجوز لمن حصل التدخل لمصلحته ولضامنيه، علي الرغم من حصول القبول بالتدخل، ان يلزموا الحامل مقابل وفائهم المبلغ المعين في المادة 60، بتسليمهم الكمبيالة والاحتجاج والمخالصة ان وجدت. واذا لم تقدم الكمبيالة لمن قبلها بالتدخل خلال اليوم التالي لليوم الاخير من الميعاد المحدد لعمل احتجاج عدم الوفاء برئت ذمة القابل بالتدخل.",
+    "target_en_norm": "the person in whose favor the intervention is made and his guarantors may, despite the acceptance of the intervention, require the holder, upon payment of the amount stated in article 60, to deliver the bill, and the protest and quittance, if any. if the bill is not presented to the acceptor by intervention on the day following the last day of the period prescribed for making the protest for non- payment, such acceptor shall be discharged from liability.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28149,
+    "source_ar": "المادة (72):",
+    "target_en": "Article 72",
+    "source_ar_norm": "المادة (72):",
+    "target_en_norm": "article 72",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28150,
+    "source_ar": "يجوز وفاء الكمبيالة بالتدخل في جميع الأحوال التي يكون فيها لحاملها في ميعاد الاستحقاق أو قبله حق الرجوع على الملتزمين بها.",
+    "target_en": "A bill of exchange may be paid by intervention in cases where, on the maturity date or prior thereto, the holder thereof has a right of recourse against the obligors under the bill.",
+    "source_ar_norm": "يجوز وفاء الكمبيالة بالتدخل في جميع الاحوال التي يكون فيها لحاملها في ميعاد الاستحقاق او قبله حق الرجوع علي الملتزمين بها.",
+    "target_en_norm": "a bill of exchange may be paid by intervention in cases where, on the maturity date or prior thereto, the holder thereof has a right of recourse against the obligors under the bill.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28151,
+    "source_ar": "ويكون هذا الوفاء بأداء كل المبلغ الذي كان يجب على من حصل التدخل لمصلحته أداؤه. ويجب أن يكون الوفاء على الأكثر في اليوم التالي لآخر يوم يجوز فيه عمل احتجاج عدم الوفاء.",
+    "target_en": "Such payment shall cover the full amount of the bill which the person in whose favor the intervention is made should have paid. The bill shall be paid not later than the day following the last day on which the protest for non-payment may be made.",
+    "source_ar_norm": "ويكون هذا الوفاء باداء كل المبلغ الذي كان يجب علي من حصل التدخل لمصلحته اداؤه. ويجب ان يكون الوفاء علي الاكثر في اليوم التالي لاخر يوم يجوز فيه عمل احتجاج عدم الوفاء.",
+    "target_en_norm": "such payment shall cover the full amount of the bill which the person in whose favor the intervention is made should have paid. the bill shall be paid not later than the day following the last day on which the protest for non-payment may be made.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28152,
+    "source_ar": "المادة (73):",
+    "target_en": "Article 73",
+    "source_ar_norm": "المادة (73):",
+    "target_en_norm": "article 73",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28153,
+    "source_ar": "إذا كان لمن قبلوا الكمبيالة بالتدخل أو لمن عينوا لوفائها عند الاقتضاء موطن في مكان وفائها وجب على حاملها تقديمها لهؤلاء جميعا لوفائها وعمل احتجاج عدم الوفاء إذا لزم الحال على الأكثر في اليوم التالي لآخر يوم يجوز فيه عمل احتجاج.",
+    "target_en": "If the acceptors of the bill of exchange by intervention or those designated for its payment when due have a domicile at the place of payment, the holder shall present the bill to said persons for payment and, if not paid, make a protest for non-payment not later than the day following the last day on which the protest may be made.",
+    "source_ar_norm": "اذا كان لمن قبلوا الكمبيالة بالتدخل او لمن عينوا لوفائها عند الاقتضاء موطن في مكان وفائها وجب علي حاملها تقديمها لهؤلاء جميعا لوفائها وعمل احتجاج عدم الوفاء اذا لزم الحال علي الاكثر في اليوم التالي لاخر يوم يجوز فيه عمل احتجاج.",
+    "target_en_norm": "if the acceptors of the bill of exchange by intervention or those designated for its payment when due have a domicile at the place of payment, the holder shall present the bill to said persons for payment and, if not paid, make a protest for non-payment not later than the day following the last day on which the protest may be made.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28154,
+    "source_ar": "فإذا لم يعمل الاحتجاج في هذا الميعاد كان من عين الموفي عند الاقتضاء أو من حصل قبول الكمبيالة بالتدخل لمصلحته وكذلك المظهرون اللاحقون في حل من التزاماتهم.",
+    "target_en": "If the protest is not made within the prescribed period, the person who designated the payer of the bill when due, the person in whose favor the bill is accepted by intervention, and any subsequent indorser shall be discharged from liability.",
+    "source_ar_norm": "فاذا لم يعمل الاحتجاج في هذا الميعاد كان من عين الموفي عند الاقتضاء او من حصل قبول الكمبيالة بالتدخل لمصلحته وكذلك المظهرون اللاحقون في حل من التزاماتهم.",
+    "target_en_norm": "if the protest is not made within the prescribed period, the person who designated the payer of the bill when due, the person in whose favor the bill is accepted by intervention, and any subsequent indorser shall be discharged from liability.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28155,
+    "source_ar": "المادة (74):",
+    "target_en": "Article 74",
+    "source_ar_norm": "المادة (74):",
+    "target_en_norm": "article 74",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28156,
+    "source_ar": "إذا رفض حامل الكمبيالة الوفاء بالتدخل فقد حقه في الرجوع على من كانت ذمته تبرأ بهذا الوفاء.",
+    "target_en": "If the holder of a bill of exchange refuses payment by intervention, he shall forfeit his right of recourse against any person whose liability would have been discharged by such payment.",
+    "source_ar_norm": "اذا رفض حامل الكمبيالة الوفاء بالتدخل فقد حقه في الرجوع علي من كانت ذمته تبرا بهذا الوفاء.",
+    "target_en_norm": "if the holder of a bill of exchange refuses payment by intervention, he shall forfeit his right of recourse against any person whose liability would have been discharged by such payment.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28157,
+    "source_ar": "المادة (75):",
+    "target_en": "Article 75",
+    "source_ar_norm": "المادة (75):",
+    "target_en_norm": "article 75",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28158,
+    "source_ar": "يجب إثبات الوفاء بالتدخل بكتابة مخالصة على الكمبيالة يذكر فيها من حصل الوفاء لمصلحته، فإذا خلت المخالصة من هذا البيان اعتبر الوفاء بالتدخل حاصلا لمصلحته الساحب، ويجب أن تسلم الكمبيالة والاحتجاج إن عمل للموفي بالتدخل.",
+    "target_en": "Payment by intervention shall be established by writing a quittance on the bill of exchange including the name of the person in whose favor the payment is made. If the name is not indicated in the quittance, the payment by intervention shall be deemed to have been made in favor of the drawer. The bill and the protest, if made, shall be delivered to the payer by intervention.",
+    "source_ar_norm": "يجب اثبات الوفاء بالتدخل بكتابة مخالصة علي الكمبيالة يذكر فيها من حصل الوفاء لمصلحته، فاذا خلت المخالصة من هذا البيان اعتبر الوفاء بالتدخل حاصلا لمصلحته الساحب، ويجب ان تسلم الكمبيالة والاحتجاج ان عمل للموفي بالتدخل.",
+    "target_en_norm": "payment by intervention shall be established by writing a quittance on the bill of exchange including the name of the person in whose favor the payment is made. if the name is not indicated in the quittance, the payment by intervention shall be deemed to have been made in favor of the drawer. the bill and the protest, if made, shall be delivered to the payer by intervention.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28159,
+    "source_ar": "المادة (76):",
+    "target_en": "Article 76",
+    "source_ar_norm": "المادة (76):",
+    "target_en_norm": "article 76",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28160,
+    "source_ar": "يكسب من وفي الكمبيالة بطريق التدخل جميع الحقوق الناشئة عنها تجاه من حصل الوفاء لمصلحته وتجاه الملتزمين نحو هذا الأخير بموجب الكمبيالة، ومع ذلك لا يجوز لهذا الموفي تظهير الكمبيالة من جديد.",
+    "target_en": "The payer of a bill of exchange by intervention shall acquire all the rights which arise therefrom against the person in whose favor the payment is made and against all obligors liable to the latter under the bill. Such payer may not re- indorse the bill.",
+    "source_ar_norm": "يكسب من وفي الكمبيالة بطريق التدخل جميع الحقوق الناشئة عنها تجاه من حصل الوفاء لمصلحته وتجاه الملتزمين نحو هذا الاخير بموجب الكمبيالة، ومع ذلك لا يجوز لهذا الموفي تظهير الكمبيالة من جديد.",
+    "target_en_norm": "the payer of a bill of exchange by intervention shall acquire all the rights which arise therefrom against the person in whose favor the payment is made and against all obligors liable to the latter under the bill. such payer may not re- indorse the bill.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28161,
+    "source_ar": "وتبرأ ذمة المظهرين اللاحقين لمن حصل الوفاء لمصلحته. وإذا تزاحم عدة أشخاص على الوفاء بالتدخل فضل من يترتب على الوفاء منه إبراء أكبر عدد من الملتزمين.",
+    "target_en": "The indorsers subsequent to the person in whose favor the payment is madeshall be discharged from liability. If multiple persons offer to pay the bill by intervention, preference shall be given to the person whose payment would discharge from liability the largest number of obligors under the bill.",
+    "source_ar_norm": "وتبرا ذمة المظهرين اللاحقين لمن حصل الوفاء لمصلحته. واذا تزاحم عدة اشخاص علي الوفاء بالتدخل فضل من يترتب علي الوفاء منه ابراء اكبر عدد من الملتزمين.",
+    "target_en_norm": "the indorsers subsequent to the person in whose favor the payment is madeshall be discharged from liability. if multiple persons offer to pay the bill by intervention, preference shall be given to the person whose payment would discharge from liability the largest number of obligors under the bill.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28162,
+    "source_ar": "ومن تدخل للوفاء بالمخالفة لهذه القاعدة مع عمله بذلك فقد حقه في الرجوع على من تبرأ ذممهم لو كانت هذه القاعدة قد روعيت.",
+    "target_en": "A person who intervenes for payment, knowing that such intervention is in violation of this rule, shall forfeit his right of recourse against the persons whose liability would have been discharged had this rule been observed.",
+    "source_ar_norm": "ومن تدخل للوفاء بالمخالفة لهذه القاعدة مع عمله بذلك فقد حقه في الرجوع علي من تبرا ذممهم لو كانت هذه القاعدة قد روعيت.",
+    "target_en_norm": "a person who intervenes for payment, knowing that such intervention is in violation of this rule, shall forfeit his right of recourse against the persons whose liability would have been discharged had this rule been observed.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28163,
+    "source_ar": "الفصل الثامن: تعدد النسخ والصور والتحريف",
+    "target_en": "Chapter 8: Multiplicity of Copies and Alteration",
+    "source_ar_norm": "الفصل الثامن: تعدد النسخ والصور والتحريف",
+    "target_en_norm": "chapter 8: multiplicity of copies and alteration",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28164,
+    "source_ar": "المادة (77):",
+    "target_en": "Article 77",
+    "source_ar_norm": "المادة (77):",
+    "target_en_norm": "article 77",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28165,
+    "source_ar": "يجوز سحب الكمبيالة من نسخ متعددة يطابق بعضها بعضا.",
+    "target_en": "A bill of exchange may be issued in multiple identical copies.",
+    "source_ar_norm": "يجوز سحب الكمبيالة من نسخ متعددة يطابق بعضها بعضا.",
+    "target_en_norm": "a bill of exchange may be issued in multiple identical copies.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28166,
+    "source_ar": "ويجب أن يوضع في متن كل نسخة منها رقمها وإلا اعتبرت كل نسخة منها كمبيالة مستقلة.",
+    "target_en": "Each copy shall be numbered; otherwise, each copy shall be deemed a separate bill.",
+    "source_ar_norm": "ويجب ان يوضع في متن كل نسخة منها رقمها والا اعتبرت كل نسخة منها كمبيالة مستقلة.",
+    "target_en_norm": "each copy shall be numbered; otherwise, each copy shall be deemed a separate bill.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28167,
+    "source_ar": "ولكل حامل كمبيالة لم يذكر فيها أنها وحيدة أن يطلب نسخا منها على نفقته، ويجب عليه تحقيقا لذلك أن يرجع إلى الشخص الذي ظهرها له، وعلى هذا أن يعاونه في الرجوع إلى المظهر السابق، ويتسلسل ذلك حتى ينتهي إلى الساحب.",
+    "target_en": "Each holder of a bill which does not state that it is the only copy may acquire more copies at his expense. To do so, the holder may trace the bill back to its drawer through the person who indorsed the bill to him and previous indorsers. Each indorser shall assist him to trace the indorsements up to the drawer.",
+    "source_ar_norm": "ولكل حامل كمبيالة لم يذكر فيها انها وحيدة ان يطلب نسخا منها علي نفقته، ويجب عليه تحقيقا لذلك ان يرجع الي الشخص الذي ظهرها له، وعلي هذا ان يعاونه في الرجوع الي المظهر السابق، ويتسلسل ذلك حتي ينتهي الي الساحب.",
+    "target_en_norm": "each holder of a bill which does not state that it is the only copy may acquire more copies at his expense. to do so, the holder may trace the bill back to its drawer through the person who indorsed the bill to him and previous indorsers. each indorser shall assist him to trace the indorsements up to the drawer.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28168,
+    "source_ar": "وعلى كل مظهر أن يدون تظهيره على النسخ الجديدة.",
+    "target_en": "Each indorser shall indorse the new copies.",
+    "source_ar_norm": "وعلي كل مظهر ان يدون تظهيره علي النسخ الجديدة.",
+    "target_en_norm": "each indorser shall indorse the new copies.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28169,
+    "source_ar": "المادة (78):",
+    "target_en": "Article 78",
+    "source_ar_norm": "المادة (78):",
+    "target_en_norm": "article 78",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28170,
+    "source_ar": "وفاء الكمبيالة بموجب إحدى نسخها مبرئ للذمة ولو لم يكون مشروطا فيها أن هذا الوفاء يبطل حكم النسخ الأخرى غير أن المسحوب عليه يبقى ملزما بالوفاء بموجب كل نسخة مقبولة منه لم يستردها والمظهر الذي ظهر نسخ الكمبيالة لأشخاص مختلفين وكذلك المظهرون اللاحقون له ملتزمون بموجب النسخ التي تحمل توقيعاتهم ولم يستردوها.",
+    "target_en": "Any person who pays a bill of exchange upon presentment of one of its copies shall be discharged from liability, even if it is not stipulated in such copy that payment thereof renders the other copies null and void. However, the drawee shall remain liable for payment under each copy he accepts but fails to recover. An indorser who indorses the copies of the bill to different persons and any subsequent indorsers shall remain liable under each copy they sign but fail to recover.",
+    "source_ar_norm": "وفاء الكمبيالة بموجب احدي نسخها مبرئ للذمة ولو لم يكون مشروطا فيها ان هذا الوفاء يبطل حكم النسخ الاخري غير ان المسحوب عليه يبقي ملزما بالوفاء بموجب كل نسخة مقبولة منه لم يستردها والمظهر الذي ظهر نسخ الكمبيالة لاشخاص مختلفين وكذلك المظهرون اللاحقون له ملتزمون بموجب النسخ التي تحمل توقيعاتهم ولم يستردوها.",
+    "target_en_norm": "any person who pays a bill of exchange upon presentment of one of its copies shall be discharged from liability, even if it is not stipulated in such copy that payment thereof renders the other copies null and void. however, the drawee shall remain liable for payment under each copy he accepts but fails to recover. an indorser who indorses the copies of the bill to different persons and any subsequent indorsers shall remain liable under each copy they sign but fail to recover.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28171,
+    "source_ar": "المادة (79):",
+    "target_en": "Article 79",
+    "source_ar_norm": "المادة (79):",
+    "target_en_norm": "article 79",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28172,
+    "source_ar": "على من يرسل إحدى نسخ الكمبيالة لقبولها أن يبين على النسخ الأخرى اسم من تكون هذه النسخة في حيازته وعلى هذا الأخير أن يسلمها للحامل الشرعي لأية نسخة أخرى، فإذا رفض تسليمها لم يكن للحامل حق الرجوع إلا إذا أثبت بورقة احتجاج أن النسخة المرسلة للقبول لم تسلم له رغم طلبه لها، وأن القبول أو الوفاء لم يحصل بموجب نسخة أخرى.",
+    "target_en": "Any person who sends a copy of a bill of exchange for acceptance shall state on the other copies the name of the person in possession of the sent copy. The person in possession of the sent copy shall deliver it to the lawful holder of the other copies, and if he refuses to do so, the holder shall have no right of recourse unless he establishes, pursuant to a protest, that the copy sent for acceptance has not been delivered to him despite his request and that acceptance or payment of any of the other copies has not been made upon presentment thereof.",
+    "source_ar_norm": "علي من يرسل احدي نسخ الكمبيالة لقبولها ان يبين علي النسخ الاخري اسم من تكون هذه النسخة في حيازته وعلي هذا الاخير ان يسلمها للحامل الشرعي لاية نسخة اخري، فاذا رفض تسليمها لم يكن للحامل حق الرجوع الا اذا اثبت بورقة احتجاج ان النسخة المرسلة للقبول لم تسلم له رغم طلبه لها، وان القبول او الوفاء لم يحصل بموجب نسخة اخري.",
+    "target_en_norm": "any person who sends a copy of a bill of exchange for acceptance shall state on the other copies the name of the person in possession of the sent copy. the person in possession of the sent copy shall deliver it to the lawful holder of the other copies, and if he refuses to do so, the holder shall have no right of recourse unless he establishes, pursuant to a protest, that the copy sent for acceptance has not been delivered to him despite his request and that acceptance or payment of any of the other copies has not been made upon presentment thereof.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28173,
+    "source_ar": "المادة (80):",
+    "target_en": "Article 80",
+    "source_ar_norm": "المادة (80):",
+    "target_en_norm": "article 80",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28174,
+    "source_ar": "لحامل الكمبيالة أن يحرر منها صورا، ويجب أن تكون الصورة مطابقة تماما لأصل الكمبيالة بما تحمل من تظهيرات أو أية بيانات أخرى تكون مدونة فيها وأن يكتب عليها أن النسخ عن الأصل انتهى عند هذه الحد. ويجوز تظهير الصورة وضمانها احتياطيًّا على الوجه الذي يجري على الأصل، ويكون للصورة ما للأصل من أحكام.",
+    "target_en": "The holder of a bill of exchange may make copies thereof. Each copy must be identical to the original bill, including all indorsements and other particulars. Upon copying all the indorsements and particulars, he shall indicate the point at which the copying ends. Such copy shall be subject to the same provisions applicable to the original, including those relating to indorsers and reserve guarantors.",
+    "source_ar_norm": "لحامل الكمبيالة ان يحرر منها صورا، ويجب ان تكون الصورة مطابقة تماما لاصل الكمبيالة بما تحمل من تظهيرات او اية بيانات اخري تكون مدونة فيها وان يكتب عليها ان النسخ عن الاصل انتهي عند هذه الحد. ويجوز تظهير الصورة وضمانها احتياطيا علي الوجه الذي يجري علي الاصل، ويكون للصورة ما للاصل من احكام.",
+    "target_en_norm": "the holder of a bill of exchange may make copies thereof. each copy must be identical to the original bill, including all indorsements and other particulars. upon copying all the indorsements and particulars, he shall indicate the point at which the copying ends. such copy shall be subject to the same provisions applicable to the original, including those relating to indorsers and reserve guarantors.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28175,
+    "source_ar": "المادة (81):",
+    "target_en": "Article 81",
+    "source_ar_norm": "المادة (81):",
+    "target_en_norm": "article 81",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28176,
+    "source_ar": "يجب أن يبين في صورة الكمبيالة اسم حائز الأصل، وعلى هذا الأخير أن يسلم الأصل للحامل الشرعي للصورة، وإذا امتنع حائز الأصل عن تسليمه لم يكن لحامل الصورة حق الرجوع على مظهريها أو ضامنيها الاحتياطيين إلا إذا أثبت باحتجاج أن الأصل لم يسلم إليه بناء على طلبه.",
+    "target_en": "A copy of a bill of exchange shall indicate the name of the person in possession of the original bill, and the latter shall deliver the original to the lawful holder of the copy. If the person in possession of the original refuses to deliver it, the holder of the copy shall have no right of recourse against the bill’s indorsers or reserve guarantors, unless he establishes, pursuant to a protest, that the original has not been delivered to him upon request.",
+    "source_ar_norm": "يجب ان يبين في صورة الكمبيالة اسم حائز الاصل، وعلي هذا الاخير ان يسلم الاصل للحامل الشرعي للصورة، واذا امتنع حائز الاصل عن تسليمه لم يكن لحامل الصورة حق الرجوع علي مظهريها او ضامنيها الاحتياطيين الا اذا اثبت باحتجاج ان الاصل لم يسلم اليه بناء علي طلبه.",
+    "target_en_norm": "a copy of a bill of exchange shall indicate the name of the person in possession of the original bill, and the latter shall deliver the original to the lawful holder of the copy. if the person in possession of the original refuses to deliver it, the holder of the copy shall have no right of recourse against the bill’s indorsers or reserve guarantors, unless he establishes, pursuant to a protest, that the original has not been delivered to him upon request.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28177,
+    "source_ar": "وإذا كتب على الأصل عقب التظهير الأخير الحاصل قبل عمل الصورة أنه منذ الآن لا يسمح التظهير إلا على الصورة فكل تظهير على الأصل بعد ذلك يكون باطلا.",
+    "target_en": "If, after the last indorsement made on the original bill and prior to making a copy thereof, a statement is written on the original bill stipulating that subsequent indorsements may only be made on the copy, any subsequent indorsement made on the original bill shall be deemed null and void.",
+    "source_ar_norm": "واذا كتب علي الاصل عقب التظهير الاخير الحاصل قبل عمل الصورة انه منذ الان لا يسمح التظهير الا علي الصورة فكل تظهير علي الاصل بعد ذلك يكون باطلا.",
+    "target_en_norm": "if, after the last indorsement made on the original bill and prior to making a copy thereof, a statement is written on the original bill stipulating that subsequent indorsements may only be made on the copy, any subsequent indorsement made on the original bill shall be deemed null and void.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28178,
+    "source_ar": "المادة (82):",
+    "target_en": "Article 82",
+    "source_ar_norm": "المادة (82):",
+    "target_en_norm": "article 82",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28179,
+    "source_ar": "إذا وقع تحريف في متن الكمبيالة التزم الموقعون اللاحقون لهذا التحريف بما ورد في المتن المحرف، أما الموقعون السابقون فيلزمون بما ورد في المتن الأصلي.",
+    "target_en": "If an alteration is made to the body of a bill of exchange, the signatories subsequent to such alteration shall be liable under the altered bill. However, the previous signatories shall be liable under the original bill.",
+    "source_ar_norm": "اذا وقع تحريف في متن الكمبيالة التزم الموقعون اللاحقون لهذا التحريف بما ورد في المتن المحرف، اما الموقعون السابقون فيلزمون بما ورد في المتن الاصلي.",
+    "target_en_norm": "if an alteration is made to the body of a bill of exchange, the signatories subsequent to such alteration shall be liable under the altered bill. however, the previous signatories shall be liable under the original bill.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28180,
+    "source_ar": "الفصل التاسع: آثار أعمال الحامل (السقوط)",
+    "target_en": "Chapter 9: Effects of a Holder’s Negligence (Forfeiture)",
+    "source_ar_norm": "الفصل التاسع: اثار اعمال الحامل (السقوط)",
+    "target_en_norm": "chapter 9: effects of a holder’s negligence (forfeiture)",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28181,
+    "source_ar": "المادة (83):",
+    "target_en": "Article 83",
+    "source_ar_norm": "المادة (83):",
+    "target_en_norm": "article 83",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28182,
+    "source_ar": "يفقد الحامل حقوقه الناشئة عن الكمبيالة قبل ساحبها ومظهريها وغيرهم من الملتزمين عدا قابلها بمضي المواعيد المقررة لإجراء ما يأتي:",
+    "target_en": "The holder of a bill of exchange shall forfeit his rights which arise therefrom against the drawer, indorsers, and other obligors under the bill, but not against the acceptor thereof, after the expiry of the periods prescribed for carrying out the following:",
+    "source_ar_norm": "يفقد الحامل حقوقه الناشئة عن الكمبيالة قبل ساحبها ومظهريها وغيرهم من الملتزمين عدا قابلها بمضي المواعيد المقررة لاجراء ما ياتي:",
+    "target_en_norm": "the holder of a bill of exchange shall forfeit his rights which arise therefrom against the drawer, indorsers, and other obligors under the bill, but not against the acceptor thereof, after the expiry of the periods prescribed for carrying out the following:",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28183,
+    "source_ar": "أ - تقديم الكمبيالة المستحقة الوفاء لدى الاطلاع عليها أو بعد مدة من الاطلاع.",
+    "target_en": "a) Presentment of a bill payable at sight or at a fixed period thereafter.",
+    "source_ar_norm": "ا - تقديم الكمبيالة المستحقة الوفاء لدي الاطلاع عليها او بعد مدة من الاطلاع.",
+    "target_en_norm": "a) presentment of a bill payable at sight or at a fixed period thereafter.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28184,
+    "source_ar": "ب - عمل احتجاج عدم القبول أو عدم الوفاء.",
+    "target_en": "b) Making a protest for non-acceptance or non-payment.",
+    "source_ar_norm": "ب - عمل احتجاج عدم القبول او عدم الوفاء.",
+    "target_en_norm": "b) making a protest for non-acceptance or non-payment.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28185,
+    "source_ar": "ج - تقديم الكمبيالة للوفاء في حالة اشتمالها على شرط الرجوع بلا مصروفات، أو (بدون احتجاج).",
+    "target_en": "c) Presentment of the bill for payment if the stipulation “recourse without expenses” or “without protest” is stated therein.",
+    "source_ar_norm": "ج - تقديم الكمبيالة للوفاء في حالة اشتمالها علي شرط الرجوع بلا مصروفات، او (بدون احتجاج).",
+    "target_en_norm": "c) presentment of the bill for payment if the stipulation “recourse without expenses” or “without protest” is stated therein.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28186,
+    "source_ar": "ومع ذلك لا يفيد الساحب من هذا السقوط إلا إذا أثبت أنه أوجد مقابل الوفاء في ميعاد الاستحقاق، وفي هذه الحالة لا يبقى للحامل إلا الرجوع على المسحوب عليه.",
+    "target_en": "The drawer shall not benefit from such forfeiture unless he establishes that the funds for payment are available on the maturity date; in such case, the holder may only have recourse against the drawee.",
+    "source_ar_norm": "ومع ذلك لا يفيد الساحب من هذا السقوط الا اذا اثبت انه اوجد مقابل الوفاء في ميعاد الاستحقاق، وفي هذه الحالة لا يبقي للحامل الا الرجوع علي المسحوب عليه.",
+    "target_en_norm": "the drawer shall not benefit from such forfeiture unless he establishes that the funds for payment are available on the maturity date; in such case, the holder may only have recourse against the drawee.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28187,
+    "source_ar": "وإذا لم تقدم الكمبيالة للقبول في الميعاد الذي شرطه الساحب سقطت حقوق حاملها في الرجوع بسبب عدم القبول وعدم الوفاء إلا إذا تبين من عبارة الشرط أن الساحب لم يقصد منه سوى إعفاء نفسه من ضمان القبول.",
+    "target_en": "If the bill is not presented for acceptance within the period stipulated by the drawer, the holder thereof shall forfeit his right of recourse on the grounds of non-acceptance and non-payment, unless it is assumed from the stipulation that the drawer only intended to discharge himself from guaranteeing the acceptance.",
+    "source_ar_norm": "واذا لم تقدم الكمبيالة للقبول في الميعاد الذي شرطه الساحب سقطت حقوق حاملها في الرجوع بسبب عدم القبول وعدم الوفاء الا اذا تبين من عبارة الشرط ان الساحب لم يقصد منه سوي اعفاء نفسه من ضمان القبول.",
+    "target_en_norm": "if the bill is not presented for acceptance within the period stipulated by the drawer, the holder thereof shall forfeit his right of recourse on the grounds of non-acceptance and non-payment, unless it is assumed from the stipulation that the drawer only intended to discharge himself from guaranteeing the acceptance.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28188,
+    "source_ar": "وإذا كان المظهر هو الذي شرط في التظهير ميعاد تقديم الكمبيالة للقبول فله وحده الإفادة من هذا الشرط.",
+    "target_en": "If the indorser stipulates in the indorsement a date for presentment of the bill for acceptance, only such indorser may benefit from such stipulation.",
+    "source_ar_norm": "واذا كان المظهر هو الذي شرط في التظهير ميعاد تقديم الكمبيالة للقبول فله وحده الافادة من هذا الشرط.",
+    "target_en_norm": "if the indorser stipulates in the indorsement a date for presentment of the bill for acceptance, only such indorser may benefit from such stipulation.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28189,
+    "source_ar": "الفصل العاشر: عدم سماع الدعوى",
+    "target_en": "Chapter 10: Claim Dismissal",
+    "source_ar_norm": "الفصل العاشر: عدم سماع الدعوي",
+    "target_en_norm": "chapter 10: claim dismissal",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28190,
+    "source_ar": "المادة (84):",
+    "target_en": "Article 84",
+    "source_ar_norm": "المادة (84):",
+    "target_en_norm": "article 84",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28191,
+    "source_ar": "دون إخلال بحقوق الحامل المستمدة من علاقته الأصلية بمن تلقى عنه الكمبيالة، لا تسمع الدعوى الناشئة عن الكمبيالة تجاه قابلها بعد مضي ثلاث سنوات من تاريخ الاستحقاق ولا تسمع دعاوى الحامل تجاه الساحب أو المظهرين بعد مضي سنة من تاريخ الاحتجاج المحرر في الميعاد النظامي أو من تاريخ الاستحقاق إن اشتملت على شرط الرجوع بلا مصروفات أو بدون احتجاج.",
+    "target_en": "Without prejudice to the rights of the holder which arise from his original relationship with the person from whom he received the bill of exchange, a claim which arises from the bill against the acceptor thereof shall not be heard upon the lapse of three years from its maturity date nor a claim filed by the holder against the drawer or the indorsers upon the lapse of one year from the date of the protest made within the prescribed period or from the maturity date if the stipulation “recourse without expenses” or “without protest” is stated in the bill.",
+    "source_ar_norm": "دون اخلال بحقوق الحامل المستمدة من علاقته الاصلية بمن تلقي عنه الكمبيالة، لا تسمع الدعوي الناشئة عن الكمبيالة تجاه قابلها بعد مضي ثلاث سنوات من تاريخ الاستحقاق ولا تسمع دعاوي الحامل تجاه الساحب او المظهرين بعد مضي سنة من تاريخ الاحتجاج المحرر في الميعاد النظامي او من تاريخ الاستحقاق ان اشتملت علي شرط الرجوع بلا مصروفات او بدون احتجاج.",
+    "target_en_norm": "without prejudice to the rights of the holder which arise from his original relationship with the person from whom he received the bill of exchange, a claim which arises from the bill against the acceptor thereof shall not be heard upon the lapse of three years from its maturity date nor a claim filed by the holder against the drawer or the indorsers upon the lapse of one year from the date of the protest made within the prescribed period or from the maturity date if the stipulation “recourse without expenses” or “without protest” is stated in the bill.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28192,
+    "source_ar": "ولا تسمع دعاوى المظهرين بعضهم تجاه بعض أو تجاه الساحب بعد مضي ستة شهور من اليوم الذي وفى فيه المظهر الكمبيالة أو من يوم إقامة الدعوى عليه.",
+    "target_en": "A claim filed by the indorsers against each other or against the drawer shall not be heard upon the lapse of six months from the day on which an indorser pays the bill or from the day on which the claim is filed against him.",
+    "source_ar_norm": "ولا تسمع دعاوي المظهرين بعضهم تجاه بعض او تجاه الساحب بعد مضي ستة شهور من اليوم الذي وفي فيه المظهر الكمبيالة او من يوم اقامة الدعوي عليه.",
+    "target_en_norm": "a claim filed by the indorsers against each other or against the drawer shall not be heard upon the lapse of six months from the day on which an indorser pays the bill or from the day on which the claim is filed against him.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28193,
+    "source_ar": "المادة (85):",
+    "target_en": "Article 85",
+    "source_ar_norm": "المادة (85):",
+    "target_en_norm": "article 85",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28194,
+    "source_ar": "لا تسري المواعيد المذكورة في المادة السابقة في حالة إقامة الدعوى إلا من يوم آخر إجراء فيها ولا تسري هذه المواعيد إذا صدر حكم بالدين أو أقر به المدين في ورقة مستقلة إقرارا يترتب عليه تجديد الدين.",
+    "target_en": "If a claim is filed, the periods prescribed in Article 84 shall only take effect from the date of the last action taken. Such periods shall not apply if a judgment debt is rendered or if the debtor acknowledges the debt on a separate document and a debt rollover arises therefrom.",
+    "source_ar_norm": "لا تسري المواعيد المذكورة في المادة السابقة في حالة اقامة الدعوي الا من يوم اخر اجراء فيها ولا تسري هذه المواعيد اذا صدر حكم بالدين او اقر به المدين في ورقة مستقلة اقرارا يترتب عليه تجديد الدين.",
+    "target_en_norm": "if a claim is filed, the periods prescribed in article 84 shall only take effect from the date of the last action taken. such periods shall not apply if a judgment debt is rendered or if the debtor acknowledges the debt on a separate document and a debt rollover arises therefrom.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28195,
+    "source_ar": "المادة (86):",
+    "target_en": "Article 86",
+    "source_ar_norm": "المادة (86):",
+    "target_en_norm": "article 86",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28196,
+    "source_ar": "لا يكون لانقطاع المواعيد أثر بالنسبة لمن اتخذ قبله الإجراء القاطع لهذه المواعيد.",
+    "target_en": "Interruption of the prescribed periods shall not affect the person against whom the action causing the interruption was taken.",
+    "source_ar_norm": "لا يكون لانقطاع المواعيد اثر بالنسبة لمن اتخذ قبله الاجراء القاطع لهذه المواعيد.",
+    "target_en_norm": "interruption of the prescribed periods shall not affect the person against whom the action causing the interruption was taken.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28197,
+    "source_ar": "الباب الثاني: السند لأمر",
+    "target_en": "Part 2: Promissory Note",
+    "source_ar_norm": "الباب الثاني: السند لامر",
+    "target_en_norm": "part 2: promissory note",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28198,
+    "source_ar": "المادة (87):",
+    "target_en": "Article 87",
+    "source_ar_norm": "المادة (87):",
+    "target_en_norm": "article 87",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28199,
+    "source_ar": "يشتمل السند لأمر على البيانات الآتية:",
+    "target_en": "A promissory note shall include:",
+    "source_ar_norm": "يشتمل السند لامر علي البيانات الاتية:",
+    "target_en_norm": "a promissory note shall include:",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28200,
+    "source_ar": "أ - شرط الأمر أو عبارة (سند لأمر) مكتوبة في متن السند وباللغة التي كتب بها.",
+    "target_en": "a) the statements “payable to order” or “promissory note” written in the body of the instrument and in the language in which the note is made;",
+    "source_ar_norm": "ا - شرط الامر او عبارة (سند لامر) مكتوبة في متن السند وباللغة التي كتب بها.",
+    "target_en_norm": "a) the statements “payable to order” or “promissory note” written in the body of the instrument and in the language in which the note is made;",
+    "file_name": "نظام الأوراق التجارية.docx"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 23601,
+    "source_ar": "يقصد بالمصطلحات الآتية أينما وردت في هذا النظام المعاني المبينة أمامها ما لم يقتض السياق خلاف ذلك:",
+    "target_en": "Whenever they occur in this Law, the following terms shall have the meanings expressed next to them unless the context indicates otherwise:",
+    "source_ar_norm": "يقصد بالمصطلحات الاتية اينما وردت في هذا النظام المعاني المبينة امامها ما لم يقتض السياق خلاف ذلك:",
+    "target_en_norm": "whenever they occur in this law, the following terms shall have the meanings expressed next to them unless the context indicates otherwise:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23602,
+    "source_ar": "المنشأة: المصنع أو المؤسسة أو الشركة التي يملكها شخص أو أشخاص من ذوي الصفة الطبيعية أو الاعتبارية، وكل التجمعات التي تمارس أعمالًا تجارية أو زراعية أو صناعية أو خدمية، أو تبيع وتشتري سلعًا أو خدمات.",
+    "target_en": "Firm: Factory, establishment or company owned by natural or corporate person(s), and all groupings practicing commercial, agricultural, industrial or service activities, or selling and purchasing commodities or services.",
+    "source_ar_norm": "المنشاة: المصنع او المؤسسة او الشركة التي يملكها شخص او اشخاص من ذوي الصفة الطبيعية او الاعتبارية، وكل التجمعات التي تمارس اعمالا تجارية او زراعية او صناعية او خدمية، او تبيع وتشتري سلعا او خدمات.",
+    "target_en_norm": "firm: factory, establishment or company owned by natural or corporate person(s), and all groupings practicing commercial, agricultural, industrial or service activities, or selling and purchasing commodities or services.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23603,
+    "source_ar": "السوق: مكان أو وسيلة يلتقي فيه مجموعة من المشترين والبائعين الحاليين والمرتقبين خلال فترة زمنية معينة.",
+    "target_en": "Market: Place or means where a group of current and prospective buyers and venders meet during a specific period of time.",
+    "source_ar_norm": "السوق: مكان او وسيلة يلتقي فيه مجموعة من المشترين والبائعين الحاليين والمرتقبين خلال فترة زمنية معينة.",
+    "target_en_norm": "market: place or means where a group of current and prospective buyers and venders meet during a specific period of time.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23604,
+    "source_ar": "الهيمنة: وضع تكون من خلاله المنشأة أو مجموعة منشآت قادرة على التأثير في السعر السائد في السوق من خلال التحكم في نسبة معينة من العرض الكلي لسلعة أو خدمة معينة في الصناعة التي تمارس نشاطها فيها. وتحدد اللائحة هذه النسبة طبقًا لمعايير تشمل تركيبة السوق ومدى سهولة دخول منشآت أخرى للسوق، وأي معايير أخرى يقررها المجلس.",
+    "target_en": "Domination: A situation where a firm or a group of firms are able to influence the market prevailing price through controlling a certain percentage of the total supply of a commodity or service in the industry of its business. The Regulations shall specify this percentage according to criteria which include the market structure, the easiness of market entry by other firms, and any other criteria determined by the Council.",
+    "source_ar_norm": "الهيمنة: وضع تكون من خلاله المنشاة او مجموعة منشات قادرة علي التاثير في السعر السائد في السوق من خلال التحكم في نسبة معينة من العرض الكلي لسلعة او خدمة معينة في الصناعة التي تمارس نشاطها فيها. وتحدد اللائحة هذه النسبة طبقا لمعايير تشمل تركيبة السوق ومدي سهولة دخول منشات اخري للسوق، واي معايير اخري يقررها المجلس.",
+    "target_en_norm": "domination: a situation where a firm or a group of firms are able to influence the market prevailing price through controlling a certain percentage of the total supply of a commodity or service in the industry of its business. the regulations shall specify this percentage according to criteria which include the market structure, the easiness of market entry by other firms, and any other criteria determined by the council.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23605,
+    "source_ar": "الاندماج: ضم منشأة إلى أخرى أو أكثر، أو ضم منشأتين أو أكثر في منشأة جديدة.",
+    "target_en": "Merger: Merging a firm with one or more firms or the merger of two or more firms into a new one.",
+    "source_ar_norm": "الاندماج: ضم منشاة الي اخري او اكثر، او ضم منشاتين او اكثر في منشاة جديدة.",
+    "target_en_norm": "merger: merging a firm with one or more firms or the merger of two or more firms into a new one.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23606,
+    "source_ar": "المجلس: مجلس حماية المنافسة.",
+    "target_en": "Council: Council of Competition Protection.",
+    "source_ar_norm": "المجلس: مجلس حماية المنافسة.",
+    "target_en_norm": "council: council of competition protection.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23607,
+    "source_ar": "الوزارة: وزارة التجارة والصناعة.",
+    "target_en": "Ministry: Ministry of Commerce and Industry.",
+    "source_ar_norm": "الوزارة: وزارة التجارة والصناعة.",
+    "target_en_norm": "ministry: ministry of commerce and industry.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23608,
+    "source_ar": "الوزير: وزير التجارة والصناعة.",
+    "target_en": "Minister: Minister of Commerce and Industry.",
+    "source_ar_norm": "الوزير: وزير التجارة والصناعة.",
+    "target_en_norm": "minister: minister of commerce and industry.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23609,
+    "source_ar": "اللائحة: اللائحة التنفيذية لهذا النظام.",
+    "target_en": "Regulations: Implementing Regulations of this Law.",
+    "source_ar_norm": "اللائحة: اللائحة التنفيذية لهذا النظام.",
+    "target_en_norm": "regulations: implementing regulations of this law.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23610,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article Three:",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article three:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23611,
+    "source_ar": "تطبق أحكام هذا النظام على جميع المنشآت العاملة في الأسواق السعودية ما عدا المؤسسات العامة والشركات المملوكة بالكامل للدولة.",
+    "target_en": "Provisions of this Law shall apply to all firms working in Saudi markets except public establishments and wholly-owned state companies.",
+    "source_ar_norm": "تطبق احكام هذا النظام علي جميع المنشات العاملة في الاسواق السعودية ما عدا المؤسسات العامة والشركات المملوكة بالكامل للدولة.",
+    "target_en_norm": "provisions of this law shall apply to all firms working in saudi markets except public establishments and wholly-owned state companies.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23612,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article Four:",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article four:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23613,
+    "source_ar": "تحظر الممارسات أو الاتفاقيات أو العقود بين المنشآت المتنافسة أو تلك التي من المحتمل أن تكون متنافسة، سواء أكانت العقود مكتوبة أو شفهية، وصريحة كانت أم ضمنية، إذا كان الهدف من هذه الممارسات أو الاتفاقات أو العقود أو الأثر المترتب عليها تقييد التجارة أو الإخلال بالمنافسة بين المنشآت.",
+    "target_en": "Practices, agreements or contracts among current or potential competing firms, whether the contracts are written or verbal, expressed or implied shall be prohibited, if the objective of such practices, agreements or contracts, or consequent impact thereof is the restriction of commerce or violation of competition among firms.",
+    "source_ar_norm": "تحظر الممارسات او الاتفاقيات او العقود بين المنشات المتنافسة او تلك التي من المحتمل ان تكون متنافسة، سواء اكانت العقود مكتوبة او شفهية، وصريحة كانت ام ضمنية، اذا كان الهدف من هذه الممارسات او الاتفاقات او العقود او الاثر المترتب عليها تقييد التجارة او الاخلال بالمنافسة بين المنشات.",
+    "target_en_norm": "practices, agreements or contracts among current or potential competing firms, whether the contracts are written or verbal, expressed or implied shall be prohibited, if the objective of such practices, agreements or contracts, or consequent impact thereof is the restriction of commerce or violation of competition among firms.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23614,
+    "source_ar": "كذلك يحظر على المنشأة أو المنشآت التي تتمتع بوضع مهيمن، أي ممارسة تحد من المنافسة بين المنشآت، وفقًا للشروط والضوابط المبينة في اللائحة، وبخاصة ما يأتي:",
+    "target_en": "A firm or firms enjoying a dominant position shall also be banned from carrying out any practice which restricts competition among firms, in accordance with the conditions and rules specified in the Regulations, especially the following:",
+    "source_ar_norm": "كذلك يحظر علي المنشاة او المنشات التي تتمتع بوضع مهيمن، اي ممارسة تحد من المنافسة بين المنشات، وفقا للشروط والضوابط المبينة في اللائحة، وبخاصة ما ياتي:",
+    "target_en_norm": "a firm or firms enjoying a dominant position shall also be banned from carrying out any practice which restricts competition among firms, in accordance with the conditions and rules specified in the regulations, especially the following:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23615,
+    "source_ar": "١ - التحكم في أسعار السلع والخدمات المعدة للبيع بالزيادة أو الخفض، أو التثبيت، أو بأي صورة أخرى تضر المنافسة المشروعة.",
+    "target_en": "١. Controlling prices of commodities and services intended for sale by increasing, decreasing, fixing their prices or in any other manner detrimental to lawful competition.",
+    "source_ar_norm": "١ - التحكم في اسعار السلع والخدمات المعدة للبيع بالزيادة او الخفض، او التثبيت، او باي صورة اخري تضر المنافسة المشروعة.",
+    "target_en_norm": "١. controlling prices of commodities and services intended for sale by increasing, decreasing, fixing their prices or in any other manner detrimental to lawful competition.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23616,
+    "source_ar": "٢ - الحد من حرية تدفق السلع والخدمات إلى الأسواق أو إخراجها منها بصفة كلية أو جزئية، وذلك من خلال إخفائها، أو تخزينها دون وجه حق، أو الامتناع عن التعامل فيها.",
+    "target_en": "٢. Restricting freedom of flow of commodities and services to markets or removing them, wholly or partially, therefrom by hiding, unlawfully storing, or refraining from dealing in them.",
+    "source_ar_norm": "٢ - الحد من حرية تدفق السلع والخدمات الي الاسواق او اخراجها منها بصفة كلية او جزئية، وذلك من خلال اخفائها، او تخزينها دون وجه حق، او الامتناع عن التعامل فيها.",
+    "target_en_norm": "٢. restricting freedom of flow of commodities and services to markets or removing them, wholly or partially, therefrom by hiding, unlawfully storing, or refraining from dealing in them.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23617,
+    "source_ar": "٣ - افتعال وفرة مفاجئة في السلع والخدمات بحيث يؤدي تداولها إلى سعر غير حقيقي، يؤثر في باقي المتعاملين في السوق.",
+    "target_en": "٣. Contriving a sudden abundance of commodities and services which results in an unrealistic price affecting other dealers in the market.",
+    "source_ar_norm": "٣ - افتعال وفرة مفاجئة في السلع والخدمات بحيث يؤدي تداولها الي سعر غير حقيقي، يؤثر في باقي المتعاملين في السوق.",
+    "target_en_norm": "٣. contriving a sudden abundance of commodities and services which results in an unrealistic price affecting other dealers in the market.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23618,
+    "source_ar": "٤- منع أي منشأة من استخدام حقها في دخول السوق أو الخروج منه أو عرقلة ذلك في أي وقت.",
+    "target_en": "٤. Preventing any firm from exercising its right to enter or move out of the market at any time or hampering the same.",
+    "source_ar_norm": "٤- منع اي منشاة من استخدام حقها في دخول السوق او الخروج منه او عرقلة ذلك في اي وقت.",
+    "target_en_norm": "٤. preventing any firm from exercising its right to enter or move out of the market at any time or hampering the same.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23619,
+    "source_ar": "٥- حجب السلع والخدمات المتاحة في السوق بصفة كلية أو جزئية عن منشأة أو منشآت معينة.",
+    "target_en": "٥. Depriving, wholly or partially, certain firm or firms of commodities and services available in the market.",
+    "source_ar_norm": "٥- حجب السلع والخدمات المتاحة في السوق بصفة كلية او جزئية عن منشاة او منشات معينة.",
+    "target_en_norm": "٥. depriving, wholly or partially, certain firm or firms of commodities and services available in the market.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23620,
+    "source_ar": "٦- تقسيم الأسواق لبيع أو شراء السلع والخدمات أو تخصيصها طبقًا لأي من المعايير الآتية:",
+    "target_en": "٦. Dividing or allocating markets for selling or purchasing commodities and services pursuant to any of the following criteria:",
+    "source_ar_norm": "٦- تقسيم الاسواق لبيع او شراء السلع والخدمات او تخصيصها طبقا لاي من المعايير الاتية:",
+    "target_en_norm": "٦. dividing or allocating markets for selling or purchasing commodities and services pursuant to any of the following criteria:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23621,
+    "source_ar": "أ - المناطق الجغرافية.",
+    "target_en": "(a) Geographical regions",
+    "source_ar_norm": "ا - المناطق الجغرافية.",
+    "target_en_norm": "(a) geographical regions",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23622,
+    "source_ar": "ب - مراكز التوزيع.",
+    "target_en": "(b) Distribution centers",
+    "source_ar_norm": "ب - مراكز التوزيع.",
+    "target_en_norm": "(b) distribution centers",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23623,
+    "source_ar": "ج - نوعية العملاء.",
+    "target_en": "(c) Type of clients",
+    "source_ar_norm": "ج - نوعية العملاء.",
+    "target_en_norm": "(c) type of clients",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23624,
+    "source_ar": "د - المواسم والفترات الزمنية.",
+    "target_en": "(d) Seasons and time periods.",
+    "source_ar_norm": "د - المواسم والفترات الزمنية.",
+    "target_en_norm": "(d) seasons and time periods.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23625,
+    "source_ar": "٧ - التأثير في السعر الطبيعي لعروض بيع السلع والخدمات أو شرائها أو توريدها سواء في المنافسات أو المزايدات الحكومية أو غير الحكومية.",
+    "target_en": "٧. Influencing the normal price of sale, purchase, or supply quotations of commodities and services whether in government or non-government bids or auctions.",
+    "source_ar_norm": "٧ - التاثير في السعر الطبيعي لعروض بيع السلع والخدمات او شرائها او توريدها سواء في المنافسات او المزايدات الحكومية او غير الحكومية.",
+    "target_en_norm": "٧. influencing the normal price of sale, purchase, or supply quotations of commodities and services whether in government or non-government bids or auctions.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23626,
+    "source_ar": "٨ - تجميد عمليات التصنيع والتطوير والتوزيع والتسويق وجميع أوجه الاستثمار الأخرى، أو الحد من ذلك.",
+    "target_en": "٨. Freezing or restricting manufacturing, development, distribution or marketing processes and all other aspects of investment, or restricting the same.",
+    "source_ar_norm": "٨ - تجميد عمليات التصنيع والتطوير والتوزيع والتسويق وجميع اوجه الاستثمار الاخري، او الحد من ذلك.",
+    "target_en_norm": "٨. freezing or restricting manufacturing, development, distribution or marketing processes and all other aspects of investment, or restricting the same.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23627,
+    "source_ar": "ويجوز للمجلس عدم تطبيق أحكام هذه المادة على الممارسات والاتفاقات المخلة بالمنافسة التي من شأنها أن تؤدي إلى تحسين أداء المنشآت وتحقيق فائدة للمستهلك تفوق آثار الحد من حرية المنافسة، كما توضحه الشروط والضوابط في اللائحة.",
+    "target_en": "The Council may choose not to apply provisions of this Article to practices and agreements in violation of competition which are believed to improve the performance of firms and realize a benefit for the consumer exceeding the effects of restricting freedom of competition, as specified by the conditions and rules in the Regulations.",
+    "source_ar_norm": "ويجوز للمجلس عدم تطبيق احكام هذه المادة علي الممارسات والاتفاقات المخلة بالمنافسة التي من شانها ان تؤدي الي تحسين اداء المنشات وتحقيق فائدة للمستهلك تفوق اثار الحد من حرية المنافسة، كما توضحه الشروط والضوابط في اللائحة.",
+    "target_en_norm": "the council may choose not to apply provisions of this article to practices and agreements in violation of competition which are believed to improve the performance of firms and realize a benefit for the consumer exceeding the effects of restricting freedom of competition, as specified by the conditions and rules in the regulations.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23628,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article Five:",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article five:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23629,
+    "source_ar": "يحظر على المنشأة التي تتمتع بوضع مهيمن أي ممارسة تحد من المنافسة، وفقًا لما تحدده اللائحة، ومن ذلك:",
+    "target_en": "A firm enjoying a dominant position shall be banned from any practice restricting competition, as specified by the Regulations, including:",
+    "source_ar_norm": "يحظر علي المنشاة التي تتمتع بوضع مهيمن اي ممارسة تحد من المنافسة، وفقا لما تحدده اللائحة، ومن ذلك:",
+    "target_en_norm": "a firm enjoying a dominant position shall be banned from any practice restricting competition, as specified by the regulations, including:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23630,
+    "source_ar": "1- بيع السلعة أو الخدمة بسعر أقل من التكلفة، بهدف إخراج منافسين من السوق.",
+    "target_en": "١. selling a commodity or service at a price below cost, with the intention of forcing competitors out of the market.",
+    "source_ar_norm": "1- بيع السلعة او الخدمة بسعر اقل من التكلفة، بهدف اخراج منافسين من السوق.",
+    "target_en_norm": "١. selling a commodity or service at a price below cost, with the intention of forcing competitors out of the market.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23631,
+    "source_ar": "2- فرض قيود على توريد السلعة أو الخدمة بهدف إيجاد نقص مصطنع في توافر المنتج لزيادة الأسعار.",
+    "target_en": "٢. imposing restrictions on the supply of a commodity or service, with the intention of creating an artificial shortage in its availability in order to raise prices.",
+    "source_ar_norm": "2- فرض قيود علي توريد السلعة او الخدمة بهدف ايجاد نقص مصطنع في توافر المنتج لزيادة الاسعار.",
+    "target_en_norm": "٢. imposing restrictions on the supply of a commodity or service, with the intention of creating an artificial shortage in its availability in order to raise prices.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23632,
+    "source_ar": "3- فرض اشتراطات خاصة على عمليات البيع أو الشراء، أو على التعامل مع منشأة أخرى على نحو يضعها في مركز تنافسي ضعيف بالنسبة إلى المنشآت المتنافسة.",
+    "target_en": "٣. imposing certain conditions on selling and purchasing transactions or on dealing with another firm, in a manner that puts it in a weak competitive position compared to other competing firms.",
+    "source_ar_norm": "3- فرض اشتراطات خاصة علي عمليات البيع او الشراء، او علي التعامل مع منشاة اخري علي نحو يضعها في مركز تنافسي ضعيف بالنسبة الي المنشات المتنافسة.",
+    "target_en_norm": "٣. imposing certain conditions on selling and purchasing transactions or on dealing with another firm, in a manner that puts it in a weak competitive position compared to other competing firms.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23633,
+    "source_ar": "4- رفض المنشأة التعامل مع منشأة أخرى دون مسوغ، وذلك من أجل الحد من دخولها السوق.",
+    "target_en": "٤. refusing to deal with another firm without justification in order to restrict its entry into the market.",
+    "source_ar_norm": "4- رفض المنشاة التعامل مع منشاة اخري دون مسوغ، وذلك من اجل الحد من دخولها السوق.",
+    "target_en_norm": "٤. refusing to deal with another firm without justification in order to restrict its entry into the market.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23634,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article Six:",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article six:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23635,
+    "source_ar": "١- على المنشآت المشاركة في عملية الاندماج، أو المنشآت التي ترغب تملك أصول أو حقوق ملكية أو حقوق انتفاع أو أسهم، تجعلها في وضع مهيمن، إبلاغ المجلس كتابة قبل ستين يومًا على الأقل من إتمامها.",
+    "target_en": "١. Firms involved in merger operations or firms desiring to acquire assets, proprietary rights, usufructs or shares, which causes them to be in a dominating position, shall notify the Council in writing at least sixty days prior to completion of the same.",
+    "source_ar_norm": "١- علي المنشات المشاركة في عملية الاندماج، او المنشات التي ترغب تملك اصول او حقوق ملكية او حقوق انتفاع او اسهم، تجعلها في وضع مهيمن، ابلاغ المجلس كتابة قبل ستين يوما علي الاقل من اتمامها.",
+    "target_en_norm": "١. firms involved in merger operations or firms desiring to acquire assets, proprietary rights, usufructs or shares, which causes them to be in a dominating position, shall notify the council in writing at least sixty days prior to completion of the same.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23636,
+    "source_ar": "٢- على المنشآت المتنافسة التي ترغب في الجمع بين إدارتين أو أكثر بإدارة مشتركة بينهما إذا نتج عن ذلك وضع مهيمن، إبلاغ المجلس كتابة قبل ستين يومًا على الأقل من إتمامها.",
+    "target_en": "٢. Competing firms desiring to combine two or more managements into one joint management shall, if that results in a dominant position, notify the Council in writing at least sixty days prior to completion of the same.",
+    "source_ar_norm": "٢- علي المنشات المتنافسة التي ترغب في الجمع بين ادارتين او اكثر بادارة مشتركة بينهما اذا نتج عن ذلك وضع مهيمن، ابلاغ المجلس كتابة قبل ستين يوما علي الاقل من اتمامها.",
+    "target_en_norm": "٢. competing firms desiring to combine two or more managements into one joint management shall, if that results in a dominant position, notify the council in writing at least sixty days prior to completion of the same.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23637,
+    "source_ar": "٣- تحدد اللائحة مواعيد هذا الإبلاغ وشكله وبيانات محتواه والمعلومات والمستندات المطلوبة، والإجراءات الواجب اتباعها في تقديمه، والمقابل المالي المستحق لفحصه.",
+    "target_en": "٣. The Regulations shall specify the times of such notification, its form and content, information and documents required, procedures to be followed in submitting it as well as the due fees for the inspection thereof.",
+    "source_ar_norm": "٣- تحدد اللائحة مواعيد هذا الابلاغ وشكله وبيانات محتواه والمعلومات والمستندات المطلوبة، والاجراءات الواجب اتباعها في تقديمه، والمقابل المالي المستحق لفحصه.",
+    "target_en_norm": "٣. the regulations shall specify the times of such notification, its form and content, information and documents required, procedures to be followed in submitting it as well as the due fees for the inspection thereof.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23638,
+    "source_ar": "٤- للمجلس الاطلاع على جميع البيانات الضرورية قبل إصدار قرار بالموافقة أو الرفض على ما يتم إبلاغه به وفقًا لما ورد في الفقرتين (١) و(٢) أعلاه، مع بيان الأسباب في كل حالة.",
+    "target_en": "٤. The Council may review all necessary information prior to issuing a decision of approval or rejection of the notification submitted thereto, in accordance with paragraphs (١) and (٢) above, giving justification in each case.",
+    "source_ar_norm": "٤- للمجلس الاطلاع علي جميع البيانات الضرورية قبل اصدار قرار بالموافقة او الرفض علي ما يتم ابلاغه به وفقا لما ورد في الفقرتين (١) و(٢) اعلاه، مع بيان الاسباب في كل حالة.",
+    "target_en_norm": "٤. the council may review all necessary information prior to issuing a decision of approval or rejection of the notification submitted thereto, in accordance with paragraphs (١) and (٢) above, giving justification in each case.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23639,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article Seven:",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article seven:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23640,
+    "source_ar": "يجوز للمنشأة المشار إليها في (المادة السادسة) من هذا النظام، استكمال إجراءات الاندماج، أو التملك، أو الجمع بين إدارتين أو أكثر بإدارة مشتركة في الحالات الآتية:",
+    "target_en": "The firm referred to in Article Six of this Law may complete the procedures of merger, acquisition or combining two or more managements into one joint management in the following cases:",
+    "source_ar_norm": "يجوز للمنشاة المشار اليها في (المادة السادسة) من هذا النظام، استكمال اجراءات الاندماج، او التملك، او الجمع بين ادارتين او اكثر بادارة مشتركة في الحالات الاتية:",
+    "target_en_norm": "the firm referred to in article six of this law may complete the procedures of merger, acquisition or combining two or more managements into one joint management in the following cases:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23641,
+    "source_ar": "1- إذا أبلغت كتابة من المجلس بالموافقة.",
+    "target_en": "١. Upon notification in writing of the approval by the Council.",
+    "source_ar_norm": "1- اذا ابلغت كتابة من المجلس بالموافقة.",
+    "target_en_norm": "١. upon notification in writing of the approval by the council.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23642,
+    "source_ar": "2- إذا انقضى ستون يومًا من تاريخ الإبلاغ دون أن يبلغها المجلس كتابة باعتراضه على الصفقة، أو أنها قيد الدراسة والتحري.",
+    "target_en": "٢. Upon expiration of sixty days from the date of notification without being notified by the Council in writing of its objection to the deal or that it is under study and review.",
+    "source_ar_norm": "2- اذا انقضي ستون يوما من تاريخ الابلاغ دون ان يبلغها المجلس كتابة باعتراضه علي الصفقة، او انها قيد الدراسة والتحري.",
+    "target_en_norm": "٢. upon expiration of sixty days from the date of notification without being notified by the council in writing of its objection to the deal or that it is under study and review.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23643,
+    "source_ar": "3- إذا انقضى تسعون يومًا من تاريخ الإبلاغ، وكانت الصفقة قيد الدراسة والتحري، دون أن يبلغها المجلس كتابة بالموافقة أو الرفض.",
+    "target_en": "٣. Upon expiration of ninety days from the date of notification with the deal being under study and review, without being notified by the Council in writing of its approval or rejection.",
+    "source_ar_norm": "3- اذا انقضي تسعون يوما من تاريخ الابلاغ، وكانت الصفقة قيد الدراسة والتحري، دون ان يبلغها المجلس كتابة بالموافقة او الرفض.",
+    "target_en_norm": "٣. upon expiration of ninety days from the date of notification with the deal being under study and review, without being notified by the council in writing of its approval or rejection.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23644,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article Eight:",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article eight:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23645,
+    "source_ar": "1- ينشأ مجلس مستقل يسمى مجلس حماية المنافسة يكون مقره وزارة التجارة والصناعة.",
+    "target_en": "١. An independent council named “Council of Competition Protection” shall be established. It shall be located in the Ministry of Commerce and Industry .",
+    "source_ar_norm": "1- ينشا مجلس مستقل يسمي مجلس حماية المنافسة يكون مقره وزارة التجارة والصناعة.",
+    "target_en_norm": "١. an independent council named “council of competition protection” shall be established. it shall be located in the ministry of commerce and industry .",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23646,
+    "source_ar": "2- يصدر أمر ملكي بتكوين المجلس من كل من:",
+    "target_en": "٢. A Royal Order shall be issued for the formation of the Council as follows:",
+    "source_ar_norm": "2- يصدر امر ملكي بتكوين المجلس من كل من:",
+    "target_en_norm": "٢. a royal order shall be issued for the formation of the council as follows:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23647,
+    "source_ar": "أربعة أعضاء من ذوي الخبرة والكفاية يختارون لذواتهم ويرشحهم الوزير.",
+    "target_en": "Four members of expertise and competence selected on their merits and nominated by the Minister .",
+    "source_ar_norm": "اربعة اعضاء من ذوي الخبرة والكفاية يختارون لذواتهم ويرشحهم الوزير.",
+    "target_en_norm": "four members of expertise and competence selected on their merits and nominated by the minister .",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23648,
+    "source_ar": "3- مدة العضوية في المجلس أربع سنوات قابلة للتجديد مرة واحدة، ويظل عضو المجلس في منصبه بعد انتهاء فترة عضويته إلى أن يتم تعيين خلف له.",
+    "target_en": "٣. The term of membership in the Council shall be four years renewable for one term. The Council member shall remain in his post upon expiration of his term until a successor is appointed.",
+    "source_ar_norm": "3- مدة العضوية في المجلس اربع سنوات قابلة للتجديد مرة واحدة، ويظل عضو المجلس في منصبه بعد انتهاء فترة عضويته الي ان يتم تعيين خلف له.",
+    "target_en_norm": "٣. the term of membership in the council shall be four years renewable for one term. the council member shall remain in his post upon expiration of his term until a successor is appointed.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23649,
+    "source_ar": "4- ينعقد المجلس برئاسة رئيسه أو من ينيبه من الأعضاء وبحضور ثلثي الأعضاء، وتصدر قرارات المجلس بالأغلبية. وفي حالة تساوي الأصوات يرجح الجانب الذي صوت معه رئيس الاجتماع.",
+    "target_en": "٤. The Council shall convene headed by the chairman or whomever he deputizes of the members and with the attendance of two thirds of the members. Council’s decisions shall be taken by majority vote. In case of equal votes, the chairman shall have the casting vote.",
+    "source_ar_norm": "4- ينعقد المجلس برئاسة رئيسه او من ينيبه من الاعضاء وبحضور ثلثي الاعضاء، وتصدر قرارات المجلس بالاغلبية. وفي حالة تساوي الاصوات يرجح الجانب الذي صوت معه رئيس الاجتماع.",
+    "target_en_norm": "٤. the council shall convene headed by the chairman or whomever he deputizes of the members and with the attendance of two thirds of the members. council’s decisions shall be taken by majority vote. in case of equal votes, the chairman shall have the casting vote.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23650,
+    "source_ar": "5- لا يجوز لأعضاء المجلس أن يفشوا شيئًا مما اطلعوا عليه بسبب عضويتهم في المجلس.",
+    "target_en": "٥. Council members may not disclose any information they obtain as a result of their membership in the Council.",
+    "source_ar_norm": "5- لا يجوز لاعضاء المجلس ان يفشوا شيئا مما اطلعوا عليه بسبب عضويتهم في المجلس.",
+    "target_en_norm": "٥. council members may not disclose any information they obtain as a result of their membership in the council.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23651,
+    "source_ar": "6- لا يجوز لأي من أعضاء المجلس أن يشارك في مداولة تتعلق بقضية أو موضوع له فيه مصلحة أو علاقة، أو أن يكون بينه وبين أحد الأطراف صلة قرابة أو نسب أو أن يكون قد مثل أحد الأشخاص المعنيين.",
+    "target_en": "٦. A Council member may not participate in the deliberation of any case or subject in which he has an interest or with which he has a connection, or if he is related by blood or marriage to any of the parties involved, or if he has represented any of the parties concerned.",
+    "source_ar_norm": "6- لا يجوز لاي من اعضاء المجلس ان يشارك في مداولة تتعلق بقضية او موضوع له فيه مصلحة او علاقة، او ان يكون بينه وبين احد الاطراف صلة قرابة او نسب او ان يكون قد مثل احد الاشخاص المعنيين.",
+    "target_en_norm": "٦. a council member may not participate in the deliberation of any case or subject in which he has an interest or with which he has a connection, or if he is related by blood or marriage to any of the parties involved, or if he has represented any of the parties concerned.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23652,
+    "source_ar": "المادة التاسعة:",
+    "target_en": "Article Nine:",
+    "source_ar_norm": "المادة التاسعة:",
+    "target_en_norm": "article nine:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23653,
+    "source_ar": "مع مراعاة ما تقضي به الأنظمة الأخرى، يختص المجلس بالمهام الآتية:",
+    "target_en": "Subject to what is stipulated in other laws, the Council shall have jurisdiction over the following tasks:",
+    "source_ar_norm": "مع مراعاة ما تقضي به الانظمة الاخري، يختص المجلس بالمهام الاتية:",
+    "target_en_norm": "subject to what is stipulated in other laws, the council shall have jurisdiction over the following tasks:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23654,
+    "source_ar": "1- الموافقة على حالات الاندماج أو التملك أو الجمع بين إدارتين أو أكثر بإدارة مشتركة وينتج عنها وضع مهيمن في السوق.",
+    "target_en": "١. Approving cases of merger, acquisition, or combining two managements or more into one joint management resulting in a dominant position in the market.",
+    "source_ar_norm": "1- الموافقة علي حالات الاندماج او التملك او الجمع بين ادارتين او اكثر بادارة مشتركة وينتج عنها وضع مهيمن في السوق.",
+    "target_en_norm": "١. approving cases of merger, acquisition, or combining two managements or more into one joint management resulting in a dominant position in the market.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23655,
+    "source_ar": "2- الأمر باتخاذ إجراءات التقصي والبحث وجمع الاستدلالات بالنسبة للشكاوى والممارسات المخالفة لأحكام هذا النظام، وكذلك الأمر بالتحقيق والادعاء فيها.",
+    "target_en": "٢. Ordering the undertaking of proceedings of inquiry, search and collection of evidence pertaining to complaints and practices in violation of provisions of this Law, and ordering the investigation and prosecution thereof.",
+    "source_ar_norm": "2- الامر باتخاذ اجراءات التقصي والبحث وجمع الاستدلالات بالنسبة للشكاوي والممارسات المخالفة لاحكام هذا النظام، وكذلك الامر بالتحقيق والادعاء فيها.",
+    "target_en_norm": "٢. ordering the undertaking of proceedings of inquiry, search and collection of evidence pertaining to complaints and practices in violation of provisions of this law, and ordering the investigation and prosecution thereof.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23656,
+    "source_ar": "3- الموافقة على البدء في إجراءات الدعوى الجزائية ضد المخالفين لأحكام هذا النظام.",
+    "target_en": "٣. Approving the initiation of criminal case procedures against violators of provisions of this Law.",
+    "source_ar_norm": "3- الموافقة علي البدء في اجراءات الدعوي الجزائية ضد المخالفين لاحكام هذا النظام.",
+    "target_en_norm": "٣. approving the initiation of criminal case procedures against violators of provisions of this law.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23657,
+    "source_ar": "4- تشكيل أجهزة المجلس وإصدار اللوائح المالية والإدارية بالاتفاق مع وزارة المالية ووزارة الخدمة المدنية.",
+    "target_en": "٤. Forming the Council’s bodies and issuing the financial and administrative regulations, in coordination with the Ministry of Finance and the Ministry of Civil Service.",
+    "source_ar_norm": "4- تشكيل اجهزة المجلس واصدار اللوائح المالية والادارية بالاتفاق مع وزارة المالية ووزارة الخدمة المدنية.",
+    "target_en_norm": "٤. forming the council’s bodies and issuing the financial and administrative regulations, in coordination with the ministry of finance and the ministry of civil service.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23658,
+    "source_ar": "5- اقتراح مشروعات الأنظمة ذات العلاقة التي تؤثر على المنافسة في ضوء المتغيرات التي تطرأ على السوق، واقتراح التعديلات اللازمة لأحكام هذا النظام.",
+    "target_en": "٥. Proposing relevant draft laws that affect competition in light of the variables occurring in the market, and proposing necessary amendments to provisions of this Law.",
+    "source_ar_norm": "5- اقتراح مشروعات الانظمة ذات العلاقة التي تؤثر علي المنافسة في ضوء المتغيرات التي تطرا علي السوق، واقتراح التعديلات اللازمة لاحكام هذا النظام.",
+    "target_en_norm": "٥. proposing relevant draft laws that affect competition in light of the variables occurring in the market, and proposing necessary amendments to provisions of this law.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23659,
+    "source_ar": "6- إصدار اللائحة التنفيذية لهذا النظام.",
+    "target_en": "٦. Issuing the Implementing Regulations of this Law.",
+    "source_ar_norm": "6- اصدار اللائحة التنفيذية لهذا النظام.",
+    "target_en_norm": "٦. issuing the implementing regulations of this law.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23660,
+    "source_ar": "7- إعداد تقرير سنوي على نشاطات المجلس وخططه المستقبلية يرفع إلى مجلس الوزراء من قبل رئيس المجلس.",
+    "target_en": "٧. Preparing an annual report of the Council’s activities and future plans, to be submitted to the Council of Ministers by the chairman of the Council.",
+    "source_ar_norm": "7- اعداد تقرير سنوي علي نشاطات المجلس وخططه المستقبلية يرفع الي مجلس الوزراء من قبل رئيس المجلس.",
+    "target_en_norm": "٧. preparing an annual report of the council’s activities and future plans, to be submitted to the council of ministers by the chairman of the council.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23661,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article Ten:",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article ten:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23662,
+    "source_ar": "يكون للمجلس أمانة عامة يرأسها أمين عام بالمرتبة الخامسة عشرة توفر لها جميع التجهيزات اللازمة والخبراء المختصين.",
+    "target_en": "The Council shall have a general secretariat presided over by a secretary general of the Fifteenth Grade. The Council shall be provided with all necessary facilities and specialized experts.",
+    "source_ar_norm": "يكون للمجلس امانة عامة يراسها امين عام بالمرتبة الخامسة عشرة توفر لها جميع التجهيزات اللازمة والخبراء المختصين.",
+    "target_en_norm": "the council shall have a general secretariat presided over by a secretary general of the fifteenth grade. the council shall be provided with all necessary facilities and specialized experts.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23663,
+    "source_ar": "المادة الحادية عشرة:",
+    "target_en": "Article Eleven:",
+    "source_ar_norm": "المادة الحادية عشرة:",
+    "target_en_norm": "article eleven:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23664,
+    "source_ar": "١- يصدر المجلس قرارًا بتحديد الموظفين الذين لهم صفة الضبطية القضائية في تطبيق أحكام هذا النظام.",
+    "target_en": "١. The Council shall issue a decision designating the employees who shall have the judicial recording capacity in implementing the provisions of this Law.",
+    "source_ar_norm": "١- يصدر المجلس قرارا بتحديد الموظفين الذين لهم صفة الضبطية القضائية في تطبيق احكام هذا النظام.",
+    "target_en_norm": "١. the council shall issue a decision designating the employees who shall have the judicial recording capacity in implementing the provisions of this law.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23665,
+    "source_ar": "٢- مع مراعاة ما تقضي به الأنظمة الأخرى، يكون للموظفين الذين لهم صفة الضبطية القضائية ما يأتي:",
+    "target_en": "٢. Subject to provisions of other laws, the employees having the capacity of judicial recording may:",
+    "source_ar_norm": "٢- مع مراعاة ما تقضي به الانظمة الاخري، يكون للموظفين الذين لهم صفة الضبطية القضائية ما ياتي:",
+    "target_en_norm": "٢. subject to provisions of other laws, the employees having the capacity of judicial recording may:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23666,
+    "source_ar": "أ - دراسة الشكاوى المقدمة التي تستند إلى أدلة فعلية بموجب أحكام هذا النظام والتحقيق فيها والادعاء عند نظر مخالفات أحكام هذا النظام أمام اللجنة المشار إليها في المادة (الخامسة عشرة) وأمام ديوان المظالم.",
+    "target_en": "(a) Review and investigate submitted complaints which are based on actual evidence in accordance with the provisions of this Law, and initiate prosecution while considering violations of provisions of this Law before the committee referred to in Article Fifteen and before the Board of Grievances",
+    "source_ar_norm": "ا - دراسة الشكاوي المقدمة التي تستند الي ادلة فعلية بموجب احكام هذا النظام والتحقيق فيها والادعاء عند نظر مخالفات احكام هذا النظام امام اللجنة المشار اليها في المادة (الخامسة عشرة) وامام ديوان المظالم.",
+    "target_en_norm": "(a) review and investigate submitted complaints which are based on actual evidence in accordance with the provisions of this law, and initiate prosecution while considering violations of provisions of this law before the committee referred to in article fifteen and before the board of grievances",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23667,
+    "source_ar": "ب - الحق في الاطلاع على جميع السجلات والملفات والوثائق لدى المنشأة المعنية، المتعلقة بالشكاوى المقدمة، والحصول على صور منها، ولا يجوز للمنشأة موضوع الشكوى حجب أي معلومات بحجة السرية أو لأي سبب آخر.",
+    "target_en": "(b) Review all records, files and documents of the firm concerned, which are relevant to the complaints in question and obtain copies thereof. The firm subject of the complaint may not conceal any information on the pretext of confidentiality or for any other reason.",
+    "source_ar_norm": "ب - الحق في الاطلاع علي جميع السجلات والملفات والوثائق لدي المنشاة المعنية، المتعلقة بالشكاوي المقدمة، والحصول علي صور منها، ولا يجوز للمنشاة موضوع الشكوي حجب اي معلومات بحجة السرية او لاي سبب اخر.",
+    "target_en_norm": "(b) review all records, files and documents of the firm concerned, which are relevant to the complaints in question and obtain copies thereof. the firm subject of the complaint may not conceal any information on the pretext of confidentiality or for any other reason.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23668,
+    "source_ar": "٣ - للوزير أن يصدر قرارًا بتكليف بعض موظفي الوزارة للقيام بأعمال المجلس الفنية والمالية والإدارية.",
+    "target_en": "٣. The Minister may issue a decision assigning some of the Ministry’s staff to perform the Council’s technical, financial, and administrative functions.",
+    "source_ar_norm": "٣ - للوزير ان يصدر قرارا بتكليف بعض موظفي الوزارة للقيام باعمال المجلس الفنية والمالية والادارية.",
+    "target_en_norm": "٣. the minister may issue a decision assigning some of the ministry’s staff to perform the council’s technical, financial, and administrative functions.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23669,
+    "source_ar": "٤- يحق للمجلس الاستعانة بخبراء وأشخاص مؤهلين من خارج الوزارة عند الحاجة.",
+    "target_en": "٤. The Council may, when needed, seek the assistance of experts and qualified persons from outside the Ministry.",
+    "source_ar_norm": "٤- يحق للمجلس الاستعانة بخبراء واشخاص مؤهلين من خارج الوزارة عند الحاجة.",
+    "target_en_norm": "٤. the council may, when needed, seek the assistance of experts and qualified persons from outside the ministry.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23670,
+    "source_ar": "٥- على أعضاء المجلس وموظفيه المحافظة على سرية المعلومات والسجلات التي يحصل عليها من المنشآت أثناء جمع الاستدلالات أو التحقيقات، ولا يجوز تسليمها إلى أي أطراف أخرى إلا بموافقة المجلس.",
+    "target_en": "٥. Council Members and staff shall maintain the confidentiality of the information and records they obtain from firms in the process of collecting evidence or investigations, and they may not turn over the same to any other party except with the approval of the Council.",
+    "source_ar_norm": "٥- علي اعضاء المجلس وموظفيه المحافظة علي سرية المعلومات والسجلات التي يحصل عليها من المنشات اثناء جمع الاستدلالات او التحقيقات، ولا يجوز تسليمها الي اي اطراف اخري الا بموافقة المجلس.",
+    "target_en_norm": "٥. council members and staff shall maintain the confidentiality of the information and records they obtain from firms in the process of collecting evidence or investigations, and they may not turn over the same to any other party except with the approval of the council.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23671,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article Twelve:",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article twelve:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23672,
+    "source_ar": "مع عدم الإخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب على كل مخالفة لأحكام هذا النظام بغرامة مالية لا تتجاوز خمسة ملايين ريال، وتضاعف الغرامة في حالة العود، وينشر الحكم على نفقة المخالف.",
+    "target_en": "Without prejudice to any harsher punishment under another law, each violation of the provisions of this Law shall be subject to a fine not exceeding five million riyals, to be multiplied in case of repetition. Judgment shall be published at the expense of the violator.",
+    "source_ar_norm": "مع عدم الاخلال باي عقوبة اشد ينص عليها نظام اخر، يعاقب علي كل مخالفة لاحكام هذا النظام بغرامة مالية لا تتجاوز خمسة ملايين ريال، وتضاعف الغرامة في حالة العود، وينشر الحكم علي نفقة المخالف.",
+    "target_en_norm": "without prejudice to any harsher punishment under another law, each violation of the provisions of this law shall be subject to a fine not exceeding five million riyals, to be multiplied in case of repetition. judgment shall be published at the expense of the violator.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23673,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article Thirteen:",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article thirteen:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23674,
+    "source_ar": "يعاقب كل من أفشى سرا له علاقة بعمله طبقًا لأحكام الفقرة (٥) من المادة (الحادية عشرة) من هذا النظام، أو حقق نفعًا بطريقة مباشرة أو غير مباشرة، بغرامة مالية لا تتجاوز خمسة ملايين ريال أو بالسجن لمدة لا تزيد عن سنتين أو بهما معًا.",
+    "target_en": "Anyone disclosing a secret related to his job, according to provisions of paragraph (٥) of Article Eleven of this Law, or directly or indirectly benefiting shall be subject to a fine not exceeding five million riyals or imprisonment for a period not exceeding two years or both.",
+    "source_ar_norm": "يعاقب كل من افشي سرا له علاقة بعمله طبقا لاحكام الفقرة (٥) من المادة (الحادية عشرة) من هذا النظام، او حقق نفعا بطريقة مباشرة او غير مباشرة، بغرامة مالية لا تتجاوز خمسة ملايين ريال او بالسجن لمدة لا تزيد عن سنتين او بهما معا.",
+    "target_en_norm": "anyone disclosing a secret related to his job, according to provisions of paragraph (٥) of article eleven of this law, or directly or indirectly benefiting shall be subject to a fine not exceeding five million riyals or imprisonment for a period not exceeding two years or both.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23675,
+    "source_ar": "المادة الرابعة عشرة:",
+    "target_en": "Article Fourteen:",
+    "source_ar_norm": "المادة الرابعة عشرة:",
+    "target_en_norm": "article fourteen:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23676,
+    "source_ar": "تحدد العقوبات المشار إليها في المادتين (الثانية عشرة) و(الثالثة عشرة) حسب المخالفة المرتكبة وخطورتها في كل حالة فردية.",
+    "target_en": "Punishments referred to in Articles Twelve and Thirteen shall be determined on a case by case basis according to the violation committed and the gravity thereof.",
+    "source_ar_norm": "تحدد العقوبات المشار اليها في المادتين (الثانية عشرة) و(الثالثة عشرة) حسب المخالفة المرتكبة وخطورتها في كل حالة فردية.",
+    "target_en_norm": "punishments referred to in articles twelve and thirteen shall be determined on a case by case basis according to the violation committed and the gravity thereof.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23677,
+    "source_ar": "المادة الخامسة عشرة:",
+    "target_en": "Article Fifteen:",
+    "source_ar_norm": "المادة الخامسة عشرة:",
+    "target_en_norm": "article fifteen:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23678,
+    "source_ar": "1- يشكل المجلس لجنة من خمسة أعضاء على أن يكون من بينهم مستشار نظامي على الأقل ويصدر بها قرار من الوزير وتختص بالنظر والفصل في المخالفات التي تستوجب عقوبة الغرامة.",
+    "target_en": "١. The Council shall form a committee of five members one of whom at least shall be a legal counselor. A decision to this effect shall be issued by the Minister. Said committee shall have jurisdiction to review and decide violations subject to fines.",
+    "source_ar_norm": "1- يشكل المجلس لجنة من خمسة اعضاء علي ان يكون من بينهم مستشار نظامي علي الاقل ويصدر بها قرار من الوزير وتختص بالنظر والفصل في المخالفات التي تستوجب عقوبة الغرامة.",
+    "target_en_norm": "١. the council shall form a committee of five members one of whom at least shall be a legal counselor. a decision to this effect shall be issued by the minister. said committee shall have jurisdiction to review and decide violations subject to fines.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23679,
+    "source_ar": "2- تصدر اللجنة قراراتها وفقًا للقواعد والإجراءات التي تحددها اللائحة التنفيذية.",
+    "target_en": "٢. The committee shall issue its decisions according to the rules and procedures specified by the Implementing Regulations.",
+    "source_ar_norm": "2- تصدر اللجنة قراراتها وفقا للقواعد والاجراءات التي تحددها اللائحة التنفيذية.",
+    "target_en_norm": "٢. the committee shall issue its decisions according to the rules and procedures specified by the implementing regulations.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23680,
+    "source_ar": "3- يجوز التظلم من قرارات اللجنة أمام ديوان المظالم خلال ستين يومًا من تاريخ الإبلاغ بالقرار.",
+    "target_en": "٣. Anyone may file a grievance against the committee’s decisions with the Board of Grievances within sixty days from the date of notification of the decision.",
+    "source_ar_norm": "3- يجوز التظلم من قرارات اللجنة امام ديوان المظالم خلال ستين يوما من تاريخ الابلاغ بالقرار.",
+    "target_en_norm": "٣. anyone may file a grievance against the committee’s decisions with the board of grievances within sixty days from the date of notification of the decision.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23681,
+    "source_ar": "4- إذا رأت اللجنة بعد النظر في المخالفة أنها تستوجب عقوبة السجن فتحيلها إلى ديوان المظالم للنظر فيها ابتداء.",
+    "target_en": "٤. If the committee, upon reviewing the violation, decides that the violation calls for the punishment of imprisonment, it shall refer the case to the Board of Grievances for ab initio adjudication.",
+    "source_ar_norm": "4- اذا رات اللجنة بعد النظر في المخالفة انها تستوجب عقوبة السجن فتحيلها الي ديوان المظالم للنظر فيها ابتداء.",
+    "target_en_norm": "٤. if the committee, upon reviewing the violation, decides that the violation calls for the punishment of imprisonment, it shall refer the case to the board of grievances for ab initio adjudication.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23682,
+    "source_ar": "المادة السادسة عشرة:",
+    "target_en": "Article Sixteen:",
+    "source_ar_norm": "المادة السادسة عشرة:",
+    "target_en_norm": "article sixteen:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23683,
+    "source_ar": "مع عدم الإخلال بما تقضي به المادة (الثانية عشرة) من هذا النظام، يجوز للمجلس إصدار قرار باتخاذ أحد التدابير الآتية أو بعضها عند ثبوت مخالفة لأحد أحكام هذا النظام:",
+    "target_en": "Without prejudice to provisions of Article Twelve of this Law, the Council may issue a decision to take one or more of the following measures, if a violation of one of the provisions of this Law has been established:",
+    "source_ar_norm": "مع عدم الاخلال بما تقضي به المادة (الثانية عشرة) من هذا النظام، يجوز للمجلس اصدار قرار باتخاذ احد التدابير الاتية او بعضها عند ثبوت مخالفة لاحد احكام هذا النظام:",
+    "target_en_norm": "without prejudice to provisions of article twelve of this law, the council may issue a decision to take one or more of the following measures, if a violation of one of the provisions of this law has been established:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23684,
+    "source_ar": "١- تكليف المخالف بتعديل أوضاعه وإزالة المخالفة خلال فترة زمنية تحددها اللائحة.",
+    "target_en": "١. Instructing the violator to rectify his status and end the violation within a period of time specified by the Regulations.",
+    "source_ar_norm": "١- تكليف المخالف بتعديل اوضاعه وازالة المخالفة خلال فترة زمنية تحددها اللائحة.",
+    "target_en_norm": "١. instructing the violator to rectify his status and end the violation within a period of time specified by the regulations.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23685,
+    "source_ar": "٢- تكليف المخالف بالتصرف في بعض الأصول أو الأسهم أو حقوق الملكية، أو القيام بأي عمل آخر يكفل إزالة آثار المخالفة.",
+    "target_en": "٢. Instructing the violator to dispose of some of the assets, shares or proprietary rights, or to undertake any other action to remove the violation’s effects .",
+    "source_ar_norm": "٢- تكليف المخالف بالتصرف في بعض الاصول او الاسهم او حقوق الملكية، او القيام باي عمل اخر يكفل ازالة اثار المخالفة.",
+    "target_en_norm": "٢. instructing the violator to dispose of some of the assets, shares or proprietary rights, or to undertake any other action to remove the violation’s effects .",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23686,
+    "source_ar": "٣- إلزام المخالف بدفع غرامة يومية لا تقل عن ألف ريال ولا تتجاوز عشرة آلاف ريال حتى إزالة المخالفة.",
+    "target_en": "٣. Compelling the violator to pay a daily fine of not less than one thousand riyals and not exceeding ten thousand riyals, until the violation is removed.",
+    "source_ar_norm": "٣- الزام المخالف بدفع غرامة يومية لا تقل عن الف ريال ولا تتجاوز عشرة الاف ريال حتي ازالة المخالفة.",
+    "target_en_norm": "٣. compelling the violator to pay a daily fine of not less than one thousand riyals and not exceeding ten thousand riyals, until the violation is removed.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23687,
+    "source_ar": "المادة السابعة عشرة",
+    "target_en": "Article Seventeen:",
+    "source_ar_norm": "المادة السابعة عشرة",
+    "target_en_norm": "article seventeen:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23688,
+    "source_ar": "يجوز لمن صدر بشأنه قرار من المجلس التظلم منه وفقا لنظام ديوان المظالم ولوائحه.",
+    "target_en": "Anyone against whom the Council has issued a decision may file a grievance against the decision in accordance with the Law of the Board of Grievances and its regulations.",
+    "source_ar_norm": "يجوز لمن صدر بشانه قرار من المجلس التظلم منه وفقا لنظام ديوان المظالم ولوائحه.",
+    "target_en_norm": "anyone against whom the council has issued a decision may file a grievance against the decision in accordance with the law of the board of grievances and its regulations.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23689,
+    "source_ar": "المادة الثامنة عشرة:",
+    "target_en": "Article Eighteen:",
+    "source_ar_norm": "المادة الثامنة عشرة:",
+    "target_en_norm": "article eighteen:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23690,
+    "source_ar": "يجوز لأي شخص طبيعي أو اعتباري يلحقه ضرر ناتج عن ممارسات محظورة بموجب أحكام هذا النظام، التقدم بطلب التعويض أمام القضاء المختص.",
+    "target_en": "Any natural or corporate person harmed by practices prohibited under the provisions of this Law may apply for compensation before the competent judicial body.",
+    "source_ar_norm": "يجوز لاي شخص طبيعي او اعتباري يلحقه ضرر ناتج عن ممارسات محظورة بموجب احكام هذا النظام، التقدم بطلب التعويض امام القضاء المختص.",
+    "target_en_norm": "any natural or corporate person harmed by practices prohibited under the provisions of this law may apply for compensation before the competent judicial body.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23691,
+    "source_ar": "المادة التاسعة عشرة:",
+    "target_en": "Article Nineteen:",
+    "source_ar_norm": "المادة التاسعة عشرة:",
+    "target_en_norm": "article nineteen:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23692,
+    "source_ar": "يجب على جميع المنشآت التي يشملها هذا النظام تصحيح أوضاعها بما يتلاءم مع أحكام هذا النظام خلال سنة من تاريخ نشره.",
+    "target_en": "All firms subject to this Law shall rectify their status so as to conform to the provisions hereof, within one year from the date of publication of this Law,",
+    "source_ar_norm": "يجب علي جميع المنشات التي يشملها هذا النظام تصحيح اوضاعها بما يتلاءم مع احكام هذا النظام خلال سنة من تاريخ نشره.",
+    "target_en_norm": "all firms subject to this law shall rectify their status so as to conform to the provisions hereof, within one year from the date of publication of this law,",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23693,
+    "source_ar": "المادة العشرون:",
+    "target_en": "Article Twenty:",
+    "source_ar_norm": "المادة العشرون:",
+    "target_en_norm": "article twenty:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23694,
+    "source_ar": "يصدر المجلس اللائحة التنفيذية لهذا النظام خلال تسعين يومًا من تاريخ نشره، وتنفذ بنفاذ هذا النظام.",
+    "target_en": "The Council shall issue the Implementing Regulations of this Law within ninety days from its publication, and they shall come into effect simultaneously with this Law.",
+    "source_ar_norm": "يصدر المجلس اللائحة التنفيذية لهذا النظام خلال تسعين يوما من تاريخ نشره، وتنفذ بنفاذ هذا النظام.",
+    "target_en_norm": "the council shall issue the implementing regulations of this law within ninety days from its publication, and they shall come into effect simultaneously with this law.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23695,
+    "source_ar": "المادة الحادية والعشرون:",
+    "target_en": "Article Twenty One:",
+    "source_ar_norm": "المادة الحادية والعشرون:",
+    "target_en_norm": "article twenty one:",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23696,
+    "source_ar": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به بعد مئة وثمانين يوما من تاريخ نشره، باستثناء الأحكام المتعلقة بتشكيل المجلس واختصاصاته، فتعد نافذة من تاريخ نشر النظام.",
+    "target_en": "This Law shall be published in the Official Gazette, and shall take effect after one hundred and eighty days from the date of its publication, with the exception of the provisions related to the formation of the Council and its powers which shall be effective from the date of publication of this Law.",
+    "source_ar_norm": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به بعد مئة وثمانين يوما من تاريخ نشره، باستثناء الاحكام المتعلقة بتشكيل المجلس واختصاصاته، فتعد نافذة من تاريخ نشر النظام.",
+    "target_en_norm": "this law shall be published in the official gazette, and shall take effect after one hundred and eighty days from the date of its publication, with the exception of the provisions related to the formation of the council and its powers which shall be effective from the date of publication of this law.",
+    "file_name": "مشروع نظام المنافسة.docx"
+  },
+  {
+    "id": 23697,
+    "source_ar": "معالجة الإشكال النظامي حيال انتهاء مدة عضوية بعض مجالس إدارات الهيئات والمؤسسات العامة وما في حكمها دون تجديد أو تعيين أعضاء جدد بدلاً ممن انتهت مدة عضويتهم المحددة نظاماً",
+    "target_en": "Addressing the Legal Issue Regarding the Expiration of Board Membership Terms of Certain Public Agencies and Institutions and Similar Entities Without Renewal or Appointment of New Members to Replace Those Whose Legally Specified Membership Terms Have Expired",
+    "source_ar_norm": "معالجة الاشكال النظامي حيال انتهاء مدة عضوية بعض مجالس ادارات الهيئات والمؤسسات العامة وما في حكمها دون تجديد او تعيين اعضاء جدد بدلا ممن انتهت مدة عضويتهم المحددة نظاما",
+    "target_en_norm": "addressing the legal issue regarding the expiration of board membership terms of certain public agencies and institutions and similar entities without renewal or appointment of new members to replace those whose legally specified membership terms have expired",
+    "file_name": "معالجة الإشكال النظامي حيال انتهاء مدة عضوية بعض مجالس إدارات الهيئات والمؤسسات العامة وما في حكمها دون تجديد أو تعيين أعضاء جدد بدلاً ممن انتهت مدة عضويتهم المحددة نظاماً.docx"
+  },
+  {
+    "id": 23698,
+    "source_ar": "بعد الاطلاع في جلسته المنعقدة برئاسة خادم الحرمين الشريفين الملك سلمان بن عبدالعزيز آل سعود، على المعاملة الواردة من الديوان الملكي برقم ٣٨٧٩٣ وتاريخ ٢٤ / ٥ / ١٤٤٥هـ، المشتملة على برقية معالي الدكتور عصام بن سعد بن سعيد وزير الدولة وعضو مجلس الوزراء لشؤون مجلس الشورى رقم ٧٣٣٥ وتاريخ ١٩ / ٥ / ١٤٤٥هـ، في شأن معالجة الإشكال النظامي حيال انتهاء مدة عضوية بعض مجالس إدارات الهيئات والمؤسسات العامة وما في حكمها دون تجديد أو تعيين أعضاء جدد بدلا ممن انتهت مدة عضويتهم المحددة نظاما.",
+    "target_en": "In its session chaired by the Custodian of the Two Holy Mosques, King Salman bin Abdulaziz Al Saud; upon perusal of Casefile No. 38793, dated 24/5/1445H, received from the Royal Court, which includes Telegram No. 7335, dated 19/5/1445H, of His Excellency Dr. Issam bin Saad bin Saeed, Minister of State and Member of the Council of Ministers for Shura Council Affairs, regarding addressing the legal issue concerning the expiration of board membership terms of certain public agencies and institutions and similar entities without renewal or appointment of new members to replace those whose legally specified membership terms have expired;",
+    "source_ar_norm": "بعد الاطلاع في جلسته المنعقدة برئاسة خادم الحرمين الشريفين الملك سلمان بن عبدالعزيز ال سعود، علي المعاملة الواردة من الديوان الملكي برقم ٣٨٧٩٣ وتاريخ ٢٤ / ٥ / ١٤٤٥ه، المشتملة علي برقية معالي الدكتور عصام بن سعد بن سعيد وزير الدولة وعضو مجلس الوزراء لشؤون مجلس الشوري رقم ٧٣٣٥ وتاريخ ١٩ / ٥ / ١٤٤٥ه، في شان معالجة الاشكال النظامي حيال انتهاء مدة عضوية بعض مجالس ادارات الهيئات والمؤسسات العامة وما في حكمها دون تجديد او تعيين اعضاء جدد بدلا ممن انتهت مدة عضويتهم المحددة نظاما.",
+    "target_en_norm": "in its session chaired by the custodian of the two holy mosques, king salman bin abdulaziz al saud; upon perusal of casefile no. 38793, dated 24/5/1445h, received from the royal court, which includes telegram no. 7335, dated 19/5/1445h, of his excellency dr. issam bin saad bin saeed, minister of state and member of the council of ministers for shura council affairs, regarding addressing the legal issue concerning the expiration of board membership terms of certain public agencies and institutions and similar entities without renewal or appointment of new members to replace those whose legally specified membership terms have expired;",
+    "file_name": "معالجة الإشكال النظامي حيال انتهاء مدة عضوية بعض مجالس إدارات الهيئات والمؤسسات العامة وما في حكمها دون تجديد أو تعيين أعضاء جدد بدلاً ممن انتهت مدة عضويتهم المحددة نظاماً.docx"
+  },
+  {
+    "id": 23699,
+    "source_ar": "يقرر",
+    "target_en": "Resolves as follows:",
+    "source_ar_norm": "يقرر",
+    "target_en_norm": "resolves as follows:",
+    "file_name": "معالجة الإشكال النظامي حيال انتهاء مدة عضوية بعض مجالس إدارات الهيئات والمؤسسات العامة وما في حكمها دون تجديد أو تعيين أعضاء جدد بدلاً ممن انتهت مدة عضويتهم المحددة نظاماً.docx"
+  },
+  {
+    "id": 23700,
+    "source_ar": "في حال انتهاء مدة مجالس إدارات الهيئات والمؤسسات العامة وما في حكمها أو انتهاء عضوية أي عضو فيها، ولم تصدر أداة نظامية بإعادة تشكيل أي من تلك المجالس أو تجديد مدة من انتهت عضويته فيها أو تعيين بديل له، فتستمر مدة عضوية أي من تلك المجالس أو أعضائها -بحسب الأحوال- إلى حين صدور أداة نظامية في شأن ذلك.",
+    "target_en": "In the event of the expiration of the terms of the boards of directors of public agencies and institutions and similar entities, or the expiration of the membership of any member thereof, and no legal instrument has been issued for the reconstitution of any such board or the renewal of the term of those whose membership has expired therein or the appointment of a replacement therefor, the membership term of any such board or any of its members, as the case may be, shall continue until a legal instrument is issued in this regard.",
+    "source_ar_norm": "في حال انتهاء مدة مجالس ادارات الهيئات والمؤسسات العامة وما في حكمها او انتهاء عضوية اي عضو فيها، ولم تصدر اداة نظامية باعادة تشكيل اي من تلك المجالس او تجديد مدة من انتهت عضويته فيها او تعيين بديل له، فتستمر مدة عضوية اي من تلك المجالس او اعضائها -بحسب الاحوال- الي حين صدور اداة نظامية في شان ذلك.",
+    "target_en_norm": "in the event of the expiration of the terms of the boards of directors of public agencies and institutions and similar entities, or the expiration of the membership of any member thereof, and no legal instrument has been issued for the reconstitution of any such board or the renewal of the term of those whose membership has expired therein or the appointment of a replacement therefor, the membership term of any such board or any of its members, as the case may be, shall continue until a legal instrument is issued in this regard.",
+    "file_name": "معالجة الإشكال النظامي حيال انتهاء مدة عضوية بعض مجالس إدارات الهيئات والمؤسسات العامة وما في حكمها دون تجديد أو تعيين أعضاء جدد بدلاً ممن انتهت مدة عضويتهم المحددة نظاماً.docx"
+  }
+]

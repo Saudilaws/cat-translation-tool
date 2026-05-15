@@ -1,0 +1,802 @@
+[
+  {
+    "id": 27401,
+    "source_ar": "خدمات الأرصاد الجوية السيادية: أنشطة ونواتج ومعلومات عن الأرصاد الجوية ذات العلاقة بالأمن الوطني.",
+    "target_en": "Sovereign Meteorological Services: Meteorological activities, outcomes, and information relating to national security.",
+    "source_ar_norm": "خدمات الارصاد الجوية السيادية: انشطة ونواتج ومعلومات عن الارصاد الجوية ذات العلاقة بالامن الوطني.",
+    "target_en_norm": "sovereign meteorological services: meteorological activities, outcomes, and information relating to national security.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27402,
+    "source_ar": "محطات الرصد: كل منشأة أو معدّة أو جهاز، تُستخدم للقيام بأي من خدمات الأرصاد الجوية.",
+    "target_en": "Weather Stations: Any facility, equipment, or device used to carry out meteorological services.",
+    "source_ar_norm": "محطات الرصد: كل منشاة او معدة او جهاز، تستخدم للقيام باي من خدمات الارصاد الجوية.",
+    "target_en_norm": "weather stations: any facility, equipment, or device used to carry out meteorological services.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27403,
+    "source_ar": "التصريح: وثيقة يُصدرها المركز للشخص قبل البدء في ممارسة عمل أو نشاط يتعلق بالأرصاد الجوية.",
+    "target_en": "Permit: A document issued by the NCM to a person prior to engaging in meteorological work or activities.",
+    "source_ar_norm": "التصريح: وثيقة يصدرها المركز للشخص قبل البدء في ممارسة عمل او نشاط يتعلق بالارصاد الجوية.",
+    "target_en_norm": "permit: a document issued by the ncm to a person prior to engaging in meteorological work or activities.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27404,
+    "source_ar": "الترخيص: وثيقة يُصدرها المركز للشخص لممارسة عمل أو نشاط يتعلق بالأرصاد الجوية.",
+    "target_en": "License: A document issued by the NCM to a person to engage in meteorological work or activities.",
+    "source_ar_norm": "الترخيص: وثيقة يصدرها المركز للشخص لممارسة عمل او نشاط يتعلق بالارصاد الجوية.",
+    "target_en_norm": "license: a document issued by the ncm to a person to engage in meteorological work or activities.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27405,
+    "source_ar": "المصرح له: الشخص الحاصل على التصريح.",
+    "target_en": "Permittee: A permit holder.",
+    "source_ar_norm": "المصرح له: الشخص الحاصل علي التصريح.",
+    "target_en_norm": "permittee: a permit holder.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27406,
+    "source_ar": "المرخص له: الشخص الحاصل على الترخيص.",
+    "target_en": "Licensee: A license holder.",
+    "source_ar_norm": "المرخص له: الشخص الحاصل علي الترخيص.",
+    "target_en_norm": "licensee: a license holder.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27407,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27408,
+    "source_ar": "يجب عند القيام بأي من خدمات الأرصاد الجوية الالتزام بالاشتراطات والضوابط والإجراءات والمقاييس والمعايير اللازمة للأرصاد الجوية، وذلك وفقاً لما تُحدده اللوائح.",
+    "target_en": "Meteorological requirements, controls, procedures, standards, and criteria shall be observed when providing meteorological services, as specified by the Regulations.",
+    "source_ar_norm": "يجب عند القيام باي من خدمات الارصاد الجوية الالتزام بالاشتراطات والضوابط والاجراءات والمقاييس والمعايير اللازمة للارصاد الجوية، وذلك وفقا لما تحدده اللوائح.",
+    "target_en_norm": "meteorological requirements, controls, procedures, standards, and criteria shall be observed when providing meteorological services, as specified by the regulations.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27409,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27410,
+    "source_ar": "يجب عند القيام بأي من خدمات الأرصاد الجوية، أو نشر أي من معلومات الأرصاد الجوية سواء بإنشاء موقع إلكتروني، أو بأي وسيلة كانت؛ الحصول -بحسب الأحوال- على ترخيص أو تصريح (أو كليهما). وتُصنف اللوائح أنواع تلك الخدمات.",
+    "target_en": "A license or permit, or both, as the case may be, shall be required for the provision of meteorological services or the publication of any meteorological information, whether by creating a website or by any other means. The Regulations shall classify the types of such services.",
+    "source_ar_norm": "يجب عند القيام باي من خدمات الارصاد الجوية، او نشر اي من معلومات الارصاد الجوية سواء بانشاء موقع الكتروني، او باي وسيلة كانت؛ الحصول -بحسب الاحوال- علي ترخيص او تصريح (او كليهما). وتصنف اللوائح انواع تلك الخدمات.",
+    "target_en_norm": "a license or permit, or both, as the case may be, shall be required for the provision of meteorological services or the publication of any meteorological information, whether by creating a website or by any other means. the regulations shall classify the types of such services.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27411,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27412,
+    "source_ar": "يجب عند إنشاء مشروع تتطلب طبيعته معرفة معلوماتٍ عن الأرصاد الجوية واستخدامها؛ الحصول عليها -قبل البدء في إنشاء ذلك المشروع- من المركز أو من مقدمي خدمات الأرصاد الجوية المرخص لهم، وتُحدد اللوائح طبيعة تلك المشروعات.",
+    "target_en": "If the nature of a project requires the knowledge and use of meteorological information, such information shall, prior to the commencement of the project, be obtained from the NCM or from licensed meteorological service providers. The Regulations shall determine the nature of such projects.",
+    "source_ar_norm": "يجب عند انشاء مشروع تتطلب طبيعته معرفة معلومات عن الارصاد الجوية واستخدامها؛ الحصول عليها -قبل البدء في انشاء ذلك المشروع- من المركز او من مقدمي خدمات الارصاد الجوية المرخص لهم، وتحدد اللوائح طبيعة تلك المشروعات.",
+    "target_en_norm": "if the nature of a project requires the knowledge and use of meteorological information, such information shall, prior to the commencement of the project, be obtained from the ncm or from licensed meteorological service providers. the regulations shall determine the nature of such projects.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27413,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27414,
+    "source_ar": "يجب عند القيام بنشاط استيراد محطات الرصد، أو تركيبها، أو تشغيلها، أو نقلها، أو تداولها، أو معايرتها، أو صيانتها؛ الحصول على ترخيص، وتُحدد اللوائح أوصاف محطات الرصد.",
+    "target_en": "A license must be obtained for importing, installing, operating, transporting, handling, calibrating, or maintaining weather stations. The Regulations shall determine the specifications of such stations.",
+    "source_ar_norm": "يجب عند القيام بنشاط استيراد محطات الرصد، او تركيبها، او تشغيلها، او نقلها، او تداولها، او معايرتها، او صيانتها؛ الحصول علي ترخيص، وتحدد اللوائح اوصاف محطات الرصد.",
+    "target_en_norm": "a license must be obtained for importing, installing, operating, transporting, handling, calibrating, or maintaining weather stations. the regulations shall determine the specifications of such stations.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27415,
+    "source_ar": "يجب عند التنازل عن محطات الرصد الحصول على ترخيص.",
+    "target_en": "A license must be obtained prior to the assignment of weather stations.",
+    "source_ar_norm": "يجب عند التنازل عن محطات الرصد الحصول علي ترخيص.",
+    "target_en_norm": "a license must be obtained prior to the assignment of weather stations.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27416,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27417,
+    "source_ar": "يجب على من يمارس نشاط تدريب أشخاص على القيام بأي من خدمات الأرصاد الجوية؛ الحصول على ترخيص.",
+    "target_en": "A license must be obtained to engage in training activities relating to the provision of meteorological services.",
+    "source_ar_norm": "يجب علي من يمارس نشاط تدريب اشخاص علي القيام باي من خدمات الارصاد الجوية؛ الحصول علي ترخيص.",
+    "target_en_norm": "a license must be obtained to engage in training activities relating to the provision of meteorological services.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27418,
+    "source_ar": "يقوم المركز بتحديد معايير وضوابط التدريب لخدمات الأرصاد الجوية.",
+    "target_en": "The NCM shall determine the training standards and controls for meteorological services.",
+    "source_ar_norm": "يقوم المركز بتحديد معايير وضوابط التدريب لخدمات الارصاد الجوية.",
+    "target_en_norm": "the ncm shall determine the training standards and controls for meteorological services.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27419,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27420,
+    "source_ar": "تُصنف اللوائح أنواع التراخيص والتصاريح، بناءً على الاشتراطات والضوابط والإجراءات اللازمة لكل منها، وتُحدد تلك الاشتراطات والضوابط والإجراءات.",
+    "target_en": "The Regulations shall classify the types of licenses and permits based on the required conditions, controls, and procedures, and shall determine such conditions, controls, and procedures.",
+    "source_ar_norm": "تصنف اللوائح انواع التراخيص والتصاريح، بناء علي الاشتراطات والضوابط والاجراءات اللازمة لكل منها، وتحدد تلك الاشتراطات والضوابط والاجراءات.",
+    "target_en_norm": "the regulations shall classify the types of licenses and permits based on the required conditions, controls, and procedures, and shall determine such conditions, controls, and procedures.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27421,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27422,
+    "source_ar": "يُقصر القيام بخدمات الأرصاد الجوية السيادية على المركز، وتُصنف اللوائح أنواع تلك الخدمات.",
+    "target_en": "Sovereign meteorological services shall be exclusively provided by the NCM. The Regulations shall classify the types of such services.",
+    "source_ar_norm": "يقصر القيام بخدمات الارصاد الجوية السيادية علي المركز، وتصنف اللوائح انواع تلك الخدمات.",
+    "target_en_norm": "sovereign meteorological services shall be exclusively provided by the ncm. the regulations shall classify the types of such services.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27423,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27424,
+    "source_ar": "يقدّم المركز أو المرخص له خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة الجوية في المملكة؛ وفقاً لأنظمة الطيران المدني والاتفاقيات الدولية -ذات العلاقة- التي تكون المملكةُ طرفاً فيها.",
+    "target_en": "The NCM or the licensee shall provide meteorological services to relevant aeronautical agencies in the Kingdom pursuant to civil aviation laws and relevant international agreements to which the Kingdom is party.",
+    "source_ar_norm": "يقدم المركز او المرخص له خدمات الارصاد الجوية الي الجهات المعنية بالملاحة الجوية في المملكة؛ وفقا لانظمة الطيران المدني والاتفاقيات الدولية -ذات العلاقة- التي تكون المملكة طرفا فيها.",
+    "target_en_norm": "the ncm or the licensee shall provide meteorological services to relevant aeronautical agencies in the kingdom pursuant to civil aviation laws and relevant international agreements to which the kingdom is party.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27425,
+    "source_ar": "يقدّم المركز أو المرخص له خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة البحرية.",
+    "target_en": "The NCM or the licensee shall provide meteorological services to relevant maritime agencies.",
+    "source_ar_norm": "يقدم المركز او المرخص له خدمات الارصاد الجوية الي الجهات المعنية بالملاحة البحرية.",
+    "target_en_norm": "the ncm or the licensee shall provide meteorological services to relevant maritime agencies.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27426,
+    "source_ar": "يُحدد المركز المقابل المالي لتقديم خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة الجوية في المملكة بالتنسيق مع الهيئة العامة للطيران المدني؛ وفقاً للأحكام المتعلقة بذلك في أنظمة الطيران المدني والاتفاقيات الدولية -ذات العلاقة- التي تكون المملكةُ طرفاً فيها. ويحدد كذلك المقابل المالي لتقديم خدمات الأرصاد الجوية إلى الجهات المعنية بالملاحة البحرية.",
+    "target_en": "The NCM shall determine the fees for the provision of meteorological services to relevant aeronautical agencies in the Kingdom, in coordination with the General Authority of Civil Aviation, pursuant to the provisions related thereto in civil aviation laws and relevant international agreements to which the Kingdom is party. The NCM shall also determine the fees for the provision of meteorological services to relevant maritime agencies.",
+    "source_ar_norm": "يحدد المركز المقابل المالي لتقديم خدمات الارصاد الجوية الي الجهات المعنية بالملاحة الجوية في المملكة بالتنسيق مع الهيئة العامة للطيران المدني؛ وفقا للاحكام المتعلقة بذلك في انظمة الطيران المدني والاتفاقيات الدولية -ذات العلاقة- التي تكون المملكة طرفا فيها. ويحدد كذلك المقابل المالي لتقديم خدمات الارصاد الجوية الي الجهات المعنية بالملاحة البحرية.",
+    "target_en_norm": "the ncm shall determine the fees for the provision of meteorological services to relevant aeronautical agencies in the kingdom, in coordination with the general authority of civil aviation, pursuant to the provisions related thereto in civil aviation laws and relevant international agreements to which the kingdom is party. the ncm shall also determine the fees for the provision of meteorological services to relevant maritime agencies.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27427,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27428,
+    "source_ar": "يُعد القيام بأي من الأفعال الآتية مخالفة لأحكام النظام:",
+    "target_en": "The following acts shall be deemed a violation of the provisions of this Law:",
+    "source_ar_norm": "يعد القيام باي من الافعال الاتية مخالفة لاحكام النظام:",
+    "target_en_norm": "the following acts shall be deemed a violation of the provisions of this law:",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27429,
+    "source_ar": "المساس بأي من محطات الرصد أو مرافقها أو شبكاتها أو البيانات الصادرة عنها، سواء بالتعدي عليها أو العبث بها أو تعطيلها أو نقلها أو إتلافها جزئياً أو كلياً؛ سواء بشكل مباشر أو غير مباشر.",
+    "target_en": "Compromising any weather station, its facilities or networks, or the data generated thereby, whether by trespassing, tampering, disruption, transfer, or destruction wholly or partially, whether directly or indirectly.",
+    "source_ar_norm": "المساس باي من محطات الرصد او مرافقها او شبكاتها او البيانات الصادرة عنها، سواء بالتعدي عليها او العبث بها او تعطيلها او نقلها او اتلافها جزئيا او كليا؛ سواء بشكل مباشر او غير مباشر.",
+    "target_en_norm": "compromising any weather station, its facilities or networks, or the data generated thereby, whether by trespassing, tampering, disruption, transfer, or destruction wholly or partially, whether directly or indirectly.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27430,
+    "source_ar": "استخدام الترخيص أو التصريح لغير الأغراض التي أُصدر من أجلها.",
+    "target_en": "Using the license or permit for purposes other than those for which it is issued.",
+    "source_ar_norm": "استخدام الترخيص او التصريح لغير الاغراض التي اصدر من اجلها.",
+    "target_en_norm": "using the license or permit for purposes other than those for which it is issued.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27431,
+    "source_ar": "القيام بأي من خدمات الأرصاد الجوية دون الحصول على الترخيص أو التصريح.",
+    "target_en": "Providing meteorological services without a license or permit.",
+    "source_ar_norm": "القيام باي من خدمات الارصاد الجوية دون الحصول علي الترخيص او التصريح.",
+    "target_en_norm": "providing meteorological services without a license or permit.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27432,
+    "source_ar": "إنشاء محطات الرصد دون الحصول على ترخيص.",
+    "target_en": "Establishing weather stations without a license.",
+    "source_ar_norm": "انشاء محطات الرصد دون الحصول علي ترخيص.",
+    "target_en_norm": "establishing weather stations without a license.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27433,
+    "source_ar": "مخالفة أي حكم آخر من أحكام النظام واللوائح.",
+    "target_en": "Violating any other provision of this Law and the Regulations.",
+    "source_ar_norm": "مخالفة اي حكم اخر من احكام النظام واللوائح.",
+    "target_en_norm": "violating any other provision of this law and the regulations.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27434,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27435,
+    "source_ar": "يتولى مفتشون من المركز -يصدر بتحديدهم قرار من الوزير- ضبط مخالفات أحكام النظام واللوائح، والتحقيق فيها وإثباتها، وتُحدد اللوائح آليات وإجراءات عملهم.",
+    "target_en": "Inspectors from the NCM, designated pursuant to a decision by the Minister, shall detect, record, investigate, and establish violations of the provisions of this Law and the Regulations. The Regulations shall determine the work rules and procedures of said inspectors.",
+    "source_ar_norm": "يتولي مفتشون من المركز -يصدر بتحديدهم قرار من الوزير- ضبط مخالفات احكام النظام واللوائح، والتحقيق فيها واثباتها، وتحدد اللوائح اليات واجراءات عملهم.",
+    "target_en_norm": "inspectors from the ncm, designated pursuant to a decision by the minister, shall detect, record, investigate, and establish violations of the provisions of this law and the regulations. the regulations shall determine the work rules and procedures of said inspectors.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27436,
+    "source_ar": "للمفتش قبل دخول المواقع بغرض تفتيشها وضبط المخالفات فيها؛ الاستعانة بالجهات المختصة، وتُحدد اللوائح الآليات اللازمة لذلك.",
+    "target_en": "Inspectors may, prior to entering sites for the purpose of inspecting and detecting violations, seek the assistance of competent agencies. The Regulations shall determine the necessary procedures therefor.",
+    "source_ar_norm": "للمفتش قبل دخول المواقع بغرض تفتيشها وضبط المخالفات فيها؛ الاستعانة بالجهات المختصة، وتحدد اللوائح الاليات اللازمة لذلك.",
+    "target_en_norm": "inspectors may, prior to entering sites for the purpose of inspecting and detecting violations, seek the assistance of competent agencies. the regulations shall determine the necessary procedures therefor.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27437,
+    "source_ar": "للمفتش التحفظ الفوري على كل ما يشتبه باستخدامه بما يخالف أحكام النظام واللوائح، على أن يحرر محضراً يوضح الأصناف المحرزة وأوصافها أثناء الضبط، ويعرضه على اللجنة المنصوص عليها في الفقرة (1) من المادة (الثالثة عشرة) من النظام -خلال مدة لا تزيد على (سبعة) أيام- لتقرير استمرار التحفظ أو إلغائه؛ وذلك وفقاً لما تُحدده اللوائح.",
+    "target_en": "Inspectors may immediately seize any items suspected of being used in violation of this Law and the Regulations, provided that such inspectors prepare a report including the types of seized items and descriptions thereof. Such report shall be submitted within seven days to the committee referred to in Article 13(1) of this Law to render a decision on whether to release the seized items or continue seizure thereof, as specified by the Regulations.",
+    "source_ar_norm": "للمفتش التحفظ الفوري علي كل ما يشتبه باستخدامه بما يخالف احكام النظام واللوائح، علي ان يحرر محضرا يوضح الاصناف المحرزة واوصافها اثناء الضبط، ويعرضه علي اللجنة المنصوص عليها في الفقرة (1) من المادة (الثالثة عشرة) من النظام -خلال مدة لا تزيد علي (سبعة) ايام- لتقرير استمرار التحفظ او الغائه؛ وذلك وفقا لما تحدده اللوائح.",
+    "target_en_norm": "inspectors may immediately seize any items suspected of being used in violation of this law and the regulations, provided that such inspectors prepare a report including the types of seized items and descriptions thereof. such report shall be submitted within seven days to the committee referred to in article 13(1) of this law to render a decision on whether to release the seized items or continue seizure thereof, as specified by the regulations.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27438,
+    "source_ar": "يُحظر منع المفتش أو إعاقته عن تأدية أعماله المتعلقة بالتفتيش والضبط. وعلى المفتش إبراز بطاقته الوظيفية عند مباشرة اختصاصاته.",
+    "target_en": "Inspectors shall not be prevented or obstructed from carrying out their inspection, detection, and recording duties. In carrying out such duties, inspectors shall present their credentials.",
+    "source_ar_norm": "يحظر منع المفتش او اعاقته عن تادية اعماله المتعلقة بالتفتيش والضبط. وعلي المفتش ابراز بطاقته الوظيفية عند مباشرة اختصاصاته.",
+    "target_en_norm": "inspectors shall not be prevented or obstructed from carrying out their inspection, detection, and recording duties. in carrying out such duties, inspectors shall present their credentials.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27439,
+    "source_ar": "دون إخلال بما ورد في الفقرة (1) من هذه المادة، للوزير إسناد بعض مهمات التفتيش وضبط المخالفات ذات الطبيعة الإدارية، إلى شركات متخصصة؛ وذلك وفق ضوابط ومعايير تُحددها اللوائح.",
+    "target_en": "Without prejudice to paragraph (1) of this Article, the Minister may outsource certain tasks relating to the inspection, detection, and recording of violations of an administrative nature to specialized companies, in accordance with controls and standards specified in the Regulations.",
+    "source_ar_norm": "دون اخلال بما ورد في الفقرة (1) من هذه المادة، للوزير اسناد بعض مهمات التفتيش وضبط المخالفات ذات الطبيعة الادارية، الي شركات متخصصة؛ وذلك وفق ضوابط ومعايير تحددها اللوائح.",
+    "target_en_norm": "without prejudice to paragraph (1) of this article, the minister may outsource certain tasks relating to the inspection, detection, and recording of violations of an administrative nature to specialized companies, in accordance with controls and standards specified in the regulations.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27440,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27441,
+    "source_ar": "دون إخلال بأي عقوبة أشد يُنص عليها في نظام آخر، يعاقب كل من يرتكب أيًّا من المخالفات المنصوص عليها في المادة (العاشرة) من النظام بواحدة أو أكثر من العقوبات الآتية:",
+    "target_en": "Without prejudice to any harsher penalty stipulated in any other law, a person who commits any of the violations stipulated in Article 10 of this Law shall be subject to one or more of the following penalties:",
+    "source_ar_norm": "دون اخلال باي عقوبة اشد ينص عليها في نظام اخر، يعاقب كل من يرتكب ايا من المخالفات المنصوص عليها في المادة (العاشرة) من النظام بواحدة او اكثر من العقوبات الاتية:",
+    "target_en_norm": "without prejudice to any harsher penalty stipulated in any other law, a person who commits any of the violations stipulated in article 10 of this law shall be subject to one or more of the following penalties:",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27442,
+    "source_ar": "أ- غرامة لا تزيد على (500.000) خمسمائة ألف ريال.",
+    "target_en": "A fine not exceeding five hundred thousand riyals.",
+    "source_ar_norm": "ا- غرامة لا تزيد علي (500.000) خمسمائة الف ريال.",
+    "target_en_norm": "a fine not exceeding five hundred thousand riyals.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27443,
+    "source_ar": "ب- تعليق الترخيص أو التصريح لمدة لا تزيد على (ستة) أشهر.",
+    "target_en": "Suspension of the license or permit for a period not exceeding six months.",
+    "source_ar_norm": "ب- تعليق الترخيص او التصريح لمدة لا تزيد علي (ستة) اشهر.",
+    "target_en_norm": "suspension of the license or permit for a period not exceeding six months.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27444,
+    "source_ar": "ج- إلغاء الترخيص أو التصريح.",
+    "target_en": "Cancelation of the license or permit.",
+    "source_ar_norm": "ج- الغاء الترخيص او التصريح.",
+    "target_en_norm": "cancelation of the license or permit.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27445,
+    "source_ar": "د- مصادرة المضبوطات محل المخالفة.",
+    "target_en": "Confiscation of the seized items subject of the violation.",
+    "source_ar_norm": "د- مصادرة المضبوطات محل المخالفة.",
+    "target_en_norm": "confiscation of the seized items subject of the violation.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27446,
+    "source_ar": "هـ - إلزام المخالف بإصلاح الضرر الناتج عن المخالفة تحت إشراف المركز أو التعويض عن قيمة الإصلاح، وفوات المنفعة.",
+    "target_en": "Compelling the violator to repair the damage resulting from the violation under the supervision of the NCM, or to pay the cost of repair and the loss of benefit.",
+    "source_ar_norm": "ه - الزام المخالف باصلاح الضرر الناتج عن المخالفة تحت اشراف المركز او التعويض عن قيمة الاصلاح، وفوات المنفعة.",
+    "target_en_norm": "compelling the violator to repair the damage resulting from the violation under the supervision of the ncm, or to pay the cost of repair and the loss of benefit.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27447,
+    "source_ar": "يُصدر الوزير جداول تصنيف المخالفات المنصوص عليها في المادة (العاشرة) من النظام، وتحديد العقوبات المقابلة لها من العقوبات المنصوص عليها في الفقرات الفرعية (أ، ب، ج) من الفقرة (1) من هذه المادة؛ ويراعى فيها طبيعة كل مخالفة وجسامتها، والظروف المشددة والمخففة لها.",
+    "target_en": "The Minister shall issue the classification tables for the violations stipulated in Article 10 of this Law and shall determine corresponding penalties from the penalties stipulated in paragraph (1)(a, b, and c) of this Article, taking into account the nature and gravity of each violation as well as the aggravating and mitigating circumstances thereof.",
+    "source_ar_norm": "يصدر الوزير جداول تصنيف المخالفات المنصوص عليها في المادة (العاشرة) من النظام، وتحديد العقوبات المقابلة لها من العقوبات المنصوص عليها في الفقرات الفرعية (ا، ب، ج) من الفقرة (1) من هذه المادة؛ ويراعي فيها طبيعة كل مخالفة وجسامتها، والظروف المشددة والمخففة لها.",
+    "target_en_norm": "the minister shall issue the classification tables for the violations stipulated in article 10 of this law and shall determine corresponding penalties from the penalties stipulated in paragraph (1)(a, b, and c) of this article, taking into account the nature and gravity of each violation as well as the aggravating and mitigating circumstances thereof.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27448,
+    "source_ar": "المادة الثالثة عشرة",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة",
+    "target_en_norm": "article 13",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27449,
+    "source_ar": "مع مراعاة ما ورد في المادة (الرابعة عشرة) من النظام يتولى النظر في مخالفات أحكام النظام، وإيقاع العقوبات المنصوص عليها في الفقرات الفرعية (أ، ب، ج) من الفقرة (1) من المادة (الثانية عشرة) من النظام؛ لجنة (أو أكثر) تُكوَّن بقرار من الوزير لمدة (ثلاث) سنوات قابلة للتجديد، تتكون من (ثلاثة) أعضاء، ويحدد قرار تكوينها من يتولى رئاستها، على أن يكون من المتخصصين في الشريعة أو الأنظمة، وتصدر قراراتها بالأغلبية على الأقل، وتكون مسببة، ويعتمد الوزير قراراتها الصادرة بالغرامة التي تزيد على (100.000) مئة ألف ريال، أو بإلغاء الترخيص أو التصريح. وتُحدد اللوائح قواعد عمل اللجنة وإجراءاتها، ومكافآت أعضائها.",
+    "target_en": "Subject to the provisions of Article 14 of this Law, a committee, or more, formed pursuant to a decision by the Minister for a renewable period of three years, shall review any violations of the provisions of this Law and impose the penalties stipulated in Article 12(1)(a, b, and c) of this Law. Such committee shall be composed of three members and its formation decision shall designate its chairman who shall be qualified in Sharia or law. Committee decisions shall be passed by majority vote and shall be reasoned. Committee penalty decisions imposing a fine of more than one hundred thousand riyals or the cancelation of a license or permit shall be approved by the Minister. The Regulations shall determine the committee work rules and procedures and the remuneration of its members.",
+    "source_ar_norm": "مع مراعاة ما ورد في المادة (الرابعة عشرة) من النظام يتولي النظر في مخالفات احكام النظام، وايقاع العقوبات المنصوص عليها في الفقرات الفرعية (ا، ب، ج) من الفقرة (1) من المادة (الثانية عشرة) من النظام؛ لجنة (او اكثر) تكون بقرار من الوزير لمدة (ثلاث) سنوات قابلة للتجديد، تتكون من (ثلاثة) اعضاء، ويحدد قرار تكوينها من يتولي رئاستها، علي ان يكون من المتخصصين في الشريعة او الانظمة، وتصدر قراراتها بالاغلبية علي الاقل، وتكون مسببة، ويعتمد الوزير قراراتها الصادرة بالغرامة التي تزيد علي (100.000) مئة الف ريال، او بالغاء الترخيص او التصريح. وتحدد اللوائح قواعد عمل اللجنة واجراءاتها، ومكافات اعضائها.",
+    "target_en_norm": "subject to the provisions of article 14 of this law, a committee, or more, formed pursuant to a decision by the minister for a renewable period of three years, shall review any violations of the provisions of this law and impose the penalties stipulated in article 12(1)(a, b, and c) of this law. such committee shall be composed of three members and its formation decision shall designate its chairman who shall be qualified in sharia or law. committee decisions shall be passed by majority vote and shall be reasoned. committee penalty decisions imposing a fine of more than one hundred thousand riyals or the cancelation of a license or permit shall be approved by the minister. the regulations shall determine the committee work rules and procedures and the remuneration of its members.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27450,
+    "source_ar": "للجنة -المنصوص عليها في الفقرة (1) من هذه المادة- وفقاً لأحكام النظام ما يأتي:",
+    "target_en": "Subject to this Law, the committee referred to in paragraph (1) of this Article may:",
+    "source_ar_norm": "للجنة -المنصوص عليها في الفقرة (1) من هذه المادة- وفقا لاحكام النظام ما ياتي:",
+    "target_en_norm": "subject to this law, the committee referred to in paragraph (1) of this article may:",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27451,
+    "source_ar": "أ- فرض غرامة عن كل يوم يستمر فيه المخالف في مخالفته بعد تبليغه بقرار اللجنة المكتسب الصفة القطعية.",
+    "target_en": "impose a fine for each day the violation continues after having notified the violator of its final decision;",
+    "source_ar_norm": "ا- فرض غرامة عن كل يوم يستمر فيه المخالف في مخالفته بعد تبليغه بقرار اللجنة المكتسب الصفة القطعية.",
+    "target_en_norm": "impose a fine for each day the violation continues after having notified the violator of its final decision;",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27452,
+    "source_ar": "ب- مضاعفة العقوبة الموقعة على المخالف في حال تكرار المخالفة.",
+    "target_en": "double the penalty imposed on the violator if the violation is repeated; and",
+    "source_ar_norm": "ب- مضاعفة العقوبة الموقعة علي المخالف في حال تكرار المخالفة.",
+    "target_en_norm": "double the penalty imposed on the violator if the violation is repeated; and",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27453,
+    "source_ar": "ج- الطلب من المحكمة المختصة الحكم بمصادرة المضبوطات محل المخالفة.",
+    "target_en": "petition the competent court to order confiscation of the seized items subject of the violation.",
+    "source_ar_norm": "ج- الطلب من المحكمة المختصة الحكم بمصادرة المضبوطات محل المخالفة.",
+    "target_en_norm": "petition the competent court to order confiscation of the seized items subject of the violation.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27454,
+    "source_ar": "ويجوز لصاحب الشأن التظلم من القرارات الصادرة في حقه أمام المحكمة الإدارية خلال (ستين) يوماً من تاريخ إبلاغه بالقرار.",
+    "target_en": "A concerned person may appeal the decision issued against him before the Administrative Court within 60 days from the date said person is notified of the decision.",
+    "source_ar_norm": "ويجوز لصاحب الشان التظلم من القرارات الصادرة في حقه امام المحكمة الادارية خلال (ستين) يوما من تاريخ ابلاغه بالقرار.",
+    "target_en_norm": "a concerned person may appeal the decision issued against him before the administrative court within 60 days from the date said person is notified of the decision.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27455,
+    "source_ar": "المادة الرابعة عشرة",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة",
+    "target_en_norm": "article 14",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27456,
+    "source_ar": "دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، يعاقب بالسجن مدة لا تزيد على (عشر) سنوات وبغرامة لا تزيد على (2.000,000) مليوني ريال، أو بإحدى هاتين العقوبتين؛ كل من قام -بالمخالفة لحكم المادة (الثامنة) من النظام- بأي من أعمال خدمات الأرصاد الجوية السيادية.",
+    "target_en": "Without prejudice to any harsher penalty stipulated in any other law, any person who provides sovereign meteorological services in violation of Article 8 of this Law shall be subject to imprisonment for a period not exceeding ten years and a fine not exceeding two million riyals, or to either penalty.",
+    "source_ar_norm": "دون اخلال باي عقوبة اشد ينص عليها نظام اخر، يعاقب بالسجن مدة لا تزيد علي (عشر) سنوات وبغرامة لا تزيد علي (2.000,000) مليوني ريال، او باحدي هاتين العقوبتين؛ كل من قام -بالمخالفة لحكم المادة (الثامنة) من النظام- باي من اعمال خدمات الارصاد الجوية السيادية.",
+    "target_en_norm": "without prejudice to any harsher penalty stipulated in any other law, any person who provides sovereign meteorological services in violation of article 8 of this law shall be subject to imprisonment for a period not exceeding ten years and a fine not exceeding two million riyals, or to either penalty.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27457,
+    "source_ar": "المادة الخامسة عشرة",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة",
+    "target_en_norm": "article 15",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27458,
+    "source_ar": "تتولى النيابة العامة التحقيق والادعاء في المخالفات التي تدخل في اختصاص المحكمة الجزائية.",
+    "target_en": "The Public Prosecution shall investigate and prosecute violations falling within the jurisdiction of the Criminal Court.",
+    "source_ar_norm": "تتولي النيابة العامة التحقيق والادعاء في المخالفات التي تدخل في اختصاص المحكمة الجزائية.",
+    "target_en_norm": "the public prosecution shall investigate and prosecute violations falling within the jurisdiction of the criminal court.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27459,
+    "source_ar": "المادة السادسة عشرة",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة",
+    "target_en_norm": "article 16",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27460,
+    "source_ar": "تتولى المحكمة الجزائية النظر في المخالفات المنصوص عليها في المادة (الرابعة عشرة) من النظام، وإيقاع العقوبتين المنصوص عليهما فيها، ويجوز لها ما يأتي:",
+    "target_en": "The Criminal Court shall consider the violations stipulated in Article 14 of this Law and impose the prescribed penalties, and it may:",
+    "source_ar_norm": "تتولي المحكمة الجزائية النظر في المخالفات المنصوص عليها في المادة (الرابعة عشرة) من النظام، وايقاع العقوبتين المنصوص عليهما فيها، ويجوز لها ما ياتي:",
+    "target_en_norm": "the criminal court shall consider the violations stipulated in article 14 of this law and impose the prescribed penalties, and it may:",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27461,
+    "source_ar": "فرض غرامة عن كل يوم يستمر فيه المخالف في مخالفته بعد تبليغه بالحكم النهائي الصادر بالعقوبة.",
+    "target_en": "impose a fine for each day the violation continues after having notified the violator of the final penalty decision;",
+    "source_ar_norm": "فرض غرامة عن كل يوم يستمر فيه المخالف في مخالفته بعد تبليغه بالحكم النهائي الصادر بالعقوبة.",
+    "target_en_norm": "impose a fine for each day the violation continues after having notified the violator of the final penalty decision;",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27462,
+    "source_ar": "مضاعفة الغرامة الموقعة على المخالف في حالة تكرار المخالفة.",
+    "target_en": "double the fine imposed on the violator if the violation is repeated; and",
+    "source_ar_norm": "مضاعفة الغرامة الموقعة علي المخالف في حالة تكرار المخالفة.",
+    "target_en_norm": "double the fine imposed on the violator if the violation is repeated; and",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27463,
+    "source_ar": "مصادرة المضبوطات محل المخالفة.",
+    "target_en": "confiscate the seized items subject of the violation.",
+    "source_ar_norm": "مصادرة المضبوطات محل المخالفة.",
+    "target_en_norm": "confiscate the seized items subject of the violation.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27464,
+    "source_ar": "المادة السابعة عشرة",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة",
+    "target_en_norm": "article 17",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27465,
+    "source_ar": "يجوز تضمين الحكم أو القرار الصادر بالعقوبة -بحسب الأحوال- النص على نشر منطوقه على نفقة المخالف في صحيفة محلية تصدر في مقر إقامته، فإن لم تكن في مقر إقامته صحيفة ففي أقرب منطقة إليه، أو نشره في أي وسيلة أخرى مناسبة؛ وذلك بحسب نوع المخالفة المرتكبة وجسامتها وتأثيرها، على أن يكون النشر بعد اكتساب الحكم الصفة القطعية، أو تحصن القرار بفوات ميعاد التظلم منه، أو صدور حكم نهائي برفض التظلم.",
+    "target_en": "The judgment or penalty decision, as the case may be, may, depending on the type, gravity, and impact of the violation, include a provision to publish the text of the ruling at the expense of the violator in a local newspaper published in his area of residence or in the nearest area to his residence if no newspaper is available in his area of residence, or by any other appropriate means, provided that the publication is made after the judgment becomes final or the decision becomes unappealable due to the lapse of the appeal period, or if a final judgment is issued dismissing the appeal.",
+    "source_ar_norm": "يجوز تضمين الحكم او القرار الصادر بالعقوبة -بحسب الاحوال- النص علي نشر منطوقه علي نفقة المخالف في صحيفة محلية تصدر في مقر اقامته، فان لم تكن في مقر اقامته صحيفة ففي اقرب منطقة اليه، او نشره في اي وسيلة اخري مناسبة؛ وذلك بحسب نوع المخالفة المرتكبة وجسامتها وتاثيرها، علي ان يكون النشر بعد اكتساب الحكم الصفة القطعية، او تحصن القرار بفوات ميعاد التظلم منه، او صدور حكم نهائي برفض التظلم.",
+    "target_en_norm": "the judgment or penalty decision, as the case may be, may, depending on the type, gravity, and impact of the violation, include a provision to publish the text of the ruling at the expense of the violator in a local newspaper published in his area of residence or in the nearest area to his residence if no newspaper is available in his area of residence, or by any other appropriate means, provided that the publication is made after the judgment becomes final or the decision becomes unappealable due to the lapse of the appeal period, or if a final judgment is issued dismissing the appeal.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27466,
+    "source_ar": "المادة الثامنة عشرة",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة",
+    "target_en_norm": "article 18",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27467,
+    "source_ar": "تُمثل الأحكام الواردة في النظام واللوائح الحد الأدنى فيما يتعلق بتحقيق الالتزام بالاشتراطات والضوابط والإجراءات والمقاييس والمعايير اللازمة لتنظيم قطاع الأرصاد.",
+    "target_en": "The provisions of this Law and the Regulations shall constitute the minimum requirements for compliance with the conditions, controls, procedures, standards, and criteria necessary to regulate the meteorological sector.",
+    "source_ar_norm": "تمثل الاحكام الواردة في النظام واللوائح الحد الادني فيما يتعلق بتحقيق الالتزام بالاشتراطات والضوابط والاجراءات والمقاييس والمعايير اللازمة لتنظيم قطاع الارصاد.",
+    "target_en_norm": "the provisions of this law and the regulations shall constitute the minimum requirements for compliance with the conditions, controls, procedures, standards, and criteria necessary to regulate the meteorological sector.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27468,
+    "source_ar": "دون إخلال بما ورد في الفقرة (1) من هذه المادة، تُطبق أحكام النظام فيما لم يرد في شأنه نص نظامي خاص، على ألا يخل ذلك النص بالتقيد بالأحكام الأخرى الواردة في النظام.",
+    "target_en": "Without prejudice to the provision of paragraph (1) of this Article, the provisions of this Law shall apply where a specific legal provision is absent, provided that such provision does not prejudice compliance with the other provisions of this Law.",
+    "source_ar_norm": "دون اخلال بما ورد في الفقرة (1) من هذه المادة، تطبق احكام النظام فيما لم يرد في شانه نص نظامي خاص، علي الا يخل ذلك النص بالتقيد بالاحكام الاخري الواردة في النظام.",
+    "target_en_norm": "without prejudice to the provision of paragraph (1) of this article, the provisions of this law shall apply where a specific legal provision is absent, provided that such provision does not prejudice compliance with the other provisions of this law.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27469,
+    "source_ar": "لا يخل تطبيق أحكام النظام بالتزامات المملكة في الاتفاقيات الدولية -ذات العلاقة- التي تكون المملكةُ طرفاً فيها، والأنظمة الصادرة من مجلس التعاون لدول الخليج العربية التي صادقت عليها المملكة.",
+    "target_en": "Implementation of the provisions of this Law shall not prejudice the Kingdom's commitments under relevant international agreements to which the Kingdom is party and the laws issued by the Cooperation Council for the Arab States of the Gulf that the Kingdom has ratified.",
+    "source_ar_norm": "لا يخل تطبيق احكام النظام بالتزامات المملكة في الاتفاقيات الدولية -ذات العلاقة- التي تكون المملكة طرفا فيها، والانظمة الصادرة من مجلس التعاون لدول الخليج العربية التي صادقت عليها المملكة.",
+    "target_en_norm": "implementation of the provisions of this law shall not prejudice the kingdom's commitments under relevant international agreements to which the kingdom is party and the laws issued by the cooperation council for the arab states of the gulf that the kingdom has ratified.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27470,
+    "source_ar": "المادة التاسعة عشرة",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة",
+    "target_en_norm": "article 19",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27471,
+    "source_ar": "يُصِدر الوزير اللوائح خلال (مائة وثمانين) يوماً من تاريخ نشر النظام في الجريدة الرسمية.",
+    "target_en": "The Minister shall issue the Regulations within 180 days from the date of publication of this Law in the Official Gazette.",
+    "source_ar_norm": "يصدر الوزير اللوائح خلال (مائة وثمانين) يوما من تاريخ نشر النظام في الجريدة الرسمية.",
+    "target_en_norm": "the minister shall issue the regulations within 180 days from the date of publication of this law in the official gazette.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27472,
+    "source_ar": "المادة العشرون",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون",
+    "target_en_norm": "article 20",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27473,
+    "source_ar": "يُعمَل بالنظام بعد مضي (مائة وثمانين) يوماً من تاريخ نشره في الجريدة الرسمية.",
+    "target_en": "This Law shall enter into force 180 days following the date of its publication in the Official Gazette.",
+    "source_ar_norm": "يعمل بالنظام بعد مضي (مائة وثمانين) يوما من تاريخ نشره في الجريدة الرسمية.",
+    "target_en_norm": "this law shall enter into force 180 days following the date of its publication in the official gazette.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27474,
+    "source_ar": "نظام الأسلحة والذخائر",
+    "target_en": "Law of Weapons and Ammunition",
+    "source_ar_norm": "نظام الاسلحة والذخائر",
+    "target_en_norm": "law of weapons and ammunition",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27475,
+    "source_ar": "التعريفات",
+    "target_en": "Definitions",
+    "source_ar_norm": "التعريفات",
+    "target_en_norm": "definitions",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27476,
+    "source_ar": "المادة الأولى",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي",
+    "target_en_norm": "article 1",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27477,
+    "source_ar": "يقصد بالألفاظ والعبارات الآتية أينما وردت في هذا النظام المعاني المبينة أمامها ما لم يقتض السياق خلاف ذلك:",
+    "target_en": "In this Law, the following terms shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "source_ar_norm": "يقصد بالالفاظ والعبارات الاتية اينما وردت في هذا النظام المعاني المبينة امامها ما لم يقتض السياق خلاف ذلك:",
+    "target_en_norm": "in this law, the following terms shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27478,
+    "source_ar": "الأسلحة الحربية: الأسلحة النارية والذخائر والتجهيزات التي صممت بشكل خاص للاستعمال في العمليات الحربية، كالرشاشات والمدافع والصواريخ وغيرها. ويدخل في حكم الأسلحة الحربية الأسلحة التي تستخدم الأشعة، والغازات، والسموم، وأي سلاح عدا الأسلحة النارية الفردية والأسلحة المشار إليها في بقية فقرات هذه المادة.",
+    "target_en": "Military Weapons: Firearms, ammunition, and equipment especially designed for use in military operations, such as machine guns, artillery, missiles ...etc. Military weapons shall include weapons that use radiation, gases, toxins, and any weapons other than individual firearms and the weapons referred to in the remaining paragraphs of this Article.",
+    "source_ar_norm": "الاسلحة الحربية: الاسلحة النارية والذخائر والتجهيزات التي صممت بشكل خاص للاستعمال في العمليات الحربية، كالرشاشات والمدافع والصواريخ وغيرها. ويدخل في حكم الاسلحة الحربية الاسلحة التي تستخدم الاشعة، والغازات، والسموم، واي سلاح عدا الاسلحة النارية الفردية والاسلحة المشار اليها في بقية فقرات هذه المادة.",
+    "target_en_norm": "military weapons: firearms, ammunition, and equipment especially designed for use in military operations, such as machine guns, artillery, missiles ...etc. military weapons shall include weapons that use radiation, gases, toxins, and any weapons other than individual firearms and the weapons referred to in the remaining paragraphs of this article.",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27479,
+    "source_ar": "الأسلحة النارية الفردية: الأسلحة النارية المعدة لاستعمال شخص واحد، كالمسدسات، والبنادق، وفقا لما تحدده اللائحة التنفيذية.",
+    "target_en": "Individual Firearms: Weapons designed for the use of an individual, such as handguns and rifles, as specified in the Implementing Regulations.",
+    "source_ar_norm": "الاسلحة النارية الفردية: الاسلحة النارية المعدة لاستعمال شخص واحد، كالمسدسات، والبنادق، وفقا لما تحدده اللائحة التنفيذية.",
+    "target_en_norm": "individual firearms: weapons designed for the use of an individual, such as handguns and rifles, as specified in the implementing regulations.",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27480,
+    "source_ar": "أسلحة الصيد: الأسلحة النارية ذات السبطانة الملساء، التي صممت أصلا لأغراض الصيد.",
+    "target_en": "Hunting Weapons: Firearms with smooth barrels designed for hunting purposes.",
+    "source_ar_norm": "اسلحة الصيد: الاسلحة النارية ذات السبطانة الملساء، التي صممت اصلا لاغراض الصيد.",
+    "target_en_norm": "hunting weapons: firearms with smooth barrels designed for hunting purposes.",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27481,
+    "source_ar": "أسلحة التمرين والبنادق الهوائية: أسلحة رماية دون بارود وينطلق مقذوفها بوساطة ضغط الهواء أو دفع نابض.",
+    "target_en": "Training Weapons and Air Rifles: Shooting weapons without gunpowder, the projectiles of which are launched by air pressure or spring action.",
+    "source_ar_norm": "اسلحة التمرين والبنادق الهوائية: اسلحة رماية دون بارود وينطلق مقذوفها بوساطة ضغط الهواء او دفع نابض.",
+    "target_en_norm": "training weapons and air rifles: shooting weapons without gunpowder, the projectiles of which are launched by air pressure or spring action.",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27482,
+    "source_ar": "السلاح الأبيض: كل أداة قاطعة أو ثاقبة أو مهشمة أو راضية، كالسيوف والخناجر والمدى والنبال والحراب والعصي ذات الحربة والقبضات وما في حكمها.",
+    "target_en": "Cold Steel Weapons: Cutting, piercing, smashing, or bruising tools such as swords, daggers, knives, arrows, bayonets, bayoneted sticks, knuckles, and the like.",
+    "source_ar_norm": "السلاح الابيض: كل اداة قاطعة او ثاقبة او مهشمة او راضية، كالسيوف والخناجر والمدي والنبال والحراب والعصي ذات الحربة والقبضات وما في حكمها.",
+    "target_en_norm": "cold steel weapons: cutting, piercing, smashing, or bruising tools such as swords, daggers, knives, arrows, bayonets, bayoneted sticks, knuckles, and the like.",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27483,
+    "source_ar": "الذخيرة: المقذوفات التي تنطلق من الأسلحة نتيجة الدفع الانفجاري أو الهوائي أو الدفع بالنابضات.",
+    "target_en": "Ammunition: Projectiles launched from weapons by explosive thrust, air thrust, or thrust by spring action.",
+    "source_ar_norm": "الذخيرة: المقذوفات التي تنطلق من الاسلحة نتيجة الدفع الانفجاري او الهوائي او الدفع بالنابضات.",
+    "target_en_norm": "ammunition: projectiles launched from weapons by explosive thrust, air thrust, or thrust by spring action.",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27484,
+    "source_ar": "الأسلحة الأثرية: الأسلحة القديمة ذات القيمة التاريخية التي يثبت بعد فحصها ومعاينتها عدم إمكانية استخدامها.",
+    "target_en": "Antique Weapons: Old weapons of historical value proven, upon inspection, to be unusable.",
+    "source_ar_norm": "الاسلحة الاثرية: الاسلحة القديمة ذات القيمة التاريخية التي يثبت بعد فحصها ومعاينتها عدم امكانية استخدامها.",
+    "target_en_norm": "antique weapons: old weapons of historical value proven, upon inspection, to be unusable.",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27485,
+    "source_ar": "اللائحة: اللائحة التنفيذية لهذا النظام.",
+    "target_en": "Regulations: Implementing Regulations of this Law.",
+    "source_ar_norm": "اللائحة: اللائحة التنفيذية لهذا النظام.",
+    "target_en_norm": "regulations: implementing regulations of this law.",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27486,
+    "source_ar": "الوزير: وزير الداخلية.",
+    "target_en": "Minister: Minister of Interior.",
+    "source_ar_norm": "الوزير: وزير الداخلية.",
+    "target_en_norm": "minister: minister of interior.",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27487,
+    "source_ar": "الجهة المختصة: وزارة الداخلية.",
+    "target_en": "Competent Authority: Ministry of Interior.",
+    "source_ar_norm": "الجهة المختصة: وزارة الداخلية.",
+    "target_en_norm": "competent authority: ministry of interior.",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27488,
+    "source_ar": "أحكام عامة",
+    "target_en": "General Provisions",
+    "source_ar_norm": "احكام عامة",
+    "target_en_norm": "general provisions",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27489,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27490,
+    "source_ar": "يسمح بحمل الأسلحة الحربية والفردية الحكومية وذخائرها واستخدامها وفق الأنظمة والأوامر الخاصة بحملها واستخدامها لكل من:",
+    "target_en": "The following persons shall be allowed to carry and use government-issued military and individual weapons and ammunition thereof in accordance with relevant laws and orders:",
+    "source_ar_norm": "يسمح بحمل الاسلحة الحربية والفردية الحكومية وذخائرها واستخدامها وفق الانظمة والاوامر الخاصة بحملها واستخدامها لكل من:",
+    "target_en_norm": "the following persons shall be allowed to carry and use government-issued military and individual weapons and ammunition thereof in accordance with relevant laws and orders:",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27491,
+    "source_ar": "1- العسكريين العاملين في:",
+    "target_en": "1. Military personnel of:",
+    "source_ar_norm": "1- العسكريين العاملين في:",
+    "target_en_norm": "1. military personnel of:",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27492,
+    "source_ar": "أ - الحرس الوطني.",
+    "target_en": "a) National Guard;",
+    "source_ar_norm": "ا - الحرس الوطني.",
+    "target_en_norm": "a) national guard;",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27493,
+    "source_ar": "ب - وزارة الدفاع والطيران.",
+    "target_en": "b) Ministry of Defense and Aviation;",
+    "source_ar_norm": "ب - وزارة الدفاع والطيران.",
+    "target_en_norm": "b) ministry of defense and aviation;",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27494,
+    "source_ar": "ج - وزارة الداخلية.",
+    "target_en": "c) Ministry of Interior;",
+    "source_ar_norm": "ج - وزارة الداخلية.",
+    "target_en_norm": "c) ministry of interior;",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27495,
+    "source_ar": "د - الاستخبارات العامة.",
+    "target_en": "d) General Intelligence; and",
+    "source_ar_norm": "د - الاستخبارات العامة.",
+    "target_en_norm": "d) general intelligence; and",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27496,
+    "source_ar": "هـ- رئاسة أمن الدولة.",
+    "target_en": "e) Presidency of State Security.",
+    "source_ar_norm": "ه- رئاسة امن الدولة.",
+    "target_en_norm": "e) presidency of state security.",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27497,
+    "source_ar": "2- موظفي الحكومة المدنيين الذين ينص نظام الجهة التابعين لها على جواز حملهم أسلحة حكومية.",
+    "target_en": "2. Government civil employees authorized to carry government-issued weapons, in accordance with the law of the agency they are affiliated with.",
+    "source_ar_norm": "2- موظفي الحكومة المدنيين الذين ينص نظام الجهة التابعين لها علي جواز حملهم اسلحة حكومية.",
+    "target_en_norm": "2. government civil employees authorized to carry government-issued weapons, in accordance with the law of the agency they are affiliated with.",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27498,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27499,
+    "source_ar": "يقصر استيراد الأسلحة النارية الفردية والبنادق الهوائية وأسلحة الصيد المعرفة في هذا النظام ولوازمها وقطع غيارها وذخائرها، وبيعها وشراؤها على السعوديين المرخص لهم، وفقا للإجراءات والشروط التي تحددها اللائحة.",
+    "target_en": "Import, sale, and purchase of individual firearms, air rifles, and hunting weapons – defined in this Law- as well as their accessories, spare parts, and ammunition shall be restricted to licensed Saudis, in accordance with procedures and conditions specified by the Regulations.",
+    "source_ar_norm": "يقصر استيراد الاسلحة النارية الفردية والبنادق الهوائية واسلحة الصيد المعرفة في هذا النظام ولوازمها وقطع غيارها وذخائرها، وبيعها وشراؤها علي السعوديين المرخص لهم، وفقا للاجراءات والشروط التي تحددها اللائحة.",
+    "target_en_norm": "import, sale, and purchase of individual firearms, air rifles, and hunting weapons – defined in this law- as well as their accessories, spare parts, and ammunition shall be restricted to licensed saudis, in accordance with procedures and conditions specified by the regulations.",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  },
+  {
+    "id": 27500,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "نظام الأسلحة والذخائر.docx"
+  }
+]

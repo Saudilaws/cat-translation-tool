@@ -1,0 +1,802 @@
+[
+  {
+    "id": 25201,
+    "source_ar": "الطاقة: كل ما يندرج ضمن منتجات الطاقة، وتشمل: الزيت الخام ومشتقاته، والغاز الطبيعي وسوائله، والهيدروجين، والطاقة الكهربائية من مصادرها المختلفة.",
+    "target_en": "Energy: All energy products, including crude oil and its derivatives, natural gas and its liquids, hydrogen, and electrical energy from various sources.",
+    "source_ar_norm": "الطاقة: كل ما يندرج ضمن منتجات الطاقة، وتشمل: الزيت الخام ومشتقاته، والغاز الطبيعي وسوائله، والهيدروجين، والطاقة الكهربائية من مصادرها المختلفة.",
+    "target_en_norm": "energy: all energy products, including crude oil and its derivatives, natural gas and its liquids, hydrogen, and electrical energy from various sources.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25202,
+    "source_ar": "تخصيص الطاقة: تحديد نوع الطاقة وكميتها المتاحة للمستهلك.",
+    "target_en": "Energy Allocation: Determining the type and amount of energy made available to the consumer.",
+    "source_ar_norm": "تخصيص الطاقة: تحديد نوع الطاقة وكميتها المتاحة للمستهلك.",
+    "target_en_norm": "energy allocation: determining the type and amount of energy made available to the consumer.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25203,
+    "source_ar": "وثيقة تخصيص الطاقة: وثيقة تصدر لتخصيص الطاقة تتضمن التزامات المستهلك والشروط والأحكام الواجب اتباعها.",
+    "target_en": "Energy Allocation Document: A document issued for the allocation of energy which includes the consumer's obligations as well as the terms and conditions to be observed.",
+    "source_ar_norm": "وثيقة تخصيص الطاقة: وثيقة تصدر لتخصيص الطاقة تتضمن التزامات المستهلك والشروط والاحكام الواجب اتباعها.",
+    "target_en_norm": "energy allocation document: a document issued for the allocation of energy which includes the consumer's obligations as well as the terms and conditions to be observed.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25204,
+    "source_ar": "الغاز الطبيعي وسوائله: واحد أو أكثر من المركبات الهيدروكربونية التالية: الغاز الجاف (غاز البيع)، والإيثان، والبروبان، والبوتان، والبنتان والمركبات الهيدروكربونية الأثقل (أو البنتان وما يليه) والبنزين الطبيعي، وأي منتجات أخرى من معامل الغاز ومن معامل التجزئة والفرز، مثل الكبريت.",
+    "target_en": "Natural Gas and its Liquids: One or more of the following hydrocarbons: dry gas (sales gas), ethane, propane, butane, pentane and heavier hydrocarbons, and natural gasoline, and any other products from gas plants and from fractionation and sorting plants, such as sulfur.",
+    "source_ar_norm": "الغاز الطبيعي وسوائله: واحد او اكثر من المركبات الهيدروكربونية التالية: الغاز الجاف (غاز البيع)، والايثان، والبروبان، والبوتان، والبنتان والمركبات الهيدروكربونية الاثقل (او البنتان وما يليه) والبنزين الطبيعي، واي منتجات اخري من معامل الغاز ومن معامل التجزئة والفرز، مثل الكبريت.",
+    "target_en_norm": "natural gas and its liquids: one or more of the following hydrocarbons: dry gas (sales gas), ethane, propane, butane, pentane and heavier hydrocarbons, and natural gasoline, and any other products from gas plants and from fractionation and sorting plants, such as sulfur.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25205,
+    "source_ar": "المستهلك: كل شخص ذي صفة طبيعية أو اعتبارية داخل المملكة يمارس نشاطاً يتطلب تخصيصاً لواحد أو أكثر من منتجات الطاقة.",
+    "target_en": "Consumer: A natural or legal person in the Kingdom who obtains one or more energy products.",
+    "source_ar_norm": "المستهلك: كل شخص ذي صفة طبيعية او اعتبارية داخل المملكة يمارس نشاطا يتطلب تخصيصا لواحد او اكثر من منتجات الطاقة.",
+    "target_en_norm": "consumer: a natural or legal person in the kingdom who obtains one or more energy products.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25206,
+    "source_ar": "الترخيص: موافقة مكتوبة من الوزارة لممارسة نشاط -أو أكثر- من الأنشطة الخاضعة للمادة (الخامسة) من النظام.",
+    "target_en": "License: A written authorization issued by the Ministry to engage in one or more of the activities subject to Article 5 of this Law.",
+    "source_ar_norm": "الترخيص: موافقة مكتوبة من الوزارة لممارسة نشاط -او اكثر- من الانشطة الخاضعة للمادة (الخامسة) من النظام.",
+    "target_en_norm": "license: a written authorization issued by the ministry to engage in one or more of the activities subject to article 5 of this law.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25207,
+    "source_ar": "المرخص له: الشخص الحاصل على الترخيص.",
+    "target_en": "Licensee: A license holder.",
+    "source_ar_norm": "المرخص له: الشخص الحاصل علي الترخيص.",
+    "target_en_norm": "licensee: a license holder.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25208,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25209,
+    "source_ar": "يهدف النظام إلى الآتي:",
+    "target_en": "This Law aims to:",
+    "source_ar_norm": "يهدف النظام الي الاتي:",
+    "target_en_norm": "this law aims to:",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25210,
+    "source_ar": "تنظيم تخصيص الطاقة لمستهلكيها في مجالات: إنتاج الكهرباء، وتكرير الزيت الخام، وإنتاج البتروكيماويات، وتحلية المياه، والصناعة، والتعدين، والزراعة، والإنشاءات، والاتصالات، والنقل، والخدمات اللوجستية، وغيرها.",
+    "target_en": "1. regulate the allocation of energy to its consumers in the fields of electricity production, crude oil refining, petrochemical production, water desalination, industry, mining, agriculture, construction, communications, transportation, logistic services, and other fields; and",
+    "source_ar_norm": "تنظيم تخصيص الطاقة لمستهلكيها في مجالات: انتاج الكهرباء، وتكرير الزيت الخام، وانتاج البتروكيماويات، وتحلية المياه، والصناعة، والتعدين، والزراعة، والانشاءات، والاتصالات، والنقل، والخدمات اللوجستية، وغيرها.",
+    "target_en_norm": "1. regulate the allocation of energy to its consumers in the fields of electricity production, crude oil refining, petrochemical production, water desalination, industry, mining, agriculture, construction, communications, transportation, logistic services, and other fields; and",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25211,
+    "source_ar": "تنظيم تراخيص أنشطة الغاز الطبيعي وسوائله والأنشطة المتعلقة بالهيدروجين.",
+    "target_en": "2. regulate the licensing of activities relating to natural gas and its liquids as well as activities relating to hydrogen.",
+    "source_ar_norm": "تنظيم تراخيص انشطة الغاز الطبيعي وسوائله والانشطة المتعلقة بالهيدروجين.",
+    "target_en_norm": "2. regulate the licensing of activities relating to natural gas and its liquids as well as activities relating to hydrogen.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25212,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25213,
+    "source_ar": "تشكل لجنة باسم (لجنة تخصيص الطاقة) برئاسة الوزير، وعضوية ممثلين لا تقل مرتبتهم عن (الخامسة عشرة) أو ما يعادلها من وزارات: (الصناعة والثروة المعدنية، والمالية، والاتصالات وتقنية المعلومات، والنقل والخدمات اللوجستية، والاقتصاد والتخطيط، والبيئة والمياه والزراعة، والاستثمار، والموارد البشرية والتنمية الاجتماعية)، وهيئة تنظيم المياه والكهرباء، وهيئة المحتوى المحلي والمشتريات الحكومية، وهيئة كفاءة الإنفاق والمشروعات الحكومية، والمركز السعودي لكفاءة الطاقة، واللجنة الوطنية لآلية التنمية النظيفة، وبرنامج استدامة الطلب على البترول. ولرئيس اللجنة -بحسب الحاجة- إضافة أعضاء آخرين من الجهات الحكومية أو غيرها، وله أن ينيب من يراه من الأعضاء لرئاسة الاجتماعات في حال غيابه.",
+    "target_en": "1. A committee named the “Energy Allocation Committee” shall be formed and shall be composed of the Minister as chairman and members of a rank not lower than Grade 15 or its equivalent, from the Ministry of Industry and Mineral Resources, Ministry of Finance, Ministry of Communications and Information Technology, Ministry of Transport and Logistics, Ministry of Economy and Planning, Ministry of Environment, Water and Agriculture, Ministry of Investment, Ministry of Human Resources and Social Development, the Water and Electricity Regulatory Authority, the Local Content and Government Procurement Authority, the Local Content and Government Projects Authority, the Saudi Energy Efficiency Center, the National Committee for the Clean Development Mechanism, and the Oil Demand Sustainability Program. The Chairman may, as needed, add members from government agencies or other entities, and may delegate any member he deems appropriate to chair the meetings in his absence.",
+    "source_ar_norm": "تشكل لجنة باسم (لجنة تخصيص الطاقة) برئاسة الوزير، وعضوية ممثلين لا تقل مرتبتهم عن (الخامسة عشرة) او ما يعادلها من وزارات: (الصناعة والثروة المعدنية، والمالية، والاتصالات وتقنية المعلومات، والنقل والخدمات اللوجستية، والاقتصاد والتخطيط، والبيئة والمياه والزراعة، والاستثمار، والموارد البشرية والتنمية الاجتماعية)، وهيئة تنظيم المياه والكهرباء، وهيئة المحتوي المحلي والمشتريات الحكومية، وهيئة كفاءة الانفاق والمشروعات الحكومية، والمركز السعودي لكفاءة الطاقة، واللجنة الوطنية لالية التنمية النظيفة، وبرنامج استدامة الطلب علي البترول. ولرئيس اللجنة -بحسب الحاجة- اضافة اعضاء اخرين من الجهات الحكومية او غيرها، وله ان ينيب من يراه من الاعضاء لرئاسة الاجتماعات في حال غيابه.",
+    "target_en_norm": "1. a committee named the “energy allocation committee” shall be formed and shall be composed of the minister as chairman and members of a rank not lower than grade 15 or its equivalent, from the ministry of industry and mineral resources, ministry of finance, ministry of communications and information technology, ministry of transport and logistics, ministry of economy and planning, ministry of environment, water and agriculture, ministry of investment, ministry of human resources and social development, the water and electricity regulatory authority, the local content and government procurement authority, the local content and government projects authority, the saudi energy efficiency center, the national committee for the clean development mechanism, and the oil demand sustainability program. the chairman may, as needed, add members from government agencies or other entities, and may delegate any member he deems appropriate to chair the meetings in his absence.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25214,
+    "source_ar": "تتولى الوزارة أعمال أمانة (لجنة تخصيص الطاقة)، وتقدم الدعم الإداري والمالي اللازم لها على الوجه الذي يكفل تحقيقها لأهدافها.",
+    "target_en": "2. The Ministry shall undertake the work of the secretariat of the Energy Allocation Committee and shall provide the administrative and financial support necessary to achieve its objectives.",
+    "source_ar_norm": "تتولي الوزارة اعمال امانة (لجنة تخصيص الطاقة)، وتقدم الدعم الاداري والمالي اللازم لها علي الوجه الذي يكفل تحقيقها لاهدافها.",
+    "target_en_norm": "2. the ministry shall undertake the work of the secretariat of the energy allocation committee and shall provide the administrative and financial support necessary to achieve its objectives.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25215,
+    "source_ar": "تتولى اللجنة المنصوص عليها في الفقرة (1) من هذه المادة ما يلي:",
+    "target_en": "3. The committee referred to in paragraph (1) of this Article shall:",
+    "source_ar_norm": "تتولي اللجنة المنصوص عليها في الفقرة (1) من هذه المادة ما يلي:",
+    "target_en_norm": "3. the committee referred to in paragraph (1) of this article shall:",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25216,
+    "source_ar": "أ- إعداد لائحة التخصيص واقتراح تعديلها.",
+    "target_en": "a) prepare the Allocation Regulations and propose amendments thereto;",
+    "source_ar_norm": "ا- اعداد لائحة التخصيص واقتراح تعديلها.",
+    "target_en_norm": "a) prepare the allocation regulations and propose amendments thereto;",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25217,
+    "source_ar": "ب- اعتماد معايير تخصيص الطاقة التي تقترحها الوزارة بما يحقق الاستخدامات المـثلى للطاقة، والمساهمة في رفع مستوى الاقتصاد الوطني وتنوعه، وتحقيق مستهدفات مزيج الطاقة، ورفع مستويات كفاءة استخدام الطاقة، وتعزيز الاقتصاد الدائري للكربون، وإدارة غازات الاحتباس الحراري، بما لا يتعارض مع الاستراتيجيات المعتمدة من اللجنة العُليا لشؤون المواد الهيدروكربونية، واللجنة العُليا لشؤون مزيج الطاقة لإنتاج الكهرباء وتمكين قطاع الطاقة المتجددة.",
+    "target_en": "b) approve the energy allocation standards proposed by the Ministry to achieve optimal energy usage, contribute to improving and diversifying the national economy, achieve energy mix objectives, raise energy efficiency levels, promote a circular carbon economy, and manage greenhouse gasses, in a manner not inconsistent with the strategies approved by the Higher Committee for Hydrocarbons and the Higher Committee for Energy Mix for the Production of Electricity and Advancement of the Renewable Energy Sector;",
+    "source_ar_norm": "ب- اعتماد معايير تخصيص الطاقة التي تقترحها الوزارة بما يحقق الاستخدامات المثلي للطاقة، والمساهمة في رفع مستوي الاقتصاد الوطني وتنوعه، وتحقيق مستهدفات مزيج الطاقة، ورفع مستويات كفاءة استخدام الطاقة، وتعزيز الاقتصاد الدائري للكربون، وادارة غازات الاحتباس الحراري، بما لا يتعارض مع الاستراتيجيات المعتمدة من اللجنة العليا لشؤون المواد الهيدروكربونية، واللجنة العليا لشؤون مزيج الطاقة لانتاج الكهرباء وتمكين قطاع الطاقة المتجددة.",
+    "target_en_norm": "b) approve the energy allocation standards proposed by the ministry to achieve optimal energy usage, contribute to improving and diversifying the national economy, achieve energy mix objectives, raise energy efficiency levels, promote a circular carbon economy, and manage greenhouse gasses, in a manner not inconsistent with the strategies approved by the higher committee for hydrocarbons and the higher committee for energy mix for the production of electricity and advancement of the renewable energy sector;",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25218,
+    "source_ar": "ج- مراجعة معايير تخصيص الطاقة كل (ثلاث) سنوات أو حسب الحاجة بناءً على قرار من رئيس اللجنة.",
+    "target_en": "c) review the energy allocation standards every three years or as needed pursuant to a decision by the Chairman;",
+    "source_ar_norm": "ج- مراجعة معايير تخصيص الطاقة كل (ثلاث) سنوات او حسب الحاجة بناء علي قرار من رئيس اللجنة.",
+    "target_en_norm": "c) review the energy allocation standards every three years or as needed pursuant to a decision by the chairman;",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25219,
+    "source_ar": "د- تحسين عملية جمع وتبادل البيانات والمعلومات ذات العلاقة بتخصيص الطاقة.",
+    "target_en": "d) improve the collection and exchange of data and information related to energy allocation; and",
+    "source_ar_norm": "د- تحسين عملية جمع وتبادل البيانات والمعلومات ذات العلاقة بتخصيص الطاقة.",
+    "target_en_norm": "d) improve the collection and exchange of data and information related to energy allocation; and",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25220,
+    "source_ar": "هـ- تزويد اللجنة العليا لشؤون المواد الهيدروكربونية بالآتي:",
+    "target_en": "e) provide the Higher Committee for Hydrocarbons with:",
+    "source_ar_norm": "ه- تزويد اللجنة العليا لشؤون المواد الهيدروكربونية بالاتي:",
+    "target_en_norm": "e) provide the higher committee for hydrocarbons with:",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25221,
+    "source_ar": "تقارير دورية حيال ما حققته من إنجازات وما واجهته من صعوبات والحلول المقترحة لمعالجتها.",
+    "target_en": "periodic reports on its achievements that include challenges encountered and proposed solutions; and",
+    "source_ar_norm": "تقارير دورية حيال ما حققته من انجازات وما واجهته من صعوبات والحلول المقترحة لمعالجتها.",
+    "target_en_norm": "periodic reports on its achievements that include challenges encountered and proposed solutions; and",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25222,
+    "source_ar": "أي معلومة أو وثيقة أو بيان تحتاج له؛ بما يُمكنها من متابعة مؤشرات أداء قطاع الطاقة وتحقيق مستهدفاته.",
+    "target_en": "any information, document, or statement the Higher Committee requires to track the performance indicators of the energy sector and achieve its objectives.",
+    "source_ar_norm": "اي معلومة او وثيقة او بيان تحتاج له؛ بما يمكنها من متابعة مؤشرات اداء قطاع الطاقة وتحقيق مستهدفاته.",
+    "target_en_norm": "any information, document, or statement the higher committee requires to track the performance indicators of the energy sector and achieve its objectives.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25223,
+    "source_ar": "تضع اللجنة المنصوص عليها في الفقرة (1) من هذه المادة قواعد عملها وإجراءاتها، وآلية التصويت على القرارات، على أن تصدر تلك القرارات بأغلبية أصوات الأعضاء الحاضرين على الأقل. وفي حال تساوي الأصوات، يرجح الجانب الذي صوت معه رئيس الاجتماع.",
+    "target_en": "4. The committee provided for in paragraph (1) of this Article shall set its work rules and procedures, and the method of voting on decisions, provided that such decisions are passed by the majority vote of attending members. In case of a tie, the meeting chairman shall have the casting vote.",
+    "source_ar_norm": "تضع اللجنة المنصوص عليها في الفقرة (1) من هذه المادة قواعد عملها واجراءاتها، والية التصويت علي القرارات، علي ان تصدر تلك القرارات باغلبية اصوات الاعضاء الحاضرين علي الاقل. وفي حال تساوي الاصوات، يرجح الجانب الذي صوت معه رئيس الاجتماع.",
+    "target_en_norm": "4. the committee provided for in paragraph (1) of this article shall set its work rules and procedures, and the method of voting on decisions, provided that such decisions are passed by the majority vote of attending members. in case of a tie, the meeting chairman shall have the casting vote.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25224,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25225,
+    "source_ar": "تخصص الوزارة الطاقة للمستهلك بناءً على الطاقة المتاحة والمعايير المعتمدة من اللجنة المنصوص عليها في الفقرة (1) من المادة (الثالثة) من النظام، وتصدر الوزارة وفقاً لذلك وثيقة تخصيص الطاقة.",
+    "target_en": "The Ministry shall allocate energy to the consumer based on available energy and the criteria approved by the Committee referred to in Article 3(1) of this Law, and shall accordingly issue the energy allocation document.",
+    "source_ar_norm": "تخصص الوزارة الطاقة للمستهلك بناء علي الطاقة المتاحة والمعايير المعتمدة من اللجنة المنصوص عليها في الفقرة (1) من المادة (الثالثة) من النظام، وتصدر الوزارة وفقا لذلك وثيقة تخصيص الطاقة.",
+    "target_en_norm": "the ministry shall allocate energy to the consumer based on available energy and the criteria approved by the committee referred to in article 3(1) of this law, and shall accordingly issue the energy allocation document.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25226,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25227,
+    "source_ar": "دون إخلال بأحكام التراخيص الصادرة وفق الأنظمة الأخرى لممارسة نشاط أو أكثر من أنشطة الطاقة، يشترط لممارسة الأنشطة المتعلقة بالغاز الطبيعي وسوائله أو الأنشطة المتعلقة بالهيدروجين؛ الحصول على ترخيص من الوزارة، ويشمل ذلك ما يلي: (النقل، المعالجة، التجزئة، تنقية الغاز، التجميع، التخزين، التوزيع المحلي، الاستيراد والتصدير، البيع، إنشاء وتملك وتشغيل شبكات ومرافق الغاز الطبيعي وسوائله أو المرافق الخاصة بالهيدروجين) وفقاً لأحكام اللوائح.",
+    "target_en": "1. Without prejudice to the provisions of licenses issued under other laws to engage in one energy activity or more, obtaining a license from the Ministry shall be required prior to engaging in activities relating to natural gas and its liquids or activities relating to hydrogen. Such activities shall include transportation, processing, fractionation, gas purification, assembly, storage, local distribution, import and export, sale, and construction, ownership, and operation of networks and facilities of natural gas and its liquids or hydrogen facilities, in accordance with the Regulations.",
+    "source_ar_norm": "دون اخلال باحكام التراخيص الصادرة وفق الانظمة الاخري لممارسة نشاط او اكثر من انشطة الطاقة، يشترط لممارسة الانشطة المتعلقة بالغاز الطبيعي وسوائله او الانشطة المتعلقة بالهيدروجين؛ الحصول علي ترخيص من الوزارة، ويشمل ذلك ما يلي: (النقل، المعالجة، التجزئة، تنقية الغاز، التجميع، التخزين، التوزيع المحلي، الاستيراد والتصدير، البيع، انشاء وتملك وتشغيل شبكات ومرافق الغاز الطبيعي وسوائله او المرافق الخاصة بالهيدروجين) وفقا لاحكام اللوائح.",
+    "target_en_norm": "1. without prejudice to the provisions of licenses issued under other laws to engage in one energy activity or more, obtaining a license from the ministry shall be required prior to engaging in activities relating to natural gas and its liquids or activities relating to hydrogen. such activities shall include transportation, processing, fractionation, gas purification, assembly, storage, local distribution, import and export, sale, and construction, ownership, and operation of networks and facilities of natural gas and its liquids or hydrogen facilities, in accordance with the regulations.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25228,
+    "source_ar": "تحدد اللوائح المقابل المالي للتراخيص.",
+    "target_en": "2. The Regulations shall determine the fees for licenses.",
+    "source_ar_norm": "تحدد اللوائح المقابل المالي للتراخيص.",
+    "target_en_norm": "2. the regulations shall determine the fees for licenses.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25229,
+    "source_ar": "على المرخص له الحصول على وثيقة تأمين تغطي مسؤوليته المدنية عن الأضرار الناتجة عن إدارته، وفق ما تحدده اللوائح.",
+    "target_en": "3. The licensee shall obtain an insurance policy that covers his civil liability for any damage resulting from his management, as determined by the Regulations.",
+    "source_ar_norm": "علي المرخص له الحصول علي وثيقة تامين تغطي مسؤوليته المدنية عن الاضرار الناتجة عن ادارته، وفق ما تحدده اللوائح.",
+    "target_en_norm": "3. the licensee shall obtain an insurance policy that covers his civil liability for any damage resulting from his management, as determined by the regulations.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25230,
+    "source_ar": "تؤول ملكية جميع الأصول المادية بعد انتهاء الترخيص -ما لم ينص الترخيص على غير ذلك أو تقرر الوزارة الاستغناء عنها، وذلك بعد الاتفاق مع وزارة المالية- إلى الدولة، ويُسلِّم المرخص له تلك الأصول إلى الوزارة بحالةٍ جيدة باستثناء الآثار المترتبة على الاستعمال العادي. ويقصد بالأصول المادية -المذكورة في هذه الفقرة- شبكات وأنابيب ومعامل نقل وتجزئة ومعالجة وتنقية وتجميع وتخزين وتوزيع واستيراد وتصدير وبيع الغاز الطبيعي وسوائله والشبكات ومرافق إنتاج وتوزيع الهيدروجين، وأي أصول ثابتة مرتبطة بها تتطلبها العمليات التشغيلية.",
+    "target_en": "4. Ownership of tangible assets shall, upon expiration of the license, devolve to the State, unless the license stipulates otherwise or the Ministry decides to relinquish such assets upon agreement with the Ministry of Finance. The licensee shall deliver such assets to the Ministry in proper condition, except for normal wear and tear. Tangible assets mentioned in this paragraph shall refer to networks, pipelines, and plants designated for transportation, fractionation, processing, purification, assembly, storage, distribution, import and export, and sale of natural gas and its liquids as well as the networks and facilities for the production and distribution of hydrogen, and any fixed assets related thereto that are required by operations.",
+    "source_ar_norm": "تؤول ملكية جميع الاصول المادية بعد انتهاء الترخيص -ما لم ينص الترخيص علي غير ذلك او تقرر الوزارة الاستغناء عنها، وذلك بعد الاتفاق مع وزارة المالية- الي الدولة، ويسلم المرخص له تلك الاصول الي الوزارة بحالة جيدة باستثناء الاثار المترتبة علي الاستعمال العادي. ويقصد بالاصول المادية -المذكورة في هذه الفقرة- شبكات وانابيب ومعامل نقل وتجزئة ومعالجة وتنقية وتجميع وتخزين وتوزيع واستيراد وتصدير وبيع الغاز الطبيعي وسوائله والشبكات ومرافق انتاج وتوزيع الهيدروجين، واي اصول ثابتة مرتبطة بها تتطلبها العمليات التشغيلية.",
+    "target_en_norm": "4. ownership of tangible assets shall, upon expiration of the license, devolve to the state, unless the license stipulates otherwise or the ministry decides to relinquish such assets upon agreement with the ministry of finance. the licensee shall deliver such assets to the ministry in proper condition, except for normal wear and tear. tangible assets mentioned in this paragraph shall refer to networks, pipelines, and plants designated for transportation, fractionation, processing, purification, assembly, storage, distribution, import and export, and sale of natural gas and its liquids as well as the networks and facilities for the production and distribution of hydrogen, and any fixed assets related thereto that are required by operations.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25231,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25232,
+    "source_ar": "يشترط الحصول على وثيقة تخصيص الطاقة من الوزارة قبل صدور موافقة الجهة المشرفة بممارسة واحد أو أكثر من الأنشطة التي تتطلب تخصيصاً للطاقة وفق أحكام النظام.",
+    "target_en": "The energy allocation document must be obtained from the Ministry prior to the supervising agency’s approval to engage in one or more activities that require energy allocation in accordance with the provisions of this Law.",
+    "source_ar_norm": "يشترط الحصول علي وثيقة تخصيص الطاقة من الوزارة قبل صدور موافقة الجهة المشرفة بممارسة واحد او اكثر من الانشطة التي تتطلب تخصيصا للطاقة وفق احكام النظام.",
+    "target_en_norm": "the energy allocation document must be obtained from the ministry prior to the supervising agency’s approval to engage in one or more activities that require energy allocation in accordance with the provisions of this law.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25233,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25234,
+    "source_ar": "لا يجوز التصرف للغير بالترخيص، أو وثيقة تخصيص الطاقة، إلا بعد موافقة الوزارة.",
+    "target_en": "A license or energy allocation document may not be assigned to a third party without the approval of the Ministry.",
+    "source_ar_norm": "لا يجوز التصرف للغير بالترخيص، او وثيقة تخصيص الطاقة، الا بعد موافقة الوزارة.",
+    "target_en_norm": "a license or energy allocation document may not be assigned to a third party without the approval of the ministry.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25235,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25236,
+    "source_ar": "دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، يُعاقب كل من يخالف أيًّا من أحكام النظام أو اللوائح أو لائحة التخصيص أو التراخيص؛ بواحدة أو أكثر من العقوبات الآتية:",
+    "target_en": "1. Without prejudice to any harsher penalty stipulated in any other law, a person who violates any of the provisions of this Law, its Regulations, the Allocation Regulations, or the licenses shall be subject to one or more of the following penalties:",
+    "source_ar_norm": "دون اخلال باي عقوبة اشد ينص عليها نظام اخر، يعاقب كل من يخالف ايا من احكام النظام او اللوائح او لائحة التخصيص او التراخيص؛ بواحدة او اكثر من العقوبات الاتية:",
+    "target_en_norm": "1. without prejudice to any harsher penalty stipulated in any other law, a person who violates any of the provisions of this law, its regulations, the allocation regulations, or the licenses shall be subject to one or more of the following penalties:",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25237,
+    "source_ar": "أ- غرامة لا تزيد على (20,000,000) عشرين مليون ريـال.",
+    "target_en": "a) A fine not exceeding twenty million riyals.",
+    "source_ar_norm": "ا- غرامة لا تزيد علي (20,000,000) عشرين مليون ريال.",
+    "target_en_norm": "a) a fine not exceeding twenty million riyals.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25238,
+    "source_ar": "ب- إيقاف الترخيص جزئيًّا أو كليًّا لمدة لا تتجاوز (سنة).",
+    "target_en": "b) Suspension of the license, wholly or partially, for a period not exceeding one year.",
+    "source_ar_norm": "ب- ايقاف الترخيص جزئيا او كليا لمدة لا تتجاوز (سنة).",
+    "target_en_norm": "b) suspension of the license, wholly or partially, for a period not exceeding one year.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25239,
+    "source_ar": "ج- إلغاء الترخيص.",
+    "target_en": "c) Cancelation of the license.",
+    "source_ar_norm": "ج- الغاء الترخيص.",
+    "target_en_norm": "c) cancelation of the license.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25240,
+    "source_ar": "دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، يُعاقب كل من يخالف أيًّا من أحكام وثيقة تخصيص الطاقة؛ بواحدة أو أكثر من العقوبات الآتية:",
+    "target_en": "2. Without prejudice to any harsher penalty stipulated in any other law, a person who violates any of the provisions of the energy allocation document shall be subject to one or more of the following penalties:",
+    "source_ar_norm": "دون اخلال باي عقوبة اشد ينص عليها نظام اخر، يعاقب كل من يخالف ايا من احكام وثيقة تخصيص الطاقة؛ بواحدة او اكثر من العقوبات الاتية:",
+    "target_en_norm": "2. without prejudice to any harsher penalty stipulated in any other law, a person who violates any of the provisions of the energy allocation document shall be subject to one or more of the following penalties:",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25241,
+    "source_ar": "أ- خفض كميات الطاقة المخصصة.",
+    "target_en": "a) Reduction of energy allocations.",
+    "source_ar_norm": "ا- خفض كميات الطاقة المخصصة.",
+    "target_en_norm": "a) reduction of energy allocations.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25242,
+    "source_ar": "ب- عدم تجديد وثيقة تخصيص الطاقة أو إلغاؤها.",
+    "target_en": "b) Non-renewal or cancelation of the energy allocation document.",
+    "source_ar_norm": "ب- عدم تجديد وثيقة تخصيص الطاقة او الغاؤها.",
+    "target_en_norm": "b) non-renewal or cancelation of the energy allocation document.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25243,
+    "source_ar": "ج- غرامة لا تزيد على (20,000,000) عشرين مليون ريـال.",
+    "target_en": "c) A fine not exceeding twenty million riyals.",
+    "source_ar_norm": "ج- غرامة لا تزيد علي (20,000,000) عشرين مليون ريال.",
+    "target_en_norm": "c) a fine not exceeding twenty million riyals.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25244,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25245,
+    "source_ar": "تكوّن بقرار من الوزير لجنة -أو أكثر- من المختصين، لا يقل عدد أعضائها عن (ثلاثة) أعضاء، ويحدد فيه رئيس اللجنة ونائبه، وينُص في القرار على عضو احتياطي أو أكثر. ويعاد تشكيل اللجنة كل (ثلاث) سنوات، ويجوز تجديد العضوية فيها. ويصدر الوزير قراراً يحدد قواعد عمل اللجنة وإجراءاتها، ويحدد مكافآت أعضائها وسكرتاريتها.",
+    "target_en": "1. A committee, or more, comprising at least three members shall be formed pursuant to a decision by the Minister. The formation decision shall designate the committee's chairman and his deputy and shall designate one or more substitute members. The committee shall be reconstituted every three years and membership thereof may be renewed. The committee's work rules and procedures as well as the remuneration of its members and secretariat shall be determined pursuant to a decision issued by the Minister.",
+    "source_ar_norm": "تكون بقرار من الوزير لجنة -او اكثر- من المختصين، لا يقل عدد اعضائها عن (ثلاثة) اعضاء، ويحدد فيه رئيس اللجنة ونائبه، وينص في القرار علي عضو احتياطي او اكثر. ويعاد تشكيل اللجنة كل (ثلاث) سنوات، ويجوز تجديد العضوية فيها. ويصدر الوزير قرارا يحدد قواعد عمل اللجنة واجراءاتها، ويحدد مكافات اعضائها وسكرتاريتها.",
+    "target_en_norm": "1. a committee, or more, comprising at least three members shall be formed pursuant to a decision by the minister. the formation decision shall designate the committee's chairman and his deputy and shall designate one or more substitute members. the committee shall be reconstituted every three years and membership thereof may be renewed. the committee's work rules and procedures as well as the remuneration of its members and secretariat shall be determined pursuant to a decision issued by the minister.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25246,
+    "source_ar": "تتولى هذه اللجنة النظر في مخالفات أحكام النظام واللوائح ولائحة التخصيص والتراخيص، وفي مخالفات وثيقة تخصيص الطاقة، وتتولى إيقاع العقوبات الواردة فيه.",
+    "target_en": "2. The committee shall consider violations of the provisions of this Law, its Regulations, the Allocation Regulations, and the licenses as well as violations of the energy allocation document, and shall impose the prescribed penalties.",
+    "source_ar_norm": "تتولي هذه اللجنة النظر في مخالفات احكام النظام واللوائح ولائحة التخصيص والتراخيص، وفي مخالفات وثيقة تخصيص الطاقة، وتتولي ايقاع العقوبات الواردة فيه.",
+    "target_en_norm": "2. the committee shall consider violations of the provisions of this law, its regulations, the allocation regulations, and the licenses as well as violations of the energy allocation document, and shall impose the prescribed penalties.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25247,
+    "source_ar": "تضم اللجنة في عضويتها متخصصاً أو خبيراً في الأنشطة الخاضعة للنظام، ومتخصصاً في الأنظمة أو الشريعة، على الأقل.",
+    "target_en": "3. Committee members shall include at least one member who is expert or qualified in the activities subject to this Law and one member who is qualified in law or Sharia.",
+    "source_ar_norm": "تضم اللجنة في عضويتها متخصصا او خبيرا في الانشطة الخاضعة للنظام، ومتخصصا في الانظمة او الشريعة، علي الاقل.",
+    "target_en_norm": "3. committee members shall include at least one member who is expert or qualified in the activities subject to this law and one member who is qualified in law or sharia.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25248,
+    "source_ar": "تصدر قرارات اللجنة بالأغلبية، وتكون مسببة. ويجوز التظلم من قرارات اللجنة أمام المحكمة المختصة خلال (ستين) يوماً من تاريخ إبلاغ صاحب الشأن بالقرار.",
+    "target_en": "4. Committee decisions shall be passed by majority vote and shall be reasoned. Such decisions may be appealed before the competent court within 60 days from the date on which the concerned person is notified of the decision.",
+    "source_ar_norm": "تصدر قرارات اللجنة بالاغلبية، وتكون مسببة. ويجوز التظلم من قرارات اللجنة امام المحكمة المختصة خلال (ستين) يوما من تاريخ ابلاغ صاحب الشان بالقرار.",
+    "target_en_norm": "4. committee decisions shall be passed by majority vote and shall be reasoned. such decisions may be appealed before the competent court within 60 days from the date on which the concerned person is notified of the decision.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25249,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25250,
+    "source_ar": "يتولى مفتشون -يصدر بتسميتهم قرار من الوزير- ضبط مخالفات أحكام النظام واللوائح ولائحة التخصيص والتراخيص، ومخالفات شروط وأحكام وثيقة تخصيص الطاقة.",
+    "target_en": "1. Inspectors, designated pursuant to a decision by the Minister, shall detect and record violations of the provisions of this Law, its Regulations, the Allocation Regulations, and the licenses as well as violations of the terms and conditions of the energy allocation document.",
+    "source_ar_norm": "يتولي مفتشون -يصدر بتسميتهم قرار من الوزير- ضبط مخالفات احكام النظام واللوائح ولائحة التخصيص والتراخيص، ومخالفات شروط واحكام وثيقة تخصيص الطاقة.",
+    "target_en_norm": "1. inspectors, designated pursuant to a decision by the minister, shall detect and record violations of the provisions of this law, its regulations, the allocation regulations, and the licenses as well as violations of the terms and conditions of the energy allocation document.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25251,
+    "source_ar": "يُصدر الوزير الضوابط الخاصة بضبط مخالفات أحكام النظام واللوائح ولائحة التخصيص والتراخيص ومخالفات أحكام وثيقة تخصيص الطاقة والتحقق منها وإثباتها.",
+    "target_en": "2. The Minister shall issue controls for detecting and recording as well as verifying and establishing violations of the provisions of this Law, its Regulations, the Allocation Regulations, the licenses, and the energy allocation document.",
+    "source_ar_norm": "يصدر الوزير الضوابط الخاصة بضبط مخالفات احكام النظام واللوائح ولائحة التخصيص والتراخيص ومخالفات احكام وثيقة تخصيص الطاقة والتحقق منها واثباتها.",
+    "target_en_norm": "2. the minister shall issue controls for detecting and recording as well as verifying and establishing violations of the provisions of this law, its regulations, the allocation regulations, the licenses, and the energy allocation document.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25252,
+    "source_ar": "للوزير إسناد بعض مهمات التفتيش وضبط المخالفات إلى القطاع الخاص، وذلك وفقاً للضوابط والمعايير التي تحددها اللوائح ولائحة التخصيص.",
+    "target_en": "3. The Minister may outsource certain tasks relating to inspection and the detection and recording of violations, in accordance with the controls and standards specified in the Regulations and the Allocation Regulations.",
+    "source_ar_norm": "للوزير اسناد بعض مهمات التفتيش وضبط المخالفات الي القطاع الخاص، وذلك وفقا للضوابط والمعايير التي تحددها اللوائح ولائحة التخصيص.",
+    "target_en_norm": "3. the minister may outsource certain tasks relating to inspection and the detection and recording of violations, in accordance with the controls and standards specified in the regulations and the allocation regulations.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25253,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25254,
+    "source_ar": "يصدر الوزير اللوائح ولائحة التخصيص خلال مدة لا تتجاوز (ستين) يوماً من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ نفاذه.",
+    "target_en": "The Minister shall issue the Regulations and the Allocation Regulations within a period not exceeding 60 days from the date of publication of this Law in the Official Gazette. The Regulations and the Allocation Regulations shall become effective on the date this Law enters into force.",
+    "source_ar_norm": "يصدر الوزير اللوائح ولائحة التخصيص خلال مدة لا تتجاوز (ستين) يوما من تاريخ نشر النظام في الجريدة الرسمية، ويعمل بها من تاريخ نفاذه.",
+    "target_en_norm": "the minister shall issue the regulations and the allocation regulations within a period not exceeding 60 days from the date of publication of this law in the official gazette. the regulations and the allocation regulations shall become effective on the date this law enters into force.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25255,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25256,
+    "source_ar": "يعمل بالنظام بعد (ستين) يوماً من تاريخ نشره في الجريدة الرسمية، ويحل محل نظام إمدادات الغاز وتسعيره الصادر بالمرسوم الملكي رقم (م / 36) وتاريخ 25 / 6 / 1424هـ، ويلغي كل ما يتعارض معه من أحكام.",
+    "target_en": "This Law shall enter into force 60 days following the date of its publication in the Official Gazette. It shall supersede the Law of Gas Supplies and Pricing promulgated by Royal Decree No. (M/36), dated 25/6/1424H, and shall repeal any provisions conflicting therewith.",
+    "source_ar_norm": "يعمل بالنظام بعد (ستين) يوما من تاريخ نشره في الجريدة الرسمية، ويحل محل نظام امدادات الغاز وتسعيره الصادر بالمرسوم الملكي رقم (م / 36) وتاريخ 25 / 6 / 1424ه، ويلغي كل ما يتعارض معه من احكام.",
+    "target_en_norm": "this law shall enter into force 60 days following the date of its publication in the official gazette. it shall supersede the law of gas supplies and pricing promulgated by royal decree no. (m/36), dated 25/6/1424h, and shall repeal any provisions conflicting therewith.",
+    "file_name": "نظام إمدادات الطاقة.docx"
+  },
+  {
+    "id": 25257,
+    "source_ar": "نظام إمدادات الغاز وتسعيره",
+    "target_en": "Law of Gas Supplies and Pricing",
+    "source_ar_norm": "نظام امدادات الغاز وتسعيره",
+    "target_en_norm": "law of gas supplies and pricing",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25258,
+    "source_ar": "المادة الأولى: تعريفات:",
+    "target_en": "Article 1: Definitions",
+    "source_ar_norm": "المادة الاولي: تعريفات:",
+    "target_en_norm": "article 1: definitions",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25259,
+    "source_ar": "تكون للمصطلحات والتعبيرات التالية المعاني المبينة أمام كل منها ما لم يقتض سياق النص خلاف ذلك:",
+    "target_en": "In this Law, the following terms and phrases shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "source_ar_norm": "تكون للمصطلحات والتعبيرات التالية المعاني المبينة امام كل منها ما لم يقتض سياق النص خلاف ذلك:",
+    "target_en_norm": "in this law, the following terms and phrases shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25260,
+    "source_ar": "أرامكو السعودية: شركة الزيت العربية السعودية.",
+    "target_en": "Saudi Aramco: Saudi Arabian Oil Company.",
+    "source_ar_norm": "ارامكو السعودية: شركة الزيت العربية السعودية.",
+    "target_en_norm": "saudi aramco: saudi arabian oil company.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25261,
+    "source_ar": "الأطراف المعنية: الشركة المالكة لشبكة غاز مستقلة وأي طرف آخر يرغب الاستفادة من تلك الشبكة.",
+    "target_en": "Relevant Parties: A firm owning an independent gas network or any party seeking to use said network.",
+    "source_ar_norm": "الاطراف المعنية: الشركة المالكة لشبكة غاز مستقلة واي طرف اخر يرغب الاستفادة من تلك الشبكة.",
+    "target_en_norm": "relevant parties: a firm owning an independent gas network or any party seeking to use said network.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25262,
+    "source_ar": "النشاط الخاضع لهذا النظام: أي نشاط أو أكثر في المجالات التالية:",
+    "target_en": "Activities Subject to this Law: Any activity in the following fields:",
+    "source_ar_norm": "النشاط الخاضع لهذا النظام: اي نشاط او اكثر في المجالات التالية:",
+    "target_en_norm": "activities subject to this law: any activity in the following fields:",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25263,
+    "source_ar": "نقل المواد الهيدروكربونية.",
+    "target_en": "Transmission of hydrocarbons.",
+    "source_ar_norm": "نقل المواد الهيدروكربونية.",
+    "target_en_norm": "transmission of hydrocarbons.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25264,
+    "source_ar": "معالجتها.",
+    "target_en": "Treatment of hydrocarbons.",
+    "source_ar_norm": "معالجتها.",
+    "target_en_norm": "treatment of hydrocarbons.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25265,
+    "source_ar": "تجزئتها.",
+    "target_en": "Fractionation of hydrocarbons.",
+    "source_ar_norm": "تجزئتها.",
+    "target_en_norm": "fractionation of hydrocarbons.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25266,
+    "source_ar": "تجميعها.",
+    "target_en": "Collection of hydrocarbons.",
+    "source_ar_norm": "تجميعها.",
+    "target_en_norm": "collection of hydrocarbons.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25267,
+    "source_ar": "توزيعها محليًّا.",
+    "target_en": "Local distribution of hydrocarbons.",
+    "source_ar_norm": "توزيعها محليا.",
+    "target_en_norm": "local distribution of hydrocarbons.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25268,
+    "source_ar": "بيعها أو التصرف فيها بأي طريقة أخرى.",
+    "target_en": "Sale of hydrocarbons or disposal thereof in any manner.",
+    "source_ar_norm": "بيعها او التصرف فيها باي طريقة اخري.",
+    "target_en_norm": "sale of hydrocarbons or disposal thereof in any manner.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25269,
+    "source_ar": "الإيثان: المادة الهيدروكربونية التي تحتوي على ذرتي كربون والتي تستخدم بصفة أساسية لقيما بتروكيميائيا أو مكونا من مكونات الغاز الجاف. وقد يحتوي الإيثان التجاري على قليل من غاز البترول السائل والمكونات الثقيلة.",
+    "target_en": "Ethane: A gaseous hydrocarbon containing two carbon atoms used primarily as petrochemical feedstock or as a component of dry gas. Commercial ethane may contain a small amount of liquefied petroleum gas or heavy components.",
+    "source_ar_norm": "الايثان: المادة الهيدروكربونية التي تحتوي علي ذرتي كربون والتي تستخدم بصفة اساسية لقيما بتروكيميائيا او مكونا من مكونات الغاز الجاف. وقد يحتوي الايثان التجاري علي قليل من غاز البترول السائل والمكونات الثقيلة.",
+    "target_en_norm": "ethane: a gaseous hydrocarbon containing two carbon atoms used primarily as petrochemical feedstock or as a component of dry gas. commercial ethane may contain a small amount of liquefied petroleum gas or heavy components.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25270,
+    "source_ar": "البنزين الطبيعي: البنتان والمركبات الأثقل للغاز الطبيعي التي تخلط في العادة مع البنزين أو تستخدم لقيما بتروكيميائيا.",
+    "target_en": "Natural Benzene: Pentane and other heavier natural gas components usually mixed with benzene or used as petrochemical feedstock.",
+    "source_ar_norm": "البنزين الطبيعي: البنتان والمركبات الاثقل للغاز الطبيعي التي تخلط في العادة مع البنزين او تستخدم لقيما بتروكيميائيا.",
+    "target_en_norm": "natural benzene: pentane and other heavier natural gas components usually mixed with benzene or used as petrochemical feedstock.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25271,
+    "source_ar": "التجزئة: فرز الإيثان وغيره من سوائل الغاز الطبيعي – سواء المأخوذة من معمل لمعالجة الغاز أو معمل لفرز الغاز – إلى مكونات منفصلة هي: الإيثان والبروبان والبوتان والبنتان والمواد الهيدروكربونية الأثقل.",
+    "target_en": "Fractionation: Separation of ethane and other natural gas liquids, whether from a gas processing plant or a gas separation plant, into separate components: ethane, propane, butane, pentane, and other heavier hydrocarbons.",
+    "source_ar_norm": "التجزئة: فرز الايثان وغيره من سوائل الغاز الطبيعي – سواء الماخوذة من معمل لمعالجة الغاز او معمل لفرز الغاز – الي مكونات منفصلة هي: الايثان والبروبان والبوتان والبنتان والمواد الهيدروكربونية الاثقل.",
+    "target_en_norm": "fractionation: separation of ethane and other natural gas liquids, whether from a gas processing plant or a gas separation plant, into separate components: ethane, propane, butane, pentane, and other heavier hydrocarbons.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25272,
+    "source_ar": "التحويل: تحويل الترخيص، أو نقله، أو بيعه، أو التنازل عنه، أو التصرف فيه بأية صورة أخرى، أو إنشاء حقوق عليه، بما في ذلك الترخيص من الباطن. وتتضمن الإشارة إلى التحويل اعتزام ذلك أو محاولته.",
+    "target_en": "Conversion: Conversion, transfer, sale, assignment, or disposal of the license in any manner or establishing rights thereon including sublicensing. This shall include the intention or attempt of conversion.",
+    "source_ar_norm": "التحويل: تحويل الترخيص، او نقله، او بيعه، او التنازل عنه، او التصرف فيه باية صورة اخري، او انشاء حقوق عليه، بما في ذلك الترخيص من الباطن. وتتضمن الاشارة الي التحويل اعتزام ذلك او محاولته.",
+    "target_en_norm": "conversion: conversion, transfer, sale, assignment, or disposal of the license in any manner or establishing rights thereon including sublicensing. this shall include the intention or attempt of conversion.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25273,
+    "source_ar": "الترخيص: ترخيص بممارسة أي نشاط يخضع لهذا النظام ويمنح بموجبه.",
+    "target_en": "License: The right to engage in any activity subject to this Law which is granted according thereto.",
+    "source_ar_norm": "الترخيص: ترخيص بممارسة اي نشاط يخضع لهذا النظام ويمنح بموجبه.",
+    "target_en_norm": "license: the right to engage in any activity subject to this law which is granted according thereto.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25274,
+    "source_ar": "تنقية الغاز: إزالة الماء وثاني أكسيد الكربون والكبريت والمركبات الهيدروكربونية السائلة الحرة في المعامل التي يشار إليها إما بمعامل الغاز أو بمعامل تنقية الغاز (ويمكن أن تشمل في ظروف معينة وحدات التحكم في نقطة التكثف) وهو نشاط ينفذ ضمن أعمال الإنتاج.",
+    "target_en": "Gas Refinement: An activity which is part of the production process and which involves the removal of water, carbon dioxide, sulfur, and free liquid hydrocarbons at plants referred to as gas plants or gas refining plants; it may include, under certain circumstances, condensation control units.",
+    "source_ar_norm": "تنقية الغاز: ازالة الماء وثاني اكسيد الكربون والكبريت والمركبات الهيدروكربونية السائلة الحرة في المعامل التي يشار اليها اما بمعامل الغاز او بمعامل تنقية الغاز (ويمكن ان تشمل في ظروف معينة وحدات التحكم في نقطة التكثف) وهو نشاط ينفذ ضمن اعمال الانتاج.",
+    "target_en_norm": "gas refinement: an activity which is part of the production process and which involves the removal of water, carbon dioxide, sulfur, and free liquid hydrocarbons at plants referred to as gas plants or gas refining plants; it may include, under certain circumstances, condensation control units.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25275,
+    "source_ar": "حق الضمان: الرهن بأنواعه – سواء كان ناقلًا للملكية أو غير ناقل لها – ضمانًا لدفع أي التزام أو سداده أو أدائه.",
+    "target_en": "Guarantee: Lien of any type, whether or not it involves the transfer of a title, used as collateral to secure payment or settlement of a debt.",
+    "source_ar_norm": "حق الضمان: الرهن بانواعه – سواء كان ناقلا للملكية او غير ناقل لها – ضمانا لدفع اي التزام او سداده او ادائه.",
+    "target_en_norm": "guarantee: lien of any type, whether or not it involves the transfer of a title, used as collateral to secure payment or settlement of a debt.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25276,
+    "source_ar": "سوائل الغاز الطبيعي: واحد أو أكثر من المركبات البترولية التالية: الإيثان، والبروبان، والبوتان، والبنتان، والمركبات الهيدروكربونية الأثقل (التي يشار إليها في بعض الأحيان بعبارة البنتان وما يليه).",
+    "target_en": "Natural Gas Liquids: One or more of the following petrol components: ethane, propane, butane, pentane, and heavier hydrocarbons, also referred to as pentane and heavier hydrocarbons.",
+    "source_ar_norm": "سوائل الغاز الطبيعي: واحد او اكثر من المركبات البترولية التالية: الايثان، والبروبان، والبوتان، والبنتان، والمركبات الهيدروكربونية الاثقل (التي يشار اليها في بعض الاحيان بعبارة البنتان وما يليه).",
+    "target_en_norm": "natural gas liquids: one or more of the following petrol components: ethane, propane, butane, pentane, and heavier hydrocarbons, also referred to as pentane and heavier hydrocarbons.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25277,
+    "source_ar": "شبكة التوزيع المحلية: الشبكة التي تستقبل الغاز الجاف من خط أنابيب لنقل الغاز تحت ضغط عالٍ وتوصله إلى المستهلكين، وتستلزم في العادة تركيب شبكة خطوط الأنابيب ومحطات لخفض الضغط ومرافق أخرى، وتوصل الغاز إلى عدادات القياس الخاصة بالمستهلكين تحت ضغط مناسب. وتشمل شبكة التوزيع المحلية التوريد إلى أي مجموعة من المستهلكين في منطقة أو مدينة صناعية.",
+    "target_en": "Local Distribution Network: The network that receives dry gas from highpressure gas pipelines and transmits it to consumers. This usually requires installation of pipelines, decompressing stations, and other facilities, as well as transmitting gas to consumers’ meters at appropriate pressure. The local distribution network includes delivery of natural gas to any group of consumers in any industrial area or city.",
+    "source_ar_norm": "شبكة التوزيع المحلية: الشبكة التي تستقبل الغاز الجاف من خط انابيب لنقل الغاز تحت ضغط عال وتوصله الي المستهلكين، وتستلزم في العادة تركيب شبكة خطوط الانابيب ومحطات لخفض الضغط ومرافق اخري، وتوصل الغاز الي عدادات القياس الخاصة بالمستهلكين تحت ضغط مناسب. وتشمل شبكة التوزيع المحلية التوريد الي اي مجموعة من المستهلكين في منطقة او مدينة صناعية.",
+    "target_en_norm": "local distribution network: the network that receives dry gas from highpressure gas pipelines and transmits it to consumers. this usually requires installation of pipelines, decompressing stations, and other facilities, as well as transmitting gas to consumers’ meters at appropriate pressure. the local distribution network includes delivery of natural gas to any group of consumers in any industrial area or city.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25278,
+    "source_ar": "شبكة الغاز الرئيسة: شبكة الغاز الرئيسة القائمة حاليًّا، أو أي توسعة لها في المستقبل، وتشمل شبكة متكاملة لنقل الغاز ومعالجته، وكذلك نقل سوائل الغاز الطبيعي وتجزئتها.",
+    "target_en": "Main Gas Network: The current main gas network or any future expansion, including an integrated network for the transmission and processing of gas, as well as for the transmission and fractionation of natural gas liquids.",
+    "source_ar_norm": "شبكة الغاز الرئيسة: شبكة الغاز الرئيسة القائمة حاليا، او اي توسعة لها في المستقبل، وتشمل شبكة متكاملة لنقل الغاز ومعالجته، وكذلك نقل سوائل الغاز الطبيعي وتجزئتها.",
+    "target_en_norm": "main gas network: the current main gas network or any future expansion, including an integrated network for the transmission and processing of gas, as well as for the transmission and fractionation of natural gas liquids.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25279,
+    "source_ar": "الشبكة المستقلة: شبكة لنقل الغاز ومعالجته، ونقل سوائل الغاز الطبيعي وتجزئتها، غير متصلة بشبكة الغاز الرئيسة.",
+    "target_en": "Independent Network: A network not connected to the main gas network the purpose of which is the transmission and processing of gas and the transmission and fractionation of natural gas liquids.",
+    "source_ar_norm": "الشبكة المستقلة: شبكة لنقل الغاز ومعالجته، ونقل سوائل الغاز الطبيعي وتجزئتها، غير متصلة بشبكة الغاز الرئيسة.",
+    "target_en_norm": "independent network: a network not connected to the main gas network the purpose of which is the transmission and processing of gas and the transmission and fractionation of natural gas liquids.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25280,
+    "source_ar": "الشركة: أي شركة تؤسس بمقتضى أنظمة المملكة العربية السعودية، أو يصرح لها بمقتضى تلك الأنظمة بممارسة العمل في المملكة، ويشمل ذلك أي مشروع مشترك.",
+    "target_en": "Company: Any company incorporated under the laws of the Kingdom or licensed to operate in the Kingdom, including any joint venture.",
+    "source_ar_norm": "الشركة: اي شركة تؤسس بمقتضي انظمة المملكة العربية السعودية، او يصرح لها بمقتضي تلك الانظمة بممارسة العمل في المملكة، ويشمل ذلك اي مشروع مشترك.",
+    "target_en_norm": "company: any company incorporated under the laws of the kingdom or licensed to operate in the kingdom, including any joint venture.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25281,
+    "source_ar": "الغاز: خليط من المواد الهيدروكربونية التي تحتوي على الميثان والإيثان وغاز البترول السائل والبنتان ومكونات أثقل منها وبعض الشوائب، ويكون في العادة في حالة غازية في الظروف المحيطة.",
+    "target_en": "Gas: A mixture of hydrocarbons containing methane, ethane, liquefied petroleum gas, pentane and other heavier components, and some impurities, which is often in a gaseous state in ambient conditions.",
+    "source_ar_norm": "الغاز: خليط من المواد الهيدروكربونية التي تحتوي علي الميثان والايثان وغاز البترول السائل والبنتان ومكونات اثقل منها وبعض الشوائب، ويكون في العادة في حالة غازية في الظروف المحيطة.",
+    "target_en_norm": "gas: a mixture of hydrocarbons containing methane, ethane, liquefied petroleum gas, pentane and other heavier components, and some impurities, which is often in a gaseous state in ambient conditions.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25282,
+    "source_ar": "غاز البترول السائل: المنتجات الهيدروكربونية من البروبان والبوتان المستخلصة من الغاز الطبيعي، التي تباع منفصلة أو خليطًا أو وقودًا أو لقيما. وقد يحتوي غاز البترول السائل على قليل من البنتان والمكونات الأثقل. ويكون في العادة في حالة سائلة في ظروف التخزين.",
+    "target_en": "Liquefied Petroleum Gas: A hydrocarbon-based product which contains propane and butane that are extracted from natural gas and sold as separate elements, mixtures, fuel, or feedstock, and which may contain a small amount of pentane and heavier components; it is often in a liquefied state when stored.",
+    "source_ar_norm": "غاز البترول السائل: المنتجات الهيدروكربونية من البروبان والبوتان المستخلصة من الغاز الطبيعي، التي تباع منفصلة او خليطا او وقودا او لقيما. وقد يحتوي غاز البترول السائل علي قليل من البنتان والمكونات الاثقل. ويكون في العادة في حالة سائلة في ظروف التخزين.",
+    "target_en_norm": "liquefied petroleum gas: a hydrocarbon-based product which contains propane and butane that are extracted from natural gas and sold as separate elements, mixtures, fuel, or feedstock, and which may contain a small amount of pentane and heavier components; it is often in a liquefied state when stored.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25283,
+    "source_ar": "الغاز الجاف: ويشار إليه أيضًا بعبارة غاز البيع، ويتكون بصفة رئيسة من الميثان، وقد يشمل بعض الإيثان وكميات بسيطة من المواد الهيدروكربونية الأثقل وكميات قليلة من مكونات أخرى.",
+    "target_en": "Dry Gas: It is mainly composed of methane but may contain some ethane and small amounts of heavier hydrocarbons and small amounts of other components; it is also referred to as sales gas.",
+    "source_ar_norm": "الغاز الجاف: ويشار اليه ايضا بعبارة غاز البيع، ويتكون بصفة رئيسة من الميثان، وقد يشمل بعض الايثان وكميات بسيطة من المواد الهيدروكربونية الاثقل وكميات قليلة من مكونات اخري.",
+    "target_en_norm": "dry gas: it is mainly composed of methane but may contain some ethane and small amounts of heavier hydrocarbons and small amounts of other components; it is also referred to as sales gas.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25284,
+    "source_ar": "اللجنة: لجنة الإمدادات والتسعير المنصوص عليها في المادة (الثامنة عشرة)",
+    "target_en": "Committee: Supply and Pricing Committee provided for in Article 18.",
+    "source_ar_norm": "اللجنة: لجنة الامدادات والتسعير المنصوص عليها في المادة (الثامنة عشرة)",
+    "target_en_norm": "committee: supply and pricing committee provided for in article 18.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25285,
+    "source_ar": "اللوائح التنفيذية: اللوائح التنفيذية لهذا النظام التي تصدر وفقًا لأحكام المادة (السابعة عشرة) من هذا النظام.",
+    "target_en": "Implementing Regulations: Implementing regulations issued pursuant to Article 17 of this Law.",
+    "source_ar_norm": "اللوائح التنفيذية: اللوائح التنفيذية لهذا النظام التي تصدر وفقا لاحكام المادة (السابعة عشرة) من هذا النظام.",
+    "target_en_norm": "implementing regulations: implementing regulations issued pursuant to article 17 of this law.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25286,
+    "source_ar": "المجلس الأعلى: هو المجلس الأعلى لشؤون البترول والمعادن.",
+    "target_en": "Supreme Council: The Supreme Council for Petroleum and Mineral Affairs.",
+    "source_ar_norm": "المجلس الاعلي: هو المجلس الاعلي لشؤون البترول والمعادن.",
+    "target_en_norm": "supreme council: the supreme council for petroleum and mineral affairs.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25287,
+    "source_ar": "المرخص له: حامل ترخيص بممارسة أي نشاط يخضع لهذا النظام.",
+    "target_en": "Licensee: A holder of a license to engage in any activity subject to this Law.",
+    "source_ar_norm": "المرخص له: حامل ترخيص بممارسة اي نشاط يخضع لهذا النظام.",
+    "target_en_norm": "licensee: a holder of a license to engage in any activity subject to this law.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25288,
+    "source_ar": "مرافق الربط بشبكة الغاز الرئيسة: المرافق التي تقام بغرض ربط أي نشاط يخضع لهذا النظام أو مرافق إنتاج تسبق ذلك النشاط بشبكة الغاز الرئيسة.",
+    "target_en": "Connection Facilities: A facility established to connect to the gas network any activity subject to this Law or any facility the production of which precedes such activity.",
+    "source_ar_norm": "مرافق الربط بشبكة الغاز الرئيسة: المرافق التي تقام بغرض ربط اي نشاط يخضع لهذا النظام او مرافق انتاج تسبق ذلك النشاط بشبكة الغاز الرئيسة.",
+    "target_en_norm": "connection facilities: a facility established to connect to the gas network any activity subject to this law or any facility the production of which precedes such activity.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25289,
+    "source_ar": "المرفق: أي مرفق يزاول فيه نشاط يخضع لهذا النظام أو يزمع مزاولته.",
+    "target_en": "Facility: Any facility used or intended to be used for an activity subject to this Law.",
+    "source_ar_norm": "المرفق: اي مرفق يزاول فيه نشاط يخضع لهذا النظام او يزمع مزاولته.",
+    "target_en_norm": "facility: any facility used or intended to be used for an activity subject to this law.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25290,
+    "source_ar": "المستهلك الرئيس: مشروع صناعي أو مشروع منافع قائم بذاته يستخدم منتجات الغاز الطبيعي وقودًا أو لقيمًا، ويحصل على احتياجاته من نظام ربط متصل مباشرة بشبكة لنقل الغاز تحت ضغط عال وليس من شبكة توزيع محلية.",
+    "target_en": "Main Consumer: A standalone industrial or utility project which uses natural gas products as fuel or feedstock and which receives supplies from a system directly connected to a high-pressure gas transmission network rather than a local distribution network.",
+    "source_ar_norm": "المستهلك الرئيس: مشروع صناعي او مشروع منافع قائم بذاته يستخدم منتجات الغاز الطبيعي وقودا او لقيما، ويحصل علي احتياجاته من نظام ربط متصل مباشرة بشبكة لنقل الغاز تحت ضغط عال وليس من شبكة توزيع محلية.",
+    "target_en_norm": "main consumer: a standalone industrial or utility project which uses natural gas products as fuel or feedstock and which receives supplies from a system directly connected to a high-pressure gas transmission network rather than a local distribution network.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25291,
+    "source_ar": "المشروع الصناعي: أي مشروع صناعي مرخص له غير مشاريع المنافع.",
+    "target_en": "Industrial Project: Any licensed industrial project other than utility projects.",
+    "source_ar_norm": "المشروع الصناعي: اي مشروع صناعي مرخص له غير مشاريع المنافع.",
+    "target_en_norm": "industrial project: any licensed industrial project other than utility projects.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25292,
+    "source_ar": "مشروع منافع: أي مشروع لتوليد الكهرباء أو إنتاج المياه المحلاة أو كليهما.",
+    "target_en": "Utility Project: Any project for desalinated water production or electricity generation or both.",
+    "source_ar_norm": "مشروع منافع: اي مشروع لتوليد الكهرباء او انتاج المياه المحلاة او كليهما.",
+    "target_en_norm": "utility project: any project for desalinated water production or electricity generation or both.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25293,
+    "source_ar": "النقل: توصيل الغاز أو الغاز الجاف بعد تنقيته عند ضغط عال من خلال خطوط أنابيب ذات قطر كبير، تبدأ عادة عند مخرج معمل تنقية الغاز في كل حقل من حقول الغاز، وتنتهي بتوصيله إلى أحد المستهلكين الرئيسين أو إلى جهة تتولى التوزيع المحلي.",
+    "target_en": "Transmission: The transportation of gas or dry gas refined by high pressure through pipelines of large diameters. Transmission usually starts at the outlet of the gas refinery in any gas field and ends with the delivery to a main consumer or a gas distribution station.",
+    "source_ar_norm": "النقل: توصيل الغاز او الغاز الجاف بعد تنقيته عند ضغط عال من خلال خطوط انابيب ذات قطر كبير، تبدا عادة عند مخرج معمل تنقية الغاز في كل حقل من حقول الغاز، وتنتهي بتوصيله الي احد المستهلكين الرئيسين او الي جهة تتولي التوزيع المحلي.",
+    "target_en_norm": "transmission: the transportation of gas or dry gas refined by high pressure through pipelines of large diameters. transmission usually starts at the outlet of the gas refinery in any gas field and ends with the delivery to a main consumer or a gas distribution station.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25294,
+    "source_ar": "معالجة الغاز: إزالة سوائل الغاز الطبيعي من غاز به نسبة عالية من السوائل تمت تنقيته لإنتاج غاز صالح للبيع في المعامل التي يشار إليها إما بمعامل معالجة الغاز أو بمعامل فرز الغاز التابعة لخطوط الأنابيب.",
+    "target_en": "Gas Processing: Separating liquid substances of natural gas from gas containing a high percentage of liquids which has been refined for the production of sales gas at plants referred to as either gas processing plants or fractionation facilities connected to the pipelines.",
+    "source_ar_norm": "معالجة الغاز: ازالة سوائل الغاز الطبيعي من غاز به نسبة عالية من السوائل تمت تنقيته لانتاج غاز صالح للبيع في المعامل التي يشار اليها اما بمعامل معالجة الغاز او بمعامل فرز الغاز التابعة لخطوط الانابيب.",
+    "target_en_norm": "gas processing: separating liquid substances of natural gas from gas containing a high percentage of liquids which has been refined for the production of sales gas at plants referred to as either gas processing plants or fractionation facilities connected to the pipelines.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25295,
+    "source_ar": "المواد الهيدروكربونية المعنية: أي مادة هيدروكربونية غازية أو سائلة (باستثناء الزيت الخام والمكثفات) تنتج في المملكة وتعالج في معمل لتنقية الغاز.",
+    "target_en": "Hydrocarbons: Any gas or liquid hydrocarbons, with the exception of crude oil or condensates, which are produced in the Kingdom and processed at a gas refinery plant.",
+    "source_ar_norm": "المواد الهيدروكربونية المعنية: اي مادة هيدروكربونية غازية او سائلة (باستثناء الزيت الخام والمكثفات) تنتج في المملكة وتعالج في معمل لتنقية الغاز.",
+    "target_en_norm": "hydrocarbons: any gas or liquid hydrocarbons, with the exception of crude oil or condensates, which are produced in the kingdom and processed at a gas refinery plant.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25296,
+    "source_ar": "نقل سوائل الغاز الطبيعي: توصيل سوائل الغاز الطبيعي بواسطة خط أنابيب من معمل لمعالجة الغاز، أو تسليم أحد تلك السوائل من معمل تجزئة إلى المستهلك النهائي أو للتصدير.",
+    "target_en": "Transmission of Natural Gas Liquid: Transporting natural gas liquids by pipelines from gas processing plants, or the delivery of said liquids from fractionation facilities to end-users, or for export purposes.",
+    "source_ar_norm": "نقل سوائل الغاز الطبيعي: توصيل سوائل الغاز الطبيعي بواسطة خط انابيب من معمل لمعالجة الغاز، او تسليم احد تلك السوائل من معمل تجزئة الي المستهلك النهائي او للتصدير.",
+    "target_en_norm": "transmission of natural gas liquid: transporting natural gas liquids by pipelines from gas processing plants, or the delivery of said liquids from fractionation facilities to end-users, or for export purposes.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25297,
+    "source_ar": "الوزارة: وزارة البترول والثروة المعدنية.",
+    "target_en": "Ministry: The Ministry of Petroleum & Mineral Resources.",
+    "source_ar_norm": "الوزارة: وزارة البترول والثروة المعدنية.",
+    "target_en_norm": "ministry: the ministry of petroleum & mineral resources.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25298,
+    "source_ar": "الوزير: وزير البترول والثروة المعدنية.",
+    "target_en": "Minister: The Minister of Petroleum & Mineral Resources.",
+    "source_ar_norm": "الوزير: وزير البترول والثروة المعدنية.",
+    "target_en_norm": "minister: the minister of petroleum & mineral resources.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25299,
+    "source_ar": "المادة الثانية: ترخيص النشاط الخاضع للنظام:",
+    "target_en": "Article 2: Licensing Activities Subject to this Law",
+    "source_ar_norm": "المادة الثانية: ترخيص النشاط الخاضع للنظام:",
+    "target_en_norm": "article 2: licensing activities subject to this law",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  },
+  {
+    "id": 25300,
+    "source_ar": "1 - يجب الحصول على ترخيص لممارسة أي نشاط خاضع لهذا النظام، والذي يشمل نقل المواد الهيدروكربونية المعنية، أو معالجتها، أو تجزئتها، أو تجميعها، أو توزيعها محليًّا، أو بيعها أو التصرف فيها. ويجب التقدم بطلب للحصول على ترخيص بحسب الإجراءات التي تحددها اللوائح التنفيذية التي يقرها رئيس المجلس الأعلى. وعلى الوزارة مراجعة كل طلب للحصول على ترخيص والبت فيه.",
+    "target_en": "1. A license must be obtained to engage in any activity subject to this Law, which includes transmission, processing, fractionation, collection, local distribution, sale, or disposal of hydrocarbons. The license application shall be submitted in accordance with procedures of the implementing regulations approved by the Chairman of the Supreme Council. The Ministry shall review and decide on license applications.",
+    "source_ar_norm": "1 - يجب الحصول علي ترخيص لممارسة اي نشاط خاضع لهذا النظام، والذي يشمل نقل المواد الهيدروكربونية المعنية، او معالجتها، او تجزئتها، او تجميعها، او توزيعها محليا، او بيعها او التصرف فيها. ويجب التقدم بطلب للحصول علي ترخيص بحسب الاجراءات التي تحددها اللوائح التنفيذية التي يقرها رئيس المجلس الاعلي. وعلي الوزارة مراجعة كل طلب للحصول علي ترخيص والبت فيه.",
+    "target_en_norm": "1. a license must be obtained to engage in any activity subject to this law, which includes transmission, processing, fractionation, collection, local distribution, sale, or disposal of hydrocarbons. the license application shall be submitted in accordance with procedures of the implementing regulations approved by the chairman of the supreme council. the ministry shall review and decide on license applications.",
+    "file_name": "نظام إمدادات الغاز وتسعيره.docx"
+  }
+]

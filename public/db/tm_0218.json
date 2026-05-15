@@ -1,0 +1,802 @@
+[
+  {
+    "id": 21701,
+    "source_ar": "3- حقل وقت الصادر.",
+    "target_en": "3. Outgoing correspondence time.",
+    "source_ar_norm": "3- حقل وقت الصادر.",
+    "target_en_norm": "3. outgoing correspondence time.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21702,
+    "source_ar": "4- حقل عدد المرافقات.",
+    "target_en": "4. Number of attachments.",
+    "source_ar_norm": "4- حقل عدد المرافقات.",
+    "target_en_norm": "4. number of attachments.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21703,
+    "source_ar": "5- حقول أسماء الجهات المرسل إليها ورموزها.",
+    "target_en": "5. Names and codes of addressed entities.",
+    "source_ar_norm": "5- حقول اسماء الجهات المرسل اليها ورموزها.",
+    "target_en_norm": "5. names and codes of addressed entities.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21704,
+    "source_ar": "6- حقل اسم الوحدة المختصة ورمزها.",
+    "target_en": "6. Name and code of the relevant unit.",
+    "source_ar_norm": "6- حقل اسم الوحدة المختصة ورمزها.",
+    "target_en_norm": "6. name and code of the relevant unit.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21705,
+    "source_ar": "7- حقول أسماء الأجهزة والوحدات والفروع المراد تزويدها بنسخ أو صور من الصادر.",
+    "target_en": "7. Names of the agencies, units, and branches to be provided with duplicates or copies of the outgoing correspondence.",
+    "source_ar_norm": "7- حقول اسماء الاجهزة والوحدات والفروع المراد تزويدها بنسخ او صور من الصادر.",
+    "target_en_norm": "7. names of the agencies, units, and branches to be provided with duplicates or copies of the outgoing correspondence.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21706,
+    "source_ar": "8- حقل خلاصة موضوع الرسالة.",
+    "target_en": "8. Summary of the message subject.",
+    "source_ar_norm": "8- حقل خلاصة موضوع الرسالة.",
+    "target_en_norm": "8. summary of the message subject.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21707,
+    "source_ar": "9- حقل رمز تصنيف الموضوع.",
+    "target_en": "9. Subject classification code.",
+    "source_ar_norm": "9- حقل رمز تصنيف الموضوع.",
+    "target_en_norm": "9. subject classification code.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21708,
+    "source_ar": "10- حقل رقم السجل المدني للمواطن، أو رقم الإقامة أو جواز السفر للوافد أو المقيم؛ الذي يتعلق به موضوع الرسالة.",
+    "target_en": "10. National identification number for the citizen, or residency permit number or passport number for the visitor or resident, to whom the message subject relates.",
+    "source_ar_norm": "10- حقل رقم السجل المدني للمواطن، او رقم الاقامة او جواز السفر للوافد او المقيم؛ الذي يتعلق به موضوع الرسالة.",
+    "target_en_norm": "10. national identification number for the citizen, or residency permit number or passport number for the visitor or resident, to whom the message subject relates.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21709,
+    "source_ar": "11- حقول التسديد برقم وتاريخ الإجابة عند ورودها.",
+    "target_en": "11. Closure, as marked by the number and date of the response upon receipt thereof.",
+    "source_ar_norm": "11- حقول التسديد برقم وتاريخ الاجابة عند ورودها.",
+    "target_en_norm": "11. closure, as marked by the number and date of the response upon receipt thereof.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21710,
+    "source_ar": "12- حقول تدوين أرقام المراسلات السابقة -إن وجدت- ليتم الربط بالرسالة الجديدة معلوماتياً.",
+    "target_en": "12. Numbers of previous correspondence, if any, to link the new message therewith.",
+    "source_ar_norm": "12- حقول تدوين ارقام المراسلات السابقة -ان وجدت- ليتم الربط بالرسالة الجديدة معلوماتيا.",
+    "target_en_norm": "12. numbers of previous correspondence, if any, to link the new message therewith.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21711,
+    "source_ar": "13- حقول صفة الرسالة من حيث الأهمية أو الاستعجال أو السرية.",
+    "target_en": "13. Designation of the message in terms of importance, urgency, or confidentiality.",
+    "source_ar_norm": "13- حقول صفة الرسالة من حيث الاهمية او الاستعجال او السرية.",
+    "target_en_norm": "13. designation of the message in terms of importance, urgency, or confidentiality.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21712,
+    "source_ar": "14- حقل رقم بيان التسليم وتاريخه ووقته.",
+    "target_en": "14. Number, date, and time of the delivery statement.",
+    "source_ar_norm": "14- حقل رقم بيان التسليم وتاريخه ووقته.",
+    "target_en_norm": "14. number, date, and time of the delivery statement.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21713,
+    "source_ar": "المادة التاسعة والعشرون:",
+    "target_en": "Article 29",
+    "source_ar_norm": "المادة التاسعة والعشرون:",
+    "target_en_norm": "article 29",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21714,
+    "source_ar": "توثق المراسلات الصادرة وفقاً لما يأتي:",
+    "target_en": "Outgoing correspondence shall be documented as follows:",
+    "source_ar_norm": "توثق المراسلات الصادرة وفقا لما ياتي:",
+    "target_en_norm": "outgoing correspondence shall be documented as follows:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21715,
+    "source_ar": "1- تدون الرسالة الصادرة على ورق رسمي أو ورق رسمي أمني بحسب الأحوال.",
+    "target_en": "1. An outgoing message shall be written on official paper or official security paper, as the case may be.",
+    "source_ar_norm": "1- تدون الرسالة الصادرة علي ورق رسمي او ورق رسمي امني بحسب الاحوال.",
+    "target_en_norm": "1. an outgoing message shall be written on official paper or official security paper, as the case may be.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21716,
+    "source_ar": "2- يدون رمز الجهاز تحت اسمه في المكان المخصص لذلك في الرسالة.",
+    "target_en": "2. The code of the agency shall be written under its name in the designated place in the message.",
+    "source_ar_norm": "2- يدون رمز الجهاز تحت اسمه في المكان المخصص لذلك في الرسالة.",
+    "target_en_norm": "2. the code of the agency shall be written under its name in the designated place in the message.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21717,
+    "source_ar": "3- يركّن الرسالة من أعدها، ويكون مسؤولاً مباشراً عما ورد فيها.",
+    "target_en": "3. The person who prepared the message shall add his reference initials and shall be directly responsible for its content.",
+    "source_ar_norm": "3- يركن الرسالة من اعدها، ويكون مسؤولا مباشرا عما ورد فيها.",
+    "target_en_norm": "3. the person who prepared the message shall add his reference initials and shall be directly responsible for its content.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21718,
+    "source_ar": "4- يكون التركين على النسخة من الرسالة.",
+    "target_en": "4. Reference initials shall be added to the message duplicate.",
+    "source_ar_norm": "4- يكون التركين علي النسخة من الرسالة.",
+    "target_en_norm": "4. reference initials shall be added to the message duplicate.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21719,
+    "source_ar": "5- إذا زادت صفحات الرسالة على صفحة واحدة فتركن جميع صفحات النسخة.",
+    "target_en": "5. If the message is composed of more than one page, reference initials shall be added to each page of the duplicate.",
+    "source_ar_norm": "5- اذا زادت صفحات الرسالة علي صفحة واحدة فتركن جميع صفحات النسخة.",
+    "target_en_norm": "5. if the message is composed of more than one page, reference initials shall be added to each page of the duplicate.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21720,
+    "source_ar": "6- يوقع أصل الرسالة صاحب الصلاحية.",
+    "target_en": "6. The original of the message shall be signed by the authorized person.",
+    "source_ar_norm": "6- يوقع اصل الرسالة صاحب الصلاحية.",
+    "target_en_norm": "6. the original of the message shall be signed by the authorized person.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21721,
+    "source_ar": "7- على من يوقع بالإنابة كتابة اسمه كاملاً بجانب التوقيع.",
+    "target_en": "7. A person who signs a message on behalf of the authorized person must write his full name next to the signature.",
+    "source_ar_norm": "7- علي من يوقع بالانابة كتابة اسمه كاملا بجانب التوقيع.",
+    "target_en_norm": "7. a person who signs a message on behalf of the authorized person must write his full name next to the signature.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21722,
+    "source_ar": "8- تعطى الرسالة الصادرة رقماً وتاريخاً توثق بموجبهما في نظام سجل الرسائل الصادرة.",
+    "target_en": "8. The outgoing message shall be assigned a number and date to be used for documenting the message in the outgoing correspondence registration system.",
+    "source_ar_norm": "8- تعطي الرسالة الصادرة رقما وتاريخا توثق بموجبهما في نظام سجل الرسائل الصادرة.",
+    "target_en_norm": "8. the outgoing message shall be assigned a number and date to be used for documenting the message in the outgoing correspondence registration system.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21723,
+    "source_ar": "9- يدون على الرسالة الموقعة والنسخة المركنة عدد المرافقات المرسلة رقماً لا كتابة وتوضح تفاصيل المرافقات في فهرس المعاملة.",
+    "target_en": "9. The number of attachments shall be recorded in numbers, not in words, on the signed message and on the duplicate marked with reference initials, and the details of the attachments shall be indicated in the index of the casefile.",
+    "source_ar_norm": "9- يدون علي الرسالة الموقعة والنسخة المركنة عدد المرافقات المرسلة رقما لا كتابة وتوضح تفاصيل المرافقات في فهرس المعاملة.",
+    "target_en_norm": "9. the number of attachments shall be recorded in numbers, not in words, on the signed message and on the duplicate marked with reference initials, and the details of the attachments shall be indicated in the index of the casefile.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21724,
+    "source_ar": "10- تختم النسخة المركنة بختم يوضح توقيع الأصل، ويوضع الختم في مكان التوقيع.",
+    "target_en": "10. The duplicate marked with reference initials shall be stamped with a stamp indicating that the original is signed; said stamp shall be placed in the signature space.",
+    "source_ar_norm": "10- تختم النسخة المركنة بختم يوضح توقيع الاصل، ويوضع الختم في مكان التوقيع.",
+    "target_en_norm": "10. the duplicate marked with reference initials shall be stamped with a stamp indicating that the original is signed; said stamp shall be placed in the signature space.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21725,
+    "source_ar": "11- تبقى النسخة المركنة والأساسات في الجهاز الذي صدرت منه الرسالة مع صورة من أصل الرسالة بعد التوقيع.",
+    "target_en": "11. The duplicate marked with reference initials and the supporting documents shall be kept at the agency which issued the message, together with a copy of the original signed message.",
+    "source_ar_norm": "11- تبقي النسخة المركنة والاساسات في الجهاز الذي صدرت منه الرسالة مع صورة من اصل الرسالة بعد التوقيع.",
+    "target_en_norm": "11. the duplicate marked with reference initials and the supporting documents shall be kept at the agency which issued the message, together with a copy of the original signed message.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21726,
+    "source_ar": "12- تختم النسخ والصور التي تُزود بها الجهات الأخرى بختم طبق الأصل، ويركن بجانب الختم الموظف المختص بالتختيم، ويوضح اسمه وتاريخ التختيم.",
+    "target_en": "12. The duplicates and copies provided to other agencies shall be stamped with a true copy stamp, and the employee in charge of stamping shall add his reference initials next to the stamp, together with his name and the stamping date.",
+    "source_ar_norm": "12- تختم النسخ والصور التي تزود بها الجهات الاخري بختم طبق الاصل، ويركن بجانب الختم الموظف المختص بالتختيم، ويوضح اسمه وتاريخ التختيم.",
+    "target_en_norm": "12. the duplicates and copies provided to other agencies shall be stamped with a true copy stamp, and the employee in charge of stamping shall add his reference initials next to the stamp, together with his name and the stamping date.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21727,
+    "source_ar": "13- إذا زاد عدد صفحات الرسالة ومرفقاتها من العرض أو التقرير على صفحة واحدة، فترقم الصفحات منسوبة إلى إجمالي عدد الصفحات، ويدون رقم الصفحة فوق الإطار الأسفل للرسالة.",
+    "target_en": "13. If the number of pages of the message and its attachments, including proposals or reports, exceeds one page, the pages shall be numbered with reference to the total number of pages; page numbers shall be placed above the bottom border of the message.",
+    "source_ar_norm": "13- اذا زاد عدد صفحات الرسالة ومرفقاتها من العرض او التقرير علي صفحة واحدة، فترقم الصفحات منسوبة الي اجمالي عدد الصفحات، ويدون رقم الصفحة فوق الاطار الاسفل للرسالة.",
+    "target_en_norm": "13. if the number of pages of the message and its attachments, including proposals or reports, exceeds one page, the pages shall be numbered with reference to the total number of pages; page numbers shall be placed above the bottom border of the message.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21728,
+    "source_ar": "14- إذا كانت الرسالة الصادرة في أكثر من صفحة، فيدون رقم الصادر في كل صفحة من الرسالة في المكان المخصص لذلك.",
+    "target_en": "14. If the outgoing message is composed of more than one page, the outgoing correspondence number shall be written in the designated place on each page of the message.",
+    "source_ar_norm": "14- اذا كانت الرسالة الصادرة في اكثر من صفحة، فيدون رقم الصادر في كل صفحة من الرسالة في المكان المخصص لذلك.",
+    "target_en_norm": "14. if the outgoing message is composed of more than one page, the outgoing correspondence number shall be written in the designated place on each page of the message.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21729,
+    "source_ar": "المادة الثلاثون:",
+    "target_en": "Article 30",
+    "source_ar_norm": "المادة الثلاثون:",
+    "target_en_norm": "article 30",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21730,
+    "source_ar": "توثق المراسلات المبرقة الخطية الصادرة وفقاً للإجراءات الآتية:",
+    "target_en": "Outgoing written telegrams shall be documented in accordance with the following procedures:",
+    "source_ar_norm": "توثق المراسلات المبرقة الخطية الصادرة وفقا للاجراءات الاتية:",
+    "target_en_norm": "outgoing written telegrams shall be documented in accordance with the following procedures:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21731,
+    "source_ar": "1- أن تقتصر البرقيات الخطية على المواضيع التي يتطلب الأمر الإسراع في إبلاغها.",
+    "target_en": "1. Written telegrams shall be restricted to subjects that require prompt notification.",
+    "source_ar_norm": "1- ان تقتصر البرقيات الخطية علي المواضيع التي يتطلب الامر الاسراع في ابلاغها.",
+    "target_en_norm": "1. written telegrams shall be restricted to subjects that require prompt notification.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21732,
+    "source_ar": "2- أن تكون البرقية باسم صاحب الصلاحية الذي وافق على مضمونها.",
+    "target_en": "2. A telegram shall be issued in the name of the authorized person who approves its content.",
+    "source_ar_norm": "2- ان تكون البرقية باسم صاحب الصلاحية الذي وافق علي مضمونها.",
+    "target_en_norm": "2. a telegram shall be issued in the name of the authorized person who approves its content.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21733,
+    "source_ar": "3- أن يركّن البرقية الخطية المخول باعتمادها.",
+    "target_en": "3. The person authorized to approve the telegram shall add his reference initials thereto.",
+    "source_ar_norm": "3- ان يركن البرقية الخطية المخول باعتمادها.",
+    "target_en_norm": "3. the person authorized to approve the telegram shall add his reference initials thereto.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21734,
+    "source_ar": "4- أن يختم أصل البرقية الخطية بختم الصادر البرقي.",
+    "target_en": "4. The original of the written telegram shall be stamped with the outgoing telegram stamp.",
+    "source_ar_norm": "4- ان يختم اصل البرقية الخطية بختم الصادر البرقي.",
+    "target_en_norm": "4. the original of the written telegram shall be stamped with the outgoing telegram stamp.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21735,
+    "source_ar": "5- أن تختم النسخ التي ستزود بها الجهات الأخرى بختم الصادر البرقي.",
+    "target_en": "5. The duplicates to be provided to other agencies shall be stamped with the outgoing telegram stamp.",
+    "source_ar_norm": "5- ان تختم النسخ التي ستزود بها الجهات الاخري بختم الصادر البرقي.",
+    "target_en_norm": "5. the duplicates to be provided to other agencies shall be stamped with the outgoing telegram stamp.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21736,
+    "source_ar": "6- أن تختم النسخة الثانية من البرقية التي ستحتفظ بها الجهة المصدرة لها ويركن عليها المختص بذلك.",
+    "target_en": "6. The second duplicate of the telegram, to be kept by the issuing agency, shall be stamped, and the designated employee shall add his reference initials thereto.",
+    "source_ar_norm": "6- ان تختم النسخة الثانية من البرقية التي ستحتفظ بها الجهة المصدرة لها ويركن عليها المختص بذلك.",
+    "target_en_norm": "6. the second duplicate of the telegram, to be kept by the issuing agency, shall be stamped, and the designated employee shall add his reference initials thereto.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21737,
+    "source_ar": "المادة الحادية والثلاثون:",
+    "target_en": "Article 31",
+    "source_ar_norm": "المادة الحادية والثلاثون:",
+    "target_en_norm": "article 31",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21738,
+    "source_ar": "يجب مراجعة إجراءات توثيق وتسجيل الرسائل الصادرة، المذكورة في المواد (التاسعة والعشرين) و(الثلاثين) و(الثانية والثلاثين) من اللائحة، للتأكد من صحتها وتكاملها، ومن أهمها الآتي:",
+    "target_en": "The procedures for documenting and registering outgoing messages provided for in Articles 29, 30, and 32 of these Regulations shall be reviewed to verify their accuracy and integration, in particular the following:",
+    "source_ar_norm": "يجب مراجعة اجراءات توثيق وتسجيل الرسائل الصادرة، المذكورة في المواد (التاسعة والعشرين) و(الثلاثين) و(الثانية والثلاثين) من اللائحة، للتاكد من صحتها وتكاملها، ومن اهمها الاتي:",
+    "target_en_norm": "the procedures for documenting and registering outgoing messages provided for in articles 29, 30, and 32 of these regulations shall be reviewed to verify their accuracy and integration, in particular the following:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21739,
+    "source_ar": "1- أن الرسالة قد وقعها أو اعتمدها صاحب الصلاحية، أو المفوض.",
+    "target_en": "1. The message is signed or approved by the authorized person or his designee.",
+    "source_ar_norm": "1- ان الرسالة قد وقعها او اعتمدها صاحب الصلاحية، او المفوض.",
+    "target_en_norm": "1. the message is signed or approved by the authorized person or his designee.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21740,
+    "source_ar": "2- أن رمز الجهاز مدون تحت اسمه في المكان المخصص لذلك.",
+    "target_en": "2. The code of the agency is written under its name in the designated place.",
+    "source_ar_norm": "2- ان رمز الجهاز مدون تحت اسمه في المكان المخصص لذلك.",
+    "target_en_norm": "2. the code of the agency is written under its name in the designated place.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21741,
+    "source_ar": "3- أن النسخة الثانية قد ركَّنها المختصون.",
+    "target_en": "3. Reference initials are added to the second duplicate by the designated employees.",
+    "source_ar_norm": "3- ان النسخة الثانية قد ركنها المختصون.",
+    "target_en_norm": "3. reference initials are added to the second duplicate by the designated employees.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21742,
+    "source_ar": "4- ترقيم صفحات الرسالة إذا زادت على صفحة واحدة، ومن عدد المرفقات واكتمالها.",
+    "target_en": "4. The pages of the message are numbered if it exceeds more than one page, and the number of attachments is verified to be complete.",
+    "source_ar_norm": "4- ترقيم صفحات الرسالة اذا زادت علي صفحة واحدة، ومن عدد المرفقات واكتمالها.",
+    "target_en_norm": "4. the pages of the message are numbered if it exceeds more than one page, and the number of attachments is verified to be complete.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21743,
+    "source_ar": "5- اكتمال المرافقات ووجود الفهرس وسلامة جميع الأوراق المرافقة.",
+    "target_en": "5. The attachments are complete, an index is included, and all attached papers are intact.",
+    "source_ar_norm": "5- اكتمال المرافقات ووجود الفهرس وسلامة جميع الاوراق المرافقة.",
+    "target_en_norm": "5. the attachments are complete, an index is included, and all attached papers are intact.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21744,
+    "source_ar": "6- تدوين رمز الوحدة الإدارية على الرسالة الصادرة ونسخها.",
+    "target_en": "6. The code of the administrative unit is written on the outgoing message and any duplicate thereof.",
+    "source_ar_norm": "6- تدوين رمز الوحدة الادارية علي الرسالة الصادرة ونسخها.",
+    "target_en_norm": "6. the code of the administrative unit is written on the outgoing message and any duplicate thereof.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21745,
+    "source_ar": "7- أن الأساسات والأوراق المطلوب حفظها مفصولة عن المرافقات التي سترسل.",
+    "target_en": "7. The supporting documents and the papers required to be kept are separated from the attachments to be sent.",
+    "source_ar_norm": "7- ان الاساسات والاوراق المطلوب حفظها مفصولة عن المرافقات التي سترسل.",
+    "target_en_norm": "7. the supporting documents and the papers required to be kept are separated from the attachments to be sent.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21746,
+    "source_ar": "8- صحة واستكمال المعلومات المدونة على الطرد المرافق للرسالة.",
+    "target_en": "8. The information recorded on the parcel accompanying the message is accurate and complete.",
+    "source_ar_norm": "8- صحة واستكمال المعلومات المدونة علي الطرد المرافق للرسالة.",
+    "target_en_norm": "8. the information recorded on the parcel accompanying the message is accurate and complete.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21747,
+    "source_ar": "9- مدة التصنيف.",
+    "target_en": "9. The classification period.",
+    "source_ar_norm": "9- مدة التصنيف.",
+    "target_en_norm": "9. the classification period.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21748,
+    "source_ar": "المادة الثانية والثلاثون:",
+    "target_en": "Article 32",
+    "source_ar_norm": "المادة الثانية والثلاثون:",
+    "target_en_norm": "article 32",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21749,
+    "source_ar": "يكون تسجيل المراسلات الصادرة في نظام الصادر وفقاً لما يأتي:",
+    "target_en": "Outgoing correspondence shall be registered in the outgoing correspondence system as follows:",
+    "source_ar_norm": "يكون تسجيل المراسلات الصادرة في نظام الصادر وفقا لما ياتي:",
+    "target_en_norm": "outgoing correspondence shall be registered in the outgoing correspondence system as follows:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21750,
+    "source_ar": "1- إدخال رقم الصادر وتاريخه ووقته وعدد المرافقات.",
+    "target_en": "1. Entering the number, date, and time of the outgoing correspondence as well as the number of attachments.",
+    "source_ar_norm": "1- ادخال رقم الصادر وتاريخه ووقته وعدد المرافقات.",
+    "target_en_norm": "1. entering the number, date, and time of the outgoing correspondence as well as the number of attachments.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21751,
+    "source_ar": "2- إدخال أسماء الجهات المرسل إليها ورموزها وعناوينها الوطنية، واسم الوحدة المختصة ورمزها وفق فئات الصادر المحددة في المادة (السابعة والعشرين) من اللائحة.",
+    "target_en": "2. Entering the names, codes, and national addresses of addressed agencies, and the name and code of the relevant unit as per the categories of outgoing correspondence specified in Article 27 of these Regulations.",
+    "source_ar_norm": "2- ادخال اسماء الجهات المرسل اليها ورموزها وعناوينها الوطنية، واسم الوحدة المختصة ورمزها وفق فئات الصادر المحددة في المادة (السابعة والعشرين) من اللائحة.",
+    "target_en_norm": "2. entering the names, codes, and national addresses of addressed agencies, and the name and code of the relevant unit as per the categories of outgoing correspondence specified in article 27 of these regulations.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21752,
+    "source_ar": "3- إدخال أسماء الأجهزة والوحدات الإدارية والفروع المراد تزويدها بنسخ أو صور من الصادر.",
+    "target_en": "3. Entering the names of the agencies, administrative units, and branches to be provided with duplicates or copies of the outgoing correspondence.",
+    "source_ar_norm": "3- ادخال اسماء الاجهزة والوحدات الادارية والفروع المراد تزويدها بنسخ او صور من الصادر.",
+    "target_en_norm": "3. entering the names of the agencies, administrative units, and branches to be provided with duplicates or copies of the outgoing correspondence.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21753,
+    "source_ar": "4- استدعاء قيد ورودها -إذا كان لها رسالة وارد- ومطابقة موضوعها لما سجل في النظام، وصياغة خلاصة الموضوع بحسب مقتضيات الصادر، والأخذ في الاعتبار علاقته بموضوع الوارد، وأن يكون شاملاً وخالياً من الأخطاء اللغوية والإملائية.",
+    "target_en": "4. Retrieving the registration number of incoming correspondence related thereto if the outgoing correspondence is a response to an incoming message, matching its subject to that recorded in the system, and drafting a summary of the subject in accordance with the subject of the outgoing correspondence, taking into account its relevance to the subject of the incoming correspondence and that such summary is comprehensive and free of linguistic and spelling errors.",
+    "source_ar_norm": "4- استدعاء قيد ورودها -اذا كان لها رسالة وارد- ومطابقة موضوعها لما سجل في النظام، وصياغة خلاصة الموضوع بحسب مقتضيات الصادر، والاخذ في الاعتبار علاقته بموضوع الوارد، وان يكون شاملا وخاليا من الاخطاء اللغوية والاملائية.",
+    "target_en_norm": "4. retrieving the registration number of incoming correspondence related thereto if the outgoing correspondence is a response to an incoming message, matching its subject to that recorded in the system, and drafting a summary of the subject in accordance with the subject of the outgoing correspondence, taking into account its relevance to the subject of the incoming correspondence and that such summary is comprehensive and free of linguistic and spelling errors.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21754,
+    "source_ar": "5- إدخال رمز تصنيف الموضوع، ورقم السجل المدني للمواطن، أو رقم الإقامة أو جواز السفر للوافد أو المقيم؛ الذي يتعلق به موضوع الرسالة.",
+    "target_en": "5. Entering the subject classification code as well as the national identification number for the citizen, or the residency permit number or passport number for the visitor or resident, to whom the subject of the message relates.",
+    "source_ar_norm": "5- ادخال رمز تصنيف الموضوع، ورقم السجل المدني للمواطن، او رقم الاقامة او جواز السفر للوافد او المقيم؛ الذي يتعلق به موضوع الرسالة.",
+    "target_en_norm": "5. entering the subject classification code as well as the national identification number for the citizen, or the residency permit number or passport number for the visitor or resident, to whom the subject of the message relates.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21755,
+    "source_ar": "6- إدخال رقم صادر المعاملة المجاب عليها وتاريخها، وتسديد قيد أو تسديد رقم الصادر.",
+    "target_en": "6. Entering the number and date of the outgoing casefile to which a response is made, and the closure of the registration number or the closure of the outgoing correspondence number.",
+    "source_ar_norm": "6- ادخال رقم صادر المعاملة المجاب عليها وتاريخها، وتسديد قيد او تسديد رقم الصادر.",
+    "target_en_norm": "6. entering the number and date of the outgoing casefile to which a response is made, and the closure of the registration number or the closure of the outgoing correspondence number.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21756,
+    "source_ar": "7- إدخال الصفة من حيث الأهمية ودرجة الاستعجال أو السرية.",
+    "target_en": "7. Entering the designation of the correspondence in terms of importance, urgency, or confidentiality.",
+    "source_ar_norm": "7- ادخال الصفة من حيث الاهمية ودرجة الاستعجال او السرية.",
+    "target_en_norm": "7. entering the designation of the correspondence in terms of importance, urgency, or confidentiality.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21757,
+    "source_ar": "8- إدخال أرقام المراسلات السابقة، ورقم بيان التسليم وتاريخه ووقته.",
+    "target_en": "8. Entering the numbers of previous correspondence and the number, date, and time of the delivery statement.",
+    "source_ar_norm": "8- ادخال ارقام المراسلات السابقة، ورقم بيان التسليم وتاريخه ووقته.",
+    "target_en_norm": "8. entering the numbers of previous correspondence and the number, date, and time of the delivery statement.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21758,
+    "source_ar": "المادة الثالثة والثلاثون:",
+    "target_en": "Article 33",
+    "source_ar_norm": "المادة الثالثة والثلاثون:",
+    "target_en_norm": "article 33",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21759,
+    "source_ar": "تصور المراسلات الصادرة وفقاً لما يأتي:",
+    "target_en": "Outgoing correspondence shall be photocopied as follows:",
+    "source_ar_norm": "تصور المراسلات الصادرة وفقا لما ياتي:",
+    "target_en_norm": "outgoing correspondence shall be photocopied as follows:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21760,
+    "source_ar": "1- يحتفظ بصورة من أصل الرسالة الموقع في ملف الموضوع.",
+    "target_en": "1. A copy of the original signed message shall be kept in the subject file.",
+    "source_ar_norm": "1- يحتفظ بصورة من اصل الرسالة الموقع في ملف الموضوع.",
+    "target_en_norm": "1. a copy of the original signed message shall be kept in the subject file.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21761,
+    "source_ar": "2- تصور مرافقات الرسالة التي يتطلب الأمر الاحتفاظ بصور منها.",
+    "target_en": "2. Message attachments that are required to be kept shall be photocopied.",
+    "source_ar_norm": "2- تصور مرافقات الرسالة التي يتطلب الامر الاحتفاظ بصور منها.",
+    "target_en_norm": "2. message attachments that are required to be kept shall be photocopied.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21762,
+    "source_ar": "المادة الرابعة والثلاثون:",
+    "target_en": "Article 34",
+    "source_ar_norm": "المادة الرابعة والثلاثون:",
+    "target_en_norm": "article 34",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21763,
+    "source_ar": "يكون تسجيل المراسلات الصادرة وفقاً لما يأتي:",
+    "target_en": "Outgoing correspondence shall be registered as follows:",
+    "source_ar_norm": "يكون تسجيل المراسلات الصادرة وفقا لما ياتي:",
+    "target_en_norm": "outgoing correspondence shall be registered as follows:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21764,
+    "source_ar": "1- تسلم المراسلات ومرافقاتها ببيان تسليم معد لهذا الغرض، سواء المرسل منها عن طريق البريد أو عن طريق المراسلين.",
+    "target_en": "1. Messages and their attachments, whether sent by mail or delivered by courier, shall be delivered pursuant to a delivery statement designated for such purpose.",
+    "source_ar_norm": "1- تسلم المراسلات ومرافقاتها ببيان تسليم معد لهذا الغرض، سواء المرسل منها عن طريق البريد او عن طريق المراسلين.",
+    "target_en_norm": "1. messages and their attachments, whether sent by mail or delivered by courier, shall be delivered pursuant to a delivery statement designated for such purpose.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21765,
+    "source_ar": "2- توضع كل رسالة أو معاملة صادرة داخل ظرف.",
+    "target_en": "2. Each outgoing message or casefile shall be placed in an envelope.",
+    "source_ar_norm": "2- توضع كل رسالة او معاملة صادرة داخل ظرف.",
+    "target_en_norm": "2. each outgoing message or casefile shall be placed in an envelope.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21766,
+    "source_ar": "3- يكتب على الظرف اسم المرسل إليه وعنوانه الوطني ورقم الصادر.",
+    "target_en": "3. The addressee’s name and national address and the outgoing correspondence number shall be written on the envelope.",
+    "source_ar_norm": "3- يكتب علي الظرف اسم المرسل اليه وعنوانه الوطني ورقم الصادر.",
+    "target_en_norm": "3. the addressee’s name and national address and the outgoing correspondence number shall be written on the envelope.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21767,
+    "source_ar": "4- يدون على ظرف الرسالة الصادرة حالتها السرية والمستعجلة والمهمة، وتختم وتغلق بإحكام.",
+    "target_en": "4. The designation of the outgoing message in terms of confidentiality, urgency, and importance shall be written on the envelope, which shall be securely sealed and stamped.",
+    "source_ar_norm": "4- يدون علي ظرف الرسالة الصادرة حالتها السرية والمستعجلة والمهمة، وتختم وتغلق باحكام.",
+    "target_en_norm": "4. the designation of the outgoing message in terms of confidentiality, urgency, and importance shall be written on the envelope, which shall be securely sealed and stamped.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21768,
+    "source_ar": "5- تغلق وتختم الطرود المرسلة بإحكام وبالوسائل المخصصة لذلك.",
+    "target_en": "5. Parcels to be sent shall be securely sealed and stamped using the appropriate means.",
+    "source_ar_norm": "5- تغلق وتختم الطرود المرسلة باحكام وبالوسائل المخصصة لذلك.",
+    "target_en_norm": "5. parcels to be sent shall be securely sealed and stamped using the appropriate means.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21769,
+    "source_ar": "6- يربط بيان التسليم بالإرسالية التي يتعلق بها.",
+    "target_en": "6. The delivery statement shall accompany the dispatched item to which it relates.",
+    "source_ar_norm": "6- يربط بيان التسليم بالارسالية التي يتعلق بها.",
+    "target_en_norm": "6. the delivery statement shall accompany the dispatched item to which it relates.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21770,
+    "source_ar": "7- يجب على الجهاز اتخاذ الترتيبات المناسبة لتسليم وتسلّم المراسلات العاجلة والسرية والمهمة في أسرع وقت وإبلاغها للمسؤول في حينه.",
+    "target_en": "7. The agency shall make the appropriate arrangements to promptly send and receive urgent, confidential, and important correspondence and to deliver the same to the addressed official in a timely manner.",
+    "source_ar_norm": "7- يجب علي الجهاز اتخاذ الترتيبات المناسبة لتسليم وتسلم المراسلات العاجلة والسرية والمهمة في اسرع وقت وابلاغها للمسؤول في حينه.",
+    "target_en_norm": "7. the agency shall make the appropriate arrangements to promptly send and receive urgent, confidential, and important correspondence and to deliver the same to the addressed official in a timely manner.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21771,
+    "source_ar": "8- تزود الوحدات المختصة التي أعدت الرسالة الصادرة أو ذات العلاقة بموضوعها بنسخة أو صورة منها.",
+    "target_en": "8. Relevant units which prepared the outgoing message or which are concerned with its subject shall be provided with a duplicate or copy of said message.",
+    "source_ar_norm": "8- تزود الوحدات المختصة التي اعدت الرسالة الصادرة او ذات العلاقة بموضوعها بنسخة او صورة منها.",
+    "target_en_norm": "8. relevant units which prepared the outgoing message or which are concerned with its subject shall be provided with a duplicate or copy of said message.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21772,
+    "source_ar": "9- تسلم نسخة الصادر المركنة وما يرتبط بها، مع الأساسات المرافقة لها لمركز الوثائق بالجهاز وفق الإجراء المنظم لذلك في قوائم مدد الحفظ.",
+    "target_en": "9. The duplicate of outgoing correspondence marked with reference initials and associated items shall, along with the supporting documents, be delivered to the agency’s documents center as per the applicable procedure therefor specified in the lists of retention periods.",
+    "source_ar_norm": "9- تسلم نسخة الصادر المركنة وما يرتبط بها، مع الاساسات المرافقة لها لمركز الوثائق بالجهاز وفق الاجراء المنظم لذلك في قوائم مدد الحفظ.",
+    "target_en_norm": "9. the duplicate of outgoing correspondence marked with reference initials and associated items shall, along with the supporting documents, be delivered to the agency’s documents center as per the applicable procedure therefor specified in the lists of retention periods.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21773,
+    "source_ar": "10- تسلم صورة من الرسالة الصادرة التي تحتاج إلى المتابعة إلى الوحدة الإدارية المنوط بها عملية المتابعة، لأجل متابعتها لدى الجهة المرسلة إليها والحصول على الإجابة عليها.",
+    "target_en": "10. A copy of an outgoing message that requires a response shall be delivered to the administrative unit in charge of tracking correspondence, in order for such unit to follow up with the receiving entity and obtain a response to said message.",
+    "source_ar_norm": "10- تسلم صورة من الرسالة الصادرة التي تحتاج الي المتابعة الي الوحدة الادارية المنوط بها عملية المتابعة، لاجل متابعتها لدي الجهة المرسلة اليها والحصول علي الاجابة عليها.",
+    "target_en_norm": "10. a copy of an outgoing message that requires a response shall be delivered to the administrative unit in charge of tracking correspondence, in order for such unit to follow up with the receiving entity and obtain a response to said message.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21774,
+    "source_ar": "11- دمج الطرد مع معاملته في كيس خاص ذي جيب جانبي بحسب المواصفات البريدية.",
+    "target_en": "11. A parcel shall be enclosed with its casefile in a special pouch with a side pocket as per postal specifications.",
+    "source_ar_norm": "11- دمج الطرد مع معاملته في كيس خاص ذي جيب جانبي بحسب المواصفات البريدية.",
+    "target_en_norm": "11. a parcel shall be enclosed with its casefile in a special pouch with a side pocket as per postal specifications.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21775,
+    "source_ar": "المادة الخامسة والثلاثون:",
+    "target_en": "Article 35",
+    "source_ar_norm": "المادة الخامسة والثلاثون:",
+    "target_en_norm": "article 35",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21776,
+    "source_ar": "تحدد مسؤولية المراسل فيما يأتي:",
+    "target_en": "The courier’s responsibilities shall be as follows:",
+    "source_ar_norm": "تحدد مسؤولية المراسل فيما ياتي:",
+    "target_en_norm": "the courier’s responsibilities shall be as follows:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21777,
+    "source_ar": "1- المحافظة على المراسلات التي في عهدته وعدم فتحها وعدم تركها في مكان يعرضها للخطر أو اطلاع أحد عليها.",
+    "target_en": "1. Keeping the correspondence in his custody, not opening such correspondence, and not neglecting it in a manner that exposes it to risk or allows others to access it.",
+    "source_ar_norm": "1- المحافظة علي المراسلات التي في عهدته وعدم فتحها وعدم تركها في مكان يعرضها للخطر او اطلاع احد عليها.",
+    "target_en_norm": "1. keeping the correspondence in his custody, not opening such correspondence, and not neglecting it in a manner that exposes it to risk or allows others to access it.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21778,
+    "source_ar": "2- عدم تسليمها إلا للجهة المرسلة إليها وللمختصين بالتسلُّم.",
+    "target_en": "2. Delivering the correspondence only to the agency to which it is addressed and to the persons in charge of receipt thereof.",
+    "source_ar_norm": "2- عدم تسليمها الا للجهة المرسلة اليها وللمختصين بالتسلم.",
+    "target_en_norm": "2. delivering the correspondence only to the agency to which it is addressed and to the persons in charge of receipt thereof.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21779,
+    "source_ar": "3- عدم ترك المراسلات في وسيلة النقل.",
+    "target_en": "3. Not leaving the correspondence in the mail transportation vehicle.",
+    "source_ar_norm": "3- عدم ترك المراسلات في وسيلة النقل.",
+    "target_en_norm": "3. not leaving the correspondence in the mail transportation vehicle.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21780,
+    "source_ar": "4- القيام بتطبيق ظروف الخطابات الصادرة لكل جهة على بياناتها ومن ثم وضعها في الظرف الخاص بالجهة؛ للمحافظة عليها وعدم تداخلها مع ظروف جهات أخرى.",
+    "target_en": "4. Ensuring that the envelopes of outgoing correspondence addressed to an entity match its information and subsequently placing such correspondence in the envelope designated for said entity to avoid mixing said envelopes with the envelopes addressed to other entities.",
+    "source_ar_norm": "4- القيام بتطبيق ظروف الخطابات الصادرة لكل جهة علي بياناتها ومن ثم وضعها في الظرف الخاص بالجهة؛ للمحافظة عليها وعدم تداخلها مع ظروف جهات اخري.",
+    "target_en_norm": "4. ensuring that the envelopes of outgoing correspondence addressed to an entity match its information and subsequently placing such correspondence in the envelope designated for said entity to avoid mixing said envelopes with the envelopes addressed to other entities.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21781,
+    "source_ar": "5- وضع الظروف في حقيبة يدوية مخصصة لهذا الغرض.",
+    "target_en": "5. Placing the envelopes in a bag designated for such purpose.",
+    "source_ar_norm": "5- وضع الظروف في حقيبة يدوية مخصصة لهذا الغرض.",
+    "target_en_norm": "5. placing the envelopes in a bag designated for such purpose.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21782,
+    "source_ar": "6- تسلم المراسلات إلى الجهة المعنية في أوقات مبكرة ما لم يكن التسليم آنياً.",
+    "target_en": "6. Delivering the correspondence to the addressed agency as early as possible, unless immediate delivery is required.",
+    "source_ar_norm": "6- تسلم المراسلات الي الجهة المعنية في اوقات مبكرة ما لم يكن التسليم انيا.",
+    "target_en_norm": "6. delivering the correspondence to the addressed agency as early as possible, unless immediate delivery is required.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21783,
+    "source_ar": "7- التأكد من أن المتسلّم قد وقع على البيان ودوّن اسمه وتاريخ التسلّم ووقته.",
+    "target_en": "7. Ensuring that the recipient signs the delivery statement and writes his name as well as the date and time of receipt.",
+    "source_ar_norm": "7- التاكد من ان المتسلم قد وقع علي البيان ودون اسمه وتاريخ التسلم ووقته.",
+    "target_en_norm": "7. ensuring that the recipient signs the delivery statement and writes his name as well as the date and time of receipt.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21784,
+    "source_ar": "8- إعادة بيانات التسلّم للموظف المختص لمراجعتها وحفظها.",
+    "target_en": "8. Returning the delivery statements to the designated employee for review and archiving.",
+    "source_ar_norm": "8- اعادة بيانات التسلم للموظف المختص لمراجعتها وحفظها.",
+    "target_en_norm": "8. returning the delivery statements to the designated employee for review and archiving.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21785,
+    "source_ar": "9- إذا لم يتمكن المراسل من تسليم الرسالة في اليوم نفسه لأي سبب؛ فعليه إعادتها إلى الإدارة وتسليمها في اليوم التالي.",
+    "target_en": "9. If a courier fails to deliver the message on the same day for any reason, he shall return said message to the department and deliver it the following day.",
+    "source_ar_norm": "9- اذا لم يتمكن المراسل من تسليم الرسالة في اليوم نفسه لاي سبب؛ فعليه اعادتها الي الادارة وتسليمها في اليوم التالي.",
+    "target_en_norm": "9. if a courier fails to deliver the message on the same day for any reason, he shall return said message to the department and deliver it the following day.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21786,
+    "source_ar": "ثاني عشر: متابعة المراسلات الواردة والصادرة",
+    "target_en": "Twelfth: Tracking Incoming and Outgoing Correspondence",
+    "source_ar_norm": "ثاني عشر: متابعة المراسلات الواردة والصادرة",
+    "target_en_norm": "twelfth: tracking incoming and outgoing correspondence",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21787,
+    "source_ar": "المادة السادسة والثلاثون:",
+    "target_en": "Article 36",
+    "source_ar_norm": "المادة السادسة والثلاثون:",
+    "target_en_norm": "article 36",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21788,
+    "source_ar": "تتم متابعة المراسلات الواردة إلى الجهاز وفقاً للإجراءات الآتية:",
+    "target_en": "Tracking an agency's incoming correspondence shall be in accordance with the following procedures:",
+    "source_ar_norm": "تتم متابعة المراسلات الواردة الي الجهاز وفقا للاجراءات الاتية:",
+    "target_en_norm": "tracking an agency's incoming correspondence shall be in accordance with the following procedures:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21789,
+    "source_ar": "1- تحدد مدد زمنية لإنهاء إجراءات الرسالة الواردة من قبل المختصين، وبخاصة الموضوعات المستعجلة أو التي لها علاقة بالجمهور.",
+    "target_en": "1. Time periods shall be set for the designated employees to complete the procedures for handling an incoming message, especially messages dealing with urgent subjects or subjects that relate to the public.",
+    "source_ar_norm": "1- تحدد مدد زمنية لانهاء اجراءات الرسالة الواردة من قبل المختصين، وبخاصة الموضوعات المستعجلة او التي لها علاقة بالجمهور.",
+    "target_en_norm": "1. time periods shall be set for the designated employees to complete the procedures for handling an incoming message, especially messages dealing with urgent subjects or subjects that relate to the public.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21790,
+    "source_ar": "2- تمكين المختصين بالمتابعة من الدخول على نظام الاتصالات الإدارية لمعرفة حركة المراسلات وفق صلاحيات محددة؛ بناءً على مستوى تصنيف البيانات.",
+    "target_en": "2. Employees in charge of tracking correspondence shall, pursuant to specific powers, have access to the administrative communications system to monitor the movement of correspondence, subject to the data classification level.",
+    "source_ar_norm": "2- تمكين المختصين بالمتابعة من الدخول علي نظام الاتصالات الادارية لمعرفة حركة المراسلات وفق صلاحيات محددة؛ بناء علي مستوي تصنيف البيانات.",
+    "target_en_norm": "2. employees in charge of tracking correspondence shall, pursuant to specific powers, have access to the administrative communications system to monitor the movement of correspondence, subject to the data classification level.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21791,
+    "source_ar": "3- يزود المراجع بالمعلومات الأولية عن معاملته، كرقم قيدها وتاريخه والمدة المتوقعة لإنجازها -بحسب الموضوعات المقرر في شأنها مدة محددة- أو موعد المراجعة. وفي حالة صدور المعاملة إلى جهة أخرى فيزود المراجع بمذكرة مراجعة يوضح فيها رقم الصادر وتاريخه والجهة المرسلة إليها.",
+    "target_en": "3. A beneficiary shall be provided with the primary information of his casefile, such as its registration number and date as well as the expected processing time therefor, if the subject of the casefile is a subject for which a specific time period is set, or the date for inquiring about such casefile. If the casefile was referred to another agency, the beneficiary shall be provided with a note indicating the number and date of the outgoing correspondence and the name of the agency to which it was addressed.",
+    "source_ar_norm": "3- يزود المراجع بالمعلومات الاولية عن معاملته، كرقم قيدها وتاريخه والمدة المتوقعة لانجازها -بحسب الموضوعات المقرر في شانها مدة محددة- او موعد المراجعة. وفي حالة صدور المعاملة الي جهة اخري فيزود المراجع بمذكرة مراجعة يوضح فيها رقم الصادر وتاريخه والجهة المرسلة اليها.",
+    "target_en_norm": "3. a beneficiary shall be provided with the primary information of his casefile, such as its registration number and date as well as the expected processing time therefor, if the subject of the casefile is a subject for which a specific time period is set, or the date for inquiring about such casefile. if the casefile was referred to another agency, the beneficiary shall be provided with a note indicating the number and date of the outgoing correspondence and the name of the agency to which it was addressed.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21792,
+    "source_ar": "4- توفير خدمة المتابعة عن بعد للمراجعين من خلال موقع الجهة الإلكتروني.",
+    "target_en": "4. An online tracking system shall be made available to beneficiaries through the agency’s website.",
+    "source_ar_norm": "4- توفير خدمة المتابعة عن بعد للمراجعين من خلال موقع الجهة الالكتروني.",
+    "target_en_norm": "4. an online tracking system shall be made available to beneficiaries through the agency’s website.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21793,
+    "source_ar": "المادة السابعة والثلاثون:",
+    "target_en": "Article 37",
+    "source_ar_norm": "المادة السابعة والثلاثون:",
+    "target_en_norm": "article 37",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21794,
+    "source_ar": "على الإدارات المختصة بمعالجة الموضوعات أن تتعاون مع المختصين بالمتابعة وأن تزودهم بالمعلومات اللازمة لما وصل إليه الموضوع.",
+    "target_en": "The departments in charge of processing subjects shall cooperate with the employees in charge of tracking correspondence and shall provide them with information about the status of the subjects.",
+    "source_ar_norm": "علي الادارات المختصة بمعالجة الموضوعات ان تتعاون مع المختصين بالمتابعة وان تزودهم بالمعلومات اللازمة لما وصل اليه الموضوع.",
+    "target_en_norm": "the departments in charge of processing subjects shall cooperate with the employees in charge of tracking correspondence and shall provide them with information about the status of the subjects.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21795,
+    "source_ar": "المادة الثامنة والثلاثون:",
+    "target_en": "Article 38",
+    "source_ar_norm": "المادة الثامنة والثلاثون:",
+    "target_en_norm": "article 38",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21796,
+    "source_ar": "تتم متابعة المراسلات الصادرة إلى جهة إدارية أخرى وفقاً لما يأتي:",
+    "target_en": "Tracking outgoing correspondence addressed to another administrative unit shall be as follows:",
+    "source_ar_norm": "تتم متابعة المراسلات الصادرة الي جهة ادارية اخري وفقا لما ياتي:",
+    "target_en_norm": "tracking outgoing correspondence addressed to another administrative unit shall be as follows:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21797,
+    "source_ar": "1- أن تزود الجهة المنوطة بها عملية المتابعة بصورة من الرسالة الصادرة أو بمعلومات عنها لتتولى متابعتها لدى الجهة المرسلة إليها، مع مراعاة الآتي:",
+    "target_en": "1. The department in charge of tracking correspondence shall be provided with a copy of the outgoing message or information thereon to follow up on said message with the receiving unit, subject to the following:",
+    "source_ar_norm": "1- ان تزود الجهة المنوطة بها عملية المتابعة بصورة من الرسالة الصادرة او بمعلومات عنها لتتولي متابعتها لدي الجهة المرسلة اليها، مع مراعاة الاتي:",
+    "target_en_norm": "1. the department in charge of tracking correspondence shall be provided with a copy of the outgoing message or information thereon to follow up on said message with the receiving unit, subject to the following:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21798,
+    "source_ar": "أ- أن يكون الموضوع ذا أهمية ويتعلق بالمصلحة العامة أو له ارتباط بمواعيد محددة.",
+    "target_en": "a) The subject is important and relates to public interest or is bound by a deadline.",
+    "source_ar_norm": "ا- ان يكون الموضوع ذا اهمية ويتعلق بالمصلحة العامة او له ارتباط بمواعيد محددة.",
+    "target_en_norm": "a) the subject is important and relates to public interest or is bound by a deadline.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21799,
+    "source_ar": "ب- أن تكون الرسالة متعلقة بطلب الإفادة عن معلومات أو التزويد بوثائق لاستكمال إجراءات لديها.",
+    "target_en": "b) The message is related to a request for information or a request for the provision of documents for the completion of certain procedures.",
+    "source_ar_norm": "ب- ان تكون الرسالة متعلقة بطلب الافادة عن معلومات او التزويد بوثائق لاستكمال اجراءات لديها.",
+    "target_en_norm": "b) the message is related to a request for information or a request for the provision of documents for the completion of certain procedures.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21800,
+    "source_ar": "٢- أن تعد استمارة متابعة تحمل رقم الصادر وتاريخه وموضوعه والجهة المرسل إليها، وتحمل حقولاً تدون فيها نتائج المتابعة، سواء هاتفية أو كتابية، وتواريخها وعددها.",
+    "target_en": "2. A tracking form shall be prepared and shall include the number, date, and subject of the outgoing correspondence; the name of the addressed unit; and fields for entering the follow-up results, whether obtained through written or telephone communication, and the dates and number thereof.",
+    "source_ar_norm": "٢- ان تعد استمارة متابعة تحمل رقم الصادر وتاريخه وموضوعه والجهة المرسل اليها، وتحمل حقولا تدون فيها نتائج المتابعة، سواء هاتفية او كتابية، وتواريخها وعددها.",
+    "target_en_norm": "2. a tracking form shall be prepared and shall include the number, date, and subject of the outgoing correspondence; the name of the addressed unit; and fields for entering the follow-up results, whether obtained through written or telephone communication, and the dates and number thereof.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 28401,
+    "source_ar": "المادة الأولى",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي",
+    "target_en_norm": "article 1",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28402,
+    "source_ar": "تسري أحكام هذا النظام على المعاملات المدنية والتجارية.",
+    "target_en": "The provisions of this Law shall apply to civil and commercial transactions.",
+    "source_ar_norm": "تسري احكام هذا النظام علي المعاملات المدنية والتجارية.",
+    "target_en_norm": "the provisions of this law shall apply to civil and commercial transactions.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28403,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28404,
+    "source_ar": "1. على المدعي أن يثبت ما يدعيه من حق، وللمدعى عليه نفيه.",
+    "target_en": "1. A claimant shall have the burden of proof and a defendant shall have the burden of defense.",
+    "source_ar_norm": "1. علي المدعي ان يثبت ما يدعيه من حق، وللمدعي عليه نفيه.",
+    "target_en_norm": "1. a claimant shall have the burden of proof and a defendant shall have the burden of defense.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28405,
+    "source_ar": "2. يجب أن تكون الوقائع المراد إثباتها متعلقة بالدعوى، ومنتجة فيها، وجائزاً قبولها.",
+    "target_en": "2. Facts of a case intended to be proven must be relevant, material, and admissible.",
+    "source_ar_norm": "2. يجب ان تكون الوقائع المراد اثباتها متعلقة بالدعوي، ومنتجة فيها، وجائزا قبولها.",
+    "target_en_norm": "2. facts of a case intended to be proven must be relevant, material, and admissible.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28406,
+    "source_ar": "3. لا يجوز للقاضي أن يحكم بعلمه الشخصي.",
+    "target_en": "3. A judge may not rule based on his personal knowledge.",
+    "source_ar_norm": "3. لا يجوز للقاضي ان يحكم بعلمه الشخصي.",
+    "target_en_norm": "3. a judge may not rule based on his personal knowledge.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28407,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28408,
+    "source_ar": "1. البينة على من ادعى، واليمين على من أنكر.",
+    "target_en": "1. A claimant shall provide evidence and a denying party shall take an oath.",
+    "source_ar_norm": "1. البينة علي من ادعي، واليمين علي من انكر.",
+    "target_en_norm": "1. a claimant shall provide evidence and a denying party shall take an oath.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28409,
+    "source_ar": "2. البينة لإثبات خلاف الظاهر، واليمين لإبقاء الأصل.",
+    "target_en": "2. Evidence shall be provided to disprove an apparent fact and an oath shall be taken to affirm a fact.",
+    "source_ar_norm": "2. البينة لاثبات خلاف الظاهر، واليمين لابقاء الاصل.",
+    "target_en_norm": "2. evidence shall be provided to disprove an apparent fact and an oath shall be taken to affirm a fact.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28410,
+    "source_ar": "3. البينة حجة متعدية، والإقرار حجة قاصرة.",
+    "target_en": "3. The effect of evidence as a means of proof shall be extensible while the effect of admission shall be limited to the admitting party.",
+    "source_ar_norm": "3. البينة حجة متعدية، والاقرار حجة قاصرة.",
+    "target_en_norm": "3. the effect of evidence as a means of proof shall be extensible while the effect of admission shall be limited to the admitting party.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28411,
+    "source_ar": "4. الثابت بالبرهان كالثابت بالعيان.",
+    "target_en": "4. A fact established by evidence shall be equivalent to a fact established by eye-witnessing.",
+    "source_ar_norm": "4. الثابت بالبرهان كالثابت بالعيان.",
+    "target_en_norm": "4. a fact established by evidence shall be equivalent to a fact established by eye-witnessing.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28412,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28413,
+    "source_ar": "دون إخلال بأحكام هذا النظام، إذا تعارضت أدلة الإثبات ولم يمكن الجمع بينها فتأخذ المحكمة منها بحسب ما يترجح لها من ظروف الدعوى، فإن تعذر ذلك فلا تأخذ المحكمة بأي منها، وفي جميع الأحوال يجب عليها أن تبين أسباب ذلك في حكمها.",
+    "target_en": "Without prejudice to the provisions of this Law, if evidence is conflicting and irreconcilable, the court shall admit the evidence with the most probative value to the facts of the case; if the court is unable to make a determination, the court shall exclude all such evidence. In all cases, the court must provide in its judgment the reasons for the inclusion or exclusion of evidence.",
+    "source_ar_norm": "دون اخلال باحكام هذا النظام، اذا تعارضت ادلة الاثبات ولم يمكن الجمع بينها فتاخذ المحكمة منها بحسب ما يترجح لها من ظروف الدعوي، فان تعذر ذلك فلا تاخذ المحكمة باي منها، وفي جميع الاحوال يجب عليها ان تبين اسباب ذلك في حكمها.",
+    "target_en_norm": "without prejudice to the provisions of this law, if evidence is conflicting and irreconcilable, the court shall admit the evidence with the most probative value to the facts of the case; if the court is unable to make a determination, the court shall exclude all such evidence. in all cases, the court must provide in its judgment the reasons for the inclusion or exclusion of evidence.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28414,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28415,
+    "source_ar": "لا يلزم لإثبات الالتزام شكل معين؛ ما لم يرد فيه نص خاص أو اتفاق بين الخصوم.",
+    "target_en": "No specific form shall be required to prove an obligation, unless a specific form is stipulated by a statutory provision or agreed upon by the parties.",
+    "source_ar_norm": "لا يلزم لاثبات الالتزام شكل معين؛ ما لم يرد فيه نص خاص او اتفاق بين الخصوم.",
+    "target_en_norm": "no specific form shall be required to prove an obligation, unless a specific form is stipulated by a statutory provision or agreed upon by the parties.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28416,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28417,
+    "source_ar": "1. إذا اتفق الخصوم على قواعد محددة في الإثبات فتُعمِل المحكمة اتفاقَهم؛ ما لم يخالف النظام العام.",
+    "target_en": "1. The court shall enforce the rules of evidence agreed upon by the parties, unless such agreement is inconsistent with public policy.",
+    "source_ar_norm": "1. اذا اتفق الخصوم علي قواعد محددة في الاثبات فتعمل المحكمة اتفاقهم؛ ما لم يخالف النظام العام.",
+    "target_en_norm": "1. the court shall enforce the rules of evidence agreed upon by the parties, unless such agreement is inconsistent with public policy.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28418,
+    "source_ar": "2. لا يعتد باتفاق الخصوم المنصوص عليه في هذا النظام ما لم يكن مكتوباً.",
+    "target_en": "2. An agreement between the parties, as provided under this Law, shall not be deemed valid unless it is made in writing.",
+    "source_ar_norm": "2. لا يعتد باتفاق الخصوم المنصوص عليه في هذا النظام ما لم يكن مكتوبا.",
+    "target_en_norm": "2. an agreement between the parties, as provided under this law, shall not be deemed valid unless it is made in writing.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28419,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28420,
+    "source_ar": "1. الأحكام والأوامر والقرارات الصادرة بإجراءات الإثبات؛ لا يلزم تسبيبها ما لم تتضمن قضاءً قطعياً.",
+    "target_en": "1. Orders and decisions relating to evidentiary procedures shall not require reasoning, unless a judgment is rendered.",
+    "source_ar_norm": "1. الاحكام والاوامر والقرارات الصادرة باجراءات الاثبات؛ لا يلزم تسبيبها ما لم تتضمن قضاء قطعيا.",
+    "target_en_norm": "1. orders and decisions relating to evidentiary procedures shall not require reasoning, unless a judgment is rendered.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28421,
+    "source_ar": "2. يتعين في جميع الأحوال تسبيب الأحكام الصادرة في دعاوى الإثبات المستعجلة.",
+    "target_en": "2. In all cases, judgments rendered in summary evidentiary cases shall be reasoned.",
+    "source_ar_norm": "2. يتعين في جميع الاحوال تسبيب الاحكام الصادرة في دعاوي الاثبات المستعجلة.",
+    "target_en_norm": "2. in all cases, judgments rendered in summary evidentiary cases shall be reasoned.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28422,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28423,
+    "source_ar": "1. إذا قررت المحكمة مباشرة إجراء من إجراءات الإثبات، أو كلفت بذلك أحد قضاتها، تعين عليها أن تحدد موعداً لذلك.",
+    "target_en": "1. If the court decides to initiate an evidentiary procedure, or assigns a judge for such purpose, it shall set a date therefor.",
+    "source_ar_norm": "1. اذا قررت المحكمة مباشرة اجراء من اجراءات الاثبات، او كلفت بذلك احد قضاتها، تعين عليها ان تحدد موعدا لذلك.",
+    "target_en_norm": "1. if the court decides to initiate an evidentiary procedure, or assigns a judge for such purpose, it shall set a date therefor.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28424,
+    "source_ar": "2. للمحكمة مباشرة إجراءات الإثبات ولو لم يحضر الخصوم أو أحدهم؛ متى بلغوا بالموعد المحدد.",
+    "target_en": "2. If the parties to a case are notified of the date designated by the court to initiate evidentiary procedures, the court may initiate such procedures even if the parties are not present.",
+    "source_ar_norm": "2. للمحكمة مباشرة اجراءات الاثبات ولو لم يحضر الخصوم او احدهم؛ متي بلغوا بالموعد المحدد.",
+    "target_en_norm": "2. if the parties to a case are notified of the date designated by the court to initiate evidentiary procedures, the court may initiate such procedures even if the parties are not present.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28425,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28426,
+    "source_ar": "1. للمحكمة أن تعدل عما أمرت به من إجراءات الإثبات، بشرط أن تبيّن أسباب العدول في محضر الجلسة.",
+    "target_en": "1. A court may reverse the decision of an evidentiary procedure it initiated, provided that the grounds for the reversal are indicated in the hearing records.",
+    "source_ar_norm": "1. للمحكمة ان تعدل عما امرت به من اجراءات الاثبات، بشرط ان تبين اسباب العدول في محضر الجلسة.",
+    "target_en_norm": "1. a court may reverse the decision of an evidentiary procedure it initiated, provided that the grounds for the reversal are indicated in the hearing records.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28427,
+    "source_ar": "2. للمحكمة ألا تأخذ بنتيجة إجراء الإثبات، بشرط أن تبيّن أسباب ذلك في حكمها.",
+    "target_en": "2. A court may disregard the results of an evidentiary procedure, provided that it indicates the grounds therefor in its judgment.",
+    "source_ar_norm": "2. للمحكمة الا تاخذ بنتيجة اجراء الاثبات، بشرط ان تبين اسباب ذلك في حكمها.",
+    "target_en_norm": "2. a court may disregard the results of an evidentiary procedure, provided that it indicates the grounds therefor in its judgment.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28428,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28429,
+    "source_ar": "يكون لأي إجراء من إجراءات الإثبات اتخذ إلكترونياً الأحكام المقررة في هذا النظام.",
+    "target_en": "Evidentiary procedures carried out electronically shall be subject to the provisions of this Law.",
+    "source_ar_norm": "يكون لاي اجراء من اجراءات الاثبات اتخذ الكترونيا الاحكام المقررة في هذا النظام.",
+    "target_en_norm": "evidentiary procedures carried out electronically shall be subject to the provisions of this law.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28430,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28431,
+    "source_ar": "1. تكون إجراءات الإثبات من إقرار أو استجواب أو أداء للشهادة أو اليمين أمام المحكمة، فإن تعذر فللمحكمة أن تنتقل أو تكلف أحد قضاتها بذلك.",
+    "target_en": "1. Evidentiary procedures including admission, questioning, testimonies, and oaths shall be carried out before the court. If not feasible, the court may proceed to the person’s location or assign one of its judges for such purpose.",
+    "source_ar_norm": "1. تكون اجراءات الاثبات من اقرار او استجواب او اداء للشهادة او اليمين امام المحكمة، فان تعذر فللمحكمة ان تنتقل او تكلف احد قضاتها بذلك.",
+    "target_en_norm": "1. evidentiary procedures including admission, questioning, testimonies, and oaths shall be carried out before the court. if not feasible, the court may proceed to the person’s location or assign one of its judges for such purpose.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28432,
+    "source_ar": "2. إذا كان المقر أو المستجوب أو الشاهد أو من وجهت إليه اليمين ونحوهم مقيماً خارج نطاق اختصاص المحكمة، وتعذر إجراء الإثبات إلكترونياً؛ فعلى المحكمة أن تستخلف محكمة مكان إقامته. وفي هذه الحالة يبلغ قرار الاستخلاف للمحكمة المستخلَفة.",
+    "target_en": "2. If the person who makes an admission, is questioned, provides a testimony, or takes an oath, and the like, is domiciled beyond the territorial jurisdiction of the court and evidentiary procedures cannot be carried out electronically, the court may delegate the court located where such person is domiciled to carry out such procedures. In such case, the delegated court shall be notified of the delegation decision.",
+    "source_ar_norm": "2. اذا كان المقر او المستجوب او الشاهد او من وجهت اليه اليمين ونحوهم مقيما خارج نطاق اختصاص المحكمة، وتعذر اجراء الاثبات الكترونيا؛ فعلي المحكمة ان تستخلف محكمة مكان اقامته. وفي هذه الحالة يبلغ قرار الاستخلاف للمحكمة المستخلفة.",
+    "target_en_norm": "2. if the person who makes an admission, is questioned, provides a testimony, or takes an oath, and the like, is domiciled beyond the territorial jurisdiction of the court and evidentiary procedures cannot be carried out electronically, the court may delegate the court located where such person is domiciled to carry out such procedures. in such case, the delegated court shall be notified of the delegation decision.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28433,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28434,
+    "source_ar": "يكون إقرار الأخرس ومن في حكمه واستجوابه وأداؤه للشهادة واليمين وتوجيهها والنكول عنها وردها بالكتابة، فإن لم يكن يعرف الكتابة فبإشارته المعهودة.",
+    "target_en": "A person with a speech disability shall make an admission, be questioned, provide testimony, and take, tender, or decline an oath in writing. If said person does not know how to write, he shall carry out said actions using his usual signs.",
+    "source_ar_norm": "يكون اقرار الاخرس ومن في حكمه واستجوابه واداؤه للشهادة واليمين وتوجيهها والنكول عنها وردها بالكتابة، فان لم يكن يعرف الكتابة فباشارته المعهودة.",
+    "target_en_norm": "a person with a speech disability shall make an admission, be questioned, provide testimony, and take, tender, or decline an oath in writing. if said person does not know how to write, he shall carry out said actions using his usual signs.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28435,
+    "source_ar": "المادة الثالثة عشرة",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة",
+    "target_en_norm": "article 13",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28436,
+    "source_ar": "دون إخلال بالتزامات المملكة في الاتفاقيات الدولية التي تكون طرفاً فيها، للمحكمة أن تأخذ بإجراءات الإثبات التي جرت خارج المملكة؛ ما لم تخالف النظام العام.",
+    "target_en": "Without prejudice to the Kingdom's obligations under international agreements to which it is party, the court may accept evidentiary procedures carried out outside the Kingdom, unless they are inconsistent with public policy.",
+    "source_ar_norm": "دون اخلال بالتزامات المملكة في الاتفاقيات الدولية التي تكون طرفا فيها، للمحكمة ان تاخذ باجراءات الاثبات التي جرت خارج المملكة؛ ما لم تخالف النظام العام.",
+    "target_en_norm": "without prejudice to the kingdom's obligations under international agreements to which it is party, the court may accept evidentiary procedures carried out outside the kingdom, unless they are inconsistent with public policy.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28437,
+    "source_ar": "(الباب الثاني) الإقرار واستجواب الخصوم (الفصل الأول) الإقرار",
+    "target_en": "Part 2: Admission and Questioning of Litigants Chapter 1: Admission",
+    "source_ar_norm": "(الباب الثاني) الاقرار واستجواب الخصوم (الفصل الاول) الاقرار",
+    "target_en_norm": "part 2: admission and questioning of litigants chapter 1: admission",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28438,
+    "source_ar": "المادة الرابعة عشرة",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة",
+    "target_en_norm": "article 14",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28439,
+    "source_ar": "1. يكون الإقرار قضائياً إذا اعترف الخصم أمام المحكمة بواقعة مدعى بها عليه، وذلك أثناء السير في دعوى متعلقة بهذه الواقعة.",
+    "target_en": "1. An admission shall be deemed a judicial admission if a litigant admits before the court to a fact alleged against him during consideration of a case relating to said fact.",
+    "source_ar_norm": "1. يكون الاقرار قضائيا اذا اعترف الخصم امام المحكمة بواقعة مدعي بها عليه، وذلك اثناء السير في دعوي متعلقة بهذه الواقعة.",
+    "target_en_norm": "1. an admission shall be deemed a judicial admission if a litigant admits before the court to a fact alleged against him during consideration of a case relating to said fact.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28440,
+    "source_ar": "2. يكون الإقرار غير قضائي إذا لم يقع أمام المحكمة، أو كان أثناء السير في دعوى أخرى.",
+    "target_en": "2. An admission shall be deemed extrajudicial if the litigant admits outside the court to a fact alleged against him or if the admission is made during the proceedings of another case.",
+    "source_ar_norm": "2. يكون الاقرار غير قضائي اذا لم يقع امام المحكمة، او كان اثناء السير في دعوي اخري.",
+    "target_en_norm": "2. an admission shall be deemed extrajudicial if the litigant admits outside the court to a fact alleged against him or if the admission is made during the proceedings of another case.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28441,
+    "source_ar": "المادة الخامسة عشرة",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة",
+    "target_en_norm": "article 15",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28442,
+    "source_ar": "1. يشترط أن يكون المقر أهلاً للتصرف فيما أقر به.",
+    "target_en": "1. A person making an admission must have the capacity to carry out the admitted act.",
+    "source_ar_norm": "1. يشترط ان يكون المقر اهلا للتصرف فيما اقر به.",
+    "target_en_norm": "1. a person making an admission must have the capacity to carry out the admitted act.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28443,
+    "source_ar": "2. يصح إقرار الصغير المميز المأذون له في البيع والشراء بقدر ما أذن له فيه.",
+    "target_en": "2. An admission made by a competent minor who is permitted to buy and sell shall be deemed valid to the extent of such permission.",
+    "source_ar_norm": "2. يصح اقرار الصغير المميز الماذون له في البيع والشراء بقدر ما اذن له فيه.",
+    "target_en_norm": "2. an admission made by a competent minor who is permitted to buy and sell shall be deemed valid to the extent of such permission.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28444,
+    "source_ar": "3. يصح الإقرار من الوصي أو الولي أو ناظر الوقف أو من في حكمهم فيما باشروه في حدود ولايتهم.",
+    "target_en": "3. An admission made by a trustee, guardian, endowment administrator, or persons of similar capacity shall be valid in matters they attended to which fall within their capacity.",
+    "source_ar_norm": "3. يصح الاقرار من الوصي او الولي او ناظر الوقف او من في حكمهم فيما باشروه في حدود ولايتهم.",
+    "target_en_norm": "3. an admission made by a trustee, guardian, endowment administrator, or persons of similar capacity shall be valid in matters they attended to which fall within their capacity.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28445,
+    "source_ar": "المادة السادسة عشرة",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة",
+    "target_en_norm": "article 16",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28446,
+    "source_ar": "1. يكون الإقرار صراحة أو دلالة، باللفظ أو بالكتابة.",
+    "target_en": "1. An admission may be explicit or implicit, whether verbal or written.",
+    "source_ar_norm": "1. يكون الاقرار صراحة او دلالة، باللفظ او بالكتابة.",
+    "target_en_norm": "1. an admission may be explicit or implicit, whether verbal or written.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28447,
+    "source_ar": "2. لا يقبل الإقرار إذا كذبه ظاهر الحال.",
+    "target_en": "2. An admission contrary to an apparent fact shall not be accepted.",
+    "source_ar_norm": "2. لا يقبل الاقرار اذا كذبه ظاهر الحال.",
+    "target_en_norm": "2. an admission contrary to an apparent fact shall not be accepted.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28448,
+    "source_ar": "المادة السابعة عشرة",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة",
+    "target_en_norm": "article 17",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28449,
+    "source_ar": "الإقرار القضائي حجة قاطعة على المقر، وقاصرة عليه.",
+    "target_en": "A judicial admission shall be conclusive against the person making the admission and shall be limited thereto.",
+    "source_ar_norm": "الاقرار القضائي حجة قاطعة علي المقر، وقاصرة عليه.",
+    "target_en_norm": "a judicial admission shall be conclusive against the person making the admission and shall be limited thereto.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28450,
+    "source_ar": "المادة الثامنة عشرة",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة",
+    "target_en_norm": "article 18",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28451,
+    "source_ar": "1. يلزم المقر بإقراره، ولا يقبل رجوعه عنه.",
+    "target_en": "1. An admission shall be binding on the person making the admission and may not be retracted.",
+    "source_ar_norm": "1. يلزم المقر باقراره، ولا يقبل رجوعه عنه.",
+    "target_en_norm": "1. an admission shall be binding on the person making the admission and may not be retracted.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28452,
+    "source_ar": "2. لا يتجزأ الإقرار على صاحبه، إلا إذا انصب على وقائع متعددة، وكان وجود واقعة منها لا يستلزم حتماً وجود الوقائع الأخرى.",
+    "target_en": "2. An admission shall not be divisible, unless it relates to multiple facts and the existence of one fact does not necessarily entail the existence of other facts.",
+    "source_ar_norm": "2. لا يتجزا الاقرار علي صاحبه، الا اذا انصب علي وقائع متعددة، وكان وجود واقعة منها لا يستلزم حتما وجود الوقائع الاخري.",
+    "target_en_norm": "2. an admission shall not be divisible, unless it relates to multiple facts and the existence of one fact does not necessarily entail the existence of other facts.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28453,
+    "source_ar": "المادة التاسعة عشرة",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة",
+    "target_en_norm": "article 19",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28454,
+    "source_ar": "يكون إثبات الإقرار غير القضائي وفق الأحكام المقررة في هذا النظام، بما في ذلك عدم جواز إثباته بالشهادة إلا في الأحوال التي يجوز فيها الإثبات بالشهادة.",
+    "target_en": "An extrajudicial admission shall be established in accordance with the provisions of this Law; testimonies may not be used to establish extrajudicial admissions except for cases in which proof by testimony is admissible.",
+    "source_ar_norm": "يكون اثبات الاقرار غير القضائي وفق الاحكام المقررة في هذا النظام، بما في ذلك عدم جواز اثباته بالشهادة الا في الاحوال التي يجوز فيها الاثبات بالشهادة.",
+    "target_en_norm": "an extrajudicial admission shall be established in accordance with the provisions of this law; testimonies may not be used to establish extrajudicial admissions except for cases in which proof by testimony is admissible.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28455,
+    "source_ar": "(الفصل الثاني) استجواب الخصوم",
+    "target_en": "Chapter 2: Questioning Litigants",
+    "source_ar_norm": "(الفصل الثاني) استجواب الخصوم",
+    "target_en_norm": "chapter 2: questioning litigants",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28456,
+    "source_ar": "المادة العشرون",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون",
+    "target_en_norm": "article 20",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28457,
+    "source_ar": "1. للمحكمة -من تلقاء نفسها أو بناء على طلب أحد الخصوم- أن تستجوب من يكون حاضراً من الخصوم.",
+    "target_en": "1. The court may, on its own motion or the motion of a litigant, question any present litigant.",
+    "source_ar_norm": "1. للمحكمة -من تلقاء نفسها او بناء علي طلب احد الخصوم- ان تستجوب من يكون حاضرا من الخصوم.",
+    "target_en_norm": "1. the court may, on its own motion or the motion of a litigant, question any present litigant.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28458,
+    "source_ar": "2. لأي من الخصوم استجواب خصمه مباشرة.",
+    "target_en": "2. A litigant may directly question the adverse litigant.",
+    "source_ar_norm": "2. لاي من الخصوم استجواب خصمه مباشرة.",
+    "target_en_norm": "2. a litigant may directly question the adverse litigant.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28459,
+    "source_ar": "المادة الحادية والعشرون",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون",
+    "target_en_norm": "article 21",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28460,
+    "source_ar": "1. للمحكمة -من تلقاء نفسها أو بناء على طلب أحد الخصوم- أن تأمر بحضور الخصم لاستجوابه، ويجب على من تقرر استجوابه أن يحضر الجلسة المحددة لذلك.",
+    "target_en": "1. The court may, on its own motion or the motion of a litigant, summon the adverse litigant for questioning. The summoned litigant shall attend the scheduled hearing.",
+    "source_ar_norm": "1. للمحكمة -من تلقاء نفسها او بناء علي طلب احد الخصوم- ان تامر بحضور الخصم لاستجوابه، ويجب علي من تقرر استجوابه ان يحضر الجلسة المحددة لذلك.",
+    "target_en_norm": "1. the court may, on its own motion or the motion of a litigant, summon the adverse litigant for questioning. the summoned litigant shall attend the scheduled hearing.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28461,
+    "source_ar": "2. إذا تخلف الخصم عن الحضور للاستجواب بغير عذر مقبول، أو امتنع عن الإجابة بغير مسوّغ معتبر، استخلصت المحكمة ما تراه من ذلك، وجاز لها أن تقبل الإثبات بشهادة الشهود والقرائن في الأحوال التي لا يجوز فيها ذلك.",
+    "target_en": "2. If, without an acceptable justification, a litigant fails to appear for questioning or refuses to answer questions, the court may draw its own conclusions and may accept as evidence witness testimonies and presumptions in cases where such evidence is inadmissible.",
+    "source_ar_norm": "2. اذا تخلف الخصم عن الحضور للاستجواب بغير عذر مقبول، او امتنع عن الاجابة بغير مسوغ معتبر، استخلصت المحكمة ما تراه من ذلك، وجاز لها ان تقبل الاثبات بشهادة الشهود والقرائن في الاحوال التي لا يجوز فيها ذلك.",
+    "target_en_norm": "2. if, without an acceptable justification, a litigant fails to appear for questioning or refuses to answer questions, the court may draw its own conclusions and may accept as evidence witness testimonies and presumptions in cases where such evidence is inadmissible.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28462,
+    "source_ar": "3. يسري حكم الفقرة (2) من هذه المادة على من تخلف عن الحضور في الدعوى أو امتنع عن الإجابة عنها.",
+    "target_en": "3. The provision of paragraph (2) of this Article shall apply to any litigant who fails to come before the court or refuses to answer the questions.",
+    "source_ar_norm": "3. يسري حكم الفقرة (2) من هذه المادة علي من تخلف عن الحضور في الدعوي او امتنع عن الاجابة عنها.",
+    "target_en_norm": "3. the provision of paragraph (2) of this article shall apply to any litigant who fails to come before the court or refuses to answer the questions.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28463,
+    "source_ar": "المادة الثانية والعشرون",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون",
+    "target_en_norm": "article 22",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28464,
+    "source_ar": "إذا كان الخصم عديم الأهلية أو ناقصها فيستجوب من ينوب عنه، ويجوز للمحكمة مناقشته هو إن كان مميزاً في الأمور المأذون له فيها، ويكون استجواب الشخص ذي الصفة الاعتبارية عن طريق من يمثله نظاماً. وفي جميع الأحوال يشترط أن يكون المراد استجوابه أهلاً للتصرف في الحق المتنازع فيه.",
+    "target_en": "If a litigant is fully or partially incompetent, questioning shall be directed to his representative. The court may directly question such litigant on matters wherein he is deemed competent and is authorized. Questioning of a legal person shall be directed to its legal representative. In all cases, the person to whom questioning is directed shall have the capacity to carry out the disputed right.",
+    "source_ar_norm": "اذا كان الخصم عديم الاهلية او ناقصها فيستجوب من ينوب عنه، ويجوز للمحكمة مناقشته هو ان كان مميزا في الامور الماذون له فيها، ويكون استجواب الشخص ذي الصفة الاعتبارية عن طريق من يمثله نظاما. وفي جميع الاحوال يشترط ان يكون المراد استجوابه اهلا للتصرف في الحق المتنازع فيه.",
+    "target_en_norm": "if a litigant is fully or partially incompetent, questioning shall be directed to his representative. the court may directly question such litigant on matters wherein he is deemed competent and is authorized. questioning of a legal person shall be directed to its legal representative. in all cases, the person to whom questioning is directed shall have the capacity to carry out the disputed right.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28465,
+    "source_ar": "المادة الثالثة والعشرون",
+    "target_en": "Article 23",
+    "source_ar_norm": "المادة الثالثة والعشرون",
+    "target_en_norm": "article 23",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28466,
+    "source_ar": "1. تكون الإجابة في الجلسة نفسها إلا إذا رأت المحكمة إعطاء موعد للإجابة.",
+    "target_en": "1. A litigant shall provide his answers during the same hearing, unless the court decides to set a date for such answers.",
+    "source_ar_norm": "1. تكون الاجابة في الجلسة نفسها الا اذا رات المحكمة اعطاء موعد للاجابة.",
+    "target_en_norm": "1. a litigant shall provide his answers during the same hearing, unless the court decides to set a date for such answers.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28467,
+    "source_ar": "2. تكون الإجابة في مواجهة من طلب الاستجواب، ولا يتوقف الاستجواب على حضوره.",
+    "target_en": "2. Answers shall be provided in the presence of the person requesting the questioning; however, the questioning shall not be dependent upon such person’s presence.",
+    "source_ar_norm": "2. تكون الاجابة في مواجهة من طلب الاستجواب، ولا يتوقف الاستجواب علي حضوره.",
+    "target_en_norm": "2. answers shall be provided in the presence of the person requesting the questioning; however, the questioning shall not be dependent upon such person’s presence.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28468,
+    "source_ar": "المادة الرابعة والعشرون",
+    "target_en": "Article 24",
+    "source_ar_norm": "المادة الرابعة والعشرون",
+    "target_en_norm": "article 24",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28469,
+    "source_ar": "1. للخصم الاعتراض على سؤال وجِّه إليه، وعليه أن يبين وجه اعتراضه.",
+    "target_en": "1. A litigant shall have the right to object to any question directed to him, provided he gives grounds therefor.",
+    "source_ar_norm": "1. للخصم الاعتراض علي سؤال وجه اليه، وعليه ان يبين وجه اعتراضه.",
+    "target_en_norm": "1. a litigant shall have the right to object to any question directed to him, provided he gives grounds therefor.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28470,
+    "source_ar": "2. على المحكمة منع كل سؤال غير متعلق بالدعوى أو غير منتج فيها أو غير جائز قبوله.",
+    "target_en": "2. The court shall not allow any questioning that is irrelevant, inadmissible, or immaterial to the case.",
+    "source_ar_norm": "2. علي المحكمة منع كل سؤال غير متعلق بالدعوي او غير منتج فيها او غير جائز قبوله.",
+    "target_en_norm": "2. the court shall not allow any questioning that is irrelevant, inadmissible, or immaterial to the case.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28471,
+    "source_ar": "(الباب الثالث) الكتابة (الفصل الأول) المحرَّرات الرسمية",
+    "target_en": "Part 3: Writing Chapter 1: Official Documents",
+    "source_ar_norm": "(الباب الثالث) الكتابة (الفصل الاول) المحررات الرسمية",
+    "target_en_norm": "part 3: writing chapter 1: official documents",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28472,
+    "source_ar": "المادة الخامسة والعشرون",
+    "target_en": "Article 25",
+    "source_ar_norm": "المادة الخامسة والعشرون",
+    "target_en_norm": "article 25",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28473,
+    "source_ar": "1. المحرَّر الرسمي هو الذي يثبت فيه موظف عام أو شخص مكلف بخدمة عامة، ما تم على يديه أو ما تلقاه من ذوي الشأن، طبقاً للأوضاع النظامية، وفي حدود سلطته واختصاصه.",
+    "target_en": "1. An official document is a document in which a public servant or a person assigned to public service records actions taken by him or by concerned parties as received therefrom in accordance with the law and within the limits of his powers.",
+    "source_ar_norm": "1. المحرر الرسمي هو الذي يثبت فيه موظف عام او شخص مكلف بخدمة عامة، ما تم علي يديه او ما تلقاه من ذوي الشان، طبقا للاوضاع النظامية، وفي حدود سلطته واختصاصه.",
+    "target_en_norm": "1. an official document is a document in which a public servant or a person assigned to public service records actions taken by him or by concerned parties as received therefrom in accordance with the law and within the limits of his powers.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28474,
+    "source_ar": "2. إذا لم يستوف المحرَّر الشروط الواردة في الفقرة (1) من هذه المادة فتكون له حجية المحرَّر العادي؛ متى كان ذوو الشأن قد وقعوه.",
+    "target_en": "2. If a document does not satisfy the requirements set forth in paragraph (1) of this Article, it shall have the legal effect of an ordinary document, provided that it is signed by the concerned parties.",
+    "source_ar_norm": "2. اذا لم يستوف المحرر الشروط الواردة في الفقرة (1) من هذه المادة فتكون له حجية المحرر العادي؛ متي كان ذوو الشان قد وقعوه.",
+    "target_en_norm": "2. if a document does not satisfy the requirements set forth in paragraph (1) of this article, it shall have the legal effect of an ordinary document, provided that it is signed by the concerned parties.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28475,
+    "source_ar": "المادة السادسة والعشرون",
+    "target_en": "Article 26",
+    "source_ar_norm": "المادة السادسة والعشرون",
+    "target_en_norm": "article 26",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28476,
+    "source_ar": "1. المحرَّر الرسمي حجة على الكافة بما دون فيه من أمور قام بها محرره في حدود مهمته، أو حدثت من ذوي الشأن في حضوره؛ ما لم يثبت تزويره بالطرق المقررة نظاماً.",
+    "target_en": "1. An official document shall have probative force with regards to actions recorded therein, whether such actions are taken within the limits of the duties of the person who drafted it or taken by the concerned parties in his presence, unless it is established that such document is forged.",
+    "source_ar_norm": "1. المحرر الرسمي حجة علي الكافة بما دون فيه من امور قام بها محرره في حدود مهمته، او حدثت من ذوي الشان في حضوره؛ ما لم يثبت تزويره بالطرق المقررة نظاما.",
+    "target_en_norm": "1. an official document shall have probative force with regards to actions recorded therein, whether such actions are taken within the limits of the duties of the person who drafted it or taken by the concerned parties in his presence, unless it is established that such document is forged.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28477,
+    "source_ar": "2. يكون مضمون ما ذكره أي من ذوي الشأن في المحرَّر الرسمي حجة عليه؛ ما لم يثبت غير ذلك.",
+    "target_en": "2. A statement of a concerned party recorded in an official document shall have probative force against such party, unless it is proven otherwise.",
+    "source_ar_norm": "2. يكون مضمون ما ذكره اي من ذوي الشان في المحرر الرسمي حجة عليه؛ ما لم يثبت غير ذلك.",
+    "target_en_norm": "2. a statement of a concerned party recorded in an official document shall have probative force against such party, unless it is proven otherwise.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28478,
+    "source_ar": "المادة السابعة والعشرون",
+    "target_en": "Article 27",
+    "source_ar_norm": "المادة السابعة والعشرون",
+    "target_en_norm": "article 27",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28479,
+    "source_ar": "1. إذا كان أصل المحرَّر الرسمي موجوداً، فإن صورته الرسمية تعد حجة بالقدر الذي تكون فيه مطابقة للأصل.",
+    "target_en": "1. If the original official document is available, its official copy shall have probative force to the extent that it is a true copy of the original.",
+    "source_ar_norm": "1. اذا كان اصل المحرر الرسمي موجودا، فان صورته الرسمية تعد حجة بالقدر الذي تكون فيه مطابقة للاصل.",
+    "target_en_norm": "1. if the original official document is available, its official copy shall have probative force to the extent that it is a true copy of the original.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28480,
+    "source_ar": "2. تكون الصورة رسمية إذا أخذت من الأصل؛ وفقاً للإجراءات المنظمة لذلك.",
+    "target_en": "2. A copy shall be deemed official if it is true to the original, in accordance with applicable procedures.",
+    "source_ar_norm": "2. تكون الصورة رسمية اذا اخذت من الاصل؛ وفقا للاجراءات المنظمة لذلك.",
+    "target_en_norm": "2. a copy shall be deemed official if it is true to the original, in accordance with applicable procedures.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28481,
+    "source_ar": "3. تعد الصورة الرسمية مطابقة للأصل؛ ما لم ينازع في ذلك أي من ذوي الشأن، فيجب مطابقتها للأصل.",
+    "target_en": "3. An official copy shall be deemed to be a true copy of the original, unless challenged by a concerned party; in such case, it shall be verified against the original.",
+    "source_ar_norm": "3. تعد الصورة الرسمية مطابقة للاصل؛ ما لم ينازع في ذلك اي من ذوي الشان، فيجب مطابقتها للاصل.",
+    "target_en_norm": "3. an official copy shall be deemed to be a true copy of the original, unless challenged by a concerned party; in such case, it shall be verified against the original.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28482,
+    "source_ar": "المادة الثامنة والعشرون",
+    "target_en": "Article 28",
+    "source_ar_norm": "المادة الثامنة والعشرون",
+    "target_en_norm": "article 28",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28483,
+    "source_ar": "إذا لم يوجد أصل المحرَّر الرسمي فتكون للصورة الرسمية حجية الأصل؛ متى كان مظهرها الخارجي لا يسمح بالشك في مطابقتها للأصل، وما عدا ذلك من الصور فلا يعتد بها إلا لمجرد الاستئناس.",
+    "target_en": "An official copy shall have the probative force of the official original document if the original document is not available and the copy appears to be a true copy thereof. Other copies may be considered but shall not have sufficient probative force.",
+    "source_ar_norm": "اذا لم يوجد اصل المحرر الرسمي فتكون للصورة الرسمية حجية الاصل؛ متي كان مظهرها الخارجي لا يسمح بالشك في مطابقتها للاصل، وما عدا ذلك من الصور فلا يعتد بها الا لمجرد الاستئناس.",
+    "target_en_norm": "an official copy shall have the probative force of the official original document if the original document is not available and the copy appears to be a true copy thereof. other copies may be considered but shall not have sufficient probative force.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28484,
+    "source_ar": "(الفصل الثاني) المحرَّرات العادية",
+    "target_en": "Chapter 2: Ordinary Documents",
+    "source_ar_norm": "(الفصل الثاني) المحررات العادية",
+    "target_en_norm": "chapter 2: ordinary documents",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28485,
+    "source_ar": "المادة التاسعة والعشرون",
+    "target_en": "Article 29",
+    "source_ar_norm": "المادة التاسعة والعشرون",
+    "target_en_norm": "article 29",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28486,
+    "source_ar": "1. يعد المحرَّر العادي صادراً ممن وقعه وحجة عليه؛ ما لم ينكر صراحة ما هو منسوب إليه من خط أو إمضاء أو ختم أو بصمة، أو ينكر ذلك خلَفُه أو ينفي علمه بأن الخط أو الإمضاء أو الختم أو البصمة هي لمن تلقى عنه الحق.",
+    "target_en": "1. An ordinary document shall be deemed drafted by the person who signed it and shall have probative force against him, unless he explicitly denies the handwriting, signature, seal, or fingerprint attributed to him or unless his successor explicitly denies the same or claims ignorance of the handwriting, signature, seal, or fingerprint of the person from whom he received the right.",
+    "source_ar_norm": "1. يعد المحرر العادي صادرا ممن وقعه وحجة عليه؛ ما لم ينكر صراحة ما هو منسوب اليه من خط او امضاء او ختم او بصمة، او ينكر ذلك خلفه او ينفي علمه بان الخط او الامضاء او الختم او البصمة هي لمن تلقي عنه الحق.",
+    "target_en_norm": "1. an ordinary document shall be deemed drafted by the person who signed it and shall have probative force against him, unless he explicitly denies the handwriting, signature, seal, or fingerprint attributed to him or unless his successor explicitly denies the same or claims ignorance of the handwriting, signature, seal, or fingerprint of the person from whom he received the right.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28487,
+    "source_ar": "2. من احتج عليه بمحرَّر عادي وناقش موضوعه أمام المحكمة فلا يقبل منه أن ينكر بعد ذلك صحته، أو أن يتمسك بعدم علمه بأنه صدر ممن تلقى عنه الحق.",
+    "target_en": "2. A person against whom an ordinary document is used and who discusses its substance before the court may not deny its validity thereafter nor claim ignorance of its issuance by the person from whom he received the right.",
+    "source_ar_norm": "2. من احتج عليه بمحرر عادي وناقش موضوعه امام المحكمة فلا يقبل منه ان ينكر بعد ذلك صحته، او ان يتمسك بعدم علمه بانه صدر ممن تلقي عنه الحق.",
+    "target_en_norm": "2. a person against whom an ordinary document is used and who discusses its substance before the court may not deny its validity thereafter nor claim ignorance of its issuance by the person from whom he received the right.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28488,
+    "source_ar": "المادة الثلاثون",
+    "target_en": "Article 30",
+    "source_ar_norm": "المادة الثلاثون",
+    "target_en_norm": "article 30",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28489,
+    "source_ar": "تكون للمراسلات الموقع عليها أو الثابت نسبتها إلى مرسلها؛ حجية المحرَّر العادي في الإثبات، ما لم يثبت المرسل أنه لم يرسل الرسالة ولم يكلف أحداً بإرسالها.",
+    "target_en": "Correspondence signed or established to be attributed to the sender shall have the probative force of an ordinary document, unless the sender proves that he did not send such correspondence nor delegate another person to do so.",
+    "source_ar_norm": "تكون للمراسلات الموقع عليها او الثابت نسبتها الي مرسلها؛ حجية المحرر العادي في الاثبات، ما لم يثبت المرسل انه لم يرسل الرسالة ولم يكلف احدا بارسالها.",
+    "target_en_norm": "correspondence signed or established to be attributed to the sender shall have the probative force of an ordinary document, unless the sender proves that he did not send such correspondence nor delegate another person to do so.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28490,
+    "source_ar": "المادة الحادية والثلاثون",
+    "target_en": "Article 31",
+    "source_ar_norm": "المادة الحادية والثلاثون",
+    "target_en_norm": "article 31",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28491,
+    "source_ar": "1. لا تكون دفاتر التجار حجة على غير التجار، ومع ذلك فإن البيانات المثبتة فيها تصلح أساساً يجيز للمحكمة أن توجه اليمين المتممة لمن قوي جانبه من الطرفين، وذلك فيما يجوز إثباته بشهادة الشهود.",
+    "target_en": "1. A commercial book shall not be deemed evidence against a non-merchant. However, in matters that can be established by witness testimony, the contents of such books may be used by the court as the basis for demanding a suppletory oath from the party with the most compelling argument.",
+    "source_ar_norm": "1. لا تكون دفاتر التجار حجة علي غير التجار، ومع ذلك فان البيانات المثبتة فيها تصلح اساسا يجيز للمحكمة ان توجه اليمين المتممة لمن قوي جانبه من الطرفين، وذلك فيما يجوز اثباته بشهادة الشهود.",
+    "target_en_norm": "1. a commercial book shall not be deemed evidence against a non-merchant. however, in matters that can be established by witness testimony, the contents of such books may be used by the court as the basis for demanding a suppletory oath from the party with the most compelling argument.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28492,
+    "source_ar": "2. تكون دفاتر التجار الإلزامية المنتظمة حجة لصاحبها التاجر ضد خصمه التاجر. وتسقط هذه الحجية بإثبات عكس ما ورد فيها بكافة طرق الإثبات، بما في ذلك دفاتر الخصم المنتظمة.",
+    "target_en": "2. A merchant’s mandatory and well-maintained commercial books shall constitute evidence against another merchant. However, their probative force shall be forfeited upon the provision of counter evidence by any means of proof, including the adverse litigant’s well-maintained books.",
+    "source_ar_norm": "2. تكون دفاتر التجار الالزامية المنتظمة حجة لصاحبها التاجر ضد خصمه التاجر. وتسقط هذه الحجية باثبات عكس ما ورد فيها بكافة طرق الاثبات، بما في ذلك دفاتر الخصم المنتظمة.",
+    "target_en_norm": "2. a merchant’s mandatory and well-maintained commercial books shall constitute evidence against another merchant. however, their probative force shall be forfeited upon the provision of counter evidence by any means of proof, including the adverse litigant’s well-maintained books.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28493,
+    "source_ar": "3. تكون دفاتر التجار الإلزامية -منتظمة كانت أو غير منتظمة- حجة على صاحبها التاجر فيما استند إليه خصمه التاجر أو غير التاجر؛ وفي هذه الحالة تعد القيود التي في مصلحة صاحب الدفاتر حجة له أيضاً.",
+    "target_en": "3. A merchant’s mandatory commercial books, whether well-maintained or not, shall constitute evidence against its owner if used by the adverse litigant, whether a merchant or not. In such case, entries that benefit the owner of said books shall also constitute evidence in his favor.",
+    "source_ar_norm": "3. تكون دفاتر التجار الالزامية -منتظمة كانت او غير منتظمة- حجة علي صاحبها التاجر فيما استند اليه خصمه التاجر او غير التاجر؛ وفي هذه الحالة تعد القيود التي في مصلحة صاحب الدفاتر حجة له ايضا.",
+    "target_en_norm": "3. a merchant’s mandatory commercial books, whether well-maintained or not, shall constitute evidence against its owner if used by the adverse litigant, whether a merchant or not. in such case, entries that benefit the owner of said books shall also constitute evidence in his favor.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28494,
+    "source_ar": "4. إذا استند أحد الخصمين التاجرين إلى دفاتر خصمه وسلم مقدماً بما ورد فيها وامتنع الخصم دون مسوّغ عن إبراز دفاتره أو التمكين من الاطلاع عليها؛ جاز للمحكمة توجيه اليمين المتممة لمن استند إلى الدفاتر على صحة دعواه.",
+    "target_en": "4. If a merchant uses the books of an adverse merchant as a basis for his claim and accepts the contents thereof in advance and the adverse merchant unjustifiably refuses to provide access to such books, the court may order the merchant to take a suppletory oath in support of the validity of his claim.",
+    "source_ar_norm": "4. اذا استند احد الخصمين التاجرين الي دفاتر خصمه وسلم مقدما بما ورد فيها وامتنع الخصم دون مسوغ عن ابراز دفاتره او التمكين من الاطلاع عليها؛ جاز للمحكمة توجيه اليمين المتممة لمن استند الي الدفاتر علي صحة دعواه.",
+    "target_en_norm": "4. if a merchant uses the books of an adverse merchant as a basis for his claim and accepts the contents thereof in advance and the adverse merchant unjustifiably refuses to provide access to such books, the court may order the merchant to take a suppletory oath in support of the validity of his claim.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28495,
+    "source_ar": "المادة الثانية والثلاثون",
+    "target_en": "Article 32",
+    "source_ar_norm": "المادة الثانية والثلاثون",
+    "target_en_norm": "article 32",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28496,
+    "source_ar": "لا تكون الدفاتر والأوراق الخاصة -ولو دونت رقمياً- حجة على من صدرت منه إلا في الحالتين الآتيتين:",
+    "target_en": "Personal books and papers, even if digitally recorded, may not be deemed evidence against their owner unless he:",
+    "source_ar_norm": "لا تكون الدفاتر والاوراق الخاصة -ولو دونت رقميا- حجة علي من صدرت منه الا في الحالتين الاتيتين:",
+    "target_en_norm": "personal books and papers, even if digitally recorded, may not be deemed evidence against their owner unless he:",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28497,
+    "source_ar": "1. إذا أورد فيها صراحة أنه استوفى دينه.",
+    "target_en": "1. explicitly states that his debt has been satisfied; or",
+    "source_ar_norm": "1. اذا اورد فيها صراحة انه استوفي دينه.",
+    "target_en_norm": "1. explicitly states that his debt has been satisfied; or",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28498,
+    "source_ar": "2. إذا أورد فيها صراحة أنه قصد بما دونه أن يقوم مقام السند لمن أثبت حقاً لمصلحته.",
+    "target_en": "2. explicitly states therein that their content is intended to serve as proof of debt in favor of a person for whom he has established a right.",
+    "source_ar_norm": "2. اذا اورد فيها صراحة انه قصد بما دونه ان يقوم مقام السند لمن اثبت حقا لمصلحته.",
+    "target_en_norm": "2. explicitly states therein that their content is intended to serve as proof of debt in favor of a person for whom he has established a right.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28499,
+    "source_ar": "وفي الحالتين إذا كان ما ورد من ذلك غير موقع ممن صدر عنه جاز له إثبات عكسه بكافة طرق الإثبات.",
+    "target_en": "In either case, if the information stated therein is not signed by their owner, he may prove otherwise using all evidentiary means.",
+    "source_ar_norm": "وفي الحالتين اذا كان ما ورد من ذلك غير موقع ممن صدر عنه جاز له اثبات عكسه بكافة طرق الاثبات.",
+    "target_en_norm": "in either case, if the information stated therein is not signed by their owner, he may prove otherwise using all evidentiary means.",
+    "file_name": "نظام الإثبات.docx"
+  },
+  {
+    "id": 28500,
+    "source_ar": "المادة الثالثة والثلاثون",
+    "target_en": "Article 33",
+    "source_ar_norm": "المادة الثالثة والثلاثون",
+    "target_en_norm": "article 33",
+    "file_name": "نظام الإثبات.docx"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 26701,
+    "source_ar": "نفقة كل إنسان في ماله، إلا الزوجة فنفقتها على زوجها ولو كانت موسرة.",
+    "target_en": "1. Each person shall be financially responsible for himself, except for a wife, who shall be supported by her husband, even if she is of good financial standing.",
+    "source_ar_norm": "نفقة كل انسان في ماله، الا الزوجة فنفقتها علي زوجها ولو كانت موسرة.",
+    "target_en_norm": "1. each person shall be financially responsible for himself, except for a wife, who shall be supported by her husband, even if she is of good financial standing.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26702,
+    "source_ar": "إن لم يوجد لمجهول الأبوين مال ولم يتبرع أحد بالإنفاق عليه، كانت نفقته على الدولة.",
+    "target_en": "2. If a person of unknown parentage has no money and receives no financial support, the State shall provide such support.",
+    "source_ar_norm": "ان لم يوجد لمجهول الابوين مال ولم يتبرع احد بالانفاق عليه، كانت نفقته علي الدولة.",
+    "target_en_norm": "2. if a person of unknown parentage has no money and receives no financial support, the state shall provide such support.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26703,
+    "source_ar": "المادة الخامسة والأربعون",
+    "target_en": "Article 45",
+    "source_ar_norm": "المادة الخامسة والاربعون",
+    "target_en_norm": "article 45",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26704,
+    "source_ar": "النفقة حق من حقوق المنفق عليه، وتشمل: الطعام، والكسوة، والسكن، والحاجيات الأساسية بحسب العرف وما تقرره الأحكام النظامية ذات الصلة.",
+    "target_en": "Financial support is one of the rights to which supported persons are entitled; it shall include food, clothing, and housing as well as basic necessities deemed as such according to custom and relevant statutory provisions.",
+    "source_ar_norm": "النفقة حق من حقوق المنفق عليه، وتشمل: الطعام، والكسوة، والسكن، والحاجيات الاساسية بحسب العرف وما تقرره الاحكام النظامية ذات الصلة.",
+    "target_en_norm": "financial support is one of the rights to which supported persons are entitled; it shall include food, clothing, and housing as well as basic necessities deemed as such according to custom and relevant statutory provisions.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26705,
+    "source_ar": "المادة السادسة والأربعون",
+    "target_en": "Article 46",
+    "source_ar_norm": "المادة السادسة والاربعون",
+    "target_en_norm": "article 46",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26706,
+    "source_ar": "يراعى في تقدير النفقة حال المنفَق عليه وسعةُ المنفِق.",
+    "target_en": "Financial support shall be determined in light of the supported person’s circumstances and the supporter’s financial ability.",
+    "source_ar_norm": "يراعي في تقدير النفقة حال المنفق عليه وسعة المنفق.",
+    "target_en_norm": "financial support shall be determined in light of the supported person’s circumstances and the supporter’s financial ability.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26707,
+    "source_ar": "المادة السابعة والأربعون",
+    "target_en": "Article 47",
+    "source_ar_norm": "المادة السابعة والاربعون",
+    "target_en_norm": "article 47",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26708,
+    "source_ar": "يجوز أن تكون النفقة نقداً.",
+    "target_en": "1. Financial support may be provided in the form of cash.",
+    "source_ar_norm": "يجوز ان تكون النفقة نقدا.",
+    "target_en_norm": "1. financial support may be provided in the form of cash.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26709,
+    "source_ar": "يعد من الإنفاق إتاحة المال عيناً أو منفعةً.",
+    "target_en": "2. Financial support may take the form of an in-kind payment or a benefit.",
+    "source_ar_norm": "يعد من الانفاق اتاحة المال عينا او منفعة.",
+    "target_en_norm": "2. financial support may take the form of an in-kind payment or a benefit.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26710,
+    "source_ar": "المادة الثامنة والأربعون",
+    "target_en": "Article 48",
+    "source_ar_norm": "المادة الثامنة والاربعون",
+    "target_en_norm": "article 48",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26711,
+    "source_ar": "مع مراعاة ما تقضي به المادة (السادسة والأربعون) من هذا النظام، يجوز زيادة النفقة أو إنقاصها تبعاً لتغير الأحوال.",
+    "target_en": "1. Subject to Article 46 of this Law, financial support may be increased or decreased according to changes in circumstances.",
+    "source_ar_norm": "مع مراعاة ما تقضي به المادة (السادسة والاربعون) من هذا النظام، يجوز زيادة النفقة او انقاصها تبعا لتغير الاحوال.",
+    "target_en_norm": "1. subject to article 46 of this law, financial support may be increased or decreased according to changes in circumstances.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26712,
+    "source_ar": "لا تُسمع دعوى زيادة النفقة أو إنقاصها قبل مضي (سنة) من تاريخ صدور الحكم بالنفقة إلا في الظروف الاستثنائية التي تقدرها المحكمة.",
+    "target_en": "2. A claim to increase or decrease financial support may not be heard prior to the lapse of one year from the date on which the financial support judgment is issued, save for exceptional circumstances as determined by the court.",
+    "source_ar_norm": "لا تسمع دعوي زيادة النفقة او انقاصها قبل مضي (سنة) من تاريخ صدور الحكم بالنفقة الا في الظروف الاستثنائية التي تقدرها المحكمة.",
+    "target_en_norm": "2. a claim to increase or decrease financial support may not be heard prior to the lapse of one year from the date on which the financial support judgment is issued, save for exceptional circumstances as determined by the court.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26713,
+    "source_ar": "تُحسَب زيادة النفقة أو نقصانها اعتباراً من تاريخ صدور الحكم.",
+    "target_en": "3. The increase or decrease of financial support shall take effect from the date the judgment is issued.",
+    "source_ar_norm": "تحسب زيادة النفقة او نقصانها اعتبارا من تاريخ صدور الحكم.",
+    "target_en_norm": "3. the increase or decrease of financial support shall take effect from the date the judgment is issued.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26714,
+    "source_ar": "المادة التاسعة والأربعون",
+    "target_en": "Article 49",
+    "source_ar_norm": "المادة التاسعة والاربعون",
+    "target_en_norm": "article 49",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26715,
+    "source_ar": "تستحق النفقة المستمرة للزوجة والأولاد والوالدين من تاريخ إقامة الدعوى للمطالبة بها، وتعد ديناً ممتازاً يقدم على سائر الديون بخلاف النفقة الماضية، فتخضع إلى حكم باقي الديون.",
+    "target_en": "The wife, children, and parents shall be entitled to permanent financial support as of the date of filing the claim. Said financial support shall be deemed a privileged debt with priority over all other debts; any previously unpaid financial support shall be subject to provisions governing other debts.",
+    "source_ar_norm": "تستحق النفقة المستمرة للزوجة والاولاد والوالدين من تاريخ اقامة الدعوي للمطالبة بها، وتعد دينا ممتازا يقدم علي سائر الديون بخلاف النفقة الماضية، فتخضع الي حكم باقي الديون.",
+    "target_en_norm": "the wife, children, and parents shall be entitled to permanent financial support as of the date of filing the claim. said financial support shall be deemed a privileged debt with priority over all other debts; any previously unpaid financial support shall be subject to provisions governing other debts.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26716,
+    "source_ar": "المادة الخمسون",
+    "target_en": "Article 50",
+    "source_ar_norm": "المادة الخمسون",
+    "target_en_norm": "article 50",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26717,
+    "source_ar": "تكون المطالبة بالنفقة وفق الأحكام المنظمة لذلك. وللمحكمة -عند الاقتضاء- أثناء نظرها طلباً يتعلق بنفقةٍ مستمرة، الحكم بنفقة مؤقتة لمستحقها بناء على طلبه دون حضور الطرف الآخر.",
+    "target_en": "A claim for financial support shall be filed in accordance with applicable provisions. The court may, upon hearing a claim relating to permanent financial support, order the provision of temporary financial support for the beneficiary upon his request without requiring the appearance of the other party.",
+    "source_ar_norm": "تكون المطالبة بالنفقة وفق الاحكام المنظمة لذلك. وللمحكمة -عند الاقتضاء- اثناء نظرها طلبا يتعلق بنفقة مستمرة، الحكم بنفقة مؤقتة لمستحقها بناء علي طلبه دون حضور الطرف الاخر.",
+    "target_en_norm": "a claim for financial support shall be filed in accordance with applicable provisions. the court may, upon hearing a claim relating to permanent financial support, order the provision of temporary financial support for the beneficiary upon his request without requiring the appearance of the other party.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26718,
+    "source_ar": "المادة الحادية والخمسون",
+    "target_en": "Article 51",
+    "source_ar_norm": "المادة الحادية والخمسون",
+    "target_en_norm": "article 51",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26719,
+    "source_ar": "مع مراعاة أحكام المادة (الثالثة والأربعين) من هذا النظام، تجب النفقة للزوجة على زوجها بموجب عقد الزواج الصحيح إذا مكَّنته من نفسها حقيقةً أو حكماً.",
+    "target_en": "Subject to Article 43 of this Law, a wife shall be entitled to financial support from her husband under a valid marriage contract if she enables him to consummate the marriage, whether actually or constructively.",
+    "source_ar_norm": "مع مراعاة احكام المادة (الثالثة والاربعين) من هذا النظام، تجب النفقة للزوجة علي زوجها بموجب عقد الزواج الصحيح اذا مكنته من نفسها حقيقة او حكما.",
+    "target_en_norm": "subject to article 43 of this law, a wife shall be entitled to financial support from her husband under a valid marriage contract if she enables him to consummate the marriage, whether actually or constructively.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26720,
+    "source_ar": "المادة الثانية والخمسون",
+    "target_en": "Article 52",
+    "source_ar_norm": "المادة الثانية والخمسون",
+    "target_en_norm": "article 52",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26721,
+    "source_ar": "لا يسقط حق الزوجة في النفقة إلا بالأداء أو الإبراء.",
+    "target_en": "1. A wife’s right to financial support shall be forfeited only by payment or acquittance.",
+    "source_ar_norm": "لا يسقط حق الزوجة في النفقة الا بالاداء او الابراء.",
+    "target_en_norm": "1. a wife’s right to financial support shall be forfeited only by payment or acquittance.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26722,
+    "source_ar": "لا تسمع الدعوى بنفقة الزوجة عن مدة سابقة تزيد على (سنتين) من تاريخ إقامة الدعوى.",
+    "target_en": "2. A wife’s claim for unpaid financial support shall not be heard for a period exceeding two years prior to the date of filing the claim.",
+    "source_ar_norm": "لا تسمع الدعوي بنفقة الزوجة عن مدة سابقة تزيد علي (سنتين) من تاريخ اقامة الدعوي.",
+    "target_en_norm": "2. a wife’s claim for unpaid financial support shall not be heard for a period exceeding two years prior to the date of filing the claim.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26723,
+    "source_ar": "المادة الثالثة والخمسون",
+    "target_en": "Article 53",
+    "source_ar_norm": "المادة الثالثة والخمسون",
+    "target_en_norm": "article 53",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26724,
+    "source_ar": "تجب النفقة للمعتدة من طلاق رجعي إلى حين انتهاء عدتها.",
+    "target_en": "1. A woman observing iddah following a revocable divorce shall be entitled to financial support until the end of iddah.",
+    "source_ar_norm": "تجب النفقة للمعتدة من طلاق رجعي الي حين انتهاء عدتها.",
+    "target_en_norm": "1. a woman observing iddah following a revocable divorce shall be entitled to financial support until the end of iddah.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26725,
+    "source_ar": "لا تجب النفقة للمعتدة البائن إلا إذا كانت حاملاً، فلها النفقة حتى تضع حملها.",
+    "target_en": "2. A woman observing iddah following an irrevocable divorce shall not be entitled to financial support, unless she is pregnant. In such case, she shall be entitled to financial support until giving birth.",
+    "source_ar_norm": "لا تجب النفقة للمعتدة البائن الا اذا كانت حاملا، فلها النفقة حتي تضع حملها.",
+    "target_en_norm": "2. a woman observing iddah following an irrevocable divorce shall not be entitled to financial support, unless she is pregnant. in such case, she shall be entitled to financial support until giving birth.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26726,
+    "source_ar": "المادة الرابعة والخمسون",
+    "target_en": "Article 54",
+    "source_ar_norm": "المادة الرابعة والخمسون",
+    "target_en_norm": "article 54",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26727,
+    "source_ar": "لا نفقة للمعتدة من الوفاة إلا إذا كانت حاملاً فتجب نفقتها في مال الحمل حتى تضع حملها، فإن لم يكن له مال وجبت النفقة على وارث الحمل.",
+    "target_en": "1. A woman observing iddah following the death of her husband shall not be entitled to financial support, unless she is pregnant. In such case, she shall be entitled to financial support from the unborn child’s share of the inheritance until she gives birth. If said child has no inheritance, the woman shall be entitled to financial support from the heirs of the child.",
+    "source_ar_norm": "لا نفقة للمعتدة من الوفاة الا اذا كانت حاملا فتجب نفقتها في مال الحمل حتي تضع حملها، فان لم يكن له مال وجبت النفقة علي وارث الحمل.",
+    "target_en_norm": "1. a woman observing iddah following the death of her husband shall not be entitled to financial support, unless she is pregnant. in such case, she shall be entitled to financial support from the unborn child’s share of the inheritance until she gives birth. if said child has no inheritance, the woman shall be entitled to financial support from the heirs of the child.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26728,
+    "source_ar": "يحق للمعتدة من الوفاة السكنى في بيت الزوجية مدة العدة.",
+    "target_en": "2. A woman observing iddah following the death of her husband shall be entitled to continue to reside at the matrimonial home during iddah.",
+    "source_ar_norm": "يحق للمعتدة من الوفاة السكني في بيت الزوجية مدة العدة.",
+    "target_en_norm": "2. a woman observing iddah following the death of her husband shall be entitled to continue to reside at the matrimonial home during iddah.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26729,
+    "source_ar": "المادة الخامسة والخمسون",
+    "target_en": "Article 55",
+    "source_ar_norm": "المادة الخامسة والخمسون",
+    "target_en_norm": "article 55",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26730,
+    "source_ar": "يسقط حق الزوجة في النفقة إذا منعت نفسها من الزوج، أو امتنعت عن الانتقال إلى بيت الزوجية أو المبيت فيه أو السفر مع الزوج، من دون عذر مشروع.",
+    "target_en": "A wife’s right to financial support shall be forfeited if she, without a legitimate excuse, abstains from intercourse with her husband or refuses to move to the matrimonial home or spend the night therein or travel with her husband.",
+    "source_ar_norm": "يسقط حق الزوجة في النفقة اذا منعت نفسها من الزوج، او امتنعت عن الانتقال الي بيت الزوجية او المبيت فيه او السفر مع الزوج، من دون عذر مشروع.",
+    "target_en_norm": "a wife’s right to financial support shall be forfeited if she, without a legitimate excuse, abstains from intercourse with her husband or refuses to move to the matrimonial home or spend the night therein or travel with her husband.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26731,
+    "source_ar": "المادة السادسة والخمسون",
+    "target_en": "Article 56",
+    "source_ar_norm": "المادة السادسة والخمسون",
+    "target_en_norm": "article 56",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26732,
+    "source_ar": "تسكن الزوجة مع زوجها في مسكن الزوجية المناسب، إلا إذا اشترطت في عقد الزواج خلاف ذلك.",
+    "target_en": "A wife shall reside with her husband at an appropriate matrimonial home, unless she stipulates otherwise in the marriage contract.",
+    "source_ar_norm": "تسكن الزوجة مع زوجها في مسكن الزوجية المناسب، الا اذا اشترطت في عقد الزواج خلاف ذلك.",
+    "target_en_norm": "a wife shall reside with her husband at an appropriate matrimonial home, unless she stipulates otherwise in the marriage contract.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26733,
+    "source_ar": "المادة السابعة والخمسون",
+    "target_en": "Article 57",
+    "source_ar_norm": "المادة السابعة والخمسون",
+    "target_en_norm": "article 57",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26734,
+    "source_ar": "للزوج أن يسكن مع زوجته في بيت الزوجية: أبويه، وأولاده من غيرها متى كان مكلفاً بالإنفاق عليهم، بشرط ألا يلحق الزوجة ضرر من ذلك.",
+    "target_en": "1. A husband may allow his parents and his children from another marriage to live with his wife in the matrimonial home if he is required to financially support them, provided this does not result in any harm to the wife.",
+    "source_ar_norm": "للزوج ان يسكن مع زوجته في بيت الزوجية: ابويه، واولاده من غيرها متي كان مكلفا بالانفاق عليهم، بشرط الا يلحق الزوجة ضرر من ذلك.",
+    "target_en_norm": "1. a husband may allow his parents and his children from another marriage to live with his wife in the matrimonial home if he is required to financially support them, provided this does not result in any harm to the wife.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26735,
+    "source_ar": "للزوجة أن تسكن معها في بيت الزوجية أولادها من غير الزوج إذا لم يكن لهم حاضن غيرها أو أنهم يتضررون من مفارقتها، أو إذا رضي الزوج بذلك صراحة أو ضمناً، ويحق للزوج العدول متى لحقه ضرر من ذلك.",
+    "target_en": "2. The wife’s children from a previous marriage may live with her in the matrimonial home if they have no other custodian; if they would be harmed if separated from her; or if the husband explicitly or implicitly consents thereto, and the husband may withdraw his consent if he sustains harm therefrom.",
+    "source_ar_norm": "للزوجة ان تسكن معها في بيت الزوجية اولادها من غير الزوج اذا لم يكن لهم حاضن غيرها او انهم يتضررون من مفارقتها، او اذا رضي الزوج بذلك صراحة او ضمنا، ويحق للزوج العدول متي لحقه ضرر من ذلك.",
+    "target_en_norm": "2. the wife’s children from a previous marriage may live with her in the matrimonial home if they have no other custodian; if they would be harmed if separated from her; or if the husband explicitly or implicitly consents thereto, and the husband may withdraw his consent if he sustains harm therefrom.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26736,
+    "source_ar": "إذا اشترك الزوجان في ملكية بيت الزوجية أو استئجاره أو توفيره، فليس لأي منهما أن يسكن معهما أحداً إلا برضا الطرف الآخر.",
+    "target_en": "3. If the spouses co-own or jointly rent or provide the matrimonial home, neither spouse shall accommodate any other person therein without the consent of the other spouse.",
+    "source_ar_norm": "اذا اشترك الزوجان في ملكية بيت الزوجية او استئجاره او توفيره، فليس لاي منهما ان يسكن معهما احدا الا برضا الطرف الاخر.",
+    "target_en_norm": "3. if the spouses co-own or jointly rent or provide the matrimonial home, neither spouse shall accommodate any other person therein without the consent of the other spouse.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26737,
+    "source_ar": "المادة الثامنة والخمسون",
+    "target_en": "Article 58",
+    "source_ar_norm": "المادة الثامنة والخمسون",
+    "target_en_norm": "article 58",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26738,
+    "source_ar": "تجب على الأب منفرداً نفقة الولد الذي لا مال له، إذا كان الأب موسراً أو قادراً على التكسب.",
+    "target_en": "1. A father shall be solely responsible for providing financial support to his children who have no financial resources, provided that the father is of good financial standing or is able to earn a living.",
+    "source_ar_norm": "تجب علي الاب منفردا نفقة الولد الذي لا مال له، اذا كان الاب موسرا او قادرا علي التكسب.",
+    "target_en_norm": "1. a father shall be solely responsible for providing financial support to his children who have no financial resources, provided that the father is of good financial standing or is able to earn a living.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26739,
+    "source_ar": "دون إخلال بالفقرة (1) من هذه المادة، تجب النفقة للابن إلى أن يصل إلى الحد الذي يقدر فيه أمثاله على التكسب، وللبنت إلى أن تتزوج.",
+    "target_en": "2. Without prejudice to paragraph (1) of this Article, financial support shall continue to be provided to a son until he reaches the age at which his peers are able to earn a living and to a daughter until she gets married.",
+    "source_ar_norm": "دون اخلال بالفقرة (1) من هذه المادة، تجب النفقة للابن الي ان يصل الي الحد الذي يقدر فيه امثاله علي التكسب، وللبنت الي ان تتزوج.",
+    "target_en_norm": "2. without prejudice to paragraph (1) of this article, financial support shall continue to be provided to a son until he reaches the age at which his peers are able to earn a living and to a daughter until she gets married.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26740,
+    "source_ar": "المادة التاسعة والخمسون",
+    "target_en": "Article 59",
+    "source_ar_norm": "المادة التاسعة والخمسون",
+    "target_en_norm": "article 59",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26741,
+    "source_ar": "في حال عدم إنفاق الأب الموسر أو غيابه ولم يكن له مال يمكن الإنفاق منه على الولد؛ تنفق الأم على الولد إن كانت موسرة، وإن كانت معسرة فينفق من تجب عليه النفقة في حالة عدم الأب، وتكون ديناً على الأب يرجع بها من أنفق إن كان قد نوى الرجوع على الأب حين إنفاقه.",
+    "target_en": "If a father is of good financial standing but fails to provide for his children or is absent and does not have financial resources to support them, the mother shall provide for the children if she is of good financial standing. If the mother is insolvent, financial support shall be provided by the person obligated to provide for the children if the father is destitute. Such person may, at the time of providing financial support, deem such support a debt for which the father is liable.",
+    "source_ar_norm": "في حال عدم انفاق الاب الموسر او غيابه ولم يكن له مال يمكن الانفاق منه علي الولد؛ تنفق الام علي الولد ان كانت موسرة، وان كانت معسرة فينفق من تجب عليه النفقة في حالة عدم الاب، وتكون دينا علي الاب يرجع بها من انفق ان كان قد نوي الرجوع علي الاب حين انفاقه.",
+    "target_en_norm": "if a father is of good financial standing but fails to provide for his children or is absent and does not have financial resources to support them, the mother shall provide for the children if she is of good financial standing. if the mother is insolvent, financial support shall be provided by the person obligated to provide for the children if the father is destitute. such person may, at the time of providing financial support, deem such support a debt for which the father is liable.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26742,
+    "source_ar": "ولا تُسمع دعوى الرجوع بنفقة تزيد على (سنة) سابقة لتاريخ إقامة الدعوى.",
+    "target_en": "A claim to recover the debt may not be heard for financial support provided more than one year prior to the date the claim is filed.",
+    "source_ar_norm": "ولا تسمع دعوي الرجوع بنفقة تزيد علي (سنة) سابقة لتاريخ اقامة الدعوي.",
+    "target_en_norm": "a claim to recover the debt may not be heard for financial support provided more than one year prior to the date the claim is filed.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26743,
+    "source_ar": "المادة الستون",
+    "target_en": "Article 60",
+    "source_ar_norm": "المادة الستون",
+    "target_en_norm": "article 60",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26744,
+    "source_ar": "مع مراعاة ما تقضي به المادة (التاسعة والخمسون) من هذا النظام، في حال وفاة الأب أو فقده أو إعساره، تجب نفقة الولد على من يرثه من أقاربه الموسرين بحسب أنصبتهم في الإرث منه.",
+    "target_en": "Subject to Article 59 of this Law, the financial support of a child shall, upon his father’s death, absence, or insolvency, be provided by the father’s heirs, who are of good financial standing, according to their shares in the inheritance.",
+    "source_ar_norm": "مع مراعاة ما تقضي به المادة (التاسعة والخمسون) من هذا النظام، في حال وفاة الاب او فقده او اعساره، تجب نفقة الولد علي من يرثه من اقاربه الموسرين بحسب انصبتهم في الارث منه.",
+    "target_en_norm": "subject to article 59 of this law, the financial support of a child shall, upon his father’s death, absence, or insolvency, be provided by the father’s heirs, who are of good financial standing, according to their shares in the inheritance.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26745,
+    "source_ar": "المادة الحادية والستون",
+    "target_en": "Article 61",
+    "source_ar_norm": "المادة الحادية والستون",
+    "target_en_norm": "article 61",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26746,
+    "source_ar": "يلتزم الأب بأجرة إرضاع ولده الصغير في الحولين إذا تعذر على الأم إرضاعه أو لم تعُد زوجة للأب، ويعد ذلك من النفقة.",
+    "target_en": "A father of an infant child shall pay breastfeeding costs for two years if the mother is unable to breastfeed the child or if she is no longer married to the father; such costs shall be deemed part of the financial support.",
+    "source_ar_norm": "يلتزم الاب باجرة ارضاع ولده الصغير في الحولين اذا تعذر علي الام ارضاعه او لم تعد زوجة للاب، ويعد ذلك من النفقة.",
+    "target_en_norm": "a father of an infant child shall pay breastfeeding costs for two years if the mother is unable to breastfeed the child or if she is no longer married to the father; such costs shall be deemed part of the financial support.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26747,
+    "source_ar": "المادة الثانية والستون",
+    "target_en": "Article 62",
+    "source_ar_norm": "المادة الثانية والستون",
+    "target_en_norm": "article 62",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26748,
+    "source_ar": "تجب للوالدين غير الموسرين النفقة كلها أو تكميلها على الأولاد الموسرين -بقدر إرثهم- كباراً أو صغاراً ولو كان الوالدان قادرين على التكسب.",
+    "target_en": "Full or supplementary financial support for parents who are not financially capable shall be borne by their children who are of good financial standing, each according to his share of the inheritance, irrespective of their age, even if the parents are capable of earning a living.",
+    "source_ar_norm": "تجب للوالدين غير الموسرين النفقة كلها او تكميلها علي الاولاد الموسرين -بقدر ارثهم- كبارا او صغارا ولو كان الوالدان قادرين علي التكسب.",
+    "target_en_norm": "full or supplementary financial support for parents who are not financially capable shall be borne by their children who are of good financial standing, each according to his share of the inheritance, irrespective of their age, even if the parents are capable of earning a living.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26749,
+    "source_ar": "المادة الثالثة والستون",
+    "target_en": "Article 63",
+    "source_ar_norm": "المادة الثالثة والستون",
+    "target_en_norm": "article 63",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26750,
+    "source_ar": "إذا أنفق أحد الأولاد على والديه أو أحدهما ولم ينو الرجوع على إخوته فليس له مطالبتهم.",
+    "target_en": "If a son or daughter provides financial support to either parent or both and he or she does not intend to recover such support from his or her siblings, he or she may not file a claim therefor.",
+    "source_ar_norm": "اذا انفق احد الاولاد علي والديه او احدهما ولم ينو الرجوع علي اخوته فليس له مطالبتهم.",
+    "target_en_norm": "if a son or daughter provides financial support to either parent or both and he or she does not intend to recover such support from his or her siblings, he or she may not file a claim therefor.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26751,
+    "source_ar": "فإن نوى حين إنفاقه الرجوع عليهم -فيما زاد على نصيبه- فله ذلك، على ألا تسمع الدعوى بها عن مدة سابقة تزيد على (مائة وثمانين) يوماً من تاريخ إقامة الدعوى.",
+    "target_en": "However, he or she may file such claim if, at the time of providing financial support, he or she intends to recover such support from his or her siblings in an amount exceeding his or her share of the financial support. Such claim may not be heard for financial support provided more than 180 days prior to the date the claim is filed.",
+    "source_ar_norm": "فان نوي حين انفاقه الرجوع عليهم -فيما زاد علي نصيبه- فله ذلك، علي الا تسمع الدعوي بها عن مدة سابقة تزيد علي (مائة وثمانين) يوما من تاريخ اقامة الدعوي.",
+    "target_en_norm": "however, he or she may file such claim if, at the time of providing financial support, he or she intends to recover such support from his or her siblings in an amount exceeding his or her share of the financial support. such claim may not be heard for financial support provided more than 180 days prior to the date the claim is filed.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26752,
+    "source_ar": "المادة الرابعة والستون",
+    "target_en": "Article 64",
+    "source_ar_norm": "المادة الرابعة والستون",
+    "target_en_norm": "article 64",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26753,
+    "source_ar": "دون إخلال بأحكام النفقة المتعلقة بالأولاد والوالدين الواردة في هذا النظام، تجب نفقة كل مستحق للنفقة -غير قادر على التكسب- على وارثيه الموسرين بحسب أنصبتهم في الإرث منه.",
+    "target_en": "Without prejudice to the provisions provided in this Law relating to financial support of children and parents, any person who is entitled to financial support and is unable to earn a living shall be provided for by his heirs who are of good financial standing, according to their shares in the inheritance.",
+    "source_ar_norm": "دون اخلال باحكام النفقة المتعلقة بالاولاد والوالدين الواردة في هذا النظام، تجب نفقة كل مستحق للنفقة -غير قادر علي التكسب- علي وارثيه الموسرين بحسب انصبتهم في الارث منه.",
+    "target_en_norm": "without prejudice to the provisions provided in this law relating to financial support of children and parents, any person who is entitled to financial support and is unable to earn a living shall be provided for by his heirs who are of good financial standing, according to their shares in the inheritance.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26754,
+    "source_ar": "المادة الخامسة والستون",
+    "target_en": "Article 65",
+    "source_ar_norm": "المادة الخامسة والستون",
+    "target_en_norm": "article 65",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26755,
+    "source_ar": "إذا تعدد المستحقون للنفقة، ولم يستطع من وجبت عليه الإنفاق عليهم جميعاً، تُقدم نفقة الزوجة، ثم نفقة الأولاد، ثم نفقة الوالدين؛ ثم نفقة الأقارب: الأقرب فالأقرب.",
+    "target_en": "If multiple persons are entitled to financial support and the person obligated to provide such support is unable to provide for all of them, priority in providing financial support shall be in the following order: the wife, children, parents, then other relatives according to closeness of kinship.",
+    "source_ar_norm": "اذا تعدد المستحقون للنفقة، ولم يستطع من وجبت عليه الانفاق عليهم جميعا، تقدم نفقة الزوجة، ثم نفقة الاولاد، ثم نفقة الوالدين؛ ثم نفقة الاقارب: الاقرب فالاقرب.",
+    "target_en_norm": "if multiple persons are entitled to financial support and the person obligated to provide such support is unable to provide for all of them, priority in providing financial support shall be in the following order: the wife, children, parents, then other relatives according to closeness of kinship.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26756,
+    "source_ar": "المادة السادسة والستون",
+    "target_en": "Article 66",
+    "source_ar_norm": "المادة السادسة والستون",
+    "target_en_norm": "article 66",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26757,
+    "source_ar": "مع مراعاة ما تقضي به المادة (التاسعة والخمسون) من هذا النظام، تسقط نفقة القريب بمضي المدة ما لم ينفق عليه غير من وجبت عليه بنية الرجوع، ولا تُسمع دعوى الرجوع بنفقة تزيد على (مائة وثمانين) يوماً من تاريخ إقامة الدعوى.",
+    "target_en": "Subject to Article 59 of this Law, a relative’s financial support shall be forfeited upon the lapse of the stipulated period, unless the financial support is provided by a person who is not obligated to provide such support and who intends to recover it. A recovery claim may not be heard for financial support provided more than 180 days prior to the date the claim is filed.",
+    "source_ar_norm": "مع مراعاة ما تقضي به المادة (التاسعة والخمسون) من هذا النظام، تسقط نفقة القريب بمضي المدة ما لم ينفق عليه غير من وجبت عليه بنية الرجوع، ولا تسمع دعوي الرجوع بنفقة تزيد علي (مائة وثمانين) يوما من تاريخ اقامة الدعوي.",
+    "target_en_norm": "subject to article 59 of this law, a relative’s financial support shall be forfeited upon the lapse of the stipulated period, unless the financial support is provided by a person who is not obligated to provide such support and who intends to recover it. a recovery claim may not be heard for financial support provided more than 180 days prior to the date the claim is filed.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26758,
+    "source_ar": "(الفصل الثاني) النسب",
+    "target_en": "Chapter 2: Paternity",
+    "source_ar_norm": "(الفصل الثاني) النسب",
+    "target_en_norm": "chapter 2: paternity",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26759,
+    "source_ar": "المادة السابعة والستون",
+    "target_en": "Article 67",
+    "source_ar_norm": "المادة السابعة والستون",
+    "target_en_norm": "article 67",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26760,
+    "source_ar": "مع مراعاة حكم المادة (الرابعة والثلاثين) من هذا النظام، لا يثبت نسب الولد إلى أبيه إلا بالولادة في عقد زواج صحيح أو بالإقرار أو بالبينة.",
+    "target_en": "1. Subject to Article 34 of this Law, the paternity of a child shall only be established by birth under a valid marriage contract, by acknowledgement, or by evidence.",
+    "source_ar_norm": "مع مراعاة حكم المادة (الرابعة والثلاثين) من هذا النظام، لا يثبت نسب الولد الي ابيه الا بالولادة في عقد زواج صحيح او بالاقرار او بالبينة.",
+    "target_en_norm": "1. subject to article 34 of this law, the paternity of a child shall only be established by birth under a valid marriage contract, by acknowledgement, or by evidence.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26761,
+    "source_ar": "يثبت نسب الولد إلى أمه بثبوت الولادة.",
+    "target_en": "2. The maternity of a child shall be established by proof of birth.",
+    "source_ar_norm": "يثبت نسب الولد الي امه بثبوت الولادة.",
+    "target_en_norm": "2. the maternity of a child shall be established by proof of birth.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26762,
+    "source_ar": "المادة الثامنة والستون",
+    "target_en": "Article 68",
+    "source_ar_norm": "المادة الثامنة والستون",
+    "target_en_norm": "article 68",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26763,
+    "source_ar": "يثبت نسب الولد إلى أبيه إذا ولد حال قيام عقد الزواج الصحيح أو بعد انتهائه قبل انقضاء مدة أكثر الحمل، ما لم يثبت عدم إمكان التلاقي بين الزوجين.",
+    "target_en": "1. The paternity of a child shall be established if the child is born during a valid marriage contract or after its termination but prior to the lapse of the maximum gestation period, unless it is proven that it is impossible for the spouses to be together.",
+    "source_ar_norm": "يثبت نسب الولد الي ابيه اذا ولد حال قيام عقد الزواج الصحيح او بعد انتهائه قبل انقضاء مدة اكثر الحمل، ما لم يثبت عدم امكان التلاقي بين الزوجين.",
+    "target_en_norm": "1. the paternity of a child shall be established if the child is born during a valid marriage contract or after its termination but prior to the lapse of the maximum gestation period, unless it is proven that it is impossible for the spouses to be together.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26764,
+    "source_ar": "مدة أكثر الحمل (عشرة) أشهر، وللمحكمة الحكم بخلاف ذلك بناء على تقرير طبي معتمد.",
+    "target_en": "2. The maximum gestation period is ten months; the court may rule otherwise based on a certified medical report.",
+    "source_ar_norm": "مدة اكثر الحمل (عشرة) اشهر، وللمحكمة الحكم بخلاف ذلك بناء علي تقرير طبي معتمد.",
+    "target_en_norm": "2. the maximum gestation period is ten months; the court may rule otherwise based on a certified medical report.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26765,
+    "source_ar": "المادة التاسعة والستون",
+    "target_en": "Article 69",
+    "source_ar_norm": "المادة التاسعة والستون",
+    "target_en_norm": "article 69",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26766,
+    "source_ar": "يشترط لثبوت النسب بالإقرار بالبنوة ولو في مرض الموت الآتي:",
+    "target_en": "For the establishment of paternity through acknowledgement, even during a fatal illness, the following conditions must be satisfied:",
+    "source_ar_norm": "يشترط لثبوت النسب بالاقرار بالبنوة ولو في مرض الموت الاتي:",
+    "target_en_norm": "for the establishment of paternity through acknowledgement, even during a fatal illness, the following conditions must be satisfied:",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26767,
+    "source_ar": "أن يكون المقر بالغاً عاقلاً مختاراً.",
+    "target_en": "1. The acknowledging person is an adult who is of sound mind and acting out of his own volition.",
+    "source_ar_norm": "ان يكون المقر بالغا عاقلا مختارا.",
+    "target_en_norm": "1. the acknowledging person is an adult who is of sound mind and acting out of his own volition.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26768,
+    "source_ar": "أن يكون الولد مجهول النسب.",
+    "target_en": "2. The child is of unknown parentage.",
+    "source_ar_norm": "ان يكون الولد مجهول النسب.",
+    "target_en_norm": "2. the child is of unknown parentage.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26769,
+    "source_ar": "أن يصدقه المقر له إن كان بالغاً عاقلاً.",
+    "target_en": "3. The acknowledged child accepts the acknowledgment, if the child is an adult of sound mind.",
+    "source_ar_norm": "ان يصدقه المقر له ان كان بالغا عاقلا.",
+    "target_en_norm": "3. the acknowledged child accepts the acknowledgment, if the child is an adult of sound mind.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26770,
+    "source_ar": "أن يكون فارق السن بين المقر والولد يحتمل صدق الإقرار.",
+    "target_en": "4. The age difference between the acknowledging person and the acknowledged child makes the acknowledgement plausible.",
+    "source_ar_norm": "ان يكون فارق السن بين المقر والولد يحتمل صدق الاقرار.",
+    "target_en_norm": "4. the age difference between the acknowledging person and the acknowledged child makes the acknowledgement plausible.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26771,
+    "source_ar": "أن يثبت أن الولادة في عقد زواج صحيح أو فاسد، إذا كان الإقرار من الأب.",
+    "target_en": "5. It is established that the child is born under a valid or defective marriage contract, if the acknowledgement is made by the father.",
+    "source_ar_norm": "ان يثبت ان الولادة في عقد زواج صحيح او فاسد، اذا كان الاقرار من الاب.",
+    "target_en_norm": "5. it is established that the child is born under a valid or defective marriage contract, if the acknowledgement is made by the father.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26772,
+    "source_ar": "أن يثبت الانتساب بفحص الحمض النووي.",
+    "target_en": "6. Paternity is established by a DNA test.",
+    "source_ar_norm": "ان يثبت الانتساب بفحص الحمض النووي.",
+    "target_en_norm": "6. paternity is established by a dna test.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26773,
+    "source_ar": "المادة السبعون",
+    "target_en": "Article 70",
+    "source_ar_norm": "المادة السبعون",
+    "target_en_norm": "article 70",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26774,
+    "source_ar": "للمحكمة في الأحوال الاستثنائية، أو عند التنازع في إثبات نسب الولد، أو بناءً على طلب جهة مختصة، أن تأمر بإجراء فحص الحمض النووي، وذلك وفق القواعد المنظمة لذلك، وعلى المحكمة أن تحكم بما تنتهي إليه نتيجة الفحص، على ألا تصدر المحكمة أمرها إلا بعد التحقق مما يأتي:",
+    "target_en": "The court may, in exceptional cases, in disputes over establishing the paternity of a child, or at the request of a competent agency, order a DNA test in accordance with applicable rules. The court shall rule on the basis of the test results, provided that said ruling is issued upon verification of the following:",
+    "source_ar_norm": "للمحكمة في الاحوال الاستثنائية، او عند التنازع في اثبات نسب الولد، او بناء علي طلب جهة مختصة، ان تامر باجراء فحص الحمض النووي، وذلك وفق القواعد المنظمة لذلك، وعلي المحكمة ان تحكم بما تنتهي اليه نتيجة الفحص، علي الا تصدر المحكمة امرها الا بعد التحقق مما ياتي:",
+    "target_en_norm": "the court may, in exceptional cases, in disputes over establishing the paternity of a child, or at the request of a competent agency, order a dna test in accordance with applicable rules. the court shall rule on the basis of the test results, provided that said ruling is issued upon verification of the following:",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26775,
+    "source_ar": "أن يكون الولد مجهول النسب.",
+    "target_en": "1. The child is of unknown parentage.",
+    "source_ar_norm": "ان يكون الولد مجهول النسب.",
+    "target_en_norm": "1. the child is of unknown parentage.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26776,
+    "source_ar": "أن يكون فارق السن يحتمل نسبة الولد.",
+    "target_en": "2. The age difference makes paternity of the child plausible.",
+    "source_ar_norm": "ان يكون فارق السن يحتمل نسبة الولد.",
+    "target_en_norm": "2. the age difference makes paternity of the child plausible.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26777,
+    "source_ar": "المادة الحادية والسبعون",
+    "target_en": "Article 71",
+    "source_ar_norm": "المادة الحادية والسبعون",
+    "target_en_norm": "article 71",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26778,
+    "source_ar": "إذا كان المقِرُّ امرأة فلا يثبت نسب الولد من زوجها الحالي أو السابق إلا بإقراره وفق الشروط الواردة في المادة (التاسعة والستين) من هذا النظام، أو قامت البينة على أن الولادة كانت في عقد زواج صحيح أو فاسد.",
+    "target_en": "If the acknowledging person is a woman, the paternity of a child from her current or former husband may not be established unless the husband acknowledges the paternity pursuant to the conditions provided for in Article 69 of this Law, or if it is proven that the birth occurred under a valid or defective marriage contract.",
+    "source_ar_norm": "اذا كان المقر امراة فلا يثبت نسب الولد من زوجها الحالي او السابق الا باقراره وفق الشروط الواردة في المادة (التاسعة والستين) من هذا النظام، او قامت البينة علي ان الولادة كانت في عقد زواج صحيح او فاسد.",
+    "target_en_norm": "if the acknowledging person is a woman, the paternity of a child from her current or former husband may not be established unless the husband acknowledges the paternity pursuant to the conditions provided for in article 69 of this law, or if it is proven that the birth occurred under a valid or defective marriage contract.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26779,
+    "source_ar": "المادة الثانية والسبعون",
+    "target_en": "Article 72",
+    "source_ar_norm": "المادة الثانية والسبعون",
+    "target_en_norm": "article 72",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26780,
+    "source_ar": "إذا ثبت النسب وفقاً لما تقضي به المادة (السابعة والستون) من هذا النظام، فلا تسمع الدعوى بنفيه.",
+    "target_en": "If paternity is established in accordance with the provisions of Article 67 of this Law, a claim denying paternity may not be heard.",
+    "source_ar_norm": "اذا ثبت النسب وفقا لما تقضي به المادة (السابعة والستون) من هذا النظام، فلا تسمع الدعوي بنفيه.",
+    "target_en_norm": "if paternity is established in accordance with the provisions of article 67 of this law, a claim denying paternity may not be heard.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26781,
+    "source_ar": "المادة الثالثة والسبعون",
+    "target_en": "Article 73",
+    "source_ar_norm": "المادة الثالثة والسبعون",
+    "target_en_norm": "article 73",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26782,
+    "source_ar": "في الأحوال التي يثبت فيها نسب الولد بالولادة في عقد الزواج، فليس للرجل أن ينفي نسب الولد إليه إلا باللعان من خلال التقدم بدعوى، إذا توافر الشرطان الآتيان:",
+    "target_en": "In cases in which the paternity of a child is established by birth under a marriage contract, a man may not deny the paternity of a child except by filing a li’an claim, provided that the following two conditions are satisfied:",
+    "source_ar_norm": "في الاحوال التي يثبت فيها نسب الولد بالولادة في عقد الزواج، فليس للرجل ان ينفي نسب الولد اليه الا باللعان من خلال التقدم بدعوي، اذا توافر الشرطان الاتيان:",
+    "target_en_norm": "in cases in which the paternity of a child is established by birth under a marriage contract, a man may not deny the paternity of a child except by filing a li’an claim, provided that the following two conditions are satisfied:",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26783,
+    "source_ar": "أن يتم تقديم الدعوى خلال (خمسة عشر) يوماً من تاريخ علمه بالولادة.",
+    "target_en": "1. The claim is filed within 15 days from the date he becomes aware of the birth.",
+    "source_ar_norm": "ان يتم تقديم الدعوي خلال (خمسة عشر) يوما من تاريخ علمه بالولادة.",
+    "target_en_norm": "1. the claim is filed within 15 days from the date he becomes aware of the birth.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26784,
+    "source_ar": "ألا يتقدم النفي إقرار بأبوته صراحة أو ضمناً.",
+    "target_en": "2. The denial is not preceded by an explicit or implicit acknowledgement of his paternity of the child.",
+    "source_ar_norm": "الا يتقدم النفي اقرار بابوته صراحة او ضمنا.",
+    "target_en_norm": "2. the denial is not preceded by an explicit or implicit acknowledgement of his paternity of the child.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26785,
+    "source_ar": "المادة الرابعة والسبعون",
+    "target_en": "Article 74",
+    "source_ar_norm": "المادة الرابعة والسبعون",
+    "target_en_norm": "article 74",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26786,
+    "source_ar": "إذا رفعت دعوى لعان لنفي نسب الولد، فتنظر المحكمة فيها بعد إجراء فحص الحمض النووي بناءً على أمر المحكمة، إذا وافقت المرأة على إجرائه.",
+    "target_en": "1. If a li’an claim is filed to deny the paternity of a child, the court shall hear such claim after a DNA test is conducted based on its order, provided the woman agrees to the test.",
+    "source_ar_norm": "اذا رفعت دعوي لعان لنفي نسب الولد، فتنظر المحكمة فيها بعد اجراء فحص الحمض النووي بناء علي امر المحكمة، اذا وافقت المراة علي اجرائه.",
+    "target_en_norm": "1. if a li’an claim is filed to deny the paternity of a child, the court shall hear such claim after a dna test is conducted based on its order, provided the woman agrees to the test.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26787,
+    "source_ar": "إذا لم توافق المرأة على إجراء فحص الحمض النووي، فتستكمل المحكمة النظر في دعوى اللعان بدونه.",
+    "target_en": "2. If the woman does not agree to a DNA test, the court shall continue to hear the li’an claim without conducting the test.",
+    "source_ar_norm": "اذا لم توافق المراة علي اجراء فحص الحمض النووي، فتستكمل المحكمة النظر في دعوي اللعان بدونه.",
+    "target_en_norm": "2. if the woman does not agree to a dna test, the court shall continue to hear the li’an claim without conducting the test.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26788,
+    "source_ar": "يكون اللعان لنفي نسب الولد أمام المحكمة وفق الصيغة المقررة شرعاً، وإذا حلف الرجل أيمان اللعان وامتنعت المرأة عن أدائه، فتحكم المحكمة من دون أيمانها.",
+    "target_en": "3. A li’an to deny the paternity of a child before the court shall be made in accordance with Sharia-prescribed wording. If the man makes an oath of li’an and the woman refuses to do the same, the court shall issue its ruling without her oath.",
+    "source_ar_norm": "يكون اللعان لنفي نسب الولد امام المحكمة وفق الصيغة المقررة شرعا، واذا حلف الرجل ايمان اللعان وامتنعت المراة عن ادائه، فتحكم المحكمة من دون ايمانها.",
+    "target_en_norm": "3. a li’an to deny the paternity of a child before the court shall be made in accordance with sharia-prescribed wording. if the man makes an oath of li’an and the woman refuses to do the same, the court shall issue its ruling without her oath.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26789,
+    "source_ar": "المادة الخامسة والسبعون",
+    "target_en": "Article 75",
+    "source_ar_norm": "المادة الخامسة والسبعون",
+    "target_en_norm": "article 75",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26790,
+    "source_ar": "يترتب على اللعان -مع مراعاة نتيجة فحص الحمض النووي وفقاً لأحكام المادة (الرابعة والسبعين) من هذا النظام- انتفاء نسب الولد، ويثبت نسب الولد ولو بعد الحكم بنفيه إذا أكذب الرجل نفسه، ولا يقبل منه نفيه بعد ذلك.",
+    "target_en": "A li’an shall, subject to the results of the DNA test conducted in accordance with the provisions of Article 74 of this Law, entail negation of the paternity of a child. The paternity of a child shall be established even after a ruling of negation is made thereon if the man recants his oath; in such case, any recantation made thereafter shall not be accepted.",
+    "source_ar_norm": "يترتب علي اللعان -مع مراعاة نتيجة فحص الحمض النووي وفقا لاحكام المادة (الرابعة والسبعين) من هذا النظام- انتفاء نسب الولد، ويثبت نسب الولد ولو بعد الحكم بنفيه اذا اكذب الرجل نفسه، ولا يقبل منه نفيه بعد ذلك.",
+    "target_en_norm": "a li’an shall, subject to the results of the dna test conducted in accordance with the provisions of article 74 of this law, entail negation of the paternity of a child. the paternity of a child shall be established even after a ruling of negation is made thereon if the man recants his oath; in such case, any recantation made thereafter shall not be accepted.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26791,
+    "source_ar": "(الباب الثالث) الفرقة بين الزوجين (الفصل الأول) أحكام عامة للفرقة",
+    "target_en": "Part 3: Separation of Spouses Chapter 1: General Provisions of Separation",
+    "source_ar_norm": "(الباب الثالث) الفرقة بين الزوجين (الفصل الاول) احكام عامة للفرقة",
+    "target_en_norm": "part 3: separation of spouses chapter 1: general provisions of separation",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26792,
+    "source_ar": "المادة السادسة والسبعون",
+    "target_en": "Article 76",
+    "source_ar_norm": "المادة السادسة والسبعون",
+    "target_en_norm": "article 76",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26793,
+    "source_ar": "تحصل الفرقة بين الزوجين في أي من الحالات الآتية:",
+    "target_en": "Separation of spouses shall occur in the following cases:",
+    "source_ar_norm": "تحصل الفرقة بين الزوجين في اي من الحالات الاتية:",
+    "target_en_norm": "separation of spouses shall occur in the following cases:",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26794,
+    "source_ar": "الطلاق.",
+    "target_en": "1. Divorce.",
+    "source_ar_norm": "الطلاق.",
+    "target_en_norm": "1. divorce.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26795,
+    "source_ar": "الخُلع.",
+    "target_en": "2. Khul’ (divorce at the request of the wife).",
+    "source_ar_norm": "الخلع.",
+    "target_en_norm": "2. khul’ (divorce at the request of the wife).",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26796,
+    "source_ar": "فسخ عقد الزواج.",
+    "target_en": "3. Dissolution of the marriage contract.",
+    "source_ar_norm": "فسخ عقد الزواج.",
+    "target_en_norm": "3. dissolution of the marriage contract.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26797,
+    "source_ar": "وفاة أحد الزوجين.",
+    "target_en": "4. Death of either spouse.",
+    "source_ar_norm": "وفاة احد الزوجين.",
+    "target_en_norm": "4. death of either spouse.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26798,
+    "source_ar": "اللعان بين الزوجين.",
+    "target_en": "5. Oath of li’an made by the spouses.",
+    "source_ar_norm": "اللعان بين الزوجين.",
+    "target_en_norm": "5. oath of li’an made by the spouses.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26799,
+    "source_ar": "(الفصل الثاني) الطلاق",
+    "target_en": "Chapter 2: Divorce",
+    "source_ar_norm": "(الفصل الثاني) الطلاق",
+    "target_en_norm": "chapter 2: divorce",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 26800,
+    "source_ar": "المادة السابعة والسبعون",
+    "target_en": "Article 77",
+    "source_ar_norm": "المادة السابعة والسبعون",
+    "target_en_norm": "article 77",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  }
+]

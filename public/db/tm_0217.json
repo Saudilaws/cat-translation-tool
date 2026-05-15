@@ -1,0 +1,802 @@
+[
+  {
+    "id": 21601,
+    "source_ar": "4- ترتب المرافقات المطلوب أن تكون مرافقة للرسالة وفقاً لسير إجرائها تاريخياً وترابط موضوعاتها.",
+    "target_en": "4. Attachments to a message shall be arranged in chronological order and according to their subjects.",
+    "source_ar_norm": "4- ترتب المرافقات المطلوب ان تكون مرافقة للرسالة وفقا لسير اجرائها تاريخيا وترابط موضوعاتها.",
+    "target_en_norm": "4. attachments to a message shall be arranged in chronological order and according to their subjects.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21602,
+    "source_ar": "5- تنظم المرافقات بحيث تتساوى أطرافها من أعلى الجهة اليمنى.",
+    "target_en": "5. Attachments shall be arranged so that they are aligned at the top right corner.",
+    "source_ar_norm": "5- تنظم المرافقات بحيث تتساوي اطرافها من اعلي الجهة اليمني.",
+    "target_en_norm": "5. attachments shall be arranged so that they are aligned at the top right corner.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21603,
+    "source_ar": "6- تمسك المرافقات بالماسكة المناسبة من أعلى الزاوية اليمنى المتساوية أطرافها.",
+    "target_en": "6. Attachments shall be held together at the top right corner using an appropriate clip.",
+    "source_ar_norm": "6- تمسك المرافقات بالماسكة المناسبة من اعلي الزاوية اليمني المتساوية اطرافها.",
+    "target_en_norm": "6. attachments shall be held together at the top right corner using an appropriate clip.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21604,
+    "source_ar": "7- ترقم المرافقات من الخلف تسلسلياً بدءاً من أول ورقة وانتهاءً بآخر ورقة تلي الرسالة، ويكون الترقيم في أسفل الزاوية اليمنى من الورقة.",
+    "target_en": "7. Attachments shall be numbered sequentially on the back, starting from the first to the last sheet of paper following the message. The number shall be placed at the bottom right corner of the paper.",
+    "source_ar_norm": "7- ترقم المرافقات من الخلف تسلسليا بدءا من اول ورقة وانتهاء باخر ورقة تلي الرسالة، ويكون الترقيم في اسفل الزاوية اليمني من الورقة.",
+    "target_en_norm": "7. attachments shall be numbered sequentially on the back, starting from the first to the last sheet of paper following the message. the number shall be placed at the bottom right corner of the paper.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21605,
+    "source_ar": "8- تدون المعلومات اللازمة عن كل مرافق في نموذج الفهرس وفقاً للحقول التي اشتمل عليها الفهرس.",
+    "target_en": "8. The necessary information for each attachment shall be recorded in the index form according to the fields included therein.",
+    "source_ar_norm": "8- تدون المعلومات اللازمة عن كل مرافق في نموذج الفهرس وفقا للحقول التي اشتمل عليها الفهرس.",
+    "target_en_norm": "8. the necessary information for each attachment shall be recorded in the index form according to the fields included therein.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21606,
+    "source_ar": "9- إذا كان ضمن المرافقات واحداً (أو أكثر) من مجلد أو محضر أو وقوعات أو تحقيقات، أو كتاب أو ظرف مختوم أو طرد أو مواد صلبة ونحوها، فيعد مرافقاً واحداً ضمن عدد المرافقات في الفهرس، وتوضح تفاصيل الأوراق التي داخل الظرف أو الطرد في الفهرس الخاص به الموجود في داخله.",
+    "target_en": "9. If attachments include one or more volumes, minutes, incident reports, investigation reports, books, stamped envelopes, parcels, solid materials, or the like, said items shall be deemed a single attachment in the index, and the details of the papers inside an envelope or parcel shall be indicated in the index contained therein.",
+    "source_ar_norm": "9- اذا كان ضمن المرافقات واحدا (او اكثر) من مجلد او محضر او وقوعات او تحقيقات، او كتاب او ظرف مختوم او طرد او مواد صلبة ونحوها، فيعد مرافقا واحدا ضمن عدد المرافقات في الفهرس، وتوضح تفاصيل الاوراق التي داخل الظرف او الطرد في الفهرس الخاص به الموجود في داخله.",
+    "target_en_norm": "9. if attachments include one or more volumes, minutes, incident reports, investigation reports, books, stamped envelopes, parcels, solid materials, or the like, said items shall be deemed a single attachment in the index, and the details of the papers inside an envelope or parcel shall be indicated in the index contained therein.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21607,
+    "source_ar": "10- إذا كان من المرافقات وثيقة تتكون من صفحتين أو أكثر ترقم كل صفحة منها.",
+    "target_en": "10. If the attachments include a document comprising two pages or more, each page shall be numbered.",
+    "source_ar_norm": "10- اذا كان من المرافقات وثيقة تتكون من صفحتين او اكثر ترقم كل صفحة منها.",
+    "target_en_norm": "10. if the attachments include a document comprising two pages or more, each page shall be numbered.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21608,
+    "source_ar": "11- يربط أو يلصق بالطرد بطاقة (بحسب الحالة) تدون عليها المعلومات اللازمة عنه، ومنها: اسم المرسل، والمرسل إليه وعنوانه الوطني، ورقم الصادر وتاريخه. وتختم بخاتم الجهاز.",
+    "target_en": "11. A label shall be attached or affixed to a parcel, as the case may be. Such label shall include the information of the parcel, such as the sender’s name, the addressee’s name and national address, and the number and date of the outgoing correspondence, and shall be stamped with the agency's stamp.",
+    "source_ar_norm": "11- يربط او يلصق بالطرد بطاقة (بحسب الحالة) تدون عليها المعلومات اللازمة عنه، ومنها: اسم المرسل، والمرسل اليه وعنوانه الوطني، ورقم الصادر وتاريخه. وتختم بخاتم الجهاز.",
+    "target_en_norm": "11. a label shall be attached or affixed to a parcel, as the case may be. such label shall include the information of the parcel, such as the sender’s name, the addressee’s name and national address, and the number and date of the outgoing correspondence, and shall be stamped with the agency's stamp.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21609,
+    "source_ar": "12- يعد الفهرس موظف مختص في الوحدة الإدارية التي عالجت الرسالة أو أعدتها.",
+    "target_en": "12. The index shall be prepared by the designated employee at the administrative unit in charge of processing or preparing the message.",
+    "source_ar_norm": "12- يعد الفهرس موظف مختص في الوحدة الادارية التي عالجت الرسالة او اعدتها.",
+    "target_en_norm": "12. the index shall be prepared by the designated employee at the administrative unit in charge of processing or preparing the message.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21610,
+    "source_ar": "13- تضيف الوحدات الإدارية، التي تنتقل إليها الرسالة، بيانات المرافقات الجديدة للرسالة إلى فهرسها وفق خط سيرها.",
+    "target_en": "13. Administrative units to which a message is transferred shall add the information of any new attachments to its index as per the message route.",
+    "source_ar_norm": "13- تضيف الوحدات الادارية، التي تنتقل اليها الرسالة، بيانات المرافقات الجديدة للرسالة الي فهرسها وفق خط سيرها.",
+    "target_en_norm": "13. administrative units to which a message is transferred shall add the information of any new attachments to its index as per the message route.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21611,
+    "source_ar": "14- يدون عدد المرافقات على الرسالة الموقعة والنسخة المركنة في الحقل المخصص لها رقماً لا كتابة.",
+    "target_en": "14. The number of attachments shall be written on the signed message and the duplicate marked with reference initials in the designated field in numbers, not in words.",
+    "source_ar_norm": "14- يدون عدد المرافقات علي الرسالة الموقعة والنسخة المركنة في الحقل المخصص لها رقما لا كتابة.",
+    "target_en_norm": "14. the number of attachments shall be written on the signed message and the duplicate marked with reference initials in the designated field in numbers, not in words.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21612,
+    "source_ar": "15- إذا سُحبت وثيقة من المرافقات لأي سبب، فتجب الإشارة إلى سبب ذلك في الفهرس وإعداد ملاحظة تحدد مصيرها وتوقيع المختص، وتوضع في مكان المرافقات المسحوبة.",
+    "target_en": "15. If a document is removed from the attachments for any reason, the cause of such removal shall be indicated in the index. A note shall be made and signed by the designated employee to specify the action taken on the removed document; such note shall be attached in its place.",
+    "source_ar_norm": "15- اذا سحبت وثيقة من المرافقات لاي سبب، فتجب الاشارة الي سبب ذلك في الفهرس واعداد ملاحظة تحدد مصيرها وتوقيع المختص، وتوضع في مكان المرافقات المسحوبة.",
+    "target_en_norm": "15. if a document is removed from the attachments for any reason, the cause of such removal shall be indicated in the index. a note shall be made and signed by the designated employee to specify the action taken on the removed document; such note shall be attached in its place.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21613,
+    "source_ar": "16- إذا غُيّر الفهرس لأي سبب فيجب الاحتفاظ بالفهرس القديم في المعاملة مرافقاً للفهرس الجديد، ويكتب عليه بما يفيد التغيير أو الإلغاء أو التعديل.",
+    "target_en": "16. If the index is changed for any reason, the old index, along with the new index, shall be attached to the casefile and a note indicating the change, cancellation, or amendment shall be made thereon.",
+    "source_ar_norm": "16- اذا غير الفهرس لاي سبب فيجب الاحتفاظ بالفهرس القديم في المعاملة مرافقا للفهرس الجديد، ويكتب عليه بما يفيد التغيير او الالغاء او التعديل.",
+    "target_en_norm": "16. if the index is changed for any reason, the old index, along with the new index, shall be attached to the casefile and a note indicating the change, cancellation, or amendment shall be made thereon.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21614,
+    "source_ar": "17- إذا كان من ضمن المرافقات وثائق تالفة أو ممزقة أو ملوثة، فيعد في ذلك محضر يُثبت الحالة.",
+    "target_en": "17. If the attachments include damaged, torn, or contaminated documents, a report to this effect shall be made.",
+    "source_ar_norm": "17- اذا كان من ضمن المرافقات وثائق تالفة او ممزقة او ملوثة، فيعد في ذلك محضر يثبت الحالة.",
+    "target_en_norm": "17. if the attachments include damaged, torn, or contaminated documents, a report to this effect shall be made.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21615,
+    "source_ar": "18- إذا كان من المرافقات أشياء ثمينة كالنقود أو المجوهرات ونحو ذلك، فيجب أن يستخدم لها وعاء حفظ آمن ومحكم، ويوضح ذلك في الرسالة والفهرس.",
+    "target_en": "18. If the attachments include valuable items, such as cash or jewelry and the like, a safe and secure storage container must be used; a note to this effect shall be made in the message and index.",
+    "source_ar_norm": "18- اذا كان من المرافقات اشياء ثمينة كالنقود او المجوهرات ونحو ذلك، فيجب ان يستخدم لها وعاء حفظ امن ومحكم، ويوضح ذلك في الرسالة والفهرس.",
+    "target_en_norm": "18. if the attachments include valuable items, such as cash or jewelry and the like, a safe and secure storage container must be used; a note to this effect shall be made in the message and index.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21616,
+    "source_ar": "19- يجب أن يتضمن نموذج فهرس مرافقات المعاملة الإشارة -باختصار- إلى عنوانها في أعلى الفهرس، وعدداً من الحقول تتضمن تسلسل بنود الفهرس ونوع المرفق ورقمه وتاريخه وعدد الصفحات وكمياته، وترتيب المرافق بين المرافقات وجهة صدوره، واسم من دونها وتوقيعه.",
+    "target_en": "19. The casefile attachment index form shall include a brief reference to its title at the top of the index, and a number of fields indicating the sequence of index items; the type, number, and date of the attachment as well as its quantities, number of pages, and order; the issuing entity; and the name and signature of the person who filled the form.",
+    "source_ar_norm": "19- يجب ان يتضمن نموذج فهرس مرافقات المعاملة الاشارة -باختصار- الي عنوانها في اعلي الفهرس، وعددا من الحقول تتضمن تسلسل بنود الفهرس ونوع المرفق ورقمه وتاريخه وعدد الصفحات وكمياته، وترتيب المرافق بين المرافقات وجهة صدوره، واسم من دونها وتوقيعه.",
+    "target_en_norm": "19. the casefile attachment index form shall include a brief reference to its title at the top of the index, and a number of fields indicating the sequence of index items; the type, number, and date of the attachment as well as its quantities, number of pages, and order; the issuing entity; and the name and signature of the person who filled the form.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21617,
+    "source_ar": "20- يسترشد بالملحق رقم (2) لفهرس المعاملة، والملحق رقم (3) لإيضاحات استخدامه؛ المرافقين لملاحق هذه اللائحة.",
+    "target_en": "20. Annex No. (2) and Annex No. (3) attached to these Regulations shall be used as a guide for the casefile index and the use thereof, respectively.",
+    "source_ar_norm": "20- يسترشد بالملحق رقم (2) لفهرس المعاملة، والملحق رقم (3) لايضاحات استخدامه؛ المرافقين لملاحق هذه اللائحة.",
+    "target_en_norm": "20. annex no. (2) and annex no. (3) attached to these regulations shall be used as a guide for the casefile index and the use thereof, respectively.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21618,
+    "source_ar": "عاشراً: المراسلات الواردة",
+    "target_en": "Tenth: Incoming Correspondence",
+    "source_ar_norm": "عاشرا: المراسلات الواردة",
+    "target_en_norm": "tenth: incoming correspondence",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21619,
+    "source_ar": "المادة التاسعة عشرة:",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة:",
+    "target_en_norm": "article 19",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21620,
+    "source_ar": "تقسم سجلات الوارد إلى ثلاثة سجلات، تعطى الرموز (3،2،1) وفقاً للترتيب الآتي:",
+    "target_en": "There shall be three registers for incoming correspondence which shall be assigned the code numbers (1), (2), or (3), as follows:",
+    "source_ar_norm": "تقسم سجلات الوارد الي ثلاثة سجلات، تعطي الرموز (3،2،1) وفقا للترتيب الاتي:",
+    "target_en_norm": "there shall be three registers for incoming correspondence which shall be assigned the code numbers (1), (2), or (3), as follows:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21621,
+    "source_ar": "1- الرمز رقم (1)، ويعطى للمراسلات الواردة التي يختص بها مكتب الوزير أو رئيس الجهاز المستقل أو من في حكمهما، والتي تعالج في المكتب نفسه.",
+    "target_en": "1. Code number (1) shall be assigned to incoming correspondence which falls within the purview of the office of the minister or the head of the independent agency, or any person of similar status, and which shall be processed thereby.",
+    "source_ar_norm": "1- الرمز رقم (1)، ويعطي للمراسلات الواردة التي يختص بها مكتب الوزير او رئيس الجهاز المستقل او من في حكمهما، والتي تعالج في المكتب نفسه.",
+    "target_en_norm": "1. code number (1) shall be assigned to incoming correspondence which falls within the purview of the office of the minister or the head of the independent agency, or any person of similar status, and which shall be processed thereby.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21622,
+    "source_ar": "2- الرمز رقم (2)، ويعطى للمراسلات الواردة المتعلقة بالمهمات والوظائف والأنشطة -الأساسية والمساعدة- التي تعالجها الوحدات الإدارية للجهاز.",
+    "target_en": "2. Code number (2) shall be assigned to incoming correspondence relating to the primary and supporting tasks, functions, and activities processed by the agency’s administrative units.",
+    "source_ar_norm": "2- الرمز رقم (2)، ويعطي للمراسلات الواردة المتعلقة بالمهمات والوظائف والانشطة -الاساسية والمساعدة- التي تعالجها الوحدات الادارية للجهاز.",
+    "target_en_norm": "2. code number (2) shall be assigned to incoming correspondence relating to the primary and supporting tasks, functions, and activities processed by the agency’s administrative units.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21623,
+    "source_ar": "3- الرمز رقم (3)، ويعطى للمراسلات الواردة المتعلقة بالوظائف والأنشطة المساعدة للجهاز، والتي تعالجها الوحدات الإدارية المساعدة.",
+    "target_en": "3. Code number (3) shall be assigned to incoming correspondence relating to the agency’s supporting functions and activities processed by supporting administrative units.",
+    "source_ar_norm": "3- الرمز رقم (3)، ويعطي للمراسلات الواردة المتعلقة بالوظائف والانشطة المساعدة للجهاز، والتي تعالجها الوحدات الادارية المساعدة.",
+    "target_en_norm": "3. code number (3) shall be assigned to incoming correspondence relating to the agency’s supporting functions and activities processed by supporting administrative units.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21624,
+    "source_ar": "4- يوضع رمز سجل المراسلات الواردة بعد رقم قيد الوارد ويفصل بينهما بخط مائل.",
+    "target_en": "4. The code of the incoming correspondence register shall be placed after the incoming correspondence registration number; the code and number shall be separated by a slash.",
+    "source_ar_norm": "4- يوضع رمز سجل المراسلات الواردة بعد رقم قيد الوارد ويفصل بينهما بخط مائل.",
+    "target_en_norm": "4. the code of the incoming correspondence register shall be placed after the incoming correspondence registration number; the code and number shall be separated by a slash.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21625,
+    "source_ar": "5- يبدأ تسلسل أرقام قيود المراسلات الواردة لكل سجل من بداية العام وينتهي بنهايته.",
+    "target_en": "5. The sequence of registration numbers for incoming correspondence for each register shall start from the beginning of the year and end with the end of the year.",
+    "source_ar_norm": "5- يبدا تسلسل ارقام قيود المراسلات الواردة لكل سجل من بداية العام وينتهي بنهايته.",
+    "target_en_norm": "5. the sequence of registration numbers for incoming correspondence for each register shall start from the beginning of the year and end with the end of the year.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21626,
+    "source_ar": "المادة العشرون:",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون:",
+    "target_en_norm": "article 20",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21627,
+    "source_ar": "يجب أن تتضمن بيانات تسجيل الرسالة الواردة المعلومات الآتية:",
+    "target_en": "Registration of an incoming message shall include the following fields:",
+    "source_ar_norm": "يجب ان تتضمن بيانات تسجيل الرسالة الواردة المعلومات الاتية:",
+    "target_en_norm": "registration of an incoming message shall include the following fields:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21628,
+    "source_ar": "1- حقل رقم قيد الوارد.",
+    "target_en": "1. Incoming correspondence registration number.",
+    "source_ar_norm": "1- حقل رقم قيد الوارد.",
+    "target_en_norm": "1. incoming correspondence registration number.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21629,
+    "source_ar": "2- حقل تاريخ قيد الوارد.",
+    "target_en": "2. Incoming correspondence registration date.",
+    "source_ar_norm": "2- حقل تاريخ قيد الوارد.",
+    "target_en_norm": "2. incoming correspondence registration date.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21630,
+    "source_ar": "3- حقول رقم الرسالة الواردة وتاريخها ورمزها.",
+    "target_en": "3. Number, date, and code of incoming message.",
+    "source_ar_norm": "3- حقول رقم الرسالة الواردة وتاريخها ورمزها.",
+    "target_en_norm": "3. number, date, and code of incoming message.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21631,
+    "source_ar": "4- حقل عدد المرافقات.",
+    "target_en": "4. Number of attachments.",
+    "source_ar_norm": "4- حقل عدد المرافقات.",
+    "target_en_norm": "4. number of attachments.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21632,
+    "source_ar": "5- حقل اسم الجهة التي وردت منها الرسالة ورمزها إن وجد.",
+    "target_en": "5. Name of the sending entity and its code, if any.",
+    "source_ar_norm": "5- حقل اسم الجهة التي وردت منها الرسالة ورمزها ان وجد.",
+    "target_en_norm": "5. name of the sending entity and its code, if any.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21633,
+    "source_ar": "6- حقل اسم الوحدة الإدارية المختصة بمعالجة الموضوع ورمزها.",
+    "target_en": "6. Name and code of the administrative unit in charge of processing the subject.",
+    "source_ar_norm": "6- حقل اسم الوحدة الادارية المختصة بمعالجة الموضوع ورمزها.",
+    "target_en_norm": "6. name and code of the administrative unit in charge of processing the subject.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21634,
+    "source_ar": "7- حقل أسماء الوحدات التي زودت بصورة من الرسالة الواردة.",
+    "target_en": "7. Names of the units provided with a copy of the incoming message.",
+    "source_ar_norm": "7- حقل اسماء الوحدات التي زودت بصورة من الرسالة الواردة.",
+    "target_en_norm": "7. names of the units provided with a copy of the incoming message.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21635,
+    "source_ar": "8- حقل خلاصة الموضوع.",
+    "target_en": "8. Summary of the subject.",
+    "source_ar_norm": "8- حقل خلاصة الموضوع.",
+    "target_en_norm": "8. summary of the subject.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21636,
+    "source_ar": "9- حقل رمز تصنيف الموضوع.",
+    "target_en": "9. Subject classification code.",
+    "source_ar_norm": "9- حقل رمز تصنيف الموضوع.",
+    "target_en_norm": "9. subject classification code.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21637,
+    "source_ar": "10- حقل رقم السجل المدني للمواطن أو رقم الإقامة أو جواز السفر للوافد أو المقيم.",
+    "target_en": "10. National identification number for a citizen and residency permit number or passport number for a visitor or resident.",
+    "source_ar_norm": "10- حقل رقم السجل المدني للمواطن او رقم الاقامة او جواز السفر للوافد او المقيم.",
+    "target_en_norm": "10. national identification number for a citizen and residency permit number or passport number for a visitor or resident.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21638,
+    "source_ar": "11- حقول التسديد برقم وتاريخ الصادر من الجهاز الذي تمت بموجبه الإجابة على الرسالة الواردة.",
+    "target_en": "11. Closure, as marked by the number and date of the outgoing correspondence issued by the agency pursuant to which the response in the incoming message was delivered.",
+    "source_ar_norm": "11- حقول التسديد برقم وتاريخ الصادر من الجهاز الذي تمت بموجبه الاجابة علي الرسالة الواردة.",
+    "target_en_norm": "11. closure, as marked by the number and date of the outgoing correspondence issued by the agency pursuant to which the response in the incoming message was delivered.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21639,
+    "source_ar": "12- حقول تدوين أرقام المراسلات السابقة -إن وجدت- ليتم الربط بينها وبين الرسالة الجديدة معلوماتياً.",
+    "target_en": "12. Numbers of previous correspondence, if any, to link the new message with such correspondence.",
+    "source_ar_norm": "12- حقول تدوين ارقام المراسلات السابقة -ان وجدت- ليتم الربط بينها وبين الرسالة الجديدة معلوماتيا.",
+    "target_en_norm": "12. numbers of previous correspondence, if any, to link the new message with such correspondence.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21640,
+    "source_ar": "13- حقول إيضاح صفة الرسالة من حيث السرية أو الاستعجال أو الأهمية.",
+    "target_en": "13. Designation of the message in terms of confidentiality, urgency, or importance.",
+    "source_ar_norm": "13- حقول ايضاح صفة الرسالة من حيث السرية او الاستعجال او الاهمية.",
+    "target_en_norm": "13. designation of the message in terms of confidentiality, urgency, or importance.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21641,
+    "source_ar": "14- حقل رقم بيان تسليم الرسالة وتاريخه ووقته.",
+    "target_en": "14. Number, date, and time of delivery statement.",
+    "source_ar_norm": "14- حقل رقم بيان تسليم الرسالة وتاريخه ووقته.",
+    "target_en_norm": "14. number, date, and time of delivery statement.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21642,
+    "source_ar": "المادة الحادية والعشرون:",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون:",
+    "target_en_norm": "article 21",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21643,
+    "source_ar": "تُستقبل المراسلات الواردة وتوثق وفقاً لما يأتي:",
+    "target_en": "Receipt and documentation of incoming correspondence shall observe the following:",
+    "source_ar_norm": "تستقبل المراسلات الواردة وتوثق وفقا لما ياتي:",
+    "target_en_norm": "receipt and documentation of incoming correspondence shall observe the following:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21644,
+    "source_ar": "1- التأكد من صحة توجيه الرسالة الواردة، أو أنها ذات علاقة بأحد منسوبيه.",
+    "target_en": "1. Verifying that the incoming message is addressed correctly, or that it relates to an employee of the agency.",
+    "source_ar_norm": "1- التاكد من صحة توجيه الرسالة الواردة، او انها ذات علاقة باحد منسوبيه.",
+    "target_en_norm": "1. verifying that the incoming message is addressed correctly, or that it relates to an employee of the agency.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21645,
+    "source_ar": "2- التأكد من أن الرسالة الواردة مستكملة لجميع إجراءات المسؤولية والتوثيق، كالتوقيع أو الختم ورقم الصادر وتاريخه.",
+    "target_en": "2. Verifying that the incoming message has satisfied all the procedures related to responsibility and documentation, such as the signature or stamp and the outgoing correspondence number and date.",
+    "source_ar_norm": "2- التاكد من ان الرسالة الواردة مستكملة لجميع اجراءات المسؤولية والتوثيق، كالتوقيع او الختم ورقم الصادر وتاريخه.",
+    "target_en_norm": "2. verifying that the incoming message has satisfied all the procedures related to responsibility and documentation, such as the signature or stamp and the outgoing correspondence number and date.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21646,
+    "source_ar": "3- أن تكون معلومات المرافقات مطابقة لبيان الفهرسة.",
+    "target_en": "3. The information of the attachments matches the index statement.",
+    "source_ar_norm": "3- ان تكون معلومات المرافقات مطابقة لبيان الفهرسة.",
+    "target_en_norm": "3. the information of the attachments matches the index statement.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21647,
+    "source_ar": "4- المراسلات الواردة من جهات أجنبية ولم تفهرس، تتولى الجهة المختصة باستقبالها -فور ورودها إليها- فهرستها لإثبات مرافقاتها، وذلك وفقاً للمادة (الثامنة عشرة) من اللائحة.",
+    "target_en": "4. Correspondence received from foreign entities which has not been indexed shall be indexed by the entity in charge of receiving such correspondence upon receipt thereof to document its attachments, in accordance with Article 18 of these Regulations.",
+    "source_ar_norm": "4- المراسلات الواردة من جهات اجنبية ولم تفهرس، تتولي الجهة المختصة باستقبالها -فور ورودها اليها- فهرستها لاثبات مرافقاتها، وذلك وفقا للمادة (الثامنة عشرة) من اللائحة.",
+    "target_en_norm": "4. correspondence received from foreign entities which has not been indexed shall be indexed by the entity in charge of receiving such correspondence upon receipt thereof to document its attachments, in accordance with article 18 of these regulations.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21648,
+    "source_ar": "5- أن يكون رمز الجهة المرسلة -إن وجد- مدوناً على الرسالة في المكان المخصص له.",
+    "target_en": "5. The sending entity’s code, if any, is written on the message in the designated place.",
+    "source_ar_norm": "5- ان يكون رمز الجهة المرسلة -ان وجد- مدونا علي الرسالة في المكان المخصص له.",
+    "target_en_norm": "5. the sending entity’s code, if any, is written on the message in the designated place.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21649,
+    "source_ar": "6- أن تكون الرسالة ومرافقاتها سليمة من التلوث وخالية من التمزق والتلف. وفي حالة وجود شيء من ذلك يجب أن يرافقها محضر يتضمن إيضاحاً بالحالة.",
+    "target_en": "6. The message and its attachments are not contaminated, torn, or damaged. If any such condition exists, a report to this effect shall be made and attached to the message.",
+    "source_ar_norm": "6- ان تكون الرسالة ومرافقاتها سليمة من التلوث وخالية من التمزق والتلف. وفي حالة وجود شيء من ذلك يجب ان يرافقها محضر يتضمن ايضاحا بالحالة.",
+    "target_en_norm": "6. the message and its attachments are not contaminated, torn, or damaged. if any such condition exists, a report to this effect shall be made and attached to the message.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21650,
+    "source_ar": "7- التوقيع على بيان التسلم مع كتابة اسم المتسلم كاملاً وتاريخ التسلم، وإضافة وقت التسلم للرسائل المستعجلة، وذلك بعد استكمال إجراءات استقبال المراسلات.",
+    "target_en": "7. Upon completing correspondence receipt procedures, the receipt statement shall be signed, and the recipient’s full name and the date of receipt shall be recorded; for urgent messages, the time of receipt shall also be recorded.",
+    "source_ar_norm": "7- التوقيع علي بيان التسلم مع كتابة اسم المتسلم كاملا وتاريخ التسلم، واضافة وقت التسلم للرسائل المستعجلة، وذلك بعد استكمال اجراءات استقبال المراسلات.",
+    "target_en_norm": "7. upon completing correspondence receipt procedures, the receipt statement shall be signed, and the recipient’s full name and the date of receipt shall be recorded; for urgent messages, the time of receipt shall also be recorded.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21651,
+    "source_ar": "8- توثق الرسالة الواردة بقيدها في سجل الوارد (الآلي أو الورقي)، ويدون عليها رقم القيد وتاريخه في المكان المخصص لذلك.",
+    "target_en": "8. An incoming message shall be documented by registering it in the electronic or paper incoming correspondence register and the registration number and date shall be written on the message in the designated place.",
+    "source_ar_norm": "8- توثق الرسالة الواردة بقيدها في سجل الوارد (الالي او الورقي)، ويدون عليها رقم القيد وتاريخه في المكان المخصص لذلك.",
+    "target_en_norm": "8. an incoming message shall be documented by registering it in the electronic or paper incoming correspondence register and the registration number and date shall be written on the message in the designated place.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21652,
+    "source_ar": "9- لا يفتح المراسلات السرية إلا من وُجّهت إليه الرسالة أو المختص الذي أذن له بفتحها.",
+    "target_en": "9. Confidential correspondence may only be opened by the addressee or by the designated employee authorized to do so.",
+    "source_ar_norm": "9- لا يفتح المراسلات السرية الا من وجهت اليه الرسالة او المختص الذي اذن له بفتحها.",
+    "target_en_norm": "9. confidential correspondence may only be opened by the addressee or by the designated employee authorized to do so.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21653,
+    "source_ar": "10- لا يفتح الطرود والظروف المختومة إلا الجهة المختصة بمعالجة الموضوع.",
+    "target_en": "10. Stamped parcels and envelopes may only be opened by the department in charge of processing the subject.",
+    "source_ar_norm": "10- لا يفتح الطرود والظروف المختومة الا الجهة المختصة بمعالجة الموضوع.",
+    "target_en_norm": "10. stamped parcels and envelopes may only be opened by the department in charge of processing the subject.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21654,
+    "source_ar": "11- يدون رقم قيد الوارد للمراسلات السرية على الظرف ويكتب في حقل الموضوع (سري)، وعند فتح المختص لها يدون عليها رقم قيد الوارد وتاريخه.",
+    "target_en": "11. The registration number of incoming confidential correspondence shall be written on the envelope and the word “confidential” shall be written in the subject field. When the message is opened by the designated employee, the incoming correspondence registration number and date shall be written thereon.",
+    "source_ar_norm": "11- يدون رقم قيد الوارد للمراسلات السرية علي الظرف ويكتب في حقل الموضوع (سري)، وعند فتح المختص لها يدون عليها رقم قيد الوارد وتاريخه.",
+    "target_en_norm": "11. the registration number of incoming confidential correspondence shall be written on the envelope and the word “confidential” shall be written in the subject field. when the message is opened by the designated employee, the incoming correspondence registration number and date shall be written thereon.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21655,
+    "source_ar": "12- لا يعطى للرسالة أو للمعاملة الواردة؛ أكثر من رقم قيد واحد في الجهاز نفسه، ويعد هذا القيد السمة التي تميز الرسالة أو المعاملة من غيرها ويجري تتبعها من خلاله.",
+    "target_en": "12. An incoming message or casefile may not be assigned more than one registration number within the same agency. The registration number identifies the message or casefile and is used for tracking it.",
+    "source_ar_norm": "12- لا يعطي للرسالة او للمعاملة الواردة؛ اكثر من رقم قيد واحد في الجهاز نفسه، ويعد هذا القيد السمة التي تميز الرسالة او المعاملة من غيرها ويجري تتبعها من خلاله.",
+    "target_en_norm": "12. an incoming message or casefile may not be assigned more than one registration number within the same agency. the registration number identifies the message or casefile and is used for tracking it.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21656,
+    "source_ar": "13- لا يتخذ أي إجراء على الرسالة الواردة قبل قيدها في سجل الوارد، ما عدا الحالات التي يرى رئيس الجهاز أو من يفوضه اتخاذ إجراء في شأنها.",
+    "target_en": "13. No action may be taken on an incoming message prior to its registration in the incoming correspondence register, except in cases where the head of the agency or his designee decides to take action thereon.",
+    "source_ar_norm": "13- لا يتخذ اي اجراء علي الرسالة الواردة قبل قيدها في سجل الوارد، ما عدا الحالات التي يري رئيس الجهاز او من يفوضه اتخاذ اجراء في شانها.",
+    "target_en_norm": "13. no action may be taken on an incoming message prior to its registration in the incoming correspondence register, except in cases where the head of the agency or his designee decides to take action thereon.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21657,
+    "source_ar": "14- تدون المعلومات اللازمة عن الرسالة الواردة على نموذج الإحالة والشروح بالمقاس المعتمد للورق، ويرافق الرسالة حال تسجيلها، ويخصص فيه حقل لـ(الشرح، والتاريخ والتوقيع) يكفي لتدوين الشروحات لأصحاب الصلاحية بالتتالي في خطوط مستقيمة.",
+    "target_en": "14. The information of an incoming message shall be written on the referral and annotation form which is of standard-size paper. Said form shall be attached to the message upon registration thereof, and shall include a field for annotations, dates, and signatures sufficient for authorized persons to write annotations sequentially in straight lines.",
+    "source_ar_norm": "14- تدون المعلومات اللازمة عن الرسالة الواردة علي نموذج الاحالة والشروح بالمقاس المعتمد للورق، ويرافق الرسالة حال تسجيلها، ويخصص فيه حقل ل(الشرح، والتاريخ والتوقيع) يكفي لتدوين الشروحات لاصحاب الصلاحية بالتتالي في خطوط مستقيمة.",
+    "target_en_norm": "14. the information of an incoming message shall be written on the referral and annotation form which is of standard-size paper. said form shall be attached to the message upon registration thereof, and shall include a field for annotations, dates, and signatures sufficient for authorized persons to write annotations sequentially in straight lines.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21658,
+    "source_ar": "المادة الثانية والعشرون:",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون:",
+    "target_en_norm": "article 22",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21659,
+    "source_ar": "يكون تسجيل الرسالة الواردة في نظام الوارد وفقاً لما يأتي:",
+    "target_en": "An incoming message shall be registered in the incoming correspondence system as follows:",
+    "source_ar_norm": "يكون تسجيل الرسالة الواردة في نظام الوارد وفقا لما ياتي:",
+    "target_en_norm": "an incoming message shall be registered in the incoming correspondence system as follows:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21660,
+    "source_ar": "1- إدخال رقم قيد الوارد وتاريخه وعدد المرافقات، ورقم الرسالة الواردة وتاريخها ورمزها.",
+    "target_en": "1. Entering the incoming correspondence registration number and date and the number of attachments as well as the incoming message number, date, and code.",
+    "source_ar_norm": "1- ادخال رقم قيد الوارد وتاريخه وعدد المرافقات، ورقم الرسالة الواردة وتاريخها ورمزها.",
+    "target_en_norm": "1. entering the incoming correspondence registration number and date and the number of attachments as well as the incoming message number, date, and code.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21661,
+    "source_ar": "2- إدخال اسم الجهة التي وردت منها الرسالة ورمزها، واسم الوحدة المختصة ورمزها، وفق فئات الوارد المحددة في المادة (التاسعة عشرة) من اللائحة.",
+    "target_en": "2. Entering the name and code of the sending entity and the name and code of the relevant unit as per the categories of incoming correspondence specified in Article 19 of these Regulations.",
+    "source_ar_norm": "2- ادخال اسم الجهة التي وردت منها الرسالة ورمزها، واسم الوحدة المختصة ورمزها، وفق فئات الوارد المحددة في المادة (التاسعة عشرة) من اللائحة.",
+    "target_en_norm": "2. entering the name and code of the sending entity and the name and code of the relevant unit as per the categories of incoming correspondence specified in article 19 of these regulations.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21662,
+    "source_ar": "3- إدخال أسماء الوحدات والفروع المراد تزويدها بنسخ أو صور من الوارد.",
+    "target_en": "3. Entering the names of the units and branches to be provided with duplicates or copies of the incoming message.",
+    "source_ar_norm": "3- ادخال اسماء الوحدات والفروع المراد تزويدها بنسخ او صور من الوارد.",
+    "target_en_norm": "3. entering the names of the units and branches to be provided with duplicates or copies of the incoming message.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21663,
+    "source_ar": "4- صياغة خلاصة موضوع الرسالة بحسب مقتضيات الوارد، والأخذ في الاعتبار علاقته بموضوع الصادر إن وجد، وأن يكون شاملاً وخالياً من الأخطاء اللغوية والإملائية.",
+    "target_en": "4. Drafting a summary of the message subject as per the subject of the incoming correspondence, taking into account its relevance to the subject of the outgoing correspondence, if any, and that such summary is comprehensive and free of linguistic and spelling errors.",
+    "source_ar_norm": "4- صياغة خلاصة موضوع الرسالة بحسب مقتضيات الوارد، والاخذ في الاعتبار علاقته بموضوع الصادر ان وجد، وان يكون شاملا وخاليا من الاخطاء اللغوية والاملائية.",
+    "target_en_norm": "4. drafting a summary of the message subject as per the subject of the incoming correspondence, taking into account its relevance to the subject of the outgoing correspondence, if any, and that such summary is comprehensive and free of linguistic and spelling errors.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21664,
+    "source_ar": "5- إدخال رمز تصنيف موضوع الرسالة، ورقم السجل المدني للمواطن، أو رقم الإقامة أو جواز السفر للوافد أو المقيم؛ الذي يتعلق به موضوع الرسالة.",
+    "target_en": "5. Entering the classification code of the message subject as well as the national identification number for the citizen, or the residency permit number or passport number for the visitor or resident, to whom the subject of the message relates.",
+    "source_ar_norm": "5- ادخال رمز تصنيف موضوع الرسالة، ورقم السجل المدني للمواطن، او رقم الاقامة او جواز السفر للوافد او المقيم؛ الذي يتعلق به موضوع الرسالة.",
+    "target_en_norm": "5. entering the classification code of the message subject as well as the national identification number for the citizen, or the residency permit number or passport number for the visitor or resident, to whom the subject of the message relates.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21665,
+    "source_ar": "6- إدخال تسديد جميع القيود الواردة في المعاملة برقم الصادر وتاريخه.",
+    "target_en": "6. Recording the closure of all entries contained in the casefile, together with the number and date of the outgoing correspondence.",
+    "source_ar_norm": "6- ادخال تسديد جميع القيود الواردة في المعاملة برقم الصادر وتاريخه.",
+    "target_en_norm": "6. recording the closure of all entries contained in the casefile, together with the number and date of the outgoing correspondence.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21666,
+    "source_ar": "7- إدخال صفة الرسالة من حيث الأهمية ودرجة الاستعجال أو السرية.",
+    "target_en": "7. Entering the designation of the message in terms of importance, urgency, or confidentiality.",
+    "source_ar_norm": "7- ادخال صفة الرسالة من حيث الاهمية ودرجة الاستعجال او السرية.",
+    "target_en_norm": "7. entering the designation of the message in terms of importance, urgency, or confidentiality.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21667,
+    "source_ar": "8- إدخال أرقام المراسلات السابقة، ورقم بيان تسليم الرسالة وتاريخه ووقته.",
+    "target_en": "8. Entering the numbers of previous correspondence, and the number, date, and time of the message delivery statement.",
+    "source_ar_norm": "8- ادخال ارقام المراسلات السابقة، ورقم بيان تسليم الرسالة وتاريخه ووقته.",
+    "target_en_norm": "8. entering the numbers of previous correspondence, and the number, date, and time of the message delivery statement.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21668,
+    "source_ar": "9- إجراء مسح ضوئي للرسالة.",
+    "target_en": "9. Scanning the message.",
+    "source_ar_norm": "9- اجراء مسح ضوئي للرسالة.",
+    "target_en_norm": "9. scanning the message.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21669,
+    "source_ar": "المادة الثالثة والعشرون:",
+    "target_en": "Article 23",
+    "source_ar_norm": "المادة الثالثة والعشرون:",
+    "target_en_norm": "article 23",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21670,
+    "source_ar": "يجب مراجعة إجراءات توثيق وتسجيل الرسائل الواردة المذكورة في المواد (العشرين) و(الحادية والعشرين) و(الثانية والعشرين) من اللائحة للتأكد من صحتها وتكاملها ومن أهمها الآتي:",
+    "target_en": "The procedures for documenting and registering incoming messages provided for in Articles 20, 21, and 22 of these Regulations shall be reviewed to verify their accuracy and integration, in particular the following:",
+    "source_ar_norm": "يجب مراجعة اجراءات توثيق وتسجيل الرسائل الواردة المذكورة في المواد (العشرين) و(الحادية والعشرين) و(الثانية والعشرين) من اللائحة للتاكد من صحتها وتكاملها ومن اهمها الاتي:",
+    "target_en_norm": "the procedures for documenting and registering incoming messages provided for in articles 20, 21, and 22 of these regulations shall be reviewed to verify their accuracy and integration, in particular the following:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21671,
+    "source_ar": "1- صحة رقم الرسالة وتاريخها، وجهة ورودها، ورمزها.",
+    "target_en": "1. Accuracy of the message number and date and the sending entity’s name and code.",
+    "source_ar_norm": "1- صحة رقم الرسالة وتاريخها، وجهة ورودها، ورمزها.",
+    "target_en_norm": "1. accuracy of the message number and date and the sending entity’s name and code.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21672,
+    "source_ar": "2- سلامة خلاصة الموضوع من حيث اللغة والإملاء وشمولية الموضوع.",
+    "target_en": "2. Accuracy of the subject summary in terms of language and spelling as well as comprehensiveness.",
+    "source_ar_norm": "2- سلامة خلاصة الموضوع من حيث اللغة والاملاء وشمولية الموضوع.",
+    "target_en_norm": "2. accuracy of the subject summary in terms of language and spelling as well as comprehensiveness.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21673,
+    "source_ar": "3- صحة التوجيه للوحدة الإدارية المختصة، ورمزها.",
+    "target_en": "3. Accuracy of the referral to the relevant administrative unit and the code thereof.",
+    "source_ar_norm": "3- صحة التوجيه للوحدة الادارية المختصة، ورمزها.",
+    "target_en_norm": "3. accuracy of the referral to the relevant administrative unit and the code thereof.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21674,
+    "source_ar": "المادة الرابعة والعشرون:",
+    "target_en": "Article 24",
+    "source_ar_norm": "المادة الرابعة والعشرون:",
+    "target_en_norm": "article 24",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21675,
+    "source_ar": "تسلم المراسلات الواردة للوحدة المختصة بمعالجتها والمحالة إليها، وفقاً لما يأتي:",
+    "target_en": "Incoming correspondence addressed or referred to the unit in charge of processing such correspondence shall be delivered pursuant to the following:",
+    "source_ar_norm": "تسلم المراسلات الواردة للوحدة المختصة بمعالجتها والمحالة اليها، وفقا لما ياتي:",
+    "target_en_norm": "incoming correspondence addressed or referred to the unit in charge of processing such correspondence shall be delivered pursuant to the following:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21676,
+    "source_ar": "1- تسجل المراسلات في بيان التسليم بحسب تسلسل قيودها، أو يستخرج آلياً.",
+    "target_en": "1. Correspondence shall be recorded in the delivery statement as per the sequence of its registration number; it may be generated electronically.",
+    "source_ar_norm": "1- تسجل المراسلات في بيان التسليم بحسب تسلسل قيودها، او يستخرج اليا.",
+    "target_en_norm": "1. correspondence shall be recorded in the delivery statement as per the sequence of its registration number; it may be generated electronically.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21677,
+    "source_ar": "2- تربط المراسلات ببيان التسليم الخاص بها.",
+    "target_en": "2. Correspondence shall be linked to its delivery statement.",
+    "source_ar_norm": "2- تربط المراسلات ببيان التسليم الخاص بها.",
+    "target_en_norm": "2. correspondence shall be linked to its delivery statement.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21678,
+    "source_ar": "3- يدون اسم المتسلم كاملاً وتاريخ التسلم ووقته.",
+    "target_en": "3. The recipient’s full name and the date and time of receipt shall be recorded.",
+    "source_ar_norm": "3- يدون اسم المتسلم كاملا وتاريخ التسلم ووقته.",
+    "target_en_norm": "3. the recipient’s full name and the date and time of receipt shall be recorded.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21679,
+    "source_ar": "المادة الخامسة والعشرون:",
+    "target_en": "Article 25",
+    "source_ar_norm": "المادة الخامسة والعشرون:",
+    "target_en_norm": "article 25",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21680,
+    "source_ar": "يجب استيفاء جميع المعلومات اللازمة لمعالجة الموضوع أو دراسته. وعلى الوحدة الإدارية أن تهيئ الرسالة أو (المعاملة) قبل تسليمها لوحدة إدارية أخرى في الجهاز نفسه، وذلك وفقاً للمادة (الثامنة عشرة) من اللائحة.",
+    "target_en": "All the information necessary for processing or considering a particular subject must be made available. The administrative unit shall prepare the message or casefile prior to delivering it to another administrative unit at the same agency, in accordance with Article 18 of these Regulations.",
+    "source_ar_norm": "يجب استيفاء جميع المعلومات اللازمة لمعالجة الموضوع او دراسته. وعلي الوحدة الادارية ان تهيئ الرسالة او (المعاملة) قبل تسليمها لوحدة ادارية اخري في الجهاز نفسه، وذلك وفقا للمادة (الثامنة عشرة) من اللائحة.",
+    "target_en_norm": "all the information necessary for processing or considering a particular subject must be made available. the administrative unit shall prepare the message or casefile prior to delivering it to another administrative unit at the same agency, in accordance with article 18 of these regulations.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21681,
+    "source_ar": "المادة السادسة والعشرون:",
+    "target_en": "Article 26",
+    "source_ar_norm": "المادة السادسة والعشرون:",
+    "target_en_norm": "article 26",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21682,
+    "source_ar": "تسلم المراسلات من وحدة إدارية إلى أخرى في الجهاز نفسه بموجب بيان تسليم ورقي أو آلي -بحسب الأحوال- باسم الوحدة الإدارية المرسلة، ويحمل البيان تاريخاً ورقماً تسلسلياً، ويحتوي على الحقول الآتية:",
+    "target_en": "Correspondence shall be delivered from one administrative unit to another at the same agency using a paper or electronic delivery statement, as the case may be, in the name of the sending administrative unit. Such statement shall bear a date and sequential number, and shall contain the following fields:",
+    "source_ar_norm": "تسلم المراسلات من وحدة ادارية الي اخري في الجهاز نفسه بموجب بيان تسليم ورقي او الي -بحسب الاحوال- باسم الوحدة الادارية المرسلة، ويحمل البيان تاريخا ورقما تسلسليا، ويحتوي علي الحقول الاتية:",
+    "target_en_norm": "correspondence shall be delivered from one administrative unit to another at the same agency using a paper or electronic delivery statement, as the case may be, in the name of the sending administrative unit. such statement shall bear a date and sequential number, and shall contain the following fields:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21683,
+    "source_ar": "1- العدد.",
+    "target_en": "1. Number.",
+    "source_ar_norm": "1- العدد.",
+    "target_en_norm": "1. number.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21684,
+    "source_ar": "2- رقم القيد.",
+    "target_en": "2. Registration number.",
+    "source_ar_norm": "2- رقم القيد.",
+    "target_en_norm": "2. registration number.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21685,
+    "source_ar": "3- تاريخه.",
+    "target_en": "3. Registration date.",
+    "source_ar_norm": "3- تاريخه.",
+    "target_en_norm": "3. registration date.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21686,
+    "source_ar": "4- اسم الوحدة المرسل إليها.",
+    "target_en": "4. Name of addressed unit.",
+    "source_ar_norm": "4- اسم الوحدة المرسل اليها.",
+    "target_en_norm": "4. name of addressed unit.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21687,
+    "source_ar": "5- عدد المرافقات.",
+    "target_en": "5. Number of attachments.",
+    "source_ar_norm": "5- عدد المرافقات.",
+    "target_en_norm": "5. number of attachments.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21688,
+    "source_ar": "6- اسم المتسلم كاملاً وتوقيعه، وتاريخ التسلم ووقته.",
+    "target_en": "6. Recipient’s full name and signature and the date and time of receipt.",
+    "source_ar_norm": "6- اسم المتسلم كاملا وتوقيعه، وتاريخ التسلم ووقته.",
+    "target_en_norm": "6. recipient’s full name and signature and the date and time of receipt.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21689,
+    "source_ar": "حادي عشر: المراسلات الصادرة",
+    "target_en": "Eleventh: Outgoing Correspondence",
+    "source_ar_norm": "حادي عشر: المراسلات الصادرة",
+    "target_en_norm": "eleventh: outgoing correspondence",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21690,
+    "source_ar": "المادة السابعة والعشرون:",
+    "target_en": "Article 27",
+    "source_ar_norm": "المادة السابعة والعشرون:",
+    "target_en_norm": "article 27",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21691,
+    "source_ar": "تقسم سجلات الصادر إلى ثلاثة سجلات، تعطى الرموز (٣،٢،١) وفقاً للترتيب الآتي:",
+    "target_en": "There shall be three registers for outgoing correspondence which shall be assigned the code numbers (1), (2), or (3), as follows:",
+    "source_ar_norm": "تقسم سجلات الصادر الي ثلاثة سجلات، تعطي الرموز (٣،٢،١) وفقا للترتيب الاتي:",
+    "target_en_norm": "there shall be three registers for outgoing correspondence which shall be assigned the code numbers (1), (2), or (3), as follows:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21692,
+    "source_ar": "1- الرمز رقم (1)، ويعطى للمراسلات الصادرة من مكتب الوزير أو رئيس الجهاز المستقل أو من في حكمهم، التي يختص بمعالجتها وتصديرها.",
+    "target_en": "1. Code number (1) shall be assigned to outgoing correspondence which falls within the purview of the office of the minister or the head of the independent agency, or any person of similar status, and which shall be processed and sent thereby.",
+    "source_ar_norm": "1- الرمز رقم (1)، ويعطي للمراسلات الصادرة من مكتب الوزير او رئيس الجهاز المستقل او من في حكمهم، التي يختص بمعالجتها وتصديرها.",
+    "target_en_norm": "1. code number (1) shall be assigned to outgoing correspondence which falls within the purview of the office of the minister or the head of the independent agency, or any person of similar status, and which shall be processed and sent thereby.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21693,
+    "source_ar": "2- الرمز رقم (2)، ويعطى للمراسلات الصادرة المتعلقة بالمهمات والوظائف والأنشطة -الأساسية والمساعدة- التي تعالجها الوحدات الإدارية للجهاز.",
+    "target_en": "2. Code number (2) shall be assigned to outgoing correspondence relating to the primary and supporting tasks, functions, and activities processed by the agency’s administrative units.",
+    "source_ar_norm": "2- الرمز رقم (2)، ويعطي للمراسلات الصادرة المتعلقة بالمهمات والوظائف والانشطة -الاساسية والمساعدة- التي تعالجها الوحدات الادارية للجهاز.",
+    "target_en_norm": "2. code number (2) shall be assigned to outgoing correspondence relating to the primary and supporting tasks, functions, and activities processed by the agency’s administrative units.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21694,
+    "source_ar": "3- الرمز رقم (3)، ويعطى للمراسلات الصادرة المتعلقة بالوظائف والأنشطة المساعدة للجهاز، التي تعالجها الوحدات الإدارية المساعدة.",
+    "target_en": "3. Code number (3) shall be assigned to outgoing correspondence relating to the agency’s supporting functions and activities processed by supporting administrative units.",
+    "source_ar_norm": "3- الرمز رقم (3)، ويعطي للمراسلات الصادرة المتعلقة بالوظائف والانشطة المساعدة للجهاز، التي تعالجها الوحدات الادارية المساعدة.",
+    "target_en_norm": "3. code number (3) shall be assigned to outgoing correspondence relating to the agency’s supporting functions and activities processed by supporting administrative units.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21695,
+    "source_ar": "4- تحمل الرسالة الصادرة رمز الوحدة الإدارية التي أعدتها، ويوضع رمز سجل المراسلات الصادرة قبل رقم الصادر ويفصل بين كل منها خط مائل.",
+    "target_en": "4. An outgoing message shall bear the code of the administrative unit that prepared said message, and the code of the outgoing correspondence register shall be placed before the outgoing correspondence registration number; the code and number shall be separated by a slash.",
+    "source_ar_norm": "4- تحمل الرسالة الصادرة رمز الوحدة الادارية التي اعدتها، ويوضع رمز سجل المراسلات الصادرة قبل رقم الصادر ويفصل بين كل منها خط مائل.",
+    "target_en_norm": "4. an outgoing message shall bear the code of the administrative unit that prepared said message, and the code of the outgoing correspondence register shall be placed before the outgoing correspondence registration number; the code and number shall be separated by a slash.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21696,
+    "source_ar": "5- يبدأ تسلسل أرقام المراسلات الصادرة لكل سجل من بداية العام وينتهي بنهايته.",
+    "target_en": "5. The sequence of numbers for outgoing correspondence for each register shall start from the beginning of the year and end with the end of the year.",
+    "source_ar_norm": "5- يبدا تسلسل ارقام المراسلات الصادرة لكل سجل من بداية العام وينتهي بنهايته.",
+    "target_en_norm": "5. the sequence of numbers for outgoing correspondence for each register shall start from the beginning of the year and end with the end of the year.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21697,
+    "source_ar": "المادة الثامنة والعشرون:",
+    "target_en": "Article 28",
+    "source_ar_norm": "المادة الثامنة والعشرون:",
+    "target_en_norm": "article 28",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21698,
+    "source_ar": "يجب أن تتضمن بيانات تسجيل الرسالة الصادرة المعلومات الآتية:",
+    "target_en": "Registration of an outgoing message shall include the following fields:",
+    "source_ar_norm": "يجب ان تتضمن بيانات تسجيل الرسالة الصادرة المعلومات الاتية:",
+    "target_en_norm": "registration of an outgoing message shall include the following fields:",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21699,
+    "source_ar": "1- حقل رقم الصادر.",
+    "target_en": "1. Outgoing correspondence number.",
+    "source_ar_norm": "1- حقل رقم الصادر.",
+    "target_en_norm": "1. outgoing correspondence number.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  },
+  {
+    "id": 21700,
+    "source_ar": "2- حقل تاريخ الصادر.",
+    "target_en": "2. Outgoing correspondence date.",
+    "source_ar_norm": "2- حقل تاريخ الصادر.",
+    "target_en_norm": "2. outgoing correspondence date.",
+    "file_name": "لائحة الاتصالات الرسمية والمحافظة على الوثائق ومعلوماتها.docx"
+  }
+]

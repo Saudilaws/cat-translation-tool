@@ -1,0 +1,802 @@
+[
+  {
+    "id": 26301,
+    "source_ar": "الجهاز والمستلزم الطبي ذو الاستخدام مرة واحدة: كل ما يصنع لغرض الاستخدام خلال الإجراء الطبي الواحد على مريض مرة واحدة ثم يُتخلص منه.",
+    "target_en": "Single-use Medical Device or Supply: A disposable article intended for use on a patient in a single medical procedure.",
+    "source_ar_norm": "الجهاز والمستلزم الطبي ذو الاستخدام مرة واحدة: كل ما يصنع لغرض الاستخدام خلال الاجراء الطبي الواحد علي مريض مرة واحدة ثم يتخلص منه.",
+    "target_en_norm": "single-use medical device or supply: a disposable article intended for use on a patient in a single medical procedure.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26302,
+    "source_ar": "المواد الطبية المشعة: مادة تنطلق منها إشعاعات مؤينة، سواءً منفردة بنفسها أو ضمن أجهزة أو مستلزمات طبية أخرى، تستخدم للتشخيص والعلاج.",
+    "target_en": "Radioactive Medical Material: A material that emits ionizing radiation either by itself or when used with other medical devices or supplies for the purpose of diagnosis and treatment.",
+    "source_ar_norm": "المواد الطبية المشعة: مادة تنطلق منها اشعاعات مؤينة، سواء منفردة بنفسها او ضمن اجهزة او مستلزمات طبية اخري، تستخدم للتشخيص والعلاج.",
+    "target_en_norm": "radioactive medical material: a material that emits ionizing radiation either by itself or when used with other medical devices or supplies for the purpose of diagnosis and treatment.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26303,
+    "source_ar": "الأجهزة والمستلزمات الطبية المغشوشة: هي التي يتعمد تغيير هويتها أو مصدرها بقصد الخداع، ويعد الجهاز والمستلزم الطبي مغشوشًا إذا تغير محتواه بما يؤثر سلبًا في مأمونيته وسلامته، أو كان معبأ في عبوات مزيفة.",
+    "target_en": "Fraudulent Medical Device or Supply: A device or supply the identity or source of which is deliberately altered with the intent to defraud. A medical device or supply shall be deemed fraudulent if its components have been altered in a manner that compromises its safety and efficacy, or if it is packed in counterfeit containers.",
+    "source_ar_norm": "الاجهزة والمستلزمات الطبية المغشوشة: هي التي يتعمد تغيير هويتها او مصدرها بقصد الخداع، ويعد الجهاز والمستلزم الطبي مغشوشا اذا تغير محتواه بما يؤثر سلبا في مامونيته وسلامته، او كان معبا في عبوات مزيفة.",
+    "target_en_norm": "fraudulent medical device or supply: a device or supply the identity or source of which is deliberately altered with the intent to defraud. a medical device or supply shall be deemed fraudulent if its components have been altered in a manner that compromises its safety and efficacy, or if it is packed in counterfeit containers.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26304,
+    "source_ar": "إعادة المعالجة: إجراءات تنفذ على الجهاز والمستلزم الطبي المستخدم سابقًا؛ لإعادة استخدامه بطريقة آمنة، ومن ذلك: التنظيف، والتطهير، والتعقيم، واختبار واستعادة الوظائف الفنية والسلامة المتعلقة به.",
+    "target_en": "Reprocessing: Procedures implemented on a used medical device or supply for safe reuse, such as cleansing, disinfection, sterilization, and testing and restoration of its technical functions and safety.",
+    "source_ar_norm": "اعادة المعالجة: اجراءات تنفذ علي الجهاز والمستلزم الطبي المستخدم سابقا؛ لاعادة استخدامه بطريقة امنة، ومن ذلك: التنظيف، والتطهير، والتعقيم، واختبار واستعادة الوظائف الفنية والسلامة المتعلقة به.",
+    "target_en_norm": "reprocessing: procedures implemented on a used medical device or supply for safe reuse, such as cleansing, disinfection, sterilization, and testing and restoration of its technical functions and safety.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26305,
+    "source_ar": "المستخدم: من يستخدم الجهاز والمستلزم الطبي سواء كان متخصصًا أو عاديًّا أو مريضًا.",
+    "target_en": "User: A person, whether a professional, non-professional, or patient, who uses a medical device or supply.",
+    "source_ar_norm": "المستخدم: من يستخدم الجهاز والمستلزم الطبي سواء كان متخصصا او عاديا او مريضا.",
+    "target_en_norm": "user: a person, whether a professional, non-professional, or patient, who uses a medical device or supply.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26306,
+    "source_ar": "المنشأة: كيان نظامي يزاول نشاطًا يتعلق بالأجهزة والمستلزمات الطبية.",
+    "target_en": "Establishment: A legal entity engaged in an activity related to medical devices and supplies.",
+    "source_ar_norm": "المنشاة: كيان نظامي يزاول نشاطا يتعلق بالاجهزة والمستلزمات الطبية.",
+    "target_en_norm": "establishment: a legal entity engaged in an activity related to medical devices and supplies.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26307,
+    "source_ar": "المصنع: أي منشأة وطنية أو أجنبية يكون من أغراضها تصميم الأجهزة أو المستلزمات الطبية أو تصنيعها لطرحها للاستخدام باسمها، سواء كانت داخل المملكة أو خارجها. ويشمل التصنيع: تجديدها، وتجميعها، وتعبئتها، وتغليفها، ووضع المعلومات التعريفية عليها.",
+    "target_en": "Manufacturer: Any national or foreign establishment the purposes of which include designing or manufacturing medical devices or supplies for use under its name within the Kingdom or abroad. Manufacturing shall include refurbishing, assembling, packaging, and labelling.",
+    "source_ar_norm": "المصنع: اي منشاة وطنية او اجنبية يكون من اغراضها تصميم الاجهزة او المستلزمات الطبية او تصنيعها لطرحها للاستخدام باسمها، سواء كانت داخل المملكة او خارجها. ويشمل التصنيع: تجديدها، وتجميعها، وتعبئتها، وتغليفها، ووضع المعلومات التعريفية عليها.",
+    "target_en_norm": "manufacturer: any national or foreign establishment the purposes of which include designing or manufacturing medical devices or supplies for use under its name within the kingdom or abroad. manufacturing shall include refurbishing, assembling, packaging, and labelling.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26308,
+    "source_ar": "مقدم الرعاية الصحية: أي منشأة حكومية أو أهلية تقدم خدمات الرعاية الصحية.",
+    "target_en": "Health Care Provider: Any government or private establishment that provides health care services.",
+    "source_ar_norm": "مقدم الرعاية الصحية: اي منشاة حكومية او اهلية تقدم خدمات الرعاية الصحية.",
+    "target_en_norm": "health care provider: any government or private establishment that provides health care services.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26309,
+    "source_ar": "الممثل المعتمد: شخص ذو صفة اعتبارية مقره في المملكة مفوض كتابيًّا من مصنع مقيم في الخارج لتمثيله داخل المملكة، فيما يتصل بتطبيق أحكام النظام واللائحة.",
+    "target_en": "Authorized Representative: A legal person based in the Kingdom who has written authorization from a manufacturer located outside the Kingdom to represent it in the Kingdom with regard to the implementation of this Law and its Regulations.",
+    "source_ar_norm": "الممثل المعتمد: شخص ذو صفة اعتبارية مقره في المملكة مفوض كتابيا من مصنع مقيم في الخارج لتمثيله داخل المملكة، فيما يتصل بتطبيق احكام النظام واللائحة.",
+    "target_en_norm": "authorized representative: a legal person based in the kingdom who has written authorization from a manufacturer located outside the kingdom to represent it in the kingdom with regard to the implementation of this law and its regulations.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26310,
+    "source_ar": "تداول الأجهزة والمستلزمات الطبية: توفيرها مجانًا أو بمقابل سواء كان للتوزيع أو للاستخدام.",
+    "target_en": "Circulation of Medical Devices and Supplies: The provision of medical devices and supplies at no cost or for a fee, whether for distribution or use.",
+    "source_ar_norm": "تداول الاجهزة والمستلزمات الطبية: توفيرها مجانا او بمقابل سواء كان للتوزيع او للاستخدام.",
+    "target_en_norm": "circulation of medical devices and supplies: the provision of medical devices and supplies at no cost or for a fee, whether for distribution or use.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26311,
+    "source_ar": "الترخيص: وثيقة تصدرها الهيئة لمزاولة أي من الأنشطة الخاضعة للنظام.",
+    "target_en": "License: A document issued by the SFDA to engage in any of the activities subject to this Law.",
+    "source_ar_norm": "الترخيص: وثيقة تصدرها الهيئة لمزاولة اي من الانشطة الخاضعة للنظام.",
+    "target_en_norm": "license: a document issued by the sfda to engage in any of the activities subject to this law.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26312,
+    "source_ar": "السجل الوطني: السجل الوطني للمنشآت والأجهزة والمستلزمات الطبية المنشأ في الهيئة.",
+    "target_en": "MDNR: The Medical Devices National Registry established by the SFDA.",
+    "source_ar_norm": "السجل الوطني: السجل الوطني للمنشات والاجهزة والمستلزمات الطبية المنشا في الهيئة.",
+    "target_en_norm": "mdnr: the medical devices national registry established by the sfda.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26313,
+    "source_ar": "التسجيل: إجراء تقيد بناءً عليه الأجهزة والمستلزمات الطبية والمنشآت، التي تزاول أي من الأنشطة الخاضعة للنظام، في السجل الوطني.",
+    "target_en": "Registration: A procedure for registering in the MDNR any medical device or supply and any establishment that engages in any activity governed by this Law.",
+    "source_ar_norm": "التسجيل: اجراء تقيد بناء عليه الاجهزة والمستلزمات الطبية والمنشات، التي تزاول اي من الانشطة الخاضعة للنظام، في السجل الوطني.",
+    "target_en_norm": "registration: a procedure for registering in the mdnr any medical device or supply and any establishment that engages in any activity governed by this law.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26314,
+    "source_ar": "الإذن بالتسويق: وثيقة تصدرها الهيئة لأي جهاز أو مستلزم طبي تسمح بتداوله في الأسواق.",
+    "target_en": "Marketing Authorization: A document issued by the SFDA permitting the circulation of a medical device or supply in the market.",
+    "source_ar_norm": "الاذن بالتسويق: وثيقة تصدرها الهيئة لاي جهاز او مستلزم طبي تسمح بتداوله في الاسواق.",
+    "target_en_norm": "marketing authorization: a document issued by the sfda permitting the circulation of a medical device or supply in the market.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26315,
+    "source_ar": "شهادة حرية البيع: وثيقة تصدرها الهيئة للمصنع تفيد بأن المصنع مسجل في المملكة وأن الأجهزة والمستلزمات الطبية المراد تصديرها حاصلة على الإذن بالتسويق.",
+    "target_en": "Certificate of Free Sale: A document issued by the SFDA stating that a manufacturer is registered in the Kingdom and that the medical devices and supplies to be exported have obtained marketing authorization.",
+    "source_ar_norm": "شهادة حرية البيع: وثيقة تصدرها الهيئة للمصنع تفيد بان المصنع مسجل في المملكة وان الاجهزة والمستلزمات الطبية المراد تصديرها حاصلة علي الاذن بالتسويق.",
+    "target_en_norm": "certificate of free sale: a document issued by the sfda stating that a manufacturer is registered in the kingdom and that the medical devices and supplies to be exported have obtained marketing authorization.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26316,
+    "source_ar": "التحقق من الدراسات السريرية: بحث تطبيقي يستخدم فيه جهاز أو مستلزم طبي على إنسان أو أكثر؛ لتقويم مأمونيته وكفايته عند استخدامه.",
+    "target_en": "Verification of Clinical Studies: An applied research in which a medical device or supply is used on humans to assess its safety and efficacy.",
+    "source_ar_norm": "التحقق من الدراسات السريرية: بحث تطبيقي يستخدم فيه جهاز او مستلزم طبي علي انسان او اكثر؛ لتقويم مامونيته وكفايته عند استخدامه.",
+    "target_en_norm": "verification of clinical studies: an applied research in which a medical device or supply is used on humans to assess its safety and efficacy.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26317,
+    "source_ar": "نظام التصنيف: هو نظام تعتمده الهيئة يعمل على تقويم درجة الخطورة المتعلقة بالجهاز أو المستلزم الطبي، وتقويم مأمونيته.",
+    "target_en": "Classification System: A system approved by the SFDA to assess the safety and the level of risk of a medical device or supply.",
+    "source_ar_norm": "نظام التصنيف: هو نظام تعتمده الهيئة يعمل علي تقويم درجة الخطورة المتعلقة بالجهاز او المستلزم الطبي، وتقويم مامونيته.",
+    "target_en_norm": "classification system: a system approved by the sfda to assess the safety and the level of risk of a medical device or supply.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26318,
+    "source_ar": "نظام إدارة الجودة: نظام تعتمده الهيئة للتحقق من جودة وفاعلية ومأمونية الجهاز أو المستلزم الطبي وفقًا للنسخة الحديثة من المواصفة الفنية (الآيزو 13485) أو ما يماثلها، وذلك وفقًا لما تبينه اللائحة.",
+    "target_en": "Quality Management System: A system approved by the SFDA to verify the quality, effectiveness, and safety of a medical device or supply in accordance with the latest version of the Technical Standard (ISO 13485) or its equivalent, as provided in the Regulations.",
+    "source_ar_norm": "نظام ادارة الجودة: نظام تعتمده الهيئة للتحقق من جودة وفاعلية ومامونية الجهاز او المستلزم الطبي وفقا للنسخة الحديثة من المواصفة الفنية (الايزو 13485) او ما يماثلها، وذلك وفقا لما تبينه اللائحة.",
+    "target_en_norm": "quality management system: a system approved by the sfda to verify the quality, effectiveness, and safety of a medical device or supply in accordance with the latest version of the technical standard (iso 13485) or its equivalent, as provided in the regulations.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26319,
+    "source_ar": "توكيد الجودة: مجموعة من الاختبارات والقياسات والمعايرة الفنية تعتمدها الهيئة، للتأكد من مأمونية أجهزة الأشعة الطبية وسلامتها ودقة الصور وجودتها، بما يضمن فاعلية التشخيص والعلاج وكفايتهما.",
+    "target_en": "Quality Assurance: A set of technical tests, measurements, and calibrations approved by the SFDA to verify the safety, accuracy, and quality of medical imaging devices, in order to ensure the efficacy of diagnosis and treatment.",
+    "source_ar_norm": "توكيد الجودة: مجموعة من الاختبارات والقياسات والمعايرة الفنية تعتمدها الهيئة، للتاكد من مامونية اجهزة الاشعة الطبية وسلامتها ودقة الصور وجودتها، بما يضمن فاعلية التشخيص والعلاج وكفايتهما.",
+    "target_en_norm": "quality assurance: a set of technical tests, measurements, and calibrations approved by the sfda to verify the safety, accuracy, and quality of medical imaging devices, in order to ensure the efficacy of diagnosis and treatment.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26320,
+    "source_ar": "اللوائح الفنية: وثائق إلزامية تصدرها الهيئة خاصة بالأجهزة والمستلزمات الطبية تحدد مبادئ السلامة والأداء والتصنيع والتعليمات المنظمة لذلك، بما في ذلك: المصطلحات، والرموز، والتعبئة، ومتطلبات المعلومات التعريفية.",
+    "target_en": "Technical Regulations: Mandatory documents issued by the SFDA for medical devices and supplies which specify the basic standards of safety, performance, and manufacturing and provide relevant instructions, including terms and symbols as well as packaging and labelling requirements.",
+    "source_ar_norm": "اللوائح الفنية: وثائق الزامية تصدرها الهيئة خاصة بالاجهزة والمستلزمات الطبية تحدد مبادئ السلامة والاداء والتصنيع والتعليمات المنظمة لذلك، بما في ذلك: المصطلحات، والرموز، والتعبئة، ومتطلبات المعلومات التعريفية.",
+    "target_en_norm": "technical regulations: mandatory documents issued by the sfda for medical devices and supplies which specify the basic standards of safety, performance, and manufacturing and provide relevant instructions, including terms and symbols as well as packaging and labelling requirements.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26321,
+    "source_ar": "المواصفات القياسية: وثائق غير إلزامية تقرها الهيئة، تتضمن قواعد أو مبادئ توجيهية أو خصائص الأجهزة والمستلزمات الطبية أو عمليات وأساليب الإنتاج المرتبطة بها، بما فيها: المصطلحات، والرموز، والتعبئة، ومتطلبات المعلومات التعريفية.",
+    "target_en": "Standard Specifications: Non-mandatory documents approved by the SFDA, including rules, guidelines, specifications of medical devices and supplies, or production processes and methods related thereto as well as terms and symbols, and packaging and labelling requirements.",
+    "source_ar_norm": "المواصفات القياسية: وثائق غير الزامية تقرها الهيئة، تتضمن قواعد او مبادئ توجيهية او خصائص الاجهزة والمستلزمات الطبية او عمليات واساليب الانتاج المرتبطة بها، بما فيها: المصطلحات، والرموز، والتعبئة، ومتطلبات المعلومات التعريفية.",
+    "target_en_norm": "standard specifications: non-mandatory documents approved by the sfda, including rules, guidelines, specifications of medical devices and supplies, or production processes and methods related thereto as well as terms and symbols, and packaging and labelling requirements.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26322,
+    "source_ar": "المعلومات التعريفية: أي بيان أو معلومة مرسومة أو مصورة مكتوبة أو مطبوعة على الجهاز والمستلزم الطبي، وتشمل المعلومات الخاصة بالتعريف به، والوصف الفني له، وكيفية استخدامه، وطرق تخزينه ونقله.",
+    "target_en": "Identifying Information: Any statement, information, or illustration printed on a medical device or supply, including identifying information, technical description, method of use, and manner of storage and transportation.",
+    "source_ar_norm": "المعلومات التعريفية: اي بيان او معلومة مرسومة او مصورة مكتوبة او مطبوعة علي الجهاز والمستلزم الطبي، وتشمل المعلومات الخاصة بالتعريف به، والوصف الفني له، وكيفية استخدامه، وطرق تخزينه ونقله.",
+    "target_en_norm": "identifying information: any statement, information, or illustration printed on a medical device or supply, including identifying information, technical description, method of use, and manner of storage and transportation.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26323,
+    "source_ar": "المواصفات الفنية والإكلينيكية: مجموعة معايير تحدد جودة وفاعلية ومأمونية استخدام المادة المشعة في التطبيقات الطبية.",
+    "target_en": "Technical and Clinical Standards: A set of standards that determine the quality, effectiveness, and safe use of a radioactive material in medical applications.",
+    "source_ar_norm": "المواصفات الفنية والاكلينيكية: مجموعة معايير تحدد جودة وفاعلية ومامونية استخدام المادة المشعة في التطبيقات الطبية.",
+    "target_en_norm": "technical and clinical standards: a set of standards that determine the quality, effectiveness, and safe use of a radioactive material in medical applications.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26324,
+    "source_ar": "إنذار السلامة: إشعار يصدره المركز يوضح الخطر المرتبط بالجهاز أو المستلزم الطبي والإجراءات التصحيحية المطلوب القيام بها؛ تلافيًا للخطر المرتبط به.",
+    "target_en": "Safety Alert: A notice issued by the National Center for Medical Devices Reporting indicating the risk associated with a medical device or supply and the corrective action required to avoid such risk.",
+    "source_ar_norm": "انذار السلامة: اشعار يصدره المركز يوضح الخطر المرتبط بالجهاز او المستلزم الطبي والاجراءات التصحيحية المطلوب القيام بها؛ تلافيا للخطر المرتبط به.",
+    "target_en_norm": "safety alert: a notice issued by the national center for medical devices reporting indicating the risk associated with a medical device or supply and the corrective action required to avoid such risk.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26325,
+    "source_ar": "الإجراء التصحيحي لإنذار السلامة: إجراء يتخذه المصنع للحد من الأخطار التي تؤثر في مأمونية الجهاز أو المستلزم الطبي أو التقليل منها.",
+    "target_en": "Field Safety Corrective Action: An action taken by the manufacturer to limit or reduce the risks compromising the safety of a medical device or supply.",
+    "source_ar_norm": "الاجراء التصحيحي لانذار السلامة: اجراء يتخذه المصنع للحد من الاخطار التي تؤثر في مامونية الجهاز او المستلزم الطبي او التقليل منها.",
+    "target_en_norm": "field safety corrective action: an action taken by the manufacturer to limit or reduce the risks compromising the safety of a medical device or supply.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26326,
+    "source_ar": "حوادث الأجهزة والمستلزمات الطبية: أي قصور أو تغير في خصائص أو أداء الجهاز أو المستلزم الطبي مما قد يسبب أو يسهم بصورة مباشرة أو غير مباشرة في وفاة أو إصابة خطيرة للمستخدم.",
+    "target_en": "Accidents of Medical Devices and Supplies: Any defect or change in the characteristics or performance of a medical device or supply that may directly or indirectly cause or contribute to the death or serious injury of a user.",
+    "source_ar_norm": "حوادث الاجهزة والمستلزمات الطبية: اي قصور او تغير في خصائص او اداء الجهاز او المستلزم الطبي مما قد يسبب او يسهم بصورة مباشرة او غير مباشرة في وفاة او اصابة خطيرة للمستخدم.",
+    "target_en_norm": "accidents of medical devices and supplies: any defect or change in the characteristics or performance of a medical device or supply that may directly or indirectly cause or contribute to the death or serious injury of a user.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26327,
+    "source_ar": "المركز: المركز الوطني لبلاغات الأجهزة والمستلزمات الطبية.",
+    "target_en": "NCMDR: The National Center for Medical Devices Reporting.",
+    "source_ar_norm": "المركز: المركز الوطني لبلاغات الاجهزة والمستلزمات الطبية.",
+    "target_en_norm": "ncmdr: the national center for medical devices reporting.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26328,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26329,
+    "source_ar": "تخضع لأحكام النظام الأنشطة الآتية:",
+    "target_en": "The following activities shall be subject to the provisions of this Law:",
+    "source_ar_norm": "تخضع لاحكام النظام الانشطة الاتية:",
+    "target_en_norm": "the following activities shall be subject to the provisions of this law:",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26330,
+    "source_ar": "تصميم الأجهزة والمستلزمات الطبية، وتصنيعها.",
+    "target_en": "Designing and manufacturing medical devices and supplies.",
+    "source_ar_norm": "تصميم الاجهزة والمستلزمات الطبية، وتصنيعها.",
+    "target_en_norm": "designing and manufacturing medical devices and supplies.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26331,
+    "source_ar": "استيراد الأجهزة والمستلزمات الطبية، وتسويقها، وتوزيعها، وتخزينها.",
+    "target_en": "Importing, marketing, distributing, and storing medical devices and supplies.",
+    "source_ar_norm": "استيراد الاجهزة والمستلزمات الطبية، وتسويقها، وتوزيعها، وتخزينها.",
+    "target_en_norm": "importing, marketing, distributing, and storing medical devices and supplies.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26332,
+    "source_ar": "تقديم خدمات التحقق من مطابقة الأجهزة والمستلزمات الطبية للوائح الفنية ونظام إدارة الجودة، والتحقق من توكيد الجودة.",
+    "target_en": "Providing services to verify the conformity of medical devices and supplies with the technical regulations and the Quality Management System, and to verify quality assurance.",
+    "source_ar_norm": "تقديم خدمات التحقق من مطابقة الاجهزة والمستلزمات الطبية للوائح الفنية ونظام ادارة الجودة، والتحقق من توكيد الجودة.",
+    "target_en_norm": "providing services to verify the conformity of medical devices and supplies with the technical regulations and the quality management system, and to verify quality assurance.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26333,
+    "source_ar": "إجراء التحقق من الدراسات السريرية.",
+    "target_en": "Verifying clinical studies.",
+    "source_ar_norm": "اجراء التحقق من الدراسات السريرية.",
+    "target_en_norm": "verifying clinical studies.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26334,
+    "source_ar": "تقديم الخدمات الاستشارية الفنية في مجال الأجهزة والمستلزمات الطبية.",
+    "target_en": "Providing technical consultation services in the field of medical devices and supplies.",
+    "source_ar_norm": "تقديم الخدمات الاستشارية الفنية في مجال الاجهزة والمستلزمات الطبية.",
+    "target_en_norm": "providing technical consultation services in the field of medical devices and supplies.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26335,
+    "source_ar": "تقديم خدمات فحص الأجهزة والمستلزمات الطبية للتأكد من مطابقتها للوائح الفنية والمواصفات القياسية.",
+    "target_en": "Providing inspection services of medical devices and supplies to ensure their conformity with the technical regulations and standards.",
+    "source_ar_norm": "تقديم خدمات فحص الاجهزة والمستلزمات الطبية للتاكد من مطابقتها للوائح الفنية والمواصفات القياسية.",
+    "target_en_norm": "providing inspection services of medical devices and supplies to ensure their conformity with the technical regulations and standards.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26336,
+    "source_ar": "تقديم خدمات الصيانة للأجهزة والمستلزمات الطبية.",
+    "target_en": "Providing maintenance services for medical devices and supplies.",
+    "source_ar_norm": "تقديم خدمات الصيانة للاجهزة والمستلزمات الطبية.",
+    "target_en_norm": "providing maintenance services for medical devices and supplies.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26337,
+    "source_ar": "تمثيل المصنع المقيم خارج المملكة.",
+    "target_en": "Representing a manufacturer located outside the Kingdom.",
+    "source_ar_norm": "تمثيل المصنع المقيم خارج المملكة.",
+    "target_en_norm": "representing a manufacturer located outside the kingdom.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26338,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26339,
+    "source_ar": "تعد في حكم الأجهزة والمستلزمات الطبية الخاضعة لأحكام النظام: ملحقاتها، والأجهزة والمستلزمات الطبية المجمعة.",
+    "target_en": "Under this Law, accessories of medical devices and supplies and assembled medical devices and supplies shall be deemed medical devices and supplies.",
+    "source_ar_norm": "تعد في حكم الاجهزة والمستلزمات الطبية الخاضعة لاحكام النظام: ملحقاتها، والاجهزة والمستلزمات الطبية المجمعة.",
+    "target_en_norm": "under this law, accessories of medical devices and supplies and assembled medical devices and supplies shall be deemed medical devices and supplies.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26340,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26341,
+    "source_ar": "مع مراعاة اختصاصات هيئة الرقابة النووية والإشعاعية بإصدار التراخيص اللازمة لممارسة الأنشطة المتعلقة باستخدام المواد الطبية المشعة؛ يشترط موافقة الهيئة على المواصفات الفنية والإكلينيكية لتلك المواد قبل ترخيصها من هيئة الرقابة النووية والإشعاعية.",
+    "target_en": "Without prejudice to the powers of the Nuclear and Radiological Regulatory Commission (NRRC) to issue licenses for engaging in activities related to the use of radioactive medical materials, the technical and clinical specifications of such materials must be approved by the SFDA prior to obtaining the NRCC’s license.",
+    "source_ar_norm": "مع مراعاة اختصاصات هيئة الرقابة النووية والاشعاعية باصدار التراخيص اللازمة لممارسة الانشطة المتعلقة باستخدام المواد الطبية المشعة؛ يشترط موافقة الهيئة علي المواصفات الفنية والاكلينيكية لتلك المواد قبل ترخيصها من هيئة الرقابة النووية والاشعاعية.",
+    "target_en_norm": "without prejudice to the powers of the nuclear and radiological regulatory commission (nrrc) to issue licenses for engaging in activities related to the use of radioactive medical materials, the technical and clinical specifications of such materials must be approved by the sfda prior to obtaining the nrcc’s license.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26342,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26343,
+    "source_ar": "لا يخل تطبيق أحكام النظام، باختصاصات هيئة الرقابة النووية والإشعاعية فيما يتعلق بإصدار ترخيص الحماية من الإشعاع المؤين الصادر من الأجهزة الطبية.",
+    "target_en": "Application of this Law shall not prejudice the powers of the NRRC to issue licenses for protection against ionizing radiation emitted by medical devices.",
+    "source_ar_norm": "لا يخل تطبيق احكام النظام، باختصاصات هيئة الرقابة النووية والاشعاعية فيما يتعلق باصدار ترخيص الحماية من الاشعاع المؤين الصادر من الاجهزة الطبية.",
+    "target_en_norm": "application of this law shall not prejudice the powers of the nrrc to issue licenses for protection against ionizing radiation emitted by medical devices.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26344,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26345,
+    "source_ar": "مع مراعاة ما ورد في المادة (الرابعة) من النظام؛ لا يجوز لأي منشأة ممارسة أيٍّ من الأنشطة الخاضعة للنظام؛ إلَّا بعد التسجيل، والحصول على الترخيص، إضافةً إلى الحصول على الترخيص الصناعي من الجهة المختصة بالنسبة إلى المصانع.",
+    "target_en": "Subject to Article 4 of this Law, an establishment may not engage in any of the activities subject to this Law unless registered and a license is obtained; as for manufacturers, an industrial license must be obtained from the competent agency.",
+    "source_ar_norm": "مع مراعاة ما ورد في المادة (الرابعة) من النظام؛ لا يجوز لاي منشاة ممارسة اي من الانشطة الخاضعة للنظام؛ الا بعد التسجيل، والحصول علي الترخيص، اضافة الي الحصول علي الترخيص الصناعي من الجهة المختصة بالنسبة الي المصانع.",
+    "target_en_norm": "subject to article 4 of this law, an establishment may not engage in any of the activities subject to this law unless registered and a license is obtained; as for manufacturers, an industrial license must be obtained from the competent agency.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26346,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26347,
+    "source_ar": "على المرخص له بإجراء التحقق من الدراسات السريرية؛ الحصول على موافقة الهيئة قبل البدء في أي من عمليات التحقق، وفقًا لما تحدده اللائحة.",
+    "target_en": "An entity licensed to verify clinical studies shall, prior to conducting any verification procedure, obtain the SFDA’s approval in accordance with the Regulations.",
+    "source_ar_norm": "علي المرخص له باجراء التحقق من الدراسات السريرية؛ الحصول علي موافقة الهيئة قبل البدء في اي من عمليات التحقق، وفقا لما تحدده اللائحة.",
+    "target_en_norm": "an entity licensed to verify clinical studies shall, prior to conducting any verification procedure, obtain the sfda’s approval in accordance with the regulations.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26348,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26349,
+    "source_ar": "لا يجوز تداول أي جهاز أو مستلزم طبي إلَّا بعد التسجيل، والحصول على الإذن بالتسويق. وللهيئة استثناء بعض الأجهزة والمستلزمات الطبية من شرط الحصول على الإذن بالتسويق، بعد التأكد من سلامتها، وعدم استخدامها لأغراض تجارية؛ وذلك وفق قواعد يقرها المجلس.",
+    "target_en": "Medical devices or supplies may not be circulated unless registered and a marketing authorization is obtained. The SFDA may exempt certain medical devices and supplies from the marketing authorization requirement upon verifying, in accordance with rules approved by the Board, that they are safe and are not intended to be used for commercial purposes.",
+    "source_ar_norm": "لا يجوز تداول اي جهاز او مستلزم طبي الا بعد التسجيل، والحصول علي الاذن بالتسويق. وللهيئة استثناء بعض الاجهزة والمستلزمات الطبية من شرط الحصول علي الاذن بالتسويق، بعد التاكد من سلامتها، وعدم استخدامها لاغراض تجارية؛ وذلك وفق قواعد يقرها المجلس.",
+    "target_en_norm": "medical devices or supplies may not be circulated unless registered and a marketing authorization is obtained. the sfda may exempt certain medical devices and supplies from the marketing authorization requirement upon verifying, in accordance with rules approved by the board, that they are safe and are not intended to be used for commercial purposes.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26350,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26351,
+    "source_ar": "للهيئة استثناء الجهاز أو المستلزم الطبي المبتكر من بعض الشروط والإجراءات اللازمة للحصول على الإذن بالتسويق؛ بما لا يؤثر في مأمونيته وسلامته عند استخدامه، وذلك وفقًا لما تحدده اللائحة.",
+    "target_en": "The SFDA may, in accordance with the Regulations, exempt innovative medical devices or supplies from certain conditions and procedures required to obtain a marketing authorization, provided the exemption does not compromise their safety when used.",
+    "source_ar_norm": "للهيئة استثناء الجهاز او المستلزم الطبي المبتكر من بعض الشروط والاجراءات اللازمة للحصول علي الاذن بالتسويق؛ بما لا يؤثر في مامونيته وسلامته عند استخدامه، وذلك وفقا لما تحدده اللائحة.",
+    "target_en_norm": "the sfda may, in accordance with the regulations, exempt innovative medical devices or supplies from certain conditions and procedures required to obtain a marketing authorization, provided the exemption does not compromise their safety when used.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26352,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26353,
+    "source_ar": "تحدد اللائحة الشروط والإجراءات اللازمة للتسجيل، وإصدار الإذن بالتسويق، والحصول على الترخيص وتجديده وتعديله ونقله وإلغائه.",
+    "target_en": "The Regulations shall specify the conditions and procedures necessary for registration; issuance of the marketing authorization; and for license issuance, renewal, amendment, transfer, and revocation.",
+    "source_ar_norm": "تحدد اللائحة الشروط والاجراءات اللازمة للتسجيل، واصدار الاذن بالتسويق، والحصول علي الترخيص وتجديده وتعديله ونقله والغائه.",
+    "target_en_norm": "the regulations shall specify the conditions and procedures necessary for registration; issuance of the marketing authorization; and for license issuance, renewal, amendment, transfer, and revocation.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26354,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26355,
+    "source_ar": "لا يجوز فسح الأجهزة والمستلزمات الطبية المستوردة إلَّا بعد موافقة الهيئة.",
+    "target_en": "Imported medical devices and supplies may not be cleared unless approved by the SFDA.",
+    "source_ar_norm": "لا يجوز فسح الاجهزة والمستلزمات الطبية المستوردة الا بعد موافقة الهيئة.",
+    "target_en_norm": "imported medical devices and supplies may not be cleared unless approved by the sfda.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26356,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26357,
+    "source_ar": "تحدد اللائحة الشروط اللازمة لإصدار شهادة حرية البيع.",
+    "target_en": "The Regulations shall determine the conditions for issuing a certificate of free sale.",
+    "source_ar_norm": "تحدد اللائحة الشروط اللازمة لاصدار شهادة حرية البيع.",
+    "target_en_norm": "the regulations shall determine the conditions for issuing a certificate of free sale.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26358,
+    "source_ar": "المادة الثالثة عشرة",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة",
+    "target_en_norm": "article 13",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26359,
+    "source_ar": "للهيئة السماح بدخول الأجهزة والمستلزمات الطبية ذات الاستخدام الشخصي؛ بناءً على تقرير طبي وبكميات محدودة، على ألَّا تُستخدم لأي غرض تجاري.",
+    "target_en": "The SFDA may, pursuant to a medical report, permit the entry of personal-use medical devices and supplies in limited quantities, provided they are not used for commercial purposes.",
+    "source_ar_norm": "للهيئة السماح بدخول الاجهزة والمستلزمات الطبية ذات الاستخدام الشخصي؛ بناء علي تقرير طبي وبكميات محدودة، علي الا تستخدم لاي غرض تجاري.",
+    "target_en_norm": "the sfda may, pursuant to a medical report, permit the entry of personal-use medical devices and supplies in limited quantities, provided they are not used for commercial purposes.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26360,
+    "source_ar": "المادة الرابعة عشرة",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة",
+    "target_en_norm": "article 14",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26361,
+    "source_ar": "على كل من صرف أو باع جهازًا أو مستلزمًا طبيًّا مغشوشًا، أو غير مسجل، أو غير حاصل على الإذن بالتسويق، إبلاغ الهيئة -فور علمه بذلك- بالمعلومات التي تتعلق بما صُرف أو بِيع وكميته، واسم من صُرِف أو بِيع له الجهاز أو المستلزم الطبي وعنوانه، ويلتزم بإعادة الثمن للمشتري.",
+    "target_en": "Any person who dispenses or sells fraudulent, unregistered, or unauthorized medical devices or supplies shall, upon knowledge thereof, notify the SFDA of any information relating to the dispensed or sold devices or supplies and their quantity, as well as the name and address of any person to whom the medical devices or supplies are dispensed or sold, and shall refund the buyer.",
+    "source_ar_norm": "علي كل من صرف او باع جهازا او مستلزما طبيا مغشوشا، او غير مسجل، او غير حاصل علي الاذن بالتسويق، ابلاغ الهيئة -فور علمه بذلك- بالمعلومات التي تتعلق بما صرف او بيع وكميته، واسم من صرف او بيع له الجهاز او المستلزم الطبي وعنوانه، ويلتزم باعادة الثمن للمشتري.",
+    "target_en_norm": "any person who dispenses or sells fraudulent, unregistered, or unauthorized medical devices or supplies shall, upon knowledge thereof, notify the sfda of any information relating to the dispensed or sold devices or supplies and their quantity, as well as the name and address of any person to whom the medical devices or supplies are dispensed or sold, and shall refund the buyer.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26362,
+    "source_ar": "المادة الخامسة عشرة",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة",
+    "target_en_norm": "article 15",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26363,
+    "source_ar": "مع مراعاة الأحكام الواردة في نظام الوكالات التجارية؛ يتعين على المصنع المقيم خارج المملكة -عند رغبته في تداول منتجاته في المملكة- تعيين ممثل معتمد له. وتحدد اللائحة الشروط اللازم توافرها في الممثل المعتمد، وكذلك التزامات الطرفين ومسؤولياتهما.",
+    "target_en": "Subject to the provisions of the Commercial Agencies Law, a manufacturer who is located outside the Kingdom and who wishes to circulate his products in the Kingdom shall appoint an authorized representative. The Regulations shall determine the requirements the representative must satisfy as well as the obligations and responsibilities of the two parties.",
+    "source_ar_norm": "مع مراعاة الاحكام الواردة في نظام الوكالات التجارية؛ يتعين علي المصنع المقيم خارج المملكة -عند رغبته في تداول منتجاته في المملكة- تعيين ممثل معتمد له. وتحدد اللائحة الشروط اللازم توافرها في الممثل المعتمد، وكذلك التزامات الطرفين ومسؤولياتهما.",
+    "target_en_norm": "subject to the provisions of the commercial agencies law, a manufacturer who is located outside the kingdom and who wishes to circulate his products in the kingdom shall appoint an authorized representative. the regulations shall determine the requirements the representative must satisfy as well as the obligations and responsibilities of the two parties.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26364,
+    "source_ar": "المادة السادسة عشرة",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة",
+    "target_en_norm": "article 16",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26365,
+    "source_ar": "على المصنع توفير خدمات ما بعد البيع للأجهزة والمستلزمات الطبية التابعة له، وتطبق في هذا الشأن الأحكام المنصوص عليها في النظام واللائحة.",
+    "target_en": "The manufacturer shall provide after-sale services for its medical devices and supplies and shall comply with the provisions of this Law and its Regulations.",
+    "source_ar_norm": "علي المصنع توفير خدمات ما بعد البيع للاجهزة والمستلزمات الطبية التابعة له، وتطبق في هذا الشان الاحكام المنصوص عليها في النظام واللائحة.",
+    "target_en_norm": "the manufacturer shall provide after-sale services for its medical devices and supplies and shall comply with the provisions of this law and its regulations.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26366,
+    "source_ar": "المادة السابعة عشرة",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة",
+    "target_en_norm": "article 17",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26367,
+    "source_ar": "على المنشآت الالتزام بالمعلومات التعريفية الواجب توافرها على الأجهزة والمستلزمات الطبية، وتحدد اللائحة تلك المعلومات.",
+    "target_en": "Establishments shall provide the identifying information to be placed on medical devices and supplies. The Regulations shall determine such information.",
+    "source_ar_norm": "علي المنشات الالتزام بالمعلومات التعريفية الواجب توافرها علي الاجهزة والمستلزمات الطبية، وتحدد اللائحة تلك المعلومات.",
+    "target_en_norm": "establishments shall provide the identifying information to be placed on medical devices and supplies. the regulations shall determine such information.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26368,
+    "source_ar": "المادة الثامنة عشرة",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة",
+    "target_en_norm": "article 18",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26369,
+    "source_ar": "يلتزم مقدم الرعاية الصحية بألَّا يتعامل مع أي منشأة تزاول أيًّا من الأنشطة الخاضعة للنظام؛ ما لم تكن مسجلة وحاصلة على ترخيص في مجال التعامل نفسه.",
+    "target_en": "A health care provider shall not deal with any establishment which engages in any activity governed by this Law, unless it is registered and licensed to engage in such activity.",
+    "source_ar_norm": "يلتزم مقدم الرعاية الصحية بالا يتعامل مع اي منشاة تزاول ايا من الانشطة الخاضعة للنظام؛ ما لم تكن مسجلة وحاصلة علي ترخيص في مجال التعامل نفسه.",
+    "target_en_norm": "a health care provider shall not deal with any establishment which engages in any activity governed by this law, unless it is registered and licensed to engage in such activity.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26370,
+    "source_ar": "المادة التاسعة عشرة",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة",
+    "target_en_norm": "article 19",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26371,
+    "source_ar": "لا تجوز إعادة معالجة الأجهزة أو المستلزمات الطبية ذات الاستخدام مرة واحدة.",
+    "target_en": "Single-use medical devices or supplies may not be reprocessed.",
+    "source_ar_norm": "لا تجوز اعادة معالجة الاجهزة او المستلزمات الطبية ذات الاستخدام مرة واحدة.",
+    "target_en_norm": "single-use medical devices or supplies may not be reprocessed.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26372,
+    "source_ar": "المادة العشرون",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون",
+    "target_en_norm": "article 20",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26373,
+    "source_ar": "لا يجوز إتلاف الأجهزة أو المستلزمات الطبية المستخدمة، ولا إعادة معالجتها، ولا تجديدها، ولا إعادة بيعها، ولا إعارتها، ولا التبرع بها؛ إلَّا وفقًا للشروط التي تحددها اللائحة.",
+    "target_en": "Used medical devices or supplies may not be destroyed, reprocessed, refurbished, resold, loaned, or donated except as specified by the Regulations.",
+    "source_ar_norm": "لا يجوز اتلاف الاجهزة او المستلزمات الطبية المستخدمة، ولا اعادة معالجتها، ولا تجديدها، ولا اعادة بيعها، ولا اعارتها، ولا التبرع بها؛ الا وفقا للشروط التي تحددها اللائحة.",
+    "target_en_norm": "used medical devices or supplies may not be destroyed, reprocessed, refurbished, resold, loaned, or donated except as specified by the regulations.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26374,
+    "source_ar": "المادة الحادية والعشرون",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون",
+    "target_en_norm": "article 21",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26375,
+    "source_ar": "يلتزم المصنع بتصنيف الأجهزة والمستلزمات الطبية وفقًا لنظام التصنيف.",
+    "target_en": "The manufacturer shall classify medical devices and supplies in accordance with the Classification System.",
+    "source_ar_norm": "يلتزم المصنع بتصنيف الاجهزة والمستلزمات الطبية وفقا لنظام التصنيف.",
+    "target_en_norm": "the manufacturer shall classify medical devices and supplies in accordance with the classification system.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26376,
+    "source_ar": "المادة الثانية والعشرون",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون",
+    "target_en_norm": "article 22",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26377,
+    "source_ar": "على المنشآت الراغبة في تداول الأجهزة والمستلزمات الطبية في المملكة الالتزام بتطبيق نظام إدارة الجودة.",
+    "target_en": "Establishments seeking to circulate medical devices and supplies in the Kingdom shall adhere to the Quality Management System.",
+    "source_ar_norm": "علي المنشات الراغبة في تداول الاجهزة والمستلزمات الطبية في المملكة الالتزام بتطبيق نظام ادارة الجودة.",
+    "target_en_norm": "establishments seeking to circulate medical devices and supplies in the kingdom shall adhere to the quality management system.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26378,
+    "source_ar": "المادة الثالثة والعشرون",
+    "target_en": "Article 23",
+    "source_ar_norm": "المادة الثالثة والعشرون",
+    "target_en_norm": "article 23",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26379,
+    "source_ar": "لا يجوز صرف الأجهزة أو المستلزمات الطبية المصنفة عالية الخطورة -وفقًا لنظام التصنيف- للاستخدام خارج منشأة مقدم الرعاية الصحية؛ دون وصفة طبية. وتصدر الهيئة قائمة بتلك الأجهزة والمستلزمات الطبية.",
+    "target_en": "Medical devices or supplies categorized as high risk under the Classification System may not be dispensed for use outside the facility of the health care provider without prescription. The SFDA shall issue a list of such medical devices and supplies.",
+    "source_ar_norm": "لا يجوز صرف الاجهزة او المستلزمات الطبية المصنفة عالية الخطورة -وفقا لنظام التصنيف- للاستخدام خارج منشاة مقدم الرعاية الصحية؛ دون وصفة طبية. وتصدر الهيئة قائمة بتلك الاجهزة والمستلزمات الطبية.",
+    "target_en_norm": "medical devices or supplies categorized as high risk under the classification system may not be dispensed for use outside the facility of the health care provider without prescription. the sfda shall issue a list of such medical devices and supplies.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26380,
+    "source_ar": "المادة الرابعة والعشرون",
+    "target_en": "Article 24",
+    "source_ar_norm": "المادة الرابعة والعشرون",
+    "target_en_norm": "article 24",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26381,
+    "source_ar": "لا تجوز الدعاية للأجهزة والمستلزمات الطبية ولا الإعلان عنها ولا الترويج لها، إلَّا بعد موافقة الهيئة ووفقًا للشروط التي تحددها اللائحة.",
+    "target_en": "Medical devices and supplies may not be advertised nor promoted without the SFDA’s approval. Advertisement and promotion shall be in accordance with the conditions determined by the Regulations.",
+    "source_ar_norm": "لا تجوز الدعاية للاجهزة والمستلزمات الطبية ولا الاعلان عنها ولا الترويج لها، الا بعد موافقة الهيئة ووفقا للشروط التي تحددها اللائحة.",
+    "target_en_norm": "medical devices and supplies may not be advertised nor promoted without the sfda’s approval. advertisement and promotion shall be in accordance with the conditions determined by the regulations.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26382,
+    "source_ar": "المادة الخامسة والعشرون",
+    "target_en": "Article 25",
+    "source_ar_norm": "المادة الخامسة والعشرون",
+    "target_en_norm": "article 25",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26383,
+    "source_ar": "لا تجوز إقامة حملات توعية أو حملات خيرية أو ما في حكمهما متعلقة بالأجهزة والمستلزمات الطبية، إلَّا بعد موافقة الهيئة ووفقًا للشروط التي تحددها اللائحة.",
+    "target_en": "Awareness and charitable campaigns, and the like, relating to medical devices and supplies may not be organized without the SFDA's approval. Such campaigns shall be in accordance with the conditions determined by the Regulations.",
+    "source_ar_norm": "لا تجوز اقامة حملات توعية او حملات خيرية او ما في حكمهما متعلقة بالاجهزة والمستلزمات الطبية، الا بعد موافقة الهيئة ووفقا للشروط التي تحددها اللائحة.",
+    "target_en_norm": "awareness and charitable campaigns, and the like, relating to medical devices and supplies may not be organized without the sfda's approval. such campaigns shall be in accordance with the conditions determined by the regulations.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26384,
+    "source_ar": "المادة السادسة والعشرون",
+    "target_en": "Article 26",
+    "source_ar_norm": "المادة السادسة والعشرون",
+    "target_en_norm": "article 26",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26385,
+    "source_ar": "تراقب الهيئة التزام مقدمي الرعاية الصحية بتطبيق اللوائح الفنية داخل مرافق الرعاية الصحية، للتأكد من سلامة الأجهزة والمستلزمات الطبية ومأمونيتها وكفايتها في التشخيص والعلاج.",
+    "target_en": "The SFDA shall monitor the compliance of health care providers with technical regulations within health care facilities in order to ensure the safety and efficacy of medical devices and supplies in diagnosis and treatment.",
+    "source_ar_norm": "تراقب الهيئة التزام مقدمي الرعاية الصحية بتطبيق اللوائح الفنية داخل مرافق الرعاية الصحية، للتاكد من سلامة الاجهزة والمستلزمات الطبية ومامونيتها وكفايتها في التشخيص والعلاج.",
+    "target_en_norm": "the sfda shall monitor the compliance of health care providers with technical regulations within health care facilities in order to ensure the safety and efficacy of medical devices and supplies in diagnosis and treatment.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26386,
+    "source_ar": "المادة السابعة والعشرون",
+    "target_en": "Article 27",
+    "source_ar_norm": "المادة السابعة والعشرون",
+    "target_en_norm": "article 27",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26387,
+    "source_ar": "على المنشأة والممثل المعتمد تزويد الهيئة بكل وثيقة أو معلومة تطلبها للقيام باختصاصاتها المنصوص عليها في النظام واللائحة.",
+    "target_en": "An establishment or an authorized representative shall provide the SFDA with the documents or information required thereby in accordance with this Law and its Regulations.",
+    "source_ar_norm": "علي المنشاة والممثل المعتمد تزويد الهيئة بكل وثيقة او معلومة تطلبها للقيام باختصاصاتها المنصوص عليها في النظام واللائحة.",
+    "target_en_norm": "an establishment or an authorized representative shall provide the sfda with the documents or information required thereby in accordance with this law and its regulations.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26388,
+    "source_ar": "المادة الثامنة والعشرون",
+    "target_en": "Article 28",
+    "source_ar_norm": "المادة الثامنة والعشرون",
+    "target_en_norm": "article 28",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26389,
+    "source_ar": "على المصنع والممثل المعتمد ومقدم الرعاية الصحية الالتزام بإبلاغ المركز عن حوادث الأجهزة والمستلزمات الطبية التابعة لهم.",
+    "target_en": "The manufacturer, authorized representative, and health care provider shall report to the NCMDR any adverse event relating to their medical devices and supplies.",
+    "source_ar_norm": "علي المصنع والممثل المعتمد ومقدم الرعاية الصحية الالتزام بابلاغ المركز عن حوادث الاجهزة والمستلزمات الطبية التابعة لهم.",
+    "target_en_norm": "the manufacturer, authorized representative, and health care provider shall report to the ncmdr any adverse event relating to their medical devices and supplies.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26390,
+    "source_ar": "المادة التاسعة والعشرون",
+    "target_en": "Article 29",
+    "source_ar_norm": "المادة التاسعة والعشرون",
+    "target_en_norm": "article 29",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26391,
+    "source_ar": "يصدر المركز إنذار السلامة لتنبيه المستخدم ومقدم الرعاية الصحية بالأخطار الناتجة من استخدام الأجهزة والمستلزمات الطبية.",
+    "target_en": "The NCMDR shall issue a safety alert to warn users and health care providers of any risks arising from the use of medical devices and supplies.",
+    "source_ar_norm": "يصدر المركز انذار السلامة لتنبيه المستخدم ومقدم الرعاية الصحية بالاخطار الناتجة من استخدام الاجهزة والمستلزمات الطبية.",
+    "target_en_norm": "the ncmdr shall issue a safety alert to warn users and health care providers of any risks arising from the use of medical devices and supplies.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26392,
+    "source_ar": "المادة الثلاثون",
+    "target_en": "Article 30",
+    "source_ar_norm": "المادة الثلاثون",
+    "target_en_norm": "article 30",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26393,
+    "source_ar": "يلتزم المصنع والممثل المعتمد بإبلاغ المركز فيما يتصل بالأجهزة والمستلزمات الطبية التابعة لهما عن الآتي:",
+    "target_en": "The manufacturer and the authorized representative shall, in relation to their medical devices and supplies, report the following to the NCMDR:",
+    "source_ar_norm": "يلتزم المصنع والممثل المعتمد بابلاغ المركز فيما يتصل بالاجهزة والمستلزمات الطبية التابعة لهما عن الاتي:",
+    "target_en_norm": "the manufacturer and the authorized representative shall, in relation to their medical devices and supplies, report the following to the ncmdr:",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26394,
+    "source_ar": "إنذارات السلامة الصادرة من الجهات الرقابية المماثلة خارج المملكة.",
+    "target_en": "Safety alerts issued by similar regulatory authorities outside the Kingdom.",
+    "source_ar_norm": "انذارات السلامة الصادرة من الجهات الرقابية المماثلة خارج المملكة.",
+    "target_en_norm": "safety alerts issued by similar regulatory authorities outside the kingdom.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26395,
+    "source_ar": "الأخطار التي تؤثر في مأمونية الجهاز أو المستلزم الطبي.",
+    "target_en": "Risks compromising the safety of the medical device or supply.",
+    "source_ar_norm": "الاخطار التي تؤثر في مامونية الجهاز او المستلزم الطبي.",
+    "target_en_norm": "risks compromising the safety of the medical device or supply.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26396,
+    "source_ar": "الانتهاء من الإجراء التصحيحي لإنذار السلامة.",
+    "target_en": "Completion of the Field Safety Corrective Action.",
+    "source_ar_norm": "الانتهاء من الاجراء التصحيحي لانذار السلامة.",
+    "target_en_norm": "completion of the field safety corrective action.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26397,
+    "source_ar": "المادة الحادية والثلاثون",
+    "target_en": "Article 31",
+    "source_ar_norm": "المادة الحادية والثلاثون",
+    "target_en_norm": "article 31",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26398,
+    "source_ar": "على المنشأة ومقدم الرعاية الصحية في حال صدور إنذار السلامة إيقاف تداول الأجهزة والمستلزمات الطبية، حتى صدور إشعار من المركز بالانتهاء من الإجراء التصحيحي لإنذار السلامة.",
+    "target_en": "An establishment and a health care provider shall, in the event of a safety alert, suspend the circulation of medical devices and supplies pending a notification by the NCMDR indicating that the Field Safety Corrective Action has been completed.",
+    "source_ar_norm": "علي المنشاة ومقدم الرعاية الصحية في حال صدور انذار السلامة ايقاف تداول الاجهزة والمستلزمات الطبية، حتي صدور اشعار من المركز بالانتهاء من الاجراء التصحيحي لانذار السلامة.",
+    "target_en_norm": "an establishment and a health care provider shall, in the event of a safety alert, suspend the circulation of medical devices and supplies pending a notification by the ncmdr indicating that the field safety corrective action has been completed.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26399,
+    "source_ar": "المادة الثانية والثلاثون",
+    "target_en": "Article 32",
+    "source_ar_norm": "المادة الثانية والثلاثون",
+    "target_en_norm": "article 32",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  },
+  {
+    "id": 26400,
+    "source_ar": "على المنشأة والممثل المعتمد الاستجابة لطلب الهيئة في اقتفاء أثر الأجهزة والمستلزمات الطبية. وتحدد اللائحة الإجراءات المتعلقة بذلك.",
+    "target_en": "An establishment or an authorized representative shall, if requested by the SFDA, track medical devices and supplies in accordance with the Regulations.",
+    "source_ar_norm": "علي المنشاة والممثل المعتمد الاستجابة لطلب الهيئة في اقتفاء اثر الاجهزة والمستلزمات الطبية. وتحدد اللائحة الاجراءات المتعلقة بذلك.",
+    "target_en_norm": "an establishment or an authorized representative shall, if requested by the sfda, track medical devices and supplies in accordance with the regulations.",
+    "file_name": "نظام الأجهزة والمستلزمات الطبية.docx"
+  }
+]

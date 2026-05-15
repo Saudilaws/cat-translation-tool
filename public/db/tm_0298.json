@@ -1,0 +1,802 @@
+[
+  {
+    "id": 29701,
+    "source_ar": "2- للمحكمة أن تقضي بخضوع شخص آخر للإجراء إذا كان في إخضاع الشخص الآخر -الذي تنطبق عليه شروط افتتاح الإجراء- للإجراء مصلحة للمدين ولهذا الشخص وكانت الإجراءات المستقلة لكل منهما على حدة مكلفة أو غير مجدية، وذلك مع اشتراط توافر الحماية اللازمة لدائني المدين ودائني الشخص الآخر.",
+    "target_en": "2. The court may order that another person, on whom the conditions of the initiation of the procedure apply, be subjected to the procedure if it is in his interest and the interest of the debtor, and that applying separate procedures for each is costly or infeasible, provided the rights of the creditors of the debtor and the creditors of the other person are protected.",
+    "source_ar_norm": "2- للمحكمة ان تقضي بخضوع شخص اخر للاجراء اذا كان في اخضاع الشخص الاخر -الذي تنطبق عليه شروط افتتاح الاجراء- للاجراء مصلحة للمدين ولهذا الشخص وكانت الاجراءات المستقلة لكل منهما علي حدة مكلفة او غير مجدية، وذلك مع اشتراط توافر الحماية اللازمة لدائني المدين ودائني الشخص الاخر.",
+    "target_en_norm": "2. the court may order that another person, on whom the conditions of the initiation of the procedure apply, be subjected to the procedure if it is in his interest and the interest of the debtor, and that applying separate procedures for each is costly or infeasible, provided the rights of the creditors of the debtor and the creditors of the other person are protected.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29702,
+    "source_ar": "الأثر المترتب على افتتاح الإجراء (تعيين الأمين والخبير وقاضي الإشراف وصلاحياتهم)",
+    "target_en": "Effects of the Initiation of the Procedure (Appointment and Powers of Trustee, Expert, and Overseeing Judge)",
+    "source_ar_norm": "الاثر المترتب علي افتتاح الاجراء (تعيين الامين والخبير وقاضي الاشراف وصلاحياتهم)",
+    "target_en_norm": "effects of the initiation of the procedure (appointment and powers of trustee, expert, and overseeing judge)",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29703,
+    "source_ar": "المادة الخمسون",
+    "target_en": "Article 50",
+    "source_ar_norm": "المادة الخمسون",
+    "target_en_norm": "article 50",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29704,
+    "source_ar": "1- تعين المحكمة في حكمها بافتتاح إجراء إعادة التنظيم المالي أميناً من المدرجين بقائمة أمناء الإفلاس. ولمقدم طلب افتتاح الإجراء أن يقترح على المحكمة اسم الأمين الذي يرغب في تعيينه من بين المدرجين في القائمة.",
+    "target_en": "1. In its decision to initiate a financial restructuring procedure, the court shall appoint a listed trustee. The petitioner for the initiation of the procedure may propose to the court the name of the listed trustee to be appointed.",
+    "source_ar_norm": "1- تعين المحكمة في حكمها بافتتاح اجراء اعادة التنظيم المالي امينا من المدرجين بقائمة امناء الافلاس. ولمقدم طلب افتتاح الاجراء ان يقترح علي المحكمة اسم الامين الذي يرغب في تعيينه من بين المدرجين في القائمة.",
+    "target_en_norm": "1. in its decision to initiate a financial restructuring procedure, the court shall appoint a listed trustee. the petitioner for the initiation of the procedure may propose to the court the name of the listed trustee to be appointed.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29705,
+    "source_ar": "2- يراعى عند تعيين الأمين قدراته المالية ومؤهلاته العلمية ومؤهلات فريق العمل معه.",
+    "target_en": "2. In the appointment of the trustee, his financial capabilities and academic qualifications, as well as the qualifications of his team shall be taken into consideration.",
+    "source_ar_norm": "2- يراعي عند تعيين الامين قدراته المالية ومؤهلاته العلمية ومؤهلات فريق العمل معه.",
+    "target_en_norm": "2. in the appointment of the trustee, his financial capabilities and academic qualifications, as well as the qualifications of his team shall be taken into consideration.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29706,
+    "source_ar": "3- على الأمين بذل العناية الواجبة تجاه مصالح الدائنين.",
+    "target_en": "3. The trustee shall exercise due diligence vis-a-vis creditors’ interests.",
+    "source_ar_norm": "3- علي الامين بذل العناية الواجبة تجاه مصالح الدائنين.",
+    "target_en_norm": "3. the trustee shall exercise due diligence vis-a-vis creditors’ interests.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29707,
+    "source_ar": "4- دون إخلال بالفقرة (2) من هذه المادة، للأمين بعد موافقة المحكمة تفويض بعض مهماته إلى أحد المدرجين بقائمة الأمناء أو الخبراء للقيام بالمهمة المفوض بها إذا استدعى الأمر ذلك، على أن تكون المهمات الموكل بها المفوض موصوفة بدقة وعناية في قرار المحكمة.",
+    "target_en": "4. Without prejudice to paragraph (2) of this Article, the trustee may, upon the court's approval, delegate certain duties to a listed trustee or expert, when necessary, provided that such duties are clearly specified in the court’s decision.",
+    "source_ar_norm": "4- دون اخلال بالفقرة (2) من هذه المادة، للامين بعد موافقة المحكمة تفويض بعض مهماته الي احد المدرجين بقائمة الامناء او الخبراء للقيام بالمهمة المفوض بها اذا استدعي الامر ذلك، علي ان تكون المهمات الموكل بها المفوض موصوفة بدقة وعناية في قرار المحكمة.",
+    "target_en_norm": "4. without prejudice to paragraph (2) of this article, the trustee may, upon the court's approval, delegate certain duties to a listed trustee or expert, when necessary, provided that such duties are clearly specified in the court’s decision.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29708,
+    "source_ar": "5- للمحكمة -عند الحاجة- تعيين أكثر من أمين يعملون مجتمعين وفقاً للنظام ولتعليماتها على أن تختار من بينهم رئيساً، ويكون الأمناء مسؤولين بالتضامن عن أعمالهم، وتبين اللائحة طريقة عملهم.",
+    "target_en": "5. The court may, when necessary, appoint more than one trustee to jointly act in accordance with this Law and the court's instructions, provided the court appoints a chairman from among them. The trustees shall be jointly liable for their actions. The Regulations shall set forth their work procedures.",
+    "source_ar_norm": "5- للمحكمة -عند الحاجة- تعيين اكثر من امين يعملون مجتمعين وفقا للنظام ولتعليماتها علي ان تختار من بينهم رئيسا، ويكون الامناء مسؤولين بالتضامن عن اعمالهم، وتبين اللائحة طريقة عملهم.",
+    "target_en_norm": "5. the court may, when necessary, appoint more than one trustee to jointly act in accordance with this law and the court's instructions, provided the court appoints a chairman from among them. the trustees shall be jointly liable for their actions. the regulations shall set forth their work procedures.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29709,
+    "source_ar": "6- يودع الأمين نسخة من حكم المحكمة بافتتاح الإجراء وبتعيينه في سجل الإفلاس.",
+    "target_en": "6. The trustee shall deposit a copy of the court’s decision to initiate the procedure and of his appointment in the Bankruptcy Register.",
+    "source_ar_norm": "6- يودع الامين نسخة من حكم المحكمة بافتتاح الاجراء وبتعيينه في سجل الافلاس.",
+    "target_en_norm": "6. the trustee shall deposit a copy of the court’s decision to initiate the procedure and of his appointment in the bankruptcy register.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29710,
+    "source_ar": "المادة الحادية والخمسون",
+    "target_en": "Article 51",
+    "source_ar_norm": "المادة الحادية والخمسون",
+    "target_en_norm": "article 51",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29711,
+    "source_ar": "للمحكمة -بناء على طلب الأمين- تعيين خبير من المدرجين بقائمة الخبراء أو من غيرهم لمساعدة الأمين في أداء مهماته.",
+    "target_en": "The court may, upon the request of the trustee, appoint an expert from the list of experts or any other expert to assist the trustee in the discharge of his duties.",
+    "source_ar_norm": "للمحكمة -بناء علي طلب الامين- تعيين خبير من المدرجين بقائمة الخبراء او من غيرهم لمساعدة الامين في اداء مهماته.",
+    "target_en_norm": "the court may, upon the request of the trustee, appoint an expert from the list of experts or any other expert to assist the trustee in the discharge of his duties.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29712,
+    "source_ar": "المادة الثانية والخمسون",
+    "target_en": "Article 52",
+    "source_ar_norm": "المادة الثانية والخمسون",
+    "target_en_norm": "article 52",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29713,
+    "source_ar": "1- لا يجوز أن يعين أميناً أو خبيراً كل من:",
+    "target_en": "1. The following shall not be appointed as trustees or experts:",
+    "source_ar_norm": "1- لا يجوز ان يعين امينا او خبيرا كل من:",
+    "target_en_norm": "1. the following shall not be appointed as trustees or experts:",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29714,
+    "source_ar": "أ- دائن المدين أو زوجه أو صهره أو قريبه حتى الدرجة الرابعة.",
+    "target_en": "a) The debtor’s creditor, spouse, son-in-law, or relative up to the fourth degree.",
+    "source_ar_norm": "ا- دائن المدين او زوجه او صهره او قريبه حتي الدرجة الرابعة.",
+    "target_en_norm": "a) the debtor’s creditor, spouse, son-in-law, or relative up to the fourth degree.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29715,
+    "source_ar": "ب- شريك المدين أو العامل لديه أو مراجع حساباته أو وكيله خلال السنتين السابقتين لافتتاح الإجراء.",
+    "target_en": "b) The debtor’s partner, employee, auditor, or agent during the two years preceding the initiation of the procedure.",
+    "source_ar_norm": "ب- شريك المدين او العامل لديه او مراجع حساباته او وكيله خلال السنتين السابقتين لافتتاح الاجراء.",
+    "target_en_norm": "b) the debtor’s partner, employee, auditor, or agent during the two years preceding the initiation of the procedure.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29716,
+    "source_ar": "2- على الأمين أو الخبير قبل تعيينه أن يفصح للمحكمة عن علاقته بالمدين والدائنين، ويجب على الأمين الإفصاح عن علاقته بالدائنين عند تسليمه قائمة المطالبات للمحكمة.",
+    "target_en": "2. Prior to his appointment, the trustee or the expert shall disclose to the court his relationship with the debtor and creditors, and the trustee must disclose his relationship with the creditors upon submitting the statement of claims to the court.",
+    "source_ar_norm": "2- علي الامين او الخبير قبل تعيينه ان يفصح للمحكمة عن علاقته بالمدين والدائنين، ويجب علي الامين الافصاح عن علاقته بالدائنين عند تسليمه قائمة المطالبات للمحكمة.",
+    "target_en_norm": "2. prior to his appointment, the trustee or the expert shall disclose to the court his relationship with the debtor and creditors, and the trustee must disclose his relationship with the creditors upon submitting the statement of claims to the court.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29717,
+    "source_ar": "3- يترتب على مخالفة الأمين أو الخبير لحكم الفقرة (2) من هذه المادة عزله وعدم استحقاقه لأي أتعاب.",
+    "target_en": "3. If the trustee or the expert violates paragraph (2) of this Article, he shall be dismissed without the right to receive any fees.",
+    "source_ar_norm": "3- يترتب علي مخالفة الامين او الخبير لحكم الفقرة (2) من هذه المادة عزله وعدم استحقاقه لاي اتعاب.",
+    "target_en_norm": "3. if the trustee or the expert violates paragraph (2) of this article, he shall be dismissed without the right to receive any fees.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29718,
+    "source_ar": "المادة الثالثة والخمسون",
+    "target_en": "Article 53",
+    "source_ar_norm": "المادة الثالثة والخمسون",
+    "target_en_norm": "article 53",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29719,
+    "source_ar": "للمحكمة أن تعين قاضياً أو أكثر -وفقاً لتقديرها- للإشراف على تنفيذ إجراء إعادة التنظيم المالي، وتحدد المحكمة مهماته.",
+    "target_en": "The court, at its discretion, may appoint one or more judges to oversee the financial restructuring procedure and determine their duties.",
+    "source_ar_norm": "للمحكمة ان تعين قاضيا او اكثر -وفقا لتقديرها- للاشراف علي تنفيذ اجراء اعادة التنظيم المالي، وتحدد المحكمة مهماته.",
+    "target_en_norm": "the court, at its discretion, may appoint one or more judges to oversee the financial restructuring procedure and determine their duties.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29720,
+    "source_ar": "المادة الرابعة والخمسون",
+    "target_en": "Article 54",
+    "source_ar_norm": "المادة الرابعة والخمسون",
+    "target_en_norm": "article 54",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29721,
+    "source_ar": "1- للمحكمة -من تلقاء نفسها أو بناء على طلب من ذي مصلحة- عزل الأمين وتعيين أمين جديد من قائمة أمناء الإفلاس، أو عزل الخبير وتعيين خبير جديد من قائمة الخبراء أو من غيرهم، إذا قام سبب مشروع للعزل، وذلك دون إخلال بحقوقه والتزاماته.",
+    "target_en": "1. The court may, on its own motion or upon the request of a person with interest, dismiss the trustee and appoint a new listed trustee, or dismiss the expert and appoint a new expert from the list of experts or any other expert, if sufficient grounds for dismissal exist, without prejudice to his rights and obligations.",
+    "source_ar_norm": "1- للمحكمة -من تلقاء نفسها او بناء علي طلب من ذي مصلحة- عزل الامين وتعيين امين جديد من قائمة امناء الافلاس، او عزل الخبير وتعيين خبير جديد من قائمة الخبراء او من غيرهم، اذا قام سبب مشروع للعزل، وذلك دون اخلال بحقوقه والتزاماته.",
+    "target_en_norm": "1. the court may, on its own motion or upon the request of a person with interest, dismiss the trustee and appoint a new listed trustee, or dismiss the expert and appoint a new expert from the list of experts or any other expert, if sufficient grounds for dismissal exist, without prejudice to his rights and obligations.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29722,
+    "source_ar": "2- لا يجوز للأمين أو الخبير اعتزال عمله بعد تعيينه دون سبب مشروع تقبله المحكمة، وذلك دون إخلال بحقوقه والتزاماته.",
+    "target_en": "2. A trustee or expert shall not resign after his appointment without legitimate reasons acceptable to the court, without prejudice to his rights and obligations.",
+    "source_ar_norm": "2- لا يجوز للامين او الخبير اعتزال عمله بعد تعيينه دون سبب مشروع تقبله المحكمة، وذلك دون اخلال بحقوقه والتزاماته.",
+    "target_en_norm": "2. a trustee or expert shall not resign after his appointment without legitimate reasons acceptable to the court, without prejudice to his rights and obligations.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29723,
+    "source_ar": "المادة الخامسة والخمسون",
+    "target_en": "Article 55",
+    "source_ar_norm": "المادة الخامسة والخمسون",
+    "target_en_norm": "article 55",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29724,
+    "source_ar": "تحدد اللائحة آلية تقدير أتعاب الأمين والخبير والمصروفات ذات العلاقة.",
+    "target_en": "The Regulations shall specify the manner in which to determine the fees of the trustee and the expert, and any other related expenses.",
+    "source_ar_norm": "تحدد اللائحة الية تقدير اتعاب الامين والخبير والمصروفات ذات العلاقة.",
+    "target_en_norm": "the regulations shall specify the manner in which to determine the fees of the trustee and the expert, and any other related expenses.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29725,
+    "source_ar": "الإعلان عن الإجراء",
+    "target_en": "Publication of the Procedure",
+    "source_ar_norm": "الاعلان عن الاجراء",
+    "target_en_norm": "publication of the procedure",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29726,
+    "source_ar": "المادة السادسة والخمسون:",
+    "target_en": "Article 56",
+    "source_ar_norm": "المادة السادسة والخمسون:",
+    "target_en_norm": "article 56",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29727,
+    "source_ar": "1- يعلن الأمين خلال (سبعة) أيام من تاريخ تعيينه في الوسيلة التي تحددها اللائحة حكم المحكمة بافتتاح إجراء إعادة التنظيم المالي، ويدعو الدائنين إلى تقديم مطالباتهم خلال مدة لا تزيد على (تسعين) يوماً من تاريخ الإعلان.",
+    "target_en": "1. The trustee shall, within seven days from the date of his appointment, publish in any of the mediums specified in the Regulations the court’s decision to initiate the financial restructuring procedure, and invite the creditors to submit their claims within a period not exceeding 90 days from the date of publication.",
+    "source_ar_norm": "1- يعلن الامين خلال (سبعة) ايام من تاريخ تعيينه في الوسيلة التي تحددها اللائحة حكم المحكمة بافتتاح اجراء اعادة التنظيم المالي، ويدعو الدائنين الي تقديم مطالباتهم خلال مدة لا تزيد علي (تسعين) يوما من تاريخ الاعلان.",
+    "target_en_norm": "1. the trustee shall, within seven days from the date of his appointment, publish in any of the mediums specified in the regulations the court’s decision to initiate the financial restructuring procedure, and invite the creditors to submit their claims within a period not exceeding 90 days from the date of publication.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29728,
+    "source_ar": "2- يبلغ الأمين الدائنين المعلومين لديه بالحكم، ويدعوهم إلى تقديم مطالباتهم خلال مدة لا تزيد على (تسعين) يوماً من تاريخ التبليغ.",
+    "target_en": "2. The trustee shall notify the creditors known to him of said court's decision in order to submit their claims within a period not exceeding 90 days from the date of notification.",
+    "source_ar_norm": "2- يبلغ الامين الدائنين المعلومين لديه بالحكم، ويدعوهم الي تقديم مطالباتهم خلال مدة لا تزيد علي (تسعين) يوما من تاريخ التبليغ.",
+    "target_en_norm": "2. the trustee shall notify the creditors known to him of said court's decision in order to submit their claims within a period not exceeding 90 days from the date of notification.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29729,
+    "source_ar": "الإشراف على الإجراء",
+    "target_en": "Procedure Oversight",
+    "source_ar_norm": "الاشراف علي الاجراء",
+    "target_en_norm": "procedure oversight",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29730,
+    "source_ar": "المادة السابعة والخمسون",
+    "target_en": "Article 57",
+    "source_ar_norm": "المادة السابعة والخمسون",
+    "target_en_norm": "article 57",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29731,
+    "source_ar": "يشرف الأمين على نشاط المدين خلال فترة إجراء إعادة التنظيم المالي للتحقق من عدالة الإجراء وتنفيذ الخطة على الوجه المحدد بما يضمن سرعة الأداء وتوفير الحماية اللازمة لمصالح المتأثرين بالإجراء، وذلك وفقاً للأحكام الواردة في النظام.",
+    "target_en": "The trustee shall oversee the debtor’s business during the financial restructuring procedure period to verify fairness of the procedure, and implement the plan in such a manner as to ensure speedy performance and the provision of necessary protection to the interests of those affected by the procedure, in accordance with this Law.",
+    "source_ar_norm": "يشرف الامين علي نشاط المدين خلال فترة اجراء اعادة التنظيم المالي للتحقق من عدالة الاجراء وتنفيذ الخطة علي الوجه المحدد بما يضمن سرعة الاداء وتوفير الحماية اللازمة لمصالح المتاثرين بالاجراء، وذلك وفقا للاحكام الواردة في النظام.",
+    "target_en_norm": "the trustee shall oversee the debtor’s business during the financial restructuring procedure period to verify fairness of the procedure, and implement the plan in such a manner as to ensure speedy performance and the provision of necessary protection to the interests of those affected by the procedure, in accordance with this law.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29732,
+    "source_ar": "المادة الثامنة والخمسون",
+    "target_en": "Article 58",
+    "source_ar_norm": "المادة الثامنة والخمسون",
+    "target_en_norm": "article 58",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29733,
+    "source_ar": "1- يكون للأمين خلال فترة إجراء إعادة التنظيم المالي بالإضافة إلى مهماته وصلاحياته الأخرى المنصوص عليها في النظام واللائحة، المهمات والصلاحيات الآتية:",
+    "target_en": "1. During the period of the financial restructuring procedure, in addition to other duties and powers vested in him under this Law and its Regulations, the trustee shall:",
+    "source_ar_norm": "1- يكون للامين خلال فترة اجراء اعادة التنظيم المالي بالاضافة الي مهماته وصلاحياته الاخري المنصوص عليها في النظام واللائحة، المهمات والصلاحيات الاتية:",
+    "target_en_norm": "1. during the period of the financial restructuring procedure, in addition to other duties and powers vested in him under this law and its regulations, the trustee shall:",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29734,
+    "source_ar": "أ- التحقق من سلامة إدارة المدين لنشاطه ومراقبة عملياته المالية.",
+    "target_en": "a) verify the soundness of the debtor’s management of his business, and monitor his financial operations;",
+    "source_ar_norm": "ا- التحقق من سلامة ادارة المدين لنشاطه ومراقبة عملياته المالية.",
+    "target_en_norm": "a) verify the soundness of the debtor’s management of his business, and monitor his financial operations;",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29735,
+    "source_ar": "ب- حضور جلسات الدعاوى واجتماعات الدائنين وغيرها المتعلقة بالمدين والإجراء.",
+    "target_en": "b) attend litigation hearings, creditors’ meetings, and other meetings relating to the debtor and the procedure;",
+    "source_ar_norm": "ب- حضور جلسات الدعاوي واجتماعات الدائنين وغيرها المتعلقة بالمدين والاجراء.",
+    "target_en_norm": "b) attend litigation hearings, creditors’ meetings, and other meetings relating to the debtor and the procedure;",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29736,
+    "source_ar": "ج- القيام بأي أعمال ذات طابع تبعي أو عرضي لمهماته وصلاحياته.",
+    "target_en": "c) perform any task ancillary or incidental to his duties and powers;",
+    "source_ar_norm": "ج- القيام باي اعمال ذات طابع تبعي او عرضي لمهماته وصلاحياته.",
+    "target_en_norm": "c) perform any task ancillary or incidental to his duties and powers;",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29737,
+    "source_ar": "د- أداء الأعمال التي تكلفه المحكمة بها.",
+    "target_en": "d) perform tasks entrusted to him by the court; and",
+    "source_ar_norm": "د- اداء الاعمال التي تكلفه المحكمة بها.",
+    "target_en_norm": "d) perform tasks entrusted to him by the court; and",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29738,
+    "source_ar": "هـ- ما تنص عليه اللائحة.",
+    "target_en": "e) perform any other task specified by the Regulations.",
+    "source_ar_norm": "ه- ما تنص عليه اللائحة.",
+    "target_en_norm": "e) perform any other task specified by the regulations.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29739,
+    "source_ar": "2- يجب على الأمين عند أداء مهماته وصلاحياته التحلي بالأمانة والصدق.",
+    "target_en": "2. In the performance of his duties and the exercise of his powers, the trustee must act with integrity and honesty.",
+    "source_ar_norm": "2- يجب علي الامين عند اداء مهماته وصلاحياته التحلي بالامانة والصدق.",
+    "target_en_norm": "2. in the performance of his duties and the exercise of his powers, the trustee must act with integrity and honesty.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29740,
+    "source_ar": "المادة التاسعة والخمسون",
+    "target_en": "Article 59",
+    "source_ar_norm": "المادة التاسعة والخمسون",
+    "target_en_norm": "article 59",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29741,
+    "source_ar": "1- للأمين حق الاطلاع والحصول على ما لدى المحكمة من معلومات أو وثائق عن المدين. وعلى المدين تزويد الأمين بأي معلومة أو وثيقة إضافية أو مستجدات فور علمه بها، والمبالغ التي يدين بها للغير ولم يسبق الإفصاح عنها للمحكمة، وأي عقود أو دعاوى أو إجراءات قضائية يكون طرفاً فيها.",
+    "target_en": "1. The trustee may access and obtain information or documents held by the court relating to the debtor. The debtor shall provide the trustee with any additional information or documents and any updates upon becoming aware thereof, and shall disclose to him the amounts he owes to third parties that were not previously disclosed to the court, as well as any contracts, lawsuits, or judicial proceedings to which he is party.",
+    "source_ar_norm": "1- للامين حق الاطلاع والحصول علي ما لدي المحكمة من معلومات او وثائق عن المدين. وعلي المدين تزويد الامين باي معلومة او وثيقة اضافية او مستجدات فور علمه بها، والمبالغ التي يدين بها للغير ولم يسبق الافصاح عنها للمحكمة، واي عقود او دعاوي او اجراءات قضائية يكون طرفا فيها.",
+    "target_en_norm": "1. the trustee may access and obtain information or documents held by the court relating to the debtor. the debtor shall provide the trustee with any additional information or documents and any updates upon becoming aware thereof, and shall disclose to him the amounts he owes to third parties that were not previously disclosed to the court, as well as any contracts, lawsuits, or judicial proceedings to which he is party.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29742,
+    "source_ar": "2- للأمين حق الحصول على جميع المعلومات والوثائق المتعلقة بأصول التفليسة وحفظها، والرخص المتعلقة بنشاط المدين، وأي معلومة أو وثيقة أخرى ذات صلة بنشاط المدين.",
+    "target_en": "2. The trustee shall have the right to obtain and maintain information and documents relating to bankruptcy assets, licenses pertaining to the debtor’s business, and any other information or documents relevant to the debtor’s business.",
+    "source_ar_norm": "2- للامين حق الحصول علي جميع المعلومات والوثائق المتعلقة باصول التفليسة وحفظها، والرخص المتعلقة بنشاط المدين، واي معلومة او وثيقة اخري ذات صلة بنشاط المدين.",
+    "target_en_norm": "2. the trustee shall have the right to obtain and maintain information and documents relating to bankruptcy assets, licenses pertaining to the debtor’s business, and any other information or documents relevant to the debtor’s business.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29743,
+    "source_ar": "3- للأمين أن يطلب من الدائن تقديم معلومة أو وثيقة إضافية تؤيد مطالبته أو تثبت تعديل طبيعة الدين أو مبلغه.",
+    "target_en": "3. The trustee may request the creditor to provide additional information or documents to support his claim, or amend the amount or nature of the debt.",
+    "source_ar_norm": "3- للامين ان يطلب من الدائن تقديم معلومة او وثيقة اضافية تؤيد مطالبته او تثبت تعديل طبيعة الدين او مبلغه.",
+    "target_en_norm": "3. the trustee may request the creditor to provide additional information or documents to support his claim, or amend the amount or nature of the debt.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29744,
+    "source_ar": "4- للأمين حق الحصول على أي معلومة عن نشاط المدين أو أصول التفليسة من الجهات العامة والخاصة بالقدر اللازم لتمكينه من أداء مهماته بما في ذلك الوثائق وكشوف حسابات المدين البنكية والاستثمارية. وعلى كل من يحوز هذه المعلومات الإفصاح له عنها.",
+    "target_en": "4. The trustee shall have the right to obtain any information relating to the debtor’s business or bankruptcy assets from public and private entities to the extent necessary to enable him to perform his duties, including documents and the debtor’s bank and investment account statements. Any person in possession of such information shall disclose the same.",
+    "source_ar_norm": "4- للامين حق الحصول علي اي معلومة عن نشاط المدين او اصول التفليسة من الجهات العامة والخاصة بالقدر اللازم لتمكينه من اداء مهماته بما في ذلك الوثائق وكشوف حسابات المدين البنكية والاستثمارية. وعلي كل من يحوز هذه المعلومات الافصاح له عنها.",
+    "target_en_norm": "4. the trustee shall have the right to obtain any information relating to the debtor’s business or bankruptcy assets from public and private entities to the extent necessary to enable him to perform his duties, including documents and the debtor’s bank and investment account statements. any person in possession of such information shall disclose the same.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29745,
+    "source_ar": "5- لا يعد الإفصاح للأمين عن المعلومات المشار إليها في الفقرة (4) من هذه المادة انتهاكاً لسرية المعلومات، ويلتزم الأمين بحفظ هذه المعلومات والوثائق والحفاظ على سريتها.",
+    "target_en": "5. Disclosure to the trustee of the information referred to in paragraph (4) of this Article shall not be deemed a breach of information confidentiality. The trustee shall maintain such information and documents, and protect their confidentiality.",
+    "source_ar_norm": "5- لا يعد الافصاح للامين عن المعلومات المشار اليها في الفقرة (4) من هذه المادة انتهاكا لسرية المعلومات، ويلتزم الامين بحفظ هذه المعلومات والوثائق والحفاظ علي سريتها.",
+    "target_en_norm": "5. disclosure to the trustee of the information referred to in paragraph (4) of this article shall not be deemed a breach of information confidentiality. the trustee shall maintain such information and documents, and protect their confidentiality.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29746,
+    "source_ar": "العقود",
+    "target_en": "Contracts",
+    "source_ar_norm": "العقود",
+    "target_en_norm": "contracts",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29747,
+    "source_ar": "المادة الستون",
+    "target_en": "Article 60",
+    "source_ar_norm": "المادة الستون",
+    "target_en_norm": "article 60",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29748,
+    "source_ar": "1- على المدين أن يقدم إلى الأمين -فور تعيينه- قائمة تفصيلية بعقوده السارية وبياناتها مرافقاً لها نسخ من تلك العقود وتقرير يتضمن ما يرغب في استمراره منها أو إنهائه ومسوغات ذلك.",
+    "target_en": "1. The debtor shall provide the trustee, upon his appointment, with a detailed list of valid contracts and any data relevant thereto, along with copies of said contracts and a statement identifying contracts to remain valid or to be terminated along with the grounds therefor.",
+    "source_ar_norm": "1- علي المدين ان يقدم الي الامين -فور تعيينه- قائمة تفصيلية بعقوده السارية وبياناتها مرافقا لها نسخ من تلك العقود وتقرير يتضمن ما يرغب في استمراره منها او انهائه ومسوغات ذلك.",
+    "target_en_norm": "1. the debtor shall provide the trustee, upon his appointment, with a detailed list of valid contracts and any data relevant thereto, along with copies of said contracts and a statement identifying contracts to remain valid or to be terminated along with the grounds therefor.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29749,
+    "source_ar": "2- للأمين أن يطلب من المدين أي معلومات أو وثائق ذات صلة بالعقود الواردة في الفقرة (1) من هذه المادة، ويلتزم المدين بتزويد الأمين بهذه المعلومات والوثائق خلال مدة معقولة يحددها الأمين.",
+    "target_en": "2. The trustee may request the debtor to provide him with information or documents relating to the contracts referred to in paragraph (1) of this Article, and the debtor must submit the same within a reasonable time determined by the trustee.",
+    "source_ar_norm": "2- للامين ان يطلب من المدين اي معلومات او وثائق ذات صلة بالعقود الواردة في الفقرة (1) من هذه المادة، ويلتزم المدين بتزويد الامين بهذه المعلومات والوثائق خلال مدة معقولة يحددها الامين.",
+    "target_en_norm": "2. the trustee may request the debtor to provide him with information or documents relating to the contracts referred to in paragraph (1) of this article, and the debtor must submit the same within a reasonable time determined by the trustee.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29750,
+    "source_ar": "3- على الأمين أن يفحص بعناية قائمة العقود والمعلومات والوثائق المقدمة إليه بموجب الفقرتين (1) و(2) من هذه المادة.",
+    "target_en": "3. The trustee shall carefully examine the list of contracts, information, and documents submitted to him under paragraphs (1) and (2) of this Article.",
+    "source_ar_norm": "3- علي الامين ان يفحص بعناية قائمة العقود والمعلومات والوثائق المقدمة اليه بموجب الفقرتين (1) و(2) من هذه المادة.",
+    "target_en_norm": "3. the trustee shall carefully examine the list of contracts, information, and documents submitted to him under paragraphs (1) and (2) of this article.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29751,
+    "source_ar": "المادة الحادية والستون",
+    "target_en": "Article 61",
+    "source_ar_norm": "المادة الحادية والستون",
+    "target_en_norm": "article 61",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29752,
+    "source_ar": "1- للأمين -بعد فحص قائمة عقود المدين والمعلومات والوثائق المقدمة إليه- أن يصدر خلال مدة أقصاها (ستون) يوماً من افتتاح إجراء إعادة التنظيم المالي، قراراً بإنهاء أي عقد للمدين إذا كان إنهاؤه لازماً لتنفيذ المقترح -بعد التصديق عليه- وحماية مصالح أغلبية الدائنين ولا يلحق ضرراً بالغاً بالمتعاقد مع المدين ولو نص العقد على خلاف ذلك، على أن يكون ذلك بموجب تبليغ مكتوب للمتعاقد، ويعد العقد منقضياً بعد مضي (ثلاثين) يوماً من تاريخ التبليغ إلا إذا اتفق الأمين مع المتعاقد على مدة أقصر. وللأمين أن يطلب من المحكمة تمديد المدة التي يحق له فيها أن يصدر قراراً بإنهاء أي عقد لمدة لا تزيد على (ثلاثين) يوماً، بشرط أن يكون ذلك لازماً بالنظر إلى حجم نشاط المدين أو طبيعته.",
+    "target_en": "1. The trustee may, upon examination of the debtor’s list of contracts as well as relevant information and documents submitted to him, issue a decision within 60 days from the date of initiation of the financial restructuring procedure for the termination of any contract concluded by the debtor, if such termination is necessary to implement the confirmed proposal and to protect the interests of the majority of creditors, and does not cause substantial damage to the debtor's counterparty, even if the contract provides otherwise. Such termination shall be pursuant to a written notification to the counterparty. The contract shall be deemed terminated upon the lapse of 30 days from the date of notification, unless the trustee and the counterparty agree on a shorter period. The trustee may request the court to extend the period during which he is entitled to decide on the termination of any contract for a period not exceeding 30 days, provided this is necessary in view of the volume and nature of the debtor’s business.",
+    "source_ar_norm": "1- للامين -بعد فحص قائمة عقود المدين والمعلومات والوثائق المقدمة اليه- ان يصدر خلال مدة اقصاها (ستون) يوما من افتتاح اجراء اعادة التنظيم المالي، قرارا بانهاء اي عقد للمدين اذا كان انهاؤه لازما لتنفيذ المقترح -بعد التصديق عليه- وحماية مصالح اغلبية الدائنين ولا يلحق ضررا بالغا بالمتعاقد مع المدين ولو نص العقد علي خلاف ذلك، علي ان يكون ذلك بموجب تبليغ مكتوب للمتعاقد، ويعد العقد منقضيا بعد مضي (ثلاثين) يوما من تاريخ التبليغ الا اذا اتفق الامين مع المتعاقد علي مدة اقصر. وللامين ان يطلب من المحكمة تمديد المدة التي يحق له فيها ان يصدر قرارا بانهاء اي عقد لمدة لا تزيد علي (ثلاثين) يوما، بشرط ان يكون ذلك لازما بالنظر الي حجم نشاط المدين او طبيعته.",
+    "target_en_norm": "1. the trustee may, upon examination of the debtor’s list of contracts as well as relevant information and documents submitted to him, issue a decision within 60 days from the date of initiation of the financial restructuring procedure for the termination of any contract concluded by the debtor, if such termination is necessary to implement the confirmed proposal and to protect the interests of the majority of creditors, and does not cause substantial damage to the debtor's counterparty, even if the contract provides otherwise. such termination shall be pursuant to a written notification to the counterparty. the contract shall be deemed terminated upon the lapse of 30 days from the date of notification, unless the trustee and the counterparty agree on a shorter period. the trustee may request the court to extend the period during which he is entitled to decide on the termination of any contract for a period not exceeding 30 days, provided this is necessary in view of the volume and nature of the debtor’s business.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29753,
+    "source_ar": "2- استثناء من حكم الفقرة (1) من هذه المادة، للأمين -بعد فحص قائمة عقود المدين والمعلومات والوثائق المقدمة إليه- أن يصدر خلال (ستين) يوماً من افتتاح الإجراء، قراراً بإنهاء أي عقد إيجار للعقار الذي يمارس فيه المدين نشاطه إذا كان ذلك لازماً لتنفيذ المقترح -بعد التصديق عليه- وحماية مصالح أغلبية الدائنين ولو نص العقد على خلاف ذلك، ويجب على الأمين أن يبلغ المتعاقد مع المدين بقراره كتابة، ويعد العقد منقضياً بعد مضي (تسعين) يوماً من تاريخ التبليغ ما لم ينص العقد على مدة أقصر. وللأمين أن يطلب من المحكمة تمديد المدة التي يحق له فيها إنهاء ذلك العقد لمدة لا تزيد على (ثلاثين) يوماً بشرط أن يكون ذلك لازماً بالنظر إلى عدد العقارات التي يمارس المدين فيها نشاطه.",
+    "target_en": "2. Notwithstanding paragraph (1) of this Article, the trustee may, upon examining the debtor’s list of contracts and relevant information and documents, issue a decision terminating any lease contract for properties where the debtor conducts his business within 60 days from the procedure initiation date if such termination is necessary to implement the confirmed proposal and protect the interests of the majority of creditors, even if the contract provides otherwise. The trustee must notify the debtor’s counterparty of his decision in writing. The contract shall be deemed terminated upon the lapse of 90 days from the date of notification, unless the contract provides for a shorter period. The trustee may request the court to extend the period during which he is entitled to decide on the termination of any contract for a period not exceeding 30 days, provided this is necessary in view of the number of properties where the debtor conducts his business.",
+    "source_ar_norm": "2- استثناء من حكم الفقرة (1) من هذه المادة، للامين -بعد فحص قائمة عقود المدين والمعلومات والوثائق المقدمة اليه- ان يصدر خلال (ستين) يوما من افتتاح الاجراء، قرارا بانهاء اي عقد ايجار للعقار الذي يمارس فيه المدين نشاطه اذا كان ذلك لازما لتنفيذ المقترح -بعد التصديق عليه- وحماية مصالح اغلبية الدائنين ولو نص العقد علي خلاف ذلك، ويجب علي الامين ان يبلغ المتعاقد مع المدين بقراره كتابة، ويعد العقد منقضيا بعد مضي (تسعين) يوما من تاريخ التبليغ ما لم ينص العقد علي مدة اقصر. وللامين ان يطلب من المحكمة تمديد المدة التي يحق له فيها انهاء ذلك العقد لمدة لا تزيد علي (ثلاثين) يوما بشرط ان يكون ذلك لازما بالنظر الي عدد العقارات التي يمارس المدين فيها نشاطه.",
+    "target_en_norm": "2. notwithstanding paragraph (1) of this article, the trustee may, upon examining the debtor’s list of contracts and relevant information and documents, issue a decision terminating any lease contract for properties where the debtor conducts his business within 60 days from the procedure initiation date if such termination is necessary to implement the confirmed proposal and protect the interests of the majority of creditors, even if the contract provides otherwise. the trustee must notify the debtor’s counterparty of his decision in writing. the contract shall be deemed terminated upon the lapse of 90 days from the date of notification, unless the contract provides for a shorter period. the trustee may request the court to extend the period during which he is entitled to decide on the termination of any contract for a period not exceeding 30 days, provided this is necessary in view of the number of properties where the debtor conducts his business.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29754,
+    "source_ar": "3- لا يخل إنهاء الأمين لأي عقد للمدين مع المتعاقد معه بموجب الفقرة (1) أو الفقرة (2) من هذه المادة بحقوق ذلك المتعاقد بما في ذلك تقديم مطالبته إلى الأمين بشأن أي ضرر تكبده جراء الإنهاء، وذلك لغرض التصويت على المقترح.",
+    "target_en": "3. The trustee’s termination of any contract between the debtor and the counterparty under paragraphs (1) or (2) of this Article, shall not prejudice the rights of such counterparty including the right to make a claim to the trustee for any damage incurred as a result of such termination, for purposes of voting on the proposal.",
+    "source_ar_norm": "3- لا يخل انهاء الامين لاي عقد للمدين مع المتعاقد معه بموجب الفقرة (1) او الفقرة (2) من هذه المادة بحقوق ذلك المتعاقد بما في ذلك تقديم مطالبته الي الامين بشان اي ضرر تكبده جراء الانهاء، وذلك لغرض التصويت علي المقترح.",
+    "target_en_norm": "3. the trustee’s termination of any contract between the debtor and the counterparty under paragraphs (1) or (2) of this article, shall not prejudice the rights of such counterparty including the right to make a claim to the trustee for any damage incurred as a result of such termination, for purposes of voting on the proposal.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29755,
+    "source_ar": "4- إذا اعترض المتعاقد مع المدين على قرار الأمين بإنهاء عقده، فتنظر المحكمة في هذا الاعتراض وفقاً لحكم المادة (الثانية والستين) من النظام.",
+    "target_en": "4. If the debtor's counterparty objects to the trustee's decision to terminate his contract, the court shall consider such objection in accordance with the provisions of Article 62 of this Law.",
+    "source_ar_norm": "4- اذا اعترض المتعاقد مع المدين علي قرار الامين بانهاء عقده، فتنظر المحكمة في هذا الاعتراض وفقا لحكم المادة (الثانية والستين) من النظام.",
+    "target_en_norm": "4. if the debtor's counterparty objects to the trustee's decision to terminate his contract, the court shall consider such objection in accordance with the provisions of article 62 of this law.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29756,
+    "source_ar": "5- إذا لم يصدر الأمين قراراً بإنهاء أي عقد وفقاً للفقرتين (1) و(2) من هذه المادة، فيكون المدين ملزماً بتنفيذ أحكام العقد ما لم يعدَّل أو يتأثر بالخطة.",
+    "target_en": "5. If the trustee decides not to terminate any contract in accordance with paragraphs (1) and (2) of this Article, the debtor shall be obligated to fulfill the terms of the contract, unless amended or affected by the plan.",
+    "source_ar_norm": "5- اذا لم يصدر الامين قرارا بانهاء اي عقد وفقا للفقرتين (1) و(2) من هذه المادة، فيكون المدين ملزما بتنفيذ احكام العقد ما لم يعدل او يتاثر بالخطة.",
+    "target_en_norm": "5. if the trustee decides not to terminate any contract in accordance with paragraphs (1) and (2) of this article, the debtor shall be obligated to fulfill the terms of the contract, unless amended or affected by the plan.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29757,
+    "source_ar": "6- يجوز للأمين أن يؤجر من الباطن للغير العقار المستأجر من قبل المدين أو جزءاً منه ولو نص العقد على خلاف ذلك. ويجب على المدين أن يضمن عدم إلحاق ضرر بالعقار والوفاء بقيمة الإيجار وفقاً لأحكام العقد.",
+    "target_en": "6. The trustee may sublease to a third party the property rented by the debtor or part thereof, even if the contract provides otherwise. The debtor must guarantee preservation of the property and payment of the lease in accordance with the terms of the contract.",
+    "source_ar_norm": "6- يجوز للامين ان يؤجر من الباطن للغير العقار المستاجر من قبل المدين او جزءا منه ولو نص العقد علي خلاف ذلك. ويجب علي المدين ان يضمن عدم الحاق ضرر بالعقار والوفاء بقيمة الايجار وفقا لاحكام العقد.",
+    "target_en_norm": "6. the trustee may sublease to a third party the property rented by the debtor or part thereof, even if the contract provides otherwise. the debtor must guarantee preservation of the property and payment of the lease in accordance with the terms of the contract.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29758,
+    "source_ar": "7- يستثنى من أحكام هذه المادة والمواد (الثانية والعشرين) و(الثالثة والعشرين) و(الرابعة والعشرين) و(الستين) من النظام عقود المنافسات والمشتريات الحكومية التي تبرمها الجهات الحكومية مع المدين.",
+    "target_en": "7. Contracts relating to government tenders and procurement concluded between a government agency and the debtor shall not be subject to the provisions of this Article, as well as Articles 22, 23, 24, and 60 of this Law.",
+    "source_ar_norm": "7- يستثني من احكام هذه المادة والمواد (الثانية والعشرين) و(الثالثة والعشرين) و(الرابعة والعشرين) و(الستين) من النظام عقود المنافسات والمشتريات الحكومية التي تبرمها الجهات الحكومية مع المدين.",
+    "target_en_norm": "7. contracts relating to government tenders and procurement concluded between a government agency and the debtor shall not be subject to the provisions of this article, as well as articles 22, 23, 24, and 60 of this law.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29759,
+    "source_ar": "8- يستثنى من أحكام هذه المادة والمواد (الثالثة والعشرين) و(الرابعة والعشرين) و(الستين) من النظام عقود التمويل التي تبرمها الشركات المصرفية أو شركات التمويل مع المدين.",
+    "target_en": "8. Financing contracts concluded between banking or financing companies and the debtor shall not be subject to the provisions of this Article, as well as Articles 23, 24, and 60 of this Law.",
+    "source_ar_norm": "8- يستثني من احكام هذه المادة والمواد (الثالثة والعشرين) و(الرابعة والعشرين) و(الستين) من النظام عقود التمويل التي تبرمها الشركات المصرفية او شركات التمويل مع المدين.",
+    "target_en_norm": "8. financing contracts concluded between banking or financing companies and the debtor shall not be subject to the provisions of this article, as well as articles 23, 24, and 60 of this law.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29760,
+    "source_ar": "المادة الثانية والستون",
+    "target_en": "Article 62",
+    "source_ar_norm": "المادة الثانية والستون",
+    "target_en_norm": "article 62",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29761,
+    "source_ar": "تنظر المحكمة في اعتراض الطرف المتعاقد المقدم أمامها -بناء على الفقرة (4) من المادة (الحادية والستين) من النظام- وتقضي بقبول الاعتراض إذا ثبت لها:",
+    "target_en": "The court shall consider the objection filed by the counterparty, in accordance with Article 61(4) of this Law, and shall accept the objection if it is established that:",
+    "source_ar_norm": "تنظر المحكمة في اعتراض الطرف المتعاقد المقدم امامها -بناء علي الفقرة (4) من المادة (الحادية والستين) من النظام- وتقضي بقبول الاعتراض اذا ثبت لها:",
+    "target_en_norm": "the court shall consider the objection filed by the counterparty, in accordance with article 61(4) of this law, and shall accept the objection if it is established that:",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29762,
+    "source_ar": "أ - أن إنهاء العقد -المبني على الفقرة (1) من المادة (الحادية والستين) من النظام- غير لازم لتنفيذ الخطة وحماية مصالح أغلبية الدائنين ويلحق ضرراً بالغاً بالطرف المتعاقد.",
+    "target_en": "a) the termination of the contract, pursuant to Article 61(1) of this Law, is not necessary for the implementation of the plan or the protection of the interests of the majority of creditors, and it causes substantial damage to the counterparty;",
+    "source_ar_norm": "ا - ان انهاء العقد -المبني علي الفقرة (1) من المادة (الحادية والستين) من النظام- غير لازم لتنفيذ الخطة وحماية مصالح اغلبية الدائنين ويلحق ضررا بالغا بالطرف المتعاقد.",
+    "target_en_norm": "a) the termination of the contract, pursuant to article 61(1) of this law, is not necessary for the implementation of the plan or the protection of the interests of the majority of creditors, and it causes substantial damage to the counterparty;",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29763,
+    "source_ar": "ب- أن إنهاء العقد -المبني على الفقرة (2) من المادة (الحادية والستين) من النظام- غير لازم لتنفيذ الخطة وحماية مصالح أغلبية الدائنين.",
+    "target_en": "b) the termination of the contract, pursuant to Article 61(2) of this Law, is not necessary for the implementation of the plan or the protection of the interests of the majority of creditors.",
+    "source_ar_norm": "ب- ان انهاء العقد -المبني علي الفقرة (2) من المادة (الحادية والستين) من النظام- غير لازم لتنفيذ الخطة وحماية مصالح اغلبية الدائنين.",
+    "target_en_norm": "b) the termination of the contract, pursuant to article 61(2) of this law, is not necessary for the implementation of the plan or the protection of the interests of the majority of creditors.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29764,
+    "source_ar": "تقديم المطالبات",
+    "target_en": "Submission of Claims",
+    "source_ar_norm": "تقديم المطالبات",
+    "target_en_norm": "submission of claims",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29765,
+    "source_ar": "المادة الثالثة والستون",
+    "target_en": "Article 63",
+    "source_ar_norm": "المادة الثالثة والستون",
+    "target_en_norm": "article 63",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29766,
+    "source_ar": "1- على كل دائن نشأ دينه قبل صدور حكم المحكمة بافتتاح إجراء إعادة التنظيم المالي أن يتقدم إلى الأمين -خلال المدة المحددة في المادة (السادسة والخمسين) من النظام- بأي مطالبة له حالة أو آجلة، أو موقوفة على شرط أو محتملة أو غير ذلك مما قد يكون له قيمة مالية حالية أو مستقبلية، وأن يرفق بمطالبته الوثائق والمعلومات المنصوص عليها في اللائحة وبياناً بقيمة مطالبته في تاريخ حكم المحكمة بافتتاح الإجراء، والدين الذي لم يستحق بعد وموعد استحقاقه، وأي وثيقة أخرى تؤيد مطالبته، كما يجب أن يحدد ما إذا كانت مطالبته مضمونة وطبيعة الضمانات المقدمة لها.",
+    "target_en": "1. Any creditor whose debt is established prior to the court's decision to initiate the financial restructuring procedure shall submit to the trustee within the period specified in Article 56 of this Law any due, future, conditionally suspended, or potential claims, or other claims that may have current or future financial value. The creditor shall attach to his claim the documents and information provided for in the Regulations, a statement of the value of his claim on the date of the court’s decision for the initiation of the procedure, the debt not yet due and its maturity date, and any other document supporting his claim. The creditor must also state if his claim is secured and the type of securities presented.",
+    "source_ar_norm": "1- علي كل دائن نشا دينه قبل صدور حكم المحكمة بافتتاح اجراء اعادة التنظيم المالي ان يتقدم الي الامين -خلال المدة المحددة في المادة (السادسة والخمسين) من النظام- باي مطالبة له حالة او اجلة، او موقوفة علي شرط او محتملة او غير ذلك مما قد يكون له قيمة مالية حالية او مستقبلية، وان يرفق بمطالبته الوثائق والمعلومات المنصوص عليها في اللائحة وبيانا بقيمة مطالبته في تاريخ حكم المحكمة بافتتاح الاجراء، والدين الذي لم يستحق بعد وموعد استحقاقه، واي وثيقة اخري تؤيد مطالبته، كما يجب ان يحدد ما اذا كانت مطالبته مضمونة وطبيعة الضمانات المقدمة لها.",
+    "target_en_norm": "1. any creditor whose debt is established prior to the court's decision to initiate the financial restructuring procedure shall submit to the trustee within the period specified in article 56 of this law any due, future, conditionally suspended, or potential claims, or other claims that may have current or future financial value. the creditor shall attach to his claim the documents and information provided for in the regulations, a statement of the value of his claim on the date of the court’s decision for the initiation of the procedure, the debt not yet due and its maturity date, and any other document supporting his claim. the creditor must also state if his claim is secured and the type of securities presented.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29767,
+    "source_ar": "2- إذا لم تكن قيمة المطالبة محددة بدقة وجب على الدائن تقديم المطالبة بقيمة تقديرية، ويتحقق الأمين من تقدير القيمة الفعلية لهذه المطالبة.",
+    "target_en": "2. If the value of the claim is not precisely stated, the creditor shall submit the claim with an estimated value, and the trustee shall verify the actual value thereof.",
+    "source_ar_norm": "2- اذا لم تكن قيمة المطالبة محددة بدقة وجب علي الدائن تقديم المطالبة بقيمة تقديرية، ويتحقق الامين من تقدير القيمة الفعلية لهذه المطالبة.",
+    "target_en_norm": "2. if the value of the claim is not precisely stated, the creditor shall submit the claim with an estimated value, and the trustee shall verify the actual value thereof.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29768,
+    "source_ar": "عدم تقديم المطالبات",
+    "target_en": "Non-Submission of Claims",
+    "source_ar_norm": "عدم تقديم المطالبات",
+    "target_en_norm": "non-submission of claims",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29769,
+    "source_ar": "المادة الرابعة والستون",
+    "target_en": "Article 64",
+    "source_ar_norm": "المادة الرابعة والستون",
+    "target_en_norm": "article 64",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29770,
+    "source_ar": "يستبعد من التصويت على المقترح كل دائن لم يقدم مطالبته خلال المدة المحددة في المادة (السادسة والخمسين) من النظام إلا إذا أثبت للمحكمة قبل التصويت:",
+    "target_en": "Any creditor who fails to submit his claim within the period specified in Article 56 of this Law shall be excluded from voting on the proposal, unless he proves to the court prior to voting that:",
+    "source_ar_norm": "يستبعد من التصويت علي المقترح كل دائن لم يقدم مطالبته خلال المدة المحددة في المادة (السادسة والخمسين) من النظام الا اذا اثبت للمحكمة قبل التصويت:",
+    "target_en_norm": "any creditor who fails to submit his claim within the period specified in article 56 of this law shall be excluded from voting on the proposal, unless he proves to the court prior to voting that:",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29771,
+    "source_ar": "أ - أنه قدم مطالبته ولم تصل إلى الأمين لسبب خارج عن إرادته.",
+    "target_en": "a) he submitted his claim, but such claim did not reach the trustee for reasons beyond his control;",
+    "source_ar_norm": "ا - انه قدم مطالبته ولم تصل الي الامين لسبب خارج عن ارادته.",
+    "target_en_norm": "a) he submitted his claim, but such claim did not reach the trustee for reasons beyond his control;",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29772,
+    "source_ar": "ب - أن المدين أسقط مطالبته من القائمة المقدمة إلى الأمين.",
+    "target_en": "b) the debtor omitted his claim from the list submitted to the trustee; or",
+    "source_ar_norm": "ب - ان المدين اسقط مطالبته من القائمة المقدمة الي الامين.",
+    "target_en_norm": "b) the debtor omitted his claim from the list submitted to the trustee; or",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29773,
+    "source_ar": "ج - أن الأمين أسقط مطالبته من القائمة المقدمة إلى المحكمة.",
+    "target_en": "c) the trustee omitted his claim from the list filed with the court.",
+    "source_ar_norm": "ج - ان الامين اسقط مطالبته من القائمة المقدمة الي المحكمة.",
+    "target_en_norm": "c) the trustee omitted his claim from the list filed with the court.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29774,
+    "source_ar": "جرد أصول التفليسة للمدين",
+    "target_en": "Inventory of Debtor’s Bankruptcy Assets",
+    "source_ar_norm": "جرد اصول التفليسة للمدين",
+    "target_en_norm": "inventory of debtor’s bankruptcy assets",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29775,
+    "source_ar": "المادة الخامسة والستون",
+    "target_en": "Article 65",
+    "source_ar_norm": "المادة الخامسة والستون",
+    "target_en_norm": "article 65",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29776,
+    "source_ar": "يعد الأمين قائمة جرد لأصول التفليسة تشتمل على تفاصيل أصول التفليسة وأي ضمانة مقررة عليها، وبيان ما يحوزه المدين من هذه الأصول وما يكون منها محلاً لدعوى من الغير، وغير ذلك من المعلومات ذات الصلة، وعلى الأمين تزويد المحكمة بنسخة منها.",
+    "target_en": "The trustee shall prepare a detailed inventory of bankruptcy assets, including details of such assets, any securities associated therewith, assets in possession of the debtor, assets subject to third-party claims, and other pertinent information. The trustee must provide the court with a copy of said inventory.",
+    "source_ar_norm": "يعد الامين قائمة جرد لاصول التفليسة تشتمل علي تفاصيل اصول التفليسة واي ضمانة مقررة عليها، وبيان ما يحوزه المدين من هذه الاصول وما يكون منها محلا لدعوي من الغير، وغير ذلك من المعلومات ذات الصلة، وعلي الامين تزويد المحكمة بنسخة منها.",
+    "target_en_norm": "the trustee shall prepare a detailed inventory of bankruptcy assets, including details of such assets, any securities associated therewith, assets in possession of the debtor, assets subject to third-party claims, and other pertinent information. the trustee must provide the court with a copy of said inventory.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29777,
+    "source_ar": "المادة السادسة والستون",
+    "target_en": "Article 66",
+    "source_ar_norm": "المادة السادسة والستون",
+    "target_en_norm": "article 66",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29778,
+    "source_ar": "يحتفظ المدين ذو الصفة الطبيعية من أصول التفليسة بما يوفر له ولمن يعولهم ما يكفي لمعيشة بالمعروف، وتحدد المحكمة مقدار كفايته بناء على اقتراح الأمين، ويلتزم المدين بمساعدة الأمين على تقويم الأصول لتقدير ما يحتفظ به منها. ولا تدرج الأصول المحتفظ بها لهذا الغرض ضمن المقترح.",
+    "target_en": "A natural person debtor may retain out of the bankruptcy assets what is required to provide him and his dependents with a decent standard of living. The court shall determine the amount based on the trustee’s recommendation. The debtor shall assist the trustee in determining the value of his assets to determine those that may be retained by the debtor. Assets retained for such purpose shall not be included in the proposal.",
+    "source_ar_norm": "يحتفظ المدين ذو الصفة الطبيعية من اصول التفليسة بما يوفر له ولمن يعولهم ما يكفي لمعيشة بالمعروف، وتحدد المحكمة مقدار كفايته بناء علي اقتراح الامين، ويلتزم المدين بمساعدة الامين علي تقويم الاصول لتقدير ما يحتفظ به منها. ولا تدرج الاصول المحتفظ بها لهذا الغرض ضمن المقترح.",
+    "target_en_norm": "a natural person debtor may retain out of the bankruptcy assets what is required to provide him and his dependents with a decent standard of living. the court shall determine the amount based on the trustee’s recommendation. the debtor shall assist the trustee in determining the value of his assets to determine those that may be retained by the debtor. assets retained for such purpose shall not be included in the proposal.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29779,
+    "source_ar": "أصول الغير",
+    "target_en": "Third-Party Assets",
+    "source_ar_norm": "اصول الغير",
+    "target_en_norm": "third-party assets",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29780,
+    "source_ar": "المادة السابعة والستون",
+    "target_en": "Article 67",
+    "source_ar_norm": "المادة السابعة والستون",
+    "target_en_norm": "article 67",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29781,
+    "source_ar": "على من يملك أصولاً تقع في حيازة المدين أو محجوزة لديه تزويد الأمين بمعلومات تفصيلية عنها، وله تقديم طلب إلى المحكمة لاسترداد تلك الأصول مرافقاً له ما يثبت ملكيته لها، وللأمين أن يبدي للمحكمة رأيه في هذا الشأن.",
+    "target_en": "Any third party whose assets are in the possession of the debtor or attached thereby shall provide the trustee with detailed information relating thereto, and shall file a petition with the court to recover such assets attached with supporting documents. The trustee may provide the court with his opinion on such petition.",
+    "source_ar_norm": "علي من يملك اصولا تقع في حيازة المدين او محجوزة لديه تزويد الامين بمعلومات تفصيلية عنها، وله تقديم طلب الي المحكمة لاسترداد تلك الاصول مرافقا له ما يثبت ملكيته لها، وللامين ان يبدي للمحكمة رايه في هذا الشان.",
+    "target_en_norm": "any third party whose assets are in the possession of the debtor or attached thereby shall provide the trustee with detailed information relating thereto, and shall file a petition with the court to recover such assets attached with supporting documents. the trustee may provide the court with his opinion on such petition.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29782,
+    "source_ar": "قائمة مطالبات الدائنين",
+    "target_en": "List of Claims of Creditors",
+    "source_ar_norm": "قائمة مطالبات الدائنين",
+    "target_en_norm": "list of claims of creditors",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29783,
+    "source_ar": "المادة الثامنة والستون",
+    "target_en": "Article 68",
+    "source_ar_norm": "المادة الثامنة والستون",
+    "target_en_norm": "article 68",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29784,
+    "source_ar": "1- يعد الأمين قائمة بمطالبات الدائنين بناء على المعلومات المقدمة إليه وفقاً لما تحدده اللائحة، ويقدمها إلى المحكمة خلال (أربعة عشر) يوماً من تاريخ انتهاء المدة المحددة لتقديم المطالبات لاعتمادها، ويجب أن تتضمن القائمة ما يأتي:",
+    "target_en": "1. The trustee shall, as specified in the Regulations, prepare a list of claims of creditors on the basis of information submitted to him, and shall submit such list with the court for approval within 14 days from the date of expiration of the period set for submission of claims. The list must include the following:",
+    "source_ar_norm": "1- يعد الامين قائمة بمطالبات الدائنين بناء علي المعلومات المقدمة اليه وفقا لما تحدده اللائحة، ويقدمها الي المحكمة خلال (اربعة عشر) يوما من تاريخ انتهاء المدة المحددة لتقديم المطالبات لاعتمادها، ويجب ان تتضمن القائمة ما ياتي:",
+    "target_en_norm": "1. the trustee shall, as specified in the regulations, prepare a list of claims of creditors on the basis of information submitted to him, and shall submit such list with the court for approval within 14 days from the date of expiration of the period set for submission of claims. the list must include the following:",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29785,
+    "source_ar": "أ- عنوان كل دائن ومبلغ مطالبته.",
+    "target_en": "a) The address and claim amount of each creditor.",
+    "source_ar_norm": "ا- عنوان كل دائن ومبلغ مطالبته.",
+    "target_en_norm": "a) the address and claim amount of each creditor.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29786,
+    "source_ar": "ب- تحديد الدائنين المضمونين وتفاصيل الضمانات المقدمة إليهم وتقديراً لقيمة الأصول محل هذه الضمانات.",
+    "target_en": "b) Identification of secured creditors, details of securities held thereby, and the estimated value of assets subject of such securities.",
+    "source_ar_norm": "ب- تحديد الدائنين المضمونين وتفاصيل الضمانات المقدمة اليهم وتقديرا لقيمة الاصول محل هذه الضمانات.",
+    "target_en_norm": "b) identification of secured creditors, details of securities held thereby, and the estimated value of assets subject of such securities.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29787,
+    "source_ar": "ج- الديون القابلة للمقاصة.",
+    "target_en": "c) Debts that may be set off.",
+    "source_ar_norm": "ج- الديون القابلة للمقاصة.",
+    "target_en_norm": "c) debts that may be set off.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29788,
+    "source_ar": "د- توصيته بشأن كل مطالبة مقدمة إليه بالقبول أو الرفض أو العرض على خبير.",
+    "target_en": "d) The trustee's recommendation regarding each submitted claim whether to accept, reject, or refer such claim to an expert.",
+    "source_ar_norm": "د- توصيته بشان كل مطالبة مقدمة اليه بالقبول او الرفض او العرض علي خبير.",
+    "target_en_norm": "d) the trustee's recommendation regarding each submitted claim whether to accept, reject, or refer such claim to an expert.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29789,
+    "source_ar": "هـ- ما تحدده اللائحة.",
+    "target_en": "e) Stipulations of the Regulations.",
+    "source_ar_norm": "ه- ما تحدده اللائحة.",
+    "target_en_norm": "e) stipulations of the regulations.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29790,
+    "source_ar": "2- على الأمين خلال (خمسة) أيام من تاريخ تقديم قائمة المطالبات إلى المحكمة أن يبلغ الدائن الذي أُوصي برفض مطالبته أو بعرضها على خبير. ويحق لهذا الدائن التقدم إلى المحكمة بطلب النظر في مطالبته، فإن رأت المحكمة قبول المطالبة أو جزء منها أدرجتها في قائمة المطالبات كمطالبة مقبولة لغرض التصويت.",
+    "target_en": "2. The trustee must, within five days from the date of filing the list of claims with the court, notify the creditor of the recommendation to reject or refer his claim to an expert. Said creditor may petition the court to consider his claim. If the court decides to accept such claim or part thereof, it shall include it in the list of claims for voting purposes.",
+    "source_ar_norm": "2- علي الامين خلال (خمسة) ايام من تاريخ تقديم قائمة المطالبات الي المحكمة ان يبلغ الدائن الذي اوصي برفض مطالبته او بعرضها علي خبير. ويحق لهذا الدائن التقدم الي المحكمة بطلب النظر في مطالبته، فان رات المحكمة قبول المطالبة او جزء منها ادرجتها في قائمة المطالبات كمطالبة مقبولة لغرض التصويت.",
+    "target_en_norm": "2. the trustee must, within five days from the date of filing the list of claims with the court, notify the creditor of the recommendation to reject or refer his claim to an expert. said creditor may petition the court to consider his claim. if the court decides to accept such claim or part thereof, it shall include it in the list of claims for voting purposes.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29791,
+    "source_ar": "3- للمحكمة -بناء على طلب الأمين- تمديد مهلة تقديم القائمة المشار إليها في الفقرة (1) من هذه المادة إذا دعت الحاجة لذلك.",
+    "target_en": "3. The court may, if necessary and upon the request of the trustee, extend the deadline for submitting the list of claims referred to in paragraph (1) of this Article.",
+    "source_ar_norm": "3- للمحكمة -بناء علي طلب الامين- تمديد مهلة تقديم القائمة المشار اليها في الفقرة (1) من هذه المادة اذا دعت الحاجة لذلك.",
+    "target_en_norm": "3. the court may, if necessary and upon the request of the trustee, extend the deadline for submitting the list of claims referred to in paragraph (1) of this article.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29792,
+    "source_ar": "4- للدائن الاطلاع على قائمة المطالبات المعتمدة من المحكمة.",
+    "target_en": "4. The creditor may access the list of claims approved by the court.",
+    "source_ar_norm": "4- للدائن الاطلاع علي قائمة المطالبات المعتمدة من المحكمة.",
+    "target_en_norm": "4. the creditor may access the list of claims approved by the court.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29793,
+    "source_ar": "المادة التاسعة والستون",
+    "target_en": "Article 69",
+    "source_ar_norm": "المادة التاسعة والستون",
+    "target_en_norm": "article 69",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29794,
+    "source_ar": "1- دون إخلال بصلاحيات ومهمات الأمين، يستمر المدين في إدارة أعماله ونشاطه خلال فترة إجراء إعادة التنظيم المالي تحت إشراف الأمين.",
+    "target_en": "1. Without prejudice to the trustee’s powers and duties, the debtor shall continue to manage his business and activities during the period of the financial restructuring procedure under the trustee’s supervision.",
+    "source_ar_norm": "1- دون اخلال بصلاحيات ومهمات الامين، يستمر المدين في ادارة اعماله ونشاطه خلال فترة اجراء اعادة التنظيم المالي تحت اشراف الامين.",
+    "target_en_norm": "1. without prejudice to the trustee’s powers and duties, the debtor shall continue to manage his business and activities during the period of the financial restructuring procedure under the trustee’s supervision.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29795,
+    "source_ar": "2- إذا ارتكب المدين أو أحد المسؤولين في إدارته خلال فترة الإجراء تصرفاً ينطوي على إهمال أو سوء إدارة أو عدم تعاون مع الأمين أو ارتكب أياً من الأفعال المجرمة في النظام؛ فللأمين أن يطلب من المحكمة غل يد المدين عن الإدارة، على أن يبين لها رأيه ورأي لجنة الدائنين -إن وجدت- بشأن استمرار الإجراء، وللمحكمة عندئذ أن تقضي بأي مما يأتي:",
+    "target_en": "2. If, during the procedure, the debtor or any of his officials fails to cooperate with the trustee or commits any act of negligence, mismanagement, or any offense stipulated in this Law, the trustee may request the court to suspend the debtor’s management of his business, provided the trustee provides the court with his opinion and that of the creditors’ committee, if any, regarding the continuation of the procedure. Accordingly, the court may decide to:",
+    "source_ar_norm": "2- اذا ارتكب المدين او احد المسؤولين في ادارته خلال فترة الاجراء تصرفا ينطوي علي اهمال او سوء ادارة او عدم تعاون مع الامين او ارتكب ايا من الافعال المجرمة في النظام؛ فللامين ان يطلب من المحكمة غل يد المدين عن الادارة، علي ان يبين لها رايه وراي لجنة الدائنين -ان وجدت- بشان استمرار الاجراء، وللمحكمة عندئذ ان تقضي باي مما ياتي:",
+    "target_en_norm": "2. if, during the procedure, the debtor or any of his officials fails to cooperate with the trustee or commits any act of negligence, mismanagement, or any offense stipulated in this law, the trustee may request the court to suspend the debtor’s management of his business, provided the trustee provides the court with his opinion and that of the creditors’ committee, if any, regarding the continuation of the procedure. accordingly, the court may decide to:",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29796,
+    "source_ar": "أ- تكليف الأمين بدلاً من المدين في إدارة النشاط ونقل جميع صلاحيات المدين ومسؤولياته إلى الأمين خلال فترة سريان الإجراء. وللأمين الاستعانة بمن يراه مناسباً لمساعدته في إدارة نشاط المدين.",
+    "target_en": "a) assign the trustee instead of the debtor to manage the business, and transfer all the debtor’s powers and responsibilities to the trustee during the validity of the procedure. The trustee may seek the assistance of any person he deems appropriate in the management of the debtor’s business;",
+    "source_ar_norm": "ا- تكليف الامين بدلا من المدين في ادارة النشاط ونقل جميع صلاحيات المدين ومسؤولياته الي الامين خلال فترة سريان الاجراء. وللامين الاستعانة بمن يراه مناسبا لمساعدته في ادارة نشاط المدين.",
+    "target_en_norm": "a) assign the trustee instead of the debtor to manage the business, and transfer all the debtor’s powers and responsibilities to the trustee during the validity of the procedure. the trustee may seek the assistance of any person he deems appropriate in the management of the debtor’s business;",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29797,
+    "source_ar": "ب- تعيين شخص يحل محل المدين في الإدارة إذا كان حجم النشاط أو نوعه يقتضي ذلك، ونقل جميع صلاحيات المدين ومسؤولياته إليه خلال فترة سريان الإجراء، على أن يفي الشخص المعين بالتزامات المدين تجاه الأمين. وإذا كان المعين شخصاً ذا صفة اعتبارية فيجب عليه تعيين شخص ذي صفة طبيعية ممثلاً عنه.",
+    "target_en": "b) appoint another person to replace the debtor in managing the business if the volume or type of the business so requires, and transfer all the debtor’s powers and responsibilities to such person during the validity of the procedure, provided the appointee fulfills the debtor’s obligations towards the trustee. If the appointee is a legal person, it must appoint a natural person as its representative;",
+    "source_ar_norm": "ب- تعيين شخص يحل محل المدين في الادارة اذا كان حجم النشاط او نوعه يقتضي ذلك، ونقل جميع صلاحيات المدين ومسؤولياته اليه خلال فترة سريان الاجراء، علي ان يفي الشخص المعين بالتزامات المدين تجاه الامين. واذا كان المعين شخصا ذا صفة اعتبارية فيجب عليه تعيين شخص ذي صفة طبيعية ممثلا عنه.",
+    "target_en_norm": "b) appoint another person to replace the debtor in managing the business if the volume or type of the business so requires, and transfer all the debtor’s powers and responsibilities to such person during the validity of the procedure, provided the appointee fulfills the debtor’s obligations towards the trustee. if the appointee is a legal person, it must appoint a natural person as its representative;",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29798,
+    "source_ar": "ج- إنهاء الإجراء وافتتاح إجراء التصفية للمدين إذا رأت ذلك.",
+    "target_en": "c) terminate the procedure and initiate the debtor’s liquidation procedure, if it deems it necessary; or",
+    "source_ar_norm": "ج- انهاء الاجراء وافتتاح اجراء التصفية للمدين اذا رات ذلك.",
+    "target_en_norm": "c) terminate the procedure and initiate the debtor’s liquidation procedure, if it deems it necessary; or",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29799,
+    "source_ar": "د - أي اجراء آخر تنص عليه اللائحة.",
+    "target_en": "d) decide on any other procedure stipulated in the Regulations.",
+    "source_ar_norm": "د - اي اجراء اخر تنص عليه اللائحة.",
+    "target_en_norm": "d) decide on any other procedure stipulated in the regulations.",
+    "file_name": "نظام الإفلاس.docx"
+  },
+  {
+    "id": 29800,
+    "source_ar": "3- إذا قرر المدين عدم الاستمرار في إدارة نشاطه أثناء الإجراء لسبب عائد إليه بموجب طلب موقع منه، فللأمين أن يقدم طلباً وفق الفقرة (2) من هذه المادة.",
+    "target_en": "3. If the debtor submits a signed request to the trustee declaring his decision to discontinue the management of his business during the procedure for personal reasons, the trustee may submit a request to the court in accordance with paragraph (2) of this Article.",
+    "source_ar_norm": "3- اذا قرر المدين عدم الاستمرار في ادارة نشاطه اثناء الاجراء لسبب عائد اليه بموجب طلب موقع منه، فللامين ان يقدم طلبا وفق الفقرة (2) من هذه المادة.",
+    "target_en_norm": "3. if the debtor submits a signed request to the trustee declaring his decision to discontinue the management of his business during the procedure for personal reasons, the trustee may submit a request to the court in accordance with paragraph (2) of this article.",
+    "file_name": "نظام الإفلاس.docx"
+  }
+]

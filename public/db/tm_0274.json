@@ -1,0 +1,802 @@
+[
+  {
+    "id": 27301,
+    "source_ar": "إذا انفرد العاصب بالنفس أخذ التركة كلها، وإذا كان مع وارث بالفرض أخذ ما بقي من التركة بعد الفروض، ويسقط العاصب بالنفس إذا استغرقت الفروض التركة في جميع الأحوال بما في ذلك إذا كان الورثة زوجاً وإخوةً لأم وأخاً شقيقاً -فأكثر- وأماً أو جَدَّةً.",
+    "target_en": "A person inheriting through ta’sib-by-self shall inherit the entire estate if he is the sole heir. If said person is with an heir by fardh, he shall inherit the remainder of the estate after the heir by fardh receives his share. The person inheriting through ta’sib-by-self shall be excluded from the inheritance if the entire estate is distributed among heirs by fardh, including a spouse, uterine brothers, one or more full brothers, and a mother or grandmother.",
+    "source_ar_norm": "اذا انفرد العاصب بالنفس اخذ التركة كلها، واذا كان مع وارث بالفرض اخذ ما بقي من التركة بعد الفروض، ويسقط العاصب بالنفس اذا استغرقت الفروض التركة في جميع الاحوال بما في ذلك اذا كان الورثة زوجا واخوة لام واخا شقيقا -فاكثر- واما او جدة.",
+    "target_en_norm": "a person inheriting through ta’sib-by-self shall inherit the entire estate if he is the sole heir. if said person is with an heir by fardh, he shall inherit the remainder of the estate after the heir by fardh receives his share. the person inheriting through ta’sib-by-self shall be excluded from the inheritance if the entire estate is distributed among heirs by fardh, including a spouse, uterine brothers, one or more full brothers, and a mother or grandmother.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27302,
+    "source_ar": "المادة الثامنة والعشرون بعد المائتين",
+    "target_en": "Article 228",
+    "source_ar_norm": "المادة الثامنة والعشرون بعد المائتين",
+    "target_en_norm": "article 228",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27303,
+    "source_ar": "يقدم في التعصيب الأَوْلَى جهةً بحسب الترتيب الوارد في المادة (الرابعة والعشرين بعد المائتين) من هذا النظام، ثم الأقرب درجةً للميت عند اتحاد الجهة، ثم الأقوى قرابةً عند التساوي في الدرجة.",
+    "target_en": "1. In ta’sib, precedence shall be given to kinship sides as per the order stipulated in Article 224 of this Law, followed by relatives of the same kinship side who are closer in degree to the deceased, then by relatives of the same degree who are closer in kinship to the deceased.",
+    "source_ar_norm": "يقدم في التعصيب الاولي جهة بحسب الترتيب الوارد في المادة (الرابعة والعشرين بعد المائتين) من هذا النظام، ثم الاقرب درجة للميت عند اتحاد الجهة، ثم الاقوي قرابة عند التساوي في الدرجة.",
+    "target_en_norm": "1. in ta’sib, precedence shall be given to kinship sides as per the order stipulated in article 224 of this law, followed by relatives of the same kinship side who are closer in degree to the deceased, then by relatives of the same degree who are closer in kinship to the deceased.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27304,
+    "source_ar": "يشترك العصبات في استحقاق الباقي بالتعصيب عند اتحادهم في الجهة وتساويهم في الدرجة والقوة.",
+    "target_en": "2. Heirs by ta’sib shall be entitled to inherit the remainder of the estate if they are of the same kinship side and of the same degree and closeness.",
+    "source_ar_norm": "يشترك العصبات في استحقاق الباقي بالتعصيب عند اتحادهم في الجهة وتساويهم في الدرجة والقوة.",
+    "target_en_norm": "2. heirs by ta’sib shall be entitled to inherit the remainder of the estate if they are of the same kinship side and of the same degree and closeness.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27305,
+    "source_ar": "القريب الشقيق أقوى من القريب لأب في الجهة نفسها.",
+    "target_en": "3. A full relative shall have precedence over a consanguine relative of the same kinship side.",
+    "source_ar_norm": "القريب الشقيق اقوي من القريب لاب في الجهة نفسها.",
+    "target_en_norm": "3. a full relative shall have precedence over a consanguine relative of the same kinship side.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27306,
+    "source_ar": "المادة التاسعة والعشرون بعد المائتين",
+    "target_en": "Article 229",
+    "source_ar_norm": "المادة التاسعة والعشرون بعد المائتين",
+    "target_en_norm": "article 229",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27307,
+    "source_ar": "يأخذ العاصب بالغير والعاصب مع الغير ما بقي من التركة بعد الفروض إذا كان أحدهما مع وارث بالفرض، ويسقط إذا استغرقت الفروض التركة.",
+    "target_en": "A person inheriting through ta’sib-by-others or through ta’sib-with-others shall, if he is with an heir by fardh, inherit the remainder of the estate after such heir receives his share. Such person shall be excluded from the inheritance if the entire estate is distributed among heirs by fardh.",
+    "source_ar_norm": "ياخذ العاصب بالغير والعاصب مع الغير ما بقي من التركة بعد الفروض اذا كان احدهما مع وارث بالفرض، ويسقط اذا استغرقت الفروض التركة.",
+    "target_en_norm": "a person inheriting through ta’sib-by-others or through ta’sib-with-others shall, if he is with an heir by fardh, inherit the remainder of the estate after such heir receives his share. such person shall be excluded from the inheritance if the entire estate is distributed among heirs by fardh.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27308,
+    "source_ar": "المادة الثلاثون بعد المائتين",
+    "target_en": "Article 230",
+    "source_ar_norm": "المادة الثلاثون بعد المائتين",
+    "target_en_norm": "article 230",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27309,
+    "source_ar": "إذا تزاحمت سهام ذوي الفروض في التركة، فتعول بنقص أنصبتهم بنسبة فروضهم.",
+    "target_en": "If the prescribed shares of heirs by fardh cannot be satisfied by the estate, such shares shall be proportionally decreased to the extent that they can be satisfied by the estate.",
+    "source_ar_norm": "اذا تزاحمت سهام ذوي الفروض في التركة، فتعول بنقص انصبتهم بنسبة فروضهم.",
+    "target_en_norm": "if the prescribed shares of heirs by fardh cannot be satisfied by the estate, such shares shall be proportionally decreased to the extent that they can be satisfied by the estate.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27310,
+    "source_ar": "المادة الحادية والثلاثون بعد المائتين",
+    "target_en": "Article 231",
+    "source_ar_norm": "المادة الحادية والثلاثون بعد المائتين",
+    "target_en_norm": "article 231",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27311,
+    "source_ar": "إذا لم تستغرق الفروض التركة، ولم يوجد عاصب؛ رد الباقي على غير الزوجين من أصحاب الفروض بنسبة فروضهم.",
+    "target_en": "1. If the estate is not entirely distributed among the heirs by fardh and there are no heirs by ta’sib, the remainder of the estate shall be distributed among the heirs by fardh, excluding the spouses, in proportion to their shares.",
+    "source_ar_norm": "اذا لم تستغرق الفروض التركة، ولم يوجد عاصب؛ رد الباقي علي غير الزوجين من اصحاب الفروض بنسبة فروضهم.",
+    "target_en_norm": "1. if the estate is not entirely distributed among the heirs by fardh and there are no heirs by ta’sib, the remainder of the estate shall be distributed among the heirs by fardh, excluding the spouses, in proportion to their shares.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27312,
+    "source_ar": "إذا لم يوجد وارث من ذوي الفروض أو العصبات أو ذوي الأرحام؛ رد الباقي على أحد الزوجين.",
+    "target_en": "2. In the absence of an heir by fardh, an heir by ta’sib, or a distant kindred, one of the spouses shall receive the remainder of the estate.",
+    "source_ar_norm": "اذا لم يوجد وارث من ذوي الفروض او العصبات او ذوي الارحام؛ رد الباقي علي احد الزوجين.",
+    "target_en_norm": "2. in the absence of an heir by fardh, an heir by ta’sib, or a distant kindred, one of the spouses shall receive the remainder of the estate.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27313,
+    "source_ar": "(الفصل الرابع) ميراث ذوي الأرحام",
+    "target_en": "Chapter 4: Inheritance of Distant Kindred",
+    "source_ar_norm": "(الفصل الرابع) ميراث ذوي الارحام",
+    "target_en_norm": "chapter 4: inheritance of distant kindred",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27314,
+    "source_ar": "المادة الثانية والثلاثون بعد المائتين",
+    "target_en": "Article 232",
+    "source_ar_norm": "المادة الثانية والثلاثون بعد المائتين",
+    "target_en_norm": "article 232",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27315,
+    "source_ar": "ذوو الأرحام هم كل قريب لا يرث بالفرض ولا بالتعصيب.",
+    "target_en": "Distant kindred are relatives who do not inherit by fardh or by ta’sib.",
+    "source_ar_norm": "ذوو الارحام هم كل قريب لا يرث بالفرض ولا بالتعصيب.",
+    "target_en_norm": "distant kindred are relatives who do not inherit by fardh or by ta’sib.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27316,
+    "source_ar": "المادة الثالثة والثلاثون بعد المائتين",
+    "target_en": "Article 233",
+    "source_ar_norm": "المادة الثالثة والثلاثون بعد المائتين",
+    "target_en_norm": "article 233",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27317,
+    "source_ar": "لذوي الأرحام (ثلاث) جهات على النحو الآتي:",
+    "target_en": "Distant kindred have three kinship sides, as follows:",
+    "source_ar_norm": "لذوي الارحام (ثلاث) جهات علي النحو الاتي:",
+    "target_en_norm": "distant kindred have three kinship sides, as follows:",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27318,
+    "source_ar": "جهة الأبوة، وتشمل كل من يتصل رحمه بالميت بواسطة الأب، وهم القرابات الآتية:",
+    "target_en": "1. The paternal side: Consanguine relatives of the deceased, including the following:",
+    "source_ar_norm": "جهة الابوة، وتشمل كل من يتصل رحمه بالميت بواسطة الاب، وهم القرابات الاتية:",
+    "target_en_norm": "1. the paternal side: consanguine relatives of the deceased, including the following:",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27319,
+    "source_ar": "أ- الجد غير الوارث وفقاً لحكم الفقرة (1) من المادة (الثانية عشرة بعد المائتين) من هذا النظام.",
+    "target_en": "a) A non-inheriting grandfather, in accordance with the provision of Article 212(1) of this Law.",
+    "source_ar_norm": "ا- الجد غير الوارث وفقا لحكم الفقرة (1) من المادة (الثانية عشرة بعد المائتين) من هذا النظام.",
+    "target_en_norm": "a) a non-inheriting grandfather, in accordance with the provision of article 212(1) of this law.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27320,
+    "source_ar": "ب- الجدة غير الوارثة وفقاً لحكم الفقرة (1) من المادة (الرابعة عشرة بعد المائتين) من هذا النظام.",
+    "target_en": "b) A non-inheriting grandmother, in accordance with the provision of Article 214(1) of this Law.",
+    "source_ar_norm": "ب- الجدة غير الوارثة وفقا لحكم الفقرة (1) من المادة (الرابعة عشرة بعد المائتين) من هذا النظام.",
+    "target_en_norm": "b) a non-inheriting grandmother, in accordance with the provision of article 214(1) of this law.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27321,
+    "source_ar": "ج- العم لأم.",
+    "target_en": "c) A father’s uterine brother.",
+    "source_ar_norm": "ج- العم لام.",
+    "target_en_norm": "c) a father’s uterine brother.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27322,
+    "source_ar": "د- العمة.",
+    "target_en": "d) An aunt.",
+    "source_ar_norm": "د- العمة.",
+    "target_en_norm": "d) an aunt.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27323,
+    "source_ar": "هـ- بنت العم.",
+    "target_en": "e) A female cousin.",
+    "source_ar_norm": "ه- بنت العم.",
+    "target_en_norm": "e) a female cousin.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27324,
+    "source_ar": "و- بنت الأخ لغير أم.",
+    "target_en": "f) A daughter of a consanguine brother.",
+    "source_ar_norm": "و- بنت الاخ لغير ام.",
+    "target_en_norm": "f) a daughter of a consanguine brother.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27325,
+    "source_ar": "ز- ولد الأخت لغير أم.",
+    "target_en": "g) A son of a consanguine sister.",
+    "source_ar_norm": "ز- ولد الاخت لغير ام.",
+    "target_en_norm": "g) a son of a consanguine sister.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27326,
+    "source_ar": "ح- أولاد القرابات السابقة.",
+    "target_en": "h) Children of the above-mentioned relatives.",
+    "source_ar_norm": "ح- اولاد القرابات السابقة.",
+    "target_en_norm": "h) children of the above-mentioned relatives.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27327,
+    "source_ar": "جهة الأمومة، وتشمل كل من يتصل رحمه بالميت بواسطة الأم، وهم القرابات الآتية:",
+    "target_en": "2. The maternal side: Uterine relatives of the deceased, including the following:",
+    "source_ar_norm": "جهة الامومة، وتشمل كل من يتصل رحمه بالميت بواسطة الام، وهم القرابات الاتية:",
+    "target_en_norm": "2. the maternal side: uterine relatives of the deceased, including the following:",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27328,
+    "source_ar": "أ- الجد غير الوارث وفقاً لحكم الفقرة (1) من المادة (الثانية عشرة بعد المائتين) من هذا النظام.",
+    "target_en": "a) A non-inheriting grandfather, in accordance with the provision of Article 212(1) of this Law.",
+    "source_ar_norm": "ا- الجد غير الوارث وفقا لحكم الفقرة (1) من المادة (الثانية عشرة بعد المائتين) من هذا النظام.",
+    "target_en_norm": "a) a non-inheriting grandfather, in accordance with the provision of article 212(1) of this law.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27329,
+    "source_ar": "ب- الجدة غير الوارثة وفقاً لحكم الفقرة (1) من المادة (الرابعة عشرة بعد المائتين) من هذا النظام.",
+    "target_en": "b) A non-inheriting grandmother, in accordance with the provision of Article 214(1) of this Law.",
+    "source_ar_norm": "ب- الجدة غير الوارثة وفقا لحكم الفقرة (1) من المادة (الرابعة عشرة بعد المائتين) من هذا النظام.",
+    "target_en_norm": "b) a non-inheriting grandmother, in accordance with the provision of article 214(1) of this law.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27330,
+    "source_ar": "ج- الخال.",
+    "target_en": "c) An uncle.",
+    "source_ar_norm": "ج- الخال.",
+    "target_en_norm": "c) an uncle.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27331,
+    "source_ar": "د- الخالة.",
+    "target_en": "d) An aunt.",
+    "source_ar_norm": "د- الخالة.",
+    "target_en_norm": "d) an aunt.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27332,
+    "source_ar": "هـ- ولد الأخ والأخت لأم.",
+    "target_en": "e) A son of a uterine brother or a uterine sister.",
+    "source_ar_norm": "ه- ولد الاخ والاخت لام.",
+    "target_en_norm": "e) a son of a uterine brother or a uterine sister.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27333,
+    "source_ar": "و- أولاد القرابات السابقة.",
+    "target_en": "f) Children of the above-mentioned relatives.",
+    "source_ar_norm": "و- اولاد القرابات السابقة.",
+    "target_en_norm": "f) children of the above-mentioned relatives.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27334,
+    "source_ar": "جهة البنوة، وتشمل كل فروع الميت، وهم القرابات الآتية:",
+    "target_en": "3. The filial side: Descendants of the deceased, including the following:",
+    "source_ar_norm": "جهة البنوة، وتشمل كل فروع الميت، وهم القرابات الاتية:",
+    "target_en_norm": "3. the filial side: descendants of the deceased, including the following:",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27335,
+    "source_ar": "أ- ولد البنت.",
+    "target_en": "a) A daughter’s son.",
+    "source_ar_norm": "ا- ولد البنت.",
+    "target_en_norm": "a) a daughter’s son.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27336,
+    "source_ar": "ب- ولد بنت الابن.",
+    "target_en": "b) A son of a son's daughter.",
+    "source_ar_norm": "ب- ولد بنت الابن.",
+    "target_en_norm": "b) a son of a son's daughter.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27337,
+    "source_ar": "ج- أولاد القرابات السابقة.",
+    "target_en": "c) Children of the above-mentioned relatives.",
+    "source_ar_norm": "ج- اولاد القرابات السابقة.",
+    "target_en_norm": "c) children of the above-mentioned relatives.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27338,
+    "source_ar": "المادة الرابعة والثلاثون بعد المائتين",
+    "target_en": "Article 234",
+    "source_ar_norm": "المادة الرابعة والثلاثون بعد المائتين",
+    "target_en_norm": "article 234",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27339,
+    "source_ar": "يرث ذوو الأرحام في أي من الحالتين الآتيتين:",
+    "target_en": "Distant kindred shall inherit in the following cases:",
+    "source_ar_norm": "يرث ذوو الارحام في اي من الحالتين الاتيتين:",
+    "target_en_norm": "distant kindred shall inherit in the following cases:",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27340,
+    "source_ar": "إذا لم يوجد وارث بفرض أو تعصيب.",
+    "target_en": "1. If there is no heir by fardh or by ta’sib.",
+    "source_ar_norm": "اذا لم يوجد وارث بفرض او تعصيب.",
+    "target_en_norm": "1. if there is no heir by fardh or by ta’sib.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27341,
+    "source_ar": "إذا وجد أحد الزوجين ولم يوجد معه وارث بفرض أو تعصيب.",
+    "target_en": "2. If there is a spouse and there is no heir by fardh or by ta’sib with the spouse.",
+    "source_ar_norm": "اذا وجد احد الزوجين ولم يوجد معه وارث بفرض او تعصيب.",
+    "target_en_norm": "2. if there is a spouse and there is no heir by fardh or by ta’sib with the spouse.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27342,
+    "source_ar": "المادة الخامسة والثلاثون بعد المائتين",
+    "target_en": "Article 235",
+    "source_ar_norm": "المادة الخامسة والثلاثون بعد المائتين",
+    "target_en_norm": "article 235",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27343,
+    "source_ar": "يكون توريث ذوي الأرحام بتنزيل كل واحد منهم منزلة من أدلى به من الورثة إرثاً وحجباً، دون تفاضل بين سهم الذكر وسهم الأنثى.",
+    "target_en": "Inheritance shall be distributed among distant kindred by assigning to each of them the shares of the heirs through whom they become entitled to inheritance or are excluded from inheritance; a male and a female shall inherit equally, regardless of gender.",
+    "source_ar_norm": "يكون توريث ذوي الارحام بتنزيل كل واحد منهم منزلة من ادلي به من الورثة ارثا وحجبا، دون تفاضل بين سهم الذكر وسهم الانثي.",
+    "target_en_norm": "inheritance shall be distributed among distant kindred by assigning to each of them the shares of the heirs through whom they become entitled to inheritance or are excluded from inheritance; a male and a female shall inherit equally, regardless of gender.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27344,
+    "source_ar": "المادة السادسة والثلاثون بعد المائتين",
+    "target_en": "Article 236",
+    "source_ar_norm": "المادة السادسة والثلاثون بعد المائتين",
+    "target_en_norm": "article 236",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27345,
+    "source_ar": "إذا اتحدت جهات ذوي الأرحام وكان بعضهم أقرب للميت، فيسقط الأبعد، وإذا اختلفت الجهات فيرث البعيد مع وجود القريب.",
+    "target_en": "If the distant kindred belong to the same side of kinship and some of them are closer to the deceased, the more distant kindred shall be excluded. In case of different kinship sides, the more distant kindred shall inherit even in the presence of the closer ones.",
+    "source_ar_norm": "اذا اتحدت جهات ذوي الارحام وكان بعضهم اقرب للميت، فيسقط الابعد، واذا اختلفت الجهات فيرث البعيد مع وجود القريب.",
+    "target_en_norm": "if the distant kindred belong to the same side of kinship and some of them are closer to the deceased, the more distant kindred shall be excluded. in case of different kinship sides, the more distant kindred shall inherit even in the presence of the closer ones.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27346,
+    "source_ar": "المادة السابعة والثلاثون بعد المائتين",
+    "target_en": "Article 237",
+    "source_ar_norm": "المادة السابعة والثلاثون بعد المائتين",
+    "target_en_norm": "article 237",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27347,
+    "source_ar": "إذا لم يوجد وارث بفرض ولا وارث بتعصيب ولا وارث برحم؛ فتأخذ التركة أو ما بقي منها حكم الأموال التي جُهِل مالكها.",
+    "target_en": "If there is no heir by fardh or by ta’sib or an inheriting distant kindred, the estate or the remainder thereof shall be treated as a property the owner of which is unknown.",
+    "source_ar_norm": "اذا لم يوجد وارث بفرض ولا وارث بتعصيب ولا وارث برحم؛ فتاخذ التركة او ما بقي منها حكم الاموال التي جهل مالكها.",
+    "target_en_norm": "if there is no heir by fardh or by ta’sib or an inheriting distant kindred, the estate or the remainder thereof shall be treated as a property the owner of which is unknown.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27348,
+    "source_ar": "(الفصل الخامس) ميراث المفقود والحمل ومنفي النسب",
+    "target_en": "Chapter 5: Inheritance of Missing Persons, Unborn Children, and Disavowed Children",
+    "source_ar_norm": "(الفصل الخامس) ميراث المفقود والحمل ومنفي النسب",
+    "target_en_norm": "chapter 5: inheritance of missing persons, unborn children, and disavowed children",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27349,
+    "source_ar": "المادة الثامنة والثلاثون بعد المائتين",
+    "target_en": "Article 238",
+    "source_ar_norm": "المادة الثامنة والثلاثون بعد المائتين",
+    "target_en_norm": "article 238",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27350,
+    "source_ar": "يحفظ للمفقود من تركة مورثه نصيبه فيها على تقدير حياته، فإن ظهر حيًّا أخذه، وإن حُكِم بموته قبل موت مورثه رد نصيبه إلى من يستحقه من الورثة وقت الحكم.",
+    "target_en": "A missing person’s share of the estate shall be preserved based on the assumption that he is alive. If he is found to be alive, he shall receive his share. If he is declared dead pursuant to a judicial ruling rendered prior to the death of the testator, his share shall be redistributed among the heirs who are entitled thereto at the time said judgment is rendered.",
+    "source_ar_norm": "يحفظ للمفقود من تركة مورثه نصيبه فيها علي تقدير حياته، فان ظهر حيا اخذه، وان حكم بموته قبل موت مورثه رد نصيبه الي من يستحقه من الورثة وقت الحكم.",
+    "target_en_norm": "a missing person’s share of the estate shall be preserved based on the assumption that he is alive. if he is found to be alive, he shall receive his share. if he is declared dead pursuant to a judicial ruling rendered prior to the death of the testator, his share shall be redistributed among the heirs who are entitled thereto at the time said judgment is rendered.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27351,
+    "source_ar": "المادة التاسعة والثلاثون بعد المائتين",
+    "target_en": "Article 239",
+    "source_ar_norm": "المادة التاسعة والثلاثون بعد المائتين",
+    "target_en_norm": "article 239",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27352,
+    "source_ar": "إذا حكم بموت المفقود ووزعت تركته على ورثته ثم ظهر حيًّا، طبقت أحكام الفقرة (1) من المادة (الثامنة والستين بعد المائة) من هذا النظام.",
+    "target_en": "If a missing person is found to be alive after he was declared dead pursuant to a judicial ruling and his estate was distributed among the heirs, the provisions of Article 168(1) of this Law shall apply.",
+    "source_ar_norm": "اذا حكم بموت المفقود ووزعت تركته علي ورثته ثم ظهر حيا، طبقت احكام الفقرة (1) من المادة (الثامنة والستين بعد المائة) من هذا النظام.",
+    "target_en_norm": "if a missing person is found to be alive after he was declared dead pursuant to a judicial ruling and his estate was distributed among the heirs, the provisions of article 168(1) of this law shall apply.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27353,
+    "source_ar": "المادة الأربعون بعد المائتين",
+    "target_en": "Article 240",
+    "source_ar_norm": "المادة الاربعون بعد المائتين",
+    "target_en_norm": "article 240",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27354,
+    "source_ar": "يحفظ للحمل من تركة مورثه أوفر النصيبين لذكر أو أنثى أو أكثر بناء على تقرير طبي معتمد يحدد عدد الأجنة، ويعطى باقي الورثة أقل النصيبين.",
+    "target_en": "An unborn child shall be allocated the greater share of an estate for one male or female or more pursuant to a certified medical report specifying the number of fetuses, and the other heirs shall be given the lesser share.",
+    "source_ar_norm": "يحفظ للحمل من تركة مورثه اوفر النصيبين لذكر او انثي او اكثر بناء علي تقرير طبي معتمد يحدد عدد الاجنة، ويعطي باقي الورثة اقل النصيبين.",
+    "target_en_norm": "an unborn child shall be allocated the greater share of an estate for one male or female or more pursuant to a certified medical report specifying the number of fetuses, and the other heirs shall be given the lesser share.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27355,
+    "source_ar": "فإذا وضع وتبين موته أو حياته وجنسه وعدده، فيُوزع باقي التركة على الورثة بحسب أنصبتهم.",
+    "target_en": "If, upon delivery, the status of the child or children, whether alive or dead, and the gender and number thereof is determined, the remainder of the estate shall be distributed among the heirs according to their respective shares.",
+    "source_ar_norm": "فاذا وضع وتبين موته او حياته وجنسه وعدده، فيوزع باقي التركة علي الورثة بحسب انصبتهم.",
+    "target_en_norm": "if, upon delivery, the status of the child or children, whether alive or dead, and the gender and number thereof is determined, the remainder of the estate shall be distributed among the heirs according to their respective shares.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27356,
+    "source_ar": "المادة الحادية والأربعون بعد المائتين",
+    "target_en": "Article 241",
+    "source_ar_norm": "المادة الحادية والاربعون بعد المائتين",
+    "target_en_norm": "article 241",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27357,
+    "source_ar": "إذا أقر بعض الورثة المكلفين بمشارك في الإرث أو بحاجب لأحدهم، وأنكره الباقون أو كانوا غير مكلفين وقامت البينة؛ ثبت إرث المقر له من الميت.",
+    "target_en": "1. If any of the competent heirs acknowledge the presence of another person who is entitled to a share in the inheritance or who excludes any of them, and the other heirs deny the same or are incompetent and evidence is established to this effect, the acknowledged person shall be entitled to his share of the inheritance.",
+    "source_ar_norm": "اذا اقر بعض الورثة المكلفين بمشارك في الارث او بحاجب لاحدهم، وانكره الباقون او كانوا غير مكلفين وقامت البينة؛ ثبت ارث المقر له من الميت.",
+    "target_en_norm": "1. if any of the competent heirs acknowledge the presence of another person who is entitled to a share in the inheritance or who excludes any of them, and the other heirs deny the same or are incompetent and evidence is established to this effect, the acknowledged person shall be entitled to his share of the inheritance.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27358,
+    "source_ar": "إذا لم تقم البينة؛ شارك المقـَرُّ له المقِرَّ في استحقاقه من الميراث إن كان وارثاً.",
+    "target_en": "2. If evidence is not provided to establish the entitlement of another person to the inheritance, the heir who acknowledges such entitlement shall share his share in the inheritance with such person.",
+    "source_ar_norm": "اذا لم تقم البينة؛ شارك المقر له المقر في استحقاقه من الميراث ان كان وارثا.",
+    "target_en_norm": "2. if evidence is not provided to establish the entitlement of another person to the inheritance, the heir who acknowledges such entitlement shall share his share in the inheritance with such person.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27359,
+    "source_ar": "المادة الثانية والأربعون بعد المائتين",
+    "target_en": "Article 242",
+    "source_ar_norm": "المادة الثانية والاربعون بعد المائتين",
+    "target_en_norm": "article 242",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27360,
+    "source_ar": "يرث من لم ينسب لأبيه وعلمت أمه، ومنفي النسب، من أمه وقرابتها، وترثه أمه وقرابتها.",
+    "target_en": "A child whose paternity is not established and whose mother is known as well as a disavowed child shall inherit from and be inherited by his mother and her relatives.",
+    "source_ar_norm": "يرث من لم ينسب لابيه وعلمت امه، ومنفي النسب، من امه وقرابتها، وترثه امه وقرابتها.",
+    "target_en_norm": "a child whose paternity is not established and whose mother is known as well as a disavowed child shall inherit from and be inherited by his mother and her relatives.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27361,
+    "source_ar": "(الفصل السادس) التخارج في التركة",
+    "target_en": "Chapter 6: Withdrawal from Estate",
+    "source_ar_norm": "(الفصل السادس) التخارج في التركة",
+    "target_en_norm": "chapter 6: withdrawal from estate",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27362,
+    "source_ar": "المادة الثالثة والأربعون بعد المائتين",
+    "target_en": "Article 243",
+    "source_ar_norm": "المادة الثالثة والاربعون بعد المائتين",
+    "target_en_norm": "article 243",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27363,
+    "source_ar": "التخارج هو الاتفاق على ترك بعض الورثة أو الموصى له نصيبه من التركة أو بعضه في مقابل شيء معلوم منها أو من غيرها.",
+    "target_en": "1. Withdrawal is an agreement whereby an heir or a legatee relinquishes all or part of his share in the estate in return for a specific consideration, whether from the estate or otherwise.",
+    "source_ar_norm": "التخارج هو الاتفاق علي ترك بعض الورثة او الموصي له نصيبه من التركة او بعضه في مقابل شيء معلوم منها او من غيرها.",
+    "target_en_norm": "1. withdrawal is an agreement whereby an heir or a legatee relinquishes all or part of his share in the estate in return for a specific consideration, whether from the estate or otherwise.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27364,
+    "source_ar": "يجب أن يوثّق التخارج أمام الجهة المختصة، وفقاً للإجراءات المنظمة لذلك.",
+    "target_en": "2. A withdrawal agreement must be certified before the competent authority in accordance with applicable procedures.",
+    "source_ar_norm": "يجب ان يوثق التخارج امام الجهة المختصة، وفقا للاجراءات المنظمة لذلك.",
+    "target_en_norm": "2. a withdrawal agreement must be certified before the competent authority in accordance with applicable procedures.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27365,
+    "source_ar": "المادة الرابعة والأربعون بعد المائتين",
+    "target_en": "Article 244",
+    "source_ar_norm": "المادة الرابعة والاربعون بعد المائتين",
+    "target_en_norm": "article 244",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27366,
+    "source_ar": "يجوز للورثة التخارج -مع بعضهم أو مع الموصى له- إذا كانت التركة معلومة لجميع المتخارجين أو مجهولة وتعذر العلم بها في مدة قريبة عادة، وتحدد المحكمة هذه المدة بحسب طبيعة المال محل التخارج ومكانه ومقداره.",
+    "target_en": "1. Heirs may agree on a withdrawal, whether with one another or with a legatee, if the estate is known to all withdrawing heirs, or if it is unknown and it cannot be identified in a usually short period of time. The court shall determine said period according to the nature, place, and value of the estate subject of the withdrawal agreement.",
+    "source_ar_norm": "يجوز للورثة التخارج -مع بعضهم او مع الموصي له- اذا كانت التركة معلومة لجميع المتخارجين او مجهولة وتعذر العلم بها في مدة قريبة عادة، وتحدد المحكمة هذه المدة بحسب طبيعة المال محل التخارج ومكانه ومقداره.",
+    "target_en_norm": "1. heirs may agree on a withdrawal, whether with one another or with a legatee, if the estate is known to all withdrawing heirs, or if it is unknown and it cannot be identified in a usually short period of time. the court shall determine said period according to the nature, place, and value of the estate subject of the withdrawal agreement.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27367,
+    "source_ar": "إذا كانت جهالة التركة يمكن العلم بها في مدة قريبة عادة، وتم التخارج قبل علم المتخارجين بالتركة؛ جاز لمن جهل منهم الحال طلب إبطال التخارج.",
+    "target_en": "2. If an unknown estate can usually be identified in a short period of time, and the withdrawal is made before the estate becomes known to the withdrawing heirs, the parties who have no knowledge that the estate can be identified in a short period may seek to invalidate the withdrawal.",
+    "source_ar_norm": "اذا كانت جهالة التركة يمكن العلم بها في مدة قريبة عادة، وتم التخارج قبل علم المتخارجين بالتركة؛ جاز لمن جهل منهم الحال طلب ابطال التخارج.",
+    "target_en_norm": "2. if an unknown estate can usually be identified in a short period of time, and the withdrawal is made before the estate becomes known to the withdrawing heirs, the parties who have no knowledge that the estate can be identified in a short period may seek to invalidate the withdrawal.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27368,
+    "source_ar": "المادة الخامسة والأربعون بعد المائتين",
+    "target_en": "Article 245",
+    "source_ar_norm": "المادة الخامسة والاربعون بعد المائتين",
+    "target_en_norm": "article 245",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27369,
+    "source_ar": "إذا تخارج أحد الورثة مع آخر منهم استحق نصيبه وحل محله في التركة.",
+    "target_en": "1. If an heir enters into a withdrawal agreement with another heir, he shall be entitled to the share of the withdrawing heir and shall replace him in the estate.",
+    "source_ar_norm": "اذا تخارج احد الورثة مع اخر منهم استحق نصيبه وحل محله في التركة.",
+    "target_en_norm": "1. if an heir enters into a withdrawal agreement with another heir, he shall be entitled to the share of the withdrawing heir and shall replace him in the estate.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27370,
+    "source_ar": "إذا تخارج أحد الورثة مع باقيهم مقابل عوض يأخذه من التركة، قسم نصيب المتخارج على باقي الورثة بقدر سهامهم في التركة.",
+    "target_en": "2. If an heir enters into a withdrawal agreement with other heirs in return for a consideration from the estate, the share of the withdrawing heir shall be distributed among the heirs according to their respective shares in the estate.",
+    "source_ar_norm": "اذا تخارج احد الورثة مع باقيهم مقابل عوض ياخذه من التركة، قسم نصيب المتخارج علي باقي الورثة بقدر سهامهم في التركة.",
+    "target_en_norm": "2. if an heir enters into a withdrawal agreement with other heirs in return for a consideration from the estate, the share of the withdrawing heir shall be distributed among the heirs according to their respective shares in the estate.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27371,
+    "source_ar": "إذا تخارج أحد الورثة مع باقيهم مقابل عوض معلوم من غير التركة، قسم نصيب المتخارج على باقي الورثة بقدر نسبة ما دفعه كل واحد منهم، ما لم يتفقوا على خلاف هذا.",
+    "target_en": "3. If an heir enters into a withdrawal agreement with other heirs in return for a specific consideration from other than the estate, the share of the withdrawing heir shall be distributed among the heirs in proportion to the amount each heir paid for such consideration, unless they agree otherwise.",
+    "source_ar_norm": "اذا تخارج احد الورثة مع باقيهم مقابل عوض معلوم من غير التركة، قسم نصيب المتخارج علي باقي الورثة بقدر نسبة ما دفعه كل واحد منهم، ما لم يتفقوا علي خلاف هذا.",
+    "target_en_norm": "3. if an heir enters into a withdrawal agreement with other heirs in return for a specific consideration from other than the estate, the share of the withdrawing heir shall be distributed among the heirs in proportion to the amount each heir paid for such consideration, unless they agree otherwise.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27372,
+    "source_ar": "وإذا لم يعرف ما بذله كل واحد من الورثة ولم ينص على طريقة قسمة نصيب المتخارج في عقد التخارج، فيقسم نصيبه على باقي الورثة بقدر سهامهم في التركة.",
+    "target_en": "If the consideration paid by each heir is unknown and the manner of distributing the share of the withdrawing heir is not provided for in the withdrawal agreement, his share shall be distributed among the heirs according to their respective shares in the estate.",
+    "source_ar_norm": "واذا لم يعرف ما بذله كل واحد من الورثة ولم ينص علي طريقة قسمة نصيب المتخارج في عقد التخارج، فيقسم نصيبه علي باقي الورثة بقدر سهامهم في التركة.",
+    "target_en_norm": "if the consideration paid by each heir is unknown and the manner of distributing the share of the withdrawing heir is not provided for in the withdrawal agreement, his share shall be distributed among the heirs according to their respective shares in the estate.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27373,
+    "source_ar": "(الباب الثامن) أحكام ختامية",
+    "target_en": "Part 8: Concluding Provisions",
+    "source_ar_norm": "(الباب الثامن) احكام ختامية",
+    "target_en_norm": "part 8: concluding provisions",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27374,
+    "source_ar": "المادة السادسة والأربعون بعد المائتين",
+    "target_en": "Article 246",
+    "source_ar_norm": "المادة السادسة والاربعون بعد المائتين",
+    "target_en_norm": "article 246",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27375,
+    "source_ar": "يلتزم المعنيون بإنفاذ أحكام هذا النظام بالمحافظة على سرية المعلومات التي اطلعوا عليها بحكم عملهم، وذلك بما يحفظ حرمة الأسرة وأسرارها.",
+    "target_en": "Persons in charge of enforcing the provisions of this Law shall maintain the confidentiality of information they become privy to in the course of carrying out their duties in order to protect family privacy.",
+    "source_ar_norm": "يلتزم المعنيون بانفاذ احكام هذا النظام بالمحافظة علي سرية المعلومات التي اطلعوا عليها بحكم عملهم، وذلك بما يحفظ حرمة الاسرة واسرارها.",
+    "target_en_norm": "persons in charge of enforcing the provisions of this law shall maintain the confidentiality of information they become privy to in the course of carrying out their duties in order to protect family privacy.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27376,
+    "source_ar": "المادة السابعة والأربعون بعد المائتين",
+    "target_en": "Article 247",
+    "source_ar_norm": "المادة السابعة والاربعون بعد المائتين",
+    "target_en_norm": "article 247",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27377,
+    "source_ar": "يعتمد الحساب الهجري في المدد الواردة في هذا النظام.",
+    "target_en": "The Hijri calendar shall be used in calculating the time periods stipulated in this Law.",
+    "source_ar_norm": "يعتمد الحساب الهجري في المدد الواردة في هذا النظام.",
+    "target_en_norm": "the hijri calendar shall be used in calculating the time periods stipulated in this law.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27378,
+    "source_ar": "المادة الثامنة والأربعون بعد المائتين",
+    "target_en": "Article 248",
+    "source_ar_norm": "المادة الثامنة والاربعون بعد المائتين",
+    "target_en_norm": "article 248",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27379,
+    "source_ar": "تسري أحكام هذا النظام على جميع الدعاوى التي لم يصدر في شأنها أحكام نهائية قبل نفاذه.",
+    "target_en": "The provisions of this Law shall apply to all lawsuits in which no final judgments are rendered prior to this Law’s entry into force.",
+    "source_ar_norm": "تسري احكام هذا النظام علي جميع الدعاوي التي لم يصدر في شانها احكام نهائية قبل نفاذه.",
+    "target_en_norm": "the provisions of this law shall apply to all lawsuits in which no final judgments are rendered prior to this law’s entry into force.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27380,
+    "source_ar": "المادة التاسعة والأربعون بعد المائتين",
+    "target_en": "Article 249",
+    "source_ar_norm": "المادة التاسعة والاربعون بعد المائتين",
+    "target_en_norm": "article 249",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27381,
+    "source_ar": "تعد كافة الأحكام والقرارات الصادرة قبل نفاذ هذا النظام صحيحة؛ وفقاً للأحكام المعمول بها قبل نفاذه.",
+    "target_en": "All judgments and decisions duly issued prior to this Law’s entry into force shall be deemed valid.",
+    "source_ar_norm": "تعد كافة الاحكام والقرارات الصادرة قبل نفاذ هذا النظام صحيحة؛ وفقا للاحكام المعمول بها قبل نفاذه.",
+    "target_en_norm": "all judgments and decisions duly issued prior to this law’s entry into force shall be deemed valid.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27382,
+    "source_ar": "المادة الخمسون بعد المائتين",
+    "target_en": "Article 250",
+    "source_ar_norm": "المادة الخمسون بعد المائتين",
+    "target_en_norm": "article 250",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27383,
+    "source_ar": "يعد وزير العدل اللوائح اللازمة لهذا النظام، وتصدر بأمر من رئيس مجلس الوزراء.",
+    "target_en": "The Minister of Justice shall prepare the necessary regulations for this Law; said regulations shall be issued pursuant to an order by the President of the Council of Ministers.",
+    "source_ar_norm": "يعد وزير العدل اللوائح اللازمة لهذا النظام، وتصدر بامر من رئيس مجلس الوزراء.",
+    "target_en_norm": "the minister of justice shall prepare the necessary regulations for this law; said regulations shall be issued pursuant to an order by the president of the council of ministers.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27384,
+    "source_ar": "المادة الحادية والخمسون بعد المائتين",
+    "target_en": "Article 251",
+    "source_ar_norm": "المادة الحادية والخمسون بعد المائتين",
+    "target_en_norm": "article 251",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27385,
+    "source_ar": "فيما لم يرد فيه نص في هذا النظام، تطبق أحكام الشريعة الإسلامية الأكثر ملاءمة لترجيحات هذا النظام.",
+    "target_en": "Absent a specific provision in this Law, the provisions of Sharia that are most consistent with this Law shall apply.",
+    "source_ar_norm": "فيما لم يرد فيه نص في هذا النظام، تطبق احكام الشريعة الاسلامية الاكثر ملاءمة لترجيحات هذا النظام.",
+    "target_en_norm": "absent a specific provision in this law, the provisions of sharia that are most consistent with this law shall apply.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27386,
+    "source_ar": "المادة الثانية والخمسون بعد المائتين",
+    "target_en": "Article 252",
+    "source_ar_norm": "المادة الثانية والخمسون بعد المائتين",
+    "target_en_norm": "article 252",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27387,
+    "source_ar": "يعمل بهذا النظام بعد مضي (تسعين) يوماً من تاريخ نشره، ويلغي كل ما يتعارض معه من أحكام.",
+    "target_en": "This Law shall enter into force 90 days from the date of its publication and it shall repeal any provisions conflicting therewith.",
+    "source_ar_norm": "يعمل بهذا النظام بعد مضي (تسعين) يوما من تاريخ نشره، ويلغي كل ما يتعارض معه من احكام.",
+    "target_en_norm": "this law shall enter into force 90 days from the date of its publication and it shall repeal any provisions conflicting therewith.",
+    "file_name": "نظام الأحوال الشخصية.docx"
+  },
+  {
+    "id": 27388,
+    "source_ar": "نظام الأرصاد",
+    "target_en": "Meteorology Law",
+    "source_ar_norm": "نظام الارصاد",
+    "target_en_norm": "meteorology law",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27389,
+    "source_ar": "المادة الأولى",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي",
+    "target_en_norm": "article 1",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27390,
+    "source_ar": "لأغراض تطبيق هذا النظام، يقصد بالألفاظ والعبارات الآتية -أينما وردت فيه- المعاني المبينة أمام كل منها، ما لم يقتضِ السياق غير ذلك:",
+    "target_en": "In this Law, the following words and phrases shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "source_ar_norm": "لاغراض تطبيق هذا النظام، يقصد بالالفاظ والعبارات الاتية -اينما وردت فيه- المعاني المبينة امام كل منها، ما لم يقتض السياق غير ذلك:",
+    "target_en_norm": "in this law, the following words and phrases shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27391,
+    "source_ar": "النظام: نظام الأرصاد.",
+    "target_en": "Law: Meteorology Law.",
+    "source_ar_norm": "النظام: نظام الارصاد.",
+    "target_en_norm": "law: meteorology law.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27392,
+    "source_ar": "اللوائح: لوائح النظام.",
+    "target_en": "Regulations: Regulations of this Law.",
+    "source_ar_norm": "اللوائح: لوائح النظام.",
+    "target_en_norm": "regulations: regulations of this law.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27393,
+    "source_ar": "المركز: المركز الوطني للأرصاد.",
+    "target_en": "NCM: National Center for Meteorology.",
+    "source_ar_norm": "المركز: المركز الوطني للارصاد.",
+    "target_en_norm": "ncm: national center for meteorology.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27394,
+    "source_ar": "الوزير: وزير البيئة والمياه والزراعة رئيس مجلس إدارة المركز.",
+    "target_en": "Minister: Minister of Environment, Water, and Agriculture and Chairman of the Board of Directors of the NCM.",
+    "source_ar_norm": "الوزير: وزير البيئة والمياه والزراعة رئيس مجلس ادارة المركز.",
+    "target_en_norm": "minister: minister of environment, water, and agriculture and chairman of the board of directors of the ncm.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27395,
+    "source_ar": "الشخص: أي شخص ذي صفة طبيعية أو اعتبارية.",
+    "target_en": "Person: Any natural or legal person.",
+    "source_ar_norm": "الشخص: اي شخص ذي صفة طبيعية او اعتبارية.",
+    "target_en_norm": "person: any natural or legal person.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27396,
+    "source_ar": "الطقس: حالة الجو في موقع معين لمدة زمنية قصيرة.",
+    "target_en": "Weather: The state of the atmosphere in a particular location over a short period of time.",
+    "source_ar_norm": "الطقس: حالة الجو في موقع معين لمدة زمنية قصيرة.",
+    "target_en_norm": "weather: the state of the atmosphere in a particular location over a short period of time.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27397,
+    "source_ar": "المناخ: حالة الجو في موقع معين لمدة زمنية طويلة.",
+    "target_en": "Climate: The state of the atmosphere in a particular location over a long period of time.",
+    "source_ar_norm": "المناخ: حالة الجو في موقع معين لمدة زمنية طويلة.",
+    "target_en_norm": "climate: the state of the atmosphere in a particular location over a long period of time.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27398,
+    "source_ar": "الأرصاد الجوية: عملية الرصد أو المراقبة أو التنبؤ بحالة الطقس والمناخ والظواهر الجوية والبحرية المؤثرة في حالة الغلاف الجوي.",
+    "target_en": "Meteorology: The process of observing, monitoring, or forecasting the weather and climate as well as weather and marine phenomena that affect the state of the atmosphere.",
+    "source_ar_norm": "الارصاد الجوية: عملية الرصد او المراقبة او التنبؤ بحالة الطقس والمناخ والظواهر الجوية والبحرية المؤثرة في حالة الغلاف الجوي.",
+    "target_en_norm": "meteorology: the process of observing, monitoring, or forecasting the weather and climate as well as weather and marine phenomena that affect the state of the atmosphere.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27399,
+    "source_ar": "معلومات الأرصاد الجوية: تقارير وتحاليل وتنبؤات الأرصاد الجوية وأي بيانات أخرى تتعلق بالأحوال الجوية السائدة أو المتوقعة.",
+    "target_en": "Meteorological Information: Meteorological reports, analyses, forecasts, and any data related to prevailing or expected weather conditions.",
+    "source_ar_norm": "معلومات الارصاد الجوية: تقارير وتحاليل وتنبؤات الارصاد الجوية واي بيانات اخري تتعلق بالاحوال الجوية السائدة او المتوقعة.",
+    "target_en_norm": "meteorological information: meteorological reports, analyses, forecasts, and any data related to prevailing or expected weather conditions.",
+    "file_name": "نظام الأرصاد.docx"
+  },
+  {
+    "id": 27400,
+    "source_ar": "خدمات الأرصاد الجوية: أنشطة ونواتج ومعلومات عن الأرصاد الجوية.",
+    "target_en": "Meteorological Services: Meteorological activities, outcomes, and information.",
+    "source_ar_norm": "خدمات الارصاد الجوية: انشطة ونواتج ومعلومات عن الارصاد الجوية.",
+    "target_en_norm": "meteorological services: meteorological activities, outcomes, and information.",
+    "file_name": "نظام الأرصاد.docx"
+  }
+]

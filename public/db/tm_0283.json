@@ -1,0 +1,802 @@
+[
+  {
+    "id": 28201,
+    "source_ar": "ب - تعهد غير معلق على شرط بوفاء مبلغ معين من النقود.",
+    "target_en": "b) an unconditional promise to pay a fixed amount of money;",
+    "source_ar_norm": "ب - تعهد غير معلق علي شرط بوفاء مبلغ معين من النقود.",
+    "target_en_norm": "b) an unconditional promise to pay a fixed amount of money;",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28202,
+    "source_ar": "جـ - ميعاد الاستحقاق.",
+    "target_en": "c) maturity date;",
+    "source_ar_norm": "ج - ميعاد الاستحقاق.",
+    "target_en_norm": "c) maturity date;",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28203,
+    "source_ar": "د - مكان الوفاء.",
+    "target_en": "d) place of payment;",
+    "source_ar_norm": "د - مكان الوفاء.",
+    "target_en_norm": "d) place of payment;",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28204,
+    "source_ar": "هـ - اسم من يجب الوفاء له أو لأمره.",
+    "target_en": "e) name of the payee, whether the note is payable to bearer or to order;",
+    "source_ar_norm": "ه - اسم من يجب الوفاء له او لامره.",
+    "target_en_norm": "e) name of the payee, whether the note is payable to bearer or to order;",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28205,
+    "source_ar": "و - تاريخ إنشاء السند ومكان إنشائه.",
+    "target_en": "f) date and place of making the promissory note; and",
+    "source_ar_norm": "و - تاريخ انشاء السند ومكان انشائه.",
+    "target_en_norm": "f) date and place of making the promissory note; and",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28206,
+    "source_ar": "ز - توقيع من أنشأ السند (المحرر).",
+    "target_en": "g) signature of the person who made the note (maker).",
+    "source_ar_norm": "ز - توقيع من انشا السند (المحرر).",
+    "target_en_norm": "g) signature of the person who made the note (maker).",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28207,
+    "source_ar": "المادة (88):",
+    "target_en": "Article 88",
+    "source_ar_norm": "المادة (88):",
+    "target_en_norm": "article 88",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28208,
+    "source_ar": "السند الخالي من أحد البيانات المذكورة في المادة السابقة لا يعتبر سند لأمر إلا في الأحوال الآتية:",
+    "target_en": "A note that does not include any of the particulars stated in Article 87 shall not be deemed a promissory note except in the following cases:",
+    "source_ar_norm": "السند الخالي من احد البيانات المذكورة في المادة السابقة لا يعتبر سند لامر الا في الاحوال الاتية:",
+    "target_en_norm": "a note that does not include any of the particulars stated in article 87 shall not be deemed a promissory note except in the following cases:",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28209,
+    "source_ar": "أ - إذا خلا السند من ميعاد الاستحقاق اعتبر واجب الوفاء لدى الاطلاع عليه.",
+    "target_en": "a) If a note does not include a maturity date, it shall be deemed payable at sight.",
+    "source_ar_norm": "ا - اذا خلا السند من ميعاد الاستحقاق اعتبر واجب الوفاء لدي الاطلاع عليه.",
+    "target_en_norm": "a) if a note does not include a maturity date, it shall be deemed payable at sight.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28210,
+    "source_ar": "ب - إذا خلا من بيان مكان الوفاء أو موطن المحرر اعتبر مكان إنشاء السند مكانا للوفاء ومكانا للمحرر.",
+    "target_en": "b) If a note does not include a place of payment or the maker's domicile, the place where the note is made shall be deemed the place of payment and the maker's domicile.",
+    "source_ar_norm": "ب - اذا خلا من بيان مكان الوفاء او موطن المحرر اعتبر مكان انشاء السند مكانا للوفاء ومكانا للمحرر.",
+    "target_en_norm": "b) if a note does not include a place of payment or the maker's domicile, the place where the note is made shall be deemed the place of payment and the maker's domicile.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28211,
+    "source_ar": "جـ - إذا خلا من بيان مكان الإنشاء اعتبر منشأ في المكان المبين بجانب اسم المحرر.",
+    "target_en": "c) If a note does not include the place where the note is made, it shall be deemed to have been made at the place indicated next to the maker’s name.",
+    "source_ar_norm": "ج - اذا خلا من بيان مكان الانشاء اعتبر منشا في المكان المبين بجانب اسم المحرر.",
+    "target_en_norm": "c) if a note does not include the place where the note is made, it shall be deemed to have been made at the place indicated next to the maker’s name.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28212,
+    "source_ar": "المادة (89):",
+    "target_en": "Article 89",
+    "source_ar_norm": "المادة (89):",
+    "target_en_norm": "article 89",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28213,
+    "source_ar": "تسري أحكام الكمبيالة الآتية على السند لأمر بالمقدار الذي لا تتعارض مع ماهيته:",
+    "target_en": "The following provisions applicable to a bill of exchange shall apply to a promissory note to the extent they are consistent with its nature:",
+    "source_ar_norm": "تسري احكام الكمبيالة الاتية علي السند لامر بالمقدار الذي لا تتعارض مع ماهيته:",
+    "target_en_norm": "the following provisions applicable to a bill of exchange shall apply to a promissory note to the extent they are consistent with its nature:",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28214,
+    "source_ar": "أ - الأحكام المتعلقة بالكمبيالة المستحقة الوفاء في موطن أحد الأخيار أو في مكان غير الذي يوجد به موطن المسحوب عليه والاختلاف في البيانات الخاصة بالمبلغ الواجب دفعه وبطلان شرط الفائدة وأهلية الالتزام والنتائج المترتبة على التوقيع ممن ليست لهم أهلية الالتزام أو التوقيعات غير الملزمة أو توقيع شخص غير مفوض أو جاوز حدود التفويض.",
+    "target_en": "a) The provisions relating to a bill of exchange payable at the domicile of a third party or at a place other than the place where the drawee's domicile is located; discrepancies in the particulars of the amount payable; nullity of the interest stipulation; competency; effects which arise from an incompetent person's signature, a nonbinding signature, or the signature of an unauthorized person or a person who exceeds the limits of his authorization.",
+    "source_ar_norm": "ا - الاحكام المتعلقة بالكمبيالة المستحقة الوفاء في موطن احد الاخيار او في مكان غير الذي يوجد به موطن المسحوب عليه والاختلاف في البيانات الخاصة بالمبلغ الواجب دفعه وبطلان شرط الفائدة واهلية الالتزام والنتائج المترتبة علي التوقيع ممن ليست لهم اهلية الالتزام او التوقيعات غير الملزمة او توقيع شخص غير مفوض او جاوز حدود التفويض.",
+    "target_en_norm": "a) the provisions relating to a bill of exchange payable at the domicile of a third party or at a place other than the place where the drawee's domicile is located; discrepancies in the particulars of the amount payable; nullity of the interest stipulation; competency; effects which arise from an incompetent person's signature, a nonbinding signature, or the signature of an unauthorized person or a person who exceeds the limits of his authorization.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28215,
+    "source_ar": "ب - الأحكام المتعلقة بتظهير الكمبيالة وبضمانها احتياطيا مع مراعاة أنه إذا لم يذكر في صيغة الضمان اسم المضمون اعتبر الضمان حاصلا لمصلحة محرر السند.",
+    "target_en": "b) The provisions relating to indorsement and the reserve guarantee of a bill of exchange; if the name of the guaranteed person is not stated in the statement of guarantee, the guarantee shall be deemed made in favor of the maker of the note.",
+    "source_ar_norm": "ب - الاحكام المتعلقة بتظهير الكمبيالة وبضمانها احتياطيا مع مراعاة انه اذا لم يذكر في صيغة الضمان اسم المضمون اعتبر الضمان حاصلا لمصلحة محرر السند.",
+    "target_en_norm": "b) the provisions relating to indorsement and the reserve guarantee of a bill of exchange; if the name of the guaranteed person is not stated in the statement of guarantee, the guarantee shall be deemed made in favor of the maker of the note.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28216,
+    "source_ar": "جـ - الأحكام المتعلقة باستحقاق الكمبيالة ووفائها والمعارضة في الوفاء والاحتجاج والرجوع بسبب عدم الوفاء وعدم جواز منح مهل للوفاء وحساب المواعيد وأيام العمل، وكمبيالة الرجوع والحجز التحفظي.",
+    "target_en": "c) The provisions governing a bill of exchange which relate to maturity, payment, objection to payment, protest, recourse due to non-payment, refusal to grant grace periods for payment, determination of periods and business days, recourse bill of exchange, and provisional seizure.",
+    "source_ar_norm": "ج - الاحكام المتعلقة باستحقاق الكمبيالة ووفائها والمعارضة في الوفاء والاحتجاج والرجوع بسبب عدم الوفاء وعدم جواز منح مهل للوفاء وحساب المواعيد وايام العمل، وكمبيالة الرجوع والحجز التحفظي.",
+    "target_en_norm": "c) the provisions governing a bill of exchange which relate to maturity, payment, objection to payment, protest, recourse due to non-payment, refusal to grant grace periods for payment, determination of periods and business days, recourse bill of exchange, and provisional seizure.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28217,
+    "source_ar": "د - الأحكام المتعلقة بالوفاء بالتدخل وتعدد النسخ والصور والتحريف، وآثار إهمال الحامل وعدم سماع الدعوى.",
+    "target_en": "d) The provisions relating to payment by intervention, multiplicity of copies and alteration, the effects of a holder’s negligence, and claim dismissal.",
+    "source_ar_norm": "د - الاحكام المتعلقة بالوفاء بالتدخل وتعدد النسخ والصور والتحريف، واثار اهمال الحامل وعدم سماع الدعوي.",
+    "target_en_norm": "d) the provisions relating to payment by intervention, multiplicity of copies and alteration, the effects of a holder’s negligence, and claim dismissal.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28218,
+    "source_ar": "المادة (90):",
+    "target_en": "Article 90",
+    "source_ar_norm": "المادة (90):",
+    "target_en_norm": "article 90",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28219,
+    "source_ar": "يلتزم محرر السند لأمر على الوجه الذي يلتزم به قابل الكمبيالة، ويجب تقديم السند لأمر المستحق الوفاء بعد مدة معينة من الاطلاع إلى المحرر في الميعاد المنصوص عليه في المادة 22 للتأشير عليه بما يفيد الاطلاع على السند، ويجب أن يكون هذا التأشير مؤرخا وموقعا من المحرر.",
+    "target_en": "The maker of a promissory note shall be as liable as the acceptor of a bill of exchange. Presentment of a promissory note payable upon the lapse of a fixed period after sight shall be made to the maker within the period provided for in Article 22 in order for him to enter a note thereon indicating that it has been sighted; such note shall be dated and signed by the maker.",
+    "source_ar_norm": "يلتزم محرر السند لامر علي الوجه الذي يلتزم به قابل الكمبيالة، ويجب تقديم السند لامر المستحق الوفاء بعد مدة معينة من الاطلاع الي المحرر في الميعاد المنصوص عليه في المادة 22 للتاشير عليه بما يفيد الاطلاع علي السند، ويجب ان يكون هذا التاشير مؤرخا وموقعا من المحرر.",
+    "target_en_norm": "the maker of a promissory note shall be as liable as the acceptor of a bill of exchange. presentment of a promissory note payable upon the lapse of a fixed period after sight shall be made to the maker within the period provided for in article 22 in order for him to enter a note thereon indicating that it has been sighted; such note shall be dated and signed by the maker.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28220,
+    "source_ar": "وتبدأ مدة الاطلاع من تاريخ التأشير المذكور. وإذا امتنع المحرر عن وضع التأشير وجب إثبات امتناعه بورقة احتجاج، ويعتبر تاريخ الاحتجاج بداية لسريان مدة الاطلاع.",
+    "target_en": "The period of sight shall commence from the date of such entry. If the maker refuses to make such entry, his refusal shall be established by a protest and the date thereof shall be deemed the commencement date of the period of sight.",
+    "source_ar_norm": "وتبدا مدة الاطلاع من تاريخ التاشير المذكور. واذا امتنع المحرر عن وضع التاشير وجب اثبات امتناعه بورقة احتجاج، ويعتبر تاريخ الاحتجاج بداية لسريان مدة الاطلاع.",
+    "target_en_norm": "the period of sight shall commence from the date of such entry. if the maker refuses to make such entry, his refusal shall be established by a protest and the date thereof shall be deemed the commencement date of the period of sight.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28221,
+    "source_ar": "الباب الثالث: الشيك. الفصل الأول: إنشاء الشيك",
+    "target_en": "Part 3: Checks Chapter 1: Check Issuance",
+    "source_ar_norm": "الباب الثالث: الشيك. الفصل الاول: انشاء الشيك",
+    "target_en_norm": "part 3: checks chapter 1: check issuance",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28222,
+    "source_ar": "المادة (91):",
+    "target_en": "Article 91",
+    "source_ar_norm": "المادة (91):",
+    "target_en_norm": "article 91",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28223,
+    "source_ar": "يشتمل الشيك على البيانات الآتية:",
+    "target_en": "A check shall include:",
+    "source_ar_norm": "يشتمل الشيك علي البيانات الاتية:",
+    "target_en_norm": "a check shall include:",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28224,
+    "source_ar": "أ - كلمة (شيك) مكتوبة في متن الصك باللغة التي كتب بها.",
+    "target_en": "a) the word “check” written in the body of the instrument and in the language in which it is issued;",
+    "source_ar_norm": "ا - كلمة (شيك) مكتوبة في متن الصك باللغة التي كتب بها.",
+    "target_en_norm": "a) the word “check” written in the body of the instrument and in the language in which it is issued;",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28225,
+    "source_ar": "ب - أمر غير معلق على شرط بوفاء مبلغ معين من النقود.",
+    "target_en": "b) an unconditional order to pay a fixed amount of money;",
+    "source_ar_norm": "ب - امر غير معلق علي شرط بوفاء مبلغ معين من النقود.",
+    "target_en_norm": "b) an unconditional order to pay a fixed amount of money;",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28226,
+    "source_ar": "جـ - اسم من يلزمه الوفاء (المسحوب عليه).",
+    "target_en": "c) name of the obligor (drawee);",
+    "source_ar_norm": "ج - اسم من يلزمه الوفاء (المسحوب عليه).",
+    "target_en_norm": "c) name of the obligor (drawee);",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28227,
+    "source_ar": "د - مكان الوفاء.",
+    "target_en": "d) place of payment;",
+    "source_ar_norm": "د - مكان الوفاء.",
+    "target_en_norm": "d) place of payment;",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28228,
+    "source_ar": "هـ - تاريخ ومكان إنشاء الشيك.",
+    "target_en": "e) date and place of issuance; and",
+    "source_ar_norm": "ه - تاريخ ومكان انشاء الشيك.",
+    "target_en_norm": "e) date and place of issuance; and",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28229,
+    "source_ar": "و - توقيع من أنشأ الشيك (الساحب).",
+    "target_en": "f) signature of the issuer (drawer).",
+    "source_ar_norm": "و - توقيع من انشا الشيك (الساحب).",
+    "target_en_norm": "f) signature of the issuer (drawer).",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28230,
+    "source_ar": "المادة (92):",
+    "target_en": "Article 92",
+    "source_ar_norm": "المادة (92):",
+    "target_en_norm": "article 92",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28231,
+    "source_ar": "الصك الخالي من أحد البيانات المذكورة في المادة السابقة لا يعتبر شيكا إلا في الحالتين الآتيتين:",
+    "target_en": "An instrument that does not include the particulars stated in Article 91 shall not be deemed a check, except in the following cases:",
+    "source_ar_norm": "الصك الخالي من احد البيانات المذكورة في المادة السابقة لا يعتبر شيكا الا في الحالتين الاتيتين:",
+    "target_en_norm": "an instrument that does not include the particulars stated in article 91 shall not be deemed a check, except in the following cases:",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28232,
+    "source_ar": "أ - إذا خلا الشيك من بيان مكان وفائه اعتبر مستحق الوفاء في المكان المبين بجانب اسم المسحوب عليه، فإذا تعددت الأماكن المبينة بجانب اسم المسحوب عليه اعتبر الشيك مستحق الوفاء في أول مكان منها، وإذا خلا الشيك من هذه البيانات أو من أي بيان آخر اعتبر مستحق الوفاء في المكان الذي يقع فيه المحل الرئيسي للمسحوب عليه.",
+    "target_en": "a. If a check does not include a place of payment, the check shall be payable at the place indicated next to the drawee’s name. If several places are indicated next to the drawee’s name, the check shall be payable at the first indicated place. If such places or any other place are not indicated on the check, it shall be payable at the drawee's principal domicile.",
+    "source_ar_norm": "ا - اذا خلا الشيك من بيان مكان وفائه اعتبر مستحق الوفاء في المكان المبين بجانب اسم المسحوب عليه، فاذا تعددت الاماكن المبينة بجانب اسم المسحوب عليه اعتبر الشيك مستحق الوفاء في اول مكان منها، واذا خلا الشيك من هذه البيانات او من اي بيان اخر اعتبر مستحق الوفاء في المكان الذي يقع فيه المحل الرئيسي للمسحوب عليه.",
+    "target_en_norm": "a. if a check does not include a place of payment, the check shall be payable at the place indicated next to the drawee’s name. if several places are indicated next to the drawee’s name, the check shall be payable at the first indicated place. if such places or any other place are not indicated on the check, it shall be payable at the drawee's principal domicile.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28233,
+    "source_ar": "ب - إذا خلا الشيك من بيان مكان الإنشاء اعتبر منشأ في المكان المبين بجانب اسم الساحب.",
+    "target_en": "b. If the check's place of issuance is not indicated, it shall be deemed to have been issued at the place indicated next to the drawer’s name.",
+    "source_ar_norm": "ب - اذا خلا الشيك من بيان مكان الانشاء اعتبر منشا في المكان المبين بجانب اسم الساحب.",
+    "target_en_norm": "b. if the check's place of issuance is not indicated, it shall be deemed to have been issued at the place indicated next to the drawer’s name.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28234,
+    "source_ar": "المادة (93):",
+    "target_en": "Article 93",
+    "source_ar_norm": "المادة (93):",
+    "target_en_norm": "article 93",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28235,
+    "source_ar": "لا يجوز سحب الشيكات الصادرة في المملكة والمستحقة الوفاء فيها إلا على بنك، والصكوك المسحوبة في صورة شيكات على غير بنك لا تعتبر شيكات صحيحة.",
+    "target_en": "A check issued in the Kingdom and payable therein may only be drawn on a bank. Instruments issued in the form of checks which are drawn on other than a bank shall not be deemed valid checks.",
+    "source_ar_norm": "لا يجوز سحب الشيكات الصادرة في المملكة والمستحقة الوفاء فيها الا علي بنك، والصكوك المسحوبة في صورة شيكات علي غير بنك لا تعتبر شيكات صحيحة.",
+    "target_en_norm": "a check issued in the kingdom and payable therein may only be drawn on a bank. instruments issued in the form of checks which are drawn on other than a bank shall not be deemed valid checks.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28236,
+    "source_ar": "المادة (94):",
+    "target_en": "Article 94",
+    "source_ar_norm": "المادة (94):",
+    "target_en_norm": "article 94",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28237,
+    "source_ar": "لا يجوز إصدار شيك ما لم يكن للساحب لدى المسحوب عليه وقت إنشاء الشيك نقود يستطيع التصرف فيها بموجب شيك طبقا لاتفاق صريح أو ضمني.",
+    "target_en": "A check may not be issued unless the drawer, at the time of issuing the check, holds with the drawee funds they explicitly or implicitly agree to be disposed of by means of a check.",
+    "source_ar_norm": "لا يجوز اصدار شيك ما لم يكن للساحب لدي المسحوب عليه وقت انشاء الشيك نقود يستطيع التصرف فيها بموجب شيك طبقا لاتفاق صريح او ضمني.",
+    "target_en_norm": "a check may not be issued unless the drawer, at the time of issuing the check, holds with the drawee funds they explicitly or implicitly agree to be disposed of by means of a check.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28238,
+    "source_ar": "وعلى ساحب الشيك أو الآمر غيره بسحبه لحسابه أن يؤدى مقابل وفائه، ومع ذلك يظل الساحب لحساب غيره مسئولا شخصيا تجاه المظهرين والحامل دون غيرهم.",
+    "target_en": "A person who issues a check or orders another person to issue the same for his account shall provide funds for the payment thereof. However, the issuer of a check for the account of another person shall be liable only toward the indorsers and the holder.",
+    "source_ar_norm": "وعلي ساحب الشيك او الامر غيره بسحبه لحسابه ان يؤدي مقابل وفائه، ومع ذلك يظل الساحب لحساب غيره مسئولا شخصيا تجاه المظهرين والحامل دون غيرهم.",
+    "target_en_norm": "a person who issues a check or orders another person to issue the same for his account shall provide funds for the payment thereof. however, the issuer of a check for the account of another person shall be liable only toward the indorsers and the holder.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28239,
+    "source_ar": "وعلى الساحب دون غيره في حالة الإنكار أن يثبت أن من سحب عليه الشيك كان لديه مقابل وفائه وقت إنشائه، فإذا لم يثبت ذلك كان ضامنا وفاءه ولو عمل الاحتجاج بعد مواعيد معينة، ولا يترتب على عدم وجود مقابل الوفاء أو عدم كفايته بطلان الشيك.",
+    "target_en": "In the event of denial, only the issuer of the check shall establish that the drawee had sufficient funds to pay the check at the time of issuance; if he fails to do so, he shall guarantee the payment of the check even if a protest is made after the prescribed periods. Unavailability or insufficiency of funds for payment shall not render the check invalid.",
+    "source_ar_norm": "وعلي الساحب دون غيره في حالة الانكار ان يثبت ان من سحب عليه الشيك كان لديه مقابل وفائه وقت انشائه، فاذا لم يثبت ذلك كان ضامنا وفاءه ولو عمل الاحتجاج بعد مواعيد معينة، ولا يترتب علي عدم وجود مقابل الوفاء او عدم كفايته بطلان الشيك.",
+    "target_en_norm": "in the event of denial, only the issuer of the check shall establish that the drawee had sufficient funds to pay the check at the time of issuance; if he fails to do so, he shall guarantee the payment of the check even if a protest is made after the prescribed periods. unavailability or insufficiency of funds for payment shall not render the check invalid.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28240,
+    "source_ar": "المادة (95):",
+    "target_en": "Article 95",
+    "source_ar_norm": "المادة (95):",
+    "target_en_norm": "article 95",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28241,
+    "source_ar": "يجوز اشتراط وفاء الشيك إلى:",
+    "target_en": "A check may be made payable to:",
+    "source_ar_norm": "يجوز اشتراط وفاء الشيك الي:",
+    "target_en_norm": "a check may be made payable to:",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28242,
+    "source_ar": "أ - شخص معين مع النص صراحة على شرط الأمر أو بدونه.",
+    "target_en": "a) a specific person, whether or not it is explicitly stipulated “to the order of”;",
+    "source_ar_norm": "ا - شخص معين مع النص صراحة علي شرط الامر او بدونه.",
+    "target_en_norm": "a) a specific person, whether or not it is explicitly stipulated “to the order of”;",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28243,
+    "source_ar": "ب - شخص معين مع ذكر شرط (ليس لأمر) أو أية عبارة أخرى تفيد هذا المعنى.",
+    "target_en": "b) a specific person with the stipulation “not to the order” or any other statement to that effect; or",
+    "source_ar_norm": "ب - شخص معين مع ذكر شرط (ليس لامر) او اية عبارة اخري تفيد هذا المعني.",
+    "target_en_norm": "b) a specific person with the stipulation “not to the order” or any other statement to that effect; or",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28244,
+    "source_ar": "جـ - حامل الشيك.",
+    "target_en": "c) the holder of the check.",
+    "source_ar_norm": "ج - حامل الشيك.",
+    "target_en_norm": "c) the holder of the check.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28245,
+    "source_ar": "والشيك المسحوب لمصلحة شخص معين والمنصوص فيه على عبارة (أو لحامله) أو أية عبارة أخرى مماثلة يعتبر شيكا لحامله، فإذا لم يعين اسم المستفيد اعتبر الشيك لحامله. والشيك المشتمل على شرط (غير قابل للتداول) لا يدفع إلا لحامله الذي تسلمه مقترنا بهذا الشرط.",
+    "target_en": "A check shall be deemed issued to bearer if it is issued in favor of a specific person and includes the stipulation “or to bearer” or any other statement to that effect or if the name of the beneficiary is not indicated therein. If the stipulation \"non-negotiable\" is included on a check, it shall be payable only to the bearer who receives it thereafter.",
+    "source_ar_norm": "والشيك المسحوب لمصلحة شخص معين والمنصوص فيه علي عبارة (او لحامله) او اية عبارة اخري مماثلة يعتبر شيكا لحامله، فاذا لم يعين اسم المستفيد اعتبر الشيك لحامله. والشيك المشتمل علي شرط (غير قابل للتداول) لا يدفع الا لحامله الذي تسلمه مقترنا بهذا الشرط.",
+    "target_en_norm": "a check shall be deemed issued to bearer if it is issued in favor of a specific person and includes the stipulation “or to bearer” or any other statement to that effect or if the name of the beneficiary is not indicated therein. if the stipulation \"non-negotiable\" is included on a check, it shall be payable only to the bearer who receives it thereafter.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28246,
+    "source_ar": "المادة (96):",
+    "target_en": "Article 96",
+    "source_ar_norm": "المادة (96):",
+    "target_en_norm": "article 96",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28247,
+    "source_ar": "يجوز سحب الشيك لأمر الساحب نفسه، ويجوز سحبه لحساب شخص آخر، ولا يجوز سحبه على الساحب نفسه ما لم يكن مسحوبا بين فروع بنك يسيطر عليه مركز رئيسي واحد ويشترط ألا يكون الشيك مستحق الوفاء لحامله.",
+    "target_en": "A check may be issued to the order of the drawer or to the order of another person. However, a check may not be issued to the order of the drawer unless it is drawn on any of the branches of a bank controlled by the same central office, and the check must not include the stipulation \"payable to bearer\".",
+    "source_ar_norm": "يجوز سحب الشيك لامر الساحب نفسه، ويجوز سحبه لحساب شخص اخر، ولا يجوز سحبه علي الساحب نفسه ما لم يكن مسحوبا بين فروع بنك يسيطر عليه مركز رئيسي واحد ويشترط الا يكون الشيك مستحق الوفاء لحامله.",
+    "target_en_norm": "a check may be issued to the order of the drawer or to the order of another person. however, a check may not be issued to the order of the drawer unless it is drawn on any of the branches of a bank controlled by the same central office, and the check must not include the stipulation \"payable to bearer\".",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28248,
+    "source_ar": "المادة (97):",
+    "target_en": "Article 97",
+    "source_ar_norm": "المادة (97):",
+    "target_en_norm": "article 97",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28249,
+    "source_ar": "يضمن الساحب وفاء الشيك، وكل شرط يعفي الساحب نفسه من هذا الضمان يعتبر كأن لم يكن.",
+    "target_en": "The drawer shall guarantee the payment of the check; any stipulation which exempts the drawer from such guarantee shall be deemed null and void.",
+    "source_ar_norm": "يضمن الساحب وفاء الشيك، وكل شرط يعفي الساحب نفسه من هذا الضمان يعتبر كان لم يكن.",
+    "target_en_norm": "the drawer shall guarantee the payment of the check; any stipulation which exempts the drawer from such guarantee shall be deemed null and void.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28250,
+    "source_ar": "الفصل الثاني: تداول الشيك",
+    "target_en": "Chapter 2: Check Negotiation",
+    "source_ar_norm": "الفصل الثاني: تداول الشيك",
+    "target_en_norm": "chapter 2: check negotiation",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28251,
+    "source_ar": "المادة (98):",
+    "target_en": "Article 98",
+    "source_ar_norm": "المادة (98):",
+    "target_en_norm": "article 98",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28252,
+    "source_ar": "الشيك المشروط دفعه إلى شخص معين سواء نص فيه صراحة على شرط الأمر أو لم ينص عليه يكون قابلا للتداول بطريق التظهير.",
+    "target_en": "Negotiation of a check stipulated to be payable to a specific person, whether or not the stipulation \"to order\" is explicitly included thereon, shall be by indorsement.",
+    "source_ar_norm": "الشيك المشروط دفعه الي شخص معين سواء نص فيه صراحة علي شرط الامر او لم ينص عليه يكون قابلا للتداول بطريق التظهير.",
+    "target_en_norm": "negotiation of a check stipulated to be payable to a specific person, whether or not the stipulation \"to order\" is explicitly included thereon, shall be by indorsement.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28253,
+    "source_ar": "والشيك المشروط دفعه إلى شخص معين والمكتوبة فيه عبارة (ليس لأمر) أو أية عبارة أخرى مماثلة لا يجوز تداوله إلا باتباع أحكام حوالة الحق.",
+    "target_en": "Negotiation of a check stipulated to be payable to a specific person which contains the statement “not to the order” or any other statement to that effect shall be subject to the provisions of the transfer of rights.",
+    "source_ar_norm": "والشيك المشروط دفعه الي شخص معين والمكتوبة فيه عبارة (ليس لامر) او اية عبارة اخري مماثلة لا يجوز تداوله الا باتباع احكام حوالة الحق.",
+    "target_en_norm": "negotiation of a check stipulated to be payable to a specific person which contains the statement “not to the order” or any other statement to that effect shall be subject to the provisions of the transfer of rights.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28254,
+    "source_ar": "ويجوز التظهير ولو للساحب أو لأي ملتزم آخر، ويجوز لهؤلاء تظهير الشيك من جديد، ويعتبر التظهير إلى المسحوب عليه بمثابة مخالصة، إلا إذا كان للمسحوب عليه عدة منشآت وحصل التظهير لمصلحة منشأة غير التي سحب عليها الشيك.",
+    "target_en": "A check may be indorsed to its drawer or to any other obligor and each of them may re-indorse the check. An indorsement to the drawee shall be deemed a quittance, unless the drawee owns several establishments and the indorsement is made in favor of an establishment other than the one on which the check has been drawn.",
+    "source_ar_norm": "ويجوز التظهير ولو للساحب او لاي ملتزم اخر، ويجوز لهؤلاء تظهير الشيك من جديد، ويعتبر التظهير الي المسحوب عليه بمثابة مخالصة، الا اذا كان للمسحوب عليه عدة منشات وحصل التظهير لمصلحة منشاة غير التي سحب عليها الشيك.",
+    "target_en_norm": "a check may be indorsed to its drawer or to any other obligor and each of them may re-indorse the check. an indorsement to the drawee shall be deemed a quittance, unless the drawee owns several establishments and the indorsement is made in favor of an establishment other than the one on which the check has been drawn.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28255,
+    "source_ar": "المادة (99):",
+    "target_en": "Article 99",
+    "source_ar_norm": "المادة (99):",
+    "target_en_norm": "article 99",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28256,
+    "source_ar": "يتداول الشيك المستحق الوفاء لحاملة بمجرد التسليم والتظهير المكتوب على هذا الشيك يجعل المظهر مسئولا وفقا لأحكام الرجوع، ولكن لا يترتب على هذا التظهير أن يصير الصك شيكا لأمر.",
+    "target_en": "Negotiation of a check payable to its bearer shall commence upon delivery. The indorsement of such check shall render the indorser liable under the provisions of recourse; however, such indorsement shall not render the check payable \"to order\".",
+    "source_ar_norm": "يتداول الشيك المستحق الوفاء لحاملة بمجرد التسليم والتظهير المكتوب علي هذا الشيك يجعل المظهر مسئولا وفقا لاحكام الرجوع، ولكن لا يترتب علي هذا التظهير ان يصير الصك شيكا لامر.",
+    "target_en_norm": "negotiation of a check payable to its bearer shall commence upon delivery. the indorsement of such check shall render the indorser liable under the provisions of recourse; however, such indorsement shall not render the check payable \"to order\".",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28257,
+    "source_ar": "الفصل الثالث: اعتماد الشيك",
+    "target_en": "Chapter 3: Check Certification",
+    "source_ar_norm": "الفصل الثالث: اعتماد الشيك",
+    "target_en_norm": "chapter 3: check certification",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28258,
+    "source_ar": "المادة (100):",
+    "target_en": "Article 100",
+    "source_ar_norm": "المادة (100):",
+    "target_en_norm": "article 100",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28259,
+    "source_ar": "لا يجوز للمسحوب عليه أن يوقع على شيك بالقبول، وكل قبول مكتوب عليه يعتبر كأن لم يكن، ومع ذلك يجوز للمسحوب عليه أن يؤشر على الشيك باعتماده. وتفيد هذه العبارة وجود مقابل الوفاء في تاريخ التأشير، ولا يجوز للمسحوب عليه رفض اعتماد الشيك إذا كان لديه مقابل وفاء يكفي لدفع قيمته، ويعتبر توقيع المسحوب عليه على صدر الشيك بمثابة اعتماد له.",
+    "target_en": "A drawee may not include a statement of acceptance on a check; any statement to that effect shall be deemed null and void. However, the drawee may mark the check as certified. Such certification shall establish the availability of funds sufficient for payment on the date of certification. The drawee may not refuse to certify the check if sufficient funds for payment are available. The drawee’s signature on the face of the check shall be deemed certification thereof.",
+    "source_ar_norm": "لا يجوز للمسحوب عليه ان يوقع علي شيك بالقبول، وكل قبول مكتوب عليه يعتبر كان لم يكن، ومع ذلك يجوز للمسحوب عليه ان يؤشر علي الشيك باعتماده. وتفيد هذه العبارة وجود مقابل الوفاء في تاريخ التاشير، ولا يجوز للمسحوب عليه رفض اعتماد الشيك اذا كان لديه مقابل وفاء يكفي لدفع قيمته، ويعتبر توقيع المسحوب عليه علي صدر الشيك بمثابة اعتماد له.",
+    "target_en_norm": "a drawee may not include a statement of acceptance on a check; any statement to that effect shall be deemed null and void. however, the drawee may mark the check as certified. such certification shall establish the availability of funds sufficient for payment on the date of certification. the drawee may not refuse to certify the check if sufficient funds for payment are available. the drawee’s signature on the face of the check shall be deemed certification thereof.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28260,
+    "source_ar": "الفصل الرابع: الضمان الاحتياطي",
+    "target_en": "Chapter 4: Reserve Guarantee",
+    "source_ar_norm": "الفصل الرابع: الضمان الاحتياطي",
+    "target_en_norm": "chapter 4: reserve guarantee",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28261,
+    "source_ar": "المادة (101):",
+    "target_en": "Article 101",
+    "source_ar_norm": "المادة (101):",
+    "target_en_norm": "article 101",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28262,
+    "source_ar": "يجوز ضمان وفاء مبلغ الشيك كله أو بعضه من ضامن احتياطي، ويكون هذا الضمان من الغير عدا المسحوب عليه، كما يجوز أن يكون من أحد الموقعين على الشيك.",
+    "target_en": "Payment of the value of a check may be guaranteed in whole or in part by a reserve guarantor. Such guarantee may be provided by a third party other than the drawee and may also be provided by any of the signatories of the check.",
+    "source_ar_norm": "يجوز ضمان وفاء مبلغ الشيك كله او بعضه من ضامن احتياطي، ويكون هذا الضمان من الغير عدا المسحوب عليه، كما يجوز ان يكون من احد الموقعين علي الشيك.",
+    "target_en_norm": "payment of the value of a check may be guaranteed in whole or in part by a reserve guarantor. such guarantee may be provided by a third party other than the drawee and may also be provided by any of the signatories of the check.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28263,
+    "source_ar": "الفصل الخامس: تقديم الشيك ووفاؤه",
+    "target_en": "Chapter 5: Check Presentment and Payment",
+    "source_ar_norm": "الفصل الخامس: تقديم الشيك ووفاؤه",
+    "target_en_norm": "chapter 5: check presentment and payment",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28264,
+    "source_ar": "المادة (102):",
+    "target_en": "Article 102",
+    "source_ar_norm": "المادة (102):",
+    "target_en_norm": "article 102",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28265,
+    "source_ar": "الشيك مستحق الوفاء بمجرد الاطلاع عليه وكل بيان مخالف لذلك يعتبر كأن لم يكن، وإذا قدم الشيك للوفاء قبل اليوم المعين فيه كتاريخ لإصداره وجب وفاؤه في يوم تقديمه.",
+    "target_en": "A check shall be payable at sight and any stipulation to the contrary shall be deemed null and void. If a check is presented for payment before the date of issuance indicated thereon, it shall be paid upon presentment.",
+    "source_ar_norm": "الشيك مستحق الوفاء بمجرد الاطلاع عليه وكل بيان مخالف لذلك يعتبر كان لم يكن، واذا قدم الشيك للوفاء قبل اليوم المعين فيه كتاريخ لاصداره وجب وفاؤه في يوم تقديمه.",
+    "target_en_norm": "a check shall be payable at sight and any stipulation to the contrary shall be deemed null and void. if a check is presented for payment before the date of issuance indicated thereon, it shall be paid upon presentment.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28266,
+    "source_ar": "المادة (103):",
+    "target_en": "Article 103",
+    "source_ar_norm": "المادة (103):",
+    "target_en_norm": "article 103",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28267,
+    "source_ar": "الشيك المسحوب في المملكة والمستحق الوفاء فيها يجب تقديمه للوفاء خلال شهر، فإذا كان مسحوبا خارج المملكة ومستحق الوفاء فيها وجب تقديمه خلال ثلاثة أشهر، وتبدأ المواعيد المذكورة من التاريخ المبين في الشيك أنه تاريخ إصداره. ويعتبر تقديم الشيك إلى إحدى غرف المقاصة المعترف بها بمثابة تقديم للوفاء.",
+    "target_en": "A check issued in the Kingdom and payable therein must be presented for payment within one month. If it is issued abroad and is payable in the Kingdom, it must be presented for payment within three months. Such periods shall commence from the date of issuance indicated on the check. Presentment of the check to any recognized clearing house shall be deemed presentment for payment.",
+    "source_ar_norm": "الشيك المسحوب في المملكة والمستحق الوفاء فيها يجب تقديمه للوفاء خلال شهر، فاذا كان مسحوبا خارج المملكة ومستحق الوفاء فيها وجب تقديمه خلال ثلاثة اشهر، وتبدا المواعيد المذكورة من التاريخ المبين في الشيك انه تاريخ اصداره. ويعتبر تقديم الشيك الي احدي غرف المقاصة المعترف بها بمثابة تقديم للوفاء.",
+    "target_en_norm": "a check issued in the kingdom and payable therein must be presented for payment within one month. if it is issued abroad and is payable in the kingdom, it must be presented for payment within three months. such periods shall commence from the date of issuance indicated on the check. presentment of the check to any recognized clearing house shall be deemed presentment for payment.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28268,
+    "source_ar": "المادة (104):",
+    "target_en": "Article 104",
+    "source_ar_norm": "المادة (104):",
+    "target_en_norm": "article 104",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28269,
+    "source_ar": "إذا سحب الشيك بين مكانين مختلفي التقويم، أرجع تاريخ إصداره إلى اليوم المقابل في تقويم مكان الوفاء.",
+    "target_en": "If a check is issued between two places using different calendars, the date of issuance shall be the corresponding date of the calendar of the country where the check is payable.",
+    "source_ar_norm": "اذا سحب الشيك بين مكانين مختلفي التقويم، ارجع تاريخ اصداره الي اليوم المقابل في تقويم مكان الوفاء.",
+    "target_en_norm": "if a check is issued between two places using different calendars, the date of issuance shall be the corresponding date of the calendar of the country where the check is payable.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28270,
+    "source_ar": "المادة (105):",
+    "target_en": "Article 105",
+    "source_ar_norm": "المادة (105):",
+    "target_en_norm": "article 105",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28271,
+    "source_ar": "للمسحوب عليه أن يوفي قيمة الشيك ولو بعد انقضاء ميعاد تقديمه، ولا تقبل المعارضة من الساحب في وفاء الشيك قبل انقضاء ميعاد تقديمه إلا في حالة ضياعه أو إفلاس حامله أو طرأ ما يخل بأهليته. وإذا توفي الساحب أو أفلس أو فقد أهليته بعد إنشاء الشيك فلا يعدل ذلك من الآثار المترتبة عليه.",
+    "target_en": "The drawee shall pay the check, even after the expiry of the period prescribed for presentment thereof. The drawer may not object to payment of the check prior to the expiry of the period prescribed for presentment thereof except if it is lost or its holder becomes bankrupt or incompetent. If the drawer dies or becomes bankrupt or incompetent after the check is issued, the validity thereof shall not be affected.",
+    "source_ar_norm": "للمسحوب عليه ان يوفي قيمة الشيك ولو بعد انقضاء ميعاد تقديمه، ولا تقبل المعارضة من الساحب في وفاء الشيك قبل انقضاء ميعاد تقديمه الا في حالة ضياعه او افلاس حامله او طرا ما يخل باهليته. واذا توفي الساحب او افلس او فقد اهليته بعد انشاء الشيك فلا يعدل ذلك من الاثار المترتبة عليه.",
+    "target_en_norm": "the drawee shall pay the check, even after the expiry of the period prescribed for presentment thereof. the drawer may not object to payment of the check prior to the expiry of the period prescribed for presentment thereof except if it is lost or its holder becomes bankrupt or incompetent. if the drawer dies or becomes bankrupt or incompetent after the check is issued, the validity thereof shall not be affected.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28272,
+    "source_ar": "المادة (106):",
+    "target_en": "Article 106",
+    "source_ar_norm": "المادة (106):",
+    "target_en_norm": "article 106",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28273,
+    "source_ar": "إذا قدمت عدة شيكات في وقت واحد وكان مقابل الوفاء لا يكفي لوفائها جميعا وجبت مراعاة تواريخ سحبها فإذا كانت الشيكات المقدمة مفصولة من دفتر واحد وتحمل تاريخ إصدار واحد فضل الشيك الأسبق رقمًا.",
+    "target_en": "If multiple checks are presented for payment on the same day and the funds available for their payment are insufficient, payment shall be made according to their date of issuance. If the presented checks are issued from the same checkbook and bear the same date of issuance, priority shall be given according to the order of their serial numbers, from earliest to latest.",
+    "source_ar_norm": "اذا قدمت عدة شيكات في وقت واحد وكان مقابل الوفاء لا يكفي لوفائها جميعا وجبت مراعاة تواريخ سحبها فاذا كانت الشيكات المقدمة مفصولة من دفتر واحد وتحمل تاريخ اصدار واحد فضل الشيك الاسبق رقما.",
+    "target_en_norm": "if multiple checks are presented for payment on the same day and the funds available for their payment are insufficient, payment shall be made according to their date of issuance. if the presented checks are issued from the same checkbook and bear the same date of issuance, priority shall be given according to the order of their serial numbers, from earliest to latest.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28274,
+    "source_ar": "المادة (107):",
+    "target_en": "Article 107",
+    "source_ar_norm": "المادة (107):",
+    "target_en_norm": "article 107",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28275,
+    "source_ar": "إذا اشترط وفاء الشيك في المملكة بنقد غير متداول فيها وجب وفاء مبلغه في ميعاد تقديم الشيك بالنقد المتداول في المملكة حسب سعره يوم الوفاء، فإذا لم يتم الوفاء يوم التقديم كان للحامل الخيار بين المطالبة بمبلغ الشيك مقومًا بالنقد المتداول في المملكة حسب سعره في يوم التقديم أو في يوم الوفاء.",
+    "target_en": "If a check stipulates payment be made in a currency that is not in circulation in the Kingdom, payment shall be made on the date of its presentment using a currency that is in circulation in the Kingdom at its rate of exchange on the check's date of payment. If payment is not made on the date of presentment, the holder may choose to claim the amount of the check in a currency that is in circulation in the Kingdom either at the rate of exchange on its date of presentment or date of payment.",
+    "source_ar_norm": "اذا اشترط وفاء الشيك في المملكة بنقد غير متداول فيها وجب وفاء مبلغه في ميعاد تقديم الشيك بالنقد المتداول في المملكة حسب سعره يوم الوفاء، فاذا لم يتم الوفاء يوم التقديم كان للحامل الخيار بين المطالبة بمبلغ الشيك مقوما بالنقد المتداول في المملكة حسب سعره في يوم التقديم او في يوم الوفاء.",
+    "target_en_norm": "if a check stipulates payment be made in a currency that is not in circulation in the kingdom, payment shall be made on the date of its presentment using a currency that is in circulation in the kingdom at its rate of exchange on the check's date of payment. if payment is not made on the date of presentment, the holder may choose to claim the amount of the check in a currency that is in circulation in the kingdom either at the rate of exchange on its date of presentment or date of payment.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28276,
+    "source_ar": "فإذا قدم الشيك للمرة الأولى بعد انقضاء ميعاد تقديمه كانت العبرة بسعر اليوم الذي انتهى فيه ميعاد التقديم، ويتبع العرف السائد في المملكة لتقويم النقد الأجنبي وإنما يجوز للساحب أن يعين في الشيك السعر الذي يحسب على أساسه المبلغ الواجب دفعه.",
+    "target_en": "If the check is presented for the first time upon the lapse of the period prescribed for presentment thereof, the rate of exchange on the last day of such period shall prevail. The customary practice in the Kingdom shall be applied in determining the rate of exchange of foreign currency. The drawer may, however, indicate on the check the rate on the basis of which the payable amount is to be exchanged.",
+    "source_ar_norm": "فاذا قدم الشيك للمرة الاولي بعد انقضاء ميعاد تقديمه كانت العبرة بسعر اليوم الذي انتهي فيه ميعاد التقديم، ويتبع العرف السائد في المملكة لتقويم النقد الاجنبي وانما يجوز للساحب ان يعين في الشيك السعر الذي يحسب علي اساسه المبلغ الواجب دفعه.",
+    "target_en_norm": "if the check is presented for the first time upon the lapse of the period prescribed for presentment thereof, the rate of exchange on the last day of such period shall prevail. the customary practice in the kingdom shall be applied in determining the rate of exchange of foreign currency. the drawer may, however, indicate on the check the rate on the basis of which the payable amount is to be exchanged.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28277,
+    "source_ar": "وإذا عين مبلغ الشيك بنقود تحمل اسما مشتركا ولكن تختلف قيمتها في بلد الإصدار عن قيمتها في بلد الوفاء كان المقصود نقود بلد الوفاء.",
+    "target_en": "If the amount of the check is denominated in a currency the name of which in the country of issuance and in the country of payment is similar but the value of which is different, it shall mean the currency of the country of payment.",
+    "source_ar_norm": "واذا عين مبلغ الشيك بنقود تحمل اسما مشتركا ولكن تختلف قيمتها في بلد الاصدار عن قيمتها في بلد الوفاء كان المقصود نقود بلد الوفاء.",
+    "target_en_norm": "if the amount of the check is denominated in a currency the name of which in the country of issuance and in the country of payment is similar but the value of which is different, it shall mean the currency of the country of payment.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28278,
+    "source_ar": "الفصل السادس: الامتناع عن الوفاء",
+    "target_en": "Chapter 6: Refusal of Payment",
+    "source_ar_norm": "الفصل السادس: الامتناع عن الوفاء",
+    "target_en_norm": "chapter 6: refusal of payment",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28279,
+    "source_ar": "المادة (108):",
+    "target_en": "Article 108",
+    "source_ar_norm": "المادة (108):",
+    "target_en_norm": "article 108",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28280,
+    "source_ar": "لحامل الشيك الرجوع على الملتزمين به مجتمعين أو منفردين إذا قدمه في الميعاد النظامي ولم تدفع قيمته، وأثبت الامتناع باحتجاج. ويجوز عوضا عن الاحتجاج إثبات الامتناع عن الدفع.",
+    "target_en": "The holder of a check may exercise his right of recourse against its obligors jointly or severally if the check is presented within the statutory period and is not paid and the refusal of payment is established by making a protest. As an alternative, such refusal may be established through:",
+    "source_ar_norm": "لحامل الشيك الرجوع علي الملتزمين به مجتمعين او منفردين اذا قدمه في الميعاد النظامي ولم تدفع قيمته، واثبت الامتناع باحتجاج. ويجوز عوضا عن الاحتجاج اثبات الامتناع عن الدفع.",
+    "target_en_norm": "the holder of a check may exercise his right of recourse against its obligors jointly or severally if the check is presented within the statutory period and is not paid and the refusal of payment is established by making a protest. as an alternative, such refusal may be established through:",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28281,
+    "source_ar": "أ - بيان صادر من المسحوب عليه مع ذكر يوم تقديم الشيك.",
+    "target_en": "a) an acknowledgement made by the drawee indicating the date of presentment of the check; and",
+    "source_ar_norm": "ا - بيان صادر من المسحوب عليه مع ذكر يوم تقديم الشيك.",
+    "target_en_norm": "a) an acknowledgement made by the drawee indicating the date of presentment of the check; and",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28282,
+    "source_ar": "ب - بيان صادر من غرفة مقاصة معترف بها يذكر فيه أن الشيك قدم في الميعاد القانوني ولم تدفع قيمته.",
+    "target_en": "b) an acknowledgement made by a recognized clearing house stating that the",
+    "source_ar_norm": "ب - بيان صادر من غرفة مقاصة معترف بها يذكر فيه ان الشيك قدم في الميعاد القانوني ولم تدفع قيمته.",
+    "target_en_norm": "b) an acknowledgement made by a recognized clearing house stating that the",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28283,
+    "source_ar": "ويجب أن يكون البيان في الحالتين المذكورتين مؤرخا ومكتوبا على الشيك ذاته وموقعا ممن صدر منه، ولا يجوز الامتناع عن وضع هذا البيان على الشيك إذا طلب الحامل ولو تضمن الشيك شرط الرجوع بلا مصروفات، وإنما يجوز للملتزم بوصفه طلب مهلة لا تجاوز يوم العمل التالي لتقديم الشيك ولو قدم في اليوم الأخير من ميعاد التقديم.",
+    "target_en": "check has been presented within the statutory period but has not been paid. Both acknowledgements shall be written on the check and shall be dated and signed by the issuer of the acknowledgement. The issuer may not refuse to include such acknowledgement on the check if requested by the holder, even if the check includes the stipulation “recourse without expenses”. However, the obligor may request a grace period not exceeding the business day following the presentment of the check, even if it is presented on the last day of the period prescribed for presentment.",
+    "source_ar_norm": "ويجب ان يكون البيان في الحالتين المذكورتين مؤرخا ومكتوبا علي الشيك ذاته وموقعا ممن صدر منه، ولا يجوز الامتناع عن وضع هذا البيان علي الشيك اذا طلب الحامل ولو تضمن الشيك شرط الرجوع بلا مصروفات، وانما يجوز للملتزم بوصفه طلب مهلة لا تجاوز يوم العمل التالي لتقديم الشيك ولو قدم في اليوم الاخير من ميعاد التقديم.",
+    "target_en_norm": "check has been presented within the statutory period but has not been paid. both acknowledgements shall be written on the check and shall be dated and signed by the issuer of the acknowledgement. the issuer may not refuse to include such acknowledgement on the check if requested by the holder, even if the check includes the stipulation “recourse without expenses”. however, the obligor may request a grace period not exceeding the business day following the presentment of the check, even if it is presented on the last day of the period prescribed for presentment.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28284,
+    "source_ar": "المادة (109):",
+    "target_en": "Article 109",
+    "source_ar_norm": "المادة (109):",
+    "target_en_norm": "article 109",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28285,
+    "source_ar": "يجب إثبات الامتناع عن الدفع بالكيفية المنصوص عليها في المادة السابقة قبل انقضاء مواعيد التقديم، فإذا وقع التقديم في آخر يوم من هذا الميعاد جاز إثبات الامتناع عن الدفع في يوم العمل التالي.",
+    "target_en": "Refusal of payment shall be established in the manner provided for in Article 108 prior to the expiry of the period prescribed for presentment. If the check is presented on the last day of the prescribed period, such refusal may be established on the following business day.",
+    "source_ar_norm": "يجب اثبات الامتناع عن الدفع بالكيفية المنصوص عليها في المادة السابقة قبل انقضاء مواعيد التقديم، فاذا وقع التقديم في اخر يوم من هذا الميعاد جاز اثبات الامتناع عن الدفع في يوم العمل التالي.",
+    "target_en_norm": "refusal of payment shall be established in the manner provided for in article 108 prior to the expiry of the period prescribed for presentment. if the check is presented on the last day of the prescribed period, such refusal may be established on the following business day.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28286,
+    "source_ar": "الفصل السابع: تعدد النسخ والصور والتحريف",
+    "target_en": "Chapter 7: Multiplicity of Copies and Alteration",
+    "source_ar_norm": "الفصل السابع: تعدد النسخ والصور والتحريف",
+    "target_en_norm": "chapter 7: multiplicity of copies and alteration",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28287,
+    "source_ar": "المادة (110):",
+    "target_en": "Article 110",
+    "source_ar_norm": "المادة (110):",
+    "target_en_norm": "article 110",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28288,
+    "source_ar": "فيما عدا الشيك لحامله، يجوز سحب الشيك من نسخ متعددة يطابق بعضها بعضا إذا كان مسحوبا من بلد ومستحق الوفاء في بلد آخر. ويجب في هذه الحالة أن يوضع في متن كل نسخة منها رقمها وإلا اعتبرت كل نسخة شيكا مستقلا.",
+    "target_en": "Except for a check payable to bearer, a check may be issued in multiple identical copies if it is issued in one country and payable in another country. In such case, the copies shall be numbered; otherwise, they shall be deemed separate checks.",
+    "source_ar_norm": "فيما عدا الشيك لحامله، يجوز سحب الشيك من نسخ متعددة يطابق بعضها بعضا اذا كان مسحوبا من بلد ومستحق الوفاء في بلد اخر. ويجب في هذه الحالة ان يوضع في متن كل نسخة منها رقمها والا اعتبرت كل نسخة شيكا مستقلا.",
+    "target_en_norm": "except for a check payable to bearer, a check may be issued in multiple identical copies if it is issued in one country and payable in another country. in such case, the copies shall be numbered; otherwise, they shall be deemed separate checks.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28289,
+    "source_ar": "الفصل الثامن: الشيك المسطر والشيك المقيد في الحساب",
+    "target_en": "Chapter 8: Crossed Checks and Checks Credited to an Account",
+    "source_ar_norm": "الفصل الثامن: الشيك المسطر والشيك المقيد في الحساب",
+    "target_en_norm": "chapter 8: crossed checks and checks credited to an account",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28290,
+    "source_ar": "المادة (111):",
+    "target_en": "Article 111",
+    "source_ar_norm": "المادة (111):",
+    "target_en_norm": "article 111",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28291,
+    "source_ar": "يجوز لساحب الشيك وحامله أن يسطره وذلك بوضع خطين متوازيين في صدر الشيك، ويكون التسطير عاما أو خاصا، فإذا خلا ما بين الخطين من أي بيان أو إذا كتب بينهما لفظ (بنك) أو أي لفظ آخر في هذا المعنى كان التسطير عاما.",
+    "target_en": "The drawer and holder of a check may cross it by drawing two parallel lines on its face. Crossing may be general or specific. If no writing is made between the two lines or if the word \"bank\" or any other word denoting the same meaning is inserted therebetween, the crossing shall be deemed general.",
+    "source_ar_norm": "يجوز لساحب الشيك وحامله ان يسطره وذلك بوضع خطين متوازيين في صدر الشيك، ويكون التسطير عاما او خاصا، فاذا خلا ما بين الخطين من اي بيان او اذا كتب بينهما لفظ (بنك) او اي لفظ اخر في هذا المعني كان التسطير عاما.",
+    "target_en_norm": "the drawer and holder of a check may cross it by drawing two parallel lines on its face. crossing may be general or specific. if no writing is made between the two lines or if the word \"bank\" or any other word denoting the same meaning is inserted therebetween, the crossing shall be deemed general.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28292,
+    "source_ar": "أما إذا كتب اسم بنك معين بين الخطين فإن التسطير يكون خاصا، ويجوز أن يستحيل التسطير العام إلى تسطير خاص، وأما التسطير الخاص فلا يستحيل إلى تسطير عام، ويعتبر كأن لم يكن شطب التسطير أو اسم البنك المكتوب فيما بين الخطين.",
+    "target_en": "If the name of a specific bank is inserted between the two lines, the crossing shall be deemed specific. A general crossing may be changed into a specific crossing; however, a specific crossing may not be changed into a general crossing. If the crossing or the name of the bank inserted between the two lines is stricken out, it shall be deemed null and void.",
+    "source_ar_norm": "اما اذا كتب اسم بنك معين بين الخطين فان التسطير يكون خاصا، ويجوز ان يستحيل التسطير العام الي تسطير خاص، واما التسطير الخاص فلا يستحيل الي تسطير عام، ويعتبر كان لم يكن شطب التسطير او اسم البنك المكتوب فيما بين الخطين.",
+    "target_en_norm": "if the name of a specific bank is inserted between the two lines, the crossing shall be deemed specific. a general crossing may be changed into a specific crossing; however, a specific crossing may not be changed into a general crossing. if the crossing or the name of the bank inserted between the two lines is stricken out, it shall be deemed null and void.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28293,
+    "source_ar": "المادة (112):",
+    "target_en": "Article 112",
+    "source_ar_norm": "المادة (112):",
+    "target_en_norm": "article 112",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28294,
+    "source_ar": "لا يجوز للمسحوب عليه أن يوفي شيكا مسطرا تسطيرًا عاما إلا إلى أحد عملائه أو إلى بنك، ولا يجوز أن يوفي شيكا مسطرا تسطيرا خاصا إلا إلى البنك المكتوب اسمه فيما بين الخطين وإلى عميل هذا البنك إذا كان هذا الأخير هو المسحوب عليه، ومع ذلك يجوز للبنك المكتوب اسمه بين الخطين أن يعهد إلى بنك آخر قبض قيمة الشيك.",
+    "target_en": "A drawee may not pay a check which bears a general crossing except to a client or a bank and may not pay a check which bears a specific crossing except to the bank whose name is written between the two lines or to a client of said bank if the latter is the drawee. However, said bank may entrust another bank to become the payee of the check.",
+    "source_ar_norm": "لا يجوز للمسحوب عليه ان يوفي شيكا مسطرا تسطيرا عاما الا الي احد عملائه او الي بنك، ولا يجوز ان يوفي شيكا مسطرا تسطيرا خاصا الا الي البنك المكتوب اسمه فيما بين الخطين والي عميل هذا البنك اذا كان هذا الاخير هو المسحوب عليه، ومع ذلك يجوز للبنك المكتوب اسمه بين الخطين ان يعهد الي بنك اخر قبض قيمة الشيك.",
+    "target_en_norm": "a drawee may not pay a check which bears a general crossing except to a client or a bank and may not pay a check which bears a specific crossing except to the bank whose name is written between the two lines or to a client of said bank if the latter is the drawee. however, said bank may entrust another bank to become the payee of the check.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28295,
+    "source_ar": "ولا يجوز لبنك أن يحصل على شيك مسطر إلا من أحد عملائه أو من بنك آخر، ولا أن يقبض قيمته لحساب أشخاص آخرين غير من ذكر.",
+    "target_en": "A bank may not receive a crossed check except from a client or another bank, nor may it become the payee of such check for the account of any person other than its client or the other bank.",
+    "source_ar_norm": "ولا يجوز لبنك ان يحصل علي شيك مسطر الا من احد عملائه او من بنك اخر، ولا ان يقبض قيمته لحساب اشخاص اخرين غير من ذكر.",
+    "target_en_norm": "a bank may not receive a crossed check except from a client or another bank, nor may it become the payee of such check for the account of any person other than its client or the other bank.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28296,
+    "source_ar": "وإذا حمل الشيك عدة تسطيرات خاصة لم يجز للمسحوب عليه وفاؤه إلا إذا كان يحمل تسطيرين وكان أحدهما لتحصيل قيمته بواسطة غرفة مقاصة.",
+    "target_en": "If the check bears multiple specific crossings, the drawee may not pay it unless it bears two crossings, one of which is for the collection of its value through a clearing house.",
+    "source_ar_norm": "واذا حمل الشيك عدة تسطيرات خاصة لم يجز للمسحوب عليه وفاؤه الا اذا كان يحمل تسطيرين وكان احدهما لتحصيل قيمته بواسطة غرفة مقاصة.",
+    "target_en_norm": "if the check bears multiple specific crossings, the drawee may not pay it unless it bears two crossings, one of which is for the collection of its value through a clearing house.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28297,
+    "source_ar": "المادة (113):",
+    "target_en": "Article 113",
+    "source_ar_norm": "المادة (113):",
+    "target_en_norm": "article 113",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28298,
+    "source_ar": "يجوز لساحب الشيك أو لحامله أن يشترط عدم وفائه نقدا بأن يضع على صدره عبارة (القيد في الحساب) أو أية عبارة أخرى تفيد نفس المعنى.",
+    "target_en": "A drawer or holder of a check may stipulate non-payment thereof in cash by writing on its face the statement “to be credited to the account” or any other statement to that effect.",
+    "source_ar_norm": "يجوز لساحب الشيك او لحامله ان يشترط عدم وفائه نقدا بان يضع علي صدره عبارة (القيد في الحساب) او اية عبارة اخري تفيد نفس المعني.",
+    "target_en_norm": "a drawer or holder of a check may stipulate non-payment thereof in cash by writing on its face the statement “to be credited to the account” or any other statement to that effect.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28299,
+    "source_ar": "وفي هذه الحالة لا يكون للمسحوب عليه إلا تسوية قيمة الشيك بطريق قيود كتابية كالقيد في الحساب أو النقل المصرفي أو المقاصة.",
+    "target_en": "In such case, the drawee may only settle the value of the check by crediting the amount to the account, bank transfer, or setoff.",
+    "source_ar_norm": "وفي هذه الحالة لا يكون للمسحوب عليه الا تسوية قيمة الشيك بطريق قيود كتابية كالقيد في الحساب او النقل المصرفي او المقاصة.",
+    "target_en_norm": "in such case, the drawee may only settle the value of the check by crediting the amount to the account, bank transfer, or setoff.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  },
+  {
+    "id": 28300,
+    "source_ar": "وتقوم هذه القيود مقام الوفاء ولا يعتد بشطب بيان (للقيد في الحساب).",
+    "target_en": "Such transactions shall constitute payment and the striking out of the statement “to be credited to the account” shall not be valid.",
+    "source_ar_norm": "وتقوم هذه القيود مقام الوفاء ولا يعتد بشطب بيان (للقيد في الحساب).",
+    "target_en_norm": "such transactions shall constitute payment and the striking out of the statement “to be credited to the account” shall not be valid.",
+    "file_name": "نظام الأوراق التجارية.docx"
+  }
+]
