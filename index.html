@@ -15,9 +15,7 @@
   --cat-border:#e5e7eb;
 }
 
-*{
-  box-sizing:border-box;
-}
+*{box-sizing:border-box}
 
 html,body{
   margin:0;
@@ -73,7 +71,7 @@ p{
 #directOpenCatBtn{
   position:fixed;
   right:18px;
-  bottom:calc(22px + env(safe-area-inset-bottom));
+  bottom:calc(88px + env(safe-area-inset-bottom));
   z-index:2147483647;
   height:56px;
   min-width:150px;
@@ -93,38 +91,6 @@ p{
   transform:scale(.98);
   background:var(--cat-blue-dark);
 }
-
-@media (max-width:700px){
-  .hero{
-    padding:24px;
-    align-items:center;
-  }
-
-  .card{
-    padding:32px 22px;
-    border-radius:22px;
-  }
-
-  h1{
-    font-size:36px;
-  }
-
-  p{
-    font-size:18px;
-  }
-
-  .badge{
-    font-size:14px;
-  }
-
-  #directOpenCatBtn{
-    right:16px;
-    bottom:calc(88px + env(safe-area-inset-bottom));
-    height:54px;
-    min-width:142px;
-    font-size:15px;
-  }
-}
 </style>
 </head>
 
@@ -132,7 +98,6 @@ p{
 
 <div class="hero">
   <div class="card">
-
     <h1>CAT Translation Tool</h1>
 
     <p>
@@ -144,43 +109,56 @@ p{
     <div class="badge">
       اضغط زر OPEN CAT أسفل الشاشة لفتح الأداة
     </div>
-
   </div>
 </div>
 
 <button id="directOpenCatBtn" type="button">OPEN CAT</button>
 
-<script src="./content.js?v=62"></script>
+<script src="./content.js?v=999"></script>
 
 <script>
 (function () {
+  function fireOpenEvents() {
+    try { window.dispatchEvent(new CustomEvent("CAT_V45_PRO_OPEN")); } catch (e) {}
+    try { window.dispatchEvent(new Event("CAT_V45_PRO_OPEN")); } catch (e) {}
+  }
+
   function openCAT() {
-    try {
-      if (typeof window.openCATTool === "function") {
-        window.openCATTool();
-        return;
-      }
-    } catch (e) {}
+    var tries = 0;
 
-    try {
-      window.dispatchEvent(new CustomEvent("CAT_V45_PRO_OPEN"));
-    } catch (e) {}
+    function attempt() {
+      tries++;
 
-    try {
-      window.dispatchEvent(new Event("CAT_V45_PRO_OPEN"));
-    } catch (e) {}
-
-    setTimeout(function () {
       try {
         if (typeof window.openCATTool === "function") {
           window.openCATTool();
-        } else {
-          alert("لم يتم تحميل أداة CAT بعد. حدّث الصفحة ثم جرّب مرة أخرى.");
+          return;
         }
-      } catch (e) {
-        alert("تعذر فتح أداة CAT. حدّث الصفحة ثم جرّب مرة أخرى.");
+      } catch (e) {}
+
+      fireOpenEvents();
+
+      try {
+        var possibleButtons = Array.prototype.slice.call(document.querySelectorAll("button, a, div"));
+        var openBtn = possibleButtons.find(function (el) {
+          var t = (el.textContent || "").trim().toLowerCase();
+          return t === "open cat" || t.indexOf("open cat") >= 0 || t.indexOf("cat") >= 0;
+        });
+
+        if (openBtn && openBtn.id !== "directOpenCatBtn") {
+          openBtn.click();
+          return;
+        }
+      } catch (e) {}
+
+      if (tries < 8) {
+        setTimeout(attempt, 500);
+      } else {
+        alert("لم يتم تحميل أداة CAT من content.js. سنحتاج إصلاح content.js نفسه.");
       }
-    }, 700);
+    }
+
+    attempt();
   }
 
   function ensureButton() {
