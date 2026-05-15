@@ -16,7 +16,7 @@ CAT Translation Memory V51 Mobile Hidden HTML TM Fixed + Same-Format DOCX Export
 
 var APP = {
 id: "cat-v45-pro-stable-enhanced-confirmed",
-version: "V51 Mobile Hidden HTML TM Fixed",
+version: "V62 Restore Open + JSON Full Loader",
 hostId: "cat-v45-pro-stable-enhanced-confirmed-host",
 built: false,
 building: false,
@@ -1718,78 +1718,64 @@ shadow.innerHTML = [
 "<style>",
 ":host{all:initial}",
 "*{box-sizing:border-box}",
-":host{--navy:#054276;--blue:#2633FF;--cyan:#4CC4FF;--green:#20CC76;--teal:#0A9D76;--purple:#8142FF;--lav:#BF9FFF;--brown:#BC9470;--sand:#DCC8B6;--cream:#F4EEE9;--paper:#FFF9F3;--ink:#111827;--muted:#5f6b7a;--line:rgba(5,66,118,.16)}",
-".fab{display:none!important}",
-".panel{position:fixed;inset:12px;z-index:2147483647;background:linear-gradient(135deg,var(--paper) 0%,var(--cream) 48%,#ffffff 100%);border:1px solid var(--line);border-radius:22px;box-shadow:0 28px 80px rgba(5,66,118,.24);display:none;direction:rtl;font-family:'GE SS Two Light','Segoe UI',Tahoma,Arial;color:var(--ink);overflow:hidden}",
+".fab{position:fixed;right:18px;bottom:18px;z-index:2147483647;border:0;border-radius:999px;padding:12px 18px;background:#2563eb;color:#fff;font:800 13px 'Segoe UI',Tahoma,Arial;box-shadow:0 10px 30px rgba(0,0,0,.25);cursor:pointer;direction:ltr}",
+".panel{position:fixed;inset:12px;z-index:2147483647;background:#f8fafc;border:1px solid #dbe2ea;border-radius:14px;box-shadow:0 20px 70px rgba(15,23,42,.30);display:none;direction:rtl;font-family:'GE SS Two Light','Segoe UI',Tahoma,Arial;color:#111827;overflow:hidden}",
 ".panel.open{display:flex;flex-direction:column}",
 ".panel.sourceCollapsed .inputArea{display:none!important;height:0!important;padding:0!important;border:0!important;min-height:0!important;overflow:hidden!important}",
 ".panel.sourceCollapsed .tablewrap{flex:1 1 auto!important;min-height:0!important}",
 ".panel.sourceCollapsed .mainbox{min-height:0!important}",
-".top{height:56px;background:rgba(255,249,243,.94);border-bottom:1px solid var(--line);display:flex;align-items:center;gap:10px;padding:0 16px;backdrop-filter:blur(10px)}",
-".topTools{display:flex;align-items:center;gap:7px}",
-".iconBtn{height:34px;min-width:58px;padding:0 12px;border:1px solid rgba(5,66,118,.22);border-radius:999px;background:#fff;color:var(--navy);font:900 12px 'Segoe UI',Tahoma,Arial;cursor:pointer;box-shadow:0 4px 14px rgba(5,66,118,.08)}",
-".iconBtn.on{background:var(--teal);color:#fff;border-color:var(--teal)}",
-".title{font-weight:950;font-size:15px;margin-left:auto;direction:ltr;font-family:'Segoe UI',Segoe,Arial;color:var(--navy);letter-spacing:.2px}",
-".close{border:0;width:34px;height:34px;border-radius:12px;background:rgba(220,38,38,.10);color:#991b1b;cursor:pointer;font-weight:900;font-size:16px}",
-".dash{display:grid;grid-template-columns:repeat(5,minmax(115px,1fr));gap:10px;padding:12px 14px;background:rgba(255,255,255,.46);border-bottom:1px solid var(--line)}",
-".statCard{background:rgba(255,255,255,.86);border:1px solid rgba(5,66,118,.14);border-radius:16px;padding:10px;text-align:center;box-shadow:0 8px 22px rgba(5,66,118,.06)}",
-".statCard .lab{font-size:12px;color:var(--muted);font-weight:900}",
-".statCard .val{font-size:22px;font-weight:950;direction:ltr;margin-top:3px;font-family:'Segoe UI',Segoe,Arial;color:var(--navy)}",
-"#confirmedStat{color:var(--teal)!important}",
-".body{display:grid;grid-template-columns:minmax(0,1fr) 312px;gap:14px;padding:14px;min-height:0;flex:1;direction:ltr}",
-".side{grid-column:2;grid-row:1;background:rgba(255,255,255,.72);border:1px solid var(--line);border-radius:18px;overflow:auto;padding:12px;display:flex;flex-direction:column;gap:10px;box-shadow:0 10px 26px rgba(5,66,118,.08);direction:rtl}",
-".mainbox{grid-column:1;grid-row:1;background:#fff;border:1px solid var(--line);border-radius:18px;overflow:hidden;display:flex;flex-direction:column;min-height:0;box-shadow:0 10px 26px rgba(5,66,118,.06);direction:rtl}",
-".toolGroup{border:1px solid rgba(5,66,118,.14);border-radius:16px;background:rgba(255,249,243,.78);overflow:hidden;box-shadow:0 8px 22px rgba(5,66,118,.05)}",
-".toolGroup[open]{background:#fff}",
-".toolSection{list-style:none;position:sticky;top:0;z-index:1;min-height:40px;display:flex;align-items:center;gap:8px;padding:0 12px;border-bottom:1px solid rgba(5,66,118,.12);background:linear-gradient(90deg,rgba(5,66,118,.08),rgba(76,196,255,.14));color:var(--navy);font:950 13px 'GE SS Two Light','Segoe UI',Tahoma,Arial;cursor:pointer;user-select:none}",
-".toolSection::-webkit-details-marker{display:none}",
-".toolSection:after{content:'\u2304';margin-right:auto;font:900 15px 'Segoe UI',Tahoma,Arial;color:var(--teal)}",
-".toolGroup:not([open]) .toolSection{border-bottom:0}",
-".toolGroup:not([open]) .toolSection:after{content:'\u203a'}",
-".toolInner{display:flex;flex-direction:column;gap:8px;padding:10px}",
-"button,select,input{height:38px;border:1px solid rgba(5,66,118,.18);border-radius:12px;background:#fff;color:var(--navy);font:900 12px 'GE SS Two Light','Segoe UI',Tahoma,Arial;cursor:pointer;box-shadow:0 2px 10px rgba(5,66,118,.04)}",
-"button:hover,.filePick:hover,.htmlImport:hover{filter:brightness(.98);transform:translateY(-1px)}",
-"button:active{transform:translateY(0)}",
-".side button,.side select,.side .htmlImport,.side .filePick{width:100%;min-height:38px;height:38px;border-radius:12px;text-align:center;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}",
-".primary{background:linear-gradient(135deg,var(--blue),var(--purple));color:#fff;border-color:transparent}",
-".green{background:linear-gradient(135deg,var(--teal),var(--green));color:#fff;border-color:transparent}",
-".red{background:#DC2626;color:#fff;border-color:#DC2626}",
-".gold{background:linear-gradient(135deg,var(--brown),var(--sand));color:#fff;border-color:transparent}",
-".online{background:linear-gradient(135deg,var(--teal),var(--cyan));color:#fff;border-color:transparent}",
-".saveTM{background:linear-gradient(135deg,var(--teal),var(--green));color:#fff;border-color:transparent}",
-".deleteTM{background:rgba(220,38,38,.92)!important;color:#fff!important;border-color:transparent!important}",
-".tmSelect{border:1px solid rgba(5,66,118,.22)!important;background:#fff!important;color:var(--navy)!important;padding:0 8px!important;direction:ltr!important}",
-".htmlImport,.filePick{position:relative;display:flex;align-items:center;justify-content:center;border:1px solid transparent;background:linear-gradient(135deg,var(--navy),var(--teal));color:#fff;font:900 12px 'GE SS Two Light','Segoe UI',Tahoma,Arial;cursor:pointer;overflow:hidden;direction:rtl}",
-".htmlImport input,.filePick input{position:absolute;inset:0;width:100%;height:100%;opacity:0;cursor:pointer;font-size:0}",
-"textarea{width:100%;min-height:120px;resize:vertical;border:1px solid rgba(5,66,118,.18);border-radius:14px;padding:12px;font:15px/1.8 'GE SS Two Light','Segoe UI',Tahoma,Arial;direction:auto;background:#fff;color:var(--ink)}",
-".statusBox{border:1px solid rgba(5,66,118,.14);background:rgba(255,255,255,.88);border-radius:14px;padding:10px;min-height:64px;font-size:12px;color:#475569;line-height:1.65;white-space:pre-line}",
-".bar{height:7px;background:rgba(5,66,118,.12);border-radius:999px;overflow:hidden}",
-".fill{height:100%;width:0%;background:linear-gradient(90deg,var(--teal),var(--cyan),var(--purple))}",
-".inputArea{padding:12px;border-bottom:1px solid var(--line);background:rgba(255,249,243,.56)}",
+".topTools{display:flex;align-items:center;gap:6px}",
+".iconBtn{height:30px;min-width:34px;padding:0 10px;border:1px solid #d9e0ea;border-radius:8px;background:#fff;font:800 12px 'Segoe UI',Tahoma,Arial;cursor:pointer}",
+".iconBtn.on{background:#0f766e;color:#fff;border-color:#0f766e}",
+".top{height:46px;background:#fff;border-bottom:1px solid #e5e7eb;display:flex;align-items:center;gap:10px;padding:0 14px}",
+".title{font-weight:900;font-size:15px;margin-left:auto;direction:ltr;font-family:'Segoe UI',Segoe,Arial}",
+".close{border:0;width:30px;height:30px;border-radius:8px;background:#fee2e2;color:#991b1b;cursor:pointer;font-weight:900}",
+".dash{display:grid;grid-template-columns:repeat(5,minmax(115px,1fr));gap:10px;padding:10px 12px;background:#f8fafc;border-bottom:1px solid #e5e7eb}",
+".statCard{background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:9px 10px;text-align:center}",
+".statCard .lab{font-size:12px;color:#64748b;font-weight:800}",
+".statCard .val{font-size:22px;font-weight:900;direction:ltr;margin-top:3px;font-family:'Segoe UI',Segoe,Arial}",
+"#confirmedStat{color:#168A45!important}",
+".body{display:grid;grid-template-columns:260px minmax(0,1fr);gap:12px;padding:12px;min-height:0;flex:1}",
+".side,.mainbox{background:#fff;border:1px solid #e5e7eb;border-radius:12px;overflow:hidden}",
+".side{padding:12px;display:flex;flex-direction:column;gap:8px;overflow:auto}",
+"button,select,input{height:34px;border:1px solid #d9e0ea;border-radius:9px;background:#fff;font:800 12px 'GE SS Two Light','Segoe UI',Tahoma,Arial;cursor:pointer}",
+".primary{background:#2563eb;color:#fff;border-color:#2563eb}",
+".green{background:#16a34a;color:#fff;border-color:#16a34a}",
+".red{background:#dc2626;color:#fff;border-color:#dc2626}",
+".gold{background:#f59e0b;color:#fff;border-color:#f59e0b}",
+"textarea{width:100%;min-height:120px;resize:vertical;border:1px solid #d9e0ea;border-radius:10px;padding:10px;font:15px/1.8 'GE SS Two Light','Segoe UI',Tahoma,Arial;direction:auto}",
+".statusBox{border:1px solid #e5e7eb;background:#f8fafc;border-radius:10px;padding:9px;min-height:56px;font-size:12px;color:#475569;line-height:1.6}",
+".bar{height:6px;background:#e5e7eb;border-radius:999px;overflow:hidden}",
+".fill{height:100%;width:0%;background:#2563eb}",
+".mainbox{display:flex;flex-direction:column;min-height:0}",
+".inputArea{padding:10px;border-bottom:1px solid #e5e7eb;background:#fbfdff}",
 ".tablewrap{overflow:auto;min-height:0;flex:1}",
 "table{border-collapse:separate;border-spacing:0;width:100%;table-layout:fixed;direction:ltr;background:#fff}",
-"th{position:sticky;top:0;z-index:2;height:38px;background:linear-gradient(180deg,#fff,var(--cream));border-bottom:1px solid var(--line);border-right:1px solid rgba(5,66,118,.10);font-size:13px;text-align:center;font-family:'Segoe UI',Segoe,Arial;color:var(--navy)}",
-"td{border-bottom:1px solid rgba(5,66,118,.08);border-right:1px solid rgba(5,66,118,.08);padding:10px;vertical-align:top;font-size:15px;line-height:1.8;background:#fff;color:var(--ink)}",
-"tr:nth-child(even) td{background:#FFF9F3}",
+"th{position:sticky;top:0;z-index:2;height:34px;background:#eef4ff;border-bottom:1px solid #dbe2ea;border-right:1px solid #e5e7eb;font-size:13px;text-align:center;font-family:'Segoe UI',Segoe,Arial}",
+"td{border-bottom:1px solid #eef2f7;border-right:1px solid #eef2f7;padding:9px;vertical-align:top;font-size:15px;line-height:1.8;background:#fff}",
+"tr:nth-child(even) td{background:#f8fbff}",
 ".ar{direction:rtl;text-align:justify;text-justify:kashida;font-family:'GE SS Two Light','GE SS Light Text',Tahoma,Arial,sans-serif;font-size:15px}",
 ".en{direction:ltr;text-align:justify;font-family:'Segoe UI',Segoe,Arial,sans-serif;font-size:15px}",
 ".num{width:42px;text-align:center;font-family:'Segoe UI',Segoe,Arial}",
-".src{width:24%}.best{width:28%}.match{width:75px;text-align:center;font-weight:950;direction:ltr;font-family:'Segoe UI',Segoe,Arial}.target{width:30%}.stat{width:110px;text-align:center}",
-".pill{display:inline-block;padding:3px 8px;border-radius:999px;background:rgba(38,51,255,.10);color:var(--blue);font-size:11px;font-weight:950;border:1px solid rgba(38,51,255,.16)}",
-".pill.confirmed{background:rgba(32,204,118,.12);color:var(--teal);border:1px solid rgba(32,204,118,.34)}",
-".needsRow td{background:#fff3cd!important}",
+".src{width:24%}",
+".best{width:28%}",
+".match{width:75px;text-align:center;font-weight:900;direction:ltr;font-family:'Segoe UI',Segoe,Arial}",
+".target{width:30%}",
+".stat{width:110px;text-align:center}",
+".pill{display:inline-block;padding:3px 7px;border-radius:999px;background:#eef2ff;color:#1d4ed8;font-size:11px;font-weight:900}",
+".pill.confirmed{background:#EAF8EF;color:#168A45;border:1px solid #B7E4C7}",
+".needsRow td{background:#FFF2CC!important}",
 ".small{color:#64748b;font-size:11px;margin-top:5px;direction:ltr}",
 ".qa{margin-top:6px;color:#b45309;font-size:11px;line-height:1.4}",
 ".suggest{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px}",
-".sug{height:24px;padding:0 7px;border-radius:999px;background:rgba(32,204,118,.12);border:1px solid rgba(32,204,118,.30);color:var(--teal);font-size:11px}",
-".mini{font-size:11px;color:#64748b;line-height:1.5;text-align:center}",
+".sug{height:24px;padding:0 7px;border-radius:999px;background:#ecfdf5;border:1px solid #bbf7d0;color:#166534;font-size:11px}",
+".mini{font-size:11px;color:#64748b;line-height:1.5}",
 ".hiddenFile{display:none}",
 ".targetDraft.ar{font-family:'GE SS Two Light','GE SS Light Text',Tahoma,Arial;font-size:15px;text-align:justify;text-justify:kashida}",
 ".targetDraft.en{font-family:'Segoe UI',Segoe,Arial;font-size:15px;text-align:justify}",
-".panel.focusMode .dash,.panel.focusMode .side,.panel.focusMode .inputArea{display:none!important}",
-".panel.focusMode .body{display:block!important;padding:6px!important;overflow:hidden!important;flex:1!important;min-height:0!important}",
-".panel.focusMode .mainbox{width:100%!important;height:calc(100dvh - 58px)!important;min-height:0!important}",
-".panel.focusMode .tablewrap{height:100%!important;max-height:none!important;overflow:auto!important}",
+
+".filePick{position:relative;display:flex;align-items:center;justify-content:center;height:34px;border:1px solid #2563eb;border-radius:9px;background:#2563eb;color:#fff;font:800 12px 'GE SS Two Light','Segoe UI',Tahoma,Arial;cursor:pointer;overflow:hidden;text-align:center;direction:ltr}",
+".filePick input{position:absolute;inset:0;width:100%;height:100%;opacity:0;cursor:pointer;font-size:0}",
 ".panel.catMobile{inset:0!important;width:100dvw!important;height:100dvh!important;max-width:100dvw!important;max-height:100dvh!important;border-radius:0!important;border:0!important}",
 ".panel.catMobile.open{display:flex!important;flex-direction:column!important}",
 ".panel.catMobile .top{height:auto!important;min-height:54px!important;padding:8px 10px!important;gap:8px!important;flex-wrap:wrap!important;position:sticky!important;top:0!important;z-index:10!important}",
@@ -1798,25 +1784,55 @@ shadow.innerHTML = [
 ".panel.catMobile .iconBtn{height:38px!important;min-width:64px!important;font-size:13px!important}",
 ".panel.catMobile .dash{display:flex!important;grid-template-columns:none!important;overflow-x:auto!important;gap:8px!important;padding:8px!important;-webkit-overflow-scrolling:touch!important}",
 ".panel.catMobile .statCard{min-width:145px!important;flex:0 0 145px!important;padding:8px!important;border-radius:12px!important}",
+".panel.catMobile .statCard .lab{font-size:11px!important;line-height:1.35!important}",
+".panel.catMobile .statCard .val{font-size:19px!important}",
 ".panel.catMobile .body{display:flex!important;flex-direction:column!important;padding:8px!important;gap:8px!important;min-height:0!important;overflow:auto!important;-webkit-overflow-scrolling:touch!important}",
-".panel.catMobile .side{width:100%!important;max-height:44vh!important;display:flex!important;flex-direction:column!important;gap:9px!important;padding:10px!important;overflow:auto!important;-webkit-overflow-scrolling:touch!important;order:0!important}",
-".panel.catMobile .mainbox{width:100%!important;min-height:52vh!important;overflow:hidden!important;order:1!important}",
-".panel.catMobile .side button,.panel.catMobile .side select,.panel.catMobile .side .htmlImport{min-height:42px!important;height:42px!important;font-size:13px!important}",
+".panel.catMobile .side{width:100%!important;max-height:40vh!important;display:grid!important;grid-template-columns:1fr 1fr!important;gap:7px!important;padding:8px!important;overflow:auto!important;-webkit-overflow-scrolling:touch!important}",
+".panel.catMobile .side button,.panel.catMobile .side select,.panel.catMobile .side input,.panel.catMobile .side .filePick{width:100%!important;min-width:0!important;height:40px!important;font-size:12px!important;padding:0 8px!important;border-radius:999px!important;white-space:nowrap!important;overflow:hidden!important;text-overflow:ellipsis!important}",
+".panel.catMobile .filePick input{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;opacity:0!important;padding:0!important;border:0!important}",
+".panel.catMobile .statusBox,.panel.catMobile .bar,.panel.catMobile .mini{grid-column:1 / -1!important}",
+".panel.catMobile .mainbox{width:100%!important;min-height:52vh!important;overflow:hidden!important}",
 ".panel.catMobile .inputArea{padding:8px!important}",
 ".panel.catMobile textarea#source{min-height:96px!important;max-height:28vh!important;font-size:16px!important}",
 ".panel.catMobile .tablewrap{overflow:auto!important;-webkit-overflow-scrolling:touch!important}",
 ".panel.catMobile .tablewrap table,.panel.catMobile .tablewrap thead,.panel.catMobile .tablewrap tbody,.panel.catMobile .tablewrap tr,.panel.catMobile .tablewrap th,.panel.catMobile .tablewrap td{display:block!important;width:100%!important}",
 ".panel.catMobile .tablewrap thead{display:none!important}",
-".panel.catMobile .tablewrap tr{border:1px solid rgba(5,66,118,.14)!important;border-radius:14px!important;margin:10px 0!important;overflow:hidden!important;background:#fff!important}",
-".panel.catMobile .tablewrap td{border-right:0!important;border-bottom:1px solid rgba(5,66,118,.08)!important;padding:10px!important;background:#fff!important}",
+".panel.catMobile .tablewrap tr{border:1px solid #dbe2ea!important;border-radius:14px!important;margin:10px 0!important;overflow:hidden!important;background:#fff!important}",
+".panel.catMobile .tablewrap td{border-right:0!important;border-bottom:1px solid #eef2f7!important;padding:10px!important;background:#fff!important}",
 ".panel.catMobile .tablewrap td::before{display:block!important;margin-bottom:5px!important;color:#64748b!important;font:900 11px 'Segoe UI',Tahoma,Arial!important;direction:ltr!important;text-align:left!important}",
-".panel.catMobile .tablewrap td.num::before{content:'#'}.panel.catMobile .tablewrap td.src::before{content:'Source Segment'}.panel.catMobile .tablewrap td.best::before{content:'Best Match'}.panel.catMobile .tablewrap td.match::before{content:'Match'}.panel.catMobile .tablewrap td.target::before{content:'Target Draft'}.panel.catMobile .tablewrap td.stat::before{content:'Status'}",
+".panel.catMobile .tablewrap td.num::before{content:'#'}",
+".panel.catMobile .tablewrap td.src::before{content:'Source Segment'}",
+".panel.catMobile .tablewrap td.best::before{content:'Best Match'}",
+".panel.catMobile .tablewrap td.match::before{content:'Match'}",
+".panel.catMobile .tablewrap td.target::before{content:'Target Draft'}",
+".panel.catMobile .tablewrap td.stat::before{content:'Status'}",
 ".panel.catMobile .targetDraft{min-height:78px!important;font-size:15px!important}",
-"@media (max-width:420px){.panel.catMobile .statCard{min-width:132px!important;flex-basis:132px!important}}",
+".panel.catMobile .fab{right:12px!important;bottom:12px!important;padding:12px 14px!important}",
+"@media (max-width:420px){.panel.catMobile .side{grid-template-columns:1fr!important}.panel.catMobile .statCard{min-width:132px!important;flex-basis:132px!important}}",
+
+".fab{display:none!important}",
+".side{padding:12px!important;display:flex!important;flex-direction:column!important;gap:12px!important;overflow:auto!important;background:#f8fafc!important}",
+".toolGroup{display:flex;flex-direction:column;gap:8px;padding:10px;border:1px solid #e5e7eb;border-radius:14px;background:#fff}",
+".toolSection{height:auto!important;min-height:0!important;border:0!important;background:transparent!important;color:#475569!important;font:900 12px Segoe UI,Tahoma,Arial!important;text-align:left!important;direction:ltr!important;padding:0 0 6px!important;margin:0 0 2px!important;border-bottom:1px solid #e5e7eb!important;letter-spacing:.2px}",
+".side button,.side select,.side .htmlImport{width:100%!important;min-height:36px!important;height:36px!important;border-radius:10px!important;font:800 12px Segoe UI,Tahoma,Arial!important;text-align:center!important}",
+".tmSelect{border:1px solid #d9e0ea!important;background:#fff!important;color:#111827!important;padding:0 8px!important;direction:ltr!important}",
+".saveTM{background:#0f766e!important;color:#fff!important;border-color:#0f766e!important}",
+".deleteTM{background:#991b1b!important;color:#fff!important;border-color:#991b1b!important}",
+".htmlImport{position:relative!important;display:flex!important;align-items:center!important;justify-content:center!important;border:1px solid #16a34a!important;background:#16a34a!important;color:#fff!important;cursor:pointer!important;overflow:hidden!important;direction:ltr!important}",
+".htmlImport input{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;opacity:0!important;cursor:pointer!important;font-size:0!important}",
+".panel.focusMode .dash,.panel.focusMode .side,.panel.focusMode .inputArea{display:none!important}",
+".panel.focusMode .body{display:block!important;padding:6px!important;overflow:hidden!important;flex:1!important;min-height:0!important}",
+".panel.focusMode .mainbox{width:100%!important;height:calc(100dvh - 58px)!important;min-height:0!important}",
+".panel.focusMode .tablewrap{height:100%!important;max-height:none!important;overflow:auto!important}",
+".panel.catMobile .side{display:flex!important;flex-direction:column!important;max-height:42vh!important;padding:10px!important}",
+".panel.catMobile .toolGroup{gap:8px!important;padding:9px!important}",
+".panel.catMobile .side button,.panel.catMobile .side select,.panel.catMobile .side .htmlImport{min-height:42px!important;height:42px!important;font-size:13px!important}",
 "</style>",
-"<button class='fab' id='fab'>CAT</button>",
+
+"<button class='fab' id='fab'>CAT V45 Pro</button>",
 "<section class='panel' id='panel'>",
-"<div class='top'><button class='close' id='close'>\u00d7</button><div class='topTools'><button class='iconBtn' id='focusMode' title='Show results only'>FOCUS</button><button class='iconBtn' id='toggleSourceIcon' title='Hide or show source'>SRC</button><button class='iconBtn' id='toggleHtmlIcon' title='Hide or show HTML page'>HTML</button></div><div class='title'>CAT Translation Memory V60</div></div>",
+"<div class='top'><button class='close' id='close'>x</button><div class='topTools'><button class='iconBtn' id='focusMode' title='Show results only'>FOCUS</button><button class='iconBtn' id='toggleSourceIcon' title='Hide or show source'>SRC</button><button class='iconBtn' id='toggleHtmlIcon' title='Hide or show HTML page'>HTML</button></div><div class='title'>CAT Translation Memory V59</div></div>",
+
 "<div class='dash'>",
 "<div class='statCard'><div class='lab'>\u0645\u0639\u062f\u0644 \u0627\u0644\u062a\u0637\u0627\u0628\u0642 \u0645\u0646 100</div><div class='val' id='avgStat'>0%</div></div>",
 "<div class='statCard'><div class='lab'>Segments</div><div class='val' id='segStat'>0</div></div>",
@@ -1824,55 +1840,65 @@ shadow.innerHTML = [
 "<div class='statCard'><div class='lab'>Needs Translation</div><div class='val' id='needsStat'>0</div></div>",
 "<div class='statCard'><div class='lab'>Needs Review</div><div class='val' id='reviewStat'>0</div></div>",
 "</div>",
+
 "<div class='body'>",
 "<aside class='side'>",
-"<details class='toolGroup' open><summary class='toolSection'>\u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629</summary><div class='toolInner'>",
-"<button class='online' id='loadOnlineJsonTM'>\u062a\u062d\u0645\u064a\u0644 \u0630\u0627\u0643\u0631\u0629 JSON \u0643\u0627\u0645\u0644\u0629</button>",
-"<label class='htmlImport' id='importHTMLLabel'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f HTML<input id='fileHTMLMemory' type='file' accept='.html,.htm,text/html'></label>",
-"<button id='importDOCX'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f Word DOCX</button>",
-"<button id='importDOCXZip'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f ZIP Word TM</button>",
-"<button id='importTMX'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f TMX</button>",
-"<select class='tmSelect' id='tmSelect' title='Saved Translation Memories'><option value=''>\u0645\u0643\u062a\u0628\u0629 \u0627\u0644\u0630\u0627\u0643\u0631\u0627\u062a</option></select>",
-"<button class='primary' id='loadSelectedTM'>\u062a\u062d\u0645\u064a\u0644 \u0627\u0644\u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u0645\u062d\u062f\u062f\u0629</button>",
-"<button class='saveTM' id='saveTM'>\u062d\u0641\u0638 \u0627\u0644\u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062d\u0627\u0644\u064a\u0629</button>",
-"<button class='deleteTM' id='deleteTM'>\u062d\u0630\u0641 \u0627\u0644\u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u0645\u062d\u062f\u062f\u0629</button>",
-"<button id='exportTMX'>\u062a\u0635\u062f\u064a\u0631 TMX</button>",
-"</div></details>",
-"<details class='toolGroup' open><summary class='toolSection'>\u0627\u0644\u0639\u0645\u0644 \u0648\u0627\u0644\u062a\u062d\u0644\u064a\u0644</summary><div class='toolInner'>",
-"<button class='green' id='build'>\u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0645\u0646 \u0627\u0644\u0635\u0641\u062d\u0629</button>",
-"<button class='primary' id='analyze'>\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0646\u0635</button>",
-"<button class='gold' id='acceptAll'>\u0627\u0639\u062a\u0645\u0627\u062f \u0623\u0641\u0636\u0644 \u0627\u0644\u0646\u062a\u0627\u0626\u062c</button>",
-"<button id='copy'>\u0646\u0633\u062e \u0645\u0633\u0648\u062f\u0629 \u0627\u0644\u0647\u062f\u0641</button>",
-"<button id='concordance'>\u0628\u062d\u062b \u0645\u0637\u0627\u0628\u0642 \u0641\u064a \u0627\u0644\u0630\u0627\u0643\u0631\u0629</button>",
+"<div class='toolGroup'>",
+"<div class='toolSection'>1. TM Library</div>",
+"<label class='htmlImport' id='importHTMLLabel'>Import HTML<input id='fileHTMLMemory' type='file' accept='.html,.htm,text/html'></label>",
+"<button id='importDOCX'>Import Word DOCX</button>",
+"<button id='importDOCXZip'>Import ZIP Word TM</button>",
+"<button id='importTMX'>Import TMX</button>",
+"<select class='tmSelect' id='tmSelect' title='Saved Translation Memories'><option value=''>TM Library</option></select>",
+"<button class='primary' id='loadSelectedTM'>Load Selected TM</button>",
+"<button class='saveTM' id='saveTM'>Save Current TM</button>",
+"<button class='deleteTM' id='deleteTM'>Delete Selected TM</button>",
+"<button id='exportTMX'>Export TMX</button>",
+"</div>",
+"<div class='toolGroup'>",
+"<div class='toolSection'>2. Search & Work</div>",
+"<button class='green' id='build'>Build TM from Page</button>",
+"<button class='primary' id='analyze'>Analyze Text</button>",
+"<button class='gold' id='acceptAll'>Accept Best</button>",
+"<button id='copy'>Copy Target Draft</button>",
+"<button id='concordance'>Concordance Search</button>",
 "<input id='concordQ' placeholder='Search in TM...' style='padding:0 8px'>",
-"<button id='clear'>\u0645\u0633\u062d \u0627\u0644\u0646\u062a\u0627\u0626\u062c</button>",
-"<button class='red' id='stop'>\u0625\u064a\u0642\u0627\u0641</button>",
-"<select id='slang'><option value='auto'>\u062a\u062d\u062f\u064a\u062f \u062a\u0644\u0642\u0627\u0626\u064a</option><option value='ar'>\u0639\u0631\u0628\u064a \u0625\u0644\u0649 \u0625\u0646\u062c\u0644\u064a\u0632\u064a</option><option value='en'>\u0625\u0646\u062c\u0644\u064a\u0632\u064a \u0625\u0644\u0649 \u0639\u0631\u0628\u064a</option></select>",
-"</div></details>",
-"<details class='toolGroup'><summary class='toolSection'>\u0627\u0644\u0645\u0635\u0637\u0644\u062d\u0627\u062a \u0648\u0627\u0644\u062a\u0635\u062f\u064a\u0631</summary><div class='toolInner'>",
-"<button id='importTerms'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f \u0645\u0635\u0637\u0644\u062d\u0627\u062a CSV</button>",
-"<button id='exportXLIFF'>\u062a\u0635\u062f\u064a\u0631 XLIFF</button>",
-"<button id='saveProject'>\u062d\u0641\u0638 \u0627\u0644\u0645\u0634\u0631\u0648\u0639 JSON</button>",
-"<button id='loadProject'>\u0641\u062a\u062d \u0645\u0634\u0631\u0648\u0639 JSON</button>",
-"<button id='report'>\u062a\u0642\u0631\u064a\u0631 HTML</button>",
+"<button id='clear'>Clear Results</button>",
+"<button class='red' id='stop'>Stop</button>",
+"<select id='slang'><option value='auto'>Auto</option><option value='ar'>Arabic to English</option><option value='en'>English to Arabic</option></select>",
+"</div>",
+"<div class='toolGroup'>",
+"<div class='toolSection'>3. Terms / Export / Project</div>",
+"<button id='importTerms'>Import Terms CSV</button>",
+"<button id='exportXLIFF'>Export XLIFF</button>",
+"<button id='saveProject'>Save Project JSON</button>",
+"<button id='loadProject'>Open Project JSON</button>",
+"<button id='report'>HTML Report</button>",
 "<button id='word'>Word A3 + Track Changes</button>",
 "<button id='wordSameFormat'>Same-format DOCX</button>",
-"</div></details>",
+"</div>",
 "<div class='bar'><div class='fill' id='fill'></div></div>",
-"<div class='statusBox' id='status'>\u062c\u0627\u0647\u0632. \u062d\u0645\u0651\u0644 \u0630\u0627\u0643\u0631\u0629 JSON \u0623\u0648 \u0627\u0633\u062a\u0648\u0631\u062f \u0645\u0644\u0641\u064b\u0627.</div>",
-"<div class='mini'>Online JSON TM \u00b7 Local IndexedDB \u00b7 Browser CAT</div>",
+"<div class='statusBox' id='status'>Ready. Import HTML or choose a saved TM.</div>",
+"<div class='mini'>Local only Â· Persistent TM Library Â· No network</div>",
 "</aside>",
+
 "<main class='mainbox'>",
 "<div class='inputArea'><textarea id='source' placeholder='\u0623\u0644\u0635\u0642 \u0647\u0646\u0627 \u0627\u0644\u0646\u0635 \u0627\u0644\u0639\u0631\u0628\u064a \u0623\u0648 \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a \u0627\u0644\u0645\u0631\u0627\u062f \u062a\u062d\u0644\u064a\u0644\u0647...'></textarea></div>",
-"<div class='tablewrap'><table><thead><tr><th class='num'>#</th><th class='src'>Source Segment</th><th class='best'>Best Match</th><th class='match'>Match</th><th class='target'>Target Draft</th><th class='stat'>Status</th></tr></thead><tbody id='res'><tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>\u0644\u0627 \u062a\u0648\u062c\u062f \u0646\u062a\u0627\u0626\u062c \u0628\u0639\u062f.</td></tr></tbody></table></div>",
+"<div class='tablewrap'>",
+"<table>",
+"<thead><tr><th class='num'>#</th><th class='src'>Source Segment</th><th class='best'>Best Match</th><th class='match'>Match</th><th class='target'>Target Draft</th><th class='stat'>Status</th></tr></thead>",
+"<tbody id='res'><tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>\u0644\u0627 \u062a\u0648\u062c\u062f \u0646\u062a\u0627\u0626\u062c \u0628\u0639\u062f.</td></tr></tbody>",
+"</table>",
+"</div>",
 "</main>",
 "</div>",
+
 "<input class='hiddenFile' id='fileDOCX' type='file' accept='.docx,application/vnd.openxmlformats-officedocument.wordprocessingml.document'>",
 "<input class='hiddenFile' id='fileDOCXZip' type='file' accept='.zip,application/zip,application/x-zip-compressed'>",
 "<input class='hiddenFile' id='fileTerms' type='file' accept='.csv,.txt'>",
 "<input class='hiddenFile' id='fileTMX' type='file' accept='.tmx,.xml,.txt'>",
 "<input class='hiddenFile' id='fileProject' type='file' accept='.json'>",
-"</section>",
+"</section>"
 ].join("");
 
 var $ = function (s) { return shadow.querySelector(s); };
@@ -1910,7 +1936,7 @@ var b = document.createElement("button");
 b.id = APP.hostId + "-open-btn";
 b.type = "button";
 b.textContent = "OPEN CAT";
-b.style.cssText = "position:fixed;right:18px;bottom:18px;z-index:2147483647;height:46px;min-width:128px;padding:0 18px;border:0;border-radius:999px;background:#0A9D76;color:#fff;font:800 14px Segoe UI,Tahoma,Arial;box-shadow:0 14px 36px rgba(10,157,118,.35);cursor:pointer;direction:ltr";
+b.style.cssText = "position:fixed;right:18px;bottom:18px;z-index:2147483647;height:46px;min-width:128px;padding:0 18px;border:0;border-radius:999px;background:#2563eb;color:#fff;font:800 14px Segoe UI,Tahoma,Arial;box-shadow:0 14px 36px rgba(37,99,235,.35);cursor:pointer;direction:ltr";
 b.onclick = function (ev) { try { ev.preventDefault(); ev.stopPropagation(); } catch (e) {} open(); };
 document.body.appendChild(b);
 return b;
@@ -2138,10 +2164,6 @@ setHtmlHidden(false);
 $("#build").onclick = function () { APP.stop = false; buildMemory(ui); };
 $("#analyze").onclick = analyze;
 $("#stop").onclick = function () { APP.stop = true; ui.status("\u062c\u0627\u0631\u064a \u0627\u0644\u0625\u064a\u0642\u0627\u0641..."); };
-var onlineJsonBtn = $("#loadOnlineJsonTM");
-if (onlineJsonBtn) {
-onlineJsonBtn.onclick = function () { catLoadFullOnlineJsonTm(ui); };
-}
 
 $("#acceptAll").onclick = function () {
 APP.results.forEach(function (r) {
@@ -2417,147 +2439,173 @@ updateStats();
 syncOpenButton();
 }
 
+
 /* =========================================================
-   CAT Online JSON TM Loader - Clean Integrated Version
-   - No floating test boxes
-   - Loads tm_index.json from /db/
-   - Loads tm_0001.json ... from site root /
+   CAT Online JSON TM Full Loader
+   Loads all JSON chunks into the active CAT memory
    ========================================================= */
 
-async function catFetchJson(url) {
-var res = await fetch(url, { cache: "no-store" });
-if (!res.ok) throw new Error("\u0641\u0634\u0644 \u062a\u062d\u0645\u064a\u0644 \u0627\u0644\u0645\u0644\u0641: " + url + " | HTTP " + res.status);
-return await res.json();
+function catOnlineJsonTmLoadBox() {
+  if (document.getElementById("catOnlineTmFullLoadBox")) return;
+
+  var box = document.createElement("div");
+  box.id = "catOnlineTmFullLoadBox";
+  box.style.cssText = [
+    "position:fixed",
+    "left:18px",
+    "bottom:132px",
+    "z-index:2147483647",
+    "background:#ffffff",
+    "border:1px solid #d0d7de",
+    "border-radius:14px",
+    "box-shadow:0 8px 24px rgba(0,0,0,.18)",
+    "padding:12px",
+    "font-family:Tahoma,Arial,sans-serif",
+    "direction:rtl",
+    "width:300px",
+    "color:#111827"
+  ].join(";");
+
+  box.innerHTML = [
+    "<button id='catOnlineTmFullLoadBtn' style='",
+    "width:100%;border:0;border-radius:10px;padding:10px;",
+    "background:#0F8F4F;color:white;font-weight:700;",
+    "cursor:pointer;font-size:14px;'>",
+    "ØªØ­ÙÙÙ Ø°Ø§ÙØ±Ø© JSON ÙØ§ÙÙØ©",
+    "</button>",
+    "<div id='catOnlineTmFullLoadStatus' style='",
+    "margin-top:10px;font-size:13px;line-height:1.7;",
+    "color:#374151;white-space:pre-line;word-break:break-word;'>",
+    "ÙÙ ÙØªÙ ØªØ­ÙÙÙ Ø§ÙØ°Ø§ÙØ±Ø© Ø¨Ø¹Ø¯.",
+    "</div>"
+  ].join("");
+
+  document.body.appendChild(box);
+
+  document
+    .getElementById("catOnlineTmFullLoadBtn")
+    .addEventListener("click", catLoadFullOnlineJsonTm);
 }
 
-async function catLoadFullOnlineJsonTm(ui) {
-try {
-var indexBase = location.origin + "/db/";
-var chunkBase = location.origin + "/";
-var indexUrl = indexBase + "tm_index.json?v=" + Date.now();
-if (ui) { ui.status("\u062c\u0627\u0631\u064a \u062a\u062d\u0645\u064a\u0644 \u0641\u0647\u0631\u0633 \u0630\u0627\u0643\u0631\u0629 JSON..."); ui.progress(0, 1); }
-var index = await catFetchJson(indexUrl);
-if (!index || !Array.isArray(index.chunks) || !index.chunks.length) throw new Error("\u0645\u0644\u0641 tm_index.json \u0644\u0627 \u064a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u0642\u0627\u0626\u0645\u0629 chunks.");
-resetMemory();
-APP.stop = false;
-var totalChunks = index.chunks.length;
-var added = 0;
-var skipped = 0;
-for (var i = 0; i < totalChunks; i++) {
-if (APP.stop) { if (ui) ui.status("\u062a\u0645 \u0625\u064a\u0642\u0627\u0641 \u062a\u062d\u0645\u064a\u0644 \u0630\u0627\u0643\u0631\u0629 JSON."); break; }
-var chunkInfo = index.chunks[i] || {};
-var fileName = chunkInfo.file || "";
-if (!fileName) { skipped++; continue; }
-if (ui) {
-ui.status("\u062c\u0627\u0631\u064a \u062a\u062d\u0645\u064a\u0644 \u0630\u0627\u0643\u0631\u0629 JSON..." + "\n" + "\u0627\u0644\u0645\u0644\u0641: " + fileName + "
-" + "\u0627\u0644\u062a\u0642\u062f\u0645: " + asc(i + 1) + " / " + asc(totalChunks) + "
-" + "\u0627\u0644\u0645\u0642\u0627\u0637\u0639 \u0627\u0644\u0645\u0636\u0627\u0641\u0629: " + asc(added));
-ui.progress(i, totalChunks);
+function catOnlineTmFullStatus(msg) {
+  var el = document.getElementById("catOnlineTmFullLoadStatus");
+  if (el) el.textContent = msg;
 }
-var items = await catFetchJson(chunkBase + fileName + "?v=" + Date.now());
-if (Array.isArray(items)) {
-for (var j = 0; j < items.length; j++) {
-var it = items[j] || {};
-var ar = it.source_ar || it.ar || "";
-var en = it.target_en || it.en || "";
-var before = APP.tus.length;
-addTU(ar, en, -1, "online-json:" + fileName);
-if (APP.tus.length > before) added++;
-else skipped++;
+
+async function catLoadJsonFile(url) {
+  var res = await fetch(url, { cache: "no-store" });
+  if (!res.ok) throw new Error("ÙØ´Ù ØªØ­ÙÙÙ: " + url + " | HTTP " + res.status);
+  return await res.json();
 }
+
+async function catLoadFullOnlineJsonTm() {
+  try {
+    var btn = document.getElementById("catOnlineTmFullLoadBtn");
+    if (btn) {
+      btn.disabled = true;
+      btn.textContent = "Ø¬Ø§Ø±Ù Ø§ÙØªØ­ÙÙÙ...";
+      btn.style.opacity = "0.7";
+    }
+
+    catOnlineTmFullStatus("Ø¬Ø§Ø±Ù ØªØ­ÙÙÙ ÙÙØ±Ø³ Ø°Ø§ÙØ±Ø© Ø§ÙØªØ±Ø¬ÙØ©...");
+
+    var indexBase = location.origin + "/db/";
+    var chunkBase = location.origin + "/";
+
+    var index = await catLoadJsonFile(indexBase + "tm_index.json?v=" + Date.now());
+
+    if (!index || !Array.isArray(index.chunks) || !index.chunks.length) {
+      throw new Error("ÙÙÙ tm_index.json ÙØ§ ÙØ­ØªÙÙ Ø¹ÙÙ ÙØ§Ø¦ÙØ© chunks.");
+    }
+
+    resetMemory();
+
+    var totalChunks = index.chunks.length;
+    var added = 0;
+    var skipped = 0;
+
+    for (var i = 0; i < totalChunks; i++) {
+      var chunkInfo = index.chunks[i];
+      var fileName = chunkInfo.file;
+      var url = chunkBase + fileName + "?v=" + Date.now();
+
+      catOnlineTmFullStatus(
+        "Ø¬Ø§Ø±Ù ØªØ­ÙÙÙ Ø§ÙØ°Ø§ÙØ±Ø©...\n" +
+        "Ø§ÙÙÙÙ: " + fileName + "\n" +
+        "Ø§ÙØªÙØ¯Ù: " + asc(i + 1) + " / " + asc(totalChunks) + "\n" +
+        "Ø§ÙÙÙØ§Ø·Ø¹ Ø§ÙÙØ¶Ø§ÙØ©: " + asc(added)
+      );
+
+      var items = await catLoadJsonFile(url);
+
+      if (Array.isArray(items)) {
+        for (var j = 0; j < items.length; j++) {
+          var it = items[j] || {};
+          var ar = it.source_ar || it.ar || "";
+          var en = it.target_en || it.en || "";
+
+          var before = APP.tus.length;
+          addTU(ar, en, -1, "online-json:" + fileName);
+
+          if (APP.tus.length > before) added++;
+          else skipped++;
+        }
+      }
+
+      if (i % 10 === 0) {
+        await new Promise(function (resolve) { setTimeout(resolve, 1); });
+      }
+    }
+
+    APP.built = APP.tus.length > 0;
+    APP.activeMemoryId = "online-json";
+    APP.activeMemoryName = "Online JSON TM";
+
+    catOnlineTmFullStatus(
+      "ØªÙ ØªØ­ÙÙÙ Ø°Ø§ÙØ±Ø© JSON Ø¨ÙØ¬Ø§Ø­ â\n" +
+      "Ø¥Ø¬ÙØ§ÙÙ ÙÙÙØ§Øª Ø§ÙØ°Ø§ÙØ±Ø©: " + asc(totalChunks) + "\n" +
+      "Ø¥Ø¬ÙØ§ÙÙ Ø§ÙÙÙØ§Ø·Ø¹ ÙÙ Ø§ÙÙÙØ±Ø³: " + asc(index.total_segments || "") + "\n" +
+      "Ø§ÙÙÙØ§Ø·Ø¹ Ø§ÙÙØ¶Ø§ÙØ© ÙØ¹ÙÙÙØ§: " + asc(added) + "\n" +
+      "Ø§ÙÙÙØ±Ø±Ø©/Ø§ÙÙØªØ¬Ø§ÙÙØ©: " + asc(skipped) + "\n" +
+      "Ø¥Ø¬ÙØ§ÙÙ Ø§ÙØ°Ø§ÙØ±Ø© Ø§ÙÙØ´Ø·Ø©: " + asc(APP.tus.length)
+    );
+
+    try {
+      console.log("CAT Online JSON TM loaded:", {
+        index: index,
+        added: added,
+        skipped: skipped,
+        activeTus: APP.tus.length
+      });
+    } catch (e) {}
+
+  } catch (err) {
+    console.error(err);
+    catOnlineTmFullStatus("ÙØ´Ù ØªØ­ÙÙÙ Ø§ÙØ°Ø§ÙØ±Ø© â\n" + err.message);
+  } finally {
+    var btn = document.getElementById("catOnlineTmFullLoadBtn");
+    if (btn) {
+      btn.disabled = false;
+      btn.textContent = "ØªØ­ÙÙÙ Ø°Ø§ÙØ±Ø© JSON ÙØ§ÙÙØ©";
+      btn.style.opacity = "1";
+    }
+  }
 }
-if (i % 10 === 0) await new Promise(function (resolve) { setTimeout(resolve, 1); });
-}
-APP.built = APP.tus.length > 0;
-APP.activeMemoryId = "online-json";
-APP.activeMemoryName = "Online JSON TM";
-if (ui) {
-ui.progress(totalChunks, totalChunks);
-ui.status("\u062a\u0645 \u062a\u062d\u0645\u064a\u0644 \u0630\u0627\u0643\u0631\u0629 JSON \u0628\u0646\u062c\u0627\u062d \u2705" + "\n" + "\u0625\u062c\u0645\u0627\u0644\u064a \u0645\u0644\u0641\u0627\u062a \u0627\u0644\u0630\u0627\u0643\u0631\u0629: " + asc(totalChunks) + "
-" + "\u0625\u062c\u0645\u0627\u0644\u064a \u0627\u0644\u0645\u0642\u0627\u0637\u0639 \u0641\u064a \u0627\u0644\u0641\u0647\u0631\u0633: " + asc(index.total_segments || "") + "
-" + "\u0627\u0644\u0645\u0642\u0627\u0637\u0639 \u0627\u0644\u0645\u0636\u0627\u0641\u0629 \u0641\u0639\u0644\u064a\u064b\u0627: " + asc(added) + "
-" + "\u0627\u0644\u0645\u0643\u0631\u0631\u0629/\u0627\u0644\u0645\u062a\u062c\u0627\u0647\u0644\u0629: " + asc(skipped) + "
-" + "\u0625\u062c\u0645\u0627\u0644\u064a \u0627\u0644\u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u0646\u0634\u0637\u0629: " + asc(APP.tus.length));
-}
-try { console.log("CAT Online JSON TM loaded", { index: index, added: added, skipped: skipped, activeTus: APP.tus.length }); } catch (e) {}
-} catch (err) {
-console.error(err);
-if (ui) { ui.status("\u0641\u0634\u0644 \u062a\u062d\u0645\u064a\u0644 \u0630\u0627\u0643\u0631\u0629 JSON \u274c" + "\n" + (err && err.message ? err.message : err)); ui.progress(0, 1); }
-}
-}
+
+ready(catOnlineJsonTmLoadBox);
 
 ready(function () {
 try { initUI(); }
-catch (e) { alert("CAT V60 error: " + (e && e.message ? e.message : e)); }
+catch (e) { alert("CAT V45 Professional error: " + (e && e.message ? e.message : e)); }
 });
 })();
 /* =========================================================
-   V61 Emergency OPEN CAT Button Fix
-   Restores visible OPEN CAT button on mobile/desktop
+   CAT Online JSON TM Loader - Test Layer
+   Loads /db/tm_index.json and first JSON chunk from Vercel
    ========================================================= */
 (function () {
-  if (window.__CAT_FORCE_OPEN_BUTTON_V61__) return;
-  window.__CAT_FORCE_OPEN_BUTTON_V61__ = true;
-
-  function openCATNow(ev) {
-    try {
-      if (ev) {
-        ev.preventDefault();
-        ev.stopPropagation();
-      }
-    } catch (e) {}
-
-    try {
-      if (typeof window.openCATTool === "function") {
-        window.openCATTool();
-        return;
-      }
-    } catch (e) {}
-
-    try {
-      window.dispatchEvent(new CustomEvent("CAT_V45_PRO_OPEN"));
-    } catch (e) {}
-
-    try {
-      window.dispatchEvent(new Event("CAT_V45_PRO_OPEN"));
-    } catch (e) {}
-  }
-
-  function ensureButton() {
-    var old = document.getElementById("cat-v61-emergency-open-cat");
-    if (old) old.remove();
-
-    var btn = document.createElement("button");
-    btn.id = "cat-v61-emergency-open-cat";
-    btn.type = "button";
-    btn.textContent = "OPEN CAT";
-
-    var isMobile =
-      (window.innerWidth || document.documentElement.clientWidth || 0) <= 900 ||
-      /Android|iPhone|iPad|iPod|Mobile/i.test(navigator.userAgent || "");
-
-    btn.style.cssText = [
-      "position:fixed",
-      "right:18px",
-      "bottom:" + (isMobile ? "92px" : "22px"),
-      "z-index:2147483647",
-      "height:52px",
-      "min-width:148px",
-      "padding:0 22px",
-      "border:0",
-      "border-radius:999px",
-      "background:#2563eb",
-      "color:#ffffff",
-      "font:900 15px Segoe UI,Tahoma,Arial,sans-serif",
-      "box-shadow:0 14px 36px rgba(37,99,235,.35)",
-      "cursor:pointer",
-      "direction:ltr",
-      "letter-spacing:.4px"
-    ].join(";");
-
-    btn.onclick = openCATNow;
-    document.body.appendChild(btn);
-  }
+  if (window.__CAT_ONLINE_JSON_TM_TEST__) return;
+  window.__CAT_ONLINE_JSON_TM_TEST__ = true;
 
   function ready(fn) {
     if (document.readyState === "loading") {
@@ -2567,12 +2615,112 @@ catch (e) { alert("CAT V60 error: " + (e && e.message ? e.message : e)); }
     }
   }
 
-  ready(function () {
-    ensureButton();
-    setTimeout(ensureButton, 800);
-    setTimeout(ensureButton, 2000);
-  });
+  function makeBox() {
+    if (document.getElementById("catOnlineTmTestBox")) return;
 
-  window.addEventListener("resize", ensureButton);
-  window.addEventListener("orientationchange", ensureButton);
+    const box = document.createElement("div");
+    box.id = "catOnlineTmTestBox";
+    box.style.cssText = `
+      position: fixed;
+      left: 18px;
+      bottom: 18px;
+      z-index: 2147483647;
+      background: #ffffff;
+      border: 1px solid #d0d7de;
+      border-radius: 14px;
+      box-shadow: 0 8px 24px rgba(0,0,0,.18);
+      padding: 12px;
+      font-family: Tahoma, Arial, sans-serif;
+      direction: rtl;
+      width: 280px;
+      color: #111827;
+    `;
+
+    box.innerHTML = `
+      <button id="catOnlineTmTestBtn" style="
+        width:100%;
+        border:0;
+        border-radius:10px;
+        padding:10px;
+        background:#0F8F4F;
+        color:white;
+        font-weight:700;
+        cursor:pointer;
+        font-size:14px;
+      ">Ø§Ø®ØªØ¨Ø§Ø± Ø°Ø§ÙØ±Ø© JSON</button>
+      <div id="catOnlineTmTestStatus" style="
+        margin-top:10px;
+        font-size:13px;
+        line-height:1.7;
+        color:#374151;
+        word-break:break-word;
+        white-space:pre-line;
+      ">ÙÙ ÙØªÙ Ø§ÙØ§Ø®ØªØ¨Ø§Ø± Ø¨Ø¹Ø¯.</div>
+    `;
+
+    document.body.appendChild(box);
+
+    document
+      .getElementById("catOnlineTmTestBtn")
+      .addEventListener("click", loadOnlineJsonTmTest);
+  }
+
+  function setStatus(msg) {
+    const el = document.getElementById("catOnlineTmTestStatus");
+    if (el) el.textContent = msg;
+  }
+
+  async function loadJson(url) {
+    const res = await fetch(url, { cache: "no-store" });
+    if (!res.ok) {
+      throw new Error("ÙØ´Ù ØªØ­ÙÙÙ: " + url + " | HTTP " + res.status);
+    }
+    return await res.json();
+  }
+
+  async function loadOnlineJsonTmTest() {
+    try {
+      setStatus("Ø¬Ø§Ø±Ù ØªØ­ÙÙÙ ÙÙØ±Ø³ Ø§ÙØ°Ø§ÙØ±Ø©...");
+
+      const indexBase = location.origin + "/db/";
+      const chunkBase = location.origin + "/";
+      const indexUrl = indexBase + "tm_index.json?v=" + Date.now();
+
+      const index = await loadJson(indexUrl);
+
+      if (!index || !Array.isArray(index.chunks) || !index.chunks.length) {
+        throw new Error("ÙÙÙ tm_index.json ÙØ§ ÙØ­ØªÙÙ Ø¹ÙÙ chunks.");
+      }
+
+      const firstChunkName = index.chunks[0].file;
+      const firstChunkUrl = chunkBase + firstChunkName + "?v=" + Date.now();
+
+      setStatus("ØªÙ ØªØ­ÙÙÙ Ø§ÙÙÙØ±Ø³. Ø¬Ø§Ø±Ù ØªØ­ÙÙÙ Ø£ÙÙ ÙÙÙ: " + firstChunkName);
+
+      const firstChunk = await loadJson(firstChunkUrl);
+
+      window.CAT_ONLINE_JSON_TM = {
+        index,
+        firstChunk,
+        indexBase,
+        chunkBase
+      };
+
+      setStatus(
+        "ÙØ¬Ø­ Ø§ÙØ§Ø®ØªØ¨Ø§Ø± â\n" +
+        "Ø¥Ø¬ÙØ§ÙÙ Ø§ÙÙÙØ§Ø·Ø¹: " + index.total_segments + "\n" +
+        "Ø¹Ø¯Ø¯ ÙÙÙØ§Øª Ø§ÙØ°Ø§ÙØ±Ø©: " + index.chunks.length + "\n" +
+        "Ø£ÙÙ ÙÙÙ: " + firstChunkName + "\n" +
+        "ÙÙØ§Ø·Ø¹ Ø£ÙÙ ÙÙÙ: " + firstChunk.length
+      );
+
+      console.log("CAT_ONLINE_JSON_TM:", window.CAT_ONLINE_JSON_TM);
+
+    } catch (err) {
+      console.error(err);
+      setStatus("ÙØ´Ù Ø§ÙØ§Ø®ØªØ¨Ø§Ø± â\n" + err.message);
+    }
+  }
+
+  ready(makeBox);
 })();
