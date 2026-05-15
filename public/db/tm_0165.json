@@ -1,0 +1,802 @@
+[
+  {
+    "id": 16401,
+    "source_ar": "يكون للمدينة مجلس إدارة برئاسة الوزير، وعضوية كل من:",
+    "target_en": "The City shall have a board of directors comprising the Minister, as chairman, and the following members:",
+    "source_ar_norm": "يكون للمدينة مجلس ادارة برئاسة الوزير، وعضوية كل من:",
+    "target_en_norm": "the city shall have a board of directors comprising the minister, as chairman, and the following members:",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16402,
+    "source_ar": "ممثل من وزارة الطاقة.",
+    "target_en": "A representative from the Ministry of Energy.",
+    "source_ar_norm": "ممثل من وزارة الطاقة.",
+    "target_en_norm": "a representative from the ministry of energy.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16403,
+    "source_ar": "ممثل من وزارة الخارجية.",
+    "target_en": "A representative from the Ministry of Foreign Affairs.",
+    "source_ar_norm": "ممثل من وزارة الخارجية.",
+    "target_en_norm": "a representative from the ministry of foreign affairs.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16404,
+    "source_ar": "ممثل من وزارة التجارة.",
+    "target_en": "A representative from the Ministry of Commerce.",
+    "source_ar_norm": "ممثل من وزارة التجارة.",
+    "target_en_norm": "a representative from the ministry of commerce.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16405,
+    "source_ar": "ممثل من وزارة الصحة.",
+    "target_en": "A representative from the Ministry of Health.",
+    "source_ar_norm": "ممثل من وزارة الصحة.",
+    "target_en_norm": "a representative from the ministry of health.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16406,
+    "source_ar": "ممثل من وزارة البيئة والمياه والزراعة.",
+    "target_en": "A representative from the Ministry of Environment, Water, and Agriculture.",
+    "source_ar_norm": "ممثل من وزارة البيئة والمياه والزراعة.",
+    "target_en_norm": "a representative from the ministry of environment, water, and agriculture.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16407,
+    "source_ar": "ممثل من وزارة المالية.",
+    "target_en": "A representative from the Ministry of Finance.",
+    "source_ar_norm": "ممثل من وزارة المالية.",
+    "target_en_norm": "a representative from the ministry of finance.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16408,
+    "source_ar": "ممثل من وزارة التعليم.",
+    "target_en": "A representative from the Ministry of Education.",
+    "source_ar_norm": "ممثل من وزارة التعليم.",
+    "target_en_norm": "a representative from the ministry of education.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16409,
+    "source_ar": "ممثل من وزارة الصناعة والثروة المعدنية.",
+    "target_en": "A representative from the Ministry of Industry and Mineral Resources.",
+    "source_ar_norm": "ممثل من وزارة الصناعة والثروة المعدنية.",
+    "target_en_norm": "a representative from the ministry of industry and mineral resources.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16410,
+    "source_ar": "ممثل من هيئة تنمية البحث والتطوير والابتكار.",
+    "target_en": "A representative from the Research, Development, and Innovation Authority.",
+    "source_ar_norm": "ممثل من هيئة تنمية البحث والتطوير والابتكار.",
+    "target_en_norm": "a representative from the research, development, and innovation authority.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16411,
+    "source_ar": "ممثل من مركز الأمن الوطني.",
+    "target_en": "A representative from the National Security Center.",
+    "source_ar_norm": "ممثل من مركز الامن الوطني.",
+    "target_en_norm": "a representative from the national security center.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16412,
+    "source_ar": "ممثل من مدينة الملك عبدالعزيز للعلوم والتقنية.",
+    "target_en": "A representative from King Abdulaziz City for Science and Technology.",
+    "source_ar_norm": "ممثل من مدينة الملك عبدالعزيز للعلوم والتقنية.",
+    "target_en_norm": "a representative from king abdulaziz city for science and technology.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16413,
+    "source_ar": "الرئيس التنفيذي.",
+    "target_en": "The CEO.",
+    "source_ar_norm": "الرئيس التنفيذي.",
+    "target_en_norm": "the ceo.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16414,
+    "source_ar": "ويجب ألا تقل مرتبة ممثلي الأجهزة الحكومية عن المرتبة (الرابعة عشرة) أو ما يعادلها.",
+    "target_en": "Representatives of government agencies shall be of a rank not lower than grade “Fourteen” or its equivalent.",
+    "source_ar_norm": "ويجب الا تقل مرتبة ممثلي الاجهزة الحكومية عن المرتبة (الرابعة عشرة) او ما يعادلها.",
+    "target_en_norm": "representatives of government agencies shall be of a rank not lower than grade “fourteen” or its equivalent.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16415,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article 6",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16416,
+    "source_ar": "يعد المجلس السلطة العليا على شؤون المدينة وتصريف أمورها، وله في حدود التنظيم اتخاذ ما يراه مناسباً من القرارات والإجراءات اللازمة لتحقيق أهدافها، وله على وجه خاص ما يأتي:",
+    "target_en": "The Board shall be the City’s highest authority. It shall oversee the City’s affairs, and may, within the limits of this Statute, make the decisions and implement the procedures it deems appropriate to achieve the City’s objectives, particularly the following:",
+    "source_ar_norm": "يعد المجلس السلطة العليا علي شؤون المدينة وتصريف امورها، وله في حدود التنظيم اتخاذ ما يراه مناسبا من القرارات والاجراءات اللازمة لتحقيق اهدافها، وله علي وجه خاص ما ياتي:",
+    "target_en_norm": "the board shall be the city’s highest authority. it shall oversee the city’s affairs, and may, within the limits of this statute, make the decisions and implement the procedures it deems appropriate to achieve the city’s objectives, particularly the following:",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16417,
+    "source_ar": "إقرار السياسات العامة لأنشطة المدينة، وإقرار الخطط والبرامج اللازمة لتنفيذها، والرفع عما يستلزم استكمال إجراءات في شأنه.",
+    "target_en": "Approving the general policies for the activities of the City as well as the plans and programs necessary for their implementation, and submitting the same for completion of required procedures.",
+    "source_ar_norm": "اقرار السياسات العامة لانشطة المدينة، واقرار الخطط والبرامج اللازمة لتنفيذها، والرفع عما يستلزم استكمال اجراءات في شانه.",
+    "target_en_norm": "approving the general policies for the activities of the city as well as the plans and programs necessary for their implementation, and submitting the same for completion of required procedures.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16418,
+    "source_ar": "إقرار لوائح المدينة المالية والإدارية، وغيرها من اللوائح الداخلية، على أن يكون إقرار اللوائح الإدارية بالاتفاق مع وزارة الموارد البشرية والتنمية الاجتماعية، وإقرار اللوائح المالية والأحكام ذات الأثر المالي في اللوائح الإدارية بالاتفاق مع وزارة المالية.",
+    "target_en": "Approving the City's financial and administrative regulations as well as other internal regulations, provided that approval of the administrative regulations is made in agreement with the Ministry of Human Resources and Social Development, and approval of the financial regulations and the provisions with financial impact in the administrative regulations is made in agreement with the Ministry of Finance.",
+    "source_ar_norm": "اقرار لوائح المدينة المالية والادارية، وغيرها من اللوائح الداخلية، علي ان يكون اقرار اللوائح الادارية بالاتفاق مع وزارة الموارد البشرية والتنمية الاجتماعية، واقرار اللوائح المالية والاحكام ذات الاثر المالي في اللوائح الادارية بالاتفاق مع وزارة المالية.",
+    "target_en_norm": "approving the city's financial and administrative regulations as well as other internal regulations, provided that approval of the administrative regulations is made in agreement with the ministry of human resources and social development, and approval of the financial regulations and the provisions with financial impact in the administrative regulations is made in agreement with the ministry of finance.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16419,
+    "source_ar": "إقرار الهيكل التنظيمي للمدينة.",
+    "target_en": "Approving the City's organizational structure.",
+    "source_ar_norm": "اقرار الهيكل التنظيمي للمدينة.",
+    "target_en_norm": "approving the city's organizational structure.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16420,
+    "source_ar": "تحديد المقابل المالي لما تقدمه المدينة من خدمات وأعمال في مجال اختصاصها، بما لا يخالف الأنظمة والتعليمات.",
+    "target_en": "Determining the fees for relevant services and activities provided by the City, in a manner which is not inconsistent with laws and instructions.",
+    "source_ar_norm": "تحديد المقابل المالي لما تقدمه المدينة من خدمات واعمال في مجال اختصاصها، بما لا يخالف الانظمة والتعليمات.",
+    "target_en_norm": "determining the fees for relevant services and activities provided by the city, in a manner which is not inconsistent with laws and instructions.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16421,
+    "source_ar": "الموافقة على مشروع ميزانية المدينة السنوية، وحسابها الختامي، وتقرير مراجع الحسابات، والتقرير السنوي، تمهيداً لاستكمال ما يلزم في شأنها.",
+    "target_en": "Approving the City's draft annual budget, final accounts, and annual report as well as the auditor's report, in preparation for completion of necessary action.",
+    "source_ar_norm": "الموافقة علي مشروع ميزانية المدينة السنوية، وحسابها الختامي، وتقرير مراجع الحسابات، والتقرير السنوي، تمهيدا لاستكمال ما يلزم في شانها.",
+    "target_en_norm": "approving the city's draft annual budget, final accounts, and annual report as well as the auditor's report, in preparation for completion of necessary action.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16422,
+    "source_ar": "اعتماد خطة العمل السنوية والخطط التشغيلية للمدينة.",
+    "target_en": "Approving the City’s annual work plan and operational plans.",
+    "source_ar_norm": "اعتماد خطة العمل السنوية والخطط التشغيلية للمدينة.",
+    "target_en_norm": "approving the city’s annual work plan and operational plans.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16423,
+    "source_ar": "الموافقة على إبرام الاتفاقيات والعقود، بحسب الإجراءات النظامية المتبعة.",
+    "target_en": "Approving the conclusion of agreements and contracts, as per applicable legal procedures.",
+    "source_ar_norm": "الموافقة علي ابرام الاتفاقيات والعقود، بحسب الاجراءات النظامية المتبعة.",
+    "target_en_norm": "approving the conclusion of agreements and contracts, as per applicable legal procedures.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16424,
+    "source_ar": "قبول الهبات والتبرعات والمنح والوصايا والأوقاف، وفقاً للأحكام النظامية ذات الصلة.",
+    "target_en": "Accepting gifts, donations, grants, bequests, and endowments, in accordance with relevant statutory provisions.",
+    "source_ar_norm": "قبول الهبات والتبرعات والمنح والوصايا والاوقاف، وفقا للاحكام النظامية ذات الصلة.",
+    "target_en_norm": "accepting gifts, donations, grants, bequests, and endowments, in accordance with relevant statutory provisions.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16425,
+    "source_ar": "وللمجلس تشكيل لجان يعهد إليها ما يراه من مهمات، وله تفويض بعض صلاحياته إلى من يراه من أعضائه.",
+    "target_en": "The Board may form committees to perform certain tasks, and may delegate certain powers to any of its members.",
+    "source_ar_norm": "وللمجلس تشكيل لجان يعهد اليها ما يراه من مهمات، وله تفويض بعض صلاحياته الي من يراه من اعضائه.",
+    "target_en_norm": "the board may form committees to perform certain tasks, and may delegate certain powers to any of its members.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16426,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article 7",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16427,
+    "source_ar": "تعقد اجتماعات المجلس في مقر المدينة؛ ويجوز عند الحاجة عقدها في أي مكان آخر داخل المملكة أو خارجها.",
+    "target_en": "Board meetings shall be held at the City’s headquarters, and may, when necessary, be held elsewhere inside the Kingdom or abroad.",
+    "source_ar_norm": "تعقد اجتماعات المجلس في مقر المدينة؛ ويجوز عند الحاجة عقدها في اي مكان اخر داخل المملكة او خارجها.",
+    "target_en_norm": "board meetings shall be held at the city’s headquarters, and may, when necessary, be held elsewhere inside the kingdom or abroad.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16428,
+    "source_ar": "يجوز لرئيس المجلس إنابة أحد أعضاء المجلس -عدا الرئيس التنفيذي- ليرأس اجتماعات المجلس حال غيابه.",
+    "target_en": "The Chairman of the Board may, in his absence, delegate any Board member other than the CEO to chair Board meetings.",
+    "source_ar_norm": "يجوز لرئيس المجلس انابة احد اعضاء المجلس -عدا الرئيس التنفيذي- ليراس اجتماعات المجلس حال غيابه.",
+    "target_en_norm": "the chairman of the board may, in his absence, delegate any board member other than the ceo to chair board meetings.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16429,
+    "source_ar": "يجتمع المجلس أربع مرات في السنة على الأقل بناءً على دعوة من رئيس المجلس، وكلما اقتضت المصلحة ذلك، ومتى طلب ذلك أربعة من أعضائه على الأقل؛ ويجب أن تكون الدعوة مصحوبة بجدول أعمال الاجتماع.",
+    "target_en": "The Board shall convene at least four times a year upon an invitation by the Chairman, and when necessary or if requested by at least four of its members. The invitation shall include the meeting agenda.",
+    "source_ar_norm": "يجتمع المجلس اربع مرات في السنة علي الاقل بناء علي دعوة من رئيس المجلس، وكلما اقتضت المصلحة ذلك، ومتي طلب ذلك اربعة من اعضائه علي الاقل؛ ويجب ان تكون الدعوة مصحوبة بجدول اعمال الاجتماع.",
+    "target_en_norm": "the board shall convene at least four times a year upon an invitation by the chairman, and when necessary or if requested by at least four of its members. the invitation shall include the meeting agenda.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16430,
+    "source_ar": "يشترط لصحة الاجتماع حضور أغلبية الأعضاء بمن فيهم رئيس المجلس أو من ينيبه، وتصدر القرارات بأغلبية أصوات الحاضرين على الأقل، وعند تساوي الأصوات يرجح الجانب الذي صوت معه رئيس الاجتماع.",
+    "target_en": "A Board meeting shall be valid if attended by the majority of its members, including the Chairman or his designee. Decisions shall be passed by the majority vote of attending members. In case of a tie, the meeting chairman shall have the casting vote.",
+    "source_ar_norm": "يشترط لصحة الاجتماع حضور اغلبية الاعضاء بمن فيهم رئيس المجلس او من ينيبه، وتصدر القرارات باغلبية اصوات الحاضرين علي الاقل، وعند تساوي الاصوات يرجح الجانب الذي صوت معه رئيس الاجتماع.",
+    "target_en_norm": "a board meeting shall be valid if attended by the majority of its members, including the chairman or his designee. decisions shall be passed by the majority vote of attending members. in case of a tie, the meeting chairman shall have the casting vote.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16431,
+    "source_ar": "يجوز -عند الحاجة- عقد الاجتماعات والتصويت على القرارات باستخدام وسائل التقنية، ولا تعد القرارات المتخذة بهذه الطريقة صحيحة ما لم يصوت عليها جميع أعضاء المجلس، ولا يكون القرار نافذاً إلا إذا حاز على موافقة أغلبية الثلثين على الأقل، ويعرض القرار المتخذ بهذه الطريقة على المجلس في أول اجتماع لاحق لإثباته في محضر الاجتماع.",
+    "target_en": "Meetings may be held and decisions may be voted on using electronic means, when necessary. In such case, decisions shall not be deemed valid unless voted on by all Board members, and shall only be effective if approved by a two-thirds majority. Such decisions shall be presented to the Board at the first subsequent meeting to be recorded in the meeting minutes.",
+    "source_ar_norm": "يجوز -عند الحاجة- عقد الاجتماعات والتصويت علي القرارات باستخدام وسائل التقنية، ولا تعد القرارات المتخذة بهذه الطريقة صحيحة ما لم يصوت عليها جميع اعضاء المجلس، ولا يكون القرار نافذا الا اذا حاز علي موافقة اغلبية الثلثين علي الاقل، ويعرض القرار المتخذ بهذه الطريقة علي المجلس في اول اجتماع لاحق لاثباته في محضر الاجتماع.",
+    "target_en_norm": "meetings may be held and decisions may be voted on using electronic means, when necessary. in such case, decisions shall not be deemed valid unless voted on by all board members, and shall only be effective if approved by a two-thirds majority. such decisions shall be presented to the board at the first subsequent meeting to be recorded in the meeting minutes.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16432,
+    "source_ar": "لا يجوز لعضو المجلس الامتناع عن التصويت، ولا تفويض عضو آخر بالتصويت عنه عند غيابه.",
+    "target_en": "A Board member may not abstain from voting nor vote by proxy.",
+    "source_ar_norm": "لا يجوز لعضو المجلس الامتناع عن التصويت، ولا تفويض عضو اخر بالتصويت عنه عند غيابه.",
+    "target_en_norm": "a board member may not abstain from voting nor vote by proxy.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16433,
+    "source_ar": "تثبت مداولات المجلس وقراراته في محاضر يوقعها رئيس الاجتماع والأعضاء الحاضرون؛ وللعضو المعترض تسجيل اعتراضه وأسباب الاعتراض ضمن محضر اجتماع المجلس.",
+    "target_en": "Board deliberations and decisions shall be recorded in minutes signed by the meeting chairman and attending members. An objecting member may record his objection and the grounds therefor in the meeting minutes.",
+    "source_ar_norm": "تثبت مداولات المجلس وقراراته في محاضر يوقعها رئيس الاجتماع والاعضاء الحاضرون؛ وللعضو المعترض تسجيل اعتراضه واسباب الاعتراض ضمن محضر اجتماع المجلس.",
+    "target_en_norm": "board deliberations and decisions shall be recorded in minutes signed by the meeting chairman and attending members. an objecting member may record his objection and the grounds therefor in the meeting minutes.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16434,
+    "source_ar": "لا يجوز لعضو المجلس أن يفشي شيئاً مما اطّلع عليه من أسرار المدينة بسبب عضويته في المجلس.",
+    "target_en": "A Board member may not disclose any confidential information relating to the City he becomes privy to due to his Board membership.",
+    "source_ar_norm": "لا يجوز لعضو المجلس ان يفشي شيئا مما اطلع عليه من اسرار المدينة بسبب عضويته في المجلس.",
+    "target_en_norm": "a board member may not disclose any confidential information relating to the city he becomes privy to due to his board membership.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16435,
+    "source_ar": "للمجلس دعوة من يرى الاستعانة بهم من المختصين والمستشارين لحضور اجتماعاته، دون أن يكون لهم حق التصويت.",
+    "target_en": "The Board may invite experts and consultants, as it deems appropriate, to attend its meetings in a non-voting capacity.",
+    "source_ar_norm": "للمجلس دعوة من يري الاستعانة بهم من المختصين والمستشارين لحضور اجتماعاته، دون ان يكون لهم حق التصويت.",
+    "target_en_norm": "the board may invite experts and consultants, as it deems appropriate, to attend its meetings in a non-voting capacity.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16436,
+    "source_ar": "للمجلس أن يصدر قراراً بالتمرير؛ وفي هذه الحالة تشترط موافقة جميع أعضاء المجلس على القرار، ويُعرض هذا القرار على المجلس في أول اجتماع لاحق لإثباته في محضر الاجتماع.",
+    "target_en": "The Board may pass decisions by circulation; in such case, said decisions must be unanimously approved by Board members and be presented to the Board at the first subsequent meeting to be recorded in the meeting minutes.",
+    "source_ar_norm": "للمجلس ان يصدر قرارا بالتمرير؛ وفي هذه الحالة تشترط موافقة جميع اعضاء المجلس علي القرار، ويعرض هذا القرار علي المجلس في اول اجتماع لاحق لاثباته في محضر الاجتماع.",
+    "target_en_norm": "the board may pass decisions by circulation; in such case, said decisions must be unanimously approved by board members and be presented to the board at the first subsequent meeting to be recorded in the meeting minutes.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16437,
+    "source_ar": "يكون للمجلس أمين من بين منسوبي المدينة يختاره رئيس المجلس بناءً على ترشيح من الرئيس التنفيذي، يتولى جميع أعمال أمانة المجلس بما في ذلك الإعداد للاجتماعات وتسجيل المداولات والقرارات وأي مهمة أخرى يكلف بها من المجلس.",
+    "target_en": "The Board shall have a secretary from among the City’s employees, to be selected by the Chairman of the Board upon the CEO’s nomination. The secretary shall carry out all the tasks of the Board secretariat, including preparing for meetings and recording deliberations and decisions as well as any other tasks assigned thereto by the Board.",
+    "source_ar_norm": "يكون للمجلس امين من بين منسوبي المدينة يختاره رئيس المجلس بناء علي ترشيح من الرئيس التنفيذي، يتولي جميع اعمال امانة المجلس بما في ذلك الاعداد للاجتماعات وتسجيل المداولات والقرارات واي مهمة اخري يكلف بها من المجلس.",
+    "target_en_norm": "the board shall have a secretary from among the city’s employees, to be selected by the chairman of the board upon the ceo’s nomination. the secretary shall carry out all the tasks of the board secretariat, including preparing for meetings and recording deliberations and decisions as well as any other tasks assigned thereto by the board.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16438,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article 8",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16439,
+    "source_ar": "يكون للمدينة رئيس تنفيذي، يُعيَّن ويُعفى بقرار من المجلس، ويحدد القرار أجره ومزاياه المالية الأخرى، ويكون هو المسؤول عن إدارة المدينة، وتتركز مسؤولياته في حدود التنظيم واللوائح الصادرة بناءً عليه، ويمارس الصلاحيات الآتية:",
+    "target_en": "The City shall have a CEO whose appointment and dismissal shall be pursuant to a Board decision. The appointment decision of the CEO shall determine his remuneration and other financial benefits. The CEO shall be in charge of the City’s management, and his duties shall be within the limits of this Statute and its regulations. The CEO shall have the following powers:",
+    "source_ar_norm": "يكون للمدينة رئيس تنفيذي، يعين ويعفي بقرار من المجلس، ويحدد القرار اجره ومزاياه المالية الاخري، ويكون هو المسؤول عن ادارة المدينة، وتتركز مسؤولياته في حدود التنظيم واللوائح الصادرة بناء عليه، ويمارس الصلاحيات الاتية:",
+    "target_en_norm": "the city shall have a ceo whose appointment and dismissal shall be pursuant to a board decision. the appointment decision of the ceo shall determine his remuneration and other financial benefits. the ceo shall be in charge of the city’s management, and his duties shall be within the limits of this statute and its regulations. the ceo shall have the following powers:",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16440,
+    "source_ar": "الإشراف على سير العمل في المدينة، وعلى العاملين فيها.",
+    "target_en": "Supervising the City’s conduct of business and its employees.",
+    "source_ar_norm": "الاشراف علي سير العمل في المدينة، وعلي العاملين فيها.",
+    "target_en_norm": "supervising the city’s conduct of business and its employees.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16441,
+    "source_ar": "اقتراح السياسات العامة لأنشطة المدينة، واقتراح الخطط والبرامج اللازمة لتنفيذها، ورفعها إلى المجلس.",
+    "target_en": "Proposing general policies for the City’s activities as well as the plans and programs necessary for their implementation, and submitting the same to the Board.",
+    "source_ar_norm": "اقتراح السياسات العامة لانشطة المدينة، واقتراح الخطط والبرامج اللازمة لتنفيذها، ورفعها الي المجلس.",
+    "target_en_norm": "proposing general policies for the city’s activities as well as the plans and programs necessary for their implementation, and submitting the same to the board.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16442,
+    "source_ar": "الإشراف على إعداد مشروع ميزانية المدينة ومشروع حسابها الختامي والتقرير السنوي، ورفعها إلى المجلس.",
+    "target_en": "Supervising the preparation of the City's draft budget, draft final accounts, and annual report, and submitting the same to the Board.",
+    "source_ar_norm": "الاشراف علي اعداد مشروع ميزانية المدينة ومشروع حسابها الختامي والتقرير السنوي، ورفعها الي المجلس.",
+    "target_en_norm": "supervising the preparation of the city's draft budget, draft final accounts, and annual report, and submitting the same to the board.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16443,
+    "source_ar": "اقتراح الهيكل التنظيمي للمدينة ولوائحها الإدارية والمالية وغيرها من اللوائح الداخلية، ورفعها إلى المجلس لإقرارها.",
+    "target_en": "Proposing the City's organizational structure and its administrative and financial regulations and other internal regulations, and submitting the same to the Board for approval.",
+    "source_ar_norm": "اقتراح الهيكل التنظيمي للمدينة ولوائحها الادارية والمالية وغيرها من اللوائح الداخلية، ورفعها الي المجلس لاقرارها.",
+    "target_en_norm": "proposing the city's organizational structure and its administrative and financial regulations and other internal regulations, and submitting the same to the board for approval.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16444,
+    "source_ar": "إعداد خطة العمل السنوية والخطط التشغيلية للمدينة، ورفعها إلى المجلس لاعتمادها.",
+    "target_en": "Preparing the City’s annual work plan and operational plans, and submitting the same to the Board for approval.",
+    "source_ar_norm": "اعداد خطة العمل السنوية والخطط التشغيلية للمدينة، ورفعها الي المجلس لاعتمادها.",
+    "target_en_norm": "preparing the city’s annual work plan and operational plans, and submitting the same to the board for approval.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16445,
+    "source_ar": "اقتراح الخدمات التي يمكن أن تقدمها المدينة والمقابل المالي لها، ورفعها إلى المجلس لإقرارها.",
+    "target_en": "Proposing services to be rendered by the City and their corresponding fees, and submitting the same to the Board for approval.",
+    "source_ar_norm": "اقتراح الخدمات التي يمكن ان تقدمها المدينة والمقابل المالي لها، ورفعها الي المجلس لاقرارها.",
+    "target_en_norm": "proposing services to be rendered by the city and their corresponding fees, and submitting the same to the board for approval.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16446,
+    "source_ar": "تمثيل المدينة لدى الجهات الحكومية والمؤسسات والهيئات الأخرى ذات العلاقة وغيرها من الجهات داخل المملكة وخارجها، وأمام القضاء، وله تفويض غيره بذلك.",
+    "target_en": "Representing the City before government agencies, relevant institutions and bodies, and other entities within the Kingdom and abroad as well as before the judiciary; he may delegate such power.",
+    "source_ar_norm": "تمثيل المدينة لدي الجهات الحكومية والمؤسسات والهيئات الاخري ذات العلاقة وغيرها من الجهات داخل المملكة وخارجها، وامام القضاء، وله تفويض غيره بذلك.",
+    "target_en_norm": "representing the city before government agencies, relevant institutions and bodies, and other entities within the kingdom and abroad as well as before the judiciary; he may delegate such power.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16447,
+    "source_ar": "إصدار أوامر الصرف وفق الميزانية المعتمدة، واتخاذ جميع الإجراءات المالية وفقاً للأنظمة واللوائح المقرة والصلاحيات التي فوضه بها المجلس.",
+    "target_en": "Issuing disbursement orders in accordance with the approved budget, and taking all the financial measures necessary in accordance with applicable laws and regulations and the powers delegated to him by the Board.",
+    "source_ar_norm": "اصدار اوامر الصرف وفق الميزانية المعتمدة، واتخاذ جميع الاجراءات المالية وفقا للانظمة واللوائح المقرة والصلاحيات التي فوضه بها المجلس.",
+    "target_en_norm": "issuing disbursement orders in accordance with the approved budget, and taking all the financial measures necessary in accordance with applicable laws and regulations and the powers delegated to him by the board.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16448,
+    "source_ar": "إعداد تقارير دورية عن أعمال المدينة وإنجازاتها ونشاطاتها والمعوقات التي تواجهها، ورفعها إلى المجلس.",
+    "target_en": "Preparing periodic reports on the City's work, achievements, and activities as well as the challenges encountered, and submitting the same to the Board.",
+    "source_ar_norm": "اعداد تقارير دورية عن اعمال المدينة وانجازاتها ونشاطاتها والمعوقات التي تواجهها، ورفعها الي المجلس.",
+    "target_en_norm": "preparing periodic reports on the city's work, achievements, and activities as well as the challenges encountered, and submitting the same to the board.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16449,
+    "source_ar": "التوقيع على الاتفاقيات والعقود بعد موافقة المجلس، وذلك بحسب الإجراءات النظامية المتبعة.",
+    "target_en": "Signing agreements and contracts upon the Board’s approval, in accordance with applicable legal procedures.",
+    "source_ar_norm": "التوقيع علي الاتفاقيات والعقود بعد موافقة المجلس، وذلك بحسب الاجراءات النظامية المتبعة.",
+    "target_en_norm": "signing agreements and contracts upon the board’s approval, in accordance with applicable legal procedures.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16450,
+    "source_ar": "تنظيم مشاركة المدينة في المؤتمرات، والندوات، واللقاءات، والمعارض، المتعلقة بمجالات عمل المدينة محلياً وإقليمياً ودولياً.",
+    "target_en": "Supervising the City’s participation in local, regional, and international conferences, seminars, meetings, and exhibitions related to its activities.",
+    "source_ar_norm": "تنظيم مشاركة المدينة في المؤتمرات، والندوات، واللقاءات، والمعارض، المتعلقة بمجالات عمل المدينة محليا واقليميا ودوليا.",
+    "target_en_norm": "supervising the city’s participation in local, regional, and international conferences, seminars, meetings, and exhibitions related to its activities.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16451,
+    "source_ar": "إصدار القرارات اللازمة لتنفيذ أحكام التنظيم واللوائح الصادرة بناءً عليه والقواعد والإجراءات المعتمدة، بحسب الصلاحيات المخولة له.",
+    "target_en": "Issuing the decisions necessary for the implementation of the provisions of this Statute and its regulations as well as applicable rules and procedures, according to his powers.",
+    "source_ar_norm": "اصدار القرارات اللازمة لتنفيذ احكام التنظيم واللوائح الصادرة بناء عليه والقواعد والاجراءات المعتمدة، بحسب الصلاحيات المخولة له.",
+    "target_en_norm": "issuing the decisions necessary for the implementation of the provisions of this statute and its regulations as well as applicable rules and procedures, according to his powers.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16452,
+    "source_ar": "وللرئيس التنفيذي تفويض بعض مهماته أو صلاحياته إلى من يراه من منسوبي المدينة وفقاً لما تحدده لوائحها.",
+    "target_en": "The CEO may delegate certain duties or powers to any of the City's employees, subject to its regulations.",
+    "source_ar_norm": "وللرئيس التنفيذي تفويض بعض مهماته او صلاحياته الي من يراه من منسوبي المدينة وفقا لما تحدده لوائحها.",
+    "target_en_norm": "the ceo may delegate certain duties or powers to any of the city's employees, subject to its regulations.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16453,
+    "source_ar": "المادة التاسعة:",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة:",
+    "target_en_norm": "article 9",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16454,
+    "source_ar": "يكون للمدينة ميزانية سنوية مستقلة، تصدر وفقاً لترتيبات إصدار الميزانية العامة للدولة.",
+    "target_en": "The City shall have an independent annual budget to be allocated pursuant to the arrangements for issuing the State budget.",
+    "source_ar_norm": "يكون للمدينة ميزانية سنوية مستقلة، تصدر وفقا لترتيبات اصدار الميزانية العامة للدولة.",
+    "target_en_norm": "the city shall have an independent annual budget to be allocated pursuant to the arrangements for issuing the state budget.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16455,
+    "source_ar": "السنة المالية للمدينة هي السنة المالية للدولة.",
+    "target_en": "The City's fiscal year shall be the same as the State’s fiscal year.",
+    "source_ar_norm": "السنة المالية للمدينة هي السنة المالية للدولة.",
+    "target_en_norm": "the city's fiscal year shall be the same as the state’s fiscal year.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16456,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article 10",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16457,
+    "source_ar": "تتألف موارد المدينة مما يلي:",
+    "target_en": "The City's resources shall consist of the following:",
+    "source_ar_norm": "تتالف موارد المدينة مما يلي:",
+    "target_en_norm": "the city's resources shall consist of the following:",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16458,
+    "source_ar": "أ – الاعتمادات المالية التي تخصص لها في الميزانية العامة للدولة.",
+    "target_en": "Funds allocated thereto in the State budget.",
+    "source_ar_norm": "ا – الاعتمادات المالية التي تخصص لها في الميزانية العامة للدولة.",
+    "target_en_norm": "funds allocated thereto in the state budget.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16459,
+    "source_ar": "ب- المقابل المالي الذي تتقاضاه نظير الخدمات والأعمال التي تقدمها.",
+    "target_en": "Fees received for the services and activities it provides.",
+    "source_ar_norm": "ب- المقابل المالي الذي تتقاضاه نظير الخدمات والاعمال التي تقدمها.",
+    "target_en_norm": "fees received for the services and activities it provides.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16460,
+    "source_ar": "ج- ما يقبله المجلس من التبرعات والهبات والأوقاف والوصايا والمنح.",
+    "target_en": "Donations, gifts, endowments, bequests, and grants accepted by the Board.",
+    "source_ar_norm": "ج- ما يقبله المجلس من التبرعات والهبات والاوقاف والوصايا والمنح.",
+    "target_en_norm": "donations, gifts, endowments, bequests, and grants accepted by the board.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16461,
+    "source_ar": "د – عوائد استثمار أموال المدينة.",
+    "target_en": "Returns on the investment of its funds.",
+    "source_ar_norm": "د – عوائد استثمار اموال المدينة.",
+    "target_en_norm": "returns on the investment of its funds.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16462,
+    "source_ar": "هـ- أي مورد مالي آخر يقره المجلس.",
+    "target_en": "Any other financial resources approved by the Board.",
+    "source_ar_norm": "ه- اي مورد مالي اخر يقره المجلس.",
+    "target_en_norm": "any other financial resources approved by the board.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16463,
+    "source_ar": "تودع أموال المدينة في حساب جاري وزارة المالية في البنك المركزي السعودي، ويصرف منها وفقاً لميزانية المدينة السنوية المعتمدة.",
+    "target_en": "The City’s funds shall be deposited in the Ministry of Finance’s current account with the Saudi Central Bank. Disbursement from such funds shall be made in accordance with the City’s approved annual budget.",
+    "source_ar_norm": "تودع اموال المدينة في حساب جاري وزارة المالية في البنك المركزي السعودي، ويصرف منها وفقا لميزانية المدينة السنوية المعتمدة.",
+    "target_en_norm": "the city’s funds shall be deposited in the ministry of finance’s current account with the saudi central bank. disbursement from such funds shall be made in accordance with the city’s approved annual budget.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16464,
+    "source_ar": "تفتح المدينة حساباً لها في البنك المركزي السعودي؛ ويجوز لها أن تفتح حسابات أخرى في أي من البنوك المرخص لها بالعمل في المملكة، ويصرف من هذه الحسابات وفقاً لميزانيتها المعتمدة ولوائحها.",
+    "target_en": "The City shall open an account with the Saudi Central Bank, and it may open other accounts with any of the banks licensed to operate in the Kingdom. Disbursement from said accounts shall be made in accordance with the City’s approved budget and its regulations.",
+    "source_ar_norm": "تفتح المدينة حسابا لها في البنك المركزي السعودي؛ ويجوز لها ان تفتح حسابات اخري في اي من البنوك المرخص لها بالعمل في المملكة، ويصرف من هذه الحسابات وفقا لميزانيتها المعتمدة ولوائحها.",
+    "target_en_norm": "the city shall open an account with the saudi central bank, and it may open other accounts with any of the banks licensed to operate in the kingdom. disbursement from said accounts shall be made in accordance with the city’s approved budget and its regulations.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16465,
+    "source_ar": "المادة الحادية عشرة:",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة:",
+    "target_en_norm": "article 11",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16466,
+    "source_ar": "يخضع منسوبو المدينة لنظام العمل ونظام التأمينات الاجتماعية.",
+    "target_en": "The City's employees shall be subject to the Labor Law and the Social Insurance Law.",
+    "source_ar_norm": "يخضع منسوبو المدينة لنظام العمل ونظام التامينات الاجتماعية.",
+    "target_en_norm": "the city's employees shall be subject to the labor law and the social insurance law.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16467,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article 12",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16468,
+    "source_ar": "دون إخلال باختصاصات الديوان العام للمحاسبة، يعيّن المجلس مراجع حسابات خارجياً (أو أكثر) من المرخص لهم بالعمل في المملكة، لتدقيق حسابات المدينة، ومعاملاتها، وبياناتها، وميزانيتها السنوية، وحسابها الختامي، ويحدد المجلس أتعابه؛ ويعرض تقرير مراجع الحسابات على المجلس، ويزود الديوان العام للمحاسبة بنسخة منه بعد اعتماده من المجلس.",
+    "target_en": "Without prejudice to the jurisdiction of the General Court of Audit, the Board shall appoint and determine the fees of an external auditor, or more, licensed to operate in the Kingdom to audit the City’s accounts, transactions, statements, annual budget, and final accounts. The auditor's report shall be presented to the Board, and the General Court of Audit shall be provided with a copy thereof upon the approval of said report by the Board.",
+    "source_ar_norm": "دون اخلال باختصاصات الديوان العام للمحاسبة، يعين المجلس مراجع حسابات خارجيا (او اكثر) من المرخص لهم بالعمل في المملكة، لتدقيق حسابات المدينة، ومعاملاتها، وبياناتها، وميزانيتها السنوية، وحسابها الختامي، ويحدد المجلس اتعابه؛ ويعرض تقرير مراجع الحسابات علي المجلس، ويزود الديوان العام للمحاسبة بنسخة منه بعد اعتماده من المجلس.",
+    "target_en_norm": "without prejudice to the jurisdiction of the general court of audit, the board shall appoint and determine the fees of an external auditor, or more, licensed to operate in the kingdom to audit the city’s accounts, transactions, statements, annual budget, and final accounts. the auditor's report shall be presented to the board, and the general court of audit shall be provided with a copy thereof upon the approval of said report by the board.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16469,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article 13",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16470,
+    "source_ar": "ترفع المدينة إلى رئيس مجلس الوزراء حسابها الختامي خلال (تسعين) يوماً من تاريخ انتهاء السنة المالية، ويزود الديوان العام للمحاسبة بنسخة منه.",
+    "target_en": "The City shall, within 90 days from the end of the fiscal year, submit its final accounts to the President of the Council of Ministers, and the General Court of Audit shall be provided with a copy thereof.",
+    "source_ar_norm": "ترفع المدينة الي رئيس مجلس الوزراء حسابها الختامي خلال (تسعين) يوما من تاريخ انتهاء السنة المالية، ويزود الديوان العام للمحاسبة بنسخة منه.",
+    "target_en_norm": "the city shall, within 90 days from the end of the fiscal year, submit its final accounts to the president of the council of ministers, and the general court of audit shall be provided with a copy thereof.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16471,
+    "source_ar": "المادة الرابعة عشرة:",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة:",
+    "target_en_norm": "article 14",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16472,
+    "source_ar": "ترفع المدينة إلى رئيس مجلس الوزراء خلال (تسعين) يوماً من تاريخ انتهاء السنة المالية تقريراً سنوياً عما حققته من إنجازات أثناء السنة المنقضية وما واجهها من صعوبات وما تراه من مقترحات لتحسين سير العمل.",
+    "target_en": "The City shall, within 90 days from the end of the fiscal year, submit to the President of the Council of Ministers an annual report on its achievements and the challenges encountered in the past year as well as its recommendations for improvement.",
+    "source_ar_norm": "ترفع المدينة الي رئيس مجلس الوزراء خلال (تسعين) يوما من تاريخ انتهاء السنة المالية تقريرا سنويا عما حققته من انجازات اثناء السنة المنقضية وما واجهها من صعوبات وما تراه من مقترحات لتحسين سير العمل.",
+    "target_en_norm": "the city shall, within 90 days from the end of the fiscal year, submit to the president of the council of ministers an annual report on its achievements and the challenges encountered in the past year as well as its recommendations for improvement.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16473,
+    "source_ar": "المادة الخامسة عشرة:",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة:",
+    "target_en_norm": "article 15",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16474,
+    "source_ar": "يُنشر التنظيم في الجريدة الرسمية، ويُعمل به من تاريخ نشره.",
+    "target_en": "This Statute shall be published in the Official Gazette and shall enter into force on the date of its publication.",
+    "source_ar_norm": "ينشر التنظيم في الجريدة الرسمية، ويعمل به من تاريخ نشره.",
+    "target_en_norm": "this statute shall be published in the official gazette and shall enter into force on the date of its publication.",
+    "file_name": "تنظيم مدينة الملك عبدالله للطاقة الذرية والمتجددة.docx"
+  },
+  {
+    "id": 16475,
+    "source_ar": "تنظيم مركز الاسناد والتصفية",
+    "target_en": "Statute of the Entrustment and Liquidation Center",
+    "source_ar_norm": "تنظيم مركز الاسناد والتصفية",
+    "target_en_norm": "statute of the entrustment and liquidation center",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16476,
+    "source_ar": "المادة الأولى",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي",
+    "target_en_norm": "article 1",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16477,
+    "source_ar": "يكون للكلمات الآتية -أينما وردت في هذا التنظيم- المعاني المبينة أمام كل منها:",
+    "target_en": "In this Statute, the following words shall have the meanings assigned thereto:",
+    "source_ar_norm": "يكون للكلمات الاتية -اينما وردت في هذا التنظيم- المعاني المبينة امام كل منها:",
+    "target_en_norm": "in this statute, the following words shall have the meanings assigned thereto:",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16478,
+    "source_ar": "المركز: مركز الإسناد والتصفية.",
+    "target_en": "Infath: Entrustment and Liquidation Center.",
+    "source_ar_norm": "المركز: مركز الاسناد والتصفية.",
+    "target_en_norm": "infath: entrustment and liquidation center.",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16479,
+    "source_ar": "الوزير: وزير العدل.",
+    "target_en": "Minister: Minister of Justice.",
+    "source_ar_norm": "الوزير: وزير العدل.",
+    "target_en_norm": "minister: minister of justice.",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16480,
+    "source_ar": "المجلس: مجلس إدارة المركز.",
+    "target_en": "Board: Infath’s board of directors.",
+    "source_ar_norm": "المجلس: مجلس ادارة المركز.",
+    "target_en_norm": "board: infath’s board of directors.",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16481,
+    "source_ar": "الرئيس: رئيس المجلس.",
+    "target_en": "Chairman: Board’s chairman.",
+    "source_ar_norm": "الرئيس: رئيس المجلس.",
+    "target_en_norm": "chairman: board’s chairman.",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16482,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16483,
+    "source_ar": "ينشأ بموجب هذا التنظيم مركز يسمى \"مركز الإسناد والتصفية\", يتمتع بالشخصية الاعتبارية وبالاستقلال المالي والإداري، ويرتبط تنظيميًّا بالوزير، ويكون مقره الرئيس في مدينة الرياض, وله إنشاء فروع أو مكاتب داخل المملكة بحسب الحاجة.",
+    "target_en": "Under this Statute, a center named the Entrustment and Liquidation Center (Infath) shall be established. Infath shall report to the Minister and shall have a legal personality and financial and administrative independence. It shall be headquartered in the city of Riyadh and it may establish branches or offices within the Kingdom.",
+    "source_ar_norm": "ينشا بموجب هذا التنظيم مركز يسمي \"مركز الاسناد والتصفية\", يتمتع بالشخصية الاعتبارية وبالاستقلال المالي والاداري، ويرتبط تنظيميا بالوزير، ويكون مقره الرئيس في مدينة الرياض, وله انشاء فروع او مكاتب داخل المملكة بحسب الحاجة.",
+    "target_en_norm": "under this statute, a center named the entrustment and liquidation center (infath) shall be established. infath shall report to the minister and shall have a legal personality and financial and administrative independence. it shall be headquartered in the city of riyadh and it may establish branches or offices within the kingdom.",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16484,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16485,
+    "source_ar": "يهدف المركز إلى تحقيق التعاون بين الجهات القضائية والحكومية فيما يسند إليه من مهمات تتعلق بالتصفية والبيع من خلال إسنادها إلى الجهات المتخصصة فنيًّا والإشراف على أعمالها؛ للإسهام في تسريع عملية استيفاء الحقوق وإصدار الأحكام القضائية، وذلك من خلال قيامه بالمهمات والاختصاصات الآتية:",
+    "target_en": "Infath aims to expedite the issuance of judicial rulings and settlement of rights by coordinating with judicial bodies and government agencies in relation to liquidation and sale of assets falling within its jurisdiction and by assigning such tasks to relevant entities and overseeing their implementation. To this end, Infath shall:",
+    "source_ar_norm": "يهدف المركز الي تحقيق التعاون بين الجهات القضائية والحكومية فيما يسند اليه من مهمات تتعلق بالتصفية والبيع من خلال اسنادها الي الجهات المتخصصة فنيا والاشراف علي اعمالها؛ للاسهام في تسريع عملية استيفاء الحقوق واصدار الاحكام القضائية، وذلك من خلال قيامه بالمهمات والاختصاصات الاتية:",
+    "target_en_norm": "infath aims to expedite the issuance of judicial rulings and settlement of rights by coordinating with judicial bodies and government agencies in relation to liquidation and sale of assets falling within its jurisdiction and by assigning such tasks to relevant entities and overseeing their implementation. to this end, infath shall:",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16486,
+    "source_ar": "القيام بما يلزم لتصفية التركات والشركات والصناديق والمساهمات، وبيع الأصول، وغير ذلك من الأموال؛ التي تسندها إليه الجهات القضائية والحكومية وفقاً للإجراءات النظامية.",
+    "target_en": "take the measures necessary to liquidate estates, companies, funds, and enterprises, and sell assets and other property, pursuant to a request submitted thereto by judicial bodies and government agencies, in accordance with applicable statutory procedures;",
+    "source_ar_norm": "القيام بما يلزم لتصفية التركات والشركات والصناديق والمساهمات، وبيع الاصول، وغير ذلك من الاموال؛ التي تسندها اليه الجهات القضائية والحكومية وفقا للاجراءات النظامية.",
+    "target_en_norm": "take the measures necessary to liquidate estates, companies, funds, and enterprises, and sell assets and other property, pursuant to a request submitted thereto by judicial bodies and government agencies, in accordance with applicable statutory procedures;",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16487,
+    "source_ar": "القيام بما يلزم لتصفية التركات والشركات والصناديق والمساهمات، وبيع الأصول، وغير ذلك من الأموال؛ التي ليس في شأنها نزاع منظور قضاءً وتقدم بطلبهما أصحاب الشأن للمركز، وذلكك وفقاً للإجراءات النظامية.",
+    "target_en": "take the measures necessary to liquidate estates, companies, funds, and enterprises, and sell assets and other property, pursuant to a request submitted thereto by concerned parties, provided they are not under judicial review, in accordance with the applicable statutory procedures;",
+    "source_ar_norm": "القيام بما يلزم لتصفية التركات والشركات والصناديق والمساهمات، وبيع الاصول، وغير ذلك من الاموال؛ التي ليس في شانها نزاع منظور قضاء وتقدم بطلبهما اصحاب الشان للمركز، وذلكك وفقا للاجراءات النظامية.",
+    "target_en_norm": "take the measures necessary to liquidate estates, companies, funds, and enterprises, and sell assets and other property, pursuant to a request submitted thereto by concerned parties, provided they are not under judicial review, in accordance with the applicable statutory procedures;",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16488,
+    "source_ar": "الاستعانة بالشركات أو المؤسسات أو المكاتب المتخصصة محاسبيًّا وقانونيًّا وتسويقيًّا وغيرها؛ لتنفيذ المهمات التي تتطلبها أعمال التصفية والبيع للأموال المشار إليها في الفقرتين (1) و(2) من هذه المادة.",
+    "target_en": "seek the assistance of legal, accounting, and marketing firms to carry out the tasks necessary for the liquidation and sale of assets referred to in paragraphs (1) and (2) of this Article; and",
+    "source_ar_norm": "الاستعانة بالشركات او المؤسسات او المكاتب المتخصصة محاسبيا وقانونيا وتسويقيا وغيرها؛ لتنفيذ المهمات التي تتطلبها اعمال التصفية والبيع للاموال المشار اليها في الفقرتين (1) و(2) من هذه المادة.",
+    "target_en_norm": "seek the assistance of legal, accounting, and marketing firms to carry out the tasks necessary for the liquidation and sale of assets referred to in paragraphs (1) and (2) of this article; and",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16489,
+    "source_ar": "تقديم الخدمات الاستشارية والفنية في أعمال تصفية وبيع الأموال المشار إليها في الفقرتين (1) و(2) من هذه المادة.",
+    "target_en": "provide technical and consultation services relating to the liquidation and sale of assets referred to in paragraphs (1) and (2) of this Article.",
+    "source_ar_norm": "تقديم الخدمات الاستشارية والفنية في اعمال تصفية وبيع الاموال المشار اليها في الفقرتين (1) و(2) من هذه المادة.",
+    "target_en_norm": "provide technical and consultation services relating to the liquidation and sale of assets referred to in paragraphs (1) and (2) of this article.",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16490,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16491,
+    "source_ar": "يكون للمركز مجلس إدارة برئاسة الوزير وعضوية كل من:",
+    "target_en": "Infath shall have a board of directors composed of the Minister, as chairman, and the following members:",
+    "source_ar_norm": "يكون للمركز مجلس ادارة برئاسة الوزير وعضوية كل من:",
+    "target_en_norm": "infath shall have a board of directors composed of the minister, as chairman, and the following members:",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16492,
+    "source_ar": "أ- ممثل لوزارة العدل.",
+    "target_en": "A representative from the Ministry of Justice.",
+    "source_ar_norm": "ا- ممثل لوزارة العدل.",
+    "target_en_norm": "a representative from the ministry of justice.",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16493,
+    "source_ar": "ب- ممثل لوزارة المالية.",
+    "target_en": "A representative from the Ministry of Finance.",
+    "source_ar_norm": "ب- ممثل لوزارة المالية.",
+    "target_en_norm": "a representative from the ministry of finance.",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16494,
+    "source_ar": "ج- ممثل لوزارة التجارة والاستثمار.",
+    "target_en": "A representative from the Ministry of Commerce.",
+    "source_ar_norm": "ج- ممثل لوزارة التجارة والاستثمار.",
+    "target_en_norm": "a representative from the ministry of commerce.",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16495,
+    "source_ar": "د- ممثل لمؤسسة النقد العربي السعودي.",
+    "target_en": "A representative from the Saudi Central Bank.",
+    "source_ar_norm": "د- ممثل لمؤسسة النقد العربي السعودي.",
+    "target_en_norm": "a representative from the saudi central bank.",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16496,
+    "source_ar": "هـ- ثلاثة من القطاع الخاص من ذوي الخبرة في المجالات ذات الصلة بأعمال المركز، يعينون بأمر من رئيس مجلس الوزراء بناء على اقتراح من الرئيس.",
+    "target_en": "Three members from the private sector with relevant expertise, appointed pursuant to an order by the Prime Minister upon recommendation by the Chairman.",
+    "source_ar_norm": "ه- ثلاثة من القطاع الخاص من ذوي الخبرة في المجالات ذات الصلة باعمال المركز، يعينون بامر من رئيس مجلس الوزراء بناء علي اقتراح من الرئيس.",
+    "target_en_norm": "three members from the private sector with relevant expertise, appointed pursuant to an order by the prime minister upon recommendation by the chairman.",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16497,
+    "source_ar": "تكون مدة عضوية ممثلي الأجهزة الحكومية والأعضاء من القطاع الخاص ثلاث سنوات قابلة للتجديد لمرة واحدة، ويجب ألا تقل مرتبة ممثلي الأجهزة الحكومية عن (الرابعة عشرة) أو ما يعادلها.",
+    "target_en": "The membership of the representatives of the government agencies and private sector shall be for a term of three years, renewable once. The representatives of government agencies shall be with a rank not lower than Grade 14 or its equivalent.",
+    "source_ar_norm": "تكون مدة عضوية ممثلي الاجهزة الحكومية والاعضاء من القطاع الخاص ثلاث سنوات قابلة للتجديد لمرة واحدة، ويجب الا تقل مرتبة ممثلي الاجهزة الحكومية عن (الرابعة عشرة) او ما يعادلها.",
+    "target_en_norm": "the membership of the representatives of the government agencies and private sector shall be for a term of three years, renewable once. the representatives of government agencies shall be with a rank not lower than grade 14 or its equivalent.",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16498,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16499,
+    "source_ar": "للمجلس جميع الصلاحيات اللازمة لإدارة المركز وتصريف شؤونه وتحقيق أهدافه, وبخاصة ما يأتي:",
+    "target_en": "The Board shall have the powers necessary to oversee the management of Infath and the conduct of its business, particularly the following:",
+    "source_ar_norm": "للمجلس جميع الصلاحيات اللازمة لادارة المركز وتصريف شؤونه وتحقيق اهدافه, وبخاصة ما ياتي:",
+    "target_en_norm": "the board shall have the powers necessary to oversee the management of infath and the conduct of its business, particularly the following:",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  },
+  {
+    "id": 16500,
+    "source_ar": "اعتماد السياسات العامة المتعلقة بنشاطات المركز والبرامج اللازمة لتنفيذها.",
+    "target_en": "Approving Infath’s general policies and the programs necessary for their implementation.",
+    "source_ar_norm": "اعتماد السياسات العامة المتعلقة بنشاطات المركز والبرامج اللازمة لتنفيذها.",
+    "target_en_norm": "approving infath’s general policies and the programs necessary for their implementation.",
+    "file_name": "تنظيم مركز الإسناد والتصفية.docx"
+  }
+]

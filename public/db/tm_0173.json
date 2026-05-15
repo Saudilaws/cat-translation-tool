@@ -1,0 +1,802 @@
+[
+  {
+    "id": 17201,
+    "source_ar": "وضع معايير لمتابعة مؤشرات أداء أعمال الهيئة وخططها، التي تكفل تطوير أدائها وخدماتها، وللهيئة التنسيق في هذا الشأن مع من تراه من الجهات ذات الصلة باختصاصاتها.",
+    "target_en": "Setting performance indicators for assessing ZATCA’s activities and plans to ensure the development of its performance and services; it may, for such purpose, coordinate with relevant agencies.",
+    "source_ar_norm": "وضع معايير لمتابعة مؤشرات اداء اعمال الهيئة وخططها، التي تكفل تطوير ادائها وخدماتها، وللهيئة التنسيق في هذا الشان مع من تراه من الجهات ذات الصلة باختصاصاتها.",
+    "target_en_norm": "setting performance indicators for assessing zatca’s activities and plans to ensure the development of its performance and services; it may, for such purpose, coordinate with relevant agencies.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17202,
+    "source_ar": "التعاون وتبادل الخبرات مع الهيئات والمنظمات الإقليمية والدولية، وبيوت الخبرة المتخصصة داخل المملكة وخارجها، وذلك في حدود اختصاصات الهيئة.",
+    "target_en": "Cooperating and exchanging expertise with regional and international organizations and specialized firms within the Kingdom and abroad, subject to ZATCA’s powers.",
+    "source_ar_norm": "التعاون وتبادل الخبرات مع الهيئات والمنظمات الاقليمية والدولية، وبيوت الخبرة المتخصصة داخل المملكة وخارجها، وذلك في حدود اختصاصات الهيئة.",
+    "target_en_norm": "cooperating and exchanging expertise with regional and international organizations and specialized firms within the kingdom and abroad, subject to zatca’s powers.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17203,
+    "source_ar": "تمثيل المملكة في المنظمات والهيئات والمحافل والمؤتمرات الإقليمية والدولية ذات الصلة باختصاصات الهيئة.",
+    "target_en": "Representing the Kingdom in relevant regional and international organizations, forums, and conferences.",
+    "source_ar_norm": "تمثيل المملكة في المنظمات والهيئات والمحافل والمؤتمرات الاقليمية والدولية ذات الصلة باختصاصات الهيئة.",
+    "target_en_norm": "representing the kingdom in relevant regional and international organizations, forums, and conferences.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17204,
+    "source_ar": "وللهيئة إنشاء شركات تابعة لها تقوم بأدوار تمكنها من أداء أنشطتها ومهماتها وتحقيق أهدافها.",
+    "target_en": "ZATCA may, in order to achieve its objectives, establish companies to carry out certain activities and duties.",
+    "source_ar_norm": "وللهيئة انشاء شركات تابعة لها تقوم بادوار تمكنها من اداء انشطتها ومهماتها وتحقيق اهدافها.",
+    "target_en_norm": "zatca may, in order to achieve its objectives, establish companies to carry out certain activities and duties.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17205,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17206,
+    "source_ar": "يكون للهيئة مجلس إدارة برئاسة الوزير، وعضوية كل من:",
+    "target_en": "ZATCA shall have a board of directors composed of the Minister, as chairman, and the following members:",
+    "source_ar_norm": "يكون للهيئة مجلس ادارة برئاسة الوزير، وعضوية كل من:",
+    "target_en_norm": "zatca shall have a board of directors composed of the minister, as chairman, and the following members:",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17207,
+    "source_ar": "المحافظ.",
+    "target_en": "The Governor.",
+    "source_ar_norm": "المحافظ.",
+    "target_en_norm": "the governor.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17208,
+    "source_ar": "ممثل عن وزارة الداخلية.",
+    "target_en": "A representative from the Ministry of Interior.",
+    "source_ar_norm": "ممثل عن وزارة الداخلية.",
+    "target_en_norm": "a representative from the ministry of interior.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17209,
+    "source_ar": "ممثل عن وزارة المالية.",
+    "target_en": "A representative from the Ministry of Finance.",
+    "source_ar_norm": "ممثل عن وزارة المالية.",
+    "target_en_norm": "a representative from the ministry of finance.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17210,
+    "source_ar": "ممثل عن وزارة التجارة.",
+    "target_en": "A representative from the Ministry of Commerce.",
+    "source_ar_norm": "ممثل عن وزارة التجارة.",
+    "target_en_norm": "a representative from the ministry of commerce.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17211,
+    "source_ar": "ممثل عن وزارة النقل.",
+    "target_en": "A representative from the Ministry of Transport.",
+    "source_ar_norm": "ممثل عن وزارة النقل.",
+    "target_en_norm": "a representative from the ministry of transport.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17212,
+    "source_ar": "ممثل عن وزارة الاقتصاد والتخطيط.",
+    "target_en": "A representative from the Ministry of Economy and Planning.",
+    "source_ar_norm": "ممثل عن وزارة الاقتصاد والتخطيط.",
+    "target_en_norm": "a representative from the ministry of economy and planning.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17213,
+    "source_ar": "ممثل عن وزارة الاستثمار.",
+    "target_en": "A representative from the Ministry of Investment.",
+    "source_ar_norm": "ممثل عن وزارة الاستثمار.",
+    "target_en_norm": "a representative from the ministry of investment.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17214,
+    "source_ar": "ممثل عن البنك المركزي السعودي.",
+    "target_en": "A representative from the Saudi Central Bank.",
+    "source_ar_norm": "ممثل عن البنك المركزي السعودي.",
+    "target_en_norm": "a representative from the saudi central bank.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17215,
+    "source_ar": "ممثل عن هيئة السوق المالية.",
+    "target_en": "A representative from the Capital Market Authority.",
+    "source_ar_norm": "ممثل عن هيئة السوق المالية.",
+    "target_en_norm": "a representative from the capital market authority.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17216,
+    "source_ar": "ممثل عن رئاسة أمن الدولة.",
+    "target_en": "A representative from the Presidency of State Security.",
+    "source_ar_norm": "ممثل عن رئاسة امن الدولة.",
+    "target_en_norm": "a representative from the presidency of state security.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17217,
+    "source_ar": "ممثلين اثنين من القطاع الخاص يعينان بقرار من مجلس الوزراء بناءً على ترشيح من الرئيس.",
+    "target_en": "Two representatives from the private sector appointed pursuant to a resolution by the Council of Ministers upon the Chairman’s nomination.",
+    "source_ar_norm": "ممثلين اثنين من القطاع الخاص يعينان بقرار من مجلس الوزراء بناء علي ترشيح من الرئيس.",
+    "target_en_norm": "two representatives from the private sector appointed pursuant to a resolution by the council of ministers upon the chairman’s nomination.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17218,
+    "source_ar": "ويجب ألَّا تقل مرتبة ممثلي الأجهزة الحكومية عن المرتبة (الخامسة عشرة) أو ما يعادلها، وفيما عدا الرئيس والمحافظ، تكون العضوية في المجلس لمدة (ثلاث) سنوات قابلة للتجديد مرة واحدة.",
+    "target_en": "The rank of representatives of government agencies shall not be lower than Grade 15 or its equivalent. With the exception of the Chairman and the Governor, Board membership shall be for a term of three years, renewable once.",
+    "source_ar_norm": "ويجب الا تقل مرتبة ممثلي الاجهزة الحكومية عن المرتبة (الخامسة عشرة) او ما يعادلها، وفيما عدا الرئيس والمحافظ، تكون العضوية في المجلس لمدة (ثلاث) سنوات قابلة للتجديد مرة واحدة.",
+    "target_en_norm": "the rank of representatives of government agencies shall not be lower than grade 15 or its equivalent. with the exception of the chairman and the governor, board membership shall be for a term of three years, renewable once.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17219,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17220,
+    "source_ar": "يتولى المجلس الإشراف على إدارة شؤون الهيئة وتصريف أمورها، ويتخذ جميع القرارات اللازمة لتحقيق أهدافها في حدود ما تضمنه التنظيم من أحكام، وله - بوجه خاص - ما يأتي:",
+    "target_en": "The Board shall oversee the management of ZATCA and the conduct of its affairs. It shall, under this Statute, take all decisions necessary to achieve its objectives. It shall, in particular, assume the following powers and duties:",
+    "source_ar_norm": "يتولي المجلس الاشراف علي ادارة شؤون الهيئة وتصريف امورها، ويتخذ جميع القرارات اللازمة لتحقيق اهدافها في حدود ما تضمنه التنظيم من احكام، وله - بوجه خاص - ما ياتي:",
+    "target_en_norm": "the board shall oversee the management of zatca and the conduct of its affairs. it shall, under this statute, take all decisions necessary to achieve its objectives. it shall, in particular, assume the following powers and duties:",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17221,
+    "source_ar": "إقرار السياسات العامة للهيئة، والخطط والبرامج اللازمة لتنفيذها.",
+    "target_en": "Approving ZATCA's general policies and the plans and programs necessary for their implementation.",
+    "source_ar_norm": "اقرار السياسات العامة للهيئة، والخطط والبرامج اللازمة لتنفيذها.",
+    "target_en_norm": "approving zatca's general policies and the plans and programs necessary for their implementation.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17222,
+    "source_ar": "اقتراح مشروعات الأنظمة ذات العلاقة باختصاصات الهيئة، واقتراح تعديل المعمول به منها، ورفعها لاستكمال الإجراءات النظامية اللازمة في شأنها.",
+    "target_en": "Proposing relevant laws and amendments to existing ones, and submitting the same for completion of statutory procedures.",
+    "source_ar_norm": "اقتراح مشروعات الانظمة ذات العلاقة باختصاصات الهيئة، واقتراح تعديل المعمول به منها، ورفعها لاستكمال الاجراءات النظامية اللازمة في شانها.",
+    "target_en_norm": "proposing relevant laws and amendments to existing ones, and submitting the same for completion of statutory procedures.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17223,
+    "source_ar": "إقرار اللوائح الإدارية والمالية التي تسير عليها الهيئة، وغيرها من اللوائح الداخلية والفنية اللازمة لتسيير شؤونها، على أن يكون إقرار اللوائح الإدارية بالاتفاق مع وزارة الموارد البشرية والتنمية الاجتماعية، وأن يكون إقرار اللوائح المالية والأحكام ذات الأثر المالي في اللوائح الإدارية بالاتفاق مع وزارة المالية.",
+    "target_en": "Approving ZATCA's administrative and financial regulations and other internal and technical regulations necessary for the conduct of its affairs, provided that the administrative regulations are approved in coordination with the Ministry of Human Resources and Social Development, and that the financial regulations and the financial provisions in the administrative regulations are approved in coordination with the Ministry of Finance.",
+    "source_ar_norm": "اقرار اللوائح الادارية والمالية التي تسير عليها الهيئة، وغيرها من اللوائح الداخلية والفنية اللازمة لتسيير شؤونها، علي ان يكون اقرار اللوائح الادارية بالاتفاق مع وزارة الموارد البشرية والتنمية الاجتماعية، وان يكون اقرار اللوائح المالية والاحكام ذات الاثر المالي في اللوائح الادارية بالاتفاق مع وزارة المالية.",
+    "target_en_norm": "approving zatca's administrative and financial regulations and other internal and technical regulations necessary for the conduct of its affairs, provided that the administrative regulations are approved in coordination with the ministry of human resources and social development, and that the financial regulations and the financial provisions in the administrative regulations are approved in coordination with the ministry of finance.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17224,
+    "source_ar": "إقرار الهيكل التنظيمي للهيئة.",
+    "target_en": "Approving ZATCA's organizational structure.",
+    "source_ar_norm": "اقرار الهيكل التنظيمي للهيئة.",
+    "target_en_norm": "approving zatca's organizational structure.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17225,
+    "source_ar": "الموافقة على إنشاء فروع أو مكاتب للهيئة.",
+    "target_en": "Approving the establishment of branches and offices for ZATCA.",
+    "source_ar_norm": "الموافقة علي انشاء فروع او مكاتب للهيئة.",
+    "target_en_norm": "approving the establishment of branches and offices for zatca.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17226,
+    "source_ar": "تعيين مراجع حسابات خارجي.",
+    "target_en": "Appointing an external auditor.",
+    "source_ar_norm": "تعيين مراجع حسابات خارجي.",
+    "target_en_norm": "appointing an external auditor.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17227,
+    "source_ar": "الموافقة على حساب الهيئة الختامي والتقرير السنوي وتقرير مراجع الحسابات؛ تمهيدًا لرفعها وفق الإجراءات النظامية المتبعة.",
+    "target_en": "Approving ZATCA's final accounts and annual reports as well as auditor's report, prior to their submission in accordance with statutory procedures.",
+    "source_ar_norm": "الموافقة علي حساب الهيئة الختامي والتقرير السنوي وتقرير مراجع الحسابات؛ تمهيدا لرفعها وفق الاجراءات النظامية المتبعة.",
+    "target_en_norm": "approving zatca's final accounts and annual reports as well as auditor's report, prior to their submission in accordance with statutory procedures.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17228,
+    "source_ar": "اعتماد ميزانية الهيئة السنوية، ورفع نسخة منها إلى رئيس مجلس الوزراء.",
+    "target_en": "Approving ZATCA's annual budget, and submitting a copy thereof to the President of the Council of Ministers.",
+    "source_ar_norm": "اعتماد ميزانية الهيئة السنوية، ورفع نسخة منها الي رئيس مجلس الوزراء.",
+    "target_en_norm": "approving zatca's annual budget, and submitting a copy thereof to the president of the council of ministers.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17229,
+    "source_ar": "النظر في التقارير الدورية التي تقدم عن سير العمل في الهيئة.",
+    "target_en": "Reviewing periodic reports on ZATCA’s activities.",
+    "source_ar_norm": "النظر في التقارير الدورية التي تقدم عن سير العمل في الهيئة.",
+    "target_en_norm": "reviewing periodic reports on zatca’s activities.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17230,
+    "source_ar": "الموافقة على إبرام الاتفاقيات والبروتوكولات والعقود، بحسب الإجراءات النظامية المتبعة.",
+    "target_en": "Approving the conclusion of agreements, protocols, and contracts, in accordance with statutory procedures.",
+    "source_ar_norm": "الموافقة علي ابرام الاتفاقيات والبروتوكولات والعقود، بحسب الاجراءات النظامية المتبعة.",
+    "target_en_norm": "approving the conclusion of agreements, protocols, and contracts, in accordance with statutory procedures.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17231,
+    "source_ar": "تحديد أوجه استثمار أموال الهيئة وأصولها الثابتة والمنقولة.",
+    "target_en": "Determining the manner of investing ZATCA's funds and movable and immovable assets.",
+    "source_ar_norm": "تحديد اوجه استثمار اموال الهيئة واصولها الثابتة والمنقولة.",
+    "target_en_norm": "determining the manner of investing zatca's funds and movable and immovable assets.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17232,
+    "source_ar": "تحديد المقابل المالي للخدمات التي تقدمها الهيئة في مجال اختصاصها.",
+    "target_en": "Determining fees for services rendered by ZATCA.",
+    "source_ar_norm": "تحديد المقابل المالي للخدمات التي تقدمها الهيئة في مجال اختصاصها.",
+    "target_en_norm": "determining fees for services rendered by zatca.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17233,
+    "source_ar": "وضع قواعد عمل اللجنة الشرعية المنصوص عليها في المادة (الثامنة) من التنظيم، بما في ذلك تنظيم اجتماعاتها، وآلية إصدار قراراتها.",
+    "target_en": "Setting work procedures for the Sharia Committee referred to in Article 8 of this Statute, including its meetings and the manner of issuing its decisions.",
+    "source_ar_norm": "وضع قواعد عمل اللجنة الشرعية المنصوص عليها في المادة (الثامنة) من التنظيم، بما في ذلك تنظيم اجتماعاتها، والية اصدار قراراتها.",
+    "target_en_norm": "setting work procedures for the sharia committee referred to in article 8 of this statute, including its meetings and the manner of issuing its decisions.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17234,
+    "source_ar": "قبول الهبات والتبرعات والمنح والوصايا والأوقاف وفقًا للأحكام المنظمة لذلك.",
+    "target_en": "Accepting gifts, donations, grants, bequests, and endowments in accordance with relevant provisions.",
+    "source_ar_norm": "قبول الهبات والتبرعات والمنح والوصايا والاوقاف وفقا للاحكام المنظمة لذلك.",
+    "target_en_norm": "accepting gifts, donations, grants, bequests, and endowments in accordance with relevant provisions.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17235,
+    "source_ar": "الموافقة على إنشاء شركات تابعة للهيئة.",
+    "target_en": "Approving the establishment of ZATCA's companies.",
+    "source_ar_norm": "الموافقة علي انشاء شركات تابعة للهيئة.",
+    "target_en_norm": "approving the establishment of zatca's companies.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17236,
+    "source_ar": "وللمجلس - في سبيل تحقيق هذه الاختصاصات - تشكيل لجان دائمة أو مؤقتة من بين أعضائه أو من سواهم، يعهد إليها بما يراه من مهمات، ويحدِّد في قرار تشكيل كل لجنة رئيسها وأعضاءها واختصاصاتها، ويكون لها الاستعانة بمن تراه لتأدية المهمات الموكولة إليها.",
+    "target_en": "To exercise such powers, the Board may form standing or ad hoc committees from among its members or others to carry out certain tasks. The formation decision of each committee shall designate its chairman and members and determine its powers. A committee may seek the assistance of non-members to carry out certain duties.",
+    "source_ar_norm": "وللمجلس - في سبيل تحقيق هذه الاختصاصات - تشكيل لجان دائمة او مؤقتة من بين اعضائه او من سواهم، يعهد اليها بما يراه من مهمات، ويحدد في قرار تشكيل كل لجنة رئيسها واعضاءها واختصاصاتها، ويكون لها الاستعانة بمن تراه لتادية المهمات الموكولة اليها.",
+    "target_en_norm": "to exercise such powers, the board may form standing or ad hoc committees from among its members or others to carry out certain tasks. the formation decision of each committee shall designate its chairman and members and determine its powers. a committee may seek the assistance of non-members to carry out certain duties.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17237,
+    "source_ar": "وللمجلس كذلك تفويض بعض اختصاصاته إلى الرئيس أو إلى من يراه من أعضائه أو من منسوبي الهيئة.",
+    "target_en": "The Board may delegate certain powers to its Chairman or any of its members or ZATCA's employees.",
+    "source_ar_norm": "وللمجلس كذلك تفويض بعض اختصاصاته الي الرئيس او الي من يراه من اعضائه او من منسوبي الهيئة.",
+    "target_en_norm": "the board may delegate certain powers to its chairman or any of its members or zatca's employees.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17238,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17239,
+    "source_ar": "تعقد اجتماعات المجلس في مقر الهيئة برئاسة الرئيس أو من ينيبه من الأعضاء ممثلي الجهات الحكومية، ويجوز عقدها في مكان آخر داخل المملكة.",
+    "target_en": "Board meetings shall be held at ZATCA's headquarters and shall be presided by its Chairman or his designee from among the representatives of government agencies. The Board may convene at any other venue within the Kingdom.",
+    "source_ar_norm": "تعقد اجتماعات المجلس في مقر الهيئة برئاسة الرئيس او من ينيبه من الاعضاء ممثلي الجهات الحكومية، ويجوز عقدها في مكان اخر داخل المملكة.",
+    "target_en_norm": "board meetings shall be held at zatca's headquarters and shall be presided by its chairman or his designee from among the representatives of government agencies. the board may convene at any other venue within the kingdom.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17240,
+    "source_ar": "يعقد المجلس اجتماعاته بصفة دورية (أربع) مرات في السنة، وكلما دعت الحاجة إلى ذلك بحسب ما يقدره الرئيس، أو إذا طلب ذلك (ثلث) الأعضاء على الأقل.",
+    "target_en": "The Board shall periodically convene four times a year. The Board shall also convene if the need arises, at the Chairman’s discretion or if requested by at least one-third of its members.",
+    "source_ar_norm": "يعقد المجلس اجتماعاته بصفة دورية (اربع) مرات في السنة، وكلما دعت الحاجة الي ذلك بحسب ما يقدره الرئيس، او اذا طلب ذلك (ثلث) الاعضاء علي الاقل.",
+    "target_en_norm": "the board shall periodically convene four times a year. the board shall also convene if the need arises, at the chairman’s discretion or if requested by at least one-third of its members.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17241,
+    "source_ar": "يكون اجتماع المجلس صحيحًا إذا حضره أغلبية الأعضاء - على الأقل - بمن فيهم الرئيس أو من ينيبه، وتصدر القرارات بأغلبية أصوات الحاضرين على الأقل، وفي حال تساوي الأصوات يرجح الجانب الذي صوت معه رئيس الاجتماع.",
+    "target_en": "Board meetings shall be deemed valid only if attended by the majority of its members, including the Chairman or his designee. Board decisions shall be passed by the majority vote of attending members. In case of a tie, the chairman of the meeting shall have the casting vote.",
+    "source_ar_norm": "يكون اجتماع المجلس صحيحا اذا حضره اغلبية الاعضاء - علي الاقل - بمن فيهم الرئيس او من ينيبه، وتصدر القرارات باغلبية اصوات الحاضرين علي الاقل، وفي حال تساوي الاصوات يرجح الجانب الذي صوت معه رئيس الاجتماع.",
+    "target_en_norm": "board meetings shall be deemed valid only if attended by the majority of its members, including the chairman or his designee. board decisions shall be passed by the majority vote of attending members. in case of a tie, the chairman of the meeting shall have the casting vote.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17242,
+    "source_ar": "تثبت مداولات المجلس وقراراته في محاضر يوقعها رئيس الاجتماع والأعضاء الحاضرون.",
+    "target_en": "Board deliberations and decisions shall be entered into minutes signed by the chairman of the meeting and attending members.",
+    "source_ar_norm": "تثبت مداولات المجلس وقراراته في محاضر يوقعها رئيس الاجتماع والاعضاء الحاضرون.",
+    "target_en_norm": "board deliberations and decisions shall be entered into minutes signed by the chairman of the meeting and attending members.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17243,
+    "source_ar": "يجوز - عند الحاجة، وفي الحالات المستعجلة، ووفقًا لما يقدره الرئيس - أن تعقد الاجتماعات وأن يُصَوَّت على القرارات؛ عن بعد من خلال استخدام وسائل التقنية. ويمكن أن تُتخذ القرارات عن طريق التمرير على الأعضاء، ويوقع عليها بما يفيد اطلاع جميع الأعضاء عليها. ولا تعد القرارات الصادرة بهذه الطريقة صحيحة ما لم تمرر على جميع أعضاء المجلس، ويصوتوا عليها، وتحُز على أغلبية أصواتهم.",
+    "target_en": "The Board may, in exigent circumstances at the Chairman’s discretion, hold meetings and vote on decisions remotely. Decisions may be passed by circulation if the majority of members vote in their favor, provided that all members vote on such decisions.",
+    "source_ar_norm": "يجوز - عند الحاجة، وفي الحالات المستعجلة، ووفقا لما يقدره الرئيس - ان تعقد الاجتماعات وان يصوت علي القرارات؛ عن بعد من خلال استخدام وسائل التقنية. ويمكن ان تتخذ القرارات عن طريق التمرير علي الاعضاء، ويوقع عليها بما يفيد اطلاع جميع الاعضاء عليها. ولا تعد القرارات الصادرة بهذه الطريقة صحيحة ما لم تمرر علي جميع اعضاء المجلس، ويصوتوا عليها، وتحز علي اغلبية اصواتهم.",
+    "target_en_norm": "the board may, in exigent circumstances at the chairman’s discretion, hold meetings and vote on decisions remotely. decisions may be passed by circulation if the majority of members vote in their favor, provided that all members vote on such decisions.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17244,
+    "source_ar": "لا يجوز لعضو المجلس الامتناع عن التصويت، ولا تفويض عضو آخر بالتصويت عنه عند غيابه. وللعضو المعترض تسجيل اعتراضه وأسباب الاعتراض ضمن محضر اجتماع المجلس.",
+    "target_en": "A Board member may not abstain from voting nor vote by proxy. A dissenting member may request his objection and reasons therefor be entered into the meeting minutes.",
+    "source_ar_norm": "لا يجوز لعضو المجلس الامتناع عن التصويت، ولا تفويض عضو اخر بالتصويت عنه عند غيابه. وللعضو المعترض تسجيل اعتراضه واسباب الاعتراض ضمن محضر اجتماع المجلس.",
+    "target_en_norm": "a board member may not abstain from voting nor vote by proxy. a dissenting member may request his objection and reasons therefor be entered into the meeting minutes.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17245,
+    "source_ar": "لا يجوز للعضو أن يفشي شيئًا مما وقف عليه من أسرار الهيئة حتى بعد انتهاء عضويته في المجلس.",
+    "target_en": "A Board member shall not disclose any of ZATCA's confidential information even after the end of his membership.",
+    "source_ar_norm": "لا يجوز للعضو ان يفشي شيئا مما وقف عليه من اسرار الهيئة حتي بعد انتهاء عضويته في المجلس.",
+    "target_en_norm": "a board member shall not disclose any of zatca's confidential information even after the end of his membership.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17246,
+    "source_ar": "للمجلس دعوة من يرى الاستعانة بهم من المختصين والمستشارين لحضور اجتماعاته، دون أن يكون لهم حق التصويت.",
+    "target_en": "The Board may invite experts and consultants to attend its meetings in a non-voting capacity.",
+    "source_ar_norm": "للمجلس دعوة من يري الاستعانة بهم من المختصين والمستشارين لحضور اجتماعاته، دون ان يكون لهم حق التصويت.",
+    "target_en_norm": "the board may invite experts and consultants to attend its meetings in a non-voting capacity.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17247,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17248,
+    "source_ar": "يكون للهيئة محافظ بمرتبة (وزير)، وهو المسؤول عن إدارة شؤون الهيئة، وتتركز مسؤولياته في حدود التنظيم وما يقرره المجلس، ويتولى - بوجه خاص - الاختصاصات الآتية:",
+    "target_en": "ZATCA shall have a governor with the rank of Minister who shall be in charge of managing ZATCA in accordance with this Statute and Board decisions. He shall, in particular, assume the following powers and duties:",
+    "source_ar_norm": "يكون للهيئة محافظ بمرتبة (وزير)، وهو المسؤول عن ادارة شؤون الهيئة، وتتركز مسؤولياته في حدود التنظيم وما يقرره المجلس، ويتولي - بوجه خاص - الاختصاصات الاتية:",
+    "target_en_norm": "zatca shall have a governor with the rank of minister who shall be in charge of managing zatca in accordance with this statute and board decisions. he shall, in particular, assume the following powers and duties:",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17249,
+    "source_ar": "الإشراف على إعداد السياسات العامة للهيئة وخططها وبرامجها، ومتابعة تنفيذها بعد إقرارها.",
+    "target_en": "Supervising the setting of ZATCA’s general policies, plans, and programs, and monitoring their implementation upon approval.",
+    "source_ar_norm": "الاشراف علي اعداد السياسات العامة للهيئة وخططها وبرامجها، ومتابعة تنفيذها بعد اقرارها.",
+    "target_en_norm": "supervising the setting of zatca’s general policies, plans, and programs, and monitoring their implementation upon approval.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17250,
+    "source_ar": "الإشراف على سير العمل في الهيئة من خلال اللوائح والخطط والبرامج المعتمدة.",
+    "target_en": "Supervising ZATCA’s activities, according to ZATCA’s regulations, plans, and programs.",
+    "source_ar_norm": "الاشراف علي سير العمل في الهيئة من خلال اللوائح والخطط والبرامج المعتمدة.",
+    "target_en_norm": "supervising zatca’s activities, according to zatca’s regulations, plans, and programs.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17251,
+    "source_ar": "الإشراف على إعداد اللوائح الإدارية والمالية والداخلية والفنية التي تسير عليها الهيئة؛ تمهيدًا لرفعها إلى المجلس لإقرارها.",
+    "target_en": "Supervising the setting of ZATCA’s administrative, financial, internal, and technical regulations prior to their submission to the Board for approval.",
+    "source_ar_norm": "الاشراف علي اعداد اللوائح الادارية والمالية والداخلية والفنية التي تسير عليها الهيئة؛ تمهيدا لرفعها الي المجلس لاقرارها.",
+    "target_en_norm": "supervising the setting of zatca’s administrative, financial, internal, and technical regulations prior to their submission to the board for approval.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17252,
+    "source_ar": "اقتراح الهيكل التنظيمي للهيئة، ورفعه إلى المجلس لإقراره.",
+    "target_en": "Proposing ZATCA’s organizational structure and submitting it to the Board for approval.",
+    "source_ar_norm": "اقتراح الهيكل التنظيمي للهيئة، ورفعه الي المجلس لاقراره.",
+    "target_en_norm": "proposing zatca’s organizational structure and submitting it to the board for approval.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17253,
+    "source_ar": "الإشراف على إعداد تقرير الهيئة السنوي ومشروع ميزانيتها وحسابها الختامي؛ لعرضها على المجلس للموافقة عليها؛ تمهيدًا لاستكمال الإجراءات النظامية اللازمة في شأنها.",
+    "target_en": "Supervising the preparation of ZATCA’s annual report, draft budget, and final accounts prior to their submission to the Board for approval and completion of statutory procedures.",
+    "source_ar_norm": "الاشراف علي اعداد تقرير الهيئة السنوي ومشروع ميزانيتها وحسابها الختامي؛ لعرضها علي المجلس للموافقة عليها؛ تمهيدا لاستكمال الاجراءات النظامية اللازمة في شانها.",
+    "target_en_norm": "supervising the preparation of zatca’s annual report, draft budget, and final accounts prior to their submission to the board for approval and completion of statutory procedures.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17254,
+    "source_ar": "الإشراف على إعداد التقارير الدورية عن سير العمل في الهيئة، وعرضها على المجلس؛ للنظر فيها.",
+    "target_en": "Supervising the preparation of periodic reports on ZATCA’s activities and submitting the same to the Board.",
+    "source_ar_norm": "الاشراف علي اعداد التقارير الدورية عن سير العمل في الهيئة، وعرضها علي المجلس؛ للنظر فيها.",
+    "target_en_norm": "supervising the preparation of periodic reports on zatca’s activities and submitting the same to the board.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17255,
+    "source_ar": "التوقيع على الاتفاقيات والبروتوكولات بعد موافقة المجلس، واستكمال الإجراءات النظامية اللازمة في شأنها.",
+    "target_en": "Signing agreements and protocols upon Board approval and completing relevant statutory procedures.",
+    "source_ar_norm": "التوقيع علي الاتفاقيات والبروتوكولات بعد موافقة المجلس، واستكمال الاجراءات النظامية اللازمة في شانها.",
+    "target_en_norm": "signing agreements and protocols upon board approval and completing relevant statutory procedures.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17256,
+    "source_ar": "تمثيل الهيئة أمام القضاء، ولدى الجهات الحكومية والهيئات والمؤسسات الأخرى ذات العلاقة، وغيرها من الجهات داخل المملكة وخارجها، وله تفويض غيره بذلك.",
+    "target_en": "Representing ZATCA before the judiciary, government agencies, and other relevant entities within the Kingdom and abroad; he may delegate such power.",
+    "source_ar_norm": "تمثيل الهيئة امام القضاء، ولدي الجهات الحكومية والهيئات والمؤسسات الاخري ذات العلاقة، وغيرها من الجهات داخل المملكة وخارجها، وله تفويض غيره بذلك.",
+    "target_en_norm": "representing zatca before the judiciary, government agencies, and other relevant entities within the kingdom and abroad; he may delegate such power.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17257,
+    "source_ar": "اعتماد الصرف من ميزانية الهيئة، واتخاذ جميع الإجراءات المالية وفقًا للأنظمة واللوائح المقرة، وفي حدود الصلاحيات التي فوضه بها المجلس.",
+    "target_en": "Approving the disbursement from ZATCA's budget and conducting financial transactions in accordance with applicable laws and regulations and the powers granted to him by the Board.",
+    "source_ar_norm": "اعتماد الصرف من ميزانية الهيئة، واتخاذ جميع الاجراءات المالية وفقا للانظمة واللوائح المقرة، وفي حدود الصلاحيات التي فوضه بها المجلس.",
+    "target_en_norm": "approving the disbursement from zatca's budget and conducting financial transactions in accordance with applicable laws and regulations and the powers granted to him by the board.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17258,
+    "source_ar": "التعاقد مع الغير وفق ما يقتضيه سير العمل في الهيئة، وفقًا للأنظمة والصلاحيات التي فوضه بها المجلس.",
+    "target_en": "Concluding contracts for carrying out ZATCA’s works in accordance with the law and the powers granted to him by the Board.",
+    "source_ar_norm": "التعاقد مع الغير وفق ما يقتضيه سير العمل في الهيئة، وفقا للانظمة والصلاحيات التي فوضه بها المجلس.",
+    "target_en_norm": "concluding contracts for carrying out zatca’s works in accordance with the law and the powers granted to him by the board.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17259,
+    "source_ar": "إصدار القرارات اللازمة لتنفيذ الأحكام الواردة في التنظيم واللوائح الصادرة بناءً عليه، بحسب الصلاحيات المخولة له.",
+    "target_en": "Issuing decisions necessary to implement the provisions of this Statute and its regulations in accordance with the powers vested in him.",
+    "source_ar_norm": "اصدار القرارات اللازمة لتنفيذ الاحكام الواردة في التنظيم واللوائح الصادرة بناء عليه، بحسب الصلاحيات المخولة له.",
+    "target_en_norm": "issuing decisions necessary to implement the provisions of this statute and its regulations in accordance with the powers vested in him.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17260,
+    "source_ar": "تعيين منسوبي الهيئة وفقا للوائح المنظمة لذلك، والإشراف عليهم.",
+    "target_en": "Appointing ZATCA's employees, in accordance with the regulations, and supervising the performance of their duties.",
+    "source_ar_norm": "تعيين منسوبي الهيئة وفقا للوائح المنظمة لذلك، والاشراف عليهم.",
+    "target_en_norm": "appointing zatca's employees, in accordance with the regulations, and supervising the performance of their duties.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17261,
+    "source_ar": "أي اختصاص آخر يسنده إليه المجلس.",
+    "target_en": "Assuming any other power granted to him by the Board.",
+    "source_ar_norm": "اي اختصاص اخر يسنده اليه المجلس.",
+    "target_en_norm": "assuming any other power granted to him by the board.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17262,
+    "source_ar": "وللمحافظ تفويض بعض اختصاصاته إلى من يراه من منسوبي الهيئة.",
+    "target_en": "The Governor may delegate some of his powers to any of ZATCA's employees.",
+    "source_ar_norm": "وللمحافظ تفويض بعض اختصاصاته الي من يراه من منسوبي الهيئة.",
+    "target_en_norm": "the governor may delegate some of his powers to any of zatca's employees.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17263,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17264,
+    "source_ar": "تُكوَّن في الهيئة لجنة شرعية من ذوي التأهيل العالي والخبرة والكفاية، لا يقل عدد أعضائها عن (خمسة) من المتخصصين في فقه المعاملات المالية ومحاسبة الزكاة، والأنظمة؛ يوكل إليها ما يأتي:",
+    "target_en": "ZATCA shall form a Sharia committee of highly qualified members; it shall have at least five members specialized in financial transactions under Islamic Sharia, zakat accounting, and law. It shall carry out the following tasks:",
+    "source_ar_norm": "تكون في الهيئة لجنة شرعية من ذوي التاهيل العالي والخبرة والكفاية، لا يقل عدد اعضائها عن (خمسة) من المتخصصين في فقه المعاملات المالية ومحاسبة الزكاة، والانظمة؛ يوكل اليها ما ياتي:",
+    "target_en_norm": "zatca shall form a sharia committee of highly qualified members; it shall have at least five members specialized in financial transactions under islamic sharia, zakat accounting, and law. it shall carry out the following tasks:",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17265,
+    "source_ar": "أ- إعداد الدراسات التي تحتاج إليها الهيئة في مجال الزكاة.",
+    "target_en": "Conducting zakat-related studies as required by ZATCA.",
+    "source_ar_norm": "ا- اعداد الدراسات التي تحتاج اليها الهيئة في مجال الزكاة.",
+    "target_en_norm": "conducting zakat-related studies as required by zatca.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17266,
+    "source_ar": "ب- مراجعة مشروعات الأنظمة واللوائح ذات الصلة بعمل الهيئة في مجال الزكاة، ومراجعة أي تعديل عليها بعد إقرارها.",
+    "target_en": "Reviewing zakat-related draft laws and regulations relevant to ZATCA's jurisdiction, and any amendments thereto after approval.",
+    "source_ar_norm": "ب- مراجعة مشروعات الانظمة واللوائح ذات الصلة بعمل الهيئة في مجال الزكاة، ومراجعة اي تعديل عليها بعد اقرارها.",
+    "target_en_norm": "reviewing zakat-related draft laws and regulations relevant to zatca's jurisdiction, and any amendments thereto after approval.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17267,
+    "source_ar": "ج- معالجة أي إشكال يطرأ أثناء ممارسة الهيئة لمهماتها مما يتصل بجباية الزكاة.",
+    "target_en": "Addressing challenges that may arise while ZATCA carries out duties related to zakat collection.",
+    "source_ar_norm": "ج- معالجة اي اشكال يطرا اثناء ممارسة الهيئة لمهماتها مما يتصل بجباية الزكاة.",
+    "target_en_norm": "addressing challenges that may arise while zatca carries out duties related to zakat collection.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17268,
+    "source_ar": "د- أي مهمة أخرى يكلفها بها المجلس.",
+    "target_en": "Carrying out any other task assigned thereto by the Board.",
+    "source_ar_norm": "د- اي مهمة اخري يكلفها بها المجلس.",
+    "target_en_norm": "carrying out any other task assigned thereto by the board.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17269,
+    "source_ar": "يكون للأعضاء المشار إليهم في الفقرة (1) من هذه المادة، أعضاء احتياطيون يحلون محلهم في حالة غيابهم.",
+    "target_en": "Alternate members shall be appointed to replace the members referred to in paragraph (1) of this Article in their absence.",
+    "source_ar_norm": "يكون للاعضاء المشار اليهم في الفقرة (1) من هذه المادة، اعضاء احتياطيون يحلون محلهم في حالة غيابهم.",
+    "target_en_norm": "alternate members shall be appointed to replace the members referred to in paragraph (1) of this article in their absence.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17270,
+    "source_ar": "تكون تسمية أعضاء اللجنة المنصوص عليهم في الفقرتين (1) و(2) من هذه المادة، وتحديد مكافآتهم؛ بأمر من رئيس مجلس الوزراء، بناءً على اقتراح من الوزير، وتكون مدة عضويتهم (أربع) سنوات قابلة للتجديد.",
+    "target_en": "The committee members referred to in paragraphs (1) and (2) of this Article shall be appointed and their remuneration shall be determined pursuant to an order by the President of the Council of Ministers, upon the Minister’s recommendation; their membership shall be for a term of four renewable years.",
+    "source_ar_norm": "تكون تسمية اعضاء اللجنة المنصوص عليهم في الفقرتين (1) و(2) من هذه المادة، وتحديد مكافاتهم؛ بامر من رئيس مجلس الوزراء، بناء علي اقتراح من الوزير، وتكون مدة عضويتهم (اربع) سنوات قابلة للتجديد.",
+    "target_en_norm": "the committee members referred to in paragraphs (1) and (2) of this article shall be appointed and their remuneration shall be determined pursuant to an order by the president of the council of ministers, upon the minister’s recommendation; their membership shall be for a term of four renewable years.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17271,
+    "source_ar": "للجنة الاستعانة بمن تراه من المختصين.",
+    "target_en": "The committee may seek the assistance of specialists.",
+    "source_ar_norm": "للجنة الاستعانة بمن تراه من المختصين.",
+    "target_en_norm": "the committee may seek the assistance of specialists.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17272,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17273,
+    "source_ar": "تتألف موارد الهيئة مما يأتي:",
+    "target_en": "ZATCA’s financial resources shall be as follows:",
+    "source_ar_norm": "تتالف موارد الهيئة مما ياتي:",
+    "target_en_norm": "zatca’s financial resources shall be as follows:",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17274,
+    "source_ar": "أ- مبلغ لا يتجاوز ما نسبته (10 %) من دخل الإيرادات الضريبية والجمركية للعام المالي المنصرم، وبما لا يشمل الضرائب المحصلة من الغاز والزيت والمواد الهيدروكربونية.",
+    "target_en": "A maximum of ten percent of the taxes and customs duties collected in the previous fiscal year, excluding taxes collected from gas, oil, and hydrocarbons.",
+    "source_ar_norm": "ا- مبلغ لا يتجاوز ما نسبته (10 %) من دخل الايرادات الضريبية والجمركية للعام المالي المنصرم، وبما لا يشمل الضرائب المحصلة من الغاز والزيت والمواد الهيدروكربونية.",
+    "target_en_norm": "a maximum of ten percent of the taxes and customs duties collected in the previous fiscal year, excluding taxes collected from gas, oil, and hydrocarbons.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17275,
+    "source_ar": "ب- المقابل المالي الذي تحصل عليه نظير الخدمات التي تقدمها.",
+    "target_en": "Fees for services rendered by ZATCA.",
+    "source_ar_norm": "ب- المقابل المالي الذي تحصل عليه نظير الخدمات التي تقدمها.",
+    "target_en_norm": "fees for services rendered by zatca.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17276,
+    "source_ar": "ج- ما يقبله المجلس من هبات وتبرعات ومنح ووصايا وأوقاف وفقًا للأحكام المنظمة لذلك.",
+    "target_en": "Gifts, donations, grants, bequests, and endowments accepted by the Board in accordance with relevant provisions.",
+    "source_ar_norm": "ج- ما يقبله المجلس من هبات وتبرعات ومنح ووصايا واوقاف وفقا للاحكام المنظمة لذلك.",
+    "target_en_norm": "gifts, donations, grants, bequests, and endowments accepted by the board in accordance with relevant provisions.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17277,
+    "source_ar": "د- عوائد استثمارات الموارد المالية والأصول المتاحة للهيئة.",
+    "target_en": "Returns on investments of ZATCA’s financial resources and assets.",
+    "source_ar_norm": "د- عوائد استثمارات الموارد المالية والاصول المتاحة للهيئة.",
+    "target_en_norm": "returns on investments of zatca’s financial resources and assets.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17278,
+    "source_ar": "هـ- أي مورد آخر يقره المجلس بما لا يخالف الأنظمة والتعليمات.",
+    "target_en": "Any other resource approved by the Board not inconsistent with the laws and instructions.",
+    "source_ar_norm": "ه- اي مورد اخر يقره المجلس بما لا يخالف الانظمة والتعليمات.",
+    "target_en_norm": "any other resource approved by the board not inconsistent with the laws and instructions.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17279,
+    "source_ar": "تودع جميع إيرادات الهيئة في حساب جاري وزارة المالية في البنك المركزي السعودي.",
+    "target_en": "ZATCA’s revenues shall be deposited in the Ministry of Finance’s current account with the Saudi Central Bank.",
+    "source_ar_norm": "تودع جميع ايرادات الهيئة في حساب جاري وزارة المالية في البنك المركزي السعودي.",
+    "target_en_norm": "zatca’s revenues shall be deposited in the ministry of finance’s current account with the saudi central bank.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17280,
+    "source_ar": "تفتح الهيئة حسابًا لها في البنك المركزي السعودي، ولها فتح حسابات أخرى في أي من البنوك المرخص لها بالعمل في المملكة، ويصرف من هذه الحسابات وفق ميزانية الهيئة ولوائحها المالية.",
+    "target_en": "ZATCA shall open an account with the Saudi Central Bank and may open other accounts with any of the banks licensed to operate in the Kingdom. Disbursement from such accounts shall be made in accordance with ZATCA’s budget and financial regulations.",
+    "source_ar_norm": "تفتح الهيئة حسابا لها في البنك المركزي السعودي، ولها فتح حسابات اخري في اي من البنوك المرخص لها بالعمل في المملكة، ويصرف من هذه الحسابات وفق ميزانية الهيئة ولوائحها المالية.",
+    "target_en_norm": "zatca shall open an account with the saudi central bank and may open other accounts with any of the banks licensed to operate in the kingdom. disbursement from such accounts shall be made in accordance with zatca’s budget and financial regulations.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17281,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17282,
+    "source_ar": "تكون للهيئة ميزانية سنوية مستقلة من مواردها المالية، واحتياطي عام يعادل ضعف إجمالي نفقاتها المبينة في ميزانيتها السنوية السابقة؛ تودع في حساب الهيئة بعد توريد جميع الإيرادات إلى حساب جاري وزارة المالية في البنك المركزي السعودي.",
+    "target_en": "ZATCA shall have, from its financial resources, an independent annual budget, and shall have a general reserve equal to twice its total expenditures as indicated in its previous annual budget. The amounts of the budget and reserve shall be deposited in ZATCA's account after depositing the revenues in the Ministry of Finance’s current account with the Saudi Central Bank.",
+    "source_ar_norm": "تكون للهيئة ميزانية سنوية مستقلة من مواردها المالية، واحتياطي عام يعادل ضعف اجمالي نفقاتها المبينة في ميزانيتها السنوية السابقة؛ تودع في حساب الهيئة بعد توريد جميع الايرادات الي حساب جاري وزارة المالية في البنك المركزي السعودي.",
+    "target_en_norm": "zatca shall have, from its financial resources, an independent annual budget, and shall have a general reserve equal to twice its total expenditures as indicated in its previous annual budget. the amounts of the budget and reserve shall be deposited in zatca's account after depositing the revenues in the ministry of finance’s current account with the saudi central bank.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17283,
+    "source_ar": "السنة المالية للهيئة هي السنة المالية للدولة.",
+    "target_en": "ZATCA's fiscal year shall be the same as the State’s fiscal year.",
+    "source_ar_norm": "السنة المالية للهيئة هي السنة المالية للدولة.",
+    "target_en_norm": "zatca's fiscal year shall be the same as the state’s fiscal year.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17284,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17285,
+    "source_ar": "ترفع الهيئة إلى مجلس الوزراء حسابها الختامي السنوي خلال (تسعين) يومًا من تاريخ انتهاء السنة المالية، ويزود الديوان العام للمحاسبة بنسخة منه.",
+    "target_en": "ZATCA shall, within 90 days from the date of the end of the fiscal year, submit to the Council of Ministers its final accounts, and shall provide a copy thereof to the General Court of Audit.",
+    "source_ar_norm": "ترفع الهيئة الي مجلس الوزراء حسابها الختامي السنوي خلال (تسعين) يوما من تاريخ انتهاء السنة المالية، ويزود الديوان العام للمحاسبة بنسخة منه.",
+    "target_en_norm": "zatca shall, within 90 days from the date of the end of the fiscal year, submit to the council of ministers its final accounts, and shall provide a copy thereof to the general court of audit.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17286,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17287,
+    "source_ar": "دون إخلال باختصاص الديوان العام للمحاسبة، يعين المجلس مراجع حسابات خارجي (أو أكثر) من المرخص لهم بالعمل في المملكة، لتدقيق حسابات الهيئة ومعاملاتها وبياناتها وميزانيتها السنوية وحسابها الختامي، ويحدد المجلس أتعابه. ويرفع تقرير مراجع الحسابات إلى المجلس، ويزود الديوان العام للمحاسبة بنسخة منه.",
+    "target_en": "Without prejudice to the jurisdiction of the General Court of Audit, the Board shall appoint and determine the fees of an external auditor, or more, licensed to practice in the Kingdom to audit ZATCA’s accounts, transactions, statements, annual budget, and final accounts. The auditor's report shall be submitted to the Board and a copy thereof shall be provided to the General Court of Audit.",
+    "source_ar_norm": "دون اخلال باختصاص الديوان العام للمحاسبة، يعين المجلس مراجع حسابات خارجي (او اكثر) من المرخص لهم بالعمل في المملكة، لتدقيق حسابات الهيئة ومعاملاتها وبياناتها وميزانيتها السنوية وحسابها الختامي، ويحدد المجلس اتعابه. ويرفع تقرير مراجع الحسابات الي المجلس، ويزود الديوان العام للمحاسبة بنسخة منه.",
+    "target_en_norm": "without prejudice to the jurisdiction of the general court of audit, the board shall appoint and determine the fees of an external auditor, or more, licensed to practice in the kingdom to audit zatca’s accounts, transactions, statements, annual budget, and final accounts. the auditor's report shall be submitted to the board and a copy thereof shall be provided to the general court of audit.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17288,
+    "source_ar": "المادة الثالثة عشرة",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة",
+    "target_en_norm": "article 13",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17289,
+    "source_ar": "يرفع المحافظ إلى المجلس خلال (تسعين) يومًا من بداية كل سنة مالية تقريرًا سنويًّا عما حققته الهيئة من إنجازات، وما واجهها من صعوبات، وما يراه من مقترحات لتحسين سير العمل فيها.",
+    "target_en": "The Governor shall, within 90 days from the beginning of each fiscal year, submit to the Board ZATCA’s annual report which shall include its achievements,",
+    "source_ar_norm": "يرفع المحافظ الي المجلس خلال (تسعين) يوما من بداية كل سنة مالية تقريرا سنويا عما حققته الهيئة من انجازات، وما واجهها من صعوبات، وما يراه من مقترحات لتحسين سير العمل فيها.",
+    "target_en_norm": "the governor shall, within 90 days from the beginning of each fiscal year, submit to the board zatca’s annual report which shall include its achievements,",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17290,
+    "source_ar": "المادة الرابعة عشرة",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة",
+    "target_en_norm": "article 14",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17291,
+    "source_ar": "يخضع منسوبو الهيئة - عدا المحافظ - لأحكام نظام العمل ونظام التأمينات الاجتماعية.",
+    "target_en": "ZATCA's employees, with the exception of the Governor, shall be subject to the Labor Law and the Social Insurance Law.",
+    "source_ar_norm": "يخضع منسوبو الهيئة - عدا المحافظ - لاحكام نظام العمل ونظام التامينات الاجتماعية.",
+    "target_en_norm": "zatca's employees, with the exception of the governor, shall be subject to the labor law and the social insurance law.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17292,
+    "source_ar": "المادة الخامسة عشرة",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة",
+    "target_en_norm": "article 15",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17293,
+    "source_ar": "يلغي التنظيم كلًّا من تنظيم الهيئة العامة للزكاة والدخل الصادر بقرار مجلس الوزراء رقم (465) وتاريخ 20 / 7 / 1438هـ، وتنظيم الهيئة العامة للجمارك الصادر بقرار مجلس الوزراء رقم (352) وتاريخ 3 / 7 / 1439هـ، وكل ما يتعارض معه من أحكام.",
+    "target_en": "This Statute shall repeal the Statute of the General Authority for Zakat and Tax, promulgated pursuant to the Council of Ministers Resolution No. 465, dated 20/7/1438H, and the Statute of the General Customs Authority issued pursuant to the Council of the Ministers Resolution No. 352, dated 3/7/1439H, and any provision conflicting therewith.",
+    "source_ar_norm": "يلغي التنظيم كلا من تنظيم الهيئة العامة للزكاة والدخل الصادر بقرار مجلس الوزراء رقم (465) وتاريخ 20 / 7 / 1438ه، وتنظيم الهيئة العامة للجمارك الصادر بقرار مجلس الوزراء رقم (352) وتاريخ 3 / 7 / 1439ه، وكل ما يتعارض معه من احكام.",
+    "target_en_norm": "this statute shall repeal the statute of the general authority for zakat and tax, promulgated pursuant to the council of ministers resolution no. 465, dated 20/7/1438h, and the statute of the general customs authority issued pursuant to the council of the ministers resolution no. 352, dated 3/7/1439h, and any provision conflicting therewith.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17294,
+    "source_ar": "المادة السادسة عشرة",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة",
+    "target_en_norm": "article 16",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17295,
+    "source_ar": "ينشر التنظيم في الجريدة الرسمية، ويعمل به من تاريخ نشره.",
+    "target_en": "This Statute shall be published in the Official Gazette and shall enter into force on the date of its publication.",
+    "source_ar_norm": "ينشر التنظيم في الجريدة الرسمية، ويعمل به من تاريخ نشره.",
+    "target_en_norm": "this statute shall be published in the official gazette and shall enter into force on the date of its publication.",
+    "file_name": "تنظيم هيئة الزكاة والضريبة والجمارك.docx"
+  },
+  {
+    "id": 17296,
+    "source_ar": "تنظيم هيئة الفنون البصرية",
+    "target_en": "Statute of Visual Arts Commission",
+    "source_ar_norm": "تنظيم هيئة الفنون البصرية",
+    "target_en_norm": "statute of visual arts commission",
+    "file_name": "تنظيم هيئة الفنون البصرية.docx"
+  },
+  {
+    "id": 17297,
+    "source_ar": "المادة الأولى:",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي:",
+    "target_en_norm": "article 1",
+    "file_name": "تنظيم هيئة الفنون البصرية.docx"
+  },
+  {
+    "id": 17298,
+    "source_ar": "يقصد بالكلمات والعبارات الآتية -أينما وردت في هذا التنظيم- المعاني المبينة أمام كل منها، ما لم يقتضِ السياق غير ذلك:",
+    "target_en": "In this Statute, the following words and phrases shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "source_ar_norm": "يقصد بالكلمات والعبارات الاتية -اينما وردت في هذا التنظيم- المعاني المبينة امام كل منها، ما لم يقتض السياق غير ذلك:",
+    "target_en_norm": "in this statute, the following words and phrases shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "file_name": "تنظيم هيئة الفنون البصرية.docx"
+  },
+  {
+    "id": 17299,
+    "source_ar": "1-الهيئة: هيئة الفنون البصرية.",
+    "target_en": "1-Commission: Visual Arts Commission.",
+    "source_ar_norm": "1-الهيئة: هيئة الفنون البصرية.",
+    "target_en_norm": "1-commission: visual arts commission.",
+    "file_name": "تنظيم هيئة الفنون البصرية.docx"
+  },
+  {
+    "id": 17300,
+    "source_ar": "2-التنظيم: تنظيم الهيئة.",
+    "target_en": "2-Statute: Statute of the Commission.",
+    "source_ar_norm": "2-التنظيم: تنظيم الهيئة.",
+    "target_en_norm": "2-statute: statute of the commission.",
+    "file_name": "تنظيم هيئة الفنون البصرية.docx"
+  }
+]

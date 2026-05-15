@@ -1,0 +1,802 @@
+[
+  {
+    "id": 10101,
+    "source_ar": "1- لا تستحق الأجرة إذا هلكت السفينة، أو توقفت بسبب قوة قاهرة أو بفعل المؤجر أو تابعيه.",
+    "target_en": "1. The hire shall not be payable if the vessel is wrecked or stopped by force majeure, or by an act of the lessor or his servants.",
+    "source_ar_norm": "1- لا تستحق الاجرة اذا هلكت السفينة، او توقفت بسبب قوة قاهرة او بفعل المؤجر او تابعيه.",
+    "target_en_norm": "1. the hire shall not be payable if the vessel is wrecked or stopped by force majeure, or by an act of the lessor or his servants.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10102,
+    "source_ar": "2- إذا انقطعت أنباء السفينة، ثم ثبت هلاكها استحقت الأجرة إلى تاريخ آخر نبأ عنها.",
+    "target_en": "2. If it is established that the vessel has been wrecked, the hire shall be payable up to the date of the last time news about the vessel is received.",
+    "source_ar_norm": "2- اذا انقطعت انباء السفينة، ثم ثبت هلاكها استحقت الاجرة الي تاريخ اخر نبا عنها.",
+    "target_en_norm": "2. if it is established that the vessel has been wrecked, the hire shall be payable up to the date of the last time news about the vessel is received.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10103,
+    "source_ar": "المادة الثالثة والستون بعد المائة",
+    "target_en": "Article 163",
+    "source_ar_norm": "المادة الثالثة والستون بعد المائة",
+    "target_en_norm": "article 163",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10104,
+    "source_ar": "يسترد المؤجر حقه في التصرف في السفينة إذا لم يستوفِ الأجرة المستحقة له خلال ثلاثة أيام من تاريخ إنذار المستأجر. وفي هذه الحالة يلتزم المؤجر بنقل بضائع المستأجر المشحونة في السفينة إلى ميناء الوصول مقابل أجرة المثل، مع عدم الإخلال بحقه في طلب التعويض.",
+    "target_en": "The lessor shall recover his right to dispose of the vessel if the charterer fails to pay the hire within three days from the date of notification. In such event, the lessor shall carry the charterer’s goods on board to the port of destination in consideration of quantum meruit freight, without prejudice to his right to claim compensation.",
+    "source_ar_norm": "يسترد المؤجر حقه في التصرف في السفينة اذا لم يستوف الاجرة المستحقة له خلال ثلاثة ايام من تاريخ انذار المستاجر. وفي هذه الحالة يلتزم المؤجر بنقل بضائع المستاجر المشحونة في السفينة الي ميناء الوصول مقابل اجرة المثل، مع عدم الاخلال بحقه في طلب التعويض.",
+    "target_en_norm": "the lessor shall recover his right to dispose of the vessel if the charterer fails to pay the hire within three days from the date of notification. in such event, the lessor shall carry the charterer’s goods on board to the port of destination in consideration of quantum meruit freight, without prejudice to his right to claim compensation.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10105,
+    "source_ar": "المادة الرابعة والستون بعد المائة",
+    "target_en": "Article 164",
+    "source_ar_norm": "المادة الرابعة والستون بعد المائة",
+    "target_en_norm": "article 164",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10106,
+    "source_ar": "1- يلتزم المستأجر عند انتهاء عقد الإيجار برد السفينة في الميناء الذي وضعت فيه تحت تصرفه، إلا إذا اتفق على غير ذلك.",
+    "target_en": "1. The charterer shall, at the end of the charterparty, return the vessel to the port where it was placed under his disposal, unless agreed otherwise.",
+    "source_ar_norm": "1- يلتزم المستاجر عند انتهاء عقد الايجار برد السفينة في الميناء الذي وضعت فيه تحت تصرفه، الا اذا اتفق علي غير ذلك.",
+    "target_en_norm": "1. the charterer shall, at the end of the charterparty, return the vessel to the port where it was placed under his disposal, unless agreed otherwise.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10107,
+    "source_ar": "2- إذا انقضت مدة الإيجار أثناء الرحلة امتد العقد إلى نهايتها ويستحق المؤجر الأجرة المنصوص عليها في العقد عن الأيام الزائدة.",
+    "target_en": "2. If the charterparty terminates during the voyage, it shall be extended until the end of the voyage and the lessor shall be entitled to the hire stipulated in the charterparty for the additional days.",
+    "source_ar_norm": "2- اذا انقضت مدة الايجار اثناء الرحلة امتد العقد الي نهايتها ويستحق المؤجر الاجرة المنصوص عليها في العقد عن الايام الزائدة.",
+    "target_en_norm": "2. if the charterparty terminates during the voyage, it shall be extended until the end of the voyage and the lessor shall be entitled to the hire stipulated in the charterparty for the additional days.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10108,
+    "source_ar": "3- لا تخفض الأجرة إذا ردت السفينة قبل انتهاء مدة الإيجار.",
+    "target_en": "3. The hire shall not be reduced if the vessel is returned before the end of the charterparty.",
+    "source_ar_norm": "3- لا تخفض الاجرة اذا ردت السفينة قبل انتهاء مدة الايجار.",
+    "target_en_norm": "3. the hire shall not be reduced if the vessel is returned before the end of the charterparty.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10109,
+    "source_ar": "المادة الخامسة والستون بعد المائة",
+    "target_en": "Article 165",
+    "source_ar_norm": "المادة الخامسة والستون بعد المائة",
+    "target_en_norm": "article 165",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10110,
+    "source_ar": "يذكر في عقد إيجار السفينة بالرحلة ما يأتي:",
+    "target_en": "A voyage charterparty shall include:",
+    "source_ar_norm": "يذكر في عقد ايجار السفينة بالرحلة ما ياتي:",
+    "target_en_norm": "a voyage charterparty shall include:",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10111,
+    "source_ar": "1- اسم المؤجر والمستأجر وعنوان كل منهما.",
+    "target_en": "1. name and address of the lessor and charterer;",
+    "source_ar_norm": "1- اسم المؤجر والمستاجر وعنوان كل منهما.",
+    "target_en_norm": "1. name and address of the lessor and charterer;",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10112,
+    "source_ar": "2- اسم السفينة وجنسيتها وحمولتها وغيرها من الأوصاف اللازمة لتعيينها.",
+    "target_en": "2. vessel’s name, nationality, tonnage, and other specifications required for its identification;",
+    "source_ar_norm": "2- اسم السفينة وجنسيتها وحمولتها وغيرها من الاوصاف اللازمة لتعيينها.",
+    "target_en_norm": "2. vessel’s name, nationality, tonnage, and other specifications required for its identification;",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10113,
+    "source_ar": "3- نوع الحمولة ومقدارها وأوصافها.",
+    "target_en": "3. type, quantity, and description of the cargo;",
+    "source_ar_norm": "3- نوع الحمولة ومقدارها واوصافها.",
+    "target_en_norm": "3. type, quantity, and description of the cargo;",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10114,
+    "source_ar": "4- مكان الشحن ومكان التفريغ والمدة المتفق عليها لإجرائهما.",
+    "target_en": "4. place and time agreed for loading and discharge;",
+    "source_ar_norm": "4- مكان الشحن ومكان التفريغ والمدة المتفق عليها لاجرائهما.",
+    "target_en_norm": "4. place and time agreed for loading and discharge;",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10115,
+    "source_ar": "5- مقدار الأجرة وطريقة حسابها.",
+    "target_en": "5. freight cost and method of its calculation; and",
+    "source_ar_norm": "5- مقدار الاجرة وطريقة حسابها.",
+    "target_en_norm": "5. freight cost and method of its calculation; and",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10116,
+    "source_ar": "6- بيان الرحلات المتفق عليها.",
+    "target_en": "6. a list of agreed-upon voyages.",
+    "source_ar_norm": "6- بيان الرحلات المتفق عليها.",
+    "target_en_norm": "6. a list of agreed-upon voyages.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10117,
+    "source_ar": "المادة السادسة والستون بعد المائة",
+    "target_en": "Article 166",
+    "source_ar_norm": "المادة السادسة والستون بعد المائة",
+    "target_en_norm": "article 166",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10118,
+    "source_ar": "1- إذا لم يتم الشحن أو التفريغ في المدة الأصلية التي يحددها عقد الإيجار، تسري مهلة إضافية لا تتجاوز المدة الأصلية، ويستحق المؤجر عنها تعويضاً يوميًّا يحدده العقد. وإذا لم يتم الشحن أو التفريغ خلال المهلة الإضافية تسري مهلة إضافية ثانية لا تتجاوز المهلة الأولى، ويستحق المؤجر عنها تعويضاً يوميًّا يعادل التعويض اليومي المقرر للمهلة الإضافية الأولى زائداً النصف، وذلك دون إخلال بما قد يستحق من تعويضات أخرى.",
+    "target_en": "1. If loading or discharge does not take place within the period specified in the charterparty, an additional period not exceeding the original period shall take effect, during which the lessor shall be entitled to a daily compensation as specified in the charterparty. If loading or discharge does not take place within the additional period, a second additional period not exceeding the first one shall take effect, during which the lessor shall be entitled to a daily compensation equal to 150% of the daily compensation set for the first additional period, without prejudice to any other compensations.",
+    "source_ar_norm": "1- اذا لم يتم الشحن او التفريغ في المدة الاصلية التي يحددها عقد الايجار، تسري مهلة اضافية لا تتجاوز المدة الاصلية، ويستحق المؤجر عنها تعويضا يوميا يحدده العقد. واذا لم يتم الشحن او التفريغ خلال المهلة الاضافية تسري مهلة اضافية ثانية لا تتجاوز المهلة الاولي، ويستحق المؤجر عنها تعويضا يوميا يعادل التعويض اليومي المقرر للمهلة الاضافية الاولي زائدا النصف، وذلك دون اخلال بما قد يستحق من تعويضات اخري.",
+    "target_en_norm": "1. if loading or discharge does not take place within the period specified in the charterparty, an additional period not exceeding the original period shall take effect, during which the lessor shall be entitled to a daily compensation as specified in the charterparty. if loading or discharge does not take place within the additional period, a second additional period not exceeding the first one shall take effect, during which the lessor shall be entitled to a daily compensation equal to 150% of the daily compensation set for the first additional period, without prejudice to any other compensations.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10119,
+    "source_ar": "2- يعد التعويض اليومي الذي يستحق عن المهل الإضافية من ملحقات الأجرة, وتسري عليه أحكامها.",
+    "target_en": "2. The daily compensation for the additional periods shall be deemed part of the freight-related expenses and thus subject to their provisions.",
+    "source_ar_norm": "2- يعد التعويض اليومي الذي يستحق عن المهل الاضافية من ملحقات الاجرة, وتسري عليه احكامها.",
+    "target_en_norm": "2. the daily compensation for the additional periods shall be deemed part of the freight-related expenses and thus subject to their provisions.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10120,
+    "source_ar": "المادة السابعة والستون بعد المائة",
+    "target_en": "Article 167",
+    "source_ar_norm": "المادة السابعة والستون بعد المائة",
+    "target_en_norm": "article 167",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10121,
+    "source_ar": "1- إذا تم الشحن قبل انتهاء المدة المعينة له فلا تضاف الأيام الباقية إلى مهلة التفريغ، وإذا تم التفريغ قبل انتهاء المدة المعينة له فلا يعوض عن الأيام الزائدة في الشحن ما لم يتفق على غير ذلك.",
+    "target_en": "1. If loading is completed prior to the expiration of the specified period, the remaining days shall not be added to the discharge period. If discharge is completed prior to the expiration of the specified period, the remaining days shall not be used to compensate for the extra loading days, if any, unless agreed otherwise.",
+    "source_ar_norm": "1- اذا تم الشحن قبل انتهاء المدة المعينة له فلا تضاف الايام الباقية الي مهلة التفريغ، واذا تم التفريغ قبل انتهاء المدة المعينة له فلا يعوض عن الايام الزائدة في الشحن ما لم يتفق علي غير ذلك.",
+    "target_en_norm": "1. if loading is completed prior to the expiration of the specified period, the remaining days shall not be added to the discharge period. if discharge is completed prior to the expiration of the specified period, the remaining days shall not be used to compensate for the extra loading days, if any, unless agreed otherwise.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10122,
+    "source_ar": "2- يجوز الاتفاق على منح المستأجر مكافأة على الإسراع في إنجاز الشحن والتفريغ.",
+    "target_en": "2. An agreement may be made to reward the charterer for completing loading and discharge ahead of schedule.",
+    "source_ar_norm": "2- يجوز الاتفاق علي منح المستاجر مكافاة علي الاسراع في انجاز الشحن والتفريغ.",
+    "target_en_norm": "2. an agreement may be made to reward the charterer for completing loading and discharge ahead of schedule.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10123,
+    "source_ar": "المادة الثامنة والستون بعد المائة",
+    "target_en": "Article 168",
+    "source_ar_norm": "المادة الثامنة والستون بعد المائة",
+    "target_en_norm": "article 168",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10124,
+    "source_ar": "للربان بعد انقضاء مدد التفريغ إنزال البضائع المشحونة على نفقة المستأجر ومسؤوليته، ويلتزم الربان باتخاذ التدابير اللازمة للمحافظة على البضائع التي أنزلها من السفينة.",
+    "target_en": "The master may, upon expiration of the discharge period, discharge goods at the expense and liability of the charterer. He shall take the necessary measures to safeguard discharged goods.",
+    "source_ar_norm": "للربان بعد انقضاء مدد التفريغ انزال البضائع المشحونة علي نفقة المستاجر ومسؤوليته، ويلتزم الربان باتخاذ التدابير اللازمة للمحافظة علي البضائع التي انزلها من السفينة.",
+    "target_en_norm": "the master may, upon expiration of the discharge period, discharge goods at the expense and liability of the charterer. he shall take the necessary measures to safeguard discharged goods.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10125,
+    "source_ar": "المادة التاسعة والستون بعد المائة",
+    "target_en": "Article 169",
+    "source_ar_norm": "المادة التاسعة والستون بعد المائة",
+    "target_en_norm": "article 169",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10126,
+    "source_ar": "إذا لم يشحن المستأجر كل البضائع المتفق عليها التزم مع ذلك بدفع الأجرة كاملة.",
+    "target_en": "If the charterer does not load all the agreed-upon goods, he shall nonetheless pay the full freight.",
+    "source_ar_norm": "اذا لم يشحن المستاجر كل البضائع المتفق عليها التزم مع ذلك بدفع الاجرة كاملة.",
+    "target_en_norm": "if the charterer does not load all the agreed-upon goods, he shall nonetheless pay the full freight.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10127,
+    "source_ar": "المادة السبعون بعد المائة",
+    "target_en": "Article 170",
+    "source_ar_norm": "المادة السبعون بعد المائة",
+    "target_en_norm": "article 170",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10128,
+    "source_ar": "1- لا يجوز لمالك السفينة المجهزة المؤجرة كليًّا أو جزئيًّا، أن يشحن في تلك السفينة أو في الجزء المؤجر منها، أي بضاعة لا تخص المستأجر دون إذن منه، ويكون للمستأجر الحق في المطالبة بأجرة البضاعة المشحونة دون إذنه، وذلك دون الإخلال بأي تعويض آخر.",
+    "target_en": "1. The owner of an equipped vessel, chartered wholly or partially, shall not load on the vessel nor a chartered part thereof any goods which do not belong to the charterer without his permission. The charterer may claim the freight of goods loaded without his permission, without prejudice to any other compensations.",
+    "source_ar_norm": "1- لا يجوز لمالك السفينة المجهزة المؤجرة كليا او جزئيا، ان يشحن في تلك السفينة او في الجزء المؤجر منها، اي بضاعة لا تخص المستاجر دون اذن منه، ويكون للمستاجر الحق في المطالبة باجرة البضاعة المشحونة دون اذنه، وذلك دون الاخلال باي تعويض اخر.",
+    "target_en_norm": "1. the owner of an equipped vessel, chartered wholly or partially, shall not load on the vessel nor a chartered part thereof any goods which do not belong to the charterer without his permission. the charterer may claim the freight of goods loaded without his permission, without prejudice to any other compensations.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10129,
+    "source_ar": "2- للمؤجر حق امتياز على البضاعة المشار إليها في الفقرة (1) من هذه المادة ضمانًا لدين الأجرة وملحقاتها.",
+    "target_en": "2. The lessor shall have a lien over the goods referred to in paragraph (1) of this Article as a security for the freight and related expenses.",
+    "source_ar_norm": "2- للمؤجر حق امتياز علي البضاعة المشار اليها في الفقرة (1) من هذه المادة ضمانا لدين الاجرة وملحقاتها.",
+    "target_en_norm": "2. the lessor shall have a lien over the goods referred to in paragraph (1) of this article as a security for the freight and related expenses.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10130,
+    "source_ar": "المادة الحادية والسبعون بعد المائة",
+    "target_en": "Article 171",
+    "source_ar_norm": "المادة الحادية والسبعون بعد المائة",
+    "target_en_norm": "article 171",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10131,
+    "source_ar": "ينفسخ عقد إيجار السفينة دون تعويض على المؤجر أو المستأجر إذا قامت قوة قاهرة تجعل تنفيذ الرحلة مستحيلاً، أو إذا مُنعت التجارة مع الدولة التي يقع فيها أحد ميناءي الشحن أو التفريغ.",
+    "target_en": "A charterparty shall terminate without compensation by the lessor or the charterer in the event of force majeure rendering the voyage impossible or if trade with the state of either the port of loading or discharge is banned.",
+    "source_ar_norm": "ينفسخ عقد ايجار السفينة دون تعويض علي المؤجر او المستاجر اذا قامت قوة قاهرة تجعل تنفيذ الرحلة مستحيلا، او اذا منعت التجارة مع الدولة التي يقع فيها احد ميناءي الشحن او التفريغ.",
+    "target_en_norm": "a charterparty shall terminate without compensation by the lessor or the charterer in the event of force majeure rendering the voyage impossible or if trade with the state of either the port of loading or discharge is banned.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10132,
+    "source_ar": "المادة الثانية والسبعون بعد المائة",
+    "target_en": "Article 172",
+    "source_ar_norm": "المادة الثانية والسبعون بعد المائة",
+    "target_en_norm": "article 172",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10133,
+    "source_ar": "يجوز للمستأجر إنهاء عقد إيجار السفينة في أي وقت قبل البدء في شحن البضائع، ويعوِّض المؤجر عما يلحقه بسبب ذلك من ضرر، على ألاّ يتجاوز التعويض قيمة الأجرة المتفق عليها.",
+    "target_en": "The charterer may terminate the charterparty at any time prior to commencement of loading of goods, and shall compensate the lessor for any damage sustained thereby, provided that the compensation does not exceed the agreed-upon hire amount.",
+    "source_ar_norm": "يجوز للمستاجر انهاء عقد ايجار السفينة في اي وقت قبل البدء في شحن البضائع، ويعوض المؤجر عما يلحقه بسبب ذلك من ضرر، علي الا يتجاوز التعويض قيمة الاجرة المتفق عليها.",
+    "target_en_norm": "the charterer may terminate the charterparty at any time prior to commencement of loading of goods, and shall compensate the lessor for any damage sustained thereby, provided that the compensation does not exceed the agreed-upon hire amount.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10134,
+    "source_ar": "المادة الثالثة والسبعون بعد المائة",
+    "target_en": "Article 173",
+    "source_ar_norm": "المادة الثالثة والسبعون بعد المائة",
+    "target_en_norm": "article 173",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10135,
+    "source_ar": "للمستأجر أن يطلب في أي وقت أثناء السفر تفريغ البضائع قبل وصولها إلى الميناء المتفق عليه، بشرط أن يدفع الأجرة كاملة ونفقات التفريغ.",
+    "target_en": "The charterer may at any time during the voyage request the discharge of the goods prior to arrival at the agreed-upon port, provided he pays the full freight and discharge costs.",
+    "source_ar_norm": "للمستاجر ان يطلب في اي وقت اثناء السفر تفريغ البضائع قبل وصولها الي الميناء المتفق عليه، بشرط ان يدفع الاجرة كاملة ونفقات التفريغ.",
+    "target_en_norm": "the charterer may at any time during the voyage request the discharge of the goods prior to arrival at the agreed-upon port, provided he pays the full freight and discharge costs.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10136,
+    "source_ar": "المادة الرابعة والسبعون بعد المائة",
+    "target_en": "Article 174",
+    "source_ar_norm": "المادة الرابعة والسبعون بعد المائة",
+    "target_en_norm": "article 174",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10137,
+    "source_ar": "يبقى عقد الإيجار نافذاً دون زيادة الأجرة ودون تعويض، إذا حالت قوة قاهرة مؤقتاً دون سفر السفينة أو استمرار سفرها. وفي هذه الحالة يجوز للمستأجر تفريغ بضائعه على نفقته، وله بعد ذلك أن يعيد شحنها في السفينة على نفقته أيضاً، وتستحق عليه الأجرة كاملة.",
+    "target_en": "A charterparty shall remain in force without increase in hire and without compensation if force majeure temporarily interrupts the commencement or continuation of the voyage. In such case, the charterer may discharge and reload his goods at his own expense, and shall pay the hire in full.",
+    "source_ar_norm": "يبقي عقد الايجار نافذا دون زيادة الاجرة ودون تعويض، اذا حالت قوة قاهرة مؤقتا دون سفر السفينة او استمرار سفرها. وفي هذه الحالة يجوز للمستاجر تفريغ بضائعه علي نفقته، وله بعد ذلك ان يعيد شحنها في السفينة علي نفقته ايضا، وتستحق عليه الاجرة كاملة.",
+    "target_en_norm": "a charterparty shall remain in force without increase in hire and without compensation if force majeure temporarily interrupts the commencement or continuation of the voyage. in such case, the charterer may discharge and reload his goods at his own expense, and shall pay the hire in full.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10138,
+    "source_ar": "المادة الخامسة والسبعون بعد المائة",
+    "target_en": "Article 175",
+    "source_ar_norm": "المادة الخامسة والسبعون بعد المائة",
+    "target_en_norm": "article 175",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10139,
+    "source_ar": "إذا بدأت الرحلة، ثم استحال الاستمرار فيها بسبب راجع إلى المؤجر أو تابعيه، فلا يلتزم المستأجر إلا بدفع أجرة ما تم من الرحلة.",
+    "target_en": "If the continuation of a voyage becomes impossible by reason attributable to the lessor or his servants, the charterer shall only pay the hire for the completed part of the voyage.",
+    "source_ar_norm": "اذا بدات الرحلة، ثم استحال الاستمرار فيها بسبب راجع الي المؤجر او تابعيه، فلا يلتزم المستاجر الا بدفع اجرة ما تم من الرحلة.",
+    "target_en_norm": "if the continuation of a voyage becomes impossible by reason attributable to the lessor or his servants, the charterer shall only pay the hire for the completed part of the voyage.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10140,
+    "source_ar": "المادة السادسة والسبعون بعد المائة",
+    "target_en": "Article 176",
+    "source_ar_norm": "المادة السادسة والسبعون بعد المائة",
+    "target_en_norm": "article 176",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10141,
+    "source_ar": "1- إذا تعذر وصول السفينة إلى الميناء المعين لتفريغ البضاعة وجب أن يوجه المؤجر السفينة إلى أقرب ميناء إليه يمكن التفريغ فيه.",
+    "target_en": "1. If it is not possible for a vessel to reach the designated port of discharge, the lessor shall direct the vessel to the nearest port of discharge.",
+    "source_ar_norm": "1- اذا تعذر وصول السفينة الي الميناء المعين لتفريغ البضاعة وجب ان يوجه المؤجر السفينة الي اقرب ميناء اليه يمكن التفريغ فيه.",
+    "target_en_norm": "1. if it is not possible for a vessel to reach the designated port of discharge, the lessor shall direct the vessel to the nearest port of discharge.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10142,
+    "source_ar": "2- يتحمل المؤجر مصروفات نقل البضائع إلى الميناء المتفق عليه؛ إلا إذا كان تعذر وصول السفينة إليه ناشئاً عن قوة قاهرة، فيتحمل المستأجر المصروفات.",
+    "target_en": "2. The lessor shall bear the costs of transporting goods to the agreed-upon port. If the vessel fails to reach such port due to force majeure, the costs shall be borne by the charterer.",
+    "source_ar_norm": "2- يتحمل المؤجر مصروفات نقل البضائع الي الميناء المتفق عليه؛ الا اذا كان تعذر وصول السفينة اليه ناشئا عن قوة قاهرة، فيتحمل المستاجر المصروفات.",
+    "target_en_norm": "2. the lessor shall bear the costs of transporting goods to the agreed-upon port. if the vessel fails to reach such port due to force majeure, the costs shall be borne by the charterer.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10143,
+    "source_ar": "المادة السابعة والسبعون بعد المائة",
+    "target_en": "Article 177",
+    "source_ar_norm": "المادة السابعة والسبعون بعد المائة",
+    "target_en_norm": "article 177",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10144,
+    "source_ar": "1- لا تستحق الأجرة إذا هلكت البضائع التي وضعها المستأجر في السفينة، إلا إذا اتفق على استحقاق الأجرة في جميع الأحوال.",
+    "target_en": "1. The freight shall not be payable if the goods are lost, unless it is agreed that the freight is payable in any event.",
+    "source_ar_norm": "1- لا تستحق الاجرة اذا هلكت البضائع التي وضعها المستاجر في السفينة، الا اذا اتفق علي استحقاق الاجرة في جميع الاحوال.",
+    "target_en_norm": "1. the freight shall not be payable if the goods are lost, unless it is agreed that the freight is payable in any event.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10145,
+    "source_ar": "2- تستحق الأجرة إذا كان الهلاك ناشئاً عن خطأ المستأجر أو تابعيه، أو عن طبيعة البضاعة، أو عن عيب فيها، أو إذا اضطر الربان إلى بيعها أثناء السفر بسبب عيبها أو تلفها، أو إذا أمر الربان بإتلافها لخطورتها أو ضررها أو خطر نقلها، ولم يكن المؤجر يعلم ذلك وقت وضعها في السفينة.",
+    "target_en": "2. The freight shall be payable if the loss is due to a fault attributable to the charterer or his servants, the nature of the goods, or any defect therein; if the master has to sell such goods during the voyage because of a defect therein or damage thereto; or if the master orders the destruction of the goods for being harmful or hazardous or dangerous to transport, without the lessor’s knowledge of the same at the time of loading.",
+    "source_ar_norm": "2- تستحق الاجرة اذا كان الهلاك ناشئا عن خطا المستاجر او تابعيه، او عن طبيعة البضاعة، او عن عيب فيها، او اذا اضطر الربان الي بيعها اثناء السفر بسبب عيبها او تلفها، او اذا امر الربان باتلافها لخطورتها او ضررها او خطر نقلها، ولم يكن المؤجر يعلم ذلك وقت وضعها في السفينة.",
+    "target_en_norm": "2. the freight shall be payable if the loss is due to a fault attributable to the charterer or his servants, the nature of the goods, or any defect therein; if the master has to sell such goods during the voyage because of a defect therein or damage thereto; or if the master orders the destruction of the goods for being harmful or hazardous or dangerous to transport, without the lessor’s knowledge of the same at the time of loading.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10146,
+    "source_ar": "3- تستحق الأجرة عن الحيوانات التي تنفق أثناء السفر بسبب لا يرجع إلى خطأ المؤجر أو تابعيه.",
+    "target_en": "3. The freight shall be payable if animals perish during the voyage due to a fault not attributable to the lessor or his servants.",
+    "source_ar_norm": "3- تستحق الاجرة عن الحيوانات التي تنفق اثناء السفر بسبب لا يرجع الي خطا المؤجر او تابعيه.",
+    "target_en_norm": "3. the freight shall be payable if animals perish during the voyage due to a fault not attributable to the lessor or his servants.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10147,
+    "source_ar": "المادة الثامنة والسبعون بعد المائة",
+    "target_en": "Article 178",
+    "source_ar_norm": "المادة الثامنة والسبعون بعد المائة",
+    "target_en_norm": "article 178",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10148,
+    "source_ar": "لا تبرأ ذمة المستأجر من دفع الأجرة بترك البضائع ولو تلفت أو نقصت كمياتها أو قيمتها أثناء السفر.",
+    "target_en": "The charterer shall not be absolved from paying the freight by abandoning the goods, even if they have been damaged or have diminished in quantity or value during the voyage.",
+    "source_ar_norm": "لا تبرا ذمة المستاجر من دفع الاجرة بترك البضائع ولو تلفت او نقصت كمياتها او قيمتها اثناء السفر.",
+    "target_en_norm": "the charterer shall not be absolved from paying the freight by abandoning the goods, even if they have been damaged or have diminished in quantity or value during the voyage.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10149,
+    "source_ar": "الفصل الرابع: عقد النقل البحري: أولاً: أحكام عامة",
+    "target_en": "Chapter 4: Contract of Carriage by Sea First: General Provisions",
+    "source_ar_norm": "الفصل الرابع: عقد النقل البحري: اولا: احكام عامة",
+    "target_en_norm": "chapter 4: contract of carriage by sea first: general provisions",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10150,
+    "source_ar": "المادة التاسعة والسبعون بعد المائة",
+    "target_en": "Article 179",
+    "source_ar_norm": "المادة التاسعة والسبعون بعد المائة",
+    "target_en_norm": "article 179",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10151,
+    "source_ar": "لا يثبت عقد النقل البحري إلا بالكتابة.",
+    "target_en": "A contract of carriage by sea shall only be established in writing.",
+    "source_ar_norm": "لا يثبت عقد النقل البحري الا بالكتابة.",
+    "target_en_norm": "a contract of carriage by sea shall only be established in writing.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10152,
+    "source_ar": "المادة الثمانون بعد المائة",
+    "target_en": "Article 180",
+    "source_ar_norm": "المادة الثمانون بعد المائة",
+    "target_en_norm": "article 180",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10153,
+    "source_ar": "لا يترتب على بيع السفينة فسخ عقد النقل البحري.",
+    "target_en": "The sale of a vessel shall not result in the termination of the contract of carriage by sea.",
+    "source_ar_norm": "لا يترتب علي بيع السفينة فسخ عقد النقل البحري.",
+    "target_en_norm": "the sale of a vessel shall not result in the termination of the contract of carriage by sea.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10154,
+    "source_ar": "ثانياً: عقد نقل البضائع",
+    "target_en": "Second: Contract of Carriage of Goods by Sea",
+    "source_ar_norm": "ثانيا: عقد نقل البضائع",
+    "target_en_norm": "second: contract of carriage of goods by sea",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10155,
+    "source_ar": "المادة الحادية والثمانون بعد المائة",
+    "target_en": "Article 181",
+    "source_ar_norm": "المادة الحادية والثمانون بعد المائة",
+    "target_en_norm": "article 181",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10156,
+    "source_ar": "1- يصدر الناقل سند شحن بناء على طلب الشاحن عند تسلم البضائع.",
+    "target_en": "1. The carrier shall issue a bill of lading at the request of the consignor upon receipt of the goods.",
+    "source_ar_norm": "1- يصدر الناقل سند شحن بناء علي طلب الشاحن عند تسلم البضائع.",
+    "target_en_norm": "1. the carrier shall issue a bill of lading at the request of the consignor upon receipt of the goods.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10157,
+    "source_ar": "2- يجوز للناقل أن يسلم الشاحن إيصالاً بتسلم البضائع قبل شحنها في السفينة، ويستبدل بهذا الإيصال -بناء على طلب الشاحن- سند شحن بعد وضع البضائع في السفينة، ويكون للإيصال الحجية المقررة لسند الشحن إذا اشتمل على البيانات المحددة في المادة (الثانية والثمانين بعد المائة) من النظام.",
+    "target_en": "2. The carrier may give the consignor a receipt for the delivery of goods before being loaded on board the vessel. Such receipt may, upon the request of the consignor, be replaced with a bill of lading after the goods have been placed on board the vessel. The receipt shall have the same effect as the bill of lading if it contains the particulars stipulated in Article 182 of this Law.",
+    "source_ar_norm": "2- يجوز للناقل ان يسلم الشاحن ايصالا بتسلم البضائع قبل شحنها في السفينة، ويستبدل بهذا الايصال -بناء علي طلب الشاحن- سند شحن بعد وضع البضائع في السفينة، ويكون للايصال الحجية المقررة لسند الشحن اذا اشتمل علي البيانات المحددة في المادة (الثانية والثمانين بعد المائة) من النظام.",
+    "target_en_norm": "2. the carrier may give the consignor a receipt for the delivery of goods before being loaded on board the vessel. such receipt may, upon the request of the consignor, be replaced with a bill of lading after the goods have been placed on board the vessel. the receipt shall have the same effect as the bill of lading if it contains the particulars stipulated in article 182 of this law.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10158,
+    "source_ar": "المادة الثانية والثمانون بعد المائة",
+    "target_en": "Article 182",
+    "source_ar_norm": "المادة الثانية والثمانون بعد المائة",
+    "target_en_norm": "article 182",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10159,
+    "source_ar": "يذكر في سند الشحن على وجه خاص البيانات الآتية:",
+    "target_en": "The bill of lading shall specifically include the following particulars:",
+    "source_ar_norm": "يذكر في سند الشحن علي وجه خاص البيانات الاتية:",
+    "target_en_norm": "the bill of lading shall specifically include the following particulars:",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10160,
+    "source_ar": "1- اسم الناقل والشاحن والمرسل إليه، وعنوان كل منهم.",
+    "target_en": "1. Name and address of the carrier, the consignor, and the consignee.",
+    "source_ar_norm": "1- اسم الناقل والشاحن والمرسل اليه، وعنوان كل منهم.",
+    "target_en_norm": "1. name and address of the carrier, the consignor, and the consignee.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10161,
+    "source_ar": "2- صفات البضاعة كما دونها الشاحن، وعلى الأخص: طبيعتها، ومدى خطورتها، وعدد الطرود، ووزنها، أو حجمها، أو العلامات المميزة الموضوعة عليها، وحالتها الظاهرة بما في ذلك حالة الأوعية التي وضعت فيها.",
+    "target_en": "2. Description of the goods as indicated by the consignor, specifically: their nature, hazardousness, number of packages, weight, volume, distinctive marks placed thereon, and apparent condition, including the condition of the containers wherein they are placed.",
+    "source_ar_norm": "2- صفات البضاعة كما دونها الشاحن، وعلي الاخص: طبيعتها، ومدي خطورتها، وعدد الطرود، ووزنها، او حجمها، او العلامات المميزة الموضوعة عليها، وحالتها الظاهرة بما في ذلك حالة الاوعية التي وضعت فيها.",
+    "target_en_norm": "2. description of the goods as indicated by the consignor, specifically: their nature, hazardousness, number of packages, weight, volume, distinctive marks placed thereon, and apparent condition, including the condition of the containers wherein they are placed.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10162,
+    "source_ar": "3- اسم السفينة إذا صدر السند وقت إجراء الشحن أو بعد إجرائه.",
+    "target_en": "3. Name of the vessel if the bill of lading was issued at the time of loading or thereafter.",
+    "source_ar_norm": "3- اسم السفينة اذا صدر السند وقت اجراء الشحن او بعد اجرائه.",
+    "target_en_norm": "3. name of the vessel if the bill of lading was issued at the time of loading or thereafter.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10163,
+    "source_ar": "4- اسم الربان.",
+    "target_en": "4. Name of the master.",
+    "source_ar_norm": "4- اسم الربان.",
+    "target_en_norm": "4. name of the master.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10164,
+    "source_ar": "5- ميناء الشحن، وميناء التفريغ.",
+    "target_en": "5. Port of loading and port of discharge.",
+    "source_ar_norm": "5- ميناء الشحن، وميناء التفريغ.",
+    "target_en_norm": "5. port of loading and port of discharge.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10165,
+    "source_ar": "6- أجرة النقل إذا كانت مستحقة كلها عند الوصول، أو الجزء المستحق منها.",
+    "target_en": "6. Amount of freight if payable in whole or in part upon arrival.",
+    "source_ar_norm": "6- اجرة النقل اذا كانت مستحقة كلها عند الوصول، او الجزء المستحق منها.",
+    "target_en_norm": "6. amount of freight if payable in whole or in part upon arrival.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10166,
+    "source_ar": "7- مكان إصدار السند، وتاريخ إصداره، وعدد النسخ التي حررت منه.",
+    "target_en": "7. Place and date of issuance of the bill of lading and number of copies produced.",
+    "source_ar_norm": "7- مكان اصدار السند، وتاريخ اصداره، وعدد النسخ التي حررت منه.",
+    "target_en_norm": "7. place and date of issuance of the bill of lading and number of copies produced.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10167,
+    "source_ar": "8- بيان إن كانت البضاعة ستشحن على سطح السفينة.",
+    "target_en": "8. Statement of whether the goods will be loaded on deck.",
+    "source_ar_norm": "8- بيان ان كانت البضاعة ستشحن علي سطح السفينة.",
+    "target_en_norm": "8. statement of whether the goods will be loaded on deck.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10168,
+    "source_ar": "المادة الثالثة والثمانون بعد المائة",
+    "target_en": "Article 183",
+    "source_ar_norm": "المادة الثالثة والثمانون بعد المائة",
+    "target_en_norm": "article 183",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10169,
+    "source_ar": "1- يقدم الشاحن -كتابة- البيانات المتعلقة بالبضائع عند تسليمها إلى الناقل، وتقيد هذه البيانات في سند الشحن، وللناقل إبداء تحفظات على قيدها إن كان لديه أسباب مقنعة للشك في صحتها، أو لم تكن لديه الوسائل العادية للتأكد منها، وتذكر أسباب التحفظ على قيد البيانات في سند الشحن.",
+    "target_en": "1. The consignor shall provide the particulars of the goods, in writing, upon delivery to the carrier to be recorded in the bill of lading. The carrier may express reservations against the recording of such particulars if he has serious reasons to doubt the accuracy thereof, or if he does not have available to him the ordinary means of verifying the same. The reasons for such reservation shall be stated in the bill of lading.",
+    "source_ar_norm": "1- يقدم الشاحن -كتابة- البيانات المتعلقة بالبضائع عند تسليمها الي الناقل، وتقيد هذه البيانات في سند الشحن، وللناقل ابداء تحفظات علي قيدها ان كان لديه اسباب مقنعة للشك في صحتها، او لم تكن لديه الوسائل العادية للتاكد منها، وتذكر اسباب التحفظ علي قيد البيانات في سند الشحن.",
+    "target_en_norm": "1. the consignor shall provide the particulars of the goods, in writing, upon delivery to the carrier to be recorded in the bill of lading. the carrier may express reservations against the recording of such particulars if he has serious reasons to doubt the accuracy thereof, or if he does not have available to him the ordinary means of verifying the same. the reasons for such reservation shall be stated in the bill of lading.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10170,
+    "source_ar": "2- إذا كانت البضاعة خطرة أو قابلة للاشتعال أو الانفجار وجب على الشاحن أن يبلغ الناقل بذلك، وأن يضع بياناً على البضاعة للتحذير من خطورتها، وبياناً بكيفية الوقاية منها.",
+    "target_en": "2. The consignor shall inform the carrier if the goods are dangerous, flammable, or explosive, and shall place safety warning labels and handling instructions thereon.",
+    "source_ar_norm": "2- اذا كانت البضاعة خطرة او قابلة للاشتعال او الانفجار وجب علي الشاحن ان يبلغ الناقل بذلك، وان يضع بيانا علي البضاعة للتحذير من خطورتها، وبيانا بكيفية الوقاية منها.",
+    "target_en_norm": "2. the consignor shall inform the carrier if the goods are dangerous, flammable, or explosive, and shall place safety warning labels and handling instructions thereon.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10171,
+    "source_ar": "المادة الرابعة والثمانون بعد المائة",
+    "target_en": "Article 184",
+    "source_ar_norm": "المادة الرابعة والثمانون بعد المائة",
+    "target_en_norm": "article 184",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10172,
+    "source_ar": "يكون الشاحن مسؤولاً قِبَل الناقل عن تعويض الضرر الذي ينشأ عن عدم صحة البيانات التي قدمها عن البضاعة ولو تنازل عن سند الشحن إلى الغير.",
+    "target_en": "The consignor shall be liable to the carrier for compensation for any damage resulting from the inaccuracy of the particulars of the goods he provides, even if he assigns the bill of lading to a third party.",
+    "source_ar_norm": "يكون الشاحن مسؤولا قبل الناقل عن تعويض الضرر الذي ينشا عن عدم صحة البيانات التي قدمها عن البضاعة ولو تنازل عن سند الشحن الي الغير.",
+    "target_en_norm": "the consignor shall be liable to the carrier for compensation for any damage resulting from the inaccuracy of the particulars of the goods he provides, even if he assigns the bill of lading to a third party.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10173,
+    "source_ar": "المادة الخامسة والثمانون بعد المائة",
+    "target_en": "Article 185",
+    "source_ar_norm": "المادة الخامسة والثمانون بعد المائة",
+    "target_en_norm": "article 185",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10174,
+    "source_ar": "يجب أن تكون العلامات الموضوعة على البضائع كافية لتعيينها، وأن توضع في مكان ثابت وواضح بحيث تبقى قراءتها ممكنة حتى نهاية الرحلة.",
+    "target_en": "Marks placed on goods shall be sufficient to identify them, and shall be placed in a fixed and clear location to remain visible throughout the voyage.",
+    "source_ar_norm": "يجب ان تكون العلامات الموضوعة علي البضائع كافية لتعيينها، وان توضع في مكان ثابت وواضح بحيث تبقي قراءتها ممكنة حتي نهاية الرحلة.",
+    "target_en_norm": "marks placed on goods shall be sufficient to identify them, and shall be placed in a fixed and clear location to remain visible throughout the voyage.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10175,
+    "source_ar": "المادة السادسة والثمانون بعد المائة",
+    "target_en": "Article 186",
+    "source_ar_norm": "المادة السادسة والثمانون بعد المائة",
+    "target_en_norm": "article 186",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10176,
+    "source_ar": "1- يحرر سند الشحن من نسختين أصليتين، تسلم إحداهما إلى الشاحن، وتبقى الأخرى لدى الناقل، ويذكر فيها أنها غير قابلة للتداول من قبل الغير.",
+    "target_en": "1. The bill of lading shall be made out in two originals, one of which shall be given to the consignor, and the other shall remain with the carrier, and shall state that it is not negotiable by third parties.",
+    "source_ar_norm": "1- يحرر سند الشحن من نسختين اصليتين، تسلم احداهما الي الشاحن، وتبقي الاخري لدي الناقل، ويذكر فيها انها غير قابلة للتداول من قبل الغير.",
+    "target_en_norm": "1. the bill of lading shall be made out in two originals, one of which shall be given to the consignor, and the other shall remain with the carrier, and shall state that it is not negotiable by third parties.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10177,
+    "source_ar": "2- يوقع الناقل -أو من ينوب عنه- النسخة المسلمة للشاحن، وتعطي هذه النسخة حاملها الشرعي الحق في تسلم البضائع والتصرف فيها.",
+    "target_en": "2. The carrier, or his representative, shall sign the copy delivered to the consignor which shall give its lawful holder the right to take delivery and dispose of the goods.",
+    "source_ar_norm": "2- يوقع الناقل -او من ينوب عنه- النسخة المسلمة للشاحن، وتعطي هذه النسخة حاملها الشرعي الحق في تسلم البضائع والتصرف فيها.",
+    "target_en_norm": "2. the carrier, or his representative, shall sign the copy delivered to the consignor which shall give its lawful holder the right to take delivery and dispose of the goods.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10178,
+    "source_ar": "3- يجوز النسخ من سند الشحن -بناء على طلب الشاحن- عدة نسخ، وتوقع كل نسخة، ويذكر فيها عدد النسخ، وتقوم كل نسخة مقام الأخرى، ويترتب على تسليم البضائع بمقتضى إحداها عَدُّ النسخ الأخرى ملغاة بالنسبة إلى الناقل.",
+    "target_en": "3. Copies of the bill of lading may be made at the request of the consignor. Each copy shall be signed and shall indicate the number of copies which have been made. Each copy shall have the same effect as the other copies, and if one of them is used to take delivery of the goods, the other copies shall be deemed void against the carrier.",
+    "source_ar_norm": "3- يجوز النسخ من سند الشحن -بناء علي طلب الشاحن- عدة نسخ، وتوقع كل نسخة، ويذكر فيها عدد النسخ، وتقوم كل نسخة مقام الاخري، ويترتب علي تسليم البضائع بمقتضي احداها عد النسخ الاخري ملغاة بالنسبة الي الناقل.",
+    "target_en_norm": "3. copies of the bill of lading may be made at the request of the consignor. each copy shall be signed and shall indicate the number of copies which have been made. each copy shall have the same effect as the other copies, and if one of them is used to take delivery of the goods, the other copies shall be deemed void against the carrier.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10179,
+    "source_ar": "المادة السابعة والثمانون بعد المائة",
+    "target_en": "Article 187",
+    "source_ar_norm": "المادة السابعة والثمانون بعد المائة",
+    "target_en_norm": "article 187",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10180,
+    "source_ar": "1- يحرر سند الشحن باسم شخص معين، أو لأمره، أو لحامله.",
+    "target_en": "1. The bill of lading shall be made out in the name of a specified person or to his order, or to the bearer.",
+    "source_ar_norm": "1- يحرر سند الشحن باسم شخص معين، او لامره، او لحامله.",
+    "target_en_norm": "1. the bill of lading shall be made out in the name of a specified person or to his order, or to the bearer.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10181,
+    "source_ar": "2- يكون التنازل عن سند الشحن الاسمي باتباع القواعد المقررة في شأن حوالة الحق.",
+    "target_en": "2. A named bill of lading may be assigned by following the applicable procedures relating to the transfer of rights.",
+    "source_ar_norm": "2- يكون التنازل عن سند الشحن الاسمي باتباع القواعد المقررة في شان حوالة الحق.",
+    "target_en_norm": "2. a named bill of lading may be assigned by following the applicable procedures relating to the transfer of rights.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10182,
+    "source_ar": "3- يكون سند الشحن المحرر للأمر قابلاً للتداول بالتظهير، ويعد مجرد توقيع حامله على ظهر السند بمثابة تظهير ناقل للملكية، وتسري على هذا التظهير أحكام نظام الأوراق التجارية، ويُتداول سند الشحن المحرر لحامله بالمناولة.",
+    "target_en": "3. An order bill of lading shall be negotiable by indorsement, and the mere signature of the holder thereon shall constitute an indorsement of the transfer of title. Such indorsement shall be subject to the provisions of the Law of Commercial Papers. A bearer bill of lading shall be negotiable by delivery.",
+    "source_ar_norm": "3- يكون سند الشحن المحرر للامر قابلا للتداول بالتظهير، ويعد مجرد توقيع حامله علي ظهر السند بمثابة تظهير ناقل للملكية، وتسري علي هذا التظهير احكام نظام الاوراق التجارية، ويتداول سند الشحن المحرر لحامله بالمناولة.",
+    "target_en_norm": "3. an order bill of lading shall be negotiable by indorsement, and the mere signature of the holder thereon shall constitute an indorsement of the transfer of title. such indorsement shall be subject to the provisions of the law of commercial papers. a bearer bill of lading shall be negotiable by delivery.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10183,
+    "source_ar": "4- يجوز النص في سند الشحن على حظر حوالته أو تداوله.",
+    "target_en": "4. A bill of lading may stipulate a restriction on the transfer or negotiation thereof.",
+    "source_ar_norm": "4- يجوز النص في سند الشحن علي حظر حوالته او تداوله.",
+    "target_en_norm": "4. a bill of lading may stipulate a restriction on the transfer or negotiation thereof.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10184,
+    "source_ar": "المادة الثامنة والثمانون بعد المائة",
+    "target_en": "Article 188",
+    "source_ar_norm": "المادة الثامنة والثمانون بعد المائة",
+    "target_en_norm": "article 188",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10185,
+    "source_ar": "يكون حاملاً شرعياً لسند الشحن من يكون اسمه مبيناً فيه، أو المحال إليه إن كان السند لحامله أو مظهراً على بياض، والمظهر إليه الأخير إن كان السند للأمر وذكر فيه اسم المظهر إليه.",
+    "target_en": "The lawful holder of a bill of lading shall be the person whose name is indicated therein; the transferee in case of a bearer bill of lading or one indorsed in blank; or the last indorsee in case of an order bill of lading with the name of that indorsee indicated therein.",
+    "source_ar_norm": "يكون حاملا شرعيا لسند الشحن من يكون اسمه مبينا فيه، او المحال اليه ان كان السند لحامله او مظهرا علي بياض، والمظهر اليه الاخير ان كان السند للامر وذكر فيه اسم المظهر اليه.",
+    "target_en_norm": "the lawful holder of a bill of lading shall be the person whose name is indicated therein; the transferee in case of a bearer bill of lading or one indorsed in blank; or the last indorsee in case of an order bill of lading with the name of that indorsee indicated therein.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10186,
+    "source_ar": "المادة التاسعة والثمانون بعد المائة",
+    "target_en": "Article 189",
+    "source_ar_norm": "المادة التاسعة والثمانون بعد المائة",
+    "target_en_norm": "article 189",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10187,
+    "source_ar": "1- كل خطاب ضمان أو اتفاق يضمن بمقتضاه الشاحن تعويض الناقل عن الأضرار التي تنتج عن إصدار سند شحن خال من أي تحفظ على البيانات الواردة فيه لا يحتج به قِبَل الغير الذي لا يعلم وقت حصوله على السند بعدم صحة تلك البيانات.",
+    "target_en": "1. Any letter of guarantee or agreement whereby the consignor pledges to compensate the carrier for any damage arising from issuing a bill of lading free of any reservations regarding the particulars set out therein may not be invoked against a third party who is unaware, at the time of acquiring the bill of lading, of the inaccuracy of such particulars.",
+    "source_ar_norm": "1- كل خطاب ضمان او اتفاق يضمن بمقتضاه الشاحن تعويض الناقل عن الاضرار التي تنتج عن اصدار سند شحن خال من اي تحفظ علي البيانات الواردة فيه لا يحتج به قبل الغير الذي لا يعلم وقت حصوله علي السند بعدم صحة تلك البيانات.",
+    "target_en_norm": "1. any letter of guarantee or agreement whereby the consignor pledges to compensate the carrier for any damage arising from issuing a bill of lading free of any reservations regarding the particulars set out therein may not be invoked against a third party who is unaware, at the time of acquiring the bill of lading, of the inaccuracy of such particulars.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10188,
+    "source_ar": "2- يعد المرسل إليه الذي صدر سند الشحن باسمه أو لأمره من الغير إلا إذا كان هو الشاحن نفسه.",
+    "target_en": "2. The consignee in whose name or for whose order the bill of lading is issued shall be deemed a third party, unless he himself is the consignor.",
+    "source_ar_norm": "2- يعد المرسل اليه الذي صدر سند الشحن باسمه او لامره من الغير الا اذا كان هو الشاحن نفسه.",
+    "target_en_norm": "2. the consignee in whose name or for whose order the bill of lading is issued shall be deemed a third party, unless he himself is the consignor.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10189,
+    "source_ar": "المادة التسعون بعد المائة",
+    "target_en": "Article 190",
+    "source_ar_norm": "المادة التسعون بعد المائة",
+    "target_en_norm": "article 190",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10190,
+    "source_ar": "1- إذا وجد الربان في السفينة قبل السفر بضائع غير مذكورة في سند الشحن أو في إيصال تسلم البضائع، أو تبين له عدم صحة البيانات المتعلقة بها، جاز له إخراجها من السفينة، أو إبقاؤها فيها ونقلها بأجرة تعادل ما يدفع لبضائع من نوعها، وذلك مع عدم الإخلال بما يستحق من تعويض.",
+    "target_en": "1. If the master, prior to sailing, finds on board the vessel goods not mentioned in the bill of lading or in the delivery receipt, or if he finds out that their particulars are inaccurate, he may take such goods out of the vessel or keep them on board upon payment of freight equivalent to that payable on goods of the same type, without prejudice to compensation, if any.",
+    "source_ar_norm": "1- اذا وجد الربان في السفينة قبل السفر بضائع غير مذكورة في سند الشحن او في ايصال تسلم البضائع، او تبين له عدم صحة البيانات المتعلقة بها، جاز له اخراجها من السفينة، او ابقاؤها فيها ونقلها باجرة تعادل ما يدفع لبضائع من نوعها، وذلك مع عدم الاخلال بما يستحق من تعويض.",
+    "target_en_norm": "1. if the master, prior to sailing, finds on board the vessel goods not mentioned in the bill of lading or in the delivery receipt, or if he finds out that their particulars are inaccurate, he may take such goods out of the vessel or keep them on board upon payment of freight equivalent to that payable on goods of the same type, without prejudice to compensation, if any.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10191,
+    "source_ar": "2- إذا تبين وجود البضائع المذكورة في الفقرة (1) من هذه المادة أثناء السفر، جاز للربان الأمر بإلقائها في البحر، إذا كان من شأنها إحداث أضرار للسفينة أو للبضائع المشحونة فيها، أو كان نقلها يستلزم دفع غرامات أو أداء مصروفات تزيد على قيمتها، أو كان بيعها أو تصديرها ممنوعاً.",
+    "target_en": "2. In the event the goods mentioned in paragraph (1) of this Article are found during the voyage, the master may order the jettison of such goods if they may cause damage to the vessel or to other goods, if the carriage thereof requires the payment of fines or costs that exceed their value, or if the sale or export thereof is prohibited by law.",
+    "source_ar_norm": "2- اذا تبين وجود البضائع المذكورة في الفقرة (1) من هذه المادة اثناء السفر، جاز للربان الامر بالقائها في البحر، اذا كان من شانها احداث اضرار للسفينة او للبضائع المشحونة فيها، او كان نقلها يستلزم دفع غرامات او اداء مصروفات تزيد علي قيمتها، او كان بيعها او تصديرها ممنوعا.",
+    "target_en_norm": "2. in the event the goods mentioned in paragraph (1) of this article are found during the voyage, the master may order the jettison of such goods if they may cause damage to the vessel or to other goods, if the carriage thereof requires the payment of fines or costs that exceed their value, or if the sale or export thereof is prohibited by law.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10192,
+    "source_ar": "المادة الحادية والتسعون بعد المائة",
+    "target_en": "Article 191",
+    "source_ar_norm": "المادة الحادية والتسعون بعد المائة",
+    "target_en_norm": "article 191",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10193,
+    "source_ar": "1- إذا وضع الشاحن في السفينة بضائع خطرة أو قابلة للاشتعال أو الانفجار بغير علم الناقل، جاز للناقل إخراجها من السفينة، أو إتلافها، أو إزالة خطورتها وفقاً للضوابط والإجراءات المحددة نظاماً، ولا يسأل الناقل عن ذلك إذا أثبت أنه ما كان ليرضى بشحنها في السفينة لو علم بطبيعتها، ويسأل الشاحن عن الأضرار والمصروفات التي تنشأ عن وضع هذه البضائع في السفينة.",
+    "target_en": "1. If the consignor loads dangerous, flammable, or explosive goods without the carrier's knowledge, the carrier may at any time destroy such goods, take them out of the vessel, or eliminate their potential danger in accordance with the statutory procedures. The carrier shall not be liable for such act if it is established that he would not have consented to the loading thereof had he known their nature. The consignor shall be liable for the damage and expenses arising from the loaded goods.",
+    "source_ar_norm": "1- اذا وضع الشاحن في السفينة بضائع خطرة او قابلة للاشتعال او الانفجار بغير علم الناقل، جاز للناقل اخراجها من السفينة، او اتلافها، او ازالة خطورتها وفقا للضوابط والاجراءات المحددة نظاما، ولا يسال الناقل عن ذلك اذا اثبت انه ما كان ليرضي بشحنها في السفينة لو علم بطبيعتها، ويسال الشاحن عن الاضرار والمصروفات التي تنشا عن وضع هذه البضائع في السفينة.",
+    "target_en_norm": "1. if the consignor loads dangerous, flammable, or explosive goods without the carrier's knowledge, the carrier may at any time destroy such goods, take them out of the vessel, or eliminate their potential danger in accordance with the statutory procedures. the carrier shall not be liable for such act if it is established that he would not have consented to the loading thereof had he known their nature. the consignor shall be liable for the damage and expenses arising from the loaded goods.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10194,
+    "source_ar": "2- إذا كان الناقل يعلم بطبيعة هذه البضائع، وأذن بشحنها، فلا يجوز له بعد ذلك إخراجها من السفينة أو إتلافها أو إزالة خطورتها، إلا إذا أصبحت خطورتها تهدد السفينة أو الشحنة، وفي هذه الحالة لا يتحمل الناقل أي مسؤولية إلا ما تعلق بالخسائر البحرية المشتركة عند الاقتضاء.",
+    "target_en": "2. If the carrier knows the nature of such goods and consents to their loading, he shall not take them out of the vessel, destroy them, or eliminate their potential danger, except if they pose a threat to the safety of the vessel or the cargo. In such case, the carrier shall not bear any responsibility except for matters related to general average losses, where appropriate.",
+    "source_ar_norm": "2- اذا كان الناقل يعلم بطبيعة هذه البضائع، واذن بشحنها، فلا يجوز له بعد ذلك اخراجها من السفينة او اتلافها او ازالة خطورتها، الا اذا اصبحت خطورتها تهدد السفينة او الشحنة، وفي هذه الحالة لا يتحمل الناقل اي مسؤولية الا ما تعلق بالخسائر البحرية المشتركة عند الاقتضاء.",
+    "target_en_norm": "2. if the carrier knows the nature of such goods and consents to their loading, he shall not take them out of the vessel, destroy them, or eliminate their potential danger, except if they pose a threat to the safety of the vessel or the cargo. in such case, the carrier shall not bear any responsibility except for matters related to general average losses, where appropriate.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10195,
+    "source_ar": "3- تراعى الأحكام الخاصة المنصوص عليها في الاتفاقيات البحرية الدولية التي تكون المملكة طرفاً فيها، المتعلقة بنقل الحبوب، والبضاعة الخطرة، والبترول، والمواد الكيميائية، والغازات.",
+    "target_en": "3. Special provisions set forth in the international maritime conventions to which the Kingdom is party shall be observed with respect to the carriage of grain, dangerous goods, petroleum, chemicals, and gases.",
+    "source_ar_norm": "3- تراعي الاحكام الخاصة المنصوص عليها في الاتفاقيات البحرية الدولية التي تكون المملكة طرفا فيها، المتعلقة بنقل الحبوب، والبضاعة الخطرة، والبترول، والمواد الكيميائية، والغازات.",
+    "target_en_norm": "3. special provisions set forth in the international maritime conventions to which the kingdom is party shall be observed with respect to the carriage of grain, dangerous goods, petroleum, chemicals, and gases.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10196,
+    "source_ar": "المادة الثانية والتسعون بعد المائة",
+    "target_en": "Article 192",
+    "source_ar_norm": "المادة الثانية والتسعون بعد المائة",
+    "target_en_norm": "article 192",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10197,
+    "source_ar": "1- يعد سند الشحن دليلاً على تسلم الناقل البضائع من الشاحن بالحالة المبينة فيه. وإذا كان سند الشحن مشتملاً على البيان المنصوص عليه في الفقرة (2) من المادة (الثانية والثمانين بعد المائة)، فإنه يعد دليلاً على شحن البضاعة في السفينة أو في السفن المعينة في البيان وفي التاريخ المذكور فيه، ويعد سند الشحن كذلك حجة في إثبات البيانات التي يشتمل عليها، وذلك فيما بين الناقل والشاحن وبالنسبة إلى الغير.",
+    "target_en": "1. The bill of lading shall be deemed evidence to the carrier's receipt of the goods from the consignor in the condition described therein. If the bill of lading contains the description set out in Article 182(2), it shall be evidence to the shipment of the goods in the vessel or vessels designated in the particulars and on the date stated therein. The bill of lading shall also be deemed as evidence to establishing the particulars included therein between the carrier and the consignor and with regard to third parties.",
+    "source_ar_norm": "1- يعد سند الشحن دليلا علي تسلم الناقل البضائع من الشاحن بالحالة المبينة فيه. واذا كان سند الشحن مشتملا علي البيان المنصوص عليه في الفقرة (2) من المادة (الثانية والثمانين بعد المائة)، فانه يعد دليلا علي شحن البضاعة في السفينة او في السفن المعينة في البيان وفي التاريخ المذكور فيه، ويعد سند الشحن كذلك حجة في اثبات البيانات التي يشتمل عليها، وذلك فيما بين الناقل والشاحن وبالنسبة الي الغير.",
+    "target_en_norm": "1. the bill of lading shall be deemed evidence to the carrier's receipt of the goods from the consignor in the condition described therein. if the bill of lading contains the description set out in article 182(2), it shall be evidence to the shipment of the goods in the vessel or vessels designated in the particulars and on the date stated therein. the bill of lading shall also be deemed as evidence to establishing the particulars included therein between the carrier and the consignor and with regard to third parties.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10198,
+    "source_ar": "2- يجوز في العلاقة بين الناقل والشاحن إثبات خلاف الدليل المستخلص من سند الشحن وخلاف ما ورد فيه من بيانات، ولا يجوز في مواجهة الغير حَسَن النية إثبات خلاف الدليل المستخلص من السند أو خلاف ما ورد فيه من بيانات، ويجوز ذلك لهذا الغير.",
+    "target_en": "2. In the relationship between the carrier and the consignor, it shall be permissible to prove the contrary of the particulars stated in the bill of lading, but so far as bona fide third parties are concerned, it shall not be permissible to prove the contrary of what is stated in the bill, but it shall be open to the third party to do so.",
+    "source_ar_norm": "2- يجوز في العلاقة بين الناقل والشاحن اثبات خلاف الدليل المستخلص من سند الشحن وخلاف ما ورد فيه من بيانات، ولا يجوز في مواجهة الغير حسن النية اثبات خلاف الدليل المستخلص من السند او خلاف ما ورد فيه من بيانات، ويجوز ذلك لهذا الغير.",
+    "target_en_norm": "2. in the relationship between the carrier and the consignor, it shall be permissible to prove the contrary of the particulars stated in the bill of lading, but so far as bona fide third parties are concerned, it shall not be permissible to prove the contrary of what is stated in the bill, but it shall be open to the third party to do so.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10199,
+    "source_ar": "3- يعد المرسل إليه الذي صدر السند باسمه أو لأمره من الغير في حكم هذه المادة إلا إذا كان هو الشاحن نفسه.",
+    "target_en": "3. The consignee in whose name or to whose order the bill of lading is issued shall be deemed to be a third party under the provision of this Article, unless he himself is the consignor.",
+    "source_ar_norm": "3- يعد المرسل اليه الذي صدر السند باسمه او لامره من الغير في حكم هذه المادة الا اذا كان هو الشاحن نفسه.",
+    "target_en_norm": "3. the consignee in whose name or to whose order the bill of lading is issued shall be deemed to be a third party under the provision of this article, unless he himself is the consignor.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10200,
+    "source_ar": "المادة الثالثة والتسعون بعد المائة:",
+    "target_en": "Article 193",
+    "source_ar_norm": "المادة الثالثة والتسعون بعد المائة:",
+    "target_en_norm": "article 193",
+    "file_name": "النظام البحري التجاري.docx"
+  }
+]

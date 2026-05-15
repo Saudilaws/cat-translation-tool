@@ -1,0 +1,802 @@
+[
+  {
+    "id": 16001,
+    "source_ar": "المادة السادسة :",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة :",
+    "target_en_norm": "article 6",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16002,
+    "source_ar": "المجلس هو السلطة العليا في الصندوق، وهو الذي يرسم السياسة العامة له ويشرف على تنفيذها، وله على وجه خاص ما يلي :",
+    "target_en": "The Board shall be the Fund’s highest authority and shall set its general policy and oversee its implementation. In particular, the Board shall:",
+    "source_ar_norm": "المجلس هو السلطة العليا في الصندوق، وهو الذي يرسم السياسة العامة له ويشرف علي تنفيذها، وله علي وجه خاص ما يلي :",
+    "target_en_norm": "the board shall be the fund’s highest authority and shall set its general policy and oversee its implementation. in particular, the board shall:",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16003,
+    "source_ar": "الصرف من الصندوق وفق أحكام هذا التنظيم.",
+    "target_en": "Disburse from the Fund in accordance with the provisions of this Statute.",
+    "source_ar_norm": "الصرف من الصندوق وفق احكام هذا التنظيم.",
+    "target_en_norm": "disburse from the fund in accordance with the provisions of this statute.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16004,
+    "source_ar": "تحديد الأوعية التي تستثمر فيها أموال الصندوق ونسب الاستثمار في كل منها.",
+    "target_en": "Determine investment channels and percentage of investment in each.",
+    "source_ar_norm": "تحديد الاوعية التي تستثمر فيها اموال الصندوق ونسب الاستثمار في كل منها.",
+    "target_en_norm": "determine investment channels and percentage of investment in each.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16005,
+    "source_ar": "شراء العقارات، وتسجيلها وقفاً باسم الصندوق بالطرق الشرعية لدى الجهات المختصة، وتنميتها، وتحصيل إيراداتها، وإنفاقها في الأوجه المحددة في هذا التنظيم.",
+    "target_en": "Purchase real estate and have them duly registered with the competent authorities as endowments under the name of the Fund. The Board shall develop such real estate, collect revenues, and expend the same as provided for in this Statute.",
+    "source_ar_norm": "شراء العقارات، وتسجيلها وقفا باسم الصندوق بالطرق الشرعية لدي الجهات المختصة، وتنميتها، وتحصيل ايراداتها، وانفاقها في الاوجه المحددة في هذا التنظيم.",
+    "target_en_norm": "purchase real estate and have them duly registered with the competent authorities as endowments under the name of the fund. the board shall develop such real estate, collect revenues, and expend the same as provided for in this statute.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16006,
+    "source_ar": "تحديد الأوجه التي يصرف فيها ريع عائدات الصندوق، ووضع الضوابط اللازمة لذلك.",
+    "target_en": "Determine expenditure channels of the Fund’s revenues and specify necessary rules for such expenditure.",
+    "source_ar_norm": "تحديد الاوجه التي يصرف فيها ريع عائدات الصندوق، ووضع الضوابط اللازمة لذلك.",
+    "target_en_norm": "determine expenditure channels of the fund’s revenues and specify necessary rules for such expenditure.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16007,
+    "source_ar": "إصدار لوائح الصندوق المالية والإدارية.",
+    "target_en": "Issue the Fund’s financial and administrative regulations.",
+    "source_ar_norm": "اصدار لوائح الصندوق المالية والادارية.",
+    "target_en_norm": "issue the fund’s financial and administrative regulations.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16008,
+    "source_ar": "قبول الهبات والتبرعات والوصايا والأوقاف.",
+    "target_en": "Accept gifts, donations, bequests, and endowments.",
+    "source_ar_norm": "قبول الهبات والتبرعات والوصايا والاوقاف.",
+    "target_en_norm": "accept gifts, donations, bequests, and endowments.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16009,
+    "source_ar": "إقرار خطة تنمية موارد الصندوق واستثمار أمواله.",
+    "target_en": "Adopt a developmental plan for the Fund’s resources and investments.",
+    "source_ar_norm": "اقرار خطة تنمية موارد الصندوق واستثمار امواله.",
+    "target_en_norm": "adopt a developmental plan for the fund’s resources and investments.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16010,
+    "source_ar": "إنشاء فروع أو مكاتب للصندوق داخل المملكة.",
+    "target_en": "Establish branches or offices for the Fund within the Kingdom.",
+    "source_ar_norm": "انشاء فروع او مكاتب للصندوق داخل المملكة.",
+    "target_en_norm": "establish branches or offices for the fund within the kingdom.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16011,
+    "source_ar": "تعيين أمين عام الصندوق، وتحديد صلاحياته وحقوقه.",
+    "target_en": "Appoint the Fund’s Secretary-General and determine his powers and rights.",
+    "source_ar_norm": "تعيين امين عام الصندوق، وتحديد صلاحياته وحقوقه.",
+    "target_en_norm": "appoint the fund’s secretary-general and determine his powers and rights.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16012,
+    "source_ar": "تعيين مراقب حسابات للصندوق، وتحديد أتعابه.",
+    "target_en": "Appoint an auditor for the Fund and determine his remuneration.",
+    "source_ar_norm": "تعيين مراقب حسابات للصندوق، وتحديد اتعابه.",
+    "target_en_norm": "appoint an auditor for the fund and determine his remuneration.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16013,
+    "source_ar": "إقرار الحساب الختامي للصندوق، وتقرير مراقب الحسابات.",
+    "target_en": "Approve the Fund’s final account and auditor’s report.",
+    "source_ar_norm": "اقرار الحساب الختامي للصندوق، وتقرير مراقب الحسابات.",
+    "target_en_norm": "approve the fund’s final account and auditor’s report.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16014,
+    "source_ar": "النظر في التقرير السنوي للصندوق ونشاطه خلال السنة المالية المنتهية، تمهيداً لرفعه إلى رئيس مجلس الوزراء.",
+    "target_en": "Review the Fund’s annual report and activities for the ending fiscal year prior to submission to the President of the Council of Ministers.",
+    "source_ar_norm": "النظر في التقرير السنوي للصندوق ونشاطه خلال السنة المالية المنتهية، تمهيدا لرفعه الي رئيس مجلس الوزراء.",
+    "target_en_norm": "review the fund’s annual report and activities for the ending fiscal year prior to submission to the president of the council of ministers.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16015,
+    "source_ar": "اعتماد الميزانية العمومية السنوية، وحساب الإيرادات والمصروفات، وأي قائمة أخرى تخص الوضع المالي للصندوق.",
+    "target_en": "Approve the general annual budget, income and expenditure account, and any other statement related to the Fund’s financial position.",
+    "source_ar_norm": "اعتماد الميزانية العمومية السنوية، وحساب الايرادات والمصروفات، واي قائمة اخري تخص الوضع المالي للصندوق.",
+    "target_en_norm": "approve the general annual budget, income and expenditure account, and any other statement related to the fund’s financial position.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16016,
+    "source_ar": "تشكيل لجان دائمة أو مؤقتة من بين أعضائه أو من غيرهم يعهد إليها القيام بمهمات محددة.",
+    "target_en": "Form standing or ad hoc committees from among its members or others to perform certain tasks.",
+    "source_ar_norm": "تشكيل لجان دائمة او مؤقتة من بين اعضائه او من غيرهم يعهد اليها القيام بمهمات محددة.",
+    "target_en_norm": "form standing or ad hoc committees from among its members or others to perform certain tasks.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16017,
+    "source_ar": "الاستعانة بمن يراه من الخبراء والمستشارين للقيام ببعض الأعمال أو إجراء ما يراه من دراسات وبحوث.",
+    "target_en": "Seek the assistance of experts and consultants to perform certain tasks or conduct necessary studies and research.",
+    "source_ar_norm": "الاستعانة بمن يراه من الخبراء والمستشارين للقيام ببعض الاعمال او اجراء ما يراه من دراسات وبحوث.",
+    "target_en_norm": "seek the assistance of experts and consultants to perform certain tasks or conduct necessary studies and research.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16018,
+    "source_ar": "وللمجلس أن يفوض بعض صلاحياته إلى الأمين العام أو إلى من يراه المجلس.",
+    "target_en": "The Board may delegate certain powers to the Secretary-General or to whomever it deems fit.",
+    "source_ar_norm": "وللمجلس ان يفوض بعض صلاحياته الي الامين العام او الي من يراه المجلس.",
+    "target_en_norm": "the board may delegate certain powers to the secretary-general or to whomever it deems fit.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16019,
+    "source_ar": "المادة السابعة :",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة :",
+    "target_en_norm": "article 7",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16020,
+    "source_ar": "يجتمع المجلس برئاسة الرئيس أو من ينيبه مرة على الأقل كل ثلاثة أشهر، أو كلما دعت الحاجة إلى ذلك بناء على دعوة من رئيسه، أو بناء على طلب ثلاثة على الأقل من أعضائه. ويشترط لصحة اجتماع المجلس حضور أغلبية الأعضاء على أن يكون من بينهم الرئيس أو من ينيبه.",
+    "target_en": "The Board shall convene under the chairmanship of the Chairman or his designee at least once every three months. The Board may also convene, when necessary, upon a call by the Chairman or upon the request of at least three of its members. A Board meeting shall be valid only if attended by the majority of members, provided that the Chairman or his designee is among them.",
+    "source_ar_norm": "يجتمع المجلس برئاسة الرئيس او من ينيبه مرة علي الاقل كل ثلاثة اشهر، او كلما دعت الحاجة الي ذلك بناء علي دعوة من رئيسه، او بناء علي طلب ثلاثة علي الاقل من اعضائه. ويشترط لصحة اجتماع المجلس حضور اغلبية الاعضاء علي ان يكون من بينهم الرئيس او من ينيبه.",
+    "target_en_norm": "the board shall convene under the chairmanship of the chairman or his designee at least once every three months. the board may also convene, when necessary, upon a call by the chairman or upon the request of at least three of its members. a board meeting shall be valid only if attended by the majority of members, provided that the chairman or his designee is among them.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16021,
+    "source_ar": "تصدر قرارات المجلس بأغلبية أصوات الأعضاء الحاضرين، وفي حالة التساوي يرجح الجانب الذي صوت رئيس الجلسة معه، ويجوز في الأمور العاجلة أن يصدر المجلس قراراته بطريق عرضها على الأعضاء متفرقين (بالتمرير) ما لم يطلب أحد الأعضاء - كتابة - اجتماع المجلس للمداولة فيها، على أن تعرض هذه القرارات على المجلس في أول اجتماع تالٍ لها.",
+    "target_en": "Board decisions shall be passed by the majority vote of attending members. In case of a tie, the Chairman of the meeting shall have the casting vote. In urgent cases, Board decisions may be passed by circulation, unless a board member requests, in writing, a meeting for deliberation. Board decisions shall be entered into the agenda of the subsequent meeting.",
+    "source_ar_norm": "تصدر قرارات المجلس باغلبية اصوات الاعضاء الحاضرين، وفي حالة التساوي يرجح الجانب الذي صوت رئيس الجلسة معه، ويجوز في الامور العاجلة ان يصدر المجلس قراراته بطريق عرضها علي الاعضاء متفرقين (بالتمرير) ما لم يطلب احد الاعضاء - كتابة - اجتماع المجلس للمداولة فيها، علي ان تعرض هذه القرارات علي المجلس في اول اجتماع تال لها.",
+    "target_en_norm": "board decisions shall be passed by the majority vote of attending members. in case of a tie, the chairman of the meeting shall have the casting vote. in urgent cases, board decisions may be passed by circulation, unless a board member requests, in writing, a meeting for deliberation. board decisions shall be entered into the agenda of the subsequent meeting.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16022,
+    "source_ar": "المادة الثامنة :",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة :",
+    "target_en_norm": "article 8",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16023,
+    "source_ar": "يكون الأمين العام للصندوق مسؤولاً عن متابعة تنفيذ قرارات المجلس، وعن سير عمل الصندوق، وإدارة شؤون موظفيه، وحفظ الصكوك والسجلات والقيود الخاصة به، وتمثيله أمام الغير.",
+    "target_en": "The Secretary-General shall be in charge of implementing Board decisions, overseeing the Fund’s work progress, managing the affairs of the Fund’s employees, and maintaining relevant deeds, registers and entries, as well as representing the Fund before third parties.",
+    "source_ar_norm": "يكون الامين العام للصندوق مسؤولا عن متابعة تنفيذ قرارات المجلس، وعن سير عمل الصندوق، وادارة شؤون موظفيه، وحفظ الصكوك والسجلات والقيود الخاصة به، وتمثيله امام الغير.",
+    "target_en_norm": "the secretary-general shall be in charge of implementing board decisions, overseeing the fund’s work progress, managing the affairs of the fund’s employees, and maintaining relevant deeds, registers and entries, as well as representing the fund before third parties.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16024,
+    "source_ar": "يحضر الأمين العام جلسات المجلس دون أن يكون له حق التصويت، ويتولى عرض الموضوعات المدرجة على جدول الأعمال، والإشراف على إعداد القرارات اللازمة.",
+    "target_en": "The Secretary-General shall attend Board meetings in a non-voting capacity, present items on the agenda, and supervise the drafting of necessary decisions.",
+    "source_ar_norm": "يحضر الامين العام جلسات المجلس دون ان يكون له حق التصويت، ويتولي عرض الموضوعات المدرجة علي جدول الاعمال، والاشراف علي اعداد القرارات اللازمة.",
+    "target_en_norm": "the secretary-general shall attend board meetings in a non-voting capacity, present items on the agenda, and supervise the drafting of necessary decisions.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16025,
+    "source_ar": "المادة التاسعة :",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة :",
+    "target_en_norm": "article 9",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16026,
+    "source_ar": "تتكون موارد الصندوق مما يلي :",
+    "target_en": "The Fund’s financial resources shall be as follows:",
+    "source_ar_norm": "تتكون موارد الصندوق مما يلي :",
+    "target_en_norm": "the fund’s financial resources shall be as follows:",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16027,
+    "source_ar": "الأموال التي تقدمها الدولة له.",
+    "target_en": "Funds granted by the State.",
+    "source_ar_norm": "الاموال التي تقدمها الدولة له.",
+    "target_en_norm": "funds granted by the state.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16028,
+    "source_ar": "التبرعات والهبات والوصايا والأوقاف التي يقبلها المجلس.",
+    "target_en": "Donations, gifts, bequests, and endowments accepted by the Board.",
+    "source_ar_norm": "التبرعات والهبات والوصايا والاوقاف التي يقبلها المجلس.",
+    "target_en_norm": "donations, gifts, bequests, and endowments accepted by the board.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16029,
+    "source_ar": "عوائد استثمار أمواله.",
+    "target_en": "Returns on its investments.",
+    "source_ar_norm": "عوائد استثمار امواله.",
+    "target_en_norm": "returns on its investments.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16030,
+    "source_ar": "المادة العاشرة :",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة :",
+    "target_en_norm": "article 10",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16031,
+    "source_ar": "تودع جميع أموال الصندوق في حساب خاص لدى مؤسسة النقد العربي السعودي، ولا يجوز صرف أي مبلغ من حساب الصندوق إلا بتوقيع من رئيس المجلس أو من يفوضه بذلك، بناءً على قرار من المجلس.",
+    "target_en": "All funds shall be deposited in a special account with the Saudi Arabian Monetary Agency. Disbursement from the account shall not be made without the signature of the Chairman or his designee, pursuant to a decision by the Board.",
+    "source_ar_norm": "تودع جميع اموال الصندوق في حساب خاص لدي مؤسسة النقد العربي السعودي، ولا يجوز صرف اي مبلغ من حساب الصندوق الا بتوقيع من رئيس المجلس او من يفوضه بذلك، بناء علي قرار من المجلس.",
+    "target_en_norm": "all funds shall be deposited in a special account with the saudi arabian monetary agency. disbursement from the account shall not be made without the signature of the chairman or his designee, pursuant to a decision by the board.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16032,
+    "source_ar": "المادة الحادية عشرة :",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة :",
+    "target_en_norm": "article 11",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16033,
+    "source_ar": "يضع المجلس الضوابط اللازمة للصرف من العائدات السنوية لأوقاف الصندوق واستثماراته، على أن يراعى في ذلك ما يأتي :",
+    "target_en": "The Board shall set rules for disbursement from the annual revenues of the Fund’s endowments and investments, provided that the following is taken into consideration:",
+    "source_ar_norm": "يضع المجلس الضوابط اللازمة للصرف من العائدات السنوية لاوقاف الصندوق واستثماراته، علي ان يراعي في ذلك ما ياتي :",
+    "target_en_norm": "the board shall set rules for disbursement from the annual revenues of the fund’s endowments and investments, provided that the following is taken into consideration:",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16034,
+    "source_ar": "يصرف من غلة كل وقف ما يلزم لحفظه من ترميم وإصلاح وصيانة.",
+    "target_en": "A disbursement is made from the proceeds of each endowment for its preservation, including renovation, repair, and maintenance.",
+    "source_ar_norm": "يصرف من غلة كل وقف ما يلزم لحفظه من ترميم واصلاح وصيانة.",
+    "target_en_norm": "a disbursement is made from the proceeds of each endowment for its preservation, including renovation, repair, and maintenance.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16035,
+    "source_ar": "يخصص ما لا يقل عن (75%) من العائدات السنوية لمساعدة المحتاجين من أسر الشهداء والمصابين والأسرى والمفقودين والذين يعولونها شرعاً. وإذا توافر ما يزيد على ذلك، فيصرف منه في الأعمال الخيرية وأعمال البر داخل المملكة وفق الأنظمة والتعليمات.",
+    "target_en": "A minimum of 75% of the annual proceeds shall be allocated to assist needy family members of martyrs, the wounded, POWs, and MIAs as well as their legal dependents. Any surplus shall be spent on charitable and philanthropic activities in the Kingdom in accordance with applicable laws and instructions.",
+    "source_ar_norm": "يخصص ما لا يقل عن (75%) من العائدات السنوية لمساعدة المحتاجين من اسر الشهداء والمصابين والاسري والمفقودين والذين يعولونها شرعا. واذا توافر ما يزيد علي ذلك، فيصرف منه في الاعمال الخيرية واعمال البر داخل المملكة وفق الانظمة والتعليمات.",
+    "target_en_norm": "a minimum of 75% of the annual proceeds shall be allocated to assist needy family members of martyrs, the wounded, pows, and mias as well as their legal dependents. any surplus shall be spent on charitable and philanthropic activities in the kingdom in accordance with applicable laws and instructions.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16036,
+    "source_ar": "يخصص ما لا يزيد على (25%) من العائدات السنوية في استثمارات إضافية للمساعدة على تطوير إمكانات الصندوق ودعم قدراته المالية.",
+    "target_en": "A maximum of 25% of the annual proceeds shall be allocated for additional investments to develop the resources and financial capabilities of the Fund.",
+    "source_ar_norm": "يخصص ما لا يزيد علي (25%) من العائدات السنوية في استثمارات اضافية للمساعدة علي تطوير امكانات الصندوق ودعم قدراته المالية.",
+    "target_en_norm": "a maximum of 25% of the annual proceeds shall be allocated for additional investments to develop the resources and financial capabilities of the fund.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16037,
+    "source_ar": "المادة الثانية عشرة :",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة :",
+    "target_en_norm": "article 12",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16038,
+    "source_ar": "للمجلس تفويض الأمين العام بسحب مبالغ معينة لصرفها في الوجوه التي يحددها المجلس وفقاً للأحكام الواردة في هذا التنظيم.",
+    "target_en": "The Board may authorize the Secretary-General to disburse specific amounts from the fund on matters prescribed by the Board in accordance with the provisions provided for in this Statute.",
+    "source_ar_norm": "للمجلس تفويض الامين العام بسحب مبالغ معينة لصرفها في الوجوه التي يحددها المجلس وفقا للاحكام الواردة في هذا التنظيم.",
+    "target_en_norm": "the board may authorize the secretary-general to disburse specific amounts from the fund on matters prescribed by the board in accordance with the provisions provided for in this statute.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16039,
+    "source_ar": "المادة الثالثة عشرة :",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة :",
+    "target_en_norm": "article 13",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16040,
+    "source_ar": "ترسل الجهة التي يتبعها الشهيد أو المصاب أو الأسير أو المفقود معلومات كاملة عنه وعن أسرته إلى وزارة الداخلية لتقرير ما تراه في شأنه وأسرته وفقاً لما ينص عليه هذا التنظيم.",
+    "target_en": "The entity with which the martyr, wounded, POW, or MIA is affiliated shall provide complete information on such person and his family to the Fund's secretariat to take appropriate action in accordance with the provisions set forth in this Statute.",
+    "source_ar_norm": "ترسل الجهة التي يتبعها الشهيد او المصاب او الاسير او المفقود معلومات كاملة عنه وعن اسرته الي وزارة الداخلية لتقرير ما تراه في شانه واسرته وفقا لما ينص عليه هذا التنظيم.",
+    "target_en_norm": "the entity with which the martyr, wounded, pow, or mia is affiliated shall provide complete information on such person and his family to the fund's secretariat to take appropriate action in accordance with the provisions set forth in this statute.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16041,
+    "source_ar": "المادة الرابعة عشرة :",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة :",
+    "target_en_norm": "article 14",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16042,
+    "source_ar": "السنة المالية للصندوق هي السنة المالية للدولة، واستثناءً من ذلك تبدأ السنة المالية الأولى من بدء أعمال الصندوق وتنتهي بنهاية السنة المالية التالية.",
+    "target_en": "The Fund’s fiscal year shall be the same as the State’s fiscal year. As an exception, the Fund’s first fiscal year shall commence with the beginning of the Fund’s operations and end with the end of the following fiscal year.",
+    "source_ar_norm": "السنة المالية للصندوق هي السنة المالية للدولة، واستثناء من ذلك تبدا السنة المالية الاولي من بدء اعمال الصندوق وتنتهي بنهاية السنة المالية التالية.",
+    "target_en_norm": "the fund’s fiscal year shall be the same as the state’s fiscal year. as an exception, the fund’s first fiscal year shall commence with the beginning of the fund’s operations and end with the end of the following fiscal year.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16043,
+    "source_ar": "المادة الخامسة عشرة :",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة :",
+    "target_en_norm": "article 15",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16044,
+    "source_ar": "ينشر هذا التنظيم في الجريدة الرسمية، ويعمل به من تاريخ نشره، ويلغي كل ما يتعارض معه من أحكام.",
+    "target_en": "This Statute shall be published in the Official Gazette and shall enter into force from the date of its publication. It shall supersede all provisions conflicting therewith.",
+    "source_ar_norm": "ينشر هذا التنظيم في الجريدة الرسمية، ويعمل به من تاريخ نشره، ويلغي كل ما يتعارض معه من احكام.",
+    "target_en_norm": "this statute shall be published in the official gazette and shall enter into force from the date of its publication. it shall supersede all provisions conflicting therewith.",
+    "file_name": "تنظيم صندوق الشهداء والمصابين والأسرى والمفقودين.docx"
+  },
+  {
+    "id": 16045,
+    "source_ar": "تنظيم صندوق مدينة الملك فهد الطبية",
+    "target_en": "Statute of King Fahd Medical City Fund",
+    "source_ar_norm": "تنظيم صندوق مدينة الملك فهد الطبية",
+    "target_en_norm": "statute of king fahd medical city fund",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16046,
+    "source_ar": "إن مجلس الوزراء بعد الاطلاع على المعاملة الواردة من ديوان رئاسة مجلس الوزراء برقم ٥٢٣٧٠/ ب وتاريخ ٢٣/ ١٢ /١٤٢٦هـ، المشتملة على ما رفعه معالي وزير الصحة بخطابه رقم ٩٣٩٧٣ / ١١ وتاريخ ٢٩/ ٥/ ١٤٢٦هـ، المتضمن أن خطة تشغيل مدينة الملك فهد الطبية تتضمن الحصول على إيرادات مالية من خلال ما تقدمه من برامج للتعاون الطبي والتعليمي وغير ذلك للمؤسسات الحكومية أو الأهلية أو الأفراد، ولتفعيل وتشغيل المدينة وصيانتها يطلب معاليه الموافقة على الاستفادة من عائد تلك المبالغ للصرف منها على تمويل النشاطات العلمية والأكاديمية وتطوير تجهيزات المدينة ومبانيها.",
+    "target_en": "The Council of Ministers, Upon perusal of the File received from the Office of Presidency of the Council of Ministers No. ٥٢٣٧٠/B dated ٢٣ / ١٢ / ١٤٢٦H, including the Letter of HE the Minister of Health No. ٩٣٩٧٣ / ١١ dated ٢٩ / ٥ / ١٤٢٦H, which indicates that the operation plan of King Fahd Medical City (KFMC) provides for KFMC to generate financial revenues through cooperation programs in medical and educational fields etc. offered to public or private institutions or individuals. To operate and maintain KFMC, His Excellency requests approval for using such revenues to finance scientific and academic activities, and develop KFMC's facilities and structures;",
+    "source_ar_norm": "ان مجلس الوزراء بعد الاطلاع علي المعاملة الواردة من ديوان رئاسة مجلس الوزراء برقم ٥٢٣٧٠/ ب وتاريخ ٢٣/ ١٢ /١٤٢٦ه، المشتملة علي ما رفعه معالي وزير الصحة بخطابه رقم ٩٣٩٧٣ / ١١ وتاريخ ٢٩/ ٥/ ١٤٢٦ه، المتضمن ان خطة تشغيل مدينة الملك فهد الطبية تتضمن الحصول علي ايرادات مالية من خلال ما تقدمه من برامج للتعاون الطبي والتعليمي وغير ذلك للمؤسسات الحكومية او الاهلية او الافراد، ولتفعيل وتشغيل المدينة وصيانتها يطلب معاليه الموافقة علي الاستفادة من عائد تلك المبالغ للصرف منها علي تمويل النشاطات العلمية والاكاديمية وتطوير تجهيزات المدينة ومبانيها.",
+    "target_en_norm": "the council of ministers, upon perusal of the file received from the office of presidency of the council of ministers no. ٥٢٣٧٠/b dated ٢٣ / ١٢ / ١٤٢٦h, including the letter of he the minister of health no. ٩٣٩٧٣ / ١١ dated ٢٩ / ٥ / ١٤٢٦h, which indicates that the operation plan of king fahd medical city (kfmc) provides for kfmc to generate financial revenues through cooperation programs in medical and educational fields etc. offered to public or private institutions or individuals. to operate and maintain kfmc, his excellency requests approval for using such revenues to finance scientific and academic activities, and develop kfmc's facilities and structures;",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16047,
+    "source_ar": "وبعد الاطلاع على المحضر رقم (١٨١) وتاريخ ١/ ٥/ ١٤٢٧هـ المعد في هيئة الخبراء.",
+    "target_en": "And upon perusal of Minutes No. ١٨١ dated ١ / ٥ / ١٤٢٧H, drafted at the Bureau of Experts;",
+    "source_ar_norm": "وبعد الاطلاع علي المحضر رقم (١٨١) وتاريخ ١/ ٥/ ١٤٢٧ه المعد في هيئة الخبراء.",
+    "target_en_norm": "and upon perusal of minutes no. ١٨١ dated ١ / ٥ / ١٤٢٧h, drafted at the bureau of experts;",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16048,
+    "source_ar": "وبعد الاطلاع على مشروع تنظيم صندوق مدينة الملك فهد الطبية.",
+    "target_en": "And upon perusal of the draft Statute of King Fahd Medical City Fund;",
+    "source_ar_norm": "وبعد الاطلاع علي مشروع تنظيم صندوق مدينة الملك فهد الطبية.",
+    "target_en_norm": "and upon perusal of the draft statute of king fahd medical city fund;",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16049,
+    "source_ar": "وبعد الاطلاع على توصية اللجنة العامة لمجلس الوزراء رقم (٣١٠) وتاريخ ٧ / ٦ /١٤٢٧ هـ.",
+    "target_en": "And upon perusal of the recommendation of the General Committee of the Council of Ministers No. ٣١٠ dated ٧ / ٦ / ١٤٢٧H;",
+    "source_ar_norm": "وبعد الاطلاع علي توصية اللجنة العامة لمجلس الوزراء رقم (٣١٠) وتاريخ ٧ / ٦ /١٤٢٧ ه.",
+    "target_en_norm": "and upon perusal of the recommendation of the general committee of the council of ministers no. ٣١٠ dated ٧ / ٦ / ١٤٢٧h;",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16050,
+    "source_ar": "يقرر ما يلي: أولًا : الموافقة على تنظيم صندوق مدينة الملك فهد الطبية بالصيغة المرافقة.",
+    "target_en": "Resolves as follows: First: Approval of the Statute of King Fahd Medical City Fund as attached herewith.",
+    "source_ar_norm": "يقرر ما يلي: اولا : الموافقة علي تنظيم صندوق مدينة الملك فهد الطبية بالصيغة المرافقة.",
+    "target_en_norm": "resolves as follows: first: approval of the statute of king fahd medical city fund as attached herewith.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16051,
+    "source_ar": "ثانيًا : تطرح مدينة الملك فهد الطبية تشغيل وتسويق خدمات المرافق المساندة وبعض منشآت المدينة على القطاع الخاص ما أمكن ذلك، بما يمكنها من رفع الكفاية وترشيد الإنفاق الحكومي، وفقًا للإجراءات النظامية المتبعة في هذا الشأن.",
+    "target_en": "Second: For efficiency and control of government spending as per applicable statutory procedures, the KFMC shall, where possible, offer the operation and marketing of support facility services and certain installations in KFMC for tender to the private sector.",
+    "source_ar_norm": "ثانيا : تطرح مدينة الملك فهد الطبية تشغيل وتسويق خدمات المرافق المساندة وبعض منشات المدينة علي القطاع الخاص ما امكن ذلك، بما يمكنها من رفع الكفاية وترشيد الانفاق الحكومي، وفقا للاجراءات النظامية المتبعة في هذا الشان.",
+    "target_en_norm": "second: for efficiency and control of government spending as per applicable statutory procedures, the kfmc shall, where possible, offer the operation and marketing of support facility services and certain installations in kfmc for tender to the private sector.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16052,
+    "source_ar": "ثالثًا : ترفع وزارة الصحة – خلال السنة الخامسة من تاريخ صدور هذا القرار – تقريرًا إلى مجلس الوزراء عن نتائج عمل الصندوق ومدى تحقيق أهدافه والمقترحات التي تراها في شأنه.",
+    "target_en": "Third: The Ministry of Health shall, in the fifth year from issuance of this Resolution, submit a report to the Council of Ministers on results of the Fund's operation and the extent of achieving its objectives as well as suggestions thereon.",
+    "source_ar_norm": "ثالثا : ترفع وزارة الصحة – خلال السنة الخامسة من تاريخ صدور هذا القرار – تقريرا الي مجلس الوزراء عن نتائج عمل الصندوق ومدي تحقيق اهدافه والمقترحات التي تراها في شانه.",
+    "target_en_norm": "third: the ministry of health shall, in the fifth year from issuance of this resolution, submit a report to the council of ministers on results of the fund's operation and the extent of achieving its objectives as well as suggestions thereon.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16053,
+    "source_ar": "المادة الأولى:",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي:",
+    "target_en_norm": "article 1",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16054,
+    "source_ar": "يقصد بالمصطلحات التالية المعاني الموضحة أمامها أينما وردت في هذا التنظيم.",
+    "target_en": "In this Statute, the following words and phrases shall have the meanings assigned thereto.",
+    "source_ar_norm": "يقصد بالمصطلحات التالية المعاني الموضحة امامها اينما وردت في هذا التنظيم.",
+    "target_en_norm": "in this statute, the following words and phrases shall have the meanings assigned thereto.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16055,
+    "source_ar": "المدينة: مدينة الملك فهد الطبية.",
+    "target_en": "KFMC: King Fahd Medical City.",
+    "source_ar_norm": "المدينة: مدينة الملك فهد الطبية.",
+    "target_en_norm": "kfmc: king fahd medical city.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16056,
+    "source_ar": "الإيرادات المالية الذاتية: جميع الإيرادات المالية التي تحصل في نطاق مدينة الملك فهد الطبية وفقاً للأنظمة والقرارات ذات العلاقة.",
+    "target_en": "Self-Generated Revenues: All financial revenues generated by KFMC in accordance with relevant laws and decisions.",
+    "source_ar_norm": "الايرادات المالية الذاتية: جميع الايرادات المالية التي تحصل في نطاق مدينة الملك فهد الطبية وفقا للانظمة والقرارات ذات العلاقة.",
+    "target_en_norm": "self-generated revenues: all financial revenues generated by kfmc in accordance with relevant laws and decisions.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16057,
+    "source_ar": "الصندوق: صندوق الإيرادات المالية الذاتية لمدينة الملك فهد الطبية.",
+    "target_en": "Fund: Self-generated revenue fund of KFMC.",
+    "source_ar_norm": "الصندوق: صندوق الايرادات المالية الذاتية لمدينة الملك فهد الطبية.",
+    "target_en_norm": "fund: self-generated revenue fund of kfmc.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16058,
+    "source_ar": "المجلس: مجلس إدارة صندوق الإيرادات المالية الذاتية لمدينة الملك فهد الطبية.",
+    "target_en": "Board: Board of directors of the Fund.",
+    "source_ar_norm": "المجلس: مجلس ادارة صندوق الايرادات المالية الذاتية لمدينة الملك فهد الطبية.",
+    "target_en_norm": "board: board of directors of the fund.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16059,
+    "source_ar": "المادة الثانية:",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية:",
+    "target_en_norm": "article 2",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16060,
+    "source_ar": "يؤسس وفقاً لهذا التنظيم صندوق للإيرادات المالية الذاتية بالمدينة، يهدف إلى تنظيم عملية تنمية وتحصيل الموارد الذاتية للمدينة وصرفها. ويتمتع الصندوق بالشخصية المعنوية والذمة المالية المستقلة.",
+    "target_en": "Under this Statute, a fund for self-generated revenues shall be established at KFMC to regulate the development, collection, and disbursement of KFMC’s self-generated resources. Said Fund shall have a legal personality and financial independence.",
+    "source_ar_norm": "يؤسس وفقا لهذا التنظيم صندوق للايرادات المالية الذاتية بالمدينة، يهدف الي تنظيم عملية تنمية وتحصيل الموارد الذاتية للمدينة وصرفها. ويتمتع الصندوق بالشخصية المعنوية والذمة المالية المستقلة.",
+    "target_en_norm": "under this statute, a fund for self-generated revenues shall be established at kfmc to regulate the development, collection, and disbursement of kfmc’s self-generated resources. said fund shall have a legal personality and financial independence.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16061,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article 3",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16062,
+    "source_ar": "يشكل المجلس على النحو التالي:",
+    "target_en": "The Board shall comprise the following:",
+    "source_ar_norm": "يشكل المجلس علي النحو التالي:",
+    "target_en_norm": "the board shall comprise the following:",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16063,
+    "source_ar": "المدير العام التنفيذي للمدينة رئيسًا",
+    "target_en": "Chief Executive Officer of KFMC, chairman.",
+    "source_ar_norm": "المدير العام التنفيذي للمدينة رئيسا",
+    "target_en_norm": "chief executive officer of kfmc, chairman.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16064,
+    "source_ar": "المدير التنفيذي للشؤون المالية والإدارية في المدينة نائباً للرئيس",
+    "target_en": "Chief Executive Officer of KFMC’s Financial and Administrative Affairs, vicechairman.",
+    "source_ar_norm": "المدير التنفيذي للشؤون المالية والادارية في المدينة نائبا للرئيس",
+    "target_en_norm": "chief executive officer of kfmc’s financial and administrative affairs, vicechairman.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16065,
+    "source_ar": "المدير التنفيذي للشؤون الأكاديمية والتدريب في المدينة عضواً",
+    "target_en": "Chief Executive Officer of KFMC’s Academic and Training Affairs, member.",
+    "source_ar_norm": "المدير التنفيذي للشؤون الاكاديمية والتدريب في المدينة عضوا",
+    "target_en_norm": "chief executive officer of kfmc’s academic and training affairs, member.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16066,
+    "source_ar": "مدير إدارة التخطيط والتطوير في المدينة عضواً",
+    "target_en": "Director of KFMC’s Planning and Development Department, member.",
+    "source_ar_norm": "مدير ادارة التخطيط والتطوير في المدينة عضوا",
+    "target_en_norm": "director of kfmc’s planning and development department, member.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16067,
+    "source_ar": "مندوب من وزارة الصحة يحدده وزير الصحة عضواً",
+    "target_en": "A representative from the Ministry of Health designated by the Minister of Health, member.",
+    "source_ar_norm": "مندوب من وزارة الصحة يحدده وزير الصحة عضوا",
+    "target_en_norm": "a representative from the ministry of health designated by the minister of health, member.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16068,
+    "source_ar": "مندوب من وزارة المالية يحدده وزير المالية عضواً",
+    "target_en": "A representative from the Ministry of Finance designated by the Minister of Finance, member.",
+    "source_ar_norm": "مندوب من وزارة المالية يحدده وزير المالية عضوا",
+    "target_en_norm": "a representative from the ministry of finance designated by the minister of finance, member.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16069,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article 4",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16070,
+    "source_ar": "يعقد المجلس اجتماعاته بشكل دوري بدعوة من رئيسه أو نائبه، ويمكن دعوة المجلس للانعقاد بصفة استثنائية إذا استدعى الأمر ذلك. ولا ينعقد المجلس إلا بحضور معظم الأعضاء بمن فيهم الرئيس أو نائبه، وللمجلس أن يدعو لحضور اجتماعاته من يرى الاستعانة به دون أن يكون له حق التصويت. وتثبت مداولات المجلس وقراراته في محاضر يوقعها رئيس المجلس وأعضاؤه الحاضرون.",
+    "target_en": "The Board shall convene periodically upon a call by its Chairman or ViceChairman. The Board may also hold extraordinary meetings as necessary. A Board meeting shall only be valid if attended by the majority of members, including the Chairman or Vice-Chairman. The Board may invite non-members to attend its meetings in a non-voting capacity. Board deliberations and decisions shall be entered into minutes signed by the Chairman and attending members.",
+    "source_ar_norm": "يعقد المجلس اجتماعاته بشكل دوري بدعوة من رئيسه او نائبه، ويمكن دعوة المجلس للانعقاد بصفة استثنائية اذا استدعي الامر ذلك. ولا ينعقد المجلس الا بحضور معظم الاعضاء بمن فيهم الرئيس او نائبه، وللمجلس ان يدعو لحضور اجتماعاته من يري الاستعانة به دون ان يكون له حق التصويت. وتثبت مداولات المجلس وقراراته في محاضر يوقعها رئيس المجلس واعضاؤه الحاضرون.",
+    "target_en_norm": "the board shall convene periodically upon a call by its chairman or vicechairman. the board may also hold extraordinary meetings as necessary. a board meeting shall only be valid if attended by the majority of members, including the chairman or vice-chairman. the board may invite non-members to attend its meetings in a non-voting capacity. board deliberations and decisions shall be entered into minutes signed by the chairman and attending members.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16071,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article 5",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16072,
+    "source_ar": "تصدر قرارات المجلس بأغلبية أصوات الأعضاء الحاضرين في الاجتماع، وعند تساوي الأصوات يرجح الجانب الذي صوّت معه الرئيس. ولا يجوز للمجلس أن يصدر قرارات بطريق عرضها على الأعضاء متفرقين إلا في حالة الضرورة، ويشترط عندئذ موافقة جميع أعضاء المجلس على تلك القرارات كتابة، وتعرض هذه القرارات على المجلس في أول اجتماع لاحق لإثباتها في محضر الاجتماع.",
+    "target_en": "Board decisions shall be passed by the majority vote of attending members. In case of a tie, the Chairman shall have the casting vote. Board decisions may be passed by circulation, provided that such decisions are unanimously approved in writing and are entered in the minutes of the subsequent meeting.",
+    "source_ar_norm": "تصدر قرارات المجلس باغلبية اصوات الاعضاء الحاضرين في الاجتماع، وعند تساوي الاصوات يرجح الجانب الذي صوت معه الرئيس. ولا يجوز للمجلس ان يصدر قرارات بطريق عرضها علي الاعضاء متفرقين الا في حالة الضرورة، ويشترط عندئذ موافقة جميع اعضاء المجلس علي تلك القرارات كتابة، وتعرض هذه القرارات علي المجلس في اول اجتماع لاحق لاثباتها في محضر الاجتماع.",
+    "target_en_norm": "board decisions shall be passed by the majority vote of attending members. in case of a tie, the chairman shall have the casting vote. board decisions may be passed by circulation, provided that such decisions are unanimously approved in writing and are entered in the minutes of the subsequent meeting.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16073,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article 6",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16074,
+    "source_ar": "يعين المجلس أميناً عاماً له ومحاسباً للصندوق، ويحدد المجلس اختصاصاتهما وحقوقهما.",
+    "target_en": "The Board shall appoint its secretary-general and an accountant for the Fund, and shall determine their powers and rights.",
+    "source_ar_norm": "يعين المجلس امينا عاما له ومحاسبا للصندوق، ويحدد المجلس اختصاصاتهما وحقوقهما.",
+    "target_en_norm": "the board shall appoint its secretary-general and an accountant for the fund, and shall determine their powers and rights.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16075,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article 7",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16076,
+    "source_ar": "يختص المجلس بالإشراف على الصندوق وتصريف شؤونه، وإدارة كل الأمور الخاصة به، وله على وجه الخصوص ما يلي:",
+    "target_en": "The Board shall have the power to supervise the Fund and manage its affairs, and shall in particular have the power to approve the Fund’s:",
+    "source_ar_norm": "يختص المجلس بالاشراف علي الصندوق وتصريف شؤونه، وادارة كل الامور الخاصة به، وله علي وجه الخصوص ما يلي:",
+    "target_en_norm": "the board shall have the power to supervise the fund and manage its affairs, and shall in particular have the power to approve the fund’s:",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16077,
+    "source_ar": "اعتماد التنظيم المالي والإداري للصندوق.",
+    "target_en": "1-financial and administrative regulations;",
+    "source_ar_norm": "اعتماد التنظيم المالي والاداري للصندوق.",
+    "target_en_norm": "1-financial and administrative regulations;",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16078,
+    "source_ar": "اعتماد الميزانية السنوية للصندوق .",
+    "target_en": "2-annual budget;",
+    "source_ar_norm": "اعتماد الميزانية السنوية للصندوق .",
+    "target_en_norm": "2-annual budget;",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16079,
+    "source_ar": "اعتماد الحساب الختامي للصندوق.",
+    "target_en": "3-final accounts; and",
+    "source_ar_norm": "اعتماد الحساب الختامي للصندوق.",
+    "target_en_norm": "3-final accounts; and",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16080,
+    "source_ar": "اعتماد أنشطة الصندوق.",
+    "target_en": "4-activities.",
+    "source_ar_norm": "اعتماد انشطة الصندوق.",
+    "target_en_norm": "4-activities.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16081,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article 8",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16082,
+    "source_ar": "يمثل الصندوق في صلاته بغيره من الجهات وأمام القضاء رئيس المجلس أو من يفوضه.",
+    "target_en": "The Chairman, or his designee, shall represent the Fund before other agencies and the judiciary.",
+    "source_ar_norm": "يمثل الصندوق في صلاته بغيره من الجهات وامام القضاء رئيس المجلس او من يفوضه.",
+    "target_en_norm": "the chairman, or his designee, shall represent the fund before other agencies and the judiciary.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16083,
+    "source_ar": "المادة التاسعة :",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة :",
+    "target_en_norm": "article 9",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16084,
+    "source_ar": "يصرف لعضو المجلس مبلغ (500 ريال) خمسمائة ريال عن كل جلسة، على ألا يتجاوز ما يصرف له (10.000 ريال) عشرة آلاف ريال في السنة الواحدة.",
+    "target_en": "Each Board member shall receive five hundred riyals per session, provided that the total annual remuneration for each member does not exceed ten thousand riyals.",
+    "source_ar_norm": "يصرف لعضو المجلس مبلغ (500 ريال) خمسمائة ريال عن كل جلسة، علي الا يتجاوز ما يصرف له (10.000 ريال) عشرة الاف ريال في السنة الواحدة.",
+    "target_en_norm": "each board member shall receive five hundred riyals per session, provided that the total annual remuneration for each member does not exceed ten thousand riyals.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16085,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article 10",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16086,
+    "source_ar": "تكون إيرادات الصندوق على النحو التالي:",
+    "target_en": "Fund revenues shall be as follows:",
+    "source_ar_norm": "تكون ايرادات الصندوق علي النحو التالي:",
+    "target_en_norm": "fund revenues shall be as follows:",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16087,
+    "source_ar": "1- إيرادات التعليم والتدريب المستمر.",
+    "target_en": "Revenues from continuing education and training.",
+    "source_ar_norm": "1- ايرادات التعليم والتدريب المستمر.",
+    "target_en_norm": "revenues from continuing education and training.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16088,
+    "source_ar": "2- إيرادات النشاط الاجتماعي.",
+    "target_en": "Revenues from social activities.",
+    "source_ar_norm": "2- ايرادات النشاط الاجتماعي.",
+    "target_en_norm": "revenues from social activities.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16089,
+    "source_ar": "3- إيرادات الاستشارات المتخصصة.",
+    "target_en": "Revenues from specialist consultations.",
+    "source_ar_norm": "3- ايرادات الاستشارات المتخصصة.",
+    "target_en_norm": "revenues from specialist consultations.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16090,
+    "source_ar": "4- إيرادات تقديم الخدمات المساندة.",
+    "target_en": "Revenues from support services.",
+    "source_ar_norm": "4- ايرادات تقديم الخدمات المساندة.",
+    "target_en_norm": "revenues from support services.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16091,
+    "source_ar": "5- أي تبرع أو هبة يتلقاها الصندوق.",
+    "target_en": "Donations or grants received by the Fund.",
+    "source_ar_norm": "5- اي تبرع او هبة يتلقاها الصندوق.",
+    "target_en_norm": "donations or grants received by the fund.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16092,
+    "source_ar": "6- المبالغ المحصلة نتيجة مخالفات أنظمة ولوائح المدينة.",
+    "target_en": "Fines collected for violations of KFMC’s laws and regulations.",
+    "source_ar_norm": "6- المبالغ المحصلة نتيجة مخالفات انظمة ولوائح المدينة.",
+    "target_en_norm": "fines collected for violations of kfmc’s laws and regulations.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16093,
+    "source_ar": "7- فوائض أموال الصندوق المدورة من السنة السابقة.",
+    "target_en": "Fund surplus carried forward from the previous year.",
+    "source_ar_norm": "7- فوائض اموال الصندوق المدورة من السنة السابقة.",
+    "target_en_norm": "fund surplus carried forward from the previous year.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16094,
+    "source_ar": "8- الإيرادات الناتجة من استغلال براءات الاختراع وحقوق الملكية الفكرية وفق أسس استثمارية.",
+    "target_en": "Revenues from the investment of patents and intellectual property rights.",
+    "source_ar_norm": "8- الايرادات الناتجة من استغلال براءات الاختراع وحقوق الملكية الفكرية وفق اسس استثمارية.",
+    "target_en_norm": "revenues from the investment of patents and intellectual property rights.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16095,
+    "source_ar": "9- الإيرادات الناتجة من تأسيس حاضنات التقنية الصحية والاستثمار فيها.",
+    "target_en": "Revenues from launching health technology incubators and investing therein.",
+    "source_ar_norm": "9- الايرادات الناتجة من تاسيس حاضنات التقنية الصحية والاستثمار فيها.",
+    "target_en_norm": "revenues from launching health technology incubators and investing therein.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16096,
+    "source_ar": "10- الإيرادات الناتجة من مشاركة القطاع العام أو الخاص في إقامة برامج وإجراء الأبحاث في المجالات الطبية والطبية المساعدة والتقنيات الطبية واستثمار ما تسفر عنه من نتائج علمية.",
+    "target_en": "Revenues from the public or private sector’s participation in programs and research in the fields of medicine, ancillary medical services, and medical technology, as well as the investment of the findings thereof.",
+    "source_ar_norm": "10- الايرادات الناتجة من مشاركة القطاع العام او الخاص في اقامة برامج واجراء الابحاث في المجالات الطبية والطبية المساعدة والتقنيات الطبية واستثمار ما تسفر عنه من نتائج علمية.",
+    "target_en_norm": "revenues from the public or private sector’s participation in programs and research in the fields of medicine, ancillary medical services, and medical technology, as well as the investment of the findings thereof.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16097,
+    "source_ar": "11- الإيرادات الناتجة من إقامة برامج تدار وفق أسس استثمارية آمنة تمول من فوائض أموال الصندوق المدورة بما لا يؤثر على تحقيق أهدافه.",
+    "target_en": "Revenues from low-risk investment programs funded by the Fund’s retained surplus in a manner that does not undermine its objectives.",
+    "source_ar_norm": "11- الايرادات الناتجة من اقامة برامج تدار وفق اسس استثمارية امنة تمول من فوائض اموال الصندوق المدورة بما لا يؤثر علي تحقيق اهدافه.",
+    "target_en_norm": "revenues from low-risk investment programs funded by the fund’s retained surplus in a manner that does not undermine its objectives.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16098,
+    "source_ar": "12- الإيرادات الناتجة من استثمار المواقع القابلة للاستثمار داخل حرم المدينة بالاتفاق المباشر مع مستثمرين.",
+    "target_en": "Revenues from the investment of investible sites within KFMC’s campus upon direct agreement with investors.",
+    "source_ar_norm": "12- الايرادات الناتجة من استثمار المواقع القابلة للاستثمار داخل حرم المدينة بالاتفاق المباشر مع مستثمرين.",
+    "target_en_norm": "revenues from the investment of investible sites within kfmc’s campus upon direct agreement with investors.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16099,
+    "source_ar": "13- الإيرادات الناتجة من استثمار إيرادات الصندوق المدورة في الأوعية الاستثمارية الآمنة.",
+    "target_en": "Revenues from the investment of the Fund's retained revenues in lowrisk investments.",
+    "source_ar_norm": "13- الايرادات الناتجة من استثمار ايرادات الصندوق المدورة في الاوعية الاستثمارية الامنة.",
+    "target_en_norm": "revenues from the investment of the fund's retained revenues in lowrisk investments.",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  },
+  {
+    "id": 16100,
+    "source_ar": "14- الإيرادات الناتجة من إنشاء الشركات والمشاركة فيها في المجالات الطبية والطبية المساعدة والتقنيات الطبية والتعليم والتدريب الصحي.",
+    "target_en": "Revenues from the incorporation of new companies or participation in existing ones in the fields of medicine, ancillary medical services, medical technology, and health education and training",
+    "source_ar_norm": "14- الايرادات الناتجة من انشاء الشركات والمشاركة فيها في المجالات الطبية والطبية المساعدة والتقنيات الطبية والتعليم والتدريب الصحي.",
+    "target_en_norm": "revenues from the incorporation of new companies or participation in existing ones in the fields of medicine, ancillary medical services, medical technology, and health education and training",
+    "file_name": "تنظيم صندوق مدينة الملك فهد الطبية.docx"
+  }
+]

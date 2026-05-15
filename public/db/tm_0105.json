@@ -1,0 +1,802 @@
+[
+  {
+    "id": 10401,
+    "source_ar": "الفصل الثاني: الإنقاذ البحري",
+    "target_en": "Chapter 2: Maritime Rescue",
+    "source_ar_norm": "الفصل الثاني: الانقاذ البحري",
+    "target_en_norm": "chapter 2: maritime rescue",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10402,
+    "source_ar": "المادة الستون بعد المائتين",
+    "target_en": "Article 260",
+    "source_ar_norm": "المادة الستون بعد المائتين",
+    "target_en_norm": "article 260",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10403,
+    "source_ar": "1- يجب على كل ربان أن يبادر إلى إنقاذ أي شخص في البحر معرض لخطر الهلاك، وذلك بالقدر الذي لا يعرض سفينته أو من عليها للخطر، ويكون الربان مسؤولاً إن أهمل في تنفيذ هذا الالتزام.",
+    "target_en": "1. The master shall, without delay, proceed to rescue any person in distress at sea, to the extent that it does not endanger his vessel or persons on board. The master who fails to fulfill such obligation shall be held liable.",
+    "source_ar_norm": "1- يجب علي كل ربان ان يبادر الي انقاذ اي شخص في البحر معرض لخطر الهلاك، وذلك بالقدر الذي لا يعرض سفينته او من عليها للخطر، ويكون الربان مسؤولا ان اهمل في تنفيذ هذا الالتزام.",
+    "target_en_norm": "1. the master shall, without delay, proceed to rescue any person in distress at sea, to the extent that it does not endanger his vessel or persons on board. the master who fails to fulfill such obligation shall be held liable.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10404,
+    "source_ar": "2- مع بقاء مسؤولية الربان، يسأل مجهز السفينة عن مخالفة الالتزام المشار إليه في الفقرة (1) من هذه المادة إذا وقعت المخالفة بناء على تعليمات صريحة منه.",
+    "target_en": "2. Without prejudice to the master's liability, an operator shall be liable for the breach of the obligation set forth in paragraph (1) of this Article, if such breach is due to his explicit instructions.",
+    "source_ar_norm": "2- مع بقاء مسؤولية الربان، يسال مجهز السفينة عن مخالفة الالتزام المشار اليه في الفقرة (1) من هذه المادة اذا وقعت المخالفة بناء علي تعليمات صريحة منه.",
+    "target_en_norm": "2. without prejudice to the master's liability, an operator shall be liable for the breach of the obligation set forth in paragraph (1) of this article, if such breach is due to his explicit instructions.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10405,
+    "source_ar": "المادة الحادية والستون بعد المائتين",
+    "target_en": "Article 261",
+    "source_ar_norm": "المادة الحادية والستون بعد المائتين",
+    "target_en_norm": "article 261",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10406,
+    "source_ar": "1- كل عمل من أعمال الإنقاذ البحري يعطي الحق في مكافأة بشرط أن يؤدي إلى نتيجة مفيدة، ولا يجوز أن تتجاوز المكافأة قيمة ما أُنقذ.",
+    "target_en": "1. Any maritime rescue operation shall entitle the rescuer to a reward if such operation results in a positive outcome. Said reward shall not exceed the value of what has been rescued.",
+    "source_ar_norm": "1- كل عمل من اعمال الانقاذ البحري يعطي الحق في مكافاة بشرط ان يؤدي الي نتيجة مفيدة، ولا يجوز ان تتجاوز المكافاة قيمة ما انقذ.",
+    "target_en_norm": "1. any maritime rescue operation shall entitle the rescuer to a reward if such operation results in a positive outcome. said reward shall not exceed the value of what has been rescued.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10407,
+    "source_ar": "2- إذا لم تؤدِّ أعمال الإنقاذ إلى نتيجة مفيدة التزمت السفينة التي قدمت لها هذه الأعمال بالمصروفات المعقولة التي أنفقت في هذا الشأن.",
+    "target_en": "2. If rescue operations do not result in a positive outcome, the aided vessel shall reimburse the rescuer for the expenses incurred in such operations.",
+    "source_ar_norm": "2- اذا لم تؤد اعمال الانقاذ الي نتيجة مفيدة التزمت السفينة التي قدمت لها هذه الاعمال بالمصروفات المعقولة التي انفقت في هذا الشان.",
+    "target_en_norm": "2. if rescue operations do not result in a positive outcome, the aided vessel shall reimburse the rescuer for the expenses incurred in such operations.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10408,
+    "source_ar": "3- إذا لم تؤدِّ أعمال الإنقاذ لسفينة كانت تهدد هي أو شحنتها البيئة البحرية إلى نتيجة مفيدة ولم يتحصل المنقذ البحري على المكافأة المنصوص عليها في الفقرة (1) من هذه المادة أو المصروفات المنصوص عليها في الفقرة (2) من هذه المادة، استحق المنقذ البحري تعويضاً خاصاً من مالك السفينة يعادل المصروفات التي أنفقت في هذا الشأن مع مراعاة ما يأتي عند احتساب مبلغ التعويض الخاص:",
+    "target_en": "3. If the rescue operations intended to prevent a vessel or its cargo from endangering the marine environment do not result in a positive outcome, and the rescuer does not receive the reward prescribed in paragraph (1) of this Article or the reimbursement stipulated in paragraph (2) of this Article, said rescuer shall be entitled to a special reimbursement from the vessel owner, equivalent to the expenses incurred in such rescue operations, taking the following into consideration:",
+    "source_ar_norm": "3- اذا لم تؤد اعمال الانقاذ لسفينة كانت تهدد هي او شحنتها البيئة البحرية الي نتيجة مفيدة ولم يتحصل المنقذ البحري علي المكافاة المنصوص عليها في الفقرة (1) من هذه المادة او المصروفات المنصوص عليها في الفقرة (2) من هذه المادة، استحق المنقذ البحري تعويضا خاصا من مالك السفينة يعادل المصروفات التي انفقت في هذا الشان مع مراعاة ما ياتي عند احتساب مبلغ التعويض الخاص:",
+    "target_en_norm": "3. if the rescue operations intended to prevent a vessel or its cargo from endangering the marine environment do not result in a positive outcome, and the rescuer does not receive the reward prescribed in paragraph (1) of this article or the reimbursement stipulated in paragraph (2) of this article, said rescuer shall be entitled to a special reimbursement from the vessel owner, equivalent to the expenses incurred in such rescue operations, taking the following into consideration:",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10409,
+    "source_ar": "أ- إذا استطاع المنقذ البحري -من خلال عمليات الإنقاذ المقدمة للسفينة أو لشحنتها- منع أو تقليل الضرر البيئي الذي يلحق بالإنسان أو الموارد البحرية في المناطق البحرية للمملكة بما فيها المياه الساحلية أو الداخلية أو المناطق المجاورة لها، فيضاف مبلغ إلى التعويض الخاص بما لا يتجاوز نسبة (30%) من التعويض.",
+    "target_en": "a) If the rescue operations extended to a vessel or its cargo lead to the prevention or reduction of environmental damage that may affect human beings or maritime resources within the Kingdom's maritime areas, including coastal, inland and adjacent areas, an extra amount not exceeding 30% shall be added to the reimbursement.",
+    "source_ar_norm": "ا- اذا استطاع المنقذ البحري -من خلال عمليات الانقاذ المقدمة للسفينة او لشحنتها- منع او تقليل الضرر البيئي الذي يلحق بالانسان او الموارد البحرية في المناطق البحرية للمملكة بما فيها المياه الساحلية او الداخلية او المناطق المجاورة لها، فيضاف مبلغ الي التعويض الخاص بما لا يتجاوز نسبة (30%) من التعويض.",
+    "target_en_norm": "a) if the rescue operations extended to a vessel or its cargo lead to the prevention or reduction of environmental damage that may affect human beings or maritime resources within the kingdom's maritime areas, including coastal, inland and adjacent areas, an extra amount not exceeding 30% shall be added to the reimbursement.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10410,
+    "source_ar": "ب- يجوز للمحكمة المختصة أن تحكم بزيادة التعويض الخاص بما لا يتجاوز نسبة (100%) من المصروفات التي تكبدها المنقذ البحري، إذا رأت الحق في ذلك، بعد الأخذ في الحسبان الأسس المنصوص عليها في المادة (السابعة والستين بعد المائتين) من النظام.",
+    "target_en": "b) The competent court may, at its discretion, decide to increase the reimbursement up to 100% of the expenses incurred by the rescuer, without prejudice to the provisions of Article 267 of this Law.",
+    "source_ar_norm": "ب- يجوز للمحكمة المختصة ان تحكم بزيادة التعويض الخاص بما لا يتجاوز نسبة (100%) من المصروفات التي تكبدها المنقذ البحري، اذا رات الحق في ذلك، بعد الاخذ في الحسبان الاسس المنصوص عليها في المادة (السابعة والستين بعد المائتين) من النظام.",
+    "target_en_norm": "b) the competent court may, at its discretion, decide to increase the reimbursement up to 100% of the expenses incurred by the rescuer, without prejudice to the provisions of article 267 of this law.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10411,
+    "source_ar": "4- يسدد أصحاب المصالح مصروفات الإنقاذ البحري والتعويض الخاص المستحقة والمذكورة في هذه المادة، كل وفق ما أُنقذ من ممتلكات تتعلق به.",
+    "target_en": "4. Stakeholders shall pay the expenses incurred in the acts of rescue and the special reimbursement provided for in this Article, in proportion to their respective shares in the rescued property.",
+    "source_ar_norm": "4- يسدد اصحاب المصالح مصروفات الانقاذ البحري والتعويض الخاص المستحقة والمذكورة في هذه المادة، كل وفق ما انقذ من ممتلكات تتعلق به.",
+    "target_en_norm": "4. stakeholders shall pay the expenses incurred in the acts of rescue and the special reimbursement provided for in this article, in proportion to their respective shares in the rescued property.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10412,
+    "source_ar": "المادة الثانية والستون بعد المائتين",
+    "target_en": "Article 262",
+    "source_ar_norm": "المادة الثانية والستون بعد المائتين",
+    "target_en_norm": "article 262",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10413,
+    "source_ar": "1- يتفق الطرفان على مقدار المكافأة، فإن لم يتفقا حددت المحكمة مقدارها، وتحدد بالكيفية نفسها نسبة توزيعها بين مالك السفينة وربانها وبحارتها.",
+    "target_en": "1. The parties shall agree on the amount of remuneration. If they fail to agree, said remuneration shall be determined by the court. The same shall apply to its distribution among the vessel's owner, master, and crew members.",
+    "source_ar_norm": "1- يتفق الطرفان علي مقدار المكافاة، فان لم يتفقا حددت المحكمة مقدارها، وتحدد بالكيفية نفسها نسبة توزيعها بين مالك السفينة وربانها وبحارتها.",
+    "target_en_norm": "1. the parties shall agree on the amount of remuneration. if they fail to agree, said remuneration shall be determined by the court. the same shall apply to its distribution among the vessel's owner, master, and crew members.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10414,
+    "source_ar": "2- إذا كانت السفينة التي قامت بالإنقاذ البحري سفينة أجنبية فيخضع توزيع المكافأة بين مالكها وربانها والأشخاص الذين في خدمتها لنظام الدولة التي تتمتع السفينة بجنسيتها.",
+    "target_en": "2. If the rescuing vessel is foreign, the reward shall be distributed among the owner, master, and crew members in accordance with the laws applicable in the vessel's flag state.",
+    "source_ar_norm": "2- اذا كانت السفينة التي قامت بالانقاذ البحري سفينة اجنبية فيخضع توزيع المكافاة بين مالكها وربانها والاشخاص الذين في خدمتها لنظام الدولة التي تتمتع السفينة بجنسيتها.",
+    "target_en_norm": "2. if the rescuing vessel is foreign, the reward shall be distributed among the owner, master, and crew members in accordance with the laws applicable in the vessel's flag state.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10415,
+    "source_ar": "المادة الثالثة والستون بعد المائتين",
+    "target_en": "Article 263",
+    "source_ar_norm": "المادة الثالثة والستون بعد المائتين",
+    "target_en_norm": "article 263",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10416,
+    "source_ar": "تُستَحق مكافأة الإنقاذ البحري ولو كان بين سفن مملوكة لشخص واحد.",
+    "target_en": "A maritime rescue reward shall be payable even if the vessels involved are owned by the same person.",
+    "source_ar_norm": "تستحق مكافاة الانقاذ البحري ولو كان بين سفن مملوكة لشخص واحد.",
+    "target_en_norm": "a maritime rescue reward shall be payable even if the vessels involved are owned by the same person.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10417,
+    "source_ar": "المادة الرابعة والستون بعد المائتين",
+    "target_en": "Article 264",
+    "source_ar_norm": "المادة الرابعة والستون بعد المائتين",
+    "target_en_norm": "article 264",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10418,
+    "source_ar": "لا تستحق أي مكافأة للإنقاذ البحري أو النفقات التابعة له في الحالات الآتية:",
+    "target_en": "No reward or reimbursement shall be payable for maritime rescue in the following cases:",
+    "source_ar_norm": "لا تستحق اي مكافاة للانقاذ البحري او النفقات التابعة له في الحالات الاتية:",
+    "target_en_norm": "no reward or reimbursement shall be payable for maritime rescue in the following cases:",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10419,
+    "source_ar": "1- إذا كانت السفينة التي قدمت لها أعمال الإنقاذ البحري قد رفضت تدخل السفينة المقدمة للخدمة صراحة ولسبب معقول.",
+    "target_en": "1. The rescued vessel’s rejection of the aid provided by the rescuing vessel for a plausible reason.",
+    "source_ar_norm": "1- اذا كانت السفينة التي قدمت لها اعمال الانقاذ البحري قد رفضت تدخل السفينة المقدمة للخدمة صراحة ولسبب معقول.",
+    "target_en_norm": "1. the rescued vessel’s rejection of the aid provided by the rescuing vessel for a plausible reason.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10420,
+    "source_ar": "2- إنقاذ رسائل البريد أيًّا كان نوعها.",
+    "target_en": "2. Rescue of any type of mail.",
+    "source_ar_norm": "2- انقاذ رسائل البريد ايا كان نوعها.",
+    "target_en_norm": "2. rescue of any type of mail.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10421,
+    "source_ar": "3- المساعدة التي تقدمها السفينة القاطرة للسفينة المقطورة، أو للبضائع، أو الأشخاص الموجودين على ظهرها، إلاَّ إذا قامت بخدمات استثنائية لا تدخل عادة في عقد القطر.",
+    "target_en": "3. Aid provided by a towing vessel to a vessel or to persons or goods on board, unless the towing vessel provides other forms of aid not usually included in towage contracts.",
+    "source_ar_norm": "3- المساعدة التي تقدمها السفينة القاطرة للسفينة المقطورة، او للبضائع، او الاشخاص الموجودين علي ظهرها، الا اذا قامت بخدمات استثنائية لا تدخل عادة في عقد القطر.",
+    "target_en_norm": "3. aid provided by a towing vessel to a vessel or to persons or goods on board, unless the towing vessel provides other forms of aid not usually included in towage contracts.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10422,
+    "source_ar": "المادة الخامسة والستون بعد المائتين",
+    "target_en": "Article 265",
+    "source_ar_norm": "المادة الخامسة والستون بعد المائتين",
+    "target_en_norm": "article 265",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10423,
+    "source_ar": "1- تُستَحق عن إنقاذ الأشخاص في البحر مكافأة تحددها المحكمة عند الاختلاف، ولها أن تعفي الشخص الذي أُنقذ من أداء المكافأة إذا كانت حالته المالية تسوِّغ ذلك.",
+    "target_en": "1. A reward shall be payable for the rescue of a person in distress at sea, the amount of which shall be determined by the court if no agreement is reached. Such court may exempt the rescued person from paying such reward if his financial condition so warrants.",
+    "source_ar_norm": "1- تستحق عن انقاذ الاشخاص في البحر مكافاة تحددها المحكمة عند الاختلاف، ولها ان تعفي الشخص الذي انقذ من اداء المكافاة اذا كانت حالته المالية تسوغ ذلك.",
+    "target_en_norm": "1. a reward shall be payable for the rescue of a person in distress at sea, the amount of which shall be determined by the court if no agreement is reached. such court may exempt the rescued person from paying such reward if his financial condition so warrants.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10424,
+    "source_ar": "2- يستحق الأشخاص الذين أنقذوا الأرواح البشرية نصيباً عادلاً في مكافأة الإنقاذ البحري التي تعطى لمن أنقذوا السفينة والبضائع بمناسبة الحادث نفسه، ولا يجوز الجمع بين نصيب المنقذ من هذه الحصة والمكافأة المشار إليها في الفقرة (1) من هذه المادة.",
+    "target_en": "2. A person who rescues human lives in a maritime accident shall have a fair share in the reward payable to the rescuers of the vessel and its cargo in the same accident. No person may combine said share with the reward provided for in paragraph (1) of this Article.",
+    "source_ar_norm": "2- يستحق الاشخاص الذين انقذوا الارواح البشرية نصيبا عادلا في مكافاة الانقاذ البحري التي تعطي لمن انقذوا السفينة والبضائع بمناسبة الحادث نفسه، ولا يجوز الجمع بين نصيب المنقذ من هذه الحصة والمكافاة المشار اليها في الفقرة (1) من هذه المادة.",
+    "target_en_norm": "2. a person who rescues human lives in a maritime accident shall have a fair share in the reward payable to the rescuers of the vessel and its cargo in the same accident. no person may combine said share with the reward provided for in paragraph (1) of this article.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10425,
+    "source_ar": "المادة السادسة والستون بعد المائتين",
+    "target_en": "Article 266",
+    "source_ar_norm": "المادة السادسة والستون بعد المائتين",
+    "target_en_norm": "article 266",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10426,
+    "source_ar": "للمحكمة -بناء على طلب أحد الطرفين- إبطال أو تعديل أي اتفاق على الإنقاذ البحري إذا تبين لها أن شروطه غير عادلة، وتمت وقت الخطر وتحت تأثيره، أو إذا كان رضا أحد الطرفين قد شابَهُ تدليس أو غش، أو إذا كانت قيمة المكافأة مبالغاً فيها زيادة أو نقصاً بحيث لا تتناسب مع الخدمة التي قدمت.",
+    "target_en": "The court may, upon either party's request, revoke or amend any agreement relating to maritime rescue, if it finds that its terms are unfair and were made at the time of danger and under its influence, if the consent of either party is vitiated by fraud or deceit, or if the reward is disproportionate to the aid provided.",
+    "source_ar_norm": "للمحكمة -بناء علي طلب احد الطرفين- ابطال او تعديل اي اتفاق علي الانقاذ البحري اذا تبين لها ان شروطه غير عادلة، وتمت وقت الخطر وتحت تاثيره، او اذا كان رضا احد الطرفين قد شابه تدليس او غش، او اذا كانت قيمة المكافاة مبالغا فيها زيادة او نقصا بحيث لا تتناسب مع الخدمة التي قدمت.",
+    "target_en_norm": "the court may, upon either party's request, revoke or amend any agreement relating to maritime rescue, if it finds that its terms are unfair and were made at the time of danger and under its influence, if the consent of either party is vitiated by fraud or deceit, or if the reward is disproportionate to the aid provided.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10427,
+    "source_ar": "المادة السابعة والستون بعد المائتين",
+    "target_en": "Article 267",
+    "source_ar_norm": "المادة السابعة والستون بعد المائتين",
+    "target_en_norm": "article 267",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10428,
+    "source_ar": "تراعي المحكمة في تحديد المكافأة الأسس الآتية:",
+    "target_en": "In determining the reward, the court shall observe the following:",
+    "source_ar_norm": "تراعي المحكمة في تحديد المكافاة الاسس الاتية:",
+    "target_en_norm": "in determining the reward, the court shall observe the following:",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10429,
+    "source_ar": "1- قيمة السفينة والممتلكات الأخرى التي أنقذت وأجرة النقل في ميناء الوصول.",
+    "target_en": "1. Value of the vessel and other property rescued as well as freight at the port of destination.",
+    "source_ar_norm": "1- قيمة السفينة والممتلكات الاخري التي انقذت واجرة النقل في ميناء الوصول.",
+    "target_en_norm": "1. value of the vessel and other property rescued as well as freight at the port of destination.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10430,
+    "source_ar": "2- المهارات والمجهودات التي بذلت في منع الضرر البيئي أو تقليله.",
+    "target_en": "2. Expertise employed and efforts exerted to prevent or reduce environmental damage.",
+    "source_ar_norm": "2- المهارات والمجهودات التي بذلت في منع الضرر البيئي او تقليله.",
+    "target_en_norm": "2. expertise employed and efforts exerted to prevent or reduce environmental damage.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10431,
+    "source_ar": "3- الخطر الذي كان يحيق بالسفينة التي أُنقذت.",
+    "target_en": "3. Danger faced by the rescued vessel.",
+    "source_ar_norm": "3- الخطر الذي كان يحيق بالسفينة التي انقذت.",
+    "target_en_norm": "3. danger faced by the rescued vessel.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10432,
+    "source_ar": "4- المدة المستغرقة للإنقاذ.",
+    "target_en": "4. Duration of the rescue operation.",
+    "source_ar_norm": "4- المدة المستغرقة للانقاذ.",
+    "target_en_norm": "4. duration of the rescue operation.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10433,
+    "source_ar": "5- المصروفات وأجور الطاقم الإضافية بسبب جهودهم في الإنقاذ.",
+    "target_en": "5. Rescue operation expenses, including any payments made to the crew members in compensation for their rescue efforts.",
+    "source_ar_norm": "5- المصروفات واجور الطاقم الاضافية بسبب جهودهم في الانقاذ.",
+    "target_en_norm": "5. rescue operation expenses, including any payments made to the crew members in compensation for their rescue efforts.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10434,
+    "source_ar": "6- الأضرار المادية التي لحقت بالسفينة المشاركة في الإنقاذ والأضرار البدنية التي لحقت بالطاقم.",
+    "target_en": "6. Material damage and bodily injury sustained by the rescuing vessel and its crew members.",
+    "source_ar_norm": "6- الاضرار المادية التي لحقت بالسفينة المشاركة في الانقاذ والاضرار البدنية التي لحقت بالطاقم.",
+    "target_en_norm": "6. material damage and bodily injury sustained by the rescuing vessel and its crew members.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10435,
+    "source_ar": "7- أخطار المسؤولية التي تعرض لها المنقذون قِبَل الغير أو قِبَل الشاحنين بسبب الإنقاذ.",
+    "target_en": "7. Liability of the rescuers against consignors or third parties which arises from the rescue operation.",
+    "source_ar_norm": "7- اخطار المسؤولية التي تعرض لها المنقذون قبل الغير او قبل الشاحنين بسبب الانقاذ.",
+    "target_en_norm": "7. liability of the rescuers against consignors or third parties which arises from the rescue operation.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10436,
+    "source_ar": "8- قيمة الأدوات التي استعملها المنقذون.",
+    "target_en": "8. Value of the equipment used in the rescue operation.",
+    "source_ar_norm": "8- قيمة الادوات التي استعملها المنقذون.",
+    "target_en_norm": "8. value of the equipment used in the rescue operation.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10437,
+    "source_ar": "9- نوع الخدمة التي خصصت السفينة لها (سفينة تجارية، أم سفينة مخصصة لعمليات المساعدة والإنقاذ).",
+    "target_en": "9. Type of service for which the vessel is designated (whether a commercial or rescue vessel).",
+    "source_ar_norm": "9- نوع الخدمة التي خصصت السفينة لها (سفينة تجارية، ام سفينة مخصصة لعمليات المساعدة والانقاذ).",
+    "target_en_norm": "9. type of service for which the vessel is designated (whether a commercial or rescue vessel).",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10438,
+    "source_ar": "10- المهارات والمجهودات التي بذلت لإنقاذ الأشخاص والسفينة والممتلكات الأخرى.",
+    "target_en": "10. Expertise employed and efforts exerted to rescue the persons, vessels, and other property.",
+    "source_ar_norm": "10- المهارات والمجهودات التي بذلت لانقاذ الاشخاص والسفينة والممتلكات الاخري.",
+    "target_en_norm": "10. expertise employed and efforts exerted to rescue the persons, vessels, and other property.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10439,
+    "source_ar": "المادة الثامنة والستون بعد المائتين",
+    "target_en": "Article 268",
+    "source_ar_norm": "المادة الثامنة والستون بعد المائتين",
+    "target_en_norm": "article 268",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10440,
+    "source_ar": "للمحكمة أن تقضي بتخفيض المكافأة أو بإلغائها إذا تبين أن القائمين بالإنقاذ البحري قد ارتكبوا أخطاء جعلت الإنقاذ لازماً، أو إذا ارتكبوا سرقات، أو أخفوا أشياء مسروقة، أو وقع منهم غير ذلك من أعمال الغش.",
+    "target_en": "The court may decide to reduce or cancel the reward if it is established that the rescue becomes inevitable due to the rescuers’ fault, or if the rescuers commit fraud or theft, or conceal stolen items.",
+    "source_ar_norm": "للمحكمة ان تقضي بتخفيض المكافاة او بالغائها اذا تبين ان القائمين بالانقاذ البحري قد ارتكبوا اخطاء جعلت الانقاذ لازما، او اذا ارتكبوا سرقات، او اخفوا اشياء مسروقة، او وقع منهم غير ذلك من اعمال الغش.",
+    "target_en_norm": "the court may decide to reduce or cancel the reward if it is established that the rescue becomes inevitable due to the rescuers’ fault, or if the rescuers commit fraud or theft, or conceal stolen items.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10441,
+    "source_ar": "المادة التاسعة والستون بعد المائتين",
+    "target_en": "Article 269",
+    "source_ar_norm": "المادة التاسعة والستون بعد المائتين",
+    "target_en_norm": "article 269",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10442,
+    "source_ar": "1- لا تسمع دعوى المطالبة بالمكافأة أو المصروفات عن الإنقاذ البحري بعد مضي سنتين من تاريخ انتهاء أعمال الإنقاذ.",
+    "target_en": "1. A claim for reward or reimbursement for maritime rescue expenses shall not be heard after the lapse of two years from the date of completion of the rescue operation.",
+    "source_ar_norm": "1- لا تسمع دعوي المطالبة بالمكافاة او المصروفات عن الانقاذ البحري بعد مضي سنتين من تاريخ انتهاء اعمال الانقاذ.",
+    "target_en_norm": "1. a claim for reward or reimbursement for maritime rescue expenses shall not be heard after the lapse of two years from the date of completion of the rescue operation.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10443,
+    "source_ar": "2- يقف سريان المدة المنصوص عليها في الفقرة (1) من هذه المادة إذا تعذر الحجز على السفينة المدعى عليها في المناطق البحرية للمملكة، وكان المدعى عليه من الأشخاص الذين يتمتعون بالجنسية السعودية، أو كان له موطن فيها.",
+    "target_en": "2. The period provided for in paragraph (1) of this Article shall be suspended if the vessel subject of the claim cannot be arrested inside the Kingdom's maritime areas and the defendant is a Saudi national or has a domicile in the Kingdom.",
+    "source_ar_norm": "2- يقف سريان المدة المنصوص عليها في الفقرة (1) من هذه المادة اذا تعذر الحجز علي السفينة المدعي عليها في المناطق البحرية للمملكة، وكان المدعي عليه من الاشخاص الذين يتمتعون بالجنسية السعودية، او كان له موطن فيها.",
+    "target_en_norm": "2. the period provided for in paragraph (1) of this article shall be suspended if the vessel subject of the claim cannot be arrested inside the kingdom's maritime areas and the defendant is a saudi national or has a domicile in the kingdom.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10444,
+    "source_ar": "المادة السبعون بعد المائتين",
+    "target_en": "Article 270",
+    "source_ar_norm": "المادة السبعون بعد المائتين",
+    "target_en_norm": "article 270",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10445,
+    "source_ar": "يقع باطلاً كل اتفاق يقضي باختصاص محكمة أجنبية بنظر الدعاوى الناشئة عن الإنقاذ البحري، أو بإجراء التحكيم في هذه الدعاوى خارج المملكة، وذلك إذا وقع الإنقاذ في المناطق البحرية للمملكة، وكانت السفينة التي أَنقذت أو السفينة التي أنقذت تتمتع بالجنسية السعودية.",
+    "target_en": "Any agreement which provides for granting jurisdiction to a foreign court or resorting to arbitration outside the Kingdom regarding lawsuits arising from maritime rescue shall be deemed null and void if the rescue operation occurs within the Kingdom's maritime areas and the rescuing or rescued vessel is Saudi.",
+    "source_ar_norm": "يقع باطلا كل اتفاق يقضي باختصاص محكمة اجنبية بنظر الدعاوي الناشئة عن الانقاذ البحري، او باجراء التحكيم في هذه الدعاوي خارج المملكة، وذلك اذا وقع الانقاذ في المناطق البحرية للمملكة، وكانت السفينة التي انقذت او السفينة التي انقذت تتمتع بالجنسية السعودية.",
+    "target_en_norm": "any agreement which provides for granting jurisdiction to a foreign court or resorting to arbitration outside the kingdom regarding lawsuits arising from maritime rescue shall be deemed null and void if the rescue operation occurs within the kingdom's maritime areas and the rescuing or rescued vessel is saudi.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10446,
+    "source_ar": "الفصل الثالث: الخسارة البحرية",
+    "target_en": "Chapter 3: Maritime Average",
+    "source_ar_norm": "الفصل الثالث: الخسارة البحرية",
+    "target_en_norm": "chapter 3: maritime average",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10447,
+    "source_ar": "المادة الحادية والسبعون بعد المائتين",
+    "target_en": "Article 271",
+    "source_ar_norm": "المادة الحادية والسبعون بعد المائتين",
+    "target_en_norm": "article 271",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10448,
+    "source_ar": "تسري على الخسارة البحرية التي لم يرد في شأنها اتفاق خاص بين ذوي الشأن؛ الأحكام المنصوص عليها في هذا الفصل، فإن لم يكن هناك اتفاق أو نص في هذا الفصل فتطبق القواعد المقررة في العرف البحري.",
+    "target_en": "A maritime average upon which there is no specific agreement between the parties concerned shall be subject to the provisions of this Chapter. Where this Chapter is silent, the rules prescribed by maritime custom shall apply.",
+    "source_ar_norm": "تسري علي الخسارة البحرية التي لم يرد في شانها اتفاق خاص بين ذوي الشان؛ الاحكام المنصوص عليها في هذا الفصل، فان لم يكن هناك اتفاق او نص في هذا الفصل فتطبق القواعد المقررة في العرف البحري.",
+    "target_en_norm": "a maritime average upon which there is no specific agreement between the parties concerned shall be subject to the provisions of this chapter. where this chapter is silent, the rules prescribed by maritime custom shall apply.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10449,
+    "source_ar": "المادة الثانية والسبعون بعد المائتين",
+    "target_en": "Article 272",
+    "source_ar_norm": "المادة الثانية والسبعون بعد المائتين",
+    "target_en_norm": "article 272",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10450,
+    "source_ar": "1- تكون الخسارة البحرية إما مشتركة وإما خاصة.",
+    "target_en": "1. Maritime average shall be either general average or particular average.",
+    "source_ar_norm": "1- تكون الخسارة البحرية اما مشتركة واما خاصة.",
+    "target_en_norm": "1. maritime average shall be either general average or particular average.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10451,
+    "source_ar": "2- يفترض أن الخسارة خاصة، وعلى من يدعي أن الخسارة مشتركة إثبات ذلك.",
+    "target_en": "2. Average shall be deemed particular, unless proven otherwise.",
+    "source_ar_norm": "2- يفترض ان الخسارة خاصة، وعلي من يدعي ان الخسارة مشتركة اثبات ذلك.",
+    "target_en_norm": "2. average shall be deemed particular, unless proven otherwise.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10452,
+    "source_ar": "3- يتحمل الخسارة البحرية الخاصة مالك الشيء الذي لحقه الضرر، أو من تحمل المصروفات، مع مراعاة حقه في الرجوع على من أحدث الضرر، أو من استفاد من المصروفات التي أنفقت.",
+    "target_en": "3. Particular average shall be borne by the owner of the property affected by damage, or the person incurring the costs thereof, without prejudice to such person's right of recourse against the person who caused the damage or benefited from costs expended.",
+    "source_ar_norm": "3- يتحمل الخسارة البحرية الخاصة مالك الشيء الذي لحقه الضرر، او من تحمل المصروفات، مع مراعاة حقه في الرجوع علي من احدث الضرر، او من استفاد من المصروفات التي انفقت.",
+    "target_en_norm": "3. particular average shall be borne by the owner of the property affected by damage, or the person incurring the costs thereof, without prejudice to such person's right of recourse against the person who caused the damage or benefited from costs expended.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10453,
+    "source_ar": "المادة الثالثة والسبعون بعد المائتين",
+    "target_en": "Article 273",
+    "source_ar_norm": "المادة الثالثة والسبعون بعد المائتين",
+    "target_en_norm": "article 273",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10454,
+    "source_ar": "لا تقبل في الخسارة المشتركة إلاَّ الأضرار المادية التي تصيب السفينة أو البضائع الموجودة عليها، والمبالغ التي تنفق من أجلها، بشرط أن تكون الأضرار أو المبالغ ناشئة مباشرة عن التضحية التي قرر الربان بذلها أو المصروفات التي تحملها، أما الأضرار الناشئة عن التأخير -كتعطيل السفينة- والأضرار غير المباشرة -كفرق أسعار البضائع- فلا تقبل في الخسائر المشتركة.",
+    "target_en": "Material damage sustained by the vessel or the goods carried on board, as well as any expenses incurred thereon shall be deemed general average, provided that such damage or expenses directly arise from the sacrifice made by the master, or the expenses he incurs. However, damage arising from delay such as vessel breakdown, and indirect damage such as differences in prices of goods, shall not be deemed general average.",
+    "source_ar_norm": "لا تقبل في الخسارة المشتركة الا الاضرار المادية التي تصيب السفينة او البضائع الموجودة عليها، والمبالغ التي تنفق من اجلها، بشرط ان تكون الاضرار او المبالغ ناشئة مباشرة عن التضحية التي قرر الربان بذلها او المصروفات التي تحملها، اما الاضرار الناشئة عن التاخير -كتعطيل السفينة- والاضرار غير المباشرة -كفرق اسعار البضائع- فلا تقبل في الخسائر المشتركة.",
+    "target_en_norm": "material damage sustained by the vessel or the goods carried on board, as well as any expenses incurred thereon shall be deemed general average, provided that such damage or expenses directly arise from the sacrifice made by the master, or the expenses he incurs. however, damage arising from delay such as vessel breakdown, and indirect damage such as differences in prices of goods, shall not be deemed general average.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10455,
+    "source_ar": "المادة الرابعة والسبعون بعد المائتين",
+    "target_en": "Article 274",
+    "source_ar_norm": "المادة الرابعة والسبعون بعد المائتين",
+    "target_en_norm": "article 274",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10456,
+    "source_ar": "تعد الخسارة مشتركة حتى لو وقع الحادث الذي نتجت عنه بخطأ أحد ذوي الشأن في الرحلة، وذلك دون إخلال بحق ذوي الشأن الآخرين في الرجوع على من صدر منه الخطأ.",
+    "target_en": "An accident shall be deemed general average even if it occurs due to a fault attributable to one of the parties concerned in the voyage, without prejudice to the other parties' right of recourse against the party to whose fault the accident is attributable.",
+    "source_ar_norm": "تعد الخسارة مشتركة حتي لو وقع الحادث الذي نتجت عنه بخطا احد ذوي الشان في الرحلة، وذلك دون اخلال بحق ذوي الشان الاخرين في الرجوع علي من صدر منه الخطا.",
+    "target_en_norm": "an accident shall be deemed general average even if it occurs due to a fault attributable to one of the parties concerned in the voyage, without prejudice to the other parties' right of recourse against the party to whose fault the accident is attributable.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10457,
+    "source_ar": "المادة الخامسة والسبعون بعد المائتين",
+    "target_en": "Article 275",
+    "source_ar_norm": "المادة الخامسة والسبعون بعد المائتين",
+    "target_en_norm": "article 275",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10458,
+    "source_ar": "تعد خسارة مشتركة المصروفات التي أنفقت بدلاً من مصروفات أخرى كانت تقبل في الخسارة لو أنها أنفقت، بشرط ألاَّ تجاوز المصروفات التي لم تنفق.",
+    "target_en": "Expenses incurred instead of other expenses which could have been accepted as general average shall be deemed general average, provided that the expenses incurred do not exceed the expenses not incurred.",
+    "source_ar_norm": "تعد خسارة مشتركة المصروفات التي انفقت بدلا من مصروفات اخري كانت تقبل في الخسارة لو انها انفقت، بشرط الا تجاوز المصروفات التي لم تنفق.",
+    "target_en_norm": "expenses incurred instead of other expenses which could have been accepted as general average shall be deemed general average, provided that the expenses incurred do not exceed the expenses not incurred.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10459,
+    "source_ar": "المادة السادسة والسبعون بعد المائتين",
+    "target_en": "Article 276",
+    "source_ar_norm": "المادة السادسة والسبعون بعد المائتين",
+    "target_en_norm": "article 276",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10460,
+    "source_ar": "فيما عدا الملاحة الساحلية بين موانئ المملكة، تدخل قيمة البضائع التي تشحن على سطح السفينة في الخسارة المشتركة إذا أنقذت، أما إذا ألقيت في البحر، أو أتلفت فلا يجوز لصاحبها طلب اعتبارها من الخسارة المشتركة إلاَّ إذا أثبت أنه لم يوافق على شحنها على سطح السفينة، أو إذا كان النظام أو اللوائح المعمول بها في ميناء الشحن أو طبيعة الشحنة توجب شحنها بهذه الكيفية أو جرى العرف في هذا الميناء على ذلك.",
+    "target_en": "With the exception of coastal navigation between the Kingdom's ports, the value of goods loaded on the deck of a vessel shall be included in general average if rescued. However, if such goods are jettisoned or destroyed, their owner may not request that they be considered as general average, unless he establishes that he did not approve the loading of such goods on the vessel's deck, or the loading thereof is required by the laws, regulations, or maritime custom applicable at the port of loading, or it is warranted by the nature of such shipment.",
+    "source_ar_norm": "فيما عدا الملاحة الساحلية بين موانئ المملكة، تدخل قيمة البضائع التي تشحن علي سطح السفينة في الخسارة المشتركة اذا انقذت، اما اذا القيت في البحر، او اتلفت فلا يجوز لصاحبها طلب اعتبارها من الخسارة المشتركة الا اذا اثبت انه لم يوافق علي شحنها علي سطح السفينة، او اذا كان النظام او اللوائح المعمول بها في ميناء الشحن او طبيعة الشحنة توجب شحنها بهذه الكيفية او جري العرف في هذا الميناء علي ذلك.",
+    "target_en_norm": "with the exception of coastal navigation between the kingdom's ports, the value of goods loaded on the deck of a vessel shall be included in general average if rescued. however, if such goods are jettisoned or destroyed, their owner may not request that they be considered as general average, unless he establishes that he did not approve the loading of such goods on the vessel's deck, or the loading thereof is required by the laws, regulations, or maritime custom applicable at the port of loading, or it is warranted by the nature of such shipment.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10461,
+    "source_ar": "المادة السابعة والسبعون بعد المائتين",
+    "target_en": "Article 277",
+    "source_ar_norm": "المادة السابعة والسبعون بعد المائتين",
+    "target_en_norm": "article 277",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10462,
+    "source_ar": "لا يُقبل في الخسارة المشتركة الهلاك أو التلف الذي يلحق البضائع التي لم يصدر في شأنها سند شحن أو إيصال من الناقل أو من ينوب عنه، وتسهم هذه البضائع في الخسارة المشتركة إذا أنقذت.",
+    "target_en": "Goods for which the carrier or his representative has not issued a bill of lading or receipt shall not be deemed general average if they are lost or damaged, unless rescued.",
+    "source_ar_norm": "لا يقبل في الخسارة المشتركة الهلاك او التلف الذي يلحق البضائع التي لم يصدر في شانها سند شحن او ايصال من الناقل او من ينوب عنه، وتسهم هذه البضائع في الخسارة المشتركة اذا انقذت.",
+    "target_en_norm": "goods for which the carrier or his representative has not issued a bill of lading or receipt shall not be deemed general average if they are lost or damaged, unless rescued.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10463,
+    "source_ar": "المادة الثامنة والسبعون بعد المائتين",
+    "target_en": "Article 278",
+    "source_ar_norm": "المادة الثامنة والسبعون بعد المائتين",
+    "target_en_norm": "article 278",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10464,
+    "source_ar": "البضائع التي قُدم عنها بيان بأقل من قيمتها الحقيقية تسهم في الخسارة المشتركة على أساس قيمتها الحقيقة، ولا يقبل في هذه الخسارة إذا هلكت أو تلفت أو فقدت إلاَّ على أساس القيمة التي ذكرت في البيان.",
+    "target_en": "Goods estimated in their particulars at a value lower than their true value shall be deemed general average on the basis of their true value. If such goods are destroyed, lost, or damaged, they shall be deemed general average on the basis of the value provided in the particulars.",
+    "source_ar_norm": "البضائع التي قدم عنها بيان باقل من قيمتها الحقيقية تسهم في الخسارة المشتركة علي اساس قيمتها الحقيقة، ولا يقبل في هذه الخسارة اذا هلكت او تلفت او فقدت الا علي اساس القيمة التي ذكرت في البيان.",
+    "target_en_norm": "goods estimated in their particulars at a value lower than their true value shall be deemed general average on the basis of their true value. if such goods are destroyed, lost, or damaged, they shall be deemed general average on the basis of the value provided in the particulars.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10465,
+    "source_ar": "المادة التاسعة والسبعون بعد المائتين",
+    "target_en": "Article 279",
+    "source_ar_norm": "المادة التاسعة والسبعون بعد المائتين",
+    "target_en_norm": "article 279",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10466,
+    "source_ar": "أمتعة البحارة وأمتعة الراكبين التي لم يصدر في شأنها سند شحن أو إيصال من الناقل أو من ينوب عنه، وكذلك رسائل البريد على اختلاف أنواعها لا تسهم في الخسارة المشتركة إذا أُنقذت، وتقبل في هذه الخسارة بقيمتها التقديرية.",
+    "target_en": "The baggage of the vessel's crew members or passengers for which the carrier or his representative has not issued a bill of lading or receipt as well as any type of mail shall not be deemed general average if rescued; otherwise, they shall be deemed general average on the basis of their estimated value.",
+    "source_ar_norm": "امتعة البحارة وامتعة الراكبين التي لم يصدر في شانها سند شحن او ايصال من الناقل او من ينوب عنه، وكذلك رسائل البريد علي اختلاف انواعها لا تسهم في الخسارة المشتركة اذا انقذت، وتقبل في هذه الخسارة بقيمتها التقديرية.",
+    "target_en_norm": "the baggage of the vessel's crew members or passengers for which the carrier or his representative has not issued a bill of lading or receipt as well as any type of mail shall not be deemed general average if rescued; otherwise, they shall be deemed general average on the basis of their estimated value.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10467,
+    "source_ar": "المادة الثمانون بعد المائتين",
+    "target_en": "Article 280",
+    "source_ar_norm": "المادة الثمانون بعد المائتين",
+    "target_en_norm": "article 280",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10468,
+    "source_ar": "1- تتكون من الالتزامات والحقوق الناشئة عن الخسارة المشتركة مجموعتان، مجموعة مدينة ومجموعة دائنة.",
+    "target_en": "1. Obligations and entitlements arising from general average shall make up two groups: debtors and creditors.",
+    "source_ar_norm": "1- تتكون من الالتزامات والحقوق الناشئة عن الخسارة المشتركة مجموعتان، مجموعة مدينة ومجموعة دائنة.",
+    "target_en_norm": "1. obligations and entitlements arising from general average shall make up two groups: debtors and creditors.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10469,
+    "source_ar": "2- تُدرج في المجموعة المدينة: السفينة، وأجرة النقل، والبضائع المشحونة في السفينة، على النحو الآتي:",
+    "target_en": "2. The debtor group shall include the vessel, freight, and loaded goods, as follows:",
+    "source_ar_norm": "2- تدرج في المجموعة المدينة: السفينة، واجرة النقل، والبضائع المشحونة في السفينة، علي النحو الاتي:",
+    "target_en_norm": "2. the debtor group shall include the vessel, freight, and loaded goods, as follows:",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10470,
+    "source_ar": "أ- تُدرج السفينة بقيمتها في الميناء الذي تنتهي فيه الرحلة البحرية مضافاً إليها قيمة الخسارة التي تكون قد تحملتها.",
+    "target_en": "a) The vessel shall be included at its true value at the port of destination, in addition to the value of the damage it may have sustained.",
+    "source_ar_norm": "ا- تدرج السفينة بقيمتها في الميناء الذي تنتهي فيه الرحلة البحرية مضافا اليها قيمة الخسارة التي تكون قد تحملتها.",
+    "target_en_norm": "a) the vessel shall be included at its true value at the port of destination, in addition to the value of the damage it may have sustained.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10471,
+    "source_ar": "ب- تُدرج الأجرة الإجمالية لنقل البضائع وأجرة نقل الأشخاص التي لم يشترط استحقاقها في جميع الأحوال بمقدار الثلثين.",
+    "target_en": "b) The total freight of goods and fares of passengers, which are not stipulated to be payable, shall in all cases be included at the rate of two-thirds.",
+    "source_ar_norm": "ب- تدرج الاجرة الاجمالية لنقل البضائع واجرة نقل الاشخاص التي لم يشترط استحقاقها في جميع الاحوال بمقدار الثلثين.",
+    "target_en_norm": "b) the total freight of goods and fares of passengers, which are not stipulated to be payable, shall in all cases be included at the rate of two-thirds.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10472,
+    "source_ar": "ج- تُدرج البضائع التي أنقذت بقيمتها التجارية الحقيقية في ميناء التفريغ، وتُدرج البضائع التي ضُحي بها بقيمتها التجارية التقديرية في الميناء المذكور.",
+    "target_en": "c) The rescued goods shall be included at their true commercial value at the port of discharge, whereas sacrificed goods shall be included at their estimated commercial value at the same port.",
+    "source_ar_norm": "ج- تدرج البضائع التي انقذت بقيمتها التجارية الحقيقية في ميناء التفريغ، وتدرج البضائع التي ضحي بها بقيمتها التجارية التقديرية في الميناء المذكور.",
+    "target_en_norm": "c) the rescued goods shall be included at their true commercial value at the port of discharge, whereas sacrificed goods shall be included at their estimated commercial value at the same port.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10473,
+    "source_ar": "3- تُدرج في المجموعة الدائنة الأضرار والمصروفات التي تعد من الخسارة المشتركة مقدرة على الوجه الآتي:",
+    "target_en": "3. The creditor group shall include damage and expenses deemed to be general average, to be assessed as follows:",
+    "source_ar_norm": "3- تدرج في المجموعة الدائنة الاضرار والمصروفات التي تعد من الخسارة المشتركة مقدرة علي الوجه الاتي:",
+    "target_en_norm": "3. the creditor group shall include damage and expenses deemed to be general average, to be assessed as follows:",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10474,
+    "source_ar": "أ- تقدر قيمة الأضرار التي تلحق بالسفينة في الميناء الذي تنتهي فيه الرحلة، ويكون التقدير على أساس المصروفات التي أنفقت فعلاً في إصلاح ما أصاب السفينة من ضرر، أو على أساس المصروفات التقديرية في حالة عدم إجراء إصلاحات في السفينة. وفي حالة هلاك السفينة هلاكاً كليًّا أو اعتبارها كذلك، يحدد المبلغ الذي يقبل في الخسارة المشتركة على أساس قيمة السفينة سليمة قبل وقوع الحادث بعد خصم القيمة التقديرية للإصلاحات التي ليست لها صفة الخسائر المشتركة والثمن المحصل من بيع الحطام إن وجد.",
+    "target_en": "a) The amount of damage sustained by a vessel shall be estimated at the port of destination on the basis of incurred repair costs or estimated costs if no such repairs have been made. If a vessel is totally lost or presumed to be totally lost, the amount allowed in general average shall be assessed on the basis of the vessel's value prior to the accident, after deduction of the estimated cost of repairs which are not deemed to be general average, and the proceeds from the sale of the wreck, if any.",
+    "source_ar_norm": "ا- تقدر قيمة الاضرار التي تلحق بالسفينة في الميناء الذي تنتهي فيه الرحلة، ويكون التقدير علي اساس المصروفات التي انفقت فعلا في اصلاح ما اصاب السفينة من ضرر، او علي اساس المصروفات التقديرية في حالة عدم اجراء اصلاحات في السفينة. وفي حالة هلاك السفينة هلاكا كليا او اعتبارها كذلك، يحدد المبلغ الذي يقبل في الخسارة المشتركة علي اساس قيمة السفينة سليمة قبل وقوع الحادث بعد خصم القيمة التقديرية للاصلاحات التي ليست لها صفة الخسائر المشتركة والثمن المحصل من بيع الحطام ان وجد.",
+    "target_en_norm": "a) the amount of damage sustained by a vessel shall be estimated at the port of destination on the basis of incurred repair costs or estimated costs if no such repairs have been made. if a vessel is totally lost or presumed to be totally lost, the amount allowed in general average shall be assessed on the basis of the vessel's value prior to the accident, after deduction of the estimated cost of repairs which are not deemed to be general average, and the proceeds from the sale of the wreck, if any.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10475,
+    "source_ar": "ب- تقدر قيمة الأضرار التي تلحق البضائع في ميناء التفريغ، ويكون التقدير على أساس القيمة التجارية لهذه البضائع، وهي سليمة في الميناء المذكور، وفي حالة التلف تقدر على أساس الفرق بين قيمتها سليمة وقيمتها تالفة، وذلك في آخر يوم لتفريغ السفينة في الميناء المعين أولاً لوصولها، أو في يوم انتهاء الرحلة البحرية إذا انتهت في غير الميناء المذكور. وإذا بيعت البضائع التالفة حدد الضرر الذي يقبل في الخسارة المشتركة على أساس الفرق بين الثمن الصافي الناتج عن البيع وقيمة البضائع وهي سليمة في آخر يوم لتفريغ السفينة في الميناء المعين أولاً لوصولها أو في يوم انتهاء الرحلة البحرية، إذا انتهت في غير الميناء المذكور.",
+    "target_en": "b) The cost of damage sustained by the goods shall be estimated at the port of discharge on the basis of the commercial value of the goods prior to the sustained damage at said port. In the event of loss, the cost shall be estimated on the basis of the difference in their value before and after the sustained damage on the last day of discharge at the designated port of destination or on the date of the end of the voyage in case it ends at a port other than the aforementioned port. In case of sale of the damaged goods, the damage allowed in general average shall be estimated on the basis of the difference between the net sale value and the value of the goods prior to the sustained damage on the last day of discharge at the designated port of destination or on the date of the end of the voyage in case it ends at a port other than the aforementioned port.",
+    "source_ar_norm": "ب- تقدر قيمة الاضرار التي تلحق البضائع في ميناء التفريغ، ويكون التقدير علي اساس القيمة التجارية لهذه البضائع، وهي سليمة في الميناء المذكور، وفي حالة التلف تقدر علي اساس الفرق بين قيمتها سليمة وقيمتها تالفة، وذلك في اخر يوم لتفريغ السفينة في الميناء المعين اولا لوصولها، او في يوم انتهاء الرحلة البحرية اذا انتهت في غير الميناء المذكور. واذا بيعت البضائع التالفة حدد الضرر الذي يقبل في الخسارة المشتركة علي اساس الفرق بين الثمن الصافي الناتج عن البيع وقيمة البضائع وهي سليمة في اخر يوم لتفريغ السفينة في الميناء المعين اولا لوصولها او في يوم انتهاء الرحلة البحرية، اذا انتهت في غير الميناء المذكور.",
+    "target_en_norm": "b) the cost of damage sustained by the goods shall be estimated at the port of discharge on the basis of the commercial value of the goods prior to the sustained damage at said port. in the event of loss, the cost shall be estimated on the basis of the difference in their value before and after the sustained damage on the last day of discharge at the designated port of destination or on the date of the end of the voyage in case it ends at a port other than the aforementioned port. in case of sale of the damaged goods, the damage allowed in general average shall be estimated on the basis of the difference between the net sale value and the value of the goods prior to the sustained damage on the last day of discharge at the designated port of destination or on the date of the end of the voyage in case it ends at a port other than the aforementioned port.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10476,
+    "source_ar": "المادة الحادية والثمانون بعد المائتين",
+    "target_en": "Article 281",
+    "source_ar_norm": "المادة الحادية والثمانون بعد المائتين",
+    "target_en_norm": "article 281",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10477,
+    "source_ar": "إذا لم يدفع أحد من ذوي الشأن نصيبه المطلوب منه للإسهام في الخسارة المشتركة، فإن المصروفات التي تنفق للحصول على ذلك تقبل في الخسارة المشتركة.",
+    "target_en": "If any of the parties concerned fails to pay his due contribution to general average losses, the expenses incurred to recover such dues shall contribute to general average.",
+    "source_ar_norm": "اذا لم يدفع احد من ذوي الشان نصيبه المطلوب منه للاسهام في الخسارة المشتركة، فان المصروفات التي تنفق للحصول علي ذلك تقبل في الخسارة المشتركة.",
+    "target_en_norm": "if any of the parties concerned fails to pay his due contribution to general average losses, the expenses incurred to recover such dues shall contribute to general average.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10478,
+    "source_ar": "المادة الثانية والثمانون بعد المائتين",
+    "target_en": "Article 282",
+    "source_ar_norm": "المادة الثانية والثمانون بعد المائتين",
+    "target_en_norm": "article 282",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10479,
+    "source_ar": "1- إذا قدم أصحاب البضائع مبالغ نقدية لضمان إسهامها في الخسارة المشتركة، وجب إيداعها فوراً في حساب مشترك يفتح باسم نائب عن المجهز ونائب عن أصحاب البضائع الذين قدموا المبالغ المذكورة في أحد المصارف التي يتفق عليها الطرفان. وتحفظ هذه المبالغ لضمان الوفاء بحقوق ذوي الشأن في الخسارة المشتركة، ولا يجوز صرف دفعات من هذه المبالغ أو ردها إلى من دفعها إلاَّ بإذن كتابي ممن يجري التسوية النهائية.",
+    "target_en": "1. If the owners of goods make payments as security for their respective contributions to general average losses, the funds shall be immediately deposited in a joint account opened under the names of both the representative of the operator and the representative of the cargo owners who deposited such funds at a bank agreed upon by the parties. Such funds shall be used as security for any liability arising from general average, and shall not be used or refunded, except upon a written authorization by the party undertaking the final settlement.",
+    "source_ar_norm": "1- اذا قدم اصحاب البضائع مبالغ نقدية لضمان اسهامها في الخسارة المشتركة، وجب ايداعها فورا في حساب مشترك يفتح باسم نائب عن المجهز ونائب عن اصحاب البضائع الذين قدموا المبالغ المذكورة في احد المصارف التي يتفق عليها الطرفان. وتحفظ هذه المبالغ لضمان الوفاء بحقوق ذوي الشان في الخسارة المشتركة، ولا يجوز صرف دفعات من هذه المبالغ او ردها الي من دفعها الا باذن كتابي ممن يجري التسوية النهائية.",
+    "target_en_norm": "1. if the owners of goods make payments as security for their respective contributions to general average losses, the funds shall be immediately deposited in a joint account opened under the names of both the representative of the operator and the representative of the cargo owners who deposited such funds at a bank agreed upon by the parties. such funds shall be used as security for any liability arising from general average, and shall not be used or refunded, except upon a written authorization by the party undertaking the final settlement.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10480,
+    "source_ar": "2- في حالة الخلاف تعين المحكمة المختصة نائباً عن أصحاب البضائع وتعين المصرف الذي تودع لديه المبالغ.",
+    "target_en": "2. In case of disagreement, the competent court shall appoint a representative for the cargo owners and designate the bank where the funds shall be deposited.",
+    "source_ar_norm": "2- في حالة الخلاف تعين المحكمة المختصة نائبا عن اصحاب البضائع وتعين المصرف الذي تودع لديه المبالغ.",
+    "target_en_norm": "2. in case of disagreement, the competent court shall appoint a representative for the cargo owners and designate the bank where the funds shall be deposited.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10481,
+    "source_ar": "المادة الثالثة والثمانون بعد المائتين",
+    "target_en": "Article 283",
+    "source_ar_norm": "المادة الثالثة والثمانون بعد المائتين",
+    "target_en_norm": "article 283",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10482,
+    "source_ar": "توزع الخسارة المشتركة بين جميع ذوي الشأن في الرحلة البحرية.",
+    "target_en": "General average losses shall be apportioned among the parties in a maritime voyage.",
+    "source_ar_norm": "توزع الخسارة المشتركة بين جميع ذوي الشان في الرحلة البحرية.",
+    "target_en_norm": "general average losses shall be apportioned among the parties in a maritime voyage.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10483,
+    "source_ar": "المادة الرابعة والثمانون بعد المائتين",
+    "target_en": "Article 284",
+    "source_ar_norm": "المادة الرابعة والثمانون بعد المائتين",
+    "target_en_norm": "article 284",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10484,
+    "source_ar": "1- يسوّي الخسارة المشتركة خبير (أو أكثر) يعينه ذوو الشأن، فإن لم يعينوه تعينه المحكمة المختصة التي يقع في نطاقها آخر ميناء للتفريغ. أما إذا كان هذا الميناء موجوداً خارج المملكة فيكون الاختصاص للمحكمة التي يقع في نطاقها ميناء تسجيل السفينة.",
+    "target_en": "1. Settlement of general average losses shall be undertaken by one or more experts appointed by the parties concerned or the court having jurisdiction over the last port of discharge if the parties fail to reach an agreement. If said port is located outside the Kingdom, the competent court shall be the court having territorial jurisdiction over the vessel's port of registration.",
+    "source_ar_norm": "1- يسوي الخسارة المشتركة خبير (او اكثر) يعينه ذوو الشان، فان لم يعينوه تعينه المحكمة المختصة التي يقع في نطاقها اخر ميناء للتفريغ. اما اذا كان هذا الميناء موجودا خارج المملكة فيكون الاختصاص للمحكمة التي يقع في نطاقها ميناء تسجيل السفينة.",
+    "target_en_norm": "1. settlement of general average losses shall be undertaken by one or more experts appointed by the parties concerned or the court having jurisdiction over the last port of discharge if the parties fail to reach an agreement. if said port is located outside the kingdom, the competent court shall be the court having territorial jurisdiction over the vessel's port of registration.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10485,
+    "source_ar": "2- يجوز للخبراء الاستعانة بغيرهم في تأدية مهمتهم.",
+    "target_en": "2. Experts may seek the assistance of others in the discharge of their duties.",
+    "source_ar_norm": "2- يجوز للخبراء الاستعانة بغيرهم في تادية مهمتهم.",
+    "target_en_norm": "2. experts may seek the assistance of others in the discharge of their duties.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10486,
+    "source_ar": "المادة الخامسة والثمانون بعد المائتين",
+    "target_en": "Article 285",
+    "source_ar_norm": "المادة الخامسة والثمانون بعد المائتين",
+    "target_en_norm": "article 285",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10487,
+    "source_ar": "إذا لم يرضَ جميع ذوي الشأن بالتسوية وجب عرضها على المحكمة المختصة بناء على طلب أحدهم للتصديق عليها، فإن رفضت المحكمة التصديق على التسوية وجب عليها أن تعين خبيرًا (أو أكثر) لإجراء تسوية جديدة.",
+    "target_en": "If all the parties are not satisfied with the settlement, the settlement shall, at the request of any of the parties, be referred to the competent court for indorsement. If the court rejects such indorsement, it shall appoint one or more experts to undertake a new settlement.",
+    "source_ar_norm": "اذا لم يرض جميع ذوي الشان بالتسوية وجب عرضها علي المحكمة المختصة بناء علي طلب احدهم للتصديق عليها، فان رفضت المحكمة التصديق علي التسوية وجب عليها ان تعين خبيرا (او اكثر) لاجراء تسوية جديدة.",
+    "target_en_norm": "if all the parties are not satisfied with the settlement, the settlement shall, at the request of any of the parties, be referred to the competent court for indorsement. if the court rejects such indorsement, it shall appoint one or more experts to undertake a new settlement.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10488,
+    "source_ar": "المادة السادسة والثمانون بعد المائتين",
+    "target_en": "Article 286",
+    "source_ar_norm": "المادة السادسة والثمانون بعد المائتين",
+    "target_en_norm": "article 286",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10489,
+    "source_ar": "للربان الامتناع عن تسليم البضائع التي يجب أن تُدرج في الخسارة المشتركة، إلاَّ إذا قدم صاحبها ضماناً كافياً لدفع نصيبه من الخسارة المشتركة، فإن لم يتفق الطرفان على الضمان عرض الأمر على المحكمة المختصة لتقديره.",
+    "target_en": "The master may refrain from delivering the goods which must be included in general average, unless the owner thereof provides a security sufficient to cover his share in general average. If the parties fail to agree on the security, it shall be referred to the competent court for assessment.",
+    "source_ar_norm": "للربان الامتناع عن تسليم البضائع التي يجب ان تدرج في الخسارة المشتركة، الا اذا قدم صاحبها ضمانا كافيا لدفع نصيبه من الخسارة المشتركة، فان لم يتفق الطرفان علي الضمان عرض الامر علي المحكمة المختصة لتقديره.",
+    "target_en_norm": "the master may refrain from delivering the goods which must be included in general average, unless the owner thereof provides a security sufficient to cover his share in general average. if the parties fail to agree on the security, it shall be referred to the competent court for assessment.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10490,
+    "source_ar": "المادة السابعة والثمانون بعد المائتين",
+    "target_en": "Article 287",
+    "source_ar_norm": "المادة السابعة والثمانون بعد المائتين",
+    "target_en_norm": "article 287",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10491,
+    "source_ar": "تعد الديون الناشئة عن الخسارة المشتركة ديوناً ممتازة، ويقع حق الامتياز هذا فيما يتعلق بالمبالغ المستحقة لمجهز السفينة على البضائع التي أُنقذت أو الثمن المتحصل من بيعها. أما بالنسبة إلى المبالغ المستحقة لأصحاب البضائع فيقع حق الامتياز على السفينة التي أُنقذت وأجرتها وتوابعها، وتكون لمصروفات تسوية الخسارة المشتركة الأولوية على ما عداها من الديون.",
+    "target_en": "Debts arising from general average shall be deemed priority debts. Amounts payable to the operator shall be secured by applying liens to the rescued goods or the proceeds of their sale, while amounts payable to the owners of goods shall be secured by applying liens to the rescued vessel, as well its freight and appurtenances. The costs of general average settlement shall have priority over any debts that may otherwise be due.",
+    "source_ar_norm": "تعد الديون الناشئة عن الخسارة المشتركة ديونا ممتازة، ويقع حق الامتياز هذا فيما يتعلق بالمبالغ المستحقة لمجهز السفينة علي البضائع التي انقذت او الثمن المتحصل من بيعها. اما بالنسبة الي المبالغ المستحقة لاصحاب البضائع فيقع حق الامتياز علي السفينة التي انقذت واجرتها وتوابعها، وتكون لمصروفات تسوية الخسارة المشتركة الاولوية علي ما عداها من الديون.",
+    "target_en_norm": "debts arising from general average shall be deemed priority debts. amounts payable to the operator shall be secured by applying liens to the rescued goods or the proceeds of their sale, while amounts payable to the owners of goods shall be secured by applying liens to the rescued vessel, as well its freight and appurtenances. the costs of general average settlement shall have priority over any debts that may otherwise be due.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10492,
+    "source_ar": "المادة الثامنة والثمانون بعد المائتين",
+    "target_en": "Article 288",
+    "source_ar_norm": "المادة الثامنة والثمانون بعد المائتين",
+    "target_en_norm": "article 288",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10493,
+    "source_ar": "لا تضامن بين الملتزمين بالإسهام في الخسارة المشتركة، ومع ذلك إذا عجز أحدهم عن دفع نصيبه في هذه الخسارة وزع الجزء غير المدفوع على الآخرين بنسبة ما يستحق على كل منهم في الخسارة المشتركة.",
+    "target_en": "Parties bound to contribute to general average losses are not jointly liable. Nevertheless, if any of the parties fails to pay his share in the average, the unpaid amount shall be apportioned among the other parties, in proportion to their respective shares in general average losses.",
+    "source_ar_norm": "لا تضامن بين الملتزمين بالاسهام في الخسارة المشتركة، ومع ذلك اذا عجز احدهم عن دفع نصيبه في هذه الخسارة وزع الجزء غير المدفوع علي الاخرين بنسبة ما يستحق علي كل منهم في الخسارة المشتركة.",
+    "target_en_norm": "parties bound to contribute to general average losses are not jointly liable. nevertheless, if any of the parties fails to pay his share in the average, the unpaid amount shall be apportioned among the other parties, in proportion to their respective shares in general average losses.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10494,
+    "source_ar": "المادة التاسعة والثمانون بعد المائتين",
+    "target_en": "Article 289",
+    "source_ar_norm": "المادة التاسعة والثمانون بعد المائتين",
+    "target_en_norm": "article 289",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10495,
+    "source_ar": "1- لا تسمع دعوى الاشتراك في الخسارة المشتركة بعد مضي سنتين من يوم وصول السفينة إلى الميناء الذي كان معيناً لوصولها أو إلى الميناء الذي انقطعت فيه الرحلة البحرية.",
+    "target_en": "1. No claim relating to contribution to general average shall be heard upon the lapse of two years from the date of the vessel’s arrival at the port of destination, or the port where the voyage comes to an end.",
+    "source_ar_norm": "1- لا تسمع دعوي الاشتراك في الخسارة المشتركة بعد مضي سنتين من يوم وصول السفينة الي الميناء الذي كان معينا لوصولها او الي الميناء الذي انقطعت فيه الرحلة البحرية.",
+    "target_en_norm": "1. no claim relating to contribution to general average shall be heard upon the lapse of two years from the date of the vessel’s arrival at the port of destination, or the port where the voyage comes to an end.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10496,
+    "source_ar": "2- ينقطع سريان المدة المشار إليها في الفقرة (1) من هذه المادة -بالإضافة إلى الأسباب المقررة نظاماً- بتعيين خبير التسوية، وفي هذه الحالة تسري مدة جديدة، مقدارها سنتان من تاريخ التوقيع على تسوية الخسارة المشتركة أو من التاريخ الذي تخلى فيه خبير التسوية عن إجرائها.",
+    "target_en": "2. The period provided for in paragraph (1) of this Article shall, in addition to other statutory reasons, discontinue upon the appointment of a settlement expert. In such case, a new period of two years shall take effect from the date of signing the general average settlement or the date of the expert's abandonment of the settlement.",
+    "source_ar_norm": "2- ينقطع سريان المدة المشار اليها في الفقرة (1) من هذه المادة -بالاضافة الي الاسباب المقررة نظاما- بتعيين خبير التسوية، وفي هذه الحالة تسري مدة جديدة، مقدارها سنتان من تاريخ التوقيع علي تسوية الخسارة المشتركة او من التاريخ الذي تخلي فيه خبير التسوية عن اجرائها.",
+    "target_en_norm": "2. the period provided for in paragraph (1) of this article shall, in addition to other statutory reasons, discontinue upon the appointment of a settlement expert. in such case, a new period of two years shall take effect from the date of signing the general average settlement or the date of the expert's abandonment of the settlement.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10497,
+    "source_ar": "الفصل الرابع: التحقيق في الحوادث البحرية",
+    "target_en": "Chapter 4: Investigation of Maritime Accidents",
+    "source_ar_norm": "الفصل الرابع: التحقيق في الحوادث البحرية",
+    "target_en_norm": "chapter 4: investigation of maritime accidents",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10498,
+    "source_ar": "المادة التسعون بعد المائتين",
+    "target_en": "Article 290",
+    "source_ar_norm": "المادة التسعون بعد المائتين",
+    "target_en_norm": "article 290",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10499,
+    "source_ar": "1- تتولى الجهة المختصة التحقيق في الحوادث البحرية التي تقع في مناطق المملكة البحرية والتي تقع في أعالي البحار إذا كانت السفينة ترفع علم المملكة ونتج عن الحادث خسارة في الأرواح أو إصابات خطيرة للأشخاص، أو أضرار مادية تلحق بالسفينة، أو أي منشأة عائمة أخرى أو بالبيئة البحرية.",
+    "target_en": "1. The competent authority shall investigate maritime accidents which occur within the Kingdom's maritime areas or on the high seas if the vessel flies the Kingdom's flag and the accident results in loss of life, severe injuries to persons, or material damage sustained by the vessel, other floating crafts, or the marine environment.",
+    "source_ar_norm": "1- تتولي الجهة المختصة التحقيق في الحوادث البحرية التي تقع في مناطق المملكة البحرية والتي تقع في اعالي البحار اذا كانت السفينة ترفع علم المملكة ونتج عن الحادث خسارة في الارواح او اصابات خطيرة للاشخاص، او اضرار مادية تلحق بالسفينة، او اي منشاة عائمة اخري او بالبيئة البحرية.",
+    "target_en_norm": "1. the competent authority shall investigate maritime accidents which occur within the kingdom's maritime areas or on the high seas if the vessel flies the kingdom's flag and the accident results in loss of life, severe injuries to persons, or material damage sustained by the vessel, other floating crafts, or the marine environment.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10500,
+    "source_ar": "2- تتعاون الجهة المختصة مع الجهات المعنية في الدول الأخرى في أي تحقيق تجريه تلك الدول في أي حادث بحري من هذا النوع يكون قد ارتكب من سفينة سعودية بالاشتراك مع سفينة تابعة لدولة أخرى أو في مناطقها البحرية.",
+    "target_en": "2. The competent authority shall cooperate with relevant authorities in other states in investigations conducted by such states of any maritime accident involving a Saudi vessel and a vessel of another state, or which occurs within its maritime areas.",
+    "source_ar_norm": "2- تتعاون الجهة المختصة مع الجهات المعنية في الدول الاخري في اي تحقيق تجريه تلك الدول في اي حادث بحري من هذا النوع يكون قد ارتكب من سفينة سعودية بالاشتراك مع سفينة تابعة لدولة اخري او في مناطقها البحرية.",
+    "target_en_norm": "2. the competent authority shall cooperate with relevant authorities in other states in investigations conducted by such states of any maritime accident involving a saudi vessel and a vessel of another state, or which occurs within its maritime areas.",
+    "file_name": "النظام البحري التجاري.docx"
+  }
+]

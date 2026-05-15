@@ -1,0 +1,802 @@
+[
+  {
+    "id": 11001,
+    "source_ar": "تُعطى كل مُديرية عامة للشؤون الصحية الصلاحيات الإدارية والمالية التي تُمكِنُها مِن تأدية المهام المنوطة بِها بطريقة فعَّالة، وتُراعي الوزارة ضِمن ميزانيتِها الاحتياجات الخاصة بكل منطقة بحسب المرافِق الصحية فيها وأعداد سُكانِها، ويُخصص لكل مُستشفى الاعتِمادات المالية التي يحتاجُها.",
+    "target_en": "Each general directorate of health affairs shall have the administrative and financial powers necessary for carrying out its duties. The Ministry shall, within its budget, take into consideration the needs of each province according to available health facilities and population. Each hospital shall be allocated the funds it requires.",
+    "source_ar_norm": "تعطي كل مديرية عامة للشؤون الصحية الصلاحيات الادارية والمالية التي تمكنها من تادية المهام المنوطة بها بطريقة فعالة، وتراعي الوزارة ضمن ميزانيتها الاحتياجات الخاصة بكل منطقة بحسب المرافق الصحية فيها واعداد سكانها، ويخصص لكل مستشفي الاعتمادات المالية التي يحتاجها.",
+    "target_en_norm": "each general directorate of health affairs shall have the administrative and financial powers necessary for carrying out its duties. the ministry shall, within its budget, take into consideration the needs of each province according to available health facilities and population. each hospital shall be allocated the funds it requires.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11002,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article 8",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11003,
+    "source_ar": "تقوم المُديرية العامة للشؤون الصحية بتنفيذ الخطط والبرامِج التي تضعُها الوزارة في المنطقة، وتُناط بِها على وجه الخصوص المسؤوليات الآتية:",
+    "target_en": "The General Directorate of Health Affairs shall implement the health plans and programs set by the Ministry for each province, and shall, in particular, be responsible for the following:",
+    "source_ar_norm": "تقوم المديرية العامة للشؤون الصحية بتنفيذ الخطط والبرامج التي تضعها الوزارة في المنطقة، وتناط بها علي وجه الخصوص المسؤوليات الاتية:",
+    "target_en_norm": "the general directorate of health affairs shall implement the health plans and programs set by the ministry for each province, and shall, in particular, be responsible for the following:",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11004,
+    "source_ar": "1 - ضمان توفُّر برامِج الرعاية الصحية لتغطية احتياجات المنطقة.",
+    "target_en": "Ensuring the availability of healthcare programs to cover the needs of the province.",
+    "source_ar_norm": "1 - ضمان توفر برامج الرعاية الصحية لتغطية احتياجات المنطقة.",
+    "target_en_norm": "ensuring the availability of healthcare programs to cover the needs of the province.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11005,
+    "source_ar": "2 - القيام بمسئولية إدارة وتشغيل المرافِق الصحية التابِعة للوزارة.",
+    "target_en": "Managing and operating the Ministry's health facilities.",
+    "source_ar_norm": "2 - القيام بمسئولية ادارة وتشغيل المرافق الصحية التابعة للوزارة.",
+    "target_en_norm": "managing and operating the ministry's health facilities.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11006,
+    "source_ar": "3 - الترخيص للمرافِق الصحية الخاصة والعاملين بِها طِبقًا للمُتطلبات والاشتِراطات التي تضعُها الوزارة، ومُراقبة الجودة النوعية في هذه المرافِق.",
+    "target_en": "Licensing private health facilities and their employees in accordance with the Ministry’s requirements and conditions; and monitoring the quality of such facilities.",
+    "source_ar_norm": "3 - الترخيص للمرافق الصحية الخاصة والعاملين بها طبقا للمتطلبات والاشتراطات التي تضعها الوزارة، ومراقبة الجودة النوعية في هذه المرافق.",
+    "target_en_norm": "licensing private health facilities and their employees in accordance with the ministry’s requirements and conditions; and monitoring the quality of such facilities.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11007,
+    "source_ar": "4 - إعداد الإحصاءات الصحية والحيوية وإجراء الدراسات والأبحاث على مُستوى المنطقة.",
+    "target_en": "Preparing health statistics and biostatistics as well as conducting studies and research at the provincial level.",
+    "source_ar_norm": "4 - اعداد الاحصاءات الصحية والحيوية واجراء الدراسات والابحاث علي مستوي المنطقة.",
+    "target_en_norm": "preparing health statistics and biostatistics as well as conducting studies and research at the provincial level.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11008,
+    "source_ar": "5 - وضع برامِج التعليم الطبي وتنفيذها المُتواصِل، وتدريب العاملين في المرافِق الصحية في المنطقة، بالتنسيق مع الوزارة والقطاعات الصحية الأُخرى.",
+    "target_en": "Setting medical education programs continuously and training health professionals in provincial health facilities, in coordination with the Ministry and other health sectors.",
+    "source_ar_norm": "5 - وضع برامج التعليم الطبي وتنفيذها المتواصل، وتدريب العاملين في المرافق الصحية في المنطقة، بالتنسيق مع الوزارة والقطاعات الصحية الاخري.",
+    "target_en_norm": "setting medical education programs continuously and training health professionals in provincial health facilities, in coordination with the ministry and other health sectors.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11009,
+    "source_ar": "6 - التنسيق والتعاون مع المؤسسات الصحية الحُكومية والخاصة ومع المُديريات الصحية الأُخرى.",
+    "target_en": "Coordinating and cooperating with government and private health institutions and with other health directorates.",
+    "source_ar_norm": "6 - التنسيق والتعاون مع المؤسسات الصحية الحكومية والخاصة ومع المديريات الصحية الاخري.",
+    "target_en_norm": "coordinating and cooperating with government and private health institutions and with other health directorates.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11010,
+    "source_ar": "7 - تنفيذ الخطط والبرامِج لنشر التوعية الصحية الشامِلة على مُستوى المنطقة.",
+    "target_en": "Implementing plans and programs to raise comprehensive health awareness at the provincial level.",
+    "source_ar_norm": "7 - تنفيذ الخطط والبرامج لنشر التوعية الصحية الشاملة علي مستوي المنطقة.",
+    "target_en_norm": "implementing plans and programs to raise comprehensive health awareness at the provincial level.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11011,
+    "source_ar": "المادة التاسعة:",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة:",
+    "target_en_norm": "article 9",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11012,
+    "source_ar": "1- تقوم المراكز الصحية التابعة للوزارة والجهات الحكومية الأخرى والقطاع الخاص بتقديم الخدمات الوقائية والإسعافية والعلاجية والتأهيلية وتوجيه الحالات عند الحاجة إلى المستشفيات ومراكز التخصص العلاجي.",
+    "target_en": "Health centers of the Ministry and other government agencies and those of the private sector shall provide preventive, emergency, treatment, and rehabilitative services, and shall, if the need arises, refer cases to hospitals and specialized treatment centers.",
+    "source_ar_norm": "1- تقوم المراكز الصحية التابعة للوزارة والجهات الحكومية الاخري والقطاع الخاص بتقديم الخدمات الوقائية والاسعافية والعلاجية والتاهيلية وتوجيه الحالات عند الحاجة الي المستشفيات ومراكز التخصص العلاجي.",
+    "target_en_norm": "health centers of the ministry and other government agencies and those of the private sector shall provide preventive, emergency, treatment, and rehabilitative services, and shall, if the need arises, refer cases to hospitals and specialized treatment centers.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11013,
+    "source_ar": "2 - تحدد اللائحة التنفيذية تفاصيل اختصاصات هذه المراكز، والقواعد المُنظمة لعملها، وعلاقتها بالمستشفيات، وإجراءات الإحالة، وإصدار التقارير الطبية.",
+    "target_en": "The Implementing Regulations shall specify the specialties of said centers and set the regulatory rules for their work, their relations with hospitals, referral procedures, and issuance of medical reports.",
+    "source_ar_norm": "2 - تحدد اللائحة التنفيذية تفاصيل اختصاصات هذه المراكز، والقواعد المنظمة لعملها، وعلاقتها بالمستشفيات، واجراءات الاحالة، واصدار التقارير الطبية.",
+    "target_en_norm": "the implementing regulations shall specify the specialties of said centers and set the regulatory rules for their work, their relations with hospitals, referral procedures, and issuance of medical reports.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11014,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article 10",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11015,
+    "source_ar": "مع عدم الإخلال بما جاء في المادة (الرابعة) يتم تمويل خدمات الرعاية الصحية بالطُرق الآتية:",
+    "target_en": "Without prejudice to the provisions of Article 4 of this Law, the financial resources for funding healthcare services shall be as follows:",
+    "source_ar_norm": "مع عدم الاخلال بما جاء في المادة (الرابعة) يتم تمويل خدمات الرعاية الصحية بالطرق الاتية:",
+    "target_en_norm": "without prejudice to the provisions of article 4 of this law, the financial resources for funding healthcare services shall be as follows:",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11016,
+    "source_ar": "1 - الميزانية العامة للدولة.",
+    "target_en": "Allocations in the State budget.",
+    "source_ar_norm": "1 - الميزانية العامة للدولة.",
+    "target_en_norm": "allocations in the state budget.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11017,
+    "source_ar": "2 - إيرادات الضمان الصحي التعاوني.",
+    "target_en": "Revenues of the Cooperative Health Insurance.",
+    "source_ar_norm": "2 - ايرادات الضمان الصحي التعاوني.",
+    "target_en_norm": "revenues of the cooperative health insurance.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11018,
+    "source_ar": "3 - الوقف والهِبات والتبرعات والوصايا وغيرها.",
+    "target_en": "Endowments, gifts, donations, bequests, and the like.",
+    "source_ar_norm": "3 - الوقف والهبات والتبرعات والوصايا وغيرها.",
+    "target_en_norm": "endowments, gifts, donations, bequests, and the like.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11019,
+    "source_ar": "وتحدَّد بقرار من مجلس الوزراء بناء على اقتِراح من الوزير الأُسُّس والمعايير التي يتم بموجبِها اختيار طُرق تمويل الخدمات التي تُقدِّمُها المرافِق الصحية المُختلِفة وتنظيم حق الانتِفاع بِها.",
+    "target_en": "The Council of Ministers shall, upon a recommendation by the Minister, determine the bases and criteria for funding the services provided by health facilities, and regulate the right to benefit from such services.",
+    "source_ar_norm": "وتحدد بقرار من مجلس الوزراء بناء علي اقتراح من الوزير الاسس والمعايير التي يتم بموجبها اختيار طرق تمويل الخدمات التي تقدمها المرافق الصحية المختلفة وتنظيم حق الانتفاع بها.",
+    "target_en_norm": "the council of ministers shall, upon a recommendation by the minister, determine the bases and criteria for funding the services provided by health facilities, and regulate the right to benefit from such services.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11020,
+    "source_ar": "المادة الحادية عشرة:",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة:",
+    "target_en_norm": "article 11",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11021,
+    "source_ar": "يجوز بقرار من مجلِس الوزراء بناءً على اقتِراح الوزير تحويل ملكية بعض مُستشفيات الوزارة إلى القِطاع الخاص.",
+    "target_en": "The Council of Ministers may, upon a recommendation by the Minister, transfer the ownership of some Ministry hospitals to the private sector.",
+    "source_ar_norm": "يجوز بقرار من مجلس الوزراء بناء علي اقتراح الوزير تحويل ملكية بعض مستشفيات الوزارة الي القطاع الخاص.",
+    "target_en_norm": "the council of ministers may, upon a recommendation by the minister, transfer the ownership of some ministry hospitals to the private sector.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11022,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article 12",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11023,
+    "source_ar": "تعمل الوزارة على ما يأتي:",
+    "target_en": "The Ministry shall:",
+    "source_ar_norm": "تعمل الوزارة علي ما ياتي:",
+    "target_en_norm": "the ministry shall:",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11024,
+    "source_ar": "1 - توفير التعليم والتدريب لأفراد الفريق الصحي العاملين بِها، وذلك بالتنسيق مع الجهات ذات العلاقة.",
+    "target_en": "provide education and training to its health professionals in coordination with the relevant agencies; and",
+    "source_ar_norm": "1 - توفير التعليم والتدريب لافراد الفريق الصحي العاملين بها، وذلك بالتنسيق مع الجهات ذات العلاقة.",
+    "target_en_norm": "provide education and training to its health professionals in coordination with the relevant agencies; and",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11025,
+    "source_ar": "2 - التأكد من وجود المُستوى المُعترف بِه من التعليم والتدريب لدى المتقدمين للترخيص أو إعادة الترخيص.",
+    "target_en": "ensure that the applicants for licensing or re-licensing meet the recognized standards of education and training.",
+    "source_ar_norm": "2 - التاكد من وجود المستوي المعترف به من التعليم والتدريب لدي المتقدمين للترخيص او اعادة الترخيص.",
+    "target_en_norm": "ensure that the applicants for licensing or re-licensing meet the recognized standards of education and training.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11026,
+    "source_ar": "وتحدد الهيئة السعودية للتخصصات الصحية المعايير المطلوبة للتعليم والتدريب.",
+    "target_en": "The Saudi Commission for Health Specialties shall determine the criteria required for education and training.",
+    "source_ar_norm": "وتحدد الهيئة السعودية للتخصصات الصحية المعايير المطلوبة للتعليم والتدريب.",
+    "target_en_norm": "the saudi commission for health specialties shall determine the criteria required for education and training.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11027,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article 13",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11028,
+    "source_ar": "تقدم الرعاية الصحية لغير السعوديين وفقًا لنِظام الضمان الصحي التعاوني ولائحته التنفيذية.",
+    "target_en": "Healthcare shall be provided to non-Saudis in accordance with the Cooperative Health Insurance Law and its Implementing Regulations.",
+    "source_ar_norm": "تقدم الرعاية الصحية لغير السعوديين وفقا لنظام الضمان الصحي التعاوني ولائحته التنفيذية.",
+    "target_en_norm": "healthcare shall be provided to non-saudis in accordance with the cooperative health insurance law and its implementing regulations.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11029,
+    "source_ar": "المادة الرابعة عشرة:",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة:",
+    "target_en_norm": "article 14",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11030,
+    "source_ar": "تقدم الرعاية الصحية للحُجاج خِلال فترة الحج وفقًا للائحة يضعُها الوزير.",
+    "target_en": "Healthcare shall be provided to pilgrims during Hajj season in accordance with regulations issued by the Minister.",
+    "source_ar_norm": "تقدم الرعاية الصحية للحجاج خلال فترة الحج وفقا للائحة يضعها الوزير.",
+    "target_en_norm": "healthcare shall be provided to pilgrims during hajj season in accordance with regulations issued by the minister.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11031,
+    "source_ar": "المادة الخامسة عشرة:",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة:",
+    "target_en_norm": "article 15",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11032,
+    "source_ar": "الوزارة هي الجِهة المسئولة عن تطبيق هذا النِظام فيما لا يدخُل في اختصاصات جهة أخرى.",
+    "target_en": "Without prejudice to the jurisdiction of other agencies, the Ministry shall be in charge of the implementation of this Law.",
+    "source_ar_norm": "الوزارة هي الجهة المسئولة عن تطبيق هذا النظام فيما لا يدخل في اختصاصات جهة اخري.",
+    "target_en_norm": "without prejudice to the jurisdiction of other agencies, the ministry shall be in charge of the implementation of this law.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11033,
+    "source_ar": "المادة السادسة عشرة:",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة:",
+    "target_en_norm": "article 16",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11034,
+    "source_ar": "أ - يُكوّن مجلس باسم \"المجلس الصحي السعودي\" برئاسة وزير الصحة، وعضوية كل من:",
+    "target_en": "A council named the Saudi Health Council shall be established under the chairmanship of the Minister and shall comprise the following members:",
+    "source_ar_norm": "ا - يكون مجلس باسم \"المجلس الصحي السعودي\" برئاسة وزير الصحة، وعضوية كل من:",
+    "target_en_norm": "a council named the saudi health council shall be established under the chairmanship of the minister and shall comprise the following members:",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11035,
+    "source_ar": "1 - مدير عام الخدمات الطبية بالقوات المسلحة.",
+    "target_en": "The General Director of the Armed Forces Medical Services.",
+    "source_ar_norm": "1 - مدير عام الخدمات الطبية بالقوات المسلحة.",
+    "target_en_norm": "the general director of the armed forces medical services.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11036,
+    "source_ar": "2 - المدير العام التنفيذي للشؤون الصحية بوزارة الحرس الوطني.",
+    "target_en": "The Executive General Director for Medical Affairs at the Ministry of National Guard.",
+    "source_ar_norm": "2 - المدير العام التنفيذي للشؤون الصحية بوزارة الحرس الوطني.",
+    "target_en_norm": "the executive general director for medical affairs at the ministry of national guard.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11037,
+    "source_ar": "3 - مدير عام الخدمات الطبية بوزارة الداخلية.",
+    "target_en": "The General Director of the Medical Services at the Ministry of Interior.",
+    "source_ar_norm": "3 - مدير عام الخدمات الطبية بوزارة الداخلية.",
+    "target_en_norm": "the general director of the medical services at the ministry of interior.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11038,
+    "source_ar": "4 - ممثل لوزارة الصحة يسميه وزير الصحة.",
+    "target_en": "A representative from the Ministry named by the Minister.",
+    "source_ar_norm": "4 - ممثل لوزارة الصحة يسميه وزير الصحة.",
+    "target_en_norm": "a representative from the ministry named by the minister.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11039,
+    "source_ar": "5 - ممثل لوزارة التربية والتعليم يسميه وزير التربية والتعليم.",
+    "target_en": "Two representatives from the Ministry of Education named by the Minister of Education.",
+    "source_ar_norm": "5 - ممثل لوزارة التربية والتعليم يسميه وزير التربية والتعليم.",
+    "target_en_norm": "two representatives from the ministry of education named by the minister of education.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11040,
+    "source_ar": "المادة السابعة عشرة:",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة:",
+    "target_en_norm": "article 17",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11041,
+    "source_ar": "يختص المجلِس بالآتي:",
+    "target_en": "The Council shall undertake the following:",
+    "source_ar_norm": "يختص المجلس بالاتي:",
+    "target_en_norm": "the council shall undertake the following:",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11042,
+    "source_ar": "أ - إعداد استراتيجية الرعاية الصحية في المملكة تمهيدًا لاعتِمادِها مِن مجلِس الوزراء .",
+    "target_en": "Preparing the Kingdom’s Healthcare Strategy, which shall be approved by the Council of Ministers.",
+    "source_ar_norm": "ا - اعداد استراتيجية الرعاية الصحية في المملكة تمهيدا لاعتمادها من مجلس الوزراء .",
+    "target_en_norm": "preparing the kingdom’s healthcare strategy, which shall be approved by the council of ministers.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11043,
+    "source_ar": "ب - وضع التنظيم المُلائم لتشغيل المُستشفيات التي تُديرُها الوزارة والجهات الحُكومية الأُخرى، بحيث تُدار وفقًا لأُسس الإدارة الاقتِصادية ومعايير الأداء والجودة النوعية.",
+    "target_en": "Developing a system for operating hospitals that are managed by the Ministry or other government agencies, in accordance with efficient management principles and performance and quality control criteria.",
+    "source_ar_norm": "ب - وضع التنظيم الملائم لتشغيل المستشفيات التي تديرها الوزارة والجهات الحكومية الاخري، بحيث تدار وفقا لاسس الادارة الاقتصادية ومعايير الاداء والجودة النوعية.",
+    "target_en_norm": "developing a system for operating hospitals that are managed by the ministry or other government agencies, in accordance with efficient management principles and performance and quality control criteria.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11044,
+    "source_ar": "ج - وضع وإقرار سياسة التنسيق والتكامل بين جميع الجهات المُختصة بتقديم خدمات الرعاية الصحية، وعلى وجه الخصوص في المجالات الآتية :",
+    "target_en": "Setting an appropriate policy for coordination and cooperation between all healthcare service providers, specifically in the following areas:",
+    "source_ar_norm": "ج - وضع واقرار سياسة التنسيق والتكامل بين جميع الجهات المختصة بتقديم خدمات الرعاية الصحية، وعلي وجه الخصوص في المجالات الاتية :",
+    "target_en_norm": "setting an appropriate policy for coordination and cooperation between all healthcare service providers, specifically in the following areas:",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11045,
+    "source_ar": "1- خدمات الرعاية الصحية الأولية والثانوية والتخصصية.",
+    "target_en": "Primary, secondary, and specialized healthcare services.",
+    "source_ar_norm": "1- خدمات الرعاية الصحية الاولية والثانوية والتخصصية.",
+    "target_en_norm": "primary, secondary, and specialized healthcare services.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11046,
+    "source_ar": "2 - خدمات الإسعاف والإخلاء الطبي.",
+    "target_en": "Emergency and medical evacuation services.",
+    "source_ar_norm": "2 - خدمات الاسعاف والاخلاء الطبي.",
+    "target_en_norm": "emergency and medical evacuation services.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11047,
+    "source_ar": "3 - تحويل المرضى بين الجهات الصحية المُختلِفة.",
+    "target_en": "Referral of patients.",
+    "source_ar_norm": "3 - تحويل المرضي بين الجهات الصحية المختلفة.",
+    "target_en_norm": "referral of patients.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11048,
+    "source_ar": "4 - تأمين الأدوية والمُستلزمات والأجهزة الطبية والاستعمال الأمثل لها.",
+    "target_en": "Provision of medicines and medical equipment and supplies, as well as the optimal use thereof.",
+    "source_ar_norm": "4 - تامين الادوية والمستلزمات والاجهزة الطبية والاستعمال الامثل لها.",
+    "target_en_norm": "provision of medicines and medical equipment and supplies, as well as the optimal use thereof.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11049,
+    "source_ar": "5 - تعليم القوى العامِلة في المجال الصحي وتدريبها وتوظيفها.",
+    "target_en": "Education, training, and employment of health professionals.",
+    "source_ar_norm": "5 - تعليم القوي العاملة في المجال الصحي وتدريبها وتوظيفها.",
+    "target_en_norm": "education, training, and employment of health professionals.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11050,
+    "source_ar": "6 - القيام بالبحوث والدراسات الصحية.",
+    "target_en": "Conducting health studies and research.",
+    "source_ar_norm": "6 - القيام بالبحوث والدراسات الصحية.",
+    "target_en_norm": "conducting health studies and research.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11051,
+    "source_ar": "7 - تقديم الرعاية الصحية للحُجاج.",
+    "target_en": "Provision of healthcare services to pilgrims.",
+    "source_ar_norm": "7 - تقديم الرعاية الصحية للحجاج.",
+    "target_en_norm": "provision of healthcare services to pilgrims.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11052,
+    "source_ar": "8 - نشر التوعية الصحية بين السكان.",
+    "target_en": "Promoting health awareness among the public.",
+    "source_ar_norm": "8 - نشر التوعية الصحية بين السكان.",
+    "target_en_norm": "promoting health awareness among the public.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11053,
+    "source_ar": "9 - تطوير صحة البيئة.",
+    "target_en": "Development of environmental health.",
+    "source_ar_norm": "9 - تطوير صحة البيئة.",
+    "target_en_norm": "development of environmental health.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11054,
+    "source_ar": "10 - تبادل خبرات المتخصصين بين الجهات الصحية المختلفة.",
+    "target_en": "Exchange of expertise of specialists between the various health institutions.",
+    "source_ar_norm": "10 - تبادل خبرات المتخصصين بين الجهات الصحية المختلفة.",
+    "target_en_norm": "exchange of expertise of specialists between the various health institutions.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11055,
+    "source_ar": "د - تعيين أمين عام للمجلس بناء على ترشيح الوزير، ووفق ما يقضي به نظام الخدمة المدنية .",
+    "target_en": "Appointing a secretary general for the Council, upon nomination by the Minister and in accordance with the Civil Service Law.",
+    "source_ar_norm": "د - تعيين امين عام للمجلس بناء علي ترشيح الوزير، ووفق ما يقضي به نظام الخدمة المدنية .",
+    "target_en_norm": "appointing a secretary general for the council, upon nomination by the minister and in accordance with the civil service law.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11056,
+    "source_ar": "هـ - وضع القواعد اللازمة لمكافأة من يستعان بهم من الخبراء بالتنسيق مع وزارة المالية والاقتصاد الوطني.",
+    "target_en": "Setting the necessary rules for determining the remuneration of experts who provide assistance, in coordination with the Ministry of Finance.",
+    "source_ar_norm": "ه - وضع القواعد اللازمة لمكافاة من يستعان بهم من الخبراء بالتنسيق مع وزارة المالية والاقتصاد الوطني.",
+    "target_en_norm": "setting the necessary rules for determining the remuneration of experts who provide assistance, in coordination with the ministry of finance.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11057,
+    "source_ar": "المادة الثامنة عشرة:",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة:",
+    "target_en_norm": "article 18",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11058,
+    "source_ar": "يصدر الوزير اللائحة التنفيذية لهذا النظام خلال عام من تاريخ نشره.",
+    "target_en": "The Minister shall issue the Implementing Regulations of this Law within one year from the date of its publication.",
+    "source_ar_norm": "يصدر الوزير اللائحة التنفيذية لهذا النظام خلال عام من تاريخ نشره.",
+    "target_en_norm": "the minister shall issue the implementing regulations of this law within one year from the date of its publication.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11059,
+    "source_ar": "المادة التاسعة عشرة:",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة:",
+    "target_en_norm": "article 19",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11060,
+    "source_ar": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به بعد تسعين يومًا من تاريخ نشره، ويلغي كل ما يتعارض معه من أحكام.",
+    "target_en": "This Law shall be published in the Official Gazette. It shall enter into force 90 days following the date of its publication, and shall repeal all provisions conflicting therewith.",
+    "source_ar_norm": "ينشر هذا النظام في الجريدة الرسمية، ويعمل به بعد تسعين يوما من تاريخ نشره، ويلغي كل ما يتعارض معه من احكام.",
+    "target_en_norm": "this law shall be published in the official gazette. it shall enter into force 90 days following the date of its publication, and shall repeal all provisions conflicting therewith.",
+    "file_name": "النظام الصحي.docx"
+  },
+  {
+    "id": 11061,
+    "source_ar": "النظام العام للبيئة",
+    "target_en": "Environmental Law",
+    "source_ar_norm": "النظام العام للبيئة",
+    "target_en_norm": "environmental law",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11062,
+    "source_ar": "المادة الأولى:",
+    "target_en": "Article ١",
+    "source_ar_norm": "المادة الاولي:",
+    "target_en_norm": "article ١",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11063,
+    "source_ar": "يقصد بالعبارات الآتية في مجال تطبيق أحكام هذا النظام، المعاني المبينة قرين كل منها:",
+    "target_en": "For the purpose of implementing the provisions of this Law, the following terms shall have the meanings given next to them:",
+    "source_ar_norm": "يقصد بالعبارات الاتية في مجال تطبيق احكام هذا النظام، المعاني المبينة قرين كل منها:",
+    "target_en_norm": "for the purpose of implementing the provisions of this law, the following terms shall have the meanings given next to them:",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11064,
+    "source_ar": "1 - الجهة المختصة: مصلحة الأرصاد وحماية البيئة.",
+    "target_en": "١. Competent authority: Meteorology and Environment Protection Authority.",
+    "source_ar_norm": "1 - الجهة المختصة: مصلحة الارصاد وحماية البيئة.",
+    "target_en_norm": "١. competent authority: meteorology and environment protection authority.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11065,
+    "source_ar": "2 - الوزير المختص: وزير الدّفاع والطيران والمفتش العام.",
+    "target_en": "٢. Competent Minister: Minister of Defense and Aviation and Inspector General.",
+    "source_ar_norm": "2 - الوزير المختص: وزير الدفاع والطيران والمفتش العام.",
+    "target_en_norm": "٢. competent minister: minister of defense and aviation and inspector general.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11066,
+    "source_ar": "3 - الجهة العامة: أيّ وزارة أو مصلحة أو مؤسسة حكومية.",
+    "target_en": "٣. Public authority: Any ministry or government agency or institution.",
+    "source_ar_norm": "3 - الجهة العامة: اي وزارة او مصلحة او مؤسسة حكومية.",
+    "target_en_norm": "٣. public authority: any ministry or government agency or institution.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11067,
+    "source_ar": "4 - الجهة المرخصة: أيّ جهة مسئولة عن ترخيص مشروعات ذات تأثير سلبي محتمل على البيئة.",
+    "target_en": "٤. Licensing authority: Any authority in charge of licensing projects of potentially adverse impact on the environment.",
+    "source_ar_norm": "4 - الجهة المرخصة: اي جهة مسئولة عن ترخيص مشروعات ذات تاثير سلبي محتمل علي البيئة.",
+    "target_en_norm": "٤. licensing authority: any authority in charge of licensing projects of potentially adverse impact on the environment.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11068,
+    "source_ar": "5 - الجهة المعنية: الجهة الحكومية المسئولة عن المشروعات ذات العلاقة بالبيئة.",
+    "target_en": "٥. Relevant authority: The government authority in charge of projects relating to the environment.",
+    "source_ar_norm": "5 - الجهة المعنية: الجهة الحكومية المسئولة عن المشروعات ذات العلاقة بالبيئة.",
+    "target_en_norm": "٥. relevant authority: the government authority in charge of projects relating to the environment.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11069,
+    "source_ar": "6 - الشخص: أيّ شخص طبيعي أو معنوي خاص، ويشمل ذلك المؤسسات والشركات الخاصة.",
+    "target_en": "٦. Person: any natural or private corporate person, including sole proprietorships and companies.",
+    "source_ar_norm": "6 - الشخص: اي شخص طبيعي او معنوي خاص، ويشمل ذلك المؤسسات والشركات الخاصة.",
+    "target_en_norm": "٦. person: any natural or private corporate person, including sole proprietorships and companies.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11070,
+    "source_ar": "7 - البيئة: كل ما يحيط بالإنسان من ماء وهواء ويابسة وفضاء خارجي، وكل ما تحتويه هذه الأوساط من جماد ونبات وحيوان وأشكال مختلفة من طاقة ونظّم وعمليات طبيعية وأنشطة بشريّة.",
+    "target_en": "٧. Environment: All that surrounds man whether water, air, land and outer space as well as contents thereof: nonliving objects, plants, animals, different forms of energy, systems, natural processes and human activity.",
+    "source_ar_norm": "7 - البيئة: كل ما يحيط بالانسان من ماء وهواء ويابسة وفضاء خارجي، وكل ما تحتويه هذه الاوساط من جماد ونبات وحيوان واشكال مختلفة من طاقة ونظم وعمليات طبيعية وانشطة بشرية.",
+    "target_en_norm": "٧. environment: all that surrounds man whether water, air, land and outer space as well as contents thereof: nonliving objects, plants, animals, different forms of energy, systems, natural processes and human activity.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11071,
+    "source_ar": "8 - حماية البيئة: المحافظة على البيئة ومنع تلوثها وتدهورها، والحد من ذلك.",
+    "target_en": "٨. Environment protection: Conserving the environment and preventing its pollution and deterioration or limiting the same.",
+    "source_ar_norm": "8 - حماية البيئة: المحافظة علي البيئة ومنع تلوثها وتدهورها، والحد من ذلك.",
+    "target_en_norm": "٨. environment protection: conserving the environment and preventing its pollution and deterioration or limiting the same.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11072,
+    "source_ar": "9 - تلوث البيئة: وجود مادة أو أكثر من المواد أو العوامل بكميات أو صفات أو لمدة زمنية تؤدي بطريق مباشر أو غير مباشر إلى الإضرار بالصحة العامة أو بالأحياء أو الموارد الطبيعية أو المّمتلكات، أو تؤثر سلباً على نوعية الحياة ورفاهية الإنسان.",
+    "target_en": "٩. Environmental pollution: The presence of one or more substances or agents in amounts or with characteristics, or for a period of time, that would, directly or indirectly, cause damage to public health, living things, natural resources or property, or adversely affect the quality of life and human welfare.",
+    "source_ar_norm": "9 - تلوث البيئة: وجود مادة او اكثر من المواد او العوامل بكميات او صفات او لمدة زمنية تؤدي بطريق مباشر او غير مباشر الي الاضرار بالصحة العامة او بالاحياء او الموارد الطبيعية او الممتلكات، او تؤثر سلبا علي نوعية الحياة ورفاهية الانسان.",
+    "target_en_norm": "٩. environmental pollution: the presence of one or more substances or agents in amounts or with characteristics, or for a period of time, that would, directly or indirectly, cause damage to public health, living things, natural resources or property, or adversely affect the quality of life and human welfare.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11073,
+    "source_ar": "10 - تدهور البيئة: التأثير السلبي على البيئة بما يغير من طبيعتها أو خصائصها العامة أو يؤدي إلى اختلال التوازن الطبيعي بين عناصرها، أو فقد الخصائص الجمالية أو البصرية لها.",
+    "target_en": "١٠. Environmental deterioration: Adverse impact on the environment in a way that alters its nature or general characteristics, or jeopardizes the natural equilibrium of its elements or causes loss of aesthetic or scenic features thereof.",
+    "source_ar_norm": "10 - تدهور البيئة: التاثير السلبي علي البيئة بما يغير من طبيعتها او خصائصها العامة او يؤدي الي اختلال التوازن الطبيعي بين عناصرها، او فقد الخصائص الجمالية او البصرية لها.",
+    "target_en_norm": "١٠. environmental deterioration: adverse impact on the environment in a way that alters its nature or general characteristics, or jeopardizes the natural equilibrium of its elements or causes loss of aesthetic or scenic features thereof.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11074,
+    "source_ar": "11 - الكارثة البيئية: الحادث الذي يترتب عليه ضرّر بالبيئة، وتحتاج مواجهته إلى إمكانات أكبر من تلك التي تطلبها الحوادث العادية والقدرات المحلية.",
+    "target_en": "١١. Environmental disaster: An event causing damage to the environment and requiring greater resources than required by ordinary events or local resources.",
+    "source_ar_norm": "11 - الكارثة البيئية: الحادث الذي يترتب عليه ضرر بالبيئة، وتحتاج مواجهته الي امكانات اكبر من تلك التي تطلبها الحوادث العادية والقدرات المحلية.",
+    "target_en_norm": "١١. environmental disaster: an event causing damage to the environment and requiring greater resources than required by ordinary events or local resources.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11075,
+    "source_ar": "12 - مقاييس المصدر: حدود أو نسب تركيز الملوثات من مصادر التلوث المختلفة والتي لا يسمح بصرف ما يتجاوزها إلى البيئة المحيطة، ويشمل ذلك تحديد تقنيات التحكم اللازمة للتمشي مع هذه الحدود.",
+    "target_en": "١٢. Source standards: Maximum limits or concentration of pollutants from different sources, that may be disposed of into the surrounding environment, including specification of necessary control technologies to comply with said limits.",
+    "source_ar_norm": "12 - مقاييس المصدر: حدود او نسب تركيز الملوثات من مصادر التلوث المختلفة والتي لا يسمح بصرف ما يتجاوزها الي البيئة المحيطة، ويشمل ذلك تحديد تقنيات التحكم اللازمة للتمشي مع هذه الحدود.",
+    "target_en_norm": "١٢. source standards: maximum limits or concentration of pollutants from different sources, that may be disposed of into the surrounding environment, including specification of necessary control technologies to comply with said limits.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11076,
+    "source_ar": "13 - مقاييس الجودة البيئية: حدود أو نسب تركيز الملوثات التي لا يسمح بتجاوزها في الهواء أو الماء أو اليابسة.",
+    "target_en": "١٣. Environment quality standards: Maximum limits or concentration of air, water or land pollutants that may not be exceeded.",
+    "source_ar_norm": "13 - مقاييس الجودة البيئية: حدود او نسب تركيز الملوثات التي لا يسمح بتجاوزها في الهواء او الماء او اليابسة.",
+    "target_en_norm": "١٣. environment quality standards: maximum limits or concentration of air, water or land pollutants that may not be exceeded.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11077,
+    "source_ar": "14 - المقاييس البيئية: تعني كلاً من مقاييس الجودة البيئية ومقاييس المصدر.",
+    "target_en": "١٤. Environmental standards: Environmental quality and source standards.",
+    "source_ar_norm": "14 - المقاييس البيئية: تعني كلا من مقاييس الجودة البيئية ومقاييس المصدر.",
+    "target_en_norm": "١٤. environmental standards: environmental quality and source standards.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11078,
+    "source_ar": "15 - المعايير البيئية: تعني المواصفات والاشتراطات البيئية للتحكم في مصادر التلوث.",
+    "target_en": "١٥. Environmental criteria: Environmental specifications and requirements for controlling sources of pollution.",
+    "source_ar_norm": "15 - المعايير البيئية: تعني المواصفات والاشتراطات البيئية للتحكم في مصادر التلوث.",
+    "target_en_norm": "١٥. environmental criteria: environmental specifications and requirements for controlling sources of pollution.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11079,
+    "source_ar": "16 - المشروعات: أيّ مرافق أو منشآت أو أنشطة ذات تأثير محتمل على البيئة.",
+    "target_en": "١٦. Projects: Any facility or activity with potential impact on the environment.",
+    "source_ar_norm": "16 - المشروعات: اي مرافق او منشات او انشطة ذات تاثير محتمل علي البيئة.",
+    "target_en_norm": "١٦. projects: any facility or activity with potential impact on the environment.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11080,
+    "source_ar": "17 - التغيير الرئيسي: أيّ توسعة أو تغيير في تصميم أو تشغيل أيّ مشروع قائم يحتمل معه حدوث تأثير سلبي على البيئة ولأغراض هذا التعريف فإن أيّ استبدال مكافئ نوعاً وسعة لا يعد تغييراً رئيسياً.",
+    "target_en": "١٧. Major change: Any expansion or modification in the design or operation of an existing project that may adversely affect the environment. For the purpose of this definition, a replacement of equal type and capacity shall not be deemed a major change.",
+    "source_ar_norm": "17 - التغيير الرئيسي: اي توسعة او تغيير في تصميم او تشغيل اي مشروع قائم يحتمل معه حدوث تاثير سلبي علي البيئة ولاغراض هذا التعريف فان اي استبدال مكافئ نوعا وسعة لا يعد تغييرا رئيسيا.",
+    "target_en_norm": "١٧. major change: any expansion or modification in the design or operation of an existing project that may adversely affect the environment. for the purpose of this definition, a replacement of equal type and capacity shall not be deemed a major change.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11081,
+    "source_ar": "18 - التقويم البيئي للمشروع: الدراسة التي يتم إجراؤها لتحديد الآثار البيئية المحتملة أو الناجمة عن المشروع، والإجراءات والوسائل المناسبة لمنع الآثار السلبية أو الحد منها، وتحقيق أو زيادة المردودات الإيجابية للمشروع على البيئة بما يتوافق مع المقاييس البيئية المعمول بها.",
+    "target_en": "١٨. Environmental assessment of projects: A study conducted to determine potential or actual environmental effects of a project and appropriate measures and means to prevent or limit adverse effects and achieve or increase the project's positive outcome for the environment in line with applicable environmental standards.",
+    "source_ar_norm": "18 - التقويم البيئي للمشروع: الدراسة التي يتم اجراؤها لتحديد الاثار البيئية المحتملة او الناجمة عن المشروع، والاجراءات والوسائل المناسبة لمنع الاثار السلبية او الحد منها، وتحقيق او زيادة المردودات الايجابية للمشروع علي البيئة بما يتوافق مع المقاييس البيئية المعمول بها.",
+    "target_en_norm": "١٨. environmental assessment of projects: a study conducted to determine potential or actual environmental effects of a project and appropriate measures and means to prevent or limit adverse effects and achieve or increase the project's positive outcome for the environment in line with applicable environmental standards.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11082,
+    "source_ar": "المادة الثانية:",
+    "target_en": "Article ٢",
+    "source_ar_norm": "المادة الثانية:",
+    "target_en_norm": "article ٢",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11083,
+    "source_ar": "يهدف هذا النظام إلى تحقيق ما يأتي:",
+    "target_en": "The purpose of this Law is to:",
+    "source_ar_norm": "يهدف هذا النظام الي تحقيق ما ياتي:",
+    "target_en_norm": "the purpose of this law is to:",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11084,
+    "source_ar": "1 - المحافظة على البيئة وحمايتها وتطويرها، ومنع التلوث عنها.",
+    "target_en": "١. conserve, protect and develop the environment and prevent pollution thereof;",
+    "source_ar_norm": "1 - المحافظة علي البيئة وحمايتها وتطويرها، ومنع التلوث عنها.",
+    "target_en_norm": "١. conserve, protect and develop the environment and prevent pollution thereof;",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11085,
+    "source_ar": "2 - حماية الصحة العامة من أخطار الأنشطة والأفعال المضرة بالبيئة.",
+    "target_en": "٢. protect public health from hazards resulting from activities and acts harmful to the environment;",
+    "source_ar_norm": "2 - حماية الصحة العامة من اخطار الانشطة والافعال المضرة بالبيئة.",
+    "target_en_norm": "٢. protect public health from hazards resulting from activities and acts harmful to the environment;",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11086,
+    "source_ar": "3 - المحافظة على الموارد الطبيعية وتنميتها وترشيد استخدامها.",
+    "target_en": "٣. conserve and develop natural resources and promote awareness of proper use thereof;",
+    "source_ar_norm": "3 - المحافظة علي الموارد الطبيعية وتنميتها وترشيد استخدامها.",
+    "target_en_norm": "٣. conserve and develop natural resources and promote awareness of proper use thereof;",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11087,
+    "source_ar": "4 - جعل التخطيط البيئي جزءاً لا يتجزأ من التخطيط الشامل للتنمية في جميع المجالات، الصناعية والزراعية والعمرانية وغيرها.",
+    "target_en": "٤. make environmental planning an integral part of overall planning for development of industrial, agricultural, urban and other fields; and",
+    "source_ar_norm": "4 - جعل التخطيط البيئي جزءا لا يتجزا من التخطيط الشامل للتنمية في جميع المجالات، الصناعية والزراعية والعمرانية وغيرها.",
+    "target_en_norm": "٤. make environmental planning an integral part of overall planning for development of industrial, agricultural, urban and other fields; and",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11088,
+    "source_ar": "5 - رفع مستوى الوعي بقضايا البيئة، وترسيخ الشعور بالمسئولية الفردية والجماعية للمحافظة عليها وتحسينها، وتشجيع الجهود الوطنية التطوعية في هذا المجال.",
+    "target_en": "٥. raise awareness of environmental issues, promote the sense of individual and collective responsibility to conserve and improve the environment and encourage national voluntary efforts in this field.",
+    "source_ar_norm": "5 - رفع مستوي الوعي بقضايا البيئة، وترسيخ الشعور بالمسئولية الفردية والجماعية للمحافظة عليها وتحسينها، وتشجيع الجهود الوطنية التطوعية في هذا المجال.",
+    "target_en_norm": "٥. raise awareness of environmental issues, promote the sense of individual and collective responsibility to conserve and improve the environment and encourage national voluntary efforts in this field.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11089,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article ٣",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article ٣",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11090,
+    "source_ar": "تقوم الجهة المختصة بالمهام التي من شأنها المحافظة على البيئة ومنع تدهورها، وعليها على وجه الخصوص ما يأتي:",
+    "target_en": "The competent authority shall carry out duties that would conserve and prevent the deterioration of the environment, and shall in particular:",
+    "source_ar_norm": "تقوم الجهة المختصة بالمهام التي من شانها المحافظة علي البيئة ومنع تدهورها، وعليها علي وجه الخصوص ما ياتي:",
+    "target_en_norm": "the competent authority shall carry out duties that would conserve and prevent the deterioration of the environment, and shall in particular:",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11091,
+    "source_ar": "1 - مراجعة حالة البيئة وتقويمها، وتطوير وسائل الرصد وأدواته، وجمع المعلومات وإجراء الدراسات البيئية.",
+    "target_en": "١. review and assess the condition of the environment, develop monitoring means and tools, collect information and conduct environmental studies;",
+    "source_ar_norm": "1 - مراجعة حالة البيئة وتقويمها، وتطوير وسائل الرصد وادواته، وجمع المعلومات واجراء الدراسات البيئية.",
+    "target_en_norm": "١. review and assess the condition of the environment, develop monitoring means and tools, collect information and conduct environmental studies;",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11092,
+    "source_ar": "2 - توثيق المعلومات البيئية ونشرها.",
+    "target_en": "٢. document and publish information on the environment;",
+    "source_ar_norm": "2 - توثيق المعلومات البيئية ونشرها.",
+    "target_en_norm": "٢. document and publish information on the environment;",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11093,
+    "source_ar": "3 - إعداد مقاييس حماية البيئة وإصدارها ومراجعتها وتطويرها وتفسيرها.",
+    "target_en": "٣. set, issue, review, develop and construe environment protection standards;",
+    "source_ar_norm": "3 - اعداد مقاييس حماية البيئة واصدارها ومراجعتها وتطويرها وتفسيرها.",
+    "target_en_norm": "٣. set, issue, review, develop and construe environment protection standards;",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11094,
+    "source_ar": "4 - إعداد مشروعات الأنظمة البيئية ذات العلاقة بمسئولياتها.",
+    "target_en": "٤. draft environmental laws relating to its responsibilities;",
+    "source_ar_norm": "4 - اعداد مشروعات الانظمة البيئية ذات العلاقة بمسئولياتها.",
+    "target_en_norm": "٤. draft environmental laws relating to its responsibilities;",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11095,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article ٤",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article ٤",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11096,
+    "source_ar": "1- على كل جهة عامة اتخاذ الإجراءات التي تكفل تطبيق القواعد الواردة في هذا النظام على مشروعاتها أو المشروعات التي تخضع لإشرافها، أو تقوم بترخيصها والتأكد من الالتزام بالأنظمة والمقاييس والمعايير البيئية المبينة في اللوائح التنفيذية لهذا النظام.",
+    "target_en": "١. Each public authority shall take measures to ensure application of rules provided for in this Law to its projects and to those overseen or licensed by it as well as compliance with environmental laws, standards and criteria provided for in the Implementing Regulations of this Law.",
+    "source_ar_norm": "1- علي كل جهة عامة اتخاذ الاجراءات التي تكفل تطبيق القواعد الواردة في هذا النظام علي مشروعاتها او المشروعات التي تخضع لاشرافها، او تقوم بترخيصها والتاكد من الالتزام بالانظمة والمقاييس والمعايير البيئية المبينة في اللوائح التنفيذية لهذا النظام.",
+    "target_en_norm": "١. each public authority shall take measures to ensure application of rules provided for in this law to its projects and to those overseen or licensed by it as well as compliance with environmental laws, standards and criteria provided for in the implementing regulations of this law.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11097,
+    "source_ar": "2- على كل جهة عامة مسئولة عن إصدار مقاييس أو مواصفات أو قواعد تتعلق بمّمارسة نشاطات مؤثرة على البيئة، أنّ تنسق مع الجهة المختصة قبل إصدارها.",
+    "target_en": "٢. Each public authority in charge of issuing standards, specifications or rules relating to activities affecting the environment shall, prior to their issuance, coordinate with the competent authority.",
+    "source_ar_norm": "2- علي كل جهة عامة مسئولة عن اصدار مقاييس او مواصفات او قواعد تتعلق بممارسة نشاطات مؤثرة علي البيئة، ان تنسق مع الجهة المختصة قبل اصدارها.",
+    "target_en_norm": "٢. each public authority in charge of issuing standards, specifications or rules relating to activities affecting the environment shall, prior to their issuance, coordinate with the competent authority.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11098,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article ٥",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article ٥",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11099,
+    "source_ar": "على الجهات المرخصة التأكد من إجراء دراسات التقويم البيئي في مرحلة دراسات الجدوى للمشروعات التي يمكن أن تحدث تأثيرات سلبية على البيئة، وتكون الجهة القائمة على تنفيذ المشروع هي الجهة المسئولة عن إجراء دراسات التقويم البيئي وفق الأسّس والمقاييس البيئية التي تحدّدها الجهة المختصة في اللوائح التنفيذية.",
+    "target_en": "Licensing authorities shall ensure that environmental assessment studies are conducted in the feasibility study phase for projects with potential adverse impact on the environment. The authority executing the project shall be in charge of conducting environmental assessment studies in accordance with environmental bases and standards specified by the competent authority in the Implementing Regulations.",
+    "source_ar_norm": "علي الجهات المرخصة التاكد من اجراء دراسات التقويم البيئي في مرحلة دراسات الجدوي للمشروعات التي يمكن ان تحدث تاثيرات سلبية علي البيئة، وتكون الجهة القائمة علي تنفيذ المشروع هي الجهة المسئولة عن اجراء دراسات التقويم البيئي وفق الاسس والمقاييس البيئية التي تحددها الجهة المختصة في اللوائح التنفيذية.",
+    "target_en_norm": "licensing authorities shall ensure that environmental assessment studies are conducted in the feasibility study phase for projects with potential adverse impact on the environment. the authority executing the project shall be in charge of conducting environmental assessment studies in accordance with environmental bases and standards specified by the competent authority in the implementing regulations.",
+    "file_name": "النظام العام للبيئة.docx"
+  },
+  {
+    "id": 11100,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article ٦",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article ٦",
+    "file_name": "النظام العام للبيئة.docx"
+  }
+]

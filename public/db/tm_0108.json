@@ -1,0 +1,802 @@
+[
+  {
+    "id": 10701,
+    "source_ar": "1- إذا خالف المؤمن له الالتزامات المنصوص عليها في المادة (الحادية والخمسين بعد الثلاثمائة)، جاز للمؤمِّن أن يطالب بفسخ العقد فوراً مع أداء تعويض يعادل أقساط التأمين الخاصة بالشحنات التي لم يُبلغ بها.",
+    "target_en": "1. If the insured breaches the obligations stipulated in Article 351, the insurer may seek the immediate termination of the contract in addition to a compensation equal to the insurance premiums pertaining to shipments of which he has not been notified.",
+    "source_ar_norm": "1- اذا خالف المؤمن له الالتزامات المنصوص عليها في المادة (الحادية والخمسين بعد الثلاثمائة)، جاز للمؤمن ان يطالب بفسخ العقد فورا مع اداء تعويض يعادل اقساط التامين الخاصة بالشحنات التي لم يبلغ بها.",
+    "target_en_norm": "1. if the insured breaches the obligations stipulated in article 351, the insurer may seek the immediate termination of the contract in addition to a compensation equal to the insurance premiums pertaining to shipments of which he has not been notified.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10702,
+    "source_ar": "2- إذا ثبت سوء نية المؤمن له، جاز للمؤمن أن يسترد ما دفعه عن الحوادث الخاصة بالشحنات اللاحقة على وقوع أول مخالفة عمدية من جانب المؤمن له.",
+    "target_en": "2. If it is established that the insured acted in bad faith, the insurer may recover the amounts he has reimbursed for shipment-related accidents following the first deliberate breach committed by the insured.",
+    "source_ar_norm": "2- اذا ثبت سوء نية المؤمن له، جاز للمؤمن ان يسترد ما دفعه عن الحوادث الخاصة بالشحنات اللاحقة علي وقوع اول مخالفة عمدية من جانب المؤمن له.",
+    "target_en_norm": "2. if it is established that the insured acted in bad faith, the insurer may recover the amounts he has reimbursed for shipment-related accidents following the first deliberate breach committed by the insured.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10703,
+    "source_ar": "المادة الثالثة والخمسون بعد الثلاثمائة",
+    "target_en": "Article 353",
+    "source_ar_norm": "المادة الثالثة والخمسون بعد الثلاثمائة",
+    "target_en_norm": "article 353",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10704,
+    "source_ar": "على المؤمن له إبلاغ المؤمِّن خلال خمسة عشر يوماً من تاريخ تَسلم البضائع المؤمن عليها بوجود تلف فيها، وإلا افترض أنه تسلمها سليمة، ما لم يثبت المؤمن له خلاف ذلك.",
+    "target_en": "The insured shall notify the insurer of any damage sustained by the insured goods within 15 days from the date of their receipt; otherwise, they shall be presumed to have been received in good condition, unless proved otherwise by the insured.",
+    "source_ar_norm": "علي المؤمن له ابلاغ المؤمن خلال خمسة عشر يوما من تاريخ تسلم البضائع المؤمن عليها بوجود تلف فيها، والا افترض انه تسلمها سليمة، ما لم يثبت المؤمن له خلاف ذلك.",
+    "target_en_norm": "the insured shall notify the insurer of any damage sustained by the insured goods within 15 days from the date of their receipt; otherwise, they shall be presumed to have been received in good condition, unless proved otherwise by the insured.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10705,
+    "source_ar": "الفصل الخامس: التأمين من المسؤولية",
+    "target_en": "Chapter 5: Liability Insurance",
+    "source_ar_norm": "الفصل الخامس: التامين من المسؤولية",
+    "target_en_norm": "chapter 5: liability insurance",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10706,
+    "source_ar": "المادة الرابعة والخمسون بعد الثلاثمائة",
+    "target_en": "Article 354",
+    "source_ar_norm": "المادة الرابعة والخمسون بعد الثلاثمائة",
+    "target_en_norm": "article 354",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10707,
+    "source_ar": "في حالة التأمين من المسؤولية، لا يلتزم المؤمِّن بدفع التعويض عند وقوع الحادث المذكور في وثيقة التأمين، إلا إذا وجه الغير الذي أصابه الضرر مطالبة ودية أو قضائية إلى المؤمن له، ويكون التزام المؤمِّن في حدود ما يلتزم المؤمن له بأدائه من تعويض.",
+    "target_en": "With respect to liability insurance, the insurer shall not be obligated to pay compensation in the event the accident provided in the insurance policy occurs, unless the third party sustaining damage seeks an amicable settlement or files a lawsuit against the insured. The compensation reimbursed by the insurer shall be limited to the damage for which the insured is liable.",
+    "source_ar_norm": "في حالة التامين من المسؤولية، لا يلتزم المؤمن بدفع التعويض عند وقوع الحادث المذكور في وثيقة التامين، الا اذا وجه الغير الذي اصابه الضرر مطالبة ودية او قضائية الي المؤمن له، ويكون التزام المؤمن في حدود ما يلتزم المؤمن له بادائه من تعويض.",
+    "target_en_norm": "with respect to liability insurance, the insurer shall not be obligated to pay compensation in the event the accident provided in the insurance policy occurs, unless the third party sustaining damage seeks an amicable settlement or files a lawsuit against the insured. the compensation reimbursed by the insurer shall be limited to the damage for which the insured is liable.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10708,
+    "source_ar": "المادة الخامسة والخمسون بعد الثلاثمائة",
+    "target_en": "Article 355",
+    "source_ar_norm": "المادة الخامسة والخمسون بعد الثلاثمائة",
+    "target_en_norm": "article 355",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10709,
+    "source_ar": "إذا كان محل التأمين من المسؤولية تعويض الضرر الذي يصيب الغير بفعل السفينة وفقاً لما نصت عليه المادة (الحادية والثلاثين بعد الثلاثمائة)، فلا ينتج التأمين أثراً إلا إذا كان مبلغ التأمين على السفينة لا يكفي لتعويض الضرر.",
+    "target_en": "A third-party liability insurance contract for damage attributable to the vessel, as provided for in Article 331, shall not take effect, unless the amount of insurance on the vessel is insufficient to cover the damage.",
+    "source_ar_norm": "اذا كان محل التامين من المسؤولية تعويض الضرر الذي يصيب الغير بفعل السفينة وفقا لما نصت عليه المادة (الحادية والثلاثين بعد الثلاثمائة)، فلا ينتج التامين اثرا الا اذا كان مبلغ التامين علي السفينة لا يكفي لتعويض الضرر.",
+    "target_en_norm": "a third-party liability insurance contract for damage attributable to the vessel, as provided for in article 331, shall not take effect, unless the amount of insurance on the vessel is insufficient to cover the damage.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10710,
+    "source_ar": "المادة السادسة والخمسون بعد الثلاثمائة",
+    "target_en": "Article 356",
+    "source_ar_norm": "المادة السادسة والخمسون بعد الثلاثمائة",
+    "target_en_norm": "article 356",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10711,
+    "source_ar": "إذا عقدت عدة تأمينات لضمان المسؤولية التزم كل مؤمِّن عن كل حادث على حدة في حدود المبلغ المبين في وثيقة التأمين الخاصة به وإن تعددت الحوادث، على ألاّ يتجاوز مجموع ما يحصل عليه المؤمن له قيمة الضرر الناشئ عن المسؤولية.",
+    "target_en": "If liability is covered by multiple insurance policies, each insurer shall be liable for each accident separately, within the limits of his respective insurance policy, regardless of the number of accidents, provided the aggregate amount of compensation received by the insured does not exceed the value of the damage arising from liability.",
+    "source_ar_norm": "اذا عقدت عدة تامينات لضمان المسؤولية التزم كل مؤمن عن كل حادث علي حدة في حدود المبلغ المبين في وثيقة التامين الخاصة به وان تعددت الحوادث، علي الا يتجاوز مجموع ما يحصل عليه المؤمن له قيمة الضرر الناشئ عن المسؤولية.",
+    "target_en_norm": "if liability is covered by multiple insurance policies, each insurer shall be liable for each accident separately, within the limits of his respective insurance policy, regardless of the number of accidents, provided the aggregate amount of compensation received by the insured does not exceed the value of the damage arising from liability.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10712,
+    "source_ar": "المادة السابعة والخمسون بعد الثلاثمائة",
+    "target_en": "Article 357",
+    "source_ar_norm": "المادة السابعة والخمسون بعد الثلاثمائة",
+    "target_en_norm": "article 357",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10713,
+    "source_ar": "يجوز لمن يتولى بناء السفينة أو إصلاحها أن يعقد تأميناً لضمان مسؤوليته عن الأضرار التي تلحق بها أو بالغير.",
+    "target_en": "A person building or repairing a vessel may obtain liability insurance against any damage sustained by the vessel or a third party.",
+    "source_ar_norm": "يجوز لمن يتولي بناء السفينة او اصلاحها ان يعقد تامينا لضمان مسؤوليته عن الاضرار التي تلحق بها او بالغير.",
+    "target_en_norm": "a person building or repairing a vessel may obtain liability insurance against any damage sustained by the vessel or a third party.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10714,
+    "source_ar": "الباب الثامن: منع التلوث البحري ومكافحته",
+    "target_en": "Part 8: Prevention and Control of Maritime Pollution",
+    "source_ar_norm": "الباب الثامن: منع التلوث البحري ومكافحته",
+    "target_en_norm": "part 8: prevention and control of maritime pollution",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10715,
+    "source_ar": "المادة الثامنة والخمسون بعد الثلاثمائة",
+    "target_en": "Article 358",
+    "source_ar_norm": "المادة الثامنة والخمسون بعد الثلاثمائة",
+    "target_en_norm": "article 358",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10716,
+    "source_ar": "1- يتعين على ربان السفينة أن يبلغ سلطات الموانئ بأي حادث تسرب للزيت من سفينته أثناء وجودها في موانئ المملكة أو مناطقها البحرية فور حدوثه، مع بيان ظروف الحادث والإجراءات التي اتخذت لإيقاف التسرب أو الحد منه.",
+    "target_en": "1. The master must immediately report to port authorities any oil leakage from his vessel while at any of the Kingdom's ports or maritime areas, as well as the circumstances of the incident, and the measures taken to stop or control such leakage.",
+    "source_ar_norm": "1- يتعين علي ربان السفينة ان يبلغ سلطات الموانئ باي حادث تسرب للزيت من سفينته اثناء وجودها في موانئ المملكة او مناطقها البحرية فور حدوثه، مع بيان ظروف الحادث والاجراءات التي اتخذت لايقاف التسرب او الحد منه.",
+    "target_en_norm": "1. the master must immediately report to port authorities any oil leakage from his vessel while at any of the kingdom's ports or maritime areas, as well as the circumstances of the incident, and the measures taken to stop or control such leakage.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10717,
+    "source_ar": "2- يتعين على السفن أن تحمل خطة طوارئ لمجابهة التلوث بالزيت، وينفذها ربان السفينة فور حدوثه.",
+    "target_en": "2. All vessels must carry an oil pollution emergency plan to be immediately implemented by the master upon occurrence of the leakage.",
+    "source_ar_norm": "2- يتعين علي السفن ان تحمل خطة طوارئ لمجابهة التلوث بالزيت، وينفذها ربان السفينة فور حدوثه.",
+    "target_en_norm": "2. all vessels must carry an oil pollution emergency plan to be immediately implemented by the master upon occurrence of the leakage.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10718,
+    "source_ar": "المادة التاسعة والخمسون بعد الثلاثمائة",
+    "target_en": "Article 359",
+    "source_ar_norm": "المادة التاسعة والخمسون بعد الثلاثمائة",
+    "target_en_norm": "article 359",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10719,
+    "source_ar": "للسلطة المختصة بالتفتيش البحري الحق في التفتيش على سجلات الزيت لجميع السفن الموجودة في موانئ المملكة.",
+    "target_en": "The maritime inspection authority shall have the right to inspect the oil records of all vessels located at the Kingdom's ports.",
+    "source_ar_norm": "للسلطة المختصة بالتفتيش البحري الحق في التفتيش علي سجلات الزيت لجميع السفن الموجودة في موانئ المملكة.",
+    "target_en_norm": "the maritime inspection authority shall have the right to inspect the oil records of all vessels located at the kingdom's ports.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10720,
+    "source_ar": "المادة الستون بعد الثلاثمائة",
+    "target_en": "Article 360",
+    "source_ar_norm": "المادة الستون بعد الثلاثمائة",
+    "target_en_norm": "article 360",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10721,
+    "source_ar": "تلتزم صنادل وسفن نقل الوقود من السفن وإليها في موانئ المملكة ومياهها الإقليمية، بأن تحتفظ بسجل خاص تدون فيه البيانات الخاصة عن العمليات التي تقوم بها، وفقاً لما تحدده اللوائح.",
+    "target_en": "Any oil barge or tanker carrying oil to or from a vessel within the Kingdom's ports or territorial waters shall keep a record of all the operations it carries out, in accordance with the regulations.",
+    "source_ar_norm": "تلتزم صنادل وسفن نقل الوقود من السفن واليها في موانئ المملكة ومياهها الاقليمية، بان تحتفظ بسجل خاص تدون فيه البيانات الخاصة عن العمليات التي تقوم بها، وفقا لما تحدده اللوائح.",
+    "target_en_norm": "any oil barge or tanker carrying oil to or from a vessel within the kingdom's ports or territorial waters shall keep a record of all the operations it carries out, in accordance with the regulations.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10722,
+    "source_ar": "المادة الحادية والستون بعد الثلاثمائة",
+    "target_en": "Article 361",
+    "source_ar_norm": "المادة الحادية والستون بعد الثلاثمائة",
+    "target_en_norm": "article 361",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10723,
+    "source_ar": "يتعين على السفن التي ترفع علم المملكة أن تحمل على متنها خطة طوارئ لحوادث التلوث بالزيت والمواد السامة والخطرة، ويتعين عليها كذلك إبلاغ الجهة المختصة بهذه الحوادث عند وقوعها، وفقاً لما تحدده اللوائح.",
+    "target_en": "Any vessel flying the flag of the Kingdom shall have an emergency plan on board to address pollution resulting from leakage of oil or toxic and hazardous substances, and shall, as specified by the regulations, notify the competent authority of the same upon occurrence.",
+    "source_ar_norm": "يتعين علي السفن التي ترفع علم المملكة ان تحمل علي متنها خطة طوارئ لحوادث التلوث بالزيت والمواد السامة والخطرة، ويتعين عليها كذلك ابلاغ الجهة المختصة بهذه الحوادث عند وقوعها، وفقا لما تحدده اللوائح.",
+    "target_en_norm": "any vessel flying the flag of the kingdom shall have an emergency plan on board to address pollution resulting from leakage of oil or toxic and hazardous substances, and shall, as specified by the regulations, notify the competent authority of the same upon occurrence.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10724,
+    "source_ar": "المادة الثانية والستون بعد الثلاثمائة",
+    "target_en": "Article 362",
+    "source_ar_norm": "المادة الثانية والستون بعد الثلاثمائة",
+    "target_en_norm": "article 362",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10725,
+    "source_ar": "تبلغ الهيئة المنظمة البحرية الدولية بأي انتهاك تحدثه السفن في موانئ المملكة ومناطقها البحرية، وكذا بالمعلومات حول أي متطلب أو إجراء له صلة بمياه التوازن.",
+    "target_en": "The Authority shall report to the International Maritime Organization any breaches committed by vessels inside the Kingdom's ports and maritime areas, as well as information regarding any requirement or measure associated with ballast water.",
+    "source_ar_norm": "تبلغ الهيئة المنظمة البحرية الدولية باي انتهاك تحدثه السفن في موانئ المملكة ومناطقها البحرية، وكذا بالمعلومات حول اي متطلب او اجراء له صلة بمياه التوازن.",
+    "target_en_norm": "the authority shall report to the international maritime organization any breaches committed by vessels inside the kingdom's ports and maritime areas, as well as information regarding any requirement or measure associated with ballast water.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10726,
+    "source_ar": "الباب التاسع: سلامة الملاحة بالموانئ والمياه الإقليمية: الفصل الأول: القطر البحري",
+    "target_en": "Part 9: Safety of Navigation at Ports and Territorial Waters Chapter 1: Maritime Towage",
+    "source_ar_norm": "الباب التاسع: سلامة الملاحة بالموانئ والمياه الاقليمية: الفصل الاول: القطر البحري",
+    "target_en_norm": "part 9: safety of navigation at ports and territorial waters chapter 1: maritime towage",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10727,
+    "source_ar": "المادة الثالثة والستون بعد الثلاثمائة",
+    "target_en": "Article 363",
+    "source_ar_norm": "المادة الثالثة والستون بعد الثلاثمائة",
+    "target_en_norm": "article 363",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10728,
+    "source_ar": "1- تكون إدارة عملية القطر داخل حدود الموانئ لربان السفينة المقطورة، ويسأل مجهز هذه السفينة عن جميع الأضرار التي تحدث أثناء القطر.",
+    "target_en": "1. Towage operations within ports shall be carried out under the command of the towed vessel's master, and the operator of the towed vessel shall be held liable for any damage sustained during towage.",
+    "source_ar_norm": "1- تكون ادارة عملية القطر داخل حدود الموانئ لربان السفينة المقطورة، ويسال مجهز هذه السفينة عن جميع الاضرار التي تحدث اثناء القطر.",
+    "target_en_norm": "1. towage operations within ports shall be carried out under the command of the towed vessel's master, and the operator of the towed vessel shall be held liable for any damage sustained during towage.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10729,
+    "source_ar": "2- يجوز باتفاق كتابي ترك إدارة عملية القطر داخل حدود الموانئ لربان السفينة القاطرة، وفي هذه الحالة يسأل مجهز السفينة القاطرة عن الأضرار التي تحدث أثناء عملية القطر، إلا إذا أثبت أن الضرر نشأ عن السفينة المقطورة.",
+    "target_en": "2. Towage operations within ports may, by a written agreement, be carried out under the command of the towing vessel's master. In such case, the operator of the towing vessel shall be held liable for any damage sustained during towage, unless it is established that said damage is attributable to the towed vessel.",
+    "source_ar_norm": "2- يجوز باتفاق كتابي ترك ادارة عملية القطر داخل حدود الموانئ لربان السفينة القاطرة، وفي هذه الحالة يسال مجهز السفينة القاطرة عن الاضرار التي تحدث اثناء عملية القطر، الا اذا اثبت ان الضرر نشا عن السفينة المقطورة.",
+    "target_en_norm": "2. towage operations within ports may, by a written agreement, be carried out under the command of the towing vessel's master. in such case, the operator of the towing vessel shall be held liable for any damage sustained during towage, unless it is established that said damage is attributable to the towed vessel.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10730,
+    "source_ar": "المادة الرابعة والستون بعد الثلاثمائة",
+    "target_en": "Article 364",
+    "source_ar_norm": "المادة الرابعة والستون بعد الثلاثمائة",
+    "target_en_norm": "article 364",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10731,
+    "source_ar": "1- تكون إدارة عملية القطر خارج حدود الموانئ لربان السفينة القاطرة، ويسأل مجهز السفينة القاطرة عن جميع الأضرار التي قد تحدث أثناء عملية القطر، إلاَّ إذا أثبت أن الضرر نشأ عن خطأ السفينة المقطورة.",
+    "target_en": "1. Towage operations beyond port limits shall be carried out under the command of the towing vessel's master, and the operator of the towing vessel shall be held liable for any damage sustained during towage, unless it is established that said damage is attributable to the towed vessel.",
+    "source_ar_norm": "1- تكون ادارة عملية القطر خارج حدود الموانئ لربان السفينة القاطرة، ويسال مجهز السفينة القاطرة عن جميع الاضرار التي قد تحدث اثناء عملية القطر، الا اذا اثبت ان الضرر نشا عن خطا السفينة المقطورة.",
+    "target_en_norm": "1. towage operations beyond port limits shall be carried out under the command of the towing vessel's master, and the operator of the towing vessel shall be held liable for any damage sustained during towage, unless it is established that said damage is attributable to the towed vessel.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10732,
+    "source_ar": "2- يجوز باتفاق كتابي ترك عملية القطر خارج حدود الموانئ لربان السفينة المقطورة، وفي هذه الحالة يسأل مجهز السفينة المقطورة عن الأضرار التي تحدث أثناء عملية القطر.",
+    "target_en": "2. Towage operations beyond port limits may, by a written agreement, be carried out under the command of the towed vessel's master. In such case, the operator of the towed vessel shall be held liable for any damage sustained during towage.",
+    "source_ar_norm": "2- يجوز باتفاق كتابي ترك عملية القطر خارج حدود الموانئ لربان السفينة المقطورة، وفي هذه الحالة يسال مجهز السفينة المقطورة عن الاضرار التي تحدث اثناء عملية القطر.",
+    "target_en_norm": "2. towage operations beyond port limits may, by a written agreement, be carried out under the command of the towed vessel's master. in such case, the operator of the towed vessel shall be held liable for any damage sustained during towage.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10733,
+    "source_ar": "المادة الخامسة والستون بعد الثلاثمائة",
+    "target_en": "Article 365",
+    "source_ar_norm": "المادة الخامسة والستون بعد الثلاثمائة",
+    "target_en_norm": "article 365",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10734,
+    "source_ar": "تؤدى خدمات القطر بموجب عقد يتم بين ربان السفينة القاطرة أو مجهزها، وربان السفينة المقطورة أو مجهزها.",
+    "target_en": "Towage services shall be provided pursuant to a contract concluded between the master or operator of the towing vessel, and the master or operator of the towed vessel.",
+    "source_ar_norm": "تؤدي خدمات القطر بموجب عقد يتم بين ربان السفينة القاطرة او مجهزها، وربان السفينة المقطورة او مجهزها.",
+    "target_en_norm": "towage services shall be provided pursuant to a contract concluded between the master or operator of the towing vessel, and the master or operator of the towed vessel.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10735,
+    "source_ar": "المادة السادسة والستون بعد الثلاثمائة",
+    "target_en": "Article 366",
+    "source_ar_norm": "المادة السادسة والستون بعد الثلاثمائة",
+    "target_en_norm": "article 366",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10736,
+    "source_ar": "تكون السفينة القاطرة هي المسؤولة عن الضرر الذي يصيب السفينة المقطورة، إلاَّ إذا كان ذلك بسبب قوة قاهرة أو حادث طارئ، أو لسبب يرجع إلى السفينة المقطورة أو عيب ذاتي فيها، أو خطأ مجهزها أو ربانها أو أحد أفراد طاقمها.",
+    "target_en": "The towing vessel shall be held liable for any damage sustained by the towed vessel, unless such damage is caused by force majeure or an unanticipated accident, or is attributable to the towed vessel or an inherent defect therein, or to a fault by the towed vessel’s operator, master, or any of its crew members.",
+    "source_ar_norm": "تكون السفينة القاطرة هي المسؤولة عن الضرر الذي يصيب السفينة المقطورة، الا اذا كان ذلك بسبب قوة قاهرة او حادث طارئ، او لسبب يرجع الي السفينة المقطورة او عيب ذاتي فيها، او خطا مجهزها او ربانها او احد افراد طاقمها.",
+    "target_en_norm": "the towing vessel shall be held liable for any damage sustained by the towed vessel, unless such damage is caused by force majeure or an unanticipated accident, or is attributable to the towed vessel or an inherent defect therein, or to a fault by the towed vessel’s operator, master, or any of its crew members.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10737,
+    "source_ar": "المادة السابعة والستون بعد الثلاثمائة",
+    "target_en": "Article 367",
+    "source_ar_norm": "المادة السابعة والستون بعد الثلاثمائة",
+    "target_en_norm": "article 367",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10738,
+    "source_ar": "لا تسمع الدعوى الناشئة عن عملية القطر بعد مضي سنتين من تاريخ انتهاء العملية.",
+    "target_en": "No claim arising from a towage operation shall be heard after the lapse of two years from the date of completion of said operation.",
+    "source_ar_norm": "لا تسمع الدعوي الناشئة عن عملية القطر بعد مضي سنتين من تاريخ انتهاء العملية.",
+    "target_en_norm": "no claim arising from a towage operation shall be heard after the lapse of two years from the date of completion of said operation.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10739,
+    "source_ar": "الفصل الثاني: الإرشاد البحري",
+    "target_en": "Chapter 2: Maritime Pilotage",
+    "source_ar_norm": "الفصل الثاني: الارشاد البحري",
+    "target_en_norm": "chapter 2: maritime pilotage",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10740,
+    "source_ar": "المادة الثامنة والستون بعد الثلاثمائة",
+    "target_en": "Article 368",
+    "source_ar_norm": "المادة الثامنة والستون بعد الثلاثمائة",
+    "target_en_norm": "article 368",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10741,
+    "source_ar": "1- الإرشاد إجباري في موانئ المملكة على جميع السفن عند دخولها أو تحركها في موانئ المملكة أو خروجها منها، وتحدد الجهة المختصة قواعد الإرشاد، وتعين مناطقه، وتحدد الأجور الأصلية والإضافية التي تستحق عنه.",
+    "target_en": "1. Pilotage at the Kingdom's ports is mandatory, and shall apply to any vessel upon its entry to, exit from, or movement within any of the Kingdom’s ports. The competent authority shall set the pilotage code, designate pilotage zones, and determine standard and additional pilotage fees.",
+    "source_ar_norm": "1- الارشاد اجباري في موانئ المملكة علي جميع السفن عند دخولها او تحركها في موانئ المملكة او خروجها منها، وتحدد الجهة المختصة قواعد الارشاد، وتعين مناطقه، وتحدد الاجور الاصلية والاضافية التي تستحق عنه.",
+    "target_en_norm": "1. pilotage at the kingdom's ports is mandatory, and shall apply to any vessel upon its entry to, exit from, or movement within any of the kingdom’s ports. the competent authority shall set the pilotage code, designate pilotage zones, and determine standard and additional pilotage fees.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10742,
+    "source_ar": "2- يستثنى من حكم الفقرة (1) من هذه المادة ما يأتي:",
+    "target_en": "2. Paragraph (1) of this Article shall not apply to:",
+    "source_ar_norm": "2- يستثني من حكم الفقرة (1) من هذه المادة ما ياتي:",
+    "target_en_norm": "2. paragraph (1) of this article shall not apply to:",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10743,
+    "source_ar": "أ- السفن الحربية.",
+    "target_en": "a) warships;",
+    "source_ar_norm": "ا- السفن الحربية.",
+    "target_en_norm": "a) warships;",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10744,
+    "source_ar": "ب- سفن حكومة المملكة المخصصة للخدمات العامة ولأغراض غير تجارية.",
+    "target_en": "b) State vessels designated for public-service and non-commercial purposes;",
+    "source_ar_norm": "ب- سفن حكومة المملكة المخصصة للخدمات العامة ولاغراض غير تجارية.",
+    "target_en_norm": "b) state vessels designated for public-service and non-commercial purposes;",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10745,
+    "source_ar": "ج- سفن الصيد والسفن التي تقل حمولتها الصافية عن 150 طنًّا.",
+    "target_en": "c) fishing vessels and vessels whose net tonnage is less than 150 tons;",
+    "source_ar_norm": "ج- سفن الصيد والسفن التي تقل حمولتها الصافية عن 150 طنا.",
+    "target_en_norm": "c) fishing vessels and vessels whose net tonnage is less than 150 tons;",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10746,
+    "source_ar": "د- الوحدات البحرية التابعة للموانئ.",
+    "target_en": "d) port-owned marine units; or",
+    "source_ar_norm": "د- الوحدات البحرية التابعة للموانئ.",
+    "target_en_norm": "d) port-owned marine units; or",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10747,
+    "source_ar": "هـ- سفن النزهة.",
+    "target_en": "e) pleasure vessels.",
+    "source_ar_norm": "ه- سفن النزهة.",
+    "target_en_norm": "e) pleasure vessels.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10748,
+    "source_ar": "المادة التاسعة والستون بعد الثلاثمائة",
+    "target_en": "Article 369",
+    "source_ar_norm": "المادة التاسعة والستون بعد الثلاثمائة",
+    "target_en_norm": "article 369",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10749,
+    "source_ar": "1- على كل سفينة خاضعة لقواعد الإرشاد أن ترفع على ساريتها الإشارة الخاصة بطلب المرشد قبل دخولها منطقة الإرشاد أو تحركها فيها أو خروجها منها.",
+    "target_en": "1. Any vessel subject to the pilotage code must fly on its mast the sign requesting a pilot prior to its entry to, exit from, or movement within a pilotage zone.",
+    "source_ar_norm": "1- علي كل سفينة خاضعة لقواعد الارشاد ان ترفع علي ساريتها الاشارة الخاصة بطلب المرشد قبل دخولها منطقة الارشاد او تحركها فيها او خروجها منها.",
+    "target_en_norm": "1. any vessel subject to the pilotage code must fly on its mast the sign requesting a pilot prior to its entry to, exit from, or movement within a pilotage zone.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10750,
+    "source_ar": "2- على ربان السفينة إبلاغ المرشد بالمعلومات التي تتعلق بغاطسها وطولها وعرضها، وبقدرة سفينته على المناورة في حالات الغاطس والسرعات المختلفة، على أن تكون هذه البيانات موضوعة في مكان واضح بغرفة القيادة.",
+    "target_en": "2. The master shall inform the pilot of the particulars relating to the draft, length, and width of the vessel's hull, as well as its capacity to maneuver under different drafts and speeds. Such particulars shall be clearly visible in the bridge.",
+    "source_ar_norm": "2- علي ربان السفينة ابلاغ المرشد بالمعلومات التي تتعلق بغاطسها وطولها وعرضها، وبقدرة سفينته علي المناورة في حالات الغاطس والسرعات المختلفة، علي ان تكون هذه البيانات موضوعة في مكان واضح بغرفة القيادة.",
+    "target_en_norm": "2. the master shall inform the pilot of the particulars relating to the draft, length, and width of the vessel's hull, as well as its capacity to maneuver under different drafts and speeds. such particulars shall be clearly visible in the bridge.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10751,
+    "source_ar": "المادة السبعون بعد الثلاثمائة",
+    "target_en": "Article 370",
+    "source_ar_norm": "المادة السبعون بعد الثلاثمائة",
+    "target_en_norm": "article 370",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10752,
+    "source_ar": "1- تبقى قيادة السفينة وإدارتها للربان أثناء قيام المرشد بعمله عليها.",
+    "target_en": "1. A vessel shall remain under its master's command while a pilot carries out his duties on board thereof.",
+    "source_ar_norm": "1- تبقي قيادة السفينة وادارتها للربان اثناء قيام المرشد بعمله عليها.",
+    "target_en_norm": "1. a vessel shall remain under its master's command while a pilot carries out his duties on board thereof.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10753,
+    "source_ar": "2- لا يسأل المرشد أو الجهة التي يتبعها عن الأضرار التي تلحق بالسفينة التي يرشدها.",
+    "target_en": "2. The pilot or the body with which he is associated shall not be held liable for any damage sustained by a vessel he pilots.",
+    "source_ar_norm": "2- لا يسال المرشد او الجهة التي يتبعها عن الاضرار التي تلحق بالسفينة التي يرشدها.",
+    "target_en_norm": "2. the pilot or the body with which he is associated shall not be held liable for any damage sustained by a vessel he pilots.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10754,
+    "source_ar": "3- يسأل مجهز السفينة وحده عن الأضرار التي تلحق الغير بسبب الأخطاء التي تقع من المرشد جراء عملية الإرشاد.",
+    "target_en": "3. The operator of a vessel shall be solely liable for any damage sustained by a third party that arises from a fault attributable to the pilot while carrying out his duties.",
+    "source_ar_norm": "3- يسال مجهز السفينة وحده عن الاضرار التي تلحق الغير بسبب الاخطاء التي تقع من المرشد جراء عملية الارشاد.",
+    "target_en_norm": "3. the operator of a vessel shall be solely liable for any damage sustained by a third party that arises from a fault attributable to the pilot while carrying out his duties.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10755,
+    "source_ar": "4- يسأل مجهز السفينة عن الأضرار التي تلحق بسفينة الإرشاد أثناء تنفيذ عملية الإرشاد، أو المناورات الخاصة بصعود المرشد إلى السفينة أو نزوله منها، إلاَّ إذا أثبت أن الضرر نشأ عن خطأ جسيم من المرشد.",
+    "target_en": "4. The operator of a vessel shall be liable for any damage sustained by a pilot boat during pilotage, or during maneuvers relating to the pilot's embarkation or disembarkation, unless it is established that said damage arises from a gross fault attributable to the pilot.",
+    "source_ar_norm": "4- يسال مجهز السفينة عن الاضرار التي تلحق بسفينة الارشاد اثناء تنفيذ عملية الارشاد، او المناورات الخاصة بصعود المرشد الي السفينة او نزوله منها، الا اذا اثبت ان الضرر نشا عن خطا جسيم من المرشد.",
+    "target_en_norm": "4. the operator of a vessel shall be liable for any damage sustained by a pilot boat during pilotage, or during maneuvers relating to the pilot's embarkation or disembarkation, unless it is established that said damage arises from a gross fault attributable to the pilot.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10756,
+    "source_ar": "5- يسأل مجهز السفينة عن الضرر الذي يصيب المرشد أو بحارة سفينة الإرشاد أثناء تنفيذ عملية الإرشاد، إلاَّ إذا أثبت أن الضرر نشأ عن خطأ صدر من المرشد أو بحارة سفينة الإرشاد.",
+    "target_en": "5. The operator of a vessel shall be liable for any damage sustained by the pilot or his crew during pilotage, unless it is established that said damage arises from a fault attributable to the pilot or his crew.",
+    "source_ar_norm": "5- يسال مجهز السفينة عن الضرر الذي يصيب المرشد او بحارة سفينة الارشاد اثناء تنفيذ عملية الارشاد، الا اذا اثبت ان الضرر نشا عن خطا صدر من المرشد او بحارة سفينة الارشاد.",
+    "target_en_norm": "5. the operator of a vessel shall be liable for any damage sustained by the pilot or his crew during pilotage, unless it is established that said damage arises from a fault attributable to the pilot or his crew.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10757,
+    "source_ar": "المادة الحادية والسبعون بعد الثلاثمائة",
+    "target_en": "Article 371",
+    "source_ar_norm": "المادة الحادية والسبعون بعد الثلاثمائة",
+    "target_en_norm": "article 371",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10758,
+    "source_ar": "1- على المرشد أن يقدم مساعدته أولاً للسفينة التي تكون في خطر محدق، ولو لم يطلب منه ذلك، على أن يُنسق في هذا الشأن ما أمكن مع السلطة المختصة.",
+    "target_en": "1. The pilot shall give priority to assisting an imperiled vessel, even if not requested, provided he coordinates, if possible, with the competent authority.",
+    "source_ar_norm": "1- علي المرشد ان يقدم مساعدته اولا للسفينة التي تكون في خطر محدق، ولو لم يطلب منه ذلك، علي ان ينسق في هذا الشان ما امكن مع السلطة المختصة.",
+    "target_en_norm": "1. the pilot shall give priority to assisting an imperiled vessel, even if not requested, provided he coordinates, if possible, with the competent authority.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10759,
+    "source_ar": "2- إذا اضطر المرشد إلى السفر مع السفينة بسبب سوء الأحوال الجوية، أو بناء على طلب الربان، التزم مجهز السفينة بنفقات غذائه وإقامته وإعادته إلى الميناء الذي قام منه مع التعويض عند الاقتضاء.",
+    "target_en": "2. If the pilot is compelled to travel with the vessel, due to poor weather conditions or due to the master's request, the operator of the vessel shall be liable for the cost of his meals and accommodation, and for his return to the port of departure, along with any due compensation.",
+    "source_ar_norm": "2- اذا اضطر المرشد الي السفر مع السفينة بسبب سوء الاحوال الجوية، او بناء علي طلب الربان، التزم مجهز السفينة بنفقات غذائه واقامته واعادته الي الميناء الذي قام منه مع التعويض عند الاقتضاء.",
+    "target_en_norm": "2. if the pilot is compelled to travel with the vessel, due to poor weather conditions or due to the master's request, the operator of the vessel shall be liable for the cost of his meals and accommodation, and for his return to the port of departure, along with any due compensation.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10760,
+    "source_ar": "المادة الثانية والسبعون بعد الثلاثمائة",
+    "target_en": "Article 372",
+    "source_ar_norm": "المادة الثانية والسبعون بعد الثلاثمائة",
+    "target_en_norm": "article 372",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10761,
+    "source_ar": "لا تسمع الدعوى الناشئة عن عملية الإرشاد بعد مضي سنتين من تاريخ انتهاء هذه العملية.",
+    "target_en": "No claim arising from a pilotage operation may be heard upon the lapse of two years from the date of completion of said operation.",
+    "source_ar_norm": "لا تسمع الدعوي الناشئة عن عملية الارشاد بعد مضي سنتين من تاريخ انتهاء هذه العملية.",
+    "target_en_norm": "no claim arising from a pilotage operation may be heard upon the lapse of two years from the date of completion of said operation.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10762,
+    "source_ar": "الباب العاشر: العقوبات",
+    "target_en": "Part 10: Penalties",
+    "source_ar_norm": "الباب العاشر: العقوبات",
+    "target_en_norm": "part 10: penalties",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10763,
+    "source_ar": "المادة الثالثة والسبعون بعد الثلاثمائة",
+    "target_en": "Article 373",
+    "source_ar_norm": "المادة الثالثة والسبعون بعد الثلاثمائة",
+    "target_en_norm": "article 373",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10764,
+    "source_ar": "يعاقب بغرامة لا تقل عن مائة ألف ريال، ولا تزيد على مليون ريال:",
+    "target_en": "A fine of not less than 100,000 riyals and not more than 1,000,000 riyals, shall be imposed upon:",
+    "source_ar_norm": "يعاقب بغرامة لا تقل عن مائة الف ريال، ولا تزيد علي مليون ريال:",
+    "target_en_norm": "a fine of not less than 100,000 riyals and not more than 1,000,000 riyals, shall be imposed upon:",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10765,
+    "source_ar": "1- كل مالك أو مجهز أو ربان يرفع علم المملكة على سفينة غير مسجلة فيها، مع جواز الحكم بمصادرة السفينة.",
+    "target_en": "1. any owner, operator, or master who flies the Kingdom’s flag on a vessel not registered in the Kingdom; the judgment may also provide for the confiscation of the vessel; and",
+    "source_ar_norm": "1- كل مالك او مجهز او ربان يرفع علم المملكة علي سفينة غير مسجلة فيها، مع جواز الحكم بمصادرة السفينة.",
+    "target_en_norm": "1. any owner, operator, or master who flies the kingdom’s flag on a vessel not registered in the kingdom; the judgment may also provide for the confiscation of the vessel; and",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10766,
+    "source_ar": "2- كل مالك أو مجهز أو ربان أخفى أو شوَّه أو طمس أو محا أي بيان من بيانات السفينة، إلا إذا كان ذلك بقصد التخلص من الوقوع في الأسر في كلتا الحالتين.",
+    "target_en": "2. any owner, operator, or master who conceals, obscures, disfigures, or erases any of the vessel's particulars, unless the acts set forth in paragraphs (1) and (2) of this Article are intended to evade capture.",
+    "source_ar_norm": "2- كل مالك او مجهز او ربان اخفي او شوه او طمس او محا اي بيان من بيانات السفينة، الا اذا كان ذلك بقصد التخلص من الوقوع في الاسر في كلتا الحالتين.",
+    "target_en_norm": "2. any owner, operator, or master who conceals, obscures, disfigures, or erases any of the vessel's particulars, unless the acts set forth in paragraphs (1) and (2) of this article are intended to evade capture.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10767,
+    "source_ar": "المادة الرابعة والسبعون بعد الثلاثمائة",
+    "target_en": "Article 374",
+    "source_ar_norm": "المادة الرابعة والسبعون بعد الثلاثمائة",
+    "target_en_norm": "article 374",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10768,
+    "source_ar": "يعاقب بغرامة لا تقل عن مائة ألف ريال، ولا تزيد على خمسمائة ألف ريال، مجهز المنصة البحرية في حالة تشغيلها دون توافر متطلبات السلامة اللازمة لحماية الأشخاص والبيئة.",
+    "target_en": "A fine of not less than 100,000 riyals and not more than 500,000 riyals shall be imposed upon the operator of a marine platform who operates said platform without satisfying the safety requirements necessary for the protection of individuals and the environment.",
+    "source_ar_norm": "يعاقب بغرامة لا تقل عن مائة الف ريال، ولا تزيد علي خمسمائة الف ريال، مجهز المنصة البحرية في حالة تشغيلها دون توافر متطلبات السلامة اللازمة لحماية الاشخاص والبيئة.",
+    "target_en_norm": "a fine of not less than 100,000 riyals and not more than 500,000 riyals shall be imposed upon the operator of a marine platform who operates said platform without satisfying the safety requirements necessary for the protection of individuals and the environment.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10769,
+    "source_ar": "المادة الخامسة والسبعون بعد الثلاثمائة",
+    "target_en": "Article 375",
+    "source_ar_norm": "المادة الخامسة والسبعون بعد الثلاثمائة",
+    "target_en_norm": "article 375",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10770,
+    "source_ar": "يعاقب بغرامة لا تقل عن مائة ألف ريال، ولا تزيد على خمسمائة ألف ريال:",
+    "target_en": "A fine of not less than 100,000 riyals and not more than 500,000 riyals shall be imposed upon:",
+    "source_ar_norm": "يعاقب بغرامة لا تقل عن مائة الف ريال، ولا تزيد علي خمسمائة الف ريال:",
+    "target_en_norm": "a fine of not less than 100,000 riyals and not more than 500,000 riyals shall be imposed upon:",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10771,
+    "source_ar": "1- كل من نقل إلى المياه الإقليمية للمملكة أي سفينة جانحة أو متروكة أو جزء من شحنتها أو ملحقاتها أو أي حطام بحري بقصد التحايل على أحكام هذا النظام.",
+    "target_en": "1. any person who brings into the Kingdom's territorial waters a stranded or abandoned vessel, or part of its cargo, appurtenances, or maritime wreck, with the intention to circumvent the provisions of this Law;",
+    "source_ar_norm": "1- كل من نقل الي المياه الاقليمية للمملكة اي سفينة جانحة او متروكة او جزء من شحنتها او ملحقاتها او اي حطام بحري بقصد التحايل علي احكام هذا النظام.",
+    "target_en_norm": "1. any person who brings into the kingdom's territorial waters a stranded or abandoned vessel, or part of its cargo, appurtenances, or maritime wreck, with the intention to circumvent the provisions of this law;",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10772,
+    "source_ar": "2- كل من منع إنقاذ سفينة جانحة أو معرضة لخطر الجنوح، أو أعاقه أو حاول إعاقته.",
+    "target_en": "2. any person who prevents, impedes, or attempts to impede the rescue of a vessel that is stranded or at risk of being stranded; and",
+    "source_ar_norm": "2- كل من منع انقاذ سفينة جانحة او معرضة لخطر الجنوح، او اعاقه او حاول اعاقته.",
+    "target_en_norm": "2. any person who prevents, impedes, or attempts to impede the rescue of a vessel that is stranded or at risk of being stranded; and",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10773,
+    "source_ar": "3- كل من أخفى حطاماً بحريًّا داخل موانئ المملكة أو مياهها الإقليمية، أو أزال العلامات الدالة عليه أو محاها.",
+    "target_en": "3. any person who conceals a maritime wreck, or removes or erases any of its identifying marks within the Kingdom's ports or territorial waters.",
+    "source_ar_norm": "3- كل من اخفي حطاما بحريا داخل موانئ المملكة او مياهها الاقليمية، او ازال العلامات الدالة عليه او محاها.",
+    "target_en_norm": "3. any person who conceals a maritime wreck, or removes or erases any of its identifying marks within the kingdom's ports or territorial waters.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10774,
+    "source_ar": "المادة السادسة والسبعون بعد الثلاثمائة",
+    "target_en": "Article 376",
+    "source_ar_norm": "المادة السادسة والسبعون بعد الثلاثمائة",
+    "target_en_norm": "article 376",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10775,
+    "source_ar": "1- يعاقب بغرامة لا تقل عن عشرة آلاف ريال، ولا تزيد على مائة ألف ريال، كل ربان لم يستجب لطلب الاستغاثة لإنقاذ سفينة تشرف على الغرق أو لإنقاذ شخص يعثر عليه في البحر، وذلك دون مسوّغ مقبول.",
+    "target_en": "1. A fine of not less than 10,000 riyals and not more than 100,000 riyals shall be imposed upon any master who, without an acceptable justification, fails to respond to a distress signal to rescue a vessel at risk of sinking or to rescue a person found in the midst of the sea.",
+    "source_ar_norm": "1- يعاقب بغرامة لا تقل عن عشرة الاف ريال، ولا تزيد علي مائة الف ريال، كل ربان لم يستجب لطلب الاستغاثة لانقاذ سفينة تشرف علي الغرق او لانقاذ شخص يعثر عليه في البحر، وذلك دون مسوغ مقبول.",
+    "target_en_norm": "1. a fine of not less than 10,000 riyals and not more than 100,000 riyals shall be imposed upon any master who, without an acceptable justification, fails to respond to a distress signal to rescue a vessel at risk of sinking or to rescue a person found in the midst of the sea.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10776,
+    "source_ar": "2- يعاقب المجهز بالعقوبة نفسها إذا كانت المخالفة المشار إليها في الفقرة (1) من هذه المادة بناء على تعليمات صريحة منه.",
+    "target_en": "2. The same penalty shall be imposed on the operator if the violation stipulated in paragraph (1) of this Article is committed based on his explicit instructions.",
+    "source_ar_norm": "2- يعاقب المجهز بالعقوبة نفسها اذا كانت المخالفة المشار اليها في الفقرة (1) من هذه المادة بناء علي تعليمات صريحة منه.",
+    "target_en_norm": "2. the same penalty shall be imposed on the operator if the violation stipulated in paragraph (1) of this article is committed based on his explicit instructions.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10777,
+    "source_ar": "المادة السابعة والسبعون بعد الثلاثمائة",
+    "target_en": "Article 377",
+    "source_ar_norm": "المادة السابعة والسبعون بعد الثلاثمائة",
+    "target_en_norm": "article 377",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10778,
+    "source_ar": "يعاقب بغرامة لا تقل عن عشرة آلاف ريال، ولا تزيد على مائة ألف ريال، كل ربان أو مجهز لسفينة ترفع علم المملكة يسيِّرها دون أن تحمل شهادة سارية من الشهادات المشار إليها في النظام، أو يسيِّر سفينة صدر قرار بإيقافها أو منعها من السفر، وذلك مع عدم الإخلال بأحكام المسؤولية المدنية.",
+    "target_en": "Without prejudice to the provisions of civil liability, a fine of not less than 10,000 riyals and not more than 100,000 riyals shall be imposed upon the master or operator of a sailing vessel which flies the flag of the Kingdom and which does not carry a valid certificate of the certificates provided for in this Law, or of a sailing vessel which has been, pursuant to a judicial ruling, suspended or barred from sailing.",
+    "source_ar_norm": "يعاقب بغرامة لا تقل عن عشرة الاف ريال، ولا تزيد علي مائة الف ريال، كل ربان او مجهز لسفينة ترفع علم المملكة يسيرها دون ان تحمل شهادة سارية من الشهادات المشار اليها في النظام، او يسير سفينة صدر قرار بايقافها او منعها من السفر، وذلك مع عدم الاخلال باحكام المسؤولية المدنية.",
+    "target_en_norm": "without prejudice to the provisions of civil liability, a fine of not less than 10,000 riyals and not more than 100,000 riyals shall be imposed upon the master or operator of a sailing vessel which flies the flag of the kingdom and which does not carry a valid certificate of the certificates provided for in this law, or of a sailing vessel which has been, pursuant to a judicial ruling, suspended or barred from sailing.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10779,
+    "source_ar": "المادة الثامنة والسبعون بعد الثلاثمائة",
+    "target_en": "Article 378",
+    "source_ar_norm": "المادة الثامنة والسبعون بعد الثلاثمائة",
+    "target_en_norm": "article 378",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10780,
+    "source_ar": "يعاقب بغرامة لا تقل عن عشرة آلاف ريال، ولا تزيد على مائة ألف ريال، كل من يعطل أو يعوق عمل مندوبي التفتيش البحري أو خبراء هيئات التصنيف المفوضة من الهيئة عن أداء مهمتهم.",
+    "target_en": "A fine of not less than 10,000 riyals and not more than 100,000 riyals shall be imposed upon any person who obstructs or hinders the work of maritime inspectors or experts of classification societies authorized by the Authority.",
+    "source_ar_norm": "يعاقب بغرامة لا تقل عن عشرة الاف ريال، ولا تزيد علي مائة الف ريال، كل من يعطل او يعوق عمل مندوبي التفتيش البحري او خبراء هيئات التصنيف المفوضة من الهيئة عن اداء مهمتهم.",
+    "target_en_norm": "a fine of not less than 10,000 riyals and not more than 100,000 riyals shall be imposed upon any person who obstructs or hinders the work of maritime inspectors or experts of classification societies authorized by the authority.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10781,
+    "source_ar": "المادة التاسعة والسبعون بعد الثلاثمائة",
+    "target_en": "Article 379",
+    "source_ar_norm": "المادة التاسعة والسبعون بعد الثلاثمائة",
+    "target_en_norm": "article 379",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10782,
+    "source_ar": "يعاقب بغرامة لا تقل عن عشرة آلاف ريال، ولا تزيد على خمسين ألف ريال، كل شخص يتولى إرشاد سفينة دون أن يكون حاملاً لتصريح من السلطة المختصة.",
+    "target_en": "A fine of not less 10,000 riyals and not more than 50,000 riyals shall be imposed upon any person who pilots a vessel without holding a license from the competent authority.",
+    "source_ar_norm": "يعاقب بغرامة لا تقل عن عشرة الاف ريال، ولا تزيد علي خمسين الف ريال، كل شخص يتولي ارشاد سفينة دون ان يكون حاملا لتصريح من السلطة المختصة.",
+    "target_en_norm": "a fine of not less 10,000 riyals and not more than 50,000 riyals shall be imposed upon any person who pilots a vessel without holding a license from the competent authority.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10783,
+    "source_ar": "المادة الثمانون بعد الثلاثمائة",
+    "target_en": "Article 380",
+    "source_ar_norm": "المادة الثمانون بعد الثلاثمائة",
+    "target_en_norm": "article 380",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10784,
+    "source_ar": "يعاقب بغرامة لا تقل عن ثلاثة آلاف ريال، ولا تزيد على ثلاثين ألف ريال، ربان السفينة في حالة إلقاء المخطاف داخل مناطق فصل الممرات الملاحية دون سبب مقبول.",
+    "target_en": "A fine of not less than 3,000 riyals and not more than 30,000 riyals shall be imposed upon a master who, without a valid justification, drops the vessel's anchor within a maritime traffic separation zone.",
+    "source_ar_norm": "يعاقب بغرامة لا تقل عن ثلاثة الاف ريال، ولا تزيد علي ثلاثين الف ريال، ربان السفينة في حالة القاء المخطاف داخل مناطق فصل الممرات الملاحية دون سبب مقبول.",
+    "target_en_norm": "a fine of not less than 3,000 riyals and not more than 30,000 riyals shall be imposed upon a master who, without a valid justification, drops the vessel's anchor within a maritime traffic separation zone.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10785,
+    "source_ar": "المادة الحادية والثمانون بعد الثلاثمائة",
+    "target_en": "Article 381",
+    "source_ar_norm": "المادة الحادية والثمانون بعد الثلاثمائة",
+    "target_en_norm": "article 381",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10786,
+    "source_ar": "يعاقب بغرامة لا تقل عن خمسة آلاف ريال، ولا تزيد على عشرين ألف ريال:",
+    "target_en": "A fine of not less than 5,000 riyals and not more than 20,000 riyals shall be imposed upon:",
+    "source_ar_norm": "يعاقب بغرامة لا تقل عن خمسة الاف ريال، ولا تزيد علي عشرين الف ريال:",
+    "target_en_norm": "a fine of not less than 5,000 riyals and not more than 20,000 riyals shall be imposed upon:",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10787,
+    "source_ar": "1- كل من انتشل أي حطام بحري معروف داخل الموانئ أو المياه الإقليمية للمملكة دون إذن مسبق من الجهات الرسمية ذات العلاقة.",
+    "target_en": "1. any person who raises any known maritime wreck within the Kingdom's ports or territorial waters without obtaining prior authorization from the relevant authority; or",
+    "source_ar_norm": "1- كل من انتشل اي حطام بحري معروف داخل الموانئ او المياه الاقليمية للمملكة دون اذن مسبق من الجهات الرسمية ذات العلاقة.",
+    "target_en_norm": "1. any person who raises any known maritime wreck within the kingdom's ports or territorial waters without obtaining prior authorization from the relevant authority; or",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10788,
+    "source_ar": "2- كل من صعد، أو حاول الصعود، على سفينة محطمة أو جانحة أو في حالة خطر داخل موانئ المملكة أو مياهها الإقليمية، دون إذن ربانها.",
+    "target_en": "2. any person who boards or attempts to board a wrecked, stranded, or imperiled vessel within the Kingdom's ports or territorial waters without the permission of the vessel's master.",
+    "source_ar_norm": "2- كل من صعد، او حاول الصعود، علي سفينة محطمة او جانحة او في حالة خطر داخل موانئ المملكة او مياهها الاقليمية، دون اذن ربانها.",
+    "target_en_norm": "2. any person who boards or attempts to board a wrecked, stranded, or imperiled vessel within the kingdom's ports or territorial waters without the permission of the vessel's master.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10789,
+    "source_ar": "المادة الثانية والثمانون بعد الثلاثمائة",
+    "target_en": "Article 382",
+    "source_ar_norm": "المادة الثانية والثمانون بعد الثلاثمائة",
+    "target_en_norm": "article 382",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10790,
+    "source_ar": "يعاقب بغرامة لا تقل عن ألف ريال، ولا تزيد على عشرين ألف ريال، كل فرد من طاقم السفينة أو الوحدة البحرية يتسبب في إيقافها أو منع سفرها بأقوال يثبت عدم صحتها، وإذا قدمها بسوء نية يعاقب بغرامة لا تتجاوز خمسين ألف ريال.",
+    "target_en": "A fine of not less than 1,000 riyals and not more than 20,000 riyals shall be imposed upon any member of the vessel's crew or marine unit who causes such vessel to be suspended or barred from sailing due to his false statement. If such statement is made in bad faith, he shall be subject to a fine not exceeding 50,000 riyals.",
+    "source_ar_norm": "يعاقب بغرامة لا تقل عن الف ريال، ولا تزيد علي عشرين الف ريال، كل فرد من طاقم السفينة او الوحدة البحرية يتسبب في ايقافها او منع سفرها باقوال يثبت عدم صحتها، واذا قدمها بسوء نية يعاقب بغرامة لا تتجاوز خمسين الف ريال.",
+    "target_en_norm": "a fine of not less than 1,000 riyals and not more than 20,000 riyals shall be imposed upon any member of the vessel's crew or marine unit who causes such vessel to be suspended or barred from sailing due to his false statement. if such statement is made in bad faith, he shall be subject to a fine not exceeding 50,000 riyals.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10791,
+    "source_ar": "المادة الثالثة والثمانون بعد الثلاثمائة",
+    "target_en": "Article 383",
+    "source_ar_norm": "المادة الثالثة والثمانون بعد الثلاثمائة",
+    "target_en_norm": "article 383",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10792,
+    "source_ar": "يعاقب بغرامة لا تقل عن ألفي ريال، ولا تزيد على عشرة آلاف ريال، مالك السفينة إذا ارتكب أيًّا من الأفعال الآتية:",
+    "target_en": "A fine of not less than 2,000 riyals and not more than 10,000 riyals shall be imposed upon the vessel owner if he:",
+    "source_ar_norm": "يعاقب بغرامة لا تقل عن الفي ريال، ولا تزيد علي عشرة الاف ريال، مالك السفينة اذا ارتكب ايا من الافعال الاتية:",
+    "target_en_norm": "a fine of not less than 2,000 riyals and not more than 10,000 riyals shall be imposed upon the vessel owner if he:",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10793,
+    "source_ar": "1- مخالفة الإجراءات أو المواعيد المقررة في النظام ولوائحه المتعلقة بالآتي:",
+    "target_en": "1. violates procedures or fails to meet time limits provided for by this Law and its regulations with respect to:",
+    "source_ar_norm": "1- مخالفة الاجراءات او المواعيد المقررة في النظام ولوائحه المتعلقة بالاتي:",
+    "target_en_norm": "1. violates procedures or fails to meet time limits provided for by this law and its regulations with respect to:",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10794,
+    "source_ar": "أ- تسجيل السفينة.",
+    "target_en": "a) vessel registration;",
+    "source_ar_norm": "ا- تسجيل السفينة.",
+    "target_en_norm": "a) vessel registration;",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10795,
+    "source_ar": "ب- الإبلاغ بالتعديلات التي طرأت على السفينة.",
+    "target_en": "b) notification of modifications made to the vessel; or",
+    "source_ar_norm": "ب- الابلاغ بالتعديلات التي طرات علي السفينة.",
+    "target_en_norm": "b) notification of modifications made to the vessel; or",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10796,
+    "source_ar": "ج- شطب السفينة.",
+    "target_en": "c) striking off vessel registration.",
+    "source_ar_norm": "ج- شطب السفينة.",
+    "target_en_norm": "c) striking off vessel registration.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10797,
+    "source_ar": "2- استخدام شهادة التسجيل المؤقتة بالمخالفة للقواعد المقررة في النظام.",
+    "target_en": "2. uses a temporary registration certificate in violation of this Law; or",
+    "source_ar_norm": "2- استخدام شهادة التسجيل المؤقتة بالمخالفة للقواعد المقررة في النظام.",
+    "target_en_norm": "2. uses a temporary registration certificate in violation of this law; or",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10798,
+    "source_ar": "3- الامتناع عن تقديم شهادة تسجيل السفينة إلى السلطات المختصة عند طلبها.",
+    "target_en": "3. refrains from presenting the vessel's registration certificate to the competent authorities upon demand.",
+    "source_ar_norm": "3- الامتناع عن تقديم شهادة تسجيل السفينة الي السلطات المختصة عند طلبها.",
+    "target_en_norm": "3. refrains from presenting the vessel's registration certificate to the competent authorities upon demand.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10799,
+    "source_ar": "المادة الرابعة والثمانون بعد الثلاثمائة",
+    "target_en": "Article 384",
+    "source_ar_norm": "المادة الرابعة والثمانون بعد الثلاثمائة",
+    "target_en_norm": "article 384",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10800,
+    "source_ar": "يعاقب بغرامة لا تقل عن ألفي ريال، ولا تزيد على خمسة آلاف ريال، ربان السفينة في حالة عدم الاحتفاظ فيها بسجل الزيت.",
+    "target_en": "A fine of not less than 2,000 riyals and not more than 5,000 riyals shall be imposed upon the master of a vessel who fails to maintain an oil record on board.",
+    "source_ar_norm": "يعاقب بغرامة لا تقل عن الفي ريال، ولا تزيد علي خمسة الاف ريال، ربان السفينة في حالة عدم الاحتفاظ فيها بسجل الزيت.",
+    "target_en_norm": "a fine of not less than 2,000 riyals and not more than 5,000 riyals shall be imposed upon the master of a vessel who fails to maintain an oil record on board.",
+    "file_name": "النظام البحري التجاري.docx"
+  }
+]

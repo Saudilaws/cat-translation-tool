@@ -1,0 +1,802 @@
+[
+  {
+    "id": 18001,
+    "source_ar": "٣ - إعداد مشروع ميزانية الهيئة، ومشروع الحساب الختامي، والتقرير السنوي؛ تمهيدا لعرضها على مجلس إدارة الهيئة.",
+    "target_en": "٣. Prepare the Commission's draft budget, draft balance sheet and annual report for submission to the Board.",
+    "source_ar_norm": "٣ - اعداد مشروع ميزانية الهيئة، ومشروع الحساب الختامي، والتقرير السنوي؛ تمهيدا لعرضها علي مجلس ادارة الهيئة.",
+    "target_en_norm": "٣. prepare the commission's draft budget, draft balance sheet and annual report for submission to the board.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18002,
+    "source_ar": "٤ - الصرف من الميزانية المعتمدة، واتخاذ جميع الإجراءات المالية وفق الأنظمة واللوائح المقرة.",
+    "target_en": "٤. Disburse from the approved budget and conduct all financial procedures, in accordance with applicable laws and regulations.",
+    "source_ar_norm": "٤ - الصرف من الميزانية المعتمدة، واتخاذ جميع الاجراءات المالية وفق الانظمة واللوائح المقرة.",
+    "target_en_norm": "٤. disburse from the approved budget and conduct all financial procedures, in accordance with applicable laws and regulations.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18003,
+    "source_ar": "٥ - اقتراح مشاريع الهيكل التنظيمي واللوائح والقرارات التنفيذية الخاصة بسير العمل في الهيئة وعرضها على مجلس إدارة الهيئة.",
+    "target_en": "٥. Propose the draft organizational structure and executive regulations and decisions relating to the Commission's activities for submission to the Board.",
+    "source_ar_norm": "٥ - اقتراح مشاريع الهيكل التنظيمي واللوائح والقرارات التنفيذية الخاصة بسير العمل في الهيئة وعرضها علي مجلس ادارة الهيئة.",
+    "target_en_norm": "٥. propose the draft organizational structure and executive regulations and decisions relating to the commission's activities for submission to the board.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18004,
+    "source_ar": "٦ - إعداد سلم أجور الخبراء والمختصين ذوي الكفايات المطلوبة.",
+    "target_en": "٦. Prepare the scale of wages for experts and specialists.",
+    "source_ar_norm": "٦ - اعداد سلم اجور الخبراء والمختصين ذوي الكفايات المطلوبة.",
+    "target_en_norm": "٦. prepare the scale of wages for experts and specialists.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18005,
+    "source_ar": "٧ - إعداد لائحة رسوم التقويم والاعتماد.",
+    "target_en": "٧. Propose evaluation and accreditation fees.",
+    "source_ar_norm": "٧ - اعداد لائحة رسوم التقويم والاعتماد.",
+    "target_en_norm": "٧. propose evaluation and accreditation fees.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18006,
+    "source_ar": "٨ - تعيين العاملين في الهيئة والإشراف عليهم وفقاً للصلاحيات الممنوحة له، وما تحدده اللوائح.",
+    "target_en": "٨. Appoint and supervise the staff of the Commission, in accordance with the powers entrusted thereto and the regulations.",
+    "source_ar_norm": "٨ - تعيين العاملين في الهيئة والاشراف عليهم وفقا للصلاحيات الممنوحة له، وما تحدده اللوائح.",
+    "target_en_norm": "٨. appoint and supervise the staff of the commission, in accordance with the powers entrusted thereto and the regulations.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18007,
+    "source_ar": "٩ - تنفيذ قرارات المجلس ومباشرة ما يخوله إياه المجلس من اختصاصات وصلاحيات.",
+    "target_en": "٩. Implement Board resolutions, exercise powers and carry out duties delegated to him by the Board.",
+    "source_ar_norm": "٩ - تنفيذ قرارات المجلس ومباشرة ما يخوله اياه المجلس من اختصاصات وصلاحيات.",
+    "target_en_norm": "٩. implement board resolutions, exercise powers and carry out duties delegated to him by the board.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18008,
+    "source_ar": "١٠ - تقديم تقارير دورية إلى المجلس عن أعمال الهيئة ونتائج تقويم التعليم العام.",
+    "target_en": "١٠. Submit to the Board periodic reports on the Commission's activities and results of public education evaluation",
+    "source_ar_norm": "١٠ - تقديم تقارير دورية الي المجلس عن اعمال الهيئة ونتائج تقويم التعليم العام.",
+    "target_en_norm": "١٠. submit to the board periodic reports on the commission's activities and results of public education evaluation",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18009,
+    "source_ar": "١١ - إعداد التقرير السنوي عن نشاط الهيئة والصعوبات التي واجهتها واقتراح الحلول لها، وعرضه على المجلس للنظر فيه.",
+    "target_en": "١١. Prepare the annual report on the Commission's activities as well as difficulties encountered and solutions proposed, for submission before the Board for review.",
+    "source_ar_norm": "١١ - اعداد التقرير السنوي عن نشاط الهيئة والصعوبات التي واجهتها واقتراح الحلول لها، وعرضه علي المجلس للنظر فيه.",
+    "target_en_norm": "١١. prepare the annual report on the commission's activities as well as difficulties encountered and solutions proposed, for submission before the board for review.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18010,
+    "source_ar": "١٢ - التعاقد على تنفيذ الأعمال والخدمات وغيرها، والتعاقد مع الخبراء وفقاً لاحتياجات الهيئة.",
+    "target_en": "١٢. Conclude contracts for the execution of projects, services, etc., and contracts with experts, in accordance with the needs of the Commission.",
+    "source_ar_norm": "١٢ - التعاقد علي تنفيذ الاعمال والخدمات وغيرها، والتعاقد مع الخبراء وفقا لاحتياجات الهيئة.",
+    "target_en_norm": "١٢. conclude contracts for the execution of projects, services, etc., and contracts with experts, in accordance with the needs of the commission.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18011,
+    "source_ar": "١٣ - تمثيل الهيئة أمام القضاء والجهات الحكومية والهيئات الأخرى، داخل المملكة وخارجها، وله توكيل من يراه في ذلك.",
+    "target_en": "١٣. Represent the Commission before courts, government agencies and other bodies in the Kingdom and abroad and he may delegate such authority to others.",
+    "source_ar_norm": "١٣ - تمثيل الهيئة امام القضاء والجهات الحكومية والهيئات الاخري، داخل المملكة وخارجها، وله توكيل من يراه في ذلك.",
+    "target_en_norm": "١٣. represent the commission before courts, government agencies and other bodies in the kingdom and abroad and he may delegate such authority to others.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18012,
+    "source_ar": "١٤ - إقرار الخطط والبرامج اللازمة للتدريب والابتعاث داخليًّا وخارجيًّا، ومتابعة تنفيذها.",
+    "target_en": "١٤. Approve and monitor the implementation of plans and programs for training and scholarships in the Kingdom and abroad.",
+    "source_ar_norm": "١٤ - اقرار الخطط والبرامج اللازمة للتدريب والابتعاث داخليا وخارجيا، ومتابعة تنفيذها.",
+    "target_en_norm": "١٤. approve and monitor the implementation of plans and programs for training and scholarships in the kingdom and abroad.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18013,
+    "source_ar": "١٥ - إعداد معايير وضوابط منح الرخص للقيام بعمليات التقويم للمنشآت المختصة في هذا المجال.",
+    "target_en": "١٥. Set the standards and controls for licensing evaluation and accreditation entities.",
+    "source_ar_norm": "١٥ - اعداد معايير وضوابط منح الرخص للقيام بعمليات التقويم للمنشات المختصة في هذا المجال.",
+    "target_en_norm": "١٥. set the standards and controls for licensing evaluation and accreditation entities.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18014,
+    "source_ar": "١٦ - تنظيم مشاركة الهيئة في المؤتمرات والندوات والمهرجانات والمعارض المحلية والإقليمية والعربية والدولية، والاشتراك في المجلات والنشرات التخصصية والمهنية وفقاً للإجراءات النظامية.",
+    "target_en": "١٦. Regulate the Commission's participation in local, regional, Arab and international conferences, symposia, fairs and exhibitions, and subscription in specialized and professional journals and newsletters, in accordance with statutory procedures.",
+    "source_ar_norm": "١٦ - تنظيم مشاركة الهيئة في المؤتمرات والندوات والمهرجانات والمعارض المحلية والاقليمية والعربية والدولية، والاشتراك في المجلات والنشرات التخصصية والمهنية وفقا للاجراءات النظامية.",
+    "target_en_norm": "١٦. regulate the commission's participation in local, regional, arab and international conferences, symposia, fairs and exhibitions, and subscription in specialized and professional journals and newsletters, in accordance with statutory procedures.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18015,
+    "source_ar": "وللمحافظ أن يفوض بعض اختصاصاته إلى من يراه من منسوبي الهيئة.",
+    "target_en": "The Governor may delegate some of his powers to the Commission's staff.",
+    "source_ar_norm": "وللمحافظ ان يفوض بعض اختصاصاته الي من يراه من منسوبي الهيئة.",
+    "target_en_norm": "the governor may delegate some of his powers to the commission's staff.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18016,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article ١٢",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article ١٢",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18017,
+    "source_ar": "١- تتكون موارد الهيئة مما يأتي:",
+    "target_en": "١. The Commission's revenues shall comprise the following:",
+    "source_ar_norm": "١- تتكون موارد الهيئة مما ياتي:",
+    "target_en_norm": "١. the commission's revenues shall comprise the following:",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18018,
+    "source_ar": "أ ـ ما يخصص لها في الميزانية العامة للدولة.",
+    "target_en": "a. Allocations in the state budget.",
+    "source_ar_norm": "ا  ما يخصص لها في الميزانية العامة للدولة.",
+    "target_en_norm": "a. allocations in the state budget.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18019,
+    "source_ar": "ب - المقابل المالي الذي تحصل عليه عن الأعمال والخدمات التي تقدمها.",
+    "target_en": "b. Fees for services rendered.",
+    "source_ar_norm": "ب - المقابل المالي الذي تحصل عليه عن الاعمال والخدمات التي تقدمها.",
+    "target_en_norm": "b. fees for services rendered.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18020,
+    "source_ar": "ج - ما تقبله من تبرعات وهبات ووصايا وأوقاف ومنح وإعانات.",
+    "target_en": "c. Donations, bequests, endowments, grants and subsidies.",
+    "source_ar_norm": "ج - ما تقبله من تبرعات وهبات ووصايا واوقاف ومنح واعانات.",
+    "target_en_norm": "c. donations, bequests, endowments, grants and subsidies.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18021,
+    "source_ar": "د ـ أي مورد آخر يقره المجلس.",
+    "target_en": "d. Other resources approved by the Board.",
+    "source_ar_norm": "د  اي مورد اخر يقره المجلس.",
+    "target_en_norm": "d. other resources approved by the board.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18022,
+    "source_ar": "٢ - تودع أموال الهيئة في حساب مفتوح لها في مؤسسة النقد العربي السعودي، ويصرف منها وفق ميزانية الهيئة المعتمدة، وتؤول الأموال الفائضة عن حاجة الهيئة خلال السنة المالية - سوى ما تحتاجه لتمويل مشروعاتها المستقبلية المقرة في ميزانيتها السنوية والتزاماتها النظامية - إلى الخزينة العامة للدولة.",
+    "target_en": "٢. The Commission funds shall be deposited in an account with the Saudi Arabian Monetary Agency, and shall be disbursed in accordance with the Commission's approved budget. Surplus funds – beyond those needed to finance future projects approved in the annual budget as well as legal obligations – shall be transferred to state treasury.",
+    "source_ar_norm": "٢ - تودع اموال الهيئة في حساب مفتوح لها في مؤسسة النقد العربي السعودي، ويصرف منها وفق ميزانية الهيئة المعتمدة، وتؤول الاموال الفائضة عن حاجة الهيئة خلال السنة المالية - سوي ما تحتاجه لتمويل مشروعاتها المستقبلية المقرة في ميزانيتها السنوية والتزاماتها النظامية - الي الخزينة العامة للدولة.",
+    "target_en_norm": "٢. the commission funds shall be deposited in an account with the saudi arabian monetary agency, and shall be disbursed in accordance with the commission's approved budget. surplus funds – beyond those needed to finance future projects approved in the annual budget as well as legal obligations – shall be transferred to state treasury.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18023,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article ١٣",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article ١٣",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18024,
+    "source_ar": "تعامل الهيئة من حيث إعفاء وارداتها من الرسوم الجمركية بحسب القواعد المتبعة في شأن واردات المؤسسات العامة.",
+    "target_en": "Exemption of Commission's imports from customs duties shall be in accordance with rules applicable to imports of public organizations.",
+    "source_ar_norm": "تعامل الهيئة من حيث اعفاء وارداتها من الرسوم الجمركية بحسب القواعد المتبعة في شان واردات المؤسسات العامة.",
+    "target_en_norm": "exemption of commission's imports from customs duties shall be in accordance with rules applicable to imports of public organizations.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18025,
+    "source_ar": "المادة الرابعة عشرة:",
+    "target_en": "Article ١٤",
+    "source_ar_norm": "المادة الرابعة عشرة:",
+    "target_en_norm": "article ١٤",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18026,
+    "source_ar": "١ - تكون للهيئة ميزانية سنوية مستقلة.",
+    "target_en": "١. The Commission shall have an independent annual budget.",
+    "source_ar_norm": "١ - تكون للهيئة ميزانية سنوية مستقلة.",
+    "target_en_norm": "١. the commission shall have an independent annual budget.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18027,
+    "source_ar": "٢ - السنة المالية للهيئة هي السنة المالية للدولة، واستثناءً من ذلك تبدأ السنة المالية الأولى من تاريخ نفاذ هذا التنظيم، وتنتهي بنهاية السنة المالية التالية للدولة.",
+    "target_en": "٢. The state fiscal year shall be the Commission's fiscal year. As an exception, the first fiscal year shall commence on the effective date of this Statute and end at the end of the subsequent fiscal year of the state.",
+    "source_ar_norm": "٢ - السنة المالية للهيئة هي السنة المالية للدولة، واستثناء من ذلك تبدا السنة المالية الاولي من تاريخ نفاذ هذا التنظيم، وتنتهي بنهاية السنة المالية التالية للدولة.",
+    "target_en_norm": "٢. the state fiscal year shall be the commission's fiscal year. as an exception, the first fiscal year shall commence on the effective date of this statute and end at the end of the subsequent fiscal year of the state.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18028,
+    "source_ar": "المادة الخامسة عشرة:",
+    "target_en": "Article ١٥",
+    "source_ar_norm": "المادة الخامسة عشرة:",
+    "target_en_norm": "article ١٥",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18029,
+    "source_ar": "مع عدم الإخلال باختصاص ديوان المراقبة العامة بالرقابة على حسابات وعمليات الهيئة، يعين المجلس مراجع حسابات خارجيًّا (أو أكثر) من المرخص لهم رسميًّا بالعمل في المملكة، لتدقيق حسابات ومعاملات الهيئة وبياناتها وميزانيتها السنوية وحسابها الختامي، ويحدد المجلس مكافآته.",
+    "target_en": "Without prejudice to the powers of the General Audit Bureau regarding overseeing the Commission's accounts and operations, the Board shall appoint one or more external auditors, licensed to practice in the Kingdom, to audit the Commission's accounts, transactions, financial statements, annual budget and balance sheets and determine their remuneration.",
+    "source_ar_norm": "مع عدم الاخلال باختصاص ديوان المراقبة العامة بالرقابة علي حسابات وعمليات الهيئة، يعين المجلس مراجع حسابات خارجيا (او اكثر) من المرخص لهم رسميا بالعمل في المملكة، لتدقيق حسابات ومعاملات الهيئة وبياناتها وميزانيتها السنوية وحسابها الختامي، ويحدد المجلس مكافاته.",
+    "target_en_norm": "without prejudice to the powers of the general audit bureau regarding overseeing the commission's accounts and operations, the board shall appoint one or more external auditors, licensed to practice in the kingdom, to audit the commission's accounts, transactions, financial statements, annual budget and balance sheets and determine their remuneration.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18030,
+    "source_ar": "وعند تعدد مراجعي الحسابات فإنهم يكونون مسؤولين بالتضامن عن أعمالهم أمام الهيئة. ويرفع تقرير مراجع الحسابات إلى المجلس، ويزود ديوان المراقبة العامة بنسخة منه.",
+    "target_en": "In the case of multiple auditors, they shall be jointly liable before the Commission. The auditors' report shall be submitted to the Board and a copy thereof shall be provided to the General Audit Bureau.",
+    "source_ar_norm": "وعند تعدد مراجعي الحسابات فانهم يكونون مسؤولين بالتضامن عن اعمالهم امام الهيئة. ويرفع تقرير مراجع الحسابات الي المجلس، ويزود ديوان المراقبة العامة بنسخة منه.",
+    "target_en_norm": "in the case of multiple auditors, they shall be jointly liable before the commission. the auditors' report shall be submitted to the board and a copy thereof shall be provided to the general audit bureau.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18031,
+    "source_ar": "المادة السادسة عشرة:",
+    "target_en": "Article ١٦",
+    "source_ar_norm": "المادة السادسة عشرة:",
+    "target_en_norm": "article ١٦",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18032,
+    "source_ar": "مع مراعاة الحكم الوارد في الفقرة (٨) من المادة (السابعة) من هذا التنظيم، يخضع منسوبو الهيئة - ما عدا المحافظ - من حيث أوضاعهم الوظيفية للأحكام المعتمدة بالأمر السامي رقم (٥٤٦٤/م ب) وتاريخ ٢٠/ ٤/ ١٤٢٦ هـ.",
+    "target_en": "Subject to the provision of Article ٧(٨) of this Statute, the job status of the Commission's staff, save for the Governor, shall be subject to the provisions approved by the High Order No. (٥٤٦٤/ MB) dated ٢٠ / ٠٤ / ١٤٢٦H.",
+    "source_ar_norm": "مع مراعاة الحكم الوارد في الفقرة (٨) من المادة (السابعة) من هذا التنظيم، يخضع منسوبو الهيئة - ما عدا المحافظ - من حيث اوضاعهم الوظيفية للاحكام المعتمدة بالامر السامي رقم (٥٤٦٤/م ب) وتاريخ ٢٠/ ٤/ ١٤٢٦ ه.",
+    "target_en_norm": "subject to the provision of article ٧(٨) of this statute, the job status of the commission's staff, save for the governor, shall be subject to the provisions approved by the high order no. (٥٤٦٤/ mb) dated ٢٠ / ٠٤ / ١٤٢٦h.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18033,
+    "source_ar": "المادة السابعة عشرة:",
+    "target_en": "Article ١٧",
+    "source_ar_norm": "المادة السابعة عشرة:",
+    "target_en_norm": "article ١٧",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18034,
+    "source_ar": "ينشر هذا التنظيم في الجريدة الرسمية، ويعمل به من تاريخ نشره، ويلغى كل ما يتعارض معه من أحكام.",
+    "target_en": "This Statute shall be published in the Official Gazette and shall enter into force from date of publication, and shall repeal all conflicting provisions.",
+    "source_ar_norm": "ينشر هذا التنظيم في الجريدة الرسمية، ويعمل به من تاريخ نشره، ويلغي كل ما يتعارض معه من احكام.",
+    "target_en_norm": "this statute shall be published in the official gazette and shall enter into force from date of publication, and shall repeal all conflicting provisions.",
+    "file_name": "تنظيم هيئة تقويم التعليم العام.docx"
+  },
+  {
+    "id": 18035,
+    "source_ar": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج",
+    "target_en": "Statute of Electricity and Co-Generation Regulatory Authority",
+    "source_ar_norm": "تنظيم هيئة تنظيم الكهرباء والانتاج المزدوج",
+    "target_en_norm": "statute of electricity and co-generation regulatory authority",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18036,
+    "source_ar": "المادة الأولى:",
+    "target_en": "Article One:",
+    "source_ar_norm": "المادة الاولي:",
+    "target_en_norm": "article one:",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18037,
+    "source_ar": "يقصد بالألفاظ والعبارات الآتية – أينما وردت في هذا التنظيم – المعاني الموضحة أمامها، ما لم يقتض السياق خلاف ذلك:",
+    "target_en": "The following words and phrases, wherever mentioned in this Statute, shall have the meanings assigned to them, unless the context requires otherwise:",
+    "source_ar_norm": "يقصد بالالفاظ والعبارات الاتية – اينما وردت في هذا التنظيم – المعاني الموضحة امامها، ما لم يقتض السياق خلاف ذلك:",
+    "target_en_norm": "the following words and phrases, wherever mentioned in this statute, shall have the meanings assigned to them, unless the context requires otherwise:",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18038,
+    "source_ar": "الوزارة: وزارة المياه والكهرباء.",
+    "target_en": "Ministry: Ministry of Water and Electricity.",
+    "source_ar_norm": "الوزارة: وزارة المياه والكهرباء.",
+    "target_en_norm": "ministry: ministry of water and electricity.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18039,
+    "source_ar": "الوزير: وزير المياه والكهرباء.",
+    "target_en": "Minister: Minister of Water and Electricity.",
+    "source_ar_norm": "الوزير: وزير المياه والكهرباء.",
+    "target_en_norm": "minister: minister of water and electricity.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18040,
+    "source_ar": "الهيئة: هيئة تنظيم الكهرباء والإنتاج المزدوج.",
+    "target_en": "Authority: Electricity and Co-Generation Regulatory Authority.",
+    "source_ar_norm": "الهيئة: هيئة تنظيم الكهرباء والانتاج المزدوج.",
+    "target_en_norm": "authority: electricity and co-generation regulatory authority.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18041,
+    "source_ar": "المحافظ: محافظ الهيئة.",
+    "target_en": "Governor: Governor of the Authority.",
+    "source_ar_norm": "المحافظ: محافظ الهيئة.",
+    "target_en_norm": "governor: governor of the authority.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18042,
+    "source_ar": "المجلس: مجلس إدارة الهيئة.",
+    "target_en": "Board: Board of Directors of the Authority.",
+    "source_ar_norm": "المجلس: مجلس ادارة الهيئة.",
+    "target_en_norm": "board: board of directors of the authority.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18043,
+    "source_ar": "النظام: نظام الكهرباء الصادر بالمرسوم الملكي رقم (م/٥٦) وتاريخ ٢٠ / ١٠ / ١٤٢٦ هـ.",
+    "target_en": "Law: Electricity Law issued by Royal Decree No. (M/٥٦) on ٢٠.١٠.١٤٢٦ H.",
+    "source_ar_norm": "النظام: نظام الكهرباء الصادر بالمرسوم الملكي رقم (م/٥٦) وتاريخ ٢٠ / ١٠ / ١٤٢٦ ه.",
+    "target_en_norm": "law: electricity law issued by royal decree no. (m/٥٦) on ٢٠.١٠.١٤٢٦ h.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18044,
+    "source_ar": "التنظيم: تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.",
+    "target_en": "Statute: Statute of the Electricity and Co-Generation Regulatory Authority.",
+    "source_ar_norm": "التنظيم: تنظيم هيئة تنظيم الكهرباء والانتاج المزدوج.",
+    "target_en_norm": "statute: statute of the electricity and co-generation regulatory authority.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18045,
+    "source_ar": "الشخص: الطبيعي أو الاعتباري .",
+    "target_en": "Person: Any natural or corporate person.",
+    "source_ar_norm": "الشخص: الطبيعي او الاعتباري .",
+    "target_en_norm": "person: any natural or corporate person.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18046,
+    "source_ar": "صناعة الكهرباء وتحلية المياه: الخدمات الكهربائية التي يقوم بها الأشخاص أو يعتزمون القيام بها، وتشمل إنتاج الطاقة الكهربائية والإنتاج المزدوج، ونقل الطاقة الكهربائية وتوزيعها والمتاجرة بها، وتحلية المياه ونقلها إلى نقاط التوزيع والمتاجرة بها.",
+    "target_en": "Electricity and Water Desalination Industry: Electricity services that persons provide or intend to provide, including electricity generation and co-generation, transmission, supply and trading in it, as well as water desalination, delivery to distribution points and trading in it.",
+    "source_ar_norm": "صناعة الكهرباء وتحلية المياه: الخدمات الكهربائية التي يقوم بها الاشخاص او يعتزمون القيام بها، وتشمل انتاج الطاقة الكهربائية والانتاج المزدوج، ونقل الطاقة الكهربائية وتوزيعها والمتاجرة بها، وتحلية المياه ونقلها الي نقاط التوزيع والمتاجرة بها.",
+    "target_en_norm": "electricity and water desalination industry: electricity services that persons provide or intend to provide, including electricity generation and co-generation, transmission, supply and trading in it, as well as water desalination, delivery to distribution points and trading in it.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18047,
+    "source_ar": "الإنتاج المزدوج: الإنتاج المتزامن للكهرباء والمياه المحلاة أو البخار المستخدم في عملية إنتاجية أخرى أو كليهما.",
+    "target_en": "Co-Generation: Simultaneous production of electricity and desalinated water, or steam used in another production process, or both.",
+    "source_ar_norm": "الانتاج المزدوج: الانتاج المتزامن للكهرباء والمياه المحلاة او البخار المستخدم في عملية انتاجية اخري او كليهما.",
+    "target_en_norm": "co-generation: simultaneous production of electricity and desalinated water, or steam used in another production process, or both.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18048,
+    "source_ar": "تحلية المياه: إنتاج المياه المحلاة عن طريق معالجة المياه المالحة دون أن يتزامن ذلك مع إنتاج الكهرباء.",
+    "target_en": "Water Desalination: Production of desalinated water by treating salty water, without generating electricity.",
+    "source_ar_norm": "تحلية المياه: انتاج المياه المحلاة عن طريق معالجة المياه المالحة دون ان يتزامن ذلك مع انتاج الكهرباء.",
+    "target_en_norm": "water desalination: production of desalinated water by treating salty water, without generating electricity.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18049,
+    "source_ar": "النشاط الكهربائي: أي نشاط من الأنشطة الواردة في صناعة الكهرباء وتحلية المياه.",
+    "target_en": "Electricity-Related Activity: Any activity included under the electricity and water desalination industry.",
+    "source_ar_norm": "النشاط الكهربائي: اي نشاط من الانشطة الواردة في صناعة الكهرباء وتحلية المياه.",
+    "target_en_norm": "electricity-related activity: any activity included under the electricity and water desalination industry.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18050,
+    "source_ar": "المستهلك: كل شخص يزود بالخدمة الكهربائية لاستهلاكه الخاص.",
+    "target_en": "Consumer: Any person supplied with electricity for private consumption.",
+    "source_ar_norm": "المستهلك: كل شخص يزود بالخدمة الكهربائية لاستهلاكه الخاص.",
+    "target_en_norm": "consumer: any person supplied with electricity for private consumption.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18051,
+    "source_ar": "الرخصة : إذن تمنحه الهيئة للقيام بنشاط كهربائي بموجب النظام ولوائحه التنفيذية أو هذا التنظيم ولوائحه التنفيذية والإجرائية الصادرة من الهيئة.",
+    "target_en": "License: A permission granted by the Authority to perform an electricity-related activity subject to the Law and its Implementing Regulations, or this Statute and its Implementing and Procedural Regulations issued by the Authority.",
+    "source_ar_norm": "الرخصة : اذن تمنحه الهيئة للقيام بنشاط كهربائي بموجب النظام ولوائحه التنفيذية او هذا التنظيم ولوائحه التنفيذية والاجرائية الصادرة من الهيئة.",
+    "target_en_norm": "license: a permission granted by the authority to perform an electricity-related activity subject to the law and its implementing regulations, or this statute and its implementing and procedural regulations issued by the authority.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18052,
+    "source_ar": "التصريح: وثيقة تمنحها الهيئة فيما يتصل بأعمال الإعداد (بما في ذلك إعداد الخطط والقيام بالدراسات) قبل الشروع في أعمال إنشاء النشاط الكهربائي.",
+    "target_en": "Permit: A document issued by the Authority in connection with preparatory work (including drafting plans and conducting studies) prior to commencement of electricity-related activities.",
+    "source_ar_norm": "التصريح: وثيقة تمنحها الهيئة فيما يتصل باعمال الاعداد (بما في ذلك اعداد الخطط والقيام بالدراسات) قبل الشروع في اعمال انشاء النشاط الكهربائي.",
+    "target_en_norm": "permit: a document issued by the authority in connection with preparatory work (including drafting plans and conducting studies) prior to commencement of electricity-related activities.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18053,
+    "source_ar": "المرخص له: كل شخص يحمل رخصة سارية المفعول صادرة من الهيئة تصرح له القيام بأي نشاط كهربائي.",
+    "target_en": "Licensee: Any person holding a valid license issued by the Authority authorizing him to perform an electricity-related activity.",
+    "source_ar_norm": "المرخص له: كل شخص يحمل رخصة سارية المفعول صادرة من الهيئة تصرح له القيام باي نشاط كهربائي.",
+    "target_en_norm": "licensee: any person holding a valid license issued by the authority authorizing him to perform an electricity-related activity.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18054,
+    "source_ar": "المتاجرة: بيع سلعة أو خدمة ضمن النشاط الكهربائي، أو شراؤها، أو استيرادها، أو تصديرها.",
+    "target_en": "Trading: Sale, purchase, import or export of an electricity-related product or service.",
+    "source_ar_norm": "المتاجرة: بيع سلعة او خدمة ضمن النشاط الكهربائي، او شراؤها، او استيرادها، او تصديرها.",
+    "target_en_norm": "trading: sale, purchase, import or export of an electricity-related product or service.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18055,
+    "source_ar": "التعريفة: المقابل المالي المعتمد لتقديم خدمة أو سلعة ضمن النشاط الكهربائي.",
+    "target_en": "Tariff: An approved charge for the provision of an electricity-related service or product.",
+    "source_ar_norm": "التعريفة: المقابل المالي المعتمد لتقديم خدمة او سلعة ضمن النشاط الكهربائي.",
+    "target_en_norm": "tariff: an approved charge for the provision of an electricity-related service or product.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18056,
+    "source_ar": "السعر: المقابل المالي أو العيني المتفق عليه بين شخصين أو أكثر لتقديم خدمة أو سلعة ضمن النشاط الكهربائي.",
+    "target_en": "Price: A charge, financial or in kind, agreed upon by two or more persons for the provision of an electricity-related service or product.",
+    "source_ar_norm": "السعر: المقابل المالي او العيني المتفق عليه بين شخصين او اكثر لتقديم خدمة او سلعة ضمن النشاط الكهربائي.",
+    "target_en_norm": "price: a charge, financial or in kind, agreed upon by two or more persons for the provision of an electricity-related service or product.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18057,
+    "source_ar": "سوق الطاقة الكهربائية: الحالة التي يكون فيها بيع الطاقة الكهربائية وشراؤها بالاحتكام إلى عوامل السوق الحر الذي يخضع السعر فيه لقانون العرض والطلب.",
+    "target_en": "Electricity Market: A situation where sale and purchase of electricity is governed by free market factors where price is subject to supply and demand.",
+    "source_ar_norm": "سوق الطاقة الكهربائية: الحالة التي يكون فيها بيع الطاقة الكهربائية وشراؤها بالاحتكام الي عوامل السوق الحر الذي يخضع السعر فيه لقانون العرض والطلب.",
+    "target_en_norm": "electricity market: a situation where sale and purchase of electricity is governed by free market factors where price is subject to supply and demand.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18058,
+    "source_ar": "الإعانة البيئية: التكافل المالي بين منطقتين (أو جهتين) أو أكثر.",
+    "target_en": "Cross Subsidy: Exchange of financial support between two or more regions (or entities).",
+    "source_ar_norm": "الاعانة البيئية: التكافل المالي بين منطقتين (او جهتين) او اكثر.",
+    "target_en_norm": "cross subsidy: exchange of financial support between two or more regions (or entities).",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18059,
+    "source_ar": "اللجنة : لجنة فض منازعات صناعة الكهرباء المنشأة بموجب المادة الثالثة عشرة من النظام .",
+    "target_en": "Committee: Electricity Industry Dispute Committee formed pursuant to Article (١٣) of the Law.",
+    "source_ar_norm": "اللجنة : لجنة فض منازعات صناعة الكهرباء المنشاة بموجب المادة الثالثة عشرة من النظام .",
+    "target_en_norm": "committee: electricity industry dispute committee formed pursuant to article (١٣) of the law.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18060,
+    "source_ar": "المادة الثانية:",
+    "target_en": "Article (٢):",
+    "source_ar_norm": "المادة الثانية:",
+    "target_en_norm": "article (٢):",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18061,
+    "source_ar": "١ - تتمتع هيئة تنظيم الكهرباء والإنتاج المزدوج بالشخصية الاعتبارية المستقلة وبالاستقلال المالي والإداري، وتباشر المهمات والاختصاصات المنوطة بها بمقتضى النظام والتنظيم.",
+    "target_en": "١. The Electricity and Co-Generation Regulatory Authority shall be a corporate person with financial and administrative independence, and it shall assume the duties and powers vested therein pursuant to the Law and Statute.",
+    "source_ar_norm": "١ - تتمتع هيئة تنظيم الكهرباء والانتاج المزدوج بالشخصية الاعتبارية المستقلة وبالاستقلال المالي والاداري، وتباشر المهمات والاختصاصات المنوطة بها بمقتضي النظام والتنظيم.",
+    "target_en_norm": "١. the electricity and co-generation regulatory authority shall be a corporate person with financial and administrative independence, and it shall assume the duties and powers vested therein pursuant to the law and statute.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18062,
+    "source_ar": "٢ - يكون مقر الهيئة في مدينة الرياض، ويجوز لها إنشاء فروع أو مكاتب داخل المملكة.",
+    "target_en": "٢. The Authority's headquarters shall be in the city of Riyadh and it may establish branches or offices within the Kingdom.",
+    "source_ar_norm": "٢ - يكون مقر الهيئة في مدينة الرياض، ويجوز لها انشاء فروع او مكاتب داخل المملكة.",
+    "target_en_norm": "٢. the authority's headquarters shall be in the city of riyadh and it may establish branches or offices within the kingdom.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18063,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article (٣):",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article (٣):",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18064,
+    "source_ar": "تقوم الهيئة بتنظيم صناعة الكهرباء وتحلية المياه والإشراف عليها ومراقبة أدائها والتنسيق فيما بين المؤسسات والجهات ذات العلاقة وفيما بين الأشخاص المرخص لهم لإيجاد الإطار التنظيمي والإجرائي اللازم لضمان مزاولة الأنشطة الكهربائية وتحلية المياه عند مستويات ذات جودة وموثوقية عالية وبأسعار وتعريفة مناسبة ومساندة للتنمية المستدامة.",
+    "target_en": "The Authority shall regulate, oversee and monitor the electricity and water desalination industry and coordinate between relevant agencies and licensees to establish the necessary regulatory and procedural framework to ensure high levels of efficiency and reliability in the performance of electricity and water desalination activities at appropriate prices and tariffs, supportive of sustainable development.",
+    "source_ar_norm": "تقوم الهيئة بتنظيم صناعة الكهرباء وتحلية المياه والاشراف عليها ومراقبة ادائها والتنسيق فيما بين المؤسسات والجهات ذات العلاقة وفيما بين الاشخاص المرخص لهم لايجاد الاطار التنظيمي والاجرائي اللازم لضمان مزاولة الانشطة الكهربائية وتحلية المياه عند مستويات ذات جودة وموثوقية عالية وباسعار وتعريفة مناسبة ومساندة للتنمية المستدامة.",
+    "target_en_norm": "the authority shall regulate, oversee and monitor the electricity and water desalination industry and coordinate between relevant agencies and licensees to establish the necessary regulatory and procedural framework to ensure high levels of efficiency and reliability in the performance of electricity and water desalination activities at appropriate prices and tariffs, supportive of sustainable development.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18065,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article (٤):",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article (٤):",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18066,
+    "source_ar": "مع مراعاة المهمات الموكول إلى الهيئة بموجب النظام ، تتولى الهيئة - في إطار السياسة والخطط العامة للكهرباء- تنظيم صناعة الكهرباء وتحلية المياه في جميع أنحاء المملكة وإصدار القواعد والإجراءات المنظمة لذلك، ولها على وجه خاص ما يلي:",
+    "target_en": "Without prejudice to the duties assigned to the Authority under the Law, the Authority – within the general policy and plans for electricity – shall regulate the electricity and water desalination industry throughout the Kingdom, and issue regulatory rules and procedures therefor, and shall particularly undertake the following:",
+    "source_ar_norm": "مع مراعاة المهمات الموكول الي الهيئة بموجب النظام ، تتولي الهيئة - في اطار السياسة والخطط العامة للكهرباء- تنظيم صناعة الكهرباء وتحلية المياه في جميع انحاء المملكة واصدار القواعد والاجراءات المنظمة لذلك، ولها علي وجه خاص ما يلي:",
+    "target_en_norm": "without prejudice to the duties assigned to the authority under the law, the authority – within the general policy and plans for electricity – shall regulate the electricity and water desalination industry throughout the kingdom, and issue regulatory rules and procedures therefor, and shall particularly undertake the following:",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18067,
+    "source_ar": "١ - العمل على الارتقاء بالخدمات الكهربائية التي تعنى بالمستهلك، وحماية حقوقه، بما في ذلك حقه في الاختيار بين المتنافسين المرخص لهم بنشاط كهربائي، وبأسعار تنافسية معقولة مبنية على أسس تجارية تحقق العدالة بين المستهلكين من أجل الحصول على الخدمة الكهربائية بموثوقية.",
+    "target_en": "١. Working towards enhancing electricity services relating to consumers and protecting their rights, including the right to choose between competing licensees, at reasonable, competitive and commercially-based prices that are fair consumers, to receive reliable electricity services.",
+    "source_ar_norm": "١ - العمل علي الارتقاء بالخدمات الكهربائية التي تعني بالمستهلك، وحماية حقوقه، بما في ذلك حقه في الاختيار بين المتنافسين المرخص لهم بنشاط كهربائي، وباسعار تنافسية معقولة مبنية علي اسس تجارية تحقق العدالة بين المستهلكين من اجل الحصول علي الخدمة الكهربائية بموثوقية.",
+    "target_en_norm": "١. working towards enhancing electricity services relating to consumers and protecting their rights, including the right to choose between competing licensees, at reasonable, competitive and commercially-based prices that are fair consumers, to receive reliable electricity services.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18068,
+    "source_ar": "٢ - العمل على تشجيع القطاع الخاص المحلي والدولي على الإسهام والمشاركة والاستثمار في التوسع المنهجي لصناعة الكهرباء وتحلية المياه وتطويرها، والعمل على حماية الاستثمار وتمكين المستثمر من تحقيق عائد اقتصادي عادل، مع مراعاة التكاليف، من خلال هيكلة عادلة وواضحة لسعر الكهرباء والتعريفة التي يجري العمل بها حتى إنشاء سوق الطاقة الكهربائية التي تحكمها العوامل التنافسية.",
+    "target_en": "٢. Working towards encouraging the private sector, domestic and international, to participate and invest in systematic expansion and development of the electricity and water desalination industry, and protecting investments and enabling investors to realize fair economic returns, with due consideration to costs, through fair and transparent structuring of electricity prices and applied tariffs until a competition-based electricity market is established.",
+    "source_ar_norm": "٢ - العمل علي تشجيع القطاع الخاص المحلي والدولي علي الاسهام والمشاركة والاستثمار في التوسع المنهجي لصناعة الكهرباء وتحلية المياه وتطويرها، والعمل علي حماية الاستثمار وتمكين المستثمر من تحقيق عائد اقتصادي عادل، مع مراعاة التكاليف، من خلال هيكلة عادلة وواضحة لسعر الكهرباء والتعريفة التي يجري العمل بها حتي انشاء سوق الطاقة الكهربائية التي تحكمها العوامل التنافسية.",
+    "target_en_norm": "٢. working towards encouraging the private sector, domestic and international, to participate and invest in systematic expansion and development of the electricity and water desalination industry, and protecting investments and enabling investors to realize fair economic returns, with due consideration to costs, through fair and transparent structuring of electricity prices and applied tariffs until a competition-based electricity market is established.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18069,
+    "source_ar": "٣ - العمل على تهيئة صناعة الكهرباء وتحلية المياه في المملكة للانتقال التدريجي إلى سوق الطاقة الكهربائية، وإنشاء السوق عندما تهيأ الظروف المناسبة، وإدارة سوق الطاقة الكهربائية بعد إنشائه.",
+    "target_en": "٣. Working towards preparing the electricity and water desalination industry in the Kingdom for gradual transfer to the electricity market, establishing said market when circumstances are appropriate, and managing the electricity market upon establishment.",
+    "source_ar_norm": "٣ - العمل علي تهيئة صناعة الكهرباء وتحلية المياه في المملكة للانتقال التدريجي الي سوق الطاقة الكهربائية، وانشاء السوق عندما تهيا الظروف المناسبة، وادارة سوق الطاقة الكهربائية بعد انشائه.",
+    "target_en_norm": "٣. working towards preparing the electricity and water desalination industry in the kingdom for gradual transfer to the electricity market, establishing said market when circumstances are appropriate, and managing the electricity market upon establishment.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18070,
+    "source_ar": "٤ - ضمان التزام صناعة الكهرباء وتحلية المياه بسياسات الدولة، وتوجيهاتها، ومتطلباتها الخاصة بأمن الإمدادات الكهربائية، والنمو الاقتصادي المستدام، وخير المجتمع.",
+    "target_en": "٤. Ensuring compliance of the electricity and water desalination industry with State policies, directives and requirements for electricity supply security, sustainable economic growth and welfare of society.",
+    "source_ar_norm": "٤ - ضمان التزام صناعة الكهرباء وتحلية المياه بسياسات الدولة، وتوجيهاتها، ومتطلباتها الخاصة بامن الامدادات الكهربائية، والنمو الاقتصادي المستدام، وخير المجتمع.",
+    "target_en_norm": "٤. ensuring compliance of the electricity and water desalination industry with state policies, directives and requirements for electricity supply security, sustainable economic growth and welfare of society.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18071,
+    "source_ar": "٥ - العمل على زيادة فرص حصول المستهلكين على الإمدادات الكهربائية، والعمل على إيصال الخدمات الكهربائية إلى المناطق التي لا تخدمها صناعة الكهرباء وتحلية المياه.",
+    "target_en": "٥. Working towards increasing consumers' chances of obtaining electricity supply, and delivering electricity services to regions not covered by the electricity and water desalination industry.",
+    "source_ar_norm": "٥ - العمل علي زيادة فرص حصول المستهلكين علي الامدادات الكهربائية، والعمل علي ايصال الخدمات الكهربائية الي المناطق التي لا تخدمها صناعة الكهرباء وتحلية المياه.",
+    "target_en_norm": "٥. working towards increasing consumers' chances of obtaining electricity supply, and delivering electricity services to regions not covered by the electricity and water desalination industry.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18072,
+    "source_ar": "٦ - العمل على توفير إمدادات كهربائية مأمونة وموثوقة يمكن الاعتماد عليها، وذات كفاية عالية.",
+    "target_en": "٦. Working towards providing safe, reliable and highly efficient electricity supply.",
+    "source_ar_norm": "٦ - العمل علي توفير امدادات كهربائية مامونة وموثوقة يمكن الاعتماد عليها، وذات كفاية عالية.",
+    "target_en_norm": "٦. working towards providing safe, reliable and highly efficient electricity supply.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18073,
+    "source_ar": "٧ - العمل على توفير إطار تنظيمي لصناعة الكهرباء وتحلية المياه، يكون واضحًا، ومستقرا، وخاليًا من التمييز.",
+    "target_en": "٧. Working towards providing transparent, stable and non-discriminatory regulatory framework for the electricity and water desalination industry.",
+    "source_ar_norm": "٧ - العمل علي توفير اطار تنظيمي لصناعة الكهرباء وتحلية المياه، يكون واضحا، ومستقرا، وخاليا من التمييز.",
+    "target_en_norm": "٧. working towards providing transparent, stable and non-discriminatory regulatory framework for the electricity and water desalination industry.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18074,
+    "source_ar": "٨ - العمل على حماية المصلحة العامة، وحماية الحقوق والمصالح الخاصة بالمستهلكين والأشخاص المرخص لهم والمستثمرين في تطوير صناعة الكهرباء وتحلية المياه.",
+    "target_en": "٨. Working towards safeguarding public interest and the rights and interests of consumers, licensees and investors in the development of electricity and water desalination industry.",
+    "source_ar_norm": "٨ - العمل علي حماية المصلحة العامة، وحماية الحقوق والمصالح الخاصة بالمستهلكين والاشخاص المرخص لهم والمستثمرين في تطوير صناعة الكهرباء وتحلية المياه.",
+    "target_en_norm": "٨. working towards safeguarding public interest and the rights and interests of consumers, licensees and investors in the development of electricity and water desalination industry.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18075,
+    "source_ar": "٩ - التنسيق مع الجهات والمؤسسات ذات العلاقة للعمل على تهيئة بيئة مناسبة لتشجيع التنافس المشروع ودعمه والحد من الاحتكار في صناعة الكهرباء وتحلية المياه.",
+    "target_en": "٩. Coordinating with relevant agencies to develop a healthy environment that promotes and supports fair competition, and curbs monopoly in the electricity and water desalination industry.",
+    "source_ar_norm": "٩ - التنسيق مع الجهات والمؤسسات ذات العلاقة للعمل علي تهيئة بيئة مناسبة لتشجيع التنافس المشروع ودعمه والحد من الاحتكار في صناعة الكهرباء وتحلية المياه.",
+    "target_en_norm": "٩. coordinating with relevant agencies to develop a healthy environment that promotes and supports fair competition, and curbs monopoly in the electricity and water desalination industry.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18076,
+    "source_ar": "١٠ - العمل على استكمال تطوير هيكلة البنية الأساسية لصناعة الكهرباء وتحلية المياه في المملكة بأسلوب منهجي – يتضمن فصل الأنشطة المختلفة إلى أنشطة للتوليد والنقل والتوزيع والمتاجرة، تكون مستقلة ماليًّا وإداريا – وباتباع عملية عادلة وفاعلة، تعزز التنافس في صناعة الكهرباء وتحلية المياه، وترفع من كفاية أدائها المالي والفني والإداري.",
+    "target_en": "١٠. Working towards completing the organization of the systematic development of the infrastructure for electricity and water desalination industry in the Kingdom – including separation of different activities into financially and administratively independent activities of generation, transmission, distribution and trading – through a fair and effective process that enhances competitiveness in the electricity and water desalination industry, and improves its financial, technical and administrative efficiency.",
+    "source_ar_norm": "١٠ - العمل علي استكمال تطوير هيكلة البنية الاساسية لصناعة الكهرباء وتحلية المياه في المملكة باسلوب منهجي – يتضمن فصل الانشطة المختلفة الي انشطة للتوليد والنقل والتوزيع والمتاجرة، تكون مستقلة ماليا واداريا – وباتباع عملية عادلة وفاعلة، تعزز التنافس في صناعة الكهرباء وتحلية المياه، وترفع من كفاية ادائها المالي والفني والاداري.",
+    "target_en_norm": "١٠. working towards completing the organization of the systematic development of the infrastructure for electricity and water desalination industry in the kingdom – including separation of different activities into financially and administratively independent activities of generation, transmission, distribution and trading – through a fair and effective process that enhances competitiveness in the electricity and water desalination industry, and improves its financial, technical and administrative efficiency.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18077,
+    "source_ar": "١١ - العمل على أن تكون صناعة الكهرباء وتحلية المياه في المملكة على مستوى عال من حيث أساليب العمل والتقنيات المستخدمة، بما في ذلك تشجيع أعمال البحوث والتطوير في هذا المجال.",
+    "target_en": "١١. Working towards bringing the electricity and water desalination industry in the Kingdom to a high level in terms of work methods and technologies used, including encouraging research and development in this field.",
+    "source_ar_norm": "١١ - العمل علي ان تكون صناعة الكهرباء وتحلية المياه في المملكة علي مستوي عال من حيث اساليب العمل والتقنيات المستخدمة، بما في ذلك تشجيع اعمال البحوث والتطوير في هذا المجال.",
+    "target_en_norm": "١١. working towards bringing the electricity and water desalination industry in the kingdom to a high level in terms of work methods and technologies used, including encouraging research and development in this field.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18078,
+    "source_ar": "١٢ - العمل على تحقيق المعايير والمقاييس البيئية المعتمدة في صناعة الكهرباء وتحلية المياه.",
+    "target_en": "١٢. Working towards achieving approved environmental criteria and standards in the electricity and water desalination industry.",
+    "source_ar_norm": "١٢ - العمل علي تحقيق المعايير والمقاييس البيئية المعتمدة في صناعة الكهرباء وتحلية المياه.",
+    "target_en_norm": "١٢. working towards achieving approved environmental criteria and standards in the electricity and water desalination industry.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18079,
+    "source_ar": "١٣ - إجراء مراجعة دورية - وفق أسس علمية وفنية - لتكلفة تقديم الخدمة الكهربائية والإنتاج المزدوج وتحلية المياه - دون إعانة بينية بين ما ينتج أو يقدم من خدمات - وإعداد تقارير دورية عن ذلك ورفعها إلى مجلس الوزراء.",
+    "target_en": "١٣. Conducting periodic reviews – on scientific and technical basis – of the cost of providing electricity services, co-generation and water desalination – without cross subsidy between produced or provided services – and preparing periodic reports thereon and submitting the same to the Council of Ministers.",
+    "source_ar_norm": "١٣ - اجراء مراجعة دورية - وفق اسس علمية وفنية - لتكلفة تقديم الخدمة الكهربائية والانتاج المزدوج وتحلية المياه - دون اعانة بينية بين ما ينتج او يقدم من خدمات - واعداد تقارير دورية عن ذلك ورفعها الي مجلس الوزراء.",
+    "target_en_norm": "١٣. conducting periodic reviews – on scientific and technical basis – of the cost of providing electricity services, co-generation and water desalination – without cross subsidy between produced or provided services – and preparing periodic reports thereon and submitting the same to the council of ministers.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18080,
+    "source_ar": "١٤ - إجراء مراجعة دورية لهيكلة تعريفة النشاط الكهربائي المقدم للمستهلك واقتراح التعديل عليها ورفع التوصيات إلى مجلس الوزراء.",
+    "target_en": "١٤. Conducting periodic reviews of the structuring of tariff of electricity-related activities provided to consumers, proposing amendments thereto and submitting recommendations to the Council of Ministers.",
+    "source_ar_norm": "١٤ - اجراء مراجعة دورية لهيكلة تعريفة النشاط الكهربائي المقدم للمستهلك واقتراح التعديل عليها ورفع التوصيات الي مجلس الوزراء.",
+    "target_en_norm": "١٤. conducting periodic reviews of the structuring of tariff of electricity-related activities provided to consumers, proposing amendments thereto and submitting recommendations to the council of ministers.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18081,
+    "source_ar": "١٥ - إعداد تقارير دورية عن وضع صناعة الكهرباء وتحلية المياه في جميع أنحاء المملكة شاملة المنجزات والعقبات والتطورات ورفعها إلى مجلس الوزراء.",
+    "target_en": "١٥. Preparing periodic reports on the state of the electricity and water desalination industry throughout the Kingdom, including achievements, obstacles and developments, and submitting the same to the Council of Ministers.",
+    "source_ar_norm": "١٥ - اعداد تقارير دورية عن وضع صناعة الكهرباء وتحلية المياه في جميع انحاء المملكة شاملة المنجزات والعقبات والتطورات ورفعها الي مجلس الوزراء.",
+    "target_en_norm": "١٥. preparing periodic reports on the state of the electricity and water desalination industry throughout the kingdom, including achievements, obstacles and developments, and submitting the same to the council of ministers.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18082,
+    "source_ar": "١٦ - دعم نشاطات البحث والتطوير المتعلقة بصناعة الكهرباء وتحلية المياه وصناعة المعدات والتجهيزات المساندة لها، وذلك في المعاهد المتخصصة والجامعات، ومؤسسات القطاع الخاص.",
+    "target_en": "١٦. Supporting research and development activities in the electricity and water desalination industry and the industry of related equipment and installations at specialized institutes and universities as well as private sector institutions.",
+    "source_ar_norm": "١٦ - دعم نشاطات البحث والتطوير المتعلقة بصناعة الكهرباء وتحلية المياه وصناعة المعدات والتجهيزات المساندة لها، وذلك في المعاهد المتخصصة والجامعات، ومؤسسات القطاع الخاص.",
+    "target_en_norm": "١٦. supporting research and development activities in the electricity and water desalination industry and the industry of related equipment and installations at specialized institutes and universities as well as private sector institutions.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18083,
+    "source_ar": "١٧ - تقديم العون والمشورة إلى مؤسسات الدولة والقطاع الخاص فيما يختص بتنمية قدرات صناعة الكهرباء وتحلية المياه وصناعة المعدات والتجهيزات الكهربائية.",
+    "target_en": "١٧. Providing assistance and advice to government and private sector organizations with regard to developing the capabilities of the electricity and water desalination industry as well as the electricity equipment and installations industry.",
+    "source_ar_norm": "١٧ - تقديم العون والمشورة الي مؤسسات الدولة والقطاع الخاص فيما يختص بتنمية قدرات صناعة الكهرباء وتحلية المياه وصناعة المعدات والتجهيزات الكهربائية.",
+    "target_en_norm": "١٧. providing assistance and advice to government and private sector organizations with regard to developing the capabilities of the electricity and water desalination industry as well as the electricity equipment and installations industry.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18084,
+    "source_ar": "١٨ - تمثيل المملكة ورعاية مصالحها في العلاقات مع الجهات التنظيمية الخارجية المماثلة للهيئة في المجالات التي تدخل في اختصاصها.",
+    "target_en": "١٨. Representing the Kingdom and caring for its interests in relations with international regulatory counterparts.",
+    "source_ar_norm": "١٨ - تمثيل المملكة ورعاية مصالحها في العلاقات مع الجهات التنظيمية الخارجية المماثلة للهيئة في المجالات التي تدخل في اختصاصها.",
+    "target_en_norm": "١٨. representing the kingdom and caring for its interests in relations with international regulatory counterparts.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18085,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article (٥):",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article (٥):",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18086,
+    "source_ar": "للهيئة في سبيل تحقيق مهماتها القيام بالآتي:",
+    "target_en": "To achieve its objectives, the Authority may undertake the following:",
+    "source_ar_norm": "للهيئة في سبيل تحقيق مهماتها القيام بالاتي:",
+    "target_en_norm": "to achieve its objectives, the authority may undertake the following:",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18087,
+    "source_ar": "١ - إصدار اللوائح التنفيذية والإجرائية لمواد النظام فيما يخص مهماتها، وإصدار اللوائح التنفيذية والإجرائية للتنظيم، على أن تشمل تلك اللوائح والإجراءات ما يأتي:",
+    "target_en": "١. Issuing the Implementing and Procedural Regulations for articles of the Law relating to its duties as well as the Implementing and Procedural Regulations of the Statute, provided that said regulations provide for the following:",
+    "source_ar_norm": "١ - اصدار اللوائح التنفيذية والاجرائية لمواد النظام فيما يخص مهماتها، واصدار اللوائح التنفيذية والاجرائية للتنظيم، علي ان تشمل تلك اللوائح والاجراءات ما ياتي:",
+    "target_en_norm": "١. issuing the implementing and procedural regulations for articles of the law relating to its duties as well as the implementing and procedural regulations of the statute, provided that said regulations provide for the following:",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18088,
+    "source_ar": "أ - القواعد الفنية والبيئية والتشغيلية والاستثمارية والإجرائية.",
+    "target_en": "a. Technical, environmental and operational investment and procedural rules.",
+    "source_ar_norm": "ا - القواعد الفنية والبيئية والتشغيلية والاستثمارية والاجرائية.",
+    "target_en_norm": "a. technical, environmental and operational investment and procedural rules.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18089,
+    "source_ar": "ب - معايير الأداء التي يجب على الأشخاص المرخص لهم تحقيقها.",
+    "target_en": "b. Performance standards that licensees must achieve.",
+    "source_ar_norm": "ب - معايير الاداء التي يجب علي الاشخاص المرخص لهم تحقيقها.",
+    "target_en_norm": "b. performance standards that licensees must achieve.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18090,
+    "source_ar": "ج - القواعد التي تحدد العلاقة بين الأشخاص المرخص لهم وبينهم والمستهلكين.",
+    "target_en": "c. Rules governing the relation among licensees and between them and consumers.",
+    "source_ar_norm": "ج - القواعد التي تحدد العلاقة بين الاشخاص المرخص لهم وبينهم والمستهلكين.",
+    "target_en_norm": "c. rules governing the relation among licensees and between them and consumers.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18091,
+    "source_ar": "د - تحديد أنواع الأنشطة الكهربائية وتصنيفها وتحديثها بما يحقق أفضل السبل لتثبيت أسس المنافسة المشروعة والحد من الاحتكار.",
+    "target_en": "d. defining types of electricity-related activities as well as classifying and updating them so as to best achieve fair competition and curb monopoly.",
+    "source_ar_norm": "د - تحديد انواع الانشطة الكهربائية وتصنيفها وتحديثها بما يحقق افضل السبل لتثبيت اسس المنافسة المشروعة والحد من الاحتكار.",
+    "target_en_norm": "d. defining types of electricity-related activities as well as classifying and updating them so as to best achieve fair competition and curb monopoly.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18092,
+    "source_ar": "هـ – اللوائح اللازمة للرخص والتصاريح شاملة الأسس للمقابل المالي لها والالتزامات.",
+    "target_en": "e. Regulations necessary for licenses and permits, including bases for their charges and obligations.",
+    "source_ar_norm": "ه – اللوائح اللازمة للرخص والتصاريح شاملة الاسس للمقابل المالي لها والالتزامات.",
+    "target_en_norm": "e. regulations necessary for licenses and permits, including bases for their charges and obligations.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18093,
+    "source_ar": "٢ - اتخاذ الإجراءات الضرورية لتوفير مصادر إضافية لتوليد الكهرباء أو الإنتاج المزدوج ونقل الطاقة الكهربائية وتوزيعها في حالة توقع حدوث نقص واضح في إمدادات الطاقة الكهربائية، وذلك بناء على ما تقتضيه المصلحة العامة.",
+    "target_en": "٢. Taking necessary measures to provide additional sources for electricity generation or co-generation as well as transmission and distribution of electricity in case of foreseeing an obvious shortage of electricity supply, as the public interest may require.",
+    "source_ar_norm": "٢ - اتخاذ الاجراءات الضرورية لتوفير مصادر اضافية لتوليد الكهرباء او الانتاج المزدوج ونقل الطاقة الكهربائية وتوزيعها في حالة توقع حدوث نقص واضح في امدادات الطاقة الكهربائية، وذلك بناء علي ما تقتضيه المصلحة العامة.",
+    "target_en_norm": "٢. taking necessary measures to provide additional sources for electricity generation or co-generation as well as transmission and distribution of electricity in case of foreseeing an obvious shortage of electricity supply, as the public interest may require.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18094,
+    "source_ar": "٣ - اتخاذ الإجراءات اللازمة لتنفيذ أحكام النظام والتنظيم ولوائحهما التنفيذية فيما يخص المهمات المنوطة بها.",
+    "target_en": "٣. Taking necessary measures to implement the provisions of the Law and Statute as well as their Implementing Regulations, with regard to duties assigned to the Authority.",
+    "source_ar_norm": "٣ - اتخاذ الاجراءات اللازمة لتنفيذ احكام النظام والتنظيم ولوائحهما التنفيذية فيما يخص المهمات المنوطة بها.",
+    "target_en_norm": "٣. taking necessary measures to implement the provisions of the law and statute as well as their implementing regulations, with regard to duties assigned to the authority.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18095,
+    "source_ar": "٤ - مراقبة تنفيذ اللوائح والقواعد المتعلقة بالإدارة والمحاسبة والاستثمار التي يسير عليها المرخص له بموجب أحكام النظام والتنظيم واللوائح التنفيذية لهما.",
+    "target_en": "٤. Overseeing the implementation of regulations and rules relating to management, accounting and investment followed by licensees; in accordance with the provisions of the Law, Statute and their Implementing Regulations.",
+    "source_ar_norm": "٤ - مراقبة تنفيذ اللوائح والقواعد المتعلقة بالادارة والمحاسبة والاستثمار التي يسير عليها المرخص له بموجب احكام النظام والتنظيم واللوائح التنفيذية لهما.",
+    "target_en_norm": "٤. overseeing the implementation of regulations and rules relating to management, accounting and investment followed by licensees; in accordance with the provisions of the law, statute and their implementing regulations.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18096,
+    "source_ar": "٥ - العمل – بالتنسيق مع الوزارة ووزارة البترول والثروة المعدنية والجهات المختصة الأخرى – على توفير الوقود اللازم لصناعة الكهرباء وتحلية المياه، والالتزام بالاستخدام الأمثل لمصادر الوقود وأنواعه بما يحقق العائد الأفضل للاقتصاد الوطني، واتخاذ خطة طويلة المدى لذلك تشمل بدون حصر الآتي:",
+    "target_en": "٥. Working – in coordination with the Ministry, the Ministry of Petroleum and Mineral Resources and other competent authorities – on providing necessary fuel for the electricity and water desalination industry, observing best utilization of sources and types of fuel to achieve best returns for the national economy, and adopting a long term plan therefor, including, but not limited to, the following:",
+    "source_ar_norm": "٥ - العمل – بالتنسيق مع الوزارة ووزارة البترول والثروة المعدنية والجهات المختصة الاخري – علي توفير الوقود اللازم لصناعة الكهرباء وتحلية المياه، والالتزام بالاستخدام الامثل لمصادر الوقود وانواعه بما يحقق العائد الافضل للاقتصاد الوطني، واتخاذ خطة طويلة المدي لذلك تشمل بدون حصر الاتي:",
+    "target_en_norm": "٥. working – in coordination with the ministry, the ministry of petroleum and mineral resources and other competent authorities – on providing necessary fuel for the electricity and water desalination industry, observing best utilization of sources and types of fuel to achieve best returns for the national economy, and adopting a long term plan therefor, including, but not limited to, the following:",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18097,
+    "source_ar": "أ - رفع كفاية الإنتاج في صناعة الكهرباء وتحلية المياه واستخدامهما.",
+    "target_en": "a. Increasing production efficiency in electricity and water desalination industry and use thereof.",
+    "source_ar_norm": "ا - رفع كفاية الانتاج في صناعة الكهرباء وتحلية المياه واستخدامهما.",
+    "target_en_norm": "a. increasing production efficiency in electricity and water desalination industry and use thereof.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18098,
+    "source_ar": "ب - الأخذ في الاعتبار المقاييس والمعايير المعتمدة لحماية البيئة.",
+    "target_en": "b. Observing approved standards and criteria for environment protection.",
+    "source_ar_norm": "ب - الاخذ في الاعتبار المقاييس والمعايير المعتمدة لحماية البيئة.",
+    "target_en_norm": "b. observing approved standards and criteria for environment protection.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18099,
+    "source_ar": "ج - تشجيع مشاريع محطات الإنتاج المزدوج للكهرباء والماء وإعطاؤها الأولوية في التشغيل.",
+    "target_en": "c. Encouraging projects of electricity and water co-generation plants and giving such plants priority in operation.",
+    "source_ar_norm": "ج - تشجيع مشاريع محطات الانتاج المزدوج للكهرباء والماء واعطاؤها الاولوية في التشغيل.",
+    "target_en_norm": "c. encouraging projects of electricity and water co-generation plants and giving such plants priority in operation.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  },
+  {
+    "id": 18100,
+    "source_ar": "٦ - فرض الحراسة وفقًا لأحكام النظام وبحسب القواعد والإجراءات والضوابط التي تضعها على نشاط أي شخص يقوم بمخالفة أحكام النظام أو التنظيم أو لوائحهما التنفيذية أو القواعد والإجراءات التي تصدرها.",
+    "target_en": "٦. Imposing receivership in accordance with the provisions of the Law as well as rules, procedures and controls imposed on any person violating the provisions of the Law, Statute, their Implementing Regulations or rules and procedures issued by the Authority.",
+    "source_ar_norm": "٦ - فرض الحراسة وفقا لاحكام النظام وبحسب القواعد والاجراءات والضوابط التي تضعها علي نشاط اي شخص يقوم بمخالفة احكام النظام او التنظيم او لوائحهما التنفيذية او القواعد والاجراءات التي تصدرها.",
+    "target_en_norm": "٦. imposing receivership in accordance with the provisions of the law as well as rules, procedures and controls imposed on any person violating the provisions of the law, statute, their implementing regulations or rules and procedures issued by the authority.",
+    "file_name": "تنظيم هيئة تنظيم الكهرباء والإنتاج المزدوج.docx"
+  }
+]

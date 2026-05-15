@@ -1,0 +1,802 @@
+[
+  {
+    "id": 18801,
+    "source_ar": "المباني السكنية التجارية: الحد الأقصى (6) ريالات لكل متر مربع",
+    "target_en": "Commercial residential buildings: Maximum of 6 riyals per square meter",
+    "source_ar_norm": "المباني السكنية التجارية: الحد الاقصي (6) ريالات لكل متر مربع",
+    "target_en_norm": "commercial residential buildings: maximum of 6 riyals per square meter",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18802,
+    "source_ar": "المباني التجارية: الحد الأقصى (10) ريالات لكل متر مربع",
+    "target_en": "Commercial buildings: Maximum of 10 riyals per square meter",
+    "source_ar_norm": "المباني التجارية: الحد الاقصي (10) ريالات لكل متر مربع",
+    "target_en_norm": "commercial buildings: maximum of 10 riyals per square meter",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18803,
+    "source_ar": "تمديد تراخيص إنشاء المباني (مدة التمديد سنة واحدة)",
+    "target_en": "Extending Construction Permits (Extension Period of One Year)",
+    "source_ar_norm": "تمديد تراخيص انشاء المباني (مدة التمديد سنة واحدة)",
+    "target_en_norm": "extending construction permits (extension period of one year)",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18804,
+    "source_ar": "المباني السكنية: نفس الرسم المستحصل عند إصدار الترخيص",
+    "target_en": "Residential buildings: The same fee collected when issuing the permit",
+    "source_ar_norm": "المباني السكنية: نفس الرسم المستحصل عند اصدار الترخيص",
+    "target_en_norm": "residential buildings: the same fee collected when issuing the permit",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18805,
+    "source_ar": "المباني السكنية التجارية: نفس الرسم المستحصل عند إصدار الترخيص",
+    "target_en": "Commercial residential buildings: The same fee collected when issuing the permit",
+    "source_ar_norm": "المباني السكنية التجارية: نفس الرسم المستحصل عند اصدار الترخيص",
+    "target_en_norm": "commercial residential buildings: the same fee collected when issuing the permit",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18806,
+    "source_ar": "المباني التجارية: نفس الرسم المستحصل عند إصدار الترخيص",
+    "target_en": "Commercial buildings: The same fee collected when issuing the permit",
+    "source_ar_norm": "المباني التجارية: نفس الرسم المستحصل عند اصدار الترخيص",
+    "target_en_norm": "commercial buildings: the same fee collected when issuing the permit",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18807,
+    "source_ar": "الأسوار: نفس الرسم المستحصل عند إصدار الترخيص",
+    "target_en": "Walls: The same fee collected when issuing the permit",
+    "source_ar_norm": "الاسوار: نفس الرسم المستحصل عند اصدار الترخيص",
+    "target_en_norm": "walls: the same fee collected when issuing the permit",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18808,
+    "source_ar": "إصدار تراخيص ترميم المباني أو تمديدها",
+    "target_en": "Issuing or Extending Renovation Permits",
+    "source_ar_norm": "اصدار تراخيص ترميم المباني او تمديدها",
+    "target_en_norm": "issuing or extending renovation permits",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18809,
+    "source_ar": "إصدار تراخيص هدم المباني",
+    "target_en": "Issuing Demolition Permits",
+    "source_ar_norm": "اصدار تراخيص هدم المباني",
+    "target_en_norm": "issuing demolition permits",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18810,
+    "source_ar": "إصدار شهادة إتمام بناء",
+    "target_en": "Issuing Construction Completion Certificate",
+    "source_ar_norm": "اصدار شهادة اتمام بناء",
+    "target_en_norm": "issuing construction completion certificate",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18811,
+    "source_ar": "إصدار رخص الأنشطة التجارية",
+    "target_en": "Issuing Commercial Activities Licenses",
+    "source_ar_norm": "اصدار رخص الانشطة التجارية",
+    "target_en_norm": "issuing commercial activities licenses",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18812,
+    "source_ar": "محطات الوقود",
+    "target_en": "Gas stations",
+    "source_ar_norm": "محطات الوقود",
+    "target_en_norm": "gas stations",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18813,
+    "source_ar": "العربات المتجولة",
+    "target_en": "Mobile carts",
+    "source_ar_norm": "العربات المتجولة",
+    "target_en_norm": "mobile carts",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18814,
+    "source_ar": "الفنادق والشقق الفندقية والمنتجعات السكنية",
+    "target_en": "Hotels, aparthotels, and residential resorts",
+    "source_ar_norm": "الفنادق والشقق الفندقية والمنتجعات السكنية",
+    "target_en_norm": "hotels, aparthotels, and residential resorts",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18815,
+    "source_ar": "المحلات التجارية",
+    "target_en": "Shops",
+    "source_ar_norm": "المحلات التجارية",
+    "target_en_norm": "shops",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18816,
+    "source_ar": "محلات تغيير الزيوت والشحوم وغسيل السيارات",
+    "target_en": "Oil-Change and Car Wash Shops",
+    "source_ar_norm": "محلات تغيير الزيوت والشحوم وغسيل السيارات",
+    "target_en_norm": "oil-change and car wash shops",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18817,
+    "source_ar": "الورش المهنية",
+    "target_en": "Workshops",
+    "source_ar_norm": "الورش المهنية",
+    "target_en_norm": "workshops",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18818,
+    "source_ar": "قصور الأفراح والاستراحات",
+    "target_en": "Wedding halls and the like",
+    "source_ar_norm": "قصور الافراح والاستراحات",
+    "target_en_norm": "wedding halls and the like",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18819,
+    "source_ar": "المطابخ والمطاعم وما في حكمها",
+    "target_en": "Kitchens, restaurants, and the like",
+    "source_ar_norm": "المطابخ والمطاعم وما في حكمها",
+    "target_en_norm": "kitchens, restaurants, and the like",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18820,
+    "source_ar": "مدن الملاهي والترفيه",
+    "target_en": "Amusement and entertainment parks",
+    "source_ar_norm": "مدن الملاهي والترفيه",
+    "target_en_norm": "amusement and entertainment parks",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18821,
+    "source_ar": "الأنشطة الطبية",
+    "target_en": "Medical facilities",
+    "source_ar_norm": "الانشطة الطبية",
+    "target_en_norm": "medical facilities",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18822,
+    "source_ar": "الأنشطة الأخرى",
+    "target_en": "Other facilities",
+    "source_ar_norm": "الانشطة الاخري",
+    "target_en_norm": "other facilities",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18823,
+    "source_ar": "جمع النفايات التجارية",
+    "target_en": "Commercial Waste Collection",
+    "source_ar_norm": "جمع النفايات التجارية",
+    "target_en_norm": "commercial waste collection",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18824,
+    "source_ar": "جمع النفايات السكنية",
+    "target_en": "Residential Waste Collection",
+    "source_ar_norm": "جمع النفايات السكنية",
+    "target_en_norm": "residential waste collection",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18825,
+    "source_ar": "استهلاك كهرباء إلى قيمة 300 ريال شهريا",
+    "target_en": "Electricity consumption up to 300 riyals per month",
+    "source_ar_norm": "استهلاك كهرباء الي قيمة 300 ريال شهريا",
+    "target_en_norm": "electricity consumption up to 300 riyals per month",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18826,
+    "source_ar": "استهلاك كهرباء بقيمة 301 إلى 600 ريال شهريا",
+    "target_en": "Electricity consumption of 301 riyals to 600 riyals per month",
+    "source_ar_norm": "استهلاك كهرباء بقيمة 301 الي 600 ريال شهريا",
+    "target_en_norm": "electricity consumption of 301 riyals to 600 riyals per month",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18827,
+    "source_ar": "إصدار تراخيص حفر الشوارع",
+    "target_en": "Issuing Street Drilling Licenses",
+    "source_ar_norm": "اصدار تراخيص حفر الشوارع",
+    "target_en_norm": "issuing street drilling licenses",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18828,
+    "source_ar": "الفترة الأولى (فترة الترخيص بحسب العمق وازدحام الحركة المرورية والتوقيت)",
+    "target_en": "Initial period (license period is determined according to depth, traffic congestion, and timing)",
+    "source_ar_norm": "الفترة الاولي (فترة الترخيص بحسب العمق وازدحام الحركة المرورية والتوقيت)",
+    "target_en_norm": "initial period (license period is determined according to depth, traffic congestion, and timing)",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18829,
+    "source_ar": "*ويضع وزير الشؤون البلدية والقروية الضوابط اللازمة لتحديد مدة الترخيص",
+    "target_en": "* The Minister of Municipal and Rural Affairs shall set forth the necessary controls for determining the duration of the license.",
+    "source_ar_norm": "*ويضع وزير الشؤون البلدية والقروية الضوابط اللازمة لتحديد مدة الترخيص",
+    "target_en_norm": "* the minister of municipal and rural affairs shall set forth the necessary controls for determining the duration of the license.",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18830,
+    "source_ar": "الفترات التالية (نصف مدة الفترة السابقة)",
+    "target_en": "Additional periods (half the duration of the previous period)",
+    "source_ar_norm": "الفترات التالية (نصف مدة الفترة السابقة)",
+    "target_en_norm": "additional periods (half the duration of the previous period)",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18831,
+    "source_ar": "ضعف الرسم السابق",
+    "target_en": "Double the previous fee",
+    "source_ar_norm": "ضعف الرسم السابق",
+    "target_en_norm": "double the previous fee",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18832,
+    "source_ar": "إصدار التراخيص بتأسيس أو تشغيل أبراج الاتصالات",
+    "target_en": "Issuing a License to Establish or Operate Telecommunication Towers",
+    "source_ar_norm": "اصدار التراخيص بتاسيس او تشغيل ابراج الاتصالات",
+    "target_en_norm": "issuing a license to establish or operate telecommunication towers",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18833,
+    "source_ar": "تأسيس البرج",
+    "target_en": "Establishing a tower",
+    "source_ar_norm": "تاسيس البرج",
+    "target_en_norm": "establishing a tower",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18834,
+    "source_ar": "تشغيل البرج",
+    "target_en": "Operating a tower",
+    "source_ar_norm": "تشغيل البرج",
+    "target_en_norm": "operating a tower",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18835,
+    "source_ar": "إصدار التراخيص بتأسيس أو تشغيل الصراف",
+    "target_en": "Issuing a License to Install or Operate an ATM",
+    "source_ar_norm": "اصدار التراخيص بتاسيس او تشغيل الصراف",
+    "target_en_norm": "issuing a license to install or operate an atm",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18836,
+    "source_ar": "تأسيس الصراف",
+    "target_en": "Installing an ATM",
+    "source_ar_norm": "تاسيس الصراف",
+    "target_en_norm": "installing an atm",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18837,
+    "source_ar": "تشغيل الصراف",
+    "target_en": "Operating an ATM",
+    "source_ar_norm": "تشغيل الصراف",
+    "target_en_norm": "operating an atm",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18838,
+    "source_ar": "إصدار القرارات المساحية، وفرز الأراضي والعقارات والوحدات السكنية وتجزئتها",
+    "target_en": "Issuing cadastral decisions, and dividing and subdividing lands, real estate, and residential units",
+    "source_ar_norm": "اصدار القرارات المساحية، وفرز الاراضي والعقارات والوحدات السكنية وتجزئتها",
+    "target_en_norm": "issuing cadastral decisions, and dividing and subdividing lands, real estate, and residential units",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18839,
+    "source_ar": "اعتماد مخططات التطوير العقاري",
+    "target_en": "Approval of real estate development plans",
+    "source_ar_norm": "اعتماد مخططات التطوير العقاري",
+    "target_en_norm": "approval of real estate development plans",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18840,
+    "source_ar": "إشغال الفنادق والشقق المفروشة والمنتجعات السياحية",
+    "target_en": "Occupancy of hotels, furnished apartments, and tourist resorts",
+    "source_ar_norm": "اشغال الفنادق والشقق المفروشة والمنتجعات السياحية",
+    "target_en_norm": "occupancy of hotels, furnished apartments, and tourist resorts",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18841,
+    "source_ar": "إصدار تراخيص استخدام أملاك خاصة لإقامة فعاليات",
+    "target_en": "Issuing licenses to utilize private properties for holding events",
+    "source_ar_norm": "اصدار تراخيص استخدام املاك خاصة لاقامة فعاليات",
+    "target_en_norm": "issuing licenses to utilize private properties for holding events",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18842,
+    "source_ar": "إصدار تراخيص إشغال الأرصفة العامة والطرق",
+    "target_en": "Issuing licenses to utilize public sidewalks and roads",
+    "source_ar_norm": "اصدار تراخيص اشغال الارصفة العامة والطرق",
+    "target_en_norm": "issuing licenses to utilize public sidewalks and roads",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18843,
+    "source_ar": "القيام بالمعاينة أو الكشفية",
+    "target_en": "Inspection or site visit",
+    "source_ar_norm": "القيام بالمعاينة او الكشفية",
+    "target_en_norm": "inspection or site visit",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18844,
+    "source_ar": "إصدار الشهادات الصحية",
+    "target_en": "Issuing health certificates",
+    "source_ar_norm": "اصدار الشهادات الصحية",
+    "target_en_norm": "issuing health certificates",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18845,
+    "source_ar": "إصدار بدل فاقد لوثيقة بلدية",
+    "target_en": "Issuing a replacement for a municipality document",
+    "source_ar_norm": "اصدار بدل فاقد لوثيقة بلدية",
+    "target_en_norm": "issuing a replacement for a municipality document",
+    "file_name": "رسوم الخدمات البلدية.docx"
+  },
+  {
+    "id": 18846,
+    "source_ar": "سلم رواتب الوظائف الدبلوماسية",
+    "target_en": "Salary Scale of Diplomatic Posts",
+    "source_ar_norm": "سلم رواتب الوظائف الدبلوماسية",
+    "target_en_norm": "salary scale of diplomatic posts",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18847,
+    "source_ar": "إن مجلس الوزراء",
+    "target_en": "The Council of Ministers,",
+    "source_ar_norm": "ان مجلس الوزراء",
+    "target_en_norm": "the council of ministers,",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18848,
+    "source_ar": "بعد الاطلاع في جلسته المنعقدة برئاسة خادم الحرمين الشريفين الملك سلمان بن عبدالعزيز آل سعود، على المعاملة الواردة من الديوان الملكي برقم 25157 وتاريخ 7/4/1445هـ، المشتملة على برقية معالي وزير الموارد البشرية والتنمية الاجتماعية رقم 49285 وتاريخ 1/4/1445هـ، في شأن مشروع سلم رواتب الوظائف الدبلوماسية. وبعد الاطلاع على مشروع السلم المشار إليه.",
+    "target_en": "In its session held under the chairmanship of the Custodian of the Two Holy Mosques King Salman bin Abdulaziz Al Saud; upon perusal of Casefile No. 25157, dated 7/4/1445H, received from the Royal Court, which includes Telegram No. 49285, dated 1/4/1445H, of His Excellency the Minister of Human Resources and Social Development, regarding the draft Salary Scale of Diplomatic Posts; Upon perusal of the aforementioned draft Salary Scale;",
+    "source_ar_norm": "بعد الاطلاع في جلسته المنعقدة برئاسة خادم الحرمين الشريفين الملك سلمان بن عبدالعزيز ال سعود، علي المعاملة الواردة من الديوان الملكي برقم 25157 وتاريخ 7/4/1445ه، المشتملة علي برقية معالي وزير الموارد البشرية والتنمية الاجتماعية رقم 49285 وتاريخ 1/4/1445ه، في شان مشروع سلم رواتب الوظائف الدبلوماسية. وبعد الاطلاع علي مشروع السلم المشار اليه.",
+    "target_en_norm": "in its session held under the chairmanship of the custodian of the two holy mosques king salman bin abdulaziz al saud; upon perusal of casefile no. 25157, dated 7/4/1445h, received from the royal court, which includes telegram no. 49285, dated 1/4/1445h, of his excellency the minister of human resources and social development, regarding the draft salary scale of diplomatic posts; upon perusal of the aforementioned draft salary scale;",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18849,
+    "source_ar": "وبعد الاطلاع على المادة (19) من نظام مجلس الوزراء، الصادر بالأمر الملكي رقم (أ/13) وتاريخ 3/3/1414هـ.",
+    "target_en": "Upon perusal of Article 19 of the Law of the Council of Ministers, issued by Royal Order No. A/13, dated 3/3/1414H;",
+    "source_ar_norm": "وبعد الاطلاع علي المادة (19) من نظام مجلس الوزراء، الصادر بالامر الملكي رقم (ا/13) وتاريخ 3/3/1414ه.",
+    "target_en_norm": "upon perusal of article 19 of the law of the council of ministers, issued by royal order no. a/13, dated 3/3/1414h;",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18850,
+    "source_ar": "وبعد الاطلاع على قرار مجلس الوزراء رقم (258) وتاريخ 1/9/1429هـ.",
+    "target_en": "Upon perusal of Council of Ministers Resolution No. 258, dated 1/9/1429H;",
+    "source_ar_norm": "وبعد الاطلاع علي قرار مجلس الوزراء رقم (258) وتاريخ 1/9/1429ه.",
+    "target_en_norm": "upon perusal of council of ministers resolution no. 258, dated 1/9/1429h;",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18851,
+    "source_ar": "وبعد الاطلاع على توصية مجلس الشؤون الاقتصادية والتنمية رقم (9-9/44/ت) وتاريخ 8/9/1444هـ.",
+    "target_en": "Upon perusal of Recommendation No. 9-9/44/T, dated 8/9/1444H, of the Council of Economic and Development Affairs;",
+    "source_ar_norm": "وبعد الاطلاع علي توصية مجلس الشؤون الاقتصادية والتنمية رقم (9-9/44/ت) وتاريخ 8/9/1444ه.",
+    "target_en_norm": "upon perusal of recommendation no. 9-9/44/t, dated 8/9/1444h, of the council of economic and development affairs;",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18852,
+    "source_ar": "وبعد الاطلاع على محضر لجنة البت في اللوائح التنفيذية لنظام الخدمة المدنية رقم (18/ب/1445) وتاريخ 13/3/1445هـ، وعلى قرار وزير الموارد البشرية والتنمية الاجتماعية رقم (48564) وتاريخ 30/3/1445هـ، في شأن الموافقة على لائحة الوظائف الدبلوماسية.",
+    "target_en": "Upon perusal of Minutes No. 18/B/1445, dated 13/3/1445H, of the Determination Committee for the Implementing Regulations of the Civil Service Law, and Decision No. 48564, dated 30/3/1445H, of the Minister of Human Resources and Social Development, regarding the approval of the Regulations of Diplomatic Posts;",
+    "source_ar_norm": "وبعد الاطلاع علي محضر لجنة البت في اللوائح التنفيذية لنظام الخدمة المدنية رقم (18/ب/1445) وتاريخ 13/3/1445ه، وعلي قرار وزير الموارد البشرية والتنمية الاجتماعية رقم (48564) وتاريخ 30/3/1445ه، في شان الموافقة علي لائحة الوظائف الدبلوماسية.",
+    "target_en_norm": "upon perusal of minutes no. 18/b/1445, dated 13/3/1445h, of the determination committee for the implementing regulations of the civil service law, and decision no. 48564, dated 30/3/1445h, of the minister of human resources and social development, regarding the approval of the regulations of diplomatic posts;",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18853,
+    "source_ar": "وبعد الاطلاع على المحضر رقم (84) وتاريخ 1/5/1445هـ، والمذكرة رقم (1919) وتاريخ 29/5/1445هـ، المعدين في هيئة الخبراء بمجلس الوزراء.",
+    "target_en": "Upon perusal of Minutes No. 84, dated 1/5/1445H, and Memorandum No. 1919, dated 29/5/1445H, prepared by the Bureau of Experts at the Council of Ministers;",
+    "source_ar_norm": "وبعد الاطلاع علي المحضر رقم (84) وتاريخ 1/5/1445ه، والمذكرة رقم (1919) وتاريخ 29/5/1445ه، المعدين في هيئة الخبراء بمجلس الوزراء.",
+    "target_en_norm": "upon perusal of minutes no. 84, dated 1/5/1445h, and memorandum no. 1919, dated 29/5/1445h, prepared by the bureau of experts at the council of ministers;",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18854,
+    "source_ar": "وبعد الاطلاع على المحضر المعد في مجلس الشؤون الاقتصادية والتنمية رقم (925/45/م) وتاريخ 14/5/1445هـ.",
+    "target_en": "Upon perusal of Minutes No. 925/45/M, dated 14/5/1445H, prepared in the Council of Economic and Development Affairs; and",
+    "source_ar_norm": "وبعد الاطلاع علي المحضر المعد في مجلس الشؤون الاقتصادية والتنمية رقم (925/45/م) وتاريخ 14/5/1445ه.",
+    "target_en_norm": "upon perusal of minutes no. 925/45/m, dated 14/5/1445h, prepared in the council of economic and development affairs; and",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18855,
+    "source_ar": "وبعد الاطلاع على توصية اللجنة العامة لمجلس الوزراء رقم (6008) وتاريخ 7/6/1445هـ.",
+    "target_en": "Upon perusal of Recommendation No. 6008, dated 7/6/1445H, of the General Committee of the Council of Ministers;",
+    "source_ar_norm": "وبعد الاطلاع علي توصية اللجنة العامة لمجلس الوزراء رقم (6008) وتاريخ 7/6/1445ه.",
+    "target_en_norm": "upon perusal of recommendation no. 6008, dated 7/6/1445h, of the general committee of the council of ministers;",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18856,
+    "source_ar": "يقرر ما يلي:",
+    "target_en": "Resolves as follows:",
+    "source_ar_norm": "يقرر ما يلي:",
+    "target_en_norm": "resolves as follows:",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18857,
+    "source_ar": "أولاً: الموافقة على سلم رواتب الوظائف الدبلوماسية، بالصيغة المرافقة.",
+    "target_en": "First: Approval of the Salary Scale of Diplomatic Posts as per the attached form.",
+    "source_ar_norm": "اولا: الموافقة علي سلم رواتب الوظائف الدبلوماسية، بالصيغة المرافقة.",
+    "target_en_norm": "first: approval of the salary scale of diplomatic posts as per the attached form.",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18858,
+    "source_ar": "ثانياً: يعمل بالسلم المشار إليه في البند (أولاً) من هذا القرار من تاريخ نفاذ لائحة الوظائف الدبلوماسية وجداول البدلات والمزايا لأعضاء السلك الدبلوماسي، الصادر بالقرار الوزاري رقم (48564) وتاريخ 30/3/1445هـ.",
+    "target_en": "Second: The scale referred to in Clause (First) of this Resolution shall be implemented from the effective date of the Regulations of Diplomatic Posts and the Schedules of Allowances and Benefits for Members of the Diplomatic Corps, issued by Ministerial Decision No. 48564, dated 30/3/1445H.",
+    "source_ar_norm": "ثانيا: يعمل بالسلم المشار اليه في البند (اولا) من هذا القرار من تاريخ نفاذ لائحة الوظائف الدبلوماسية وجداول البدلات والمزايا لاعضاء السلك الدبلوماسي، الصادر بالقرار الوزاري رقم (48564) وتاريخ 30/3/1445ه.",
+    "target_en_norm": "second: the scale referred to in clause (first) of this resolution shall be implemented from the effective date of the regulations of diplomatic posts and the schedules of allowances and benefits for members of the diplomatic corps, issued by ministerial decision no. 48564, dated 30/3/1445h.",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18859,
+    "source_ar": "ثالثاً: يستمر العمل بقرار مجلس الخدمة المدنية (الملغي) رقم (1/1787) وتاريخ 16/1/1435هـ، المتضمن صرف البدلات والمزايا المالية التي تضمنتها لائحة الوظائف الدبلوماسية – الصادرة بقرار مجلس الخدمة المدنية (الملغى) رقم (1/1182) وتاريخ 19/6/1427هـ - لأعضاء البعثات الذين يعملون في الخارج من موظفي الجهات الحكومية (غير الدبلوماسيين)، وذلك إلى حين إعداد الترتيبات الدائمة لهذه الفئة من خلال لجنة تشكل من وزارات (الموارد البشرية والتنمية الاجتماعية، والمالية، والخارجية) تتولى اقتراح البدلات التي من الممكن تطبيقها على الموظفين غير الدبلوماسيين الذين يخضعون للسلالم الأخرى واحتساب أثرها المالي، والنظر في مدى إمكانية تضمين البدلات والمزايا المالية المقترحة في لائحة الملحقين الفنيين بالبعثات الدبلوماسية السعودية الصادرة بقرار مجلس الوزراء رقم (40) وتاريخ 24/3/1413هـ، على أن تنهي اللجنة أعمالها خلال مدة لا تتجاوز (120) يوماً من تاريخ الموافقة على ذلك، ولوزير الموارد البشرية والتنمية الاجتماعية، عند الحاجة، تمديد تلك المدة لمدة مماثلة، والرفع عما يتطلب استكمال إجراءات نظامية في شأنه.",
+    "target_en": "Third: The Civil Service Council Resolution (repealed) No. 1787/1, dated 16/1/1435H, which includes the disbursement of allowances and financial benefits included in the Regulations of Diplomatic Posts, issued by the Civil Service Council Resolution (repealed) No. 1182/1, dated 19/6/1427H, shall remain in effect for non-diplomat mission members from government agencies who work abroad, until permanent arrangements are set for this category by a committee formed from representatives from the Ministry of Human Resources and Social Development, the Ministry of Finance, and the Ministry of Foreign Affairs to propose allowances that can be applied to non-diplomatic employees who are subject to other scales and calculate their financial impact, and to consider the possibility of including the proposed allowances and financial benefits in the Regulations for Technical Attachés in Saudi Diplomatic Missions, issued by Council of Ministers Resolution No. 40, dated 24/3/1413H, provided that the committee shall complete its work within a period not exceeding 120 days from the date of approval thereof. The Minister of Human Resources and Social Development may, when necessary, extend such period for a similar period, and submit any matter requiring completion of statutory procedures.",
+    "source_ar_norm": "ثالثا: يستمر العمل بقرار مجلس الخدمة المدنية (الملغي) رقم (1/1787) وتاريخ 16/1/1435ه، المتضمن صرف البدلات والمزايا المالية التي تضمنتها لائحة الوظائف الدبلوماسية – الصادرة بقرار مجلس الخدمة المدنية (الملغي) رقم (1/1182) وتاريخ 19/6/1427ه - لاعضاء البعثات الذين يعملون في الخارج من موظفي الجهات الحكومية (غير الدبلوماسيين)، وذلك الي حين اعداد الترتيبات الدائمة لهذه الفئة من خلال لجنة تشكل من وزارات (الموارد البشرية والتنمية الاجتماعية، والمالية، والخارجية) تتولي اقتراح البدلات التي من الممكن تطبيقها علي الموظفين غير الدبلوماسيين الذين يخضعون للسلالم الاخري واحتساب اثرها المالي، والنظر في مدي امكانية تضمين البدلات والمزايا المالية المقترحة في لائحة الملحقين الفنيين بالبعثات الدبلوماسية السعودية الصادرة بقرار مجلس الوزراء رقم (40) وتاريخ 24/3/1413ه، علي ان تنهي اللجنة اعمالها خلال مدة لا تتجاوز (120) يوما من تاريخ الموافقة علي ذلك، ولوزير الموارد البشرية والتنمية الاجتماعية، عند الحاجة، تمديد تلك المدة لمدة مماثلة، والرفع عما يتطلب استكمال اجراءات نظامية في شانه.",
+    "target_en_norm": "third: the civil service council resolution (repealed) no. 1787/1, dated 16/1/1435h, which includes the disbursement of allowances and financial benefits included in the regulations of diplomatic posts, issued by the civil service council resolution (repealed) no. 1182/1, dated 19/6/1427h, shall remain in effect for non-diplomat mission members from government agencies who work abroad, until permanent arrangements are set for this category by a committee formed from representatives from the ministry of human resources and social development, the ministry of finance, and the ministry of foreign affairs to propose allowances that can be applied to non-diplomatic employees who are subject to other scales and calculate their financial impact, and to consider the possibility of including the proposed allowances and financial benefits in the regulations for technical attachés in saudi diplomatic missions, issued by council of ministers resolution no. 40, dated 24/3/1413h, provided that the committee shall complete its work within a period not exceeding 120 days from the date of approval thereof. the minister of human resources and social development may, when necessary, extend such period for a similar period, and submit any matter requiring completion of statutory procedures.",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18860,
+    "source_ar": "سلمان بن عبدالعزيز آل سعود",
+    "target_en": "(Signed) Salman bin Abdulaziz Al Saud",
+    "source_ar_norm": "سلمان بن عبدالعزيز ال سعود",
+    "target_en_norm": "(signed) salman bin abdulaziz al saud",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18861,
+    "source_ar": "سلم رواتب الوظائف الدبلوماسية",
+    "target_en": "Salary Scale of Diplomatic Posts",
+    "source_ar_norm": "سلم رواتب الوظائف الدبلوماسية",
+    "target_en_norm": "salary scale of diplomatic posts",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18862,
+    "source_ar": "الراتب الأساسي (ريـال سعودي)",
+    "target_en": "Basic Salary (in Saudi riyals)",
+    "source_ar_norm": "الراتب الاساسي (ريال سعودي)",
+    "target_en_norm": "basic salary (in saudi riyals)",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18863,
+    "source_ar": "الوظيفة: سفير",
+    "target_en": "Post: Ambassador",
+    "source_ar_norm": "الوظيفة: سفير",
+    "target_en_norm": "post: ambassador",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18864,
+    "source_ar": "الحد الأدنى: 28,930",
+    "target_en": "Minimum Amount: 28,930",
+    "source_ar_norm": "الحد الادني: 28,930",
+    "target_en_norm": "minimum amount: 28,930",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18865,
+    "source_ar": "القيمة الوسطى: 40,500",
+    "target_en": "Mean: 40,500",
+    "source_ar_norm": "القيمة الوسطي: 40,500",
+    "target_en_norm": "mean: 40,500",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18866,
+    "source_ar": "الحد الأعلى: 52,070",
+    "target_en": "Maximum Amount: 52,070",
+    "source_ar_norm": "الحد الاعلي: 52,070",
+    "target_en_norm": "maximum amount: 52,070",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18867,
+    "source_ar": "العلاوة السنوية: 930",
+    "target_en": "Annual Raise: 930",
+    "source_ar_norm": "العلاوة السنوية: 930",
+    "target_en_norm": "annual raise: 930",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18868,
+    "source_ar": "الوظيفة: وزير مفوض",
+    "target_en": "Post: Minister Plenipotentiary",
+    "source_ar_norm": "الوظيفة: وزير مفوض",
+    "target_en_norm": "post: minister plenipotentiary",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18869,
+    "source_ar": "الحد الأدنى: 23,140",
+    "target_en": "Minimum Amount: 23,140",
+    "source_ar_norm": "الحد الادني: 23,140",
+    "target_en_norm": "minimum amount: 23,140",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18870,
+    "source_ar": "القيمة الوسطى: 32,400",
+    "target_en": "Mean: 32,400",
+    "source_ar_norm": "القيمة الوسطي: 32,400",
+    "target_en_norm": "mean: 32,400",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18871,
+    "source_ar": "الحد الأعلى: 41,650",
+    "target_en": "Maximum Amount: 41,650",
+    "source_ar_norm": "الحد الاعلي: 41,650",
+    "target_en_norm": "maximum amount: 41,650",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18872,
+    "source_ar": "العلاوة السنوية: 705",
+    "target_en": "Annual Raise: 705",
+    "source_ar_norm": "العلاوة السنوية: 705",
+    "target_en_norm": "annual raise: 705",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18873,
+    "source_ar": "الوظيفة: مستشار",
+    "target_en": "Post: Counsellor",
+    "source_ar_norm": "الوظيفة: مستشار",
+    "target_en_norm": "post: counsellor",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18874,
+    "source_ar": "الحد الأدنى: 20,735",
+    "target_en": "Minimum Amount: 20,735",
+    "source_ar_norm": "الحد الادني: 20,735",
+    "target_en_norm": "minimum amount: 20,735",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18875,
+    "source_ar": "القيمة الوسطى: 25,920",
+    "target_en": "Mean: 25,920",
+    "source_ar_norm": "القيمة الوسطي: 25,920",
+    "target_en_norm": "mean: 25,920",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18876,
+    "source_ar": "الحد الأعلى: 31,100",
+    "target_en": "Maximum Amount: 31,100",
+    "source_ar_norm": "الحد الاعلي: 31,100",
+    "target_en_norm": "maximum amount: 31,100",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18877,
+    "source_ar": "العلاوة السنوية: 590",
+    "target_en": "Annual Raise: 590",
+    "source_ar_norm": "العلاوة السنوية: 590",
+    "target_en_norm": "annual raise: 590",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18878,
+    "source_ar": "الوظيفة: سكرتير أول",
+    "target_en": "Post: First Secretary",
+    "source_ar_norm": "الوظيفة: سكرتير اول",
+    "target_en_norm": "post: first secretary",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18879,
+    "source_ar": "الحد الأدنى: 16,590",
+    "target_en": "Minimum Amount: 16,590",
+    "source_ar_norm": "الحد الادني: 16,590",
+    "target_en_norm": "minimum amount: 16,590",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18880,
+    "source_ar": "القيمة الوسطى: 20,735",
+    "target_en": "Mean: 20,735",
+    "source_ar_norm": "القيمة الوسطي: 20,735",
+    "target_en_norm": "mean: 20,735",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18881,
+    "source_ar": "الحد الأعلى: 24,885",
+    "target_en": "Maximum Amount: 24,885",
+    "source_ar_norm": "الحد الاعلي: 24,885",
+    "target_en_norm": "maximum amount: 24,885",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18882,
+    "source_ar": "العلاوة السنوية: 520",
+    "target_en": "Annual Raise: 520",
+    "source_ar_norm": "العلاوة السنوية: 520",
+    "target_en_norm": "annual raise: 520",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18883,
+    "source_ar": "الوظيفة: سكرتير ثاني",
+    "target_en": "Post: Second Secretary",
+    "source_ar_norm": "الوظيفة: سكرتير ثاني",
+    "target_en_norm": "post: second secretary",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18884,
+    "source_ar": "الحد الأدنى: 13,825",
+    "target_en": "Minimum Amount: 13,825",
+    "source_ar_norm": "الحد الادني: 13,825",
+    "target_en_norm": "minimum amount: 13,825",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18885,
+    "source_ar": "القيمة الوسطى: 17,280",
+    "target_en": "Mean: 17,280",
+    "source_ar_norm": "القيمة الوسطي: 17,280",
+    "target_en_norm": "mean: 17,280",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18886,
+    "source_ar": "الحد الأعلى: 20,735",
+    "target_en": "Maximum Amount: 20,735",
+    "source_ar_norm": "الحد الاعلي: 20,735",
+    "target_en_norm": "maximum amount: 20,735",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18887,
+    "source_ar": "العلاوة السنوية: 440",
+    "target_en": "Annual Raise: 440",
+    "source_ar_norm": "العلاوة السنوية: 440",
+    "target_en_norm": "annual raise: 440",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18888,
+    "source_ar": "الوظيفة: سكرتير ثالث",
+    "target_en": "Post: Third Secretary",
+    "source_ar_norm": "الوظيفة: سكرتير ثالث",
+    "target_en_norm": "post: third secretary",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18889,
+    "source_ar": "الحد الأدنى: 11,520",
+    "target_en": "Minimum Amount: 11,520",
+    "source_ar_norm": "الحد الادني: 11,520",
+    "target_en_norm": "minimum amount: 11,520",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18890,
+    "source_ar": "القيمة الوسطى: 14,400",
+    "target_en": "Mean: 14,400",
+    "source_ar_norm": "القيمة الوسطي: 14,400",
+    "target_en_norm": "mean: 14,400",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18891,
+    "source_ar": "الحد الأعلى: 17,280",
+    "target_en": "Maximum Amount: 17,280",
+    "source_ar_norm": "الحد الاعلي: 17,280",
+    "target_en_norm": "maximum amount: 17,280",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18892,
+    "source_ar": "العلاوة السنوية: 380",
+    "target_en": "Annual Raise: 380",
+    "source_ar_norm": "العلاوة السنوية: 380",
+    "target_en_norm": "annual raise: 380",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18893,
+    "source_ar": "الوظيفة: ملحق",
+    "target_en": "Post: Attaché",
+    "source_ar_norm": "الوظيفة: ملحق",
+    "target_en_norm": "post: attaché",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18894,
+    "source_ar": "الحد الأدنى: 9600",
+    "target_en": "Minimum Amount: 9600",
+    "source_ar_norm": "الحد الادني: 9600",
+    "target_en_norm": "minimum amount: 9600",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18895,
+    "source_ar": "القيمة الوسطى: 12,000",
+    "target_en": "Mean: 12,000",
+    "source_ar_norm": "القيمة الوسطي: 12,000",
+    "target_en_norm": "mean: 12,000",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18896,
+    "source_ar": "الحد الأعلى: 14,400",
+    "target_en": "Maximum Amount: 14,400",
+    "source_ar_norm": "الحد الاعلي: 14,400",
+    "target_en_norm": "maximum amount: 14,400",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18897,
+    "source_ar": "العلاوة السنوية: 315",
+    "target_en": "Annual Raise: 315",
+    "source_ar_norm": "العلاوة السنوية: 315",
+    "target_en_norm": "annual raise: 315",
+    "file_name": "سلم رواتب الوظائف الدبلوماسية.docx"
+  },
+  {
+    "id": 18898,
+    "source_ar": "ضوابط إسناد استيراد وبيع الشعير إلى القطاع الخاص",
+    "target_en": "Controls for Assigning the Import and Sale of Barley to the Private Sector",
+    "source_ar_norm": "ضوابط اسناد استيراد وبيع الشعير الي القطاع الخاص",
+    "target_en_norm": "controls for assigning the import and sale of barley to the private sector",
+    "file_name": "ضوابط إسناد استيراد وبيع الشعير إلى القطاع الخاص.docx"
+  },
+  {
+    "id": 18899,
+    "source_ar": "بعد الاطلاع على المعاملة الواردة من الديوان الملكي برقم ٦٧٨٤٢ وتاريخ ١٤٤١/١٢/٢١ هـ، المشتملة على برقية معالي وزير البيئة والمياه والزراعة رئيس مجلس إدارة المؤسسة العامة للحبوب رقم ١٤٤١/١/٥٧٨٢٩٤ وتاريخ ٦١/١١/١٤٤١هـ، وبرقية معالي وزير المالية رقم ١١٦٦٢ وتاريخ ١٤٤١/١٢/٣ هـ، في شأن مشروع ضوابط إسناد استيراد وبيع الشعير إلى القطاع الخاص.",
+    "target_en": "Upon perusal of Casefile No. 67842, dated 21/12/1441H, received from the Royal Court, which includes Telegram No. 578294/1/1441, dated 16/11/1441H of the Minister of Environment, Water and Agriculture, Chairman of the Saudi Grains Organization (SAGO), and Telegram No. 11662, dated 3/12/1441H, of the Minister of Finance on the draft controls for assigning the import and sale of barley to the private sector;",
+    "source_ar_norm": "بعد الاطلاع علي المعاملة الواردة من الديوان الملكي برقم ٦٧٨٤٢ وتاريخ ١٤٤١/١٢/٢١ ه، المشتملة علي برقية معالي وزير البيئة والمياه والزراعة رئيس مجلس ادارة المؤسسة العامة للحبوب رقم ١٤٤١/١/٥٧٨٢٩٤ وتاريخ ٦١/١١/١٤٤١ه، وبرقية معالي وزير المالية رقم ١١٦٦٢ وتاريخ ١٤٤١/١٢/٣ ه، في شان مشروع ضوابط اسناد استيراد وبيع الشعير الي القطاع الخاص.",
+    "target_en_norm": "upon perusal of casefile no. 67842, dated 21/12/1441h, received from the royal court, which includes telegram no. 578294/1/1441, dated 16/11/1441h of the minister of environment, water and agriculture, chairman of the saudi grains organization (sago), and telegram no. 11662, dated 3/12/1441h, of the minister of finance on the draft controls for assigning the import and sale of barley to the private sector;",
+    "file_name": "ضوابط إسناد استيراد وبيع الشعير إلى القطاع الخاص.docx"
+  },
+  {
+    "id": 18900,
+    "source_ar": "وبعد الاطلاع على مشروع الضوابط المشار إليه.",
+    "target_en": "Upon perusal of the draft controls referred to above;",
+    "source_ar_norm": "وبعد الاطلاع علي مشروع الضوابط المشار اليه.",
+    "target_en_norm": "upon perusal of the draft controls referred to above;",
+    "file_name": "ضوابط إسناد استيراد وبيع الشعير إلى القطاع الخاص.docx"
+  }
+]

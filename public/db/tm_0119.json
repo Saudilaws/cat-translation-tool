@@ -1,0 +1,802 @@
+[
+  {
+    "id": 11801,
+    "source_ar": "المعاش التقاعدي: مبلغ يُصرف شهريًّا لمقدم الطلب بصفته المستحق المباشر بناءً على نظام التقاعد المدني أو نظام التقاعد العسكري أو نظام التأمينات الاجتماعية.",
+    "target_en": "Pension: A monthly amount paid to the applicant who is the principal recipient of such amount under the Civil Pension Law, the Military Pension Law, or the Social Insurance Law.",
+    "source_ar_norm": "المعاش التقاعدي: مبلغ يصرف شهريا لمقدم الطلب بصفته المستحق المباشر بناء علي نظام التقاعد المدني او نظام التقاعد العسكري او نظام التامينات الاجتماعية.",
+    "target_en_norm": "pension: a monthly amount paid to the applicant who is the principal recipient of such amount under the civil pension law, the military pension law, or the social insurance law.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11802,
+    "source_ar": "الدخل الشهري: مجموع المبالغ المالية التي حصل عليها مقدم الطلب وأسرته خلال الشهر الذي يسبق طلب الحصول على الإعانة، من رواتب أو عوائد تجارية أو غيرها، وفقًا لما تحدده اللائحة.",
+    "target_en": "Monthly Income: The total amounts of money received by the applicant and his family during the month preceding application for the allowance, including salaries, business revenues, or the like, subject to the Regulations.",
+    "source_ar_norm": "الدخل الشهري: مجموع المبالغ المالية التي حصل عليها مقدم الطلب واسرته خلال الشهر الذي يسبق طلب الحصول علي الاعانة، من رواتب او عوائد تجارية او غيرها، وفقا لما تحدده اللائحة.",
+    "target_en_norm": "monthly income: the total amounts of money received by the applicant and his family during the month preceding application for the allowance, including salaries, business revenues, or the like, subject to the regulations.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11803,
+    "source_ar": "الثروة: الأصول أو الأموال لمقدم الطلب وأسرته القابلة للتقويم، وفقًا لما تحدده اللائحة.",
+    "target_en": "Wealth: Assets and property of the applicant and his family that may be valuated, subject to the Regulations.",
+    "source_ar_norm": "الثروة: الاصول او الاموال لمقدم الطلب واسرته القابلة للتقويم، وفقا لما تحدده اللائحة.",
+    "target_en_norm": "wealth: assets and property of the applicant and his family that may be valuated, subject to the regulations.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11804,
+    "source_ar": "المفوض من الصندوق: أي جهة حكومية أو خاصة يفوضها الصندوق لأداء بعض المهمات والمسؤوليات المنوطة به لتنفيذ أحكام التنظيم أو اللائحة.",
+    "target_en": "HRDF Designee: Any government or private agency delegated by the HRDF to carry out some of the tasks and responsibilities assigned thereto for the implementation of the provisions of this Statute and the Regulations.",
+    "source_ar_norm": "المفوض من الصندوق: اي جهة حكومية او خاصة يفوضها الصندوق لاداء بعض المهمات والمسؤوليات المنوطة به لتنفيذ احكام التنظيم او اللائحة.",
+    "target_en_norm": "hrdf designee: any government or private agency delegated by the hrdf to carry out some of the tasks and responsibilities assigned thereto for the implementation of the provisions of this statute and the regulations.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11805,
+    "source_ar": "التعليم: التعليم في أي من مؤسسات التعليم العام أو التعليم العالي، وفقًا لما تحدده اللائحة.",
+    "target_en": "Education: Enrollment in general or higher education institutions, subject to the Regulations.",
+    "source_ar_norm": "التعليم: التعليم في اي من مؤسسات التعليم العام او التعليم العالي، وفقا لما تحدده اللائحة.",
+    "target_en_norm": "education: enrollment in general or higher education institutions, subject to the regulations.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11806,
+    "source_ar": "التدريب: التدريب التقني أو المهني الذي تتجاوز مدته (ثلاثة) أشهر.",
+    "target_en": "Training: Technical or vocational training for a period exceeding three months.",
+    "source_ar_norm": "التدريب: التدريب التقني او المهني الذي تتجاوز مدته (ثلاثة) اشهر.",
+    "target_en_norm": "training: technical or vocational training for a period exceeding three months.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11807,
+    "source_ar": "التدريب على رأس العمل: المهمات أو الأعمال التي يطلب فيها الصندوق أو من يفوضه من المؤهل أو المستفيد القيام بها، والتي تهدف إلى تنمية مهاراته وزيادة فرص حصوله على عمل.",
+    "target_en": "On-the-Job Training: The tasks and duties that the HRDF or its designee requires the eligible applicant or the beneficiary to perform in order to enhance his skills and increase his employment opportunities.",
+    "source_ar_norm": "التدريب علي راس العمل: المهمات او الاعمال التي يطلب فيها الصندوق او من يفوضه من المؤهل او المستفيد القيام بها، والتي تهدف الي تنمية مهاراته وزيادة فرص حصوله علي عمل.",
+    "target_en_norm": "on-the-job training: the tasks and duties that the hrdf or its designee requires the eligible applicant or the beneficiary to perform in order to enhance his skills and increase his employment opportunities.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11808,
+    "source_ar": "المنصة الإلكترونية: موقع أو تطبيق إلكتروني ينشئه الصندوق وفقًا للتنظيم، أو أية موقع أو تطبيق إلكتروني آخر يحدده الصندوق.",
+    "target_en": "E-platform: A website or an electronic application created by the HRDF in accordance with this Statute, or any other website or electronic application designated by the HRDF.",
+    "source_ar_norm": "المنصة الالكترونية: موقع او تطبيق الكتروني ينشئه الصندوق وفقا للتنظيم، او اية موقع او تطبيق الكتروني اخر يحدده الصندوق.",
+    "target_en_norm": "e-platform: a website or an electronic application created by the hrdf in accordance with this statute, or any other website or electronic application designated by the hrdf.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11809,
+    "source_ar": "التدريب الإلكتروني: المهمات أو الأعمال التي يطلب فيها الصندوق أو من يفوضه من المؤهل أو المستفيد القيام بها من خلال المنصة الإلكترونية أو غيرها من وسائل التقنية الحديثة، والتي تهدف إلى تنمية مهاراته وزيادة فرص حصوله على عمل.",
+    "target_en": "E-training: The tasks and duties that the HRDF or its designee requires the eligible applicant or the beneficiary to perform through the e-platform or any other means of modern technology in order to enhance his skills and increase his employment opportunities.",
+    "source_ar_norm": "التدريب الالكتروني: المهمات او الاعمال التي يطلب فيها الصندوق او من يفوضه من المؤهل او المستفيد القيام بها من خلال المنصة الالكترونية او غيرها من وسائل التقنية الحديثة، والتي تهدف الي تنمية مهاراته وزيادة فرص حصوله علي عمل.",
+    "target_en_norm": "e-training: the tasks and duties that the hrdf or its designee requires the eligible applicant or the beneficiary to perform through the e-platform or any other means of modern technology in order to enhance his skills and increase his employment opportunities.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11810,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11811,
+    "source_ar": "يهدف التنظيم إلى الآتي:",
+    "target_en": "This Statute aims to:",
+    "source_ar_norm": "يهدف التنظيم الي الاتي:",
+    "target_en_norm": "this statute aims to:",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11812,
+    "source_ar": "تنظيم صرف الإعانة وتحديد الأشخاص الذين يحق لهم الحصول عليها.",
+    "target_en": "Regulate the payment of the allowance and determine eligibility therefor.",
+    "source_ar_norm": "تنظيم صرف الاعانة وتحديد الاشخاص الذين يحق لهم الحصول عليها.",
+    "target_en_norm": "regulate the payment of the allowance and determine eligibility therefor.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11813,
+    "source_ar": "العمل على دعم الباحثين عن عمل ومساعدتهم في الحصول عليه.",
+    "target_en": "Support job seekers and assist them to obtain employment.",
+    "source_ar_norm": "العمل علي دعم الباحثين عن عمل ومساعدتهم في الحصول عليه.",
+    "target_en_norm": "support job seekers and assist them to obtain employment.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11814,
+    "source_ar": "تحفيز الباحثين عن عمل لدخول سوق العمل.",
+    "target_en": "Motivate job seekers to join the job market.",
+    "source_ar_norm": "تحفيز الباحثين عن عمل لدخول سوق العمل.",
+    "target_en_norm": "motivate job seekers to join the job market.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11815,
+    "source_ar": "تحديد حقوق الأطراف ذات العلاقة (الصندوق والباحثين عن عمل) ومسؤولياتهم والتزاماتهم.",
+    "target_en": "Determine the rights, responsibilities, and obligations of relevant parties (the HRDF and job seekers).",
+    "source_ar_norm": "تحديد حقوق الاطراف ذات العلاقة (الصندوق والباحثين عن عمل) ومسؤولياتهم والتزاماتهم.",
+    "target_en_norm": "determine the rights, responsibilities, and obligations of relevant parties (the hrdf and job seekers).",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11816,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11817,
+    "source_ar": "يكون صرف مبلغ الإعانة لمدة (خمسة عشر) شهرًا، بحسب الآتي:",
+    "target_en": "The allowance shall be paid for a period of 15 months, as follows:",
+    "source_ar_norm": "يكون صرف مبلغ الاعانة لمدة (خمسة عشر) شهرا، بحسب الاتي:",
+    "target_en_norm": "the allowance shall be paid for a period of 15 months, as follows:",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11818,
+    "source_ar": "(ألفا) ريال شهريًّا لمدة (أربعة) أشهر، يبدأ احتسابها من تاريخ بداية صرف الإعانة.",
+    "target_en": "Two thousand riyals per month for a period of four months beginning from the date of the first allowance payment.",
+    "source_ar_norm": "(الفا) ريال شهريا لمدة (اربعة) اشهر، يبدا احتسابها من تاريخ بداية صرف الاعانة.",
+    "target_en_norm": "two thousand riyals per month for a period of four months beginning from the date of the first allowance payment.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11819,
+    "source_ar": "(ألف وخمسمائة) ريال شهريًّا لمدة (أربعة) أشهر، يبدأ احتسابها من تاريخ انتهاء الفترة المنصوص عليها في الفقرة (1) من هذه المادة.",
+    "target_en": "One thousand and five hundred riyals per month for a period of four months beginning from the end of the period stipulated in paragraph (1) of this Article.",
+    "source_ar_norm": "(الف وخمسمائة) ريال شهريا لمدة (اربعة) اشهر، يبدا احتسابها من تاريخ انتهاء الفترة المنصوص عليها في الفقرة (1) من هذه المادة.",
+    "target_en_norm": "one thousand and five hundred riyals per month for a period of four months beginning from the end of the period stipulated in paragraph (1) of this article.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11820,
+    "source_ar": "(ألف) ريال شهريًّا لمدة (أربعة) أشهر، يبدأ احتسابها من تاريخ انتهاء الفترة المنصوص عليها في الفقرة (2) من هذه المادة.",
+    "target_en": "One thousand riyals per month for a period of four months beginning from the end of the period stipulated in paragraph (2) of this Article.",
+    "source_ar_norm": "(الف) ريال شهريا لمدة (اربعة) اشهر، يبدا احتسابها من تاريخ انتهاء الفترة المنصوص عليها في الفقرة (2) من هذه المادة.",
+    "target_en_norm": "one thousand riyals per month for a period of four months beginning from the end of the period stipulated in paragraph (2) of this article.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11821,
+    "source_ar": "(سبعمائة وخمسون) ريالًا شهريًّا لمدة (ثلاثة) أشهر، يبدأ احتسابها من تاريخ انتهاء الفترة المنصوص عليها في الفقرة (3) من هذه المادة.",
+    "target_en": "Seven hundred and fifty riyals per month for a period of three months beginning from the end of the period stipulated in paragraph (3) of this Article.",
+    "source_ar_norm": "(سبعمائة وخمسون) ريالا شهريا لمدة (ثلاثة) اشهر، يبدا احتسابها من تاريخ انتهاء الفترة المنصوص عليها في الفقرة (3) من هذه المادة.",
+    "target_en_norm": "seven hundred and fifty riyals per month for a period of three months beginning from the end of the period stipulated in paragraph (3) of this article.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11822,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11823,
+    "source_ar": "يكون تمويل الإعانة من إيرادات المقابل المالي المقرر بناءً على البند (ثانيًا) من قرار مجلس الوزراء رقم (353) وتاريخ 25 / 12 / 1432هـ، وتقوم وزارة المالية بتمويل أي عجز قد يواجه الصندوق في تمويل مصروفات الإعانة.",
+    "target_en": "The allowance shall be funded from the revenues collected from the fees stipulated in clause (Second) of Council of Ministers Resolution No. 353, dated 25/12/1432H. The Ministry of Finance shall cover any shortage the HRDF may encounter in funding allowance payments.",
+    "source_ar_norm": "يكون تمويل الاعانة من ايرادات المقابل المالي المقرر بناء علي البند (ثانيا) من قرار مجلس الوزراء رقم (353) وتاريخ 25 / 12 / 1432ه، وتقوم وزارة المالية بتمويل اي عجز قد يواجه الصندوق في تمويل مصروفات الاعانة.",
+    "target_en_norm": "the allowance shall be funded from the revenues collected from the fees stipulated in clause (second) of council of ministers resolution no. 353, dated 25/12/1432h. the ministry of finance shall cover any shortage the hrdf may encounter in funding allowance payments.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11824,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11825,
+    "source_ar": "يكون مقدم الطلب مؤهلًا للحصول على الإعانة في حال توافرت فيه الشروط الآتية:",
+    "target_en": "An applicant shall be eligible to receive the allowance if he:",
+    "source_ar_norm": "يكون مقدم الطلب مؤهلا للحصول علي الاعانة في حال توافرت فيه الشروط الاتية:",
+    "target_en_norm": "an applicant shall be eligible to receive the allowance if he:",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11826,
+    "source_ar": "أن يكون سعودي الجنسية.",
+    "target_en": "is a Saudi national;",
+    "source_ar_norm": "ان يكون سعودي الجنسية.",
+    "target_en_norm": "is a saudi national;",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11827,
+    "source_ar": "أن يكون مقيمًا إقامة دائمة في المملكة العربية السعودية. وتحدد اللائحة شروط الإقامة الدائمة.",
+    "target_en": "is a permanent resident of the Kingdom of Saudi Arabia; the Regulations shall determine the requirements of permanent residency;",
+    "source_ar_norm": "ان يكون مقيما اقامة دائمة في المملكة العربية السعودية. وتحدد اللائحة شروط الاقامة الدائمة.",
+    "target_en_norm": "is a permanent resident of the kingdom of saudi arabia; the regulations shall determine the requirements of permanent residency;",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11828,
+    "source_ar": "أن يكون قادرًا على العمل وجادًّا في البحث عنه. وتحدد اللائحة معايير القدرة والجدية.",
+    "target_en": "is able to work and is actively seeking employment; the Regulations shall set criteria for determining the applicant’s ability to work and seriousness in seeking employment;",
+    "source_ar_norm": "ان يكون قادرا علي العمل وجادا في البحث عنه. وتحدد اللائحة معايير القدرة والجدية.",
+    "target_en_norm": "is able to work and is actively seeking employment; the regulations shall set criteria for determining the applicant’s ability to work and seriousness in seeking employment;",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11829,
+    "source_ar": "ألَّا يقل عمره عن (عشرين) سنة، ولا يزيد على (أربعين) سنة.",
+    "target_en": "is not under the age of 20 years nor above the age of 40 years;",
+    "source_ar_norm": "الا يقل عمره عن (عشرين) سنة، ولا يزيد علي (اربعين) سنة.",
+    "target_en_norm": "is not under the age of 20 years nor above the age of 40 years;",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11830,
+    "source_ar": "ألَّا يكون موظفًا أو عاملًا في القطاع العام أو القطاع الخاص.",
+    "target_en": "is not employed in the public or private sector;",
+    "source_ar_norm": "الا يكون موظفا او عاملا في القطاع العام او القطاع الخاص.",
+    "target_en_norm": "is not employed in the public or private sector;",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11831,
+    "source_ar": "ألَّا يكون يصرف له معاش تقاعدي.",
+    "target_en": "does not receive a pension;",
+    "source_ar_norm": "الا يكون يصرف له معاش تقاعدي.",
+    "target_en_norm": "does not receive a pension;",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11832,
+    "source_ar": "ألَّا يكون يصرف له أي مخصص أو تعويض ضد التعطل عن العمل.",
+    "target_en": "does not receive any unemployment financial assistance or compensation;",
+    "source_ar_norm": "الا يكون يصرف له اي مخصص او تعويض ضد التعطل عن العمل.",
+    "target_en_norm": "does not receive any unemployment financial assistance or compensation;",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11833,
+    "source_ar": "ألَّا يكون يصرف له معاش من الضمان الاجتماعي.",
+    "target_en": "does not receive social security allowance;",
+    "source_ar_norm": "الا يكون يصرف له معاش من الضمان الاجتماعي.",
+    "target_en_norm": "does not receive social security allowance;",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11834,
+    "source_ar": "ألَّا يكون طالبًا أو متدربًا في أي مرحلة من مراحل التعليم أو التدريب.",
+    "target_en": "is not a student or a trainee at any level of education or training;",
+    "source_ar_norm": "الا يكون طالبا او متدربا في اي مرحلة من مراحل التعليم او التدريب.",
+    "target_en_norm": "is not a student or a trainee at any level of education or training;",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11835,
+    "source_ar": "ألَّا يكون لديه نشاط تجاري، وفقًا لما تحدده اللائحة.",
+    "target_en": "does not have any business activity, subject to the Regulations;",
+    "source_ar_norm": "الا يكون لديه نشاط تجاري، وفقا لما تحدده اللائحة.",
+    "target_en_norm": "does not have any business activity, subject to the regulations;",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11836,
+    "source_ar": "ألَّا يزيد الدخل الشهري أو الثروة عن الحد المانع للحصول على الإعانة، وفقًا لما تحدده اللائحة.",
+    "target_en": "does not have a monthly income or wealth that exceeds the limit for qualifying for the allowance, as specified by the Regulations; and",
+    "source_ar_norm": "الا يزيد الدخل الشهري او الثروة عن الحد المانع للحصول علي الاعانة، وفقا لما تحدده اللائحة.",
+    "target_en_norm": "does not have a monthly income or wealth that exceeds the limit for qualifying for the allowance, as specified by the regulations; and",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11837,
+    "source_ar": "ألَّا يكون سبق له الاستفادة من إعانة البحث عن عمل، أو من المخصص المالي لصعوبة الحصول على عمل. واستثناءً من ذلك يجوز قبول طلب مقدم الطلب الذي سبق له الاستفادة، بشرط ألَّا يزيد بكل الأحوال مجموع مدد الصرف السابقة واللاحقة عن مدة صرف الإعانة المنصوص عليها في المادة (الثالثة) من التنظيم، وتحدد اللائحة آلية احتساب المدد.",
+    "target_en": "has not previously received the job seekers allowance or unemployment financial assistance. As an exception, the application of an applicant who has previously received the same may be accepted, provided that the total payment periods, past and future, do not exceed the allowance payment period stipulated in Article 3 of this Statute. The Regulations shall specify the manner of determining such periods.",
+    "source_ar_norm": "الا يكون سبق له الاستفادة من اعانة البحث عن عمل، او من المخصص المالي لصعوبة الحصول علي عمل. واستثناء من ذلك يجوز قبول طلب مقدم الطلب الذي سبق له الاستفادة، بشرط الا يزيد بكل الاحوال مجموع مدد الصرف السابقة واللاحقة عن مدة صرف الاعانة المنصوص عليها في المادة (الثالثة) من التنظيم، وتحدد اللائحة الية احتساب المدد.",
+    "target_en_norm": "has not previously received the job seekers allowance or unemployment financial assistance. as an exception, the application of an applicant who has previously received the same may be accepted, provided that the total payment periods, past and future, do not exceed the allowance payment period stipulated in article 3 of this statute. the regulations shall specify the manner of determining such periods.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11838,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11839,
+    "source_ar": "يكون تقديم الطلب إلى الصندوق أو من يفوضه عبر المنصة الإلكترونية أو أي وسيلة أخرى يحددها الصندوق.",
+    "target_en": "The application shall be submitted to the HRDF or its designee through the e-platform or any other means determined by the HRDF.",
+    "source_ar_norm": "يكون تقديم الطلب الي الصندوق او من يفوضه عبر المنصة الالكترونية او اي وسيلة اخري يحددها الصندوق.",
+    "target_en_norm": "the application shall be submitted to the hrdf or its designee through the e-platform or any other means determined by the hrdf.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11840,
+    "source_ar": "يقدم الطلب مع مراعاة إحدى المدتين الآتيتين:",
+    "target_en": "The application shall be submitted either:",
+    "source_ar_norm": "يقدم الطلب مع مراعاة احدي المدتين الاتيتين:",
+    "target_en_norm": "the application shall be submitted either:",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11841,
+    "source_ar": "أ- قبل مضي (أربعة وعشرين) شهرًا من تاريخ انتهاء الدراسة أو التدريب في أيٍّ من مراحل التعليم أو التدريب.",
+    "target_en": "before the lapse of 24 months from the date of completion of any level of education or training; or",
+    "source_ar_norm": "ا- قبل مضي (اربعة وعشرين) شهرا من تاريخ انتهاء الدراسة او التدريب في اي من مراحل التعليم او التدريب.",
+    "target_en_norm": "before the lapse of 24 months from the date of completion of any level of education or training; or",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11842,
+    "source_ar": "ب- بعد مضي (أربعة وعشرين) شهرًا من تاريخ انتهاء العلاقة الوظيفية أو العمالية إذا كان ممن سبق له العمل في القطاع العام أو القطاع الخاص مع مراعاة ما ورد في الفقرة (7) من المادة (الخامسة) من التنظيم.",
+    "target_en": "after the lapse of 24 months from the date of termination of the applicant’s employment in the public or private sector, subject to Article 5(7) of this Statute.",
+    "source_ar_norm": "ب- بعد مضي (اربعة وعشرين) شهرا من تاريخ انتهاء العلاقة الوظيفية او العمالية اذا كان ممن سبق له العمل في القطاع العام او القطاع الخاص مع مراعاة ما ورد في الفقرة (7) من المادة (الخامسة) من التنظيم.",
+    "target_en_norm": "after the lapse of 24 months from the date of termination of the applicant’s employment in the public or private sector, subject to article 5(7) of this statute.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11843,
+    "source_ar": "ويجوز للمجلس تعديل هاتين المدتين بالاتفاق مع صندوق التنمية الوطني.",
+    "target_en": "The Board may amend such periods in agreement with the National Development Fund.",
+    "source_ar_norm": "ويجوز للمجلس تعديل هاتين المدتين بالاتفاق مع صندوق التنمية الوطني.",
+    "target_en_norm": "the board may amend such periods in agreement with the national development fund.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11844,
+    "source_ar": "يلتزم مقدم الطلب بما يلي:",
+    "target_en": "The applicant shall:",
+    "source_ar_norm": "يلتزم مقدم الطلب بما يلي:",
+    "target_en_norm": "the applicant shall:",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11845,
+    "source_ar": "أ- الحضور في الموعد الذي يحدده الصندوق أو من يفوضه لتقويم طلبه، وفقًا لما تحدده اللائحة.",
+    "target_en": "attend on the date set by the HRDF or its designee for the review of his application, subject to the Regulations;",
+    "source_ar_norm": "ا- الحضور في الموعد الذي يحدده الصندوق او من يفوضه لتقويم طلبه، وفقا لما تحدده اللائحة.",
+    "target_en_norm": "attend on the date set by the hrdf or its designee for the review of his application, subject to the regulations;",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11846,
+    "source_ar": "ب- تزويد الصندوق أو من يفوضه بجميع المستندات التي يطلبها وبالطريقة التي يحددها.",
+    "target_en": "provide the HRDF or its designee with the required documents in the manner specified thereby; and",
+    "source_ar_norm": "ب- تزويد الصندوق او من يفوضه بجميع المستندات التي يطلبها وبالطريقة التي يحددها.",
+    "target_en_norm": "provide the hrdf or its designee with the required documents in the manner specified thereby; and",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11847,
+    "source_ar": "ج- التعليمات التي يصدرها الصندوق أثناء دراسة طلبه، وفقًا لما تحدد اللائحة.",
+    "target_en": "comply with the instructions issued by the HRDF during its review of the application, subject to the Regulations.",
+    "source_ar_norm": "ج- التعليمات التي يصدرها الصندوق اثناء دراسة طلبه، وفقا لما تحدد اللائحة.",
+    "target_en_norm": "comply with the instructions issued by the hrdf during its review of the application, subject to the regulations.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11848,
+    "source_ar": "يقوم الصندوق بدراسة الطلب للتحقق من توافر شروط الأهلية، على أن يُشعر مقدم الطلب بالقرار المتخذ في شأنه خلال مدة لا تتجاوز شهرين من تاريخ استكمال الطلب. وفي حال كان قرار الصندوق رفض الطلب، يجب أن يكون الرفض مسببًا.",
+    "target_en": "The HRDF shall review the application to verify satisfaction of eligibility requirements, and the applicant shall be notified of its decision within a period not exceeding two months from the date of completing the application. If the HRDF decides to reject the application, the decision must be reasoned.",
+    "source_ar_norm": "يقوم الصندوق بدراسة الطلب للتحقق من توافر شروط الاهلية، علي ان يشعر مقدم الطلب بالقرار المتخذ في شانه خلال مدة لا تتجاوز شهرين من تاريخ استكمال الطلب. وفي حال كان قرار الصندوق رفض الطلب، يجب ان يكون الرفض مسببا.",
+    "target_en_norm": "the hrdf shall review the application to verify satisfaction of eligibility requirements, and the applicant shall be notified of its decision within a period not exceeding two months from the date of completing the application. if the hrdf decides to reject the application, the decision must be reasoned.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11849,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11850,
+    "source_ar": "يلتزم المؤهل والمستفيد بدءًا من تاريخ قبول الطلب أو تاريخ صرف الإعانة بما يأتي:",
+    "target_en": "The eligible applicant or the beneficiary shall, from the date of the acceptance of the application or the date of the payment of the allowance, adhere to the following:",
+    "source_ar_norm": "يلتزم المؤهل والمستفيد بدءا من تاريخ قبول الطلب او تاريخ صرف الاعانة بما ياتي:",
+    "target_en_norm": "the eligible applicant or the beneficiary shall, from the date of the acceptance of the application or the date of the payment of the allowance, adhere to the following:",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11851,
+    "source_ar": "إشعار الصندوق فورًا بكل تغيير يطرأ ويترتب عليه -أو قد يترتب عليه- عدم أهليته للإعانة.",
+    "target_en": "Promptly notify the HRDF of any change that results or may result in his ineligibility for the allowance.",
+    "source_ar_norm": "اشعار الصندوق فورا بكل تغيير يطرا ويترتب عليه -او قد يترتب عليه- عدم اهليته للاعانة.",
+    "target_en_norm": "promptly notify the hrdf of any change that results or may result in his ineligibility for the allowance.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11852,
+    "source_ar": "تقديم المستندات التي يطلبها الصندوق أو من يفوضه لتمكينه من التحقق من توافر شروط الأهلية لديه.",
+    "target_en": "Provide the documents required by the HRDF or its designee in order to verify satisfaction of eligibility requirements.",
+    "source_ar_norm": "تقديم المستندات التي يطلبها الصندوق او من يفوضه لتمكينه من التحقق من توافر شروط الاهلية لديه.",
+    "target_en_norm": "provide the documents required by the hrdf or its designee in order to verify satisfaction of eligibility requirements.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11853,
+    "source_ar": "التقيد بالتعليمات التي يصدرها الصندوق أو من يفوضه للمؤهل وللمستفيد شخصيًّا أو من خلال ملفه الإلكتروني في المنصة الإلكترونية أو من خلال أي وسيلة أخرى يقررها الصندوق أو من يفوضه، بما في ذلك الحضور شخصيًّا لتقويم طلبه أو الحضور لإجراء المقابلات الشخصية مع أصحاب العمل أو مع الجهات الأخرى التي يحددها الصندوق أو من يفوضه.",
+    "target_en": "Follow the instructions issued by the HRDF or its designee and delivered to him, whether in person, through his account on the e-platform, or by any other means determined by the HRDF or its designee, including appearing in person for application review purposes or for interviews with employers or with other entities as specified by the HRDF or its designee.",
+    "source_ar_norm": "التقيد بالتعليمات التي يصدرها الصندوق او من يفوضه للمؤهل وللمستفيد شخصيا او من خلال ملفه الالكتروني في المنصة الالكترونية او من خلال اي وسيلة اخري يقررها الصندوق او من يفوضه، بما في ذلك الحضور شخصيا لتقويم طلبه او الحضور لاجراء المقابلات الشخصية مع اصحاب العمل او مع الجهات الاخري التي يحددها الصندوق او من يفوضه.",
+    "target_en_norm": "follow the instructions issued by the hrdf or its designee and delivered to him, whether in person, through his account on the e-platform, or by any other means determined by the hrdf or its designee, including appearing in person for application review purposes or for interviews with employers or with other entities as specified by the hrdf or its designee.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11854,
+    "source_ar": "الحضور لأي دورة تعليمية أو تدريبية، ويشمل ذلك التدريب الإلكتروني أو التدريب على رأس العمل.",
+    "target_en": "Attend any educational or training courses, including e-training or on-the-job training.",
+    "source_ar_norm": "الحضور لاي دورة تعليمية او تدريبية، ويشمل ذلك التدريب الالكتروني او التدريب علي راس العمل.",
+    "target_en_norm": "attend any educational or training courses, including e-training or on-the-job training.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11855,
+    "source_ar": "الحضور لدى الصندوق أو من يفوضه للحصول على التأهيل أو التدريب أو خدمات التوظيف.",
+    "target_en": "Attend qualification and training programs or receive employment services at the premises of the HRDF or its designee.",
+    "source_ar_norm": "الحضور لدي الصندوق او من يفوضه للحصول علي التاهيل او التدريب او خدمات التوظيف.",
+    "target_en_norm": "attend qualification and training programs or receive employment services at the premises of the hrdf or its designee.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11856,
+    "source_ar": "زيارة الملف الإلكتروني في المنصة الإلكترونية، وفقًا لما تحدده اللائحة.",
+    "target_en": "Access his account on the e-platform, in accordance with the Regulations.",
+    "source_ar_norm": "زيارة الملف الالكتروني في المنصة الالكترونية، وفقا لما تحدده اللائحة.",
+    "target_en_norm": "access his account on the e-platform, in accordance with the regulations.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11857,
+    "source_ar": "الموافقة على عروض العمل المناسبة التي تقدم له. ويكون عرض العمل مناسبًا إذا توافرت فيه الشروط الآتية:",
+    "target_en": "Accept suitable job offers. A job offer shall be deemed suitable if the following conditions are met:",
+    "source_ar_norm": "الموافقة علي عروض العمل المناسبة التي تقدم له. ويكون عرض العمل مناسبا اذا توافرت فيه الشروط الاتية:",
+    "target_en_norm": "accept suitable job offers. a job offer shall be deemed suitable if the following conditions are met:",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11858,
+    "source_ar": "أ- ملاءمته مع مستوى المؤهل العلمي لمقدم الطلب وخبرته بحسب الوظائف المقدمة من أصحاب العمل.",
+    "target_en": "The job offered by an employer is suitable to the applicant’s educational qualification and experience.",
+    "source_ar_norm": "ا- ملاءمته مع مستوي المؤهل العلمي لمقدم الطلب وخبرته بحسب الوظائف المقدمة من اصحاب العمل.",
+    "target_en_norm": "the job offered by an employer is suitable to the applicant’s educational qualification and experience.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11859,
+    "source_ar": "ب- ألَّا يقل الأجر الشهري عن الحد الأدنى الذي يحدده الصندوق وفقًا للمعايير التي تحددها اللائحة.",
+    "target_en": "The monthly wage is not less than the minimum wage the HRDF sets in accordance with the Regulations.",
+    "source_ar_norm": "ب- الا يقل الاجر الشهري عن الحد الادني الذي يحدده الصندوق وفقا للمعايير التي تحددها اللائحة.",
+    "target_en_norm": "the monthly wage is not less than the minimum wage the hrdf sets in accordance with the regulations.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11860,
+    "source_ar": "ج- ألَّا تزيد المسافة بين مقر العمل ومقر إقامة المؤهل أو المستفيد عن المسافة التي تحددها اللائحة.",
+    "target_en": "The distance between the workplace and the residence of the eligible applicant or the beneficiary does not exceed the distance specified by the Regulations.",
+    "source_ar_norm": "ج- الا تزيد المسافة بين مقر العمل ومقر اقامة المؤهل او المستفيد عن المسافة التي تحددها اللائحة.",
+    "target_en_norm": "the distance between the workplace and the residence of the eligible applicant or the beneficiary does not exceed the distance specified by the regulations.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11861,
+    "source_ar": "د- أن يتوافق مع التعليمات الصادرة من وزارة الموارد البشرية والتنمية الاجتماعية.",
+    "target_en": "The job offer complies with the instructions issued by the Ministry of Human Resources and Social Development.",
+    "source_ar_norm": "د- ان يتوافق مع التعليمات الصادرة من وزارة الموارد البشرية والتنمية الاجتماعية.",
+    "target_en_norm": "the job offer complies with the instructions issued by the ministry of human resources and social development.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11862,
+    "source_ar": "ولا يعتد بما ورد في الشروط المنصوص عليها في الفقرات الفرعية (أ) و(ب) و(ج) لغرض تحديد عرض العمل المناسب في حال لم يسبق للمؤهل أو المستفيد العمل وكان مؤهله العلمي الشهادة الثانوية فأقل، أو إذا رفض عرضي عمل تتوافر فيهما جميع الشروط المنصوص عليها في الفقرات الفرعية (أ) و(ب) و(ج)، أو قد مضى على تسجيله لدى الصندوق (ستة) أشهر أو أكثر. وللصندوق وفق تقديره الاستثناء من بعض هذه الشروط.",
+    "target_en": "The conditions stipulated in sub-paragraphs (a), (b), and (c) shall not be taken into consideration in determining the suitability of a job offer if the eligible applicant or the beneficiary has not been previously employed and does not hold a degree higher than a high school degree; if he has previously rejected two job offers that meet all the conditions stipulated in sub-paragraphs (a), (b), and (c); or if six months or more have lapsed following his registration with the HRDF. The HRDF may waive certain conditions.",
+    "source_ar_norm": "ولا يعتد بما ورد في الشروط المنصوص عليها في الفقرات الفرعية (ا) و(ب) و(ج) لغرض تحديد عرض العمل المناسب في حال لم يسبق للمؤهل او المستفيد العمل وكان مؤهله العلمي الشهادة الثانوية فاقل، او اذا رفض عرضي عمل تتوافر فيهما جميع الشروط المنصوص عليها في الفقرات الفرعية (ا) و(ب) و(ج)، او قد مضي علي تسجيله لدي الصندوق (ستة) اشهر او اكثر. وللصندوق وفق تقديره الاستثناء من بعض هذه الشروط.",
+    "target_en_norm": "the conditions stipulated in sub-paragraphs (a), (b), and (c) shall not be taken into consideration in determining the suitability of a job offer if the eligible applicant or the beneficiary has not been previously employed and does not hold a degree higher than a high school degree; if he has previously rejected two job offers that meet all the conditions stipulated in sub-paragraphs (a), (b), and (c); or if six months or more have lapsed following his registration with the hrdf. the hrdf may waive certain conditions.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11863,
+    "source_ar": "إظهار الجدية في البحث عن عمل والالتزام بالتدريب والتأهيل الذي يقدم له.",
+    "target_en": "Actively seek a job and attend qualification and training programs.",
+    "source_ar_norm": "اظهار الجدية في البحث عن عمل والالتزام بالتدريب والتاهيل الذي يقدم له.",
+    "target_en_norm": "actively seek a job and attend qualification and training programs.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11864,
+    "source_ar": "التجاوب مع الصندوق أو من يفوضه عند التواصل بأي من وسائل التواصل.",
+    "target_en": "Respond to the communications of the HRDF or its designee.",
+    "source_ar_norm": "التجاوب مع الصندوق او من يفوضه عند التواصل باي من وسائل التواصل.",
+    "target_en_norm": "respond to the communications of the hrdf or its designee.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11865,
+    "source_ar": "التجاوب بالحضور إلى الصندوق أو من يفوضه لتقييم جديته في البحث عن عمل.",
+    "target_en": "Attend at the premises of the HRDF or its designee when requested for the evaluation of his efforts in seeking employment.",
+    "source_ar_norm": "التجاوب بالحضور الي الصندوق او من يفوضه لتقييم جديته في البحث عن عمل.",
+    "target_en_norm": "attend at the premises of the hrdf or its designee when requested for the evaluation of his efforts in seeking employment.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11866,
+    "source_ar": "أية التزامات أخرى يحددها الصندوق وفقًا لأهداف التنظيم واللائحة.",
+    "target_en": "Any other obligations determined by the HRDF in accordance with the objectives of this Statute and the Regulations.",
+    "source_ar_norm": "اية التزامات اخري يحددها الصندوق وفقا لاهداف التنظيم واللائحة.",
+    "target_en_norm": "any other obligations determined by the hrdf in accordance with the objectives of this statute and the regulations.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11867,
+    "source_ar": "على المؤهل إمضاء مدة لا تزيد على شهرين دون أن يخل بأي من التزاماته المنصوص عليها في هذه المادة دون عذر يقبله الصندوق، وعلى المستفيد عدم الإخلال بأي من التزاماته المنصوص عليها في هذه المادة دون عذر يقبله الصندوق.",
+    "target_en": "The eligible applicant shall spend a period not exceeding two months without breaching any of the obligations stipulated in this Article without an excuse acceptable to the HRDF. The beneficiary shall not breach any of the obligations stipulated in this Article without an excuse acceptable to the HRDF.",
+    "source_ar_norm": "علي المؤهل امضاء مدة لا تزيد علي شهرين دون ان يخل باي من التزاماته المنصوص عليها في هذه المادة دون عذر يقبله الصندوق، وعلي المستفيد عدم الاخلال باي من التزاماته المنصوص عليها في هذه المادة دون عذر يقبله الصندوق.",
+    "target_en_norm": "the eligible applicant shall spend a period not exceeding two months without breaching any of the obligations stipulated in this article without an excuse acceptable to the hrdf. the beneficiary shall not breach any of the obligations stipulated in this article without an excuse acceptable to the hrdf.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11868,
+    "source_ar": "وتحدد اللائحة نوع وعدد الالتزامات المنصوص عليها في هذه المادة التي يترتب على عدم القيام بها عدم صرف الإعانة للمؤهل، أو تخفيضها أو إيقاف صرفها عن المستفيد.",
+    "target_en": "The Regulations shall determine the type and number of obligations stipulated in this Article the non-compliance with which results in the non-payment of the allowance to the eligible applicant, or the reduction or suspension of the payment of the allowance to the beneficiary.",
+    "source_ar_norm": "وتحدد اللائحة نوع وعدد الالتزامات المنصوص عليها في هذه المادة التي يترتب علي عدم القيام بها عدم صرف الاعانة للمؤهل، او تخفيضها او ايقاف صرفها عن المستفيد.",
+    "target_en_norm": "the regulations shall determine the type and number of obligations stipulated in this article the non-compliance with which results in the non-payment of the allowance to the eligible applicant, or the reduction or suspension of the payment of the allowance to the beneficiary.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11869,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11870,
+    "source_ar": "يوقف صرف الإعانة للمستفيد -فورًا- في أي من الحالات الآتية:",
+    "target_en": "Payment of the allowance to the beneficiary shall be promptly suspended in any of the following cases:",
+    "source_ar_norm": "يوقف صرف الاعانة للمستفيد -فورا- في اي من الحالات الاتية:",
+    "target_en_norm": "payment of the allowance to the beneficiary shall be promptly suspended in any of the following cases:",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11871,
+    "source_ar": "أ- انتهاء مدة صرف الإعانة له.",
+    "target_en": "Expiration of the allowance payment period.",
+    "source_ar_norm": "ا- انتهاء مدة صرف الاعانة له.",
+    "target_en_norm": "expiration of the allowance payment period.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11872,
+    "source_ar": "ب- إذا طلب إيقاف صرف الإعانة.",
+    "target_en": "If the beneficiary requests suspension of the allowance payment.",
+    "source_ar_norm": "ب- اذا طلب ايقاف صرف الاعانة.",
+    "target_en_norm": "if the beneficiary requests suspension of the allowance payment.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11873,
+    "source_ar": "ج- إذا توفي.",
+    "target_en": "Death of the beneficiary.",
+    "source_ar_norm": "ج- اذا توفي.",
+    "target_en_norm": "death of the beneficiary.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11874,
+    "source_ar": "د- إذا زال عنه أي شرط من شروط استحقاقه المحددة في المادة (الخامسة) من التنظيم.",
+    "target_en": "If any of the eligibility requirements stipulated in Article 5 of this Statute no longer applies.",
+    "source_ar_norm": "د- اذا زال عنه اي شرط من شروط استحقاقه المحددة في المادة (الخامسة) من التنظيم.",
+    "target_en_norm": "if any of the eligibility requirements stipulated in article 5 of this statute no longer applies.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11875,
+    "source_ar": "إذا أوقف صرف الإعانة للمستفيد استنادًا إلى الفقرة الفرعية (أ) من الفقرة (1) من هذه المادة، فإنه لا يحق له التقدم بطلب جديد للحصول على الإعانة.",
+    "target_en": "If the allowance payment is suspended pursuant to paragraph 1(a) of this Article, the beneficiary may not file a new application to receive the allowance.",
+    "source_ar_norm": "اذا اوقف صرف الاعانة للمستفيد استنادا الي الفقرة الفرعية (ا) من الفقرة (1) من هذه المادة، فانه لا يحق له التقدم بطلب جديد للحصول علي الاعانة.",
+    "target_en_norm": "if the allowance payment is suspended pursuant to paragraph 1(a) of this article, the beneficiary may not file a new application to receive the allowance.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11876,
+    "source_ar": "دون إخلال بأحكام المادة (السابعة) من التنظيم، إذا أوقف صرف الإعانة للمستفيد استنادًا إلى الفقرة الفرعية (ب) أو (د) من الفقرة (1) من هذه المادة، يجوز للصندوق قبول طلبه باستكمال صرف الإعانة، وفقًا لما تحدده اللائحة، مع مراعاة ألَّا تتجاوز المدة الإجمالية لصرف الإعانة -سواء كانت مستمرة أم متقطعة- (خمسة عشر) شهرًا، مع مراعاة ما ينطبق على مبلغ الإعانة وفق المادة (الثالثة) من التنظيم.",
+    "target_en": "Without prejudice to the provisions of Article 7 of this Statute, if the payment of the allowance to the beneficiary is suspended pursuant to paragraphs 1(b) or 1(d) of this Article, the HRDF may accept the beneficiary's request to resume payment of the allowance in accordance with the Regulations, provided that the total period of allowance payment, whether continuous or intermittent, does not exceed 15 months, and the allowance is paid in accordance with Article 3 of this Statute.",
+    "source_ar_norm": "دون اخلال باحكام المادة (السابعة) من التنظيم، اذا اوقف صرف الاعانة للمستفيد استنادا الي الفقرة الفرعية (ب) او (د) من الفقرة (1) من هذه المادة، يجوز للصندوق قبول طلبه باستكمال صرف الاعانة، وفقا لما تحدده اللائحة، مع مراعاة الا تتجاوز المدة الاجمالية لصرف الاعانة -سواء كانت مستمرة ام متقطعة- (خمسة عشر) شهرا، مع مراعاة ما ينطبق علي مبلغ الاعانة وفق المادة (الثالثة) من التنظيم.",
+    "target_en_norm": "without prejudice to the provisions of article 7 of this statute, if the payment of the allowance to the beneficiary is suspended pursuant to paragraphs 1(b) or 1(d) of this article, the hrdf may accept the beneficiary's request to resume payment of the allowance in accordance with the regulations, provided that the total period of allowance payment, whether continuous or intermittent, does not exceed 15 months, and the allowance is paid in accordance with article 3 of this statute.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11877,
+    "source_ar": "تخفض الإعانة بمبلغ (مائتين) ريال شهريًّا، ويستمر التخفيض إلى انتهاء المدة المنصوص عليها في المادة (الثالثة) من التنظيم، وذلك إذا لم يلتزم المستفيد بأحد التزاماته المحددة في المادة (السابعة) من التنظيم، وفقًا لما تحدده اللائحة.",
+    "target_en": "The allowance shall be reduced by 200 riyals per month until the end of the period stipulated in Article 3 of this Statute if the beneficiary does not adhere to any of the obligations stipulated in Article 7 of this Statute, as specified by the Regulations.",
+    "source_ar_norm": "تخفض الاعانة بمبلغ (مائتين) ريال شهريا، ويستمر التخفيض الي انتهاء المدة المنصوص عليها في المادة (الثالثة) من التنظيم، وذلك اذا لم يلتزم المستفيد باحد التزاماته المحددة في المادة (السابعة) من التنظيم، وفقا لما تحدده اللائحة.",
+    "target_en_norm": "the allowance shall be reduced by 200 riyals per month until the end of the period stipulated in article 3 of this statute if the beneficiary does not adhere to any of the obligations stipulated in article 7 of this statute, as specified by the regulations.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11878,
+    "source_ar": "يخصم من الإعانة قيمة الدخل الشهري والثروة، وفقًا لما تحدده اللائحة.",
+    "target_en": "The monthly income and the value of the wealth shall be deducted from the allowance, subject to the Regulations.",
+    "source_ar_norm": "يخصم من الاعانة قيمة الدخل الشهري والثروة، وفقا لما تحدده اللائحة.",
+    "target_en_norm": "the monthly income and the value of the wealth shall be deducted from the allowance, subject to the regulations.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11879,
+    "source_ar": "للصندوق تعليق صرف الإعانة للمستفيد مؤقتًا وبمدة لا تزيد على (ستة) أشهر، وتحدد اللائحة الحالات التي يمكن فيها تعليق صرف الإعانة.",
+    "target_en": "The HRDF may temporarily suspend the payment of the allowance to the beneficiary for a period not exceeding 6 months. The Regulations shall specify the cases for the temporary suspension of allowance payment.",
+    "source_ar_norm": "للصندوق تعليق صرف الاعانة للمستفيد مؤقتا وبمدة لا تزيد علي (ستة) اشهر، وتحدد اللائحة الحالات التي يمكن فيها تعليق صرف الاعانة.",
+    "target_en_norm": "the hrdf may temporarily suspend the payment of the allowance to the beneficiary for a period not exceeding 6 months. the regulations shall specify the cases for the temporary suspension of allowance payment.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11880,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11881,
+    "source_ar": "يجب على المستفيد -الذي قدم عمداً بيانات أو معلومات غير صحيحة بغرض الحصول على الإعانة- إعادة كامل مبلغ الإعانة التي صرفت له.",
+    "target_en": "A beneficiary who intentionally provides false data or information for the purpose of obtaining the allowance must repay the full amount of the allowance paid to him.",
+    "source_ar_norm": "يجب علي المستفيد -الذي قدم عمدا بيانات او معلومات غير صحيحة بغرض الحصول علي الاعانة- اعادة كامل مبلغ الاعانة التي صرفت له.",
+    "target_en_norm": "a beneficiary who intentionally provides false data or information for the purpose of obtaining the allowance must repay the full amount of the allowance paid to him.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11882,
+    "source_ar": "للصندوق إحالة من يقدم بيانات أو معلومات غير صحيحة بغرض الحصول على الإعانة إلى الجهات المختصة لاتخاذ الإجراءات النظامية في حقه.",
+    "target_en": "The HRDF shall refer to the competent authorities any person who provides false data or information for the purpose of obtaining the allowance to take legal action against him.",
+    "source_ar_norm": "للصندوق احالة من يقدم بيانات او معلومات غير صحيحة بغرض الحصول علي الاعانة الي الجهات المختصة لاتخاذ الاجراءات النظامية في حقه.",
+    "target_en_norm": "the hrdf shall refer to the competent authorities any person who provides false data or information for the purpose of obtaining the allowance to take legal action against him.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11883,
+    "source_ar": "يجوز للصندوق أو من يفوضه اتخاذ جميع الإجراءات اللازمة لاسترداد مبالغ الإعانة التي صرفت للمستفيد وثبت عدم استحقاقه لها.",
+    "target_en": "The HRDF or its designee shall take all the measures necessary to recover allowance amounts paid to a beneficiary whose ineligibility to such allowance is established.",
+    "source_ar_norm": "يجوز للصندوق او من يفوضه اتخاذ جميع الاجراءات اللازمة لاسترداد مبالغ الاعانة التي صرفت للمستفيد وثبت عدم استحقاقه لها.",
+    "target_en_norm": "the hrdf or its designee shall take all the measures necessary to recover allowance amounts paid to a beneficiary whose ineligibility to such allowance is established.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11884,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11885,
+    "source_ar": "دون إخلال باختصاصات صندوق التنمية الوطني، يتولى الصندوق الآتي:",
+    "target_en": "Without prejudice to the powers of the National Development Fund, the HRDF shall undertake the following:",
+    "source_ar_norm": "دون اخلال باختصاصات صندوق التنمية الوطني، يتولي الصندوق الاتي:",
+    "target_en_norm": "without prejudice to the powers of the national development fund, the hrdf shall undertake the following:",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11886,
+    "source_ar": "إعداد القرارات التنفيذية اللازمة لتنفيذ أحكام التنظيم؛ ليعتمدها المجلس.",
+    "target_en": "Drafting the decisions necessary for the implementation of this Statute and submitting the same to the Board for approval.",
+    "source_ar_norm": "اعداد القرارات التنفيذية اللازمة لتنفيذ احكام التنظيم؛ ليعتمدها المجلس.",
+    "target_en_norm": "drafting the decisions necessary for the implementation of this statute and submitting the same to the board for approval.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11887,
+    "source_ar": "التنسيق مع الجهات الحكومية والخاصة لتسهيل إجراءات تقديم الطلبات وصرف الإعانة للمستفيدين وتقديم الدعم لهم.",
+    "target_en": "Coordinating with government and private agencies to facilitate the filing of applications, payment of the allowance to beneficiaries, and provision of support to such beneficiaries.",
+    "source_ar_norm": "التنسيق مع الجهات الحكومية والخاصة لتسهيل اجراءات تقديم الطلبات وصرف الاعانة للمستفيدين وتقديم الدعم لهم.",
+    "target_en_norm": "coordinating with government and private agencies to facilitate the filing of applications, payment of the allowance to beneficiaries, and provision of support to such beneficiaries.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11888,
+    "source_ar": "إنشاء المنصة الإلكترونية وتشغيلها والتواصل مع مقدم الطلب والمؤهل والمستفيد من خلالها أو من خلال أية وسيلة يحددها الصندوق، وتحديد الإجراءات التي يجب اتباعها لتقديم الطلب، وفقًا لما تحدده اللائحة.",
+    "target_en": "Establishing and operating the e-platform and communicating with applicants, eligible applicants, and beneficiaries through the e-platform or by any other means specified by the HRDF, and determining the procedures for filing applications, subject to the Regulations.",
+    "source_ar_norm": "انشاء المنصة الالكترونية وتشغيلها والتواصل مع مقدم الطلب والمؤهل والمستفيد من خلالها او من خلال اية وسيلة يحددها الصندوق، وتحديد الاجراءات التي يجب اتباعها لتقديم الطلب، وفقا لما تحدده اللائحة.",
+    "target_en_norm": "establishing and operating the e-platform and communicating with applicants, eligible applicants, and beneficiaries through the e-platform or by any other means specified by the hrdf, and determining the procedures for filing applications, subject to the regulations.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11889,
+    "source_ar": "استقبال طلبات تقديم الحصول على الإعانة، ودراستها، ثم اتخاذ قرار بقبول الطلب أو رفضه. وللصندوق في سبيل ذلك الحصول على المعلومات الخاصة بمقدم الطلب من الجهات الحكومية أو الخاصة.",
+    "target_en": "Receiving and reviewing allowance applications, and taking the decision to accept or reject such applications. To this end, the HRDF may obtain from government or private agencies information relating to applicants.",
+    "source_ar_norm": "استقبال طلبات تقديم الحصول علي الاعانة، ودراستها، ثم اتخاذ قرار بقبول الطلب او رفضه. وللصندوق في سبيل ذلك الحصول علي المعلومات الخاصة بمقدم الطلب من الجهات الحكومية او الخاصة.",
+    "target_en_norm": "receiving and reviewing allowance applications, and taking the decision to accept or reject such applications. to this end, the hrdf may obtain from government or private agencies information relating to applicants.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11890,
+    "source_ar": "متابعة المستفيدين، والتأكد من استمرار توافر شروط الأهلية لديهم للحصول على الإعانة، وإصدار القرارات المتعلقة بإيقاف الإعانة أو تعليقها أو تخفيضها أو الخصم منها. وللصندوق في سبيل ذلك الحصول على المعلومات الخاصة بالمؤهلين والمستفيدين من الجهات الحكومية أو الخاصة.",
+    "target_en": "Following up on beneficiaries to verify satisfaction of allowance eligibility requirements, and issuing decisions relating to the permanent or temporary suspension of the allowance, reduction thereof, or deduction therefrom. To this end, the HRDF may obtain from government or private agencies information relating to eligible applicants and beneficiaries.",
+    "source_ar_norm": "متابعة المستفيدين، والتاكد من استمرار توافر شروط الاهلية لديهم للحصول علي الاعانة، واصدار القرارات المتعلقة بايقاف الاعانة او تعليقها او تخفيضها او الخصم منها. وللصندوق في سبيل ذلك الحصول علي المعلومات الخاصة بالمؤهلين والمستفيدين من الجهات الحكومية او الخاصة.",
+    "target_en_norm": "following up on beneficiaries to verify satisfaction of allowance eligibility requirements, and issuing decisions relating to the permanent or temporary suspension of the allowance, reduction thereof, or deduction therefrom. to this end, the hrdf may obtain from government or private agencies information relating to eligible applicants and beneficiaries.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11891,
+    "source_ar": "تنفيذ جميع البرامج والدورات وورش العمل اللازمة للمؤهلين والمستفيدين لغرض تأهيلهم وتطوير مهاراتهم سواء بطريقة مباشرة أو من خلال مفوض من الصندوق، بما في ذلك التدريب والتأهيل بوسائل عدة، ويشمل ذلك التدريب الإلكتروني أو التدريب على رأس العمل، وفقًا لما تحدده اللائحة.",
+    "target_en": "Implementing directly, or through its designee, all the programs, courses, and workshops necessary for qualifying eligible applicants and beneficiaries and developing their skills, including various types of training and qualification programs, such as e-training or on-the-job training, subject to the Regulations.",
+    "source_ar_norm": "تنفيذ جميع البرامج والدورات وورش العمل اللازمة للمؤهلين والمستفيدين لغرض تاهيلهم وتطوير مهاراتهم سواء بطريقة مباشرة او من خلال مفوض من الصندوق، بما في ذلك التدريب والتاهيل بوسائل عدة، ويشمل ذلك التدريب الالكتروني او التدريب علي راس العمل، وفقا لما تحدده اللائحة.",
+    "target_en_norm": "implementing directly, or through its designee, all the programs, courses, and workshops necessary for qualifying eligible applicants and beneficiaries and developing their skills, including various types of training and qualification programs, such as e-training or on-the-job training, subject to the regulations.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11892,
+    "source_ar": "صرف الإعانة للمستفيدين.",
+    "target_en": "Paying the allowance to the beneficiaries.",
+    "source_ar_norm": "صرف الاعانة للمستفيدين.",
+    "target_en_norm": "paying the allowance to the beneficiaries.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11893,
+    "source_ar": "تلقي ودراسة تظلمات كل من مقدم الطلب، أو المؤهل، أو المستفيد؛ والبت فيها.",
+    "target_en": "Receiving, reviewing, and deciding on the grievances of applicants, eligible applicants, and beneficiaries.",
+    "source_ar_norm": "تلقي ودراسة تظلمات كل من مقدم الطلب، او المؤهل، او المستفيد؛ والبت فيها.",
+    "target_en_norm": "receiving, reviewing, and deciding on the grievances of applicants, eligible applicants, and beneficiaries.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11894,
+    "source_ar": "الاستعانة بالجهات الحكومية والخاصة وفق تقديره لتنفيذ أحكام التنظيم واللائحة.",
+    "target_en": "Seeking the assistance of government and private agencies to implement the provisions of this Statute and the Regulations.",
+    "source_ar_norm": "الاستعانة بالجهات الحكومية والخاصة وفق تقديره لتنفيذ احكام التنظيم واللائحة.",
+    "target_en_norm": "seeking the assistance of government and private agencies to implement the provisions of this statute and the regulations.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11895,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11896,
+    "source_ar": "لمقدم الطلب أو المؤهل أو المستفيد الذي رُفض تظلمه للحصول على الإعانة؛ التظلم من قرار الرفض أمام المحكمة الإدارية المختصة.",
+    "target_en": "An applicant, eligible applicant, or beneficiary whose grievance against the denial of allowance payment has been rejected may appeal the rejection decision before the competent administrative court.",
+    "source_ar_norm": "لمقدم الطلب او المؤهل او المستفيد الذي رفض تظلمه للحصول علي الاعانة؛ التظلم من قرار الرفض امام المحكمة الادارية المختصة.",
+    "target_en_norm": "an applicant, eligible applicant, or beneficiary whose grievance against the denial of allowance payment has been rejected may appeal the rejection decision before the competent administrative court.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11897,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11898,
+    "source_ar": "يحل التنظيم محل تنظيم إعانة البحث عن عمل الصادر بقرار مجلس الوزراء رقم (353) وتاريخ 25 / 12 / 1432هـ، وتنظيم المخصص المالي لصعوبة الحصول على عمل الصادر بقرار مجلس الوزراء رقم (44) وتاريخ 29 / 1 / 1435هـ، ويلغي كل ما يتعارض معه من أحكام، ويعمل بالتنظيم بعد (تسعين) يومًا من تاريخ نشره في الجريدة الرسمية.",
+    "target_en": "This Statute shall supersede the Statute of Job Seeker's Allowance issued by Council of Ministers Resolution No. 353, dated 25/12/1432H and the Statute of Unemployment Financial Assistance issued by Council of Ministers Resolution No. 44, dated 29/1/1435H, and shall repeal any provisions conflicting therewith. This Statute shall enter into force 90 days from the date of its publication in the Official Gazette.",
+    "source_ar_norm": "يحل التنظيم محل تنظيم اعانة البحث عن عمل الصادر بقرار مجلس الوزراء رقم (353) وتاريخ 25 / 12 / 1432ه، وتنظيم المخصص المالي لصعوبة الحصول علي عمل الصادر بقرار مجلس الوزراء رقم (44) وتاريخ 29 / 1 / 1435ه، ويلغي كل ما يتعارض معه من احكام، ويعمل بالتنظيم بعد (تسعين) يوما من تاريخ نشره في الجريدة الرسمية.",
+    "target_en_norm": "this statute shall supersede the statute of job seeker's allowance issued by council of ministers resolution no. 353, dated 25/12/1432h and the statute of unemployment financial assistance issued by council of ministers resolution no. 44, dated 29/1/1435h, and shall repeal any provisions conflicting therewith. this statute shall enter into force 90 days from the date of its publication in the official gazette.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11899,
+    "source_ar": "المادة الثالثة عشرة",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة",
+    "target_en_norm": "article 13",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  },
+  {
+    "id": 11900,
+    "source_ar": "يُصدر المجلس اللائحة بالاتفاق مع صندوق التنمية الوطني خلال (تسعين) يومًا من تاريخ نشر التنظيم.",
+    "target_en": "The Board shall issue the Regulations in agreement with the National Development Fund within 90 days from the date of publication of this Statute.",
+    "source_ar_norm": "يصدر المجلس اللائحة بالاتفاق مع صندوق التنمية الوطني خلال (تسعين) يوما من تاريخ نشر التنظيم.",
+    "target_en_norm": "the board shall issue the regulations in agreement with the national development fund within 90 days from the date of publication of this statute.",
+    "file_name": "تنظيم إعانة البحث عن عمل.docx"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 16901,
+    "source_ar": "و - إعداد اللائحة التنفيذية للنظام مع مراعاة وضوحها، وعدالتها، وفاعليتها، وكفايتها.",
+    "target_en": "f) prepare clear, fair, effective, and sufficient implementing regulations for the Law;",
+    "source_ar_norm": "و - اعداد اللائحة التنفيذية للنظام مع مراعاة وضوحها، وعدالتها، وفاعليتها، وكفايتها.",
+    "target_en_norm": "f) prepare clear, fair, effective, and sufficient implementing regulations for the law;",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16902,
+    "source_ar": "ز - تشجيع الاستثمار في خدمات الاتصالات وتجهيزاتها، وتشجيع تقديم خدمات الاتصالات الموثوق بها بأسعار مناسبة ونوعية جيدة في جميع مناطق المملكة.",
+    "target_en": "g) promote investment in telecommunications services and equipment and promote the provision of good quality, reliable, and affordable telecommunications services in all the Kingdom’s provinces;",
+    "source_ar_norm": "ز - تشجيع الاستثمار في خدمات الاتصالات وتجهيزاتها، وتشجيع تقديم خدمات الاتصالات الموثوق بها باسعار مناسبة ونوعية جيدة في جميع مناطق المملكة.",
+    "target_en_norm": "g) promote investment in telecommunications services and equipment and promote the provision of good quality, reliable, and affordable telecommunications services in all the kingdom’s provinces;",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16903,
+    "source_ar": "ح - وضع الخطة الوطنية للطيف الترددي بعد التنسيق مع الجهات المعنية وإحالتها إلى الوزارة تمهيدا لرفعها إلى مجلس الوزراء.",
+    "target_en": "h) develop the National Frequency Spectrum Plan in coordination with relevant entities and refer it to the Ministry in preparation for its submission to the Council of Ministers;",
+    "source_ar_norm": "ح - وضع الخطة الوطنية للطيف الترددي بعد التنسيق مع الجهات المعنية واحالتها الي الوزارة تمهيدا لرفعها الي مجلس الوزراء.",
+    "target_en_norm": "h) develop the national frequency spectrum plan in coordination with relevant entities and refer it to the ministry in preparation for its submission to the council of ministers;",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16904,
+    "source_ar": "ط - اقتراح المقابل المالي لاستخدام الترددات المخصصة لمختلف الاستخدامات وإحالته إلى الوزارة تمهيدا للاتفاق بشأنه بين الوزير ووزير المالية والاقتصاد الوطني، والرفع عنه إلى مجلس الوزراء.",
+    "target_en": "i) propose fees for the use of frequencies designated for various uses, refer the proposed fees to the Ministry to be agreed upon by the Minister and the Minister of Finance and National Economy, and submit the same to the Council of Ministers;",
+    "source_ar_norm": "ط - اقتراح المقابل المالي لاستخدام الترددات المخصصة لمختلف الاستخدامات واحالته الي الوزارة تمهيدا للاتفاق بشانه بين الوزير ووزير المالية والاقتصاد الوطني، والرفع عنه الي مجلس الوزراء.",
+    "target_en_norm": "i) propose fees for the use of frequencies designated for various uses, refer the proposed fees to the ministry to be agreed upon by the minister and the minister of finance and national economy, and submit the same to the council of ministers;",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16905,
+    "source_ar": "ي - العمل على حماية مصالح المستخدمين المتعلقة بخدمات الاتصالات العامة والإنترنت، ومراقبة أداء الجهات المرخص لها بتقديم مثل هذه الخدمات، واتخاذ الإجراءات التي من شأنها إلزام تلك الجهات بالتقيد بشروط التراخيص بما في ذلك نوعية الخدمات ومستواها، والعمل على تطوير خدمات جديدة ومبتكرة.",
+    "target_en": "j) protect the interests of the users of public telecommunications and Internet services; monitor the performance of the entities licensed to provide such services; take the measures necessary to ensure the compliance of said entities with license terms and conditions, including the type and quality of provided services; and develop new and innovative services;",
+    "source_ar_norm": "ي - العمل علي حماية مصالح المستخدمين المتعلقة بخدمات الاتصالات العامة والانترنت، ومراقبة اداء الجهات المرخص لها بتقديم مثل هذه الخدمات، واتخاذ الاجراءات التي من شانها الزام تلك الجهات بالتقيد بشروط التراخيص بما في ذلك نوعية الخدمات ومستواها، والعمل علي تطوير خدمات جديدة ومبتكرة.",
+    "target_en_norm": "j) protect the interests of the users of public telecommunications and internet services; monitor the performance of the entities licensed to provide such services; take the measures necessary to ensure the compliance of said entities with license terms and conditions, including the type and quality of provided services; and develop new and innovative services;",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16906,
+    "source_ar": "ك - اقتراح الأنظمة المتعلقة بقطاع الاتصالات وتعديلاتها، والنظر في الأمور المرتبطة بالقطاع المقدمة من قبل الأطراف المعنية وبخاصة من قبل المشغلين المرخص لهم أو المستخدمين بما في ذلك الخلافات المتعلقة بحق الدخول إلى شبكة الاتصالات والارتباط بها، واتخاذ القرارات اللازمة حيالها ضمن نطاق صلاحياتها.",
+    "target_en": "k) propose laws relating to the telecommunications sector and amendments thereto; consider sectorrelated issues raised by concerned parties, particularly users and licensed operators, including disputes related to interconnection and access; and take the necessary decisions within its powers regarding such issues;",
+    "source_ar_norm": "ك - اقتراح الانظمة المتعلقة بقطاع الاتصالات وتعديلاتها، والنظر في الامور المرتبطة بالقطاع المقدمة من قبل الاطراف المعنية وبخاصة من قبل المشغلين المرخص لهم او المستخدمين بما في ذلك الخلافات المتعلقة بحق الدخول الي شبكة الاتصالات والارتباط بها، واتخاذ القرارات اللازمة حيالها ضمن نطاق صلاحياتها.",
+    "target_en_norm": "k) propose laws relating to the telecommunications sector and amendments thereto; consider sectorrelated issues raised by concerned parties, particularly users and licensed operators, including disputes related to interconnection and access; and take the necessary decisions within its powers regarding such issues;",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16907,
+    "source_ar": "ل - التأكد من أداء المستخدمين والمشغلين المرخص لهم لواجباتهم دون مساس بالمصلحة العامة.",
+    "target_en": "l) ensure that users and licensed operators perform their duties without undermining public interest;",
+    "source_ar_norm": "ل - التاكد من اداء المستخدمين والمشغلين المرخص لهم لواجباتهم دون مساس بالمصلحة العامة.",
+    "target_en_norm": "l) ensure that users and licensed operators perform their duties without undermining public interest;",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16908,
+    "source_ar": "م- تشجيع إجراء البحوث والتطوير في قطاع الاتصالات وكذلك تشجيع وتحديث شبكات الاتصالات وخدماتها.",
+    "target_en": "m) promote research and development in the telecommunications sector and promote the upgrading of telecommunications networks and services;",
+    "source_ar_norm": "م- تشجيع اجراء البحوث والتطوير في قطاع الاتصالات وكذلك تشجيع وتحديث شبكات الاتصالات وخدماتها.",
+    "target_en_norm": "m) promote research and development in the telecommunications sector and promote the upgrading of telecommunications networks and services;",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16909,
+    "source_ar": "ن - وضع أسس تحديد المقابل المالي لخدمات الاتصالات بالقدر الذي تتطلبه المنافسة.",
+    "target_en": "n) set the bases for determining the fees for telecommunications services as required for competition;",
+    "source_ar_norm": "ن - وضع اسس تحديد المقابل المالي لخدمات الاتصالات بالقدر الذي تتطلبه المنافسة.",
+    "target_en_norm": "n) set the bases for determining the fees for telecommunications services as required for competition;",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16910,
+    "source_ar": "س - الموافقة على شروط العمل العامة للمشغلين المرخص لهم.",
+    "target_en": "o) approve the general requirements governing the work of licensed operators;",
+    "source_ar_norm": "س - الموافقة علي شروط العمل العامة للمشغلين المرخص لهم.",
+    "target_en_norm": "o) approve the general requirements governing the work of licensed operators;",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16911,
+    "source_ar": "ع - توزيع نطاق الترددات المخصصة للاستخدامات المدنية والتجارية والتأكد من الاستخدام الفعال لها.",
+    "target_en": "p) allocate the frequency bands designated for civil and commercial uses and ensure their effective use;",
+    "source_ar_norm": "ع - توزيع نطاق الترددات المخصصة للاستخدامات المدنية والتجارية والتاكد من الاستخدام الفعال لها.",
+    "target_en_norm": "p) allocate the frequency bands designated for civil and commercial uses and ensure their effective use;",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16912,
+    "source_ar": "ف - وضع الخطة الوطنية للترقيم وإدارتها والإشراف عليها.",
+    "target_en": "q) develop, manage, and supervise the National Numbering Plan;",
+    "source_ar_norm": "ف - وضع الخطة الوطنية للترقيم وادارتها والاشراف عليها.",
+    "target_en_norm": "q) develop, manage, and supervise the national numbering plan;",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16913,
+    "source_ar": "ص - تعزيز الجهود الرامية لتطوير أساليب العمل، وإيجاد معايير قياسية للأداء لمختلف الخدمات في قطاع الاتصالات ومراقبة التقيد بذلك",
+    "target_en": "r) promote efforts aiming to develop business practices, and develop performance metrics for different services in the telecommunications sector and monitor compliance therewith;",
+    "source_ar_norm": "ص - تعزيز الجهود الرامية لتطوير اساليب العمل، وايجاد معايير قياسية للاداء لمختلف الخدمات في قطاع الاتصالات ومراقبة التقيد بذلك",
+    "target_en_norm": "r) promote efforts aiming to develop business practices, and develop performance metrics for different services in the telecommunications sector and monitor compliance therewith;",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16914,
+    "source_ar": "ق - التنسيق مع الوزارة بشأن تمثيل المملكة في الهيئات المحلية والإقليمية والدولية في قطاع الاتصالات ذات العلاقة باختصاصها.",
+    "target_en": "s) coordinate with the Ministry regarding representing the Kingdom in relevant local, regional, and international bodies in the telecommunications sector; and",
+    "source_ar_norm": "ق - التنسيق مع الوزارة بشان تمثيل المملكة في الهيئات المحلية والاقليمية والدولية في قطاع الاتصالات ذات العلاقة باختصاصها.",
+    "target_en_norm": "s) coordinate with the ministry regarding representing the kingdom in relevant local, regional, and international bodies in the telecommunications sector; and",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16915,
+    "source_ar": "ر - أي مهمات أخرى توكل إليها بموجب الأنظمة واللوائح.",
+    "target_en": "t) any other duties assigned thereto under laws and regulations.",
+    "source_ar_norm": "ر - اي مهمات اخري توكل اليها بموجب الانظمة واللوائح.",
+    "target_en_norm": "t) any other duties assigned thereto under laws and regulations.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16916,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article 4",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16917,
+    "source_ar": "يكون للهيئة مجلس إدارة برئاسة الوزير، وعضوية كل من:",
+    "target_en": "The Commission shall have a Board of Directors comprising the Minister, as chairman, and the following members:",
+    "source_ar_norm": "يكون للهيئة مجلس ادارة برئاسة الوزير، وعضوية كل من:",
+    "target_en_norm": "the commission shall have a board of directors comprising the minister, as chairman, and the following members:",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16918,
+    "source_ar": "أ- محافظ الهيئة ويكون نائباً لرئيس المجلس.",
+    "target_en": "a) Governor of the Commission, Vice-Chairman.",
+    "source_ar_norm": "ا- محافظ الهيئة ويكون نائبا لرئيس المجلس.",
+    "target_en_norm": "a) governor of the commission, vice-chairman.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16919,
+    "source_ar": "ب- ممثل من وزارة الاتصالات وتقنية المعلومات.",
+    "target_en": "b) A representative from the Ministry of Communications and Information Technology.",
+    "source_ar_norm": "ب- ممثل من وزارة الاتصالات وتقنية المعلومات.",
+    "target_en_norm": "b) a representative from the ministry of communications and information technology.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16920,
+    "source_ar": "ج- ممثل من وزارة المالية.",
+    "target_en": "c) A representative from the Ministry of Finance.",
+    "source_ar_norm": "ج- ممثل من وزارة المالية.",
+    "target_en_norm": "c) a representative from the ministry of finance.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16921,
+    "source_ar": "د- ممثل من وزارة التجارة والاستثمار.",
+    "target_en": "d) A representative from the Ministry of Commerce and Investment.",
+    "source_ar_norm": "د- ممثل من وزارة التجارة والاستثمار.",
+    "target_en_norm": "d) a representative from the ministry of commerce and investment.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16922,
+    "source_ar": "هـ- ممثل من مدينة الملك عبد العزيز للعلوم والتقنية.",
+    "target_en": "e) A representative from King Abdulaziz City for Science and Technology.",
+    "source_ar_norm": "ه- ممثل من مدينة الملك عبد العزيز للعلوم والتقنية.",
+    "target_en_norm": "e) a representative from king abdulaziz city for science and technology.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16923,
+    "source_ar": "و- ممثل من رئاسة أمن الدولة.",
+    "target_en": "f) A representative from the Presidency of State Security.",
+    "source_ar_norm": "و- ممثل من رئاسة امن الدولة.",
+    "target_en_norm": "f) a representative from the presidency of state security.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16924,
+    "source_ar": "ز- ثلاثة أعضاء من القطاع الخاص يتم ترشيحهم من قبل الوزير ويصدر بتعيينهم قرار من مجلس الوزراء.",
+    "target_en": "g) Three members representing the private sector nominated by the Minister and appointed pursuant to a decision by the Council of Ministers.",
+    "source_ar_norm": "ز- ثلاثة اعضاء من القطاع الخاص يتم ترشيحهم من قبل الوزير ويصدر بتعيينهم قرار من مجلس الوزراء.",
+    "target_en_norm": "g) three members representing the private sector nominated by the minister and appointed pursuant to a decision by the council of ministers.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16925,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article 5",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16926,
+    "source_ar": "مجلس الإدارة هو السلطة العليا للهيئة، ويشرف على إدارتها، وتصريف أمورها، ووضع السياسة العامة التي تسير عليها، وله في سبيل ذلك أوسع السلطات، وبصفة خاصة الصلاحيات التالية:",
+    "target_en": "The Board of Directors is the Commission’s highest authority. The Board shall oversee the Commission’s management and the conduct of its affairs, and shall set its general policy. For such purpose, the Board shall have the full range of powers, especially the following:",
+    "source_ar_norm": "مجلس الادارة هو السلطة العليا للهيئة، ويشرف علي ادارتها، وتصريف امورها، ووضع السياسة العامة التي تسير عليها، وله في سبيل ذلك اوسع السلطات، وبصفة خاصة الصلاحيات التالية:",
+    "target_en_norm": "the board of directors is the commission’s highest authority. the board shall oversee the commission’s management and the conduct of its affairs, and shall set its general policy. for such purpose, the board shall have the full range of powers, especially the following:",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16927,
+    "source_ar": "أ - اعتماد اللوائح الداخلية والمالية والإدارية والفنية للهيئة.",
+    "target_en": "a) Approving the Commission’s internal, financial, administrative, and technical regulations.",
+    "source_ar_norm": "ا - اعتماد اللوائح الداخلية والمالية والادارية والفنية للهيئة.",
+    "target_en_norm": "a) approving the commission’s internal, financial, administrative, and technical regulations.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16928,
+    "source_ar": "ب - تحديد المقابل المالي الذي تتقاضاه الهيئة عن أية أعمال أو خدمات تقدمها للمشغلين وأمثالهم وفقا للنظام.",
+    "target_en": "b) Determining the fees charged by the Commission for any work or service provided to operators and the like in accordance with the Law.",
+    "source_ar_norm": "ب - تحديد المقابل المالي الذي تتقاضاه الهيئة عن اية اعمال او خدمات تقدمها للمشغلين وامثالهم وفقا للنظام.",
+    "target_en_norm": "b) determining the fees charged by the commission for any work or service provided to operators and the like in accordance with the law.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16929,
+    "source_ar": "ج - الموافقة على منح التراخيص التي تدخل في اختصاص الهيئة.",
+    "target_en": "c) Approving the issuance of licenses falling within the Commission's jurisdiction.",
+    "source_ar_norm": "ج - الموافقة علي منح التراخيص التي تدخل في اختصاص الهيئة.",
+    "target_en_norm": "c) approving the issuance of licenses falling within the commission's jurisdiction.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16930,
+    "source_ar": "د - اعتماد الخطة الوطنية للترقيم والإشراف على تنفيذها.",
+    "target_en": "d) Approving the National Numbering Plan and supervising its implementation.",
+    "source_ar_norm": "د - اعتماد الخطة الوطنية للترقيم والاشراف علي تنفيذها.",
+    "target_en_norm": "d) approving the national numbering plan and supervising its implementation.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16931,
+    "source_ar": "هـ - إقرار خطة عمل الهيئة وخططها التشغيلية في إطار الخطة العامة للدولة.",
+    "target_en": "e) Approving the Commission’s action plan and operational plans in alignment with the general plan of the State.",
+    "source_ar_norm": "ه - اقرار خطة عمل الهيئة وخططها التشغيلية في اطار الخطة العامة للدولة.",
+    "target_en_norm": "e) approving the commission’s action plan and operational plans in alignment with the general plan of the state.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16932,
+    "source_ar": "و - الموافقة على شراء العقارات وبيعها بما يحقق أغراض الهيئة.",
+    "target_en": "f) Approving the purchase and sale of real estate to achieve the purposes of the Commission.",
+    "source_ar_norm": "و - الموافقة علي شراء العقارات وبيعها بما يحقق اغراض الهيئة.",
+    "target_en_norm": "f) approving the purchase and sale of real estate to achieve the purposes of the commission.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16933,
+    "source_ar": "ز - إقرار مشروع ميزانية الهيئة وحسابها الختامي وتقرير مراقب الحسابات والتقرير السنوي تمهيدا لرفع ذلك حسب النظام.",
+    "target_en": "g) Approving the Commission’s draft budget, final accounts, and annual report as well as the auditor’s report in preparation for submission of the same in accordance with the Law.",
+    "source_ar_norm": "ز - اقرار مشروع ميزانية الهيئة وحسابها الختامي وتقرير مراقب الحسابات والتقرير السنوي تمهيدا لرفع ذلك حسب النظام.",
+    "target_en_norm": "g) approving the commission’s draft budget, final accounts, and annual report as well as the auditor’s report in preparation for submission of the same in accordance with the law.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16934,
+    "source_ar": "ح - إبرام الاتفاقات والعقود بأنواعها في حدود ما لدى المجلس من صلاحيات وتفويض المسؤولين في الهيئة في إبرامها.",
+    "target_en": "h) Concluding all types of agreements and contracts within the limits of the powers of the Board, and authorizing officials of the Commission to conclude the same.",
+    "source_ar_norm": "ح - ابرام الاتفاقات والعقود بانواعها في حدود ما لدي المجلس من صلاحيات وتفويض المسؤولين في الهيئة في ابرامها.",
+    "target_en_norm": "h) concluding all types of agreements and contracts within the limits of the powers of the board, and authorizing officials of the commission to conclude the same.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16935,
+    "source_ar": "ط - تشكيل اللجان وتخويلها الصلاحيات اللازمة لإنجاز المهام المناطة بها.",
+    "target_en": "i) Forming committees and granting them the powers necessary to perform the duties assigned thereto.",
+    "source_ar_norm": "ط - تشكيل اللجان وتخويلها الصلاحيات اللازمة لانجاز المهام المناطة بها.",
+    "target_en_norm": "i) forming committees and granting them the powers necessary to perform the duties assigned thereto.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16936,
+    "source_ar": "ي - اعتماد سلم رواتب العاملين في الهيئة الخاضعين لنظام العمل والعمال.",
+    "target_en": "j) Approving the salary scale of Commission employees who are subject to the Labor Law.",
+    "source_ar_norm": "ي - اعتماد سلم رواتب العاملين في الهيئة الخاضعين لنظام العمل والعمال.",
+    "target_en_norm": "j) approving the salary scale of commission employees who are subject to the labor law.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16937,
+    "source_ar": "ك - الإشراف على أعمال الهيئة الفنية والإدارية والمالية.",
+    "target_en": "k) Overseeing the Commission’s technical, administrative, and financial activities.",
+    "source_ar_norm": "ك - الاشراف علي اعمال الهيئة الفنية والادارية والمالية.",
+    "target_en_norm": "k) overseeing the commission’s technical, administrative, and financial activities.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16938,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article 6",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16939,
+    "source_ar": "1 - تعقد اجتماعات المجلس في مقر الهيئة، ويجوز عند الاقتضاء انعقادها في مكان آخر داخل المملكة.",
+    "target_en": "1. Board meetings shall be held at the Commission’s headquarters and may be held at another location within the Kingdom, when necessary.",
+    "source_ar_norm": "1 - تعقد اجتماعات المجلس في مقر الهيئة، ويجوز عند الاقتضاء انعقادها في مكان اخر داخل المملكة.",
+    "target_en_norm": "1. board meetings shall be held at the commission’s headquarters and may be held at another location within the kingdom, when necessary.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16940,
+    "source_ar": "2 - يجتمع المجلس بدعوة من رئيسه مرة واحدة على الأقل كل ثلاثة أشهر، أو كلما دعت الحاجة إلى ذلك، أو إذا طلب ذلك خمسة من الأعضاء على الأقل، ويجب أن تشتمل الدعوى على جدول الأعمال، ويشترط لصحة الاجتماع حضور أغلبية الأعضاء بمن فيهم الرئيس أو نائبه، وتصدر القرارات بأغلبية أصوات الحاضرين، وفي حالة تساوي الأصوات يرجح الجانب الذي يصوت فيه رئيس المجلس.",
+    "target_en": "2. The Board shall convene upon an invitation by its Chairman at least once every three months, and when necessary or if requested by at least five members. The invitation shall include the meeting agenda. Board meetings shall be valid if attended by a majority of the members, including the Chairman or Vice-Chairman. Board decisions shall be passed by the majority vote of attending members. In case of a tie, the chairman of the meeting shall have the casting vote.",
+    "source_ar_norm": "2 - يجتمع المجلس بدعوة من رئيسه مرة واحدة علي الاقل كل ثلاثة اشهر، او كلما دعت الحاجة الي ذلك، او اذا طلب ذلك خمسة من الاعضاء علي الاقل، ويجب ان تشتمل الدعوي علي جدول الاعمال، ويشترط لصحة الاجتماع حضور اغلبية الاعضاء بمن فيهم الرئيس او نائبه، وتصدر القرارات باغلبية اصوات الحاضرين، وفي حالة تساوي الاصوات يرجح الجانب الذي يصوت فيه رئيس المجلس.",
+    "target_en_norm": "2. the board shall convene upon an invitation by its chairman at least once every three months, and when necessary or if requested by at least five members. the invitation shall include the meeting agenda. board meetings shall be valid if attended by a majority of the members, including the chairman or vice-chairman. board decisions shall be passed by the majority vote of attending members. in case of a tie, the chairman of the meeting shall have the casting vote.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16941,
+    "source_ar": "3 - تثبت مداولات المجلس وقراراته في محاضر يوقعها الرئيس والأعضاء الحاضرون، وتنشر القرارات التي لها مساس بالمشغلين، ومقدمي الخدمات، وصانعي الأجهزة وموزعيها، أو المستخدمين؛ في الجريدة الرسمية وفي صحيفتين يوميتين على الأقل، على أن لا يخل هذا النشر بالمصلحة العامة أو بأسرار العمل، ويقوم المحافظ بإبلاغ هذه القرارات إلى الجهات المعنية بها مباشرة وبالطريقة المناسبة.",
+    "target_en": "3. Board deliberations and decisions shall be recorded in minutes signed by the chairman and attending members. Decisions concerning operators, service providers, manufacturers and distributors of devices, or users shall be published in the Official Gazette and at least two daily newspapers, provided that such publication does not prejudice public interest or business confidentiality. The Governor shall directly communicate such decisions to relevant entities using the appropriate means.",
+    "source_ar_norm": "3 - تثبت مداولات المجلس وقراراته في محاضر يوقعها الرئيس والاعضاء الحاضرون، وتنشر القرارات التي لها مساس بالمشغلين، ومقدمي الخدمات، وصانعي الاجهزة وموزعيها، او المستخدمين؛ في الجريدة الرسمية وفي صحيفتين يوميتين علي الاقل، علي ان لا يخل هذا النشر بالمصلحة العامة او باسرار العمل، ويقوم المحافظ بابلاغ هذه القرارات الي الجهات المعنية بها مباشرة وبالطريقة المناسبة.",
+    "target_en_norm": "3. board deliberations and decisions shall be recorded in minutes signed by the chairman and attending members. decisions concerning operators, service providers, manufacturers and distributors of devices, or users shall be published in the official gazette and at least two daily newspapers, provided that such publication does not prejudice public interest or business confidentiality. the governor shall directly communicate such decisions to relevant entities using the appropriate means.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16942,
+    "source_ar": "4 - لا يجوز للعضو تفويض شخص آخر للتصويت عنه عند غيابه، وللعضو المعترض تسجيل اعتراضه وأسباب الاعتراض ضمن محضر قرارات المجلس.",
+    "target_en": "4. A Board member may not vote by proxy. An objecting member may record his objection and the grounds therefor in the meeting minutes.",
+    "source_ar_norm": "4 - لا يجوز للعضو تفويض شخص اخر للتصويت عنه عند غيابه، وللعضو المعترض تسجيل اعتراضه واسباب الاعتراض ضمن محضر قرارات المجلس.",
+    "target_en_norm": "4. a board member may not vote by proxy. an objecting member may record his objection and the grounds therefor in the meeting minutes.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16943,
+    "source_ar": "5 - لا يجوز للعضو أن يفشي شيئا مما وقف عليه من أسرار الهيئة بسبب عضويته في المجلس.",
+    "target_en": "5. A member may not disclose any confidential information relating to the Commission he becomes privy to by virtue of his membership in the Board.",
+    "source_ar_norm": "5 - لا يجوز للعضو ان يفشي شيئا مما وقف عليه من اسرار الهيئة بسبب عضويته في المجلس.",
+    "target_en_norm": "5. a member may not disclose any confidential information relating to the commission he becomes privy to by virtue of his membership in the board.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16944,
+    "source_ar": "6 - للمجلس أن يدعو لحضور جلساته من يرى الاستعانة بمعلوماتهم وخبراتهم دون أن يكون لهم حق التصويت.",
+    "target_en": "6. The Board may invite any person to attend its meetings, in a non-voting capacity, to benefit from his knowledge and expertise.",
+    "source_ar_norm": "6 - للمجلس ان يدعو لحضور جلساته من يري الاستعانة بمعلوماتهم وخبراتهم دون ان يكون لهم حق التصويت.",
+    "target_en_norm": "6. the board may invite any person to attend its meetings, in a non-voting capacity, to benefit from his knowledge and expertise.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16945,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article 7",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16946,
+    "source_ar": "يجوز للهيئة أثناء قيامها بالمهام والواجبات المنوطة بها الاستعانة ببعض الهيئات المتخصصة أو المؤسسات العلمية أو الفنية أو المستشارين المؤهلين للمساعدة في القيام ببعض الأعمال والمهام، كما يكون لها حق التعاون والتنسيق مع الوزارات أو الهيئات أو الجهات الحكومية الأخرى حسبما تراه مناسبا لأداء عملها على الوجه المطلوب.",
+    "target_en": "In performing its tasks and duties, the Commission may seek the assistance of specialized entities, academic or technical institutions, or competent advisors to carry out certain tasks and duties. The Commission may also cooperate and consult with ministries, authorities, or other government agencies as it deems appropriate.",
+    "source_ar_norm": "يجوز للهيئة اثناء قيامها بالمهام والواجبات المنوطة بها الاستعانة ببعض الهيئات المتخصصة او المؤسسات العلمية او الفنية او المستشارين المؤهلين للمساعدة في القيام ببعض الاعمال والمهام، كما يكون لها حق التعاون والتنسيق مع الوزارات او الهيئات او الجهات الحكومية الاخري حسبما تراه مناسبا لاداء عملها علي الوجه المطلوب.",
+    "target_en_norm": "in performing its tasks and duties, the commission may seek the assistance of specialized entities, academic or technical institutions, or competent advisors to carry out certain tasks and duties. the commission may also cooperate and consult with ministries, authorities, or other government agencies as it deems appropriate.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16947,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article 8",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16948,
+    "source_ar": "يكون للهيئة محافظ بالمرتبة الممتازة، يتم تعيينه بأمر ملكي بناء على ترشيح الوزير وهو المسؤول التنفيذي عن إدارة الهيئة، وتتركز مسؤوليته في حدود ما ينص عليه التنظيم وما يقرره المجلس، ويمارس المحافظ بوجه خاص الصلاحيات والمهمات التالية:",
+    "target_en": "The Commission shall have a Governor at the rank of grade “Excellent” appointed by a royal order upon the Minister’s nomination. The Governor shall be the executive officer of the Commission. His responsibilities shall be within the limits of this Statute and pursuant to Board decisions. The Governor shall exercise the following powers and duties:",
+    "source_ar_norm": "يكون للهيئة محافظ بالمرتبة الممتازة، يتم تعيينه بامر ملكي بناء علي ترشيح الوزير وهو المسؤول التنفيذي عن ادارة الهيئة، وتتركز مسؤوليته في حدود ما ينص عليه التنظيم وما يقرره المجلس، ويمارس المحافظ بوجه خاص الصلاحيات والمهمات التالية:",
+    "target_en_norm": "the commission shall have a governor at the rank of grade “excellent” appointed by a royal order upon the minister’s nomination. the governor shall be the executive officer of the commission. his responsibilities shall be within the limits of this statute and pursuant to board decisions. the governor shall exercise the following powers and duties:",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16949,
+    "source_ar": "أ - الإشراف على الإعداد لاجتماع المجلس.",
+    "target_en": "a) Overseeing preparations for Board meetings.",
+    "source_ar_norm": "ا - الاشراف علي الاعداد لاجتماع المجلس.",
+    "target_en_norm": "a) overseeing preparations for board meetings.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16950,
+    "source_ar": "ب - متابعة تنفيذ القرارات الصادرة عن المجلس.",
+    "target_en": "b) Monitoring the implementation of Board decisions.",
+    "source_ar_norm": "ب - متابعة تنفيذ القرارات الصادرة عن المجلس.",
+    "target_en_norm": "b) monitoring the implementation of board decisions.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16951,
+    "source_ar": "ج - الإشراف على إعداد مشروع ميزانية الهيئة ومشروع الحساب الختامي والتقرير السنوي وعرضها على المجلس.",
+    "target_en": "c) Overseeing the preparation of the Commission’s draft budget, draft final accounts, and annual report, and presenting the same to the Board.",
+    "source_ar_norm": "ج - الاشراف علي اعداد مشروع ميزانية الهيئة ومشروع الحساب الختامي والتقرير السنوي وعرضها علي المجلس.",
+    "target_en_norm": "c) overseeing the preparation of the commission’s draft budget, draft final accounts, and annual report, and presenting the same to the board.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16952,
+    "source_ar": "د - الإشراف على منسوبي الهيئة طبقا للصلاحيات الممنوحة له وما تحدده اللوائح.",
+    "target_en": "d) Supervising the employees of the Commission in accordance with his powers and as per the regulations.",
+    "source_ar_norm": "د - الاشراف علي منسوبي الهيئة طبقا للصلاحيات الممنوحة له وما تحدده اللوائح.",
+    "target_en_norm": "d) supervising the employees of the commission in accordance with his powers and as per the regulations.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16953,
+    "source_ar": "هـ - إصدار الأوامر بمصروفات الهيئة بموجب الميزانية السنوية المعتمدة.",
+    "target_en": "e) Issuing the Commission’s disbursement orders in accordance with the approved annual budget.",
+    "source_ar_norm": "ه - اصدار الاوامر بمصروفات الهيئة بموجب الميزانية السنوية المعتمدة.",
+    "target_en_norm": "e) issuing the commission’s disbursement orders in accordance with the approved annual budget.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16954,
+    "source_ar": "و - تقديم تقارير دورية للمجلس عن أعمال الهيئة ومنجزاتها ونشاطها.",
+    "target_en": "f) Submitting to the Board periodic reports on the Commission’s work, activities, and achievements.",
+    "source_ar_norm": "و - تقديم تقارير دورية للمجلس عن اعمال الهيئة ومنجزاتها ونشاطها.",
+    "target_en_norm": "f) submitting to the board periodic reports on the commission’s work, activities, and achievements.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16955,
+    "source_ar": "ز- اقتراح خطط الهيئة وبرامجها، والإشراف على تنفيذها بعد موافقة المجلس عليها.",
+    "target_en": "g) Proposing the Commission’s plans and programs and overseeing their implementation upon the approval of the Board.",
+    "source_ar_norm": "ز- اقتراح خطط الهيئة وبرامجها، والاشراف علي تنفيذها بعد موافقة المجلس عليها.",
+    "target_en_norm": "g) proposing the commission’s plans and programs and overseeing their implementation upon the approval of the board.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16956,
+    "source_ar": "ح - تمثيل الهيئة في صلاتها بغيرها من الجهات وأمام القضاء، وله تفويض غيره للقيام بذلك.",
+    "target_en": "h) Representing the Commission in its relations with other entities and before the judiciary. The Governor may delegate others to perform said duty.",
+    "source_ar_norm": "ح - تمثيل الهيئة في صلاتها بغيرها من الجهات وامام القضاء، وله تفويض غيره للقيام بذلك.",
+    "target_en_norm": "h) representing the commission in its relations with other entities and before the judiciary. the governor may delegate others to perform said duty.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16957,
+    "source_ar": "ط - تفويض بعض هذه الصلاحيات والمهمات إلى المسؤولين في الهيئة.",
+    "target_en": "i) Delegate certain powers and duties to other officials in the Commission.",
+    "source_ar_norm": "ط - تفويض بعض هذه الصلاحيات والمهمات الي المسؤولين في الهيئة.",
+    "target_en_norm": "i) delegate certain powers and duties to other officials in the commission.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16958,
+    "source_ar": "المادة التاسعة:",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة:",
+    "target_en_norm": "article 9",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16959,
+    "source_ar": "يكون لمحافظ الهيئة نواب يتم تعيينهم بقرار من مجلس الإدارة بناء على ترشيح المحافظ، ويتولى نواب المحافظ الأعمال والصلاحيات الممنوحة لهم من قبل المحافظ في حدود ما يقضي به التنظيم.",
+    "target_en": "The Governor of the Commission shall have deputies appointed pursuant to a Board decision upon the nomination of the Governor. Deputy governors shall assume the duties and powers assigned to them by the Governor within the limits of this Statute.",
+    "source_ar_norm": "يكون لمحافظ الهيئة نواب يتم تعيينهم بقرار من مجلس الادارة بناء علي ترشيح المحافظ، ويتولي نواب المحافظ الاعمال والصلاحيات الممنوحة لهم من قبل المحافظ في حدود ما يقضي به التنظيم.",
+    "target_en_norm": "the governor of the commission shall have deputies appointed pursuant to a board decision upon the nomination of the governor. deputy governors shall assume the duties and powers assigned to them by the governor within the limits of this statute.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16960,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article 10",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16961,
+    "source_ar": "تتألف الموارد المالية للهيئة من المصادر التالية:",
+    "target_en": "The Commission’s financial resources shall consist of the following:",
+    "source_ar_norm": "تتالف الموارد المالية للهيئة من المصادر التالية:",
+    "target_en_norm": "the commission’s financial resources shall consist of the following:",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16962,
+    "source_ar": "أ - ما يخصص لها من المقابل المالي الذي تتقاضاه الدولة من الرخص التي تصدر للمشغلين.",
+    "target_en": "a) Allocations of the fees collected by the State for licenses issued to operators.",
+    "source_ar_norm": "ا - ما يخصص لها من المقابل المالي الذي تتقاضاه الدولة من الرخص التي تصدر للمشغلين.",
+    "target_en_norm": "a) allocations of the fees collected by the state for licenses issued to operators.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16963,
+    "source_ar": "ب - المقابل المالي الذي تتقاضاه الهيئة عن الأعمال والخدمات التي تقدمها وفقا للتنظيم.",
+    "target_en": "b) Fees collected by the Commission for the work and services provided in accordance with this Statute.",
+    "source_ar_norm": "ب - المقابل المالي الذي تتقاضاه الهيئة عن الاعمال والخدمات التي تقدمها وفقا للتنظيم.",
+    "target_en_norm": "b) fees collected by the commission for the work and services provided in accordance with this statute.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16964,
+    "source_ar": "ج - حصيلة الغرامات المفروضة المنصوص عليها في النظام.",
+    "target_en": "c) Fines collected in accordance with the Law.",
+    "source_ar_norm": "ج - حصيلة الغرامات المفروضة المنصوص عليها في النظام.",
+    "target_en_norm": "c) fines collected in accordance with the law.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16965,
+    "source_ar": "المادة الحادية عشرة:",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة:",
+    "target_en_norm": "article 11",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16966,
+    "source_ar": "تودع أموال الهيئة في حساب مفتوح لها في مؤسسة النقد العربي السعودي، ويتم الصرف منها وفق ميزانية الهيئة المعتمدة وتؤول الأموال الفائضة عن حاجة الهيئة خلال السنة المالية – باستثناء ما تحتاجه لتمويل مشاريعها المستقبلية المقرة في ميزانيتها السنوية والتزاماتها النظامية – إلى الخزينة العامة للدولة لحساب جاري وزارة المالية والاقتصادي الوطني.",
+    "target_en": "The Commission’s funds shall be deposited into its account with the Saudi Arabian Monetary Authority. Disbursement from such funds shall be in accordance with the Commission’s approved budget. Any surplus funds at the end of the fiscal year, except for the funds needed to finance future projects approved in the annual budget or to meet legal obligations, shall be transferred to the State treasury into the current account of the Ministry of Finance and National Economy.",
+    "source_ar_norm": "تودع اموال الهيئة في حساب مفتوح لها في مؤسسة النقد العربي السعودي، ويتم الصرف منها وفق ميزانية الهيئة المعتمدة وتؤول الاموال الفائضة عن حاجة الهيئة خلال السنة المالية – باستثناء ما تحتاجه لتمويل مشاريعها المستقبلية المقرة في ميزانيتها السنوية والتزاماتها النظامية – الي الخزينة العامة للدولة لحساب جاري وزارة المالية والاقتصادي الوطني.",
+    "target_en_norm": "the commission’s funds shall be deposited into its account with the saudi arabian monetary authority. disbursement from such funds shall be in accordance with the commission’s approved budget. any surplus funds at the end of the fiscal year, except for the funds needed to finance future projects approved in the annual budget or to meet legal obligations, shall be transferred to the state treasury into the current account of the ministry of finance and national economy.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16967,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article 12",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16968,
+    "source_ar": "تتولى الهيئة تحصيل المقابل المالي نظير تقديم الخدمات تجاريا، واستخدام الترددات، وإصدار التراخيص وتجديدها؛ وتوريده إلى الخزينة العامة للدولة لحساب جاري وزارة المالية والاقتصاد الوطني.",
+    "target_en": "The Commission shall collect fees for commercially-provided services, the use of frequencies, and the issuance and renewal of licenses, and shall transfer such fees to the State treasury into the current account of the Ministry of Finance and National Economy.",
+    "source_ar_norm": "تتولي الهيئة تحصيل المقابل المالي نظير تقديم الخدمات تجاريا، واستخدام الترددات، واصدار التراخيص وتجديدها؛ وتوريده الي الخزينة العامة للدولة لحساب جاري وزارة المالية والاقتصاد الوطني.",
+    "target_en_norm": "the commission shall collect fees for commercially-provided services, the use of frequencies, and the issuance and renewal of licenses, and shall transfer such fees to the state treasury into the current account of the ministry of finance and national economy.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16969,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article 13",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16970,
+    "source_ar": "تعامل الهيئة من حيث إعفاء مستورداتها من الرسوم الجمركية بحسب القواعد المتبعة بشأن مستوردات المؤسسات العامة.",
+    "target_en": "Commission imports shall be exempt from customs duties in accordance with applicable rules relating to the imports of public corporations.",
+    "source_ar_norm": "تعامل الهيئة من حيث اعفاء مستورداتها من الرسوم الجمركية بحسب القواعد المتبعة بشان مستوردات المؤسسات العامة.",
+    "target_en_norm": "commission imports shall be exempt from customs duties in accordance with applicable rules relating to the imports of public corporations.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16971,
+    "source_ar": "المادة الرابعة عشرة:",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة:",
+    "target_en_norm": "article 14",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16972,
+    "source_ar": "السنة المالية للهيئة هي السنة المالية للدولة، واستثناء من ذلك تبدأ السنة المالية الأولى للهيئة من تاريخ نفاذ هذا التنظيم.",
+    "target_en": "The fiscal year of the Commission shall be the same as the fiscal year of the State. As an exception, the first fiscal year of the Commission shall commence on the date this Statute enters into force.",
+    "source_ar_norm": "السنة المالية للهيئة هي السنة المالية للدولة، واستثناء من ذلك تبدا السنة المالية الاولي للهيئة من تاريخ نفاذ هذا التنظيم.",
+    "target_en_norm": "the fiscal year of the commission shall be the same as the fiscal year of the state. as an exception, the first fiscal year of the commission shall commence on the date this statute enters into force.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16973,
+    "source_ar": "المادة الخامسة عشرة:",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة:",
+    "target_en_norm": "article 15",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16974,
+    "source_ar": "باستثناء المحافظ، تطبق أحكام نظام العمل والعمال وأحكام نظام التأمينات الاجتماعية على منسوبي الهيئة.",
+    "target_en": "Except for the Governor, the Labor Law and the Social Security Law shall apply to the employees of the Commission.",
+    "source_ar_norm": "باستثناء المحافظ، تطبق احكام نظام العمل والعمال واحكام نظام التامينات الاجتماعية علي منسوبي الهيئة.",
+    "target_en_norm": "except for the governor, the labor law and the social security law shall apply to the employees of the commission.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16975,
+    "source_ar": "المادة السادسة عشرة:",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة:",
+    "target_en_norm": "article 16",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16976,
+    "source_ar": "يرفع المحافظ خلال تسعين يوما من بداية كل سنة مالية إلى الوزير تقريرا سنويا، بعد إقراره من المجلس عما حققته الهيئة من إنجازات مقارنة بما ورد في الخطة العامة للتنمية خلال السنة المنقضية وما واجهها من صعوبات وما تراه من مقترحات لحسن سير العمل فيها تمهيدا لرفعه إلى رئيس مجلس الوزراء.",
+    "target_en": "The Governor shall, within 90 days from the beginning of each fiscal year, submit an annual report to the Minister, upon the Board’s approval, in preparation for its submission to the President of the Council of Ministers. Such report shall include the Commission’s achievements for the past year assessed against the general development plan as well as any challenges encountered and proposals for improvement.",
+    "source_ar_norm": "يرفع المحافظ خلال تسعين يوما من بداية كل سنة مالية الي الوزير تقريرا سنويا، بعد اقراره من المجلس عما حققته الهيئة من انجازات مقارنة بما ورد في الخطة العامة للتنمية خلال السنة المنقضية وما واجهها من صعوبات وما تراه من مقترحات لحسن سير العمل فيها تمهيدا لرفعه الي رئيس مجلس الوزراء.",
+    "target_en_norm": "the governor shall, within 90 days from the beginning of each fiscal year, submit an annual report to the minister, upon the board’s approval, in preparation for its submission to the president of the council of ministers. such report shall include the commission’s achievements for the past year assessed against the general development plan as well as any challenges encountered and proposals for improvement.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16977,
+    "source_ar": "المادة السابعة عشرة:",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة:",
+    "target_en_norm": "article 17",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16978,
+    "source_ar": "مع عدم الإخلال بحق ديوان المراقبة العامة في الرقابة على حسابات الهيئة؛ يعين المجلس مراجع حسابات خارجي أو أكثر من الأشخاص ذوي الصفة الطبيعية أو الاعتبارية المرخص لهم بالعمل في المملكة ويحدد أتعابهم، وإذا تعدد مراجعو الحسابات فإنهم يكونون مسؤولين بالتضامن عن أعمالهم أمام الهيئة، ويرفع تقرير مراجع الحسابات إلى المجلس ويزود ديوان المراقبة العامة بنسخة منه.",
+    "target_en": "Without prejudice to the right of the General Auditing Bureau to monitor the Commission’s accounts, the Board shall appoint an external auditor, or more, of natural or legal personality, licensed to practice in the Kingdom, and shall determine his remuneration. In case of multiple auditors, they shall be jointly and severally liable before the Commission for their work. The auditor’s report shall be submitted to the Board and the General Auditing Bureau shall be provided with a copy thereof.",
+    "source_ar_norm": "مع عدم الاخلال بحق ديوان المراقبة العامة في الرقابة علي حسابات الهيئة؛ يعين المجلس مراجع حسابات خارجي او اكثر من الاشخاص ذوي الصفة الطبيعية او الاعتبارية المرخص لهم بالعمل في المملكة ويحدد اتعابهم، واذا تعدد مراجعو الحسابات فانهم يكونون مسؤولين بالتضامن عن اعمالهم امام الهيئة، ويرفع تقرير مراجع الحسابات الي المجلس ويزود ديوان المراقبة العامة بنسخة منه.",
+    "target_en_norm": "without prejudice to the right of the general auditing bureau to monitor the commission’s accounts, the board shall appoint an external auditor, or more, of natural or legal personality, licensed to practice in the kingdom, and shall determine his remuneration. in case of multiple auditors, they shall be jointly and severally liable before the commission for their work. the auditor’s report shall be submitted to the board and the general auditing bureau shall be provided with a copy thereof.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16979,
+    "source_ar": "المادة الثامنة عشرة:",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة:",
+    "target_en_norm": "article 18",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16980,
+    "source_ar": "يلغي هذا التنظيم كل ما يتعارض معه من أحكام.",
+    "target_en": "This Statute shall repeal any provisions conflicting therewith.",
+    "source_ar_norm": "يلغي هذا التنظيم كل ما يتعارض معه من احكام.",
+    "target_en_norm": "this statute shall repeal any provisions conflicting therewith.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16981,
+    "source_ar": "المادة التاسعة عشرة:",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة:",
+    "target_en_norm": "article 19",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16982,
+    "source_ar": "يُنشر هذا التنظيم في الجريدة الرسمية ويعمل به من تاريخ نشره.",
+    "target_en": "This Statute shall be published in the Official Gazette and shall enter into force from the date of its publication.",
+    "source_ar_norm": "ينشر هذا التنظيم في الجريدة الرسمية ويعمل به من تاريخ نشره.",
+    "target_en_norm": "this statute shall be published in the official gazette and shall enter into force from the date of its publication.",
+    "file_name": "تنظيم هيئة الاتصالات والفضاء والتقنية.docx"
+  },
+  {
+    "id": 16983,
+    "source_ar": "تنظيم هيئة التأمين",
+    "target_en": "Statute of the Insurance Authority",
+    "source_ar_norm": "تنظيم هيئة التامين",
+    "target_en_norm": "statute of the insurance authority",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 16984,
+    "source_ar": "المادة الأولى",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي",
+    "target_en_norm": "article 1",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 16985,
+    "source_ar": "يقصد بالألفاظ والعبارات الآتية -أينما وردت في هذا التنظيم- المعاني المبينة أمام كل منها:",
+    "target_en": "In this Statute, the following words and phrases shall have the meanings assigned thereto:",
+    "source_ar_norm": "يقصد بالالفاظ والعبارات الاتية -اينما وردت في هذا التنظيم- المعاني المبينة امام كل منها:",
+    "target_en_norm": "in this statute, the following words and phrases shall have the meanings assigned thereto:",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 16986,
+    "source_ar": "الهيئة: هيئة التأمين.",
+    "target_en": "Authority: Insurance Authority.",
+    "source_ar_norm": "الهيئة: هيئة التامين.",
+    "target_en_norm": "authority: insurance authority.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 16987,
+    "source_ar": "المجلس: مجلس إدارة الهيئة.",
+    "target_en": "Board: Board of Directors of the Authority.",
+    "source_ar_norm": "المجلس: مجلس ادارة الهيئة.",
+    "target_en_norm": "board: board of directors of the authority.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 16988,
+    "source_ar": "الرئيس: رئيس المجلس.",
+    "target_en": "Chairman: Chairman of the Board.",
+    "source_ar_norm": "الرئيس: رئيس المجلس.",
+    "target_en_norm": "chairman: chairman of the board.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 16989,
+    "source_ar": "الرئيس التنفيذي: الرئيس التنفيذي للهيئة.",
+    "target_en": "CEO: Chief Executive Officer of the Authority.",
+    "source_ar_norm": "الرئيس التنفيذي: الرئيس التنفيذي للهيئة.",
+    "target_en_norm": "ceo: chief executive officer of the authority.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 16990,
+    "source_ar": "التنظيم: تنظيم الهيئة.",
+    "target_en": "Statute: Statute of the Authority.",
+    "source_ar_norm": "التنظيم: تنظيم الهيئة.",
+    "target_en_norm": "statute: statute of the authority.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 16991,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 16992,
+    "source_ar": "تتمتع الهيئة بالشخصية الاعتبارية العامة والاستقلال المالي والإداري، وترتبط تنظيميًّا برئيس مجلس الوزراء، ويكون مقرها الرئيس في مدينة الرياض، ولها إنشاء فروع لها داخل المملكة.",
+    "target_en": "The Authority shall have a public legal personality and financial and administrative independence, and shall report to the Prime Minister. Its headquarters shall be in the city of Riyadh, and it may establish branches within the Kingdom.",
+    "source_ar_norm": "تتمتع الهيئة بالشخصية الاعتبارية العامة والاستقلال المالي والاداري، وترتبط تنظيميا برئيس مجلس الوزراء، ويكون مقرها الرئيس في مدينة الرياض، ولها انشاء فروع لها داخل المملكة.",
+    "target_en_norm": "the authority shall have a public legal personality and financial and administrative independence, and shall report to the prime minister. its headquarters shall be in the city of riyadh, and it may establish branches within the kingdom.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 16993,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 16994,
+    "source_ar": "تهدف الهيئة إلى تنظيم قطاع التأمين في المملكة والإشراف والرقابة عليه بما يدعمه ويعزز من فاعليته، وتعمل على تنمية الوعي التأميني، وحماية حقوق المؤمن لهم والمستفيدين، واستقرار قطاع التأمين، والمساهمة في الاستقرار المالي، وتعزيز وتنمية قطاع التأمين، والعمل على ترسيخ مبادئ العلاقة التعاقدية التأمينية وأركانها.",
+    "target_en": "The Authority aims to regulate, supervise, and monitor the insurance sector in the Kingdom to support and enhance its effectiveness. It also seeks to raise insurance awareness, protect the rights of the insured and beneficiaries, stabilize, develop, and promote the insurance sector, contribute to financial stability, and promote the principles and elements of the insurance contractual relationship.",
+    "source_ar_norm": "تهدف الهيئة الي تنظيم قطاع التامين في المملكة والاشراف والرقابة عليه بما يدعمه ويعزز من فاعليته، وتعمل علي تنمية الوعي التاميني، وحماية حقوق المؤمن لهم والمستفيدين، واستقرار قطاع التامين، والمساهمة في الاستقرار المالي، وتعزيز وتنمية قطاع التامين، والعمل علي ترسيخ مبادئ العلاقة التعاقدية التامينية واركانها.",
+    "target_en_norm": "the authority aims to regulate, supervise, and monitor the insurance sector in the kingdom to support and enhance its effectiveness. it also seeks to raise insurance awareness, protect the rights of the insured and beneficiaries, stabilize, develop, and promote the insurance sector, contribute to financial stability, and promote the principles and elements of the insurance contractual relationship.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 16995,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 16996,
+    "source_ar": "الهيئة هي الجهة المعنية بتنظيم أعمال التأمين في المملكة والإشراف والرقابة عليها وتطويرها، ولها -بالإضافة إلى اختصاصاتها المقررة نظاماً ودون إخلال باختصاصات ومسؤوليات الجهات الأخرى- القيام بكل ما يلزم لتحقيق أهدافها، ومن ذلك ما يأتي:",
+    "target_en": "The Authority is the entity in charge of regulating, supervising, monitoring, and developing insurance activities in the Kingdom. It shall, in addition to its functions as prescribed by law and without prejudice to the functions and responsibilities of other agencies, undertake what it deems necessary to achieve its objectives, including the following:",
+    "source_ar_norm": "الهيئة هي الجهة المعنية بتنظيم اعمال التامين في المملكة والاشراف والرقابة عليها وتطويرها، ولها -بالاضافة الي اختصاصاتها المقررة نظاما ودون اخلال باختصاصات ومسؤوليات الجهات الاخري- القيام بكل ما يلزم لتحقيق اهدافها، ومن ذلك ما ياتي:",
+    "target_en_norm": "the authority is the entity in charge of regulating, supervising, monitoring, and developing insurance activities in the kingdom. it shall, in addition to its functions as prescribed by law and without prejudice to the functions and responsibilities of other agencies, undertake what it deems necessary to achieve its objectives, including the following:",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 16997,
+    "source_ar": "1. وضع الاستراتيجية الوطنية لقطاع التأمين، ورفعها لاستكمال الإجراءات النظامية.",
+    "target_en": "1. Developing the national strategy for the insurance sector, and submitting it for completion of legal procedures.",
+    "source_ar_norm": "1. وضع الاستراتيجية الوطنية لقطاع التامين، ورفعها لاستكمال الاجراءات النظامية.",
+    "target_en_norm": "1. developing the national strategy for the insurance sector, and submitting it for completion of legal procedures.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 16998,
+    "source_ar": "2. وضع السياسات العامة والخطط والبرامج المتعلقة بقطاع التأمين، والرفع عما يستلزم استكمال إجراءات نظامية في شأنه، ومتابعة تنفيذها.",
+    "target_en": "2. Developing general policies, plans, and programs relating to the insurance sector, submitting any matter related thereto that requires completion of legal procedures, and monitoring their implementation.",
+    "source_ar_norm": "2. وضع السياسات العامة والخطط والبرامج المتعلقة بقطاع التامين، والرفع عما يستلزم استكمال اجراءات نظامية في شانه، ومتابعة تنفيذها.",
+    "target_en_norm": "2. developing general policies, plans, and programs relating to the insurance sector, submitting any matter related thereto that requires completion of legal procedures, and monitoring their implementation.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 16999,
+    "source_ar": "3. اقتراح مشروعات الأنظمة ذات العلاقة باختصاصات الهيئة، واقتراح تعديل المعمول بها منها، ورفعها لاستكمال الإجراءات النظامية.",
+    "target_en": "3. Proposing draft laws relating to the Authority's functions and amendments to applicable laws, and submitting the same for completion of legal procedures.",
+    "source_ar_norm": "3. اقتراح مشروعات الانظمة ذات العلاقة باختصاصات الهيئة، واقتراح تعديل المعمول بها منها، ورفعها لاستكمال الاجراءات النظامية.",
+    "target_en_norm": "3. proposing draft laws relating to the authority's functions and amendments to applicable laws, and submitting the same for completion of legal procedures.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17000,
+    "source_ar": "4. المساهمة في تشجيع الاستثمار في قطاع التأمين بالتنسيق مع الجهات ذات العلاقة.",
+    "target_en": "4. Encouraging investment in the insurance sector in coordination with the relevant agencies.",
+    "source_ar_norm": "4. المساهمة في تشجيع الاستثمار في قطاع التامين بالتنسيق مع الجهات ذات العلاقة.",
+    "target_en_norm": "4. encouraging investment in the insurance sector in coordination with the relevant agencies.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  }
+]

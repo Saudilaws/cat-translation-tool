@@ -1,0 +1,802 @@
+[
+  {
+    "id": 10201,
+    "source_ar": "يعد إيصال الشحن المشار إليه في الفقرة (2) من المادة (الواحدة والثمانين بعد المائة) دليلاً على تسلم الناقل البضائع من الشاحن بالحالة المبينة في الإيصال، ما لم يثبت غير ذلك.",
+    "target_en": "The delivery receipt referred to in Article 181(2) shall be deemed as evidence to the carrier’s receipt of the goods from the consignor in the condition described therein, unless proven otherwise.",
+    "source_ar_norm": "يعد ايصال الشحن المشار اليه في الفقرة (2) من المادة (الواحدة والثمانين بعد المائة) دليلا علي تسلم الناقل البضائع من الشاحن بالحالة المبينة في الايصال، ما لم يثبت غير ذلك.",
+    "target_en_norm": "the delivery receipt referred to in article 181(2) shall be deemed as evidence to the carrier’s receipt of the goods from the consignor in the condition described therein, unless proven otherwise.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10202,
+    "source_ar": "المادة الرابعة والتسعون بعد المائة",
+    "target_en": "Article 194",
+    "source_ar_norm": "المادة الرابعة والتسعون بعد المائة",
+    "target_en_norm": "article 194",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10203,
+    "source_ar": "1- يجوز لكل من له الحق في تسلم بضائع بمقتضى سند الشحن أن يطلب من الناقل إصدار أذون تسليم تتعلق بكميات منها، بشرط أن ينص على ذلك في سند الشحن.",
+    "target_en": "1. Any person who has the right to receive goods by virtue of a bill of lading may request the carrier to issue delivery orders with respect to quantities thereof, on the condition that it is stipulated in the bill of lading.",
+    "source_ar_norm": "1- يجوز لكل من له الحق في تسلم بضائع بمقتضي سند الشحن ان يطلب من الناقل اصدار اذون تسليم تتعلق بكميات منها، بشرط ان ينص علي ذلك في سند الشحن.",
+    "target_en_norm": "1. any person who has the right to receive goods by virtue of a bill of lading may request the carrier to issue delivery orders with respect to quantities thereof, on the condition that it is stipulated in the bill of lading.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10204,
+    "source_ar": "2- تصدر أذون التسليم باسم شخص معين أو لأمره أو لحامله، ويوقعها الناقل وطالب الإذن.",
+    "target_en": "2. Delivery orders shall be issued in the name of a specified person or to his order, or to the bearer, and shall be signed by the carrier and the person requesting the order.",
+    "source_ar_norm": "2- تصدر اذون التسليم باسم شخص معين او لامره او لحامله، ويوقعها الناقل وطالب الاذن.",
+    "target_en_norm": "2. delivery orders shall be issued in the name of a specified person or to his order, or to the bearer, and shall be signed by the carrier and the person requesting the order.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10205,
+    "source_ar": "3- إذا كان سند الشحن قابلاً للتداول وجب أن يذكر فيه الناقل بياناً عن أذون التسليم التي أصدرها والبضائع المبينة فيها، وإذا وزعت الشحنة بأكملها على أذون تسليم متعددة وجب أن يسترد الناقل سند الشحن.",
+    "target_en": "3. If the bill of lading is negotiable, the carrier shall mention therein the particulars of the delivery orders he has issued and the goods set out therein. If the shipment has been entirely distributed over several delivery orders, the carrier shall recall the bill of lading.",
+    "source_ar_norm": "3- اذا كان سند الشحن قابلا للتداول وجب ان يذكر فيه الناقل بيانا عن اذون التسليم التي اصدرها والبضائع المبينة فيها، واذا وزعت الشحنة باكملها علي اذون تسليم متعددة وجب ان يسترد الناقل سند الشحن.",
+    "target_en_norm": "3. if the bill of lading is negotiable, the carrier shall mention therein the particulars of the delivery orders he has issued and the goods set out therein. if the shipment has been entirely distributed over several delivery orders, the carrier shall recall the bill of lading.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10206,
+    "source_ar": "4- يعطي إذن التسليم حامله الشرعي حق تسلم البضائع المبينة به.",
+    "target_en": "4. The delivery order shall give its lawful holder the right to receive the goods indicated therein.",
+    "source_ar_norm": "4- يعطي اذن التسليم حامله الشرعي حق تسلم البضائع المبينة به.",
+    "target_en_norm": "4. the delivery order shall give its lawful holder the right to receive the goods indicated therein.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10207,
+    "source_ar": "المادة الخامسة والتسعون بعد المائة",
+    "target_en": "Article 195",
+    "source_ar_norm": "المادة الخامسة والتسعون بعد المائة",
+    "target_en_norm": "article 195",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10208,
+    "source_ar": "1- يجوز تسجيل بيانات سند الشحن المنصوص عليها في المادة (الثانية والثمانين بعد المائة) في سجل نقل إلكتروني، بشرط أن يكون إصدار هذا السجل واستخدامه لاحقاً بموافقة الناقل والشاحن.",
+    "target_en": "1. The particulars of the bill of lading provided for in Article 182 may be recorded in an electronic transport record, provided that the carrier and the consignor consent to its issuance and subsequent use.",
+    "source_ar_norm": "1- يجوز تسجيل بيانات سند الشحن المنصوص عليها في المادة (الثانية والثمانين بعد المائة) في سجل نقل الكتروني، بشرط ان يكون اصدار هذا السجل واستخدامه لاحقا بموافقة الناقل والشاحن.",
+    "target_en_norm": "1. the particulars of the bill of lading provided for in article 182 may be recorded in an electronic transport record, provided that the carrier and the consignor consent to its issuance and subsequent use.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10209,
+    "source_ar": "2- يكون لسجل النقل الإلكتروني، مفعول سند الشحن نفسه في حيازته وإحالته.",
+    "target_en": "2. The electronic transport record shall have the same effect as that of the bill of lading in terms of possession and transfer.",
+    "source_ar_norm": "2- يكون لسجل النقل الالكتروني، مفعول سند الشحن نفسه في حيازته واحالته.",
+    "target_en_norm": "2. the electronic transport record shall have the same effect as that of the bill of lading in terms of possession and transfer.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10210,
+    "source_ar": "المادة السادسة والتسعون بعد المائة",
+    "target_en": "Article 196",
+    "source_ar_norm": "المادة السادسة والتسعون بعد المائة",
+    "target_en_norm": "article 196",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10211,
+    "source_ar": "على الناقل إعداد السفينة وتجهيزها بما يلزم؛ لتكون صالحة للملاحة ولتنفيذ السفر المتفق عليه ولنقل نوع البضاعة التي تشحن فيها، وعليه كذلك إعداد أقسام السفينة المخصصة للشحن لتكون صالحة لوضع البضاعة فيها، وحفظها.",
+    "target_en": "The carrier shall prepare and equip the vessel with the necessary provisions to be in a seaworthy condition to carry out the voyage and transport the goods agreed upon, and he shall also prepare the cargo-designated areas to carry and preserve the goods.",
+    "source_ar_norm": "علي الناقل اعداد السفينة وتجهيزها بما يلزم؛ لتكون صالحة للملاحة ولتنفيذ السفر المتفق عليه ولنقل نوع البضاعة التي تشحن فيها، وعليه كذلك اعداد اقسام السفينة المخصصة للشحن لتكون صالحة لوضع البضاعة فيها، وحفظها.",
+    "target_en_norm": "the carrier shall prepare and equip the vessel with the necessary provisions to be in a seaworthy condition to carry out the voyage and transport the goods agreed upon, and he shall also prepare the cargo-designated areas to carry and preserve the goods.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10212,
+    "source_ar": "المادة السابعة والتسعون بعد المائة",
+    "target_en": "Article 197",
+    "source_ar_norm": "المادة السابعة والتسعون بعد المائة",
+    "target_en_norm": "article 197",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10213,
+    "source_ar": "يلتزم الناقل بشحن البضائع في السفينة وتفريغها ما لم يتفق على غير ذلك، ويلتزم كذلك برص البضاعة في السفينة والمحافظة عليها، ونقلها، وتسليمها عند وصولها.",
+    "target_en": "The carrier shall be responsible for loading and discharging the goods from the vessel unless agreed otherwise, and he shall also be responsible for stacking, preserving, carrying, and delivering the goods upon arrival.",
+    "source_ar_norm": "يلتزم الناقل بشحن البضائع في السفينة وتفريغها ما لم يتفق علي غير ذلك، ويلتزم كذلك برص البضاعة في السفينة والمحافظة عليها، ونقلها، وتسليمها عند وصولها.",
+    "target_en_norm": "the carrier shall be responsible for loading and discharging the goods from the vessel unless agreed otherwise, and he shall also be responsible for stacking, preserving, carrying, and delivering the goods upon arrival.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10214,
+    "source_ar": "المادة الثامنة والتسعون بعد المائة",
+    "target_en": "Article 198",
+    "source_ar_norm": "المادة الثامنة والتسعون بعد المائة",
+    "target_en_norm": "article 198",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10215,
+    "source_ar": "عدا الملاحة الساحلية بين موانئ المملكة، لا يجوز للناقل شحن بضائع على سطح السفينة إلا إذا أذن له الشاحن في ذلك كتابة، أو إذا كان الناقل ملزماً بالشحن بهذه الكيفية بمقتضى النظام المعمول به في ميناء الشحن أو إذا اقتضت طبيعة الشحنة أو جرى العرف في هذا الميناء على الشحن بهذه الكيفية. وفي جميع الأحوال يجب أن يذكر في سند الشحن أن البضاعة مشحونة على سطح السفينة.",
+    "target_en": "With the exception of coastal navigation between the Kingdom's ports, the carrier shall not load goods on the vessel's deck unless the consignor’s written approval is obtained, the applicable rules of the port of loading or the nature of the shipment so require, or there is a custom permitting the same in the port of loading. In all cases, the bill of lading shall indicate that the goods are loaded on the vessel's deck.",
+    "source_ar_norm": "عدا الملاحة الساحلية بين موانئ المملكة، لا يجوز للناقل شحن بضائع علي سطح السفينة الا اذا اذن له الشاحن في ذلك كتابة، او اذا كان الناقل ملزما بالشحن بهذه الكيفية بمقتضي النظام المعمول به في ميناء الشحن او اذا اقتضت طبيعة الشحنة او جري العرف في هذا الميناء علي الشحن بهذه الكيفية. وفي جميع الاحوال يجب ان يذكر في سند الشحن ان البضاعة مشحونة علي سطح السفينة.",
+    "target_en_norm": "with the exception of coastal navigation between the kingdom's ports, the carrier shall not load goods on the vessel's deck unless the consignor’s written approval is obtained, the applicable rules of the port of loading or the nature of the shipment so require, or there is a custom permitting the same in the port of loading. in all cases, the bill of lading shall indicate that the goods are loaded on the vessel's deck.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10216,
+    "source_ar": "المادة التاسعة والتسعون بعد المائة",
+    "target_en": "Article 199",
+    "source_ar_norm": "المادة التاسعة والتسعون بعد المائة",
+    "target_en_norm": "article 199",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10217,
+    "source_ar": "على الناقل إذا توقفت السفينة عن مواصلة السفر أيًّا كان السبب، بذل العناية اللازمة لإعداد سفينة أخرى لنقل البضائع إلى الميناء المتفق عليه وتحمل المصروفات الناشئة عن ذلك، إلا إذا كان توقف السفينة راجعاً إلى حالات الإعفاء من المسؤولية المنصوص عليها في النظام، فتكون المصروفات في هذه الحالة على الشاحن، ويستحق الناقل الأجرة المتفق عليها عن الرحلة كاملة إذا وصلت البضاعة إلى الميناء المتفق عليه.",
+    "target_en": "If the vessel fails to continue its voyage for any reason, the carrier shall exercise due diligence to prepare another vessel for the carriage of goods to the agreed port, and shall bear the expenses arising therefrom, unless exempted by this Law from such liability; in such case, the expenses shall be incurred by the consignor, and the carrier shall be entitled to the agreed freight in full once the goods reach the agreed-upon port.",
+    "source_ar_norm": "علي الناقل اذا توقفت السفينة عن مواصلة السفر ايا كان السبب، بذل العناية اللازمة لاعداد سفينة اخري لنقل البضائع الي الميناء المتفق عليه وتحمل المصروفات الناشئة عن ذلك، الا اذا كان توقف السفينة راجعا الي حالات الاعفاء من المسؤولية المنصوص عليها في النظام، فتكون المصروفات في هذه الحالة علي الشاحن، ويستحق الناقل الاجرة المتفق عليها عن الرحلة كاملة اذا وصلت البضاعة الي الميناء المتفق عليه.",
+    "target_en_norm": "if the vessel fails to continue its voyage for any reason, the carrier shall exercise due diligence to prepare another vessel for the carriage of goods to the agreed port, and shall bear the expenses arising therefrom, unless exempted by this law from such liability; in such case, the expenses shall be incurred by the consignor, and the carrier shall be entitled to the agreed freight in full once the goods reach the agreed-upon port.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10218,
+    "source_ar": "المادة المائتان",
+    "target_en": "Article 200",
+    "source_ar_norm": "المادة المائتان",
+    "target_en_norm": "article 200",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10219,
+    "source_ar": "على الشاحن تسليم البضائع للناقل في المكان والزمان المتفق عليهما، ولا يجوز أن تزيد قيمة التعويض الذي يستحق عند التأخير في تنفيذ هذا الالتزام على مقدار الأجرة.",
+    "target_en": "The consignor shall deliver the goods to the carrier at the agreed-upon time and place, and the value of the compensation in case of delay in delivery shall not exceed the amount of freight.",
+    "source_ar_norm": "علي الشاحن تسليم البضائع للناقل في المكان والزمان المتفق عليهما، ولا يجوز ان تزيد قيمة التعويض الذي يستحق عند التاخير في تنفيذ هذا الالتزام علي مقدار الاجرة.",
+    "target_en_norm": "the consignor shall deliver the goods to the carrier at the agreed-upon time and place, and the value of the compensation in case of delay in delivery shall not exceed the amount of freight.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10220,
+    "source_ar": "المادة الأولى بعد المائتين",
+    "target_en": "Article 201",
+    "source_ar_norm": "المادة الاولي بعد المائتين",
+    "target_en_norm": "article 201",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10221,
+    "source_ar": "1- يلتزم الشاحن بأداء أجرة النقل، وإذا كانت الأجرة مستحقة الأداء عند الوصول التزم بأدائها من له الحق في تسلم البضاعة إذا قبل تسلمها.",
+    "target_en": "1. The consignor shall pay the freight. If the freight is due upon arrival, the person who has the right to receive the goods shall pay the same if he accepts receipt of the goods.",
+    "source_ar_norm": "1- يلتزم الشاحن باداء اجرة النقل، واذا كانت الاجرة مستحقة الاداء عند الوصول التزم بادائها من له الحق في تسلم البضاعة اذا قبل تسلمها.",
+    "target_en_norm": "1. the consignor shall pay the freight. if the freight is due upon arrival, the person who has the right to receive the goods shall pay the same if he accepts receipt of the goods.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10222,
+    "source_ar": "2- إذا لم يذكر في سند الشحن مقدار الأجرة المستحقة عند الوصول اُفترض أن الناقل قبض الأجرة كاملة عند الشحن، ولا يجوز إثبات ما يخالف ذلك في مواجهة الغير الذي لا يعلم وقت حصوله على السند أن الأجرة أو جزءً منها لا يزال مستحقاً.",
+    "target_en": "2. If the bill of lading does not mention the amount of freight payable on arrival, it shall be presumed that the carrier received the full freight at the time of loading, and it shall not be permissible to prove the contrary thereof against a third party who was unaware, at the time of acquiring the bill of lading, that the freight or part thereof is still due.",
+    "source_ar_norm": "2- اذا لم يذكر في سند الشحن مقدار الاجرة المستحقة عند الوصول افترض ان الناقل قبض الاجرة كاملة عند الشحن، ولا يجوز اثبات ما يخالف ذلك في مواجهة الغير الذي لا يعلم وقت حصوله علي السند ان الاجرة او جزء منها لا يزال مستحقا.",
+    "target_en_norm": "2. if the bill of lading does not mention the amount of freight payable on arrival, it shall be presumed that the carrier received the full freight at the time of loading, and it shall not be permissible to prove the contrary thereof against a third party who was unaware, at the time of acquiring the bill of lading, that the freight or part thereof is still due.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10223,
+    "source_ar": "3- لا تبرأ ذمة الشاحن أو من له حق في تسلم البضائع من دفع أجرة نقلها حتى لو تلفت، أو نقصت كميتها أو قيمتها أثناء السفر.",
+    "target_en": "3. The consignor or the person entitled to receive the goods shall not be absolved from paying the freight for the carriage thereof, even if they are damaged or have diminished in quantity or value during the voyage.",
+    "source_ar_norm": "3- لا تبرا ذمة الشاحن او من له حق في تسلم البضائع من دفع اجرة نقلها حتي لو تلفت، او نقصت كميتها او قيمتها اثناء السفر.",
+    "target_en_norm": "3. the consignor or the person entitled to receive the goods shall not be absolved from paying the freight for the carriage thereof, even if they are damaged or have diminished in quantity or value during the voyage.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10224,
+    "source_ar": "المادة الثانية بعد المائتين",
+    "target_en": "Article 202",
+    "source_ar_norm": "المادة الثانية بعد المائتين",
+    "target_en_norm": "article 202",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10225,
+    "source_ar": "تستحق أجرة النقل عن البضائع التي يقرر الربان إلقاءها في البحر أو التضحية بها بأي صورة أخرى لإنقاذ السفينة أو الشحنة، مع مراعاة أحكام الخسائر البحرية المشتركة المنصوص عليها في النظام.",
+    "target_en": "Freight shall be payable for goods which the master decides to jettison or sacrifice in any other way to save the vessel or the cargo, subject to the provisions of general average provided for in this Law.",
+    "source_ar_norm": "تستحق اجرة النقل عن البضائع التي يقرر الربان القاءها في البحر او التضحية بها باي صورة اخري لانقاذ السفينة او الشحنة، مع مراعاة احكام الخسائر البحرية المشتركة المنصوص عليها في النظام.",
+    "target_en_norm": "freight shall be payable for goods which the master decides to jettison or sacrifice in any other way to save the vessel or the cargo, subject to the provisions of general average provided for in this law.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10226,
+    "source_ar": "المادة الثالثة بعد المائتين:",
+    "target_en": "Article 203",
+    "source_ar_norm": "المادة الثالثة بعد المائتين:",
+    "target_en_norm": "article 203",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10227,
+    "source_ar": "لا تستحق أجرة النقل إذا هلكت البضائع بسبب قوة قاهرة، أو إهمال الناقل في تنفيذ ما يفرضه عليه النظام أو العقد من التزامات.",
+    "target_en": "Freight shall not be payable if the goods are lost due to force majeure or to the carrier’s failure to perform the obligations imposed by this Law or the contract.",
+    "source_ar_norm": "لا تستحق اجرة النقل اذا هلكت البضائع بسبب قوة قاهرة، او اهمال الناقل في تنفيذ ما يفرضه عليه النظام او العقد من التزامات.",
+    "target_en_norm": "freight shall not be payable if the goods are lost due to force majeure or to the carrier’s failure to perform the obligations imposed by this law or the contract.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10228,
+    "source_ar": "المادة الرابعة بعد المائتين",
+    "target_en": "Article 204",
+    "source_ar_norm": "المادة الرابعة بعد المائتين",
+    "target_en_norm": "article 204",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10229,
+    "source_ar": "يضمن الشاحن الضرر الذي يصيب السفينة أو البضائع المشحونة فيها إذا كان الضرر ناشئاً عن فعله، أو فعل تابعيه، أو عن عيب في بضائعه.",
+    "target_en": "The consignor shall be liable for any damage sustained by the vessel or the goods loaded therein if the damage is attributable to his own act or that of his servants or to a defect in his goods.",
+    "source_ar_norm": "يضمن الشاحن الضرر الذي يصيب السفينة او البضائع المشحونة فيها اذا كان الضرر ناشئا عن فعله، او فعل تابعيه، او عن عيب في بضائعه.",
+    "target_en_norm": "the consignor shall be liable for any damage sustained by the vessel or the goods loaded therein if the damage is attributable to his own act or that of his servants or to a defect in his goods.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10230,
+    "source_ar": "المادة الخامسة بعد المائتين",
+    "target_en": "Article 205",
+    "source_ar_norm": "المادة الخامسة بعد المائتين",
+    "target_en_norm": "article 205",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10231,
+    "source_ar": "على الربان تسليم البضائع عند وصولها إلى الحامل الشرعي لسند الشحن أو من ينوب عنه في تسلمها.",
+    "target_en": "The master shall deliver the goods upon arrival to the lawful holder of the bill of lading or his representative in receipt thereof.",
+    "source_ar_norm": "علي الربان تسليم البضائع عند وصولها الي الحامل الشرعي لسند الشحن او من ينوب عنه في تسلمها.",
+    "target_en_norm": "the master shall deliver the goods upon arrival to the lawful holder of the bill of lading or his representative in receipt thereof.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10232,
+    "source_ar": "المادة السادسة بعد المائتين",
+    "target_en": "Article 206",
+    "source_ar_norm": "المادة السادسة بعد المائتين",
+    "target_en_norm": "article 206",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10233,
+    "source_ar": "يعد تسليم نسخة من سند الشحن إلى الناقل قرينة على تسليم البضائع إلى صاحب الحق في تسلمها، ما لم يثبت غير ذلك.",
+    "target_en": "The delivery of a copy of the bill of lading to the carrier shall be deemed to be evidence to the delivery of the goods to the person who has the right to receive the same, unless proven otherwise.",
+    "source_ar_norm": "يعد تسليم نسخة من سند الشحن الي الناقل قرينة علي تسليم البضائع الي صاحب الحق في تسلمها، ما لم يثبت غير ذلك.",
+    "target_en_norm": "the delivery of a copy of the bill of lading to the carrier shall be deemed to be evidence to the delivery of the goods to the person who has the right to receive the same, unless proven otherwise.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10234,
+    "source_ar": "المادة السابعة بعد المائتين",
+    "target_en": "Article 207",
+    "source_ar_norm": "المادة السابعة بعد المائتين",
+    "target_en_norm": "article 207",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10235,
+    "source_ar": "1- إذا تقدم عدة أشخاص يحملون نسخاً من سند الشحن القابل للتداول بطلب تسلم البضائع، وجب تفضيل حامل النسخة التي يكون أول تظهير فيها سابقاً على تظهيرات النسخ الأخرى.",
+    "target_en": "1. If a number of persons holding copies of the negotiable bill of lading request receipt of the goods, preference shall be given to the holder of the copy bearing the earliest date of indorsement.",
+    "source_ar_norm": "1- اذا تقدم عدة اشخاص يحملون نسخا من سند الشحن القابل للتداول بطلب تسلم البضائع، وجب تفضيل حامل النسخة التي يكون اول تظهير فيها سابقا علي تظهيرات النسخ الاخري.",
+    "target_en_norm": "1. if a number of persons holding copies of the negotiable bill of lading request receipt of the goods, preference shall be given to the holder of the copy bearing the earliest date of indorsement.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10236,
+    "source_ar": "2- إذا تسلم البضائع حامل حسن النية لإحدى النسخ كانت له الأفضلية على حاملي النسخ الأخرى، ولو كانت تظهيراتها أسبق تاريخاً.",
+    "target_en": "2. If the goods are delivered to a bona fide holder of one of the negotiable copies of the bill of lading, he shall have preference over holders of other copies even though they bear earlier dates of indorsement.",
+    "source_ar_norm": "2- اذا تسلم البضائع حامل حسن النية لاحدي النسخ كانت له الافضلية علي حاملي النسخ الاخري، ولو كانت تظهيراتها اسبق تاريخا.",
+    "target_en_norm": "2. if the goods are delivered to a bona fide holder of one of the negotiable copies of the bill of lading, he shall have preference over holders of other copies even though they bear earlier dates of indorsement.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10237,
+    "source_ar": "المادة الثامنة بعد المائتين",
+    "target_en": "Article 208",
+    "source_ar_norm": "المادة الثامنة بعد المائتين",
+    "target_en_norm": "article 208",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10238,
+    "source_ar": "1- إذا لم يحضر صاحب الحق لتسلم البضائع، أو حضر وامتنع عن تسلمها أو عن أداء أجرة النقل أو غيرها من المبالغ الناشئة عن النقل، جاز للناقل أن يطلب من المحكمة المختصة الإذن بإيداع البضائع عند أمين تعينه المحكمة، ويجوز للناقل كذلك طلب الإذن ببيع البضائع كلها أو بعضها لاستيفاء المبالغ المستحقة على صاحب البضاعة.",
+    "target_en": "1. If the person having the right to receive the goods does not attend or if he attends but declines to receive the same or to pay the freight or any other amounts arising out of the carriage, the carrier may request the competent court for permission to deposit the same with a receiver to be appointed by the court. The carrier may also request permission to sell the goods in whole or in part to collect the amounts due by the owner of the goods.",
+    "source_ar_norm": "1- اذا لم يحضر صاحب الحق لتسلم البضائع، او حضر وامتنع عن تسلمها او عن اداء اجرة النقل او غيرها من المبالغ الناشئة عن النقل، جاز للناقل ان يطلب من المحكمة المختصة الاذن بايداع البضائع عند امين تعينه المحكمة، ويجوز للناقل كذلك طلب الاذن ببيع البضائع كلها او بعضها لاستيفاء المبالغ المستحقة علي صاحب البضاعة.",
+    "target_en_norm": "1. if the person having the right to receive the goods does not attend or if he attends but declines to receive the same or to pay the freight or any other amounts arising out of the carriage, the carrier may request the competent court for permission to deposit the same with a receiver to be appointed by the court. the carrier may also request permission to sell the goods in whole or in part to collect the amounts due by the owner of the goods.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10239,
+    "source_ar": "2- يكون للناقل حق امتياز على ثمن البضائع لاستيفاء أجرة النقل وغيرها من المبالغ التي تستحق له بسبب النقل.",
+    "target_en": "2. The carrier shall have a lien on the sale proceeds of the goods to secure the freight and other carriage-related amounts due to him.",
+    "source_ar_norm": "2- يكون للناقل حق امتياز علي ثمن البضائع لاستيفاء اجرة النقل وغيرها من المبالغ التي تستحق له بسبب النقل.",
+    "target_en_norm": "2. the carrier shall have a lien on the sale proceeds of the goods to secure the freight and other carriage-related amounts due to him.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10240,
+    "source_ar": "المادة التاسعة بعد المائتين",
+    "target_en": "Article 209",
+    "source_ar_norm": "المادة التاسعة بعد المائتين",
+    "target_en_norm": "article 209",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10241,
+    "source_ar": "تبدأ مسؤولية الناقل عن البضائع وتعد في عهدته من الوقت الذي يتلقى فيه هذه البضائع من الشاحن أو من شخص ينوب عنه أو سلطة أو طرف ثالث آخر توجب اللوائح السارية في ميناء الشحن تسليم البضائع له لغرض الشحن، وتنتهي عند تسليمها إلى المرسل إليه، أو وضعها تحت تصرفه وفقًا للعقد أو النظام أو العرف المتبع في ميناء التفريغ، أو تسليمها إلى سلطة أو طرف ثالث توجب اللوائح السارية في ميناء التفريغ تسليمها إليه.",
+    "target_en": "The carrier shall be liable for the goods and they shall be deemed to be in his custody from the time he receives such goods from the consignor or his representative, an authority, or a third party which the regulations in force at the port of loading require the goods to be delivered thereto for the purpose of shipment. Such liability shall end once the goods are delivered to or placed at the disposal of the consignee in accordance with the contract or the rules and custom applicable at the port of discharge, or once the same is delivered to an authority or a third party which the regulations in force at the port of discharge require the goods to be delivered thereto.",
+    "source_ar_norm": "تبدا مسؤولية الناقل عن البضائع وتعد في عهدته من الوقت الذي يتلقي فيه هذه البضائع من الشاحن او من شخص ينوب عنه او سلطة او طرف ثالث اخر توجب اللوائح السارية في ميناء الشحن تسليم البضائع له لغرض الشحن، وتنتهي عند تسليمها الي المرسل اليه، او وضعها تحت تصرفه وفقا للعقد او النظام او العرف المتبع في ميناء التفريغ، او تسليمها الي سلطة او طرف ثالث توجب اللوائح السارية في ميناء التفريغ تسليمها اليه.",
+    "target_en_norm": "the carrier shall be liable for the goods and they shall be deemed to be in his custody from the time he receives such goods from the consignor or his representative, an authority, or a third party which the regulations in force at the port of loading require the goods to be delivered thereto for the purpose of shipment. such liability shall end once the goods are delivered to or placed at the disposal of the consignee in accordance with the contract or the rules and custom applicable at the port of discharge, or once the same is delivered to an authority or a third party which the regulations in force at the port of discharge require the goods to be delivered thereto.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10242,
+    "source_ar": "المادة العاشرة بعد المائتين",
+    "target_en": "Article 210",
+    "source_ar_norm": "المادة العاشرة بعد المائتين",
+    "target_en_norm": "article 210",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10243,
+    "source_ar": "1- يسأل الناقل عن الخسارة الناتجة عن هلاك البضائع أو تلفها، والناتجة عن التأخير في التسليم إذا وقع الحادث الذي تسبب في الهلاك أو التلف أو التأخير أثناء وجود البضائع في عهدته، ما لم يثبت أنه قد اتخذ هو أو تابعوه أو وكلاؤه ما يجب اتخاذه من تدابير لتجنب الحادث وتبعاته.",
+    "target_en": "1. The carrier shall be liable for any loss or damage sustained by the goods as well as for delay in delivery if the accident causing the loss, damage, or delay occurs while the goods are in his custody, unless he proves that he, his servants, or his agents have done everything within their power to avoid the accident and its consequences.",
+    "source_ar_norm": "1- يسال الناقل عن الخسارة الناتجة عن هلاك البضائع او تلفها، والناتجة عن التاخير في التسليم اذا وقع الحادث الذي تسبب في الهلاك او التلف او التاخير اثناء وجود البضائع في عهدته، ما لم يثبت انه قد اتخذ هو او تابعوه او وكلاؤه ما يجب اتخاذه من تدابير لتجنب الحادث وتبعاته.",
+    "target_en_norm": "1. the carrier shall be liable for any loss or damage sustained by the goods as well as for delay in delivery if the accident causing the loss, damage, or delay occurs while the goods are in his custody, unless he proves that he, his servants, or his agents have done everything within their power to avoid the accident and its consequences.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10244,
+    "source_ar": "2- يقع التأخير في التسليم إذا لم تُسلم البضائع في ميناء التفريغ المنصوص عليه في عقد النقل في حدود المدة المتفق عليها، أو في حدود المدة التي يكون من المعقول إتمام التسليم خلالها من الناقل العادي في الظروف المماثلة في حالة عدم وجود هذا الاتفاق.",
+    "target_en": "2. Delay in delivery occurs when the goods are not delivered at the port of discharge stated in the contract of carriage within the agreed-upon period or, in the absence of such agreement, within the usual period it takes an ordinary carrier in similar circumstances to complete the delivery.",
+    "source_ar_norm": "2- يقع التاخير في التسليم اذا لم تسلم البضائع في ميناء التفريغ المنصوص عليه في عقد النقل في حدود المدة المتفق عليها، او في حدود المدة التي يكون من المعقول اتمام التسليم خلالها من الناقل العادي في الظروف المماثلة في حالة عدم وجود هذا الاتفاق.",
+    "target_en_norm": "2. delay in delivery occurs when the goods are not delivered at the port of discharge stated in the contract of carriage within the agreed-upon period or, in the absence of such agreement, within the usual period it takes an ordinary carrier in similar circumstances to complete the delivery.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10245,
+    "source_ar": "3- للشخص الذي له الحق في الادعاء بالتعويض عن هلاك البضائع أن يعد البضائع هالكة إذا لم تُسلم خلال ستين يوماً متصلة من انتهاء المدة المحددة للتسليم.",
+    "target_en": "3. A person who has the right to claim compensation for the loss of goods shall deem the same to be lost if not delivered within 60 successive days after the expiry of the period specified for delivery.",
+    "source_ar_norm": "3- للشخص الذي له الحق في الادعاء بالتعويض عن هلاك البضائع ان يعد البضائع هالكة اذا لم تسلم خلال ستين يوما متصلة من انتهاء المدة المحددة للتسليم.",
+    "target_en_norm": "3. a person who has the right to claim compensation for the loss of goods shall deem the same to be lost if not delivered within 60 successive days after the expiry of the period specified for delivery.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10246,
+    "source_ar": "4- يسأل الناقل عن هلاك البضائع أو تلفها أو التأخير في تسليمها بسبب الحريق، إذا أثبت صاحب الادعاء أن الحريق نشأ عن خطأ أو إهمال من جانب الناقل أو تابعيه أو وكلائه، أو من عدم اتخاذهم التدابير التي كان ينبغي اتخاذها، لإخماد الحريق وتجنب تبعاته أو التخفيف منها.",
+    "target_en": "4. The carrier shall be liable for fire-related loss, damage, or delay in delivering the goods if the claimant proves that the fire arose from a fault or negligence attributable to the carrier or his servants or agents or due to their failure to take the necessary measures to put out the fire and avoid or mitigate its consequences.",
+    "source_ar_norm": "4- يسال الناقل عن هلاك البضائع او تلفها او التاخير في تسليمها بسبب الحريق، اذا اثبت صاحب الادعاء ان الحريق نشا عن خطا او اهمال من جانب الناقل او تابعيه او وكلائه، او من عدم اتخاذهم التدابير التي كان ينبغي اتخاذها، لاخماد الحريق وتجنب تبعاته او التخفيف منها.",
+    "target_en_norm": "4. the carrier shall be liable for fire-related loss, damage, or delay in delivering the goods if the claimant proves that the fire arose from a fault or negligence attributable to the carrier or his servants or agents or due to their failure to take the necessary measures to put out the fire and avoid or mitigate its consequences.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10247,
+    "source_ar": "5- لا يسأل الناقل عن الهلاك أو الضرر أو التأخير في التسليم الناتج عن أي مخاطر خاصة تلازم نقل الحيوانات الحية، وإذا نفَّذ الناقل تعليمات الشاحن في شأن نقل هذه الحيوانات افترض أن هلاكها أو ما أصابها من ضرر ناشئ عن المخاطر الخاصة بهذا النوع من النقل، حتى يثبت الشاحن وقوع خطأ من الناقل، أو من نائبه، أو من أحد تابعيه.",
+    "target_en": "5. The carrier shall not be liable for the loss, damage, or delay in delivery resulting from any special risks associated with the carriage of live animals. If the carrier complies with the consignor's instructions regarding the carriage of such animals, it shall be presumed that any loss or harm thereto is attributable to the special risks associated with this type of carriage, unless the consignor proves that the same has resulted from a fault attributable to the carrier, his representative, or any of his servants.",
+    "source_ar_norm": "5- لا يسال الناقل عن الهلاك او الضرر او التاخير في التسليم الناتج عن اي مخاطر خاصة تلازم نقل الحيوانات الحية، واذا نفذ الناقل تعليمات الشاحن في شان نقل هذه الحيوانات افترض ان هلاكها او ما اصابها من ضرر ناشئ عن المخاطر الخاصة بهذا النوع من النقل، حتي يثبت الشاحن وقوع خطا من الناقل، او من نائبه، او من احد تابعيه.",
+    "target_en_norm": "5. the carrier shall not be liable for the loss, damage, or delay in delivery resulting from any special risks associated with the carriage of live animals. if the carrier complies with the consignor's instructions regarding the carriage of such animals, it shall be presumed that any loss or harm thereto is attributable to the special risks associated with this type of carriage, unless the consignor proves that the same has resulted from a fault attributable to the carrier, his representative, or any of his servants.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10248,
+    "source_ar": "6- لا يسأل الناقل إذا كان الهلاك أو التلف أو التأخير ناتجاً عن تدابير لإنقاذ الأرواح، أو عن تدابير لإنقاذ الممتلكات في البحر، فيما عدا الخسارة المشتركة.",
+    "target_en": "6. The carrier shall not be liable, except in general average, if the loss, damage, or delay results from measures taken to save lives or salvage property at sea.",
+    "source_ar_norm": "6- لا يسال الناقل اذا كان الهلاك او التلف او التاخير ناتجا عن تدابير لانقاذ الارواح، او عن تدابير لانقاذ الممتلكات في البحر، فيما عدا الخسارة المشتركة.",
+    "target_en_norm": "6. the carrier shall not be liable, except in general average, if the loss, damage, or delay results from measures taken to save lives or salvage property at sea.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10249,
+    "source_ar": "7- إذا اجتمع خطأ أو إهمال من جانب الناقل أو تابعيه أو وكلائه مع سبب آخر في إحداث الهلاك أو التلف أو التأخير في التسليم، لا يسأل الناقل إلا بقدر ما يُعزى الهلاك أو التلف أو التأخير في التسليم إلى الخطأ أو الإهمال الصادر منه أو من تابعيه أو وكلائه، بشرط أن يثبت الناقل مقدار الهلاك أو التلف أو التأخير في التسليم الذي لا يُعزى إلى ذلك الخطأ أو الإهمال.",
+    "target_en": "7. If fault or negligence attributable to the carrier, his servants, or agents, in conjunction with another cause, result in loss, damage, or delay in delivery, the carrier shall be liable only to the extent that the loss, damage, or delay in delivery is attributable to his fault or negligence or that of his servants or agents, provided that the carrier proves the extent of the loss, damage, or delay in delivery that is not attributable thereto.",
+    "source_ar_norm": "7- اذا اجتمع خطا او اهمال من جانب الناقل او تابعيه او وكلائه مع سبب اخر في احداث الهلاك او التلف او التاخير في التسليم، لا يسال الناقل الا بقدر ما يعزي الهلاك او التلف او التاخير في التسليم الي الخطا او الاهمال الصادر منه او من تابعيه او وكلائه، بشرط ان يثبت الناقل مقدار الهلاك او التلف او التاخير في التسليم الذي لا يعزي الي ذلك الخطا او الاهمال.",
+    "target_en_norm": "7. if fault or negligence attributable to the carrier, his servants, or agents, in conjunction with another cause, result in loss, damage, or delay in delivery, the carrier shall be liable only to the extent that the loss, damage, or delay in delivery is attributable to his fault or negligence or that of his servants or agents, provided that the carrier proves the extent of the loss, damage, or delay in delivery that is not attributable thereto.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10250,
+    "source_ar": "المادة الحادية عشرة بعد المائتين",
+    "target_en": "Article 211",
+    "source_ar_norm": "المادة الحادية عشرة بعد المائتين",
+    "target_en_norm": "article 211",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10251,
+    "source_ar": "يعفى الناقل من المسؤولية المنصوص عليها في الفقرة (1) من المادة (العاشرة بعد المائتين) إذا أثبت أن هلاك البضاعة أو تلفها يرجع إلى سبب خارجي لا يد له أو لنائبه أو لأحد من تابعيه أو وكلائه فيه.",
+    "target_en": "The carrier shall be exempt from the liability provided for in Article 210(1) if he proves that the loss or damage of the goods is the result of an external cause not attributable to him or to his representative, servants, or agents.",
+    "source_ar_norm": "يعفي الناقل من المسؤولية المنصوص عليها في الفقرة (1) من المادة (العاشرة بعد المائتين) اذا اثبت ان هلاك البضاعة او تلفها يرجع الي سبب خارجي لا يد له او لنائبه او لاحد من تابعيه او وكلائه فيه.",
+    "target_en_norm": "the carrier shall be exempt from the liability provided for in article 210(1) if he proves that the loss or damage of the goods is the result of an external cause not attributable to him or to his representative, servants, or agents.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10252,
+    "source_ar": "المادة الثانية عشرة بعد المائتين",
+    "target_en": "Article 212",
+    "source_ar_norm": "المادة الثانية عشرة بعد المائتين",
+    "target_en_norm": "article 212",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10253,
+    "source_ar": "إذا تعمد الشاحن ذكر بيانات غير صحيحة في سند الشحن عن طبيعة البضاعة أو قيمتها، فلا يسأل الناقل عن هلاك البضائع أو تلفها إذا أثبت عدم صحة هذه البيانات.",
+    "target_en": "If the consignor has deliberately provided inaccurate particulars on the bill of lading relating to the nature or value of the goods, the carrier shall not be liable for the loss or damage sustained by the goods once such particulars are proved to be inaccurate.",
+    "source_ar_norm": "اذا تعمد الشاحن ذكر بيانات غير صحيحة في سند الشحن عن طبيعة البضاعة او قيمتها، فلا يسال الناقل عن هلاك البضائع او تلفها اذا اثبت عدم صحة هذه البيانات.",
+    "target_en_norm": "if the consignor has deliberately provided inaccurate particulars on the bill of lading relating to the nature or value of the goods, the carrier shall not be liable for the loss or damage sustained by the goods once such particulars are proved to be inaccurate.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10254,
+    "source_ar": "المادة الثالثة عشرة بعد المائتين",
+    "target_en": "Article 213",
+    "source_ar_norm": "المادة الثالثة عشرة بعد المائتين",
+    "target_en_norm": "article 213",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10255,
+    "source_ar": "لا يسأل الناقل عن هلاك أو تلف البضائع التي يذكر في سند الشحن أنها منقولة على سطح السفينة، إذا أثبت أن الهلاك أو التلف ناشئ عن المخاطر الخاصة بهذا النوع من النقل.",
+    "target_en": "The carrier shall not be liable for loss or damage sustained by the goods which are mentioned in the bill of lading as being carried on deck if it is proved that the loss or damage is attributable to special risks associated with that type of carriage.",
+    "source_ar_norm": "لا يسال الناقل عن هلاك او تلف البضائع التي يذكر في سند الشحن انها منقولة علي سطح السفينة، اذا اثبت ان الهلاك او التلف ناشئ عن المخاطر الخاصة بهذا النوع من النقل.",
+    "target_en_norm": "the carrier shall not be liable for loss or damage sustained by the goods which are mentioned in the bill of lading as being carried on deck if it is proved that the loss or damage is attributable to special risks associated with that type of carriage.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10256,
+    "source_ar": "المادة الرابعة عشرة بعد المائتين",
+    "target_en": "Article 214",
+    "source_ar_norm": "المادة الرابعة عشرة بعد المائتين",
+    "target_en_norm": "article 214",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10257,
+    "source_ar": "1- لا يجوز للناقل التمسك في مواجهة الشاحن بتحديد المسؤولية إذا قدم الشاحن بياناً قبل الشحن عن طبيعة البضاعة وقيمتها وما يتعلق بالمحافظة عليها من أهمية خاصة، وذكر هذا البيان في سند الشحن. ويعد هذا البيان قرينة على صحة القيمة التي عينها الشاحن للبضائع إلى أن يقيم الناقل الدليل على ما يخالفها.",
+    "target_en": "1. The carrier shall not limit his liability against the consignor if the consignor has, before the loading takes place, provided in the bill of lading a description of the nature of the goods and their value and the importance of preservation thereof. Said description shall be deemed to be proof of the accuracy of the value set out by the consignor of the goods, unless the carrier proves otherwise.",
+    "source_ar_norm": "1- لا يجوز للناقل التمسك في مواجهة الشاحن بتحديد المسؤولية اذا قدم الشاحن بيانا قبل الشحن عن طبيعة البضاعة وقيمتها وما يتعلق بالمحافظة عليها من اهمية خاصة، وذكر هذا البيان في سند الشحن. ويعد هذا البيان قرينة علي صحة القيمة التي عينها الشاحن للبضائع الي ان يقيم الناقل الدليل علي ما يخالفها.",
+    "target_en_norm": "1. the carrier shall not limit his liability against the consignor if the consignor has, before the loading takes place, provided in the bill of lading a description of the nature of the goods and their value and the importance of preservation thereof. said description shall be deemed to be proof of the accuracy of the value set out by the consignor of the goods, unless the carrier proves otherwise.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10258,
+    "source_ar": "2- لا يُعد تمسك الناقل بتحديد مسؤوليته إقراراً منه بالمسؤولية.",
+    "target_en": "2. The carrier’s limitation of his liability shall not be deemed as acknowledgment of such liability.",
+    "source_ar_norm": "2- لا يعد تمسك الناقل بتحديد مسؤوليته اقرارا منه بالمسؤولية.",
+    "target_en_norm": "2. the carrier’s limitation of his liability shall not be deemed as acknowledgment of such liability.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10259,
+    "source_ar": "المادة الخامسة عشرة بعد المائتين",
+    "target_en": "Article 215",
+    "source_ar_norm": "المادة الخامسة عشرة بعد المائتين",
+    "target_en_norm": "article 215",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10260,
+    "source_ar": "يقع باطلاً كل اتفاق يتم قبل وقوع الحادث الذي نشأ عنه الضرر، ويكون موضوعه أحد الأمور الآتية:",
+    "target_en": "Any agreement concluded prior to the occurrence of any damage-causing accident shall be deemed void if the subject matter thereof includes one of the following:",
+    "source_ar_norm": "يقع باطلا كل اتفاق يتم قبل وقوع الحادث الذي نشا عنه الضرر، ويكون موضوعه احد الامور الاتية:",
+    "target_en_norm": "any agreement concluded prior to the occurrence of any damage-causing accident shall be deemed void if the subject matter thereof includes one of the following:",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10261,
+    "source_ar": "1- إعفاء الناقل من المسؤولية عن هلاك البضائع أو تلفها.",
+    "target_en": "1. Exempting the carrier from liability for the loss or damage to the goods.",
+    "source_ar_norm": "1- اعفاء الناقل من المسؤولية عن هلاك البضائع او تلفها.",
+    "target_en_norm": "1. exempting the carrier from liability for the loss or damage to the goods.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10262,
+    "source_ar": "2- تعديل عبء الإثبات الذي يضعه النظام على عاتق الناقل.",
+    "target_en": "2. Shifting the burden of proof this Law imposes on the carrier.",
+    "source_ar_norm": "2- تعديل عبء الاثبات الذي يضعه النظام علي عاتق الناقل.",
+    "target_en_norm": "2. shifting the burden of proof this law imposes on the carrier.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10263,
+    "source_ar": "3- التنازل للناقل عن الحقوق الناشئة عن التأمين على البضائع.",
+    "target_en": "3. Assigning the rights arising out of insurance of goods in favor of the carrier.",
+    "source_ar_norm": "3- التنازل للناقل عن الحقوق الناشئة عن التامين علي البضائع.",
+    "target_en_norm": "3. assigning the rights arising out of insurance of goods in favor of the carrier.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10264,
+    "source_ar": "المادة السادسة عشرة بعد المائتين",
+    "target_en": "Article 216",
+    "source_ar_norm": "المادة السادسة عشرة بعد المائتين",
+    "target_en_norm": "article 216",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10265,
+    "source_ar": "للناقل أن يتنازل عن كل الحقوق والإعفاءات المقررة له أو بعضها، كما يجوز له أن يزيد مسؤوليته والتزاماته بشرط أن يذكر ذلك في سند الشحن.",
+    "target_en": "The carrier may assign all or part of the rights and exemptions granted to him, and may increase his liabilities and obligations on condition that the same is stated in the bill of lading.",
+    "source_ar_norm": "للناقل ان يتنازل عن كل الحقوق والاعفاءات المقررة له او بعضها، كما يجوز له ان يزيد مسؤوليته والتزاماته بشرط ان يذكر ذلك في سند الشحن.",
+    "target_en_norm": "the carrier may assign all or part of the rights and exemptions granted to him, and may increase his liabilities and obligations on condition that the same is stated in the bill of lading.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10266,
+    "source_ar": "المادة السابعة عشرة بعد المائتين",
+    "target_en": "Article 217",
+    "source_ar_norm": "المادة السابعة عشرة بعد المائتين",
+    "target_en_norm": "article 217",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10267,
+    "source_ar": "يجوز الاتفاق على ما يخالف أحكام المادة (الخامسة عشرة بعد المائتين) إذا كانت الظروف الاستثنائية التي يُنقل فيها تسوّغ إبرام هذا الاتفاق، بشرط ألاّ يكون من شأنه إعفاء الناقل من المسؤولية عن خطئه أو خطأ تابعيه، وبشرط ألاّ يصدر سند شحن، وأن يدون الاتفاق في إيصال غير قابل للتداول يبين فيه ما يفيد ذلك.",
+    "target_en": "An agreement contrary to the provisions of Article 215 of this Law may be concluded if the exceptional conditions under which transportation is carried out justify concluding such agreement, provided it does not exempt the carrier from liability for his fault or that of his servants, that a bill of lading is not issued, and that the agreement is made in writing on a non-negotiable receipt indicating the same.",
+    "source_ar_norm": "يجوز الاتفاق علي ما يخالف احكام المادة (الخامسة عشرة بعد المائتين) اذا كانت الظروف الاستثنائية التي ينقل فيها تسوغ ابرام هذا الاتفاق، بشرط الا يكون من شانه اعفاء الناقل من المسؤولية عن خطئه او خطا تابعيه، وبشرط الا يصدر سند شحن، وان يدون الاتفاق في ايصال غير قابل للتداول يبين فيه ما يفيد ذلك.",
+    "target_en_norm": "an agreement contrary to the provisions of article 215 of this law may be concluded if the exceptional conditions under which transportation is carried out justify concluding such agreement, provided it does not exempt the carrier from liability for his fault or that of his servants, that a bill of lading is not issued, and that the agreement is made in writing on a non-negotiable receipt indicating the same.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10268,
+    "source_ar": "المادة الثامنة عشرة بعد المائتين",
+    "target_en": "Article 218",
+    "source_ar_norm": "المادة الثامنة عشرة بعد المائتين",
+    "target_en_norm": "article 218",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10269,
+    "source_ar": "1- في حالة هلاك البضاعة أو تلفها يجب على من يتقدم لتسلمها أن يبلغ الناقل كتابةً بالهلاك أو التلف في موعد لا يتجاوز يوم عمل يلي يوم تسلم البضاعة، وإلا افترض أنها سُلمت بحالتها المبينة في سند الشحن حتى يقوم الدليل على ما يخالف ذلك، وإذا كان الهلاك أو التلف غير ظاهر جاز تقديم الإبلاغ خلال الخمسة عشر يوماً التالية لتسلم البضاعة.",
+    "target_en": "1. If the goods are lost or damaged, the person who receives the goods shall notify the carrier in writing of the same no later than one working day following the date of receipt; otherwise, it shall be presumed that the goods have been delivered in the condition set out in the bill of lading, unless evidence to the contrary is presented. If the loss or damage is not apparent, the notification shall be made within 15 days following the date of receipt.",
+    "source_ar_norm": "1- في حالة هلاك البضاعة او تلفها يجب علي من يتقدم لتسلمها ان يبلغ الناقل كتابة بالهلاك او التلف في موعد لا يتجاوز يوم عمل يلي يوم تسلم البضاعة، والا افترض انها سلمت بحالتها المبينة في سند الشحن حتي يقوم الدليل علي ما يخالف ذلك، واذا كان الهلاك او التلف غير ظاهر جاز تقديم الابلاغ خلال الخمسة عشر يوما التالية لتسلم البضاعة.",
+    "target_en_norm": "1. if the goods are lost or damaged, the person who receives the goods shall notify the carrier in writing of the same no later than one working day following the date of receipt; otherwise, it shall be presumed that the goods have been delivered in the condition set out in the bill of lading, unless evidence to the contrary is presented. if the loss or damage is not apparent, the notification shall be made within 15 days following the date of receipt.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10270,
+    "source_ar": "2- لا يلزم تقديم الإبلاغ المنصوص عليه في الفقرة (1) من هذه المادة إذا أجريت معاينة للبضاعة، وأُثبتت حالتها وقت التسليم بحضور الناقل أو نائبه ومن تسلم البضاعة.",
+    "target_en": "2. The notification set forth in paragraph (1) of this Article is not necessary if the goods have been inspected and their condition has been recorded at the time of delivery in the presence of the carrier or his representative and the person who receives the goods.",
+    "source_ar_norm": "2- لا يلزم تقديم الابلاغ المنصوص عليه في الفقرة (1) من هذه المادة اذا اجريت معاينة للبضاعة، واثبتت حالتها وقت التسليم بحضور الناقل او نائبه ومن تسلم البضاعة.",
+    "target_en_norm": "2. the notification set forth in paragraph (1) of this article is not necessary if the goods have been inspected and their condition has been recorded at the time of delivery in the presence of the carrier or his representative and the person who receives the goods.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10271,
+    "source_ar": "المادة التاسعة عشرة بعد المائتين",
+    "target_en": "Article 219",
+    "source_ar_norm": "المادة التاسعة عشرة بعد المائتين",
+    "target_en_norm": "article 219",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10272,
+    "source_ar": "1- لا يجوز للناقل التمسك بتحديد مسؤوليته عن هلاك البضاعة أو تلفها أو تأخير تسليمها، إذا ثبت أن الضرر نشأ عن فعل أو امتناع صدر منه أو من نائبه أو من أحد تابعيه، بقصد إحداث الضرر، أو بعدم اكتراث مصحوب بإدراك أن ضرراً يمكن أن يحدث.",
+    "target_en": "1. The carrier shall not invoke limitation of liability for the loss, damage, or delay of delivery of the goods if it is established that the same is caused by an intentional act or omission on the part of the carrier or his representative or any of his servants, or by negligence with the knowledge that damage may occur.",
+    "source_ar_norm": "1- لا يجوز للناقل التمسك بتحديد مسؤوليته عن هلاك البضاعة او تلفها او تاخير تسليمها، اذا ثبت ان الضرر نشا عن فعل او امتناع صدر منه او من نائبه او من احد تابعيه، بقصد احداث الضرر، او بعدم اكتراث مصحوب بادراك ان ضررا يمكن ان يحدث.",
+    "target_en_norm": "1. the carrier shall not invoke limitation of liability for the loss, damage, or delay of delivery of the goods if it is established that the same is caused by an intentional act or omission on the part of the carrier or his representative or any of his servants, or by negligence with the knowledge that damage may occur.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10273,
+    "source_ar": "2- يفترض توجه قصد الناقل أو نائبه إلى إحداث الضرر في الحالتين الآتيتين:",
+    "target_en": "2. The carrier or his representative is presumed to have the intent to cause damage in the following cases:",
+    "source_ar_norm": "2- يفترض توجه قصد الناقل او نائبه الي احداث الضرر في الحالتين الاتيتين:",
+    "target_en_norm": "2. the carrier or his representative is presumed to have the intent to cause damage in the following cases:",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10274,
+    "source_ar": "أ- إذا أصدر الناقل سند الشحن خالياً من التحفظات مع وجود ما يقتضي ذكره في السند، وذلك بقصد الإضرار بالغير حسن النية.",
+    "target_en": "a) If the carrier issues a bill of lading free of reservations with the intent to cause harm to a bona fide third party.",
+    "source_ar_norm": "ا- اذا اصدر الناقل سند الشحن خاليا من التحفظات مع وجود ما يقتضي ذكره في السند، وذلك بقصد الاضرار بالغير حسن النية.",
+    "target_en_norm": "a) if the carrier issues a bill of lading free of reservations with the intent to cause harm to a bona fide third party.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10275,
+    "source_ar": "ب- إذا شحن الناقل البضائع على سطح السفينة بالمخالفة لما يوجب شحنها في عنابر السفينة.",
+    "target_en": "b) If the carrier transports the goods on the deck of the vessel in violation to the provisions requiring shipment of the same in the holds of the vessel.",
+    "source_ar_norm": "ب- اذا شحن الناقل البضائع علي سطح السفينة بالمخالفة لما يوجب شحنها في عنابر السفينة.",
+    "target_en_norm": "b) if the carrier transports the goods on the deck of the vessel in violation to the provisions requiring shipment of the same in the holds of the vessel.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10276,
+    "source_ar": "المادة العشرون بعد المائتين",
+    "target_en": "Article 220",
+    "source_ar_norm": "المادة العشرون بعد المائتين",
+    "target_en_norm": "article 220",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10277,
+    "source_ar": "يجوز أن يعهد الناقل بتنفيذ عملية النقل أو بتنفيذ جزء منها إلى ناقل آخر ما لم يتفق على غير ذلك، ويبقى الناقل الذي أبرم عقد النقل مع الشاحن مسؤولاً قبله عن جميع الأضرار التي تحدث أثناء تنفيذ عقد النقل، ولا يسأل الناقل الفعلي قِبل الشاحن إلا عن الأضرار التي تحدث أثناء الجزء الذي ينفذه من النقل، ويكون مسؤولاً عن هذه الأضرار قبل الشاحن بالتضامن مع الناقل المتعاقد.",
+    "target_en": "The carrier may subcontract another carrier for the performance of the carriage or part thereof, unless agreed otherwise. The carrier who concluded the contract of carriage with the consignor shall remain liable before him for any damage sustained during the execution of the contract. If the damage is sustained during the part of the carriage performed by the subcontractor, the subcontractor and the carrier shall be jointly liable.",
+    "source_ar_norm": "يجوز ان يعهد الناقل بتنفيذ عملية النقل او بتنفيذ جزء منها الي ناقل اخر ما لم يتفق علي غير ذلك، ويبقي الناقل الذي ابرم عقد النقل مع الشاحن مسؤولا قبله عن جميع الاضرار التي تحدث اثناء تنفيذ عقد النقل، ولا يسال الناقل الفعلي قبل الشاحن الا عن الاضرار التي تحدث اثناء الجزء الذي ينفذه من النقل، ويكون مسؤولا عن هذه الاضرار قبل الشاحن بالتضامن مع الناقل المتعاقد.",
+    "target_en_norm": "the carrier may subcontract another carrier for the performance of the carriage or part thereof, unless agreed otherwise. the carrier who concluded the contract of carriage with the consignor shall remain liable before him for any damage sustained during the execution of the contract. if the damage is sustained during the part of the carriage performed by the subcontractor, the subcontractor and the carrier shall be jointly liable.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10278,
+    "source_ar": "المادة الحادية والعشرون بعد المائتين",
+    "target_en": "Article 221",
+    "source_ar_norm": "المادة الحادية والعشرون بعد المائتين",
+    "target_en_norm": "article 221",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10279,
+    "source_ar": "1- لا تسمع دعوى المنازعات الناشئة عن عقد نقل البضائع بحراً بعد مضي سنتين من تاريخ تسلم البضائع، أو من التاريخ الذي كان يجب أن يتم فيه التسلم.",
+    "target_en": "1. A lawsuit arising from a contract of carriage of goods by sea shall not be heard after the lapse of two years from the date of receipt of the goods or from the date set for delivery.",
+    "source_ar_norm": "1- لا تسمع دعوي المنازعات الناشئة عن عقد نقل البضائع بحرا بعد مضي سنتين من تاريخ تسلم البضائع، او من التاريخ الذي كان يجب ان يتم فيه التسلم.",
+    "target_en_norm": "1. a lawsuit arising from a contract of carriage of goods by sea shall not be heard after the lapse of two years from the date of receipt of the goods or from the date set for delivery.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10280,
+    "source_ar": "2- ينقطع سريان المدة المذكورة في الفقرة (1) من هذه المادة بالمطالبة بخطاب مصحوب بعلم الوصول، أو بتسليم المستندات المتعلقة بالمطالبة، أو بندب خبير لتقدير الأضرار، وذلك بالإضافة إلى الأسباب المقررة نظاماً.",
+    "target_en": "2. The period referred to in paragraph (1) of this Article shall be suspended by means of a letter along with proof of delivery, delivery of claim-related documents, or appointment of an expert to assess the damage, in addition to any other causes prescribed by the law.",
+    "source_ar_norm": "2- ينقطع سريان المدة المذكورة في الفقرة (1) من هذه المادة بالمطالبة بخطاب مصحوب بعلم الوصول، او بتسليم المستندات المتعلقة بالمطالبة، او بندب خبير لتقدير الاضرار، وذلك بالاضافة الي الاسباب المقررة نظاما.",
+    "target_en_norm": "2. the period referred to in paragraph (1) of this article shall be suspended by means of a letter along with proof of delivery, delivery of claim-related documents, or appointment of an expert to assess the damage, in addition to any other causes prescribed by the law.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10281,
+    "source_ar": "3- ينقضي حق من وجهت إليه المطالبة في الرجوع على غيره من الملتزمين بعد مضي تسعين يوماً من تاريخ إقامة الدعوى عليه، أو من تاريخ وفائه، ولو انقضت المدة المشار إليها في الفقرة (1) من هذه المادة.",
+    "target_en": "3. The right of a person, against whom a claim is made, to have recourse against a third party shall cease after the lapse of 90 days from the date on which the lawsuit was filed or from the date on which he made the payment, even if the period referred to in paragraph (1) of this Article has expired.",
+    "source_ar_norm": "3- ينقضي حق من وجهت اليه المطالبة في الرجوع علي غيره من الملتزمين بعد مضي تسعين يوما من تاريخ اقامة الدعوي عليه، او من تاريخ وفائه، ولو انقضت المدة المشار اليها في الفقرة (1) من هذه المادة.",
+    "target_en_norm": "3. the right of a person, against whom a claim is made, to have recourse against a third party shall cease after the lapse of 90 days from the date on which the lawsuit was filed or from the date on which he made the payment, even if the period referred to in paragraph (1) of this article has expired.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10282,
+    "source_ar": "المادة الثانية والعشرون بعد المائتين",
+    "target_en": "Article 222",
+    "source_ar_norm": "المادة الثانية والعشرون بعد المائتين",
+    "target_en_norm": "article 222",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10283,
+    "source_ar": "تقام الدعوى الناشئة عن عقد نقل البضائع بحراً أمام المحكمة المختصة وفق نظام المرافعات الشرعية. ويجوز أيضاً -بحسب اختيار المدعي- أن ترفع الدعوى المذكورة إلى المحكمة التي يقع في نطاق ولايتها أحد الأماكن الآتية:",
+    "target_en": "A lawsuit arising from a contract of carriage of goods by sea shall be filed with the competent court in accordance with the Law of Civil Procedure. It may also be filed, based on the claimant’s choice, with the court within whose jurisdiction one of the following places is located:",
+    "source_ar_norm": "تقام الدعوي الناشئة عن عقد نقل البضائع بحرا امام المحكمة المختصة وفق نظام المرافعات الشرعية. ويجوز ايضا -بحسب اختيار المدعي- ان ترفع الدعوي المذكورة الي المحكمة التي يقع في نطاق ولايتها احد الاماكن الاتية:",
+    "target_en_norm": "a lawsuit arising from a contract of carriage of goods by sea shall be filed with the competent court in accordance with the law of civil procedure. it may also be filed, based on the claimant’s choice, with the court within whose jurisdiction one of the following places is located:",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10284,
+    "source_ar": "1- المحل الرئيس لعمل المدعى عليه، وإن لم يكن له محل عمل رئيس فالمحل الاعتيادي لإقامته.",
+    "target_en": "1. The defendant’s head office, or his regular place of residence in the lack thereof.",
+    "source_ar_norm": "1- المحل الرئيس لعمل المدعي عليه، وان لم يكن له محل عمل رئيس فالمحل الاعتيادي لاقامته.",
+    "target_en_norm": "1. the defendant’s head office, or his regular place of residence in the lack thereof.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10285,
+    "source_ar": "2- مكان إبرام العقد، بشرط أن يكون للمدعى عليه محل عمل فيه، أو فرع أو وكالة، أبرم العقد عن طريق أي منها.",
+    "target_en": "2. The place where the contract has been concluded, provided that the defendant has a place of work, a branch, or agency therein, through which the contract is concluded.",
+    "source_ar_norm": "2- مكان ابرام العقد، بشرط ان يكون للمدعي عليه محل عمل فيه، او فرع او وكالة، ابرم العقد عن طريق اي منها.",
+    "target_en_norm": "2. the place where the contract has been concluded, provided that the defendant has a place of work, a branch, or agency therein, through which the contract is concluded.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10286,
+    "source_ar": "3- ميناء الشحن أو ميناء التفريغ.",
+    "target_en": "3. Port of loading or discharge.",
+    "source_ar_norm": "3- ميناء الشحن او ميناء التفريغ.",
+    "target_en_norm": "3. port of loading or discharge.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10287,
+    "source_ar": "4- أي مكان آخر يعين لهذا الغرض في عقد النقل البحري.",
+    "target_en": "4. Any other place designated for such purpose in the contract.",
+    "source_ar_norm": "4- اي مكان اخر يعين لهذا الغرض في عقد النقل البحري.",
+    "target_en_norm": "4. any other place designated for such purpose in the contract.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10288,
+    "source_ar": "المادة الثالثة والعشرون بعد المائتين",
+    "target_en": "Article 223",
+    "source_ar_norm": "المادة الثالثة والعشرون بعد المائتين",
+    "target_en_norm": "article 223",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10289,
+    "source_ar": "إذا اتفق في عقد نقل البضائع بحراً على إحالة الادعاءات الناشئة عنه إلى التحكيم، وجب إجراء التحكيم بحسب اختيار المدعي في نطاق اختصاص المحكمة التي يقع فيه ميناء الشحن، أو ميناء التفريغ، أو في موطن المدعى عليه، أو في مكان إبرام العقد، بشرط أن يكون للمدعى عليه في هذا المكان مركز رئيس أو فرع أو كالة، أو في المكان المعين في اتفاق التحكيم، أو في نطاق المحكمة التي يقع فيه الميناء الذي حجز فيه على السفينة. ويقع باطلاً كل اتفاق سابق على قيام النزاع يقضي بسلب المدعي الحق في هذا الاختيار، أو تقييده.",
+    "target_en": "If it is agreed in a contract of carriage of goods by sea to refer claims that may arise therefrom to arbitration, the arbitration shall, based on the claimant’s choice, be conducted with the court within whose jurisdiction one of the following places falls: port of loading, port of discharge, defendant's domicile, the place where the contract is concluded, provided that the defendant has a head office, branch, or agency therein, or the location designated in the arbitration agreement, or before the court within whose jurisdiction the port where the vessel was arrested is located. Any agreement prior to the dispute depriving the claimant of his right to choose or restrict the same shall be deemed void.",
+    "source_ar_norm": "اذا اتفق في عقد نقل البضائع بحرا علي احالة الادعاءات الناشئة عنه الي التحكيم، وجب اجراء التحكيم بحسب اختيار المدعي في نطاق اختصاص المحكمة التي يقع فيه ميناء الشحن، او ميناء التفريغ، او في موطن المدعي عليه، او في مكان ابرام العقد، بشرط ان يكون للمدعي عليه في هذا المكان مركز رئيس او فرع او كالة، او في المكان المعين في اتفاق التحكيم، او في نطاق المحكمة التي يقع فيه الميناء الذي حجز فيه علي السفينة. ويقع باطلا كل اتفاق سابق علي قيام النزاع يقضي بسلب المدعي الحق في هذا الاختيار، او تقييده.",
+    "target_en_norm": "if it is agreed in a contract of carriage of goods by sea to refer claims that may arise therefrom to arbitration, the arbitration shall, based on the claimant’s choice, be conducted with the court within whose jurisdiction one of the following places falls: port of loading, port of discharge, defendant's domicile, the place where the contract is concluded, provided that the defendant has a head office, branch, or agency therein, or the location designated in the arbitration agreement, or before the court within whose jurisdiction the port where the vessel was arrested is located. any agreement prior to the dispute depriving the claimant of his right to choose or restrict the same shall be deemed void.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10290,
+    "source_ar": "المادة الرابعة والعشرون بعد المائتين",
+    "target_en": "Article 224",
+    "source_ar_norm": "المادة الرابعة والعشرون بعد المائتين",
+    "target_en_norm": "article 224",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10291,
+    "source_ar": "في حالة الاتفاق على إحالة الدعوى الناشئة عن عقد نقل البضائع بحراً إلى التحكيم يلتزم المحكمون بالفصل في النزاع طبقاً لنظام التحكيم المتفق عليه بين الأطراف.",
+    "target_en": "If it is agreed that a lawsuit arising from a contract of carriage of goods by sea be referred to arbitration, the arbitrators shall decide the dispute in accordance with the provisions of the arbitration law agreed upon by the parties.",
+    "source_ar_norm": "في حالة الاتفاق علي احالة الدعوي الناشئة عن عقد نقل البضائع بحرا الي التحكيم يلتزم المحكمون بالفصل في النزاع طبقا لنظام التحكيم المتفق عليه بين الاطراف.",
+    "target_en_norm": "if it is agreed that a lawsuit arising from a contract of carriage of goods by sea be referred to arbitration, the arbitrators shall decide the dispute in accordance with the provisions of the arbitration law agreed upon by the parties.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10292,
+    "source_ar": "ثالثاً: عقد نقل الأشخاص",
+    "target_en": "Third: Contract of Carriage of Passengers by Sea",
+    "source_ar_norm": "ثالثا: عقد نقل الاشخاص",
+    "target_en_norm": "third: contract of carriage of passengers by sea",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10293,
+    "source_ar": "المادة الخامسة والعشرون بعد المائتين",
+    "target_en": "Article 225",
+    "source_ar_norm": "المادة الخامسة والعشرون بعد المائتين",
+    "target_en_norm": "article 225",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10294,
+    "source_ar": "1- يثبت عقد نقل الأشخاص بحراً بمحرر يسمى تذكرة السفر، يذكر فيها على وجه خاص:",
+    "target_en": "1. A contract of carriage of passengers by sea shall be evidenced by a document called a \"travel ticket\", which shall contain the following:",
+    "source_ar_norm": "1- يثبت عقد نقل الاشخاص بحرا بمحرر يسمي تذكرة السفر، يذكر فيها علي وجه خاص:",
+    "target_en_norm": "1. a contract of carriage of passengers by sea shall be evidenced by a document called a \"travel ticket\", which shall contain the following:",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10295,
+    "source_ar": "أ- اسم الناقل، واسم الراكب، وجنسيته.",
+    "target_en": "a) Name of the carrier, and name and nationality of the passenger.",
+    "source_ar_norm": "ا- اسم الناقل، واسم الراكب، وجنسيته.",
+    "target_en_norm": "a) name of the carrier, and name and nationality of the passenger.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10296,
+    "source_ar": "ب- تاريخ إصدار تذكرة السفر.",
+    "target_en": "b) Date of issuance of the travel ticket.",
+    "source_ar_norm": "ب- تاريخ اصدار تذكرة السفر.",
+    "target_en_norm": "b) date of issuance of the travel ticket.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10297,
+    "source_ar": "ج- اسم السفينة، وجنسيتها.",
+    "target_en": "c) Name and nationality of the vessel.",
+    "source_ar_norm": "ج- اسم السفينة، وجنسيتها.",
+    "target_en_norm": "c) name and nationality of the vessel.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10298,
+    "source_ar": "د- ميناء المغادرة وتاريخها، وميناء الوصول وتاريخه، والموانئ الوسيطة المعيّنة لرسو السفينة.",
+    "target_en": "d) Port and date of departure, port and date of arrival, and designated ports of call.",
+    "source_ar_norm": "د- ميناء المغادرة وتاريخها، وميناء الوصول وتاريخه، والموانئ الوسيطة المعينة لرسو السفينة.",
+    "target_en_norm": "d) port and date of departure, port and date of arrival, and designated ports of call.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10299,
+    "source_ar": "هـ- أجرة النقل.",
+    "target_en": "e) Fare.",
+    "source_ar_norm": "ه- اجرة النقل.",
+    "target_en_norm": "e) fare.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 10300,
+    "source_ar": "و- درجة الإقامة على ظهر السفينة.",
+    "target_en": "f) Class of accommodation on board.",
+    "source_ar_norm": "و- درجة الاقامة علي ظهر السفينة.",
+    "target_en_norm": "f) class of accommodation on board.",
+    "file_name": "النظام البحري التجاري.docx"
+  }
+]

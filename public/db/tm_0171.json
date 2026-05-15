@@ -1,0 +1,802 @@
+[
+  {
+    "id": 17001,
+    "source_ar": "5. وضع إجراءات جمع البيانات التأمينية، وحفظها، واستخدامها، وآلية الاستفادة منها، وفقًا للإجراءات النظامية.",
+    "target_en": "5. Developing procedures for collecting, maintaining, and using insurance data as well as setting a mechanism for benefiting therefrom, in accordance with legal procedures.",
+    "source_ar_norm": "5. وضع اجراءات جمع البيانات التامينية، وحفظها، واستخدامها، والية الاستفادة منها، وفقا للاجراءات النظامية.",
+    "target_en_norm": "5. developing procedures for collecting, maintaining, and using insurance data as well as setting a mechanism for benefiting therefrom, in accordance with legal procedures.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17002,
+    "source_ar": "6. إجراء الدراسات والبحوث وتحليل البيانات والمعلومات المتعلقة بقطاع التأمين.",
+    "target_en": "6. Conducting studies, research, and information and data analyses relating to the insurance sector.",
+    "source_ar_norm": "6. اجراء الدراسات والبحوث وتحليل البيانات والمعلومات المتعلقة بقطاع التامين.",
+    "target_en_norm": "6. conducting studies, research, and information and data analyses relating to the insurance sector.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17003,
+    "source_ar": "7. وضع متطلبات التراخيص لممارسة أعمال التأمين، وتسلم طلبات التأسيس ومنح التراخيص لممارسة هذه الأعمال، ووضع المتطلبات الخاصة بممارسة كل نوع من أنواع التأمين.",
+    "target_en": "7. Setting the licensing requirements for engaging in insurance activities, handling incorporation applications and granting licenses for such activities, and setting the requirements for engaging in each type of insurance.",
+    "source_ar_norm": "7. وضع متطلبات التراخيص لممارسة اعمال التامين، وتسلم طلبات التاسيس ومنح التراخيص لممارسة هذه الاعمال، ووضع المتطلبات الخاصة بممارسة كل نوع من انواع التامين.",
+    "target_en_norm": "7. setting the licensing requirements for engaging in insurance activities, handling incorporation applications and granting licenses for such activities, and setting the requirements for engaging in each type of insurance.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17004,
+    "source_ar": "8. إعداد النشرات والتقارير الإحصائية لقطاع التأمين، ونشرها.",
+    "target_en": "8. Preparing and publishing bulletins and statistical reports relating to the insurance sector.",
+    "source_ar_norm": "8. اعداد النشرات والتقارير الاحصائية لقطاع التامين، ونشرها.",
+    "target_en_norm": "8. preparing and publishing bulletins and statistical reports relating to the insurance sector.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17005,
+    "source_ar": "9. اقتراح آليات لتطوير التأمين على مشاريع الجهات العامة في المملكة واستثماراتها، ومدى الحاجة إلى إلزامية التأمين على النشاطات التي تشرف عليها هذه الجهات، بما يسهم في تنمية قطاع التأمين وتطويره، وذلك بالتنسيق مع الجهات ذات العلاقة، ووفقًا للإجراءات النظامية.",
+    "target_en": "9. Proposing mechanisms for developing the insurance on the projects and investments of public agencies in the Kingdom, and assessing the need for mandatory insurance for the activities overseen by such agencies, in a manner that promotes and develops the insurance sector, in coordination with relevant agencies and in accordance with legal procedures.",
+    "source_ar_norm": "9. اقتراح اليات لتطوير التامين علي مشاريع الجهات العامة في المملكة واستثماراتها، ومدي الحاجة الي الزامية التامين علي النشاطات التي تشرف عليها هذه الجهات، بما يسهم في تنمية قطاع التامين وتطويره، وذلك بالتنسيق مع الجهات ذات العلاقة، ووفقا للاجراءات النظامية.",
+    "target_en_norm": "9. proposing mechanisms for developing the insurance on the projects and investments of public agencies in the kingdom, and assessing the need for mandatory insurance for the activities overseen by such agencies, in a manner that promotes and develops the insurance sector, in coordination with relevant agencies and in accordance with legal procedures.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17006,
+    "source_ar": "10. تزويد الجهات العامة والمنشآت الخاصة والأفراد والهيئات الدولية، بالإحصاءات الرسمية عن قطاع التأمين، وفقًا للإجراءات النظامية.",
+    "target_en": "10. Providing public agencies, private entities, and international bodies as well as individuals with official statistics on the insurance sector in accordance with legal procedures.",
+    "source_ar_norm": "10. تزويد الجهات العامة والمنشات الخاصة والافراد والهيئات الدولية، بالاحصاءات الرسمية عن قطاع التامين، وفقا للاجراءات النظامية.",
+    "target_en_norm": "10. providing public agencies, private entities, and international bodies as well as individuals with official statistics on the insurance sector in accordance with legal procedures.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17007,
+    "source_ar": "11. إعداد التقارير وإنشاء قواعد للمعلومات المتعلقة بمجال عمل الهيئة، وتبادل المعلومات مع الجهات المحلية والإقليمية والعالمية، بما في ذلك دراسة الأثر الاقتصادي لقطاع التأمين وتحليلُه بالتنسيق مع الجهات المعنية واستكمال ما يلزم حيال ذلك.",
+    "target_en": "11. Preparing reports and establishing databases relating to the Authority's activities as well as exchanging information with local, regional, and international entities, including studying and analyzing the economic impact of the insurance sector in coordination with relevant agencies, and completing any necessary procedures.",
+    "source_ar_norm": "11. اعداد التقارير وانشاء قواعد للمعلومات المتعلقة بمجال عمل الهيئة، وتبادل المعلومات مع الجهات المحلية والاقليمية والعالمية، بما في ذلك دراسة الاثر الاقتصادي لقطاع التامين وتحليله بالتنسيق مع الجهات المعنية واستكمال ما يلزم حيال ذلك.",
+    "target_en_norm": "11. preparing reports and establishing databases relating to the authority's activities as well as exchanging information with local, regional, and international entities, including studying and analyzing the economic impact of the insurance sector in coordination with relevant agencies, and completing any necessary procedures.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17008,
+    "source_ar": "12. إعداد برامج ودورات في مجال التأمين وتنفيذها، وتدريب كوادر متخصصة في هذا المجال وتأهيلها، ووضع الاختبارات والاشتراطات المتصلة بالمرخص لهم وأعمالهم؛ وذلك بالتنسيق مع الجهات ذات العلاقة.",
+    "target_en": "12. Developing and conducting programs and courses in the field of insurance, training and qualifying individuals specialized in such field, and developing tests and requirements relating to licensees and the insurance activities in which they engage, in coordination with relevant agencies.",
+    "source_ar_norm": "12. اعداد برامج ودورات في مجال التامين وتنفيذها، وتدريب كوادر متخصصة في هذا المجال وتاهيلها، ووضع الاختبارات والاشتراطات المتصلة بالمرخص لهم واعمالهم؛ وذلك بالتنسيق مع الجهات ذات العلاقة.",
+    "target_en_norm": "12. developing and conducting programs and courses in the field of insurance, training and qualifying individuals specialized in such field, and developing tests and requirements relating to licensees and the insurance activities in which they engage, in coordination with relevant agencies.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17009,
+    "source_ar": "13. عقد المؤتمرات والندوات واللقاءات ذات العلاقة باختصاصات الهيئة، وفقًا للإجراءات النظامية.",
+    "target_en": "13. Holding conferences, seminars, and meetings relating to the Authority's functions in accordance with legal procedures.",
+    "source_ar_norm": "13. عقد المؤتمرات والندوات واللقاءات ذات العلاقة باختصاصات الهيئة، وفقا للاجراءات النظامية.",
+    "target_en_norm": "13. holding conferences, seminars, and meetings relating to the authority's functions in accordance with legal procedures.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17010,
+    "source_ar": "14. التعاون وتبادل الخبرات مع الهيئات والمنظمات الإقليمية والدولية، وبيوت الخبرة المتخصصة داخل المملكة وخارجها، وذلك في حدود اختصاصات الهيئة.",
+    "target_en": "14. Cooperating and exchanging expertise with regional and international entities and organizations, and specialized consulting firms in the Kingdom and abroad, within the limits of the Authority's functions.",
+    "source_ar_norm": "14. التعاون وتبادل الخبرات مع الهيئات والمنظمات الاقليمية والدولية، وبيوت الخبرة المتخصصة داخل المملكة وخارجها، وذلك في حدود اختصاصات الهيئة.",
+    "target_en_norm": "14. cooperating and exchanging expertise with regional and international entities and organizations, and specialized consulting firms in the kingdom and abroad, within the limits of the authority's functions.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17011,
+    "source_ar": "15. تمثيل المملكة في الهيئات والمنظمات والمحافل والمؤتمرات الإقليمية والدولية ذات الصلة باختصاصات الهيئة، وفقًا للإجراءات النظامية.",
+    "target_en": "15. Representing the Kingdom in regional and international bodies, organizations, forums, and conferences relating to the Authority's functions, in accordance with legal procedures.",
+    "source_ar_norm": "15. تمثيل المملكة في الهيئات والمنظمات والمحافل والمؤتمرات الاقليمية والدولية ذات الصلة باختصاصات الهيئة، وفقا للاجراءات النظامية.",
+    "target_en_norm": "15. representing the kingdom in regional and international bodies, organizations, forums, and conferences relating to the authority's functions, in accordance with legal procedures.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17012,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17013,
+    "source_ar": "يكون للهيئة مجلس إدارة يعين رئيسه بأمر ملكي، وبعضوية خمسة يكون من بينهم ذوو كفاية وخبرة في مجال عمل الهيئة يعينون بأمر من رئيس مجلس الوزراء بناءً على ترشيح من الرئيس، وتكون عضويتهم في المجلس لمدة ثلاث سنوات قابلة للتجديد مرتين.",
+    "target_en": "The Authority shall have a board of directors composed of a chairman and five members, including members with competence and experience in the Authority’s activities. The appointment of the chairman shall be pursuant to a royal order, and the appointment of the members shall be pursuant to an order by the Prime Minister upon the nomination of the Council of Economic and Development Affairs. Board membership shall be for a term of three years, renewable twice.",
+    "source_ar_norm": "يكون للهيئة مجلس ادارة يعين رئيسه بامر ملكي، وبعضوية خمسة يكون من بينهم ذوو كفاية وخبرة في مجال عمل الهيئة يعينون بامر من رئيس مجلس الوزراء بناء علي ترشيح من الرئيس، وتكون عضويتهم في المجلس لمدة ثلاث سنوات قابلة للتجديد مرتين.",
+    "target_en_norm": "the authority shall have a board of directors composed of a chairman and five members, including members with competence and experience in the authority’s activities. the appointment of the chairman shall be pursuant to a royal order, and the appointment of the members shall be pursuant to an order by the prime minister upon the nomination of the council of economic and development affairs. board membership shall be for a term of three years, renewable twice.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17014,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17015,
+    "source_ar": "المجلس هو السلطة العليا للهيئة، ويتولى الإشراف عليها وتصريف أمورها وإدارتها، ويتخذ جميع القرارات اللازمة لتحقيق أغراضها في حدود أحكام التنظيم والأنظمة ذات الصلة بقطاع التأمين، وله بصفة خاصة الاختصاصات الآتية:",
+    "target_en": "The Authority’s Board shall be the body with the highest authority; it shall be in charge of overseeing the Authority’s management and the conduct of its affairs, and shall, within the limits of this Statute and pursuant to relevant laws, take all the decisions necessary to achieve its objectives. The Board shall, in particular, have the following powers:",
+    "source_ar_norm": "المجلس هو السلطة العليا للهيئة، ويتولي الاشراف عليها وتصريف امورها وادارتها، ويتخذ جميع القرارات اللازمة لتحقيق اغراضها في حدود احكام التنظيم والانظمة ذات الصلة بقطاع التامين، وله بصفة خاصة الاختصاصات الاتية:",
+    "target_en_norm": "the authority’s board shall be the body with the highest authority; it shall be in charge of overseeing the authority’s management and the conduct of its affairs, and shall, within the limits of this statute and pursuant to relevant laws, take all the decisions necessary to achieve its objectives. the board shall, in particular, have the following powers:",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17016,
+    "source_ar": "1. إقرار الاستراتيجية الوطنية لقطاع التأمين، تمهيدًا لاستكمال الإجراءات النظامية.",
+    "target_en": "1. Approving the national strategy for the insurance sector in preparation for completion of legal procedures.",
+    "source_ar_norm": "1. اقرار الاستراتيجية الوطنية لقطاع التامين، تمهيدا لاستكمال الاجراءات النظامية.",
+    "target_en_norm": "1. approving the national strategy for the insurance sector in preparation for completion of legal procedures.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17017,
+    "source_ar": "2. إقرار السياسات العامة للهيئة والخطط والبرامج اللازمة لتنفيذها، والرفع عما يستلزم استكمال إجراءات نظامية في شأنه.",
+    "target_en": "2. Approving the Authority's general policies and the plans and programs necessary for their implementation, and submitting matters requiring completion of legal procedures.",
+    "source_ar_norm": "2. اقرار السياسات العامة للهيئة والخطط والبرامج اللازمة لتنفيذها، والرفع عما يستلزم استكمال اجراءات نظامية في شانه.",
+    "target_en_norm": "2. approving the authority's general policies and the plans and programs necessary for their implementation, and submitting matters requiring completion of legal procedures.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17018,
+    "source_ar": "3. إقرار الهيكل التنظيمي للهيئة.",
+    "target_en": "3. Approving the Authority’s organizational structure.",
+    "source_ar_norm": "3. اقرار الهيكل التنظيمي للهيئة.",
+    "target_en_norm": "3. approving the authority’s organizational structure.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17019,
+    "source_ar": "4. إقرار اللوائح الإدارية والمالية التي تسير عليها الهيئة، وغيرها من اللوائح اللازمة لتسيير شؤونها، على أن يكون إقرار اللوائح الإدارية بالاتفاق مع وزارة الموارد البشرية والتنمية الاجتماعية، وأن يكون إقرار اللوائح المالية والأحكام ذات الأثر المالي في اللوائح الإدارية بالاتفاق مع وزارة المالية.",
+    "target_en": "4. Approving the Authority’s administrative and financial regulations and other regulations necessary for the conduct of its affairs, provided that the approval of administrative regulations is in agreement with the Ministry of Human Resources and Social Development, and that the approval of financial regulations and provisions having financial impact in the administrative regulations is in agreement with the Ministry of Finance.",
+    "source_ar_norm": "4. اقرار اللوائح الادارية والمالية التي تسير عليها الهيئة، وغيرها من اللوائح اللازمة لتسيير شؤونها، علي ان يكون اقرار اللوائح الادارية بالاتفاق مع وزارة الموارد البشرية والتنمية الاجتماعية، وان يكون اقرار اللوائح المالية والاحكام ذات الاثر المالي في اللوائح الادارية بالاتفاق مع وزارة المالية.",
+    "target_en_norm": "4. approving the authority’s administrative and financial regulations and other regulations necessary for the conduct of its affairs, provided that the approval of administrative regulations is in agreement with the ministry of human resources and social development, and that the approval of financial regulations and provisions having financial impact in the administrative regulations is in agreement with the ministry of finance.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17020,
+    "source_ar": "5. اقتراح مشروعات الأنظمة ذات العلاقة باختصاصات الهيئة، واقتراح تعديل المعمول بها منها، ورفعها لاستكمال الإجراءات النظامية.",
+    "target_en": "5. Proposing laws relating to the Authority's functions and amendments to applicable laws, and submitting the same for completion of legal procedures.",
+    "source_ar_norm": "5. اقتراح مشروعات الانظمة ذات العلاقة باختصاصات الهيئة، واقتراح تعديل المعمول بها منها، ورفعها لاستكمال الاجراءات النظامية.",
+    "target_en_norm": "5. proposing laws relating to the authority's functions and amendments to applicable laws, and submitting the same for completion of legal procedures.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17021,
+    "source_ar": "6. الموافقة على إنشاء فروع للهيئة.",
+    "target_en": "6. Approving the establishment of Authority branches.",
+    "source_ar_norm": "6. الموافقة علي انشاء فروع للهيئة.",
+    "target_en_norm": "6. approving the establishment of authority branches.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17022,
+    "source_ar": "7. الموافقة على مشروع ميزانية الهيئة، وحسابها الختامي، وتقرير مراجع الحسابات، والتقرير السنوي، تمهيدًا لرفعها بحسب الإجراءات النظامية.",
+    "target_en": "7. Approving the Authority's draft budget, final accounts, and annual report as well as the auditor's report in preparation for submission in accordance with legal procedures.",
+    "source_ar_norm": "7. الموافقة علي مشروع ميزانية الهيئة، وحسابها الختامي، وتقرير مراجع الحسابات، والتقرير السنوي، تمهيدا لرفعها بحسب الاجراءات النظامية.",
+    "target_en_norm": "7. approving the authority's draft budget, final accounts, and annual report as well as the auditor's report in preparation for submission in accordance with legal procedures.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17023,
+    "source_ar": "8. تعيين العاملين في أعمال الفحص والرقابة والضبط لما يقع من مخالفات لأحكام الأنظمة ذات الصلة بقطاع التأمين.",
+    "target_en": "8. Appointing the employees tasked with inspecting, monitoring, and detecting violations of the provisions of laws relating to the insurance sector.",
+    "source_ar_norm": "8. تعيين العاملين في اعمال الفحص والرقابة والضبط لما يقع من مخالفات لاحكام الانظمة ذات الصلة بقطاع التامين.",
+    "target_en_norm": "8. appointing the employees tasked with inspecting, monitoring, and detecting violations of the provisions of laws relating to the insurance sector.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17024,
+    "source_ar": "9. تعيين مراجع حسابات خارجي (أو أكثر) ومراقب مالي داخلي.",
+    "target_en": "9. Appointing an external auditor, or more, and a comptroller.",
+    "source_ar_norm": "9. تعيين مراجع حسابات خارجي (او اكثر) ومراقب مالي داخلي.",
+    "target_en_norm": "9. appointing an external auditor, or more, and a comptroller.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17025,
+    "source_ar": "10. النظر في التقارير الدورية التي تُقدم عن سير العمل في الهيئة وتقويم أداء الإدارة التنفيذية، واتخاذ الإجراءات اللازمة حيال ما ينتج عن ذلك.",
+    "target_en": "10. Reviewing periodic reports on the work progress of the Authority and the performance of the executive management, and taking necessary actions thereon.",
+    "source_ar_norm": "10. النظر في التقارير الدورية التي تقدم عن سير العمل في الهيئة وتقويم اداء الادارة التنفيذية، واتخاذ الاجراءات اللازمة حيال ما ينتج عن ذلك.",
+    "target_en_norm": "10. reviewing periodic reports on the work progress of the authority and the performance of the executive management, and taking necessary actions thereon.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17026,
+    "source_ar": "11. الموافقة على إبرام الاتفاقيات والبروتوكولات والعقود، وفقًا للإجراءات النظامية.",
+    "target_en": "11. Approving the conclusion of agreements, protocols, and contracts in accordance with legal procedures.",
+    "source_ar_norm": "11. الموافقة علي ابرام الاتفاقيات والبروتوكولات والعقود، وفقا للاجراءات النظامية.",
+    "target_en_norm": "11. approving the conclusion of agreements, protocols, and contracts in accordance with legal procedures.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17027,
+    "source_ar": "12. تحديد المقابل المالي للخدمات والأعمال التي تقدمها الهيئة في مجال اختصاصاتها.",
+    "target_en": "12. Determining the fees for the services and works provided by the Authority.",
+    "source_ar_norm": "12. تحديد المقابل المالي للخدمات والاعمال التي تقدمها الهيئة في مجال اختصاصاتها.",
+    "target_en_norm": "12. determining the fees for the services and works provided by the authority.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17028,
+    "source_ar": "13. الموافقة على مؤشرات قياس أداء الهيئة.",
+    "target_en": "13. Approving the Authority's key performance indicators.",
+    "source_ar_norm": "13. الموافقة علي مؤشرات قياس اداء الهيئة.",
+    "target_en_norm": "13. approving the authority's key performance indicators.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17029,
+    "source_ar": "14. قبول الهبات والتبرعات والمنح والوصايا والأوقاف، وفقًا للإجراءات النظامية.",
+    "target_en": "14. Accepting gifts, donations, grants, bequests, and endowments in accordance with legal procedures.",
+    "source_ar_norm": "14. قبول الهبات والتبرعات والمنح والوصايا والاوقاف، وفقا للاجراءات النظامية.",
+    "target_en_norm": "14. accepting gifts, donations, grants, bequests, and endowments in accordance with legal procedures.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17030,
+    "source_ar": "وللمجلس -في سبيل تحقيق اختصاصاته ودون الإخلال بالواجبات المنوطة به- تشكيل لجان دائمة أو مؤقتة من أعضائه أو من سواهم، وتخويلها ما يراه من مهمات، ويحدِّد في قرار تشكيل كل لجنة رئيسها وأعضاءها واختصاصاتها، ويكون لها الاستعانة بمن تراه لتأدية المهمات الموكولة إليها. وله كذلك تفويض بعض اختصاصاته إلى الرئيس أو من يراه من أعضائه أو من منسوبي الهيئة.",
+    "target_en": "The Board may, in exercising its powers and without prejudice to the duties entrusted thereto, form standing or ad hoc committees from among its members or others and assign certain tasks to such committees. The formation decision of each committee shall name its head and members and shall specify its functions. Such committees may seek the assistance of any person deemed appropriate thereby to carry out the tasks assigned thereto. The Board may also delegate certain powers to its Chairman or any of its members, or to any of the Authority’s employees.",
+    "source_ar_norm": "وللمجلس -في سبيل تحقيق اختصاصاته ودون الاخلال بالواجبات المنوطة به- تشكيل لجان دائمة او مؤقتة من اعضائه او من سواهم، وتخويلها ما يراه من مهمات، ويحدد في قرار تشكيل كل لجنة رئيسها واعضاءها واختصاصاتها، ويكون لها الاستعانة بمن تراه لتادية المهمات الموكولة اليها. وله كذلك تفويض بعض اختصاصاته الي الرئيس او من يراه من اعضائه او من منسوبي الهيئة.",
+    "target_en_norm": "the board may, in exercising its powers and without prejudice to the duties entrusted thereto, form standing or ad hoc committees from among its members or others and assign certain tasks to such committees. the formation decision of each committee shall name its head and members and shall specify its functions. such committees may seek the assistance of any person deemed appropriate thereby to carry out the tasks assigned thereto. the board may also delegate certain powers to its chairman or any of its members, or to any of the authority’s employees.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17031,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17032,
+    "source_ar": "1. تعقد اجتماعات المجلس في مقر الهيئة، برئاسة الرئيس أو من ينيبه من الأعضاء. ويجوز عقدها في مكان آخر داخل المملكة.",
+    "target_en": "1. Board meetings shall be held at the Authority’s headquarters, and shall be chaired by the Chairman or his designee from among Board members. Board meetings may be held elsewhere within the Kingdom.",
+    "source_ar_norm": "1. تعقد اجتماعات المجلس في مقر الهيئة، برئاسة الرئيس او من ينيبه من الاعضاء. ويجوز عقدها في مكان اخر داخل المملكة.",
+    "target_en_norm": "1. board meetings shall be held at the authority’s headquarters, and shall be chaired by the chairman or his designee from among board members. board meetings may be held elsewhere within the kingdom.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17033,
+    "source_ar": "2. يعقد المجلس اجتماعاته بصفة دورية بما لا يقل عن (أربع) مرات في السنة، وكلما دعت الحاجة إلى ذلك بحسب ما يقدره الرئيس، أو إذا طلب ذلك (ثلث) الأعضاء على الأقل.",
+    "target_en": "2. The Board shall convene periodically at least four times a year, and as deemed necessary by the Chairman or if requested by at least one-third of its members.",
+    "source_ar_norm": "2. يعقد المجلس اجتماعاته بصفة دورية بما لا يقل عن (اربع) مرات في السنة، وكلما دعت الحاجة الي ذلك بحسب ما يقدره الرئيس، او اذا طلب ذلك (ثلث) الاعضاء علي الاقل.",
+    "target_en_norm": "2. the board shall convene periodically at least four times a year, and as deemed necessary by the chairman or if requested by at least one-third of its members.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17034,
+    "source_ar": "3. توجه الدعوة للاجتماع من الرئيس كتابة قبل موعد الاجتماع بوقت كافٍ بحسب ما يقدره الرئيس، ويتعين أن تكون الدعوة مصحوبة بجدول أعمال الاجتماع.",
+    "target_en": "3. The call for a meeting shall be made in writing by the Chairman in ample time prior to the date set for the meeting as determined by the Chairman. The call shall be accompanied by the meeting agenda.",
+    "source_ar_norm": "3. توجه الدعوة للاجتماع من الرئيس كتابة قبل موعد الاجتماع بوقت كاف بحسب ما يقدره الرئيس، ويتعين ان تكون الدعوة مصحوبة بجدول اعمال الاجتماع.",
+    "target_en_norm": "3. the call for a meeting shall be made in writing by the chairman in ample time prior to the date set for the meeting as determined by the chairman. the call shall be accompanied by the meeting agenda.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17035,
+    "source_ar": "4. يكون اجتماع المجلس صحيحًا إذا حضره أغلبية الأعضاء -على الأقل- بمن فيهم الرئيس أو من ينيبه من الأعضاء. وتصدر القرارات بأغلبية أصوات الحاضرين على الأقل. وفي حال تساوي الأصوات يرجح الجانب الذي صوت معه رئيس الاجتماع.",
+    "target_en": "4. Board meetings shall be valid if attended by at least the majority of its members, including the Chairman or his designee from among Board members. Board decisions shall be passed by the majority vote of attending members; in case of a tie, the meeting chairman shall have the casting vote.",
+    "source_ar_norm": "4. يكون اجتماع المجلس صحيحا اذا حضره اغلبية الاعضاء -علي الاقل- بمن فيهم الرئيس او من ينيبه من الاعضاء. وتصدر القرارات باغلبية اصوات الحاضرين علي الاقل. وفي حال تساوي الاصوات يرجح الجانب الذي صوت معه رئيس الاجتماع.",
+    "target_en_norm": "4. board meetings shall be valid if attended by at least the majority of its members, including the chairman or his designee from among board members. board decisions shall be passed by the majority vote of attending members; in case of a tie, the meeting chairman shall have the casting vote.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17036,
+    "source_ar": "5. تثبت مداولات المجلس وقراراته في محاضر يوقعها رئيس الاجتماع والأعضاء الحاضرون.",
+    "target_en": "5. Board deliberations and decisions shall be recorded in minutes signed by the meeting chairman and attending members.",
+    "source_ar_norm": "5. تثبت مداولات المجلس وقراراته في محاضر يوقعها رئيس الاجتماع والاعضاء الحاضرون.",
+    "target_en_norm": "5. board deliberations and decisions shall be recorded in minutes signed by the meeting chairman and attending members.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17037,
+    "source_ar": "6. يجوز -عند الحاجة، وفي الحالات المستعجلة، ووفقًا لما يقدره الرئيس- أن تعقد الاجتماعات وأن يصوت على القرارات، عن بُعد من خلال استخدام وسائل التقنية. ويمكن أن تُتخذ القرارات عن طريق التمرير على أعضاء المجلس، ويوقع عليها بما يفيد اطلاع جميع الأعضاء عليها. ولا تعد القرارات الصادرة بهذه الطريقة صحيحة ما لم تمُرر على جميع الأعضاء، ويصوتوا عليها، وتحُز على أغلبية أصواتهم.",
+    "target_en": "6. The Board may, if the need arises, in urgent cases, or at the Chairman's discretion, hold its meetings and vote on decisions remotely using means of technology. Board decisions may be passed by circulation; in such case, the decision shall be signed by all members to indicate that they have viewed it. Decisions issued by circulation shall be passed by the majority vote of Board members, provided that such decisions are circulated to and voted on by all members.",
+    "source_ar_norm": "6. يجوز -عند الحاجة، وفي الحالات المستعجلة، ووفقا لما يقدره الرئيس- ان تعقد الاجتماعات وان يصوت علي القرارات، عن بعد من خلال استخدام وسائل التقنية. ويمكن ان تتخذ القرارات عن طريق التمرير علي اعضاء المجلس، ويوقع عليها بما يفيد اطلاع جميع الاعضاء عليها. ولا تعد القرارات الصادرة بهذه الطريقة صحيحة ما لم تمرر علي جميع الاعضاء، ويصوتوا عليها، وتحز علي اغلبية اصواتهم.",
+    "target_en_norm": "6. the board may, if the need arises, in urgent cases, or at the chairman's discretion, hold its meetings and vote on decisions remotely using means of technology. board decisions may be passed by circulation; in such case, the decision shall be signed by all members to indicate that they have viewed it. decisions issued by circulation shall be passed by the majority vote of board members, provided that such decisions are circulated to and voted on by all members.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17038,
+    "source_ar": "7. لا يجوز لعضو المجلس الامتناع عن التصويت، ولا تفويض عضو آخر بالتصويت عنه عند غيابه. وللعضو المعترض تسجيل اعتراضه وأسباب الاعتراض ضمن محضر اجتماع المجلس.",
+    "target_en": "7. A Board member may not abstain from voting, nor vote by proxy. An objecting member may have his objection and the grounds therefor entered into the meeting minutes.",
+    "source_ar_norm": "7. لا يجوز لعضو المجلس الامتناع عن التصويت، ولا تفويض عضو اخر بالتصويت عنه عند غيابه. وللعضو المعترض تسجيل اعتراضه واسباب الاعتراض ضمن محضر اجتماع المجلس.",
+    "target_en_norm": "7. a board member may not abstain from voting, nor vote by proxy. an objecting member may have his objection and the grounds therefor entered into the meeting minutes.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17039,
+    "source_ar": "8. لا يجوز لعضو المجلس أن يفشي شيئًا ممّا وقف عليه من أسرار الهيئة حتى بعد انتهاء عضويته في المجلس.",
+    "target_en": "8. A Board member may not disclose any of the Authority's confidential information even after the termination of his membership in the Board.",
+    "source_ar_norm": "8. لا يجوز لعضو المجلس ان يفشي شيئا مما وقف عليه من اسرار الهيئة حتي بعد انتهاء عضويته في المجلس.",
+    "target_en_norm": "8. a board member may not disclose any of the authority's confidential information even after the termination of his membership in the board.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17040,
+    "source_ar": "9. للمجلس دعوة من يرى الاستعانة بهم من المختصين والمستشارين لحضور اجتماعاته، دون أن يكون لهم حق التصويت.",
+    "target_en": "9. The Board may invite specialists and advisors to attend its meetings in a non-voting capacity.",
+    "source_ar_norm": "9. للمجلس دعوة من يري الاستعانة بهم من المختصين والمستشارين لحضور اجتماعاته، دون ان يكون لهم حق التصويت.",
+    "target_en_norm": "9. the board may invite specialists and advisors to attend its meetings in a non-voting capacity.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17041,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17042,
+    "source_ar": "يكون للهيئة رئيس تنفيذي، يعيَّن بقرار من المجلس، ويحدد القرار أجره ومزاياه المالية والوظيفية الأخرى، ويعد المسؤول عن إدارة شؤون الهيئة، وتتركز مسؤولياته في حدود التنظيم وما يقرره المجلس. ويتولى الاختصاصات الآتية:",
+    "target_en": "The Authority shall have a CEO appointed pursuant to a decision by the Board. The decision shall determine his remuneration as well as his financial and employment benefits. The CEO shall be in charge of managing the Authority’s affairs within the limits of this Statute and pursuant to Board decisions, and he shall be entrusted with the following powers:",
+    "source_ar_norm": "يكون للهيئة رئيس تنفيذي، يعين بقرار من المجلس، ويحدد القرار اجره ومزاياه المالية والوظيفية الاخري، ويعد المسؤول عن ادارة شؤون الهيئة، وتتركز مسؤولياته في حدود التنظيم وما يقرره المجلس. ويتولي الاختصاصات الاتية:",
+    "target_en_norm": "the authority shall have a ceo appointed pursuant to a decision by the board. the decision shall determine his remuneration as well as his financial and employment benefits. the ceo shall be in charge of managing the authority’s affairs within the limits of this statute and pursuant to board decisions, and he shall be entrusted with the following powers:",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17043,
+    "source_ar": "1. الإشراف على إعداد الاستراتيجية الوطنية لقطاع التأمين، ورفعها إلى المجلس؛ لاستكمال ما يلزم في شأنها.",
+    "target_en": "1. Overseeing the preparation of the national strategy for the insurance sector, and submitting it to the Board for necessary action.",
+    "source_ar_norm": "1. الاشراف علي اعداد الاستراتيجية الوطنية لقطاع التامين، ورفعها الي المجلس؛ لاستكمال ما يلزم في شانها.",
+    "target_en_norm": "1. overseeing the preparation of the national strategy for the insurance sector, and submitting it to the board for necessary action.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17044,
+    "source_ar": "2. اقتراح السياسات العامة للهيئة، والخطط والبرامج التي تسير عليها لتحقيق أهدافها، ورفعها إلى المجلس؛ لاستكمال ما يلزم في شأنها.",
+    "target_en": "2. Proposing the general policies, plans, and programs of the Authority which are necessary for achieving its objectives, and submitting the same to the Board for necessary action.",
+    "source_ar_norm": "2. اقتراح السياسات العامة للهيئة، والخطط والبرامج التي تسير عليها لتحقيق اهدافها، ورفعها الي المجلس؛ لاستكمال ما يلزم في شانها.",
+    "target_en_norm": "2. proposing the general policies, plans, and programs of the authority which are necessary for achieving its objectives, and submitting the same to the board for necessary action.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17045,
+    "source_ar": "3. اقتراح الهيكل التنظيمي للهيئة، ورفعه إلى المجلس؛ لاستكمال ما يلزم في شأنه.",
+    "target_en": "3. Proposing the Authority’s organizational structure and submitting it to the Board for necessary action.",
+    "source_ar_norm": "3. اقتراح الهيكل التنظيمي للهيئة، ورفعه الي المجلس؛ لاستكمال ما يلزم في شانه.",
+    "target_en_norm": "3. proposing the authority’s organizational structure and submitting it to the board for necessary action.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17046,
+    "source_ar": "4. اقتراح اللوائح بما في ذلك اللوائح الإدارية والمالية للهيئة، والإشراف على تنفيذها بعد إقرارها.",
+    "target_en": "4. Proposing the Authority's regulations, including the administrative and financial regulations, and monitoring their implementation upon approval.",
+    "source_ar_norm": "4. اقتراح اللوائح بما في ذلك اللوائح الادارية والمالية للهيئة، والاشراف علي تنفيذها بعد اقرارها.",
+    "target_en_norm": "4. proposing the authority's regulations, including the administrative and financial regulations, and monitoring their implementation upon approval.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17047,
+    "source_ar": "5. الإشراف على سير العمل في الهيئة، طبقًا للوائحها وخططها وبرامجها المعتمدة.",
+    "target_en": "5. Overseeing the Authority's work progress in accordance with its approved regulations, plans, and programs.",
+    "source_ar_norm": "5. الاشراف علي سير العمل في الهيئة، طبقا للوائحها وخططها وبرامجها المعتمدة.",
+    "target_en_norm": "5. overseeing the authority's work progress in accordance with its approved regulations, plans, and programs.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17048,
+    "source_ar": "6. الإشراف على إعداد مشروع ميزانية الهيئة ومشروع حسابها الختامي وتقريرها السنوي، ورفعها إلى المجلس.",
+    "target_en": "6. Overseeing the preparation of the Authority's draft budget, draft final accounts, and annual report, and submitting the same to the Board.",
+    "source_ar_norm": "6. الاشراف علي اعداد مشروع ميزانية الهيئة ومشروع حسابها الختامي وتقريرها السنوي، ورفعها الي المجلس.",
+    "target_en_norm": "6. overseeing the preparation of the authority's draft budget, draft final accounts, and annual report, and submitting the same to the board.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17049,
+    "source_ar": "7. تمثيل الهيئة أمام القضاء ولدى الجهات الحكومية والمؤسسات والهيئات والمنظمات المعنية، وغيرها من الجهات أو المؤتمرات أو الفعاليات داخل المملكة وخارجها، وله تفويض غيره بذلك.",
+    "target_en": "7. Representing the Authority before the judiciary and government agencies and before relevant institutions, entities, and organizations as well as before other bodies, and representing the Authority in conferences or events within the Kingdom and abroad. He may delegate said power to others.",
+    "source_ar_norm": "7. تمثيل الهيئة امام القضاء ولدي الجهات الحكومية والمؤسسات والهيئات والمنظمات المعنية، وغيرها من الجهات او المؤتمرات او الفعاليات داخل المملكة وخارجها، وله تفويض غيره بذلك.",
+    "target_en_norm": "7. representing the authority before the judiciary and government agencies and before relevant institutions, entities, and organizations as well as before other bodies, and representing the authority in conferences or events within the kingdom and abroad. he may delegate said power to others.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17050,
+    "source_ar": "8. الموافقة على عقد الهيئة للمؤتمرات والندوات واللقاءات ذات العلاقة باختصاصات الهيئة وفقًا للإجراءات النظامية.",
+    "target_en": "8. Approving the holding of conferences, seminars, and meetings related to the Authority's functions in accordance with legal procedures.",
+    "source_ar_norm": "8. الموافقة علي عقد الهيئة للمؤتمرات والندوات واللقاءات ذات العلاقة باختصاصات الهيئة وفقا للاجراءات النظامية.",
+    "target_en_norm": "8. approving the holding of conferences, seminars, and meetings related to the authority's functions in accordance with legal procedures.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17051,
+    "source_ar": "9. التوقيع على الاتفاقيات والبروتوكولات والعقود بعد موافقة المجلس، أو بحسب الصلاحيات التي يمنحها إيّاه المجلس.",
+    "target_en": "9. Signing agreements, protocols, and contracts upon the Board’s approval, or according to the powers granted thereto by the Board.",
+    "source_ar_norm": "9. التوقيع علي الاتفاقيات والبروتوكولات والعقود بعد موافقة المجلس، او بحسب الصلاحيات التي يمنحها اياه المجلس.",
+    "target_en_norm": "9. signing agreements, protocols, and contracts upon the board’s approval, or according to the powers granted thereto by the board.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17052,
+    "source_ar": "10. اقتراح المقابل المالي للخدمات والأعمال التي تقدمها الهيئة، والرفع عن ذلك إلى المجلس.",
+    "target_en": "10. Proposing the fees for the services and works provided by the Authority, and submitting the same to the Board.",
+    "source_ar_norm": "10. اقتراح المقابل المالي للخدمات والاعمال التي تقدمها الهيئة، والرفع عن ذلك الي المجلس.",
+    "target_en_norm": "10. proposing the fees for the services and works provided by the authority, and submitting the same to the board.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17053,
+    "source_ar": "11. تعيين منسوبي الهيئة وفقًا للأنظمة واللوائح المنظمة لذلك، والإشراف عليهم.",
+    "target_en": "11. Appointing and supervising the Authority's employees in accordance with relevant laws and regulations.",
+    "source_ar_norm": "11. تعيين منسوبي الهيئة وفقا للانظمة واللوائح المنظمة لذلك، والاشراف عليهم.",
+    "target_en_norm": "11. appointing and supervising the authority's employees in accordance with relevant laws and regulations.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17054,
+    "source_ar": "12. أي اختصاص آخر يسنده إليه المجلس.",
+    "target_en": "12. Any other power assigned to him by the Board.",
+    "source_ar_norm": "12. اي اختصاص اخر يسنده اليه المجلس.",
+    "target_en_norm": "12. any other power assigned to him by the board.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17055,
+    "source_ar": "وللرئيس التنفيذي تفويض بعض اختصاصاته إلى من يراه من منسوبي الهيئة.",
+    "target_en": "The CEO may delegate certain powers to any of the Authority’s employees.",
+    "source_ar_norm": "وللرئيس التنفيذي تفويض بعض اختصاصاته الي من يراه من منسوبي الهيئة.",
+    "target_en_norm": "the ceo may delegate certain powers to any of the authority’s employees.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17056,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17057,
+    "source_ar": "1. تتكون موارد الهيئة من الآتي:",
+    "target_en": "1. The Authority's resources shall consist of the following:",
+    "source_ar_norm": "1. تتكون موارد الهيئة من الاتي:",
+    "target_en_norm": "1. the authority's resources shall consist of the following:",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17058,
+    "source_ar": "أ- المقابل المالي الذي تتقاضاه نظير الخدمات والأعمال التي تقدّمها.",
+    "target_en": "a) Fees for the services and works provided by the Authority.",
+    "source_ar_norm": "ا- المقابل المالي الذي تتقاضاه نظير الخدمات والاعمال التي تقدمها.",
+    "target_en_norm": "a) fees for the services and works provided by the authority.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17059,
+    "source_ar": "ب- عوائد استثمارات مواردها المالية المتاحة.",
+    "target_en": "b) Returns on investments of its available financial resources.",
+    "source_ar_norm": "ب- عوائد استثمارات مواردها المالية المتاحة.",
+    "target_en_norm": "b) returns on investments of its available financial resources.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17060,
+    "source_ar": "ج- ما يقبله المجلس من هبات وتبرعات ومنح ووصايا وريع أوقاف.",
+    "target_en": "c) Gifts, donations, grants, bequests, and endowment revenues accepted by the Board.",
+    "source_ar_norm": "ج- ما يقبله المجلس من هبات وتبرعات ومنح ووصايا وريع اوقاف.",
+    "target_en_norm": "c) gifts, donations, grants, bequests, and endowment revenues accepted by the board.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17061,
+    "source_ar": "د- الغرامات المالية التي تفرضها الهيئة على المخالفين لأحكام الأنظمة ذات الصلة بقطاع التأمين.",
+    "target_en": "d) Fines imposed by the Authority on violators of laws relating to the insurance sector.",
+    "source_ar_norm": "د- الغرامات المالية التي تفرضها الهيئة علي المخالفين لاحكام الانظمة ذات الصلة بقطاع التامين.",
+    "target_en_norm": "d) fines imposed by the authority on violators of laws relating to the insurance sector.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17062,
+    "source_ar": "هـ- أي مورد آخر يقره المجلس بما لا يخالف الأنظمة والتعليمات.",
+    "target_en": "e) Any other resource approved by the Board, provided that such resource is not inconsistent with laws and instructions.",
+    "source_ar_norm": "ه- اي مورد اخر يقره المجلس بما لا يخالف الانظمة والتعليمات.",
+    "target_en_norm": "e) any other resource approved by the board, provided that such resource is not inconsistent with laws and instructions.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17063,
+    "source_ar": "2. تفتح الهيئة حساباً لها في البنك المركزي السعودي، ولها فتح حسابات أخرى في أي من البنوك المرخص لها بالعمل في المملكة، ويصرف من هذه الحسابات وفقاً لميزانية الهيئة ولوائحها المالية.",
+    "target_en": "2. The Authority shall open an account with the Saudi Central Bank, and may open other accounts with any of the banks licensed to operate in the Kingdom. Disbursement from such accounts shall be made in accordance with the Authority's budget and financial regulations.",
+    "source_ar_norm": "2. تفتح الهيئة حسابا لها في البنك المركزي السعودي، ولها فتح حسابات اخري في اي من البنوك المرخص لها بالعمل في المملكة، ويصرف من هذه الحسابات وفقا لميزانية الهيئة ولوائحها المالية.",
+    "target_en_norm": "2. the authority shall open an account with the saudi central bank, and may open other accounts with any of the banks licensed to operate in the kingdom. disbursement from such accounts shall be made in accordance with the authority's budget and financial regulations.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17064,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17065,
+    "source_ar": "1. تكون للهيئة ميزانية سنوية مستقلة من مواردها المالية، تقدم إلى وزارة المالية وتعتمد وفقاً للإجراءات النظامية المتبعة، ويحوَّل الفائض من مواردها المالية إلى وزارة المالية، بعد اقتطاع جميع النفقات الجارية والرأسمالية وغيرها من المصروفات التي تحتاج إليها الهيئة. وتحتفظ الهيئة باحتياطي عام لا يقل عن ضعف إجمالي نفقاتها المبينة في ميزانياتها السنوية السابقة، وفقاً لما يحدده المجلس في بداية السنة المالية.",
+    "target_en": "1. The Authority shall have an independent annual budget consisting of its financial resources; such budget shall be submitted to the Ministry of Finance and shall be approved in accordance with applicable legal procedures. Any surplus shall be transferred to the Ministry of Finance, after deducting all current, capital, and other expenditures required by the Authority. The Authority shall maintain a general reserve of not less than double its total expenditures as stated in its previous annual budgets, and as determined by the Board at the beginning of the fiscal year.",
+    "source_ar_norm": "1. تكون للهيئة ميزانية سنوية مستقلة من مواردها المالية، تقدم الي وزارة المالية وتعتمد وفقا للاجراءات النظامية المتبعة، ويحول الفائض من مواردها المالية الي وزارة المالية، بعد اقتطاع جميع النفقات الجارية والراسمالية وغيرها من المصروفات التي تحتاج اليها الهيئة. وتحتفظ الهيئة باحتياطي عام لا يقل عن ضعف اجمالي نفقاتها المبينة في ميزانياتها السنوية السابقة، وفقا لما يحدده المجلس في بداية السنة المالية.",
+    "target_en_norm": "1. the authority shall have an independent annual budget consisting of its financial resources; such budget shall be submitted to the ministry of finance and shall be approved in accordance with applicable legal procedures. any surplus shall be transferred to the ministry of finance, after deducting all current, capital, and other expenditures required by the authority. the authority shall maintain a general reserve of not less than double its total expenditures as stated in its previous annual budgets, and as determined by the board at the beginning of the fiscal year.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17066,
+    "source_ar": "2. السنة المالية للهيئة هي السنة المالية للدولة.",
+    "target_en": "2. The Authority’s fiscal year shall be the same as the State’s fiscal year.",
+    "source_ar_norm": "2. السنة المالية للهيئة هي السنة المالية للدولة.",
+    "target_en_norm": "2. the authority’s fiscal year shall be the same as the state’s fiscal year.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17067,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17068,
+    "source_ar": "ترفع الهيئة إلى مجلس الوزراء حسابها الختامي السنوي خلال (تسعين) يومًا من تاريخ انتهاء السنة المالية، ويُزود الديوان العام للمحاسبة بنسخة منه.",
+    "target_en": "The Authority shall submit to the Prime Minister its annual final accounts within 90 days from the date of the end of the fiscal year, and shall provide the General Court of Audit with a copy thereof.",
+    "source_ar_norm": "ترفع الهيئة الي مجلس الوزراء حسابها الختامي السنوي خلال (تسعين) يوما من تاريخ انتهاء السنة المالية، ويزود الديوان العام للمحاسبة بنسخة منه.",
+    "target_en_norm": "the authority shall submit to the prime minister its annual final accounts within 90 days from the date of the end of the fiscal year, and shall provide the general court of audit with a copy thereof.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17069,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17070,
+    "source_ar": "دون إخلال باختصاص الديوان العام للمحاسبة، يعين المجلس مراجع حسابات خارجيًّا (أو أكثر) من المرخص لهم بالعمل في المملكة، لتدقيق حسابات الهيئة ومعاملاتها وبياناتها وميزانيتها السنوية وحسابها الختامي، ويحدد المجلس أتعابه. ويرفع تقرير مراجع الحسابات إلى المجلس، ويزود الديوان العام للمحاسبة بنسخة منه بعد اعتماده.",
+    "target_en": "Without prejudice to the jurisdiction of the General Court of Audit, the Board shall appoint an external auditor, or more, licensed to operate in the Kingdom to audit the Authority's accounts, transactions, statements, annual budget, and final accounts, and the Board shall determine his fees. The auditor's report shall be submitted to the Board, and the General Court of Audit shall be provided with a copy thereof after its approval.",
+    "source_ar_norm": "دون اخلال باختصاص الديوان العام للمحاسبة، يعين المجلس مراجع حسابات خارجيا (او اكثر) من المرخص لهم بالعمل في المملكة، لتدقيق حسابات الهيئة ومعاملاتها وبياناتها وميزانيتها السنوية وحسابها الختامي، ويحدد المجلس اتعابه. ويرفع تقرير مراجع الحسابات الي المجلس، ويزود الديوان العام للمحاسبة بنسخة منه بعد اعتماده.",
+    "target_en_norm": "without prejudice to the jurisdiction of the general court of audit, the board shall appoint an external auditor, or more, licensed to operate in the kingdom to audit the authority's accounts, transactions, statements, annual budget, and final accounts, and the board shall determine his fees. the auditor's report shall be submitted to the board, and the general court of audit shall be provided with a copy thereof after its approval.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17071,
+    "source_ar": "المادة الثالثة عشرة",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة",
+    "target_en_norm": "article 13",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17072,
+    "source_ar": "ترفع الهيئة إلى رئيس مجلس الوزراء خلال (تسعين) يومًا من بداية كل سنة مالية تقريرًا سنويًا عما حققته من إنجازات خلال السنة المنقضية وما واجهها من صعوبات وما تراه من مقترحات لتحسين سير العمل فيها.",
+    "target_en": "The Authority shall, within 90 days from the beginning of each fiscal year, submit to the Prime Minister an annual report which shall include its achievements and the challenges encountered during the lapsed year and proposals for improvement.",
+    "source_ar_norm": "ترفع الهيئة الي رئيس مجلس الوزراء خلال (تسعين) يوما من بداية كل سنة مالية تقريرا سنويا عما حققته من انجازات خلال السنة المنقضية وما واجهها من صعوبات وما تراه من مقترحات لتحسين سير العمل فيها.",
+    "target_en_norm": "the authority shall, within 90 days from the beginning of each fiscal year, submit to the prime minister an annual report which shall include its achievements and the challenges encountered during the lapsed year and proposals for improvement.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17073,
+    "source_ar": "المادة الرابعة عشرة",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة",
+    "target_en_norm": "article 14",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17074,
+    "source_ar": "يخضع منسوبو الهيئة لأحكام نظام العمل ونظام التأمينات الاجتماعية.",
+    "target_en": "The Authority’s employees shall be subject to the provisions of the Labor Law and the Social Insurance Law.",
+    "source_ar_norm": "يخضع منسوبو الهيئة لاحكام نظام العمل ونظام التامينات الاجتماعية.",
+    "target_en_norm": "the authority’s employees shall be subject to the provisions of the labor law and the social insurance law.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17075,
+    "source_ar": "المادة الخامسة عشرة",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة",
+    "target_en_norm": "article 15",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17076,
+    "source_ar": "ينشر التنظيم في الجريدة الرسمية، ويعمل به بعد (تسعين) يومًا من تاريخ نشره.",
+    "target_en": "This Statute shall be published in the Official Gazette and shall enter into force 90 days after the date of its publication.",
+    "source_ar_norm": "ينشر التنظيم في الجريدة الرسمية، ويعمل به بعد (تسعين) يوما من تاريخ نشره.",
+    "target_en_norm": "this statute shall be published in the official gazette and shall enter into force 90 days after the date of its publication.",
+    "file_name": "تنظيم هيئة التأمين.docx"
+  },
+  {
+    "id": 17077,
+    "source_ar": "تنظيم هيئة التراث",
+    "target_en": "Statute of Heritage Commission",
+    "source_ar_norm": "تنظيم هيئة التراث",
+    "target_en_norm": "statute of heritage commission",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17078,
+    "source_ar": "المادة الأولى:",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي:",
+    "target_en_norm": "article 1",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17079,
+    "source_ar": "يقصد بالكلمات والعبارات الآتية -أينما وردت في هذا التنظيم- المعاني المبيّنة أمام كل منها، ما لم يقتضِ السياق غير ذلك:",
+    "target_en": "In this Statute, the following words and phrases shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "source_ar_norm": "يقصد بالكلمات والعبارات الاتية -اينما وردت في هذا التنظيم- المعاني المبينة امام كل منها، ما لم يقتض السياق غير ذلك:",
+    "target_en_norm": "in this statute, the following words and phrases shall have the meanings assigned thereto, unless the context requires otherwise:",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17080,
+    "source_ar": "1-الهيئة: هيئة التراث.",
+    "target_en": "1-Commission: Heritage Commission.",
+    "source_ar_norm": "1-الهيئة: هيئة التراث.",
+    "target_en_norm": "1-commission: heritage commission.",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17081,
+    "source_ar": "2-التنظيم: تنظيم الهيئة.",
+    "target_en": "2-Statute: Statute of the Commission.",
+    "source_ar_norm": "2-التنظيم: تنظيم الهيئة.",
+    "target_en_norm": "2-statute: statute of the commission.",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17082,
+    "source_ar": "3-الوزارة: وزارة الثقافة.",
+    "target_en": "3-Ministry: Ministry of Culture.",
+    "source_ar_norm": "3-الوزارة: وزارة الثقافة.",
+    "target_en_norm": "3-ministry: ministry of culture.",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17083,
+    "source_ar": "4-الوزير: وزير الثقافة.",
+    "target_en": "4-Minister: Minister of Culture.",
+    "source_ar_norm": "4-الوزير: وزير الثقافة.",
+    "target_en_norm": "4-minister: minister of culture.",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17084,
+    "source_ar": "5-المجلس: مجلس إدارة الهيئة.",
+    "target_en": "5-Board: Board of Directors of the Commission.",
+    "source_ar_norm": "5-المجلس: مجلس ادارة الهيئة.",
+    "target_en_norm": "5-board: board of directors of the commission.",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17085,
+    "source_ar": "6-الرئيس التنفيذي: الرئيس التنفيذي للهيئة.",
+    "target_en": "6-CEO: Chief Executive Officer of the Commission.",
+    "source_ar_norm": "6-الرئيس التنفيذي: الرئيس التنفيذي للهيئة.",
+    "target_en_norm": "6-ceo: chief executive officer of the commission.",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17086,
+    "source_ar": "7-قطاع التراث: القطاع الذي يعنى بالأنشطة المتعلقة بالتراث والآثار والتنقيب عنها واستكشافها وحمايتها وصيانتها وتهيئتها وترميمها وإدارتها والمحافظة عليها، ويشمل ذلك المدن والقرى والأحياء والمواقع والمباني التراثية والحرف والفنون والصناعات التقليدية والمعالم التاريخية.",
+    "target_en": "7-Heritage Sector: The sector concerned with activities relating to heritage and antiquities, including excavation, exploration, protection, maintenance, preparation, restoration, management, and preservation. This includes heritage cities, villages, neighborhoods, sites, and buildings; historical landmarks; and traditional crafts, arts, and vocations.",
+    "source_ar_norm": "7-قطاع التراث: القطاع الذي يعني بالانشطة المتعلقة بالتراث والاثار والتنقيب عنها واستكشافها وحمايتها وصيانتها وتهيئتها وترميمها وادارتها والمحافظة عليها، ويشمل ذلك المدن والقري والاحياء والمواقع والمباني التراثية والحرف والفنون والصناعات التقليدية والمعالم التاريخية.",
+    "target_en_norm": "7-heritage sector: the sector concerned with activities relating to heritage and antiquities, including excavation, exploration, protection, maintenance, preparation, restoration, management, and preservation. this includes heritage cities, villages, neighborhoods, sites, and buildings; historical landmarks; and traditional crafts, arts, and vocations.",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17087,
+    "source_ar": "المادة الثانية:",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية:",
+    "target_en_norm": "article 2",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17088,
+    "source_ar": "تتمتع الهيئة بالشخصية الاعتبارية العامة والاستقلال المالي والإداري في حدود التنظيم، وترتبط تنظيمياً بالوزير.",
+    "target_en": "The Commission shall have a public legal personality with financial and administrative independence within the limits of this Statute, and shall report to the Minister.",
+    "source_ar_norm": "تتمتع الهيئة بالشخصية الاعتبارية العامة والاستقلال المالي والاداري في حدود التنظيم، وترتبط تنظيميا بالوزير.",
+    "target_en_norm": "the commission shall have a public legal personality with financial and administrative independence within the limits of this statute, and shall report to the minister.",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17089,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article 3",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17090,
+    "source_ar": "يكون مقر الهيئة الرئيس في مدينة الرياض، ولها إنشاء فروع ومكاتب -بحسب الحاجة- داخل المملكة وخارجها.",
+    "target_en": "The Commission shall be headquartered in the city of Riyadh and may, as needed, establish branches and offices within the Kingdom or abroad.",
+    "source_ar_norm": "يكون مقر الهيئة الرئيس في مدينة الرياض، ولها انشاء فروع ومكاتب -بحسب الحاجة- داخل المملكة وخارجها.",
+    "target_en_norm": "the commission shall be headquartered in the city of riyadh and may, as needed, establish branches and offices within the kingdom or abroad.",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17091,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article 4",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17092,
+    "source_ar": "تهدف الهيئة إلى تنظيم قطاع التراث في المملكة وتطويره، والنهوض بمقوماته، ودعم وتشجيع الممارسين فيه، ولها في سبيل تحقيق أهدافها ممارسة المهمات والاختصاصات الآتية:",
+    "target_en": "The Commission aims to regulate and advance the heritage sector in the Kingdom and to support and encourage practitioners therein. To this end, the Commission shall assume the following powers and duties:",
+    "source_ar_norm": "تهدف الهيئة الي تنظيم قطاع التراث في المملكة وتطويره، والنهوض بمقوماته، ودعم وتشجيع الممارسين فيه، ولها في سبيل تحقيق اهدافها ممارسة المهمات والاختصاصات الاتية:",
+    "target_en_norm": "the commission aims to regulate and advance the heritage sector in the kingdom and to support and encourage practitioners therein. to this end, the commission shall assume the following powers and duties:",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17093,
+    "source_ar": "1- اقتراح استراتيجيات وسياسات قطاع التراث في إطار الاستراتيجية الوطنية للثقافة والاستراتيجيات الثقافية ذات الصلة ومتابعة تنفيذها بعد اعتمادها من الوزارة.",
+    "target_en": "1. Propose strategies and policies for the heritage sector, in line with the National Strategy for Culture and other strategies pertaining to culture, and monitor their implementation upon approval by the Ministry.",
+    "source_ar_norm": "1- اقتراح استراتيجيات وسياسات قطاع التراث في اطار الاستراتيجية الوطنية للثقافة والاستراتيجيات الثقافية ذات الصلة ومتابعة تنفيذها بعد اعتمادها من الوزارة.",
+    "target_en_norm": "1. propose strategies and policies for the heritage sector, in line with the national strategy for culture and other strategies pertaining to culture, and monitor their implementation upon approval by the ministry.",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17094,
+    "source_ar": "2- اقتراح مشروعات الأنظمة واللوائح وما في حكمها التي تتطلبها طبيعة عمل الهيئة، واقتراح تعديل المعمول به منها، ورفعها إلى الوزارة تمهيداً لاستكمال الإجراءات النظامية.",
+    "target_en": "2. Propose laws and regulations relevant to the Commission’s activities, as well as amendments to existing ones, and submit the same to the Ministry for completion of statutory procedures.",
+    "source_ar_norm": "2- اقتراح مشروعات الانظمة واللوائح وما في حكمها التي تتطلبها طبيعة عمل الهيئة، واقتراح تعديل المعمول به منها، ورفعها الي الوزارة تمهيدا لاستكمال الاجراءات النظامية.",
+    "target_en_norm": "2. propose laws and regulations relevant to the commission’s activities, as well as amendments to existing ones, and submit the same to the ministry for completion of statutory procedures.",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17095,
+    "source_ar": "3- تشجيع التمويل والاستثمار في قطاع التراث في ضوء الاستراتيجيات الثقافية ذات الصلة.",
+    "target_en": "3. Promote funding and investments in the heritage sector, in light of strategies pertaining to culture.",
+    "source_ar_norm": "3- تشجيع التمويل والاستثمار في قطاع التراث في ضوء الاستراتيجيات الثقافية ذات الصلة.",
+    "target_en_norm": "3. promote funding and investments in the heritage sector, in light of strategies pertaining to culture.",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17096,
+    "source_ar": "4- تقديم المنح والحوافز (المستردة وغير المستردة) بالتنسيق مع الوزارة من خلال المبادرات المعتمدة أو ميزانية الهيئة أو ميزانية الوزارة.",
+    "target_en": "4. Provide repayable and non-repayable grants and incentives in coordination with the Ministry through approved initiatives, Commission’s budget, or the Ministry’s budget.",
+    "source_ar_norm": "4- تقديم المنح والحوافز (المستردة وغير المستردة) بالتنسيق مع الوزارة من خلال المبادرات المعتمدة او ميزانية الهيئة او ميزانية الوزارة.",
+    "target_en_norm": "4. provide repayable and non-repayable grants and incentives in coordination with the ministry through approved initiatives, commission’s budget, or the ministry’s budget.",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17097,
+    "source_ar": "5- الترخيص للأنشطة ذات العلاقة بمجال عمل الهيئة.",
+    "target_en": "5. License activities relevant to the Commission's field of work.",
+    "source_ar_norm": "5- الترخيص للانشطة ذات العلاقة بمجال عمل الهيئة.",
+    "target_en_norm": "5. license activities relevant to the commission's field of work.",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17098,
+    "source_ar": "6- اقتراح المعايير والمقاييس الخاصة بقطاع التراث ورفعها إلى الوزارة؛ لاعتمادها.",
+    "target_en": "6. Propose standards and criteria for the heritage sector, and submit the same to the Ministry for approval.",
+    "source_ar_norm": "6- اقتراح المعايير والمقاييس الخاصة بقطاع التراث ورفعها الي الوزارة؛ لاعتمادها.",
+    "target_en_norm": "6. propose standards and criteria for the heritage sector, and submit the same to the ministry for approval.",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17099,
+    "source_ar": "7- تشجيع إنتاج وتطوير المحتوى في قطاع التراث.",
+    "target_en": "7. Promote the production and development of content in the heritage sector.",
+    "source_ar_norm": "7- تشجيع انتاج وتطوير المحتوي في قطاع التراث.",
+    "target_en_norm": "7. promote the production and development of content in the heritage sector.",
+    "file_name": "تنظيم هيئة التراث.docx"
+  },
+  {
+    "id": 17100,
+    "source_ar": "8- إقامة الدورات التدريبية في المجالات ذات العلاقة بقطاع التراث، والتشجيع على ذلك.",
+    "target_en": "8. Provide and encourage the offering of training courses in areas pertaining to the heritage sector.",
+    "source_ar_norm": "8- اقامة الدورات التدريبية في المجالات ذات العلاقة بقطاع التراث، والتشجيع علي ذلك.",
+    "target_en_norm": "8. provide and encourage the offering of training courses in areas pertaining to the heritage sector.",
+    "file_name": "تنظيم هيئة التراث.docx"
+  }
+]
