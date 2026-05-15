@@ -1,1 +1,10 @@
-
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "outputDirectory": ".",
+  "rewrites": [
+    {
+      "source": "/db/:path*",
+      "destination": "/public/db/:path*"
+    }
+  ]
+}
