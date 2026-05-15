@@ -2,55 +2,128 @@
 <html lang="ar" dir="rtl">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>CAT Translation Tool</title>
 
 <style>
-body{
-margin:0;
-background:#f8fafc;
-font-family:system-ui,"Segoe UI",Tahoma,Arial;
-color:#111827;
+:root{
+  --cat-blue:#2563eb;
+  --cat-blue-dark:#1d4ed8;
+  --cat-bg:#f8fafc;
+  --cat-text:#111827;
+  --cat-muted:#475569;
+  --cat-border:#e5e7eb;
+}
+
+*{
+  box-sizing:border-box;
+}
+
+html,body{
+  margin:0;
+  min-height:100%;
+  background:var(--cat-bg);
+  font-family:system-ui,"Segoe UI",Tahoma,Arial,sans-serif;
+  color:var(--cat-text);
 }
 
 .hero{
-min-height:100vh;
-display:flex;
-align-items:center;
-justify-content:center;
-padding:30px;
+  min-height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:30px;
 }
 
 .card{
-background:white;
-border:1px solid #e5e7eb;
-border-radius:24px;
-padding:40px;
-max-width:850px;
-width:100%;
-box-shadow:0 20px 60px rgba(0,0,0,.08);
-text-align:center;
+  background:#fff;
+  border:1px solid var(--cat-border);
+  border-radius:24px;
+  padding:40px;
+  max-width:850px;
+  width:100%;
+  box-shadow:0 20px 60px rgba(0,0,0,.08);
+  text-align:center;
 }
 
 h1{
-margin:0 0 16px;
-font-size:42px;
+  margin:0 0 16px;
+  font-size:42px;
+  line-height:1.25;
+  direction:ltr;
 }
 
 p{
-font-size:20px;
-line-height:2;
-color:#475569;
+  font-size:20px;
+  line-height:2;
+  color:var(--cat-muted);
+  margin:0;
 }
 
 .badge{
-display:inline-block;
-margin-top:20px;
-padding:10px 18px;
-border-radius:999px;
-background:#2563eb;
-color:white;
-font-weight:700;
+  display:inline-block;
+  margin-top:20px;
+  padding:10px 18px;
+  border-radius:999px;
+  background:var(--cat-blue);
+  color:#fff;
+  font-weight:700;
+}
+
+#directOpenCatBtn{
+  position:fixed;
+  right:18px;
+  bottom:calc(22px + env(safe-area-inset-bottom));
+  z-index:2147483647;
+  height:56px;
+  min-width:150px;
+  padding:0 22px;
+  border:0;
+  border-radius:999px;
+  background:var(--cat-blue);
+  color:#fff;
+  font:900 16px "Segoe UI",Tahoma,Arial,sans-serif;
+  box-shadow:0 14px 36px rgba(37,99,235,.35);
+  cursor:pointer;
+  letter-spacing:.4px;
+  direction:ltr;
+}
+
+#directOpenCatBtn:active{
+  transform:scale(.98);
+  background:var(--cat-blue-dark);
+}
+
+@media (max-width:700px){
+  .hero{
+    padding:24px;
+    align-items:center;
+  }
+
+  .card{
+    padding:32px 22px;
+    border-radius:22px;
+  }
+
+  h1{
+    font-size:36px;
+  }
+
+  p{
+    font-size:18px;
+  }
+
+  .badge{
+    font-size:14px;
+  }
+
+  #directOpenCatBtn{
+    right:16px;
+    bottom:calc(88px + env(safe-area-inset-bottom));
+    height:54px;
+    min-width:142px;
+    font-size:15px;
+  }
 }
 </style>
 </head>
@@ -58,24 +131,76 @@ font-weight:700;
 <body>
 
 <div class="hero">
-<div class="card">
+  <div class="card">
 
-<h1>CAT Translation Tool</h1>
+    <h1>CAT Translation Tool</h1>
 
-<p>
-أداة ترجمة وذاكرة ترجمة تعمل داخل المتصفح
-لاستيراد ملفات DOCX وتحليل النصوص
-وتصدير المستند الهدف بنفس التنسيق.
-</p>
+    <p>
+      أداة ترجمة وذاكرة ترجمة تعمل داخل المتصفح
+      لاستيراد ملفات DOCX وتحليل النصوص
+      وتصدير المستند الهدف بنفس التنسيق.
+    </p>
 
-<div class="badge">
-اضغط زر CAT أسفل الشاشة لفتح الأداة
+    <div class="badge">
+      اضغط زر OPEN CAT أسفل الشاشة لفتح الأداة
+    </div>
+
+  </div>
 </div>
 
-</div>
-</div>
+<button id="directOpenCatBtn" type="button">OPEN CAT</button>
 
-<script src="./content.js?v=59"></script>
+<script src="./content.js?v=62"></script>
+
+<script>
+(function () {
+  function openCAT() {
+    try {
+      if (typeof window.openCATTool === "function") {
+        window.openCATTool();
+        return;
+      }
+    } catch (e) {}
+
+    try {
+      window.dispatchEvent(new CustomEvent("CAT_V45_PRO_OPEN"));
+    } catch (e) {}
+
+    try {
+      window.dispatchEvent(new Event("CAT_V45_PRO_OPEN"));
+    } catch (e) {}
+
+    setTimeout(function () {
+      try {
+        if (typeof window.openCATTool === "function") {
+          window.openCATTool();
+        } else {
+          alert("لم يتم تحميل أداة CAT بعد. حدّث الصفحة ثم جرّب مرة أخرى.");
+        }
+      } catch (e) {
+        alert("تعذر فتح أداة CAT. حدّث الصفحة ثم جرّب مرة أخرى.");
+      }
+    }, 700);
+  }
+
+  function ensureButton() {
+    var btn = document.getElementById("directOpenCatBtn");
+    if (!btn) return;
+    btn.onclick = openCAT;
+    btn.style.display = "block";
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", ensureButton);
+  } else {
+    ensureButton();
+  }
+
+  setTimeout(ensureButton, 500);
+  setTimeout(ensureButton, 1500);
+  setTimeout(ensureButton, 3000);
+})();
+</script>
 
 </body>
 </html>
