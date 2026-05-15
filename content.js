@@ -955,6 +955,7 @@ shadow.innerHTML = [
 "<button id='concordance'>\u0628\u062d\u062b Concordance</button>",
 "<input id='concordQ' placeholder='\u0628\u062d\u062b \u0641\u064a \u0627\u0644\u0630\u0627\u0643\u0631\u0629...' style='padding:0 8px'>",
 "<button id='importDOCX'>Import Word DOCX</button>",
+"<button id='importHTML'>Import HTML</button>",
 "<button id='importTerms'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f \u0645\u0635\u0637\u0644\u062d\u0627\u062a CSV</button>",
 "<button id='importTMX'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f TMX</button>",
 "<button id='exportTMX'>\u062a\u0635\u062f\u064a\u0631 TMX</button>",
@@ -981,6 +982,7 @@ shadow.innerHTML = [
 "</main>",
 "</div>",
 "<input class='hiddenFile' id='fileDOCX' type='file' accept='.docx,application/vnd.openxmlformats-officedocument.wordprocessingml.document'>",
+"<input class='hiddenFile' id='fileHTML' type='file' accept='.html,.htm,text/html'>",
 "<input class='hiddenFile' id='fileTerms' type='file' accept='.csv,.txt'>",
 "<input class='hiddenFile' id='fileTMX' type='file' accept='.tmx,.xml,.txt'>",
 "<input class='hiddenFile' id='fileProject' type='file' accept='.json'>",
@@ -1237,6 +1239,28 @@ ui.status("DOCX imported: " + asc(count) + " segments. Now press Analyze.");
 ui.status("DOCX import failed: " + (e && e.message ? e.message : e));
 }
 $("#fileDOCX").value = "";
+};
+$("#importHTML").onclick = function () { $("#fileHTML").click(); };
+$("#fileHTML").onchange = function () {
+var f = $("#fileHTML").files && $("#fileHTML").files[0];
+if (!f) return;
+f.text().then(function (txt) {
+try {
+var oldBox = document.getElementById(APP.hostId + "-imported-html-tm");
+if (oldBox) oldBox.remove();
+var html = String(txt || "").replace(/<script[\s\S]*?<\/script>/gi, "").replace(/<style[\s\S]*?<\/style>/gi, "");
+var doc = new DOMParser().parseFromString(html, "text/html");
+var box = document.createElement("div");
+box.id = APP.hostId + "-imported-html-tm";
+box.style.cssText = "display:none!important";
+box.innerHTML = (doc.body && doc.body.innerHTML) || html;
+document.body.appendChild(box);
+ui.status("ØªÙ Ø§Ø³ØªÙØ±Ø§Ø¯ HTML. Ø§ÙØµÙÙÙ: " + asc(box.querySelectorAll("tr").length) + " â Ø§Ø¶ØºØ· Ø¨ÙØ§Ø¡ Ø°Ø§ÙØ±Ø© Ø§ÙØªØ±Ø¬ÙØ©.");
+} catch (e) {
+ui.status("ÙØ´Ù Ø§Ø³ØªÙØ±Ø§Ø¯ HTML: " + (e && e.message ? e.message : e));
+}
+});
+$("#fileHTML").value = "";
 };
 $("#importTerms").onclick = function () { $("#fileTerms").click(); };
 $("#fileTerms").onchange = function () {
