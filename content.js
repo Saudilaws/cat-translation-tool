@@ -2444,3 +2444,125 @@ try { initUI(); }
 catch (e) { alert("CAT V45 Professional error: " + (e && e.message ? e.message : e)); }
 });
 })();
+/* =========================================================
+   CAT Online JSON TM Loader - Test Layer
+   Loads /db/tm_index.json and first JSON chunk from Vercel
+   ========================================================= */
+(function () {
+  if (window.__CAT_ONLINE_JSON_TM_TEST__) return;
+  window.__CAT_ONLINE_JSON_TM_TEST__ = true;
+
+  function ready(fn) {
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", fn);
+    } else {
+      fn();
+    }
+  }
+
+  function makeBox() {
+    if (document.getElementById("catOnlineTmTestBox")) return;
+
+    const box = document.createElement("div");
+    box.id = "catOnlineTmTestBox";
+    box.style.cssText = `
+      position: fixed;
+      left: 18px;
+      bottom: 18px;
+      z-index: 2147483647;
+      background: #ffffff;
+      border: 1px solid #d0d7de;
+      border-radius: 14px;
+      box-shadow: 0 8px 24px rgba(0,0,0,.18);
+      padding: 12px;
+      font-family: Tahoma, Arial, sans-serif;
+      direction: rtl;
+      width: 280px;
+      color: #111827;
+    `;
+
+    box.innerHTML = `
+      <button id="catOnlineTmTestBtn" style="
+        width:100%;
+        border:0;
+        border-radius:10px;
+        padding:10px;
+        background:#0F8F4F;
+        color:white;
+        font-weight:700;
+        cursor:pointer;
+        font-size:14px;
+      ">اختبار ذاكرة JSON</button>
+      <div id="catOnlineTmTestStatus" style="
+        margin-top:10px;
+        font-size:13px;
+        line-height:1.7;
+        color:#374151;
+        word-break:break-word;
+      ">لم يتم الاختبار بعد.</div>
+    `;
+
+    document.body.appendChild(box);
+
+    document
+      .getElementById("catOnlineTmTestBtn")
+      .addEventListener("click", loadOnlineJsonTmTest);
+  }
+
+  function setStatus(msg) {
+    const el = document.getElementById("catOnlineTmTestStatus");
+    if (el) el.textContent = msg;
+  }
+
+  async function loadJson(url) {
+    const res = await fetch(url, { cache: "no-store" });
+    if (!res.ok) {
+      throw new Error("فشل تحميل: " + url + " | HTTP " + res.status);
+    }
+    return await res.json();
+  }
+
+  async function loadOnlineJsonTmTest() {
+    try {
+      setStatus("جاري تحميل فهرس الذاكرة...");
+
+      const base = location.origin + "/db/";
+      const indexUrl = base + "tm_index.json?v=" + Date.now();
+
+      const index = await loadJson(indexUrl);
+
+      if (!index || !Array.isArray(index.chunks) || !index.chunks.length) {
+        throw new Error("ملف tm_index.json لا يحتوي على chunks.");
+      }
+
+      const firstChunkName = index.chunks[0].file;
+      const firstChunkUrl = base + firstChunkName + "?v=" + Date.now();
+
+      setStatus("تم تحميل الفهرس. جاري تحميل أول ملف: " + firstChunkName);
+
+      const firstChunk = await loadJson(firstChunkUrl);
+
+      window.CAT_ONLINE_JSON_TM = {
+        index,
+        firstChunk,
+        base
+      };
+
+      setStatus(
+        "نجح الاختبار ✅\n" +
+        "إجمالي المقاطع: " + index.total_segments + "\n" +
+        "عدد ملفات الذاكرة: " + index.chunks.length + "\n" +
+        "أول ملف: " + firstChunkName + "\n" +
+        "مقاطع أول ملف: " + firstChunk.length
+      );
+
+      console.log("CAT_ONLINE_JSON_TM:", window.CAT_ONLINE_JSON_TM);
+
+    } catch (err) {
+      console.error(err);
+      setStatus("فشل الاختبار ❌\n" + err.message);
+    }
+  }
+
+  ready(makeBox);
+})();
