@@ -1,0 +1,802 @@
+[
+  {
+    "id": 61301,
+    "source_ar": "3-الالتزامات المضمونة، ما عدا ما زاد من قيمة الضمان على قيمة الالتزام.",
+    "target_en": "3. Guaranteed liabilities, except where the value of the guarantee exceeds the value of the liability.",
+    "source_ar_norm": "3-الالتزامات المضمونة، ما عدا ما زاد من قيمة الضمان علي قيمة الالتزام.",
+    "target_en_norm": "3. guaranteed liabilities, except where the value of the guarantee exceeds the value of the liability.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61302,
+    "source_ar": "4-أصول العملاء وأموالهم وفق ما تحدده الجهة المختصة.",
+    "target_en": "4. Client assets and funds, as determined by the competent authority.",
+    "source_ar_norm": "4-اصول العملاء واموالهم وفق ما تحدده الجهة المختصة.",
+    "target_en_norm": "4. client assets and funds, as determined by the competent authority.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61303,
+    "source_ar": "5-الأمانات.",
+    "target_en": "5. Consignments.",
+    "source_ar_norm": "5-الامانات.",
+    "target_en_norm": "5. consignments.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61304,
+    "source_ar": "6-أي التزام تبقى على استحقاقه مدة تقل عن (سبعة) أيام، ما عدا الالتزام المستحق لمنشأة ضمن المجموعة المالية نفسها.",
+    "target_en": "6. Any liability due in less than seven days, except for liabilities owed to an institution within the same financial group.",
+    "source_ar_norm": "6-اي التزام تبقي علي استحقاقه مدة تقل عن (سبعة) ايام، ما عدا الالتزام المستحق لمنشاة ضمن المجموعة المالية نفسها.",
+    "target_en_norm": "6. any liability due in less than seven days, except for liabilities owed to an institution within the same financial group.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61305,
+    "source_ar": "7-أي التزام مستحق نتيجة المشاركة في نظم التسوية.",
+    "target_en": "7. Any due liability resulting from subscription to settlement systems.",
+    "source_ar_norm": "7-اي التزام مستحق نتيجة المشاركة في نظم التسوية.",
+    "target_en_norm": "7. any due liability resulting from subscription to settlement systems.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61306,
+    "source_ar": "8-مستحقات عاملي المنشأة المالية المهمة محل المعالجة، ما عدا المكافآت المرتبطة بالأداء.",
+    "target_en": "8. Dues of employees of the SIFI under resolution, except for performance bonuses.",
+    "source_ar_norm": "8-مستحقات عاملي المنشاة المالية المهمة محل المعالجة، ما عدا المكافات المرتبطة بالاداء.",
+    "target_en_norm": "8. dues of employees of the sifi under resolution, except for performance bonuses.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61307,
+    "source_ar": "9-الالتزامات الناشئة من توريد سلع وخدمات مهمة لأعمال المنشأة المالية محل المعالجة المهمة اليومية، ومن ذلك: الخدمات الإلكترونية، وفواتير المرافق، والإيجار، وخدمات الصيانة، ونحوها، ما عدا الالتزامات المستحقة لمنشآت ضمن المجموعة المالية نفسها.",
+    "target_en": "9. Liabilities arising from the import of goods and services essential to the daily operations of the SIFI under resolution, including e-services, utility bills, rent, maintenance services, and the like, except for liabilities owed to institutions within the same financial group.",
+    "source_ar_norm": "9-الالتزامات الناشئة من توريد سلع وخدمات مهمة لاعمال المنشاة المالية محل المعالجة المهمة اليومية، ومن ذلك: الخدمات الالكترونية، وفواتير المرافق، والايجار، وخدمات الصيانة، ونحوها، ما عدا الالتزامات المستحقة لمنشات ضمن المجموعة المالية نفسها.",
+    "target_en_norm": "9. liabilities arising from the import of goods and services essential to the daily operations of the sifi under resolution, including e-services, utility bills, rent, maintenance services, and the like, except for liabilities owed to institutions within the same financial group.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61308,
+    "source_ar": "10-مستحقات الزكاة والتأمينات الاجتماعية.",
+    "target_en": "10. Zakat and social security dues.",
+    "source_ar_norm": "10-مستحقات الزكاة والتامينات الاجتماعية.",
+    "target_en_norm": "10. zakat and social security dues.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61309,
+    "source_ar": "11-مستحقات صناديق المعالجة.",
+    "target_en": "11. Resolution funds dues.",
+    "source_ar_norm": "11-مستحقات صناديق المعالجة.",
+    "target_en_norm": "11. resolution funds dues.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61310,
+    "source_ar": "12-الحقوق والالتزامات التي ترى الجهة المختصة -أثناء تطبيق إجراء تعديل الحقوق- أهمية استثنائها كليًّا أو جزئيًّا من التعديل؛ لتحقيق الاستقرار المالي، أو لضمان استمرار الأنشطة الضرورية للمنشأة المالية المهمة محل المعالجة، أو للمحافظة على قيمة هذه الالتزامات؛ في حال كان تعديلها سيؤثر في حقوق دائنين آخرين تأثيرًا أكبر مما لو استبعدت من التعديل.",
+    "target_en": "12. Rights and liabilities which the competent authority considers, when implementing the amendment of rights procedure, important to be excluded entirely or partially from the amendment, to establish financial stability, ensure continuity of the critical activities of the SIFI under resolution, or maintain the value of such liabilities, if the amendment thereof would affect the rights of other creditors more than the exclusion thereof from amendment.",
+    "source_ar_norm": "12-الحقوق والالتزامات التي تري الجهة المختصة -اثناء تطبيق اجراء تعديل الحقوق- اهمية استثنائها كليا او جزئيا من التعديل؛ لتحقيق الاستقرار المالي، او لضمان استمرار الانشطة الضرورية للمنشاة المالية المهمة محل المعالجة، او للمحافظة علي قيمة هذه الالتزامات؛ في حال كان تعديلها سيؤثر في حقوق دائنين اخرين تاثيرا اكبر مما لو استبعدت من التعديل.",
+    "target_en_norm": "12. rights and liabilities which the competent authority considers, when implementing the amendment of rights procedure, important to be excluded entirely or partially from the amendment, to establish financial stability, ensure continuity of the critical activities of the sifi under resolution, or maintain the value of such liabilities, if the amendment thereof would affect the rights of other creditors more than the exclusion thereof from amendment.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61311,
+    "source_ar": "المادة الحادية والعشرون",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون",
+    "target_en_norm": "article 21",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61312,
+    "source_ar": "1-على المنشأة المالية المهمة -التي يُتخذ في شأنها إجراء تعديل الحقوق- أن تقدم إلى الجهة المختصة، خلال (ثلاثين) يومًا من انتهاء الإجراء، خطة عمل تتضمن الآتي:",
+    "target_en": "1. The SIFI subject to the amendment of rights procedure shall, within 30 days from the conclusion of the procedure, submit to the competent authority an action plan which includes the following:",
+    "source_ar_norm": "1-علي المنشاة المالية المهمة -التي يتخذ في شانها اجراء تعديل الحقوق- ان تقدم الي الجهة المختصة، خلال (ثلاثين) يوما من انتهاء الاجراء، خطة عمل تتضمن الاتي:",
+    "target_en_norm": "1. the sifi subject to the amendment of rights procedure shall, within 30 days from the conclusion of the procedure, submit to the competent authority an action plan which includes the following:",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61313,
+    "source_ar": "أ- تشخيص مفصل للعوامل التي أدت إلى اضطرابها.",
+    "target_en": "a) A detailed account of the factors leading to the disruption.",
+    "source_ar_norm": "ا- تشخيص مفصل للعوامل التي ادت الي اضطرابها.",
+    "target_en_norm": "a) a detailed account of the factors leading to the disruption.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61314,
+    "source_ar": "ب- وصف للإجراءات التي ستتخذها لاستعادة وضعها على المدى الطويل.",
+    "target_en": "b) A description of the procedures to be taken to achieve recovery in the long term.",
+    "source_ar_norm": "ب- وصف للاجراءات التي ستتخذها لاستعادة وضعها علي المدي الطويل.",
+    "target_en_norm": "b) a description of the procedures to be taken to achieve recovery in the long term.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61315,
+    "source_ar": "ج- إطار زمني لتنفيذ تلك الإجراءات.",
+    "target_en": "c) A timeframe to implement such procedures.",
+    "source_ar_norm": "ج- اطار زمني لتنفيذ تلك الاجراءات.",
+    "target_en_norm": "c) a timeframe to implement such procedures.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61316,
+    "source_ar": "2-على الجهة المختصة، خلال (ثلاثين) يومًا من تقديم الخطة، أن تصدر قرارها إما بالموافقة أو بتزويد المنشأة المالية المهمة بالتعديلات المطلوبة. وعلى المنشأة المالية المهمة تعديل الخطة وإعادة تقديمها للجهة المختصة خلال (أربعة عشر) يومًا.",
+    "target_en": "2. The competent authority shall, within 30 days from receipt of the plan, decide whether to approve the plan or notify the SIFI of required amendments. The SIFI shall amend the plan and resubmit the same to the competent authority within 14 days.",
+    "source_ar_norm": "2-علي الجهة المختصة، خلال (ثلاثين) يوما من تقديم الخطة، ان تصدر قرارها اما بالموافقة او بتزويد المنشاة المالية المهمة بالتعديلات المطلوبة. وعلي المنشاة المالية المهمة تعديل الخطة واعادة تقديمها للجهة المختصة خلال (اربعة عشر) يوما.",
+    "target_en_norm": "2. the competent authority shall, within 30 days from receipt of the plan, decide whether to approve the plan or notify the sifi of required amendments. the sifi shall amend the plan and resubmit the same to the competent authority within 14 days.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61317,
+    "source_ar": "3-على المنشأة المالية المهمة تقديم تقارير (نصف) سنوية، أو عند طلب الجهة المختصة في شأن ما تم لتنفيذ الخطة.",
+    "target_en": "3. Semi-annual progress reports on the implementation of the plan shall be submitted by the SIFI or at the request of the competent authority.",
+    "source_ar_norm": "3-علي المنشاة المالية المهمة تقديم تقارير (نصف) سنوية، او عند طلب الجهة المختصة في شان ما تم لتنفيذ الخطة.",
+    "target_en_norm": "3. semi-annual progress reports on the implementation of the plan shall be submitted by the sifi or at the request of the competent authority.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61318,
+    "source_ar": "4-للجهة المختصة أن تضمّن اللوائح التنفيذية قواعد وأحكامًا إضافية لإعداد خطة العمل.",
+    "target_en": "4. The competent authority may include in the Implementing Regulations additional rules and provisions governing the preparation of the action plan.",
+    "source_ar_norm": "4-للجهة المختصة ان تضمن اللوائح التنفيذية قواعد واحكاما اضافية لاعداد خطة العمل.",
+    "target_en_norm": "4. the competent authority may include in the implementing regulations additional rules and provisions governing the preparation of the action plan.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61319,
+    "source_ar": "الفصل الخامس: حماية الحقوق",
+    "target_en": "Chapter 5: Protection of Rights",
+    "source_ar_norm": "الفصل الخامس: حماية الحقوق",
+    "target_en_norm": "chapter 5: protection of rights",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61320,
+    "source_ar": "المادة الثانية والعشرون",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون",
+    "target_en_norm": "article 22",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61321,
+    "source_ar": "يكون اتخاذ إجراءات المعالجة الواردة في النظام على النحو الآتي:",
+    "target_en": "The resolution procedures referred to in this Law shall be applied as follows:",
+    "source_ar_norm": "يكون اتخاذ اجراءات المعالجة الواردة في النظام علي النحو الاتي:",
+    "target_en_norm": "the resolution procedures referred to in this law shall be applied as follows:",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61322,
+    "source_ar": "1-في حال اتخاذ إجراء بيع المنشأة المالية المهمة أو المنشأة الانتقالية، فيجب ألا يقل ما يحصل عليه الملاك والدائنون -الذين لم تنقل أصولهم أو التزاماتهم- عمّا كانوا سيحصلون عليه في حال صُفيت المنشأة المالية المهمة في وقت البدء في اتخاذ الإجراء.",
+    "target_en": "1. If the SIFI or the transitional entity is to be sold, the amount received by the owners and creditors, whose assets or liabilities are not transferred, shall not fall below what they would have received had the SIFI been liquidated at the start of the procedure.",
+    "source_ar_norm": "1-في حال اتخاذ اجراء بيع المنشاة المالية المهمة او المنشاة الانتقالية، فيجب الا يقل ما يحصل عليه الملاك والدائنون -الذين لم تنقل اصولهم او التزاماتهم- عما كانوا سيحصلون عليه في حال صفيت المنشاة المالية المهمة في وقت البدء في اتخاذ الاجراء.",
+    "target_en_norm": "1. if the sifi or the transitional entity is to be sold, the amount received by the owners and creditors, whose assets or liabilities are not transferred, shall not fall below what they would have received had the sifi been liquidated at the start of the procedure.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61323,
+    "source_ar": "2-في حال اتخاذ إجراء تعديل الحقوق، فيجب ألا تزيد خسارة الملاك والدائنين الذين عُدلت حقوقهم عمّا كانوا سيخسرونه فيما لو صُفيت المنشأة المالية المهمة في وقت بدء اتخاذ الإجراء.",
+    "target_en": "2. When the amendment of rights procedure is taken, the losses sustained by the owners and creditors whose rights have been amended may not exceed the losses they would have sustained had the SIFI been liquidated at the start of the procedure.",
+    "source_ar_norm": "2-في حال اتخاذ اجراء تعديل الحقوق، فيجب الا تزيد خسارة الملاك والدائنين الذين عدلت حقوقهم عما كانوا سيخسرونه فيما لو صفيت المنشاة المالية المهمة في وقت بدء اتخاذ الاجراء.",
+    "target_en_norm": "2. when the amendment of rights procedure is taken, the losses sustained by the owners and creditors whose rights have been amended may not exceed the losses they would have sustained had the sifi been liquidated at the start of the procedure.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61324,
+    "source_ar": "3-لتحديد حقوق الملاك والدائنين -وفق ما أشير إليه في الفقرتين (1) و(2) من هذه المادة- على الجهة المختصة اتخاذ ما يلزم لإجراء تقييم للمنشأة المالية المهمة بعد اتخاذ إجراءات المعالجة من مقيم معتمد. ويهدف التقييم المنصوص عليه في هذه الفقرة إلى الآتي:",
+    "target_en": "3. In order to determine the rights of owners and creditors, as set forth in paragraphs (1) and (2) of this Article, the competent authority shall take any action necessary to evaluate the SIFI through an accredited valuer after implementing resolution procedures. The assessment stated herein shall aim to:",
+    "source_ar_norm": "3-لتحديد حقوق الملاك والدائنين -وفق ما اشير اليه في الفقرتين (1) و(2) من هذه المادة- علي الجهة المختصة اتخاذ ما يلزم لاجراء تقييم للمنشاة المالية المهمة بعد اتخاذ اجراءات المعالجة من مقيم معتمد. ويهدف التقييم المنصوص عليه في هذه الفقرة الي الاتي:",
+    "target_en_norm": "3. in order to determine the rights of owners and creditors, as set forth in paragraphs (1) and (2) of this article, the competent authority shall take any action necessary to evaluate the sifi through an accredited valuer after implementing resolution procedures. the assessment stated herein shall aim to:",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61325,
+    "source_ar": "أ- تحديد ما كان سيتحصل عليه الملاك والدائنون في حال تصفية المنشأة المالية المهمة وقت البدء باتخاذ إجراءات المعالجة.",
+    "target_en": "a) determine the amounts the owners and creditors would have received had the SIFI been liquidated at the start of procedures;",
+    "source_ar_norm": "ا- تحديد ما كان سيتحصل عليه الملاك والدائنون في حال تصفية المنشاة المالية المهمة وقت البدء باتخاذ اجراءات المعالجة.",
+    "target_en_norm": "a) determine the amounts the owners and creditors would have received had the sifi been liquidated at the start of procedures;",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61326,
+    "source_ar": "ب- تحديد ما حصل عليه الملاك والدائنون من إجراءات المعالجة.",
+    "target_en": "b) state the amounts received by the owners and creditors from resolution procedures; and",
+    "source_ar_norm": "ب- تحديد ما حصل عليه الملاك والدائنون من اجراءات المعالجة.",
+    "target_en_norm": "b) state the amounts received by the owners and creditors from resolution procedures; and",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61327,
+    "source_ar": "ج- تحديد الفرق بين ما حصلوا عليه بناءً على ما ورد في الفقرة الفرعية (ب) من هذه الفقرة، وما كانوا سيحصلون عليه بناءً على ما ورد في الفقرة الفرعية (أ) من هذه الفقرة، ويعوضون عن هذا الفرق من صناديق المعالجة والجهة المختصة.",
+    "target_en": "c) determine the difference between what they have received in accordance with subparagraph (b) of this paragraph, and what they would have received in accordance with subparagraph (a) of this paragraph, and they shall be compensated for the difference by the resolution funds and the competent authority.",
+    "source_ar_norm": "ج- تحديد الفرق بين ما حصلوا عليه بناء علي ما ورد في الفقرة الفرعية (ب) من هذه الفقرة، وما كانوا سيحصلون عليه بناء علي ما ورد في الفقرة الفرعية (ا) من هذه الفقرة، ويعوضون عن هذا الفرق من صناديق المعالجة والجهة المختصة.",
+    "target_en_norm": "c) determine the difference between what they have received in accordance with subparagraph (b) of this paragraph, and what they would have received in accordance with subparagraph (a) of this paragraph, and they shall be compensated for the difference by the resolution funds and the competent authority.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61328,
+    "source_ar": "المادة الثالثة والعشرون",
+    "target_en": "Article 23",
+    "source_ar_norm": "المادة الثالثة والعشرون",
+    "target_en_norm": "article 23",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61329,
+    "source_ar": "1-تتمتع الحقوق والترتيبات الآتية بالحماية عند اتخاذ إجراءات المعالجة المنصوص عليها في النظام:",
+    "target_en": "1-The following rights and arrangements shall be protected when implementing the resolution procedures stipulated under this Law:",
+    "source_ar_norm": "1-تتمتع الحقوق والترتيبات الاتية بالحماية عند اتخاذ اجراءات المعالجة المنصوص عليها في النظام:",
+    "target_en_norm": "1-the following rights and arrangements shall be protected when implementing the resolution procedures stipulated under this law:",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61330,
+    "source_ar": "أ- الالتزامات المضمونة.",
+    "target_en": "a) Guaranteed liabilities.",
+    "source_ar_norm": "ا- الالتزامات المضمونة.",
+    "target_en_norm": "a) guaranteed liabilities.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61331,
+    "source_ar": "ب- ترتيبات التسوية والمقاصة.",
+    "target_en": "b) Settlement and clearing arrangements.",
+    "source_ar_norm": "ب- ترتيبات التسوية والمقاصة.",
+    "target_en_norm": "b) settlement and clearing arrangements.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61332,
+    "source_ar": "ج- ترتيبات التسنيد.",
+    "target_en": "c) Securitization arrangements.",
+    "source_ar_norm": "ج- ترتيبات التسنيد.",
+    "target_en_norm": "c) securitization arrangements.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61333,
+    "source_ar": "د- الالتزامات الناشئة من المشاركة في نظم التسوية.",
+    "target_en": "d) Liabilities arising from subscription to settlement systems.",
+    "source_ar_norm": "د- الالتزامات الناشئة من المشاركة في نظم التسوية.",
+    "target_en_norm": "d) liabilities arising from subscription to settlement systems.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61334,
+    "source_ar": "2-تكون حماية الحقوق والترتيبات -المنصوص عليها في الفقرة (1) من هذه المادة- وفق الآتي:",
+    "target_en": "2. The rights and arrangements referred to in paragraph (1) of this Article shall be protected as follows:",
+    "source_ar_norm": "2-تكون حماية الحقوق والترتيبات -المنصوص عليها في الفقرة (1) من هذه المادة- وفق الاتي:",
+    "target_en_norm": "2. the rights and arrangements referred to in paragraph (1) of this article shall be protected as follows:",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61335,
+    "source_ar": "أ- حظر نقل الضمان دون أن ينقل الالتزام المضمون ذو الصلة، وكذلك حظر نقل الالتزام المضمون دون نقل ضمانه.",
+    "target_en": "a) Prohibiting the transfer of a guarantee without the transfer of the related guaranteed liability, and vice versa.",
+    "source_ar_norm": "ا- حظر نقل الضمان دون ان ينقل الالتزام المضمون ذو الصلة، وكذلك حظر نقل الالتزام المضمون دون نقل ضمانه.",
+    "target_en_norm": "a) prohibiting the transfer of a guarantee without the transfer of the related guaranteed liability, and vice versa.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61336,
+    "source_ar": "ب- حظر نقل جزء من الضمانات أو الالتزامات التي تكون محل أي من ترتيبات الضمان المالي بنقل الملكية وترتيبات المقاصة.",
+    "target_en": "b) Prohibiting the transfer of part of the guarantees or liabilities subject to the financial guarantee measures by the transfer of ownership and clearing arrangements.",
+    "source_ar_norm": "ب- حظر نقل جزء من الضمانات او الالتزامات التي تكون محل اي من ترتيبات الضمان المالي بنقل الملكية وترتيبات المقاصة.",
+    "target_en_norm": "b) prohibiting the transfer of part of the guarantees or liabilities subject to the financial guarantee measures by the transfer of ownership and clearing arrangements.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61337,
+    "source_ar": "ج- حظر أن يكون نقل الأصول أو الالتزامات الناشئة عن ترتيبات التسنيد؛ جزئيًّا.",
+    "target_en": "c) Prohibiting the partial transfer of assets or liabilities arising from securitization arrangements.",
+    "source_ar_norm": "ج- حظر ان يكون نقل الاصول او الالتزامات الناشئة عن ترتيبات التسنيد؛ جزئيا.",
+    "target_en_norm": "c) prohibiting the partial transfer of assets or liabilities arising from securitization arrangements.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61338,
+    "source_ar": "د- حظر تعديل أو إلغاء أو تخفيض الترتيبات المنصوص عليها في الفقرة (1) من هذه المادة، ويشمل ذلك أي إجراء من شأنه جعل أي من تلك الترتيبات غير قابلة للتنفيذ.",
+    "target_en": "d) Prohibiting the amendment, cancellation, or reduction of the arrangements stipulated under paragraph (1) of this Article, including any procedure that would render these arrangements inexecutable.",
+    "source_ar_norm": "د- حظر تعديل او الغاء او تخفيض الترتيبات المنصوص عليها في الفقرة (1) من هذه المادة، ويشمل ذلك اي اجراء من شانه جعل اي من تلك الترتيبات غير قابلة للتنفيذ.",
+    "target_en_norm": "d) prohibiting the amendment, cancellation, or reduction of the arrangements stipulated under paragraph (1) of this article, including any procedure that would render these arrangements inexecutable.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61339,
+    "source_ar": "هـ- حظر اتخاذ أي إجراء من شأنه تعطيل العمل بعقود نظم التسوية أو القواعد الخاصة بها وجعلها غير قابلة للتنفيذ.",
+    "target_en": "e) Prohibiting any procedure that would hinder the implementation of settlement system contracts, or the rules stipulated therein, and render them inexecutable.",
+    "source_ar_norm": "ه- حظر اتخاذ اي اجراء من شانه تعطيل العمل بعقود نظم التسوية او القواعد الخاصة بها وجعلها غير قابلة للتنفيذ.",
+    "target_en_norm": "e) prohibiting any procedure that would hinder the implementation of settlement system contracts, or the rules stipulated therein, and render them inexecutable.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61340,
+    "source_ar": "الفصل السادس: صلاحيات الجهة المختصة",
+    "target_en": "Chapter 6: Powers of the Competent Authority",
+    "source_ar_norm": "الفصل السادس: صلاحيات الجهة المختصة",
+    "target_en_norm": "chapter 6: powers of the competent authority",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61341,
+    "source_ar": "المادة الرابعة والعشرون",
+    "target_en": "Article 24",
+    "source_ar_norm": "المادة الرابعة والعشرون",
+    "target_en_norm": "article 24",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61342,
+    "source_ar": "يكون للجهة المختصة في سبيل اتخاذ إجراءات المعالجة، الصلاحيات اللازمة؛ بما في ذلك ما يأتي:",
+    "target_en": "To carry out resolution procedures, the competent authority shall have the powers to:",
+    "source_ar_norm": "يكون للجهة المختصة في سبيل اتخاذ اجراءات المعالجة، الصلاحيات اللازمة؛ بما في ذلك ما ياتي:",
+    "target_en_norm": "to carry out resolution procedures, the competent authority shall have the powers to:",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61343,
+    "source_ar": "1-أن تطلب من أي شخص تقديم أي معلومة أو مستند لهما صلة لتطبيق أحكام النظام.",
+    "target_en": "1. demand any person to provide any information or documents relevant to the implementation of this Law;",
+    "source_ar_norm": "1-ان تطلب من اي شخص تقديم اي معلومة او مستند لهما صلة لتطبيق احكام النظام.",
+    "target_en_norm": "1. demand any person to provide any information or documents relevant to the implementation of this law;",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61344,
+    "source_ar": "2-ممارسة جميع صلاحيات الملاك وإدارة المنشأة المالية المهمة محل المعالجة، بما في ذلك: عزل إدارة هذه المنشأة، وتعيين إدارة بديلة، واتخاذ ما يلزم لرفع دعوى المسؤولية على إدارتها.",
+    "target_en": "2. assume the powers of the owners and management of the SIFI under resolution, including dismissal of the management and appointment of an alternate management, and take necessary actions to file a liability claim against the management;",
+    "source_ar_norm": "2-ممارسة جميع صلاحيات الملاك وادارة المنشاة المالية المهمة محل المعالجة، بما في ذلك: عزل ادارة هذه المنشاة، وتعيين ادارة بديلة، واتخاذ ما يلزم لرفع دعوي المسؤولية علي ادارتها.",
+    "target_en_norm": "2. assume the powers of the owners and management of the sifi under resolution, including dismissal of the management and appointment of an alternate management, and take necessary actions to file a liability claim against the management;",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61345,
+    "source_ar": "3-بيع ونقل أي من أدوات رأس مال المنشأة المالية المهمة محل المعالجة، أو أوراقها المالية، وإلزام أي جهة أو شخص بتعديل السجلات ذات الصلة.",
+    "target_en": "3. sell and transfer any of the capital instruments or securities of the SIFI under resolution, and order any entity or person to amend relevant records;",
+    "source_ar_norm": "3-بيع ونقل اي من ادوات راس مال المنشاة المالية المهمة محل المعالجة، او اوراقها المالية، والزام اي جهة او شخص بتعديل السجلات ذات الصلة.",
+    "target_en_norm": "3. sell and transfer any of the capital instruments or securities of the sifi under resolution, and order any entity or person to amend relevant records;",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61346,
+    "source_ar": "4-تخفيض القيمة الاسمية لأدوات رأس المال الصادرة من المنشأة المالية المهمة محل المعالجة بما لا يخالف أحكام تحديد القيمة الاسمية الواردة في نظام الشركات.",
+    "target_en": "4. reduce the nominal value of the capital instruments issued by the SIFI under resolution, subject to the provisions on determining nominal values provided for in the Companies Law;",
+    "source_ar_norm": "4-تخفيض القيمة الاسمية لادوات راس المال الصادرة من المنشاة المالية المهمة محل المعالجة بما لا يخالف احكام تحديد القيمة الاسمية الواردة في نظام الشركات.",
+    "target_en_norm": "4. reduce the nominal value of the capital instruments issued by the sifi under resolution, subject to the provisions on determining nominal values provided for in the companies law;",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61347,
+    "source_ar": "5-إلزام المنشأة المالية المهمة محل المعالجة أو شركتها القابضة بإصدار أدوات رأس المال.",
+    "target_en": "5. order the SIFI under resolution or its holding company to issue capital instruments;",
+    "source_ar_norm": "5-الزام المنشاة المالية المهمة محل المعالجة او شركتها القابضة باصدار ادوات راس المال.",
+    "target_en_norm": "5. order the sifi under resolution or its holding company to issue capital instruments;",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61348,
+    "source_ar": "6-تعديل تاريخ استحقاق التزامات المنشأة المالية المهمة محل المعالجة أو تعديل مقدارها، ما عدا الالتزامات المضمونة.",
+    "target_en": "6. amend the maturity date or the amount of the liabilities of the SIFI under resolution, with the exception of guaranteed liabilities;",
+    "source_ar_norm": "6-تعديل تاريخ استحقاق التزامات المنشاة المالية المهمة محل المعالجة او تعديل مقدارها، ما عدا الالتزامات المضمونة.",
+    "target_en_norm": "6. amend the maturity date or the amount of the liabilities of the sifi under resolution, with the exception of guaranteed liabilities;",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61349,
+    "source_ar": "7-إغلاق المراكز المالية للمنشأة المالية المهمة محل المعالجة، وإنهاء عقودها المالية، وعقود المشتقات. وتحدد اللوائح التنفيذية المراكز والعقود المنصوص عليها في هذه الفقرة.",
+    "target_en": "7. close the financial positions of the SIFI under resolution and terminate its financial contracts and derivative contracts; the Implementing Regulations shall determine the positions and contracts indicated in this paragraph;",
+    "source_ar_norm": "7-اغلاق المراكز المالية للمنشاة المالية المهمة محل المعالجة، وانهاء عقودها المالية، وعقود المشتقات. وتحدد اللوائح التنفيذية المراكز والعقود المنصوص عليها في هذه الفقرة.",
+    "target_en_norm": "7. close the financial positions of the sifi under resolution and terminate its financial contracts and derivative contracts; the implementing regulations shall determine the positions and contracts indicated in this paragraph;",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61350,
+    "source_ar": "8-طلب تعليق تداول أي ورقة مالية أو إلغاء إدراجها، أو طلب إعادة إدراج وتداول أدوات دين بعد تخفيض قيمتها.",
+    "target_en": "8. demand the suspension of the trade of any security or its delisting, or demand the re-listing and trade of debt instruments after their depreciation;",
+    "source_ar_norm": "8-طلب تعليق تداول اي ورقة مالية او الغاء ادراجها، او طلب اعادة ادراج وتداول ادوات دين بعد تخفيض قيمتها.",
+    "target_en_norm": "8. demand the suspension of the trade of any security or its delisting, or demand the re-listing and trade of debt instruments after their depreciation;",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61351,
+    "source_ar": "9-تعليق الحق في الإنهاء أو التعجيل لأي التزام تكون المنشأة المالية المهمة محل المعالجة طرفًا فيه، بما في ذلك الالتزامات التي بيعت أو نقلت إلى المنقول إليه أو المنشأة الانتقالية، على ألا يتجاوز تعليق الحق في الالتزامات المضمونة مدة (يومي) عمل. وتستثنى من التعليق: الالتزامات المضمونة الناشئة من المشاركة في نظم التسوية.",
+    "target_en": "9. Stay the right to terminate or accelerate any liability to which the SIFI under resolution is party, including liabilities which have been sold or transferred to the transferee or the transitional entity, provided that the stay of the rights related to guaranteed liabilities does not exceed two business days, with the exception of the guaranteed liabilities arising from subscriptions to settlement systems; and",
+    "source_ar_norm": "9-تعليق الحق في الانهاء او التعجيل لاي التزام تكون المنشاة المالية المهمة محل المعالجة طرفا فيه، بما في ذلك الالتزامات التي بيعت او نقلت الي المنقول اليه او المنشاة الانتقالية، علي الا يتجاوز تعليق الحق في الالتزامات المضمونة مدة (يومي) عمل. وتستثني من التعليق: الالتزامات المضمونة الناشئة من المشاركة في نظم التسوية.",
+    "target_en_norm": "9. stay the right to terminate or accelerate any liability to which the sifi under resolution is party, including liabilities which have been sold or transferred to the transferee or the transitional entity, provided that the stay of the rights related to guaranteed liabilities does not exceed two business days, with the exception of the guaranteed liabilities arising from subscriptions to settlement systems; and",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61352,
+    "source_ar": "10-إلزام أي طرف بالاستمرار في تنفيذ العقود التي تكون المنشأة التابعة للمنشأة المالية المهمة محل المعالجة طرفًا فيها، متى كانت التزامات المنشأة التابعة في تلك العقود مضمونة، أو مدعومة من المنشأة المالية المهمة، بصرف النظر عن أي حق تعاقدي في الفسخ، أو التصفية، أو التعجيل.",
+    "target_en": "10. order any party to continue with the implementation of contracts to which the subsidiary institution of the SIFI under resolution is party, where the contractual liabilities of the subsidiary institution are guaranteed or supported by the SIFI, regardless of any contractual right to termination, liquidation, or acceleration.",
+    "source_ar_norm": "10-الزام اي طرف بالاستمرار في تنفيذ العقود التي تكون المنشاة التابعة للمنشاة المالية المهمة محل المعالجة طرفا فيها، متي كانت التزامات المنشاة التابعة في تلك العقود مضمونة، او مدعومة من المنشاة المالية المهمة، بصرف النظر عن اي حق تعاقدي في الفسخ، او التصفية، او التعجيل.",
+    "target_en_norm": "10. order any party to continue with the implementation of contracts to which the subsidiary institution of the sifi under resolution is party, where the contractual liabilities of the subsidiary institution are guaranteed or supported by the sifi, regardless of any contractual right to termination, liquidation, or acceleration.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61353,
+    "source_ar": "المادة الخامسة والعشرون",
+    "target_en": "Article 25",
+    "source_ar_norm": "المادة الخامسة والعشرون",
+    "target_en_norm": "article 25",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61354,
+    "source_ar": "1- تتخذ الجهة المختصة إجراءات المعالجة وفق ما ورد في النظام ودون حاجة إلى استيفاء أي متطلبات نظامية أو إجرائية أو غير ذلك من متطلبات.",
+    "target_en": "1. The competent authority shall apply resolution procedures in accordance with the provisions of this Law, without the need to satisfy any other statutory or procedural requirements, or any other requirements.",
+    "source_ar_norm": "1- تتخذ الجهة المختصة اجراءات المعالجة وفق ما ورد في النظام ودون حاجة الي استيفاء اي متطلبات نظامية او اجرائية او غير ذلك من متطلبات.",
+    "target_en_norm": "1. the competent authority shall apply resolution procedures in accordance with the provisions of this law, without the need to satisfy any other statutory or procedural requirements, or any other requirements.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61355,
+    "source_ar": "2- للجهة المختصة تعيين شخص ذي صفة طبيعية أو اعتبارية أمينًا لإجراءات المعالجة -وفقًا للمعايير التي تحددها- وإحلاله محل إدارة المنشأة المالية المهمة محل المعالجة، وتحديد مكافآته ومصدرها، ولها أيضًا منحه جميع الصلاحيات اللازمة لإدارة المنشأة. ويلتزم الأمين ببذل العناية الواجبة، ولا يكون مسؤولًا عن الأضرار الناتجة من تصرفاته بصفته أمينًا ما لم يكن سيئ النية، أو كانت الأضرار ناتجة من إساءة التصرف عمدًا، أو الإهمال الجسيم، أو الغش، أو التدليس.",
+    "target_en": "2. The competent authority may appoint a natural or legal person as an administrator for the resolution procedures, in accordance with criteria set thereby, to replace the management of the SIFI under resolution. The competent authority shall determine his remuneration and its source, and may also grant him all the powers necessary to manage the SIFI. The administrator shall exercise due diligence and shall not be held liable for any damage arising from his actions, unless the damage is a result of bad faith, willful misconduct, gross negligence, fraud, or deception.",
+    "source_ar_norm": "2- للجهة المختصة تعيين شخص ذي صفة طبيعية او اعتبارية امينا لاجراءات المعالجة -وفقا للمعايير التي تحددها- واحلاله محل ادارة المنشاة المالية المهمة محل المعالجة، وتحديد مكافاته ومصدرها، ولها ايضا منحه جميع الصلاحيات اللازمة لادارة المنشاة. ويلتزم الامين ببذل العناية الواجبة، ولا يكون مسؤولا عن الاضرار الناتجة من تصرفاته بصفته امينا ما لم يكن سيئ النية، او كانت الاضرار ناتجة من اساءة التصرف عمدا، او الاهمال الجسيم، او الغش، او التدليس.",
+    "target_en_norm": "2. the competent authority may appoint a natural or legal person as an administrator for the resolution procedures, in accordance with criteria set thereby, to replace the management of the sifi under resolution. the competent authority shall determine his remuneration and its source, and may also grant him all the powers necessary to manage the sifi. the administrator shall exercise due diligence and shall not be held liable for any damage arising from his actions, unless the damage is a result of bad faith, willful misconduct, gross negligence, fraud, or deception.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61356,
+    "source_ar": "المادة السادسة والعشرون",
+    "target_en": "Article 26",
+    "source_ar_norm": "المادة السادسة والعشرون",
+    "target_en_norm": "article 26",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61357,
+    "source_ar": "للجهة المختصة تحديد طريقة تنفيذ عقود التمويل الجديدة التي تبرمها المنشأة المالية المهمة محل المعالجة، ويشمل ذلك تحديد طريقة تنفيذ ما يأتي:",
+    "target_en": "The competent authority may determine the method for executing new financing contracts concluded by the SIFI under resolution, including the execution of the following:",
+    "source_ar_norm": "للجهة المختصة تحديد طريقة تنفيذ عقود التمويل الجديدة التي تبرمها المنشاة المالية المهمة محل المعالجة، ويشمل ذلك تحديد طريقة تنفيذ ما ياتي:",
+    "target_en_norm": "the competent authority may determine the method for executing new financing contracts concluded by the sifi under resolution, including the execution of the following:",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61358,
+    "source_ar": "1-الالتزام بالسداد أو بالتسليم، أو الالتزام بالتسلم أو بقبول السداد.",
+    "target_en": "1. The obligation to pay or deliver, or the obligation to receive or accept payment.",
+    "source_ar_norm": "1-الالتزام بالسداد او بالتسليم، او الالتزام بالتسلم او بقبول السداد.",
+    "target_en_norm": "1. the obligation to pay or deliver, or the obligation to receive or accept payment.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61359,
+    "source_ar": "2-الإنهاء أو التعجيل.",
+    "target_en": "2. Termination or acceleration.",
+    "source_ar_norm": "2-الانهاء او التعجيل.",
+    "target_en_norm": "2. termination or acceleration.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61360,
+    "source_ar": "3-المقاصة أو سداد التسوية المتفق عليها.",
+    "target_en": "3. Set-off or payment of agreed settlement.",
+    "source_ar_norm": "3-المقاصة او سداد التسوية المتفق عليها.",
+    "target_en_norm": "3. set-off or payment of agreed settlement.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61361,
+    "source_ar": "4-تحديد حالات إلغاء أي من المعاملات الصورية أو الاحتيالية التي تسبق اضطراب المنشأة المالية المهمة.",
+    "target_en": "4. Identification of cases where sham or fraudulent transactions which precede the SIFI disruption are terminated.",
+    "source_ar_norm": "4-تحديد حالات الغاء اي من المعاملات الصورية او الاحتيالية التي تسبق اضطراب المنشاة المالية المهمة.",
+    "target_en_norm": "4. identification of cases where sham or fraudulent transactions which precede the sifi disruption are terminated.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61362,
+    "source_ar": "5-التنفيذ على الضمانات.",
+    "target_en": "5. Enforcement of guarantees.",
+    "source_ar_norm": "5-التنفيذ علي الضمانات.",
+    "target_en_norm": "5. enforcement of guarantees.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61363,
+    "source_ar": "المادة السابعة والعشرون",
+    "target_en": "Article 27",
+    "source_ar_norm": "المادة السابعة والعشرون",
+    "target_en_norm": "article 27",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61364,
+    "source_ar": "1-لا يجوز قيد طلب افتتاح أي من إجراءات الإفلاس أو الإيداع القضائي للمنشأة المالية المهمة إلا بعد صدور قرار بالموافقة من الجهة المختصة. ويتعين على الجهة المختصة قبول الطلب أو رفضه، خلال مدة لا تزيد على (تسعين) يومًا، وللجهة المختصة تمديد هذه المدة بناءً على تقديرها.",
+    "target_en": "1. It shall not be permissible to register a request for initiating bankruptcy procedures or a judicial filing of a SIFI without the approval of the competent authority, which shall either accept or reject the request within 90 days; such period may be extended by the authority at its own discretion.",
+    "source_ar_norm": "1-لا يجوز قيد طلب افتتاح اي من اجراءات الافلاس او الايداع القضائي للمنشاة المالية المهمة الا بعد صدور قرار بالموافقة من الجهة المختصة. ويتعين علي الجهة المختصة قبول الطلب او رفضه، خلال مدة لا تزيد علي (تسعين) يوما، وللجهة المختصة تمديد هذه المدة بناء علي تقديرها.",
+    "target_en_norm": "1. it shall not be permissible to register a request for initiating bankruptcy procedures or a judicial filing of a sifi without the approval of the competent authority, which shall either accept or reject the request within 90 days; such period may be extended by the authority at its own discretion.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61365,
+    "source_ar": "2-يعد مضي المدة المنصوص عليها في الفقرة (1) من هذه المادة دون صدور قرار من الجهة المختصة في حكم الموافقة.",
+    "target_en": "2. The lapse of the period indicated in paragraph (1) of this Article without a decision being rendered by the competent authority shall be deemed an approval.",
+    "source_ar_norm": "2-يعد مضي المدة المنصوص عليها في الفقرة (1) من هذه المادة دون صدور قرار من الجهة المختصة في حكم الموافقة.",
+    "target_en_norm": "2. the lapse of the period indicated in paragraph (1) of this article without a decision being rendered by the competent authority shall be deemed an approval.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61366,
+    "source_ar": "3-مع مراعاة ما ورد في الفقرة (4) من هذه المادة، إذا رفضت الجهة المختصة افتتاح إجراءات الإفلاس للمنشأة المالية المهمة، فعليها البدء في اتخاذ إجراءات المعالجة في حال تحقق الشروط الواردة في المادة (العاشرة) من النظام.",
+    "target_en": "3. Subject to the provisions of paragraph (4) of this Article, if the competent authority refuses to initiate bankruptcy procedures for the SIFI, it shall initiate resolution procedures if the conditions stipulated in Article 10 of this Law are met.",
+    "source_ar_norm": "3-مع مراعاة ما ورد في الفقرة (4) من هذه المادة، اذا رفضت الجهة المختصة افتتاح اجراءات الافلاس للمنشاة المالية المهمة، فعليها البدء في اتخاذ اجراءات المعالجة في حال تحقق الشروط الواردة في المادة (العاشرة) من النظام.",
+    "target_en_norm": "3. subject to the provisions of paragraph (4) of this article, if the competent authority refuses to initiate bankruptcy procedures for the sifi, it shall initiate resolution procedures if the conditions stipulated in article 10 of this law are met.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61367,
+    "source_ar": "4-إذا كان مفتتحًا للمنشأة المالية المهمة أي من إجراءات الإفلاس ورأت الجهة المختصة اتخاذ إجراءات المعالجة، فعلى الجهة المختصة تقديم طلب لإنهاء إجراء الإفلاس المفتتح، والحصول على حكم نهائي بذلك قبل البدء في اتخاذ إجراءات المعالجة.",
+    "target_en": "4. If any bankruptcy procedure is initiated for the SIFI and the competent authority decides to subject the SIFI to resolution procedures, it shall submit a request to terminate the initiated bankruptcy procedure and obtain a final ruling prior to commencing the resolution procedures.",
+    "source_ar_norm": "4-اذا كان مفتتحا للمنشاة المالية المهمة اي من اجراءات الافلاس ورات الجهة المختصة اتخاذ اجراءات المعالجة، فعلي الجهة المختصة تقديم طلب لانهاء اجراء الافلاس المفتتح، والحصول علي حكم نهائي بذلك قبل البدء في اتخاذ اجراءات المعالجة.",
+    "target_en_norm": "4. if any bankruptcy procedure is initiated for the sifi and the competent authority decides to subject the sifi to resolution procedures, it shall submit a request to terminate the initiated bankruptcy procedure and obtain a final ruling prior to commencing the resolution procedures.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61368,
+    "source_ar": "5-يُعلق أي إجراء قضائي تجاه المنشأة المالية المهمة محل المعالجة، ولا يُستكمل إلا بعد انتهاء إجراءات معالجتها، أو الحصول على موافقة الجهة المختصة.",
+    "target_en": "5. Any judicial proceeding for the SIFI under resolution shall be stayed, and may not be resumed except after the resolution procedures are completed or upon the consent of the competent authority.",
+    "source_ar_norm": "5-يعلق اي اجراء قضائي تجاه المنشاة المالية المهمة محل المعالجة، ولا يستكمل الا بعد انتهاء اجراءات معالجتها، او الحصول علي موافقة الجهة المختصة.",
+    "target_en_norm": "5. any judicial proceeding for the sifi under resolution shall be stayed, and may not be resumed except after the resolution procedures are completed or upon the consent of the competent authority.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61369,
+    "source_ar": "الفصل السابع: إجراءات المعالجة العابرة للحدود",
+    "target_en": "Chapter 7: Transboundary Resolution Procedures",
+    "source_ar_norm": "الفصل السابع: اجراءات المعالجة العابرة للحدود",
+    "target_en_norm": "chapter 7: transboundary resolution procedures",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61370,
+    "source_ar": "المادة الثامنة والعشرون",
+    "target_en": "Article 28",
+    "source_ar_norm": "المادة الثامنة والعشرون",
+    "target_en_norm": "article 28",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61371,
+    "source_ar": "1-للجهة المختصة إبرام اتفاقيات دولية مع الجهات المختصة خارج المملكة، في شأن وضع خطط المعالجة العابرة للحدود واتخاذ إجراءاتها وفقًا للإجراءات النظامية.",
+    "target_en": "1. The competent authority may conclude international agreements with their foreign counterparts regarding the development and execution of transboundary resolution plans, in accordance with statutory procedures.",
+    "source_ar_norm": "1-للجهة المختصة ابرام اتفاقيات دولية مع الجهات المختصة خارج المملكة، في شان وضع خطط المعالجة العابرة للحدود واتخاذ اجراءاتها وفقا للاجراءات النظامية.",
+    "target_en_norm": "1. the competent authority may conclude international agreements with their foreign counterparts regarding the development and execution of transboundary resolution plans, in accordance with statutory procedures.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61372,
+    "source_ar": "2-إذا تطلب إجراء المعالجة اتخاذ إجراءات في حق أصول أو التزامات تخضع لأنظمة دولة أجنبية، فللجهة المختصة إلزام الشخص المعني بأي مما يأتي:",
+    "target_en": "2. If the resolution procedure requires actions to be taken regarding assets or liabilities subject to the jurisdiction of another state, the competent authority may order the concerned party to undertake any of the following:",
+    "source_ar_norm": "2-اذا تطلب اجراء المعالجة اتخاذ اجراءات في حق اصول او التزامات تخضع لانظمة دولة اجنبية، فللجهة المختصة الزام الشخص المعني باي مما ياتي:",
+    "target_en_norm": "2. if the resolution procedure requires actions to be taken regarding assets or liabilities subject to the jurisdiction of another state, the competent authority may order the concerned party to undertake any of the following:",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61373,
+    "source_ar": "أ- اتخاذ الإجراءات اللازمة لإتمام البيع أو النقل.",
+    "target_en": "a) Take necessary actions to complete the sale or transfer.",
+    "source_ar_norm": "ا- اتخاذ الاجراءات اللازمة لاتمام البيع او النقل.",
+    "target_en_norm": "a) take necessary actions to complete the sale or transfer.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61374,
+    "source_ar": "ب- حفظ الأصول ذات العلاقة لمصلحة المنقول إليه أو المنشأة الانتقالية أو منشأة إدارة الأصول، إلى حين إتمام إجراءات البيع أو النقل إليهم وفق الطريقة التي تحددها الجهة المختصة.",
+    "target_en": "b) Safeguard related assets for the benefit of the transferee, the transitional entity, or the asset management entity pending the completion of the sale or transfer in the manner determined by the competent authority.",
+    "source_ar_norm": "ب- حفظ الاصول ذات العلاقة لمصلحة المنقول اليه او المنشاة الانتقالية او منشاة ادارة الاصول، الي حين اتمام اجراءات البيع او النقل اليهم وفق الطريقة التي تحددها الجهة المختصة.",
+    "target_en_norm": "b) safeguard related assets for the benefit of the transferee, the transitional entity, or the asset management entity pending the completion of the sale or transfer in the manner determined by the competent authority.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61375,
+    "source_ar": "ج- الوفاء بالالتزامات ذات الصلة نيابةً عن المنقول إليه أو المنشأة الانتقالية أو منشأة إدارة الأصول، إلى حين إتمام إجراءات البيع أو النقل وفق الطريقة التي تحددها الجهة المختصة.",
+    "target_en": "c) Satisfy relevant obligations on behalf of the transferee, the transitional entity, or the asset management entity pending the completion of the sale or transfer in the manner determined by the competent authority.",
+    "source_ar_norm": "ج- الوفاء بالالتزامات ذات الصلة نيابة عن المنقول اليه او المنشاة الانتقالية او منشاة ادارة الاصول، الي حين اتمام اجراءات البيع او النقل وفق الطريقة التي تحددها الجهة المختصة.",
+    "target_en_norm": "c) satisfy relevant obligations on behalf of the transferee, the transitional entity, or the asset management entity pending the completion of the sale or transfer in the manner determined by the competent authority.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61376,
+    "source_ar": "وللجهة المختصة إلزام المنشأة المالية المهمة محل المعالجة بتحمل تكاليف إجراءات البيع أو النقل.",
+    "target_en": "The competent authority may order the SIFI under resolution to bear the costs of sale or transfer procedures.",
+    "source_ar_norm": "وللجهة المختصة الزام المنشاة المالية المهمة محل المعالجة بتحمل تكاليف اجراءات البيع او النقل.",
+    "target_en_norm": "the competent authority may order the sifi under resolution to bear the costs of sale or transfer procedures.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61377,
+    "source_ar": "المادة التاسعة والعشرون",
+    "target_en": "Article 29",
+    "source_ar_norm": "المادة التاسعة والعشرون",
+    "target_en_norm": "article 29",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61378,
+    "source_ar": "مع مراعاة أحكام الاتفاقيات والمعاهدات الدولية ذات العلاقة التي تكون المملكة طرفًا فيها، للجهة المختصة اتخاذ إجراءات المعالجة تجاه أي فرع أجنبي لمنشأة مالية أجنبية حتى لو لم تتخذ الجهة الرقابية الأجنبية ذات الصلة أي إجراء معالجة للمنشأة التابع لها ذلك الفرع.",
+    "target_en": "Subject to relevant international agreements and conventions to which the Kingdom is party, the competent authority may apply resolution procedures to any foreign branch of a foreign financial institution, even if the relevant foreign regulatory authority does not apply any resolution procedure to the parent institution.",
+    "source_ar_norm": "مع مراعاة احكام الاتفاقيات والمعاهدات الدولية ذات العلاقة التي تكون المملكة طرفا فيها، للجهة المختصة اتخاذ اجراءات المعالجة تجاه اي فرع اجنبي لمنشاة مالية اجنبية حتي لو لم تتخذ الجهة الرقابية الاجنبية ذات الصلة اي اجراء معالجة للمنشاة التابع لها ذلك الفرع.",
+    "target_en_norm": "subject to relevant international agreements and conventions to which the kingdom is party, the competent authority may apply resolution procedures to any foreign branch of a foreign financial institution, even if the relevant foreign regulatory authority does not apply any resolution procedure to the parent institution.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61379,
+    "source_ar": "المادة الثلاثون",
+    "target_en": "Article 30",
+    "source_ar_norm": "المادة الثلاثون",
+    "target_en_norm": "article 30",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61380,
+    "source_ar": "1-يلتزم الفرع الأجنبي بإبلاغ الجهة المختصة عند خضوع المنشأة المالية التي هو تابع لها لإجراءات المعالجة.",
+    "target_en": "1.The foreign branch shall notify the competent authority when the parent financial institution is subject to resolution procedures.",
+    "source_ar_norm": "1-يلتزم الفرع الاجنبي بابلاغ الجهة المختصة عند خضوع المنشاة المالية التي هو تابع لها لاجراءات المعالجة.",
+    "target_en_norm": "1.the foreign branch shall notify the competent authority when the parent financial institution is subject to resolution procedures.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61381,
+    "source_ar": "2-دون إخلال بالاتفاقيات والمعاهدات الدولية ذات الصلة التي تكون المملكة طرفًا فيها، للجهة المختصة -عند علمها بخضوع الفرع الأجنبي لإجراءات المعالجة- القبول أو الرفض (الكلي أو الجزئي) لهذه الإجراءات؛ وذلك من أجل تحقيق أهداف النظام.",
+    "target_en": "2.Without prejudice to relevant international agreements and conventions to which the Kingdom is party, the competent authority may, upon its knowledge that the foreign branch is subject to resolution procedures, accept or reject wholly or partially such procedures to achieve the objectives of this Law.",
+    "source_ar_norm": "2-دون اخلال بالاتفاقيات والمعاهدات الدولية ذات الصلة التي تكون المملكة طرفا فيها، للجهة المختصة -عند علمها بخضوع الفرع الاجنبي لاجراءات المعالجة- القبول او الرفض (الكلي او الجزئي) لهذه الاجراءات؛ وذلك من اجل تحقيق اهداف النظام.",
+    "target_en_norm": "2.without prejudice to relevant international agreements and conventions to which the kingdom is party, the competent authority may, upon its knowledge that the foreign branch is subject to resolution procedures, accept or reject wholly or partially such procedures to achieve the objectives of this law.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61382,
+    "source_ar": "3-لا يخل الاعتراف بإجراءات المعالجة التي تتخذها الجهة المختصة الأجنبية على الفرع الأجنبي؛ بأحكام نظام الإفلاس في الحالات التي تنطبق فيها تلك الأحكام.",
+    "target_en": "3.Acknowledgement of resolution procedures taken by a foreign competent authority against a foreign branch shall not prejudice the provisions of the Bankruptcy Law in applicable cases.",
+    "source_ar_norm": "3-لا يخل الاعتراف باجراءات المعالجة التي تتخذها الجهة المختصة الاجنبية علي الفرع الاجنبي؛ باحكام نظام الافلاس في الحالات التي تنطبق فيها تلك الاحكام.",
+    "target_en_norm": "3.acknowledgement of resolution procedures taken by a foreign competent authority against a foreign branch shall not prejudice the provisions of the bankruptcy law in applicable cases.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61383,
+    "source_ar": "4-دون إخلال بمبدأ المعاملة بالمثل، للجهة المختصة التعاون مع الجهات النظيرة في الدول الأجنبية لمراعاة أثر ممارسة إجراءات المعالجة في الدول التي تخضع لتنظيمها المنشآت المالية المهمة الأجنبية.",
+    "target_en": "4. Without prejudice to the principle of reciprocity, the competent authority may cooperate with foreign counterparts regarding the impact of initiating resolution procedures on a foreign SIFI in other countries.",
+    "source_ar_norm": "4-دون اخلال بمبدا المعاملة بالمثل، للجهة المختصة التعاون مع الجهات النظيرة في الدول الاجنبية لمراعاة اثر ممارسة اجراءات المعالجة في الدول التي تخضع لتنظيمها المنشات المالية المهمة الاجنبية.",
+    "target_en_norm": "4. without prejudice to the principle of reciprocity, the competent authority may cooperate with foreign counterparts regarding the impact of initiating resolution procedures on a foreign sifi in other countries.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61384,
+    "source_ar": "الفصل الثامن: صناديق المعالجة",
+    "target_en": "Chapter 8: Resolution Funds",
+    "source_ar_norm": "الفصل الثامن: صناديق المعالجة",
+    "target_en_norm": "chapter 8: resolution funds",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61385,
+    "source_ar": "المادة الحادية والثلاثون",
+    "target_en": "Article 31",
+    "source_ar_norm": "المادة الحادية والثلاثون",
+    "target_en_norm": "article 31",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61386,
+    "source_ar": "للجهة المختصة إنشاء صناديق لتمويل إجراءات المعالجة وتغطية تكاليفها بمساهمات تقدمها المنشآت المالية المهمة. وتُنظَّم تلك الصناديق -بما في ذلك أغراضها، وطريقة تقديم المساهمات الأولية والمساهمات اللاحقة ومقدارهما، وكيفية تحصيل هذه المساهمة، وقواعد وطريقة صرفها، وتقديم التقارير في شأنها- بقواعد تعتمد من مجلس الشؤون الاقتصادية والتنمية، بناءً على اقتراح الجهة المختصة.",
+    "target_en": "The competent authority may, in order to finance resolution procedures and cover associated costs, establish funds the contribution to which is made by SIFIs. Such funds, including its purposes, amounts and manner of submission of preliminary and subsequent contributions, manner of collection, manner of disbursement, and reporting thereon shall be according to rules approved by the Council of Economic and Development Affairs upon the recommendation of the competent authority.",
+    "source_ar_norm": "للجهة المختصة انشاء صناديق لتمويل اجراءات المعالجة وتغطية تكاليفها بمساهمات تقدمها المنشات المالية المهمة. وتنظم تلك الصناديق -بما في ذلك اغراضها، وطريقة تقديم المساهمات الاولية والمساهمات اللاحقة ومقدارهما، وكيفية تحصيل هذه المساهمة، وقواعد وطريقة صرفها، وتقديم التقارير في شانها- بقواعد تعتمد من مجلس الشؤون الاقتصادية والتنمية، بناء علي اقتراح الجهة المختصة.",
+    "target_en_norm": "the competent authority may, in order to finance resolution procedures and cover associated costs, establish funds the contribution to which is made by sifis. such funds, including its purposes, amounts and manner of submission of preliminary and subsequent contributions, manner of collection, manner of disbursement, and reporting thereon shall be according to rules approved by the council of economic and development affairs upon the recommendation of the competent authority.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61387,
+    "source_ar": "الفصل التاسع: العقوبات والتظلم",
+    "target_en": "Chapter 9: Penalties and Appeals",
+    "source_ar_norm": "الفصل التاسع: العقوبات والتظلم",
+    "target_en_norm": "chapter 9: penalties and appeals",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61388,
+    "source_ar": "المادة الثانية والثلاثون",
+    "target_en": "Article 32",
+    "source_ar_norm": "المادة الثانية والثلاثون",
+    "target_en_norm": "article 32",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61389,
+    "source_ar": "1-دون إخلال بأي عقوبة أشد ينص عليها نظام آخر، تعاقب الجهة المختصة أي منشأة مالية بغرامة مالية لا تزيد على (%2) من رأس مالها عند ارتكابها أيًّا مما يأتي:",
+    "target_en": "1. Without prejudice to any harsher penalty stipulated in any other law, the competent authority shall impose on any financial institution a fine not exceeding 2% of its capital if any of the following violations are committed:",
+    "source_ar_norm": "1-دون اخلال باي عقوبة اشد ينص عليها نظام اخر، تعاقب الجهة المختصة اي منشاة مالية بغرامة مالية لا تزيد علي (%2) من راس مالها عند ارتكابها ايا مما ياتي:",
+    "target_en_norm": "1. without prejudice to any harsher penalty stipulated in any other law, the competent authority shall impose on any financial institution a fine not exceeding 2% of its capital if any of the following violations are committed:",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61390,
+    "source_ar": "أ- عدم إعداد خطة الاستعادة، أو عدم تحديثها، في الحالات التي تستدعي ذلك.",
+    "target_en": "a) Failure to prepare or update a recovery plan in cases requiring such measures.",
+    "source_ar_norm": "ا- عدم اعداد خطة الاستعادة، او عدم تحديثها، في الحالات التي تستدعي ذلك.",
+    "target_en_norm": "a) failure to prepare or update a recovery plan in cases requiring such measures.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61391,
+    "source_ar": "ب- عدم التعاون مع الجهة المختصة في إعداد خطة المعالجة أو تنفيذها، أو إعاقة تنفيذ أي جزء منها.",
+    "target_en": "b) Failure to cooperate with the competent authority to prepare or implement the resolution plan, or hindering the implementation of any part thereof.",
+    "source_ar_norm": "ب- عدم التعاون مع الجهة المختصة في اعداد خطة المعالجة او تنفيذها، او اعاقة تنفيذ اي جزء منها.",
+    "target_en_norm": "b) failure to cooperate with the competent authority to prepare or implement the resolution plan, or hindering the implementation of any part thereof.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61392,
+    "source_ar": "ج- عدم إشعار المنشأة المالية المهمة للجهة المختصة عند اضطراب أوضاعها أو عند احتماليته.",
+    "target_en": "c) Failure of the SIFI to notify the competent authority of an actual or potential disruption.",
+    "source_ar_norm": "ج- عدم اشعار المنشاة المالية المهمة للجهة المختصة عند اضطراب اوضاعها او عند احتماليته.",
+    "target_en_norm": "c) failure of the sifi to notify the competent authority of an actual or potential disruption.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61393,
+    "source_ar": "د- قيام منشأة مالية بمنح منشأة مالية من مجموعتها دعمًا؛ بالمخالفة لحكم الفقرة (2) من المادة (الحادية عشرة) من النظام.",
+    "target_en": "d) Provision of support by the financial institution to a sister financial institution in violation of Article 11(2) of this Law.",
+    "source_ar_norm": "د- قيام منشاة مالية بمنح منشاة مالية من مجموعتها دعما؛ بالمخالفة لحكم الفقرة (2) من المادة (الحادية عشرة) من النظام.",
+    "target_en_norm": "d) provision of support by the financial institution to a sister financial institution in violation of article 11(2) of this law.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61394,
+    "source_ar": "هـ- عدم تقديم المعلومات والمستندات التي تطلبها الجهة المختصة لتطبيق أحكام النظام.",
+    "target_en": "e) Failure to provide information or documents requested by the competent authority for the purpose of implementing this Law.",
+    "source_ar_norm": "ه- عدم تقديم المعلومات والمستندات التي تطلبها الجهة المختصة لتطبيق احكام النظام.",
+    "target_en_norm": "e) failure to provide information or documents requested by the competent authority for the purpose of implementing this law.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61395,
+    "source_ar": "و- عدم تنفيذ ما تطلبه الجهة المختصة في شأن الأصول والالتزامات الخاضعة لدولة أجنبية وفق أحكام النظام دون عذر مقبول.",
+    "target_en": "f) Failure to comply with the orders of the competent authority issued in accordance with this Law regarding foreign assets and liabilities without acceptable justification.",
+    "source_ar_norm": "و- عدم تنفيذ ما تطلبه الجهة المختصة في شان الاصول والالتزامات الخاضعة لدولة اجنبية وفق احكام النظام دون عذر مقبول.",
+    "target_en_norm": "f) failure to comply with the orders of the competent authority issued in accordance with this law regarding foreign assets and liabilities without acceptable justification.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61396,
+    "source_ar": "2-تعاقب الجهة المختصة الفرع الأجنبي بغرامة مالية لا تزيد على (خمسة) ملايين ريال إذا خالف حكم الفقرة (1) من المادة (الثلاثين) من النظام.",
+    "target_en": "2. The competent authority shall impose on a foreign branch a fine not exceeding five million riyals if it violates Article 30(1) of this Law.",
+    "source_ar_norm": "2-تعاقب الجهة المختصة الفرع الاجنبي بغرامة مالية لا تزيد علي (خمسة) ملايين ريال اذا خالف حكم الفقرة (1) من المادة (الثلاثين) من النظام.",
+    "target_en_norm": "2. the competent authority shall impose on a foreign branch a fine not exceeding five million riyals if it violates article 30(1) of this law.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61397,
+    "source_ar": "3-للجهة المختصة فرض العقوبتين المنصوص عليهما في الفقرتين (1) و(2) من هذه المادة؛ على أي شخص من إدارة المنشأة المالية أو الفرع الأجنبي، وذلك في الحالات التي يثبت فيها للجهة المختصة أنه تسبب أو أسهم في وقوع المنشأة المالية أو الفرع الأجنبي في أي من المخالفات المنصوص عليها في تلك الفقرتين.",
+    "target_en": "3. The competent authority may impose the penalties stipulated in paragraphs(1) and (2) of this Article on any member of the management team of the financial institution or the foreign branch who has caused or contributed to the violations referred to in paragraphs (1) and (2) of this Article.",
+    "source_ar_norm": "3-للجهة المختصة فرض العقوبتين المنصوص عليهما في الفقرتين (1) و(2) من هذه المادة؛ علي اي شخص من ادارة المنشاة المالية او الفرع الاجنبي، وذلك في الحالات التي يثبت فيها للجهة المختصة انه تسبب او اسهم في وقوع المنشاة المالية او الفرع الاجنبي في اي من المخالفات المنصوص عليها في تلك الفقرتين.",
+    "target_en_norm": "3. the competent authority may impose the penalties stipulated in paragraphs(1) and (2) of this article on any member of the management team of the financial institution or the foreign branch who has caused or contributed to the violations referred to in paragraphs (1) and (2) of this article.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61398,
+    "source_ar": "4-تراعي الجهة المختصة، عند إيقاع العقوبات المنصوص عليها في هذه المادة، حجم المنشأة المالية، وجسامة المخالفة، وآثارها.",
+    "target_en": "4. The competent authority shall, when imposing the penalties stipulated in this Article, take into account the size of the financial institution and the gravity and impact of the violation.",
+    "source_ar_norm": "4-تراعي الجهة المختصة، عند ايقاع العقوبات المنصوص عليها في هذه المادة، حجم المنشاة المالية، وجسامة المخالفة، واثارها.",
+    "target_en_norm": "4. the competent authority shall, when imposing the penalties stipulated in this article, take into account the size of the financial institution and the gravity and impact of the violation.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61399,
+    "source_ar": "5-يحق لمن صدر في حقه قرار العقوبة، التظلم أمام الجهة القضائية المختصة خلال (ثلاثين) يومًا من تاريخ إبلاغه بالقرار.",
+    "target_en": "5. An aggrieved party may file an appeal before the competent court within 30 days from notification of the penalty decision.",
+    "source_ar_norm": "5-يحق لمن صدر في حقه قرار العقوبة، التظلم امام الجهة القضائية المختصة خلال (ثلاثين) يوما من تاريخ ابلاغه بالقرار.",
+    "target_en_norm": "5. an aggrieved party may file an appeal before the competent court within 30 days from notification of the penalty decision.",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  },
+  {
+    "id": 61400,
+    "source_ar": "المادة الثالثة والثلاثون",
+    "target_en": "Article 33",
+    "source_ar_norm": "المادة الثالثة والثلاثون",
+    "target_en_norm": "article 33",
+    "file_name": "نظام معالجة المنشآت المالية المهمة.docx"
+  }
+]
