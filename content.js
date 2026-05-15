@@ -2491,3 +2491,88 @@ try { initUI(); }
 catch (e) { alert("CAT V60 error: " + (e && e.message ? e.message : e)); }
 });
 })();
+/* =========================================================
+   V61 Emergency OPEN CAT Button Fix
+   Restores visible OPEN CAT button on mobile/desktop
+   ========================================================= */
+(function () {
+  if (window.__CAT_FORCE_OPEN_BUTTON_V61__) return;
+  window.__CAT_FORCE_OPEN_BUTTON_V61__ = true;
+
+  function openCATNow(ev) {
+    try {
+      if (ev) {
+        ev.preventDefault();
+        ev.stopPropagation();
+      }
+    } catch (e) {}
+
+    try {
+      if (typeof window.openCATTool === "function") {
+        window.openCATTool();
+        return;
+      }
+    } catch (e) {}
+
+    try {
+      window.dispatchEvent(new CustomEvent("CAT_V45_PRO_OPEN"));
+    } catch (e) {}
+
+    try {
+      window.dispatchEvent(new Event("CAT_V45_PRO_OPEN"));
+    } catch (e) {}
+  }
+
+  function ensureButton() {
+    var old = document.getElementById("cat-v61-emergency-open-cat");
+    if (old) old.remove();
+
+    var btn = document.createElement("button");
+    btn.id = "cat-v61-emergency-open-cat";
+    btn.type = "button";
+    btn.textContent = "OPEN CAT";
+
+    var isMobile =
+      (window.innerWidth || document.documentElement.clientWidth || 0) <= 900 ||
+      /Android|iPhone|iPad|iPod|Mobile/i.test(navigator.userAgent || "");
+
+    btn.style.cssText = [
+      "position:fixed",
+      "right:18px",
+      "bottom:" + (isMobile ? "92px" : "22px"),
+      "z-index:2147483647",
+      "height:52px",
+      "min-width:148px",
+      "padding:0 22px",
+      "border:0",
+      "border-radius:999px",
+      "background:#2563eb",
+      "color:#ffffff",
+      "font:900 15px Segoe UI,Tahoma,Arial,sans-serif",
+      "box-shadow:0 14px 36px rgba(37,99,235,.35)",
+      "cursor:pointer",
+      "direction:ltr",
+      "letter-spacing:.4px"
+    ].join(";");
+
+    btn.onclick = openCATNow;
+    document.body.appendChild(btn);
+  }
+
+  function ready(fn) {
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", fn);
+    } else {
+      fn();
+    }
+  }
+
+  ready(function () {
+    ensureButton();
+    setTimeout(ensureButton, 800);
+    setTimeout(ensureButton, 2000);
+  });
+
+  window.addEventListener("resize", ensureButton);
+  window.addEventListener("orientationchange", ensureButton);
+})();
