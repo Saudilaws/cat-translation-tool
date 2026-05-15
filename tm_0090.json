@@ -1,0 +1,802 @@
+[
+  {
+    "id": 8901,
+    "source_ar": "اعتماد المعايير والسياسات المحاسبية لإعداد قوائم المستشفى المالية ومراجعتها؛ بما يتوافق مع المعايير والسياسات المستقرة المعمول بها في المملكة.",
+    "target_en": "approve accounting standards and policies for preparing and auditing KFSHRC’s financial statements which are in line with the Kingdom’s applicable standards and policies;",
+    "source_ar_norm": "اعتماد المعايير والسياسات المحاسبية لاعداد قوائم المستشفي المالية ومراجعتها؛ بما يتوافق مع المعايير والسياسات المستقرة المعمول بها في المملكة.",
+    "target_en_norm": "approve accounting standards and policies for preparing and auditing kfshrc’s financial statements which are in line with the kingdom’s applicable standards and policies;",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8902,
+    "source_ar": "تحديد بداية السنة المالية للمستشفى ونهايتها.",
+    "target_en": "determine the beginning and end of KFSHRC’s fiscal year;",
+    "source_ar_norm": "تحديد بداية السنة المالية للمستشفي ونهايتها.",
+    "target_en_norm": "determine the beginning and end of kfshrc’s fiscal year;",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8903,
+    "source_ar": "وضع ضوابط ترشيح ممثلي المستشفى وتعيينهم في مجالس إدارة الشركات والكيانات الأخرى التي يمتلكها المستشفى أو يساهم فيها، وتحديد حقوقهم وواجباتهم تجاه المستشفى، ورفعها إلى مجلس إدارة الهيئة؛ للنظر في اعتمادها.",
+    "target_en": "set guidelines for nominating and appointing KFSHRC’s representatives on the boards of companies and other entities which KFSHRC owns or invests therein and for determining their rights and obligations toward KFSHRC; such guidelines shall be approved by the RCRC’s board of directors;",
+    "source_ar_norm": "وضع ضوابط ترشيح ممثلي المستشفي وتعيينهم في مجالس ادارة الشركات والكيانات الاخري التي يمتلكها المستشفي او يساهم فيها، وتحديد حقوقهم وواجباتهم تجاه المستشفي، ورفعها الي مجلس ادارة الهيئة؛ للنظر في اعتمادها.",
+    "target_en_norm": "set guidelines for nominating and appointing kfshrc’s representatives on the boards of companies and other entities which kfshrc owns or invests therein and for determining their rights and obligations toward kfshrc; such guidelines shall be approved by the rcrc’s board of directors;",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8904,
+    "source_ar": "إقرار القواعد والإجراءات المنظمة للتواصل الإعلامي للمستشفى.",
+    "target_en": "approve KFSHRC’s rules and procedures governing communication with the media;",
+    "source_ar_norm": "اقرار القواعد والاجراءات المنظمة للتواصل الاعلامي للمستشفي.",
+    "target_en_norm": "approve kfshrc’s rules and procedures governing communication with the media;",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8905,
+    "source_ar": "إقرار إجراءات ونظم إدارة المخاطر والالتزام للمستشفى.",
+    "target_en": "approve KFSHRC’s risk management and compliance procedures and systems;",
+    "source_ar_norm": "اقرار اجراءات ونظم ادارة المخاطر والالتزام للمستشفي.",
+    "target_en_norm": "approve kfshrc’s risk management and compliance procedures and systems;",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8906,
+    "source_ar": "إقرار القواعد والإجراءات المنظمة لأعمال المجلس.",
+    "target_en": "approve the rules and procedures governing board activities; and",
+    "source_ar_norm": "اقرار القواعد والاجراءات المنظمة لاعمال المجلس.",
+    "target_en_norm": "approve the rules and procedures governing board activities; and",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8907,
+    "source_ar": "تعيين مراقب مالي داخلي.",
+    "target_en": "appoint a comptroller.",
+    "source_ar_norm": "تعيين مراقب مالي داخلي.",
+    "target_en_norm": "appoint a comptroller.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8908,
+    "source_ar": "وللمجلس -بحسب ما يقدره- تشكيل لجان دائمة أو مؤقتة من بين أعضائه أو من غيرهم، يعهد إليها بما يراه من مهمات، ويسمى في قرار تشكيل كل لجنة رئيسها وأعضاؤها، وتحدد فيه مهماتهم ومكافآتهم، ولكل لجنة الاستعانة بمن تراه لتأدية المهمات الموكولة إليها. وللمجلس تفويض بعض صلاحياته إلى رئيسه أو نائبه أو أي من أعضاء المجلس أو من مسؤولي المستشفى؛ وفقًا لما يقتضيه سير العمل فيه.",
+    "target_en": "The Board may form standing or ad hoc committees, from among its members or others, to perform certain tasks. The formation decision of each committee shall designate its chairman and members as well as their duties and remuneration. A committee may seek the assistance of non-members in the performance of its duties. The Board may delegate certain powers to its chairman, deputy chairman, a Board member, or any KFSHRC officer.",
+    "source_ar_norm": "وللمجلس -بحسب ما يقدره- تشكيل لجان دائمة او مؤقتة من بين اعضائه او من غيرهم، يعهد اليها بما يراه من مهمات، ويسمي في قرار تشكيل كل لجنة رئيسها واعضاؤها، وتحدد فيه مهماتهم ومكافاتهم، ولكل لجنة الاستعانة بمن تراه لتادية المهمات الموكولة اليها. وللمجلس تفويض بعض صلاحياته الي رئيسه او نائبه او اي من اعضاء المجلس او من مسؤولي المستشفي؛ وفقا لما يقتضيه سير العمل فيه.",
+    "target_en_norm": "the board may form standing or ad hoc committees, from among its members or others, to perform certain tasks. the formation decision of each committee shall designate its chairman and members as well as their duties and remuneration. a committee may seek the assistance of non-members in the performance of its duties. the board may delegate certain powers to its chairman, deputy chairman, a board member, or any kfshrc officer.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8909,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8910,
+    "source_ar": "تعقد اجتماعات المجلس في مقر المستشفى، ويجوز -بموافقة رئيس المجلس- عقدها في مكان آخر.",
+    "target_en": "Board meetings shall be held at KFSHRC’s headquarters and may, upon the Chairman’s approval, be held elsewhere.",
+    "source_ar_norm": "تعقد اجتماعات المجلس في مقر المستشفي، ويجوز -بموافقة رئيس المجلس- عقدها في مكان اخر.",
+    "target_en_norm": "board meetings shall be held at kfshrc’s headquarters and may, upon the chairman’s approval, be held elsewhere.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8911,
+    "source_ar": "يجتمع المجلس بدعوة من رئيسه مرة كل (ثلاثة) أشهر، وكلما دعت الحاجة إلى ذلك بحسب ما يقدره رئيس المجلس، أو إذا طلب ذلك (ثلث) الأعضاء على الأقل. ويجب أن توجه الدعوة -كتابةً- قبل الاجتماع بـ(سبعة) أيام على الأقل، على أن تتضمن جدول الأعمال.",
+    "target_en": "The Board shall convene at least once every three months upon a call by its Chairman. The Board shall also convene if the need arises, at the discretion of its Chairman, or if requested by at least one-third of its members. The call for a meeting shall be in writing and shall be sent at least seven days prior to the meeting’s date and shall include the meeting’s agenda.",
+    "source_ar_norm": "يجتمع المجلس بدعوة من رئيسه مرة كل (ثلاثة) اشهر، وكلما دعت الحاجة الي ذلك بحسب ما يقدره رئيس المجلس، او اذا طلب ذلك (ثلث) الاعضاء علي الاقل. ويجب ان توجه الدعوة -كتابة- قبل الاجتماع ب(سبعة) ايام علي الاقل، علي ان تتضمن جدول الاعمال.",
+    "target_en_norm": "the board shall convene at least once every three months upon a call by its chairman. the board shall also convene if the need arises, at the discretion of its chairman, or if requested by at least one-third of its members. the call for a meeting shall be in writing and shall be sent at least seven days prior to the meeting’s date and shall include the meeting’s agenda.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8912,
+    "source_ar": "تنعقد اجتماعات المجلس بحضور أغلبية أعضائه على الأقل، بمن فيهم رئيس المجلس أو نائبه.",
+    "target_en": "Board meetings shall be deemed valid only if attended by the majority of its members, including its Chairman or Deputy Chairman.",
+    "source_ar_norm": "تنعقد اجتماعات المجلس بحضور اغلبية اعضائه علي الاقل، بمن فيهم رئيس المجلس او نائبه.",
+    "target_en_norm": "board meetings shall be deemed valid only if attended by the majority of its members, including its chairman or deputy chairman.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8913,
+    "source_ar": "تصدر قرارات المجلس بأصوات أغلبية أعضائه الحاضرين على الأقل، وعند تساوي الأصوات يرجح الجانب الذي يصوت معه رئيس الاجتماع.",
+    "target_en": "Board decisions shall be passed by the majority vote of attending members. In case of a tie, the chairman of the meeting shall have the casting vote.",
+    "source_ar_norm": "تصدر قرارات المجلس باصوات اغلبية اعضائه الحاضرين علي الاقل، وعند تساوي الاصوات يرجح الجانب الذي يصوت معه رئيس الاجتماع.",
+    "target_en_norm": "board decisions shall be passed by the majority vote of attending members. in case of a tie, the chairman of the meeting shall have the casting vote.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8914,
+    "source_ar": "لا يجوز لأي عضو من أعضاء المجلس الامتناع عن التصويت، ولا تفويض عضو آخر بالتصويت نيابة عنه عند غيابه.",
+    "target_en": "A Board member may not abstain from voting nor vote by proxy.",
+    "source_ar_norm": "لا يجوز لاي عضو من اعضاء المجلس الامتناع عن التصويت، ولا تفويض عضو اخر بالتصويت نيابة عنه عند غيابه.",
+    "target_en_norm": "a board member may not abstain from voting nor vote by proxy.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8915,
+    "source_ar": "تثبت مداولات المجلس وقراراته في محاضر يوقعها رئيس الاجتماع والأعضاء الحاضرون. ويجوز للعضو الذي يعتـرض على أي قرار أن يثبت اعتراضه مسببًا في المحضر.",
+    "target_en": "Board deliberations and decisions shall be recorded in minutes signed by the chairman of the meeting and attending members. A dissenting member may request that his objection and reasons therefor be entered into the meeting minutes.",
+    "source_ar_norm": "تثبت مداولات المجلس وقراراته في محاضر يوقعها رئيس الاجتماع والاعضاء الحاضرون. ويجوز للعضو الذي يعترض علي اي قرار ان يثبت اعتراضه مسببا في المحضر.",
+    "target_en_norm": "board deliberations and decisions shall be recorded in minutes signed by the chairman of the meeting and attending members. a dissenting member may request that his objection and reasons therefor be entered into the meeting minutes.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8916,
+    "source_ar": "للمجلس أن يدعو لحضور اجتماعاته من يرى الاستعانة به دون أن يكون له الحق في التصويت.",
+    "target_en": "The Board may invite non-members to attend its meetings in a non-voting capacity.",
+    "source_ar_norm": "للمجلس ان يدعو لحضور اجتماعاته من يري الاستعانة به دون ان يكون له الحق في التصويت.",
+    "target_en_norm": "the board may invite non-members to attend its meetings in a non-voting capacity.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8917,
+    "source_ar": "يعين بقرار من المجلس أميـن له، يتولى: إعداد جدول أعمال المجلس، وتوجيه الدعوة إلى الأعضاء وأمانة سر اجتماعات المجلس، وإعداد المحاضر والقرارات وتسجيلها في السجل الخاص بذلك، وأي مهمات أخرى يحددها المجلس. ويحدد في قرار تعيين الأمين أجره ومزاياه المالية؛ وذلك وفقًا ما تحدده اللوائح.",
+    "target_en": "A Board secretary shall be appointed pursuant to a Board decision; his duties shall include preparing meeting agendas, sending meeting invitations to Board members and Board secretariat, preparing meeting minutes and Board decisions and recording the same in a special register, as well as any other duties assigned thereto by the Board. The appointment decision shall determine the secretary’s remuneration and financial benefits, in accordance with the regulations.",
+    "source_ar_norm": "يعين بقرار من المجلس امين له، يتولي: اعداد جدول اعمال المجلس، وتوجيه الدعوة الي الاعضاء وامانة سر اجتماعات المجلس، واعداد المحاضر والقرارات وتسجيلها في السجل الخاص بذلك، واي مهمات اخري يحددها المجلس. ويحدد في قرار تعيين الامين اجره ومزاياه المالية؛ وذلك وفقا ما تحدده اللوائح.",
+    "target_en_norm": "a board secretary shall be appointed pursuant to a board decision; his duties shall include preparing meeting agendas, sending meeting invitations to board members and board secretariat, preparing meeting minutes and board decisions and recording the same in a special register, as well as any other duties assigned thereto by the board. the appointment decision shall determine the secretary’s remuneration and financial benefits, in accordance with the regulations.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8918,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8919,
+    "source_ar": "مع مراعاة ما قضت به المادتان (الثالثة) و(السابعة) من النظام، تكون من ضمن اللجان المنبثقة عن المجلس اللجنتان الآتيتان:",
+    "target_en": "Subject to Articles 3 and 7 of this Charter, Board committees shall include:",
+    "source_ar_norm": "مع مراعاة ما قضت به المادتان (الثالثة) و(السابعة) من النظام، تكون من ضمن اللجان المنبثقة عن المجلس اللجنتان الاتيتان:",
+    "target_en_norm": "subject to articles 3 and 7 of this charter, board committees shall include:",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8920,
+    "source_ar": "أ- لجنة الترشيحات والمكافآت.",
+    "target_en": "Remuneration and nomination committee.",
+    "source_ar_norm": "ا- لجنة الترشيحات والمكافات.",
+    "target_en_norm": "remuneration and nomination committee.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8921,
+    "source_ar": "ب- لجنة المراجعة والالتزام.",
+    "target_en": "Audit and compliance committee.",
+    "source_ar_norm": "ب- لجنة المراجعة والالتزام.",
+    "target_en_norm": "audit and compliance committee.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8922,
+    "source_ar": "يعاد تشكيل اللجنتين المشار إليهما في الفقرة (1) من هذا المادة كل سنتين.",
+    "target_en": "The committees referred to in paragraph (1) of this Article shall be reconstituted every two years.",
+    "source_ar_norm": "يعاد تشكيل اللجنتين المشار اليهما في الفقرة (1) من هذا المادة كل سنتين.",
+    "target_en_norm": "the committees referred to in paragraph (1) of this article shall be reconstituted every two years.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8923,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8924,
+    "source_ar": "الرئيس التنفيذي هو كبير الإداريين التنفيذيين في المستشفى ويعد المسؤول عن إدارة شؤون المستشفى.",
+    "target_en": "The CEO shall be the senior officer at KFSHRC and shall be in charge of managing its affairs.",
+    "source_ar_norm": "الرئيس التنفيذي هو كبير الاداريين التنفيذيين في المستشفي ويعد المسؤول عن ادارة شؤون المستشفي.",
+    "target_en_norm": "the ceo shall be the senior officer at kfshrc and shall be in charge of managing its affairs.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8925,
+    "source_ar": "يُعيَّن الرئيس التنفيذي ويُعفى بقرار من المجلس، ويحدد القرار أجره ومزاياه المالية الأخرى.",
+    "target_en": "The appointment and dismissal of the CEO shall be pursuant to a Board decision. The appointment decision shall determine his remuneration and other financial benefits.",
+    "source_ar_norm": "يعين الرئيس التنفيذي ويعفي بقرار من المجلس، ويحدد القرار اجره ومزاياه المالية الاخري.",
+    "target_en_norm": "the appointment and dismissal of the ceo shall be pursuant to a board decision. the appointment decision shall determine his remuneration and other financial benefits.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8926,
+    "source_ar": "تتركز مسؤوليات الرئيس التنفيذي في حدود ما ينص عليه النظام واللوائح وما يقرره المجلس.",
+    "target_en": "The duties of the CEO shall be within the limits of this Charter, the regulations, and Board decisions.",
+    "source_ar_norm": "تتركز مسؤوليات الرئيس التنفيذي في حدود ما ينص عليه النظام واللوائح وما يقرره المجلس.",
+    "target_en_norm": "the duties of the ceo shall be within the limits of this charter, the regulations, and board decisions.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8927,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8928,
+    "source_ar": "يخضع منسوبو المستشفى لأحكام نظام العمل ونظام التأمينات الاجتماعية.",
+    "target_en": "KFSHRC’s employees shall be subject to the Labor Law and the Social Insurance Law.",
+    "source_ar_norm": "يخضع منسوبو المستشفي لاحكام نظام العمل ونظام التامينات الاجتماعية.",
+    "target_en_norm": "kfshrc’s employees shall be subject to the labor law and the social insurance law.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8929,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8930,
+    "source_ar": "للمستشفى -وفقًا لما يقره المجلس- القيام بما يأتي:",
+    "target_en": "KFSHRC may, subject to Board approval, undertake the following:",
+    "source_ar_norm": "للمستشفي -وفقا لما يقره المجلس- القيام بما ياتي:",
+    "target_en_norm": "kfshrc may, subject to board approval, undertake the following:",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8931,
+    "source_ar": "إقرار القواعد المتعلقة بأهلية العلاج وشروط وقواعد قبول المرضى، وقواعد الإعفاء منها.",
+    "target_en": "Set the conditions for treatment eligibility and patient admission, as well as exemptions from such conditions.",
+    "source_ar_norm": "اقرار القواعد المتعلقة باهلية العلاج وشروط وقواعد قبول المرضي، وقواعد الاعفاء منها.",
+    "target_en_norm": "set the conditions for treatment eligibility and patient admission, as well as exemptions from such conditions.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8932,
+    "source_ar": "تحصيل مقابل مالي لما يجريه من أبحاث، وما يقدمه من خدمات أو استشارات لجهات داخل المملكة أو خارجها.",
+    "target_en": "Collect fees for research, services, and consultations provided to entities within the Kingdom or abroad.",
+    "source_ar_norm": "تحصيل مقابل مالي لما يجريه من ابحاث، وما يقدمه من خدمات او استشارات لجهات داخل المملكة او خارجها.",
+    "target_en_norm": "collect fees for research, services, and consultations provided to entities within the kingdom or abroad.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8933,
+    "source_ar": "المادة الثالثة عشرة",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة",
+    "target_en_norm": "article 13",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8934,
+    "source_ar": "للمجلس أن يكوّن مجلسًا استشاريًّا من أعضاء محليين أو دوليين، ويكون اختيار أعضائه على أساس قدراتهم القيادية، ومكانتهم العلمية، وتجربتهم العملية في المجالات التي تخدم المستشفى، ويتولى هذا المجلس تقديم المشورة للمجلس وللرئيس التنفيذي حول التطوير العام للمستشفى، ويحدد المجلس معايير ترشيح وتعيين أعضاء المجلس الاستشاري وتنظيم اجتماعاته ومكافآت أعضائه.",
+    "target_en": "The Board may form an advisory council comprising members from within the Kingdom or abroad, selected on the basis of their leadership skills, scientific achievements, and expertise in fields relevant to KFSHRC. Said council shall provide advice to the Board and the CEO on matters relating to the development of KFSHRC. The Board shall determine nomination and appointment criteria, meeting rules, and member remuneration.",
+    "source_ar_norm": "للمجلس ان يكون مجلسا استشاريا من اعضاء محليين او دوليين، ويكون اختيار اعضائه علي اساس قدراتهم القيادية، ومكانتهم العلمية، وتجربتهم العملية في المجالات التي تخدم المستشفي، ويتولي هذا المجلس تقديم المشورة للمجلس وللرئيس التنفيذي حول التطوير العام للمستشفي، ويحدد المجلس معايير ترشيح وتعيين اعضاء المجلس الاستشاري وتنظيم اجتماعاته ومكافات اعضائه.",
+    "target_en_norm": "the board may form an advisory council comprising members from within the kingdom or abroad, selected on the basis of their leadership skills, scientific achievements, and expertise in fields relevant to kfshrc. said council shall provide advice to the board and the ceo on matters relating to the development of kfshrc. the board shall determine nomination and appointment criteria, meeting rules, and member remuneration.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8935,
+    "source_ar": "المادة الرابعة عشرة",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة",
+    "target_en_norm": "article 14",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8936,
+    "source_ar": "للمستشفى -بعد موافقة المجلس- قبول الهبات والإعانات والمنح والوصايا والتبرعات والأوقاف، والمساهمات الأخرى داخل المملكة أو خارجها؛ وفقاً للسياسات والضوابط التي يعتمدها مجلس إدارة الهيئة، وبما لا يتعارض مع النظام.",
+    "target_en": "KFSHRC may, upon Board approval, accept gifts, aid, grants, bequests, donations, endowments, and any other contributions from within the Kingdom or abroad, in accordance with policies and guidelines approved by the RCRC’s board of directors and in a manner not inconsistent with this Charter.",
+    "source_ar_norm": "للمستشفي -بعد موافقة المجلس- قبول الهبات والاعانات والمنح والوصايا والتبرعات والاوقاف، والمساهمات الاخري داخل المملكة او خارجها؛ وفقا للسياسات والضوابط التي يعتمدها مجلس ادارة الهيئة، وبما لا يتعارض مع النظام.",
+    "target_en_norm": "kfshrc may, upon board approval, accept gifts, aid, grants, bequests, donations, endowments, and any other contributions from within the kingdom or abroad, in accordance with policies and guidelines approved by the rcrc’s board of directors and in a manner not inconsistent with this charter.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8937,
+    "source_ar": "وعلى أعضاء المجلس العمل على تشجيع تقديم الهبات والإعانات والمنح والوصايا والتبرعات والأوقاف، وغيرها من المساهمات؛ للمستشفى.",
+    "target_en": "Board members shall encourage the provision of gifts, aid, grants, bequests, donations, endowments, and other contributions to KFSHRC.",
+    "source_ar_norm": "وعلي اعضاء المجلس العمل علي تشجيع تقديم الهبات والاعانات والمنح والوصايا والتبرعات والاوقاف، وغيرها من المساهمات؛ للمستشفي.",
+    "target_en_norm": "board members shall encourage the provision of gifts, aid, grants, bequests, donations, endowments, and other contributions to kfshrc.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8938,
+    "source_ar": "المادة الخامسة عشرة",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة",
+    "target_en_norm": "article 15",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8939,
+    "source_ar": "لا يجوز أن يكون لعضو المجلس ولا لأي من منسوبي المستشفى أي مصلحة شخصية في عقود المستشفى، إلا إذا أفصح عن ذلك واتُبعت الإجراءات والسياسات المعتمدة في هذا الشأن.",
+    "target_en": "Board members and KFSHRC employees may not have any interest in KFSHRC’s contracts, unless such interest is disclosed and applicable procedures and policies are observed.",
+    "source_ar_norm": "لا يجوز ان يكون لعضو المجلس ولا لاي من منسوبي المستشفي اي مصلحة شخصية في عقود المستشفي، الا اذا افصح عن ذلك واتبعت الاجراءات والسياسات المعتمدة في هذا الشان.",
+    "target_en_norm": "board members and kfshrc employees may not have any interest in kfshrc’s contracts, unless such interest is disclosed and applicable procedures and policies are observed.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8940,
+    "source_ar": "المادة السادسة عشرة",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة",
+    "target_en_norm": "article 16",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8941,
+    "source_ar": "تتألف موارد المستشفى مما يأتي:",
+    "target_en": "KFSHRC’s resources shall be as follows:",
+    "source_ar_norm": "تتالف موارد المستشفي مما ياتي:",
+    "target_en_norm": "kfshrc’s resources shall be as follows:",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8942,
+    "source_ar": "ما يخصص له من إعانات حكومية.",
+    "target_en": "Allocations in the State budget.",
+    "source_ar_norm": "ما يخصص له من اعانات حكومية.",
+    "target_en_norm": "allocations in the state budget.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8943,
+    "source_ar": "القروض، وغير ذلك من صور التمويل.",
+    "target_en": "Loans and other forms of financing.",
+    "source_ar_norm": "القروض، وغير ذلك من صور التمويل.",
+    "target_en_norm": "loans and other forms of financing.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8944,
+    "source_ar": "الهبات والإعانات والمنح والوصايا والتبرعات والأوقاف، والمساهمات الأخرى من داخل المملكة أو خارجها.",
+    "target_en": "Gifts, aid, grants, bequests, donations, endowments, and other contributions from within the Kingdom or abroad.",
+    "source_ar_norm": "الهبات والاعانات والمنح والوصايا والتبرعات والاوقاف، والمساهمات الاخري من داخل المملكة او خارجها.",
+    "target_en_norm": "gifts, aid, grants, bequests, donations, endowments, and other contributions from within the kingdom or abroad.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8945,
+    "source_ar": "المقابل المالي الذي يتقاضاه نظير الخدمات والأعمال التي يقدمها.",
+    "target_en": "Fees for services rendered by KFSHRC.",
+    "source_ar_norm": "المقابل المالي الذي يتقاضاه نظير الخدمات والاعمال التي يقدمها.",
+    "target_en_norm": "fees for services rendered by kfshrc.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8946,
+    "source_ar": "عوائد استثماراته وريع أوقافه وأملاكه.",
+    "target_en": "Returns on investments and revenues from endowments and assets.",
+    "source_ar_norm": "عوائد استثماراته وريع اوقافه واملاكه.",
+    "target_en_norm": "returns on investments and revenues from endowments and assets.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8947,
+    "source_ar": "الموارد المالية الأخرى التي يقرها المجلس، على ألَّا تتعارض مع أهداف المستشفى وطبيعة نشاطه.",
+    "target_en": "Any other financial resources approved by the Board, provided they are not inconsistent with the objectives of KFSHRC and the nature of its activities.",
+    "source_ar_norm": "الموارد المالية الاخري التي يقرها المجلس، علي الا تتعارض مع اهداف المستشفي وطبيعة نشاطه.",
+    "target_en_norm": "any other financial resources approved by the board, provided they are not inconsistent with the objectives of kfshrc and the nature of its activities.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8948,
+    "source_ar": "وتودع جميع إيرادات المستشفى في أي من البنوك المرخص لها بالعمل في المملكة، ويصرف منها وفق ميزانية المستشفى ولوائحه المالية. وللمستشفى -في الحالات التي يتم فيها فتح فروع أو مكاتب خارج المملكة- فتح حسابات في أي من البنوك المرخص لها بالعمل خارج المملكة، على أن يقتصر التعامل في هذه الحسابات على ما له علاقة بتلك الفروع أو المكاتب، ووفقاً للوائح التي يقرها المجلس.",
+    "target_en": "KFSHRC’s revenues shall be deposited with any of the banks licensed to operate in the Kingdom. Disbursement from such revenues shall be made in accordance with KFSHRC’s budget and financial regulations. KFSHRC may, in accordance with Board-approved regulations, open accounts with foreign banks for its branches and offices located outside the Kingdom, provided that the use of such accounts is limited to the needs and affairs of such branches and offices.",
+    "source_ar_norm": "وتودع جميع ايرادات المستشفي في اي من البنوك المرخص لها بالعمل في المملكة، ويصرف منها وفق ميزانية المستشفي ولوائحه المالية. وللمستشفي -في الحالات التي يتم فيها فتح فروع او مكاتب خارج المملكة- فتح حسابات في اي من البنوك المرخص لها بالعمل خارج المملكة، علي ان يقتصر التعامل في هذه الحسابات علي ما له علاقة بتلك الفروع او المكاتب، ووفقا للوائح التي يقرها المجلس.",
+    "target_en_norm": "kfshrc’s revenues shall be deposited with any of the banks licensed to operate in the kingdom. disbursement from such revenues shall be made in accordance with kfshrc’s budget and financial regulations. kfshrc may, in accordance with board-approved regulations, open accounts with foreign banks for its branches and offices located outside the kingdom, provided that the use of such accounts is limited to the needs and affairs of such branches and offices.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8949,
+    "source_ar": "المادة السابعة عشرة",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة",
+    "target_en_norm": "article 17",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8950,
+    "source_ar": "يتولى تدقيق حسابات المستشفى وسجلاته المالية مراجع حسابات مرخص (أو أكثر)، يعينه مجلس إدارة الهيئة سنويًّا، وتجوز إعادة تعيينه، ويقدم مراجع الحسابات تقريره إلى لجنة المراجعة والالتزام، ويجوز أن يقدم مراجع الحسابات تقريره إلى المجلس مباشرة إذا تبين له ما يدعو إلى ذلك.",
+    "target_en": "KFSHRC’s accounts and financial records shall be audited by one or more licensed auditors who shall be appointed annually by the RCRC’s board of directors, and who may be reappointed. The auditor shall submit his report to the audit and compliance committee, and he may, if necessary, submit it directly to the Board.",
+    "source_ar_norm": "يتولي تدقيق حسابات المستشفي وسجلاته المالية مراجع حسابات مرخص (او اكثر)، يعينه مجلس ادارة الهيئة سنويا، وتجوز اعادة تعيينه، ويقدم مراجع الحسابات تقريره الي لجنة المراجعة والالتزام، ويجوز ان يقدم مراجع الحسابات تقريره الي المجلس مباشرة اذا تبين له ما يدعو الي ذلك.",
+    "target_en_norm": "kfshrc’s accounts and financial records shall be audited by one or more licensed auditors who shall be appointed annually by the rcrc’s board of directors, and who may be reappointed. the auditor shall submit his report to the audit and compliance committee, and he may, if necessary, submit it directly to the board.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8951,
+    "source_ar": "يمارس مراجع الحسابات أعماله ومهماته وفقًا للمعايير والسياسات المحاسبية المعتمدة من المجلس ويتحقق من مطابقة الموازنة والحسابات الختامية للسجلات المالية والمحاسبية، وما إذا كان مسك هذه السجلات دقيقًا ومتفقًا مع القواعد المحاسبية السليمة.",
+    "target_en": "The auditor shall carry out his duties in accordance with the accounting policies and standards approved by the Board. He shall verify that the budget and final accounts are consistent with financial and accounting records and that such records are maintained in accordance with appropriate accounting practices.",
+    "source_ar_norm": "يمارس مراجع الحسابات اعماله ومهماته وفقا للمعايير والسياسات المحاسبية المعتمدة من المجلس ويتحقق من مطابقة الموازنة والحسابات الختامية للسجلات المالية والمحاسبية، وما اذا كان مسك هذه السجلات دقيقا ومتفقا مع القواعد المحاسبية السليمة.",
+    "target_en_norm": "the auditor shall carry out his duties in accordance with the accounting policies and standards approved by the board. he shall verify that the budget and final accounts are consistent with financial and accounting records and that such records are maintained in accordance with appropriate accounting practices.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8952,
+    "source_ar": "المادة الثامنة عشرة",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة",
+    "target_en_norm": "article 18",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8953,
+    "source_ar": "يمسك المستشفى السجلات والدفاتر الإدارية والمحاسبية التي يحتاج لها وفقًا للمعايير المحاسبية المعتمدة من المجلس، ويكون التسجيل والقيد فيها أولًا بأول، وتحفظ في مقر المستشفى الرئيس.",
+    "target_en": "KFSHRC shall maintain necessary administrative, financial, and accounting records in accordance with accounting standards approved by the Board. Such records shall be updated regularly and maintained at KFSHRC’s headquarters.",
+    "source_ar_norm": "يمسك المستشفي السجلات والدفاتر الادارية والمحاسبية التي يحتاج لها وفقا للمعايير المحاسبية المعتمدة من المجلس، ويكون التسجيل والقيد فيها اولا باول، وتحفظ في مقر المستشفي الرئيس.",
+    "target_en_norm": "kfshrc shall maintain necessary administrative, financial, and accounting records in accordance with accounting standards approved by the board. such records shall be updated regularly and maintained at kfshrc’s headquarters.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8954,
+    "source_ar": "للمستشفى إبرام العقود والاتفاقيات -داخل المملكة وخارجها- بغير اللغة العربية وفق ما تقتضيه حاجة العمل ومصلحة المستشفى، وتخضع عقود المستشفى واتفاقاته لأنظمة المملكة وقضائها، إلا ما تقتضي مصلحة المستشفى إخضاعه منها لقوانين أجنبية أو اختصاص محاكم أجنبية أو للتحكيم، وذلك في ضوء ما تحدده القواعد والسياسات المعتمدة.",
+    "target_en": "KFSHRC may, as necessary, conclude contracts and agreements within the Kingdom and abroad in a language other than Arabic. KFSHRC’s contracts and agreements shall be subject to the Kingdom’s laws and the jurisdiction of its courts, unless KFSHRC’s interests require that such contracts and agreements be subject to foreign laws, the jurisdiction of foreign courts, or arbitration, in accordance with approved rules and policies.",
+    "source_ar_norm": "للمستشفي ابرام العقود والاتفاقيات -داخل المملكة وخارجها- بغير اللغة العربية وفق ما تقتضيه حاجة العمل ومصلحة المستشفي، وتخضع عقود المستشفي واتفاقاته لانظمة المملكة وقضائها، الا ما تقتضي مصلحة المستشفي اخضاعه منها لقوانين اجنبية او اختصاص محاكم اجنبية او للتحكيم، وذلك في ضوء ما تحدده القواعد والسياسات المعتمدة.",
+    "target_en_norm": "kfshrc may, as necessary, conclude contracts and agreements within the kingdom and abroad in a language other than arabic. kfshrc’s contracts and agreements shall be subject to the kingdom’s laws and the jurisdiction of its courts, unless kfshrc’s interests require that such contracts and agreements be subject to foreign laws, the jurisdiction of foreign courts, or arbitration, in accordance with approved rules and policies.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8955,
+    "source_ar": "يرفع المجلس الاستراتيجيات والسياسات والمعايير والضوابط والإجراءات والنظم -التي ينص النظام على اعتمادها أو إقرارها من مجلس إدارة الهيئة- وأي تعديل عليها؛ إلى مجلس إدارة الهيئة للنظر والبت فيها، أو يوجه بإجراء أي تعديل عليها وفق ما يراه مناسباً.",
+    "target_en": "Strategies, policies, standards, guidelines, procedures, systems, and any amendment thereto, shall be submitted to the RCRC’s board of directors, as required under this Charter, for approval or amendment.",
+    "source_ar_norm": "يرفع المجلس الاستراتيجيات والسياسات والمعايير والضوابط والاجراءات والنظم -التي ينص النظام علي اعتمادها او اقرارها من مجلس ادارة الهيئة- واي تعديل عليها؛ الي مجلس ادارة الهيئة للنظر والبت فيها، او يوجه باجراء اي تعديل عليها وفق ما يراه مناسبا.",
+    "target_en_norm": "strategies, policies, standards, guidelines, procedures, systems, and any amendment thereto, shall be submitted to the rcrc’s board of directors, as required under this charter, for approval or amendment.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8956,
+    "source_ar": "المادة التاسعة عشرة",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة",
+    "target_en_norm": "article 19",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8957,
+    "source_ar": "لا يجوز بأي حال من الأحوال حل المستشفى ولا دمجه بغيره ولا تعديل نظامه، إلا بأمر ملكي.",
+    "target_en": "KFSHRC may not, under any circumstance, be dissolved or merged nor may its Charter be amended, unless pursuant to a royal order.",
+    "source_ar_norm": "لا يجوز باي حال من الاحوال حل المستشفي ولا دمجه بغيره ولا تعديل نظامه، الا بامر ملكي.",
+    "target_en_norm": "kfshrc may not, under any circumstance, be dissolved or merged nor may its charter be amended, unless pursuant to a royal order.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8958,
+    "source_ar": "المادة العشرون",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون",
+    "target_en_norm": "article 20",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8959,
+    "source_ar": "يحل النظام محل تنظيم مستشفى الملك فيصل التخصصي ومركز الأبحاث، الصادر بقرار مجلس الوزراء رقم (265) وتاريخ 30 / 10 / 1422هـ، وتعديلاته، ويلغي ما يتعارض معه من أحكام ذات صلة بالمستشفى.",
+    "target_en": "This Charter shall supersede the Charter of King Faisal Specialist Hospital and Research Center, promulgated by Council of Ministers Resolution No. (265) dated 30/10/1422H, and any subsequent amendments thereto, and shall repeal any conflicting provisions relating to KFSHRC.",
+    "source_ar_norm": "يحل النظام محل تنظيم مستشفي الملك فيصل التخصصي ومركز الابحاث، الصادر بقرار مجلس الوزراء رقم (265) وتاريخ 30 / 10 / 1422ه، وتعديلاته، ويلغي ما يتعارض معه من احكام ذات صلة بالمستشفي.",
+    "target_en_norm": "this charter shall supersede the charter of king faisal specialist hospital and research center, promulgated by council of ministers resolution no. (265) dated 30/10/1422h, and any subsequent amendments thereto, and shall repeal any conflicting provisions relating to kfshrc.",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8960,
+    "source_ar": "المادة الحادية والعشرون",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون",
+    "target_en_norm": "article 21",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8961,
+    "source_ar": "ينشر النظام في الجريدة الرسمية، ويعمل به بعد (مائة وعشرين) يوماً من تاريخ نشره.",
+    "target_en": "This Charter shall be published in the Official Gazette and shall enter into force 120 days from the date of its publication",
+    "source_ar_norm": "ينشر النظام في الجريدة الرسمية، ويعمل به بعد (مائة وعشرين) يوما من تاريخ نشره.",
+    "target_en_norm": "this charter shall be published in the official gazette and shall enter into force 120 days from the date of its publication",
+    "file_name": "النظام الأساس لمستشفى الملك فيصل التخصصي ومركز الأبحاث.docx"
+  },
+  {
+    "id": 8962,
+    "source_ar": "النظام الأساسي للحكم",
+    "target_en": "Basic Law of Governance",
+    "source_ar_norm": "النظام الاساسي للحكم",
+    "target_en_norm": "basic law of governance",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8963,
+    "source_ar": "الباب الأول : المبادئ العامة",
+    "target_en": "Chapter 1: General Principles",
+    "source_ar_norm": "الباب الاول : المبادئ العامة",
+    "target_en_norm": "chapter 1: general principles",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8964,
+    "source_ar": "المادة الأولى",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي",
+    "target_en_norm": "article 1",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8965,
+    "source_ar": "المملكة العربية السعودية، دولة عربية إسلامية، ذات سيادة تامة، دينها الإسلام، ودستورها كتاب الله تعالى وسنة رسوله صلى الله عليه وسلم. ولغتها هي اللغة العربية، وعاصمتها مدينة الرياض.",
+    "target_en": "The Kingdom of Saudi Arabia is a sovereign Arab Islamic State. The Kingdom’s religion is Islam, its constitution is the Quran and the Sunna of the Prophet, peace be upon him, its language is Arabic, and its capital is the city of Riyadh.",
+    "source_ar_norm": "المملكة العربية السعودية، دولة عربية اسلامية، ذات سيادة تامة، دينها الاسلام، ودستورها كتاب الله تعالي وسنة رسوله صلي الله عليه وسلم. ولغتها هي اللغة العربية، وعاصمتها مدينة الرياض.",
+    "target_en_norm": "the kingdom of saudi arabia is a sovereign arab islamic state. the kingdom’s religion is islam, its constitution is the quran and the sunna of the prophet, peace be upon him, its language is arabic, and its capital is the city of riyadh.",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8966,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8967,
+    "source_ar": "عيدا الدولة، هما عيدا الفطر والأضحى، وتقويمها، هو التقويم الهجري.",
+    "target_en": "The eids of the State are Eid Al-Fitr and Eid Al-Adha and its calendar is the Hijri Calendar.",
+    "source_ar_norm": "عيدا الدولة، هما عيدا الفطر والاضحي، وتقويمها، هو التقويم الهجري.",
+    "target_en_norm": "the eids of the state are eid al-fitr and eid al-adha and its calendar is the hijri calendar.",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8968,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8969,
+    "source_ar": "يكون علم الدولة كما يلي :",
+    "target_en": "The flag of the State shall be as follows:",
+    "source_ar_norm": "يكون علم الدولة كما يلي :",
+    "target_en_norm": "the flag of the state shall be as follows:",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8970,
+    "source_ar": "أ - لونه أخضر.",
+    "target_en": "a) Its color shall be green.",
+    "source_ar_norm": "ا - لونه اخضر.",
+    "target_en_norm": "a) its color shall be green.",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8971,
+    "source_ar": "ب - عرضه يساوي ثلثي طوله.",
+    "target_en": "b) Its width shall be two-thirds its length.",
+    "source_ar_norm": "ب - عرضه يساوي ثلثي طوله.",
+    "target_en_norm": "b) its width shall be two-thirds its length.",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8972,
+    "source_ar": "ج - تتوسطه كلمة : (لا إله إلا الله محمد رسول الله) تحتها سيف مسلول، ولا ينكس العلم أبدا.",
+    "target_en": "c) The expression (لا إله إلا الله محمد رسول الله) shall be in the center of the flag and an unsheathed sword shall be beneath it. The flag may not be flown at half-mast.",
+    "source_ar_norm": "ج - تتوسطه كلمة : (لا اله الا الله محمد رسول الله) تحتها سيف مسلول، ولا ينكس العلم ابدا.",
+    "target_en_norm": "c) the expression (لا إله إلا الله محمد رسول الله) shall be in the center of the flag and an unsheathed sword shall be beneath it. the flag may not be flown at half-mast.",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8973,
+    "source_ar": "ويبين النظام الأحكام المتعلقة به.",
+    "target_en": "The law shall specify the provisions related thereto.",
+    "source_ar_norm": "ويبين النظام الاحكام المتعلقة به.",
+    "target_en_norm": "the law shall specify the provisions related thereto.",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8974,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8975,
+    "source_ar": "شعار الدولة سيفان متقاطعان، ونخلة وسط فراغهما الأعلى، ويحدد النظام نشيد الدولة وأوسمتها.",
+    "target_en": "The emblem of the State shall be two crossed swords with a date palm tree in the middle of the upper space between them. The law shall specify the anthem and medals of the State.",
+    "source_ar_norm": "شعار الدولة سيفان متقاطعان، ونخلة وسط فراغهما الاعلي، ويحدد النظام نشيد الدولة واوسمتها.",
+    "target_en_norm": "the emblem of the state shall be two crossed swords with a date palm tree in the middle of the upper space between them. the law shall specify the anthem and medals of the state.",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8976,
+    "source_ar": "الباب الثاني : نظام الحكم",
+    "target_en": "Chapter 2: System of Governance",
+    "source_ar_norm": "الباب الثاني : نظام الحكم",
+    "target_en_norm": "chapter 2: system of governance",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8977,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8978,
+    "source_ar": "أ - نظام الحكم في المملكة العربية السعودية، ملكي.",
+    "target_en": "A. The system of governance in the Kingdom of Saudi Arabia is monarchical.",
+    "source_ar_norm": "ا - نظام الحكم في المملكة العربية السعودية، ملكي.",
+    "target_en_norm": "a. the system of governance in the kingdom of saudi arabia is monarchical.",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8979,
+    "source_ar": "ب - يكون الحكم في أبناء الملك المؤسس عبد العزيز بن عبد الرحمن الفيصل آل سعود و أبناء الأبناء، ويبايع الأصلح منهم للحكم على كتاب الله تعالى وسنة رسوله صلى الله عليه وسلم.",
+    "target_en": "B. Governance shall be limited to the sons of the Founder King, King Abdulaziz ibn Abdurrahman Al-Faisal Al-Saud, and the sons of his sons. Allegiance shall be pledged to the most suitable among them to reign on the basis of the Quran and the Sunna of the Prophet, peace be upon him.",
+    "source_ar_norm": "ب - يكون الحكم في ابناء الملك المؤسس عبد العزيز بن عبد الرحمن الفيصل ال سعود و ابناء الابناء، ويبايع الاصلح منهم للحكم علي كتاب الله تعالي وسنة رسوله صلي الله عليه وسلم.",
+    "target_en_norm": "b. governance shall be limited to the sons of the founder king, king abdulaziz ibn abdurrahman al-faisal al-saud, and the sons of his sons. allegiance shall be pledged to the most suitable among them to reign on the basis of the quran and the sunna of the prophet, peace be upon him.",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8980,
+    "source_ar": "جـ - يختار الملك ولي العهد، ويعفيه بأمر ملكي.",
+    "target_en": "C. The King shall appoint the Crown Prince and relieve him by royal order.",
+    "source_ar_norm": "ج - يختار الملك ولي العهد، ويعفيه بامر ملكي.",
+    "target_en_norm": "c. the king shall appoint the crown prince and relieve him by royal order.",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8981,
+    "source_ar": "د - يكون ولي العهد متفرغا لولاية العهد، وما يكلفه به الملك من أعمال.",
+    "target_en": "D. The Crown Prince shall devote himself fully to the duties of the office of the Crown Prince and any other duties assigned thereto by the King.",
+    "source_ar_norm": "د - يكون ولي العهد متفرغا لولاية العهد، وما يكلفه به الملك من اعمال.",
+    "target_en_norm": "d. the crown prince shall devote himself fully to the duties of the office of the crown prince and any other duties assigned thereto by the king.",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8982,
+    "source_ar": "هـ - يتولى ولي العهد سلطات الملك عند وفاته حتى تتم البيعة.",
+    "target_en": "E. The Crown Prince shall assume the powers of the King upon his death until the pledge of allegiance is given.",
+    "source_ar_norm": "ه - يتولي ولي العهد سلطات الملك عند وفاته حتي تتم البيعة.",
+    "target_en_norm": "e. the crown prince shall assume the powers of the king upon his death until the pledge of allegiance is given.",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8983,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8984,
+    "source_ar": "يبايع المواطنون الملك على كتاب الله تعالى، وسنة رسوله، وعلى السمع والطاعة في العسر واليسر والمنشط والمكره.",
+    "target_en": "Citizens shall pledge allegiance to the King on the basis of the Quran and the Sunna of the Prophet, peace be upon him, and on the basis of submission and obedience in times of hardship, ease, fortune, and adversity.",
+    "source_ar_norm": "يبايع المواطنون الملك علي كتاب الله تعالي، وسنة رسوله، وعلي السمع والطاعة في العسر واليسر والمنشط والمكره.",
+    "target_en_norm": "citizens shall pledge allegiance to the king on the basis of the quran and the sunna of the prophet, peace be upon him, and on the basis of submission and obedience in times of hardship, ease, fortune, and adversity.",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8985,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8986,
+    "source_ar": "يستمد الحكم في المملكة العربية السعودية سلطته من كتاب الله تعالى، وسنة رسوله. وهما الحاكمان على هذا النظام وجميع أنظمة الدولة.",
+    "target_en": "Governance in the Kingdom of Saudi Arabia derives its authority from the Quran and the Sunna of the Prophet, peace be upon him. The Quran and Sunna shall govern this Law and all the laws of the State.",
+    "source_ar_norm": "يستمد الحكم في المملكة العربية السعودية سلطته من كتاب الله تعالي، وسنة رسوله. وهما الحاكمان علي هذا النظام وجميع انظمة الدولة.",
+    "target_en_norm": "governance in the kingdom of saudi arabia derives its authority from the quran and the sunna of the prophet, peace be upon him. the quran and sunna shall govern this law and all the laws of the state.",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8987,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8988,
+    "source_ar": "يقوم الحكم في المملكة العربية السعودية على أساس العدل والشورى والمساواة، وفق الشريعة الإسلامية.",
+    "target_en": "Governance in the Kingdom of Saudi Arabia shall be based on justice, shura, and equality in accordance with Sharia.",
+    "source_ar_norm": "يقوم الحكم في المملكة العربية السعودية علي اساس العدل والشوري والمساواة، وفق الشريعة الاسلامية.",
+    "target_en_norm": "governance in the kingdom of saudi arabia shall be based on justice, shura, and equality in accordance with sharia.",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8989,
+    "source_ar": "الباب الثالث : مقومات المجتمع السعودي",
+    "target_en": "Chapter 3: Foundations of Saudi Society",
+    "source_ar_norm": "الباب الثالث : مقومات المجتمع السعودي",
+    "target_en_norm": "chapter 3: foundations of saudi society",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8990,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8991,
+    "source_ar": "الأسرة، هي نواة المجتمع السعودي، ويربى أفرادها على أساس العقيدة الإسلامية، وما تقتضيه من الولاء والطاعة لله، ولرسوله، ولأولي الأمر، واحترام النظام وتنفيذه، وحب الوطن، والاعتزاز به وبتاريخه المجيد.",
+    "target_en": "The family is the basic unit of Saudi society. The members of a family shall be brought up on the basis of the Islamic creed and its requirement of allegiance and obedience to Allah, to the Prophet, peace be upon him, and to those in authority, as well as on the respect of the law and implementation thereof and on the love of and pride in the nation and its glorious history.",
+    "source_ar_norm": "الاسرة، هي نواة المجتمع السعودي، ويربي افرادها علي اساس العقيدة الاسلامية، وما تقتضيه من الولاء والطاعة لله، ولرسوله، ولاولي الامر، واحترام النظام وتنفيذه، وحب الوطن، والاعتزاز به وبتاريخه المجيد.",
+    "target_en_norm": "the family is the basic unit of saudi society. the members of a family shall be brought up on the basis of the islamic creed and its requirement of allegiance and obedience to allah, to the prophet, peace be upon him, and to those in authority, as well as on the respect of the law and implementation thereof and on the love of and pride in the nation and its glorious history.",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8992,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8993,
+    "source_ar": "تحرص الدولة على توثيق أواصر الأسرة، والحفاظ على قيمها العربية والإسلامية، ورعاية جميع أفرادها، وتوفير الظروف المناسبة لتنمية ملكاتهم وقدراتهم.",
+    "target_en": "The State shall endeavor to strengthen family bonds and maintain Arab and Islamic family values, and shall strive for the welfare of all its members and for creating the conditions conducive to the development of their talents and abilities.",
+    "source_ar_norm": "تحرص الدولة علي توثيق اواصر الاسرة، والحفاظ علي قيمها العربية والاسلامية، ورعاية جميع افرادها، وتوفير الظروف المناسبة لتنمية ملكاتهم وقدراتهم.",
+    "target_en_norm": "the state shall endeavor to strengthen family bonds and maintain arab and islamic family values, and shall strive for the welfare of all its members and for creating the conditions conducive to the development of their talents and abilities.",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8994,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8995,
+    "source_ar": "يقوم المجتمع السعودي على أساس من اعتصام أفراده بحبل الله، وتعاونهم على البر والتقوى، والتكافل فيما بينهم، وعدم تفرقهم.",
+    "target_en": "Saudi society shall be based upon the adherence of its members to the bond of Allah as well as their cooperation unto righteousness and piety, maintenance of solidarity, and refraining from dissent.",
+    "source_ar_norm": "يقوم المجتمع السعودي علي اساس من اعتصام افراده بحبل الله، وتعاونهم علي البر والتقوي، والتكافل فيما بينهم، وعدم تفرقهم.",
+    "target_en_norm": "saudi society shall be based upon the adherence of its members to the bond of allah as well as their cooperation unto righteousness and piety, maintenance of solidarity, and refraining from dissent.",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8996,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8997,
+    "source_ar": "تعزيز الوحدة الوطنية واجب، وتمنع الدولة كل ما يؤدي للفرقة و الفتنة والانقسام.",
+    "target_en": "Promoting national unity is a duty, and the State shall prevent any act which may lead to disunity, sedition, and division.",
+    "source_ar_norm": "تعزيز الوحدة الوطنية واجب، وتمنع الدولة كل ما يؤدي للفرقة و الفتنة والانقسام.",
+    "target_en_norm": "promoting national unity is a duty, and the state shall prevent any act which may lead to disunity, sedition, and division.",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8998,
+    "source_ar": "المادة الثالثة عشرة",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة",
+    "target_en_norm": "article 13",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 8999,
+    "source_ar": "يهدف التعليم إلى غرس العقيدة الإسلامية في نفوس النشء، وإكسابهم المعارف والمهارات، وتهيئتهم ليكونوا أعضاء نافعين في بناء مجتمعهم، محبين لوطنهم، معتزين بتاريخه.",
+    "target_en": "Education shall aim to instill the Islamic creed in the youth; impart knowledge and skills to them; and prepare them to become useful members in the society, love their nation, and be proud of its history.",
+    "source_ar_norm": "يهدف التعليم الي غرس العقيدة الاسلامية في نفوس النشء، واكسابهم المعارف والمهارات، وتهيئتهم ليكونوا اعضاء نافعين في بناء مجتمعهم، محبين لوطنهم، معتزين بتاريخه.",
+    "target_en_norm": "education shall aim to instill the islamic creed in the youth; impart knowledge and skills to them; and prepare them to become useful members in the society, love their nation, and be proud of its history.",
+    "file_name": "النظام الأساسي للحكم.docx"
+  },
+  {
+    "id": 9000,
+    "source_ar": "الباب الرابع : المبادئ الاقتصادية",
+    "target_en": "Chapter 4: Economic Principles",
+    "source_ar_norm": "الباب الرابع : المبادئ الاقتصادية",
+    "target_en_norm": "chapter 4: economic principles",
+    "file_name": "النظام الأساسي للحكم.docx"
+  }
+]

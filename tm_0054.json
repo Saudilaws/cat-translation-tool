@@ -1,0 +1,802 @@
+[
+  {
+    "id": 5301,
+    "source_ar": "ب – أن يدفع مبلغاً مالياً يساوي عشر القيمة المقدرة للعين بشيك مصرفي لأمر رئيس دائرة التنفيذ، أو ضماناً بنكياً غير مشروط بكامل القيمة المقدرة.",
+    "target_en": "The bidder shall pay an amount equal to one-tenth of the estimated value of the property by a check made to the order of the head of the enforcement circuit, or by an unconditional bank guarantee for the full estimated value.",
+    "source_ar_norm": "ب – ان يدفع مبلغا ماليا يساوي عشر القيمة المقدرة للعين بشيك مصرفي لامر رئيس دائرة التنفيذ، او ضمانا بنكيا غير مشروط بكامل القيمة المقدرة.",
+    "target_en_norm": "the bidder shall pay an amount equal to one-tenth of the estimated value of the property by a check made to the order of the head of the enforcement circuit, or by an unconditional bank guarantee for the full estimated value.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5302,
+    "source_ar": "49/5– إذا كانت القيمة المقدرة للأعيان المحجوز عليها مائة ألف ريـال، فأقل، فلا يشترط للمشاركة في مزادها إثبات الملاءة.",
+    "target_en": "Establishment of solvency shall not be required for bidding for attached property whose estimated value is equal to or less than 100,000 riyals.",
+    "source_ar_norm": "49/5– اذا كانت القيمة المقدرة للاعيان المحجوز عليها مائة الف ريال، فاقل، فلا يشترط للمشاركة في مزادها اثبات الملاءة.",
+    "target_en_norm": "establishment of solvency shall not be required for bidding for attached property whose estimated value is equal to or less than 100,000 riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5303,
+    "source_ar": "49/6– لمأمور التنفيذ الأمر بإبعاد كل من يظهر منه تأثير على سلامة سير المزاد، له الاستعانة في ذلك بالشرطة.",
+    "target_en": "49.6 The enforcement officer may order anyone who appears to be undermining the integrity of the auction to be removed from the auction hall and may, to this end, seek police assistance.",
+    "source_ar_norm": "49/6– لمامور التنفيذ الامر بابعاد كل من يظهر منه تاثير علي سلامة سير المزاد، له الاستعانة في ذلك بالشرطة.",
+    "target_en_norm": "49.6 the enforcement officer may order anyone who appears to be undermining the integrity of the auction to be removed from the auction hall and may, to this end, seek police assistance.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5304,
+    "source_ar": "49/7– يجوز لمن تأهل للمشاركة في المزاد أن يدخل معه إلى صالة المزاد من يحتاج إليه.",
+    "target_en": "49.7 A qualified bidder may, if needed, bring other person(s) into the auction hall.",
+    "source_ar_norm": "49/7– يجوز لمن تاهل للمشاركة في المزاد ان يدخل معه الي صالة المزاد من يحتاج اليه.",
+    "target_en_norm": "49.7 a qualified bidder may, if needed, bring other person(s) into the auction hall.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5305,
+    "source_ar": "49/8– طرق خصم المبالغ والسداد ما يأتي:",
+    "target_en": "49.8 Deductions and repayments shall be made as follows:",
+    "source_ar_norm": "49/8– طرق خصم المبالغ والسداد ما ياتي:",
+    "target_en_norm": "49.8 deductions and repayments shall be made as follows:",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5306,
+    "source_ar": "أ – النقد فيما لا تتجاوز قيمته عشرة آلاف ريـال، ويستلمها مأمور التنفيذ، أو وكيل البيع القضائي؛ ليسلمها إلى قاضي التنفيذ، بشيك مصرفي.",
+    "target_en": "cash amounts not exceeding 10,000 riyals shall be paid to the enforcement officer or receiver who shall in turn deliver it to the enforcement judge by a bank check;",
+    "source_ar_norm": "ا – النقد فيما لا تتجاوز قيمته عشرة الاف ريال، ويستلمها مامور التنفيذ، او وكيل البيع القضائي؛ ليسلمها الي قاضي التنفيذ، بشيك مصرفي.",
+    "target_en_norm": "cash amounts not exceeding 10,000 riyals shall be paid to the enforcement officer or receiver who shall in turn deliver it to the enforcement judge by a bank check;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5307,
+    "source_ar": "ب – الشيك المصرفي.",
+    "target_en": "bank check;",
+    "source_ar_norm": "ب – الشيك المصرفي.",
+    "target_en_norm": "bank check;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5308,
+    "source_ar": "ج – التحويل بوساطة الوسائل الإلكترونية إلى حساب دائرة التنفيذ.",
+    "target_en": "wire transfer to the account of the enforcement circuit;",
+    "source_ar_norm": "ج – التحويل بوساطة الوسائل الالكترونية الي حساب دائرة التنفيذ.",
+    "target_en_norm": "wire transfer to the account of the enforcement circuit;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5309,
+    "source_ar": "د – الخصم عن طريق نقاط البيع الخاصة بدائرة التنفيذ.",
+    "target_en": "deduction made at sale points of the enforcement circuit; and",
+    "source_ar_norm": "د – الخصم عن طريق نقاط البيع الخاصة بدائرة التنفيذ.",
+    "target_en_norm": "deduction made at sale points of the enforcement circuit; and",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5310,
+    "source_ar": "هـ- أي وسيلة مصرفية أخرى إلى حساب دائرة التنفيذ.",
+    "target_en": "payment into the account of the enforcement circuit by any other banking means.",
+    "source_ar_norm": "ه- اي وسيلة مصرفية اخري الي حساب دائرة التنفيذ.",
+    "target_en_norm": "payment into the account of the enforcement circuit by any other banking means.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5311,
+    "source_ar": "(المادة الخمسون)",
+    "target_en": "Article 50",
+    "source_ar_norm": "(المادة الخمسون)",
+    "target_en_norm": "article 50",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5312,
+    "source_ar": "50/1– لقاضي التنفيذ بناء على طلب الحاجز أو المحجوز عليه أن يأذن بتعدد رسائل الإعلان أو النشر، أو تكراره، ويكون الإعلان على نفقة الطالب، وللقاضي أن يأمر بذلك من تلقاء نفسه لمصلحة عائدة للمال المحجوز، وتدفع المصروفات من قبل وكيل البيع القضائي، وفي هذه الحال، لا يلزم التقيد بالمدد المشار إليها في الفقرة الأولى من المادة.",
+    "target_en": "50.1 The enforcement judge may, upon a petition by the claimant or defendant and at the expense of the requesting party, allow the use of multiple means for announcements or publications or the repetition thereof. The judge may, upon his own motion, order the same for the benefit of the attached property and expenses shall be borne by the receiver. In such case, the periods referred to in paragraph (1) of this Article shall not be binding.",
+    "source_ar_norm": "50/1– لقاضي التنفيذ بناء علي طلب الحاجز او المحجوز عليه ان ياذن بتعدد رسائل الاعلان او النشر، او تكراره، ويكون الاعلان علي نفقة الطالب، وللقاضي ان يامر بذلك من تلقاء نفسه لمصلحة عائدة للمال المحجوز، وتدفع المصروفات من قبل وكيل البيع القضائي، وفي هذه الحال، لا يلزم التقيد بالمدد المشار اليها في الفقرة الاولي من المادة.",
+    "target_en_norm": "50.1 the enforcement judge may, upon a petition by the claimant or defendant and at the expense of the requesting party, allow the use of multiple means for announcements or publications or the repetition thereof. the judge may, upon his own motion, order the same for the benefit of the attached property and expenses shall be borne by the receiver. in such case, the periods referred to in paragraph (1) of this article shall not be binding.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5313,
+    "source_ar": "50/2– يسمح بمعاينة الأعيان المارد بيعها لمن يرغب ذلك خلال مدة الإعلان.",
+    "target_en": "50.2 Property subject of the sale shall be made available for inspection during the announcement period.",
+    "source_ar_norm": "50/2– يسمح بمعاينة الاعيان المارد بيعها لمن يرغب ذلك خلال مدة الاعلان.",
+    "target_en_norm": "50.2 property subject of the sale shall be made available for inspection during the announcement period.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5314,
+    "source_ar": "50/3– يجب أن يشتمل إعلان المزاد علاوة على ما ورد في المادة، على رقم وتاريخ أمر البيع، وسقوط خيار المجلس حال رسو المزاد.",
+    "target_en": "50.3 The auction announcement shall include, in addition to what is provided for in this Article, the number and date of the sale order, as well as the lapse of the option to rescind upon awarding the bid.",
+    "source_ar_norm": "50/3– يجب ان يشتمل اعلان المزاد علاوة علي ما ورد في المادة، علي رقم وتاريخ امر البيع، وسقوط خيار المجلس حال رسو المزاد.",
+    "target_en_norm": "50.3 the auction announcement shall include, in addition to what is provided for in this article, the number and date of the sale order, as well as the lapse of the option to rescind upon awarding the bid.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5315,
+    "source_ar": "50/4– تسري أحكام هذه المادة على الأعيان المحكوم ببيعها من قاضي الموضوع، ما لم ينص الحكم على طريقة، أو ثمن البيع، فيتقيد قاضي التنفيذ بذلك.",
+    "target_en": "50.4 The provisions of this Article shall apply to properties to be sold pursuant to a decision issued by the trial judge. If the judgment specifies the manner or price of sale, the enforcement judge shall comply therewith.",
+    "source_ar_norm": "50/4– تسري احكام هذه المادة علي الاعيان المحكوم ببيعها من قاضي الموضوع، ما لم ينص الحكم علي طريقة، او ثمن البيع، فيتقيد قاضي التنفيذ بذلك.",
+    "target_en_norm": "50.4 the provisions of this article shall apply to properties to be sold pursuant to a decision issued by the trial judge. if the judgment specifies the manner or price of sale, the enforcement judge shall comply therewith.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5316,
+    "source_ar": "50/5– إذا لم يتقدم مشتر، أو لم يصل المزاد القيمة المقدرة سابقاً، فينهي مأمور التنفيذ المزاد، ويحرر محضراً بذلك موقعاً منه، ومن وكيل البيع القضائي.",
+    "target_en": "50.5 If there are no bidders or the bidding does not reach the pre-estimated value, the enforcement officer shall terminate the auction and prepare a report to this effect signed by him and the receiver.",
+    "source_ar_norm": "50/5– اذا لم يتقدم مشتر، او لم يصل المزاد القيمة المقدرة سابقا، فينهي مامور التنفيذ المزاد، ويحرر محضرا بذلك موقعا منه، ومن وكيل البيع القضائي.",
+    "target_en_norm": "50.5 if there are no bidders or the bidding does not reach the pre-estimated value, the enforcement officer shall terminate the auction and prepare a report to this effect signed by him and the receiver.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5317,
+    "source_ar": "50/6– لا يعاد التقدير والمزايدة على العقار، أو المعادن الثمينة، أو المجوهرات، أو ما في حكمها أكثر من ثلاث مرات، وفي المرة الثالثة يباع بأكبر عرض في المزايدة بشرط أن يكون الثمن لا ينقص عن القيمة المقدرة في المرة الثانية، إلا بما يتغابن فيه الناس، ويحدد الموعد الثاني، والثالث للمزاد خلال مدة لا تقل عن خمسة عشر يوماً.",
+    "target_en": "50.6 Real property, precious metals, jewelry, and the like, may not be re-evaluated or re-auctioned more than three times and shall, in the third time, be sold for the highest bid, provided that such bid is not less than the value estimated in the second auction; except mutual loss and gain (within tolerable limits). The dates of the second and third auctions shall be within a period not less than 15 days.",
+    "source_ar_norm": "50/6– لا يعاد التقدير والمزايدة علي العقار، او المعادن الثمينة، او المجوهرات، او ما في حكمها اكثر من ثلاث مرات، وفي المرة الثالثة يباع باكبر عرض في المزايدة بشرط ان يكون الثمن لا ينقص عن القيمة المقدرة في المرة الثانية، الا بما يتغابن فيه الناس، ويحدد الموعد الثاني، والثالث للمزاد خلال مدة لا تقل عن خمسة عشر يوما.",
+    "target_en_norm": "50.6 real property, precious metals, jewelry, and the like, may not be re-evaluated or re-auctioned more than three times and shall, in the third time, be sold for the highest bid, provided that such bid is not less than the value estimated in the second auction; except mutual loss and gain (within tolerable limits). the dates of the second and third auctions shall be within a period not less than 15 days.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5318,
+    "source_ar": "50/7– إذا مضى خمس عشرة دقيقة بعد أكبر عرض، ولم يزد عليه أحد، يعلن وكيل البيع القضائي الترسية، وتنتهي المزايدة، ويلزم البيع. ولمأمور التنفيذ تمديد خمس عشرة دقيقة لمرة واحدة.",
+    "target_en": "50.7 If 15 minutes lapse after the highest bid and no higher bid is made, the receiver shall award the highest bid and end the bidding and the sale shall be binding. The enforcement officer may extend such period for another 15 minutes.",
+    "source_ar_norm": "50/7– اذا مضي خمس عشرة دقيقة بعد اكبر عرض، ولم يزد عليه احد، يعلن وكيل البيع القضائي الترسية، وتنتهي المزايدة، ويلزم البيع. ولمامور التنفيذ تمديد خمس عشرة دقيقة لمرة واحدة.",
+    "target_en_norm": "50.7 if 15 minutes lapse after the highest bid and no higher bid is made, the receiver shall award the highest bid and end the bidding and the sale shall be binding. the enforcement officer may extend such period for another 15 minutes.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5319,
+    "source_ar": "50/8– إذا رضي المدين والدائن بالقيمة التي وقف عليها المزاد ولو لم تبلغ القيمة المقدرة فيُنهى المزاد وتستكمل إجراءات التنفيذ.",
+    "target_en": "50.8 If the creditor and debtor accept the last bid even if the bidding did not reach the estimated value, the auction shall be terminated and enforcement proceedings shall be completed.",
+    "source_ar_norm": "50/8– اذا رضي المدين والدائن بالقيمة التي وقف عليها المزاد ولو لم تبلغ القيمة المقدرة فينهي المزاد وتستكمل اجراءات التنفيذ.",
+    "target_en_norm": "50.8 if the creditor and debtor accept the last bid even if the bidding did not reach the estimated value, the auction shall be terminated and enforcement proceedings shall be completed.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5320,
+    "source_ar": "50/9– إذا تعذر السداد الفوري، فيمهل مدةًّ لا تزيد عن خمسة أيام عمل.",
+    "target_en": "50.9 If immediate payment is unfeasible, a grace period not exceeding five working days shall be granted.",
+    "source_ar_norm": "50/9– اذا تعذر السداد الفوري، فيمهل مدة لا تزيد عن خمسة ايام عمل.",
+    "target_en_norm": "50.9 if immediate payment is unfeasible, a grace period not exceeding five working days shall be granted.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5321,
+    "source_ar": "50/10–إذا كانت المنقولات المحجوزة عرضة للتلف، أو كانت قيمتها لا تتحمل نفقات خزنها وبيعها، أو كانت قيمتها التقديرية لا تزيد عن خمسين ألف ريـال، فتباع بالطريقة التي يظهر لقاضي التنفيذ أنها مناسبة، دو التقيد بالإجراءات المنصوص عليها في بيع المنقول.",
+    "target_en": "50.10 If the attached movable property is perishable or its value does not cover the cost of its storage and sale or if its estimated value does not exceed 50,000 riyals, such property shall be sold in the manner the enforcement judge deems appropriate, without complying with the movable property sale procedures.",
+    "source_ar_norm": "50/10–اذا كانت المنقولات المحجوزة عرضة للتلف، او كانت قيمتها لا تتحمل نفقات خزنها وبيعها، او كانت قيمتها التقديرية لا تزيد عن خمسين الف ريال، فتباع بالطريقة التي يظهر لقاضي التنفيذ انها مناسبة، دو التقيد بالاجراءات المنصوص عليها في بيع المنقول.",
+    "target_en_norm": "50.10 if the attached movable property is perishable or its value does not cover the cost of its storage and sale or if its estimated value does not exceed 50,000 riyals, such property shall be sold in the manner the enforcement judge deems appropriate, without complying with the movable property sale procedures.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5322,
+    "source_ar": "50/11–إذا كان التسديد بوساطة الدفع النقدي، أو الشيك المصرفي، فيستلمه مأمور التنفيذ، ويحرر سنداً بذلك، يسلم أصله للمشتري، وفي حالة التسليم بالوسائل الأخرى يتحقق المأمور من ذلك، وتحفظ نسخة من السند والإشعار في ملف القضية.",
+    "target_en": "50.11 If payment is made in cash or by bank check, the enforcement officer shall receive such payment against a receipt to be delivered to the buyer. If payment is made by other means, the enforcement officer shall verify such payment. A copy of the receipt and notification shall be included in the case file.",
+    "source_ar_norm": "50/11–اذا كان التسديد بوساطة الدفع النقدي، او الشيك المصرفي، فيستلمه مامور التنفيذ، ويحرر سندا بذلك، يسلم اصله للمشتري، وفي حالة التسليم بالوسائل الاخري يتحقق المامور من ذلك، وتحفظ نسخة من السند والاشعار في ملف القضية.",
+    "target_en_norm": "50.11 if payment is made in cash or by bank check, the enforcement officer shall receive such payment against a receipt to be delivered to the buyer. if payment is made by other means, the enforcement officer shall verify such payment. a copy of the receipt and notification shall be included in the case file.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5323,
+    "source_ar": "(المادة الحادية والخمسون)",
+    "target_en": "Article 51",
+    "source_ar_norm": "(المادة الحادية والخمسون)",
+    "target_en_norm": "article 51",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5324,
+    "source_ar": "51/1– يدخل في التأثير المحظور، الدعايات، والإعلانات التسويقية التي تتضمن تضليلاً في الأسعار.",
+    "target_en": "51.1 Prohibited influence shall include advertisements and sale promotions which contain misleading prices.",
+    "source_ar_norm": "51/1– يدخل في التاثير المحظور، الدعايات، والاعلانات التسويقية التي تتضمن تضليلا في الاسعار.",
+    "target_en_norm": "51.1 prohibited influence shall include advertisements and sale promotions which contain misleading prices.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5325,
+    "source_ar": "51/2– الحظر المذكور في المادة يشمل ما كان قبل إقامة المزاد وأثنائه.",
+    "target_en": "51.2 The prohibition provided for in this Article shall include actions taken prior to or during the auction.",
+    "source_ar_norm": "51/2– الحظر المذكور في المادة يشمل ما كان قبل اقامة المزاد واثنائه.",
+    "target_en_norm": "51.2 the prohibition provided for in this article shall include actions taken prior to or during the auction.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5326,
+    "source_ar": "51/3– للقاضي عند الاقتضاء، الأمر باستخدام وسائل التقنية الحديثة؛ لمتابعة المزاد، ومراقبته، وتوثيقه.",
+    "target_en": "51.3 The judge may, if necessary, order the use of modern technology to monitor and document the auction.",
+    "source_ar_norm": "51/3– للقاضي عند الاقتضاء، الامر باستخدام وسائل التقنية الحديثة؛ لمتابعة المزاد، ومراقبته، وتوثيقه.",
+    "target_en_norm": "51.3 the judge may, if necessary, order the use of modern technology to monitor and document the auction.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5327,
+    "source_ar": "(المادة الثانية والخمسون)",
+    "target_en": "Article 52",
+    "source_ar_norm": "(المادة الثانية والخمسون)",
+    "target_en_norm": "article 52",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5328,
+    "source_ar": "52/1– يجوز في أي حال كانت عليها الإجراءات، وقبل رسو المزاد، إيداع مبلغ في حساب دائرة التنفيذ مساو للدين المحجوز من أجله، مضافاً إليه مصروفات الحجز والتنفيذ، ويترتب على ذلك رفع الحجز.",
+    "target_en": "52.1 An amount equal to the debt underlying the attachment as well as attachment and enforcement expenses may be deposited in the account of the enforcement circuit at any time during the proceedings and prior to the award; in such case, the attachment shall be lifted.",
+    "source_ar_norm": "52/1– يجوز في اي حال كانت عليها الاجراءات، وقبل رسو المزاد، ايداع مبلغ في حساب دائرة التنفيذ مساو للدين المحجوز من اجله، مضافا اليه مصروفات الحجز والتنفيذ، ويترتب علي ذلك رفع الحجز.",
+    "target_en_norm": "52.1 an amount equal to the debt underlying the attachment as well as attachment and enforcement expenses may be deposited in the account of the enforcement circuit at any time during the proceedings and prior to the award; in such case, the attachment shall be lifted.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5329,
+    "source_ar": "52/2– إذا أحضر المدين قبل رسو المزاد مشترياً للعين المحجوزة بمبلغ لا يقل عن الدين المحجوز من أجله، أجاز قاضي التنفيذ هذا البيع، وأثبته بقرار، واستلم من الثمن المتفق عليه ما يساوي الدين المحجوز لأجله، مضافاً إليه جميع مصروفات الحجز والتنفيذ، ويترتب على ذلك رفع الحجز عن الأعيان المحجوزة، ما لم يكن المدين قاصراً، أو وقفاً، أو ما في حكمهما، والعين المحجوزة مالاً منقولاً فيلزم استكمال إجراءات المزاد.",
+    "target_en": "52.2 If, prior to the award, the debtor brings a buyer for the attached property for a price not less than the underlying debt, the enforcement judge shall approve the sale and issue a decision to this effect, and receive from the agreed-upon price an amount equal to the underlying debt in addition to all attachment and enforcement expenses. This shall result in the lifting of the attachment, unless the debtor is a minor, endowment, or the like, or the attached property is movable; in such case, auction proceedings shall be completed.",
+    "source_ar_norm": "52/2– اذا احضر المدين قبل رسو المزاد مشتريا للعين المحجوزة بمبلغ لا يقل عن الدين المحجوز من اجله، اجاز قاضي التنفيذ هذا البيع، واثبته بقرار، واستلم من الثمن المتفق عليه ما يساوي الدين المحجوز لاجله، مضافا اليه جميع مصروفات الحجز والتنفيذ، ويترتب علي ذلك رفع الحجز عن الاعيان المحجوزة، ما لم يكن المدين قاصرا، او وقفا، او ما في حكمهما، والعين المحجوزة مالا منقولا فيلزم استكمال اجراءات المزاد.",
+    "target_en_norm": "52.2 if, prior to the award, the debtor brings a buyer for the attached property for a price not less than the underlying debt, the enforcement judge shall approve the sale and issue a decision to this effect, and receive from the agreed-upon price an amount equal to the underlying debt in addition to all attachment and enforcement expenses. this shall result in the lifting of the attachment, unless the debtor is a minor, endowment, or the like, or the attached property is movable; in such case, auction proceedings shall be completed.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5330,
+    "source_ar": "52/3– إذا لزم من التنفيذ بيع عقار قاصر، أو وقف، أو ما في حكمهما فيكون بحكم يصدره قاضي التنفيذ واجب الاستئناف، ثم يباع بالمزاد وتستكمل إجراءات المزاد.",
+    "target_en": "52.3 If enforcement requires the sale of the property of a minor, endowment, or the like, the sale shall be effected pursuant to a judgment rendered by the enforcement judge subject to mandatory appeal; after which, said property shall be sold by auction and auction proceedings shall be completed.",
+    "source_ar_norm": "52/3– اذا لزم من التنفيذ بيع عقار قاصر، او وقف، او ما في حكمهما فيكون بحكم يصدره قاضي التنفيذ واجب الاستئناف، ثم يباع بالمزاد وتستكمل اجراءات المزاد.",
+    "target_en_norm": "52.3 if enforcement requires the sale of the property of a minor, endowment, or the like, the sale shall be effected pursuant to a judgment rendered by the enforcement judge subject to mandatory appeal; after which, said property shall be sold by auction and auction proceedings shall be completed.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5331,
+    "source_ar": "52/4– إذا أبرأ الدائن المدين، أو اصطلح معه على تأجيل الدين قبل رسو المزاد، فيوقف المزاد، بعد دفع المدين مصروفات الحجز والتنفيذ.",
+    "target_en": "52.4 If the creditor, prior to the award, relieves the debtor or reaches an agreement with him to postpone payment of the debt, the auction shall be terminated upon the debtor’s payment of attachment and enforcement expenses.",
+    "source_ar_norm": "52/4– اذا ابرا الدائن المدين، او اصطلح معه علي تاجيل الدين قبل رسو المزاد، فيوقف المزاد، بعد دفع المدين مصروفات الحجز والتنفيذ.",
+    "target_en_norm": "52.4 if the creditor, prior to the award, relieves the debtor or reaches an agreement with him to postpone payment of the debt, the auction shall be terminated upon the debtor’s payment of attachment and enforcement expenses.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5332,
+    "source_ar": "(المادة الثالثة والخمسون)",
+    "target_en": "Article 53",
+    "source_ar_norm": "(المادة الثالثة والخمسون)",
+    "target_en_norm": "article 53",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5333,
+    "source_ar": "53/1– يشتمل محضر البيع على البيانات الآتية:",
+    "target_en": "53.1 The sale record shall contain:",
+    "source_ar_norm": "53/1– يشتمل محضر البيع علي البيانات الاتية:",
+    "target_en_norm": "53.1 the sale record shall contain:",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5334,
+    "source_ar": "أ - رقم قيل طلب التنفيذ، وساعة المحضر، وتاريخه.",
+    "target_en": "the enforcement request number and the record’s time and date;",
+    "source_ar_norm": "ا - رقم قيل طلب التنفيذ، وساعة المحضر، وتاريخه.",
+    "target_en_norm": "the enforcement request number and the record’s time and date;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5335,
+    "source_ar": "ب – بيانات طالب التنفيذ، والمحجوز عليه.",
+    "target_en": "particulars of the claimant and the defendant;",
+    "source_ar_norm": "ب – بيانات طالب التنفيذ، والمحجوز عليه.",
+    "target_en_norm": "particulars of the claimant and the defendant;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5336,
+    "source_ar": "ج – بيان بالأعيان المباعة، ووصفها، ومستند التملك – إن وجد -.",
+    "target_en": "a statement of sold property and a description thereof as well as the document of ownership, if any;",
+    "source_ar_norm": "ج – بيان بالاعيان المباعة، ووصفها، ومستند التملك – ان وجد -.",
+    "target_en_norm": "a statement of sold property and a description thereof as well as the document of ownership, if any;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5337,
+    "source_ar": "د – رقم صك ملكية العقار، وتاريخه، ومصدره، ورقم القطعة – إن وجد – وحدودها، وأطوالها، ومساحتها.",
+    "target_en": "the real property’s title deed number, date, and issuing agency, as well as the lot’s number, if any, boundaries, dimensions, and area;",
+    "source_ar_norm": "د – رقم صك ملكية العقار، وتاريخه، ومصدره، ورقم القطعة – ان وجد – وحدودها، واطوالها، ومساحتها.",
+    "target_en_norm": "the real property’s title deed number, date, and issuing agency, as well as the lot’s number, if any, boundaries, dimensions, and area;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5338,
+    "source_ar": "هـ – بيانات من رسا عليه المزاد، وموطنه، ومحل عمله، وعنوانه.",
+    "target_en": "particulars of the winning bidder and his domicile, place of work, and address; and",
+    "source_ar_norm": "ه – بيانات من رسا عليه المزاد، وموطنه، ومحل عمله، وعنوانه.",
+    "target_en_norm": "particulars of the winning bidder and his domicile, place of work, and address; and",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5339,
+    "source_ar": "و – قدر الثمن، وما تم دفعه.",
+    "target_en": "the sale price and amount paid.",
+    "source_ar_norm": "و – قدر الثمن، وما تم دفعه.",
+    "target_en_norm": "the sale price and amount paid.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5340,
+    "source_ar": "ويوقع على المحضر من قبل مأمور التنفيذ، ووكيل البيع، ومن رسا عليه المزاد.",
+    "target_en": "The record shall be signed by the enforcement officer, receiver, and winning bidder.",
+    "source_ar_norm": "ويوقع علي المحضر من قبل مامور التنفيذ، ووكيل البيع، ومن رسا عليه المزاد.",
+    "target_en_norm": "the record shall be signed by the enforcement officer, receiver, and winning bidder.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5341,
+    "source_ar": "53/2– لا يصدر قرار الترسية، إلا بعد استلام ثمن المبيع كاملاً.",
+    "target_en": "53.2 No award decision may be issued prior to the full payment of the sale price.",
+    "source_ar_norm": "53/2– لا يصدر قرار الترسية، الا بعد استلام ثمن المبيع كاملا.",
+    "target_en_norm": "53.2 no award decision may be issued prior to the full payment of the sale price.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5342,
+    "source_ar": "53/3– يحمل قرار الترسية رقماً، وتاريخاً، ويضمن ساعة صدوره، ويشتمل على الأعيان المباعة وأوصافها، ومعاينة المشتري أو وكيله للمبيع، واستلامه، وتودع نسخة من قرار الترسية بملف القضية.",
+    "target_en": "53.3 The award decision shall bear a number and the time and date of its issuance, and it shall include the sold property and its description, and indicate the buyer’s or his agent’s inspection and receipt of the sold property. A copy of the award shall be included in the case file.",
+    "source_ar_norm": "53/3– يحمل قرار الترسية رقما، وتاريخا، ويضمن ساعة صدوره، ويشتمل علي الاعيان المباعة واوصافها، ومعاينة المشتري او وكيله للمبيع، واستلامه، وتودع نسخة من قرار الترسية بملف القضية.",
+    "target_en_norm": "53.3 the award decision shall bear a number and the time and date of its issuance, and it shall include the sold property and its description, and indicate the buyer’s or his agent’s inspection and receipt of the sold property. a copy of the award shall be included in the case file.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5343,
+    "source_ar": "53/4– إذا كان المبيع عقاراً، فيجب أن يتضمن قرار الترسية، زيادة على ما ذكر في اللائحة السابقة، جميع ما يلزم ذكره عند الإفراغ.",
+    "target_en": "53.4 If the sold property is a real property, the award decision shall, in addition to what is provided for in the preceding paragraph, include all the requirements for the transfer of ownership.",
+    "source_ar_norm": "53/4– اذا كان المبيع عقارا، فيجب ان يتضمن قرار الترسية، زيادة علي ما ذكر في اللائحة السابقة، جميع ما يلزم ذكره عند الافراغ.",
+    "target_en_norm": "53.4 if the sold property is a real property, the award decision shall, in addition to what is provided for in the preceding paragraph, include all the requirements for the transfer of ownership.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5344,
+    "source_ar": "53/5– عند بيع العقار يصدر قاضي التنفيذ قرار الترسية، أو قرار البيع – حسب الحال – ويرسله إلى كتابة العدل؛ لتتولى الإفراغ، والتهميش على السجل، أو بعثه لمصدره، وإصدار الصكوك عند الاقتضاء، ولا يتطلب ذلك حضور أطراف التنفيذ لدى كتابة العدل.",
+    "target_en": "53.5 Upon the sale of a real property, the enforcement judge shall issue the award or sale decision, as the case may be, and send the same to the notary public to complete the transfer of ownership and make a notation to this effect into the register, or send the same to the issuing agency, and issue the title deeds if necessary. This shall not require the attendance of the enforcement parties before the notary public.",
+    "source_ar_norm": "53/5– عند بيع العقار يصدر قاضي التنفيذ قرار الترسية، او قرار البيع – حسب الحال – ويرسله الي كتابة العدل؛ لتتولي الافراغ، والتهميش علي السجل، او بعثه لمصدره، واصدار الصكوك عند الاقتضاء، ولا يتطلب ذلك حضور اطراف التنفيذ لدي كتابة العدل.",
+    "target_en_norm": "53.5 upon the sale of a real property, the enforcement judge shall issue the award or sale decision, as the case may be, and send the same to the notary public to complete the transfer of ownership and make a notation to this effect into the register, or send the same to the issuing agency, and issue the title deeds if necessary. this shall not require the attendance of the enforcement parties before the notary public.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5345,
+    "source_ar": "53/6– إذا كان المباع – غير العقار – مما له سجل ملكية فتخاطب الجهة المختصة؛ لإجراء نقل الملكية.",
+    "target_en": "53.6 If the sold property, other than a real property, has a title deed, the relevant agency shall be addressed for completion of the transfer of ownership.",
+    "source_ar_norm": "53/6– اذا كان المباع – غير العقار – مما له سجل ملكية فتخاطب الجهة المختصة؛ لاجراء نقل الملكية.",
+    "target_en_norm": "53.6 if the sold property, other than a real property, has a title deed, the relevant agency shall be addressed for completion of the transfer of ownership.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5346,
+    "source_ar": "53/7– يتعين على شاغل العقار المباع إخلاؤه، إذا لم يكن مرتبطاً بعقد إيجار، فإن امتنع، أو لم يحضر، فيُعامل وفق ما ورد في المادة (الثانية والسبعين) من هذا النظام، ولوائحها التنفيذية.",
+    "target_en": "53.7 Any person occupying a sold real property must vacate such property, unless a lease exists. If said occupant refuses or fails to attend, he shall be subject to Article 72 of the Law and related provisions provided for herein.",
+    "source_ar_norm": "53/7– يتعين علي شاغل العقار المباع اخلاؤه، اذا لم يكن مرتبطا بعقد ايجار، فان امتنع، او لم يحضر، فيعامل وفق ما ورد في المادة (الثانية والسبعين) من هذا النظام، ولوائحها التنفيذية.",
+    "target_en_norm": "53.7 any person occupying a sold real property must vacate such property, unless a lease exists. if said occupant refuses or fails to attend, he shall be subject to article 72 of the law and related provisions provided for herein.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5347,
+    "source_ar": "53/8– يستلم المشتري المنقولات التي اشتراها، وتكون في ضمانه، ويلزمه نقلها من ساحة المزاد على نفقته.",
+    "target_en": "53.8 The buyer shall receive and be responsible for the sold movable property, and shall bear the cost of moving the same from the auction place.",
+    "source_ar_norm": "53/8– يستلم المشتري المنقولات التي اشتراها، وتكون في ضمانه، ويلزمه نقلها من ساحة المزاد علي نفقته.",
+    "target_en_norm": "53.8 the buyer shall receive and be responsible for the sold movable property, and shall bear the cost of moving the same from the auction place.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5348,
+    "source_ar": "(المادة الرابعة والخمسون)",
+    "target_en": "Article 54",
+    "source_ar_norm": "(المادة الرابعة والخمسون)",
+    "target_en_norm": "article 54",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5349,
+    "source_ar": "54/1– يكون التطهير في حق من تبلغ لشخصه أو وكيله، أو ثبت علمه بالمزاد، وذلك في الملكية والرهن، ويتعلق حقه بالقيمة على المدين.",
+    "target_en": "54.1 Clearance of title relating to ownership and pledge shall be effected against any party notified in person or through his agent, or proven to have knowledge of the auction. Such party shall have the right of recourse against the debtor.",
+    "source_ar_norm": "54/1– يكون التطهير في حق من تبلغ لشخصه او وكيله، او ثبت علمه بالمزاد، وذلك في الملكية والرهن، ويتعلق حقه بالقيمة علي المدين.",
+    "target_en_norm": "54.1 clearance of title relating to ownership and pledge shall be effected against any party notified in person or through his agent, or proven to have knowledge of the auction. such party shall have the right of recourse against the debtor.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5350,
+    "source_ar": "(المادة السادسة والخمسون)",
+    "target_en": "Article 56",
+    "source_ar_norm": "(المادة السادسة والخمسون)",
+    "target_en_norm": "article 56",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5351,
+    "source_ar": "56/1– الحسابات المذكورة في هذه المادة خاصة بأموال التنفيذ، ويشرف على إدارتها رئيس دائرة التنفيذ، أو قاضي التنفيذ – حسب الحال -.",
+    "target_en": "56.1 The accounts of enforcement funds stated in this Article shall be managed by the head of the enforcement circuit or the enforcement judge, as the case may be.",
+    "source_ar_norm": "56/1– الحسابات المذكورة في هذه المادة خاصة باموال التنفيذ، ويشرف علي ادارتها رئيس دائرة التنفيذ، او قاضي التنفيذ – حسب الحال -.",
+    "target_en_norm": "56.1 the accounts of enforcement funds stated in this article shall be managed by the head of the enforcement circuit or the enforcement judge, as the case may be.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5352,
+    "source_ar": "56/2– يتولى أمين حساب التنفيذ استلام المبالغ، والشبكات، والمعادن الثمينة، والأشياء النفيسة، وما في حكمها مما يمكن، إيداعه بسند استلام، ويقوم بإيداعها في حساب المحكمة الخاص بدائرة التنفيذ، أو خزينتها – حسب الحال – بموجب إيداع معتمد.",
+    "target_en": "56.2 The officer in charge of the enforcement account shall receive cash amounts, checks, precious metals, valuable items, and the like, which may be deposited against a receipt, and deposit the same in the court enforcement circuit’s bank account or its treasury, as the case may be, against a deposit receipt.",
+    "source_ar_norm": "56/2– يتولي امين حساب التنفيذ استلام المبالغ، والشبكات، والمعادن الثمينة، والاشياء النفيسة، وما في حكمها مما يمكن، ايداعه بسند استلام، ويقوم بايداعها في حساب المحكمة الخاص بدائرة التنفيذ، او خزينتها – حسب الحال – بموجب ايداع معتمد.",
+    "target_en_norm": "56.2 the officer in charge of the enforcement account shall receive cash amounts, checks, precious metals, valuable items, and the like, which may be deposited against a receipt, and deposit the same in the court enforcement circuit’s bank account or its treasury, as the case may be, against a deposit receipt.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5353,
+    "source_ar": "56/3– يكون السحب من الحساب بموجب شيكات تصرف للمستفيد الأول، على أن يدون في الشيك رقم قيد القضية، ويوقع عل الشيك رئيس دائرة التنفيذ، أو قاضي التنفيذ – حسب الحال - ، وأمين حساب التنفيذ، ويُوقع المستفيد على صورة الشيك بالاستلام، أو يودع في حسابه المبين في طلب التنفيذ، ويسجل أمين حساب التنفيذ الشيكات في السجل الخاص بذلك.",
+    "target_en": "56.3 Withdrawal from the account shall be effected by means of a check payable to the first beneficiary, provided that such check bears the case file number and is signed by the head of the enforcement circuit or the enforcement judge, as applicable, as well as the enforcement account officer. The beneficiary shall sign a copy of the check acknowledging receipt. Such check may be deposited in the account provided in the enforcement petition. The enforcement account officer shall record such checks in the relevant register.",
+    "source_ar_norm": "56/3– يكون السحب من الحساب بموجب شيكات تصرف للمستفيد الاول، علي ان يدون في الشيك رقم قيد القضية، ويوقع عل الشيك رئيس دائرة التنفيذ، او قاضي التنفيذ – حسب الحال - ، وامين حساب التنفيذ، ويوقع المستفيد علي صورة الشيك بالاستلام، او يودع في حسابه المبين في طلب التنفيذ، ويسجل امين حساب التنفيذ الشيكات في السجل الخاص بذلك.",
+    "target_en_norm": "56.3 withdrawal from the account shall be effected by means of a check payable to the first beneficiary, provided that such check bears the case file number and is signed by the head of the enforcement circuit or the enforcement judge, as applicable, as well as the enforcement account officer. the beneficiary shall sign a copy of the check acknowledging receipt. such check may be deposited in the account provided in the enforcement petition. the enforcement account officer shall record such checks in the relevant register.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5354,
+    "source_ar": "56/4– لا يجوز إصدار أي بطاقات السحب على حساب التنفيذ.",
+    "target_en": "56.4 No debit cards may be issued for enforcement accounts.",
+    "source_ar_norm": "56/4– لا يجوز اصدار اي بطاقات السحب علي حساب التنفيذ.",
+    "target_en_norm": "56.4 no debit cards may be issued for enforcement accounts.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5355,
+    "source_ar": "56/5– تُنشأ إدارة لحسابات محاكم، ودوائر التنفيذ في وكالة وزارة العدل لشؤون الحجز والتنفيذ، تكون من مهامها ما يأتي:",
+    "target_en": "56.5 A department for the accounts of enforcement courts and circuits shall be established in the Deputy Ministry of Justice for Attachment and Enforcement. The duties of said department shall include:",
+    "source_ar_norm": "56/5– تنشا ادارة لحسابات محاكم، ودوائر التنفيذ في وكالة وزارة العدل لشؤون الحجز والتنفيذ، تكون من مهامها ما ياتي:",
+    "target_en_norm": "56.5 a department for the accounts of enforcement courts and circuits shall be established in the deputy ministry of justice for attachment and enforcement. the duties of said department shall include:",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5356,
+    "source_ar": "أ - تدقيق جميع بيانات الوارد، والمنصرف، وسنداتها التي ترد إليها، وإصدار التقارير لها.",
+    "target_en": "auditing data relating to received and disbursed amounts and vouchers thereof and issuing relevant reports;",
+    "source_ar_norm": "ا - تدقيق جميع بيانات الوارد، والمنصرف، وسنداتها التي ترد اليها، واصدار التقارير لها.",
+    "target_en_norm": "auditing data relating to received and disbursed amounts and vouchers thereof and issuing relevant reports;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5357,
+    "source_ar": "ب – متابعة تبليغ أمناء الحسابات في المحاكم بالتعاميم المتعلقة بأعمالهم.",
+    "target_en": "ensuring that relevant circulars are communicated to the treasurers of court accounts;",
+    "source_ar_norm": "ب – متابعة تبليغ امناء الحسابات في المحاكم بالتعاميم المتعلقة باعمالهم.",
+    "target_en_norm": "ensuring that relevant circulars are communicated to the treasurers of court accounts;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5358,
+    "source_ar": "ج – تلقي الاستفسارات، والإشكالات التي تعترض عمل الحسابات.",
+    "target_en": "receiving inquiries and complaints relating to the accounts; and",
+    "source_ar_norm": "ج – تلقي الاستفسارات، والاشكالات التي تعترض عمل الحسابات.",
+    "target_en_norm": "receiving inquiries and complaints relating to the accounts; and",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5359,
+    "source_ar": "د – تدريب العاملين على إدارة الحسابات، ورفع مستوى أدائهم.",
+    "target_en": "training the staff managing such accounts and improving their performance.",
+    "source_ar_norm": "د – تدريب العاملين علي ادارة الحسابات، ورفع مستوي ادائهم.",
+    "target_en_norm": "training the staff managing such accounts and improving their performance.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5360,
+    "source_ar": "الفصل الثالث توزيع حصيلة التنفيذ",
+    "target_en": "Chapter 3: Distribution of Enforcement Proceeds",
+    "source_ar_norm": "الفصل الثالث توزيع حصيلة التنفيذ",
+    "target_en_norm": "chapter 3: distribution of enforcement proceeds",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5361,
+    "source_ar": "(المادة السابعة والخمسون)",
+    "target_en": "Article 57",
+    "source_ar_norm": "(المادة السابعة والخمسون)",
+    "target_en_norm": "article 57",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5362,
+    "source_ar": "57/1– الذي يُعدّ طرفاً في الإجراءات هو من استحق مالاً بسبب إجراءات الحجز أو التنفيذ، كوكيل البيع القضائي، والحارس القضائي، والخازن القضائي، ونحوهم.",
+    "target_en": "57.1 A party involved in the proceedings is a person entitled to be paid as a result of attachment or enforcement proceedings, such as the administrator, receiver, custodian, and the like.",
+    "source_ar_norm": "57/1– الذي يعد طرفا في الاجراءات هو من استحق مالا بسبب اجراءات الحجز او التنفيذ، كوكيل البيع القضائي، والحارس القضائي، والخازن القضائي، ونحوهم.",
+    "target_en_norm": "57.1 a party involved in the proceedings is a person entitled to be paid as a result of attachment or enforcement proceedings, such as the administrator, receiver, custodian, and the like.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5363,
+    "source_ar": "57/2– تقدم مصروفات الحجز والتنفيذ على حقوق الدائنين الحاجزين عند توزيع الحصيلة، ولا تدخل في المحاصة.",
+    "target_en": "57.2 Attachment and enforcement expenses shall have priority over rights of attaching creditors in the distribution of proceeds. Such expenses shall not be included in the allocated shares.",
+    "source_ar_norm": "57/2– تقدم مصروفات الحجز والتنفيذ علي حقوق الدائنين الحاجزين عند توزيع الحصيلة، ولا تدخل في المحاصة.",
+    "target_en_norm": "57.2 attachment and enforcement expenses shall have priority over rights of attaching creditors in the distribution of proceeds. such expenses shall not be included in the allocated shares.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5364,
+    "source_ar": "57/3– تُوزع حصيلة التنفيذ، وتسلم لمستحقيها بموجب محضر يوقعه القاضي، ومأمور التنفيذ، والمستلم.",
+    "target_en": "57.3 Enforcement proceeds shall be distributed and delivered to the beneficiaries pursuant to a report signed by the judge, enforcement officer, and beneficiary.",
+    "source_ar_norm": "57/3– توزع حصيلة التنفيذ، وتسلم لمستحقيها بموجب محضر يوقعه القاضي، ومامور التنفيذ، والمستلم.",
+    "target_en_norm": "57.3 enforcement proceeds shall be distributed and delivered to the beneficiaries pursuant to a report signed by the judge, enforcement officer, and beneficiary.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5365,
+    "source_ar": "57/4– إذا كان توزيع الحصيلة نتيجة تصفية مساهمة، أو شركة، أو توظيف أموال، وتضمنت أوراق المعاملة أسماء المساهمين، أو الشركاء، ولم يطالب بعضهم بالتنفيذ، وكانت الحصيلة لا تكفي لتوزيع الاستحقاق فيعلن بالطريقة التي يحددها القاضي، فإذا مضت مدة ستين يوماً، فيقصر توزيع الحصيلة على من تقدم بطلب التنفيذ.",
+    "target_en": "57.4 If distribution of proceeds is the result of liquidation of a shareholding company, partnership, or investment firm, and the case file includes the names of shareholders or partners, and some of whom did not file a petition for enforcement, and the proceeds are insufficient, an announcement to this effect shall be made in the manner determined by the judge. If a period of 60 days lapses, the distribution of proceeds shall be limited to the parties who filed a petition for enforcement.",
+    "source_ar_norm": "57/4– اذا كان توزيع الحصيلة نتيجة تصفية مساهمة، او شركة، او توظيف اموال، وتضمنت اوراق المعاملة اسماء المساهمين، او الشركاء، ولم يطالب بعضهم بالتنفيذ، وكانت الحصيلة لا تكفي لتوزيع الاستحقاق فيعلن بالطريقة التي يحددها القاضي، فاذا مضت مدة ستين يوما، فيقصر توزيع الحصيلة علي من تقدم بطلب التنفيذ.",
+    "target_en_norm": "57.4 if distribution of proceeds is the result of liquidation of a shareholding company, partnership, or investment firm, and the case file includes the names of shareholders or partners, and some of whom did not file a petition for enforcement, and the proceeds are insufficient, an announcement to this effect shall be made in the manner determined by the judge. if a period of 60 days lapses, the distribution of proceeds shall be limited to the parties who filed a petition for enforcement.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5366,
+    "source_ar": "(المادة الثامنة والخمسون)",
+    "target_en": "Article 58",
+    "source_ar_norm": "(المادة الثامنة والخمسون)",
+    "target_en_norm": "article 58",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5367,
+    "source_ar": "58/1– إذا كان من ضمن الدائنين قاصرا، أو وقف، ومن في حكمهما، فيجب أن لا يقل نصيب كل منهم في الاتفاق عن قدر حصته عند المحاصة.",
+    "target_en": "58.1 If the creditors include a minor, an endowment, or the like, the share of each of them in the agreement may not be less than their allocated share.",
+    "source_ar_norm": "58/1– اذا كان من ضمن الدائنين قاصرا، او وقف، ومن في حكمهما، فيجب ان لا يقل نصيب كل منهم في الاتفاق عن قدر حصته عند المحاصة.",
+    "target_en_norm": "58.1 if the creditors include a minor, an endowment, or the like, the share of each of them in the agreement may not be less than their allocated share.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5368,
+    "source_ar": "(المادة التاسعة والخمسون)",
+    "target_en": "Article 59",
+    "source_ar_norm": "(المادة التاسعة والخمسون)",
+    "target_en_norm": "article 59",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5369,
+    "source_ar": "59/1– إذا كانت العين مرهونة، والدين لم يحل، وكانت قيمة الرهن أكثر من الدين، وبيع الرهن لسداد حقوق الدائنين الآخرين، فبعد بيعه، يُسلم للمرتهن حقه، ما لم يرغب المدين نقل الرهن إلى عين أخرى، فينقل بناءً على قرار من قاضي التنفيذ، ويمهل المدين لنقل الرهن مدة يقدرها القاضي، على ألا تزيد على ستة أشهر، وإلا سُلّم المرتهن حقه.",
+    "target_en": "59.1 If the asset is pledged, the debt is not due, the value of the pledge exceeds the amount of the debt, and the pledge is sold to pay the debts of other creditors, the pledgee shall, upon the sale of the pledge, receive his due amount, unless the debtor wishes to transfer the pledge to another asset; in such case, the transfer shall be effectuated pursuant to a decision by the enforcement judge. The judge shall, at his discretion, grant the debtor a grace period not exceeding six months to complete the transfer of the pledge; otherwise, the pledgee shall receive his due amount.",
+    "source_ar_norm": "59/1– اذا كانت العين مرهونة، والدين لم يحل، وكانت قيمة الرهن اكثر من الدين، وبيع الرهن لسداد حقوق الدائنين الاخرين، فبعد بيعه، يسلم للمرتهن حقه، ما لم يرغب المدين نقل الرهن الي عين اخري، فينقل بناء علي قرار من قاضي التنفيذ، ويمهل المدين لنقل الرهن مدة يقدرها القاضي، علي الا تزيد علي ستة اشهر، والا سلم المرتهن حقه.",
+    "target_en_norm": "59.1 if the asset is pledged, the debt is not due, the value of the pledge exceeds the amount of the debt, and the pledge is sold to pay the debts of other creditors, the pledgee shall, upon the sale of the pledge, receive his due amount, unless the debtor wishes to transfer the pledge to another asset; in such case, the transfer shall be effectuated pursuant to a decision by the enforcement judge. the judge shall, at his discretion, grant the debtor a grace period not exceeding six months to complete the transfer of the pledge; otherwise, the pledgee shall receive his due amount.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5370,
+    "source_ar": "الفصل الرابع حجز ما للمدين لدى الغير",
+    "target_en": "Chapter 4: Garnishment",
+    "source_ar_norm": "الفصل الرابع حجز ما للمدين لدي الغير",
+    "target_en_norm": "chapter 4: garnishment",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5371,
+    "source_ar": "(المادة الستون)",
+    "target_en": "Article 60",
+    "source_ar_norm": "(المادة الستون)",
+    "target_en_norm": "article 60",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5372,
+    "source_ar": "60/1– يجب على قاضي التنفيذ تغيير حسابات الودائع لأجل إلى ودائع استثمارية مباحة شرعاً.",
+    "target_en": "60.1 The enforcement judge shall change term deposit accounts to Sharia-compliant investment deposits.",
+    "source_ar_norm": "60/1– يجب علي قاضي التنفيذ تغيير حسابات الودائع لاجل الي ودائع استثمارية مباحة شرعا.",
+    "target_en_norm": "60.1 the enforcement judge shall change term deposit accounts to sharia-compliant investment deposits.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5373,
+    "source_ar": "60/2– على جهة عمل المدين، والمنشأة المالية المحجوز لديها، عدم السماح للمدين بنقل إيداع راتبه الشهري، ومستحقاته المالية إلى منشأة مالية جديدة، إلا بإذن من قاضي التنفيذ.",
+    "target_en": "60.2 The debtor's employer and financial institution in possession of the garnished funds shall not allow the debtor to transfer his monthly salary and financial entitlements to another financial institution without permission from the enforcement judge.",
+    "source_ar_norm": "60/2– علي جهة عمل المدين، والمنشاة المالية المحجوز لديها، عدم السماح للمدين بنقل ايداع راتبه الشهري، ومستحقاته المالية الي منشاة مالية جديدة، الا باذن من قاضي التنفيذ.",
+    "target_en_norm": "60.2 the debtor's employer and financial institution in possession of the garnished funds shall not allow the debtor to transfer his monthly salary and financial entitlements to another financial institution without permission from the enforcement judge.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5374,
+    "source_ar": "(المادة الثانية والستون)",
+    "target_en": "Article 62",
+    "source_ar_norm": "(المادة الثانية والستون)",
+    "target_en_norm": "article 62",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5375,
+    "source_ar": "62/1– يتم تحصيل قيمة الشيك المحجوز، أو المتوافر منها، بناءً على أمر يوجهه قاضي التنفيذ للبند المسحوب عليه.",
+    "target_en": "62.1 The amount of a garnished check, or available portion thereof, shall be collected pursuant to an order issued by the enforcement judge to the drawee bank.",
+    "source_ar_norm": "62/1– يتم تحصيل قيمة الشيك المحجوز، او المتوافر منها، بناء علي امر يوجهه قاضي التنفيذ للبند المسحوب عليه.",
+    "target_en_norm": "62.1 the amount of a garnished check, or available portion thereof, shall be collected pursuant to an order issued by the enforcement judge to the drawee bank.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5376,
+    "source_ar": "62/2– إذا حصل نزاع في تاريخ واقعة تظهير الشيك، فتعد منازعة تنفيذ.",
+    "target_en": "62.2 A dispute concerning a check endorsement date shall be deemed an enforcement dispute.",
+    "source_ar_norm": "62/2– اذا حصل نزاع في تاريخ واقعة تظهير الشيك، فتعد منازعة تنفيذ.",
+    "target_en_norm": "62.2 a dispute concerning a check endorsement date shall be deemed an enforcement dispute.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5377,
+    "source_ar": "62/3– التفويض المذكورة في الفقرة (3) من هذه المادة، يون بقرار، يصدره قاضي التنفيذ لهذا الغرض.",
+    "target_en": "62.3 The subrogation provided for in paragraph (3) of this Article shall be pursuant to a decision issued by the enforcement judge.",
+    "source_ar_norm": "62/3– التفويض المذكورة في الفقرة (3) من هذه المادة، يون بقرار، يصدره قاضي التنفيذ لهذا الغرض.",
+    "target_en_norm": "62.3 the subrogation provided for in paragraph (3) of this article shall be pursuant to a decision issued by the enforcement judge.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5378,
+    "source_ar": "(المادة الثالثة والستون)",
+    "target_en": "Article 63",
+    "source_ar_norm": "(المادة الثالثة والستون)",
+    "target_en_norm": "article 63",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5379,
+    "source_ar": "63/1– المودع من المنقول، والعقار المشار إليه في المادة، هو ثمنه بعد بيعه.",
+    "target_en": "63.1 The deposited movables and real estate referred to in this Article shall be the sale price thereof.",
+    "source_ar_norm": "63/1– المودع من المنقول، والعقار المشار اليه في المادة، هو ثمنه بعد بيعه.",
+    "target_en_norm": "63.1 the deposited movables and real estate referred to in this article shall be the sale price thereof.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5380,
+    "source_ar": "(المادة الرابعة والستون)",
+    "target_en": "Article 64",
+    "source_ar_norm": "(المادة الرابعة والستون)",
+    "target_en_norm": "article 64",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5381,
+    "source_ar": "64/1– للدائن التقدم بطلب الحج على أصل الملكية الفكرية، أو غلتها التي لدى المحجوز عليه، أو غيره.",
+    "target_en": "64.1 The creditor may request attachment of the asset of the intellectual property or proceeds thereof in the possession of the defendant or a third party.",
+    "source_ar_norm": "64/1– للدائن التقدم بطلب الحج علي اصل الملكية الفكرية، او غلتها التي لدي المحجوز عليه، او غيره.",
+    "target_en_norm": "64.1 the creditor may request attachment of the asset of the intellectual property or proceeds thereof in the possession of the defendant or a third party.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5382,
+    "source_ar": "67/1– عند تصرف الجهات الحكومية المحجوز لديها في الأموال المحجوزة بخلاف أمر قاضي التنفيذ، فلطالب التنفيذ المطالبة بالتضمين أمام الجهة المختصة.",
+    "target_en": "67.1 If a government agency in possession of garnished funds disposes of the same in a manner contrary to the enforcement judge's order, the party seeking enforcement may file for damages before the relevant agency.",
+    "source_ar_norm": "67/1– عند تصرف الجهات الحكومية المحجوز لديها في الاموال المحجوزة بخلاف امر قاضي التنفيذ، فلطالب التنفيذ المطالبة بالتضمين امام الجهة المختصة.",
+    "target_en_norm": "67.1 if a government agency in possession of garnished funds disposes of the same in a manner contrary to the enforcement judge's order, the party seeking enforcement may file for damages before the relevant agency.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5383,
+    "source_ar": "الباب الرابع الفصل الأول التنفيذ المباشر",
+    "target_en": "Part 4 Chapter 1: Direct Execution",
+    "source_ar_norm": "الباب الرابع الفصل الاول التنفيذ المباشر",
+    "target_en_norm": "part 4 chapter 1: direct execution",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5384,
+    "source_ar": "(المادة الثامنة والستون)",
+    "target_en": "Article 68",
+    "source_ar_norm": "(المادة الثامنة والستون)",
+    "target_en_norm": "article 68",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5385,
+    "source_ar": "68/1– يدخل في حكم هذه المادة، كل فعل، أو امتناع عن فعل، لا يستعاض عن تنفيذه بالتنفيذ على المال، ويمكن القيام به جبراً بوساطة القوة المختصة، ولا يستلزم أن يقوم به المنفذ ضده بنفسه، كحبس منافع العين المؤجرة عن المستأجر، وحبس السيل عن مزرعة جاره، وفتح طريق، أو إغلاقه، وإخلاء عقار، وعدم التعرض للحيازة، أو لا يمكن القيام به جبراً بوساطة القوة المختصة، ويستلزم أن يقوم به المنفذ ضده بنفسه، كتسليم الصغير لحاضنه عند إخفائه، وتسليم الوثائق التي أخفاها، وامتناع ذي الحرفة عن التكسب بعد صدور حكم عليه بإلزامه بالتكسب لوفاء دينه، أو امتناع ذي الامتياز مما لا يقوم به غيره عن القيام بما يجب عليه، كامتناع إيصال خدمة لا تقدم إلا بوساطة تلك الجهة.",
+    "target_en": "68.1 The provisions of this Article shall include any act or omission the enforcement of which cannot be substituted by enforcement against the asset, and can be forcibly carried out, and does not require the party subject to enforcement to carry it out by himself; such as depriving the lessor from the benefits of a leased property, depriving a neighboring farm from water streams, opening or blocking a road, eviction of a real property and the non-disturbance of possession; or which cannot be forcibly carried out and requires the party subject to enforcement to carry it out by himself, such as handing over a child unlawfully taken away to his guardian, surrendering concealed documents, abstention of a professional from working after the issuance of a sentence ordering him to do so in order to satisfy his debt, or abstention of a service provider from providing a service which cannot be rendered by another provider.",
+    "source_ar_norm": "68/1– يدخل في حكم هذه المادة، كل فعل، او امتناع عن فعل، لا يستعاض عن تنفيذه بالتنفيذ علي المال، ويمكن القيام به جبرا بوساطة القوة المختصة، ولا يستلزم ان يقوم به المنفذ ضده بنفسه، كحبس منافع العين المؤجرة عن المستاجر، وحبس السيل عن مزرعة جاره، وفتح طريق، او اغلاقه، واخلاء عقار، وعدم التعرض للحيازة، او لا يمكن القيام به جبرا بوساطة القوة المختصة، ويستلزم ان يقوم به المنفذ ضده بنفسه، كتسليم الصغير لحاضنه عند اخفائه، وتسليم الوثائق التي اخفاها، وامتناع ذي الحرفة عن التكسب بعد صدور حكم عليه بالزامه بالتكسب لوفاء دينه، او امتناع ذي الامتياز مما لا يقوم به غيره عن القيام بما يجب عليه، كامتناع ايصال خدمة لا تقدم الا بوساطة تلك الجهة.",
+    "target_en_norm": "68.1 the provisions of this article shall include any act or omission the enforcement of which cannot be substituted by enforcement against the asset, and can be forcibly carried out, and does not require the party subject to enforcement to carry it out by himself; such as depriving the lessor from the benefits of a leased property, depriving a neighboring farm from water streams, opening or blocking a road, eviction of a real property and the non-disturbance of possession; or which cannot be forcibly carried out and requires the party subject to enforcement to carry it out by himself, such as handing over a child unlawfully taken away to his guardian, surrendering concealed documents, abstention of a professional from working after the issuance of a sentence ordering him to do so in order to satisfy his debt, or abstention of a service provider from providing a service which cannot be rendered by another provider.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5386,
+    "source_ar": "68/2– كل فعل، أو امتناع عن فعل أمكن تنفيذه على المنفذ ضده بتكليف غيره بإتمامه، كالمقاولات، ونحوها، أو أمكن الخروج منه بغير فعل من المنفذ ضده، كالفسوخ، فلا يدخل في حكم هذه المادة.",
+    "target_en": "68.2 This Article shall not apply to any act or omission which can be enforced against the party subject to enforcement through the assignment of a third party, such as constructions, and the like, or which can be ended without an act on the part of the party subject to enforcement, such as terminations.",
+    "source_ar_norm": "68/2– كل فعل، او امتناع عن فعل امكن تنفيذه علي المنفذ ضده بتكليف غيره باتمامه، كالمقاولات، ونحوها، او امكن الخروج منه بغير فعل من المنفذ ضده، كالفسوخ، فلا يدخل في حكم هذه المادة.",
+    "target_en_norm": "68.2 this article shall not apply to any act or omission which can be enforced against the party subject to enforcement through the assignment of a third party, such as constructions, and the like, or which can be ended without an act on the part of the party subject to enforcement, such as terminations.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5387,
+    "source_ar": "(المادة التاسعة والستون)",
+    "target_en": "Article 69",
+    "source_ar_norm": "(المادة التاسعة والستون)",
+    "target_en_norm": "article 69",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5388,
+    "source_ar": "69/1– تستوفي الغرامة المالية، وفق إجراءات هذا النظام، وتودع في خزينة الدولة، بعد انتهاء إجراءات التنفيذ، ولا تلغى الغرامة بعد ايداعها في خزينة الدولة.",
+    "target_en": "69.1 Fines shall be levied in accordance with this Law and deposited in the State treasury upon completion of enforcement proceedings. Fines cannot be refunded once deposited in the State treasury.",
+    "source_ar_norm": "69/1– تستوفي الغرامة المالية، وفق اجراءات هذا النظام، وتودع في خزينة الدولة، بعد انتهاء اجراءات التنفيذ، ولا تلغي الغرامة بعد ايداعها في خزينة الدولة.",
+    "target_en_norm": "69.1 fines shall be levied in accordance with this law and deposited in the state treasury upon completion of enforcement proceedings. fines cannot be refunded once deposited in the state treasury.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5389,
+    "source_ar": "(المادة السبعون)",
+    "target_en": "Article 70",
+    "source_ar_norm": "(المادة السبعون)",
+    "target_en_norm": "article 70",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5390,
+    "source_ar": "70/1– يعرض السجين على قاضي التنفيذ كل ثلاثة أشهر، وعلى إدارة السجن، إحضاره إلى قاضي التنفيذ فوراً، متى استعد للتنفيذ.",
+    "target_en": "70.1 The prisoner shall be brought before the enforcement judge every three months. The prison administration shall immediately bring the prisoner before the enforcement judge when he is ready to satisfy his debt.",
+    "source_ar_norm": "70/1– يعرض السجين علي قاضي التنفيذ كل ثلاثة اشهر، وعلي ادارة السجن، احضاره الي قاضي التنفيذ فورا، متي استعد للتنفيذ.",
+    "target_en_norm": "70.1 the prisoner shall be brought before the enforcement judge every three months. the prison administration shall immediately bring the prisoner before the enforcement judge when he is ready to satisfy his debt.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5391,
+    "source_ar": "(المادة الحادية والسبعون)",
+    "target_en": "Article 71",
+    "source_ar_norm": "(المادة الحادية والسبعون)",
+    "target_en_norm": "article 71",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5392,
+    "source_ar": "71/1– يقصد بالممثل النظامي للشخص المعنوي الخاص، من خوله نظام المنشأة، أو عقدها التأسيسي صلاحية التصرف في الموضوع محل التنفيذ، كرئيس مجلس الإدارة، أو المدير التنفيذي.",
+    "target_en": "71.1 The legal representative of a private corporate person means any person authorized under the firm’s articles of incorporation or articles of association to take action relating to the subject matter of enforcement, such as the chairman of the board of directors or the chief executive officer.",
+    "source_ar_norm": "71/1– يقصد بالممثل النظامي للشخص المعنوي الخاص، من خوله نظام المنشاة، او عقدها التاسيسي صلاحية التصرف في الموضوع محل التنفيذ، كرئيس مجلس الادارة، او المدير التنفيذي.",
+    "target_en_norm": "71.1 the legal representative of a private corporate person means any person authorized under the firm’s articles of incorporation or articles of association to take action relating to the subject matter of enforcement, such as the chairman of the board of directors or the chief executive officer.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5393,
+    "source_ar": "71/2– يقرر القاضي سري عليه أحكام التنفيذ المباشر، سواء أكان الممثل النظامي، أم المتسبب في الإعاقة، أم كليهما بحسب الحال.",
+    "target_en": "71.2 The judge shall determine the persons against whom the provisions of direct enforcement shall apply, whether the legal representative or the person who caused the impediment or both, as the case may be.",
+    "source_ar_norm": "71/2– يقرر القاضي سري عليه احكام التنفيذ المباشر، سواء اكان الممثل النظامي، ام المتسبب في الاعاقة، ام كليهما بحسب الحال.",
+    "target_en_norm": "71.2 the judge shall determine the persons against whom the provisions of direct enforcement shall apply, whether the legal representative or the person who caused the impediment or both, as the case may be.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5394,
+    "source_ar": "(المادة الثانية والسبعون)",
+    "target_en": "Article 72",
+    "source_ar_norm": "(المادة الثانية والسبعون)",
+    "target_en_norm": "article 72",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5395,
+    "source_ar": "72/1– للقاضي عند الضرورة، تأجيل البدء بإخلاء العقار، على أن لا يتجاوز ذلك ثلاثين يوماً.",
+    "target_en": "72.1 The judge may, if necessary, postpone the real property eviction for a period not exceeding 30 days.",
+    "source_ar_norm": "72/1– للقاضي عند الضرورة، تاجيل البدء باخلاء العقار، علي ان لا يتجاوز ذلك ثلاثين يوما.",
+    "target_en_norm": "72.1 the judge may, if necessary, postpone the real property eviction for a period not exceeding 30 days.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5396,
+    "source_ar": "72/2– يوضع إعلان على مدخل العقار المقرر إخلاؤه، قبل موعد الإخلاء بخمسة أيام، ويضمن الإعلان موعد الإخلاء، وفصل الخدمات.",
+    "target_en": "72.2 An announcement shall be posted at the entrance of the real property to be evicted five days prior to the date of eviction. Such announcement shall contain the date of eviction and disconnection of utilities.",
+    "source_ar_norm": "72/2– يوضع اعلان علي مدخل العقار المقرر اخلاؤه، قبل موعد الاخلاء بخمسة ايام، ويضمن الاعلان موعد الاخلاء، وفصل الخدمات.",
+    "target_en_norm": "72.2 an announcement shall be posted at the entrance of the real property to be evicted five days prior to the date of eviction. such announcement shall contain the date of eviction and disconnection of utilities.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5397,
+    "source_ar": "72/3– التنفيذ بإخلاء العقار المشغول بمنشأة تتعلق بها حقوق غير الحائز، كالمدارس، والمصانع، والمستشفيات، وما في حكم ذلك، يكون بعد إشعار الجهة المشرفة على تلك المنشأة بموعد الإخلاء الذي يحدده القاضي؛ لتباشر ما يتعلق بها.",
+    "target_en": "72.3 Enforcement by eviction from a real property occupied by an establishment entailing rights for parties other than the possessor thereof, such as schools, factories, hospitals, and the like shall be made after notifying the entity overseeing such establishment of the eviction date set by the judge to take necessary action.",
+    "source_ar_norm": "72/3– التنفيذ باخلاء العقار المشغول بمنشاة تتعلق بها حقوق غير الحائز، كالمدارس، والمصانع، والمستشفيات، وما في حكم ذلك، يكون بعد اشعار الجهة المشرفة علي تلك المنشاة بموعد الاخلاء الذي يحدده القاضي؛ لتباشر ما يتعلق بها.",
+    "target_en_norm": "72.3 enforcement by eviction from a real property occupied by an establishment entailing rights for parties other than the possessor thereof, such as schools, factories, hospitals, and the like shall be made after notifying the entity overseeing such establishment of the eviction date set by the judge to take necessary action.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5398,
+    "source_ar": "72/4– للقاضي عند الاقتضاء، الاستعانة بالخبراء، لإنهاء إجراءات الإخلاء، ويتحمل المنفذ ضده، دفع الأجرة لهم، بعد تقديرها من قبل القاضي.",
+    "target_en": "72.4 The judge may, if necessary, seek the assistance of experts to execute the eviction, and the party against whom enforcement is made shall pay their fees as determined by the judge.",
+    "source_ar_norm": "72/4– للقاضي عند الاقتضاء، الاستعانة بالخبراء، لانهاء اجراءات الاخلاء، ويتحمل المنفذ ضده، دفع الاجرة لهم، بعد تقديرها من قبل القاضي.",
+    "target_en_norm": "72.4 the judge may, if necessary, seek the assistance of experts to execute the eviction, and the party against whom enforcement is made shall pay their fees as determined by the judge.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5399,
+    "source_ar": "72/5– يراعي عند دخول المساكن التي فيها نساء، أو أطفال، الضوابط الشرعية، وتسهيل مغادرتهم، بما لا يعرقل إجراءات التنفيذ، ويكون التنفيذ في هذه الحال، بحضور القوة المختصة.",
+    "target_en": "72.5 Sharia rules shall be observed when entering homes where women and children are present. Said women and children shall be allowed to leave in a manner that does not impede enforcement. In such case, enforcement shall be in the presence of relevant law enforcement officers.",
+    "source_ar_norm": "72/5– يراعي عند دخول المساكن التي فيها نساء، او اطفال، الضوابط الشرعية، وتسهيل مغادرتهم، بما لا يعرقل اجراءات التنفيذ، ويكون التنفيذ في هذه الحال، بحضور القوة المختصة.",
+    "target_en_norm": "72.5 sharia rules shall be observed when entering homes where women and children are present. said women and children shall be allowed to leave in a manner that does not impede enforcement. in such case, enforcement shall be in the presence of relevant law enforcement officers.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5400,
+    "source_ar": "72/6– يحرر مأمور التنفيذ محضراً بإخلاء العقار.",
+    "target_en": "72.6 The enforcement officer shall draft a report on the eviction of the real properly.",
+    "source_ar_norm": "72/6– يحرر مامور التنفيذ محضرا باخلاء العقار.",
+    "target_en_norm": "72.6 the enforcement officer shall draft a report on the eviction of the real properly.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  }
+]

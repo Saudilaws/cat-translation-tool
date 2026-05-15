@@ -1,0 +1,802 @@
+[
+  {
+    "id": 701,
+    "source_ar": "ب - تسهيل الإجراءات الإدارية والتوعية بها، وإتاحتها للراغبين، وعدم اللجوء إلى السرية إلا فيما يتعلق بالمعلومات التي تمس السيادة والأمن الوطني.",
+    "target_en": "b) Simplify and raise awareness of administrative procedures, make them available to those interested, and not resort to the principle of confidentiality, except in cases where sovereignty and national security are compromised.",
+    "source_ar_norm": "ب - تسهيل الاجراءات الادارية والتوعية بها، واتاحتها للراغبين، وعدم اللجوء الي السرية الا فيما يتعلق بالمعلومات التي تمس السيادة والامن الوطني.",
+    "target_en_norm": "b) simplify and raise awareness of administrative procedures, make them available to those interested, and not resort to the principle of confidentiality, except in cases where sovereignty and national security are compromised.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 702,
+    "source_ar": "ج - وضع نظام لحماية المال العام.",
+    "target_en": "c) Enact laws to protect public property.",
+    "source_ar_norm": "ج - وضع نظام لحماية المال العام.",
+    "target_en_norm": "c) enact laws to protect public property.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 703,
+    "source_ar": "د - توضيح إجراءات عقود مشتريات الحكومة والمؤسسات العامة والشركات المساهمة، وإعطاء الجمهور والمؤسسات المدنية ووسائل الإعلام حق الاطلاع عليها ونقدها.",
+    "target_en": "d) Explain procurement contract procedures of government agencies, public corporations, and joint stock companies, and allow the public, civil institutions, and the media to access and criticize them.",
+    "source_ar_norm": "د - توضيح اجراءات عقود مشتريات الحكومة والمؤسسات العامة والشركات المساهمة، واعطاء الجمهور والمؤسسات المدنية ووسائل الاعلام حق الاطلاع عليها ونقدها.",
+    "target_en_norm": "d) explain procurement contract procedures of government agencies, public corporations, and joint stock companies, and allow the public, civil institutions, and the media to access and criticize them.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 704,
+    "source_ar": "هـ - كفالة حرية تداول المعلومات عن شؤون الفساد بين عامة الجمهور ووسائل الإعلام.",
+    "target_en": "e) Respect the right of the public and the media to disseminate information on issues relating to corruption.",
+    "source_ar_norm": "ه - كفالة حرية تداول المعلومات عن شؤون الفساد بين عامة الجمهور ووسائل الاعلام.",
+    "target_en_norm": "e) respect the right of the public and the media to disseminate information on issues relating to corruption.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 705,
+    "source_ar": "مشاركة مؤسسات المجتمع المدني في حماية النزاهة ومكافحة الفساد عن طريق ما يلي:",
+    "target_en": "4 - Involve civil society institutions in maintaining integrity and combating corruption, as follows:",
+    "source_ar_norm": "مشاركة مؤسسات المجتمع المدني في حماية النزاهة ومكافحة الفساد عن طريق ما يلي:",
+    "target_en_norm": "4 - involve civil society institutions in maintaining integrity and combating corruption, as follows:",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 706,
+    "source_ar": "أ - إشراك بعض منسوبي هذه المؤسسات في اللجنة الوطنية لمكافحة الفساد المقترحة.",
+    "target_en": "a) Engage some members from such institutions in the proposed national committee for combating corruption.",
+    "source_ar_norm": "ا - اشراك بعض منسوبي هذه المؤسسات في اللجنة الوطنية لمكافحة الفساد المقترحة.",
+    "target_en_norm": "a) engage some members from such institutions in the proposed national committee for combating corruption.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 707,
+    "source_ar": "ب -إشراك هذه المؤسسات \"حسب اختصاصها\" في دراسة ظاهرة الفساد وإبداء ما لديها من مرئيات ومقترحات تمكن من الحد منه.",
+    "target_en": "b) Engage such institutions, based on their jurisdiction, in the study of corruption and allow them to provide opinions and suggestions to curb it.",
+    "source_ar_norm": "ب -اشراك هذه المؤسسات \"حسب اختصاصها\" في دراسة ظاهرة الفساد وابداء ما لديها من مرئيات ومقترحات تمكن من الحد منه.",
+    "target_en_norm": "b) engage such institutions, based on their jurisdiction, in the study of corruption and allow them to provide opinions and suggestions to curb it.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 708,
+    "source_ar": "ج -حث الهيئات المهنية والأكاديمية كالأطباء والمحامين والمهندسين والمحاسبين على إبداء مرئياتهم حول الأنظمة (الرقابية والمالية والإدارية) وتقديم مقترحاتهم حيال تطويرها وتحديثها.",
+    "target_en": "c) Urge professional and academic associations, such as those of physicians, lawyers, engineers and accountants to express opinions regarding monitoring, financial and administrative laws and provide suggestions for development and modification of such laws.",
+    "source_ar_norm": "ج -حث الهيئات المهنية والاكاديمية كالاطباء والمحامين والمهندسين والمحاسبين علي ابداء مرئياتهم حول الانظمة (الرقابية والمالية والادارية) وتقديم مقترحاتهم حيال تطويرها وتحديثها.",
+    "target_en_norm": "c) urge professional and academic associations, such as those of physicians, lawyers, engineers and accountants to express opinions regarding monitoring, financial and administrative laws and provide suggestions for development and modification of such laws.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 709,
+    "source_ar": "د - حث الغرف التجارية والصناعية على إعداد خطط وبرامج لتوعية رجال الأعمال والتجار بمخاطر الفساد وأسبابه وآثاره، وإيضاح مرئياتهم حيال الأنظمة المالية والتجارية.",
+    "target_en": "d) Urge the chambers of commerce and industry to devise plans and programs to raise the awareness of businessmen and merchants about the dangers, causes and effects of corruption and encourage them to express their views on financial and commercial laws.",
+    "source_ar_norm": "د - حث الغرف التجارية والصناعية علي اعداد خطط وبرامج لتوعية رجال الاعمال والتجار بمخاطر الفساد واسبابه واثاره، وايضاح مرئياتهم حيال الانظمة المالية والتجارية.",
+    "target_en_norm": "d) urge the chambers of commerce and industry to devise plans and programs to raise the awareness of businessmen and merchants about the dangers, causes and effects of corruption and encourage them to express their views on financial and commercial laws.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 710,
+    "source_ar": "توعية الجمهور وتعزيز السلوك الأخلاقي عن طريق ما يلي:",
+    "target_en": "Educate the public and reinforce ethical conduct, through the following:",
+    "source_ar_norm": "توعية الجمهور وتعزيز السلوك الاخلاقي عن طريق ما يلي:",
+    "target_en_norm": "educate the public and reinforce ethical conduct, through the following:",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 711,
+    "source_ar": "أ - تنمية الوازع الديني للحث على النزاهة ومحاربة الفساد عن طريق وسائل الإعلام المختلفة، وخطباء المساجد والعلماء والمؤسسات التعليمية وغيرها، وإعداد حملات توعية وطنية تحذر من وباء الفساد.",
+    "target_en": "a) Promote religious consciousness that calls for maintaining integrity and combating corruption through various media channels, mosque preachers, ulema, educational institutions …etc., and conduct national awareness campaigns against corruption.",
+    "source_ar_norm": "ا - تنمية الوازع الديني للحث علي النزاهة ومحاربة الفساد عن طريق وسائل الاعلام المختلفة، وخطباء المساجد والعلماء والمؤسسات التعليمية وغيرها، واعداد حملات توعية وطنية تحذر من وباء الفساد.",
+    "target_en_norm": "a) promote religious consciousness that calls for maintaining integrity and combating corruption through various media channels, mosque preachers, ulema, educational institutions …etc., and conduct national awareness campaigns against corruption.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 712,
+    "source_ar": "ب - التأكيد على دور الأسرة في تربية النشء ودورها الأساسي في بناء مجتمع مسلم مناهض لأعمال الفساد.",
+    "target_en": "b) Emphasize the role of family in raising children and building an Islamic society resistant to all forms of corruption.",
+    "source_ar_norm": "ب - التاكيد علي دور الاسرة في تربية النشء ودورها الاساسي في بناء مجتمع مسلم مناهض لاعمال الفساد.",
+    "target_en_norm": "b) emphasize the role of family in raising children and building an islamic society resistant to all forms of corruption.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 713,
+    "source_ar": "ج -حث المؤسسات التعليمية على وضع مفردات في مناهج التعليم العام والجامعي، والقيام بتنفيذ برامج توعية تثقيفية بصفة دورية عن حماية النزاهة والأمانة ومكافحة الفساد وإساءة الأمانة.",
+    "target_en": "c) Encourage general and higher education institutions to incorporate topics in their curricula and conduct periodic educational programs that aim at raising awareness on maintaining honesty and integrity and combating corruption and dishonesty.",
+    "source_ar_norm": "ج -حث المؤسسات التعليمية علي وضع مفردات في مناهج التعليم العام والجامعي، والقيام بتنفيذ برامج توعية تثقيفية بصفة دورية عن حماية النزاهة والامانة ومكافحة الفساد واساءة الامانة.",
+    "target_en_norm": "c) encourage general and higher education institutions to incorporate topics in their curricula and conduct periodic educational programs that aim at raising awareness on maintaining honesty and integrity and combating corruption and dishonesty.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 714,
+    "source_ar": "د - حث المواطن والمقيم على التعاون مع الجهات المعنية بمكافحة الفساد، والإبلاغ عن جرائم الفساد ومرتكبيها.",
+    "target_en": "d) Encourage citizens and residents to cooperate with authorities concerned with combating corruption and report corruption offenses and perpetrators thereof.",
+    "source_ar_norm": "د - حث المواطن والمقيم علي التعاون مع الجهات المعنية بمكافحة الفساد، والابلاغ عن جرائم الفساد ومرتكبيها.",
+    "target_en_norm": "d) encourage citizens and residents to cooperate with authorities concerned with combating corruption and report corruption offenses and perpetrators thereof.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 715,
+    "source_ar": "هـ - العمل على وضع برامج توعية تثقيفية في مجال حماية النزاهة ومكافحة الفساد، في القطاعين العام والخاص.",
+    "target_en": "e) Develop educational awareness programs for maintaining integrity and combating corruption in public and private sectors.",
+    "source_ar_norm": "ه - العمل علي وضع برامج توعية تثقيفية في مجال حماية النزاهة ومكافحة الفساد، في القطاعين العام والخاص.",
+    "target_en_norm": "e) develop educational awareness programs for maintaining integrity and combating corruption in public and private sectors.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 716,
+    "source_ar": "تحسين أوضاع المواطنين الأسرية والوظيفية والمعيشية عن طريق ما يلي:",
+    "target_en": "Improve family, employment, and living conditions of citizens through the following:",
+    "source_ar_norm": "تحسين اوضاع المواطنين الاسرية والوظيفية والمعيشية عن طريق ما يلي:",
+    "target_en_norm": "improve family, employment, and living conditions of citizens through the following:",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 717,
+    "source_ar": "أ - التأكيد على مبدأ تحسين أوضاع المواطنين الأسرية والوظيفية والمعيشية وبخاصة ذوي الدخل المحدود، وتوفير الخدمات الأساسية لهم.",
+    "target_en": "a) Emphasize the need to raise family, employment, and living conditions of citizens, particularly those of low income, and provide them with basic services.",
+    "source_ar_norm": "ا - التاكيد علي مبدا تحسين اوضاع المواطنين الاسرية والوظيفية والمعيشية وبخاصة ذوي الدخل المحدود، وتوفير الخدمات الاساسية لهم.",
+    "target_en_norm": "a) emphasize the need to raise family, employment, and living conditions of citizens, particularly those of low income, and provide them with basic services.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 718,
+    "source_ar": "ب - إيجاد الفرص الوظيفية في (القطاعين العام والخاص)، بما يتناسب مع الزيادة المطرودة لعدد السكان والخريجين، والاهتمام بتأهيلهم طبقاً لاحتياجات سوق العمل.",
+    "target_en": "b) Create more job opportunities (in public and private sectors) in line with the increasing number of population and graduates, and qualify them to satisfy the needs of the job market.",
+    "source_ar_norm": "ب - ايجاد الفرص الوظيفية في (القطاعين العام والخاص)، بما يتناسب مع الزيادة المطرودة لعدد السكان والخريجين، والاهتمام بتاهيلهم طبقا لاحتياجات سوق العمل.",
+    "target_en_norm": "b) create more job opportunities (in public and private sectors) in line with the increasing number of population and graduates, and qualify them to satisfy the needs of the job market.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 719,
+    "source_ar": "ج - الحد من استقدام العنصر الأجنبي.",
+    "target_en": "c) Limit the recruitment of foreign workforce.",
+    "source_ar_norm": "ج - الحد من استقدام العنصر الاجنبي.",
+    "target_en_norm": "c) limit the recruitment of foreign workforce.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 720,
+    "source_ar": "د - تحسين مستوى رواتب الموظفين والعاملين، وبخاصة المراتب الدنيا.",
+    "target_en": "d) Improve the salaries of employees and workers, particularly those at the lower salary scale.",
+    "source_ar_norm": "د - تحسين مستوي رواتب الموظفين والعاملين، وبخاصة المراتب الدنيا.",
+    "target_en_norm": "d) improve the salaries of employees and workers, particularly those at the lower salary scale.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 721,
+    "source_ar": "تعزيز التعاون العربي والإقليمي والدولي عن طريق ما يلي:",
+    "target_en": "Promote Arab, regional, and international cooperation through the following:",
+    "source_ar_norm": "تعزيز التعاون العربي والاقليمي والدولي عن طريق ما يلي:",
+    "target_en_norm": "promote arab, regional, and international cooperation through the following:",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 722,
+    "source_ar": "أ - عند الالتزام بمعاهدة او اتفاقية يتوجب مراعاة السيادة الوطنية للدول، وعدم التدخل في شؤونها الداخلية، وأن يكون هناك دور فاعل للمملكة في صياغة بنود هذه المعاهدات والاتفاقيات. كما يتوجب مراعاة مستوى الالتزام والوضوح بين البلدان المتقدمة والنامية، والعمل على حسن اختيار المشاركين بحيث يكونون من ذوي الاختصاص.",
+    "target_en": "a) When concluding a treaty or an agreement, the principle of national sovereignty and non-interference in domestic affairs shall be taken into consideration. The Kingdom shall have an effective role in drafting such treaties and agreements. Level of compliance and transparency in developed and developing countries shall also be taken into consideration. Participants shall be carefully selected from among specialists.",
+    "source_ar_norm": "ا - عند الالتزام بمعاهدة او اتفاقية يتوجب مراعاة السيادة الوطنية للدول، وعدم التدخل في شؤونها الداخلية، وان يكون هناك دور فاعل للمملكة في صياغة بنود هذه المعاهدات والاتفاقيات. كما يتوجب مراعاة مستوي الالتزام والوضوح بين البلدان المتقدمة والنامية، والعمل علي حسن اختيار المشاركين بحيث يكونون من ذوي الاختصاص.",
+    "target_en_norm": "a) when concluding a treaty or an agreement, the principle of national sovereignty and non-interference in domestic affairs shall be taken into consideration. the kingdom shall have an effective role in drafting such treaties and agreements. level of compliance and transparency in developed and developing countries shall also be taken into consideration. participants shall be carefully selected from among specialists.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 723,
+    "source_ar": "ب - أهمية التنسيق بين الجهات المشاركة في المؤتمرات ذات العلاقة بموضوع مكافحة الفساد، والاستعداد والتحضير الجيد لتلك المشاركات، والعمل على وضع تصور للمملكة حيال الموضوعات المطروحة للنقاش، لأن قضية الفساد قضية عالمية تتعدى حدود كل دولة.",
+    "target_en": "b) Coordination among agencies participating in conferences on combating corruption, proper preparation for such participation, and developing the Kingdom’s stand on issues under discussion, giving the fact that corruption is an international issue that transcends national borders.",
+    "source_ar_norm": "ب - اهمية التنسيق بين الجهات المشاركة في المؤتمرات ذات العلاقة بموضوع مكافحة الفساد، والاستعداد والتحضير الجيد لتلك المشاركات، والعمل علي وضع تصور للمملكة حيال الموضوعات المطروحة للنقاش، لان قضية الفساد قضية عالمية تتعدي حدود كل دولة.",
+    "target_en_norm": "b) coordination among agencies participating in conferences on combating corruption, proper preparation for such participation, and developing the kingdom’s stand on issues under discussion, giving the fact that corruption is an international issue that transcends national borders.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 724,
+    "source_ar": "ج - الاستفادة من خبرات الدول والمنظمات الدولية الحكومية وغير الحكومية في مجال حماية النزاهة ومكافحة الفساد.",
+    "target_en": "c) Benefiting from the experience of other countries and international government and non-government organizations in the field of maintaining integrity and combating corruption.",
+    "source_ar_norm": "ج - الاستفادة من خبرات الدول والمنظمات الدولية الحكومية وغير الحكومية في مجال حماية النزاهة ومكافحة الفساد.",
+    "target_en_norm": "c) benefiting from the experience of other countries and international government and non-government organizations in the field of maintaining integrity and combating corruption.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 725,
+    "source_ar": "د - متابعة المستجدات الدولية الحاصلة فيما يتعلق بجرائم الفساد والرشوة وأساليب التعرف عليها وسبل محاصرتها.",
+    "target_en": "d) Keeping abreast of international developments in the field of identifying and combating corruption and bribery offenses.",
+    "source_ar_norm": "د - متابعة المستجدات الدولية الحاصلة فيما يتعلق بجرائم الفساد والرشوة واساليب التعرف عليها وسبل محاصرتها.",
+    "target_en_norm": "d) keeping abreast of international developments in the field of identifying and combating corruption and bribery offenses.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 726,
+    "source_ar": "هـ - العمل على تحقيق المزيد من التعاون الفعال، والمساعدة القانونية المتبادلة، وتبادل المعلومات والرأي والخبرات في مجال حماية النزاهة ومكافحة الفساد مع دول مجلس التعاون لدول الخليج العربية، والدول العربية، والإسلامية، والصديقة.",
+    "target_en": "e) Working towards achieving more effective cooperation and mutual legal assistance, as well as exchanging information, opinions, and expertise in the field of maintaining integrity and combating corruption with GCC, Arab, Muslim and friendly countries.",
+    "source_ar_norm": "ه - العمل علي تحقيق المزيد من التعاون الفعال، والمساعدة القانونية المتبادلة، وتبادل المعلومات والراي والخبرات في مجال حماية النزاهة ومكافحة الفساد مع دول مجلس التعاون لدول الخليج العربية، والدول العربية، والاسلامية، والصديقة.",
+    "target_en_norm": "e) working towards achieving more effective cooperation and mutual legal assistance, as well as exchanging information, opinions, and expertise in the field of maintaining integrity and combating corruption with gcc, arab, muslim and friendly countries.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 727,
+    "source_ar": "و - ان تقوم شعبة الترجمة الرسمية بهيئة الخبراء بمجلس الوزراء المشكلة بقرار مجلس الوزراء رقم(134) وتاريخ 25/5/1422هـ بإعطاء الأولوية لاعتماد ترجمة الأنظمة الخاصة بمكافحة الفساد المطبقة في المملكة إلى اللغات الأجنبية الحية، للاستفادة منها في المشاركات الخارجية الخاصة بمكافحة الفساد؛ لإبراز موقف المملكة وجهودها في هذا المجال.",
+    "target_en": "f) The Official Translation Department at the Bureau of Experts at the Council of Ministers, established pursuant to Council of Ministers Resolution No. (134), dated 2 Jumada I 1422H, shall give priority to approve the translations of laws enacted in the Kingdom to combat corruption into world languages for the use of such translations when attending foreign conferences on combating corruption so as to highlight the Kingdom’s efforts and stand regarding this issue.",
+    "source_ar_norm": "و - ان تقوم شعبة الترجمة الرسمية بهيئة الخبراء بمجلس الوزراء المشكلة بقرار مجلس الوزراء رقم(134) وتاريخ 25/5/1422ه باعطاء الاولوية لاعتماد ترجمة الانظمة الخاصة بمكافحة الفساد المطبقة في المملكة الي اللغات الاجنبية الحية، للاستفادة منها في المشاركات الخارجية الخاصة بمكافحة الفساد؛ لابراز موقف المملكة وجهودها في هذا المجال.",
+    "target_en_norm": "f) the official translation department at the bureau of experts at the council of ministers, established pursuant to council of ministers resolution no. (134), dated 2 jumada i 1422h, shall give priority to approve the translations of laws enacted in the kingdom to combat corruption into world languages for the use of such translations when attending foreign conferences on combating corruption so as to highlight the kingdom’s efforts and stand regarding this issue.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 728,
+    "source_ar": "إنشاء هيئة وطنية لمكافحة الفساد تتولى المهمات التالية:",
+    "target_en": "A national commission for combating corruption shall be established to assume the following duties:",
+    "source_ar_norm": "انشاء هيئة وطنية لمكافحة الفساد تتولي المهمات التالية:",
+    "target_en_norm": "a national commission for combating corruption shall be established to assume the following duties:",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 729,
+    "source_ar": "أ - متابعة تنفيذ الاستراتيجية ورصد نتائجها وتقويمها ومراجعتها، ووضع برامج عملها وآليات تطبيقها.",
+    "target_en": "a) Pursue implementation of the Strategy and identify, evaluate and review results thereof, and develop action plans and application mechanisms.",
+    "source_ar_norm": "ا - متابعة تنفيذ الاستراتيجية ورصد نتائجها وتقويمها ومراجعتها، ووضع برامج عملها واليات تطبيقها.",
+    "target_en_norm": "a) pursue implementation of the strategy and identify, evaluate and review results thereof, and develop action plans and application mechanisms.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 730,
+    "source_ar": "ب - تنسيق جهود القطاعين العام والخاص في تخطيط ومراقبة برامج مكافحة الفساد وتقويمها.",
+    "target_en": "b) Coordinate public and private sectors’ efforts in planning, monitoring and evaluating anti-corruption programs.",
+    "source_ar_norm": "ب - تنسيق جهود القطاعين العام والخاص في تخطيط ومراقبة برامج مكافحة الفساد وتقويمها.",
+    "target_en_norm": "b) coordinate public and private sectors’ efforts in planning, monitoring and evaluating anti-corruption programs.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 731,
+    "source_ar": "ج - تلقي التقارير والاحصاءات الدورية للأجهزة المختصة ودراستها وإعداد البيانات التحليلية في شأنها.",
+    "target_en": "c) Receive and review periodic reports and statistics produced by the competent agencies and prepare analytical data therefor.",
+    "source_ar_norm": "ج - تلقي التقارير والاحصاءات الدورية للاجهزة المختصة ودراستها واعداد البيانات التحليلية في شانها.",
+    "target_en_norm": "c) receive and review periodic reports and statistics produced by the competent agencies and prepare analytical data therefor.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 732,
+    "source_ar": "د - جمع المعلومات والبيانات والإحصاءات، وتصنيفها، وتحديد أنواعها، وتحليلها وتبادلها مع الجهات المختصة ذات العلاقة.",
+    "target_en": "d) Gather, classify, categorize, analyze and exchange information, data, and statistics with relevant competent agencies.",
+    "source_ar_norm": "د - جمع المعلومات والبيانات والاحصاءات، وتصنيفها، وتحديد انواعها، وتحليلها وتبادلها مع الجهات المختصة ذات العلاقة.",
+    "target_en_norm": "d) gather, classify, categorize, analyze and exchange information, data, and statistics with relevant competent agencies.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 733,
+    "source_ar": "بعون الله تعالى نحن عبدالله بن عبدالعزيز آل سعود ملك المملكة العربية السعودية. بعد الاطلاع على المادة الثامنة والخمسين من النظام الأساسي للحكم الصادر بالأمر الملكي رقم أ/90 بتاريخ 27/8/1412ه. وبعد الاطلاع على الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد. وبعد الاطلاع على نظام الوزراء ونواب الوزراء وموظفي المرتبة الممتازة الصادر بالمرسوم الملكي رقم م/10 بتاريخ 18/3/1391ه. وبعد الاطلاع على الأمر الملكي رقم أ/14 بتاريخ 3/3/1414ه. وانطلاقاً من قول الله تعالى: ((ولا تبغِ الفسادَ في الأرض إن الله لا يُحب المفسدين))، واستشعاراً منا للمسؤولية المُلقاة على عاتقنا في حماية المال العام، ومحاربة الفساد، والقضاء عليه، على هَدْي كريم من مقاصد شريعتنا المطهرة التي حاربت الفساد، وأوجدت الضمانات، وهيأت الأسباب لمحاصرته، وتطهير المجتمع من آثاره الخطيرة، وتبعاته الوخيمة على الدولة في مؤسساتها، وأفرادها، ومستقبل أجيالها. أمرنا بما هو آت:",
+    "target_en": "With the help of Almighty God, We, Abdullah ibn Abdulaziz Al Saud, King of the Kingdom of Saudi Arabia, Upon review of Article 58 of the Basic Law of Governance, issued by the Royal Order No. ( A / 90 ), dated 27 / 08 / 1412 A.H., 02 / 03 / 1992 A.D, And upon review of the Integrity and Anti-Corruption National Strategy, And upon review of the Law of Ministers, Vice-Ministers and Employees of “Grade Excellent,” issued by Royal Decree No. (M / 10), dated 18 / 03 / 1391 A.H., 14 / 05 / 1971 A.D., And upon the review of Royal Order No. ( A / 14 ), dated 03 / 03 / 1414 A.H., 21/08/1993 A.D., And based on God’s word: “…And desire not corruption in the land,” and stemming from our responsibility to protect public funds, combat and eliminate corruption, in the light of the noble teachings and indicates of Sharia, which combats corruption, provides guarantees and tools to control it, and cleans the society from its insidious effects and adverse consequences on the State, its institutions, citizens and future generations,",
+    "source_ar_norm": "بعون الله تعالي نحن عبدالله بن عبدالعزيز ال سعود ملك المملكة العربية السعودية. بعد الاطلاع علي المادة الثامنة والخمسين من النظام الاساسي للحكم الصادر بالامر الملكي رقم ا/90 بتاريخ 27/8/1412ه. وبعد الاطلاع علي الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد. وبعد الاطلاع علي نظام الوزراء ونواب الوزراء وموظفي المرتبة الممتازة الصادر بالمرسوم الملكي رقم م/10 بتاريخ 18/3/1391ه. وبعد الاطلاع علي الامر الملكي رقم ا/14 بتاريخ 3/3/1414ه. وانطلاقا من قول الله تعالي: ((ولا تبغ الفساد في الارض ان الله لا يحب المفسدين))، واستشعارا منا للمسؤولية الملقاة علي عاتقنا في حماية المال العام، ومحاربة الفساد، والقضاء عليه، علي هدي كريم من مقاصد شريعتنا المطهرة التي حاربت الفساد، واوجدت الضمانات، وهيات الاسباب لمحاصرته، وتطهير المجتمع من اثاره الخطيرة، وتبعاته الوخيمة علي الدولة في مؤسساتها، وافرادها، ومستقبل اجيالها. امرنا بما هو ات:",
+    "target_en_norm": "with the help of almighty god, we, abdullah ibn abdulaziz al saud, king of the kingdom of saudi arabia, upon review of article 58 of the basic law of governance, issued by the royal order no. ( a / 90 ), dated 27 / 08 / 1412 a.h., 02 / 03 / 1992 a.d, and upon review of the integrity and anti-corruption national strategy, and upon review of the law of ministers, vice-ministers and employees of “grade excellent,” issued by royal decree no. (m / 10), dated 18 / 03 / 1391 a.h., 14 / 05 / 1971 a.d., and upon the review of royal order no. ( a / 14 ), dated 03 / 03 / 1414 a.h., 21/08/1993 a.d., and based on god’s word: “…and desire not corruption in the land,” and stemming from our responsibility to protect public funds, combat and eliminate corruption, in the light of the noble teachings and indicates of sharia, which combats corruption, provides guarantees and tools to control it, and cleans the society from its insidious effects and adverse consequences on the state, its institutions, citizens and future generations,",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 734,
+    "source_ar": "أولاً: إنشاء \"الهيئة الوطنية لمكافحة الفساد\"، ترتبط بنا مباشرة.",
+    "target_en": "First: The establishment of the “National Anti-Corruption Commission,” reporting directly to us.",
+    "source_ar_norm": "اولا: انشاء \"الهيئة الوطنية لمكافحة الفساد\"، ترتبط بنا مباشرة.",
+    "target_en_norm": "first: the establishment of the “national anti-corruption commission,” reporting directly to us.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 735,
+    "source_ar": "ثانياً: يُعين الأستاذ محمد بن عبدالله الشريف رئيساً للهيئة الوطنية لمكافحة الفساد بمرتبة وزير.",
+    "target_en": "Second: Mr. Muhammad ibn Abdullah Al-Shareef shall be appointed President of the National Anti-Corruption Commission, at the rank of “Minister”.",
+    "source_ar_norm": "ثانيا: يعين الاستاذ محمد بن عبدالله الشريف رئيسا للهيئة الوطنية لمكافحة الفساد بمرتبة وزير.",
+    "target_en_norm": "second: mr. muhammad ibn abdullah al-shareef shall be appointed president of the national anti-corruption commission, at the rank of “minister”.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 736,
+    "source_ar": "ثالثاً: على رئيس الهيئة الوطنية لمكافحة الفساد، ورئيس هيئة الخبراء بمجلس الوزراء وضع التنظيم الخاص بها، على أن يصدر من مجلس الوزراء خلال ثلاثة أشهر من تاريخ أمرنا هذا.",
+    "target_en": "Third: The President of the National Anti-Corruption Commission and the Head of the Bureau of Experts at the Council of Ministers shall draft the Commission’s Statute, which shall be passed by the Council of Ministers within three months from the date of this Order.",
+    "source_ar_norm": "ثالثا: علي رئيس الهيئة الوطنية لمكافحة الفساد، ورئيس هيئة الخبراء بمجلس الوزراء وضع التنظيم الخاص بها، علي ان يصدر من مجلس الوزراء خلال ثلاثة اشهر من تاريخ امرنا هذا.",
+    "target_en_norm": "third: the president of the national anti-corruption commission and the head of the bureau of experts at the council of ministers shall draft the commission’s statute, which shall be passed by the council of ministers within three months from the date of this order.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 737,
+    "source_ar": "رابعاً: تشمل مهام الهيئة كافة القطاعات الحكومية، ولا يستثنى من ذلك كائنٌ من كان، وتسند إليها مهام متابعة تنفيذ الأوامر والتعليمات الخاصة بالشأن العام، ويدخل في اختصاصها متابعة أوجه الفساد الإداري والمالي.",
+    "target_en": "Forth: The Commission shall have the power to audit all government agencies, without exception to anyone whosoever. The Commission shall be in charge of pursuing the implementation of orders and directives pertaining to public matters, and shall have the power to pursue the multiple facets of administrative and financial corruption.",
+    "source_ar_norm": "رابعا: تشمل مهام الهيئة كافة القطاعات الحكومية، ولا يستثني من ذلك كائن من كان، وتسند اليها مهام متابعة تنفيذ الاوامر والتعليمات الخاصة بالشان العام، ويدخل في اختصاصها متابعة اوجه الفساد الاداري والمالي.",
+    "target_en_norm": "forth: the commission shall have the power to audit all government agencies, without exception to anyone whosoever. the commission shall be in charge of pursuing the implementation of orders and directives pertaining to public matters, and shall have the power to pursue the multiple facets of administrative and financial corruption.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 738,
+    "source_ar": "خامساً: على رئيس ديوان رئاسة مجلس الوزراء، ورئيس الديوان الملكي تزويد الهيئة بكافة الأوامر ذات الصلة بمهامها، وعلى جميع الوزارات والمؤسسات والمصالح الحكومية وغيرها الرفع للهيئة بكل المشاريع المعتمدة لديها وعقودها ومدة تنفيذها وصيانتها وتشغيلها.",
+    "target_en": "Fifth: The Head of the Office of Presidency of the Council of Ministers and the Chief of the Royal Court shall provide the Commission will all orders relating to its duties. All ministries, government authorities and agencies, and others shall submit to the Commission all approved projects, together with their contracts and execution periods as well as maintenance and operation thereof.",
+    "source_ar_norm": "خامسا: علي رئيس ديوان رئاسة مجلس الوزراء، ورئيس الديوان الملكي تزويد الهيئة بكافة الاوامر ذات الصلة بمهامها، وعلي جميع الوزارات والمؤسسات والمصالح الحكومية وغيرها الرفع للهيئة بكل المشاريع المعتمدة لديها وعقودها ومدة تنفيذها وصيانتها وتشغيلها.",
+    "target_en_norm": "fifth: the head of the office of presidency of the council of ministers and the chief of the royal court shall provide the commission will all orders relating to its duties. all ministries, government authorities and agencies, and others shall submit to the commission all approved projects, together with their contracts and execution periods as well as maintenance and operation thereof.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 739,
+    "source_ar": "سادساً: دون الإخلال باختصاصات الجهات الرقابية الأخرى تقوم الهيئة بالتنسيق اللازم مع تلك الجهات فيما يخص الشأن العام ومصالح المواطنين، وعلى تلك الجهات تزويد الهيئة بأي ملاحظات مالية أو إدارية تدخل ضمن مهام الهيئة.",
+    "target_en": "Sixth: Without prejudice to the powers of other auditing bodies, the Commission shall coordinate with such bodies on public affairs and interests of citizens. Said agencies shall provide the Commission with any financial or administrative irregularities falling within the powers of the Commission.",
+    "source_ar_norm": "سادسا: دون الاخلال باختصاصات الجهات الرقابية الاخري تقوم الهيئة بالتنسيق اللازم مع تلك الجهات فيما يخص الشان العام ومصالح المواطنين، وعلي تلك الجهات تزويد الهيئة باي ملاحظات مالية او ادارية تدخل ضمن مهام الهيئة.",
+    "target_en_norm": "sixth: without prejudice to the powers of other auditing bodies, the commission shall coordinate with such bodies on public affairs and interests of citizens. said agencies shall provide the commission with any financial or administrative irregularities falling within the powers of the commission.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 740,
+    "source_ar": "سابعاً: يبلغ أمرنا هذا للجهات المختصة لاعتماده وتنفيذه.",
+    "target_en": "Seventh: This Order shall be communicated to relevant entities for compliance therewith and implementation thereof.",
+    "source_ar_norm": "سابعا: يبلغ امرنا هذا للجهات المختصة لاعتماده وتنفيذه.",
+    "target_en_norm": "seventh: this order shall be communicated to relevant entities for compliance therewith and implementation thereof.",
+    "file_name": "الاستراتيجية الوطنية لحماية النزاهة ومكافحة الفساد.docx"
+  },
+  {
+    "id": 741,
+    "source_ar": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة",
+    "target_en": "Regulatory Arrangements for the World Tourism Academy",
+    "source_ar_norm": "الترتيبات التنظيمية للاكاديمية العالمية للسياحة",
+    "target_en_norm": "regulatory arrangements for the world tourism academy",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 742,
+    "source_ar": "أولاً:",
+    "target_en": "First:",
+    "source_ar_norm": "اولا:",
+    "target_en_norm": "first:",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 743,
+    "source_ar": "يقصد بالألفاظ والعبارات الآتية -أينما وردت في هذه الترتيبات- المعاني المبينة أمام كل منها:",
+    "target_en": "In these Arrangements, the following words and phrases shall have the meanings assigned thereto:",
+    "source_ar_norm": "يقصد بالالفاظ والعبارات الاتية -اينما وردت في هذه الترتيبات- المعاني المبينة امام كل منها:",
+    "target_en_norm": "in these arrangements, the following words and phrases shall have the meanings assigned thereto:",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 744,
+    "source_ar": "1- الأكاديمية: الأكاديمية العالمية للسياحة.",
+    "target_en": "1-Academy: World Tourism Academy.",
+    "source_ar_norm": "1- الاكاديمية: الاكاديمية العالمية للسياحة.",
+    "target_en_norm": "1-academy: world tourism academy.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 745,
+    "source_ar": "2-الترتيبات: الترتيبات التنظيمية للأكاديمية.",
+    "target_en": "2-Arrangements: Regulatory Arrangements for the Academy.",
+    "source_ar_norm": "2-الترتيبات: الترتيبات التنظيمية للاكاديمية.",
+    "target_en_norm": "2-arrangements: regulatory arrangements for the academy.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 746,
+    "source_ar": "3-الوزارة: وزارة السياحة.",
+    "target_en": "3-Ministry: Ministry of Tourism.",
+    "source_ar_norm": "3-الوزارة: وزارة السياحة.",
+    "target_en_norm": "3-ministry: ministry of tourism.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 747,
+    "source_ar": "4-الوزير: وزير السياحة.",
+    "target_en": "4-Minister: Minister of Tourism.",
+    "source_ar_norm": "4-الوزير: وزير السياحة.",
+    "target_en_norm": "4-minister: minister of tourism.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 748,
+    "source_ar": "5- المجلس: مجلس أمناء الأكاديمية.",
+    "target_en": "5-Board: Board of Trustees of the Academy.",
+    "source_ar_norm": "5- المجلس: مجلس امناء الاكاديمية.",
+    "target_en_norm": "5-board: board of trustees of the academy.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 749,
+    "source_ar": "6-القطاع السياحي: القطاع الذي تشرف عليه الوزارة.",
+    "target_en": "6-Tourism Sector: The sector supervised by the Ministry.",
+    "source_ar_norm": "6-القطاع السياحي: القطاع الذي تشرف عليه الوزارة.",
+    "target_en_norm": "6-tourism sector: the sector supervised by the ministry.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 750,
+    "source_ar": "ثانياً:",
+    "target_en": "Second:",
+    "source_ar_norm": "ثانيا:",
+    "target_en_norm": "second:",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 751,
+    "source_ar": "تتمتع الأكاديمية بالشخصية الاعتبارية والاستقلال المالي والإداري في حدود هذه الترتيبات، وترتبط تنظيمياً بالوزير، ويكون مقرها الرئيس في مدينة الرياض، ولها إنشاء فروع أو مكاتب داخل المملكة بحسب الحاجة.",
+    "target_en": "The Academy shall have a legal personality and financial and administrative independence within the limits of these Arrangements, and shall report to the Minister. Its headquarters shall be in the city of Riyadh and it may establish branches or offices within the Kingdom as necessary.",
+    "source_ar_norm": "تتمتع الاكاديمية بالشخصية الاعتبارية والاستقلال المالي والاداري في حدود هذه الترتيبات، وترتبط تنظيميا بالوزير، ويكون مقرها الرئيس في مدينة الرياض، ولها انشاء فروع او مكاتب داخل المملكة بحسب الحاجة.",
+    "target_en_norm": "the academy shall have a legal personality and financial and administrative independence within the limits of these arrangements, and shall report to the minister. its headquarters shall be in the city of riyadh and it may establish branches or offices within the kingdom as necessary.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 752,
+    "source_ar": "ثالثاً:",
+    "target_en": "Third:",
+    "source_ar_norm": "ثالثا:",
+    "target_en_norm": "third:",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 753,
+    "source_ar": "تهدف الأكاديمية إلى تأهيل الموارد البشرية في القطاع السياحي وتنميتها وتطويرها وفق أفضل الممارسات المهنية ذات الصلة بالقطاع السياحي، ولها بوجه خاص -دون حصر- ما يأتي:",
+    "target_en": "The Academy aims to qualify and develop human resources in the tourism sector in accordance with relevant best practices. It may in particular:",
+    "source_ar_norm": "تهدف الاكاديمية الي تاهيل الموارد البشرية في القطاع السياحي وتنميتها وتطويرها وفق افضل الممارسات المهنية ذات الصلة بالقطاع السياحي، ولها بوجه خاص -دون حصر- ما ياتي:",
+    "target_en_norm": "the academy aims to qualify and develop human resources in the tourism sector in accordance with relevant best practices. it may in particular:",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 754,
+    "source_ar": "1-تقديم الشهادات الجامعية ذات الصلة بالقطاع السياحي من خلال تقديم الدرجات العلمية؛ كالبكالوريوس والماجستير، والدكتوراه.",
+    "target_en": "1-offer graduate and undergraduate university degrees relating to the tourism sector, such as bachelor, masters, and doctorate degrees;",
+    "source_ar_norm": "1-تقديم الشهادات الجامعية ذات الصلة بالقطاع السياحي من خلال تقديم الدرجات العلمية؛ كالبكالوريوس والماجستير، والدكتوراه.",
+    "target_en_norm": "1-offer graduate and undergraduate university degrees relating to the tourism sector, such as bachelor, masters, and doctorate degrees;",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 755,
+    "source_ar": "2-تقديم الشهادات المهنية للمهن التي تتطلب مهارات عملية متخصصة، وشهادات فنية، وشهادات الدبلوم، وشهادات الدبلوم العالي ذات الصلة بالقطاع السياحي.",
+    "target_en": "2-grant professional certificates in professions requiring specialized practical skills as well as technical certificates, associate diploma certificates, and higher diploma certificates relating to the tourism sector;",
+    "source_ar_norm": "2-تقديم الشهادات المهنية للمهن التي تتطلب مهارات عملية متخصصة، وشهادات فنية، وشهادات الدبلوم، وشهادات الدبلوم العالي ذات الصلة بالقطاع السياحي.",
+    "target_en_norm": "2-grant professional certificates in professions requiring specialized practical skills as well as technical certificates, associate diploma certificates, and higher diploma certificates relating to the tourism sector;",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 756,
+    "source_ar": "3-إعداد الدراسات والبحوث، وتقديم الاستشارات، وتأليف الكتب وترجمتها، وإصدار الدوريات والنشرات والمجلات المهنية، في مجالات اختصاصاتها.",
+    "target_en": "3-conduct studies and research, provide consultations, commission and translate books, and issue professional periodicals, bulletins, and journals, within its areas of specialization;",
+    "source_ar_norm": "3-اعداد الدراسات والبحوث، وتقديم الاستشارات، وتاليف الكتب وترجمتها، واصدار الدوريات والنشرات والمجلات المهنية، في مجالات اختصاصاتها.",
+    "target_en_norm": "3-conduct studies and research, provide consultations, commission and translate books, and issue professional periodicals, bulletins, and journals, within its areas of specialization;",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 757,
+    "source_ar": "4-التعاون وعقد الشراكات مع الجهات الأكاديمية والمهنية والتدريبية وبيوت الخبرة والهيئات والمنظمات ذات الصلة بالقطاع السياحي -داخل المملكة وخارجها- في حدود مجالات اختصاصاتها.",
+    "target_en": "4-cooperate and partner with academic, professional, and training entities as well as entities and organizations related to the tourism sector, in the Kingdom and abroad, within its areas of specialization;",
+    "source_ar_norm": "4-التعاون وعقد الشراكات مع الجهات الاكاديمية والمهنية والتدريبية وبيوت الخبرة والهيئات والمنظمات ذات الصلة بالقطاع السياحي -داخل المملكة وخارجها- في حدود مجالات اختصاصاتها.",
+    "target_en_norm": "4-cooperate and partner with academic, professional, and training entities as well as entities and organizations related to the tourism sector, in the kingdom and abroad, within its areas of specialization;",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 758,
+    "source_ar": "5- المشاركة في المؤتمرات والندوات والفعاليات -داخل المملكة وخارجها- ذات الصلة باختصاصاتها، ووفقاً للإجراءات المتبعة.",
+    "target_en": "5-participate in conferences, seminars, and events in the Kingdom and abroad within its areas of specialization and in accordance with applicable procedures; and",
+    "source_ar_norm": "5- المشاركة في المؤتمرات والندوات والفعاليات -داخل المملكة وخارجها- ذات الصلة باختصاصاتها، ووفقا للاجراءات المتبعة.",
+    "target_en_norm": "5-participate in conferences, seminars, and events in the kingdom and abroad within its areas of specialization and in accordance with applicable procedures; and",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 759,
+    "source_ar": "6-تقديم البرامج التدريبية والمتخصصة في مجال تنمية الكوادر البشرية ذات العلاقة بالقطاع السياحي وتطويرها؛ لضمان رفع كفاية العاملين فيها، والتعاون مع منشآت القطاع السياحي في مجال التدريب على رأس العمل.",
+    "target_en": "6-offer specialized capacity building programs related to the tourism sector to raise the efficiency of individuals working in the sector, and cooperate with establishments in the tourism sector to provide on-the-job training.",
+    "source_ar_norm": "6-تقديم البرامج التدريبية والمتخصصة في مجال تنمية الكوادر البشرية ذات العلاقة بالقطاع السياحي وتطويرها؛ لضمان رفع كفاية العاملين فيها، والتعاون مع منشات القطاع السياحي في مجال التدريب علي راس العمل.",
+    "target_en_norm": "6-offer specialized capacity building programs related to the tourism sector to raise the efficiency of individuals working in the sector, and cooperate with establishments in the tourism sector to provide on-the-job training.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 760,
+    "source_ar": "رابعاً:",
+    "target_en": "Fourth:",
+    "source_ar_norm": "رابعا:",
+    "target_en_norm": "fourth:",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 761,
+    "source_ar": "1-يكون للأكاديمية مجلس أمناء برئاسة الوزير، وعضوية أحد عشر من المتخصصين من ذوي الخبرة في المجالات ذات العلاقة باختصاصات الأكاديمية، يصدر بتعيينهم قرار من رئيس المجلس.",
+    "target_en": "1-The Academy shall have a board of trustees comprising the Minister, as chairman, and eleven members with expertise in the Academy's areas of specialization, to be appointed pursuant to a decision by the Chairman of the Board.",
+    "source_ar_norm": "1-يكون للاكاديمية مجلس امناء برئاسة الوزير، وعضوية احد عشر من المتخصصين من ذوي الخبرة في المجالات ذات العلاقة باختصاصات الاكاديمية، يصدر بتعيينهم قرار من رئيس المجلس.",
+    "target_en_norm": "1-the academy shall have a board of trustees comprising the minister, as chairman, and eleven members with expertise in the academy's areas of specialization, to be appointed pursuant to a decision by the chairman of the board.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 762,
+    "source_ar": "2- تكون مدة العضوية في المجلس (ثلاث) سنوات قابلة للتجديد مرة واحدة.",
+    "target_en": "2-Board membership shall be for a term of three years, renewable once.",
+    "source_ar_norm": "2- تكون مدة العضوية في المجلس (ثلاث) سنوات قابلة للتجديد مرة واحدة.",
+    "target_en_norm": "2-board membership shall be for a term of three years, renewable once.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 763,
+    "source_ar": "خامساً:",
+    "target_en": "Fifth:",
+    "source_ar_norm": "خامسا:",
+    "target_en_norm": "fifth:",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 764,
+    "source_ar": "المجلس هو السلطة المهيمنة على إدارة شؤون الأكاديمية وتصريف أمورها ورسم السياسة العامة لها في حدود أحكام الترتيبات وغيرها من الأنظمة ذات العلاقة، ويتخذ جميع القرارات اللازمة لتحقيق أغراضها، وله بوجه خاص ما يأتي:",
+    "target_en": "The Board shall be the authority overseeing the management of the Academy and the conduct of its affairs as well as setting its general policy within the limits of these Arrangements and other relevant laws. The Board shall take the decisions necessary to achieve the Academy’s objectives and in particular it may:",
+    "source_ar_norm": "المجلس هو السلطة المهيمنة علي ادارة شؤون الاكاديمية وتصريف امورها ورسم السياسة العامة لها في حدود احكام الترتيبات وغيرها من الانظمة ذات العلاقة، ويتخذ جميع القرارات اللازمة لتحقيق اغراضها، وله بوجه خاص ما ياتي:",
+    "target_en_norm": "the board shall be the authority overseeing the management of the academy and the conduct of its affairs as well as setting its general policy within the limits of these arrangements and other relevant laws. the board shall take the decisions necessary to achieve the academy’s objectives and in particular it may:",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 765,
+    "source_ar": "1- إقرار سياسات العمل المتعلقة بنشاط الأكاديمية، والخطط والبرامج اللازمة لتنفيذها.",
+    "target_en": "1-approve the work policies relating to the Academy's activities as well as the plans and programs necessary for their implementation;",
+    "source_ar_norm": "1- اقرار سياسات العمل المتعلقة بنشاط الاكاديمية، والخطط والبرامج اللازمة لتنفيذها.",
+    "target_en_norm": "1-approve the work policies relating to the academy's activities as well as the plans and programs necessary for their implementation;",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 766,
+    "source_ar": "2- إقرار الهيكل التنظيمي للأكاديمية.",
+    "target_en": "2-approve the Academy's organizational structure;",
+    "source_ar_norm": "2- اقرار الهيكل التنظيمي للاكاديمية.",
+    "target_en_norm": "2-approve the academy's organizational structure;",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 767,
+    "source_ar": "3-إقرار اللوائح المالية والإدارية وغيرها من اللوائح الداخلية اللازمة لعمل الأكاديمية، على أن يكون إقرار اللوائح الإدارية بالاتفاق مع وزارة الموارد البشرية والتنمية الاجتماعية، ويكون إقرار اللوائح المالية والأحكام ذات الأثر المالي في اللوائح الإدارية بالاتفاق مع وزارة المالية.",
+    "target_en": "3-approve the Academy’s financial and administrative regulations as well as other necessary internal regulations, provided that the approval of the administrative regulations is made in agreement with the Ministry of Human Resources and Social Development, and the approval of the financial regulations and the provisions with financial impact in the administrative regulations is made in agreement with the Ministry of Finance;",
+    "source_ar_norm": "3-اقرار اللوائح المالية والادارية وغيرها من اللوائح الداخلية اللازمة لعمل الاكاديمية، علي ان يكون اقرار اللوائح الادارية بالاتفاق مع وزارة الموارد البشرية والتنمية الاجتماعية، ويكون اقرار اللوائح المالية والاحكام ذات الاثر المالي في اللوائح الادارية بالاتفاق مع وزارة المالية.",
+    "target_en_norm": "3-approve the academy’s financial and administrative regulations as well as other necessary internal regulations, provided that the approval of the administrative regulations is made in agreement with the ministry of human resources and social development, and the approval of the financial regulations and the provisions with financial impact in the administrative regulations is made in agreement with the ministry of finance;",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 768,
+    "source_ar": "4-إقرار متطلبات الجدارة الوظيفية الاسترشادية لوظائف القطاع السياحي، وتأهيل المدربين فيها، وإقرار متطلبات منح الشهادات المهنية.",
+    "target_en": "4-approve eligibility requirements as guidelines for jobs in the tourism sector and qualify trainers therein, and approve the requirements for granting professional certificates;",
+    "source_ar_norm": "4-اقرار متطلبات الجدارة الوظيفية الاسترشادية لوظائف القطاع السياحي، وتاهيل المدربين فيها، واقرار متطلبات منح الشهادات المهنية.",
+    "target_en_norm": "4-approve eligibility requirements as guidelines for jobs in the tourism sector and qualify trainers therein, and approve the requirements for granting professional certificates;",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 769,
+    "source_ar": "5-إقرار المقابل المالي للخدمات والأعمال التي تقدمها الأكاديمية.",
+    "target_en": "5-approve the fees for services rendered by the Academy;",
+    "source_ar_norm": "5-اقرار المقابل المالي للخدمات والاعمال التي تقدمها الاكاديمية.",
+    "target_en_norm": "5-approve the fees for services rendered by the academy;",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 770,
+    "source_ar": "6-الموافقة على مشروع ميزانية الأكاديمية، وحسابها الختامي، وتقرير مراجع الحسابات، والتقرير السنوي؛ تمهيداً لرفعها بحسب الإجراءات النظامية.",
+    "target_en": "6-approve the Academy's draft budget, final accounts, and annual report as well as the auditor’s report, in preparation for submission in accordance with statutory procedures;",
+    "source_ar_norm": "6-الموافقة علي مشروع ميزانية الاكاديمية، وحسابها الختامي، وتقرير مراجع الحسابات، والتقرير السنوي؛ تمهيدا لرفعها بحسب الاجراءات النظامية.",
+    "target_en_norm": "6-approve the academy's draft budget, final accounts, and annual report as well as the auditor’s report, in preparation for submission in accordance with statutory procedures;",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 771,
+    "source_ar": "7-تحديد أوجه استثمار أموال الأكاديمية، وإقرار السياسات المنظمة لذلك.",
+    "target_en": "7-determine the channels of investment of the Academy's funds, and approve relevant policies;",
+    "source_ar_norm": "7-تحديد اوجه استثمار اموال الاكاديمية، واقرار السياسات المنظمة لذلك.",
+    "target_en_norm": "7-determine the channels of investment of the academy's funds, and approve relevant policies;",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 772,
+    "source_ar": "8- قبول الهبات والتبرعات والمنح والوصايا والأوقاف، وفقاً للأحكام المنظمة لذلك.",
+    "target_en": "8-accept gifts, donations, grants, bequests, and endowments, in accordance with statutory provisions;",
+    "source_ar_norm": "8- قبول الهبات والتبرعات والمنح والوصايا والاوقاف، وفقا للاحكام المنظمة لذلك.",
+    "target_en_norm": "8-accept gifts, donations, grants, bequests, and endowments, in accordance with statutory provisions;",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 773,
+    "source_ar": "9-الموافقة على إبرام الاتفاقيات ومذكرات التفاهم والعقود، وعلى انضمام الأكاديمية إلى عضوية المؤسسات ذات الصلة بالقطاع السياحي داخل المملكة وخارجها؛ بحسب الإجراءات النظامية.",
+    "target_en": "9-approve the conclusion of agreements, memoranda of understanding, and contracts as well as the Academy's membership in institutions related to the tourism sector within the Kingdom and abroad, in accordance with statutory procedures;",
+    "source_ar_norm": "9-الموافقة علي ابرام الاتفاقيات ومذكرات التفاهم والعقود، وعلي انضمام الاكاديمية الي عضوية المؤسسات ذات الصلة بالقطاع السياحي داخل المملكة وخارجها؛ بحسب الاجراءات النظامية.",
+    "target_en_norm": "9-approve the conclusion of agreements, memoranda of understanding, and contracts as well as the academy's membership in institutions related to the tourism sector within the kingdom and abroad, in accordance with statutory procedures;",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 774,
+    "source_ar": "10-الموافقة على إنشاء فروع أو مكاتب للأكاديمية داخل المملكة.",
+    "target_en": "10-approve the establishment of branches or offices for the Academy in the Kingdom;",
+    "source_ar_norm": "10-الموافقة علي انشاء فروع او مكاتب للاكاديمية داخل المملكة.",
+    "target_en_norm": "10-approve the establishment of branches or offices for the academy in the kingdom;",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 775,
+    "source_ar": "11-تعيين أمين سر المجلس.",
+    "target_en": "11-appoint the secretary of the Board; and",
+    "source_ar_norm": "11-تعيين امين سر المجلس.",
+    "target_en_norm": "11-appoint the secretary of the board; and",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 776,
+    "source_ar": "12-تعيين مراجع حسابات خارجي (أو أكثر).",
+    "target_en": "12-appoint an external auditor or more.",
+    "source_ar_norm": "12-تعيين مراجع حسابات خارجي (او اكثر).",
+    "target_en_norm": "12-appoint an external auditor or more.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 777,
+    "source_ar": "وللمجلس -في سبيل تحقيق هذه الاختصاصات- تشكيل لجان دائمة أو مؤقتة من أعضائه أو من غيرهم، يوكل إليها ما يراه من مهمات، ويحدد في قرار تشكيل كل لجنة رئيسها وأعضاءها واختصاصاتها، ويكون لها الاستعانة بمن تراه لتأدية المهمات الموكولة إليها. وللمجلس كذلك تفويض بعض اختصاصاته إلى رئيسه أو إلى من يراه من أعضائه أو إلى مدير الأكاديمية.",
+    "target_en": "The Board may, in exercising such powers, form standing or ad hoc committees from among its members or others to carry out certain tasks. The formation decision for each committee shall designate its chairman and members and determine its powers. Such committees may seek the assistance of any person they deem appropriate to perform the tasks entrusted thereto. The Board may delegate some of its powers to its Chairman, any of its members, or the director of the Academy.",
+    "source_ar_norm": "وللمجلس -في سبيل تحقيق هذه الاختصاصات- تشكيل لجان دائمة او مؤقتة من اعضائه او من غيرهم، يوكل اليها ما يراه من مهمات، ويحدد في قرار تشكيل كل لجنة رئيسها واعضاءها واختصاصاتها، ويكون لها الاستعانة بمن تراه لتادية المهمات الموكولة اليها. وللمجلس كذلك تفويض بعض اختصاصاته الي رئيسه او الي من يراه من اعضائه او الي مدير الاكاديمية.",
+    "target_en_norm": "the board may, in exercising such powers, form standing or ad hoc committees from among its members or others to carry out certain tasks. the formation decision for each committee shall designate its chairman and members and determine its powers. such committees may seek the assistance of any person they deem appropriate to perform the tasks entrusted thereto. the board may delegate some of its powers to its chairman, any of its members, or the director of the academy.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 778,
+    "source_ar": "سادساً:",
+    "target_en": "Sixth:",
+    "source_ar_norm": "سادسا:",
+    "target_en_norm": "sixth:",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 779,
+    "source_ar": "1- تعقد اجتماعات المجلس في مقر الأكاديمية أو في أي مكان آخر داخل المملكة أو عن بعد باستخدام وسائل التقنية الحديثة، برئاسة رئيسه أو من ينيبه من الأعضاء.",
+    "target_en": "1-Board meetings shall be held at the Academy’s headquarters or at any other location within the Kingdom, or remotely using means of technology, and shall be presided over by the Chairman or any Board member designated thereby.",
+    "source_ar_norm": "1- تعقد اجتماعات المجلس في مقر الاكاديمية او في اي مكان اخر داخل المملكة او عن بعد باستخدام وسائل التقنية الحديثة، برئاسة رئيسه او من ينيبه من الاعضاء.",
+    "target_en_norm": "1-board meetings shall be held at the academy’s headquarters or at any other location within the kingdom, or remotely using means of technology, and shall be presided over by the chairman or any board member designated thereby.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 780,
+    "source_ar": "2-يعقد المجلس اجتماعاته بصفة دورية (أربع) مرات في السنة على الأقل. ولرئيس المجلس الدعوة للاجتماع متى دعت الحاجة إلى ذلك أو متى طلب ذلك أربعة من أعضاء المجلس على الأقل، وتوجه الدعوة للاجتماع من الرئيس أو من ينيبه من الأعضاء كتابة قبل موعد الاجتماع بسبعة أيام على الأقل، على أن تتضمن الدعوة جدول أعمال الاجتماع ومكانه.",
+    "target_en": "2-The Board shall convene periodically at least four times a year. The Chairman of the Board may call for a meeting when necessary or upon the request of at least four Board members. The meeting invitation shall be sent by the Chairman or any Board member designated thereby in writing at least seven days prior to the date of the meeting, provided that the invitation includes the agenda and location of the meeting.",
+    "source_ar_norm": "2-يعقد المجلس اجتماعاته بصفة دورية (اربع) مرات في السنة علي الاقل. ولرئيس المجلس الدعوة للاجتماع متي دعت الحاجة الي ذلك او متي طلب ذلك اربعة من اعضاء المجلس علي الاقل، وتوجه الدعوة للاجتماع من الرئيس او من ينيبه من الاعضاء كتابة قبل موعد الاجتماع بسبعة ايام علي الاقل، علي ان تتضمن الدعوة جدول اعمال الاجتماع ومكانه.",
+    "target_en_norm": "2-the board shall convene periodically at least four times a year. the chairman of the board may call for a meeting when necessary or upon the request of at least four board members. the meeting invitation shall be sent by the chairman or any board member designated thereby in writing at least seven days prior to the date of the meeting, provided that the invitation includes the agenda and location of the meeting.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 781,
+    "source_ar": "3-يكـون اجتمـاع المجلـس صحيحاً إذا حضـره أغلبيـة الأعضـاء علـى الأقـل، بمن فيهم رئيس المجلس أو من ينيبه من الأعضاء، وتصدر القرارات بأغلبية أصوات الحاضرين على الأقل، وفي حالة تساوي الأصوات يرجح الجانب الذي صوت معه رئيس الاجتماع، ويجوز اتخاذ قرارات المجلس عن طريق التمرير على الأعضاء.",
+    "target_en": "3-Board meetings shall be deemed valid if attended by the majority of members, including the Chairman of the Board or his designee from among Board members. Decisions shall be passed by the majority vote of attending members; in case of a tie, the meeting chairman shall have the casting vote. However, Board decisions may be passed by circulation.",
+    "source_ar_norm": "3-يكون اجتماع المجلس صحيحا اذا حضره اغلبية الاعضاء علي الاقل، بمن فيهم رئيس المجلس او من ينيبه من الاعضاء، وتصدر القرارات باغلبية اصوات الحاضرين علي الاقل، وفي حالة تساوي الاصوات يرجح الجانب الذي صوت معه رئيس الاجتماع، ويجوز اتخاذ قرارات المجلس عن طريق التمرير علي الاعضاء.",
+    "target_en_norm": "3-board meetings shall be deemed valid if attended by the majority of members, including the chairman of the board or his designee from among board members. decisions shall be passed by the majority vote of attending members; in case of a tie, the meeting chairman shall have the casting vote. however, board decisions may be passed by circulation.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 782,
+    "source_ar": "4-تثبت مداولات المجلس وقراراته في محاضر يوقعها رئيس الاجتماع والأعضاء الحاضرون وأمين سر المجلس.",
+    "target_en": "4-Board deliberations and decisions shall be recorded in minutes signed by the meeting chairman, attending members, and the Board secretary.",
+    "source_ar_norm": "4-تثبت مداولات المجلس وقراراته في محاضر يوقعها رئيس الاجتماع والاعضاء الحاضرون وامين سر المجلس.",
+    "target_en_norm": "4-board deliberations and decisions shall be recorded in minutes signed by the meeting chairman, attending members, and the board secretary.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 783,
+    "source_ar": "5-لا يجوز لعضو المجلس الامتناع عن التصويت، ولا تفويض عضو آخر بالتصويت عنه عند غيابه. وللعضو المعترض تسجيل اعتراضه وأسباب الاعتراض ضمن محضر اجتماع المجلس.",
+    "target_en": "5-Board members may not abstain from voting nor vote by proxy. An objecting member may record his objection and the reasons therefor in the Board meeting minutes.",
+    "source_ar_norm": "5-لا يجوز لعضو المجلس الامتناع عن التصويت، ولا تفويض عضو اخر بالتصويت عنه عند غيابه. وللعضو المعترض تسجيل اعتراضه واسباب الاعتراض ضمن محضر اجتماع المجلس.",
+    "target_en_norm": "5-board members may not abstain from voting nor vote by proxy. an objecting member may record his objection and the reasons therefor in the board meeting minutes.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 784,
+    "source_ar": "6-يجوز لرئيس المجلس دعوة من يراه لحضور الاجتماعات دون أن يكون لهم حق التصويت.",
+    "target_en": "6-The Chairman of the Board may invite any person he deems fit to attend meetings in a non-voting capacity.",
+    "source_ar_norm": "6-يجوز لرئيس المجلس دعوة من يراه لحضور الاجتماعات دون ان يكون لهم حق التصويت.",
+    "target_en_norm": "6-the chairman of the board may invite any person he deems fit to attend meetings in a non-voting capacity.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 785,
+    "source_ar": "سابعاً:",
+    "target_en": "Seventh:",
+    "source_ar_norm": "سابعا:",
+    "target_en_norm": "seventh:",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 786,
+    "source_ar": "1- يكون للأكاديمية مدير يعين في منصبه ويعفى منه بقرار من المجلس، ويحدد قرار التعيين أجره ومزاياه المالية، ويعد المسؤول عن إدارة شؤون الأكاديمية، وتتركز مسؤولياته في حدود ما تنص عليه الترتيبات وما يقرره المجلس، ويتولى الاختصاصات والمهمات الآتية:",
+    "target_en": "1-The Academy shall have a director whose appointment and dismissal shall be pursuant to a Board decision. The appointment decision shall determine the director's salary and benefits. Said director shall be in charge of managing the Academy's affairs; his responsibilities shall be within the limits of these Arrangements and as determined by Board decisions. The director shall assume the following powers and duties:",
+    "source_ar_norm": "1- يكون للاكاديمية مدير يعين في منصبه ويعفي منه بقرار من المجلس، ويحدد قرار التعيين اجره ومزاياه المالية، ويعد المسؤول عن ادارة شؤون الاكاديمية، وتتركز مسؤولياته في حدود ما تنص عليه الترتيبات وما يقرره المجلس، ويتولي الاختصاصات والمهمات الاتية:",
+    "target_en_norm": "1-the academy shall have a director whose appointment and dismissal shall be pursuant to a board decision. the appointment decision shall determine the director's salary and benefits. said director shall be in charge of managing the academy's affairs; his responsibilities shall be within the limits of these arrangements and as determined by board decisions. the director shall assume the following powers and duties:",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 787,
+    "source_ar": "أ- الإشراف على سير العمل في الأكاديمية من خلال اللوائح والخطط والبرامج المعتمدة.",
+    "target_en": "Supervising the Academy's work progress in accordance with applicable regulations and approved plans and programs.",
+    "source_ar_norm": "ا- الاشراف علي سير العمل في الاكاديمية من خلال اللوائح والخطط والبرامج المعتمدة.",
+    "target_en_norm": "supervising the academy's work progress in accordance with applicable regulations and approved plans and programs.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 788,
+    "source_ar": "ب- اقتراح سياسات العمل المتعلقة بنشاط الأكاديمية، والخطط والبرامج اللازمة لتنفيذها، ورفعها إلى المجلس، ومتابعة تنفيذها بعد إقرارها.",
+    "target_en": "Proposing work policies relating to the Academy's activities and the plans and programs necessary for their implementation, submitting them to the Board, and monitoring their implementation upon approval.",
+    "source_ar_norm": "ب- اقتراح سياسات العمل المتعلقة بنشاط الاكاديمية، والخطط والبرامج اللازمة لتنفيذها، ورفعها الي المجلس، ومتابعة تنفيذها بعد اقرارها.",
+    "target_en_norm": "proposing work policies relating to the academy's activities and the plans and programs necessary for their implementation, submitting them to the board, and monitoring their implementation upon approval.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 789,
+    "source_ar": "ج- اقتراح الهيكل التنظيمي للأكاديمية، ومشروعات اللوائح الإدارية والمالية وغيرها من اللوائح الداخلية اللازمة لعمل الأكاديمية، ورفعها إلى المجلس لإقرارها.",
+    "target_en": "Proposing the Academy's organizational structure as well as the administrative and financial regulations and other necessary internal regulations, and submitting the same to the Board for approval.",
+    "source_ar_norm": "ج- اقتراح الهيكل التنظيمي للاكاديمية، ومشروعات اللوائح الادارية والمالية وغيرها من اللوائح الداخلية اللازمة لعمل الاكاديمية، ورفعها الي المجلس لاقرارها.",
+    "target_en_norm": "proposing the academy's organizational structure as well as the administrative and financial regulations and other necessary internal regulations, and submitting the same to the board for approval.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 790,
+    "source_ar": "د- تعيين العاملين في الأكاديمية والإشراف عليهم وإنهاء خدماتهم، وفقاً لما تحدده اللوائح.",
+    "target_en": "Appointing Academy employees, supervising their performance, and terminating their service, in accordance with the regulations.",
+    "source_ar_norm": "د- تعيين العاملين في الاكاديمية والاشراف عليهم وانهاء خدماتهم، وفقا لما تحدده اللوائح.",
+    "target_en_norm": "appointing academy employees, supervising their performance, and terminating their service, in accordance with the regulations.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 791,
+    "source_ar": "هـ- إصدار الأوامر بمصروفات الأكاديمية وفقاً للميزانية السنوية المعتمدة ولوائح الأكاديمية.",
+    "target_en": "Issuing disbursement orders for the Academy's expenses in accordance with the approved annual budget and the Academy's regulations.",
+    "source_ar_norm": "ه- اصدار الاوامر بمصروفات الاكاديمية وفقا للميزانية السنوية المعتمدة ولوائح الاكاديمية.",
+    "target_en_norm": "issuing disbursement orders for the academy's expenses in accordance with the approved annual budget and the academy's regulations.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 792,
+    "source_ar": "و- إعداد مشروع ميزانية الأكاديمية السنوية ومشروع حسابها الختامي، وتقريرها السنوي، ورفعها إلى المجلس للموافقة عليها.",
+    "target_en": "Preparing the Academy's draft annual budget, draft final accounts, and annual report, and submitting them to the Board for approval.",
+    "source_ar_norm": "و- اعداد مشروع ميزانية الاكاديمية السنوية ومشروع حسابها الختامي، وتقريرها السنوي، ورفعها الي المجلس للموافقة عليها.",
+    "target_en_norm": "preparing the academy's draft annual budget, draft final accounts, and annual report, and submitting them to the board for approval.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 793,
+    "source_ar": "ز- تمثيل الأكاديمية أمام القضاء، ولدى الجهات الحكومية والمؤسسات والهيئات الأخرى ذات العلاقة، وغيرها من الجهات داخل المملكة وخارجها، وله تفويض غيره بذلك.",
+    "target_en": "Representing the Academy before the judiciary, government agencies, and relevant institutions and entities as well as other entities within the Kingdom and abroad. The director may delegate such power.",
+    "source_ar_norm": "ز- تمثيل الاكاديمية امام القضاء، ولدي الجهات الحكومية والمؤسسات والهيئات الاخري ذات العلاقة، وغيرها من الجهات داخل المملكة وخارجها، وله تفويض غيره بذلك.",
+    "target_en_norm": "representing the academy before the judiciary, government agencies, and relevant institutions and entities as well as other entities within the kingdom and abroad. the director may delegate such power.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 794,
+    "source_ar": "ح- إعداد التقارير الدورية عن سير أعمال الأكاديمية وإنجازاتها، وعما يعوق تحقيق أهدافها، وتوصياته في هذا الشأن، ورفعها إلى المجلس.",
+    "target_en": "Preparing periodic reports on the Academy's progress, achievements, and encountered challenges as well as his recommendations in this regard, and submitting the same to the Board.",
+    "source_ar_norm": "ح- اعداد التقارير الدورية عن سير اعمال الاكاديمية وانجازاتها، وعما يعوق تحقيق اهدافها، وتوصياته في هذا الشان، ورفعها الي المجلس.",
+    "target_en_norm": "preparing periodic reports on the academy's progress, achievements, and encountered challenges as well as his recommendations in this regard, and submitting the same to the board.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 795,
+    "source_ar": "ط- تقديم الاقتراحات إلى المجلس في شأن الموضوعات الداخلة في اختصاص الأكاديمية.",
+    "target_en": "Submitting proposals to the Board regarding matters within the Academy’s areas of specialization.",
+    "source_ar_norm": "ط- تقديم الاقتراحات الي المجلس في شان الموضوعات الداخلة في اختصاص الاكاديمية.",
+    "target_en_norm": "submitting proposals to the board regarding matters within the academy’s areas of specialization.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 796,
+    "source_ar": "ي- أي اختصاص آخر يسنده إليه المجلس أو لوائح الأكاديمية.",
+    "target_en": "Any other task assigned thereto by the Board or the Academy's regulations.",
+    "source_ar_norm": "ي- اي اختصاص اخر يسنده اليه المجلس او لوائح الاكاديمية.",
+    "target_en_norm": "any other task assigned thereto by the board or the academy's regulations.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 797,
+    "source_ar": "2-لمدير الأكاديمية تفويض بعض اختصاصاته ومهماته وصلاحيته إلى غيره من منسوبي الأكاديمية.",
+    "target_en": "2-The director of the Academy may delegate some of his powers and duties to other Academy employees.",
+    "source_ar_norm": "2-لمدير الاكاديمية تفويض بعض اختصاصاته ومهماته وصلاحيته الي غيره من منسوبي الاكاديمية.",
+    "target_en_norm": "2-the director of the academy may delegate some of his powers and duties to other academy employees.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 798,
+    "source_ar": "ثامناً:",
+    "target_en": "Eighth:",
+    "source_ar_norm": "ثامنا:",
+    "target_en_norm": "eighth:",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 799,
+    "source_ar": "تتكون الموارد المالية للأكاديمية مما يأتي:",
+    "target_en": "The Academy's financial resources shall comprise the following:",
+    "source_ar_norm": "تتكون الموارد المالية للاكاديمية مما ياتي:",
+    "target_en_norm": "the academy's financial resources shall comprise the following:",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  },
+  {
+    "id": 800,
+    "source_ar": "1- ما يخصص لها من اعتمادات ضمن ميزانية الوزارة.",
+    "target_en": "Allocations within the Ministry's budget.",
+    "source_ar_norm": "1- ما يخصص لها من اعتمادات ضمن ميزانية الوزارة.",
+    "target_en_norm": "allocations within the ministry's budget.",
+    "file_name": "الترتيبات التنظيمية للأكاديمية العالمية للسياحة.docx"
+  }
+]

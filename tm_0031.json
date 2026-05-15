@@ -1,0 +1,802 @@
+[
+  {
+    "id": 3001,
+    "source_ar": "المصابون بأمراض سارية أو معدية أو باضطرابات نفسية تشكل خطراً على أنفسهم أو الآخرين.",
+    "target_en": "1. Persons afflicted with contagious or infectious diseases or psychological disorders that pose a risk to themselves or to others.",
+    "source_ar_norm": "المصابون بامراض سارية او معدية او باضطرابات نفسية تشكل خطرا علي انفسهم او الاخرين.",
+    "target_en_norm": "1. persons afflicted with contagious or infectious diseases or psychological disorders that pose a risk to themselves or to others.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3002,
+    "source_ar": "غير المستقرين صحيّاً ممن يحتاجون إلى رعاية صحية تحول دون استفادتهم من هذه البرامج.",
+    "target_en": "2. Persons who are medically unstable and require healthcare that prevents them from benefiting from such programs.",
+    "source_ar_norm": "غير المستقرين صحيا ممن يحتاجون الي رعاية صحية تحول دون استفادتهم من هذه البرامج.",
+    "target_en_norm": "2. persons who are medically unstable and require healthcare that prevents them from benefiting from such programs.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3003,
+    "source_ar": "المادة الثانية والعشرون",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون",
+    "target_en_norm": "article 22",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3004,
+    "source_ar": "تقدم البرامج الاجتماعية أو المهنية -حسب اشتراطات القبول في كل برنامج- في المنشآت الحكومية للأشخاص ذوي الإعاقة من السعوديين، ويعد في حكم السعوديين لأغراض تطبيق هذا الحكم كل من:",
+    "target_en": "Social or vocational programs are offered to persons with disabilities of Saudi nationality in government facilities according to the admission requirements of each program. For the purpose of implementing this provision, the following shall be treated as Saudis:",
+    "source_ar_norm": "تقدم البرامج الاجتماعية او المهنية -حسب اشتراطات القبول في كل برنامج- في المنشات الحكومية للاشخاص ذوي الاعاقة من السعوديين، ويعد في حكم السعوديين لاغراض تطبيق هذا الحكم كل من:",
+    "target_en_norm": "social or vocational programs are offered to persons with disabilities of saudi nationality in government facilities according to the admission requirements of each program. for the purpose of implementing this provision, the following shall be treated as saudis:",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3005,
+    "source_ar": "أبناء القبائل النازحة ومن في حكمهم.",
+    "target_en": "1. A person from a displaced tribe or a person who has a similar status.",
+    "source_ar_norm": "ابناء القبائل النازحة ومن في حكمهم.",
+    "target_en_norm": "1. a person from a displaced tribe or a person who has a similar status.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3006,
+    "source_ar": "أبناء المواطنات من غير السعوديين.",
+    "target_en": "2. A non-Saudi child whose mother is a Saudi national.",
+    "source_ar_norm": "ابناء المواطنات من غير السعوديين.",
+    "target_en_norm": "2. a non-saudi child whose mother is a saudi national.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3007,
+    "source_ar": "المستفيدين من خدمات المنشآت الحكومية على حسابهم الخاص، أو من تتحمل دولهم أو المؤسسات الربحية أو غير الربحية تكاليف خدماتهم.",
+    "target_en": "3. A beneficiary of the services of government facilities at his own expense, at the expense of his country, or at the expense of a profit or non-profit organization.",
+    "source_ar_norm": "المستفيدين من خدمات المنشات الحكومية علي حسابهم الخاص، او من تتحمل دولهم او المؤسسات الربحية او غير الربحية تكاليف خدماتهم.",
+    "target_en_norm": "3. a beneficiary of the services of government facilities at his own expense, at the expense of his country, or at the expense of a profit or non-profit organization.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3008,
+    "source_ar": "المادة الثالثة والعشرون",
+    "target_en": "Article 23",
+    "source_ar_norm": "المادة الثالثة والعشرون",
+    "target_en_norm": "article 23",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3009,
+    "source_ar": "تتحمل الدولة تكاليف البرامج الاجتماعية والمهنية -تحملاً كاملاً أو جزئيّاً- للشخص ذي الإعاقة في المنشآت غير الحكومية عند تعذر إلحاقه بالمنشآت الحكومية، وفق الضوابط التالية:",
+    "target_en": "The State shall fully or partially bear the costs of social and vocational programs for a person with a disability in a non-government facility if it is not possible to enroll such person in a government facility, subject to the following controls:",
+    "source_ar_norm": "تتحمل الدولة تكاليف البرامج الاجتماعية والمهنية -تحملا كاملا او جزئيا- للشخص ذي الاعاقة في المنشات غير الحكومية عند تعذر الحاقه بالمنشات الحكومية، وفق الضوابط التالية:",
+    "target_en_norm": "the state shall fully or partially bear the costs of social and vocational programs for a person with a disability in a non-government facility if it is not possible to enroll such person in a government facility, subject to the following controls:",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3010,
+    "source_ar": "أن يكون سعودي الجنسية، أو من أبناء القبائل النازحة، أو من أبناء المواطنات من غير السعوديين.",
+    "target_en": "1. The person is a Saudi national, is from a displaced tribe or has a similar status, or is a non-Saudi child whose mother is a Saudi national.",
+    "source_ar_norm": "ان يكون سعودي الجنسية، او من ابناء القبائل النازحة، او من ابناء المواطنات من غير السعوديين.",
+    "target_en_norm": "1. the person is a saudi national, is from a displaced tribe or has a similar status, or is a non-saudi child whose mother is a saudi national.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3011,
+    "source_ar": "ألا يكون مصابًا بأمراض سارية أو معدية أو باضطرابات نفسية تشكل خطراً على نفسه أو الآخرين.",
+    "target_en": "2. The person is not afflicted with a contagious or infectious disease or a psychological disorder that poses a risk to himself or to others.",
+    "source_ar_norm": "الا يكون مصابا بامراض سارية او معدية او باضطرابات نفسية تشكل خطرا علي نفسه او الاخرين.",
+    "target_en_norm": "2. the person is not afflicted with a contagious or infectious disease or a psychological disorder that poses a risk to himself or to others.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3012,
+    "source_ar": "ألا يكون غير مستقر صحيّاً ممن يحتاج إلى رعاية صحية تحول دون استفادته من هذه البرامج.",
+    "target_en": "3. The person is not medically unstable nor in need of healthcare that prevents him from benefiting from such programs.",
+    "source_ar_norm": "الا يكون غير مستقر صحيا ممن يحتاج الي رعاية صحية تحول دون استفادته من هذه البرامج.",
+    "target_en_norm": "3. the person is not medically unstable nor in need of healthcare that prevents him from benefiting from such programs.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3013,
+    "source_ar": "أن تنطبق عليه شروط القبول بالبرامج بحسب أنواعها.",
+    "target_en": "4. The person meets the admission requirements of the respective programs.",
+    "source_ar_norm": "ان تنطبق عليه شروط القبول بالبرامج بحسب انواعها.",
+    "target_en_norm": "4. the person meets the admission requirements of the respective programs.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3014,
+    "source_ar": "ألا يكون موظفًا في القطاع العام أو القطاع الخاص.",
+    "target_en": "5. The person is not employed in the public or private sector.",
+    "source_ar_norm": "الا يكون موظفا في القطاع العام او القطاع الخاص.",
+    "target_en_norm": "5. the person is not employed in the public or private sector.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3015,
+    "source_ar": "المادة الرابعة والعشرون",
+    "target_en": "Article 24",
+    "source_ar_norm": "المادة الرابعة والعشرون",
+    "target_en_norm": "article 24",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3016,
+    "source_ar": "تحدد الوزارة المنشآت غير الحكومية التي يحوَّل الأشخاص ذوو الإعاقة إليها للاستفادة من برامجها استفادة كاملة أو جزئية وفق الاشتراطات المذكورة في القواعد التنفيذية، على أن يراعى في ذلك التغطية الجغرافية لأماكن إقامة الأشخاص ذوي الإعاقة وبما يتناسب مع احتياجاتهم.",
+    "target_en": "The Ministry shall designate the non-government facilities to which persons with disabilities are referred in order to fully or partially benefit from their programs in accordance with the requirements provided for in the Implementing Rules, taking into account the proximity of such facilities to the places of residence of said persons as well as their needs.",
+    "source_ar_norm": "تحدد الوزارة المنشات غير الحكومية التي يحول الاشخاص ذوو الاعاقة اليها للاستفادة من برامجها استفادة كاملة او جزئية وفق الاشتراطات المذكورة في القواعد التنفيذية، علي ان يراعي في ذلك التغطية الجغرافية لاماكن اقامة الاشخاص ذوي الاعاقة وبما يتناسب مع احتياجاتهم.",
+    "target_en_norm": "the ministry shall designate the non-government facilities to which persons with disabilities are referred in order to fully or partially benefit from their programs in accordance with the requirements provided for in the implementing rules, taking into account the proximity of such facilities to the places of residence of said persons as well as their needs.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3017,
+    "source_ar": "المادة الخامسة والعشرون",
+    "target_en": "Article 25",
+    "source_ar_norm": "المادة الخامسة والعشرون",
+    "target_en_norm": "article 25",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3018,
+    "source_ar": "تحدد القواعد التنفيذية إجراءات إنهاء الخدمات للأشخاص ذوي الإعاقة من البرامج الاجتماعية أو المهنية الحكومية أو التي تتحمل الدولة تكاليفها، وإجراءات إحالتهم إلى البرامج الأخرى سواء المقدمة من الوزارة أو التي توفرها الدولة في الجهات الحكومية الأخرى لضمان تغطية احتياجاتهم.",
+    "target_en": "The Implementing Rules shall specify the procedures for terminating the services provided to persons with disabilities in government social or vocational programs or in programs the costs of which are borne by the State as well as the procedures for referring such persons to other programs, whether offered by the Ministry or by the State through other government agencies, to ensure their needs are met.",
+    "source_ar_norm": "تحدد القواعد التنفيذية اجراءات انهاء الخدمات للاشخاص ذوي الاعاقة من البرامج الاجتماعية او المهنية الحكومية او التي تتحمل الدولة تكاليفها، واجراءات احالتهم الي البرامج الاخري سواء المقدمة من الوزارة او التي توفرها الدولة في الجهات الحكومية الاخري لضمان تغطية احتياجاتهم.",
+    "target_en_norm": "the implementing rules shall specify the procedures for terminating the services provided to persons with disabilities in government social or vocational programs or in programs the costs of which are borne by the state as well as the procedures for referring such persons to other programs, whether offered by the ministry or by the state through other government agencies, to ensure their needs are met.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3019,
+    "source_ar": "المادة السادسة والعشرون",
+    "target_en": "Article 26",
+    "source_ar_norm": "المادة السادسة والعشرون",
+    "target_en_norm": "article 26",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3020,
+    "source_ar": "للوزارة -في حال امتناع الشخص ذي الإعاقة- الاستعانة بالجهات الحكومية ذات العلاقة لتنفيذ إجراءات الخروج من البرنامج بعد انتهائه أو انتفاء شروط القبول عنه، وكذلك تنفيذ إجراءات الإحالة المذكورة في المادة (الخامسة والعشرين) من اللائحة.",
+    "target_en": "If a person with a disability refuses to be discharged from the facility upon the end of the program or if the admission requirements cease to apply to such person, the Ministry may seek the assistance of relevant government agencies to implement the discharge procedures as well as the referral procedures referred to in Article 25 of these Regulations.",
+    "source_ar_norm": "للوزارة -في حال امتناع الشخص ذي الاعاقة- الاستعانة بالجهات الحكومية ذات العلاقة لتنفيذ اجراءات الخروج من البرنامج بعد انتهائه او انتفاء شروط القبول عنه، وكذلك تنفيذ اجراءات الاحالة المذكورة في المادة (الخامسة والعشرين) من اللائحة.",
+    "target_en_norm": "if a person with a disability refuses to be discharged from the facility upon the end of the program or if the admission requirements cease to apply to such person, the ministry may seek the assistance of relevant government agencies to implement the discharge procedures as well as the referral procedures referred to in article 25 of these regulations.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3021,
+    "source_ar": "المادة السابعة والعشرون",
+    "target_en": "Article 27",
+    "source_ar_norm": "المادة السابعة والعشرون",
+    "target_en_norm": "article 27",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3022,
+    "source_ar": "تحدد القواعد التنفيذية معايير متابعة تنفيذ البرامج ومراقبة جودة الأداء. وللوزارة إسناد المتابعة إلى القطاع غير الحكومي تحت إشرافها.",
+    "target_en": "The Implementing Rules shall specify the criteria for monitoring program implementation and performance quality. The Ministry may outsource such task to the non-government sector under its supervision.",
+    "source_ar_norm": "تحدد القواعد التنفيذية معايير متابعة تنفيذ البرامج ومراقبة جودة الاداء. وللوزارة اسناد المتابعة الي القطاع غير الحكومي تحت اشرافها.",
+    "target_en_norm": "the implementing rules shall specify the criteria for monitoring program implementation and performance quality. the ministry may outsource such task to the non-government sector under its supervision.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3023,
+    "source_ar": "(الفصل السادس) حقوق الأشخاص ذوي الإعاقة",
+    "target_en": "Chapter 6: Rights of Persons with Disabilities",
+    "source_ar_norm": "(الفصل السادس) حقوق الاشخاص ذوي الاعاقة",
+    "target_en_norm": "chapter 6: rights of persons with disabilities",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3024,
+    "source_ar": "المادة الثامنة والعشرون",
+    "target_en": "Article 28",
+    "source_ar_norm": "المادة الثامنة والعشرون",
+    "target_en_norm": "article 28",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3025,
+    "source_ar": "يصرف للمستحق من الأشخاص ذوي الإعاقة وفق المادة (التاسعة والعشرين) من اللائحة دعم مالي لا يتجاوز (20) عشرين ألف ريال سنويّاً.",
+    "target_en": "Eligible persons with disabilities pursuant to Article 29 of these Regulations shall receive financial support of an amount not exceeding twenty thousand riyals (SAR 20,000) per year.",
+    "source_ar_norm": "يصرف للمستحق من الاشخاص ذوي الاعاقة وفق المادة (التاسعة والعشرين) من اللائحة دعم مالي لا يتجاوز (20) عشرين الف ريال سنويا.",
+    "target_en_norm": "eligible persons with disabilities pursuant to article 29 of these regulations shall receive financial support of an amount not exceeding twenty thousand riyals (sar 20,000) per year.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3026,
+    "source_ar": "المادة التاسعة والعشرون",
+    "target_en": "Article 29",
+    "source_ar_norm": "المادة التاسعة والعشرون",
+    "target_en_norm": "article 29",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3027,
+    "source_ar": "تحدد القواعد التنفيذية ضوابط استحقاق الشخص ذي الإعاقة للدعم المالي استحقاقاً كاملاً أو جزئيّاً، دائماً أو مؤقتاً، وفق التالي:",
+    "target_en": "The Implementing Rules shall specify the eligibility requirements for persons with disabilities to receive full or partial financial support whether on a permanent or temporary basis, as follows:",
+    "source_ar_norm": "تحدد القواعد التنفيذية ضوابط استحقاق الشخص ذي الاعاقة للدعم المالي استحقاقا كاملا او جزئيا، دائما او مؤقتا، وفق التالي:",
+    "target_en_norm": "the implementing rules shall specify the eligibility requirements for persons with disabilities to receive full or partial financial support whether on a permanent or temporary basis, as follows:",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3028,
+    "source_ar": "أن يكون مستحقاً للدعم بناءً على تقييم الإعاقة وشدتها.",
+    "target_en": "1. The person must be eligible to receive support based on the results of the assessment of the disability and its severity.",
+    "source_ar_norm": "ان يكون مستحقا للدعم بناء علي تقييم الاعاقة وشدتها.",
+    "target_en_norm": "1. the person must be eligible to receive support based on the results of the assessment of the disability and its severity.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3029,
+    "source_ar": "أن يكون سعودي الجنسية، أو من أبناء القبائل النازحة ومن في حكمهم، أو من أبناء المواطنات من غير السعوديين.",
+    "target_en": "2. The person must be a Saudi national, be from a displaced tribe or have a similar status, or be a non-Saudi child whose mother is a Saudi national.",
+    "source_ar_norm": "ان يكون سعودي الجنسية، او من ابناء القبائل النازحة ومن في حكمهم، او من ابناء المواطنات من غير السعوديين.",
+    "target_en_norm": "2. the person must be a saudi national, be from a displaced tribe or have a similar status, or be a non-saudi child whose mother is a saudi national.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3030,
+    "source_ar": "ألا يكون مستفيداً من أي خدمة إيوائية حكومية، أو أي خدمة إيوائية أخرى على نفقة الدولة سواء داخل المملكة أو خارجها لمدة تزيد على (مائة وثمانين) يوماً في السنة الواحدة.",
+    "target_en": "3. The person must not be a beneficiary of any government housing service or of any other housing service at the expense of the State inside or outside the Kingdom for more than one hundred and eighty days per year.",
+    "source_ar_norm": "الا يكون مستفيدا من اي خدمة ايوائية حكومية، او اي خدمة ايوائية اخري علي نفقة الدولة سواء داخل المملكة او خارجها لمدة تزيد علي (مائة وثمانين) يوما في السنة الواحدة.",
+    "target_en_norm": "3. the person must not be a beneficiary of any government housing service or of any other housing service at the expense of the state inside or outside the kingdom for more than one hundred and eighty days per year.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3031,
+    "source_ar": "المادة الثلاثون",
+    "target_en": "Article 30",
+    "source_ar_norm": "المادة الثلاثون",
+    "target_en_norm": "article 30",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3032,
+    "source_ar": "يصرف الدعم المالي للشخص ذي الإعاقة كامل الأهلية. وإذا كان قاصرًا أو صدر في شأنه حكم قضائي يثبت نقص أو فقدان الأهلية فيصرف الدعم لمقدم الرعاية من أسرته.",
+    "target_en": "Financial support shall be paid to a person with a disability who is fully competent. If the person with a disability is a minor or if a court ruling is issued declaring him fully or partially incompetent, the support shall be paid to a family member caregiver.",
+    "source_ar_norm": "يصرف الدعم المالي للشخص ذي الاعاقة كامل الاهلية. واذا كان قاصرا او صدر في شانه حكم قضائي يثبت نقص او فقدان الاهلية فيصرف الدعم لمقدم الرعاية من اسرته.",
+    "target_en_norm": "financial support shall be paid to a person with a disability who is fully competent. if the person with a disability is a minor or if a court ruling is issued declaring him fully or partially incompetent, the support shall be paid to a family member caregiver.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3033,
+    "source_ar": "المادة الحادية والثلاثون",
+    "target_en": "Article 31",
+    "source_ar_norm": "المادة الحادية والثلاثون",
+    "target_en_norm": "article 31",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3034,
+    "source_ar": "يجوز الجمع بين الدعم المالي الخاص بالشخص ذي الإعاقة وأي إعانة أو دعم مالي آخر.",
+    "target_en": "Persons with disabilities may receive disability financial support in addition to any other aid or financial support.",
+    "source_ar_norm": "يجوز الجمع بين الدعم المالي الخاص بالشخص ذي الاعاقة واي اعانة او دعم مالي اخر.",
+    "target_en_norm": "persons with disabilities may receive disability financial support in addition to any other aid or financial support.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3035,
+    "source_ar": "المادة الثانية والثلاثون",
+    "target_en": "Article 32",
+    "source_ar_norm": "المادة الثانية والثلاثون",
+    "target_en_norm": "article 32",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3036,
+    "source_ar": "يستحق الأشخاص ذوو الإعاقة السعوديون الملتحقون بالبرامج المهنية مكافأة مالية شهرية أثناء فترة التحاقهم بالبرنامج، قدرها (800) ثمانمائة ريال للأعزب، و(1200) ألف ومائتا ريال للمتزوج. وفي حالة الإقامة في أي خدمة إيوائية حكومية أو على نفقة الدولة تخفض هذه المكافأة بنسبة (%50).",
+    "target_en": "Persons with disabilities of Saudi nationality who are enrolled in vocational programs shall be entitled to receive, during their enrollment period, a monthly allowance of eight hundred riyals (SAR 800) for unmarried persons and one thousand and two hundred riyals (SAR 1,200) for married persons. If the person with a disability is residing in any government housing service or in any housing service at the expense of the State, such allowance shall be reduced by 50%.",
+    "source_ar_norm": "يستحق الاشخاص ذوو الاعاقة السعوديون الملتحقون بالبرامج المهنية مكافاة مالية شهرية اثناء فترة التحاقهم بالبرنامج، قدرها (800) ثمانمائة ريال للاعزب، و(1200) الف ومائتا ريال للمتزوج. وفي حالة الاقامة في اي خدمة ايوائية حكومية او علي نفقة الدولة تخفض هذه المكافاة بنسبة (%50).",
+    "target_en_norm": "persons with disabilities of saudi nationality who are enrolled in vocational programs shall be entitled to receive, during their enrollment period, a monthly allowance of eight hundred riyals (sar 800) for unmarried persons and one thousand and two hundred riyals (sar 1,200) for married persons. if the person with a disability is residing in any government housing service or in any housing service at the expense of the state, such allowance shall be reduced by 50%.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3037,
+    "source_ar": "المادة الثالثة والثلاثون",
+    "target_en": "Article 33",
+    "source_ar_norm": "المادة الثالثة والثلاثون",
+    "target_en_norm": "article 33",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3038,
+    "source_ar": "تحدد القواعد التنفيذية ضوابط صرف المكافأة المالية الشهرية اعتبارًا من تاريخ الالتحاق بالبرامج المهنية بما في ذلك ما يتصل بالإجازات، وضوابط إيقاف الصرف للمتعثرين في البرامج.",
+    "target_en": "The Implementing Rules shall specify the controls for payment of the monthly allowance as of the date of enrollment in the vocational programs, including matters relating to vacations and the controls for suspending payment to persons who are not making progress in the programs.",
+    "source_ar_norm": "تحدد القواعد التنفيذية ضوابط صرف المكافاة المالية الشهرية اعتبارا من تاريخ الالتحاق بالبرامج المهنية بما في ذلك ما يتصل بالاجازات، وضوابط ايقاف الصرف للمتعثرين في البرامج.",
+    "target_en_norm": "the implementing rules shall specify the controls for payment of the monthly allowance as of the date of enrollment in the vocational programs, including matters relating to vacations and the controls for suspending payment to persons who are not making progress in the programs.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3039,
+    "source_ar": "المادة الرابعة والثلاثون",
+    "target_en": "Article 34",
+    "source_ar_norm": "المادة الرابعة والثلاثون",
+    "target_en_norm": "article 34",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3040,
+    "source_ar": "يمنح الأشخاص ذوو الإعاقة السعوديون القادرون على العمل منحة مالية لإقامة مشروعاتهم سواء كانت بصفة فردية أو بمشاركة الغير بقيمة (50,000) خمسين ألف ريال للشخص لمرة واحدة فقط، وفق الضوابط التي تحددها القواعد التنفيذية.",
+    "target_en": "A person with a disability of Saudi nationality who is able to work shall receive a one-time financial grant of fifty thousand riyals (SAR 50,000) to set up an enterprise, whether individually or in partnership with others, in accordance with the controls specified in the Implementing Rules. Chapter 7: General Provisions",
+    "source_ar_norm": "يمنح الاشخاص ذوو الاعاقة السعوديون القادرون علي العمل منحة مالية لاقامة مشروعاتهم سواء كانت بصفة فردية او بمشاركة الغير بقيمة (50,000) خمسين الف ريال للشخص لمرة واحدة فقط، وفق الضوابط التي تحددها القواعد التنفيذية.",
+    "target_en_norm": "a person with a disability of saudi nationality who is able to work shall receive a one-time financial grant of fifty thousand riyals (sar 50,000) to set up an enterprise, whether individually or in partnership with others, in accordance with the controls specified in the implementing rules. chapter 7: general provisions",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3041,
+    "source_ar": "المادة الخامسة والثلاثون",
+    "target_en": "Article 35",
+    "source_ar_norm": "المادة الخامسة والثلاثون",
+    "target_en_norm": "article 35",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3042,
+    "source_ar": "للشخص ذي الإعاقة كامل الأهلية الحق في اتخاذ جميع الإجراءات اللازمة لتمكينه من الاستفادة مما نصت عليه أحكام اللائحة من مزايا.",
+    "target_en": "1. A person with a disability who is fully competent shall have the right to take all the measures necessary to enable him to benefit from the privileges provided for in these Regulations.",
+    "source_ar_norm": "للشخص ذي الاعاقة كامل الاهلية الحق في اتخاذ جميع الاجراءات اللازمة لتمكينه من الاستفادة مما نصت عليه احكام اللائحة من مزايا.",
+    "target_en_norm": "1. a person with a disability who is fully competent shall have the right to take all the measures necessary to enable him to benefit from the privileges provided for in these regulations.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3043,
+    "source_ar": "مع مراعاة اختصاصات الجهات ذات العلاقة، للوزارة حق الولاية على النفس على من صدر في شأنه حكم قضائي يثبت نقص أو فقدان أهليته مبني على تقييم صحي لقدراته ونضجه الذهني ولا يوجد له ولي شرعي.",
+    "target_en": "2. Without prejudice to the powers of other relevant entities, the Ministry shall have the right of guardianship over person for a person who does not have a legal guardian and who is declared, pursuant to a court ruling, to be fully or partially incompetent based on a medical assessment of his intellectual ability.",
+    "source_ar_norm": "مع مراعاة اختصاصات الجهات ذات العلاقة، للوزارة حق الولاية علي النفس علي من صدر في شانه حكم قضائي يثبت نقص او فقدان اهليته مبني علي تقييم صحي لقدراته ونضجه الذهني ولا يوجد له ولي شرعي.",
+    "target_en_norm": "2. without prejudice to the powers of other relevant entities, the ministry shall have the right of guardianship over person for a person who does not have a legal guardian and who is declared, pursuant to a court ruling, to be fully or partially incompetent based on a medical assessment of his intellectual ability.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3044,
+    "source_ar": "المادة السادسة والثلاثون",
+    "target_en": "Article 36",
+    "source_ar_norm": "المادة السادسة والثلاثون",
+    "target_en_norm": "article 36",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3045,
+    "source_ar": "لا يخل ما ورد في هذه اللائحة من حقوق وخدمات تقدم للشخص ذي الإعاقة، بأي حق أو خدمة أفضل ترد في نصوص نظامية أخرى.",
+    "target_en": "The rights of persons with disabilities and the services provided thereto as stipulated in these Regulations shall not prejudice any more favorable rights or services stipulated in any other legal provisions.",
+    "source_ar_norm": "لا يخل ما ورد في هذه اللائحة من حقوق وخدمات تقدم للشخص ذي الاعاقة، باي حق او خدمة افضل ترد في نصوص نظامية اخري.",
+    "target_en_norm": "the rights of persons with disabilities and the services provided thereto as stipulated in these regulations shall not prejudice any more favorable rights or services stipulated in any other legal provisions.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3046,
+    "source_ar": "المادة السابعة والثلاثون",
+    "target_en": "Article 37",
+    "source_ar_norm": "المادة السابعة والثلاثون",
+    "target_en_norm": "article 37",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3047,
+    "source_ar": "يشكل الوزير بقرار منه لجنة (أو أكثر) للنظر في التظلمات التي تقدم للوزارة من القرارات الناتجة عن تطبيق اللائحة، على ألا يقل عدد أعضائها عن (ثلاثة) أعضاء، من مستشارين نظاميين، ومختصين في مجال البرامج الاجتماعية والبرامج المهنية.",
+    "target_en": "1. The Minister shall, pursuant to a decision issued thereby, form a committee, or more, to consider the grievances submitted to the Ministry against decisions issued in the application of these Regulations. Such committee shall comprise at least three members and shall include legal advisors and specialists in the field of social and vocational programs.",
+    "source_ar_norm": "يشكل الوزير بقرار منه لجنة (او اكثر) للنظر في التظلمات التي تقدم للوزارة من القرارات الناتجة عن تطبيق اللائحة، علي الا يقل عدد اعضائها عن (ثلاثة) اعضاء، من مستشارين نظاميين، ومختصين في مجال البرامج الاجتماعية والبرامج المهنية.",
+    "target_en_norm": "1. the minister shall, pursuant to a decision issued thereby, form a committee, or more, to consider the grievances submitted to the ministry against decisions issued in the application of these regulations. such committee shall comprise at least three members and shall include legal advisors and specialists in the field of social and vocational programs.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3048,
+    "source_ar": "تحدد قواعد وإجراءات عمل اللجنة ومكافآت أعضائها بقرار من الوزير.",
+    "target_en": "2. The committee’s work rules and procedures and the remuneration of its members shall be determined by a decision issued by the Minister.",
+    "source_ar_norm": "تحدد قواعد واجراءات عمل اللجنة ومكافات اعضائها بقرار من الوزير.",
+    "target_en_norm": "2. the committee’s work rules and procedures and the remuneration of its members shall be determined by a decision issued by the minister.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3049,
+    "source_ar": "يجوز الاعتراض أمام المحكمة الإدارية.",
+    "target_en": "3. Appeals may be made before the Administrative Court.",
+    "source_ar_norm": "يجوز الاعتراض امام المحكمة الادارية.",
+    "target_en_norm": "3. appeals may be made before the administrative court.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3050,
+    "source_ar": "المادة الثامنة والثلاثون",
+    "target_en": "Article 38",
+    "source_ar_norm": "المادة الثامنة والثلاثون",
+    "target_en_norm": "article 38",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3051,
+    "source_ar": "يصدر الوزير القواعد التنفيذية خلال (مائة وثمانين) يوماً من تاريخ صدور اللائحة، وتنشر في موقع الوزارة الإلكتروني، ويعمل بها من تاريخ العمل باللائحة.",
+    "target_en": "The Minister shall issue the Implementing Rules within one hundred and eighty days from the date of issuance of these Regulations. The Implementing Rules shall be published on the Ministry’s website and shall become effective on the date these Regulations enter into force.",
+    "source_ar_norm": "يصدر الوزير القواعد التنفيذية خلال (مائة وثمانين) يوما من تاريخ صدور اللائحة، وتنشر في موقع الوزارة الالكتروني، ويعمل بها من تاريخ العمل باللائحة.",
+    "target_en_norm": "the minister shall issue the implementing rules within one hundred and eighty days from the date of issuance of these regulations. the implementing rules shall be published on the ministry’s website and shall become effective on the date these regulations enter into force.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3052,
+    "source_ar": "المادة التاسعة والثلاثون",
+    "target_en": "Article 39",
+    "source_ar_norm": "المادة التاسعة والثلاثون",
+    "target_en_norm": "article 39",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3053,
+    "source_ar": "تحل اللائحة محل اللائحة الأساسية لبرامج تأهيل المعوقين، الصادرة بقرار مجلس الوزراء رقم (٣٤) وتاريخ ١٠ / ٣ / ١٤٠٠هـ.",
+    "target_en": "These Regulations shall supersede the Regulations for Rehabilitation Programs for the Disabled issued by Council of Ministers Resolution No. (34) dated 10/3/1400H.",
+    "source_ar_norm": "تحل اللائحة محل اللائحة الاساسية لبرامج تاهيل المعوقين، الصادرة بقرار مجلس الوزراء رقم (٣٤) وتاريخ ١٠ / ٣ / ١٤٠٠ه.",
+    "target_en_norm": "these regulations shall supersede the regulations for rehabilitation programs for the disabled issued by council of ministers resolution no. (34) dated 10/3/1400h.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3054,
+    "source_ar": "المادة الأربعون",
+    "target_en": "Article 40",
+    "source_ar_norm": "المادة الاربعون",
+    "target_en_norm": "article 40",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3055,
+    "source_ar": "يعمل باللائحة بعد (مائة وثمانين) يوماً من تاريخ نشرها في الجريدة الرسمية.",
+    "target_en": "These Regulations shall enter into force one hundred and eighty days from the date of their publication in the Official Gazette.",
+    "source_ar_norm": "يعمل باللائحة بعد (مائة وثمانين) يوما من تاريخ نشرها في الجريدة الرسمية.",
+    "target_en_norm": "these regulations shall enter into force one hundred and eighty days from the date of their publication in the official gazette.",
+    "file_name": "اللائحة التنظيمية للبرامج الاجتماعية والمهنية للأشخاص ذوي الإعاقة.docx"
+  },
+  {
+    "id": 3056,
+    "source_ar": "اللائحة التنظيمية للخيل العربية الأصيلة",
+    "target_en": "Arabian Horses Regulations",
+    "source_ar_norm": "اللائحة التنظيمية للخيل العربية الاصيلة",
+    "target_en_norm": "arabian horses regulations",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3057,
+    "source_ar": "المادة الأولى",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي",
+    "target_en_norm": "article 1",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3058,
+    "source_ar": "لأغراض تطبيق هذه اللائحة، يقصد بالكلمات والعبارات الآتية المعاني الموضحة أمام كل منها:",
+    "target_en": "For the purposes of the application of these Regulations, the following words and phrases shall have the meanings assigned thereto:",
+    "source_ar_norm": "لاغراض تطبيق هذه اللائحة، يقصد بالكلمات والعبارات الاتية المعاني الموضحة امام كل منها:",
+    "target_en_norm": "for the purposes of the application of these regulations, the following words and phrases shall have the meanings assigned thereto:",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3059,
+    "source_ar": "1-التنظيم: تنظيم مركز الملك عبد العزيز للخيل العربية الأصيلة.",
+    "target_en": "1-Statute: Statute of King Abdulaziz Arabian Horse Center.",
+    "source_ar_norm": "1-التنظيم: تنظيم مركز الملك عبد العزيز للخيل العربية الاصيلة.",
+    "target_en_norm": "1-statute: statute of king abdulaziz arabian horse center.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3060,
+    "source_ar": "2-اللائحة: اللائحة التنظيمية للخيل العربية الأصيلة.",
+    "target_en": "2-Regulations: Arabian Horses Regulations.",
+    "source_ar_norm": "2-اللائحة: اللائحة التنظيمية للخيل العربية الاصيلة.",
+    "target_en_norm": "2-regulations: arabian horses regulations.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3061,
+    "source_ar": "3-المركز: مركز الملك عبد العزيز للخيل العربية الأصيلة.",
+    "target_en": "3-Center: King Abdulaziz Arabian Horse Center.",
+    "source_ar_norm": "3-المركز: مركز الملك عبد العزيز للخيل العربية الاصيلة.",
+    "target_en_norm": "3-center: king abdulaziz arabian horse center.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3062,
+    "source_ar": "4-الوزير: وزير البيئة والمياه والزراعة.",
+    "target_en": "4-Minister: Minister of Environment, Water, and Agriculture.",
+    "source_ar_norm": "4-الوزير: وزير البيئة والمياه والزراعة.",
+    "target_en_norm": "4-minister: minister of environment, water, and agriculture.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3063,
+    "source_ar": "5-الخيل العربية الأصيلة: السلالات المنحدرة من الخيل العربية، بما فيها الخيل السعودية الأصل والمنشأ (خيل المؤسس)، المسجلة في سجلات المركز، والموثقة في المنظمة العالمية للجواد العربي (WAHO).",
+    "target_en": "5-Arabian Horse: Lineages of horses descending from Arabian horses, including horses bred, born, and raised in Saudi Arabia (the Founder’s horse), which are registered in the Center’s records and documented in the World Arabian Horse Organization.",
+    "source_ar_norm": "5-الخيل العربية الاصيلة: السلالات المنحدرة من الخيل العربية، بما فيها الخيل السعودية الاصل والمنشا (خيل المؤسس)، المسجلة في سجلات المركز، والموثقة في المنظمة العالمية للجواد العربي (WAHO).",
+    "target_en_norm": "5-arabian horse: lineages of horses descending from arabian horses, including horses bred, born, and raised in saudi arabia (the founder’s horse), which are registered in the center’s records and documented in the world arabian horse organization.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3064,
+    "source_ar": "6-التسجيل: تقييد جميع المعلومات المتصلة بالخيل العربية الأصيلة.",
+    "target_en": "6-Registration: Recording all the information relating to Arabian horses.",
+    "source_ar_norm": "6-التسجيل: تقييد جميع المعلومات المتصلة بالخيل العربية الاصيلة.",
+    "target_en_norm": "6-registration: recording all the information relating to arabian horses.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3065,
+    "source_ar": "7-المربط: مكان مجهز لإيواء الخيل العربية الأصيلة ورعايتها.",
+    "target_en": "7-Stud Farm: A place equipped to house and care for Arabian horses.",
+    "source_ar_norm": "7-المربط: مكان مجهز لايواء الخيل العربية الاصيلة ورعايتها.",
+    "target_en_norm": "7-stud farm: a place equipped to house and care for arabian horses.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3066,
+    "source_ar": "8-رياضة الفروسية: مسابقات العروض والجمال وغيرها، الخاصة بالخيل العربية الأصيلة.",
+    "target_en": "8-Equestrian Sports: Horse shows, beauty pageants, and other competitions for Arabian horses.",
+    "source_ar_norm": "8-رياضة الفروسية: مسابقات العروض والجمال وغيرها، الخاصة بالخيل العربية الاصيلة.",
+    "target_en_norm": "8-equestrian sports: horse shows, beauty pageants, and other competitions for arabian horses.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3067,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3068,
+    "source_ar": "يصدر الوزير الضوابط والشروط والمتطلبات اللازمة للآتي:",
+    "target_en": "The Minister shall issue the necessary controls, conditions, and requirements for the following:",
+    "source_ar_norm": "يصدر الوزير الضوابط والشروط والمتطلبات اللازمة للاتي:",
+    "target_en_norm": "the minister shall issue the necessary controls, conditions, and requirements for the following:",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3069,
+    "source_ar": "1. تسجيل الخيل العربية الأصيلة.",
+    "target_en": "1. Registering Arabian horses.",
+    "source_ar_norm": "1. تسجيل الخيل العربية الاصيلة.",
+    "target_en_norm": "1. registering arabian horses.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3070,
+    "source_ar": "2. إصدار التراخيص لمرابط الخيل العربية الأصيلة.",
+    "target_en": "2. Issuing licenses for Arabian horse stud farms.",
+    "source_ar_norm": "2. اصدار التراخيص لمرابط الخيل العربية الاصيلة.",
+    "target_en_norm": "2. issuing licenses for arabian horse stud farms.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3071,
+    "source_ar": "3. شروط الحصول على الموافقات اللازمة لاستيراد الخيل العربية الأصيلة، أو تصديرها.",
+    "target_en": "3. Obtaining the necessary approvals for the import or export of Arabian horses.",
+    "source_ar_norm": "3. شروط الحصول علي الموافقات اللازمة لاستيراد الخيل العربية الاصيلة، او تصديرها.",
+    "target_en_norm": "3. obtaining the necessary approvals for the import or export of arabian horses.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3072,
+    "source_ar": "4. إقامة رياضة الفروسية الخاصة بالخيل العربية الأصيلة، وتنظيمها.",
+    "target_en": "4. Holding and organizing equestrian sports for Arabian horses.",
+    "source_ar_norm": "4. اقامة رياضة الفروسية الخاصة بالخيل العربية الاصيلة، وتنظيمها.",
+    "target_en_norm": "4. holding and organizing equestrian sports for arabian horses.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3073,
+    "source_ar": "5. إقامة المزادات الخاصة بالخيل العربية الأصيلة.",
+    "target_en": "5. Holding auctions for Arabian horses.",
+    "source_ar_norm": "5. اقامة المزادات الخاصة بالخيل العربية الاصيلة.",
+    "target_en_norm": "5. holding auctions for arabian horses.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3074,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3075,
+    "source_ar": "يختص المركز وفقاً لأحكام التنظيم بما يأتي:",
+    "target_en": "The Center shall, in accordance with the provisions of the Statute, have the following powers:",
+    "source_ar_norm": "يختص المركز وفقا لاحكام التنظيم بما ياتي:",
+    "target_en_norm": "the center shall, in accordance with the provisions of the statute, have the following powers:",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3076,
+    "source_ar": "1. تسجيل الخيل العربية الأصيلة.",
+    "target_en": "1. Registering Arabian horses.",
+    "source_ar_norm": "1. تسجيل الخيل العربية الاصيلة.",
+    "target_en_norm": "1. registering arabian horses.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3077,
+    "source_ar": "2. الترخيص لمرابط الخيل العربية الأصيلة.",
+    "target_en": "2. Licensing Arabian horse stud farms.",
+    "source_ar_norm": "2. الترخيص لمرابط الخيل العربية الاصيلة.",
+    "target_en_norm": "2. licensing arabian horse stud farms.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3078,
+    "source_ar": "3. إصدار الموافقات اللازمة لاستيراد الخيل العربية الأصيلة أو تصديرها، وفقاً للأنظمة والتعليمات ذات العلاقة.",
+    "target_en": "3. Issuing the necessary approvals for the import or export of Arabian horses, in accordance with relevant laws and instructions.",
+    "source_ar_norm": "3. اصدار الموافقات اللازمة لاستيراد الخيل العربية الاصيلة او تصديرها، وفقا للانظمة والتعليمات ذات العلاقة.",
+    "target_en_norm": "3. issuing the necessary approvals for the import or export of arabian horses, in accordance with relevant laws and instructions.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3079,
+    "source_ar": "4. منح الإذن بإقامة رياضة الفروسية، وتنظيمها، والإشراف عليها، والتنسيق في هذا الشأن مع الجهات ذات العلاقة.",
+    "target_en": "4. Approving the holding and organizing of equestrian sports events, supervising such events, and coordinating in this regard with the relevant authorities.",
+    "source_ar_norm": "4. منح الاذن باقامة رياضة الفروسية، وتنظيمها، والاشراف عليها، والتنسيق في هذا الشان مع الجهات ذات العلاقة.",
+    "target_en_norm": "4. approving the holding and organizing of equestrian sports events, supervising such events, and coordinating in this regard with the relevant authorities.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3080,
+    "source_ar": "5. منح الإذن بإقامة المزادات للخيل العربية الأصيلة، وتنظيمها، والإشراف عليها.",
+    "target_en": "5. Approving the holding and organizing of auctions for Arabian horses and supervising such auctions.",
+    "source_ar_norm": "5. منح الاذن باقامة المزادات للخيل العربية الاصيلة، وتنظيمها، والاشراف عليها.",
+    "target_en_norm": "5. approving the holding and organizing of auctions for arabian horses and supervising such auctions.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3081,
+    "source_ar": "6. مراقبة جميع الأنشطة والرياضات والمزادات المتعلقة بالخيل العربية الأصيلة، الداخلة في اختصاص المركز، والتفتيش عليها.",
+    "target_en": "6. Monitoring and inspecting all activities, sports, and auctions relating to Arabian horses which fall within the Center’s powers.",
+    "source_ar_norm": "6. مراقبة جميع الانشطة والرياضات والمزادات المتعلقة بالخيل العربية الاصيلة، الداخلة في اختصاص المركز، والتفتيش عليها.",
+    "target_en_norm": "6. monitoring and inspecting all activities, sports, and auctions relating to arabian horses which fall within the center’s powers.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3082,
+    "source_ar": "7. التواصل والتعاون مع المراكز والمنظمات الإقليمية والدولية المختصة بشؤون الخيل العربية؛ لنقل أفضل الممارسات لتحسين فصيلة الخيل العربية والمحافظة عليها.",
+    "target_en": "7. Communicating and cooperating with regional and international centers and organizations concerned with Arabian horses to transfer the best practices in order to improve and preserve the Arabian horse breed.",
+    "source_ar_norm": "7. التواصل والتعاون مع المراكز والمنظمات الاقليمية والدولية المختصة بشؤون الخيل العربية؛ لنقل افضل الممارسات لتحسين فصيلة الخيل العربية والمحافظة عليها.",
+    "target_en_norm": "7. communicating and cooperating with regional and international centers and organizations concerned with arabian horses to transfer the best practices in order to improve and preserve the arabian horse breed.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3083,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3084,
+    "source_ar": "يعد مخالفاً لأحكام اللائحة كل من ارتكب أيًّا من الأفعال الآتية:",
+    "target_en": "Any person who commits any of the following acts shall be deemed in violation of the provisions of these Regulations:",
+    "source_ar_norm": "يعد مخالفا لاحكام اللائحة كل من ارتكب ايا من الافعال الاتية:",
+    "target_en_norm": "any person who commits any of the following acts shall be deemed in violation of the provisions of these regulations:",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3085,
+    "source_ar": "1. مخالفة أحكام التسجيل وشروطه.",
+    "target_en": "1. Violating the terms and conditions of registration.",
+    "source_ar_norm": "1. مخالفة احكام التسجيل وشروطه.",
+    "target_en_norm": "1. violating the terms and conditions of registration.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3086,
+    "source_ar": "2. ممارسة نشاط المرابط دون ترخيص.",
+    "target_en": "2. Practicing stud farm activities without obtaining a license.",
+    "source_ar_norm": "2. ممارسة نشاط المرابط دون ترخيص.",
+    "target_en_norm": "2. practicing stud farm activities without obtaining a license.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3087,
+    "source_ar": "3. استيراد الخيل العربية الأصيلة أو تصديرها دون الحصول على الموافقات اللازمة لذلك، وفقاً للأنظمة والتعليمات ذات العلاقة واللائحة.",
+    "target_en": "3. Importing or exporting Arabian horses without obtaining the necessary approvals, subject to relevant laws and instructions and these Regulations.",
+    "source_ar_norm": "3. استيراد الخيل العربية الاصيلة او تصديرها دون الحصول علي الموافقات اللازمة لذلك، وفقا للانظمة والتعليمات ذات العلاقة واللائحة.",
+    "target_en_norm": "3. importing or exporting arabian horses without obtaining the necessary approvals, subject to relevant laws and instructions and these regulations.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3088,
+    "source_ar": "4. إقامة رياضة الفروسية أو تنظيمها دون إذن من المركز.",
+    "target_en": "4. Holding or organizing equestrian sports events without the approval of the Center.",
+    "source_ar_norm": "4. اقامة رياضة الفروسية او تنظيمها دون اذن من المركز.",
+    "target_en_norm": "4. holding or organizing equestrian sports events without the approval of the center.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3089,
+    "source_ar": "5. إقامة المزادات للخيل العربية الأصيلة أو تنظيمها دون إذن من المركز.",
+    "target_en": "5. Holding or organizing auctions for Arabian horses without the approval of the Center.",
+    "source_ar_norm": "5. اقامة المزادات للخيل العربية الاصيلة او تنظيمها دون اذن من المركز.",
+    "target_en_norm": "5. holding or organizing auctions for arabian horses without the approval of the center.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3090,
+    "source_ar": "6. تقديم أي معلومة مضللة أو غير صحيحة إلى المركز.",
+    "target_en": "6. Providing any misleading or false information to the Center.",
+    "source_ar_norm": "6. تقديم اي معلومة مضللة او غير صحيحة الي المركز.",
+    "target_en_norm": "6. providing any misleading or false information to the center.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3091,
+    "source_ar": "7. عدم تقديم المعلومات -المتعلقة بنشاط المركز- التي يطلبها المركز، أو إعاقة عمل المختصين عند قيامهم بجولات تفتيشية.",
+    "target_en": "7. Failing to provide any information requested by the Center which relates to its activities, or hindering the work of persons authorized to conduct inspection visits during such visits.",
+    "source_ar_norm": "7. عدم تقديم المعلومات -المتعلقة بنشاط المركز- التي يطلبها المركز، او اعاقة عمل المختصين عند قيامهم بجولات تفتيشية.",
+    "target_en_norm": "7. failing to provide any information requested by the center which relates to its activities, or hindering the work of persons authorized to conduct inspection visits during such visits.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3092,
+    "source_ar": "8. مخالفة شروط أو ضوابط رياضة الفروسية.",
+    "target_en": "8. Violating the conditions or controls of equestrian sports.",
+    "source_ar_norm": "8. مخالفة شروط او ضوابط رياضة الفروسية.",
+    "target_en_norm": "8. violating the conditions or controls of equestrian sports.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3093,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3094,
+    "source_ar": "1. يكون ضبط المخالفات المنصوص عليها في المادة (الرابعة) من اللائحة عن طريق موظفي المركز أو غيرهم، الذين يصدر بتسميتهم قرار من الوزير.",
+    "target_en": "1. Violations stipulated in Article 4 of these Regulations shall be detected and recorded by the Center’s employees or others, who shall be appointed pursuant to a decision by the Minister.",
+    "source_ar_norm": "1. يكون ضبط المخالفات المنصوص عليها في المادة (الرابعة) من اللائحة عن طريق موظفي المركز او غيرهم، الذين يصدر بتسميتهم قرار من الوزير.",
+    "target_en_norm": "1. violations stipulated in article 4 of these regulations shall be detected and recorded by the center’s employees or others, who shall be appointed pursuant to a decision by the minister.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3095,
+    "source_ar": "2. يصدر الوزير قراراً بتحديد إجراءات ضبط المخالفات، وإثباتها، والتحقيق فيها.",
+    "target_en": "2. The Minister shall issue a decision to specify the procedures for detecting and recording violations as well as the documentation and investigation thereof.",
+    "source_ar_norm": "2. يصدر الوزير قرارا بتحديد اجراءات ضبط المخالفات، واثباتها، والتحقيق فيها.",
+    "target_en_norm": "2. the minister shall issue a decision to specify the procedures for detecting and recording violations as well as the documentation and investigation thereof.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3096,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3097,
+    "source_ar": "1. تُكوّن بقرار من الوزير لجنة (أو أكثر) لا يقل عدد أعضائها عن (ثلاثة) من موظفي المركز أو من غيرهم، على أن يكون من بينهم -على الأقل- مستشار قانوني أو شرعي، ويحدد القرار رئيس اللجنة ونائبه.",
+    "target_en": "1. A committee or more, comprising no less than three members, at least one of whom is a legal or Sharia expert, shall be formed from the Center’s employees or others pursuant to a decision by the Minister. Said decision shall name the chairman of the committee and the vice-chairman.",
+    "source_ar_norm": "1. تكون بقرار من الوزير لجنة (او اكثر) لا يقل عدد اعضائها عن (ثلاثة) من موظفي المركز او من غيرهم، علي ان يكون من بينهم -علي الاقل- مستشار قانوني او شرعي، ويحدد القرار رئيس اللجنة ونائبه.",
+    "target_en_norm": "1. a committee or more, comprising no less than three members, at least one of whom is a legal or sharia expert, shall be formed from the center’s employees or others pursuant to a decision by the minister. said decision shall name the chairman of the committee and the vice-chairman.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3098,
+    "source_ar": "2. تختص تلك اللجنة بالنظر في المخالفات وإيقاع العقوبات المنصوص عليها في اللائحة.",
+    "target_en": "2. The committee shall review the violations and impose the penalties provided for in these Regulations.",
+    "source_ar_norm": "2. تختص تلك اللجنة بالنظر في المخالفات وايقاع العقوبات المنصوص عليها في اللائحة.",
+    "target_en_norm": "2. the committee shall review the violations and impose the penalties provided for in these regulations.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3099,
+    "source_ar": "3. تَصْدر قواعد عمل اللجنة وإجراءاتها وتحديد مكافآت أعضائها؛ بقرار من الوزير.",
+    "target_en": "3. The committee’s work procedures and rules and the remuneration of its members shall be determined pursuant to a decision by the Minister.",
+    "source_ar_norm": "3. تصدر قواعد عمل اللجنة واجراءاتها وتحديد مكافات اعضائها؛ بقرار من الوزير.",
+    "target_en_norm": "3. the committee’s work procedures and rules and the remuneration of its members shall be determined pursuant to a decision by the minister.",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  },
+  {
+    "id": 3100,
+    "source_ar": "4. يعتمد الوزير قرارات تلك اللجنة، ويجوز له أن يفوّض من يراه باعتماد القرارات الصادرة بإلغاء الترخيص أو بغرامة تقل قيمتها عن (100.000) مائة ألف ريال.",
+    "target_en": "4. The Minister shall approve the decisions of the committee, and may authorize whomever he deems appropriate to approve the decisions issued to revoke licenses or to impose fines that are less than one hundred thousand riyals (SAR 100,000).",
+    "source_ar_norm": "4. يعتمد الوزير قرارات تلك اللجنة، ويجوز له ان يفوض من يراه باعتماد القرارات الصادرة بالغاء الترخيص او بغرامة تقل قيمتها عن (100.000) مائة الف ريال.",
+    "target_en_norm": "4. the minister shall approve the decisions of the committee, and may authorize whomever he deems appropriate to approve the decisions issued to revoke licenses or to impose fines that are less than one hundred thousand riyals (sar 100,000).",
+    "file_name": "اللائحة التنظيمية للخيل العربية الأصيلة.docx"
+  }
+]

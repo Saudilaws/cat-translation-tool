@@ -1,0 +1,802 @@
+[
+  {
+    "id": 7801,
+    "source_ar": "أ - يلتزم مسؤول العهدة بالمحافظة عليها وإبلاغ رئيسه المباشر بما لاحظه دون لمس أو تغيير في أوضاعها، وعلى المسؤول وضع حراسة فورية على المكان والتحفظ على جميع ما فيه.",
+    "target_en": "a. The person in charge of the inventory of narcotics or psychotropic substances shall undertake to maintain it and report to his immediate superior what came to his attention without touching or changing the inventory. The person in charge shall immediately secure the scene and all contents.",
+    "source_ar_norm": "ا - يلتزم مسؤول العهدة بالمحافظة عليها وابلاغ رئيسه المباشر بما لاحظه دون لمس او تغيير في اوضاعها، وعلي المسؤول وضع حراسة فورية علي المكان والتحفظ علي جميع ما فيه.",
+    "target_en_norm": "a. the person in charge of the inventory of narcotics or psychotropic substances shall undertake to maintain it and report to his immediate superior what came to his attention without touching or changing the inventory. the person in charge shall immediately secure the scene and all contents.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7802,
+    "source_ar": "ب - إذا كان الفقد أو النقص أو التلف ناتجا من سطو أو كان هناك اشتباه بالسرقة أو ما يدل على محاولة السطو ، فعلى مدير المنشأة إبلاغ قسم الشرطة وإدارة مكافحة المخدرات بالحادثة.",
+    "target_en": "b. If such loss, decrease or damage is a result of robbery or there is a suspicion of theft or attempted robbery, the establishment's manager shall report the incident to the police department and the General Directorate of Narcotics Control.",
+    "source_ar_norm": "ب - اذا كان الفقد او النقص او التلف ناتجا من سطو او كان هناك اشتباه بالسرقة او ما يدل علي محاولة السطو ، فعلي مدير المنشاة ابلاغ قسم الشرطة وادارة مكافحة المخدرات بالحادثة.",
+    "target_en_norm": "b. if such loss, decrease or damage is a result of robbery or there is a suspicion of theft or attempted robbery, the establishment's manager shall report the incident to the police department and the general directorate of narcotics control.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7803,
+    "source_ar": "ج - إذا كان الفقد أو النقص أو التلف أو الزيادة غير مصحوب بعلامات اعتداء أو سطو أو ليس هناك اشتباه في سرقة، فإنه يتخذ الآتي:",
+    "target_en": "c. If such loss, decrease, damage or increase is not accompanied by signs of trespass or robbery or that there is no suspicion of theft, the following measures shall be taken:",
+    "source_ar_norm": "ج - اذا كان الفقد او النقص او التلف او الزيادة غير مصحوب بعلامات اعتداء او سطو او ليس هناك اشتباه في سرقة، فانه يتخذ الاتي:",
+    "target_en_norm": "c. if such loss, decrease, damage or increase is not accompanied by signs of trespass or robbery or that there is no suspicion of theft, the following measures shall be taken:",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7804,
+    "source_ar": "1- يشكل مدير المنشأة لجنة تحقيق من ثلاثة أعضاء على الأقل ، يكون أحدهم من مراقبة المخزون في المنشأة ؛ لتقوم بما يلي:",
+    "target_en": "i. The establishment's manager shall form an investigation committee consisting of three members at least; one of whom shall be from the inventory control at the establishment.",
+    "source_ar_norm": "1- يشكل مدير المنشاة لجنة تحقيق من ثلاثة اعضاء علي الاقل ، يكون احدهم من مراقبة المخزون في المنشاة ؛ لتقوم بما يلي:",
+    "target_en_norm": "i. the establishment's manager shall form an investigation committee consisting of three members at least; one of whom shall be from the inventory control at the establishment.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7805,
+    "source_ar": "أ - جرد الأصناف التي في المكان الذي وقع فيه الزيادة أو النقص أو الفقد أو التلف لحصر الزائد أو الناقص أو المفقود أو التالف منها وكمياته.",
+    "target_en": "a. Take inventory of the items at the site where such increase, decrease, loss or damage took place so as to ascertain the increase, decrease, loss or damage, and quantities thereof; and",
+    "source_ar_norm": "ا - جرد الاصناف التي في المكان الذي وقع فيه الزيادة او النقص او الفقد او التلف لحصر الزائد او الناقص او المفقود او التالف منها وكمياته.",
+    "target_en_norm": "a. take inventory of the items at the site where such increase, decrease, loss or damage took place so as to ascertain the increase, decrease, loss or damage, and quantities thereof; and",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7806,
+    "source_ar": "ب- تقصّي أسباب الزيادة أو الفقد أو النقص أو التلف الحاصل، وما إذا كان ذلك نتيجة إهمال أو تقصير أو أي عارض آخر طارئ، مع تحديد مسؤولية المقصر أو المتسبب في الإهمال.",
+    "target_en": "b.Determine the causes of such increase, loss, decrease or damage and whether it was due to negligence or omission or to any other unexpected incident, and determine the liability of the person found in negligence or omission.",
+    "source_ar_norm": "ب- تقصي اسباب الزيادة او الفقد او النقص او التلف الحاصل، وما اذا كان ذلك نتيجة اهمال او تقصير او اي عارض اخر طارئ، مع تحديد مسؤولية المقصر او المتسبب في الاهمال.",
+    "target_en_norm": "b.determine the causes of such increase, loss, decrease or damage and whether it was due to negligence or omission or to any other unexpected incident, and determine the liability of the person found in negligence or omission.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7807,
+    "source_ar": "2 - يرفع مدير المنشأة تقرير اللجنة إلى وزارة الصحة أو الهيئة العامة للغذاء والدواء كل بحسب اختصاصه لاتخاذ الإجراء اللازم ، ويحتفظ بصورة منه في سجل العهدة.",
+    "target_en": "2.The establishment's manager shall submit the committee's report to the Ministry of Health or the Food and Drug General Authority – each within its jurisdiction – to take necessary action. A copy thereof shall be retained in the inventory record.",
+    "source_ar_norm": "2 - يرفع مدير المنشاة تقرير اللجنة الي وزارة الصحة او الهيئة العامة للغذاء والدواء كل بحسب اختصاصه لاتخاذ الاجراء اللازم ، ويحتفظ بصورة منه في سجل العهدة.",
+    "target_en_norm": "2.the establishment's manager shall submit the committee's report to the ministry of health or the food and drug general authority – each within its jurisdiction – to take necessary action. a copy thereof shall be retained in the inventory record.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7808,
+    "source_ar": "3 - إذا وجد المختص في وزارة الصحة أو الهيئة العامة للغذاء والدواء الذي له صفة الضبط الجنائي أن الزيادة أو الفقد أو النقص أو التلف ناتج من فعل جنائي ، فيعد محضر ضبط بالواقعة ، وتبلغ إدارة مكافحة المخدرات وهيئة التحقيق والادعاء العام بذلك .",
+    "target_en": "3.If the competent person at the Ministry of Health or the Food and Drug General Authority who has the criminal investigation capacity finds that the increase, loss, decrease or damage is due to a criminal act, he shall prepare a report on the incident, and notify the General Directorate of Narcotics Control as well as the Bureau of Investigation and Public Prosecution of the same.",
+    "source_ar_norm": "3 - اذا وجد المختص في وزارة الصحة او الهيئة العامة للغذاء والدواء الذي له صفة الضبط الجنائي ان الزيادة او الفقد او النقص او التلف ناتج من فعل جنائي ، فيعد محضر ضبط بالواقعة ، وتبلغ ادارة مكافحة المخدرات وهيئة التحقيق والادعاء العام بذلك .",
+    "target_en_norm": "3.if the competent person at the ministry of health or the food and drug general authority who has the criminal investigation capacity finds that the increase, loss, decrease or damage is due to a criminal act, he shall prepare a report on the incident, and notify the general directorate of narcotics control as well as the bureau of investigation and public prosecution of the same.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7809,
+    "source_ar": "المادة العشرون:",
+    "target_en": "Article ٢٠",
+    "source_ar_norm": "المادة العشرون:",
+    "target_en_norm": "article ٢٠",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7810,
+    "source_ar": "1 - شروط الوصفة الطبية هي:",
+    "target_en": "Medical prescription conditions:",
+    "source_ar_norm": "1 - شروط الوصفة الطبية هي:",
+    "target_en_norm": "medical prescription conditions:",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7811,
+    "source_ar": "أ - يجب أن تحتوي الوصفة على دواء واحد فقط.",
+    "target_en": "The prescription shall include only one medication;",
+    "source_ar_norm": "ا - يجب ان تحتوي الوصفة علي دواء واحد فقط.",
+    "target_en_norm": "the prescription shall include only one medication;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7812,
+    "source_ar": "ب- تتكون الوصفة من أصل مكتوب في أعلاه بخط أحمر (مادة مقيدة) وصورتين مكتوب عليهما (غير قابل للصرف) .",
+    "target_en": "The prescription shall consist of an original with the statement \"controlled substance\" written on top of it in red ink, and two copies with the statement \"non-dispensable\" written thereon;",
+    "source_ar_norm": "ب- تتكون الوصفة من اصل مكتوب في اعلاه بخط احمر (مادة مقيدة) وصورتين مكتوب عليهما (غير قابل للصرف) .",
+    "target_en_norm": "the prescription shall consist of an original with the statement \"controlled substance\" written on top of it in red ink, and two copies with the statement \"non-dispensable\" written thereon;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7813,
+    "source_ar": "ج - يحتفظ بأصل الوصفة في الصيدلية ويعطى المريض صورة وتحفظ الصورة الأخرى في دفتر الوصفات .",
+    "target_en": "The prescription's original shall be kept with the pharmacy, a copy shall be given to the patient and the other copy shall be kept in the prescription book; and",
+    "source_ar_norm": "ج - يحتفظ باصل الوصفة في الصيدلية ويعطي المريض صورة وتحفظ الصورة الاخري في دفتر الوصفات .",
+    "target_en_norm": "the prescription's original shall be kept with the pharmacy, a copy shall be given to the patient and the other copy shall be kept in the prescription book; and",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7814,
+    "source_ar": "د - يجب أن تكتب الوصفة بحبر غير قابل للمحو، وأن تخلو من الشطب أو التعديل.",
+    "target_en": "The prescription shall be written in indelible ink free from any deletion or alteration.",
+    "source_ar_norm": "د - يجب ان تكتب الوصفة بحبر غير قابل للمحو، وان تخلو من الشطب او التعديل.",
+    "target_en_norm": "the prescription shall be written in indelible ink free from any deletion or alteration.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7815,
+    "source_ar": "2 - بيانات الوصفة هي:",
+    "target_en": "Prescription particulars:",
+    "source_ar_norm": "2 - بيانات الوصفة هي:",
+    "target_en_norm": "prescription particulars:",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7816,
+    "source_ar": "أ - اسم المنشأة وعنوانها .",
+    "target_en": "Establishment's name and address;",
+    "source_ar_norm": "ا - اسم المنشاة وعنوانها .",
+    "target_en_norm": "establishment's name and address;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7817,
+    "source_ar": "ب - اسم المريض رباعيا وعمره وجنسه وجنسيته.",
+    "target_en": "Patient's full name, age, sex and nationality;",
+    "source_ar_norm": "ب - اسم المريض رباعيا وعمره وجنسه وجنسيته.",
+    "target_en_norm": "patient's full name, age, sex and nationality;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7818,
+    "source_ar": "ج - رقم ملف المريض ورقم الهوية .",
+    "target_en": "Patient's file number and ID number;",
+    "source_ar_norm": "ج - رقم ملف المريض ورقم الهوية .",
+    "target_en_norm": "patient's file number and id number;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7819,
+    "source_ar": "د - رقم الوصفة وتاريخها .",
+    "target_en": "Prescription number and date;",
+    "source_ar_norm": "د - رقم الوصفة وتاريخها .",
+    "target_en_norm": "prescription number and date;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7820,
+    "source_ar": "هـ - التشخيص .",
+    "target_en": "Diagnosis ;",
+    "source_ar_norm": "ه - التشخيص .",
+    "target_en_norm": "diagnosis ;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7821,
+    "source_ar": "و - اسم الدواء العلمي والشكل الصيدلاني، والجرعة المقررة ومدة العلاج رقما وكتابة .",
+    "target_en": "Medication's scientific name and pharmaceutical form as well as the prescribed dose and treatment duration ( in numbers and letters);",
+    "source_ar_norm": "و - اسم الدواء العلمي والشكل الصيدلاني، والجرعة المقررة ومدة العلاج رقما وكتابة .",
+    "target_en_norm": "medication's scientific name and pharmaceutical form as well as the prescribed dose and treatment duration ( in numbers and letters);",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7822,
+    "source_ar": "ز - اسم الطبيب المعالج ورقم بطاقة العمل وتوقيعه.",
+    "target_en": "Physician's name, work ID and signature;",
+    "source_ar_norm": "ز - اسم الطبيب المعالج ورقم بطاقة العمل وتوقيعه.",
+    "target_en_norm": "physician's name, work id and signature;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7823,
+    "source_ar": "ح - اسم الصيدلي مسؤول العهدة ورقم بطاقة العمل وتوقيعه .",
+    "target_en": "Name of the pharmacist in charge, his work ID number and signature;",
+    "source_ar_norm": "ح - اسم الصيدلي مسؤول العهدة ورقم بطاقة العمل وتوقيعه .",
+    "target_en_norm": "name of the pharmacist in charge, his work id number and signature;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7824,
+    "source_ar": "ط - تعليمات الوصفة التي تحددها وزارة الصحة بالتنسيق مع الهيئة العامة للغذاء والدواء .",
+    "target_en": "Prescription instructions as determined by the Ministry of Health in coordination with the Food and Drug General Authority; and",
+    "source_ar_norm": "ط - تعليمات الوصفة التي تحددها وزارة الصحة بالتنسيق مع الهيئة العامة للغذاء والدواء .",
+    "target_en_norm": "prescription instructions as determined by the ministry of health in coordination with the food and drug general authority; and",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7825,
+    "source_ar": "ي - ختم المنشأة .",
+    "target_en": "Seal of the establishment.",
+    "source_ar_norm": "ي - ختم المنشاة .",
+    "target_en_norm": "seal of the establishment.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7826,
+    "source_ar": "3 - تكون صلاحية الوصفة من تاريخ إصدارها على النحو الآتي:",
+    "target_en": "Upon issuance, the prescription shall be valid for:",
+    "source_ar_norm": "3 - تكون صلاحية الوصفة من تاريخ اصدارها علي النحو الاتي:",
+    "target_en_norm": "upon issuance, the prescription shall be valid for:",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7827,
+    "source_ar": "أ - يوم واحد فقط في الحالات الإسعافية .",
+    "target_en": "One day only in emergency cases; and",
+    "source_ar_norm": "ا - يوم واحد فقط في الحالات الاسعافية .",
+    "target_en_norm": "one day only in emergency cases; and",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7828,
+    "source_ar": "ب - سبعة أيام لمرضى العيادات والمرضى الخارجين من المستشفى .",
+    "target_en": "Seven days for outpatients and discharged patients.",
+    "source_ar_norm": "ب - سبعة ايام لمرضي العيادات والمرضي الخارجين من المستشفي .",
+    "target_en_norm": "seven days for outpatients and discharged patients.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7829,
+    "source_ar": "4 - لوزير الصحة بالتنسيق مع الرئيس التنفيذي للهيئة العامة للغذاء والدواء تعديل الشروط والبيانات ومدة الصلاحية المذكورة في الفقرات السابقة من هذه المادة .",
+    "target_en": "The Minister of Health may – upon coordination with the Executive Director of the Food and Drug General Authority –amend the conditions, particulars or validity provided for in the preceding paragraphs of this Article.",
+    "source_ar_norm": "4 - لوزير الصحة بالتنسيق مع الرئيس التنفيذي للهيئة العامة للغذاء والدواء تعديل الشروط والبيانات ومدة الصلاحية المذكورة في الفقرات السابقة من هذه المادة .",
+    "target_en_norm": "the minister of health may – upon coordination with the executive director of the food and drug general authority –amend the conditions, particulars or validity provided for in the preceding paragraphs of this article.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7830,
+    "source_ar": "5 - تتحقق وزارة الصحة - بالتنسيق مع الهيئة العامة للغذاء والدواء - مما يتوافر من تقنية حديثة في كتابة الوصفة بما يكفل مراعاتها للشروط السابقة قبل الموافقة على استخدامها .",
+    "target_en": "Prior to approval, the Ministry of Health - in coordination with the Food and Drug General Authority – shall ascertain that the modern technology used for writing prescriptions complies with aforementioned conditions.",
+    "source_ar_norm": "5 - تتحقق وزارة الصحة - بالتنسيق مع الهيئة العامة للغذاء والدواء - مما يتوافر من تقنية حديثة في كتابة الوصفة بما يكفل مراعاتها للشروط السابقة قبل الموافقة علي استخدامها .",
+    "target_en_norm": "prior to approval, the ministry of health - in coordination with the food and drug general authority – shall ascertain that the modern technology used for writing prescriptions complies with aforementioned conditions.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7831,
+    "source_ar": "المادة الحادية والعشرون:",
+    "target_en": "Article ٢١",
+    "source_ar_norm": "المادة الحادية والعشرون:",
+    "target_en_norm": "article ٢١",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7832,
+    "source_ar": "1- يحفظ أصل الوصفة لمدة ثلاث سنوات .",
+    "target_en": "Original prescription shall be kept for three years.",
+    "source_ar_norm": "1- يحفظ اصل الوصفة لمدة ثلاث سنوات .",
+    "target_en_norm": "original prescription shall be kept for three years.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7833,
+    "source_ar": "2- يجب على كل صيدلية الاحتفاظ بسجل خاص بالوصفات لمدة خمس سنوات.",
+    "target_en": "Each pharmacy shall maintain a five-year record for prescriptions.",
+    "source_ar_norm": "2- يجب علي كل صيدلية الاحتفاظ بسجل خاص بالوصفات لمدة خمس سنوات.",
+    "target_en_norm": "each pharmacy shall maintain a five-year record for prescriptions.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7834,
+    "source_ar": "3- يتم إتلاف الوصفة وسجل الوصفات بعد انقضاء المدة المحددة للحفظ بوساطة لجنة تشكل من ثلاثة أعضاء بقرار من مدير المنشأة أو من ينيبه، ويعد محضر بذلك.",
+    "target_en": "Prescriptions as well as records thereof shall be destroyed after the lapse of the specified period by virtue of a three-member committee to be formed pursuant to the decision of the establishment's manager or designee, and minutes to that effect shall be prepared.",
+    "source_ar_norm": "3- يتم اتلاف الوصفة وسجل الوصفات بعد انقضاء المدة المحددة للحفظ بوساطة لجنة تشكل من ثلاثة اعضاء بقرار من مدير المنشاة او من ينيبه، ويعد محضر بذلك.",
+    "target_en_norm": "prescriptions as well as records thereof shall be destroyed after the lapse of the specified period by virtue of a three-member committee to be formed pursuant to the decision of the establishment's manager or designee, and minutes to that effect shall be prepared.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7835,
+    "source_ar": "المادة الثانية والعشرون:",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون:",
+    "target_en_norm": "article 22",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7836,
+    "source_ar": "1- يجب أن يكون هناك سجل خاص في المنشآت الصيدلية لكل دواء يحتوي على مادة مخدرة أو مؤثر عقلي .",
+    "target_en": "Pharmaceutical establishments shall have a special record for each medication containing narcotics or psychotropic substances.",
+    "source_ar_norm": "1- يجب ان يكون هناك سجل خاص في المنشات الصيدلية لكل دواء يحتوي علي مادة مخدرة او مؤثر عقلي .",
+    "target_en_norm": "pharmaceutical establishments shall have a special record for each medication containing narcotics or psychotropic substances.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7837,
+    "source_ar": "2 - يجب أن تكون صفحات السجل مرقمة تسلسليًّا .",
+    "target_en": "Record pages shall be serially numbered.",
+    "source_ar_norm": "2 - يجب ان تكون صفحات السجل مرقمة تسلسليا .",
+    "target_en_norm": "record pages shall be serially numbered.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7838,
+    "source_ar": "3- يجب أن يشتمل السجل في الصيدليات والمستودعات على البيانات الآتية:",
+    "target_en": "Records in pharmacies and warehouses shall include the following:",
+    "source_ar_norm": "3- يجب ان يشتمل السجل في الصيدليات والمستودعات علي البيانات الاتية:",
+    "target_en_norm": "records in pharmacies and warehouses shall include the following:",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7839,
+    "source_ar": "أ - اسم الدواء العلمي وشكله الصيدلاني وتركيزه وحجمه.",
+    "target_en": "Medication's scientific name, pharmaceutical form, concentration and volume;",
+    "source_ar_norm": "ا - اسم الدواء العلمي وشكله الصيدلاني وتركيزه وحجمه.",
+    "target_en_norm": "medication's scientific name, pharmaceutical form, concentration and volume;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7840,
+    "source_ar": "ب- الرصيد السابق .",
+    "target_en": "Previous stock;",
+    "source_ar_norm": "ب- الرصيد السابق .",
+    "target_en_norm": "previous stock;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7841,
+    "source_ar": "ج - الكمية الواردة ورقم التشغيل وتاريخ الصلاحية .",
+    "target_en": "Incoming quantity, batch number and expiration date;",
+    "source_ar_norm": "ج - الكمية الواردة ورقم التشغيل وتاريخ الصلاحية .",
+    "target_en_norm": "incoming quantity, batch number and expiration date;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7842,
+    "source_ar": "د - الجهة الوارد منها وتاريخ الورود .",
+    "target_en": "Supplier and date of receipt;",
+    "source_ar_norm": "د - الجهة الوارد منها وتاريخ الورود .",
+    "target_en_norm": "supplier and date of receipt;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7843,
+    "source_ar": "هـ - المجموع الكلي .",
+    "target_en": "Total amount;",
+    "source_ar_norm": "ه - المجموع الكلي .",
+    "target_en_norm": "total amount;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7844,
+    "source_ar": "و - الكمية المصروفة ورقم التشغيل وتاريخ الصرف واسم من صرفها وتوقيعه .",
+    "target_en": "Dispensed quantity, batch number, dispensing date and dispenser's name and signature;",
+    "source_ar_norm": "و - الكمية المصروفة ورقم التشغيل وتاريخ الصرف واسم من صرفها وتوقيعه .",
+    "target_en_norm": "dispensed quantity, batch number, dispensing date and dispenser's name and signature;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7845,
+    "source_ar": "ز - اسم الجهة المستفيدة وعنوانها (للمستودعات فقط) .",
+    "target_en": "Name and address of beneficiary (for warehouses only);",
+    "source_ar_norm": "ز - اسم الجهة المستفيدة وعنوانها (للمستودعات فقط) .",
+    "target_en_norm": "name and address of beneficiary (for warehouses only);",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7846,
+    "source_ar": "ح- اسم المريض وعمره ورقم الهوية والملف الطبي ورقم الوصفة واسم من وصفها (للصيدلية فقط).",
+    "target_en": "Patient's name, age, national ID number, medical file number, prescription number and prescriber's name (for pharmacies only); and",
+    "source_ar_norm": "ح- اسم المريض وعمره ورقم الهوية والملف الطبي ورقم الوصفة واسم من وصفها (للصيدلية فقط).",
+    "target_en_norm": "patient's name, age, national id number, medical file number, prescription number and prescriber's name (for pharmacies only); and",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7847,
+    "source_ar": "ط - الكمية الباقية .",
+    "target_en": "Remaining quantity.",
+    "source_ar_norm": "ط - الكمية الباقية .",
+    "target_en_norm": "remaining quantity.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7848,
+    "source_ar": "4 - يجب أن تكتب السجلات بحبر غير قابل للمحو، وعند التعديل يوقع على ذلك.",
+    "target_en": "Records shall be written in indelible ink, and any corrections thereon shall be initialed.",
+    "source_ar_norm": "4 - يجب ان تكتب السجلات بحبر غير قابل للمحو، وعند التعديل يوقع علي ذلك.",
+    "target_en_norm": "records shall be written in indelible ink, and any corrections thereon shall be initialed.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7849,
+    "source_ar": "5 - عند نهاية كل سنة يجب أن يكتب على السجل اسم مسؤول عهدة المواد المخدرة أو المؤثرات العقلية وتوقيعه، واسم مدير المنشأة - أو من ينيبه - وتوقيعه، وأن يختم السجل بالختم الرسمي للمنشأة .",
+    "target_en": "At the end of each year, name and signature of the person in charge of the inventory of narcotics and psychotropic substances as well as name and signature of the establishment’s manager or designee shall be written on the record. Said record shall be stamped with the official seal of the establishment.",
+    "source_ar_norm": "5 - عند نهاية كل سنة يجب ان يكتب علي السجل اسم مسؤول عهدة المواد المخدرة او المؤثرات العقلية وتوقيعه، واسم مدير المنشاة - او من ينيبه - وتوقيعه، وان يختم السجل بالختم الرسمي للمنشاة .",
+    "target_en_norm": "at the end of each year, name and signature of the person in charge of the inventory of narcotics and psychotropic substances as well as name and signature of the establishment’s manager or designee shall be written on the record. said record shall be stamped with the official seal of the establishment.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7850,
+    "source_ar": "6 - تحفظ السجلات لمدة عشر سنوات .",
+    "target_en": "Records shall be kept for ten years.",
+    "source_ar_norm": "6 - تحفظ السجلات لمدة عشر سنوات .",
+    "target_en_norm": "records shall be kept for ten years.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7851,
+    "source_ar": "7 - يتم إتلاف السجلات بعد انقضاء المدة المحددة للحفظ بوساطة لجنة تشكل من ثلاثة أعضاء بقرار من مدير المنشأة أو من ينيبه، ويعد محضر بذلك.",
+    "target_en": "Records shall be destroyed upon lapse of the specified period by a three-member committee formed pursuant to a decision by the establishment's manager or designee, and minutes to that effect shall be prepared.",
+    "source_ar_norm": "7 - يتم اتلاف السجلات بعد انقضاء المدة المحددة للحفظ بوساطة لجنة تشكل من ثلاثة اعضاء بقرار من مدير المنشاة او من ينيبه، ويعد محضر بذلك.",
+    "target_en_norm": "records shall be destroyed upon lapse of the specified period by a three-member committee formed pursuant to a decision by the establishment's manager or designee, and minutes to that effect shall be prepared.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7852,
+    "source_ar": "8 - تتحقق الهيئة العامة للغذاء والدواء - بالتنسيق مع وزارة الصحة - مما يتوافر من تقنية حديثة في تسجيل جميع ما يرد إلى الصيدلية أو المستودع بما يكفل مراعاتها للشروط السابقة .",
+    "target_en": "The Food and Drug General Authority shall – in coordination with the Ministry of Health –ascertain that the modern technology used for recording all supplies to pharmacies or warehouses complies with the aforementioned conditions.",
+    "source_ar_norm": "8 - تتحقق الهيئة العامة للغذاء والدواء - بالتنسيق مع وزارة الصحة - مما يتوافر من تقنية حديثة في تسجيل جميع ما يرد الي الصيدلية او المستودع بما يكفل مراعاتها للشروط السابقة .",
+    "target_en_norm": "the food and drug general authority shall – in coordination with the ministry of health –ascertain that the modern technology used for recording all supplies to pharmacies or warehouses complies with the aforementioned conditions.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7853,
+    "source_ar": "المادة الثالثة والعشرون:",
+    "target_en": "Article 23",
+    "source_ar_norm": "المادة الثالثة والعشرون:",
+    "target_en_norm": "article 23",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7854,
+    "source_ar": "1- يعتمد وزير الصحة - بالتنسيق مع الرئيس التنفيذي للهيئة العامة للغذاء والدواء - إجراءات وضوابط وصف وصرف الأدوية المخدرة أو المؤثرات العقلية في المؤسسات العلاجية .",
+    "target_en": "The Minister of Health shall – in coordination with the Executive Director of the Food and Drug General Authority – approve procedures and controls for prescribing and dispensing narcotic drugs or psychotropic substances at curative institutions.",
+    "source_ar_norm": "1- يعتمد وزير الصحة - بالتنسيق مع الرئيس التنفيذي للهيئة العامة للغذاء والدواء - اجراءات وضوابط وصف وصرف الادوية المخدرة او المؤثرات العقلية في المؤسسات العلاجية .",
+    "target_en_norm": "the minister of health shall – in coordination with the executive director of the food and drug general authority – approve procedures and controls for prescribing and dispensing narcotic drugs or psychotropic substances at curative institutions.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7855,
+    "source_ar": "2- يعتمد وزير الصحة الإجراءات والضوابط للتحقق من التزام المؤسسات العلاجية بما ورد في هذه المادة، والاطلاع على ما يثبت ذلك .",
+    "target_en": "The Minister of Health shall approve procedures and controls to verify compliance of curative institutions with the provisions of this Article, and shall review proof thereof.",
+    "source_ar_norm": "2- يعتمد وزير الصحة الاجراءات والضوابط للتحقق من التزام المؤسسات العلاجية بما ورد في هذه المادة، والاطلاع علي ما يثبت ذلك .",
+    "target_en_norm": "the minister of health shall approve procedures and controls to verify compliance of curative institutions with the provisions of this article, and shall review proof thereof.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7856,
+    "source_ar": "المادة الرابعة والعشرون:",
+    "target_en": "Article 24",
+    "source_ar_norm": "المادة الرابعة والعشرون:",
+    "target_en_norm": "article 24",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7857,
+    "source_ar": "1- يرخص للأطباء بحيازة الأدوية المخدرة أو المؤثرات العقلية ووصفها وصرفها من عياداتهم الخاصة، وفقا للضوابط الآتية:",
+    "target_en": "Physicians shall be licensed to acquire, prescribe and dispense narcotic drugs or psychotropic substances from their own clinics subject to the following:",
+    "source_ar_norm": "1- يرخص للاطباء بحيازة الادوية المخدرة او المؤثرات العقلية ووصفها وصرفها من عياداتهم الخاصة، وفقا للضوابط الاتية:",
+    "target_en_norm": "physicians shall be licensed to acquire, prescribe and dispense narcotic drugs or psychotropic substances from their own clinics subject to the following:",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7858,
+    "source_ar": "أ - أن يكون ترخيص العيادة الصادر من وزارة الصحة ساري الصلاحية.",
+    "target_en": "The clinic’s license issued by the Ministry of Health shall be valid;",
+    "source_ar_norm": "ا - ان يكون ترخيص العيادة الصادر من وزارة الصحة ساري الصلاحية.",
+    "target_en_norm": "the clinic’s license issued by the ministry of health shall be valid;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7859,
+    "source_ar": "ب- أن يكون لدى العيادة احتياج سنوي معتمد من الهيئة العامة للغذاء والدواء.",
+    "target_en": "The clinic shall have its annual need approved by the Food and Drug General Authority;",
+    "source_ar_norm": "ب- ان يكون لدي العيادة احتياج سنوي معتمد من الهيئة العامة للغذاء والدواء.",
+    "target_en_norm": "the clinic shall have its annual need approved by the food and drug general authority;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7860,
+    "source_ar": "ج - يجب أن تكون الأدوية المخدرة أو المؤثرات العقلية في عهدة الطبيب صاحب العيادة وتحت مسؤوليته، أو في عهدة صيدلي سعودي أو فني صيدلي سعودي يعمل في العيادة .",
+    "target_en": "The clinic’s physician or a Saudi pharmacist or pharmacy technician shall be entrusted with the inventory of narcotic drugs or psychotropic substances;",
+    "source_ar_norm": "ج - يجب ان تكون الادوية المخدرة او المؤثرات العقلية في عهدة الطبيب صاحب العيادة وتحت مسؤوليته، او في عهدة صيدلي سعودي او فني صيدلي سعودي يعمل في العيادة .",
+    "target_en_norm": "the clinic’s physician or a saudi pharmacist or pharmacy technician shall be entrusted with the inventory of narcotic drugs or psychotropic substances;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7861,
+    "source_ar": "د - تقتصر الحيازة على الأدوية الإسعافية التي يحددها وزير الصحة.",
+    "target_en": "Acquisition shall be limited to emergency drugs determined by the Minister of Health; and",
+    "source_ar_norm": "د - تقتصر الحيازة علي الادوية الاسعافية التي يحددها وزير الصحة.",
+    "target_en_norm": "acquisition shall be limited to emergency drugs determined by the minister of health; and",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7862,
+    "source_ar": "هـ- يخضع الوصف والصرف في عيادات الأطباء الخاصة للضوابط المنصوص عليها في المواد (20، 21، 22، 23) من هذه اللائحة .",
+    "target_en": "Prescription and dispensing at physicians’ private clinics shall be subject to controls stipulated in Articles (٢٠, ٢١, ٢٢ & ٢٣) of these Regulations.",
+    "source_ar_norm": "ه- يخضع الوصف والصرف في عيادات الاطباء الخاصة للضوابط المنصوص عليها في المواد (20، 21، 22، 23) من هذه اللائحة .",
+    "target_en_norm": "prescription and dispensing at physicians’ private clinics shall be subject to controls stipulated in articles (٢٠, ٢١, ٢٢ & ٢٣) of these regulations.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7863,
+    "source_ar": "2 - ضوابط حيازة وإعطاء الأدوية الإسعافية المحتوية على مواد مخدرة أو مؤثرات عقلية في الحالات الإسعافية:",
+    "target_en": "Controls for acquiring and dispensing emergency drugs containing narcotics or psychotropic substances in emergency cases:",
+    "source_ar_norm": "2 - ضوابط حيازة واعطاء الادوية الاسعافية المحتوية علي مواد مخدرة او مؤثرات عقلية في الحالات الاسعافية:",
+    "target_en_norm": "controls for acquiring and dispensing emergency drugs containing narcotics or psychotropic substances in emergency cases:",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7864,
+    "source_ar": "أ - يكون مدير المركز الإسعافي مسؤولا عن الأدوية الإسعافية المحتوية على مواد مخدرة أو مؤثرات عقلية في المراكز الإسعافية ، وذلك إذا لم يكن في المركز صيدلي سعودي أو فني صيدلي سعودي.",
+    "target_en": "In case of absence of a Saudi pharmacist or pharmacy technician, the manager of the emergency center shall be in charge of emergency drugs containing narcotics or psychotropic substances in emergency centers.",
+    "source_ar_norm": "ا - يكون مدير المركز الاسعافي مسؤولا عن الادوية الاسعافية المحتوية علي مواد مخدرة او مؤثرات عقلية في المراكز الاسعافية ، وذلك اذا لم يكن في المركز صيدلي سعودي او فني صيدلي سعودي.",
+    "target_en_norm": "in case of absence of a saudi pharmacist or pharmacy technician, the manager of the emergency center shall be in charge of emergency drugs containing narcotics or psychotropic substances in emergency centers.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7865,
+    "source_ar": "ب - يكون رئيس الفرقة الإسعافية مسؤولا عن عهدة الأدوية الإسعافية المحتوية على مواد مخدرة أو مؤثرات عقلية في وسيلة النقل الإسعافية.",
+    "target_en": "The head of the paramedic team shall be in charge of emergency drugs containing narcotics or psychotropic substances in ambulances.",
+    "source_ar_norm": "ب - يكون رئيس الفرقة الاسعافية مسؤولا عن عهدة الادوية الاسعافية المحتوية علي مواد مخدرة او مؤثرات عقلية في وسيلة النقل الاسعافية.",
+    "target_en_norm": "the head of the paramedic team shall be in charge of emergency drugs containing narcotics or psychotropic substances in ambulances.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7866,
+    "source_ar": "ج - يعتمد وزير الصحة الأدوية الإسعافية المحتوية على مواد مخدرة أو مؤثرات عقلية وكمياتها وأشكالها الصيدلانية المسموح بها في الحالات الإسعافية.",
+    "target_en": "The Minister of Health shall approve the emergency drugs containing narcotics or psychotropic substances as well as quantities and pharmaceutical forms thereof permissible in emergency cases.",
+    "source_ar_norm": "ج - يعتمد وزير الصحة الادوية الاسعافية المحتوية علي مواد مخدرة او مؤثرات عقلية وكمياتها واشكالها الصيدلانية المسموح بها في الحالات الاسعافية.",
+    "target_en_norm": "the minister of health shall approve the emergency drugs containing narcotics or psychotropic substances as well as quantities and pharmaceutical forms thereof permissible in emergency cases.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7867,
+    "source_ar": "د - تعطى الأدوية الإسعافية المحتوية على مواد مخدرة أو مؤثرات عقلية في الحالات الإسعافية وفق الآتي:",
+    "target_en": "Emergency drugs containing narcotics or psychotropic substances shall be dispensed in emergency cases as follows:",
+    "source_ar_norm": "د - تعطي الادوية الاسعافية المحتوية علي مواد مخدرة او مؤثرات عقلية في الحالات الاسعافية وفق الاتي:",
+    "target_en_norm": "emergency drugs containing narcotics or psychotropic substances shall be dispensed in emergency cases as follows:",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7868,
+    "source_ar": "1 - تعطى الأدوية الإسعافية للمصاب عن طريق المسعفين بعد أخذ موافقة الطبيب وتحديد الدواء والكمية .",
+    "target_en": "i. Subject to physician's approval and determination of the medication and quantity, emergency drugs shall be given to the patient by paramedics.",
+    "source_ar_norm": "1 - تعطي الادوية الاسعافية للمصاب عن طريق المسعفين بعد اخذ موافقة الطبيب وتحديد الدواء والكمية .",
+    "target_en_norm": "i. subject to physician's approval and determination of the medication and quantity, emergency drugs shall be given to the patient by paramedics.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7869,
+    "source_ar": "2 - يعاد وعاء الدواء الفارغ إلى الجهة التي صرفت الدواء. ويسجل في سجل العهدة اسم المريض، واسم الطبيب ووقت الاتصال به وتاريخه، واسم الدواء المصروف وكميته ووقت صرفه واسم من صرفه وتوقيعه .",
+    "target_en": "ii. Empty medicine containers shall be returned to the dispensing entity. Patient's name, physician's name as well as date and time of contacting him, name of medication dispensed, quantity and dispensing time as well as dispenser's name and signature shall be recorded in the inventory record.",
+    "source_ar_norm": "2 - يعاد وعاء الدواء الفارغ الي الجهة التي صرفت الدواء. ويسجل في سجل العهدة اسم المريض، واسم الطبيب ووقت الاتصال به وتاريخه، واسم الدواء المصروف وكميته ووقت صرفه واسم من صرفه وتوقيعه .",
+    "target_en_norm": "ii. empty medicine containers shall be returned to the dispensing entity. patient's name, physician's name as well as date and time of contacting him, name of medication dispensed, quantity and dispensing time as well as dispenser's name and signature shall be recorded in the inventory record.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7870,
+    "source_ar": "3 - إذا كانت الكمية المقررة للمصاب أقل من سعة حقنة واحدة ، فعلى المسعف الذي أعطى الدواء ورئيس الفرقة الإسعافية الذي أشرف على ذلك إتلاف الكمية الباقية ، ويوقعان على ذلك في التقرير الإسعافي الخاص بالمصاب .",
+    "target_en": "iii. If the quantity prescribed for the patient does not consume a single injection, the paramedic giving such medicine as well as the head of the paramedic team shall destroy remainder thereof and shall jointly sign to this effect in the emergency report of the patient.",
+    "source_ar_norm": "3 - اذا كانت الكمية المقررة للمصاب اقل من سعة حقنة واحدة ، فعلي المسعف الذي اعطي الدواء ورئيس الفرقة الاسعافية الذي اشرف علي ذلك اتلاف الكمية الباقية ، ويوقعان علي ذلك في التقرير الاسعافي الخاص بالمصاب .",
+    "target_en_norm": "iii. if the quantity prescribed for the patient does not consume a single injection, the paramedic giving such medicine as well as the head of the paramedic team shall destroy remainder thereof and shall jointly sign to this effect in the emergency report of the patient.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7871,
+    "source_ar": "المادة الخامسة والعشرون:",
+    "target_en": "Article ٢٥",
+    "source_ar_norm": "المادة الخامسة والعشرون:",
+    "target_en_norm": "article ٢٥",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7872,
+    "source_ar": "أفراد العائلة هم الأبوان والأولاد والإخوة والزوج .",
+    "target_en": "Family members shall be the parents, children, siblings and spouse.",
+    "source_ar_norm": "افراد العائلة هم الابوان والاولاد والاخوة والزوج .",
+    "target_en_norm": "family members shall be the parents, children, siblings and spouse.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7873,
+    "source_ar": "المادة السادسة والعشرون:",
+    "target_en": "Article ٢٦",
+    "source_ar_norm": "المادة السادسة والعشرون:",
+    "target_en_norm": "article ٢٦",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7874,
+    "source_ar": "يصدر وزير الصحة الضوابط والتعليمات المتعلقة بإعادة الأدوية المحتوية على مواد مخدرة أو مؤثرات عقلية وكيفية التصرف فيها، بما فيها الأدوية المخدرة والمؤثرات العقلية التي تصرف من مؤسسة علاجية حكومية أو خاصة .",
+    "target_en": "The Minister of Health shall issue controls and instructions relating to the return and disposal of medications containing narcotics or psychotropic substances, including narcotic drugs and psychotropic substances dispensed from government or private curative institutions.",
+    "source_ar_norm": "يصدر وزير الصحة الضوابط والتعليمات المتعلقة باعادة الادوية المحتوية علي مواد مخدرة او مؤثرات عقلية وكيفية التصرف فيها، بما فيها الادوية المخدرة والمؤثرات العقلية التي تصرف من مؤسسة علاجية حكومية او خاصة .",
+    "target_en_norm": "the minister of health shall issue controls and instructions relating to the return and disposal of medications containing narcotics or psychotropic substances, including narcotic drugs and psychotropic substances dispensed from government or private curative institutions.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7875,
+    "source_ar": "المادة السابعة والعشرون:",
+    "target_en": "Article ٢٧",
+    "source_ar_norm": "المادة السابعة والعشرون:",
+    "target_en_norm": "article ٢٧",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7876,
+    "source_ar": "1- تطبق الأحكام الواردة في نظام استيراد المواد الكيميائية وإدارتها ولائحته التنفيذية على السلائف الكيميائية المدرجة في الجدول رقم (3) المرافق لنظام مكافحة المخدرات والمؤثرات العقلية ، فيما يتعلق بشروط وإجراءات جلبها أو تصديرها أو صنعها أو الاتجار بها أو تعاطيها أو التنازل عنها أو حيازتها، وكيفية مراقبتها والجهات المختصة بذلك.",
+    "target_en": "Provisions of the Law of Chemicals Import and Management and its Implementing Regulations shall apply to chemical precursors included in Table (٣) annexed to the Narcotics and Psychotropic Substances Control Law with regard to conditions and procedures for importation, exportation, manufacture, trading in, use, assignment, possession as well as control of such substances and agencies in charge.",
+    "source_ar_norm": "1- تطبق الاحكام الواردة في نظام استيراد المواد الكيميائية وادارتها ولائحته التنفيذية علي السلائف الكيميائية المدرجة في الجدول رقم (3) المرافق لنظام مكافحة المخدرات والمؤثرات العقلية ، فيما يتعلق بشروط واجراءات جلبها او تصديرها او صنعها او الاتجار بها او تعاطيها او التنازل عنها او حيازتها، وكيفية مراقبتها والجهات المختصة بذلك.",
+    "target_en_norm": "provisions of the law of chemicals import and management and its implementing regulations shall apply to chemical precursors included in table (٣) annexed to the narcotics and psychotropic substances control law with regard to conditions and procedures for importation, exportation, manufacture, trading in, use, assignment, possession as well as control of such substances and agencies in charge.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7877,
+    "source_ar": "2- تزود الجهات المختصة - المشار إليها في الفقرة السابقة من هذه المادة - وزارة الداخلية ( المديرية العامة لمكافحة المخدرات ) بما يلي:",
+    "target_en": "The agencies in charge – referred to in the preceding paragraph of this Article – shall provide the Ministry of Interior (General Directorate of Narcotics Control) with the following:",
+    "source_ar_norm": "2- تزود الجهات المختصة - المشار اليها في الفقرة السابقة من هذه المادة - وزارة الداخلية ( المديرية العامة لمكافحة المخدرات ) بما يلي:",
+    "target_en_norm": "the agencies in charge – referred to in the preceding paragraph of this article – shall provide the ministry of interior (general directorate of narcotics control) with the following:",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7878,
+    "source_ar": "أ - التقديرات السنوية للاحتياجات السنوية - بالسنة الميلادية - المشروعة للسلائف الكيميائية التي تحددها وزارة الداخلية ( المديرية العامة لمكافحة المخدرات ) .",
+    "target_en": "Annual estimates of the legitimate annual needs (Gregorian calendar) of chemical precursors determined by the Ministry of Interior (General Directorate of Narcotics Control).",
+    "source_ar_norm": "ا - التقديرات السنوية للاحتياجات السنوية - بالسنة الميلادية - المشروعة للسلائف الكيميائية التي تحددها وزارة الداخلية ( المديرية العامة لمكافحة المخدرات ) .",
+    "target_en_norm": "annual estimates of the legitimate annual needs (gregorian calendar) of chemical precursors determined by the ministry of interior (general directorate of narcotics control).",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7879,
+    "source_ar": "ب- صورة من رخصة الاستيراد والفسح .",
+    "target_en": "A copy of the import license and the clearance.",
+    "source_ar_norm": "ب- صورة من رخصة الاستيراد والفسح .",
+    "target_en_norm": "a copy of the import license and the clearance.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7880,
+    "source_ar": "ج- الغرض الذي جلبت لأجله هذه السلائف الكيميائية، والكمية التقريبية المطلوبة لهذا الغرض.",
+    "target_en": "Purpose for which such chemical precursors are imported, and approximate quantity required for such purpose.",
+    "source_ar_norm": "ج- الغرض الذي جلبت لاجله هذه السلائف الكيميائية، والكمية التقريبية المطلوبة لهذا الغرض.",
+    "target_en_norm": "purpose for which such chemical precursors are imported, and approximate quantity required for such purpose.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7881,
+    "source_ar": "د - بيانات وتقارير كل ثلاثة أشهر ميلادية عن الآتي:",
+    "target_en": "Data and reports shall be submitted quarterly (Gregorian calendar) on the following:",
+    "source_ar_norm": "د - بيانات وتقارير كل ثلاثة اشهر ميلادية عن الاتي:",
+    "target_en_norm": "data and reports shall be submitted quarterly (gregorian calendar) on the following:",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7882,
+    "source_ar": "1 - الكميات التي استهلكت والباقي منها .",
+    "target_en": "Quantities consumed and the remainder;",
+    "source_ar_norm": "1 - الكميات التي استهلكت والباقي منها .",
+    "target_en_norm": "quantities consumed and the remainder;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7883,
+    "source_ar": "2- الكميات المنتجة والمستهلكة منها .",
+    "target_en": "Quantities produced and consumed;",
+    "source_ar_norm": "2- الكميات المنتجة والمستهلكة منها .",
+    "target_en_norm": "quantities produced and consumed;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7884,
+    "source_ar": "3- الكميات التالفة .",
+    "target_en": "Damaged quantities;",
+    "source_ar_norm": "3- الكميات التالفة .",
+    "target_en_norm": "damaged quantities;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7885,
+    "source_ar": "4 - أسماء المواد المنتجة وكمياتها، وأسماء الجهات المستفيدة منها وعناوينها، وكمية كل جهة، والغرض من استخدام هذه المواد لدى كل جهة مستفيدة .",
+    "target_en": "Names and quantities of substances produced, names and addresses of beneficiaries as well as quantity and purpose of usage of such substances for each beneficiary; and",
+    "source_ar_norm": "4 - اسماء المواد المنتجة وكمياتها، واسماء الجهات المستفيدة منها وعناوينها، وكمية كل جهة، والغرض من استخدام هذه المواد لدي كل جهة مستفيدة .",
+    "target_en_norm": "names and quantities of substances produced, names and addresses of beneficiaries as well as quantity and purpose of usage of such substances for each beneficiary; and",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7886,
+    "source_ar": "5- يجب أن تكون هذه الكميات بالوزن (كيلوجرام، جرام) أو بالحجم (لتر، مليلتر).",
+    "target_en": "Said quantities shall be determined by weight (kilogram/gram) or volume (liter/milliliter).",
+    "source_ar_norm": "5- يجب ان تكون هذه الكميات بالوزن (كيلوجرام، جرام) او بالحجم (لتر، مليلتر).",
+    "target_en_norm": "said quantities shall be determined by weight (kilogram/gram) or volume (liter/milliliter).",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7887,
+    "source_ar": "هـ - بيان في نهاية كل سنة ميلادية بما يلي:",
+    "target_en": "A statement at the end of each calendar year (Gregorian) indicating the following:",
+    "source_ar_norm": "ه - بيان في نهاية كل سنة ميلادية بما يلي:",
+    "target_en_norm": "a statement at the end of each calendar year (gregorian) indicating the following:",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7888,
+    "source_ar": "1 - مجموع الكميات المستوردة (المفسوحة) بالوزن أو بالحجم، والدولة المستورد منها.",
+    "target_en": "Total quantities imported (cleared), in weight or volume, and the country imported from;",
+    "source_ar_norm": "1 - مجموع الكميات المستوردة (المفسوحة) بالوزن او بالحجم، والدولة المستورد منها.",
+    "target_en_norm": "total quantities imported (cleared), in weight or volume, and the country imported from;",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7889,
+    "source_ar": "2- مجموع الكميات المصدرة بالوزن أو الحجم، والدولة المصدر إليها .",
+    "target_en": "Total quantities exported, in weight or volume, and the country exported to; and",
+    "source_ar_norm": "2- مجموع الكميات المصدرة بالوزن او الحجم، والدولة المصدر اليها .",
+    "target_en_norm": "total quantities exported, in weight or volume, and the country exported to; and",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7890,
+    "source_ar": "3 - يجب أن يكون الوزن بالصافي ، ولا يشمل وزن العلبة أو الحاوية .",
+    "target_en": "Weight provided shall be the net weight, excluding the weight of the package or container.",
+    "source_ar_norm": "3 - يجب ان يكون الوزن بالصافي ، ولا يشمل وزن العلبة او الحاوية .",
+    "target_en_norm": "weight provided shall be the net weight, excluding the weight of the package or container.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7891,
+    "source_ar": "و - صورة من محاضر مخالفات نظام استيراد المواد الكيميائية وإدارتها ولائحته التنفيذية.",
+    "target_en": "A copy of reports on violations of the Law of Chemicals Import and Management and its Implementing Regulations.",
+    "source_ar_norm": "و - صورة من محاضر مخالفات نظام استيراد المواد الكيميائية وادارتها ولائحته التنفيذية.",
+    "target_en_norm": "a copy of reports on violations of the law of chemicals import and management and its implementing regulations.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7892,
+    "source_ar": "4 - بالإضافة إلى الجهات المختصة المنصوص عليها في نظام استيراد المواد الكيميائية وإدارتها، تنسق وزارة الداخلية ( المديرية العامة لمكافحة المخدرات ) مع الهيئة العامة للغذاء والدواء لمراقبة السلائف الكيميائية والتحقق من صحة البيانات المشار إليها في الفقرة (2) من المادة (السابعة والعشرين) من هذه اللائحة .",
+    "target_en": "In addition to the competent authorities provided for in the Law of Chemicals Import and Management, the Ministry of Interior (General Directorate of Narcotics Control) shall coordinate with the Food and Drug General Authority to control chemical precursors and verify the data provided for in Article ٢٧, paragraph ٢ of these Regulations.",
+    "source_ar_norm": "4 - بالاضافة الي الجهات المختصة المنصوص عليها في نظام استيراد المواد الكيميائية وادارتها، تنسق وزارة الداخلية ( المديرية العامة لمكافحة المخدرات ) مع الهيئة العامة للغذاء والدواء لمراقبة السلائف الكيميائية والتحقق من صحة البيانات المشار اليها في الفقرة (2) من المادة (السابعة والعشرين) من هذه اللائحة .",
+    "target_en_norm": "in addition to the competent authorities provided for in the law of chemicals import and management, the ministry of interior (general directorate of narcotics control) shall coordinate with the food and drug general authority to control chemical precursors and verify the data provided for in article ٢٧, paragraph ٢ of these regulations.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7893,
+    "source_ar": "5- يكون مسؤولا عن عهدة السلائف الكيميائية - الواردة في الجدول رقم (3) المرافق لنظام مكافحة المخدرات والمؤثرات العقلية - صيدلي سعودي أو كيميائي سعودي أو فني صيدلي سعودي أو فني كيميائي سعودي .",
+    "target_en": "A Saudi pharmacist, chemist, pharmacy technician or chemical technician shall be in charge of the inventory of chemical precursors included in Table (٣) annexed to the Narcotics and Psychotropic Substances Control Law.",
+    "source_ar_norm": "5- يكون مسؤولا عن عهدة السلائف الكيميائية - الواردة في الجدول رقم (3) المرافق لنظام مكافحة المخدرات والمؤثرات العقلية - صيدلي سعودي او كيميائي سعودي او فني صيدلي سعودي او فني كيميائي سعودي .",
+    "target_en_norm": "a saudi pharmacist, chemist, pharmacy technician or chemical technician shall be in charge of the inventory of chemical precursors included in table (٣) annexed to the narcotics and psychotropic substances control law.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7894,
+    "source_ar": "المادة الثامنة والعشرون:",
+    "target_en": "Article 28",
+    "source_ar_norm": "المادة الثامنة والعشرون:",
+    "target_en_norm": "article 28",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7895,
+    "source_ar": "1- يستند إلى الأحكام السابقة قبل صدور نظام مكافحة المخدرات والمؤثرات العقلية في توجيه الاتهام وإقامة الدعوى العامة بارتكاب الجرائم المنصوص عليها في الفقرتين (5 و 6) من البند (أولا) من المادة (السابعة والثلاثين) من نظام مكافحة المخدرات والمؤثرات العقلية .",
+    "target_en": "Judgments rendered prior to the issuance of the Narcotics and Psychotropic Substances Control Law shall be the basis for indictment and prosecution in the commission of crimes stipulated in Article ٣٧, clause \"First\", paragraphs ٥ & ٦ of the Narcotics and Psychotropic Substances Control Law.",
+    "source_ar_norm": "1- يستند الي الاحكام السابقة قبل صدور نظام مكافحة المخدرات والمؤثرات العقلية في توجيه الاتهام واقامة الدعوي العامة بارتكاب الجرائم المنصوص عليها في الفقرتين (5 و 6) من البند (اولا) من المادة (السابعة والثلاثين) من نظام مكافحة المخدرات والمؤثرات العقلية .",
+    "target_en_norm": "judgments rendered prior to the issuance of the narcotics and psychotropic substances control law shall be the basis for indictment and prosecution in the commission of crimes stipulated in article ٣٧, clause \"first\", paragraphs ٥ & ٦ of the narcotics and psychotropic substances control law.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7896,
+    "source_ar": "2- يجب أن يشتمل الحكم على تحديد الوصف الجرمي والمادة المخدرة أو المؤثر العقلي.",
+    "target_en": "The judgment shall include characterization of the crime and the narcotic or psychotropic substance.",
+    "source_ar_norm": "2- يجب ان يشتمل الحكم علي تحديد الوصف الجرمي والمادة المخدرة او المؤثر العقلي.",
+    "target_en_norm": "the judgment shall include characterization of the crime and the narcotic or psychotropic substance.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7897,
+    "source_ar": "3- يلحق بالمسجد المرافق الخدمية التابعة له .",
+    "target_en": "Service facilities annexed to a mosque shall be regarded as part of the mosque.",
+    "source_ar_norm": "3- يلحق بالمسجد المرافق الخدمية التابعة له .",
+    "target_en_norm": "service facilities annexed to a mosque shall be regarded as part of the mosque.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7898,
+    "source_ar": "4 - يراعى في التشديد حرمة الحرمين الشريفين وقدسيتهما .",
+    "target_en": "Sanctity and sacredness of the Two Holy Mosques shall be regarded as an aggravating condition.",
+    "source_ar_norm": "4 - يراعي في التشديد حرمة الحرمين الشريفين وقدسيتهما .",
+    "target_en_norm": "sanctity and sacredness of the two holy mosques shall be regarded as an aggravating condition.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7899,
+    "source_ar": "5 - يشمل التشديد جميع الأماكن المعدة للتعليم أو التدريب، والنشاطات المرتبطة بها وكذا المرافق التابعة لها والأماكن المجاورة لها.",
+    "target_en": "Places designated for education or training and activities related thereto as well as their facilities and adjacent areas shall be regarded as aggravating conditions.",
+    "source_ar_norm": "5 - يشمل التشديد جميع الاماكن المعدة للتعليم او التدريب، والنشاطات المرتبطة بها وكذا المرافق التابعة لها والاماكن المجاورة لها.",
+    "target_en_norm": "places designated for education or training and activities related thereto as well as their facilities and adjacent areas shall be regarded as aggravating conditions.",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  },
+  {
+    "id": 7900,
+    "source_ar": "6 - تشمل المؤسسات الإصلاحية:",
+    "target_en": "Correctional institutions shall include:",
+    "source_ar_norm": "6 - تشمل المؤسسات الاصلاحية:",
+    "target_en_norm": "correctional institutions shall include:",
+    "file_name": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية.docx"
+  }
+]

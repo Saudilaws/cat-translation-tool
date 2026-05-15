@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1401,
+    "source_ar": "ب- مزودة بأدوات اللازمة لنقل السيارة وسحبها بأمان.",
+    "target_en": "b) are equipped with the tools necessary for moving and towing vehicles safely; and",
+    "source_ar_norm": "ب- مزودة بادوات اللازمة لنقل السيارة وسحبها بامان.",
+    "target_en_norm": "b) are equipped with the tools necessary for moving and towing vehicles safely; and",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1402,
+    "source_ar": "ج – حاصلة على بطاقة تشغيل من وزارة النقل.",
+    "target_en": "c) hold an operation card from the Ministry of Transport.",
+    "source_ar_norm": "ج – حاصلة علي بطاقة تشغيل من وزارة النقل.",
+    "target_en_norm": "c) hold an operation card from the ministry of transport.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1403,
+    "source_ar": "10 يلتزم المتعهد بسحب السيارات بما يأتي:",
+    "target_en": "10. The contractor in charge of impounding vehicles shall comply with the following:",
+    "source_ar_norm": "10 يلتزم المتعهد بسحب السيارات بما ياتي:",
+    "target_en_norm": "10. the contractor in charge of impounding vehicles shall comply with the following:",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1404,
+    "source_ar": "أ – توفير عدد من مواقع الحجز بحسب طلب الإدارة العامة للمرور مرخصة من وزارة الشؤون البلدية والقروية.",
+    "target_en": "a) Providing several impoundment sites as requested by the General Directorate of Traffic, which shall be licensed by the Ministry of Municipal and Rural Affairs.",
+    "source_ar_norm": "ا – توفير عدد من مواقع الحجز بحسب طلب الادارة العامة للمرور مرخصة من وزارة الشؤون البلدية والقروية.",
+    "target_en_norm": "a) providing several impoundment sites as requested by the general directorate of traffic, which shall be licensed by the ministry of municipal and rural affairs.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1405,
+    "source_ar": "وللإدارة العامة للمرور أن تطلب ما تراه مناسباً في مواقع الحجز أو تعديله.",
+    "target_en": "The General Directorate of Traffic may request additions to or amendments of the impoundment sites as it deems appropriate.",
+    "source_ar_norm": "وللادارة العامة للمرور ان تطلب ما تراه مناسبا في مواقع الحجز او تعديله.",
+    "target_en_norm": "the general directorate of traffic may request additions to or amendments of the impoundment sites as it deems appropriate.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1406,
+    "source_ar": "ب – الحصول على تصريح من الدفاع المدني يتعلق بالسلامة.",
+    "target_en": "b) Obtaining a safety permit from the Civil Defense.",
+    "source_ar_norm": "ب – الحصول علي تصريح من الدفاع المدني يتعلق بالسلامة.",
+    "target_en_norm": "b) obtaining a safety permit from the civil defense.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1407,
+    "source_ar": "ج – توفير الخدمات الضرورية لمواقع الحجز من كهرباء وماء وهاتف وإنارة وسفلتة ومظلات لحماية السيارات.",
+    "target_en": "c) Providing necessary services to impoundment sites such as electricity, water, telephone lines, lighting, asphalt paving, and canopies to protect vehicles.",
+    "source_ar_norm": "ج – توفير الخدمات الضرورية لمواقع الحجز من كهرباء وماء وهاتف وانارة وسفلتة ومظلات لحماية السيارات.",
+    "target_en_norm": "c) providing necessary services to impoundment sites such as electricity, water, telephone lines, lighting, asphalt paving, and canopies to protect vehicles.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1408,
+    "source_ar": "د – توفير الحراسات اللازمة لمواقع حجز السيارات.",
+    "target_en": "d) Providing the necessary security for vehicle impoundment sites.",
+    "source_ar_norm": "د – توفير الحراسات اللازمة لمواقع حجز السيارات.",
+    "target_en_norm": "d) providing the necessary security for vehicle impoundment sites.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1409,
+    "source_ar": "11- على المتعهد ألا يسحب أي سيارة، أو يحملها، أو يحجزها، إلا وفق نموذج مكتوب يعده ويوقعه المختص في إدارة المرور في الموقع، موضحاً به اسمه، ورتبته، وسبب السحب، أو الحمل، أو الحجز.",
+    "target_en": "11. The contractor shall not tow, transport, or impound any vehicle without a form prepared and signed by the competent officer in the Traffic Department at the site, indicating his name, rank, and the reason for towing, transport, or impoundment.",
+    "source_ar_norm": "11- علي المتعهد الا يسحب اي سيارة، او يحملها، او يحجزها، الا وفق نموذج مكتوب يعده ويوقعه المختص في ادارة المرور في الموقع، موضحا به اسمه، ورتبته، وسبب السحب، او الحمل، او الحجز.",
+    "target_en_norm": "11. the contractor shall not tow, transport, or impound any vehicle without a form prepared and signed by the competent officer in the traffic department at the site, indicating his name, rank, and the reason for towing, transport, or impoundment.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1410,
+    "source_ar": "ولا تحجز أي سيارة إلا بعد تفتيشها من قبل الجهة الأمنية وإعداد محضر يوضح حالتها.",
+    "target_en": "No vehicle shall be impounded until it has been inspected by the competent security agency and a report stating its condition has been prepared.",
+    "source_ar_norm": "ولا تحجز اي سيارة الا بعد تفتيشها من قبل الجهة الامنية واعداد محضر يوضح حالتها.",
+    "target_en_norm": "no vehicle shall be impounded until it has been inspected by the competent security agency and a report stating its condition has been prepared.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1411,
+    "source_ar": "12- يلتزم متعهد سحب السيارات وحملها وحجزها بدفع جميع التعويضات عن الأضرار التي تلحق بالسيارة من جراء السحب أو الحمل أو الحجز.",
+    "target_en": "12. The contractor in charge of towing, transporting, and impounding vehicles shall pay all compensation for damages caused to the vehicle as a result of towing, transport, or impoundment.",
+    "source_ar_norm": "12- يلتزم متعهد سحب السيارات وحملها وحجزها بدفع جميع التعويضات عن الاضرار التي تلحق بالسيارة من جراء السحب او الحمل او الحجز.",
+    "target_en_norm": "12. the contractor in charge of towing, transporting, and impounding vehicles shall pay all compensation for damages caused to the vehicle as a result of towing, transport, or impoundment.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1412,
+    "source_ar": "13- يلتزم متعهد الحجز بالتعليمات الصادرة من إدارة المرور فيما يتعلق بحجز السيارات أو إطلاقها.",
+    "target_en": "13. The impoundment contractor shall comply with the instructions issued by the Traffic Department regarding the impoundment or release of vehicles.",
+    "source_ar_norm": "13- يلتزم متعهد الحجز بالتعليمات الصادرة من ادارة المرور فيما يتعلق بحجز السيارات او اطلاقها.",
+    "target_en_norm": "13. the impoundment contractor shall comply with the instructions issued by the traffic department regarding the impoundment or release of vehicles.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1413,
+    "source_ar": "14- يلتزم متعهد سحب السيارات وحجزها بتسجيل بيانات السيارة في سجلات بالحاسب الآلي تعد لهذا الغرض، وتحدد فيه ساعة السحب والحجز، والموقع الذي سحبت منه، وسببه، وموقع الحجز.",
+    "target_en": "14. The vehicle towing and impoundment contractor shall record the vehicle's details in electronic records prepared for such purpose, specifying the time of towing and impoundment, the location from which it was towed, the reason therefor, and the impoundment site.",
+    "source_ar_norm": "14- يلتزم متعهد سحب السيارات وحجزها بتسجيل بيانات السيارة في سجلات بالحاسب الالي تعد لهذا الغرض، وتحدد فيه ساعة السحب والحجز، والموقع الذي سحبت منه، وسببه، وموقع الحجز.",
+    "target_en_norm": "14. the vehicle towing and impoundment contractor shall record the vehicle's details in electronic records prepared for such purpose, specifying the time of towing and impoundment, the location from which it was towed, the reason therefor, and the impoundment site.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1414,
+    "source_ar": "وتزود الإدارة العامة للمرور بنهاية طرفية من ذلك.",
+    "target_en": "The General Directorate of Traffic shall be provided with a terminal connected thereto.",
+    "source_ar_norm": "وتزود الادارة العامة للمرور بنهاية طرفية من ذلك.",
+    "target_en_norm": "the general directorate of traffic shall be provided with a terminal connected thereto.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1415,
+    "source_ar": "15- يلتزم متعهد السحب أو الحجز بتقديم تقارير شهرية وبيانات مكتوبة ومسجلة في نهاية كل شهر للإدارة العامة للمرور، تتضمن بيانات تفصيلية إحصائية بالسيارات التي سحبت أو حجزت.",
+    "target_en": "15. The towing or impoundment contractor shall submit monthly reports and written and recorded data at the end of each month to the General Directorate of Traffic, including detailed statistical data on the vehicles that have been towed or impounded.",
+    "source_ar_norm": "15- يلتزم متعهد السحب او الحجز بتقديم تقارير شهرية وبيانات مكتوبة ومسجلة في نهاية كل شهر للادارة العامة للمرور، تتضمن بيانات تفصيلية احصائية بالسيارات التي سحبت او حجزت.",
+    "target_en_norm": "15. the towing or impoundment contractor shall submit monthly reports and written and recorded data at the end of each month to the general directorate of traffic, including detailed statistical data on the vehicles that have been towed or impounded.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1416,
+    "source_ar": "16- يجب أن يكون جميع العاملين في هذا المجال من السعوديين.",
+    "target_en": "16. All workers in this field must be Saudis.",
+    "source_ar_norm": "16- يجب ان يكون جميع العاملين في هذا المجال من السعوديين.",
+    "target_en_norm": "16. all workers in this field must be saudis.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1417,
+    "source_ar": "17- تسحب أو تحجز السيارات المخالفة لأحكام نظام المرور، والسيارات المهملة، وكذلك السيارات التي تقع عليها حوادث مرورية.",
+    "target_en": "17. Vehicles violating the provisions of the Traffic Law, abandoned vehicles, as well as vehicles involved in traffic accidents shall be towed or impounded.",
+    "source_ar_norm": "17- تسحب او تحجز السيارات المخالفة لاحكام نظام المرور، والسيارات المهملة، وكذلك السيارات التي تقع عليها حوادث مرورية.",
+    "target_en_norm": "17. vehicles violating the provisions of the traffic law, abandoned vehicles, as well as vehicles involved in traffic accidents shall be towed or impounded.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1418,
+    "source_ar": "18 – لا يجوز سحب السيارة المهملة أو حجزها إلا بعد مضي خمسة عشر يوماً من وضع إشعار عليها يفيد أن على مالكها العناية بها. ويستثنى من ذلك الضرورة الأمنية، أو المرورية التي تقتضي سحبها فوراً.",
+    "target_en": "18. An abandoned vehicle may not be towed and impounded until 15 days have elapsed from the date of placing a notice requiring its owner to take action, except where security concerns or traffic flow requires immediate towing.",
+    "source_ar_norm": "18 – لا يجوز سحب السيارة المهملة او حجزها الا بعد مضي خمسة عشر يوما من وضع اشعار عليها يفيد ان علي مالكها العناية بها. ويستثني من ذلك الضرورة الامنية، او المرورية التي تقتضي سحبها فورا.",
+    "target_en_norm": "18. an abandoned vehicle may not be towed and impounded until 15 days have elapsed from the date of placing a notice requiring its owner to take action, except where security concerns or traffic flow requires immediate towing.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1419,
+    "source_ar": "19 – على إدارة المرور إبلاغ صاحب السيارة المحجوزة فوراً بحجز سيارته والموقع الذي حجزت فيه إذا حصل ذلك دون علمه.",
+    "target_en": "19. The Traffic Department shall immediately inform the owner of the impounded vehicle of such impoundment and the impoundment site if it was impounded without his knowledge.",
+    "source_ar_norm": "19 – علي ادارة المرور ابلاغ صاحب السيارة المحجوزة فورا بحجز سيارته والموقع الذي حجزت فيه اذا حصل ذلك دون علمه.",
+    "target_en_norm": "19. the traffic department shall immediately inform the owner of the impounded vehicle of such impoundment and the impoundment site if it was impounded without his knowledge.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1420,
+    "source_ar": "20 – يتحمل مالك السيارة قيمة سحبها، أو حملها أو حجزها.",
+    "target_en": "20. The owner of the vehicle shall bear the cost of towing, transporting, and impounding the vehicle.",
+    "source_ar_norm": "20 – يتحمل مالك السيارة قيمة سحبها، او حملها او حجزها.",
+    "target_en_norm": "20. the owner of the vehicle shall bear the cost of towing, transporting, and impounding the vehicle.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1421,
+    "source_ar": "21 – إذا لم يراجع مالك السيارة المجوزة خلال تسعين يوماً من تأريخ حجزها، تباع بالمزاد العلني وفقاً لنظام المرور.",
+    "target_en": "21. If the owner of the impounded vehicle fails to claim the vehicle within 90 days from the date of impoundment, the vehicle shall be sold at public auction in accordance with the Traffic Law.",
+    "source_ar_norm": "21 – اذا لم يراجع مالك السيارة المجوزة خلال تسعين يوما من تاريخ حجزها، تباع بالمزاد العلني وفقا لنظام المرور.",
+    "target_en_norm": "21. if the owner of the impounded vehicle fails to claim the vehicle within 90 days from the date of impoundment, the vehicle shall be sold at public auction in accordance with the traffic law.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1422,
+    "source_ar": "وتستقطع من قيمة البيع الرسوم والغرامات المترتبة على صاحبها، وكذلك أجور السحب، ويودع الباقي أمانة للمالك.",
+    "target_en": "The fees and fines that must be paid by the owner as well as the towing and impoundment fees shall be deducted from the sale proceeds; any remaining balance shall be kept for the benefit of the vehicle owner.",
+    "source_ar_norm": "وتستقطع من قيمة البيع الرسوم والغرامات المترتبة علي صاحبها، وكذلك اجور السحب، ويودع الباقي امانة للمالك.",
+    "target_en_norm": "the fees and fines that must be paid by the owner as well as the towing and impoundment fees shall be deducted from the sale proceeds; any remaining balance shall be kept for the benefit of the vehicle owner.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1423,
+    "source_ar": "وإذا لم تغط قيمة أجور السحب والحجز فإن للمتعهد الحق في مطالبة مالك السيارة بالطرق النظامية.",
+    "target_en": "If the sale proceeds do not cover the towing and impoundment fees, the contractor shall have the right to claim such fees from the owner of the vehicle through legal channels.",
+    "source_ar_norm": "واذا لم تغط قيمة اجور السحب والحجز فان للمتعهد الحق في مطالبة مالك السيارة بالطرق النظامية.",
+    "target_en_norm": "if the sale proceeds do not cover the towing and impoundment fees, the contractor shall have the right to claim such fees from the owner of the vehicle through legal channels.",
+    "file_name": "الضوابط والأحكام الخاصة بمنافسة سحب السيارات وحجزها.docx"
+  },
+  {
+    "id": 1424,
+    "source_ar": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%",
+    "target_en": "Controls and Conditions for Licensing Foreign Companies Investment in Wholesale and Retail Trade as Full Owners",
+    "source_ar_norm": "الضوابط والشروط اللازمة للترخيص للشركات الاجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%",
+    "target_en_norm": "controls and conditions for licensing foreign companies investment in wholesale and retail trade as full owners",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1425,
+    "source_ar": "إن مجلس الوزراء",
+    "target_en": "The Council of Ministers",
+    "source_ar_norm": "ان مجلس الوزراء",
+    "target_en_norm": "the council of ministers",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1426,
+    "source_ar": "بعد الاطلاع على المعاملة الواردة من الديوان الملكي برقم ٤٢٥٨٥ وتاريخ 3/٩/1437هـ، المشتملة على خطاب معالي وزير التجارة والاستثمار رئيس مجلس إدارة الهيئة العامة للاستثمار رقم (١٤٣٧٩١ (وتاريخ 1/٩/1437هـ، في شأن طلب الموافقة على اعتماد الضوابط والشروط اللازمة للترخيص للمنشآت الأجنبية بالاستثمار في نشاط التوزيع بنسبة ملكية (%100).",
+    "target_en": "Upon perusal of Casefile No. 42585, dated 3/9/1437H, received from the Royal Court, including Letter No. 143791, dated 1/9/1437H, of His Excellency the Minister of Commerce and Investment, the Chairman of the Board of Directors of the General Investment Authority, regarding the request for approving the controls and conditions for licensing foreign companies investment in the distribution business as full owners;",
+    "source_ar_norm": "بعد الاطلاع علي المعاملة الواردة من الديوان الملكي برقم ٤٢٥٨٥ وتاريخ 3/٩/1437ه، المشتملة علي خطاب معالي وزير التجارة والاستثمار رئيس مجلس ادارة الهيئة العامة للاستثمار رقم (١٤٣٧٩١ (وتاريخ 1/٩/1437ه، في شان طلب الموافقة علي اعتماد الضوابط والشروط اللازمة للترخيص للمنشات الاجنبية بالاستثمار في نشاط التوزيع بنسبة ملكية (%100).",
+    "target_en_norm": "upon perusal of casefile no. 42585, dated 3/9/1437h, received from the royal court, including letter no. 143791, dated 1/9/1437h, of his excellency the minister of commerce and investment, the chairman of the board of directors of the general investment authority, regarding the request for approving the controls and conditions for licensing foreign companies investment in the distribution business as full owners;",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1427,
+    "source_ar": "يقرر",
+    "target_en": "Resolves as follows:",
+    "source_ar_norm": "يقرر",
+    "target_en_norm": "resolves as follows:",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1428,
+    "source_ar": "الموافقة على الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100% بالصيغة المرافقة.",
+    "target_en": "Controls and conditions for licensing foreign companies to invest in the wholesale and retail sectors as full owners shall be approved as per the attached form.",
+    "source_ar_norm": "الموافقة علي الضوابط والشروط اللازمة للترخيص للشركات الاجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100% بالصيغة المرافقة.",
+    "target_en_norm": "controls and conditions for licensing foreign companies to invest in the wholesale and retail sectors as full owners shall be approved as per the attached form.",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1429,
+    "source_ar": "أولاً:",
+    "target_en": "First:",
+    "source_ar_norm": "اولا:",
+    "target_en_norm": "first:",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1430,
+    "source_ar": "يكون السماح للأجانب بالاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية (100%) مقصوراً على الشركات، ممن لها وجود في (۳) أسواق - إقليمية أو عالمية - بحد أدنى؛ بعد تحقق الضوابط والشروط الآتية:",
+    "target_en": "The permission for foreign companies to invest in the wholesale and retail trade as full owners shall be restricted to companies that are present in at least three regional or international markets, after meeting the following controls and conditions:",
+    "source_ar_norm": "يكون السماح للاجانب بالاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية (100%) مقصورا علي الشركات، ممن لها وجود في (۳) اسواق - اقليمية او عالمية - بحد ادني؛ بعد تحقق الضوابط والشروط الاتية:",
+    "target_en_norm": "the permission for foreign companies to invest in the wholesale and retail trade as full owners shall be restricted to companies that are present in at least three regional or international markets, after meeting the following controls and conditions:",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1431,
+    "source_ar": "1- ألا يقل رأس المال النقدي للشركة التي يتم تأسيسها في المملكة وفقاً لنظام الشركات عن (۳۰) ثلاثين مليون ريال سعودي.",
+    "target_en": "1. The cash capital of the company incorporated in the Kingdom in accordance with the Companies Law shall not be less than thirty million riyals (SAR 30,000,000).",
+    "source_ar_norm": "1- الا يقل راس المال النقدي للشركة التي يتم تاسيسها في المملكة وفقا لنظام الشركات عن (۳۰) ثلاثين مليون ريال سعودي.",
+    "target_en_norm": "1. the cash capital of the company incorporated in the kingdom in accordance with the companies law shall not be less than thirty million riyals (sar 30,000,000).",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1432,
+    "source_ar": "2- - التزام الشركة باستثمار مبلغ لا يقل عن (۲۰۰) مائتي مليون ريال سعودي (يحتسب من ضمنها رأس المال النقدي للشركة) على مدى خمس سنوات تبدأ من تاريخ الحصول على الترخيص الاستثماري من الهيئة العامة للاستثمار.",
+    "target_en": "2. The company shall invest an amount of not less than two hundred million riyals (SAR 200,000,000), including the company's paid-in capital, over a period of five years starting from the date of obtaining the investment license from the General Investment Authority.",
+    "source_ar_norm": "2- - التزام الشركة باستثمار مبلغ لا يقل عن (۲۰۰) مائتي مليون ريال سعودي (يحتسب من ضمنها راس المال النقدي للشركة) علي مدي خمس سنوات تبدا من تاريخ الحصول علي الترخيص الاستثماري من الهيئة العامة للاستثمار.",
+    "target_en_norm": "2. the company shall invest an amount of not less than two hundred million riyals (sar 200,000,000), including the company's paid-in capital, over a period of five years starting from the date of obtaining the investment license from the general investment authority.",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1433,
+    "source_ar": "3-التزام الشركة بتوظيف السعوديين وفقاً للنسب المحددة من وزارة العمل والتنمية الاجتماعية، ووضع وتنفيذ خطة لتوليهم وظائف قيادية في السنوات الخمس الأولى وضمان استمرارها.",
+    "target_en": "3. The company shall employ Saudis in accordance with the ratios determined by the Ministry of Labor and Social Development and shall develop and implement a sustainable plan for appointing them to leadership positions within the first five years.",
+    "source_ar_norm": "3-التزام الشركة بتوظيف السعوديين وفقا للنسب المحددة من وزارة العمل والتنمية الاجتماعية، ووضع وتنفيذ خطة لتوليهم وظائف قيادية في السنوات الخمس الاولي وضمان استمرارها.",
+    "target_en_norm": "3. the company shall employ saudis in accordance with the ratios determined by the ministry of labor and social development and shall develop and implement a sustainable plan for appointing them to leadership positions within the first five years.",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1434,
+    "source_ar": "4- التزام الشركة بتدريب نسبة لا تقل عن (30%) من موظفيها السعوديين سنويا.ً",
+    "target_en": "4. The company shall provide annual training to at least 30% of its Saudi employees.",
+    "source_ar_norm": "4- التزام الشركة بتدريب نسبة لا تقل عن (30%) من موظفيها السعوديين سنويا.",
+    "target_en_norm": "4. the company shall provide annual training to at least 30% of its saudi employees.",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1435,
+    "source_ar": "5- التزام الشركة بأن تحقق خلال السنوات الخمس الأولى واحداً أو أكثر مما يلي:",
+    "target_en": "5. The company shall achieve one or more of the following during the first five years:",
+    "source_ar_norm": "5- التزام الشركة بان تحقق خلال السنوات الخمس الاولي واحدا او اكثر مما يلي:",
+    "target_en_norm": "5. the company shall achieve one or more of the following during the first five years:",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1436,
+    "source_ar": "أ-التصنيع: وذلك بأن تكون نسبة لا تقل عن (30%) من منتجاتها الموزعة محلياً مصنعة في المملكة.",
+    "target_en": "a. Manufacturing: At least 30% of its locally distributed products shall be manufactured in the Kingdom.",
+    "source_ar_norm": "ا-التصنيع: وذلك بان تكون نسبة لا تقل عن (30%) من منتجاتها الموزعة محليا مصنعة في المملكة.",
+    "target_en_norm": "a. manufacturing: at least 30% of its locally distributed products shall be manufactured in the kingdom.",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1437,
+    "source_ar": "ب- برامج البحوث والتطوير: وذلك بتخصيص (5%) - كحد أدنى - من إجمالي مبيعاتها لتأسيس برامج للبحوث والتطوير في المملكة.",
+    "target_en": "b. Research and Development Programs: Allocating a minimum of 5% of its total sales to establish research and development programs in the Kingdom.",
+    "source_ar_norm": "ب- برامج البحوث والتطوير: وذلك بتخصيص (5%) - كحد ادني - من اجمالي مبيعاتها لتاسيس برامج للبحوث والتطوير في المملكة.",
+    "target_en_norm": "b. research and development programs: allocating a minimum of 5% of its total sales to establish research and development programs in the kingdom.",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1438,
+    "source_ar": "ج- الخدمات اللوجستية والتوزيع: وذلك بتأسيس مركز لتقديم تلك الخدمات، وتقديم خدمات ما بعد البيع.",
+    "target_en": "c. Logistics Services and Distribution: Establishing a center to provide such services and aftersales services.",
+    "source_ar_norm": "ج- الخدمات اللوجستية والتوزيع: وذلك بتاسيس مركز لتقديم تلك الخدمات، وتقديم خدمات ما بعد البيع.",
+    "target_en_norm": "c. logistics services and distribution: establishing a center to provide such services and aftersales services.",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1439,
+    "source_ar": "ثانياً:",
+    "target_en": "Second:",
+    "source_ar_norm": "ثانيا:",
+    "target_en_norm": "second:",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1440,
+    "source_ar": "تستثنى من حكم الفقرة (٥) من البند أولاً الشركات التي تلتزم باستثمار ما لا يقل عن (۳۰۰) ثلاثمائة مليون ريال سعودي - يحتسب من ضمنها رأس المال النقدي للشركة - على مدى خمس سنوات تبدأ من تاريخ الحصول على الترخيص الاستثماري من الهيئة العامة للاستثمار.",
+    "target_en": "Companies shall be exempted from the provision of paragraph 5 of Clause (First) if they invest at least three hundred million riyals (SAR 300,000,000), including the company's paid-in capital, over a period of five years starting from the date of obtaining the investment license from the General Investment Authority.",
+    "source_ar_norm": "تستثني من حكم الفقرة (٥) من البند اولا الشركات التي تلتزم باستثمار ما لا يقل عن (۳۰۰) ثلاثمائة مليون ريال سعودي - يحتسب من ضمنها راس المال النقدي للشركة - علي مدي خمس سنوات تبدا من تاريخ الحصول علي الترخيص الاستثماري من الهيئة العامة للاستثمار.",
+    "target_en_norm": "companies shall be exempted from the provision of paragraph 5 of clause (first) if they invest at least three hundred million riyals (sar 300,000,000), including the company's paid-in capital, over a period of five years starting from the date of obtaining the investment license from the general investment authority.",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1441,
+    "source_ar": "ثالثاً:",
+    "target_en": "Third:",
+    "source_ar_norm": "ثالثا:",
+    "target_en_norm": "third:",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1442,
+    "source_ar": "لمجلس إدارة الهيئة العامة للاستثمار - في الحالات التي يقدرها - الإعفاء من بعض الضوابط والشروط الواردة في البند أولاً، على أن يكون الإعفاء وفقاً لمعايير عامة وواضحة وغير تمييزية.",
+    "target_en": "The Board of Directors of the General Investment Authority may, at its discretion, grant exemption from some of the controls and conditions mentioned in Clause (First), provided that the criteria of such exemption are transparent and non-discriminatory.",
+    "source_ar_norm": "لمجلس ادارة الهيئة العامة للاستثمار - في الحالات التي يقدرها - الاعفاء من بعض الضوابط والشروط الواردة في البند اولا، علي ان يكون الاعفاء وفقا لمعايير عامة وواضحة وغير تمييزية.",
+    "target_en_norm": "the board of directors of the general investment authority may, at its discretion, grant exemption from some of the controls and conditions mentioned in clause (first), provided that the criteria of such exemption are transparent and non-discriminatory.",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1443,
+    "source_ar": "رابعا:",
+    "target_en": "Fourth:",
+    "source_ar_norm": "رابعا:",
+    "target_en_norm": "fourth:",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1444,
+    "source_ar": "تقوم الهيئة العامة للاستثمار بمراجعة هذه الضوابط والشروط ونتائج تطبيقها خلال السنوات الخمس الأولى من تاريخ اعتمادها، وإبداء ما تراه من مقترحات بهذا الشأن بما يحقق ضمان التوسع في جذب الاستثمارات الأجنبية في قطاع تجارة الجملة والتجزئة، والرفع بما تتوصل إليه.",
+    "target_en": "The General Investment Authority shall review these controls and conditions, and the results of their implementation within the first five years following the date of their approval; provide recommendations for attracting more foreign investments in the wholesale and retail trade; and submit its findings.",
+    "source_ar_norm": "تقوم الهيئة العامة للاستثمار بمراجعة هذه الضوابط والشروط ونتائج تطبيقها خلال السنوات الخمس الاولي من تاريخ اعتمادها، وابداء ما تراه من مقترحات بهذا الشان بما يحقق ضمان التوسع في جذب الاستثمارات الاجنبية في قطاع تجارة الجملة والتجزئة، والرفع بما تتوصل اليه.",
+    "target_en_norm": "the general investment authority shall review these controls and conditions, and the results of their implementation within the first five years following the date of their approval; provide recommendations for attracting more foreign investments in the wholesale and retail trade; and submit its findings.",
+    "file_name": "الضوابط والشروط اللازمة للترخيص للشركات الأجنبية للاستثمار في قطاع تجارة الجملة والتجزئة بنسبة ملكية 100%.docx"
+  },
+  {
+    "id": 1445,
+    "source_ar": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون",
+    "target_en": "Unified Mining Law of GCC States",
+    "source_ar_norm": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون",
+    "target_en_norm": "unified mining law of gcc states",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1446,
+    "source_ar": "الباب الأول: أحكام أولية",
+    "target_en": "Part 1: Preliminary Provisions",
+    "source_ar_norm": "الباب الاول: احكام اولية",
+    "target_en_norm": "part 1: preliminary provisions",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1447,
+    "source_ar": "المادة (1) تعريفات",
+    "target_en": "Article 1: Definitions",
+    "source_ar_norm": "المادة (1) تعريفات",
+    "target_en_norm": "article 1: definitions",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1448,
+    "source_ar": "في تطبيق أحكام هذا القانون يكون للكلمات والعبارات التالية المعنى الموضح قرين كل منها ما لم يقتض سياق النص خلاف ذلك.",
+    "target_en": "In this Law, the following terms and phrases shall have the meanings assigned thereto, unless the context requires otherwise.",
+    "source_ar_norm": "في تطبيق احكام هذا القانون يكون للكلمات والعبارات التالية المعني الموضح قرين كل منها ما لم يقتض سياق النص خلاف ذلك.",
+    "target_en_norm": "in this law, the following terms and phrases shall have the meanings assigned thereto, unless the context requires otherwise.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1449,
+    "source_ar": "المجلس: مجلس التعاون لدول الخليج العربية.",
+    "target_en": "GCC: The Cooperation Council for the Arab States of the Gulf.",
+    "source_ar_norm": "المجلس: مجلس التعاون لدول الخليج العربية.",
+    "target_en_norm": "gcc: the cooperation council for the arab states of the gulf.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1450,
+    "source_ar": "المجلس الأعلى: المجلس الأعلى لمجلس التعاون لدول الخليج العربية.",
+    "target_en": "Supreme Council: The GCC Supreme Council.",
+    "source_ar_norm": "المجلس الاعلي: المجلس الاعلي لمجلس التعاون لدول الخليج العربية.",
+    "target_en_norm": "supreme council: the gcc supreme council.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1451,
+    "source_ar": "الدولة العضو في مجلس التعاون لدول الخليج العربية.",
+    "target_en": "State: A GCC member state.",
+    "source_ar_norm": "الدولة العضو في مجلس التعاون لدول الخليج العربية.",
+    "target_en_norm": "state: a gcc member state.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1452,
+    "source_ar": "السلطة المختصة: الوزير أو المسئول في الجهة المختصة الذي يعهد إليه بمهام تطبيق هذا القانون (النظام) والإشراف على تنفيذه.",
+    "target_en": "Competent Authority: The minister or official in the competent agency entrusted with applying this Law and overseeing its implementation.",
+    "source_ar_norm": "السلطة المختصة: الوزير او المسئول في الجهة المختصة الذي يعهد اليه بمهام تطبيق هذا القانون (النظام) والاشراف علي تنفيذه.",
+    "target_en_norm": "competent authority: the minister or official in the competent agency entrusted with applying this law and overseeing its implementation.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1453,
+    "source_ar": "الجهة المختصة: الجهة التي يعهد إليها بمهام تطبيق هذا القانون (النظام) والإشراف على تنفيذه وفقًا للأوضاع الدستورية والتنظيمية لكل دولة.",
+    "target_en": "Competent Agency: The agency entrusted with applying this Law and overseeing its implementation, in accordance with each state’s constitution and regulations.",
+    "source_ar_norm": "الجهة المختصة: الجهة التي يعهد اليها بمهام تطبيق هذا القانون (النظام) والاشراف علي تنفيذه وفقا للاوضاع الدستورية والتنظيمية لكل دولة.",
+    "target_en_norm": "competent agency: the agency entrusted with applying this law and overseeing its implementation, in accordance with each state’s constitution and regulations.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1454,
+    "source_ar": "الاحتياطي التعديني: كمية الخامات المعدنية الموجودة في مواقع قابلة للتعدين، أو مثبتة جيولوجيًا أو تقديريًا بعدد محدود من الحفر، أو محتملة بحسب أحجام التكوينات المعدنية.",
+    "target_en": "Mineral Reserves: The quantity of mineral ores which are found at mineable sites, geologically established or estimated by a limited number of holes, or projected by the volume of mineral formations.",
+    "source_ar_norm": "الاحتياطي التعديني: كمية الخامات المعدنية الموجودة في مواقع قابلة للتعدين، او مثبتة جيولوجيا او تقديريا بعدد محدود من الحفر، او محتملة بحسب احجام التكوينات المعدنية.",
+    "target_en_norm": "mineral reserves: the quantity of mineral ores which are found at mineable sites, geologically established or estimated by a limited number of holes, or projected by the volume of mineral formations.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1455,
+    "source_ar": "الإيجار السطحي: مقابل الانتفاع الذي يلتزم به المرخص له لإيجار الأرض المشمولة بالرخصة.",
+    "target_en": "Surface Rental: A payment made by a licensee as rent for the land covered by the license.",
+    "source_ar_norm": "الايجار السطحي: مقابل الانتفاع الذي يلتزم به المرخص له لايجار الارض المشمولة بالرخصة.",
+    "target_en_norm": "surface rental: a payment made by a licensee as rent for the land covered by the license.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1456,
+    "source_ar": "المقابل المالي للاستغلال: المبالغ التي يتم تحصيلها مقابل الاستغلال للمعادن أو الخامات المعدنية المرخصة وفقًا لأحكام هذا القانون (النظام) ولائحته.",
+    "target_en": "Exploitation Fees: Amounts collected in return for the exploitation of minerals or mineral ores that are licensed in accordance with this Law and its Regulations.",
+    "source_ar_norm": "المقابل المالي للاستغلال: المبالغ التي يتم تحصيلها مقابل الاستغلال للمعادن او الخامات المعدنية المرخصة وفقا لاحكام هذا القانون (النظام) ولائحته.",
+    "target_en_norm": "exploitation fees: amounts collected in return for the exploitation of minerals or mineral ores that are licensed in accordance with this law and its regulations.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1457,
+    "source_ar": "التطوير: الأعمال التي تتم داخل منطقة رخصة الاستغلال والتي تسبق الإنتاج التجاري، وتشمل على سبيل المثال لا الحصر تسوية الأرض وبناء المنشآت الثابتة من مساكن ومكاتب ووحدات تكسير وطحن الخام ووحدات المعالجة، وجميع التجهيزات الأساسية التي تؤدي إلى استخراج الخام ومعالجته وأعمال الحفر مثل حفر الأنفاق والحفر المفتوحة المؤدية إلى جسم الخام.",
+    "target_en": "Development: Works which are carried out within the exploitation license area and which precede commercial production. Such works include, but are not limited to, the leveling of land; construction of fixed facilities such as housing, offices, ore crushing and grinding plants, processing units, and all basic equipment used for extracting and processing ore; and digging works such as digging tunnels and open-pit mining.",
+    "source_ar_norm": "التطوير: الاعمال التي تتم داخل منطقة رخصة الاستغلال والتي تسبق الانتاج التجاري، وتشمل علي سبيل المثال لا الحصر تسوية الارض وبناء المنشات الثابتة من مساكن ومكاتب ووحدات تكسير وطحن الخام ووحدات المعالجة، وجميع التجهيزات الاساسية التي تؤدي الي استخراج الخام ومعالجته واعمال الحفر مثل حفر الانفاق والحفر المفتوحة المؤدية الي جسم الخام.",
+    "target_en_norm": "development: works which are carried out within the exploitation license area and which precede commercial production. such works include, but are not limited to, the leveling of land; construction of fixed facilities such as housing, offices, ore crushing and grinding plants, processing units, and all basic equipment used for extracting and processing ore; and digging works such as digging tunnels and open-pit mining.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1458,
+    "source_ar": "الاستغلال: استخراج الخامات والمعادن (تعدينًا أو تحجيرًا) وتسويقها داخليًا أو خارجيًا، بما في ذلك أي نشاط مباشر أو غير مباشر لازم لتحقيق هذا الغرض.",
+    "target_en": "Exploitation: The process of extracting ores and minerals by mining or quarrying, and the marketing thereof domestically or internationally, including any direct or indirect activity required to achieve this purpose.",
+    "source_ar_norm": "الاستغلال: استخراج الخامات والمعادن (تعدينا او تحجيرا) وتسويقها داخليا او خارجيا، بما في ذلك اي نشاط مباشر او غير مباشر لازم لتحقيق هذا الغرض.",
+    "target_en_norm": "exploitation: the process of extracting ores and minerals by mining or quarrying, and the marketing thereof domestically or internationally, including any direct or indirect activity required to achieve this purpose.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1459,
+    "source_ar": "التركيز: زيادة نسبة معدن ما في منتج ما.",
+    "target_en": "Concentration: The process of increasing a percentage of a mineral in a product.",
+    "source_ar_norm": "التركيز: زيادة نسبة معدن ما في منتج ما.",
+    "target_en_norm": "concentration: the process of increasing a percentage of a mineral in a product.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1460,
+    "source_ar": "المعادن: مركبات غير عضوية فلزية ولا فلزية ولها تكوين كيميائي وصفات طبيعية مميزة.",
+    "target_en": "Minerals: Inorganic metallic or non-metallic compounds with distinctive chemical compositions and physical properties.",
+    "source_ar_norm": "المعادن: مركبات غير عضوية فلزية ولا فلزية ولها تكوين كيميائي وصفات طبيعية مميزة.",
+    "target_en_norm": "minerals: inorganic metallic or non-metallic compounds with distinctive chemical compositions and physical properties.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1461,
+    "source_ar": "الحصى: الأحجار الصغيرة وتكون بأقطار تتراوح بين (2-75) ملم.",
+    "target_en": "Gravel: Small stones ranging between 2mm and 75mm in diameter.",
+    "source_ar_norm": "الحصي: الاحجار الصغيرة وتكون باقطار تتراوح بين (2-75) ملم.",
+    "target_en_norm": "gravel: small stones ranging between 2mm and 75mm in diameter.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1462,
+    "source_ar": "الحفر: عملية إحداث حفرة أو فتحة مهما كان نوعها (رأسية لبية أو مطرقية أو دوران عكسي أو خندقة أو مهاوي...) في سطح الأرض أو تحت السطح لأخذ عينات صخرية أو معدنية من تحت سطح الأرض لدراسة مكونات باطنها.",
+    "target_en": "Excavation: The process of digging a hole or a pit of any type, whether vertical or through down-the-hall hammering, reverse circulation drilling, trenching, or shaft drilling, on the ground surface or underground to collect rock or mineral samples for the purpose of studying the components of the subsurface.",
+    "source_ar_norm": "الحفر: عملية احداث حفرة او فتحة مهما كان نوعها (راسية لبية او مطرقية او دوران عكسي او خندقة او مهاوي...) في سطح الارض او تحت السطح لاخذ عينات صخرية او معدنية من تحت سطح الارض لدراسة مكونات باطنها.",
+    "target_en_norm": "excavation: the process of digging a hole or a pit of any type, whether vertical or through down-the-hall hammering, reverse circulation drilling, trenching, or shaft drilling, on the ground surface or underground to collect rock or mineral samples for the purpose of studying the components of the subsurface.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1463,
+    "source_ar": "الخامات: تجمعات من معدن واحد أو أكثر في منطقة محددة تجعلها ذات قيمة اقتصادية، وتوجد على حالتها الطبيعية.",
+    "target_en": "Ores: Natural accumulations of one or more minerals at a specific location, which make them economically viable.",
+    "source_ar_norm": "الخامات: تجمعات من معدن واحد او اكثر في منطقة محددة تجعلها ذات قيمة اقتصادية، وتوجد علي حالتها الطبيعية.",
+    "target_en_norm": "ores: natural accumulations of one or more minerals at a specific location, which make them economically viable.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1464,
+    "source_ar": "التكوينات المعدنية: أشكال أو هيئات جيولوجية طبيعية توجد فيها خامات معدنية أو تجمعات معدنية.",
+    "target_en": "Mineral Formations: Natural geological forms and structures in which mineral ores or mineral deposits may be found.",
+    "source_ar_norm": "التكوينات المعدنية: اشكال او هيئات جيولوجية طبيعية توجد فيها خامات معدنية او تجمعات معدنية.",
+    "target_en_norm": "mineral formations: natural geological forms and structures in which mineral ores or mineral deposits may be found.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1465,
+    "source_ar": "التعدين: عملية استخراج الخامة أو التكوينات المعدنية أو الخامات المعدنية ذات الفائدة من الأرض بأي طريقة أو وسيلة معروفة في هذا المجال، بما في ذلك أي نشاط مباشر أو غير مباشر يكون ضروريًا لذلك.",
+    "target_en": "Mining: The process of extracting useful ores or mineral formations from the Earth by any conventional method or means used in this field, including any direct or indirect activity required for such purpose.",
+    "source_ar_norm": "التعدين: عملية استخراج الخامة او التكوينات المعدنية او الخامات المعدنية ذات الفائدة من الارض باي طريقة او وسيلة معروفة في هذا المجال، بما في ذلك اي نشاط مباشر او غير مباشر يكون ضروريا لذلك.",
+    "target_en_norm": "mining: the process of extracting useful ores or mineral formations from the earth by any conventional method or means used in this field, including any direct or indirect activity required for such purpose.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1466,
+    "source_ar": "المرخص له: الشخص الطبيعي أو الاعتباري الذي يمنح أي حق من الحقوق المقررة بموجب هذا القانون (النظام).",
+    "target_en": "Licensee: A natural or legal person who is granted any of the rights prescribed under this Law.",
+    "source_ar_norm": "المرخص له: الشخص الطبيعي او الاعتباري الذي يمنح اي حق من الحقوق المقررة بموجب هذا القانون (النظام).",
+    "target_en_norm": "licensee: a natural or legal person who is granted any of the rights prescribed under this law.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1467,
+    "source_ar": "مالك الأرض: الشخص الطبيعي أو الاعتباري الذي يملك الأرض التي يطلب لها ترخيص للتعدين، وذلك في حالة عدم ملكية المرخص له لهذه الأرض.",
+    "target_en": "Landowner: A natural or legal person, other than the licensee, who owns the land for which a mining license is requested.",
+    "source_ar_norm": "مالك الارض: الشخص الطبيعي او الاعتباري الذي يملك الارض التي يطلب لها ترخيص للتعدين، وذلك في حالة عدم ملكية المرخص له لهذه الارض.",
+    "target_en_norm": "landowner: a natural or legal person, other than the licensee, who owns the land for which a mining license is requested.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1468,
+    "source_ar": "المناطق التعدينية: الأماكن التي جرت أو تجري فيها عمليات تعدينية.",
+    "target_en": "Mining Area: A location where mining operations have been or are being carried out.",
+    "source_ar_norm": "المناطق التعدينية: الاماكن التي جرت او تجري فيها عمليات تعدينية.",
+    "target_en_norm": "mining area: a location where mining operations have been or are being carried out.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1469,
+    "source_ar": "المنجم: المكان الذي يستخرج منه معدن أو خامة معدنية ذات فائدة سواء من سطح الأرض أو من باطنها.",
+    "target_en": "Mine: A location from which useful minerals or mineral ores are extracted, either from the surface or subsurface.",
+    "source_ar_norm": "المنجم: المكان الذي يستخرج منه معدن او خامة معدنية ذات فائدة سواء من سطح الارض او من باطنها.",
+    "target_en_norm": "mine: a location from which useful minerals or mineral ores are extracted, either from the surface or subsurface.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1470,
+    "source_ar": "منجم صغير: المنجم الذي لا تتجاوز مساحته كيلومترًا مربعًا واحدًا، وحجم راسبة المعدني وكذا إنتاجه من الخام والاستثمارات الرأسمالية فيه تبرر اعتباره كذلك، ويعود تقدير ذلك للجهة المختصة.",
+    "target_en": "Small Mine: A mine the area of which does not exceed one square kilometer and is classified as such by the competent agency according to the volume of its mineral deposit, production of ore, and capital investments.",
+    "source_ar_norm": "منجم صغير: المنجم الذي لا تتجاوز مساحته كيلومترا مربعا واحدا، وحجم راسبة المعدني وكذا انتاجه من الخام والاستثمارات الراسمالية فيه تبرر اعتباره كذلك، ويعود تقدير ذلك للجهة المختصة.",
+    "target_en_norm": "small mine: a mine the area of which does not exceed one square kilometer and is classified as such by the competent agency according to the volume of its mineral deposit, production of ore, and capital investments.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1471,
+    "source_ar": "منطقة الرخصة: المنطقة المحددة إحداثياتها في الرخصة، والموضح موقعها في الخريطة الملحقة بالرخصة.",
+    "target_en": "License Area: An area the coordinates of which are delineated in a license and the location of which is indicated on a map attached to the license.",
+    "source_ar_norm": "منطقة الرخصة: المنطقة المحددة احداثياتها في الرخصة، والموضح موقعها في الخريطة الملحقة بالرخصة.",
+    "target_en_norm": "license area: an area the coordinates of which are delineated in a license and the location of which is indicated on a map attached to the license.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1472,
+    "source_ar": "المستثمر: الشخص الطبيعي أو الاعتباري – سواءً أكان مواطنًا أو غير مواطن – الذي يطلب الحصول على رخصة محددة على منطقة ما.",
+    "target_en": "Investor: A natural or legal person, whether Saudi or non-Saudi, who applies for a specific license for a certain area.",
+    "source_ar_norm": "المستثمر: الشخص الطبيعي او الاعتباري – سواء اكان مواطنا او غير مواطن – الذي يطلب الحصول علي رخصة محددة علي منطقة ما.",
+    "target_en_norm": "investor: a natural or legal person, whether saudi or non-saudi, who applies for a specific license for a certain area.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1473,
+    "source_ar": "فحص الخامات: دراسة عينات الخامات المعدنية وتحليلها بالطرق المتعارف عليها في مثل هذه المجالات.",
+    "target_en": "Grab Sampling: To test and analyze ore samples using recognized methods.",
+    "source_ar_norm": "فحص الخامات: دراسة عينات الخامات المعدنية وتحليلها بالطرق المتعارف عليها في مثل هذه المجالات.",
+    "target_en_norm": "grab sampling: to test and analyze ore samples using recognized methods.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1474,
+    "source_ar": "المخلفات الخطرة: المخلفات التي تحوي مواد ضارة بالبيئة أو الإنسان وتنتج عن النشاط التعديني لاستغلال خامة معدنية، وقد تكون المخلفات على هيئة صلبة أو سائلة أو غازية.",
+    "target_en": "Hazardous Waste: Solid, liquid, or gaseous waste which contains materials detrimental to humans or the environment and which results from mining activities.",
+    "source_ar_norm": "المخلفات الخطرة: المخلفات التي تحوي مواد ضارة بالبيئة او الانسان وتنتج عن النشاط التعديني لاستغلال خامة معدنية، وقد تكون المخلفات علي هيئة صلبة او سائلة او غازية.",
+    "target_en_norm": "hazardous waste: solid, liquid, or gaseous waste which contains materials detrimental to humans or the environment and which results from mining activities.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1475,
+    "source_ar": "الاستطلاع: المسح الجيولوجي السريع للتعرف على المعادن والخامات بصفة عامة قبل البدء في المسح التفصيلي.",
+    "target_en": "Reconnaissance: A rapid geological survey which, prior to commencing a detailed survey, is conducted for identifying the existence of minerals and ores.",
+    "source_ar_norm": "الاستطلاع: المسح الجيولوجي السريع للتعرف علي المعادن والخامات بصفة عامة قبل البدء في المسح التفصيلي.",
+    "target_en_norm": "reconnaissance: a rapid geological survey which, prior to commencing a detailed survey, is conducted for identifying the existence of minerals and ores.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1476,
+    "source_ar": "الكشف: نشاط تفصيلي يؤدي إلى الكشف عن رواسب طبيعية لخامات معدنية فلزية ولا فلزية ذات فائدة، بالطرق الجيولوجية، أو الجيوفيزيائية، أو الجيوكيميائية، والحفر بأنواعه، أو أي طريقة أخرى مناسبة، في أي موقع بغرض تحديد وجودها وامتداداتها وكمياتها ونوعياتها وجدوى تعدينها.",
+    "target_en": "Exploration: An extensive search for useful deposits of metallic and non-metallic ores conducted on any site by using geological, geophysical, or geochemical methods, or digging, or any other appropriate method to determine the presence of such deposits, their extent, quantity, quality, and mining viability.",
+    "source_ar_norm": "الكشف: نشاط تفصيلي يؤدي الي الكشف عن رواسب طبيعية لخامات معدنية فلزية ولا فلزية ذات فائدة، بالطرق الجيولوجية، او الجيوفيزيائية، او الجيوكيميائية، والحفر بانواعه، او اي طريقة اخري مناسبة، في اي موقع بغرض تحديد وجودها وامتداداتها وكمياتها ونوعياتها وجدوي تعدينها.",
+    "target_en_norm": "exploration: an extensive search for useful deposits of metallic and non-metallic ores conducted on any site by using geological, geophysical, or geochemical methods, or digging, or any other appropriate method to determine the presence of such deposits, their extent, quantity, quality, and mining viability.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1477,
+    "source_ar": "المحاجر: أماكن في الجبال أو في الأرض تقتلع منها مواد الخام أو مواد البناء.",
+    "target_en": "Quarry: Surface mine site located in mountains or the ground where ores and building materials are extracted.",
+    "source_ar_norm": "المحاجر: اماكن في الجبال او في الارض تقتلع منها مواد الخام او مواد البناء.",
+    "target_en_norm": "quarry: surface mine site located in mountains or the ground where ores and building materials are extracted.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1478,
+    "source_ar": "الرمل: المادة التي تنتج عن تفتت مكونات القشرة الأرضية أو تكسرها أو تآكلها أو نحتها أو تعريتها، ويكون بأقطار تقل عن (2) ملم.",
+    "target_en": "Sand: A substance of less than 2mm in diameter which results from the disintegration, weathering, or erosion of components of the Earth’s crust.",
+    "source_ar_norm": "الرمل: المادة التي تنتج عن تفتت مكونات القشرة الارضية او تكسرها او تاكلها او نحتها او تعريتها، ويكون باقطار تقل عن (2) ملم.",
+    "target_en_norm": "sand: a substance of less than 2mm in diameter which results from the disintegration, weathering, or erosion of components of the earth’s crust.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1479,
+    "source_ar": "الرواسب الطبيعية: المعادن أو الخامات المعدنية الموجودة والمتوافرة بكميات اقتصادية في موضعها بشكل طبيعي.",
+    "target_en": "Deposits: Naturally occurring minerals or mineral ores which exist in economically viable quantities.",
+    "source_ar_norm": "الرواسب الطبيعية: المعادن او الخامات المعدنية الموجودة والمتوافرة بكميات اقتصادية في موضعها بشكل طبيعي.",
+    "target_en_norm": "deposits: naturally occurring minerals or mineral ores which exist in economically viable quantities.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1480,
+    "source_ar": "النيزك: أية كتلة أو شظية صخرية أو معدنية مصدرها الفضاء وتخترق الغلاف الجوي للأرض وتسقط على سطحها.",
+    "target_en": "Meteorite: Any rock or metal mass or fragment originating from space that enters the Earth's atmosphere and falls on its surface.",
+    "source_ar_norm": "النيزك: اية كتلة او شظية صخرية او معدنية مصدرها الفضاء وتخترق الغلاف الجوي للارض وتسقط علي سطحها.",
+    "target_en_norm": "meteorite: any rock or metal mass or fragment originating from space that enters the earth's atmosphere and falls on its surface.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1481,
+    "source_ar": "جمع المواد: جمع المواد المناسبة للعينات أو لأعمال الزينة أو لأغراض مناسبة أو لأغراض غير استثمارية، ولا تجوز المتاجرة في المواد المتحصل عليها.",
+    "target_en": "Material Collection: The process of collecting materials to be used as samples or decorative work, or to be used for other suitable purposes or non-investment purposes; such materials may not be traded.",
+    "source_ar_norm": "جمع المواد: جمع المواد المناسبة للعينات او لاعمال الزينة او لاغراض مناسبة او لاغراض غير استثمارية، ولا تجوز المتاجرة في المواد المتحصل عليها.",
+    "target_en_norm": "material collection: the process of collecting materials to be used as samples or decorative work, or to be used for other suitable purposes or non-investment purposes; such materials may not be traded.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1482,
+    "source_ar": "التعدين المعيشي: استغلال المعادن والصخور ومعالجتها بالوسائل اليدوية أو الآلية البسيطة وفقًا للشروط والضوابط التي تحددها السلطة المختصة.",
+    "target_en": "Artisanal and Small-Scale Mining: The extraction and processing of minerals and rocks manually or by using minimal machinery in accordance with the terms and conditions determined by the competent authority.",
+    "source_ar_norm": "التعدين المعيشي: استغلال المعادن والصخور ومعالجتها بالوسائل اليدوية او الالية البسيطة وفقا للشروط والضوابط التي تحددها السلطة المختصة.",
+    "target_en_norm": "artisanal and small-scale mining: the extraction and processing of minerals and rocks manually or by using minimal machinery in accordance with the terms and conditions determined by the competent authority.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1483,
+    "source_ar": "الصخور: هي مادة أرضية طبيعية توجد في هيئة أحجار ضخمة صلبة، وتتكون في الغالب من تجمع معدني متحجر يتألف من معدنين أو أكثر.",
+    "target_en": "Rocks: Natural earth substances which exist in the form of large solid stones and which are generally composed of metamorphic mineral assemblage which consists of two or more minerals.",
+    "source_ar_norm": "الصخور: هي مادة ارضية طبيعية توجد في هيئة احجار ضخمة صلبة، وتتكون في الغالب من تجمع معدني متحجر يتالف من معدنين او اكثر.",
+    "target_en_norm": "rocks: natural earth substances which exist in the form of large solid stones and which are generally composed of metamorphic mineral assemblage which consists of two or more minerals.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1484,
+    "source_ar": "البحر الإقليمي: منطقة الحزام البحري الملاصق للدولة، ويبلغ عرضه اثني عشر ميلًا بحريًا مقاسًا من خط الأساس للدولة، وتمتد سيادة الدولة إلى الحيز الجوي فوق ذلك، وكذلك إلى قاع وباطن أرضه، ويكون للدولة حق ممارسة سيادتها وولايتها على هذه المنطقة.",
+    "target_en": "Territorial Sea: The maritime belt which extends 12 nautical miles from the baseline of the state. The state shall have sovereignty over the airspace, seabed, and subsurface of such area, and may exercise its jurisdiction over it.",
+    "source_ar_norm": "البحر الاقليمي: منطقة الحزام البحري الملاصق للدولة، ويبلغ عرضه اثني عشر ميلا بحريا مقاسا من خط الاساس للدولة، وتمتد سيادة الدولة الي الحيز الجوي فوق ذلك، وكذلك الي قاع وباطن ارضه، ويكون للدولة حق ممارسة سيادتها وولايتها علي هذه المنطقة.",
+    "target_en_norm": "territorial sea: the maritime belt which extends 12 nautical miles from the baseline of the state. the state shall have sovereignty over the airspace, seabed, and subsurface of such area, and may exercise its jurisdiction over it.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1485,
+    "source_ar": "إعادة تأهيل الموقع: الأعمال التي على المرخص له القيام بها لإعادة الموقع إلى الحالة الطبيعية - ما أمكن - بعد الانتهاء من جميع نشاطاته فيه، والتخلص من كافة النفايات والمخلفات الناتجة عن نشاط المرخص له.",
+    "target_en": "Reclamation: Actions that a licensee is required to carry out upon completion of all activities on a license site to restore it to its natural condition, to the extent possible, and to dispose safely of all waste and debris resulting from his activities.",
+    "source_ar_norm": "اعادة تاهيل الموقع: الاعمال التي علي المرخص له القيام بها لاعادة الموقع الي الحالة الطبيعية - ما امكن - بعد الانتهاء من جميع نشاطاته فيه، والتخلص من كافة النفايات والمخلفات الناتجة عن نشاط المرخص له.",
+    "target_en_norm": "reclamation: actions that a licensee is required to carry out upon completion of all activities on a license site to restore it to its natural condition, to the extent possible, and to dispose safely of all waste and debris resulting from his activities.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1486,
+    "source_ar": "المنطقة الاقتصادية الخالصة: المنطقة الواقعة وراء البحر الإقليمي والملاصقة له، وتمتد إلى مسافة مائتي ميل بحري من خطوط الأساس التي يقاس منها عرض البحر الإقليمي للدولة.",
+    "target_en": "Exclusive Economic Zone: The area which is contiguous to territorial waters and which extends to a distance of 200 nautical miles from the baseline of the state.",
+    "source_ar_norm": "المنطقة الاقتصادية الخالصة: المنطقة الواقعة وراء البحر الاقليمي والملاصقة له، وتمتد الي مسافة مائتي ميل بحري من خطوط الاساس التي يقاس منها عرض البحر الاقليمي للدولة.",
+    "target_en_norm": "exclusive economic zone: the area which is contiguous to territorial waters and which extends to a distance of 200 nautical miles from the baseline of the state.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1487,
+    "source_ar": "اللائحة: اللائحة التنفيذية لهذا القانون (النظام).",
+    "target_en": "Regulations: The Implementing Regulations of this Law.",
+    "source_ar_norm": "اللائحة: اللائحة التنفيذية لهذا القانون (النظام).",
+    "target_en_norm": "regulations: the implementing regulations of this law.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1488,
+    "source_ar": "المادة (2) ملكية الرواسب الطبيعية للمعادن",
+    "target_en": "Article 2: Ownership of Natural Mineral Deposits",
+    "source_ar_norm": "المادة (2) ملكية الرواسب الطبيعية للمعادن",
+    "target_en_norm": "article 2: ownership of natural mineral deposits",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1489,
+    "source_ar": "تكون جميع الرواسب الطبيعية للمعادن والصخور والأحافير والنيازك ملكا للدولة وحدها حسب النظام الأساسي للدولة أو دستورها، ولا يجوز كسبها من قبل الغير بالتقادم، ويشمل ذلك خامات المحاجر بجميع أنواعها أيًا كان شكلها أو تركيبها، سواء كانت في التربة أو في باطن الأرض والموجودة في إقليم الدولة البري ومياهها الداخلية وبحرها الإقليمي ومنطقتها الاقتصادية الخالصة وجرفها القاري والنطاق البري والبحري الذي يمتد إليه اختصاص الدولة.",
+    "target_en": "All deposits of minerals, rocks, fossils, and meteorites shall be the exclusive property of the state pursuant to its basic law of governance or constitution, and may not be claimed by a third party through lapse of time. This shall include quarry raw materials of all types, in whatever form or composition, whether in the soil or subsoil of the state’s land territory, inland waters, territorial sea, exclusive economic zone, continental shelf as well as the onshore and offshore territory under its jurisdiction.",
+    "source_ar_norm": "تكون جميع الرواسب الطبيعية للمعادن والصخور والاحافير والنيازك ملكا للدولة وحدها حسب النظام الاساسي للدولة او دستورها، ولا يجوز كسبها من قبل الغير بالتقادم، ويشمل ذلك خامات المحاجر بجميع انواعها ايا كان شكلها او تركيبها، سواء كانت في التربة او في باطن الارض والموجودة في اقليم الدولة البري ومياهها الداخلية وبحرها الاقليمي ومنطقتها الاقتصادية الخالصة وجرفها القاري والنطاق البري والبحري الذي يمتد اليه اختصاص الدولة.",
+    "target_en_norm": "all deposits of minerals, rocks, fossils, and meteorites shall be the exclusive property of the state pursuant to its basic law of governance or constitution, and may not be claimed by a third party through lapse of time. this shall include quarry raw materials of all types, in whatever form or composition, whether in the soil or subsoil of the state’s land territory, inland waters, territorial sea, exclusive economic zone, continental shelf as well as the onshore and offshore territory under its jurisdiction.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1490,
+    "source_ar": "وتنتقل ملكية الرواسب الطبيعية للمعادن من الدولة إلى المرخص له وفقًا لهذا القانون (النظام) بمجرد استخراجه لذلك المعدن من المنطقة المرخص له فيها وذلك وفقًا لشروط الرخصة، خلال سريانها.",
+    "target_en": "Ownership of such deposits shall, pursuant to this Law, transfer from the state to the licensee upon their extraction from the license area during the validity of the license and pursuant to its terms.",
+    "source_ar_norm": "وتنتقل ملكية الرواسب الطبيعية للمعادن من الدولة الي المرخص له وفقا لهذا القانون (النظام) بمجرد استخراجه لذلك المعدن من المنطقة المرخص له فيها وذلك وفقا لشروط الرخصة، خلال سريانها.",
+    "target_en_norm": "ownership of such deposits shall, pursuant to this law, transfer from the state to the licensee upon their extraction from the license area during the validity of the license and pursuant to its terms.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1491,
+    "source_ar": "المادة (3) المعادن والمواد الخارجة عن نطاق تطبيق هذا القانون (النظام)",
+    "target_en": "Article 3: Minerals and Materials not Subject to this Law",
+    "source_ar_norm": "المادة (3) المعادن والمواد الخارجة عن نطاق تطبيق هذا القانون (النظام)",
+    "target_en_norm": "article 3: minerals and materials not subject to this law",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1492,
+    "source_ar": "لا تسري أحكام هذا القانون (النظام) على ما يلي:",
+    "target_en": "The provisions of this Law shall not apply to:",
+    "source_ar_norm": "لا تسري احكام هذا القانون (النظام) علي ما يلي:",
+    "target_en_norm": "the provisions of this law shall not apply to:",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1493,
+    "source_ar": "البترول والغاز الطبيعي والمواد المشتقة منهما.",
+    "target_en": "petroleum and natural gas and their derivatives; and",
+    "source_ar_norm": "البترول والغاز الطبيعي والمواد المشتقة منهما.",
+    "target_en_norm": "petroleum and natural gas and their derivatives; and",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1494,
+    "source_ar": "اللآلئ والمرجان والمواد العضوية البحرية المشابهة.",
+    "target_en": "pearls, corals, and similar organic marine substances.",
+    "source_ar_norm": "اللالئ والمرجان والمواد العضوية البحرية المشابهة.",
+    "target_en_norm": "pearls, corals, and similar organic marine substances.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1495,
+    "source_ar": "المادة (4) اختصاصات الجهة المختصة بتطبيق هذا القانون (النظام)",
+    "target_en": "Article 4: Powers of the Competent Agency in Charge of the Application of this Law",
+    "source_ar_norm": "المادة (4) اختصاصات الجهة المختصة بتطبيق هذا القانون (النظام)",
+    "target_en_norm": "article 4: powers of the competent agency in charge of the application of this law",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1496,
+    "source_ar": "تقوم الجهة المختصة في سبيل تطبيق أحكام هذا القانون (النظام) والإشراف على تنفيذه، باتخاذ ما يأتي:",
+    "target_en": "In applying this Law and overseeing its implementation, the competent agency shall have the following powers:",
+    "source_ar_norm": "تقوم الجهة المختصة في سبيل تطبيق احكام هذا القانون (النظام) والاشراف علي تنفيذه، باتخاذ ما ياتي:",
+    "target_en_norm": "in applying this law and overseeing its implementation, the competent agency shall have the following powers:",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1497,
+    "source_ar": "تحديد الأراضي والمناطق البحرية التي يجوز منح رخص عليها.",
+    "target_en": "Designating lands and maritime areas for which licenses may be granted.",
+    "source_ar_norm": "تحديد الاراضي والمناطق البحرية التي يجوز منح رخص عليها.",
+    "target_en_norm": "designating lands and maritime areas for which licenses may be granted.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1498,
+    "source_ar": "تحديد الشروط اللازم توافرها في طالبي الحصول على أي نوع من الرخص.",
+    "target_en": "Determining the requirements which shall apply to applicants of any type of license.",
+    "source_ar_norm": "تحديد الشروط اللازم توافرها في طالبي الحصول علي اي نوع من الرخص.",
+    "target_en_norm": "determining the requirements which shall apply to applicants of any type of license.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1499,
+    "source_ar": "التفاوض بشأن منح الحقوق بمقتضى هذا القانون (النظام) ولائحته وإصدار الرخص التي تمنح تلك الحقوق.",
+    "target_en": "Negotiating rights to be granted under this Law and its Regulations, and issuing licenses granting such rights.",
+    "source_ar_norm": "التفاوض بشان منح الحقوق بمقتضي هذا القانون (النظام) ولائحته واصدار الرخص التي تمنح تلك الحقوق.",
+    "target_en_norm": "negotiating rights to be granted under this law and its regulations, and issuing licenses granting such rights.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1500,
+    "source_ar": "توفير ما أمكن من الخرائط ومعلومات المسح المختلفة والدراسات والأبحاث اللازمة للاستثمارات التعدينية.",
+    "target_en": "Providing maps, survey data, and studies required for mining investments.",
+    "source_ar_norm": "توفير ما امكن من الخرائط ومعلومات المسح المختلفة والدراسات والابحاث اللازمة للاستثمارات التعدينية.",
+    "target_en_norm": "providing maps, survey data, and studies required for mining investments.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  }
+]

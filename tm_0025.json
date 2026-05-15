@@ -1,0 +1,802 @@
+[
+  {
+    "id": 2401,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article 4",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2402,
+    "source_ar": "تحدد القواعد شروط القبول في البيوت الاجتماعية وإجراءاته.",
+    "target_en": "The Rules shall specify conditions and procedures for admission to foster homes.",
+    "source_ar_norm": "تحدد القواعد شروط القبول في البيوت الاجتماعية واجراءاته.",
+    "target_en_norm": "the rules shall specify conditions and procedures for admission to foster homes.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2403,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article 5",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2404,
+    "source_ar": "تعد البيوت الاجتماعية برنامجاً تأهيليًّا للذكور الذين سينقلون إلى البيوت الاجتماعية المخصصة لهم؛ وفقاً لما تحدده القواعد.",
+    "target_en": "Foster homes shall establish a rehabilitation program for male residents prior to their transfer to their designated foster homes, in accordance with the Rules.",
+    "source_ar_norm": "تعد البيوت الاجتماعية برنامجا تاهيليا للذكور الذين سينقلون الي البيوت الاجتماعية المخصصة لهم؛ وفقا لما تحدده القواعد.",
+    "target_en_norm": "foster homes shall establish a rehabilitation program for male residents prior to their transfer to their designated foster homes, in accordance with the rules.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2405,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article 6",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2406,
+    "source_ar": "تضع البيوت الاجتماعية خطة سنوية للبرامج والأنشطة، يراعى فيها التنوع والمرحلة العمرية والإمكانات اللازمة لتنفيذها؛ وفقاً لما تحدده القواعد.",
+    "target_en": "Foster homes shall develop an annual plan for programs and activities, taking into account variety, age group, and the resources required for implementation, in accordance with the Rules.",
+    "source_ar_norm": "تضع البيوت الاجتماعية خطة سنوية للبرامج والانشطة، يراعي فيها التنوع والمرحلة العمرية والامكانات اللازمة لتنفيذها؛ وفقا لما تحدده القواعد.",
+    "target_en_norm": "foster homes shall develop an annual plan for programs and activities, taking into account variety, age group, and the resources required for implementation, in accordance with the rules.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2407,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article 7",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2408,
+    "source_ar": "1- تصرف للمقيم مكافأة شهرية؛ وفقاً لما تحدده القواعد.",
+    "target_en": "1. The resident shall be paid a monthly allowance as specified in the Rules.",
+    "source_ar_norm": "1- تصرف للمقيم مكافاة شهرية؛ وفقا لما تحدده القواعد.",
+    "target_en_norm": "1. the resident shall be paid a monthly allowance as specified in the rules.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2409,
+    "source_ar": "2 - تتكفل الوزارة - إذا لم يقبل المقيم في المدارس أو الجامعات أو المعاهد الحكومية - بدفع الرسوم الدراسية المترتبة على إلحاقه بمدرسة أو معهد أو جامعة أهلية.",
+    "target_en": "2. The Ministry shall cover tuition fees for the resident’s enrollment in a private school, university, or institute if he is not accepted into a public school, institute, or university.",
+    "source_ar_norm": "2 - تتكفل الوزارة - اذا لم يقبل المقيم في المدارس او الجامعات او المعاهد الحكومية - بدفع الرسوم الدراسية المترتبة علي الحاقه بمدرسة او معهد او جامعة اهلية.",
+    "target_en_norm": "2. the ministry shall cover tuition fees for the resident’s enrollment in a private school, university, or institute if he is not accepted into a public school, institute, or university.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2410,
+    "source_ar": "3 - تتحمل الوزارة - إذا لم يعالج المقيم في مركز أو مستشفى حكومي- مصاريف علاجه في مركز أو مستشفى خاص.",
+    "target_en": "3. The Ministry shall cover the medical expenses for residents receiving treatment in private health facilities or hospitals when treatment is not available at a government health facility or hospital.",
+    "source_ar_norm": "3 - تتحمل الوزارة - اذا لم يعالج المقيم في مركز او مستشفي حكومي- مصاريف علاجه في مركز او مستشفي خاص.",
+    "target_en_norm": "3. the ministry shall cover the medical expenses for residents receiving treatment in private health facilities or hospitals when treatment is not available at a government health facility or hospital.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2411,
+    "source_ar": "4 - استثناءً من الشرط الوارد في الفقرتين (2) و(3)، يجوز للوزير في الحالات التي يقدرها إلحاق المقيم بمدرسة أو معهد أو جامعة أهلية، ويجوز له أيضاً علاج الحالات التي يقدرها في المراكز أو المستشفيات الخاصة.",
+    "target_en": "4. Notwithstanding the condition provided for in paragraphs (2) and (3), the Minister may, at his discretion, in certain cases enroll the resident in a private school, institute, or university, and may provide treatment to certain cases in private health facilities or hospitals.",
+    "source_ar_norm": "4 - استثناء من الشرط الوارد في الفقرتين (2) و(3)، يجوز للوزير في الحالات التي يقدرها الحاق المقيم بمدرسة او معهد او جامعة اهلية، ويجوز له ايضا علاج الحالات التي يقدرها في المراكز او المستشفيات الخاصة.",
+    "target_en_norm": "4. notwithstanding the condition provided for in paragraphs (2) and (3), the minister may, at his discretion, in certain cases enroll the resident in a private school, institute, or university, and may provide treatment to certain cases in private health facilities or hospitals.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2412,
+    "source_ar": "5 - تؤمن الوزارة وسيلة نقل لمن يتعلم أو يتدرب أو يعمل من المقيمين.",
+    "target_en": "5. The Ministry shall provide a means of transportation for residents who study, train, or work.",
+    "source_ar_norm": "5 - تؤمن الوزارة وسيلة نقل لمن يتعلم او يتدرب او يعمل من المقيمين.",
+    "target_en_norm": "5. the ministry shall provide a means of transportation for residents who study, train, or work.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2413,
+    "source_ar": "وتحدد القواعد الشروط والضوابط اللازمة لذلك.",
+    "target_en": "The Rules shall specify the necessary conditions and controls.",
+    "source_ar_norm": "وتحدد القواعد الشروط والضوابط اللازمة لذلك.",
+    "target_en_norm": "the rules shall specify the necessary conditions and controls.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2414,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article 8",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2415,
+    "source_ar": "لا يجوز أن تزيد الطاقة الاستيعابية لكل بيت اجتماعي عن (أربعين) مقيماً، وإذا كان مكوناً من عدة وحدات سكنية فلا يجوز أن تزيد الطاقة الاستيعابية للوحدة على (ثمانية) مقيمين، وتحدد القواعد فئاتهم العمرية، والمواصفات اللازمة للبيوت الاجتماعية ووحداتها السكنية.",
+    "target_en": "The capacity of each foster home shall not exceed 40 residents. If the foster home consists of several housing units, the capacity of each unit shall not exceed eight residents. The Rules shall specify the age groups of the residents, and the specifications for foster homes and housing units.",
+    "source_ar_norm": "لا يجوز ان تزيد الطاقة الاستيعابية لكل بيت اجتماعي عن (اربعين) مقيما، واذا كان مكونا من عدة وحدات سكنية فلا يجوز ان تزيد الطاقة الاستيعابية للوحدة علي (ثمانية) مقيمين، وتحدد القواعد فئاتهم العمرية، والمواصفات اللازمة للبيوت الاجتماعية ووحداتها السكنية.",
+    "target_en_norm": "the capacity of each foster home shall not exceed 40 residents. if the foster home consists of several housing units, the capacity of each unit shall not exceed eight residents. the rules shall specify the age groups of the residents, and the specifications for foster homes and housing units.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2416,
+    "source_ar": "المادة التاسعة:",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة:",
+    "target_en_norm": "article 9",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2417,
+    "source_ar": "تنتهي الإقامة في البيوت الاجتماعية في الحالات الآتية:",
+    "target_en": "Residence in foster homes shall be terminated in the following cases:",
+    "source_ar_norm": "تنتهي الاقامة في البيوت الاجتماعية في الحالات الاتية:",
+    "target_en_norm": "residence in foster homes shall be terminated in the following cases:",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2418,
+    "source_ar": "أ ـ انتقال كفالة المقيم إلى جهة رعاية بديلة بعد موافقة الوزارة على ذلك.",
+    "target_en": "a. The resident is transferred to another care facility after the approval of the Ministry.",
+    "source_ar_norm": "ا  انتقال كفالة المقيم الي جهة رعاية بديلة بعد موافقة الوزارة علي ذلك.",
+    "target_en_norm": "a. the resident is transferred to another care facility after the approval of the ministry.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2419,
+    "source_ar": "ب - بلوغ الذكر المقيم سن (العشرين) أو حصوله على شهادة الثانوية العامة أو ما يعادلها، أيهما أسبق. وللوزير - عند الاقتضاء - زيادة مدة إقامة المقيم في تلك البيوت حتى بلوغه سن (الخامسة والعشرين).",
+    "target_en": "b. The male resident reaches the age of 20 or obtains a high school diploma or its equivalent, whichever is earlier. The Minister may, if necessary, extend the period of residence in such homes until the resident reaches the age of 25.",
+    "source_ar_norm": "ب - بلوغ الذكر المقيم سن (العشرين) او حصوله علي شهادة الثانوية العامة او ما يعادلها، ايهما اسبق. وللوزير - عند الاقتضاء - زيادة مدة اقامة المقيم في تلك البيوت حتي بلوغه سن (الخامسة والعشرين).",
+    "target_en_norm": "b. the male resident reaches the age of 20 or obtains a high school diploma or its equivalent, whichever is earlier. the minister may, if necessary, extend the period of residence in such homes until the resident reaches the age of 25.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2420,
+    "source_ar": "ج - زواج المقيم.",
+    "target_en": "c. Marriage of the resident.",
+    "source_ar_norm": "ج - زواج المقيم.",
+    "target_en_norm": "c. marriage of the resident.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2421,
+    "source_ar": "د - الوفاة.",
+    "target_en": "d. Death of the resident.",
+    "source_ar_norm": "د - الوفاة.",
+    "target_en_norm": "d. death of the resident.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2422,
+    "source_ar": "هـ - أي حالة أخرى تحددها القواعد.",
+    "target_en": "e. Any other case specified in the Rules.",
+    "source_ar_norm": "ه - اي حالة اخري تحددها القواعد.",
+    "target_en_norm": "e. any other case specified in the rules.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2423,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article 10",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2424,
+    "source_ar": "تعد الوزارة للمقيمين في البيوت الاجتماعية ما يحتاجون إليه من برامج تأهيلية وتدريبية وتوعوية وفق ما تحدده القواعد.",
+    "target_en": "The Ministry shall provide foster home residents with the rehabilitation, training, and awareness programs they need, in accordance with the Rules.",
+    "source_ar_norm": "تعد الوزارة للمقيمين في البيوت الاجتماعية ما يحتاجون اليه من برامج تاهيلية وتدريبية وتوعوية وفق ما تحدده القواعد.",
+    "target_en_norm": "the ministry shall provide foster home residents with the rehabilitation, training, and awareness programs they need, in accordance with the rules.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2425,
+    "source_ar": "المادة الحادية عشرة:",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة:",
+    "target_en_norm": "article 11",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2426,
+    "source_ar": "يجب توفير ما تحتاجه البيوت الاجتماعية من المختصين في المجال النفسي والاجتماعي والتربوي وغير ذلك؛ لتقديم الخدمات الشاملة للمقيمين وفق احتياجات مراحلهم العمرية ومتطلباتها.",
+    "target_en": "Foster homes must be staffed with social workers and specialists in psychology and education, and the like, to provide comprehensive services to residents of different age groups according to their needs and requirements.",
+    "source_ar_norm": "يجب توفير ما تحتاجه البيوت الاجتماعية من المختصين في المجال النفسي والاجتماعي والتربوي وغير ذلك؛ لتقديم الخدمات الشاملة للمقيمين وفق احتياجات مراحلهم العمرية ومتطلباتها.",
+    "target_en_norm": "foster homes must be staffed with social workers and specialists in psychology and education, and the like, to provide comprehensive services to residents of different age groups according to their needs and requirements.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2427,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article 12",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2428,
+    "source_ar": "تتولى الوزارة الرعاية اللاحقة لمن يحتاج إليها ممن انتهت إقامتهم في البيوت الاجتماعية وفق ما تحدده القواعد.",
+    "target_en": "The Ministry shall provide aftercare to persons in need whose residence in foster homes has ended, in accordance with the Rules.",
+    "source_ar_norm": "تتولي الوزارة الرعاية اللاحقة لمن يحتاج اليها ممن انتهت اقامتهم في البيوت الاجتماعية وفق ما تحدده القواعد.",
+    "target_en_norm": "the ministry shall provide aftercare to persons in need whose residence in foster homes has ended, in accordance with the rules.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2429,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article 13",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2430,
+    "source_ar": "للوزير إصدار ضوابط تحكم افتتاح بيوت اجتماعية لرعاية وإيواء من لا يُعرف والداه أو والده؛ ليطبقها من يرغب في ذلك من الجمعيات والمؤسسات الخيرية والموسرين والخيرين من أفراد المجتمع، بما ينسجم مع الأحكام الواردة في هذه اللائحة.",
+    "target_en": "The Minister may issue controls to govern the establishment of foster homes aiming to provide care and accommodation to persons whose parents or paternal identity is unknown to be followed by interested charitable associations and institutions as well as philanthropists and wealthy individuals in the society, in line with the provisions of these Regulations.",
+    "source_ar_norm": "للوزير اصدار ضوابط تحكم افتتاح بيوت اجتماعية لرعاية وايواء من لا يعرف والداه او والده؛ ليطبقها من يرغب في ذلك من الجمعيات والمؤسسات الخيرية والموسرين والخيرين من افراد المجتمع، بما ينسجم مع الاحكام الواردة في هذه اللائحة.",
+    "target_en_norm": "the minister may issue controls to govern the establishment of foster homes aiming to provide care and accommodation to persons whose parents or paternal identity is unknown to be followed by interested charitable associations and institutions as well as philanthropists and wealthy individuals in the society, in line with the provisions of these regulations.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2431,
+    "source_ar": "المادة الرابعة عشرة:",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة:",
+    "target_en_norm": "article 14",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2432,
+    "source_ar": "تلغي هذه اللائحة اللائحة الأساسية لدور التربية الاجتماعية الصادرة بقرار مجلس الوزراء رقم (١٨٥) وتاريخ ٥/ ٢/١٣٨٧هـ ولائحة دار الحضانة الصادرة بقرار مجلس الوزراء رقم (١٥٦) وتاريخ ٨/ ٢/١٣٩٥هـ.",
+    "target_en": "These Regulations shall repeal the Regulations of Social Education Homes issued pursuant to Council of Ministers Resolution No. 185, dated 5/2/1387H, and the Nursery Home Regulations issued pursuant to Council of Ministers Resolution No. 156, dated 8/2/1395H.",
+    "source_ar_norm": "تلغي هذه اللائحة اللائحة الاساسية لدور التربية الاجتماعية الصادرة بقرار مجلس الوزراء رقم (١٨٥) وتاريخ ٥/ ٢/١٣٨٧ه ولائحة دار الحضانة الصادرة بقرار مجلس الوزراء رقم (١٥٦) وتاريخ ٨/ ٢/١٣٩٥ه.",
+    "target_en_norm": "these regulations shall repeal the regulations of social education homes issued pursuant to council of ministers resolution no. 185, dated 5/2/1387h, and the nursery home regulations issued pursuant to council of ministers resolution no. 156, dated 8/2/1395h.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2433,
+    "source_ar": "المادة الخامسة عشرة:",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة:",
+    "target_en_norm": "article 15",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2434,
+    "source_ar": "يصدر الوزير القواعد خلال مدة أقصاها (تسعون) يوماً من تاريخ صدور هذه اللائحة.",
+    "target_en": "The Minister shall issue the Rules within a period not exceeding 90 days from the date of issuance of these Regulations.",
+    "source_ar_norm": "يصدر الوزير القواعد خلال مدة اقصاها (تسعون) يوما من تاريخ صدور هذه اللائحة.",
+    "target_en_norm": "the minister shall issue the rules within a period not exceeding 90 days from the date of issuance of these regulations.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2435,
+    "source_ar": "المادة السادسة عشرة:",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة:",
+    "target_en_norm": "article 16",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2436,
+    "source_ar": "يعمل بهذه اللائحة بعد (تسعين) يوماً من تاريخ نشرها في الجريدة الرسمية.",
+    "target_en": "These Regulations shall enter into force 90 days following the date of their publication in the Official Gazette.",
+    "source_ar_norm": "يعمل بهذه اللائحة بعد (تسعين) يوما من تاريخ نشرها في الجريدة الرسمية.",
+    "target_en_norm": "these regulations shall enter into force 90 days following the date of their publication in the official gazette.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2437,
+    "source_ar": "الملحق",
+    "target_en": "Appendix",
+    "source_ar_norm": "الملحق",
+    "target_en_norm": "appendix",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2438,
+    "source_ar": "التعديلات",
+    "target_en": "Amendments",
+    "source_ar_norm": "التعديلات",
+    "target_en_norm": "amendments",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2439,
+    "source_ar": "تعديل بموجب قرار مجلس الوزراء رقم 492 بتاريخ 14/09/1439ه:",
+    "target_en": "May 29, 2018 (Ramadan 14, 1439H) Council of Ministers Resolution No. 492 provides for the following:",
+    "source_ar_norm": "تعديل بموجب قرار مجلس الوزراء رقم 492 بتاريخ 14/09/1439ه:",
+    "target_en_norm": "may 29, 2018 (ramadan 14, 1439h) council of ministers resolution no. 492 provides for the following:",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2440,
+    "source_ar": "إضافة فقرة تحمل الرقم (2) إلى المادة (الثانية عشرة)، لتصبح المادة بالنص الآتي:",
+    "target_en": "Adding a paragraph to Article 12 to be numbered (2); the Article shall read as follows:",
+    "source_ar_norm": "اضافة فقرة تحمل الرقم (2) الي المادة (الثانية عشرة)، لتصبح المادة بالنص الاتي:",
+    "target_en_norm": "adding a paragraph to article 12 to be numbered (2); the article shall read as follows:",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2441,
+    "source_ar": "\"المادة الثانية عشرة:",
+    "target_en": "\"Article 12",
+    "source_ar_norm": "\"المادة الثانية عشرة:",
+    "target_en_norm": "\"article 12",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2442,
+    "source_ar": "1- تتولى الوزارة الرعاية اللاحقة لمن يحتاج إليها ممن انتهت إقامتهم في البيوت الاجتماعية وفق ما تحدده القواعد.",
+    "target_en": "1. The Ministry shall provide aftercare to persons in need whose residence in foster homes has ended, in accordance with the Rules.",
+    "source_ar_norm": "1- تتولي الوزارة الرعاية اللاحقة لمن يحتاج اليها ممن انتهت اقامتهم في البيوت الاجتماعية وفق ما تحدده القواعد.",
+    "target_en_norm": "1. the ministry shall provide aftercare to persons in need whose residence in foster homes has ended, in accordance with the rules.",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2443,
+    "source_ar": "2- للوزارة حق الولاية على النفس للقصر مجهولي الأبوين\".",
+    "target_en": "2. The Ministry shall have the right of guardianship over person for minors of unknown parentage\".",
+    "source_ar_norm": "2- للوزارة حق الولاية علي النفس للقصر مجهولي الابوين\".",
+    "target_en_norm": "2. the ministry shall have the right of guardianship over person for minors of unknown parentage\".",
+    "file_name": "اللائحة الأساسية للبيوت الاجتماعية.docx"
+  },
+  {
+    "id": 2444,
+    "source_ar": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية",
+    "target_en": "Regulations for Temporary and Seasonal Work Visas",
+    "source_ar_norm": "اللائحة التنظيمية لتاشيرات الاعمال المؤقتة والموسمية",
+    "target_en_norm": "regulations for temporary and seasonal work visas",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2445,
+    "source_ar": "الفصل الأول",
+    "target_en": "Chapter 1",
+    "source_ar_norm": "الفصل الاول",
+    "target_en_norm": "chapter 1",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2446,
+    "source_ar": "تأشيرة العمل المؤقت",
+    "target_en": "Temporary Work Visa",
+    "source_ar_norm": "تاشيرة العمل المؤقت",
+    "target_en_norm": "temporary work visa",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2447,
+    "source_ar": "المادة الأولى",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي",
+    "target_en_norm": "article 1",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2448,
+    "source_ar": "تأشيرة العمل المؤقت هي التأشيرة التي تصدر للدخول إلى المملكة لمرة واحدة أو لعدة مرات، لمدة لا تتجاوز سنة، ولعمل محدد خارج نطاق أعمال الحج.",
+    "target_en": "A temporary work visa shall refer to a visa issued for a single or multiple entries into the Kingdom, for a period not exceeding one year, and for specific work not related to Hajj.",
+    "source_ar_norm": "تاشيرة العمل المؤقت هي التاشيرة التي تصدر للدخول الي المملكة لمرة واحدة او لعدة مرات، لمدة لا تتجاوز سنة، ولعمل محدد خارج نطاق اعمال الحج.",
+    "target_en_norm": "a temporary work visa shall refer to a visa issued for a single or multiple entries into the kingdom, for a period not exceeding one year, and for specific work not related to hajj.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2449,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2450,
+    "source_ar": "تكون صلاحية الاستفادة من تأشيرة العمل المؤقت خلال سنة من تاريخ صدورها.",
+    "target_en": "A temporary work visa is valid for one year from the date of issuance.",
+    "source_ar_norm": "تكون صلاحية الاستفادة من تاشيرة العمل المؤقت خلال سنة من تاريخ صدورها.",
+    "target_en_norm": "a temporary work visa is valid for one year from the date of issuance.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2451,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2452,
+    "source_ar": "1 - مدة الإقامة لتأشيرة العمل المؤقت ستة أشهر حدًّا أعلى، غير قابلة للتحويل إلى تأشيرة عمل دائم. ويجوز تمديدها لمرة واحدة فقط، ولمدة أقصاها ستة أشهر.",
+    "target_en": "1. The duration of stay for a temporary work visa is six months, non-transferable into a permanent work visa. It may be extended only once for a maximum period of six months.",
+    "source_ar_norm": "1 - مدة الاقامة لتاشيرة العمل المؤقت ستة اشهر حدا اعلي، غير قابلة للتحويل الي تاشيرة عمل دائم. ويجوز تمديدها لمرة واحدة فقط، ولمدة اقصاها ستة اشهر.",
+    "target_en_norm": "1. the duration of stay for a temporary work visa is six months, non-transferable into a permanent work visa. it may be extended only once for a maximum period of six months.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2453,
+    "source_ar": "2 - لا يجوز بقاء حامل تأشيرة العمل المؤقت في المملكة بعد ستة أشهر من تاريخ دخوله الأول إلى المملكة بموجب هذه التأشيرة، أو بعد سنة من ذلك في حال تمديدها.",
+    "target_en": "2. The holder of a temporary work visa may not remain in the Kingdom after six months from the date of his first entry into the Kingdom, or after one year from such date if the visa is extended.",
+    "source_ar_norm": "2 - لا يجوز بقاء حامل تاشيرة العمل المؤقت في المملكة بعد ستة اشهر من تاريخ دخوله الاول الي المملكة بموجب هذه التاشيرة، او بعد سنة من ذلك في حال تمديدها.",
+    "target_en_norm": "2. the holder of a temporary work visa may not remain in the kingdom after six months from the date of his first entry into the kingdom, or after one year from such date if the visa is extended.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2454,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2455,
+    "source_ar": "تقوم وزارة العمل بإلغاء تأشيرات العمل المؤقت غير المستخدمة بعد سنة من تاريخ صدورها، أو عند طلب صاحب التأشيرة ذلك.",
+    "target_en": "The Ministry of Labor shall cancel unused temporary work visas after one year from the date of issuance, or upon request by the visa owner.",
+    "source_ar_norm": "تقوم وزارة العمل بالغاء تاشيرات العمل المؤقت غير المستخدمة بعد سنة من تاريخ صدورها، او عند طلب صاحب التاشيرة ذلك.",
+    "target_en_norm": "the ministry of labor shall cancel unused temporary work visas after one year from the date of issuance, or upon request by the visa owner.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2456,
+    "source_ar": "الفصل الثاني",
+    "target_en": "Chapter 2",
+    "source_ar_norm": "الفصل الثاني",
+    "target_en_norm": "chapter 2",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2457,
+    "source_ar": "تأشيرة العمل الموسمي",
+    "target_en": "Seasonal Work Visa",
+    "source_ar_norm": "تاشيرة العمل الموسمي",
+    "target_en_norm": "seasonal work visa",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2458,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2459,
+    "source_ar": "تأشيرة العمل الموسمي هي التأشيرة التي تصدر للدخول إلى المملكة لمدة مؤقتة، ولعمل محدد خاص بموسم الحج، وغير مصرح لحاملها بالحج.",
+    "target_en": "A seasonal work visa is issued for entry into the Kingdom for a temporary period and for a specific work related to the Hajj season, and its holder is not permitted to perform Hajj.",
+    "source_ar_norm": "تاشيرة العمل الموسمي هي التاشيرة التي تصدر للدخول الي المملكة لمدة مؤقتة، ولعمل محدد خاص بموسم الحج، وغير مصرح لحاملها بالحج.",
+    "target_en_norm": "a seasonal work visa is issued for entry into the kingdom for a temporary period and for a specific work related to the hajj season, and its holder is not permitted to perform hajj.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2460,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2461,
+    "source_ar": "1 - تكون صلاحية الاستفادة من تأشيرة العمل الموسمي لموسم الحج الذي صدرت لأجله.",
+    "target_en": "1. The seasonal work visa is valid for the Hajj season for which it is issued.",
+    "source_ar_norm": "1 - تكون صلاحية الاستفادة من تاشيرة العمل الموسمي لموسم الحج الذي صدرت لاجله.",
+    "target_en_norm": "1. the seasonal work visa is valid for the hajj season for which it is issued.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2462,
+    "source_ar": "2 - مدة الإقامة لتأشيرة العمل الموسمي أربعة أشهر حدًّا أعلى، غير قابلة للتمديد، أو تحويلها إلى تأشيرة عمل دائم.",
+    "target_en": "2. The duration of stay for a seasonal work visa shall not exceed four months, and may not be extended. Such visa may not be transferred into a permanent work visa.",
+    "source_ar_norm": "2 - مدة الاقامة لتاشيرة العمل الموسمي اربعة اشهر حدا اعلي، غير قابلة للتمديد، او تحويلها الي تاشيرة عمل دائم.",
+    "target_en_norm": "2. the duration of stay for a seasonal work visa shall not exceed four months, and may not be extended. such visa may not be transferred into a permanent work visa.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2463,
+    "source_ar": "3 - لا يسمح بدخول حاملي تأشيرات العمل الموسمي إلى المملكة قبل اليوم الأول من شهر شوال، ويكون آخر يوم لدخولهم هو نهاية شهر ذي القعدة، بحيث لا تتجاوز مدة الإقامة نهاية شهر محرم.",
+    "target_en": "3. Holders of seasonal work visas are not permitted to enter the Kingdom before the first day of the month of Shawwal, and their last day of entry is the end of the month of Thul-Qi'dah, provided that the holders of such visa exit the Kingdom prior to the end of the month of Muharram.",
+    "source_ar_norm": "3 - لا يسمح بدخول حاملي تاشيرات العمل الموسمي الي المملكة قبل اليوم الاول من شهر شوال، ويكون اخر يوم لدخولهم هو نهاية شهر ذي القعدة، بحيث لا تتجاوز مدة الاقامة نهاية شهر محرم.",
+    "target_en_norm": "3. holders of seasonal work visas are not permitted to enter the kingdom before the first day of the month of shawwal, and their last day of entry is the end of the month of thul-qi'dah, provided that the holders of such visa exit the kingdom prior to the end of the month of muharram.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2464,
+    "source_ar": "4 - يقدم طالب تأشيرة العمل الموسمي تأميناً إلى وزارة العمل مقداره (2000) ألفا ريـال عن كل عامل؛ لمواجهة تكاليف إعادته إلى بلده، ويسترجع هذا التأمين إذا زودت وزارة العمل بما يثبت مغادرة العامل إلى بلده، أو إلغاء التأشيرة.",
+    "target_en": "4. The applicant for the seasonal work visa shall pay to the Ministry of Labor an insurance amount of two thousand riyals (SAR 2,000) for each worker to cover the costs of returning the worker to his country. Such amount shall be refunded if the Ministry of Labor is provided with proof of the worker's departure to his country or if the visa is canceled.",
+    "source_ar_norm": "4 - يقدم طالب تاشيرة العمل الموسمي تامينا الي وزارة العمل مقداره (2000) الفا ريال عن كل عامل؛ لمواجهة تكاليف اعادته الي بلده، ويسترجع هذا التامين اذا زودت وزارة العمل بما يثبت مغادرة العامل الي بلده، او الغاء التاشيرة.",
+    "target_en_norm": "4. the applicant for the seasonal work visa shall pay to the ministry of labor an insurance amount of two thousand riyals (sar 2,000) for each worker to cover the costs of returning the worker to his country. such amount shall be refunded if the ministry of labor is provided with proof of the worker's departure to his country or if the visa is canceled.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2465,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2466,
+    "source_ar": "تقوم وزارة العمل بإلغاء تأشيرات العمل الموسمي غير المستخدمة في اليوم الأول من شهر ذي الحجة من كل عام.",
+    "target_en": "The Ministry of Labor shall cancel unused seasonal work visas on the first day of the month of Thul-Hijjah of each year.",
+    "source_ar_norm": "تقوم وزارة العمل بالغاء تاشيرات العمل الموسمي غير المستخدمة في اليوم الاول من شهر ذي الحجة من كل عام.",
+    "target_en_norm": "the ministry of labor shall cancel unused seasonal work visas on the first day of the month of thul-hijjah of each year.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2467,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2468,
+    "source_ar": "على الجهات التي يصدر منها التأييد لتأشيرات العمل الموسمي الإبلاغ عن التأييد قبل نهاية شهر شعبان من كل عام.",
+    "target_en": "Agencies issuing support letters for seasonal work visas shall submit such letters before the end of the month of Sha'ban of each year.",
+    "source_ar_norm": "علي الجهات التي يصدر منها التاييد لتاشيرات العمل الموسمي الابلاغ عن التاييد قبل نهاية شهر شعبان من كل عام.",
+    "target_en_norm": "agencies issuing support letters for seasonal work visas shall submit such letters before the end of the month of sha'ban of each year.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2469,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2470,
+    "source_ar": "تقوم وزارة العمل بإرسال تأشيرات العمل الموسمي التي وافقت عليها إلى وزارة الخارجية في موعد أقصاه نهاية شهر شوال من كل عام.",
+    "target_en": "The Ministry of Labor shall send approved seasonal work visas to the Ministry of Foreign Affairs no later than the end of the month of Shawwal of each year.",
+    "source_ar_norm": "تقوم وزارة العمل بارسال تاشيرات العمل الموسمي التي وافقت عليها الي وزارة الخارجية في موعد اقصاه نهاية شهر شوال من كل عام.",
+    "target_en_norm": "the ministry of labor shall send approved seasonal work visas to the ministry of foreign affairs no later than the end of the month of shawwal of each year.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2471,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2472,
+    "source_ar": "1- يجب على صاحب العمل أو من يمثله تقديم عقدِ عملٍ - موقع من طرفي العقد - لممثليات المملكة في الخارج ضمن مسوغات طلب التأشير للعمالة الموسمية.",
+    "target_en": "1. The employer or his representative shall submit to the Kingdom's missions abroad an employment contract, signed by both parties to such contract, along with the justifications for requesting visas for seasonal workers.",
+    "source_ar_norm": "1- يجب علي صاحب العمل او من يمثله تقديم عقد عمل - موقع من طرفي العقد - لممثليات المملكة في الخارج ضمن مسوغات طلب التاشير للعمالة الموسمية.",
+    "target_en_norm": "1. the employer or his representative shall submit to the kingdom's missions abroad an employment contract, signed by both parties to such contract, along with the justifications for requesting visas for seasonal workers.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2473,
+    "source_ar": "2- تدون السفارات عبارة: (غير صالحة للحج) بجانب تأشيرة العمل الموسمي باللغة العربية، أو الإنجليزية في الدول غير الناطقة بالعربية.",
+    "target_en": "2. Embassies shall write the phrase (Not Valid for Hajj) on the seasonal work visa in Arabic, or in English in non-Arabic speaking countries.",
+    "source_ar_norm": "2- تدون السفارات عبارة: (غير صالحة للحج) بجانب تاشيرة العمل الموسمي باللغة العربية، او الانجليزية في الدول غير الناطقة بالعربية.",
+    "target_en_norm": "2. embassies shall write the phrase (not valid for hajj) on the seasonal work visa in arabic, or in english in non-arabic speaking countries.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2474,
+    "source_ar": "الفصل الثالث",
+    "target_en": "Chapter 3",
+    "source_ar_norm": "الفصل الثالث",
+    "target_en_norm": "chapter 3",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2475,
+    "source_ar": "أحكام مشتركة",
+    "target_en": "Common Provisions",
+    "source_ar_norm": "احكام مشتركة",
+    "target_en_norm": "common provisions",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2476,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2477,
+    "source_ar": "تصدر وزارة العمل تأشيرات الأعمال المؤقتة والموسمية، وفق الضوابط والشروط التي تقرها الوزارة.",
+    "target_en": "The Ministry of Labor shall issue temporary and seasonal work visas in accordance with the controls and conditions approved by the Ministry.",
+    "source_ar_norm": "تصدر وزارة العمل تاشيرات الاعمال المؤقتة والموسمية، وفق الضوابط والشروط التي تقرها الوزارة.",
+    "target_en_norm": "the ministry of labor shall issue temporary and seasonal work visas in accordance with the controls and conditions approved by the ministry.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2478,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2479,
+    "source_ar": "تختص وزارة العمل بدراسة طلبات هذه التأشيرات، وتحديد أعدادها، وأنواع المهن وشروطها.",
+    "target_en": "The Ministry of Labor shall be responsible for reviewing applications for such visas, determining their numbers, types of professions and their conditions.",
+    "source_ar_norm": "تختص وزارة العمل بدراسة طلبات هذه التاشيرات، وتحديد اعدادها، وانواع المهن وشروطها.",
+    "target_en_norm": "the ministry of labor shall be responsible for reviewing applications for such visas, determining their numbers, types of professions and their conditions.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2480,
+    "source_ar": "المادة الثالثة عشرة",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة",
+    "target_en_norm": "article 13",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2481,
+    "source_ar": "يكون الحصول على هذه التأشيرات بناءً على خطاب تأييد من الجهة المشرفة على النشاط، أو المشروع.",
+    "target_en": "Such visas shall be obtained based on a support letter from the agency supervising the activity or project.",
+    "source_ar_norm": "يكون الحصول علي هذه التاشيرات بناء علي خطاب تاييد من الجهة المشرفة علي النشاط، او المشروع.",
+    "target_en_norm": "such visas shall be obtained based on a support letter from the agency supervising the activity or project.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2482,
+    "source_ar": "المادة الرابعة عشرة",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة",
+    "target_en_norm": "article 14",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2483,
+    "source_ar": "مع مراعاة ما تصدره وزارة العمل من ضوابط وشروط في هذا الشأن؛ على طالب تأشيرة الأعمال المؤقتة والموسمية - أو ممثله - الالتزام بما يأتي:",
+    "target_en": "Subject to the relevant controls and conditions issued by the Ministry of Labor, the applicant for a temporary and seasonal work visa, or his representative, shall comply with the following:",
+    "source_ar_norm": "مع مراعاة ما تصدره وزارة العمل من ضوابط وشروط في هذا الشان؛ علي طالب تاشيرة الاعمال المؤقتة والموسمية - او ممثله - الالتزام بما ياتي:",
+    "target_en_norm": "subject to the relevant controls and conditions issued by the ministry of labor, the applicant for a temporary and seasonal work visa, or his representative, shall comply with the following:",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2484,
+    "source_ar": "1 - تحديد عنوانه الدائم، أو عنوانه للعمل الموسمي أو المؤقت.",
+    "target_en": "1. Specifying the applicant's permanent address, or the address of his seasonal or temporary work.",
+    "source_ar_norm": "1 - تحديد عنوانه الدائم، او عنوانه للعمل الموسمي او المؤقت.",
+    "target_en_norm": "1. specifying the applicant's permanent address, or the address of his seasonal or temporary work.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2485,
+    "source_ar": "2 - تقديم نسخة من عقد العمل للجهة التي أيدت طلب التأشيرات (طالبة الخدمة)؛ للاستفادة منها في الطلبات اللاحقة أو تقويم هذه المنشأة، ونسخة من عقد العمل للعامل، ويحتفظ صاحب العمل أو ممثله بأصل العقد.",
+    "target_en": "2. Submitting a copy of the employment contract to the agency that supported the visa application to be used as a reference for subsequent applications and for the evaluation of the establishment. A copy of the contract must also be provided to the worker, and the employer or his representative shall retain the original contract.",
+    "source_ar_norm": "2 - تقديم نسخة من عقد العمل للجهة التي ايدت طلب التاشيرات (طالبة الخدمة)؛ للاستفادة منها في الطلبات اللاحقة او تقويم هذه المنشاة، ونسخة من عقد العمل للعامل، ويحتفظ صاحب العمل او ممثله باصل العقد.",
+    "target_en_norm": "2. submitting a copy of the employment contract to the agency that supported the visa application to be used as a reference for subsequent applications and for the evaluation of the establishment. a copy of the contract must also be provided to the worker, and the employer or his representative shall retain the original contract.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2486,
+    "source_ar": "3 - تزويد الجهات الآتية بأسماء العمالة المستقدمة، ومهنهم، وأرقام جوازات سفرهم:",
+    "target_en": "3. Providing the following agencies with the names of the recruited workers, their professions, and their passport numbers:",
+    "source_ar_norm": "3 - تزويد الجهات الاتية باسماء العمالة المستقدمة، ومهنهم، وارقام جوازات سفرهم:",
+    "target_en_norm": "3. providing the following agencies with the names of the recruited workers, their professions, and their passport numbers:",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2487,
+    "source_ar": "أ - جوازات المنفذ الجوي، أو البري، أو البحري.",
+    "target_en": "a) Passport offices at air, land, or sea entry ports.",
+    "source_ar_norm": "ا - جوازات المنفذ الجوي، او البري، او البحري.",
+    "target_en_norm": "a) passport offices at air, land, or sea entry ports.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2488,
+    "source_ar": "ب - الجهة المؤيدة لطلبه (طالبة الخدمة).",
+    "target_en": "b) The agency supporting his application.",
+    "source_ar_norm": "ب - الجهة المؤيدة لطلبه (طالبة الخدمة).",
+    "target_en_norm": "b) the agency supporting his application.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2489,
+    "source_ar": "ج - مكتب العمل المختص.",
+    "target_en": "c) The relevant labor office.",
+    "source_ar_norm": "ج - مكتب العمل المختص.",
+    "target_en_norm": "c) the relevant labor office.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2490,
+    "source_ar": "ويحتفظ صاحب العمل بنسخة لمتابعة مغادرة عماله.",
+    "target_en": "The employer shall keep a copy of the same for the purpose of verifying the departure of his workers.",
+    "source_ar_norm": "ويحتفظ صاحب العمل بنسخة لمتابعة مغادرة عماله.",
+    "target_en_norm": "the employer shall keep a copy of the same for the purpose of verifying the departure of his workers.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2491,
+    "source_ar": "المادة الخامسة عشرة",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة",
+    "target_en_norm": "article 15",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2492,
+    "source_ar": "على وزارة العمل - بالتنسيق مع وزارة الداخلية - متابعة العمالة المؤقتة والموسمية، والتأكد من عملها فيما استقدمت له، وتبادل المعلومات عن الشركات والمؤسسات التي لا يعمل مستقدموها في العمل الذي استقدموا من أجله.",
+    "target_en": "The Ministry of Labor shall, in coordination with the Ministry of Interior, monitor temporary and seasonal workers to ensure that they engage only in the work for which they are recruited, and shall exchange information about companies and sole proprietorships whose temporary and seasonal workers engage in work other than that for which they are recruited.",
+    "source_ar_norm": "علي وزارة العمل - بالتنسيق مع وزارة الداخلية - متابعة العمالة المؤقتة والموسمية، والتاكد من عملها فيما استقدمت له، وتبادل المعلومات عن الشركات والمؤسسات التي لا يعمل مستقدموها في العمل الذي استقدموا من اجله.",
+    "target_en_norm": "the ministry of labor shall, in coordination with the ministry of interior, monitor temporary and seasonal workers to ensure that they engage only in the work for which they are recruited, and shall exchange information about companies and sole proprietorships whose temporary and seasonal workers engage in work other than that for which they are recruited.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2493,
+    "source_ar": "المادة السادسة عشرة",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة",
+    "target_en_norm": "article 16",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2494,
+    "source_ar": "يعاقب من يخالف أحكام هذه اللائحة وفق الآتي:",
+    "target_en": "Any person who violates the provisions of these Regulations shall be punished as follows:",
+    "source_ar_norm": "يعاقب من يخالف احكام هذه اللائحة وفق الاتي:",
+    "target_en_norm": "any person who violates the provisions of these regulations shall be punished as follows:",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2495,
+    "source_ar": "1 - كل من يثبت بيعه تأشيرة عمل مؤقت أو موسمي يعاقب بما يأتي:",
+    "target_en": "1. Any person who is proven to have sold a temporary or seasonal work visa shall be subject to the following penalties:",
+    "source_ar_norm": "1 - كل من يثبت بيعه تاشيرة عمل مؤقت او موسمي يعاقب بما ياتي:",
+    "target_en_norm": "1. any person who is proven to have sold a temporary or seasonal work visa shall be subject to the following penalties:",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2496,
+    "source_ar": "أ - غرامة مالية لا تقل عن (5000) خمسة آلاف ريـال، ولا تزيد على (15000) خمسة عشر ألف ريـال، وتتعدد العقوبة بتعدد التأشيرات التي بيعت.",
+    "target_en": "a) A fine of not less than five thousand riyals (SAR 5,000) and not more than fifteen thousand riyals (SAR 15,000), and the penalty shall be imposed for each visa sold.",
+    "source_ar_norm": "ا - غرامة مالية لا تقل عن (5000) خمسة الاف ريال، ولا تزيد علي (15000) خمسة عشر الف ريال، وتتعدد العقوبة بتعدد التاشيرات التي بيعت.",
+    "target_en_norm": "a) a fine of not less than five thousand riyals (sar 5,000) and not more than fifteen thousand riyals (sar 15,000), and the penalty shall be imposed for each visa sold.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2497,
+    "source_ar": "ب - استرداد جميع المبالغ التي حصل عليها بسبب هذه المخالفة.",
+    "target_en": "b) Recovering all amounts collected due to this violation.",
+    "source_ar_norm": "ب - استرداد جميع المبالغ التي حصل عليها بسبب هذه المخالفة.",
+    "target_en_norm": "b) recovering all amounts collected due to this violation.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2498,
+    "source_ar": "ج - منعه من دخول المنافسات الخاصة بالأعمال المؤقتة أو الموسمية لمدة خمس سنوات.",
+    "target_en": "c) Prohibiting the violator from entering competitions for temporary or seasonal work for a period of five years.",
+    "source_ar_norm": "ج - منعه من دخول المنافسات الخاصة بالاعمال المؤقتة او الموسمية لمدة خمس سنوات.",
+    "target_en_norm": "c) prohibiting the violator from entering competitions for temporary or seasonal work for a period of five years.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2499,
+    "source_ar": "2 - إذا ثبت عدم صحة العنوان الذي قدمه طالب تأشيرات الأعمال المؤقتة أو الموسمية أو ممثله المسؤول، سواء العنوان الدائم، أو عنوانه للعمل الموسمي أو المؤقت وفق الفقرة (1) من المادة (الرابعة عشرة) من هذه اللائحة؛ فيعاقب صاحب العمل بغرامة لا تقل عن (4000) أربعة آلاف ريـال، ولا تزيد على (8000) ثمانية آلاف ريـال.",
+    "target_en": "2. If it is proven that the applicant for temporary or seasonal work visas or his authorized representative has provided an incorrect permanent address or an incorrect seasonal or temporary work address in violation to Article 14(1) of these Regulations, the employer shall be subject to a fine of not less than four thousand riyals (SAR 4,000) and not more than eight thousand riyals (SAR 8,000).",
+    "source_ar_norm": "2 - اذا ثبت عدم صحة العنوان الذي قدمه طالب تاشيرات الاعمال المؤقتة او الموسمية او ممثله المسؤول، سواء العنوان الدائم، او عنوانه للعمل الموسمي او المؤقت وفق الفقرة (1) من المادة (الرابعة عشرة) من هذه اللائحة؛ فيعاقب صاحب العمل بغرامة لا تقل عن (4000) اربعة الاف ريال، ولا تزيد علي (8000) ثمانية الاف ريال.",
+    "target_en_norm": "2. if it is proven that the applicant for temporary or seasonal work visas or his authorized representative has provided an incorrect permanent address or an incorrect seasonal or temporary work address in violation to article 14(1) of these regulations, the employer shall be subject to a fine of not less than four thousand riyals (sar 4,000) and not more than eight thousand riyals (sar 8,000).",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  },
+  {
+    "id": 2500,
+    "source_ar": "3 - إذا لم يقدم صاحب العمل نسخة من عقود العمل للجهة المؤيدة لطلب التأشيرات وفق الفقرة (2) من المادة (الرابعة عشرة) من هذه اللائحة؛ يعاقب بغرامة مقدارها (100) مائة ريـال عن كل عقد عمل لم يقدم نسخته.",
+    "target_en": "3. If the employer does not submit a copy of the employment contracts to the agency supporting the visa application as provided for in Article 14(2) of these Regulations, he shall be subject to a fine of one hundred riyals (SAR 100) for each copy not submitted.",
+    "source_ar_norm": "3 - اذا لم يقدم صاحب العمل نسخة من عقود العمل للجهة المؤيدة لطلب التاشيرات وفق الفقرة (2) من المادة (الرابعة عشرة) من هذه اللائحة؛ يعاقب بغرامة مقدارها (100) مائة ريال عن كل عقد عمل لم يقدم نسخته.",
+    "target_en_norm": "3. if the employer does not submit a copy of the employment contracts to the agency supporting the visa application as provided for in article 14(2) of these regulations, he shall be subject to a fine of one hundred riyals (sar 100) for each copy not submitted.",
+    "file_name": "اللائحة التنظيمية لتأشيرات الأعمال المؤقتة والموسمية.docx"
+  }
+]

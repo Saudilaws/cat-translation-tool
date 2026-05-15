@@ -1,0 +1,802 @@
+[
+  {
+    "id": 401,
+    "source_ar": "يقرر",
+    "target_en": "Resolves as follows:",
+    "source_ar_norm": "يقرر",
+    "target_en_norm": "resolves as follows:",
+    "file_name": "إنشاء عشر كليات أهلية في تخصصات متعددة.docx"
+  },
+  {
+    "id": 402,
+    "source_ar": "الموافقة على إنشاء الكليات الأهلية الأتية:",
+    "target_en": "The establishment of the following private colleges shall be approved:",
+    "source_ar_norm": "الموافقة علي انشاء الكليات الاهلية الاتية:",
+    "target_en_norm": "the establishment of the following private colleges shall be approved:",
+    "file_name": "إنشاء عشر كليات أهلية في تخصصات متعددة.docx"
+  },
+  {
+    "id": 403,
+    "source_ar": "1- كلية الموسى للطب والجراحة في محافظة الاحساء.",
+    "target_en": "1. Almoosa College of Medicine and Surgery in Al-Ahsa County.",
+    "source_ar_norm": "1- كلية الموسي للطب والجراحة في محافظة الاحساء.",
+    "target_en_norm": "1. almoosa college of medicine and surgery in al-ahsa county.",
+    "file_name": "إنشاء عشر كليات أهلية في تخصصات متعددة.docx"
+  },
+  {
+    "id": 404,
+    "source_ar": "2- كلية الموسى للهندسة وعلوم الحاسب في محافظة الأحساء.",
+    "target_en": "2. Almoosa College of Engineering and Computer Science in Al-Ahsa County.",
+    "source_ar_norm": "2- كلية الموسي للهندسة وعلوم الحاسب في محافظة الاحساء.",
+    "target_en_norm": "2. almoosa college of engineering and computer science in al-ahsa county.",
+    "file_name": "إنشاء عشر كليات أهلية في تخصصات متعددة.docx"
+  },
+  {
+    "id": 405,
+    "source_ar": "3- كلية الموسى لإدارة الأعمال في محافظة الأحساء.",
+    "target_en": "3. Almoosa College of Business Administration in Al-Ahsa County.",
+    "source_ar_norm": "3- كلية الموسي لادارة الاعمال في محافظة الاحساء.",
+    "target_en_norm": "3. almoosa college of business administration in al-ahsa county.",
+    "file_name": "إنشاء عشر كليات أهلية في تخصصات متعددة.docx"
+  },
+  {
+    "id": 406,
+    "source_ar": "4- كلية الريان الأهلية للتمريض في المدينة المنورة.",
+    "target_en": "4. Al-Rayan College of Nursing in Madinah.",
+    "source_ar_norm": "4- كلية الريان الاهلية للتمريض في المدينة المنورة.",
+    "target_en_norm": "4. al-rayan college of nursing in madinah.",
+    "file_name": "إنشاء عشر كليات أهلية في تخصصات متعددة.docx"
+  },
+  {
+    "id": 407,
+    "source_ar": "5- كلية النهضة الأهلية للصيدلة والعلوم الطبية في مدينة الرياض.",
+    "target_en": "5. Al-Nahdhah College of Pharmacy and Medical Sciences in Riyadh.",
+    "source_ar_norm": "5- كلية النهضة الاهلية للصيدلة والعلوم الطبية في مدينة الرياض.",
+    "target_en_norm": "5. al-nahdhah college of pharmacy and medical sciences in riyadh.",
+    "file_name": "إنشاء عشر كليات أهلية في تخصصات متعددة.docx"
+  },
+  {
+    "id": 408,
+    "source_ar": "6- كلية الغد للتمريض في مدينة الرياض.",
+    "target_en": "6. Alghad College of Nursing in Riyadh.",
+    "source_ar_norm": "6- كلية الغد للتمريض في مدينة الرياض.",
+    "target_en_norm": "6. alghad college of nursing in riyadh.",
+    "file_name": "إنشاء عشر كليات أهلية في تخصصات متعددة.docx"
+  },
+  {
+    "id": 409,
+    "source_ar": "7- كلية جدارة للعلوم الإدارية والإنسانية في محافظة حفر الباطن.",
+    "target_en": "7. Jadarah College for Administrative Sciences and Humanities in Hafr Al-Batin County.",
+    "source_ar_norm": "7- كلية جدارة للعلوم الادارية والانسانية في محافظة حفر الباطن.",
+    "target_en_norm": "7. jadarah college for administrative sciences and humanities in hafr al-batin county.",
+    "file_name": "إنشاء عشر كليات أهلية في تخصصات متعددة.docx"
+  },
+  {
+    "id": 410,
+    "source_ar": "8- كلية عنيزة الأهلية للتمريض في محافظة عنيزة.",
+    "target_en": "8. Onaizah College of Nursing in Onaizah County.",
+    "source_ar_norm": "8- كلية عنيزة الاهلية للتمريض في محافظة عنيزة.",
+    "target_en_norm": "8. onaizah college of nursing in onaizah county.",
+    "file_name": "إنشاء عشر كليات أهلية في تخصصات متعددة.docx"
+  },
+  {
+    "id": 411,
+    "source_ar": "9- كلية البترجي للعلوم الطبية والتكنولوجيا بالهفوف في محافظة الاحساء.",
+    "target_en": "9. Batterjee College of Medical Sciences and Technology in Al-Hofuf in Al-Ahsa County.",
+    "source_ar_norm": "9- كلية البترجي للعلوم الطبية والتكنولوجيا بالهفوف في محافظة الاحساء.",
+    "target_en_norm": "9. batterjee college of medical sciences and technology in al-hofuf in al-ahsa county.",
+    "file_name": "إنشاء عشر كليات أهلية في تخصصات متعددة.docx"
+  },
+  {
+    "id": 412,
+    "source_ar": "10- كلية البترجي للعلوم الطبية والتكنولوجيا في المدينة المنورة.",
+    "target_en": "10 Batterjee College of Medical Sciences and Technology in Madinah.",
+    "source_ar_norm": "10- كلية البترجي للعلوم الطبية والتكنولوجيا في المدينة المنورة.",
+    "target_en_norm": "10 batterjee college of medical sciences and technology in madinah.",
+    "file_name": "إنشاء عشر كليات أهلية في تخصصات متعددة.docx"
+  },
+  {
+    "id": 413,
+    "source_ar": "سلمان بن عبدالعزيز آل سعود",
+    "target_en": "Salman bin Abdulaziz Al Saud",
+    "source_ar_norm": "سلمان بن عبدالعزيز ال سعود",
+    "target_en_norm": "salman bin abdulaziz al saud",
+    "file_name": "إنشاء عشر كليات أهلية في تخصصات متعددة.docx"
+  },
+  {
+    "id": 414,
+    "source_ar": "إنشاء فرع لجامعة الأعمال والتكنولوجيا الأهلية بمحافظة ينبع",
+    "target_en": "Establishment of a Branch of the Private University of Business and Technology in Yanbu Governorate",
+    "source_ar_norm": "انشاء فرع لجامعة الاعمال والتكنولوجيا الاهلية بمحافظة ينبع",
+    "target_en_norm": "establishment of a branch of the private university of business and technology in yanbu governorate",
+    "file_name": "إنشاء فرع لجامعة الأعمال والتكنولوجيا الأهلية بمحافظة ينبع.docx"
+  },
+  {
+    "id": 415,
+    "source_ar": "إن مجلس الوزراء",
+    "target_en": "The Council of Ministers,",
+    "source_ar_norm": "ان مجلس الوزراء",
+    "target_en_norm": "the council of ministers,",
+    "file_name": "إنشاء فرع لجامعة الأعمال والتكنولوجيا الأهلية بمحافظة ينبع.docx"
+  },
+  {
+    "id": 416,
+    "source_ar": "بعد الاطلاع على المعاملة الواردة من الديوان الملكي برقم ٥٨٩٣٠ وتاريخ 14/٨/1446هـ، المشتملة على برقية معالي وزير التعليم رئيس مجلس شؤون الجامعات رقم ٤٦٠٠٠٣٨٨٠٦ وتاريخ 10/٨/1446هـ، في شأن قرار مجلس شؤون الجامعات رقم (11/26/46) المتضمن التوصية بالموافقة على إنشاء فرع لجامعة الأعمال والتكنولوجيا بمحافظة ينبع.",
+    "target_en": "Upon perusal of Casefile No. 58930, dated 14/8/1446H, received from the Royal Court which includes Telegram No. 4600038806, dated 10/8/1446H, of His Excellency Minister of Education and Chairman of the Council of University Affairs regarding Decision No. 11/26/46 of the Council of University Affairs which recommends the approval of establishing a branch of the University of Business and Technology in Yanbu Governorate;",
+    "source_ar_norm": "بعد الاطلاع علي المعاملة الواردة من الديوان الملكي برقم ٥٨٩٣٠ وتاريخ 14/٨/1446ه، المشتملة علي برقية معالي وزير التعليم رئيس مجلس شؤون الجامعات رقم ٤٦٠٠٠٣٨٨٠٦ وتاريخ 10/٨/1446ه، في شان قرار مجلس شؤون الجامعات رقم (11/26/46) المتضمن التوصية بالموافقة علي انشاء فرع لجامعة الاعمال والتكنولوجيا بمحافظة ينبع.",
+    "target_en_norm": "upon perusal of casefile no. 58930, dated 14/8/1446h, received from the royal court which includes telegram no. 4600038806, dated 10/8/1446h, of his excellency minister of education and chairman of the council of university affairs regarding decision no. 11/26/46 of the council of university affairs which recommends the approval of establishing a branch of the university of business and technology in yanbu governorate;",
+    "file_name": "إنشاء فرع لجامعة الأعمال والتكنولوجيا الأهلية بمحافظة ينبع.docx"
+  },
+  {
+    "id": 417,
+    "source_ar": "يقرر",
+    "target_en": "Resolves as follows:",
+    "source_ar_norm": "يقرر",
+    "target_en_norm": "resolves as follows:",
+    "file_name": "إنشاء فرع لجامعة الأعمال والتكنولوجيا الأهلية بمحافظة ينبع.docx"
+  },
+  {
+    "id": 418,
+    "source_ar": "الموافقة على إنشاء فرع لجامعة الأعمال والتكنولوجيا بمحافظة ينبع.",
+    "target_en": "The establishment of a branch of the Private University of Business and Technology in Yanbu Governorate shall be hereby approved.",
+    "source_ar_norm": "الموافقة علي انشاء فرع لجامعة الاعمال والتكنولوجيا بمحافظة ينبع.",
+    "target_en_norm": "the establishment of a branch of the private university of business and technology in yanbu governorate shall be hereby approved.",
+    "file_name": "إنشاء فرع لجامعة الأعمال والتكنولوجيا الأهلية بمحافظة ينبع.docx"
+  },
+  {
+    "id": 419,
+    "source_ar": "إنفاذ بعض أحكام مواد نظام الاستثمار التعديني",
+    "target_en": "Enforcement of Certain Provisions of the Mining Investment Law",
+    "source_ar_norm": "انفاذ بعض احكام مواد نظام الاستثمار التعديني",
+    "target_en_norm": "enforcement of certain provisions of the mining investment law",
+    "file_name": "إنفاذ بعض أحكام مواد نظام الاستثمار التعديني.docx"
+  },
+  {
+    "id": 420,
+    "source_ar": "بعون الله تعالى",
+    "target_en": "With the help of Allah",
+    "source_ar_norm": "بعون الله تعالي",
+    "target_en_norm": "with the help of allah",
+    "file_name": "إنفاذ بعض أحكام مواد نظام الاستثمار التعديني.docx"
+  },
+  {
+    "id": 421,
+    "source_ar": "نحن سلمان بن عبدالعزيز آل سعود ملك المملكة العربيـــــة السعوديـــــــــــة",
+    "target_en": "We, Salman bin Abdulaziz Al Saud King of Saudi Arabia",
+    "source_ar_norm": "نحن سلمان بن عبدالعزيز ال سعود ملك المملكة العربية السعودية",
+    "target_en_norm": "we, salman bin abdulaziz al saud king of saudi arabia",
+    "file_name": "إنفاذ بعض أحكام مواد نظام الاستثمار التعديني.docx"
+  },
+  {
+    "id": 422,
+    "source_ar": "بناء على المادة (السبعين) من النظام الأساسي للحكم الصادر بالأمر الملكي رقم (أ/90) بتاريخ ١٤١٢/٨/٢٧هـ.",
+    "target_en": "Based on Article 70 of the Basic Law of Governance issued by Royal Decree No. A/90, dated 27/8/1412H;",
+    "source_ar_norm": "بناء علي المادة (السبعين) من النظام الاساسي للحكم الصادر بالامر الملكي رقم (ا/90) بتاريخ ١٤١٢/٨/٢٧ه.",
+    "target_en_norm": "based on article 70 of the basic law of governance issued by royal decree no. a/90, dated 27/8/1412h;",
+    "file_name": "إنفاذ بعض أحكام مواد نظام الاستثمار التعديني.docx"
+  },
+  {
+    "id": 423,
+    "source_ar": "رسمنا بما هو آت:",
+    "target_en": "Have decreed as follows:",
+    "source_ar_norm": "رسمنا بما هو ات:",
+    "target_en_norm": "have decreed as follows:",
+    "file_name": "إنفاذ بعض أحكام مواد نظام الاستثمار التعديني.docx"
+  },
+  {
+    "id": 424,
+    "source_ar": "أولا: الموافقة على إعمال أحكام المواد الرابعة، والسادسة، والسابعة والثامنة، والتاسعة، والعاشرة، والحادية عشرة، والرابعة عشرة، والخامسة عشرة، والسادسة عشرة، والثامنة عشرة، والتاسعة عشرة، والخامسة والثلاثين من نظام الاستثمار التعديني الصادر بالمرسوم الملكي رقم (م/ ١٤٠) بتاريخ ١٤٤١/١٠/١٩هـ وكذلك الأحكام الأخرى المتصلة أو المرتبطة بها الواردة في النظام المشار إليه، اعتباراً من تاريخ ١٤٤٢/٢/١٤هـ، وذلك استثناء من حكم المادة (الثالثة والستين) من النظام.",
+    "target_en": "First: Notwithstanding Article 63 of the Mining Investment Law issued by Royal Decree No. M/140, dated 19/10/1441H, the provisions of Articles 4, 6, 7, 8, 9, 10, 11, 14, 15, 16, 18, 19, and 35 of the Law shall, along with related provisions therein, enter into force as of 14/2/1442H.",
+    "source_ar_norm": "اولا: الموافقة علي اعمال احكام المواد الرابعة، والسادسة، والسابعة والثامنة، والتاسعة، والعاشرة، والحادية عشرة، والرابعة عشرة، والخامسة عشرة، والسادسة عشرة، والثامنة عشرة، والتاسعة عشرة، والخامسة والثلاثين من نظام الاستثمار التعديني الصادر بالمرسوم الملكي رقم (م/ ١٤٠) بتاريخ ١٤٤١/١٠/١٩ه وكذلك الاحكام الاخري المتصلة او المرتبطة بها الواردة في النظام المشار اليه، اعتبارا من تاريخ ١٤٤٢/٢/١٤ه، وذلك استثناء من حكم المادة (الثالثة والستين) من النظام.",
+    "target_en_norm": "first: notwithstanding article 63 of the mining investment law issued by royal decree no. m/140, dated 19/10/1441h, the provisions of articles 4, 6, 7, 8, 9, 10, 11, 14, 15, 16, 18, 19, and 35 of the law shall, along with related provisions therein, enter into force as of 14/2/1442h.",
+    "file_name": "إنفاذ بعض أحكام مواد نظام الاستثمار التعديني.docx"
+  },
+  {
+    "id": 425,
+    "source_ar": "ثانيا: على سمو نائب رئيس مجلس الوزراء والوزراء ورؤساء الأجهزة المعنية المستقلة - كل فيما يخُصُّه - تنفيذ مرسومنا هذا.",
+    "target_en": "Second: His Royal Highness the Deputy Prime Minister, the ministers, and the heads of the relevant independent agencies shall, each within his jurisdiction, implement this Decree.",
+    "source_ar_norm": "ثانيا: علي سمو نائب رئيس مجلس الوزراء والوزراء ورؤساء الاجهزة المعنية المستقلة - كل فيما يخصه - تنفيذ مرسومنا هذا.",
+    "target_en_norm": "second: his royal highness the deputy prime minister, the ministers, and the heads of the relevant independent agencies shall, each within his jurisdiction, implement this decree.",
+    "file_name": "إنفاذ بعض أحكام مواد نظام الاستثمار التعديني.docx"
+  },
+  {
+    "id": 426,
+    "source_ar": "إن مجلس الوزراء",
+    "target_en": "The Council of Ministers,",
+    "source_ar_norm": "ان مجلس الوزراء",
+    "target_en_norm": "the council of ministers,",
+    "file_name": "إنفاذ بعض أحكام مواد نظام الاستثمار التعديني.docx"
+  },
+  {
+    "id": 427,
+    "source_ar": "بعد الاطلاع على المعاملة الواردة من الديوان الملكي برقم ٦٥٠٦٦ وتاريخ ١٤٤١/١٢/٤هـ، المشتملة على برقية معالي وزير الصناعة والثروة المعدنية رقم ۱۲۳۹/۱ وتاريخ ١٤٤١/١٢/٢هـ، المتضمنة طلب معاليه إعمال بعض أحكام مواد نظام الاستثمار التعديني اعتباراً من تاريخ ١٤٤٢/٢/١٤هـ.",
+    "target_en": "Upon perusal of Casefile No. 65066, dated 4/12/1441H, received from the Royal Court, which includes Telegram No. 1/1239, dated 2/12/1441H, of His Excellency the Minister of Industry and Mineral Resources, including his request to enforce certain provisions of the Mining Investment Law as of 14/2/1442H;",
+    "source_ar_norm": "بعد الاطلاع علي المعاملة الواردة من الديوان الملكي برقم ٦٥٠٦٦ وتاريخ ١٤٤١/١٢/٤ه، المشتملة علي برقية معالي وزير الصناعة والثروة المعدنية رقم ۱۲۳۹/۱ وتاريخ ١٤٤١/١٢/٢ه، المتضمنة طلب معاليه اعمال بعض احكام مواد نظام الاستثمار التعديني اعتبارا من تاريخ ١٤٤٢/٢/١٤ه.",
+    "target_en_norm": "upon perusal of casefile no. 65066, dated 4/12/1441h, received from the royal court, which includes telegram no. 1/1239, dated 2/12/1441h, of his excellency the minister of industry and mineral resources, including his request to enforce certain provisions of the mining investment law as of 14/2/1442h;",
+    "file_name": "إنفاذ بعض أحكام مواد نظام الاستثمار التعديني.docx"
+  },
+  {
+    "id": 428,
+    "source_ar": "يقرر",
+    "target_en": "Resolves as follows:",
+    "source_ar_norm": "يقرر",
+    "target_en_norm": "resolves as follows:",
+    "file_name": "إنفاذ بعض أحكام مواد نظام الاستثمار التعديني.docx"
+  },
+  {
+    "id": 429,
+    "source_ar": "الموافقة على إعمال أحكام المواد الرابعة، والسادسة، والسابعة، والثامنة، والتاسعة، والعاشرة، والحادية عشرة، والرابعة عشرة، والخامسة عشرة، والسادسة عشرة، والثامنة عشرة والتاسعة عشرة، والخامسة والثلاثين من نظام الاستثمار التعديني الصادر بالمرسوم الملكي رقم (م/ ١٤٠) وتاريخ ١٤٤١/١٠/١٩هـ وكذلك الاحكام الأخرى المتصلة أو المرتبطة بها الواردة في النظام المشار إليه، اعتباراً من تاريخ ١٤٤٢/٢/١٤هـ، وذلك استثناء من حكم المادة الثالثة والستين) من النظام.",
+    "target_en": "Notwithstanding Article 63 of the Mining Investment Law issued by Royal Decree No. M/140, dated 19/10/1441H, the provisions of Articles 4, 6, 7, 8, 9, 10, 11, 14, 15, 16, 18, 19, and 35 of the Law shall, along with related provisions therein, enter into force as of 14/2/1442H.",
+    "source_ar_norm": "الموافقة علي اعمال احكام المواد الرابعة، والسادسة، والسابعة، والثامنة، والتاسعة، والعاشرة، والحادية عشرة، والرابعة عشرة، والخامسة عشرة، والسادسة عشرة، والثامنة عشرة والتاسعة عشرة، والخامسة والثلاثين من نظام الاستثمار التعديني الصادر بالمرسوم الملكي رقم (م/ ١٤٠) وتاريخ ١٤٤١/١٠/١٩ه وكذلك الاحكام الاخري المتصلة او المرتبطة بها الواردة في النظام المشار اليه، اعتبارا من تاريخ ١٤٤٢/٢/١٤ه، وذلك استثناء من حكم المادة الثالثة والستين) من النظام.",
+    "target_en_norm": "notwithstanding article 63 of the mining investment law issued by royal decree no. m/140, dated 19/10/1441h, the provisions of articles 4, 6, 7, 8, 9, 10, 11, 14, 15, 16, 18, 19, and 35 of the law shall, along with related provisions therein, enter into force as of 14/2/1442h.",
+    "file_name": "إنفاذ بعض أحكام مواد نظام الاستثمار التعديني.docx"
+  },
+  {
+    "id": 430,
+    "source_ar": "وقد أعد مشروع مرسوم ملكي بذلك، صيغته مرافقة لهذا.",
+    "target_en": "A royal decree has been drafted to this effect; its form is attached herewith.",
+    "source_ar_norm": "وقد اعد مشروع مرسوم ملكي بذلك، صيغته مرافقة لهذا.",
+    "target_en_norm": "a royal decree has been drafted to this effect; its form is attached herewith.",
+    "file_name": "إنفاذ بعض أحكام مواد نظام الاستثمار التعديني.docx"
+  },
+  {
+    "id": 431,
+    "source_ar": "استمرار السماح باستيراد السلع والمنتجات الفلسطينية واستمرار تحمل الدولة للرسوم الجمركية الخاصة بها",
+    "target_en": "Continuation of Permitting the Import of Palestinian Goods and Products with the State’s Coverage of Customs Duties",
+    "source_ar_norm": "استمرار السماح باستيراد السلع والمنتجات الفلسطينية واستمرار تحمل الدولة للرسوم الجمركية الخاصة بها",
+    "target_en_norm": "continuation of permitting the import of palestinian goods and products with the state’s coverage of customs duties",
+    "file_name": "استمرار السماح باستيراد السلع والمنتجات الفلسطينية واستمرار تحمل الدولة للرسوم الجمركية الخاصة بها.docx"
+  },
+  {
+    "id": 432,
+    "source_ar": "إن مجلس الوزراء",
+    "target_en": "The Council of Ministers",
+    "source_ar_norm": "ان مجلس الوزراء",
+    "target_en_norm": "the council of ministers",
+    "file_name": "استمرار السماح باستيراد السلع والمنتجات الفلسطينية واستمرار تحمل الدولة للرسوم الجمركية الخاصة بها.docx"
+  },
+  {
+    "id": 433,
+    "source_ar": "بعد الاطلاع على المعاملة الواردة من الديوان الملكي برقم ٤٤٨١٦ وتاريخ 16/٩/1437هـ، المشتملة على برقية معالي وزير الخارجية رقم ٢٩٦٨٢٦ وتاريخ 9/٨/1437هـ وخطاب معالي وزير المالية رقم ٦٨٦٨ وتاريخ 4/٩/1437هـ، في شأن طلب الموافقة على استمرار السماح باستيراد السلع والمنتجات الفلسطينية واستمرار تحمل الدولة الرسوم الجمركية الخاصة بها.",
+    "target_en": "Upon perusal of Casefile No. 44816, dated 16/9/1437H, received from the Royal Court, which includes Telegram No. 296826, dated 9/8/1437H, of His Excellency the Minister of Foreign Affairs and Letter No. 6868, dated 4/9/1437H, of His Excellency the Minister of Finance regarding the request for approval for the continuation of permitting the import of Palestinian goods and products with the State’s coverage of customs duties;",
+    "source_ar_norm": "بعد الاطلاع علي المعاملة الواردة من الديوان الملكي برقم ٤٤٨١٦ وتاريخ 16/٩/1437ه، المشتملة علي برقية معالي وزير الخارجية رقم ٢٩٦٨٢٦ وتاريخ 9/٨/1437ه وخطاب معالي وزير المالية رقم ٦٨٦٨ وتاريخ 4/٩/1437ه، في شان طلب الموافقة علي استمرار السماح باستيراد السلع والمنتجات الفلسطينية واستمرار تحمل الدولة الرسوم الجمركية الخاصة بها.",
+    "target_en_norm": "upon perusal of casefile no. 44816, dated 16/9/1437h, received from the royal court, which includes telegram no. 296826, dated 9/8/1437h, of his excellency the minister of foreign affairs and letter no. 6868, dated 4/9/1437h, of his excellency the minister of finance regarding the request for approval for the continuation of permitting the import of palestinian goods and products with the state’s coverage of customs duties;",
+    "file_name": "استمرار السماح باستيراد السلع والمنتجات الفلسطينية واستمرار تحمل الدولة للرسوم الجمركية الخاصة بها.docx"
+  },
+  {
+    "id": 434,
+    "source_ar": "وبعد الاطلاع على اتفاقية النظام المنسق لتبويب وتصنيف السلع، الموقعة في بروكسل عام 1983م، الموافق عليها بالمرسوم الملكي رقم (م / ٥٦) وتاريخ 19/10/1407ه.",
+    "target_en": "Upon perusal of the Convention on the Harmonized Commodity Description and Coding System, signed in Brussels in 1983, approved by Royal Decree No. M/56, dated 19/10/1407H;",
+    "source_ar_norm": "وبعد الاطلاع علي اتفاقية النظام المنسق لتبويب وتصنيف السلع، الموقعة في بروكسل عام 1983م، الموافق عليها بالمرسوم الملكي رقم (م / ٥٦) وتاريخ 19/10/1407ه.",
+    "target_en_norm": "upon perusal of the convention on the harmonized commodity description and coding system, signed in brussels in 1983, approved by royal decree no. m/56, dated 19/10/1407h;",
+    "file_name": "استمرار السماح باستيراد السلع والمنتجات الفلسطينية واستمرار تحمل الدولة للرسوم الجمركية الخاصة بها.docx"
+  },
+  {
+    "id": 435,
+    "source_ar": "يقرر ما يلي:",
+    "target_en": "Resolves the following:",
+    "source_ar_norm": "يقرر ما يلي:",
+    "target_en_norm": "resolves the following:",
+    "file_name": "استمرار السماح باستيراد السلع والمنتجات الفلسطينية واستمرار تحمل الدولة للرسوم الجمركية الخاصة بها.docx"
+  },
+  {
+    "id": 436,
+    "source_ar": "أولاً: استمرار العمل بالفقرتين (۱) و (۲) من قرار مجلس الوزراء رقم (7) وتاريخ 1/1/1422ه المتعلق بالسماح باستيراد السلع والمنتجات الفلسطينية، واستمرار تحمل الدولة للرسوم الجمركية الخاصة بها، على أن يكون استيرادها وفقاً لجدول النظام المنسق لتصنيف وتبويب السلع.",
+    "target_en": "First: The provisions of paragraphs (1) and (2) of Council of Ministers Resolution No. 7, dated 1/1/1422H, regarding permitting the import of Palestinian goods and products, shall remain in force, and the State shall continue to cover the customs duties of such goods and products, provided that their import is in accordance with the chart of the Harmonized Commodity Description and Coding System.",
+    "source_ar_norm": "اولا: استمرار العمل بالفقرتين (۱) و (۲) من قرار مجلس الوزراء رقم (7) وتاريخ 1/1/1422ه المتعلق بالسماح باستيراد السلع والمنتجات الفلسطينية، واستمرار تحمل الدولة للرسوم الجمركية الخاصة بها، علي ان يكون استيرادها وفقا لجدول النظام المنسق لتصنيف وتبويب السلع.",
+    "target_en_norm": "first: the provisions of paragraphs (1) and (2) of council of ministers resolution no. 7, dated 1/1/1422h, regarding permitting the import of palestinian goods and products, shall remain in force, and the state shall continue to cover the customs duties of such goods and products, provided that their import is in accordance with the chart of the harmonized commodity description and coding system.",
+    "file_name": "استمرار السماح باستيراد السلع والمنتجات الفلسطينية واستمرار تحمل الدولة للرسوم الجمركية الخاصة بها.docx"
+  },
+  {
+    "id": 437,
+    "source_ar": "ثانياً: على وزارة المالية في حال ظهور ما يستدعي وقف العمل بالبند (أولا) أعلاه الرفع لاتخاذ ما يلزم في شانه.",
+    "target_en": "Second: Should the need arise to suspend the application of Clause (First), the Ministry of Finance shall submit the matter for appropriate action.",
+    "source_ar_norm": "ثانيا: علي وزارة المالية في حال ظهور ما يستدعي وقف العمل بالبند (اولا) اعلاه الرفع لاتخاذ ما يلزم في شانه.",
+    "target_en_norm": "second: should the need arise to suspend the application of clause (first), the ministry of finance shall submit the matter for appropriate action.",
+    "file_name": "استمرار السماح باستيراد السلع والمنتجات الفلسطينية واستمرار تحمل الدولة للرسوم الجمركية الخاصة بها.docx"
+  },
+  {
+    "id": 438,
+    "source_ar": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً",
+    "target_en": "Disbursement of Overtime Allowance as a Fixed Amount for Persons Holding the Positions of Medical Statistician, Home Care Assistant, Administrative Assistant, Car Driver, Security Guard, and Courier, and for Workers Appointed under a Wage-Based Employment Contract",
+    "source_ar_norm": "استمرار صرف بدل ساعات العمل الاضافية لشاغلي وظائف (فني احصاء طبي، مساعد رعاية مرضي منزلي، مساعد اداري، سائق سيارة، حارس امن، مراسل، عامل علي بند الاجور) علي ان يكون مبلغا ثابتا",
+    "target_en_norm": "disbursement of overtime allowance as a fixed amount for persons holding the positions of medical statistician, home care assistant, administrative assistant, car driver, security guard, and courier, and for workers appointed under a wage-based employment contract",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 439,
+    "source_ar": "إن مجلس الوزراء",
+    "target_en": "The Council of Ministers,",
+    "source_ar_norm": "ان مجلس الوزراء",
+    "target_en_norm": "the council of ministers,",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 440,
+    "source_ar": "بعد الاطلاع على المعاملة الواردة من الديوان الملكي برقم 83924 وتاريخ 21/11/1445هـ، المشتملة على برقية معالي وزير الصحة رقم 28248 وتاريخ 23/3/1445هـ، في شأن استمرار صرف بدل ساعات العمل الإضافية لشاغلي الوظائف الصحية غير المشمولة بلائحة الوظائف الصحية.",
+    "target_en": "Upon perusal of Casefile No. 83924, dated 21/11/1445H, received from the Royal Court which includes Telegram No. 28248, dated 23/3/1445H, sent by His Excellency the Minister of Health regarding the continuation of disbursement of the overtime allowance for persons holding healthcare positions which are not included in the Regulations of Healthcare Positions;",
+    "source_ar_norm": "بعد الاطلاع علي المعاملة الواردة من الديوان الملكي برقم 83924 وتاريخ 21/11/1445ه، المشتملة علي برقية معالي وزير الصحة رقم 28248 وتاريخ 23/3/1445ه، في شان استمرار صرف بدل ساعات العمل الاضافية لشاغلي الوظائف الصحية غير المشمولة بلائحة الوظائف الصحية.",
+    "target_en_norm": "upon perusal of casefile no. 83924, dated 21/11/1445h, received from the royal court which includes telegram no. 28248, dated 23/3/1445h, sent by his excellency the minister of health regarding the continuation of disbursement of the overtime allowance for persons holding healthcare positions which are not included in the regulations of healthcare positions;",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 441,
+    "source_ar": "وبعد الاطلاع على لائحة الحقوق والمزايا المالية، المقرة بالأمر الملكي رقم (أ/28) وتاريخ 20/3/1432هـ.",
+    "target_en": "Upon perusal of the Financial Rights and Benefits Regulations, approved by Royal Order No. A/28, dated 20/3/1432H;",
+    "source_ar_norm": "وبعد الاطلاع علي لائحة الحقوق والمزايا المالية، المقرة بالامر الملكي رقم (ا/28) وتاريخ 20/3/1432ه.",
+    "target_en_norm": "upon perusal of the financial rights and benefits regulations, approved by royal order no. a/28, dated 20/3/1432h;",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 442,
+    "source_ar": "وبعد الاطلاع على قرار مجلس الوزراء رقم (311) وتاريخ 6/ 6/1442هـ.",
+    "target_en": "Upon perusal of Council of Ministers Resolution No. 311, dated 6/6/1442H;",
+    "source_ar_norm": "وبعد الاطلاع علي قرار مجلس الوزراء رقم (311) وتاريخ 6/ 6/1442ه.",
+    "target_en_norm": "upon perusal of council of ministers resolution no. 311, dated 6/6/1442h;",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 443,
+    "source_ar": "وبعد الاطلاع على اللائحة التنفيذية للموارد البشرية في الخدمة المدنية، الصادرة بقرار معالي وزير الموارد البشرية والتنمية الاجتماعية رقم (1550) وتاريخ 9/6/1440هـ.",
+    "target_en": "Upon perusal of the Implementing Regulations for Human Resources in Civil Service, issued by Decision No. 1550, dated 9/6/1440H, of His Excellency the Minister of Human Resources and Social Development;",
+    "source_ar_norm": "وبعد الاطلاع علي اللائحة التنفيذية للموارد البشرية في الخدمة المدنية، الصادرة بقرار معالي وزير الموارد البشرية والتنمية الاجتماعية رقم (1550) وتاريخ 9/6/1440ه.",
+    "target_en_norm": "upon perusal of the implementing regulations for human resources in civil service, issued by decision no. 1550, dated 9/6/1440h, of his excellency the minister of human resources and social development;",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 444,
+    "source_ar": "وبعد الاطلاع على المذكرة رقم (3111) وتاريخ 26/8/1445هـ، المعدة في هيئة الخبراء بمجلس الوزراء.",
+    "target_en": "Upon perusal of Memorandum No. 3111, dated 26/8/1445H, prepared in the Bureau of Experts at the Council of Ministers;",
+    "source_ar_norm": "وبعد الاطلاع علي المذكرة رقم (3111) وتاريخ 26/8/1445ه، المعدة في هيئة الخبراء بمجلس الوزراء.",
+    "target_en_norm": "upon perusal of memorandum no. 3111, dated 26/8/1445h, prepared in the bureau of experts at the council of ministers;",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 445,
+    "source_ar": "وبعد الاطلاع على التوصية المعدة في مجلس الشؤون الاقتصادية والتنمية رقم (35-39/45/د) وتاريخ 18/9/1445هـ.",
+    "target_en": "Upon perusal of Recommendation No. 35-39/45/D, dated 18/9/1445H, prepared by the Council of Economic and Development Affairs; and",
+    "source_ar_norm": "وبعد الاطلاع علي التوصية المعدة في مجلس الشؤون الاقتصادية والتنمية رقم (35-39/45/د) وتاريخ 18/9/1445ه.",
+    "target_en_norm": "upon perusal of recommendation no. 35-39/45/d, dated 18/9/1445h, prepared by the council of economic and development affairs; and",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 446,
+    "source_ar": "وبعد الاطلاع على توصية اللجنة العامة لمجلس الوزراء رقم (293) وتاريخ 8/1/1446هـ.",
+    "target_en": "Upon perusal of Recommendation No. 293, dated 8/1/1446H, of the General Committee of the Council of Ministers;",
+    "source_ar_norm": "وبعد الاطلاع علي توصية اللجنة العامة لمجلس الوزراء رقم (293) وتاريخ 8/1/1446ه.",
+    "target_en_norm": "upon perusal of recommendation no. 293, dated 8/1/1446h, of the general committee of the council of ministers;",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 447,
+    "source_ar": "يقرر ما يلي:",
+    "target_en": "Resolves as follows:",
+    "source_ar_norm": "يقرر ما يلي:",
+    "target_en_norm": "resolves as follows:",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 448,
+    "source_ar": "أولاً: استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور)، على أن يكون مبلغاً ثابتاً وفق الآتي:",
+    "target_en": "First: Disbursement of overtime allowance shall continue for persons holding the positions of medical statistician, home care assistant, administrative assistant, car driver, security guard, and courier, and for workers appointed under a wage-based employment contract, provided that the amount of such allowance is fixed. The disbursement of the allowance shall be as follows:",
+    "source_ar_norm": "اولا: استمرار صرف بدل ساعات العمل الاضافية لشاغلي وظائف (فني احصاء طبي، مساعد رعاية مرضي منزلي، مساعد اداري، سائق سيارة، حارس امن، مراسل، عامل علي بند الاجور)، علي ان يكون مبلغا ثابتا وفق الاتي:",
+    "target_en_norm": "first: disbursement of overtime allowance shall continue for persons holding the positions of medical statistician, home care assistant, administrative assistant, car driver, security guard, and courier, and for workers appointed under a wage-based employment contract, provided that the amount of such allowance is fixed. the disbursement of the allowance shall be as follows:",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 449,
+    "source_ar": "1- شاغلو وظائف سلم رواتب الموظفين العام:",
+    "target_en": "1- Persons holding positions under the General Salary Scale of Public Employees:",
+    "source_ar_norm": "1- شاغلو وظائف سلم رواتب الموظفين العام:",
+    "target_en_norm": "1- persons holding positions under the general salary scale of public employees:",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 450,
+    "source_ar": "المرتبة",
+    "target_en": "Grade",
+    "source_ar_norm": "المرتبة",
+    "target_en_norm": "grade",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 451,
+    "source_ar": "مقدار البدل",
+    "target_en": "Allowance Amount",
+    "source_ar_norm": "مقدار البدل",
+    "target_en_norm": "allowance amount",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 452,
+    "source_ar": "2- شاغلو وظائف لائحة المستخدمين ولائحة بند الأجور:",
+    "target_en": "2- Persons holding positions under the Contracted Laborers Regulations and the Regulations for Workers Appointed under a Wage-Based Employment Contract:",
+    "source_ar_norm": "2- شاغلو وظائف لائحة المستخدمين ولائحة بند الاجور:",
+    "target_en_norm": "2- persons holding positions under the contracted laborers regulations and the regulations for workers appointed under a wage-based employment contract:",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 453,
+    "source_ar": "ثانياً: يشترط لصرف البدل الوارد في البند (أولاً) من هذا القرار الآتي:",
+    "target_en": "Second: Disbursement of the allowance provided for in Clause (First) of this Resolution shall be subject to the following conditions:",
+    "source_ar_norm": "ثانيا: يشترط لصرف البدل الوارد في البند (اولا) من هذا القرار الاتي:",
+    "target_en_norm": "second: disbursement of the allowance provided for in clause (first) of this resolution shall be subject to the following conditions:",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 454,
+    "source_ar": "1- أن تكون الوظيفة في مستشفى أو مركز صحي أو مختبر، وأن يمارس الموظف العمل بصفة مستمرة ويكون مرتبطاً بالفريق الطبي.",
+    "target_en": "1- The position must be in a hospital, healthcare center, or laboratory, and the employee must regularly perform his duties and report to a medical team.",
+    "source_ar_norm": "1- ان تكون الوظيفة في مستشفي او مركز صحي او مختبر، وان يمارس الموظف العمل بصفة مستمرة ويكون مرتبطا بالفريق الطبي.",
+    "target_en_norm": "1- the position must be in a hospital, healthcare center, or laboratory, and the employee must regularly perform his duties and report to a medical team.",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 455,
+    "source_ar": "2- أن يؤدي الموظف عمله على أساس (176) ساعة شهرياً بما في ذلك أيام العطل الأسبوعية وحضور ساعات المناوبة.",
+    "target_en": "2- The total number of working hours per month, including weekends and shifts, must be at least 176 hours.",
+    "source_ar_norm": "2- ان يؤدي الموظف عمله علي اساس (176) ساعة شهريا بما في ذلك ايام العطل الاسبوعية وحضور ساعات المناوبة.",
+    "target_en_norm": "2- the total number of working hours per month, including weekends and shifts, must be at least 176 hours.",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 456,
+    "source_ar": "3- أن يكون هذا البدل بديلاً عن معاملتهم وفق قواعد التكليف بالعمل خارج أوقات الدوام الرسمي والعطل الأسبوعية.",
+    "target_en": "3- This allowance shall replace any compensations paid in accordance with the Rules Governing Work Outside Official Working Hours and Weekends.",
+    "source_ar_norm": "3- ان يكون هذا البدل بديلا عن معاملتهم وفق قواعد التكليف بالعمل خارج اوقات الدوام الرسمي والعطل الاسبوعية.",
+    "target_en_norm": "3- this allowance shall replace any compensations paid in accordance with the rules governing work outside official working hours and weekends.",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 457,
+    "source_ar": "ثالثاً: يعمل بالبدل الوارد في البند (أولاً) من هذا القرار لمدة (سنتين) من تاريخ 6/6/1445هـ، أو إلى حين استكمال الإجراءات النظامية لتعديل لائحة الحقوق والمزايا المالية المقرة بالأمر الملكي رقم (أ/28) وتاريخ 20/3/1432هـ، والعمل بها، أيهما أقرب.",
+    "target_en": "Third: The allowance provided for in Clause (First) of this Resolution shall be applicable as of 6/6/1445H for a period of two years or until the completion of the statutory procedures for amending the Financial Rights and Benefits Regulations approved by Royal Order No. A/28, dated 20/3/1432H, and implementation thereof, whichever is earlier.",
+    "source_ar_norm": "ثالثا: يعمل بالبدل الوارد في البند (اولا) من هذا القرار لمدة (سنتين) من تاريخ 6/6/1445ه، او الي حين استكمال الاجراءات النظامية لتعديل لائحة الحقوق والمزايا المالية المقرة بالامر الملكي رقم (ا/28) وتاريخ 20/3/1432ه، والعمل بها، ايهما اقرب.",
+    "target_en_norm": "third: the allowance provided for in clause (first) of this resolution shall be applicable as of 6/6/1445h for a period of two years or until the completion of the statutory procedures for amending the financial rights and benefits regulations approved by royal order no. a/28, dated 20/3/1432h, and implementation thereof, whichever is earlier.",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 458,
+    "source_ar": "رابعاً: تغطى تكاليف البدل الوارد في البند (أولاً) من هذا القرار وفقاً للأسقف المقررة في ميزانية وزارة الصحة، على ألا يتجاوز الأثر المالي لصرف البدل (52.421.400) ريال في السنة المالية الواحدة، وبما لا يتجاوز (4.527) موظفاً.",
+    "target_en": "Fourth: The allowance provided for in Clause (First) of this Resolution shall be covered from the budget of the Ministry of Health, provided that it does not exceed the ceilings set therein. The financial effect of disbursing the allowance shall not exceed 52,421,400 riyals in one fiscal year, and the employees benefiting therefrom shall not exceed 4,527.",
+    "source_ar_norm": "رابعا: تغطي تكاليف البدل الوارد في البند (اولا) من هذا القرار وفقا للاسقف المقررة في ميزانية وزارة الصحة، علي الا يتجاوز الاثر المالي لصرف البدل (52.421.400) ريال في السنة المالية الواحدة، وبما لا يتجاوز (4.527) موظفا.",
+    "target_en_norm": "fourth: the allowance provided for in clause (first) of this resolution shall be covered from the budget of the ministry of health, provided that it does not exceed the ceilings set therein. the financial effect of disbursing the allowance shall not exceed 52,421,400 riyals in one fiscal year, and the employees benefiting therefrom shall not exceed 4,527.",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 459,
+    "source_ar": "خامساً: قيام الجهات الحكومية التي تقدم خدمات صحية بالعمل وفق الآلية المشار إليها في البندين (أولاً) و(ثانياً) من هذا القرار وفقاً للأسقف المقررة في ميزانيتها.",
+    "target_en": "Fifth: Government agencies that provide healthcare services shall apply the mechanism referred to in Clauses (First) and (Second) of this Resolution, subject to the ceilings set in their budgets.",
+    "source_ar_norm": "خامسا: قيام الجهات الحكومية التي تقدم خدمات صحية بالعمل وفق الالية المشار اليها في البندين (اولا) و(ثانيا) من هذا القرار وفقا للاسقف المقررة في ميزانيتها.",
+    "target_en_norm": "fifth: government agencies that provide healthcare services shall apply the mechanism referred to in clauses (first) and (second) of this resolution, subject to the ceilings set in their budgets.",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 460,
+    "source_ar": "سادساً: قيام الجهات الصحية بتطبيق آليات للتعامل مع الموظفين في المستشفيات والمراكز الصحية والمختبرات من غير المشمولين بلائحة الوظائف الصحية، بشأن عملهم خارج ساعات العمل الرسمية -عند الاحتياج- وفق المادتين (12) و(13) من اللائحة التنفيذية للموارد البشرية في الخدمة المدنية، الصادرة بقرار معالي وزير الموارد البشرية والتنمية الاجتماعية رقم (1550) وتاريخ 9/6/1440هـ، ومنها تعديل أوقات العمل الرسمية لهذه الفئة (بدء ساعات العمل ونهايتها) أو استخدام نظام ساعات العمل المرن بما يضمن توزيع الموظفين على المناوبات وضمان وجودهم خلالها.",
+    "target_en": "Sixth: Health institutions shall implement mechanisms to deal with employees in hospitals, healthcare centers, and laboratories whose jobs are not included in the Regulations of Healthcare Positions regarding their work outside official working hours, as needed, in accordance with Articles 12 and 13 of the Implementing Regulations for Human Resources in Civil Service, issued by Decision No. 1550, dated 9/6/1440H, of His Excellency the Minister of Human Resources and Social Development, including amending the official working hours for this category (start and end of working hours) or the use of a flexible working hours system in a manner that ensures that the employees are appropriately allocated to different shifts.",
+    "source_ar_norm": "سادسا: قيام الجهات الصحية بتطبيق اليات للتعامل مع الموظفين في المستشفيات والمراكز الصحية والمختبرات من غير المشمولين بلائحة الوظائف الصحية، بشان عملهم خارج ساعات العمل الرسمية -عند الاحتياج- وفق المادتين (12) و(13) من اللائحة التنفيذية للموارد البشرية في الخدمة المدنية، الصادرة بقرار معالي وزير الموارد البشرية والتنمية الاجتماعية رقم (1550) وتاريخ 9/6/1440ه، ومنها تعديل اوقات العمل الرسمية لهذه الفئة (بدء ساعات العمل ونهايتها) او استخدام نظام ساعات العمل المرن بما يضمن توزيع الموظفين علي المناوبات وضمان وجودهم خلالها.",
+    "target_en_norm": "sixth: health institutions shall implement mechanisms to deal with employees in hospitals, healthcare centers, and laboratories whose jobs are not included in the regulations of healthcare positions regarding their work outside official working hours, as needed, in accordance with articles 12 and 13 of the implementing regulations for human resources in civil service, issued by decision no. 1550, dated 9/6/1440h, of his excellency the minister of human resources and social development, including amending the official working hours for this category (start and end of working hours) or the use of a flexible working hours system in a manner that ensures that the employees are appropriately allocated to different shifts.",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 461,
+    "source_ar": "سابعاً: ألا يترتب على ما ورد في البنود (أولاً) و(رابعاً) و(خامساً) و(سادساً) من هذا القرار أي أعباء مالية إضافية على الميزانية العامة للدولة.",
+    "target_en": "Seventh: The provisions provided for in Clauses (First), (Fourth), (Fifth), and (Sixth) of this Resolution shall not create any additional financial burdens on the State budget.",
+    "source_ar_norm": "سابعا: الا يترتب علي ما ورد في البنود (اولا) و(رابعا) و(خامسا) و(سادسا) من هذا القرار اي اعباء مالية اضافية علي الميزانية العامة للدولة.",
+    "target_en_norm": "seventh: the provisions provided for in clauses (first), (fourth), (fifth), and (sixth) of this resolution shall not create any additional financial burdens on the state budget.",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 462,
+    "source_ar": "رئيس مجلس الوزراء",
+    "target_en": "Prime Minister",
+    "source_ar_norm": "رئيس مجلس الوزراء",
+    "target_en_norm": "prime minister",
+    "file_name": "استمرار صرف بدل ساعات العمل الإضافية لشاغلي وظائف (فني إحصاء طبي، مساعد رعاية مرضى منزلي، مساعد إداري، سائق سيارة، حارس أمن، مراسل، عامل على بند الأجور) على أن يكون مبلغاً ثابتاً.docx"
+  },
+  {
+    "id": 463,
+    "source_ar": "استيفاء رسوم قيد الشركات والمؤسسات الفردية وفروعها في السجل التجاري سنويا",
+    "target_en": "Collection of Annual Fees for Registering Companies, Sole Proprietorships, and their Branches in the Commercial Register",
+    "source_ar_norm": "استيفاء رسوم قيد الشركات والمؤسسات الفردية وفروعها في السجل التجاري سنويا",
+    "target_en_norm": "collection of annual fees for registering companies, sole proprietorships, and their branches in the commercial register",
+    "file_name": "استيفاء رسوم قيد الشركات والمؤسسات الفردية وفروعها في السجل التجاري سنويا.docx"
+  },
+  {
+    "id": 464,
+    "source_ar": "إن مجلس الوزراء",
+    "target_en": "The Council of Ministers,",
+    "source_ar_norm": "ان مجلس الوزراء",
+    "target_en_norm": "the council of ministers,",
+    "file_name": "استيفاء رسوم قيد الشركات والمؤسسات الفردية وفروعها في السجل التجاري سنويا.docx"
+  },
+  {
+    "id": 465,
+    "source_ar": "بعد الاطلاع على المعاملة الواردة من ديوان رئاسة مجلس الوزراء برقم ١٠٣٧٣/ب وتاريخ ١٤٢٩/٣/٨هـ، المشتملة على خطاب معالي وزير التجارة والصناعة رقم ١١٣/م وتاريخ ١٤٢٩/٢/٢٠هـ في شأن اقتراح أن تكون رسوم قيد الشركات والمؤسسات الفردية في السجل التجاري سنويا بدلا من خمس سنوات.",
+    "target_en": "Upon perusal of Casefile No. 10373/B, dated 8/3/1429H, received from the Office of the Presidency of the Council of Ministers, including Letter No. 113/M, dated 20/2/1429H, of His Excellency the Minister of Commerce and Industry regarding the proposal that the fees for registering companies and sole proprietorships in the commercial register be collected annually instead of every five years;",
+    "source_ar_norm": "بعد الاطلاع علي المعاملة الواردة من ديوان رئاسة مجلس الوزراء برقم ١٠٣٧٣/ب وتاريخ ١٤٢٩/٣/٨ه، المشتملة علي خطاب معالي وزير التجارة والصناعة رقم ١١٣/م وتاريخ ١٤٢٩/٢/٢٠ه في شان اقتراح ان تكون رسوم قيد الشركات والمؤسسات الفردية في السجل التجاري سنويا بدلا من خمس سنوات.",
+    "target_en_norm": "upon perusal of casefile no. 10373/b, dated 8/3/1429h, received from the office of the presidency of the council of ministers, including letter no. 113/m, dated 20/2/1429h, of his excellency the minister of commerce and industry regarding the proposal that the fees for registering companies and sole proprietorships in the commercial register be collected annually instead of every five years;",
+    "file_name": "استيفاء رسوم قيد الشركات والمؤسسات الفردية وفروعها في السجل التجاري سنويا.docx"
+  },
+  {
+    "id": 466,
+    "source_ar": "يقرر ما يلي:",
+    "target_en": "Resolves the following:",
+    "source_ar_norm": "يقرر ما يلي:",
+    "target_en_norm": "resolves the following:",
+    "file_name": "استيفاء رسوم قيد الشركات والمؤسسات الفردية وفروعها في السجل التجاري سنويا.docx"
+  },
+  {
+    "id": 467,
+    "source_ar": "1-تستوفى رسوم قيد الشركات والمؤسسات الفردية في السجل التجاري سنويا، وفق الآتي:",
+    "target_en": "1. Fees for registering companies and sole proprietorships in the commercial register shall be collected annually, as follows:",
+    "source_ar_norm": "1-تستوفي رسوم قيد الشركات والمؤسسات الفردية في السجل التجاري سنويا، وفق الاتي:",
+    "target_en_norm": "1. fees for registering companies and sole proprietorships in the commercial register shall be collected annually, as follows:",
+    "file_name": "استيفاء رسوم قيد الشركات والمؤسسات الفردية وفروعها في السجل التجاري سنويا.docx"
+  },
+  {
+    "id": 468,
+    "source_ar": "1600 ريال عن قيد أي شركة مساهمة أو توصية بالأسهم.",
+    "target_en": "One thousand and six hundred riyals (SAR 1,600) for the registration of any joint-stock company or partnership limited by shares.",
+    "source_ar_norm": "1600 ريال عن قيد اي شركة مساهمة او توصية بالاسهم.",
+    "target_en_norm": "one thousand and six hundred riyals (sar 1,600) for the registration of any joint-stock company or partnership limited by shares.",
+    "file_name": "استيفاء رسوم قيد الشركات والمؤسسات الفردية وفروعها في السجل التجاري سنويا.docx"
+  },
+  {
+    "id": 469,
+    "source_ar": "1200 ريال عن قيد أي شركة ذات مسؤولية محدودة.",
+    "target_en": "One thousand and two hundred riyals (SAR 1,200) for the registration of any limited liability company.",
+    "source_ar_norm": "1200 ريال عن قيد اي شركة ذات مسؤولية محدودة.",
+    "target_en_norm": "one thousand and two hundred riyals (sar 1,200) for the registration of any limited liability company.",
+    "file_name": "استيفاء رسوم قيد الشركات والمؤسسات الفردية وفروعها في السجل التجاري سنويا.docx"
+  },
+  {
+    "id": 470,
+    "source_ar": "800 ريال عن قيد أي شركة أخرى.",
+    "target_en": "Eight hundred riyals (SAR 800) for the registration of any other company.",
+    "source_ar_norm": "800 ريال عن قيد اي شركة اخري.",
+    "target_en_norm": "eight hundred riyals (sar 800) for the registration of any other company.",
+    "file_name": "استيفاء رسوم قيد الشركات والمؤسسات الفردية وفروعها في السجل التجاري سنويا.docx"
+  },
+  {
+    "id": 471,
+    "source_ar": "200 ريال عن قيد أي مؤسسة فردية.",
+    "target_en": "Two hundred riyals (SAR 200) for the registration of any sole proprietorship.",
+    "source_ar_norm": "200 ريال عن قيد اي مؤسسة فردية.",
+    "target_en_norm": "two hundred riyals (sar 200) for the registration of any sole proprietorship.",
+    "file_name": "استيفاء رسوم قيد الشركات والمؤسسات الفردية وفروعها في السجل التجاري سنويا.docx"
+  },
+  {
+    "id": 472,
+    "source_ar": "2-يستوفى رسم كل سنة لكل فرع من فروع تلك الشركات أو المؤسسات الفردية بمقدار النصف من الرسم المقرر عن كل سنة وفقا للموضح في الفقرة (1) من هذا القرار.",
+    "target_en": "2. An annual fee for each branch of such companies or sole proprietorships shall be collected equal to half the prescribed annual fee provided for in paragraph (1) of this Resolution.",
+    "source_ar_norm": "2-يستوفي رسم كل سنة لكل فرع من فروع تلك الشركات او المؤسسات الفردية بمقدار النصف من الرسم المقرر عن كل سنة وفقا للموضح في الفقرة (1) من هذا القرار.",
+    "target_en_norm": "2. an annual fee for each branch of such companies or sole proprietorships shall be collected equal to half the prescribed annual fee provided for in paragraph (1) of this resolution.",
+    "file_name": "استيفاء رسوم قيد الشركات والمؤسسات الفردية وفروعها في السجل التجاري سنويا.docx"
+  },
+  {
+    "id": 473,
+    "source_ar": "3-يجوز للشركات والمؤسسات الفردية تسديد رسوم القيد في السجل التجاري مقدما لأكثر من سنة وبحد أقصى خمس سنوات.",
+    "target_en": "3. Companies and sole proprietorships may pay in advance the fees for registering in the commercial register up to a maximum of five years.",
+    "source_ar_norm": "3-يجوز للشركات والمؤسسات الفردية تسديد رسوم القيد في السجل التجاري مقدما لاكثر من سنة وبحد اقصي خمس سنوات.",
+    "target_en_norm": "3. companies and sole proprietorships may pay in advance the fees for registering in the commercial register up to a maximum of five years.",
+    "file_name": "استيفاء رسوم قيد الشركات والمؤسسات الفردية وفروعها في السجل التجاري سنويا.docx"
+  },
+  {
+    "id": 474,
+    "source_ar": "4-يستوفى رسم مقداره 100 ريال عن كل تأشير بتعديل البيانات السابق قيدها أو استخراج بيانات من السجل أو الحصول على شهادة بعدم وجود تسجيل.",
+    "target_en": "4. A fee of one hundred riyals (SAR 100) shall be collected for each notation to amend previously registered information, retrieve information from the register, or obtain a certificate of non-registration.",
+    "source_ar_norm": "4-يستوفي رسم مقداره 100 ريال عن كل تاشير بتعديل البيانات السابق قيدها او استخراج بيانات من السجل او الحصول علي شهادة بعدم وجود تسجيل.",
+    "target_en_norm": "4. a fee of one hundred riyals (sar 100) shall be collected for each notation to amend previously registered information, retrieve information from the register, or obtain a certificate of non-registration.",
+    "file_name": "استيفاء رسوم قيد الشركات والمؤسسات الفردية وفروعها في السجل التجاري سنويا.docx"
+  },
+  {
+    "id": 475,
+    "source_ar": "5-يحل هذا القرار محل البند سادسا من قرار مجلس الوزراء رقم 134 وتاريخ 19/9/1412ه.",
+    "target_en": "5. This Resolution shall supersede Clause (Sixth) of Council of Ministers Resolution No. 134, dated 19/9/1412H.",
+    "source_ar_norm": "5-يحل هذا القرار محل البند سادسا من قرار مجلس الوزراء رقم 134 وتاريخ 19/9/1412ه.",
+    "target_en_norm": "5. this resolution shall supersede clause (sixth) of council of ministers resolution no. 134, dated 19/9/1412h.",
+    "file_name": "استيفاء رسوم قيد الشركات والمؤسسات الفردية وفروعها في السجل التجاري سنويا.docx"
+  },
+  {
+    "id": 476,
+    "source_ar": "الأحكام المتصلة بالإقراض (التمويل) المنصوص عليها في تنظيم بنك التصدير والاستيراد السعودي",
+    "target_en": "Provisions Related to Financing Stipulated in the Statute of the Saudi Export-Import Bank",
+    "source_ar_norm": "الاحكام المتصلة بالاقراض (التمويل) المنصوص عليها في تنظيم بنك التصدير والاستيراد السعودي",
+    "target_en_norm": "provisions related to financing stipulated in the statute of the saudi export-import bank",
+    "file_name": "الأحكام المتصلة بالإقراض (التمويل) المنصوص عليها في تنظيم بنك التصدير والاستيراد السعودي.docx"
+  },
+  {
+    "id": 477,
+    "source_ar": "إن مجلس الوزراء",
+    "target_en": "The Council of Ministers,",
+    "source_ar_norm": "ان مجلس الوزراء",
+    "target_en_norm": "the council of ministers,",
+    "file_name": "الأحكام المتصلة بالإقراض (التمويل) المنصوص عليها في تنظيم بنك التصدير والاستيراد السعودي.docx"
+  },
+  {
+    "id": 478,
+    "source_ar": "بعد الاطلاع على المعاملة الواردة من الديوان الملكي برقم ٧١٢2٥ وتاريخ 14/12/١440هـ، المشتملة على برقية هيئة تنمية الصادرات السعودية رقم 01-7178-1439 وتاريخ 28/10/1439هـ، وبرقية معالي وزير الاقتصاد والتخطيط نائب رئيس مجلس إدارة صندوق التنمية الوطني رقم 60/4005722 وتاريخ 4/12/1440هـ، في شأن مشروع تنظيم بنك التصدير والاستيراد السعودي.",
+    "target_en": "Upon perusal of Casefile No.71225, dated 14/12/1440H, received from the Royal Court which includes Telegram No. 01-7178-1439, dated 28/10/1439H, from the Saudi Export Development Authority, and Telegram No. 60/4005722, dated 4/12/1440H from His Excellency the Minister of Economy and Planning, Deputy Chairman of the Board of Directors of the National Development Fund regarding the draft Statute of the Saudi Export-Import Bank;",
+    "source_ar_norm": "بعد الاطلاع علي المعاملة الواردة من الديوان الملكي برقم ٧١٢2٥ وتاريخ 14/12/١440ه، المشتملة علي برقية هيئة تنمية الصادرات السعودية رقم 01-7178-1439 وتاريخ 28/10/1439ه، وبرقية معالي وزير الاقتصاد والتخطيط نائب رئيس مجلس ادارة صندوق التنمية الوطني رقم 60/4005722 وتاريخ 4/12/1440ه، في شان مشروع تنظيم بنك التصدير والاستيراد السعودي.",
+    "target_en_norm": "upon perusal of casefile no.71225, dated 14/12/1440h, received from the royal court which includes telegram no. 01-7178-1439, dated 28/10/1439h, from the saudi export development authority, and telegram no. 60/4005722, dated 4/12/1440h from his excellency the minister of economy and planning, deputy chairman of the board of directors of the national development fund regarding the draft statute of the saudi export-import bank;",
+    "file_name": "الأحكام المتصلة بالإقراض (التمويل) المنصوص عليها في تنظيم بنك التصدير والاستيراد السعودي.docx"
+  },
+  {
+    "id": 479,
+    "source_ar": "يقرر ما يلي:",
+    "target_en": "Resolves as follows:",
+    "source_ar_norm": "يقرر ما يلي:",
+    "target_en_norm": "resolves as follows:",
+    "file_name": "الأحكام المتصلة بالإقراض (التمويل) المنصوص عليها في تنظيم بنك التصدير والاستيراد السعودي.docx"
+  },
+  {
+    "id": 480,
+    "source_ar": "أولاً: الموافقة على تنظيم بنك التصدير والاستيراد السعودي، بالصيغة المرافقة.",
+    "target_en": "First: Approval of the Statute of the Saudi Export-Import Bank as per the attached form.",
+    "source_ar_norm": "اولا: الموافقة علي تنظيم بنك التصدير والاستيراد السعودي، بالصيغة المرافقة.",
+    "target_en_norm": "first: approval of the statute of the saudi export-import bank as per the attached form.",
+    "file_name": "الأحكام المتصلة بالإقراض (التمويل) المنصوص عليها في تنظيم بنك التصدير والاستيراد السعودي.docx"
+  },
+  {
+    "id": 481,
+    "source_ar": "ثانياً: استمرار برنامج الصادرات السعودية في ممارسة أعماله إلى حين مباشرة بنك التصدير والاستيراد السعودي لاختصاصاته.",
+    "target_en": "Second: The Saudi Export Program shall continue its operations until the Saudi Export-Import Bank assumes its duties.",
+    "source_ar_norm": "ثانيا: استمرار برنامج الصادرات السعودية في ممارسة اعماله الي حين مباشرة بنك التصدير والاستيراد السعودي لاختصاصاته.",
+    "target_en_norm": "second: the saudi export program shall continue its operations until the saudi export-import bank assumes its duties.",
+    "file_name": "الأحكام المتصلة بالإقراض (التمويل) المنصوص عليها في تنظيم بنك التصدير والاستيراد السعودي.docx"
+  },
+  {
+    "id": 482,
+    "source_ar": "ثالثاً: يقوم بنك التصدير والاستيراد السعودي - بعد مباشرة مهماته - بالعمل على الاستفادة - قدر الإمكان - من الموارد البشرية الموجودة في برنامج الصادرات السعودية، وذلك بالاتفاق مع وزارة المالية، ووزارة الخدمة المدنية، والصندوق السعودي للتنمية، وهيئة تنمية الصادرات السعودية.",
+    "target_en": "Third: Upon assuming its duties, the Saudi Export-Import Bank shall utilize, whenever possible, the existing human resources of the Saudi Export Program, in coordination with the Ministry of Finance, the Ministry of Civil Service, the Saudi Development Fund, and the Saudi Export Development Authority.",
+    "source_ar_norm": "ثالثا: يقوم بنك التصدير والاستيراد السعودي - بعد مباشرة مهماته - بالعمل علي الاستفادة - قدر الامكان - من الموارد البشرية الموجودة في برنامج الصادرات السعودية، وذلك بالاتفاق مع وزارة المالية، ووزارة الخدمة المدنية، والصندوق السعودي للتنمية، وهيئة تنمية الصادرات السعودية.",
+    "target_en_norm": "third: upon assuming its duties, the saudi export-import bank shall utilize, whenever possible, the existing human resources of the saudi export program, in coordination with the ministry of finance, the ministry of civil service, the saudi development fund, and the saudi export development authority.",
+    "file_name": "الأحكام المتصلة بالإقراض (التمويل) المنصوص عليها في تنظيم بنك التصدير والاستيراد السعودي.docx"
+  },
+  {
+    "id": 483,
+    "source_ar": "رابعاً: يحدد رأس مال بنك التصدير والاستيراد السعودي وآلية تمويله بقرار من رئيس مجلس إدارة صندوق التنمية الوطني، بناءً على ما يتم الاتفاق عليه بين وزير المالية ووزير الصناعة والثروة المعدنية.",
+    "target_en": "Fourth: The capital and financing mechanism of the Saudi Export-Import Bank shall be determined by a decision of the Chairman of the Board of Directors of the National Development Fund, based on an agreement between the Minister of Finance and the Minister of Industry and Mineral Resources.",
+    "source_ar_norm": "رابعا: يحدد راس مال بنك التصدير والاستيراد السعودي والية تمويله بقرار من رئيس مجلس ادارة صندوق التنمية الوطني، بناء علي ما يتم الاتفاق عليه بين وزير المالية ووزير الصناعة والثروة المعدنية.",
+    "target_en_norm": "fourth: the capital and financing mechanism of the saudi export-import bank shall be determined by a decision of the chairman of the board of directors of the national development fund, based on an agreement between the minister of finance and the minister of industry and mineral resources.",
+    "file_name": "الأحكام المتصلة بالإقراض (التمويل) المنصوص عليها في تنظيم بنك التصدير والاستيراد السعودي.docx"
+  },
+  {
+    "id": 484,
+    "source_ar": "خامساً: الموافقة على الأحكام المتصلة بالإقراض (التمويل) المنصوص عليها في التنظيم المشار إليه في البند (أولاً) من هذا القرار.",
+    "target_en": "Fifth: Approval of the provisions relating to financing stipulated in the Statute mentioned above in Clause (First) of this Resolution",
+    "source_ar_norm": "خامسا: الموافقة علي الاحكام المتصلة بالاقراض (التمويل) المنصوص عليها في التنظيم المشار اليه في البند (اولا) من هذا القرار.",
+    "target_en_norm": "fifth: approval of the provisions relating to financing stipulated in the statute mentioned above in clause (first) of this resolution",
+    "file_name": "الأحكام المتصلة بالإقراض (التمويل) المنصوص عليها في تنظيم بنك التصدير والاستيراد السعودي.docx"
+  },
+  {
+    "id": 485,
+    "source_ar": "وقد أعد مشروع مرسوم ملكي بما تضمنه البند (خامساً) من هذا القرار، صيغته مرافقة لهذا.",
+    "target_en": "A draft royal decree has been prepared for the provisions in Clause (Fifth) of this Resolution; its form is attached herewith.",
+    "source_ar_norm": "وقد اعد مشروع مرسوم ملكي بما تضمنه البند (خامسا) من هذا القرار، صيغته مرافقة لهذا.",
+    "target_en_norm": "a draft royal decree has been prepared for the provisions in clause (fifth) of this resolution; its form is attached herewith.",
+    "file_name": "الأحكام المتصلة بالإقراض (التمويل) المنصوص عليها في تنظيم بنك التصدير والاستيراد السعودي.docx"
+  },
+  {
+    "id": 486,
+    "source_ar": "الأحكام المتعلقة بعقوبات مخالفات أحكام قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون ولائحته التنفيذية",
+    "target_en": "Penalties for Violations of the Law on the Practice of Veterinary Medical Professions of the GCC States and its Regulations",
+    "source_ar_norm": "الاحكام المتعلقة بعقوبات مخالفات احكام قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون ولائحته التنفيذية",
+    "target_en_norm": "penalties for violations of the law on the practice of veterinary medical professions of the gcc states and its regulations",
+    "file_name": "الأحكام المتعلقة بعقوبات مخالفات أحكام قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون ولائحته التنفيذية.docx"
+  },
+  {
+    "id": 487,
+    "source_ar": "إن مجلس الوزراء",
+    "target_en": "The Council of Ministers,",
+    "source_ar_norm": "ان مجلس الوزراء",
+    "target_en_norm": "the council of ministers,",
+    "file_name": "الأحكام المتعلقة بعقوبات مخالفات أحكام قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون ولائحته التنفيذية.docx"
+  },
+  {
+    "id": 488,
+    "source_ar": "بعد الاطلاع على المعاملة الواردة من الديوان الملكي برقم 5296 وتاريخ 11/2/1434هـ، المشتملة على خطاب معالي وزير الزراعة رقم 152247 وتاريخ 21/4/1433هـ، في شأن مشروع قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون لدول الخليج العربية، والأحكام المتعلقة بالعقوبات المقترحة له.",
+    "target_en": "Upon perusal of Casefile No. 5296, dated 11/2/1434H, received from the Royal Court, which includes Letter No. 152247, dated 21/4/1433H, of His Excellency the Minister of Agriculture regarding the draft Law on the Practice of Veterinary Medical Professions of the GCC States, and the provisions relating to the proposed penalties for any violation thereof;",
+    "source_ar_norm": "بعد الاطلاع علي المعاملة الواردة من الديوان الملكي برقم 5296 وتاريخ 11/2/1434ه، المشتملة علي خطاب معالي وزير الزراعة رقم 152247 وتاريخ 21/4/1433ه، في شان مشروع قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون لدول الخليج العربية، والاحكام المتعلقة بالعقوبات المقترحة له.",
+    "target_en_norm": "upon perusal of casefile no. 5296, dated 11/2/1434h, received from the royal court, which includes letter no. 152247, dated 21/4/1433h, of his excellency the minister of agriculture regarding the draft law on the practice of veterinary medical professions of the gcc states, and the provisions relating to the proposed penalties for any violation thereof;",
+    "file_name": "الأحكام المتعلقة بعقوبات مخالفات أحكام قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون ولائحته التنفيذية.docx"
+  },
+  {
+    "id": 489,
+    "source_ar": "وبعد الاطلاع على مشروع القانون (النظام) المشار إليه.",
+    "target_en": "Upon perusal of the aforementioned draft Law;",
+    "source_ar_norm": "وبعد الاطلاع علي مشروع القانون (النظام) المشار اليه.",
+    "target_en_norm": "upon perusal of the aforementioned draft law;",
+    "file_name": "الأحكام المتعلقة بعقوبات مخالفات أحكام قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون ولائحته التنفيذية.docx"
+  },
+  {
+    "id": 490,
+    "source_ar": "وبعد الاطلاع على المحضر رقم (470) وتاريخ 5/9/1433، والمحضر رقم (249) وتاريخ 6/5/1434هـ، المعدين في هيئة الخبراء بمجلس الوزراء.",
+    "target_en": "Upon perusal of Minutes No. 470, dated 5/9/1433H, and Minutes No. 249, dated 6/5/1434H, prepared at the Bureau of Experts at the Council of Ministers;",
+    "source_ar_norm": "وبعد الاطلاع علي المحضر رقم (470) وتاريخ 5/9/1433، والمحضر رقم (249) وتاريخ 6/5/1434ه، المعدين في هيئة الخبراء بمجلس الوزراء.",
+    "target_en_norm": "upon perusal of minutes no. 470, dated 5/9/1433h, and minutes no. 249, dated 6/5/1434h, prepared at the bureau of experts at the council of ministers;",
+    "file_name": "الأحكام المتعلقة بعقوبات مخالفات أحكام قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون ولائحته التنفيذية.docx"
+  },
+  {
+    "id": 491,
+    "source_ar": "وبعد النظر في قرار مجلس الشورى رقم (173/72) وتاريخ 26/1/1434هـ.",
+    "target_en": "Upon review of Shura Council Decision No. 173/72, dated 26/1/1434H; and",
+    "source_ar_norm": "وبعد النظر في قرار مجلس الشوري رقم (173/72) وتاريخ 26/1/1434ه.",
+    "target_en_norm": "upon review of shura council decision no. 173/72, dated 26/1/1434h; and",
+    "file_name": "الأحكام المتعلقة بعقوبات مخالفات أحكام قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون ولائحته التنفيذية.docx"
+  },
+  {
+    "id": 492,
+    "source_ar": "وبعد الاطلاع على توصية اللجنة العامة لمجلس الوزراء رقم (346) وتاريخ 13/5/1434هـ.",
+    "target_en": "Upon perusal of Recommendation No. 346, dated 13/5/1434H, of the General Committee of the Council of Ministers;",
+    "source_ar_norm": "وبعد الاطلاع علي توصية اللجنة العامة لمجلس الوزراء رقم (346) وتاريخ 13/5/1434ه.",
+    "target_en_norm": "upon perusal of recommendation no. 346, dated 13/5/1434h, of the general committee of the council of ministers;",
+    "file_name": "الأحكام المتعلقة بعقوبات مخالفات أحكام قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون ولائحته التنفيذية.docx"
+  },
+  {
+    "id": 493,
+    "source_ar": "يقرر ما يلي:",
+    "target_en": "Resolves the following:",
+    "source_ar_norm": "يقرر ما يلي:",
+    "target_en_norm": "resolves the following:",
+    "file_name": "الأحكام المتعلقة بعقوبات مخالفات أحكام قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون ولائحته التنفيذية.docx"
+  },
+  {
+    "id": 494,
+    "source_ar": "1-الموافقة على قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون لدول الخليج العربية، الذي اعتمده المجلس الأعلى لمجلس التعاون لدول الخليج العربية في دورته (الثانية والثلاثين) المنعقدة في مدينة الرياض يومي 24و25 محرم 1433هـ الموافقين 19و20 ديسمبر 2011م، بالصيغة المرافقة.",
+    "target_en": "1. The Law on the Practice of Veterinary Medical Professions of the GCC States, approved by the Supreme Council of the Cooperation Council for the Arab States of the Gulf at its 32nd Session held in Riyadh on 24-25/1/1433H (19-20/12/2011), shall be approved as per the attached form.",
+    "source_ar_norm": "1-الموافقة علي قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون لدول الخليج العربية، الذي اعتمده المجلس الاعلي لمجلس التعاون لدول الخليج العربية في دورته (الثانية والثلاثين) المنعقدة في مدينة الرياض يومي 24و25 محرم 1433ه الموافقين 19و20 ديسمبر 2011م، بالصيغة المرافقة.",
+    "target_en_norm": "1. the law on the practice of veterinary medical professions of the gcc states, approved by the supreme council of the cooperation council for the arab states of the gulf at its 32nd session held in riyadh on 24-25/1/1433h (19-20/12/2011), shall be approved as per the attached form.",
+    "file_name": "الأحكام المتعلقة بعقوبات مخالفات أحكام قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون ولائحته التنفيذية.docx"
+  },
+  {
+    "id": 495,
+    "source_ar": "2-الموافقة على الأحكام المتعلقة بعقوبات مخالفات أحكام قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون لدول الخليج العربية ولائحته التنفيذية، بالصيغة المرافقة.",
+    "target_en": "2. The provisions relating to penalties for violations of the Law on the Practice Veterinary Medical Professions of the GCC States and its Regulations shall be approved as per the attached form.",
+    "source_ar_norm": "2-الموافقة علي الاحكام المتعلقة بعقوبات مخالفات احكام قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون لدول الخليج العربية ولائحته التنفيذية، بالصيغة المرافقة.",
+    "target_en_norm": "2. the provisions relating to penalties for violations of the law on the practice veterinary medical professions of the gcc states and its regulations shall be approved as per the attached form.",
+    "file_name": "الأحكام المتعلقة بعقوبات مخالفات أحكام قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون ولائحته التنفيذية.docx"
+  },
+  {
+    "id": 496,
+    "source_ar": "3-على الجهة المختصة – الوارد تعريفها في المادة (1) من هذا القانون (النظام) – مراعاة اختصاصات الجهات الأخرى فيما يتعلق بتطبيق أحكامه، وبخاصة المادة (10) منه.",
+    "target_en": "3. The competent agency, as defined in Article 1 of this Law, shall observe the jurisdictions of other agencies in the application of its provisions, particularly Article 10 thereof.",
+    "source_ar_norm": "3-علي الجهة المختصة – الوارد تعريفها في المادة (1) من هذا القانون (النظام) – مراعاة اختصاصات الجهات الاخري فيما يتعلق بتطبيق احكامه، وبخاصة المادة (10) منه.",
+    "target_en_norm": "3. the competent agency, as defined in article 1 of this law, shall observe the jurisdictions of other agencies in the application of its provisions, particularly article 10 thereof.",
+    "file_name": "الأحكام المتعلقة بعقوبات مخالفات أحكام قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون ولائحته التنفيذية.docx"
+  },
+  {
+    "id": 497,
+    "source_ar": "وقد أعد مشروع مرسوم ملكي بذلك، صيغته مرافقة لهذا.",
+    "target_en": "A draft royal decree has been prepared to this effect; its form is attached herewith.",
+    "source_ar_norm": "وقد اعد مشروع مرسوم ملكي بذلك، صيغته مرافقة لهذا.",
+    "target_en_norm": "a draft royal decree has been prepared to this effect; its form is attached herewith.",
+    "file_name": "الأحكام المتعلقة بعقوبات مخالفات أحكام قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون ولائحته التنفيذية.docx"
+  },
+  {
+    "id": 498,
+    "source_ar": "4-على الجهة المختصة – الوارد تعريفها في المادة (1) من هذا القانون (النظام)، عند تكوين اللجنة المنصوص عليها في المادة (22) منه – مراعاة أن يكون من بين أعضاء اللجنة مستشار نظامي، وأحد المختصين بعملها.",
+    "target_en": "4. The competent agency, as defined in Article 1 of this Law, shall, when forming the Committee stipulated in Article 22 thereof, ensure that its members include a legal advisor and a specialist in the Committee’s field of work.",
+    "source_ar_norm": "4-علي الجهة المختصة – الوارد تعريفها في المادة (1) من هذا القانون (النظام)، عند تكوين اللجنة المنصوص عليها في المادة (22) منه – مراعاة ان يكون من بين اعضاء اللجنة مستشار نظامي، واحد المختصين بعملها.",
+    "target_en_norm": "4. the competent agency, as defined in article 1 of this law, shall, when forming the committee stipulated in article 22 thereof, ensure that its members include a legal advisor and a specialist in the committee’s field of work.",
+    "file_name": "الأحكام المتعلقة بعقوبات مخالفات أحكام قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون ولائحته التنفيذية.docx"
+  },
+  {
+    "id": 499,
+    "source_ar": "1-مع عدم الإخلال بأي عقوبة أشد يقضي بها نظام آخر، ومع عدم الإخلال كذلك بحق المتضرر في التعويض، يعاقب مخالفو أحكام هذا القانون (النظام) ولائحته التنفيذية بما يأتي:",
+    "target_en": "1. Without prejudice to any harsher penalty stipulated in any other law nor to the aggrieved party's right to claim compensation, violators of the provisions of this Law and its Regulations shall be subject to the following penalties:",
+    "source_ar_norm": "1-مع عدم الاخلال باي عقوبة اشد يقضي بها نظام اخر، ومع عدم الاخلال كذلك بحق المتضرر في التعويض، يعاقب مخالفو احكام هذا القانون (النظام) ولائحته التنفيذية بما ياتي:",
+    "target_en_norm": "1. without prejudice to any harsher penalty stipulated in any other law nor to the aggrieved party's right to claim compensation, violators of the provisions of this law and its regulations shall be subject to the following penalties:",
+    "file_name": "الأحكام المتعلقة بعقوبات مخالفات أحكام قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون ولائحته التنفيذية.docx"
+  },
+  {
+    "id": 500,
+    "source_ar": "أ-غرامة مالية لا تتجاوز مائة ألف ريال.",
+    "target_en": "a) A fine not exceeding one hundred thousand riyals.",
+    "source_ar_norm": "ا-غرامة مالية لا تتجاوز مائة الف ريال.",
+    "target_en_norm": "a) a fine not exceeding one hundred thousand riyals.",
+    "file_name": "الأحكام المتعلقة بعقوبات مخالفات أحكام قانون (نظام) مزاولة المهن الطبية البيطرية لدول مجلس التعاون ولائحته التنفيذية.docx"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 5201,
+    "source_ar": "34/2– يجوز تدوين طلب التنفيذ، والتبليغات إلكترونياً، ويكون لها حكم المحررات المكتوبة، وفقاً لنظام التعاملات الالكترونية.",
+    "target_en": "34.2 Enforcement petitions and services may be made electronically. The electronic form of such petitions and services shall have the same force and effect as the written form, in accordance with the Electronic Transactions Law.",
+    "source_ar_norm": "34/2– يجوز تدوين طلب التنفيذ، والتبليغات الكترونيا، ويكون لها حكم المحررات المكتوبة، وفقا لنظام التعاملات الالكترونية.",
+    "target_en_norm": "34.2 enforcement petitions and services may be made electronically. the electronic form of such petitions and services shall have the same force and effect as the written form, in accordance with the electronic transactions law.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5202,
+    "source_ar": "34/3– يشتمل طلب التنفيذ على البيانات الآتية:",
+    "target_en": "34.3 An enforcement petition shall include the following:",
+    "source_ar_norm": "34/3– يشتمل طلب التنفيذ علي البيانات الاتية:",
+    "target_en_norm": "34.3 an enforcement petition shall include the following:",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5203,
+    "source_ar": "أ - الاسم الكامل لطالب التنفيذ، ورقم هويته، ومهنته أ وظيفته، ورقم هاتفه، وعنوانه البريدي، ومحل إقامته الأصلي، ومحل إقامته المختار في مكان دائرة التنفيذ، إن لم يكن له محل إقامة فيها.",
+    "target_en": "the full name of the party seeking enforcement, his identification number, profession or occupation, telephone number, postal address, permanent place of residence, and his designated place of residence in the area falling within the jurisdiction of the enforcement circuit in case he has no place of residence therein;",
+    "source_ar_norm": "ا - الاسم الكامل لطالب التنفيذ، ورقم هويته، ومهنته ا وظيفته، ورقم هاتفه، وعنوانه البريدي، ومحل اقامته الاصلي، ومحل اقامته المختار في مكان دائرة التنفيذ، ان لم يكن له محل اقامة فيها.",
+    "target_en_norm": "the full name of the party seeking enforcement, his identification number, profession or occupation, telephone number, postal address, permanent place of residence, and his designated place of residence in the area falling within the jurisdiction of the enforcement circuit in case he has no place of residence therein;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5204,
+    "source_ar": "ب – الاسم الكامل للمنفذ ضده، ومهنته أو وظيفته، ومحل إقامته.",
+    "target_en": "the full name, profession or occupation, and place of residence of the party against whom enforcement is made;",
+    "source_ar_norm": "ب – الاسم الكامل للمنفذ ضده، ومهنته او وظيفته، ومحل اقامته.",
+    "target_en_norm": "the full name, profession or occupation, and place of residence of the party against whom enforcement is made;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5205,
+    "source_ar": "ج – المحكمة المقدم إليها طلب التنفيذ.",
+    "target_en": "the court with which the enforcement petition is filed;",
+    "source_ar_norm": "ج – المحكمة المقدم اليها طلب التنفيذ.",
+    "target_en_norm": "the court with which the enforcement petition is filed;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5206,
+    "source_ar": "د – تاريخ تقديم الطلب.",
+    "target_en": "date of petition;",
+    "source_ar_norm": "د – تاريخ تقديم الطلب.",
+    "target_en_norm": "date of petition;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5207,
+    "source_ar": "هـ- رقم السند التنفيذي، وتاريخه، وجهة صدوره، إن وجد.",
+    "target_en": "number, date, and issuing authority of the enforcement document, if any;",
+    "source_ar_norm": "ه- رقم السند التنفيذي، وتاريخه، وجهة صدوره، ان وجد.",
+    "target_en_norm": "number, date, and issuing authority of the enforcement document, if any;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5208,
+    "source_ar": "و – مقدار الحق، ووصفه إجمالاً، أو مضمون الطلب، إذا لم يكن ديناً.",
+    "target_en": "the amount and general description of the entitlement, if not a debt, or the content of the petition; and",
+    "source_ar_norm": "و – مقدار الحق، ووصفه اجمالا، او مضمون الطلب، اذا لم يكن دينا.",
+    "target_en_norm": "the amount and general description of the entitlement, if not a debt, or the content of the petition; and",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5209,
+    "source_ar": "ز – رقم الحساب البنكي العائد له، الذي يرغب إيداع ما يخصه من حصيلة التنفيذ فيه.",
+    "target_en": "the applicant's bank account number in which he wishes his share of enforcement proceeds to be deposited.",
+    "source_ar_norm": "ز – رقم الحساب البنكي العائد له، الذي يرغب ايداع ما يخصه من حصيلة التنفيذ فيه.",
+    "target_en_norm": "the applicant's bank account number in which he wishes his share of enforcement proceeds to be deposited.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5210,
+    "source_ar": "34/4– لا يترتب على نقص استيفاء البيانات بطلان طلب التنفيذ، متى تحققت الغاية من الإجراء.",
+    "target_en": "34.4 Incomplete information shall not render the petition of enforcement invalid if the purpose of the proceeding is served.",
+    "source_ar_norm": "34/4– لا يترتب علي نقص استيفاء البيانات بطلان طلب التنفيذ، متي تحققت الغاية من الاجراء.",
+    "target_en_norm": "34.4 incomplete information shall not render the petition of enforcement invalid if the purpose of the proceeding is served.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5211,
+    "source_ar": "34/5– إذا كان الحق لا يتجزأ، فيقدم طالب التنفيذ طلبه من أصل، نسخ منه بعدد المدينين، موقعة منه وفقاً للنموذج المعد لذلك، ويُرفق نسخة من السند التنفيذي.",
+    "target_en": "34.5 If the entitlement is indivisible, the party requesting enforcement shall submit the original copy of the petition along with a number of copies equal to the number of debtors, signed using the form designated for such purpose, and shall include a copy of the enforcement document.",
+    "source_ar_norm": "34/5– اذا كان الحق لا يتجزا، فيقدم طالب التنفيذ طلبه من اصل، نسخ منه بعدد المدينين، موقعة منه وفقا للنموذج المعد لذلك، ويرفق نسخة من السند التنفيذي.",
+    "target_en_norm": "34.5 if the entitlement is indivisible, the party requesting enforcement shall submit the original copy of the petition along with a number of copies equal to the number of debtors, signed using the form designated for such purpose, and shall include a copy of the enforcement document.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5212,
+    "source_ar": "34/6– لا يجمع في طلب التنفيذ بين أكثر من سند تنفيذي لا رابط بينهما.",
+    "target_en": "34.6 Unrelated enforcement documents may not be combined in a single enforcement petition.",
+    "source_ar_norm": "34/6– لا يجمع في طلب التنفيذ بين اكثر من سند تنفيذي لا رابط بينهما.",
+    "target_en_norm": "34.6 unrelated enforcement documents may not be combined in a single enforcement petition.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5213,
+    "source_ar": "34/7– إذا كان طالب التنفيذ إحدى الدوائر الحكومية، فيكفي ذكر اسم الدائرة، وصفة من يمثلها.",
+    "target_en": "34.7 If the party requesting enforcement is a government agency, providing the name of said agency and the capacity of its representative shall suffice.",
+    "source_ar_norm": "34/7– اذا كان طالب التنفيذ احدي الدوائر الحكومية، فيكفي ذكر اسم الدائرة، وصفة من يمثلها.",
+    "target_en_norm": "34.7 if the party requesting enforcement is a government agency, providing the name of said agency and the capacity of its representative shall suffice.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5214,
+    "source_ar": "34/8– الصيغة التنفيذية المشار إليها في الفقرة (2-أ) من هذه المادة التي يضعها قاضي الموضوع، يكون نصها كما يأتي: \"يطلب من جميع الدوائر والجهات الحكومية المختصة العمل على تنفيذ هذا الحكم بجميع الوسائل النظامية المتبعة ولو أدى إلى استعمال القوة الجبرية عن طريق الشرطة\".",
+    "target_en": "34.8 The enforcement text referred to in paragraph (2/A) of this Article, used by the trial judge, shall read as follows: \"All relevant government departments and agencies shall enforce this judgment using all applicable legal means, including the use of force by the police.\"",
+    "source_ar_norm": "34/8– الصيغة التنفيذية المشار اليها في الفقرة (2-ا) من هذه المادة التي يضعها قاضي الموضوع، يكون نصها كما ياتي: \"يطلب من جميع الدوائر والجهات الحكومية المختصة العمل علي تنفيذ هذا الحكم بجميع الوسائل النظامية المتبعة ولو ادي الي استعمال القوة الجبرية عن طريق الشرطة\".",
+    "target_en_norm": "34.8 the enforcement text referred to in paragraph (2/a) of this article, used by the trial judge, shall read as follows: \"all relevant government departments and agencies shall enforce this judgment using all applicable legal means, including the use of force by the police.\"",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5215,
+    "source_ar": "34/9– صيغة خاتم التنفيذ على ما تضمنته الفقرات (4، 5، 6، 7، 8) من المادة (التاسعة) من هذا النظام هي ما يأتي:",
+    "target_en": "34.9 The text of the enforcement seal referred to in paragraphs (4), (5), (6), (7), and (8) of Article 9 of the Law shall read as follows:",
+    "source_ar_norm": "34/9– صيغة خاتم التنفيذ علي ما تضمنته الفقرات (4، 5، 6، 7، 8) من المادة (التاسعة) من هذا النظام هي ما ياتي:",
+    "target_en_norm": "34.9 the text of the enforcement seal referred to in paragraphs (4), (5), (6), (7), and (8) of article 9 of the law shall read as follows:",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5216,
+    "source_ar": "\" الحمد لله والصلاة والسلام على من لا نبي بعده أما بعد \": فهذا سند للتنفيذ برقم ... ثم يذيل باسم القاضي وتوقيعه واسم المحكمة أو دائرة التنفيذ\".",
+    "target_en": "All praise due to Allah and peace be upon the last prophet, This is enforcement document No.: …; followed by the name and signature of the judge and the name of the enforcement court or circuit.",
+    "source_ar_norm": "\" الحمد لله والصلاة والسلام علي من لا نبي بعده اما بعد \": فهذا سند للتنفيذ برقم ... ثم يذيل باسم القاضي وتوقيعه واسم المحكمة او دائرة التنفيذ\".",
+    "target_en_norm": "all praise due to allah and peace be upon the last prophet, this is enforcement document no.: …; followed by the name and signature of the judge and the name of the enforcement court or circuit.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5217,
+    "source_ar": "34/10–يُبلغ المدين بطلب التنفيذ، بوساطة مُبلغ الأوراق القضائية.",
+    "target_en": "34.10 The debtor shall be notified of the enforcement petition through a process server.",
+    "source_ar_norm": "34/10–يبلغ المدين بطلب التنفيذ، بوساطة مبلغ الاوراق القضائية.",
+    "target_en_norm": "34.10 the debtor shall be notified of the enforcement petition through a process server.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5218,
+    "source_ar": "34/11–يكون التبليغ للمدين، أو وكيله، في محل إقامته، أو عمله، فإن تعذر إبلاغ المدين، فينشر الإبلاغ بعد مضي عشرين يوماً من تاريخ صدور أمر التنفيذ.",
+    "target_en": "34.11 The debtor, or his agent, shall be served at his place of residence or work. If such service is not feasible, the notice shall be published after the lapse of 20 days from the date of issuance of the enforcement order.",
+    "source_ar_norm": "34/11–يكون التبليغ للمدين، او وكيله، في محل اقامته، او عمله، فان تعذر ابلاغ المدين، فينشر الابلاغ بعد مضي عشرين يوما من تاريخ صدور امر التنفيذ.",
+    "target_en_norm": "34.11 the debtor, or his agent, shall be served at his place of residence or work. if such service is not feasible, the notice shall be published after the lapse of 20 days from the date of issuance of the enforcement order.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5219,
+    "source_ar": "34/12–في حال امتناع المدين عن استلام التبليغ، يُدون في محضر امتناعه، ويعد مبلغاً.",
+    "target_en": "34.12 If the debtor refuses to receive the notice, a note to this effect shall be entered into the report and he shall be deemed served.",
+    "source_ar_norm": "34/12–في حال امتناع المدين عن استلام التبليغ، يدون في محضر امتناعه، ويعد مبلغا.",
+    "target_en_norm": "34.12 if the debtor refuses to receive the notice, a note to this effect shall be entered into the report and he shall be deemed served.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5220,
+    "source_ar": "34/13–يبلغ من ليس له محل إقامة معروف، أو محل إقامة مختار في المملكة، بالكتابة لإمارة المنطقة، لتبليغه بالطرق المتبعة، وتفيد الإمارة قاضي التنفيذ بالإبلاغ، أو تعذره، خلال عشرين يوماً، فإن تعذر تبليغه، أو مضت المدة، ولم يرد جوابه، فينشر الإبلاغ في إحدى الصحف اليومية الأوسع انتشاراً في منطقة مقر المحكمة.",
+    "target_en": "34.13 If a person does not have a known place of residence in the Kingdom, he shall be served through the governorate of the relevant province by applicable means. Said governorate shall notify the enforcement judge whether or not such person is served within 20 days. If service is not feasible or the period elapses without response, the service shall be published in one of the widely circulated daily newspapers in the area where the court is located.",
+    "source_ar_norm": "34/13–يبلغ من ليس له محل اقامة معروف، او محل اقامة مختار في المملكة، بالكتابة لامارة المنطقة، لتبليغه بالطرق المتبعة، وتفيد الامارة قاضي التنفيذ بالابلاغ، او تعذره، خلال عشرين يوما، فان تعذر تبليغه، او مضت المدة، ولم يرد جوابه، فينشر الابلاغ في احدي الصحف اليومية الاوسع انتشارا في منطقة مقر المحكمة.",
+    "target_en_norm": "34.13 if a person does not have a known place of residence in the kingdom, he shall be served through the governorate of the relevant province by applicable means. said governorate shall notify the enforcement judge whether or not such person is served within 20 days. if service is not feasible or the period elapses without response, the service shall be published in one of the widely circulated daily newspapers in the area where the court is located.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5221,
+    "source_ar": "34/14–لا يجرى أي تبليغ في محل الإقامة، قبل شروق الشمس، ولا بعد غروبها، وللقاضي الإذن بالتبليغ في أي وقت عند الاقتضاء.",
+    "target_en": "34.14 No service at a place of residence shall be conducted prior to sunrise or after sunset. The judge may, if necessary, order the service to be made at any time.",
+    "source_ar_norm": "34/14–لا يجري اي تبليغ في محل الاقامة، قبل شروق الشمس، ولا بعد غروبها، وللقاضي الاذن بالتبليغ في اي وقت عند الاقتضاء.",
+    "target_en_norm": "34.14 no service at a place of residence shall be conducted prior to sunrise or after sunset. the judge may, if necessary, order the service to be made at any time.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5222,
+    "source_ar": "34/15–يجب أن يكون التبليغ من نسختين متطابقتين، إحداهما أصل والأخرى صورة مشتملاً على ما يأتي:",
+    "target_en": "34.15 The service shall be made of two identical copies: the original and a copy thereof, and shall include the following:",
+    "source_ar_norm": "34/15–يجب ان يكون التبليغ من نسختين متطابقتين، احداهما اصل والاخري صورة مشتملا علي ما ياتي:",
+    "target_en_norm": "34.15 the service shall be made of two identical copies: the original and a copy thereof, and shall include the following:",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5223,
+    "source_ar": "أ – موضوع الأمر التنفيذي، ويوم صدوره، وتاريخه، والساعة التي تم فيها.",
+    "target_en": "the subject of the enforcement order as well as the date and time thereof;",
+    "source_ar_norm": "ا – موضوع الامر التنفيذي، ويوم صدوره، وتاريخه، والساعة التي تم فيها.",
+    "target_en_norm": "the subject of the enforcement order as well as the date and time thereof;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5224,
+    "source_ar": "ب – الاسم الكامل لطالب التنفيذ، ومن يمثله إن وجد، ومهنته أو وظيفته، ومحل إقامته.",
+    "target_en": "the full name, profession or occupation, and place of residence of the party seeking enforcement and his representative, if any;",
+    "source_ar_norm": "ب – الاسم الكامل لطالب التنفيذ، ومن يمثله ان وجد، ومهنته او وظيفته، ومحل اقامته.",
+    "target_en_norm": "the full name, profession or occupation, and place of residence of the party seeking enforcement and his representative, if any;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5225,
+    "source_ar": "ج – الاسم الكامل للمدين، ومنته أو وظيفته، ومحل إقامته.",
+    "target_en": "the full name of the debtor, his profession or occupation, and place of residence;",
+    "source_ar_norm": "ج – الاسم الكامل للمدين، ومنته او وظيفته، ومحل اقامته.",
+    "target_en_norm": "the full name of the debtor, his profession or occupation, and place of residence;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5226,
+    "source_ar": "د – اسم مُبلغ الأوراق القضائية، وصفته.",
+    "target_en": "the name of the process server and his capacity;",
+    "source_ar_norm": "د – اسم مبلغ الاوراق القضائية، وصفته.",
+    "target_en_norm": "the name of the process server and his capacity;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5227,
+    "source_ar": "هـ- اسم من سُلمتُ له ورقة التبليغ، وتوقيعه على أصلها، أو اثبات امتناعه، وسببه.",
+    "target_en": "the name of the person receiving the service papers, and his signature on the original, or a note establishing his refusal to receive the service papers and reasons therefor; and",
+    "source_ar_norm": "ه- اسم من سلمت له ورقة التبليغ، وتوقيعه علي اصلها، او اثبات امتناعه، وسببه.",
+    "target_en_norm": "the name of the person receiving the service papers, and his signature on the original, or a note establishing his refusal to receive the service papers and reasons therefor; and",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5228,
+    "source_ar": "و – توقيع المبلغ على الأصل.",
+    "target_en": "the process server's signature on the original service papers.",
+    "source_ar_norm": "و – توقيع المبلغ علي الاصل.",
+    "target_en_norm": "the process server's signature on the original service papers.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5229,
+    "source_ar": "34/16–يرفق بصورة التبليغ ما يأتي:",
+    "target_en": "34.16 The copy of the service papers shall be accompanied by the following:",
+    "source_ar_norm": "34/16–يرفق بصورة التبليغ ما ياتي:",
+    "target_en_norm": "34.16 the copy of the service papers shall be accompanied by the following:",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5230,
+    "source_ar": "أ – نسخة من طلب التنفيذ.",
+    "target_en": "a copy of the enforcement petition;",
+    "source_ar_norm": "ا – نسخة من طلب التنفيذ.",
+    "target_en_norm": "a copy of the enforcement petition;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5231,
+    "source_ar": "ب – نسخة من أمر التنفيذ.",
+    "target_en": "a copy of the enforcement order; and",
+    "source_ar_norm": "ب – نسخة من امر التنفيذ.",
+    "target_en_norm": "a copy of the enforcement order; and",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5232,
+    "source_ar": "ج – نسخة من السند التنفيذي مصدقة بمطابقتها لأصلها.",
+    "target_en": "a copy of the enforcement document attested as a true copy.",
+    "source_ar_norm": "ج – نسخة من السند التنفيذي مصدقة بمطابقتها لاصلها.",
+    "target_en_norm": "a copy of the enforcement document attested as a true copy.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5233,
+    "source_ar": "34/17–يصدر التبليغ بتوقيع من مأمور التنفيذ:",
+    "target_en": "34.17 Service of process shall be issued bearing the signature of the enforcement officer.",
+    "source_ar_norm": "34/17–يصدر التبليغ بتوقيع من مامور التنفيذ:",
+    "target_en_norm": "34.17 service of process shall be issued bearing the signature of the enforcement officer.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5234,
+    "source_ar": "34/18–إذا كان مستلم التبليغ لا يقرأ، ولا يكتب، يوضع ذلك في أصل التبليغ، وتؤخذ بصمة إبهامه، أو ختمه على أصل ورقة التبليغ.",
+    "target_en": "34.18 If the person receiving the process is illiterate, a note to this effect shall be made in the original process and the thumbprint or seal of said person shall be affixed thereto.",
+    "source_ar_norm": "34/18–اذا كان مستلم التبليغ لا يقرا، ولا يكتب، يوضع ذلك في اصل التبليغ، وتؤخذ بصمة ابهامه، او ختمه علي اصل ورقة التبليغ.",
+    "target_en_norm": "34.18 if the person receiving the process is illiterate, a note to this effect shall be made in the original process and the thumbprint or seal of said person shall be affixed thereto.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5235,
+    "source_ar": "34/19–يكون التبليغ نظامياً، متى سُلِّم إلى شخص من جه إليه، ولو في غير محل، إقامته أو عمله.",
+    "target_en": "34.19 Service shall be deemed valid if the process is delivered to the person it was addressed to, even if delivered at a place other than his place of residence or work.",
+    "source_ar_norm": "34/19–يكون التبليغ نظاميا، متي سلم الي شخص من جه اليه، ولو في غير محل، اقامته او عمله.",
+    "target_en_norm": "34.19 service shall be deemed valid if the process is delivered to the person it was addressed to, even if delivered at a place other than his place of residence or work.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5236,
+    "source_ar": "34/20–يكون التبليغ على النحو الآتي:",
+    "target_en": "34.20 Service shall be made as follows:",
+    "source_ar_norm": "34/20–يكون التبليغ علي النحو الاتي:",
+    "target_en_norm": "34.20 service shall be made as follows:",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5237,
+    "source_ar": "أ – الشركات، والجمعيات، والمؤسسات الخاصة، أو فروعها إلى مديريها، أ من يقوم مقامهم، أو من يمثلهم، والشركات والمؤسسات الأجنبية التي فها فرع أو وكيل بالمملكة على مدير الفرع، أو من ينوب عنه.",
+    "target_en": "For companies, associations, sole proprietorships, or branches thereof: to their managers, their designees or representatives; as for foreign companies and establishments having a branch or agent in the Kingdom: to the manager of the branch or his designee.",
+    "source_ar_norm": "ا – الشركات، والجمعيات، والمؤسسات الخاصة، او فروعها الي مديريها، ا من يقوم مقامهم، او من يمثلهم، والشركات والمؤسسات الاجنبية التي فها فرع او وكيل بالمملكة علي مدير الفرع، او من ينوب عنه.",
+    "target_en_norm": "for companies, associations, sole proprietorships, or branches thereof: to their managers, their designees or representatives; as for foreign companies and establishments having a branch or agent in the kingdom: to the manager of the branch or his designee.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5238,
+    "source_ar": "ب – العسكريون إلى المرجع المباشر لمن وجه التبليغ إليه.",
+    "target_en": "For military personnel: to the immediate supervisor of the person sought to be served.",
+    "source_ar_norm": "ب – العسكريون الي المرجع المباشر لمن وجه التبليغ اليه.",
+    "target_en_norm": "for military personnel: to the immediate supervisor of the person sought to be served.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5239,
+    "source_ar": "ج – البحارة، وعمال السفن إلى الربان.",
+    "target_en": "For sailors and ship crew: to the captain.",
+    "source_ar_norm": "ج – البحارة، وعمال السفن الي الربان.",
+    "target_en_norm": "for sailors and ship crew: to the captain.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5240,
+    "source_ar": "د – المحجوز عليه لحفظ نفسه أو الوقف إلى الوصي أو الولي أو الناظر – حسب الحال -",
+    "target_en": "For a person subject to interdiction or endowment: to the trustee, guardian, or administrator, as the case may be.",
+    "source_ar_norm": "د – المحجوز عليه لحفظ نفسه او الوقف الي الوصي او الولي او الناظر – حسب الحال -",
+    "target_en_norm": "for a person subject to interdiction or endowment: to the trustee, guardian, or administrator, as the case may be.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5241,
+    "source_ar": "هـ- السجين، أو الموقوف إلى مدير السجن، أو محل التوقيف.",
+    "target_en": "For a prisoner or detainee: to the prison warden or to the detention facility.",
+    "source_ar_norm": "ه- السجين، او الموقوف الي مدير السجن، او محل التوقيف.",
+    "target_en_norm": "for a prisoner or detainee: to the prison warden or to the detention facility.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5242,
+    "source_ar": "34/21–إذا كان محل إقامة المدين في بلد أجنبي، وأمواله داخل المملكة، فيرسل القاضي التبليغ إلى وزارة الخارجية، ويُكتفى بالرد الذي يفيد وصول التبليغ إلى المدين.",
+    "target_en": "34.21 If the debtor’s place of residence is in a foreign country and his property is in the Kingdom, the judge shall send the notification to the Ministry of Foreign Affairs and a response therefrom indicating that the notification has been delivered to the debtor shall suffice.",
+    "source_ar_norm": "34/21–اذا كان محل اقامة المدين في بلد اجنبي، وامواله داخل المملكة، فيرسل القاضي التبليغ الي وزارة الخارجية، ويكتفي بالرد الذي يفيد وصول التبليغ الي المدين.",
+    "target_en_norm": "34.21 if the debtor’s place of residence is in a foreign country and his property is in the kingdom, the judge shall send the notification to the ministry of foreign affairs and a response therefrom indicating that the notification has been delivered to the debtor shall suffice.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5243,
+    "source_ar": "34/22–تضاف مدة ستين يوماً، إلى المواعيد المتعلقة بالتبليغ المنصوص عليها في هذا النظام، لمن يكون محل إقامته خارج المملكة.",
+    "target_en": "34.22 The notification deadlines provided for herein shall be extended for a period of 60 days for persons residing outside the Kingdom.",
+    "source_ar_norm": "34/22–تضاف مدة ستين يوما، الي المواعيد المتعلقة بالتبليغ المنصوص عليها في هذا النظام، لمن يكون محل اقامته خارج المملكة.",
+    "target_en_norm": "34.22 the notification deadlines provided for herein shall be extended for a period of 60 days for persons residing outside the kingdom.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5244,
+    "source_ar": "34/23–يحدد قاضي التنفيذ كيفية الإعلان، وتُدفع كلفته من طالب التنفيذ، وتحسب من مصاريف التنفيذ.",
+    "target_en": "34.23 The enforcement judge shall specify the manner of announcement. The cost of such announcement shall be paid by the person seeking enforcement and shall be included in the enforcement expenses.",
+    "source_ar_norm": "34/23–يحدد قاضي التنفيذ كيفية الاعلان، وتدفع كلفته من طالب التنفيذ، وتحسب من مصاريف التنفيذ.",
+    "target_en_norm": "34.23 the enforcement judge shall specify the manner of announcement. the cost of such announcement shall be paid by the person seeking enforcement and shall be included in the enforcement expenses.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5245,
+    "source_ar": "34/24–يؤخذ إقرار على كل مواطن، أو مقيم عند تنفيذ، أو تجديد أي خدمة حكومية يتضمن محل إقامته، وجهة عمله ومكانه، وصندوق بريده، والرمز البريدي، وبريده الإلكتروني، ورقم هاتفه، والتزامه بأنه يعتبر مبلغاً بكل ما يرده على أي من هذه العناوين، وملتزماً بآثارها القضائية والنظامية، والتزامه بتجديد عناوينه كلما تغيرت.",
+    "target_en": "34.24 An acknowledgment shall be obtained from any citizen or resident when applying for any government service. Said acknowledgment shall state the applicant’s place of residence, employer, place of work, mailing address, email, and telephone number, in addition to an acknowledgment that he shall be deemed notified of any notifications delivered to said addresses and bound by the judicial and legal effects thereof, and that he shall keep said addresses up to date.",
+    "source_ar_norm": "34/24–يؤخذ اقرار علي كل مواطن، او مقيم عند تنفيذ، او تجديد اي خدمة حكومية يتضمن محل اقامته، وجهة عمله ومكانه، وصندوق بريده، والرمز البريدي، وبريده الالكتروني، ورقم هاتفه، والتزامه بانه يعتبر مبلغا بكل ما يرده علي اي من هذه العناوين، وملتزما باثارها القضائية والنظامية، والتزامه بتجديد عناوينه كلما تغيرت.",
+    "target_en_norm": "34.24 an acknowledgment shall be obtained from any citizen or resident when applying for any government service. said acknowledgment shall state the applicant’s place of residence, employer, place of work, mailing address, email, and telephone number, in addition to an acknowledgment that he shall be deemed notified of any notifications delivered to said addresses and bound by the judicial and legal effects thereof, and that he shall keep said addresses up to date.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5246,
+    "source_ar": "34/25–تتيح الجهة المختصة بتسجيل عناوين الأشخاص حق الاطلاع عليها للقضاة بنهاية طرفية إلكترونية.",
+    "target_en": "34.25 The agency in charge of registration of persons' addresses shall make them electronically available to judges.",
+    "source_ar_norm": "34/25–تتيح الجهة المختصة بتسجيل عناوين الاشخاص حق الاطلاع عليها للقضاة بنهاية طرفية الكترونية.",
+    "target_en_norm": "34.25 the agency in charge of registration of persons' addresses shall make them electronically available to judges.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5247,
+    "source_ar": "(المادة الخامسة والثلاثون)",
+    "target_en": "Article 35",
+    "source_ar_norm": "(المادة الخامسة والثلاثون)",
+    "target_en_norm": "article 35",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5248,
+    "source_ar": "35/1– لا يقوم مأمور التنفيذ بإجراءات الحجز، إلا بعد صدور أمر قاضي التنفيذ.",
+    "target_en": "35.1 The enforcement officer may not implement attachment proceedings except upon the issuance of an order by the enforcement judge.",
+    "source_ar_norm": "35/1– لا يقوم مامور التنفيذ باجراءات الحجز، الا بعد صدور امر قاضي التنفيذ.",
+    "target_en_norm": "35.1 the enforcement officer may not implement attachment proceedings except upon the issuance of an order by the enforcement judge.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5249,
+    "source_ar": "35/2– يلزم الجهات المختصة بتسجيل الأموال المنقولة، كالمركبات، والسفن، والطائرات، وأي مال منقول، التأشير فوراً على سجلات هذه الأموال بالحجز؛ تنفيذاً لأمر قاضي التنفيذ، ويكون ذلك بعد أن يحرر مأمور التنفيذ محضر الحجز، وللقاضي عند الاقتضاء أن يأمر بالتأشير على السجل قبل إعداد المحضر.",
+    "target_en": "35.2 The agencies responsible for registering movable property such as vehicles, vessels, and aircraft shall promptly make an entry into the records of such property indicating attachment in implementation of the enforcement judge's order. This shall be carried out after the drafting of the attachment report by the enforcement officer. The judge may, if necessary, order that such entry be made prior to the drafting of the report.",
+    "source_ar_norm": "35/2– يلزم الجهات المختصة بتسجيل الاموال المنقولة، كالمركبات، والسفن، والطائرات، واي مال منقول، التاشير فورا علي سجلات هذه الاموال بالحجز؛ تنفيذا لامر قاضي التنفيذ، ويكون ذلك بعد ان يحرر مامور التنفيذ محضر الحجز، وللقاضي عند الاقتضاء ان يامر بالتاشير علي السجل قبل اعداد المحضر.",
+    "target_en_norm": "35.2 the agencies responsible for registering movable property such as vehicles, vessels, and aircraft shall promptly make an entry into the records of such property indicating attachment in implementation of the enforcement judge's order. this shall be carried out after the drafting of the attachment report by the enforcement officer. the judge may, if necessary, order that such entry be made prior to the drafting of the report.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5250,
+    "source_ar": "35/3– يكون التنفيذ من شروق الشمس إلى غروبها، ولمأمور التنفيذ الاستمرار بالتنفيذ ليلاً، إذا بدأه قبل الغروب، ولا يبدأ التنفيذ ليلاً، أو في العطل الرسمية، إلا بإذن كتابي من قاضي التنفيذ.",
+    "target_en": "35.3 Enforcement shall be carried out between sunrise and sunset and may be extended through the night if initiated prior to sunset. No enforcement may be carried out at night or during official holidays unless authorized by the enforcement judge.",
+    "source_ar_norm": "35/3– يكون التنفيذ من شروق الشمس الي غروبها، ولمامور التنفيذ الاستمرار بالتنفيذ ليلا، اذا بداه قبل الغروب، ولا يبدا التنفيذ ليلا، او في العطل الرسمية، الا باذن كتابي من قاضي التنفيذ.",
+    "target_en_norm": "35.3 enforcement shall be carried out between sunrise and sunset and may be extended through the night if initiated prior to sunset. no enforcement may be carried out at night or during official holidays unless authorized by the enforcement judge.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5251,
+    "source_ar": "35/4– عند صدر أمر قاضي التنفيذ بنقل المال المحجوز، على مأمور التنفيذ، أن يضمن المحضر بياناً بمن يتولى النقل، وسيلته، وما يتطلبه ضبط عملية النقل، ووصف المال، وأجرة النقل، والجهة المنقول منها وإليها.",
+    "target_en": "35.4 Upon the issuance of an order by the enforcement judge transferring attached property, the enforcement officer shall include in the report the party responsible for such transfer, means of transfer, and any requirements for such transfer, description of the property, transfer cost, and the agency from which or to which said property is transferred.",
+    "source_ar_norm": "35/4– عند صدر امر قاضي التنفيذ بنقل المال المحجوز، علي مامور التنفيذ، ان يضمن المحضر بيانا بمن يتولي النقل، وسيلته، وما يتطلبه ضبط عملية النقل، ووصف المال، واجرة النقل، والجهة المنقول منها واليها.",
+    "target_en_norm": "35.4 upon the issuance of an order by the enforcement judge transferring attached property, the enforcement officer shall include in the report the party responsible for such transfer, means of transfer, and any requirements for such transfer, description of the property, transfer cost, and the agency from which or to which said property is transferred.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5252,
+    "source_ar": "(المادة السادسة والثلاثون)",
+    "target_en": "Article 36",
+    "source_ar_norm": "(المادة السادسة والثلاثون)",
+    "target_en_norm": "article 36",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5253,
+    "source_ar": "36/1– الأموال اليسيرة، هي التي لا تزيد قيمتها عن خمسين ألف ريـال.",
+    "target_en": "36.1 Low-value property is the property whose value does not exceed 50,000 riyals.",
+    "source_ar_norm": "36/1– الاموال اليسيرة، هي التي لا تزيد قيمتها عن خمسين الف ريال.",
+    "target_en_norm": "36.1 low-value property is the property whose value does not exceed 50,000 riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5254,
+    "source_ar": "36/2– يدفع الدائن أجرة المقوم إذا امتنع المدين عن ذلك، أو غاب، وتحسب ضمن مصروفات التنفيذ.",
+    "target_en": "36.2 The creditor shall pay the valuator's fee if the debtor is absent or refuses to pay such fee. The fee shall be included in the enforcement expenses.",
+    "source_ar_norm": "36/2– يدفع الدائن اجرة المقوم اذا امتنع المدين عن ذلك، او غاب، وتحسب ضمن مصروفات التنفيذ.",
+    "target_en_norm": "36.2 the creditor shall pay the valuator's fee if the debtor is absent or refuses to pay such fee. the fee shall be included in the enforcement expenses.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5255,
+    "source_ar": "36/3– للمقوم ومأمور التنفيذ دخول العقار، دون حضور الشرطة، عند عدم الحاجة إليها.",
+    "target_en": "36.3 The valuator and enforcement officer may access the real property without the presence of the police if such presence is not needed.",
+    "source_ar_norm": "36/3– للمقوم ومامور التنفيذ دخول العقار، دون حضور الشرطة، عند عدم الحاجة اليها.",
+    "target_en_norm": "36.3 the valuator and enforcement officer may access the real property without the presence of the police if such presence is not needed.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5256,
+    "source_ar": "(المادة الأربعون)",
+    "target_en": "Article 40",
+    "source_ar_norm": "(المادة الاربعون)",
+    "target_en_norm": "article 40",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5257,
+    "source_ar": "40/1– يتولى مأمور التنفيذ إعداد محر الحجز، بناء على أمر قاضي التنفيذ وفق نموذج يعد لذلك.",
+    "target_en": "40.1 Upon the order of the enforcement judge, the enforcement officer shall prepare the attachment report using the form designated for such purpose.",
+    "source_ar_norm": "40/1– يتولي مامور التنفيذ اعداد محر الحجز، بناء علي امر قاضي التنفيذ وفق نموذج يعد لذلك.",
+    "target_en_norm": "40.1 upon the order of the enforcement judge, the enforcement officer shall prepare the attachment report using the form designated for such purpose.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5258,
+    "source_ar": "40/2– يرفق محضر الحجز بأوراق القضية، ويحفظ منه نسخة في سجل خاص بالمحكمة.",
+    "target_en": "40.2 The attachment report shall be attached to the case file and a copy thereof shall be kept in a special register at the court.",
+    "source_ar_norm": "40/2– يرفق محضر الحجز باوراق القضية، ويحفظ منه نسخة في سجل خاص بالمحكمة.",
+    "target_en_norm": "40.2 the attachment report shall be attached to the case file and a copy thereof shall be kept in a special register at the court.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5259,
+    "source_ar": "40/3– يذيل محضر الحجز بتوقيع من ذكر في المادة، وكل من نسب إليه تصرف في المحضر، كالمحجوز لديه، والمقوم، ومن يقع المال تحت يده، ونحوهم، ممن يراه مأمور التنفيذ.",
+    "target_en": "40.3 The attachment report shall be signed by the persons mentioned in this Article, as well as any other person to whom an act is attributed in the report, such as the garnishee, the valuator, the person in possession of the attached property, and the like, as deemed appropriate by the enforcement officer.",
+    "source_ar_norm": "40/3– يذيل محضر الحجز بتوقيع من ذكر في المادة، وكل من نسب اليه تصرف في المحضر، كالمحجوز لديه، والمقوم، ومن يقع المال تحت يده، ونحوهم، ممن يراه مامور التنفيذ.",
+    "target_en_norm": "40.3 the attachment report shall be signed by the persons mentioned in this article, as well as any other person to whom an act is attributed in the report, such as the garnishee, the valuator, the person in possession of the attached property, and the like, as deemed appropriate by the enforcement officer.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5260,
+    "source_ar": "40/4– يوقع على كل صفحة من صفحات المحضر.",
+    "target_en": "40.4 Each page of the report must be signed.",
+    "source_ar_norm": "40/4– يوقع علي كل صفحة من صفحات المحضر.",
+    "target_en_norm": "40.4 each page of the report must be signed.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5261,
+    "source_ar": "40/5– يُوقَّعُ المَحضَرُ في مكان المال المحجوز.",
+    "target_en": "40.5 The report shall be signed at the location of the attached property.",
+    "source_ar_norm": "40/5– يوقع المحضر في مكان المال المحجوز.",
+    "target_en_norm": "40.5 the report shall be signed at the location of the attached property.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5262,
+    "source_ar": "(المادة الحادية والأربعون)",
+    "target_en": "Article 41",
+    "source_ar_norm": "(المادة الحادية والاربعون)",
+    "target_en_norm": "article 41",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5263,
+    "source_ar": "41/1– تبليغ مأمور التنفيذ للمذكورين في المادة، يكون وفق إجراءات التبليغ الواردة، وفق الفقرة (3) من المادة (الرابعة والثلاثين) ولوائحها التنفيذية، وإذا تعذر ابلاغ المذكورين في المادة، فيُكتفى بإعلان الحجز في موقع نشر بيانات التنفيذ بالمحكمة والموقع الإلكتروني.",
+    "target_en": "41.1 The enforcement officer’s notification to persons mentioned in this Article shall be in accordance with applicable notification procedures provided for in Article 34(3) of the Law and related provisions provided for herein. If notification of said persons is unfeasible, publication of the attachment report in the court’s designated area and its website shall suffice.",
+    "source_ar_norm": "41/1– تبليغ مامور التنفيذ للمذكورين في المادة، يكون وفق اجراءات التبليغ الواردة، وفق الفقرة (3) من المادة (الرابعة والثلاثين) ولوائحها التنفيذية، واذا تعذر ابلاغ المذكورين في المادة، فيكتفي باعلان الحجز في موقع نشر بيانات التنفيذ بالمحكمة والموقع الالكتروني.",
+    "target_en_norm": "41.1 the enforcement officer’s notification to persons mentioned in this article shall be in accordance with applicable notification procedures provided for in article 34(3) of the law and related provisions provided for herein. if notification of said persons is unfeasible, publication of the attachment report in the court’s designated area and its website shall suffice.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5264,
+    "source_ar": "(المادة الثانية والأربعون)",
+    "target_en": "Article 42",
+    "source_ar_norm": "(المادة الثانية والاربعون)",
+    "target_en_norm": "article 42",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5265,
+    "source_ar": "42/1– يتبع في إجراءات الضمان، والكفيل، ما ذكر في اللائحتين (32/1) و(32/2).",
+    "target_en": "42.1 Procedures relating to a guarantee and a guarantor shall be in accordance with paragraphs (32.1) and (32.2) herein.",
+    "source_ar_norm": "42/1– يتبع في اجراءات الضمان، والكفيل، ما ذكر في اللائحتين (32/1) و(32/2).",
+    "target_en_norm": "42.1 procedures relating to a guarantee and a guarantor shall be in accordance with paragraphs (32.1) and (32.2) herein.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5266,
+    "source_ar": "(المادة الثالثة والأربعون)",
+    "target_en": "Article 43",
+    "source_ar_norm": "(المادة الثالثة والاربعون)",
+    "target_en_norm": "article 43",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5267,
+    "source_ar": "43/1– يرجع في أحكام الحارس القضائي فيما لم ينص عليه في هذا النظام، إلى ما ورد في نظام المرافعات الشرعية ولوائحه التنفيذية.",
+    "target_en": "43.1 Matters relating to the receiver, which are not provided for herein, shall be governed by the Law of Civil Procedure and its Implementing Regulations.",
+    "source_ar_norm": "43/1– يرجع في احكام الحارس القضائي فيما لم ينص عليه في هذا النظام، الي ما ورد في نظام المرافعات الشرعية ولوائحه التنفيذية.",
+    "target_en_norm": "43.1 matters relating to the receiver, which are not provided for herein, shall be governed by the law of civil procedure and its implementing regulations.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5268,
+    "source_ar": "43/2– إذا اتفق ذوو الشأن على حارس غير مرخص له، فللقاضي إجازة الاتفاق، وإذا لم يتفقوا، أو تعذر وجود حارس مرخص، فيختار القاضي من يراه بقرار يصدره.",
+    "target_en": "43.2 If the concerned parties agree on an unlicensed receiver, the judge may approve said agreement. If said parties fail to reach an agreement in this respect or no licensed receiver is available, the judge shall issue a decision appointing any receiver he deems fit.",
+    "source_ar_norm": "43/2– اذا اتفق ذوو الشان علي حارس غير مرخص له، فللقاضي اجازة الاتفاق، واذا لم يتفقوا، او تعذر وجود حارس مرخص، فيختار القاضي من يراه بقرار يصدره.",
+    "target_en_norm": "43.2 if the concerned parties agree on an unlicensed receiver, the judge may approve said agreement. if said parties fail to reach an agreement in this respect or no licensed receiver is available, the judge shall issue a decision appointing any receiver he deems fit.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5269,
+    "source_ar": "(المادة الرابعة والأربعون)",
+    "target_en": "Article 44",
+    "source_ar_norm": "(المادة الرابعة والاربعون)",
+    "target_en_norm": "article 44",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5270,
+    "source_ar": "44/1– إذا اتفق ذوو الشأن على أجرة الحارس، فللقاضي إجازة الاتفاق، ما لم يكن المحجوز عليه مال قاصر، أو وقفاً، فيتحقق القاضي من مناسبة الأجرة.",
+    "target_en": "44.1 If the concerned parties agree on the receiver's fee, the judge may approve said agreement, unless the attached property belongs to a minor or is an endowment; in such case, the judge shall verify the appropriateness of the fee.",
+    "source_ar_norm": "44/1– اذا اتفق ذوو الشان علي اجرة الحارس، فللقاضي اجازة الاتفاق، ما لم يكن المحجوز عليه مال قاصر، او وقفا، فيتحقق القاضي من مناسبة الاجرة.",
+    "target_en_norm": "44.1 if the concerned parties agree on the receiver's fee, the judge may approve said agreement, unless the attached property belongs to a minor or is an endowment; in such case, the judge shall verify the appropriateness of the fee.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5271,
+    "source_ar": "44/2– إذا ظهر لقاضي التنفيذ، أن أجرة المثل للحارس على الزروع، والثمار قد تستغرق كل محصولها، أو غالبه، مما لا يستفيد معه الدائن، ولا المدين، فله أن يقرر عدم الحراسة، أو تكليف المحجوز عليه بالحراسة، من دون ضمان، أو كفيل، حال تعذر إحضارهما.",
+    "target_en": "44.2 If the enforcement judge finds that the comparable fee of the receiver of plants and fruits would be the cost of all or most of the crops of such plants and fruits, thus benefiting neither the creditor nor the debtor, the judge may decide not to appoint a receiver or mandate the party subject to attachment to undertake receivership of the attached property without any guarantee or guarantor if said party is unable to provide the same.",
+    "source_ar_norm": "44/2– اذا ظهر لقاضي التنفيذ، ان اجرة المثل للحارس علي الزروع، والثمار قد تستغرق كل محصولها، او غالبه، مما لا يستفيد معه الدائن، ولا المدين، فله ان يقرر عدم الحراسة، او تكليف المحجوز عليه بالحراسة، من دون ضمان، او كفيل، حال تعذر احضارهما.",
+    "target_en_norm": "44.2 if the enforcement judge finds that the comparable fee of the receiver of plants and fruits would be the cost of all or most of the crops of such plants and fruits, thus benefiting neither the creditor nor the debtor, the judge may decide not to appoint a receiver or mandate the party subject to attachment to undertake receivership of the attached property without any guarantee or guarantor if said party is unable to provide the same.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5272,
+    "source_ar": "(المادة الخامسة والأربعون)",
+    "target_en": "Article 45",
+    "source_ar_norm": "(المادة الخامسة والاربعون)",
+    "target_en_norm": "article 45",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5273,
+    "source_ar": "45/1– الحجز التنفيذي على العقار، يكون بأمر قاضي التنفيذ، موجهاً إلى مأمور التنفيذ، وتسري أحكام هذا الحجز على العقار من حين صدوره.",
+    "target_en": "45.1 Enforcement attachment of a real property shall be pursuant to an order by the enforcement judge directed to the enforcement officer. The terms of such attachment shall apply to the real property from the date of issuance of such attachment.",
+    "source_ar_norm": "45/1– الحجز التنفيذي علي العقار، يكون بامر قاضي التنفيذ، موجها الي مامور التنفيذ، وتسري احكام هذا الحجز علي العقار من حين صدوره.",
+    "target_en_norm": "45.1 enforcement attachment of a real property shall be pursuant to an order by the enforcement judge directed to the enforcement officer. the terms of such attachment shall apply to the real property from the date of issuance of such attachment.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5274,
+    "source_ar": "45/2– لقاضي التنفيذ عند الاقتضاء، المبادرة بإجراء الحجز على العقار، بمخاطبة الجهة التي أصدرت الوثيقة مباشرة قبل، إعداد محضر الحجز.",
+    "target_en": "45.2 The enforcement judge may, on his own motion, initiate attachment proceedings against the real property by communicating with the agency that issued the relevant title deed prior to the drafting of the attachment report.",
+    "source_ar_norm": "45/2– لقاضي التنفيذ عند الاقتضاء، المبادرة باجراء الحجز علي العقار، بمخاطبة الجهة التي اصدرت الوثيقة مباشرة قبل، اعداد محضر الحجز.",
+    "target_en_norm": "45.2 the enforcement judge may, on his own motion, initiate attachment proceedings against the real property by communicating with the agency that issued the relevant title deed prior to the drafting of the attachment report.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5275,
+    "source_ar": "45/3– تبلغ الجهة التي صدرت منها وثيقة تملك العقار قاضي التنفيذ بما تم حيال التأشير بالحجز على سجل العقار.",
+    "target_en": "45.3 The agency issuing the relevant title deed shall inform the enforcement judge regarding an entry of attachment made into the real estate register.",
+    "source_ar_norm": "45/3– تبلغ الجهة التي صدرت منها وثيقة تملك العقار قاضي التنفيذ بما تم حيال التاشير بالحجز علي سجل العقار.",
+    "target_en_norm": "45.3 the agency issuing the relevant title deed shall inform the enforcement judge regarding an entry of attachment made into the real estate register.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5276,
+    "source_ar": "45/4– الحجز على العقار حجز على غلته – ويبلغ المستأجر بالحجز التنفيذي، وعليه تسليم الأجرة للمحكمة، أو الحارس – حسب الأحوال – لتودع في حساب التنفيذ.",
+    "target_en": "45.4 Attachment of a real property shall include its yields. The lessee shall be notified of the enforcement attachment and must deliver the rent amount to the court or receiver, as applicable, to be deposited into the enforcement account.",
+    "source_ar_norm": "45/4– الحجز علي العقار حجز علي غلته – ويبلغ المستاجر بالحجز التنفيذي، وعليه تسليم الاجرة للمحكمة، او الحارس – حسب الاحوال – لتودع في حساب التنفيذ.",
+    "target_en_norm": "45.4 attachment of a real property shall include its yields. the lessee shall be notified of the enforcement attachment and must deliver the rent amount to the court or receiver, as applicable, to be deposited into the enforcement account.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5277,
+    "source_ar": "45/5– إذا اقتضى التنفيذ على العقار إكمال نواقص وثيقة تملك العقار، فلقاضي التنفيذ الكتابة للجهة المصدرة، لإكمال اللازم دون حضور صاحب الصك، وله تفويض الدائن، أو وكيل البيع القضائي، أو غيرهما تفويضاً محدداً، بقرار يصدره.",
+    "target_en": "45.5 If enforcement against a real property requires the completion of its title deed, the enforcement judge may request the issuing agency to complete said deed without the presence of its holder, and may grant specific authorization to the creditor, judicial administrator or others pursuant to a decision issued thereby.",
+    "source_ar_norm": "45/5– اذا اقتضي التنفيذ علي العقار اكمال نواقص وثيقة تملك العقار، فلقاضي التنفيذ الكتابة للجهة المصدرة، لاكمال اللازم دون حضور صاحب الصك، وله تفويض الدائن، او وكيل البيع القضائي، او غيرهما تفويضا محددا، بقرار يصدره.",
+    "target_en_norm": "45.5 if enforcement against a real property requires the completion of its title deed, the enforcement judge may request the issuing agency to complete said deed without the presence of its holder, and may grant specific authorization to the creditor, judicial administrator or others pursuant to a decision issued thereby.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5278,
+    "source_ar": "45/6– متى تعذر استلام أصل صك العقار للتأكد من سريانه، وصلاحيته للاعتماد عليه، أو التهميش عليه، فيأمر قاضي التنفيذ بإصدار نسخة من سجل صك العقار؛ لإتمام إجراءات التنفيذ، وتصبح تلك النسخة هي الصك المعتمد.",
+    "target_en": "45.6 If the real property title deed cannot be obtained in order to verify its validity, or to make notations thereon, the enforcement judge shall order the issuance of a copy of the real property title deed to be made for enforcement purposes. Said copy shall serve as the approved deed.",
+    "source_ar_norm": "45/6– متي تعذر استلام اصل صك العقار للتاكد من سريانه، وصلاحيته للاعتماد عليه، او التهميش عليه، فيامر قاضي التنفيذ باصدار نسخة من سجل صك العقار؛ لاتمام اجراءات التنفيذ، وتصبح تلك النسخة هي الصك المعتمد.",
+    "target_en_norm": "45.6 if the real property title deed cannot be obtained in order to verify its validity, or to make notations thereon, the enforcement judge shall order the issuance of a copy of the real property title deed to be made for enforcement purposes. said copy shall serve as the approved deed.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5279,
+    "source_ar": "(المادة السادسة والأربعون)",
+    "target_en": "Article 46",
+    "source_ar_norm": "(المادة السادسة والاربعون)",
+    "target_en_norm": "article 46",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5280,
+    "source_ar": "46/1– متى طلب الدائن عدم تنفيذ مقتضى الفقرات (1-2-3-4) والفقرات (أ-ب-ج-د)، أو بعضها، فيجيبه قاضي التنفيذ، بعد أخذ إقرار عليه بذلك.",
+    "target_en": "46.1 If the creditor requests the non-application of all or some of the provisions of paragraphs (1), (2), (3), and (4), and paragraphs (a), (b), (c), and (d), the enforcement judge shall agree thereto and obtain an undertaking to this effect from said creditor.",
+    "source_ar_norm": "46/1– متي طلب الدائن عدم تنفيذ مقتضي الفقرات (1-2-3-4) والفقرات (ا-ب-ج-د)، او بعضها، فيجيبه قاضي التنفيذ، بعد اخذ اقرار عليه بذلك.",
+    "target_en_norm": "46.1 if the creditor requests the non-application of all or some of the provisions of paragraphs (1), (2), (3), and (4), and paragraphs (a), (b), (c), and (d), the enforcement judge shall agree thereto and obtain an undertaking to this effect from said creditor.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5281,
+    "source_ar": "46/2– يبلغ قاضي التنفيذ إدارة جوازات منطقته بأمر المنع من السفر خارج المملكة، وعلى إدارة الجوازات تنفيذه، والتعميم بذلك.",
+    "target_en": "46.2 The enforcement judge shall notify the passport department in the relevant region of the travel ban order and said department shall enforce and circulate the same.",
+    "source_ar_norm": "46/2– يبلغ قاضي التنفيذ ادارة جوازات منطقته بامر المنع من السفر خارج المملكة، وعلي ادارة الجوازات تنفيذه، والتعميم بذلك.",
+    "target_en_norm": "46.2 the enforcement judge shall notify the passport department in the relevant region of the travel ban order and said department shall enforce and circulate the same.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5282,
+    "source_ar": "46/3– لقاضي التنفيذ أن يأذن للمدين بالسفر بعد منعه بضمان، أو كفيل غارم، أو بدونهما، إذا ظهر له موجب لذلك.",
+    "target_en": "46.3 The enforcement judge may allow a debtor who is subject to a travel ban to travel upon providing a guarantee or a guarantor, or without either of them at his discretion.",
+    "source_ar_norm": "46/3– لقاضي التنفيذ ان ياذن للمدين بالسفر بعد منعه بضمان، او كفيل غارم، او بدونهما، اذا ظهر له موجب لذلك.",
+    "target_en_norm": "46.3 the enforcement judge may allow a debtor who is subject to a travel ban to travel upon providing a guarantee or a guarantor, or without either of them at his discretion.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5283,
+    "source_ar": "46/4– لقاضي التنفيذ الأمر بإيقاف إصدار الوكالات، والتفاويض الرسمية المعتمدة الصادرة من غير الجهات العدلية.",
+    "target_en": "46.4 The enforcement judge may order the suspension of powers of attorney and formal authorization letters issued by non-judicial agencies.",
+    "source_ar_norm": "46/4– لقاضي التنفيذ الامر بايقاف اصدار الوكالات، والتفاويض الرسمية المعتمدة الصادرة من غير الجهات العدلية.",
+    "target_en_norm": "46.4 the enforcement judge may order the suspension of powers of attorney and formal authorization letters issued by non-judicial agencies.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5284,
+    "source_ar": "46/5– إذا عُدّ المدين مماطلاً، فيشعر قاضي التنفيذ مكتب السجل التجاري بواقعة عدم التنفيذ، وفقاً لنظام السجل التجاري.",
+    "target_en": "46.5 If the debtor is deemed to be dilatory in the repayment of his debt, the enforcement judge shall notify the commercial registration office of the same, in accordance with the Law of Commercial Register.",
+    "source_ar_norm": "46/5– اذا عد المدين مماطلا، فيشعر قاضي التنفيذ مكتب السجل التجاري بواقعة عدم التنفيذ، وفقا لنظام السجل التجاري.",
+    "target_en_norm": "46.5 if the debtor is deemed to be dilatory in the repayment of his debt, the enforcement judge shall notify the commercial registration office of the same, in accordance with the law of commercial register.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5285,
+    "source_ar": "46/6– إذا ظهر للقاضي أن منع الجهات الحكومية من التعامل مع المدين يترتب عليه ضرر عام، فعليه التوقف عن المنع، ويجري ما يراه محققاً للعدل.",
+    "target_en": "46.6 If the judge determines that prohibiting government agencies from dealing with the debtor would undermine public interest, the judge shall suspend such prohibition and take measures he believes to be in the interest of justice.",
+    "source_ar_norm": "46/6– اذا ظهر للقاضي ان منع الجهات الحكومية من التعامل مع المدين يترتب عليه ضرر عام، فعليه التوقف عن المنع، ويجري ما يراه محققا للعدل.",
+    "target_en_norm": "46.6 if the judge determines that prohibiting government agencies from dealing with the debtor would undermine public interest, the judge shall suspend such prohibition and take measures he believes to be in the interest of justice.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5286,
+    "source_ar": "46/7– يشمل منع الجهات الحكومية من التعامل مع المدين، إيقاف خدماته الإلكترونية الحكومية.",
+    "target_en": "46.7 Prohibiting government agencies from dealing with the debtor shall include suspension of electronic government services provided to him.",
+    "source_ar_norm": "46/7– يشمل منع الجهات الحكومية من التعامل مع المدين، ايقاف خدماته الالكترونية الحكومية.",
+    "target_en_norm": "46.7 prohibiting government agencies from dealing with the debtor shall include suspension of electronic government services provided to him.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5287,
+    "source_ar": "46/8– الحبس المذكور في هذه المادة، حبس تنفيذي وفق ما ورد في المادة (الثالثة والثمانين) من هذا النظام.",
+    "target_en": "46.8 The imprisonment provided for in this Article shall be deemed an enforcement imprisonment as stipulated in Article 83 of this Law.",
+    "source_ar_norm": "46/8– الحبس المذكور في هذه المادة، حبس تنفيذي وفق ما ورد في المادة (الثالثة والثمانين) من هذا النظام.",
+    "target_en_norm": "46.8 the imprisonment provided for in this article shall be deemed an enforcement imprisonment as stipulated in article 83 of this law.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5288,
+    "source_ar": "(المادة السابعة والأربعون)",
+    "target_en": "Article 47",
+    "source_ar_norm": "(المادة السابعة والاربعون)",
+    "target_en_norm": "article 47",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5289,
+    "source_ar": "47/1– من اقتضى الحال استجوابه، فيُبلغ وفق الفقرة (3) من المادة (الرابعة والثلاثين) ولوائحها التنفيذية، وللقاضي عند الامتناع، الأمر بإحضاره بالقوة الجبرية.",
+    "target_en": "47.1 If the need arises to interrogate a person, he shall be summoned pursuant to Article 34(3) of the Law and related provisions provided for herein. In case of non-compliance, the judge shall summon him by force.",
+    "source_ar_norm": "47/1– من اقتضي الحال استجوابه، فيبلغ وفق الفقرة (3) من المادة (الرابعة والثلاثين) ولوائحها التنفيذية، وللقاضي عند الامتناع، الامر باحضاره بالقوة الجبرية.",
+    "target_en_norm": "47.1 if the need arises to interrogate a person, he shall be summoned pursuant to article 34(3) of the law and related provisions provided for herein. in case of non-compliance, the judge shall summon him by force.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5290,
+    "source_ar": "47/2– للقاضي عند الاقتضاء أن يطلب من جهة التحقيق إجراء الاستجواب والتحقيق.",
+    "target_en": "47.2 The judge may, if necessary, request the investigating agency to conduct the interrogation and investigation.",
+    "source_ar_norm": "47/2– للقاضي عند الاقتضاء ان يطلب من جهة التحقيق اجراء الاستجواب والتحقيق.",
+    "target_en_norm": "47.2 the judge may, if necessary, request the investigating agency to conduct the interrogation and investigation.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5291,
+    "source_ar": "(المادة الثامنة والأربعون)",
+    "target_en": "Article (48)",
+    "source_ar_norm": "(المادة الثامنة والاربعون)",
+    "target_en_norm": "article (48)",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5292,
+    "source_ar": "48/1– يكون تذييل السند التنفيذي بما ينفذ فعلياً، من اختصاص القاضي الذي أحيل اليه طلب التنفيذ، مهما كان مصدر السند، وإذا كان للسند سجل، فيهمش عليه.",
+    "target_en": "48.1 The judge considering the petition for enforcement shall have the jurisdiction to make a notation on the enforcement document indicating any implemented actions, regardless of the origin of said document. If said document has a record, he shall make a notation thereon.",
+    "source_ar_norm": "48/1– يكون تذييل السند التنفيذي بما ينفذ فعليا، من اختصاص القاضي الذي احيل اليه طلب التنفيذ، مهما كان مصدر السند، واذا كان للسند سجل، فيهمش عليه.",
+    "target_en_norm": "48.1 the judge considering the petition for enforcement shall have the jurisdiction to make a notation on the enforcement document indicating any implemented actions, regardless of the origin of said document. if said document has a record, he shall make a notation thereon.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5293,
+    "source_ar": "48/2– إذا كان التنفيذ على كامل ما في السند، فيُسلم الأصل للمنفذ ضده.",
+    "target_en": "48.2 If enforcement covers the whole document, the original document shall be surrendered to the party against whom enforcement is made.",
+    "source_ar_norm": "48/2– اذا كان التنفيذ علي كامل ما في السند، فيسلم الاصل للمنفذ ضده.",
+    "target_en_norm": "48.2 if enforcement covers the whole document, the original document shall be surrendered to the party against whom enforcement is made.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5294,
+    "source_ar": "الفصل الثاني بيع المال المحجوز",
+    "target_en": "Chapter 2: Sale of Attached Property",
+    "source_ar_norm": "الفصل الثاني بيع المال المحجوز",
+    "target_en_norm": "chapter 2: sale of attached property",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5295,
+    "source_ar": "(المادة التاسعة والأربعون)",
+    "target_en": "Article 49",
+    "source_ar_norm": "(المادة التاسعة والاربعون)",
+    "target_en_norm": "article 49",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5296,
+    "source_ar": "49/1– صالة المزاد هي المكان الذي يحدده قاضي التنفيذ لبيع الأعيان المحجوزة.",
+    "target_en": "49.1 The auction hall shall be the place designated by the enforcement judge for the sale of the attached property.",
+    "source_ar_norm": "49/1– صالة المزاد هي المكان الذي يحدده قاضي التنفيذ لبيع الاعيان المحجوزة.",
+    "target_en_norm": "49.1 the auction hall shall be the place designated by the enforcement judge for the sale of the attached property.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5297,
+    "source_ar": "49/2– يحق للدائن، والمدين، ووكلائهما دخول صالة المزاد دون شرط التأهل، وللدائن المشاركة متى تأهل لذلك، أو كان دينه أكثر من قيمة المال المراد بيعه.",
+    "target_en": "49.2 The creditor, debtor, and their agents may attend the auction without satisfying the eligibility requirement. The creditor may take part in bidding if he satisfies such requirement or if the debt exceeds the value of the property to be sold.",
+    "source_ar_norm": "49/2– يحق للدائن، والمدين، ووكلائهما دخول صالة المزاد دون شرط التاهل، وللدائن المشاركة متي تاهل لذلك، او كان دينه اكثر من قيمة المال المراد بيعه.",
+    "target_en_norm": "49.2 the creditor, debtor, and their agents may attend the auction without satisfying the eligibility requirement. the creditor may take part in bidding if he satisfies such requirement or if the debt exceeds the value of the property to be sold.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5298,
+    "source_ar": "49/3– لا يحق لمن باشر أي إجراء من إجراءات التنفيذ، أو أقاربه من الأصول أو الفروع أو الأزواج المشاركة في المزاد.",
+    "target_en": "49.3 Any person involved in any enforcement proceedings, as well as his ascendants, descendants, and spouses, may not take part in such auction.",
+    "source_ar_norm": "49/3– لا يحق لمن باشر اي اجراء من اجراءات التنفيذ، او اقاربه من الاصول او الفروع او الازواج المشاركة في المزاد.",
+    "target_en_norm": "49.3 any person involved in any enforcement proceedings, as well as his ascendants, descendants, and spouses, may not take part in such auction.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5299,
+    "source_ar": "49/2– شروط التأهل للمشاركة، وإثبات الملاءة للدخول في المزاد ما يأتي:",
+    "target_en": "49.4 Conditions of eligibility to participate in the bidding and the establishment of solvency shall be as follows:",
+    "source_ar_norm": "49/2– شروط التاهل للمشاركة، واثبات الملاءة للدخول في المزاد ما ياتي:",
+    "target_en_norm": "49.4 conditions of eligibility to participate in the bidding and the establishment of solvency shall be as follows:",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5300,
+    "source_ar": "أ – أن يقدم المشارك في المزاد إقراراً يتضمن أن اسمه غير مدرج في جهة تسجيل معلومات ائتمانية بالتعثر، وأنه لم يصدر بحقه صك إعسار، أو إشهار إفلاس، ولقاضي التنفيذ التحقق من ذلك عند الاقتضاء.",
+    "target_en": "The bidder shall submit a declaration stating that he is not on any credit rating agency’s list of delinquent debtors and has not been judicially declared insolvent or bankrupt, and the enforcement judge may verify the same if necessary; and",
+    "source_ar_norm": "ا – ان يقدم المشارك في المزاد اقرارا يتضمن ان اسمه غير مدرج في جهة تسجيل معلومات ائتمانية بالتعثر، وانه لم يصدر بحقه صك اعسار، او اشهار افلاس، ولقاضي التنفيذ التحقق من ذلك عند الاقتضاء.",
+    "target_en_norm": "the bidder shall submit a declaration stating that he is not on any credit rating agency’s list of delinquent debtors and has not been judicially declared insolvent or bankrupt, and the enforcement judge may verify the same if necessary; and",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  }
+]

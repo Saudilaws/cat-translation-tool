@@ -1,0 +1,802 @@
+[
+  {
+    "id": 5101,
+    "source_ar": "11/1– يجب أن يكون مرافقاً للحكم، أو الأمر الأجنبي المطلوب تنفيذه ما يأتي:",
+    "target_en": "11.1 For the enforcement of a foreign judgment or order, the following shall be attached:",
+    "source_ar_norm": "11/1– يجب ان يكون مرافقا للحكم، او الامر الاجنبي المطلوب تنفيذه ما ياتي:",
+    "target_en_norm": "11.1 for the enforcement of a foreign judgment or order, the following shall be attached:",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5102,
+    "source_ar": "أ - نسخة رسمية من الحكم، أو الأمر الأجنبي، مذيَّلة بالصيغة التنفيذية، أو مرافقةً له.",
+    "target_en": "an official copy of the foreign judgment or order along with the enforcement order;",
+    "source_ar_norm": "ا - نسخة رسمية من الحكم، او الامر الاجنبي، مذيلة بالصيغة التنفيذية، او مرافقة له.",
+    "target_en_norm": "an official copy of the foreign judgment or order along with the enforcement order;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5103,
+    "source_ar": "ب – شهادة بأن الحكم أصبح نهائياً، حائزاً لقوة الأمر المقضي به، ما لم يكن ذلك منصوصاً عليه في الحكم ذاته، وأن الحكم صادر من جهة قضائية مختصة بنظر القضية في البلد الأجنبي.",
+    "target_en": "an attestation stating that the judgment has become final and enforceable, unless so stated in the judgment itself, and that the judgment has been issued by a competent judicial body in the foreign country; and",
+    "source_ar_norm": "ب – شهادة بان الحكم اصبح نهائيا، حائزا لقوة الامر المقضي به، ما لم يكن ذلك منصوصا عليه في الحكم ذاته، وان الحكم صادر من جهة قضائية مختصة بنظر القضية في البلد الاجنبي.",
+    "target_en_norm": "an attestation stating that the judgment has become final and enforceable, unless so stated in the judgment itself, and that the judgment has been issued by a competent judicial body in the foreign country; and",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5104,
+    "source_ar": "ج – نسخة من مستند تبليغ الحكم، مصدقاً عليها بمطابقتها لأصلها، أو أي مستند آخر في شأنه إثبات إعلان المدعى عليه إعلاناً صحيحاً، وذلك في حالة الحكم الغيابي.",
+    "target_en": "a copy of the judgment notice certified as a true copy, or any other document establishing that the defendant has been duly notified, in the case of judgment in absentia.",
+    "source_ar_norm": "ج – نسخة من مستند تبليغ الحكم، مصدقا عليها بمطابقتها لاصلها، او اي مستند اخر في شانه اثبات اعلان المدعي عليه اعلانا صحيحا، وذلك في حالة الحكم الغيابي.",
+    "target_en_norm": "a copy of the judgment notice certified as a true copy, or any other document establishing that the defendant has been duly notified, in the case of judgment in absentia.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5105,
+    "source_ar": "11/2– يشترط لتنفيذ الحكم، أو الأمر الأجنبي، ألاَّ يكون هناك دعوى قائمة في المملكة سابقة على الدعوى التي صدر الحكم، أو الأمر الأجنبي فيها.",
+    "target_en": "11.2 A foreign judgment or order may only be enforced if there is no pending suit in the Kingdom that has been filed prior to the suit in which such judgment or foreign order was issued.",
+    "source_ar_norm": "11/2– يشترط لتنفيذ الحكم، او الامر الاجنبي، الا يكون هناك دعوي قائمة في المملكة سابقة علي الدعوي التي صدر الحكم، او الامر الاجنبي فيها.",
+    "target_en_norm": "11.2 a foreign judgment or order may only be enforced if there is no pending suit in the kingdom that has been filed prior to the suit in which such judgment or foreign order was issued.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5106,
+    "source_ar": "11/3– المقصود بالنظام العام هو: أحكام الشريعة الاسلامية.",
+    "target_en": "11.3 Public order shall mean the provisions of Sharia.",
+    "source_ar_norm": "11/3– المقصود بالنظام العام هو: احكام الشريعة الاسلامية.",
+    "target_en_norm": "11.3 public order shall mean the provisions of sharia.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5107,
+    "source_ar": "11/4– الوثائق الصادرة من الجهات الرسمية في البلد الأجنبي، الواردة من خارج المملكة، يلزم تصديقها من وزارتي الخارجية والعدل، وتُترجم إلى اللغة العربية من مكتب ترجمة معتمد.",
+    "target_en": "11.4 Documents issued by official entities in a foreign country must be attested by the Ministry of Foreign Affairs and the Ministry of Justice in the Kingdom and translated into Arabic by a licensed translation agency.",
+    "source_ar_norm": "11/4– الوثائق الصادرة من الجهات الرسمية في البلد الاجنبي، الواردة من خارج المملكة، يلزم تصديقها من وزارتي الخارجية والعدل، وتترجم الي اللغة العربية من مكتب ترجمة معتمد.",
+    "target_en_norm": "11.4 documents issued by official entities in a foreign country must be attested by the ministry of foreign affairs and the ministry of justice in the kingdom and translated into arabic by a licensed translation agency.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5108,
+    "source_ar": "11/5– يتحقق قاضي التنفيذ من أن الدولة التي صدر فيها الحكم، أو الأمر الأجنبي تتعامل بالمثل مع المملكة، بإفادة رسمية من وزارة العدل.",
+    "target_en": "11.5 The enforcement judge shall ascertain that the country, where the foreign judgment or order is issued, deals with the Kingdom on the basis of reciprocity by virtue of an official statement issued by the Ministry of Justice.",
+    "source_ar_norm": "11/5– يتحقق قاضي التنفيذ من ان الدولة التي صدر فيها الحكم، او الامر الاجنبي تتعامل بالمثل مع المملكة، بافادة رسمية من وزارة العدل.",
+    "target_en_norm": "11.5 the enforcement judge shall ascertain that the country, where the foreign judgment or order is issued, deals with the kingdom on the basis of reciprocity by virtue of an official statement issued by the ministry of justice.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5109,
+    "source_ar": "11/6– لا يجوز تنفيذ الحكم، أو الأمر الأجنبي في القضايا التي تنفرد بالاختصاص بنظرها نظاماً محاكم المملكة، كالدعاوى العينية المتعلقة بعقار داخل المملكة ونحوها.",
+    "target_en": "11.6 A foreign judgment or order may not be enforced in cases falling within the jurisdiction of courts in the Kingdom, such as lawsuits in rem relating to real property in the Kingdom and similar lawsuits.",
+    "source_ar_norm": "11/6– لا يجوز تنفيذ الحكم، او الامر الاجنبي في القضايا التي تنفرد بالاختصاص بنظرها نظاما محاكم المملكة، كالدعاوي العينية المتعلقة بعقار داخل المملكة ونحوها.",
+    "target_en_norm": "11.6 a foreign judgment or order may not be enforced in cases falling within the jurisdiction of courts in the kingdom, such as lawsuits in rem relating to real property in the kingdom and similar lawsuits.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5110,
+    "source_ar": "(المادة الخامسة عشرة)",
+    "target_en": "Article 15",
+    "source_ar_norm": "(المادة الخامسة عشرة)",
+    "target_en_norm": "article 15",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5111,
+    "source_ar": "15/1– إذا تبلغ من نسب إليه ما في الورقة العادية بالحضور، فلم يحضر، أو لم يعرف له محل إقامة لتبليغه، فتحال المعاملة لقاضي الموضوع، إذا طلب الدائن ذلك.",
+    "target_en": "15.1 If the person to whom the content of an ordinary paper is attributed is summoned but fails to appear, or if he has no known place of residence to be served at, the matter shall be referred to the judge having subject matter jurisdiction if the creditor so requests.",
+    "source_ar_norm": "15/1– اذا تبلغ من نسب اليه ما في الورقة العادية بالحضور، فلم يحضر، او لم يعرف له محل اقامة لتبليغه، فتحال المعاملة لقاضي الموضوع، اذا طلب الدائن ذلك.",
+    "target_en_norm": "15.1 if the person to whom the content of an ordinary paper is attributed is summoned but fails to appear, or if he has no known place of residence to be served at, the matter shall be referred to the judge having subject matter jurisdiction if the creditor so requests.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5112,
+    "source_ar": "15/2– إذا أقر المدين بأصل الحق في الورقة العادية، ودفع بالأجل، أو الإبراء، ونحوهما أثبت قاضي التنفيذ ذلك في المحضر، ولم تعد الورقة سنداً تنفيذياً، وتحال المعاملة لقاضي الموضوع، إذا طلب الدائن ذلك.",
+    "target_en": "15.2 If the debtor acknowledges the debt stated in the ordinary paper but claims its date of maturity has not been reached or he has been relieved from such debt, or the like, the enforcement judge shall make a note to this effect in the record, and said paper shall no longer be deemed an enforcement document and the case shall be referred to the judge having subject matter jurisdiction if the creditor so requests.",
+    "source_ar_norm": "15/2– اذا اقر المدين باصل الحق في الورقة العادية، ودفع بالاجل، او الابراء، ونحوهما اثبت قاضي التنفيذ ذلك في المحضر، ولم تعد الورقة سندا تنفيذيا، وتحال المعاملة لقاضي الموضوع، اذا طلب الدائن ذلك.",
+    "target_en_norm": "15.2 if the debtor acknowledges the debt stated in the ordinary paper but claims its date of maturity has not been reached or he has been relieved from such debt, or the like, the enforcement judge shall make a note to this effect in the record, and said paper shall no longer be deemed an enforcement document and the case shall be referred to the judge having subject matter jurisdiction if the creditor so requests.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5113,
+    "source_ar": "15/3– إذا رفع من يحمل ورقة عادية دعواه بموضوعها لقاضي الموضوع، وجب عيه السير في القضية، ويجوز للمدعي ترك دعواه أمامه، وله التقدم حينئذٍ بطلب التنفيذ لدى قاضي التنفيذ.",
+    "target_en": "15.3 If a person in possession of an ordinary paper files a case with the judge having subject matter jurisdiction, said judge shall proceed with the case. The claimant may abandon said case and file for enforcement before the enforcement judge.",
+    "source_ar_norm": "15/3– اذا رفع من يحمل ورقة عادية دعواه بموضوعها لقاضي الموضوع، وجب عيه السير في القضية، ويجوز للمدعي ترك دعواه امامه، وله التقدم حينئذ بطلب التنفيذ لدي قاضي التنفيذ.",
+    "target_en_norm": "15.3 if a person in possession of an ordinary paper files a case with the judge having subject matter jurisdiction, said judge shall proceed with the case. the claimant may abandon said case and file for enforcement before the enforcement judge.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5114,
+    "source_ar": "الفصل الثالث الإفصاح عن الأموال",
+    "target_en": "Chapter 3: Disclosure of Property",
+    "source_ar_norm": "الفصل الثالث الافصاح عن الاموال",
+    "target_en_norm": "chapter 3: disclosure of property",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5115,
+    "source_ar": "(المادة السادسة عشرة)",
+    "target_en": "Article 16",
+    "source_ar_norm": "(المادة السادسة عشرة)",
+    "target_en_norm": "article 16",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5116,
+    "source_ar": "16/1– للقاضي الأمر بتفتيش المدين، أو مركبته، لإجراء الحجز على الأموال الموجودة، ولمأمور التنفيذ الاستعانة بالشرطة أو القوة المختصة عند الاقتضاء.",
+    "target_en": "16.1 The judge may order the search of the debtor or his vehicle in order to carry out attachment of available property. The enforcement officer may seek the assistance of the police or the relevant force, if necessary.",
+    "source_ar_norm": "16/1– للقاضي الامر بتفتيش المدين، او مركبته، لاجراء الحجز علي الاموال الموجودة، ولمامور التنفيذ الاستعانة بالشرطة او القوة المختصة عند الاقتضاء.",
+    "target_en_norm": "16.1 the judge may order the search of the debtor or his vehicle in order to carry out attachment of available property. the enforcement officer may seek the assistance of the police or the relevant force, if necessary.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5117,
+    "source_ar": "(المادة السابعة عشرة)",
+    "target_en": "Article 17",
+    "source_ar_norm": "(المادة السابعة عشرة)",
+    "target_en_norm": "article 17",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5118,
+    "source_ar": "17/1– لقاضي التنفيذ أن يوجه أمره بالإفصاح لغير المذكورين في المادة، إذا قامت لديه قرينة تدل على عملهم بأموال المدين.",
+    "target_en": "17.1 The enforcement judge may issue a disclosure order to persons other than those referred to in the Article if he has reason to believe that they have knowledge of the debtor's property.",
+    "source_ar_norm": "17/1– لقاضي التنفيذ ان يوجه امره بالافصاح لغير المذكورين في المادة، اذا قامت لديه قرينة تدل علي عملهم باموال المدين.",
+    "target_en_norm": "17.1 the enforcement judge may issue a disclosure order to persons other than those referred to in the article if he has reason to believe that they have knowledge of the debtor's property.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5119,
+    "source_ar": "17/2– تعتبر أموال المدين الموجودة في ذمة الجهة تحت الحجز، منذ استلامها رسمياً لأمر الإفصاح، أو الحجز.",
+    "target_en": "17.2 Debtor's property in the possession of the attaching authority shall be deemed subject to attachment from the date of receiving the order for disclosure or attachment.",
+    "source_ar_norm": "17/2– تعتبر اموال المدين الموجودة في ذمة الجهة تحت الحجز، منذ استلامها رسميا لامر الافصاح، او الحجز.",
+    "target_en_norm": "17.2 debtor's property in the possession of the attaching authority shall be deemed subject to attachment from the date of receiving the order for disclosure or attachment.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5120,
+    "source_ar": "17/3– لقاضي التنفيذ عند الاقتضاء أن يأمر بالمنع من السفر لمدين المدين، ومحاسبيه، وموظفيه، لدواعي الإفصاح، أو إنهاء إجراءات الحجز حتى انتهاء الغرض من ذلك، وله طلب إبلاغهم بالحضور إذا كانوا يقيمون خارج المملكة.",
+    "target_en": "17.3 The enforcement judge may, if necessary, order the debtor's debtor, accountants, and employees to be barred from travelling for disclosure purposes or until attachment proceedings are completed. The judge may summon said persons to appear if they are residing outside the Kingdom.",
+    "source_ar_norm": "17/3– لقاضي التنفيذ عند الاقتضاء ان يامر بالمنع من السفر لمدين المدين، ومحاسبيه، وموظفيه، لدواعي الافصاح، او انهاء اجراءات الحجز حتي انتهاء الغرض من ذلك، وله طلب ابلاغهم بالحضور اذا كانوا يقيمون خارج المملكة.",
+    "target_en_norm": "17.3 the enforcement judge may, if necessary, order the debtor's debtor, accountants, and employees to be barred from travelling for disclosure purposes or until attachment proceedings are completed. the judge may summon said persons to appear if they are residing outside the kingdom.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5121,
+    "source_ar": "(المادة الثامنة عشرة)",
+    "target_en": "Article 18",
+    "source_ar_norm": "(المادة الثامنة عشرة)",
+    "target_en_norm": "article 18",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5122,
+    "source_ar": "18/1– تبلغ الجهات المذكورة في هذه المادة، أصحاب الأموال، بما تم الإفصاح عنه من بيانات، بعد ثلاثين يوماً من تاريخ تبلغ قاضي التنفيذ رسمياً بالإفصاح، ما لم يأمر قاضي التنفيذ بخلاف ذلك.",
+    "target_en": "18.1 The bodies or authorities set forth in this Article shall notify property owners of disclosed information upon the lapse of 30 days from the date said disclosure is received by the enforcement judge, unless the enforcement judge orders otherwise.",
+    "source_ar_norm": "18/1– تبلغ الجهات المذكورة في هذه المادة، اصحاب الاموال، بما تم الافصاح عنه من بيانات، بعد ثلاثين يوما من تاريخ تبلغ قاضي التنفيذ رسميا بالافصاح، ما لم يامر قاضي التنفيذ بخلاف ذلك.",
+    "target_en_norm": "18.1 the bodies or authorities set forth in this article shall notify property owners of disclosed information upon the lapse of 30 days from the date said disclosure is received by the enforcement judge, unless the enforcement judge orders otherwise.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5123,
+    "source_ar": "18/2– عدم تبليغ الإدارات المشار إليها في المادة لأصحاب الأموال بما تم الإفصاح عنه لا يؤثر على السير في إجراءات التنفيذ.",
+    "target_en": "18.2 Failure of the departments referred to in the Article to notify property owners of any disclosures made shall not affect enforcement proceedings.",
+    "source_ar_norm": "18/2– عدم تبليغ الادارات المشار اليها في المادة لاصحاب الاموال بما تم الافصاح عنه لا يؤثر علي السير في اجراءات التنفيذ.",
+    "target_en_norm": "18.2 failure of the departments referred to in the article to notify property owners of any disclosures made shall not affect enforcement proceedings.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5124,
+    "source_ar": "(المادة التاسعة عشرة)",
+    "target_en": "Article 19",
+    "source_ar_norm": "(المادة التاسعة عشرة)",
+    "target_en_norm": "article 19",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5125,
+    "source_ar": "19/1– إذا أمر قاضي التنفيذ بالإفصاح عن أموال المدين الموجودة في دولة أخرى، فيكون بواسطة وكالة وزارة العدل لشؤون الحجز والتنفيذ وفق الفقرة (5) من المادة (الثالثة والتسعين) من هذا النظام.",
+    "target_en": "19.1 If the enforcement judge orders the disclosure of the debtor's property located in another country, the same shall be effected through the Deputy Ministry of Justice for Attachment and Enforcement in accordance with Article 93(5) of the Law.",
+    "source_ar_norm": "19/1– اذا امر قاضي التنفيذ بالافصاح عن اموال المدين الموجودة في دولة اخري، فيكون بواسطة وكالة وزارة العدل لشؤون الحجز والتنفيذ وفق الفقرة (5) من المادة (الثالثة والتسعين) من هذا النظام.",
+    "target_en_norm": "19.1 if the enforcement judge orders the disclosure of the debtor's property located in another country, the same shall be effected through the deputy ministry of justice for attachment and enforcement in accordance with article 93(5) of the law.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5126,
+    "source_ar": "19/2– لا يحال أي أمر بالإفصاح من الدول الأخرى لقاضي التنفيذ المختص، إلا بعد تحقق وكالة وزارة العدل لشؤون الحجز والتنفيذ من شرط المعاملة بالمثل، وعدم تأثير الأمر بالإفصاح على الأمن الوطني.",
+    "target_en": "19.2 Disclosure orders from foreign countries may not be referred to the competent enforcement judge except upon verification of the satisfaction of reciprocity treatment requirements by the Deputy Ministry of Justice for Attachment and Enforcement and upon ensuring that such disclosure orders do not undermine national security.",
+    "source_ar_norm": "19/2– لا يحال اي امر بالافصاح من الدول الاخري لقاضي التنفيذ المختص، الا بعد تحقق وكالة وزارة العدل لشؤون الحجز والتنفيذ من شرط المعاملة بالمثل، وعدم تاثير الامر بالافصاح علي الامن الوطني.",
+    "target_en_norm": "19.2 disclosure orders from foreign countries may not be referred to the competent enforcement judge except upon verification of the satisfaction of reciprocity treatment requirements by the deputy ministry of justice for attachment and enforcement and upon ensuring that such disclosure orders do not undermine national security.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5127,
+    "source_ar": "الفصل الرابع الأموال محل التنفيذ",
+    "target_en": "Chapter 4: Assets Subject to Enforcement",
+    "source_ar_norm": "الفصل الرابع الاموال محل التنفيذ",
+    "target_en_norm": "chapter 4: assets subject to enforcement",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5128,
+    "source_ar": "(المادة العشرون)",
+    "target_en": "Article 20",
+    "source_ar_norm": "(المادة العشرون)",
+    "target_en_norm": "article 20",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5129,
+    "source_ar": "20/1– المراد بالمال في هذه المادة هو كل ما ذكر في الفقرة (2) من المادة (الثامنة عشرة) من هذ النظام.",
+    "target_en": "20.1 The term assets as used in this Article shall mean all property set forth in Article 18(2) of the Law.",
+    "source_ar_norm": "20/1– المراد بالمال في هذه المادة هو كل ما ذكر في الفقرة (2) من المادة (الثامنة عشرة) من هذ النظام.",
+    "target_en_norm": "20.1 the term assets as used in this article shall mean all property set forth in article 18(2) of the law.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5130,
+    "source_ar": "20/2– تصرف المحجوز عليه يتعلق بذمته لا بماله المحجوز، وكذا إقراره بعد الحجز، سواء أنسب ما أقر به إلى ما قبل الحجز، أم بعده، أم أطلق فلا يشارك المقر له الحاجزين في المال المحجوز، إلا إذا كان الإقرار قد ثبت صدوره من المقر قبل الحجز عليه، ويتبع المدين بكل ما ذكر بعد انتهاء الحجز، أو فيما زاد على الدين المحجوز لأجله، ولا يلتفت لأي سند تنفيذي ينشأ بعد إعلان الحجز، ما لم يكن حكما مبنياً على غير إقرار المحجوز عليه، أو نكوله.",
+    "target_en": "20.2 Actions taken by the person against whom attachment is carried out shall be limited to non-attached assets, and so shall his acknowledgment after attachment, whether such acknowledgment is attributed to the period prior to attachment or thereafter or regardless of the date of such attachment in which case the party for whose benefit the acknowledgment is made may not have a share with the attaching creditors in the attached assets, unless it is established that such person has issued said acknowledgment prior to attachment. The debtor shall be held accountable for any statement made by him at the end of the attachment or for any amount in excess of the debt for which such assets are attached. Any enforcement document issued after attachment shall have no legal effect, unless it is a judgment based on the nonacknowledgment of the person subject to attachment or the withdrawal of such acknowledgment.",
+    "source_ar_norm": "20/2– تصرف المحجوز عليه يتعلق بذمته لا بماله المحجوز، وكذا اقراره بعد الحجز، سواء انسب ما اقر به الي ما قبل الحجز، ام بعده، ام اطلق فلا يشارك المقر له الحاجزين في المال المحجوز، الا اذا كان الاقرار قد ثبت صدوره من المقر قبل الحجز عليه، ويتبع المدين بكل ما ذكر بعد انتهاء الحجز، او فيما زاد علي الدين المحجوز لاجله، ولا يلتفت لاي سند تنفيذي ينشا بعد اعلان الحجز، ما لم يكن حكما مبنيا علي غير اقرار المحجوز عليه، او نكوله.",
+    "target_en_norm": "20.2 actions taken by the person against whom attachment is carried out shall be limited to non-attached assets, and so shall his acknowledgment after attachment, whether such acknowledgment is attributed to the period prior to attachment or thereafter or regardless of the date of such attachment in which case the party for whose benefit the acknowledgment is made may not have a share with the attaching creditors in the attached assets, unless it is established that such person has issued said acknowledgment prior to attachment. the debtor shall be held accountable for any statement made by him at the end of the attachment or for any amount in excess of the debt for which such assets are attached. any enforcement document issued after attachment shall have no legal effect, unless it is a judgment based on the nonacknowledgment of the person subject to attachment or the withdrawal of such acknowledgment.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5131,
+    "source_ar": "20/3– إن ارتاب القاضي في دين يمكن أن يكون محلاً للتواطؤ، أو الحيل، أو الكذب، فله التحقق من ذلك بأي إجراء يراه مناسباً، وله طلب التحقيق من قبل هيئة التحقيق والادعاء العام.",
+    "target_en": "20.3 If the judge suspects that a debt is the subject of collusion, deceit, or misrepresentation of facts, said judge may verify the same by any means he deems fit and may request the Bureau of Investigation and Public Prosecution to investigate the matter.",
+    "source_ar_norm": "20/3– ان ارتاب القاضي في دين يمكن ان يكون محلا للتواطؤ، او الحيل، او الكذب، فله التحقق من ذلك باي اجراء يراه مناسبا، وله طلب التحقيق من قبل هيئة التحقيق والادعاء العام.",
+    "target_en_norm": "20.3 if the judge suspects that a debt is the subject of collusion, deceit, or misrepresentation of facts, said judge may verify the same by any means he deems fit and may request the bureau of investigation and public prosecution to investigate the matter.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5132,
+    "source_ar": "20/4– الدائنون الذين تعلقت ديونهم بذمة المدين قبل إيقاع الحجز، يتساوون في تعلق حقوقهم بالمال المحجوز عليه، إلا ما استثني شرعاً.",
+    "target_en": "20.4 Creditors to whom the debtor became indebted prior to attachment shall have equal rights vis-a-vis the attached property, except as provided otherwise by Sharia.",
+    "source_ar_norm": "20/4– الدائنون الذين تعلقت ديونهم بذمة المدين قبل ايقاع الحجز، يتساوون في تعلق حقوقهم بالمال المحجوز عليه، الا ما استثني شرعا.",
+    "target_en_norm": "20.4 creditors to whom the debtor became indebted prior to attachment shall have equal rights vis-a-vis the attached property, except as provided otherwise by sharia.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5133,
+    "source_ar": "20/5– تبدأ آثار الحجز التنفيذي في عدم نفاذ تصرفات المدين في أمواله، من وقت صدور أم القاضي ساعةً وتاريخاً، وإذا كان الحجز تحفظياً فعدم النفاذ يبدأ من تاريخ إبلاغ المحجوز عليه أو المحجوز لديه، أو من تاريخ نشر الإبلاغ عند تعذر تبليغ المحجوز عليه.",
+    "target_en": "20.5 The attachment order shall, upon issuance, result in the invalidity of the debtor's dispossession of his assets. In case of a provisional attachment, said invalidity shall commence from the date of notification of the defendant or the garnishee, or from the date of publication of the notice if service of such defendant is not feasible.",
+    "source_ar_norm": "20/5– تبدا اثار الحجز التنفيذي في عدم نفاذ تصرفات المدين في امواله، من وقت صدور ام القاضي ساعة وتاريخا، واذا كان الحجز تحفظيا فعدم النفاذ يبدا من تاريخ ابلاغ المحجوز عليه او المحجوز لديه، او من تاريخ نشر الابلاغ عند تعذر تبليغ المحجوز عليه.",
+    "target_en_norm": "20.5 the attachment order shall, upon issuance, result in the invalidity of the debtor's dispossession of his assets. in case of a provisional attachment, said invalidity shall commence from the date of notification of the defendant or the garnishee, or from the date of publication of the notice if service of such defendant is not feasible.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5134,
+    "source_ar": "20/6– مع مراعاة ما ورد في المادة الحادية والعشرين يُعدُّ كل مالٍ مسجلٍ باسم المدين قابلاً للحجزِ ولو ادَّعاه غيره، ولا يُرفع الحجز عنه إلا بعد ثبوت ملكية غيره له.",
+    "target_en": "20.6 Notwithstanding the provisions of Article 21, any asset registered under the name of the debtor may be subject to attachment even if claimed by a third party, and such attachment may not be removed except upon the establishment of the third party's ownership thereof.",
+    "source_ar_norm": "20/6– مع مراعاة ما ورد في المادة الحادية والعشرين يعد كل مال مسجل باسم المدين قابلا للحجز ولو ادعاه غيره، ولا يرفع الحجز عنه الا بعد ثبوت ملكية غيره له.",
+    "target_en_norm": "20.6 notwithstanding the provisions of article 21, any asset registered under the name of the debtor may be subject to attachment even if claimed by a third party, and such attachment may not be removed except upon the establishment of the third party's ownership thereof.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5135,
+    "source_ar": "(المادة الحادية والعشرون)",
+    "target_en": "Article 21",
+    "source_ar_norm": "(المادة الحادية والعشرون)",
+    "target_en_norm": "article 21",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5136,
+    "source_ar": "21/1– المقصود بالمال الممنوع من الحجز والتنفيذ عليه في الفقرة (1) من هذه المادة، هو ما انفردت الدولة بملكيته، وأما ما تملك فيه الدولة حصصاً شائعة فيجوز الحجز والتنفيذ على غير مقدار حصصها، ويراعي قاضي التنفيذ في ذلك عدم لحوق الضرر العام.",
+    "target_en": "21.1 Assets not subject to attachment and enforcement as provided for in paragraph (1) of this Article are assets solely owned by the State. As for assets in which the State holds common shares, attachment may be imposed on other than state-owned shares. In this respect, the enforcement judge shall take into consideration public interest.",
+    "source_ar_norm": "21/1– المقصود بالمال الممنوع من الحجز والتنفيذ عليه في الفقرة (1) من هذه المادة، هو ما انفردت الدولة بملكيته، واما ما تملك فيه الدولة حصصا شائعة فيجوز الحجز والتنفيذ علي غير مقدار حصصها، ويراعي قاضي التنفيذ في ذلك عدم لحوق الضرر العام.",
+    "target_en_norm": "21.1 assets not subject to attachment and enforcement as provided for in paragraph (1) of this article are assets solely owned by the state. as for assets in which the state holds common shares, attachment may be imposed on other than state-owned shares. in this respect, the enforcement judge shall take into consideration public interest.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5137,
+    "source_ar": "21/2– إثبات الإعالة لغرض تقدير الكفاية عند التنازع، من اختصاص قاضي التنفيذ.",
+    "target_en": "21.2 Establishing the debtor’s dependents for the purpose of determining the adequacy of financial support provided to said dependents shall fall within the jurisdiction of the enforcement judge.",
+    "source_ar_norm": "21/2– اثبات الاعالة لغرض تقدير الكفاية عند التنازع، من اختصاص قاضي التنفيذ.",
+    "target_en_norm": "21.2 establishing the debtor’s dependents for the purpose of determining the adequacy of financial support provided to said dependents shall fall within the jurisdiction of the enforcement judge.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5138,
+    "source_ar": "21/3– المراد بالرهن المذكور في الفقرة (2) من هذه المادة، هو الرهن الموثق لدى الجهة العدلية المختصة، أو ما أقر به الدائن.",
+    "target_en": "21.3 The pledge provided for in paragraph (2) of this Article shall mean the pledge notarized by the competent notary public or acknowledged by the creditor.",
+    "source_ar_norm": "21/3– المراد بالرهن المذكور في الفقرة (2) من هذه المادة، هو الرهن الموثق لدي الجهة العدلية المختصة، او ما اقر به الدائن.",
+    "target_en_norm": "21.3 the pledge provided for in paragraph (2) of this article shall mean the pledge notarized by the competent notary public or acknowledged by the creditor.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5139,
+    "source_ar": "21/4– تقيد الفقرات (2، 3، 5، 6) من هذه المادة بما لم تكن الدار، أو وسيلة النقل، أو المستلزمات المذكورة هي عين مال الدائن، فله حق الرجوع بها، بالشروط المقررة شرعاً.",
+    "target_en": "21.4 Paragraphs (2), (3), (5), and (6) of this Article shall apply to cases where the dwelling, means of transport, or chattels set forth therein are not owned by the creditor; in such case, the creditor shall have the right to reclaim possession thereof in accordance with Sharia.",
+    "source_ar_norm": "21/4– تقيد الفقرات (2، 3، 5، 6) من هذه المادة بما لم تكن الدار، او وسيلة النقل، او المستلزمات المذكورة هي عين مال الدائن، فله حق الرجوع بها، بالشروط المقررة شرعا.",
+    "target_en_norm": "21.4 paragraphs (2), (3), (5), and (6) of this article shall apply to cases where the dwelling, means of transport, or chattels set forth therein are not owned by the creditor; in such case, the creditor shall have the right to reclaim possession thereof in accordance with sharia.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5140,
+    "source_ar": "21/5– يدخل في الأجور والرواتب، ما يلحق بهما من بدلات، وحوافز، ومكافآت، ونحوها.",
+    "target_en": "21.5 Wages and salaries shall include benefits associated therewith, such as allowances, incentives, bonuses, and the like.",
+    "source_ar_norm": "21/5– يدخل في الاجور والرواتب، ما يلحق بهما من بدلات، وحوافز، ومكافات، ونحوها.",
+    "target_en_norm": "21.5 wages and salaries shall include benefits associated therewith, such as allowances, incentives, bonuses, and the like.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5141,
+    "source_ar": "21/6– المقصود بالمنع من الحجز والتنفيذ في الفقرة رقم (4) من هذه المادة، الأجر، والراتب المستقبلي، ولا يدخل فيه ما اجتمع من هذا الأجر والراتب في الزمن السابق، وفضل عن نفقة المدين ونفقة من يعول.",
+    "target_en": "21.6 Assets not subject to attachment and enforcement as referred to in paragraph (4) of this Article shall include the prospective wage or salary, and shall not include any amounts from previous wages or salaries which are in excess of the living expenses of the debtor and his dependents.",
+    "source_ar_norm": "21/6– المقصود بالمنع من الحجز والتنفيذ في الفقرة رقم (4) من هذه المادة، الاجر، والراتب المستقبلي، ولا يدخل فيه ما اجتمع من هذا الاجر والراتب في الزمن السابق، وفضل عن نفقة المدين ونفقة من يعول.",
+    "target_en_norm": "21.6 assets not subject to attachment and enforcement as referred to in paragraph (4) of this article shall include the prospective wage or salary, and shall not include any amounts from previous wages or salaries which are in excess of the living expenses of the debtor and his dependents.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5142,
+    "source_ar": "21/7– إذا وافق المدين على أن يحجز على مقدار أكثر مما ورد في المادة فيما لا يجوز الحجز عليه من رواتب، وأجور، فيحجز قاضي التنفيذ على قدر ما يقرره المدين، ويؤخذ إقرار في المحضر على المدين بذلك.",
+    "target_en": "21.7 If the debtor consents to the attachment of assets in excess of what is provided for in this Article with respect to wages and salaries not subject to attachment, the enforcement judge shall impose an attachment to the extent approved by the debtor and an acknowledgment by the debtor to this effect shall be entered in the record.",
+    "source_ar_norm": "21/7– اذا وافق المدين علي ان يحجز علي مقدار اكثر مما ورد في المادة فيما لا يجوز الحجز عليه من رواتب، واجور، فيحجز قاضي التنفيذ علي قدر ما يقرره المدين، ويؤخذ اقرار في المحضر علي المدين بذلك.",
+    "target_en_norm": "21.7 if the debtor consents to the attachment of assets in excess of what is provided for in this article with respect to wages and salaries not subject to attachment, the enforcement judge shall impose an attachment to the extent approved by the debtor and an acknowledgment by the debtor to this effect shall be entered in the record.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5143,
+    "source_ar": "21/8– لا يمنع عدم الحجز المذكور في الفقرة رقم (5) من هذه المادة، الحجز على كسب المدين من مهنته، أو حرفته إذا كان فاضلاً عن كفايته، وكفاية من يعوله شرعاً.",
+    "target_en": "21.8 The non-attachment provided for in paragraph (5) of this Article shall not apply to the debtor's financial gain from his profession or vocation if in excess of his need and the needs of his dependents.",
+    "source_ar_norm": "21/8– لا يمنع عدم الحجز المذكور في الفقرة رقم (5) من هذه المادة، الحجز علي كسب المدين من مهنته، او حرفته اذا كان فاضلا عن كفايته، وكفاية من يعوله شرعا.",
+    "target_en_norm": "21.8 the non-attachment provided for in paragraph (5) of this article shall not apply to the debtor's financial gain from his profession or vocation if in excess of his need and the needs of his dependents.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5144,
+    "source_ar": "(المادة الثانية والعشرون)",
+    "target_en": "Article 22",
+    "source_ar_norm": "(المادة الثانية والعشرون)",
+    "target_en_norm": "article 22",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5145,
+    "source_ar": "22/1– إذا خصص قاضي التنفيذ الأموال المنفذ عليها من مجموع ما تم الإفصاح عنه، والحجز عليه، فيُشعر الجهات الأخرى بالتوقف عن الإفصاح، وفك الحجز عما عداها.",
+    "target_en": "22.1 If the enforcement judge designates the assets subject to enforcement from the disclosed and attached property, he shall notify the other entities to cease disclosure and release remaining assets from attachment.",
+    "source_ar_norm": "22/1– اذا خصص قاضي التنفيذ الاموال المنفذ عليها من مجموع ما تم الافصاح عنه، والحجز عليه، فيشعر الجهات الاخري بالتوقف عن الافصاح، وفك الحجز عما عداها.",
+    "target_en_norm": "22.1 if the enforcement judge designates the assets subject to enforcement from the disclosed and attached property, he shall notify the other entities to cease disclosure and release remaining assets from attachment.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5146,
+    "source_ar": "22/2– إذا رغب المحجوز على أمواله إيداع مبلغ يفي بكامل الدين، فيلزمه حينئذٍ سداد جميع مصروفات الحجز والتنفيذ، ولا يزول الحجز إلا بسدادها.",
+    "target_en": "22.2 If the party subject to attachment wishes to deposit an amount that satisfies the entire debt, he shall pay all attachment and enforcement expenses. Otherwise, attachment may not be removed.",
+    "source_ar_norm": "22/2– اذا رغب المحجوز علي امواله ايداع مبلغ يفي بكامل الدين، فيلزمه حينئذ سداد جميع مصروفات الحجز والتنفيذ، ولا يزول الحجز الا بسدادها.",
+    "target_en_norm": "22.2 if the party subject to attachment wishes to deposit an amount that satisfies the entire debt, he shall pay all attachment and enforcement expenses. otherwise, attachment may not be removed.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5147,
+    "source_ar": "22/3– كل ما ترتب على الحجز التنفيذي من مصروفات يتحملها المدين، ما لم يظهر للقاضي أن السبب عائد لغيره فيتحملها ذلك المتسبب.",
+    "target_en": "22.3 All expenses arising from attachment shall be incurred by the debtor, unless the judge determines that the attachment is caused by another person; in which case, said person shall incur the expenses.",
+    "source_ar_norm": "22/3– كل ما ترتب علي الحجز التنفيذي من مصروفات يتحملها المدين، ما لم يظهر للقاضي ان السبب عائد لغيره فيتحملها ذلك المتسبب.",
+    "target_en_norm": "22.3 all expenses arising from attachment shall be incurred by the debtor, unless the judge determines that the attachment is caused by another person; in which case, said person shall incur the expenses.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5148,
+    "source_ar": "22/4– إذا اقتضى الحال تسليم مصروفات التنفيذ، فيسلمها المدين فإن امتنع سلمها الدائن، وإلا فيتوقف عن إجراءات التنفيذ.",
+    "target_en": "22.4 If the case requires enforcement expenses to be paid, they shall be paid by the debtor or, if he abstains, by the creditor; otherwise, enforcement proceedings shall be suspended.",
+    "source_ar_norm": "22/4– اذا اقتضي الحال تسليم مصروفات التنفيذ، فيسلمها المدين فان امتنع سلمها الدائن، والا فيتوقف عن اجراءات التنفيذ.",
+    "target_en_norm": "22.4 if the case requires enforcement expenses to be paid, they shall be paid by the debtor or, if he abstains, by the creditor; otherwise, enforcement proceedings shall be suspended.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5149,
+    "source_ar": "22/5– إذا اتفق الطرفان على إنهاء الحجز والتنفيذ، فلا بد أن يتضمن الاتفاق تحديد من يتحمل مصروفات التنفيذ – إن وجدت -.",
+    "target_en": "22.5 If the parties agree to terminate attachment and enforcement, such agreement shall determine the party which shall incur enforcement expenses, if any.",
+    "source_ar_norm": "22/5– اذا اتفق الطرفان علي انهاء الحجز والتنفيذ، فلا بد ان يتضمن الاتفاق تحديد من يتحمل مصروفات التنفيذ – ان وجدت -.",
+    "target_en_norm": "22.5 if the parties agree to terminate attachment and enforcement, such agreement shall determine the party which shall incur enforcement expenses, if any.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5150,
+    "source_ar": "22/6– متى قرر القاضي رفع الحجز، ارتفع كل ما كان مبنياً عليه، ما لم يقرر القاضي خلاف ذلك.",
+    "target_en": "22.6 If the judge decides to remove attachment, all effects of such attachment shall be removed, unless the judge decides otherwise.",
+    "source_ar_norm": "22/6– متي قرر القاضي رفع الحجز، ارتفع كل ما كان مبنيا عليه، ما لم يقرر القاضي خلاف ذلك.",
+    "target_en_norm": "22.6 if the judge decides to remove attachment, all effects of such attachment shall be removed, unless the judge decides otherwise.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5151,
+    "source_ar": "الباب الثاني الحجز التحفظي",
+    "target_en": "Part 2: Provisional Attachment",
+    "source_ar_norm": "الباب الثاني الحجز التحفظي",
+    "target_en_norm": "part 2: provisional attachment",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5152,
+    "source_ar": "(المادة الثالثة والعشرون)",
+    "target_en": "Article 23",
+    "source_ar_norm": "(المادة الثالثة والعشرون)",
+    "target_en_norm": "article 23",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5153,
+    "source_ar": "23/1– إذا حصل تدافع بين قاضي الموضوع، وقاضي التنفيذ في الاختصاص، فيختص القاضي المحالُ إليه الطلب ابتداءً بالحجز التحفظي، وإذا انقضى التدافع، فيكون استدامة الحجز، ورفعه من اختصاص من استقر الأمر باختصاصه بالنظر.",
+    "target_en": "23.1 In the event of a jurisdictional conflict between the trial judge and enforcement judge, jurisdiction shall be vested with the judge with whom the motion for provisional attachment was initially filed. If such conflict is resolved, the judge having jurisdiction shall decide whether to maintain or remove the attachment.",
+    "source_ar_norm": "23/1– اذا حصل تدافع بين قاضي الموضوع، وقاضي التنفيذ في الاختصاص، فيختص القاضي المحال اليه الطلب ابتداء بالحجز التحفظي، واذا انقضي التدافع، فيكون استدامة الحجز، ورفعه من اختصاص من استقر الامر باختصاصه بالنظر.",
+    "target_en_norm": "23.1 in the event of a jurisdictional conflict between the trial judge and enforcement judge, jurisdiction shall be vested with the judge with whom the motion for provisional attachment was initially filed. if such conflict is resolved, the judge having jurisdiction shall decide whether to maintain or remove the attachment.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5154,
+    "source_ar": "(المادة الرابعة والعشرون)",
+    "target_en": "Article 24",
+    "source_ar_norm": "(المادة الرابعة والعشرون)",
+    "target_en_norm": "article 24",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5155,
+    "source_ar": "24/1– إذا لم يكن للمحجوز عليه محل إقامة ثابت في المملكة، فيقدم طلب الحجز التحفظي إلى المحكمة التي يقع في نطاق اختصاصها محل إقامة دائن.",
+    "target_en": "24.1 If the party subject to attachment does not have a domicile in the Kingdom, the petition for provisional attachment shall be filed with the court within whose jurisdiction the creditor's domicile is located.",
+    "source_ar_norm": "24/1– اذا لم يكن للمحجوز عليه محل اقامة ثابت في المملكة، فيقدم طلب الحجز التحفظي الي المحكمة التي يقع في نطاق اختصاصها محل اقامة دائن.",
+    "target_en_norm": "24.1 if the party subject to attachment does not have a domicile in the kingdom, the petition for provisional attachment shall be filed with the court within whose jurisdiction the creditor's domicile is located.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5156,
+    "source_ar": "24/2– يحق للدائن طلب الحجز التحفظي، في كل حالة يخشى فيها فوات حقه.",
+    "target_en": "24.2 A creditor shall be entitled to file a petition for provisional attachment in cases where he fears that his rights may otherwise be undermined.",
+    "source_ar_norm": "24/2– يحق للدائن طلب الحجز التحفظي، في كل حالة يخشي فيها فوات حقه.",
+    "target_en_norm": "24.2 a creditor shall be entitled to file a petition for provisional attachment in cases where he fears that his rights may otherwise be undermined.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5157,
+    "source_ar": "24/3– جميع أموال المدين قابلة للحجز التحفظي، سواءً أكانت منقولاً، أم عقاراً، أم غيرهما.",
+    "target_en": "24.3 All debtor’s assets shall be provisionally attachable, whether they are movables, real property or otherwise.",
+    "source_ar_norm": "24/3– جميع اموال المدين قابلة للحجز التحفظي، سواء اكانت منقولا، ام عقارا، ام غيرهما.",
+    "target_en_norm": "24.3 all debtor’s assets shall be provisionally attachable, whether they are movables, real property or otherwise.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5158,
+    "source_ar": "(المادة الخامسة والعشرون)",
+    "target_en": "Article 25",
+    "source_ar_norm": "(المادة الخامسة والعشرون)",
+    "target_en_norm": "article 25",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5159,
+    "source_ar": "25/1– متى ثبت أن المنقول، أو الثمار المحجوزة تحفظياً مملوكةً لمستأجر آخر، فينتقل الحجز التحفظي تلقائياً منها إلى الأجرة.",
+    "target_en": "25.1 If it is established that provisionally attached movable assets or fruits are owned by another lessee, provisional attachment shall be transferred to the rent automatically.",
+    "source_ar_norm": "25/1– متي ثبت ان المنقول، او الثمار المحجوزة تحفظيا مملوكة لمستاجر اخر، فينتقل الحجز التحفظي تلقائيا منها الي الاجرة.",
+    "target_en_norm": "25.1 if it is established that provisionally attached movable assets or fruits are owned by another lessee, provisional attachment shall be transferred to the rent automatically.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5160,
+    "source_ar": "(المادة السابعة والعشرون)",
+    "target_en": "Article 27",
+    "source_ar_norm": "(المادة السابعة والعشرون)",
+    "target_en_norm": "article 27",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5161,
+    "source_ar": "27/1– تودع الأموال النقدية بشيك مصرفي باسم رئيس المحكمة.",
+    "target_en": "27.1 Cash payments shall be made by a cashier's check in the name of the head of the court.",
+    "source_ar_norm": "27/1– تودع الاموال النقدية بشيك مصرفي باسم رئيس المحكمة.",
+    "target_en_norm": "27.1 cash payments shall be made by a cashier's check in the name of the head of the court.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5162,
+    "source_ar": "27/2– الحجز التحفظي يشمل، ما للمدين عند الأفراد، والمؤسسات، والشركات، والجهات الحكومية والمنشآت المالية، وغيرها.",
+    "target_en": "27.2 Provisional attachment shall include the debtor's property held by individuals, sole proprietorships, companies, government agencies, financial institutions, and others.",
+    "source_ar_norm": "27/2– الحجز التحفظي يشمل، ما للمدين عند الافراد، والمؤسسات، والشركات، والجهات الحكومية والمنشات المالية، وغيرها.",
+    "target_en_norm": "27.2 provisional attachment shall include the debtor's property held by individuals, sole proprietorships, companies, government agencies, financial institutions, and others.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5163,
+    "source_ar": "27/3– يُبلغ المحجوز لديه وفق الفقرة (3) من المادة (الرابعة والثلاثين) ولوائحها التنفيذية.",
+    "target_en": "27.3 Service on the garnishee shall be made in accordance with Article 34(3) of the Law and related provisions provided for herein.",
+    "source_ar_norm": "27/3– يبلغ المحجوز لديه وفق الفقرة (3) من المادة (الرابعة والثلاثين) ولوائحها التنفيذية.",
+    "target_en_norm": "27.3 service on the garnishee shall be made in accordance with article 34(3) of the law and related provisions provided for herein.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5164,
+    "source_ar": "27/4– تبدأ مدة العشرة أيام المنصوص عليها في هذه المادة، من اليوم التالي لتبليغ المحجوز لديه.",
+    "target_en": "27.4 The ten-day period stipulated in this Article shall commence on the day following the day the garnishee is served.",
+    "source_ar_norm": "27/4– تبدا مدة العشرة ايام المنصوص عليها في هذه المادة، من اليوم التالي لتبليغ المحجوز لديه.",
+    "target_en_norm": "27.4 the ten-day period stipulated in this article shall commence on the day following the day the garnishee is served.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5165,
+    "source_ar": "27/5– يُقدّر القاضي ما يستحقه المحجوز لديه من نفقات لمصلحة المال المحجوز، ليخصمها مما في ذمته بعد طلبه.",
+    "target_en": "27.5 The judge shall assess the amounts paid by the garnishee for the benefit of the attached assets, to be deducted from his liabilities if he so requests.",
+    "source_ar_norm": "27/5– يقدر القاضي ما يستحقه المحجوز لديه من نفقات لمصلحة المال المحجوز، ليخصمها مما في ذمته بعد طلبه.",
+    "target_en_norm": "27.5 the judge shall assess the amounts paid by the garnishee for the benefit of the attached assets, to be deducted from his liabilities if he so requests.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5166,
+    "source_ar": "27/6– يُعفى المحجوز لديه من الإقرار في الأحوال التالية:",
+    "target_en": "27.6 The garnishee shall be exempted from making a declaration if:",
+    "source_ar_norm": "27/6– يعفي المحجوز لديه من الاقرار في الاحوال التالية:",
+    "target_en_norm": "27.6 the garnishee shall be exempted from making a declaration if:",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5167,
+    "source_ar": "أ - إذا أودع هو، أو غيره في حساب المحكمة، مبلغاً مساوياً للدين المحجوز من أجله.",
+    "target_en": "he or another person deposits into the court's account an amount equal to the debt for which the attachment is made;",
+    "source_ar_norm": "ا - اذا اودع هو، او غيره في حساب المحكمة، مبلغا مساويا للدين المحجوز من اجله.",
+    "target_en_norm": "he or another person deposits into the court's account an amount equal to the debt for which the attachment is made;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5168,
+    "source_ar": "ب – إذا أودع هو، أو غيره في حساب المحكمة، مبلغاً يعادل قيمة ما يراد حجزه لديه بعد تقديره من القاضي الذي ينظر في طلب الحجز.",
+    "target_en": "he or another person deposits into the court's account an amount equal to the value of the assets sought for attachment as assessed by the judge considering the petition for attachment;",
+    "source_ar_norm": "ب – اذا اودع هو، او غيره في حساب المحكمة، مبلغا يعادل قيمة ما يراد حجزه لديه بعد تقديره من القاضي الذي ينظر في طلب الحجز.",
+    "target_en_norm": "he or another person deposits into the court's account an amount equal to the value of the assets sought for attachment as assessed by the judge considering the petition for attachment;",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5169,
+    "source_ar": "ج – إذا قام المحجوز لديه بوفاء دين الحاجز بناء على طلب المحجوز عليه.",
+    "target_en": "he satisfies the debt owed to the claimant upon the defendant’s request; or",
+    "source_ar_norm": "ج – اذا قام المحجوز لديه بوفاء دين الحاجز بناء علي طلب المحجوز عليه.",
+    "target_en_norm": "he satisfies the debt owed to the claimant upon the defendant’s request; or",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5170,
+    "source_ar": "د – إذا قام المحجوز لديه من تلقاء نفسه بإيداع ما لديه في حساب المحكمة.",
+    "target_en": "he voluntarily deposits any funds held by him into the court's account.",
+    "source_ar_norm": "د – اذا قام المحجوز لديه من تلقاء نفسه بايداع ما لديه في حساب المحكمة.",
+    "target_en_norm": "he voluntarily deposits any funds held by him into the court's account.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5171,
+    "source_ar": "27/7– يُراعي قاضي التنفيذ المدد النظامية المصرفية حيال إيداع وصرف الشيكات والضمانات البنكية.",
+    "target_en": "27.7 The enforcement judge shall observe statutory time limits with respect to depositing and cashing bank checks and guarantees.",
+    "source_ar_norm": "27/7– يراعي قاضي التنفيذ المدد النظامية المصرفية حيال ايداع وصرف الشيكات والضمانات البنكية.",
+    "target_en_norm": "27.7 the enforcement judge shall observe statutory time limits with respect to depositing and cashing bank checks and guarantees.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5172,
+    "source_ar": "27/8– إذا امتنع المحجوز لديه من الإقرار بما في ذمته من الديون والأعيان، أو قرر غير الحقيقة، فللدائن بعد الحكم له بحقه المطالبة بالتنفيذ على أموال المحجوز لديه، والمطالبة بالتعويض عن أضرار التقاضي التي لحقته بسبب امتناع المحجوز لديه عن الإقرار، او إقراره بما يخالف الحقيقة.",
+    "target_en": "27.8 If the garnishee refuses to make a declaration of his debts and assets, or if he provides a false declaration, the creditor may, after a favorable judgment, seek enforcement against the garnishee's assets, and seek indemnification for any damages arising from litigation he may have incurred due to the garnishee's refusal to make a declaration or due to providing a false declaration.",
+    "source_ar_norm": "27/8– اذا امتنع المحجوز لديه من الاقرار بما في ذمته من الديون والاعيان، او قرر غير الحقيقة، فللدائن بعد الحكم له بحقه المطالبة بالتنفيذ علي اموال المحجوز لديه، والمطالبة بالتعويض عن اضرار التقاضي التي لحقته بسبب امتناع المحجوز لديه عن الاقرار، او اقراره بما يخالف الحقيقة.",
+    "target_en_norm": "27.8 if the garnishee refuses to make a declaration of his debts and assets, or if he provides a false declaration, the creditor may, after a favorable judgment, seek enforcement against the garnishee's assets, and seek indemnification for any damages arising from litigation he may have incurred due to the garnishee's refusal to make a declaration or due to providing a false declaration.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5173,
+    "source_ar": "27/9– إذا قرر المحجوز لديه بما في ذمته تقريراً صحيحاً، وامتنع عن الإيداع خلال المدة المحددة، فللدائن المحكوم له بموجب الحكم الصادر على المدين، التنفيذ على المحجوز لديه بما لا يزيد على المال المحجوز، دون الحاجة إلى إجراء حجز جديد، ويُعدّ قرار الحجز سنداً تنفيذياً في حق المحجوز لديه.",
+    "target_en": "27.9 If the garnishee makes an accurate declaration of his liabilities and abstains from depositing within the specified period, the creditor, in whose favor the judgment is rendered, may enforce against the garnishee’s assets to an extent not exceeding the value of the attached assets, without the need for a new attachment, and the attachment decision shall be deemed an enforcement document against the garnishee.",
+    "source_ar_norm": "27/9– اذا قرر المحجوز لديه بما في ذمته تقريرا صحيحا، وامتنع عن الايداع خلال المدة المحددة، فللدائن المحكوم له بموجب الحكم الصادر علي المدين، التنفيذ علي المحجوز لديه بما لا يزيد علي المال المحجوز، دون الحاجة الي اجراء حجز جديد، ويعد قرار الحجز سندا تنفيذيا في حق المحجوز لديه.",
+    "target_en_norm": "27.9 if the garnishee makes an accurate declaration of his liabilities and abstains from depositing within the specified period, the creditor, in whose favor the judgment is rendered, may enforce against the garnishee’s assets to an extent not exceeding the value of the attached assets, without the need for a new attachment, and the attachment decision shall be deemed an enforcement document against the garnishee.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5174,
+    "source_ar": "(المادة الثامنة والعشرون)",
+    "target_en": "Article 28",
+    "source_ar_norm": "(المادة الثامنة والعشرون)",
+    "target_en_norm": "article 28",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5175,
+    "source_ar": "28/1– تقدير ظهور الحق عائد لسلطة القاضي التقديرية.",
+    "target_en": "28.1 The establishment of right shall be subject to the judge's discretion.",
+    "source_ar_norm": "28/1– تقدير ظهور الحق عائد لسلطة القاضي التقديرية.",
+    "target_en_norm": "28.1 the establishment of right shall be subject to the judge's discretion.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5176,
+    "source_ar": "28/2– إذا كان بعض الدين حالاًّ، وبعضه لم يحل، فيوقع الحجز التحفظي بمقدار الدين الحال، دون المؤجل.",
+    "target_en": "28.2 If part of the debt is due, provisional attachment shall be imposed to the extent equal to such part.",
+    "source_ar_norm": "28/2– اذا كان بعض الدين حالا، وبعضه لم يحل، فيوقع الحجز التحفظي بمقدار الدين الحال، دون المؤجل.",
+    "target_en_norm": "28.2 if part of the debt is due, provisional attachment shall be imposed to the extent equal to such part.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5177,
+    "source_ar": "(المادة التاسعة والعشرون)",
+    "target_en": "Article 29",
+    "source_ar_norm": "(المادة التاسعة والعشرون)",
+    "target_en_norm": "article 29",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5178,
+    "source_ar": "29/1– للقاضي أن يطلب من أي جهة مختصة عند الاقتضاء إجراء التحقيق اللازم.",
+    "target_en": "29.1 The judge may, if necessary, request any relevant agency to conduct the necessary investigation.",
+    "source_ar_norm": "29/1– للقاضي ان يطلب من اي جهة مختصة عند الاقتضاء اجراء التحقيق اللازم.",
+    "target_en_norm": "29.1 the judge may, if necessary, request any relevant agency to conduct the necessary investigation.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5179,
+    "source_ar": "(المادة الثلاثون)",
+    "target_en": "Article 30",
+    "source_ar_norm": "(المادة الثلاثون)",
+    "target_en_norm": "article 30",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5180,
+    "source_ar": "30/1– يحال طلب الحجز التحفظي إلى قاضي الموضوع الذي نظر الدعوى الأصلية، وإذا كان طلب الحجز التحفظي سابقاً للدعوى الأصلية، فيكون المختص بنظرها، القاضي الذي أحيل إليه طلب الحجز التحفظي.",
+    "target_en": "30.1 The petition for provisional attachment shall be referred to the trial judge considering the original suit and if such petition is filed prior to the original suit, such suit shall be considered by the judge to whom such petition is referred.",
+    "source_ar_norm": "30/1– يحال طلب الحجز التحفظي الي قاضي الموضوع الذي نظر الدعوي الاصلية، واذا كان طلب الحجز التحفظي سابقا للدعوي الاصلية، فيكون المختص بنظرها، القاضي الذي احيل اليه طلب الحجز التحفظي.",
+    "target_en_norm": "30.1 the petition for provisional attachment shall be referred to the trial judge considering the original suit and if such petition is filed prior to the original suit, such suit shall be considered by the judge to whom such petition is referred.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5181,
+    "source_ar": "(المادة الحادية والثلاثون)",
+    "target_en": "Article 31",
+    "source_ar_norm": "(المادة الحادية والثلاثون)",
+    "target_en_norm": "article 31",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5182,
+    "source_ar": "31/1– إذا عُدّ الحجز مُلغى، جاز طلب تجديده بإجراءات مستأنفة، ويكون لدى ناظر الحجز الأول.",
+    "target_en": "31.1 If the attachment is revoked, a petition for its renewal by means of appeal shall be made with the receiver of the first attachment.",
+    "source_ar_norm": "31/1– اذا عد الحجز ملغي، جاز طلب تجديده باجراءات مستانفة، ويكون لدي ناظر الحجز الاول.",
+    "target_en_norm": "31.1 if the attachment is revoked, a petition for its renewal by means of appeal shall be made with the receiver of the first attachment.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5183,
+    "source_ar": "31/2– يتعدد الحجز بتعدد المحجوز لديهم، ويستقل كل حجز بإجراءاته وأوامره، ويُقدم كل طلب حجز مستقلاً، وتُحال الطلبات إذا كان موجبها واحداً إلى دائرة واحدة، ويحسب لك طلب إحالة.",
+    "target_en": "31.2 There shall be as many attachments as there are garnishees, and each attachment shall have a separate order and proceedings. Each attachment petition shall be filed separately. Petitions of the same grounds shall be referred to the same circuit and each petition shall be deemed a separate case.",
+    "source_ar_norm": "31/2– يتعدد الحجز بتعدد المحجوز لديهم، ويستقل كل حجز باجراءاته واوامره، ويقدم كل طلب حجز مستقلا، وتحال الطلبات اذا كان موجبها واحدا الي دائرة واحدة، ويحسب لك طلب احالة.",
+    "target_en_norm": "31.2 there shall be as many attachments as there are garnishees, and each attachment shall have a separate order and proceedings. each attachment petition shall be filed separately. petitions of the same grounds shall be referred to the same circuit and each petition shall be deemed a separate case.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5184,
+    "source_ar": "31/3– يتضمن التبليغ منع المحجوز لديه عن تسليم ما في يده، أو ذمته للمحجوز عليه، أو غيره، وأنه يُعد ضامناً متى خالف ذلك، ويكون التبليغ، وفق أحكام التبليغ المقررة في الفقرة (3) من المادة (الرابعة والثلاثين) ولوائحها التنفيذية.",
+    "target_en": "31.3 Service shall include preclusion of the garnishee from delivering any assets in his possession or liabilities to the defendant or any third person, and he shall be deemed a guarantor if he violates such obligation. Service shall be made in accordance with service provisions stipulated in Article 34(3) of the Law and related provisions provided for herein.",
+    "source_ar_norm": "31/3– يتضمن التبليغ منع المحجوز لديه عن تسليم ما في يده، او ذمته للمحجوز عليه، او غيره، وانه يعد ضامنا متي خالف ذلك، ويكون التبليغ، وفق احكام التبليغ المقررة في الفقرة (3) من المادة (الرابعة والثلاثين) ولوائحها التنفيذية.",
+    "target_en_norm": "31.3 service shall include preclusion of the garnishee from delivering any assets in his possession or liabilities to the defendant or any third person, and he shall be deemed a guarantor if he violates such obligation. service shall be made in accordance with service provisions stipulated in article 34(3) of the law and related provisions provided for herein.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5185,
+    "source_ar": "31/4– يُبلغ المحجوز عليه بنسخة من أمر الحجز الموجه للمحجوز لديه، ولا يترتب على عدم تبليغ المحجوز عليه في هذه الحال الغاء الحجز.",
+    "target_en": "31.4 The defendant shall be served with a copy of the attachment order addressed to the garnishee. Failure to serve the defendant shall not result in revocation of the attachment.",
+    "source_ar_norm": "31/4– يبلغ المحجوز عليه بنسخة من امر الحجز الموجه للمحجوز لديه، ولا يترتب علي عدم تبليغ المحجوز عليه في هذه الحال الغاء الحجز.",
+    "target_en_norm": "31.4 the defendant shall be served with a copy of the attachment order addressed to the garnishee. failure to serve the defendant shall not result in revocation of the attachment.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5186,
+    "source_ar": "31/5– تبدأ عشرة الأيام الواردة في هذه المادة، من تاريخ صدور أمر الحجز.",
+    "target_en": "31.5 The ten-day period provided for in this Article shall commence from the date of issuance of the attachment order.",
+    "source_ar_norm": "31/5– تبدا عشرة الايام الواردة في هذه المادة، من تاريخ صدور امر الحجز.",
+    "target_en_norm": "31.5 the ten-day period provided for in this article shall commence from the date of issuance of the attachment order.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5187,
+    "source_ar": "31/6– يلزم الدائن أن يقدم لقاضي التنفيذ ما يثبت إقامته للدعوى أمام الجهة المختصة في المدة المحددة، فإن لم يقدم الدائن إثباتاً بذلك في موعد أقصاه اليوم التالي لانتهاء المهلة، فيعد الحجز ملغى.",
+    "target_en": "31.6 The creditor shall submit to the enforcement judge proof of filing the suit with the competent authority within the specified period. If the creditor fails to do so by the end of the day following the expiration of the specified period, the attachment shall be deemed revoked.",
+    "source_ar_norm": "31/6– يلزم الدائن ان يقدم لقاضي التنفيذ ما يثبت اقامته للدعوي امام الجهة المختصة في المدة المحددة، فان لم يقدم الدائن اثباتا بذلك في موعد اقصاه اليوم التالي لانتهاء المهلة، فيعد الحجز ملغي.",
+    "target_en_norm": "31.6 the creditor shall submit to the enforcement judge proof of filing the suit with the competent authority within the specified period. if the creditor fails to do so by the end of the day following the expiration of the specified period, the attachment shall be deemed revoked.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5188,
+    "source_ar": "(المادة الثانية والثلاثون)",
+    "target_en": "Article 32",
+    "source_ar_norm": "(المادة الثانية والثلاثون)",
+    "target_en_norm": "article 32",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5189,
+    "source_ar": "32/1– قدرة الكفيل وكفاية الضمان سلطة تقديرية للقاضي.",
+    "target_en": "32.1 The solvency of the guarantor and adequacy of the guarantee shall be subject to the judge's discretion.",
+    "source_ar_norm": "32/1– قدرة الكفيل وكفاية الضمان سلطة تقديرية للقاضي.",
+    "target_en_norm": "32.1 the solvency of the guarantor and adequacy of the guarantee shall be subject to the judge's discretion.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5190,
+    "source_ar": "32/2– يوثق إقرار الكفيل من قبل ناظر الحجز، أو كاتب العدل، أو الموثق المرخص له بمزاولة أعمال التوثيق.",
+    "target_en": "32.2 The guarantor's declaration shall be attested by the receiver, notary public, or any person authorized to carry out attestation activities.",
+    "source_ar_norm": "32/2– يوثق اقرار الكفيل من قبل ناظر الحجز، او كاتب العدل، او الموثق المرخص له بمزاولة اعمال التوثيق.",
+    "target_en_norm": "32.2 the guarantor's declaration shall be attested by the receiver, notary public, or any person authorized to carry out attestation activities.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5191,
+    "source_ar": "32/3– ينظر القاضي الذي أصدر أمر الحجز التحفظي دعوى الضرر المقامة من المحجوز على أمواله، إذا كانت مشمولةً بولايته، وتحسب له إحالة.",
+    "target_en": "32.3 The judge issuing the provisional attachment order shall consider any suit for damages filed by the defendant if such suit falls within his jurisdiction and the same shall be deemed a separate case.",
+    "source_ar_norm": "32/3– ينظر القاضي الذي اصدر امر الحجز التحفظي دعوي الضرر المقامة من المحجوز علي امواله، اذا كانت مشمولة بولايته، وتحسب له احالة.",
+    "target_en_norm": "32.3 the judge issuing the provisional attachment order shall consider any suit for damages filed by the defendant if such suit falls within his jurisdiction and the same shall be deemed a separate case.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5192,
+    "source_ar": "(المادة الثالثة والثلاثون)",
+    "target_en": "Article 33",
+    "source_ar_norm": "(المادة الثالثة والثلاثون)",
+    "target_en_norm": "article 33",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5193,
+    "source_ar": "33/1– إذا كانت الأموال المحجوزة عرضة للتلف، أو نقصان القيمة، فللجهة مصدرة أمر الحجز التحفظي، بيع هذه الأموال، بناءً على مصلحة تراها، أو طلب يتقدم به أحد أطراف النزاع، أو الحارس القضائي، أو من له مصلحة. وإذا كانت الأموال المحجوزة عرضة لتقلب الأسعار، فلا يكون البيع، إلا بناء على طلب المحجوز عليه، وينتقل الحجز إلى الثمن تلقائياً، ويتم البيع وفق ما ورد في اللائحة (50/10).",
+    "target_en": "33.1 If the attached assets are perishable or depreciable, the authority issuing the provisional attachment order may sell such assets upon its own motion or a petition filed by a litigant, the receiver, or a stakeholder. If the attached assets are subject to price volatility, they may not be sold except upon the request of the defendant and the attachment shall be automatically transferred to the sale proceeds. The sale shall be in accordance with the paragraph (50.10) herein.",
+    "source_ar_norm": "33/1– اذا كانت الاموال المحجوزة عرضة للتلف، او نقصان القيمة، فللجهة مصدرة امر الحجز التحفظي، بيع هذه الاموال، بناء علي مصلحة تراها، او طلب يتقدم به احد اطراف النزاع، او الحارس القضائي، او من له مصلحة. واذا كانت الاموال المحجوزة عرضة لتقلب الاسعار، فلا يكون البيع، الا بناء علي طلب المحجوز عليه، وينتقل الحجز الي الثمن تلقائيا، ويتم البيع وفق ما ورد في اللائحة (50/10).",
+    "target_en_norm": "33.1 if the attached assets are perishable or depreciable, the authority issuing the provisional attachment order may sell such assets upon its own motion or a petition filed by a litigant, the receiver, or a stakeholder. if the attached assets are subject to price volatility, they may not be sold except upon the request of the defendant and the attachment shall be automatically transferred to the sale proceeds. the sale shall be in accordance with the paragraph (50.10) herein.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5194,
+    "source_ar": "33/2– إذا حكمت المحكمة بثبوت الحق لطالب الحجز، أصبح الحجز التحفظي حجزاً تنفيذياً.",
+    "target_en": "33.2 If the court renders a judgment establishing the right of the party requesting attachment, the provisional attachment shall be deemed an enforced attachment.",
+    "source_ar_norm": "33/2– اذا حكمت المحكمة بثبوت الحق لطالب الحجز، اصبح الحجز التحفظي حجزا تنفيذيا.",
+    "target_en_norm": "33.2 if the court renders a judgment establishing the right of the party requesting attachment, the provisional attachment shall be deemed an enforced attachment.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5195,
+    "source_ar": "33/3– للجهة مصدرة الحجز التحفظي ابتداءً عند الاقتضاء، أو بطلب من المحجوز عليه، رفع الحجز التحفظي، بعد إعلان المحجوز له.",
+    "target_en": "33.3 The authority may, on its own motion or pursuant to a petition by the defendant, remove the provisional attachment after serving the garnishee.",
+    "source_ar_norm": "33/3– للجهة مصدرة الحجز التحفظي ابتداء عند الاقتضاء، او بطلب من المحجوز عليه، رفع الحجز التحفظي، بعد اعلان المحجوز له.",
+    "target_en_norm": "33.3 the authority may, on its own motion or pursuant to a petition by the defendant, remove the provisional attachment after serving the garnishee.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5196,
+    "source_ar": "33/4– إذا ترك طالب الحجز دعواه، أو تنازل عنها، أو رُدت دعواه، أو صرف النظر عنها، أو حُفظت، فيُعد الحجز التحفظي مُلغى.",
+    "target_en": "33.4 If the party requesting attachment abandons or relinquishes the suit or if the suit is dismissed, discontinued, or closed, the provisional attachment shall be deemed revoked.",
+    "source_ar_norm": "33/4– اذا ترك طالب الحجز دعواه، او تنازل عنها، او ردت دعواه، او صرف النظر عنها، او حفظت، فيعد الحجز التحفظي ملغي.",
+    "target_en_norm": "33.4 if the party requesting attachment abandons or relinquishes the suit or if the suit is dismissed, discontinued, or closed, the provisional attachment shall be deemed revoked.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5197,
+    "source_ar": "الباب الثالث إجراءات التنفيذ",
+    "target_en": "Part 3: Enforcement Procedures",
+    "source_ar_norm": "الباب الثالث اجراءات التنفيذ",
+    "target_en_norm": "part 3: enforcement procedures",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5198,
+    "source_ar": "الفصل الأول الحجز التنفيذي",
+    "target_en": "Chapter 1: Enforced Attachment",
+    "source_ar_norm": "الفصل الاول الحجز التنفيذي",
+    "target_en_norm": "chapter 1: enforced attachment",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5199,
+    "source_ar": "(المادة الرابعة والثلاثون)",
+    "target_en": "Article 34",
+    "source_ar_norm": "(المادة الرابعة والثلاثون)",
+    "target_en_norm": "article 34",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  },
+  {
+    "id": 5200,
+    "source_ar": "34/1– إذا وردت المعاملة وهي غير مستكملة لبيانات طلب التنفيذ فلمقدمها مهلة ثلاثين يوماً؛ لاستكمالها، وإلا حفظت، أو أعيدت – حسب الحال -.",
+    "target_en": "34.1 If a case file is submitted without satisfying the particulars required for the enforcement petition, the party requesting such enforcement shall have a grace period of 30 days to satisfy such requirements; otherwise, the case file shall be closed or returned, as applicable.",
+    "source_ar_norm": "34/1– اذا وردت المعاملة وهي غير مستكملة لبيانات طلب التنفيذ فلمقدمها مهلة ثلاثين يوما؛ لاستكمالها، والا حفظت، او اعيدت – حسب الحال -.",
+    "target_en_norm": "34.1 if a case file is submitted without satisfying the particulars required for the enforcement petition, the party requesting such enforcement shall have a grace period of 30 days to satisfy such requirements; otherwise, the case file shall be closed or returned, as applicable.",
+    "file_name": "اللائحة التنفيذية لنظام التنفيذ.docx"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 9601,
+    "source_ar": "22- عقد النقل المتعدد الوسائط: العقد الذي يبرمه الشاحن مع متعهد النقل متعدد الوسائط لنقل البضائع بوسيلتي نقل مختلفتين أو أكثر بين مكانين يقعان في دولة واحدة أو أكثر، يتسلم بموجبه متعهد النقل المتعدد الوسائط البضاعة، وتكون في عهدته إلى المكان المحدد للتسليم، ويتولى التنفيذ بنفسه أو عن طريق غيره مقابل أجر.",
+    "target_en": "22. Multimodal Transport Contract: A contract concluded between a consignor and a multimodal transport operator for the carriage of goods by two or more modes of transport between two places located in one or more countries whereby the multimodal transport operator receives and keeps the goods in his custody until they reach the designated place of delivery, and he shall carry out this job by himself or through another person in return for a fee.",
+    "source_ar_norm": "22- عقد النقل المتعدد الوسائط: العقد الذي يبرمه الشاحن مع متعهد النقل متعدد الوسائط لنقل البضائع بوسيلتي نقل مختلفتين او اكثر بين مكانين يقعان في دولة واحدة او اكثر، يتسلم بموجبه متعهد النقل المتعدد الوسائط البضاعة، وتكون في عهدته الي المكان المحدد للتسليم، ويتولي التنفيذ بنفسه او عن طريق غيره مقابل اجر.",
+    "target_en_norm": "22. multimodal transport contract: a contract concluded between a consignor and a multimodal transport operator for the carriage of goods by two or more modes of transport between two places located in one or more countries whereby the multimodal transport operator receives and keeps the goods in his custody until they reach the designated place of delivery, and he shall carry out this job by himself or through another person in return for a fee.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9602,
+    "source_ar": "23- سند الشحن: وثيقة يصدرها الناقل بناء على طلب الشاحن عند تسلم البضاعة منه، توضح فيها بيانات النقل وشروطه.",
+    "target_en": "23. Bill of Lading: A document issued by a carrier at the request of a consignor upon his receipt of the goods, indicating transport data and conditions.",
+    "source_ar_norm": "23- سند الشحن: وثيقة يصدرها الناقل بناء علي طلب الشاحن عند تسلم البضاعة منه، توضح فيها بيانات النقل وشروطه.",
+    "target_en_norm": "23. bill of lading: a document issued by a carrier at the request of a consignor upon his receipt of the goods, indicating transport data and conditions.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9603,
+    "source_ar": "24- مستند النقل المتعدد الوسائط: وثيقة تثبت عقد النقل المتعدد الوسائط، وتَسلُّم متعهد النقل المتعدد الوسائط للبضاعة، والتزامه بتسليمها وفقاً لشروط محددة.",
+    "target_en": "24. Multimodal Transport Document: A document establishing a multimodal transport contract, receipt of goods by a multimodal transport operator, and the operator’s obligation to deliver the same on specific terms.",
+    "source_ar_norm": "24- مستند النقل المتعدد الوسائط: وثيقة تثبت عقد النقل المتعدد الوسائط، وتسلم متعهد النقل المتعدد الوسائط للبضاعة، والتزامه بتسليمها وفقا لشروط محددة.",
+    "target_en_norm": "24. multimodal transport document: a document establishing a multimodal transport contract, receipt of goods by a multimodal transport operator, and the operator’s obligation to deliver the same on specific terms.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9604,
+    "source_ar": "25- عقد إيجار السفينة المجهزة: العقد الذي يلتزم بمقتضاه المؤجر بوضع سفينة معينة صالحة للملاحة ومكتملة التجهيز بمؤن، أو بحارة، أو وقود، تحت تصرف المستأجر وذلك لمدة محددة، أو للقيام برحلة أو رحلات معينة.",
+    "target_en": "25. Charterparty for an Equipped Vessel: A contract whereby a lessor undertakes to place a vessel that is seaworthy and fully equipped with supplies, crew members, and fuel at the disposal of the charterer for a specified period or for making one or several voyages.",
+    "source_ar_norm": "25- عقد ايجار السفينة المجهزة: العقد الذي يلتزم بمقتضاه المؤجر بوضع سفينة معينة صالحة للملاحة ومكتملة التجهيز بمؤن، او بحارة، او وقود، تحت تصرف المستاجر وذلك لمدة محددة، او للقيام برحلة او رحلات معينة.",
+    "target_en_norm": "25. charterparty for an equipped vessel: a contract whereby a lessor undertakes to place a vessel that is seaworthy and fully equipped with supplies, crew members, and fuel at the disposal of the charterer for a specified period or for making one or several voyages.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9605,
+    "source_ar": "26- عقد إيجار السفينة غير المجهزة: العقد الذي يلتزم بمقتضاه المؤجر بوضع سفينة معينة تحت تصرف المستأجر لمدة محددة دون تجهيزها بمؤن، أو بحارة، أو وقود.",
+    "target_en": "26. Bareboat Charterparty: A contract whereby a lessor undertakes to place a vessel at the disposal of the charterer for a specified period without equipping it with supplies, crew members, or fuel.",
+    "source_ar_norm": "26- عقد ايجار السفينة غير المجهزة: العقد الذي يلتزم بمقتضاه المؤجر بوضع سفينة معينة تحت تصرف المستاجر لمدة محددة دون تجهيزها بمؤن، او بحارة، او وقود.",
+    "target_en_norm": "26. bareboat charterparty: a contract whereby a lessor undertakes to place a vessel at the disposal of the charterer for a specified period without equipping it with supplies, crew members, or fuel.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9606,
+    "source_ar": "27- عقد التأمين البحري: العقد الذي يتعهد بمقتضاه شخص يسمى المؤمِّن بتعويض شخص آخر يسمى المؤمَّن له عن الضرر الناشئ من خطر بحري نظير قسط معين.",
+    "target_en": "27. Marine Insurance Contract: A contract whereby the insurer undertakes to compensate the insured for damage arising from a maritime risk in return for a premium.",
+    "source_ar_norm": "27- عقد التامين البحري: العقد الذي يتعهد بمقتضاه شخص يسمي المؤمن بتعويض شخص اخر يسمي المؤمن له عن الضرر الناشئ من خطر بحري نظير قسط معين.",
+    "target_en_norm": "27. marine insurance contract: a contract whereby the insurer undertakes to compensate the insured for damage arising from a maritime risk in return for a premium.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9607,
+    "source_ar": "28- الأخطار البحرية: هي الحوادث غير المتوقعة التي يحتمل وقوعها؛ المتعلقة برحلة بحرية.",
+    "target_en": "28. Maritime Risks: Unexpected accidents that may occur during a voyage.",
+    "source_ar_norm": "28- الاخطار البحرية: هي الحوادث غير المتوقعة التي يحتمل وقوعها؛ المتعلقة برحلة بحرية.",
+    "target_en_norm": "28. maritime risks: unexpected accidents that may occur during a voyage.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9608,
+    "source_ar": "29- الوحدة الحسابية: وحدة السحب الخاص المعرفة بوساطة صندوق النقد الدولي، مقومةً بالريال أو ما يعادله طبقاً لما تحدده وزارة المالية وقت سداد المطالبة.",
+    "target_en": "29. Unit of Account: A special drawing unit defined by the International Monetary Fund, denominated in riyal or its equivalent, as determined by the Ministry of Finance at the time of the payment of the claim.",
+    "source_ar_norm": "29- الوحدة الحسابية: وحدة السحب الخاص المعرفة بوساطة صندوق النقد الدولي، مقومة بالريال او ما يعادله طبقا لما تحدده وزارة المالية وقت سداد المطالبة.",
+    "target_en_norm": "29. unit of account: a special drawing unit defined by the international monetary fund, denominated in riyal or its equivalent, as determined by the ministry of finance at the time of the payment of the claim.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9609,
+    "source_ar": "30- التصادم البحري: التصادم الذي يحدث بين سفينتين أو أكثر، أو بين سفينة وأي منشأة بحرية.",
+    "target_en": "30. Maritime Collision: A collision between two or more vessels or between a vessel and any maritime facility.",
+    "source_ar_norm": "30- التصادم البحري: التصادم الذي يحدث بين سفينتين او اكثر، او بين سفينة واي منشاة بحرية.",
+    "target_en_norm": "30. maritime collision: a collision between two or more vessels or between a vessel and any maritime facility.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9610,
+    "source_ar": "31- الإنقاذ البحري: المساعدة التي تقدم للسفينة التي تكون في حالة خطر، ومن عليها أو الأشياء التي تنقلها وقت الخطر بناء على طلبها.",
+    "target_en": "31. Maritime Rescue: Assistance provided upon request to a vessel in distress, to persons on board, or to objects transported thereby.",
+    "source_ar_norm": "31- الانقاذ البحري: المساعدة التي تقدم للسفينة التي تكون في حالة خطر، ومن عليها او الاشياء التي تنقلها وقت الخطر بناء علي طلبها.",
+    "target_en_norm": "31. maritime rescue: assistance provided upon request to a vessel in distress, to persons on board, or to objects transported thereby.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9611,
+    "source_ar": "32- الخسائر البحرية المشتركة: كل تضحية أو مصروفات غير اعتيادية، يقررها الربان، تبذل أو تنفق عن قصد وبكيفية معقولة، من أجل السلامة العامة لتجنب خطر داهم يهدد السفينة أو البضائع الموجودة عليها.",
+    "target_en": "32. General Average: Any sacrifice or extraordinary expenditure, as determined by the master, which is intentionally and reasonably made or incurred for general safety to avert a serious risk that threatens the vessel or its cargo.",
+    "source_ar_norm": "32- الخسائر البحرية المشتركة: كل تضحية او مصروفات غير اعتيادية، يقررها الربان، تبذل او تنفق عن قصد وبكيفية معقولة، من اجل السلامة العامة لتجنب خطر داهم يهدد السفينة او البضائع الموجودة عليها.",
+    "target_en_norm": "32. general average: any sacrifice or extraordinary expenditure, as determined by the master, which is intentionally and reasonably made or incurred for general safety to avert a serious risk that threatens the vessel or its cargo.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9612,
+    "source_ar": "33- الخسارة البحرية الخاصة: كل خسارة لا تنطبق عليها أحكام الخسائر البحرية المشتركة.",
+    "target_en": "33. Particular Average: Any loss that is not subject to the provisions of general average.",
+    "source_ar_norm": "33- الخسارة البحرية الخاصة: كل خسارة لا تنطبق عليها احكام الخسائر البحرية المشتركة.",
+    "target_en_norm": "33. particular average: any loss that is not subject to the provisions of general average.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9613,
+    "source_ar": "34- الحطام البحري: أي سفينة -أو جزء منها- غارقة أو جانحة، في المناطق البحرية للمملكة، أو أي شيء فقد منها في البحر وجرفه التيار إلى هذه المياه، وأي سفينة على وشك الغرق، أو يمكن بناء على أسباب معقولة توقع غرقها أو جنوحها في هذه المياه؛ وليس هناك إجراءات فاعلة لمساعدتها.",
+    "target_en": "34. Maritime Wreck: Any vessel, or part thereof, sunken or stranded within the Kingdom's maritime areas; or any items missing therefrom in the sea and were washed away by the current to such areas; or any vessel on the verge of sinking or is reasonably expected to sink or run aground in such areas, and there are no effective measures for assistance.",
+    "source_ar_norm": "34- الحطام البحري: اي سفينة -او جزء منها- غارقة او جانحة، في المناطق البحرية للمملكة، او اي شيء فقد منها في البحر وجرفه التيار الي هذه المياه، واي سفينة علي وشك الغرق، او يمكن بناء علي اسباب معقولة توقع غرقها او جنوحها في هذه المياه؛ وليس هناك اجراءات فاعلة لمساعدتها.",
+    "target_en_norm": "34. maritime wreck: any vessel, or part thereof, sunken or stranded within the kingdom's maritime areas; or any items missing therefrom in the sea and were washed away by the current to such areas; or any vessel on the verge of sinking or is reasonably expected to sink or run aground in such areas, and there are no effective measures for assistance.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9614,
+    "source_ar": "35- الزيت: البترول الخام، وزيت الوقود (المازوت)، وزيت الديزل الثقيل، وزيت التشحيم، والمشتقات البترولية الأخرى.",
+    "target_en": "35. Oil: Crude oil, fuel oil (diesel), heavy diesel oil, lubricating oil, and other petroleum products.",
+    "source_ar_norm": "35- الزيت: البترول الخام، وزيت الوقود (المازوت)، وزيت الديزل الثقيل، وزيت التشحيم، والمشتقات البترولية الاخري.",
+    "target_en_norm": "35. oil: crude oil, fuel oil (diesel), heavy diesel oil, lubricating oil, and other petroleum products.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9615,
+    "source_ar": "36- دولة العلم: هي الدولة التي يحق للسفينة رفع علمها.",
+    "target_en": "36. Flag State: A state whose flag the vessel is entitled to carry.",
+    "source_ar_norm": "36- دولة العلم: هي الدولة التي يحق للسفينة رفع علمها.",
+    "target_en_norm": "36. flag state: a state whose flag the vessel is entitled to carry.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9616,
+    "source_ar": "37- دولة التسجيل: الدولة التي سجلت سفينة ما في سجل السفن لديها.",
+    "target_en": "37. State of Registration: A state where a vessel is registered with its ship registry.",
+    "source_ar_norm": "37- دولة التسجيل: الدولة التي سجلت سفينة ما في سجل السفن لديها.",
+    "target_en_norm": "37. state of registration: a state where a vessel is registered with its ship registry.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9617,
+    "source_ar": "38- سجل السفن: السجل الرسمي الذي تسجل فيه بيانات السفن وملاكها.",
+    "target_en": "38. Ship Registry: An official register where the information of ships and their owners are recorded.",
+    "source_ar_norm": "38- سجل السفن: السجل الرسمي الذي تسجل فيه بيانات السفن وملاكها.",
+    "target_en_norm": "38. ship registry: an official register where the information of ships and their owners are recorded.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9618,
+    "source_ar": "39- الحمولة الكلية: أبعاد الحجم الكلي للسفينة مقيسة وفقاً لأحكام الاتفاقية الدولية لقياس حمولة السفن لعام (1969م) وتعديلاتها.",
+    "target_en": "39. Gross Tonnage: The dimensions of the total volume of a vessel, as measured in accordance with the provisions of the International Convention on Tonnage Measurement of Ships of (1969) and its amendments.",
+    "source_ar_norm": "39- الحمولة الكلية: ابعاد الحجم الكلي للسفينة مقيسة وفقا لاحكام الاتفاقية الدولية لقياس حمولة السفن لعام (1969م) وتعديلاتها.",
+    "target_en_norm": "39. gross tonnage: the dimensions of the total volume of a vessel, as measured in accordance with the provisions of the international convention on tonnage measurement of ships of (1969) and its amendments.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9619,
+    "source_ar": "الباب الأول: الفصل الأول: السفينة: أحكام عامة",
+    "target_en": "Part 1 Chapter 1: Vessel General Provisions",
+    "source_ar_norm": "الباب الاول: الفصل الاول: السفينة: احكام عامة",
+    "target_en_norm": "part 1 chapter 1: vessel general provisions",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9620,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9621,
+    "source_ar": "تطبق أحكام هذا النظام على السفن السعودية، والسفن الأجنبية التي ترسو في موانئ المملكة أو مناطقها البحرية، وتستثنى من ذلك السفن الحربية، وسفن الخدمة العامة المخصصة لأغراض غير تجارية، أو تلك التي يرد في شأنها نص خاص، إلاَّ فيما يتعلق بالتصادم والإنقاذ والخسائر البحرية المشتركة.",
+    "target_en": "The provisions of this Law shall apply to Saudi vessels and foreign vessels that anchor at the Kingdom's ports or maritime areas, with the exception of warships, public service vessels for non-commercial purposes, and vessels subject to a special provision, except for cases relating to collision, rescue, and general average.",
+    "source_ar_norm": "تطبق احكام هذا النظام علي السفن السعودية، والسفن الاجنبية التي ترسو في موانئ المملكة او مناطقها البحرية، وتستثني من ذلك السفن الحربية، وسفن الخدمة العامة المخصصة لاغراض غير تجارية، او تلك التي يرد في شانها نص خاص، الا فيما يتعلق بالتصادم والانقاذ والخسائر البحرية المشتركة.",
+    "target_en_norm": "the provisions of this law shall apply to saudi vessels and foreign vessels that anchor at the kingdom's ports or maritime areas, with the exception of warships, public service vessels for non-commercial purposes, and vessels subject to a special provision, except for cases relating to collision, rescue, and general average.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9622,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9623,
+    "source_ar": "مع مراعاة الأحكام المنصوص عليها في النظام، تسري على السفينة أحكام المال المنقول عدا حكم تملكه بالحيازة، وما ورد في شأنه نص خاص.",
+    "target_en": "Subject to the provisions stipulated in this Law, the provisions of movable property shall apply to the vessel, except for ownership by possession and cases subject to a special provision.",
+    "source_ar_norm": "مع مراعاة الاحكام المنصوص عليها في النظام، تسري علي السفينة احكام المال المنقول عدا حكم تملكه بالحيازة، وما ورد في شانه نص خاص.",
+    "target_en_norm": "subject to the provisions stipulated in this law, the provisions of movable property shall apply to the vessel, except for ownership by possession and cases subject to a special provision.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9624,
+    "source_ar": "الفصل الثاني: جنسية السفينة",
+    "target_en": "Chapter 2: Nationality of Vessel",
+    "source_ar_norm": "الفصل الثاني: جنسية السفينة",
+    "target_en_norm": "chapter 2: nationality of vessel",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9625,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9626,
+    "source_ar": "تكتسب السفينة الجنسية السعودية إذا كانت مسجلة في أحد موانئ المملكة، وكانت مملوكة بكاملها لشخص يتمتع بهذه الجنسية. وإذا كانت السفينة مملوكة على الشيوع اشترط أن تكون أغلبية الحصص مملوكة لمن يتمتع بهذه الجنسية، وللرئيس تعديل نسبة التملك بما يتفق مع المصلحة العامة لاقتصاديات المملكة.",
+    "target_en": "A vessel shall acquire Saudi nationality if it is registered in one of the Kingdom’s ports and is wholly owned by a Saudi national. In case of co-ownership, the majority of shares must be owned by a Saudi national. The Chairman may amend the percentage of ownership in accordance with the Kingdom's economic interests.",
+    "source_ar_norm": "تكتسب السفينة الجنسية السعودية اذا كانت مسجلة في احد موانئ المملكة، وكانت مملوكة بكاملها لشخص يتمتع بهذه الجنسية. واذا كانت السفينة مملوكة علي الشيوع اشترط ان تكون اغلبية الحصص مملوكة لمن يتمتع بهذه الجنسية، وللرئيس تعديل نسبة التملك بما يتفق مع المصلحة العامة لاقتصاديات المملكة.",
+    "target_en_norm": "a vessel shall acquire saudi nationality if it is registered in one of the kingdom’s ports and is wholly owned by a saudi national. in case of co-ownership, the majority of shares must be owned by a saudi national. the chairman may amend the percentage of ownership in accordance with the kingdom's economic interests.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9627,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9628,
+    "source_ar": "على كل سفينة سعودية أن ترفع علم المملكة، ولا يجوز لها أن ترفع علماً غيره إلاَّ في الحالات التي يجري فيها العرف البحري، أو إذا كان الغرض هو تجنب الوقوع في خطر محقق أو الأسر.",
+    "target_en": "A Saudi vessel shall fly the flag of the Kingdom, and shall not fly the flag of any other state except in cases permitted by maritime custom or for avoiding serious risk or capture.",
+    "source_ar_norm": "علي كل سفينة سعودية ان ترفع علم المملكة، ولا يجوز لها ان ترفع علما غيره الا في الحالات التي يجري فيها العرف البحري، او اذا كان الغرض هو تجنب الوقوع في خطر محقق او الاسر.",
+    "target_en_norm": "a saudi vessel shall fly the flag of the kingdom, and shall not fly the flag of any other state except in cases permitted by maritime custom or for avoiding serious risk or capture.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9629,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9630,
+    "source_ar": "لا يجوز لغير السفن السعودية ممارسة نشاط القَطْر أو الإرشاد أو القيام بخدمات التموين في مناطق المملكة البحرية، ولا يجوز لها مزاولة أعمال النقل الساحلي بين موانئ المملكة. وللرئيس استثناء الترخيص لهذه السفن بالقيام بعملٍ أو أكثر من تلك الأعمال، وذلك لمدة زمنية محددة.",
+    "target_en": "Non-Saudi vessels shall not practice towage, pilotage, or supply services in the Kingdom's maritime areas, nor engage in coastal navigation between the Kingdom's ports. The Chairman may, by way of exception, license such vessels to engage in one or more of such activities for a specific period.",
+    "source_ar_norm": "لا يجوز لغير السفن السعودية ممارسة نشاط القطر او الارشاد او القيام بخدمات التموين في مناطق المملكة البحرية، ولا يجوز لها مزاولة اعمال النقل الساحلي بين موانئ المملكة. وللرئيس استثناء الترخيص لهذه السفن بالقيام بعمل او اكثر من تلك الاعمال، وذلك لمدة زمنية محددة.",
+    "target_en_norm": "non-saudi vessels shall not practice towage, pilotage, or supply services in the kingdom's maritime areas, nor engage in coastal navigation between the kingdom's ports. the chairman may, by way of exception, license such vessels to engage in one or more of such activities for a specific period.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9631,
+    "source_ar": "الفصل الثالث: تسجيل السفينة",
+    "target_en": "Chapter 3: Ship Registration",
+    "source_ar_norm": "الفصل الثالث: تسجيل السفينة",
+    "target_en_norm": "chapter 3: ship registration",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9632,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9633,
+    "source_ar": "1- لا يجوز لأي سفينة ذاتية الدفع أن تبحر رافعة علم المملكة إلاَّ إذا كانت مسجلة وفقاً لأحكام هذا النظام، وتحدد اللوائح إجراءات التسجيل وشروطه، وإصدار الشهادة.",
+    "target_en": "1. No self-propelled vessel may sail under the flag of the Kingdom unless it is registered in accordance with the provisions of this Law. The regulations shall specify the registration requirements and procedures as well as the issuance of the certificate.",
+    "source_ar_norm": "1- لا يجوز لاي سفينة ذاتية الدفع ان تبحر رافعة علم المملكة الا اذا كانت مسجلة وفقا لاحكام هذا النظام، وتحدد اللوائح اجراءات التسجيل وشروطه، واصدار الشهادة.",
+    "target_en_norm": "1. no self-propelled vessel may sail under the flag of the kingdom unless it is registered in accordance with the provisions of this law. the regulations shall specify the registration requirements and procedures as well as the issuance of the certificate.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9634,
+    "source_ar": "2- تعفى من التسجيل الوحدات البحرية الآتية:",
+    "target_en": "2. The following marine units shall be exempted from registration:",
+    "source_ar_norm": "2- تعفي من التسجيل الوحدات البحرية الاتية:",
+    "target_en_norm": "2. the following marine units shall be exempted from registration:",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9635,
+    "source_ar": "أ- السفن التي يقل طولها عن أربعة وعشرين متراً.",
+    "target_en": "a) Vessels of less than 24 meters in length.",
+    "source_ar_norm": "ا- السفن التي يقل طولها عن اربعة وعشرين مترا.",
+    "target_en_norm": "a) vessels of less than 24 meters in length.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9636,
+    "source_ar": "ب- سفن الصيد التي لا تزيد حمولتها على ثلاثين طنًّا ولا يزيد طولها على عشرين متراً.",
+    "target_en": "b) Fishing vessels of a tonnage not exceeding 30 tons, and a length not exceeding 20 meters.",
+    "source_ar_norm": "ب- سفن الصيد التي لا تزيد حمولتها علي ثلاثين طنا ولا يزيد طولها علي عشرين مترا.",
+    "target_en_norm": "b) fishing vessels of a tonnage not exceeding 30 tons, and a length not exceeding 20 meters.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9637,
+    "source_ar": "ج- سفن النزهة والغوص التي لا تزيد حمولتها على عشرة أطنان ولا يزيد طولها على أحد عشر متراً ولا يصرح لها بالإبحار خارج بحار المملكة الإقليمية.",
+    "target_en": "c) Pleasure and diving vessels of a tonnage not exceeding 10 tons, and a length not exceeding 11 meters which are not permitted to sail outside the Kingdom’s territorial sea.",
+    "source_ar_norm": "ج- سفن النزهة والغوص التي لا تزيد حمولتها علي عشرة اطنان ولا يزيد طولها علي احد عشر مترا ولا يصرح لها بالابحار خارج بحار المملكة الاقليمية.",
+    "target_en_norm": "c) pleasure and diving vessels of a tonnage not exceeding 10 tons, and a length not exceeding 11 meters which are not permitted to sail outside the kingdom’s territorial sea.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9638,
+    "source_ar": "د- السفن البدائية البناء، والسفن الشراعية، والوحدات البحرية غير ذاتية الدفع، والمواعين والصنادل، وغيرها من المنشآت العائمة التي تعمل عادة داخل الميناء.",
+    "target_en": "d) Vessels of primitive construction, sailing vessels, non-self-propelled units, lighters and barges, and other floating crafts usually operating within the port.",
+    "source_ar_norm": "د- السفن البدائية البناء، والسفن الشراعية، والوحدات البحرية غير ذاتية الدفع، والمواعين والصنادل، وغيرها من المنشات العائمة التي تعمل عادة داخل الميناء.",
+    "target_en_norm": "d) vessels of primitive construction, sailing vessels, non-self-propelled units, lighters and barges, and other floating crafts usually operating within the port.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9639,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9640,
+    "source_ar": "1- تسجل السفن في مكاتب التسجيل المعتمدة بقرار من الرئيس في أيٍّ من موانئ المملكة.",
+    "target_en": "1. Vessels shall be registered with the registration offices authorized pursuant to a decision by the Chairman at any of the Kingdom's ports.",
+    "source_ar_norm": "1- تسجل السفن في مكاتب التسجيل المعتمدة بقرار من الرئيس في اي من موانئ المملكة.",
+    "target_en_norm": "1. vessels shall be registered with the registration offices authorized pursuant to a decision by the chairman at any of the kingdom's ports.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9641,
+    "source_ar": "2- ينشأ في كل مكتب من مكاتب التسجيل سجل خاص يسمى (سجل السفن)، ترقم صفحاته، وتختم بخاتم الهيئة، وتخصص لكل سفينة صفحة يدون فيها رقم تسجيل السفينة وجميع البيانات الخاصة بها.",
+    "target_en": "2. Each registration office shall have a special record called \"Ship Registry\" whose pages shall be numbered and sealed with the Authority’s stamp, and each page shall be assigned to a separate vessel where its registration number and other relevant particulars are recorded.",
+    "source_ar_norm": "2- ينشا في كل مكتب من مكاتب التسجيل سجل خاص يسمي (سجل السفن)، ترقم صفحاته، وتختم بخاتم الهيئة، وتخصص لكل سفينة صفحة يدون فيها رقم تسجيل السفينة وجميع البيانات الخاصة بها.",
+    "target_en_norm": "2. each registration office shall have a special record called \"ship registry\" whose pages shall be numbered and sealed with the authority’s stamp, and each page shall be assigned to a separate vessel where its registration number and other relevant particulars are recorded.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9642,
+    "source_ar": "3- يحرر محضر في مكتب التسجيل يدون فيه ملخص البيانات الخاصة بالسفينة، وينشر في صحيفتين يوميتين من الصحف المحلية على حساب مالك السفينة، ويعلن عنه في لوحة الإعلانات في مكتب التسجيل وموقع الهيئة الإلكتروني.",
+    "target_en": "3. A record summarizing the vessel’s particulars shall be made at the registration office and shall be published in two local daily newspapers at the expense of the vessel owner and posted on the noticeboard at the registration office and on the Authority’s website.",
+    "source_ar_norm": "3- يحرر محضر في مكتب التسجيل يدون فيه ملخص البيانات الخاصة بالسفينة، وينشر في صحيفتين يوميتين من الصحف المحلية علي حساب مالك السفينة، ويعلن عنه في لوحة الاعلانات في مكتب التسجيل وموقع الهيئة الالكتروني.",
+    "target_en_norm": "3. a record summarizing the vessel’s particulars shall be made at the registration office and shall be published in two local daily newspapers at the expense of the vessel owner and posted on the noticeboard at the registration office and on the authority’s website.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9643,
+    "source_ar": "4- يكون مقدار رسوم تسجيل السفن وفقاً لما نص عليه نظام رسوم تسجيل السفن والوحدات العائمة.",
+    "target_en": "4. Vessel registration fees shall be determined in accordance with the Law of Vessels and Floating Units Registration Fees.",
+    "source_ar_norm": "4- يكون مقدار رسوم تسجيل السفن وفقا لما نص عليه نظام رسوم تسجيل السفن والوحدات العائمة.",
+    "target_en_norm": "4. vessel registration fees shall be determined in accordance with the law of vessels and floating units registration fees.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9644,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9645,
+    "source_ar": "1- لا يجوز للسفينة أن تبحر، وهي رافعة علم أكثر من دولة.",
+    "target_en": "1. A vessel shall not sail under the flag of more than one state.",
+    "source_ar_norm": "1- لا يجوز للسفينة ان تبحر، وهي رافعة علم اكثر من دولة.",
+    "target_en_norm": "1. a vessel shall not sail under the flag of more than one state.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9646,
+    "source_ar": "2- لا يجوز أن تسجل سفينة في سجل السفن إذا كانت مسجلة في سجل سفن دولة أخرى، ما لم تكن قد شطبت من ذلك السجل.",
+    "target_en": "2. A vessel shall not be registered in a ship registry if it has already been registered in a ship registry in another state unless it has been stricken therefrom.",
+    "source_ar_norm": "2- لا يجوز ان تسجل سفينة في سجل السفن اذا كانت مسجلة في سجل سفن دولة اخري، ما لم تكن قد شطبت من ذلك السجل.",
+    "target_en_norm": "2. a vessel shall not be registered in a ship registry if it has already been registered in a ship registry in another state unless it has been stricken therefrom.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9647,
+    "source_ar": "3- لا يجوز للسفينة أن تغير عَلَمها أثناء إبحارها أو أثناء وجودها في ميناء توقف، إلا في حالة نقل للملكية أو تغيير في التسجيل.",
+    "target_en": "3. A vessel shall not change its flag during a voyage or while in a port of call, except in cases of transfer of ownership or change of registration.",
+    "source_ar_norm": "3- لا يجوز للسفينة ان تغير علمها اثناء ابحارها او اثناء وجودها في ميناء توقف، الا في حالة نقل للملكية او تغيير في التسجيل.",
+    "target_en_norm": "3. a vessel shall not change its flag during a voyage or while in a port of call, except in cases of transfer of ownership or change of registration.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9648,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9649,
+    "source_ar": "يشترط لتسجيل السفينة فحصها ومعاينتها وقياسها وتقدير حمولتها من قبل الهيئة أو من تفوضه من إحدى هيئات التصنيف المحلية أو الدولية المعتمدة بعد تقديم وثيقة ملكيتها.",
+    "target_en": "Registration of a vessel requires the survey, inspection, and measurement of the vessel, as well as the assessment of its tonnage by the Authority or a local or international classification society authorized thereby upon submission of its ownership document.",
+    "source_ar_norm": "يشترط لتسجيل السفينة فحصها ومعاينتها وقياسها وتقدير حمولتها من قبل الهيئة او من تفوضه من احدي هيئات التصنيف المحلية او الدولية المعتمدة بعد تقديم وثيقة ملكيتها.",
+    "target_en_norm": "registration of a vessel requires the survey, inspection, and measurement of the vessel, as well as the assessment of its tonnage by the authority or a local or international classification society authorized thereby upon submission of its ownership document.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9650,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9651,
+    "source_ar": "أ- يجب على كل سفينة سعودية أن تتخذ لها اسماً، ويجب أن يكتب اسمها على مقدمتها من الجانبين وعلى مؤخرتها بحروف عربية ولاتينية ظاهرة وبلون مختلف عن لونها، ويجب كذلك كتابة ميناء تسجيل السفينة بالحروف نفسها على مؤخرتها، وكتابة جميع البيانات والعلامات المميزة التي تحددها اللوائح.",
+    "target_en": "A. All Saudi vessels shall have a name which shall be displayed on each side of the bow and on the stern, with visible Arabic and Latin letters in a color different from the vessel’s color. The vessel’s port of registration shall also be displayed on the stern using the same letters, along with all information and distinctive markings specified by the regulations.",
+    "source_ar_norm": "ا- يجب علي كل سفينة سعودية ان تتخذ لها اسما، ويجب ان يكتب اسمها علي مقدمتها من الجانبين وعلي مؤخرتها بحروف عربية ولاتينية ظاهرة وبلون مختلف عن لونها، ويجب كذلك كتابة ميناء تسجيل السفينة بالحروف نفسها علي مؤخرتها، وكتابة جميع البيانات والعلامات المميزة التي تحددها اللوائح.",
+    "target_en_norm": "a. all saudi vessels shall have a name which shall be displayed on each side of the bow and on the stern, with visible arabic and latin letters in a color different from the vessel’s color. the vessel’s port of registration shall also be displayed on the stern using the same letters, along with all information and distinctive markings specified by the regulations.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9652,
+    "source_ar": "ب- لا يجوز تكرار الاسم الواحد لأكثر من سفينة في جميع مكاتب التسجيل في المملكة.",
+    "target_en": "B. The same name shall not be used for more than one vessel at any registration office in the Kingdom.",
+    "source_ar_norm": "ب- لا يجوز تكرار الاسم الواحد لاكثر من سفينة في جميع مكاتب التسجيل في المملكة.",
+    "target_en_norm": "b. the same name shall not be used for more than one vessel at any registration office in the kingdom.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9653,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9654,
+    "source_ar": "يصدر مكتب التسجيل شهادة تسجيل مؤقتة للسفينة، تكون صالحة لرحلة واحدة أو أكثر، أو لمدة ستة أشهر قابلة للتجديد لمدة أقصاها سنتان.",
+    "target_en": "The registration office shall issue the vessel a temporary registration certificate valid for one or more voyages, or for a period of six months renewable for up to a maximum period of two years.",
+    "source_ar_norm": "يصدر مكتب التسجيل شهادة تسجيل مؤقتة للسفينة، تكون صالحة لرحلة واحدة او اكثر، او لمدة ستة اشهر قابلة للتجديد لمدة اقصاها سنتان.",
+    "target_en_norm": "the registration office shall issue the vessel a temporary registration certificate valid for one or more voyages, or for a period of six months renewable for up to a maximum period of two years.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9655,
+    "source_ar": "المادة الثالثة عشرة",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة",
+    "target_en_norm": "article 13",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9656,
+    "source_ar": "إذا انتقلت ملكية السفينة لسعودي خارج المملكة، وانطبقت عليها شروط التسجيل، كان لمالكها الحصول على شهادة تسجيل مؤقتة من أحد مكاتب التسجيل في المملكة أو من ممثلية المملكة لدى الدولة التي نقلت فيها ملكية السفينة، فإن لم تكن في هذه الدولة ممثلية للمملكة ففي أقرب دولة إليها تكون فيها ممثلية، ويسري مفعول هذه الشهادة لمدة أقصاها ستة أشهر، ويبطل مفعولها بمجرد وصول السفينة إلى أول ميناء في المملكة فيه مكتب تسجيل.",
+    "target_en": "If a vessel’s ownership is transferred to a Saudi national outside the Kingdom and it meets the registration requirements, its owner may obtain a temporary registration certificate from a registration office in the Kingdom or from the Kingdom's diplomatic mission in the country where the ownership of the vessel is transferred. If the Kingdom has no diplomatic mission in such country, the certificate may be obtained from the nearest country where the Kingdom has a diplomatic mission. Said certificate shall be valid for a period not exceeding six months and shall expire upon reaching the first port in the Kingdom which has a registration office.",
+    "source_ar_norm": "اذا انتقلت ملكية السفينة لسعودي خارج المملكة، وانطبقت عليها شروط التسجيل، كان لمالكها الحصول علي شهادة تسجيل مؤقتة من احد مكاتب التسجيل في المملكة او من ممثلية المملكة لدي الدولة التي نقلت فيها ملكية السفينة، فان لم تكن في هذه الدولة ممثلية للمملكة ففي اقرب دولة اليها تكون فيها ممثلية، ويسري مفعول هذه الشهادة لمدة اقصاها ستة اشهر، ويبطل مفعولها بمجرد وصول السفينة الي اول ميناء في المملكة فيه مكتب تسجيل.",
+    "target_en_norm": "if a vessel’s ownership is transferred to a saudi national outside the kingdom and it meets the registration requirements, its owner may obtain a temporary registration certificate from a registration office in the kingdom or from the kingdom's diplomatic mission in the country where the ownership of the vessel is transferred. if the kingdom has no diplomatic mission in such country, the certificate may be obtained from the nearest country where the kingdom has a diplomatic mission. said certificate shall be valid for a period not exceeding six months and shall expire upon reaching the first port in the kingdom which has a registration office.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9657,
+    "source_ar": "المادة الرابعة عشرة",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة",
+    "target_en_norm": "article 14",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9658,
+    "source_ar": "1- لكل مَنْ له مصلحة أن يعترض على تسجيل السفينة، وذلك خلال (تسعين) يوماً من تاريخ نشر محضر التسجيل.",
+    "target_en": "1. Any interested party may object to the registration of a vessel within 90 days following the date of publication of the registration record.",
+    "source_ar_norm": "1- لكل من له مصلحة ان يعترض علي تسجيل السفينة، وذلك خلال (تسعين) يوما من تاريخ نشر محضر التسجيل.",
+    "target_en_norm": "1. any interested party may object to the registration of a vessel within 90 days following the date of publication of the registration record.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9659,
+    "source_ar": "2- يقدم الاعتراض مسبباً إلى مكتب تسجيل السفن للتأشير فيه في السجل، تتبعه إقامة دعوى الاعتراض أمام الجهة القضائية المختصة خلال خمسة عشر يوماً من تاريخ تقديم الاعتراض وإلا عُدّ الاعتراض كأن لم يكن.",
+    "target_en": "2. A reasoned objection shall be submitted to the vessel registration office for entry into the register, followed by filing an objection claim with the competent judicial authority within 15 days from the date of submission of the objection; otherwise, the objection shall be deemed null and void.",
+    "source_ar_norm": "2- يقدم الاعتراض مسببا الي مكتب تسجيل السفن للتاشير فيه في السجل، تتبعه اقامة دعوي الاعتراض امام الجهة القضائية المختصة خلال خمسة عشر يوما من تاريخ تقديم الاعتراض والا عد الاعتراض كان لم يكن.",
+    "target_en_norm": "2. a reasoned objection shall be submitted to the vessel registration office for entry into the register, followed by filing an objection claim with the competent judicial authority within 15 days from the date of submission of the objection; otherwise, the objection shall be deemed null and void.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9660,
+    "source_ar": "المادة الخامسة عشرة",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة",
+    "target_en_norm": "article 15",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9661,
+    "source_ar": "إذا لم يقدم الاعتراض خلال المدة المحددة لتقديمه، أو صدر حكم نهائي برفضه، يصدر مكتب تسجيل السفن شهادة تسجيل دائمة للسفينة بعد استيفاء جميع الشروط والمستندات اللازمة للتسجيل التي تحددها اللوائح.",
+    "target_en": "If an objection is not submitted within the specified period or a final judgment rejecting the objection is issued, the vessel registration office shall issue a permanent registration certificate for the vessel upon satisfying the conditions and submitting the necessary documents as specified by the regulations.",
+    "source_ar_norm": "اذا لم يقدم الاعتراض خلال المدة المحددة لتقديمه، او صدر حكم نهائي برفضه، يصدر مكتب تسجيل السفن شهادة تسجيل دائمة للسفينة بعد استيفاء جميع الشروط والمستندات اللازمة للتسجيل التي تحددها اللوائح.",
+    "target_en_norm": "if an objection is not submitted within the specified period or a final judgment rejecting the objection is issued, the vessel registration office shall issue a permanent registration certificate for the vessel upon satisfying the conditions and submitting the necessary documents as specified by the regulations.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9662,
+    "source_ar": "المادة السادسة عشرة",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة",
+    "target_en_norm": "article 16",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9663,
+    "source_ar": "تعد شهادة التسجيل وثيقة لإثبات ملكية السفينة، وتمتعها بالجنسية السعودية، ويجب إبقاؤها في السفينة، وتعليق صورة منها في لوحة الإعلانات بالسفينة، ولا تستخدم إلا لتسيير السفينة في ملاحة مشروعة، ولا يجوز التنازل عنها، أو حجزها، للوفاء بدين أو لأي سبب آخر.",
+    "target_en": "A registration certificate shall serve as proof of the vessel’s ownership and of its Saudi nationality. It shall be kept in the vessel, and a copy shall be displayed on the vessel’s noticeboard. It shall only be used for the lawful navigation of the vessel and shall not be relinquished or seized for satisfying a debt or for any other reason.",
+    "source_ar_norm": "تعد شهادة التسجيل وثيقة لاثبات ملكية السفينة، وتمتعها بالجنسية السعودية، ويجب ابقاؤها في السفينة، وتعليق صورة منها في لوحة الاعلانات بالسفينة، ولا تستخدم الا لتسيير السفينة في ملاحة مشروعة، ولا يجوز التنازل عنها، او حجزها، للوفاء بدين او لاي سبب اخر.",
+    "target_en_norm": "a registration certificate shall serve as proof of the vessel’s ownership and of its saudi nationality. it shall be kept in the vessel, and a copy shall be displayed on the vessel’s noticeboard. it shall only be used for the lawful navigation of the vessel and shall not be relinquished or seized for satisfying a debt or for any other reason.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9664,
+    "source_ar": "المادة السابعة عشرة",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة",
+    "target_en_norm": "article 17",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9665,
+    "source_ar": "1- إذا فقدت شهادة تسجيل السفينة أو تلفت، يصدر المكتب الذي سجلت فيه السفينة شهادة تسجيل (بدل مفقود) أو (تالف) بناء على طلب يقدمه مالكها أو من ينوب عنه موضحةً فيه أسباب الفقد أو التلف وظروفه.",
+    "target_en": "1. If a vessel’s registration certificate is lost or damaged, a replacement shall be issued by the office where the vessel was registered upon submission of an application by its owner or his representative, stating reasons and circumstances of loss or damage.",
+    "source_ar_norm": "1- اذا فقدت شهادة تسجيل السفينة او تلفت، يصدر المكتب الذي سجلت فيه السفينة شهادة تسجيل (بدل مفقود) او (تالف) بناء علي طلب يقدمه مالكها او من ينوب عنه موضحة فيه اسباب الفقد او التلف وظروفه.",
+    "target_en_norm": "1. if a vessel’s registration certificate is lost or damaged, a replacement shall be issued by the office where the vessel was registered upon submission of an application by its owner or his representative, stating reasons and circumstances of loss or damage.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9666,
+    "source_ar": "2- إذا فقدت شهادة التسجيل خارج المملكة، يصدر المكتب الذي سجلت فيه السفينة أو ممثلية المملكة في الدولة التي فيها السفينة شهادة تسجيل مؤقتة لا تزيد مدة صلاحيتها على ستة أشهر، وتنتهي بوصول السفينة إلى أول ميناء في المملكة.",
+    "target_en": "2. If a registration certificate is lost outside the Kingdom, the office where the vessel was registered or the Kingdom’s diplomatic mission in the country where the vessel is located shall issue a temporary registration certificate that shall be valid for a period not exceeding six months and shall expire upon the vessel’s arrival to the first port in the Kingdom.",
+    "source_ar_norm": "2- اذا فقدت شهادة التسجيل خارج المملكة، يصدر المكتب الذي سجلت فيه السفينة او ممثلية المملكة في الدولة التي فيها السفينة شهادة تسجيل مؤقتة لا تزيد مدة صلاحيتها علي ستة اشهر، وتنتهي بوصول السفينة الي اول ميناء في المملكة.",
+    "target_en_norm": "2. if a registration certificate is lost outside the kingdom, the office where the vessel was registered or the kingdom’s diplomatic mission in the country where the vessel is located shall issue a temporary registration certificate that shall be valid for a period not exceeding six months and shall expire upon the vessel’s arrival to the first port in the kingdom.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9667,
+    "source_ar": "3- لمالك السفينة نقل تسجيل السفينة من المكتب المسجلة فيه إلى أي مكتب تسجيل آخر معتمد في المملكة وفقاً للإجراءات التي تحددها اللوائح.",
+    "target_en": "3. A vessel owner may transfer the vessel’s registration from the office where it is registered to any other authorized registration office in the Kingdom, in accordance with the procedures prescribed by the regulations.",
+    "source_ar_norm": "3- لمالك السفينة نقل تسجيل السفينة من المكتب المسجلة فيه الي اي مكتب تسجيل اخر معتمد في المملكة وفقا للاجراءات التي تحددها اللوائح.",
+    "target_en_norm": "3. a vessel owner may transfer the vessel’s registration from the office where it is registered to any other authorized registration office in the kingdom, in accordance with the procedures prescribed by the regulations.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9668,
+    "source_ar": "المادة الثامنة عشرة",
+    "target_en": "Article 18",
+    "source_ar_norm": "المادة الثامنة عشرة",
+    "target_en_norm": "article 18",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9669,
+    "source_ar": "يشطب تسجيل السفينة في إحدى الحالات الآتية:",
+    "target_en": "A vessel’s registration shall be stricken off if:",
+    "source_ar_norm": "يشطب تسجيل السفينة في احدي الحالات الاتية:",
+    "target_en_norm": "a vessel’s registration shall be stricken off if:",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9670,
+    "source_ar": "1- إذا هلكت.",
+    "target_en": "1. it is wrecked;",
+    "source_ar_norm": "1- اذا هلكت.",
+    "target_en_norm": "1. it is wrecked;",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9671,
+    "source_ar": "2- إذا انتقلت ملكيتها إلى أجنبي.",
+    "target_en": "2. its ownership is transferred to a foreign person;",
+    "source_ar_norm": "2- اذا انتقلت ملكيتها الي اجنبي.",
+    "target_en_norm": "2. its ownership is transferred to a foreign person;",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9672,
+    "source_ar": "3- إذا استولى عليها العدو.",
+    "target_en": "3. it is captured by an enemy;",
+    "source_ar_norm": "3- اذا استولي عليها العدو.",
+    "target_en_norm": "3. it is captured by an enemy;",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9673,
+    "source_ar": "4- إذا صدر حكم قضائي بشطب التسجيل.",
+    "target_en": "4. a judicial ruling is issued to this effect; or",
+    "source_ar_norm": "4- اذا صدر حكم قضائي بشطب التسجيل.",
+    "target_en_norm": "4. a judicial ruling is issued to this effect; or",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9674,
+    "source_ar": "5- إذا طلب المالك ذلك.",
+    "target_en": "5. the owner so requests.",
+    "source_ar_norm": "5- اذا طلب المالك ذلك.",
+    "target_en_norm": "5. the owner so requests.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9675,
+    "source_ar": "المادة التاسعة عشرة",
+    "target_en": "Article 19",
+    "source_ar_norm": "المادة التاسعة عشرة",
+    "target_en_norm": "article 19",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9676,
+    "source_ar": "تقام الدعاوى العينية المتعلقة بالسفينة أمام المحكمة المختصة التي يقع مكتب تسجيل السفينة في نطاق اختصاصها.",
+    "target_en": "In rem claims relating to the vessel shall be filed with the competent court within whose jurisdiction the vessel registration office is located.",
+    "source_ar_norm": "تقام الدعاوي العينية المتعلقة بالسفينة امام المحكمة المختصة التي يقع مكتب تسجيل السفينة في نطاق اختصاصها.",
+    "target_en_norm": "in rem claims relating to the vessel shall be filed with the competent court within whose jurisdiction the vessel registration office is located.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9677,
+    "source_ar": "الفصل الرابع: تسجيل السفينة المستأجرة غير المجهزة",
+    "target_en": "Chapter 4: Registration of a Bareboat Chartered Vessel",
+    "source_ar_norm": "الفصل الرابع: تسجيل السفينة المستاجرة غير المجهزة",
+    "target_en_norm": "chapter 4: registration of a bareboat chartered vessel",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9678,
+    "source_ar": "المادة العشرون",
+    "target_en": "Article 20",
+    "source_ar_norm": "المادة العشرون",
+    "target_en_norm": "article 20",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9679,
+    "source_ar": "1- تسجل السفينة الأجنبية غير المجهزة -لسفرة أو لرحلة واحدة أو لعدد من الرحلات والسفرات أو لمدة محددة- التي يستأجرها من تتوافر لديه شروط التسجيل بأي مكتب من مكاتب تسجيل السفن المعتمدة في المملكة، وفي حالة وجود السفينة خارج المملكة يصدر مكتب تسجيل السفن أو ممثلية المملكة شهادة تسجيل مؤقتة لهذه السفينة.",
+    "target_en": "1. A foreign bareboat chartered vessel, used for a single voyage or multiple voyages or for a specified period, which is chartered to a person satisfying the registration conditions, shall be registered with any authorized vessel registration office in the Kingdom. For vessels outside the Kingdom, the vessel registration office or the Kingdom’s diplomatic mission shall issue a temporary registration certificate.",
+    "source_ar_norm": "1- تسجل السفينة الاجنبية غير المجهزة -لسفرة او لرحلة واحدة او لعدد من الرحلات والسفرات او لمدة محددة- التي يستاجرها من تتوافر لديه شروط التسجيل باي مكتب من مكاتب تسجيل السفن المعتمدة في المملكة، وفي حالة وجود السفينة خارج المملكة يصدر مكتب تسجيل السفن او ممثلية المملكة شهادة تسجيل مؤقتة لهذه السفينة.",
+    "target_en_norm": "1. a foreign bareboat chartered vessel, used for a single voyage or multiple voyages or for a specified period, which is chartered to a person satisfying the registration conditions, shall be registered with any authorized vessel registration office in the kingdom. for vessels outside the kingdom, the vessel registration office or the kingdom’s diplomatic mission shall issue a temporary registration certificate.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9680,
+    "source_ar": "2- ينشأ في كل مكتب من مكاتب تسجيل السفن سجل خاص للتسجيل المؤقت للسفن الأجنبية المستأجرة غير المجهزة.",
+    "target_en": "2. Each vessel registration office shall establish a special register for the temporary registration of foreign bareboat chartered vessels.",
+    "source_ar_norm": "2- ينشا في كل مكتب من مكاتب تسجيل السفن سجل خاص للتسجيل المؤقت للسفن الاجنبية المستاجرة غير المجهزة.",
+    "target_en_norm": "2. each vessel registration office shall establish a special register for the temporary registration of foreign bareboat chartered vessels.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9681,
+    "source_ar": "المادة الحادية والعشرون",
+    "target_en": "Article 21",
+    "source_ar_norm": "المادة الحادية والعشرون",
+    "target_en_norm": "article 21",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9682,
+    "source_ar": "تطبق على السفينة الأجنبية المستأجرة غير المجهزة المسجلة في المملكة، الأنظمة المعمول بها في المملكة، ويحل المستأجر طوال مدة الإيجار محل المالك فيما يتعلق بالالتزامات والجزاءات الواردة في النظام.",
+    "target_en": "A foreign bareboat chartered vessel registered in the Kingdom shall be subject to the laws in force in the Kingdom. During the term of the charterparty, the charterer shall be deemed as the vessel owner with respect to the obligations and penalties stipulated in this Law.",
+    "source_ar_norm": "تطبق علي السفينة الاجنبية المستاجرة غير المجهزة المسجلة في المملكة، الانظمة المعمول بها في المملكة، ويحل المستاجر طوال مدة الايجار محل المالك فيما يتعلق بالالتزامات والجزاءات الواردة في النظام.",
+    "target_en_norm": "a foreign bareboat chartered vessel registered in the kingdom shall be subject to the laws in force in the kingdom. during the term of the charterparty, the charterer shall be deemed as the vessel owner with respect to the obligations and penalties stipulated in this law.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9683,
+    "source_ar": "المادة الثانية والعشرون",
+    "target_en": "Article 22",
+    "source_ar_norm": "المادة الثانية والعشرون",
+    "target_en_norm": "article 22",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9684,
+    "source_ar": "يلتزم المستأجر بتقديم طلب شطب سجل السفينة المستأجرة غير المجهزة، وإعادة شهادة التسجيل المؤقتة الخاصة بها خلال خمسة عشر يوماً من تاريخ انتهاء عقد الإيجار.",
+    "target_en": "The charterer shall submit an application to strike off the registration of a chartered bareboat vessel and return its temporary registration certificate within 15 days from the date of termination of the charterparty.",
+    "source_ar_norm": "يلتزم المستاجر بتقديم طلب شطب سجل السفينة المستاجرة غير المجهزة، واعادة شهادة التسجيل المؤقتة الخاصة بها خلال خمسة عشر يوما من تاريخ انتهاء عقد الايجار.",
+    "target_en_norm": "the charterer shall submit an application to strike off the registration of a chartered bareboat vessel and return its temporary registration certificate within 15 days from the date of termination of the charterparty.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9685,
+    "source_ar": "المادة الثالثة والعشرون",
+    "target_en": "Article 23",
+    "source_ar_norm": "المادة الثالثة والعشرون",
+    "target_en_norm": "article 23",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9686,
+    "source_ar": "في حالة تأجير سفينة سعودية غير مجهزة لأجنبي، فعلى مالكها إبلاغ مكتب التسجيل المسجلة فيه السفينة قبل سريان عقد الإيجار بخمسة عشر يوماً على الأقل، وعلى مكتب التسجيل تعليق أو شطب تسجيل السفينة مؤقتاً خلال مدة الإيجار، ولا يجوز للسفينة رفع علم المملكة خلال هذه المدة.",
+    "target_en": "If a bareboat Saudi vessel is chartered to a foreign person, the owner shall notify the registration office where the vessel is registered at least 15 days prior to the effective date of the charterparty. The registration office shall suspend or temporarily strike off the vessel’s registration for the term of the charterparty, and the vessel shall not fly the Kingdom's flag during such term.",
+    "source_ar_norm": "في حالة تاجير سفينة سعودية غير مجهزة لاجنبي، فعلي مالكها ابلاغ مكتب التسجيل المسجلة فيه السفينة قبل سريان عقد الايجار بخمسة عشر يوما علي الاقل، وعلي مكتب التسجيل تعليق او شطب تسجيل السفينة مؤقتا خلال مدة الايجار، ولا يجوز للسفينة رفع علم المملكة خلال هذه المدة.",
+    "target_en_norm": "if a bareboat saudi vessel is chartered to a foreign person, the owner shall notify the registration office where the vessel is registered at least 15 days prior to the effective date of the charterparty. the registration office shall suspend or temporarily strike off the vessel’s registration for the term of the charterparty, and the vessel shall not fly the kingdom's flag during such term.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9687,
+    "source_ar": "الفصل الخامس: قيد الوحدات البحرية المعفاة من التسجيل",
+    "target_en": "Chapter 5: Recording Marine Units Exempted from Registration",
+    "source_ar_norm": "الفصل الخامس: قيد الوحدات البحرية المعفاة من التسجيل",
+    "target_en_norm": "chapter 5: recording marine units exempted from registration",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9688,
+    "source_ar": "المادة الرابعة والعشرون",
+    "target_en": "Article 24",
+    "source_ar_norm": "المادة الرابعة والعشرون",
+    "target_en_norm": "article 24",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9689,
+    "source_ar": "تقيد الوحدات البحرية المعفاة من التسجيل المنصوص عليه في الفقرة (2) من المادة (السابعة)، وتحدد اللوائح شروط القيد وإجراءاته.",
+    "target_en": "Marine units exempted from the registration provided for in Article 7(2) shall be recorded. The regulations shall specify the recording conditions and procedures.",
+    "source_ar_norm": "تقيد الوحدات البحرية المعفاة من التسجيل المنصوص عليه في الفقرة (2) من المادة (السابعة)، وتحدد اللوائح شروط القيد واجراءاته.",
+    "target_en_norm": "marine units exempted from the registration provided for in article 7(2) shall be recorded. the regulations shall specify the recording conditions and procedures.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9690,
+    "source_ar": "المادة الخامسة والعشرون",
+    "target_en": "Article 25",
+    "source_ar_norm": "المادة الخامسة والعشرون",
+    "target_en_norm": "article 25",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9691,
+    "source_ar": "يصدر مكتب التسجيل المختص سند قيد للوحدة البحرية بعد تقديم وثيقة تملكها، ويوضح في هذا السند اسم الوحدة، ومواصفاتها، ورقم قيدها، واسم مالكها -أو ملاكها، وحصصهم- والخدمة المخصصة لها.",
+    "target_en": "The relevant registration office shall issue an entry document for a marine unit upon submission of its ownership document. Said entry document shall indicate the unit’s name, specifications, entry number, name of owner(s) and their shares, as well as service assigned thereto.",
+    "source_ar_norm": "يصدر مكتب التسجيل المختص سند قيد للوحدة البحرية بعد تقديم وثيقة تملكها، ويوضح في هذا السند اسم الوحدة، ومواصفاتها، ورقم قيدها، واسم مالكها -او ملاكها، وحصصهم- والخدمة المخصصة لها.",
+    "target_en_norm": "the relevant registration office shall issue an entry document for a marine unit upon submission of its ownership document. said entry document shall indicate the unit’s name, specifications, entry number, name of owner(s) and their shares, as well as service assigned thereto.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9692,
+    "source_ar": "المادة السادسة والعشرون",
+    "target_en": "Article 26",
+    "source_ar_norm": "المادة السادسة والعشرون",
+    "target_en_norm": "article 26",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9693,
+    "source_ar": "لمالك الوحدة البحرية نقل قيدها من مكتب التسجيل المقيدة فيه إلى أي مكتب تسجيل آخر معتمد في المملكة، وفقاً للإجراءات التي تحددها اللوائح.",
+    "target_en": "The owner of a marine unit may transfer its entry document from the registration office where it is recorded to any other authorized registration office in the Kingdom, in accordance with the procedures specified by the regulations.",
+    "source_ar_norm": "لمالك الوحدة البحرية نقل قيدها من مكتب التسجيل المقيدة فيه الي اي مكتب تسجيل اخر معتمد في المملكة، وفقا للاجراءات التي تحددها اللوائح.",
+    "target_en_norm": "the owner of a marine unit may transfer its entry document from the registration office where it is recorded to any other authorized registration office in the kingdom, in accordance with the procedures specified by the regulations.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9694,
+    "source_ar": "المادة السابعة والعشرون",
+    "target_en": "Article 27",
+    "source_ar_norm": "المادة السابعة والعشرون",
+    "target_en_norm": "article 27",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9695,
+    "source_ar": "لا يجوز لغير السعودي تملك الوحدات البحرية المعفاة من التسجيل، عدا سفن النزهة فيجوز للأجانب تملكها بالشروط التي تحددها اللوائح.",
+    "target_en": "A non-Saudi national may not own any marine units exempted from registration, except for pleasure vessels, which may be owned by foreign persons in accordance with the conditions specified by the regulations.",
+    "source_ar_norm": "لا يجوز لغير السعودي تملك الوحدات البحرية المعفاة من التسجيل، عدا سفن النزهة فيجوز للاجانب تملكها بالشروط التي تحددها اللوائح.",
+    "target_en_norm": "a non-saudi national may not own any marine units exempted from registration, except for pleasure vessels, which may be owned by foreign persons in accordance with the conditions specified by the regulations.",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9696,
+    "source_ar": "المادة الثامنة والعشرون",
+    "target_en": "Article 28",
+    "source_ar_norm": "المادة الثامنة والعشرون",
+    "target_en_norm": "article 28",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9697,
+    "source_ar": "يشطب قيد الوحدة البحرية في إحدى الحالات الآتية:",
+    "target_en": "The entry of a marine unit shall be stricken off if:",
+    "source_ar_norm": "يشطب قيد الوحدة البحرية في احدي الحالات الاتية:",
+    "target_en_norm": "the entry of a marine unit shall be stricken off if:",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9698,
+    "source_ar": "1- إذا هلكت.",
+    "target_en": "1. it is wrecked;",
+    "source_ar_norm": "1- اذا هلكت.",
+    "target_en_norm": "1. it is wrecked;",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9699,
+    "source_ar": "2- إذا انتقلت ملكيتها إلى أجنبي.",
+    "target_en": "2. its ownership is transferred to a foreign person; or",
+    "source_ar_norm": "2- اذا انتقلت ملكيتها الي اجنبي.",
+    "target_en_norm": "2. its ownership is transferred to a foreign person; or",
+    "file_name": "النظام البحري التجاري.docx"
+  },
+  {
+    "id": 9700,
+    "source_ar": "3- إذا صدر حكم قضائي بشطب القيد.",
+    "target_en": "3. a judicial ruling is issued to this effect.",
+    "source_ar_norm": "3- اذا صدر حكم قضائي بشطب القيد.",
+    "target_en_norm": "3. a judicial ruling is issued to this effect.",
+    "file_name": "النظام البحري التجاري.docx"
+  }
+]

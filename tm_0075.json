@@ -1,0 +1,802 @@
+[
+  {
+    "id": 7401,
+    "source_ar": "على شركة التمويل تقييم المخاطر المتعلقة بكل تعرض وتصنيفها قبل إصدار قرار التمويل، ومراجعة تصنيف المخاطر مرة على الأقل كل سنة.",
+    "target_en": "Exposure risks must be assessed and classified prior to making the finance decision. The risk classification must be reviewed at least once a year.",
+    "source_ar_norm": "علي شركة التمويل تقييم المخاطر المتعلقة بكل تعرض وتصنيفها قبل اصدار قرار التمويل، ومراجعة تصنيف المخاطر مرة علي الاقل كل سنة.",
+    "target_en_norm": "exposure risks must be assessed and classified prior to making the finance decision. the risk classification must be reviewed at least once a year.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7402,
+    "source_ar": "على شركة التمويل تحديد إجراءات الكشف المبكر عن المخاطر لتحديد التمويل الذي تظهر دلائل واضحة على احتوائه مخاطر متزايدة ووضع مؤشرات كمية ونوعية للتعرف المبكر على المخاطر.",
+    "target_en": "The finance company must specify procedures for early detection of risks to identify finance that manifests clear signs of increased risk and develop quantitative and qualitative indicators for early identification of risks.",
+    "source_ar_norm": "علي شركة التمويل تحديد اجراءات الكشف المبكر عن المخاطر لتحديد التمويل الذي تظهر دلائل واضحة علي احتوائه مخاطر متزايدة ووضع مؤشرات كمية ونوعية للتعرف المبكر علي المخاطر.",
+    "target_en_norm": "the finance company must specify procedures for early detection of risks to identify finance that manifests clear signs of increased risk and develop quantitative and qualitative indicators for early identification of risks.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7403,
+    "source_ar": "المادة الستون:",
+    "target_en": "Article 60",
+    "source_ar_norm": "المادة الستون:",
+    "target_en_norm": "article 60",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7404,
+    "source_ar": "يجب أن يكون التمويل بضمان وفقاً لسياسة وإجراءات إدارة المخاطر التي يعتمدها مجلس إدارة شركة التمويل.",
+    "target_en": "No finance may be extended without collateral, in accordance with the policy and procedures of risk management approved by the finance company's board of directors.",
+    "source_ar_norm": "يجب ان يكون التمويل بضمان وفقا لسياسة واجراءات ادارة المخاطر التي يعتمدها مجلس ادارة شركة التمويل.",
+    "target_en_norm": "no finance may be extended without collateral, in accordance with the policy and procedures of risk management approved by the finance company's board of directors.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7405,
+    "source_ar": "تقبل الضمانات بشرط أن تكون قابلة للتقييم والتنفيذ، ويجب أن يكون الضمان رهناً أو تنازلاً عن أصول أو ضماناً شخصياً من الغير، وأن تقيم الضمانات الشخصية حسب صافي موجودات الضامن وصافي دخله أو أحدهما.",
+    "target_en": "Collaterals must be capable of being valued and enforced in order to be acceptable. Collaterals must be a pledge, an assignment of assets or a personal guarantee from a third party. Personal guarantees must be evaluated based on the net assets or net earning of the guarantor or both.",
+    "source_ar_norm": "تقبل الضمانات بشرط ان تكون قابلة للتقييم والتنفيذ، ويجب ان يكون الضمان رهنا او تنازلا عن اصول او ضمانا شخصيا من الغير، وان تقيم الضمانات الشخصية حسب صافي موجودات الضامن وصافي دخله او احدهما.",
+    "target_en_norm": "collaterals must be capable of being valued and enforced in order to be acceptable. collaterals must be a pledge, an assignment of assets or a personal guarantee from a third party. personal guarantees must be evaluated based on the net assets or net earning of the guarantor or both.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7406,
+    "source_ar": "يجب تقييم الضمانات والتحقق من سلامتها النظامية قبل منح التمويل.",
+    "target_en": "The value and legal validity of collaterals must be assessed prior to extending finance.",
+    "source_ar_norm": "يجب تقييم الضمانات والتحقق من سلامتها النظامية قبل منح التمويل.",
+    "target_en_norm": "the value and legal validity of collaterals must be assessed prior to extending finance.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7407,
+    "source_ar": "إذا كانت قيمة الضمانات تتأثر جوهرياً بالوضع المالي للغير، أو بتقلبات وظروف السوق فيجب تقييم تلك الضمانات بصفة دورية، واتخاذ الإجراءات المنصوص عليها في العقد لتعزيزها في حال انخفاضها، ومراجعة هذه المخاطر بالأسلوب المناسب.",
+    "target_en": "If the value of a collateral is substantially affected by the financial status of a third party or market fluctuations and conditions, such collateral must be assessed on a regular basis, and procedures stipulated in the contract shall be taken to enhance said collateral when its value decreases. Risks shall be reviewed as appropriate.",
+    "source_ar_norm": "اذا كانت قيمة الضمانات تتاثر جوهريا بالوضع المالي للغير، او بتقلبات وظروف السوق فيجب تقييم تلك الضمانات بصفة دورية، واتخاذ الاجراءات المنصوص عليها في العقد لتعزيزها في حال انخفاضها، ومراجعة هذه المخاطر بالاسلوب المناسب.",
+    "target_en_norm": "if the value of a collateral is substantially affected by the financial status of a third party or market fluctuations and conditions, such collateral must be assessed on a regular basis, and procedures stipulated in the contract shall be taken to enhance said collateral when its value decreases. risks shall be reviewed as appropriate.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7408,
+    "source_ar": "يجب إصدار القرارات المتعلقة بمخاطر الضمانات والاحتياطيات من مسؤول الوظيفة الرقابية.",
+    "target_en": "Decisions relating to collateral and reserve risks must be made by the control officer.",
+    "source_ar_norm": "يجب اصدار القرارات المتعلقة بمخاطر الضمانات والاحتياطيات من مسؤول الوظيفة الرقابية.",
+    "target_en_norm": "decisions relating to collateral and reserve risks must be made by the control officer.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7409,
+    "source_ar": "المادة الحادية والستون:",
+    "target_en": "Article 61",
+    "source_ar_norm": "المادة الحادية والستون:",
+    "target_en_norm": "article 61",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7410,
+    "source_ar": "استثناءً من أحكام المادة الستون من هذه اللائحة، لشركة التمويل منح تمويل دون ضمان عند استيفاء الآتي:",
+    "target_en": "Notwithstanding the provisions of Article 60 of this Regulation, the finance company may extend finance without a collateral, if the following applies:",
+    "source_ar_norm": "استثناء من احكام المادة الستون من هذه اللائحة، لشركة التمويل منح تمويل دون ضمان عند استيفاء الاتي:",
+    "target_en_norm": "notwithstanding the provisions of article 60 of this regulation, the finance company may extend finance without a collateral, if the following applies:",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7411,
+    "source_ar": "ألا يزيد إجمالي مبالغ التمويل الممنوحة للمستفيد دون ضمان على (100,000) مئة ألف ريـال بناءً على بيانات السجل الائتماني للمستفيد.",
+    "target_en": "Based on his credit history, the total amount of finance extended to the borrower without collateral does not exceed one hundred thousand riyals (SAR 100,000).",
+    "source_ar_norm": "الا يزيد اجمالي مبالغ التمويل الممنوحة للمستفيد دون ضمان علي (100,000) مئة الف ريال بناء علي بيانات السجل الائتماني للمستفيد.",
+    "target_en_norm": "based on his credit history, the total amount of finance extended to the borrower without collateral does not exceed one hundred thousand riyals (sar 100,000).",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7412,
+    "source_ar": "ألا يكون على المستفيد مديونية متعثرة لم تسوَّى، أو نزاع لم يُحل، أو دعوى ذات صفة ائتمانية قائمة، أو دعوى إعسار أو إفلاس أو تصفية خلال العشر سنوات السابقة، أو شيكات دون مقابل وفاء صادرة عنه خلال الخمس سنوات السابقة، وذلك بناءً على بيانات السجل الائتماني للمستفيد.",
+    "target_en": "The borrower has no history of unsettled defaulted debt; unresolved dispute; pending credit lawsuit; or insolvency, bankruptcy or liquidation suit in the past ten years; or dishonoured checks issued in the past five years, based on the borrower’s credit history.",
+    "source_ar_norm": "الا يكون علي المستفيد مديونية متعثرة لم تسوي، او نزاع لم يحل، او دعوي ذات صفة ائتمانية قائمة، او دعوي اعسار او افلاس او تصفية خلال العشر سنوات السابقة، او شيكات دون مقابل وفاء صادرة عنه خلال الخمس سنوات السابقة، وذلك بناء علي بيانات السجل الائتماني للمستفيد.",
+    "target_en_norm": "the borrower has no history of unsettled defaulted debt; unresolved dispute; pending credit lawsuit; or insolvency, bankruptcy or liquidation suit in the past ten years; or dishonoured checks issued in the past five years, based on the borrower’s credit history.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7413,
+    "source_ar": "ألا يكون المستفيد طرفاً ذا علاقة.",
+    "target_en": "The borrower is not a related party.",
+    "source_ar_norm": "الا يكون المستفيد طرفا ذا علاقة.",
+    "target_en_norm": "the borrower is not a related party.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7414,
+    "source_ar": "المادة الثانية والستون:",
+    "target_en": "Article 62",
+    "source_ar_norm": "المادة الثانية والستون:",
+    "target_en_norm": "article 62",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7415,
+    "source_ar": "على شركة التمويل وضع مخصصات للخسائر والمخاطر المحتملة، وفقاً لمعايير المحاسبة الدولية. وللمؤسسة إلزام شركة التمويل بوضع مخصص إضافي أو أكثر لمقابلة الخسائر والمخاطر المحتملة.",
+    "target_en": "The finance company must set provisions for contingent losses and risks in accordance with international accounting standards. SAMA may require the finance company to add one or more provisions for such losses and risks.",
+    "source_ar_norm": "علي شركة التمويل وضع مخصصات للخسائر والمخاطر المحتملة، وفقا لمعايير المحاسبة الدولية. وللمؤسسة الزام شركة التمويل بوضع مخصص اضافي او اكثر لمقابلة الخسائر والمخاطر المحتملة.",
+    "target_en_norm": "the finance company must set provisions for contingent losses and risks in accordance with international accounting standards. sama may require the finance company to add one or more provisions for such losses and risks.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7416,
+    "source_ar": "المادة الثالثة والستون:",
+    "target_en": "Article 63",
+    "source_ar_norm": "المادة الثالثة والستون:",
+    "target_en_norm": "article 63",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7417,
+    "source_ar": "على شركة التمويل تحديد ما يجب إخضاعه لمتطلبات الملاحظة الدقيقة من التعرضات، وعليها مراجعة تلك التعرضات بشكل مستمر لتحديد ما تحتاج إليه من إجراءات إضافية، ووضع قواعد واضحة لتحديد الحالات التي يلزم فيها انتقال التمويل إلى فريق مختص بإعادة الهيكلة أو الجدولة أو التصفية.",
+    "target_en": "The finance company must identify cases where exposures require close monitoring. Such exposures shall be constantly reviewed to determine whether further actions are required. The finance company shall set clear rules to identify cases requiring referral of finance to a team specializing in restructuring, rescheduling or winding up.",
+    "source_ar_norm": "علي شركة التمويل تحديد ما يجب اخضاعه لمتطلبات الملاحظة الدقيقة من التعرضات، وعليها مراجعة تلك التعرضات بشكل مستمر لتحديد ما تحتاج اليه من اجراءات اضافية، ووضع قواعد واضحة لتحديد الحالات التي يلزم فيها انتقال التمويل الي فريق مختص باعادة الهيكلة او الجدولة او التصفية.",
+    "target_en_norm": "the finance company must identify cases where exposures require close monitoring. such exposures shall be constantly reviewed to determine whether further actions are required. the finance company shall set clear rules to identify cases requiring referral of finance to a team specializing in restructuring, rescheduling or winding up.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7418,
+    "source_ar": "مع مراعاة معايير المحاسبة الدولية، على شركة التمويل تحديد معايير تخفيض قيمة الأصول، ومعايير تكوين المخصصات، بما فيها مخصصات التحوط من مخاطر الدول، والتحقق من تطبيقها بانتظام.",
+    "target_en": "Subject to international accounting standards, the finance company must set criteria for devaluation of assets and criteria for provisioning, including country-risk provisioning, and ensure regular application.",
+    "source_ar_norm": "مع مراعاة معايير المحاسبة الدولية، علي شركة التمويل تحديد معايير تخفيض قيمة الاصول، ومعايير تكوين المخصصات، بما فيها مخصصات التحوط من مخاطر الدول، والتحقق من تطبيقها بانتظام.",
+    "target_en_norm": "subject to international accounting standards, the finance company must set criteria for devaluation of assets and criteria for provisioning, including country-risk provisioning, and ensure regular application.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7419,
+    "source_ar": "المادة الرابعة والستون:",
+    "target_en": "Article 64",
+    "source_ar_norm": "المادة الرابعة والستون:",
+    "target_en_norm": "article 64",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7420,
+    "source_ar": "يكون التأمين على مخاطر التمويل وفق أحكام نظام مراقبة شركات التأمين التعاوني ولائحته التنفيذية وما تصدره المؤسسة من تعليمات.",
+    "target_en": "Insurance against finance risks must be in accordance with the Cooperative Insurance Companies Control Law and its Implementing Regulation as well as instructions issued by SAMA.",
+    "source_ar_norm": "يكون التامين علي مخاطر التمويل وفق احكام نظام مراقبة شركات التامين التعاوني ولائحته التنفيذية وما تصدره المؤسسة من تعليمات.",
+    "target_en_norm": "insurance against finance risks must be in accordance with the cooperative insurance companies control law and its implementing regulation as well as instructions issued by sama.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7421,
+    "source_ar": "الباب الثاني عشر فتح الحسابات وقبول الودائع",
+    "target_en": "Chapter Twelve: Accounts and Deposits",
+    "source_ar_norm": "الباب الثاني عشر فتح الحسابات وقبول الودائع",
+    "target_en_norm": "chapter twelve: accounts and deposits",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7422,
+    "source_ar": "المادة الخامسة والستون:",
+    "target_en": "Article 65",
+    "source_ar_norm": "المادة الخامسة والستون:",
+    "target_en_norm": "article 65",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7423,
+    "source_ar": "لا يجوز لشركة التمويل قبول ودائع آجلة، أو تسهيلات غير مصرفية، أو ما شابهها، أو فتح حسابات من أي نوع لعملائها، إلا بعد الحصول على خطاب من المؤسسة يتضمن عدم ممانعتها على ذلك.",
+    "target_en": "The finance company may not accept term deposits or non-banking facilities or the like, or open any type of accounts for its clients unless a no objection letter from SAMA is obtained.",
+    "source_ar_norm": "لا يجوز لشركة التمويل قبول ودائع اجلة، او تسهيلات غير مصرفية، او ما شابهها، او فتح حسابات من اي نوع لعملائها، الا بعد الحصول علي خطاب من المؤسسة يتضمن عدم ممانعتها علي ذلك.",
+    "target_en_norm": "the finance company may not accept term deposits or non-banking facilities or the like, or open any type of accounts for its clients unless a no objection letter from sama is obtained.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7424,
+    "source_ar": "الباب الثالث عشر تداول الأوراق المالية",
+    "target_en": "Chapter Thirteen: Trading Securities",
+    "source_ar_norm": "الباب الثالث عشر تداول الاوراق المالية",
+    "target_en_norm": "chapter thirteen: trading securities",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7425,
+    "source_ar": "المادة السادسة والستون:",
+    "target_en": "Article 66",
+    "source_ar_norm": "المادة السادسة والستون:",
+    "target_en_norm": "article 66",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7426,
+    "source_ar": "دون إخلال بحكم الفقرة الثالثة من المادة الحادية عشرة من النظام، لا يجوز لشركة التمويل تملك الأوراق المالية، مثل الأسهم والسندات والصكوك والمشتقات المالية، إلا في الحالات الآتية:",
+    "target_en": "Without prejudice to Article 11(3) of the Law, the finance company may not hold securities such as stocks, bonds, sukuk and derivatives except in the following cases:",
+    "source_ar_norm": "دون اخلال بحكم الفقرة الثالثة من المادة الحادية عشرة من النظام، لا يجوز لشركة التمويل تملك الاوراق المالية، مثل الاسهم والسندات والصكوك والمشتقات المالية، الا في الحالات الاتية:",
+    "target_en_norm": "without prejudice to article 11(3) of the law, the finance company may not hold securities such as stocks, bonds, sukuk and derivatives except in the following cases:",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7427,
+    "source_ar": "إذا كانت جزءاً من عملية تمويل يكون الغرض منها منح تمويل للمستفيد.",
+    "target_en": "As part of a finance transaction where the purpose of the transaction is to extend finance to the borrower.",
+    "source_ar_norm": "اذا كانت جزءا من عملية تمويل يكون الغرض منها منح تمويل للمستفيد.",
+    "target_en_norm": "as part of a finance transaction where the purpose of the transaction is to extend finance to the borrower.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7428,
+    "source_ar": "استثمار النقد المتاح في خزينتها من خلال ودائع لدى البنوك التجارية المحلية أو في أدوات الدين التي توافق عليها المؤسسة.",
+    "target_en": "To invest available cash, through deposits with local commercial banks or through debt instruments approved by SAMA.",
+    "source_ar_norm": "استثمار النقد المتاح في خزينتها من خلال ودائع لدي البنوك التجارية المحلية او في ادوات الدين التي توافق عليها المؤسسة.",
+    "target_en_norm": "to invest available cash, through deposits with local commercial banks or through debt instruments approved by sama.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7429,
+    "source_ar": "التحوط من التعرض لمخاطر قائمة لكلفة الأجل.",
+    "target_en": "To hedge against existing term cost risks.",
+    "source_ar_norm": "التحوط من التعرض لمخاطر قائمة لكلفة الاجل.",
+    "target_en_norm": "to hedge against existing term cost risks.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7430,
+    "source_ar": "التحوط من التعرض لمخاطر قائمة للعملة.",
+    "target_en": "To hedge against existing currency risks.",
+    "source_ar_norm": "التحوط من التعرض لمخاطر قائمة للعملة.",
+    "target_en_norm": "to hedge against existing currency risks.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7431,
+    "source_ar": "الباب الرابع عشر إعادة التمويل",
+    "target_en": "Chapter Fourteen: Refinance",
+    "source_ar_norm": "الباب الرابع عشر اعادة التمويل",
+    "target_en_norm": "chapter fourteen: refinance",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7432,
+    "source_ar": "المادة السابعة والستون:",
+    "target_en": "Article 67",
+    "source_ar_norm": "المادة السابعة والستون:",
+    "target_en_norm": "article 67",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7433,
+    "source_ar": "مع مراعاة ما ورد في المادة الرابعة عشرة من النظام، يجوز لشركة التمويل إصدار أوراق مالية بعد الحصول على خطاب من المؤسسة يتضمن عدم ممانعتها.",
+    "target_en": "Subject to the provisions of Article 14 of the Law, the finance company may issue securities upon obtaining a no objection letter from SAMA.",
+    "source_ar_norm": "مع مراعاة ما ورد في المادة الرابعة عشرة من النظام، يجوز لشركة التمويل اصدار اوراق مالية بعد الحصول علي خطاب من المؤسسة يتضمن عدم ممانعتها.",
+    "target_en_norm": "subject to the provisions of article 14 of the law, the finance company may issue securities upon obtaining a no objection letter from sama.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7434,
+    "source_ar": "لا يجوز لشركة التمويل التصرف في أصول التمويل أو الحقوق الناشئة عنها بأي شكل إلا بعد الحصول على خطاب من المؤسسة يتضمن عدم ممانعتها. ويشترط للتصرف في أصول التمويل أو الحقوق الناشئة عنها مضي سنة واحدة على الأقل من تاريخ منح التمويل المرتبط بالأصل المراد التصرف فيه.",
+    "target_en": "The finance company may not dispose finance assets or rights arising therefrom in any form except upon obtaining a no objection letter from SAMA. Disposing of finance assets or rights arising therefrom requires the lapse of at least one year from date of extending the finance related to the asset to be disposed of.",
+    "source_ar_norm": "لا يجوز لشركة التمويل التصرف في اصول التمويل او الحقوق الناشئة عنها باي شكل الا بعد الحصول علي خطاب من المؤسسة يتضمن عدم ممانعتها. ويشترط للتصرف في اصول التمويل او الحقوق الناشئة عنها مضي سنة واحدة علي الاقل من تاريخ منح التمويل المرتبط بالاصل المراد التصرف فيه.",
+    "target_en_norm": "the finance company may not dispose finance assets or rights arising therefrom in any form except upon obtaining a no objection letter from sama. disposing of finance assets or rights arising therefrom requires the lapse of at least one year from date of extending the finance related to the asset to be disposed of.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7435,
+    "source_ar": "تلتزم شركة التمويل بما تصدره المؤسسة من قواعد وتعليمات في شأن تطبيق أحكام هذه المادة.",
+    "target_en": "The finance company shall comply with rules and instructions issued by SAMA in the application of the provisions of this Article.",
+    "source_ar_norm": "تلتزم شركة التمويل بما تصدره المؤسسة من قواعد وتعليمات في شان تطبيق احكام هذه المادة.",
+    "target_en_norm": "the finance company shall comply with rules and instructions issued by sama in the application of the provisions of this article.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7436,
+    "source_ar": "المادة الثامنة والستون:",
+    "target_en": "Article 68",
+    "source_ar_norm": "المادة الثامنة والستون:",
+    "target_en_norm": "article 68",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7437,
+    "source_ar": "لا يجوز لشركة التمويل الحصول على تمويل أجنبي أو بعملة أخرى غير الريـال السعودي إلا بعد الحصول على خطاب من المؤسسة يتضمن عدم ممانعتها.",
+    "target_en": "A finance company shall not receive foreign finance or finance in a currency other than Saudi riyal except upon obtaining a no objection letter from SAMA.",
+    "source_ar_norm": "لا يجوز لشركة التمويل الحصول علي تمويل اجنبي او بعملة اخري غير الريال السعودي الا بعد الحصول علي خطاب من المؤسسة يتضمن عدم ممانعتها.",
+    "target_en_norm": "a finance company shall not receive foreign finance or finance in a currency other than saudi riyal except upon obtaining a no objection letter from sama.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7438,
+    "source_ar": "الباب الخامس عشر التغييرات الهيكلية",
+    "target_en": "Chapter Fifteen: Structural Changes",
+    "source_ar_norm": "الباب الخامس عشر التغييرات الهيكلية",
+    "target_en_norm": "chapter fifteen: structural changes",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7439,
+    "source_ar": "المادة التاسعة والستون:",
+    "target_en": "Article 69",
+    "source_ar_norm": "المادة التاسعة والستون:",
+    "target_en_norm": "article 69",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7440,
+    "source_ar": "يشترط حصول شركة التمويل على خطاب من المؤسسة يتضمن عدم ممانعتها قبل التعيين في الوظائف والمهام الآتية:",
+    "target_en": "A finance company shall obtain a no objection letter from SAMA prior to appointment of:",
+    "source_ar_norm": "يشترط حصول شركة التمويل علي خطاب من المؤسسة يتضمن عدم ممانعتها قبل التعيين في الوظائف والمهام الاتية:",
+    "target_en_norm": "a finance company shall obtain a no objection letter from sama prior to appointment of:",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7441,
+    "source_ar": "عضوية مجلس الإدارة واللجان المنبثقة من المجلس.",
+    "target_en": "members of the board of directors and board committees;",
+    "source_ar_norm": "عضوية مجلس الادارة واللجان المنبثقة من المجلس.",
+    "target_en_norm": "members of the board of directors and board committees;",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7442,
+    "source_ar": "العضو المنتدب والرئيس التنفيذي والمدير العام ونوابهم والمدير المالي ومديرو الإدارات الرئيسة، أو من ينوب عنهم.",
+    "target_en": "managing director, chief executive officer, general manager and their deputies as well as financial chief officer and directors of key departments, or their designees; and",
+    "source_ar_norm": "العضو المنتدب والرئيس التنفيذي والمدير العام ونوابهم والمدير المالي ومديرو الادارات الرئيسة، او من ينوب عنهم.",
+    "target_en_norm": "managing director, chief executive officer, general manager and their deputies as well as financial chief officer and directors of key departments, or their designees; and",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7443,
+    "source_ar": "مديرو وظائف المراقبة، مثل المراجعة الداخلية، وإدارة المخاطر، والالتزام، أو من ينوب عنهم.",
+    "target_en": "managers of control-related departments, such as internal audit, risk management and compliance, or their designees.",
+    "source_ar_norm": "مديرو وظائف المراقبة، مثل المراجعة الداخلية، وادارة المخاطر، والالتزام، او من ينوب عنهم.",
+    "target_en_norm": "managers of control-related departments, such as internal audit, risk management and compliance, or their designees.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7444,
+    "source_ar": "المادة السبعون:",
+    "target_en": "Article 70",
+    "source_ar_norm": "المادة السبعون:",
+    "target_en_norm": "article 70",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7445,
+    "source_ar": "على شركة التمويل إبلاغ المؤسسة فوراً في الحالتين الآتيتين:",
+    "target_en": "A finance company must promptly notify SAMA in the following cases:",
+    "source_ar_norm": "علي شركة التمويل ابلاغ المؤسسة فورا في الحالتين الاتيتين:",
+    "target_en_norm": "a finance company must promptly notify sama in the following cases:",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7446,
+    "source_ar": "إحالة أي من أعضاء الإدارة العليا إلى التقاعد أو إنهاء تفويضه.",
+    "target_en": "Retirement of any member of senior management or termination of his authorization.",
+    "source_ar_norm": "احالة اي من اعضاء الادارة العليا الي التقاعد او انهاء تفويضه.",
+    "target_en_norm": "retirement of any member of senior management or termination of his authorization.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7447,
+    "source_ar": "أي خسائر تزيد على (15٪) من رأس مالها المدفوع.",
+    "target_en": "Losses exceeding 15 percent of the paid up capital.",
+    "source_ar_norm": "اي خسائر تزيد علي (15٪) من راس مالها المدفوع.",
+    "target_en_norm": "losses exceeding 15 percent of the paid up capital.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7448,
+    "source_ar": "الباب السادس عشر الحسابات",
+    "target_en": "Chapter Sixteen: Accounts",
+    "source_ar_norm": "الباب السادس عشر الحسابات",
+    "target_en_norm": "chapter sixteen: accounts",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7449,
+    "source_ar": "المادة الحادية والسبعون:",
+    "target_en": "Article 71",
+    "source_ar_norm": "المادة الحادية والسبعون:",
+    "target_en_norm": "article 71",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7450,
+    "source_ar": "على شركة التمويل اتباع معايير المحاسبة الدولية في إعداد حساباتها وقوائمها المالية.",
+    "target_en": "A finance company shall apply international accounting standards in the preparation of their accounts and financial statements.",
+    "source_ar_norm": "علي شركة التمويل اتباع معايير المحاسبة الدولية في اعداد حساباتها وقوائمها المالية.",
+    "target_en_norm": "a finance company shall apply international accounting standards in the preparation of their accounts and financial statements.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7451,
+    "source_ar": "المادة الثانية والسبعون:",
+    "target_en": "Article 72",
+    "source_ar_norm": "المادة الثانية والسبعون:",
+    "target_en_norm": "article 72",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7452,
+    "source_ar": "على شركة التمويل الالتزام بتزويد المؤسسة بقوائمها المالية السنوية المدققة وتقرير مراجع الحسابات وتقرير مجلس إدارتها قبل تاريخ نشرها بخمسة أيام عمل على الأقل.",
+    "target_en": "A finance company shall provide SAMA with its audited annual financial statements, auditor’s report and the report of the board of directors at least five business days prior to publication.",
+    "source_ar_norm": "علي شركة التمويل الالتزام بتزويد المؤسسة بقوائمها المالية السنوية المدققة وتقرير مراجع الحسابات وتقرير مجلس ادارتها قبل تاريخ نشرها بخمسة ايام عمل علي الاقل.",
+    "target_en_norm": "a finance company shall provide sama with its audited annual financial statements, auditor’s report and the report of the board of directors at least five business days prior to publication.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7453,
+    "source_ar": "على شركة التمويل الالتزام بتزويد المؤسسة بقوائمها المالية ربع السنوية وتقرير مراجع الحسابات قبل تاريخ نشرها بخمسة أيام عمل على الأقل.",
+    "target_en": "The finance company shall provide SAMA with its quarterly financial statements and auditor’s report at least five business days prior to publication.",
+    "source_ar_norm": "علي شركة التمويل الالتزام بتزويد المؤسسة بقوائمها المالية ربع السنوية وتقرير مراجع الحسابات قبل تاريخ نشرها بخمسة ايام عمل علي الاقل.",
+    "target_en_norm": "the finance company shall provide sama with its quarterly financial statements and auditor’s report at least five business days prior to publication.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7454,
+    "source_ar": "المادة الثالثة والسبعون:",
+    "target_en": "Article 73",
+    "source_ar_norm": "المادة الثالثة والسبعون:",
+    "target_en_norm": "article 73",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7455,
+    "source_ar": "دون الإخلال بمتطلبات الأنظمة المرعية الأخرى، تنشئ شركة التمويل موقعاً إلكترونياً خاصاً بها على شبكة المعلومات الدولية (الإنترنت) تنشر فيه تقاريرها وقوائمها المالية السنوية متضمنة الآتي:",
+    "target_en": "Without prejudice to requirements of other laws, a finance company shall create a website to publish its annual financial statements and reports, including the following:",
+    "source_ar_norm": "دون الاخلال بمتطلبات الانظمة المرعية الاخري، تنشئ شركة التمويل موقعا الكترونيا خاصا بها علي شبكة المعلومات الدولية (الانترنت) تنشر فيه تقاريرها وقوائمها المالية السنوية متضمنة الاتي:",
+    "target_en_norm": "without prejudice to requirements of other laws, a finance company shall create a website to publish its annual financial statements and reports, including the following:",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7456,
+    "source_ar": "قائمة المركز المالي.",
+    "target_en": "Statement of financial position.",
+    "source_ar_norm": "قائمة المركز المالي.",
+    "target_en_norm": "statement of financial position.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7457,
+    "source_ar": "قائمة الدخل.",
+    "target_en": "Income statement.",
+    "source_ar_norm": "قائمة الدخل.",
+    "target_en_norm": "income statement.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7458,
+    "source_ar": "قائمة التدفقات النقدية.",
+    "target_en": "Cash flow statement.",
+    "source_ar_norm": "قائمة التدفقات النقدية.",
+    "target_en_norm": "cash flow statement.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7459,
+    "source_ar": "تقرير مجلس الإدارة.",
+    "target_en": "Board of director's report.",
+    "source_ar_norm": "تقرير مجلس الادارة.",
+    "target_en_norm": "board of director's report.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7460,
+    "source_ar": "الباب السابع عشر مراجعة الحسابات والفحص",
+    "target_en": "Chapter Seventeen: Account Audit and Inspection",
+    "source_ar_norm": "الباب السابع عشر مراجعة الحسابات والفحص",
+    "target_en_norm": "chapter seventeen: account audit and inspection",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7461,
+    "source_ar": "المادة الرابعة والسبعون:",
+    "target_en": "Article 74",
+    "source_ar_norm": "المادة الرابعة والسبعون:",
+    "target_en_norm": "article 74",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7462,
+    "source_ar": "على شركة التمويل قبل تعيين مراقب حسابات خارجي الحصول على خطاب من المؤسسة يتضمن عدم ممانعتها. وللمؤسسة إلزامها بتعيين مراقب حسابات آخر متى استلزم حجم أعمالها وطبيعتها ذلك.",
+    "target_en": "A finance company must obtain a no objection letter from SAMA prior to appointing an external auditor. SAMA may require the finance company to appoint another auditor if the size and nature of the company’s business so require.",
+    "source_ar_norm": "علي شركة التمويل قبل تعيين مراقب حسابات خارجي الحصول علي خطاب من المؤسسة يتضمن عدم ممانعتها. وللمؤسسة الزامها بتعيين مراقب حسابات اخر متي استلزم حجم اعمالها وطبيعتها ذلك.",
+    "target_en_norm": "a finance company must obtain a no objection letter from sama prior to appointing an external auditor. sama may require the finance company to appoint another auditor if the size and nature of the company’s business so require.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7463,
+    "source_ar": "للمؤسسة إلزام شركة التمويل بتغيير مراقب حساباتها الخارجي، أو أن تتولى تعيين مراقب حسابات خارجي آخر على نفقة الشركة في الأحوال الآتية:",
+    "target_en": "SAMA may require the finance company to replace its external auditor or may appoint another external auditor at the expense of the finance company if:",
+    "source_ar_norm": "للمؤسسة الزام شركة التمويل بتغيير مراقب حساباتها الخارجي، او ان تتولي تعيين مراقب حسابات خارجي اخر علي نفقة الشركة في الاحوال الاتية:",
+    "target_en_norm": "sama may require the finance company to replace its external auditor or may appoint another external auditor at the expense of the finance company if:",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7464,
+    "source_ar": "(أ) إذا اقتضى حجم وطبيعة أعمالها ذلك.",
+    "target_en": "a) the size and nature of its business so require;",
+    "source_ar_norm": "(ا) اذا اقتضي حجم وطبيعة اعمالها ذلك.",
+    "target_en_norm": "a) the size and nature of its business so require;",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7465,
+    "source_ar": "(ب) ارتكاب مراقب الحسابات الخارجي مخالفات تتعلق بتجاوزات مهنية.",
+    "target_en": "b) the external auditor commits a violation of professional nature;",
+    "source_ar_norm": "(ب) ارتكاب مراقب الحسابات الخارجي مخالفات تتعلق بتجاوزات مهنية.",
+    "target_en_norm": "b) the external auditor commits a violation of professional nature;",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7466,
+    "source_ar": "(ج) نشوء سبب للاعتقاد بتضارب المصالح لدى مراقب الحسابات الخارجي.",
+    "target_en": "c) there is a reason to believe that the external auditor has a conflict of interest; or",
+    "source_ar_norm": "(ج) نشوء سبب للاعتقاد بتضارب المصالح لدي مراقب الحسابات الخارجي.",
+    "target_en_norm": "c) there is a reason to believe that the external auditor has a conflict of interest; or",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7467,
+    "source_ar": "(د) إذا اقتضت اعتبارات سلامة قطاع التمويل أو اعتبارات الحوكمة وحماية مصالح ذوي الشأن بشركة التمويل ذلك.",
+    "target_en": "d) the integrity of the finance sector or governance considerations and the protection of stakeholder’s interest so require.",
+    "source_ar_norm": "(د) اذا اقتضت اعتبارات سلامة قطاع التمويل او اعتبارات الحوكمة وحماية مصالح ذوي الشان بشركة التمويل ذلك.",
+    "target_en_norm": "d) the integrity of the finance sector or governance considerations and the protection of stakeholder’s interest so require.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7468,
+    "source_ar": "على مراقب الحسابات الخارجي إبلاغ المؤسسة فوراً إذا تبين له أثناء المراجعة وقائع من شأنها الآتي:",
+    "target_en": "The external auditor must promptly report to SAMA if, in the course of an audit, he discovers facts that may:",
+    "source_ar_norm": "علي مراقب الحسابات الخارجي ابلاغ المؤسسة فورا اذا تبين له اثناء المراجعة وقائع من شانها الاتي:",
+    "target_en_norm": "the external auditor must promptly report to sama if, in the course of an audit, he discovers facts that may:",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7469,
+    "source_ar": "(أ) تبرير التحفظ في تقرير المراجعة أو الامتناع عن إبداء الرأي.",
+    "target_en": "a) justify the reservation in the audit report or refrain from expressing opinion;",
+    "source_ar_norm": "(ا) تبرير التحفظ في تقرير المراجعة او الامتناع عن ابداء الراي.",
+    "target_en_norm": "a) justify the reservation in the audit report or refrain from expressing opinion;",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7470,
+    "source_ar": "(ب) تهديد استمرارية شركة التمويل في مزاولة أعمالها.",
+    "target_en": "b) jeopardize the existence of the finance company;",
+    "source_ar_norm": "(ب) تهديد استمرارية شركة التمويل في مزاولة اعمالها.",
+    "target_en_norm": "b) jeopardize the existence of the finance company;",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7471,
+    "source_ar": "(ج) إعاقة تطور شركة التمويل بصورة خطيرة.",
+    "target_en": "c) seriously impair the finance company’s development, or",
+    "source_ar_norm": "(ج) اعاقة تطور شركة التمويل بصورة خطيرة.",
+    "target_en_norm": "c) seriously impair the finance company’s development, or",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7472,
+    "source_ar": "(د) وجود ما يشير إلى مخالفة المديرين لأي من الأنظمة أو اللوائح أو التعليمات السارية في المملكة أو الأنظمة الداخلية لشركة التمويل.",
+    "target_en": "d) indicate that the managers have breached any laws, regulations or instructions applicable in the Kingdom or the bylaws of the finance company.",
+    "source_ar_norm": "(د) وجود ما يشير الي مخالفة المديرين لاي من الانظمة او اللوائح او التعليمات السارية في المملكة او الانظمة الداخلية لشركة التمويل.",
+    "target_en_norm": "d) indicate that the managers have breached any laws, regulations or instructions applicable in the kingdom or the bylaws of the finance company.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7473,
+    "source_ar": "(ه) إنهاء العقد قبل نهايته مع ذكر الأسباب التي أدت إلى ذلك.",
+    "target_en": "e) terminate the contract before the end of its term, providing reasons therefor.",
+    "source_ar_norm": "(ه) انهاء العقد قبل نهايته مع ذكر الاسباب التي ادت الي ذلك.",
+    "target_en_norm": "e) terminate the contract before the end of its term, providing reasons therefor.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7474,
+    "source_ar": "للمؤسسة تكليف مراقب الحسابات الخارجي بشرح تقريره أو كشف حقائق أخرى يكون قد توصل إليها خلال مراجعة الحسابات تشير إلى مخالفة الأنظمة أو اللوائح أو التعليمات أو الأنظمة الداخلية لشركة التمويل.",
+    "target_en": "SAMA may require the external auditor to explain his report or to reveal other facts that may have come to his attention during the audit which indicates any violation of laws, regulations, instructions or the bylaws of the finance company.",
+    "source_ar_norm": "للمؤسسة تكليف مراقب الحسابات الخارجي بشرح تقريره او كشف حقائق اخري يكون قد توصل اليها خلال مراجعة الحسابات تشير الي مخالفة الانظمة او اللوائح او التعليمات او الانظمة الداخلية لشركة التمويل.",
+    "target_en_norm": "sama may require the external auditor to explain his report or to reveal other facts that may have come to his attention during the audit which indicates any violation of laws, regulations, instructions or the bylaws of the finance company.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7475,
+    "source_ar": "المادة الخامسة والسبعون:",
+    "target_en": "Article 75",
+    "source_ar_norm": "المادة الخامسة والسبعون:",
+    "target_en_norm": "article 75",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7476,
+    "source_ar": "على شركة التمويل وأعضاء مجلس إدارتها وموظفيها تقديم جميع المعلومات والمستندات الخاصة بالشركة وأنشطتها ومساهميها وموظفيها للمؤسسة فور طلبها.",
+    "target_en": "The finance company, its board members and employees shall, upon request, provide SAMA with all information and documents concerning the company, its activities, shareholders and employees.",
+    "source_ar_norm": "علي شركة التمويل واعضاء مجلس ادارتها وموظفيها تقديم جميع المعلومات والمستندات الخاصة بالشركة وانشطتها ومساهميها وموظفيها للمؤسسة فور طلبها.",
+    "target_en_norm": "the finance company, its board members and employees shall, upon request, provide sama with all information and documents concerning the company, its activities, shareholders and employees.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7477,
+    "source_ar": "للمؤسسة فحص سجلات شركة التمويل وحساباتها بواسطة موظفيها أو بواسطة مراجعين تعينهم المؤسسة، على أن يكون الفحص في مقر الشركة.",
+    "target_en": "SAMA may conduct on-site inspection of records and accounts of the finance company by SAMA employees or auditors appointed by SAMA.",
+    "source_ar_norm": "للمؤسسة فحص سجلات شركة التمويل وحساباتها بواسطة موظفيها او بواسطة مراجعين تعينهم المؤسسة، علي ان يكون الفحص في مقر الشركة.",
+    "target_en_norm": "sama may conduct on-site inspection of records and accounts of the finance company by sama employees or auditors appointed by sama.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7478,
+    "source_ar": "على شركة التمويل وموظفيها تسهيل مهمة من تكلفه المؤسسة بالفحص والتعاون معه، وعلى الأخص الآتي:",
+    "target_en": "The finance company and its employees shall cooperate with SAMA employees and facilitate their tasks, particularly the following:",
+    "source_ar_norm": "علي شركة التمويل وموظفيها تسهيل مهمة من تكلفه المؤسسة بالفحص والتعاون معه، وعلي الاخص الاتي:",
+    "target_en_norm": "the finance company and its employees shall cooperate with sama employees and facilitate their tasks, particularly the following:",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7479,
+    "source_ar": "(أ) إطلاع المكلف بالفحص على سجلات الشركة وحساباتها والوثائق التي يرى ضرورة الاطلاع عليها لأداء مهامه.",
+    "target_en": "a) Grant the inspector access to the company’s records, accounts and documents that he deems necessary to carry out his task.",
+    "source_ar_norm": "(ا) اطلاع المكلف بالفحص علي سجلات الشركة وحساباتها والوثائق التي يري ضرورة الاطلاع عليها لاداء مهامه.",
+    "target_en_norm": "a) grant the inspector access to the company’s records, accounts and documents that he deems necessary to carry out his task.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7480,
+    "source_ar": "(ب) تزويد المكلف بالفحص بالمعلومات والإيضاحات فور طلبها.",
+    "target_en": "b) Provide the inspector with information and clarifications upon request;",
+    "source_ar_norm": "(ب) تزويد المكلف بالفحص بالمعلومات والايضاحات فور طلبها.",
+    "target_en_norm": "b) provide the inspector with information and clarifications upon request;",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7481,
+    "source_ar": "(ج) التصريح للمكلف بالفحص بأي تجاوزات أو مخالفات في أعمال الشركة فور البدء في مهمته.",
+    "target_en": "c) Disclose to the inspector at the commencement of his task any violations or irregularities in the company’s activities.",
+    "source_ar_norm": "(ج) التصريح للمكلف بالفحص باي تجاوزات او مخالفات في اعمال الشركة فور البدء في مهمته.",
+    "target_en_norm": "c) disclose to the inspector at the commencement of his task any violations or irregularities in the company’s activities.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7482,
+    "source_ar": "(د) التقيد بتطبيق التوصيات والتعليمات الموجهة من المؤسسة لشركة التمويل لمعالجة الملاحظات التي تتكشف خلال جولات الفحص.",
+    "target_en": "d) Adhere to recommendations and instructions given by SAMA to the finance company to address observations discovered during inspection.",
+    "source_ar_norm": "(د) التقيد بتطبيق التوصيات والتعليمات الموجهة من المؤسسة لشركة التمويل لمعالجة الملاحظات التي تتكشف خلال جولات الفحص.",
+    "target_en_norm": "d) adhere to recommendations and instructions given by sama to the finance company to address observations discovered during inspection.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7483,
+    "source_ar": "لا يجوز لشركة التمويل وموظفيها إخفاء أو محاولة إخفاء أي معلومات أو تجاوزات أو الامتناع عن الإجابة عن أي استفسارات يطلبها المكلف بالفحص أو التهاون في تزويده بما يطلبه من معلومات ومستندات في الوقت المطلوب.",
+    "target_en": "The finance company and its employees shall not conceal or attempt to conceal any information or irregularities, refuse to provide clarifications requested by the appointed inspector or fail to provide requested information and documents in due time.",
+    "source_ar_norm": "لا يجوز لشركة التمويل وموظفيها اخفاء او محاولة اخفاء اي معلومات او تجاوزات او الامتناع عن الاجابة عن اي استفسارات يطلبها المكلف بالفحص او التهاون في تزويده بما يطلبه من معلومات ومستندات في الوقت المطلوب.",
+    "target_en_norm": "the finance company and its employees shall not conceal or attempt to conceal any information or irregularities, refuse to provide clarifications requested by the appointed inspector or fail to provide requested information and documents in due time.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7484,
+    "source_ar": "لا يكون موظفو المؤسسة المكلفين بالإشراف والرقابة والفحص عرضة لأي مساءلات أو مطالبات بسبب تأديتهم لمهامهم الوظيفية.",
+    "target_en": "SAMA employees entrusted with supervision, control, and inspection shall not be subject to liability in the course of performing their duties.",
+    "source_ar_norm": "لا يكون موظفو المؤسسة المكلفين بالاشراف والرقابة والفحص عرضة لاي مساءلات او مطالبات بسبب تاديتهم لمهامهم الوظيفية.",
+    "target_en_norm": "sama employees entrusted with supervision, control, and inspection shall not be subject to liability in the course of performing their duties.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7485,
+    "source_ar": "المادة السادسة والسبعون:",
+    "target_en": "Article 76",
+    "source_ar_norm": "المادة السادسة والسبعون:",
+    "target_en_norm": "article 76",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7486,
+    "source_ar": "يعد من المخالفات المتعلقة بتجاوزات مهنية المشار إليها في المادة التاسعة والعشرون من النظام كل مخالفة لحكم من أحكام النظام واللائحة أو عدم الالتزام بأي من القواعد أو التعليمات التي تصدرها المؤسسة.",
+    "target_en": "A violation of the provisions of the Law and the Regulation or non-compliance with any of the rules or instructions issued by SAMA shall be deemed a professional misconduct in accordance with Article 29 of the Law;",
+    "source_ar_norm": "يعد من المخالفات المتعلقة بتجاوزات مهنية المشار اليها في المادة التاسعة والعشرون من النظام كل مخالفة لحكم من احكام النظام واللائحة او عدم الالتزام باي من القواعد او التعليمات التي تصدرها المؤسسة.",
+    "target_en_norm": "a violation of the provisions of the law and the regulation or non-compliance with any of the rules or instructions issued by sama shall be deemed a professional misconduct in accordance with article 29 of the law;",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7487,
+    "source_ar": "يعد من المخالفات المتعلقة بتعاملات تعرض مساهمي شركة التمويل أو دائنيها للخطر المشار إليها في المادة التاسعة والعشرون من النظام الآتي:",
+    "target_en": "The following shall be deemed a violation undermining the interest of the finance company's shareholders or creditors, as referred to in Article 29 of the Law:",
+    "source_ar_norm": "يعد من المخالفات المتعلقة بتعاملات تعرض مساهمي شركة التمويل او دائنيها للخطر المشار اليها في المادة التاسعة والعشرون من النظام الاتي:",
+    "target_en_norm": "the following shall be deemed a violation undermining the interest of the finance company's shareholders or creditors, as referred to in article 29 of the law:",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7488,
+    "source_ar": "(أ) حدوث تغير سلبي جوهري في نشاطات شركة التمويل أو وضعها المالي أو النظامي أو الإداري من شأنه تهديد بقائها أو قدرتها على الوفاء بديونها عند استحقاقها.",
+    "target_en": "a) Adverse material change in the finance company's activities or its financial, legal or administrative status that may threaten its existence or its ability to pay its due debts.",
+    "source_ar_norm": "(ا) حدوث تغير سلبي جوهري في نشاطات شركة التمويل او وضعها المالي او النظامي او الاداري من شانه تهديد بقائها او قدرتها علي الوفاء بديونها عند استحقاقها.",
+    "target_en_norm": "a) adverse material change in the finance company's activities or its financial, legal or administrative status that may threaten its existence or its ability to pay its due debts.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7489,
+    "source_ar": "(ب) خسارة شركة التمويل نصف رأس مالها المدفوع.",
+    "target_en": "b) The finance company's loss of half of its paid up capital.",
+    "source_ar_norm": "(ب) خسارة شركة التمويل نصف راس مالها المدفوع.",
+    "target_en_norm": "b) the finance company's loss of half of its paid up capital.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7490,
+    "source_ar": "(ج) خسارة شركة التمويل نسبة تتجاوز (10٪) من رأس مالها المدفوع في كل سنة خلال أربع سنوات مالية متتالية على الأقل.",
+    "target_en": "c) The finance company's loss of more than 10 percent of its paid up capital per year during a minimum of four consecutive fiscal years.",
+    "source_ar_norm": "(ج) خسارة شركة التمويل نسبة تتجاوز (10٪) من راس مالها المدفوع في كل سنة خلال اربع سنوات مالية متتالية علي الاقل.",
+    "target_en_norm": "c) the finance company's loss of more than 10 percent of its paid up capital per year during a minimum of four consecutive fiscal years.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7491,
+    "source_ar": "المادة السابعة والسبعون:",
+    "target_en": "Article 77",
+    "source_ar_norm": "المادة السابعة والسبعون:",
+    "target_en_norm": "article 77",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7492,
+    "source_ar": "تتحمل شركة التمويل تكاليف أي طرف ثالث تعينه المؤسسة لمباشرة أي من الإجراءات المتخذة وفق أحكام هذا الباب.",
+    "target_en": "The finance company shall incur the cost of a third party appointed by SAMA to carry out procedures taken under the provisions of this Chapter.",
+    "source_ar_norm": "تتحمل شركة التمويل تكاليف اي طرف ثالث تعينه المؤسسة لمباشرة اي من الاجراءات المتخذة وفق احكام هذا الباب.",
+    "target_en_norm": "the finance company shall incur the cost of a third party appointed by sama to carry out procedures taken under the provisions of this chapter.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7493,
+    "source_ar": "الباب الثامن عشر حماية حقوق المستهلك في خدمات التمويل",
+    "target_en": "Chapter Eighteen: Consumer Protection in Finance Services",
+    "source_ar_norm": "الباب الثامن عشر حماية حقوق المستهلك في خدمات التمويل",
+    "target_en_norm": "chapter eighteen: consumer protection in finance services",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7494,
+    "source_ar": "المادة الثامنة والسبعون:",
+    "target_en": "Article 78",
+    "source_ar_norm": "المادة الثامنة والسبعون:",
+    "target_en_norm": "article 78",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7495,
+    "source_ar": "يجب أن يحرر عقد التمويل بشكل كتابي أو إلكتروني، بين شركة التمويل والمستفيد وأن يتسلم كل طرف نسخة منه، وأن يتضمن عقد التمويل على الأقل البيانات والمعلومات الآتية:",
+    "target_en": "A finance contract must be drafted on paper or in an electronic format between the finance company and the borrower with a copy retained by each party, and shall include the following:",
+    "source_ar_norm": "يجب ان يحرر عقد التمويل بشكل كتابي او الكتروني، بين شركة التمويل والمستفيد وان يتسلم كل طرف نسخة منه، وان يتضمن عقد التمويل علي الاقل البيانات والمعلومات الاتية:",
+    "target_en_norm": "a finance contract must be drafted on paper or in an electronic format between the finance company and the borrower with a copy retained by each party, and shall include the following:",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7496,
+    "source_ar": "أسماء أطراف عقد التمويل، ورقم السجل المدني أو الإقامة أو السجل التجاري للمستفيد بحسب الحال، وعناوينهم الرسمية، ووسائل الاتصال بهم، وتشمل الهاتف الجوال، والبريد الإلكتروني إن وجد.",
+    "target_en": "Names of the parties of the finance contract, the borrower's national identification number, Iqama number or commercial registration number, as the case may be, their official addresses, contact information including mobile number and electronic mail address, if available.",
+    "source_ar_norm": "اسماء اطراف عقد التمويل، ورقم السجل المدني او الاقامة او السجل التجاري للمستفيد بحسب الحال، وعناوينهم الرسمية، ووسائل الاتصال بهم، وتشمل الهاتف الجوال، والبريد الالكتروني ان وجد.",
+    "target_en_norm": "names of the parties of the finance contract, the borrower's national identification number, iqama number or commercial registration number, as the case may be, their official addresses, contact information including mobile number and electronic mail address, if available.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7497,
+    "source_ar": "نوع التمويل.",
+    "target_en": "Type of finance.",
+    "source_ar_norm": "نوع التمويل.",
+    "target_en_norm": "type of finance.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7498,
+    "source_ar": "مدة عقد التمويل.",
+    "target_en": "Term of the finance contract.",
+    "source_ar_norm": "مدة عقد التمويل.",
+    "target_en_norm": "term of the finance contract.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7499,
+    "source_ar": "مبلغ التمويل.",
+    "target_en": "Amount of finance.",
+    "source_ar_norm": "مبلغ التمويل.",
+    "target_en_norm": "amount of finance.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7500,
+    "source_ar": "شروط سحب مبلغ التمويل، إن وجدت.",
+    "target_en": "Conditions for withdrawing the finance amount, if any.",
+    "source_ar_norm": "شروط سحب مبلغ التمويل، ان وجدت.",
+    "target_en_norm": "conditions for withdrawing the finance amount, if any.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  }
+]

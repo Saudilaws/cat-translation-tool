@@ -1,0 +1,802 @@
+[
+  {
+    "id": 6601,
+    "source_ar": "مجموعة السلامة البيولوجية في المختبرات (BSL): تصنيف منظمة الصحة العالمية ومنظمة صحة الحيوان العالمية للعناصر والسموم (تحدث دوريًّا) وهي أربع مجموعات، على النحو الآتي:",
+    "target_en": "Biosafety Levels in Laboratories (BSL): A periodically updated classification of agents and toxins by the World Health Organization and the World Organization for Animal Health. Such classification comprises four groups, as follows:",
+    "source_ar_norm": "مجموعة السلامة البيولوجية في المختبرات (BSL): تصنيف منظمة الصحة العالمية ومنظمة صحة الحيوان العالمية للعناصر والسموم (تحدث دوريا) وهي اربع مجموعات، علي النحو الاتي:",
+    "target_en_norm": "biosafety levels in laboratories (bsl): a periodically updated classification of agents and toxins by the world health organization and the world organization for animal health. such classification comprises four groups, as follows:",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6602,
+    "source_ar": "أ - مجموعة المخاطر الأولى (Risk Group1): (لا يوجد خطر أو يوجد خطر ضعيف على الفرد أو المجتمع)، وهي العوامل البيولوجية من غير المحتمل أن تسبب مرضاً للإنسان أو الحيوان، ويكون التعامل معها في مستوى السلامة البيولوجية من الدرجة الأولى (BSL-1).",
+    "target_en": "a) Risk Group 1: (No or low individual and community risk). This group includes biological agents which are unlikely to cause human or animal disease. Such agents require Biosafety Level 1 (BSL1) containment.",
+    "source_ar_norm": "ا - مجموعة المخاطر الاولي (Risk Group1): (لا يوجد خطر او يوجد خطر ضعيف علي الفرد او المجتمع)، وهي العوامل البيولوجية من غير المحتمل ان تسبب مرضا للانسان او الحيوان، ويكون التعامل معها في مستوي السلامة البيولوجية من الدرجة الاولي (BSL-1).",
+    "target_en_norm": "a) risk group 1: (no or low individual and community risk). this group includes biological agents which are unlikely to cause human or animal disease. such agents require biosafety level 1 (bsl1) containment.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6603,
+    "source_ar": "ب - مجموعة المخاطر الثانية (Risk Group2): (يوجد خطر متوسط على الفرد وخطر ضعيف على المجتمع)، وهي عوامل بيولوجية ممرضة ويمكن أن تسبب مرضاً للإنسان أو الحيوان، ولكن من غير المحتمل أن تشكل خطراً كبيراً عليها، ويتوفر لها العلاج الفعال والتدابير الوقائية، وخطر انتشار العدوى محدود، ويكون التعامل معها في مستوى السلامة البيولوجية من الدرجة الثانية (BSL-2).",
+    "target_en": "b) Risk Group 2: (Moderate individual risk, low community risk). This group includes pathogens which can cause human or animal disease but are unlikely to pose a serious hazard. In this group, effective treatment and preventive measures are available and the risk of the spread of infection is limited. Such agents require Biosafety Level 2 (BSL-2) containment.",
+    "source_ar_norm": "ب - مجموعة المخاطر الثانية (Risk Group2): (يوجد خطر متوسط علي الفرد وخطر ضعيف علي المجتمع)، وهي عوامل بيولوجية ممرضة ويمكن ان تسبب مرضا للانسان او الحيوان، ولكن من غير المحتمل ان تشكل خطرا كبيرا عليها، ويتوفر لها العلاج الفعال والتدابير الوقائية، وخطر انتشار العدوي محدود، ويكون التعامل معها في مستوي السلامة البيولوجية من الدرجة الثانية (BSL-2).",
+    "target_en_norm": "b) risk group 2: (moderate individual risk, low community risk). this group includes pathogens which can cause human or animal disease but are unlikely to pose a serious hazard. in this group, effective treatment and preventive measures are available and the risk of the spread of infection is limited. such agents require biosafety level 2 (bsl-2) containment.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6604,
+    "source_ar": "ج - مجموعة المخاطر الثالثة (Risk Group3): (يوجد خطر كبير على الفرد وخطر ضعيف على المجتمع)، وهي عوامل بيولوجية ممرضة غالباً ويمكن أن تسبب مرضاًّ للإنسان أو الحيوان، ولكنها لا تنتشر عادة من شخص مصاب إلى آخر، ويتوفر لها العلاج الفعال والتدابير الوقائية، ويكون التعامل معها في مستوى السلامة البيولوجية من الدرجة الثالثة (BSL-3).",
+    "target_en": "c) Risk Group 3: (High individual risk, low community risk). This group includes pathogens which usually can cause disease to humans or animals, but do not ordinarily spread from one infected individual to another. In this group, effective treatment and preventive measures are available. Such agents require Biosafety Level 3 (BSL-3) containment.",
+    "source_ar_norm": "ج - مجموعة المخاطر الثالثة (Risk Group3): (يوجد خطر كبير علي الفرد وخطر ضعيف علي المجتمع)، وهي عوامل بيولوجية ممرضة غالبا ويمكن ان تسبب مرضا للانسان او الحيوان، ولكنها لا تنتشر عادة من شخص مصاب الي اخر، ويتوفر لها العلاج الفعال والتدابير الوقائية، ويكون التعامل معها في مستوي السلامة البيولوجية من الدرجة الثالثة (BSL-3).",
+    "target_en_norm": "c) risk group 3: (high individual risk, low community risk). this group includes pathogens which usually can cause disease to humans or animals, but do not ordinarily spread from one infected individual to another. in this group, effective treatment and preventive measures are available. such agents require biosafety level 3 (bsl-3) containment.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6605,
+    "source_ar": "د - مجموعة المخاطر الرابعة (Risk Group4): (يوجد خطر كبير على الفرد والمجتمع)، وهي عوامل بيولوجية ممرضة ويمكن أن تسبب مرضاًّ للإنسان أو الحيوان، ويمكنها أن تنتقل بسهولة من فرد مصاب إلى فرد آخر بطريقة مباشرة أو غير مباشرة، ولا يتوفر في العادة العلاج الفعال والتدابير الوقائية، ويكون التعامل معها في مستوى السلامة البيولوجية من الدرجة الرابعة (BSL-4).",
+    "target_en": "d) Risk Group 4: (High individual and community risk). This group includes pathogens which can cause serious disease to humans and animals and can be readily transmitted, directly or indirectly, from one infected individual to another. In this group, effective treatment and preventive measures are usually not available. Such agents require Biosafety Level 4 (BSL-3) containment.",
+    "source_ar_norm": "د - مجموعة المخاطر الرابعة (Risk Group4): (يوجد خطر كبير علي الفرد والمجتمع)، وهي عوامل بيولوجية ممرضة ويمكن ان تسبب مرضا للانسان او الحيوان، ويمكنها ان تنتقل بسهولة من فرد مصاب الي فرد اخر بطريقة مباشرة او غير مباشرة، ولا يتوفر في العادة العلاج الفعال والتدابير الوقائية، ويكون التعامل معها في مستوي السلامة البيولوجية من الدرجة الرابعة (BSL-4).",
+    "target_en_norm": "d) risk group 4: (high individual and community risk). this group includes pathogens which can cause serious disease to humans and animals and can be readily transmitted, directly or indirectly, from one infected individual to another. in this group, effective treatment and preventive measures are usually not available. such agents require biosafety level 4 (bsl-3) containment.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6606,
+    "source_ar": "الفصل الثاني: مهمات الهيئة",
+    "target_en": "Chapter 2: Duties of the Authority",
+    "source_ar_norm": "الفصل الثاني: مهمات الهيئة",
+    "target_en_norm": "chapter 2: duties of the authority",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6607,
+    "source_ar": "المادة الثانية:",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية:",
+    "target_en_norm": "article 2",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6608,
+    "source_ar": "دون إخلال بمهمات الهيئة الواردة ضمن تنظيمها، تتولى الهيئة القيام بما يأتي:",
+    "target_en": "Without prejudice to the Authority’s duties as set out in its Statute, the Authority shall undertake the following:",
+    "source_ar_norm": "دون اخلال بمهمات الهيئة الواردة ضمن تنظيمها، تتولي الهيئة القيام بما ياتي:",
+    "target_en_norm": "without prejudice to the authority’s duties as set out in its statute, the authority shall undertake the following:",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6609,
+    "source_ar": "1 – إعداد تقارير إجراءات بناء الثقة الخاصة باتفاقية حظر الأسلحة البيولوجية، وإرسالها إلى الجهات الدولية المعنية، وتنفيذ الالتزامات الواردة في أي اتفاقية أخرى ذات علاقة تكون المملكة طرفاً فيها، وذلك بعد التنسيق مع الجهات المعنية في المملكة.",
+    "target_en": "1. Preparing reports on the confidence-building measures relating to the Biological Weapons Convention and providing relevant international agencies with such reports, and implementing the obligations contained in any other relevant convention to which the Kingdom is a party, upon coordination with the relevant agencies in the Kingdom.",
+    "source_ar_norm": "1 – اعداد تقارير اجراءات بناء الثقة الخاصة باتفاقية حظر الاسلحة البيولوجية، وارسالها الي الجهات الدولية المعنية، وتنفيذ الالتزامات الواردة في اي اتفاقية اخري ذات علاقة تكون المملكة طرفا فيها، وذلك بعد التنسيق مع الجهات المعنية في المملكة.",
+    "target_en_norm": "1. preparing reports on the confidence-building measures relating to the biological weapons convention and providing relevant international agencies with such reports, and implementing the obligations contained in any other relevant convention to which the kingdom is a party, upon coordination with the relevant agencies in the kingdom.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6610,
+    "source_ar": "2 – التنسيق والإشراف على عمليات الرقابة والتفتيش التي تقوم بها الجهة المختصة على المواقع ذات مختبرات مستوى السلامة من الدرجة الثالثة والرابعة (BSL-3، BSL-4)، من أجل تطبيق النظام واللائحة؛ بغرض تحقيق التالي:",
+    "target_en": "2. Coordinating and overseeing the control and inspection operations carried out by the Competent Authority on sites with BSL-3 and BSL-4 laboratories for the implementation of the Law and these Regulations, in order to achieve the following purposes:",
+    "source_ar_norm": "2 – التنسيق والاشراف علي عمليات الرقابة والتفتيش التي تقوم بها الجهة المختصة علي المواقع ذات مختبرات مستوي السلامة من الدرجة الثالثة والرابعة (BSL-3، BSL-4)، من اجل تطبيق النظام واللائحة؛ بغرض تحقيق التالي:",
+    "target_en_norm": "2. coordinating and overseeing the control and inspection operations carried out by the competent authority on sites with bsl-3 and bsl-4 laboratories for the implementation of the law and these regulations, in order to achieve the following purposes:",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6611,
+    "source_ar": "أ – الإشراف وتنسيق الزيارات المعلنة وغير المعلنة للمعامل والمرافق المرخص لها أو أي جهة أخرى ذات علاقة بالعوامل البيولوجية والجرثومية أو السموم أو المعدات ذات الصلة المحددة بموجب الأنظمة واللوائح لأغراض الوقاية أو الحماية أو الأغراض السلمية الأخرى المنصوص عليها في المادة (الرابعة) من اللائحة.",
+    "target_en": "a) Supervising and coordinating announced and unannounced visits to licensed laboratories and facilities or to any entity handling biological and microbial agents, toxins, or related equipment as specified in laws and regulations, for the purposes of prevention or protection or for the other peaceful purposes stipulated in Article 4 of these Regulations.",
+    "source_ar_norm": "ا – الاشراف وتنسيق الزيارات المعلنة وغير المعلنة للمعامل والمرافق المرخص لها او اي جهة اخري ذات علاقة بالعوامل البيولوجية والجرثومية او السموم او المعدات ذات الصلة المحددة بموجب الانظمة واللوائح لاغراض الوقاية او الحماية او الاغراض السلمية الاخري المنصوص عليها في المادة (الرابعة) من اللائحة.",
+    "target_en_norm": "a) supervising and coordinating announced and unannounced visits to licensed laboratories and facilities or to any entity handling biological and microbial agents, toxins, or related equipment as specified in laws and regulations, for the purposes of prevention or protection or for the other peaceful purposes stipulated in article 4 of these regulations.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6612,
+    "source_ar": "ب – وضع الشروط والمواصفات التي تنطبق على الشخص القائم بأنشطة وعمليات التفتيش على العوامل البيولوجية أو السموم والمعدات ذات الصلة بالتعاون مع الجهة المختصة والجهات المعنية.",
+    "target_en": "b) Setting the requirements and conditions to be met by the person conducting inspection activities and operations on biological agents, toxins, and related equipment, in cooperation with the Competent Authority and the relevant agencies.",
+    "source_ar_norm": "ب – وضع الشروط والمواصفات التي تنطبق علي الشخص القائم بانشطة وعمليات التفتيش علي العوامل البيولوجية او السموم والمعدات ذات الصلة بالتعاون مع الجهة المختصة والجهات المعنية.",
+    "target_en_norm": "b) setting the requirements and conditions to be met by the person conducting inspection activities and operations on biological agents, toxins, and related equipment, in cooperation with the competent authority and the relevant agencies.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6613,
+    "source_ar": "الفصل الثالث: التراخيص",
+    "target_en": "Chapter 3: Licenses",
+    "source_ar_norm": "الفصل الثالث: التراخيص",
+    "target_en_norm": "chapter 3: licenses",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6614,
+    "source_ar": "المادة الثالثة:",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة:",
+    "target_en_norm": "article 3",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6615,
+    "source_ar": "1 – يجب على طالب الترخيص لمزاولة أحد الأنشطة المتعلقة بالعوامل البيولوجية المنصوص عليها في المادة (الثالثة) من النظام؛ الحصول على ترخيص مبدئي من الجهة المختصة وفق الأنظمة واللوائح ذات الصلة.",
+    "target_en": "1. An applicant for a license to engage in any of the activities related to the biological agents provided for in Article 3 of the Law must obtain an initial license from the Competent Authority in accordance with relevant laws and regulations.",
+    "source_ar_norm": "1 – يجب علي طالب الترخيص لمزاولة احد الانشطة المتعلقة بالعوامل البيولوجية المنصوص عليها في المادة (الثالثة) من النظام؛ الحصول علي ترخيص مبدئي من الجهة المختصة وفق الانظمة واللوائح ذات الصلة.",
+    "target_en_norm": "1. an applicant for a license to engage in any of the activities related to the biological agents provided for in article 3 of the law must obtain an initial license from the competent authority in accordance with relevant laws and regulations.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6616,
+    "source_ar": "2- تقوم الجهة المختصة بعد إصدار الترخيص المبدئي بإحاطة الهيئة.",
+    "target_en": "2. The Competent Authority shall inform the Authority of the issuance of the initial license.",
+    "source_ar_norm": "2- تقوم الجهة المختصة بعد اصدار الترخيص المبدئي باحاطة الهيئة.",
+    "target_en_norm": "2. the competent authority shall inform the authority of the issuance of the initial license.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6617,
+    "source_ar": "3 – تقوم الجهة المختصة بعد إصدارها للترخيص النهائي؛ بتزويد الهيئة بنسخة منه متضمنة البيانات التالية:",
+    "target_en": "3. The Competent Authority shall provide the Authority with a copy of the final license, upon issuance thereof. Such copy shall include the following information:",
+    "source_ar_norm": "3 – تقوم الجهة المختصة بعد اصدارها للترخيص النهائي؛ بتزويد الهيئة بنسخة منه متضمنة البيانات التالية:",
+    "target_en_norm": "3. the competent authority shall provide the authority with a copy of the final license, upon issuance thereof. such copy shall include the following information:",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6618,
+    "source_ar": "أ - أغراض الرخصة وقيودها.",
+    "target_en": "a) Purposes and restrictions of the license.",
+    "source_ar_norm": "ا - اغراض الرخصة وقيودها.",
+    "target_en_norm": "a) purposes and restrictions of the license.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6619,
+    "source_ar": "ب – نوع النشاط المرخص له.",
+    "target_en": "b) Type of the licensed activity.",
+    "source_ar_norm": "ب – نوع النشاط المرخص له.",
+    "target_en_norm": "b) type of the licensed activity.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6620,
+    "source_ar": "ج – تاريخ بداية النشاط المرخص له.",
+    "target_en": "c) Starting date of the licensed activity.",
+    "source_ar_norm": "ج – تاريخ بداية النشاط المرخص له.",
+    "target_en_norm": "c) starting date of the licensed activity.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6621,
+    "source_ar": "د – بيان العوامل المدرجة ذات العلاقة بالنشاط وكمياتها.",
+    "target_en": "d) A list of the agents related to the activity and their quantities.",
+    "source_ar_norm": "د – بيان العوامل المدرجة ذات العلاقة بالنشاط وكمياتها.",
+    "target_en_norm": "d) a list of the agents related to the activity and their quantities.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6622,
+    "source_ar": "هـ- تاريخ إصدار الرخصة ونهايتها.",
+    "target_en": "e) Issuance and expiration date of the license.",
+    "source_ar_norm": "ه- تاريخ اصدار الرخصة ونهايتها.",
+    "target_en_norm": "e) issuance and expiration date of the license.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6623,
+    "source_ar": "4 – يجب على كل من يزاول النشاطات المتعلقة بالعوامل البيولوجية، للقيام بالأغراض السلمية المنصوص عليها في المادة (الثالثة) من النظام، سواء بشكل مباشر أو غير مباشر، القيام بالآتي:",
+    "target_en": "4. Any person engaging in an activity related to biological agents must, in order to carry out the peaceful purposes stipulated in Article 3 of the Law, whether directly or indirectly, undertake the following:",
+    "source_ar_norm": "4 – يجب علي كل من يزاول النشاطات المتعلقة بالعوامل البيولوجية، للقيام بالاغراض السلمية المنصوص عليها في المادة (الثالثة) من النظام، سواء بشكل مباشر او غير مباشر، القيام بالاتي:",
+    "target_en_norm": "4. any person engaging in an activity related to biological agents must, in order to carry out the peaceful purposes stipulated in article 3 of the law, whether directly or indirectly, undertake the following:",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6624,
+    "source_ar": "أ - إبلاغ الجهة المختصة بالنشاطات المتعلقة بتلك العوامل وبالمرافق الخاصة بها، والحصول على الترخيص المناسب من جهة الاختصاص، وذلك بحسب الأنظمة واللوائح ذات الصلة.",
+    "target_en": "a) Informing the Competent Authority of the activities relating to the agents and their facilities, and obtaining the appropriate license from the relevant agency, in accordance with relevant laws and regulations.",
+    "source_ar_norm": "ا - ابلاغ الجهة المختصة بالنشاطات المتعلقة بتلك العوامل وبالمرافق الخاصة بها، والحصول علي الترخيص المناسب من جهة الاختصاص، وذلك بحسب الانظمة واللوائح ذات الصلة.",
+    "target_en_norm": "a) informing the competent authority of the activities relating to the agents and their facilities, and obtaining the appropriate license from the relevant agency, in accordance with relevant laws and regulations.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6625,
+    "source_ar": "ب – الاحتفاظ بالسجلات ذات الصلة بتلك النشاطات، وإعداد تقرير سنوي يرسل للهيئة لإعداد تدابير بناء الثقة حسب الالتزامات الواردة في اتفاقية حظر الأسلحة البيولوجية.",
+    "target_en": "b) Maintaining records relating to such activities and preparing an annual report to be provided to the Authority for setting confidence-building measures as per the obligations set out in the Biological Weapons Convention.",
+    "source_ar_norm": "ب – الاحتفاظ بالسجلات ذات الصلة بتلك النشاطات، واعداد تقرير سنوي يرسل للهيئة لاعداد تدابير بناء الثقة حسب الالتزامات الواردة في اتفاقية حظر الاسلحة البيولوجية.",
+    "target_en_norm": "b) maintaining records relating to such activities and preparing an annual report to be provided to the authority for setting confidence-building measures as per the obligations set out in the biological weapons convention.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6626,
+    "source_ar": "ج – إعداد تقارير دورية ترسل للجهة المختصة (مصدرة الرخصة) لتقوم بالرقابة والتفتيش عن تلك النشاطات.",
+    "target_en": "c) Preparing periodic reports to be sent to the Competent Authority, which issued the license, to enable it to monitor and inspect these activities.",
+    "source_ar_norm": "ج – اعداد تقارير دورية ترسل للجهة المختصة (مصدرة الرخصة) لتقوم بالرقابة والتفتيش عن تلك النشاطات.",
+    "target_en_norm": "c) preparing periodic reports to be sent to the competent authority, which issued the license, to enable it to monitor and inspect these activities.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6627,
+    "source_ar": "د – تزويد الهيئة بلائحة المختبرات الحكومية والخاصة المستثناة من المادة (الثالثة) من النظام بعد حصولها على الترخيص.",
+    "target_en": "d) Providing the Authority with a list of government and private laboratories which are exempt from the provisions of Article 3 of the Law after such laboratories are licensed.",
+    "source_ar_norm": "د – تزويد الهيئة بلائحة المختبرات الحكومية والخاصة المستثناة من المادة (الثالثة) من النظام بعد حصولها علي الترخيص.",
+    "target_en_norm": "d) providing the authority with a list of government and private laboratories which are exempt from the provisions of article 3 of the law after such laboratories are licensed.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6628,
+    "source_ar": "هـ- التقيد بجميع الضوابط والإجراءات المنصوص عليها في اللائحة.",
+    "target_en": "e) Complying with all the controls and procedures stipulated in these Regulations.",
+    "source_ar_norm": "ه- التقيد بجميع الضوابط والاجراءات المنصوص عليها في اللائحة.",
+    "target_en_norm": "e) complying with all the controls and procedures stipulated in these regulations.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6629,
+    "source_ar": "5 – يحق للهيئة أن تطلب من الجهة المختصة تعليق أو إلغاء ترخيص مزاولة النشاطات المتعلقة بالعوامل البيولوجية في حالة مخالفة المرخص له أحكام الاتفاقية أو النظام أو اللائحة.",
+    "target_en": "5. The Authority shall have the right to request from the Competent Authority that the license for engaging in activities relating to biological agents be suspended or canceled if the licensee violates the provisions of the Convention, the Law, or these Regulations.",
+    "source_ar_norm": "5 – يحق للهيئة ان تطلب من الجهة المختصة تعليق او الغاء ترخيص مزاولة النشاطات المتعلقة بالعوامل البيولوجية في حالة مخالفة المرخص له احكام الاتفاقية او النظام او اللائحة.",
+    "target_en_norm": "5. the authority shall have the right to request from the competent authority that the license for engaging in activities relating to biological agents be suspended or canceled if the licensee violates the provisions of the convention, the law, or these regulations.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6630,
+    "source_ar": "المادة الرابعة:",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة:",
+    "target_en_norm": "article 4",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6631,
+    "source_ar": "يكون الغرض من إعطاء التصاريح، المنصوص عليها في المادتين (الرابعة) و(الخامسة) من النظام، هو مزاولة النشاطات المتعلقة بالعوامل البيولوجية للقيام بالأغراض السلمية الواردة في المادة (الثالثة) من النظام، ولا تستخدم تلك التصاريح للنشاطات الواردة بالمادة (الثانية) من النظام.",
+    "target_en": "The licenses stipulated in Articles 4 and 5 of the Law shall be issued for the purpose of engaging in activities related to biological agents for peaceful purposes as provided for in Article 3 of the Law. Said licenses may not be used for engaging in the activities set forth in Article 2 of the Law.",
+    "source_ar_norm": "يكون الغرض من اعطاء التصاريح، المنصوص عليها في المادتين (الرابعة) و(الخامسة) من النظام، هو مزاولة النشاطات المتعلقة بالعوامل البيولوجية للقيام بالاغراض السلمية الواردة في المادة (الثالثة) من النظام، ولا تستخدم تلك التصاريح للنشاطات الواردة بالمادة (الثانية) من النظام.",
+    "target_en_norm": "the licenses stipulated in articles 4 and 5 of the law shall be issued for the purpose of engaging in activities related to biological agents for peaceful purposes as provided for in article 3 of the law. said licenses may not be used for engaging in the activities set forth in article 2 of the law.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6632,
+    "source_ar": "الفصل الرابع: ضوابط وإجراءات التعامل الآمن مع العوامل البيولوجية",
+    "target_en": "Chapter 4: Controls and Procedures for the Safe Handling of Biological Agents",
+    "source_ar_norm": "الفصل الرابع: ضوابط واجراءات التعامل الامن مع العوامل البيولوجية",
+    "target_en_norm": "chapter 4: controls and procedures for the safe handling of biological agents",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6633,
+    "source_ar": "المادة الخامسة:",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة:",
+    "target_en_norm": "article 5",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6634,
+    "source_ar": "على المنشأة التي تتعامل مع العوامل البيولوجية ذات مستوى الخطورة من الدرجة الثالثة والرابعة أن تلتزم بالعمل بمختبرات ذات مستوى سلامة من الدرجة الثالثة والرابعة (BSL-3 ، BSL-4) وأن تتبع اشتراطات السلامة وضوابط وإجراءات التعامل الآمن المذكورة في اللائحة والتنسيق مع الجهة المختصة ولجنة مراجعة السلامة البيولوجية، وذلك بما يتوافق مع اللوائح والاتفاقيات والمعايير الدولية ذات الصلة بتصنيف العوامل البيولوجية.",
+    "target_en": "Any facility handling Risk Group 3 and Risk Group 4 biological agents shall operate in BSL-3 and BSL-4 laboratories, apply the safety requirements and the safe handling controls and procedures specified in these Regulations, and coordinate with the Competent Authority and the biosafety review committee. This shall be in accordance with the regulations, conventions, and international standards relating to the classification of biological agents.",
+    "source_ar_norm": "علي المنشاة التي تتعامل مع العوامل البيولوجية ذات مستوي الخطورة من الدرجة الثالثة والرابعة ان تلتزم بالعمل بمختبرات ذات مستوي سلامة من الدرجة الثالثة والرابعة (BSL-3 ، BSL-4) وان تتبع اشتراطات السلامة وضوابط واجراءات التعامل الامن المذكورة في اللائحة والتنسيق مع الجهة المختصة ولجنة مراجعة السلامة البيولوجية، وذلك بما يتوافق مع اللوائح والاتفاقيات والمعايير الدولية ذات الصلة بتصنيف العوامل البيولوجية.",
+    "target_en_norm": "any facility handling risk group 3 and risk group 4 biological agents shall operate in bsl-3 and bsl-4 laboratories, apply the safety requirements and the safe handling controls and procedures specified in these regulations, and coordinate with the competent authority and the biosafety review committee. this shall be in accordance with the regulations, conventions, and international standards relating to the classification of biological agents.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6635,
+    "source_ar": "المادة السادسة:",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة:",
+    "target_en_norm": "article 6",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6636,
+    "source_ar": "يتم تشكيل لجنة مراجعة السلامة البيولوجية من قبل الجهة المختصة، وتضم ممثلين من الهيئة والجهات المعنية، على أن تقوم بالتالي:",
+    "target_en": "A biosafety review committee shall be formed by the Competent Authority and shall comprise representatives from the Authority and the relevant agencies. Said committee shall undertake the following tasks:",
+    "source_ar_norm": "يتم تشكيل لجنة مراجعة السلامة البيولوجية من قبل الجهة المختصة، وتضم ممثلين من الهيئة والجهات المعنية، علي ان تقوم بالتالي:",
+    "target_en_norm": "a biosafety review committee shall be formed by the competent authority and shall comprise representatives from the authority and the relevant agencies. said committee shall undertake the following tasks:",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6637,
+    "source_ar": "1 – تقييم شامل ودوري للمخاطر لجميع البروتوكولات المختبرية التي يحتمل أن تتطلب احتواءً عالياً ووضع منهجيات إدارة المخاطر.",
+    "target_en": "1. Conducting a periodic comprehensive risk assessment of all laboratory protocols that are likely to require high containment, and developing risk management methodologies.",
+    "source_ar_norm": "1 – تقييم شامل ودوري للمخاطر لجميع البروتوكولات المختبرية التي يحتمل ان تتطلب احتواء عاليا ووضع منهجيات ادارة المخاطر.",
+    "target_en_norm": "1. conducting a periodic comprehensive risk assessment of all laboratory protocols that are likely to require high containment, and developing risk management methodologies.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6638,
+    "source_ar": "2 - تحديث وإعادة التقييم لاشتراطات الأمن والسلامة للتعامل مع العوامل البيولوجية الواردة في اللائحة واعتمادها.",
+    "target_en": "2. Updating and re-evaluating the security and safety requirements for handling biological agents set out in these Regulations, and approving the same.",
+    "source_ar_norm": "2 - تحديث واعادة التقييم لاشتراطات الامن والسلامة للتعامل مع العوامل البيولوجية الواردة في اللائحة واعتمادها.",
+    "target_en_norm": "2. updating and re-evaluating the security and safety requirements for handling biological agents set out in these regulations, and approving the same.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6639,
+    "source_ar": "3 – وضع وتحديد البرامج التدريبية المعتمدة والمعايير المهنية ذات العلاقة بالتعامل مع العوامل البيولوجية ذات مستوى الخطورة من الدرجة الثالثة والرابعة والعمل بمختبرات ذات سلامة من الدرجة الثالثة والرابعة (BSL-3 ، BSL-4).",
+    "target_en": "3. Developing and identifying approved training programs and professional standards relating to handling Risk Group 3 and Risk Group 4 biological agents and operating BSL-3 and BSL-4 laboratories.",
+    "source_ar_norm": "3 – وضع وتحديد البرامج التدريبية المعتمدة والمعايير المهنية ذات العلاقة بالتعامل مع العوامل البيولوجية ذات مستوي الخطورة من الدرجة الثالثة والرابعة والعمل بمختبرات ذات سلامة من الدرجة الثالثة والرابعة (BSL-3 ، BSL-4).",
+    "target_en_norm": "3. developing and identifying approved training programs and professional standards relating to handling risk group 3 and risk group 4 biological agents and operating bsl-3 and bsl-4 laboratories.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6640,
+    "source_ar": "4 – دراسة تقارير الحوادث التي تقع في المختبرات من الدرجة الثالثة والرابعة، واتخاذ الإجراءات المناسبة حيالها.",
+    "target_en": "4. Reviewing reports on accidents that occur in BSL-3 and BSL-4 laboratories, and taking appropriate measures with regard thereto.",
+    "source_ar_norm": "4 – دراسة تقارير الحوادث التي تقع في المختبرات من الدرجة الثالثة والرابعة، واتخاذ الاجراءات المناسبة حيالها.",
+    "target_en_norm": "4. reviewing reports on accidents that occur in bsl-3 and bsl-4 laboratories, and taking appropriate measures with regard thereto.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6641,
+    "source_ar": "المادة السابعة:",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة:",
+    "target_en_norm": "article 7",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6642,
+    "source_ar": "تتبع كل منشأة تتعامل مع العوامل البيولوجية ذات مستوى الخطورة من الدرجة الثالثة والرابعة والعمل بمختبرات ذات مستوى سلامة من الدرجة الثالثة والرابعة (BSL-3 ، BSL-4) الضوابط والإجراءات التالية:",
+    "target_en": "Any facility handling Risk Group 3 and Risk Group 4 biological agents and operating BSL-3 and BSL-4 laboratories shall apply the following controls and procedures:",
+    "source_ar_norm": "تتبع كل منشاة تتعامل مع العوامل البيولوجية ذات مستوي الخطورة من الدرجة الثالثة والرابعة والعمل بمختبرات ذات مستوي سلامة من الدرجة الثالثة والرابعة (BSL-3 ، BSL-4) الضوابط والاجراءات التالية:",
+    "target_en_norm": "any facility handling risk group 3 and risk group 4 biological agents and operating bsl-3 and bsl-4 laboratories shall apply the following controls and procedures:",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6643,
+    "source_ar": "1 – وضع سياسات وإجراءات وبروتوكولات تشغيل معيارية واضحة وموثقة خاصة بها لضمان ممارسة أنشطة العمل الآمنة والاحتواء الفعال داخل المختبرات (مثل: تصميم المختبر والأجهزة المستخدمة ومعدات السلامة الشخصية).",
+    "target_en": "1. Developing its own standard operating policies, procedures, and protocols that are clear and documented to ensure engagement in safe work activities and effective containment inside laboratories (e.g., laboratory design, utilized devices, and personal protective equipment).",
+    "source_ar_norm": "1 – وضع سياسات واجراءات وبروتوكولات تشغيل معيارية واضحة وموثقة خاصة بها لضمان ممارسة انشطة العمل الامنة والاحتواء الفعال داخل المختبرات (مثل: تصميم المختبر والاجهزة المستخدمة ومعدات السلامة الشخصية).",
+    "target_en_norm": "1. developing its own standard operating policies, procedures, and protocols that are clear and documented to ensure engagement in safe work activities and effective containment inside laboratories (e.g., laboratory design, utilized devices, and personal protective equipment).",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6644,
+    "source_ar": "2 – تخصيص أخصائي سلامة بيولوجية معتمد من الجهة المختصة يكون مسؤولاً عن الإشراف على برنامج إدارة السلامة والأمن البيولوجي والاحتواء البيولوجي.",
+    "target_en": "2. Appointing a biosafety specialist certified by the Competent Authority to supervise the safety, biosecurity, and biocontainment management program.",
+    "source_ar_norm": "2 – تخصيص اخصائي سلامة بيولوجية معتمد من الجهة المختصة يكون مسؤولا عن الاشراف علي برنامج ادارة السلامة والامن البيولوجي والاحتواء البيولوجي.",
+    "target_en_norm": "2. appointing a biosafety specialist certified by the competent authority to supervise the safety, biosecurity, and biocontainment management program.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6645,
+    "source_ar": "3 – وضع آليات لرصد وتقييم فعالية تدابير السلامة البيولوجية والاحتواء البيولوجي وآليات الرقابة.",
+    "target_en": "3. Setting mechanisms to monitor and evaluate the effectiveness of biosafety and biocontainment measures and control mechanisms.",
+    "source_ar_norm": "3 – وضع اليات لرصد وتقييم فعالية تدابير السلامة البيولوجية والاحتواء البيولوجي واليات الرقابة.",
+    "target_en_norm": "3. setting mechanisms to monitor and evaluate the effectiveness of biosafety and biocontainment measures and control mechanisms.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6646,
+    "source_ar": "4 – تقديم تقارير عن الحوادث البيولوجية التي تقع في المختبرات ذات مستوى سلامة من الدرجة الثالثة والرابعة (BSL-3 ، BSL-4) وعن وجود بروتوكولات واضحة وموحدة للإبلاغ عن تلك الحوادث.",
+    "target_en": "4. Submitting reports on biological accidents that occur in BSL-3 and BSL-4 laboratories, including the existence of clear and unified protocols for reporting such accidents.",
+    "source_ar_norm": "4 – تقديم تقارير عن الحوادث البيولوجية التي تقع في المختبرات ذات مستوي سلامة من الدرجة الثالثة والرابعة (BSL-3 ، BSL-4) وعن وجود بروتوكولات واضحة وموحدة للابلاغ عن تلك الحوادث.",
+    "target_en_norm": "4. submitting reports on biological accidents that occur in bsl-3 and bsl-4 laboratories, including the existence of clear and unified protocols for reporting such accidents.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6647,
+    "source_ar": "5 – وضع خطة طوارئ للتعامل مع العوامل البيولوجية والسموم قادرة على مواجهة الحالات الخطيرة أو المميتة في حال حدوث أي حوادث.",
+    "target_en": "5. Setting an emergency plan for handling biological agents and toxins which is capable of addressing serious or fatal accidents.",
+    "source_ar_norm": "5 – وضع خطة طوارئ للتعامل مع العوامل البيولوجية والسموم قادرة علي مواجهة الحالات الخطيرة او المميتة في حال حدوث اي حوادث.",
+    "target_en_norm": "5. setting an emergency plan for handling biological agents and toxins which is capable of addressing serious or fatal accidents.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6648,
+    "source_ar": "6 – اشتراط الكفاءة الفنية وتوفير التدريب المناسب لجميع الأفراد الذين يعملون في المختبرات ذات مستوى سلامة من الدرجة الثالثة والرابعة (BSL-3 ، BSL-4) أو يشرفون عليها أو يدعمونها أو يديرونها.",
+    "target_en": "6. Requiring technical qualification and providing appropriate training for all individuals working in, supervising, supporting, or managing BSL-3 and BSL-4 laboratories.",
+    "source_ar_norm": "6 – اشتراط الكفاءة الفنية وتوفير التدريب المناسب لجميع الافراد الذين يعملون في المختبرات ذات مستوي سلامة من الدرجة الثالثة والرابعة (BSL-3 ، BSL-4) او يشرفون عليها او يدعمونها او يديرونها.",
+    "target_en_norm": "6. requiring technical qualification and providing appropriate training for all individuals working in, supervising, supporting, or managing bsl-3 and bsl-4 laboratories.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6649,
+    "source_ar": "المادة الثامنة:",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة:",
+    "target_en_norm": "article 8",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6650,
+    "source_ar": "على الجهة المختصة وضع المتطلبات والسياسات والإجراءات المناسبة لنقل العوامل البيولوجية بما يتوافق مع المتطلبات النظامية الخاصة بنقل السلع الخطرة، وينبغي أن تتناول سياسات النقل الحاجة إلى الوثائق المناسبة ومعرفة نوع وطبيعة وكمية المواد القابلة للعبور بين المواقع، على أن يراعى التالي:",
+    "target_en": "The Competent Authority shall establish the requirements, policies, and procedures necessary for the transportation of biological agents in accordance with the legal requirements for the transportation of hazardous goods. Transportation policies shall provide for the required documents and the specification of the type, nature, and quantity of transportable materials between sites, subject to the following:",
+    "source_ar_norm": "علي الجهة المختصة وضع المتطلبات والسياسات والاجراءات المناسبة لنقل العوامل البيولوجية بما يتوافق مع المتطلبات النظامية الخاصة بنقل السلع الخطرة، وينبغي ان تتناول سياسات النقل الحاجة الي الوثائق المناسبة ومعرفة نوع وطبيعة وكمية المواد القابلة للعبور بين المواقع، علي ان يراعي التالي:",
+    "target_en_norm": "the competent authority shall establish the requirements, policies, and procedures necessary for the transportation of biological agents in accordance with the legal requirements for the transportation of hazardous goods. transportation policies shall provide for the required documents and the specification of the type, nature, and quantity of transportable materials between sites, subject to the following:",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6651,
+    "source_ar": "1 – تطبيق متطلبات النقل، بما في ذلك المتطلبات الفنية ووفقاً لما تنص عليه الأنظمة واللوائح والاتفاقيات والمعايير الدولية.",
+    "target_en": "1. Complying with transportation requirements, including technical requirements, as well as laws, regulations, conventions, and international standards.",
+    "source_ar_norm": "1 – تطبيق متطلبات النقل، بما في ذلك المتطلبات الفنية ووفقا لما تنص عليه الانظمة واللوائح والاتفاقيات والمعايير الدولية.",
+    "target_en_norm": "1. complying with transportation requirements, including technical requirements, as well as laws, regulations, conventions, and international standards.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6652,
+    "source_ar": "2 – توفير واستخدام أنظمة التغليف ورزم ومواد وعلامات وَسْمْ ومعدات الوقاية الشخصية والوثائق الكافية كجزء من عملية النقل.",
+    "target_en": "2. Providing and using appropriate packaging systems, packages, materials, labels, personal protective equipment, and documentation as part of the transportation operation.",
+    "source_ar_norm": "2 – توفير واستخدام انظمة التغليف ورزم ومواد وعلامات وسم ومعدات الوقاية الشخصية والوثائق الكافية كجزء من عملية النقل.",
+    "target_en_norm": "2. providing and using appropriate packaging systems, packages, materials, labels, personal protective equipment, and documentation as part of the transportation operation.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6653,
+    "source_ar": "3 – وضع ضوابط خاصة بالشركات في حال التعاقد معها للقيام بعمليات النقل، على أن تكون تلك الشركات مؤهلة للتعامل مع الطرود بشكل آمن ومعتمدة من الجهة المختصة.",
+    "target_en": "3. Setting controls for companies contracted with to carry out transportation operations, provided that such companies are qualified for the safe handling of shipments and approved by the Competent Authority.",
+    "source_ar_norm": "3 – وضع ضوابط خاصة بالشركات في حال التعاقد معها للقيام بعمليات النقل، علي ان تكون تلك الشركات مؤهلة للتعامل مع الطرود بشكل امن ومعتمدة من الجهة المختصة.",
+    "target_en_norm": "3. setting controls for companies contracted with to carry out transportation operations, provided that such companies are qualified for the safe handling of shipments and approved by the competent authority.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6654,
+    "source_ar": "4 – التأكد من رخصة المنشأة التي طلبت نقل عوامل بيولوجية أو توكسينية أو مواد قد تحتوي على عوامل بيولوجية أو توكسينية، ومن مشروعية طلب نقل هذه المواد. والتأكد من تطبيق المنشأة ضوابط مماثلة على عملية استيراد مثل تلك العوامل والمواد.",
+    "target_en": "4. Verifying the validity of the license of the facility requesting the transportation of biological agents or toxins or materials that may contain the same as well as the lawfulness of the transportation request, and verifying that the facility applies similar controls to the importation of such agents and materials.",
+    "source_ar_norm": "4 – التاكد من رخصة المنشاة التي طلبت نقل عوامل بيولوجية او توكسينية او مواد قد تحتوي علي عوامل بيولوجية او توكسينية، ومن مشروعية طلب نقل هذه المواد. والتاكد من تطبيق المنشاة ضوابط مماثلة علي عملية استيراد مثل تلك العوامل والمواد.",
+    "target_en_norm": "4. verifying the validity of the license of the facility requesting the transportation of biological agents or toxins or materials that may contain the same as well as the lawfulness of the transportation request, and verifying that the facility applies similar controls to the importation of such agents and materials.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6655,
+    "source_ar": "5 – وضع نماذج نقل رسمية موحدة ومعتمدة من صاحب الصلاحية في المنشأة، ويوقعها أخصائي السلامة البيولوجية المسؤول عن حركة المواد.",
+    "target_en": "5. Creating unified official transportation forms to be approved by the authorized person at the facility and signed by the biosafety specialist in charge of the movement of materials.",
+    "source_ar_norm": "5 – وضع نماذج نقل رسمية موحدة ومعتمدة من صاحب الصلاحية في المنشاة، ويوقعها اخصائي السلامة البيولوجية المسؤول عن حركة المواد.",
+    "target_en_norm": "5. creating unified official transportation forms to be approved by the authorized person at the facility and signed by the biosafety specialist in charge of the movement of materials.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6656,
+    "source_ar": "6 – وضع نظام متابعة آلي (إلكتروني) للوثائق، يتيح تعقب حركة المواد.",
+    "target_en": "6. Creating an electronic document tracking system to track the movement of materials.",
+    "source_ar_norm": "6 – وضع نظام متابعة الي (الكتروني) للوثائق، يتيح تعقب حركة المواد.",
+    "target_en_norm": "6. creating an electronic document tracking system to track the movement of materials.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6657,
+    "source_ar": "7 – تحديد وتنفيذ الخطط الكافية والمناسبة للاستجابة للطوارئ والظروف القاهرة التي تترتب على عملية النقل، بما في ذلك التدابير الاحترازية الكافية للتعامل مع الطرود المشبوهة ومناطق الحجر الصحي.",
+    "target_en": "7. Determining and implementing adequate and appropriate plans to respond to emergencies and force majeure circumstances resulting from transportation operations, including adequate precautionary measures to handle suspicious shipments and quarantine areas.",
+    "source_ar_norm": "7 – تحديد وتنفيذ الخطط الكافية والمناسبة للاستجابة للطوارئ والظروف القاهرة التي تترتب علي عملية النقل، بما في ذلك التدابير الاحترازية الكافية للتعامل مع الطرود المشبوهة ومناطق الحجر الصحي.",
+    "target_en_norm": "7. determining and implementing adequate and appropriate plans to respond to emergencies and force majeure circumstances resulting from transportation operations, including adequate precautionary measures to handle suspicious shipments and quarantine areas.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6658,
+    "source_ar": "8 – إخطار الهيئة بهذه السياسات والإجراءات وما يطرأ عليها من تعديلات.",
+    "target_en": "8. Notifying the Authority of such policies and procedures and any amendments thereto.",
+    "source_ar_norm": "8 – اخطار الهيئة بهذه السياسات والاجراءات وما يطرا عليها من تعديلات.",
+    "target_en_norm": "8. notifying the authority of such policies and procedures and any amendments thereto.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6659,
+    "source_ar": "المادة التاسعة:",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة:",
+    "target_en_norm": "article 9",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6660,
+    "source_ar": "على الجهة المختصة وضع السياسات والإجراءات المناسبة لإدارة نفايات العوامل البيولوجية ذات مستوى سلامة من الدرجة الثالثة والرابعة، بما يتوافق مع المتطلبات النظامية الخاصة بإدارة النفايات الخطرة، على أن يراعى فيها التالي:",
+    "target_en": "The Competent Authority shall set appropriate policies and procedures for managing BSL-3 and BSL-4 biological agent waste, in accordance with the legal requirements for the management of hazardous waste, taking into account the following:",
+    "source_ar_norm": "علي الجهة المختصة وضع السياسات والاجراءات المناسبة لادارة نفايات العوامل البيولوجية ذات مستوي سلامة من الدرجة الثالثة والرابعة، بما يتوافق مع المتطلبات النظامية الخاصة بادارة النفايات الخطرة، علي ان يراعي فيها التالي:",
+    "target_en_norm": "the competent authority shall set appropriate policies and procedures for managing bsl-3 and bsl-4 biological agent waste, in accordance with the legal requirements for the management of hazardous waste, taking into account the following:",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6661,
+    "source_ar": "1 – وضع متطلبات إدارة النفايات وتنفيذها، بما في ذلك المتطلبات الفنية وفقاً لما تنص عليه الأنظمة واللوائح والاتفاقيات والمعايير الدولية.",
+    "target_en": "1. Setting and implementing waste management requirements, including technical requirements, in accordance with laws, regulations, conventions, and international standards.",
+    "source_ar_norm": "1 – وضع متطلبات ادارة النفايات وتنفيذها، بما في ذلك المتطلبات الفنية وفقا لما تنص عليه الانظمة واللوائح والاتفاقيات والمعايير الدولية.",
+    "target_en_norm": "1. setting and implementing waste management requirements, including technical requirements, in accordance with laws, regulations, conventions, and international standards.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6662,
+    "source_ar": "2 – وضع برنامج يسهم في تقليل توليد النفايات.",
+    "target_en": "2. Developing a program to reduce the generation of waste.",
+    "source_ar_norm": "2 – وضع برنامج يسهم في تقليل توليد النفايات.",
+    "target_en_norm": "2. developing a program to reduce the generation of waste.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6663,
+    "source_ar": "3 – توفير أساليب فعالة لفرز وتطهير نفايات العوامل البيولوجية والتوكسينية.",
+    "target_en": "3. Providing effective methods for sorting and disinfecting the waste of biological agents and toxins.",
+    "source_ar_norm": "3 – توفير اساليب فعالة لفرز وتطهير نفايات العوامل البيولوجية والتوكسينية.",
+    "target_en_norm": "3. providing effective methods for sorting and disinfecting the waste of biological agents and toxins.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6664,
+    "source_ar": "4 – استخدام مواد التغليف المناسبة لاحتواء النفايات والحفاظ على سلامتها خلال التخزين والنقل.",
+    "target_en": "4. Using appropriate packaging materials to contain waste and maintain safety during storing and transportation.",
+    "source_ar_norm": "4 – استخدام مواد التغليف المناسبة لاحتواء النفايات والحفاظ علي سلامتها خلال التخزين والنقل.",
+    "target_en_norm": "4. using appropriate packaging materials to contain waste and maintain safety during storing and transportation.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6665,
+    "source_ar": "5 – توفير مرافق وإجراءات كافية لتخزين نفايات العوامل البيولوجية (التخزين المؤقت).",
+    "target_en": "5. Providing adequate facilities and setting procedures for storing biological agent waste (temporary storing).",
+    "source_ar_norm": "5 – توفير مرافق واجراءات كافية لتخزين نفايات العوامل البيولوجية (التخزين المؤقت).",
+    "target_en_norm": "5. providing adequate facilities and setting procedures for storing biological agent waste (temporary storing).",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6666,
+    "source_ar": "6 – وضع وتوثيق أدلة تدقيقية فعالة بشأن التخلص النهائي من نفايات العوامل البيولوجية.",
+    "target_en": "6. Developing and documenting effective audit manuals for the final disposal of biological agent waste.",
+    "source_ar_norm": "6 – وضع وتوثيق ادلة تدقيقية فعالة بشان التخلص النهائي من نفايات العوامل البيولوجية.",
+    "target_en_norm": "6. developing and documenting effective audit manuals for the final disposal of biological agent waste.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6667,
+    "source_ar": "7 – إخطار الهيئة بهذه السياسات والإجراءات وما يطرأ عليها من تعديلات.",
+    "target_en": "7. Notifying the Authority of such policies and procedures and any amendments thereto.",
+    "source_ar_norm": "7 – اخطار الهيئة بهذه السياسات والاجراءات وما يطرا عليها من تعديلات.",
+    "target_en_norm": "7. notifying the authority of such policies and procedures and any amendments thereto.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6668,
+    "source_ar": "المادة العاشرة:",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة:",
+    "target_en_norm": "article 10",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6669,
+    "source_ar": "على الجهة المختصة وضع السياسات والإجراءات المناسبة للتخلص النهائي الآمن من العوامل البيولوجية ونفاياتها بالتنسيق والتعاون مع الجهات المعنية، بما يتوافق مع المتطلبات النظامية الخاصة بالتخلص الآمن من النفايات الخطرة، على أن يراعى فيها التالي:",
+    "target_en": "The Competent Authority shall set appropriate policies and procedures for the safe final disposal of biological agents and their waste in coordination and cooperation with the relevant agencies, in accordance with the legal requirements for the safe disposal of hazardous waste, taking into account the following:",
+    "source_ar_norm": "علي الجهة المختصة وضع السياسات والاجراءات المناسبة للتخلص النهائي الامن من العوامل البيولوجية ونفاياتها بالتنسيق والتعاون مع الجهات المعنية، بما يتوافق مع المتطلبات النظامية الخاصة بالتخلص الامن من النفايات الخطرة، علي ان يراعي فيها التالي:",
+    "target_en_norm": "the competent authority shall set appropriate policies and procedures for the safe final disposal of biological agents and their waste in coordination and cooperation with the relevant agencies, in accordance with the legal requirements for the safe disposal of hazardous waste, taking into account the following:",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6670,
+    "source_ar": "1 – وضع متطلبات التخلص الآمن وتنفيذها، بما في ذلك المتطلبات الفنية وفقاً لما تنص عليه الأنظمة واللوائح والاتفاقيات والمعايير الدولية.",
+    "target_en": "1. Setting and implementing safe disposal requirements, including technical requirements, in accordance with laws, regulations, conventions, and international standards.",
+    "source_ar_norm": "1 – وضع متطلبات التخلص الامن وتنفيذها، بما في ذلك المتطلبات الفنية وفقا لما تنص عليه الانظمة واللوائح والاتفاقيات والمعايير الدولية.",
+    "target_en_norm": "1. setting and implementing safe disposal requirements, including technical requirements, in accordance with laws, regulations, conventions, and international standards.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6671,
+    "source_ar": "2 – وضع قائمة بمعدات الوقاية الشخصية الخاصة بالقيام بعمليات التخلص الآمن للعوامل البيولوجية والتوكسينية ونفاياتها، وتطهير الأجهزة والمعدات المستخدمة دورياً.",
+    "target_en": "2. Developing a list of the personal protective equipment required for the safe disposal of biological agents and toxins and their waste, and periodically disinfecting used devices and equipment.",
+    "source_ar_norm": "2 – وضع قائمة بمعدات الوقاية الشخصية الخاصة بالقيام بعمليات التخلص الامن للعوامل البيولوجية والتوكسينية ونفاياتها، وتطهير الاجهزة والمعدات المستخدمة دوريا.",
+    "target_en_norm": "2. developing a list of the personal protective equipment required for the safe disposal of biological agents and toxins and their waste, and periodically disinfecting used devices and equipment.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6672,
+    "source_ar": "3 – وضع ضوابط خاصة بالشركات في حال التعاقد معها للقيام بعمليات التخلص من العوامل البيولوجية والتوكسينية ونفاياتها، على أن تكون تلك الشركات معتمدة من الجهات ذات العلاقة.",
+    "target_en": "3. Setting controls for companies contracted with for the disposal of biological agents and toxins and their waste, provided that such companies are approved by the relevant agency.",
+    "source_ar_norm": "3 – وضع ضوابط خاصة بالشركات في حال التعاقد معها للقيام بعمليات التخلص من العوامل البيولوجية والتوكسينية ونفاياتها، علي ان تكون تلك الشركات معتمدة من الجهات ذات العلاقة.",
+    "target_en_norm": "3. setting controls for companies contracted with for the disposal of biological agents and toxins and their waste, provided that such companies are approved by the relevant agency.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6673,
+    "source_ar": "4 – ضمان عدم التخلص من العوامل البيولوجية والتوكسينية ونفاياتها في مكان يؤدي إلى وحدة صرف مفتوحة أو داخل نطاق العمل أو مكان غير مخصص لذلك.",
+    "target_en": "4. Ensuring that biological agents and toxins and their waste are not disposed of in a place connected to an open drainage unit or within the work site, or in a place not designated for such purpose.",
+    "source_ar_norm": "4 – ضمان عدم التخلص من العوامل البيولوجية والتوكسينية ونفاياتها في مكان يؤدي الي وحدة صرف مفتوحة او داخل نطاق العمل او مكان غير مخصص لذلك.",
+    "target_en_norm": "4. ensuring that biological agents and toxins and their waste are not disposed of in a place connected to an open drainage unit or within the work site, or in a place not designated for such purpose.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6674,
+    "source_ar": "5 – ضمان عدم تسرب العوامل البيولوجية والتوكسينية ونفاياتها عند حملها أو نقلها للتخلص منها.",
+    "target_en": "5. Ensuring that biological agents and toxins and their waste do not leak during carriage or transportation for disposal.",
+    "source_ar_norm": "5 – ضمان عدم تسرب العوامل البيولوجية والتوكسينية ونفاياتها عند حملها او نقلها للتخلص منها.",
+    "target_en_norm": "5. ensuring that biological agents and toxins and their waste do not leak during carriage or transportation for disposal.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6675,
+    "source_ar": "6 – وضع برامج لتدريب القائمين على مهمات التخلص من العوامل البيولوجية والتوكسينية ونفاياتها.",
+    "target_en": "6. Developing training programs for persons in charge of the disposal of biological agents and toxins and their waste.",
+    "source_ar_norm": "6 – وضع برامج لتدريب القائمين علي مهمات التخلص من العوامل البيولوجية والتوكسينية ونفاياتها.",
+    "target_en_norm": "6. developing training programs for persons in charge of the disposal of biological agents and toxins and their waste.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6676,
+    "source_ar": "7 – إجراء اختبارات دورية على المياه المستخدمة في التعقيم والتطهير وغيرها أثناء التخلص من العوامل البيولوجية والتوكسينية ونفاياتها قبل تصريفها في شبكة الصرف الصحي؛ للتأكد من عدم وجود مواد خطرة أو زيادة في نسب وكمية المواد الخطرة. ويجب إبلاغ جهة الاختصاص في شبكة الصرف الصحي التي تقوم بمعالجة المياه الملوثة لإعادة استخدامها عند وجود نتائج تشير إلى وجود المواد الخطرة التي تحددها الجهة المختصة أو زيادة في نسبة أو كمية المواد الخطرة.",
+    "target_en": "7. Conducting periodic testing of the water used for sterilization, disinfection, and the like during the disposal of biological agents and toxins and their waste prior to discharging such water into the sewage network to ensure that it is clear of any hazardous materials, or that the level and quantity of such materials have not increased. The department in charge of treating contaminated water for reuse in the sewage network shall be notified if the test results indicate the presence of the hazardous materials specified by the Competent Authority or indicate an increase in the level or quantity of such materials.",
+    "source_ar_norm": "7 – اجراء اختبارات دورية علي المياه المستخدمة في التعقيم والتطهير وغيرها اثناء التخلص من العوامل البيولوجية والتوكسينية ونفاياتها قبل تصريفها في شبكة الصرف الصحي؛ للتاكد من عدم وجود مواد خطرة او زيادة في نسب وكمية المواد الخطرة. ويجب ابلاغ جهة الاختصاص في شبكة الصرف الصحي التي تقوم بمعالجة المياه الملوثة لاعادة استخدامها عند وجود نتائج تشير الي وجود المواد الخطرة التي تحددها الجهة المختصة او زيادة في نسبة او كمية المواد الخطرة.",
+    "target_en_norm": "7. conducting periodic testing of the water used for sterilization, disinfection, and the like during the disposal of biological agents and toxins and their waste prior to discharging such water into the sewage network to ensure that it is clear of any hazardous materials, or that the level and quantity of such materials have not increased. the department in charge of treating contaminated water for reuse in the sewage network shall be notified if the test results indicate the presence of the hazardous materials specified by the competent authority or indicate an increase in the level or quantity of such materials.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6677,
+    "source_ar": "8 – إخطار الهيئة بهذه السياسات والإجراءات وما يطرأ عليها من تعديلات.",
+    "target_en": "8. Notifying the Authority of such policies and procedures and any amendments thereto.",
+    "source_ar_norm": "8 – اخطار الهيئة بهذه السياسات والاجراءات وما يطرا عليها من تعديلات.",
+    "target_en_norm": "8. notifying the authority of such policies and procedures and any amendments thereto.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6678,
+    "source_ar": "الفصل الخامس: الرقابة والتفتيش",
+    "target_en": "Chapter 5: Control and Inspection",
+    "source_ar_norm": "الفصل الخامس: الرقابة والتفتيش",
+    "target_en_norm": "chapter 5: control and inspection",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6679,
+    "source_ar": "المادة الحادية عشرة:",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة:",
+    "target_en_norm": "article 11",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6680,
+    "source_ar": "1 – تخص أحكام التفتيش في اللائحة المواقع ذات مستوى السلامة من الدرجة الثالثـــــــــــــــــة والرابعــــــــــــــــــــــة (BSL-3 ، BSL-4).",
+    "target_en": "1. The inspection provisions in these Regulations shall apply to BSL-3 and BSL-4 sites.",
+    "source_ar_norm": "1 – تخص احكام التفتيش في اللائحة المواقع ذات مستوي السلامة من الدرجة الثالثة والرابعة (BSL-3 ، BSL-4).",
+    "target_en_norm": "1. the inspection provisions in these regulations shall apply to bsl-3 and bsl-4 sites.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6681,
+    "source_ar": "2 – يخضع موقع التفتيش المرخص للتعامل مع العوامل البيولوجية، لتفتيش الجهة المختصة، ويكون تفتيش المواقع ذات مستوى السلامة من الدرجة الثالثة والرابعة (BSL-3 ، BSL-4) بإشراف وتنسيق الهيئة.",
+    "target_en": "2. Any inspection site licensed to handle biological agents shall be subject to inspection by the Competent Authority. The inspection of BSL-3 and BSL-4 sites shall be supervised and coordinated by the Authority.",
+    "source_ar_norm": "2 – يخضع موقع التفتيش المرخص للتعامل مع العوامل البيولوجية، لتفتيش الجهة المختصة، ويكون تفتيش المواقع ذات مستوي السلامة من الدرجة الثالثة والرابعة (BSL-3 ، BSL-4) باشراف وتنسيق الهيئة.",
+    "target_en_norm": "2. any inspection site licensed to handle biological agents shall be subject to inspection by the competent authority. the inspection of bsl-3 and bsl-4 sites shall be supervised and coordinated by the authority.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6682,
+    "source_ar": "3 – يجب على أي مسؤول أو عامل في أي موقع خاضع للتفتيش، تسهيل عمليات التفتيش التي تقوم بها الجهة المختصة من أجل تنفيذ أحكام النظام واللائحة.",
+    "target_en": "3. Any official or worker at any site subject to inspection shall facilitate the inspection operations conducted by the Competent Authority in implementation of the provisions of the Law and these Regulations.",
+    "source_ar_norm": "3 – يجب علي اي مسؤول او عامل في اي موقع خاضع للتفتيش، تسهيل عمليات التفتيش التي تقوم بها الجهة المختصة من اجل تنفيذ احكام النظام واللائحة.",
+    "target_en_norm": "3. any official or worker at any site subject to inspection shall facilitate the inspection operations conducted by the competent authority in implementation of the provisions of the law and these regulations.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6683,
+    "source_ar": "4 – يجب على أي شخص بحكم مسؤوليته، تزويد الجهة المختصة أو الهيئة – عندما يطلب منه – بأي معلومة تساعد في تنفيذ النظام واللائحة.",
+    "target_en": "4. Any person shall, by virtue of his duties, provide the Competent Authority or the Authority, upon request, with any information necessary for the implementation of the Law and these Regulations.",
+    "source_ar_norm": "4 – يجب علي اي شخص بحكم مسؤوليته، تزويد الجهة المختصة او الهيئة – عندما يطلب منه – باي معلومة تساعد في تنفيذ النظام واللائحة.",
+    "target_en_norm": "4. any person shall, by virtue of his duties, provide the competent authority or the authority, upon request, with any information necessary for the implementation of the law and these regulations.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6684,
+    "source_ar": "5 – يحق للجهة المختصة، عندما تكون هناك دلائل اشتباه على مخالفة النظام أو اللائحة، دخول أي موقع وتفتيشه وفقاً للإجراءات المتبعة في هذا الشأن.",
+    "target_en": "5. The Competent Authority shall have the right, in the presence of indications of a violation of the Law or these Regulations, to enter and inspect any site in accordance with the relevant applicable procedures.",
+    "source_ar_norm": "5 – يحق للجهة المختصة، عندما تكون هناك دلائل اشتباه علي مخالفة النظام او اللائحة، دخول اي موقع وتفتيشه وفقا للاجراءات المتبعة في هذا الشان.",
+    "target_en_norm": "5. the competent authority shall have the right, in the presence of indications of a violation of the law or these regulations, to enter and inspect any site in accordance with the relevant applicable procedures.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6685,
+    "source_ar": "المادة الثانية عشرة:",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة:",
+    "target_en_norm": "article 12",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6686,
+    "source_ar": "1 – يكون التفتيش بناء على ما ورد في اللائحة بإشراف وتنسيق من الهيئة من أجل تحقيق المهمات التالية:",
+    "target_en": "1. Inspection shall be conducted in accordance with these Regulations, and shall be supervised and coordinated by the Authority in order to carry out the following duties:",
+    "source_ar_norm": "1 – يكون التفتيش بناء علي ما ورد في اللائحة باشراف وتنسيق من الهيئة من اجل تحقيق المهمات التالية:",
+    "target_en_norm": "1. inspection shall be conducted in accordance with these regulations, and shall be supervised and coordinated by the authority in order to carry out the following duties:",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6687,
+    "source_ar": "أ - القيام بزيارات معلنة وغير معلنة لموقع التفتيش المرخص له أو أي جهة أخرى ذات علاقة بالتعامل مع العوامل البيولوجية.",
+    "target_en": "a) Conducting announced and unannounced visits to the licensed inspection site or to any other entity handling biological agents.",
+    "source_ar_norm": "ا - القيام بزيارات معلنة وغير معلنة لموقع التفتيش المرخص له او اي جهة اخري ذات علاقة بالتعامل مع العوامل البيولوجية.",
+    "target_en_norm": "a) conducting announced and unannounced visits to the licensed inspection site or to any other entity handling biological agents.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6688,
+    "source_ar": "ب – التحقق من أنشطة العوامل البيولوجية التي يتم مزاولتها والتي لها علاقة بأحكام النظام واللائحة.",
+    "target_en": "b) Verifying the biological agent activities which are being carried out and which are governed by the provisions of the Law and these Regulations.",
+    "source_ar_norm": "ب – التحقق من انشطة العوامل البيولوجية التي يتم مزاولتها والتي لها علاقة باحكام النظام واللائحة.",
+    "target_en_norm": "b) verifying the biological agent activities which are being carried out and which are governed by the provisions of the law and these regulations.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6689,
+    "source_ar": "ج – الاطلاع على السجلات والتقارير ذات العلاقة بأنشطة العوامل البيولوجية.",
+    "target_en": "c) Accessing records and reports relating to biological agent activities.",
+    "source_ar_norm": "ج – الاطلاع علي السجلات والتقارير ذات العلاقة بانشطة العوامل البيولوجية.",
+    "target_en_norm": "c) accessing records and reports relating to biological agent activities.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6690,
+    "source_ar": "د – إعداد تقرير عن نتائج كل عملية تفتيش ورفعه للجهة المسؤولة عن عملية التفتيش، وتزويد أمين عام الهيئة بمحضر موقع من قبل رئيس وأعضاء فريق التفتيش مشفوعاً بتقرير نتائج التفتيش.",
+    "target_en": "d) Preparing a report on the findings of each inspection operation; submitting such report to the agency in charge of the inspection; and providing the Secretary General of the Authority with a report signed by the head and members of the inspection team, together with the report on the findings of the inspection.",
+    "source_ar_norm": "د – اعداد تقرير عن نتائج كل عملية تفتيش ورفعه للجهة المسؤولة عن عملية التفتيش، وتزويد امين عام الهيئة بمحضر موقع من قبل رئيس واعضاء فريق التفتيش مشفوعا بتقرير نتائج التفتيش.",
+    "target_en_norm": "d) preparing a report on the findings of each inspection operation; submitting such report to the agency in charge of the inspection; and providing the secretary general of the authority with a report signed by the head and members of the inspection team, together with the report on the findings of the inspection.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6691,
+    "source_ar": "هـ- ضبط أي مخالفة لأي حكم من أحكام النظام أو اللائحة، وإعداد محضر ضبط بها، وتصوير المخالفة وتحريزها؛ تمهيداً لإحالتها للنيابة العامة.",
+    "target_en": "e) Detecting and recording any violation of the provisions of the Law or these Regulations, preparing a detection report, and visually recording the violation and seizing the items subject of the violation, in preparation for referral to the Public Prosecution.",
+    "source_ar_norm": "ه- ضبط اي مخالفة لاي حكم من احكام النظام او اللائحة، واعداد محضر ضبط بها، وتصوير المخالفة وتحريزها؛ تمهيدا لاحالتها للنيابة العامة.",
+    "target_en_norm": "e) detecting and recording any violation of the provisions of the law or these regulations, preparing a detection report, and visually recording the violation and seizing the items subject of the violation, in preparation for referral to the public prosecution.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6692,
+    "source_ar": "و – أي مهمات أخرى ترى الجهة المختصة بالتفتيش تكليف الفريق بها.",
+    "target_en": "f) Any other duties the agency in charge of the inspection assigns to the inspection team.",
+    "source_ar_norm": "و – اي مهمات اخري تري الجهة المختصة بالتفتيش تكليف الفريق بها.",
+    "target_en_norm": "f) any other duties the agency in charge of the inspection assigns to the inspection team.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6693,
+    "source_ar": "2 – تتم عملية التفتيش بطلب من الجهة المختصة أو بإيعاز من الهيئة.",
+    "target_en": "2. Inspection shall be conducted at the request of the Competent Authority or at the direction of the Authority.",
+    "source_ar_norm": "2 – تتم عملية التفتيش بطلب من الجهة المختصة او بايعاز من الهيئة.",
+    "target_en_norm": "2. inspection shall be conducted at the request of the competent authority or at the direction of the authority.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6694,
+    "source_ar": "3 – يجوز لفريق التفتيش تخصيص وسيلة لتلقي البلاغات عن مخالفات أحكام النظام واللائحة، وضبطها واتخاذ كافة إجراءات الاستدلال، والحصول على نسخة من السجلات والبيانات اللازمة، والاطلاع على تسجيل الكاميرات؛ قبل إحالتها إلى النيابة العامة.",
+    "target_en": "3. The inspection team may specify the means for receiving reports of violations of the provisions of the Law and these Regulations, detect and record such violations and initiate all preliminary investigation procedures, obtain a copy of the necessary records and data, and access camera footage, prior to referring said violations to the Public Prosecution.",
+    "source_ar_norm": "3 – يجوز لفريق التفتيش تخصيص وسيلة لتلقي البلاغات عن مخالفات احكام النظام واللائحة، وضبطها واتخاذ كافة اجراءات الاستدلال، والحصول علي نسخة من السجلات والبيانات اللازمة، والاطلاع علي تسجيل الكاميرات؛ قبل احالتها الي النيابة العامة.",
+    "target_en_norm": "3. the inspection team may specify the means for receiving reports of violations of the provisions of the law and these regulations, detect and record such violations and initiate all preliminary investigation procedures, obtain a copy of the necessary records and data, and access camera footage, prior to referring said violations to the public prosecution.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6695,
+    "source_ar": "4 – يتولى فريق التفتيش استكمال الإجراءات الأولية في المخالفات المضبوطة من قبل جهات الضبط الأخرى المنصوص عليها في نظام الإجراءات الجزائية قبل إحالتها إلى النيابة العامة.",
+    "target_en": "4. The inspection team shall complete the preliminary procedures for the violations detected by other agencies in charge of detecting and recording such violations as set forth in the Law of Criminal Procedure prior to their referral to the Public Prosecution.",
+    "source_ar_norm": "4 – يتولي فريق التفتيش استكمال الاجراءات الاولية في المخالفات المضبوطة من قبل جهات الضبط الاخري المنصوص عليها في نظام الاجراءات الجزائية قبل احالتها الي النيابة العامة.",
+    "target_en_norm": "4. the inspection team shall complete the preliminary procedures for the violations detected by other agencies in charge of detecting and recording such violations as set forth in the law of criminal procedure prior to their referral to the public prosecution.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6696,
+    "source_ar": "المادة الثالثة عشرة:",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة:",
+    "target_en_norm": "article 13",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6697,
+    "source_ar": "1 – يتم تشكيل فريق التفتيش برئاسة الجهة المختصة بالتفتيش وعضوية ممثلين من الهيئة والجهات المعنية.",
+    "target_en": "1. The inspection team shall be formed under the chairmanship of the agency in charge of the inspection and shall comprise representatives from the Authority and the relevant agencies as members.",
+    "source_ar_norm": "1 – يتم تشكيل فريق التفتيش برئاسة الجهة المختصة بالتفتيش وعضوية ممثلين من الهيئة والجهات المعنية.",
+    "target_en_norm": "1. the inspection team shall be formed under the chairmanship of the agency in charge of the inspection and shall comprise representatives from the authority and the relevant agencies as members.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6698,
+    "source_ar": "2 – يكون توفير البيانات الخاصة بموقع التفتيش المستهدف من قبل الجهة المختصة بهدف إعداد قرار التفتيش.",
+    "target_en": "2. Information pertaining to the site to be inspected shall be provided by the Competent Authority for the purpose of issuing the inspection decision.",
+    "source_ar_norm": "2 – يكون توفير البيانات الخاصة بموقع التفتيش المستهدف من قبل الجهة المختصة بهدف اعداد قرار التفتيش.",
+    "target_en_norm": "2. information pertaining to the site to be inspected shall be provided by the competent authority for the purpose of issuing the inspection decision.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6699,
+    "source_ar": "3 – يصدر قرار التفتيش من الجهة المختصة قبل كل عملية تفتيش وفق الفقرة رقم (2) من المادة (الثانية عشرة) من اللائحة، وترسل نسخة منه للهيئة، ويتضمن قرار التفتيش الآتي:",
+    "target_en": "3. The inspection decision shall be issued by the Competent Authority prior to each inspection in accordance with Article 12(2) of these Regulations, and a copy of said decision shall be sent to the Authority. Such decision shall consist of the following:",
+    "source_ar_norm": "3 – يصدر قرار التفتيش من الجهة المختصة قبل كل عملية تفتيش وفق الفقرة رقم (2) من المادة (الثانية عشرة) من اللائحة، وترسل نسخة منه للهيئة، ويتضمن قرار التفتيش الاتي:",
+    "target_en_norm": "3. the inspection decision shall be issued by the competent authority prior to each inspection in accordance with article 12(2) of these regulations, and a copy of said decision shall be sent to the authority. such decision shall consist of the following:",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  },
+  {
+    "id": 6700,
+    "source_ar": "أ - المستند النظامي.",
+    "target_en": "a) Legal grounds.",
+    "source_ar_norm": "ا - المستند النظامي.",
+    "target_en_norm": "a) legal grounds.",
+    "file_name": "اللائحة التنفيذية لنظام تنفيذ اتفاقية حظر تطوير وإنتاج وتكديس الأسلحة البكتريولوجية (البيولوجية) والتوكسينية وتدمير تلك الأسلحة.docx"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 7501,
+    "source_ar": "وصف معادلة تحديد السعر في عقود التمويل متغيرة سعر كلفة الأجل لتمكين المستهلك من فهم كلفة الأجل، وتوزيع الكلفة على مدة الوفاء.",
+    "target_en": "In variable term cost finance contracts, a description of the formula that determines the rate shall be included in a way that enables the consumer to understand the term cost and distribution of the cost over the repayment period.",
+    "source_ar_norm": "وصف معادلة تحديد السعر في عقود التمويل متغيرة سعر كلفة الاجل لتمكين المستهلك من فهم كلفة الاجل، وتوزيع الكلفة علي مدة الوفاء.",
+    "target_en_norm": "in variable term cost finance contracts, a description of the formula that determines the rate shall be included in a way that enables the consumer to understand the term cost and distribution of the cost over the repayment period.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7502,
+    "source_ar": "كلفة الأجل، وشروط تطبيقها، وأي مؤشر أو معدل مرجعي لكلفة الأجل الابتدائية المتفق عليها، ومدد وشروط وإجراءات تغيير كلفة الأجل.",
+    "target_en": "Term cost, conditions governing its application, any index or reference rate applicable to the initial term cost agreed upon, as well as duration, conditions and procedures for changing the term cost.",
+    "source_ar_norm": "كلفة الاجل، وشروط تطبيقها، واي مؤشر او معدل مرجعي لكلفة الاجل الابتدائية المتفق عليها، ومدد وشروط واجراءات تغيير كلفة الاجل.",
+    "target_en_norm": "term cost, conditions governing its application, any index or reference rate applicable to the initial term cost agreed upon, as well as duration, conditions and procedures for changing the term cost.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7503,
+    "source_ar": "معدل النسبة السنوي.",
+    "target_en": "Annual percentage rate (APR).",
+    "source_ar_norm": "معدل النسبة السنوي.",
+    "target_en_norm": "annual percentage rate (apr).",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7504,
+    "source_ar": "إجمالي المبلغ المستحق سداده من المستفيد، محسوباً في وقت إبرام عقد التمويل، مع بيان الفرضيات المتبعة في حساب ذلك المبلغ.",
+    "target_en": "Total amount payable by the borrower, calculated at the time of concluding the finance contract; stating the assumptions used to calculate such amount.",
+    "source_ar_norm": "اجمالي المبلغ المستحق سداده من المستفيد، محسوبا في وقت ابرام عقد التمويل، مع بيان الفرضيات المتبعة في حساب ذلك المبلغ.",
+    "target_en_norm": "total amount payable by the borrower, calculated at the time of concluding the finance contract; stating the assumptions used to calculate such amount.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7505,
+    "source_ar": "مقدار مبلغ الأقساط المتعين على المستفيد سدادها وعددها ومددها، وأسلوب توزيعها على المبالغ المتبقية في حال كانت كلفة الأجل ثابتة. وفي حال كانت كلفة الأجل متغيرة يجب وضع ثلاثة أمثلة لمقدار الأقساط أخذاً بالاعتبار كلفة الأجل الابتدائية وكلفتين أعلى وأدنى منها.",
+    "target_en": "Amount of installments payable by the borrower, number and due dates of installments and manner of distribution of the remaining amount if the term cost is fixed. In case of variable term cost, three examples of installment amount shall be set, taking into account the initial term cost as well as a higher and a lower term cost.",
+    "source_ar_norm": "مقدار مبلغ الاقساط المتعين علي المستفيد سدادها وعددها ومددها، واسلوب توزيعها علي المبالغ المتبقية في حال كانت كلفة الاجل ثابتة. وفي حال كانت كلفة الاجل متغيرة يجب وضع ثلاثة امثلة لمقدار الاقساط اخذا بالاعتبار كلفة الاجل الابتدائية وكلفتين اعلي وادني منها.",
+    "target_en_norm": "amount of installments payable by the borrower, number and due dates of installments and manner of distribution of the remaining amount if the term cost is fixed. in case of variable term cost, three examples of installment amount shall be set, taking into account the initial term cost as well as a higher and a lower term cost.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7506,
+    "source_ar": "الرسوم والعمولات وتكاليف الخدمات الإدارية.",
+    "target_en": "Fees, commissions and costs of administrative services.",
+    "source_ar_norm": "الرسوم والعمولات وتكاليف الخدمات الادارية.",
+    "target_en_norm": "fees, commissions and costs of administrative services.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7507,
+    "source_ar": "مدد سداد الرسوم أو الأموال التي يلزم سدادها دون سداد مبلغ التمويل، وشروط ذلك السداد.",
+    "target_en": "Due dates for payment of fees or amounts other than the finance amount and conditions for such payment.",
+    "source_ar_norm": "مدد سداد الرسوم او الاموال التي يلزم سدادها دون سداد مبلغ التمويل، وشروط ذلك السداد.",
+    "target_en_norm": "due dates for payment of fees or amounts other than the finance amount and conditions for such payment.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7508,
+    "source_ar": "بيان الآثار المترتبة على التأخر في أداء الأقساط.",
+    "target_en": "Implications of late payments.",
+    "source_ar_norm": "بيان الاثار المترتبة علي التاخر في اداء الاقساط.",
+    "target_en_norm": "implications of late payments.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7509,
+    "source_ar": "رسوم التوثيق المقررة عند الاقتضاء.",
+    "target_en": "Attestation fees, if applicable.",
+    "source_ar_norm": "رسوم التوثيق المقررة عند الاقتضاء.",
+    "target_en_norm": "attestation fees, if applicable.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7510,
+    "source_ar": "الضمان والتأمين اللازم.",
+    "target_en": "Collateral and necessary insurance.",
+    "source_ar_norm": "الضمان والتامين اللازم.",
+    "target_en_norm": "collateral and necessary insurance.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7511,
+    "source_ar": "رقم الحساب الخاص بإيداع أقساط التمويل واسم البنك.",
+    "target_en": "Bank name and account number for depositing finance installments;",
+    "source_ar_norm": "رقم الحساب الخاص بايداع اقساط التمويل واسم البنك.",
+    "target_en_norm": "bank name and account number for depositing finance installments;",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7512,
+    "source_ar": "إجراءات ممارسة حق الانسحاب، إن وجد، وشروطه والالتزامات المالية المترتبة على ممارسته.",
+    "target_en": "Procedures for exercising the right of withdrawal, if any, as well as its conditions and the financial obligations resulting therefrom.",
+    "source_ar_norm": "اجراءات ممارسة حق الانسحاب، ان وجد، وشروطه والالتزامات المالية المترتبة علي ممارسته.",
+    "target_en_norm": "procedures for exercising the right of withdrawal, if any, as well as its conditions and the financial obligations resulting therefrom.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7513,
+    "source_ar": "إجراءات السداد المبكر، وإجراءات تعويض شركة التمويل عند الاقتضاء، وكيفية تحديد هذا التعويض.",
+    "target_en": "Prepayment procedures, procedures for compensating the finance company, if applicable, and manner of determining such compensation.",
+    "source_ar_norm": "اجراءات السداد المبكر، واجراءات تعويض شركة التمويل عند الاقتضاء، وكيفية تحديد هذا التعويض.",
+    "target_en_norm": "prepayment procedures, procedures for compensating the finance company, if applicable, and manner of determining such compensation.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7514,
+    "source_ar": "إجراءات التعامل مع الضمانات في حال انخفاضها، إن وجدت.",
+    "target_en": "Procedures to be followed in case of collateral devaluation, if available.",
+    "source_ar_norm": "اجراءات التعامل مع الضمانات في حال انخفاضها، ان وجدت.",
+    "target_en_norm": "procedures to be followed in case of collateral devaluation, if available.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7515,
+    "source_ar": "إجراءات ممارسة حق إنهاء عقد التمويل.",
+    "target_en": "Procedures for exercising the right to terminate the finance contract.",
+    "source_ar_norm": "اجراءات ممارسة حق انهاء عقد التمويل.",
+    "target_en_norm": "procedures for exercising the right to terminate the finance contract.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7516,
+    "source_ar": "إذن المستفيد بإدراج معلوماته في السجل الائتماني.",
+    "target_en": "The borrower’s consent to include his information in the credit record.",
+    "source_ar_norm": "اذن المستفيد بادراج معلوماته في السجل الائتماني.",
+    "target_en_norm": "the borrower’s consent to include his information in the credit record.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7517,
+    "source_ar": "أي بيانات أو معلومات أخرى تقررها المؤسسة.",
+    "target_en": "Any data or information stipulated by SAMA.",
+    "source_ar_norm": "اي بيانات او معلومات اخري تقررها المؤسسة.",
+    "target_en_norm": "any data or information stipulated by sama.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7518,
+    "source_ar": "المادة التاسعة والسبعون:",
+    "target_en": "Article 79",
+    "source_ar_norm": "المادة التاسعة والسبعون:",
+    "target_en_norm": "article 79",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7519,
+    "source_ar": "يجب أن يتصدر عقد التمويل ملخص يتضمن المعلومات الأساسية للمنتج التمويلي وأحكام عقد التمويل الأساسية، بلغة واضحة للمستفيد، وفقاً للنموذج الذي تقرره المؤسسة، وأن يوثّق تسلم المستفيد لهذا الملخص في ملف التمويل.",
+    "target_en": "The finance contract preamble shall include a summary covering the basic information of the finance product and the main provisions of the finance contract in a language clear to the borrower, in accordance with the form stipulated by SAMA. The borrower's receipt of such summary shall be documented in the finance file.",
+    "source_ar_norm": "يجب ان يتصدر عقد التمويل ملخص يتضمن المعلومات الاساسية للمنتج التمويلي واحكام عقد التمويل الاساسية، بلغة واضحة للمستفيد، وفقا للنموذج الذي تقرره المؤسسة، وان يوثق تسلم المستفيد لهذا الملخص في ملف التمويل.",
+    "target_en_norm": "the finance contract preamble shall include a summary covering the basic information of the finance product and the main provisions of the finance contract in a language clear to the borrower, in accordance with the form stipulated by sama. the borrower's receipt of such summary shall be documented in the finance file.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7520,
+    "source_ar": "المادة الثمانون:",
+    "target_en": "Article 80",
+    "source_ar_norm": "المادة الثمانون:",
+    "target_en_norm": "article 80",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7521,
+    "source_ar": "تلتزم شركة التمويل بإخطار المستفيد كتابياً بأي تغيير يطرأ على كلفة الأجل قبل بدء سريان ذلك التغيير بمدة لا تقل عن شهرين، وذلك إذا كان عقد التمويل يجيز هذا التغيير.",
+    "target_en": "If permitted by the finance contract, the finance company shall inform the borrower in writing of any changes in the term cost at least two months prior to the effectiveness of such changes.",
+    "source_ar_norm": "تلتزم شركة التمويل باخطار المستفيد كتابيا باي تغيير يطرا علي كلفة الاجل قبل بدء سريان ذلك التغيير بمدة لا تقل عن شهرين، وذلك اذا كان عقد التمويل يجيز هذا التغيير.",
+    "target_en_norm": "if permitted by the finance contract, the finance company shall inform the borrower in writing of any changes in the term cost at least two months prior to the effectiveness of such changes.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7522,
+    "source_ar": "ويجب بيان مبالغ الأقساط التي يتعين سدادها بعد سريان كلفة الأجل الجديدة، والتفاصيل الخاصة بعدد تلك الأقساط أو مددها، إذا شملها التغيير، وذلك عن طريق العناوين الرسمية المبينة في عقد التمويل.",
+    "target_en": "The borrower must be notified, through official addresses given in the finance contract, of the installment amounts to be paid upon the effectiveness of the new term cost as well as the particulars relating to the number and due dates of such installments, if covered by such changes.",
+    "source_ar_norm": "ويجب بيان مبالغ الاقساط التي يتعين سدادها بعد سريان كلفة الاجل الجديدة، والتفاصيل الخاصة بعدد تلك الاقساط او مددها، اذا شملها التغيير، وذلك عن طريق العناوين الرسمية المبينة في عقد التمويل.",
+    "target_en_norm": "the borrower must be notified, through official addresses given in the finance contract, of the installment amounts to be paid upon the effectiveness of the new term cost as well as the particulars relating to the number and due dates of such installments, if covered by such changes.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7523,
+    "source_ar": "المادة الحادية والثمانون:",
+    "target_en": "Article 81",
+    "source_ar_norm": "المادة الحادية والثمانون:",
+    "target_en_norm": "article 81",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7524,
+    "source_ar": "يكون معدل النسبة السنوي هو معدل الخصم الذي تكون فيه القيمة الحالية لجميع الأقساط والدفعات الأخرى المستحقة على المستفيد، التي تمثل إجمالي المبلغ المستحق سداده من المستفيد، مساويةً للقيمة الحالية لدفعات مبلغ التمويل المتاحة للمستفيد، وذلك في التاريخ الذي يكون فيه مبلغ التمويل أو أول دفعة منه متاحاً للمستفيد، محسوباً وفق المعادلة الآتية:",
+    "target_en": "APR is the discount rate at which the present value of all installments and other payments that are due on the borrower, representing the total amount payable by the borrower, equals the present value of the payments of the amount of finance available to the borrower, calculated on the date on which the finance amount or the first payment is available to the borrower, calculated using the following formula:",
+    "source_ar_norm": "يكون معدل النسبة السنوي هو معدل الخصم الذي تكون فيه القيمة الحالية لجميع الاقساط والدفعات الاخري المستحقة علي المستفيد، التي تمثل اجمالي المبلغ المستحق سداده من المستفيد، مساوية للقيمة الحالية لدفعات مبلغ التمويل المتاحة للمستفيد، وذلك في التاريخ الذي يكون فيه مبلغ التمويل او اول دفعة منه متاحا للمستفيد، محسوبا وفق المعادلة الاتية:",
+    "target_en_norm": "apr is the discount rate at which the present value of all installments and other payments that are due on the borrower, representing the total amount payable by the borrower, equals the present value of the payments of the amount of finance available to the borrower, calculated on the date on which the finance amount or the first payment is available to the borrower, calculated using the following formula:",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7525,
+    "source_ar": "حيث:",
+    "target_en": "Where:",
+    "source_ar_norm": "حيث:",
+    "target_en_norm": "where:",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7526,
+    "source_ar": "m ترتيب آخر دفعة تتاح للمستفيد من مبلغ التمويل.",
+    "target_en": "m is the number of the last payment of the finance amount to be received by the borrower.",
+    "source_ar_norm": "m ترتيب اخر دفعة تتاح للمستفيد من مبلغ التمويل.",
+    "target_en_norm": "m is the number of the last payment of the finance amount to be received by the borrower.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7527,
+    "source_ar": "d ترتيب الدفعة التي تتاح للمستفيد من مبلغ التمويل.",
+    "target_en": "d is the sequence number of the payment to be received by the borrower from the finance amount.",
+    "source_ar_norm": "d ترتيب الدفعة التي تتاح للمستفيد من مبلغ التمويل.",
+    "target_en_norm": "d is the sequence number of the payment to be received by the borrower from the finance amount.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7528,
+    "source_ar": "Cd قيمة الدفعة (d) التي تتاح للمستفيد من مبلغ التمويل.",
+    "target_en": "Cd is the payment value of (d) to be received by the borrower from the finance amount.",
+    "source_ar_norm": "Cd قيمة الدفعة (d) التي تتاح للمستفيد من مبلغ التمويل.",
+    "target_en_norm": "cd is the payment value of (d) to be received by the borrower from the finance amount.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7529,
+    "source_ar": "sd الفترة بين التاريخ الذي يكون فيه مبلغ التمويل أو أول دفعة منه متاحاً للمستفيد وتاريخ الدفعة (d)، محسوبة بالسنوات وأجزاء السنة، وبحيث تكون هذه الفترة لأول دفعة يتسلمها المستفيد من مبلغ التمويل صفر (s1=0).",
+    "target_en": "sd is the period between the date on which the finance amount or the first payment is available to the borrower and the date of payment (d), calculated in years and fractions of a year, so that such period of first payment received by the borrower from the finance amount is zero (s1=0).",
+    "source_ar_norm": "sd الفترة بين التاريخ الذي يكون فيه مبلغ التمويل او اول دفعة منه متاحا للمستفيد وتاريخ الدفعة (d)، محسوبة بالسنوات واجزاء السنة، وبحيث تكون هذه الفترة لاول دفعة يتسلمها المستفيد من مبلغ التمويل صفر (s1=0).",
+    "target_en_norm": "sd is the period between the date on which the finance amount or the first payment is available to the borrower and the date of payment (d), calculated in years and fractions of a year, so that such period of first payment received by the borrower from the finance amount is zero (s1=0).",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7530,
+    "source_ar": "n ترتيب آخر دفعة تُستحق على المستفيد.",
+    "target_en": "n is the sequence number of the last payment payable by the borrower.",
+    "source_ar_norm": "n ترتيب اخر دفعة تستحق علي المستفيد.",
+    "target_en_norm": "n is the sequence number of the last payment payable by the borrower.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7531,
+    "source_ar": "p ترتيب الدفعة التي تُستحق على المستفيد.",
+    "target_en": "p is the sequence number of the payment payable by the borrower.",
+    "source_ar_norm": "p ترتيب الدفعة التي تستحق علي المستفيد.",
+    "target_en_norm": "p is the sequence number of the payment payable by the borrower.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7532,
+    "source_ar": "Bp قيمة الدفعة (p) التي تُستحق على المستفيد.",
+    "target_en": "Bp is the payment value (p) payable by the borrower.",
+    "source_ar_norm": "Bp قيمة الدفعة (p) التي تستحق علي المستفيد.",
+    "target_en_norm": "bp is the payment value (p) payable by the borrower.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7533,
+    "source_ar": "tp الفترة بين التاريخ الذي يكون فيه مبلغ التمويل أو أول دفعة منه متاحاً للمستفيد والتاريخ الذي تُستحق فيه الدفعة (p) على المستفيد، محسوبة بالسنوات وأجزاء السنة.",
+    "target_en": "tp is the period between the date on which the amount of finance or the first payment is available to the borrower and the date of the payment (p) to be payable by the borrower, calculated in years and fractions of a year.",
+    "source_ar_norm": "tp الفترة بين التاريخ الذي يكون فيه مبلغ التمويل او اول دفعة منه متاحا للمستفيد والتاريخ الذي تستحق فيه الدفعة (p) علي المستفيد، محسوبة بالسنوات واجزاء السنة.",
+    "target_en_norm": "tp is the period between the date on which the amount of finance or the first payment is available to the borrower and the date of the payment (p) to be payable by the borrower, calculated in years and fractions of a year.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7534,
+    "source_ar": "X معدل النسبة السنوي.",
+    "target_en": "X is the APR.",
+    "source_ar_norm": "X معدل النسبة السنوي.",
+    "target_en_norm": "x is the apr.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7535,
+    "source_ar": "لغرض احتساب معدل النسبة السنوي، تُحسب الفترات بين التاريخ الذي يكون فيه مبلغ التمويل أو أول دفعة منه متاحاً للمستفيد وتاريخ كل دفعة تتاح للمستفيد أو تُستحق عليه على أساس اثني عشر شهراً متساوية أو (365) يوماً للسنة.",
+    "target_en": "For the purpose of calculating the APR, the periods between the date on which the finance amount or the first payment is available to the borrower and the date of each payment received or payable by the borrower shall be calculated on the basis of 12 equal months or 365 days a year.",
+    "source_ar_norm": "لغرض احتساب معدل النسبة السنوي، تحسب الفترات بين التاريخ الذي يكون فيه مبلغ التمويل او اول دفعة منه متاحا للمستفيد وتاريخ كل دفعة تتاح للمستفيد او تستحق عليه علي اساس اثني عشر شهرا متساوية او (365) يوما للسنة.",
+    "target_en_norm": "for the purpose of calculating the apr, the periods between the date on which the finance amount or the first payment is available to the borrower and the date of each payment received or payable by the borrower shall be calculated on the basis of 12 equal months or 365 days a year.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7536,
+    "source_ar": "لغرض احتساب معدل النسبة السنوي، يجب تحديد إجمالي المبلغ المستحق سداده من المستفيد بما في ذلك جميع الرسوم والعمولات والتكاليف التي لا يمكن للمستفيد تجنبها، مع استبعاد التكاليف أو الرسوم التي تُستحق على المستفيد نتيجة إخلاله بأي من التزاماته الواردة في عقد التمويل.",
+    "target_en": "For the purpose of calculating the APR, the total amount payable by the borrower must be specified including fees, commissions and costs that cannot be avoided by the borrower, excluding costs or fees payable by the borrower due to his breach of any of his obligations stipulated in the finance contract.",
+    "source_ar_norm": "لغرض احتساب معدل النسبة السنوي، يجب تحديد اجمالي المبلغ المستحق سداده من المستفيد بما في ذلك جميع الرسوم والعمولات والتكاليف التي لا يمكن للمستفيد تجنبها، مع استبعاد التكاليف او الرسوم التي تستحق علي المستفيد نتيجة اخلاله باي من التزاماته الواردة في عقد التمويل.",
+    "target_en_norm": "for the purpose of calculating the apr, the total amount payable by the borrower must be specified including fees, commissions and costs that cannot be avoided by the borrower, excluding costs or fees payable by the borrower due to his breach of any of his obligations stipulated in the finance contract.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7537,
+    "source_ar": "يجب احتساب معدل النسبة السنوي بافتراض سريان عقد التمويل للفترة المتفق عليها والتزام الطرفين بالتزاماتهما وفق الشروط الواردة في عقد التمويل.",
+    "target_en": "The APR shall be calculated on the assumption that the finance amount is valid for the term agreed upon and the parties adherence to their obligations according to the conditions stipulated in the finance contract.",
+    "source_ar_norm": "يجب احتساب معدل النسبة السنوي بافتراض سريان عقد التمويل للفترة المتفق عليها والتزام الطرفين بالتزاماتهما وفق الشروط الواردة في عقد التمويل.",
+    "target_en_norm": "the apr shall be calculated on the assumption that the finance amount is valid for the term agreed upon and the parties adherence to their obligations according to the conditions stipulated in the finance contract.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7538,
+    "source_ar": "مع مراعاة ما ورد في الفقرة (10) من المادة الثامنة والسبعون من هذه اللائحة، إذا تضمن عقد التمويل ما يجيز إجراء تغيير في كلفة الأجل أو الرسوم المضمنة في معدل النسبة السنوي بشكل غير قابل للتحديد عند احتساب معدل النسبة السنوي، فيجب احتساب هذا المعدل بافتراض أن كلفة الأجل والرسوم الأخرى تظل ثابتة عند مستوى كلفة الأجل الابتدائية وسارية إلى نهاية عقد التمويل.",
+    "target_en": "Subject to the provisions of Article 78(10) of this Regulation, if the finance contract includes a clause allowing change in the term cost or fees included in the APR at the time of calculating the APR, the APR must be calculated on the assumption that the term cost and other charges remain fixed at the level of the initial term cost and valid until the end of the finance contract.",
+    "source_ar_norm": "مع مراعاة ما ورد في الفقرة (10) من المادة الثامنة والسبعون من هذه اللائحة، اذا تضمن عقد التمويل ما يجيز اجراء تغيير في كلفة الاجل او الرسوم المضمنة في معدل النسبة السنوي بشكل غير قابل للتحديد عند احتساب معدل النسبة السنوي، فيجب احتساب هذا المعدل بافتراض ان كلفة الاجل والرسوم الاخري تظل ثابتة عند مستوي كلفة الاجل الابتدائية وسارية الي نهاية عقد التمويل.",
+    "target_en_norm": "subject to the provisions of article 78(10) of this regulation, if the finance contract includes a clause allowing change in the term cost or fees included in the apr at the time of calculating the apr, the apr must be calculated on the assumption that the term cost and other charges remain fixed at the level of the initial term cost and valid until the end of the finance contract.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7539,
+    "source_ar": "يجب احتساب معدل النسبة السنوي والإفصاح عنه كنسبة مئوية مع نقطتي أساس بحد أدنى، ويُجبر نصف نقطة الأساس فأكثر إلى نقطة كاملة.",
+    "target_en": "The APR must be calculated and expressed in percentage points with a minimum of two basis points, rounding half basis points to the nearest full basis points.",
+    "source_ar_norm": "يجب احتساب معدل النسبة السنوي والافصاح عنه كنسبة مئوية مع نقطتي اساس بحد ادني، ويجبر نصف نقطة الاساس فاكثر الي نقطة كاملة.",
+    "target_en_norm": "the apr must be calculated and expressed in percentage points with a minimum of two basis points, rounding half basis points to the nearest full basis points.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7540,
+    "source_ar": "المادة الثانية والثمانون:",
+    "target_en": "Article 82",
+    "source_ar_norm": "المادة الثانية والثمانون:",
+    "target_en_norm": "article 82",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7541,
+    "source_ar": "على شركة التمويل استخدام طريقة الرصيد المتناقص في توزيع كلفة الأجل على فترة الاستحقاق، بحيث تُوزع كلفة الأجل تناسبياً بين الأقساط على أساس قيمة الرصيد المتبقي من مبلغ التمويل في بداية الفترة التي يُستحق عنها القسط، وتضمينها في عقد التمويل.",
+    "target_en": "The finance company shall use the declining balance method in distributing the term cost on the maturity period, whereas such cost is distributed proportionally between installments on the basis of the balance value of the remaining finance amount at the commencement of the installment maturity period, and including it in the finance contract.",
+    "source_ar_norm": "علي شركة التمويل استخدام طريقة الرصيد المتناقص في توزيع كلفة الاجل علي فترة الاستحقاق، بحيث توزع كلفة الاجل تناسبيا بين الاقساط علي اساس قيمة الرصيد المتبقي من مبلغ التمويل في بداية الفترة التي يستحق عنها القسط، وتضمينها في عقد التمويل.",
+    "target_en_norm": "the finance company shall use the declining balance method in distributing the term cost on the maturity period, whereas such cost is distributed proportionally between installments on the basis of the balance value of the remaining finance amount at the commencement of the installment maturity period, and including it in the finance contract.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7542,
+    "source_ar": "المادة الثالثة والثمانون:",
+    "target_en": "Article 83",
+    "source_ar_norm": "المادة الثالثة والثمانون:",
+    "target_en_norm": "article 83",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7543,
+    "source_ar": "لا يجوز أن تتجاوز الرسوم والعمولات وتكاليف الخدمات الإدارية التي تحصل عليها شركة التمويل من المستفيد ما يعادل (1٪) من مبلغ التمويل أو (5,000) خمسة آلاف ريـال، أيهما أقل.",
+    "target_en": "All fees, commissions and administrative service charges to be paid by the borrower to the finance company shall not exceed one percent of the finance amount or five thousand riyals (SAR 5,000), whichever is less.",
+    "source_ar_norm": "لا يجوز ان تتجاوز الرسوم والعمولات وتكاليف الخدمات الادارية التي تحصل عليها شركة التمويل من المستفيد ما يعادل (1٪) من مبلغ التمويل او (5,000) خمسة الاف ريال، ايهما اقل.",
+    "target_en_norm": "all fees, commissions and administrative service charges to be paid by the borrower to the finance company shall not exceed one percent of the finance amount or five thousand riyals (sar 5,000), whichever is less.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7544,
+    "source_ar": "المادة الرابعة والثمانون:",
+    "target_en": "Article 84",
+    "source_ar_norm": "المادة الرابعة والثمانون:",
+    "target_en_norm": "article 84",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7545,
+    "source_ar": "للمستفيد تعجيل سداد باقي مبلغ التمويل، في أي وقت، ولا يجوز تحميله كلفة الأجل عن المدة الباقية. ولشركة التمويل الحصول على تعويض عن الآتي:",
+    "target_en": "The borrower may prepay the remainder of the finance amount, at any time, and shall not be required to pay the term cost for the remaining period. The finance company is entitled to compensation for the following:",
+    "source_ar_norm": "للمستفيد تعجيل سداد باقي مبلغ التمويل، في اي وقت، ولا يجوز تحميله كلفة الاجل عن المدة الباقية. ولشركة التمويل الحصول علي تعويض عن الاتي:",
+    "target_en_norm": "the borrower may prepay the remainder of the finance amount, at any time, and shall not be required to pay the term cost for the remaining period. the finance company is entitled to compensation for the following:",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7546,
+    "source_ar": "كلفة إعادة الاستثمار، بما لا يتجاوز كلفة الأجل للأشهر الثلاثة التالية للسداد، محسوبة على أساس الرصيد المتناقص.",
+    "target_en": "a) Reinvestment cost not exceeding the term cost for the three months subsequent to payment, calculated on the basis of the declining balance.",
+    "source_ar_norm": "كلفة اعادة الاستثمار، بما لا يتجاوز كلفة الاجل للاشهر الثلاثة التالية للسداد، محسوبة علي اساس الرصيد المتناقص.",
+    "target_en_norm": "a) reinvestment cost not exceeding the term cost for the three months subsequent to payment, calculated on the basis of the declining balance.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7547,
+    "source_ar": "ما تدفعه شركة التمويل لطرف ثالث بسبب عقد التمويل من النفقات التي نص عليها العقد، إذا كانت نفقات لا يمكن استردادها، وذلك عن المدة الباقية من عقد التمويل.",
+    "target_en": "Expenses stipulated in the contract, made by the finance company to a third party, if such expenses are irrecoverable, for the remaining term of the contract.",
+    "source_ar_norm": "ما تدفعه شركة التمويل لطرف ثالث بسبب عقد التمويل من النفقات التي نص عليها العقد، اذا كانت نفقات لا يمكن استردادها، وذلك عن المدة الباقية من عقد التمويل.",
+    "target_en_norm": "expenses stipulated in the contract, made by the finance company to a third party, if such expenses are irrecoverable, for the remaining term of the contract.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7548,
+    "source_ar": "استثناءً من أحكام الفقرة (1) من هذه المادة، يجوز أن ينص عقد التمويل العقاري على فترة يحظر فيها السداد المبكر، بشرط ألا تتجاوز مدة الحظر سنتين من تاريخ إبرام عقد التمويل العقاري.",
+    "target_en": "Notwithstanding the provisions of paragraph 1 of this Article, the real estate finance contract may stipulate a period of time which prepayment is prohibited, provided it does not exceed two years from the date of concluding the real estate finance contract.",
+    "source_ar_norm": "استثناء من احكام الفقرة (1) من هذه المادة، يجوز ان ينص عقد التمويل العقاري علي فترة يحظر فيها السداد المبكر، بشرط الا تتجاوز مدة الحظر سنتين من تاريخ ابرام عقد التمويل العقاري.",
+    "target_en_norm": "notwithstanding the provisions of paragraph 1 of this article, the real estate finance contract may stipulate a period of time which prepayment is prohibited, provided it does not exceed two years from the date of concluding the real estate finance contract.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7549,
+    "source_ar": "المادة الخامسة والثمانون:",
+    "target_en": "Article 85",
+    "source_ar_norm": "المادة الخامسة والثمانون:",
+    "target_en_norm": "article 85",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7550,
+    "source_ar": "للمستفيد في حال تنازل شركة التمويل عن حقوقها لطرف آخر أو تنازلها عن عقد التمويل نفسه أو إصدارها أوراقاً مالية مقابل الحقوق الناشئة عن عقد التمويل، أن يستعمل في مواجهة المتنازل إليه الدفوع المقررة له في مواجهة شركة التمويل.",
+    "target_en": "If the finance company assigns its rights or the finance contract to a third party or issues securities against rights arising out of the finance contract, the borrower may invoke against the assignee any defence available to him against the finance company.",
+    "source_ar_norm": "للمستفيد في حال تنازل شركة التمويل عن حقوقها لطرف اخر او تنازلها عن عقد التمويل نفسه او اصدارها اوراقا مالية مقابل الحقوق الناشئة عن عقد التمويل، ان يستعمل في مواجهة المتنازل اليه الدفوع المقررة له في مواجهة شركة التمويل.",
+    "target_en_norm": "if the finance company assigns its rights or the finance contract to a third party or issues securities against rights arising out of the finance contract, the borrower may invoke against the assignee any defence available to him against the finance company.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7551,
+    "source_ar": "على شركة التمويل الحصول على خطاب من المؤسسة يتضمن عدم ممانعتها قبل إسناد تقديم الخدمات المتعلقة بالتمويل إلى طرف آخر.",
+    "target_en": "The finance company shall obtain a no objection letter from SAMA prior to outsourcing the finance-related services.",
+    "source_ar_norm": "علي شركة التمويل الحصول علي خطاب من المؤسسة يتضمن عدم ممانعتها قبل اسناد تقديم الخدمات المتعلقة بالتمويل الي طرف اخر.",
+    "target_en_norm": "the finance company shall obtain a no objection letter from sama prior to outsourcing the finance-related services.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7552,
+    "source_ar": "المادة السادسة والثمانون:",
+    "target_en": "Article 86",
+    "source_ar_norm": "المادة السادسة والثمانون:",
+    "target_en_norm": "article 86",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7553,
+    "source_ar": "على شركة التمويل في حال إعلانها عن منتج أن يتضمن الإعلان اسمها وشعارها وأي بيان مميز لها وبيانات الاتصال بها.",
+    "target_en": "The finance company shall indicate in all product advertisements: its name, logo, any identifying representation and contact information.",
+    "source_ar_norm": "علي شركة التمويل في حال اعلانها عن منتج ان يتضمن الاعلان اسمها وشعارها واي بيان مميز لها وبيانات الاتصال بها.",
+    "target_en_norm": "the finance company shall indicate in all product advertisements: its name, logo, any identifying representation and contact information.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7554,
+    "source_ar": "يجب أن يتضمن الإعلان تصريحاً باسم المنتج المعلن عنه، وبيان معدل النسبة السنوي للمنتج بشكل واضح للمستهلك، ولا يجوز تضمين الإعلان معدلات أخرى لكلفة الأجل.",
+    "target_en": "The advertisement shall explicitly state the name and APR of the product advertised in a manner clear to the consumer. Such advertisement shall not include other rates of the term cost.",
+    "source_ar_norm": "يجب ان يتضمن الاعلان تصريحا باسم المنتج المعلن عنه، وبيان معدل النسبة السنوي للمنتج بشكل واضح للمستهلك، ولا يجوز تضمين الاعلان معدلات اخري لكلفة الاجل.",
+    "target_en_norm": "the advertisement shall explicitly state the name and apr of the product advertised in a manner clear to the consumer. such advertisement shall not include other rates of the term cost.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7555,
+    "source_ar": "يحظر على شركة التمويل الآتي:",
+    "target_en": "The finance company shall be prohibited from:",
+    "source_ar_norm": "يحظر علي شركة التمويل الاتي:",
+    "target_en_norm": "the finance company shall be prohibited from:",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7556,
+    "source_ar": "(أ) تقديم إعلان يتضمن عرضاً أو بياناً أو ادعاءً كاذباً أو أن يكون مصوغاً بعبارات من شأنها أن تؤدي بطريقة مباشرة أو غير مباشرة إلى خداع أو تضليل المستهلك.",
+    "target_en": "a) use of an advertisement that includes a false offer, statement, or a false claim expressed in terms that would directly or indirectly deceive or mislead the consumer; or",
+    "source_ar_norm": "(ا) تقديم اعلان يتضمن عرضا او بيانا او ادعاء كاذبا او ان يكون مصوغا بعبارات من شانها ان تؤدي بطريقة مباشرة او غير مباشرة الي خداع او تضليل المستهلك.",
+    "target_en_norm": "a) use of an advertisement that includes a false offer, statement, or a false claim expressed in terms that would directly or indirectly deceive or mislead the consumer; or",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7557,
+    "source_ar": "(ب) تقديم إعلان يتضمن شعاراً أو علامة فارقة دون وجه حق في استعمالها، أو استعمال علامة مقلدة.",
+    "target_en": "b) use of an advertisement that includes an unlawful use of a logo, a trade mark, or a counterfeit mark.",
+    "source_ar_norm": "(ب) تقديم اعلان يتضمن شعارا او علامة فارقة دون وجه حق في استعمالها، او استعمال علامة مقلدة.",
+    "target_en_norm": "b) use of an advertisement that includes an unlawful use of a logo, a trade mark, or a counterfeit mark.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7558,
+    "source_ar": "للمؤسسة إلزام شركة التمويل التي لا تتقيد بالشروط الواردة في هذه المادة سحب الإعلان خلال يوم عمل واحد من إخطار المؤسسة لها بذلك.",
+    "target_en": "SAMA may compel any finance company that fails to comply with the provisions of this Article to withdraw the advertisement within one working day from SAMA’s notification.",
+    "source_ar_norm": "للمؤسسة الزام شركة التمويل التي لا تتقيد بالشروط الواردة في هذه المادة سحب الاعلان خلال يوم عمل واحد من اخطار المؤسسة لها بذلك.",
+    "target_en_norm": "sama may compel any finance company that fails to comply with the provisions of this article to withdraw the advertisement within one working day from sama’s notification.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7559,
+    "source_ar": "المادة السابعة والثمانون:",
+    "target_en": "Article 87",
+    "source_ar_norm": "المادة السابعة والثمانون:",
+    "target_en_norm": "article 87",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7560,
+    "source_ar": "على شركة التمويل إنشاء وظيفة لمعالجة الشكاوى وتحديد المسؤولين عنها، ووضع إجراءات واضحة لتلقي وتوثيق شكاوى المستفيدين ودراستها والرد عليها خلال مدة لا تتجاوز عشرة أيام عمل من تاريخ تسلم الشكوى.",
+    "target_en": "The finance company shall establish a function and designate staff to address complaints, and set clear procedures for receiving, documenting, reviewing and responding to borrowers’ complaints within a period not exceeding 10 business days from the date of receipt of such complaint.",
+    "source_ar_norm": "علي شركة التمويل انشاء وظيفة لمعالجة الشكاوي وتحديد المسؤولين عنها، ووضع اجراءات واضحة لتلقي وتوثيق شكاوي المستفيدين ودراستها والرد عليها خلال مدة لا تتجاوز عشرة ايام عمل من تاريخ تسلم الشكوي.",
+    "target_en_norm": "the finance company shall establish a function and designate staff to address complaints, and set clear procedures for receiving, documenting, reviewing and responding to borrowers’ complaints within a period not exceeding 10 business days from the date of receipt of such complaint.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7561,
+    "source_ar": "وتقيد الشكاوى في سجلات خاصة بذلك، على أن تشمل تلك السجلات المعلومات الضرورية كافة التي تتعلق بموضوع الشكوى وما يتخذ بشأنها من إجراءات.",
+    "target_en": "All complaints shall be entered into a register, provided they include all necessary information regarding the complaints and actions taken thereon.",
+    "source_ar_norm": "وتقيد الشكاوي في سجلات خاصة بذلك، علي ان تشمل تلك السجلات المعلومات الضرورية كافة التي تتعلق بموضوع الشكوي وما يتخذ بشانها من اجراءات.",
+    "target_en_norm": "all complaints shall be entered into a register, provided they include all necessary information regarding the complaints and actions taken thereon.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7562,
+    "source_ar": "المادة الثامنة والثمانون:",
+    "target_en": "Article 88",
+    "source_ar_norm": "المادة الثامنة والثمانون:",
+    "target_en_norm": "article 88",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7563,
+    "source_ar": "على شركة التمويل ومنسوبيها المحافظة على سرية بيانات العملاء وعملياتهم وعدم الإفصاح عنها أو كشفها لأطراف أخرى إلا وفق ما تقضي به الأنظمة والتعليمات ذات العلاقة.",
+    "target_en": "The finance company and its employees shall maintain the confidentiality of clients’ data and transactions, and shall not disclose or pass such information to other parties, except in accordance with relevant laws and instructions.",
+    "source_ar_norm": "علي شركة التمويل ومنسوبيها المحافظة علي سرية بيانات العملاء وعملياتهم وعدم الافصاح عنها او كشفها لاطراف اخري الا وفق ما تقضي به الانظمة والتعليمات ذات العلاقة.",
+    "target_en_norm": "the finance company and its employees shall maintain the confidentiality of clients’ data and transactions, and shall not disclose or pass such information to other parties, except in accordance with relevant laws and instructions.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7564,
+    "source_ar": "يحظر على منسوبي شركة التمويل إفشاء أي معلومات عن عملاء الشركة وعملياتهم، حصلوا عليها من خلال قيامهم بعملهم، ولو بعد ترك العمل في شركة التمويل، كما يحظر عليهم الاحتفاظ بأي من هذه المعلومات بعد ترك العمل.",
+    "target_en": "The finance company employees shall not disclose any information about the company’s clients and transactions to which they may be privy during or after their employment in the company. They shall not retain any such information after termination of employment.",
+    "source_ar_norm": "يحظر علي منسوبي شركة التمويل افشاء اي معلومات عن عملاء الشركة وعملياتهم، حصلوا عليها من خلال قيامهم بعملهم، ولو بعد ترك العمل في شركة التمويل، كما يحظر عليهم الاحتفاظ باي من هذه المعلومات بعد ترك العمل.",
+    "target_en_norm": "the finance company employees shall not disclose any information about the company’s clients and transactions to which they may be privy during or after their employment in the company. they shall not retain any such information after termination of employment.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7565,
+    "source_ar": "على شركة التمويل اتخاذ الإجراءات اللازمة لضمان الحفاظ على سرية معلومات عملائها وعملياتهم.",
+    "target_en": "The finance company shall take all necessary measures to ensure confidentiality of clients’ information and transactions.",
+    "source_ar_norm": "علي شركة التمويل اتخاذ الاجراءات اللازمة لضمان الحفاظ علي سرية معلومات عملائها وعملياتهم.",
+    "target_en_norm": "the finance company shall take all necessary measures to ensure confidentiality of clients’ information and transactions.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7566,
+    "source_ar": "الباب التاسع عشر النشاطات المساندة لنشاط التمويل",
+    "target_en": "Chapter Nineteen: Finance Support Activities",
+    "source_ar_norm": "الباب التاسع عشر النشاطات المساندة لنشاط التمويل",
+    "target_en_norm": "chapter nineteen: finance support activities",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7567,
+    "source_ar": "المادة التاسعة والثمانون:",
+    "target_en": "Article 89",
+    "source_ar_norm": "المادة التاسعة والثمانون:",
+    "target_en_norm": "article 89",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7568,
+    "source_ar": "لا يجوز لغير شركات التمويل المرخص لها ممارسة نشاط أو أكثر من النشاطات المساندة لنشاط التمويل، مثل تسويق المنتجات التمويلية أو تحصيل ديون شركة التمويل، إلا بعد الحصول على ترخيص بذلك وفق القواعد التي تصدرها المؤسسة في هذا الشأن.",
+    "target_en": "No finance company may engage in one or more finance support activities, such as marketing of finance products or collection of finance company debts, except upon obtaining a license in accordance with rules issued by SAMA.",
+    "source_ar_norm": "لا يجوز لغير شركات التمويل المرخص لها ممارسة نشاط او اكثر من النشاطات المساندة لنشاط التمويل، مثل تسويق المنتجات التمويلية او تحصيل ديون شركة التمويل، الا بعد الحصول علي ترخيص بذلك وفق القواعد التي تصدرها المؤسسة في هذا الشان.",
+    "target_en_norm": "no finance company may engage in one or more finance support activities, such as marketing of finance products or collection of finance company debts, except upon obtaining a license in accordance with rules issued by sama.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7569,
+    "source_ar": "المادة التسعون:",
+    "target_en": "Article 90",
+    "source_ar_norm": "المادة التسعون:",
+    "target_en_norm": "article 90",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7570,
+    "source_ar": "لا يجوز لشركة التمويل التعاقد أو التعامل مع من يمارس نشاطاً أو أكثر من النشاطات المساندة لنشاط التمويل ما لم يكن مرخصاً له من المؤسسة.",
+    "target_en": "A finance company may not contract or engage providers of finance support activities unless licensed by SAMA.",
+    "source_ar_norm": "لا يجوز لشركة التمويل التعاقد او التعامل مع من يمارس نشاطا او اكثر من النشاطات المساندة لنشاط التمويل ما لم يكن مرخصا له من المؤسسة.",
+    "target_en_norm": "a finance company may not contract or engage providers of finance support activities unless licensed by sama.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7571,
+    "source_ar": "الباب العشرون إجراءات الضبط والتحقيق والادعاء العام",
+    "target_en": "Chapter Twenty: Investigation and Public Prosecution Procedures",
+    "source_ar_norm": "الباب العشرون اجراءات الضبط والتحقيق والادعاء العام",
+    "target_en_norm": "chapter twenty: investigation and public prosecution procedures",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7572,
+    "source_ar": "المادة الحادية والتسعون:",
+    "target_en": "Article 91",
+    "source_ar_norm": "المادة الحادية والتسعون:",
+    "target_en_norm": "article 91",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7573,
+    "source_ar": "1. تطبق أحكام هذا الباب في المخالفات ودعاوى الحق العام الناشئة عن تطبيق أحكام النظام واللائحة.",
+    "target_en": "Provisions of this Chapter shall apply to violations and cases of public rights arising from the application of the Law and the Regulation.",
+    "source_ar_norm": "1. تطبق احكام هذا الباب في المخالفات ودعاوي الحق العام الناشئة عن تطبيق احكام النظام واللائحة.",
+    "target_en_norm": "provisions of this chapter shall apply to violations and cases of public rights arising from the application of the law and the regulation.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7574,
+    "source_ar": "2. تطبق أحكام نظام الإجراءات الجزائية ونظام هيئة التحقيق والادعاء العام والقواعد العامة المعمول بها في المملكة فيما لم يرد به نص في هذه اللائحة.",
+    "target_en": "Unless provided herein, the provisions of the Criminal Procedures Law, the Law of Bureau of Investigation and Public Prosecution and the general rules applicable in the Kingdom shall apply.",
+    "source_ar_norm": "2. تطبق احكام نظام الاجراءات الجزائية ونظام هيئة التحقيق والادعاء العام والقواعد العامة المعمول بها في المملكة فيما لم يرد به نص في هذه اللائحة.",
+    "target_en_norm": "unless provided herein, the provisions of the criminal procedures law, the law of bureau of investigation and public prosecution and the general rules applicable in the kingdom shall apply.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7575,
+    "source_ar": "المادة الثانية والتسعون:",
+    "target_en": "Article 92",
+    "source_ar_norm": "المادة الثانية والتسعون:",
+    "target_en_norm": "article 92",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7576,
+    "source_ar": "يشترط في موظف المؤسسة المختص بأعمال الضبط والتحقيق والادعاء العام الآتي:",
+    "target_en": "A SAMA officer entrusted with investigation and public prosecution shall satisfy the following conditions:",
+    "source_ar_norm": "يشترط في موظف المؤسسة المختص باعمال الضبط والتحقيق والادعاء العام الاتي:",
+    "target_en_norm": "a sama officer entrusted with investigation and public prosecution shall satisfy the following conditions:",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7577,
+    "source_ar": "أن يكون سعودي الجنسية.",
+    "target_en": "Be a Saudi national",
+    "source_ar_norm": "ان يكون سعودي الجنسية.",
+    "target_en_norm": "be a saudi national",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7578,
+    "source_ar": "أن يكون حسن السيرة والسلوك.",
+    "target_en": "Be of a good conduct.",
+    "source_ar_norm": "ان يكون حسن السيرة والسلوك.",
+    "target_en_norm": "be of a good conduct.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7579,
+    "source_ar": "ألا يكون أدين بجريمة مخلة بالشرف والأمانة ما لم يرد إليه اعتباره.",
+    "target_en": "Have not been convicted of a crime impinging on honour or integrity, unless rehabilitated.",
+    "source_ar_norm": "الا يكون ادين بجريمة مخلة بالشرف والامانة ما لم يرد اليه اعتباره.",
+    "target_en_norm": "have not been convicted of a crime impinging on honour or integrity, unless rehabilitated.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7580,
+    "source_ar": "أن يكون حاصلاً على شهادة جامعية.",
+    "target_en": "Be a holder of a university degree.",
+    "source_ar_norm": "ان يكون حاصلا علي شهادة جامعية.",
+    "target_en_norm": "be a holder of a university degree.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7581,
+    "source_ar": "أن يجتاز بنجاح الامتحان المهني المعتمد من المؤسسة.",
+    "target_en": "Have passed the professional examination approved by SAMA.",
+    "source_ar_norm": "ان يجتاز بنجاح الامتحان المهني المعتمد من المؤسسة.",
+    "target_en_norm": "have passed the professional examination approved by sama.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7582,
+    "source_ar": "المادة الثالثة والتسعون:",
+    "target_en": "Article 93",
+    "source_ar_norm": "المادة الثالثة والتسعون:",
+    "target_en_norm": "article 93",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7583,
+    "source_ar": "يتولى موظفو الضبط والتحقيق والادعاء العام تلقي البلاغات، وجمع المعلومات، وضبط الأدلة اللازمة للتحقيق، وتوجيه الاتهام.",
+    "target_en": "Investigation and public prosecution officers shall receive reports, gather information, record evidence necessary for investigation and file charges.",
+    "source_ar_norm": "يتولي موظفو الضبط والتحقيق والادعاء العام تلقي البلاغات، وجمع المعلومات، وضبط الادلة اللازمة للتحقيق، وتوجيه الاتهام.",
+    "target_en_norm": "investigation and public prosecution officers shall receive reports, gather information, record evidence necessary for investigation and file charges.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7584,
+    "source_ar": "يجوز لموظفي الضبط والتحقيق والادعاء العام الاستعانة برجال الضبط الجنائي إذا دعت الحاجة لذلك.",
+    "target_en": "Investigation and public prosecution officers may seek assistance from preliminary criminal investigation officers if necessary.",
+    "source_ar_norm": "يجوز لموظفي الضبط والتحقيق والادعاء العام الاستعانة برجال الضبط الجنائي اذا دعت الحاجة لذلك.",
+    "target_en_norm": "investigation and public prosecution officers may seek assistance from preliminary criminal investigation officers if necessary.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7585,
+    "source_ar": "يجوز لموظفي الضبط والتحقيق والادعاء العام الاستعانة بالمختصين من الأفراد والشركات عند إجراء المعاينة والتفتيش وضبط الأشياء المتعلقة بالمخالفة.",
+    "target_en": "Investigation and public prosecution officers may seek the assistance of specialized individuals and companies when carrying out inspection, search and seizure of items related to the violation.",
+    "source_ar_norm": "يجوز لموظفي الضبط والتحقيق والادعاء العام الاستعانة بالمختصين من الافراد والشركات عند اجراء المعاينة والتفتيش وضبط الاشياء المتعلقة بالمخالفة.",
+    "target_en_norm": "investigation and public prosecution officers may seek the assistance of specialized individuals and companies when carrying out inspection, search and seizure of items related to the violation.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7586,
+    "source_ar": "وتنحصر مهمة هؤلاء المختصين في تحديد الأماكن والأشياء التي يستلزم التحقيق تفتيشها وضبطها.",
+    "target_en": "The duty of such specialists shall be confined to the determination of locations and items the investigation requires to be searched or seized.",
+    "source_ar_norm": "وتنحصر مهمة هؤلاء المختصين في تحديد الاماكن والاشياء التي يستلزم التحقيق تفتيشها وضبطها.",
+    "target_en_norm": "the duty of such specialists shall be confined to the determination of locations and items the investigation requires to be searched or seized.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7587,
+    "source_ar": "تصدر بقرار من المحافظ قواعد وإجراءات وضوابط عمل موظفي الضبط والتحقيق والادعاء العام.",
+    "target_en": "The Governor shall issue rules, procedures and controls for the work of investigation and public prosecution officers.",
+    "source_ar_norm": "تصدر بقرار من المحافظ قواعد واجراءات وضوابط عمل موظفي الضبط والتحقيق والادعاء العام.",
+    "target_en_norm": "the governor shall issue rules, procedures and controls for the work of investigation and public prosecution officers.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7588,
+    "source_ar": "المادة الرابعة والتسعون:",
+    "target_en": "Article 94",
+    "source_ar_norm": "المادة الرابعة والتسعون:",
+    "target_en_norm": "article 94",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7589,
+    "source_ar": "لا يجوز لموظفي الضبط والتحقيق والادعاء العام ومساعديهم من رجال ضبط وخبراء ومختصين إفشاء الأسرار التي يطَّلعون عليها بحكم عملهم حتى بعد تركهم الخدمة.",
+    "target_en": "Investigation and public prosecution officers and assistants, including preliminary investigation officers, experts and specialists shall not disclose confidential information to which they become privy in the course of their employment and after leaving the service.",
+    "source_ar_norm": "لا يجوز لموظفي الضبط والتحقيق والادعاء العام ومساعديهم من رجال ضبط وخبراء ومختصين افشاء الاسرار التي يطلعون عليها بحكم عملهم حتي بعد تركهم الخدمة.",
+    "target_en_norm": "investigation and public prosecution officers and assistants, including preliminary investigation officers, experts and specialists shall not disclose confidential information to which they become privy in the course of their employment and after leaving the service.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7590,
+    "source_ar": "المادة الخامسة والتسعون:",
+    "target_en": "Article 95",
+    "source_ar_norm": "المادة الخامسة والتسعون:",
+    "target_en_norm": "article 95",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7591,
+    "source_ar": "تحال الدعوى الجزائية من المحافظ أو من ينيبه إلى لجنة الفصل في المخالفات والمنازعات التمويلية.",
+    "target_en": "Criminal lawsuits shall be referred by the Governor or designee to the Committee for Settlement of Finance Violations and Disputes.",
+    "source_ar_norm": "تحال الدعوي الجزائية من المحافظ او من ينيبه الي لجنة الفصل في المخالفات والمنازعات التمويلية.",
+    "target_en_norm": "criminal lawsuits shall be referred by the governor or designee to the committee for settlement of finance violations and disputes.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7592,
+    "source_ar": "المادة السادسة والتسعون:",
+    "target_en": "Article 96",
+    "source_ar_norm": "المادة السادسة والتسعون:",
+    "target_en_norm": "article 96",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7593,
+    "source_ar": "تحيل المؤسسة إلى الجهة المختصة بالتحقيق والادعاء العام الجرائم والمخالفات التي لا تدخل في اختصاص المؤسسة.",
+    "target_en": "SAMA shall refer crimes and violations beyond its jurisdiction to the agency in charge of investigation and public prosecution.",
+    "source_ar_norm": "تحيل المؤسسة الي الجهة المختصة بالتحقيق والادعاء العام الجرائم والمخالفات التي لا تدخل في اختصاص المؤسسة.",
+    "target_en_norm": "sama shall refer crimes and violations beyond its jurisdiction to the agency in charge of investigation and public prosecution.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7594,
+    "source_ar": "الباب الحادي والعشرون أحكام ختامية",
+    "target_en": "Chapter Twenty One: Concluding Provisions",
+    "source_ar_norm": "الباب الحادي والعشرون احكام ختامية",
+    "target_en_norm": "chapter twenty one: concluding provisions",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7595,
+    "source_ar": "المادة السابعة والتسعون:",
+    "target_en": "Article 97",
+    "source_ar_norm": "المادة السابعة والتسعون:",
+    "target_en_norm": "article 97",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7596,
+    "source_ar": "على الشركات والمؤسسات العاملة التي تمارس نشاط التمويل في المملكة قبل سريان النظام تزويد المؤسسة خلال الأشهر التسعة الأولى من المهلة المنصوص عليها في المادة السادسة والثلاثون من النظام بخطة لتسوية أوضاعها وفق أحكام النظام أو خطة للخروج من السوق.",
+    "target_en": "Companies and establishments engaged in finance activities in the Kingdom shall, prior to the effectiveness of the Law, provide SAMA within the first nine months of the grace period referred to in Article 36 of the Law with a plan to conform with the provisions of the Law or a plan to exit the market.",
+    "source_ar_norm": "علي الشركات والمؤسسات العاملة التي تمارس نشاط التمويل في المملكة قبل سريان النظام تزويد المؤسسة خلال الاشهر التسعة الاولي من المهلة المنصوص عليها في المادة السادسة والثلاثون من النظام بخطة لتسوية اوضاعها وفق احكام النظام او خطة للخروج من السوق.",
+    "target_en_norm": "companies and establishments engaged in finance activities in the kingdom shall, prior to the effectiveness of the law, provide sama within the first nine months of the grace period referred to in article 36 of the law with a plan to conform with the provisions of the law or a plan to exit the market.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7597,
+    "source_ar": "المادة الثامنة والتسعون:",
+    "target_en": "Article 98",
+    "source_ar_norm": "المادة الثامنة والتسعون:",
+    "target_en_norm": "article 98",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7598,
+    "source_ar": "تشكل لجنة، أو أكثر، بقرار من المحافظ تُعنى بتقديم المقترحات والتوصيات اللازمة لتطوير قطاع التمويل.",
+    "target_en": "A committee, or more, shall be formed pursuant to a decision by the Governor to be in charge of providing suggestions and recommendations necessary for developing the finance sector.",
+    "source_ar_norm": "تشكل لجنة، او اكثر، بقرار من المحافظ تعني بتقديم المقترحات والتوصيات اللازمة لتطوير قطاع التمويل.",
+    "target_en_norm": "a committee, or more, shall be formed pursuant to a decision by the governor to be in charge of providing suggestions and recommendations necessary for developing the finance sector.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7599,
+    "source_ar": "المادة التاسعة والتسعون:",
+    "target_en": "Article 99",
+    "source_ar_norm": "المادة التاسعة والتسعون:",
+    "target_en_norm": "article 99",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  },
+  {
+    "id": 7600,
+    "source_ar": "تصدر بقرار من المحافظ القواعد والتعليمات اللازمة لتطبيق المتطلبات الرقابية والإشرافية على قطاع التمويل.",
+    "target_en": "Necessary rules and instructions for the implementation of regulatory and supervisory requirements of the finance sector shall be issued pursuant to a decision by the Governor.",
+    "source_ar_norm": "تصدر بقرار من المحافظ القواعد والتعليمات اللازمة لتطبيق المتطلبات الرقابية والاشرافية علي قطاع التمويل.",
+    "target_en_norm": "necessary rules and instructions for the implementation of regulatory and supervisory requirements of the finance sector shall be issued pursuant to a decision by the governor.",
+    "file_name": "اللائحة التنفيذية لنظام مراقبة شركات التمويل.docx"
+  }
+]

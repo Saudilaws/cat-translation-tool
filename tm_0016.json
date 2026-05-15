@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1501,
+    "source_ar": "التنسيق مع الجهات الحكومية المعنية فيما يخص تنمية المرافق وتوفير البنية الأساسية للمناطق التعدينية.",
+    "target_en": "Coordinating with the relevant government agencies with regard to the development of facilities and infrastructure required for mining areas.",
+    "source_ar_norm": "التنسيق مع الجهات الحكومية المعنية فيما يخص تنمية المرافق وتوفير البنية الاساسية للمناطق التعدينية.",
+    "target_en_norm": "coordinating with the relevant government agencies with regard to the development of facilities and infrastructure required for mining areas.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1502,
+    "source_ar": "تحديد مناطق للاحتياطي التعديني بالتنسيق مع الجهة ذات العلاقة.",
+    "target_en": "Designating mineral reserve areas, in coordination with the relevant agency.",
+    "source_ar_norm": "تحديد مناطق للاحتياطي التعديني بالتنسيق مع الجهة ذات العلاقة.",
+    "target_en_norm": "designating mineral reserve areas, in coordination with the relevant agency.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1503,
+    "source_ar": "الإشراف والمراقبة الفنية والمالية على جميع أوجه نشاطات المرخص لهم بموجب هذا القانون (النظام) وفقًا لما تحدده اللائحة.",
+    "target_en": "Overseeing and controlling the technical and financial activities of the licensees under this Law in accordance with the Regulations.",
+    "source_ar_norm": "الاشراف والمراقبة الفنية والمالية علي جميع اوجه نشاطات المرخص لهم بموجب هذا القانون (النظام) وفقا لما تحدده اللائحة.",
+    "target_en_norm": "overseeing and controlling the technical and financial activities of the licensees under this law in accordance with the regulations.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1504,
+    "source_ar": "تحديد وتحصيل المقابل المالي للخدمات التي تقدمها الجهة المختصة وفقًا لما تحدده اللائحة.",
+    "target_en": "Determining and collecting fees for the services provided by the competent agency in accordance with the Regulations.",
+    "source_ar_norm": "تحديد وتحصيل المقابل المالي للخدمات التي تقدمها الجهة المختصة وفقا لما تحدده اللائحة.",
+    "target_en_norm": "determining and collecting fees for the services provided by the competent agency in accordance with the regulations.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1505,
+    "source_ar": "تحديد وتحصيل المقابل المالي للاستغلال والإيجار السطحي وفقًا لما تحدده اللائحة.",
+    "target_en": "Determining and collecting fees for exploitation and surface rental in accordance with the Regulations.",
+    "source_ar_norm": "تحديد وتحصيل المقابل المالي للاستغلال والايجار السطحي وفقا لما تحدده اللائحة.",
+    "target_en_norm": "determining and collecting fees for exploitation and surface rental in accordance with the regulations.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1506,
+    "source_ar": "تحصيل الرسوم والغرامات المقررة طبقًا لهذا القانون (النظام) وفقًا للائحة.",
+    "target_en": "Collecting fees and fines stipulated in this Law in accordance with the Regulations.",
+    "source_ar_norm": "تحصيل الرسوم والغرامات المقررة طبقا لهذا القانون (النظام) وفقا للائحة.",
+    "target_en_norm": "collecting fees and fines stipulated in this law in accordance with the regulations.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1507,
+    "source_ar": "تحديد الإجراءات والمتطلبات اللازمة لطرح المزايدات أو المنافسات الخاصة برخص الكشف والاستغلال.",
+    "target_en": "Determining the procedures and requirements necessary for bidding and tenders for exploration and exploitation licenses.",
+    "source_ar_norm": "تحديد الاجراءات والمتطلبات اللازمة لطرح المزايدات او المنافسات الخاصة برخص الكشف والاستغلال.",
+    "target_en_norm": "determining the procedures and requirements necessary for bidding and tenders for exploration and exploitation licenses.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1508,
+    "source_ar": "تحديد الضوابط اللازمة لحماية وتسوية الأرض التي تجري عليها العمليات بموجب هذا القانون (النظام).",
+    "target_en": "Determining the conditions necessary for the protection and leveling of the land on which operations are to be carried out under this Law.",
+    "source_ar_norm": "تحديد الضوابط اللازمة لحماية وتسوية الارض التي تجري عليها العمليات بموجب هذا القانون (النظام).",
+    "target_en_norm": "determining the conditions necessary for the protection and leveling of the land on which operations are to be carried out under this law.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1509,
+    "source_ar": "تحديد الإجراءات وإعداد النماذج اللازمة لتنفيذ أحكام هذا القانون (النظام).",
+    "target_en": "Determining the procedures and designating the forms required for the implementation of this Law.",
+    "source_ar_norm": "تحديد الاجراءات واعداد النماذج اللازمة لتنفيذ احكام هذا القانون (النظام).",
+    "target_en_norm": "determining the procedures and designating the forms required for the implementation of this law.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1510,
+    "source_ar": "تحديد محتوى وشكل أي دراسة أو تقرير يطلب وفقًا لهذا القانون (النظام).",
+    "target_en": "Determining the content and format of any study or report required under this Law.",
+    "source_ar_norm": "تحديد محتوي وشكل اي دراسة او تقرير يطلب وفقا لهذا القانون (النظام).",
+    "target_en_norm": "determining the content and format of any study or report required under this law.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1511,
+    "source_ar": "تزويد الجهات الرسمية المختصة والأشخاص ذو العلاقة بنسخ من الرخص الصادرة بموجب هذا القانون (النظام).",
+    "target_en": "Providing relevant government agencies and concerned persons with copies of the licenses issued under this Law.",
+    "source_ar_norm": "تزويد الجهات الرسمية المختصة والاشخاص ذو العلاقة بنسخ من الرخص الصادرة بموجب هذا القانون (النظام).",
+    "target_en_norm": "providing relevant government agencies and concerned persons with copies of the licenses issued under this law.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1512,
+    "source_ar": "إصدار القرارات اللازمة لتنفيذ أحكام هذا القانون (النظام) ولائحته.",
+    "target_en": "Issuing the decisions necessary for the implementation of this Law.",
+    "source_ar_norm": "اصدار القرارات اللازمة لتنفيذ احكام هذا القانون (النظام) ولائحته.",
+    "target_en_norm": "issuing the decisions necessary for the implementation of this law.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1513,
+    "source_ar": "المادة (5) ضرورة الحصول على رخصة والمستثنون منها",
+    "target_en": "Article 5: License: Exempted and Non-exempted Entities and Persons",
+    "source_ar_norm": "المادة (5) ضرورة الحصول علي رخصة والمستثنون منها",
+    "target_en_norm": "article 5: license: exempted and non-exempted entities and persons",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1514,
+    "source_ar": "لا يحق لأي شخص طبيعي أو اعتباري القيام بأي عملية استطلاع أو كشف أو استغلال أو جمع مواد إلا بعد الحصول على الرخصة التي تخوله القيام بذلك من الجهة المختصة، ويستثنى من ذلك الجامعات والمعاهد ومراكز الأبحاث الوطنية التي يجوز لها بعد موافقة الجهة المختصة إجراء أبحاث علمية ذات علاقة بالاستطلاع أو بالكشف عن الخامات والمعادن دون حاجة للحصول على الرخصة المطلوبة في هذا الشأن، على ألا يتم استخدام تلك الأبحاث لأغراض تجارية إلا بموافقة الجهة المختصة، وتزويدها بنسخة من نتائج العمل أو البحث.",
+    "target_en": "A natural or legal person may not carry out any operation of reconnaissance, exploration, exploitation, or collection of materials except after obtaining the relevant license from the competent agency. However, universities, institutes, and national research centers shall, subject to the approval of the competent agency, be exempted from obtaining the license required for carrying out scientific research related to reconnaissance or exploration of ores and minerals; such research may not be used for commercial purposes without obtaining the approval of the competent agency and submitting a copy of the work or research finding to such agency.",
+    "source_ar_norm": "لا يحق لاي شخص طبيعي او اعتباري القيام باي عملية استطلاع او كشف او استغلال او جمع مواد الا بعد الحصول علي الرخصة التي تخوله القيام بذلك من الجهة المختصة، ويستثني من ذلك الجامعات والمعاهد ومراكز الابحاث الوطنية التي يجوز لها بعد موافقة الجهة المختصة اجراء ابحاث علمية ذات علاقة بالاستطلاع او بالكشف عن الخامات والمعادن دون حاجة للحصول علي الرخصة المطلوبة في هذا الشان، علي الا يتم استخدام تلك الابحاث لاغراض تجارية الا بموافقة الجهة المختصة، وتزويدها بنسخة من نتائج العمل او البحث.",
+    "target_en_norm": "a natural or legal person may not carry out any operation of reconnaissance, exploration, exploitation, or collection of materials except after obtaining the relevant license from the competent agency. however, universities, institutes, and national research centers shall, subject to the approval of the competent agency, be exempted from obtaining the license required for carrying out scientific research related to reconnaissance or exploration of ores and minerals; such research may not be used for commercial purposes without obtaining the approval of the competent agency and submitting a copy of the work or research finding to such agency.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1515,
+    "source_ar": "المادة (6) الأراضي والمناطق البحرية التي يجوز منح رخص عليها",
+    "target_en": "Article 6: Granting Licenses for Lands and Maritime Areas",
+    "source_ar_norm": "المادة (6) الاراضي والمناطق البحرية التي يجوز منح رخص عليها",
+    "target_en_norm": "article 6: granting licenses for lands and maritime areas",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1516,
+    "source_ar": "مع مراعاة أحكام هذا القانون (النظام) وما تقضي به القوانين (الأنظمة) ذات العلاقة، يجوز للسلطة المختصة إصدار أي رخصة من الرخص المنصوص عليها في المادة (العاشرة) من هذا القانون (النظام) على الأراضي المملوكة للدولة، أو على المناطق البحرية.",
+    "target_en": "Subject to this Law and other relevant laws, the competent authority may issue the licenses stipulated in Article 10 of this Law for state-owned lands or maritime areas.",
+    "source_ar_norm": "مع مراعاة احكام هذا القانون (النظام) وما تقضي به القوانين (الانظمة) ذات العلاقة، يجوز للسلطة المختصة اصدار اي رخصة من الرخص المنصوص عليها في المادة (العاشرة) من هذا القانون (النظام) علي الاراضي المملوكة للدولة، او علي المناطق البحرية.",
+    "target_en_norm": "subject to this law and other relevant laws, the competent authority may issue the licenses stipulated in article 10 of this law for state-owned lands or maritime areas.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1517,
+    "source_ar": "ويجوز منح رخص على الأراضي المملوكة ملكية خاصة وفق ما تقره المادة الثالثة والعشرون.",
+    "target_en": "Licenses may be granted for privately-owned lands as specified in Article 23.",
+    "source_ar_norm": "ويجوز منح رخص علي الاراضي المملوكة ملكية خاصة وفق ما تقره المادة الثالثة والعشرون.",
+    "target_en_norm": "licenses may be granted for privately-owned lands as specified in article 23.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1518,
+    "source_ar": "المادة (7) الأراضي والمناطق المستثناة من تطبيق أحكام هذا القانون (النظام)",
+    "target_en": "Article 7: Exempted Lands and Maritime Areas",
+    "source_ar_norm": "المادة (7) الاراضي والمناطق المستثناة من تطبيق احكام هذا القانون (النظام)",
+    "target_en_norm": "article 7: exempted lands and maritime areas",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1519,
+    "source_ar": "لا تسري أحكام هذا القانون (النظام) على ما يلي:",
+    "target_en": "This Law shall not apply to:",
+    "source_ar_norm": "لا تسري احكام هذا القانون (النظام) علي ما يلي:",
+    "target_en_norm": "this law shall not apply to:",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1520,
+    "source_ar": "الأراضي التي تشغلها الأماكن المقدسة وأماكن العبادة، والأراضي التي حددت رسميًا بأنها تاريخية أو أثرية أو محميات طبيعية.",
+    "target_en": "lands of holy sites and places of worship, as well as lands which are officially designated as historical or archaeological lands or as natural reserves;",
+    "source_ar_norm": "الاراضي التي تشغلها الاماكن المقدسة واماكن العبادة، والاراضي التي حددت رسميا بانها تاريخية او اثرية او محميات طبيعية.",
+    "target_en_norm": "lands of holy sites and places of worship, as well as lands which are officially designated as historical or archaeological lands or as natural reserves;",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1521,
+    "source_ar": "الأراضي التي تقوم عليها مدن، أو شوارع، أو مطارات، أو سكك حديدية، أو خطوط أنابيب، أو طرق عامة، أو أي وسيلة من وسائل النقل أو الاتصالات العامة، أو الأراضي المخصصة لمشاريع المياه المعتمدة، أو أي مرفق عام، أو منشأة عسكرية، أو مشروع زراعي.",
+    "target_en": "lands on which cities, streets, airports, railways, pipelines, public roads, or any other means of transportation or public telecommunication are established; lands designated for approved water projects; public utilities; military installations; or agricultural projects.",
+    "source_ar_norm": "الاراضي التي تقوم عليها مدن، او شوارع، او مطارات، او سكك حديدية، او خطوط انابيب، او طرق عامة، او اي وسيلة من وسائل النقل او الاتصالات العامة، او الاراضي المخصصة لمشاريع المياه المعتمدة، او اي مرفق عام، او منشاة عسكرية، او مشروع زراعي.",
+    "target_en_norm": "lands on which cities, streets, airports, railways, pipelines, public roads, or any other means of transportation or public telecommunication are established; lands designated for approved water projects; public utilities; military installations; or agricultural projects.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1522,
+    "source_ar": "وإذا تبين أن من الممكن استخراج المعادن الموجودة تحت سطح الأراضي المبينة في هذه الفقرة، فإنه يجوز للجهة المختصة رفع الحظر عن هذه الأراضي بعد الاتفاق مع الجهات ذات العلاقة، وفقًا للإجراءات المتبعة في كل دولة.",
+    "target_en": "If, however, it appears that subsurface minerals within the lands mentioned in this paragraph can be extracted, the competent agency may, in coordination with the relevant agencies, lift such prohibition, in accordance with the applicable procedures in each state; and",
+    "source_ar_norm": "واذا تبين ان من الممكن استخراج المعادن الموجودة تحت سطح الاراضي المبينة في هذه الفقرة، فانه يجوز للجهة المختصة رفع الحظر عن هذه الاراضي بعد الاتفاق مع الجهات ذات العلاقة، وفقا للاجراءات المتبعة في كل دولة.",
+    "target_en_norm": "if, however, it appears that subsurface minerals within the lands mentioned in this paragraph can be extracted, the competent agency may, in coordination with the relevant agencies, lift such prohibition, in accordance with the applicable procedures in each state; and",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1523,
+    "source_ar": "الأراضي والمناطق البحرية والمراعي والغابات التي يتقرر استبعادها أو إخراجها من نطاق تطبيق هذا القانون (النظام) بقرار من الجهة صاحبة الاختصاص في الدولة.",
+    "target_en": "lands, maritime areas, pastures, and forests which are exempted from this Law pursuant to a decision by the state’s competent agency.",
+    "source_ar_norm": "الاراضي والمناطق البحرية والمراعي والغابات التي يتقرر استبعادها او اخراجها من نطاق تطبيق هذا القانون (النظام) بقرار من الجهة صاحبة الاختصاص في الدولة.",
+    "target_en_norm": "lands, maritime areas, pastures, and forests which are exempted from this law pursuant to a decision by the state’s competent agency.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1524,
+    "source_ar": "المادة (8) مناطق الاحتياطي التعديني",
+    "target_en": "Article 8: Mineral Reserve Areas",
+    "source_ar_norm": "المادة (8) مناطق الاحتياطي التعديني",
+    "target_en_norm": "article 8: mineral reserve areas",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1525,
+    "source_ar": "للسلطة المختصة أن تصدر قرارا بتحديد الأراضي والمناطق البحرية لتخصيصها أو حجزها للاحتياطي التعديني، ولها أن تحدد الأنشطة غير المسموح بها في هذه الأراضي أو المناطق من أجل الحفاظ عليها لاستخدامها في الوقت المناسب لأغراض التعدين أو التحجير وفقا لهذا القانون (النظام).",
+    "target_en": "The competent authority may issue a decision designating lands or maritime areas as mineral reserves, and may, for the purpose of preserving such lands and areas for future mining or quarrying, specify the activities not permitted therein in accordance with this Law.",
+    "source_ar_norm": "للسلطة المختصة ان تصدر قرارا بتحديد الاراضي والمناطق البحرية لتخصيصها او حجزها للاحتياطي التعديني، ولها ان تحدد الانشطة غير المسموح بها في هذه الاراضي او المناطق من اجل الحفاظ عليها لاستخدامها في الوقت المناسب لاغراض التعدين او التحجير وفقا لهذا القانون (النظام).",
+    "target_en_norm": "the competent authority may issue a decision designating lands or maritime areas as mineral reserves, and may, for the purpose of preserving such lands and areas for future mining or quarrying, specify the activities not permitted therein in accordance with this law.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1526,
+    "source_ar": "المادة (9) سجل الطلبات والرخص",
+    "target_en": "Article 9: Application and License Registries",
+    "source_ar_norm": "المادة (9) سجل الطلبات والرخص",
+    "target_en_norm": "article 9: application and license registries",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1527,
+    "source_ar": "تنشئ الجهة المختصة سجلًا يسمى (سجل الطلبات) تقيد فيه جميع الطلبات المقدمة للحصول على الرخص، وسجلًا آخر يسمى (سجل الرخص) تقيد فيه جميع الرخص الصادرة وفقًا لأحكام هذا القانون (النظام)، ويجب أن يحوي هذان السجلان التفاصيل والبيانات المحددة في اللائحة وأي تعديل قد يطرأ على تلك الرخص، ويسمح للمستثمرين وغيرهم من ذوي العلاقة بالاطلاع على هذين السجلين وفقًا للمادة (السابعة عشرة) من هذا القانون (النظام)، وبناءً على الشروط والضوابط التي تحددها اللائحة.",
+    "target_en": "The competent agency shall establish a registry called the “Application Registry” wherein all license applications are registered, and another registry called the “License Registry” wherein all licenses issued pursuant to this Law are registered. Both registries shall include the details and data prescribed by the Regulations and any amendments to the licenses. Investors and other concerned parties may have access to such registries in accordance with Article 17 of this Law, and pursuant to the terms and conditions prescribed by the Regulations.",
+    "source_ar_norm": "تنشئ الجهة المختصة سجلا يسمي (سجل الطلبات) تقيد فيه جميع الطلبات المقدمة للحصول علي الرخص، وسجلا اخر يسمي (سجل الرخص) تقيد فيه جميع الرخص الصادرة وفقا لاحكام هذا القانون (النظام)، ويجب ان يحوي هذان السجلان التفاصيل والبيانات المحددة في اللائحة واي تعديل قد يطرا علي تلك الرخص، ويسمح للمستثمرين وغيرهم من ذوي العلاقة بالاطلاع علي هذين السجلين وفقا للمادة (السابعة عشرة) من هذا القانون (النظام)، وبناء علي الشروط والضوابط التي تحددها اللائحة.",
+    "target_en_norm": "the competent agency shall establish a registry called the “application registry” wherein all license applications are registered, and another registry called the “license registry” wherein all licenses issued pursuant to this law are registered. both registries shall include the details and data prescribed by the regulations and any amendments to the licenses. investors and other concerned parties may have access to such registries in accordance with article 17 of this law, and pursuant to the terms and conditions prescribed by the regulations.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1528,
+    "source_ar": "الباب الثاني: الأحكام العامة للرخص",
+    "target_en": "Part 2: General Provisions for Licenses",
+    "source_ar_norm": "الباب الثاني: الاحكام العامة للرخص",
+    "target_en_norm": "part 2: general provisions for licenses",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1529,
+    "source_ar": "المادة (10) أنواع الرخص",
+    "target_en": "Article 10: Types of Licenses",
+    "source_ar_norm": "المادة (10) انواع الرخص",
+    "target_en_norm": "article 10: types of licenses",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1530,
+    "source_ar": "أنواع الرخص، وفقًا لأحكام هذا القانون (النظام) كما يلي:",
+    "target_en": "The types of licenses under this Law are:",
+    "source_ar_norm": "انواع الرخص، وفقا لاحكام هذا القانون (النظام) كما يلي:",
+    "target_en_norm": "the types of licenses under this law are:",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1531,
+    "source_ar": "رخصة استطلاع.",
+    "target_en": "reconnaissance license;",
+    "source_ar_norm": "رخصة استطلاع.",
+    "target_en_norm": "reconnaissance license;",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1532,
+    "source_ar": "رخصة كشف.",
+    "target_en": "exploration license;",
+    "source_ar_norm": "رخصة كشف.",
+    "target_en_norm": "exploration license;",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1533,
+    "source_ar": "رخصة جمع مواد.",
+    "target_en": "material collection license; and",
+    "source_ar_norm": "رخصة جمع مواد.",
+    "target_en_norm": "material collection license; and",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1534,
+    "source_ar": "رخصة استغلال، وتشمل ما يأتي:",
+    "target_en": "exploitation license, which includes:",
+    "source_ar_norm": "رخصة استغلال، وتشمل ما ياتي:",
+    "target_en_norm": "exploitation license, which includes:",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1535,
+    "source_ar": "أ - رخصة تعدين.",
+    "target_en": "mining license;",
+    "source_ar_norm": "ا - رخصة تعدين.",
+    "target_en_norm": "mining license;",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1536,
+    "source_ar": "ب - رخصة محجر مواد خام.",
+    "target_en": "raw materials quarry license;",
+    "source_ar_norm": "ب - رخصة محجر مواد خام.",
+    "target_en_norm": "raw materials quarry license;",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1537,
+    "source_ar": "ج - رخصة منجم صغير.",
+    "target_en": "small mine license;",
+    "source_ar_norm": "ج - رخصة منجم صغير.",
+    "target_en_norm": "small mine license;",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1538,
+    "source_ar": "د - رخصة تعدين معيشي.",
+    "target_en": "artisanal and small-scale mining license; and",
+    "source_ar_norm": "د - رخصة تعدين معيشي.",
+    "target_en_norm": "artisanal and small-scale mining license; and",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1539,
+    "source_ar": "هـ - رخصة محجر مواد بناء.",
+    "target_en": "building materials quarry license.",
+    "source_ar_norm": "ه - رخصة محجر مواد بناء.",
+    "target_en_norm": "building materials quarry license.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1540,
+    "source_ar": "ويجوز للشخص الطبيعي أو الاعتباري الحصول على أكثر من رخصة واحدة.",
+    "target_en": "A natural or legal person may obtain more than one license.",
+    "source_ar_norm": "ويجوز للشخص الطبيعي او الاعتباري الحصول علي اكثر من رخصة واحدة.",
+    "target_en_norm": "a natural or legal person may obtain more than one license.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1541,
+    "source_ar": "المادة (11) الشروط الواجب توافرها في طالب الرخصة",
+    "target_en": "Article 11: License Applicant Requirements",
+    "source_ar_norm": "المادة (11) الشروط الواجب توافرها في طالب الرخصة",
+    "target_en_norm": "article 11: license applicant requirements",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1542,
+    "source_ar": "مع مراعاة ما تقضي به القوانين (الأنظمة) ذات العلاقة، تُمنح الحقوق الواردة في هذا القانون (النظام) للشخص الطبيعي أو الاعتباري، سواء كانوا مواطنين أم غير مواطنين.",
+    "target_en": "Subject to the provisions of relevant laws, the rights provided for in this Law shall be granted to a natural or legal person, whether a GCC national or not.",
+    "source_ar_norm": "مع مراعاة ما تقضي به القوانين (الانظمة) ذات العلاقة، تمنح الحقوق الواردة في هذا القانون (النظام) للشخص الطبيعي او الاعتباري، سواء كانوا مواطنين ام غير مواطنين.",
+    "target_en_norm": "subject to the provisions of relevant laws, the rights provided for in this law shall be granted to a natural or legal person, whether a gcc national or not.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1543,
+    "source_ar": "ويجب أن يتوافر في طالبي رخص الكشف والاستغلال، الكفاية الفنية والقدرة المالية مما يمكنه من القيام بالتزاماته بشكل فعال، وفقًا للضوابط والشروط التي تحددها اللائحة.",
+    "target_en": "An exploration or exploitation license applicant must meet the technical and financial requirements to effectively carry out his obligations in accordance with the terms and conditions specified in the Regulations.",
+    "source_ar_norm": "ويجب ان يتوافر في طالبي رخص الكشف والاستغلال، الكفاية الفنية والقدرة المالية مما يمكنه من القيام بالتزاماته بشكل فعال، وفقا للضوابط والشروط التي تحددها اللائحة.",
+    "target_en_norm": "an exploration or exploitation license applicant must meet the technical and financial requirements to effectively carry out his obligations in accordance with the terms and conditions specified in the regulations.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1544,
+    "source_ar": "المادة (12) البت في الطلبات المتعارضة (المتعددة)",
+    "target_en": "Article 12: Consideration of Multiple Applications",
+    "source_ar_norm": "المادة (12) البت في الطلبات المتعارضة (المتعددة)",
+    "target_en_norm": "article 12: consideration of multiple applications",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1545,
+    "source_ar": "إذا تلقت الجهة المختصة عدة طلبات للحصول على رخصة الكشف أو أحد أنواع رخص الاستغلال على المنطقة ذاتها، فإنه تؤخذ بعين الاعتبار – عند البت في تلك الطلبات – الكفاية الفنية والمقدرة المالية لكل طالب رخصة، وطبيعة ونطاق العمليات التي يقترح القيام بها داخل المنطقة، والعائدات المالية للدولة، كما يؤخذ بعين الاعتبار وسائل التفضيل الأخرى التي تحددها اللائحة.",
+    "target_en": "If the competent agency receives multiple applications for an exploration license or any type of exploitation license for the same area, it shall take into consideration the technical and financial competency of each applicant, the nature and scope of the operations the applicant intends to carry out in the area, the projected revenues to the state, and any other criteria specified by the Regulations.",
+    "source_ar_norm": "اذا تلقت الجهة المختصة عدة طلبات للحصول علي رخصة الكشف او احد انواع رخص الاستغلال علي المنطقة ذاتها، فانه تؤخذ بعين الاعتبار – عند البت في تلك الطلبات – الكفاية الفنية والمقدرة المالية لكل طالب رخصة، وطبيعة ونطاق العمليات التي يقترح القيام بها داخل المنطقة، والعائدات المالية للدولة، كما يؤخذ بعين الاعتبار وسائل التفضيل الاخري التي تحددها اللائحة.",
+    "target_en_norm": "if the competent agency receives multiple applications for an exploration license or any type of exploitation license for the same area, it shall take into consideration the technical and financial competency of each applicant, the nature and scope of the operations the applicant intends to carry out in the area, the projected revenues to the state, and any other criteria specified by the regulations.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1546,
+    "source_ar": "وفي حالة تساوي الطلبات تكون الأولوية بحسب تاريخ تقديم الطلب المستوفى للشروط.",
+    "target_en": "If filed applications which meet the requirements are equal in their assessment, priority shall be given to the earlier filed application.",
+    "source_ar_norm": "وفي حالة تساوي الطلبات تكون الاولوية بحسب تاريخ تقديم الطلب المستوفي للشروط.",
+    "target_en_norm": "if filed applications which meet the requirements are equal in their assessment, priority shall be given to the earlier filed application.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1547,
+    "source_ar": "المادة (13) رفض الطلبات",
+    "target_en": "Article 13: Rejection of Applications",
+    "source_ar_norm": "المادة (13) رفض الطلبات",
+    "target_en_norm": "article 13: rejection of applications",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1548,
+    "source_ar": "يجوز قبول أو رفض طلب الحصول على أية رخصة من الرخص المنصوص عليها في هذا القانون (النظام) أو تجديدها أو تمديدها وفقًا للإجراءات التي تحددها الجهة المختصة.",
+    "target_en": "An application for obtaining, renewing, or extending a license stipulated under this Law may be accepted or rejected pursuant to the procedures set by the competent agency.",
+    "source_ar_norm": "يجوز قبول او رفض طلب الحصول علي اية رخصة من الرخص المنصوص عليها في هذا القانون (النظام) او تجديدها او تمديدها وفقا للاجراءات التي تحددها الجهة المختصة.",
+    "target_en_norm": "an application for obtaining, renewing, or extending a license stipulated under this law may be accepted or rejected pursuant to the procedures set by the competent agency.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1549,
+    "source_ar": "المادة (14) رهن الحقوق ونقل الالتزامات",
+    "target_en": "Article 14: Pledging of Rights and Transfer of Obligations",
+    "source_ar_norm": "المادة (14) رهن الحقوق ونقل الالتزامات",
+    "target_en_norm": "article 14: pledging of rights and transfer of obligations",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1550,
+    "source_ar": "لا يجوز لحامل أية رخصة من الرخص المنصوص عليها في هذا القانون (النظام) أن يرهن الحقوق التي تمنحها الرخصة له، أو أن ينقل إلى غيره الالتزامات التي تفرضها عليه الرخصة، إلا بعد الحصول على موافقة خطية من الجهة المختصة، وتبت الجهة المختصة في الطلب خلال (ثلاثين) يوم عمل من تاريخ استيفاء جميع المتطلبات اللازمة.",
+    "target_en": "The holder of any of the licenses stipulated in this Law may not pledge the rights granted by the license or transfer to a third party the obligations imposed by the license without obtaining a written approval from the competent agency. The competent agency shall decide the application within 30 business days from the date of fulfilling the requirements.",
+    "source_ar_norm": "لا يجوز لحامل اية رخصة من الرخص المنصوص عليها في هذا القانون (النظام) ان يرهن الحقوق التي تمنحها الرخصة له، او ان ينقل الي غيره الالتزامات التي تفرضها عليه الرخصة، الا بعد الحصول علي موافقة خطية من الجهة المختصة، وتبت الجهة المختصة في الطلب خلال (ثلاثين) يوم عمل من تاريخ استيفاء جميع المتطلبات اللازمة.",
+    "target_en_norm": "the holder of any of the licenses stipulated in this law may not pledge the rights granted by the license or transfer to a third party the obligations imposed by the license without obtaining a written approval from the competent agency. the competent agency shall decide the application within 30 business days from the date of fulfilling the requirements.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1551,
+    "source_ar": "المادة (15) تعديل شروط الرخص",
+    "target_en": "Article 15: Amendment of License Terms and Conditions",
+    "source_ar_norm": "المادة (15) تعديل شروط الرخص",
+    "target_en_norm": "article 15: amendment of license terms and conditions",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1552,
+    "source_ar": "لا يجوز تعديل شروط وأحكام أي رخصة أثناء فترة سريانها، ما لم تقتض المصلحة العامة خلال ذلك أو باتفاق السلطة المختصة والمرخص له، ويجوز تعديل أو تجديد أو تمديد أي رخصة بالشروط والأحكام التي يتم الاتفاق عليها مع المرخص له، وفقًا للضوابط المحددة في اللائحة.",
+    "target_en": "The terms and conditions of any license may not be amended during its validity, unless public interest dictates otherwise or an agreement is reached between the competent authority and the licensee. A license may be amended, renewed, or extended pursuant to the terms and conditions the licensee agrees to, in accordance with the rules specified in the Regulations.",
+    "source_ar_norm": "لا يجوز تعديل شروط واحكام اي رخصة اثناء فترة سريانها، ما لم تقتض المصلحة العامة خلال ذلك او باتفاق السلطة المختصة والمرخص له، ويجوز تعديل او تجديد او تمديد اي رخصة بالشروط والاحكام التي يتم الاتفاق عليها مع المرخص له، وفقا للضوابط المحددة في اللائحة.",
+    "target_en_norm": "the terms and conditions of any license may not be amended during its validity, unless public interest dictates otherwise or an agreement is reached between the competent authority and the licensee. a license may be amended, renewed, or extended pursuant to the terms and conditions the licensee agrees to, in accordance with the rules specified in the regulations.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1553,
+    "source_ar": "المادة (16) تحويل الرخص",
+    "target_en": "Article 16: Transfer of Licenses",
+    "source_ar_norm": "المادة (16) تحويل الرخص",
+    "target_en_norm": "article 16: transfer of licenses",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1554,
+    "source_ar": "يجوز تحويل أية رخصة كشف أو رخصة استغلال إلى مستثمر لديه الكفاية الفنية والقدرة المالية والخبرة الكافية للوفاء بالتزامات الرخصة، ومؤهل للحصول على مثل هذه الرخصة بموجب أحكام هذا القانون (النظام) خلال (ثلاثين) يوم عمل من تاريخ استيفاء جميع المتطلبات. ويتم التحويل بقرار من السلطة المختصة بعد تقديم طلب مكتوب على النماذج وبالكيفية المحددة في اللائحة وبعد دفع الرسوم المقررة.",
+    "target_en": "An exploration or exploitation license may be transferred to any investor who has the technical and financial competence and the experience necessary to fulfill the license obligations, and who is eligible to obtain such license under this Law within 30 business days from the date of fulfilling the requirements. The transfer shall be made pursuant to a decision by the competent authority upon filing a written request in the manner prescribed in the Regulations using the designated forms and upon payment of the prescribed fees.",
+    "source_ar_norm": "يجوز تحويل اية رخصة كشف او رخصة استغلال الي مستثمر لديه الكفاية الفنية والقدرة المالية والخبرة الكافية للوفاء بالتزامات الرخصة، ومؤهل للحصول علي مثل هذه الرخصة بموجب احكام هذا القانون (النظام) خلال (ثلاثين) يوم عمل من تاريخ استيفاء جميع المتطلبات. ويتم التحويل بقرار من السلطة المختصة بعد تقديم طلب مكتوب علي النماذج وبالكيفية المحددة في اللائحة وبعد دفع الرسوم المقررة.",
+    "target_en_norm": "an exploration or exploitation license may be transferred to any investor who has the technical and financial competence and the experience necessary to fulfill the license obligations, and who is eligible to obtain such license under this law within 30 business days from the date of fulfilling the requirements. the transfer shall be made pursuant to a decision by the competent authority upon filing a written request in the manner prescribed in the regulations using the designated forms and upon payment of the prescribed fees.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1555,
+    "source_ar": "ولا يجوز رفض الطلب إذا توافرت شروط التحويل المحددة بموجب أحكام هذا القانون (النظام).",
+    "target_en": "The transfer application may not be rejected if the transfer conditions provided for in this Law have been fulfilled.",
+    "source_ar_norm": "ولا يجوز رفض الطلب اذا توافرت شروط التحويل المحددة بموجب احكام هذا القانون (النظام).",
+    "target_en_norm": "the transfer application may not be rejected if the transfer conditions provided for in this law have been fulfilled.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1556,
+    "source_ar": "ويحق لطالب التحويل التظلم من قرار الرفض أمام السلطة المختصة خلال (ثلاثين) يومًا من تاريخ إخطاره ويتم البت في التظلم خلال (ثلاثين) يومًا من تاريخ تقديمه ويعتبر انقضاء هذه المدة دون البت فيه بمثابة رفضه، ولطالب التحويل بعد ذلك اللجوء للجهة القضائية المختصة بالنظر في هذه القضايا لدى الدولة خلال (ستين) يومًا من تاريخ إبلاغه برفض التظلم صراحة أو حكمًا.",
+    "target_en": "The rejection decision may be appealed before the competent authority within 30 days from the date of notification thereof, and said appeal shall be decided within 30 days from the date of filing. If said period lapses without a decision on the appeal, the application shall be deemed rejected. In such case, the applicant may resort to the state’s competent judicial authority within 60 days from the date of the rejection decision or the lapse of the 30-day period without a decision being made on the appeal.",
+    "source_ar_norm": "ويحق لطالب التحويل التظلم من قرار الرفض امام السلطة المختصة خلال (ثلاثين) يوما من تاريخ اخطاره ويتم البت في التظلم خلال (ثلاثين) يوما من تاريخ تقديمه ويعتبر انقضاء هذه المدة دون البت فيه بمثابة رفضه، ولطالب التحويل بعد ذلك اللجوء للجهة القضائية المختصة بالنظر في هذه القضايا لدي الدولة خلال (ستين) يوما من تاريخ ابلاغه برفض التظلم صراحة او حكما.",
+    "target_en_norm": "the rejection decision may be appealed before the competent authority within 30 days from the date of notification thereof, and said appeal shall be decided within 30 days from the date of filing. if said period lapses without a decision on the appeal, the application shall be deemed rejected. in such case, the applicant may resort to the state’s competent judicial authority within 60 days from the date of the rejection decision or the lapse of the 30-day period without a decision being made on the appeal.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1557,
+    "source_ar": "المادة (17) سرية المعلومات",
+    "target_en": "Article 17: Confidentiality of Information",
+    "source_ar_norm": "المادة (17) سرية المعلومات",
+    "target_en_norm": "article 17: confidentiality of information",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1558,
+    "source_ar": "تعد البيانات والمعلومات المقدمة من طالب الرخصة بموجب هذا القانون (النظام) سرية، ولا يجوز إفشاؤها قبل مضي (مائة وثمانين) يومًا من تاريخ رفض الطلب. وتعد جميع التقارير الجيولوجية المطلوبة من أي مرخص له بموجب هذا القانون (النظام) سرية إذا طلب المرخص له ذلك، ولا يجوز نشرها دون موافقته إلا بعد مضي (مائة وثمانين) يومًا من تاريخ إلغاء أو انتهاء الرخصة.",
+    "target_en": "The data and information provided by an applicant under this Law shall be deemed confidential, and may not be disclosed before the lapse of 180 days from the date the application is rejected. All geological reports required from any licensee under this Law shall be treated as confidential if the licensee so requests and may not be made public without his consent prior to the lapse of 180 days from the license cancellation or expiration date.",
+    "source_ar_norm": "تعد البيانات والمعلومات المقدمة من طالب الرخصة بموجب هذا القانون (النظام) سرية، ولا يجوز افشاؤها قبل مضي (مائة وثمانين) يوما من تاريخ رفض الطلب. وتعد جميع التقارير الجيولوجية المطلوبة من اي مرخص له بموجب هذا القانون (النظام) سرية اذا طلب المرخص له ذلك، ولا يجوز نشرها دون موافقته الا بعد مضي (مائة وثمانين) يوما من تاريخ الغاء او انتهاء الرخصة.",
+    "target_en_norm": "the data and information provided by an applicant under this law shall be deemed confidential, and may not be disclosed before the lapse of 180 days from the date the application is rejected. all geological reports required from any licensee under this law shall be treated as confidential if the licensee so requests and may not be made public without his consent prior to the lapse of 180 days from the license cancellation or expiration date.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1559,
+    "source_ar": "وفي جميع الأحوال يجوز للجهة المختصة الاستفادة من تلك التقارير في مزاولة نشاطها.",
+    "target_en": "In all cases, the competent agency may use such reports in its activities.",
+    "source_ar_norm": "وفي جميع الاحوال يجوز للجهة المختصة الاستفادة من تلك التقارير في مزاولة نشاطها.",
+    "target_en_norm": "in all cases, the competent agency may use such reports in its activities.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1560,
+    "source_ar": "المادة (18) الرقابة والتفتيش",
+    "target_en": "Article 18: Control and Inspection",
+    "source_ar_norm": "المادة (18) الرقابة والتفتيش",
+    "target_en_norm": "article 18: control and inspection",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1561,
+    "source_ar": "يحق لممثلي الجهة المختصة الذين يصدر بتحديدهم قرار، دخول المنطقة المشمولة بالرخصة بموجب هذا القانون (النظام) للتفتيش والمراقبة، بغية التأكد من تقيد المرخص له بشروط الرخصة.",
+    "target_en": "The competent agency’s representatives may, for the purpose of inspection and monitoring, have access to the area covered by the license to verify the licensee’s compliance with the terms and conditions of the license.",
+    "source_ar_norm": "يحق لممثلي الجهة المختصة الذين يصدر بتحديدهم قرار، دخول المنطقة المشمولة بالرخصة بموجب هذا القانون (النظام) للتفتيش والمراقبة، بغية التاكد من تقيد المرخص له بشروط الرخصة.",
+    "target_en_norm": "the competent agency’s representatives may, for the purpose of inspection and monitoring, have access to the area covered by the license to verify the licensee’s compliance with the terms and conditions of the license.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1562,
+    "source_ar": "المادة (19) إيقاف النشاط أو تعليقه",
+    "target_en": "Article 19: Cessation or Suspension of Activity",
+    "source_ar_norm": "المادة (19) ايقاف النشاط او تعليقه",
+    "target_en_norm": "article 19: cessation or suspension of activity",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1563,
+    "source_ar": "يجوز للسلطة المختصة أن تصدر القرارات التي تراها ضرورية لوقف أو تعليق أي عملية أو استخدام أي معدة أو ممارسة أي نشاط داخل أي منطقة مشمولة برخصة ممنوحة وفقًا لهذا القانون (النظام) في حالة وجود آثار سلبية على سلامة وصحة موظفي المرخص له أو الأشخاص الآخرين أو تسبب أضرارًا للبيئة أو للممتلكات أو إزعاجًا غير عادي أو إتلافًا جوهريًا لأي منطقة أو أي أضرار أخرى، على أن تقوم الجهة المختصة بإنهاء الوقف أو التعليق حال زوال أسبابه، وتحدد اللائحة الشروط والضوابط لذلك.",
+    "target_en": "The competent authority may issue a decision to cease or suspend any operation or activity, or the use of any equipment within an area covered by any license granted under this Law if such operation, activity, or equipment is detrimental to the safety and health of the licensee’s employees or other persons, harms the environment or properties, causes a nuisance, causes substantial damage to any area, or any other damage, provided the competent agency terminates the cessation or suspension if the grounds therefor no longer exist. The Regulations shall determine the relevant terms and conditions.",
+    "source_ar_norm": "يجوز للسلطة المختصة ان تصدر القرارات التي تراها ضرورية لوقف او تعليق اي عملية او استخدام اي معدة او ممارسة اي نشاط داخل اي منطقة مشمولة برخصة ممنوحة وفقا لهذا القانون (النظام) في حالة وجود اثار سلبية علي سلامة وصحة موظفي المرخص له او الاشخاص الاخرين او تسبب اضرارا للبيئة او للممتلكات او ازعاجا غير عادي او اتلافا جوهريا لاي منطقة او اي اضرار اخري، علي ان تقوم الجهة المختصة بانهاء الوقف او التعليق حال زوال اسبابه، وتحدد اللائحة الشروط والضوابط لذلك.",
+    "target_en_norm": "the competent authority may issue a decision to cease or suspend any operation or activity, or the use of any equipment within an area covered by any license granted under this law if such operation, activity, or equipment is detrimental to the safety and health of the licensee’s employees or other persons, harms the environment or properties, causes a nuisance, causes substantial damage to any area, or any other damage, provided the competent agency terminates the cessation or suspension if the grounds therefor no longer exist. the regulations shall determine the relevant terms and conditions.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1564,
+    "source_ar": "المادة (20) أسباب إلغاء الرخص",
+    "target_en": "Article 20: Grounds for Cancellation of License",
+    "source_ar_norm": "المادة (20) اسباب الغاء الرخص",
+    "target_en_norm": "article 20: grounds for cancellation of license",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1565,
+    "source_ar": "مع عدم الإخلال بالأحكام الاخرى الواردة في هذ القانون (النظام)، لا يجوز إلغاء الرخصة الممنوحة وفقًا لهذا القانون (النظام)، إلا بسبب من الأسباب التي تحددها اللائحة.",
+    "target_en": "Without prejudice to any other provision stipulated in this Law, licenses granted pursuant to this Law may not be canceled except on grounds specified in the Regulations.",
+    "source_ar_norm": "مع عدم الاخلال بالاحكام الاخري الواردة في هذ القانون (النظام)، لا يجوز الغاء الرخصة الممنوحة وفقا لهذا القانون (النظام)، الا بسبب من الاسباب التي تحددها اللائحة.",
+    "target_en_norm": "without prejudice to any other provision stipulated in this law, licenses granted pursuant to this law may not be canceled except on grounds specified in the regulations.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1566,
+    "source_ar": "المادة (21) إجراءات الإلغاء",
+    "target_en": "Article 21: Cancellation Procedures",
+    "source_ar_norm": "المادة (21) اجراءات الالغاء",
+    "target_en_norm": "article 21: cancellation procedures",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1567,
+    "source_ar": "مع مراعاة أحكام المادة (20) والأحكام الأخرى الواردة في هذا القانون (النظام) والقوانين (الأنظمة) الأخرى ذات العلاقة، يتم إلغاء الرخص الممنوحة وفقًا لهذا القانون (النظام)، بعد اتخاذ الإجراءات المحددة في اللائحة.",
+    "target_en": "Subject to Article 20 and other provisions of this Law and relevant laws, cancellation of licenses granted under this Law shall be made in accordance with the procedures specified in the Regulations.",
+    "source_ar_norm": "مع مراعاة احكام المادة (20) والاحكام الاخري الواردة في هذا القانون (النظام) والقوانين (الانظمة) الاخري ذات العلاقة، يتم الغاء الرخص الممنوحة وفقا لهذا القانون (النظام)، بعد اتخاذ الاجراءات المحددة في اللائحة.",
+    "target_en_norm": "subject to article 20 and other provisions of this law and relevant laws, cancellation of licenses granted under this law shall be made in accordance with the procedures specified in the regulations.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1568,
+    "source_ar": "المادة (22) الموجودات وقت الإلغاء",
+    "target_en": "Article 22: Assets at the Time of Cancellation",
+    "source_ar_norm": "المادة (22) الموجودات وقت الالغاء",
+    "target_en_norm": "article 22: assets at the time of cancellation",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1569,
+    "source_ar": "مع عدم الإخلال بأي حكم من أحكام هذا القانون (النظام) أو القوانين(الأنظمة) ذات العلاقة، يجب على المرخص له خلال (مائة وثمانين يومًا) من تاريخ إنهاء أو انتهاء فترة الرخص لأي سبب كان إعادة تأهيل الموقع وذلك باستثناء ما ترى الجهة المختصة إبقاءه وعدم إزالته لمقتضى المصلحة العامة، وفي حالة عدم التزام المرخص له تقوم الجهة المختصة باتخاذ الإجراءات اللازمة للإزالة على نفقة المرخص له، وتحدد اللائحة الشروط والضوابط لذلك.",
+    "target_en": "Without prejudice to any of the provisions of this Law or any relevant laws, the licensee shall, within 180 days from the date of expiration or termination of his license for any reason, reclaim the site, except for what the competent agency decides to leave in place for the public interest. If the licensee fails to do so, the competent agency shall take the necessary measures to rectify the violation at his expense. The Regulations shall determine the relevant terms and conditions.",
+    "source_ar_norm": "مع عدم الاخلال باي حكم من احكام هذا القانون (النظام) او القوانين(الانظمة) ذات العلاقة، يجب علي المرخص له خلال (مائة وثمانين يوما) من تاريخ انهاء او انتهاء فترة الرخص لاي سبب كان اعادة تاهيل الموقع وذلك باستثناء ما تري الجهة المختصة ابقاءه وعدم ازالته لمقتضي المصلحة العامة، وفي حالة عدم التزام المرخص له تقوم الجهة المختصة باتخاذ الاجراءات اللازمة للازالة علي نفقة المرخص له، وتحدد اللائحة الشروط والضوابط لذلك.",
+    "target_en_norm": "without prejudice to any of the provisions of this law or any relevant laws, the licensee shall, within 180 days from the date of expiration or termination of his license for any reason, reclaim the site, except for what the competent agency decides to leave in place for the public interest. if the licensee fails to do so, the competent agency shall take the necessary measures to rectify the violation at his expense. the regulations shall determine the relevant terms and conditions.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1570,
+    "source_ar": "المادة (23) حماية حقوق الغير",
+    "target_en": "Article 23: Protection of Third Party Rights",
+    "source_ar_norm": "المادة (23) حماية حقوق الغير",
+    "target_en_norm": "article 23: protection of third party rights",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1571,
+    "source_ar": "بما لا يتعارض مع ما تنص عليه الدساتير والأنظمة الأساسية والقوانين لدول مجلس التعاون بشأن الملكية الخاصة ونزعها للمنفعة العامة، يتم تطبيق النص التالي: \"إذا كانت الأراضي المشمولة برخصة من الرخص الواردة في هذا القانون (النظام) مملوكة ملكية خاصة ثابتة بسند شرعي أو قانوني، أو كان لأحد الأشخاص حق انتفاع فيها ثابت شرعًا أو قانونا، فأن على المرخص له أن يقدم إلى مالك الأرض أو المنتفع، الرخصة - متى ما طلب منه ذلك - التي تخول له ممارسة حقوق عليها بموجب هذا القانون (النظام)، وإلا عد متعديا.",
+    "target_en": "In accordance with the provisions stipulated in the constitutions, basic laws, and regulations of the GCC states with regard to private property and the expropriation thereof for public use, the following provision shall be applied: “If a land covered by any of the licenses provided in this Law is privately owned pursuant to a title deed or its usufruct is legally established to another person, the holder of a license over such land shall, upon request, present to the owner or usufructuary of the land the license entitling him to exercise rights thereupon under this Law; otherwise, he shall be deemed in violation of this Law.",
+    "source_ar_norm": "بما لا يتعارض مع ما تنص عليه الدساتير والانظمة الاساسية والقوانين لدول مجلس التعاون بشان الملكية الخاصة ونزعها للمنفعة العامة، يتم تطبيق النص التالي: \"اذا كانت الاراضي المشمولة برخصة من الرخص الواردة في هذا القانون (النظام) مملوكة ملكية خاصة ثابتة بسند شرعي او قانوني، او كان لاحد الاشخاص حق انتفاع فيها ثابت شرعا او قانونا، فان علي المرخص له ان يقدم الي مالك الارض او المنتفع، الرخصة - متي ما طلب منه ذلك - التي تخول له ممارسة حقوق عليها بموجب هذا القانون (النظام)، والا عد متعديا.",
+    "target_en_norm": "in accordance with the provisions stipulated in the constitutions, basic laws, and regulations of the gcc states with regard to private property and the expropriation thereof for public use, the following provision shall be applied: “if a land covered by any of the licenses provided in this law is privately owned pursuant to a title deed or its usufruct is legally established to another person, the holder of a license over such land shall, upon request, present to the owner or usufructuary of the land the license entitling him to exercise rights thereupon under this law; otherwise, he shall be deemed in violation of this law.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1572,
+    "source_ar": "ويجب على المرخص له قبل أن يبدأ ممارسة الحقوق محل الرخصة الممنوحة له أيا كان نوعها أن يتفق مع مالك الأرض أو المنتفع على تعويض عادل عما كان سيعود به استعمال الأرض من نفع، وعن الأضرار التي قد تلحق بالأرض نتيجة العمليات المرخص بها، وأن يقدم ذلك الاتفاق للجهة المختصة قبل بدء عملياته على هذه الأرض\".",
+    "target_en": "The licensee shall, prior to exercising his rights under the license, irrespective of its type, reach an agreement with the owner or usufructuary of the land on a fair compensation for use of such land and for any damage the land may sustain as a result of the licensed operations, and shall submit such agreement to the competent agency prior to commencing his operations on the land”.",
+    "source_ar_norm": "ويجب علي المرخص له قبل ان يبدا ممارسة الحقوق محل الرخصة الممنوحة له ايا كان نوعها ان يتفق مع مالك الارض او المنتفع علي تعويض عادل عما كان سيعود به استعمال الارض من نفع، وعن الاضرار التي قد تلحق بالارض نتيجة العمليات المرخص بها، وان يقدم ذلك الاتفاق للجهة المختصة قبل بدء عملياته علي هذه الارض\".",
+    "target_en_norm": "the licensee shall, prior to exercising his rights under the license, irrespective of its type, reach an agreement with the owner or usufructuary of the land on a fair compensation for use of such land and for any damage the land may sustain as a result of the licensed operations, and shall submit such agreement to the competent agency prior to commencing his operations on the land”.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1573,
+    "source_ar": "المادة (24) إدارة الأعمال",
+    "target_en": "Article 24: Management of Operations",
+    "source_ar_norm": "المادة (24) ادارة الاعمال",
+    "target_en_norm": "article 24: management of operations",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1574,
+    "source_ar": "تكون العمليات التي يجري تنفيذها بمقتضى الرخص الممنوحة بموجب هذا القانون (النظام) تحت مسؤولية المرخص له وإشرافه وإدارته.",
+    "target_en": "Operations carried out pursuant to the licenses granted under this Law shall fall within the licensee’s responsibility and be under his management and supervision.",
+    "source_ar_norm": "تكون العمليات التي يجري تنفيذها بمقتضي الرخص الممنوحة بموجب هذا القانون (النظام) تحت مسؤولية المرخص له واشرافه وادارته.",
+    "target_en_norm": "operations carried out pursuant to the licenses granted under this law shall fall within the licensee’s responsibility and be under his management and supervision.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1575,
+    "source_ar": "المادة (25) المسح الجوي",
+    "target_en": "Article 25: Aerial Survey",
+    "source_ar_norm": "المادة (25) المسح الجوي",
+    "target_en_norm": "article 25: aerial survey",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1576,
+    "source_ar": "مع مراعاة ما تقتضي به القوانين (الأنظمة) ذات العلاقة، إذا رغب حامل الرخصة في القيام بمسح جوي، فعليه أن يحصل على إذن كتابي من الجهة المختصة للقيام بهذا النشاط.",
+    "target_en": "Subject to the provisions of relevant laws, the licensee must obtain the competent agency’s written approval prior to conducting an aerial survey.",
+    "source_ar_norm": "مع مراعاة ما تقتضي به القوانين (الانظمة) ذات العلاقة، اذا رغب حامل الرخصة في القيام بمسح جوي، فعليه ان يحصل علي اذن كتابي من الجهة المختصة للقيام بهذا النشاط.",
+    "target_en_norm": "subject to the provisions of relevant laws, the licensee must obtain the competent agency’s written approval prior to conducting an aerial survey.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1577,
+    "source_ar": "المادة (26) التقيد بقوانين (بأنظمة) الدولة",
+    "target_en": "Article 26: Compliance with State Laws",
+    "source_ar_norm": "المادة (26) التقيد بقوانين (بانظمة) الدولة",
+    "target_en_norm": "article 26: compliance with state laws",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1578,
+    "source_ar": "مع مراعاة أحكام هذا القانون (النظام) ولائحته التنفيذية، على المرخص له أن يتقيد بالقوانين (بالأنظمة) المعمول بها في الدولة.",
+    "target_en": "Subject to the provisions of this Law and its Implementing Regulations, the licensee shall comply with the state’s applicable laws.",
+    "source_ar_norm": "مع مراعاة احكام هذا القانون (النظام) ولائحته التنفيذية، علي المرخص له ان يتقيد بالقوانين (بالانظمة) المعمول بها في الدولة.",
+    "target_en_norm": "subject to the provisions of this law and its implementing regulations, the licensee shall comply with the state’s applicable laws.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1579,
+    "source_ar": "المادة (27) الدراسات اللازمة لإصدار الرخص",
+    "target_en": "Article 27: Studies Required for Issuance of Licenses",
+    "source_ar_norm": "المادة (27) الدراسات اللازمة لاصدار الرخص",
+    "target_en_norm": "article 27: studies required for issuance of licenses",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1580,
+    "source_ar": "يحق للجهة المختصة طلب تقديم أي من الدراسات اللازمة التي تراها ضرورية عند إصدار أي من الرخص المنصوص عليها في المادة (العاشرة) من هذا القانون (النظام).",
+    "target_en": "The competent agency may request the licensee to submit any study it deems necessary prior to the issuance of any of the licenses stipulated under Article 10 of this Law.",
+    "source_ar_norm": "يحق للجهة المختصة طلب تقديم اي من الدراسات اللازمة التي تراها ضرورية عند اصدار اي من الرخص المنصوص عليها في المادة (العاشرة) من هذا القانون (النظام).",
+    "target_en_norm": "the competent agency may request the licensee to submit any study it deems necessary prior to the issuance of any of the licenses stipulated under article 10 of this law.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1581,
+    "source_ar": "المادة (28) القوة القاهرة",
+    "target_en": "Article 28: Force Majeure",
+    "source_ar_norm": "المادة (28) القوة القاهرة",
+    "target_en_norm": "article 28: force majeure",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1582,
+    "source_ar": "إذا منعت قوة قاهرة أو عاقت أو أخرت قيام المرخص له بأي من التزاماته في الوقت المحدد، فإن التعطيل أو التأخير الناتج عن ذلك لا يعد إهمالًا أو تقصيرًا في العمل أو الأداء، ويجب أن تمدد الفترة التي كانت محددة للعمل الذي توقف أو تعطل لمدة لا تقل عن فترة القوة القاهرة، بعد موافقة السلطة المختصة على ذلك كتابة.",
+    "target_en": "If a force majeure event prevents, hinders, or delays the licensee’s performance of his obligations within the specified time, such failure or delay shall not be deemed an act of negligence or default. The prescribed period to perform such obligations shall, upon the competent authority’s written approval, be extended for a period not less than the duration of the force majeure event.",
+    "source_ar_norm": "اذا منعت قوة قاهرة او عاقت او اخرت قيام المرخص له باي من التزاماته في الوقت المحدد، فان التعطيل او التاخير الناتج عن ذلك لا يعد اهمالا او تقصيرا في العمل او الاداء، ويجب ان تمدد الفترة التي كانت محددة للعمل الذي توقف او تعطل لمدة لا تقل عن فترة القوة القاهرة، بعد موافقة السلطة المختصة علي ذلك كتابة.",
+    "target_en_norm": "if a force majeure event prevents, hinders, or delays the licensee’s performance of his obligations within the specified time, such failure or delay shall not be deemed an act of negligence or default. the prescribed period to perform such obligations shall, upon the competent authority’s written approval, be extended for a period not less than the duration of the force majeure event.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1583,
+    "source_ar": "ويقصد بالقوة القاهرة في أحكام هذه المادة الأحداث المتعارف عليها أصوليًا كقوة قاهرة ناجمة عن ظروف غير متوقعة وقت إصدار الرخصة، والتي لا ترجع إلى أي من الطرفين وتجعل تنفيذ المرخص له لالتزاماته المحددة بالرخصة مستحيلًا.",
+    "target_en": "In this Article, force majeure shall mean events which arise from unexpected circumstances at the time of the issuance of the license and which are legally recognized as such; such events are not attributed to either party and they render the licensee's performance of his obligations under the license impossible.",
+    "source_ar_norm": "ويقصد بالقوة القاهرة في احكام هذه المادة الاحداث المتعارف عليها اصوليا كقوة قاهرة ناجمة عن ظروف غير متوقعة وقت اصدار الرخصة، والتي لا ترجع الي اي من الطرفين وتجعل تنفيذ المرخص له لالتزاماته المحددة بالرخصة مستحيلا.",
+    "target_en_norm": "in this article, force majeure shall mean events which arise from unexpected circumstances at the time of the issuance of the license and which are legally recognized as such; such events are not attributed to either party and they render the licensee's performance of his obligations under the license impossible.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1584,
+    "source_ar": "المادة (29) التخلي الاختياري الجزئي أو الكامل عن الرخصة",
+    "target_en": "Article 29: Full or Partial Voluntary Relinquishment of License",
+    "source_ar_norm": "المادة (29) التخلي الاختياري الجزئي او الكامل عن الرخصة",
+    "target_en_norm": "article 29: full or partial voluntary relinquishment of license",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1585,
+    "source_ar": "يجوز للمرخص له أن يتخلى عن رخصته كلها أو جزء منها، وفقًا للضوابط والشروط المحددة في اللائحة.",
+    "target_en": "A licensee may relinquish his license in whole or in part in accordance with the terms and conditions specified in the Regulations.",
+    "source_ar_norm": "يجوز للمرخص له ان يتخلي عن رخصته كلها او جزء منها، وفقا للضوابط والشروط المحددة في اللائحة.",
+    "target_en_norm": "a licensee may relinquish his license in whole or in part in accordance with the terms and conditions specified in the regulations.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1586,
+    "source_ar": "المادة (30) حقوق الارتفاق",
+    "target_en": "Article 30: Easement Rights",
+    "source_ar_norm": "المادة (30) حقوق الارتفاق",
+    "target_en_norm": "article 30: easement rights",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1587,
+    "source_ar": "تكون للمرخص له جميع حقوق الارتفاق اللازمة لتمكينه من تنفيذ عملياته على أي أرض تملكها الدولة خارج المنطقة المشمولة بالرخصة، وذلك بمقتضى تصريح من الجهة المختصة بعد الاتفاق مع الجهات الحكومية المختصة، بشرط ألا تكون متعارضة مع حقوق أخرى لغيره على الأرض المعنية. وإذا وقعت أي من حقوق الارتفاق المطلوبة على أرض مملوكة ملكية خاصة أو على منطقة مشمولة برخصة أخرى، فعلى المرخص له أن يتفق مع المالك أو المنتفع من هذه الأرض أو المرخص له الآخر للحصول على تلك الحقوق بالطريقة المحددة نظامًا لاكتساب تلك الحقوق، وتشمل حقوق الارتفاق لأغراض هذه المادة دون حصر، حق استخدام الطرق بأنواعها وخطوط الاتصالات المختلفة والمياه السطحية والجوفية الضرورية لتنفيذ عمليات المرخص له، على ألا يخل ذلك بالأولويات المنصوص عليها في قوانين (أنظمة) وتعليمات المحافظة على المياه.",
+    "target_en": "The licensee shall, subject to a permit issued by the competent agency upon the approval of the relevant government agencies, have the easement rights necessary for carrying out operations under the license on any state-owned land outside the license site, provided such rights are not in conflict with the rights of other parties over such land. If any of the required easement rights fall on a privately-owned land or on an area covered by another license, the licensee must reach an agreement with the owner or usufructuary of the land, or the other licensee to acquire such rights in the manner prescribed by law. Easement rights shall, for purposes of this Article, include, but not be limited to, the use of all types of roads and telecommunication lines, as well as surface and groundwater necessary for the licensee’s operations, without prejudice to water conservation laws and instructions.",
+    "source_ar_norm": "تكون للمرخص له جميع حقوق الارتفاق اللازمة لتمكينه من تنفيذ عملياته علي اي ارض تملكها الدولة خارج المنطقة المشمولة بالرخصة، وذلك بمقتضي تصريح من الجهة المختصة بعد الاتفاق مع الجهات الحكومية المختصة، بشرط الا تكون متعارضة مع حقوق اخري لغيره علي الارض المعنية. واذا وقعت اي من حقوق الارتفاق المطلوبة علي ارض مملوكة ملكية خاصة او علي منطقة مشمولة برخصة اخري، فعلي المرخص له ان يتفق مع المالك او المنتفع من هذه الارض او المرخص له الاخر للحصول علي تلك الحقوق بالطريقة المحددة نظاما لاكتساب تلك الحقوق، وتشمل حقوق الارتفاق لاغراض هذه المادة دون حصر، حق استخدام الطرق بانواعها وخطوط الاتصالات المختلفة والمياه السطحية والجوفية الضرورية لتنفيذ عمليات المرخص له، علي الا يخل ذلك بالاولويات المنصوص عليها في قوانين (انظمة) وتعليمات المحافظة علي المياه.",
+    "target_en_norm": "the licensee shall, subject to a permit issued by the competent agency upon the approval of the relevant government agencies, have the easement rights necessary for carrying out operations under the license on any state-owned land outside the license site, provided such rights are not in conflict with the rights of other parties over such land. if any of the required easement rights fall on a privately-owned land or on an area covered by another license, the licensee must reach an agreement with the owner or usufructuary of the land, or the other licensee to acquire such rights in the manner prescribed by law. easement rights shall, for purposes of this article, include, but not be limited to, the use of all types of roads and telecommunication lines, as well as surface and groundwater necessary for the licensee’s operations, without prejudice to water conservation laws and instructions.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1588,
+    "source_ar": "الباب الثالث: الأحكام الخاصة برخص الاستطلاع والكشف: الفصل الأول: رخصة الاستطلاع",
+    "target_en": "Part 3: Provisions relating to Reconnaissance and Exploration Licenses Chapter 1: Reconnaissance License",
+    "source_ar_norm": "الباب الثالث: الاحكام الخاصة برخص الاستطلاع والكشف: الفصل الاول: رخصة الاستطلاع",
+    "target_en_norm": "part 3: provisions relating to reconnaissance and exploration licenses chapter 1: reconnaissance license",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1589,
+    "source_ar": "المادة (31) إصدار رخصة الاستطلاع",
+    "target_en": "Article 31: Issuance of Reconnaissance License",
+    "source_ar_norm": "المادة (31) اصدار رخصة الاستطلاع",
+    "target_en_norm": "article 31: issuance of reconnaissance license",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1590,
+    "source_ar": "تصدر الجهة المختصة رخصة استطلاع خلال (خمسة عشر) يوم عمل من تاريخ استيفاء جميع المتطلبات على أي منطقة مشمولة بالاستثمار يحددها طالب الرخصة لمدة (سنتين)، ويجوز تمديدها أو تجديدها لفترة إضافية واحدة مدتها سنتان، وتحدد اللائحة شروط الرخصة.",
+    "target_en": "The competent agency shall, within 15 business days from the date of fulfillment of all the requirements, issue a reconnaissance license for a period of two years for an area designated by the applicant; said license may be extended or renewed once for an additional period of two years. The Regulations shall determine the terms of the license.",
+    "source_ar_norm": "تصدر الجهة المختصة رخصة استطلاع خلال (خمسة عشر) يوم عمل من تاريخ استيفاء جميع المتطلبات علي اي منطقة مشمولة بالاستثمار يحددها طالب الرخصة لمدة (سنتين)، ويجوز تمديدها او تجديدها لفترة اضافية واحدة مدتها سنتان، وتحدد اللائحة شروط الرخصة.",
+    "target_en_norm": "the competent agency shall, within 15 business days from the date of fulfillment of all the requirements, issue a reconnaissance license for a period of two years for an area designated by the applicant; said license may be extended or renewed once for an additional period of two years. the regulations shall determine the terms of the license.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1591,
+    "source_ar": "المادة (32) الحقوق التي تخولها رخصة الاستطلاع",
+    "target_en": "Article 32: Rights Conferred by a Reconnaissance License",
+    "source_ar_norm": "المادة (32) الحقوق التي تخولها رخصة الاستطلاع",
+    "target_en_norm": "article 32: rights conferred by a reconnaissance license",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1592,
+    "source_ar": "تخول رخصة الاستطلاع المرخص له مسح واستطلاع المنطقة الموضحة في الرخصة خلال الفترة الزمنية المحددة، ويكون للمرخص له حق غير منفرد فيما يأتي:",
+    "target_en": "A reconnaissance license shall entitle the licensee to survey and examine the area indicated in the license for the designated period of time. The licensee shall have a non-exclusive right to:",
+    "source_ar_norm": "تخول رخصة الاستطلاع المرخص له مسح واستطلاع المنطقة الموضحة في الرخصة خلال الفترة الزمنية المحددة، ويكون للمرخص له حق غير منفرد فيما ياتي:",
+    "target_en_norm": "a reconnaissance license shall entitle the licensee to survey and examine the area indicated in the license for the designated period of time. the licensee shall have a non-exclusive right to:",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1593,
+    "source_ar": "فحص المنطقة التي تغطيها الرخصة لجميع المعادن غير المستثناة بموجب هذا القانون (النظام).",
+    "target_en": "prospect the area covered by the license for all minerals not excluded under this Law;",
+    "source_ar_norm": "فحص المنطقة التي تغطيها الرخصة لجميع المعادن غير المستثناة بموجب هذا القانون (النظام).",
+    "target_en_norm": "prospect the area covered by the license for all minerals not excluded under this law;",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1594,
+    "source_ar": "فحص الخامات وأخذ العينات حسبما هو موضح في اللائحة.",
+    "target_en": "examine ores and collect samples, as specified in the Regulations;",
+    "source_ar_norm": "فحص الخامات واخذ العينات حسبما هو موضح في اللائحة.",
+    "target_en_norm": "examine ores and collect samples, as specified in the regulations;",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1595,
+    "source_ar": "استعمال الوسائل الجيوفيزيائية أو الجيوكيميائية وغير ذلك من الوسائل العلمية.",
+    "target_en": "use geophysical or geochemical methods and other scientific methods;",
+    "source_ar_norm": "استعمال الوسائل الجيوفيزيائية او الجيوكيميائية وغير ذلك من الوسائل العلمية.",
+    "target_en_norm": "use geophysical or geochemical methods and other scientific methods;",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1596,
+    "source_ar": "القيام بأي عمل آخر مما يعد عادة من قبيل الفحص المبدئي للأراضي التي يحتمل وجود معادن فيها.",
+    "target_en": "carry out any other activity normally carried out in the preliminary examination of lands with potential minerals; and",
+    "source_ar_norm": "القيام باي عمل اخر مما يعد عادة من قبيل الفحص المبدئي للاراضي التي يحتمل وجود معادن فيها.",
+    "target_en_norm": "carry out any other activity normally carried out in the preliminary examination of lands with potential minerals; and",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1597,
+    "source_ar": "الاطلاع على الخرائط والبيانات غير السرية المتوفرة لدى الجهة المختصة بعد دفع المقابل المالي لهذه الخدمات وفقًا لما تحدده اللائحة. ولا تمنح هذه الرخصة الحق للمرخص له في الحفر بأنواعه ولا في بناء منشآت ثابتة، ولا في إنتاج المعادن من أجل استعمالها أو بيعها، كما أنها لا تمنحه أي أفضلية أو أي حق في استصدار رخصة كشف أو أي رخصة من شأنها أن تخوله استغلال المعادن، كما أن وجود رخصة استطلاع في منطقة معينة لا يمنع الجهة المختصة من منح رخصة أخرى على المنطقة نفسها أو على أي جزء منها، سواء للمرخص له أم لغيره.",
+    "target_en": "have access to non-confidential maps and data maintained by the competent agency upon payment of the prescribed fees, as specified in the Regulations. This license shall not entitle the licensee to carry out any type of digging, construct any permanent installations, or produce minerals for use or sale, nor shall it confer upon him priority or any other right to obtain an exploration license or any other license for exploiting minerals. The competent agency may grant a holder of a reconnaissance license over a specific area or a third party any other license over the same area or a part thereof.",
+    "source_ar_norm": "الاطلاع علي الخرائط والبيانات غير السرية المتوفرة لدي الجهة المختصة بعد دفع المقابل المالي لهذه الخدمات وفقا لما تحدده اللائحة. ولا تمنح هذه الرخصة الحق للمرخص له في الحفر بانواعه ولا في بناء منشات ثابتة، ولا في انتاج المعادن من اجل استعمالها او بيعها، كما انها لا تمنحه اي افضلية او اي حق في استصدار رخصة كشف او اي رخصة من شانها ان تخوله استغلال المعادن، كما ان وجود رخصة استطلاع في منطقة معينة لا يمنع الجهة المختصة من منح رخصة اخري علي المنطقة نفسها او علي اي جزء منها، سواء للمرخص له ام لغيره.",
+    "target_en_norm": "have access to non-confidential maps and data maintained by the competent agency upon payment of the prescribed fees, as specified in the regulations. this license shall not entitle the licensee to carry out any type of digging, construct any permanent installations, or produce minerals for use or sale, nor shall it confer upon him priority or any other right to obtain an exploration license or any other license for exploiting minerals. the competent agency may grant a holder of a reconnaissance license over a specific area or a third party any other license over the same area or a part thereof.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1598,
+    "source_ar": "ويترتب على منح رخصة تخول حاملها حقًا انفراديًا استبعاد المناطق المشمولة بالرخصة اللاحقة من نطاق رخصة الاستطلاع دون أي مسؤولية على الدولة.",
+    "target_en": "A license granting exclusive rights over certain areas shall exclude such areas from any reconnaissance license without liability to the state.",
+    "source_ar_norm": "ويترتب علي منح رخصة تخول حاملها حقا انفراديا استبعاد المناطق المشمولة بالرخصة اللاحقة من نطاق رخصة الاستطلاع دون اي مسؤولية علي الدولة.",
+    "target_en_norm": "a license granting exclusive rights over certain areas shall exclude such areas from any reconnaissance license without liability to the state.",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1599,
+    "source_ar": "المادة (33) التزامات حامل رخصة الاستطلاع",
+    "target_en": "Article 33: Obligations of Holders of Reconnaissance License",
+    "source_ar_norm": "المادة (33) التزامات حامل رخصة الاستطلاع",
+    "target_en_norm": "article 33: obligations of holders of reconnaissance license",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  },
+  {
+    "id": 1600,
+    "source_ar": "يلتزم المرخص له بما يأتي:",
+    "target_en": "The holder of a reconnaissance license shall:",
+    "source_ar_norm": "يلتزم المرخص له بما ياتي:",
+    "target_en_norm": "the holder of a reconnaissance license shall:",
+    "file_name": "القانون (النظام) الموحد للتعدين لدول مجلس التعاون.docx"
+  }
+]

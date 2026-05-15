@@ -1,0 +1,802 @@
+[
+  {
+    "id": 4801,
+    "source_ar": "المادة الأولى",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي",
+    "target_en_norm": "article 1",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4802,
+    "source_ar": "يكون للألفاظ والمصطلحات الواردة في هذه اللائحة المعاني المبينة في المادة (الأولى) من نظام التكاليف القضائية.",
+    "target_en": "The words and phrases used herein shall have the meanings assigned thereto in Article 1 of the Law of Judicial Fees.",
+    "source_ar_norm": "يكون للالفاظ والمصطلحات الواردة في هذه اللائحة المعاني المبينة في المادة (الاولي) من نظام التكاليف القضائية.",
+    "target_en_norm": "the words and phrases used herein shall have the meanings assigned thereto in article 1 of the law of judicial fees.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4803,
+    "source_ar": "الفصل الأول: تقدير التكاليف القضائية",
+    "target_en": "Chapter 1: Assessment of Judicial Fees",
+    "source_ar_norm": "الفصل الاول: تقدير التكاليف القضائية",
+    "target_en_norm": "chapter 1: assessment of judicial fees",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4804,
+    "source_ar": "المادة الثانية",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية",
+    "target_en_norm": "article 2",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4805,
+    "source_ar": "مع مراعاة ما تقضي به المادة (الثالثة) من النظام؛ تُقدّر التكاليف القضائية للدعوى المحددة القيمة؛ على أساس نسبة من قيمة المطالبة فيها، وذلك على النحو الآتي:",
+    "target_en": "Subject to Article 3 of the Law, the judicial fee for a case in which a specified amount is claimed shall be assessed based on the percentage of the claimed amount. Such assessment shall be as follows:",
+    "source_ar_norm": "مع مراعاة ما تقضي به المادة (الثالثة) من النظام؛ تقدر التكاليف القضائية للدعوي المحددة القيمة؛ علي اساس نسبة من قيمة المطالبة فيها، وذلك علي النحو الاتي:",
+    "target_en_norm": "subject to article 3 of the law, the judicial fee for a case in which a specified amount is claimed shall be assessed based on the percentage of the claimed amount. such assessment shall be as follows:",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4806,
+    "source_ar": "أ- نسبة (٥٪) إذا كانت قيمة المطالبة أقل من مائة ألف ريال.",
+    "target_en": "Five percent if the claimed amount is less than one hundred thousand riyals.",
+    "source_ar_norm": "ا- نسبة (٥٪) اذا كانت قيمة المطالبة اقل من مائة الف ريال.",
+    "target_en_norm": "five percent if the claimed amount is less than one hundred thousand riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4807,
+    "source_ar": "ب- نسبة (٤٪) إذا كانت قيمة المطالبة مائة ألف ريال فأكثر، وتقل عن خمسمائة ألف ريال.",
+    "target_en": "Four percent if the claimed amount is one hundred thousand riyals or more and less than five hundred thousand riyals.",
+    "source_ar_norm": "ب- نسبة (٤٪) اذا كانت قيمة المطالبة مائة الف ريال فاكثر، وتقل عن خمسمائة الف ريال.",
+    "target_en_norm": "four percent if the claimed amount is one hundred thousand riyals or more and less than five hundred thousand riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4808,
+    "source_ar": "ج- نسبة (٣٪) إذا كانت قيمة المطالبة خمسمائة ألف ريال فأكثر، وتقل عن مليون ريال.",
+    "target_en": "Three percent if the claimed amount is five hundred thousand riyals or more and less than one million riyals.",
+    "source_ar_norm": "ج- نسبة (٣٪) اذا كانت قيمة المطالبة خمسمائة الف ريال فاكثر، وتقل عن مليون ريال.",
+    "target_en_norm": "three percent if the claimed amount is five hundred thousand riyals or more and less than one million riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4809,
+    "source_ar": "د- نسبة (٢٪) إذا كانت قيمة المطالبة مليون ريال فأعلى.",
+    "target_en": "Two percent if the claimed amount is one million riyals or more.",
+    "source_ar_norm": "د- نسبة (٢٪) اذا كانت قيمة المطالبة مليون ريال فاعلي.",
+    "target_en_norm": "two percent if the claimed amount is one million riyals or more.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4810,
+    "source_ar": "تُحدد قيمة المطالبة على النحو الآتي:",
+    "target_en": "The amount of the claim shall be determined as follows:",
+    "source_ar_norm": "تحدد قيمة المطالبة علي النحو الاتي:",
+    "target_en_norm": "the amount of the claim shall be determined as follows:",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4811,
+    "source_ar": "أ- فيما يتعلق بالدعاوى المالية، تُحدد على أساس المبلغ الذي يطلب المدعي الحكم به.",
+    "target_en": "In financial cases, it shall be determined on the basis of the amount claimed by the plaintiff.",
+    "source_ar_norm": "ا- فيما يتعلق بالدعاوي المالية، تحدد علي اساس المبلغ الذي يطلب المدعي الحكم به.",
+    "target_en_norm": "in financial cases, it shall be determined on the basis of the amount claimed by the plaintiff.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4812,
+    "source_ar": "ب- في الدعاوى المتعلقة بإثبات صحة عقد أو فسخه أو إبطاله أو الإلزام بتنفيذه، تُحدد على أساس قيمة الشيء المتنازع عليه وفقاً لقيمته المحددة في العقد.",
+    "target_en": "In cases relating to the validation, rescission, invalidation, or enforcement of a contract, it shall be determined based on the value of the subject of the dispute as specified in the contract.",
+    "source_ar_norm": "ب- في الدعاوي المتعلقة باثبات صحة عقد او فسخه او ابطاله او الالزام بتنفيذه، تحدد علي اساس قيمة الشيء المتنازع عليه وفقا لقيمته المحددة في العقد.",
+    "target_en_norm": "in cases relating to the validation, rescission, invalidation, or enforcement of a contract, it shall be determined based on the value of the subject of the dispute as specified in the contract.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4813,
+    "source_ar": "ج- في الدعاوى المتعلقة بمنازعات ملكية عقار؛ تُحدد على أساس قيمة العقار عند رفع الدعوى، وتُحدد قيمة العقار بناء على البيانات التاريخية -الموثقة لدى وزارة العدل- لقيمة مبايعات هذا العقار والعقارات المجاورة له، ونحو ذلك من الوسائل الأخرى التي تُمكن الوزارة من تحديد قيمته.",
+    "target_en": "In cases relating to property ownership disputes, it shall be determined based on the value of the property at the time of filing the case. The value of the property shall be determined based on the sale value of such property and properties adjacent thereto as documented by the Ministry of Justice, as well as other means that would enable the Ministry to determine such value.",
+    "source_ar_norm": "ج- في الدعاوي المتعلقة بمنازعات ملكية عقار؛ تحدد علي اساس قيمة العقار عند رفع الدعوي، وتحدد قيمة العقار بناء علي البيانات التاريخية -الموثقة لدي وزارة العدل- لقيمة مبايعات هذا العقار والعقارات المجاورة له، ونحو ذلك من الوسائل الاخري التي تمكن الوزارة من تحديد قيمته.",
+    "target_en_norm": "in cases relating to property ownership disputes, it shall be determined based on the value of the property at the time of filing the case. the value of the property shall be determined based on the sale value of such property and properties adjacent thereto as documented by the ministry of justice, as well as other means that would enable the ministry to determine such value.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4814,
+    "source_ar": "المادة الثالثة",
+    "target_en": "Article 3",
+    "source_ar_norm": "المادة الثالثة",
+    "target_en_norm": "article 3",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4815,
+    "source_ar": "تُقدّر التكاليف القضائية في الدعاوى غير محددة القيمة على النحو الآتي:",
+    "target_en": "The judicial fee for a case in which a specified amount is not claimed shall be assessed as follows:",
+    "source_ar_norm": "تقدر التكاليف القضائية في الدعاوي غير محددة القيمة علي النحو الاتي:",
+    "target_en_norm": "the judicial fee for a case in which a specified amount is not claimed shall be assessed as follows:",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4816,
+    "source_ar": "الدعاوى الجزائية الخاصة؛ عشرة آلاف ريال.",
+    "target_en": "In personal claims in criminal cases, the fee shall be ten thousand riyals.",
+    "source_ar_norm": "الدعاوي الجزائية الخاصة؛ عشرة الاف ريال.",
+    "target_en_norm": "in personal claims in criminal cases, the fee shall be ten thousand riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4817,
+    "source_ar": "الدعاوى التي تُنظر لدى المحاكم التجارية والدوائر التجارية؛ خمسة آلاف ريال.",
+    "target_en": "In cases heard by a commercial court or circuit, the fee shall be five thousand riyals.",
+    "source_ar_norm": "الدعاوي التي تنظر لدي المحاكم التجارية والدوائر التجارية؛ خمسة الاف ريال.",
+    "target_en_norm": "in cases heard by a commercial court or circuit, the fee shall be five thousand riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4818,
+    "source_ar": "الدعاوى المستعجلة أيًا كانت المحكمة أو الدائرة التي تنظرها؛ ثلاثة آلاف ريال.",
+    "target_en": "In summary cases heard by any court or circuit, the fee shall be three thousand riyals.",
+    "source_ar_norm": "الدعاوي المستعجلة ايا كانت المحكمة او الدائرة التي تنظرها؛ ثلاثة الاف ريال.",
+    "target_en_norm": "in summary cases heard by any court or circuit, the fee shall be three thousand riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4819,
+    "source_ar": "الدعاوى التي تُنظر لدى المحاكم العامة؛ ثلاثة آلاف ريال.",
+    "target_en": "In cases heard by a general court, the fee shall be three thousand riyals.",
+    "source_ar_norm": "الدعاوي التي تنظر لدي المحاكم العامة؛ ثلاثة الاف ريال.",
+    "target_en_norm": "in cases heard by a general court, the fee shall be three thousand riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4820,
+    "source_ar": "منازعات التنفيذ؛ ثلاثة آلاف ريال.",
+    "target_en": "In enforcement disputes, the fee shall be three thousand riyals.",
+    "source_ar_norm": "منازعات التنفيذ؛ ثلاثة الاف ريال.",
+    "target_en_norm": "in enforcement disputes, the fee shall be three thousand riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4821,
+    "source_ar": "الدعاوى التي تُنظر لدى المحاكم العمالية والدوائر العمالية؛ ألفا ريال.",
+    "target_en": "In cases heard by a labor court or circuit, the fee shall be two thousand riyals.",
+    "source_ar_norm": "الدعاوي التي تنظر لدي المحاكم العمالية والدوائر العمالية؛ الفا ريال.",
+    "target_en_norm": "in cases heard by a labor court or circuit, the fee shall be two thousand riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4822,
+    "source_ar": "المادة الرابعة",
+    "target_en": "Article 4",
+    "source_ar_norm": "المادة الرابعة",
+    "target_en_norm": "article 4",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4823,
+    "source_ar": "إذا اشتملت الدعوى على مطالبة محددة القيمة وأخرى غير محددة القيمة، فتحتسب تكاليف كل مطالبة بحسب الأحكام الواردة في النظام واللائحة.",
+    "target_en": "In cases in which both a specified amount and an unspecified amount are claimed, the fees for each claim shall be determined in accordance with the provisions provided for in the Law and these Regulations.",
+    "source_ar_norm": "اذا اشتملت الدعوي علي مطالبة محددة القيمة واخري غير محددة القيمة، فتحتسب تكاليف كل مطالبة بحسب الاحكام الواردة في النظام واللائحة.",
+    "target_en_norm": "in cases in which both a specified amount and an unspecified amount are claimed, the fees for each claim shall be determined in accordance with the provisions provided for in the law and these regulations.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4824,
+    "source_ar": "الفصل الثاني: تقدير التكاليف القضائية للطلبات",
+    "target_en": "Chapter 2: Assessment of Judicial Fees for Motions",
+    "source_ar_norm": "الفصل الثاني: تقدير التكاليف القضائية للطلبات",
+    "target_en_norm": "chapter 2: assessment of judicial fees for motions",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4825,
+    "source_ar": "المادة الخامسة",
+    "target_en": "Article 5",
+    "source_ar_norm": "المادة الخامسة",
+    "target_en_norm": "article 5",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4826,
+    "source_ar": "تُقدّر التكاليف القضائية لطلب التنفيذ المباشر بمبلغ قدره خمسمائة ريال، وفيما يتعلق بباقي طلبات التنفيذ، فتقدر التكاليف القضائية بنسبة اثنين في المائة (٢٪) من قيمة المطالبة على ألا تقل هذه التكاليف عن خمسمائة ريال ولا تزيد على عشرة آلاف ريال.",
+    "target_en": "The judicial fee for an immediate enforcement motion shall be five hundred riyals. The judicial fee for other enforcement motions shall be two percent of the claimed amount, provided that such fee is not less than five hundred riyals and not more than ten thousand riyals.",
+    "source_ar_norm": "تقدر التكاليف القضائية لطلب التنفيذ المباشر بمبلغ قدره خمسمائة ريال، وفيما يتعلق بباقي طلبات التنفيذ، فتقدر التكاليف القضائية بنسبة اثنين في المائة (٢٪) من قيمة المطالبة علي الا تقل هذه التكاليف عن خمسمائة ريال ولا تزيد علي عشرة الاف ريال.",
+    "target_en_norm": "the judicial fee for an immediate enforcement motion shall be five hundred riyals. the judicial fee for other enforcement motions shall be two percent of the claimed amount, provided that such fee is not less than five hundred riyals and not more than ten thousand riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4827,
+    "source_ar": "ويتحمل المنفذ ضده التكاليف القضائية لطلب التنفيذ ما لم يثبت أن طالب التنفيذ غير مستحق لمطالبته، فيتحمل طالب التنفيذ كامل التكاليف القضائية، وإذا كان طالب التنفيذ غير مستحق لجزء من مطالبته، فيتحمل من التكاليف القضائية بقدر هذا الجزء.",
+    "target_en": "The person against whom the enforcement order is issued shall bear the judicial fees of the enforcement motion, unless it is established that the person who filed the motion is not entitled to the claim; in such case, the person who filed the motion shall bear the full judicial fees. If the person who filed the motion is not fully entitled to his claim, he shall bear the judicial fees in proportion to the part to which he is not entitled.",
+    "source_ar_norm": "ويتحمل المنفذ ضده التكاليف القضائية لطلب التنفيذ ما لم يثبت ان طالب التنفيذ غير مستحق لمطالبته، فيتحمل طالب التنفيذ كامل التكاليف القضائية، واذا كان طالب التنفيذ غير مستحق لجزء من مطالبته، فيتحمل من التكاليف القضائية بقدر هذا الجزء.",
+    "target_en_norm": "the person against whom the enforcement order is issued shall bear the judicial fees of the enforcement motion, unless it is established that the person who filed the motion is not entitled to the claim; in such case, the person who filed the motion shall bear the full judicial fees. if the person who filed the motion is not fully entitled to his claim, he shall bear the judicial fees in proportion to the part to which he is not entitled.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4828,
+    "source_ar": "المادة السادسة",
+    "target_en": "Article 6",
+    "source_ar_norm": "المادة السادسة",
+    "target_en_norm": "article 6",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4829,
+    "source_ar": "تُقدّر التكاليف القضائية للطلبات الواردة في المادة (السابعة) من النظام، على النحو الآتي:",
+    "target_en": "The judicial fees of the motions provided for in Article 7 of the Law shall be assessed as follows:",
+    "source_ar_norm": "تقدر التكاليف القضائية للطلبات الواردة في المادة (السابعة) من النظام، علي النحو الاتي:",
+    "target_en_norm": "the judicial fees of the motions provided for in article 7 of the law shall be assessed as follows:",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4830,
+    "source_ar": "طلب التماس إعادة النظر؛ عشرة آلاف ريال.",
+    "target_en": "For motions for reconsideration, the fee shall be ten thousand riyals.",
+    "source_ar_norm": "طلب التماس اعادة النظر؛ عشرة الاف ريال.",
+    "target_en_norm": "for motions for reconsideration, the fee shall be ten thousand riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4831,
+    "source_ar": "طلب النقض؛ سبعة آلاف ريال.",
+    "target_en": "For motions for cassation, the fee shall be seven thousand riyals.",
+    "source_ar_norm": "طلب النقض؛ سبعة الاف ريال.",
+    "target_en_norm": "for motions for cassation, the fee shall be seven thousand riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4832,
+    "source_ar": "طلب الاستئناف؛ خمسة آلاف ريال.",
+    "target_en": "For motions for appeal, the fee shall be five thousand riyals.",
+    "source_ar_norm": "طلب الاستئناف؛ خمسة الاف ريال.",
+    "target_en_norm": "for motions for appeal, the fee shall be five thousand riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4833,
+    "source_ar": "طلب الإدخال من الخصوم، وطلب الرد، وطلب تصحيح الحكم أو تفسيره، وطلب وقف تنفيذ الحكم؛ ألفا ريال.",
+    "target_en": "For motions for joinder filed by litigants, motions for disqualification, motions for correction or clarification of a judgment, and motions for stay of execution of a judgment, the fee shall be two thousand riyals.",
+    "source_ar_norm": "طلب الادخال من الخصوم، وطلب الرد، وطلب تصحيح الحكم او تفسيره، وطلب وقف تنفيذ الحكم؛ الفا ريال.",
+    "target_en_norm": "for motions for joinder filed by litigants, motions for disqualification, motions for correction or clarification of a judgment, and motions for stay of execution of a judgment, the fee shall be two thousand riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4834,
+    "source_ar": "الطلب العارض؛ ألف ريال.",
+    "target_en": "For incidental motions, the fee shall be one thousand riyals.",
+    "source_ar_norm": "الطلب العارض؛ الف ريال.",
+    "target_en_norm": "for incidental motions, the fee shall be one thousand riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4835,
+    "source_ar": "طلب أحد الخصوم السير في الدعوى الموقوفة اتفاقاً قبل انتهاء المدة المتفق عليها لوقف الخصومة؛ مائة ريال.",
+    "target_en": "For motions for continuance filed by a litigant in a case suspended by agreement prior to the expiration of the agreed-upon suspension period, the fee shall be one hundred riyals.",
+    "source_ar_norm": "طلب احد الخصوم السير في الدعوي الموقوفة اتفاقا قبل انتهاء المدة المتفق عليها لوقف الخصومة؛ مائة ريال.",
+    "target_en_norm": "for motions for continuance filed by a litigant in a case suspended by agreement prior to the expiration of the agreed-upon suspension period, the fee shall be one hundred riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4836,
+    "source_ar": "المادة السابعة",
+    "target_en": "Article 7",
+    "source_ar_norm": "المادة السابعة",
+    "target_en_norm": "article 7",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4837,
+    "source_ar": "تكون التكاليف القضائية لكل طلب من الطلبات الواردة في المادة (الثامنة) من النظام على النحو الآتي:",
+    "target_en": "The judicial fees for the motions provided for in Article 8 of the Law shall be as follows:",
+    "source_ar_norm": "تكون التكاليف القضائية لكل طلب من الطلبات الواردة في المادة (الثامنة) من النظام علي النحو الاتي:",
+    "target_en_norm": "the judicial fees for the motions provided for in article 8 of the law shall be as follows:",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4838,
+    "source_ar": "طلب ذي المصلحة تسليمه نسخة مصدقة من أوراق الدعوى أو سجلاتها -الورقية أو الإلكترونية- أو الوثائق أو الأوراق التي تحت يد المحكمة؛ مائة ريال.",
+    "target_en": "Motions filed by a person with interest to obtain a certified copy of the case papers or records, whether in paper or electronic form, or documents or papers in the possession of the court, the fee shall be one hundred riyals.",
+    "source_ar_norm": "طلب ذي المصلحة تسليمه نسخة مصدقة من اوراق الدعوي او سجلاتها -الورقية او الالكترونية- او الوثائق او الاوراق التي تحت يد المحكمة؛ مائة ريال.",
+    "target_en_norm": "motions filed by a person with interest to obtain a certified copy of the case papers or records, whether in paper or electronic form, or documents or papers in the possession of the court, the fee shall be one hundred riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4839,
+    "source_ar": "طلب ذي المصلحة الاطلاع على أوراق الدعوى أو سجلاتها -الورقية أو الإلكترونية-؛ خمسون ريالاً.",
+    "target_en": "Motions filed by a person with interest to access case papers or records, whether in paper or electronic form, the fee shall be fifty riyals.",
+    "source_ar_norm": "طلب ذي المصلحة الاطلاع علي اوراق الدعوي او سجلاتها -الورقية او الالكترونية-؛ خمسون ريالا.",
+    "target_en_norm": "motions filed by a person with interest to access case papers or records, whether in paper or electronic form, the fee shall be fifty riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4840,
+    "source_ar": "طلب نسخة بديلة للوثائق القضائية؛ مائة ريال.",
+    "target_en": "Motions to obtain a replacement copy of a judicial document, the fee shall be one hundred riyals.",
+    "source_ar_norm": "طلب نسخة بديلة للوثائق القضائية؛ مائة ريال.",
+    "target_en_norm": "motions to obtain a replacement copy of a judicial document, the fee shall be one hundred riyals.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4841,
+    "source_ar": "الفصل الثالث: التقدير النهائي للتكاليف القضائية، وتحصيلها",
+    "target_en": "Chapter 3: Final Assessment and Collection of Judicial Fees",
+    "source_ar_norm": "الفصل الثالث: التقدير النهائي للتكاليف القضائية، وتحصيلها",
+    "target_en_norm": "chapter 3: final assessment and collection of judicial fees",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4842,
+    "source_ar": "المادة الثامنة",
+    "target_en": "Article 8",
+    "source_ar_norm": "المادة الثامنة",
+    "target_en_norm": "article 8",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4843,
+    "source_ar": "تصدر الإدارة المختصة -التي يحددها وزير العدل- التقدير النهائي لمبلغ التكاليف القضائية للدعوى بعد انتهائها، ويبلغ المكلف بأداء هذه التكاليف، ولا يُحصل مبلغ التكاليف من المكلف إلا بعد انتهاء مدة الاعتراض على التقدير أو صدور قرار في شأن اعتراضه.",
+    "target_en": "The competent department, to be designated by the Minister of Justice, shall issue the final assessment of the judicial fees following conclusion of the case, and the party required to pay the fees shall be notified to pay such fees. Fees may not be collected from said party except after the lapse of the period prescribed for objecting to the assessment or after the issuance of a decision on such objection.",
+    "source_ar_norm": "تصدر الادارة المختصة -التي يحددها وزير العدل- التقدير النهائي لمبلغ التكاليف القضائية للدعوي بعد انتهائها، ويبلغ المكلف باداء هذه التكاليف، ولا يحصل مبلغ التكاليف من المكلف الا بعد انتهاء مدة الاعتراض علي التقدير او صدور قرار في شان اعتراضه.",
+    "target_en_norm": "the competent department, to be designated by the minister of justice, shall issue the final assessment of the judicial fees following conclusion of the case, and the party required to pay the fees shall be notified to pay such fees. fees may not be collected from said party except after the lapse of the period prescribed for objecting to the assessment or after the issuance of a decision on such objection.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4844,
+    "source_ar": "المادة التاسعة",
+    "target_en": "Article 9",
+    "source_ar_norm": "المادة التاسعة",
+    "target_en_norm": "article 9",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4845,
+    "source_ar": "فيما عدا طلب النقض وطلب التماس إعادة النظر، تصدر الإدارة المختصة -التي يحددها وزير العدل- التقدير النهائي لمبلغ التكاليف القضائية للطلب بعد البت فيه، ويبلغ المكلف بأداء هذه التكاليف، ولا يُحصل مبلغ التكاليف من المكلف إلا بعد انتهاء مدة الاعتراض على التقدير أو صدور قرار في شأن اعتراضه.",
+    "target_en": "Except for motions for cassation and reconsideration, the competent department, to be designated by the Minister of Justice, shall issue the final assessment of the judicial fees for the motion after rendering a decision thereon, and the party required to pay the fees shall be notified to pay such fees. Fees may not be collected from said party except after the lapse of the period prescribed for objecting to the assessment or after the issuance of a decision on such objection.",
+    "source_ar_norm": "فيما عدا طلب النقض وطلب التماس اعادة النظر، تصدر الادارة المختصة -التي يحددها وزير العدل- التقدير النهائي لمبلغ التكاليف القضائية للطلب بعد البت فيه، ويبلغ المكلف باداء هذه التكاليف، ولا يحصل مبلغ التكاليف من المكلف الا بعد انتهاء مدة الاعتراض علي التقدير او صدور قرار في شان اعتراضه.",
+    "target_en_norm": "except for motions for cassation and reconsideration, the competent department, to be designated by the minister of justice, shall issue the final assessment of the judicial fees for the motion after rendering a decision thereon, and the party required to pay the fees shall be notified to pay such fees. fees may not be collected from said party except after the lapse of the period prescribed for objecting to the assessment or after the issuance of a decision on such objection.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4846,
+    "source_ar": "المادة العاشرة",
+    "target_en": "Article 10",
+    "source_ar_norm": "المادة العاشرة",
+    "target_en_norm": "article 10",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4847,
+    "source_ar": "تحتسب التكاليف القضائية بالريال السعودي، ولا يحتسب الجزء من الريال في تقدير التكاليف.",
+    "target_en": "The assessment of judicial fees shall be in Saudi riyals and shall not include fractions of a riyal.",
+    "source_ar_norm": "تحتسب التكاليف القضائية بالريال السعودي، ولا يحتسب الجزء من الريال في تقدير التكاليف.",
+    "target_en_norm": "the assessment of judicial fees shall be in saudi riyals and shall not include fractions of a riyal.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4848,
+    "source_ar": "الفصل الرابع: أحكام ختامية",
+    "target_en": "Chapter 4: Concluding Provisions",
+    "source_ar_norm": "الفصل الرابع: احكام ختامية",
+    "target_en_norm": "chapter 4: concluding provisions",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4849,
+    "source_ar": "المادة الحادية عشرة",
+    "target_en": "Article 11",
+    "source_ar_norm": "المادة الحادية عشرة",
+    "target_en_norm": "article 11",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4850,
+    "source_ar": "يشترط للترخيص للقطاع الخاص للقيام بالأعمال المساندة لتطبيق أحكام النظام -إضافةً إلى استيفاء المتطلبات النظامية- الشروط الآتية:",
+    "target_en": "Private sector entities licensed to carry out supporting services for the application of the provisions of the Law must, in addition to fulfilling the legal requirements, meet the following conditions:",
+    "source_ar_norm": "يشترط للترخيص للقطاع الخاص للقيام بالاعمال المساندة لتطبيق احكام النظام -اضافة الي استيفاء المتطلبات النظامية- الشروط الاتية:",
+    "target_en_norm": "private sector entities licensed to carry out supporting services for the application of the provisions of the law must, in addition to fulfilling the legal requirements, meet the following conditions:",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4851,
+    "source_ar": "أن يكون المرخص له شركة مرخصاً لها في المملكة للقيام بالعمل محل الترخيص.",
+    "target_en": "The licensee must be a company licensed in the Kingdom to provide the service subject of the license.",
+    "source_ar_norm": "ان يكون المرخص له شركة مرخصا لها في المملكة للقيام بالعمل محل الترخيص.",
+    "target_en_norm": "the licensee must be a company licensed in the kingdom to provide the service subject of the license.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4852,
+    "source_ar": "أن يكون للمرخص له خبرة في تقديم الخدمة محل الترخيص لا تقل عن ثلاث سنوات.",
+    "target_en": "The licensee must have at least three years of experience in providing the service subject of the license.",
+    "source_ar_norm": "ان يكون للمرخص له خبرة في تقديم الخدمة محل الترخيص لا تقل عن ثلاث سنوات.",
+    "target_en_norm": "the licensee must have at least three years of experience in providing the service subject of the license.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4853,
+    "source_ar": "أن يكون الترخيص محدداً بمدة.",
+    "target_en": "The license must be for a specified term.",
+    "source_ar_norm": "ان يكون الترخيص محددا بمدة.",
+    "target_en_norm": "the license must be for a specified term.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4854,
+    "source_ar": "أن تتوافر لدى المرخص له الخبرات الفنية والقدرات المالية اللازمة للقيام بتقديم الخدمة محل الترخيص بحسب ما تقرره وزارة العدل.",
+    "target_en": "The licensee must have the technical expertise and financial capabilities required to provide the service subject of the license, as determined by the Ministry of Justice.",
+    "source_ar_norm": "ان تتوافر لدي المرخص له الخبرات الفنية والقدرات المالية اللازمة للقيام بتقديم الخدمة محل الترخيص بحسب ما تقرره وزارة العدل.",
+    "target_en_norm": "the licensee must have the technical expertise and financial capabilities required to provide the service subject of the license, as determined by the ministry of justice.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4855,
+    "source_ar": "ألا يكون هناك تعارض مصالح لدى المرخص له وإن كان هذا التعارض محتملاً.",
+    "target_en": "The licensee must not have an actual or potential conflict of interest.",
+    "source_ar_norm": "الا يكون هناك تعارض مصالح لدي المرخص له وان كان هذا التعارض محتملا.",
+    "target_en_norm": "the licensee must not have an actual or potential conflict of interest.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4856,
+    "source_ar": "أن يلتزم المرخص له بالمحافظة على سرية أي معلومات تم الاطلاع عليها بسبب تقديم الخدمة محل الترخيص، وأن يمتد هذا الالتزام حتى بعد انتهاء الترخيص.",
+    "target_en": "The licensee must maintain the confidentiality of any information he becomes privy to in the course of providing the service subject of the license; such obligation shall remain binding even after the expiration of the license.",
+    "source_ar_norm": "ان يلتزم المرخص له بالمحافظة علي سرية اي معلومات تم الاطلاع عليها بسبب تقديم الخدمة محل الترخيص، وان يمتد هذا الالتزام حتي بعد انتهاء الترخيص.",
+    "target_en_norm": "the licensee must maintain the confidentiality of any information he becomes privy to in the course of providing the service subject of the license; such obligation shall remain binding even after the expiration of the license.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4857,
+    "source_ar": "أن يلتزم المرخص له بالشروط الفنية الخاصة بحسب ما تقرره وزارة العدل.",
+    "target_en": "The licensee must abide by the special technical conditions as determined by the Ministry of Justice.",
+    "source_ar_norm": "ان يلتزم المرخص له بالشروط الفنية الخاصة بحسب ما تقرره وزارة العدل.",
+    "target_en_norm": "the licensee must abide by the special technical conditions as determined by the ministry of justice.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4858,
+    "source_ar": "وتتولى وزارة العدل الإشراف على أعمال المرخص له.",
+    "target_en": "The Ministry of Justice shall oversee the licensee’s activities.",
+    "source_ar_norm": "وتتولي وزارة العدل الاشراف علي اعمال المرخص له.",
+    "target_en_norm": "the ministry of justice shall oversee the licensee’s activities.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4859,
+    "source_ar": "المادة الثانية عشرة",
+    "target_en": "Article 12",
+    "source_ar_norm": "المادة الثانية عشرة",
+    "target_en_norm": "article 12",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4860,
+    "source_ar": "يكون تحصيل التكاليف القضائية وفق الأحكام النظامية المقررة.",
+    "target_en": "Judicial fees shall be collected in accordance with applicable legal provisions.",
+    "source_ar_norm": "يكون تحصيل التكاليف القضائية وفق الاحكام النظامية المقررة.",
+    "target_en_norm": "judicial fees shall be collected in accordance with applicable legal provisions.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4861,
+    "source_ar": "المادة الثالثة عشرة",
+    "target_en": "Article 13",
+    "source_ar_norm": "المادة الثالثة عشرة",
+    "target_en_norm": "article 13",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4862,
+    "source_ar": "لغرض إدارة التحصيل والاعتراضات والإعفاءات والاستثناءات الواردة في النظام واللائحة؛ تفتح وزارة العدل حساباً جارياً تودع فيه المبالغ المتحصلة من التكاليف القضائية، ومن ثم تُودع تلك المبالغ في حساب جاري وزارة المالية لدى البنك المركزي السعودي.",
+    "target_en": "For the purpose of managing the collection of fees, objections, exemptions, and exceptions referred to in the Law and these Regulations, the Ministry of Justice shall open a current account for the deposit of collected judicial fees; such fees shall then be deposited in the Ministry of Finance’s current account with the Saudi Central Bank.",
+    "source_ar_norm": "لغرض ادارة التحصيل والاعتراضات والاعفاءات والاستثناءات الواردة في النظام واللائحة؛ تفتح وزارة العدل حسابا جاريا تودع فيه المبالغ المتحصلة من التكاليف القضائية، ومن ثم تودع تلك المبالغ في حساب جاري وزارة المالية لدي البنك المركزي السعودي.",
+    "target_en_norm": "for the purpose of managing the collection of fees, objections, exemptions, and exceptions referred to in the law and these regulations, the ministry of justice shall open a current account for the deposit of collected judicial fees; such fees shall then be deposited in the ministry of finance’s current account with the saudi central bank.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4863,
+    "source_ar": "المادة الرابعة عشرة",
+    "target_en": "Article 14",
+    "source_ar_norm": "المادة الرابعة عشرة",
+    "target_en_norm": "article 14",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4864,
+    "source_ar": "يصدر وزير العدل بالتنسيق مع رئيس المجلس الأعلى للقضاء ما يلزم في شأن إجراءات الاعتراض على قرار الإدارة المختصة بتحديد مبلغ التكاليف القضائية.",
+    "target_en": "The Minister of Justice shall, in coordination with the President of the Supreme Judicial Council, issue the necessary procedures for objecting to the competent department’s decision on the assessment of judicial fees.",
+    "source_ar_norm": "يصدر وزير العدل بالتنسيق مع رئيس المجلس الاعلي للقضاء ما يلزم في شان اجراءات الاعتراض علي قرار الادارة المختصة بتحديد مبلغ التكاليف القضائية.",
+    "target_en_norm": "the minister of justice shall, in coordination with the president of the supreme judicial council, issue the necessary procedures for objecting to the competent department’s decision on the assessment of judicial fees.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4865,
+    "source_ar": "المادة الخامسة عشرة",
+    "target_en": "Article 15",
+    "source_ar_norm": "المادة الخامسة عشرة",
+    "target_en_norm": "article 15",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4866,
+    "source_ar": "يكون تنفيذ الإجراءات الواردة في النظام واللائحة في أي وقت باستعمال الوسائل الإلكترونية المعتمدة، وإذا تعذر تنفيذ أي من الإجراءات بالوسائل الإلكترونية المعتمدة، فيجوز تنفيذه بالطرق العادية.",
+    "target_en": "The procedures provided for in the Law and these Regulations shall be carried out at any time using approved electronic means. If the use of electronic means is not feasible, such procedures may be carried out using ordinary methods.",
+    "source_ar_norm": "يكون تنفيذ الاجراءات الواردة في النظام واللائحة في اي وقت باستعمال الوسائل الالكترونية المعتمدة، واذا تعذر تنفيذ اي من الاجراءات بالوسائل الالكترونية المعتمدة، فيجوز تنفيذه بالطرق العادية.",
+    "target_en_norm": "the procedures provided for in the law and these regulations shall be carried out at any time using approved electronic means. if the use of electronic means is not feasible, such procedures may be carried out using ordinary methods.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4867,
+    "source_ar": "المادة السادسة عشرة",
+    "target_en": "Article 16",
+    "source_ar_norm": "المادة السادسة عشرة",
+    "target_en_norm": "article 16",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4868,
+    "source_ar": "يصدر وزير العدل ما يلزم من قرارات لتنفيذ أحكام اللائحة.",
+    "target_en": "The Minister of Justice shall issue the decisions necessary for the implementation of the provisions of these Regulations.",
+    "source_ar_norm": "يصدر وزير العدل ما يلزم من قرارات لتنفيذ احكام اللائحة.",
+    "target_en_norm": "the minister of justice shall issue the decisions necessary for the implementation of the provisions of these regulations.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4869,
+    "source_ar": "المادة السابعة عشرة",
+    "target_en": "Article 17",
+    "source_ar_norm": "المادة السابعة عشرة",
+    "target_en_norm": "article 17",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4870,
+    "source_ar": "تنشر اللائحة في الجريدة الرسمية، ويعمل بها من تاريخ العمل بالنظام.",
+    "target_en": "These Regulations shall be published in the Official Gazette and shall enter into force on the date the Law enters into force.",
+    "source_ar_norm": "تنشر اللائحة في الجريدة الرسمية، ويعمل بها من تاريخ العمل بالنظام.",
+    "target_en_norm": "these regulations shall be published in the official gazette and shall enter into force on the date the law enters into force.",
+    "file_name": "اللائحة التنفيذية لنظام التكاليف القضائية.docx"
+  },
+  {
+    "id": 4871,
+    "source_ar": "اللائحة التنفيذية لنظام التمويل العقاري",
+    "target_en": "Implementing Regulation of the Real Estate Finance Law",
+    "source_ar_norm": "اللائحة التنفيذية لنظام التمويل العقاري",
+    "target_en_norm": "implementing regulation of the real estate finance law",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4872,
+    "source_ar": "الباب الأول التعريفات والأحكام العامة",
+    "target_en": "Chapter 1: Definitions and General Provisions",
+    "source_ar_norm": "الباب الاول التعريفات والاحكام العامة",
+    "target_en_norm": "chapter 1: definitions and general provisions",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4873,
+    "source_ar": "المادة الأولى:",
+    "target_en": "Article 1",
+    "source_ar_norm": "المادة الاولي:",
+    "target_en_norm": "article 1",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4874,
+    "source_ar": "يقصد بالألفاظ والعبارات الآتية، أينما وردت في هذه اللائحة، المعاني المبينة أمام كل منها، ما لم يقتض السياق خلاف ذلك:",
+    "target_en": "The following terms and phrases – wherever mentioned in this Regulation – shall have the meanings assigned thereto unless the context requires otherwise:",
+    "source_ar_norm": "يقصد بالالفاظ والعبارات الاتية، اينما وردت في هذه اللائحة، المعاني المبينة امام كل منها، ما لم يقتض السياق خلاف ذلك:",
+    "target_en_norm": "the following terms and phrases – wherever mentioned in this regulation – shall have the meanings assigned thereto unless the context requires otherwise:",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4875,
+    "source_ar": "النظام: نظام التمويل العقاري.",
+    "target_en": "Law: Real Estate Finance Law.",
+    "source_ar_norm": "النظام: نظام التمويل العقاري.",
+    "target_en_norm": "law: real estate finance law.",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4876,
+    "source_ar": "اللائحة: اللائحة التنفيذية لنظام التمويل العقاري.",
+    "target_en": "Regulation: Implementing Regulation of the Real Estate Finance Law.",
+    "source_ar_norm": "اللائحة: اللائحة التنفيذية لنظام التمويل العقاري.",
+    "target_en_norm": "regulation: implementing regulation of the real estate finance law.",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4877,
+    "source_ar": "المؤسسة: مؤسسة النقد العربي السعودي.",
+    "target_en": "SAMA: Saudi Arabian Monetary Agency.",
+    "source_ar_norm": "المؤسسة: مؤسسة النقد العربي السعودي.",
+    "target_en_norm": "sama: saudi arabian monetary agency.",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4878,
+    "source_ar": "الصندوق: صندوق الاستثمارات العامة.",
+    "target_en": "PIF: Public Investment Fund.",
+    "source_ar_norm": "الصندوق: صندوق الاستثمارات العامة.",
+    "target_en_norm": "pif: public investment fund.",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4879,
+    "source_ar": "المحافظ: محافظ مؤسسة النقد العربي السعودي.",
+    "target_en": "Governor: Governor of SAMA.",
+    "source_ar_norm": "المحافظ: محافظ مؤسسة النقد العربي السعودي.",
+    "target_en_norm": "governor: governor of sama.",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4880,
+    "source_ar": "التمويل العقاري: منح الائتمان لتملك المستفيد للسكن.",
+    "target_en": "Real Estate Finance: Extending credit to a borrower for the purpose of owning a dwelling.",
+    "source_ar_norm": "التمويل العقاري: منح الائتمان لتملك المستفيد للسكن.",
+    "target_en_norm": "real estate finance: extending credit to a borrower for the purpose of owning a dwelling.",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4881,
+    "source_ar": "عقد التمويل العقاري: عقد الدفع الآجل لتملك المستفيد للسكن.",
+    "target_en": "Real Estate Finance Contract: A deferred payment contract extended to a borrower to own a dwelling.",
+    "source_ar_norm": "عقد التمويل العقاري: عقد الدفع الاجل لتملك المستفيد للسكن.",
+    "target_en_norm": "real estate finance contract: a deferred payment contract extended to a borrower to own a dwelling.",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4882,
+    "source_ar": "حقوق عقود التمويل العقاري: التدفقات النقدية والرهون والضمانات وغيرها من الحقوق الناشئة عن عقود التمويل العقاري.",
+    "target_en": "Real Estate Finance Contractual Rights: cash flows, mortgages, collaterals and other rights arising under a real estate finance contract.",
+    "source_ar_norm": "حقوق عقود التمويل العقاري: التدفقات النقدية والرهون والضمانات وغيرها من الحقوق الناشئة عن عقود التمويل العقاري.",
+    "target_en_norm": "real estate finance contractual rights: cash flows, mortgages, collaterals and other rights arising under a real estate finance contract.",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4883,
+    "source_ar": "نقل الحقوق: نقل الحق في استيفاء الدين أو التنفيذ على العقار المرهون أو أي حق آخر ينشأ عن عقد تمويل عقاري.",
+    "target_en": "Transfer of Rights: transfer of a right to recover a debt or execute upon a mortgaged real estate, or any other right arising from a real estate finance contract.",
+    "source_ar_norm": "نقل الحقوق: نقل الحق في استيفاء الدين او التنفيذ علي العقار المرهون او اي حق اخر ينشا عن عقد تمويل عقاري.",
+    "target_en_norm": "transfer of rights: transfer of a right to recover a debt or execute upon a mortgaged real estate, or any other right arising from a real estate finance contract.",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4884,
+    "source_ar": "القطاع: قطاع التمويل العقاري.",
+    "target_en": "Sector: real estate finance sector.",
+    "source_ar_norm": "القطاع: قطاع التمويل العقاري.",
+    "target_en_norm": "sector: real estate finance sector.",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4885,
+    "source_ar": "شركة التمويل العقاري: الشركة المساهمة المرخص لها بمزاولة نشاط التمويل العقاري.",
+    "target_en": "Real Estate Finance Company: a joint stock company licensed to engage in real estate finance activity.",
+    "source_ar_norm": "شركة التمويل العقاري: الشركة المساهمة المرخص لها بمزاولة نشاط التمويل العقاري.",
+    "target_en_norm": "real estate finance company: a joint stock company licensed to engage in real estate finance activity.",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4886,
+    "source_ar": "الممول العقاري: البنوك التجارية، وشركات التمويل العقاري المرخص لها بمزاولة نشاط التمويل العقاري.",
+    "target_en": "Real Estate Finance Entity: commercial banks and real estate finance companies licensed to engage in real estate finance activity.",
+    "source_ar_norm": "الممول العقاري: البنوك التجارية، وشركات التمويل العقاري المرخص لها بمزاولة نشاط التمويل العقاري.",
+    "target_en_norm": "real estate finance entity: commercial banks and real estate finance companies licensed to engage in real estate finance activity.",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4887,
+    "source_ar": "شركة إعادة التمويل العقاري: الشركة المساهمة المرخص لها بمزاولة نشاط إعادة التمويل العقاري.",
+    "target_en": "Real Estate Refinance Company: a joint stock company licensed to engage in real estate refinance activities.",
+    "source_ar_norm": "شركة اعادة التمويل العقاري: الشركة المساهمة المرخص لها بمزاولة نشاط اعادة التمويل العقاري.",
+    "target_en_norm": "real estate refinance company: a joint stock company licensed to engage in real estate refinance activities.",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4888,
+    "source_ar": "المنشئ: الممول العقاري المنشئ لعقد التمويل العقاري.",
+    "target_en": "Originator: a real estate finance entity originating a real estate finance contract.",
+    "source_ar_norm": "المنشئ: الممول العقاري المنشئ لعقد التمويل العقاري.",
+    "target_en_norm": "originator: a real estate finance entity originating a real estate finance contract.",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4889,
+    "source_ar": "المستفيد: الشخص ذو الصفة الطبيعية الحاصل على التمويل العقاري.",
+    "target_en": "Borrower: a natural person who obtains real estate finance.",
+    "source_ar_norm": "المستفيد: الشخص ذو الصفة الطبيعية الحاصل علي التمويل العقاري.",
+    "target_en_norm": "borrower: a natural person who obtains real estate finance.",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4890,
+    "source_ar": "المستهلك: كل شخص توجه له خدمات التمويل العقاري.",
+    "target_en": "Consumer: any person targeted by real estate finance services.",
+    "source_ar_norm": "المستهلك: كل شخص توجه له خدمات التمويل العقاري.",
+    "target_en_norm": "consumer: any person targeted by real estate finance services.",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4891,
+    "source_ar": "الدعم الإسكاني: معونة مالية أو ائتمانية تقدمها الدولة أو جمعيات الإسكان أو غيرها بغرض تيسير الإسكان.",
+    "target_en": "Housing Subsidy: a financial or credit subsidy provided by the government, housing societies, or the like to make housing affordable.",
+    "source_ar_norm": "الدعم الاسكاني: معونة مالية او ائتمانية تقدمها الدولة او جمعيات الاسكان او غيرها بغرض تيسير الاسكان.",
+    "target_en_norm": "housing subsidy: a financial or credit subsidy provided by the government, housing societies, or the like to make housing affordable.",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4892,
+    "source_ar": "منتج التمويل العقاري الإسكاني المدعوم: منتج مشمول بدعم إسكاني يقدمه مقدم الدعم الإسكاني من خلال ممول عقاري.",
+    "target_en": "Subsidized Real Estate Housing Finance Product: a product subsidized by a housing subsidy provider through a real estate finance entity.",
+    "source_ar_norm": "منتج التمويل العقاري الاسكاني المدعوم: منتج مشمول بدعم اسكاني يقدمه مقدم الدعم الاسكاني من خلال ممول عقاري.",
+    "target_en_norm": "subsidized real estate housing finance product: a product subsidized by a housing subsidy provider through a real estate finance entity.",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4893,
+    "source_ar": "السوق الثانوية: تداول حقوق الممول العقاري الناشئة من عقود السوق الأولية.",
+    "target_en": "Secondary Market: trading of the rights of real estate finance entities resulting from primary market contracts.",
+    "source_ar_norm": "السوق الثانوية: تداول حقوق الممول العقاري الناشئة من عقود السوق الاولية.",
+    "target_en_norm": "secondary market: trading of the rights of real estate finance entities resulting from primary market contracts.",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4894,
+    "source_ar": "المادة الثانية:",
+    "target_en": "Article 2",
+    "source_ar_norm": "المادة الثانية:",
+    "target_en_norm": "article 2",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4895,
+    "source_ar": "تختص المؤسسة بتنظيم القطاع وفقاً للمادة الثانية من النظام، ولها في سبيل ذلك:",
+    "target_en": "SAMA shall, pursuant to Article 2 of the Law, regulate the sector. For this purpose, SAMA shall have the power to:",
+    "source_ar_norm": "تختص المؤسسة بتنظيم القطاع وفقا للمادة الثانية من النظام، ولها في سبيل ذلك:",
+    "target_en_norm": "sama shall, pursuant to article 2 of the law, regulate the sector. for this purpose, sama shall have the power to:",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4896,
+    "source_ar": "1. الترخيص لشركات التمويل العقاري بمزاولة نشاط التمويل العقاري، وفقاً لأحكام النظام، ونظام مراقبة شركات التمويل، ولوائحهما.",
+    "target_en": "1. license real estate finance companies to engage in real estate finance activities in accordance with the provisions of the Law, Finance Companies Control Law and their regulations;",
+    "source_ar_norm": "1. الترخيص لشركات التمويل العقاري بمزاولة نشاط التمويل العقاري، وفقا لاحكام النظام، ونظام مراقبة شركات التمويل، ولوائحهما.",
+    "target_en_norm": "1. license real estate finance companies to engage in real estate finance activities in accordance with the provisions of the law, finance companies control law and their regulations;",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4897,
+    "source_ar": "2. اتخاذ الإجراءات اللازمة للمحافظة على سلامة القطاع واستقراره وعدالة التعاملات فيه.",
+    "target_en": "2. take necessary measures for maintaining the integrity and stability of the sector and fairness of transactions;",
+    "source_ar_norm": "2. اتخاذ الاجراءات اللازمة للمحافظة علي سلامة القطاع واستقراره وعدالة التعاملات فيه.",
+    "target_en_norm": "2. take necessary measures for maintaining the integrity and stability of the sector and fairness of transactions;",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4898,
+    "source_ar": "3. اتخاذ الإجراءات اللازمة لتشجيع المنافسة العادلة والفعالة بين الممولين العقاريين.",
+    "target_en": "3. take necessary measures for promoting fair and effective competition between real estate finance entities;",
+    "source_ar_norm": "3. اتخاذ الاجراءات اللازمة لتشجيع المنافسة العادلة والفعالة بين الممولين العقاريين.",
+    "target_en_norm": "3. take necessary measures for promoting fair and effective competition between real estate finance entities;",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4899,
+    "source_ar": "4. إصدار القواعد والتعليمات لتنظيم عمل القطاع.",
+    "target_en": "4. issue rules and instructions to regulate the sector; and",
+    "source_ar_norm": "4. اصدار القواعد والتعليمات لتنظيم عمل القطاع.",
+    "target_en_norm": "4. issue rules and instructions to regulate the sector; and",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  },
+  {
+    "id": 4900,
+    "source_ar": "5. اتخاذ الوسائل المناسبة لتطوير القطاع، والعمل على توطين وظائفه، ورفع كفاءة العاملين فيه، بتنظيم التزامات الممولين العقاريين في شأن تدريب الموارد البشرية ورفع مهاراتها وتنمية معارف العاملين في القطاع.",
+    "target_en": "5. take proper means for the development of the sector, Saudization, and raising the employees' competency through regulating the obligations of the real estate finance entities regarding the training of human resources, improving their skills and developing their knowledge.",
+    "source_ar_norm": "5. اتخاذ الوسائل المناسبة لتطوير القطاع، والعمل علي توطين وظائفه، ورفع كفاءة العاملين فيه، بتنظيم التزامات الممولين العقاريين في شان تدريب الموارد البشرية ورفع مهاراتها وتنمية معارف العاملين في القطاع.",
+    "target_en_norm": "5. take proper means for the development of the sector, saudization, and raising the employees' competency through regulating the obligations of the real estate finance entities regarding the training of human resources, improving their skills and developing their knowledge.",
+    "file_name": "اللائحة التنفيذية لنظام التمويل العقاري.docx"
+  }
+]
