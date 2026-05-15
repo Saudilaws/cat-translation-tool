@@ -2499,6 +2499,7 @@ catch (e) { alert("CAT V45 Professional error: " + (e && e.message ? e.message :
         line-height:1.7;
         color:#374151;
         word-break:break-word;
+        white-space:pre-line;
       ">لم يتم الاختبار بعد.</div>
     `;
 
@@ -2526,8 +2527,9 @@ catch (e) { alert("CAT V45 Professional error: " + (e && e.message ? e.message :
     try {
       setStatus("جاري تحميل فهرس الذاكرة...");
 
-      const base = location.origin + "/db/";
-      const indexUrl = base + "tm_index.json?v=" + Date.now();
+      const indexBase = location.origin + "/db/";
+      const chunkBase = location.origin + "/";
+      const indexUrl = indexBase + "tm_index.json?v=" + Date.now();
 
       const index = await loadJson(indexUrl);
 
@@ -2536,7 +2538,7 @@ catch (e) { alert("CAT V45 Professional error: " + (e && e.message ? e.message :
       }
 
       const firstChunkName = index.chunks[0].file;
-      const firstChunkUrl = base + firstChunkName + "?v=" + Date.now();
+      const firstChunkUrl = chunkBase + firstChunkName + "?v=" + Date.now();
 
       setStatus("تم تحميل الفهرس. جاري تحميل أول ملف: " + firstChunkName);
 
@@ -2545,7 +2547,8 @@ catch (e) { alert("CAT V45 Professional error: " + (e && e.message ? e.message :
       window.CAT_ONLINE_JSON_TM = {
         index,
         firstChunk,
-        base
+        indexBase,
+        chunkBase
       };
 
       setStatus(
