@@ -196,7 +196,7 @@ var parts = [];
 var st = 0;
 for (var i = 0; i < line.length; i++) {
 var ch = line[i];
-var isEnd = ch === "." || ch === "!" || ch === "?" || ch === "\u061f" || ch === "Ã˜Â›" || ch === ";";
+var isEnd = ch === "." || ch === "!" || ch === "?" || ch === "\u061f" || ch === "\u061b" || ch === ";";
 if (!isEnd) continue;
 if (isDecimalDot(line, i) || isKnownAbbrevDot(line, i)) continue;
 var p = flat(line.slice(st, i + 1));
@@ -386,12 +386,12 @@ APP.building = true;
 var rows = getPageRows();
 var total = rows.length;
 var i = 0;
-ui.status("Ã˜Â¬Ã˜Â§Ã˜Â±Ã™ÂŠ Ã˜Â¨Ã™Â†Ã˜Â§Ã˜Â¡ Ã˜Â°Ã˜Â§Ã™ÂƒÃ˜Â±Ã˜Â© Ã˜Â§Ã™Â„Ã˜ÂªÃ˜Â±Ã˜Â¬Ã™Â…Ã˜Â© Ã™Â…Ã™Â† Ã˜ÂµÃ™ÂÃ˜Â­Ã˜Â© HTML Ã˜Â¨Ã™Â†Ã˜Â¸Ã˜Â§Ã™Â… Ã˜Â§Ã™Â„Ã˜Â®Ã™Â„Ã™ÂŠÃ˜Â© = Segment Ã™ÂˆÃ˜Â§Ã˜Â­Ã˜Â¯...");
+ui.status("\u062c\u0627\u0631\u064a \u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0645\u0646 \u0635\u0641\u062d\u0629 HTML \u0628\u0646\u0638\u0627\u0645 \u0627\u0644\u062e\u0644\u064a\u0629 = Segment \u0648\u0627\u062d\u062f...");
 ui.progress(0, total);
 function step() {
 if (APP.stop) {
 APP.building = false;
-ui.status("Ã˜ÂªÃ™Â… Ã˜Â¥Ã™ÂŠÃ™Â‚Ã˜Â§Ã™Â Ã˜Â¨Ã™Â†Ã˜Â§Ã˜Â¡ Ã˜Â§Ã™Â„Ã˜Â°Ã˜Â§Ã™ÂƒÃ˜Â±Ã˜Â©.");
+ui.status("\u062a\u0645 \u0625\u064a\u0642\u0627\u0641 \u0628\u0646\u0627\u0621 \u0627\u0644\u0630\u0627\u0643\u0631\u0629.");
 return;
 }
 var end = Math.min(i + 80, total);
@@ -427,13 +427,13 @@ addTMUnits(p.ar.text, p.en.text, i, "cell-pair r" + (i + 1) + " c" + p.ar.cell +
 });
 }
 ui.progress(i, total);
-ui.status("Ã˜Â¨Ã™Â†Ã˜Â§Ã˜Â¡ Ã˜Â§Ã™Â„Ã˜Â°Ã˜Â§Ã™ÂƒÃ˜Â±Ã˜Â©: " + asc(i) + " / " + asc(total) + " Ã¢Â€Â” Ã˜Â®Ã™Â„Ã˜Â§Ã™ÂŠÃ˜Â§ TM: " + asc(APP.tus.length) + " Ã¢Â€Â” Ã˜Â®Ã™Â„Ã˜Â§Ã™ÂŠÃ˜Â§ Ã™Â…Ã™ÂÃ™Â‡Ã˜Â±Ã˜Â³Ã˜Â©: " + asc(APP.cells.length));
+ui.status("\u0628\u0646\u0627\u0621 \u0627\u0644\u0630\u0627\u0643\u0631\u0629: " + asc(i) + " / " + asc(total) + " \u2014 \u062e\u0644\u0627\u064a\u0627 TM: " + asc(APP.tus.length) + " \u2014 \u062e\u0644\u0627\u064a\u0627 \u0645\u0641\u0647\u0631\u0633\u0629: " + asc(APP.cells.length));
 if (i < total) setTimeout(step, 1);
 else {
 APP.built = true;
 APP.building = false;
 ui.progress(total, total);
-ui.status("Ã˜Â§Ã™ÂƒÃ˜ÂªÃ™Â…Ã™Â„ Ã˜Â¨Ã™Â†Ã˜Â§Ã˜Â¡ Ã˜Â§Ã™Â„Ã˜Â°Ã˜Â§Ã™ÂƒÃ˜Â±Ã˜Â© Ã˜Â¨Ã™Â†Ã˜Â¸Ã˜Â§Ã™Â… Ã˜Â§Ã™Â„Ã˜Â®Ã™Â„Ã™ÂŠÃ˜Â© = Segment Ã™ÂˆÃ˜Â§Ã˜Â­Ã˜Â¯. Ã˜Â®Ã™Â„Ã˜Â§Ã™ÂŠÃ˜Â§ TM: " + asc(APP.tus.length) + " Ã¢Â€Â” Ã˜Â®Ã™Â„Ã˜Â§Ã™ÂŠÃ˜Â§ Ã™Â…Ã™ÂÃ™Â‡Ã˜Â±Ã˜Â³Ã˜Â©: " + asc(APP.cells.length));
+ui.status("\u0627\u0643\u062a\u0645\u0644 \u0628\u0646\u0627\u0621 \u0627\u0644\u0630\u0627\u0643\u0631\u0629 \u0628\u0646\u0638\u0627\u0645 \u0627\u0644\u062e\u0644\u064a\u0629 = Segment \u0648\u0627\u062d\u062f. \u062e\u0644\u0627\u064a\u0627 TM: " + asc(APP.tus.length) + " \u2014 \u062e\u0644\u0627\u064a\u0627 \u0645\u0641\u0647\u0631\u0633\u0629: " + asc(APP.cells.length));
 }
 }
 step();
@@ -1255,9 +1255,9 @@ box.id = APP.hostId + "-imported-html-tm";
 box.style.cssText = "display:none!important";
 box.innerHTML = (doc.body && doc.body.innerHTML) || html;
 document.body.appendChild(box);
-ui.status("Ã˜ÂªÃ™Â… Ã˜Â§Ã˜Â³Ã˜ÂªÃ™ÂŠÃ˜Â±Ã˜Â§Ã˜Â¯ HTML. Ã˜Â§Ã™Â„Ã˜ÂµÃ™ÂÃ™ÂˆÃ™Â: " + asc(box.querySelectorAll("tr").length) + " Ã¢Â€Â” Ã˜Â§Ã˜Â¶Ã˜ÂºÃ˜Â· Ã˜Â¨Ã™Â†Ã˜Â§Ã˜Â¡ Ã˜Â°Ã˜Â§Ã™ÂƒÃ˜Â±Ã˜Â© Ã˜Â§Ã™Â„Ã˜ÂªÃ˜Â±Ã˜Â¬Ã™Â…Ã˜Â©.");
+ui.status("\u062a\u0645 \u0627\u0633\u062a\u064a\u0631\u0627\u062f HTML. \u0627\u0644\u0635\u0641\u0648\u0641: " + asc(box.querySelectorAll("tr").length) + " \u2014 \u0627\u0636\u063a\u0637 \u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629.");
 } catch (e) {
-ui.status("Ã™ÂÃ˜Â´Ã™Â„ Ã˜Â§Ã˜Â³Ã˜ÂªÃ™ÂŠÃ˜Â±Ã˜Â§Ã˜Â¯ HTML: " + (e && e.message ? e.message : e));
+ui.status("\u0641\u0634\u0644 \u0627\u0633\u062a\u064a\u0631\u0627\u062f HTML: " + (e && e.message ? e.message : e));
 }
 });
 $("#fileHTML").value = "";
@@ -1308,4 +1308,300 @@ ready(function () {
 try { initUI(); }
 catch (e) { alert("CAT V47 Cell-Segment error: " + (e && e.message ? e.message : e)); }
 });
-ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;if(!s||s.getElementById("importHTML_DB"))return;var side=s.querySelector(".side"),after=s.getElementById("importDOCX"),panel=s.getElementById("panel"),status=s.getElementById("status"),fill=s.getElementById("fill");if(!side||!panel)return;var btn=document.createElement("button"),inp=document.createElement("input");btn.id="importHTML_DB";btn.textContent="Import HTML â†’ IndexedDB";btn.style.background="#0f766e";btn.style.color="#fff";btn.style.borderColor="#0f766e";inp.id="fileHTML_DB";inp.type="file";inp.accept=".html,.htm,text/html";inp.className="hiddenFile";(after&&after.parentNode?after.parentNode:side).insertBefore(btn,after?after.nextSibling:null);panel.appendChild(inp);var DB_NAME="CAT_TM_INDEXEDDB",DB_VER=1;function msg(x){if(status)status.textContent=x}function prog(a,b){if(fill)fill.style.width=(b?Math.round(a/b*100):0)+"%"}function openDB(){return new Promise(function(res,rej){if(!window.indexedDB){rej(new Error("IndexedDB ØºÙŠØ± Ù…Ø¯Ø¹ÙˆÙ… ÙÙŠ Ù‡Ø°Ø§ Ø§Ù„Ù…ØªØµÙØ­."));return}var r=indexedDB.open(DB_NAME,DB_VER);r.onupgradeneeded=function(e){var db=e.target.result,seg,mem;if(!db.objectStoreNames.contains("segments")){seg=db.createObjectStore("segments",{keyPath:"id",autoIncrement:true});seg.createIndex("memoryName","memoryName",{unique:false});seg.createIndex("arNorm","arNorm",{unique:false});seg.createIndex("enNorm","enNorm",{unique:false});seg.createIndex("arCompact","arCompact",{unique:false});seg.createIndex("enCompact","enCompact",{unique:false});seg.createIndex("createdAt","createdAt",{unique:false})}if(!db.objectStoreNames.contains("memories")){mem=db.createObjectStore("memories",{keyPath:"name"});mem.createIndex("importedAt","importedAt",{unique:false})}};r.onsuccess=function(){res(r.result)};r.onerror=function(){rej(r.error||new Error("ØªØ¹Ø°Ø± ÙØªØ­ IndexedDB"))}})}function done(tx){return new Promise(function(res,rej){tx.oncomplete=function(){res()};tx.onerror=function(){rej(tx.error||new Error("IndexedDB transaction error"))};tx.onabort=function(){rej(tx.error||new Error("IndexedDB transaction aborted"))}})}async function deleteMemory(db,name){var tx=db.transaction("segments","readwrite"),st=tx.objectStore("segments"),idx=st.index("memoryName"),req=idx.openCursor(IDBKeyRange.only(name));req.onsuccess=function(e){var c=e.target.result;if(c){c.delete();c.continue()}};await done(tx)}function fallbackPairs(arCells,enCells){var out=[],ar=arCells.slice().sort(function(a,b){return a.cell-b.cell}),en=enCells.slice().sort(function(a,b){return a.cell-b.cell});if(!ar.length||!en.length)return out;if(typeof pairCellsByOrder==="function")return pairCellsByOrder(ar,en);if(ar.length===en.length){for(var i=0;i<ar.length;i++)out.push({ar:ar[i],en:en[i]});return out}if(ar.length===1){en.forEach(function(e){out.push({ar:ar[0],en:e})});return out}if(en.length===1){ar.forEach(function(a){out.push({ar:a,en:en[0]})});return out}var used=Object.create(null);ar.forEach(function(a){var best=-1,dist=1e9;for(var j=0;j<en.length;j++){if(used[j])continue;var d=Math.abs(a.cell-en[j].cell);if(d<dist){dist=d;best=j}}if(best>=0){used[best]=1;out.push({ar:a,en:en[best]})}});return out}function extract(html,memoryName){var doc=new DOMParser().parseFromString(String(html||"").replace(/<script[\s\S]*?<\/script>/gi,"").replace(/<style[\s\S]*?<\/style>/gi,""),"text/html"),rows=Array.prototype.slice.call(doc.querySelectorAll("tr")),seen=Object.create(null),out=[],now=Date.now();rows.forEach(function(r,ri){var cells=Array.prototype.slice.call(r.querySelectorAll("td,th")),arCells=[],enCells=[];cells.forEach(function(c,ci){var tx=flat(c.textContent||"");if(!tx||tx.length<2)return;var ac=arCount(tx),ec=enCount(tx);if(ac>=2)arCells.push({text:tx,row:ri,cell:ci});if(ec>=2)enCells.push({text:tx,row:ri,cell:ci})});fallbackPairs(arCells,enCells).forEach(function(p){var ar=flat(p.ar&&p.ar.text),en=flat(p.en&&p.en.text);if(!ar||!en||!hasAr(ar)||!hasEn(en))return;var k=loose(ar).slice(0,900)+"|"+loose(en).slice(0,900);if(seen[k])return;seen[k]=1;out.push({memoryName:memoryName,ar:ar,en:en,arNorm:loose(ar),enNorm:loose(en),arCompact:compactText(ar),enCompact:compactText(en),rowNo:ri,createdAt:now,source:"html-indexeddb"})})});return out}async function saveSegments(db,name,fileName,records){await deleteMemory(db,name);var tx=db.transaction(["segments","memories"],"readwrite"),seg=tx.objectStore("segments"),mem=tx.objectStore("memories");records.forEach(function(x){seg.add(x)});mem.put({name:name,fileName:fileName,count:records.length,importedAt:Date.now(),type:"html"});await done(tx)}btn.onclick=function(){inp.click()};inp.onchange=async function(){var file=inp.files&&inp.files[0];if(!file)return;try{msg("Ø¬Ø§Ø±ÙŠ Ù‚Ø±Ø§Ø¡Ø© Ù…Ù„Ù HTML ÙˆØ­ÙØ¸Ù‡ ÙÙŠ IndexedDB...");prog(5,100);var html=await file.text(),memoryName=(file.name||"HTML_TM").replace(/\.(html?|HTML?)$/,"");prog(25,100);var records=extract(html,memoryName);if(!records.length){msg("Ù„Ù… ÙŠØªÙ… Ø§Ù„Ø¹Ø«ÙˆØ± Ø¹Ù„Ù‰ Ø£Ø²ÙˆØ§Ø¬ Ø¹Ø±Ø¨ÙŠ/Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠ Ø¯Ø§Ø®Ù„ Ø¬Ø¯Ø§ÙˆÙ„ HTML.");inp.value="";return}prog(55,100);var db=await openDB();await saveSegments(db,memoryName,file.name,records);db.close();prog(100,100);msg("ØªÙ… Ø­ÙØ¸ Ø°Ø§ÙƒØ±Ø© HTML Ø¯Ø§Ø®Ù„ IndexedDB: "+asc(records.length)+" Ø²ÙˆØ¬ ØªØ±Ø¬Ù…ÙŠ â€” Ø§Ù„Ø§Ø³Ù…: "+memoryName)}catch(e){msg("ÙØ´Ù„ Ø­ÙØ¸ HTML ÙÙŠ IndexedDB: "+(e&&e.message?e.message:e))}finally{inp.value=""}}},700)}); ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;if(!s||s.getElementById("loadHTML_DB"))return;var side=s.querySelector(".side"),after=s.getElementById("importHTML_DB")||s.getElementById("importDOCX"),status=s.getElementById("status"),fill=s.getElementById("fill");if(!side)return;var sel=document.createElement("select"),refresh=document.createElement("button"),load=document.createElement("button");sel.id="idbMemorySelect";refresh.id="refreshHTML_DB";load.id="loadHTML_DB";sel.innerHTML="<option value=''>Ø°Ø§ÙƒØ±Ø§Øª IndexedDB...</option>";refresh.textContent="Refresh IndexedDB TM";load.textContent="Load IndexedDB TM";load.style.background="#2563eb";load.style.color="#fff";load.style.borderColor="#2563eb";refresh.style.background="#f8fafc";function ins(el){(after&&after.parentNode?after.parentNode:side).insertBefore(el,after?after.nextSibling:null)}ins(load);ins(refresh);ins(sel);var DB_NAME="CAT_TM_INDEXEDDB",DB_VER=1;function msg(x){if(status)status.textContent=x}function prog(a,b){if(fill)fill.style.width=(b?Math.round(a/b*100):0)+"%"}function openDB(){return new Promise(function(res,rej){if(!window.indexedDB){rej(new Error("IndexedDB ØºÙŠØ± Ù…Ø¯Ø¹ÙˆÙ… ÙÙŠ Ù‡Ø°Ø§ Ø§Ù„Ù…ØªØµÙØ­."));return}var r=indexedDB.open(DB_NAME,DB_VER);r.onupgradeneeded=function(e){var db=e.target.result,seg,mem;if(!db.objectStoreNames.contains("segments")){seg=db.createObjectStore("segments",{keyPath:"id",autoIncrement:true});seg.createIndex("memoryName","memoryName",{unique:false});seg.createIndex("arNorm","arNorm",{unique:false});seg.createIndex("enNorm","enNorm",{unique:false});seg.createIndex("arCompact","arCompact",{unique:false});seg.createIndex("enCompact","enCompact",{unique:false});seg.createIndex("createdAt","createdAt",{unique:false})}if(!db.objectStoreNames.contains("memories")){mem=db.createObjectStore("memories",{keyPath:"name"});mem.createIndex("importedAt","importedAt",{unique:false})}};r.onsuccess=function(){res(r.result)};r.onerror=function(){rej(r.error||new Error("ØªØ¹Ø°Ø± ÙØªØ­ IndexedDB"))}})}function getAllMemories(db){return new Promise(function(res,rej){var tx=db.transaction("memories","readonly"),st=tx.objectStore("memories"),req=st.getAll();req.onsuccess=function(){res(req.result||[])};req.onerror=function(){rej(req.error||new Error("ØªØ¹Ø°Ø± Ù‚Ø±Ø§Ø¡Ø© Ù‚Ø§Ø¦Ù…Ø© Ø§Ù„Ø°ÙˆØ§ÙƒØ±"))}})}function loadSegmentsToAPP(db,name){return new Promise(function(res,rej){resetMemory();APP.stop=false;var count=0,tx=db.transaction("segments","readonly"),st=tx.objectStore("segments"),idx=st.index("memoryName"),req=idx.openCursor(IDBKeyRange.only(name));req.onsuccess=function(e){var c=e.target.result;if(!c){APP.built=APP.tus.length>0;res(count);return}var x=c.value||{};addTU(x.ar||"",x.en||"",x.rowNo||-1,"indexeddb-html");count++;if(count%500===0){msg("Ø¬Ø§Ø±ÙŠ ØªØ­Ù…ÙŠÙ„ Ø°Ø§ÙƒØ±Ø© IndexedDB: "+asc(count)+" Ø²ÙˆØ¬...");prog(Math.min(count,5000),5000)}c.continue()};req.onerror=function(){rej(req.error||new Error("ØªØ¹Ø°Ø± ØªØ­Ù…ÙŠÙ„ Ø§Ù„Ø°Ø§ÙƒØ±Ø© Ù…Ù† IndexedDB"))}})}async function refreshList(){try{msg("Ø¬Ø§Ø±ÙŠ Ù‚Ø±Ø§Ø¡Ø© Ø°ÙˆØ§ÙƒØ± IndexedDB...");var db=await openDB(),arr=await getAllMemories(db);db.close();arr.sort(function(a,b){return(b.importedAt||0)-(a.importedAt||0)});sel.innerHTML="<option value=''>Ø§Ø®ØªØ± Ø°Ø§ÙƒØ±Ø© IndexedDB...</option>"+arr.map(function(m){return"<option value='"+esc(m.name)+"'>"+esc(m.name)+" â€” "+asc(m.count||0)+" Ø²ÙˆØ¬</option>"}).join("");msg(arr.length?"ØªÙ… Ø§Ù„Ø¹Ø«ÙˆØ± Ø¹Ù„Ù‰ "+asc(arr.length)+" Ø°Ø§ÙƒØ±Ø© IndexedDB.":"Ù„Ø§ ØªÙˆØ¬Ø¯ Ø°Ø§ÙƒØ±Ø© Ù…Ø­ÙÙˆØ¸Ø© ÙÙŠ IndexedDB Ø¨Ø¹Ø¯.")}catch(e){msg("ÙØ´Ù„ Ù‚Ø±Ø§Ø¡Ø© IndexedDB: "+(e&&e.message?e.message:e))}}refresh.onclick=refreshList;load.onclick=async function(){var name=sel.value;if(!name){msg("Ø§Ø®ØªØ± Ø°Ø§ÙƒØ±Ø© IndexedDB Ø£ÙˆÙ„Ù‹Ø§.");return}try{msg("Ø¬Ø§Ø±ÙŠ ØªØ­Ù…ÙŠÙ„ Ø§Ù„Ø°Ø§ÙƒØ±Ø© Ø¥Ù„Ù‰ APP.tus...");prog(0,100);var db=await openDB(),n=await loadSegmentsToAPP(db,name);db.close();prog(100,100);msg("ØªÙ… ØªØ­Ù…ÙŠÙ„ Ø°Ø§ÙƒØ±Ø© IndexedDB: "+asc(n)+" Ø²ÙˆØ¬ ØªØ±Ø¬Ù…ÙŠ â€” ÙŠÙ…ÙƒÙ†Ùƒ Ø§Ù„Ø¢Ù† Ø§Ù„Ø¶ØºØ· Ø¹Ù„Ù‰ ØªØ­Ù„ÙŠÙ„ Ø§Ù„Ù†Øµ.")}catch(e){msg("ÙØ´Ù„ ØªØ­Ù…ÙŠÙ„ Ø°Ø§ÙƒØ±Ø© IndexedDB: "+(e&&e.message?e.message:e))}};refreshList()},900)}); ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;if(!s||s.getElementById("saveEdited_DB"))return;var side=s.querySelector(".side"),after=s.getElementById("loadHTML_DB")||s.getElementById("saveProject")||s.getElementById("copy"),status=s.getElementById("status"),fill=s.getElementById("fill");if(!side)return;var btn=document.createElement("button");btn.id="saveEdited_DB";btn.textContent="Save Edited TM â†’ IndexedDB";btn.style.background="#7c3aed";btn.style.color="#fff";btn.style.borderColor="#7c3aed";(after&&after.parentNode?after.parentNode:side).insertBefore(btn,after?after.nextSibling:null);var DB_NAME="CAT_TM_INDEXEDDB",DB_VER=1,USER_MEMORY="User_Edited_TM";function msg(x){if(status)status.textContent=x}function prog(a,b){if(fill)fill.style.width=(b?Math.round(a/b*100):0)+"%"}function openDB(){return new Promise(function(res,rej){if(!window.indexedDB){rej(new Error("IndexedDB ØºÙŠØ± Ù…Ø¯Ø¹ÙˆÙ… ÙÙŠ Ù‡Ø°Ø§ Ø§Ù„Ù…ØªØµÙØ­."));return}var r=indexedDB.open(DB_NAME,DB_VER);r.onupgradeneeded=function(e){var db=e.target.result,seg,mem;if(!db.objectStoreNames.contains("segments")){seg=db.createObjectStore("segments",{keyPath:"id",autoIncrement:true});seg.createIndex("memoryName","memoryName",{unique:false});seg.createIndex("arNorm","arNorm",{unique:false});seg.createIndex("enNorm","enNorm",{unique:false});seg.createIndex("arCompact","arCompact",{unique:false});seg.createIndex("enCompact","enCompact",{unique:false});seg.createIndex("createdAt","createdAt",{unique:false})}if(!db.objectStoreNames.contains("memories")){mem=db.createObjectStore("memories",{keyPath:"name"});mem.createIndex("importedAt","importedAt",{unique:false})}};r.onsuccess=function(){res(r.result)};r.onerror=function(){rej(r.error||new Error("ØªØ¹Ø°Ø± ÙØªØ­ IndexedDB"))}})}function done(tx){return new Promise(function(res,rej){tx.oncomplete=function(){res()};tx.onerror=function(){rej(tx.error||new Error("IndexedDB transaction error"))};tx.onabort=function(){rej(tx.error||new Error("IndexedDB transaction aborted"))}})}function syncTargetsFromUI(){var boxes=Array.prototype.slice.call(s.querySelectorAll(".targetDraft"));boxes.forEach(function(b){var i=+b.getAttribute("data-i");if(APP.results&&APP.results[i])APP.results[i].target=b.value||""})}function makeRecords(){syncTargetsFromUI();var now=Date.now(),seen=Object.create(null),out=[];(APP.results||[]).forEach(function(r,i){var src=flat(r&&r.segment&&r.segment.text),trg=flat(r&&r.target);if(!src||!trg)return;var ar="",en="";if(hasAr(src)&&hasEn(trg)){ar=src;en=trg}else if(hasEn(src)&&hasAr(trg)){ar=trg;en=src}else{return}var k=loose(ar).slice(0,900)+"|"+loose(en).slice(0,900);if(seen[k])return;seen[k]=1;out.push({memoryName:USER_MEMORY,ar:ar,en:en,arNorm:loose(ar),enNorm:loose(en),arCompact:compactText(ar),enCompact:compactText(en),rowNo:-1,createdAt:now,updatedAt:now,score:+(r.score||0),status:r.status||"Edited",source:"user-edited-result",resultNo:i+1})});return out}function existingKeys(db,name){return new Promise(function(res,rej){var set=Object.create(null),n=0,tx=db.transaction("segments","readonly"),st=tx.objectStore("segments"),idx=st.index("memoryName"),req=idx.openCursor(IDBKeyRange.only(name));req.onsuccess=function(e){var c=e.target.result;if(!c){res({set:set,count:n});return}var x=c.value||{},k=loose(x.ar||"").slice(0,900)+"|"+loose(x.en||"").slice(0,900);if(k&&!set[k]){set[k]=1;n++}c.continue()};req.onerror=function(){rej(req.error||new Error("ØªØ¹Ø°Ø± Ù‚Ø±Ø§Ø¡Ø© Ø§Ù„Ø°Ø§ÙƒØ±Ø© Ø§Ù„Ø³Ø§Ø¨Ù‚Ø©"))}})}async function saveRecords(db,records){var old=await existingKeys(db,USER_MEMORY),fresh=records.filter(function(x){var k=loose(x.ar||"").slice(0,900)+"|"+loose(x.en||"").slice(0,900);return k&&!old.set[k]});if(!fresh.length)return{added:0,total:old.count};var tx=db.transaction(["segments","memories"],"readwrite"),seg=tx.objectStore("segments"),mem=tx.objectStore("memories");fresh.forEach(function(x){seg.add(x)});mem.put({name:USER_MEMORY,fileName:"User edited translations",count:old.count+fresh.length,importedAt:Date.now(),updatedAt:Date.now(),type:"user-edited-results"});await done(tx);return{added:fresh.length,total:old.count+fresh.length}}btn.onclick=async function(){try{if(!APP.results||!APP.results.length){msg("Ù„Ø§ ØªÙˆØ¬Ø¯ Ù†ØªØ§Ø¦Ø¬ Ù„Ø­ÙØ¸Ù‡Ø§. Ø­Ù„Ù‘Ù„ Ù†ØµÙ‹Ø§ Ø£ÙˆÙ„Ù‹Ø§ Ø«Ù… Ø¹Ø¯Ù‘Ù„ Target Draft.");return}msg("Ø¬Ø§Ø±ÙŠ Ø­ÙØ¸ Ø§Ù„ØªØ±Ø¬Ù…Ø§Øª Ø§Ù„Ù…Ø¹Ø¯Ù‘Ù„Ø© ÙÙŠ IndexedDB...");prog(15,100);var records=makeRecords();if(!records.length){msg("Ù„Ù… Ø£Ø¬Ø¯ Ø£Ø²ÙˆØ§Ø¬Ù‹Ø§ ØµØ§Ù„Ø­Ø© Ù„Ù„Ø­ÙØ¸: ÙŠØ¬Ø¨ ÙˆØ¬ÙˆØ¯ Ø¹Ø±Ø¨ÙŠ Ù…Ù‚Ø§Ø¨Ù„ Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠ ÙÙŠ Target Draft.");prog(0,0);return}prog(45,100);var db=await openDB(),r=await saveRecords(db,records);db.close();records.forEach(function(x){addTU(x.ar,x.en,-2,"indexeddb-user-edited")});APP.built=APP.tus.length>0;prog(100,100);msg("ØªÙ… Ø­ÙØ¸ Ø§Ù„ØªØ±Ø¬Ù…Ø§Øª ÙÙŠ IndexedDB â€” Ø§Ù„Ù…Ø¶Ø§ÙØ©: "+asc(r.added)+" â€” Ø¥Ø¬Ù…Ø§Ù„ÙŠ Ø°Ø§ÙƒØ±Ø© User_Edited_TM: "+asc(r.total))}catch(e){msg("ÙØ´Ù„ Ø­ÙØ¸ Ø§Ù„ØªØ±Ø¬Ù…Ø§Øª ÙÙŠ IndexedDB: "+(e&&e.message?e.message:e))}}},1100)}); ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;if(!s||s.getElementById("focusModeBtn"))return;var panel=s.getElementById("panel"),tools=s.querySelector(".topTools"),src=s.getElementById("toggleSourceIcon"),status=s.getElementById("status");if(!panel||!tools)return;var st=document.createElement("style");st.id="catFocusModeStyle";st.textContent=".panel.focusMode .side{display:none!important}.panel.focusMode .body{grid-template-columns:minmax(0,1fr)!important;gap:0!important;padding:12px!important}.panel.focusMode .mainbox{grid-column:1/-1!important;width:100%!important}.panel.focusMode .tablewrap{flex:1 1 auto!important;min-height:0!important}.panel.focusMode table{width:100%!important}.panel.focusMode .src{width:28%!important}.panel.focusMode .best{width:30%!important}.panel.focusMode .target{width:32%!important}#focusModeBtn{background:#111827;color:#fff;border-color:#111827}#focusModeBtn.on{background:#7c3aed!important;color:#fff!important;border-color:#7c3aed!important}";s.appendChild(st);var b=document.createElement("button");b.id="focusModeBtn";b.className="iconBtn";b.textContent="Focus";b.title="Ø¥Ø®ÙØ§Ø¡ Ø§Ù„Ø£ÙŠÙ‚ÙˆÙ†Ø§Øª Ø§Ù„ÙŠÙ…Ù†Ù‰ ÙˆØªÙˆØ³ÙŠØ¹ Ù„ÙˆØ­Ø© Ø§Ù„Ù†ØªØ§Ø¦Ø¬";b.onclick=function(){var on=panel.classList.toggle("focusMode");b.classList.toggle("on",on);b.textContent=on?"Exit":"Focus";if(status)status.textContent=on?"ØªÙ… ØªÙØ¹ÙŠÙ„ Focus: ØªÙ… Ø¥Ø®ÙØ§Ø¡ Ø§Ù„Ø£ÙŠÙ‚ÙˆÙ†Ø§Øª Ø§Ù„ÙŠÙ…Ù†Ù‰ ÙˆØªÙˆØ³ÙŠØ¹ Ù„ÙˆØ­Ø© Ø§Ù„Ù†ØªØ§Ø¦Ø¬.":"ØªÙ… Ø¥Ù„ØºØ§Ø¡ Focus: Ø¹Ø§Ø¯Øª Ø§Ù„Ø£ÙŠÙ‚ÙˆÙ†Ø§Øª Ø§Ù„ÙŠÙ…Ù†Ù‰."};if(src&&src.parentNode)src.parentNode.insertBefore(b,src.nextSibling);else tools.appendChild(b)},700)});})();
+
+/* =========================================================
+IndexedDB TM Add-ons + Focus Mode - Clean UTF-8 / ASCII-safe
+========================================================= */
+ready(function(){setTimeout(function(){
+var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;
+if(!s||s.getElementById("importHTML_DB"))return;
+var side=s.querySelector(".side"),after=s.getElementById("importDOCX"),panel=s.getElementById("panel"),status=s.getElementById("status"),fill=s.getElementById("fill");
+if(!side||!panel)return;
+var btn=document.createElement("button"),inp=document.createElement("input");
+btn.id="importHTML_DB";
+btn.textContent="Import HTML to IndexedDB";
+btn.style.background="#0f766e";
+btn.style.color="#fff";
+btn.style.borderColor="#0f766e";
+inp.id="fileHTML_DB";
+inp.type="file";
+inp.accept=".html,.htm,text/html";
+inp.className="hiddenFile";
+(after&&after.parentNode?after.parentNode:side).insertBefore(btn,after?after.nextSibling:null);
+panel.appendChild(inp);
+var DB_NAME="CAT_TM_INDEXEDDB",DB_VER=1;
+function msg(x){if(status)status.textContent=x}
+function prog(a,b){if(fill)fill.style.width=(b?Math.round(a/b*100):0)+"%"}
+function openDB(){return new Promise(function(res,rej){
+if(!window.indexedDB){rej(new Error("IndexedDB is not supported in this browser."));return}
+var r=indexedDB.open(DB_NAME,DB_VER);
+r.onupgradeneeded=function(e){
+var db=e.target.result,seg,mem;
+if(!db.objectStoreNames.contains("segments")){
+seg=db.createObjectStore("segments",{keyPath:"id",autoIncrement:true});
+seg.createIndex("memoryName","memoryName",{unique:false});
+seg.createIndex("arNorm","arNorm",{unique:false});
+seg.createIndex("enNorm","enNorm",{unique:false});
+seg.createIndex("arCompact","arCompact",{unique:false});
+seg.createIndex("enCompact","enCompact",{unique:false});
+seg.createIndex("createdAt","createdAt",{unique:false});
+}
+if(!db.objectStoreNames.contains("memories")){
+mem=db.createObjectStore("memories",{keyPath:"name"});
+mem.createIndex("importedAt","importedAt",{unique:false});
+}
+};
+r.onsuccess=function(){res(r.result)};
+r.onerror=function(){rej(r.error||new Error("Could not open IndexedDB."))};
+})}
+function done(tx){return new Promise(function(res,rej){
+tx.oncomplete=function(){res()};
+tx.onerror=function(){rej(tx.error||new Error("IndexedDB transaction error"))};
+tx.onabort=function(){rej(tx.error||new Error("IndexedDB transaction aborted"))};
+})}
+async function deleteMemory(db,name){
+var tx=db.transaction("segments","readwrite"),st=tx.objectStore("segments"),idx=st.index("memoryName"),req=idx.openCursor(IDBKeyRange.only(name));
+req.onsuccess=function(e){var c=e.target.result;if(c){c.delete();c.continue()}};
+await done(tx);
+}
+function fallbackPairs(arCells,enCells){
+var out=[],ar=arCells.slice().sort(function(a,b){return a.cell-b.cell}),en=enCells.slice().sort(function(a,b){return a.cell-b.cell});
+if(!ar.length||!en.length)return out;
+if(typeof pairCellsByOrder==="function")return pairCellsByOrder(ar,en);
+if(ar.length===en.length){for(var i=0;i<ar.length;i++)out.push({ar:ar[i],en:en[i]});return out}
+if(ar.length===1){en.forEach(function(e){out.push({ar:ar[0],en:e})});return out}
+if(en.length===1){ar.forEach(function(a){out.push({ar:a,en:en[0]})});return out}
+var used=Object.create(null);
+ar.forEach(function(a){var best=-1,dist=1e9;for(var j=0;j<en.length;j++){if(used[j])continue;var d=Math.abs(a.cell-en[j].cell);if(d<dist){dist=d;best=j}}if(best>=0){used[best]=1;out.push({ar:a,en:en[best]})}});
+return out;
+}
+function extract(html,memoryName){
+var doc=new DOMParser().parseFromString(String(html||"").replace(/<script[\s\S]*?<\/script>/gi,"").replace(/<style[\s\S]*?<\/style>/gi,""),"text/html"),rows=Array.prototype.slice.call(doc.querySelectorAll("tr")),seen=Object.create(null),out=[],now=Date.now();
+rows.forEach(function(r,ri){
+var cells=Array.prototype.slice.call(r.querySelectorAll("td,th")),arCells=[],enCells=[];
+cells.forEach(function(c,ci){var tx=flat(c.textContent||"");if(!tx||tx.length<2)return;var ac=arCount(tx),ec=enCount(tx);if(ac>=2)arCells.push({text:tx,row:ri,cell:ci});if(ec>=2)enCells.push({text:tx,row:ri,cell:ci})});
+fallbackPairs(arCells,enCells).forEach(function(p){var ar=flat(p.ar&&p.ar.text),en=flat(p.en&&p.en.text);if(!ar||!en||!hasAr(ar)||!hasEn(en))return;var k=loose(ar).slice(0,900)+"|"+loose(en).slice(0,900);if(seen[k])return;seen[k]=1;out.push({memoryName:memoryName,ar:ar,en:en,arNorm:loose(ar),enNorm:loose(en),arCompact:compactText(ar),enCompact:compactText(en),rowNo:ri,createdAt:now,source:"html-indexeddb"})});
+});
+return out;
+}
+async function saveSegments(db,name,fileName,records){
+await deleteMemory(db,name);
+var tx=db.transaction(["segments","memories"],"readwrite"),seg=tx.objectStore("segments"),mem=tx.objectStore("memories");
+records.forEach(function(x){seg.add(x)});
+mem.put({name:name,fileName:fileName,count:records.length,importedAt:Date.now(),type:"html"});
+await done(tx);
+}
+btn.onclick=function(){inp.click()};
+inp.onchange=async function(){
+var file=inp.files&&inp.files[0];if(!file)return;
+try{
+msg("Reading HTML and saving it to IndexedDB...");prog(5,100);
+var html=await file.text(),memoryName=(file.name||"HTML_TM").replace(/\.(html?|HTML?)$/,"" );prog(25,100);
+var records=extract(html,memoryName);
+if(!records.length){msg("No Arabic/English pairs were found inside HTML tables.");inp.value="";return}
+prog(55,100);
+var db=await openDB();await saveSegments(db,memoryName,file.name,records);db.close();prog(100,100);
+msg("HTML TM saved to IndexedDB: "+asc(records.length)+" pairs - name: "+memoryName);
+}catch(e){msg("Failed to save HTML in IndexedDB: "+(e&&e.message?e.message:e))}
+finally{inp.value=""}
+};
+},700)});
+
+ready(function(){setTimeout(function(){
+var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;
+if(!s||s.getElementById("loadHTML_DB"))return;
+var side=s.querySelector(".side"),after=s.getElementById("importHTML_DB")||s.getElementById("importDOCX"),status=s.getElementById("status"),fill=s.getElementById("fill");
+if(!side)return;
+var sel=document.createElement("select"),refresh=document.createElement("button"),load=document.createElement("button");
+sel.id="idbMemorySelect";
+refresh.id="refreshHTML_DB";
+load.id="loadHTML_DB";
+sel.innerHTML="<option value=''>Select IndexedDB TM...</option>";
+refresh.textContent="Refresh IndexedDB TM";
+load.textContent="Load IndexedDB TM";
+load.style.background="#2563eb";
+load.style.color="#fff";
+load.style.borderColor="#2563eb";
+refresh.style.background="#f8fafc";
+function ins(el){(after&&after.parentNode?after.parentNode:side).insertBefore(el,after?after.nextSibling:null)}
+ins(load);ins(refresh);ins(sel);
+var DB_NAME="CAT_TM_INDEXEDDB",DB_VER=1;
+function msg(x){if(status)status.textContent=x}
+function prog(a,b){if(fill)fill.style.width=(b?Math.round(a/b*100):0)+"%"}
+function openDB(){return new Promise(function(res,rej){
+if(!window.indexedDB){rej(new Error("IndexedDB is not supported in this browser."));return}
+var r=indexedDB.open(DB_NAME,DB_VER);
+r.onupgradeneeded=function(e){
+var db=e.target.result,seg,mem;
+if(!db.objectStoreNames.contains("segments")){
+seg=db.createObjectStore("segments",{keyPath:"id",autoIncrement:true});
+seg.createIndex("memoryName","memoryName",{unique:false});
+seg.createIndex("arNorm","arNorm",{unique:false});
+seg.createIndex("enNorm","enNorm",{unique:false});
+seg.createIndex("arCompact","arCompact",{unique:false});
+seg.createIndex("enCompact","enCompact",{unique:false});
+seg.createIndex("createdAt","createdAt",{unique:false});
+}
+if(!db.objectStoreNames.contains("memories")){
+mem=db.createObjectStore("memories",{keyPath:"name"});
+mem.createIndex("importedAt","importedAt",{unique:false});
+}
+};
+r.onsuccess=function(){res(r.result)};
+r.onerror=function(){rej(r.error||new Error("Could not open IndexedDB."))};
+})}
+function getAllMemories(db){return new Promise(function(res,rej){
+var tx=db.transaction("memories","readonly"),st=tx.objectStore("memories"),req=st.getAll();
+req.onsuccess=function(){res(req.result||[])};
+req.onerror=function(){rej(req.error||new Error("Could not read TM list."))};
+})}
+function loadSegmentsToAPP(db,name){return new Promise(function(res,rej){
+resetMemory();APP.stop=false;
+var count=0,tx=db.transaction("segments","readonly"),st=tx.objectStore("segments"),idx=st.index("memoryName"),req=idx.openCursor(IDBKeyRange.only(name));
+req.onsuccess=function(e){
+var c=e.target.result;
+if(!c){APP.built=APP.tus.length>0;res(count);return}
+var x=c.value||{};
+addTU(x.ar||"",x.en||"",x.rowNo||-1,"indexeddb-html");
+count++;
+if(count%500===0){msg("Loading IndexedDB TM: "+asc(count)+" pairs...");prog(Math.min(count,5000),5000)}
+c.continue();
+};
+req.onerror=function(){rej(req.error||new Error("Could not load TM from IndexedDB."))};
+})}
+async function refreshList(){
+try{
+msg("Reading IndexedDB memories...");
+var db=await openDB(),arr=await getAllMemories(db);db.close();
+arr.sort(function(a,b){return(b.importedAt||0)-(a.importedAt||0)});
+sel.innerHTML="<option value=''>Select IndexedDB TM...</option>"+arr.map(function(m){return"<option value='"+esc(m.name)+"'>"+esc(m.name)+" - "+asc(m.count||0)+" pairs</option>"}).join("");
+msg(arr.length?"IndexedDB memories found: "+asc(arr.length):"No IndexedDB TM has been saved yet.");
+}catch(e){msg("Failed to read IndexedDB: "+(e&&e.message?e.message:e))}
+}
+refresh.onclick=refreshList;
+load.onclick=async function(){
+var name=sel.value;
+if(!name){msg("Select an IndexedDB TM first.");return}
+try{
+msg("Loading selected TM into APP.tus...");prog(0,100);
+var db=await openDB(),n=await loadSegmentsToAPP(db,name);db.close();prog(100,100);
+msg("IndexedDB TM loaded: "+asc(n)+" pairs. You can now press Analyze.");
+}catch(e){msg("Failed to load IndexedDB TM: "+(e&&e.message?e.message:e))}
+};
+refreshList();
+},900)});
+
+ready(function(){setTimeout(function(){
+var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;
+if(!s||s.getElementById("saveEdited_DB"))return;
+var side=s.querySelector(".side"),after=s.getElementById("loadHTML_DB")||s.getElementById("saveProject")||s.getElementById("copy"),status=s.getElementById("status"),fill=s.getElementById("fill");
+if(!side)return;
+var btn=document.createElement("button");
+btn.id="saveEdited_DB";
+btn.textContent="Save Edited TM to IndexedDB";
+btn.style.background="#7c3aed";
+btn.style.color="#fff";
+btn.style.borderColor="#7c3aed";
+(after&&after.parentNode?after.parentNode:side).insertBefore(btn,after?after.nextSibling:null);
+var DB_NAME="CAT_TM_INDEXEDDB",DB_VER=1,USER_MEMORY="User_Edited_TM";
+function msg(x){if(status)status.textContent=x}
+function prog(a,b){if(fill)fill.style.width=(b?Math.round(a/b*100):0)+"%"}
+function openDB(){return new Promise(function(res,rej){
+if(!window.indexedDB){rej(new Error("IndexedDB is not supported in this browser."));return}
+var r=indexedDB.open(DB_NAME,DB_VER);
+r.onupgradeneeded=function(e){
+var db=e.target.result,seg,mem;
+if(!db.objectStoreNames.contains("segments")){
+seg=db.createObjectStore("segments",{keyPath:"id",autoIncrement:true});
+seg.createIndex("memoryName","memoryName",{unique:false});
+seg.createIndex("arNorm","arNorm",{unique:false});
+seg.createIndex("enNorm","enNorm",{unique:false});
+seg.createIndex("arCompact","arCompact",{unique:false});
+seg.createIndex("enCompact","enCompact",{unique:false});
+seg.createIndex("createdAt","createdAt",{unique:false});
+}
+if(!db.objectStoreNames.contains("memories")){
+mem=db.createObjectStore("memories",{keyPath:"name"});
+mem.createIndex("importedAt","importedAt",{unique:false});
+}
+};
+r.onsuccess=function(){res(r.result)};
+r.onerror=function(){rej(r.error||new Error("Could not open IndexedDB."))};
+})}
+function done(tx){return new Promise(function(res,rej){
+tx.oncomplete=function(){res()};
+tx.onerror=function(){rej(tx.error||new Error("IndexedDB transaction error"))};
+tx.onabort=function(){rej(tx.error||new Error("IndexedDB transaction aborted"))};
+})}
+function syncTargetsFromUI(){
+var boxes=Array.prototype.slice.call(s.querySelectorAll(".targetDraft"));
+boxes.forEach(function(b){var i=+b.getAttribute("data-i");if(APP.results&&APP.results[i])APP.results[i].target=b.value||""});
+}
+function makeRecords(){
+syncTargetsFromUI();
+var now=Date.now(),seen=Object.create(null),out=[];
+(APP.results||[]).forEach(function(r,i){
+var src=flat(r&&r.segment&&r.segment.text),trg=flat(r&&r.target);
+if(!src||!trg)return;
+var ar="",en="";
+if(hasAr(src)&&hasEn(trg)){ar=src;en=trg}else if(hasEn(src)&&hasAr(trg)){ar=trg;en=src}else{return}
+var k=loose(ar).slice(0,900)+"|"+loose(en).slice(0,900);
+if(seen[k])return;
+seen[k]=1;
+out.push({memoryName:USER_MEMORY,ar:ar,en:en,arNorm:loose(ar),enNorm:loose(en),arCompact:compactText(ar),enCompact:compactText(en),rowNo:-1,createdAt:now,updatedAt:now,score:+(r.score||0),status:r.status||"Edited",source:"user-edited-result",resultNo:i+1});
+});
+return out;
+}
+function existingKeys(db,name){return new Promise(function(res,rej){
+var set=Object.create(null),n=0,tx=db.transaction("segments","readonly"),st=tx.objectStore("segments"),idx=st.index("memoryName"),req=idx.openCursor(IDBKeyRange.only(name));
+req.onsuccess=function(e){var c=e.target.result;if(!c){res({set:set,count:n});return}var x=c.value||{},k=loose(x.ar||"").slice(0,900)+"|"+loose(x.en||"").slice(0,900);if(k&&!set[k]){set[k]=1;n++}c.continue()};
+req.onerror=function(){rej(req.error||new Error("Could not read previous TM."))};
+})}
+async function saveRecords(db,records){
+var old=await existingKeys(db,USER_MEMORY),fresh=records.filter(function(x){var k=loose(x.ar||"").slice(0,900)+"|"+loose(x.en||"").slice(0,900);return k&&!old.set[k]});
+if(!fresh.length)return{added:0,total:old.count};
+var tx=db.transaction(["segments","memories"],"readwrite"),seg=tx.objectStore("segments"),mem=tx.objectStore("memories");
+fresh.forEach(function(x){seg.add(x)});
+mem.put({name:USER_MEMORY,fileName:"User edited translations",count:old.count+fresh.length,importedAt:Date.now(),updatedAt:Date.now(),type:"user-edited-results"});
+await done(tx);
+return{added:fresh.length,total:old.count+fresh.length};
+}
+btn.onclick=async function(){
+try{
+if(!APP.results||!APP.results.length){msg("No results to save. Analyze text first, then edit Target Draft.");return}
+msg("Saving edited translations in IndexedDB...");prog(15,100);
+var records=makeRecords();
+if(!records.length){msg("No valid Arabic/English pairs found for saving.");prog(0,0);return}
+prog(45,100);
+var db=await openDB(),r=await saveRecords(db,records);db.close();
+records.forEach(function(x){addTU(x.ar,x.en,-2,"indexeddb-user-edited")});
+APP.built=APP.tus.length>0;prog(100,100);
+msg("Edited translations saved. Added: "+asc(r.added)+" - total User_Edited_TM: "+asc(r.total));
+}catch(e){msg("Failed to save edited translations: "+(e&&e.message?e.message:e))}
+};
+},1100)});
+
+ready(function(){setTimeout(function(){
+var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;
+if(!s||s.getElementById("focusModeBtn"))return;
+var panel=s.getElementById("panel"),tools=s.querySelector(".topTools"),src=s.getElementById("toggleSourceIcon"),status=s.getElementById("status");
+if(!panel||!tools)return;
+var st=document.createElement("style");
+st.id="catFocusModeStyle";
+st.textContent=".panel.focusMode .side{display:none!important}.panel.focusMode .body{grid-template-columns:minmax(0,1fr)!important;gap:0!important;padding:12px!important}.panel.focusMode .mainbox{grid-column:1/-1!important;width:100%!important}.panel.focusMode .tablewrap{flex:1 1 auto!important;min-height:0!important}.panel.focusMode table{width:100%!important}.panel.focusMode .src{width:28%!important}.panel.focusMode .best{width:30%!important}.panel.focusMode .target{width:32%!important}#focusModeBtn{background:#111827;color:#fff;border-color:#111827}#focusModeBtn.on{background:#7c3aed!important;color:#fff!important;border-color:#7c3aed!important}";
+s.appendChild(st);
+var b=document.createElement("button");
+b.id="focusModeBtn";
+b.className="iconBtn";
+b.textContent="Focus";
+b.title="Hide side buttons and expand results area";
+b.onclick=function(){
+var on=panel.classList.toggle("focusMode");
+b.classList.toggle("on",on);
+b.textContent=on?"Exit":"Focus";
+if(status)status.textContent=on?"Focus mode enabled: side buttons hidden and results area expanded.":"Focus mode disabled: side buttons restored.";
+};
+if(src&&src.parentNode)src.parentNode.insertBefore(b,src.nextSibling);else tools.appendChild(b);
+},700)});
+
+})();
