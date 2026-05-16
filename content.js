@@ -1815,6 +1815,313 @@ totalTUs: APP.tus.length,
 maxCells: APP.smartJoin.maxCells
 };
 };
+/* =========================================================
+V47.2 Loaded TM Joined Search Add-on
+- Searches already-loaded APP.tus directly
+- Finds source text even if it exists across multiple adjacent TM cells
+- Returns joined target from the corresponding adjacent target cells
+- Designed for IndexedDB TM and HTML-built TM
+========================================================= */
+(function installLoadedTMJoinedSearch() {
+if (APP.__loadedTMJoinedSearchInstalled) return;
+APP.__loadedTMJoinedSearchInstalled = true;
 
+APP.loadedJoinSearch = {
+enabled: true,
+maxCells: 5,
+minScore: 88,
+overrideMargin: 2,
+maxJoinedSourceChars: 2400,
+maxJoinedTargetChars: 2400,
+maxSingleCellChars: 1200,
+cacheKey: "",
+windows: [],
+exact: { ar: Object.create(null), en: Object.create(null) },
+compact: { ar: Object.create(null), en: Object.create(null) },
+tokenIndex: { ar: Object.create(null), en: Object.create(null) }
+};
+
+function ljModeIsJoined(mode) {
+return /joined|smart-joined|multi-cell|loaded-joined/i.test(String(mode || ""));
+}
+
+function ljBoundaryText(s) {
+var raw = flat(s || "");
+if (!raw) return true;
+
+var n = loose(raw);
+
+if (/^(?:الماده|ماده|الباب|باب|الفصل|فصل|القسم|قسم|الفرع|فرع|الجزء|جزء)\b/.test(n)) return true;
+if (/^(?:chapter|part|section|subsection|division|schedule|annex|appendix)\b/i.test(n)) return true;
+
+return false;
+}
+
+function ljCanJoin(prev, next) {
+if (!prev || !next) return false;
+
+if (ljModeIsJoined(prev.mode) || ljModeIsJoined(next.mode)) return false;
+
+if (!prev.ar || !prev.en || !next.ar || !next.en) return false;
+if (!hasAr(prev.ar) || !hasEn(prev.en) || !hasAr(next.ar) || !hasEn(next.en)) return false;
+
+if (prev.ar.length > APP.loadedJoinSearch.maxSingleCellChars) return false;
+if (prev.en.length > APP.loadedJoinSearch.maxSingleCellChars) return false;
+if (next.ar.length > APP.loadedJoinSearch.maxSingleCellChars) return false;
+if (next.en.length > APP.loadedJoinSearch.maxSingleCellChars) return false;
+
+var r1 = +prev.row;
+var r2 = +next.row;
+
+if (isFinite(r1) && isFinite(r2) && r1 >= 0 && r2 >= 0) {
+var gap = r2 - r1;
+if (gap < 0 || gap > 3) return false;
+}
+
+/* لا يبدأ الضم من عنوان جديد */
+if (ljBoundaryText(next.ar) || ljBoundaryText(next.en)) return false;
+
+return true;
+}
+
+function ljAddMap(map, key, id) {
+if (!key) return;
+var a = map[key];
+if (!a) a = map[key] = [];
+a.push(id);
+}
+
+function ljAddToken(index, l, token, id) {
+if (!token) return;
+var a = index[l][token];
+if (!a) a = index[l][token] = [];
+a.push(id);
+}
+
+function ljBuildIndex() {
+var cfg = APP.loadedJoinSearch;
+if (!cfg.enabled) return;
+
+var tus = APP.tus || [];
+var last = tus.length ? tus[tus.length - 1] : null;
+var key = tus.length + "|" + (last ? last.id + "|" + last.row + "|" + last.mode : "");
+
+if (cfg.cacheKey === key) return;
+
+cfg.cacheKey = key;
+cfg.windows = [];
+cfg.exact = { ar: Object.create(null), en: Object.create(null) };
+cfg.compact = { ar: Object.create(null), en: Object.create(null) };
+cfg.tokenIndex = { ar: Object.create(null), en: Object.create(null) };
+
+var base = tus.filter(function (tu) {
+return tu &&
+!ljModeIsJoined(tu.mode) &&
+tu.ar && tu.en &&
+hasAr(tu.ar) &&
+hasEn(tu.en);
+}).slice();
+
+base.sort(function (a, b) {
+var ar = +a.row;
+var br = +b.row;
+if (isFinite(ar) && isFinite(br) && ar !== br) return ar - br;
+return (+a.id || 0) - (+b.id || 0);
+});
+
+for (var i = 0; i < base.length; i++) {
+var arParts = [];
+var enParts = [];
+var rows = [];
+var lastTu = null;
+
+for (var n = 1; n <= cfg.maxCells; n++) {
+var tu = base[i + n - 1];
+if (!tu) break;
+
+if (n > 1 && !ljCanJoin(lastTu, tu)) break;
+
+arParts.push(flat(tu.ar || ""));
+enParts.push(flat(tu.en || ""));
+rows.push(+tu.row || 0);
+
+var joinedAr = flat(arParts.join(" "));
+var joinedEn = flat(enParts.join(" "));
+
+if (joinedAr.length > cfg.maxJoinedSourceChars) break;
+if (joinedEn.length > cfg.maxJoinedTargetChars) break;
+
+if (n >= 2 && joinedAr && joinedEn) {
+var id = cfg.windows.length;
+var arP = profile(joinedAr, "ar");
+var enP = profile(joinedEn, "en");
+
+var w = {
+id: id,
+ar: joinedAr,
+en: joinedEn,
+arP: arP,
+enP: enP,
+count: n,
+rowStart: rows[0],
+rowEnd: rows[rows.length - 1]
+};
+
+cfg.windows.push(w);
+
+ljAddMap(cfg.exact.ar, arP.nl, id);
+ljAddMap(cfg.exact.en, enP.nl, id);
+ljAddMap(cfg.compact.ar, arP.compact, id);
+ljAddMap(cfg.compact.en, enP.compact, id);
+
+arP.t.slice(0, APP.config.maxIndexTokens).forEach(function (t) {
+ljAddToken(cfg.tokenIndex, "ar", t, id);
+});
+
+enP.t.slice(0, APP.config.maxIndexTokens).forEach(function (t) {
+ljAddToken(cfg.tokenIndex, "en", t, id);
+});
+}
+
+lastTu = tu;
+}
+}
+}
+
+function ljCandidates(q, l) {
+var cfg = APP.loadedJoinSearch;
+var out = [];
+var seen = Object.create(null);
+
+function addIds(arr) {
+if (!arr) return;
+for (var i = 0; i < arr.length; i++) {
+var id = arr[i];
+if (!seen[id]) {
+seen[id] = 1;
+out.push(id);
+if (out.length > 4000) return;
+}
+}
+}
+
+addIds(cfg.exact[l][q.nl]);
+addIds(cfg.compact[l][q.compact]);
+
+if (out.length >= 20) return out;
+
+var tokens = q.t.slice(0, 18)
+.map(function (t) {
+var arr = cfg.tokenIndex[l][t] || [];
+return { t: t, c: arr.length };
+})
+.filter(function (x) { return x.c; })
+.sort(function (a, b) { return a.c - b.c; })
+.slice(0, 14);
+
+tokens.forEach(function (x) {
+addIds(cfg.tokenIndex[l][x.t]);
+});
+
+return out;
+}
+
+function ljSearchJoined(seg, l) {
+var cfg = APP.loadedJoinSearch;
+if (!cfg.enabled) return null;
+
+seg = flat(seg || "");
+if (!seg || seg.length < 8) return null;
+
+ljBuildIndex();
+
+if (!cfg.windows.length) return null;
+
+var q = profile(seg, l);
+var ids = ljCandidates(q, l);
+
+var best = null;
+
+for (var i = 0; i < ids.length; i++) {
+var w = cfg.windows[ids[i]];
+if (!w) continue;
+
+var srcP = l === "ar" ? w.arP : w.enP;
+var kind = exactKind(q, srcP);
+var sc = kind ? 100 : scoreProfiles(q, srcP);
+
+if (!sameNumbers(seg, l === "ar" ? w.ar : w.en)) continue;
+
+if (!best || sc > best.score) {
+var target = l === "ar" ? w.en : w.ar;
+var sourceFound = l === "ar" ? w.ar : w.en;
+var targetLang = l === "ar" ? "en" : "ar";
+
+best = {
+score: sc,
+source: sourceFound,
+target: target,
+targetLang: targetLang,
+status: statusFrom(sc, target, "loaded-tm-joined"),
+mode:
+"loaded-tm-joined " +
+w.count +
+" cells | rows " +
+asc((w.rowStart || 0) + 1) +
+"-" +
+asc((w.rowEnd || 0) + 1) +
+(kind ? " | " + kind : ""),
+row: w.rowStart
+};
+}
+
+if (best && best.score >= 100 && kind) break;
+}
+
+if (!best || best.score < cfg.minScore) return null;
+return best;
+}
+
+var __v47_2_original_searchOne = searchOne;
+
+searchOne = function (seg, l) {
+var normal = __v47_2_original_searchOne(seg, l);
+var joined = ljSearchJoined(seg, l);
+
+if (!joined) return normal;
+
+var normalScore = normal ? (+normal.score || 0) : 0;
+var normalTarget = normal ? flat(normal.target || "") : "";
+
+if (!normalTarget) return joined;
+
+if (joined.score >= 98 && joined.score >= normalScore) return joined;
+
+if (joined.score >= normalScore + APP.loadedJoinSearch.overrideMargin) return joined;
+
+if (
+joined.score >= 92 &&
+joined.target &&
+normalTarget &&
+joined.target.length > normalTarget.length * 1.25
+) {
+return joined;
+}
+
+return normal;
+};
+
+APP.getLoadedJoinSearchStats = function () {
+ljBuildIndex();
+return {
+enabled: APP.loadedJoinSearch.enabled,
+windows: APP.loadedJoinSearch.windows.length,
+totalTUs: APP.tus.length,
+maxCells: APP.loadedJoinSearch.maxCells,
+minScore: APP.loadedJoinSearch.minScore
+};
+};
+
+})();
 })();
 })();
