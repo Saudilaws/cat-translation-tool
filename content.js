@@ -43,7 +43,7 @@ var CAT_TM_WORKER_JOBS = Object.create(null);
 function initCatTmWorker() {
   if (CAT_TM_WORKER) return CAT_TM_WORKER;
 
-  CAT_TM_WORKER = new Worker("./tm-worker.js");
+ CAT_TM_WORKER = new Worker("./tm-worker.js?v=tmw-v3-global-token");
 
   CAT_TM_WORKER.onmessage = function (e) {
     var msg = e.data || {};
@@ -1261,7 +1261,7 @@ updateStats();
 try {
   setTimeout(function () {
     if (typeof rebuildCatTmWorkerIndex === "function") {
-      rebuildCatTmWorkerIndex();
+      rebuildCatTmWorkerIndex(true);
     }
   }, 0);
 } catch (e) {
