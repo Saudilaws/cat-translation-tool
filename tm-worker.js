@@ -235,6 +235,59 @@ function globalTokenCoverageRecover(sourceText) {
     reason: bestScore >= 90 ? "worker-global-token-strong" : "worker-global-token-review"
   };
 }
+function globalDeepScanRecover(sourceText) {
+  if (!sourceText || !STATE.pairs || !STATE.pairs.length) return null;
+
+  var best = null;
+  var bestScore = 0;
+
+  for (var i = 0; i < STATE.pairs.length; i++) {
+    var pair = STATE.pairs[i];
+
+    if (!pair || !pair.source || !pair.target) continue;
+
+    if (!sameNumbersSafe(sourceText, pair.source)) continue;
+    if (negationMismatch(sourceText, pair.source)) continue;
+
+    var contain = containmentScore(sourceText, pair.source);
+    var token = tokenSimilarity(sourceText, pair.source);
+    var ng = ngramSimilarity(sourceText, pair.source);
+
+    var score = Math.round((contain * 0.50 + token * 0.25 + ng * 0.25) * 100);
+
+    /*
+      إذا كان النص داخل مصدر أطول، نرفع الثقة قليلًا
+      بشرط وجود تشابه حرفي جيد.
+    */
+    if (contain >= 0.78 && ng >= 0.35) {
+      score = Math.max(score, 82);
+    }
+
+    /*
+      إذا كان التشابه النصي قويًا حتى دون containment كامل.
+    */
+    if (ng >= 0.55 && token >= 0.25) {
+      score = Math.max(score, 80);
+    }
+
+    if (score > bestScore) {
+      bestScore = score;
+      best = pair;
+    }
+  }
+
+  if (!best || bestScore < 70) return null;
+
+  var target = cleanTargetForSource(sourceText, best.target, false);
+
+  if (!target) return null;
+
+  return {
+    target: target,
+    score: bestScore >= 95 ? 95 : bestScore,
+    reason: bestScore >= 90 ? "worker-global-deep-strong" : "worker-global-deep-review"
+  };
+}
 function splitSource(s) {
   return normalizeText(s)
     .split(/(?:[.!؟?؛;،]\s+|\n+|\r+)/g)
