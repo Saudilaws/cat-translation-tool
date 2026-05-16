@@ -12,7 +12,7 @@ var STATE = {
   exact: new Map(),
   compact: new Map(),
   cache: new Map(),
-  pairs: [],
+  rawPairs: [],
   tokenIndex: new Map(),
   ready: false
 };
@@ -456,10 +456,109 @@ function getSource(tu) {
 function getTarget(tu) {
   return tu.target || tu.trg || tu.en || tu.targetText || tu.t || "";
 }
+function cleanTargetBasicForRaw(sourceText, targetText) {
+  sourceText = String(sourceText || "");
+  targetText = String(targetText || "");
 
-function addToIndex(src, trg) {
+  if (!targetText.trim()) return "";
+
+  var sourceIsArabic = hasArabic(sourceText);
+
+  var t = targetText
+    .replace(/([A-Za-z0-9.!?;])([\u0600-\u06FF])/g, "$1\n$2")
+    .replace(/([\u0600-\u06FF])([A-Za-z])/g, "$1\n$2")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  if (sourceIsArabic) {
+    var parts = t
+      .split(/(?:\n+|\r+|(?<=[.!?;])\s+)/g)
+      .map(function (x) { return x.trim(); })
+      .filter(Boolean)
+      .filter(function (x) {
+        return arabicRatio(x) < 0.12;
+      });
+
+    t = parts.join(" ").replace(/\s+/g, " ").trim();
+  }
+
+  return t;
+}
+
+function addRawPairToIndex(src, trg) {
+  src = String(src || "").trim();
+  trg = String(trg || "").trim();
+
   if (!src || !trg) return;
 
+  STATE.rawPairs.push({
+    source: src,
+    target: trg,
+    sourceNorm: normalizeText(src),
+    sourceCompact: compactText(src)
+  });
+}
+
+function directTusSubstringRecover(sourceText) {
+  sourceText = String(sourceText || "").trim();
+
+  if (!sourceText || !STATE.rawPairs || !STATE.rawPairs.length) return null;
+
+  var qNorm = normalizeText(sourceText);
+  var qCompact = compactText(sourceText);
+
+  var best = null;
+  var bestScore = 0;
+
+  for (var i = 0; i < STATE.rawPairs.length; i++) {
+    var pair = STATE.rawPairs[i];
+
+    if (!pair || !pair.source || !pair.target) continue;
+
+    if (typeof sameNumbersSafe === "function" && !sameNumbersSafe(sourceText, pair.source)) continue;
+    if (typeof negationMismatch === "function" && negationMismatch(sourceText, pair.source)) continue;
+
+    var score = 0;
+
+    if (qNorm && qNorm === pair.sourceNorm) {
+      score = 100;
+    } else if (qCompact && qCompact === pair.sourceCompact) {
+      score = 99;
+    } else {
+      var contain = containmentScore(sourceText, pair.source);
+      var token = tokenSimilarity(sourceText, pair.source);
+      var ng = ngramSimilarity(sourceText, pair.source);
+
+      score = Math.round((contain * 0.55 + token * 0.25 + ng * 0.20) * 100);
+
+      if (contain >= 0.90) score = Math.max(score, 95);
+      else if (contain >= 0.78 && ng >= 0.35) score = Math.max(score, 85);
+      else if (ng >= 0.60 && token >= 0.25) score = Math.max(score, 82);
+    }
+
+    if (score > bestScore) {
+      bestScore = score;
+      best = pair;
+    }
+  }
+
+  if (!best || bestScore < 70) return null;
+
+  var target =
+    cleanTargetForSource(sourceText, best.target, false) ||
+    cleanTargetBasicForRaw(sourceText, best.target);
+
+  if (!target) return null;
+
+  return {
+    target: target,
+    score: bestScore >= 95 ? bestScore : Math.min(bestScore, 94),
+    reason: bestScore >= 95 ? "worker-direct-tus-exact" : "worker-direct-tus-review"
+  };
+}
+function addToIndex(src, trg) {
+  if (!src || !trg) return;
+addRawPairToIndex(src, trg);
   var cleanWholeTarget = cleanTargetForSource(src, trg, false);
   if (!cleanWholeTarget) return;
 addPairToGlobalIndex(src, cleanWholeTarget, "whole");
@@ -500,6 +599,7 @@ STATE.exact = new Map();
 STATE.compact = new Map();
 STATE.cache = new Map();
 STATE.pairs = [];
+STATE.rawPairs = [];   
 STATE.tokenIndex = new Map();
 STATE.ready = false;
 
@@ -600,14 +700,29 @@ function recoverOne(sourceText) {
     STATE.cache.set(key, result);
     return result;
   }
+var directHit = directTusSubstringRecover(sourceText);
+
+if (directHit && directHit.target) {
+  STATE.cache.set(key, directHit);
+  return directHit;
+}
+
 var globalHit = globalTokenCoverageRecover(sourceText);
 
 if (globalHit && globalHit.target) {
   STATE.cache.set(key, globalHit);
   return globalHit;
 }
-  STATE.cache.set(key, null);
-  return null;
+
+var deepHit = globalDeepScanRecover(sourceText);
+
+if (deepHit && deepHit.target) {
+  STATE.cache.set(key, deepHit);
+  return deepHit;
+}
+
+STATE.cache.set(key, null);
+return null;
 }
 
 self.onmessage = function (e) {
