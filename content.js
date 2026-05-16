@@ -1284,8 +1284,80 @@ ui.progress(i, segs.length);
 ui.status("\u062a\u0645 \u062a\u062d\u0644\u064a\u0644 " + asc(i) + " \u0645\u0646 " + asc(segs.length));
 renderResults(APP.results);
 if (i < segs.length) setTimeout(step, 1);
-else { ui.status("\u0627\u0643\u062a\u0645\u0644 \u0627\u0644\u062a\u062d\u0644\u064a\u0644. \u0639\u062f\u062f \u0627\u0644\u0646\u062a\u0627\u0626\u062c: " + asc(APP.results.length)); updateStats(); }
-}
+else {
+  ui.status("\u0627\u0643\u062a\u0645\u0644 \u0627\u0644\u062a\u062d\u0644\u064a\u0644. \u0639\u062f\u062f \u0627\u0644\u0646\u062a\u0627\u0626\u062c: " + asc(APP.results.length));
+  updateStats();
+
+  /* Smart Worker Recovery for 0% / empty matches */
+  (function recoverMissingWithTmWorker() {
+    if (typeof recoverBatchByWorker !== "function") return;
+
+    var items = [];
+
+    for (var x = 0; x < APP.results.length; x++) {
+      var r = APP.results[x];
+
+      if (!r || !r.segment || !r.segment.text) continue;
+
+      var noTarget = !(r.target || r.best);
+      var zeroScore = !r.score || r.score <= 0;
+
+      if (noTarget || zeroScore) {
+        items.push({
+          id: x,
+          sourceText: r.segment.text
+        });
+      }
+    }
+
+    if (!items.length) return;
+
+    function runRecovery() {
+      ui.status("\u062c\u0627\u0631\u064a \u0627\u0644\u0628\u062d\u062b \u0627\u0644\u0630\u0643\u064a \u0639\u0646 \u0627\u0644\u062a\u0631\u062c\u0645\u0627\u062a \u0627\u0644\u0645\u0648\u0632\u0639\u0629...");
+
+      recoverBatchByWorker(items).then(function (list) {
+        var changed = 0;
+
+        list = Array.isArray(list) ? list : [];
+
+        for (var y = 0; y < list.length; y++) {
+          var item = list[y];
+          var hit = item && item.result;
+          var row = APP.results[item.id];
+
+          if (!row || !hit || !hit.target) continue;
+
+          row.best = hit.target;
+          row.target = hit.target;
+          row.score = hit.score || 95;
+          row.status = "Review";
+          row.mode = hit.reason || "worker-split-merge";
+          row.sourceFound = row.sourceFound || "";
+
+          changed++;
+        }
+
+        if (changed) {
+          renderResults(APP.results);
+          updateStats();
+          ui.status("\u0627\u0643\u062a\u0645\u0644 \u0627\u0644\u062a\u062d\u0644\u064a\u0644. \u062a\u0645 \u0627\u0633\u062a\u0631\u062c\u0627\u0639 " + asc(changed) + " \u062a\u0631\u062c\u0645\u0629 \u0630\u0643\u064a\u0629 \u0645\u0646 \u0627\u0644\u0648\u064a\u0628 \u0648\u0631\u0643\u0631.");
+        } else {
+          ui.status("\u0627\u0643\u062a\u0645\u0644 \u0627\u0644\u062a\u062d\u0644\u064a\u0644. \u0644\u0645 \u064a\u062c\u062f \u0627\u0644\u0648\u064a\u0628 \u0648\u0631\u0643\u0631 \u062a\u0637\u0627\u0628\u0642\u0627\u062a \u0645\u0648\u0632\u0639\u0629.");
+        }
+      }).catch(function (err) {
+        console.error("Worker recovery after analyze failed:", err);
+      });
+    }
+
+    if (!APP.tmWorkerReady && typeof rebuildCatTmWorkerIndex === "function") {
+      rebuildCatTmWorkerIndex().then(function () {
+        runRecovery();
+      });
+    } else {
+      runRecovery();
+    }
+  })();
+}}
 step();
 }
 $("#fab").onclick = open;
