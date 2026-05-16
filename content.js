@@ -43,7 +43,7 @@ var CAT_TM_WORKER_JOBS = Object.create(null);
 function initCatTmWorker() {
   if (CAT_TM_WORKER) return CAT_TM_WORKER;
 
- CAT_TM_WORKER = new Worker("./tm-worker.js?v=tmw-v3-global-token");
+CAT_TM_WORKER = new Worker("./tm-worker.js?v=tmw-v4-direct-tus");
 
   CAT_TM_WORKER.onmessage = function (e) {
     var msg = e.data || {};
