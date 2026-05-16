@@ -1,914 +1,619 @@
+"use strict";
+
 /* =========================================================
-   Global Translation Memory Matching Engine
-   Arabic ↔ English HTML CAT Tool
-   No external libraries
-   Target: Browser / Web Worker / Vercel static app
+   CAT TM Worker V2
+   Builds TM index in background and searches without freezing UI
+   - Smart split/merge recovery
+   - Cleans Arabic leakage from English targets
+   - Prevents unrelated target sentences from different laws
 ========================================================= */
 
-export type Lang = "ar" | "en" | "mixed" | "unknown";
-
-export type MatchType =
-  | "exact"
-  | "normalized_exact"
-  | "formatting_only"
-  | "structural"
-  | "fuzzy"
-  | "partial"
-  | "repeated"
-  | "none";
-
-export type MatchStatus =
-  | "Confirmed"
-  | "Needs Review"
-  | "Needs Translation";
-
-export interface TMThresholds {
-  confirmed: number;
-  review: number;
-  minimumReliable: number;
-  fuzzyCandidateLimit: number;
-  neighborWindow: number;
-}
-
-export interface TMMetadata {
-  rowIndex?: number;
-  cellIndex?: number;
-  tableIndex?: number;
-  location?: string;
-  extractionType?: string;
-}
-
-export interface TMPair {
-  id: string;
-  source: string;
-  target: string;
-  sourceNorm: string;
-  sourceCompact: string;
-  targetNorm: string;
-  sourceLang: Lang;
-  targetLang: Lang;
-  tokens: string[];
-  metadata: TMMetadata;
-}
-
-export interface MatchResult {
-  sourceSegment: string;
-  bestMatchingSource: string;
-  suggestedTarget: string;
-  matchPercentage: number;
-  matchType: MatchType;
-  status: MatchStatus;
-  explanation: string;
-  candidateMetadata: TMMetadata | null;
-}
-
-export interface EngineOptions {
-  sourceLang?: Lang;
-  targetLang?: Lang;
-  thresholds?: Partial<TMThresholds>;
-}
-
-const DEFAULT_THRESHOLDS: TMThresholds = {
-  confirmed: 95,
-  review: 70,
-  minimumReliable: 70,
-  fuzzyCandidateLimit: 250,
-  neighborWindow: 2
+var STATE = {
+  exact: new Map(),
+  compact: new Map(),
+  cache: new Map(),
+  pairs: [],
+  tokenIndex: new Map(),
+  ready: false
 };
 
-/* =========================================================
-   Basic utilities
-========================================================= */
-
-function safeString(v: unknown): string {
-  return String(v ?? "");
-}
-
-function unique<T>(arr: T[]): T[] {
-  return Array.from(new Set(arr));
-}
-
-function clamp(n: number, min: number, max: number): number {
-  return Math.max(min, Math.min(max, n));
-}
-
-function hasArabic(s: string): boolean {
-  return /[\u0600-\u06FF]/.test(safeString(s));
-}
-
-function hasLatin(s: string): boolean {
-  return /[A-Za-z]/.test(safeString(s));
-}
-
-function arabicRatio(s: string): number {
-  const text = safeString(s);
-  if (!text) return 0;
-  const ar = (text.match(/[\u0600-\u06FF]/g) || []).length;
-  return ar / Math.max(1, text.length);
-}
-
-function latinRatio(s: string): number {
-  const text = safeString(s);
-  if (!text) return 0;
-  const en = (text.match(/[A-Za-z]/g) || []).length;
-  return en / Math.max(1, text.length);
-}
-
-function detectLang(s: string): Lang {
-  const ar = arabicRatio(s);
-  const en = latinRatio(s);
-
-  if (ar > 0.18 && en > 0.10) return "mixed";
-  if (ar > 0.12) return "ar";
-  if (en > 0.12) return "en";
-  return "unknown";
-}
-
-function decodeHtmlEntities(input: string): string {
-  const text = safeString(input);
-  if (!text || typeof document === "undefined") return text;
-
-  const textarea = document.createElement("textarea");
-  textarea.innerHTML = text;
-  return textarea.value;
-}
-
-function textFromElement(el: Element): string {
-  return decodeHtmlEntities(el.textContent || "")
-    .replace(/\u00A0/g, " ")
-    .replace(/\s+/g, " ")
-    .trim();
-}
-
-/* =========================================================
-   Arabic-English normalization
-========================================================= */
-
-export function normalizeForMatch(input: string): string {
-  let s = decodeHtmlEntities(safeString(input));
-
-  s = s
+function normalizeText(s) {
+  return String(s || "")
     .replace(/[\u0610-\u061A\u064B-\u065F\u0670\u06D6-\u06ED]/g, "")
     .replace(/\u0640/g, "")
     .replace(/[\u200E\u200F\u202A-\u202E\u2066-\u2069]/g, "")
     .replace(/[\u200B\u200C\u200D\u2060\uFEFF\u034F]/g, "")
-    .replace(/\u00A0|\u202F|\u2007|[\u2000-\u200A]/g, " ")
-
-    // Arabic letters
     .replace(/[أإآٱ]/g, "ا")
     .replace(/[ىی]/g, "ي")
     .replace(/ک/g, "ك")
     .replace(/[ہھۀ]/g, "ه")
-    .replace(/ة/g, "ه")
-    .replace(/ؤ/g, "و")
-    .replace(/ئ/g, "ي")
-
-    // Arabic/Persian digits
-    .replace(/[٠-٩]/g, d => String("٠١٢٣٤٥٦٧٨٩".indexOf(d)))
-    .replace(/[۰-۹]/g, d => String("۰۱۲۳۴۵۶۷۸۹".indexOf(d)))
-
-    // punctuation normalization
-    .replace(/[،]/g, ",")
-    .replace(/[؛]/g, ";")
-    .replace(/[؟]/g, "?")
-    .replace(/[“”„«»]/g, '"')
-    .replace(/[‘’‚]/g, "'")
-    .replace(/[ـ–—−]/g, "-")
-    .replace(/[()\[\]{}]/g, " ")
-    .replace(/[,:;.!?؟،؛"'`~|\\/]+/g, " ")
-
+    .replace(/[٠-٩]/g, function (d) {
+      return "٠١٢٣٤٥٦٧٨٩".indexOf(d);
+    })
+    .replace(/[۰-۹]/g, function (d) {
+      return "۰۱۲۳۴۵۶۷۸۹".indexOf(d);
+    })
     .replace(/\s+/g, " ")
     .trim()
     .toLowerCase();
-
-  return s;
 }
 
-export function compactForMatch(input: string): string {
-  return normalizeForMatch(input).replace(/[^\p{L}\p{N}]+/gu, "");
+function compactText(s) {
+  return normalizeText(s).replace(/[^\p{L}\p{N}]+/gu, "");
 }
-
-export function tokenize(input: string): string[] {
-  const norm = normalizeForMatch(input);
-  return norm
+function tmTokens(s) {
+  return normalizeText(s)
     .split(/\s+/)
-    .map(t => t.trim())
-    .filter(t => t.length >= 2)
-    .filter(t => !COMMON_STOPWORDS.has(t));
+    .map(function (x) { return x.trim(); })
+    .filter(function (x) { return x.length >= 2; })
+    .filter(function (x) {
+      return !/^(في|من|على|الى|إلى|عن|او|أو|و|ف|ثم|the|of|and|or|to|in|on|for|a|an|by|shall|may)$/.test(x);
+    });
 }
 
-const COMMON_STOPWORDS = new Set<string>([
-  "في", "من", "على", "الى", "إلى", "عن", "او", "أو", "و", "ف", "ثم",
-  "the", "of", "and", "or", "to", "in", "on", "for", "a", "an", "by",
-  "this", "that", "shall", "may"
-]);
-
-/* =========================================================
-   False-positive protection
-========================================================= */
-
-function extractNumbers(s: string): string[] {
-  const norm = normalizeForMatch(s);
-  return norm.match(/\d+(?:[./-]\d+)*/g) || [];
+function tokenSet(s) {
+  return new Set(tmTokens(s));
 }
 
-function sameNumbersOrSafe(source: string, candidateSource: string): boolean {
-  const a = extractNumbers(source);
-  const b = extractNumbers(candidateSource);
+function setJaccard(a, b) {
+  if (!a.size || !b.size) return 0;
 
-  if (!a.length && !b.length) return true;
-  if (a.length !== b.length) return false;
+  var inter = 0;
 
-  const as = a.slice().sort().join("|");
-  const bs = b.slice().sort().join("|");
+  a.forEach(function (x) {
+    if (b.has(x)) inter++;
+  });
 
-  return as === bs;
+  var union = a.size + b.size - inter;
+  return union ? inter / union : 0;
 }
 
-function hasNegationMismatch(a: string, b: string): boolean {
-  const an = normalizeForMatch(a);
-  const bn = normalizeForMatch(b);
+function charNgrams(s, n) {
+  s = compactText(s);
+  n = n || 3;
 
-  const arNegA = /\b(لا|ليس|ليست|لم|لن|دون|غير)\b/.test(an);
-  const arNegB = /\b(لا|ليس|ليست|لم|لن|دون|غير)\b/.test(bn);
+  var out = new Set();
 
-  const enNegA = /\b(no|not|never|without|unless)\b/.test(an);
-  const enNegB = /\b(no|not|never|without|unless)\b/.test(bn);
+  if (!s) return out;
 
-  return arNegA !== arNegB || enNegA !== enNegB;
-}
-
-function targetIsValid(target: string, expectedTargetLang: Lang): boolean {
-  const t = safeString(target).trim();
-  if (!t) return false;
-
-  if (expectedTargetLang === "en") {
-    if (arabicRatio(t) > 0.12) return false;
-    if (!hasLatin(t)) return false;
-  }
-
-  if (expectedTargetLang === "ar") {
-    if (latinRatio(t) > 0.40) return false;
-    if (!hasArabic(t)) return false;
-  }
-
-  return true;
-}
-
-function cleanTarget(target: string, expectedTargetLang: Lang): string {
-  let t = safeString(target)
-    .replace(/([A-Za-z0-9.!?;])([\u0600-\u06FF])/g, "$1\n$2")
-    .replace(/([\u0600-\u06FF])([A-Za-z])/g, "$1\n$2")
-    .replace(/\s+/g, " ")
-    .trim();
-
-  if (expectedTargetLang === "en") {
-    const parts = t
-      .split(/(?:\n+|\r+|(?<=[.!?;])\s+)/g)
-      .map(x => x.trim())
-      .filter(Boolean)
-      .filter(x => arabicRatio(x) < 0.12);
-
-    t = parts.join(" ").replace(/\s+/g, " ").trim();
-  }
-
-  return t;
-}
-
-/* =========================================================
-   Similarity functions
-========================================================= */
-
-function levenshteinRatio(a: string, b: string): number {
-  a = normalizeForMatch(a);
-  b = normalizeForMatch(b);
-
-  if (a === b) return 1;
-  if (!a || !b) return 0;
-
-  const m = a.length;
-  const n = b.length;
-
-  if (Math.max(m, n) > 1200) {
-    return charNgramSimilarity(a, b, 3);
-  }
-
-  const dp = new Array(n + 1);
-
-  for (let j = 0; j <= n; j++) dp[j] = j;
-
-  for (let i = 1; i <= m; i++) {
-    let prev = dp[0];
-    dp[0] = i;
-
-    for (let j = 1; j <= n; j++) {
-      const temp = dp[j];
-      const cost = a.charCodeAt(i - 1) === b.charCodeAt(j - 1) ? 0 : 1;
-
-      dp[j] = Math.min(
-        dp[j] + 1,
-        dp[j - 1] + 1,
-        prev + cost
-      );
-
-      prev = temp;
-    }
-  }
-
-  const dist = dp[n];
-  return 1 - dist / Math.max(m, n);
-}
-
-function charNgrams(s: string, n = 3): Set<string> {
-  const x = compactForMatch(s);
-  const out = new Set<string>();
-
-  if (x.length <= n) {
-    if (x) out.add(x);
+  if (s.length <= n) {
+    out.add(s);
     return out;
   }
 
-  for (let i = 0; i <= x.length - n; i++) {
-    out.add(x.slice(i, i + n));
+  for (var i = 0; i <= s.length - n; i++) {
+    out.add(s.slice(i, i + n));
   }
 
   return out;
 }
 
-function jaccardSet(a: Set<string>, b: Set<string>): number {
-  if (!a.size || !b.size) return 0;
-
-  let inter = 0;
-  a.forEach(x => {
-    if (b.has(x)) inter++;
-  });
-
-  const union = a.size + b.size - inter;
-  return union ? inter / union : 0;
+function ngramSimilarity(a, b) {
+  return setJaccard(charNgrams(a, 3), charNgrams(b, 3));
 }
 
-function tokenSimilarity(a: string, b: string): number {
-  const ta = new Set(tokenize(a));
-  const tb = new Set(tokenize(b));
-  return jaccardSet(ta, tb);
+function tokenSimilarity(a, b) {
+  return setJaccard(tokenSet(a), tokenSet(b));
 }
 
-function charNgramSimilarity(a: string, b: string, n = 3): number {
-  return jaccardSet(charNgrams(a, n), charNgrams(b, n));
-}
+function containmentScore(a, b) {
+  var x = normalizeText(a);
+  var y = normalizeText(b);
 
-function weightedSimilarity(a: string, b: string): number {
-  const token = tokenSimilarity(a, b);
-  const ngram = charNgramSimilarity(a, b, 3);
-  const lev = levenshteinRatio(a, b);
+  if (!x || !y) return 0;
+  if (x === y) return 1;
 
-  return token * 0.45 + ngram * 0.35 + lev * 0.20;
-}
-
-function containmentScore(query: string, candidate: string): number {
-  const q = normalizeForMatch(query);
-  const c = normalizeForMatch(candidate);
-
-  if (!q || !c) return 0;
-  if (q === c) return 1;
-
-  if (c.includes(q)) {
-    return clamp(q.length / Math.max(1, c.length), 0.72, 0.95);
+  if (y.indexOf(x) !== -1) {
+    return Math.max(0.78, Math.min(0.96, x.length / Math.max(1, y.length)));
   }
 
-  if (q.includes(c)) {
-    return clamp(c.length / Math.max(1, q.length), 0.72, 0.92);
+  if (x.indexOf(y) !== -1) {
+    return Math.max(0.72, Math.min(0.92, y.length / Math.max(1, x.length)));
   }
 
   return 0;
 }
 
-/* =========================================================
-   HTML bilingual extraction
-========================================================= */
-
-interface ExtractedCell {
-  text: string;
-  lang: Lang;
-  tableIndex: number;
-  rowIndex: number;
-  cellIndex: number;
+function extractNumbers(s) {
+  return normalizeText(s).match(/\d+(?:[./-]\d+)*/g) || [];
 }
 
-interface ExtractedRow {
-  tableIndex: number;
-  rowIndex: number;
-  cells: ExtractedCell[];
-  arCells: ExtractedCell[];
-  enCells: ExtractedCell[];
+function sameNumbersSafe(a, b) {
+  var x = extractNumbers(a);
+  var y = extractNumbers(b);
+
+  if (!x.length && !y.length) return true;
+  if (x.length !== y.length) return false;
+
+  return x.slice().sort().join("|") === y.slice().sort().join("|");
 }
 
-function parseHtml(htmlOrDoc: string | Document): Document {
-  if (typeof htmlOrDoc !== "string") return htmlOrDoc;
+function negationMismatch(a, b) {
+  var x = normalizeText(a);
+  var y = normalizeText(b);
 
-  return new DOMParser().parseFromString(htmlOrDoc, "text/html");
+  var nx = /\b(لا|ليس|ليست|لم|لن|دون|غير|no|not|never|without|unless)\b/.test(x);
+  var ny = /\b(لا|ليس|ليست|لم|لن|دون|غير|no|not|never|without|unless)\b/.test(y);
+
+  return nx !== ny;
 }
 
-function extractRows(htmlOrDoc: string | Document): ExtractedRow[] {
-  const doc = parseHtml(htmlOrDoc);
-  const rows: ExtractedRow[] = [];
+function weightedGlobalScore(query, candidate) {
+  var contain = containmentScore(query, candidate);
+  var token = tokenSimilarity(query, candidate);
+  var ng = ngramSimilarity(query, candidate);
 
-  const tables = Array.from(doc.querySelectorAll("table"));
-
-  if (tables.length) {
-    tables.forEach((table, tableIndex) => {
-      const trs = Array.from(table.querySelectorAll("tr"));
-
-      trs.forEach((tr, rowIndex) => {
-        const cellElements = Array.from(tr.querySelectorAll("th,td"));
-
-        const cells = cellElements
-          .map((cell, cellIndex): ExtractedCell => {
-            const text = textFromElement(cell);
-            return {
-              text,
-              lang: detectLang(text),
-              tableIndex,
-              rowIndex,
-              cellIndex
-            };
-          })
-          .filter(c => c.text.length > 0);
-
-        if (!cells.length) return;
-
-        rows.push({
-          tableIndex,
-          rowIndex,
-          cells,
-          arCells: cells.filter(c => c.lang === "ar" || (c.lang === "mixed" && arabicRatio(c.text) >= latinRatio(c.text))),
-          enCells: cells.filter(c => c.lang === "en" || (c.lang === "mixed" && latinRatio(c.text) > arabicRatio(c.text)))
-        });
-      });
-    });
-
-    return rows;
-  }
-
-  // Fallback for non-table HTML
-  const blocks = Array.from(doc.querySelectorAll("p,div,li,section,article"));
-  blocks.forEach((el, i) => {
-    const text = textFromElement(el);
-    if (!text) return;
-
-    const cell: ExtractedCell = {
-      text,
-      lang: detectLang(text),
-      tableIndex: 0,
-      rowIndex: i,
-      cellIndex: 0
-    };
-
-    rows.push({
-      tableIndex: 0,
-      rowIndex: i,
-      cells: [cell],
-      arCells: cell.lang === "ar" ? [cell] : [],
-      enCells: cell.lang === "en" ? [cell] : []
-    });
-  });
-
-  return rows;
+  return Math.round((contain * 0.45 + token * 0.35 + ng * 0.20) * 100);
 }
 
-function pairSameRow(row: ExtractedRow): TMPair[] {
-  const pairs: TMPair[] = [];
+function addPairToGlobalIndex(src, trg, type) {
+  if (!src || !trg) return;
 
-  if (!row.arCells.length || !row.enCells.length) return pairs;
+  var id = STATE.pairs.length;
 
-  for (const ar of row.arCells) {
-    let bestEn = row.enCells[0];
-    let bestDist = Math.abs(ar.cellIndex - bestEn.cellIndex);
+  var pair = {
+    id: id,
+    source: src,
+    target: trg,
+    sourceNorm: normalizeText(src),
+    sourceCompact: compactText(src),
+    tokens: tmTokens(src),
+    type: type || "pair"
+  };
 
-    for (const en of row.enCells) {
-      const d = Math.abs(ar.cellIndex - en.cellIndex);
-      if (d < bestDist) {
-        bestDist = d;
-        bestEn = en;
-      }
+  STATE.pairs.push(pair);
+
+  for (var i = 0; i < pair.tokens.length; i++) {
+    var tok = pair.tokens[i];
+
+    if (!STATE.tokenIndex.has(tok)) {
+      STATE.tokenIndex.set(tok, []);
     }
 
-    pairs.push(makePair(ar.text, bestEn.text, "same_row", {
-      tableIndex: row.tableIndex,
-      rowIndex: row.rowIndex,
-      cellIndex: ar.cellIndex,
-      location: `table:${row.tableIndex}/row:${row.rowIndex}/cell:${ar.cellIndex}`,
-      extractionType: "same_row"
-    }));
+    STATE.tokenIndex.get(tok).push(id);
   }
-
-  return pairs;
 }
 
-function pairNeighborRows(rows: ExtractedRow[], index: number, windowSize: number): TMPair[] {
-  const row = rows[index];
-  const pairs: TMPair[] = [];
+function globalTokenCoverageRecover(sourceText) {
+  var tokens = tmTokens(sourceText);
 
-  if (!row.arCells.length || row.enCells.length) return pairs;
+  if (!tokens.length) return null;
 
-  const nearby: ExtractedRow[] = [];
+  var counts = Object.create(null);
 
-  for (let offset = 1; offset <= windowSize; offset++) {
-    if (rows[index - offset]) nearby.push(rows[index - offset]);
-    if (rows[index + offset]) nearby.push(rows[index + offset]);
-  }
+  for (var i = 0; i < tokens.length; i++) {
+    var list = STATE.tokenIndex.get(tokens[i]);
 
-  const enCandidates = nearby
-    .filter(r => r.tableIndex === row.tableIndex)
-    .flatMap(r => r.enCells);
+    if (!list) continue;
 
-  if (!enCandidates.length) return pairs;
-
-  for (const ar of row.arCells) {
-    let best = enCandidates[0];
-    let bestDist = Math.abs(row.rowIndex - best.rowIndex);
-
-    for (const en of enCandidates) {
-      const d = Math.abs(row.rowIndex - en.rowIndex);
-      if (d < bestDist) {
-        bestDist = d;
-        best = en;
-      }
+    for (var j = 0; j < list.length; j++) {
+      var id = list[j];
+      counts[id] = (counts[id] || 0) + 1;
     }
-
-    pairs.push(makePair(ar.text, best.text, "neighbor_row", {
-      tableIndex: row.tableIndex,
-      rowIndex: row.rowIndex,
-      cellIndex: ar.cellIndex,
-      location: `table:${row.tableIndex}/row:${row.rowIndex}/neighbor:${best.rowIndex}`,
-      extractionType: "neighbor_row"
-    }));
   }
 
-  return pairs;
-}
+  var candidates = Object.keys(counts)
+    .map(function (id) {
+      return {
+        id: Number(id),
+        hits: counts[id]
+      };
+    })
+    .sort(function (a, b) {
+      return b.hits - a.hits;
+    })
+    .slice(0, 250);
 
-function makePair(
-  source: string,
-  target: string,
-  extractionType: string,
-  metadata: TMMetadata
-): TMPair {
-  const sourceNorm = normalizeForMatch(source);
-  const targetNorm = normalizeForMatch(target);
-  const sourceLang = detectLang(source);
-  const targetLang = detectLang(target);
+  var best = null;
+  var bestScore = 0;
+
+  for (var k = 0; k < candidates.length; k++) {
+    var pair = STATE.pairs[candidates[k].id];
+
+    if (!pair || !pair.target) continue;
+
+    if (!sameNumbersSafe(sourceText, pair.source)) continue;
+    if (negationMismatch(sourceText, pair.source)) continue;
+
+    var score = weightedGlobalScore(sourceText, pair.source);
+
+    if (score > bestScore) {
+      bestScore = score;
+      best = pair;
+    }
+  }
+
+  if (!best || bestScore < 70) return null;
+
+  var target = cleanTargetForSource(sourceText, best.target, false);
+
+  if (!target) return null;
 
   return {
-    id: `${metadata.tableIndex ?? 0}:${metadata.rowIndex ?? 0}:${metadata.cellIndex ?? 0}:${sourceNorm.slice(0, 20)}`,
-    source,
-    target,
-    sourceNorm,
-    sourceCompact: compactForMatch(source),
-    targetNorm,
-    sourceLang,
-    targetLang,
-    tokens: tokenize(source),
-    metadata: {
-      ...metadata,
-      extractionType
+    target: target,
+    score: bestScore >= 95 ? 95 : bestScore,
+    reason: bestScore >= 90 ? "worker-global-token-strong" : "worker-global-token-review"
+  };
+}
+function splitSource(s) {
+  return normalizeText(s)
+    .split(/(?:[.!؟?؛;،]\s+|\n+|\r+)/g)
+    .map(function (x) {
+      return x.trim();
+    })
+    .filter(function (x) {
+      return x.length >= 10;
+    })
+    .slice(0, 16);
+}
+
+function hasArabic(s) {
+  return /[\u0600-\u06FF]/.test(String(s || ""));
+}
+
+function arabicRatio(s) {
+  s = String(s || "");
+  if (!s) return 0;
+
+  var ar = (s.match(/[\u0600-\u06FF]/g) || []).length;
+  return ar / Math.max(1, s.length);
+}
+
+function splitTarget(s) {
+  return String(s || "")
+    .replace(/([A-Za-z0-9.!?;])([\u0600-\u06FF])/g, "$1\n$2")
+    .replace(/([\u0600-\u06FF])([A-Za-z])/g, "$1\n$2")
+    .replace(/\s+/g, " ")
+    .split(/(?:\n+|\r+|(?<=[.!؟?؛;])\s+)/g)
+    .map(function (x) {
+      return x.trim();
+    })
+    .filter(function (x) {
+      return x.length >= 6;
+    })
+    .slice(0, 40);
+}
+
+/* =========================================================
+   Legal cue filter
+   ملاحظة: النص العربي هنا يُقارن بعد normalizeText()
+========================================================= */
+
+var LEGAL_CUES = [
+  { ar: /في جميع الاحوال|جميع الاحوال/, en: /\bin all cases\b/i },
+  { ar: /الحدث|الاحداث/, en: /\bjuvenile\b|\bjuveniles\b/i },
+  { ar: /ولي الامر|ولي امر|وليه|الولي/, en: /\bguardian\b|\bguardians\b/i },
+  { ar: /الدار|دار الملاحظه|دار الرعايه/, en: /\bhome\b|\bjuvenile home\b/i },
+  { ar: /الوزير/, en: /\bminister\b/i },
+  { ar: /الوزاره/, en: /\bministry\b/i },
+  { ar: /النظام|هذا النظام/, en: /\blaw\b|\bthis law\b|\bregulation\b/i },
+  { ar: /الاحكام|النصوص|نصوص/, en: /\bprovisions\b|\btexts\b/i },
+  { ar: /تطبق|تطبيق|ينطبق/, en: /\bapply\b|\bapplied\b|\bapplicable\b/i },
+  { ar: /المسائل|المساله/, en: /\bmatters\b|\bissues\b|\bcase\b/i },
+  { ar: /الشريعه/, en: /\bsharia\b|\bislamic law\b/i },
+  { ar: /الكفاله|كفالته|كفالة/, en: /\brecognizance\b|\bguarantee\b|\bsurety\b/i },
+  { ar: /الخروج|خروجه|اطلاقه|اخلاء/, en: /\brelease\b|\bdischarge\b|\bleave\b/i },
+  { ar: /تسليم|تسلمه|استلام/, en: /\breceive\b|\breceipt\b|\bdeliver\b|\bhand over\b/i },
+  { ar: /اساءه|ضرر|الاضرار/, en: /\bharm\b|\bmistreat\b|\babuse\b|\bdamage\b/i },
+  { ar: /تحويل|نقل/, en: /\btransfer\b|\btransferred\b/i },
+  { ar: /دراسه حالته|حالته/, en: /\bcase\b|\bcondition\b|\bsituation\b/i },
+  { ar: /السلع|البضائع/, en: /\bgoods\b|\bcommodities\b/i },
+  { ar: /العلامه التجاريه|العلامات التجاريه/, en: /\btrademark\b|\btrademarks\b/i },
+  { ar: /اعاده التصدير|تصديرها/, en: /\bre-export\b|\breexport\b|\bexport\b/i },
+  { ar: /القنوات التجاريه|التجاريه/, en: /\bcommercial channels\b|\bcommercial\b/i },
+  { ar: /بطريق غير مشروع|غير مشروع|المخالفه/, en: /\bunlawfully\b|\billegal\b|\bviolation\b/i }
+];
+
+function cueScore(sourceText, targetPart) {
+  var score = 0;
+  var src = normalizeText(sourceText);
+  var trg = String(targetPart || "");
+
+  for (var i = 0; i < LEGAL_CUES.length; i++) {
+    if (LEGAL_CUES[i].ar.test(src) && LEGAL_CUES[i].en.test(trg)) {
+      score++;
     }
+  }
+
+  return score;
+}
+
+function cleanTargetForSource(sourceText, targetText, strictPart) {
+  sourceText = String(sourceText || "");
+  targetText = String(targetText || "");
+
+  if (!targetText.trim()) return "";
+
+  var sourceIsArabic = hasArabic(sourceText);
+  var parts = splitTarget(targetText);
+
+  if (!parts.length) {
+    parts = [targetText.trim()];
+  }
+
+  if (sourceIsArabic) {
+    /* Remove Arabic leakage from English target */
+    parts = parts.filter(function (p) {
+      return arabicRatio(p) < 0.12;
+    });
+  }
+
+  if (!parts.length) return "";
+
+  if (sourceIsArabic && parts.length > 1) {
+    var scored = parts.map(function (p) {
+      return {
+        text: p,
+        score: cueScore(sourceText, p)
+      };
+    });
+
+    var maxScore = 0;
+
+    for (var i = 0; i < scored.length; i++) {
+      if (scored[i].score > maxScore) {
+        maxScore = scored[i].score;
+      }
+    }
+
+    /*
+      إذا وجدنا جملة إنجليزية لها إشارات قانونية مطابقة للسورس،
+      نحتفظ بالجمل ذات الصلة فقط ونستبعد الجمل الدخيلة مثل Goods may not...
+    */
+    if (maxScore > 0) {
+      parts = scored
+        .filter(function (x) {
+          return x.score > 0;
+        })
+        .map(function (x) {
+          return x.text;
+        });
+    } else if (strictPart) {
+      /*
+        عند فهرسة جزء من السورس فقط، لا نربطه بهدف طويل متعدد الجمل
+        إذا لم توجد أي إشارات مشتركة.
+      */
+      return "";
+    }
+  }
+
+  if (sourceIsArabic && strictPart && parts.length === 1) {
+    var only = parts[0];
+    var onlyCue = cueScore(sourceText, only);
+    var srcWords = normalizeText(sourceText).split(/\s+/).filter(Boolean).length;
+    var trgWords = String(only).split(/\s+/).filter(Boolean).length;
+
+    /*
+      حماية إضافية:
+      إذا كان الجزء العربي قصيرًا والهدف الإنجليزي طويلًا جدًا ولا توجد إشارات مشتركة،
+      فلا نفهرسه حتى لا يلتقط ترجمة من نظام آخر.
+    */
+    if (onlyCue === 0 && srcWords > 0 && trgWords > Math.max(18, srcWords * 2.8)) {
+      return "";
+    }
+  }
+
+  return parts.join(" ").replace(/\s+/g, " ").trim();
+}
+
+function getSource(tu) {
+  return tu.source || tu.src || tu.ar || tu.sourceText || tu.s || "";
+}
+
+function getTarget(tu) {
+  return tu.target || tu.trg || tu.en || tu.targetText || tu.t || "";
+}
+
+function addToIndex(src, trg) {
+  if (!src || !trg) return;
+
+  var cleanWholeTarget = cleanTargetForSource(src, trg, false);
+  if (!cleanWholeTarget) return;
+addPairToGlobalIndex(src, cleanWholeTarget, "whole");
+  var n = normalizeText(src);
+  var c = compactText(src);
+
+  if (n && !STATE.exact.has(n)) {
+    STATE.exact.set(n, cleanWholeTarget);
+  }
+
+  if (c && !STATE.compact.has(c)) {
+    STATE.compact.set(c, cleanWholeTarget);
+  }
+
+  var parts = splitSource(src);
+
+  for (var i = 0; i < parts.length; i++) {
+    var part = parts[i];
+    var pn = normalizeText(part);
+    var pc = compactText(part);
+
+    var partTarget = cleanTargetForSource(part, trg, true);
+
+    if (!partTarget) continue;
+addPairToGlobalIndex(part, partTarget, "part");
+    if (pn && !STATE.exact.has(pn)) {
+      STATE.exact.set(pn, partTarget);
+    }
+
+    if (pc && !STATE.compact.has(pc)) {
+      STATE.compact.set(pc, partTarget);
+    }
+  }
+}
+
+function buildIndex(tus) {
+STATE.exact = new Map();
+STATE.compact = new Map();
+STATE.cache = new Map();
+STATE.pairs = [];
+STATE.tokenIndex = new Map();
+STATE.ready = false;
+
+  tus = Array.isArray(tus) ? tus : [];
+
+  for (var i = 0; i < tus.length; i++) {
+    addToIndex(getSource(tus[i]), getTarget(tus[i]));
+  }
+
+  STATE.ready = true;
+
+  return {
+    tus: tus.length,
+    exactSize: STATE.exact.size,
+    compactSize: STATE.compact.size
   };
 }
 
-export function extractBilingualPairs(
-  htmlOrDoc: string | Document,
-  options: EngineOptions = {}
-): TMPair[] {
-  const thresholds = { ...DEFAULT_THRESHOLDS, ...options.thresholds };
-  const expectedTarget = options.targetLang || "en";
+function recoverOne(sourceText) {
+  if (!STATE.ready) return null;
 
-  const rows = extractRows(htmlOrDoc);
-  const pairs: TMPair[] = [];
+  var key = compactText(sourceText);
+  if (!key) return null;
 
-  rows.forEach((row, index) => {
-    pairs.push(...pairSameRow(row));
-    pairs.push(...pairNeighborRows(rows, index, thresholds.neighborWindow));
-  });
-
-  const cleaned = pairs
-    .map(p => {
-      const target = cleanTarget(p.target, expectedTarget);
-      return {
-        ...p,
-        target,
-        targetNorm: normalizeForMatch(target)
-      };
-    })
-    .filter(p => p.source.trim() && targetIsValid(p.target, expectedTarget));
-
-  const seen = new Set<string>();
-  const out: TMPair[] = [];
-
-  for (const p of cleaned) {
-    const key = p.sourceCompact + "||" + compactForMatch(p.target);
-    if (seen.has(key)) continue;
-    seen.add(key);
-    out.push(p);
+  if (STATE.cache.has(key)) {
+    return STATE.cache.get(key);
   }
 
-  return out;
+  var exact = STATE.exact.get(normalizeText(sourceText));
+  exact = cleanTargetForSource(sourceText, exact, false);
+
+  if (exact) {
+    var exactResult = {
+      target: exact,
+      score: 100,
+      reason: "worker-exact-clean"
+    };
+
+    STATE.cache.set(key, exactResult);
+    return exactResult;
+  }
+
+  var compact = STATE.compact.get(compactText(sourceText));
+  compact = cleanTargetForSource(sourceText, compact, false);
+
+  if (compact) {
+    var compactResult = {
+      target: compact,
+      score: 99,
+      reason: "worker-compact-clean"
+    };
+
+    STATE.cache.set(key, compactResult);
+    return compactResult;
+  }
+
+  var parts = splitSource(sourceText);
+
+  if (!parts.length) {
+    STATE.cache.set(key, null);
+    return null;
+  }
+
+  var targets = [];
+  var hits = 0;
+
+  for (var i = 0; i < parts.length; i++) {
+    var hit =
+      STATE.exact.get(normalizeText(parts[i])) ||
+      STATE.compact.get(compactText(parts[i]));
+
+    hit = cleanTargetForSource(parts[i], hit, true);
+
+    if (hit) {
+      hits++;
+
+      if (targets.indexOf(hit) === -1) {
+        targets.push(hit);
+      }
+    }
+  }
+
+  var coverage = hits / parts.length;
+
+  if (coverage >= 0.60 && targets.length) {
+    var mergedTarget = cleanTargetForSource(sourceText, targets.join(" "), false);
+
+    if (!mergedTarget) {
+      mergedTarget = targets.join("\n");
+    }
+
+    var result = {
+      target: mergedTarget,
+      score: Math.round(85 + coverage * 10),
+      reason: "worker-split-merge-clean"
+    };
+
+    STATE.cache.set(key, result);
+    return result;
+  }
+var globalHit = globalTokenCoverageRecover(sourceText);
+
+if (globalHit && globalHit.target) {
+  STATE.cache.set(key, globalHit);
+  return globalHit;
+}
+  STATE.cache.set(key, null);
+  return null;
 }
 
-/* =========================================================
-   Global TM index
-========================================================= */
+self.onmessage = function (e) {
+  var msg = e.data || {};
+  var id = msg.id || 0;
+  var type = msg.type || "";
+  var payload = msg.payload || {};
 
-export class GlobalTMEngine {
-  private pairs: TMPair[] = [];
-  private exact = new Map<string, TMPair[]>();
-  private compact = new Map<string, TMPair[]>();
-  private tokenIndex = new Map<string, Set<number>>();
-  private repeated = new Map<string, TMPair>();
-  private thresholds: TMThresholds;
-  private sourceLang: Lang;
-  private targetLang: Lang;
-
-  constructor(options: EngineOptions = {}) {
-    this.thresholds = { ...DEFAULT_THRESHOLDS, ...options.thresholds };
-    this.sourceLang = options.sourceLang || "ar";
-    this.targetLang = options.targetLang || "en";
-  }
-
-  buildFromHtml(htmlOrDoc: string | Document): void {
-    const pairs = extractBilingualPairs(htmlOrDoc, {
-      sourceLang: this.sourceLang,
-      targetLang: this.targetLang,
-      thresholds: this.thresholds
-    });
-
-    this.buildFromPairs(pairs);
-  }
-
-  buildFromPairs(pairs: TMPair[]): void {
-    this.pairs = [];
-    this.exact.clear();
-    this.compact.clear();
-    this.tokenIndex.clear();
-    this.repeated.clear();
-
-    for (const pair of pairs) {
-      if (!pair.source || !pair.target) continue;
-      if (!targetIsValid(pair.target, this.targetLang)) continue;
-
-      const index = this.pairs.length;
-      this.pairs.push(pair);
-
-      this.addToMap(this.exact, pair.sourceNorm, pair);
-      this.addToMap(this.compact, pair.sourceCompact, pair);
-
-      for (const token of pair.tokens) {
-        if (!this.tokenIndex.has(token)) this.tokenIndex.set(token, new Set());
-        this.tokenIndex.get(token)!.add(index);
-      }
-
-      if (!this.repeated.has(pair.sourceCompact)) {
-        this.repeated.set(pair.sourceCompact, pair);
-      }
-    }
-  }
-
-  private addToMap(map: Map<string, TMPair[]>, key: string, pair: TMPair): void {
-    if (!key) return;
-    if (!map.has(key)) map.set(key, []);
-    map.get(key)!.push(pair);
-  }
-
-  matchSegment(sourceSegment: string): MatchResult {
-    const sourceNorm = normalizeForMatch(sourceSegment);
-    const sourceCompact = compactForMatch(sourceSegment);
-
-    if (!sourceNorm) return this.none(sourceSegment, "Empty source segment.");
-
-    const exactCandidates = this.exact.get(sourceNorm) || [];
-
-    const exact = this.pickBestCandidate(sourceSegment, exactCandidates, 100, "normalized_exact");
-    if (exact) return exact;
-
-    const compactCandidates = this.compact.get(sourceCompact) || [];
-
-    const formatting = this.pickBestCandidate(sourceSegment, compactCandidates, 98, "formatting_only");
-    if (formatting) return formatting;
-
-    const repeated = this.repeated.get(sourceCompact);
-    if (repeated && targetIsValid(repeated.target, this.targetLang)) {
-      return this.result(sourceSegment, repeated, 99, "repeated", "Repeated source segment found in global TM.");
-    }
-
-    const partial = this.partialMatch(sourceSegment);
-    if (partial.matchPercentage >= this.thresholds.minimumReliable) return partial;
-
-    const fuzzy = this.fuzzyMatch(sourceSegment);
-    if (fuzzy.matchPercentage >= this.thresholds.minimumReliable) return fuzzy;
-
-    return this.none(sourceSegment, "No reliable translation found anywhere in the imported HTML.");
-  }
-
-  private pickBestCandidate(
-    source: string,
-    candidates: TMPair[],
-    score: number,
-    type: MatchType
-  ): MatchResult | null {
-    const valid = candidates.filter(c => this.isCandidateSafe(source, c, score));
-
-    if (!valid.length) return null;
-
-    const best = this.resolveConflicts(source, valid);
-
-    if (!best) return null;
-
-    return this.result(
-      source,
-      best,
-      score,
-      type,
-      type === "normalized_exact"
-        ? "Normalized source equals normalized TM source."
-        : "Only formatting, punctuation, spacing, or harmless orthographic differences were detected."
-    );
-  }
-
-  private partialMatch(source: string): MatchResult {
-    let bestPair: TMPair | null = null;
-    let bestScore = 0;
-
-    for (const pair of this.pairs) {
-      const contain = containmentScore(source, pair.source);
-
-      if (contain < 0.72) continue;
-
-      const fuzzy = weightedSimilarity(source, pair.source);
-      const score = Math.round((contain * 0.65 + fuzzy * 0.35) * 100);
-
-      if (score > bestScore && this.isCandidateSafe(source, pair, score)) {
-        bestScore = score;
-        bestPair = pair;
-      }
-    }
-
-    if (!bestPair) {
-      return this.none(source, "No reliable partial/subsegment match.");
-    }
-
-    const score = clamp(bestScore, 70, 94);
-
-    return this.result(
-      source,
-      bestPair,
-      score,
-      "partial",
-      "Source appears as part of a longer or shorter global TM entry."
-    );
-  }
-
-  private fuzzyMatch(source: string): MatchResult {
-    const candidateIndexes = this.collectFuzzyCandidates(source);
-    let bestPair: TMPair | null = null;
-    let bestScore = 0;
-
-    for (const index of candidateIndexes) {
-      const pair = this.pairs[index];
-      if (!pair) continue;
-
-      const sim = weightedSimilarity(source, pair.source);
-      const score = Math.round(sim * 100);
-
-      if (score > bestScore && this.isCandidateSafe(source, pair, score)) {
-        bestScore = score;
-        bestPair = pair;
-      }
-    }
-
-    if (!bestPair || bestScore < this.thresholds.minimumReliable) {
-      return this.none(source, "Fuzzy score below reliability threshold.");
-    }
-
-    return this.result(
-      source,
-      bestPair,
-      clamp(bestScore, 70, 94),
-      "fuzzy",
-      "Best global fuzzy match selected using token, character n-gram, and Levenshtein similarity."
-    );
-  }
-
-  private collectFuzzyCandidates(source: string): number[] {
-    const tokens = tokenize(source);
-    const scores = new Map<number, number>();
-
-    for (const token of tokens) {
-      const indexes = this.tokenIndex.get(token);
-      if (!indexes) continue;
-
-      indexes.forEach(i => {
-        scores.set(i, (scores.get(i) || 0) + 1);
+  try {
+    if (type === "BUILD_INDEX") {
+      self.postMessage({
+        id: id,
+        ok: true,
+        type: "BUILD_INDEX_DONE",
+        payload: buildIndex(payload.tus || [])
       });
+      return;
     }
 
-    return Array.from(scores.entries())
-      .sort((a, b) => b[1] - a[1])
-      .slice(0, this.thresholds.fuzzyCandidateLimit)
-      .map(x => x[0]);
-  }
+    if (type === "RECOVER_ONE") {
+      self.postMessage({
+        id: id,
+        ok: true,
+        type: "RECOVER_ONE_DONE",
+        payload: recoverOne(payload.sourceText || "")
+      });
+      return;
+    }
 
-  private isCandidateSafe(source: string, candidate: TMPair, score: number): boolean {
-    if (!candidate.target || !targetIsValid(candidate.target, this.targetLang)) return false;
+    if (type === "RECOVER_BATCH") {
+      var items = Array.isArray(payload.items) ? payload.items : [];
+      var results = [];
 
-    if (score < this.thresholds.minimumReliable) return false;
-
-    if (!sameNumbersOrSafe(source, candidate.source)) return false;
-
-    if (hasNegationMismatch(source, candidate.source)) return false;
-
-    const tokenScore = tokenSimilarity(source, candidate.source);
-    const charScore = charNgramSimilarity(source, candidate.source);
-
-    if (score < 85 && tokenScore < 0.25 && charScore < 0.35) return false;
-
-    return true;
-  }
-
-  private resolveConflicts(source: string, candidates: TMPair[]): TMPair | null {
-    if (!candidates.length) return null;
-    if (candidates.length === 1) return candidates[0];
-
-    const ranked = candidates
-      .map(c => ({
-        pair: c,
-        score: weightedSimilarity(source, c.source)
-      }))
-      .sort((a, b) => b.score - a.score);
-
-    const best = ranked[0];
-    const second = ranked[1];
-
-    if (second && Math.abs(best.score - second.score) < 0.02) {
-      const bestTarget = compactForMatch(best.pair.target);
-      const secondTarget = compactForMatch(second.pair.target);
-
-      if (bestTarget !== secondTarget) {
-        return null;
+      for (var i = 0; i < items.length; i++) {
+        results.push({
+          id: items[i].id,
+          result: recoverOne(items[i].sourceText || "")
+        });
       }
+
+      self.postMessage({
+        id: id,
+        ok: true,
+        type: "RECOVER_BATCH_DONE",
+        payload: results
+      });
+      return;
     }
 
-    return best.pair;
+    self.postMessage({
+      id: id,
+      ok: false,
+      error: "Unknown message type: " + type
+    });
+  } catch (err) {
+    self.postMessage({
+      id: id,
+      ok: false,
+      error: err && err.message ? err.message : String(err)
+    });
   }
-
-  private result(
-    source: string,
-    pair: TMPair,
-    score: number,
-    type: MatchType,
-    explanation: string
-  ): MatchResult {
-    const finalScore = clamp(Math.round(score), 0, 100);
-    const target = cleanTarget(pair.target, this.targetLang);
-
-    return {
-      sourceSegment: source,
-      bestMatchingSource: pair.source,
-      suggestedTarget: target,
-      matchPercentage: finalScore,
-      matchType: type,
-      status: this.statusFromScore(finalScore),
-      explanation,
-      candidateMetadata: pair.metadata
-    };
-  }
-
-  private none(source: string, explanation: string): MatchResult {
-    return {
-      sourceSegment: source,
-      bestMatchingSource: "",
-      suggestedTarget: "",
-      matchPercentage: 0,
-      matchType: "none",
-      status: "Needs Translation",
-      explanation,
-      candidateMetadata: null
-    };
-  }
-
-  private statusFromScore(score: number): MatchStatus {
-    if (score >= this.thresholds.confirmed) return "Confirmed";
-    if (score >= this.thresholds.review) return "Needs Review";
-    return "Needs Translation";
-  }
-}
-
-/* =========================================================
-   Integration helper for CAT table
-========================================================= */
-
-export function analyzeSegmentsWithGlobalTM(
-  engine: GlobalTMEngine,
-  sourceSegments: string[]
-): MatchResult[] {
-  return sourceSegments.map(segment => engine.matchSegment(segment));
-}
+};
