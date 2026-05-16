@@ -137,7 +137,8 @@ window.initCatTmWorker = initCatTmWorker;
 window.callCatTmWorker = callCatTmWorker;
 window.rebuildCatTmWorkerIndex = rebuildCatTmWorkerIndex;
 window.recoverOneByWorker = recoverOneByWorker;
-window.recoverBatchByWorker = recoverBatchByWorker;   
+window.recoverBatchByWorker = recoverBatchByWorker;
+window.CAT_APP = APP;   
 if (window.__CAT_V47_CELL_SEGMENT_PRO_ENHANCED__) {
 try { window.dispatchEvent(new CustomEvent("CAT_V47_PRO_OPEN")); } catch (e) {}
 return;
