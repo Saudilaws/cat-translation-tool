@@ -31,152 +31,6 @@ config: { maxWindows: 3, maxUnitsPerSide: 90, maxIndexTokens: 90 },
 terms: [],
 results: []
 };
-/* =========================================================
-   TM Worker Bridge
-   يربط لوحة CAT بملف tm-worker.js بدون تعليق الواجهة
-========================================================= */
-
-var CAT_TM_WORKER = null;
-var CAT_TM_WORKER_SEQ = 1;
-var CAT_TM_WORKER_JOBS = Object.create(null);
-
-function initCatTmWorker() {
-  if (CAT_TM_WORKER) return CAT_TM_WORKER;
-
-CAT_TM_WORKER = new Worker("./tm-worker.js?v=smart-tm-v9-safe-rescue");
-
-  CAT_TM_WORKER.onmessage = function (e) {
-    var msg = e.data || {};
-    var job = CAT_TM_WORKER_JOBS[msg.id];
-
-    if (!job) return;
-
-    delete CAT_TM_WORKER_JOBS[msg.id];
-
-    if (msg.ok) {
-      job.resolve(msg.payload);
-    } else {
-      job.reject(new Error(msg.error || "TM Worker error"));
-    }
-  };
-
-  CAT_TM_WORKER.onerror = function (err) {
-    console.error("CAT TM Worker Error:", err);
-  };
-
-  return CAT_TM_WORKER;
-}
-
-function callCatTmWorker(type, payload) {
-  initCatTmWorker();
-
-  return new Promise(function (resolve, reject) {
-    var id = CAT_TM_WORKER_SEQ++;
-
-    CAT_TM_WORKER_JOBS[id] = {
-      resolve: resolve,
-      reject: reject
-    };
-
-    CAT_TM_WORKER.postMessage({
-      id: id,
-      type: type,
-      payload: payload || {}
-    });
-  });
-}
-
-function rebuildCatTmWorkerIndex(force) {
-  var tus = APP.tus || APP.tm || APP.memory || [];
-
-  if (!Array.isArray(tus) || !tus.length) {
-    console.warn("TM Worker: no TUs found to index.");
-    APP.tmWorkerReady = false;
-    return Promise.resolve(null);
-  }
-
-var signature = [
-  tus.length,
-  tus[0] ? String((tus[0].ar || tus[0].source || tus[0].src || "")).length + ":" + String((tus[0].en || tus[0].target || tus[0].trg || "")).length : "0",
-  tus[tus.length - 1] ? String((tus[tus.length - 1].ar || tus[tus.length - 1].source || tus[tus.length - 1].src || "")).length + ":" + String((tus[tus.length - 1].en || tus[tus.length - 1].target || tus[tus.length - 1].trg || "")).length : "0"
-].join("|");
-
-if (
-  !force &&
-  APP.tmWorkerReady &&
-  APP.tmWorkerIndexSignature === signature &&
-  APP.tmWorkerStats
-) {
-  return Promise.resolve(APP.tmWorkerStats);
-}
-
-if (APP.tmWorkerIndexing) {
-  return APP.tmWorkerIndexing;
-}
-
-APP.tmWorkerReady = false;
-APP.tmWorkerIndexing = null;   
-APP.tmWorkerIndexSignature = signature;
-
-return APP.tmWorkerIndexing = callCatTmWorker("BUILD_INDEX", {    tus: tus
-  }).then(function (stats) {
-    console.log("TM Worker index ready:", stats);
-    APP.tmWorkerReady = true;
-    APP.tmWorkerStats = stats;
-   APP.tmWorkerIndexing = null;
-    return stats;
-  }).catch(function (err) {
-    console.error("TM Worker index failed:", err);
-    APP.tmWorkerReady = false;
-    return null;
-  });
-}
-
-function recoverOneByWorker(sourceText) {
-  if (!sourceText) return Promise.resolve(null);
-
-  return callCatTmWorker("RECOVER_ONE", {
-    sourceText: sourceText
-  }).catch(function (err) {
-    console.error("TM Worker recover failed:", err);
-    return null;
-  });
-}
-
-function recoverBatchByWorker(items) {
-  if (!Array.isArray(items) || !items.length) {
-    return Promise.resolve([]);
-  }
-
-  return callCatTmWorker("RECOVER_BATCH", {
-    items: items
-  }).catch(function (err) {
-    console.error("TM Worker batch recover failed:", err);
-    return [];
-  });
-}
-
-function matchBatchByWorker(items, minScore) {
-  if (!Array.isArray(items) || !items.length) {
-    return Promise.resolve([]);
-  }
-
-  return callCatTmWorker("MATCH_BATCH", {
-    items: items,
-    minScore: typeof minScore === "number" ? minScore : 60
-  }).catch(function (err) {
-    console.error("TM Worker batch match failed:", err);
-    return [];
-  });
-}   
-/* Expose TM Worker helpers for testing from Console */
-window.initCatTmWorker = initCatTmWorker;
-window.callCatTmWorker = callCatTmWorker;
-window.rebuildCatTmWorkerIndex = rebuildCatTmWorkerIndex;
-window.recoverOneByWorker = recoverOneByWorker;
-window.recoverBatchByWorker = recoverBatchByWorker;
-window.matchBatchByWorker = matchBatchByWorker;
-window.CAT_APP = APP;   
 if (window.__CAT_V47_CELL_SEGMENT_PRO_ENHANCED__) {
 try { window.dispatchEvent(new CustomEvent("CAT_V47_PRO_OPEN")); } catch (e) {}
 return;
@@ -308,7 +162,7 @@ else if (t.nl.length > 12 && q.nl.indexOf(t.nl) >= 0) contain = 0.18;
 else if (q.compact.length > 16 && t.compact.indexOf(q.compact) >= 0) contain = 0.32;
 var sc = d * 68 + lenScore * 18 + contain * 100;
 /* V47: non-exact matches are capped below Confirmed.
-   Confirmed is reserved for full-cell exact/normalized/compact equality. */
+Confirmed is reserved for full-cell exact/normalized/compact equality. */
 return Math.max(0, Math.min(94, Math.round(sc)));
 }
 function exactKind(q, t) {
@@ -319,22 +173,13 @@ if (q.compact && q.compact === t.compact) return "exact-compact-cell";
 return "";
 }
 function isConfirmedStatus(status) { return /confirmed/i.test(String(status || "")); }
-function isNeedsStatus(status) { return /needs/i.test(String(status || "")) || /translation/i.test(String(status || "")); }
-function isReviewStatus(status) { return /review/i.test(String(status || "")); }
-function normalizeStatusLabel(status, target, score) {
-status = String(status || "");
-if (!flat(target || "")) return "Needs Translation";
-if (isConfirmedStatus(status) || (+score || 0) >= 95) return "Confirmed";
-if (isReviewStatus(status) || (+score || 0) >= 60) return "Review";
-return "Needs Translation";
-}
 function statusFrom(score, target, mode) {
 score = +score || 0;
-if (!flat(target || "")) return "Needs Translation";
+if (!flat(target || "")) return score >= 95 ? "Source Found" : "Needs";
 if (score >= 98) return "Confirmed";
 if (score >= 95) return "Confirmed";
 if (score >= 65) return "Review";
-return "Needs Translation";
+return "Needs";
 }
 function textOf(el) { return flat(el ? el.textContent || "" : ""); }
 function isDecimalDot(s, i) {
@@ -351,7 +196,7 @@ var parts = [];
 var st = 0;
 for (var i = 0; i < line.length; i++) {
 var ch = line[i];
-var isEnd = ch === "." || ch === "!" || ch === "?" || ch === "\u061f" || ch === "\u061b" || ch === ";";
+var isEnd = ch === "." || ch === "!" || ch === "?" || ch === "\u061f" || ch === "Ø›" || ch === ";";
 if (!isEnd) continue;
 if (isDecimalDot(line, i) || isKnownAbbrevDot(line, i)) continue;
 var p = flat(line.slice(st, i + 1));
@@ -428,7 +273,7 @@ APP.cells.push({ text: text, lang: l, row: row, cell: cell, mode: mode || "cell"
 }
 function indexCellVariants(text, l, row, cell, mode) {
 /* V47: the full HTML cell is the only searchable unit.
-   No sentence/window/substring units are created here. */
+No sentence/window/substring units are created here. */
 addCellUnit(text, l, row, cell, mode || "html-cell");
 }
 function addTMUnits(arText, enText, rowNo, mode) {
@@ -436,7 +281,7 @@ arText = flat(arText);
 enText = flat(enText);
 if (!arText || !enText) return;
 /* V47: each bilingual HTML cell pair is one TM unit.
-   Do not split long cells into sentences, clauses, or windows. */
+Do not split long cells into sentences, clauses, or windows. */
 addTU(arText, enText, rowNo, (mode || "cell-pair") + "-html-cell");
 }
 function mergeSegmentsText(segs, start, end, l) {
@@ -541,12 +386,12 @@ APP.building = true;
 var rows = getPageRows();
 var total = rows.length;
 var i = 0;
-ui.status("\u062c\u0627\u0631\u064a \u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629 \u0645\u0646 \u0635\u0641\u062d\u0629 HTML \u0628\u0646\u0638\u0627\u0645 \u0627\u0644\u062e\u0644\u064a\u0629 = Segment \u0648\u0627\u062d\u062f...");
+ui.status("Ø¬Ø§Ø±ÙŠ Ø¨Ù†Ø§Ø¡ Ø°Ø§ÙƒØ±Ø© Ø§Ù„ØªØ±Ø¬Ù…Ø© Ù…Ù† ØµÙ Ø­Ø© HTML Ø¨Ù†Ø¸Ø§Ù… Ø§Ù„Ø®Ù„ÙŠØ© = Segment ÙˆØ§Ø­Ø¯...");
 ui.progress(0, total);
 function step() {
 if (APP.stop) {
 APP.building = false;
-ui.status("\u062a\u0645 \u0625\u064a\u0642\u0627\u0641 \u0628\u0646\u0627\u0621 \u0627\u0644\u0630\u0627\u0643\u0631\u0629.");
+ui.status("ØªÙ… Ø¥ÙŠÙ‚Ø§Ù Ø¨Ù†Ø§Ø¡ Ø§Ù„Ø°Ø§ÙƒØ±Ø©.");
 return;
 }
 var end = Math.min(i + 80, total);
@@ -582,20 +427,13 @@ addTMUnits(p.ar.text, p.en.text, i, "cell-pair r" + (i + 1) + " c" + p.ar.cell +
 });
 }
 ui.progress(i, total);
-ui.status("\u0628\u0646\u0627\u0621 \u0627\u0644\u0630\u0627\u0643\u0631\u0629: " + asc(i) + " / " + asc(total) + " \u2014 \u062e\u0644\u0627\u064a\u0627 TM: " + asc(APP.tus.length) + " \u2014 \u062e\u0644\u0627\u064a\u0627 \u0645\u0641\u0647\u0631\u0633\u0629: " + asc(APP.cells.length));
+ui.status("Ø¨Ù†Ø§Ø¡ Ø§Ù„Ø°Ø§ÙƒØ±Ø©: " + asc(i) + " / " + asc(total) + " â€” Ø®Ù„Ø§ÙŠØ§ TM: " + asc(APP.tus.length) + " â€” Ø®Ù„Ø§ÙŠØ§ Ù…Ù Ù‡Ø±Ø³Ø©: " + asc(APP.cells.length));
 if (i < total) setTimeout(step, 1);
 else {
 APP.built = true;
 APP.building = false;
 ui.progress(total, total);
-ui.status("\u0627\u0643\u062a\u0645\u0644 \u0628\u0646\u0627\u0621 \u0627\u0644\u0630\u0627\u0643\u0631\u0629 \u0628\u0646\u0638\u0627\u0645 \u0627\u0644\u062e\u0644\u064a\u0629 = Segment \u0648\u0627\u062d\u062f. \u062e\u0644\u0627\u064a\u0627 TM: " + asc(APP.tus.length) + " \u2014 \u062e\u0644\u0627\u064a\u0627 \u0645\u0641\u0647\u0631\u0633\u0629: " + asc(APP.cells.length));
-try {
-  if (typeof rebuildCatTmWorkerIndex === "function") {
-    rebuildCatTmWorkerIndex(true).then(function (stats) {
-      if (stats) ui.status("\u0627\u0643\u062a\u0645\u0644 \u0628\u0646\u0627\u0621 \u0627\u0644\u0630\u0627\u0643\u0631\u0629 \u0648\u0641\u0647\u0631\u0633\u0629 \u0645\u062d\u0631\u0643 \u0627\u0644\u0628\u062d\u062b. TM: " + asc(APP.tus.length));
-    });
-  }
-} catch (e) { console.error("TM Worker index after build failed:", e); }
+ui.status("Ø§ÙƒØªÙ…Ù„ Ø¨Ù†Ø§Ø¡ Ø§Ù„Ø°Ø§ÙƒØ±Ø© Ø¨Ù†Ø¸Ø§Ù… Ø§Ù„Ø®Ù„ÙŠØ© = Segment ÙˆØ§Ø­Ø¯. Ø®Ù„Ø§ÙŠØ§ TM: " + asc(APP.tus.length) + " â€” Ø®Ù„Ø§ÙŠØ§ Ù…Ù Ù‡Ø±Ø³Ø©: " + asc(APP.cells.length));
 }
 }
 step();
@@ -861,7 +699,7 @@ rows,
 }
 function createWord(results) {
 var rows = results.map(function (r, i) {
-var needs = isNeedsStatus(r.status) || !r.target;
+var needs = r.status === "Needs" || !r.target;
 var srcDir = r.segment.lang === "ar" ? "rtl" : "ltr";
 var tgtDir = r.targetLang === "ar" ? "rtl" : "ltr";
 var srcClass = r.segment.lang === "ar" ? "ar" : "en";
@@ -1048,15 +886,6 @@ shadow.innerHTML = [
 ".panel.sourceCollapsed .inputArea{display:none!important;height:0!important;padding:0!important;border:0!important;min-height:0!important;overflow:hidden!important}",
 ".panel.sourceCollapsed .tablewrap{flex:1 1 auto!important;min-height:0!important}",
 ".panel.sourceCollapsed .mainbox{min-height:0!important}",
-".panel.statsCollapsed .dash{display:none!important}",
-".panel.statsCollapsed .body{padding-top:12px}",
-".statActions{margin-top:6px;display:flex;justify-content:center;gap:5px}",
-".statJump{height:24px;min-width:48px;border-radius:999px;border:1px solid #d9e0ea;background:#fff;font-size:11px;font-weight:900;color:#334155}",
-".sourceHeader{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:8px}",
-".sourceTitle{font-size:12px;font-weight:900;color:#475569}",
-".sourceClear{width:28px;height:28px;min-width:28px;border-radius:8px;background:#fee2e2;color:#991b1b;border:1px solid #fecaca;font-weight:900}",
-".needsPill{background:#FFF2CC;color:#92400E;border:1px solid #FCD34D}",
-".reviewPill{background:#FFF7ED;color:#C2410C;border:1px solid #FDBA74}",
 ".topTools{display:flex;align-items:center;gap:6px}",
 ".iconBtn{height:30px;min-width:34px;padding:0 10px;border:1px solid #d9e0ea;border-radius:8px;background:#fff;font:800 12px 'Segoe UI',Tahoma,Arial;cursor:pointer}",
 ".iconBtn.on{background:#0f766e;color:#fff;border-color:#0f766e}",
@@ -1109,13 +938,13 @@ shadow.innerHTML = [
 "</style>",
 "<button class='fab' id='fab'>CAT V47 Cell</button>",
 "<section class='panel' id='panel'>",
-"<div class='top'><button class='close' id='close'>\xd7</button><div class='topTools'><button class='iconBtn' id='toggleSourceIcon' title='طي/إظهار لوحة المصدر'>SRC</button><button class='iconBtn' id='toggleHtmlIcon' title='إخفاء/إظهار محتوى HTML'>HTML</button><button class='iconBtn' id='toggleStats' title='إخفاء/إظهار العدادات'>Stats−</button></div><div class='title'>CAT Translation Memory V47 Cell-Segment Professional</div></div>",
+"<div class='top'><button class='close' id='close'>\xd7</button><div class='topTools'><button class='iconBtn' id='toggleSourceIcon' title='\u0637\u064a/\u0625\u0638\u0647\u0627\u0631 \u0644\u0648\u062d\u0629 \u0627\u0644\u0645\u0635\u062f\u0631'>SRC</button><button class='iconBtn' id='toggleHtmlIcon' title='\u0625\u062e\u0641\u0627\u0621/\u0625\u0638\u0647\u0627\u0631 \u0645\u062d\u062a\u0648\u0649 HTML'>HTML</button></div><div class='title'>CAT Translation Memory V47 Cell-Segment Professional</div></div>",
 "<div class='dash'>",
 "<div class='statCard'><div class='lab'>\u0645\u0639\u062f\u0644 \u0627\u0644\u062a\u0637\u0627\u0628\u0642 \u0645\u0646 100</div><div class='val' id='avgStat'>0%</div></div>",
 "<div class='statCard'><div class='lab'>Segments</div><div class='val' id='segStat'>0</div></div>",
 "<div class='statCard'><div class='lab'>Confirmed</div><div class='val' id='confirmedStat'>0</div></div>",
-"<div class='statCard'><div class='lab'>Needs Translation</div><div class='val' id='needsStat'>0</div><div class='statActions'><button class='statJump' id='jumpNeeds'>انتقال</button></div></div>",
-"<div class='statCard'><div class='lab'>Needs Review</div><div class='val' id='reviewStat'>0</div><div class='statActions'><button class='statJump' id='jumpReview'>انتقال</button></div></div>",
+"<div class='statCard'><div class='lab'>Needs Translation</div><div class='val' id='needsStat'>0</div></div>",
+"<div class='statCard'><div class='lab'>Needs Review</div><div class='val' id='reviewStat'>0</div></div>",
 "</div>",
 "<div class='body'>",
 "<aside class='side'>",
@@ -1126,7 +955,6 @@ shadow.innerHTML = [
 "<button id='concordance'>\u0628\u062d\u062b Concordance</button>",
 "<input id='concordQ' placeholder='\u0628\u062d\u062b \u0641\u064a \u0627\u0644\u0630\u0627\u0643\u0631\u0629...' style='padding:0 8px'>",
 "<button id='importDOCX'>Import Word DOCX</button>",
-"<button id='importHTML'>Import HTML</button>",
 "<button id='importTerms'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f \u0645\u0635\u0637\u0644\u062d\u0627\u062a CSV</button>",
 "<button id='importTMX'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f TMX</button>",
 "<button id='exportTMX'>\u062a\u0635\u062f\u064a\u0631 TMX</button>",
@@ -1143,7 +971,7 @@ shadow.innerHTML = [
 "<div class='mini'>Local only \xb7 No network \xb7 No CDN \xb7 No external API</div>",
 "</aside>",
 "<main class='mainbox'>",
-"<div class='inputArea'><div class='sourceHeader'><div class='sourceTitle'>النص الأصلي للتحليل</div><button class='sourceClear' id='clearSource' title='مسح النص الأصلي'>×</button></div><textarea id='source' placeholder='ألصق هنا النص العربي أو الإنجليزي المراد تحليله...'></textarea></div>",
+"<div class='inputArea'><textarea id='source' placeholder='\u0623\u0644\u0635\u0642 \u0647\u0646\u0627 \u0627\u0644\u0646\u0635 \u0627\u0644\u0639\u0631\u0628\u064a \u0623\u0648 \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a \u0627\u0644\u0645\u0631\u0627\u062f \u062a\u062d\u0644\u064a\u0644\u0647...'></textarea></div>",
 "<div class='tablewrap'>",
 "<table>",
 "<thead><tr><th class='num'>#</th><th class='src'>Source Segment</th><th class='best'>Best Match</th><th class='match'>Match</th><th class='target'>Target Draft</th><th class='stat'>Status</th></tr></thead>",
@@ -1153,7 +981,6 @@ shadow.innerHTML = [
 "</main>",
 "</div>",
 "<input class='hiddenFile' id='fileDOCX' type='file' accept='.docx,application/vnd.openxmlformats-officedocument.wordprocessingml.document'>",
-"<input class='hiddenFile' id='fileHTML' type='file' accept='.html,.htm,text/html'>",
 "<input class='hiddenFile' id='fileTerms' type='file' accept='.csv,.txt'>",
 "<input class='hiddenFile' id='fileTMX' type='file' accept='.tmx,.xml,.txt'>",
 "<input class='hiddenFile' id='fileProject' type='file' accept='.json'>",
@@ -1215,36 +1042,20 @@ btn.setAttribute("aria-pressed", hidden ? "true" : "false");
 }
 ui.status(hidden ? "\u062a\u0645 \u0625\u062e\u0641\u0627\u0621 \u0645\u062d\u062a\u0648\u0649 \u0635\u0641\u062d\u0629 HTML." : "\u062a\u0645 \u0625\u0638\u0647\u0627\u0631 \u0645\u062d\u062a\u0648\u0649 \u0635\u0641\u062d\u0629 HTML.");
 }
-function setStatsCollapsed(collapsed) {
-collapsed = !!collapsed;
-panel.classList.toggle("statsCollapsed", collapsed);
-var btn = $("#toggleStats");
-if (btn) {
-btn.textContent = collapsed ? "Stats+" : "Stats−";
-btn.classList.toggle("on", collapsed);
-btn.setAttribute("aria-pressed", collapsed ? "true" : "false");
-}
-ui.status(collapsed ? "تم إخفاء العدادات لتوسيع مساحة النتائج." : "تم إظهار العدادات.");
-}
-
 function updateStats() {
 var total = APP.results.length;
 var sum = 0;
 var needs = 0;
 var review = 0;
 var confirmed = 0;
-
 APP.results.forEach(function (r) {
 var sc = +r.score || 0;
-var target = r.target || r.best || "";
 var issues = qaIssues(r.segment.text, r.target || "");
 sum += sc;
-
-if (isNeedsStatus(r.status) || !flat(target)) needs++;
+if (r.status === "Needs" || !flat(r.target || "")) needs++;
 else if (isConfirmedStatus(r.status) && sc >= 95 && !issues.length) confirmed++;
 else review++;
 });
-
 var avg = total ? Math.round(sum / total) : 0;
 $("#avgStat").textContent = matchLabel(avg);
 $("#avgStat").style.color = matchColor(avg);
@@ -1262,7 +1073,7 @@ boxes.forEach(function (b) {
 var i = +b.getAttribute("data-i");
 if (APP.results[i]) {
 APP.results[i].target = b.value || "";
-if (!APP.results[i].target) APP.results[i].status = "Needs Translation";
+if (!APP.results[i].target) APP.results[i].status = "Needs";
 else if ((+APP.results[i].score || 0) >= 95 && !qaIssues(APP.results[i].segment.text, APP.results[i].target).length) APP.results[i].status = isConfirmedStatus(APP.results[i].status) ? APP.results[i].status : "Confirmed";
 else APP.results[i].status = "Review";
 }
@@ -1272,30 +1083,21 @@ updateStats();
 function renderResults(results) {
 res.innerHTML = "";
 if (!results.length) {
-res.innerHTML = "<tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>لا توجد نتائج.</td></tr>";
+res.innerHTML = "<tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>\u0644\u0627 \u062a\u0648\u062c\u062f \u0646\u062a\u0627\u0626\u062c.</td></tr>";
 updateStats();
 return;
 }
-
 var frag = document.createDocumentFragment();
-
 results.forEach(function (r, i) {
 var tr = document.createElement("tr");
-var isNeeds = isNeedsStatus(r.status) || !flat(r.target || r.best || "");
-var isReview = !isNeeds && !isConfirmedStatus(r.status);
+var isNeeds = r.status === "Needs" || !r.target;
 if (isNeeds) tr.className = "needsRow";
-if (isReview) tr.className = (tr.className ? tr.className + " " : "") + "reviewRow";
-tr.setAttribute("data-i", String(i));
-tr.setAttribute("data-status", isNeeds ? "needs" : (isReview ? "review" : "confirmed"));
-
 var srcClass = r.segment.lang === "ar" ? "ar" : "en";
 var tgtClass = r.targetLang === "ar" ? "ar" : "en";
 var qa = qaIssues(r.segment.text, r.target || "");
 var suggestions = getSuggestions(r.segment.text, r.targetLang);
 var mColor = matchColor(r.score);
-var pillClass = isConfirmedStatus(r.status) ? "pill confirmed" : (isNeeds ? "pill needsPill" : "pill reviewPill");
-var safeStatus = normalizeStatusLabel(r.status, r.target || r.best || "", r.score);
-
+var pillClass = isConfirmedStatus(r.status) ? "pill confirmed" : "pill";
 tr.innerHTML =
 "<td class='num'>" + esc(i + 1) + "</td>" +
 "<td class='src " + srcClass + "'>" + esc(r.segment.text) + "</td>" +
@@ -1309,13 +1111,10 @@ tr.innerHTML =
 "<div class='suggest'>" + suggestions.map(function (sug) { return "<button class='sug' data-v='" + esc(sug) + "'>" + esc(sug) + "</button>"; }).join("") + "</div>" +
 (qa.length ? "<div class='qa'>QA: " + esc(qa.join(" | ")) + "</div>" : "") +
 "</td>" +
-"<td class='stat'><span class='" + pillClass + "'>" + esc(safeStatus) + "</span></td>";
-
+"<td class='stat'><span class='" + pillClass + "'>" + esc(r.status || "") + "</span></td>";
 frag.appendChild(tr);
 });
-
 res.appendChild(frag);
-
 Array.prototype.slice.call(res.querySelectorAll(".sug")).forEach(function (btn) {
 btn.onclick = function () {
 var area = btn.closest("td").querySelector("textarea");
@@ -1325,263 +1124,59 @@ area.value = flat((area.value || "") + " " + v);
 area.dispatchEvent(new Event("input"));
 };
 });
-
 Array.prototype.slice.call(res.querySelectorAll(".targetDraft")).forEach(function (area) {
 area.oninput = function () { updateStoredTargets(); };
 });
-
 updateStats();
 }
-
-var navCursor = { needs: -1, review: -1 };
-
-function scrollToResultStatus(kind) {
-var rows = Array.prototype.slice.call(res.querySelectorAll("tr[data-status='" + kind + "']"));
-if (!rows.length) {
-ui.status(kind === "needs" ? "لا توجد أجزاء تحتاج ترجمة." : "لا توجد أجزاء تحتاج مراجعة.");
-return;
-}
-
-navCursor[kind] = (navCursor[kind] + 1) % rows.length;
-var row = rows[navCursor[kind]];
-row.scrollIntoView({ behavior: "smooth", block: "center" });
-row.style.outline = "3px solid " + (kind === "needs" ? "#DC2626" : "#F59E0B");
-row.style.outlineOffset = "-3px";
-setTimeout(function () { row.style.outline = ""; row.style.outlineOffset = ""; }, 1500);
-
-var i = row.getAttribute("data-i");
-ui.status((kind === "needs" ? "انتقال إلى يحتاج ترجمة: " : "انتقال إلى يحتاج مراجعة: ") + asc((+i || 0) + 1));
-}
 function analyze() {
-if (!APP.built || !APP.tus.length) {
-ui.status("ابنِ الذاكرة أولًا بالضغط على «بناء ذاكرة الترجمة».");
-return;
-}
-
+if (!APP.built || !APP.tus.length) { ui.status("\u0627\u0628\u0646\u0650 \u0627\u0644\u0630\u0627\u0643\u0631\u0629 \u0623\u0648\u0644\u064b\u0627 \u0628\u0627\u0644\u0636\u063a\u0637 \u0639\u0644\u0649 \xab\u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629\xbb."); return; }
 APP.stop = false;
-
 var v = source.value.trim();
-if (!v) {
-ui.status("ألصق النص أولًا.");
-return;
-}
-
+if (!v) { ui.status("\u0623\u0644\u0635\u0642 \u0627\u0644\u0646\u0635 \u0623\u0648\u0644\u064b\u0627."); return; }
 var forced = $("#slang").value;
 var L = forced === "auto" ? null : forced;
 var segs = splitSegments(v, L);
-
-if (!segs.length) {
-ui.status("لم أجد Segments قابلة للتحليل.");
-return;
-}
-
-APP.results = segs.map(function (seg) {
-return {
-segment: seg,
-best: "",
-target: "",
-targetLang: seg.lang === "ar" ? "en" : "ar",
-score: 0,
-status: "Needs Translation",
-mode: "pending",
-sourceFound: ""
-};
-});
-
-renderResults(APP.results);
+if (!segs.length) { ui.status("\u0644\u0645 \u0623\u062c\u062f Segments \u0642\u0627\u0628\u0644\u0629 \u0644\u0644\u062a\u062d\u0644\u064a\u0644."); return; }
+APP.results = [];
+res.innerHTML = "";
+ui.status("\u062c\u0627\u0631\u064a \u0627\u0644\u062a\u062d\u0644\u064a\u0644...");
 ui.progress(0, segs.length);
 updateStats();
-ui.status("جاري تجهيز فهرس البحث السريع...");
-
-var items = segs.map(function (seg, i) {
-return {
-id: i,
-sourceText: seg.text,
-lang: seg.lang || (forced === "auto" ? lang(seg.text) : forced)
-};
+var i = 0;
+function step() {
+if (APP.stop) { ui.status("\u062a\u0645 \u0625\u064a\u0642\u0627\u0641 \u0627\u0644\u062a\u062d\u0644\u064a\u0644."); return; }
+var end = Math.min(i + 15, segs.length);
+for (; i < end; i++) {
+var seg = segs[i];
+var m = searchOne(seg.text, seg.lang);
+APP.results.push({
+segment: seg,
+best: m.target || "",
+target: m.target || "",
+targetLang: m.targetLang,
+score: m.score || 0,
+status: m.status || "Review",
+mode: m.mode || "",
+sourceFound: m.source || ""
 });
-
-function applyWorkerList(list) {
-list = Array.isArray(list) ? list : [];
-for (var a = 0; a < list.length; a++) {
-var item = list[a] || {};
-var m = item.result || {};
-var idx = +item.id;
-if (!APP.results[idx]) continue;
-var target = m.target || "";
-var score = +m.score || 0;
-APP.results[idx].best = target;
-APP.results[idx].target = target;
-APP.results[idx].targetLang = m.targetLang || (APP.results[idx].segment.lang === "ar" ? "en" : "ar");
-APP.results[idx].score = score;
-APP.results[idx].status = normalizeStatusLabel(m.status, target, score);
-APP.results[idx].mode = m.mode || m.reason || "none";
-APP.results[idx].sourceFound = m.source || "";
 }
-}
-
-rebuildCatTmWorkerIndex(false).then(function () {
-if (APP.stop) {
-ui.status("تم إيقاف التحليل.");
-return null;
-}
-
-var chunkSize = 320;
-var done = 0;
-
-function runChunk(start) {
-if (APP.stop) {
-ui.status("تم إيقاف التحليل.");
-return Promise.resolve(null);
-}
-
-var end = Math.min(start + chunkSize, items.length);
-var chunk = items.slice(start, end);
-ui.status("جاري البحث في ذاكرة الترجمة: " + asc(end) + " / " + asc(items.length));
-ui.progress(start, items.length);
-
-return matchBatchByWorker(chunk, 60).then(function (part) {
-applyWorkerList(part);
-done = end;
-ui.progress(done, items.length);
+ui.progress(i, segs.length);
+ui.status("\u062a\u0645 \u062a\u062d\u0644\u064a\u0644 " + asc(i) + " \u0645\u0646 " + asc(segs.length));
 renderResults(APP.results);
-updateStats();
-
-if (end < items.length) {
-return new Promise(function (resolve) { setTimeout(resolve, 0); }).then(function () {
-return runChunk(end);
-});
+if (i < segs.length) setTimeout(step, 1);
+else { ui.status("\u0627\u0643\u062a\u0645\u0644 \u0627\u0644\u062a\u062d\u0644\u064a\u0644. \u0639\u062f\u062f \u0627\u0644\u0646\u062a\u0627\u0626\u062c: " + asc(APP.results.length)); updateStats(); }
 }
-return true;
-});
-}
-
-
-function runSafeWorkerRescuePass() {
-var items = [];
-
-for (var x = 0; x < APP.results.length; x++) {
-var r = APP.results[x];
-if (!r || !r.segment || !r.segment.text) continue;
-
-var noTarget = !(r.target || r.best);
-var currentScore = Number(r.score || 0);
-var lowScore = currentScore < 95;
-var statusText = String(r.status || "").toLowerCase();
-var isConfirmed = statusText.indexOf("confirmed") !== -1;
-
-if (!isConfirmed && (noTarget || lowScore)) {
-items.push({
-id: x,
-sourceText: r.segment.text,
-lang: r.segment.lang || (forced === "auto" ? lang(r.segment.text) : forced)
-});
-}
-}
-
-if (!items.length) return Promise.resolve(0);
-
-var rescueChunkSize = 180;
-var changedTotal = 0;
-
-function applyRecoveryList(list) {
-list = Array.isArray(list) ? list : [];
-var changed = 0;
-
-for (var y = 0; y < list.length; y++) {
-var item = list[y] || {};
-var hit = item && item.result;
-var row = APP.results[item.id];
-
-if (!row || !hit || !hit.target) continue;
-
-var oldScore = Number(row.score || 0);
-var newScore = Number(hit.score || 0);
-
-if (!hit.target) continue;
-if (newScore < 60) continue;
-
-/* لا يستبدل نتيجة جيدة إلا إذا كان الـ Worker أفضل */
-if (oldScore >= 95 && newScore <= oldScore) continue;
-
-row.best = hit.target;
-row.target = hit.target;
-row.targetLang = hit.targetLang || (row.segment.lang === "ar" ? "en" : "ar");
-row.score = newScore || 95;
-row.status = "Review";
-row.mode = hit.reason || hit.mode || "worker-split-merge";
-row.sourceFound = row.sourceFound || hit.source || "";
-
-changed++;
-}
-
-return changed;
-}
-
-function runRescueChunk(start) {
-if (APP.stop) return Promise.resolve(changedTotal);
-
-var end = Math.min(start + rescueChunkSize, items.length);
-var chunk = items.slice(start, end);
-ui.status("فحص النتائج منخفضة التطابق بالـ Worker: " + asc(end) + " / " + asc(items.length));
-
-return recoverBatchByWorker(chunk).then(function (list) {
-changedTotal += applyRecoveryList(list);
-
-if (changedTotal) {
-renderResults(APP.results);
-updateStats();
-}
-
-if (end < items.length) {
-return new Promise(function (resolve) { setTimeout(resolve, 0); }).then(function () {
-return runRescueChunk(end);
-});
-}
-
-return changedTotal;
-});
-}
-
-return runRescueChunk(0).then(function (changed) {
-if (changed) {
-renderResults(APP.results);
-updateStats();
-ui.status("اكتمل التحليل. تم تحسين " + asc(changed) + " نتيجة منخفضة التطابق دون استبدال النتائج المؤكدة.");
-}
-return changed;
-});
-}
-
-return runChunk(0).then(function (ok) {
-if (!ok) return ok;
-return runSafeWorkerRescuePass().then(function () { return true; });
-});
-}).then(function (ok) {
-if (!ok) return;
-ui.progress(segs.length, segs.length);
-ui.status("اكتمل التحليل. النتائج: " + asc(APP.results.length) + " — تم تطبيق فحص Worker الآمن للنتائج الأقل من 95%.");
-updateStats();
-}).catch(function (err) {
-console.error("Analyze worker failed:", err);
-ui.status("تعذر التحليل عبر Worker: " + (err && err.message ? err.message : err));
-});
+step();
 }
 $("#fab").onclick = open;
 $("#close").onclick = close;
 window.addEventListener("CAT_V47_PRO_OPEN", open);
 $("#toggleSourceIcon").onclick = function () { setSourceCollapsed(!panel.classList.contains("sourceCollapsed")); };
 $("#toggleHtmlIcon").onclick = function () { setHtmlHidden(!document.getElementById(APP.hostId + "-page-hide-style")); };
-$("#toggleStats").onclick = function () { setStatsCollapsed(!panel.classList.contains("statsCollapsed")); };
-$("#clearSource").onclick = function () { source.value = ""; source.focus(); ui.status("تم مسح مربع النص الأصلي."); };
-$("#jumpNeeds").onclick = function () { scrollToResultStatus("needs"); };
-$("#jumpReview").onclick = function () { scrollToResultStatus("review"); };
 setSourceCollapsed(false);
 setHtmlHidden(false);
-$("#build").onclick = function () {
-  APP.stop = false;
-  buildMemory(ui);
-};
+$("#build").onclick = function () { APP.stop = false; buildMemory(ui); };
 $("#analyze").onclick = analyze;
 $("#stop").onclick = function () { APP.stop = true; ui.status("\u062c\u0627\u0631\u064a \u0627\u0644\u0625\u064a\u0642\u0627\u0641..."); };
 $("#acceptAll").onclick = function () {
@@ -1643,28 +1238,6 @@ ui.status("DOCX import failed: " + (e && e.message ? e.message : e));
 }
 $("#fileDOCX").value = "";
 };
-$("#importHTML").onclick = function () { $("#fileHTML").click(); };
-$("#fileHTML").onchange = function () {
-var f = $("#fileHTML").files && $("#fileHTML").files[0];
-if (!f) return;
-f.text().then(function (txt) {
-try {
-var oldBox = document.getElementById(APP.hostId + "-imported-html-tm");
-if (oldBox) oldBox.remove();
-var html = String(txt || "").replace(/<script[\s\S]*?<\/script>/gi, "").replace(/<style[\s\S]*?<\/style>/gi, "");
-var doc = new DOMParser().parseFromString(html, "text/html");
-var box = document.createElement("div");
-box.id = APP.hostId + "-imported-html-tm";
-box.style.cssText = "display:none!important";
-box.innerHTML = (doc.body && doc.body.innerHTML) || html;
-document.body.appendChild(box);
-ui.status("\u062a\u0645 \u0627\u0633\u062a\u064a\u0631\u0627\u062f HTML. \u0627\u0644\u0635\u0641\u0648\u0641: " + asc(box.querySelectorAll("tr").length) + " \u2014 \u0627\u0636\u063a\u0637 \u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629.");
-} catch (e) {
-ui.status("\u0641\u0634\u0644 \u0627\u0633\u062a\u064a\u0631\u0627\u062f HTML: " + (e && e.message ? e.message : e));
-}
-});
-$("#fileHTML").value = "";
-};
 $("#importTerms").onclick = function () { $("#fileTerms").click(); };
 $("#fileTerms").onchange = function () {
 var f = $("#fileTerms").files && $("#fileTerms").files[0];
@@ -1711,300 +1284,4 @@ ready(function () {
 try { initUI(); }
 catch (e) { alert("CAT V47 Cell-Segment error: " + (e && e.message ? e.message : e)); }
 });
-
-/* =========================================================
-IndexedDB TM Add-ons + Focus Mode - Clean UTF-8 / ASCII-safe
-========================================================= */
-ready(function(){setTimeout(function(){
-var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;
-if(!s||s.getElementById("importHTML_DB"))return;
-var side=s.querySelector(".side"),after=s.getElementById("importDOCX"),panel=s.getElementById("panel"),status=s.getElementById("status"),fill=s.getElementById("fill");
-if(!side||!panel)return;
-var btn=document.createElement("button"),inp=document.createElement("input");
-btn.id="importHTML_DB";
-btn.textContent="Import HTML to IndexedDB";
-btn.style.background="#0f766e";
-btn.style.color="#fff";
-btn.style.borderColor="#0f766e";
-inp.id="fileHTML_DB";
-inp.type="file";
-inp.accept=".html,.htm,text/html";
-inp.className="hiddenFile";
-(after&&after.parentNode?after.parentNode:side).insertBefore(btn,after?after.nextSibling:null);
-panel.appendChild(inp);
-var DB_NAME="CAT_TM_INDEXEDDB",DB_VER=1;
-function msg(x){if(status)status.textContent=x}
-function prog(a,b){if(fill)fill.style.width=(b?Math.round(a/b*100):0)+"%"}
-function openDB(){return new Promise(function(res,rej){
-if(!window.indexedDB){rej(new Error("IndexedDB is not supported in this browser."));return}
-var r=indexedDB.open(DB_NAME,DB_VER);
-r.onupgradeneeded=function(e){
-var db=e.target.result,seg,mem;
-if(!db.objectStoreNames.contains("segments")){
-seg=db.createObjectStore("segments",{keyPath:"id",autoIncrement:true});
-seg.createIndex("memoryName","memoryName",{unique:false});
-seg.createIndex("arNorm","arNorm",{unique:false});
-seg.createIndex("enNorm","enNorm",{unique:false});
-seg.createIndex("arCompact","arCompact",{unique:false});
-seg.createIndex("enCompact","enCompact",{unique:false});
-seg.createIndex("createdAt","createdAt",{unique:false});
-}
-if(!db.objectStoreNames.contains("memories")){
-mem=db.createObjectStore("memories",{keyPath:"name"});
-mem.createIndex("importedAt","importedAt",{unique:false});
-}
-};
-r.onsuccess=function(){res(r.result)};
-r.onerror=function(){rej(r.error||new Error("Could not open IndexedDB."))};
-})}
-function done(tx){return new Promise(function(res,rej){
-tx.oncomplete=function(){res()};
-tx.onerror=function(){rej(tx.error||new Error("IndexedDB transaction error"))};
-tx.onabort=function(){rej(tx.error||new Error("IndexedDB transaction aborted"))};
-})}
-async function deleteMemory(db,name){
-var tx=db.transaction("segments","readwrite"),st=tx.objectStore("segments"),idx=st.index("memoryName"),req=idx.openCursor(IDBKeyRange.only(name));
-req.onsuccess=function(e){var c=e.target.result;if(c){c.delete();c.continue()}};
-await done(tx);
-}
-function fallbackPairs(arCells,enCells){
-var out=[],ar=arCells.slice().sort(function(a,b){return a.cell-b.cell}),en=enCells.slice().sort(function(a,b){return a.cell-b.cell});
-if(!ar.length||!en.length)return out;
-if(typeof pairCellsByOrder==="function")return pairCellsByOrder(ar,en);
-if(ar.length===en.length){for(var i=0;i<ar.length;i++)out.push({ar:ar[i],en:en[i]});return out}
-if(ar.length===1){en.forEach(function(e){out.push({ar:ar[0],en:e})});return out}
-if(en.length===1){ar.forEach(function(a){out.push({ar:a,en:en[0]})});return out}
-var used=Object.create(null);
-ar.forEach(function(a){var best=-1,dist=1e9;for(var j=0;j<en.length;j++){if(used[j])continue;var d=Math.abs(a.cell-en[j].cell);if(d<dist){dist=d;best=j}}if(best>=0){used[best]=1;out.push({ar:a,en:en[best]})}});
-return out;
-}
-function extract(html,memoryName){
-var doc=new DOMParser().parseFromString(String(html||"").replace(/<script[\s\S]*?<\/script>/gi,"").replace(/<style[\s\S]*?<\/style>/gi,""),"text/html"),rows=Array.prototype.slice.call(doc.querySelectorAll("tr")),seen=Object.create(null),out=[],now=Date.now();
-rows.forEach(function(r,ri){
-var cells=Array.prototype.slice.call(r.querySelectorAll("td,th")),arCells=[],enCells=[];
-cells.forEach(function(c,ci){var tx=flat(c.textContent||"");if(!tx||tx.length<2)return;var ac=arCount(tx),ec=enCount(tx);if(ac>=2)arCells.push({text:tx,row:ri,cell:ci});if(ec>=2)enCells.push({text:tx,row:ri,cell:ci})});
-fallbackPairs(arCells,enCells).forEach(function(p){var ar=flat(p.ar&&p.ar.text),en=flat(p.en&&p.en.text);if(!ar||!en||!hasAr(ar)||!hasEn(en))return;var k=loose(ar).slice(0,900)+"|"+loose(en).slice(0,900);if(seen[k])return;seen[k]=1;out.push({memoryName:memoryName,ar:ar,en:en,arNorm:loose(ar),enNorm:loose(en),arCompact:compactText(ar),enCompact:compactText(en),rowNo:ri,createdAt:now,source:"html-indexeddb"})});
-});
-return out;
-}
-async function saveSegments(db,name,fileName,records){
-await deleteMemory(db,name);
-var tx=db.transaction(["segments","memories"],"readwrite"),seg=tx.objectStore("segments"),mem=tx.objectStore("memories");
-records.forEach(function(x){seg.add(x)});
-mem.put({name:name,fileName:fileName,count:records.length,importedAt:Date.now(),type:"html"});
-await done(tx);
-}
-btn.onclick=function(){inp.click()};
-inp.onchange=async function(){
-var file=inp.files&&inp.files[0];if(!file)return;
-try{
-msg("Reading HTML and saving it to IndexedDB...");prog(5,100);
-var html=await file.text(),memoryName=(file.name||"HTML_TM").replace(/\.(html?|HTML?)$/,"" );prog(25,100);
-var records=extract(html,memoryName);
-if(!records.length){msg("No Arabic/English pairs were found inside HTML tables.");inp.value="";return}
-prog(55,100);
-var db=await openDB();await saveSegments(db,memoryName,file.name,records);db.close();prog(100,100);
-msg("HTML TM saved to IndexedDB: "+asc(records.length)+" pairs - name: "+memoryName);
-}catch(e){msg("Failed to save HTML in IndexedDB: "+(e&&e.message?e.message:e))}
-finally{inp.value=""}
-};
-},700)});
-
-ready(function(){setTimeout(function(){
-var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;
-if(!s||s.getElementById("loadHTML_DB"))return;
-var side=s.querySelector(".side"),after=s.getElementById("importHTML_DB")||s.getElementById("importDOCX"),status=s.getElementById("status"),fill=s.getElementById("fill");
-if(!side)return;
-var sel=document.createElement("select"),refresh=document.createElement("button"),load=document.createElement("button");
-sel.id="idbMemorySelect";
-refresh.id="refreshHTML_DB";
-load.id="loadHTML_DB";
-sel.innerHTML="<option value=''>Select IndexedDB TM...</option>";
-refresh.textContent="Refresh IndexedDB TM";
-load.textContent="Load IndexedDB TM";
-load.style.background="#2563eb";
-load.style.color="#fff";
-load.style.borderColor="#2563eb";
-refresh.style.background="#f8fafc";
-function ins(el){(after&&after.parentNode?after.parentNode:side).insertBefore(el,after?after.nextSibling:null)}
-ins(load);ins(refresh);ins(sel);
-var DB_NAME="CAT_TM_INDEXEDDB",DB_VER=1;
-function msg(x){if(status)status.textContent=x}
-function prog(a,b){if(fill)fill.style.width=(b?Math.round(a/b*100):0)+"%"}
-function openDB(){return new Promise(function(res,rej){
-if(!window.indexedDB){rej(new Error("IndexedDB is not supported in this browser."));return}
-var r=indexedDB.open(DB_NAME,DB_VER);
-r.onupgradeneeded=function(e){
-var db=e.target.result,seg,mem;
-if(!db.objectStoreNames.contains("segments")){
-seg=db.createObjectStore("segments",{keyPath:"id",autoIncrement:true});
-seg.createIndex("memoryName","memoryName",{unique:false});
-seg.createIndex("arNorm","arNorm",{unique:false});
-seg.createIndex("enNorm","enNorm",{unique:false});
-seg.createIndex("arCompact","arCompact",{unique:false});
-seg.createIndex("enCompact","enCompact",{unique:false});
-seg.createIndex("createdAt","createdAt",{unique:false});
-}
-if(!db.objectStoreNames.contains("memories")){
-mem=db.createObjectStore("memories",{keyPath:"name"});
-mem.createIndex("importedAt","importedAt",{unique:false});
-}
-};
-r.onsuccess=function(){res(r.result)};
-r.onerror=function(){rej(r.error||new Error("Could not open IndexedDB."))};
-})}
-function getAllMemories(db){return new Promise(function(res,rej){
-var tx=db.transaction("memories","readonly"),st=tx.objectStore("memories"),req=st.getAll();
-req.onsuccess=function(){res(req.result||[])};
-req.onerror=function(){rej(req.error||new Error("Could not read TM list."))};
-})}
-function loadSegmentsToAPP(db,name){return new Promise(function(res,rej){
-resetMemory();APP.stop=false;
-var count=0,tx=db.transaction("segments","readonly"),st=tx.objectStore("segments"),idx=st.index("memoryName"),req=idx.openCursor(IDBKeyRange.only(name));
-req.onsuccess=function(e){
-var c=e.target.result;
-if(!c){APP.built=APP.tus.length>0;res(count);return}
-var x=c.value||{};
-addTU(x.ar||"",x.en||"",x.rowNo||-1,"indexeddb-html");
-count++;
-if(count%500===0){msg("Loading IndexedDB TM: "+asc(count)+" pairs...");prog(Math.min(count,5000),5000)}
-c.continue();
-};
-req.onerror=function(){rej(req.error||new Error("Could not load TM from IndexedDB."))};
-})}
-async function refreshList(){
-try{
-msg("Reading IndexedDB memories...");
-var db=await openDB(),arr=await getAllMemories(db);db.close();
-arr.sort(function(a,b){return(b.importedAt||0)-(a.importedAt||0)});
-sel.innerHTML="<option value=''>Select IndexedDB TM...</option>"+arr.map(function(m){return"<option value='"+esc(m.name)+"'>"+esc(m.name)+" - "+asc(m.count||0)+" pairs</option>"}).join("");
-msg(arr.length?"IndexedDB memories found: "+asc(arr.length):"No IndexedDB TM has been saved yet.");
-}catch(e){msg("Failed to read IndexedDB: "+(e&&e.message?e.message:e))}
-}
-refresh.onclick=refreshList;
-load.onclick=async function(){
-var name=sel.value;
-if(!name){msg("Select an IndexedDB TM first.");return}
-try{
-msg("Loading selected TM into APP.tus...");prog(0,100);
-var db=await openDB(),n=await loadSegmentsToAPP(db,name);db.close();prog(100,100);
-msg("IndexedDB TM loaded: "+asc(n)+" pairs. You can now press Analyze.");
-}catch(e){msg("Failed to load IndexedDB TM: "+(e&&e.message?e.message:e))}
-};
-refreshList();
-},900)});
-
-ready(function(){setTimeout(function(){
-var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;
-if(!s||s.getElementById("saveEdited_DB"))return;
-var side=s.querySelector(".side"),after=s.getElementById("loadHTML_DB")||s.getElementById("saveProject")||s.getElementById("copy"),status=s.getElementById("status"),fill=s.getElementById("fill");
-if(!side)return;
-var btn=document.createElement("button");
-btn.id="saveEdited_DB";
-btn.textContent="Save Edited TM to IndexedDB";
-btn.style.background="#7c3aed";
-btn.style.color="#fff";
-btn.style.borderColor="#7c3aed";
-(after&&after.parentNode?after.parentNode:side).insertBefore(btn,after?after.nextSibling:null);
-var DB_NAME="CAT_TM_INDEXEDDB",DB_VER=1,USER_MEMORY="User_Edited_TM";
-function msg(x){if(status)status.textContent=x}
-function prog(a,b){if(fill)fill.style.width=(b?Math.round(a/b*100):0)+"%"}
-function openDB(){return new Promise(function(res,rej){
-if(!window.indexedDB){rej(new Error("IndexedDB is not supported in this browser."));return}
-var r=indexedDB.open(DB_NAME,DB_VER);
-r.onupgradeneeded=function(e){
-var db=e.target.result,seg,mem;
-if(!db.objectStoreNames.contains("segments")){
-seg=db.createObjectStore("segments",{keyPath:"id",autoIncrement:true});
-seg.createIndex("memoryName","memoryName",{unique:false});
-seg.createIndex("arNorm","arNorm",{unique:false});
-seg.createIndex("enNorm","enNorm",{unique:false});
-seg.createIndex("arCompact","arCompact",{unique:false});
-seg.createIndex("enCompact","enCompact",{unique:false});
-seg.createIndex("createdAt","createdAt",{unique:false});
-}
-if(!db.objectStoreNames.contains("memories")){
-mem=db.createObjectStore("memories",{keyPath:"name"});
-mem.createIndex("importedAt","importedAt",{unique:false});
-}
-};
-r.onsuccess=function(){res(r.result)};
-r.onerror=function(){rej(r.error||new Error("Could not open IndexedDB."))};
-})}
-function done(tx){return new Promise(function(res,rej){
-tx.oncomplete=function(){res()};
-tx.onerror=function(){rej(tx.error||new Error("IndexedDB transaction error"))};
-tx.onabort=function(){rej(tx.error||new Error("IndexedDB transaction aborted"))};
-})}
-function syncTargetsFromUI(){
-var boxes=Array.prototype.slice.call(s.querySelectorAll(".targetDraft"));
-boxes.forEach(function(b){var i=+b.getAttribute("data-i");if(APP.results&&APP.results[i])APP.results[i].target=b.value||""});
-}
-function makeRecords(){
-syncTargetsFromUI();
-var now=Date.now(),seen=Object.create(null),out=[];
-(APP.results||[]).forEach(function(r,i){
-var src=flat(r&&r.segment&&r.segment.text),trg=flat(r&&r.target);
-if(!src||!trg)return;
-var ar="",en="";
-if(hasAr(src)&&hasEn(trg)){ar=src;en=trg}else if(hasEn(src)&&hasAr(trg)){ar=trg;en=src}else{return}
-var k=loose(ar).slice(0,900)+"|"+loose(en).slice(0,900);
-if(seen[k])return;
-seen[k]=1;
-out.push({memoryName:USER_MEMORY,ar:ar,en:en,arNorm:loose(ar),enNorm:loose(en),arCompact:compactText(ar),enCompact:compactText(en),rowNo:-1,createdAt:now,updatedAt:now,score:+(r.score||0),status:r.status||"Edited",source:"user-edited-result",resultNo:i+1});
-});
-return out;
-}
-function existingKeys(db,name){return new Promise(function(res,rej){
-var set=Object.create(null),n=0,tx=db.transaction("segments","readonly"),st=tx.objectStore("segments"),idx=st.index("memoryName"),req=idx.openCursor(IDBKeyRange.only(name));
-req.onsuccess=function(e){var c=e.target.result;if(!c){res({set:set,count:n});return}var x=c.value||{},k=loose(x.ar||"").slice(0,900)+"|"+loose(x.en||"").slice(0,900);if(k&&!set[k]){set[k]=1;n++}c.continue()};
-req.onerror=function(){rej(req.error||new Error("Could not read previous TM."))};
-})}
-async function saveRecords(db,records){
-var old=await existingKeys(db,USER_MEMORY),fresh=records.filter(function(x){var k=loose(x.ar||"").slice(0,900)+"|"+loose(x.en||"").slice(0,900);return k&&!old.set[k]});
-if(!fresh.length)return{added:0,total:old.count};
-var tx=db.transaction(["segments","memories"],"readwrite"),seg=tx.objectStore("segments"),mem=tx.objectStore("memories");
-fresh.forEach(function(x){seg.add(x)});
-mem.put({name:USER_MEMORY,fileName:"User edited translations",count:old.count+fresh.length,importedAt:Date.now(),updatedAt:Date.now(),type:"user-edited-results"});
-await done(tx);
-return{added:fresh.length,total:old.count+fresh.length};
-}
-btn.onclick=async function(){
-try{
-if(!APP.results||!APP.results.length){msg("No results to save. Analyze text first, then edit Target Draft.");return}
-msg("Saving edited translations in IndexedDB...");prog(15,100);
-var records=makeRecords();
-if(!records.length){msg("No valid Arabic/English pairs found for saving.");prog(0,0);return}
-prog(45,100);
-var db=await openDB(),r=await saveRecords(db,records);db.close();
-records.forEach(function(x){addTU(x.ar,x.en,-2,"indexeddb-user-edited")});
-APP.built=APP.tus.length>0;prog(100,100);
-msg("Edited translations saved. Added: "+asc(r.added)+" - total User_Edited_TM: "+asc(r.total));
-}catch(e){msg("Failed to save edited translations: "+(e&&e.message?e.message:e))}
-};
-},1100)});
-
-ready(function(){setTimeout(function(){
-var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;
-if(!s||s.getElementById("focusModeBtn"))return;
-var panel=s.getElementById("panel"),tools=s.querySelector(".topTools"),src=s.getElementById("toggleSourceIcon"),status=s.getElementById("status");
-if(!panel||!tools)return;
-var st=document.createElement("style");
-st.id="catFocusModeStyle";
-st.textContent=".panel.focusMode .side{display:none!important}.panel.focusMode .body{grid-template-columns:minmax(0,1fr)!important;gap:0!important;padding:12px!important}.panel.focusMode .mainbox{grid-column:1/-1!important;width:100%!important}.panel.focusMode .tablewrap{flex:1 1 auto!important;min-height:0!important}.panel.focusMode table{width:100%!important}.panel.focusMode .src{width:28%!important}.panel.focusMode .best{width:30%!important}.panel.focusMode .target{width:32%!important}#focusModeBtn{background:#111827;color:#fff;border-color:#111827}#focusModeBtn.on{background:#7c3aed!important;color:#fff!important;border-color:#7c3aed!important}";
-s.appendChild(st);
-var b=document.createElement("button");
-b.id="focusModeBtn";
-b.className="iconBtn";
-b.textContent="Focus";
-b.title="Hide side buttons and expand results area";
-b.onclick=function(){
-var on=panel.classList.toggle("focusMode");
-b.classList.toggle("on",on);
-b.textContent=on?"Exit":"Focus";
-if(status)status.textContent=on?"Focus mode enabled: side buttons hidden and results area expanded.":"Focus mode disabled: side buttons restored.";
-};
-if(src&&src.parentNode)src.parentNode.insertBefore(b,src.nextSibling);else tools.appendChild(b);
-},700)});
-
 })();
