@@ -1,2381 +1,1311 @@
 (function () {
 "use strict";
-
 /* =========================================================
-   CAT TOOL FROM SCRATCH - content.js
-   Version: CAT Tool MVP+ 3.0
-   Arabic / English CAT Tool
-   - Local IndexedDB Translation Memory
-   - Import HTML
-   - Deep HTML extraction
-   - Long / discontinuous similarity
-   - Context-aware matching
-   - User feedback / rating system
-   - Optional Machine Translation API for Needs Translation only
-   - Category / tags for TM pairs
-   - updatedAt / createdAt for each TM pair
+CAT Translation Memory V47 Cell-Segment Professional Enhanced
+- Cell-as-segment TM matching: each HTML cell is one segment; no internal sentence splitting
+- Collapse / show source input area
+- Top counters: Average, Segments, Confirmed, Needs Translation, Needs Review
+- Word A3 with visual Track Changes
+- Arabic font: GE SS Two Light, 15
+- English font: Segoe UI, 15
+- Match colors
+- Local only: no network, no CDN, no external API
+- Import Word DOCX locally using browser ZIP reader
 ========================================================= */
-
-const APP = {
-  id: "az-cat-tool-from-scratch",
-  version: "CAT Tool MVP+ 3.0",
-  dbName: "AZ_CAT_TOOL_DB",
-  dbVersion: 3,
-  storeName: "tm",
-  hostId: "az-cat-tool-host",
-  db: null,
-  importedDoc: null,
-  importedName: "",
-  tmCache: [],
-  rows: [],
-  stop: false,
-  currentQuery: "",
-  settingsKey: "AZ_CAT_TOOL_SETTINGS_V3",
-  settings: {
-    mtEnabled: false,
-    mtUrl: "",
-    mtKey: "",
-    mtProvider: "generic",
-    defaultCategory: "عام",
-    defaultTags: ""
-  }
+var APP = {
+id: "cat-v47-cell-segment-pro-enhanced",
+version: "V47 Cell-Segment Professional Enhanced",
+hostId: "cat-v47-cell-segment-pro-enhanced-host",
+built: false,
+building: false,
+stop: false,
+tus: [],
+rows: [],
+cells: [],
+exact: { ar: Object.create(null), en: Object.create(null) },
+compact: { ar: Object.create(null), en: Object.create(null) },
+tokenIndex: { ar: Object.create(null), en: Object.create(null) },
+seen: Object.create(null),
+cellSeen: Object.create(null),
+config: { maxWindows: 3, maxUnitsPerSide: 90, maxIndexTokens: 90 },
+terms: [],
+results: []
 };
-
-if (document.getElementById(APP.hostId)) {
-  document.getElementById(APP.hostId).remove();
+if (window.__CAT_V47_CELL_SEGMENT_PRO_ENHANCED__) {
+try { window.dispatchEvent(new CustomEvent("CAT_V47_PRO_OPEN")); } catch (e) {}
+return;
 }
-
-const host = document.createElement("div");
+window.__CAT_V47_CELL_SEGMENT_PRO_ENHANCED__ = true;
+function ready(fn) {
+if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", fn);
+else fn();
+}
+function asc(s) {
+return String(s || "")
+.replace(/[\u0660-\u0669]/g, function (d) { return String(d.charCodeAt(0) - 1632); })
+.replace(/[\u06F0-\u06F9]/g, function (d) { return String(d.charCodeAt(0) - 1776); });
+}
+function clean(s) {
+return asc(String(s || ""))
+.replace(/[\u200E\u200F\u202A-\u202E\u2066-\u2069]/g, "")
+.replace(/[\u200B\u200C\u200D\u2060\uFEFF\u034F]/g, "")
+.replace(/[\u00A0\u202F\u2007-\u200A]/g, " ")
+.replace(/[ \t]+/g, " ")
+.replace(/\n[ \t]+/g, "\n")
+.replace(/[ \t]+\n/g, "\n")
+.trim();
+}
+function flat(s) { return clean(String(s || "").replace(/\s+/g, " ")); }
+function norm(s) {
+return asc(String(s || ""))
+.normalize("NFKC")
+.replace(/[\u0610-\u061A\u064B-\u065F\u0670\u06D6-\u06ED]/g, "")
+.replace(/\u0640/g, "")
+.replace(/[\u0622\u0623\u0625\u0671]/g, "\u0627")
+.replace(/[\u0649\u06CC]/g, "\u064A")
+.replace(/\u06A9/g, "\u0643")
+.replace(/[\u0629\u06C0\u06C1\u06BE]/g, "\u0647")
+.replace(/[^\u0600-\u06FFA-Za-z0-9%\/\.\-]+/g, " ")
+.replace(/\s+/g, " ")
+.trim()
+.toLowerCase();
+}
+function loose(s) {
+return norm(s).replace(/[^\u0600-\u06FFA-Za-z0-9]+/g, " ").replace(/\s+/g, " ").trim();
+}
+function compactText(s) { return loose(s).replace(/\s+/g, ""); }
+function esc(s) {
+return asc(String(s || "")).replace(/[&<>"']/g, function (c) {
+return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+});
+}
+function hasAr(s) { return /[\u0600-\u06FF]/.test(String(s || "")); }
+function hasEn(s) { return /[A-Za-z]/.test(String(s || "")); }
+function arCount(s) { var m = String(s || "").match(/[\u0600-\u06FF]/g); return m ? m.length : 0; }
+function enCount(s) { var m = String(s || "").match(/[A-Za-z]/g); return m ? m.length : 0; }
+function lang(s) { return arCount(s) >= enCount(s) ? "ar" : "en"; }
+function matchColor(score) {
+score = +score || 0;
+if (score >= 95) return "#168A45";
+if (score >= 85) return "#2563EB";
+if (score >= 75) return "#7C3AED";
+if (score >= 65) return "#F59E0B";
+return "#DC2626";
+}
+function matchLabel(score) { return asc(Math.max(0, Math.min(100, Math.round(+score || 0))) + "%"); }
+var STOP_AR = Object.create(null);
+var STOP_EN = Object.create(null);
+"\u0645\u0646 \u0641\u064a \u0639\u0644\u0649 \u0639\u0646 \u0627\u0644\u0649 \u0625\u0644\u0649 \u0627\u0648 \u0623\u0648 \u0648 \u0641 \u062b\u0645 \u0630\u0644\u0643 \u0647\u0630\u0647 \u0647\u0630\u0627 \u062a\u0644\u0643 \u0627\u0644\u062a\u064a \u0627\u0644\u0630\u064a \u0627\u0646 \u0623\u0646 \u064a\u062a\u0645 \u064a\u062c\u0628 \u0643\u0644 \u0627\u064a \u0623\u064a \u0628\u0645\u0627 \u0643\u0645\u0627 \u0642\u062f \u0644\u0627 \u0645\u0627 \u0644\u0645 \u0644\u0646 \u0644\u0647 \u0644\u0647\u0627 \u0628\u0647 \u0628\u0647\u0627 \u0641\u064a\u0647 \u0641\u064a\u0647\u0627 \u0639\u0644\u064a\u0647 \u0639\u0644\u064a\u0647\u0627 \u064a\u0643\u0648\u0646 \u062a\u0643\u0648\u0646 \u0643\u0627\u0646 \u0643\u0627\u0646\u062a \u0627\u0630\u0627 \u0625\u0630\u0627 \u062d\u0633\u0628 \u0648\u0641\u0642 \u0648\u0641\u0642\u0627 \u062f\u0648\u0646 \u063a\u064a\u0631 \u0630\u0627\u062a \u0639\u0646\u062f \u0628\u0639\u062f \u0642\u0628\u0644 \u0628\u064a\u0646 \u0645\u0639 \u062d\u064a\u062b \u062e\u0644\u0627\u0644".split(/\s+/).forEach(function (w) { STOP_AR[loose(w)] = 1; });
+"the a an and or of in on to for from by with without shall must may be is are was were as at that this these those it its not no any all each such".split(/\s+/).forEach(function (w) { STOP_EN[w] = 1; });
+function stripToken(w, l) {
+w = loose(w);
+if (l === "ar") w = w.replace(/^(?:\u0648|\u0641|\u0628|\u0643|\u0644)+/g, "").replace(/^\u0627\u0644/g, "");
+return w;
+}
+function toks(s, l) {
+var n = loose(s);
+if (!n) return [];
+var stop = l === "en" ? STOP_EN : STOP_AR;
+var seen = Object.create(null);
+var out = [];
+n.split(/\s+/).forEach(function (w) {
+w = stripToken(w, l);
+if (!w || w.length < 2 || stop[w] || seen[w]) return;
+seen[w] = 1;
+out.push(w);
+});
+return out;
+}
+function profile(s, l) {
+var nl = loose(s);
+var cp = compactText(s);
+var t = toks(s, l);
+var set = Object.create(null);
+t.forEach(function (x) { set[x] = 1; });
+return { raw: flat(s), nl: nl, compact: cp, t: t, set: set, len: nl.length };
+}
+function dice(a, b, bset) {
+if (!a.length || !b.length) return 0;
+var c = 0;
+a.forEach(function (x) { if (bset[x]) c++; });
+return (2 * c) / (a.length + b.length);
+}
+function numbersOf(s) {
+var m = asc(String(s || "")).match(/\d+(?:[.,]\d+)?/g);
+return m ? m.map(function (x) { return x.replace(",", "."); }) : [];
+}
+function sameNumbers(src, trg) {
+var a = numbersOf(src);
+var b = numbersOf(trg);
+if (!a.length && !b.length) return true;
+var set = Object.create(null);
+b.forEach(function (x) { set[x] = 1; });
+for (var i = 0; i < a.length; i++) if (!set[a[i]]) return false;
+return true;
+}
+function isStrongContained(q, t) {
+if (!q || !t || !q.nl || !t.nl) return false;
+if (q.nl.length >= 18 && t.nl.indexOf(q.nl) >= 0) return true;
+if (q.compact && q.compact.length >= 22 && t.compact.indexOf(q.compact) >= 0) return true;
+return false;
+}
+function scoreProfiles(q, t) {
+if (!q.nl || !t.nl) return 0;
+if (q.raw === t.raw) return 100;
+if (q.nl === t.nl) return 100;
+if (q.compact && q.compact === t.compact) return 100;
+var d = dice(q.t, t.t, t.set);
+var lenScore = 1 - Math.min(Math.abs(q.len - t.len) / Math.max(q.len, t.len, 1), 1);
+var contain = 0;
+if (q.nl.length > 12 && t.nl.indexOf(q.nl) >= 0) contain = 0.36;
+else if (t.nl.length > 12 && q.nl.indexOf(t.nl) >= 0) contain = 0.18;
+else if (q.compact.length > 16 && t.compact.indexOf(q.compact) >= 0) contain = 0.32;
+var sc = d * 68 + lenScore * 18 + contain * 100;
+/* V47: non-exact matches are capped below Confirmed.
+   Confirmed is reserved for full-cell exact/normalized/compact equality. */
+return Math.max(0, Math.min(94, Math.round(sc)));
+}
+function exactKind(q, t) {
+if (!q || !t || !q.nl || !t.nl) return "";
+if (q.raw === t.raw) return "exact-raw-cell";
+if (q.nl === t.nl) return "exact-normalized-cell";
+if (q.compact && q.compact === t.compact) return "exact-compact-cell";
+return "";
+}
+function isConfirmedStatus(status) { return /confirmed/i.test(String(status || "")); }
+function statusFrom(score, target, mode) {
+score = +score || 0;
+if (!flat(target || "")) return score >= 95 ? "Source Found" : "Needs";
+if (score >= 98) return "Confirmed";
+if (score >= 95) return "Confirmed";
+if (score >= 65) return "Review";
+return "Needs";
+}
+function textOf(el) { return flat(el ? el.textContent || "" : ""); }
+function isDecimalDot(s, i) {
+return s[i] === "." && /[0-9]/.test(s[i - 1] || "") && /[0-9]/.test(s[i + 1] || "");
+}
+function isKnownAbbrevDot(s, i) {
+if (s[i] !== ".") return false;
+var left = s.slice(Math.max(0, i - 12), i + 1);
+return /\b(?:No|Nos|Art|Mr|Mrs|Ms|Dr|Prof|Inc|Ltd|Co|e\.g|i\.e|etc)\.$/i.test(left);
+}
+function splitByHardPunctuation(line, l) {
+line = flat(line);
+var parts = [];
+var st = 0;
+for (var i = 0; i < line.length; i++) {
+var ch = line[i];
+var isEnd = ch === "." || ch === "!" || ch === "?" || ch === "\u061f" || ch === "Ø" || ch === ";";
+if (!isEnd) continue;
+if (isDecimalDot(line, i) || isKnownAbbrevDot(line, i)) continue;
+var p = flat(line.slice(st, i + 1));
+if (p) parts.push(p);
+st = i + 1;
+}
+var tail = flat(line.slice(st));
+if (tail) parts.push(tail);
+return parts.length ? parts : (line ? [line] : []);
+}
+function splitLongClause(part, l) {
+part = flat(part);
+if (!part) return [];
+if (part.length <= 240) return [part];
+var out = [];
+var st = 0;
+for (var i = 0; i < part.length; i++) {
+var ch = part[i];
+var soft = ch === ":" || ch === "\u060c" || ch === ",";
+if (!soft) continue;
+if (ch === "," && /[0-9]/.test(part[i - 1] || "") && /[0-9]/.test(part[i + 1] || "")) continue;
+var currentLen = i + 1 - st;
+var remainLen = part.length - i - 1;
+if (currentLen < 80 || remainLen < 35) continue;
+var p = flat(part.slice(st, i + 1));
+if (p) out.push(p);
+st = i + 1;
+}
+var tail = flat(part.slice(st));
+if (tail) out.push(tail);
+if (!out.length) out = [part];
+return out;
+}
+function uniqText(arr, max) {
+var seen = Object.create(null);
+var out = [];
+(arr || []).forEach(function (x) {
+x = flat(x);
+if (!x || x.length < 2) return;
+var k = loose(x).slice(0, 700);
+if (!k || seen[k]) return;
+seen[k] = 1;
+out.push(x);
+});
+return typeof max === "number" ? out.slice(0, max) : out;
+}
+function splitSmartUnits(text, forcedLang) {
+/* V47 compatibility wrapper: no internal segmentation. */
+text = flat(text);
+return text ? [text] : [];
+}
+function windowsOfUnits(units, maxWin) {
+/* V47: disabled. HTML cell remains one segment. */
+return [];
+}
+function unitVariants(text, l) {
+/* V47: disabled. Only the full cell is indexed. */
+text = flat(text);
+return text ? [text] : [];
+}
+function addAlignedWindows(arUnits, enUnits, rowNo, mode) {
+/* V47: disabled. No sentence/window alignment. */
+return;
+}
+function addCellUnit(text, l, row, cell, mode) {
+text = flat(text);
+if (!text || text.length < 2) return;
+if (l === "ar" && !hasAr(text)) return;
+if (l === "en" && !hasEn(text)) return;
+var key = row + "|" + cell + "|" + l + "|" + loose(text).slice(0, 700);
+if (APP.cellSeen[key]) return;
+APP.cellSeen[key] = 1;
+APP.cells.push({ text: text, lang: l, row: row, cell: cell, mode: mode || "cell", p: profile(text, l) });
+}
+function indexCellVariants(text, l, row, cell, mode) {
+/* V47: the full HTML cell is the only searchable unit.
+   No sentence/window/substring units are created here. */
+addCellUnit(text, l, row, cell, mode || "html-cell");
+}
+function addTMUnits(arText, enText, rowNo, mode) {
+arText = flat(arText);
+enText = flat(enText);
+if (!arText || !enText) return;
+/* V47: each bilingual HTML cell pair is one TM unit.
+   Do not split long cells into sentences, clauses, or windows. */
+addTU(arText, enText, rowNo, (mode || "cell-pair") + "-html-cell");
+}
+function mergeSegmentsText(segs, start, end, l) {
+if (start < 0 || end >= segs.length || start > end) return "";
+var arr = [];
+for (var i = start; i <= end; i++) {
+if (!segs[i] || segs[i].lang !== l) return "";
+arr.push(segs[i].text);
+}
+return flat(arr.join(" "));
+}
+function searchWithContext(segs, idx) {
+/* V47: context merging is disabled because each source line/HTML cell is one segment. */
+var seg = segs[idx];
+return searchOne(seg.text, seg.lang);
+}
+function addMap(map, key, id) {
+if (!key) return;
+var a = map[key];
+if (!a) a = map[key] = [];
+a.push(id);
+}
+function addToken(l, token, id) {
+if (!token) return;
+var a = APP.tokenIndex[l][token];
+if (!a) a = APP.tokenIndex[l][token] = [];
+a.push(id);
+}
+function resetMemory() {
+APP.built = false;
+APP.building = false;
+APP.stop = false;
+APP.tus = [];
+APP.rows = [];
+APP.cells = [];
+APP.results = [];
+APP.exact = { ar: Object.create(null), en: Object.create(null) };
+APP.compact = { ar: Object.create(null), en: Object.create(null) };
+APP.tokenIndex = { ar: Object.create(null), en: Object.create(null) };
+APP.seen = Object.create(null);
+APP.cellSeen = Object.create(null);
+}
+function addTU(arText, enText, rowNo, mode) {
+arText = flat(arText);
+enText = flat(enText);
+if (!arText || !enText) return;
+if (!hasAr(arText) || !hasEn(enText)) return;
+if (arText.length < 3 || enText.length < 3) return;
+if (arText.length > 15000 || enText.length > 15000) return;
+var arLoose = loose(arText);
+var enLoose = loose(enText);
+var key = arLoose.slice(0, 900) + "|" + enLoose.slice(0, 900);
+if (APP.seen[key]) return;
+APP.seen[key] = 1;
+var id = APP.tus.length;
+var arP = profile(arText, "ar");
+var enP = profile(enText, "en");
+var tu = { id: id, ar: arText, en: enText, arP: arP, enP: enP, row: rowNo, mode: mode || "row" };
+APP.tus.push(tu);
+addMap(APP.exact.ar, arP.nl, id);
+addMap(APP.exact.en, enP.nl, id);
+addMap(APP.compact.ar, arP.compact, id);
+addMap(APP.compact.en, enP.compact, id);
+arP.t.slice(0, APP.config.maxIndexTokens).forEach(function (t) { addToken("ar", t, id); });
+enP.t.slice(0, APP.config.maxIndexTokens).forEach(function (t) { addToken("en", t, id); });
+}
+function getPageRows() { return Array.prototype.slice.call(document.querySelectorAll("tr")); }
+function pairCellsByOrder(arCells, enCells) {
+var out = [];
+if (!arCells.length || !enCells.length) return out;
+var ar = arCells.slice().sort(function (a, b) { return a.cell - b.cell; });
+var en = enCells.slice().sort(function (a, b) { return a.cell - b.cell; });
+if (ar.length === en.length) {
+for (var i = 0; i < ar.length; i++) out.push({ ar: ar[i], en: en[i] });
+return out;
+}
+if (ar.length === 1) {
+en.forEach(function (e) { out.push({ ar: ar[0], en: e }); });
+return out;
+}
+if (en.length === 1) {
+ar.forEach(function (a) { out.push({ ar: a, en: en[0] }); });
+return out;
+}
+var used = Object.create(null);
+ar.forEach(function (a) {
+var best = -1;
+var bestDist = Infinity;
+for (var j = 0; j < en.length; j++) {
+if (used[j]) continue;
+var d = Math.abs(a.cell - en[j].cell);
+if (d < bestDist) { bestDist = d; best = j; }
+}
+if (best >= 0) { used[best] = 1; out.push({ ar: a, en: en[best] }); }
+});
+return out;
+}
+function buildMemory(ui) {
+if (APP.building) return;
+resetMemory();
+APP.building = true;
+var rows = getPageRows();
+var total = rows.length;
+var i = 0;
+ui.status("Ø¬Ø§Ø±Ù Ø¨ÙØ§Ø¡ Ø°Ø§ÙØ±Ø© Ø§ÙØªØ±Ø¬ÙØ© ÙÙ ØµÙØ­Ø© HTML Ø¨ÙØ¸Ø§Ù Ø§ÙØ®ÙÙØ© = Segment ÙØ§Ø­Ø¯...");
+ui.progress(0, total);
+function step() {
+if (APP.stop) {
+APP.building = false;
+ui.status("ØªÙ Ø¥ÙÙØ§Ù Ø¨ÙØ§Ø¡ Ø§ÙØ°Ø§ÙØ±Ø©.");
+return;
+}
+var end = Math.min(i + 80, total);
+for (; i < end; i++) {
+var r = rows[i];
+var cells = Array.prototype.slice.call(r.querySelectorAll("td,th"));
+if (!cells.length) continue;
+var arCells = [];
+var enCells = [];
+cells.forEach(function (cell, ci) {
+var tx = textOf(cell);
+if (!tx || tx.length < 2) return;
+var ac = arCount(tx);
+var ec = enCount(tx);
+if (ac >= 2) {
+var arObj = { text: tx, row: i, cell: ci };
+arCells.push(arObj);
+indexCellVariants(tx, "ar", i, ci, "html-cell");
+}
+if (ec >= 2) {
+var enObj = { text: tx, row: i, cell: ci };
+enCells.push(enObj);
+indexCellVariants(tx, "en", i, ci, "html-cell");
+}
+});
+APP.rows[i] = {
+ar: arCells.map(function (x) { return x.text; }),
+en: enCells.map(function (x) { return x.text; })
+};
+var pairs = pairCellsByOrder(arCells, enCells);
+pairs.forEach(function (p) {
+addTMUnits(p.ar.text, p.en.text, i, "cell-pair r" + (i + 1) + " c" + p.ar.cell + "-" + p.en.cell);
+});
+}
+ui.progress(i, total);
+ui.status("Ø¨ÙØ§Ø¡ Ø§ÙØ°Ø§ÙØ±Ø©: " + asc(i) + " / " + asc(total) + " â Ø®ÙØ§ÙØ§ TM: " + asc(APP.tus.length) + " â Ø®ÙØ§ÙØ§ ÙÙÙØ±Ø³Ø©: " + asc(APP.cells.length));
+if (i < total) setTimeout(step, 1);
+else {
+APP.built = true;
+APP.building = false;
+ui.progress(total, total);
+ui.status("Ø§ÙØªÙÙ Ø¨ÙØ§Ø¡ Ø§ÙØ°Ø§ÙØ±Ø© Ø¨ÙØ¸Ø§Ù Ø§ÙØ®ÙÙØ© = Segment ÙØ§Ø­Ø¯. Ø®ÙØ§ÙØ§ TM: " + asc(APP.tus.length) + " â Ø®ÙØ§ÙØ§ ÙÙÙØ±Ø³Ø©: " + asc(APP.cells.length));
+}
+}
+step();
+}
+function candidates(q, l) {
+var out = [];
+var seen = Object.create(null);
+function addIds(arr) {
+if (!arr) return;
+for (var i = 0; i < arr.length; i++) {
+var id = arr[i];
+if (!seen[id]) {
+seen[id] = 1;
+out.push(id);
+if (out.length > 3500) return;
+}
+}
+}
+addIds(APP.exact[l][q.nl]);
+addIds(APP.compact[l][q.compact]);
+if (out.length >= 20) return out;
+var tokens = q.t.slice(0, 16)
+.map(function (t) { var arr = APP.tokenIndex[l][t] || []; return { t: t, c: arr.length }; })
+.filter(function (x) { return x.c; })
+.sort(function (a, b) { return a.c - b.c; })
+.slice(0, 12);
+tokens.forEach(function (x) { addIds(APP.tokenIndex[l][x.t]); });
+if (!out.length && APP.tus.length <= 2500) {
+for (var k = 0; k < APP.tus.length; k++) out.push(k);
+}
+return out;
+}
+function rescue(seg, l) {
+var q = profile(seg, l);
+var best = null;
+var bestScore = 0;
+var bestKind = "";
+for (var i = 0; i < APP.cells.length; i++) {
+var c = APP.cells[i];
+if (c.lang !== l) continue;
+var kind = exactKind(q, c.p);
+var sc = kind ? 100 : scoreProfiles(q, c.p);
+if (sc > bestScore) { bestScore = sc; best = c; bestKind = kind; }
+if (bestScore >= 100 && bestKind) break;
+}
+if (!best || bestScore < 65) return null;
+var row = APP.rows[best.row];
+if (!row) return null;
+var targetLang = l === "ar" ? "en" : "ar";
+var targets = row[targetLang] || [];
+var targetText = targets.join("\n");
+var mode = "cell-rescue" + (best.mode ? " | " + best.mode : "") + (bestKind ? " | " + bestKind : "");
+return { score: bestScore, source: best.text, target: targetText, targetLang: targetLang, status: statusFrom(bestScore, targetText, mode), mode: mode, row: best.row };
+}
+function searchOne(seg, l) {
+var q = profile(seg, l);
+var ids = candidates(q, l);
+var best = null;
+for (var i = 0; i < ids.length; i++) {
+var tu = APP.tus[ids[i]];
+if (!tu) continue;
+var tp = l === "ar" ? tu.arP : tu.enP;
+var kind = exactKind(q, tp);
+var sc = kind ? 100 : scoreProfiles(q, tp);
+var mode = (tu.mode || "") + (kind ? " | " + kind : "");
+var target = l === "ar" ? tu.en : tu.ar;
+if (!best || sc > best.score) {
+best = {
+score: sc,
+source: l === "ar" ? tu.ar : tu.en,
+target: target,
+targetLang: l === "ar" ? "en" : "ar",
+status: statusFrom(sc, target, mode),
+mode: mode,
+row: tu.row
+};
+}
+if (best && best.score >= 100 && kind) break;
+}
+if (best && best.score >= 65) return best;
+var r = rescue(seg, l);
+if (r) return r;
+return { score: 0, source: "", target: "", targetLang: l === "ar" ? "en" : "ar", status: "Needs", mode: "none", row: -1 };
+}
+function splitSegments(text, forcedLang) {
+var raw = String(text || "").replace(/\r/g, "\n");
+var lines = raw.split(/\n+/).map(flat).filter(Boolean);
+var out = [];
+lines.forEach(function (line) {
+var l = forcedLang || lang(line);
+var units = splitSmartUnits(line, l);
+if (!units.length) units = [line];
+units.forEach(function (p) { if (p) out.push({ text: p, lang: forcedLang || lang(p) }); });
+});
+return out;
+}
+function qaIssues(src, trg) {
+var issues = [];
+if (!flat(trg)) issues.push("Target empty");
+if (!sameNumbers(src, trg)) issues.push("Number mismatch");
+var srcOpen = (src.match(/[\(\[\{]/g) || []).length;
+var srcClose = (src.match(/[\)\]\}]/g) || []).length;
+var trgOpen = (trg.match(/[\(\[\{]/g) || []).length;
+var trgClose = (trg.match(/[\)\]\}]/g) || []).length;
+if (srcOpen !== srcClose || trgOpen !== trgClose) issues.push("Bracket issue");
+APP.terms.forEach(function (term) {
+var arTerm = term.ar || "";
+var enTerm = term.en || "";
+var status = (term.status || "").toLowerCase();
+if (!arTerm || !enTerm) return;
+if (status === "required") {
+if (hasAr(src) && loose(src).indexOf(loose(arTerm)) >= 0 && loose(trg).indexOf(loose(enTerm)) < 0) issues.push("Missing required term: " + arTerm + " \u2192 " + enTerm);
+if (hasEn(src) && loose(src).indexOf(loose(enTerm)) >= 0 && loose(trg).indexOf(loose(arTerm)) < 0) issues.push("Missing required term: " + enTerm + " \u2192 " + arTerm);
+}
+if (status === "forbidden") {
+if (loose(trg).indexOf(loose(enTerm)) >= 0 || loose(trg).indexOf(loose(arTerm)) >= 0) issues.push("Forbidden term used");
+}
+});
+return issues;
+}
+function parseCSV(text) {
+var lines = String(text || "").split(/\r?\n/).map(function (x) { return x.trim(); }).filter(Boolean);
+var out = [];
+lines.forEach(function (line, idx) {
+var parts = line.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/).map(function (p) {
+return p.replace(/^"|"$/g, "").replace(/""/g, '"').trim();
+});
+if (idx === 0 && /arabic|english|source|target/i.test(line)) return;
+out.push({ ar: parts[0] || "", en: parts[1] || "", status: parts[2] || "preferred", note: parts[3] || "" });
+});
+return out.filter(function (t) { return t.ar && t.en; });
+}
+function parseTMX(text) {
+var out = [];
+var xml;
+try { xml = new DOMParser().parseFromString(String(text || ""), "application/xml"); } catch (e) { return out; }
+var tus = Array.prototype.slice.call(xml.getElementsByTagName("tu"));
+tus.forEach(function (tu) {
+var tuvs = Array.prototype.slice.call(tu.getElementsByTagName("tuv"));
+var arText = "";
+var enText = "";
+tuvs.forEach(function (tuv) {
+var langAttr = tuv.getAttribute("xml:lang") || tuv.getAttribute("lang") || tuv.getAttribute("LANG") || "";
+var seg = tuv.getElementsByTagName("seg")[0];
+var tx = seg ? flat(seg.textContent || "") : "";
+if (!tx) return;
+if (/^ar/i.test(langAttr) || hasAr(tx)) arText = tx;
+else if (/^en/i.test(langAttr) || hasEn(tx)) enText = tx;
+});
+if (arText && enText) out.push({ ar: arText, en: enText });
+});
+return out;
+}
+function importTMXText(text) {
+var arr = parseTMX(text);
+var count = 0;
+arr.forEach(function (x) {
+var before = APP.tus.length;
+addTU(x.ar, x.en, -1, "tmx-import-html-cell");
+if (APP.tus.length > before) count++;
+});
+APP.built = APP.tus.length > 0;
+return count;
+}
+function exportTMX() {
+var body = APP.tus.map(function (tu) {
+return ["<tu>", "<tuv xml:lang=\"ar\"><seg>" + esc(tu.ar) + "</seg></tuv>", "<tuv xml:lang=\"en\"><seg>" + esc(tu.en) + "</seg></tuv>", "</tu>"].join("");
+}).join("\n");
+return [
+"<?xml version=\"1.0\" encoding=\"UTF-8\"?>",
+"<tmx version=\"1.4\">",
+"<header creationtool=\"CAT V47 Cell-Segment Stable Enhanced\" segtype=\"paragraph\" adminlang=\"en\" srclang=\"ar\" datatype=\"PlainText\"/>",
+"<body>", body, "</body>", "</tmx>"
+].join("\n");
+}
+function exportXLIFF(results) {
+var units = results.map(function (r, i) {
+return [
+"<trans-unit id=\"" + (i + 1) + "\">",
+"<source>" + esc(r.segment.text) + "</source>",
+"<target state=\"" + esc(r.status || "draft") + "\">" + esc(r.target || "") + "</target>",
+"<note>match=" + esc(r.score || 0) + "; mode=" + esc(r.mode || "") + "</note>",
+"</trans-unit>"
+].join("\n");
+}).join("\n");
+return [
+"<?xml version=\"1.0\" encoding=\"UTF-8\"?>",
+"<xliff version=\"1.2\">",
+"<file source-language=\"ar\" target-language=\"en\" datatype=\"plaintext\" original=\"local-html\">",
+"<body>", units, "</body>", "</file>", "</xliff>"
+].join("\n");
+}
+function download(name, text, type) {
+var blob = new Blob(["\ufeff", text], { type: type || "text/plain;charset=utf-8" });
+var a = document.createElement("a");
+a.href = URL.createObjectURL(blob);
+a.download = name;
+document.body.appendChild(a);
+a.click();
+setTimeout(function () { URL.revokeObjectURL(a.href); a.remove(); }, 1000);
+}
+function dtok(s) {
+return String(s || "").match(/[\u0600-\u06FFA-Za-z0-9]+|[%\u066a\/\.\-]+|[^\s\u0600-\u06FFA-Za-z0-9]+/g) || [];
+}
+function tokenKey(s, l) { return stripToken(s, l); }
+function diffParts(oldText, newText, l) {
+var a = dtok(oldText).slice(0, 260);
+var b = dtok(newText).slice(0, 260);
+var n = a.length;
+var m = b.length;
+var dp = [];
+var i, j;
+for (i = 0; i <= n; i++) { dp[i] = []; for (j = 0; j <= m; j++) dp[i][j] = 0; }
+for (i = n - 1; i >= 0; i--) {
+for (j = m - 1; j >= 0; j--) {
+if (tokenKey(a[i], l) && tokenKey(a[i], l) === tokenKey(b[j], l)) dp[i][j] = dp[i + 1][j + 1] + 1;
+else dp[i][j] = Math.max(dp[i + 1][j], dp[i][j + 1]);
+}
+}
+var out = [];
+i = 0;
+j = 0;
+while (i < n && j < m) {
+if (tokenKey(a[i], l) && tokenKey(a[i], l) === tokenKey(b[j], l)) { out.push({ t: "same", x: a[i] }); i++; j++; }
+else if (dp[i + 1][j] >= dp[i][j + 1]) { out.push({ t: "del", x: a[i] }); i++; }
+else { out.push({ t: "ins", x: b[j] }); j++; }
+}
+while (i < n) { out.push({ t: "del", x: a[i] }); i++; }
+while (j < m) { out.push({ t: "ins", x: b[j] }); j++; }
+return out;
+}
+function diffHtml(oldText, newText, l) {
+if (!oldText) return "<span class='muted'>\u0644\u0627 \u064a\u0648\u062c\u062f \u0646\u0635 \u0645\u0634\u0627\u0628\u0647 \u0644\u0644\u0645\u0642\u0627\u0631\u0646\u0629.</span>";
+return diffParts(oldText, newText, l).map(function (p) {
+if (p.t === "del") return "<del>" + esc(p.x) + "</del>";
+if (p.t === "ins") return "<ins>" + esc(p.x) + "</ins>";
+return "<span>" + esc(p.x) + "</span>";
+}).join(" ");
+}
+function createReport(results) {
+var rows = results.map(function (r, i) {
+var issues = qaIssues(r.segment.text, r.target || "");
+return [
+"<tr>",
+"<td>" + asc(i + 1) + "</td>",
+"<td dir=\"" + (r.segment.lang === "ar" ? "rtl" : "ltr") + "\">" + esc(r.segment.text) + "</td>",
+"<td dir=\"" + (r.targetLang === "ar" ? "rtl" : "ltr") + "\">" + esc(r.target || "") + "</td>",
+"<td style='color:" + matchColor(r.score) + ";font-weight:800'>" + matchLabel(r.score) + "</td>",
+"<td>" + esc(r.status || "") + "</td>",
+"<td>" + esc(issues.join(" | ")) + "</td>",
+"</tr>"
+].join("");
+}).join("\n");
+return [
+"<!doctype html><html><head><meta charset='utf-8'>",
+"<title>CAT V47 QA Report</title>",
+"<style>body{font-family:Segoe UI,Tahoma,Arial;margin:24px;background:#f8fafc;color:#111827}table{border-collapse:collapse;width:100%;background:#fff}th,td{border:1px solid #dbe2ea;padding:8px;vertical-align:top}th{background:#eaf1ff}</style>",
+"</head><body><h2>CAT V47 Cell-Segment \u2014 QA Report</h2><table>",
+"<tr><th>#</th><th>Source</th><th>Target</th><th>Match</th><th>Status</th><th>QA</th></tr>",
+rows,
+"</table></body></html>"
+].join("");
+}
+function createWord(results) {
+var rows = results.map(function (r, i) {
+var needs = r.status === "Needs" || !r.target;
+var srcDir = r.segment.lang === "ar" ? "rtl" : "ltr";
+var tgtDir = r.targetLang === "ar" ? "rtl" : "ltr";
+var srcClass = r.segment.lang === "ar" ? "ar" : "en";
+var tgtClass = r.targetLang === "ar" ? "ar" : "en";
+var track = diffHtml(r.sourceFound || "", r.segment.text || "", r.segment.lang);
+return [
+"<tr class='" + (needs ? "needs-row" : "") + "'>",
+"<td class='num'>" + asc(i + 1) + "</td>",
+"<td class='" + srcClass + "' dir='" + srcDir + "'>" + esc(r.segment.text) + "</td>",
+"<td class='" + tgtClass + "' dir='" + tgtDir + "'>" + (r.best ? esc(r.best) : "<span class='needs'>Needs Translation</span>") + "</td>",
+"<td class='match' style='color:" + matchColor(r.score) + "'>" + matchLabel(r.score) + "</td>",
+"<td class='" + tgtClass + "' dir='" + tgtDir + "'>" + (r.target ? esc(r.target) : "<span class='needs'>Needs Translation</span>") + "</td>",
+"<td class='" + srcClass + " track' dir='" + srcDir + "'>" + track + "</td>",
+"<td class='status'>" + esc(r.status || "") + "</td>",
+"</tr>"
+].join("");
+}).join("\n");
+return [
+"<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word'>",
+"<head><meta charset='utf-8'>",
+"<style>",
+"@page Section1{size:42cm 29.7cm;mso-page-orientation:landscape;margin:1.2cm}",
+"div.Section1{page:Section1}",
+"body{font-family:'Segoe UI',Segoe,Arial,sans-serif;font-size:15pt;color:#111827}",
+"table{border-collapse:collapse;width:100%;table-layout:fixed}",
+"th{background:linear-gradient(180deg,#FFFFFF 0%,#E7F0F9 100%);border:1px solid #9CA3AF;padding:8px;text-align:center;font-family:'Segoe UI',Segoe,Arial;font-size:15pt;font-weight:700}",
+"td{border:1px solid #9CA3AF;padding:8px;vertical-align:top;line-height:1.9;font-size:15pt}",
+".ar{font-family:'GE SS Two Light','GE SS Light Text',Tahoma,Arial,sans-serif;font-size:15pt;text-align:justify;text-justify:kashida;direction:rtl}",
+".en{font-family:'Segoe UI',Segoe,Arial,sans-serif;font-size:15pt;text-align:justify;direction:ltr}",
+".num{width:34px;text-align:center;font-family:'Segoe UI',Segoe,Arial;font-size:15pt}",
+".match{width:70px;text-align:center;font-family:'Segoe UI',Segoe,Arial;font-size:15pt;font-weight:900;direction:ltr}",
+".status{width:90px;text-align:center;font-family:'Segoe UI',Segoe,Arial;font-size:15pt}",
+".needs-row td{background:#FFF2CC!important}",
+".needs{background:#FFF2CC;color:#7A4F00;font-weight:800;padding:2px 4px}",
+".track del{color:#B42318;background:#FFF1F1;text-decoration:line-through}",
+".track ins{color:#175CD3;background:#EFF8FF;text-decoration:none;font-weight:800}",
+".muted{color:#6B7280}",
+"</style></head>",
+"<body><div class='Section1'>",
+"<h2 style='text-align:center;color:#1D4ED8;font-family:Segoe UI,Arial'>CAT V47 Cell-Segment \u2014 Word A3 with Visual Track Changes</h2>",
+"<table>",
+"<tr><th>#</th><th>Source Segment</th><th>Best Match</th><th>Match</th><th>Target Draft</th><th>Track Changes</th><th>Status</th></tr>",
+rows,
+"</table></div></body></html>"
+].join("");
+}
+function getSuggestions(src, targetLang) {
+var out = [];
+var srcLoose = loose(src);
+APP.terms.forEach(function (t) {
+if (!t.ar || !t.en) return;
+if (targetLang === "en" && srcLoose.indexOf(loose(t.ar)) >= 0) out.push(t.en);
+if (targetLang === "ar" && srcLoose.indexOf(loose(t.en)) >= 0) out.push(t.ar);
+});
+return out.slice(0, 8);
+}
+function u16(view, off) { return view.getUint16(off, true); }
+function u32(view, off) { return view.getUint32(off, true); }
+function decodeUtf8(bytes) {
+return new TextDecoder("utf-8").decode(bytes);
+}
+async function inflateZipData(bytes) {
+if (typeof DecompressionStream === "undefined") {
+throw new Error("This Chrome version cannot unzip DOCX locally. Update Chrome, then try again.");
+}
+try {
+var ds = new DecompressionStream("deflate-raw");
+var stream = new Blob([bytes]).stream().pipeThrough(ds);
+return new Uint8Array(await new Response(stream).arrayBuffer());
+} catch (e1) {
+try {
+var ds2 = new DecompressionStream("deflate");
+var stream2 = new Blob([bytes]).stream().pipeThrough(ds2);
+return new Uint8Array(await new Response(stream2).arrayBuffer());
+} catch (e2) {
+throw new Error("Unable to unzip DOCX content in this browser.");
+}
+}
+}
+async function readZipEntry(arrayBuffer, wantedNames) {
+var bytes = new Uint8Array(arrayBuffer);
+var view = new DataView(arrayBuffer);
+var min = Math.max(0, bytes.length - 66000);
+var eocd = -1;
+for (var p = bytes.length - 22; p >= min; p--) {
+if (u32(view, p) === 0x06054b50) { eocd = p; break; }
+}
+if (eocd < 0) throw new Error("Invalid DOCX/ZIP file.");
+var entries = u16(view, eocd + 10);
+var cdOff = u32(view, eocd + 16);
+var wanted = Object.create(null);
+wantedNames.forEach(function (n) { wanted[n] = true; });
+var found = Object.create(null);
+var off = cdOff;
+for (var i = 0; i < entries; i++) {
+if (u32(view, off) !== 0x02014b50) break;
+var method = u16(view, off + 10);
+var compSize = u32(view, off + 20);
+var nameLen = u16(view, off + 28);
+var extraLen = u16(view, off + 30);
+var commentLen = u16(view, off + 32);
+var localOff = u32(view, off + 42);
+var name = decodeUtf8(bytes.slice(off + 46, off + 46 + nameLen));
+if (wanted[name]) {
+if (u32(view, localOff) !== 0x04034b50) throw new Error("Invalid local ZIP header.");
+var ln = u16(view, localOff + 26);
+var lx = u16(view, localOff + 28);
+var dataStart = localOff + 30 + ln + lx;
+var comp = bytes.slice(dataStart, dataStart + compSize);
+var raw;
+if (method === 0) raw = comp;
+else if (method === 8) raw = await inflateZipData(comp);
+else throw new Error("Unsupported ZIP compression method: " + method);
+found[name] = decodeUtf8(raw);
+}
+off += 46 + nameLen + extraLen + commentLen;
+}
+return found;
+}
+function extractTextFromWordXml(xmlText) {
+var xml = new DOMParser().parseFromString(xmlText, "application/xml");
+var paras = Array.prototype.slice.call(xml.getElementsByTagNameNS("*", "p"));
+var lines = [];
+paras.forEach(function (p) {
+var parts = [];
+var nodes = p.getElementsByTagNameNS("*", "t");
+for (var i = 0; i < nodes.length; i++) parts.push(nodes[i].textContent || "");
+var line = flat(parts.join(""));
+if (line) lines.push(line);
+});
+if (!lines.length) {
+var allT = Array.prototype.slice.call(xml.getElementsByTagNameNS("*", "t"));
+allT.forEach(function (t) {
+var x = flat(t.textContent || "");
+if (x) lines.push(x);
+});
+}
+return lines.join("\n");
+}
+async function extractDocxText(file) {
+var names = [
+"word/document.xml",
+"word/footnotes.xml",
+"word/endnotes.xml",
+"word/comments.xml",
+"word/header1.xml",
+"word/header2.xml",
+"word/header3.xml",
+"word/footer1.xml",
+"word/footer2.xml",
+"word/footer3.xml"
+];
+var zip = await readZipEntry(await file.arrayBuffer(), names);
+var sections = [];
+names.forEach(function (n) {
+if (zip[n]) {
+var text = extractTextFromWordXml(zip[n]);
+if (text) sections.push(text);
+}
+});
+var out = sections.join("\n");
+if (!flat(out)) throw new Error("No readable text found in the DOCX file.");
+return out;
+}
+function createHost() {
+var old = document.getElementById(APP.hostId);
+if (old) return old;
+var host = document.createElement("div");
 host.id = APP.hostId;
+host.style.all = "initial";
 document.documentElement.appendChild(host);
-
-const shadow = host.attachShadow({ mode: "open" });
-
-shadow.innerHTML = `
-<style>
-:host{
-  all:initial;
-  font-family:system-ui,"Segoe UI",Tahoma,Arial,sans-serif;
-  color:#111827;
-}
-*{box-sizing:border-box}
-#fab{
-  position:fixed;
-  right:22px;
-  bottom:22px;
-  z-index:2147483647;
-  width:64px;
-  height:64px;
-  border-radius:50%;
-  border:none;
-  background:#0F8F4F;
-  color:white;
-  font-size:24px;
-  font-weight:800;
-  cursor:pointer;
-  box-shadow:0 12px 35px rgba(0,0,0,.25);
-}
-#mask{
-  position:fixed;
-  inset:0;
-  z-index:2147483646;
-  background:rgba(15,23,42,.35);
-  display:none;
-}
-#panel{
-  position:fixed;
-  inset:24px;
-  z-index:2147483647;
-  background:#f8fafc;
-  border:1px solid #e5e7eb;
-  border-radius:24px;
-  display:none;
-  overflow:hidden;
-  box-shadow:0 30px 90px rgba(0,0,0,.30);
-  direction:rtl;
-}
-.header{
-  height:72px;
-  display:flex;
-  align-items:center;
-  justify-content:space-between;
-  padding:0 22px;
-  background:white;
-  border-bottom:1px solid #e5e7eb;
-}
-.title{
-  display:flex;
-  flex-direction:column;
-  gap:4px;
-}
-.title strong{
-  font-size:20px;
-  color:#0f172a;
-}
-.title small{
-  color:#64748b;
-  direction:ltr;
-  text-align:right;
-}
-.header-actions{
-  display:flex;
-  gap:8px;
-  align-items:center;
-}
-.iconbtn{
-  border:1px solid #e5e7eb;
-  background:white;
-  color:#0f172a;
-  border-radius:12px;
-  min-width:42px;
-  height:38px;
-  cursor:pointer;
-  font-size:16px;
-}
-.iconbtn:hover{background:#f1f5f9}
-.body{
-  height:calc(100% - 72px);
-  display:grid;
-  grid-template-columns:390px 1fr;
-  overflow:hidden;
-}
-.sidebar{
-  background:white;
-  border-left:1px solid #e5e7eb;
-  padding:16px;
-  overflow:auto;
-}
-.main{
-  padding:16px;
-  overflow:auto;
-}
-.group{
-  background:#ffffff;
-  border:1px solid #e5e7eb;
-  border-radius:18px;
-  padding:14px;
-  margin-bottom:14px;
-}
-.group h3{
-  margin:0 0 10px;
-  font-size:15px;
-  color:#0f172a;
-}
-textarea,input,select{
-  width:100%;
-  border:1px solid #d1d5db;
-  border-radius:14px;
-  padding:11px;
-  font-size:14px;
-  font-family:inherit;
-  outline:none;
-  background:white;
-}
-textarea:focus,input:focus,select:focus{
-  border-color:#0F8F4F;
-  box-shadow:0 0 0 3px rgba(15,143,79,.12);
-}
-textarea{
-  min-height:140px;
-  resize:vertical;
-  direction:auto;
-  line-height:1.8;
-}
-.label{
-  display:block;
-  font-size:12px;
-  color:#475569;
-  margin:8px 0 5px;
-}
-.btnrow{
-  display:flex;
-  gap:8px;
-  flex-wrap:wrap;
-}
-button.action{
-  border:none;
-  border-radius:12px;
-  padding:10px 12px;
-  cursor:pointer;
-  background:#0F8F4F;
-  color:white;
-  font-weight:700;
-}
-button.action.secondary{background:#334155}
-button.action.light{
-  background:#f1f5f9;
-  color:#0f172a;
-  border:1px solid #e5e7eb;
-}
-button.action.warn{background:#b45309}
-button.action.danger{background:#dc2626}
-button.action.purple{background:#6d28d9}
-button.action:disabled{
-  opacity:.55;
-  cursor:not-allowed;
-}
-.counters{
-  display:grid;
-  grid-template-columns:repeat(5,1fr);
-  gap:10px;
-  margin-bottom:14px;
-}
-.card{
-  background:white;
-  border:1px solid #e5e7eb;
-  border-radius:16px;
-  padding:12px;
-  text-align:center;
-}
-.card b{
-  display:block;
-  font-size:24px;
-  color:#0f172a;
-}
-.card span{
-  color:#64748b;
-  font-size:12px;
-}
-#status{
-  font-size:13px;
-  color:#475569;
-  line-height:1.8;
-}
-.table{
-  width:100%;
-  border-collapse:separate;
-  border-spacing:0 10px;
-}
-.table th{
-  text-align:right;
-  color:#475569;
-  font-size:12px;
-  padding:4px 8px;
-}
-.table td{
-  background:white;
-  border-top:1px solid #e5e7eb;
-  border-bottom:1px solid #e5e7eb;
-  padding:12px;
-  vertical-align:top;
-  line-height:1.8;
-  font-size:14px;
-}
-.table td:first-child{
-  border-right:1px solid #e5e7eb;
-  border-radius:14px 0 0 14px;
-}
-.table td:last-child{
-  border-left:1px solid #e5e7eb;
-  border-radius:0 14px 14px 0;
-}
-.badge{
-  display:inline-block;
-  padding:4px 8px;
-  border-radius:999px;
-  font-size:12px;
-  font-weight:700;
-  margin:2px;
-}
-.confirmed{background:#dcfce7;color:#166534}
-.review{background:#fef3c7;color:#92400e}
-.needs{background:#fee2e2;color:#991b1b}
-.match{background:#e0f2fe;color:#075985}
-.context{background:#ede9fe;color:#5b21b6}
-.mt{background:#dbeafe;color:#1d4ed8}
-.cat{background:#f3f4f6;color:#374151}
-.target,.source{
-  direction:auto;
-  white-space:pre-wrap;
-}
-.smallnote{
-  font-size:12px;
-  color:#64748b;
-  margin-top:6px;
-  line-height:1.7;
-}
-.hidden{display:none !important}
-.fileline{
-  margin-top:8px;
-  color:#64748b;
-  font-size:12px;
-  line-height:1.7;
-}
-.progress{
-  height:8px;
-  background:#e5e7eb;
-  border-radius:999px;
-  overflow:hidden;
-  margin-top:10px;
-}
-#bar{
-  height:100%;
-  width:0%;
-  background:#0F8F4F;
-  transition:width .15s ease;
-}
-.feedback{
-  display:flex;
-  gap:6px;
-  flex-wrap:wrap;
-  margin-top:8px;
-}
-.feedback button{
-  border:1px solid #e5e7eb;
-  background:#f8fafc;
-  border-radius:10px;
-  padding:6px 8px;
-  cursor:pointer;
-  font-size:12px;
-}
-.feedback button:hover{background:#eef2ff}
-details summary{
-  cursor:pointer;
-  color:#475569;
-  font-size:12px;
-}
-.checkboxline{
-  display:flex;
-  gap:8px;
-  align-items:center;
-  font-size:13px;
-  color:#334155;
-  margin:8px 0;
-}
-.checkboxline input{
-  width:auto;
-}
-@media(max-width:900px){
-  #panel{
-    inset:8px;
-    border-radius:18px;
-  }
-  .body{grid-template-columns:1fr}
-  .sidebar{
-    border-left:none;
-    border-bottom:1px solid #e5e7eb;
-    max-height:46vh;
-  }
-  .counters{grid-template-columns:repeat(2,1fr)}
-}
-</style>
-
-<button id="fab" title="Open CAT">CAT</button>
-
-<div id="mask"></div>
-
-<div id="panel">
-  <div class="header">
-    <div class="title">
-      <strong>CAT Translation Tool</strong>
-      <small>Local TM · Context · Rating · Optional MT API · Categories</small>
-    </div>
-    <div class="header-actions">
-      <button id="hideCounters" class="iconbtn" title="إخفاء العدادات">▦</button>
-      <button id="close" class="iconbtn" title="إغلاق">✕</button>
-    </div>
-  </div>
-
-  <div class="body">
-    <aside class="sidebar">
-
-      <div class="group">
-        <h3>النص المصدر</h3>
-        <textarea id="sourceText" placeholder="ألصق النص المراد تحليله هنا..."></textarea>
-        <div class="btnrow" style="margin-top:10px">
-          <button id="analyze" class="action">تحليل</button>
-          <button id="clearSource" class="action light">مسح</button>
-          <button id="stop" class="action danger">إيقاف</button>
-        </div>
-        <div class="smallnote">التحليل يستخدم التشابه النصي + التشابه المتقطع + السياق السابق واللاحق.</div>
-      </div>
-
-      <div class="group">
-        <h3>الترجمة الآلية للمحتوى غير الموجود</h3>
-
-        <label class="checkboxline">
-          <input id="mtEnabled" type="checkbox">
-          تفعيل الترجمة الآلية للمقاطع Needs Translation فقط
-        </label>
-
-        <span class="label">API URL</span>
-        <input id="mtUrl" placeholder="مثال: https://libretranslate.example/translate">
-
-        <span class="label">API Key / Bearer Token اختياري</span>
-        <input id="mtKey" placeholder="اتركه فارغًا إذا لم يكن مطلوبًا">
-
-        <span class="label">نوع الاستجابة</span>
-        <select id="mtProvider">
-          <option value="generic">Generic / LibreTranslate compatible</option>
-          <option value="openaiLike">OpenAI-like response</option>
-        </select>
-
-        <div class="btnrow" style="margin-top:10px">
-          <button id="saveMTSettings" class="action light">حفظ إعدادات API</button>
-          <button id="translateNeeds" class="action purple">ترجمة Needs فقط</button>
-        </div>
-
-        <div class="smallnote">
-          لا يتم إرسال أي نص إلى API إلا إذا فعّلت الخيار وضغطت الترجمة أو شغّلت التحليل مع تفعيل MT.
-        </div>
-      </div>
-
-      <div class="group">
-        <h3>تصنيف الأزواج الجديدة</h3>
-        <span class="label">التصنيف الافتراضي</span>
-        <input id="defaultCategory" placeholder="مثال: Legal / Finance / عام">
-
-        <span class="label">الوسوم الافتراضية</span>
-        <input id="defaultTags" placeholder="مثال: نظام, عقود, لوائح">
-
-        <div class="btnrow" style="margin-top:10px">
-          <button id="saveClassSettings" class="action light">حفظ التصنيف</button>
-        </div>
-      </div>
-
-      <div class="group">
-        <h3>بناء ذاكرة الترجمة</h3>
-        <div class="btnrow">
-          <button id="buildPage" class="action">من الصفحة الحالية</button>
-          <button id="pickHtml" class="action secondary">استيراد HTML</button>
-          <button id="buildImported" class="action warn">بناء من الملف</button>
-        </div>
-        <input id="htmlFile" type="file" accept=".html,.htm,.txt" class="hidden">
-        <div id="fileInfo" class="fileline">لم يتم استيراد ملف بعد.</div>
-        <div class="smallnote">الاستخراج يفحص الخلايا، الأسطر، br، والعناصر المتداخلة.</div>
-      </div>
-
-      <div class="group">
-        <h3>إدخال زوج ترجمي يدويًا</h3>
-        <textarea id="manualAr" placeholder="النص العربي"></textarea>
-        <textarea id="manualEn" placeholder="English translation" style="margin-top:8px"></textarea>
-
-        <span class="label">تصنيف الزوج</span>
-        <input id="manualCategory" placeholder="مثال: Legal">
-
-        <span class="label">وسوم الزوج</span>
-        <input id="manualTags" placeholder="مثال: contracts, laws, نظام">
-
-        <div class="btnrow" style="margin-top:10px">
-          <button id="savePair" class="action">حفظ الزوج</button>
-        </div>
-      </div>
-
-      <div class="group">
-        <h3>إدارة الذاكرة</h3>
-        <span class="label">فلترة حسب التصنيف أو الوسم</span>
-        <input id="tmFilter" placeholder="مثال: Legal أو contracts">
-
-        <div class="btnrow" style="margin-top:10px">
-          <button id="reloadTM" class="action light">تحديث الذاكرة</button>
-          <button id="exportJson" class="action light">تصدير JSON</button>
-          <button id="importJsonBtn" class="action light">استيراد JSON</button>
-          <button id="clearTM" class="action danger">مسح الذاكرة</button>
-        </div>
-        <input id="jsonFile" type="file" accept=".json" class="hidden">
-      </div>
-
-      <div class="group">
-        <h3>الحالة</h3>
-        <div id="status">جاهز.</div>
-        <div class="progress"><div id="bar"></div></div>
-      </div>
-
-    </aside>
-
-    <main class="main">
-      <div id="counterBox" class="counters">
-        <div class="card"><b id="cTotal">0</b><span>Segments</span></div>
-        <div class="card"><b id="cAvg">0%</b><span>Average</span></div>
-        <div class="card"><b id="cConfirmed">0</b><span>Confirmed</span></div>
-        <div class="card"><b id="cReview">0</b><span>Needs Review</span></div>
-        <div class="card"><b id="cNeeds">0</b><span>Needs Translation</span></div>
-      </div>
-
-      <div class="group">
-        <div class="btnrow">
-          <button id="jumpReview" class="action light">انتقال إلى Needs Review</button>
-          <button id="jumpNeeds" class="action light">انتقال إلى Needs Translation</button>
-          <button id="acceptBest" class="action">اعتماد أفضل النتائج</button>
-          <button id="copyDraft" class="action secondary">نسخ المسودة</button>
-        </div>
-      </div>
-
-      <table class="table">
-        <thead>
-          <tr>
-            <th style="width:38px">#</th>
-            <th style="width:25%">Source</th>
-            <th style="width:30%">Best Target</th>
-            <th style="width:85px">Score</th>
-            <th style="width:115px">Status</th>
-            <th>Reason / Metadata / Feedback</th>
-          </tr>
-        </thead>
-        <tbody id="results"></tbody>
-      </table>
-    </main>
-  </div>
-</div>
-`;
-
-const $ = id => shadow.getElementById(id);
-
-/* =========================
-   Settings
-========================= */
-
-function loadSettings() {
-  try {
-    const raw = localStorage.getItem(APP.settingsKey);
-    if (raw) {
-      APP.settings = Object.assign(APP.settings, JSON.parse(raw));
-    }
-  } catch (e) {}
-}
-
-function saveSettings() {
-  localStorage.setItem(APP.settingsKey, JSON.stringify(APP.settings));
-}
-
-function applySettingsToUI() {
-  $("mtEnabled").checked = !!APP.settings.mtEnabled;
-  $("mtUrl").value = APP.settings.mtUrl || "";
-  $("mtKey").value = APP.settings.mtKey || "";
-  $("mtProvider").value = APP.settings.mtProvider || "generic";
-  $("defaultCategory").value = APP.settings.defaultCategory || "عام";
-  $("defaultTags").value = APP.settings.defaultTags || "";
-  $("manualCategory").value = APP.settings.defaultCategory || "عام";
-  $("manualTags").value = APP.settings.defaultTags || "";
-}
-
-function readSettingsFromUI() {
-  APP.settings.mtEnabled = !!$("mtEnabled").checked;
-  APP.settings.mtUrl = $("mtUrl").value.trim();
-  APP.settings.mtKey = $("mtKey").value.trim();
-  APP.settings.mtProvider = $("mtProvider").value;
-  APP.settings.defaultCategory = $("defaultCategory").value.trim() || "عام";
-  APP.settings.defaultTags = $("defaultTags").value.trim();
-  saveSettings();
-}
-
-/* =========================
-   Basic Helpers
-========================= */
-
-function setStatus(msg) {
-  $("status").textContent = msg;
-}
-
-function setProgress(n) {
-  $("bar").style.width = Math.max(0, Math.min(100, n)) + "%";
-}
-
-function sleep(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
-}
-
-function escapeHtml(s) {
-  return String(s || "")
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;");
-}
-
-function formatDate(ts) {
-  if (!ts) return "";
-  try {
-    return new Date(ts).toLocaleString();
-  } catch (e) {
-    return "";
-  }
-}
-
-function parseTags(input) {
-  if (Array.isArray(input)) return input.map(String).map(x => x.trim()).filter(Boolean);
-
-  return String(input || "")
-    .split(/[,،;؛|]/g)
-    .map(x => x.trim())
-    .filter(Boolean);
-}
-
-function tagsToText(tags) {
-  return parseTags(tags).join(", ");
-}
-
-/* =========================
-   Normalization
-========================= */
-
-function normalizeText(input) {
-  let s = String(input || "");
-
-  s = s
-    .replace(/[\u0610-\u061A\u064B-\u065F\u0670\u06D6-\u06ED]/g, "")
-    .replace(/\u0640/g, "")
-    .replace(/[\u200E\u200F\u202A-\u202E\u2066-\u2069]/g, "")
-    .replace(/[\u200B\u200C\u200D\u2060\uFEFF\u034F]/g, "")
-    .replace(/[\u00A0\u202F\u2007-\u200A]/g, " ");
-
-  s = s
-    .replace(/[أإآٱ]/g, "ا")
-    .replace(/[ىی]/g, "ي")
-    .replace(/ک/g, "ك")
-    .replace(/[ہھۀ]/g, "ه");
-
-  s = s.replace(/[٠-٩]/g, d => "٠١٢٣٤٥٦٧٨٩".indexOf(d));
-  s = s.replace(/[۰-۹]/g, d => "۰۱۲۳۴۵۶۷۸۹".indexOf(d));
-
-  s = s.toLowerCase();
-
-  s = s
-    .replace(/[“”„‟]/g, '"')
-    .replace(/[‘’‚‛]/g, "'")
-    .replace(/[‐-‒–—―]/g, "-")
-    .replace(/[^\p{L}\p{N}\s]+/gu, " ")
-    .replace(/\s+/g, " ")
-    .trim();
-
-  return s;
-}
-
-function compactText(input) {
-  return normalizeText(input).replace(/\s+/g, "");
-}
-
-function hasArabic(s) {
-  return /[\u0600-\u06FF]/.test(String(s || ""));
-}
-
-function hasEnglish(s) {
-  return /[A-Za-z]/.test(String(s || ""));
-}
-
-function detectLang(s) {
-  const text = String(s || "");
-  const ar = (text.match(/[\u0600-\u06FF]/g) || []).length;
-  const en = (text.match(/[A-Za-z]/g) || []).length;
-
-  if (ar > en) return "ar";
-  if (en > ar) return "en";
-  return "mixed";
-}
-
-function cleanVisibleText(s) {
-  return String(s || "")
-    .replace(/\u00A0/g, " ")
-    .replace(/[ \t\r\f\v]+/g, " ")
-    .replace(/\n\s+/g, "\n")
-    .replace(/\s+\n/g, "\n")
-    .replace(/\n{3,}/g, "\n\n")
-    .trim();
-}
-
-function cleanOneLine(s) {
-  return String(s || "")
-    .replace(/\s+/g, " ")
-    .replace(/\u00A0/g, " ")
-    .trim();
-}
-
-/* =========================
-   Segmentation
-========================= */
-
-function splitSegments(text) {
-  const normalized = String(text || "")
-    .replace(/\r/g, "\n")
-    .replace(/\u00A0/g, " ");
-
-  const raw = normalized
-    .split(/\n+|(?<=[.!؟?؛;])\s+/g)
-    .map(x => cleanOneLine(x))
-    .filter(Boolean);
-
-  const out = [];
-
-  for (const item of raw) {
-    if (item.length <= 650) {
-      out.push(item);
-      continue;
-    }
-
-    const parts = item
-      .split(/،|,|؛|;/g)
-      .map(x => cleanOneLine(x))
-      .filter(Boolean);
-
-    if (parts.length > 1) out.push(...parts);
-    else out.push(item);
-  }
-
-  return out.filter(x => normalizeText(x).length > 0);
-}
-
-/* =========================
-   Similarity
-========================= */
-
-const AR_STOP = new Set([
-  "في","من","إلى","الى","على","عن","أن","ان","إن","او","أو","ثم","كما","قد","كل",
-  "هذا","هذه","ذلك","تلك","هو","هي","هم","هن","ما","لا","لم","لن","كان","كانت",
-  "يكون","تكون","يجب","يجوز","وفقا","وفق","بموجب","مع","بعد","قبل"
-].map(normalizeText));
-
-const EN_STOP = new Set([
-  "the","a","an","of","to","in","on","for","and","or","as","by","with","from",
-  "that","this","these","those","is","are","was","were","be","been","being",
-  "shall","may","must","should","under","pursuant","according"
-]);
-
-function tokenize(s) {
-  const n = normalizeText(s);
-  if (!n) return [];
-
-  return n
-    .split(/\s+/)
-    .filter(t => t.length > 1)
-    .filter(t => !AR_STOP.has(t))
-    .filter(t => !EN_STOP.has(t));
-}
-
-function tokenFreq(tokens) {
-  const m = new Map();
-  for (const t of tokens) m.set(t, (m.get(t) || 0) + 1);
-  return m;
-}
-
-function cosineTokens(aTokens, bTokens) {
-  if (!aTokens.length || !bTokens.length) return 0;
-
-  const a = tokenFreq(aTokens);
-  const b = tokenFreq(bTokens);
-
-  let dot = 0;
-  let na = 0;
-  let nb = 0;
-
-  for (const [, v] of a) na += v * v;
-  for (const [, v] of b) nb += v * v;
-
-  for (const [k, v] of a) {
-    if (b.has(k)) dot += v * b.get(k);
-  }
-
-  if (!na || !nb) return 0;
-  return dot / (Math.sqrt(na) * Math.sqrt(nb));
-}
-
-function diceList(a, b) {
-  if (!a.length || !b.length) return 0;
-
-  const map = new Map();
-  for (const x of a) map.set(x, (map.get(x) || 0) + 1);
-
-  let hit = 0;
-  for (const y of b) {
-    const c = map.get(y) || 0;
-    if (c > 0) {
-      hit++;
-      map.set(y, c - 1);
-    }
-  }
-
-  return (2 * hit) / (a.length + b.length);
-}
-
-function chargrams(s, size) {
-  const n = compactText(s);
-  if (!n) return [];
-  if (n.length <= size) return [n];
-
-  const out = [];
-  for (let i = 0; i <= n.length - size; i++) {
-    out.push(n.slice(i, i + size));
-  }
-  return out;
-}
-
-function skipgrams(tokens) {
-  const out = [];
-  for (let i = 0; i < tokens.length; i++) {
-    if (tokens[i + 1]) out.push(tokens[i] + "_" + tokens[i + 1]);
-    if (tokens[i + 2]) out.push(tokens[i] + "_" + tokens[i + 2]);
-  }
-  return out;
-}
-
-function lcsTokenRatio(aTokens, bTokens) {
-  if (!aTokens.length || !bTokens.length) return 0;
-
-  const a = aTokens;
-  const b = bTokens;
-  const prev = new Array(b.length + 1).fill(0);
-  const curr = new Array(b.length + 1).fill(0);
-
-  for (let i = 1; i <= a.length; i++) {
-    for (let j = 1; j <= b.length; j++) {
-      curr[j] = a[i - 1] === b[j - 1]
-        ? prev[j - 1] + 1
-        : Math.max(prev[j], curr[j - 1]);
-    }
-
-    for (let j = 0; j <= b.length; j++) {
-      prev[j] = curr[j];
-      curr[j] = 0;
-    }
-  }
-
-  return prev[b.length] / Math.max(a.length, b.length);
-}
-
-function containmentScore(aTokens, bTokens) {
-  if (!aTokens.length || !bTokens.length) return 0;
-
-  const bSet = new Set(bTokens);
-  let hit = 0;
-
-  for (const t of aTokens) {
-    if (bSet.has(t)) hit++;
-  }
-
-  return hit / Math.max(1, aTokens.length);
-}
-
-function lengthPenalty(a, b) {
-  const la = normalizeText(a).length;
-  const lb = normalizeText(b).length;
-  if (!la || !lb) return 0.75;
-
-  const min = Math.min(la, lb);
-  const max = Math.max(la, lb);
-
-  return Math.max(0.72, min / max);
-}
-
-function similarity(a, b) {
-  const na = normalizeText(a);
-  const nb = normalizeText(b);
-
-  if (!na || !nb) return 0;
-  if (na === nb) return 100;
-
-  const ca = compactText(a);
-  const cb = compactText(b);
-
-  if (ca && cb && ca === cb) return 99;
-
-  if (na.includes(nb) || nb.includes(na)) {
-    const min = Math.min(na.length, nb.length);
-    const max = Math.max(na.length, nb.length);
-    return Math.round(90 + 9 * (min / max));
-  }
-
-  const ta = tokenize(na);
-  const tb = tokenize(nb);
-
-  const tokenDice = diceList(ta, tb);
-  const cosine = cosineTokens(ta, tb);
-  const lcs = lcsTokenRatio(ta, tb);
-  const containment = Math.max(containmentScore(ta, tb), containmentScore(tb, ta));
-  const grams3 = diceList(chargrams(ca, 3), chargrams(cb, 3));
-  const grams4 = diceList(chargrams(ca, 4), chargrams(cb, 4));
-  const skip = diceList(skipgrams(ta), skipgrams(tb));
-  const penalty = lengthPenalty(a, b);
-
-  let score =
-    tokenDice * 0.22 +
-    cosine * 0.20 +
-    lcs * 0.17 +
-    containment * 0.16 +
-    grams3 * 0.10 +
-    grams4 * 0.07 +
-    skip * 0.08;
-
-  score = score * penalty;
-
-  if (containment >= 0.88 && tokenDice >= 0.70) score = Math.max(score, 0.88);
-  if (lcs >= 0.80 && cosine >= 0.75) score = Math.max(score, 0.90);
-
-  return Math.round(score * 100);
-}
-
-/* =========================
-   IndexedDB
-========================= */
-
-function openDB() {
-  return new Promise((resolve, reject) => {
-    const req = indexedDB.open(APP.dbName, APP.dbVersion);
-
-    req.onupgradeneeded = e => {
-      const db = e.target.result;
-      let store;
-
-      if (!db.objectStoreNames.contains(APP.storeName)) {
-        store = db.createObjectStore(APP.storeName, { keyPath: "id" });
-      } else {
-        store = e.target.transaction.objectStore(APP.storeName);
-      }
-
-      const indexes = [
-        ["key", "key", { unique: false }],
-        ["arNorm", "arNorm", { unique: false }],
-        ["enNorm", "enNorm", { unique: false }],
-        ["createdAt", "createdAt", { unique: false }],
-        ["updatedAt", "updatedAt", { unique: false }],
-        ["rating", "rating", { unique: false }],
-        ["votes", "votes", { unique: false }],
-        ["category", "category", { unique: false }],
-        ["source", "source", { unique: false }]
-      ];
-
-      for (const [name, keyPath, opts] of indexes) {
-        if (!store.indexNames.contains(name)) {
-          store.createIndex(name, keyPath, opts);
-        }
-      }
-    };
-
-    req.onsuccess = e => {
-      APP.db = e.target.result;
-      resolve(APP.db);
-    };
-
-    req.onerror = () => reject(req.error);
-  });
-}
-
-function txStore(mode) {
-  return APP.db.transaction(APP.storeName, mode).objectStore(APP.storeName);
-}
-
-function getAllTM() {
-  return new Promise((resolve, reject) => {
-    const req = txStore("readonly").getAll();
-    req.onsuccess = () => resolve(req.result || []);
-    req.onerror = () => reject(req.error);
-  });
-}
-
-function getTMById(id) {
-  return new Promise((resolve, reject) => {
-    const req = txStore("readonly").get(id);
-    req.onsuccess = () => resolve(req.result || null);
-    req.onerror = () => reject(req.error);
-  });
-}
-
-function putTM(entry) {
-  return new Promise((resolve, reject) => {
-    const req = txStore("readwrite").put(entry);
-    req.onsuccess = () => resolve(entry);
-    req.onerror = () => reject(req.error);
-  });
-}
-
-function clearTMStore() {
-  return new Promise((resolve, reject) => {
-    const req = txStore("readwrite").clear();
-    req.onsuccess = () => resolve();
-    req.onerror = () => reject(req.error);
-  });
-}
-
-async function refreshCache() {
-  APP.tmCache = await getAllTM();
-
-  for (const e of APP.tmCache) {
-    if (typeof e.rating !== "number") e.rating = 0;
-    if (typeof e.votes !== "number") e.votes = 0;
-    if (typeof e.positive !== "number") e.positive = 0;
-    if (typeof e.negative !== "number") e.negative = 0;
-    if (!e.category) e.category = "عام";
-    if (!Array.isArray(e.tags)) e.tags = parseTags(e.tags);
-    if (!e.createdAt) e.createdAt = Date.now();
-    if (!e.updatedAt) e.updatedAt = e.createdAt;
-  }
-
-  setStatus("تم تحميل ذاكرة الترجمة: " + APP.tmCache.length + " زوج ترجمي.");
-}
-
-/* =========================
-   TM Entry
-========================= */
-
-function hashString(str) {
-  let h1 = 0xdeadbeef;
-  let h2 = 0x41c6ce57;
-
-  for (let i = 0; i < str.length; i++) {
-    const ch = str.charCodeAt(i);
-    h1 = Math.imul(h1 ^ ch, 2654435761);
-    h2 = Math.imul(h2 ^ ch, 1597334677);
-  }
-
-  h1 = Math.imul(h1 ^ (h1 >>> 16), 2246822507) ^ Math.imul(h2 ^ (h2 >>> 13), 3266489909);
-  h2 = Math.imul(h2 ^ (h2 >>> 16), 2246822507) ^ Math.imul(h1 ^ (h1 >>> 13), 3266489909);
-
-  return ((h2 >>> 0).toString(36) + (h1 >>> 0).toString(36));
-}
-
-function makeEntry(ar, en, meta) {
-  ar = cleanOneLine(ar);
-  en = cleanOneLine(en);
-
-  const arNorm = normalizeText(ar);
-  const enNorm = normalizeText(en);
-
-  if (!arNorm || !enNorm) return null;
-  if (arNorm.length < 2 || enNorm.length < 2) return null;
-
-  const category = meta && meta.category
-    ? cleanOneLine(meta.category)
-    : (APP.settings.defaultCategory || "عام");
-
-  const tags = meta && meta.tags
-    ? parseTags(meta.tags)
-    : parseTags(APP.settings.defaultTags);
-
-  const key = arNorm + " || " + enNorm;
-
-  return {
-    id: "tm_" + hashString(key),
-    key,
-    ar,
-    en,
-    arNorm,
-    enNorm,
-    arCompact: compactText(ar),
-    enCompact: compactText(en),
-    source: meta && meta.source ? meta.source : "",
-    context: meta && meta.context ? meta.context : "",
-    contextPrev: meta && meta.contextPrev ? cleanOneLine(meta.contextPrev) : "",
-    contextNext: meta && meta.contextNext ? cleanOneLine(meta.contextNext) : "",
-    category,
-    tags,
-    rating: 0,
-    votes: 0,
-    positive: 0,
-    negative: 0,
-    createdAt: Date.now(),
-    updatedAt: Date.now()
-  };
-}
-
-async function saveEntries(entries) {
-  const unique = new Map();
-
-  for (const e of entries) {
-    if (e && e.key) unique.set(e.id, e);
-  }
-
-  const arr = Array.from(unique.values());
-
-  for (let i = 0; i < arr.length; i++) {
-    const fresh = arr[i];
-    const old = await getTMById(fresh.id);
-
-    if (old) {
-      fresh.rating = Number(old.rating || 0);
-      fresh.votes = Number(old.votes || 0);
-      fresh.positive = Number(old.positive || 0);
-      fresh.negative = Number(old.negative || 0);
-      fresh.createdAt = old.createdAt || fresh.createdAt;
-      fresh.updatedAt = Date.now();
-
-      if (!fresh.category && old.category) fresh.category = old.category;
-      if ((!fresh.tags || !fresh.tags.length) && old.tags) fresh.tags = parseTags(old.tags);
-    }
-
-    await putTM(fresh);
-
-    if (i % 80 === 0) {
-      setProgress((i / Math.max(1, arr.length)) * 100);
-      await sleep(0);
-    }
-  }
-
-  setProgress(100);
-  await refreshCache();
-  return arr.length;
-}
-
-/* =========================
-   Deep HTML Extraction
-========================= */
-
-function isBadText(t) {
-  const n = normalizeText(t);
-  if (!n) return true;
-  if (n.length < 2) return true;
-  if (/^(page|صفحة)\s*\d+$/i.test(n)) return true;
-  if (/^\d+$/.test(n) && n.length <= 3) return true;
-  return false;
-}
-
-function uniqueTexts(arr) {
-  const seen = new Set();
-  const out = [];
-
-  for (const x of arr) {
-    const t = cleanOneLine(x);
-    const n = normalizeText(t);
-    if (!n || seen.has(n) || isBadText(t)) continue;
-    seen.add(n);
-    out.push(t);
-  }
-
-  return out;
-}
-
-function getTextWithBreaks(el) {
-  const clone = el.cloneNode(true);
-
-  clone.querySelectorAll("br").forEach(br => {
-    br.replaceWith(clone.ownerDocument.createTextNode("\n"));
-  });
-
-  clone.querySelectorAll("p,div,li,h1,h2,h3,h4,h5,h6").forEach(node => {
-    node.appendChild(clone.ownerDocument.createTextNode("\n"));
-  });
-
-  return cleanVisibleText(clone.textContent || "");
-}
-
-function splitMixedTextByLanguage(text) {
-  const lines = String(text || "")
-    .split(/\n+| {2,}/g)
-    .map(cleanOneLine)
-    .filter(Boolean);
-
-  const out = [];
-
-  for (const line of lines) {
-    if (hasArabic(line) && hasEnglish(line)) {
-      const parts = line
-        .split(/(?<=[\u0600-\u06FF])\s+(?=[A-Za-z])|(?<=[A-Za-z])\s+(?=[\u0600-\u06FF])/g)
-        .map(cleanOneLine)
-        .filter(Boolean);
-
-      out.push(...parts);
-    } else {
-      out.push(line);
-    }
-  }
-
-  return uniqueTexts(out);
-}
-
-function getCellDeepTexts(cell) {
-  const all = [];
-
-  const full = cleanOneLine(cell.innerText || cell.textContent || "");
-  if (full) all.push(full);
-
-  const withBreaks = getTextWithBreaks(cell);
-  if (withBreaks) {
-    all.push(withBreaks);
-    all.push(...splitMixedTextByLanguage(withBreaks));
-  }
-
-  const children = Array.from(cell.querySelectorAll("p,div,span,li,strong,b,em,u,h1,h2,h3,h4,h5,h6"));
-  for (const child of children) {
-    const t = cleanOneLine(child.innerText || child.textContent || "");
-    if (t) all.push(t);
-  }
-
-  return uniqueTexts(all);
-}
-
-function getRowDeepTexts(row) {
-  const cells = Array.from(row.cells || []);
-  const out = [];
-
-  for (const cell of cells) {
-    out.push(...getCellDeepTexts(cell));
-  }
-
-  return uniqueTexts(out);
-}
-
-function chooseArabicTexts(texts) {
-  return texts.filter(t => hasArabic(t));
-}
-
-function chooseEnglishTexts(texts) {
-  return texts.filter(t => hasEnglish(t) && !hasArabic(t));
-}
-
-function nearestByShape(source, candidates) {
-  if (!candidates || !candidates.length) return "";
-
-  const sLen = normalizeText(source).length;
-  let best = candidates[0];
-  let bestScore = -Infinity;
-
-  for (const c of candidates) {
-    const cLen = normalizeText(c).length;
-    const ratio = Math.min(sLen, cLen) / Math.max(1, Math.max(sLen, cLen));
-    const punctA = (String(source).match(/[.:;،؛؟?]/g) || []).length;
-    const punctB = (String(c).match(/[.:;،؛؟?]/g) || []).length;
-    const punctScore = 1 - Math.min(1, Math.abs(punctA - punctB) / 6);
-    const score = ratio * 0.75 + punctScore * 0.25;
-
-    if (score > bestScore) {
-      best = c;
-      bestScore = score;
-    }
-  }
-
-  return best;
-}
-
-function pairByOrderOrShape(arTexts, enTexts, meta) {
-  const entries = [];
-
-  if (!arTexts.length || !enTexts.length) return entries;
-
-  const ar = uniqueTexts(arTexts);
-  const en = uniqueTexts(enTexts);
-
-  const joined = makeEntry(ar.join(" "), en.join(" "), meta);
-  if (joined) entries.push(joined);
-
-  if (ar.length === en.length) {
-    for (let i = 0; i < ar.length; i++) {
-      const e = makeEntry(ar[i], en[i], {
-        ...meta,
-        context: meta.context + "-ordered-" + i
-      });
-      if (e) entries.push(e);
-    }
-  } else {
-    const limit = Math.min(8, Math.max(ar.length, en.length));
-
-    for (let i = 0; i < Math.min(ar.length, limit); i++) {
-      const bestEn = nearestByShape(ar[i], en);
-      const e = makeEntry(ar[i], bestEn, {
-        ...meta,
-        context: meta.context + "-shape-ar-" + i
-      });
-      if (e) entries.push(e);
-    }
-
-    if (ar.length <= 4 && en.length <= 4) {
-      const e2 = makeEntry(ar.join(" "), en.join(" "), {
-        ...meta,
-        context: meta.context + "-small-merge"
-      });
-      if (e2) entries.push(e2);
-    }
-  }
-
-  return entries;
-}
-
-function buildPairsFromRows(root, sourceName) {
-  const entries = [];
-  const rows = Array.from(root.querySelectorAll("tr"));
-
-  const snapshots = rows.map(row => {
-    const texts = getRowDeepTexts(row);
-    return {
-      texts,
-      all: texts.join(" "),
-      ar: chooseArabicTexts(texts),
-      en: chooseEnglishTexts(texts)
-    };
-  });
-
-  let arBuffer = [];
-  let enBuffer = [];
-  let contextBuffer = "";
-
-  for (let idx = 0; idx < snapshots.length; idx++) {
-    const snap = snapshots[idx];
-    if (!snap.texts.length) continue;
-
-    const prev = snapshots[idx - 1] ? snapshots[idx - 1].all : "";
-    const next = snapshots[idx + 1] ? snapshots[idx + 1].all : "";
-
-    if (snap.ar.length && snap.en.length) {
-      entries.push(...pairByOrderOrShape(snap.ar, snap.en, {
-        source: sourceName,
-        context: "row-deep-" + idx,
-        contextPrev: prev,
-        contextNext: next,
-        category: APP.settings.defaultCategory,
-        tags: APP.settings.defaultTags
-      }));
-
-      arBuffer = [];
-      enBuffer = [];
-      contextBuffer = "";
-      continue;
-    }
-
-    if (snap.ar.length && !snap.en.length) {
-      arBuffer.push(...snap.ar);
-      contextBuffer = contextBuffer || prev;
-      if (arBuffer.length > 6) arBuffer = arBuffer.slice(-6);
-
-      if (enBuffer.length) {
-        entries.push(...pairByOrderOrShape(arBuffer, enBuffer, {
-          source: sourceName,
-          context: "multi-row-merge-" + idx,
-          contextPrev: contextBuffer,
-          contextNext: next,
-          category: APP.settings.defaultCategory,
-          tags: APP.settings.defaultTags
-        }));
-
-        arBuffer = [];
-        enBuffer = [];
-        contextBuffer = "";
-      }
-
-      continue;
-    }
-
-    if (snap.en.length && !snap.ar.length) {
-      enBuffer.push(...snap.en);
-      contextBuffer = contextBuffer || prev;
-      if (enBuffer.length > 6) enBuffer = enBuffer.slice(-6);
-
-      if (arBuffer.length) {
-        entries.push(...pairByOrderOrShape(arBuffer, enBuffer, {
-          source: sourceName,
-          context: "multi-row-merge-" + idx,
-          contextPrev: contextBuffer,
-          contextNext: next,
-          category: APP.settings.defaultCategory,
-          tags: APP.settings.defaultTags
-        }));
-
-        arBuffer = [];
-        enBuffer = [];
-        contextBuffer = "";
-      }
-    }
-  }
-
-  return entries;
-}
-
-function buildPairsFromBlocks(root, sourceName) {
-  const selector = "p,div,span,li,h1,h2,h3,h4,h5,h6,td,th";
-  const nodes = Array.from(root.querySelectorAll(selector));
-
-  const blocks = [];
-
-  for (const el of nodes) {
-    if (el.closest("#" + APP.hostId)) continue;
-
-    const deep = getCellDeepTexts(el);
-    for (const text of deep) {
-      if (isBadText(text)) continue;
-
-      const lang = detectLang(text);
-      if (lang === "ar" || lang === "en") {
-        const prevEl = el.previousElementSibling;
-        const nextEl = el.nextElementSibling;
-
-        blocks.push({
-          text,
-          lang,
-          prev: prevEl ? cleanOneLine(prevEl.innerText || prevEl.textContent || "") : "",
-          next: nextEl ? cleanOneLine(nextEl.innerText || nextEl.textContent || "") : ""
-        });
-      }
-    }
-  }
-
-  const entries = [];
-
-  for (let i = 0; i < blocks.length - 1; i++) {
-    const a = blocks[i];
-    const b = blocks[i + 1];
-
-    if (a.lang === "ar" && b.lang === "en") {
-      const e = makeEntry(a.text, b.text, {
-        source: sourceName,
-        context: "near-block-" + i,
-        contextPrev: a.prev,
-        contextNext: b.next,
-        category: APP.settings.defaultCategory,
-        tags: APP.settings.defaultTags
-      });
-      if (e) entries.push(e);
-    }
-
-    if (a.lang === "en" && b.lang === "ar") {
-      const e = makeEntry(b.text, a.text, {
-        source: sourceName,
-        context: "near-block-" + i,
-        contextPrev: a.prev,
-        contextNext: b.next,
-        category: APP.settings.defaultCategory,
-        tags: APP.settings.defaultTags
-      });
-      if (e) entries.push(e);
-    }
-  }
-
-  return entries;
-}
-
-async function buildMemoryFromRoot(root, sourceName) {
-  APP.stop = false;
-  readSettingsFromUI();
-
-  setStatus("جاري استخراج الأزواج الترجمية بفحص عميق...");
-  setProgress(5);
-
-  const rowPairs = buildPairsFromRows(root, sourceName);
-  setProgress(45);
-  await sleep(0);
-
-  const blockPairs = buildPairsFromBlocks(root, sourceName);
-  setProgress(70);
-  await sleep(0);
-
-  const all = [...rowPairs, ...blockPairs];
-
-  setStatus("تم استخراج " + all.length + " زوج محتمل. جاري الحفظ...");
-  const saved = await saveEntries(all);
-
-  setStatus("تم بناء الذاكرة. عدد الأزواج المحفوظة أو المحدّثة: " + saved);
-}
-
-/* =========================
-   Matching
-========================= */
-
-function entryMatchesFilter(entry) {
-  const f = normalizeText($("tmFilter").value || "");
-  if (!f) return true;
-
-  const category = normalizeText(entry.category || "");
-  const tags = normalizeText(tagsToText(entry.tags || []));
-  const source = normalizeText(entry.source || "");
-
-  return category.includes(f) || tags.includes(f) || source.includes(f);
-}
-
-function getCompareSide(queryLang, entry, query) {
-  if (queryLang === "ar") {
-    return { compare: entry.ar, target: entry.en, side: "AR→EN" };
-  }
-
-  if (queryLang === "en") {
-    return { compare: entry.en, target: entry.ar, side: "EN→AR" };
-  }
-
-  const arScore = similarity(query, entry.ar);
-  const enScore = similarity(query, entry.en);
-
-  if (arScore >= enScore) {
-    return { compare: entry.ar, target: entry.en, side: "AR→EN" };
-  }
-
-  return { compare: entry.en, target: entry.ar, side: "EN→AR" };
-}
-
-function contextBonus(prev, next, entry) {
-  let bonus = 0;
-  let parts = 0;
-
-  if (prev && entry.contextPrev) {
-    bonus += similarity(prev, entry.contextPrev);
-    parts++;
-  }
-
-  if (next && entry.contextNext) {
-    bonus += similarity(next, entry.contextNext);
-    parts++;
-  }
-
-  if (!parts) return 0;
-
-  const avg = bonus / parts;
-
-  if (avg >= 85) return 7;
-  if (avg >= 70) return 5;
-  if (avg >= 55) return 3;
-  if (avg >= 40) return 1;
-
-  return 0;
-}
-
-function ratingBonus(entry) {
-  const rating = Number(entry.rating || 0);
-  const votes = Number(entry.votes || 0);
-
-  if (!votes) return 0;
-
-  if (rating >= 4) return 4;
-  if (rating >= 2) return 2;
-  if (rating <= -4) return -8;
-  if (rating <= -2) return -4;
-
-  return 0;
-}
-
-function findBestMatch(segment, prevSegment, nextSegment) {
-  const q = cleanOneLine(segment);
-  APP.currentQuery = q;
-
-  const qLang = detectLang(q);
-  let best = null;
-
-  for (const entry of APP.tmCache) {
-    if (!entryMatchesFilter(entry)) continue;
-
-    const side = getCompareSide(qLang, entry, q);
-    if (!side.compare || !side.target) continue;
-
-    const base = similarity(q, side.compare);
-    const ctx = contextBonus(prevSegment, nextSegment, entry);
-    const rate = ratingBonus(entry);
-
-    let score = Math.max(0, Math.min(100, base + ctx + rate));
-
-    if (score < 70) {
-      const qCompact = compactText(q);
-      const cCompact = compactText(side.compare);
-
-      if (qCompact && cCompact && (qCompact.includes(cCompact) || cCompact.includes(qCompact))) {
-        score = Math.max(score, 86 + ctx + rate);
-      }
-    }
-
-    if (!best || score > best.score) {
-      best = {
-        score: Math.round(score),
-        baseScore: base,
-        contextScore: ctx,
-        ratingScore: rate,
-        target: side.target,
-        sourceFound: side.compare,
-        reason: side.side + " | direct + long/discontinuous + context",
-        entry,
-        entryId: entry.id,
-        category: entry.category || "عام",
-        tags: entry.tags || [],
-        createdAt: entry.createdAt || 0,
-        updatedAt: entry.updatedAt || 0
-      };
-    }
-
-    if (score >= 100) break;
-  }
-
-  if (!best || best.score < 75) {
-    const split = findSplitMergeMatch(q, prevSegment, nextSegment);
-    if (split && (!best || split.score > best.score)) {
-      best = split;
-    }
-  }
-
-  if (!best) {
-    return {
-      score: 0,
-      baseScore: 0,
-      contextScore: 0,
-      ratingScore: 0,
-      target: "",
-      sourceFound: "",
-      reason: "no-match",
-      entryId: "",
-      category: "",
-      tags: [],
-      createdAt: 0,
-      updatedAt: 0
-    };
-  }
-
-  return best;
-}
-
-function findSplitMergeMatch(segment, prevSegment, nextSegment) {
-  const parts = splitSegments(segment);
-  if (parts.length <= 1) return null;
-
-  const targets = [];
-  const sources = [];
-  const scores = [];
-  const ids = [];
-  let metaEntry = null;
-
-  for (const part of parts) {
-    let localBest = null;
-    const lang = detectLang(part);
-
-    for (const entry of APP.tmCache) {
-      if (!entryMatchesFilter(entry)) continue;
-
-      const side = getCompareSide(lang, entry, part);
-      const base = similarity(part, side.compare);
-      const ctx = contextBonus(prevSegment, nextSegment, entry);
-      const rate = ratingBonus(entry);
-      const score = Math.max(0, Math.min(100, base + ctx + rate));
-
-      if (!localBest || score > localBest.score) {
-        localBest = {
-          score,
-          target: side.target,
-          sourceFound: side.compare,
-          entryId: entry.id,
-          entry
-        };
-      }
-    }
-
-    if (localBest && localBest.score >= 72 && localBest.target) {
-      targets.push(localBest.target);
-      sources.push(localBest.sourceFound);
-      scores.push(localBest.score);
-      ids.push(localBest.entryId);
-      metaEntry = metaEntry || localBest.entry;
-    }
-  }
-
-  if (!targets.length) return null;
-
-  const avg = Math.round(scores.reduce((a, b) => a + b, 0) / scores.length);
-
-  return {
-    score: Math.min(94, avg),
-    baseScore: avg,
-    contextScore: 0,
-    ratingScore: 0,
-    target: targets.join("\n"),
-    sourceFound: sources.join("\n---\n"),
-    reason: "split/merge smart match + discontinuous matching",
-    entryId: ids[0] || "",
-    category: metaEntry ? metaEntry.category || "عام" : "",
-    tags: metaEntry ? metaEntry.tags || [] : [],
-    createdAt: metaEntry ? metaEntry.createdAt || 0 : 0,
-    updatedAt: metaEntry ? metaEntry.updatedAt || 0 : 0
-  };
-}
-
-function getStatus(score, target, fromMT) {
-  if (fromMT) return "Needs Review";
-  if (!target || score < 70) return "Needs Translation";
-  if (score >= 95) return "Confirmed";
-  return "Needs Review";
-}
-
-function statusClass(status) {
-  if (status === "Confirmed") return "confirmed";
-  if (status === "Needs Review") return "review";
-  return "needs";
-}
-
-/* =========================
-   Machine Translation API
-========================= */
-
-function targetLangForSource(text) {
-  const lang = detectLang(text);
-  if (lang === "ar") return { source: "ar", target: "en" };
-  if (lang === "en") return { source: "en", target: "ar" };
-  return { source: "auto", target: "en" };
-}
-
-async function callMachineTranslation(text) {
-  readSettingsFromUI();
-
-  if (!APP.settings.mtEnabled) {
-    throw new Error("MT is disabled.");
-  }
-
-  if (!APP.settings.mtUrl) {
-    throw new Error("MT API URL is empty.");
-  }
-
-  const langs = targetLangForSource(text);
-
-  const headers = {
-    "Content-Type": "application/json"
-  };
-
-  if (APP.settings.mtKey) {
-    headers.Authorization = "Bearer " + APP.settings.mtKey;
-  }
-
-  let body;
-
-  if (APP.settings.mtProvider === "openaiLike") {
-    body = {
-      model: "translation-model",
-      messages: [
-        {
-          role: "system",
-          content: "Translate accurately between Arabic and English. Return only the translation."
-        },
-        {
-          role: "user",
-          content: text
-        }
-      ]
-    };
-  } else {
-    body = {
-      q: text,
-      source: langs.source,
-      target: langs.target,
-      format: "text",
-      api_key: APP.settings.mtKey || undefined
-    };
-  }
-
-  const res = await fetch(APP.settings.mtUrl, {
-    method: "POST",
-    headers,
-    body: JSON.stringify(body)
-  });
-
-  if (!res.ok) {
-    throw new Error("MT API error: HTTP " + res.status);
-  }
-
-  const data = await res.json();
-
-  const translated =
-    data.translatedText ||
-    data.translation ||
-    data.text ||
-    data.result ||
-    (data.data && data.data.translation) ||
-    (data.choices && data.choices[0] && data.choices[0].message && data.choices[0].message.content) ||
-    "";
-
-  return cleanOneLine(translated);
-}
-
-async function translateNeedsOnly() {
-  readSettingsFromUI();
-
-  if (!APP.settings.mtEnabled) {
-    setStatus("فعّل خيار الترجمة الآلية أولًا.");
-    return;
-  }
-
-  const needs = APP.rows.filter(r => r.status === "Needs Translation" && r.source);
-  if (!needs.length) {
-    setStatus("لا توجد مقاطع Needs Translation لترجمتها آليًا.");
-    return;
-  }
-
-  setStatus("جاري ترجمة المقاطع غير الموجودة في الذاكرة عبر API...");
-  setProgress(0);
-
-  for (let i = 0; i < needs.length; i++) {
-    if (APP.stop) {
-      setStatus("تم إيقاف الترجمة الآلية.");
-      break;
-    }
-
-    const row = needs[i];
-
-    try {
-      const mt = await callMachineTranslation(row.source);
-      if (mt) {
-        row.target = mt;
-        row.score = 60;
-        row.status = "Needs Review";
-        row.reason = "Machine Translation API suggestion";
-        row.fromMT = true;
-      }
-    } catch (err) {
-      row.reason = "MT failed: " + (err && err.message ? err.message : err);
-    }
-
-    if (i % 2 === 0) {
-      renderRows();
-      updateCounters();
-      setProgress((i / needs.length) * 100);
-      await sleep(0);
-    }
-  }
-
-  renderRows();
-  updateCounters();
-  setProgress(100);
-  setStatus("اكتملت ترجمة المقاطع غير الموجودة في الذاكرة.");
-}
-
-/* =========================
-   Analysis
-========================= */
-
-async function analyzeSource() {
-  APP.stop = false;
-  readSettingsFromUI();
-
-  if (!APP.tmCache.length) {
-    await refreshCache();
-  }
-
-  const text = $("sourceText").value || "";
-  const segments = splitSegments(text);
-
-  if (!segments.length) {
-    setStatus("لا يوجد نص لتحليله.");
-    return;
-  }
-
-  APP.rows = [];
-  renderRows();
-
-  setStatus("جاري التحليل بالسياق والتشابه المتقطع...");
-  setProgress(0);
-
-  for (let i = 0; i < segments.length; i++) {
-    if (APP.stop) {
-      setStatus("تم إيقاف التحليل.");
-      break;
-    }
-
-    const source = segments[i];
-    const prev = segments[i - 1] || "";
-    const next = segments[i + 1] || "";
-
-    const hit = findBestMatch(source, prev, next);
-
-    let score = Number(hit.score || 0);
-    let target = hit.target || "";
-    let reason = hit.reason || "";
-    let fromMT = false;
-
-    if ((!target || score < 70) && APP.settings.mtEnabled && APP.settings.mtUrl) {
-      try {
-        const mt = await callMachineTranslation(source);
-        if (mt) {
-          target = mt;
-          score = 60;
-          reason = "Machine Translation API suggestion";
-          fromMT = true;
-        }
-      } catch (err) {
-        reason = "no-match | MT failed: " + (err && err.message ? err.message : err);
-      }
-    }
-
-    const status = getStatus(score, target, fromMT);
-
-    APP.rows.push({
-      id: i + 1,
-      source,
-      prev,
-      next,
-      target,
-      sourceFound: hit.sourceFound || "",
-      score,
-      baseScore: hit.baseScore || 0,
-      contextScore: hit.contextScore || 0,
-      ratingScore: hit.ratingScore || 0,
-      status,
-      reason,
-      entryId: hit.entryId || "",
-      category: hit.category || "",
-      tags: hit.tags || [],
-      createdAt: hit.createdAt || 0,
-      updatedAt: hit.updatedAt || 0,
-      fromMT
-    });
-
-    if (i % 5 === 0) {
-      renderRows();
-      updateCounters();
-      setProgress((i / segments.length) * 100);
-      await sleep(0);
-    }
-  }
-
-  renderRows();
-  updateCounters();
-  setProgress(100);
-  setStatus("اكتمل التحليل.");
-}
-
-function renderRows() {
-  const tbody = $("results");
-
-  tbody.innerHTML = APP.rows.map((row, index) => `
-    <tr data-status="${escapeHtml(row.status)}" data-index="${index}">
-      <td>${row.id}</td>
-      <td>
-        <div class="source">${escapeHtml(row.source)}</div>
-      </td>
-      <td>
-        <div class="target">${escapeHtml(row.target || "")}</div>
-      </td>
-      <td>
-        <span class="badge match">${row.score}%</span>
-        ${row.contextScore ? `<br><span class="badge context">CTX +${row.contextScore}</span>` : ""}
-        ${row.fromMT ? `<br><span class="badge mt">MT</span>` : ""}
-      </td>
-      <td>
-        <span class="badge ${statusClass(row.status)}">${escapeHtml(row.status)}</span>
-      </td>
-      <td>
-        <div>${escapeHtml(row.reason || "")}</div>
-
-        <div class="smallnote">
-          Base: ${Math.round(row.baseScore || row.score || 0)} |
-          Context: ${Math.round(row.contextScore || 0)} |
-          Rating: ${Math.round(row.ratingScore || 0)}
-        </div>
-
-        ${row.category ? `<span class="badge cat">Category: ${escapeHtml(row.category)}</span>` : ""}
-        ${row.tags && row.tags.length ? `<span class="badge cat">Tags: ${escapeHtml(tagsToText(row.tags))}</span>` : ""}
-
-        ${row.updatedAt ? `
-          <div class="smallnote">
-            Created: ${escapeHtml(formatDate(row.createdAt))}<br>
-            Updated: ${escapeHtml(formatDate(row.updatedAt))}
-          </div>
-        ` : ""}
-
-        ${row.sourceFound ? `
-          <details>
-            <summary>المصدر المطابق</summary>
-            <div class="source">${escapeHtml(row.sourceFound)}</div>
-          </details>
-        ` : ""}
-
-        <div class="feedback">
-          <button data-act="good" data-index="${index}">👍 جيد</button>
-          <button data-act="bad" data-index="${index}">👎 غير مناسب</button>
-          <button data-act="save" data-index="${index}">💾 حفظ كزوج</button>
-        </div>
-      </td>
-    </tr>
-  `).join("");
-}
-
-function updateCounters() {
-  const total = APP.rows.length;
-  const avg = total
-    ? Math.round(APP.rows.reduce((a, r) => a + Number(r.score || 0), 0) / total)
-    : 0;
-
-  const confirmed = APP.rows.filter(r => r.status === "Confirmed").length;
-  const review = APP.rows.filter(r => r.status === "Needs Review").length;
-  const needs = APP.rows.filter(r => r.status === "Needs Translation").length;
-
-  $("cTotal").textContent = total;
-  $("cAvg").textContent = avg + "%";
-  $("cConfirmed").textContent = confirmed;
-  $("cReview").textContent = review;
-  $("cNeeds").textContent = needs;
-
-  $("jumpReview").style.display = review ? "" : "none";
-  $("jumpNeeds").style.display = needs ? "" : "none";
-}
-
-function acceptBest() {
-  APP.rows = APP.rows.map(r => {
-    if (r.target && r.score >= 70) {
-      return {
-        ...r,
-        status: r.score >= 95 ? "Confirmed" : "Needs Review"
-      };
-    }
-    return r;
-  });
-
-  renderRows();
-  updateCounters();
-  setStatus("تم اعتماد أفضل النتائج المتاحة.");
-}
-
-function copyDraft() {
-  const draft = APP.rows
-    .map(r => r.target || "")
-    .join("\n\n");
-
-  navigator.clipboard.writeText(draft).then(() => {
-    setStatus("تم نسخ مسودة الترجمة.");
-  }).catch(() => {
-    setStatus("تعذر النسخ التلقائي. انسخ النتائج يدويًا.");
-  });
-}
-
-function jumpToStatus(status) {
-  const row = shadow.querySelector(`tr[data-status="${status}"]`);
-  if (row) {
-    row.scrollIntoView({ behavior: "smooth", block: "center" });
-  }
-}
-
-/* =========================
-   Feedback
-========================= */
-
-async function rateSuggestion(rowIndex, type) {
-  const row = APP.rows[rowIndex];
-  if (!row) return;
-
-  if (!row.entryId) {
-    setStatus("لا يوجد سجل ذاكرة مرتبط بهذا الاقتراح.");
-    return;
-  }
-
-  const entry = await getTMById(row.entryId);
-  if (!entry) {
-    setStatus("لم يتم العثور على سجل الذاكرة المرتبط.");
-    return;
-  }
-
-  entry.votes = Number(entry.votes || 0) + 1;
-
-  if (type === "good") {
-    entry.positive = Number(entry.positive || 0) + 1;
-    entry.rating = Number(entry.rating || 0) + 1;
-    setStatus("تم تسجيل التقييم: الاقتراح جيد.");
-  } else {
-    entry.negative = Number(entry.negative || 0) + 1;
-    entry.rating = Number(entry.rating || 0) - 1;
-    setStatus("تم تسجيل التقييم: الاقتراح غير مناسب.");
-  }
-
-  entry.updatedAt = Date.now();
-
-  await putTM(entry);
-  await refreshCache();
-}
-
-async function saveRowAsPair(rowIndex) {
-  const row = APP.rows[rowIndex];
-  if (!row || !row.source || !row.target) {
-    setStatus("لا يوجد زوج صالح للحفظ.");
-    return;
-  }
-
-  const lang = detectLang(row.source);
-
-  let ar = "";
-  let en = "";
-
-  if (lang === "ar") {
-    ar = row.source;
-    en = row.target;
-  } else if (lang === "en") {
-    ar = row.target;
-    en = row.source;
-  } else {
-    if (hasArabic(row.source)) {
-      ar = row.source;
-      en = row.target;
-    } else {
-      ar = row.target;
-      en = row.source;
-    }
-  }
-
-  const e = makeEntry(ar, en, {
-    source: row.fromMT ? "machine-translation-api" : "user-feedback",
-    context: "saved-from-analysis",
-    contextPrev: row.prev || "",
-    contextNext: row.next || "",
-    category: APP.settings.defaultCategory || "عام",
-    tags: APP.settings.defaultTags || ""
-  });
-
-  if (!e) {
-    setStatus("تعذر حفظ الزوج.");
-    return;
-  }
-
-  const old = await getTMById(e.id);
-  if (old) {
-    e.rating = Number(old.rating || 0) + 1;
-    e.votes = Number(old.votes || 0) + 1;
-    e.positive = Number(old.positive || 0) + 1;
-    e.negative = Number(old.negative || 0);
-    e.createdAt = old.createdAt || e.createdAt;
-  } else {
-    e.rating = 1;
-    e.votes = 1;
-    e.positive = 1;
-  }
-
-  e.updatedAt = Date.now();
-
-  await putTM(e);
-  await refreshCache();
-
-  setStatus("تم حفظ هذا الاقتراح كزوج ترجمي في الذاكرة مع التصنيف والتاريخ.");
-}
-
-$("results").addEventListener("click", async e => {
-  const btn = e.target.closest("button[data-act]");
-  if (!btn) return;
-
-  const index = Number(btn.getAttribute("data-index"));
-  const act = btn.getAttribute("data-act");
-
-  if (act === "good") await rateSuggestion(index, "good");
-  if (act === "bad") await rateSuggestion(index, "bad");
-  if (act === "save") await saveRowAsPair(index);
+return host;
+}
+function initUI() {
+var host = createHost();
+var shadow = host.shadowRoot || host.attachShadow({ mode: "open" });
+shadow.innerHTML = [
+"<style>",
+":host{all:initial}",
+"*{box-sizing:border-box}",
+".fab{position:fixed;right:18px;bottom:18px;z-index:2147483647;border:0;border-radius:999px;padding:12px 18px;background:#2563eb;color:#fff;font:800 13px 'Segoe UI',Tahoma,Arial;box-shadow:0 10px 30px rgba(0,0,0,.25);cursor:pointer;direction:ltr}",
+".panel{position:fixed;inset:12px;z-index:2147483647;background:#f8fafc;border:1px solid #dbe2ea;border-radius:14px;box-shadow:0 20px 70px rgba(15,23,42,.30);display:none;direction:rtl;font-family:'GE SS Two Light','Segoe UI',Tahoma,Arial;color:#111827;overflow:hidden}",
+".panel.open{display:flex;flex-direction:column}",
+".panel.sourceCollapsed .inputArea{display:none!important;height:0!important;padding:0!important;border:0!important;min-height:0!important;overflow:hidden!important}",
+".panel.sourceCollapsed .tablewrap{flex:1 1 auto!important;min-height:0!important}",
+".panel.sourceCollapsed .mainbox{min-height:0!important}",
+".topTools{display:flex;align-items:center;gap:6px}",
+".iconBtn{height:30px;min-width:34px;padding:0 10px;border:1px solid #d9e0ea;border-radius:8px;background:#fff;font:800 12px 'Segoe UI',Tahoma,Arial;cursor:pointer}",
+".iconBtn.on{background:#0f766e;color:#fff;border-color:#0f766e}",
+".top{height:46px;background:#fff;border-bottom:1px solid #e5e7eb;display:flex;align-items:center;gap:10px;padding:0 14px}",
+".title{font-weight:900;font-size:15px;margin-left:auto;direction:ltr;font-family:'Segoe UI',Segoe,Arial}",
+".close{border:0;width:30px;height:30px;border-radius:8px;background:#fee2e2;color:#991b1b;cursor:pointer;font-weight:900}",
+".dash{display:grid;grid-template-columns:repeat(5,minmax(115px,1fr));gap:10px;padding:10px 12px;background:#f8fafc;border-bottom:1px solid #e5e7eb}",
+".statCard{background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:9px 10px;text-align:center}",
+".statCard .lab{font-size:12px;color:#64748b;font-weight:800}",
+".statCard .val{font-size:22px;font-weight:900;direction:ltr;margin-top:3px;font-family:'Segoe UI',Segoe,Arial}",
+"#confirmedStat{color:#168A45!important}",
+".body{display:grid;grid-template-columns:260px minmax(0,1fr);gap:12px;padding:12px;min-height:0;flex:1}",
+".side,.mainbox{background:#fff;border:1px solid #e5e7eb;border-radius:12px;overflow:hidden}",
+".side{padding:12px;display:flex;flex-direction:column;gap:8px;overflow:auto}",
+"button,select,input{height:34px;border:1px solid #d9e0ea;border-radius:9px;background:#fff;font:800 12px 'GE SS Two Light','Segoe UI',Tahoma,Arial;cursor:pointer}",
+".primary{background:#2563eb;color:#fff;border-color:#2563eb}",
+".green{background:#16a34a;color:#fff;border-color:#16a34a}",
+".red{background:#dc2626;color:#fff;border-color:#dc2626}",
+".gold{background:#f59e0b;color:#fff;border-color:#f59e0b}",
+"textarea{width:100%;min-height:120px;resize:vertical;border:1px solid #d9e0ea;border-radius:10px;padding:10px;font:15px/1.8 'GE SS Two Light','Segoe UI',Tahoma,Arial;direction:auto}",
+".statusBox{border:1px solid #e5e7eb;background:#f8fafc;border-radius:10px;padding:9px;min-height:56px;font-size:12px;color:#475569;line-height:1.6}",
+".bar{height:6px;background:#e5e7eb;border-radius:999px;overflow:hidden}",
+".fill{height:100%;width:0%;background:#2563eb}",
+".mainbox{display:flex;flex-direction:column;min-height:0}",
+".inputArea{padding:10px;border-bottom:1px solid #e5e7eb;background:#fbfdff}",
+".tablewrap{overflow:auto;min-height:0;flex:1}",
+"table{border-collapse:separate;border-spacing:0;width:100%;table-layout:fixed;direction:ltr;background:#fff}",
+"th{position:sticky;top:0;z-index:2;height:34px;background:#eef4ff;border-bottom:1px solid #dbe2ea;border-right:1px solid #e5e7eb;font-size:13px;text-align:center;font-family:'Segoe UI',Segoe,Arial}",
+"td{border-bottom:1px solid #eef2f7;border-right:1px solid #eef2f7;padding:9px;vertical-align:top;font-size:15px;line-height:1.8;background:#fff}",
+"tr:nth-child(even) td{background:#f8fbff}",
+".ar{direction:rtl;text-align:justify;text-justify:kashida;font-family:'GE SS Two Light','GE SS Light Text',Tahoma,Arial,sans-serif;font-size:15px}",
+".en{direction:ltr;text-align:justify;font-family:'Segoe UI',Segoe,Arial,sans-serif;font-size:15px}",
+".num{width:42px;text-align:center;font-family:'Segoe UI',Segoe,Arial}",
+".src{width:24%}",
+".best{width:28%}",
+".match{width:75px;text-align:center;font-weight:900;direction:ltr;font-family:'Segoe UI',Segoe,Arial}",
+".target{width:30%}",
+".stat{width:110px;text-align:center}",
+".pill{display:inline-block;padding:3px 7px;border-radius:999px;background:#eef2ff;color:#1d4ed8;font-size:11px;font-weight:900}",
+".pill.confirmed{background:#EAF8EF;color:#168A45;border:1px solid #B7E4C7}",
+".needsRow td{background:#FFF2CC!important}",
+".small{color:#64748b;font-size:11px;margin-top:5px;direction:ltr}",
+".qa{margin-top:6px;color:#b45309;font-size:11px;line-height:1.4}",
+".suggest{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px}",
+".sug{height:24px;padding:0 7px;border-radius:999px;background:#ecfdf5;border:1px solid #bbf7d0;color:#166534;font-size:11px}",
+".mini{font-size:11px;color:#64748b;line-height:1.5}",
+".hiddenFile{display:none}",
+".targetDraft.ar{font-family:'GE SS Two Light','GE SS Light Text',Tahoma,Arial;font-size:15px;text-align:justify;text-justify:kashida}",
+".targetDraft.en{font-family:'Segoe UI',Segoe,Arial;font-size:15px;text-align:justify}",
+"</style>",
+"<button class='fab' id='fab'>CAT V47 Cell</button>",
+"<section class='panel' id='panel'>",
+"<div class='top'><button class='close' id='close'>\xd7</button><div class='topTools'><button class='iconBtn' id='toggleSourceIcon' title='\u0637\u064a/\u0625\u0638\u0647\u0627\u0631 \u0644\u0648\u062d\u0629 \u0627\u0644\u0645\u0635\u062f\u0631'>SRC</button><button class='iconBtn' id='toggleHtmlIcon' title='\u0625\u062e\u0641\u0627\u0621/\u0625\u0638\u0647\u0627\u0631 \u0645\u062d\u062a\u0648\u0649 HTML'>HTML</button></div><div class='title'>CAT Translation Memory V47 Cell-Segment Professional</div></div>",
+"<div class='dash'>",
+"<div class='statCard'><div class='lab'>\u0645\u0639\u062f\u0644 \u0627\u0644\u062a\u0637\u0627\u0628\u0642 \u0645\u0646 100</div><div class='val' id='avgStat'>0%</div></div>",
+"<div class='statCard'><div class='lab'>Segments</div><div class='val' id='segStat'>0</div></div>",
+"<div class='statCard'><div class='lab'>Confirmed</div><div class='val' id='confirmedStat'>0</div></div>",
+"<div class='statCard'><div class='lab'>Needs Translation</div><div class='val' id='needsStat'>0</div></div>",
+"<div class='statCard'><div class='lab'>Needs Review</div><div class='val' id='reviewStat'>0</div></div>",
+"</div>",
+"<div class='body'>",
+"<aside class='side'>",
+"<button class='green' id='build'>\u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629</button>",
+"<button class='primary' id='analyze'>\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0646\u0635</button>",
+"<button class='gold' id='acceptAll'>\u0627\u0639\u062a\u0645\u0627\u062f \u0627\u0644\u0623\u0641\u0636\u0644</button>",
+"<button id='copy'>\u0646\u0633\u062e Target Draft</button>",
+"<button id='concordance'>\u0628\u062d\u062b Concordance</button>",
+"<input id='concordQ' placeholder='\u0628\u062d\u062b \u0641\u064a \u0627\u0644\u0630\u0627\u0643\u0631\u0629...' style='padding:0 8px'>",
+"<button id='importDOCX'>Import Word DOCX</button>",
+"<button id='importHTML'>Import HTML</button>",
+"<button id='importTerms'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f \u0645\u0635\u0637\u0644\u062d\u0627\u062a CSV</button>",
+"<button id='importTMX'>\u0627\u0633\u062a\u064a\u0631\u0627\u062f TMX</button>",
+"<button id='exportTMX'>\u062a\u0635\u062f\u064a\u0631 TMX</button>",
+"<button id='exportXLIFF'>\u062a\u0635\u062f\u064a\u0631 XLIFF</button>",
+"<button id='saveProject'>\u062d\u0641\u0638 \u0645\u0634\u0631\u0648\u0639 JSON</button>",
+"<button id='loadProject'>\u0641\u062a\u062d \u0645\u0634\u0631\u0648\u0639 JSON</button>",
+"<button id='report'>\u062a\u0642\u0631\u064a\u0631 HTML</button>",
+"<button id='word'>Word A3 + Track Changes</button>",
+"<button id='clear'>\u0645\u0633\u062d \u0627\u0644\u0646\u062a\u0627\u0626\u062c</button>",
+"<button class='red' id='stop'>\u0625\u064a\u0642\u0627\u0641</button>",
+"<select id='slang'><option value='auto'>\u062a\u0644\u0642\u0627\u0626\u064a</option><option value='ar'>\u0639\u0631\u0628\u064a \u2190 \u0625\u0646\u062c\u0644\u064a\u0632\u064a</option><option value='en'>English \u2192 Arabic</option></select>",
+"<div class='bar'><div class='fill' id='fill'></div></div>",
+"<div class='statusBox' id='status'>\u062c\u0627\u0647\u0632. \u0627\u0636\u063a\u0637 \xab\u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629\xbb \u0623\u0648\u0644\u064b\u0627.</div>",
+"<div class='mini'>Local only \xb7 No network \xb7 No CDN \xb7 No external API</div>",
+"</aside>",
+"<main class='mainbox'>",
+"<div class='inputArea'><textarea id='source' placeholder='\u0623\u0644\u0635\u0642 \u0647\u0646\u0627 \u0627\u0644\u0646\u0635 \u0627\u0644\u0639\u0631\u0628\u064a \u0623\u0648 \u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a \u0627\u0644\u0645\u0631\u0627\u062f \u062a\u062d\u0644\u064a\u0644\u0647...'></textarea></div>",
+"<div class='tablewrap'>",
+"<table>",
+"<thead><tr><th class='num'>#</th><th class='src'>Source Segment</th><th class='best'>Best Match</th><th class='match'>Match</th><th class='target'>Target Draft</th><th class='stat'>Status</th></tr></thead>",
+"<tbody id='res'><tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>\u0644\u0627 \u062a\u0648\u062c\u062f \u0646\u062a\u0627\u0626\u062c \u0628\u0639\u062f.</td></tr></tbody>",
+"</table>",
+"</div>",
+"</main>",
+"</div>",
+"<input class='hiddenFile' id='fileDOCX' type='file' accept='.docx,application/vnd.openxmlformats-officedocument.wordprocessingml.document'>",
+"<input class='hiddenFile' id='fileHTML' type='file' accept='.html,.htm,text/html'>",
+"<input class='hiddenFile' id='fileTerms' type='file' accept='.csv,.txt'>",
+"<input class='hiddenFile' id='fileTMX' type='file' accept='.tmx,.xml,.txt'>",
+"<input class='hiddenFile' id='fileProject' type='file' accept='.json'>",
+"</section>"
+].join("");
+var $ = function (s) { return shadow.querySelector(s); };
+var panel = $("#panel");
+var status = $("#status");
+var fill = $("#fill");
+var res = $("#res");
+var source = $("#source");
+var ui = {
+status: function (m) { status.textContent = m; },
+progress: function (done, total) {
+var p = total ? Math.round(done / total * 100) : 0;
+fill.style.width = p + "%";
+}
+};
+function open() { panel.classList.add("open"); }
+function close() { panel.classList.remove("open"); }
+function setSourceCollapsed(collapsed) {
+collapsed = !!collapsed;
+panel.classList.toggle("sourceCollapsed", collapsed);
+var btn = $("#toggleSourceIcon");
+var inputArea = $(".inputArea");
+if (inputArea) {
+inputArea.style.display = collapsed ? "none" : "block";
+inputArea.style.visibility = collapsed ? "hidden" : "visible";
+inputArea.style.height = collapsed ? "0" : "auto";
+inputArea.style.padding = collapsed ? "0" : "10px";
+inputArea.style.overflow = "hidden";
+}
+if (btn) {
+btn.textContent = collapsed ? "SRC+" : "SRC\u2212";
+btn.classList.toggle("on", collapsed);
+btn.setAttribute("aria-pressed", collapsed ? "true" : "false");
+}
+ui.status(collapsed ? "\u062a\u0645 \u0625\u062e\u0641\u0627\u0621 \u0644\u0648\u062d\u0629 \u0627\u0644\u0645\u0635\u062f\u0631." : "\u062a\u0645 \u0625\u0638\u0647\u0627\u0631 \u0644\u0648\u062d\u0629 \u0627\u0644\u0645\u0635\u062f\u0631.");
+}
+function setHtmlHidden(hidden) {
+hidden = !!hidden;
+var sid = APP.hostId + "-page-hide-style";
+var st = document.getElementById(sid);
+if (hidden) {
+if (!st) {
+st = document.createElement("style");
+st.id = sid;
+st.textContent = "body > *{visibility:hidden!important;} body{background:#fff!important;}";
+document.documentElement.appendChild(st);
+}
+} else if (st) {
+st.remove();
+}
+var btn = $("#toggleHtmlIcon");
+if (btn) {
+btn.textContent = hidden ? "HTML+" : "HTML\u2212";
+btn.classList.toggle("on", hidden);
+btn.setAttribute("aria-pressed", hidden ? "true" : "false");
+}
+ui.status(hidden ? "\u062a\u0645 \u0625\u062e\u0641\u0627\u0621 \u0645\u062d\u062a\u0648\u0649 \u0635\u0641\u062d\u0629 HTML." : "\u062a\u0645 \u0625\u0638\u0647\u0627\u0631 \u0645\u062d\u062a\u0648\u0649 \u0635\u0641\u062d\u0629 HTML.");
+}
+function updateStats() {
+var total = APP.results.length;
+var sum = 0;
+var needs = 0;
+var review = 0;
+var confirmed = 0;
+APP.results.forEach(function (r) {
+var sc = +r.score || 0;
+var issues = qaIssues(r.segment.text, r.target || "");
+sum += sc;
+if (r.status === "Needs" || !flat(r.target || "")) needs++;
+else if (isConfirmedStatus(r.status) && sc >= 95 && !issues.length) confirmed++;
+else review++;
 });
-
-/* =========================
-   Import / Export JSON
-========================= */
-
-function downloadFile(filename, text, type) {
-  const blob = new Blob([text], { type: type || "text/plain;charset=utf-8" });
-  const url = URL.createObjectURL(blob);
-  const a = document.createElement("a");
-
-  a.href = url;
-  a.download = filename;
-  a.click();
-
-  setTimeout(() => URL.revokeObjectURL(url), 500);
+var avg = total ? Math.round(sum / total) : 0;
+$("#avgStat").textContent = matchLabel(avg);
+$("#avgStat").style.color = matchColor(avg);
+$("#segStat").textContent = asc(total);
+$("#confirmedStat").textContent = asc(confirmed);
+$("#confirmedStat").style.color = "#168A45";
+$("#needsStat").textContent = asc(needs);
+$("#needsStat").style.color = needs ? "#DC2626" : "#168A45";
+$("#reviewStat").textContent = asc(review);
+$("#reviewStat").style.color = review ? "#F59E0B" : "#168A45";
 }
-
-async function exportJSON() {
-  await refreshCache();
-
-  downloadFile(
-    "cat-translation-memory-v3.json",
-    JSON.stringify(APP.tmCache, null, 2),
-    "application/json;charset=utf-8"
-  );
-
-  setStatus("تم تصدير ذاكرة الترجمة JSON مع التصنيفات وتاريخ آخر تحديث.");
+function updateStoredTargets() {
+var boxes = Array.prototype.slice.call(res.querySelectorAll(".targetDraft"));
+boxes.forEach(function (b) {
+var i = +b.getAttribute("data-i");
+if (APP.results[i]) {
+APP.results[i].target = b.value || "";
+if (!APP.results[i].target) APP.results[i].status = "Needs";
+else if ((+APP.results[i].score || 0) >= 95 && !qaIssues(APP.results[i].segment.text, APP.results[i].target).length) APP.results[i].status = isConfirmedStatus(APP.results[i].status) ? APP.results[i].status : "Confirmed";
+else APP.results[i].status = "Review";
 }
-
-async function importJSONFile(file) {
-  const text = await file.text();
-  const data = JSON.parse(text);
-
-  if (!Array.isArray(data)) {
-    setStatus("ملف JSON غير صحيح.");
-    return;
-  }
-
-  const entries = [];
-
-  for (const item of data) {
-    if (item.ar && item.en) {
-      const e = makeEntry(item.ar, item.en, {
-        source: item.source || file.name,
-        context: item.context || "json-import",
-        contextPrev: item.contextPrev || "",
-        contextNext: item.contextNext || "",
-        category: item.category || APP.settings.defaultCategory || "عام",
-        tags: item.tags || APP.settings.defaultTags || ""
-      });
-
-      if (e) {
-        e.rating = Number(item.rating || 0);
-        e.votes = Number(item.votes || 0);
-        e.positive = Number(item.positive || 0);
-        e.negative = Number(item.negative || 0);
-        e.createdAt = Number(item.createdAt || Date.now());
-        e.updatedAt = Number(item.updatedAt || e.createdAt);
-        entries.push(e);
-      }
-    }
-  }
-
-  const saved = await saveEntries(entries);
-  setStatus("تم استيراد " + saved + " زوج ترجمي من JSON.");
+});
+updateStats();
 }
-
-/* =========================
-   Manual Pair
-========================= */
-
-async function saveManualPair() {
-  const ar = $("manualAr").value;
-  const en = $("manualEn").value;
-
-  const e = makeEntry(ar, en, {
-    source: "manual",
-    context: "manual-entry",
-    category: $("manualCategory").value.trim() || APP.settings.defaultCategory || "عام",
-    tags: $("manualTags").value.trim() || APP.settings.defaultTags || ""
-  });
-
-  if (!e) {
-    setStatus("أدخل نصًا عربيًا وإنجليزيًا صالحين.");
-    return;
-  }
-
-  const old = await getTMById(e.id);
-  if (old) {
-    e.rating = Number(old.rating || 0);
-    e.votes = Number(old.votes || 0);
-    e.positive = Number(old.positive || 0);
-    e.negative = Number(old.negative || 0);
-    e.createdAt = old.createdAt || e.createdAt;
-  }
-
-  e.updatedAt = Date.now();
-
-  await putTM(e);
-  await refreshCache();
-
-  $("manualAr").value = "";
-  $("manualEn").value = "";
-
-  setStatus("تم حفظ الزوج الترجمي يدويًا مع التصنيف وتاريخ آخر تحديث.");
+function renderResults(results) {
+res.innerHTML = "";
+if (!results.length) {
+res.innerHTML = "<tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>\u0644\u0627 \u062a\u0648\u062c\u062f \u0646\u062a\u0627\u0626\u062c.</td></tr>";
+updateStats();
+return;
 }
-
-/* =========================
-   Panel / File Helpers
-========================= */
-
-function openPanel() {
-  $("mask").style.display = "block";
-  $("panel").style.display = "block";
+var frag = document.createDocumentFragment();
+results.forEach(function (r, i) {
+var tr = document.createElement("tr");
+var isNeeds = r.status === "Needs" || !r.target;
+if (isNeeds) tr.className = "needsRow";
+var srcClass = r.segment.lang === "ar" ? "ar" : "en";
+var tgtClass = r.targetLang === "ar" ? "ar" : "en";
+var qa = qaIssues(r.segment.text, r.target || "");
+var suggestions = getSuggestions(r.segment.text, r.targetLang);
+var mColor = matchColor(r.score);
+var pillClass = isConfirmedStatus(r.status) ? "pill confirmed" : "pill";
+tr.innerHTML =
+"<td class='num'>" + esc(i + 1) + "</td>" +
+"<td class='src " + srcClass + "'>" + esc(r.segment.text) + "</td>" +
+"<td class='best " + tgtClass + "'>" +
+(r.best ? esc(r.best) : "<b>Needs Translation</b>") +
+"<div class='small'>" + esc(r.mode || "") + "</div>" +
+"</td>" +
+"<td class='match' style='color:" + mColor + "'>" + matchLabel(r.score) + "</td>" +
+"<td class='target " + tgtClass + "'>" +
+"<textarea class='targetDraft " + tgtClass + "' data-i='" + i + "'>" + esc(r.target || "") + "</textarea>" +
+"<div class='suggest'>" + suggestions.map(function (sug) { return "<button class='sug' data-v='" + esc(sug) + "'>" + esc(sug) + "</button>"; }).join("") + "</div>" +
+(qa.length ? "<div class='qa'>QA: " + esc(qa.join(" | ")) + "</div>" : "") +
+"</td>" +
+"<td class='stat'><span class='" + pillClass + "'>" + esc(r.status || "") + "</span></td>";
+frag.appendChild(tr);
+});
+res.appendChild(frag);
+Array.prototype.slice.call(res.querySelectorAll(".sug")).forEach(function (btn) {
+btn.onclick = function () {
+var area = btn.closest("td").querySelector("textarea");
+var v = btn.getAttribute("data-v") || "";
+if (!area) return;
+area.value = flat((area.value || "") + " " + v);
+area.dispatchEvent(new Event("input"));
+};
+});
+Array.prototype.slice.call(res.querySelectorAll(".targetDraft")).forEach(function (area) {
+area.oninput = function () { updateStoredTargets(); };
+});
+updateStats();
 }
-
-function closePanel() {
-  $("mask").style.display = "none";
-  $("panel").style.display = "none";
+function analyze() {
+if (!APP.built || !APP.tus.length) { ui.status("\u0627\u0628\u0646\u0650 \u0627\u0644\u0630\u0627\u0643\u0631\u0629 \u0623\u0648\u0644\u064b\u0627 \u0628\u0627\u0644\u0636\u063a\u0637 \u0639\u0644\u0649 \xab\u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629\xbb."); return; }
+APP.stop = false;
+var v = source.value.trim();
+if (!v) { ui.status("\u0623\u0644\u0635\u0642 \u0627\u0644\u0646\u0635 \u0623\u0648\u0644\u064b\u0627."); return; }
+var forced = $("#slang").value;
+var L = forced === "auto" ? null : forced;
+var segs = splitSegments(v, L);
+if (!segs.length) { ui.status("\u0644\u0645 \u0623\u062c\u062f Segments \u0642\u0627\u0628\u0644\u0629 \u0644\u0644\u062a\u062d\u0644\u064a\u0644."); return; }
+APP.results = [];
+res.innerHTML = "";
+ui.status("\u062c\u0627\u0631\u064a \u0627\u0644\u062a\u062d\u0644\u064a\u0644...");
+ui.progress(0, segs.length);
+updateStats();
+var i = 0;
+function step() {
+if (APP.stop) { ui.status("\u062a\u0645 \u0625\u064a\u0642\u0627\u0641 \u0627\u0644\u062a\u062d\u0644\u064a\u0644."); return; }
+var end = Math.min(i + 15, segs.length);
+for (; i < end; i++) {
+var seg = segs[i];
+var m = searchOne(seg.text, seg.lang);
+APP.results.push({
+segment: seg,
+best: m.target || "",
+target: m.target || "",
+targetLang: m.targetLang,
+score: m.score || 0,
+status: m.status || "Review",
+mode: m.mode || "",
+sourceFound: m.source || ""
+});
 }
-
-async function loadHtmlFile(file) {
-  const text = await file.text();
-  const parser = new DOMParser();
-
-  APP.importedDoc = parser.parseFromString(text, "text/html");
-  APP.importedName = file.name;
-
-  $("fileInfo").textContent = "تم استيراد: " + file.name;
-  setStatus("تم تحميل ملف HTML. اضغط: بناء من الملف.");
+ui.progress(i, segs.length);
+ui.status("\u062a\u0645 \u062a\u062d\u0644\u064a\u0644 " + asc(i) + " \u0645\u0646 " + asc(segs.length));
+renderResults(APP.results);
+if (i < segs.length) setTimeout(step, 1);
+else { ui.status("\u0627\u0643\u062a\u0645\u0644 \u0627\u0644\u062a\u062d\u0644\u064a\u0644. \u0639\u062f\u062f \u0627\u0644\u0646\u062a\u0627\u0626\u062c: " + asc(APP.results.length)); updateStats(); }
 }
-
-/* =========================
-   Events
-========================= */
-
-$("fab").addEventListener("click", openPanel);
-$("close").addEventListener("click", closePanel);
-$("mask").addEventListener("click", closePanel);
-
-$("hideCounters").addEventListener("click", () => {
-  $("counterBox").classList.toggle("hidden");
+step();
+}
+$("#fab").onclick = open;
+$("#close").onclick = close;
+window.addEventListener("CAT_V47_PRO_OPEN", open);
+$("#toggleSourceIcon").onclick = function () { setSourceCollapsed(!panel.classList.contains("sourceCollapsed")); };
+$("#toggleHtmlIcon").onclick = function () { setHtmlHidden(!document.getElementById(APP.hostId + "-page-hide-style")); };
+setSourceCollapsed(false);
+setHtmlHidden(false);
+$("#build").onclick = function () { APP.stop = false; buildMemory(ui); };
+$("#analyze").onclick = analyze;
+$("#stop").onclick = function () { APP.stop = true; ui.status("\u062c\u0627\u0631\u064a \u0627\u0644\u0625\u064a\u0642\u0627\u0641..."); };
+$("#acceptAll").onclick = function () {
+APP.results.forEach(function (r) {
+if (r.best) {
+r.target = r.best;
+r.status = r.score >= 95 && !qaIssues(r.segment.text, r.target).length ? (isConfirmedStatus(r.status) ? r.status : "Confirmed") : "Review";
+}
 });
-
-$("saveMTSettings").addEventListener("click", () => {
-  readSettingsFromUI();
-  setStatus("تم حفظ إعدادات الترجمة الآلية.");
+renderResults(APP.results);
+ui.status("\u062a\u0645 \u0627\u0639\u062a\u0645\u0627\u062f \u0623\u0641\u0636\u0644 \u0627\u0644\u0645\u0637\u0627\u0628\u0642\u0627\u062a.");
+};
+$("#copy").onclick = function () {
+updateStoredTargets();
+var text = APP.results.map(function (r) { return r.target || ""; }).filter(Boolean).join("\n\n");
+if (navigator.clipboard) navigator.clipboard.writeText(text);
+ui.status("\u062a\u0645 \u0646\u0633\u062e Target Draft.");
+};
+$("#clear").onclick = function () {
+APP.results = [];
+res.innerHTML = "<tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>\u062a\u0645 \u0627\u0644\u0645\u0633\u062d.</td></tr>";
+ui.progress(0, 0);
+ui.status("\u062a\u0645 \u0645\u0633\u062d \u0627\u0644\u0646\u062a\u0627\u0626\u062c.");
+updateStats();
+};
+$("#concordance").onclick = function () {
+var q = flat($("#concordQ").value || "");
+if (!q) { ui.status("\u0627\u0643\u062a\u0628 \u0643\u0644\u0645\u0629 \u0623\u0648 \u0639\u0628\u0627\u0631\u0629 \u0644\u0644\u0628\u062d\u062b \u0641\u064a Concordance."); return; }
+var L = lang(q);
+var qP = profile(q, L);
+var matches = [];
+APP.tus.forEach(function (tu) {
+var trg = L === "ar" ? tu.en : tu.ar;
+var p = L === "ar" ? tu.arP : tu.enP;
+var srcFound = L === "ar" ? tu.ar : tu.en;
+var sc = scoreProfiles(qP, p);
+if (p.nl.indexOf(qP.nl) >= 0 || p.compact.indexOf(qP.compact) >= 0 || sc >= 55) {
+matches.push({ segment: { text: q, lang: L }, best: trg, target: trg, targetLang: L === "ar" ? "en" : "ar", score: Math.max(sc, 55), status: "Concordance", mode: "concordance", sourceFound: srcFound });
+}
 });
-
-$("saveClassSettings").addEventListener("click", () => {
-  readSettingsFromUI();
-  $("manualCategory").value = APP.settings.defaultCategory || "عام";
-  $("manualTags").value = APP.settings.defaultTags || "";
-  setStatus("تم حفظ إعدادات التصنيف والوسوم الافتراضية.");
+matches.sort(function (a, b) { return b.score - a.score; });
+APP.results = matches.slice(0, 80);
+renderResults(APP.results);
+ui.status("\u0646\u062a\u0627\u0626\u062c Concordance: " + asc(APP.results.length));
+};
+$("#importDOCX").onclick = function () { $("#fileDOCX").click(); };
+$("#fileDOCX").onchange = async function () {
+var f = $("#fileDOCX").files && $("#fileDOCX").files[0];
+if (!f) return;
+try {
+ui.status("Reading Word DOCX locally...");
+var txt = await extractDocxText(f);
+source.value = txt;
+setSourceCollapsed(false);
+var count = txt.split(/\n+/).filter(function (x) { return flat(x); }).length;
+ui.status("DOCX imported: " + asc(count) + " segments. Now press Analyze.");
+} catch (e) {
+ui.status("DOCX import failed: " + (e && e.message ? e.message : e));
+}
+$("#fileDOCX").value = "";
+};
+$("#importHTML").onclick = function () { $("#fileHTML").click(); };
+$("#fileHTML").onchange = function () {
+var f = $("#fileHTML").files && $("#fileHTML").files[0];
+if (!f) return;
+f.text().then(function (txt) {
+try {
+var oldBox = document.getElementById(APP.hostId + "-imported-html-tm");
+if (oldBox) oldBox.remove();
+var html = String(txt || "").replace(/<script[\s\S]*?<\/script>/gi, "").replace(/<style[\s\S]*?<\/style>/gi, "");
+var doc = new DOMParser().parseFromString(html, "text/html");
+var box = document.createElement("div");
+box.id = APP.hostId + "-imported-html-tm";
+box.style.cssText = "display:none!important";
+box.innerHTML = (doc.body && doc.body.innerHTML) || html;
+document.body.appendChild(box);
+ui.status("ØªÙ Ø§Ø³ØªÙØ±Ø§Ø¯ HTML. Ø§ÙØµÙÙÙ: " + asc(box.querySelectorAll("tr").length) + " â Ø§Ø¶ØºØ· Ø¨ÙØ§Ø¡ Ø°Ø§ÙØ±Ø© Ø§ÙØªØ±Ø¬ÙØ©.");
+} catch (e) {
+ui.status("ÙØ´Ù Ø§Ø³ØªÙØ±Ø§Ø¯ HTML: " + (e && e.message ? e.message : e));
+}
 });
-
-$("translateNeeds").addEventListener("click", translateNeedsOnly);
-
-$("clearSource").addEventListener("click", () => {
-  $("sourceText").value = "";
-  APP.rows = [];
-  renderRows();
-  updateCounters();
-  setStatus("تم مسح النص المصدر.");
+$("#fileHTML").value = "";
+};
+$("#importTerms").onclick = function () { $("#fileTerms").click(); };
+$("#fileTerms").onchange = function () {
+var f = $("#fileTerms").files && $("#fileTerms").files[0];
+if (!f) return;
+f.text().then(function (txt) { APP.terms = parseCSV(txt); ui.status("\u062a\u0645 \u0627\u0633\u062a\u064a\u0631\u0627\u062f \u0627\u0644\u0645\u0635\u0637\u0644\u062d\u0627\u062a: " + asc(APP.terms.length)); });
+};
+$("#importTMX").onclick = function () { $("#fileTMX").click(); };
+$("#fileTMX").onchange = function () {
+var f = $("#fileTMX").files && $("#fileTMX").files[0];
+if (!f) return;
+f.text().then(function (txt) {
+var count = importTMXText(txt);
+ui.status("\u062a\u0645 \u0627\u0633\u062a\u064a\u0631\u0627\u062f TMX. \u0627\u0644\u0648\u062d\u062f\u0627\u062a \u0627\u0644\u0645\u0636\u0627\u0641\u0629: " + asc(count) + " \u2014 \u0625\u062c\u0645\u0627\u0644\u064a TM: " + asc(APP.tus.length));
 });
-
-$("stop").addEventListener("click", () => {
-  APP.stop = true;
-  setStatus("جاري الإيقاف...");
+};
+$("#exportTMX").onclick = function () { download("cat_v46_memory.tmx", exportTMX(), "application/xml;charset=utf-8"); ui.status("\u062a\u0645 \u062a\u0635\u062f\u064a\u0631 TMX."); };
+$("#exportXLIFF").onclick = function () { updateStoredTargets(); download("cat_v46_project.xlf", exportXLIFF(APP.results), "application/xml;charset=utf-8"); ui.status("\u062a\u0645 \u062a\u0635\u062f\u064a\u0631 XLIFF."); };
+$("#saveProject").onclick = function () {
+updateStoredTargets();
+var project = { app: "CAT V47 Cell-Segment Stable Enhanced", version: APP.version, date: new Date().toISOString(), terms: APP.terms, results: APP.results };
+download("cat_v46_project.json", JSON.stringify(project, null, 2), "application/json;charset=utf-8");
+ui.status("\u062a\u0645 \u062d\u0641\u0638 \u0627\u0644\u0645\u0634\u0631\u0648\u0639.");
+};
+$("#loadProject").onclick = function () { $("#fileProject").click(); };
+$("#fileProject").onchange = function () {
+var f = $("#fileProject").files && $("#fileProject").files[0];
+if (!f) return;
+f.text().then(function (txt) {
+try {
+var p = JSON.parse(txt);
+APP.terms = p.terms || [];
+APP.results = p.results || [];
+renderResults(APP.results);
+ui.status("\u062a\u0645 \u0641\u062a\u062d \u0627\u0644\u0645\u0634\u0631\u0648\u0639. \u0627\u0644\u0646\u062a\u0627\u0626\u062c: " + asc(APP.results.length));
+} catch (e) { ui.status("\u062a\u0639\u0630\u0631 \u0641\u062a\u062d \u0627\u0644\u0645\u0634\u0631\u0648\u0639: " + e.message); }
 });
-
-$("analyze").addEventListener("click", analyzeSource);
-
-$("buildPage").addEventListener("click", async () => {
-  await buildMemoryFromRoot(document.body, location.href || "current-page");
+};
+$("#report").onclick = function () { updateStoredTargets(); download("cat_v46_qa_report.html", createReport(APP.results), "text/html;charset=utf-8"); ui.status("\u062a\u0645 \u062a\u0635\u062f\u064a\u0631 \u062a\u0642\u0631\u064a\u0631 HTML."); };
+$("#word").onclick = function () { updateStoredTargets(); download("cat_v46_word_a3_track_changes.doc", createWord(APP.results), "application/msword;charset=utf-8"); ui.status("\u062a\u0645 \u062a\u0635\u062f\u064a\u0631 Word A3 \u0645\u0639 Track Changes \u0628\u0635\u0631\u064a."); };
+updateStats();
+setTimeout(open, 300);
+}
+ready(function () {
+try { initUI(); }
+catch (e) { alert("CAT V47 Cell-Segment error: " + (e && e.message ? e.message : e)); }
 });
-
-$("pickHtml").addEventListener("click", () => {
-  $("htmlFile").click();
-});
-
-$("htmlFile").addEventListener("change", async e => {
-  const file = e.target.files && e.target.files[0];
-  if (file) await loadHtmlFile(file);
-});
-
-$("buildImported").addEventListener("click", async () => {
-  if (!APP.importedDoc) {
-    setStatus("استورد ملف HTML أولًا.");
-    return;
-  }
-
-  await buildMemoryFromRoot(APP.importedDoc.body, APP.importedName || "imported-html");
-});
-
-$("savePair").addEventListener("click", saveManualPair);
-
-$("reloadTM").addEventListener("click", refreshCache);
-
-$("tmFilter").addEventListener("input", () => {
-  setStatus("تم تطبيق فلتر الذاكرة على التحليل القادم.");
-});
-
-$("clearTM").addEventListener("click", async () => {
-  const ok = confirm("هل تريد مسح ذاكرة الترجمة المحلية بالكامل؟");
-  if (!ok) return;
-
-  await clearTMStore();
-  APP.tmCache = [];
-  APP.rows = [];
-  renderRows();
-  updateCounters();
-  setStatus("تم مسح ذاكرة الترجمة.");
-});
-
-$("exportJson").addEventListener("click", exportJSON);
-
-$("importJsonBtn").addEventListener("click", () => {
-  $("jsonFile").click();
-});
-
-$("jsonFile").addEventListener("change", async e => {
-  const file = e.target.files && e.target.files[0];
-  if (file) await importJSONFile(file);
-});
-
-$("acceptBest").addEventListener("click", acceptBest);
-$("copyDraft").addEventListener("click", copyDraft);
-
-$("jumpReview").addEventListener("click", () => jumpToStatus("Needs Review"));
-$("jumpNeeds").addEventListener("click", () => jumpToStatus("Needs Translation"));
-
-/* =========================
-   Init
-========================= */
-
-(async function init() {
-  try {
-    loadSettings();
-    applySettingsToUI();
-
-    await openDB();
-    await refreshCache();
-
-    updateCounters();
-
-    setStatus("جاهز. الذاكرة الحالية: " + APP.tmCache.length + " زوج ترجمي.");
-  } catch (err) {
-    console.error(err);
-    setStatus("حدث خطأ في فتح IndexedDB: " + (err && err.message ? err.message : err));
-  }
-})();
-
-})();
+ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;if(!s||s.getElementById("importHTML_DB"))return;var side=s.querySelector(".side"),after=s.getElementById("importDOCX"),panel=s.getElementById("panel"),status=s.getElementById("status"),fill=s.getElementById("fill");if(!side||!panel)return;var btn=document.createElement("button"),inp=document.createElement("input");btn.id="importHTML_DB";btn.textContent="Import HTML → IndexedDB";btn.style.background="#0f766e";btn.style.color="#fff";btn.style.borderColor="#0f766e";inp.id="fileHTML_DB";inp.type="file";inp.accept=".html,.htm,text/html";inp.className="hiddenFile";(after&&after.parentNode?after.parentNode:side).insertBefore(btn,after?after.nextSibling:null);panel.appendChild(inp);var DB_NAME="CAT_TM_INDEXEDDB",DB_VER=1;function msg(x){if(status)status.textContent=x}function prog(a,b){if(fill)fill.style.width=(b?Math.round(a/b*100):0)+"%"}function openDB(){return new Promise(function(res,rej){if(!window.indexedDB){rej(new Error("IndexedDB غير مدعوم في هذا المتصفح."));return}var r=indexedDB.open(DB_NAME,DB_VER);r.onupgradeneeded=function(e){var db=e.target.result,seg,mem;if(!db.objectStoreNames.contains("segments")){seg=db.createObjectStore("segments",{keyPath:"id",autoIncrement:true});seg.createIndex("memoryName","memoryName",{unique:false});seg.createIndex("arNorm","arNorm",{unique:false});seg.createIndex("enNorm","enNorm",{unique:false});seg.createIndex("arCompact","arCompact",{unique:false});seg.createIndex("enCompact","enCompact",{unique:false});seg.createIndex("createdAt","createdAt",{unique:false})}if(!db.objectStoreNames.contains("memories")){mem=db.createObjectStore("memories",{keyPath:"name"});mem.createIndex("importedAt","importedAt",{unique:false})}};r.onsuccess=function(){res(r.result)};r.onerror=function(){rej(r.error||new Error("تعذر فتح IndexedDB"))}})}function done(tx){return new Promise(function(res,rej){tx.oncomplete=function(){res()};tx.onerror=function(){rej(tx.error||new Error("IndexedDB transaction error"))};tx.onabort=function(){rej(tx.error||new Error("IndexedDB transaction aborted"))}})}async function deleteMemory(db,name){var tx=db.transaction("segments","readwrite"),st=tx.objectStore("segments"),idx=st.index("memoryName"),req=idx.openCursor(IDBKeyRange.only(name));req.onsuccess=function(e){var c=e.target.result;if(c){c.delete();c.continue()}};await done(tx)}function fallbackPairs(arCells,enCells){var out=[],ar=arCells.slice().sort(function(a,b){return a.cell-b.cell}),en=enCells.slice().sort(function(a,b){return a.cell-b.cell});if(!ar.length||!en.length)return out;if(typeof pairCellsByOrder==="function")return pairCellsByOrder(ar,en);if(ar.length===en.length){for(var i=0;i<ar.length;i++)out.push({ar:ar[i],en:en[i]});return out}if(ar.length===1){en.forEach(function(e){out.push({ar:ar[0],en:e})});return out}if(en.length===1){ar.forEach(function(a){out.push({ar:a,en:en[0]})});return out}var used=Object.create(null);ar.forEach(function(a){var best=-1,dist=1e9;for(var j=0;j<en.length;j++){if(used[j])continue;var d=Math.abs(a.cell-en[j].cell);if(d<dist){dist=d;best=j}}if(best>=0){used[best]=1;out.push({ar:a,en:en[best]})}});return out}function extract(html,memoryName){var doc=new DOMParser().parseFromString(String(html||"").replace(/<script[\s\S]*?<\/script>/gi,"").replace(/<style[\s\S]*?<\/style>/gi,""),"text/html"),rows=Array.prototype.slice.call(doc.querySelectorAll("tr")),seen=Object.create(null),out=[],now=Date.now();rows.forEach(function(r,ri){var cells=Array.prototype.slice.call(r.querySelectorAll("td,th")),arCells=[],enCells=[];cells.forEach(function(c,ci){var tx=flat(c.textContent||"");if(!tx||tx.length<2)return;var ac=arCount(tx),ec=enCount(tx);if(ac>=2)arCells.push({text:tx,row:ri,cell:ci});if(ec>=2)enCells.push({text:tx,row:ri,cell:ci})});fallbackPairs(arCells,enCells).forEach(function(p){var ar=flat(p.ar&&p.ar.text),en=flat(p.en&&p.en.text);if(!ar||!en||!hasAr(ar)||!hasEn(en))return;var k=loose(ar).slice(0,900)+"|"+loose(en).slice(0,900);if(seen[k])return;seen[k]=1;out.push({memoryName:memoryName,ar:ar,en:en,arNorm:loose(ar),enNorm:loose(en),arCompact:compactText(ar),enCompact:compactText(en),rowNo:ri,createdAt:now,source:"html-indexeddb"})})});return out}async function saveSegments(db,name,fileName,records){await deleteMemory(db,name);var tx=db.transaction(["segments","memories"],"readwrite"),seg=tx.objectStore("segments"),mem=tx.objectStore("memories");records.forEach(function(x){seg.add(x)});mem.put({name:name,fileName:fileName,count:records.length,importedAt:Date.now(),type:"html"});await done(tx)}btn.onclick=function(){inp.click()};inp.onchange=async function(){var file=inp.files&&inp.files[0];if(!file)return;try{msg("جاري قراءة ملف HTML وحفظه في IndexedDB...");prog(5,100);var html=await file.text(),memoryName=(file.name||"HTML_TM").replace(/\.(html?|HTML?)$/,"");prog(25,100);var records=extract(html,memoryName);if(!records.length){msg("لم يتم العثور على أزواج عربي/إنجليزي داخل جداول HTML.");inp.value="";return}prog(55,100);var db=await openDB();await saveSegments(db,memoryName,file.name,records);db.close();prog(100,100);msg("تم حفظ ذاكرة HTML داخل IndexedDB: "+asc(records.length)+" زوج ترجمي — الاسم: "+memoryName)}catch(e){msg("فشل حفظ HTML في IndexedDB: "+(e&&e.message?e.message:e))}finally{inp.value=""}}},700)}); ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;if(!s||s.getElementById("loadHTML_DB"))return;var side=s.querySelector(".side"),after=s.getElementById("importHTML_DB")||s.getElementById("importDOCX"),status=s.getElementById("status"),fill=s.getElementById("fill");if(!side)return;var sel=document.createElement("select"),refresh=document.createElement("button"),load=document.createElement("button");sel.id="idbMemorySelect";refresh.id="refreshHTML_DB";load.id="loadHTML_DB";sel.innerHTML="<option value=''>ذاكرات IndexedDB...</option>";refresh.textContent="Refresh IndexedDB TM";load.textContent="Load IndexedDB TM";load.style.background="#2563eb";load.style.color="#fff";load.style.borderColor="#2563eb";refresh.style.background="#f8fafc";function ins(el){(after&&after.parentNode?after.parentNode:side).insertBefore(el,after?after.nextSibling:null)}ins(load);ins(refresh);ins(sel);var DB_NAME="CAT_TM_INDEXEDDB",DB_VER=1;function msg(x){if(status)status.textContent=x}function prog(a,b){if(fill)fill.style.width=(b?Math.round(a/b*100):0)+"%"}function openDB(){return new Promise(function(res,rej){if(!window.indexedDB){rej(new Error("IndexedDB غير مدعوم في هذا المتصفح."));return}var r=indexedDB.open(DB_NAME,DB_VER);r.onupgradeneeded=function(e){var db=e.target.result,seg,mem;if(!db.objectStoreNames.contains("segments")){seg=db.createObjectStore("segments",{keyPath:"id",autoIncrement:true});seg.createIndex("memoryName","memoryName",{unique:false});seg.createIndex("arNorm","arNorm",{unique:false});seg.createIndex("enNorm","enNorm",{unique:false});seg.createIndex("arCompact","arCompact",{unique:false});seg.createIndex("enCompact","enCompact",{unique:false});seg.createIndex("createdAt","createdAt",{unique:false})}if(!db.objectStoreNames.contains("memories")){mem=db.createObjectStore("memories",{keyPath:"name"});mem.createIndex("importedAt","importedAt",{unique:false})}};r.onsuccess=function(){res(r.result)};r.onerror=function(){rej(r.error||new Error("تعذر فتح IndexedDB"))}})}function getAllMemories(db){return new Promise(function(res,rej){var tx=db.transaction("memories","readonly"),st=tx.objectStore("memories"),req=st.getAll();req.onsuccess=function(){res(req.result||[])};req.onerror=function(){rej(req.error||new Error("تعذر قراءة قائمة الذواكر"))}})}function loadSegmentsToAPP(db,name){return new Promise(function(res,rej){resetMemory();APP.stop=false;var count=0,tx=db.transaction("segments","readonly"),st=tx.objectStore("segments"),idx=st.index("memoryName"),req=idx.openCursor(IDBKeyRange.only(name));req.onsuccess=function(e){var c=e.target.result;if(!c){APP.built=APP.tus.length>0;res(count);return}var x=c.value||{};addTU(x.ar||"",x.en||"",x.rowNo||-1,"indexeddb-html");count++;if(count%500===0){msg("جاري تحميل ذاكرة IndexedDB: "+asc(count)+" زوج...");prog(Math.min(count,5000),5000)}c.continue()};req.onerror=function(){rej(req.error||new Error("تعذر تحميل الذاكرة من IndexedDB"))}})}async function refreshList(){try{msg("جاري قراءة ذواكر IndexedDB...");var db=await openDB(),arr=await getAllMemories(db);db.close();arr.sort(function(a,b){return(b.importedAt||0)-(a.importedAt||0)});sel.innerHTML="<option value=''>اختر ذاكرة IndexedDB...</option>"+arr.map(function(m){return"<option value='"+esc(m.name)+"'>"+esc(m.name)+" — "+asc(m.count||0)+" زوج</option>"}).join("");msg(arr.length?"تم العثور على "+asc(arr.length)+" ذاكرة IndexedDB.":"لا توجد ذاكرة محفوظة في IndexedDB بعد.")}catch(e){msg("فشل قراءة IndexedDB: "+(e&&e.message?e.message:e))}}refresh.onclick=refreshList;load.onclick=async function(){var name=sel.value;if(!name){msg("اختر ذاكرة IndexedDB أولًا.");return}try{msg("جاري تحميل الذاكرة إلى APP.tus...");prog(0,100);var db=await openDB(),n=await loadSegmentsToAPP(db,name);db.close();prog(100,100);msg("تم تحميل ذاكرة IndexedDB: "+asc(n)+" زوج ترجمي — يمكنك الآن الضغط على تحليل النص.")}catch(e){msg("فشل تحميل ذاكرة IndexedDB: "+(e&&e.message?e.message:e))}};refreshList()},900)}); ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;if(!s||s.getElementById("saveEdited_DB"))return;var side=s.querySelector(".side"),after=s.getElementById("loadHTML_DB")||s.getElementById("saveProject")||s.getElementById("copy"),status=s.getElementById("status"),fill=s.getElementById("fill");if(!side)return;var btn=document.createElement("button");btn.id="saveEdited_DB";btn.textContent="Save Edited TM → IndexedDB";btn.style.background="#7c3aed";btn.style.color="#fff";btn.style.borderColor="#7c3aed";(after&&after.parentNode?after.parentNode:side).insertBefore(btn,after?after.nextSibling:null);var DB_NAME="CAT_TM_INDEXEDDB",DB_VER=1,USER_MEMORY="User_Edited_TM";function msg(x){if(status)status.textContent=x}function prog(a,b){if(fill)fill.style.width=(b?Math.round(a/b*100):0)+"%"}function openDB(){return new Promise(function(res,rej){if(!window.indexedDB){rej(new Error("IndexedDB غير مدعوم في هذا المتصفح."));return}var r=indexedDB.open(DB_NAME,DB_VER);r.onupgradeneeded=function(e){var db=e.target.result,seg,mem;if(!db.objectStoreNames.contains("segments")){seg=db.createObjectStore("segments",{keyPath:"id",autoIncrement:true});seg.createIndex("memoryName","memoryName",{unique:false});seg.createIndex("arNorm","arNorm",{unique:false});seg.createIndex("enNorm","enNorm",{unique:false});seg.createIndex("arCompact","arCompact",{unique:false});seg.createIndex("enCompact","enCompact",{unique:false});seg.createIndex("createdAt","createdAt",{unique:false})}if(!db.objectStoreNames.contains("memories")){mem=db.createObjectStore("memories",{keyPath:"name"});mem.createIndex("importedAt","importedAt",{unique:false})}};r.onsuccess=function(){res(r.result)};r.onerror=function(){rej(r.error||new Error("تعذر فتح IndexedDB"))}})}function done(tx){return new Promise(function(res,rej){tx.oncomplete=function(){res()};tx.onerror=function(){rej(tx.error||new Error("IndexedDB transaction error"))};tx.onabort=function(){rej(tx.error||new Error("IndexedDB transaction aborted"))}})}function syncTargetsFromUI(){var boxes=Array.prototype.slice.call(s.querySelectorAll(".targetDraft"));boxes.forEach(function(b){var i=+b.getAttribute("data-i");if(APP.results&&APP.results[i])APP.results[i].target=b.value||""})}function makeRecords(){syncTargetsFromUI();var now=Date.now(),seen=Object.create(null),out=[];(APP.results||[]).forEach(function(r,i){var src=flat(r&&r.segment&&r.segment.text),trg=flat(r&&r.target);if(!src||!trg)return;var ar="",en="";if(hasAr(src)&&hasEn(trg)){ar=src;en=trg}else if(hasEn(src)&&hasAr(trg)){ar=trg;en=src}else{return}var k=loose(ar).slice(0,900)+"|"+loose(en).slice(0,900);if(seen[k])return;seen[k]=1;out.push({memoryName:USER_MEMORY,ar:ar,en:en,arNorm:loose(ar),enNorm:loose(en),arCompact:compactText(ar),enCompact:compactText(en),rowNo:-1,createdAt:now,updatedAt:now,score:+(r.score||0),status:r.status||"Edited",source:"user-edited-result",resultNo:i+1})});return out}function existingKeys(db,name){return new Promise(function(res,rej){var set=Object.create(null),n=0,tx=db.transaction("segments","readonly"),st=tx.objectStore("segments"),idx=st.index("memoryName"),req=idx.openCursor(IDBKeyRange.only(name));req.onsuccess=function(e){var c=e.target.result;if(!c){res({set:set,count:n});return}var x=c.value||{},k=loose(x.ar||"").slice(0,900)+"|"+loose(x.en||"").slice(0,900);if(k&&!set[k]){set[k]=1;n++}c.continue()};req.onerror=function(){rej(req.error||new Error("تعذر قراءة الذاكرة السابقة"))}})}async function saveRecords(db,records){var old=await existingKeys(db,USER_MEMORY),fresh=records.filter(function(x){var k=loose(x.ar||"").slice(0,900)+"|"+loose(x.en||"").slice(0,900);return k&&!old.set[k]});if(!fresh.length)return{added:0,total:old.count};var tx=db.transaction(["segments","memories"],"readwrite"),seg=tx.objectStore("segments"),mem=tx.objectStore("memories");fresh.forEach(function(x){seg.add(x)});mem.put({name:USER_MEMORY,fileName:"User edited translations",count:old.count+fresh.length,importedAt:Date.now(),updatedAt:Date.now(),type:"user-edited-results"});await done(tx);return{added:fresh.length,total:old.count+fresh.length}}btn.onclick=async function(){try{if(!APP.results||!APP.results.length){msg("لا توجد نتائج لحفظها. حلّل نصًا أولًا ثم عدّل Target Draft.");return}msg("جاري حفظ الترجمات المعدّلة في IndexedDB...");prog(15,100);var records=makeRecords();if(!records.length){msg("لم أجد أزواجًا صالحة للحفظ: يجب وجود عربي مقابل إنجليزي في Target Draft.");prog(0,0);return}prog(45,100);var db=await openDB(),r=await saveRecords(db,records);db.close();records.forEach(function(x){addTU(x.ar,x.en,-2,"indexeddb-user-edited")});APP.built=APP.tus.length>0;prog(100,100);msg("تم حفظ الترجمات في IndexedDB — المضافة: "+asc(r.added)+" — إجمالي ذاكرة User_Edited_TM: "+asc(r.total))}catch(e){msg("فشل حفظ الترجمات في IndexedDB: "+(e&&e.message?e.message:e))}}},1100)}); ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;if(!s||s.getElementById("focusModeBtn"))return;var panel=s.getElementById("panel"),tools=s.querySelector(".topTools"),src=s.getElementById("toggleSourceIcon"),status=s.getElementById("status");if(!panel||!tools)return;var st=document.createElement("style");st.id="catFocusModeStyle";st.textContent=".panel.focusMode .side{display:none!important}.panel.focusMode .body{grid-template-columns:minmax(0,1fr)!important;gap:0!important;padding:12px!important}.panel.focusMode .mainbox{grid-column:1/-1!important;width:100%!important}.panel.focusMode .tablewrap{flex:1 1 auto!important;min-height:0!important}.panel.focusMode table{width:100%!important}.panel.focusMode .src{width:28%!important}.panel.focusMode .best{width:30%!important}.panel.focusMode .target{width:32%!important}#focusModeBtn{background:#111827;color:#fff;border-color:#111827}#focusModeBtn.on{background:#7c3aed!important;color:#fff!important;border-color:#7c3aed!important}";s.appendChild(st);var b=document.createElement("button");b.id="focusModeBtn";b.className="iconBtn";b.textContent="Focus";b.title="إخفاء الأيقونات اليمنى وتوسيع لوحة النتائج";b.onclick=function(){var on=panel.classList.toggle("focusMode");b.classList.toggle("on",on);b.textContent=on?"Exit":"Focus";if(status)status.textContent=on?"تم تفعيل Focus: تم إخفاء الأيقونات اليمنى وتوسيع لوحة النتائج.":"تم إلغاء Focus: عادت الأيقونات اليمنى."};if(src&&src.parentNode)src.parentNode.insertBefore(b,src.nextSibling);else tools.appendChild(b)},700)});})();
