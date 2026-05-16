@@ -86,7 +86,7 @@ function callCatTmWorker(type, payload) {
   });
 }
 
-function rebuildCatTmWorkerIndex() {
+function rebuildCatTmWorkerIndex(force) {
   var tus = APP.tus || APP.tm || APP.memory || [];
 
   if (!Array.isArray(tus) || !tus.length) {
@@ -95,12 +95,31 @@ function rebuildCatTmWorkerIndex() {
     return Promise.resolve(null);
   }
 
-  return callCatTmWorker("BUILD_INDEX", {
-    tus: tus
+var signature = String(tus.length);
+
+if (
+  !force &&
+  APP.tmWorkerReady &&
+  APP.tmWorkerIndexSignature === signature &&
+  APP.tmWorkerStats
+) {
+  return Promise.resolve(APP.tmWorkerStats);
+}
+
+if (APP.tmWorkerIndexing) {
+  return APP.tmWorkerIndexing;
+}
+
+APP.tmWorkerReady = false;
+APP.tmWorkerIndexing = null;   
+APP.tmWorkerIndexSignature = signature;
+
+return APP.tmWorkerIndexing = callCatTmWorker("BUILD_INDEX", {    tus: tus
   }).then(function (stats) {
     console.log("TM Worker index ready:", stats);
     APP.tmWorkerReady = true;
     APP.tmWorkerStats = stats;
+   APP.tmWorkerIndexing = null;
     return stats;
   }).catch(function (err) {
     console.error("TM Worker index failed:", err);
