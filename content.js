@@ -1603,5 +1603,218 @@ if(status)status.textContent=on?"Focus mode enabled: side buttons hidden and res
 };
 if(src&&src.parentNode)src.parentNode.insertBefore(b,src.nextSibling);else tools.appendChild(b);
 },700)});
+/* =========================================================
+V47.1 Smart Joined Cell Matching Add-on
+- Adds multi-cell TM matching without breaking V47 cell-as-segment logic
+- Keeps original single-cell matching
+- Adds joined TM units from adjacent bilingual cell pairs
+- Example:
+  cell 1 + cell 2 + cell 3 = one searchable TM unit
+========================================================= */
+(function installSmartJoinedCellMatching() {
+if (APP.__smartJoinedCellMatchingInstalled) return;
+APP.__smartJoinedCellMatchingInstalled = true;
 
+APP.smartJoin = {
+enabled: true,
+maxCells: 4,
+minCells: 2,
+maxRowGap: 1,
+maxSourceChars: 1800,
+maxTargetChars: 1800,
+maxSingleCellChars: 900,
+pairs: [],
+lastBuiltKey: "",
+building: false,
+added: 0
+};
+
+function resetSmartJoin() {
+APP.smartJoin.pairs = [];
+APP.smartJoin.lastBuiltKey = "";
+APP.smartJoin.building = false;
+APP.smartJoin.added = 0;
+}
+
+function isJoinedMode(mode) {
+return /joined|smart-joined|multi-cell/i.test(String(mode || ""));
+}
+
+function shouldCollectForSmartJoin(rowNo, mode) {
+if (!APP.smartJoin || !APP.smartJoin.enabled) return false;
+if (APP.smartJoin.building) return false;
+if (rowNo == null || +rowNo < 0) return false;
+if (isJoinedMode(mode)) return false;
+return true;
+}
+
+function isBoundaryLikeText(s) {
+var raw = flat(s || "");
+if (!raw) return true;
+
+var n = loose(raw);
+
+/* Arabic legal/document boundaries */
+if (/^(?:الماده|ماده|الباب|باب|الفصل|فصل|القسم|قسم|الفرع|فرع|الجزء|جزء|اللائحه|لائحه|النظام|نظام)\b/.test(n)) return true;
+if (/^(?:اولا|ثانيا|ثالثا|رابعا|خامسا|سادسا|سابعا|ثامنا|تاسعا|عاشرا)\b/.test(n)) return true;
+
+/* English legal/document boundaries */
+if (/^(?:article|art|chapter|part|section|subsection|division|schedule|annex|appendix|regulation|rule)\b/i.test(n)) return true;
+
+/* Very short title-like text should not be force-joined */
+if (n.length <= 12 && !/[.!?؟؛;]/.test(raw)) return true;
+
+return false;
+}
+
+function canJoinPairs(prev, next) {
+if (!prev || !next) return false;
+
+var cfg = APP.smartJoin;
+var gap = (+next.row || 0) - (+prev.row || 0);
+
+if (gap < 0) return false;
+if (gap > cfg.maxRowGap) return false;
+
+if (!prev.ar || !prev.en || !next.ar || !next.en) return false;
+
+if (prev.ar.length > cfg.maxSingleCellChars) return false;
+if (prev.en.length > cfg.maxSingleCellChars) return false;
+if (next.ar.length > cfg.maxSingleCellChars) return false;
+if (next.en.length > cfg.maxSingleCellChars) return false;
+
+/* Do not join across legal headings/article headings */
+if (isBoundaryLikeText(prev.ar) || isBoundaryLikeText(prev.en)) return false;
+if (isBoundaryLikeText(next.ar) || isBoundaryLikeText(next.en)) return false;
+
+return true;
+}
+
+function collectSmartPair(tu, rowNo, mode) {
+if (!tu || !shouldCollectForSmartJoin(rowNo, mode)) return;
+
+var ar = flat(tu.ar || "");
+var en = flat(tu.en || "");
+
+if (!ar || !en) return;
+if (!hasAr(ar) || !hasEn(en)) return;
+
+APP.smartJoin.pairs.push({
+ar: ar,
+en: en,
+row: +rowNo || 0,
+mode: mode || "",
+key: loose(ar).slice(0, 400) + "|" + loose(en).slice(0, 400)
+});
+
+/* Force rebuild when new pairs are added */
+APP.smartJoin.lastBuiltKey = "";
+}
+
+function buildSmartJoinedTUs() {
+var cfg = APP.smartJoin;
+if (!cfg || !cfg.enabled) return 0;
+if (cfg.building) return 0;
+
+var pairs = cfg.pairs || [];
+if (pairs.length < 2) return 0;
+
+var firstKey = pairs[0] ? pairs[0].key : "";
+var lastKey = pairs[pairs.length - 1] ? pairs[pairs.length - 1].key : "";
+var buildKey = pairs.length + "::" + firstKey + "::" + lastKey + "::" + cfg.maxCells;
+
+if (cfg.lastBuiltKey === buildKey) return 0;
+
+cfg.building = true;
+
+var before = APP.tus.length;
+
+try {
+for (var i = 0; i < pairs.length; i++) {
+var start = pairs[i];
+if (!start) continue;
+
+var arParts = [start.ar];
+var enParts = [start.en];
+var rows = [start.row];
+var last = start;
+
+for (var n = 2; n <= cfg.maxCells; n++) {
+var next = pairs[i + n - 1];
+if (!canJoinPairs(last, next)) break;
+
+arParts.push(next.ar);
+enParts.push(next.en);
+rows.push(next.row);
+
+var joinedAr = flat(arParts.join(" "));
+var joinedEn = flat(enParts.join(" "));
+
+if (!joinedAr || !joinedEn) break;
+if (joinedAr.length > cfg.maxSourceChars) break;
+if (joinedEn.length > cfg.maxTargetChars) break;
+
+var mode =
+"smart-joined-cells " +
+n +
+" cells | rows " +
+asc((rows[0] || 0) + 1) +
+"-" +
+asc((rows[rows.length - 1] || 0) + 1);
+
+addTU(joinedAr, joinedEn, start.row, mode);
+
+last = next;
+}
+}
+} finally {
+cfg.building = false;
+cfg.lastBuiltKey = buildKey;
+}
+
+var addedNow = APP.tus.length - before;
+cfg.added += addedNow;
+return addedNow;
+}
+
+/* Wrap resetMemory so Smart Join cache is cleared with the main TM */
+var __v47_original_resetMemory = resetMemory;
+resetMemory = function () {
+__v47_original_resetMemory();
+if (APP.smartJoin) resetSmartJoin();
+};
+
+/* Wrap addTU so every normal bilingual pair is also available for future joined matching */
+var __v47_original_addTU = addTU;
+addTU = function (arText, enText, rowNo, mode) {
+var before = APP.tus.length;
+
+__v47_original_addTU(arText, enText, rowNo, mode);
+
+var after = APP.tus.length;
+if (after > before && shouldCollectForSmartJoin(rowNo, mode)) {
+var tu = APP.tus[after - 1];
+collectSmartPair(tu, rowNo, mode);
+}
+};
+
+/* Wrap searchOne so joined-cell units are built automatically before matching */
+var __v47_original_searchOne = searchOne;
+searchOne = function (seg, l) {
+buildSmartJoinedTUs();
+return __v47_original_searchOne(seg, l);
+};
+
+/* Optional helper for debugging from console inside the same runtime */
+APP.getSmartJoinStats = function () {
+return {
+enabled: APP.smartJoin.enabled,
+pairsCollected: APP.smartJoin.pairs.length,
+joinedUnitsAdded: APP.smartJoin.added,
+totalTUs: APP.tus.length,
+maxCells: APP.smartJoin.maxCells
+};
+};
+
+})();
 })();
