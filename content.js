@@ -132,6 +132,12 @@ function recoverBatchByWorker(items) {
     return [];
   });
 }   
+/* Expose TM Worker helpers for testing from Console */
+window.initCatTmWorker = initCatTmWorker;
+window.callCatTmWorker = callCatTmWorker;
+window.rebuildCatTmWorkerIndex = rebuildCatTmWorkerIndex;
+window.recoverOneByWorker = recoverOneByWorker;
+window.recoverBatchByWorker = recoverBatchByWorker;   
 if (window.__CAT_V47_CELL_SEGMENT_PRO_ENHANCED__) {
 try { window.dispatchEvent(new CustomEvent("CAT_V47_PRO_OPEN")); } catch (e) {}
 return;
