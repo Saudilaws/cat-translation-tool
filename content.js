@@ -1,17 +1,5 @@
 (function () {
 "use strict";
-/* =========================================================
-CAT Translation Memory V47 Cell-Segment Professional Enhanced
-- Cell-as-segment TM matching: each HTML cell is one segment; no internal sentence splitting
-- Collapse / show source input area
-- Top counters: Average, Segments, Confirmed, Needs Translation, Needs Review
-- Word A3 with visual Track Changes
-- Arabic font: GE SS Two Light, 15
-- English font: Segoe UI, 15
-- Match colors
-- Local only: no network, no CDN, no external API
-- Import Word DOCX locally using browser ZIP reader
-========================================================= */
 var APP = {
 id: "cat-v47-cell-segment-pro-enhanced",
 version: "V47 Cell-Segment Professional Enhanced",
@@ -31,152 +19,121 @@ config: { maxWindows: 3, maxUnitsPerSide: 90, maxIndexTokens: 90 },
 terms: [],
 results: []
 };
-/* =========================================================
-   TM Worker Bridge
-   يربط لوحة CAT بملف tm-worker.js بدون تعليق الواجهة
-========================================================= */
-
 var CAT_TM_WORKER = null;
 var CAT_TM_WORKER_SEQ = 1;
 var CAT_TM_WORKER_JOBS = Object.create(null);
-
 function initCatTmWorker() {
-  if (CAT_TM_WORKER) return CAT_TM_WORKER;
-
-CAT_TM_WORKER = new Worker("./tm-worker.js?v=smart-tm-v7-fast");
-
-  CAT_TM_WORKER.onmessage = function (e) {
-    var msg = e.data || {};
-    var job = CAT_TM_WORKER_JOBS[msg.id];
-
-    if (!job) return;
-
-    delete CAT_TM_WORKER_JOBS[msg.id];
-
-    if (msg.ok) {
-      job.resolve(msg.payload);
-    } else {
-      job.reject(new Error(msg.error || "TM Worker error"));
-    }
-  };
-
-  CAT_TM_WORKER.onerror = function (err) {
-    console.error("CAT TM Worker Error:", err);
-  };
-
-  return CAT_TM_WORKER;
+if (CAT_TM_WORKER) return CAT_TM_WORKER;
+CAT_TM_WORKER = new Worker("./tm-worker.js?v=smart-tm-v8-exact-first");
+CAT_TM_WORKER.onmessage = function (e) {
+var msg = e.data || {};
+var job = CAT_TM_WORKER_JOBS[msg.id];
+if (!job) return;
+delete CAT_TM_WORKER_JOBS[msg.id];
+if (msg.ok) {
+job.resolve(msg.payload);
+} else {
+job.reject(new Error(msg.error || "TM Worker error"));
 }
-
+};
+CAT_TM_WORKER.onerror = function (err) {
+console.error("CAT TM Worker Error:", err);
+};
+return CAT_TM_WORKER;
+}
 function callCatTmWorker(type, payload) {
-  initCatTmWorker();
-
-  return new Promise(function (resolve, reject) {
-    var id = CAT_TM_WORKER_SEQ++;
-
-    CAT_TM_WORKER_JOBS[id] = {
-      resolve: resolve,
-      reject: reject
-    };
-
-    CAT_TM_WORKER.postMessage({
-      id: id,
-      type: type,
-      payload: payload || {}
-    });
-  });
+initCatTmWorker();
+return new Promise(function (resolve, reject) {
+var id = CAT_TM_WORKER_SEQ++;
+CAT_TM_WORKER_JOBS[id] = {
+resolve: resolve,
+reject: reject
+};
+CAT_TM_WORKER.postMessage({
+id: id,
+type: type,
+payload: payload || {}
+});
+});
 }
-
 function rebuildCatTmWorkerIndex(force) {
-  var tus = APP.tus || APP.tm || APP.memory || [];
-
-  if (!Array.isArray(tus) || !tus.length) {
-    console.warn("TM Worker: no TUs found to index.");
-    APP.tmWorkerReady = false;
-    return Promise.resolve(null);
-  }
-
-var signature = [
-  tus.length,
-  tus[0] ? String((tus[0].ar || tus[0].source || tus[0].src || "")).length + ":" + String((tus[0].en || tus[0].target || tus[0].trg || "")).length : "0",
-  tus[tus.length - 1] ? String((tus[tus.length - 1].ar || tus[tus.length - 1].source || tus[tus.length - 1].src || "")).length + ":" + String((tus[tus.length - 1].en || tus[tus.length - 1].target || tus[tus.length - 1].trg || "")).length : "0"
-].join("|");
-
-if (
-  !force &&
-  APP.tmWorkerReady &&
-  APP.tmWorkerIndexSignature === signature &&
-  APP.tmWorkerStats
-) {
-  return Promise.resolve(APP.tmWorkerStats);
-}
-
-if (APP.tmWorkerIndexing) {
-  return APP.tmWorkerIndexing;
-}
-
+var tus = APP.tus || APP.tm || APP.memory || [];
+if (!Array.isArray(tus) || !tus.length) {
+console.warn("TM Worker: no TUs found to index.");
 APP.tmWorkerReady = false;
-APP.tmWorkerIndexing = null;   
+return Promise.resolve(null);
+}
+var signature = [
+tus.length,
+tus[0] ? String((tus[0].ar || tus[0].source || tus[0].src || "")).length + ":" + String((tus[0].en || tus[0].target || tus[0].trg || "")).length : "0",
+tus[tus.length - 1] ? String((tus[tus.length - 1].ar || tus[tus.length - 1].source || tus[tus.length - 1].src || "")).length + ":" + String((tus[tus.length - 1].en || tus[tus.length - 1].target || tus[tus.length - 1].trg || "")).length : "0"
+].join("|");
+if (
+!force &&
+APP.tmWorkerReady &&
+APP.tmWorkerIndexSignature === signature &&
+APP.tmWorkerStats
+) {
+return Promise.resolve(APP.tmWorkerStats);
+}
+if (APP.tmWorkerIndexing) {
+return APP.tmWorkerIndexing;
+}
+APP.tmWorkerReady = false;
+APP.tmWorkerIndexing = null;
 APP.tmWorkerIndexSignature = signature;
-
 return APP.tmWorkerIndexing = callCatTmWorker("BUILD_INDEX", {    tus: tus
-  }).then(function (stats) {
-    console.log("TM Worker index ready:", stats);
-    APP.tmWorkerReady = true;
-    APP.tmWorkerStats = stats;
-   APP.tmWorkerIndexing = null;
-    return stats;
-  }).catch(function (err) {
-    console.error("TM Worker index failed:", err);
-    APP.tmWorkerReady = false;
-    return null;
-  });
+}).then(function (stats) {
+console.log("TM Worker index ready:", stats);
+APP.tmWorkerReady = true;
+APP.tmWorkerStats = stats;
+APP.tmWorkerIndexing = null;
+return stats;
+}).catch(function (err) {
+console.error("TM Worker index failed:", err);
+APP.tmWorkerReady = false;
+return null;
+});
 }
-
 function recoverOneByWorker(sourceText) {
-  if (!sourceText) return Promise.resolve(null);
-
-  return callCatTmWorker("RECOVER_ONE", {
-    sourceText: sourceText
-  }).catch(function (err) {
-    console.error("TM Worker recover failed:", err);
-    return null;
-  });
+if (!sourceText) return Promise.resolve(null);
+return callCatTmWorker("RECOVER_ONE", {
+sourceText: sourceText
+}).catch(function (err) {
+console.error("TM Worker recover failed:", err);
+return null;
+});
 }
-
 function recoverBatchByWorker(items) {
-  if (!Array.isArray(items) || !items.length) {
-    return Promise.resolve([]);
-  }
-
-  return callCatTmWorker("RECOVER_BATCH", {
-    items: items
-  }).catch(function (err) {
-    console.error("TM Worker batch recover failed:", err);
-    return [];
-  });
+if (!Array.isArray(items) || !items.length) {
+return Promise.resolve([]);
 }
-
+return callCatTmWorker("RECOVER_BATCH", {
+items: items
+}).catch(function (err) {
+console.error("TM Worker batch recover failed:", err);
+return [];
+});
+}
 function matchBatchByWorker(items, minScore) {
-  if (!Array.isArray(items) || !items.length) {
-    return Promise.resolve([]);
-  }
-
-  return callCatTmWorker("MATCH_BATCH", {
-    items: items,
-    minScore: typeof minScore === "number" ? minScore : 60
-  }).catch(function (err) {
-    console.error("TM Worker batch match failed:", err);
-    return [];
-  });
-}   
-/* Expose TM Worker helpers for testing from Console */
+if (!Array.isArray(items) || !items.length) {
+return Promise.resolve([]);
+}
+return callCatTmWorker("MATCH_BATCH", {
+items: items,
+minScore: typeof minScore === "number" ? minScore : 60
+}).catch(function (err) {
+console.error("TM Worker batch match failed:", err);
+return [];
+});
+}
 window.initCatTmWorker = initCatTmWorker;
 window.callCatTmWorker = callCatTmWorker;
 window.rebuildCatTmWorkerIndex = rebuildCatTmWorkerIndex;
 window.recoverOneByWorker = recoverOneByWorker;
 window.recoverBatchByWorker = recoverBatchByWorker;
 window.matchBatchByWorker = matchBatchByWorker;
-window.CAT_APP = APP;   
+window.CAT_APP = APP;
 if (window.__CAT_V47_CELL_SEGMENT_PRO_ENHANCED__) {
 try { window.dispatchEvent(new CustomEvent("CAT_V47_PRO_OPEN")); } catch (e) {}
 return;
@@ -307,8 +264,6 @@ if (q.nl.length > 12 && t.nl.indexOf(q.nl) >= 0) contain = 0.36;
 else if (t.nl.length > 12 && q.nl.indexOf(t.nl) >= 0) contain = 0.18;
 else if (q.compact.length > 16 && t.compact.indexOf(q.compact) >= 0) contain = 0.32;
 var sc = d * 68 + lenScore * 18 + contain * 100;
-/* V47: non-exact matches are capped below Confirmed.
-   Confirmed is reserved for full-cell exact/normalized/compact equality. */
 return Math.max(0, Math.min(94, Math.round(sc)));
 }
 function exactKind(q, t) {
@@ -399,21 +354,17 @@ out.push(x);
 return typeof max === "number" ? out.slice(0, max) : out;
 }
 function splitSmartUnits(text, forcedLang) {
-/* V47 compatibility wrapper: no internal segmentation. */
 text = flat(text);
 return text ? [text] : [];
 }
 function windowsOfUnits(units, maxWin) {
-/* V47: disabled. HTML cell remains one segment. */
 return [];
 }
 function unitVariants(text, l) {
-/* V47: disabled. Only the full cell is indexed. */
 text = flat(text);
 return text ? [text] : [];
 }
 function addAlignedWindows(arUnits, enUnits, rowNo, mode) {
-/* V47: disabled. No sentence/window alignment. */
 return;
 }
 function addCellUnit(text, l, row, cell, mode) {
@@ -427,16 +378,12 @@ APP.cellSeen[key] = 1;
 APP.cells.push({ text: text, lang: l, row: row, cell: cell, mode: mode || "cell", p: profile(text, l) });
 }
 function indexCellVariants(text, l, row, cell, mode) {
-/* V47: the full HTML cell is the only searchable unit.
-   No sentence/window/substring units are created here. */
 addCellUnit(text, l, row, cell, mode || "html-cell");
 }
 function addTMUnits(arText, enText, rowNo, mode) {
 arText = flat(arText);
 enText = flat(enText);
 if (!arText || !enText) return;
-/* V47: each bilingual HTML cell pair is one TM unit.
-   Do not split long cells into sentences, clauses, or windows. */
 addTU(arText, enText, rowNo, (mode || "cell-pair") + "-html-cell");
 }
 function mergeSegmentsText(segs, start, end, l) {
@@ -449,7 +396,6 @@ arr.push(segs[i].text);
 return flat(arr.join(" "));
 }
 function searchWithContext(segs, idx) {
-/* V47: context merging is disabled because each source line/HTML cell is one segment. */
 var seg = segs[idx];
 return searchOne(seg.text, seg.lang);
 }
@@ -590,11 +536,11 @@ APP.building = false;
 ui.progress(total, total);
 ui.status("\u0627\u0643\u062a\u0645\u0644 \u0628\u0646\u0627\u0621 \u0627\u0644\u0630\u0627\u0643\u0631\u0629 \u0628\u0646\u0638\u0627\u0645 \u0627\u0644\u062e\u0644\u064a\u0629 = Segment \u0648\u0627\u062d\u062f. \u062e\u0644\u0627\u064a\u0627 TM: " + asc(APP.tus.length) + " \u2014 \u062e\u0644\u0627\u064a\u0627 \u0645\u0641\u0647\u0631\u0633\u0629: " + asc(APP.cells.length));
 try {
-  if (typeof rebuildCatTmWorkerIndex === "function") {
-    rebuildCatTmWorkerIndex(true).then(function (stats) {
-      if (stats) ui.status("\u0627\u0643\u062a\u0645\u0644 \u0628\u0646\u0627\u0621 \u0627\u0644\u0630\u0627\u0643\u0631\u0629 \u0648\u0641\u0647\u0631\u0633\u0629 \u0645\u062d\u0631\u0643 \u0627\u0644\u0628\u062d\u062b. TM: " + asc(APP.tus.length));
-    });
-  }
+if (typeof rebuildCatTmWorkerIndex === "function") {
+rebuildCatTmWorkerIndex(true).then(function (stats) {
+if (stats) ui.status("\u0627\u0643\u062a\u0645\u0644 \u0628\u0646\u0627\u0621 \u0627\u0644\u0630\u0627\u0643\u0631\u0629 \u0648\u0641\u0647\u0631\u0633\u0629 \u0645\u062d\u0631\u0643 \u0627\u0644\u0628\u062d\u062b. TM: " + asc(APP.tus.length));
+});
+}
 } catch (e) { console.error("TM Worker index after build failed:", e); }
 }
 }
@@ -1226,25 +1172,21 @@ btn.setAttribute("aria-pressed", collapsed ? "true" : "false");
 }
 ui.status(collapsed ? "تم إخفاء العدادات لتوسيع مساحة النتائج." : "تم إظهار العدادات.");
 }
-
 function updateStats() {
 var total = APP.results.length;
 var sum = 0;
 var needs = 0;
 var review = 0;
 var confirmed = 0;
-
 APP.results.forEach(function (r) {
 var sc = +r.score || 0;
 var target = r.target || r.best || "";
 var issues = qaIssues(r.segment.text, r.target || "");
 sum += sc;
-
 if (isNeedsStatus(r.status) || !flat(target)) needs++;
 else if (isConfirmedStatus(r.status) && sc >= 95 && !issues.length) confirmed++;
 else review++;
 });
-
 var avg = total ? Math.round(sum / total) : 0;
 $("#avgStat").textContent = matchLabel(avg);
 $("#avgStat").style.color = matchColor(avg);
@@ -1276,9 +1218,7 @@ res.innerHTML = "<tr><td colspan='6' style='text-align:center;padding:30px;color
 updateStats();
 return;
 }
-
 var frag = document.createDocumentFragment();
-
 results.forEach(function (r, i) {
 var tr = document.createElement("tr");
 var isNeeds = isNeedsStatus(r.status) || !flat(r.target || r.best || "");
@@ -1287,7 +1227,6 @@ if (isNeeds) tr.className = "needsRow";
 if (isReview) tr.className = (tr.className ? tr.className + " " : "") + "reviewRow";
 tr.setAttribute("data-i", String(i));
 tr.setAttribute("data-status", isNeeds ? "needs" : (isReview ? "review" : "confirmed"));
-
 var srcClass = r.segment.lang === "ar" ? "ar" : "en";
 var tgtClass = r.targetLang === "ar" ? "ar" : "en";
 var qa = qaIssues(r.segment.text, r.target || "");
@@ -1295,7 +1234,6 @@ var suggestions = getSuggestions(r.segment.text, r.targetLang);
 var mColor = matchColor(r.score);
 var pillClass = isConfirmedStatus(r.status) ? "pill confirmed" : (isNeeds ? "pill needsPill" : "pill reviewPill");
 var safeStatus = normalizeStatusLabel(r.status, r.target || r.best || "", r.score);
-
 tr.innerHTML =
 "<td class='num'>" + esc(i + 1) + "</td>" +
 "<td class='src " + srcClass + "'>" + esc(r.segment.text) + "</td>" +
@@ -1310,12 +1248,9 @@ tr.innerHTML =
 (qa.length ? "<div class='qa'>QA: " + esc(qa.join(" | ")) + "</div>" : "") +
 "</td>" +
 "<td class='stat'><span class='" + pillClass + "'>" + esc(safeStatus) + "</span></td>";
-
 frag.appendChild(tr);
 });
-
 res.appendChild(frag);
-
 Array.prototype.slice.call(res.querySelectorAll(".sug")).forEach(function (btn) {
 btn.onclick = function () {
 var area = btn.closest("td").querySelector("textarea");
@@ -1325,30 +1260,24 @@ area.value = flat((area.value || "") + " " + v);
 area.dispatchEvent(new Event("input"));
 };
 });
-
 Array.prototype.slice.call(res.querySelectorAll(".targetDraft")).forEach(function (area) {
 area.oninput = function () { updateStoredTargets(); };
 });
-
 updateStats();
 }
-
 var navCursor = { needs: -1, review: -1 };
-
 function scrollToResultStatus(kind) {
 var rows = Array.prototype.slice.call(res.querySelectorAll("tr[data-status='" + kind + "']"));
 if (!rows.length) {
 ui.status(kind === "needs" ? "لا توجد أجزاء تحتاج ترجمة." : "لا توجد أجزاء تحتاج مراجعة.");
 return;
 }
-
 navCursor[kind] = (navCursor[kind] + 1) % rows.length;
 var row = rows[navCursor[kind]];
 row.scrollIntoView({ behavior: "smooth", block: "center" });
 row.style.outline = "3px solid " + (kind === "needs" ? "#DC2626" : "#F59E0B");
 row.style.outlineOffset = "-3px";
 setTimeout(function () { row.style.outline = ""; row.style.outlineOffset = ""; }, 1500);
-
 var i = row.getAttribute("data-i");
 ui.status((kind === "needs" ? "انتقال إلى يحتاج ترجمة: " : "انتقال إلى يحتاج مراجعة: ") + asc((+i || 0) + 1));
 }
@@ -1357,30 +1286,35 @@ if (!APP.built || !APP.tus.length) {
 ui.status("ابنِ الذاكرة أولًا بالضغط على «بناء ذاكرة الترجمة».");
 return;
 }
-
 APP.stop = false;
-
 var v = source.value.trim();
 if (!v) {
 ui.status("ألصق النص أولًا.");
 return;
 }
-
 var forced = $("#slang").value;
 var L = forced === "auto" ? null : forced;
 var segs = splitSegments(v, L);
-
 if (!segs.length) {
 ui.status("لم أجد Segments قابلة للتحليل.");
 return;
 }
-
-APP.results = [];
-res.innerHTML = "";
+APP.results = segs.map(function (seg) {
+return {
+segment: seg,
+best: "",
+target: "",
+targetLang: seg.lang === "ar" ? "en" : "ar",
+score: 0,
+status: "Needs Translation",
+mode: "pending",
+sourceFound: ""
+};
+});
+renderResults(APP.results);
 ui.progress(0, segs.length);
 updateStats();
-ui.status("جاري تجهيز محرك البحث في الذاكرة...");
-
+ui.status("جاري تجهيز فهرس البحث السريع...");
 var items = segs.map(function (seg, i) {
 return {
 id: i,
@@ -1388,15 +1322,31 @@ sourceText: seg.text,
 lang: seg.lang || (forced === "auto" ? lang(seg.text) : forced)
 };
 });
-
+function applyWorkerList(list) {
+list = Array.isArray(list) ? list : [];
+for (var a = 0; a < list.length; a++) {
+var item = list[a] || {};
+var m = item.result || {};
+var idx = +item.id;
+if (!APP.results[idx]) continue;
+var target = m.target || "";
+var score = +m.score || 0;
+APP.results[idx].best = target;
+APP.results[idx].target = target;
+APP.results[idx].targetLang = m.targetLang || (APP.results[idx].segment.lang === "ar" ? "en" : "ar");
+APP.results[idx].score = score;
+APP.results[idx].status = normalizeStatusLabel(m.status, target, score);
+APP.results[idx].mode = m.mode || m.reason || "none";
+APP.results[idx].sourceFound = m.source || "";
+}
+}
 rebuildCatTmWorkerIndex(false).then(function () {
 if (APP.stop) {
 ui.status("تم إيقاف التحليل.");
 return null;
 }
-
-var chunkSize = 160;
-var all = [];
+var chunkSize = 320;
+var done = 0;
 function runChunk(start) {
 if (APP.stop) {
 ui.status("تم إيقاف التحليل.");
@@ -1404,53 +1354,27 @@ return Promise.resolve(null);
 }
 var end = Math.min(start + chunkSize, items.length);
 var chunk = items.slice(start, end);
-ui.status("جاري البحث الذكي السريع: " + asc(end) + " / " + asc(items.length));
+ui.status("جاري البحث في ذاكرة الترجمة: " + asc(end) + " / " + asc(items.length));
 ui.progress(start, items.length);
 return matchBatchByWorker(chunk, 60).then(function (part) {
-if (Array.isArray(part)) {
-Array.prototype.push.apply(all, part);
-}
-ui.progress(end, items.length);
+applyWorkerList(part);
+done = end;
+ui.progress(done, items.length);
+renderResults(APP.results);
+updateStats();
 if (end < items.length) {
 return new Promise(function (resolve) { setTimeout(resolve, 0); }).then(function () {
 return runChunk(end);
 });
 }
-return all;
+return true;
 });
 }
 return runChunk(0);
-}).then(function (list) {
-if (!list) return;
-
-var byId = Object.create(null);
-list = Array.isArray(list) ? list : [];
-
-list.forEach(function (item) {
-if (item && typeof item.id !== "undefined") byId[item.id] = item.result || null;
-});
-
-APP.results = segs.map(function (seg, i) {
-var m = byId[i] || {};
-var target = m.target || "";
-var score = +m.score || 0;
-var status = normalizeStatusLabel(m.status, target, score);
-
-return {
-segment: seg,
-best: target,
-target: target,
-targetLang: m.targetLang || (seg.lang === "ar" ? "en" : "ar"),
-score: score,
-status: status,
-mode: m.mode || m.reason || "none",
-sourceFound: m.source || ""
-};
-});
-
-renderResults(APP.results);
+}).then(function (ok) {
+if (!ok) return;
 ui.progress(segs.length, segs.length);
-ui.status("اكتمل التحليل. عدد النتائج: " + asc(APP.results.length));
+ui.status("اكتمل التحليل. النتائج: " + asc(APP.results.length) + " — Needs Translation يظهر فقط إذا لم يجد المحرك تطابقًا آمنًا فوق 60%.");
 updateStats();
 }).catch(function (err) {
 console.error("Analyze worker failed:", err);
@@ -1469,8 +1393,8 @@ $("#jumpReview").onclick = function () { scrollToResultStatus("review"); };
 setSourceCollapsed(false);
 setHtmlHidden(false);
 $("#build").onclick = function () {
-  APP.stop = false;
-  buildMemory(ui);
+APP.stop = false;
+buildMemory(ui);
 };
 $("#analyze").onclick = analyze;
 $("#stop").onclick = function () { APP.stop = true; ui.status("\u062c\u0627\u0631\u064a \u0627\u0644\u0625\u064a\u0642\u0627\u0641..."); };
@@ -1601,10 +1525,6 @@ ready(function () {
 try { initUI(); }
 catch (e) { alert("CAT V47 Cell-Segment error: " + (e && e.message ? e.message : e)); }
 });
-
-/* =========================================================
-IndexedDB TM Add-ons + Focus Mode - Clean UTF-8 / ASCII-safe
-========================================================= */
 ready(function(){setTimeout(function(){
 var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;
 if(!s||s.getElementById("importHTML_DB"))return;
@@ -1699,7 +1619,6 @@ msg("HTML TM saved to IndexedDB: "+asc(records.length)+" pairs - name: "+memoryN
 finally{inp.value=""}
 };
 },700)});
-
 ready(function(){setTimeout(function(){
 var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;
 if(!s||s.getElementById("loadHTML_DB"))return;
@@ -1783,7 +1702,6 @@ msg("IndexedDB TM loaded: "+asc(n)+" pairs. You can now press Analyze.");
 };
 refreshList();
 },900)});
-
 ready(function(){setTimeout(function(){
 var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;
 if(!s||s.getElementById("saveEdited_DB"))return;
@@ -1873,7 +1791,6 @@ msg("Edited translations saved. Added: "+asc(r.added)+" - total User_Edited_TM: 
 }catch(e){msg("Failed to save edited translations: "+(e&&e.message?e.message:e))}
 };
 },1100)});
-
 ready(function(){setTimeout(function(){
 var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;
 if(!s||s.getElementById("focusModeBtn"))return;
@@ -1896,5 +1813,4 @@ if(status)status.textContent=on?"Focus mode enabled: side buttons hidden and res
 };
 if(src&&src.parentNode)src.parentNode.insertBefore(b,src.nextSibling);else tools.appendChild(b);
 },700)});
-
 })();
