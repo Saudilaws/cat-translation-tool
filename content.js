@@ -31,6 +31,107 @@ config: { maxWindows: 3, maxUnitsPerSide: 90, maxIndexTokens: 90 },
 terms: [],
 results: []
 };
+/* =========================================================
+   TM Worker Bridge
+   يربط لوحة CAT بملف tm-worker.js بدون تعليق الواجهة
+========================================================= */
+
+var CAT_TM_WORKER = null;
+var CAT_TM_WORKER_SEQ = 1;
+var CAT_TM_WORKER_JOBS = Object.create(null);
+
+function initCatTmWorker() {
+  if (CAT_TM_WORKER) return CAT_TM_WORKER;
+
+  CAT_TM_WORKER = new Worker("./tm-worker.js");
+
+  CAT_TM_WORKER.onmessage = function (e) {
+    var msg = e.data || {};
+    var job = CAT_TM_WORKER_JOBS[msg.id];
+
+    if (!job) return;
+
+    delete CAT_TM_WORKER_JOBS[msg.id];
+
+    if (msg.ok) {
+      job.resolve(msg.payload);
+    } else {
+      job.reject(new Error(msg.error || "TM Worker error"));
+    }
+  };
+
+  CAT_TM_WORKER.onerror = function (err) {
+    console.error("CAT TM Worker Error:", err);
+  };
+
+  return CAT_TM_WORKER;
+}
+
+function callCatTmWorker(type, payload) {
+  initCatTmWorker();
+
+  return new Promise(function (resolve, reject) {
+    var id = CAT_TM_WORKER_SEQ++;
+
+    CAT_TM_WORKER_JOBS[id] = {
+      resolve: resolve,
+      reject: reject
+    };
+
+    CAT_TM_WORKER.postMessage({
+      id: id,
+      type: type,
+      payload: payload || {}
+    });
+  });
+}
+
+function rebuildCatTmWorkerIndex() {
+  var tus = APP.tus || APP.tm || APP.memory || [];
+
+  if (!Array.isArray(tus) || !tus.length) {
+    console.warn("TM Worker: no TUs found to index.");
+    APP.tmWorkerReady = false;
+    return Promise.resolve(null);
+  }
+
+  return callCatTmWorker("BUILD_INDEX", {
+    tus: tus
+  }).then(function (stats) {
+    console.log("TM Worker index ready:", stats);
+    APP.tmWorkerReady = true;
+    APP.tmWorkerStats = stats;
+    return stats;
+  }).catch(function (err) {
+    console.error("TM Worker index failed:", err);
+    APP.tmWorkerReady = false;
+    return null;
+  });
+}
+
+function recoverOneByWorker(sourceText) {
+  if (!sourceText) return Promise.resolve(null);
+
+  return callCatTmWorker("RECOVER_ONE", {
+    sourceText: sourceText
+  }).catch(function (err) {
+    console.error("TM Worker recover failed:", err);
+    return null;
+  });
+}
+
+function recoverBatchByWorker(items) {
+  if (!Array.isArray(items) || !items.length) {
+    return Promise.resolve([]);
+  }
+
+  return callCatTmWorker("RECOVER_BATCH", {
+    items: items
+  }).catch(function (err) {
+    console.error("TM Worker batch recover failed:", err);
+    return [];
+  });
+}   
 if (window.__CAT_V47_CELL_SEGMENT_PRO_ENHANCED__) {
 try { window.dispatchEvent(new CustomEvent("CAT_V47_PRO_OPEN")); } catch (e) {}
 return;
