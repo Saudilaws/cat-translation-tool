@@ -1237,7 +1237,16 @@ Array.prototype.slice.call(res.querySelectorAll(".targetDraft")).forEach(functio
 area.oninput = function () { updateStoredTargets(); };
 });
 updateStats();
-}
+/* Build TM Worker index after memory is fully built */
+try {
+  setTimeout(function () {
+    if (typeof rebuildCatTmWorkerIndex === "function") {
+      rebuildCatTmWorkerIndex();
+    }
+  }, 0);
+} catch (e) {
+  console.error("Failed to start TM Worker index:", e);
+}}
 function analyze() {
 if (!APP.built || !APP.tus.length) { ui.status("\u0627\u0628\u0646\u0650 \u0627\u0644\u0630\u0627\u0643\u0631\u0629 \u0623\u0648\u0644\u064b\u0627 \u0628\u0627\u0644\u0636\u063a\u0637 \u0639\u0644\u0649 \xab\u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629\xbb."); return; }
 APP.stop = false;
