@@ -1267,6 +1267,604 @@ try {
 } catch (e) {
   console.error("Failed to start TM Worker index:", e);
 }}
+/* =========================================================
+   PROFESSIONAL GLOBAL TM MATCHING ENGINE
+   Arabic ↔ English
+   - Fast global index over APP.tus
+   - Exact / compact / containment / fuzzy / token matching
+   - Rejects unrelated best matches
+   - Needs Translation only if score < 60 or no safe target
+========================================================= */
+
+(function () {
+  "use strict";
+
+  var SMART_TM = {
+    records: [],
+    exact: new Map(),
+    compact: new Map(),
+    tokenIndex: new Map(),
+    cache: new Map(),
+    signature: "",
+    config: {
+      minScore: 60,
+      confirmedScore: 95,
+      maxCandidates: 450,
+      maxTokenHitsPerToken: 1200
+    }
+  };
+
+  function htmlDecode(s) {
+    s = String(s || "");
+    try {
+      var ta = document.createElement("textarea");
+      ta.innerHTML = s;
+      return ta.value;
+    } catch (e) {
+      return s;
+    }
+  }
+
+  function hasArabic(s) {
+    return /[\u0600-\u06FF]/.test(String(s || ""));
+  }
+
+  function hasLatin(s) {
+    return /[A-Za-z]/.test(String(s || ""));
+  }
+
+  function arabicRatio(s) {
+    s = String(s || "");
+    if (!s) return 0;
+    var ar = (s.match(/[\u0600-\u06FF]/g) || []).length;
+    return ar / Math.max(1, s.length);
+  }
+
+  function latinRatio(s) {
+    s = String(s || "");
+    if (!s) return 0;
+    var en = (s.match(/[A-Za-z]/g) || []).length;
+    return en / Math.max(1, s.length);
+  }
+
+  function normalizeText(s) {
+    s = htmlDecode(String(s || ""));
+
+    return s
+      .replace(/[\u0610-\u061A\u064B-\u065F\u0670\u06D6-\u06ED]/g, "")
+      .replace(/\u0640/g, "")
+      .replace(/[\u200E\u200F\u202A-\u202E\u2066-\u2069]/g, "")
+      .replace(/[\u200B\u200C\u200D\u2060\uFEFF\u034F]/g, "")
+      .replace(/\u00A0|\u202F|\u2007|[\u2000-\u200A]/g, " ")
+
+      .replace(/[أإآٱ]/g, "ا")
+      .replace(/[ىی]/g, "ي")
+      .replace(/ک/g, "ك")
+      .replace(/[ہھۀ]/g, "ه")
+      .replace(/ة/g, "ه")
+      .replace(/ؤ/g, "و")
+      .replace(/ئ/g, "ي")
+
+      .replace(/[٠-٩]/g, function (d) {
+        return String("٠١٢٣٤٥٦٧٨٩".indexOf(d));
+      })
+      .replace(/[۰-۹]/g, function (d) {
+        return String("۰۱۲۳۴۵۶۷۸۹".indexOf(d));
+      })
+
+      .replace(/[،]/g, ",")
+      .replace(/[؛]/g, ";")
+      .replace(/[؟]/g, "?")
+      .replace(/[“”„«»]/g, '"')
+      .replace(/[‘’‚]/g, "'")
+      .replace(/[ـ–—−]/g, "-")
+      .replace(/[()\[\]{}]/g, " ")
+      .replace(/[,:;.!?؟،؛"'`~|\\/]+/g, " ")
+      .replace(/\s+/g, " ")
+      .trim()
+      .toLowerCase();
+  }
+
+  function compactText(s) {
+    return normalizeText(s).replace(/[^0-9A-Za-z\u0600-\u06FF]+/g, "");
+  }
+
+  var STOP = Object.create(null);
+  [
+    "في", "من", "على", "الى", "إلى", "عن", "او", "أو", "و", "ف", "ثم", "ذلك",
+    "هذه", "هذا", "تلك", "كل", "أن", "ان", "ما", "لا", "قد", "تم",
+    "the", "of", "and", "or", "to", "in", "on", "for", "a", "an", "by",
+    "this", "that", "shall", "may", "be", "is", "are", "was", "were"
+  ].forEach(function (x) {
+    STOP[normalizeText(x)] = 1;
+  });
+
+  function tokens(s) {
+    return normalizeText(s)
+      .split(/\s+/)
+      .map(function (x) { return x.trim(); })
+      .filter(function (x) {
+        return x.length >= 2 && !STOP[x];
+      });
+  }
+
+  function getSource(tu) {
+    return tu.source || tu.src || tu.ar || tu.sourceText || tu.s || "";
+  }
+
+  function getTarget(tu) {
+    return tu.target || tu.trg || tu.en || tu.targetText || tu.t || "";
+  }
+
+  function cleanTargetForSource(sourceText, targetText) {
+    sourceText = String(sourceText || "");
+    targetText = String(targetText || "");
+
+    if (!targetText.trim()) return "";
+
+    var sourceIsArabic = hasArabic(sourceText);
+
+    var t = targetText
+      .replace(/([A-Za-z0-9.!?;])([\u0600-\u06FF])/g, "$1\n$2")
+      .replace(/([\u0600-\u06FF])([A-Za-z])/g, "$1\n$2")
+      .replace(/\s+/g, " ")
+      .trim();
+
+    if (sourceIsArabic) {
+      var parts = t
+        .split(/(?:\n+|\r+|(?<=[.!?;])\s+)/g)
+        .map(function (x) { return x.trim(); })
+        .filter(Boolean)
+        .filter(function (x) {
+          return arabicRatio(x) < 0.12 && hasLatin(x);
+        });
+
+      t = parts.join(" ").replace(/\s+/g, " ").trim();
+    } else if (hasLatin(sourceText)) {
+      var arParts = t
+        .split(/(?:\n+|\r+|(?<=[.!?;])\s+)/g)
+        .map(function (x) { return x.trim(); })
+        .filter(Boolean)
+        .filter(function (x) {
+          return latinRatio(x) < 0.40 && hasArabic(x);
+        });
+
+      if (arParts.length) {
+        t = arParts.join(" ").replace(/\s+/g, " ").trim();
+      }
+    }
+
+    return t;
+  }
+
+  function extractNumbers(s) {
+    return normalizeText(s).match(/\d+(?:[./-]\d+)*/g) || [];
+  }
+
+  function sameNumbersSafe(a, b) {
+    var x = extractNumbers(a);
+    var y = extractNumbers(b);
+
+    if (!x.length && !y.length) return true;
+    if (x.length !== y.length) return false;
+
+    return x.slice().sort().join("|") === y.slice().sort().join("|");
+  }
+
+  function negationMismatch(a, b) {
+    var x = normalizeText(a);
+    var y = normalizeText(b);
+
+    var nx = /\b(لا|ليس|ليست|لم|لن|دون|غير|no|not|never|without|unless)\b/.test(x);
+    var ny = /\b(لا|ليس|ليست|لم|لن|دون|غير|no|not|never|without|unless)\b/.test(y);
+
+    return nx !== ny;
+  }
+
+  function makeSet(arr) {
+    var s = new Set();
+    arr.forEach(function (x) {
+      if (x) s.add(x);
+    });
+    return s;
+  }
+
+  function jaccard(a, b) {
+    if (!a.size || !b.size) return 0;
+
+    var inter = 0;
+    a.forEach(function (x) {
+      if (b.has(x)) inter++;
+    });
+
+    var union = a.size + b.size - inter;
+    return union ? inter / union : 0;
+  }
+
+  function charNgrams(s, n) {
+    s = compactText(s);
+    n = n || 3;
+
+    var out = new Set();
+
+    if (!s) return out;
+
+    if (s.length <= n) {
+      out.add(s);
+      return out;
+    }
+
+    for (var i = 0; i <= s.length - n; i++) {
+      out.add(s.slice(i, i + n));
+    }
+
+    return out;
+  }
+
+  function tokenSimilarity(a, b) {
+    return jaccard(makeSet(tokens(a)), makeSet(tokens(b)));
+  }
+
+  function ngramSimilarity(a, b) {
+    return jaccard(charNgrams(a, 3), charNgrams(b, 3));
+  }
+
+  function containmentScore(query, candidate) {
+    var q = normalizeText(query);
+    var c = normalizeText(candidate);
+
+    if (!q || !c) return 0;
+    if (q === c) return 1;
+
+    if (c.indexOf(q) !== -1) {
+      return Math.max(0.78, Math.min(0.96, q.length / Math.max(1, c.length)));
+    }
+
+    if (q.indexOf(c) !== -1) {
+      return Math.max(0.72, Math.min(0.92, c.length / Math.max(1, q.length)));
+    }
+
+    return 0;
+  }
+
+  function lengthRatio(a, b) {
+    var x = normalizeText(a).length;
+    var y = normalizeText(b).length;
+
+    if (!x || !y) return 0;
+
+    return Math.min(x, y) / Math.max(x, y);
+  }
+
+  function addToMapList(map, key, rec) {
+    if (!key) return;
+
+    if (!map.has(key)) {
+      map.set(key, []);
+    }
+
+    map.get(key).push(rec);
+  }
+
+  function signatureOfTus(tus) {
+    tus = Array.isArray(tus) ? tus : [];
+    var a = tus.length;
+    var b = tus[0] ? String(getSource(tus[0])).length + ":" + String(getTarget(tus[0])).length : "0";
+    var c = tus[tus.length - 1] ? String(getSource(tus[tus.length - 1])).length + ":" + String(getTarget(tus[tus.length - 1])).length : "0";
+    return a + "|" + b + "|" + c;
+  }
+
+  function rebuild(tus) {
+    tus = Array.isArray(tus) ? tus : (Array.isArray(APP.tus) ? APP.tus : []);
+
+    SMART_TM.records = [];
+    SMART_TM.exact = new Map();
+    SMART_TM.compact = new Map();
+    SMART_TM.tokenIndex = new Map();
+    SMART_TM.cache = new Map();
+    SMART_TM.signature = signatureOfTus(tus);
+
+    for (var i = 0; i < tus.length; i++) {
+      var src = String(getSource(tus[i]) || "").trim();
+      var trg = String(getTarget(tus[i]) || "").trim();
+
+      if (!src || !trg) continue;
+
+      var cleanTarget = cleanTargetForSource(src, trg);
+      if (!cleanTarget) continue;
+
+      var rec = {
+        id: SMART_TM.records.length,
+        source: src,
+        target: cleanTarget,
+        sourceNorm: normalizeText(src),
+        sourceCompact: compactText(src),
+        sourceTokens: tokens(src),
+        targetLang: hasArabic(cleanTarget) ? "ar" : "en",
+        raw: tus[i]
+      };
+
+      if (!rec.sourceNorm && !rec.sourceCompact) continue;
+
+      SMART_TM.records.push(rec);
+
+      addToMapList(SMART_TM.exact, rec.sourceNorm, rec);
+      addToMapList(SMART_TM.compact, rec.sourceCompact, rec);
+
+      var uniqueTokens = Array.from(new Set(rec.sourceTokens));
+
+      for (var t = 0; t < uniqueTokens.length; t++) {
+        var tok = uniqueTokens[t];
+
+        if (!SMART_TM.tokenIndex.has(tok)) {
+          SMART_TM.tokenIndex.set(tok, []);
+        }
+
+        var list = SMART_TM.tokenIndex.get(tok);
+
+        if (list.length < SMART_TM.config.maxTokenHitsPerToken) {
+          list.push(rec.id);
+        }
+      }
+    }
+
+    console.log("Professional Global TM ready:", {
+      tus: tus.length,
+      indexed: SMART_TM.records.length,
+      exact: SMART_TM.exact.size,
+      compact: SMART_TM.compact.size,
+      tokens: SMART_TM.tokenIndex.size
+    });
+
+    return SMART_TM;
+  }
+
+  function ensure() {
+    var tus = Array.isArray(APP.tus) ? APP.tus : [];
+    var sig = signatureOfTus(tus);
+
+    if (!SMART_TM.records.length || SMART_TM.signature !== sig) {
+      rebuild(tus);
+    }
+  }
+
+  function statusFromScore(score) {
+    score = Number(score || 0);
+
+    if (score >= SMART_TM.config.confirmedScore) return "Confirmed";
+    if (score >= SMART_TM.config.minScore) return "Review";
+
+    return "Needs Translation";
+  }
+
+  function safeCandidate(query, rec, score) {
+    if (!rec || !rec.source || !rec.target) return false;
+
+    score = Number(score || 0);
+
+    if (score < SMART_TM.config.minScore) return false;
+    if (!sameNumbersSafe(query, rec.source)) return false;
+    if (negationMismatch(query, rec.source)) return false;
+
+    var token = tokenSimilarity(query, rec.source);
+    var ng = ngramSimilarity(query, rec.source);
+    var len = lengthRatio(query, rec.source);
+
+    if (score < 70 && (token < 0.35 || ng < 0.35)) return false;
+    if (score < 80 && token < 0.22 && ng < 0.38) return false;
+    if (score < 85 && len < 0.25 && containmentScore(query, rec.source) < 0.80) return false;
+
+    return true;
+  }
+
+  function scoreCandidate(query, rec) {
+    var qNorm = normalizeText(query);
+    var qCompact = compactText(query);
+
+    if (qNorm && qNorm === rec.sourceNorm) {
+      return { score: 100, type: "exact" };
+    }
+
+    if (qCompact && qCompact === rec.sourceCompact) {
+      return { score: 99, type: "normalized_exact" };
+    }
+
+    var contain = containmentScore(query, rec.source);
+    var token = tokenSimilarity(query, rec.source);
+    var ng = ngramSimilarity(query, rec.source);
+    var len = lengthRatio(query, rec.source);
+
+    var score = Math.round(
+      contain * 42 +
+      token * 30 +
+      ng * 22 +
+      len * 6
+    );
+
+    var type = "fuzzy";
+
+    if (contain >= 0.90) {
+      score = Math.max(score, 95);
+      type = "partial";
+    } else if (contain >= 0.78 && ng >= 0.35) {
+      score = Math.max(score, 85);
+      type = "partial";
+    } else if (ng >= 0.62 && token >= 0.25) {
+      score = Math.max(score, 82);
+      type = "fuzzy";
+    }
+
+    return {
+      score: Math.min(100, score),
+      type: type
+    };
+  }
+
+  function pickBest(query, candidates) {
+    var scored = [];
+
+    for (var i = 0; i < candidates.length; i++) {
+      var rec = candidates[i];
+      var s = scoreCandidate(query, rec);
+
+      if (!safeCandidate(query, rec, s.score)) continue;
+
+      scored.push({
+        rec: rec,
+        score: s.score,
+        type: s.type
+      });
+    }
+
+    if (!scored.length) return null;
+
+    scored.sort(function (a, b) {
+      return b.score - a.score;
+    });
+
+    var best = scored[0];
+    var second = scored[1];
+
+    if (second && best.score < 95 && Math.abs(best.score - second.score) <= 3) {
+      var t1 = compactText(best.rec.target);
+      var t2 = compactText(second.rec.target);
+
+      if (t1 !== t2) {
+        return null;
+      }
+    }
+
+    return best;
+  }
+
+  function collectCandidates(query) {
+    var qTokens = tokens(query);
+    var counts = Object.create(null);
+
+    for (var i = 0; i < qTokens.length; i++) {
+      var list = SMART_TM.tokenIndex.get(qTokens[i]);
+
+      if (!list) continue;
+
+      for (var j = 0; j < list.length; j++) {
+        var id = list[j];
+        counts[id] = (counts[id] || 0) + 1;
+      }
+    }
+
+    return Object.keys(counts)
+      .map(function (id) {
+        return {
+          id: Number(id),
+          hits: counts[id]
+        };
+      })
+      .sort(function (a, b) {
+        return b.hits - a.hits;
+      })
+      .slice(0, SMART_TM.config.maxCandidates)
+      .map(function (x) {
+        return SMART_TM.records[x.id];
+      })
+      .filter(Boolean);
+  }
+
+  function makeResult(query, found, fallbackExplanation) {
+    if (!found || !found.rec) {
+      return {
+        target: "",
+        targetLang: "",
+        score: 0,
+        status: "Needs Translation",
+        mode: "none",
+        source: "",
+        explanation: fallbackExplanation || "No reliable match found in global TM."
+      };
+    }
+
+    return {
+      target: found.rec.target,
+      targetLang: found.rec.targetLang,
+      score: found.score,
+      status: statusFromScore(found.score),
+      mode: "professional-global-tm-" + found.type,
+      source: found.rec.source,
+      explanation: "Global TM match selected with false-positive protection."
+    };
+  }
+
+  function match(sourceText, options) {
+    options = options || {};
+    ensure();
+
+    var minScore = Number(options.minScore || SMART_TM.config.minScore || 60);
+    var key = compactText(sourceText);
+
+    if (!key) {
+      return makeResult(sourceText, null, "Empty source.");
+    }
+
+    var cacheKey = key + "|" + minScore;
+
+    if (SMART_TM.cache.has(cacheKey)) {
+      return SMART_TM.cache.get(cacheKey);
+    }
+
+    var qNorm = normalizeText(sourceText);
+    var qCompact = compactText(sourceText);
+
+    var exactCandidates = SMART_TM.exact.get(qNorm) || [];
+    var exactBest = pickBest(sourceText, exactCandidates);
+
+    if (exactBest && exactBest.score >= minScore) {
+      var exactResult = makeResult(sourceText, exactBest);
+      SMART_TM.cache.set(cacheKey, exactResult);
+      return exactResult;
+    }
+
+    var compactCandidates = SMART_TM.compact.get(qCompact) || [];
+    var compactBest = pickBest(sourceText, compactCandidates);
+
+    if (compactBest && compactBest.score >= minScore) {
+      var compactResult = makeResult(sourceText, compactBest);
+      SMART_TM.cache.set(cacheKey, compactResult);
+      return compactResult;
+    }
+
+    var candidates = collectCandidates(sourceText);
+
+    var fuzzyBest = pickBest(sourceText, candidates);
+
+    if (fuzzyBest && fuzzyBest.score >= minScore) {
+      var fuzzyResult = makeResult(sourceText, fuzzyBest);
+      SMART_TM.cache.set(cacheKey, fuzzyResult);
+      return fuzzyResult;
+    }
+
+    var none = makeResult(sourceText, null);
+    SMART_TM.cache.set(cacheKey, none);
+    return none;
+  }
+
+  window.CAT_PRO_GLOBAL_TM = {
+    rebuild: rebuild,
+    match: match,
+    ensure: ensure,
+    normalizeText: normalizeText,
+    compactText: compactText,
+    tokens: tokens,
+    config: SMART_TM.config,
+    debug: function () {
+      return {
+        records: SMART_TM.records.length,
+        exact: SMART_TM.exact.size,
+        compact: SMART_TM.compact.size,
+        tokens: SMART_TM.tokenIndex.size,
+        signature: SMART_TM.signature
+      };
+    }
+  };
+})();   
 function analyze() {
 if (!APP.built || !APP.tus.length) { ui.status("\u0627\u0628\u0646\u0650 \u0627\u0644\u0630\u0627\u0643\u0631\u0629 \u0623\u0648\u0644\u064b\u0627 \u0628\u0627\u0644\u0636\u063a\u0637 \u0639\u0644\u0649 \xab\u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629\xbb."); return; }
 APP.stop = false;
@@ -1287,8 +1885,7 @@ if (APP.stop) { ui.status("\u062a\u0645 \u0625\u064a\u0642\u0627\u0641 \u0627\u0
 var end = Math.min(i + 15, segs.length);
 for (; i < end; i++) {
 var seg = segs[i];
-var m = searchOne(seg.text, seg.lang);
-APP.results.push({
+var m = window.CAT_PRO_GLOBAL_TM.match(seg.text, { minScore: 60 });APP.results.push({
 segment: seg,
 best: m.target || "",
 target: m.target || "",
@@ -1397,8 +1994,15 @@ $("#toggleSourceIcon").onclick = function () { setSourceCollapsed(!panel.classLi
 $("#toggleHtmlIcon").onclick = function () { setHtmlHidden(!document.getElementById(APP.hostId + "-page-hide-style")); };
 setSourceCollapsed(false);
 setHtmlHidden(false);
-$("#build").onclick = function () { APP.stop = false; buildMemory(ui); };
-$("#analyze").onclick = analyze;
+$("#build").onclick = function () {
+  APP.stop = false;
+  buildMemory(ui);
+  setTimeout(function () {
+    if (window.CAT_PRO_GLOBAL_TM) {
+      window.CAT_PRO_GLOBAL_TM.rebuild(APP.tus || []);
+    }
+  }, 500);
+};$("#analyze").onclick = analyze;
 $("#stop").onclick = function () { APP.stop = true; ui.status("\u062c\u0627\u0631\u064a \u0627\u0644\u0625\u064a\u0642\u0627\u0641..."); };
 $("#acceptAll").onclick = function () {
 APP.results.forEach(function (r) {
