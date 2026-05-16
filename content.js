@@ -1318,15 +1318,18 @@ else {
 
       if (!r || !r.segment || !r.segment.text) continue;
 
-      var noTarget = !(r.target || r.best);
-      var zeroScore = !r.score || r.score <= 0;
+     var noTarget = !(r.target || r.best);
+var currentScore = Number(r.score || 0);
+var lowScore = currentScore < 95;
+var statusText = String(r.status || "").toLowerCase();
+var isConfirmed = statusText.indexOf("confirmed") !== -1;
 
-      if (noTarget || zeroScore) {
-        items.push({
-          id: x,
-          sourceText: r.segment.text
-        });
-      }
+if (!isConfirmed && (noTarget || lowScore)) {
+  items.push({
+    id: x,
+    sourceText: r.segment.text
+  });
+}
     }
 
     if (!items.length) return;
@@ -1346,14 +1349,22 @@ else {
 
           if (!row || !hit || !hit.target) continue;
 
-          row.best = hit.target;
-          row.target = hit.target;
-          row.score = hit.score || 95;
-          row.status = "Review";
-          row.mode = hit.reason || "worker-split-merge";
-          row.sourceFound = row.sourceFound || "";
+         var oldScore = Number(row.score || 0);
+var newScore = Number(hit.score || 0);
 
-          changed++;
+if (!hit.target) continue;
+
+/* لا يستبدل نتيجة جيدة إلا إذا كان الـ Worker أفضل */
+if (oldScore >= 95 && newScore <= oldScore) continue;
+
+row.best = hit.target;
+row.target = hit.target;
+row.score = newScore || 95;
+row.status = "Review";
+row.mode = hit.reason || "worker-split-merge";
+row.sourceFound = row.sourceFound || "";
+
+changed++;
         }
 
         if (changed) {
