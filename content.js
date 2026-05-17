@@ -1069,6 +1069,35 @@ $("#needsStat").style.color = needs ? "#DC2626" : "#168A45";
 $("#reviewStat").textContent = asc(review);
 $("#reviewStat").style.color = review ? "#F59E0B" : "#168A45";
 }
+function sourceHasValueNow() {
+return !!flat(source && source.value || "");
+}
+function emptyResultsRowHtml(message) {
+return "<tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>" + esc(message || "لا توجد نتائج بعد.") + "</td></tr>";
+}
+function clearResultsBecauseSourceEmpty(message) {
+if (sourceHasValueNow()) return false;
+APP.stop = true;
+APP.results = [];
+res.innerHTML = emptyResultsRowHtml(message || "لا توجد نتائج بعد.");
+ui.progress(0, 0);
+updateStats();
+try { if (typeof updateNavCounters === "function") updateNavCounters(); } catch (e) {}
+return true;
+}
+function watchSourceEmptiness() {
+if (!sourceHasValueNow()) {
+clearResultsBecauseSourceEmpty("لا توجد نتائج بعد.");
+ui.status("تم مسح خانة Source وإخفاء النتائج.");
+}
+}
+["input", "change", "keyup", "cut", "blur"].forEach(function (ev) {
+source.addEventListener(ev, function () { setTimeout(watchSourceEmptiness, 0); }, true);
+});
+source.addEventListener("paste", function () { setTimeout(watchSourceEmptiness, 0); setTimeout(watchSourceEmptiness, 80); }, true);
+setInterval(function () {
+if (!sourceHasValueNow() && APP.results && APP.results.length) watchSourceEmptiness();
+}, 120);
 function updateStoredTargets() {
 var boxes = Array.prototype.slice.call(res.querySelectorAll(".targetDraft"));
 boxes.forEach(function (b) {
@@ -1083,6 +1112,7 @@ else APP.results[i].status = "Review";
 updateStats();
 }
 function renderResults(results) {
+if (clearResultsBecauseSourceEmpty("لا توجد نتائج بعد.")) return;
 res.innerHTML = "";
 if (!results.length) {
 res.innerHTML = "<tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>\u0644\u0627 \u062a\u0648\u062c\u062f \u0646\u062a\u0627\u0626\u062c.</td></tr>";
@@ -1133,9 +1163,10 @@ updateStats();
 }
 function analyze() {
 if (!APP.built || !APP.tus.length) { ui.status("\u0627\u0628\u0646\u0650 \u0627\u0644\u0630\u0627\u0643\u0631\u0629 \u0623\u0648\u0644\u064b\u0627 \u0628\u0627\u0644\u0636\u063a\u0637 \u0639\u0644\u0649 \xab\u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629\xbb."); return; }
+if (!sourceHasValueNow()) { clearResultsBecauseSourceEmpty("لا توجد نتائج بعد."); ui.status("ألصق النص أولًا."); return; }
 APP.stop = false;
 var v = source.value.trim();
-if (!v) { ui.status("\u0623\u0644\u0635\u0642 \u0627\u0644\u0646\u0635 \u0623\u0648\u0644\u064b\u0627."); return; }
+if (!flat(v)) { clearResultsBecauseSourceEmpty("لا توجد نتائج بعد."); ui.status("ألصق النص أولًا."); return; }
 var forced = $("#slang").value;
 var L = forced === "auto" ? null : forced;
 var segs = splitSegments(v, L);
@@ -1147,6 +1178,7 @@ ui.progress(0, segs.length);
 updateStats();
 var i = 0;
 function step() {
+if (!sourceHasValueNow()) { clearResultsBecauseSourceEmpty("لا توجد نتائج بعد."); ui.status("تم مسح خانة Source وإيقاف التحليل."); return; }
 if (APP.stop) { ui.status("\u062a\u0645 \u0625\u064a\u0642\u0627\u0641 \u0627\u0644\u062a\u062d\u0644\u064a\u0644."); return; }
 var end = Math.min(i + 100, segs.length);
 for (; i < end; i++) {
@@ -2596,10 +2628,12 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
         x.classList.toggle("show", !!flat(source.value || ""));
       }
       x.onclick = function () {
+        APP.stop = true;
         source.value = "";
         source.dispatchEvent(new Event("input", { bubbles: true }));
         syncClearX();
         clearSourceResultsIfEmpty();
+        try { if (typeof clearResultsBecauseSourceEmpty === "function") clearResultsBecauseSourceEmpty("لا توجد نتائج بعد."); } catch (e) {}
         source.focus();
         putStatus(sh, "تم مسح خانة Source وإخفاء النتائج.");
       };
