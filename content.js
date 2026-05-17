@@ -1309,159 +1309,266 @@ try { initUI(); }
 catch (e) { alert("CAT V47 Cell-Segment error: " + (e && e.message ? e.message : e)); }
 });
 ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;if(!s||s.getElementById("importHTML_DB"))return;var side=s.querySelector(".side"),after=s.getElementById("importDOCX"),panel=s.getElementById("panel"),status=s.getElementById("status"),fill=s.getElementById("fill");if(!side||!panel)return;var btn=document.createElement("button"),inp=document.createElement("input");btn.id="importHTML_DB";btn.textContent="Import HTML → IndexedDB";btn.style.background="#0f766e";btn.style.color="#fff";btn.style.borderColor="#0f766e";inp.id="fileHTML_DB";inp.type="file";inp.accept=".html,.htm,text/html";inp.className="hiddenFile";(after&&after.parentNode?after.parentNode:side).insertBefore(btn,after?after.nextSibling:null);panel.appendChild(inp);var DB_NAME="CAT_TM_INDEXEDDB",DB_VER=1;function msg(x){if(status)status.textContent=x}function prog(a,b){if(fill)fill.style.width=(b?Math.round(a/b*100):0)+"%"}function openDB(){return new Promise(function(res,rej){if(!window.indexedDB){rej(new Error("IndexedDB غير مدعوم في هذا المتصفح."));return}var r=indexedDB.open(DB_NAME,DB_VER);r.onupgradeneeded=function(e){var db=e.target.result,seg,mem;if(!db.objectStoreNames.contains("segments")){seg=db.createObjectStore("segments",{keyPath:"id",autoIncrement:true});seg.createIndex("memoryName","memoryName",{unique:false});seg.createIndex("arNorm","arNorm",{unique:false});seg.createIndex("enNorm","enNorm",{unique:false});seg.createIndex("arCompact","arCompact",{unique:false});seg.createIndex("enCompact","enCompact",{unique:false});seg.createIndex("createdAt","createdAt",{unique:false})}if(!db.objectStoreNames.contains("memories")){mem=db.createObjectStore("memories",{keyPath:"name"});mem.createIndex("importedAt","importedAt",{unique:false})}};r.onsuccess=function(){res(r.result)};r.onerror=function(){rej(r.error||new Error("تعذر فتح IndexedDB"))}})}function done(tx){return new Promise(function(res,rej){tx.oncomplete=function(){res()};tx.onerror=function(){rej(tx.error||new Error("IndexedDB transaction error"))};tx.onabort=function(){rej(tx.error||new Error("IndexedDB transaction aborted"))}})}async function deleteMemory(db,name){var tx=db.transaction("segments","readwrite"),st=tx.objectStore("segments"),idx=st.index("memoryName"),req=idx.openCursor(IDBKeyRange.only(name));req.onsuccess=function(e){var c=e.target.result;if(c){c.delete();c.continue()}};await done(tx)}function fallbackPairs(arCells,enCells){var out=[],ar=arCells.slice().sort(function(a,b){return a.cell-b.cell}),en=enCells.slice().sort(function(a,b){return a.cell-b.cell});if(!ar.length||!en.length)return out;if(typeof pairCellsByOrder==="function")return pairCellsByOrder(ar,en);if(ar.length===en.length){for(var i=0;i<ar.length;i++)out.push({ar:ar[i],en:en[i]});return out}if(ar.length===1){en.forEach(function(e){out.push({ar:ar[0],en:e})});return out}if(en.length===1){ar.forEach(function(a){out.push({ar:a,en:en[0]})});return out}var used=Object.create(null);ar.forEach(function(a){var best=-1,dist=1e9;for(var j=0;j<en.length;j++){if(used[j])continue;var d=Math.abs(a.cell-en[j].cell);if(d<dist){dist=d;best=j}}if(best>=0){used[best]=1;out.push({ar:a,en:en[best]})}});return out}function extract(html,memoryName){var doc=new DOMParser().parseFromString(String(html||"").replace(/<script[\s\S]*?<\/script>/gi,"").replace(/<style[\s\S]*?<\/style>/gi,""),"text/html"),rows=Array.prototype.slice.call(doc.querySelectorAll("tr")),seen=Object.create(null),out=[],now=Date.now();rows.forEach(function(r,ri){var cells=Array.prototype.slice.call(r.querySelectorAll("td,th")),arCells=[],enCells=[];cells.forEach(function(c,ci){var tx=flat(c.textContent||"");if(!tx||tx.length<2)return;var ac=arCount(tx),ec=enCount(tx);if(ac>=2)arCells.push({text:tx,row:ri,cell:ci});if(ec>=2)enCells.push({text:tx,row:ri,cell:ci})});fallbackPairs(arCells,enCells).forEach(function(p){var ar=flat(p.ar&&p.ar.text),en=flat(p.en&&p.en.text);if(!ar||!en||!hasAr(ar)||!hasEn(en))return;var k=loose(ar).slice(0,900)+"|"+loose(en).slice(0,900);if(seen[k])return;seen[k]=1;out.push({memoryName:memoryName,ar:ar,en:en,arNorm:loose(ar),enNorm:loose(en),arCompact:compactText(ar),enCompact:compactText(en),rowNo:ri,createdAt:now,source:"html-indexeddb"})})});return out}async function saveSegments(db,name,fileName,records){await deleteMemory(db,name);var tx=db.transaction(["segments","memories"],"readwrite"),seg=tx.objectStore("segments"),mem=tx.objectStore("memories");records.forEach(function(x){seg.add(x)});mem.put({name:name,fileName:fileName,count:records.length,importedAt:Date.now(),type:"html"});await done(tx)}btn.onclick=function(){inp.click()};inp.onchange=async function(){var file=inp.files&&inp.files[0];if(!file)return;try{msg("جاري قراءة ملف HTML وحفظه في IndexedDB...");prog(5,100);var html=await file.text(),memoryName=(file.name||"HTML_TM").replace(/\.(html?|HTML?)$/,"");prog(25,100);var records=extract(html,memoryName);if(!records.length){msg("لم يتم العثور على أزواج عربي/إنجليزي داخل جداول HTML.");inp.value="";return}prog(55,100);var db=await openDB();await saveSegments(db,memoryName,file.name,records);db.close();prog(100,100);msg("تم حفظ ذاكرة HTML داخل IndexedDB: "+asc(records.length)+" زوج ترجمي — الاسم: "+memoryName)}catch(e){msg("فشل حفظ HTML في IndexedDB: "+(e&&e.message?e.message:e))}finally{inp.value=""}}},700)}); ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;if(!s||s.getElementById("loadHTML_DB"))return;var side=s.querySelector(".side"),after=s.getElementById("importHTML_DB")||s.getElementById("importDOCX"),status=s.getElementById("status"),fill=s.getElementById("fill");if(!side)return;var sel=document.createElement("select"),refresh=document.createElement("button"),load=document.createElement("button");sel.id="idbMemorySelect";refresh.id="refreshHTML_DB";load.id="loadHTML_DB";sel.innerHTML="<option value=''>ذاكرات IndexedDB...</option>";refresh.textContent="Refresh IndexedDB TM";load.textContent="Load IndexedDB TM";load.style.background="#2563eb";load.style.color="#fff";load.style.borderColor="#2563eb";refresh.style.background="#f8fafc";function ins(el){(after&&after.parentNode?after.parentNode:side).insertBefore(el,after?after.nextSibling:null)}ins(load);ins(refresh);ins(sel);var DB_NAME="CAT_TM_INDEXEDDB",DB_VER=1;function msg(x){if(status)status.textContent=x}function prog(a,b){if(fill)fill.style.width=(b?Math.round(a/b*100):0)+"%"}function openDB(){return new Promise(function(res,rej){if(!window.indexedDB){rej(new Error("IndexedDB غير مدعوم في هذا المتصفح."));return}var r=indexedDB.open(DB_NAME,DB_VER);r.onupgradeneeded=function(e){var db=e.target.result,seg,mem;if(!db.objectStoreNames.contains("segments")){seg=db.createObjectStore("segments",{keyPath:"id",autoIncrement:true});seg.createIndex("memoryName","memoryName",{unique:false});seg.createIndex("arNorm","arNorm",{unique:false});seg.createIndex("enNorm","enNorm",{unique:false});seg.createIndex("arCompact","arCompact",{unique:false});seg.createIndex("enCompact","enCompact",{unique:false});seg.createIndex("createdAt","createdAt",{unique:false})}if(!db.objectStoreNames.contains("memories")){mem=db.createObjectStore("memories",{keyPath:"name"});mem.createIndex("importedAt","importedAt",{unique:false})}};r.onsuccess=function(){res(r.result)};r.onerror=function(){rej(r.error||new Error("تعذر فتح IndexedDB"))}})}function getAllMemories(db){return new Promise(function(res,rej){var tx=db.transaction("memories","readonly"),st=tx.objectStore("memories"),req=st.getAll();req.onsuccess=function(){res(req.result||[])};req.onerror=function(){rej(req.error||new Error("تعذر قراءة قائمة الذواكر"))}})}function loadSegmentsToAPP(db,name){return new Promise(function(res,rej){resetMemory();APP.stop=false;var count=0,tx=db.transaction("segments","readonly"),st=tx.objectStore("segments"),idx=st.index("memoryName"),req=idx.openCursor(IDBKeyRange.only(name));req.onsuccess=function(e){var c=e.target.result;if(!c){APP.built=APP.tus.length>0;res(count);return}var x=c.value||{};addTU(x.ar||"",x.en||"",x.rowNo||-1,"indexeddb-html");count++;if(count%500===0){msg("جاري تحميل ذاكرة IndexedDB: "+asc(count)+" زوج...");prog(Math.min(count,5000),5000)}c.continue()};req.onerror=function(){rej(req.error||new Error("تعذر تحميل الذاكرة من IndexedDB"))}})}async function refreshList(){try{msg("جاري قراءة ذواكر IndexedDB...");var db=await openDB(),arr=await getAllMemories(db);db.close();arr.sort(function(a,b){return(b.importedAt||0)-(a.importedAt||0)});sel.innerHTML="<option value=''>اختر ذاكرة IndexedDB...</option>"+arr.map(function(m){return"<option value='"+esc(m.name)+"'>"+esc(m.name)+" — "+asc(m.count||0)+" زوج</option>"}).join("");msg(arr.length?"تم العثور على "+asc(arr.length)+" ذاكرة IndexedDB.":"لا توجد ذاكرة محفوظة في IndexedDB بعد.")}catch(e){msg("فشل قراءة IndexedDB: "+(e&&e.message?e.message:e))}}refresh.onclick=refreshList;load.onclick=async function(){var name=sel.value;if(!name){msg("اختر ذاكرة IndexedDB أولًا.");return}try{msg("جاري تحميل الذاكرة إلى APP.tus...");prog(0,100);var db=await openDB(),n=await loadSegmentsToAPP(db,name);db.close();prog(100,100);msg("تم تحميل ذاكرة IndexedDB: "+asc(n)+" زوج ترجمي — يمكنك الآن الضغط على تحليل النص.")}catch(e){msg("فشل تحميل ذاكرة IndexedDB: "+(e&&e.message?e.message:e))}};refreshList()},900)}); ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;if(!s||s.getElementById("saveEdited_DB"))return;var side=s.querySelector(".side"),after=s.getElementById("loadHTML_DB")||s.getElementById("saveProject")||s.getElementById("copy"),status=s.getElementById("status"),fill=s.getElementById("fill");if(!side)return;var btn=document.createElement("button");btn.id="saveEdited_DB";btn.textContent="Save Edited TM → IndexedDB";btn.style.background="#7c3aed";btn.style.color="#fff";btn.style.borderColor="#7c3aed";(after&&after.parentNode?after.parentNode:side).insertBefore(btn,after?after.nextSibling:null);var DB_NAME="CAT_TM_INDEXEDDB",DB_VER=1,USER_MEMORY="User_Edited_TM";function msg(x){if(status)status.textContent=x}function prog(a,b){if(fill)fill.style.width=(b?Math.round(a/b*100):0)+"%"}function openDB(){return new Promise(function(res,rej){if(!window.indexedDB){rej(new Error("IndexedDB غير مدعوم في هذا المتصفح."));return}var r=indexedDB.open(DB_NAME,DB_VER);r.onupgradeneeded=function(e){var db=e.target.result,seg,mem;if(!db.objectStoreNames.contains("segments")){seg=db.createObjectStore("segments",{keyPath:"id",autoIncrement:true});seg.createIndex("memoryName","memoryName",{unique:false});seg.createIndex("arNorm","arNorm",{unique:false});seg.createIndex("enNorm","enNorm",{unique:false});seg.createIndex("arCompact","arCompact",{unique:false});seg.createIndex("enCompact","enCompact",{unique:false});seg.createIndex("createdAt","createdAt",{unique:false})}if(!db.objectStoreNames.contains("memories")){mem=db.createObjectStore("memories",{keyPath:"name"});mem.createIndex("importedAt","importedAt",{unique:false})}};r.onsuccess=function(){res(r.result)};r.onerror=function(){rej(r.error||new Error("تعذر فتح IndexedDB"))}})}function done(tx){return new Promise(function(res,rej){tx.oncomplete=function(){res()};tx.onerror=function(){rej(tx.error||new Error("IndexedDB transaction error"))};tx.onabort=function(){rej(tx.error||new Error("IndexedDB transaction aborted"))}})}function syncTargetsFromUI(){var boxes=Array.prototype.slice.call(s.querySelectorAll(".targetDraft"));boxes.forEach(function(b){var i=+b.getAttribute("data-i");if(APP.results&&APP.results[i])APP.results[i].target=b.value||""})}function makeRecords(){syncTargetsFromUI();var now=Date.now(),seen=Object.create(null),out=[];(APP.results||[]).forEach(function(r,i){var src=flat(r&&r.segment&&r.segment.text),trg=flat(r&&r.target);if(!src||!trg)return;var ar="",en="";if(hasAr(src)&&hasEn(trg)){ar=src;en=trg}else if(hasEn(src)&&hasAr(trg)){ar=trg;en=src}else{return}var k=loose(ar).slice(0,900)+"|"+loose(en).slice(0,900);if(seen[k])return;seen[k]=1;out.push({memoryName:USER_MEMORY,ar:ar,en:en,arNorm:loose(ar),enNorm:loose(en),arCompact:compactText(ar),enCompact:compactText(en),rowNo:-1,createdAt:now,updatedAt:now,score:+(r.score||0),status:r.status||"Edited",source:"user-edited-result",resultNo:i+1})});return out}function existingKeys(db,name){return new Promise(function(res,rej){var set=Object.create(null),n=0,tx=db.transaction("segments","readonly"),st=tx.objectStore("segments"),idx=st.index("memoryName"),req=idx.openCursor(IDBKeyRange.only(name));req.onsuccess=function(e){var c=e.target.result;if(!c){res({set:set,count:n});return}var x=c.value||{},k=loose(x.ar||"").slice(0,900)+"|"+loose(x.en||"").slice(0,900);if(k&&!set[k]){set[k]=1;n++}c.continue()};req.onerror=function(){rej(req.error||new Error("تعذر قراءة الذاكرة السابقة"))}})}async function saveRecords(db,records){var old=await existingKeys(db,USER_MEMORY),fresh=records.filter(function(x){var k=loose(x.ar||"").slice(0,900)+"|"+loose(x.en||"").slice(0,900);return k&&!old.set[k]});if(!fresh.length)return{added:0,total:old.count};var tx=db.transaction(["segments","memories"],"readwrite"),seg=tx.objectStore("segments"),mem=tx.objectStore("memories");fresh.forEach(function(x){seg.add(x)});mem.put({name:USER_MEMORY,fileName:"User edited translations",count:old.count+fresh.length,importedAt:Date.now(),updatedAt:Date.now(),type:"user-edited-results"});await done(tx);return{added:fresh.length,total:old.count+fresh.length}}btn.onclick=async function(){try{if(!APP.results||!APP.results.length){msg("لا توجد نتائج لحفظها. حلّل نصًا أولًا ثم عدّل Target Draft.");return}msg("جاري حفظ الترجمات المعدّلة في IndexedDB...");prog(15,100);var records=makeRecords();if(!records.length){msg("لم أجد أزواجًا صالحة للحفظ: يجب وجود عربي مقابل إنجليزي في Target Draft.");prog(0,0);return}prog(45,100);var db=await openDB(),r=await saveRecords(db,records);db.close();records.forEach(function(x){addTU(x.ar,x.en,-2,"indexeddb-user-edited")});APP.built=APP.tus.length>0;prog(100,100);msg("تم حفظ الترجمات في IndexedDB — المضافة: "+asc(r.added)+" — إجمالي ذاكرة User_Edited_TM: "+asc(r.total))}catch(e){msg("فشل حفظ الترجمات في IndexedDB: "+(e&&e.message?e.message:e))}}},1100)}); ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId),s=h&&h.shadowRoot;if(!s||s.getElementById("focusModeBtn"))return;var panel=s.getElementById("panel"),tools=s.querySelector(".topTools"),src=s.getElementById("toggleSourceIcon"),status=s.getElementById("status");if(!panel||!tools)return;var st=document.createElement("style");st.id="catFocusModeStyle";st.textContent=".panel.focusMode .side{display:none!important}.panel.focusMode .body{grid-template-columns:minmax(0,1fr)!important;gap:0!important;padding:12px!important}.panel.focusMode .mainbox{grid-column:1/-1!important;width:100%!important}.panel.focusMode .tablewrap{flex:1 1 auto!important;min-height:0!important}.panel.focusMode table{width:100%!important}.panel.focusMode .src{width:28%!important}.panel.focusMode .best{width:30%!important}.panel.focusMode .target{width:32%!important}#focusModeBtn{background:#111827;color:#fff;border-color:#111827}#focusModeBtn.on{background:#7c3aed!important;color:#fff!important;border-color:#7c3aed!important}";s.appendChild(st);var b=document.createElement("button");b.id="focusModeBtn";b.className="iconBtn";b.textContent="Focus";b.title="إخفاء الأيقونات اليمنى وتوسيع لوحة النتائج";b.onclick=function(){var on=panel.classList.toggle("focusMode");b.classList.toggle("on",on);b.textContent=on?"Exit":"Focus";if(status)status.textContent=on?"تم تفعيل Focus: تم إخفاء الأيقونات اليمنى وتوسيع لوحة النتائج.":"تم إلغاء Focus: عادت الأيقونات اليمنى."};if(src&&src.parentNode)src.parentNode.insertBefore(b,src.nextSibling);else tools.appendChild(b)},700)});/* =========================================================
-   V47 SMART MERGE / SPLIT PATCH
-   - يبقي مبدأ V47: الخلية الأصلية = Segment مستقل
-   - يضيف نوافذ دمج محدودة للخلايا المتجاورة في الذاكرة
-   - يضيف Split fallback عند كون المصدر كتلة واحدة والذاكرة مقسمة
-   - لا يستخدم شبكة ولا API
+   V47 LIGHT SMART MERGE / SPLIT PATCH
+   - لا يبطئ تحميل الذاكرة
+   - لا يضيف TUs أثناء Build أو Load IndexedDB
+   - يعمل فقط أثناء Analyze
+   - يحاول دمج الخلايا السابقة واللاحقة عند الحاجة
 ========================================================= */
-(function installV47SmartMergeSplitPatch() {
-  if (APP.__smartMergeSplitPatchInstalled) return;
-  APP.__smartMergeSplitPatchInstalled = true;
+(function installV47LightSmartMergeSplitPatch() {
+  if (APP.__lightSmartMergeSplitInstalled) return;
+  APP.__lightSmartMergeSplitInstalled = true;
 
-  APP.config.smartMergeSplit = true;
+  /*
+    هذا السطر مهم جدًا:
+    يعطّل كود Merge القديم الثقيل إذا كان ما زال موجودًا فوق هذا الكود.
+  */
+  APP.config.smartMergeSplit = false;
 
-  /* ارفع maxMergeWindow إلى 5 فقط إذا كانت الذاكرة منظمة جدًا.
-     القيمة 4 متوازنة بين الدقة والسرعة. */
-  APP.config.maxMergeWindow = 4;
+  APP.config.lightSmartMerge = true;
+  APP.config.lightMaxMergeWindow = 4;
+  APP.config.lightMaxMergeChars = 3000;
+  APP.config.lightMaxRowGap = 3;
+  APP.config.lightSeedLimit = 45;
 
-  /* أقصى حجم للنص المدمج حتى لا يثقل البحث */
-  APP.config.maxMergeChars = 2800;
+  APP.config.lightSplitMinLength = 120;
+  APP.config.lightSplitMinPartLen = 25;
+  APP.config.lightSplitMaxParts = 10;
+  APP.config.lightSplitAcceptScore = 72;
+  APP.config.lightSplitCoverage = 0.68;
 
-  /* أقصى فرق صفوف مسموح بين الخلايا المتجاورة */
-  APP.config.maxMergeRowGap = 3;
+  APP._lightMergeCache = null;
+  APP._lightMergeCacheLen = -1;
 
-  /* إعدادات Split fallback */
-  APP.config.maxSplitUnits = 10;
-  APP.config.splitMinPartLen = 25;
-  APP.config.splitAcceptScore = 72;
-  APP.config.splitMinCoverage = 0.68;
+  var __baseSearchOne = searchOne;
 
-  APP._smartMergeBase = [];
-  APP._smartMergeStats = { windows: 0, splitHits: 0 };
-
-  var __catResetMemory = resetMemory;
-  var __catAddTU = addTU;
-  var __catSearchOne = searchOne;
-
-  function isSmartMode(mode) {
-    return /smart-merge-window|smart-split-source|smart-context/i.test(String(mode || ""));
+  function isOldSmartTU(tu) {
+    return /smart-merge-window|smart-split-source|smart-context/i.test(String(tu && tu.mode || ""));
   }
 
-  function rowOk(a, b) {
-    if (!a || !b) return false;
-    if (a.row < 0 || b.row < 0) return false;
-    if (b.row < a.row) return false;
-    return Math.abs(b.row - a.row) <= (+APP.config.maxMergeRowGap || 3);
+  function getSourceProfile(tu, l) {
+    return l === "ar" ? tu.arP : tu.enP;
   }
 
-  function createBackwardMergeWindows() {
-    if (!APP.config.smartMergeSplit) return;
+  function getSourceText(tu, l) {
+    return l === "ar" ? tu.ar : tu.en;
+  }
 
-    var base = APP._smartMergeBase || [];
-    var end = base.length - 1;
-    if (end < 1) return;
+  function getTargetText(tu, l) {
+    return l === "ar" ? tu.en : tu.ar;
+  }
 
-    var maxWin = Math.max(2, Math.min(+APP.config.maxMergeWindow || 4, 6));
-    var maxChars = +APP.config.maxMergeChars || 2800;
+  function buildLightCache() {
+    if (APP._lightMergeCache && APP._lightMergeCacheLen === APP.tus.length) {
+      return APP._lightMergeCache;
+    }
 
-    for (var w = 2; w <= maxWin; w++) {
-      var start = end - w + 1;
-      if (start < 0) break;
+    var rows = Object.create(null);
+    var rowNums = [];
 
-      var arr = base.slice(start, end + 1);
-      var ok = true;
+    APP.tus.forEach(function (tu) {
+      if (!tu || tu.row < 0) return;
+      if (isOldSmartTU(tu)) return;
 
-      for (var i = 1; i < arr.length; i++) {
-        if (!rowOk(arr[i - 1], arr[i])) {
-          ok = false;
-          break;
-        }
+      var rn = +tu.row;
+      if (!rows[rn]) {
+        rows[rn] = {
+          row: rn,
+          tus: [],
+          arParts: [],
+          enParts: []
+        };
+        rowNums.push(rn);
       }
 
-      if (!ok) break;
-
-      var ar = flat(arr.map(function (x) { return x.ar; }).join(" "));
-      var en = flat(arr.map(function (x) { return x.en; }).join(" "));
-
-      if (!ar || !en) continue;
-      if (ar.length > maxChars || en.length > maxChars) continue;
-      if (ar.length < 8 || en.length < 8) continue;
-
-      var before = APP.tus.length;
-
-      __catAddTU(
-        ar,
-        en,
-        arr[0].row,
-        "smart-merge-window-" + w +
-        " rows " + asc((arr[0].row || 0) + 1) +
-        "-" + asc((arr[arr.length - 1].row || 0) + 1)
-      );
-
-      if (APP.tus.length > before) APP._smartMergeStats.windows++;
-    }
-  }
-
-  resetMemory = function () {
-    __catResetMemory();
-    APP._smartMergeBase = [];
-    APP._smartMergeStats = { windows: 0, splitHits: 0 };
-  };
-
-  addTU = function (arText, enText, rowNo, mode) {
-    var before = APP.tus.length;
-
-    __catAddTU(arText, enText, rowNo, mode);
-
-    if (APP.tus.length <= before) return;
-    if (!APP.config.smartMergeSplit) return;
-    if (isSmartMode(mode)) return;
-
-    var tu = APP.tus[APP.tus.length - 1];
-    if (!tu || tu.row < 0) return;
-
-    APP._smartMergeBase.push({
-      id: tu.id,
-      ar: tu.ar,
-      en: tu.en,
-      row: tu.row,
-      mode: tu.mode || ""
+      rows[rn].tus.push(tu);
+      if (tu.ar) rows[rn].arParts.push(tu.ar);
+      if (tu.en) rows[rn].enParts.push(tu.en);
     });
 
-    /* نحتفظ بآخر 40 وحدة فقط لصناعة نوافذ الدمج، منعًا لتضخم الذاكرة */
-    if (APP._smartMergeBase.length > 40) {
-      APP._smartMergeBase = APP._smartMergeBase.slice(-40);
+    rowNums.sort(function (a, b) { return a - b; });
+
+    var list = rowNums.map(function (rn) {
+      var r = rows[rn];
+      r.arText = uniqText(r.arParts, 30).join(" ");
+      r.enText = uniqText(r.enParts, 30).join(" ");
+      return r;
+    });
+
+    var pos = Object.create(null);
+    list.forEach(function (r, i) {
+      pos[r.row] = i;
+    });
+
+    APP._lightMergeCache = {
+      rows: rows,
+      list: list,
+      pos: pos
+    };
+
+    APP._lightMergeCacheLen = APP.tus.length;
+    return APP._lightMergeCache;
+  }
+
+  function makeWindowFromList(list, start, size) {
+    if (start < 0 || start + size > list.length) return null;
+
+    var maxGap = +APP.config.lightMaxRowGap || 3;
+    var maxChars = +APP.config.lightMaxMergeChars || 3000;
+    var arr = list.slice(start, start + size);
+
+    for (var i = 1; i < arr.length; i++) {
+      if (arr[i].row - arr[i - 1].row > maxGap) return null;
     }
 
-    createBackwardMergeWindows();
-  };
+    var ar = flat(arr.map(function (x) { return x.arText || ""; }).join(" "));
+    var en = flat(arr.map(function (x) { return x.enText || ""; }).join(" "));
 
-  function splitSoftSmart(text, l) {
+    if (!ar || !en) return null;
+    if (ar.length > maxChars || en.length > maxChars) return null;
+
+    return {
+      ar: ar,
+      en: en,
+      startRow: arr[0].row,
+      endRow: arr[arr.length - 1].row,
+      size: size
+    };
+  }
+
+  function getSeedRows(q, l) {
+    var ids = candidates(q, l);
+    var seenRows = Object.create(null);
+    var seeds = [];
+
+    for (var i = 0; i < ids.length; i++) {
+      var tu = APP.tus[ids[i]];
+      if (!tu || tu.row < 0) continue;
+      if (isOldSmartTU(tu)) continue;
+
+      var p = getSourceProfile(tu, l);
+      if (!p) continue;
+
+      var sc = scoreProfiles(q, p);
+
+      /*
+        نسمح بدرجة منخفضة نسبيًا هنا لأن الخلية قد تكون جزءًا فقط من فقرة المصدر.
+        التقييم الحقيقي سيكون على النافذة المدمجة لاحقًا.
+      */
+      if (sc < 25 && !isStrongContained(p, q) && !isStrongContained(q, p)) continue;
+
+      if (!seenRows[tu.row]) {
+        seenRows[tu.row] = 1;
+        seeds.push({
+          row: tu.row,
+          score: sc
+        });
+      }
+
+      if (seeds.length >= (+APP.config.lightSeedLimit || 45)) break;
+    }
+
+    seeds.sort(function (a, b) { return b.score - a.score; });
+    return seeds;
+  }
+
+  function searchLightMerge(seg, l, currentBest) {
+    if (!APP.config.lightSmartMerge) return null;
+
+    seg = flat(seg);
+    if (!seg || seg.length < 25) return null;
+
+    var q = profile(seg, l);
+    if (!q || !q.nl) return null;
+
+    var cache = buildLightCache();
+    var list = cache.list;
+    var pos = cache.pos;
+
+    if (!list.length) return null;
+
+    var seeds = getSeedRows(q, l);
+    if (!seeds.length) return null;
+
+    var maxWin = Math.max(2, Math.min(+APP.config.lightMaxMergeWindow || 4, 6));
+    var best = null;
+
+    seeds.forEach(function (seed) {
+      var basePos = pos[seed.row];
+      if (typeof basePos !== "number") return;
+
+      for (var size = 2; size <= maxWin; size++) {
+        for (var back = 0; back < size; back++) {
+          var start = basePos - back;
+          var win = makeWindowFromList(list, start, size);
+          if (!win) continue;
+
+          var src = l === "ar" ? win.ar : win.en;
+          var trg = l === "ar" ? win.en : win.ar;
+
+          if (!src || !trg) continue;
+
+          var wp = profile(src, l);
+          var kind = exactKind(q, wp);
+          var sc = kind ? 100 : scoreProfiles(q, wp);
+
+          if (!sameNumbers(seg, src)) {
+            sc = Math.min(sc, 82);
+          }
+
+          if (sc < 65) continue;
+
+          if (!best || sc > best.score) {
+            best = {
+              score: sc,
+              source: src,
+              target: trg,
+              targetLang: l === "ar" ? "en" : "ar",
+              status: statusFrom(sc, trg, "light-merge-window"),
+              mode:
+                "light-merge-window-" + size +
+                " | rows " + asc(win.startRow + 1) +
+                "-" + asc(win.endRow + 1) +
+                (kind ? " | " + kind : ""),
+              row: win.startRow
+            };
+          }
+        }
+      }
+    });
+
+    if (!best) return null;
+
+    if (currentBest && (+currentBest.score || 0) >= best.score) {
+      return null;
+    }
+
+    return best;
+  }
+
+  function splitSoftLite(text) {
     text = flat(text);
-    if (!text || text.length < 120) return [];
+    if (!text || text.length < (+APP.config.lightSplitMinLength || 120)) return [];
 
-    var minLen = +APP.config.splitMinPartLen || 25;
-    var maxUnits = +APP.config.maxSplitUnits || 10;
-    var out = [];
+    var minLen = +APP.config.lightSplitMinPartLen || 25;
+    var maxParts = +APP.config.lightSplitMaxParts || 10;
+    var parts = [];
+    var st = 0;
 
-    function pushPart(x) {
+    function push(x) {
       x = flat(x);
       if (!x) return;
 
-      if (x.length < minLen && out.length) {
-        out[out.length - 1] = flat(out[out.length - 1] + " " + x);
+      if (x.length < minLen && parts.length) {
+        parts[parts.length - 1] = flat(parts[parts.length - 1] + " " + x);
       } else {
-        out.push(x);
+        parts.push(x);
       }
     }
 
-    /* تقسيم قوي عند نهايات الجمل */
-    var hard = [];
-    var st = 0;
-
     for (var i = 0; i < text.length; i++) {
       var ch = text[i];
+
       var end =
         ch === "." ||
         ch === "!" ||
@@ -1471,62 +1578,52 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
         ch === ";";
 
       if (!end) continue;
-      if (ch === "." && /[0-9]/.test(text[i - 1] || "") && /[0-9]/.test(text[i + 1] || "")) continue;
 
-      var p = flat(text.slice(st, i + 1));
-      if (p) hard.push(p);
+      if (
+        ch === "." &&
+        /[0-9]/.test(text[i - 1] || "") &&
+        /[0-9]/.test(text[i + 1] || "")
+      ) {
+        continue;
+      }
+
+      push(text.slice(st, i + 1));
       st = i + 1;
     }
 
-    var tail = flat(text.slice(st));
-    if (tail) hard.push(tail);
+    push(text.slice(st));
 
-    if (hard.length < 2) {
-      hard = text
+    if (parts.length < 2) {
+      parts = text
         .split(/\s*(?:،|,|\u061B|;|\s-\s)\s*/g)
         .map(flat)
-        .filter(function (x) { return x && x.length >= minLen; });
+        .filter(function (x) {
+          return x && x.length >= minLen;
+        });
     }
 
-    hard.forEach(function (p) {
-      if (p.length <= 360) {
-        pushPart(p);
-        return;
-      }
+    parts = uniqText(parts, maxParts);
 
-      var chunks = p.split(/\s*(?:،|,|:)\s*/g).map(flat).filter(Boolean);
-      if (chunks.length > 1) {
-        chunks.forEach(pushPart);
-      } else {
-        pushPart(p);
-      }
-    });
-
-    out = uniqText(out, maxUnits);
-
-    if (out.length < 2) return [];
-
-    return out;
+    if (parts.length < 2) return [];
+    return parts;
   }
 
-  function searchSplitThenMerge(seg, l, currentBest) {
-    if (!APP.config.smartMergeSplit) return null;
-
+  function searchLightSplit(seg, l, currentBest) {
     seg = flat(seg);
-    if (!seg || seg.length < 120) return null;
+    if (!seg || seg.length < (+APP.config.lightSplitMinLength || 120)) return null;
 
-    var parts = splitSoftSmart(seg, l);
+    var parts = splitSoftLite(seg);
     if (parts.length < 2) return null;
 
-    var acceptScore = +APP.config.splitAcceptScore || 72;
-    var minCoverage = +APP.config.splitMinCoverage || 0.68;
+    var acceptScore = +APP.config.lightSplitAcceptScore || 72;
+    var minCoverage = +APP.config.lightSplitCoverage || 0.68;
 
     var hits = [];
     var totalLen = 0;
     var coveredLen = 0;
     var scoreSum = 0;
-    var fail = 0;
-    var maxFail = Math.max(1, Math.floor(parts.length * 0.34));
+    var fails = 0;
+    var maxFails = Math.max(1, Math.floor(parts.length * 0.34));
 
     for (var i = 0; i < parts.length; i++) {
       if (APP.stop) return null;
@@ -1535,7 +1632,7 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
       var partLen = loose(part).length || part.length;
       totalLen += partLen;
 
-      var h = __catSearchOne(part, l);
+      var h = __baseSearchOne(part, l);
 
       if (h && flat(h.target || "") && (+h.score || 0) >= acceptScore) {
         hits.push({
@@ -1543,11 +1640,12 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
           hit: h,
           len: partLen
         });
+
         coveredLen += partLen;
         scoreSum += (+h.score || 0);
       } else {
-        fail++;
-        if (fail > maxFail) return null;
+        fails++;
+        if (fails > maxFails) return null;
       }
     }
 
@@ -1556,60 +1654,75 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     var coverage = totalLen ? coveredLen / totalLen : 0;
     if (coverage < minCoverage) return null;
 
-    var targetLang = l === "ar" ? "en" : "ar";
-
-    var target = hits.map(function (x) {
-      return flat(x.hit.target || "");
-    }).filter(Boolean).join("\n");
-
-    var sourceFound = hits.map(function (x) {
-      return flat(x.hit.source || "");
-    }).filter(Boolean).join(" ");
+    var target = hits
+      .map(function (x) { return flat(x.hit.target || ""); })
+      .filter(Boolean)
+      .join("\n");
 
     if (!target) return null;
 
+    var sourceFound = hits
+      .map(function (x) { return flat(x.hit.source || ""); })
+      .filter(Boolean)
+      .join(" ");
+
     var avg = hits.length ? Math.round(scoreSum / hits.length) : 0;
 
-    /* لا نعطي Confirmed في split fallback حتى لا نعتمد ترجمة مركبة تلقائيًا دون مراجعة */
+    /*
+      لا نعطي Confirmed هنا؛ لأن النتيجة مركبة من أكثر من جزء.
+    */
     var score = Math.max(65, Math.min(94, Math.round(avg * coverage)));
 
-    if (currentBest && (+currentBest.score || 0) >= score) return null;
+    if (currentBest && (+currentBest.score || 0) >= score) {
+      return null;
+    }
 
-    APP._smartMergeStats.splitHits++;
-
-    var rows = hits.map(function (x) {
-      return typeof x.hit.row === "number" ? x.hit.row : -1;
-    }).filter(function (x) { return x >= 0; });
+    var rows = hits
+      .map(function (x) {
+        return typeof x.hit.row === "number" ? x.hit.row : -1;
+      })
+      .filter(function (x) {
+        return x >= 0;
+      });
 
     var minRow = rows.length ? Math.min.apply(Math, rows) : -1;
     var maxRow = rows.length ? Math.max.apply(Math, rows) : -1;
-
-    var mode =
-      "smart-split-source→merge-target | parts " +
-      asc(hits.length) + "/" + asc(parts.length) +
-      " | coverage " + asc(Math.round(coverage * 100)) + "%" +
-      (minRow >= 0 ? " | rows " + asc(minRow + 1) + "-" + asc(maxRow + 1) : "");
 
     return {
       score: score,
       source: sourceFound,
       target: target,
-      targetLang: targetLang,
-      status: statusFrom(score, target, mode),
-      mode: mode,
+      targetLang: l === "ar" ? "en" : "ar",
+      status: statusFrom(score, target, "light-split-source"),
+      mode:
+        "light-split-source→merge-target | parts " +
+        asc(hits.length) +
+        "/" +
+        asc(parts.length) +
+        " | coverage " +
+        asc(Math.round(coverage * 100)) +
+        "%" +
+        (minRow >= 0
+          ? " | rows " + asc(minRow + 1) + "-" + asc(maxRow + 1)
+          : ""),
       row: minRow
     };
   }
 
   searchOne = function (seg, l) {
-    var direct = __catSearchOne(seg, l);
+    var direct = __baseSearchOne(seg, l);
 
-    /* إذا وجد تطابق قوي جدًا، لا نثقل البحث */
     if (direct && (+direct.score || 0) >= 95 && flat(direct.target || "")) {
       return direct;
     }
 
-    var split = searchSplitThenMerge(seg, l, direct);
+    var merged = searchLightMerge(seg, l, direct);
+
+    if (merged && (!direct || (+merged.score || 0) > (+direct.score || 0))) {
+      return merged;
+    }
+
+    var split = searchLightSplit(seg, l, direct);
 
     if (split && (!direct || (+split.score || 0) > (+direct.score || 0))) {
       return split;
