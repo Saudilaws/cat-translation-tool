@@ -1733,18 +1733,18 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
 })();
 
 /* =========================================================
-   ADD-ON: Professional Concordance Upgrade
+   ADD-ON: Professional Concordance Upgrade V2
+   - Uses the same document-title extraction logic used in the KWIC search panel
    - Exact / Fuzzy mode
    - 3-row concordance table per hit
    - Context-side highlighting
-   - Arabic / English document-title detection by blank separator row
+   - Auto-clears concordance results when the concordance query is cleared
 ========================================================= */
-(function installProfessionalConcordanceUpgrade() {
-  if (APP.__professionalConcordanceUpgradeInstalled) return;
-  APP.__professionalConcordanceUpgradeInstalled = true;
+(function installProfessionalConcordanceUpgradeV2() {
   APP.concordanceMode = APP.concordanceMode || "fuzzy";
   APP.docTitleByRow = APP.docTitleByRow || [];
   APP._docRows = APP._docRows || [];
+  APP._docTitleCacheByElement = APP._docTitleCacheByElement || new WeakMap();
 
   function canonExact(s) {
     return asc(String(s || ""))
@@ -1765,6 +1765,10 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
 
   function rowText(row) {
     return flat(row ? row.textContent || "" : "");
+  }
+
+  function elementText(el) {
+    return flat(el ? el.textContent || "" : "");
   }
 
   function uniqueJoin(arr) {
@@ -1790,24 +1794,109 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     return parts;
   }
 
-  function parseDocTitleRow(row) {
-    var cells = rowCells(row);
+  function parseDocTitleElement(el) {
     var ar = [];
     var en = [];
-    cells.forEach(function (cell) {
-      splitMixedTitleText(cell.textContent || "").forEach(function (tx) {
+    if (!el) return { ar: "", en: "", raw: "" };
+
+    if (el.matches && el.matches("tr")) {
+      var cells = rowCells(el);
+      if (cells.length) {
+        var first = elementText(cells[0]);
+        var last = elementText(cells[cells.length - 1]);
+        var firstIsAr = hasAr(first);
+        var lastIsAr = hasAr(last);
+        if (firstIsAr || lastIsAr) {
+          if (firstIsAr) {
+            ar.push(first);
+            if (last && hasEn(last)) en.push(last);
+          } else {
+            ar.push(last);
+            if (first && hasEn(first)) en.push(first);
+          }
+        }
+      }
+      cells.forEach(function (cell) {
+        splitMixedTitleText(cell.textContent || "").forEach(function (tx) {
+          if (!tx) return;
+          if (hasAr(tx)) ar.push(tx);
+          if (hasEn(tx)) en.push(tx);
+        });
+      });
+    } else {
+      var children = Array.prototype.slice.call(el.children || []);
+      if (children.length >= 2) {
+        var a = elementText(children[0]);
+        var b = elementText(children[1]);
+        if (hasAr(a)) { ar.push(a); if (hasEn(b)) en.push(b); }
+        else if (hasAr(b)) { ar.push(b); if (hasEn(a)) en.push(a); }
+      }
+      splitMixedTitleText(elementText(el)).forEach(function (tx) {
         if (!tx) return;
         if (hasAr(tx)) ar.push(tx);
         if (hasEn(tx)) en.push(tx);
       });
-    });
-    if (!ar.length && hasAr(rowText(row))) ar.push(rowText(row));
-    if (!en.length && hasEn(rowText(row))) en.push(rowText(row));
+    }
+
+    var raw = elementText(el);
+    if (!ar.length && hasAr(raw)) ar.push(raw);
+    if (!en.length && hasEn(raw)) en.push(raw);
     return {
       ar: uniqueJoin(ar).slice(0, 500),
       en: uniqueJoin(en).slice(0, 500),
-      raw: rowText(row).slice(0, 800)
+      raw: raw.slice(0, 800)
     };
+  }
+
+  /* Same idea as the KWIC panel title logic:
+     start from the result row, go upward until the visual separator / white gap,
+     then treat the row immediately below that separator as the document title row. */
+  function isHiddenOrSkippable(el) {
+    if (!el || el.nodeType !== 1) return true;
+    try {
+      var tag = String(el.tagName || "").toUpperCase();
+      if (tag === "SCRIPT" || tag === "STYLE" || tag === "NOSCRIPT") return true;
+      var st = window.getComputedStyle ? getComputedStyle(el) : null;
+      return !!(st && (st.display === "none" || st.visibility === "hidden"));
+    } catch (e) {
+      return false;
+    }
+  }
+
+  function previousVisibleSibling(el) {
+    var p = el ? el.previousElementSibling : null;
+    while (p && isHiddenOrSkippable(p)) p = p.previousElementSibling;
+    return p || null;
+  }
+
+  function visualGapBetween(current, prev) {
+    try {
+      if (!current || !prev || !current.getBoundingClientRect || !prev.getBoundingClientRect) return 0;
+      var a = current.getBoundingClientRect();
+      var b = prev.getBoundingClientRect();
+      return b.bottom >= a.top ? 0 : a.top - b.bottom;
+    } catch (e) {
+      return 0;
+    }
+  }
+
+  function isTitleContainerCandidate(el) {
+    return !!(el && el.nodeType === 1 && el.matches && el.matches("tr,div,section,article,p,li"));
+  }
+
+  function nearestTitleElementFrom(el) {
+    if (!el) return null;
+    var cur = (el.closest && (el.closest("tr") || el.closest("div,section,article,p,li"))) || el;
+    var prev = previousVisibleSibling(cur);
+    if (!prev) return isTitleContainerCandidate(cur) ? cur : (cur.parentElement || cur);
+
+    for (var guard = 0; cur && guard < 3000; guard++) {
+      prev = previousVisibleSibling(cur);
+      if (!prev) return isTitleContainerCandidate(cur) ? cur : (cur.parentElement || cur);
+      if (visualGapBetween(cur, prev) >= 16) return isTitleContainerCandidate(cur) ? cur : (cur.parentElement || cur);
+      cur = prev;
+    }
+    return null;
   }
 
   function isBlankOrSeparatorRow(row) {
@@ -1816,9 +1905,6 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     var tx = rowText(row);
     if (!cells.length) return true;
     if (!tx || canonExact(tx).length <= 1) return true;
-
-    /* A visual separator in converted Word/Excel HTML is often a short row
-       with very little text, wide/empty cells, or white filler cells. */
     var nonEmpty = 0;
     var empty = 0;
     cells.forEach(function (c) {
@@ -1854,26 +1940,27 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     var pendingTitleAt = -1;
 
     for (var i = 0; i < rows.length; i++) {
-      if (isBlankOrSeparatorRow(rows[i])) {
+      var titleFromGap = null;
+      var titleEl = nearestTitleElementFrom(rows[i]);
+      if (titleEl) titleFromGap = parseDocTitleElement(titleEl);
+
+      if (titleFromGap && (titleFromGap.ar || titleFromGap.en || titleFromGap.raw)) {
+        current = titleFromGap;
+      } else if (isBlankOrSeparatorRow(rows[i])) {
         var n = nextNonEmptyRow(rows, i + 1);
         if (n >= 0) pendingTitleAt = n;
-        map[i] = current;
-        continue;
-      }
-
-      if (pendingTitleAt === i) {
-        var t = parseDocTitleRow(rows[i]);
+      } else if (pendingTitleAt === i) {
+        var t = parseDocTitleElement(rows[i]);
         if (t.ar || t.en || t.raw) current = t;
         pendingTitleAt = -1;
       } else if ((!current.ar && !current.en) && looksLikeDocTitleRow(rows[i])) {
-        current = parseDocTitleRow(rows[i]);
+        current = parseDocTitleElement(rows[i]);
       } else if (looksLikeDocTitleRow(rows[i]) && rowCells(rows[i]).length <= 4) {
-        /* Fallback for files without a visible blank separator. */
-        var t2 = parseDocTitleRow(rows[i]);
+        var t2 = parseDocTitleElement(rows[i]);
         if (t2.ar || t2.en) current = t2;
       }
 
-      map[i] = current;
+      map[i] = current || { ar: "", en: "", raw: "" };
     }
     return map;
   }
@@ -1881,6 +1968,21 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
   function titleForRow(rowNo) {
     rowNo = +rowNo;
     if (!(rowNo >= 0)) return { ar: "", en: "", raw: "" };
+
+    var row = APP._docRows && APP._docRows[rowNo];
+    if (row) {
+      try {
+        var cached = APP._docTitleCacheByElement.get(row);
+        if (cached && (cached.ar || cached.en || cached.raw)) return cached;
+        var titleEl = nearestTitleElementFrom(row);
+        var direct = titleEl ? parseDocTitleElement(titleEl) : null;
+        if (direct && (direct.ar || direct.en || direct.raw)) {
+          APP._docTitleCacheByElement.set(row, direct);
+          return direct;
+        }
+      } catch (e) {}
+    }
+
     var t = APP.docTitleByRow && APP.docTitleByRow[rowNo];
     if (t && (t.ar || t.en || t.raw)) return t;
     if (APP._docRows && APP._docRows.length) {
@@ -1891,38 +1993,44 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     return { ar: "", en: "", raw: "" };
   }
 
-  var __baseResetMemoryForConcordance = resetMemory;
-  resetMemory = function () {
-    __baseResetMemoryForConcordance();
-    if (!APP._preserveDocTitleMap) {
-      APP.docTitleByRow = [];
-      APP._docRows = [];
-    }
-  };
+  if (!APP.__concordanceTitleHooksInstalled) {
+    APP.__concordanceTitleHooksInstalled = true;
 
-  var __baseBuildMemoryForConcordance = buildMemory;
-  buildMemory = function (ui) {
-    APP._docRows = getPageRows();
-    APP.docTitleByRow = buildDocTitleMap(APP._docRows);
-    APP._preserveDocTitleMap = true;
-    try {
-      return __baseBuildMemoryForConcordance(ui);
-    } finally {
-      APP._preserveDocTitleMap = false;
-    }
-  };
-
-  var __baseAddTUForConcordance = addTU;
-  addTU = function (arText, enText, rowNo, mode) {
-    var before = APP.tus.length;
-    __baseAddTUForConcordance(arText, enText, rowNo, mode);
-    if (APP.tus.length > before) {
-      var title = titleForRow(rowNo);
-      for (var i = before; i < APP.tus.length; i++) {
-        APP.tus[i].docTitle = title || { ar: "", en: "", raw: "" };
+    var __baseResetMemoryForConcordance = resetMemory;
+    resetMemory = function () {
+      __baseResetMemoryForConcordance();
+      if (!APP._preserveDocTitleMap) {
+        APP.docTitleByRow = [];
+        APP._docRows = [];
+        APP._docTitleCacheByElement = new WeakMap();
       }
-    }
-  };
+    };
+
+    var __baseBuildMemoryForConcordance = buildMemory;
+    buildMemory = function (ui) {
+      APP._docRows = getPageRows();
+      APP._docTitleCacheByElement = new WeakMap();
+      APP.docTitleByRow = buildDocTitleMap(APP._docRows);
+      APP._preserveDocTitleMap = true;
+      try {
+        return __baseBuildMemoryForConcordance(ui);
+      } finally {
+        APP._preserveDocTitleMap = false;
+      }
+    };
+
+    var __baseAddTUForConcordance = addTU;
+    addTU = function (arText, enText, rowNo, mode) {
+      var before = APP.tus.length;
+      __baseAddTUForConcordance(arText, enText, rowNo, mode);
+      if (APP.tus.length > before) {
+        var title = titleForRow(rowNo);
+        for (var i = before; i < APP.tus.length; i++) {
+          APP.tus[i].docTitle = title || { ar: "", en: "", raw: "" };
+        }
+      }
+    };
+  }
 
   function escapeRegExp(s) {
     return String(s || "").replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
@@ -1955,7 +2063,6 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     try {
       var re = new RegExp(pat, "gi");
       var safe = esc(text);
-      /* Highlight on escaped text by re-running against the original chunks. */
       var last = 0;
       var out = "";
       var m;
@@ -2015,8 +2122,8 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
       tr.className = "concordanceResultRow";
       var srcDir = r.segment.lang === "ar" ? "rtl" : "ltr";
       var tgtDir = r.targetLang === "ar" ? "rtl" : "ltr";
-      var srcLabel = r.segment.lang === "ar" ? "السياق العربي الذي وردت فيه الكلمة" : "English context containing the term";
-      var tgtLabel = r.targetLang === "ar" ? "الترجمة العربية المقابلة للسياق" : "English translation corresponding to the context";
+      var srcLabel = r.segment.lang === "ar" ? "السياق الذي وردت فيه الكلمة" : "Context containing the term";
+      var tgtLabel = r.targetLang === "ar" ? "الترجمة المقابلة للسياق" : "Translation corresponding to the context";
       tr.innerHTML =
         "<td colspan='6' class='concOuterCell'>" +
           "<div class='concCard'>" +
@@ -2034,8 +2141,19 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     res.appendChild(frag);
   }
 
+  function clearConcordanceResults(sh) {
+    var res = sh && sh.getElementById("res");
+    var status = sh && sh.getElementById("status");
+    if (!res) return;
+    APP.results = [];
+    res.innerHTML = "<tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>تم مسح نتائج Concordance.</td></tr>";
+    if (typeof updateStats === "function") updateStats();
+    if (status) status.textContent = "تم مسح نتائج Concordance.";
+  }
+
   function injectConcordanceCss(sh) {
-    if (sh.getElementById("catConcordanceUpgradeStyle")) return;
+    var old = sh.getElementById("catConcordanceUpgradeStyle");
+    if (old) old.remove();
     var st = document.createElement("style");
     st.id = "catConcordanceUpgradeStyle";
     st.textContent = [
@@ -2092,10 +2210,17 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     });
     refreshModeButtons();
 
+    if (!input.getAttribute("data-conc-autoclear")) {
+      input.setAttribute("data-conc-autoclear", "1");
+      input.addEventListener("input", function () {
+        if (!flat(input.value || "")) clearConcordanceResults(sh);
+      });
+    }
+
     btn.onclick = function () {
       var q = flat(input.value || "");
       if (!q) {
-        if (status) status.textContent = "اكتب كلمة أو عبارة للبحث في Concordance.";
+        clearConcordanceResults(sh);
         return;
       }
       if (!APP.tus || !APP.tus.length) {
@@ -2122,9 +2247,9 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
           targetLang: L === "ar" ? "en" : "ar",
           score: Math.max(sc, mode === "exact" ? 100 : 55),
           status: "Concordance",
-          mode: "concordance-" + mode,
+          mode: "concordance-kwic-title-logic-" + mode,
           sourceFound: srcFound,
-          docTitle: tu.docTitle || titleForRow(tu.row),
+          docTitle: titleForRow(tu.row) || tu.docTitle || { ar: "", en: "", raw: "" },
           row: tu.row
         });
       });
@@ -2134,6 +2259,7 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
       });
       APP.results = matches.slice(0, 120);
       renderConcordanceResults(sh, APP.results, q, mode);
+      if (typeof updateStats === "function") updateStats();
       if (status) status.textContent = "نتائج Concordance " + mode.toUpperCase() + ": " + asc(APP.results.length);
     };
   }
@@ -2976,11 +3102,10 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     setButtonHtml(sh.getElementById("build"), "<span>🧱</span><span>بناء الذاكرة</span>");
     setButtonHtml(sh.getElementById("analyze"), "<span>▶</span><span>تحليل النص</span>");
     setButtonHtml(sh.getElementById("acceptAll"), "<span>✓</span><span>اعتماد الأفضل</span>");
-    setButtonHtml(sh.getElementById("copy"), "<span>⧉</span><span>نسخ Target</span>");
     setButtonHtml(sh.getElementById("concordance"), "<span>⌕</span><span>Concordance</span>");
     setButtonHtml(sh.getElementById("clear"), "<span>⌫</span><span>مسح النتائج</span>");
 
-    ["build", "analyze", "acceptAll", "copy", "concordance", "concordQ", "clear"].forEach(function (id) {
+    ["build", "analyze", "acceptAll", "concordance", "concordQ", "clear"].forEach(function (id) {
       var el = sh.getElementById(id);
       var wide = id === "concordQ";
       moveEl(searchGrid, el, id === "concordQ" ? "" : "catBtnSearch", wide);
@@ -2988,6 +3113,8 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
 
     var finalBtn = ensureFinalExportButton(sh);
     moveEl(exportGrid, finalBtn, "catBtnExport", true);
+    setButtonHtml(sh.getElementById("copy"), "<span>⧉</span><span>نسخ Target</span>", "نسخ Target Draft باعتباره مخرجًا نهائيًا");
+    moveEl(exportGrid, sh.getElementById("copy"), "catBtnExport", false);
     setButtonHtml(sh.getElementById("exportTMX"), "<span>⇄</span><span>TMX</span>");
     setButtonHtml(sh.getElementById("exportXLIFF"), "<span>⇄</span><span>XLIFF</span>");
     setButtonHtml(sh.getElementById("report"), "<span>▤</span><span>HTML Report</span>");
