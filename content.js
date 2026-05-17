@@ -1794,7 +1794,16 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     return parts;
   }
 
-  /* Ported literally from the attached KWIC title logic: H/N behavior. */
+  /* =========================================================
+     Document title extraction for Concordance — exact whitespace logic
+     Required behavior:
+     - Start from the row where the searched word occurs.
+     - Go upward in the global list of HTML rows.
+     - Stop when the current row is the first non-empty row after a visible white gap,
+       a blank separator row, or a new table boundary.
+     - The stopped row is the document-title row; extract Arabic/English from first/last cells.
+  ========================================================= */
+
   function parseDocTitleElement(el) {
     var blank = { ar: "", en: "", raw: "" };
     if (!el) return blank;
@@ -1817,7 +1826,7 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     var children = Array.prototype.slice.call(el.children || []);
     if (children.length >= 2) {
       var a = elementText(children[0]);
-      var b = elementText(children[1]);
+      var b = elementText(children[children.length - 1]);
       var ar = hasAr(a) ? a : (hasAr(b) ? b : "");
       var en = hasAr(a) ? b : (hasAr(b) ? a : "");
       if (ar || en) {
@@ -1829,97 +1838,104 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
       }
     }
 
-    var next = el.nextElementSibling;
-    if (next && !isHiddenOrSkippable(next)) return parseDocTitleElement(next);
     return blank;
   }
 
-  /* Same exact N() idea from the attached KWIC code:
-     start at the matched row, walk upward sibling-by-sibling, and when the previous
-     sibling is visually separated by a white gap, the current row is the document title. */
-  function exactKwicTitleElementFrom(el) {
-    if (!el) return null;
-    var cur = (el.closest && (el.closest("tr") || el.closest("div,section,article") || el)) || el;
-    var prev = previousVisibleSibling(cur);
-    if (!prev) return isTitleContainerCandidate(cur) ? cur : (cur.parentElement || cur);
-
-    for (var guard = 3000; cur && guard--; ) {
-      prev = previousVisibleSibling(cur);
-      if (!prev) return isTitleContainerCandidate(cur) ? cur : (cur.parentElement || cur);
-      if (visualGapBetween(cur, prev) >= 16) return isTitleContainerCandidate(cur) ? cur : (cur.parentElement || cur);
-      cur = prev;
-    }
-    return null;
-  }
-
-  /* Kept for compatibility with older calls, but now it is exactly the attached KWIC logic. */
-  function nearestTitleElementFrom(el) {
-    return exactKwicTitleElementFrom(el);
+  function rowTable(row) {
+    return row && row.closest ? row.closest("table") : null;
   }
 
   function isBlankOrSeparatorRow(row) {
-    if (!row) return false;
+    if (!row) return true;
     var cells = rowCells(row);
-    var tx = rowText(row);
     if (!cells.length) return true;
-    if (!tx || canonExact(tx).length <= 1) return true;
     var nonEmpty = 0;
-    cells.forEach(function (c) { if (flat(c.textContent || "")) nonEmpty++; });
-    return nonEmpty === 0;
+    for (var i = 0; i < cells.length; i++) {
+      if (flat(cells[i].textContent || "")) nonEmpty++;
+    }
+    return nonEmpty === 0 || !flat(row.textContent || "");
   }
 
-  function looksLikeDocTitleRow(row) {
-    /* Do not filter titles anymore. The attached KWIC code does not use these extra heuristics. */
-    return !!row;
+  function safeRect(el) {
+    try { return el && el.getBoundingClientRect ? el.getBoundingClientRect() : null; } catch (e) { return null; }
   }
 
-  function nextNonEmptyRow(rows, start) {
-    for (var i = start; i < rows.length; i++) {
-      if (!isBlankOrSeparatorRow(rows[i]) && rowText(rows[i])) return i;
+  function visibleWhiteGapBetweenRows(currentRow, previousRow) {
+    var cr = safeRect(currentRow);
+    var pr = safeRect(previousRow);
+    if (!cr || !pr) return 0;
+
+    /* Hidden imported memories have zero rectangles; geometry is not useful there. */
+    var cHasBox = (cr.height || cr.width || cr.top || cr.bottom);
+    var pHasBox = (pr.height || pr.width || pr.top || pr.bottom);
+    if (!cHasBox || !pHasBox) return 0;
+
+    var gap = cr.top - pr.bottom;
+    if (gap > 0) return gap;
+
+    /* When the gap belongs to table margins rather than row margins. */
+    var ct = rowTable(currentRow);
+    var pt = rowTable(previousRow);
+    if (ct && pt && ct !== pt) {
+      var ctr = safeRect(ct);
+      var ptr = safeRect(pt);
+      if (ctr && ptr) {
+        var tableGap = ctr.top - ptr.bottom;
+        if (tableGap > 0) return tableGap;
+      }
+    }
+    return 0;
+  }
+
+  function isFirstNonEmptyRowAfterWhiteGap(rows, index) {
+    if (!rows || index < 0 || !rows[index] || isBlankOrSeparatorRow(rows[index])) return false;
+    if (index === 0) return true;
+
+    var prev = rows[index - 1];
+    if (!prev) return true;
+
+    /* The user-specified rule: a blank white separator immediately above means the row below is the document title. */
+    if (isBlankOrSeparatorRow(prev)) return true;
+
+    /* Separate tables in the HTML visually create the white area shown in the screenshots. */
+    if (rowTable(rows[index]) && rowTable(prev) && rowTable(rows[index]) !== rowTable(prev)) return true;
+
+    /* Visible white space between the previous row/table and the current row. */
+    if (visibleWhiteGapBetweenRows(rows[index], prev) >= 12) return true;
+
+    return false;
+  }
+
+  function findTitleRowIndexByWhiteGap(rows, rowNo) {
+    rows = rows || [];
+    if (!rows.length) return -1;
+    rowNo = Math.min(Math.max(+rowNo || 0, 0), rows.length - 1);
+
+    for (var i = rowNo; i >= 0; i--) {
+      if (isBlankOrSeparatorRow(rows[i])) continue;
+      if (isFirstNonEmptyRowAfterWhiteGap(rows, i)) return i;
     }
     return -1;
-  }
-
-  function hasVisualDocumentStartBefore(rows, i) {
-    if (!rows || i <= 0 || !rows[i]) return true;
-    var prev = previousVisibleSibling(rows[i]);
-    if (!prev) return true;
-    return visualGapBetween(rows[i], prev) >= 16;
-  }
-
-  function nextLikelyTitleAfterSeparator(rows, separatorIndex, limit) {
-    var n = nextNonEmptyRow(rows, separatorIndex + 1);
-    return (n >= 0 && (typeof limit !== "number" || n <= limit)) ? n : -1;
   }
 
   function findNearestDocTitleIndex(rows, rowNo) {
-    rows = rows || [];
-    rowNo = Math.min(Math.max(+rowNo || 0, 0), rows.length - 1);
-    var el = rows[rowNo];
-    var titleEl = exactKwicTitleElementFrom(el);
-    if (!titleEl) return -1;
-    for (var i = 0; i < rows.length; i++) {
-      if (rows[i] === titleEl) return i;
-    }
-    return -1;
+    return findTitleRowIndexByWhiteGap(rows, rowNo);
   }
 
   function buildDocTitleMap(rows) {
     rows = rows || [];
     var map = [];
-    var lastKey = null;
-    var lastTitle = { ar: "", en: "", raw: "" };
+    var current = { ar: "", en: "", raw: "" };
     for (var i = 0; i < rows.length; i++) {
-      var titleEl = exactKwicTitleElementFrom(rows[i]);
-      if (titleEl) {
-        var key = titleEl;
-        if (key !== lastKey) {
-          var parsed = parseDocTitleElement(titleEl);
-          if (parsed && (parsed.ar || parsed.en || parsed.raw)) lastTitle = parsed;
-          lastKey = key;
-        }
+      if (isBlankOrSeparatorRow(rows[i])) {
+        map[i] = current;
+        continue;
       }
-      map[i] = lastTitle || { ar: "", en: "", raw: "" };
+      if (isFirstNonEmptyRowAfterWhiteGap(rows, i)) {
+        var parsed = parseDocTitleElement(rows[i]);
+        if (parsed && (parsed.ar || parsed.en || parsed.raw)) current = parsed;
+      }
+      map[i] = current;
     }
     return map;
   }
@@ -1930,24 +1946,16 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
 
     var rows = APP._docRows && APP._docRows.length ? APP._docRows : getPageRows();
     if ((!APP._docRows || !APP._docRows.length) && rows && rows.length) APP._docRows = rows;
+    if (!rows || !rows[rowNo]) return { ar: "", en: "", raw: "" };
 
-    var row = rows && rows[rowNo];
-    if (!row) return { ar: "", en: "", raw: "" };
-
-    try {
-      var cached = APP._docTitleCacheByElement.get(row);
-      if (cached && (cached.ar || cached.en || cached.raw)) return cached;
-    } catch (e) {}
-
-    var titleEl = exactKwicTitleElementFrom(row);
-    var parsed = parseDocTitleElement(titleEl);
-    if (parsed && (parsed.ar || parsed.en || parsed.raw)) {
-      try { APP._docTitleCacheByElement.set(row, parsed); } catch (e2) {}
-      if (APP.docTitleByRow) APP.docTitleByRow[rowNo] = parsed;
-      return parsed;
+    if (APP.docTitleByRow && APP.docTitleByRow[rowNo] && (APP.docTitleByRow[rowNo].ar || APP.docTitleByRow[rowNo].en || APP.docTitleByRow[rowNo].raw)) {
+      return APP.docTitleByRow[rowNo];
     }
 
-    return { ar: "", en: "", raw: "" };
+    var titleIndex = findTitleRowIndexByWhiteGap(rows, rowNo);
+    var parsed = titleIndex >= 0 ? parseDocTitleElement(rows[titleIndex]) : { ar: "", en: "", raw: "" };
+    if (APP.docTitleByRow) APP.docTitleByRow[rowNo] = parsed;
+    return parsed || { ar: "", en: "", raw: "" };
   }
 
   if (!APP.__concordanceTitleHooksInstalled) {
