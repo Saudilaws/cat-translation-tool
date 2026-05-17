@@ -3127,4 +3127,123 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
 
   run();
   window.addEventListener("CAT_V47_PRO_OPEN", run);
+
+/* =========================================================
+   HARD SOURCE CLEAR PATCH
+   - إذا أصبحت خانة Source فارغة تُمسح النتائج فوراً
+   - يوقف أي تحليل جارٍ حتى لا يعيد رسم النتائج بعد المسح
+   - يراقب زر X، والكتابة، والقص، والحذف اليدوي، وأي تغيير برمجي
+========================================================= */
+(function installHardSourceClearPatch() {
+  if (APP.__hardSourceClearPatchInstalled) return;
+  APP.__hardSourceClearPatchInstalled = true;
+
+  function sourceHasText(sh) {
+    var src = sh && sh.getElementById("source");
+    return !!(src && flat(src.value || ""));
+  }
+
+  function emptyResultsHtml(message) {
+    return "<tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>" +
+      esc(message || "لا توجد نتائج بعد.") +
+      "</td></tr>";
+  }
+
+  function hardClearSourceResults(sh, message) {
+    if (!sh) return;
+    var src = sh.getElementById("source");
+    if (src && flat(src.value || "")) return;
+
+    APP.stop = true;
+    APP.results = [];
+    APP.__sourceIsEmpty = true;
+    APP.__lastSourceClearAt = Date.now();
+
+    var res = sh.getElementById("res");
+    if (res) res.innerHTML = emptyResultsHtml(message || "لا توجد نتائج بعد.");
+
+    var fill = sh.getElementById("fill");
+    if (fill) fill.style.width = "0%";
+
+    var status = sh.getElementById("status");
+    if (status) status.textContent = "تم مسح خانة Source وإخفاء النتائج.";
+
+    try { if (typeof updateStats === "function") updateStats(); } catch (e) {}
+    try { if (typeof updateNavCounters === "function") updateNavCounters(); } catch (e) {}
+  }
+
+  function installOnUI(sh) {
+    if (!sh || sh.__hardSourceClearInstalled) return;
+    var src = sh.getElementById("source");
+    var res = sh.getElementById("res");
+    if (!src || !res) return;
+    sh.__hardSourceClearInstalled = true;
+
+    function checkNow() {
+      if (!flat(src.value || "")) hardClearSourceResults(sh);
+      else APP.__sourceIsEmpty = false;
+    }
+
+    ["input", "change", "keyup", "cut", "blur"].forEach(function (ev) {
+      src.addEventListener(ev, function () { setTimeout(checkNow, 0); }, true);
+    });
+    src.addEventListener("paste", function () { setTimeout(checkNow, 0); setTimeout(checkNow, 80); }, true);
+
+    var x = sh.getElementById("catSourceClearX");
+    if (x && !x.__hardClearBound) {
+      x.__hardClearBound = true;
+      x.addEventListener("click", function () {
+        APP.stop = true;
+        setTimeout(function () { hardClearSourceResults(sh); }, 0);
+        setTimeout(function () { hardClearSourceResults(sh); }, 80);
+      }, true);
+    }
+
+    var mo = new MutationObserver(function () {
+      if (!flat(src.value || "") && APP.results && APP.results.length) hardClearSourceResults(sh);
+    });
+    mo.observe(res, { childList: true, subtree: true });
+
+    var lastValue = src.value;
+    setInterval(function () {
+      if (src.value !== lastValue) {
+        lastValue = src.value;
+        checkNow();
+      } else if (!flat(src.value || "") && APP.results && APP.results.length) {
+        hardClearSourceResults(sh);
+      }
+    }, 160);
+
+    checkNow();
+  }
+
+  /* يمنع renderResults من إعادة النتائج إذا كان Source فارغاً، خصوصاً عند استمرار تحليل سابق. */
+  try {
+    var __baseRenderResults = renderResults;
+    renderResults = function (results) {
+      var h = document.getElementById(APP.hostId);
+      var sh = h && h.shadowRoot;
+      if (sh && !sourceHasText(sh)) {
+        hardClearSourceResults(sh);
+        return;
+      }
+      return __baseRenderResults.apply(this, arguments);
+    };
+  } catch (e) {}
+
+  ready(function () {
+    function run() {
+      var h = document.getElementById(APP.hostId);
+      var sh = h && h.shadowRoot;
+      if (sh) installOnUI(sh);
+    }
+    var n = 0;
+    (function tick() {
+      run();
+      if (++n < 80) setTimeout(tick, 150);
+    })();
+    window.addEventListener("CAT_V47_PRO_OPEN", run);
+  });
+})();
+
 })();
