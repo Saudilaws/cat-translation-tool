@@ -2303,3 +2303,281 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     waitForUI(injectEnhancements);
   });
 })();
+
+/* =========================================================
+   ADD-ON: Professional Right Tools Layout + Final Export
+   - Groups right-side buttons by function
+   - Import buttons appear together with one visual category
+   - Adds Final Export preserving source line breaks/blank lines
+========================================================= */
+(function () {
+  "use strict";
+
+  var HOST_ID = "cat-v47-cell-segment-pro-enhanced-host";
+
+  function getShadow() {
+    var host = document.getElementById(HOST_ID);
+    return host && host.shadowRoot ? host.shadowRoot : null;
+  }
+
+  function waitForUI(fn) {
+    var tries = 0;
+    (function loop() {
+      var sh = getShadow();
+      if (sh && sh.querySelector(".side") && sh.getElementById("panel")) {
+        fn(sh);
+        return;
+      }
+      if (++tries < 160) setTimeout(loop, 100);
+    })();
+  }
+
+  function setStatus(sh, msg) {
+    var st = sh.getElementById("status");
+    if (st) st.textContent = msg;
+  }
+
+  function escHtml(s) {
+    return String(s == null ? "" : s).replace(/[&<>\"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#39;" }[c];
+    });
+  }
+
+  function flatLocal(s) {
+    return String(s || "")
+      .replace(/[\u200E\u200F\u202A-\u202E\u2066-\u2069]/g, "")
+      .replace(/[\u200B\u200C\u200D\u2060\uFEFF\u034F]/g, "")
+      .replace(/[\u00A0\u202F\u2007-\u200A]/g, " ")
+      .replace(/[ \t]+/g, " ")
+      .replace(/\n[ \t]+/g, "\n")
+      .replace(/[ \t]+\n/g, "\n")
+      .trim();
+  }
+
+  function downloadFile(name, text, type) {
+    var blob = new Blob(["\ufeff", text], { type: type || "text/plain;charset=utf-8" });
+    var a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = name;
+    document.body.appendChild(a);
+    a.click();
+    setTimeout(function () {
+      try { URL.revokeObjectURL(a.href); } catch (e) {}
+      try { a.remove(); } catch (e2) {}
+    }, 1000);
+  }
+
+  function injectStyle(sh) {
+    if (sh.getElementById("catProfessionalRightToolsStyle")) return;
+    var st = document.createElement("style");
+    st.id = "catProfessionalRightToolsStyle";
+    st.textContent = [
+      ".side{gap:10px!important;background:linear-gradient(180deg,#ffffff 0%,#f8fafc 100%)!important}",
+      ".catSideSection{border:1px solid #e5e7eb;border-radius:14px;background:#fff;padding:9px;display:flex;flex-direction:column;gap:8px;box-shadow:0 8px 22px rgba(15,23,42,.04)}",
+      ".catSideTitle{height:22px;display:flex;align-items:center;gap:6px;font:900 11px 'GE SS Two Light','Segoe UI',Tahoma,Arial;color:#334155;border-bottom:1px solid #eef2f7;padding-bottom:6px;margin-bottom:1px}",
+      ".catSideGrid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:7px;align-items:stretch}",
+      ".catSideStack{display:flex;flex-direction:column;gap:7px}",
+      ".catSideWide{grid-column:1/-1!important;width:100%!important}",
+      ".catSideSection button,.catSideSection select,.catSideSection input{width:100%;min-width:0;height:38px;border-radius:11px!important;font:900 11px 'GE SS Two Light','Segoe UI',Tahoma,Arial!important;letter-spacing:.01em;display:flex;align-items:center;justify-content:center;gap:6px;white-space:normal;line-height:1.25;text-align:center;box-shadow:none!important}",
+      ".catBtn{transition:transform .12s ease,box-shadow .12s ease,filter .12s ease;border-width:1px!important}",
+      ".catBtn:hover{transform:translateY(-1px);box-shadow:0 8px 18px rgba(15,23,42,.10)!important;filter:saturate(1.04)}",
+      ".catBtnImport{background:#eff6ff!important;color:#1d4ed8!important;border-color:#bfdbfe!important}",
+      ".catBtnSearch{background:#f5f3ff!important;color:#5b21b6!important;border-color:#ddd6fe!important}",
+      ".catBtnExport{background:#ecfdf5!important;color:#047857!important;border-color:#bbf7d0!important}",
+      ".catBtnProject{background:#fff7ed!important;color:#9a3412!important;border-color:#fed7aa!important}",
+      ".catBtnSystem{background:#f8fafc!important;color:#334155!important;border-color:#cbd5e1!important}",
+      ".catBtnDanger{background:#fee2e2!important;color:#991b1b!important;border-color:#fecaca!important}",
+      ".catFinalExport{background:linear-gradient(180deg,#16a34a,#047857)!important;color:#fff!important;border-color:#047857!important;font-size:12px!important;min-height:42px!important}",
+      ".msIcon{display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;width:20px;height:20px;border-radius:5px;color:#fff;font:900 12px 'Segoe UI',Arial!important;box-shadow:inset 0 0 0 1px rgba(255,255,255,.28)}",
+      ".wordIcon{background:#2563eb!important}.excelIcon{background:#168a45!important}.htmlIcon{background:#ea580c!important}.tmxIcon{background:#7c3aed!important}.csvIcon{background:#0891b2!important}.dbIcon{background:#334155!important}.finalIcon{background:#ffffff!important;color:#047857!important}",
+      ".catSideSection .bar{height:7px!important;margin-top:1px}",
+      ".catSideSection .statusBox{min-height:62px!important;font-size:11px!important;background:#f8fafc!important}",
+      ".catSideSection .mini{font-size:10px!important;text-align:center;color:#64748b!important}",
+      ".catSideSection #concordQ{grid-column:1/-1!important;text-align:center;display:block!important;padding:0 8px!important}",
+      ".catSideSection #slang{grid-column:1/-1!important;display:block!important;text-align:center!important}",
+      ".catSideSection #catGoNeedsBtn,.catSideSection #catGoReviewBtn{min-height:38px!important}",
+      "@media(max-width:760px){.catSideGrid{grid-template-columns:1fr}.catSideWide{grid-column:auto!important}}"
+    ].join("");
+    sh.appendChild(st);
+  }
+
+  function mkSection(sh, side, id, title) {
+    var sec = sh.getElementById(id);
+    if (!sec) {
+      sec = document.createElement("div");
+      sec.id = id;
+      sec.className = "catSideSection";
+      sec.innerHTML = "<div class='catSideTitle'>" + title + "</div><div class='catSideGrid'></div>";
+      side.appendChild(sec);
+    }
+    return sec.querySelector(".catSideGrid") || sec;
+  }
+
+  function moveEl(grid, el, cls, wide) {
+    if (!grid || !el) return;
+    if (cls) {
+      el.classList.add("catBtn");
+      cls.split(/\s+/).forEach(function (c) { if (c) el.classList.add(c); });
+    }
+    if (wide) el.classList.add("catSideWide");
+    grid.appendChild(el);
+  }
+
+  function setButtonHtml(el, html, title) {
+    if (!el) return;
+    if (!el.getAttribute("data-cat-pro-label")) {
+      el.innerHTML = html;
+      el.setAttribute("data-cat-pro-label", "1");
+    }
+    if (title) el.title = title;
+  }
+
+  function ensureFinalExportButton(sh) {
+    var btn = sh.getElementById("catFinalExportBtn");
+    if (btn) return btn;
+    btn = document.createElement("button");
+    btn.id = "catFinalExportBtn";
+    btn.type = "button";
+    btn.className = "catBtn catBtnExport catFinalExport catSideWide";
+    btn.innerHTML = "<span class='msIcon finalIcon'>✓</span><span>التصدير النهائي</span>";
+    btn.title = "تصدير Target Draft بنفس ترتيب أسطر السورس والفواصل الفارغة";
+    btn.onclick = function () { exportFinalSameSource(sh); };
+    return btn;
+  }
+
+  function readTargetDrafts(sh) {
+    return Array.prototype.slice.call(sh.querySelectorAll(".targetDraft")).map(function (ta) {
+      return String(ta.value || "");
+    });
+  }
+
+  function makeFinalTextSameSource(sh, drafts) {
+    var src = sh.getElementById("source");
+    var raw = src ? String(src.value || "").replace(/\r/g, "\n") : "";
+    var lines = raw.split("\n");
+    var nonEmptyCount = lines.filter(function (x) { return flatLocal(x); }).length;
+
+    if (raw && drafts.length && drafts.length === nonEmptyCount) {
+      var i = 0;
+      return lines.map(function (line) {
+        if (!flatLocal(line)) return line;
+        var indent = (String(line).match(/^\s*/) || [""])[0];
+        var out = drafts[i++] || "";
+        return indent + out;
+      }).join("\n");
+    }
+
+    return drafts.join("\n\n");
+  }
+
+  function makeFinalDocHtml(text) {
+    var paras = String(text || "").replace(/\r/g, "\n").split("\n").map(function (line) {
+      if (!line) return "<p>&nbsp;</p>";
+      var dir = /[\u0600-\u06FF]/.test(line) ? "rtl" : "ltr";
+      var cls = dir === "rtl" ? "ar" : "en";
+      return "<p class='" + cls + "' dir='" + dir + "'>" + escHtml(line) + "</p>";
+    }).join("\n");
+    return [
+      "<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word'>",
+      "<head><meta charset='utf-8'><style>",
+      "body{font-family:'Segoe UI',Tahoma,Arial;font-size:14pt;color:#111827;line-height:1.8}",
+      "p{margin:0 0 10pt 0}.ar{font-family:'GE SS Two Light',Tahoma,Arial;text-align:justify;text-justify:kashida;direction:rtl}.en{font-family:'Segoe UI',Arial;text-align:justify;direction:ltr}",
+      "</style></head><body>",
+      paras,
+      "</body></html>"
+    ].join("\n");
+  }
+
+  function exportFinalSameSource(sh) {
+    var drafts = readTargetDrafts(sh);
+    if (!drafts.length) {
+      setStatus(sh, "لا توجد Target Draft للتصدير. حلّل النص أولًا.");
+      return;
+    }
+    var missing = drafts.filter(function (x) { return !flatLocal(x); }).length;
+    var finalText = makeFinalTextSameSource(sh, drafts);
+    var stamp = new Date().toISOString().slice(0, 19).replace(/[T:]/g, "-");
+    downloadFile("final_same_source_format_" + stamp + ".doc", makeFinalDocHtml(finalText), "application/msword;charset=utf-8");
+    setStatus(sh, missing ? "تم التصدير النهائي مع وجود مقاطع فارغة: " + missing + "." : "تم التصدير النهائي بنفس ترتيب السورس.");
+  }
+
+  function organizeSide(sh) {
+    var side = sh.querySelector(".side");
+    if (!side) return;
+    injectStyle(sh);
+
+    var importGrid = mkSection(sh, side, "catSecImport", "📥 الاستيراد");
+    var searchGrid = mkSection(sh, side, "catSecSearch", "🔎 البحث والتحليل والمطابقات");
+    var exportGrid = mkSection(sh, side, "catSecExport", "📤 التصدير");
+    var projectGrid = mkSection(sh, side, "catSecProject", "💾 المشاريع والذاكرة");
+    var systemGrid = mkSection(sh, side, "catSecSystem", "⚙️ الإعدادات والحالة");
+
+    var word = sh.getElementById("importDOCX");
+    var excel = sh.getElementById("catImportExcelBtn");
+    setButtonHtml(word, "<span class='msIcon wordIcon'>W</span><span>Word</span>", "استيراد ملف Word DOCX");
+    setButtonHtml(excel, "<span class='msIcon excelIcon'>X</span><span>Excel</span>", "استيراد ملف Excel / CSV");
+    setButtonHtml(sh.getElementById("importHTML"), "<span class='msIcon htmlIcon'>H</span><span>HTML</span>", "استيراد ملف HTML");
+    setButtonHtml(sh.getElementById("importHTML_DB"), "<span class='msIcon dbIcon'>DB</span><span>HTML DB</span>", "استيراد HTML إلى IndexedDB");
+    setButtonHtml(sh.getElementById("importTerms"), "<span class='msIcon csvIcon'>C</span><span>Terms CSV</span>", "استيراد مصطلحات CSV");
+    setButtonHtml(sh.getElementById("importTMX"), "<span class='msIcon tmxIcon'>T</span><span>TMX</span>", "استيراد TMX");
+
+    ["importDOCX", "catImportExcelBtn", "importHTML", "importHTML_DB", "importTerms", "importTMX"].forEach(function (id) {
+      moveEl(importGrid, sh.getElementById(id), "catBtnImport", false);
+    });
+
+    setButtonHtml(sh.getElementById("build"), "<span>🧱</span><span>بناء الذاكرة</span>");
+    setButtonHtml(sh.getElementById("analyze"), "<span>▶</span><span>تحليل النص</span>");
+    setButtonHtml(sh.getElementById("acceptAll"), "<span>✓</span><span>اعتماد الأفضل</span>");
+    setButtonHtml(sh.getElementById("copy"), "<span>⧉</span><span>نسخ Target</span>");
+    setButtonHtml(sh.getElementById("concordance"), "<span>⌕</span><span>Concordance</span>");
+    setButtonHtml(sh.getElementById("clear"), "<span>⌫</span><span>مسح النتائج</span>");
+
+    ["build", "analyze", "catGoNeedsBtn", "catGoReviewBtn", "acceptAll", "copy", "concordance", "concordQ", "clear"].forEach(function (id) {
+      var el = sh.getElementById(id);
+      var wide = id === "concordQ";
+      moveEl(searchGrid, el, id === "concordQ" ? "" : "catBtnSearch", wide);
+    });
+
+    var finalBtn = ensureFinalExportButton(sh);
+    moveEl(exportGrid, finalBtn, "catBtnExport", true);
+    setButtonHtml(sh.getElementById("exportTMX"), "<span>⇄</span><span>TMX</span>");
+    setButtonHtml(sh.getElementById("exportXLIFF"), "<span>⇄</span><span>XLIFF</span>");
+    setButtonHtml(sh.getElementById("report"), "<span>▤</span><span>HTML Report</span>");
+    setButtonHtml(sh.getElementById("word"), "<span class='msIcon wordIcon'>W</span><span>Word A3</span>");
+    ["exportTMX", "exportXLIFF", "report", "word"].forEach(function (id) {
+      moveEl(exportGrid, sh.getElementById(id), "catBtnExport", false);
+    });
+
+    setButtonHtml(sh.getElementById("saveProject"), "<span>💾</span><span>حفظ JSON</span>");
+    setButtonHtml(sh.getElementById("loadProject"), "<span>📂</span><span>فتح JSON</span>");
+    setButtonHtml(sh.getElementById("saveEdited_DB"), "<span>＋</span><span>Save Edited DB</span>");
+    setButtonHtml(sh.getElementById("refreshHTML_DB"), "<span>↻</span><span>Refresh DB</span>");
+    setButtonHtml(sh.getElementById("loadHTML_DB"), "<span>↓</span><span>Load DB</span>");
+    ["saveProject", "loadProject", "idbMemorySelect", "refreshHTML_DB", "loadHTML_DB", "saveEdited_DB"].forEach(function (id) {
+      var el = sh.getElementById(id);
+      var wide = id === "idbMemorySelect";
+      moveEl(projectGrid, el, id === "idbMemorySelect" ? "" : "catBtnProject", wide);
+    });
+
+    setButtonHtml(sh.getElementById("stop"), "<span>■</span><span>إيقاف</span>");
+    ["slang", "stop"].forEach(function (id) {
+      moveEl(systemGrid, sh.getElementById(id), id === "stop" ? "catBtnDanger" : "", id === "slang");
+    });
+    moveEl(systemGrid, sh.querySelector(".bar"), "", true);
+    moveEl(systemGrid, sh.getElementById("status"), "", true);
+    moveEl(systemGrid, sh.querySelector(".mini"), "", true);
+  }
+
+  function run() {
+    waitForUI(function (sh) {
+      var n = 0;
+      (function tick() {
+        organizeSide(sh);
+        if (++n < 50) setTimeout(tick, 250);
+      })();
+    });
+  }
+
+  run();
+  window.addEventListener("CAT_V47_PRO_OPEN", run);
+})();
