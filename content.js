@@ -1794,109 +1794,67 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     return parts;
   }
 
+  /* Ported literally from the attached KWIC title logic: H/N behavior. */
   function parseDocTitleElement(el) {
-    var ar = [];
-    var en = [];
-    if (!el) return { ar: "", en: "", raw: "" };
+    var blank = { ar: "", en: "", raw: "" };
+    if (!el) return blank;
 
     if (el.matches && el.matches("tr")) {
       var cells = rowCells(el);
       if (cells.length) {
         var first = elementText(cells[0]);
         var last = elementText(cells[cells.length - 1]);
-        var firstIsAr = hasAr(first);
-        var lastIsAr = hasAr(last);
-        if (firstIsAr || lastIsAr) {
-          if (firstIsAr) {
-            ar.push(first);
-            if (last && hasEn(last)) en.push(last);
-          } else {
-            ar.push(last);
-            if (first && hasEn(first)) en.push(first);
-          }
-        }
+        var arTitle = hasAr(first) ? first : (hasAr(last) ? last : "");
+        var enTitle = hasAr(first) ? last : (hasAr(last) ? first : "");
+        return {
+          ar: flat(arTitle).slice(0, 500),
+          en: flat(enTitle).slice(0, 500),
+          raw: elementText(el).slice(0, 800)
+        };
       }
-      cells.forEach(function (cell) {
-        splitMixedTitleText(cell.textContent || "").forEach(function (tx) {
-          if (!tx) return;
-          if (hasAr(tx)) ar.push(tx);
-          if (hasEn(tx)) en.push(tx);
-        });
-      });
-    } else {
-      var children = Array.prototype.slice.call(el.children || []);
-      if (children.length >= 2) {
-        var a = elementText(children[0]);
-        var b = elementText(children[1]);
-        if (hasAr(a)) { ar.push(a); if (hasEn(b)) en.push(b); }
-        else if (hasAr(b)) { ar.push(b); if (hasEn(a)) en.push(a); }
+    }
+
+    var children = Array.prototype.slice.call(el.children || []);
+    if (children.length >= 2) {
+      var a = elementText(children[0]);
+      var b = elementText(children[1]);
+      var ar = hasAr(a) ? a : (hasAr(b) ? b : "");
+      var en = hasAr(a) ? b : (hasAr(b) ? a : "");
+      if (ar || en) {
+        return {
+          ar: flat(ar).slice(0, 500),
+          en: flat(en).slice(0, 500),
+          raw: elementText(el).slice(0, 800)
+        };
       }
-      splitMixedTitleText(elementText(el)).forEach(function (tx) {
-        if (!tx) return;
-        if (hasAr(tx)) ar.push(tx);
-        if (hasEn(tx)) en.push(tx);
-      });
     }
 
-    var raw = elementText(el);
-    if (!ar.length && hasAr(raw)) ar.push(raw);
-    if (!en.length && hasEn(raw)) en.push(raw);
-    return {
-      ar: uniqueJoin(ar).slice(0, 500),
-      en: uniqueJoin(en).slice(0, 500),
-      raw: raw.slice(0, 800)
-    };
+    var next = el.nextElementSibling;
+    if (next && !isHiddenOrSkippable(next)) return parseDocTitleElement(next);
+    return blank;
   }
 
-  /* Same idea as the KWIC panel title logic:
-     start from the result row, go upward until the visual separator / white gap,
-     then treat the row immediately below that separator as the document title row. */
-  function isHiddenOrSkippable(el) {
-    if (!el || el.nodeType !== 1) return true;
-    try {
-      var tag = String(el.tagName || "").toUpperCase();
-      if (tag === "SCRIPT" || tag === "STYLE" || tag === "NOSCRIPT") return true;
-      var st = window.getComputedStyle ? getComputedStyle(el) : null;
-      return !!(st && (st.display === "none" || st.visibility === "hidden"));
-    } catch (e) {
-      return false;
-    }
-  }
-
-  function previousVisibleSibling(el) {
-    var p = el ? el.previousElementSibling : null;
-    while (p && isHiddenOrSkippable(p)) p = p.previousElementSibling;
-    return p || null;
-  }
-
-  function visualGapBetween(current, prev) {
-    try {
-      if (!current || !prev || !current.getBoundingClientRect || !prev.getBoundingClientRect) return 0;
-      var a = current.getBoundingClientRect();
-      var b = prev.getBoundingClientRect();
-      return b.bottom >= a.top ? 0 : a.top - b.bottom;
-    } catch (e) {
-      return 0;
-    }
-  }
-
-  function isTitleContainerCandidate(el) {
-    return !!(el && el.nodeType === 1 && el.matches && el.matches("tr,div,section,article,p,li"));
-  }
-
-  function nearestTitleElementFrom(el) {
+  /* Same exact N() idea from the attached KWIC code:
+     start at the matched row, walk upward sibling-by-sibling, and when the previous
+     sibling is visually separated by a white gap, the current row is the document title. */
+  function exactKwicTitleElementFrom(el) {
     if (!el) return null;
-    var cur = (el.closest && (el.closest("tr") || el.closest("div,section,article,p,li"))) || el;
+    var cur = (el.closest && (el.closest("tr") || el.closest("div,section,article") || el)) || el;
     var prev = previousVisibleSibling(cur);
     if (!prev) return isTitleContainerCandidate(cur) ? cur : (cur.parentElement || cur);
 
-    for (var guard = 0; cur && guard < 3000; guard++) {
+    for (var guard = 3000; cur && guard--; ) {
       prev = previousVisibleSibling(cur);
       if (!prev) return isTitleContainerCandidate(cur) ? cur : (cur.parentElement || cur);
       if (visualGapBetween(cur, prev) >= 16) return isTitleContainerCandidate(cur) ? cur : (cur.parentElement || cur);
       cur = prev;
     }
     return null;
+  }
+
+  /* Kept for compatibility with older calls, but now it is exactly the attached KWIC logic. */
+  function nearestTitleElementFrom(el) {
+    return exactKwicTitleElementFrom(el);
   }
 
   function isBlankOrSeparatorRow(row) {
@@ -1906,43 +1864,13 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     if (!cells.length) return true;
     if (!tx || canonExact(tx).length <= 1) return true;
     var nonEmpty = 0;
-    var empty = 0;
-    cells.forEach(function (c) {
-      var t = flat(c.textContent || "");
-      if (t) nonEmpty++;
-      else empty++;
-    });
-    if (nonEmpty === 0) return true;
-    if (tx.length <= 3 && empty >= Math.max(1, cells.length - 1)) return true;
-    return false;
+    cells.forEach(function (c) { if (flat(c.textContent || "")) nonEmpty++; });
+    return nonEmpty === 0;
   }
 
   function looksLikeDocTitleRow(row) {
-    var tx = rowText(row);
-    if (!tx || tx.length > 320) return false;
-    if (!hasAr(tx) && !hasEn(tx)) return false;
-
-    var cleanTx = canonExact(tx);
-    if (!cleanTx) return false;
-
-    /* لا تُعامل مواد النظام أو الجمل التفسيرية الطويلة كعنوان وثيقة. */
-    if (/^(?:\s*\d+\s*[\.)-]|\s*(?:المادة|مادة)\b|\s*(?:Article|Art\.?|Chapter|Section)\b)/i.test(tx)) return false;
-    if (/\b(?:shall|must|may|means|mean|application of this law|for the application|pursuant to|provided that|whereas)\b/i.test(tx) && tx.length > 90) return false;
-    if (/(?:في سبيل تطبيق|يقصد|تعني|يعني|يجب|يلتزم|تلتزم|تطبق|مع مراعاة|دون إخلال|دون اخلال)/.test(tx) && tx.length > 90) return false;
-    if ((tx.match(/[.;؛،,]/g) || []).length >= 2 && tx.length > 90) return false;
-
-    var cells = rowCells(row);
-    var nonEmptyCells = 0;
-    cells.forEach(function (c) { if (flat(c.textContent || "")) nonEmptyCells++; });
-    if (nonEmptyCells > 6 && tx.length > 160) return false;
-
-    /* عناوين الوثائق النظامية تكون غالبًا قصيرة أو تحتوي ألفاظ العنوان نفسها. */
-    var titleWords = /(?:^|[\s\-–—:|])(?:نظام|لائحة|تنظيم|قواعد|ضوابط|تعليمات|ترتيبات|قانون|Law|Regulation|Regulations|Rules|Bylaw|Bylaws|Statute|Code)(?:$|[\s\-–—:|])/i;
-    if (titleWords.test(tx) && tx.length <= 260) return true;
-
-    /* صف عنوان ثنائي قصير بلا صياغة مادة. */
-    if (hasAr(tx) && hasEn(tx) && tx.length <= 180 && !/(?:shall|must|يجب|يلتزم|تطبق|المادة|Article)/i.test(tx)) return true;
-    return false;
+    /* Do not filter titles anymore. The attached KWIC code does not use these extra heuristics. */
+    return !!row;
   }
 
   function nextNonEmptyRow(rows, start) {
@@ -1956,62 +1884,42 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     if (!rows || i <= 0 || !rows[i]) return true;
     var prev = previousVisibleSibling(rows[i]);
     if (!prev) return true;
-    if (visualGapBetween(rows[i], prev) >= 16) return true;
-    var j = i - 1;
-    while (j >= 0 && isHiddenOrSkippable(rows[j])) j--;
-    if (j >= 0 && isBlankOrSeparatorRow(rows[j])) return true;
-    return false;
+    return visualGapBetween(rows[i], prev) >= 16;
   }
 
   function nextLikelyTitleAfterSeparator(rows, separatorIndex, limit) {
     var n = nextNonEmptyRow(rows, separatorIndex + 1);
-    if (n >= 0 && (typeof limit !== "number" || n <= limit) && looksLikeDocTitleRow(rows[n])) return n;
-    return -1;
+    return (n >= 0 && (typeof limit !== "number" || n <= limit)) ? n : -1;
   }
 
   function findNearestDocTitleIndex(rows, rowNo) {
     rows = rows || [];
     rowNo = Math.min(Math.max(+rowNo || 0, 0), rows.length - 1);
-    var fallback = -1;
-
-    for (var i = rowNo; i >= 0; i--) {
-      if (!rows[i]) continue;
-
-      if (isBlankOrSeparatorRow(rows[i])) {
-        var n = nextLikelyTitleAfterSeparator(rows, i, rowNo);
-        if (n >= 0) return n;
-        continue;
-      }
-
-      if (!looksLikeDocTitleRow(rows[i])) continue;
-      if (hasVisualDocumentStartBefore(rows, i)) return i;
-      if (fallback < 0) fallback = i;
+    var el = rows[rowNo];
+    var titleEl = exactKwicTitleElementFrom(el);
+    if (!titleEl) return -1;
+    for (var i = 0; i < rows.length; i++) {
+      if (rows[i] === titleEl) return i;
     }
-    return fallback;
+    return -1;
   }
 
   function buildDocTitleMap(rows) {
     rows = rows || [];
     var map = [];
-    var current = { ar: "", en: "", raw: "" };
-    var pendingTitleAt = -1;
-
+    var lastKey = null;
+    var lastTitle = { ar: "", en: "", raw: "" };
     for (var i = 0; i < rows.length; i++) {
-      if (isBlankOrSeparatorRow(rows[i])) {
-        var n = nextNonEmptyRow(rows, i + 1);
-        if (n >= 0) pendingTitleAt = n;
-        map[i] = current || { ar: "", en: "", raw: "" };
-        continue;
+      var titleEl = exactKwicTitleElementFrom(rows[i]);
+      if (titleEl) {
+        var key = titleEl;
+        if (key !== lastKey) {
+          var parsed = parseDocTitleElement(titleEl);
+          if (parsed && (parsed.ar || parsed.en || parsed.raw)) lastTitle = parsed;
+          lastKey = key;
+        }
       }
-
-      var isStart = hasVisualDocumentStartBefore(rows, i);
-      if ((pendingTitleAt === i || isStart || (!current.ar && !current.en)) && looksLikeDocTitleRow(rows[i])) {
-        var t = parseDocTitleElement(rows[i]);
-        if (t && (t.ar || t.en || t.raw)) current = t;
-        pendingTitleAt = -1;
-      }
-
-      map[i] = current || { ar: "", en: "", raw: "" };
+      map[i] = lastTitle || { ar: "", en: "", raw: "" };
     }
     return map;
   }
@@ -2023,44 +1931,20 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     var rows = APP._docRows && APP._docRows.length ? APP._docRows : getPageRows();
     if ((!APP._docRows || !APP._docRows.length) && rows && rows.length) APP._docRows = rows;
 
-    var t = APP.docTitleByRow && APP.docTitleByRow[rowNo];
-    if (t && (t.ar || t.en || t.raw)) return t;
-
-    if (rows && rows.length) {
-      if (!APP.docTitleByRow || !APP.docTitleByRow.length) APP.docTitleByRow = buildDocTitleMap(rows);
-      t = APP.docTitleByRow && APP.docTitleByRow[rowNo];
-      if (t && (t.ar || t.en || t.raw)) return t;
-
-      var idx = findNearestDocTitleIndex(rows, rowNo);
-      if (idx >= 0 && rows[idx]) {
-        var parsed = parseDocTitleElement(rows[idx]);
-        if (parsed && (parsed.ar || parsed.en || parsed.raw)) {
-          if (APP.docTitleByRow) {
-            for (var k = idx; k < rows.length; k++) {
-              if (k > idx && looksLikeDocTitleRow(rows[k]) && hasVisualDocumentStartBefore(rows, k)) break;
-              APP.docTitleByRow[k] = parsed;
-            }
-          }
-          return parsed;
-        }
-      }
-    }
-
-    /* احتياط أخير بنفس فكرة KWIC: استخدم العنصر الواقع تحت الفاصل المرئي فقط إذا كان يشبه عنوان وثيقة. */
     var row = rows && rows[rowNo];
-    if (row) {
-      try {
-        var cached = APP._docTitleCacheByElement.get(row);
-        if (cached && (cached.ar || cached.en || cached.raw)) return cached;
-        var titleEl = nearestTitleElementFrom(row);
-        if (titleEl && looksLikeDocTitleRow(titleEl)) {
-          var direct = parseDocTitleElement(titleEl);
-          if (direct && (direct.ar || direct.en || direct.raw)) {
-            APP._docTitleCacheByElement.set(row, direct);
-            return direct;
-          }
-        }
-      } catch (e) {}
+    if (!row) return { ar: "", en: "", raw: "" };
+
+    try {
+      var cached = APP._docTitleCacheByElement.get(row);
+      if (cached && (cached.ar || cached.en || cached.raw)) return cached;
+    } catch (e) {}
+
+    var titleEl = exactKwicTitleElementFrom(row);
+    var parsed = parseDocTitleElement(titleEl);
+    if (parsed && (parsed.ar || parsed.en || parsed.raw)) {
+      try { APP._docTitleCacheByElement.set(row, parsed); } catch (e2) {}
+      if (APP.docTitleByRow) APP.docTitleByRow[rowNo] = parsed;
+      return parsed;
     }
 
     return { ar: "", en: "", raw: "" };
