@@ -1730,7 +1730,430 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
 
     return direct;
   };
-})();})();
+})();
+
+/* =========================================================
+   ADD-ON: Professional Concordance Upgrade
+   - Exact / Fuzzy mode
+   - 3-row concordance table per hit
+   - Context-side highlighting
+   - Arabic / English document-title detection by blank separator row
+========================================================= */
+(function installProfessionalConcordanceUpgrade() {
+  if (APP.__professionalConcordanceUpgradeInstalled) return;
+  APP.__professionalConcordanceUpgradeInstalled = true;
+  APP.concordanceMode = APP.concordanceMode || "fuzzy";
+  APP.docTitleByRow = APP.docTitleByRow || [];
+  APP._docRows = APP._docRows || [];
+
+  function canonExact(s) {
+    return asc(String(s || ""))
+      .normalize("NFKC")
+      .replace(/[\u0610-\u061A\u064B-\u065F\u0670\u06D6-\u06ED]/g, "")
+      .replace(/\u0640/g, "")
+      .replace(/[\u200E\u200F\u202A-\u202E\u2066-\u2069]/g, "")
+      .replace(/[\u200B\u200C\u200D\u2060\uFEFF\u034F]/g, "")
+      .replace(/[\u00A0\u202F\u2007-\u200A]/g, " ")
+      .replace(/\s+/g, " ")
+      .trim()
+      .toLowerCase();
+  }
+
+  function rowCells(row) {
+    return row ? Array.prototype.slice.call(row.querySelectorAll("td,th")) : [];
+  }
+
+  function rowText(row) {
+    return flat(row ? row.textContent || "" : "");
+  }
+
+  function uniqueJoin(arr) {
+    var seen = Object.create(null);
+    var out = [];
+    (arr || []).forEach(function (x) {
+      x = flat(x);
+      if (!x) return;
+      var k = canonExact(x).slice(0, 300);
+      if (!k || seen[k]) return;
+      seen[k] = 1;
+      out.push(x);
+    });
+    return out.join(" | ");
+  }
+
+  function splitMixedTitleText(text) {
+    var parts = String(text || "")
+      .split(/[\n\r\|]+/)
+      .map(flat)
+      .filter(Boolean);
+    if (!parts.length) parts = [flat(text)];
+    return parts;
+  }
+
+  function parseDocTitleRow(row) {
+    var cells = rowCells(row);
+    var ar = [];
+    var en = [];
+    cells.forEach(function (cell) {
+      splitMixedTitleText(cell.textContent || "").forEach(function (tx) {
+        if (!tx) return;
+        if (hasAr(tx)) ar.push(tx);
+        if (hasEn(tx)) en.push(tx);
+      });
+    });
+    if (!ar.length && hasAr(rowText(row))) ar.push(rowText(row));
+    if (!en.length && hasEn(rowText(row))) en.push(rowText(row));
+    return {
+      ar: uniqueJoin(ar).slice(0, 500),
+      en: uniqueJoin(en).slice(0, 500),
+      raw: rowText(row).slice(0, 800)
+    };
+  }
+
+  function isBlankOrSeparatorRow(row) {
+    if (!row) return false;
+    var cells = rowCells(row);
+    var tx = rowText(row);
+    if (!cells.length) return true;
+    if (!tx || canonExact(tx).length <= 1) return true;
+
+    /* A visual separator in converted Word/Excel HTML is often a short row
+       with very little text, wide/empty cells, or white filler cells. */
+    var nonEmpty = 0;
+    var empty = 0;
+    cells.forEach(function (c) {
+      var t = flat(c.textContent || "");
+      if (t) nonEmpty++;
+      else empty++;
+    });
+    if (nonEmpty === 0) return true;
+    if (tx.length <= 3 && empty >= Math.max(1, cells.length - 1)) return true;
+    return false;
+  }
+
+  function looksLikeDocTitleRow(row) {
+    var tx = rowText(row);
+    if (!tx || tx.length > 900) return false;
+    if (!hasAr(tx) && !hasEn(tx)) return false;
+    if (/^(?:المادة|مادة|Article|Art\.?|Chapter|Section)\b/i.test(tx)) return false;
+    if (/(?:نظام|لائحة|تنظيم|قواعد|ضوابط|تعليمات|ترتيبات|Law|Regulation|Regulations|Rules|Bylaw|Bylaws|Statute|Code)/i.test(tx)) return true;
+    return false;
+  }
+
+  function nextNonEmptyRow(rows, start) {
+    for (var i = start; i < rows.length; i++) {
+      if (!isBlankOrSeparatorRow(rows[i]) && rowText(rows[i])) return i;
+    }
+    return -1;
+  }
+
+  function buildDocTitleMap(rows) {
+    rows = rows || [];
+    var map = [];
+    var current = { ar: "", en: "", raw: "" };
+    var pendingTitleAt = -1;
+
+    for (var i = 0; i < rows.length; i++) {
+      if (isBlankOrSeparatorRow(rows[i])) {
+        var n = nextNonEmptyRow(rows, i + 1);
+        if (n >= 0) pendingTitleAt = n;
+        map[i] = current;
+        continue;
+      }
+
+      if (pendingTitleAt === i) {
+        var t = parseDocTitleRow(rows[i]);
+        if (t.ar || t.en || t.raw) current = t;
+        pendingTitleAt = -1;
+      } else if ((!current.ar && !current.en) && looksLikeDocTitleRow(rows[i])) {
+        current = parseDocTitleRow(rows[i]);
+      } else if (looksLikeDocTitleRow(rows[i]) && rowCells(rows[i]).length <= 4) {
+        /* Fallback for files without a visible blank separator. */
+        var t2 = parseDocTitleRow(rows[i]);
+        if (t2.ar || t2.en) current = t2;
+      }
+
+      map[i] = current;
+    }
+    return map;
+  }
+
+  function titleForRow(rowNo) {
+    rowNo = +rowNo;
+    if (!(rowNo >= 0)) return { ar: "", en: "", raw: "" };
+    var t = APP.docTitleByRow && APP.docTitleByRow[rowNo];
+    if (t && (t.ar || t.en || t.raw)) return t;
+    if (APP._docRows && APP._docRows.length) {
+      APP.docTitleByRow = buildDocTitleMap(APP._docRows);
+      t = APP.docTitleByRow[rowNo];
+      if (t && (t.ar || t.en || t.raw)) return t;
+    }
+    return { ar: "", en: "", raw: "" };
+  }
+
+  var __baseResetMemoryForConcordance = resetMemory;
+  resetMemory = function () {
+    __baseResetMemoryForConcordance();
+    if (!APP._preserveDocTitleMap) {
+      APP.docTitleByRow = [];
+      APP._docRows = [];
+    }
+  };
+
+  var __baseBuildMemoryForConcordance = buildMemory;
+  buildMemory = function (ui) {
+    APP._docRows = getPageRows();
+    APP.docTitleByRow = buildDocTitleMap(APP._docRows);
+    APP._preserveDocTitleMap = true;
+    try {
+      return __baseBuildMemoryForConcordance(ui);
+    } finally {
+      APP._preserveDocTitleMap = false;
+    }
+  };
+
+  var __baseAddTUForConcordance = addTU;
+  addTU = function (arText, enText, rowNo, mode) {
+    var before = APP.tus.length;
+    __baseAddTUForConcordance(arText, enText, rowNo, mode);
+    if (APP.tus.length > before) {
+      var title = titleForRow(rowNo);
+      for (var i = before; i < APP.tus.length; i++) {
+        APP.tus[i].docTitle = title || { ar: "", en: "", raw: "" };
+      }
+    }
+  };
+
+  function escapeRegExp(s) {
+    return String(s || "").replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  }
+
+  function flexibleExactPattern(q) {
+    return escapeRegExp(q).replace(/\\\s+/g, "\\s+");
+  }
+
+  function arabicFuzzyPattern(q) {
+    var out = "";
+    var s = String(q || "");
+    for (var i = 0; i < s.length; i++) {
+      var ch = s.charAt(i);
+      if (/\s/.test(ch)) { out += "\\s+"; continue; }
+      if ("اأإآٱ".indexOf(ch) >= 0) { out += "[اأإآٱ]"; continue; }
+      if ("هةۀہھ".indexOf(ch) >= 0) { out += "[هةۀہھ]"; continue; }
+      if ("يىی".indexOf(ch) >= 0) { out += "[يىی]"; continue; }
+      if ("كک".indexOf(ch) >= 0) { out += "[كک]"; continue; }
+      out += escapeRegExp(ch);
+    }
+    return out;
+  }
+
+  function highlightContext(text, query, mode) {
+    text = String(text || "");
+    query = flat(query || "");
+    if (!query) return esc(text);
+    var pat = mode === "exact" ? flexibleExactPattern(query) : arabicFuzzyPattern(query);
+    try {
+      var re = new RegExp(pat, "gi");
+      var safe = esc(text);
+      /* Highlight on escaped text by re-running against the original chunks. */
+      var last = 0;
+      var out = "";
+      var m;
+      re.lastIndex = 0;
+      while ((m = re.exec(text)) && m[0]) {
+        out += esc(text.slice(last, m.index));
+        out += "<mark class='concHit'>" + esc(m[0]) + "</mark>";
+        last = m.index + m[0].length;
+        if (re.lastIndex === m.index) re.lastIndex++;
+      }
+      out += esc(text.slice(last));
+      return out || safe;
+    } catch (e) {
+      return esc(text);
+    }
+  }
+
+  function concordanceMatch(q, qP, srcText, srcProfile, mode) {
+    if (!flat(srcText)) return 0;
+    if (mode === "exact") {
+      var a = canonExact(srcText);
+      var b = canonExact(q);
+      return b && a.indexOf(b) >= 0 ? 100 : 0;
+    }
+    if (srcProfile && qP) {
+      if (qP.nl && srcProfile.nl && srcProfile.nl.indexOf(qP.nl) >= 0) return 95;
+      if (qP.compact && srcProfile.compact && srcProfile.compact.indexOf(qP.compact) >= 0) return 92;
+      var sc = scoreProfiles(qP, srcProfile);
+      return sc >= 55 ? sc : 0;
+    }
+    return 0;
+  }
+
+  function docTitleHtml(doc) {
+    doc = doc || {};
+    var ar = doc.ar || "غير محدد";
+    var en = doc.en || "Not identified";
+    return "<div class='concDocTitle'>" +
+      "<span class='concDocBadge'>عنوان الوثيقة</span>" +
+      "<div class='concDocAr' dir='rtl'>" + esc(ar) + "</div>" +
+      "<div class='concDocEn' dir='ltr'>" + esc(en) + "</div>" +
+      "</div>";
+  }
+
+  function renderConcordanceResults(sh, results, q, mode) {
+    var res = sh.getElementById("res");
+    if (!res) return;
+    res.innerHTML = "";
+    if (!results.length) {
+      res.innerHTML = "<tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>لا توجد نتائج Concordance بحسب وضع " + esc(mode.toUpperCase()) + ".</td></tr>";
+      return;
+    }
+
+    var frag = document.createDocumentFragment();
+    results.forEach(function (r, idx) {
+      var tr = document.createElement("tr");
+      tr.className = "concordanceResultRow";
+      var srcDir = r.segment.lang === "ar" ? "rtl" : "ltr";
+      var tgtDir = r.targetLang === "ar" ? "rtl" : "ltr";
+      var srcLabel = r.segment.lang === "ar" ? "السياق العربي الذي وردت فيه الكلمة" : "English context containing the term";
+      var tgtLabel = r.targetLang === "ar" ? "الترجمة العربية المقابلة للسياق" : "English translation corresponding to the context";
+      tr.innerHTML =
+        "<td colspan='6' class='concOuterCell'>" +
+          "<div class='concCard'>" +
+            "<div class='concTopLine'><span>#" + asc(idx + 1) + "</span><span>" + esc(mode.toUpperCase()) + "</span><span>Match " + asc(Math.round(r.score || 0)) + "%</span></div>" +
+            docTitleHtml(r.docTitle) +
+            "<table class='concMiniTable'>" +
+              "<tr><th>الكلمة / العبارة محل البحث</th><td dir='" + srcDir + "'>" + esc(q) + "</td></tr>" +
+              "<tr><th>" + esc(srcLabel) + "</th><td class='concContext' dir='" + srcDir + "'>" + highlightContext(r.sourceFound || "", q, mode) + "</td></tr>" +
+              "<tr><th>" + esc(tgtLabel) + "</th><td dir='" + tgtDir + "'>" + esc(r.target || "") + "</td></tr>" +
+            "</table>" +
+          "</div>" +
+        "</td>";
+      frag.appendChild(tr);
+    });
+    res.appendChild(frag);
+  }
+
+  function injectConcordanceCss(sh) {
+    if (sh.getElementById("catConcordanceUpgradeStyle")) return;
+    var st = document.createElement("style");
+    st.id = "catConcordanceUpgradeStyle";
+    st.textContent = [
+      "#catConcModeWrap{grid-column:1/-1!important;display:grid!important;grid-template-columns:1fr 1fr!important;gap:6px!important;width:100%!important}",
+      "#catConcModeWrap .concModeBtn{height:30px!important;border-radius:9px!important;border:1px solid #d9e0ea!important;background:#f8fafc!important;color:#334155!important;font:900 11px 'Segoe UI',Tahoma,Arial!important;cursor:pointer!important}",
+      "#catConcModeWrap .concModeBtn.on{background:#2563eb!important;color:#fff!important;border-color:#2563eb!important}",
+      ".concOuterCell{padding:10px!important;background:#f8fafc!important}",
+      ".concCard{border:1px solid #dbe2ea;background:#fff;border-radius:14px;padding:10px;box-shadow:0 8px 22px rgba(15,23,42,.07)}",
+      ".concTopLine{display:flex;gap:8px;justify-content:flex-start;align-items:center;direction:ltr;margin-bottom:8px;color:#475569;font:900 11px 'Segoe UI',Tahoma,Arial}",
+      ".concTopLine span{background:#eef4ff;border:1px solid #dbeafe;border-radius:999px;padding:2px 8px}",
+      ".concDocTitle{display:grid;grid-template-columns:105px 1fr 1fr;gap:8px;align-items:stretch;margin:4px 0 10px}",
+      ".concDocBadge{display:flex;align-items:center;justify-content:center;border-radius:10px;background:#ecfdf5;border:1px solid #bbf7d0;color:#166534;font:900 12px 'GE SS Two Light','Segoe UI',Tahoma,Arial}",
+      ".concDocAr,.concDocEn{border:1px solid #e5e7eb;border-radius:10px;background:#f8fafc;padding:7px 9px;font-size:12px;font-weight:800;line-height:1.6;color:#0f172a}",
+      ".concMiniTable{width:100%!important;border-collapse:separate!important;border-spacing:0!important;table-layout:fixed!important;direction:rtl!important;border:1px solid #e5e7eb!important;border-radius:12px!important;overflow:hidden!important}",
+      ".concMiniTable th{position:static!important;width:210px!important;background:#f1f5f9!important;color:#334155!important;border-left:1px solid #e5e7eb!important;border-bottom:1px solid #e5e7eb!important;padding:9px!important;text-align:center!important;font:900 12px 'GE SS Two Light','Segoe UI',Tahoma,Arial!important;vertical-align:top!important}",
+      ".concMiniTable td{background:#fff!important;border-bottom:1px solid #e5e7eb!important;padding:10px!important;font-size:14px!important;line-height:1.9!important;white-space:pre-wrap!important}",
+      ".concMiniTable tr:last-child th,.concMiniTable tr:last-child td{border-bottom:0!important}",
+      ".concContext{font-weight:700!important}",
+      ".concHit{background:#fff1a8!important;color:#111827!important;border-radius:4px!important;padding:1px 3px!important;box-shadow:inset 0 -1px 0 #f59e0b!important}",
+      "@media(max-width:900px){.concDocTitle{grid-template-columns:1fr!important}.concMiniTable th{width:140px!important;font-size:11px!important}}"
+    ].join("");
+    sh.appendChild(st);
+  }
+
+  function installConcordanceUI(sh) {
+    if (!sh) return;
+    injectConcordanceCss(sh);
+    var input = sh.getElementById("concordQ");
+    var btn = sh.getElementById("concordance");
+    var status = sh.getElementById("status");
+    if (!input || !btn) return;
+
+    var wrap = sh.getElementById("catConcModeWrap");
+    if (!wrap) {
+      wrap = document.createElement("div");
+      wrap.id = "catConcModeWrap";
+      wrap.innerHTML = "<button type='button' class='concModeBtn' data-mode='exact'>Exact</button><button type='button' class='concModeBtn' data-mode='fuzzy'>Fuzzy</button>";
+      input.parentNode.insertBefore(wrap, input.nextSibling);
+    } else if (wrap.parentNode !== input.parentNode) {
+      input.parentNode.insertBefore(wrap, input.nextSibling);
+    }
+
+    function refreshModeButtons() {
+      Array.prototype.slice.call(wrap.querySelectorAll(".concModeBtn")).forEach(function (b) {
+        b.classList.toggle("on", b.getAttribute("data-mode") === APP.concordanceMode);
+      });
+    }
+    Array.prototype.slice.call(wrap.querySelectorAll(".concModeBtn")).forEach(function (b) {
+      b.onclick = function () {
+        APP.concordanceMode = b.getAttribute("data-mode") || "fuzzy";
+        refreshModeButtons();
+        if (status) status.textContent = "وضع Concordance: " + APP.concordanceMode.toUpperCase();
+      };
+    });
+    refreshModeButtons();
+
+    btn.onclick = function () {
+      var q = flat(input.value || "");
+      if (!q) {
+        if (status) status.textContent = "اكتب كلمة أو عبارة للبحث في Concordance.";
+        return;
+      }
+      if (!APP.tus || !APP.tus.length) {
+        if (status) status.textContent = "ابنِ الذاكرة أو حمّلها أولًا قبل Concordance.";
+        return;
+      }
+
+      var mode = APP.concordanceMode || "fuzzy";
+      var L = lang(q);
+      var qP = profile(q, L);
+      var matches = [];
+
+      APP.tus.forEach(function (tu) {
+        if (!tu) return;
+        var srcFound = L === "ar" ? tu.ar : tu.en;
+        var trg = L === "ar" ? tu.en : tu.ar;
+        var p = L === "ar" ? tu.arP : tu.enP;
+        var sc = concordanceMatch(q, qP, srcFound, p, mode);
+        if (!sc) return;
+        matches.push({
+          segment: { text: q, lang: L },
+          best: trg,
+          target: trg,
+          targetLang: L === "ar" ? "en" : "ar",
+          score: Math.max(sc, mode === "exact" ? 100 : 55),
+          status: "Concordance",
+          mode: "concordance-" + mode,
+          sourceFound: srcFound,
+          docTitle: tu.docTitle || titleForRow(tu.row),
+          row: tu.row
+        });
+      });
+
+      matches.sort(function (a, b) {
+        return (+b.score || 0) - (+a.score || 0) || ((+a.row || 0) - (+b.row || 0));
+      });
+      APP.results = matches.slice(0, 120);
+      renderConcordanceResults(sh, APP.results, q, mode);
+      if (status) status.textContent = "نتائج Concordance " + mode.toUpperCase() + ": " + asc(APP.results.length);
+    };
+  }
+
+  ready(function () {
+    function run() {
+      var h = document.getElementById(APP.hostId);
+      var sh = h && h.shadowRoot;
+      if (sh) installConcordanceUI(sh);
+    }
+    var n = 0;
+    (function tick() {
+      run();
+      if (++n < 40) setTimeout(tick, 250);
+    })();
+    window.addEventListener("CAT_V47_PRO_OPEN", run);
+  });
+})();
+
+})();
 
 
 /* =========================================================
