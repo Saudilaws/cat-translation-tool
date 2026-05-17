@@ -1919,10 +1919,29 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
 
   function looksLikeDocTitleRow(row) {
     var tx = rowText(row);
-    if (!tx || tx.length > 900) return false;
+    if (!tx || tx.length > 320) return false;
     if (!hasAr(tx) && !hasEn(tx)) return false;
-    if (/^(?:المادة|مادة|Article|Art\.?|Chapter|Section)\b/i.test(tx)) return false;
-    if (/(?:نظام|لائحة|تنظيم|قواعد|ضوابط|تعليمات|ترتيبات|Law|Regulation|Regulations|Rules|Bylaw|Bylaws|Statute|Code)/i.test(tx)) return true;
+
+    var cleanTx = canonExact(tx);
+    if (!cleanTx) return false;
+
+    /* لا تُعامل مواد النظام أو الجمل التفسيرية الطويلة كعنوان وثيقة. */
+    if (/^(?:\s*\d+\s*[\.)-]|\s*(?:المادة|مادة)\b|\s*(?:Article|Art\.?|Chapter|Section)\b)/i.test(tx)) return false;
+    if (/\b(?:shall|must|may|means|mean|application of this law|for the application|pursuant to|provided that|whereas)\b/i.test(tx) && tx.length > 90) return false;
+    if (/(?:في سبيل تطبيق|يقصد|تعني|يعني|يجب|يلتزم|تلتزم|تطبق|مع مراعاة|دون إخلال|دون اخلال)/.test(tx) && tx.length > 90) return false;
+    if ((tx.match(/[.;؛،,]/g) || []).length >= 2 && tx.length > 90) return false;
+
+    var cells = rowCells(row);
+    var nonEmptyCells = 0;
+    cells.forEach(function (c) { if (flat(c.textContent || "")) nonEmptyCells++; });
+    if (nonEmptyCells > 6 && tx.length > 160) return false;
+
+    /* عناوين الوثائق النظامية تكون غالبًا قصيرة أو تحتوي ألفاظ العنوان نفسها. */
+    var titleWords = /(?:^|[\s\-–—:|])(?:نظام|لائحة|تنظيم|قواعد|ضوابط|تعليمات|ترتيبات|قانون|Law|Regulation|Regulations|Rules|Bylaw|Bylaws|Statute|Code)(?:$|[\s\-–—:|])/i;
+    if (titleWords.test(tx) && tx.length <= 260) return true;
+
+    /* صف عنوان ثنائي قصير بلا صياغة مادة. */
+    if (hasAr(tx) && hasEn(tx) && tx.length <= 180 && !/(?:shall|must|يجب|يلتزم|تطبق|المادة|Article)/i.test(tx)) return true;
     return false;
   }
 
@@ -1933,6 +1952,44 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     return -1;
   }
 
+  function hasVisualDocumentStartBefore(rows, i) {
+    if (!rows || i <= 0 || !rows[i]) return true;
+    var prev = previousVisibleSibling(rows[i]);
+    if (!prev) return true;
+    if (visualGapBetween(rows[i], prev) >= 16) return true;
+    var j = i - 1;
+    while (j >= 0 && isHiddenOrSkippable(rows[j])) j--;
+    if (j >= 0 && isBlankOrSeparatorRow(rows[j])) return true;
+    return false;
+  }
+
+  function nextLikelyTitleAfterSeparator(rows, separatorIndex, limit) {
+    var n = nextNonEmptyRow(rows, separatorIndex + 1);
+    if (n >= 0 && (typeof limit !== "number" || n <= limit) && looksLikeDocTitleRow(rows[n])) return n;
+    return -1;
+  }
+
+  function findNearestDocTitleIndex(rows, rowNo) {
+    rows = rows || [];
+    rowNo = Math.min(Math.max(+rowNo || 0, 0), rows.length - 1);
+    var fallback = -1;
+
+    for (var i = rowNo; i >= 0; i--) {
+      if (!rows[i]) continue;
+
+      if (isBlankOrSeparatorRow(rows[i])) {
+        var n = nextLikelyTitleAfterSeparator(rows, i, rowNo);
+        if (n >= 0) return n;
+        continue;
+      }
+
+      if (!looksLikeDocTitleRow(rows[i])) continue;
+      if (hasVisualDocumentStartBefore(rows, i)) return i;
+      if (fallback < 0) fallback = i;
+    }
+    return fallback;
+  }
+
   function buildDocTitleMap(rows) {
     rows = rows || [];
     var map = [];
@@ -1940,24 +1997,18 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     var pendingTitleAt = -1;
 
     for (var i = 0; i < rows.length; i++) {
-      var titleFromGap = null;
-      var titleEl = nearestTitleElementFrom(rows[i]);
-      if (titleEl) titleFromGap = parseDocTitleElement(titleEl);
-
-      if (titleFromGap && (titleFromGap.ar || titleFromGap.en || titleFromGap.raw)) {
-        current = titleFromGap;
-      } else if (isBlankOrSeparatorRow(rows[i])) {
+      if (isBlankOrSeparatorRow(rows[i])) {
         var n = nextNonEmptyRow(rows, i + 1);
         if (n >= 0) pendingTitleAt = n;
-      } else if (pendingTitleAt === i) {
+        map[i] = current || { ar: "", en: "", raw: "" };
+        continue;
+      }
+
+      var isStart = hasVisualDocumentStartBefore(rows, i);
+      if ((pendingTitleAt === i || isStart || (!current.ar && !current.en)) && looksLikeDocTitleRow(rows[i])) {
         var t = parseDocTitleElement(rows[i]);
-        if (t.ar || t.en || t.raw) current = t;
+        if (t && (t.ar || t.en || t.raw)) current = t;
         pendingTitleAt = -1;
-      } else if ((!current.ar && !current.en) && looksLikeDocTitleRow(rows[i])) {
-        current = parseDocTitleElement(rows[i]);
-      } else if (looksLikeDocTitleRow(rows[i]) && rowCells(rows[i]).length <= 4) {
-        var t2 = parseDocTitleElement(rows[i]);
-        if (t2.ar || t2.en) current = t2;
       }
 
       map[i] = current || { ar: "", en: "", raw: "" };
@@ -1969,27 +2020,49 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     rowNo = +rowNo;
     if (!(rowNo >= 0)) return { ar: "", en: "", raw: "" };
 
-    var row = APP._docRows && APP._docRows[rowNo];
+    var rows = APP._docRows && APP._docRows.length ? APP._docRows : getPageRows();
+    if ((!APP._docRows || !APP._docRows.length) && rows && rows.length) APP._docRows = rows;
+
+    var t = APP.docTitleByRow && APP.docTitleByRow[rowNo];
+    if (t && (t.ar || t.en || t.raw)) return t;
+
+    if (rows && rows.length) {
+      if (!APP.docTitleByRow || !APP.docTitleByRow.length) APP.docTitleByRow = buildDocTitleMap(rows);
+      t = APP.docTitleByRow && APP.docTitleByRow[rowNo];
+      if (t && (t.ar || t.en || t.raw)) return t;
+
+      var idx = findNearestDocTitleIndex(rows, rowNo);
+      if (idx >= 0 && rows[idx]) {
+        var parsed = parseDocTitleElement(rows[idx]);
+        if (parsed && (parsed.ar || parsed.en || parsed.raw)) {
+          if (APP.docTitleByRow) {
+            for (var k = idx; k < rows.length; k++) {
+              if (k > idx && looksLikeDocTitleRow(rows[k]) && hasVisualDocumentStartBefore(rows, k)) break;
+              APP.docTitleByRow[k] = parsed;
+            }
+          }
+          return parsed;
+        }
+      }
+    }
+
+    /* احتياط أخير بنفس فكرة KWIC: استخدم العنصر الواقع تحت الفاصل المرئي فقط إذا كان يشبه عنوان وثيقة. */
+    var row = rows && rows[rowNo];
     if (row) {
       try {
         var cached = APP._docTitleCacheByElement.get(row);
         if (cached && (cached.ar || cached.en || cached.raw)) return cached;
         var titleEl = nearestTitleElementFrom(row);
-        var direct = titleEl ? parseDocTitleElement(titleEl) : null;
-        if (direct && (direct.ar || direct.en || direct.raw)) {
-          APP._docTitleCacheByElement.set(row, direct);
-          return direct;
+        if (titleEl && looksLikeDocTitleRow(titleEl)) {
+          var direct = parseDocTitleElement(titleEl);
+          if (direct && (direct.ar || direct.en || direct.raw)) {
+            APP._docTitleCacheByElement.set(row, direct);
+            return direct;
+          }
         }
       } catch (e) {}
     }
 
-    var t = APP.docTitleByRow && APP.docTitleByRow[rowNo];
-    if (t && (t.ar || t.en || t.raw)) return t;
-    if (APP._docRows && APP._docRows.length) {
-      APP.docTitleByRow = buildDocTitleMap(APP._docRows);
-      t = APP.docTitleByRow[rowNo];
-      if (t && (t.ar || t.en || t.raw)) return t;
-    }
     return { ar: "", en: "", raw: "" };
   }
 
@@ -2616,6 +2689,17 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
       x.title = "مسح نص المصدر";
       x.setAttribute("aria-label", "مسح نص المصدر");
       x.textContent = "×";
+      function clearSourceResultsIfEmpty() {
+        if (flat(source.value || "")) return;
+        try {
+          APP.results = [];
+          var res = sh.getElementById("res");
+          if (res) {
+            res.innerHTML = "<tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>لا توجد نتائج بعد.</td></tr>";
+          }
+          if (typeof updateStats === "function") updateStats();
+        } catch (e) {}
+      }
       function syncClearX() {
         x.classList.toggle("show", !!flat(source.value || ""));
       }
@@ -2623,10 +2707,14 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
         source.value = "";
         source.dispatchEvent(new Event("input", { bubbles: true }));
         syncClearX();
+        clearSourceResultsIfEmpty();
         source.focus();
-        putStatus(sh, "تم مسح خانة Source.");
+        putStatus(sh, "تم مسح خانة Source وإخفاء النتائج.");
       };
-      source.addEventListener("input", syncClearX);
+      source.addEventListener("input", function () {
+        syncClearX();
+        clearSourceResultsIfEmpty();
+      });
       source.addEventListener("paste", function () { setTimeout(syncClearX, 0); });
       inputArea.appendChild(x);
       syncClearX();
