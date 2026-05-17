@@ -1731,3 +1731,377 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     return direct;
   };
 })();})();
+
+
+/* =========================================================
+   ADD-ON: Source Clear X + Import Excel (.xlsx/.csv)
+   - زر X يسار خانة المصدر لمسح النص
+   - زر Import Excel في قائمة الأيقونات اليمنى
+   - إذا كان Excel ثنائي اللغة: يستورده كجدول HTML مخفي لبناء الذاكرة
+   - إذا كان Excel أحادي اللغة: يضعه في خانة Source للتحليل
+========================================================= */
+(function () {
+  "use strict";
+
+  var HOST_ID = "cat-v47-cell-segment-pro-enhanced-host";
+  var EXCEL_BOX_ID = HOST_ID + "-imported-excel-tm";
+
+  function asc(s) {
+    return String(s || "")
+      .replace(/[\u0660-\u0669]/g, function (d) { return String(d.charCodeAt(0) - 1632); })
+      .replace(/[\u06F0-\u06F9]/g, function (d) { return String(d.charCodeAt(0) - 1776); });
+  }
+
+  function flat(s) {
+    return String(s || "")
+      .replace(/[\u200E\u200F\u202A-\u202E\u2066-\u2069]/g, "")
+      .replace(/[\u200B\u200C\u200D\u2060\uFEFF\u034F]/g, "")
+      .replace(/[\u00A0\u202F\u2007-\u200A]/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
+  }
+
+  function hasAr(s) { return /[\u0600-\u06FF]/.test(String(s || "")); }
+  function hasEn(s) { return /[A-Za-z]/.test(String(s || "")); }
+
+  function putStatus(sh, msg) {
+    var st = sh && sh.getElementById("status");
+    if (st) st.textContent = msg;
+  }
+
+  function waitForUI(cb, tries) {
+    tries = typeof tries === "number" ? tries : 80;
+    var host = document.getElementById(HOST_ID);
+    var sh = host && host.shadowRoot;
+    if (sh && sh.getElementById("panel") && sh.getElementById("source")) {
+      cb(sh);
+      return;
+    }
+    if (tries <= 0) return;
+    setTimeout(function () { waitForUI(cb, tries - 1); }, 250);
+  }
+
+  function showSourceArea(sh) {
+    var panel = sh.getElementById("panel");
+    var inputArea = sh.querySelector(".inputArea");
+    var btn = sh.getElementById("toggleSourceIcon");
+    if (panel) panel.classList.remove("sourceCollapsed");
+    if (inputArea) {
+      inputArea.style.display = "block";
+      inputArea.style.visibility = "visible";
+      inputArea.style.height = "auto";
+      inputArea.style.padding = "10px";
+      inputArea.style.overflow = "hidden";
+    }
+    if (btn) {
+      btn.textContent = "SRC−";
+      btn.classList.remove("on");
+      btn.setAttribute("aria-pressed", "false");
+    }
+  }
+
+  function u16(view, off) { return view.getUint16(off, true); }
+  function u32(view, off) { return view.getUint32(off, true); }
+
+  function decodeUtf8(bytes) {
+    return new TextDecoder("utf-8").decode(bytes);
+  }
+
+  async function inflateZip(bytes) {
+    if (typeof DecompressionStream === "undefined") {
+      throw new Error("متصفحك لا يدعم فك ضغط XLSX محلياً. احفظ الملف بصيغة CSV أو افتحه من Chrome حديث.");
+    }
+    try {
+      var ds = new DecompressionStream("deflate-raw");
+      return new Uint8Array(await new Response(new Blob([bytes]).stream().pipeThrough(ds)).arrayBuffer());
+    } catch (e1) {
+      var ds2 = new DecompressionStream("deflate");
+      return new Uint8Array(await new Response(new Blob([bytes]).stream().pipeThrough(ds2)).arrayBuffer());
+    }
+  }
+
+  async function readXlsxZip(arrayBuffer) {
+    var bytes = new Uint8Array(arrayBuffer);
+    var view = new DataView(arrayBuffer);
+    var min = Math.max(0, bytes.length - 66000);
+    var eocd = -1;
+    for (var p = bytes.length - 22; p >= min; p--) {
+      if (u32(view, p) === 0x06054b50) { eocd = p; break; }
+    }
+    if (eocd < 0) throw new Error("ملف XLSX غير صالح أو تالف.");
+
+    var entriesCount = u16(view, eocd + 10);
+    var cdOff = u32(view, eocd + 16);
+    var entries = Object.create(null);
+    var off = cdOff;
+
+    for (var i = 0; i < entriesCount; i++) {
+      if (u32(view, off) !== 0x02014b50) break;
+      var method = u16(view, off + 10);
+      var compSize = u32(view, off + 20);
+      var nameLen = u16(view, off + 28);
+      var extraLen = u16(view, off + 30);
+      var commentLen = u16(view, off + 32);
+      var localOff = u32(view, off + 42);
+      var name = decodeUtf8(bytes.slice(off + 46, off + 46 + nameLen));
+      entries[name] = { method: method, compSize: compSize, localOff: localOff };
+      off += 46 + nameLen + extraLen + commentLen;
+    }
+
+    async function bytesOf(name) {
+      var e = entries[name];
+      if (!e) return null;
+      if (u32(view, e.localOff) !== 0x04034b50) throw new Error("بنية XLSX غير صالحة.");
+      var ln = u16(view, e.localOff + 26);
+      var lx = u16(view, e.localOff + 28);
+      var dataStart = e.localOff + 30 + ln + lx;
+      var comp = bytes.slice(dataStart, dataStart + e.compSize);
+      if (e.method === 0) return comp;
+      if (e.method === 8) return await inflateZip(comp);
+      throw new Error("نوع ضغط غير مدعوم داخل XLSX: " + e.method);
+    }
+
+    return {
+      names: function () { return Object.keys(entries); },
+      text: async function (name) {
+        var b = await bytesOf(name);
+        return b ? decodeUtf8(b) : "";
+      }
+    };
+  }
+
+  function xmlDoc(xmlText) {
+    return new DOMParser().parseFromString(String(xmlText || ""), "application/xml");
+  }
+
+  function localNodes(el, name) {
+    return Array.prototype.slice.call(el.getElementsByTagNameNS("*", name));
+  }
+
+  function parseSharedStrings(xmlText) {
+    var xml = xmlDoc(xmlText);
+    var sis = localNodes(xml, "si");
+    return sis.map(function (si) {
+      return flat(localNodes(si, "t").map(function (t) { return t.textContent || ""; }).join(""));
+    });
+  }
+
+  function textFromCell(c, shared) {
+    var t = c.getAttribute("t") || "";
+    if (t === "s") {
+      var idxNode = localNodes(c, "v")[0];
+      var idx = idxNode ? parseInt(idxNode.textContent || "0", 10) : 0;
+      return flat(shared[idx] || "");
+    }
+    if (t === "inlineStr") {
+      return flat(localNodes(c, "t").map(function (x) { return x.textContent || ""; }).join(""));
+    }
+    var v = localNodes(c, "v")[0];
+    return flat(v ? v.textContent || "" : "");
+  }
+
+  function parseSheetRows(xmlText, shared) {
+    var xml = xmlDoc(xmlText);
+    var rows = localNodes(xml, "row");
+    var out = [];
+    rows.forEach(function (r) {
+      var cells = localNodes(r, "c").map(function (c) { return textFromCell(c, shared); }).filter(Boolean);
+      if (cells.length) out.push(cells);
+    });
+    return out;
+  }
+
+  async function parseXlsxRows(file) {
+    var zip = await readXlsxZip(await file.arrayBuffer());
+    var names = zip.names();
+    var shared = [];
+    if (names.indexOf("xl/sharedStrings.xml") >= 0) {
+      shared = parseSharedStrings(await zip.text("xl/sharedStrings.xml"));
+    }
+    var sheets = names
+      .filter(function (n) { return /^xl\/worksheets\/sheet\d+\.xml$/i.test(n); })
+      .sort(function (a, b) {
+        return (+((a.match(/sheet(\d+)\.xml/i) || [0, 0])[1])) - (+((b.match(/sheet(\d+)\.xml/i) || [0, 0])[1]));
+      });
+    if (!sheets.length) throw new Error("لم أجد أوراق عمل داخل ملف XLSX.");
+
+    var all = [];
+    for (var i = 0; i < sheets.length; i++) {
+      var rows = parseSheetRows(await zip.text(sheets[i]), shared);
+      rows.forEach(function (r) { all.push(r); });
+    }
+    return all;
+  }
+
+  function parseCsvRows(text) {
+    var raw = String(text || "").replace(/^\uFEFF/, "");
+    var first = raw.split(/\r?\n/).slice(0, 10).join("\n");
+    var delim = "\t";
+    if ((first.match(/;/g) || []).length > (first.match(/\t/g) || []).length) delim = ";";
+    if ((first.match(/,/g) || []).length > (first.match(new RegExp(delim === "\t" ? "\\t" : delim, "g")) || []).length) delim = ",";
+
+    function splitLine(line) {
+      var out = [];
+      var cur = "";
+      var q = false;
+      for (var i = 0; i < line.length; i++) {
+        var ch = line[i];
+        if (ch === '"') {
+          if (q && line[i + 1] === '"') { cur += '"'; i++; }
+          else q = !q;
+        } else if (ch === delim && !q) {
+          out.push(flat(cur));
+          cur = "";
+        } else {
+          cur += ch;
+        }
+      }
+      out.push(flat(cur));
+      return out.filter(Boolean);
+    }
+
+    return raw.split(/\r?\n/).map(splitLine).filter(function (r) { return r.length; });
+  }
+
+  function buildHiddenTableFromRows(rows) {
+    var old = document.getElementById(EXCEL_BOX_ID);
+    if (old) old.remove();
+
+    var box = document.createElement("div");
+    box.id = EXCEL_BOX_ID;
+    box.style.cssText = "display:none!important";
+
+    var table = document.createElement("table");
+    var tbody = document.createElement("tbody");
+    rows.forEach(function (row) {
+      var tr = document.createElement("tr");
+      row.forEach(function (cell) {
+        var td = document.createElement("td");
+        td.textContent = flat(cell);
+        tr.appendChild(td);
+      });
+      tbody.appendChild(tr);
+    });
+    table.appendChild(tbody);
+    box.appendChild(table);
+    document.body.appendChild(box);
+  }
+
+  function putRowsInSource(sh, rows) {
+    var source = sh.getElementById("source");
+    if (!source) return;
+    source.value = rows.map(function (r) { return r.map(flat).filter(Boolean).join(" "); }).filter(Boolean).join("\n");
+    source.dispatchEvent(new Event("input", { bubbles: true }));
+    showSourceArea(sh);
+    source.focus();
+  }
+
+  function applyExcelRows(sh, rows, fileName) {
+    rows = (rows || []).map(function (r) {
+      return (r || []).map(flat).filter(Boolean);
+    }).filter(function (r) { return r.length; });
+
+    if (!rows.length) {
+      putStatus(sh, "لم أجد نصوصاً قابلة للاستيراد داخل ملف Excel.");
+      return;
+    }
+
+    var bilingual = rows.filter(function (r) {
+      var joined = r.join(" ");
+      return hasAr(joined) && hasEn(joined);
+    }).length;
+
+    if (bilingual > 0) {
+      buildHiddenTableFromRows(rows);
+      putStatus(sh, "تم استيراد Excel كذاكرة HTML مخفية: " + asc(rows.length) + " صف — الصفوف الثنائية اللغة: " + asc(bilingual) + " — اضغط بناء ذاكرة الترجمة.");
+    } else {
+      putRowsInSource(sh, rows);
+      putStatus(sh, "تم استيراد Excel في خانة Source: " + asc(rows.length) + " سطر — اضغط تحليل النص.");
+    }
+  }
+
+  async function handleExcelFile(sh, file) {
+    if (!file) return;
+    var name = file.name || "Excel";
+    var lower = name.toLowerCase();
+    try {
+      putStatus(sh, "جاري استيراد Excel محلياً...");
+      var rows;
+      if (/\.csv$/i.test(lower)) rows = parseCsvRows(await file.text());
+      else if (/\.xlsx$/i.test(lower)) rows = await parseXlsxRows(file);
+      else if (/\.xls$/i.test(lower)) {
+        putStatus(sh, "صيغة XLS القديمة غير مدعومة هنا. احفظ الملف بصيغة XLSX أو CSV ثم أعد الاستيراد.");
+        return;
+      } else {
+        putStatus(sh, "الملف غير مدعوم. استخدم XLSX أو CSV.");
+        return;
+      }
+      applyExcelRows(sh, rows, name);
+    } catch (e) {
+      putStatus(sh, "فشل استيراد Excel: " + (e && e.message ? e.message : e));
+    }
+  }
+
+  function injectUI(sh) {
+    if (!sh.getElementById("catExcelClearPatchStyle")) {
+      var st = document.createElement("style");
+      st.id = "catExcelClearPatchStyle";
+      st.textContent = [
+        ".inputArea{position:relative!important}",
+        "#catSourceClearX{position:absolute!important;left:16px!important;top:16px!important;width:34px!important;height:34px!important;min-width:34px!important;padding:0!important;border-radius:999px!important;border:1px solid #fecaca!important;background:#fff!important;color:#dc2626!important;font:900 20px/1 'Segoe UI',Tahoma,Arial!important;box-shadow:0 4px 14px rgba(220,38,38,.12)!important;z-index:5!important;cursor:pointer!important}",
+        "#catSourceClearX:hover{background:#fee2e2!important;color:#991b1b!important}",
+        "#source{padding-left:56px!important}",
+        "#catImportExcelBtn{background:#0f766e!important;color:#fff!important;border-color:#0f766e!important;font-weight:900!important}",
+        "#catImportExcelBtn:hover{filter:brightness(.96)!important}"
+      ].join("");
+      sh.appendChild(st);
+    }
+
+    var inputArea = sh.querySelector(".inputArea");
+    var source = sh.getElementById("source");
+    if (inputArea && source && !sh.getElementById("catSourceClearX")) {
+      var x = document.createElement("button");
+      x.id = "catSourceClearX";
+      x.type = "button";
+      x.title = "مسح نص المصدر";
+      x.setAttribute("aria-label", "مسح نص المصدر");
+      x.textContent = "×";
+      x.onclick = function () {
+        source.value = "";
+        source.dispatchEvent(new Event("input", { bubbles: true }));
+        source.focus();
+        putStatus(sh, "تم مسح خانة Source.");
+      };
+      inputArea.appendChild(x);
+    }
+
+    var side = sh.querySelector(".side");
+    var panel = sh.getElementById("panel");
+    if (side && panel && !sh.getElementById("catImportExcelBtn")) {
+      var btn = document.createElement("button");
+      btn.id = "catImportExcelBtn";
+      btn.type = "button";
+      btn.title = "استيراد ملف Excel / CSV";
+      btn.textContent = "📊 Import Excel";
+
+      var file = document.createElement("input");
+      file.id = "fileExcelTM";
+      file.className = "hiddenFile";
+      file.type = "file";
+      file.accept = ".xlsx,.xls,.csv,text/csv,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";
+      file.onchange = function () {
+        var f = file.files && file.files[0];
+        handleExcelFile(sh, f).finally(function () { file.value = ""; });
+      };
+      btn.onclick = function () { file.click(); };
+
+      var after = sh.getElementById("importHTML") || sh.getElementById("importDOCX");
+      if (after && after.parentNode) after.insertAdjacentElement("afterend", btn);
+      else side.insertBefore(btn, side.firstChild);
+      panel.appendChild(file);
+    }
+  }
+
+  waitForUI(injectUI);
+  window.addEventListener("CAT_V47_PRO_OPEN", function () { waitForUI(injectUI); });
+})();
