@@ -1069,35 +1069,6 @@ $("#needsStat").style.color = needs ? "#DC2626" : "#168A45";
 $("#reviewStat").textContent = asc(review);
 $("#reviewStat").style.color = review ? "#F59E0B" : "#168A45";
 }
-function sourceHasValueNow() {
-return !!flat(source && source.value || "");
-}
-function emptyResultsRowHtml(message) {
-return "<tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>" + esc(message || "لا توجد نتائج بعد.") + "</td></tr>";
-}
-function clearResultsBecauseSourceEmpty(message) {
-if (sourceHasValueNow()) return false;
-APP.stop = true;
-APP.results = [];
-res.innerHTML = emptyResultsRowHtml(message || "لا توجد نتائج بعد.");
-ui.progress(0, 0);
-updateStats();
-try { if (typeof updateNavCounters === "function") updateNavCounters(); } catch (e) {}
-return true;
-}
-function watchSourceEmptiness() {
-if (!sourceHasValueNow()) {
-clearResultsBecauseSourceEmpty("لا توجد نتائج بعد.");
-ui.status("تم مسح خانة Source وإخفاء النتائج.");
-}
-}
-["input", "change", "keyup", "cut", "blur"].forEach(function (ev) {
-source.addEventListener(ev, function () { setTimeout(watchSourceEmptiness, 0); }, true);
-});
-source.addEventListener("paste", function () { setTimeout(watchSourceEmptiness, 0); setTimeout(watchSourceEmptiness, 80); }, true);
-setInterval(function () {
-if (!sourceHasValueNow() && APP.results && APP.results.length) watchSourceEmptiness();
-}, 120);
 function updateStoredTargets() {
 var boxes = Array.prototype.slice.call(res.querySelectorAll(".targetDraft"));
 boxes.forEach(function (b) {
@@ -1112,7 +1083,12 @@ else APP.results[i].status = "Review";
 updateStats();
 }
 function renderResults(results) {
-if (clearResultsBecauseSourceEmpty("لا توجد نتائج بعد.")) return;
+if (!flat(source && source.value || "")) {
+  APP.results = [];
+  res.innerHTML = "<tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>لا توجد نتائج بعد.</td></tr>";
+  updateStats();
+  return;
+}
 res.innerHTML = "";
 if (!results.length) {
 res.innerHTML = "<tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>\u0644\u0627 \u062a\u0648\u062c\u062f \u0646\u062a\u0627\u0626\u062c.</td></tr>";
@@ -1163,10 +1139,9 @@ updateStats();
 }
 function analyze() {
 if (!APP.built || !APP.tus.length) { ui.status("\u0627\u0628\u0646\u0650 \u0627\u0644\u0630\u0627\u0643\u0631\u0629 \u0623\u0648\u0644\u064b\u0627 \u0628\u0627\u0644\u0636\u063a\u0637 \u0639\u0644\u0649 \xab\u0628\u0646\u0627\u0621 \u0630\u0627\u0643\u0631\u0629 \u0627\u0644\u062a\u0631\u062c\u0645\u0629\xbb."); return; }
-if (!sourceHasValueNow()) { clearResultsBecauseSourceEmpty("لا توجد نتائج بعد."); ui.status("ألصق النص أولًا."); return; }
 APP.stop = false;
 var v = source.value.trim();
-if (!flat(v)) { clearResultsBecauseSourceEmpty("لا توجد نتائج بعد."); ui.status("ألصق النص أولًا."); return; }
+if (!v) { APP.results = []; res.innerHTML = "<tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>لا توجد نتائج بعد.</td></tr>"; updateStats(); ui.status("ألصق النص أولًا."); return; }
 var forced = $("#slang").value;
 var L = forced === "auto" ? null : forced;
 var segs = splitSegments(v, L);
@@ -1178,8 +1153,8 @@ ui.progress(0, segs.length);
 updateStats();
 var i = 0;
 function step() {
-if (!sourceHasValueNow()) { clearResultsBecauseSourceEmpty("لا توجد نتائج بعد."); ui.status("تم مسح خانة Source وإيقاف التحليل."); return; }
-if (APP.stop) { ui.status("\u062a\u0645 \u0625\u064a\u0642\u0627\u0641 \u0627\u0644\u062a\u062d\u0644\u064a\u0644."); return; }
+if (!flat(source && source.value || "")) { APP.stop = true; APP.results = []; res.innerHTML = "<tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>لا توجد نتائج بعد.</td></tr>"; updateStats(); ui.progress(0,0); ui.status("تم مسح Source وإخفاء النتائج."); return; }
+if (APP.stop) { ui.status("تم إيقاف التحليل."); return; }
 var end = Math.min(i + 100, segs.length);
 for (; i < end; i++) {
 var seg = segs[i];
@@ -2214,6 +2189,52 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
       });
     }
 
+
+    function isBlankDocTitleObject(doc) {
+      doc = doc || {};
+      return !flat(doc.ar || "") && !flat(doc.en || "") && !flat(doc.raw || "");
+    }
+    function titleLooksLikeArticle(doc) {
+      var tx = flat(((doc && doc.ar) || "") + " " + ((doc && doc.en) || "") + " " + ((doc && doc.raw) || ""));
+      if (!tx) return true;
+      if (/^(?:Article|Art\.?|Chapter|Section)\s*\d*/i.test(tx)) return true;
+      if (/^(?:المادة|مادة|الفصل|الباب|القسم)/.test(tx)) return true;
+      return false;
+    }
+    function rowContainsBothOrOne(row, srcText, trgText) {
+      var rt = loose(elementText(row));
+      if (!rt) return false;
+      var s1 = loose(srcText || "");
+      var s2 = loose(trgText || "");
+      if (s1 && rt.indexOf(s1.slice(0, Math.min(s1.length, 180))) >= 0) return true;
+      if (s2 && rt.indexOf(s2.slice(0, Math.min(s2.length, 180))) >= 0) return true;
+      return false;
+    }
+    function findRowNoBySourceText(srcText, trgText) {
+      var rows = APP._docRows && APP._docRows.length ? APP._docRows : getPageRows();
+      if (rows && rows.length) APP._docRows = rows;
+      var srcNeedle = loose(srcText || "");
+      var trgNeedle = loose(trgText || "");
+      if (!srcNeedle && !trgNeedle) return -1;
+      for (var i = 0; i < rows.length; i++) {
+        if (rowContainsBothOrOne(rows[i], srcNeedle, trgNeedle)) return i;
+      }
+      return -1;
+    }
+    function robustDocTitleForTU(tu, srcFound, trg) {
+      var t = titleForRow(tu && tu.row);
+      if (isBlankDocTitleObject(t) || titleLooksLikeArticle(t)) {
+        var foundRow = findRowNoBySourceText(srcFound, trg);
+        if (foundRow >= 0) {
+          var t2 = titleForRow(foundRow);
+          if (!isBlankDocTitleObject(t2) && !titleLooksLikeArticle(t2)) return t2;
+          if (!isBlankDocTitleObject(t2)) return t2;
+        }
+      }
+      if (isBlankDocTitleObject(t) && tu && tu.docTitle) t = tu.docTitle;
+      return t || { ar: "", en: "", raw: "" };
+    }
+
     btn.onclick = function () {
       var q = flat(input.value || "");
       if (!q) {
@@ -2246,7 +2267,7 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
           status: "Concordance",
           mode: "concordance-kwic-title-logic-" + mode,
           sourceFound: srcFound,
-          docTitle: titleForRow(tu.row) || tu.docTitle || { ar: "", en: "", raw: "" },
+          docTitle: robustDocTitleForTU(tu, srcFound, trg),
           row: tu.row
         });
       });
@@ -2594,9 +2615,9 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
       st.id = "catExcelClearPatchStyle";
       st.textContent = [
         ".inputArea{position:relative!important}",
-        "#catSourceClearX{position:absolute!important;left:42px!important;top:16px!important;width:32px!important;height:32px!important;min-width:32px!important;padding:0!important;border-radius:999px!important;border:1px solid #e5e7eb!important;background:#f8fafc!important;color:#94a3b8!important;font:900 19px/1 'Segoe UI',Tahoma,Arial!important;box-shadow:0 3px 10px rgba(15,23,42,.08)!important;z-index:5!important;cursor:pointer!important;display:none!important}",
+        "#catSourceClearX{position:absolute!important;left:42px!important;top:16px!important;width:32px!important;height:32px!important;min-width:32px!important;padding:0!important;border-radius:999px!important;border:1px solid #d1d5db!important;background:#f8fafc!important;color:#111827!important;font:900 21px/1 'Segoe UI',Tahoma,Arial!important;box-shadow:0 3px 10px rgba(15,23,42,.10)!important;z-index:999!important;cursor:pointer!important;display:none!important;pointer-events:auto!important}",
         "#catSourceClearX.show{display:block!important}",
-        "#catSourceClearX:hover{background:#f1f5f9!important;color:#64748b!important;border-color:#cbd5e1!important}",
+        "#catSourceClearX:hover{background:#e5e7eb!important;color:#000!important;border-color:#9ca3af!important}",
         "#source{padding-left:82px!important}",
         "#catImportExcelBtn{background:#eff6ff!important;color:#1d4ed8!important;border-color:#bfdbfe!important;font-weight:900!important}",
         "#catImportExcelBtn:hover{filter:brightness(.98)!important}"
@@ -2613,30 +2634,33 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
       x.title = "مسح نص المصدر";
       x.setAttribute("aria-label", "مسح نص المصدر");
       x.textContent = "×";
-      function clearSourceResultsIfEmpty() {
-        if (flat(source.value || "")) return;
+      function forceClearSourceAndResults() {
+        try { APP.stop = true; } catch (e) {}
+        try { APP.results = []; } catch (e) {}
         try {
-          APP.results = [];
           var res = sh.getElementById("res");
-          if (res) {
-            res.innerHTML = "<tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>لا توجد نتائج بعد.</td></tr>";
-          }
+          if (res) res.innerHTML = "<tr><td colspan='6' style='text-align:center;padding:30px;color:#64748b'>لا توجد نتائج بعد.</td></tr>";
+          var fill = sh.getElementById("fill");
+          if (fill) fill.style.width = "0%";
           if (typeof updateStats === "function") updateStats();
         } catch (e) {}
+      }
+      function clearSourceResultsIfEmpty() {
+        if (flat(source.value || "")) return;
+        forceClearSourceAndResults();
       }
       function syncClearX() {
         x.classList.toggle("show", !!flat(source.value || ""));
       }
-      x.onclick = function () {
-        APP.stop = true;
+      x.addEventListener("click", function (ev) {
+        if (ev) { ev.preventDefault(); ev.stopPropagation(); }
         source.value = "";
-        source.dispatchEvent(new Event("input", { bubbles: true }));
+        try { source.dispatchEvent(new Event("input", { bubbles: true })); } catch (e) {}
         syncClearX();
-        clearSourceResultsIfEmpty();
-        try { if (typeof clearResultsBecauseSourceEmpty === "function") clearResultsBecauseSourceEmpty("لا توجد نتائج بعد."); } catch (e) {}
+        forceClearSourceAndResults();
         source.focus();
         putStatus(sh, "تم مسح خانة Source وإخفاء النتائج.");
-      };
+      }, true);
       source.addEventListener("input", function () {
         syncClearX();
         clearSourceResultsIfEmpty();
