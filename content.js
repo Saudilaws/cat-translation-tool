@@ -196,7 +196,7 @@ var parts = [];
 var st = 0;
 for (var i = 0; i < line.length; i++) {
 var ch = line[i];
-var isEnd = ch === "." || ch === "!" || ch === "?" || ch === "\u061f" || ch === "Ø" || ch === ";";
+var isEnd = ch === "." || ch === "!" || ch === "?" || ch === "\u061f" || ch === "\u061b" || ch === ";";
 if (!isEnd) continue;
 if (isDecimalDot(line, i) || isKnownAbbrevDot(line, i)) continue;
 var p = flat(line.slice(st, i + 1));
@@ -386,12 +386,12 @@ APP.building = true;
 var rows = getPageRows();
 var total = rows.length;
 var i = 0;
-ui.status("Ø¬Ø§Ø±Ù Ø¨ÙØ§Ø¡ Ø°Ø§ÙØ±Ø© Ø§ÙØªØ±Ø¬ÙØ© ÙÙ ØµÙØ­Ø© HTML Ø¨ÙØ¸Ø§Ù Ø§ÙØ®ÙÙØ© = Segment ÙØ§Ø­Ø¯...");
+ui.status("جاري بناء ذاكرة الترجمة من صفحة HTML بنظام الخلية = Segment واحد...");
 ui.progress(0, total);
 function step() {
 if (APP.stop) {
 APP.building = false;
-ui.status("ØªÙ Ø¥ÙÙØ§Ù Ø¨ÙØ§Ø¡ Ø§ÙØ°Ø§ÙØ±Ø©.");
+ui.status("تم إيقاف بناء الذاكرة.");
 return;
 }
 var end = Math.min(i + 80, total);
@@ -427,13 +427,13 @@ addTMUnits(p.ar.text, p.en.text, i, "cell-pair r" + (i + 1) + " c" + p.ar.cell +
 });
 }
 ui.progress(i, total);
-ui.status("Ø¨ÙØ§Ø¡ Ø§ÙØ°Ø§ÙØ±Ø©: " + asc(i) + " / " + asc(total) + " â Ø®ÙØ§ÙØ§ TM: " + asc(APP.tus.length) + " â Ø®ÙØ§ÙØ§ ÙÙÙØ±Ø³Ø©: " + asc(APP.cells.length));
+ui.status("بناء الذاكرة: " + asc(i) + " / " + asc(total) + " — خلايا TM: " + asc(APP.tus.length) + " — خلايا مفهرسة: " + asc(APP.cells.length));
 if (i < total) setTimeout(step, 1);
 else {
 APP.built = true;
 APP.building = false;
 ui.progress(total, total);
-ui.status("Ø§ÙØªÙÙ Ø¨ÙØ§Ø¡ Ø§ÙØ°Ø§ÙØ±Ø© Ø¨ÙØ¸Ø§Ù Ø§ÙØ®ÙÙØ© = Segment ÙØ§Ø­Ø¯. Ø®ÙØ§ÙØ§ TM: " + asc(APP.tus.length) + " â Ø®ÙØ§ÙØ§ ÙÙÙØ±Ø³Ø©: " + asc(APP.cells.length));
+ui.status("اكتمل بناء الذاكرة بنظام الخلية = Segment واحد. خلايا TM: " + asc(APP.tus.length) + " — خلايا مفهرسة: " + asc(APP.cells.length));
 }
 }
 step();
@@ -1255,9 +1255,9 @@ box.id = APP.hostId + "-imported-html-tm";
 box.style.cssText = "display:none!important";
 box.innerHTML = (doc.body && doc.body.innerHTML) || html;
 document.body.appendChild(box);
-ui.status("ØªÙ Ø§Ø³ØªÙØ±Ø§Ø¯ HTML. Ø§ÙØµÙÙÙ: " + asc(box.querySelectorAll("tr").length) + " â Ø§Ø¶ØºØ· Ø¨ÙØ§Ø¡ Ø°Ø§ÙØ±Ø© Ø§ÙØªØ±Ø¬ÙØ©.");
+ui.status("تم استيراد HTML. الصفوف: " + asc(box.querySelectorAll("tr").length) + " — اضغط بناء ذاكرة الترجمة.");
 } catch (e) {
-ui.status("ÙØ´Ù Ø§Ø³ØªÙØ±Ø§Ø¯ HTML: " + (e && e.message ? e.message : e));
+ui.status("فشل استيراد HTML: " + (e && e.message ? e.message : e));
 }
 });
 $("#fileHTML").value = "";
@@ -2104,4 +2104,202 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
 
   waitForUI(injectUI);
   window.addEventListener("CAT_V47_PRO_OPEN", function () { waitForUI(injectUI); });
+})();
+
+/* =========================================================
+   UI PATCH — Counters toggle + Needs navigation + Word/Excel icons
+   - Hides/shows statistics cards from top icon.
+   - Shows jump buttons only when Needs Translation / Needs Review exist.
+   - Fixes Word and Excel button visual icons without changing search logic.
+========================================================= */
+(function () {
+  "use strict";
+
+  function toNumber(x) {
+    x = String(x || "");
+    x = x.replace(/[\u0660-\u0669]/g, function (d) { return String(d.charCodeAt(0) - 1632); });
+    x = x.replace(/[\u06F0-\u06F9]/g, function (d) { return String(d.charCodeAt(0) - 1776); });
+    var m = x.match(/\d+/);
+    return m ? parseInt(m[0], 10) || 0 : 0;
+  }
+
+  function getShadow() {
+    var host = document.getElementById("cat-v47-cell-segment-pro-enhanced-host");
+    return host && host.shadowRoot ? host.shadowRoot : null;
+  }
+
+  function waitForUI(fn) {
+    var tries = 0;
+    (function loop() {
+      var sh = getShadow();
+      if (sh && sh.getElementById("panel") && sh.getElementById("res")) {
+        fn(sh);
+        return;
+      }
+      if (++tries < 120) setTimeout(loop, 100);
+    })();
+  }
+
+  function setStatus(sh, msg) {
+    var s = sh.getElementById("status");
+    if (s) s.textContent = msg;
+  }
+
+  function flashRow(row) {
+    if (!row) return;
+    row.classList.remove("catJumpPulse");
+    void row.offsetWidth;
+    row.classList.add("catJumpPulse");
+    setTimeout(function () { row.classList.remove("catJumpPulse"); }, 1600);
+  }
+
+  function findNeedsRow(sh) {
+    var rows = Array.prototype.slice.call(sh.querySelectorAll("#res tr"));
+    for (var i = 0; i < rows.length; i++) {
+      var pill = rows[i].querySelector(".stat .pill");
+      var txt = pill ? String(pill.textContent || "") : "";
+      if (rows[i].classList.contains("needsRow") || /needs/i.test(txt)) return rows[i];
+    }
+    return null;
+  }
+
+  function findReviewRow(sh) {
+    var rows = Array.prototype.slice.call(sh.querySelectorAll("#res tr"));
+    for (var i = 0; i < rows.length; i++) {
+      var pill = rows[i].querySelector(".stat .pill");
+      var txt = pill ? String(pill.textContent || "") : "";
+      if (/review/i.test(txt)) return rows[i];
+    }
+    return null;
+  }
+
+  function jumpTo(sh, kind) {
+    var row = kind === "needs" ? findNeedsRow(sh) : findReviewRow(sh);
+    if (!row) {
+      setStatus(sh, kind === "needs" ? "لا توجد حالياً نتائج تحتاج ترجمة." : "لا توجد حالياً نتائج تحتاج مراجعة.");
+      return;
+    }
+    row.scrollIntoView({ behavior: "smooth", block: "center", inline: "nearest" });
+    flashRow(row);
+    setStatus(sh, kind === "needs" ? "تم الانتقال إلى أول نص يحتاج ترجمة." : "تم الانتقال إلى أول نص يحتاج مراجعة.");
+  }
+
+  function updateNavButtons(sh) {
+    var needs = toNumber((sh.getElementById("needsStat") || {}).textContent || "0");
+    var review = toNumber((sh.getElementById("reviewStat") || {}).textContent || "0");
+    var needsBtn = sh.getElementById("catGoNeedsBtn");
+    var reviewBtn = sh.getElementById("catGoReviewBtn");
+    if (needsBtn) {
+      needsBtn.style.display = needs > 0 ? "flex" : "none";
+      needsBtn.querySelector(".catNavCount").textContent = String(needs);
+    }
+    if (reviewBtn) {
+      reviewBtn.style.display = review > 0 ? "flex" : "none";
+      reviewBtn.querySelector(".catNavCount").textContent = String(review);
+    }
+  }
+
+  function injectEnhancements(sh) {
+    if (!sh.getElementById("catCountersNavPatchStyle")) {
+      var st = document.createElement("style");
+      st.id = "catCountersNavPatchStyle";
+      st.textContent = [
+        ".panel.dashCollapsed .dash{display:none!important}",
+        "#catToggleStatsBtn{min-width:42px!important;font-weight:900!important}",
+        "#catToggleStatsBtn.on{background:#334155!important;border-color:#334155!important;color:#fff!important}",
+        ".catNavBtn{display:none;align-items:center;justify-content:center;gap:8px;width:100%;height:36px;border-radius:10px;border:1px solid #e2e8f0;font:900 12px 'GE SS Two Light','Segoe UI',Tahoma,Arial;cursor:pointer}",
+        "#catGoNeedsBtn{background:#fff7ed!important;color:#c2410c!important;border-color:#fed7aa!important}",
+        "#catGoReviewBtn{background:#fffbeb!important;color:#b45309!important;border-color:#fde68a!important}",
+        ".catNavCount{display:inline-flex;align-items:center;justify-content:center;min-width:24px;height:22px;padding:0 7px;border-radius:999px;background:#fff;border:1px solid currentColor;font:900 12px 'Segoe UI',Tahoma,Arial;direction:ltr}",
+        ".msIcon{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;min-width:22px;border-radius:6px;color:#fff;font:900 13px 'Segoe UI',Arial;line-height:1;margin-inline-end:7px;vertical-align:middle;box-shadow:inset 0 -1px 0 rgba(0,0,0,.12)}",
+        ".wordIcon{background:#2563eb!important}",
+        ".excelIcon{background:#15803d!important}",
+        "#importDOCX,#catImportExcelBtn{display:flex!important;align-items:center!important;justify-content:center!important;gap:4px!important;white-space:nowrap!important}",
+        "#catImportExcelBtn{background:#0f766e!important;color:#fff!important;border-color:#0f766e!important;font-weight:900!important}",
+        "@keyframes catJumpPulseAnim{0%{outline:0;background:inherit}25%{outline:4px solid rgba(245,158,11,.45)}70%{outline:4px solid rgba(245,158,11,.25)}100%{outline:0}}",
+        "#res tr.catJumpPulse td{animation:catJumpPulseAnim 1.4s ease-in-out 1!important;background:#fef3c7!important}"
+      ].join("");
+      sh.appendChild(st);
+    }
+
+    var panel = sh.getElementById("panel");
+    var tools = sh.querySelector(".topTools");
+    if (panel && tools && !sh.getElementById("catToggleStatsBtn")) {
+      var cbtn = document.createElement("button");
+      cbtn.id = "catToggleStatsBtn";
+      cbtn.className = "iconBtn";
+      cbtn.type = "button";
+      cbtn.title = "إخفاء/إظهار العدادات";
+      cbtn.setAttribute("aria-label", "إخفاء أو إظهار العدادات");
+      cbtn.textContent = "▦−";
+      cbtn.onclick = function () {
+        var hidden = !panel.classList.contains("dashCollapsed");
+        panel.classList.toggle("dashCollapsed", hidden);
+        cbtn.classList.toggle("on", hidden);
+        cbtn.textContent = hidden ? "▦+" : "▦−";
+        cbtn.setAttribute("aria-pressed", hidden ? "true" : "false");
+        setStatus(sh, hidden ? "تم إخفاء العدادات." : "تم إظهار العدادات.");
+      };
+      tools.appendChild(cbtn);
+    }
+
+    var side = sh.querySelector(".side");
+    if (side && !sh.getElementById("catGoNeedsBtn")) {
+      var needsBtn = document.createElement("button");
+      needsBtn.id = "catGoNeedsBtn";
+      needsBtn.className = "catNavBtn";
+      needsBtn.type = "button";
+      needsBtn.title = "الانتقال إلى أول نص يحتاج ترجمة";
+      needsBtn.innerHTML = "<span>↧ يحتاج ترجمة</span><span class='catNavCount'>0</span>";
+      needsBtn.onclick = function () { jumpTo(sh, "needs"); };
+
+      var reviewBtn = document.createElement("button");
+      reviewBtn.id = "catGoReviewBtn";
+      reviewBtn.className = "catNavBtn";
+      reviewBtn.type = "button";
+      reviewBtn.title = "الانتقال إلى أول نص يحتاج مراجعة";
+      reviewBtn.innerHTML = "<span>↧ يحتاج مراجعة</span><span class='catNavCount'>0</span>";
+      reviewBtn.onclick = function () { jumpTo(sh, "review"); };
+
+      var afterAnalyze = sh.getElementById("analyze");
+      if (afterAnalyze && afterAnalyze.parentNode) {
+        afterAnalyze.insertAdjacentElement("afterend", reviewBtn);
+        afterAnalyze.insertAdjacentElement("afterend", needsBtn);
+      } else {
+        side.insertBefore(reviewBtn, side.firstChild);
+        side.insertBefore(needsBtn, side.firstChild);
+      }
+    }
+
+    var word = sh.getElementById("importDOCX");
+    if (word && !word.getAttribute("data-cat-iconized")) {
+      word.innerHTML = "<span class='msIcon wordIcon'>W</span><span>Import Word DOCX</span>";
+      word.setAttribute("data-cat-iconized", "1");
+    }
+    var excel = sh.getElementById("catImportExcelBtn");
+    if (excel && !excel.getAttribute("data-cat-iconized")) {
+      excel.innerHTML = "<span class='msIcon excelIcon'>X</span><span>Import Excel</span>";
+      excel.setAttribute("data-cat-iconized", "1");
+    }
+
+    updateNavButtons(sh);
+    var watchTargets = [sh.getElementById("needsStat"), sh.getElementById("reviewStat"), sh.getElementById("res")].filter(Boolean);
+    if (watchTargets.length && !sh.__catCountersNavObserver) {
+      sh.__catCountersNavObserver = new MutationObserver(function () { updateNavButtons(sh); });
+      watchTargets.forEach(function (el) { sh.__catCountersNavObserver.observe(el, { childList: true, subtree: true, characterData: true }); });
+    }
+  }
+
+  waitForUI(function (sh) {
+    injectEnhancements(sh);
+    var tries = 0;
+    (function lateIconRefresh() {
+      injectEnhancements(sh);
+      if (++tries < 40) setTimeout(lateIconRefresh, 250);
+    })();
+  });
+
+  window.addEventListener("CAT_V47_PRO_OPEN", function () {
+    waitForUI(injectEnhancements);
+  });
 })();
