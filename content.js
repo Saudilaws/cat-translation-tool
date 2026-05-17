@@ -1148,7 +1148,7 @@ updateStats();
 var i = 0;
 function step() {
 if (APP.stop) { ui.status("\u062a\u0645 \u0625\u064a\u0642\u0627\u0641 \u0627\u0644\u062a\u062d\u0644\u064a\u0644."); return; }
-var end = Math.min(i + 15, segs.length);
+var end = Math.min(i + 100, segs.length);
 for (; i < end; i++) {
 var seg = segs[i];
 var m = searchOne(seg.text, seg.lang);
@@ -1165,8 +1165,8 @@ sourceFound: m.source || ""
 }
 ui.progress(i, segs.length);
 ui.status("\u062a\u0645 \u062a\u062d\u0644\u064a\u0644 " + asc(i) + " \u0645\u0646 " + asc(segs.length));
-renderResults(APP.results);
-if (i < segs.length) setTimeout(step, 1);
+if (i >= segs.length || i % 300 === 0) renderResults(APP.results);
+if (i < segs.length) setTimeout(step, 0);
 else { ui.status("\u0627\u0643\u062a\u0645\u0644 \u0627\u0644\u062a\u062d\u0644\u064a\u0644. \u0639\u062f\u062f \u0627\u0644\u0646\u062a\u0627\u0626\u062c: " + asc(APP.results.length)); updateStats(); }
 }
 step();
@@ -1326,14 +1326,14 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
   APP.config.smartMergeSplit = false;
 
   APP.config.lightSmartMerge = true;
-  APP.config.lightMaxMergeWindow = 4;
-  APP.config.lightMaxMergeChars = 3000;
+  APP.config.lightMaxMergeWindow = 3;
+  APP.config.lightMaxMergeChars = 2200;
   APP.config.lightMaxRowGap = 3;
-  APP.config.lightSeedLimit = 45;
+  APP.config.lightSeedLimit = 20;
 
   APP.config.lightSplitMinLength = 120;
   APP.config.lightSplitMinPartLen = 25;
-  APP.config.lightSplitMaxParts = 10;
+  APP.config.lightSplitMaxParts = 6;
   APP.config.lightSplitAcceptScore = 72;
   APP.config.lightSplitCoverage = 0.68;
 
@@ -1712,7 +1712,7 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
   searchOne = function (seg, l) {
     var direct = __baseSearchOne(seg, l);
 
-    if (direct && (+direct.score || 0) >= 95 && flat(direct.target || "")) {
+    if (direct && (+direct.score || 0) >= 88 && flat(direct.target || "")) {
       return direct;
     }
 
@@ -2048,11 +2048,12 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
       st.id = "catExcelClearPatchStyle";
       st.textContent = [
         ".inputArea{position:relative!important}",
-        "#catSourceClearX{position:absolute!important;left:16px!important;top:16px!important;width:34px!important;height:34px!important;min-width:34px!important;padding:0!important;border-radius:999px!important;border:1px solid #fecaca!important;background:#fff!important;color:#dc2626!important;font:900 20px/1 'Segoe UI',Tahoma,Arial!important;box-shadow:0 4px 14px rgba(220,38,38,.12)!important;z-index:5!important;cursor:pointer!important}",
-        "#catSourceClearX:hover{background:#fee2e2!important;color:#991b1b!important}",
-        "#source{padding-left:56px!important}",
-        "#catImportExcelBtn{background:#0f766e!important;color:#fff!important;border-color:#0f766e!important;font-weight:900!important}",
-        "#catImportExcelBtn:hover{filter:brightness(.96)!important}"
+        "#catSourceClearX{position:absolute!important;left:42px!important;top:16px!important;width:32px!important;height:32px!important;min-width:32px!important;padding:0!important;border-radius:999px!important;border:1px solid #e5e7eb!important;background:#f8fafc!important;color:#94a3b8!important;font:900 19px/1 'Segoe UI',Tahoma,Arial!important;box-shadow:0 3px 10px rgba(15,23,42,.08)!important;z-index:5!important;cursor:pointer!important;display:none!important}",
+        "#catSourceClearX.show{display:block!important}",
+        "#catSourceClearX:hover{background:#f1f5f9!important;color:#64748b!important;border-color:#cbd5e1!important}",
+        "#source{padding-left:82px!important}",
+        "#catImportExcelBtn{background:#eff6ff!important;color:#1d4ed8!important;border-color:#bfdbfe!important;font-weight:900!important}",
+        "#catImportExcelBtn:hover{filter:brightness(.98)!important}"
       ].join("");
       sh.appendChild(st);
     }
@@ -2066,13 +2067,20 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
       x.title = "مسح نص المصدر";
       x.setAttribute("aria-label", "مسح نص المصدر");
       x.textContent = "×";
+      function syncClearX() {
+        x.classList.toggle("show", !!flat(source.value || ""));
+      }
       x.onclick = function () {
         source.value = "";
         source.dispatchEvent(new Event("input", { bubbles: true }));
+        syncClearX();
         source.focus();
         putStatus(sh, "تم مسح خانة Source.");
       };
+      source.addEventListener("input", syncClearX);
+      source.addEventListener("paste", function () { setTimeout(syncClearX, 0); });
       inputArea.appendChild(x);
+      syncClearX();
     }
 
     var side = sh.querySelector(".side");
@@ -2107,10 +2115,11 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
 })();
 
 /* =========================================================
-   UI PATCH — Counters toggle + Needs navigation + Word/Excel icons
+   UI PATCH — Counters toggle + Counter arrows navigation + Word/Excel icons
    - Hides/shows statistics cards from top icon.
-   - Shows jump buttons only when Needs Translation / Needs Review exist.
-   - Fixes Word and Excel button visual icons without changing search logic.
+   - Adds up/down arrows inside Needs Translation and Needs Review counters.
+   - Keeps the selected row highlighted until another navigation action.
+   - Fixes Word and Excel visual icons without changing core matching logic.
 ========================================================= */
 (function () {
   "use strict";
@@ -2145,79 +2154,106 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     if (s) s.textContent = msg;
   }
 
-  function flashRow(row) {
+  function rowKind(row) {
+    if (!row) return "";
+    var pill = row.querySelector(".stat .pill");
+    var txt = pill ? String(pill.textContent || "") : "";
+    if (row.classList.contains("needsRow") || /needs/i.test(txt)) return "needs";
+    if (/review/i.test(txt)) return "review";
+    return "";
+  }
+
+  function collectRows(sh, kind) {
+    return Array.prototype.slice.call(sh.querySelectorAll("#res tr")).filter(function (row) {
+      return rowKind(row) === kind;
+    });
+  }
+
+  function setActiveRow(sh, row, kind) {
+    Array.prototype.slice.call(sh.querySelectorAll("#res tr.catActiveJumpRow")).forEach(function (r) {
+      r.classList.remove("catActiveJumpRow", "catActiveNeedsRow", "catActiveReviewRow");
+    });
     if (!row) return;
-    row.classList.remove("catJumpPulse");
-    void row.offsetWidth;
-    row.classList.add("catJumpPulse");
-    setTimeout(function () { row.classList.remove("catJumpPulse"); }, 1600);
+    row.classList.add("catActiveJumpRow", kind === "needs" ? "catActiveNeedsRow" : "catActiveReviewRow");
   }
 
-  function findNeedsRow(sh) {
-    var rows = Array.prototype.slice.call(sh.querySelectorAll("#res tr"));
-    for (var i = 0; i < rows.length; i++) {
-      var pill = rows[i].querySelector(".stat .pill");
-      var txt = pill ? String(pill.textContent || "") : "";
-      if (rows[i].classList.contains("needsRow") || /needs/i.test(txt)) return rows[i];
-    }
-    return null;
-  }
-
-  function findReviewRow(sh) {
-    var rows = Array.prototype.slice.call(sh.querySelectorAll("#res tr"));
-    for (var i = 0; i < rows.length; i++) {
-      var pill = rows[i].querySelector(".stat .pill");
-      var txt = pill ? String(pill.textContent || "") : "";
-      if (/review/i.test(txt)) return rows[i];
-    }
-    return null;
-  }
-
-  function jumpTo(sh, kind) {
-    var row = kind === "needs" ? findNeedsRow(sh) : findReviewRow(sh);
-    if (!row) {
+  function jumpTo(sh, kind, dir) {
+    var rows = collectRows(sh, kind);
+    if (!rows.length) {
       setStatus(sh, kind === "needs" ? "لا توجد حالياً نتائج تحتاج ترجمة." : "لا توجد حالياً نتائج تحتاج مراجعة.");
       return;
     }
+
+    var key = kind === "needs" ? "__catNeedsNavIndex" : "__catReviewNavIndex";
+    var current = typeof sh[key] === "number" ? sh[key] : (dir > 0 ? -1 : 0);
+    var next = current + (dir > 0 ? 1 : -1);
+    if (next >= rows.length) next = 0;
+    if (next < 0) next = rows.length - 1;
+    sh[key] = next;
+
+    var row = rows[next];
     row.scrollIntoView({ behavior: "smooth", block: "center", inline: "nearest" });
-    flashRow(row);
-    setStatus(sh, kind === "needs" ? "تم الانتقال إلى أول نص يحتاج ترجمة." : "تم الانتقال إلى أول نص يحتاج مراجعة.");
+    setActiveRow(sh, row, kind);
+    setStatus(sh, (kind === "needs" ? "يحتاج ترجمة" : "يحتاج مراجعة") + ": " + String(next + 1) + " / " + String(rows.length));
   }
 
-  function updateNavButtons(sh) {
+  function ensureCounterNav(statEl, kind, label) {
+    if (!statEl) return null;
+    var card = statEl.closest(".statCard") || statEl.parentNode;
+    if (!card) return null;
+    card.classList.add(kind === "needs" ? "catNeedsCounterCard" : "catReviewCounterCard");
+
+    var navId = kind === "needs" ? "catNeedsCounterNav" : "catReviewCounterNav";
+    var nav = card.querySelector("#" + navId);
+    if (nav) return nav;
+
+    nav = document.createElement("div");
+    nav.id = navId;
+    nav.className = "catCounterNav";
+    nav.setAttribute("data-kind", kind);
+    nav.innerHTML = "<button type='button' class='catCounterArrow catCounterUp' title='السابق'>▲</button><button type='button' class='catCounterArrow catCounterDown' title='التالي'>▼</button>";
+    card.appendChild(nav);
+    return nav;
+  }
+
+  function updateCounterNav(sh) {
     var needs = toNumber((sh.getElementById("needsStat") || {}).textContent || "0");
     var review = toNumber((sh.getElementById("reviewStat") || {}).textContent || "0");
-    var needsBtn = sh.getElementById("catGoNeedsBtn");
-    var reviewBtn = sh.getElementById("catGoReviewBtn");
-    if (needsBtn) {
-      needsBtn.style.display = needs > 0 ? "flex" : "none";
-      needsBtn.querySelector(".catNavCount").textContent = String(needs);
-    }
-    if (reviewBtn) {
-      reviewBtn.style.display = review > 0 ? "flex" : "none";
-      reviewBtn.querySelector(".catNavCount").textContent = String(review);
-    }
+    var nNav = sh.getElementById("catNeedsCounterNav");
+    var rNav = sh.getElementById("catReviewCounterNav");
+    if (nNav) nNav.style.display = needs > 0 ? "flex" : "none";
+    if (rNav) rNav.style.display = review > 0 ? "flex" : "none";
+
+    /* أزرار التنقل القديمة في اللوحة اليمنى تُخفى نهائياً بعد نقلها إلى العدادات. */
+    ["catGoNeedsBtn", "catGoReviewBtn"].forEach(function (id) {
+      var old = sh.getElementById(id);
+      if (old) old.style.display = "none";
+    });
   }
 
   function injectEnhancements(sh) {
-    if (!sh.getElementById("catCountersNavPatchStyle")) {
+    if (!sh.getElementById("catCountersNavPatchStyleV2")) {
       var st = document.createElement("style");
-      st.id = "catCountersNavPatchStyle";
+      st.id = "catCountersNavPatchStyleV2";
       st.textContent = [
         ".panel.dashCollapsed .dash{display:none!important}",
         "#catToggleStatsBtn{min-width:42px!important;font-weight:900!important}",
         "#catToggleStatsBtn.on{background:#334155!important;border-color:#334155!important;color:#fff!important}",
-        ".catNavBtn{display:none;align-items:center;justify-content:center;gap:8px;width:100%;height:36px;border-radius:10px;border:1px solid #e2e8f0;font:900 12px 'GE SS Two Light','Segoe UI',Tahoma,Arial;cursor:pointer}",
-        "#catGoNeedsBtn{background:#fff7ed!important;color:#c2410c!important;border-color:#fed7aa!important}",
-        "#catGoReviewBtn{background:#fffbeb!important;color:#b45309!important;border-color:#fde68a!important}",
-        ".catNavCount{display:inline-flex;align-items:center;justify-content:center;min-width:24px;height:22px;padding:0 7px;border-radius:999px;background:#fff;border:1px solid currentColor;font:900 12px 'Segoe UI',Tahoma,Arial;direction:ltr}",
+        ".dash .statCard{position:relative!important;min-height:78px!important;padding-inline-end:42px!important}",
+        ".catCounterNav{position:absolute;right:8px;top:50%;transform:translateY(-50%);display:none;flex-direction:column;align-items:stretch;justify-content:center;width:28px;border:1px solid #e2e8f0;border-radius:9px;overflow:hidden;background:#fff;box-shadow:0 4px 12px rgba(15,23,42,.08)}",
+        ".catCounterArrow{width:28px!important;height:22px!important;min-width:28px!important;padding:0!important;margin:0!important;border:0!important;border-radius:0!important;background:#f8fafc!important;color:#475569!important;font:900 11px/1 'Segoe UI',Tahoma,Arial!important;cursor:pointer!important}",
+        ".catCounterArrow+ .catCounterArrow{border-top:1px solid #e2e8f0!important}",
+        ".catNeedsCounterCard .catCounterArrow:hover{background:#fff7ed!important;color:#c2410c!important}",
+        ".catReviewCounterCard .catCounterArrow:hover{background:#fffbeb!important;color:#b45309!important}",
         ".msIcon{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;min-width:22px;border-radius:6px;color:#fff;font:900 13px 'Segoe UI',Arial;line-height:1;margin-inline-end:7px;vertical-align:middle;box-shadow:inset 0 -1px 0 rgba(0,0,0,.12)}",
         ".wordIcon{background:#2563eb!important}",
-        ".excelIcon{background:#15803d!important}",
+        ".excelIcon{background:#15803d!important;color:#fff!important}",
         "#importDOCX,#catImportExcelBtn{display:flex!important;align-items:center!important;justify-content:center!important;gap:4px!important;white-space:nowrap!important}",
-        "#catImportExcelBtn{background:#0f766e!important;color:#fff!important;border-color:#0f766e!important;font-weight:900!important}",
-        "@keyframes catJumpPulseAnim{0%{outline:0;background:inherit}25%{outline:4px solid rgba(245,158,11,.45)}70%{outline:4px solid rgba(245,158,11,.25)}100%{outline:0}}",
-        "#res tr.catJumpPulse td{animation:catJumpPulseAnim 1.4s ease-in-out 1!important;background:#fef3c7!important}"
+        "#catSecImport #catImportExcelBtn.catBtnImport,#catImportExcelBtn{background:#eff6ff!important;color:#1d4ed8!important;border-color:#bfdbfe!important;font-weight:900!important}",
+        "#res tr.catActiveJumpRow td{background:#fff7d6!important;box-shadow:inset 0 1px 0 rgba(245,158,11,.35),inset 0 -1px 0 rgba(245,158,11,.35)!important}",
+        "#res tr.catActiveNeedsRow td:first-child{box-shadow:inset 5px 0 0 #ea580c!important}",
+        "#res tr.catActiveReviewRow td:first-child{box-shadow:inset 5px 0 0 #f59e0b!important}",
+        "#catGoNeedsBtn,#catGoReviewBtn{display:none!important}"
       ].join("");
       sh.appendChild(st);
     }
@@ -2243,32 +2279,20 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
       tools.appendChild(cbtn);
     }
 
-    var side = sh.querySelector(".side");
-    if (side && !sh.getElementById("catGoNeedsBtn")) {
-      var needsBtn = document.createElement("button");
-      needsBtn.id = "catGoNeedsBtn";
-      needsBtn.className = "catNavBtn";
-      needsBtn.type = "button";
-      needsBtn.title = "الانتقال إلى أول نص يحتاج ترجمة";
-      needsBtn.innerHTML = "<span>↧ يحتاج ترجمة</span><span class='catNavCount'>0</span>";
-      needsBtn.onclick = function () { jumpTo(sh, "needs"); };
+    var needsStat = sh.getElementById("needsStat");
+    var reviewStat = sh.getElementById("reviewStat");
+    var needsNav = ensureCounterNav(needsStat, "needs", "يحتاج ترجمة");
+    var reviewNav = ensureCounterNav(reviewStat, "review", "يحتاج مراجعة");
 
-      var reviewBtn = document.createElement("button");
-      reviewBtn.id = "catGoReviewBtn";
-      reviewBtn.className = "catNavBtn";
-      reviewBtn.type = "button";
-      reviewBtn.title = "الانتقال إلى أول نص يحتاج مراجعة";
-      reviewBtn.innerHTML = "<span>↧ يحتاج مراجعة</span><span class='catNavCount'>0</span>";
-      reviewBtn.onclick = function () { jumpTo(sh, "review"); };
-
-      var afterAnalyze = sh.getElementById("analyze");
-      if (afterAnalyze && afterAnalyze.parentNode) {
-        afterAnalyze.insertAdjacentElement("afterend", reviewBtn);
-        afterAnalyze.insertAdjacentElement("afterend", needsBtn);
-      } else {
-        side.insertBefore(reviewBtn, side.firstChild);
-        side.insertBefore(needsBtn, side.firstChild);
-      }
+    if (needsNav && !needsNav.getAttribute("data-wired")) {
+      needsNav.querySelector(".catCounterUp").onclick = function () { jumpTo(sh, "needs", -1); };
+      needsNav.querySelector(".catCounterDown").onclick = function () { jumpTo(sh, "needs", 1); };
+      needsNav.setAttribute("data-wired", "1");
+    }
+    if (reviewNav && !reviewNav.getAttribute("data-wired")) {
+      reviewNav.querySelector(".catCounterUp").onclick = function () { jumpTo(sh, "review", -1); };
+      reviewNav.querySelector(".catCounterDown").onclick = function () { jumpTo(sh, "review", 1); };
+      reviewNav.setAttribute("data-wired", "1");
     }
 
     var word = sh.getElementById("importDOCX");
@@ -2282,11 +2306,11 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
       excel.setAttribute("data-cat-iconized", "1");
     }
 
-    updateNavButtons(sh);
-    var watchTargets = [sh.getElementById("needsStat"), sh.getElementById("reviewStat"), sh.getElementById("res")].filter(Boolean);
-    if (watchTargets.length && !sh.__catCountersNavObserver) {
-      sh.__catCountersNavObserver = new MutationObserver(function () { updateNavButtons(sh); });
-      watchTargets.forEach(function (el) { sh.__catCountersNavObserver.observe(el, { childList: true, subtree: true, characterData: true }); });
+    updateCounterNav(sh);
+    var watchTargets = [needsStat, reviewStat, sh.getElementById("res")].filter(Boolean);
+    if (watchTargets.length && !sh.__catCountersNavObserverV2) {
+      sh.__catCountersNavObserverV2 = new MutationObserver(function () { updateCounterNav(sh); });
+      watchTargets.forEach(function (el) { sh.__catCountersNavObserverV2.observe(el, { childList: true, subtree: true, characterData: true }); });
     }
   }
 
@@ -2382,6 +2406,7 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
       ".catBtn{transition:transform .12s ease,box-shadow .12s ease,filter .12s ease;border-width:1px!important}",
       ".catBtn:hover{transform:translateY(-1px);box-shadow:0 8px 18px rgba(15,23,42,.10)!important;filter:saturate(1.04)}",
       ".catBtnImport{background:#eff6ff!important;color:#1d4ed8!important;border-color:#bfdbfe!important}",
+      "#catSecImport #catImportExcelBtn.catBtnImport{background:#eff6ff!important;color:#1d4ed8!important;border-color:#bfdbfe!important}",
       ".catBtnSearch{background:#f5f3ff!important;color:#5b21b6!important;border-color:#ddd6fe!important}",
       ".catBtnExport{background:#ecfdf5!important;color:#047857!important;border-color:#bbf7d0!important}",
       ".catBtnProject{background:#fff7ed!important;color:#9a3412!important;border-color:#fed7aa!important}",
@@ -2389,7 +2414,7 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
       ".catBtnDanger{background:#fee2e2!important;color:#991b1b!important;border-color:#fecaca!important}",
       ".catFinalExport{background:linear-gradient(180deg,#16a34a,#047857)!important;color:#fff!important;border-color:#047857!important;font-size:12px!important;min-height:42px!important}",
       ".msIcon{display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto;width:20px;height:20px;border-radius:5px;color:#fff;font:900 12px 'Segoe UI',Arial!important;box-shadow:inset 0 0 0 1px rgba(255,255,255,.28)}",
-      ".wordIcon{background:#2563eb!important}.excelIcon{background:#168a45!important}.htmlIcon{background:#ea580c!important}.tmxIcon{background:#7c3aed!important}.csvIcon{background:#0891b2!important}.dbIcon{background:#334155!important}.finalIcon{background:#ffffff!important;color:#047857!important}",
+      ".wordIcon{background:#2563eb!important}.excelIcon{background:#168a45!important;color:#fff!important}.htmlIcon{background:#ea580c!important}.tmxIcon{background:#7c3aed!important}.csvIcon{background:#0891b2!important}.dbIcon{background:#334155!important}.finalIcon{background:#ffffff!important;color:#047857!important}",
       ".catSideSection .bar{height:7px!important;margin-top:1px}",
       ".catSideSection .statusBox{min-height:62px!important;font-size:11px!important;background:#f8fafc!important}",
       ".catSideSection .mini{font-size:10px!important;text-align:center;color:#64748b!important}",
@@ -2532,7 +2557,7 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     setButtonHtml(sh.getElementById("concordance"), "<span>⌕</span><span>Concordance</span>");
     setButtonHtml(sh.getElementById("clear"), "<span>⌫</span><span>مسح النتائج</span>");
 
-    ["build", "analyze", "catGoNeedsBtn", "catGoReviewBtn", "acceptAll", "copy", "concordance", "concordQ", "clear"].forEach(function (id) {
+    ["build", "analyze", "acceptAll", "copy", "concordance", "concordQ", "clear"].forEach(function (id) {
       var el = sh.getElementById(id);
       var wide = id === "concordQ";
       moveEl(searchGrid, el, id === "concordQ" ? "" : "catBtnSearch", wide);
