@@ -4475,4 +4475,157 @@ APP.__hardSourceClearPatchInstalled = true;
     setTimeout(run, 300);
   });
 })();
+/* =========================================================
+   FORCE EXCEL IMPORT AS SOURCE ONLY
+   - يجعل Import Excel دائماً كسورس للترجمة
+   - يمنع استخدام Excel كذاكرة HTML مخفية
+   - لا يستخدم APP
+   - لا يغيّر منطق التحليل أو الذاكرة
+========================================================= */
+(function () {
+  "use strict";
+
+  var HOST_ID = "cat-v47-cell-segment-pro-enhanced-host";
+  var EXCEL_BOX_ID = HOST_ID + "-imported-excel-tm";
+
+  function flat(s) {
+    return String(s || "")
+      .replace(/[\u200E\u200F\u202A-\u202E\u2066-\u2069]/g, "")
+      .replace(/[\u200B\u200C\u200D\u2060\uFEFF\u034F]/g, "")
+      .replace(/[\u00A0\u202F\u2007-\u200A]/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
+  }
+
+  function asc(s) {
+    return String(s || "")
+      .replace(/[\u0660-\u0669]/g, function (d) { return String(d.charCodeAt(0) - 1632); })
+      .replace(/[\u06F0-\u06F9]/g, function (d) { return String(d.charCodeAt(0) - 1776); });
+  }
+
+  function getShadow() {
+    var host = document.getElementById(HOST_ID);
+    return host && host.shadowRoot ? host.shadowRoot : null;
+  }
+
+  function setStatus(sh, msg) {
+    var st = sh && sh.getElementById("status");
+    if (st) st.textContent = msg;
+  }
+
+  function showSourceArea(sh) {
+    var panel = sh && sh.getElementById("panel");
+    var inputArea = sh && sh.querySelector(".inputArea");
+    var btn = sh && sh.getElementById("toggleSourceIcon");
+
+    if (panel) panel.classList.remove("sourceCollapsed");
+
+    if (inputArea) {
+      inputArea.style.display = "block";
+      inputArea.style.visibility = "visible";
+      inputArea.style.height = "auto";
+      inputArea.style.padding = "10px";
+      inputArea.style.overflow = "hidden";
+    }
+
+    if (btn) {
+      btn.textContent = "SRC−";
+      btn.classList.remove("on");
+      btn.setAttribute("aria-pressed", "false");
+    }
+  }
+
+  function extractRowsFromHiddenExcelBox() {
+    var box = document.getElementById(EXCEL_BOX_ID);
+    if (!box) return [];
+
+    var rows = Array.prototype.slice.call(box.querySelectorAll("tr"));
+    var out = [];
+
+    rows.forEach(function (tr) {
+      var cells = Array.prototype.slice.call(tr.querySelectorAll("td,th"))
+        .map(function (td) { return flat(td.textContent || ""); })
+        .filter(Boolean);
+
+      if (cells.length) out.push(cells.join(" "));
+    });
+
+    return out.filter(Boolean);
+  }
+
+  function forceExcelAsSource(sh, fileName) {
+    var source = sh && sh.getElementById("source");
+    if (!source) return false;
+
+    var rows = extractRowsFromHiddenExcelBox();
+
+    if (!rows.length) return false;
+
+    source.value = rows.join("\n");
+    source.dispatchEvent(new Event("input", { bubbles: true }));
+
+    showSourceArea(sh);
+
+    var old = document.getElementById(EXCEL_BOX_ID);
+    if (old) old.remove();
+
+    setStatus(
+      sh,
+      "تم استيراد Excel كسورس للترجمة فقط: " +
+      asc(rows.length) +
+      " سطر — الملف: " +
+      (fileName || "Excel") +
+      " — حمّل الذاكرة ثم اضغط تحليل النص."
+    );
+
+    return true;
+  }
+
+  function bindExcelInput(sh) {
+    var input = sh && sh.getElementById("fileExcelTM");
+    if (!input || input.getAttribute("data-force-excel-source-bound")) return;
+
+    input.setAttribute("data-force-excel-source-bound", "1");
+
+    input.addEventListener("change", function () {
+      var file = input.files && input.files[0];
+      var fileName = file ? file.name : "Excel";
+
+      var tries = 0;
+
+      (function waitAndForce() {
+        if (forceExcelAsSource(sh, fileName)) return;
+
+        if (++tries < 80) {
+          setTimeout(waitAndForce, 150);
+        } else {
+          setStatus(
+            sh,
+            "لم أجد جدول Excel مخفيًا لتحويله إلى Source. إذا كان الملف ظهر في خانة Source فهذا طبيعي."
+          );
+        }
+      })();
+    }, false);
+  }
+
+  function install() {
+    var sh = getShadow();
+    if (!sh) return;
+
+    bindExcelInput(sh);
+  }
+
+  var n = 0;
+  (function tick() {
+    install();
+    if (++n < 160) setTimeout(tick, 150);
+  })();
+
+  window.addEventListener("CAT_V47_PRO_OPEN", function () {
+    setTimeout(function () {
+      var sh = getShadow();
+      if (sh) bindExcelInput(sh);
+    }, 300);
+  });
+})();
 })();   
