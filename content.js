@@ -3508,5 +3508,92 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
       watchShadow();
     }, 300);
   });
+})();
+/* =========================================================
+   FORCE TEST BUTTON — Excel Same Source Visible Button
+   - زر جديد باسم مختلف
+   - يظهر أعلى قسم التصدير مباشرة
+   - لا يغير أي منطق
+========================================================= */
+(function () {
+  "use strict";
+
+  var HOST_ID = "cat-v47-cell-segment-pro-enhanced-host";
+  var BTN_ID = "catExcelSameSourceForceBtn";
+
+  function getShadow() {
+    var host = document.getElementById(HOST_ID);
+    return host && host.shadowRoot ? host.shadowRoot : null;
+  }
+
+  function install() {
+    var sh = getShadow();
+    if (!sh) return false;
+
+    var old = sh.getElementById(BTN_ID);
+    if (old) old.remove();
+
+    var btn = document.createElement("button");
+    btn.id = BTN_ID;
+    btn.type = "button";
+    btn.textContent = "✅ Excel Same Source";
+    btn.title = "زر اختبار ظاهر للتأكد من إمكانية إضافة تصدير Excel";
+    btn.style.cssText = [
+      "width:100%",
+      "min-height:42px",
+      "border-radius:12px",
+      "border:2px solid #047857",
+      "background:#16a34a",
+      "color:#fff",
+      "font-weight:900",
+      "font-size:12px",
+      "margin:6px 0",
+      "display:flex",
+      "align-items:center",
+      "justify-content:center",
+      "gap:6px",
+      "z-index:999999"
+    ].join(";");
+
+    btn.onclick = function () {
+      var drafts = sh.querySelectorAll(".targetDraft");
+      var st = sh.getElementById("status");
+      if (st) st.textContent = "زر Excel Same Source يعمل. عدد Target Draft: " + drafts.length;
+      alert("الزر يعمل بنجاح\nTarget Draft count: " + drafts.length);
+    };
+
+    var exportGrid =
+      sh.querySelector("#catSecExport .catSideGrid") ||
+      sh.getElementById("catSecExport");
+
+    if (exportGrid) {
+      exportGrid.insertBefore(btn, exportGrid.firstChild);
+      return true;
+    }
+
+    var side = sh.querySelector(".side");
+    if (side) {
+      side.insertBefore(btn, side.firstChild);
+      return true;
+    }
+
+    return false;
+  }
+
+  var tries = 0;
+  (function wait() {
+    if (install()) return;
+    if (++tries < 200) setTimeout(wait, 100);
+  })();
+
+  window.addEventListener("CAT_V47_PRO_OPEN", function () {
+    setTimeout(function () {
+      tries = 0;
+      (function waitAgain() {
+        if (install()) return;
+        if (++tries < 100) setTimeout(waitAgain, 100);
+      })();
+    }, 500);
+  });
 })();   
 })();
