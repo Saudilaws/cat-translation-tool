@@ -4073,4 +4073,400 @@ APP.__hardSourceClearPatchInstalled = true;
     setTimeout(run, 300);
   });
 })();
+/* =========================================================
+   SAFE STEP 2D — Export Target in Same Source Excel Design
+   - ينسخ ملف Excel الأصلي كما هو
+   - يستبدل النصوص داخل نفس الخلايا بـ Target Draft
+   - يحافظ على التصميم قدر الإمكان
+   - لا يستخدم APP
+   - يعتمد على window.__CAT_ORIGINAL_EXCEL__ من STEP 2B
+========================================================= */
+(function () {
+  "use strict";
+
+  var HOST_ID = "cat-v47-cell-segment-pro-enhanced-host";
+  var BTN_ID = "catExportTargetSameDesignBtn";
+
+  function getShadow() {
+    var host = document.getElementById(HOST_ID);
+    return host && host.shadowRoot ? host.shadowRoot : null;
+  }
+
+  function setStatus(sh, msg) {
+    var st = sh && sh.getElementById("status");
+    if (st) st.textContent = msg;
+  }
+
+  function enc(s) {
+    return new TextEncoder().encode(String(s || ""));
+  }
+
+  function dec(bytes) {
+    return new TextDecoder("utf-8").decode(bytes);
+  }
+
+  function u16(view, off) { return view.getUint16(off, true); }
+  function u32(view, off) { return view.getUint32(off, true); }
+
+  async function inflateZip(bytes) {
+    if (typeof DecompressionStream === "undefined") {
+      throw new Error("المتصفح لا يدعم فك ضغط XLSX محليًا. استخدم Chrome حديث.");
+    }
+
+    try {
+      var ds = new DecompressionStream("deflate-raw");
+      return new Uint8Array(
+        await new Response(new Blob([bytes]).stream().pipeThrough(ds)).arrayBuffer()
+      );
+    } catch (e1) {
+      var ds2 = new DecompressionStream("deflate");
+      return new Uint8Array(
+        await new Response(new Blob([bytes]).stream().pipeThrough(ds2)).arrayBuffer()
+      );
+    }
+  }
+
+  async function readZipAll(arrayBuffer) {
+    var bytes = new Uint8Array(arrayBuffer);
+    var view = new DataView(arrayBuffer);
+    var min = Math.max(0, bytes.length - 66000);
+    var eocd = -1;
+
+    for (var p = bytes.length - 22; p >= min; p--) {
+      if (u32(view, p) === 0x06054b50) {
+        eocd = p;
+        break;
+      }
+    }
+
+    if (eocd < 0) throw new Error("ملف XLSX غير صالح.");
+
+    var entriesCount = u16(view, eocd + 10);
+    var cdOff = u32(view, eocd + 16);
+    var entries = [];
+    var off = cdOff;
+
+    for (var i = 0; i < entriesCount; i++) {
+      if (u32(view, off) !== 0x02014b50) break;
+
+      var method = u16(view, off + 10);
+      var compSize = u32(view, off + 20);
+      var nameLen = u16(view, off + 28);
+      var extraLen = u16(view, off + 30);
+      var commentLen = u16(view, off + 32);
+      var localOff = u32(view, off + 42);
+      var name = dec(bytes.slice(off + 46, off + 46 + nameLen));
+
+      if (u32(view, localOff) !== 0x04034b50) {
+        throw new Error("بنية ZIP داخل XLSX غير صالحة.");
+      }
+
+      var ln = u16(view, localOff + 26);
+      var lx = u16(view, localOff + 28);
+      var dataStart = localOff + 30 + ln + lx;
+      var comp = bytes.slice(dataStart, dataStart + compSize);
+
+      var raw;
+      if (method === 0) raw = comp;
+      else if (method === 8) raw = await inflateZip(comp);
+      else throw new Error("نوع ضغط غير مدعوم داخل XLSX: " + method);
+
+      entries.push({ name: name, data: raw });
+      off += 46 + nameLen + extraLen + commentLen;
+    }
+
+    return entries;
+  }
+
+  var CRC_TABLE = (function () {
+    var table = [];
+    for (var n = 0; n < 256; n++) {
+      var c = n;
+      for (var k = 0; k < 8; k++) {
+        c = (c & 1) ? (0xEDB88320 ^ (c >>> 1)) : (c >>> 1);
+      }
+      table[n] = c >>> 0;
+    }
+    return table;
+  })();
+
+  function crc32(data) {
+    var c = 0 ^ -1;
+    for (var i = 0; i < data.length; i++) {
+      c = (c >>> 8) ^ CRC_TABLE[(c ^ data[i]) & 0xFF];
+    }
+    return (c ^ -1) >>> 0;
+  }
+
+  function pushU16(arr, n) {
+    arr.push(n & 255, (n >>> 8) & 255);
+  }
+
+  function pushU32(arr, n) {
+    arr.push(n & 255, (n >>> 8) & 255, (n >>> 16) & 255, (n >>> 24) & 255);
+  }
+
+  function concat(chunks) {
+    var total = 0;
+    chunks.forEach(function (c) { total += c.length; });
+    var out = new Uint8Array(total);
+    var pos = 0;
+    chunks.forEach(function (c) {
+      out.set(c, pos);
+      pos += c.length;
+    });
+    return out;
+  }
+
+  function makeZip(entries) {
+    var localChunks = [];
+    var centralChunks = [];
+    var offset = 0;
+
+    entries.forEach(function (entry) {
+      var nameBytes = enc(entry.name);
+      var data = entry.data instanceof Uint8Array ? entry.data : enc(entry.data || "");
+      var crc = crc32(data);
+
+      var local = [];
+      pushU32(local, 0x04034b50);
+      pushU16(local, 20);
+      pushU16(local, 0);
+      pushU16(local, 0);
+      pushU16(local, 0);
+      pushU16(local, 0);
+      pushU32(local, crc);
+      pushU32(local, data.length);
+      pushU32(local, data.length);
+      pushU16(local, nameBytes.length);
+      pushU16(local, 0);
+
+      var localHeader = new Uint8Array(local);
+      localChunks.push(localHeader, nameBytes, data);
+
+      var central = [];
+      pushU32(central, 0x02014b50);
+      pushU16(central, 20);
+      pushU16(central, 20);
+      pushU16(central, 0);
+      pushU16(central, 0);
+      pushU16(central, 0);
+      pushU16(central, 0);
+      pushU32(central, crc);
+      pushU32(central, data.length);
+      pushU32(central, data.length);
+      pushU16(central, nameBytes.length);
+      pushU16(central, 0);
+      pushU16(central, 0);
+      pushU16(central, 0);
+      pushU16(central, 0);
+      pushU32(central, 0);
+      pushU32(central, offset);
+
+      centralChunks.push(new Uint8Array(central), nameBytes);
+      offset += localHeader.length + nameBytes.length + data.length;
+    });
+
+    var centralStart = offset;
+    var centralData = concat(centralChunks);
+    var end = [];
+    pushU32(end, 0x06054b50);
+    pushU16(end, 0);
+    pushU16(end, 0);
+    pushU16(end, entries.length);
+    pushU16(end, entries.length);
+    pushU32(end, centralData.length);
+    pushU32(end, centralStart);
+    pushU16(end, 0);
+
+    return concat(localChunks.concat([centralData, new Uint8Array(end)]));
+  }
+
+  function getDrafts(sh) {
+    return Array.prototype.slice.call(sh.querySelectorAll(".targetDraft")).map(function (ta) {
+      return String(ta.value || "");
+    });
+  }
+
+  function isTextCell(c) {
+    if (!c) return false;
+
+    var t = c.getAttribute("t") || "";
+    if (t === "s" || t === "inlineStr" || t === "str") return true;
+
+    var is = c.getElementsByTagNameNS("*", "is")[0];
+    if (is) return true;
+
+    var v = c.getElementsByTagNameNS("*", "v")[0];
+    if (v && t !== "n" && t !== "b" && t !== "e") return true;
+
+    return false;
+  }
+
+  function replaceCellText(xml, c, text) {
+    var ns = c.namespaceURI || "http://schemas.openxmlformats.org/spreadsheetml/2006/main";
+    var ref = c.getAttribute("r");
+    var style = c.getAttribute("s");
+
+    while (c.firstChild) c.removeChild(c.firstChild);
+
+    if (ref) c.setAttribute("r", ref);
+    if (style) c.setAttribute("s", style);
+
+    c.setAttribute("t", "inlineStr");
+
+    var is = xml.createElementNS(ns, "is");
+    var t = xml.createElementNS(ns, "t");
+    t.setAttribute("xml:space", "preserve");
+    t.textContent = String(text || "");
+
+    is.appendChild(t);
+    c.appendChild(is);
+  }
+
+  function patchSheetXml(xmlText, drafts, state) {
+    var xml = new DOMParser().parseFromString(xmlText, "application/xml");
+    var parserError = xml.getElementsByTagName("parsererror")[0];
+    if (parserError) throw new Error("تعذر قراءة XML الخاص بورقة Excel.");
+
+    var rows = Array.prototype.slice.call(xml.getElementsByTagNameNS("*", "row"));
+
+    rows.forEach(function (row) {
+      if (state.i >= drafts.length) return;
+
+      var cells = Array.prototype.slice.call(row.getElementsByTagNameNS("*", "c"));
+      cells.forEach(function (c) {
+        if (state.i >= drafts.length) return;
+        if (!isTextCell(c)) return;
+
+        replaceCellText(xml, c, drafts[state.i]);
+        state.i++;
+      });
+    });
+
+    return new XMLSerializer().serializeToString(xml);
+  }
+
+  function downloadXlsx(name, bytes) {
+    var blob = new Blob([bytes], {
+      type: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    });
+
+    var a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = name;
+    document.body.appendChild(a);
+    a.click();
+
+    setTimeout(function () {
+      try { URL.revokeObjectURL(a.href); } catch (e) {}
+      try { a.remove(); } catch (e2) {}
+    }, 1000);
+  }
+
+  async function exportTargetSameDesign(sh) {
+    var excel = window.__CAT_ORIGINAL_EXCEL__;
+
+    if (!excel || !excel.buffer) {
+      alert("لم يتم تسجيل ملف Excel الأصلي.\nاستورد ملف .xlsx أولًا عبر Import Excel.");
+      setStatus(sh, "لم يتم تسجيل ملف Excel الأصلي.");
+      return;
+    }
+
+    var drafts = getDrafts(sh);
+
+    if (!drafts.length) {
+      alert("لا توجد Target Draft.\nحلّل النص أولًا حتى تظهر خانات Target Draft.");
+      setStatus(sh, "لا توجد Target Draft للتصدير.");
+      return;
+    }
+
+    setStatus(sh, "جاري إنشاء ملف Target بنفس تصميم السورس...");
+
+    var entries = await readZipAll(excel.buffer);
+    var state = { i: 0 };
+
+    entries.forEach(function (entry) {
+      if (/^xl\/worksheets\/sheet\d+\.xml$/i.test(entry.name) && state.i < drafts.length) {
+        var patched = patchSheetXml(dec(entry.data), drafts, state);
+        entry.data = enc(patched);
+      }
+    });
+
+    var out = makeZip(entries);
+    var base = String(excel.name || "source.xlsx").replace(/\.xlsx$/i, "");
+    var fileName = base + "_TARGET_SAME_DESIGN.xlsx";
+
+    downloadXlsx(fileName, out);
+
+    setStatus(
+      sh,
+      "تم تصدير Target بنفس تصميم السورس. تم استبدال " +
+      state.i +
+      " خلية من أصل " +
+      drafts.length +
+      " Target Draft."
+    );
+  }
+
+  function installButton(sh) {
+    if (!sh || sh.getElementById(BTN_ID)) return;
+
+    var btn = document.createElement("button");
+    btn.id = BTN_ID;
+    btn.type = "button";
+    btn.textContent = "Target Same Design";
+    btn.title = "تصدير Target فقط داخل نسخة من ملف السورس وبنفس التصميم";
+    btn.style.background = "#dcfce7";
+    btn.style.color = "#166534";
+    btn.style.borderColor = "#bbf7d0";
+    btn.style.fontWeight = "900";
+    btn.style.width = "100%";
+    btn.style.minHeight = "38px";
+    btn.style.borderRadius = "11px";
+
+    btn.onclick = function () {
+      exportTargetSameDesign(sh).catch(function (e) {
+        setStatus(sh, "فشل تصدير Target بنفس التصميم: " + (e && e.message ? e.message : e));
+        alert("فشل تصدير Target بنفس التصميم:\n" + (e && e.message ? e.message : e));
+      });
+    };
+
+    var testBtn = sh.getElementById("catExcelSameSourceTestBtn");
+    if (testBtn && testBtn.parentNode) {
+      testBtn.insertAdjacentElement("afterend", btn);
+      return;
+    }
+
+    var safeBtn = sh.getElementById("catExportTargetDraftXlsxSafeBtn");
+    if (safeBtn && safeBtn.parentNode) {
+      safeBtn.insertAdjacentElement("afterend", btn);
+      return;
+    }
+
+    var grid = sh.querySelector("#catSecExport .catSideGrid");
+    if (grid) {
+      grid.appendChild(btn);
+      return;
+    }
+
+    var side = sh.querySelector(".side");
+    if (side) side.appendChild(btn);
+  }
+
+  function run() {
+    var tries = 0;
+    (function tick() {
+      var sh = getShadow();
+      if (sh) installButton(sh);
+      if (++tries < 120) setTimeout(tick, 150);
+    })();
+  }
+
+  run();
+
+  window.addEventListener("CAT_V47_PRO_OPEN", function () {
+    setTimeout(run, 300);
+  });
+})();
 })();   
