@@ -3383,5 +3383,130 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
   window.addEventListener("CAT_V47_PRO_OPEN", function () {
     setTimeout(run, 300);
   });
+})();
+/* =========================================================
+   SAFE STEP 2A FIX — Force Excel Same Source Test Button
+   - يركّب الزر داخل قسم التصدير بعد ظهور الواجهة
+   - يستخدم MutationObserver حتى لو تأخر ترتيب الأزرار
+   - لا يغيّر منطق المطابقة ولا التصدير
+========================================================= */
+(function () {
+  "use strict";
+
+  var HOST_ID = "cat-v47-cell-segment-pro-enhanced-host";
+  var BTN_ID = "catExcelSameSourceTestBtn";
+
+  function getShadow() {
+    var host = document.getElementById(HOST_ID);
+    return host && host.shadowRoot ? host.shadowRoot : null;
+  }
+
+  function setStatus(sh, msg) {
+    var st = sh && sh.getElementById("status");
+    if (st) st.textContent = msg;
+  }
+
+  function installButton() {
+    var sh = getShadow();
+    if (!sh) return false;
+
+    if (sh.getElementById(BTN_ID)) return true;
+
+    var btn = document.createElement("button");
+    btn.id = BTN_ID;
+    btn.type = "button";
+    btn.textContent = "Excel Same Source TEST";
+    btn.title = "زر تجريبي قبل إضافة منطق التصدير الحقيقي";
+    btn.style.background = "#ecfdf5";
+    btn.style.color = "#047857";
+    btn.style.borderColor = "#bbf7d0";
+    btn.style.fontWeight = "900";
+    btn.style.width = "100%";
+    btn.style.minHeight = "38px";
+    btn.style.borderRadius = "11px";
+
+    btn.onclick = function () {
+      var drafts = sh.querySelectorAll(".targetDraft");
+      setStatus(
+        sh,
+        "زر Excel Same Source TEST يعمل. عدد Target Draft الحالي: " + drafts.length
+      );
+      alert("Excel Same Source TEST يعمل بنجاح.\nTarget Draft count: " + drafts.length);
+    };
+
+    var exportGrid =
+      sh.querySelector("#catSecExport .catSideGrid") ||
+      sh.getElementById("catSecExport") ||
+      null;
+
+    var after =
+      sh.getElementById("word") ||
+      sh.getElementById("exportXLIFF") ||
+      sh.getElementById("report") ||
+      sh.getElementById("catFinalExportBtn");
+
+    if (after && after.parentNode) {
+      after.insertAdjacentElement("afterend", btn);
+      setStatus(sh, "تم تركيب زر Excel Same Source TEST داخل قسم التصدير.");
+      return true;
+    }
+
+    if (exportGrid) {
+      exportGrid.appendChild(btn);
+      setStatus(sh, "تم تركيب زر Excel Same Source TEST داخل قسم التصدير.");
+      return true;
+    }
+
+    var side = sh.querySelector(".side");
+    if (side) {
+      side.appendChild(btn);
+      setStatus(sh, "تم تركيب زر Excel Same Source TEST داخل اللوحة اليمنى.");
+      return true;
+    }
+
+    return false;
+  }
+
+  function repeatInstall() {
+    var tries = 0;
+    (function tick() {
+      if (installButton()) return;
+      if (++tries < 200) setTimeout(tick, 100);
+    })();
+  }
+
+  function watchShadow() {
+    var sh = getShadow();
+    if (!sh || sh.__excelSameSourceObserverInstalled) return;
+
+    sh.__excelSameSourceObserverInstalled = true;
+
+    var observer = new MutationObserver(function () {
+      installButton();
+    });
+
+    observer.observe(sh, {
+      childList: true,
+      subtree: true
+    });
+
+    setTimeout(function () {
+      try { observer.disconnect(); } catch (e) {}
+    }, 30000);
+  }
+
+  repeatInstall();
+
+  setTimeout(function () {
+    watchShadow();
+    installButton();
+  }, 1000);
+
+  window.addEventListener("CAT_V47_PRO_OPEN", function () {
+    setTimeout(function () {
+      repeatInstall();
+      watchShadow();
+    }, 300);
+  });
 })();   
 })();
