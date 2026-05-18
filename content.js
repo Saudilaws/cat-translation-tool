@@ -2563,29 +2563,35 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     source.focus();
   }
 
-  function applyExcelRows(sh, rows, fileName) {
-    rows = (rows || []).map(function (r) {
-      return (r || []).map(flat).filter(Boolean);
-    }).filter(function (r) { return r.length; });
+function applyExcelRows(sh, rows, fileName) {
+  rows = (rows || []).map(function (r) {
+    return (r || []).map(flat).filter(Boolean);
+  }).filter(function (r) {
+    return r.length;
+  });
 
-    if (!rows.length) {
-      putStatus(sh, "لم أجد نصوصاً قابلة للاستيراد داخل ملف Excel.");
-      return;
-    }
-
-    var bilingual = rows.filter(function (r) {
-      var joined = r.join(" ");
-      return hasAr(joined) && hasEn(joined);
-    }).length;
-
-    if (bilingual > 0) {
-      buildHiddenTableFromRows(rows);
-      putStatus(sh, "تم استيراد Excel كذاكرة HTML مخفية: " + asc(rows.length) + " صف — الصفوف الثنائية اللغة: " + asc(bilingual) + " — اضغط بناء ذاكرة الترجمة.");
-    } else {
-      putRowsInSource(sh, rows);
-      putStatus(sh, "تم استيراد Excel في خانة Source: " + asc(rows.length) + " سطر — اضغط تحليل النص.");
-    }
+  if (!rows.length) {
+    putStatus(sh, "لم أجد نصوصاً قابلة للاستيراد داخل ملف Excel.");
+    return;
   }
+
+  /*
+    تعديل مهم:
+    Excel هنا يُعامل دائماً كسورس للترجمة، وليس كذاكرة ترجمة.
+    لا نبني HTML مخفي، ولا نحفظه كذاكرة.
+  */
+  var old = document.getElementById(EXCEL_BOX_ID);
+  if (old) old.remove();
+
+  putRowsInSource(sh, rows);
+
+  putStatus(
+    sh,
+    "تم استيراد Excel كسورس للترجمة: " +
+    asc(rows.length) +
+    " سطر — حمّل الذاكرة أولاً إن لم تكن محمّلة، ثم اضغط تحليل النص."
+  );
+}
 
   async function handleExcelFile(sh, file) {
     if (!file) return;
