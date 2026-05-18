@@ -3740,4 +3740,337 @@ APP.__hardSourceClearPatchInstalled = true;
     setTimeout(run, 300);
   });
 })();
+/* =========================================================
+   SAFE STEP 2C — Export Target Draft as Safe XLSX
+   - يصدّر Target Draft إلى ملف XLSX مستقل
+   - لا يلمس ملف السورس الأصلي
+   - لا يستخدم APP
+   - لا يحتاج npm ولا require
+========================================================= */
+(function () {
+  "use strict";
+
+  var HOST_ID = "cat-v47-cell-segment-pro-enhanced-host";
+  var BTN_ID = "catExportTargetDraftXlsxSafeBtn";
+
+  function getShadow() {
+    var host = document.getElementById(HOST_ID);
+    return host && host.shadowRoot ? host.shadowRoot : null;
+  }
+
+  function setStatus(sh, msg) {
+    var st = sh && sh.getElementById("status");
+    if (st) st.textContent = msg;
+  }
+
+  function enc(s) {
+    return new TextEncoder().encode(String(s || ""));
+  }
+
+  function escXml(s) {
+    return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;" }[c];
+    });
+  }
+
+  function col(n) {
+    var s = "";
+    while (n > 0) {
+      var m = (n - 1) % 26;
+      s = String.fromCharCode(65 + m) + s;
+      n = Math.floor((n - 1) / 26);
+    }
+    return s;
+  }
+
+  var CRC_TABLE = (function () {
+    var table = [];
+    for (var n = 0; n < 256; n++) {
+      var c = n;
+      for (var k = 0; k < 8; k++) {
+        c = (c & 1) ? (0xEDB88320 ^ (c >>> 1)) : (c >>> 1);
+      }
+      table[n] = c >>> 0;
+    }
+    return table;
+  })();
+
+  function crc32(data) {
+    var c = 0 ^ -1;
+    for (var i = 0; i < data.length; i++) {
+      c = (c >>> 8) ^ CRC_TABLE[(c ^ data[i]) & 0xFF];
+    }
+    return (c ^ -1) >>> 0;
+  }
+
+  function pushU16(arr, n) {
+    arr.push(n & 255, (n >>> 8) & 255);
+  }
+
+  function pushU32(arr, n) {
+    arr.push(n & 255, (n >>> 8) & 255, (n >>> 16) & 255, (n >>> 24) & 255);
+  }
+
+  function concat(chunks) {
+    var total = 0;
+    chunks.forEach(function (c) { total += c.length; });
+    var out = new Uint8Array(total);
+    var pos = 0;
+    chunks.forEach(function (c) {
+      out.set(c, pos);
+      pos += c.length;
+    });
+    return out;
+  }
+
+  function makeZip(entries) {
+    var localChunks = [];
+    var centralChunks = [];
+    var offset = 0;
+
+    entries.forEach(function (entry) {
+      var nameBytes = enc(entry.name);
+      var data = entry.data instanceof Uint8Array ? entry.data : enc(entry.data || "");
+      var crc = crc32(data);
+
+      var local = [];
+      pushU32(local, 0x04034b50);
+      pushU16(local, 20);
+      pushU16(local, 0);
+      pushU16(local, 0);
+      pushU16(local, 0);
+      pushU16(local, 0);
+      pushU32(local, crc);
+      pushU32(local, data.length);
+      pushU32(local, data.length);
+      pushU16(local, nameBytes.length);
+      pushU16(local, 0);
+
+      var localHeader = new Uint8Array(local);
+      localChunks.push(localHeader, nameBytes, data);
+
+      var central = [];
+      pushU32(central, 0x02014b50);
+      pushU16(central, 20);
+      pushU16(central, 20);
+      pushU16(central, 0);
+      pushU16(central, 0);
+      pushU16(central, 0);
+      pushU16(central, 0);
+      pushU32(central, crc);
+      pushU32(central, data.length);
+      pushU32(central, data.length);
+      pushU16(central, nameBytes.length);
+      pushU16(central, 0);
+      pushU16(central, 0);
+      pushU16(central, 0);
+      pushU16(central, 0);
+      pushU32(central, 0);
+      pushU32(central, offset);
+
+      centralChunks.push(new Uint8Array(central), nameBytes);
+      offset += localHeader.length + nameBytes.length + data.length;
+    });
+
+    var centralStart = offset;
+    var centralData = concat(centralChunks);
+    var end = [];
+    pushU32(end, 0x06054b50);
+    pushU16(end, 0);
+    pushU16(end, 0);
+    pushU16(end, entries.length);
+    pushU16(end, entries.length);
+    pushU32(end, centralData.length);
+    pushU32(end, centralStart);
+    pushU16(end, 0);
+
+    return concat(localChunks.concat([centralData, new Uint8Array(end)]));
+  }
+
+  function makeSheetXml(drafts) {
+    var rows = [];
+
+    rows.push(
+      '<row r="1">' +
+      '<c r="A1" t="inlineStr"><is><t>Target Draft</t></is></c>' +
+      '</row>'
+    );
+
+    drafts.forEach(function (text, i) {
+      var r = i + 2;
+      rows.push(
+        '<row r="' + r + '">' +
+        '<c r="A' + r + '" t="inlineStr"><is><t xml:space="preserve">' +
+        escXml(text) +
+        '</t></is></c>' +
+        '</row>'
+      );
+    });
+
+    return '<?xml version="1.0" encoding="UTF-8"?>' +
+      '<worksheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main">' +
+      '<dimension ref="A1:A' + Math.max(1, drafts.length + 1) + '"/>' +
+      '<sheetData>' + rows.join("") + '</sheetData>' +
+      '</worksheet>';
+  }
+
+  function makeXlsx(drafts) {
+    return makeZip([
+      {
+        name: "[Content_Types].xml",
+        data:
+          '<?xml version="1.0" encoding="UTF-8"?>' +
+          '<Types xmlns="http://schemas.openxmlformats.org/package/2006/content-types">' +
+          '<Default Extension="rels" ContentType="application/vnd.openxmlformats-package.relationships+xml"/>' +
+          '<Default Extension="xml" ContentType="application/xml"/>' +
+          '<Override PartName="/xl/workbook.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml"/>' +
+          '<Override PartName="/xl/worksheets/sheet1.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml"/>' +
+          '<Override PartName="/xl/styles.xml" ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.styles+xml"/>' +
+          '</Types>'
+      },
+      {
+        name: "_rels/.rels",
+        data:
+          '<?xml version="1.0" encoding="UTF-8"?>' +
+          '<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">' +
+          '<Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" Target="xl/workbook.xml"/>' +
+          '</Relationships>'
+      },
+      {
+        name: "xl/workbook.xml",
+        data:
+          '<?xml version="1.0" encoding="UTF-8"?>' +
+          '<workbook xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">' +
+          '<sheets><sheet name="Target Draft" sheetId="1" r:id="rId1"/></sheets>' +
+          '</workbook>'
+      },
+      {
+        name: "xl/_rels/workbook.xml.rels",
+        data:
+          '<?xml version="1.0" encoding="UTF-8"?>' +
+          '<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">' +
+          '<Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/worksheet" Target="worksheets/sheet1.xml"/>' +
+          '<Relationship Id="rId2" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml"/>' +
+          '</Relationships>'
+      },
+      {
+        name: "xl/worksheets/sheet1.xml",
+        data: makeSheetXml(drafts)
+      },
+      {
+        name: "xl/styles.xml",
+        data:
+          '<?xml version="1.0" encoding="UTF-8"?>' +
+          '<styleSheet xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main">' +
+          '<fonts count="1"><font><sz val="11"/><name val="Calibri"/></font></fonts>' +
+          '<fills count="1"><fill><patternFill patternType="none"/></fill></fills>' +
+          '<borders count="1"><border><left/><right/><top/><bottom/><diagonal/></border></borders>' +
+          '<cellStyleXfs count="1"><xf numFmtId="0" fontId="0" fillId="0" borderId="0"/></cellStyleXfs>' +
+          '<cellXfs count="1"><xf numFmtId="0" fontId="0" fillId="0" borderId="0" xfId="0"/></cellXfs>' +
+          '</styleSheet>'
+      }
+    ]);
+  }
+
+  function getDrafts(sh) {
+    return Array.prototype.slice.call(sh.querySelectorAll(".targetDraft")).map(function (ta) {
+      return String(ta.value || "");
+    });
+  }
+
+  function downloadXlsx(name, bytes) {
+    var blob = new Blob([bytes], {
+      type: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    });
+
+    var a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = name;
+    document.body.appendChild(a);
+    a.click();
+
+    setTimeout(function () {
+      try { URL.revokeObjectURL(a.href); } catch (e) {}
+      try { a.remove(); } catch (e2) {}
+    }, 1000);
+  }
+
+  function exportSafeXlsx(sh) {
+    var drafts = getDrafts(sh);
+
+    if (!drafts.length) {
+      alert("لا توجد Target Draft بعد.\nحلّل النص أولًا ثم جرّب التصدير.");
+      setStatus(sh, "لا توجد Target Draft بعد. حلّل النص أولًا.");
+      return;
+    }
+
+    var base = "target_draft";
+    if (window.__CAT_ORIGINAL_EXCEL__ && window.__CAT_ORIGINAL_EXCEL__.name) {
+      base = String(window.__CAT_ORIGINAL_EXCEL__.name).replace(/\.xlsx$/i, "");
+    }
+
+    var fileName = base + "_TARGET_DRAFT_SAFE.xlsx";
+    var bytes = makeXlsx(drafts);
+
+    downloadXlsx(fileName, bytes);
+
+    setStatus(sh, "تم تصدير Target Draft إلى XLSX مستقل: " + drafts.length + " مقطع.");
+  }
+
+  function installButton(sh) {
+    if (!sh || sh.getElementById(BTN_ID)) return;
+
+    var btn = document.createElement("button");
+    btn.id = BTN_ID;
+    btn.type = "button";
+    btn.textContent = "Target XLSX SAFE";
+    btn.title = "تصدير Target Draft إلى ملف XLSX مستقل";
+    btn.style.background = "#ecfdf5";
+    btn.style.color = "#047857";
+    btn.style.borderColor = "#bbf7d0";
+    btn.style.fontWeight = "900";
+    btn.style.width = "100%";
+    btn.style.minHeight = "38px";
+    btn.style.borderRadius = "11px";
+
+    btn.onclick = function () {
+      try {
+        exportSafeXlsx(sh);
+      } catch (e) {
+        setStatus(sh, "فشل تصدير XLSX الآمن: " + (e && e.message ? e.message : e));
+        alert("فشل تصدير XLSX الآمن:\n" + (e && e.message ? e.message : e));
+      }
+    };
+
+    var testBtn = sh.getElementById("catExcelSameSourceTestBtn");
+    if (testBtn && testBtn.parentNode) {
+      testBtn.insertAdjacentElement("afterend", btn);
+      return;
+    }
+
+    var grid = sh.querySelector("#catSecExport .catSideGrid");
+    if (grid) {
+      grid.appendChild(btn);
+      return;
+    }
+
+    var side = sh.querySelector(".side");
+    if (side) side.appendChild(btn);
+  }
+
+  function run() {
+    var tries = 0;
+    (function tick() {
+      var sh = getShadow();
+      if (sh) installButton(sh);
+      if (++tries < 120) setTimeout(tick, 150);
+    })();
+  }
+
+  run();
+
+  window.addEventListener("CAT_V47_PRO_OPEN", function () {
+    setTimeout(run, 300);
+  });
+})();
 })();   
