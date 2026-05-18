@@ -3600,5 +3600,144 @@ APP.__hardSourceClearPatchInstalled = true;
       })();
     }, 500);
   });
-})();   
+})();
+/* =========================================================
+   SAFE STEP 2B — Remember Original Excel File
+   - يسجل ملف Excel الأصلي عند Import Excel
+   - لا يصدّر
+   - لا يغيّر منطق المطابقة
+   - يحدّث زر Excel Same Source TEST ليعرض اسم الملف وحجمه
+========================================================= */
+(function () {
+  "use strict";
+
+  var HOST_ID = "cat-v47-cell-segment-pro-enhanced-host";
+  var BTN_ID = "catExcelSameSourceTestBtn";
+
+  window.__CAT_ORIGINAL_EXCEL__ = window.__CAT_ORIGINAL_EXCEL__ || null;
+
+  function getShadow() {
+    var host = document.getElementById(HOST_ID);
+    return host && host.shadowRoot ? host.shadowRoot : null;
+  }
+
+  function setStatus(sh, msg) {
+    var st = sh && sh.getElementById("status");
+    if (st) st.textContent = msg;
+  }
+
+  function formatSize(bytes) {
+    bytes = Number(bytes || 0);
+    if (bytes < 1024) return bytes + " B";
+    if (bytes < 1024 * 1024) return Math.round(bytes / 1024) + " KB";
+    return (bytes / 1024 / 1024).toFixed(2) + " MB";
+  }
+
+  async function rememberExcelFile(file, sh) {
+    if (!file) return;
+
+    if (!/\.xlsx$/i.test(file.name || "")) {
+      setStatus(sh, "صيغة XLSX فقط مدعومة في هذه المرحلة. احفظ الملف بصيغة .xlsx ثم أعد الاستيراد.");
+      return;
+    }
+
+    var buffer = await file.arrayBuffer();
+
+    window.__CAT_ORIGINAL_EXCEL__ = {
+      name: file.name || "source.xlsx",
+      size: file.size || 0,
+      type: file.type || "",
+      buffer: buffer,
+      savedAt: new Date().toISOString()
+    };
+
+    setStatus(
+      sh,
+      "تم تسجيل ملف Excel الأصلي: " +
+      window.__CAT_ORIGINAL_EXCEL__.name +
+      " — الحجم: " +
+      formatSize(window.__CAT_ORIGINAL_EXCEL__.size)
+    );
+  }
+
+  function bindExcelInput(sh) {
+    var input = sh && sh.getElementById("fileExcelTM");
+    if (!input || input.getAttribute("data-original-excel-bound")) return;
+
+    input.setAttribute("data-original-excel-bound", "1");
+
+    input.addEventListener("change", function () {
+      var file = input.files && input.files[0];
+      if (!file) return;
+
+      rememberExcelFile(file, sh).catch(function (e) {
+        setStatus(sh, "فشل تسجيل ملف Excel الأصلي: " + (e && e.message ? e.message : e));
+      });
+    }, true);
+  }
+
+  function upgradeTestButton(sh) {
+    var btn = sh && sh.getElementById(BTN_ID);
+    if (!btn || btn.getAttribute("data-excel-register-upgraded")) return;
+
+    btn.setAttribute("data-excel-register-upgraded", "1");
+
+    btn.onclick = function () {
+      var drafts = sh.querySelectorAll(".targetDraft");
+      var excel = window.__CAT_ORIGINAL_EXCEL__;
+
+      if (!excel) {
+        alert(
+          "زر Excel Same Source يعمل.\n" +
+          "لكن لم يتم تسجيل ملف Excel أصلي بعد.\n\n" +
+          "الخطوة المطلوبة:\n" +
+          "1. اضغط Import Excel\n" +
+          "2. اختر ملف .xlsx\n" +
+          "3. اضغط هذا الزر مرة أخرى"
+        );
+        setStatus(sh, "لم يتم تسجيل ملف Excel أصلي بعد.");
+        return;
+      }
+
+      alert(
+        "Excel الأصلي مسجّل بنجاح.\n" +
+        "File: " + excel.name + "\n" +
+        "Size: " + formatSize(excel.size) + "\n" +
+        "Target Draft count: " + drafts.length
+      );
+
+      setStatus(
+        sh,
+        "Excel الأصلي مسجّل: " +
+        excel.name +
+        " — Target Draft count: " +
+        drafts.length
+      );
+    };
+  }
+
+  function install() {
+    var sh = getShadow();
+    if (!sh) return false;
+
+    bindExcelInput(sh);
+    upgradeTestButton(sh);
+
+    return true;
+  }
+
+  function run() {
+    var tries = 0;
+    (function tick() {
+      install();
+      if (++tries < 120) setTimeout(tick, 150);
+    })();
+  }
+
+  run();
+
+  window.addEventListener("CAT_V47_PRO_OPEN", function () {
+    setTimeout(run, 300);
+  });
+})();
 })();   
