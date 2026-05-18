@@ -3201,8 +3201,13 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
    - يراقب زر X، والكتابة، والقص، والحذف اليدوي، وأي تغيير برمجي
 ========================================================= */
 (function installHardSourceClearPatch() {
-  if (APP.__hardSourceClearPatchInstalled) return;
-  APP.__hardSourceClearPatchInstalled = true;
+if (typeof APP === "undefined") {
+  console.warn("[CAT] HardSourceClearPatch skipped: APP is not in scope.");
+  return;
+}
+
+if (APP.__hardSourceClearPatchInstalled) return;
+APP.__hardSourceClearPatchInstalled = true;
 
   function sourceHasText(sh) {
     var src = sh && sh.getElementById("source");
@@ -3596,4 +3601,3 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     }, 500);
   });
 })();   
-})();
