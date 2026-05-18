@@ -3311,4 +3311,77 @@ ready(function(){setTimeout(function(){var h=document.getElementById(APP.hostId)
     window.addEventListener("CAT_V47_PRO_OPEN", run);
   });
 })();
+/* =========================================================
+   SAFE STEP 2A — Add Excel Same Source Test Button Only
+   - زر تجريبي فقط
+   - لا يصدّر
+   - لا يغيّر منطق المطابقة
+   - الهدف التأكد أن الزر يظهر بدون تعطيل الواجهة
+========================================================= */
+(function () {
+  "use strict";
+
+  var HOST_ID = "cat-v47-cell-segment-pro-enhanced-host";
+
+  function getShadow() {
+    var host = document.getElementById(HOST_ID);
+    return host && host.shadowRoot ? host.shadowRoot : null;
+  }
+
+  function setStatus(sh, msg) {
+    var st = sh && sh.getElementById("status");
+    if (st) st.textContent = msg;
+  }
+
+  function installTestButton(sh) {
+    if (!sh || sh.getElementById("catExcelSameSourceTestBtn")) return;
+
+    var btn = document.createElement("button");
+    btn.id = "catExcelSameSourceTestBtn";
+    btn.type = "button";
+    btn.textContent = "Excel Same Source TEST";
+    btn.title = "زر تجريبي قبل إضافة منطق التصدير الحقيقي";
+    btn.style.background = "#ecfdf5";
+    btn.style.color = "#047857";
+    btn.style.borderColor = "#bbf7d0";
+    btn.style.fontWeight = "900";
+
+    btn.onclick = function () {
+      var drafts = sh.querySelectorAll(".targetDraft");
+      setStatus(
+        sh,
+        "زر Excel Same Source يعمل. عدد Target Draft الحالي: " + drafts.length
+      );
+      alert("Excel Same Source TEST يعمل بنجاح.\nTarget Draft count: " + drafts.length);
+    };
+
+    var exportSec = sh.getElementById("catSecExport");
+    var grid = exportSec && exportSec.querySelector(".catSideGrid");
+
+    if (grid) {
+      grid.appendChild(btn);
+    } else {
+      var side = sh.querySelector(".side");
+      if (side) side.appendChild(btn);
+    }
+  }
+
+  function run() {
+    var tries = 0;
+    (function wait() {
+      var sh = getShadow();
+      if (sh && sh.getElementById("panel")) {
+        installTestButton(sh);
+        return;
+      }
+      if (++tries < 80) setTimeout(wait, 250);
+    })();
+  }
+
+  run();
+
+  window.addEventListener("CAT_V47_PRO_OPEN", function () {
+    setTimeout(run, 300);
+  });
+})();   
 })();
